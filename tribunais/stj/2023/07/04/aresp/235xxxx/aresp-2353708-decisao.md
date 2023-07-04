@@ -1,0 +1,119 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEX SANDRO MOLINOS FELTRIN, CELSO MOLINOS GOMES, MARIA ELENA MOLINOS GOMES, MIGUEL GUSTAVO SEIDL, NATHÁLIA MOLINOS GOMES, ORLANDO GOMES e RAFAEL MOLINOS GOMES (ALEX e outros) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 866/881).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a e c, da CF, ALEX e outros alegaram a violação dos seguintes dispositivos legais (1) art. 1.022 do NCPC, por reputarem omisso o aresto recorrido quanto às matérias objeto de irresignação especial; (2) art. 5º da LINDB, arts. 10 e 11 da LC 95/1998, art. 50 da Lei 8.171/91, art. 5º da Lei 9.138/1995, art. 6º, III e VIII, do CDC e art. 8º do NCPC, ao sustentarem que, na qualidade de produtores rurais e após terem preenchidos os requisitos legais, teriam direito à prorrogação/reprogramação do vencimento das parcelas das operações de custeio em razão da frustração de safras/receitas ocorridas, decretando o alongamento das parcelas vencidas e vincendas, declarando-se a inexigibilidade dos títulos bancários sub judice até novo vencimento, não sendo o caso de considerar que todos os contratos teriam já sido prorrogados, sob pena de interpretação meramente literal e descontextualizada das normas que integram o microssistema jurídico que rege o Direito Agrário; e (3) arts. 1º, 7º, 9º e 10 do NCPC, ao aduzirem que o TJRS atribuiu nova interpretação a item da Circular 46/2019 não argüida por qualquer das partes e da qual não teriam sido previamente intimadas a se manifestar em afronta aos Princípios da não surpresa e do Contraditório substancial.
+(1) Negativa de prestação jurisdicional
+ALEX e outros alegaram omissão do aresto recorrido quanto às matérias objeto de irresignação especial, em especial no pertinente à prorrogação do débito e ao reconhecimento de vulneração aos Princípios da não surpresa e do Contraditório substancial.
+Ao contrário do que afirmado nas razões do recurso especial, o TJRS foi claro e coerente ao se manifestar acerca das citadas questões e correspondentes regramentos.
+É possível extrair tais conclusões a partir da ementa do aresto recorrido e de trecho do acórdão que julgou os respectivos embargos de declaração. Confira-se:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DEALONGAMENTO DE DÍVIDA RURAL. CHAMAMENTO AO PROCESSO. BNDES. DESCABIMENTO. INCIDÊNCIA DO CDC. CIRCULAR BNDES46/2019. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS LEGAIS. REFORMA DA SENTENÇA.
+1. Do Chamamento ao processo. Hipótese em que não merece acolhimento o pedido para chamamento do BNDES no polo passivo da demanda, porquanto não se enquadra em nenhuma das hipóteses previstas no art. 130 do CPC, até porque inexiste relação contratual entre as partes e o BNDES.
+2. Da incidência do CDC. Caso em queo Código de Defesa do Consumidor - CDC) é aplicável aos contratos bancários, pois há uma prestação de serviços, estabelecendo-se uma relação de consumo entre a instituição financeira prestadora e o cliente consumidor.
+3. Do direito ao alongamento de dívida rural. Conforme definiu o STJ, nos termos do enunciado da Súmula 298, do STJ, "O alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas, direito do devedor nos termos da lei." Não obstante, a possibilidade de renegociação não decorre de forma automática, mostrando-se indispensável a comprovação do preenchimento de todos os requisitos previstos na norma regulamentadora, o que não restou demonstrado no caso concreto.
+RECURSO DE APELAÇÃO PROVIDO. (e-STJ, fl. 723).
+Saliente-se que não há falar que a decisão ora atacada afronta o princípio da não surpresa. A matéria devolvida para conhecimento deste Colegiado dizia exatamente a respeito da aplicação da Circular nº 46/2019-BNDES e do preenchimento dos seus pressupostos, constando da apelação item próprio assim indicado (evento 110, APELAÇÃO1):
+VII - DA IMPOSSIBILIDADE DE ADESÃO DAS OPERAÇÕES À CIRCULAR 46/2019 BNDES- AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS
+É bem verdade que refere o Banco em suas razões limitação temporal de créditos rurais sujeitos ao alongamento "somente as operações de custeio ou investimento, desde que contratadas até 28.12.2017", e não como consta da Circular.
+De toda sorte, a matéria, quanto ao preenchimento dos pressupostos da supracitada normativa foi inequivocadamente objeto de debate entre as partes, concluindo este Colegiado que razão assiste à instituição financeira no tocante à limitação temporal, compreendendo, contudo, período mais alargado, até 15/08/2019.
+Aliás, o próprio apelado, ora embargante, ao sustentar a possibilidade de adesão à Circular 46/2019, refere a tese que ora repisa em embargos (evento 134, CONTRAZAP1), a saber:
+"O Apelante alega, em síntese, que para adesão a linha Circular nº 46/2019 do BNDES devem ser preenchidos requisitos subjetivos, a critério da instituição, e que somente podem ser prorrogados operações contratadas até 28/12/2017.
+Equivoca-se o Banco ao apontar a data de preclusão das operações, alegando que seria até 28/12/2017. Nesse ponto, a Circular nº 46/2019 do BNDES é clara ao prever que, no item 4.4, podem ser objeto de composição ou renegociação dívidas contraídas ou operações de crédito contratadas até 15/08/2019, in verbis:
+4.4. Não poderão ser abrangidas no âmbito da composição ou renegociação de dívidas de que trata o presente Programa dívidas contraídas ou operações de crédito contratadas após 15.08.2019.
+Nesse ponto, reiteram os Apelados que todas as operações estão devidamente enquadradas.
+Com relação à prorrogação da prorrogação de operações, a Circular nº 46/2019 é expressa, ao prever a possibilidade de inclusão dessas dívidas nos moldes do alongamento subsidiado pelo Governo Federal, in verbis:
+4.1. Modalidade Produtores Rurais
+Liquidação das seguintes dívidas cujos recursos tenham sido utilizados na produção, observado o disposto no item 4.3:
+4.1.1. Operações de crédito rural de custeio ou investimento, inclusive aquelas prorrogadas por autorização do Conselho Monetário Nacional (CMN);
+4.3. O saldo devedor das operações de que tratam os itens 4.1 e 4.2 corresponderá à soma das parcelas vencidas e vincendas das operações de crédito/dívidas objeto da composição, atualizadas pelos encargos contratuais de normalidade até a data da contratação da operação de composição.
+Na verdade, a referida normativa veio exatamente para suprir a demanda dos produtores que, comprovadamente, tiveram perdas econômicas na sua atividade, como é o caso dos Apelados. Logo, as operações já prorrogadas também podem ser incluídas no alongamento previsto na Circular nº 46/2019 do BNDES."
+Como se vê, houve é o desacolhimento da tese do apelado/embargante, com relação à não incidência do limite temporal à prorrogação da prorrogação.
+Ou seja, embora a normativa possa ser aplicada a alongamentos já realizados, dando ensejo a novas avenças, a conclusão é a de que tal possibilidade não afasta a necessidade de observância do marco temporal ali estabelecido.
+Ainda, constou expressamente do julgado que "a incapacidade de pagamento e a frustração de safra alegadas pela parte autora foram consideradas já à época das renegociações efetivadas, de modo que apenas fatos supervenientes poderiam dar azo a novo alongamento dadívida."
+Também não há falar em interpretação literal, quando, em verdade, analisado o sistema, quanto mais que efetivada pela parte apelada a prorrogação da sua dívida, buscando em Juízo a aplicação de outra que entende mais vantajosa, tendo o limite temporal o condão de evitar negociação de dívida recém negociada.
+De outro lado, no que diz respeito à referencia no aresto à pretensão de renegociar as dívidas originais, apenas o fez para reforçar o que está claro nos autos, de que a pretensão era prolongar o prolongamento, esse realizado após a data estabelecida.
+Registre-se que o acórdão não nega nem o direito ao alongamento de dívidas, tampouco a possibilidade de alongar dívida já prolongada, senão que direciona para aquelas que preenchem os requisitos estabelecidos.
+Veja-se que, restou consignado na decisão colegiada que "que a concessão do alongamento da dívida não é automática, devendo a parte requerente preencher os requisitos estabelecidos em lei, bem como aqueles exigidos pelo Manual de Crédito Rural". (e-STJ, fls. 773/774).
+Dessa forma, tem-se que o TJPR decidiu a lide de forma fundamentada e coerente.
+(3) Da alegada afronta ao contraditório e à negativa de surpresa
+No que se refere à alegação de que o TJRS atribuiu nova interpretação a item da Circular 46/2019 não argüida por qualquer das partes e da qual não teriam sido previamente intimadas a se manifestar em afronta aos Princípios da não surpresa e do Contraditório substancial, extrai-se das citadas transcrições que o aresto impugnado apontou a expressa menção pelos ora recorrentes nas contrarrazões ao apelo do BANCO DO BRASIL S/A à questão de fundo - possibilidade de novo alongamento de dívida após o prazo previsto na Circular 46/2019 - BNDES (e-STJ, fls. 773/774).
+Ressalta-se, que não há ofensa ao princípio da não-surpresa e ao contraditório se o Tribunal dá classificação jurídica aos fatos controvertidos contrários à pretensão da parte com aplicação da lei aos fatos narrados nos autos.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA DE VIOLAÇÃO. CONCLUSÃO DO ACÓRDÃO RECORRIDO. DECORRÊNCIA DIRETA DA ANÁLISE DA CAUSA DE PEDIR E DO PEDIDO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação ajuizada em 4/4/2016. Recurso especial interposto em 6/3/2019. Autos conclusos ao gabinete da Relatora em 28/4/2021.
+2. O propósito recursal consiste em definir se o acórdão impugnado, ao reconhecer, em julgamento de apelação, a impossibilidade jurídica do pedido deduzido pelo recorrente, violou o princípio da não surpresa.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício (art. 10 do CPC/15).
+5. O princípio da não surpresa, constante no art. 10 do CPC/2015, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados. Precedente.
+6. Hipótese concreta em que a conclusão alcançada pelo acórdão recorrido - no que concerne à impossibilidade jurídica do pedido - decorreu exclusivamente da análise da causa de pedir e do pedido constantes da petição inicial, caracterizando-se como desdobramento natural da demanda instaurada, não havendo falar em afronta ao princípio da não surpresa.
+7. Descabe falar em decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide. Precedentes.
+8. No que concerne à alegada violação dos arts. 141 e 1.013, § 1º, do CPC/15, verifica-se que o conteúdo normativo de tais dispositivos não foi objeto de deliberação quando do julgamento da apelação interposta pelo recorrente, tampouco dos subsequentes embargos de declaração. Aplicação da Súmula 211/STJ.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp n. 1.957.652/SP, relatora Ministra Nancy Andrighi, Terceira Turma, j. 15/2/2022, DJe de 18/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO. SERVIÇO DE TELEFONIA. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - ART. 10 DO CPC. NÃO OCORRÊNCIA. CONDENAÇÃO DA PARTE REQUERIDA EM HONORÁRIOS ADVOCATÍCIOS A FAVOR DO MINISTÉRIO PÚBLICO. DESCABIMENTO.
+1. "Não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação". (AgInt no AREsp 1587128/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+2. Na linha dos precedentes desta Corte, o Ministério Público não faz jus ao recebimento de honorários advocatícios sucumbenciais quando vencedor na ação civil pública por ele proposta. (..)." (REsp 1358057/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/05/2018, DJe 25/06/2018)
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.889.349/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, j. 16/11/2021, DJe de 19/11/2021.)
+(2) Do alongamento das dívidas
+ALEX e outros defendem que, na qualidade de produtores rurais e após terem preenchidos os requisitos legais, teriam direito à prorrogação/reprogramação do vencimento das parcelas das operações de custeio em razão da frustração de safras/receitas ocorridas, decretando o alongamento das parcelas vencidas e vincendas, declarando-se a inexigibilidade dos títulos bancários sub judice até novo vencimento, não sendo o caso de considerar que todos os contratos teriam já sido prorrogados, sob pena de interpretação meramente literal e descontextualizada das normas que integram o microssistema jurídico que rege o Direito Agrário.
+A questão foi assim analisada na origem:
+DO ALONGAMENTO DE DÍVIDA RURAL.
+A prorrogação de dívida decorrente de crédito rural está sumulada pelo verbete nº 298 do STJ, in verbis:
+"O alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas, direito do devedor nos termos da lei."
+Ressalto, contudo, que a concessão do alongamento da dívida não é automática, devendo a parte requerente preencher os requisitos estabelecidos em lei, bem como aqueles exigidos pelo Manual de Crédito Rural, in verbis:
+"(..) 4 - Fica a instituição financeira autorizada a prorrogar a dívida, aos mesmos encargos financeiros pactuados no instrumento de crédito, desde que o mutuário comprove a dificuldade temporária para reembolso do crédito em razão de uma ou mais entre as situações abaixo, e que a instituição financeira ateste a necessidade de prorrogação e demonstre a capacidade de pagamento do mutuário: (Res CMN 4.883 art 1º; Res CMN 4.905 art 1º)
+a) dificuldade de comercialização dos produtos; (Res CMN 4.883 art 1º)
+b) frustração de safras, por fatores adversos; (Res CMN 4.883 art 1º)
+c) eventuais ocorrências prejudiciais ao desenvolvimento das explorações. (Res CMN 4.883 art 1º)
+5 - O disposto no item 4: (Res CMN 4.883 art 1º)
+a) é aplicável aos financiamentos contratados com equalização de encargos financeiros pelo Tesouro Nacional (TN), desde que as operações sejam previamente reclassificadas, pela instituição financeira, para recursos obrigatórios ou outra fonte não equalizável;
+b) não é aplicável:
+I - aos créditos de comercialização sujeitos a normas próprias aplicáveis à Política de Garantia de Preços Mínimos (PGPM);
+II - aos financiamentos com recursos de fundos e programas de fomento, que estão sujeitos a normas próprias."
+(..)
+Do mesmo modo, a Circular nº 46/2019 - BNDES, que estabelece o Programa BNDES para Composição de Dívidas Rurais, cujo objetivo é a concessão de crédito, a critério da Instituição Financeira Credenciada, para liquidação integral ou renegociação de dívidas de produtores rurais ou suas cooperativas de produção, por meio de composição de dívidas, prevê, no item 3, quem pode ser beneficiário do alongamento:
+3. BENEFICIÁRIAS FINAIS
+3.1. Modalidade Produtores Rurais: Produtores rurais (pessoas naturais ou jurídicas) ou suas cooperativas de produção, desde que:
+3.1.1. Residentes e domiciliados no Brasil, no caso de pessoas naturais, ou com sede e administração no Brasil, no caso de pessoas jurídicas, inclusive cooperativas;
+3.1.2. Comprovem incapacidade de pagamento em consequência de dificuldade de comercialização dos produtos, frustração de safras por fatores adversos, e eventuais ocorrências prejudiciais ao desenvolvimento das explorações; e
+3.1.3. Demonstrem a viabilidade econômica das atividades desenvolvidas na propriedade e capacidade de pagamento da operação de composição.
+No caso, analisando os autos de origem, verifica-se que a parte autora pretende oalongamento de dívida das seguintes operações:
+Ordem
+Anexo
+Nome do mutuário:Data inicial
+contratação
+Operação de
+origem Nº:
+Última cédula
+bancária Nº:
+Taxa utilizada no
+alongamento:
+002_AMiguel Gustavo Seidl24/07/201540/04517-X494.803.84511,35%  correção002_BRafael Molinos Gomes30/07/201540/04531-5494.803.77011,35%  correção002_CMaria Elena Molinos Gomes29/09/201540/04584-6494.803.76411,35%  correção002_DAlex Sandro Molinos Feltrin10/12/201540/04646-X494.803.84711,35%  correção002_ENathália Molinos Gomes10/12/201540/04645-X494.803.76611,35%  correção002_FMiguel Gustavo Seidl11/12/201540/04648-6494.803.76811,35%  correção002_GMaria Elena Molinos Gomes11/12/201540/04651-6494.803.86811,35%  correção002_HRafael Molinos Gomes14/12/201540/04655-9494.803.76711,35%  correção002_IMiguel Gustavo Seidl25/01/201640/04677-X494.803.76911,35%  correção002_JNathália Molinos Gomes25/01/201640/04678-8494.803.85211,35%  correção002_KOrlando Gomes27/06/201840/05280-X494.803.76511,35%  correção002_LMiguel Gustavo Seidl19/01/201840/05167-622/96598-X11,35%  correção002_MMiguel Gustavo Seidl25/05/201840/05256-722/96597-111,35%  correção002_NOrlando Gomes12/09/201440/04188-322/96592-011,35%  correção002_OCelso Molinos Gomes24/09/201440/04198-022/96593-011,35%  correção
+Ocorre que, conforme se verifica dos documentos que aparelham a petição inicial, tais contratos já foram objeto de alongamento, dando origem a novas operações, todas firmadas no período de 10/09/2019 a 14/11/2019.
+Essas novas operações, de sua vez, não podem ser alongadas com esteio na Circular BNDES 46/2019, como pretende a parte autora, tendo em vista que firmadas após 15/08/2019, havendo vedação expressa no item 4.4 da normativa, que assim dispõe: "Não poderão ser abrangidas no âmbito da composição ou renegociação de dívidas de que trata o presente Programa dívidas contraídas ou operações de crédito contratadas após 15.08.2019".
+Registra-se, ademais, que a incapacidade de pagamento e a frustração de safra alegadas pela parte autora foram consideradas já à época das renegociações efetivadas, de modo que apenas fatos supervenientes poderiam dar azo a novo alongamento da dívida.
+De anotar, por outro turno, que não há falar em alongamento das contratações originárias através da Circular BNDES 46/2019, porquanto devidamente renegociadas, inexistindo pleito relacionado à anulação das avenças firmadas no ano de 2019, algumas delas inclusive quando já vigente a Circular BNDES 46/2019, sequer deduzida tese de anulabilidade e ausente indicação de que não foram, à época, benéficos os acordos, mostrando-se insuficiente a mera alegação de que sobreveio modalidade de alongamento com taxa de juros inferior e maior prazo de carência.
+Logo, não demonstrado o preenchimento dos requisitos para concessão doalongamento pretendido, vai provido o recurso, no ponto, reformando a sentença prolatada naorigem. (e-STJ, fls. 715/716 e 717/718).
+Assim, rever as conclusões quanto à ausência de preenchimento dos requisitos para a prorrogação das dívidas demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISIONAL. CÉDULA DE CRÉDITO RURAL. CDC. MULTA MORATÓRIA. CAPITALIZAÇÃO MENSAL DE JUROS. CORREÇÃO MONETÁRIA. ENCARGOS MORATÓRIOS. PRORROGAÇÃO DA DÍVIDA. SUCUMBÊNCIA MÍNIMA.
+1. O entendimento da Corte local de que se tratando de relação de insumo é inaplicável o CDC está em conformidade com a jurisprudência do STJ.
+2. Considerando a inaplicabilidade do CDC no presente caso, consequentemente deve ser mantida a multa moratória contratada.
+3. Possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+4. Rever o acórdão recorrido e acolher a pretensão recursal quanto à alegada hipossuficiência e vulnerabilidade dos recorrentes e ausência de pactuação expressa de capitalização de juros demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, o que é vedado nesta via especial ante os óbices das Súmulas 5 e 7 do STJ.
+5. Nas razões do presente agravo interno, os agravantes não indicaram as premissas fáticas do acórdão recorrido que supostamente permitiriam conclusão jurídica diversa da adotada pelo Tribunal de origem, limitando-se a alegar, genericamente, que não seria necessário o reexame de provas.
+6. A Taxa Referencial (TR) pode ser aplicada como indexador da correção monetária nos contratos posteriores à Lei 8.177/91, desde que pactuada. Incidência da Súmula 83 do STJ.
+7. No tocante ao dissídio sobre a inoponibilidade dos encargos moratórios, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+8. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+9. Quanto às alegações de preenchimento dos requisitos para a prorrogação da dívida e de sucumbência mínima, o acolhimento da pretensão recursal demandaria o revolvimento de matéria eminentemente fática, o que é inviável ante o óbice da Súmula 7 do STJ.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.365.244/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, j. 23/2/2021, DJe de 2/3/2021.)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE PRORROGAÇÃO DE DÉBITO AGRÁRIO. (1) SUPOSTA DEFICIÊNCIA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HIGIDEZ DO ACÓRDÃO RECORRIDO. (3) ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA NEGATIVA DE SURPRESA. ARESTO QUE APONTOU A EXPRESSA MENÇÃO EM CONTRARRAZÕES AO APELO EM RELAÇÃO À MATÉRIA DE FUNDO. ATRIBUIÇÃO DE NOVA CLASSIFICAÇÃO JURÍDICA AOS FATOS CONTROVERTIDOS. NEGATIVA DE AFRONTA AOS CITADOS PRECEITOS. (3) ALONGAMENTO DE DÍVIDA RURAL. ARESTO RECORRIDO CONCLUIU QUE OS CONTRATOS OBJETO DA DEMANDA FORAM PREVIAMENTE PROLONGADOS E QUE HÁ LIMITAÇÃO TEMPORAL PARA AUTORIZAR NOVAMENTE TAL PRETENSÃO. REANÁLISE DA CONCLUSÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. ÓBICE DAS SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
