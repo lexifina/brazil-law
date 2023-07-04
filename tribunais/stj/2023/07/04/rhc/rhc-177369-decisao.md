@@ -1,0 +1,9 @@
+DECISÃO
+GUSTAVO APARECIDO COLOMBARI MENDES e MATHEUS GONCALVES NUNES alegam sofrer coação ilegal pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2283218-39.2022.8.26.0000).
+Nesta Corte, requer a defesa o trancamento da demanda, que atribui aos denunciados o crime do art. 273, § 1º-B, I, c/c o art. 14, II, ambos do Código Penal.
+Sustenta que a conduta imputada aos pacientes é atípica. Aduz que as substâncias foram adquiridas, uma única vez, para consumo próprio. Ressalta que não cabe aos acusados a "prova negativa" de que os produtos "não seriam vendidos ou entregues a terceiros" (fl. 279). Salienta que a hipótese é de crime impossível, uma vez que os agentes policiais, cientes da compra do material, antes da chegada à agência dos Correios, impediram a posse dos insumos pelos investigados. Sublinha que as mercadorias, "ainda que aparentemente de procedência estrangeira, foram adquirid a s em te rritório nacional, através da empresa Land Brasil" (fl. 280).
+Opinou o Parquet Federal pela denegação da ordem.
+Decido.
+Em consulta ao sítio eletrônico do Tribunal a quo, verificou o gabinete que se "SUSPEND EU , pelo prazo de DOIS ANOS, com fundamento no § 1º, do artigo 89 da Lei 9.099/95, o processo movido contra MATHEUS GONCALVES NUNES e GUSTAVO APARECIDO COLOMBARI MENDES, submetendo-os durante o período da suspensão do processo, às seguintes condições: II - Não frequentar bares após às 22:00 horas, e casas de tolerância em nenhum horário, III - Proibição de ausentar-se da comarca onde reside, por mais de 08 (oito) dias, sem autorização do Juiz, e IV - Comparecimento pessoal e obrigatório a Juízo, bimestralmente, para informar e justificar suas atividades,  ..  saindo advertidos das consequências do não cumprimento das condições impostas nesta audiência" (DJe 19/4/2023, grifei).
+À vista do exposto, julgo prejudicado o recurso, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
