@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SUPERNOVA TECNOLOGIA DA INFORMACAO LTDA e OUTROS em face da decisão de fls. 524/525, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Ao não conhecer do Agravo em Recurso Especial dos ora Embargantes por entender que não foram demonstrados os dispositivos infraconstitucionais que teriam sido violados pelo acórdão recorrido, a r. decisão omitiu com relação ao fato de que os dispositivos legais tidos por violados pelo acórdão recorrido foram devidamente evidenciados na peça recursal dos Embargantes.
+Neste sentido, cumpre-se registrar que da mais singela leitura das razões recursais do Recuso Especial, é possível notar que todos os dispositivos tidos por violados foram expressamente evidenciados na peça recursal, veja os excertos abaixo:
+ ..
+Eis, aqui, as violações à legislação federal cometidas pelo acórdão recorrido, as quais foram desconsideradas pela decisão ora embargada, e que compõem o objeto do Recurso Especial que se entrega à análise do E. Superior Tribunal de Justiça.
+A escusável omissão que se suscita nesta oportunidade, portanto, decorre do fato de que, as violações perpetradas no caso concreto de fato foram demonstradas na peça recursal e devidamente indicada a sua disposição legal, ao contrário do que constou na r. decisão embargada.
+ ..
+Em complemento, cumpre destacar que o inciso II, do parágrafo único, do artigo 1.022, do CPC, vai além e considera omissa a decisão que incorra em qualquer uma das condutas descritas no artigo 489, § 1º, do mesmo diploma legal, no sentido de não se considerar fundamentada a decisão que, entre outras hipóteses, não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador (inciso IV do artigo 489 do CPC).
+Sendo assim, ao deixar de observar a expressa evidenciação na peça recursal de todos os dispositivos tidos por violados a r. decisão embargada, com a devida vênia, incorreu em omissão nos exatos termos do artigo 1.022, inciso II, parágrafo único, inciso II e do artigo 489, § 1º, inciso IV, ambos do Código de Processo Civil (fls. 531/532).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera indicação genérica de lei federal, sem particularizar seus dispositivos.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente violação de lei federal, sem, contudo, apontar especificamente qual artigo considerava violado.
+Outrossim, ao contrário do alegado, apesar de constar na petição do recurso especial a menção a alguns artigos, a parte embargante deixou de apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
