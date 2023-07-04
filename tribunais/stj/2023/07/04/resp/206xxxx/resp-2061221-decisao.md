@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ, fl. 584):
+RECURSO AGRAVO DE INSTRUMENTO ACIDENTE DE TRANSITO ATROPELAMENTO DE MENOR IMPÚBERE POR ÔNIBUS - AÇÃO DE REPARAÇÃO DE DANOS FASE DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA PENSIONAMENTO CONSTITUIÇÃO DE CAPITAL. Atropelamento de menor impúbere por ônibus de transporte público. Condenação da concessionária de serviços públicos com imposição de pensionamento mensal. Imposição de obrigação à executada de constituição de capital apto a garantir a satisfação das pensões vincendas. Insurgência recursal visando a inscrição da vítima em folha de pagamento. Alegação de possível risco à atividade empresária pela constituição da garantida. Descabimento. Incidência da Súmula n. 313 do Superior Tribunal de Justiça que dispõe: "Em ação de indenização, procedente o pedido, é necessária a constituição de capital ou caução fidejussória para a garantia de pagamento da pensão, independentemente da situação financeira do demandado". Ademais, a arguição da executada, no sentido de que a constituição de capita poderá impedir o desempenho de sua atividade empresária, que impõe a constituição da garantia, face à fragilidade econômico-financeira anunciada. Decisão mantida. Recurso de agravo de instrumento não provido.
+Os embargos de declaração opostos ao aresto foram rejeitados (e-STJ, fls. 592/594 e 607/612).
+Nas razões do especial (e-STJ, fls. 617/627), a recorrente indica violação do art. 533, § 2º, do CPC/2015. Pretende a reforma da decisão que lhe impôs a constituição de capital para garantia de cumprimento da obrigação pecuniária - pensão por ato ilícito -, afirmando tratar-se de empresa com notória capacidade econômica.
+Contrarrazões às fls. 632/638 (e-STJ).
+Juízo positivo de admissibilidade na origem (e-STJ, fls. 645/646).
+É o relatório.
+Decido.
+O TJSP destacou a frágil condição financeira da recorrente, que participa de conglomerado empresarial no qual diversas empresas encontram-se em procedimento de recuperação judicial (e-STJ, fl. 587):
+(..) o pedido de liberação da constituição de capital formulado pela executada não deve colher, ainda mais quando ela própria afirma que a obrigação poderá lhe levar à insolvência, a indicar sua fragilidade econômico-financeira que poderá colocar em risco a garantia do pensionamento se o exequente for inscrito em sua folha de pagamento.
+Demais a mais, há notícias de que a executada pertence a conglomerado econômico do qual fazem parte diversas empresas em recuperação judicial, a impor ainda mais cautela no caso; mormente considerando se tratar de concessionária de serviço público que poderá ter a sua receita totalmente suprimida em caso de resolução da concessão, o que não incomum no setor de transporte público de passageiros.
+Destarte, o pedido de liberação da obrigação de constituição de capital não pode ser acolhido, valendo lembrar, ainda, ter sido imposto no título executivo transitado em julgado.
+Nesse contexto, o reconhecimento da alegada pujança econômica da recorrente exigiria incursão sobre elementos fático-probatório dos autos, vedada na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
