@@ -1,0 +1,27 @@
+DECISÃO
+MAGNO AUGUSTO RAMOS DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500039-15.2021.8.26.0574).
+Consta dos autos que o réu foi condenado, pela prática do delito previsto no art. 28 da Lei n. 11.343/2006, à pena de 5 meses de prestação de serviços à comunidade.
+Nas razões do recurso especial, a defesa aponta violação e interpretação divergente do art. 387, § 2º, do Código de Processo Penal, sob a tese de que o tempo de prisão provisória não foi considerado pelas instâncias originárias ao fixar a pena restritiva de direitos.
+Requer, assim, o provimento do recurso para que o juízo de origem analise a detração e a aplique ao caso concreto.
+O Tribunal de origem decidiu pela admissibilidade do recurso quanto a alínea "a" do permissivo constitucional, mas inadmitiu quanto a alínea "c" (fl. 1.249).
+O Ministério Público Federal manifestou-se pelo não conhecimento do especial e, no mérito, por seu desprovimento (fls. 537-538).
+Decido.
+I. Conhecimento parcial do recurso
+Inicialmente, observo que, em relação à alegada interpretação divergente do art. 387, § 2º, do CPP, não foi comprovado o dissídio jurisprudencial, uma vez que a parte não realizou, de forma satisfatória, o cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração da similitude fática e a identidade jurídica entre o acórdão recorrido e o paradigma indicado, bem como das adequadas transcrição e identificação do julgado citado.
+Isso atrai, portanto, a incidência da Súmula n. 284 do STF, aplicada por analogia ao recurso especial: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Logo, o recurso especial é conhecido apenas em relação à alínea "a" do art. 105 da Constituição Federal, quanto à apontada negativa de vigência ao art. 387, § 2º, do CPP.
+II. Negativa de vigência ao art. 387, § 2º, do CPP.
+Ao tratar da detração, o Tribunal de origem assim consignou (fl. 482, grifei):
+Justifica-se a manutenção da pena de prestação de serviços à comunidade pelo prazo de 05 meses, nos termos definidos pelo MM. Juízo a quo, na medida em que o réu possui maus antecedentes e parece não ter assimilado a terapêutica da pena anterior permanecendo com sua conduta criminosa.
+A detração deverá ser pleiteada ao juízo da execução, que dispõe de mais informações para a análise da questão, sendo o caso de se negar provimento ao apelo do réu que limitou seu recurso a tal questão.
+Nos termos do art. 387, § 2º, do Código de Processo Penal, modificado pela Lei n. 12.736/2012, o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade, o que não se confunde com progressão de regime.
+Exemplificativamente:
+ ..  A previsão inserida no § 2º do art. 387 do Código de Processo Penal não se refere à verificação dos requisitos para a progressão de regime, instituto que se restringe à execução penal, mas à possibilidade de o Juízo de 1º Grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração. Assim, cabe ao sentenciante descontar da pena aplicada ao réu o período em que fora mantido em prisão provisória. Realizada tal operação, observados os parâmetros do art. 33, § 2º, do Código Penal e as circunstâncias do art. 59 do Código Penal, é possível ao juiz alterar o regime, aplicando modalidade menos gravosa  ..  (HC n. 382.692/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/2/2017)
+ ..  É certo que o § 2º do art. 387 do Código de Processo Penal - CPP, acrescentado pela Lei n. 12.736/2012, determina que o tempo de segregação cautelar deve ser considerado na pena imposta, para o estabelecimento do regime prisional fixado pela sentença condenatória, não se confundindo como instituto da progressão de regime, próprio da execução penal.  ..  (HC n. 368.485/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 28/10/2016)
+Ainda de acordo com a jurisprudência deste Superior Tribunal, a verificação da ocorrência de detração penal, em sentença proferida após a vigência da Lei n. 12.736/2012, como no caso dos autos, é matéria afeta ao Juiz sentenciante.
+Ademais:
+"ao final da dosimetria da pena, o juiz deve descontar da pena privativa de liberdade imposta ao condenado o período de prisão provisória, de prisão administrativa ou de internação. Se, com o tempo descontado, à luz do art. 33, § 2º, do Código Penal, for possível a alteração do regime, poderá o juiz estabelecer novo regime inicial de cumprimento, se as circunstâncias do art. 59 do Código Penal assim recomendarem" (HC n. 307.521/SP, Rel. Ministro Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), 5ª T., DJe 3/12/2014).
+Assim, verifico o constrangimento ilegal apontado, uma vez que as instâncias originárias fixaram a pena restritiva de direitos, sem, contudo, realizar o desconto do período que o recorrente ficou preso provisoriamente.
+III. Dispositivo
+À vista do exposto, conheço parcialmente do recurso e, nessa extensão dou provimento ao especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que aplique a detração penal.
+Publique-se e intimem-se.
