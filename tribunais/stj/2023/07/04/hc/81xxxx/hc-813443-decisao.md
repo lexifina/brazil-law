@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em razão do acórdão exarado no HC n. 2034897-20.2023.8.26.0000, em que se req uer a revogação da prisão preventiva, perdeu o seu objeto diante da supe rveniente alteração fático-processual de Everton Pedro Oliveira Goncalves.
+De acordo com a s informações obtidas na página eletrônica do Tribunal de origem, nos autos da Ação Penal n. 1500244-82.2023.8.26.0571, da 2ª Vara Criminal da comarca da Tatuí/SP, sobreveio a prolação de sentença de pronúncia em 16/6/2023.
+Na oportunidade, o paciente foi pronunciado como incurso no art. 121, § 2º, incisos II (motivo fútil) e IV (recurso que dificultou a defesa da vítima), c/c art. 14, II, ambos do CP, e negado o direito de recorrer em liberdade, tendo o Magistrado de origem agrega do novo fundamento ao decreto prisional, diferente dos constantes das fls. 44/47 destes autos.
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação - tendo sido acentuado o requisito da garantia da ordem pública, emergida a ponderação de garantia da segurança da própria vítima, pois, inobstante a primariedade, envolvido em grave crime contra a vida do padrasto, o qual nesta audiência salientou que os desentendimentos e a demonstração de agressividade da parte dele eram frequentes, daí o receio com a sua soltura, além da cautela de se assegurar a eventual aplicação da lei penal e a regularidade da instrução na segunda etapa, uma vez que poderão vítima e testemunhas civis serem chamadas a depor novamente em plenário, o que deve se fazer de forma tranquila -, cujo requisito específico desafia impugnação própria no Tribunal de origem.
+Nesse sentido, os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Tal o contexto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. DIREITO DE RECORRER EM LIBERDADE N EGADO. NO VO TÍTULO JUDICIAL. ACRÉSCIMO DE FUNDAMENTO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Writ prejudicado.
