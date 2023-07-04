@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MAIS ADMINISTRADORA DE BENS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PENHORA  - PRETENSÃO DE ATINGIR CRÉDITO DO DEVEDOR PERANTE TERCEIRO ESTRANHO À LIDE  - INDEFERIMENTO  - DECISÃO CORRETA  - AUSÊNCIA DE PROVAS PARA EMBASAR PEDIDO DE APLICAÇÃO DOS ARTIGOS 655, XI E 659, § IO, DO CPC - RECURSO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 672, § 2º, e 673 do Código de Processo Civil de 1973, no que concerne à a sub-rogação do Recorrente (exequente) no crédito que os recorridos (executados) possuem em face de terceiro, com a consequente adoção de medidas para perseguir o crédito, trazendo a seguinte argumentação:
+15. O v. acórdão estadual entendeu ser inviável a sub-rogação do Recorrente (exequente) no crédito que os Recorridos (executados) possuem em face de terceiro (Construarc), com a consequente adoção de medidas para perseguir o crédito (penhora on line).
+ ..
+17. Considerando que não foram apresentados embargos de terceiro, visto que a empresa devedora quedou-se inerte, como aduzido no tópico inicial - muito embora a empresa devedora tenha sido devidamente intimada da penhora -, está mais que evidente a subsunção do fato à hipótese do artigo, sendo claro que o Recorrente sub-rogou-se nos direitos do Recorrido Miguel Sergio Mauad, por força do artigo 673 do CPC/73. (fl. 685)
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+É certo que o artigo 655, XI, do CPC permite a penhora de "outros direitos", dentre os quais, como citado por Theotonio Negrão:"crédito do devedor em face do credor, v. nota 5b; s/ penhora de direitos do devedor fiduciante, v. art. 649, nota 12; s/ penhora de créditos e outros direitos patrimoniais, v. arts. 671 a 676 (..)" (Código de Processo Civil e Legislação Processual em Vigor, 2013, p. 843, nota15c).
+Também não há dúvidas que o artigo 659, § 1º, do mesmo Codex dispõe que: "Efetuar-se-á a penhora onde quer que se encontrem os bens, ainda que sob a posse, detenção ou guarda de terceiros."
+No caso dos autos, todavia, incabível a aplicação dos citados dispositivos legais, tendo em vista que não há qualquer documentação a dar suporte às alegações da agravante.
+Observe-se que o d. Magistrado indeferiu o pedido de penhora deixando claro:
+"Indefiro o pedido, pois não é a terceira empresa parte no processo e a exequente não se sub-rogou nos direitos creditórios em questão, não podendo executá-los diretamente ."
+De fato, é esse o quadro dos autos, valendo observar que o agravante não anexou um só documento a fim de alterar o quadro apresentado em Primeiro Grau e, assim sendo, nada existe para ser reparado na r. decisão agravada. (fls. 527-528, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
