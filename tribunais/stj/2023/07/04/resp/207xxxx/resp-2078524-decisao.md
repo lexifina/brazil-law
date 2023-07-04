@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISLEY DONIZETTI DEARO PERAL e MARCELA FERREIRA PERAL, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, em apelação, assim ementado (fl. 270):
+ESTATUTO DA TERRA LEI Nº 4.504/64 DIREITODE PREFERÊNCIA DECADÊNCIA VERIFICADA - São dois os prazos decadenciais, previstos no Estatuto da Terra (Lei nº 4.504/64) sobre o exercício do direito de preferência (ou preempção): (I) o primeiro prazo é de 30 (trinta) dias e se aplica quando o arrendatário foi devidamente notificado para exercer o seu direito de preferência, caso em que o termo inicial será a data da ciência (artigo 92, §3º); (ii) o segundo prazo é de 6 (seis)meses e se aplica quando o arrendatário não for notificados obre a venda, caso em que o termo inicial será a data da transcrição do ato de alienação no Registro de Imóveis (artigo 92, §4º) - É incontroverso que os autores, arrendatários do bem, não foram notificados sobre a vendado imóvel rural, o que atrai a aplicação do disposto no artigo92, §4º, do Estatuto da Terra, isto é, os autores tinham até 6 (seis) meses após o registro da alienação para ajuizar a ação competente para fazerem valer o direito do qual alegam terem sido preteridos, porém não o fizeram - Sentença mantida - Recurso improvido.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, a violação do art. 92, §§ 2º e 3º, da Lei n. 4.504/1964, alegando a nulidade do negócio jurídico celebrado.
+Sustenta a não observância do direito de preferência.
+Aduz que celebrou com a parte recorrida, no primeiro semestre de 2013, contrato de arredamento rural de forma verbal, porém não houve a notificação sobre a alienação do imóvel.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ de que não se faz necessário o registro do contrato de arrendamento na matrícula do imóvel arrendado para o exercício do direito de preferência.
+Requer o conhecimento e o provimento do recurso.
+Não foram apresentadas as contrarrazões (fl. 311), e o recurso especial foi admitido na origem (fls. 312-314).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 272-273):
+É incontroverso que os autores, arrendatários do bem, não foram notificados sobre a venda do imóvel rural, o que atrai a aplicação do disposto no artigo 92, §4º, do Estatuto da Terra, isto é, os autores tinham até 6 (seis) meses após o registro da alienação para ajuizar a ação competente para fazerem valer o direito do qual alegam terem sido preteridos, porém não o fizeram.
+Como bem ponderou o juízo "a quo" (fls. 231/235):
+"O registro da alienação, conforme documento juntado pelos autores deu-se em 14.11.2014. A ação foi proposta em 17.12.2021,ou seja, 07 anos e 01 mês após o registro da alienação, isto é, 79 meses após esgotados os 06 meses estabelecido pela legislação Estatuto da Terra.
+Em que pese a natureza e os princípios de proteção do trabalhador rural, certo é que não há razoabilidade, considerando a necessidade de compatibilizar os princípios constitucionais, especialmente aqueles relativos a segurança jurídica, que fomentam os fenômenos da prescrição e decadência, em se permitir o ajuizamento da ação após longos anos do registro do ato e, também, do conhecimento confessado pelos autores da existência do negócio.
+Conforme se extrai dos autos da execução - proc. 1002735-75.2016, desde 22.10.2019 fls. 453/454 (dos autos mencionados), os autores, já tinham efetivo conhecimento da alienação do imóvel à requerida Terezinha, o que reforça o entendimento de que há muito transcorrido o prazo decadencial, ainda que se desconsidere o termo legal do registro da alienação.
+A proteção legal estabelecida em favor do arrendatário, não foi exercitada no tempo devido e não há qualquer razão para se admitir o alargamento do prazo legal".
+Em relação à violação do art. 92, §§ 2º e 3º, da Lei n. 4.504/1964, considerando os trechos do acórdão ora transcritos, verifica-se que o Tribunal local, instância soberana na análise das provas, concluiu pelo não reconhecimento do direito de preferência dos recorrentes.
+No caso, consignou que "os autores, já tinham efetivo conhecimento da alienação do imóvel à requerida Terezinha, o que reforça o entendimento de que há muito transcorrido o prazo decadencial, ainda que se desconsidere o termo legal do registro da alienação" (fl. 273).
+Desse modo, para adotar conclusões diversas das que foram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial, em face do óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PREFERÊNCIA. IMÓVEL EM CONDOMÍNIO. DIVISÃO DE FATO. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 7 E 83/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.586.890/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/8/2021, DJe de 12/8/2021.)
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre à parte recorrente, pois a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+Nesse sentido: AgInt no AREsp 1401433/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/02/2020, DJe 13/02/2020 e AgInt no AREsp n. 1.704.998/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/5/2021, DJe de 7/5/2021.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
