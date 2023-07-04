@@ -1,0 +1,1 @@
+Art. 1º-A. O Julho Amarelo incluirá ainda a iluminação de prédios públicos com luzes de cor amarela, a promoção de palestras e atividades educativas, a veiculação de campanhas de mídia e a realização de eventos.
