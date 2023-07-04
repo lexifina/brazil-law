@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE JUNDIAI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - ISS - SENTENÇA QUE JULGOU EXTINTA A EXECUÇÃO FISCAL - NULIDADE DA NOTIFICAÇÃO POR EDITAL - REALIZADA APENAS UMA TENTATIVA DE NOTIFICAÇÃO POSTAL E I CADA ENDEREÇO CONHECIDO DO EXECUTADO, NÃO RESTOU DEMONSTRADA A IMPOSSIBILIDADE DE NOTIFICAÇÃO POR TAL MEIO - NÃO PREENCHIDOS OS REQUISITOS DO ART. 40. INC. VI. DA LEI COMPLEMENTAR  460/08 (CÓDIGO TRIBUTÁRIO MUNICIPAL) - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 23, II e § 1º, do Decreto n. 70.235/1972, no que concerne reconhecimento da validade da notificação editalícia, trazendo a seguinte argumentação:
+Assim, decidiu-se que a notificação foi indevida e anulada o lançamento.
+Com a devida vênia, tal entendimento não deve prosperar. Assim vejamos:
+Saliente-se que a notificação por carta, com aviso de recebimento, sem a necessidade de carta em mão própria, é uma forma de dar cumprimento ao artigo 37, da Constituição Federal, visto que dá publicidade ao fato, é mais rápido e eficiente (fls. 326).
+Ademais, a nova legislação e interpretação que deve ser dada está em consonância com a legislação federal. Observemos o que traz o artigo 23, inc. II, § 1º do Decreto Federal nº. 70.235, de 6 de março de 1972, que rege o processo administrativo de determinação e exigência dos créditos tributários da União e o de consulta sobre a aplicação da legislação tributária federal (fls. 326).
+Note-se que processo administrativo federal traz procedimento que ao qual deve ser dada a mesma interpretação da legislação Municipal.
+Insta salientar que a notificação foi enviada 02 (duas) vezes ao domicílio dos recorridos sem sucesso, razão pela qual a notificação deve ser considerada válida pelo Princípio da Razoabilidade, pois caso contrário o processo administrativo nunca alcançaria seu objetivo (fls. 327).
+Ademais, em momento algum a lei menciona o aguardo do AR ou faz menção a necessidade de recepção da carta pelo próprio executado, ou seja, basta que a carta seja enviada no endereço por ele informado (fls. 327).
+Portanto, os recorridos foram devidamente notificados, não havendo se falar em nulidades do título ou do lançamento (fls. 329).
+Como visto, no r. acórdão recorrido, os Magistrados entenderam que o recorrido não foi devidamente notificado no processo administrativo, visto que as tentativas de notificação por AR foram insuficientes para fundamentar a utilização da modalidade editalícia (fls. 326).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
