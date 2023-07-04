@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de LUIZ GERALDO FERREIRA DE BRITO e NEUZA MARIA PERRONE BRITO contra decisão de inadmissão do recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 489/490):
+AGRAVO INTERNO. APELAÇÃO EM EMBARGOS À EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO DO FEITO NA PESSOA DOS SÓCIOS E DIRIGENTES. INCLUSÃO NO POLO PASSIVO. PRESSUPOSTOS ATENDIDOS. PRESCRIÇÃO INOCORRENTE NA HIPÓTESE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A questão relativa à inclusão do sócio -gerente no poio passivo da execução fiscal enseja controvérsias e as diferenciadas situações que o caso concreto apresenta devem ser consideradas para sua adequada apreciação.
+2. Segundo o art. 135, inciso III do CTN, os sócios, diretores, gerentes e representantes das pessoas jurídicas são pessoalmente responsáveis pelas obrigações tributárias resultantes de atos praticados com excesso de poderes ou infrações da lei, contrato social ou estatutos.
+3. Não tendo a empresa devedora prestado informações à repartição pública competente no sentido de manter seu assentamento devidamente atualizado, visto não ter sido encontrada no endereço indicado como de sua sede, afigura-se legitima a desconsideração da personalidade da pessoa jurídica e a inclusão de seu representante legal no poio passivo da execução, sendo irrelevante que conste da CDA o nome do sócio. Precedentes.
+4. No caso vertente, a análise dos autos revela que a execução fiscal foi ajuizada em 16/02/1999, sendo a empresa citada em 05/07/2000 mediante carta com aviso de recepção. Contudo, quando do cumprimento de mandado de constatação, reavaliação e reforço de penhora de bens da empresa executada, o Sr. Oficial de Justiça certificou em 05/07/2010 que a empresa executada não foi encontrada no endereço constante de seus dados cadastrais, sendo seu paradeiro desconhecido, o que evidencia a sua dissolução irregular.
+5. Ante a certidão negativa emitida pelo Sr. Oficial de Justiça, o procurador fazendário tomou ciência da dissolução irregular da empresa executada em 30/07/2010, e requereu o redirecionamento da execução fiscal em face dos sócios em 11/02/2011.
+6. Considerando-se que não restou caracterizada a inércia da exequente e que esta somente tomou conhecimento da inatividade da empresa em julho de 2010, não restou configurada a ocorrência de prescrição intercorrente em relação à pretensão do redirecionamento da demanda para os sócios/corresponsáveis.
+7. As questões manifestadas pela agravante foram devidamente dirimidas, consoante a r. decisão supramencionada. No mais, os argumentos desenvolvidos pela agravante não são suficientes para alterar a fundamentação supramencionada. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+8. Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 505/515).
+Em suas razões (e-STJ fls. 517/548), os recorrentes sustentam violação dos arts. 11, 489, § 1º, IV, 1.022, I e II, do CPC/2015, 135 e 174 do CTN e 8º, § 2º, da Lei n. 6.830/1980.
+Aduzem que "não restou observado no v. Acórdão recorrido, a inexistência de documentos que comprovem a ocorrência dos requisitos do artigo 135, inciso III, do Código Tributário Nacional, e, ainda, que há bens garantindo à execução, o que, por si só, demonstra a impossibilidade de redirecionamento, devendo prosseguir em nome da Empresa Executada" (e-STJ fls. 524/525).
+No que diz com a prescrição, asseveram que "a prescrição intercorrente se configura quanto entre a citação da empresa Executada e o redirecionamento do executivo fiscal aos sócios decorre mais de 5 (cinco anos, independente dos motivos da demora. Dessa feita, considerando que a citação da empresa Executada ocorreu em 10/maio/2000 e o redirecionamento foi realizado somente em 26/julho/2011, notória a ocorrênc ia da prescrição" (e-STJ fl. 525).
+Contrarrazões às e-STJ fls. 564/567.
+A Corte regional negou seguimento ao recurso especial no tocante ao tema (prescrição para o redirecionamento) e o inadmitiu quanto à questão remanescente (redirecionamento pela dissolução irregular) (e-STJ fls. 569/575).
+Seguiu-se a interposição de agravo interno, improvido (e-STJ fls. 652/661).
+Passo a decidir.
+Tendo em vista a negativa de seguimento do recurso quanto à questão da prescrição, aprecio somente o apelo referente ao redirecionamento da execução, pela dissolução irregular da empresa.
+O aludido tema foi julgado pela Primeira Seção pela sistemática dos recursos repetitivos, firmando-se a orientação segundo a qual " o redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, não pode ser autorizado contra o sócio ou o terceiro não sócio que, embora exercesse poderes de gerência ao tempo do fato gerador, sem incorrer em prática de atos com excesso de poderes ou infração à lei, ao contrato social ou aos estatutos, dela regularmente se retirou e não deu causa à sua posterior dissolução irregular, conforme art. 135, III, do CTN" (Tema 962 do STJ).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais
+fundados em controvérsia idêntica àquela já submetida ao rito de
+julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida busca evitar eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art.
+1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
