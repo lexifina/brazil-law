@@ -28,7 +28,12 @@ XXVI - fazer falsa prova de qualquer dos requisitos para inscrição na OAB;
 XXVII - tornar-se moralmente inidôneo para o exercício da advocacia;
 XXVIII - praticar crime infamante;
 XXIX - praticar, o estagiário, ato excedente de sua habilitação.
-Parágrafo único Inclui-se na conduta incompatível:
+XXX - praticar assédio moral, assédio sexual ou discriminação.
+§ 1º Inclui-se na conduta incompatível:
 a) prática reiterada de jogo de azar, não autorizado por lei;
 b) incontinência pública e escandalosa;
 c) embriaguez ou toxicomania habituais.
+§ 2º Para os fins desta Lei, considera-se:
+I - assédio moral: a conduta praticada no exercício profissional ou em razão dele, por meio da repetição deliberada de gestos, palavras faladas ou escritas ou comportamentos que exponham o estagiário, o advogado ou qualquer outro profissional que esteja prestando seus serviços a situações humilhantes e constrangedoras, capazes de lhes causar ofensa à personalidade, à dignidade e à integridade psíquica ou física, com o objetivo de excluí-los das suas funções ou de desestabilizá-los emocionalmente, deteriorando o ambiente profissional;
+II - assédio sexual: a conduta de conotação sexual praticada no exercício profissional ou em razão dele, manifestada fisicamente ou por palavras, gestos ou outros meios, proposta ou imposta à pessoa contra sua vontade, causando-lhe constrangimento e violando a sua liberdade sexual;
+III - discriminação: a conduta comissiva ou omissiva que dispense tratamento constrangedor ou humilhante a pessoa ou grupo de pessoas, em razão de sua deficiência, pertença a determinada raça, cor ou sexo, procedência nacional ou regional, origem étnica, condição de gestante, lactante ou nutriz, faixa etária, religião ou outro fator.
