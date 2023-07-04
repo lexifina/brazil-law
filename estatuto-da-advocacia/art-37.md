@@ -1,5 +1,5 @@
 Art. 37. A suspensão é aplicável nos casos de:
-I - infrações definidas nos incisos XVII a XXV do art. 34;
+I - infrações definidas nos incisos XVII a XXV e XXX do caput do art. 34 desta Lei;
 II - reincidência em infração disciplinar.
 § 1º A suspensão acarreta ao infrator a interdição do exercício profissional, em todo o território nacional, pelo prazo de trinta dias a doze meses, de acordo com os critérios de individualização previstos neste capítulo.
 § 2º Nas hipóteses dos incisos XXI e XXIII do art. 34, a suspensão perdura até que satisfaça integralmente a dívida, inclusive com correção monetária.
