@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HYUNDAI CAOA DO BRASIL LTDA. e outros contra decisão de minha lavra, proferida às e-STJ fls. 791/793, em que, após reconsiderar e tornar sem efeitos a anterior decisão proferida, determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para aguardar o julgamento pelo STJ do Tema 1.191 (necessidade de observância, ou não, do que dispõe o art. 166 do CTN nas situações em que se pleiteia a restituição/compensação de valores pagos a maior a título de ICMS no regime de substituição tributária para frente quando a base de cálculo efetiva da operação for inferior à presumida ).
+A parte embargante aponta omissão "quanto à ausência de prejudicialidade entre a questão submetida a julgamento no Tema Repetitivo nº 1.191/STJ e as demais pretensões suscitadas pela Embargante em seu Recurso Especial" (e-STJ fl. 799).
+Alega que (e-STJ fls. 799):
+Conforme orienta o artigo 1.037, § 9º, do CPC, quando houver distinções entre as questões tratadas no processo e aquela a ser julgada no Recurso Especial ou Extraordinário afetado, o caso em exame poderá ser regularmente julgado em relação às questões que não dependam da solução paradigma, aplicando-lhes o julgamento parcial de mérito, nos termos do artigo 356 do CPC.
+No caso dos autos, as Embargantes ajuizaram a ação originária a fim de obter a reconhecimento do direito à restituição da diferença do ICMS-ST em razão da realização de venda em valor inferior à base de cálculo presumida, tanto em relação aos últimos cinco anos que antecederam o ajuizamento da ação quanto para as operações futuras.
+A pretensão formulada em caráter principal pelas Embargantes nestes autos representa controvérsia já decidida pelo STF de modo favorável aos contribuintes no julgamento do Tema 201 da Repercussão Geral.
+Eventual sobrestamento integral dos autos, e não somente do capítulo afeto ao Tema Repetitivo nº 1.191, implicaria negar às Embargantes o direito de aproveitar decisão cuja controvérsia já lhe foi assegurada pelo próprio STF, sob a perspectiva constitucional,
+Impugnação às e-STJ fls. 811/813.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+In casu, não ocorreu nenhuma dessas situações.
+Consoante o assentado na decisão embargada, o STJ decidiu afetou à sistemática dos recursos repetitivos os REsps 2.034.975/MG, 2.034.977/MG e 2.035.550/MG - Tema 1.191 do STJ.
+Ficou esclarecido na decisão embargada que esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, sendo certo que, após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal Superior, a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Portanto, sem razão a alegação de que houve omissão, estando claro na decisão que as demais questões somente serão analisadas após o devido juízo de conformação pela Corte de origem, e caso não fique essa questão prejudicada ante a aplicação do art. 1.040 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
