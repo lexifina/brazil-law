@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Fazenda do Estado de São Paulo contra decisão de fls. 2.392/2.395, por meio da qual conheceu do recurso especial e, aplicando o direito à espécie (art. 1.034 do CPC e/e 255, § 5ª, do RISTJ), cassou o acórdão recorrido por error in procedendo, determinando, em conseqüência, o retorno dos autos à Corte de origem para que, no juízo de retratação a que alude o art. 1.030, II, do CPC, para que decida em co nformidade com a diretriz firmada no repetitivo consubstanciado nos seguintes recursos especiais: REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e REsp 1.906.618/SP (Tema 1076/STJ).
+Sustenta a parte embargante que "Tendo em vista que o recurso já foi encaminhado uma vez ao Tribunal "aquo" e já foi mantido o posicionamento do Tribunal de Justiça do Estado de São Paulo, há, aparentemente, um equívoco em se enviar novamente o recurso para análise nos termos do art. 1.030, II, do CPC" (fl. 2.403).
+Impugnação apresentada (fls. 2.414/2.416).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Convém destacar que a decisão foi clara no sentido de que não há lugar, pois, para a manutenção do acórdão recorrido, uma vez que inexiste qualquer peculiaridade ou distinção a excepcionar a aplicação do posicionamento consolidado nesta Corte Superior.
+Por fim, a existência de julgados do STF aplicando tese diversa, sem estarem afetados ao rito da repercussão geral, não tem o condão de desconstituir o que decidido pelo STJ em precedente vinculante para as instâncias ordinárias, conforme previsão contida no art. 927, III, do CPC
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
