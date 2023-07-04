@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ, fls. 347):
+"APELAÇÃO CRIMINAL. CRIME DE HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ART. 302, CAPUT, DA LEI N. 9.503/97). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. DOSIMETRIA DA PENA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS. IRRESIGNAÇÃO EM RELAÇÃO À PRESTAÇÃO PECUNIÁRIA. ALEGADA AUSÊNCIA DE CONDIÇÕES ECONÔMICAS PARA ARCAR COM A RESPONSABILIDADE IMPOSTA. VALOR FIXADO CORRESPONDENTE A 8 (OITO) SALÁRIOS MÍNIMOS. DECISÃO DESARRAZOADA. MINORAÇÃO DEVIDA. PEDIDO DE REDUÇÃO DA PENA DE SUSPENSÃO DO DIREITO DE DIRIGIR AO PATAMAR MÍNIMO LEGAL. ACOLHIMENTO. SANÇÃO QUE DECORRE DO TEXTO DE LEI E DEVE SER APLICADA EM COMPASSO COM A REPRIMENDA CORPORAL IMPOSTA. PROPORCIONALIDADE NÃO RESPEITADA. AJUSTE NECESSÁRIO.
+Nos termos do art. 293, caput, do CTB, nos crimes de trânsito a penalidade da suspensão da habilitação para dirigir veículo motor terá duração entre 2 (dois) meses e 5 (cinco) anos, sendo que, para sua fixação, deve ser observada uma proporção com a reprimenda aplicada, tal como a pena de multa prevista Código Penal."(TJSC, Apelação Criminal n. 0000569-21.2017.8.24.0144, de Rio do Oeste, rel. Luiz Antônio Zanini Fornerolli, Quarta Câmara Criminal, j. 7-5-2020). RECURSO CONHECIDO E PROVIDO."
+Foram opostos embargos de declaração, os quais foram conhecidos e rejeitados (e-STJ, fls. 377-379).
+Em suas razões recursais, a parte recorrente aponta violação do art. 293, caput, do Código de Trânsito Brasileiro (CTB). Aduz para tanto, em síntese, que acórdão recorrido violou o dispositivo supracitado ao aplicar a pena de suspensão da habilitação em montante não suficiente para a prevenção e repressão dos ilícitos, uma vez que desconsiderou a gravidade dos fatos (homicídio culposo e lesão corporal) e o grau de censurabilidade do agente. Por fim, requer a reforma do acórdão recorrido com o consequente restabelecimento da sanção acessória aplicada por parte da sentença condenatória.
+Com contrarrazões (e-STJ, fls. 423-427), o recurso especial foi admitido na origem (e-STJ, fls. 430-434).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 455-457).
+É o relatório.
+Decido.
+A irresignação não prospera.
+Com efeito, o entendimento jurisprudencial referenciado pelo recorrente já se encontra superado por este STJ. Atualmente, a orientação que predomina em nossa jurisprudência é a de que a suspensão do direito de dirigir prevista no art. 293 do CTB não se confunde com a pena privativa de liberdade, tampouco com as sanções substitutivas do art. 43 do CP.
+Por isso, a fixação do período de sua duração deve ser feita pelo juiz de acordo com as peculiaridades do caso concreto, não se balizando necessariamente pelos mesmos critérios de dosimetria da pena corporal previstos no art. 59 do CP. Eis o teor do acórdão recorrido no ponto (e-STJ, fls. 349-350):
+" ..  Ademais, sorte assiste à defesa quanto ao pleito de redução da pena de suspensão do direito de se obter permissão ou habilitação para dirigir veículo automotor.
+De acordo com a regra contida no art. 293 do CTB, dita penalidade deve ter duração de 2 (dois) meses a 5 (cinco) anos, e deve guardar proporcionalidade com a reprimenda corporal imposta, regra não observada na sentença, visto que a suspensão foi fixada em 1 (um) ano e 6 (seis) meses, enquanto a pena de suspensão fora arbitrada em 2 (dois) anos de detenção.  ..
+Portanto, merece guarida o recurso interposto pela defesa de Thiago Gilson de Freitas para reduzir a pena substitutiva de prestação pecuniária para o mínimo legal de 1 (um) salário mínimo, bem como a pena de suspensão do direito de dirigir para 2 (dois) meses.  .. "
+Confiram-se, a propósito, os julgados a seguir:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. REDUÇÃO AO PRAZO MÍNIMO PREVISTO NO ART. 293 DO CTB. IMPOSSIBILIDADE. MAIOR REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pena de proibição de dirigir veículo automotor não se confunde com as penas substitutivas à privativa de liberdade estabelecidas no Código Penal. Ademais, a jurisprudência desta Corte Superior se firmou no sentido de que a norma não estabelece os critérios a fim de fixar o lapso com objetivo de suspender a habilitação para dirigir, devendo o juiz estabelecer o prazo de duração da medida considerando as peculiaridades do caso concreto, tais como a gravidade do delito e o grau de censura do agente, não ficando adstrito à análise das circunstâncias judiciais do
+art. 59 do Código Penal (AgRg no REsp n. 1.663.593/SC, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 20/6/2017, DJe 26/6/2017).
+ ..
+3. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 1709618/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/11/2020, DJe 16/11/2020)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. DOSIMETRIA. SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. PRAZO DA PENA ACESSÓRIA DEVIDAMENTE JUSTIFICADO. RAZOABILIDADE E PROPORCIONALIDADE. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. WRIT NÃO CONHECIDO.
+ ..
+3. Para fins de aplicação da pena acessória, compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, definir, respeitando os princípios da razoabilidade e da proporcionalidade, o período adequado a cada hipótese, de suspensão ou de proibição de se obter a permissão ou a habilitação para dirigir veículo automotor. Neste contexto, devem ser considerados, além da quantidade da pena corporal aplicada ao réu, o grau de censura da conduta praticada, baseada em sua gravidade concreta.
+ ..
+5. Writ não conhecido".
+(HC 471.160/MG, de minha relatoria, QUINTA TURMA, julgado em 22/10/2019, DJe 30/10/2019)
+Assim, o acórdão recorrido está em sintonia com a jurisprudência deste STJ, não merecendo reforma.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intime-se.
