@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça peruana (Tribunal Superior de Justiça de Madre de Dois - Tribunal Misto de Inapari) solicita a intimação de PEDRO PEREIRA LOPEZ para tomar ciência de decisão que remarcou a audiência para leitura de sentença, designando-a para a data de 10 de julho de 2023, às 10h, a ser realizada naquela localidade (fls. 9-11).
+Adverte a justiça rogante que a leitura da sentença é ato único e inadiável, será realizada com aqueles que estiverem presentes, devendo a parte acusada designar e comparecer com seu advogado de defesa. Caso se mantenha inerte, um defensor público assumirá o múnus (fl. 11).
+Foi concedido o exequatur, com aplicação do contraditório diferido (fls. 23-24) e remetidos os autos à Seção Judiciária do Estado do Acre. Em documento datado de 9/6/2023, encaminhado a esta Corte via e-mail, a justiça federal salientou estar envidando esforços para localização de outros endereços do interessado (fls. 34-35).
+Na data de 12/6/2023, o mesmo órgão solicita que esta Corte se manifeste "quanto ao interesse na continuidade das diligências em andamento para conhecimento de possíveis outros endereços do Senhor Pedro Pereira Lopez" (fl. 39).
+Com a conclusão dos autos a este gabinete, constatou-se ainda ser possível exaurir o cumprimento da medida, uma vez que a justiça rogada sinalizara essa possibilidade. Os autos retornaram à Seção Judiciária do Estado do Acre.
+Na data de 30/6/2023, retornaram informações prestadas nestes termos:
+"(..) em resposta ao ofício 002429/2023-CPRE, datado de 29.06.2023, informo que foram expedidos ofícios com o objetivo de obter informações quanto a possíveis endereços do Senhor, bem como foram reiterados os pedidos (cópias anexas), até a presente data não obtivemos quaisquer respostas das empresas consultadas.
+Em razão da urgência de cumprimento, e ainda, caso obtenhamos novos endereços, ainda assim, demandará um lapso de tempo para cumprimento da diligência, solicito informar do interesse em continuarmos no aguardo de respostas ou devolução da carta rogatória em tela, sem cumprimento" (fl. 56).
+Diante disso, a despeito do esforço para a localização da parte interessada, verifica-se que as diligências não foram frutíferas, razão pela qual determino a devolução da comissão, sem cumprimento, ao Juízo rogante, com urgência, por intermédio da autoridade central, nos termos do art. 216-X, do RISTJ.
+Em tempo, oficie-se à Seção Federal Judiciária do Estado do Acre a fim de informar o encerramento da comissão.
+Publique-se.
