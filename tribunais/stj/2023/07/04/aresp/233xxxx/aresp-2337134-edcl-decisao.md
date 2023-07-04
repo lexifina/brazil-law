@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GERALDA DE SOUZA GONCALVES à decisão de fls. 944/945, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Em que pese o entendimento exarado pela Eminente Presidente do STJ, esta incorreu em omissão quanto a forma em ocorreu a intimação da parte autora, ora embargante, que deve ser aclarada, visando uma efetiva prestação jurisdicional.
+Conforme dispõe o artigo 5º, da Lei 14.419/2006, as intimações das partes que se cadastrarem na forma do artigo 2º da Lei 1 , deverá ser feita em até 10 dias corridos contados da data do envio da intimação e, caso a intimação não seja aberta pela parte, o sistema computa automaticamente a ciência da intimação, senão vejamos: (fl. 950).
+ ..
+Como cediço o patrono da parte autora é devidamente cadastrado e habilitado no Sistema de Processos Judiciais nos termos do art. 2º, da Lei 14.419/2006.
+ ..
+No caso da embargante, entretanto, a intimação não ocorreu desta forma, tendo em vista que o prazo de 10 dias corridos não foi respeitado pelo sistema, sendo que apena dois dias após a inclusão da intimação no sistema, a intimação foi automaticamente aberta pelo sistema, vejamos: (fl. 951).
+ ..
+Note que a intimação foi incluída nos sistemas no dia 01/06/2022 as 10:28:02 e o sistema registrou ciência AUTOMATICAMENTE no dia 03/06/2022 as 00:00:00, portanto, é evidente que o prazo de 10 dias corridos para que a parte tome ciência da intimação, mais o prazo de 15 dias para interposição do recurso não foram respeitados, mesmo que conste o regramento expresso em Lei.
+Ou seja, uma vez respeitado o direito da embargante acerca do prazo de 10 dias corridos para ciência da intimação (art. 5º, § 3º, da Lei 14.419/2006), mais os 15 dias úteis para a interposição do recurso (art. 1.003, caput e § 5º, CPC), contados a partir da inclusão da intimação no sistema (01/06/2022), desconsiderando todos os feriados locais, em especial o feriado de Corpus Christi (17/06/2022), o prazo da embargante se encerrou somente em 04/07/2022.
+ ..
+Tanto é verdade que até mesmo a secretaria certificou não só a tempestividade do recurso, como também a suspensão dos prazos processuais nos dias 16 e 17/junho de 2022, nos termos da Portaria 1121/2021-PRES, conforme faz prova o id. 133315660: (fl. 952).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que não há que se falar em falha no sistema de publicações/intimações, uma vez que a intimação do acórdão recorrido ocorreu por meio de Diário de Justiça eletrônico (DJe), em 3/6/2022, conforme consta à fl. 808.
+No caso, não tendo ocorrido a intimação eletrônica, considera-se válida a publicação no Diário de Justiça Eletrônico.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. VALIDADE DA INTIMAÇÃO REALIZADA VIA DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTES.
+1. No caso, a decisão de inadmissibilidade foi publicada, no Diário de Justiça eletrônico, em 18/8/2020 - na vigência do CPC/2015 -, sendo o agravo em recurso especial interposto somente em 15/9/2020, após o transcurso do prazo recursal de quinze dias úteis. Não foi realizada a intimação via portal eletrônico.
+2. De acordo com a orientação fixada em atual precedente da Corte Especial (EAREsp n. 1.663.952/RJ, relator Ministro Raul Araújo, julgado em 19/5/2021, DJe 9/6/2021), "a Lei n. 11.419/2006 prevê dois tipos de intimações criados para atender a evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais".
+3. Ambas as formas de intimação descritas são igualmente aptas a ensejar a válida intimação das partes e de seus advogados.
+4. Logo, na hipótese, a intimação realizada por meio do Diário de Justiça é plenamente válida, não havendo que se cogitar de ausência de intimação, conforme alega a agravante.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.783.625/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 6/9/2022.)
+Ademais, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Além disso, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt no AREsp 2017110/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/03/2022; AgInt no AREsp 1734860/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/02/2022; e o AgInt no AREsp 1931827/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 02/12/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
