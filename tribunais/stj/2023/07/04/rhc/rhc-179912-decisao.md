@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RENAN BRUNALDI, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de roubo majorado , na modalidade tentada.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 100-109.
+No presente recurso ordinário, o recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera, neste sentido, que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, e que a decisão foi baseada em presunções, conjecturas e elementares do próprio tipo penal.
+Sustenta a inépcia da denúncia em razão de considerar que a capitulação foi equivocada e reforça que possuiria condições pessoais favoráveis.
+Requer, ao final, a revogação da prisão preventiva, sem prejuízo da imposição de medidas cautelares diversas, e o trancamento da ação penal.
+A liminar foi indeferida e as informações foram prestadas às fls. 152-184.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos de parecer de fls. 186-190.
+É o relatório.
+Decido.
+No que tange à alegada inépcia da denúncia, o recurso ordinário não comporta conhecimento. Isso porque, do exame do acórdão reprochado, tem-se que a matéria ora suscitada sequer foi analisada pelo Tribunal a quo, nos autos do HC n. 0008429-32.2023.8.16.0000, objeto do presente recurso, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+A segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma pela qual o delito foi em tese praticado, com premeditação, no qual o recorrente, em concurso com outros dois agentes, no intuito de subtrair os bens das vítimas efetuou contra elas disparos de arma de fogo, fugindo em seguida do local dos fatos, o que revela a gravidade concreta da conduta e justifica a imposição da medida extrema.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg nos EDcl no RHC n. 172.836/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no RHC n. 178.042/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023; AgRg no HC n. 797.201/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023.
+Deve-se ressaltar, ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, com fulcro no art. 34, inciso inciso XVIII, alíneas "a" e "b" do RISTJ, conheço em parte do recurso ordinário e na parte conhecida nego-lhe provimento.
+P. e I.
