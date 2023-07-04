@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário interposto contra acórdão do Tribunal de Justiça da Bahia assim ementado (fl. 295):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. PETIÇÃO INICIAL INDEFERIDA. PROCESSO EXTINTO. ALEGAÇÃO, NÃO DEMONSTRADA, DE INOBSERVÂNCIA, PORJUÍZO RECLAMADO, À JURISPRUDÊNCIA CONSOLIDADA "EM JULGAMENTO DEINCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS OU DE INCIDENTE DEASSUNÇÃO DE COMPETÊNCIA" NA FORMA DO ARTIGO 988, CPC. RECLAMAÇÃOINADMISSÍVEL. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO.
+Narra o recorrente ter ajuizado ação de reparação de danos contra a INCORPLAN INCORPORAÇÕES LTDA., pelo atraso na entrega de imóvel comprado na planta.
+Julgada procedente a ação, a Terceira Turma Recursal do Tribunal de Justiça da Bahia deu provimento ao recurso da parte adversa para excluir os lucros cessantes, em afronta à jurisprudência do STJ firmada pela sistemática dos recursos repetitivos (Tema n. 996).
+Contra esse julgado, ajuizou reclamação constitucional no Tribunal de origem, que foi extinta pela relatora, decisão mantida pelo colegiado.
+Argumenta que "a eminente relatora foi excessivamente rigorosa e agiu com extremo formalismo ao decidir pelo indeferimento da Reclamação Constitucional manejada pelo Recorrente, haja vista que, utilizou-se como fundamentação para o indeferimento a falta de demonstração da jurisprudência consolidada violada pelo juízo ad quem, sendo induvidoso, portanto, o cerceamento do seu direito de promover a regularização do vício sanável  .. " (fl. 381).
+Requer seja cassada a decisão que extinguiu a reclamação no Tribunal de origem. Alternativamente, pede a anulação do acórdão da Turma Recursal para que se restabeleça a sentença.
+É o relatório. Decido.
+Nos termos do art. 105, II, b, da Constituição Federal, só caberá recurso ordinário em mandado de segurança para o Superior Tribunal de Justiça em caso de decisão denegatória proferida pelos tribunais de justiça ou pelos tribunais regionais federais em única instância.
+Nesse contexto, inviável a aplicação do princípio da fungibilidade recursal ante a interposição equivocada de recurso ordinário em substituição ao recurso especial, considerando as hipóteses expressamente previstas no art. 105 da Constituição Federal.
+Frise-se ser inadmissível a conversão do recurso ordinário em recurso especial, conforme a jurisprudência do STJ:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. HIPÓTESE DE RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+A jurisprudência desta Corte é no sentido de que a interposição de recurso ordinário, ao invés de recurso especial, ou o inverso, constitui-se de erro grosseiro, o que impede a aplicação do princípio da fungibilidade recursal.
+Agravo regimental improvido. (AgRg no Ag n. 1.384.526/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 2/6/2011, DJe de 13/6/2011.)
+PROCESSO CIVIL - RECURSO ORDINÁRIO INTERPOSTO NO LUGAR DE RECURSO ESPECIAL - ERRO GROSSEIRO - INEXISTÊNCIA DA HIPÓTESE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL - RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA NÃO-CONHECIDO LIMINARMENTE - AGRAVO REGIMENTAL INTERPOSTO - RECURSO MANIFESTAMENTE INFUNDADO - MULTA APLICADA - ART. 557, § 2º, DO CPC.
+1. Cuida-se de recurso ordinário em mandado de segurança interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo que concedeu a impetração.
+2. Nos termos do art. 105, II, b, da CF, só caberá recurso ordinário em mandado de segurança ao STJ quando denegatória a decisão de única instância dos Tribunais de Justiça, ou Regionais Federais.
+3. Não há de se aplicar aqui o princípio da fungibilidade recursal, pois impossível falar-se em dúvida diante das rígidas hipóteses de cabimento de recursos para o STJ, estipuladas no art. 105 da CF. Erro grosseiro configurado, como há muito preconiza a jurisprudência do STJ.
+4. Agravo regimental interposto contra decisão que liminarmente não conheceu do recurso ordinário. Impossibilidade de conversão do recurso ordinário em recurso especial, pois os escopos, a fundamentação e a hipótese de competência constitucionalmente atribuída para o conhecimento do STJ de um e do outro recurso são claramente diversas, máxime diante da devolutividade vinculada do recurso especial.
+5. Agravo regimental manifestamente infundado, sendo o caso de aplicar multa ao agravante no importe de 1% sobre o valor da causa, nos termos do art. 557, § 2º, do CPC. O valor atribuído à causa foi de R$ 1.000,00 (mil reais), sendo que o percentual de 1% a incidir sobre este valor tem efeito pedagógico.
+Agravo regimental improvido. Multa aplicada ao agravante no importe de 1% sobre o valor da causa. (AgRg no RMS n. 25.169/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/11/2007, DJ de 26/11/2007.)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
