@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo (fls. 409/438) interposto por ALAGOAS PREVIDÊNCIA de decisão que inadmitiu na origem recurso especial manifestado contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas nos autos do Processo n. 0719552-46.2018.8.02.0001- TJ/AL, em que litiga contra GENILSON CORREIA DOS SANTOS.
+Sucede que os presentes autos referem-se ao recurso especial - inadmitido na origem (fls. 396/399) - interposto pelo ESTADO DE ALAGOAS contra acórdão prolatado na Apelação n. 0729189-55.2017.8.02.0001, que tem como parte autora, ora recorrida, CLEDIMILSON MEDEIROS DE ALMEIDA (fls. 349/358).
+Acrescente-se, outrossim, inexistir nos autos notícia de que contra a decisão suso mencionada, que negou seguimento ao apelo nobre do ESTADO DE ALAGOAS, tenha sido interposto agravo em recurso especial.
+ANTE O EXPOSTO, chamo o feito à ordem para: (a) tornar sem efeito a decisão de fls. 454/457, que julgou o agravo em recurso especial interposto por ALAGOAS PREVIDÊNCIA em face de GENILSON CORREIA DOS SANTOS; (b) à mingua da interposição de agravo em recurso especial pelo ESTADO DE ALAGOAS, declarar que nada há a ser decidido, determinando a baixa dos autos ao Tribunal de origem, tomando-se para tanto as medidas de estilo.
+Publique-se.
