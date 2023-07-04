@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por HARLEY MAXIMILIANO DA SILVA CAMARGO e FÁBIO LUIS COSTA DUAILIBE, em face da decisão de fls. 694/700 e-STJ.
+Os embargantes sustentam que os honorários advocatícios deveriam ser arbitrados em percentual sobre o valor atribuído à causa, e não com base no proveito econômico obtido com a demanda, eis que o pedido inicial foi julgado improcedente. Afirmam, ainda, que não foram estipulados honorários recursais em seu favor.
+Impugnação às fls. 722/724 e-STJ.
+Ao contrário do que afirmam os embargantes, a decisão de fls. 701/712 e-STJ, ao julgar o agravo em recurso especial interposto por DANIELLA RAQUEL SANTOS MELO, promoveu a elevação da verba honorária, a título de honorários recursais, conforme se extrai da parte dispositiva do julgado, exarada nos seguintes termos:
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+No que tange à base de cálculo dos honorários advocatícios, com razão os embargantes. O resultado do processo foi consubstanciado na improcedência do pedido inicial. Assim, não há de se falar, por óbvio, em condenação, e também não houve qualquer proveito econômico aferível, para uma ou outra parte, eis que a improcedência consolida a situação existente antes do ajuizamento da demanda. Assim, resta como critério, para aplicação do art. 85, § 2º, do CPC, a estipulação dos honorários sobre o valor da causa, que correspondeu a R$ 355.000,00 (trezentos e cinquenta e cinco mil reais).
+Em face do exposto, acolho os embargos declaratórios, com efeitos modificativos, para que a verba honorária corresponda a 10% sobre o valor da causa atualizado.
+Intimem-se.
+Após, retornem os autos para o julgamento do agravo interno de fls. 728/740 e-STJ.
