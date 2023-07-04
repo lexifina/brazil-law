@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FRANCISCO AIRTON GARCIA e OUTRO à decisão de minha lavra, que rejeitou seus anteriores aclaratórios.
+Sustenta a parte embargante a existência de omissão, "senão obscuridade ou erro material" (fl. 1.214) no decisum embargado.
+A tanto, argumenta o seguinte (fls. 1.214/1.215):
+2. O em. Relator rejeitou os primeiros embargos de declaração monocraticamente, sob dois fundamentos.
+Entendeu que que o recurso especial da UFSC foi examinado à luz da premissa fática fixada no acórdão recorrido (valores recebidos por força de decisão judicial de natureza precária) e que a Súmula 7 impediria o exame da "tese trazida nos embargos de declaração", amparada "em premissa fática não examinada no acórdão recorrido".
+Entendeu também que o argumento representaria "indevida inovação da causa de pedir, haja vista que não foi oportunamente deduzida na petição inicial".
+ ..
+Quanto ao primeiro ponto, por não considerar que tais fatos deixaram de constar no acórdão recorrido, porque o acórdão foi favorável aos ora embargantes. Como partes vencedoras, não lhes era dado recorrer do acórdão. Não se exigiria (nem se permitiria), do vencedor que recorresse do acórdão que lhe deu ganho, por não ter adotado outro fundamento favorável ou examinado outro fato de seu interesse. A falta de exame de determinado fato na origem impede o conhecimento do recurso que o tenha por premissa. Daí o ônus do prequestionamento imposto a quem interpõe recurso especial. À parte recorrida, vencedora em segundo grau, cumpre apenas suscitar o fato em contrarrazões, como feito (fls. 1037-38). A partir daí, conhecido o recurso, nada obsta que toda a matéria de defesa seja examinada pela Corte Superior, ainda que para a origem outros argumentos tenham sido suficientes.
+Quanto ao segundo aspecto, por ter escapado a circunstância de que os fundamentos jurídicos da pretensão, expostos na inicial são a boa-fé, a segurança jurídica, a natureza alimentar das verbas e, literalmente, a "mais absoluta aparência de legalidade" dos pagamentos da parcela (fls. 07 a 10). Nesse quadro, o fato específico, que venha qualificar a presença da boa-fé, da segurança jurídica e da confiança na legalidade/definitivade do pagamento, conforme surja no debate travado no correr da lide, não se confunde com "inovação da causa de pedir", desde que guarde congruência com a mesma, como no caso também guarda. Assim, a consideração da existência do fato distintivo destacado pelos embargantes (pagamento efetuado sob a rubrica "decisão judicial transitada em julgado") é admissível, não constituindo inovação, por estar presente nas contrarrazões e, ademais, por se tratar de fato incontroverso, de pleno conhecimento da parte recorrente.
+Daí defender o seguinte (fl. 2.15):
+4. Assim, integrada a decisão pela consideração de ambas as circunstâncias indicadas, cabível atribuir efeito modificativo aos presentes, para que se efetue a distinção do caso concreto frente ao Tema 692 dos recursos repetitivos e se negue provimento ao recurso especial da Universidade.
+Sucessivamente, entendendo V. Exa. ser inviável efetuar de pronto a distinção, em homenagem ao contraditório e preservação das instâncias ordinárias, a exemplo do que ocorreu com dezenas de processos iguais, da relatoria de V. Exa. e demais integrantes da 1ª Seção, cabível determinar a devolução dos autos à origem, para fins de retratação.
+Nesses termos, requer o acolhimento dos aclaratórios.
+Impugnação às fls. 1.225/1.228.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais não seria possível acolher a tese acolhida nos primeiros embargos de declaração, no sentido de que (fls. 1.209/1.210):
+ ..  o recurso especial da UFSC foi examinado à luz da premissa fática fixada no acórdão recorrido, no sentido de que os valores cuja devolução é buscada pela Administração haviam sido recebidas pelo servidor por força de decisão judicial de natureza precária. Senão vejamos (fls. 1.143/1.144):
+ ..
+Nessa linha de ideias, considerando-se que a tese trazida nos embargos de declaração ampara-se em uma premissa fática não examinada no acórdão recorrido - que os pagamentos foram realizados, ainda que por erro administrativo, sob a rubrica de cumprimento de uma decisão judicial transitada em julgado -, torna-se inviável seu exame, por força dos óbices das Súmulas 7/STJ e 282/STF.
+Sobreleva acrescentar, ademais, que tal argumento representa indevida inovação da causa de pedir, haja vista que não foi oportunamente deduzida na petição inicial. Nesse sentido:
+ ..
+Calha pontuar que o fato de a questão ter sido suscitada nas contrarrazões ao recuso especial da UFSC não tem o condão de alterar a conclusão firmada no decisum embargado, haja vista que o deslinde dessa controvérsia apresenta-se inviável, pois vinculado ao exame de matéria de ordem fática jamais deduzida na petição inicial e sequer prequestionada.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
