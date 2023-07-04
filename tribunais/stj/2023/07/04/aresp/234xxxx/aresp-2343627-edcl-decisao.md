@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ARNALDO WALIGORA à decisão de fls. 753/754, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A ação foi julgada improcedente, e em razão do deferimento da gratuidade da justiça, o Embargante não teve que pagar 4% (quatro por cento) do valor da causa, ou seja, deixou de recolher R$ 62.791,58 (valor singelo), conforme determina o "Comunicado SPI nº 77/2015" do E. TJSP (doc. 01).
+Com a devida vênia, compulsando os autos, é possível verificar que não existe qualquer guia a ser recolhida por parte do Embargante nestes autos, mesmo assim constou da r. Decisão o seguinte: (fl. 757).
+ ..
+Repete o Embargante que NÃO, efetivamente NÃO consta dos autos qualquer comprovante de agendamento de preparo.
+E mesmo que constasse comprovante de agendamento do preparo, a teor do que restou decidido às fls. 140/141 destes autos (Autos principais nº 1051255- 73.2020.8.26.0100), o Embargante é beneficiário da justiça gratuita.
+Ademais, cumpre esclarecer, que os comprovantes de custas que constam dos autos são oriundos de um outro processo promovido no ano de 2018 (Protesto para Interrupção de Prescrição e Decadência nº 1012640-58.2018.8.26.0011) e nada te a ver com a presente ação (fl. 758).
+ ..
+Comparando os citados processos, as custas recolhidas no ano de 2018 nos autos do processo nº 1012640-58.2018.8.26.0011, em o ora Embargante não era beneficiário da justiça gratuita, foi no total de R$ 171,30, enquanto que nestes autos (1051255-73.2020.8.26.0100) as custas que deveriam ser recolhidas, se não tivesse sido concedido a justiça gratuita, seria no montante de, no mínimo, R$ 78.489,47 (fl. 759).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que, no ato da interposição do recurso especial, foi colacionado aos autos apenas o comprovante de agendamento do preparo (fl. 638), não tendo sido juntado o comprovante do efetivo pagamento.
+O recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que limitou-se a asseverar às fls. 749 que é beneficiária da gratuidade de justiça.
+Cumpre esclarecer que a mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição no ato da interposição do recurso, ou quando da intimação para regularização do vício. Nesse sentido: AgInt no AREsp 1545172/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2020.
+No caso, a gratuidade de justiça foi deferida às fls. 140/141. Porém, houve impugnação da parte contrária, a qual foi acolhida às fls. 498/508, conforme decisão do Tribunal a quo: Veja-se: "É o caso, destarte, de acolhimento da impugnação à concessão do benefício da gratuidade da justiça. Anoto, por oportuno, que a simples existência de processos judiciais contra o autor não tem o condão de, por si só, torna-lo hipossuficiente, mormente porque, repiso, ele não informou ao juízo ser o sócio de diversas pessoas jurídicas." (fl. 504).
+Dessa forma, ficou comprovado que a parte não tem direito ao benefício da gratuidade de justiça.
+Ainda que assim não fosse, conforme já consignado na decisão embargada, o entendimento deste Superior Tribunal de Justiça, "o pagamento de uma das despesas do preparo afasta a presunção relativa de hipossuficiência e constitui renúncia à isenção, sobretudo considerando serem vedados comportamentos contraditórios em nosso ordenamento jurídico" (AgInt no AREsp 1410995/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, Dje de 30/08/2019.).
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
