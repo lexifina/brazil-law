@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CANAA GERACAO DE ENERGIA S/A, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA , assim ementado:
+"Agravo de instrumento. Desapropriação. Valor depositado judicialmente. Atualização. Índice da instituição financeira. Juros compensatórios. ADI 2.332 do STF. Incidência. Juros moratórios. Trânsito em julgado da sentença.
+Na desapropriação o valor depositado judicialmente e não levantado é atualizado pelos índices da instituição financeira, não cabendo nova atualização.
+Os juros compensatórios incidem no valor da indenização no percentual de 12% a. a. da data da imissão na posse até a data do julgamento da ADI 2.332 do STF, quando a partir de então o percentual passa a ser de 6% a. a.
+Os juros moratórios incidem a partir do trânsito em julgado, nos termos da Súmula 70 do STJ" (fl. 46e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 60/62e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"Embargos de declaração em agravo de instrumento. Omissão inexistente. Cumprimento de sentença. Ônus da parte de indicar o percentual correto.
+Deixando a parte de indicar qual seria o percentual correto, o qual diz não coincidir como apresentado pela contadoria, não se trata de omissão do acórdão a sua fixação" (fl. 68. e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 15-A do Decreto-lei 3.365/41, sustentando que "o Eg. Tribunal de Justiça local, quando do julgamento aqui guerreado, atestou serem devidos juros compensatórios na importância de 12% (doze por cento) ao ano até o julgamento da ADI de nº2.332 pelo Supremo Tribunal Federal". Alega que "o próprio c. STJ revisou o Tema/Repetitivo de nº 126, a fim de anotar que o índice de juros compensatórios na desapropriação direta ou indireta é de 6% a.a. após 11/06/1997" (fl. 83e).
+Ressalta que "ao manter os juros ao patamar de 12% a.a., evidente que o Tribunal de Justiça do Estado de Rondônia proferiu julgamento contra Iegem. Portanto, confiando na serena e tranquila apreciação de Vossa Excelência, e a presente para requerer a redução dos juros compensatórios no patamar que fixado pelo Excelso Supremo Tribunal Federal no julgamento da ADI de nº 2.332, bem como no que definido no art. 15-A do Decreto-Lei nº 3365/41" (fl. 85e).
+Por fim, requer "seja o presente Recurso Especial conhecido, e ao final, provido, para reformar o v. Acórdão recorrido, afim de que seja determinada a redução dos juros compensatórios no patamar que fixado pelo Excelso Supremo Tribunal Federal no julgamento da ADI de nº2.332, bem como pelo art. 15-A do Decreto-Lei de nº 3865/41, ou seja 6% (seis por cento) a.a" (fl. 87e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 101/103e).
+A irresignação não merece prosperar.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou o seguinte:
+"No que tange à aplicação do entendimento da ADI 2.332 do STF, que fixou os juros compensatórios em 6% a. a., tem-se que a referida decisão data de 17/05/2018, sendo publicada em 16/04/2019. Já a sentença data de 27/05/2016, tendo transitado em julgado, sem qualquer alteração, em 10/11/2021.
+O STJ quando do julgamento da Pet 12.344, afastou a possibilidade daquela Corte modular a matéria referente aos juros compensatórios por ser infraconstitucional.
+Os cálculos do perito contador judicial foram efetuados com base na data de imissão na posse, 21/02/2014, até o trânsito em julgado, 10/11/2021, com a aplicação de juros compensatórios de 12% a.a., desrespeitando o disposto no julgamento da ADI 2.332 do STF. Esta Corte já se posicionou no sentido de que o percentual de 12% a. a. não deve incidir até o trânsito em julgado, 11/11/2021, mas até a data do julgamento da ADI 2.332 do STF, o qual se deu em 17/05/2018.
+(..)
+Dessume-se que com o ora decidido novos cálculos devem ser realizados observando o que constou na sentença em relação ao valor depositado, o qual já é atualizado pelos índices das instituições financeiras, bem como a aplicação dos juros compensatórios de 12% a. a. deve incidir apenas até o julgamento da ADI 2.332 do STF, passando então para 6% a. a." (fls. 45/46e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
