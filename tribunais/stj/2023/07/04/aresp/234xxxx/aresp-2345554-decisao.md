@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "c", da Constituição) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 120, e-STJ):
+PRESCRIÇÃO INTERCORRENTE - Execução Fiscal - Multa Tributária - Município de São José do Rio Preto - Ocorrência - Paralisação do feito por prazo superior ao previsto no art. 40 da LEF - Aplicação do entendimento adotado pelo STJ no julgamento do REsp nº 1.340.553/RS, sob o regime do art. 1.036 e seguintes do NCPC - Recurso não provido.
+Os aclaratórios foram rejeitados (fls. 175-180, e-STJ).
+Em seu Recurso Especial, o Município agravante alega (fls. 188-191, e-STJ):
+A r. decisão, data venia, não apreciou a contenda jurídica em conformidade com as teses firmadas no REsp 1.340.553/RS acerca da citação da parte executada, contida no item 4.3 do referido Repetitivo, sobre a interrupção da prescrição intercorrente, retroativamente, à data do protocolo que requereu a diligência frutífera. Houve citação positiva, com retroatividade à data de seu requerimento. Vejamos:
+Ao contrário do que foi afirmado no v. acórdão, a Fazenda Pública não se fez inerte durante os anos que se seguiram à citação. Depois da citação positiva (ano de 2000 - AR de fls. 19), houve requerimento de penhora, inclusive tendo havido penhora positiva - Auto de Penhora, Avaliação e Depósito juntado às fls. 27. Tal providência demonstra a solércia da Exequente, ademais das demais e diversas folhas, em sede de penhora, do volumoso processado.
+Como é sabido, este C. Superior Tribunal de Justiça concluiu o julgamento do Repetitivo REsp 1.340.553/RS que fixou várias teses sobre o tema, as quais aproveitam ao Exequente, servindo ao caso como Paradigma para o dissídio jurisprudencial.
+No particular do item "4.3" que constou no v. acórdão do indigitado recurso repetitivo, vale transcrever o que constou no v. acórdão do REsp 1.340.553/RS, para frisar que o requerimento positivo de citação ou de penhora (citação positiva e penhora realizada), caso feito  o requerimento  no período de suspensão ou de transcurso da prescrição (1 ano  5 anos), ainda que concluídos os atos depois desses períodos, fará interromper a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera.
+(..)
+A situação de a citação ou a penhora terem se dado anos depois não é um problema de inércia da parte, mas sim do mecanismo de Justiça. Não pode a parte ver tolhido o seu direito de pretensão à base de ato para o qual não deu causa. A parte autora, conforme dito acima, postulou no prazo correto. É o que basta para que o objetivo tenda a ser alcançado (expropriação do patrimônio do devedor ou responsável, pelos meios legais cabíveis, a bem de satisfação do crédito tributário).
+Sem contrarrazões.
+O juízo de admissibilidade negativo (fls. 223-225, e-STJ) deu ensejo à interposição do presente Agravo (fls. 241-248, e-STJ).
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 9 de junho de 2023.
+Não merece prosperar a irresignação.
+No acórdão objeto do Recurso Especial, o Colegiado originário anotou que "a inércia do exequente concorreu para o decurso de quase 14 (quatorze) anos  de 2004 a 2018  sem diligências com vistas ao prosseguimento do feito" (fl. 121, e-STJ). Tem-se, assim, que os argumentos utilizados pelo ente público somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática. Conforme dispõe a Súmula 7/STJ, entretanto, não cabe a esta Corte reavaliar o conjunto probatório dos autos a fim de alcançar conclusão diversa.
+Nessa esteira:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. EXECUÇÃO FISCAL. ICMS. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ.
+(..)
+2. O STJ, no julgamento do REsp 1.340.553/RS, submetido ao rito dos recursos repetitivos, firmou a compreensão de que o procedimento previsto no art. 40 da Lei 6.830/1980 se inicia automaticamente quando não houver a citação de qualquer devedor por qualquer meio válido e/ou quando não forem encontrados bens sobre os quais possa recair a penhora, não cabendo, portanto, ao juiz ou à Fazenda Pública a escolha do melhor momento para o início dos prazos de suspensão de um ano e da prescrição quinquenal.
+3. Além disso, o Tribunal de origem, ao dirimir a controvérsia, lançou os seguintes fundamentos: "Neste contexto, caracterizada a desídia da Fazenda em promover atos processuais capazes de descaracterizar a sua mora processual por prazo superior a cinco anos, a prescrição intercorrente se impõe pela só existência das condições do art. 202, § único, do Código Civil Brasileiro" (fls. 109-111, e-STJ).
+4. Verifica-se que o órgão julgador concluiu que a demora na tramitação do feito deve ser imputada à parte exequente. Nesse panorama, a controvérsia não pode ser reexaminada em Recurso Especial, porquanto o afastamento da alegação de inércia da parte para impulsionar o processo implica revisão dos aspectos fáticos e circunstanciais da causa, o que é vedado nos termos da Súmula 7 do Superior Tribunal de Justiça.
+(..)
+6. Recurso Especial parcialmente conhecido e, nessa parte, provido, apenas afastar a multa aplicada com amparo no art. 1.026, § 2º, do CPC.
+(REsp 1.837.380/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/11/2019.)
+Confiram-se ainda: AgInt no AREsp 814.840/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13.10.2016; e AgInt no REsp 1.936.032/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2.9.2021.
+Ainda que assim não fosse, o STJ entende que, para "a comprovação de divergência jurisprudencial, além de demonstrar que os acórdãos confrontados tenham apreciado matéria idêntica, à luz da mesma legislação federal, dando-lhes, porém, soluções distintas, faz-se necessária a juntada de certidão, cópia do inteiro teor ou citação de repositório oficial ou credenciado de jurisprudência em que foi publicado o acórdão divergente, nos termos do art. 266, 4º do RISTJ" (AgInt nos EAREsp 1.521.626/SP, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 4.6.2021).
+A ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fulcro no art. 105, III, "c", da Constituição Federal. Incide, no caso, a Súmula 284/STF.
+Nessa senda:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. RAZÕES. DEFICIÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. FALTA. VERBETE 284 DA SÚMULA DO STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (enunciado 284 da Súmula do STF).
+2. A ausência de indicação do dispositivo de lei sobre o qual recaiu a divergência jurisprudencial impossibilita o conhecimento do recurso, nesse particular, aplicando-se, por analogia, o verbete 284 da Súmula do STF. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.718.000/MS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência, pois, da Súmula 284/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.905.144/TO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/12/2021.)
+Ademais, a indicação de precedentes jurisprudenciais em sentido oposto ao adotado no decisum recorrido é insuficiente, pois não houve realização de cotejo analítico, com transcrição de trechos dos arestos confrontados, de modo a destacar a similitude fática e jurídica. A propósito, cito:
+PROCESSUAL CIVIL. (..) DIVERGÊNCIA NÃO COMPROVADA.
+(..)
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+(..)
+VI - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+VII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp n. 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp n. 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp n. 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1.980.747/MG, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 31/5/2023.)
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
