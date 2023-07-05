@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente formulado por DENIS PETECK, DOUGLAS GERALDO PETECK e LUIZ QUIRINO PETECK JUNIOR, que visa à atribuição de efeito suspensivo ativo a recurso especial ainda pendente do juízo de admissibilidade pelo Tribunal de origem.
+Os requerentes sustentam a ilegalidade da ordem de despejo do imóvel rural, pois, "não tendo havido a notificação na forma determinada pelo art. 22 do Decreto n. 59.566/1966, o Contrato considera-se automativamente renovado  .. " (fl. 13).
+Acrescentam que, em casos excepcionais, o STJ tem mitigado a regra prevista no art. 1.029, § 5º, do CPC, para permitir que, mesmo pendente o juízo de admissibilidade do recurso especial, o pedido de atribuição de efeito suspensivo seja apreciado diretamente por esta Corte Superior.
+Aduzem a necessidade de que seja concedida a medida para impedir que o imóvel rural seja arrendado a terceiro, considerando-se que o início do plantio da próxima safra ocorre no próximo mês de setembro.
+Requer o deferimento do pedido de efeito suspensivo ativo ao recurso especial para que se determine a imediata reintegração dos requerentes na posse dos imóveis rurais que integram a Fazenda Baluarte.
+É o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+No caso, ao que se tem, não ocorreu, ainda, o juízo de admissibilidade do recurso especial interposto, motivo pelo qual, conforme preceituam as mencionadas súmulas do STF, não é competente o STJ para processar o pedido de tutela provisória.
+Saliente-se que não houve a demonstração de qualquer excepcionalidade ou teratologia aptas a justificar a mitigação da referida regra processual, não tendo havido a comprovação do risco de ineficácia da tutela jurisdicional, caso o pedido de atribuição de efeito suspensivo seja formulado ao juízo competente.
+Ademais, merece registro o fato de que o recurso especial foi manejado contra acórdão que manteve a antecipação da tutela recursal deferida nos autos de agravo de instrumento em trâmite no Tribunal de origem, o que, em tese, poderia ensejar a aplicação das Súmulas n. 735/STF e 7/STJ.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido de tutela cautelar antecedente.
+Publique-se. Intimem-se.
