@@ -1,0 +1,66 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000429-78.2022.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LACCHENG ENGENHARIA LTDA e outros
+RECORRIDO: FELIPE DA SILVA NICOLA e outros
+RELATOR(A):GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000429-78.2022.8.08.0011
+Origem
+: Juízo de Cachoeiro de Itapemirim - 2º Juizado Especial Cível
+RECORRENTES
+: LACCHENG ENGENHARIA LTDA e MOREMAIS 1604 SPE LTDA
+RECORRIDOS
+: FELIPE DA SILVA NICOLA e CAMILA BARCELOS THIENGO
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. BEM NÃO ENTREGUE DENTRO DO PRAZO ESTIPULADO. DISTRATO, COM DEVOLUÇÃO DE VALOR PAGO NA CONTRATAÇÃO. NECESSIDADE DE ALUGUEL DURANTE O PERÍODO DE ESPERA PARA A CONCRETIZAÇÃO DO EMPREENDIMENTO. AUSÊNCIA DE PAGAMENTO DE MULTA PELO DESCUMPRIMENTO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA, COM CONDENAÇÃO DA PARTE RÉ NA RESTITUIÇÃO DE VALORES PAGOS DURANTE DE 5 MESES, REFERENTES AOS ALUGUÉIS, NO MONTANTE DE R$ 3.500,00 (TRÊS MIL E QUINHENTOS REAIS), BEM COMO EM INDENIZAÇÃO A TÍTULO DE DANOS MORAIS, NO MONTANTE DE R$ 8.000,00 (OITO MIL REAIS). A PARTE RÉ, INCONFORMADA, APRESENTA RECURSO INOMINADO NO INTUITO DE DESAFIAR O ATO SENTENCIAL, POSTULANDO A SUA INTEIRA REFORMA. A SENTENÇA DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI N.º 9.099/95, DE MODO QUE SÃO ADOTADAS AS SUAS RAZÕES DE DECIDIR (STF, TEMA N.º 451 DAS TESES DE REPERCUSSÃO GERAL: “
+Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de turma recursal de juizados especiais que, em consonância com a lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+”). CONSTATA-SE QUE O VALOR A SER RESTITUÍDO AOS AUTORES PELA RÉ AOS AUTORES, A TÍTULO DE DANO MATERIAL, EQUIVALE AOS 5 MESES ENTRE O FIM DA EXTENSÃO DA CONCLUSÃO E A EFETIVAÇÃO DO DISTRATO, PERFAZENDO, ASSIM, O MONTANTE DE R$ 3.500,00 (TRÊS MIL E QUINHENTOS REAIS). ADUZ A RÉ, A TAL RESPEITO, QUE A PARTE AUTORA NÃO FAZ JUS AO PAGAMENTO REFERENTE AO ALUGUEL RELATIVO AO MÊS DE FEVEREIRO, NA MEDIDA EM QUE DEIXOU DE ANEXAR O COMPROVANTE DE PAGAMENTO. NO ENTANTO, HÁ A DEMONSTRAÇÃO DA PERMANÊNCIA NO IMÓVEL LOCADO DURANTE OS REFERIDOS MESES, DE MODO QUE É DEVIDA A DEVOLUÇÃO DO VALOR, A TÍTULO DE DIREITO MATERIAL, CONFORME DISPOSTO NA SENTENÇA GUERREADA. POR SUA VEZ, EMBORA SE RECONHEÇA QUE O MERO DESCUMPRIMENTO CONTRATUAL NÃO GERA A LESÃO EXTRAPATRIMONIAL, NOTA-SE QUE A SITUAÇÃO EM ANÁLISE É DIFERENCIADA E, POR ISSO, NÃO PODE SER TIDA COMO MERO DISSABOR DO COTIDIANO. NO CASO DOS AUTOS É POSSÍVEL VERIFICAR UM DISPÊNDIO DE TEMPO SIGNIFICATIVO ENTRE A PRIMEIRA DATA PROMETIDA PARA A ENTREGA DO IMOVÉL (2017) E DATA DO EFETIVO DISTRATO (2021), O QUE CONFIGURA, SEM MAIOR ESFORÇO, A LESÃO INDENIZÁVEL A TÍTULO DE DANO MORAL.
+NO QUE SE REFERE AO
+QUANTUM
+ARBITRADO PELO JUÍZO DE ORIGEM (R$ 8.000,00), VÊ-SE QUE O VALOR ATENDE AOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE, ASSIM COMO O GRAU DE CULPA, O PORTE ECONÔMICO DAS PARTES E A GRAVIDADE DO FATO.
+RECURSO CONHECIDO E DESPROVIDO
+. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. POR FORÇA DA SUCUMBÊNCIA RECURSAL,
+CONDENA-SE
+A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO (ART. 55, DA LEI 9.099/95).
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
