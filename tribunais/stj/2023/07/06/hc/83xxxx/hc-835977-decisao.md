@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCAS DA SILVA DIAS, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que o paciente foi preso em flagrante no dia 26/6/2023, como incurso no art. 155, § 4º, II, do Código Penal, sobrevindo decisão que converteu a custódia em preventiva.
+O impetrante sustenta que haveria excesso de acusação, tratando-se de caso de furto simples, cuja pena máxima não permitiria a prisão preventiva.
+Afirma que o reconhecimento do furto qualificado pela destreza pressuporia proximidade física entre paciente e vítima, que não seria capaz de notar a perda da posse da coisa exatamente em razão da especial habilidade do agente, o que não teria ocorrido na espécie.
+Alega que, embora responda a outras ações penais, o acusado seria primário, o que reforçaria a ilegalidade de sua segregação antecipada.
+Argumenta que seria possível a aplicação do princípio da insignificância, por se tratar de furto de 3 garrafas de Amarula avaliadas em R$ 500,00, que foram restituídas ao estabelecimento comercial.
+Destaca que o paciente seria portador de transtornos mentais e comportamentais patológicos, motivo pelo qual a sua prisão preventiva deveria ser substituída por tratamento psiquiátrico.
+Requer, liminarmente e no mérito, o trancamento da ação penal, com a consequente concessão de liberdade ao paciente, ou, subsidiariamente, o relaxamento de sua prisão, ou, ainda, a substituição da custódia por tratamento ambulatorial ou internação provisória em hospital de custódia ou estabelecimento adequado.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao converter a prisão em flagrante em preventiva, a magistrado singular consignou que (fls. 165-171):
+Em consulta à(s) certidão(ões) de antecedentes criminais juntada(s) no movimento nº 05, extraio que Lucas da Silva Dias responde a outros procedimentos em tramitação na(o) 2ª Vara Criminal de Trindade-GO (autos nº 0013930-39.2019.8.09.0149 - por furto), 1ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia (autos nº 0093817-72.2019.8.09.0149 - por furto qualificado), 2ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia (autos nº 5294784- 80.2021.8.09.0051 - por furto qualificado), 2ª Vara Criminal de Trindade-GO (autos nº 5341482- 44.2021.8.09.0149- por roubo majorado), 2ª Vara Criminal de Trindade-GO (autos nº 5236849-45.2022.8.09.0149 - furto), 4ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia (autos nº 5162393-93.2023.8.09.0051- lesão corporal leve), 1ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia (autos nº 5353778-33.2023.8.09.0051 - tráfico de drogas), 10ª Vara dos Crimes punidos com reclusão e detenção de Goiânia (autos nº 5392837-28.2023.8.09.0051 - por furto), sendo primário.
+Compulsando minuciosamente os autos, verifica-se que em 22/06/2023 o custodiado foi preso em flagrante pelo crime de furto. Em 23/06/2023 , esta magistrada efetivou a Audiência de Custódia do apresentado, ocasião em que homologou o flagrante e converteu sua segregação em preventiva.
+Em 24/06/2023, Lucas da Silva Dias foi posto em liberdade provisoria com o uso de tornozeleira eletrônica, por força do Habeas Corpus nº 5395286-56.2023.8.09.0051 , contudo, na data de ontem (26/06/2023), ou seja, em menos de 02 dias voltou a delinquir, demonstrando reiteração delitiva, total descaso com a ordem pública e o Poder Judiciário.
+ ..
+No caso sub judice, vergando-me ao acervo probatório carreado ao feito e em consonância com o sistema normativo processual penal pátrio, deve ser decretada a segregação preventiva do(a) autuado(a) em face da garantia da ordem pública, por conveniência da instrução criminal e visando a futura aplicação da lei penal (artigo 312 CPP).
+ ..
+A necessidade de manutenção do(s) autuado(s) no cárcere em que se encontra(m) visa a conveniência da instrução criminal e da garantia de aplicação da lei penal, haja vista que não comprovou(aram) exercício de atividade laboral lícita antes de sua(s) segregação(ões), tampouco residência fixa no distrito da culpa. Ressalto que nenhum documento foi juntado ao feito nesse sentido.
+ ..
+Subsumindo minha conduta ao entendimento pretoriano sereno de nosso país tenho que a ausência de circunstâncias pessoais favoráveis, tais como ocupação lícita e residência fixa, acrescenta os motivos ensejadores do decreto prisional, existindo nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+É prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
