@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RICARDO AGOSTINHO, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO.
+Consta dos autos que o paciente foi preso preventivamente em 08/10/2022, e denunciado pela suposta prática dos crimes previstos nos arts. 33, caput, c/c o art. 40, incisos I e V, ambos da Lei n. 11.343/2006; 2º da Lei n. 12.850/2013; e 22, parágrafo único, da Lei n. 7.492/1986.
+O impetrante sustenta a necessidade a extensão ao paciente dos benefícios concedidos aos demais corréus pelo Tribunal de origem, consistentes na substituição da prisão preventiva por medidas cautelares diversas do cárcere ou por prisão domiciliar, tendo em vista que se encontram na mesma situação fático-jurídica.
+Ressalta a ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP, especialmente a contemporaneidade da medida extrema em relação aos fatos praticados.
+Defende a superação da Súmula n. 691 do Supremo Tribunal Federal, em razão da flagrante ilegalidade a que está sendo submetido o paciente.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva do paciente por medidas cautelares alternativas ou por prisão domiciliar, nos termos do art. 580 do Código de Processo Penal.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, especialmente levando-se em consideração a seguinte fundamentação adota na origem:
+Ao contrário do alegado neste habeas corpus, não há identidade fático-jurídico -processual entre o ora paciente e os outros réus beneficiados nas ordens de habeas corpus indicadas nesta impetração, notadamente, porque, em relação a eles, a narrativa contida na inicial acusatória descreve condutas distintas, além de destacar minuciosamente suas atribuições e grau de importância dentro da ORCRIM.
+ ..
+Pelas informações prestadas pelo Juízo de origem, id. n. 310854542, verifico que a manutenção da prisão cautelar do custodiado, ora paciente, foi baseada em fortes justificativas, pelo que não vejo qualquer traço de ilegalidade ou teratologia, apto a ensejar o provimento liminar vindicado. Confira-se, in verbis:  ..  RICARDO AGOSTINHO foi preso novamente em 08/10/2022, na Itália, e seu retorno ao Brasil, em razão de extradição ativa, se deu em 27/10/2022, conforme comunicação da Delegada Federal, Chefe do Núcleo de Cooperação Policial Internacional/SP - INTERPOL Representação Regional de São Paulo (ID 1377965752).  ..  O pedido foi indeferido, nos termos da decisão de ID 1527378409 (autos n. 1009976-37.2023.4.01.3300), considerando-se a posição do réu na organização e as atividades especificas por ele desempenhas demonstram ser inviável a extensão da ordem de habeas corpus a Nilton Borges Borgato e Rowles Magalhães, sobretudo porque a soltura do réu, ainda que com imposição de medidas cautelares diversas ou prisão domiciliar, apresentaria risco de reiteração delitiva, à garantia da ordem pública e à conveniência da instrução criminal. .. ".
+ ..
+Ressalto, ainda, que pela análise da situação do paciente - possibilidade concreta de reiteração criminosa e pela quantidade de cocaína apreendida, cerca de 580 (quinhentos e oitenta quilos) -, verifica-se ser incabível a aplicação das medidas alternativas à prisão, nos termos do art. 282 c/c o art. 319, ambos do Código de Processo Penal (fls. 65-67).
+Assim, é prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
