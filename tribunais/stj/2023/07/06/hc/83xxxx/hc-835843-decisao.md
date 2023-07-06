@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de STEFANY FIRMINA SILVA DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que a paciente foi condenada, como incursa no art. 33 da Lei 11.343/06, às penas de 5 anos de reclusão, em regime semiaberto, e 500 dias-multa, negado o direito de recorrer em liberdade.
+A impetrante afirma que interpôs apelação e requereu, em suas razões, o deferimento de liminar, a fim de que fosse concedido o direito de recorrer em liberdade. Contudo, embora conste no recurso o andamento "aguardando inclusão em pauta para julgamento", não houve apreciação do pleito liminar.
+Defende a possibilidade de a paciente recorrer em liberdade, em razão da natureza do delito e da ausência de fundamentação suficiente para justificar a manutenção da prisão cautelar. Invoca a primariedade, os bons antecedentes e a residência fixa.
+Requer, liminarmente, que a paciente aguarde em liberdade. No mérito, pugna pela confirmação da medida de urgência ou, alternativamente, pela substituição da prisão por medida cautelar diversa.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada pelo Tribunal de origem, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Nota-se que o acórdão indicado na inicial como coator (HC n. 0034081-04.2022.8.19.0000) foi proferido antes da prolação da sentença e já foi analisado por este Superior Tribunal de Justiça no julgamento do HC 757.458, no qual foi denegada a ordem. Inviável, pois, a reiteração de pedido.
+Porém, não há manifestação do Tribunal de origem acerca da possibilidade de recorrer em liberdade, o que impossibilita, como dito, sua análise nesta sede. E a afirmação de que se pleiteou liminar em apelação não altera esse quadro, pois cabe à Defesa levar a questão àquela Corte pelos instrumentos adequados.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
