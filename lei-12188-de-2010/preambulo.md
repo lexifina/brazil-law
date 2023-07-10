@@ -1,0 +1,2 @@
+Institui a Política Nacional de Assistência Técnica e Extensão Rural para a Agricultura Familiar e Reforma Agrária - PNATER e o Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária - PRONATER, altera a Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
