@@ -1,0 +1,72 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001068-53.2021.8.08.0069
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARATAIZES CONFECCOES LTDA
+RECORRIDO: EDICEA DE SOUZA RODRIGUES SILVA e outros
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nos autos 5001068-53.2021.8.08.0069
+
+Recorrente: MARATAIZES CONFECCOES LTDA
+
+Recorrido: EDICEA DE SOUZA RODRIGUES SILVA e KEMILLY RODRIGUES SILVA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. INDENIZAÇÃO POR DANOS MORAIS. RECORRIDAS QUE FORAM EXPOSTAS A SITUAÇÃO VEXATÓRIA COM REVISTA EM VIAS PÚBLICAS. ALEGAÇÕES INICIAIS DE QUE AS AUTORAS FAZIAM COMPRAS DE “FINAL DE ANO” QUANDO ADENTRARAM A LOJA REQUERIDA E FORAM CONSTRANGIDAS PELO GERENTE QUE AS VIGIAVA DE MANEIRA INCOMUM. SENTINDO-SE INCOMODADAS, ADUZEM QUE SAÍRAM DA LOJA SEM COMPRAR NADA. APÓS ADQUIRIREM PRODUTOS EM OUTRAS LOJAS, FORAM ABORDADAS PELO GERENTE DA REQUERIDA QUE AS COAGIU A MOSTRAR AS BOLSAS E SACOLAS PARA VERIFICAREM SUPOSTO FURTO NO INTERIOR DA LOJA REQUERIDA. O PRINCIPAL FUNDAMENTO DA ACUSAÇÃO FOI QUE TODO O FATO SE DEU EM UMA CALÇADA PÚBLICA, FRENTE A TODOS QUE PASSAVAM. EM RECURSO, A RECORRENTE ALEGA QUE AGIU “EM EXERCÍCIO REGULAR DO SEU DIREITO DE VIGIAR E PROTEGER O PATRIMÔNIO DA EMPRESA”, ALÉM DA REALIZAÇÃO DE ABORDAGEM DISCRETA E COM AUTORIZAÇÃO EXPRESSA DAS AUTORAS. AINDA, ADUZ QUE “CONSULTOU AS IMAGENS DO CIRCUITO DE VIDEOMONITORAMENTO E CONSTATOU QUE UMA DELAS HAVIA COLOCADO UMA PEÇA DE ROUPAS DENTRO DE SUA SACOLA E RETIROU-SE SEM EFETUAR O PAGAMENTO PELO PRODUTO”, TODAVIA, NÃO APRESENTOU OS REFERIDOS VÍDEOS DE MONITORAMENTO, O QUE AFASTA VENTILADA DEFESA. CONJUNTO PROBATÓRIO SUFICIENTE PARA CONVENCIMENTO DO JUÍZO. CONDUTA VEXATÓRIA CAPAZ DE CONFIGURAR DANO MORAL INDENIZÁVEL.
+RECORRENTE QUE NÃO APRESENTA FATOS MODIFICATIVOS, EXTINTIVOS OU IMPEDITIVOS DO DIREITO DO AUTOR. SENTENÇA QUE CONDENOU AO PAGAMENTO DE DANOS EXTRAPATRIMONIAIS NO IMPORTE DE R$ 6.000,00 (SEIS MIL REAIS) PARA CADA AUTORA.
+QUANTUM
+QUE SE MOSTRA EM CONSONÂNCIA COM OS PADRÕES DESSA TURMA RECURSAL.
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE NAS DESPESAS DO PROCESSO E EM HONORÁRIOS ADVOCATÍCIOS, NO IMPORTE DE 10% SOB O VALOR DA CONDENAÇÃO E, NÃO HAVENDO, SOB O VALOR DA CAUSA.
+
+VOTOS
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO
+para
+manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de custas e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
