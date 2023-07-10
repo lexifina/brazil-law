@@ -1,0 +1,73 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5006070-87.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TRANSPORTE RODOVIARIO 1500 LTDA
+RECORRIDO: PAULO ABEL PERUCHI MANTOVANI e outros
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5006070-87.2022.8.08.0030
+
+Recorrente: TRANSPORTE RODOVIARIO 1500 LTDA
+
+Recorrido: PAULO ABEL PERUCHI MANTOVANI
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA DE DANOS MATERIAIS E DANOS MORAIS. ACIDENTE DE TR NSITO. AUTOR RELATA QUE ESTAVA TRAFEGANDO PELA BR 101, KM 34, ATRÁS DO CAMINHÃO DA REQUERIDA, QUE CARREGAVA PNEUS DE ESTEPES AMARRADOS AO CHASSI. OS PNEUS ACABARAM SE SOLTANDO E ATINGIRAM SEU VEÍCULO, FAZENDO O CARRO TOMBAR NA PISTA, LEVANDO-O A PERDA TOTAL. EM RECURSO, A PARTE RECORRENTE ALEGA PRELIMINAR DE ILEGITIMIDADE, POR NÃO SER PROPRIETÁRIA DO VEÍCULO CAUSADOR DO ACIDENTE. PRELIMINAR REJEITADA, AO PASSO QUE O SEMIRREBOQUE ERA DE PROPRIEDADE DA REQUERIDA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A REQUERIDA AO PAGAMENTO DE R$26.424,00 (VINTE E SEIS MIL QUATROCENTOS E VINTE E QUATRO REAIS) A TÍTULO DE DANOS MATERIAIS E O MONTANTE DE R$14.000,00 (QUATORZE MIL REAIS) A TÍTULO DE DANOS MORAIS, SENDO R$7.000,00 (SETE MIL REAIS) PARA CADA AUTOR. RECURSO DA PARTE REQUERIDA BUSCANDO A IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS, OU CASO NÃO ENTENDA DESSA FORMA, A DIMINUIÇÃO DO QUANTUM INDENIZATÓRIO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTE O PEDIDO INDENIZATÓRIO DA PARTE AUTORA EDNALVA MIRANDA DOS SANTOS, TENDO EM VISTA QUE A COMPANHEIRA E TITULAR DO REGISTRO VEICULAR NÃO PROVOU TER SOFRIDO LESÃO PESSOAL OU CONSEQUÊNCIAS DO TOMBAMENTO DO CARRO NO SEU PATRIMÔNIO SUBJETIVO. MERO PREJUÍZO MATERIAL QUE NÃO REPERCUTE NECESSARIAMENTE SOBRE A ESFERA MORAL DA PREJUDICADA. MANUTENÇÃO, QUANTO AOS DEMAIS CAPÍTULOS, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9.099/95. SEM CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. POIS A PARTE RÉ/RECORRENTE SAGROU-SE VENCEDORA NA INST NCIA RECURSAL EM, AO MENOS, PARTE DE SEU PLEITO (ART. 55, DA LEI 9.099/95 E PEDIDO DE UNIFORMIZAÇÃO E INTERPRETAÇÃO DE LEI NOS AUTOS Nº 0000642-35.2017.808.9101, DISPONIBILIZADO NO EDIARIO EM 12/04/2018).
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Como consta da ata a decisão foi a seguinte: por unanimidade de votos,
+CONHECER
+do recurso inominado interposto e, por unanimidade, dar a ele
+DAR PROVIMENTO,
+para reformar a sentença e
+JULGAR IMPROCEDENTE O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS
+PARA A PARTE AUTORA
+EDNALVA MIRANDA DOS SANTOS
+. Sem custas e honorários.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
