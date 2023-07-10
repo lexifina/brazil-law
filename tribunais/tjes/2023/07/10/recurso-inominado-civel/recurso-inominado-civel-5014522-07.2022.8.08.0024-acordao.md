@@ -1,0 +1,44 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5014522-07.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ADAIR LIMA RODRIGUES
+RECORRIDO: BANCO BMG SA
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO DESTA TURMA RECURSAL QUE DEU PROVIMENTO AO RECURSO DA PARTE AUTORA
+.
+SUSTENTA A PARTE EMBARGANTE QUE HÁ OMISSÃO QUANTO ÀS COMPRAS REALIZADAS COM O CARTÃO E VALORES CREDITADOS PARA A AUTORA EM SUA CONTA. ALEGA AINDA, OMISSÃO QUANTO AO TEMA REPETITIVO 929 DO STJ, QUE VISA DISCUTIR AS HIPÓTESES DE APLICAÇÃO DA REPETIÇÃO EM DOBRO PREVISTA NO ART. 42, PARÁGRAFO ÚNICO, DO CDC. OS EMBARGOS DE DECLARAÇÃO SÃO RECURSO PARA SUPRIR CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL, NÃO SE PRESTANDO AO REEXAME DE MATÉRIA. O MAGISTRADO NÃO ESTÁ OBRIGADO A SE MANIFESTAR SOBRE TODAS AS ALEGAÇÕES, NEM MESMO FICA ADSTRITO AOS FUNDAMENTOS INDICADOS POR ELAS, BASTANDO-LHE FUNDAMENTAR SUA DECISÃO, MESMO QUE POR RAZÕES OUTRAS. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO QUE NÃO POSSUEM QUALQUER PROPÓSITO DE SUPRIR OS VÍCIOS QUE LHE SÃO PERMITIDOS ATACAR. EM RELAÇÃO AO SUPOSTO CARTÃO UTILIZADO PELA AUTORA, SEQUER EXISTEM NOS AUTOS COMPROVAÇÃO DE QUE A AUTORA TENHA UTILIZADO O CARTÃO EM ESTABELECIMENTOS COMERCIAIS. EM QUE PESE O BANCO TER INFORMADO QUE A AUTORA REALIZOU SAQUES, A OPERAÇÃO DE “SAQUE” INFORMADA PELA REQUERIDA, TRATA-SE DE UM DEPÓSITO EFETUADO PELO BANCO NA CONTA DA AUTORA, E NÃO UMA AÇÃO DE SAQUE EFETUADO EM CAIXAS ELETRÔNICOS OU AGÊNCIAS BANCÁRIAS. ADEMAIS, INDEVIDA A COMPENSAÇÃO DO VALOR DA CONDENAÇÃO COM O SUPOSTO VALOR DISPONIBILIZADO À PARTE AUTORA, UMA VEZ QUE NÃO RESTOU COMPROVADO NOS AUTOS QUE O SUPOSTO EMPRÉSTIMO FOI REVERTIDO PARA A AUTORA. DEVIDA A RESTITUIÇÃO, EM DOBRO, DOS VALORES INDEVIDAMENTE COBRADOS DA AUTORA. INTELIGÊNCIA DO ART. 42, DO CDC, CUJA APLICAÇÃO É PERMITIDA, INOBSTANTE A AFETAÇÃO DO PARADIGMA AO SISTEMA DE JULGAMENTO DE RECURSOS REPETITIVOS DO TEMA 929, DO E. STJ.
+EMBARGOS DE DECLARAÇÃO CONHECIDO E IMPROVIDO
+. SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
