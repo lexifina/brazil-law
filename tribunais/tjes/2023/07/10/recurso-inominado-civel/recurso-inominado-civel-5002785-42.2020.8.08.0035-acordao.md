@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002785-42.2020.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JORGE DE OLIVEIRA GAMA FILHO
+RECORRIDO: CERTA TRANSPORTES LOGISTICA E ARMAZENAGEM LTDA
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE COBRANÇA C/C REPARAÇÃO DE DANOS MORAIS. INCOMPETÊNCIA TERRITORIAL. NARRA O AUTOR QUE FOI CONTRATADO PELA RÉ PARA REALIZAÇÃO DE FRETE DE CARGA ESTIMADA EM R$487.966,741 DE APARECIDA/GO ATÉ SUA FILIAL EM GUARULHOS/SP, E PARA A FILIAL DA EMPRESA PREMIUM COMÉRCIO DE PRODUTOS DE USO PESSOAL LTDA EM VILA GUILHERME/SP. A PARTE CABÍVEL AO REQUERENTE FOI DEVIDAMENTE CUMPRIDA. REQUERIDA DEIXOU DE PAGAR DESDE 06/08/2019 A QUANTIA DE R$3.300,00. FORAM REALIZADAS DIVERSAS TENTATIVAS, INCLUSIVE NOTIFICAÇÃO EXTRAJUDICIAL, PORÉM, SEM ÊXITO. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO QUE A RÉ SEJA COMPELIDA A PAGAR R$3.880.67 À QUE DEVE E R$6.000,00 A TÍTULO DE DANOS MORAIS. SENTENÇA DE PISO JULGOU EXTINTO O PROCESSO SEM RESOLUÇÃO DO MÉRITO POR ENTENDER PELA INCOMPETÊNCIA DO JUIZADO ESPECIAL DE VILA VELHA PARA O PROCESSAMENTO DA AÇÃO. RECURSO INOMINADO BUSCANDO A DECLARAÇÃO DA COMPETÊNCIA DO JUIZADO ESPECIAL DE VILA VELHA.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE AÇÃO DE COBRANÇA, COM RELAÇÃO CONTRATUAL NÃO CONSUMERISTA. SENTENÇA DEVIDAMENTE FUNDAMENTADA. COMPETÊNCIA TERRITORIAL DO JUIZADO ESPECIAL DE VILA VELHA NÃO COMPATÍVEL COM AS DISPOSIÇÕES DO ART. 4.º DA LEI 9.099/95. SENDO IMPORTANTE FRISAR QUE A COBRANÇA DE VALOR DEVIDO NÃO SE CONFUNDE COM INDENIZAÇÃO POR DANO MATERIAL, RAZÃO PELA QUAL DEVE SER APLICADO O ART. 4.º, I, DA LEI 9.099/95. SOB PENA DE PREJUÍZO PROCESSUAL AO RÉU E POSSÍVEL NULIDADE.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
