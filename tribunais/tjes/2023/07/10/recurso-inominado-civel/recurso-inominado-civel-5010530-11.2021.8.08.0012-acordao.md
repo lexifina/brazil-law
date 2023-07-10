@@ -1,0 +1,71 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5010530-11.2021.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DINILSON MORAES
+RECORRIDO: VIA VAREJO S/A
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5010530-11.2021.8.08.0012
+
+Recorrente:
+DINILSON MORAES
+
+Recorrido:
+VIA VAREJO S/A
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Deferido pedido de justiça gratuita da parte recorrente.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO MATERIAL E DANOS MORAIS. CONSUMIDOR RECORRENTE QUE ALEGA TER COMPRADO APARELHO DE TELEVISÃO PELO VALOR DE R$ 4.999,00 E TANQUINHO DE LAVAR ROUPAS NO VALOR DE R$ 539,00 MEDIANTE PARCELAMENTO EM 10X NO CARTÃO DE CRÉDITO. ENTRETANTO, OBSERVOU COBRANÇAS A MAIOR EM SEU CARTÃO, TORNANDO A TELEVISÃO AO VALOR DE R$ 5.416,60 E O TANQUINHO CHEGOU A R$ 639,00. EM DEFESA, A RÉ/RECORRIDA ALEGOU QUE OS VALORES INCLUEM JUROS E FRETE E, A DESPEITO DO VALOR INCORRETO DA TELEVISÃO, A DIFERENÇA FOI ESTORNADA AO CARTÃO DO RECORRENTE, VISTO QUE ERA REFERENTE A SEGURO INDEVIDAMENTE INSERIDO. A SENTENÇA OBJURGADA JULGOU TOTALMENTE IMPROCEDENTES OS PEDIDOS AUTORAIS, SOB FUNDAMENTO DE QUE O AUTOR DETINHA CONHECIMENTO DOS VALORES, JÁ QUE A FINALIZAÇÃO DA COMPRA DEPENDIA DE UTILIZAÇÃO DO CARTÃO DE CRÉDITO COM CONFIRMAÇÃO POR SENHA. COM RAZÃO A DECISÃO. AINDA, CABE SOPESAR A ALEGAÇÃO DO RECURSO INOMINADO NO QUE ADUZ, IN VERBIS QUE “DEVE-SE TER EM CONTA, AINDA, QUE O FATO DE ALGUÉM INGRESSAR EM JUÍZO SEM ESTAR REPRESENTADO POR PROFISSIONAL HABILITADO, COMO NO CASO DOS AUTOS, MERECE SER SOPESADO COM CAUTELA QUANDO DA APRECIAÇÃO DAS PEQUENAS CAUSAS CÍVEIS, POIS NÃO SÃO POUCAS AS VEZES QUE O MELHOR DIREITO ASSISTE AO CONSUMIDOR, MAS A EXTREMA DIFICULDADE EM MANEJAR AS REGRAS DO PROCESSO, NÃO RARO, O IMPEDEM-NO [SIC] DE COMPROVÁ-LO”. NESSE PASSO, FAZ-SE NECESSÁRIO OBSERVAR QUE O RECORRENTE TROUXE AOS AUTOS AS NOTAS FISCAIS DAS COMPRAS, ENTRETANTO NÃO REÚNE SUPOSTA FOTO DO VALOR DIVERSO DO TANQUINHO EM ENCARTE NA LOJA RECORRIDA, TAMPOUCO FATURA DO CARTÃO DE CRÉDITO QUE COMPROVA, MINIMAMENTE, O VALOR COBRADO EM DIVERGÊNCIA OU QUE NÃO HOUVE QUALQUER ESTORNO POR PARTE DA RECORRIDA. ISSO, APESAR DA APLICAÇÃO DO ART. 6º, VIII DO CDC, NÃO IMPORTA EM PROVA EXCESSIVAMENTE COMPLEXA, PELO CONTRÁRIO, CONSTITUEM ACERVO MINIMAMENTE COMPROBATÓRIO DAS ALEGAÇÕES AUTORAIS. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE NAS CUSTAS PROCESSUAIS E EM HONORÁRIOS ADVOCATÍCIOS NO IMPORTE DE 10% SOB A CONDENAÇÃO E, NÃO HAVENDO, SOB O VALOR CORRIGIDO DA CAUSA. EXIGIBILIDADE, CONTUDO, SUSPENSA FRENTE A CONCESSÃO DAS BENESSES DA JUSTIÇA GRATUITA EM FAVOR DO RECORRENTE.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO
+para
+manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de custas e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
