@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5009862-49.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LEOPOLDO AMANCIO NETTO
+RECORRIDO: CNK ADMINISTRADORA DE CONSORCIO LTDA.
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de AJG à parte recorrente.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+AÇÃO DE RESCISÃO POR NULIDADE CONTRATUAL.
+RESCISÃO CONTRATUAL E RESTITUIÇÃO DE PARCELAS PAGAS
+C/C DANOS MORAIS
+. CONSÓRCIO. PROMESSA DE CONTEMPLAÇÃO IMEDIATA EM CONSÓRCIO. ERRO SUBSTANCIAL CONFIGURADO. MANIFESTAÇÃO DE VONTADE VICIADA. NULIDADE DO NEGÓCIO JURÍDICO. ALEGA O AUTOR TER ADERIDO A UM CONTRATO DE CONSÓRCIO COM O REQUERIDO, DESISTINDO DO MESMO, SENDO CERTO QUE FOI PROMETIDO UMA CONTEMPLAÇÃO RÁPIDA, O QUE NÃO ACONTECEU. CARTA DE CANCELAMENTO JUNTADA EM ID 4154127.
+SENTENÇA QUE ASSIM DEFINIU:
+“JULGO PROCEDENTE, em parte, o pedido inicial, pelo que, CONDENO, a parte requerida, na restituição do valor total pago pela parte autora, AO FINAL DO GRUPO OU COM A CONTEMPLAÇÃO DA COTA DA PARTE AUTORA, descontando o percentual de 25% sobre este valor pago, devidamente atualizado com juros de 1% ao mês, a partir do trigésimo primeiro dia após o encerramento do grupo e correção monetária da data da exclusão da parte autora do consórcio. JULGO IMPROCEDENTE o pedido de danos morais”.
+
+RECURSO DA PARTE AUTORA
+REQUERENDO A DEVOLUÇÃO IMEDIATA DOS VALORES PAGOS PELO RECORRENTE, SEM QUALQUER DESCONTO, TENDO EM VISTA A ILICITUDE DA CONDUTA DA RECORRIDA, BEM COMO INDENIZAÇÃO POR DANOS MORAIS.
+RECURSO CONHECIDO E PROVIDO.
+APÓS DETIDA ANÁLISE DOS AUTOS, VERIFICO QUE É CASO DE REFORMA DA SENTENÇA. ISSO PORQUE, AO CONTRÁRIO DO QUE ALEGA A PARTE REQUERIDA, HÁ DEMONSTRAÇÃO INEQUÍVOCA NOS AUTOS, ESPECIALMENTE PELO ID4154123 QUE O AUTOR TINHA RENDA DE R$1.690,00, O QUE, OBVIAMENTE, É ABSOLUTAMENTE INCOMPATÍVEL COM AS PARCELAS E OBRIGAÇÕES ASSUMIDAS NO CONTRATO, DA ORDEM INDIVIDUAL DE R$4.499,87, CHEGANDO A ULTRAPASSAR A MONTE DE R$20.000,00 MENSAIS, DA FORMA COMO ENTABULADO, O QUE EVIDENCIA A VEROSSIMILHANÇA DA ALEGAÇÃO AUTORAL DE QUE HOUVE FALHA NA PRESTAÇÃO DO SERVIÇO, PORQUANTO A PARTE AUTORA NÃO FOI ESCLARECIDA E INFORMADA DE MANEIRA CLARA E ADEQUADA SOBRE O PRODUTO E SERVIÇO EM CONTRATAÇÃO. NESSE SENTIDO, ENTENDO QUE HOUVE VIOLAÇÃO AO DIREITO DE INFORMAÇÃO DO AUTOR, PREVISTO NO ARTIGO 6º, III, CDC. DIREITO DO CONSUMIDOR. CONSÓRCIO É UMA OPERAÇÃO DE CAPTAÇÃO DE RECURSOS EM GRUPO FECHADO. PRAZO DA RESTITUIÇÃO. PRECEDENTES DO TJES NO SENTIDO DA APLICAÇÃO DA TESE DO REPETITIVO AOS CASOS POSTERIORES À VIGÊNCIA DA LEI 11.795/2008, CONFORME APELAÇÃO CÍVEL, 0036490-57.2017.8.08.0024 (024170320998 -
+RELATORA: DES. ELIANA JUNQUEIRA MUNHOS FERREIRA, ÓRGÃO JULGADOR: TERCEIRA CÂMARA CÍVEL , DATA DE JULGAMENTO: 19/10/2021, DATA DA PUBLICAÇÃO NO DIÁRIO: 29/10/2021
+) MERECENDO O SEGUINTE DESTAQUE: “[...]
+De fato, se a rescisão do contrato de consórcio se deu por culpa exclusiva da administradora do consórcio, a requerente faz jus à devolução imediata e integral da quantia que havia sido paga, a fim de retornar à situação jurídica anterior à celebração do pacto [...]”
+. LESIVIDADE DO COMPORTAMENTO QUE TRANSBORDA AO MERO ABORRECIMENTO, SENDO JUSTIFICÁVEL A IMPOSIÇÃO DE INDENIZAÇÃO PELO ABALO DE CARÁTER IMATERIAL. ISTO POSTO, CONHEÇO PARCIALMENTE DO RECURSO INOMINADO, E NO MÉRITO, DOU-LHE PROVIMENTO PARA REFORMAR A SENTENÇA PARA FINS DE DETERMINAR A RESTITUIÇÃO IMEDIATA DO VALOR PAGO, SEM RETENÇÃO DA TAXA DE ADMINISTRAÇÃO, DIANTE DO RECONHECIMENTO DO VÍCIO DE CONSENTIMENTO.
+JUROS DE MORA DE 1% AO MÊS E CORREÇÃO MONETÁRIA OBSERVADO O IPCA-E, EM CONFORMIDADE COM O RE 870942 - STF - JULGADO EM 20/11/2017 A PARTIR DO EFETIVO DESEMBOLSO.
+FIXO O VALOR DE R$3.000,00 A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.
+JUROS DE MORA DE 1% AO MÊS E CORREÇÃO MONETÁRIA OBSERVANDO O IPCA-E, EM CONFORMIDADE COM O RE870942 – STF - JULGADO EM 20/11/2017, A PARTIR DESTE ARBITRAMENTO, NA FORMA DA SÚMULA 362 - STJ.
+SEM CUSTAS E HONORÁRIOS, ANTE O PROVIMENTO PARCIAL DO RECURSO.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
