@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5031475-46.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA
+RECORRIDO: SAMANTHA DA COSTA SILVA
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA DE URGÊNCIA. ADUZ A AUTORA, EM SÍNTESE, TER SIDO ALUNA DO CURSO DE DIREITO OFERTADO PELA REQUERIDA NO PERÍODO DE 2018 ATÉ 2021, TENDO QUITADO TODAS AS MENSALIDADES. APÓS, PROCEDEU COM A TRANSFERÊNCIA PARA FACULDADE CESV. CONTUDO, AFIRMA TER SE SURPREENDIDO COM A NEGATIVAÇÃO INDEVIDA DE SEU NOME NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO PELA RÉ, NO VALOR DE R$1.024,56 (MIL E VINTE E QUATRO REAIS E CINQUENTA E SEIS CENTAVOS). ALEGA TER ENTRADO EM CONTATO COM A REQUERIDA E RECEBEU A INFORMAÇÃO DE QUE NÃO POSSUÍA DÉBITOS, CONTUDO A NEGATIVAÇÃO NÃO FORA RETIRADA. A SENTENÇA DE PISO CONFIRMOU A TUTELA PROVISÓRIA CONCEDIDA NO ID 18220678, TORNANDO-A DEFINITIVA, E CONDENOU A REQUERIDA A PAGAR À AUTORA O VALOR DE R$5.000,00 (CINCO MIL REAIS) A TÍTULO DE DANOS MORAIS, COM CORREÇÃO MONETÁRIA PELO ÍNDICE DA CORREGEDORIA LOCAL, DESDE O ARBITRAMENTO (SÚMULA 362, STJ), E JUROS DE MORA A CONTAR DA CITAÇÃO (ART. 397, PARÁGRAFO ÚNICO C/C ART. 405, DO CC). RECURSO INOMINADO DO REQUERIDO PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS POR NÃO TER HAVIDO FALHA NA PRESTAÇÃO DOS SERVIÇOS
+OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS
+.
+RECURSO CONHECIDO E IMPROVIDO.
+APÓS A ANÁLISE DOS DOCUMENTOS ACOSTADOS VERIFICO QUE O REQUERIDO NÃO COLACIONOU AOS AUTOS PROVAS DE QUE A AUTORA ESTIVESSE EM DÍVIDA COM O MESMO. A ALEGAÇÃO DE QUE A AUTORA TERIA ADERIDO AO PROGRAMA “DIS” NÃO FORA COMPROVADO, POIS NÃO HÁ NOS AUTOS CONTRATO OU TERMO DE ADESÃO AO REFERIDO PROGRAMA. ASSIM, HOUVE NEGATIVAÇÃO INDEVIDA DA AUTORA. INCLUSIVE A COBRANÇA É DE PARCELA EM MÊS POSTERIOR À SAÍDA DA AUTORA DA FACULDADE. SENTENÇA DEVIDAMENTE FUNDAMENTADA. OS
+DANOS MORAIS FORAM ARBITRADOS CONFORME RAZOABILIDADE.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
