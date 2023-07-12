@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por Adriana Antonia da Silva contra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios que, em juízo de admissibilidade, negou seguimento ao recurso especial por ela apresentado, com fulcro no art. 105, III, a, do permissivo constitucional, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0000078-81.2021.8.07.0003, assim ementado (fl. 231):
+APELAÇÃO CRIMINAL. FURTO. MATERIALIDADE E AUTORIA COMPROVADAS. PRINCÍPIO DA INSIGNIFICÂNCIA. REQUISITOS AUSENTES. HABITUALIDADE CRIMINOSA. TEORIA DA APPREHENSIO OU AMOTIO. RECONHECIMENTO DA TENTATIVA. DESCABIMENTO. ARREPENDIMENTO POSTERIOR. FRAÇÃO ADEQUADA. RECURSO CONHECIDO E DESPROVIDO.
+1. Mantém-se a condenação da apelante quando suficientemente comprovadas a autoria e a materialidade delitivas do crime imputado na denúncia.
+2. Para a aplicação do princípio da insignificância, deve-se considerar a presença da mínima ofensividade da conduta perpetrada pelo agente; ausência de periculosidade social da ação; reduzidíssimo grau de reprovabilidade do comportamento; e, inexpressividade da lesão jurídica provocada, tudo conforme precedente oriundo do eg. STF (HC n. 84.412).
+3. A reiteração criminosa do agente reveste-se de reprovabilidade e afasta a aplicação do princípio da insignificância.
+4. Segundo a teoria da amotio, para a consumação do crime de furto, basta a ocorrência da inversão da posse sobre o bem subtraído, ainda que por curto período e de forma vigiada, de modo que não há falar em mera tentativa quando a res furtiva ingressa na esfera de poder do agente criminoso.
+5. Adequada a fração de redução em 1/3, quanto ao arrependimento posterior, tendo em vista que a restituição dos bens da vítima só ocorreu após a condução do agente à delegacia.
+6. Recurso conhecido e desprovido.
+Nas razões do especial, a Defensoria Pública apontou violação do art. 386, III, do Código de Processo Penal, defendendo, em suma, o reconhecimento da atipicidade material da conduta, pela caracterização da insignificância penal, decorrente da inexistência de lesão ao bem jurídico tutelado, a demonstrar a desproporção para a intervenção penal, salientando que a reincidência, por si só, não é impeditivo do reconhecimento da insignificância (fls. 252/253).
+Apresentadas contrarrazões (fls. 305/307), o Tribunal local não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 285/286).
+Daí o presente agravo (fls. 288/302). Instado a se manifestar, o Ministério Público Federal opina pelo não conhecimento do recurso especial, nos seguintes termos (fl. 329):
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO NA HIPÓTESE. REINCIDÊNCIA E MAUS ANTECEDENTES. DESVALOR DA CONDUTA. SÚMULA 83/STJ.
+1. Os maus antecedentes e reiteração delitiva da acusada que ostenta condenações anteriores recomenda a não aplicação do princípio da insignificância.
+2. Recurso especial que não deve ser conhecido.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões recursais.
+Busca a Defensoria a absolvição da ora agravante, pela atipicidade material da conduta, com aplicação do princípio da insignificância.
+Extrai-se dos autos que a ora agravante foi condenada à pena de 10 meses de reclusão, em regime inicial aberto, além do pagamento de 9 dias-multa, como incursa no art. 155, caput, do Código Penal (fls. 175/181).
+Na sentença, o Juiz concluiu pela inviabilidade da aplicação do princípio da insignificância, afirmando que, embora diante do pequeno valor dos bens subtraídos, bem como pela inexpressividade da lesão jurídica provocada, não estão presentes os demais requisitos. Nesse ponto, ressalta-se que a ré ostenta outras condenações por crimes de mesma natureza (FAP de id 112606497), o que ressalta a ofensividade da sua conduta e evidencia que a aplicação do instituto é socialmente indesejável (fl. 178 - grifo nosso).
+O Tribunal distrital manteve a sentença mediante os seguintes fundamentos (fls. 233/234 - grifo nosso):
+  Em relação à suscitada aplicação do princípio da insignificância, mister tecer algumas considerações.
+Sabe-se que para a aplicação do princípio da insignificância, deve-se ponderar a presença da mínima ofensividade da conduta perpetrada pelo agente; ausência de periculosidade social da ação; reduzidíssimo grau de reprovabilidade do comportamento; e, ainda, inexpressividade da lesão jurídica provocada, tudo conforme precedente oriundo do e. STF (HC n. 84.412).
+Na verdade, para averiguar a inexpressividade da lesão jurídica provocada, o c. STJ utiliza-se de um critério objetivo, também abraçado pela jurisprudência oriunda deste egrégio TJDFT, qual seja, a de que a res furtiva não ultrapasse o montante de 10% (dez por cento) do salário-mínimo vigente ao tempo dos fatos. A título de exemplo, colaciono os seguintes precedentes:
+ ..
+No particular, os bens subtraídos totalizaram o valor de e R$ 126,17 (cento e vinte e seis reais e dezessete centavos), montante que supera um pouco o patamar de 10% do salário mínimo vigente à época dos fatos, que era de R$ 1.045,00 (mil e quarenta e cinco reais).
+No entanto, conforme já consignado pelo d. Juiz sentenciante, apesar do possível enquadramento da inexpressividade da lesão jurídica provocada, os outros vetores precisam estar presentes e, no caso, a acusada registra condenações por delitos patrimoniais, o que caracteriza a sua habitualidade delitiva, fato que imprime maior reprovabilidade na prática da conduta em exame, afastando a aplicação do princípio da insignificância.
+Nesse sentido é iterativa a jurisprudência que se emana do c. STJ e deste egrégio TJDFT, de que são exemplos os seguintes julgados:
+ ..
+Desse modo, bem ao contrário do que faz crer a d. defesa, os pressupostos para a aplicação do beneplácito não se mostram presentes na hipótese em comento, sendo, pois, descabida sua aplicação.  ..
+De fato, na hipótese dos autos, não há como se afirmar o desinteresse estatal à repressão da conduta praticada pela agravante.
+É certo que o princípio da insignificância pressupõe o afastamento da tipicidade do delito quando da conduta não resultar dano juridicamente relevante.
+Sobre o tema, de maneira meramente indicativa e não vinculante, a jurisprudência desta Corte, entre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial.
+Também é certo que a reincidência e/ou a reiteração delitiva não constituem óbices intransponíveis ao reconhecimento da atipicidade material, caso presente a insignificância da conduta (AgRg no HC n. 188.494/MG, Ministra Rosa Weber, Primeira Turma, DJe 23/2/2022).
+Na hipótese dos autos, além de não se mostrar insignificante a conduta praticada, porquanto os bens subtraídos totalizaram o valor de R$ 126,17 (cento e vinte e seis reais e dezessete centavos), superior a 10% do salário mínimo da época (R$ 1.045,00 - mil e quarenta e cinco reais - 2020), a ora agravante registra várias condenações por delitos patrimoniais (fl. 179), o que caracteriza a sua habitualidade delitiva, não havendo, por certo, como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, tampouco a inexpressividade da lesão jurídica provocada.
+Deste modo, no caso, a reiteração criminosa inviabiliza a aplicação do princípio da insignificância.
+Nessa linha: AgRg no AREsp n. 2.232.330/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/6/2023; AgRg no AREsp n. 1.997.477/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 26/6/2023; AgRg no AREsp n. 2.278.093/RS, Ministro Ribeiro Dantas, Quinta T urma, DJe 28/4/2023; AgRg no REsp n. 2.025.205/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/4/2023; AgRg no HC n. 717.998/PR, Ministro Messod Azulay Neto, Quinta Turma, DJe 20/4/2023; AgRg no HC n. 745.513/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 20/4/2023; AgRg no REsp n. 2.008.836/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 19/12/2022; AgRg no HC n. 659.833/SC, Ministra Laurita Vaz, Sexta Turma, DJe 25/5/2021, entre outros.
+É o caso, pois, de incidir a Súmula 568/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PATRIMÔNIO. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. HABITUALIDADE DELITIVA. VÁRIAS CONDENAÇÕES POR CRIMES DA MESMA NATUREZA. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
