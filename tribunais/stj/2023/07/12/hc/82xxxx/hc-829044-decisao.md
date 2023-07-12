@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ricardo da Silva Menezes, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 1502229-31.2022.8.26.0536) que o paciente foi condenado à pena de 6 anos de reclusão, em regime fechado, e 15 dias-multa, pelo Juízo da 6ª Vara Criminal do Foro de Santos/SP, como incurso no art. 157, § 1º, do Código Penal, por ter subtraído, para si, uma bicicleta do tipo cargueira, avaliada em aproximadamente R$ 600,00 (seiscentos reais), empregando, após a subtração da coisa, violência física contra a vítima , para assegurar a detenção do bem (fls. 77/90).
+Em sede de apelação (Apelação Criminal n. 1502229-31.2022.8.26.0536), a Oitava Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 91/101). O julgado recebeu a seguinte ementa (fl. 92):
+APELAÇÃO CRIMINAL - ROUBO SIMPLES - DESCLASSIFICAÇÃO PARA O CRIME DE FURTO - IMPOSSIBILIDADE - DEPOIMENTO DA VÍTIMA SEGURO E AMPARADO NOS DEMAIS ELEMENTOS DE PROVA - CONDENAÇÃO MANTIDA - No crime de roubo, o depoimento da vítima, seguro e corroborado pelos demais elementos de prova, possui grande relevância e é suficiente para embasar decreto condenatório. Tendo o réu empregado violência contra a vítima, visando a subtração do bem dela, caracterizado está o crime de roubo - Recurso não provido.
+No presente writ, a defesa aponta ilegalidade pelo não reconhecimento da atenuante prevista no art. 65, III, d, do Código Penal. Sustenta que a confissão deve ser aplicada, ainda que não tenha assumido o emprego de violência, quando da subtração do bem (fls. 3/14).
+Decisão deste Relator indeferindo a liminar (fls. 104/105).
+Prestadas informações pela Presidência do Tribunal de Justiça de São Paulo (fls. 117/145).
+Parecer ministerial opinando pela concessão da ordem, com a consequente compensação parcial, com a reincidência (fls. 149/152).
+É o relatório.
+Razão assiste à defesa. De acordo com o acórdão hostilizado, não existe dúvida alguma quanto ao fato de ter o paciente confessado, mas, sim, quanto à totalidade da confissão, já que, apesar de ter confessado que subtraiu o bem do ofendido, não admitiu o emprego da violência para tal, visando reduzir a sua responsabilidade penal (fl. 100).
+O entendimento trazido pela instância ordinária foi o de que o paciente teria tido a pretensão de ver reduzida a sua responsabilidade criminal, e que não teria agido com lealdade processual. Entretanto, nos moldes da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, como no caso em análise (HC n. 549.595/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/2/2020).
+Na hipótese dos autos, foi reconhecida também a multirreincidência, em razão de quatro condenações transitadas em julgado, que foram apontadas na sentença, pelo delito de latrocínio (Autos n. 0005209-55.1996.8.26.0562), furto qualificado (Autos n. 0001761-74.1996.8.26.0562), apropriação indébita (Autos n. 0002098-63.1996.8.26.0562) e furto (Autos n. 1500863-93.2018.8.26.0536).
+Por ser o paciente multirreincidente, a compensação não será integral, mas, sim, parcial. Nesse sentido:
+ ..
+III - Da jurisprudência desta eg. Corte Superior, se extraii o entendimento segundo o qual "Embora reconhecida a atenuante da confissão no presente caso, é inviável a compensação integral com a agravante, considerando que o paciente é efetivamente multirreincidente. Com efeito, em se tratando de agente que ostenta mais de uma sentença configuradora de reincidência, a compensação deve ser parcial. Assim, demonstrada a multirreincidência, o paciente faz jus à compensação parcial, de forma que nenhuma censura merece o quantum estabelecido pelo pelas instâncias ordinárias, que se mostra proporcional" (AgRg no HC n. 710.909/SP, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 14/3/2022).
+ ..
+(AgRg no AREsp n. 2.306.603/DF, Ministro Messod Azulay, Quinta Turma, DJe 2/6/2023)
+Na sentença, quando feita a dosimetria, a pena-base foi fixada no piso mínimo de 4 anos de reclusão e 10 dias-multa. Na segunda fase, foi aplicado o aumento na fração de 1/2, em razão da multirreincidência, portanto, 6 anos de reclusão e 15 dias-multa. Procedendo-se agora à compensação parcial, pela atenuante de confissão espontânea, deve a pena provisória ser reduzida a 5 anos de reclusão e 12 dias-multa, que se torna definitiva nesse patamar, por ausência de causas de aumento ou de diminuição da pena.
+O regime de cumprimento da pena deverá ser mantido o fechado, em face de ser o pac iente reincidente.
+Ante o exposto, concedo a ordem a fim de redimensionar a pena do paciente para 5 anos de reclusão, em regime fechado, e 12 dias-multa.
+Intime-se o Ministério Público estadual.
+Publiqu e-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. PLEITO DA DEFESA DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA PARCIAL. POSSIBILIDADE. PARECER MINISTERIAL FAVORÁVEL. COMPENSAÇÃO PARCIAL ENTRE ATENUANTE E REINCIDÊNCIA, POR SER O PACIENTE MULTIRREINCIDENTE. MANTIDO O REGIME FECHADO. REDIMENSIONAMENTO DA PENA.
+Ordem concedida nos termos do dispositivo.
