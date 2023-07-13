@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de tutela provisória incidental formulado por QUIFEL ENERGY BRASIL GESTAO EMPRESARIAL LTDA, em que pretende seja atribuído efeito suspensivo ao agravo em recurso especial pendente de remessa a esta Corte Superior.
+A requerente sustenta a plausibilidade das alegações recursais e o risco da demora. Nesse sentido, aduz que (fl. 8):
+O que se pleiteia aqui NÃO É a procrastinação do cumprimento de um julgado. É que, diante dos inúmeros erros de julgamento, e dos elevados valores envolvidos, que tendem a aumentar ainda mais com a incidência dos acréscimos, a concessão do efeito suspensivo faz-se a medida mais prudente no momento, pois assim o levantamento dos recursos em tela apenas poderá ocorrer após dirimida todas as questões jurídicas debatida no apelo nobre.
+Pleiteia a concessão de tutela provisória de urgência para que seja concedido efeito suspensivo ao agravo em recurso especial, de modo a suspender qualquer medida direcionada ao levantamento do depósito de valores decorrentes do cumprimento provisório de sentença em trâmite perante o Juízo de origem.
+É o relatório.
+De acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não está evidenciado o periculum in mora, pois as razões do requerimento trazem apenas argumentações genéricas quanto à necessidade de suspensão de depósitos vinculados ao processo em trâmite nas instâncias ordinárias, alegações inerentes a qualquer demanda de conteúdo patrimonial, insuficientes para a concessão de medidas excepcionais.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se. Intimem-se.
