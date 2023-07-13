@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Marciel Sousa Aguiar contra o acórdão proferido pelo Tribunal de Justiça do Maranhão no HC n. 0807006-69.2023.8.10.0000, resumido nos termos desta ementa (fls. 83/84):
+HABEAS CORPUS. PENAL E PROCESSO PENAL. ASSOCIAÇÃO CRIMINOSA. RECEPTAÇÃO QUALIFICADA. PORTE ILEGAL DE ARMA DE FOGO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. DESNECESSIDADE DA MEDIDA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. GRAVIDADE EM CONCRETO DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXTENSÃO DOS EFEITOS DA ORDEM DE HABEAS CORPUS CONCEDIDA EM FAVOR DO CORRÉU. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. EXCESSO DE PRAZO. INCORRÊNCIA. MARCHA PROCESSUAL REGULAR FRENTE ÀS PECULIARIDADES DO CASO. ORDEM CONHECIDA E DENEGADA.
+1. Primeiramente, verifico que está devidamente fundamentado o decreto preventivo, com base nos indícios de autoria e prova da materialidade, bem como no risco à ordem pública face a gravidade em concreto dos delitos (associação criminosa com participação de adolescentes; receptação qualificada; porte ilegal de arma de fogo e corrupção de menores) e risco de reiteração criminosa.
+2. Não há similitude fático-processual entre a situação do paciente e a do corréu beneficiado com a ordem de habeas corpus da qual se pede a extensão, de modo que inviável a concessão da ordem com arrimo no art.
+580 do CPP.
+3. No caso concreto, a ordem concedida ao corréu considerou razão exclusivamente pessoal, que consistiu na concessão de liberdade provisória em momento anterior à decretação de sua prisão preventiva, fato que não ocorreu em relação ao paciente.
+4. Acerca da insurgência do impetrante em relação ao suposto excesso de prazo para a formação da culpa, não se vislumbra demonstração clara de ilicitude, uma vez que, conforme entendimento consolidado das Cortes Superiores, a mera extrapolação da soma aritmética dos prazos abstratamente previstos na lei processual não o caracteriza automaticamente, devendo ser observadas as peculiaridades do caso concreto, à luz do princípio da razoabilidade.
+5. Verificando que a marcha processual se deu de forma regular diante das peculiaridades do caso, não há falar em excesso de prazo na situação vertente, valendo ressaltar que a instrução processual já se encontra finalizada, estando o processo originário em fase de alegações finais.
+6. Ordem conhecida e denegada.
+Aqui, alega-se, em síntese, o seguinte (fls. 109/110):
+- Falta de fundamentação idônea erigida do art. 93, IX, da CF, para manutenção da segregação cautelar com base em dados concretos nos autos a justificar-se a aplicação da medida de extrema exceção como última ratio; (afronta direta aos dispositivos da CF, art. 93, IX, e Lei n. 13.964/2019);
+- compatibilidade da aplicação das medidas cautelares alternativas à prisão com o caso concreto, ante a ausência de periculosidade exacerbada do recorrente, bem como dos elementos do art. 312 e art. 313, ambos do CPP;
+- extensão do benefício já concedido ao outro réu do mesmo processo sobre a mesma decisão vergastada por ausência de fato novo e contemporaneidade do fato que motivou a prisão;
+- excesso de prazo, haja vista transpassados mais de 150 dias e ergástulo provisório sem formação de culpa;
+Requer-se a imediata expedição de ordem liberatória em favor do recorrente ou a substituição da preventiva por medidas cautelares alternativas (art. 319 do CPP), a fim de que possa responder em liberdade à Ação Penal n. 0801163-35.2022.8.10.0073, em curso na 2ª Vara da comarca de Barreirinhas/MA.
+Indeferi o pedido de urgência (fls. 148/150).
+Informes encaminhados pelo Juízo de primeiro grau às fls. 163/166.
+Ouvido, o Ministério Público Federal opinou pelo não provimento do recurso (fls. 178/186).
+É o relatório.
+Quanto à alegada delonga na tramitação da ação penal, tem-se que a instrução processual já foi concluída. Dessa forma, aplicável, ao caso, os termos da Súmula 52/STJ: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+No que se refere ao decreto de prisão, não diviso ilegalidade flagrante, notadamente diante da circunstância referenciada pelo Tribunal a quo, qual seja, o risco concreto de reiteração delitiva.
+Confira-se (fls. 87/88 - grifo nosso):
+ ..
+In casu, ao contrário do que alega o impetrante, verifico que a decisão que decretou a prisão cautelar do paciente, antes de ser fundamentada inidoneamente, foi amparada em fatos concretos, retirados das informações colhidas em sede investigativa pela autoridade policial, com destaque para a presença de indícios suficientes de autoria e materialidade, bem como para a gravidade em concreto dos delitos.
+No mesmo sentido, ao exarar a decisão que negou o pedido de liberdade provisória ao paciente nos autos de origem da presente impetração (ID 88495228 - processo de origem), a autoridade impetrada justificou a manutenção da prisão preventiva apontando estarem inalterados os fatos que ensejaram sua decretação inicial.
+Além disso, em recente decisão, ao mais uma vez manifestar-se sobre pedido de liberdade provisória formulado pelo ora paciente (ID 90718520 - processo de origem), o magistrado destacou a existência de outra ação penal em seu desfavor. Trata-se do Processo n. 0000080- 85.2020.8.10.0073, em trâmite na mesma comarca de origem, no qual verifiquei, inclusive, a prolação de sentença condenatória, pela prática do crime de roubo majorado.
+Nesse sentido, tem-se que o fato de ser processado em outra ação penal, pela prática de crime grave e praticado com violência denota o risco de reiteração delituosa, o que se soma aos fundamentos que ensejaram preteritamente a decretação do ergástulo cautelar e, decerto, ratifica a necessidade de sua manutenção.
+Vê-se, portanto, que a autoridade judicial, ao manter a prisão preventiva do paciente, adotou entendimento que vai ao encontro do raciocínio encampado pelo Superior Tribunal de Justiça, no sentido de que a gravidade em concreto do delito e que a existência de outras ações penais em curso, constituem elementos capazes de demonstrar o risco social, justificando a decretação da prisão preventiva para garantia da ordem pública.
+ ..
+Com feito, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública (RHC n. 114.454/AL, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020).
+Dessa forma, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública (AgRg no RHC n. 142.736/MT, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 20/8/2021).
+Na mesma linha o RHC n. 139.650/CE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/5/2021.
+Por fim, no que se refere à extensão dos efeitos da liberdade concedida ao corréu, não há como acolher a pretensão da defesa, já que a situação do recorrente difere daquela em que se encontra o codenunciado beneficiado com a liberdade provisória. Segundo a Corte estadual, a decisão favorável ao coacusado foi fundamentada na concessão de liberdade provisória anterior e na inexistência de fato concreto que justificasse a decisão preventiva posterior.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, RECEPTAÇÃO QUALIFICADA, PORTE ILEGAL DE ARMA DE FOGO E CORRUPÇÃO DE MENOR. PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES. EXCESSO DE PRAZO. SÚMULA 52/STJ. APLICABILIDADE. EXTENSÃO DE BENEFÍCIO CONCEDIDA A CORRÉU. AUSÊNCIA DE SIMILITUDE FÁTICA.
+Recurso improvido.
