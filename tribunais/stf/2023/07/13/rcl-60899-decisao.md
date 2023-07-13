@@ -1,0 +1,75 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO. DECISÃO RECLAMADA FUNDAMENTADA NA AUSÊNCIA DE TRANSCENDÊNCIA TRABALHISTA. USURPAÇÃO DA COMPETÊNCIA E DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 16 E NO RECURSO EXTRAORDINÁRIO N. 760.931-RG, TEMA 246. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada pelo Amazonas, em 11.7.2023, contra o seguinte acórdão da Quinta Turma do Tribunal Superior do Trabalho no Processo n. 0000012-81.2022.5.11.0011, pelo qual teria sido usurpada a competência deste Supremo Tribunal para apreciar controvérsia sobre contrariedade ao que decidido na Ação Declaratória de Constitucionalidade n. 16 e no Recurso Extraordinário n. 760.931-RG, Tema 246:
+
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA. CULPA IN VIGILANDO. TEMA Nº 246 DO STF. CULPA COMPROVADA. AUSÊNCIA DE TRANSCENDÊNCIA. O Supremo Tribunal Federal, em sede de repercussão geral, ao julgar o mérito do RE 760931/DF, fixou a seguinte tese a respeito da impossibilidade de transferência automática da responsabilidade subsidiária ao integrante da Administração Pública: ‘O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’. Na hipótese dos autos, o e. TRT não transferiu automaticamente à Administração Pública a responsabilidade subsidiária, à míngua de prova robusta da caracterização de culpa in vigilando. Ao contrário, consignou que os elementos de prova apresentados comprovam não ter havido fiscalização dos encargos trabalhistas devidos pela empresa contratada. Tendo em vista que a decisão regional encontra-se em conformidade com o entendimento consubstanciado pelo STF no RE 760931/DF, bem como na Súmula nº 331, V, do TST, incide o óbice da Súmula nº 333 do TST e do artigo 896, § 7º, da CLT. A existência de obstáculo processual apto a inviabilizar o exame da matéria de fundo veiculada, como no caso, acaba por evidenciar, em última análise, a própria ausência de transcendência do recurso de revista, em qualquer das suas modalidades. Agravo de instrumento não provido” (e-doc. 8).
+
+    Essa decisão foi objeto de embargos de declaração, rejeitados (e-doc. 9).
+
+    2. O reclamante ajuíza a presente reclamação “contra a v. decisão do Colendo Tribunal Superior do Trabalho que entendeu não haver transcendência, uma vez que no caso teria sido demonstrada a culpa do Ente Público (diante da inadimplência de parcelas trabalhistas)” (fl. 2).
+
+    Sustenta que, “ao assim agir, o C. TST usurpou a competência constitucional desta Suprema Corte para apreciar em última instância os recursos extraordinários, incidindo, ainda, em nítida inobservância da garantia de autoridade da decisão que definiu questão jurídica como representativa de repercussão geral desse Excelso Supremo Tribunal Federal, contrariando padrão decisório de tese vinculativa firmada em sede de recurso extraordinário (RE 760.931 - Tema 246), bem como afrontou autoridade da decisão desta Corte no âmbito da Ação Declaratória de Constitucionalidade n. 16” (fl. 7).
+
+    Salienta que “não têm sido raras decisões da Corte Superior Trabalhista pela inadmissibilidade de recursos do ente público, sob o único e equivocado fundamento de que o recurso não possui transcendência, uma vez que a responsabilidade subsidiária da Administração Pública nos casos de terceirização não configura questão nova em torno de interpretação da legislação trabalhista” (fl. 11).
+
+    Requer, “desde logo, a procedência do pedido para cassar a decisão reclamada, nos termos do art. 161, parágrafo único, do RISTF; pela eventualidade, a concessão da medida liminar, inaudita altera parte, na forma do art. 158 do Regimento Interno do Supremo Tribunal Federal, para suspender a decisão do Colendo Tribunal Superior do Trabalho que negou a existência de transcendência” (fls. 18-19).
+
+    Pede, “no mérito, a procedência da presente Reclamação, confirmando a liminar eventualmente concedida, de modo que seja anulada a decisão proferida pelo Tribunal Superior do Trabalho, para que a Corte Trabalhista assim realize seu juízo de admissibilidade positivo, processando o recurso do ente público, abrindo assim a possibilidade da causa chegar a essa Excelsa Corte; Caso já entenda possível, julgar procedente a reclamação por afronta à ADC 16 e ao RERG 760.931, no que toca à atribuição de responsabilidade subsidiária ao Estado do Amazonas (Rcl 38.921/AM, Rel. Min. Cármen Lúcia; Rcl 37.356/RJ, Rel. Min. Alexandre de Moraes)” (fl. 19).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    4. Põe-se em foco na reclamação se, ao negar provimento ao agravo de instrumento no recurso de revista do Amazonas por ausência de transcendência, mantendo decisão pela qual atribuída responsabilidade subsidiária ao tomador do serviço, a autoridade reclamada teria usurpado a competência deste Supremo Tribunal e descumprido o decidido pelo Supremo Tribunal Federal na Ação Declaratória de Constitucionalidade n. 16 e no Recurso Extraordinário n. 760.931-RG, Tema 246.
+
+    5. Embora a previsão do § 5º do art. 896-A da Consolidação das Leis do Trabalho (“É irrecorrível a decisão monocrática do relator que, em agravo de instrumento em recurso de revista, considerar ausente a transcendência da matéria”) pudesse ensejar interpretação no sentido de haver óbice ao processamento regular da presente reclamação, o exame dos documentos juntados aos autos eletrônicos revela ter-se assentado, na decisão reclamada, ausência de transcendência trabalhista de recurso no qual se discute matéria com repercussão geral reconhecida por este Supremo Tribunal, Tema 246.
+
+    Constata-se, portanto, que, sob pena de prevalecer interpretação de preceito legal a esvaziar a competência constitucional atribuída a este Supremo Tribunal, não se pode recusar ao reclamante o acesso a instrumento processual adequado para corrigir a distorção apontada e permitir que a questão alcance a jurisdição constitucional, sendo dirimida definitivamente na instância competente.
+
+    6. Na espécie, verifica-se que, ao julgar o recurso ordinário interposto pelo Amazonas, o Tribunal Regional do Trabalho assentou:
+
+    “(...) Analisando o conjunto fático-probatório dos autos, verifica-se que o Juízo a quo diante das alegações iniciais da autora, da revelia e pena de confissão aplicada à primeira ré e das provas produzidas no processo, reconheceu o direito da trabalhadora ao pagamento verbas rescisórias e indenizatórias pleiteadas na inicial, sendo declarada a responsabilidade subsidiária do segundo reclamado tomador dos serviços, diante da sua conduta omissiva, relativa ao seu dever de fiscalizar a empresa contratada, tendo em vista a inexistência nos autos de provas de que o ESTADO DO AMAZONAS tenha realizado o efetivo acompanhamento do pagamento das verbas trabalhistas pela prestadora de serviços contratada, ressalte-se que, o segundo demandado apresentou contestação desacompanhada de qualquer documento com atributo a demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito da parte autora, ônus que lhe cabia nos termos do art. 818, II, da CLT, encargo do qual, contudo, não se desincumbiu.
+
+    Nessa perspectiva, aplicada a pena de confissão ficta à primeira reclamada, com efeito, incumbia ao segundo demandado apresentar provas em sentido oposto à pretensão da autora, todavia a parte, limitou-se, em síntese, na sua defesa, apenas às questões relativas a sua ilegitimidade ad causam e ausência de qualquer responsabilidade pelos encargos trabalhistas inadimplidos pela empresa contratada, conforme previsão do art. 71, § 1º, da Lei nº 8.666/93, e entendimento firmado em sede de repercussão geral no Recurso Extraordinário nº 760.931/DF.
+
+    (…) Ora, era dever do ESTADO DO AMAZONAS, na condição de Ente Público terceirizante, no mínimo, demonstrar que foi diligente na escolha e contratação da empresa prestadora de serviços, SOUZA SERVIÇOS DE SAÚDE EIRELI, em cumprimento às diretrizes do art.38 da Lei nº 8.666/93, e ainda, por iguais razões, porque incumbe aos tomadores de serviço, nesta matéria, agir em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, entre outros (art. 3ª da Lei nº8.666/93).
+
+    Ademais, a regularidade do procedimento licitatório, por si só, não afasta a responsabilidade da entidade da Administração Pública que firma contrato com prestadoras de serviço. Isso porque embora o art. 71, § 1º, da Lei nº 8.666/93 contemple em tese a ausência de responsabilidade do Ente Público tomador dos serviços pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato, também é verdadeiro que posteriormente, caso constatado o descumprimento de obrigações legais pela empresa prestadora de serviços contratada - inclusive os relativos aos encargos trabalhistas - pode ser imposto ao contratante a responsabilidade subsidiária,decorrente de sua atuação omissiva ou irregular.
+
+    (…) Dessa forma, a situação em exame revela omissão por parte do segundo réu, comportamento administrativo que não se coaduna com a aplicação do art. 71, da Lei nº 8.666/1993,pelo que fica caracterizada a sua culpa, não havendo que se falar em transferência ‘automática’ da responsabilidade ao Poder Público ou violação aos artigos 818, I e II, da CLT; 373, I e II, do CPC; 5º,LIV e LV e 37, § 6º, ambos da CR/88.
+
+    Diante disso, urge a permanência do ESTADO DO AMAZONAS na lide, na condição de devedor subsidiário, ressaltando-se que inexiste qualquer violação à lei federal ou à Constituição pelos motivos já expostos, porquanto a culpa in vigilando implica a assunção da responsabilidade subsidiária pela totalidade dos créditos reconhecidos e devidos à reclamante, e a Súmula 331, item VI, do C. Tribunal Superior do Trabalho é clara no sentido de que a responsabilidade do tomador dos serviços abrange todas as verbas não adimplidas pelo devedor principal, inclusive as multas previstas na CLT e em normas coletivas, mesmo que de caráter indenizatório, uma vez que são parcelas vinculadas ao contrato de trabalho” (fls. 6-10, e-doc. 4).
+
+    7. A controvérsia jurídica estabelecida na presente reclamação decorre da incidência de alteração legislativa pela qual se atribuiu ao Tribunal Superior do Trabalho competência para recusar o processamento de recurso de revista que não preencha o requisito de transcendência, sob a perspectiva econômica, política, social e jurídica, na forma do art. 896-A da Consolidação das Leis do Trabalho.
+
+    8. O exame dos autos revela que a questão de fundo tratada na origem refere-se à responsabilização subsidiária de ente da Administração Pública por débitos trabalhistas e previdenciários devidos à prestadora de serviço, que teriam sido inadimplidos por empresa contratada após o competente processo licitatório.
+
+    Este Supremo Tribunal assentou ter repercussão geral a controvérsia sobre a responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço.
+
+    Decidiu-se, sobre essa matéria, pela inadmissibilidade da transferência para a Administração Pública, por presunção de culpa, da responsabilidade pelo pagamento dos encargos trabalhistas, fiscais e previdenciários devidos a empregado de empresa terceirizada.
+
+    9. A questão jurídica tratada na ação trabalhista, que ensejou o recurso de revista tido como destituído de transcendência, coincide com aquela objeto da Ação Declaratória de Constitucionalidade n. 16 e do Recurso Extraordinário n. 760.931, a impor a seguinte indagação: como a matéria poderia dispor de repercussão geral econômica, política, social e jurídica e exigir sucessivos pronunciamentos do Supremo Tribunal Federal e não preencher esse mesmo atributo quando examinada monocraticamente em jurisdição trabalhista?
+
+    Seria compreensível assentar que matéria de natureza estritamente trabalhista não dispusesse de repercussão geral econômica, política, social e jurídica para alcançar a jurisdição constitucional. Entretanto, surpreende que, não bastassem os dois pronunciamentos vinculantes deste Supremo Tribunal sobre a matéria, aos quais se agregam dezenas de decisões em reclamação, a mesma questão possa ser considerada pela Justiça do Trabalho carente de transcendência.
+
+    Essa conclusão, se admitida, comprometeria a sistemática da repercussão geral e subverteria a ordem processual e constitucional vigente, conferindo ao Tribunal Superior do Trabalho competência para proferir a última palavra em matérias constitucionais e de relevância reconhecida por este Supremo Tribunal.
+
+    10. O exame da causa demonstra que a interpretação conferida pela autoridade reclamada ao art. 896-A da Consolidação das Leis do Trabalho não pode se opor ao que fixado por este Supremo Tribunal em precedente de repercussão geral, compreensão que deve abranger também as decisões proferidas em sede de controle abstrato de constitucionalidade e as súmulas vinculantes. Assim, os temas sobre os quais este Supremo Tribunal tenha se pronunciado, produzindo decisões com eficácia erga omnes e/ou vinculante, dispõem de presumida relevância, não podendo, por isso mesmo, ter seu exame pela via recursal obstado sob alegação de outro órgão jurisdicional de não dispor de transcendência.
+
+    11. Na espécie em exame, ao negar provimento ao agravo de instrumento, recusando o processamento de recurso de revista sobre a matéria em exame e, com isso, impedindo o acesso à jurisdição constitucional, a autoridade reclamada usurpou a competência deste Supremo Tribunal, que concluiu ter repercussão geral a controvérsia sobre “responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço” (Tema 246).
+
+    Essa usurpação de competência impõe a manutenção de decisão pela qual descumprido o decidido por este Supremo Tribunal na Ação Declaratória de Constitucionalidade n. 16 e no Recurso Extraordinário n. 760.931, Tema 246 da repercussão geral, o que não pode prevalecer.
+
+    12. Pelo exposto, julgo procedente a presente reclamação, para cassar a decisão reclamada e determinar outra seja proferida, observadas as decisões do Supremo Tribunal Federal na Ação Declaratória de Constitucionalidade n. 16 e no Recurso Extraordinário n. 760.931-RG, Tema 246.
+
+    Publique-se.
+
+    Brasília, 13 de julho de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
