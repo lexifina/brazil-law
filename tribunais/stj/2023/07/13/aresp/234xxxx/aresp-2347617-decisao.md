@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0024.21.032998-3/001) que deu parcial provimento à apelação interposta por Luiz Carlos Pitorra da Costa para redimensionar as penas decorrentes das condenações pelos crimes de tráfico de drogas e porte ilegal de arma de fogo com numeração suprimida.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 40, IV, da Lei n. 11.343/2006 (fls. 317/322).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 332/334).
+Contra o decisum a defesa interpôs o presente agravo (fls. 337/340).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 362/365):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCIDÊNCIA DA MAJORANTE PELO USO DE ARMA DE FOGO. AFASTAMENTO DO CRIME AUTÔNOMO DE POSSE ILEGAL DE ARMA DE FOGO. INSUFICIÊNCIA DE PROVAS DE QUE A ARMA TENHA SIDO UTILIZADA PARA VIABILIZAR O TRÁFICO DE DROGAS. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. NÃO CONHECIMENTO.
+1. O reconhecimento da majorante prevista no artigo 40, inciso IV, da Lei nº 11.343/06, depende das circunstâncias em que a arma é apreendida e da comprovação de que ela esteja sendo empregada como parte do processo de intimidação para viabilizar a prática do tráfico de drogas.
+2 . De acordo com as circunstâncias do caso concreto, não há indícios suficientes de que a arma encontrada na residência do recorrente destinava-se a viabilizar a prática do tráfico de drogas, até porque, no momento em que foi flagrado em via pública com a droga ele estava desarmado.
+3. Diante dos elementos de prova constantes dos autos não é possível aplicar a majorante prevista no art. 40, inciso IV, da Lei nº 11.343/06, em detrimento do reconhecimento da prática do crime autônomo da posse ilegal de arma de fogo com numeração suprimida.
+4. Alterar o entendimento firmado pelas instâncias ordinárias, para reconhecer a causa especial de aumento de pena, demandaria reexame aprofundado do conjunto probatório constante dos autos, medida vedada na presente via recursal pelo óbice da Súmula 7/STJ.
+5. Parecer não conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, verifico, desde logo, que a insurgência, de fato, encontra óbice na Súmula 7/STJ.
+Ora, a Corte de origem, soberana na análise das provas dos autos, formou convicção de que há prova suficiente no sentido da autonomia das condutas perpetradas (tráfico e porte ilegal de arma de fogo) - (fls. 303/305 - grifo nosso):
+ ..
+Destaco, neste ponto, que melhor sorte não assiste à Defesa quanto ao pleito de aplicação da causa de aumento prevista no artigo 40, inciso IV, da Lei de Drogas em detrimento da condenação do réu pela. prática do delito previsto no artigo 16, § 1º , inciso IV, da Lei de Armas.
+Isto porque possuo o entendimento de que o reconhecimento da referida causa de aumento se relaciona com a demonstração do uso de armamentos para efetivar o comércio de substâncias ilícitas, o que impõe a comprovação de um contexto único quanto à apreensão dos objetos ilícitos, o que não se verifica no caso dos autos, uma vez que parte das drogas foi localizada com o réu em sua abordagem em via pública, sendo que a arma foi encontrada dentro da residência de seus familiares, não havendo que se falar, assim, na prática do tráfico com o emprego de arma de fogo.
+E não diferente foi o entendimento apresentado na sentença de primeira instância, que analisou de forma adequada a alegação defensiva e concluiu pela prática de delitos autônomos e dissociados. Confira-se:
+O caso dos autos importa reconhecer que a arma de fogo estava guardada na casa do acusado apenas como forma de homiziar, em razão de outros fatos que não garantir a venda de drogas pelo acusado ou por outro motivo qualquer. A meu sentir são contextos diferentes a posse da arma e a prática do tráfico, delineada no fato de ter em posse e depósito, entorpecentes destinados ao tráfico.
+Verifica-se das provas colhidas que o crime de tráfico de drogas e o crime de posse de arma com numeração suprimida foram praticados em contextos fáticos e autônomos e dissociados.
+Nesta toada, sabe-se que para a incidência da causa de aumento prevista do art. 40, lV, da Lei 11.343/06, é necessária a comprovação de que a arma de fogo estava efetivamente sendo utilizada com o intuito de proteger ou assegurar a ocorrência da traficância praticada pelo denunciado, o que não ocorreu, in casu."
+ ..
+Conclui-se, assim, que foram comprovadas a materialidade, a autoria e a tipicidade, sendo os elementos de prova suficientes à condenação pela prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo com numeração raspada.
+ ..
+E, nesse contexto, rever a convicção estabelecida pelas instâncias ordinárias a partir da análise da prova dos autos demandaria o reexame de elementos de prova coligidos, providência essa inviável em sede especial (Súmula 7/STJ).
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE DE ARMA DE FOGO DE USO RESTRITO. 1. ALEGAÇÃO DE BIS IN IDEM. NÃO OCORRÊNCIA. INEXISTÊNCIA. CONDUTAS AUTÔNOMAS. MODIFICAÇÃO DA CONCLUSÃO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. 2. AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. TRANCAMENTO. IMPOSSIBILIDADE. 3. SEGREGAÇÃO FUNDADA NA GARANTIA DA ORDEM PÚBLICA. PAPEL FUNDAMENTAL EM ORGANIZAÇÃO CRIMINOSA ATUANTE EM TODO O ESTADO DO RIO DE JANEIRO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. 4. RECURSO IMPROVIDO.
+1. Caso em que o Tribunal afirmou não haver identidade de fatos, uma vez que os delitos imputados ao recorrente foram perpetrados em situações diversas de tempo, dando origem a ações penais distintas, não havendo que se falar em bis in idem. Ademais, para desconstituir essa conclusão, seria necessária uma incursão no acervo probatório, procedimento incompatível com a via estreita do habeas. Precedentes.
+ ..
+(RHC n. 86.552/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 6/11/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO, CORRUPÇÃO DE MENOR E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. RECONHECIMENTO DA CAUSA DE AUMENTO DO ART. 40, IV, DA LEI 11.343/06 E AFASTAMENTO DO DELITO PREVISTO NO ART. 16 DA LEI 10.826/2003. CONDUTAS DISTINTAS. DESÍGNIOS AUTÔNOMOS. ALTERAÇÃO QUE DEMANDA REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA DEMONSTRADAS. INADMISSIBILIDADE DE ALTERAÇÃO. REVISÃO FÁTICO-PROBATÓRIA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º DA LEI 11.343/2006. QUESTÃO PREJUDICADA. INCOMPATIBILIDADE COM A ASSOCIAÇÃO PARA O TRÁFICO. REGIME E SUBSTITUIÇÃO. QUESTÕES PREJUDICADAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. O art. 40, IV da Lei n. 11.343/2006 prevê, como causa especial de aumento de pena nos delitos descritos nos arts. 33 a 37 da mesma Lei, a utilização de arma de fogo. Nesse caso, agrava-se a pena nos delitos de narcotráfico quando o agente emprega efetivamente a arma de fogo para viabilizar sua atividade. De outro lado, o art. 16 da Lei n. 10.826/2003, descreve a conduta do agente que, entre outros verbos, porta ou possui arma de fogo de uso restrito ou com numeração suprimida.
+3. Na hipótese dos autos, as instâncias ordinárias reconheceram, com base no acervo probatório produzido, a ocorrência de condutas autônomas que concorreram para a prática de delitos de natureza diversa - tráfico e associação para o tráfico e porte de arma de fogo e munição com numeração suprimida -, salientando a existência de desígnios autônomos entre as condutas praticadas. Nesse contexto, não se cogita, em habeas corpus, a revisão do entendimento proferido, ante a necessidade de revolvimento fático-probatório, inadmissível na via eleita.
+ ..
+(HC n. 377.179/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/3/2017 - grifo nosso)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PLEITO DE DESCLASSIFICAÇÃO DO CRIME AUTÔNOMO DE PORTE ILEGAL PA RA A INCIDÊNCIA DA MAJORANTE DO ART. 40, IV, DA LEI DE 11.343/2006. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
