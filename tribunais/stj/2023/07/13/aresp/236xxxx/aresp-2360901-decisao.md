@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 1503187-85.2020.8.26.0536) que deu provimento ao recurso ministerial para condenar Gabriel Elias de Souza como incurso no crime de tráfico de drogas à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 33, § 2º, do Código Penal (fls. 371/382).
+A Corte de origem inadmitiu o reclamo com fundamento nas Súmulas 182 e 7/STJ (fls. 395/396).
+Contra o decisum a defesa interpôs o presente agravo (fls. 402/408).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo e desprovimento do recurso especial (fls. 425/431).
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial:
+ ..
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018 - grifo nosso)
+No caso, da leitura das razões do agravo, verifica-se que o agravante não impugnou a incidência da Súmula 182/STJ.
+Veja-se que, ao aplicar o referido enunciado sumular, a Corte de origem assentou que o reclamo não atacou todos os fundamentos do acórdão hostilizado (fl. 395 - grifo nosso):
+ ..
+Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados todos os argumentos do aresto.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo.
+Nessa linha, o entendimento do Superior Tribunal de Justiça : " ..  Ausente a impugnação concreta aos fundamentos da decisão agravada, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.".
+ ..
+Tal conclusão só poderia ser infirmada mediante o cotejo entre os fundamentos do acórdão atacado e as razões do recurso especial, o que não se verifica nas razões do agravo (fls. 402/408).
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ), pois não impugnou a íntegra da fundamentação lançada na decisão agravada.
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria acolhido.
+Ora, ao contrário do alegado no reclamo, não há ilegalidade no regime inicial de pena fixado (violação do art. 33, § 2º, do Código Penal), pois a existência de circunstância judicial negativa sopesada na primeira fase (maus antecedentes) é elemento apto a justificar o agravamento do regime inicial de cumprimento:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. FIXAÇÃO DE REGIME MAIS GRAVOSO. PENA-BASE ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DE ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2. No caso, as instâncias ordinárias decidiram em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixaram o regime fechado com base em fundamentação idônea - existência de circunstância judicial desfavorável (maus antecedentes) e elevada quantidade de entorpecentes -, apta a justificar o recrudescimento do regime prisional.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.050.718/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe 26/4/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. EXPRESSIVA QUANTIDADE DE ENTORPECENTES APREENDIDOS. FRAÇÃO DE AUMENTO REDUZIDA NA DECISÃO AGRAVADA PARA 1/2 (METADE). AUSÊNCIA DE DESPROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO RÉU À ATIVIDADE CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CABÍVEL A MANUTENÇÃO DO REGIME INICIAL MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora o quantum de exasperação da pena-base operado pelas instâncias ordinárias tenha merecido reparo, por se apresentar desproporcional, fica mantida a majoração na primeira fase da dosimetria em razão da grande quantidade de entorpecentes apreendidos, porém na fração de 1/2 (metade), aplicada em casos similares por esta Corte.
+2. O afastamento da minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, na espécie, encontra amparo na jurisprudência do Superior Tribunal de Justiça, pois o acórdão impugnado destacou elementos concretos dos autos que indicaram a dedicação do Agravante à atividade criminosa, notadamente a "perícia realizada no local dos fatos, reveladora de estrutura e dedicação ao comércio de drogas". Nessa conjuntura, a revisão do entendimento alcançado pelo Tribunal local exigiria aprofundado reexame probatório, o que não é possível nos estreitos limites do habeas corpus. Precedentes.
+3. Estabelecida a pena definitiva acima de 4 (quatro) anos de reclusão e presente circunstância judicial desfavorável, mostra-se cabível a manutenção do regime inicial fechado, segundo o disposto nos arts. 33, § 2.º, alínea b, e 59, ambos do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 799.789/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe 28/4/2023 - grifo nosso)
+Ante o exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. FUNDAMENTO SUBSIDIÁRIO. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 33, § 2º, DO CP. IMPROCEDÊNCIA. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL NEGATIVA SOPESADA NA PRIMEIRA FASE. REGIME FECHADO ADEQUADO. PRECEDENTES DESTA CORTE.
+Agravo não conhecido.
