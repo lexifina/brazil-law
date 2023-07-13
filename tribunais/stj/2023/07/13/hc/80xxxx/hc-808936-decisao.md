@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Rafael Alexandre Siqueira e Gislaine Dembiski de Carvalho - condenados como incursos no crime de tráfico de drogas; Rafael, à pena de 7 anos, 9 meses e 10 dias de reclusão, e pagamento de 583 dias-multa; e Gislaine, à pena de 5 anos e 10 meses de reclusão, e pagamento de 500 dias-multa, ambos em regime inicial fechado -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5019878-64.2020.8.24.0005), não comporta acolhimento.
+Daí a presente impetração, em que se alega, em síntese, que, na presente ação penal, houve apreensão de entorpecente em desrespeito à garantia constitucional da inviolabilidade domiciliar, bem como pesca probatória, o que acarreta o reconhecimento da ilicitude da prova, e considerando, ainda, que todas as demais provas que ensejaram a condenação dos pacientes deriva dessa primeira prova ilícita, de rigor seja declarada a inadmissibilidade da apreensão do entorpecente, com sua consequente absolvição por restar prejudicada as provas da materialidade e autoria delitiva (fl. 10). Requer-se, inclusive liminarmente, a concessão da ordem para, reconhecendo a nulidade das provas obtidas ilicitamente, absolver os pacientes.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como espécie de segunda "apelação criminal", não se trata de hipótese de invasão de domicílio, pois, conforme consta do acórdão a quo, os policiais naquela ocasião efetuaram o cumprimento de mandados de prisão e busca e apreensão na moradia (fl. 24 ).
+Em face do exposto, denego a ordem.
+Pu blique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRETENSÃO DE ANULAÇÃO DA CONDENAÇÃO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. BUSCA E APREENSÃO DOMICILIAR. NULIDADE. MANDADO JUDICIAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
