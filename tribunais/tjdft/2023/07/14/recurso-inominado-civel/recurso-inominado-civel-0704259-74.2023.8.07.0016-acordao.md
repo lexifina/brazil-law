@@ -1,0 +1,58 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0704259-74.2023.8.07.0016RECORRENTE(S)DISTRITO FEDERALRECORRIDO(S)ANA PAULA ALVES DA SILVARelatorJuiz EDILSON ENEDINO DAS CHAGAS
+ Acórdão Nº1730059
+
+EMENTA
+
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE INCENTIVO ÀS AÇÕES BÁSICAS DE SAÚDE - GAB. CENTRO DE ATENÇÃO PSICOSSOCIAL. GRATIFICAÇÃO DEVIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Cuida-se de recurso inominado interposto pela parte ré contra sentença que julgou procedentes os pedidos formulados na inicial para condenar o Distrito Federal a implementar no contracheque da parte autora a Gratificação do Incentivo às Ações Básicas de Saúde-GAB, no percentual de 10% (dez por cento), bem como a realizar o pagamento retroativo, no valor de R$ 29.097,14, referente à GAB do período de 01/04/2020 a 01/12/2022, além dos valores vencidos e não pagos até a data da implementação do benefício. Em suas razões recursais, o DF afirma que a requerente não faz jus à percepção da Gratificação pleiteada em razão da efetiva atividade realizada, por não trabalhar diretamente com atenção básica à saúde. Requer o provimento do recurso para julgar improcedentes os pedidos iniciais.
+
+2. Recurso próprio, tempestivo e isento de preparo. Contrarrazões apresentadas.
+
+3. A Gratificação de Incentivo às Ações Básicas de saúde - GAB, instituída pela Lei nº 318/92, se destina exclusivamente aos servidores integrantes da carreira Assistência Pública à Saúde do Distrito Federal. É devida no percentual de 10% para aqueles em exercício nos centros de saúde, postos de saúde urbanos e postos de assistência médica da Fundação Hospitalar do DF (atualmente, da Secretaria de Estado de Saúde - SES/DF). E, nos termos do art. 2º § 1º, da referida Lei Distrital, somente fará jus à GAB, em sua totalidade, o servidor que cumprir integralmente a sua carga horária semanal em atividades relacionadas com as ações básicas de saúde.
+
+4. Aprofundando o conteúdo da norma, a Súmula 27 da TUJ definiu que: "A Gratificação de Incentivo às Ações Básicas de Saúde - GAB é devida ao servidor integrante da Carreira Assistência Pública à Saúde do Distrito Federal, quando comprovado o exercício de atividades relacionadas com as ações de atenção primária à saúde, ainda que não esteja lotado em locais considerados Unidades Básicas de Saúde".
+
+5. Desde já, relevante assinalar que os requisitos para a percepção da GAB não se confundem com aqueles para o recebimento da GCET (Gratificação por Condições Especiais de Trabalho). Neste sentido: "Ainda que a servidora eventualmente tivesse exercido atividades compatíveis com a atenção domiciliar, não o fez segundo os critérios definidos na norma de regência, que exige o desempenho da atividade exclusivamente em centro ou postos de saúde com ações de saúde da família. Ademais, o entendimento firmado na Súmula 27 da Turma de Uniformização de Jurisprudência dos Juizados Especiais não se aplica ao caso, uma vez que trata da GAB - Gratificação de Incentivo às Ações Básicas de Saúde, cujos critérios para a sua percepção são distintos da GCET (Lei Distrital 318/1992)". (Acórdão 1417920, 07514620320218070016, Relator: AISTON HENRIQUE DE SOUSA, Primeira Turma Recursal, data de julgamento: 22/4/2022, publicado no DJE: 17/5/2022. Pág.: Sem Página Cadastrada.)
+
+6. Sobressai dos autos que a parte autora é enfermeira, pertencente ao quadro de servidores da Secretaria de Estado de Saúde do Distrito Federal - SES-DF, com carga horária de 40 horas semanais. No período indicado nos autos, estava lotada no Centro de Atenção Psicossocial de Samambaia, sendo que o documento ID 47264465 atesta as atividades que realizava diariamente. Destaca-se que o documento, assinado pela sua chefia imediata, demonstra que a parte autora realizava acolhimento, orientação e atendimento de usuários de livre demanda oriundos do SAMU e transferidos do Hospital São Vicente de Paulo; realizava atendimento direto aos pacientes internados no Centro de Atenção Psicossocial de Samambaia (CAPS II) na administração de medicação oral e parental, curativos, procedimentos de enfermagem, lavagem e preparo de material. E também realizava visitas domiciliares e participava de grupos terapêuticos.
+
+7. Ressalte-se que a Portaria n. 648/GM/2006, instituiu as diretrizes da Política Nacional de Atenção Básica, na qual caracteriza a atenção básica por um conjunto de ações de saúde, no âmbito individual e coletivo, que abrangem a promoção e a proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação e a manutenção da saúde. Sendo desenvolvida por meio do exercício de práticas gerenciais e sanitárias democráticas e participativas sob forma de trabalho em equipe, dirigidas a populações de territórios bem delimitados, pelas quais assume a responsabilidade sanitária, considerando a dinamicidade existente no território em que vivem essas populações.
+
+8. Ademais, consta expressamente do artigo 22, VIII da Portaria 199/2014 - SES/DF que: "As Unidades Básicas de Saúde compreendem: (...) VIII - Serviço de Atenção Domiciliar". Já o artigo 2º da Portaria nº 2.436/2017 do Ministério da Saúde dispõe que: "art. 2º A Atenção Básica é o conjunto de ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, desenvolvida por meio de práticas de cuidado integrado e gestão qualificada, realizada com equipe multiprofissional e dirigida à população em território definido, sobre as quais as equipes assumem responsabilidade sanitária.
+
+9. Considerando que a parte autora exerce atividade de enfermagem na equipe multiprofissional, realizando acolhimento, orientação e atendimento de usuários de livre demanda; atendendo pacientes internados e administrando medicação oral e parental, fazendo curativos, procedimentos de enfermagem, lavagem e preparo de material e realizando visitas domiciliares e participação em grupos terapêuticos, com ação de atenção primária à saúde, constata-se que preenche os requisitos para a percepção da Gratificação de Incentivo às Ações Básicas de Saúde" - GAB.
+
+10. RECURSO CONHECIDO E NÃO PROVIDO. Sentença mantida. Isento de custas. Condeno a parte recorrente vencida ao pagamento dos honorários advocatícios, que fixo em 10% (dez por cento) do valor da condenação.
+
+11. A ementa servirá de acórdão, conforme art. 46 da Lei nº 9.099/95.
+
+(L)
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDILSON ENEDINO DAS CHAGAS - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NAO PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Julho de 2023
+
+Juiz EDILSON ENEDINO DAS CHAGASRelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão.
+
+VOTOS
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NAO PROVIDO. UNANIME.
