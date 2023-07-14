@@ -1,0 +1,2 @@
+Institui o Programa Casa Verde e Amarela; altera as Leis n os 8.036, de 11 de maio de 1990, 8.100, de 5 de dezembro de 1990, 8.677, de 13 de julho de 1993, 11.124, de 16 de junho de 2005, 11.977, de 7 de julho de 2009, 12.024, de 27 de agosto de 2009, 13.465, de 11 de julho de 2017, e 6.766, de 19 de dezembro de 1979; e revoga a Lei nº 13.439, de 27 de abril de 2017.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
