@@ -1,0 +1,1 @@
+Art. 18-E. O patrimônio de afetação extinguir-se-á pela averbação do termo de verificação emitido pelo órgão público competente, pelo registro dos títulos de domínio ou de direito de aquisição em nome dos respectivos adquirentes e, quando for o caso, pela extinção das obrigações do loteador perante eventual instituição financiadora da obra.

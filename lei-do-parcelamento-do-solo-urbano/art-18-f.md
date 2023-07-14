@@ -1,0 +1,1 @@
+Art. 18-F. Os efeitos da decretação da falência ou da insolvência civil do loteador não atingem os patrimônios de afetação constituídos, não integrando a massa concursal o terreno, a obra até então realizada e os demais bens, direitos creditórios, obrigações e encargos objeto do loteamento.

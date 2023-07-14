@@ -5,4 +5,4 @@ III - (revogado).
 § 1º A redução prevista no inciso I será também aplicada aos emolumentos devidos pelo registro da transferência de propriedade do imóvel para o FAR e o FDS.
 § 2º No ato do registro de incorporação, o interessado deve declarar que o seu empreendimento está enquadrado no PMCMV para obter a redução dos emolumentos previstos no caput.
 § 3º O desenquadramento do PMCMV de uma ou mais unidades habitacionais de empreendimento que tenha obtido a redução das custas na forma do § 2º implica a complementação do pagamento dos emolumentos relativos a essas unidades.
-§ 4º A redução prevista no inciso II do caput aplica-se às operações com recursos do FGTS firmadas a partir de 26 de agosto de 2020 até a data de entrada em vigor da Medida Provisória nº 1.162, de 14 de fevereiro de 2023.
+§ 4º A redução prevista no inciso II do caput aplica-se às operações com recursos do FGTS firmadas a partir de 26 de agosto de 2020.

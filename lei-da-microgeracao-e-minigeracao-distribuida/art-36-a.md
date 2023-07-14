@@ -1,0 +1,1 @@
+Art. 36-A. A unidade consumidora participante do SCEE poderá comercializar excedente de energia elétrica com órgãos públicos desde que seja beneficiária de programa social ou habitacional das esferas federal, estadual, distrital ou municipal.

@@ -1,0 +1,2 @@
+Art. 18-B. Considera-se constituído o patrimônio de afetação mediante averbação, a qualquer tempo, no Registro de Imóveis, de termo firmado pelo loteador e, quando for o caso, também pelos titulares de direitos reais de aquisição de lotes objeto de loteamento.
+Parágrafo único. A averbação não será obstada pela existência de ônus reais que tenham sido constituídos sobre o imóvel objeto do loteamento para garantia do pagamento do preço de sua aquisição ou do cumprimento de obrigação de implantar o empreendimento.

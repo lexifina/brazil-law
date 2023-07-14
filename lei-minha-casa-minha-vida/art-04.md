@@ -3,4 +3,3 @@ Art. 4º O Programa Nacional de Habitação Urbana - PNHU tem por objetivo promo
 I - (revogado);
 II - (VETADO);
 III - (revogado);
-§ 2º A assistência técnica e os seguros de engenharia, de danos estruturais, de responsabilidade civil do construtor, de garantia de término de obra e outros que visem à mitigação de riscos inerentes aos empreendimentos habitacionais podem fazer parte da composição de custos do PNHU.

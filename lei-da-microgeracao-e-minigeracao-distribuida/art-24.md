@@ -1,1 +1,2 @@
 Art. 24. A concessionária ou permissionária de distribuição de energia elétrica deverá promover chamadas públicas para credenciamento de interessados em comercializar os excedentes de geração de energia oriundos de projetos de microgeradores e minigeradores distribuídos, nas suas áreas de concessão, para posterior compra desses excedentes de energia, na forma de regulamentação da Aneel.
+Parágrafo único. (VETADO).
