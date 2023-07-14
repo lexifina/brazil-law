@@ -1,0 +1,1 @@
+Art. 12-B. A União, por meio da alocação de recursos destinados a ações integrantes das leis orçamentárias anuais, observada a disponibilidade orçamentária e financeira, fica autorizada a transferir recursos ao FDS para subvencionar a regularização fundiária e a melhoria de moradias ou conceder subvenção econômica ao beneficiário pessoa física.
