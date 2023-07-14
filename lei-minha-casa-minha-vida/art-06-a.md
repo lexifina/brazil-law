@@ -3,6 +3,7 @@ I - exigência de participação financeira dos beneficiários, sob a forma de p
 II - quitação da operação, em casos de morte ou invalidez permanente do beneficiário, sem cobrança de contribuição do beneficiário; e
 III - cobertura de danos físicos ao imóvel, sem cobrança de contribuição do beneficiário.
 § 1º Nos empreendimentos habitacionais em edificações multifamiliares produzidos com os recursos de que trata o caput, inclusive no caso de requalificação de imóveis urbanos, será admitida a produção de unidades destinadas à atividade comercial a eles vinculada.
+§ 2º (Revogado).
 § 3º Serão dispensadas, na forma do regulamento, a participação financeira dos beneficiários de que trata o inciso I do caput e a cobertura a que se refere o inciso III do caput nas operações com recursos advindos da integralização de cotas no FAR, quando essas operações:
 I - forem vinculadas às programações orçamentárias do Programa de Aceleração do Crescimento (PAC) e demandarem reassentamento, remanejamento ou substituição de unidades habitacionais;
 II - forem vinculadas a intervenções financiadas por operações de crédito ao setor público, conforme hipóteses definidas no regulamento, e demandarem reassentamento, remanejamento ou substituição de unidades habitacionais;
@@ -10,8 +11,8 @@ III - forem destinadas ao atendimento, nos casos de situação de emergência ou
 IV - forem vinculadas a reassentamentos de famílias, indicadas pelo poder público municipal ou estadual, decorrentes de obras vinculadas à realização dos Jogos Rio 2016, de que trata a Lei nº 12.035, de 1º de outubro de 2009.
 § 4º Exclusivamente nas operações previstas no § 3º, será admitido atendimento a famílias com renda mensal de até R$ 2.790,00 (dois mil, setecentos e noventa reais).
 § 5º Nas operações com recursos previstos no caput:
-I - a subvenção econômica será concedida nas prestações do financiamento, ao longo de cento e vinte meses, ressalvada a hipótese de quitação antecipada de que trata o inciso II;
-II - poderá haver quitação antecipada do financiamento, conforme regulamentação do Ministério das Cidades; e
+I - a subvenção econômica será concedida nas prestações do financiamento, ao longo de 120 (cento e vinte) meses, ressalvada a hipótese de quitação antecipada de que trata o inciso II;
+II - poderá haver quitação antecipada do financiamento, conforme regulamentação do Ministério das Cidades;
 III - não se admite transferência inter vivos de imóveis sem a respectiva quitação.
 § 6º As cessões de direitos, promessas de cessões de direitos ou procurações que tenham por objeto a compra e venda, promessa de compra e venda ou cessão de imóveis adquiridos sob as regras do PMCMV, quando em desacordo com o inciso III do § 5º, serão consideradas nulas.
 § 7º Nas operações previstas no § 3º, a subvenção econômica será concedida no ato da contratação da unidade habitacional, conforme regulamentação do Ministério das Cidades.
@@ -23,5 +24,12 @@ III - não se admite transferência inter vivos de imóveis sem a respectiva qui
 § 13. No caso de execução da garantia de que trata o § 12, ficará o FAR sub-rogado nos direitos do credor.
 § 14. Para assegurar a expectativa trimestral de venda de imóveis estabelecida pelo FAR, as instituições financeiras executoras do PMCMV deverão repassar ao FAR o valor equivalente aos descontos do FGTS correspondente à referida expectativa trimestral.
 § 15. Caso os recursos de que trata o § 14 não sejam integralmente utilizados, o FAR devolverá o excedente às instituições financeiras ao final de cada trimestre, corrigido pela taxa do Sistema Especial de Liquidação e de Custódia - SELIC apurada no período.
-§ 16. As unidades habitacionais ociosas e as integrantes de operações pendentes de finalização cuja viabilidade de conclusão restar prejudicada poderão ser doadas pelo FAR ou pelo FDS aos Estados, ao Distrito Federal, aos Municípios ou aos órgãos de suas administrações diretas e indiretas com vistas à sua disponibilização para outros programas de interesse social, conforme regulamentação do Ministério das Cidades.
+§ 16. Os imóveis cuja viabilidade ou permanência no Programa restar prejudicada poderão ser objeto de desimobilização, pelo FAR ou pelo FDS, por meio de cessão, doação, locação, comodato, arrendamento, venda, ou outros negócios jurídicos compatíveis, em contrato subsidiado ou não, aos Estados, ao Distrito Federal, aos Municípios, aos órgãos de suas administrações diretas e indiretas, às pessoas físicas e às entidades com ou sem fins lucrativos, conforme ato do Ministério das Cidades.
+§ 17. (Revogado).
 § 18. Compete ao Ministério das Cidades regulamentar a exigência de participação financeira dos beneficiários de que trata o inciso I do caput, inclusive por meio da ampliação do rol de dispensas de que trata o § 3º e da eventual renegociação de dívidas.
+§ 19. A União fica autorizada a utilizar imóveis ociosos de sua propriedade, nas regiões urbanas centrais, objetivando a sua requalificação para a oferta de benefícios habitacionais, desde que o atendimento contemple exclusivamente famílias da Faixa Urbano 1, de forma a:
+I - contribuir para a redução da ociosidade de edificações existentes e para o cumprimento da função social da propriedade, visando ao aumento da densidade demográfica e à qualificação do espaço público;
+II - estimular a reabilitação do patrimônio arquitetônico, a partir de regras que facilitem a requalificação das edificações para novos usos;
+III - favorecer a adequação de edificações existentes aos padrões de segurança, salubridade e acessibilidade, ampliando a oferta de áreas disponíveis ao adensamento populacional;
+IV - adequar os procedimentos de análise de pedidos de licenciamento de intervenções de requalificação, quando associadas a pedido de reforma com aumento de área construída;
+V - estimular a sustentabilidade ambiental em região urbana, com a maximização da utilização de materiais e infraestrutura existentes.

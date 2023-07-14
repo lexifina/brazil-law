@@ -1,4 +1,5 @@
 Art. 2º Mediante declaração de utilidade pública, todos os bens poderão ser desapropriados pela União, pelos Estados, Municípios, Distrito Federal e Territórios.
 § 1º A desapropriação do espaço aéreo ou do subsolo só se tornará necessária, quando de sua utilização resultar prejuizo patrimonial do proprietário do solo.
-§ 2º Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser desapropriados pela União, e os dos Municípios pelos Estados, mas, em qualquer caso, ao ato deverá preceder autorização legislativa.
+§ 2º Será exigida autorização legislativa para a desapropriação dos bens de domínio dos Estados, dos Municípios e do Distrito Federal pela União e dos bens de domínio dos Municípios pelos Estados.
+§ 2º-A. Será dispensada a autorização legislativa a que se refere o § 2º quando a desapropriação for realizada mediante acordo entre os entes federativos, no qual serão fixadas as respectivas responsabilidades financeiras quanto ao pagamento das indenizações correspondentes.
 § 3º É vedada a desapropriação, pelos Estados, Distrito Federal, Territórios e Municípios de ações, cotas e direitos representativos do capital de instituições e emprêsas cujo funcionamento dependa de autorização do Govêrno Federal e se subordine à sua fiscalização, salvo mediante prévia autorização, por decreto do Presidente da República.

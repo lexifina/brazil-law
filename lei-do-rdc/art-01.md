@@ -9,6 +9,7 @@ VII - das ações no âmbito da segurança pública;
 VIII - das obras e serviços de engenharia, relacionadas a melhorias na mobilidade urbana ou ampliação de infraestrutura logística; e
 IX - dos contratos a que se refere o art. 47-A.
 X - das ações em órgãos e entidades dedicados à ciência, à tecnologia e à inovação.
+XI - das obras e serviços de engenharia para infraestrutura, construção, requalificação, urbanização e regularização fundiária no âmbito das políticas públicas de desenvolvimento urbano e habitação.
 § 1º O RDC tem por objetivos:
 I - ampliar a eficiência nas contratações públicas e a competitividade entre os licitantes;
 II - promover a troca de experiências e tecnologias em busca da melhor relação entre custos e benefícios para o setor público;
