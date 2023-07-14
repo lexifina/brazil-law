@@ -1,0 +1,1 @@
+Art. 10-A Os valores apurados com a alienação dos imóveis serão utilizados para amortizar os saldos devedores dos empréstimos tomados perante o FGTS, na forma do inciso II do caput do art. 3° desta Lei, nas condições a serem estabelecidas pelo Conselho Curador do FGTS.
