@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 1ª Vara Cível, Criminal e da Infância e da Juventude da Comarca de Abre Campo/MG em face de decisão do Juízo de Direito da 3ª Vara Criminal da Comarca de Vila Velha/ES que se recusou a cumprir carta precatória expedida pelo Juízo suscitante com o objetivo de intimar o réu (ANDRÉ VIEIRA MAGESTE) na ação penal n. 0016859-50.2020.8.13.0003, para audiência de instrução e julgamento prevista para ocorrer em 21/06/2023.
+Para o Juízo suscitado (do ES), por não se tratar de acusado preso, o Juízo suscitante poderia efetuar a intimação do réu por outra forma (e-mail, celular etc.), em razão do que seria desnecessária a precatória.
+Por sua vez, o Juízo suscitante (de MG) sustenta que a intimação do acusado para a AIJ, quando é certo e conhecido o seu endereço, deve necessariamente ocorrer pela via pessoal, inexistindo permissivo normativo para a intimação, no processo penal, por telefone, endereço eletrônico ou aplicativo de mensagens instantâneas  CPP, arts. 351, 353 e 370.
+Nessa linha, defende ter sido negado cumprimento à carta precatória fora das hipóteses previstas no rol taxativo do art. 267 do CPC.
+Na mesma decisão, cancelou a audiência inicialmente prevista para ocorrer no dia 21/06/2023.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pela competência do Juízo deprecado, em parecer assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA INTIMAÇÃO. COMPARECIMENTO À AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. RECUSA PELO JUÍZO DEPRECADO. AUSÊNCIA DE PREVISÃO NO ROL TAXATIVO DO ART. 267, DO CPC.
+Parecer pelo conhecimento do conflito, decidindo-se pela competência do JUÍZO DE DIREITO DA 3A VARA CRIMINAL DE VILA VELHA - ES, o suscitado.
+É o relatório. Passo a decidir.
+Tenho que o presente conflito perdeu seu objeto no momento em que o Juízo suscitante cancelou a audiência de instrução e julgamento anteriormente designada para ocorrer no dia 21/06/2023, sem estabelecer nova data futura para sua ocorrência.
+Com efeito, a consulta ao andamento processual da ação penal n. 0016859-50.2020.8.13.0003 não indica nenhuma nova data para a audiência após 25/05/2023, data em que o presente conflito foi suscitado.
+Ora, se não há nova data para a audiência, não há como se perquirir do descumprimento de precatória cujo único objetivo era intimar o réu "para participar, querendo, da assentada instrutória, seja mediante o comparecimento ao Edifício do Fórum local, seja por videoconferência, como admite o Código de Processo Penal (art. 185, §2º) e regulamenta a Portaria nº. 6.710/2021 da Corregedoria-Geral de Justiça do Estado de Minas Gerais" (e-STJ fl. 297). De consequência, cai por terra o questionamento sobre a competência para o cumprimento de determinação de intimação do réu nela inserida.
+Registro, a título de obiter dictum, que a jurisprudência desta Corte é assente no sentido de que somente se admite a recusa por parte do Juízo deprecado, quando evidenciada uma das hipóteses do art. 267 do novo CPC. E, caso ainda houvesse interesse no julgamento do incidente, seria reconhecida a competência do Juízo suscitado, da 3ª Vara Criminal da Comarca de Vila Velha/ES para dar cumprimento à precatória expedida pelo Juízo suscitante.
+Ante o exposto, com amparo no art. 34, XXII, do Regimento Interno do STJ, não conheço do conflito de competência, ante a perda de seu objeto .
+Dê-se ciência aos Juízos em conflito.
+Intimem-se.
