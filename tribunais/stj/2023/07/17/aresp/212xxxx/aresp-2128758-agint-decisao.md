@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto pela COOPERATIVA DALIA ALIMENTOS LTDA contra decisão monocrática proferida pela P residência do STJ (fls. 375/377) que não conheceu do agravo ante o óbice da Súmula 182/STJ.
+A parte insurgente, nas razões do agravo interno (fls. 379/385), afirma que a inadmissibilidade recursal por incidência das Súmulas 5 e 7 do STJ foi devidamente enfrentada nas razões do agravo em recurso especial.
+Da análise das razões recursais e do acórdão recorrido, verifico que a relação jurídica litigiosa é oriunda de contrato de compra e venda de energia elétrica celebrado entre particulares, motivo pelo qual é regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput, e § 2º, II e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para a redistribuição do feito a uma das turmas que compõem a Segunda Seção.
+Publique-se. Intimações necessárias.
