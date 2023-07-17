@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TIAGO DE BRITO CORREA DE MENEZES, em que se aponta como ato coator decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 02 anos e 04 meses de reclusão, em regime inicial semiaberto, além do pagamento de 11 dias-multa, pela prática do delito capitulado no artigo 155, § 4º, incisos I e IV, do Código Penal. Após o trânsito em julgado da condenação, foi determinada a expedição de guia de execução definitiva em 05/06/2023.
+Inicialmente, o impetrante defende a superação da Súmula n. 691 do Supremo Tribunal Federal, "uma vez que e patente o constrangimento ilegal, evitando a manutenção de situação manifestamente contrária à jurisprudência do Supremo Tribunal Federal " (fl. 08).
+Sustenta que o paciente se encontra na iminência de sofrer constrangimento ilegal, tendo em vista que o juízo de primeiro grau não cumpriu a decisão do Superior Tribunal de Justiça exarada no bojo do habeas corpus n. 580935, que determinou a sua submissão a perícia médica, para fins de concessão do indulto humanitário, nos termos do Decreto n. 9.706/2019.
+Requer, liminarm ente, "a revogação do mandando de prisão expedido, até a realização seja designado médico oficial para proceder perícia médica no sentenciado, comprovando assim o preenchimento do requisito previsto no art. 1º inc. II, do no DECRETO Nº 9.706, DE 8 DE FEVEREIRO DE 2019" (fl. 13) ou, subsidiariamente, "a conversão em prisão domiciliar, uma vez que se trata de pessoa TOTAL INCAPAZ, tanto que encontra-se interditado." (fl. 13).
+No mérito, pugna "seja concedida a ordem com o fim de cassar a R. Decisão proferida no Habeas Corpus Nº 2172535-95.2023.8.26.0000, determinando-se, assim, a revogação do mandado de prisão expedido, até a realização seja designado médico oficial para proceder perícia médica no sentenciado, comprovando assim o preenchimento do requisito previsto no art. 1º inc. II, do no DECRETO Nº 9.706, DE 8 DE FEVEREIRO DE 2019 e subsidiariamente seja concedida prisão domiciliar, sendo respeitada a decisão concedida pela instância superior." (fl. 14).
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não percebo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular.
+Compulsando os autos, verifica-se que, após o trânsito em julgado da sentença condenatória, foi determinada, em 05/06/2023, a expedição de guia de recolhimento definitiva e encaminhamento à Vara de Execuções Criminais, especialmente "para que seja dado cumprimento do quanto determinado nos itens "b" e "c" da decisão proferida no habeas corpus nº 580935, observando-se o item 6.1. do Comunicado CG nº 332/2023" (fl. 63).
+Assim, é prudente aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
