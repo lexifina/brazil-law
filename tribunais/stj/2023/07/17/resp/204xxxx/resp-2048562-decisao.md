@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO TOCANTINS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA DE AÇÃO COLETIVA. POSSIBILIDADE. LEGITIMIDADE ATIVA. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+1. A coisa julgada formada nos autos da ação coletiva de nº5011063-51.2012.8.27.2729, promovida pelo Sindicato, favorece os respectivos substituídos, que detêm legitimidade para ajuizar a execução individual, mediante a simples prova de ser integrante da categoria profissional beneficiada, dispensando-se os demais requisitos, inclusive a filiação ao sindicato.
+2. A sentença proferida nos autos da ação coletiva não foi restritiva, uma vez que não delimitou expressamente quem seriam os beneficiários do pleito, de modo que a coisa julgada advinda da alusiva ação coletiva, portanto, deve alcançar todos os integrantes da categoria.
+3. A apelante comprovou que se enquadra na mesma categoria beneficiada pela sentença proferida na ação coletiva e que teve seu direito lesado nos moldes delineados na referida ação, de forma que não há óbice para a propositura do cumprimento de sentença individual, porquanto os efeitos da sentença estendem-se a todos da categoria.
+4. Recurso conhecido e provido. Sentença reformada para reconhecer a legitimidade ativa da apelante para o cumprimento individual de sentença da ação coletiva. Por conseguinte, determino o retorno dos autos à origem para prosseguimento do feito (fl. 198).
+Os embargos de declaração opostos foram rejeitados (fls. 247/248).
+Nas razões do seu recurso especial, a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 1.022, II, parágrafo único, II, c/c o art. 489, §1º, IV, e 1.025, todos do CPC.
+Alega que o Tribunal de origem foi omisso quanto à matéria discutida.
+Requer " ..  que seja reconhecida a ilegitimidade ativa da parte exequente, ora recorrida, tendo em vista que a sentença coletiva executada não alcança aqueles servidores que ocuparam cargo em comissão em substituição após o ajuizamento da demanda (24/04/2012)" (fl. 265).
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 271/282). O recurso especial foi admitido na origem.
+É o relatório.
+A irresignação não merece prosperar.
+Apesar  de  rejeitados  os  embargos  de  declaração,  a  matéria  em  exame  foi  devidamente  enfrentada  pelo  colegiado  de  origem,  que  sobre  ela  emitiu  pronunciamento  de  forma  fundamentada,  ainda  que  em  sentido  contrário  à  pretensão  da  parte  recorrente,  consoante  pode  ser  observado  na  seguinte  passagem:
+No tocante ao segundo ponto suscitado pelo embargante - que tratada sua legitimidade para o cumprimento individual de sentença coletiva -,verifico que a matéria foi objeto de análise pelo Colegiado e, portanto, não há omissão nessa parte, como se observa na ementa do acórdão com a seguinte redação:
+"EMENTA: APELAÇÃO CÍVEL. ADMINISTRATIVO. CUMPRIMENTOINDIVIDUAL DE SENTENÇA DE AÇÃO COLETIVA. POSSIBILIDADE. LEGITIMIDADE ATIVA. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+1. A coisa julgada formada nos autos da ação coletiva de nº 5011063-51.2012.8.27.2729, promovida pelo Sindicato, favorece os respectivos substituídos, que detêm legitimidade para ajuizar a execução individual, mediante a simples prova de ser integrante da categoria profissional beneficiada, dispensando-se os demais requisitos, inclusive a filiação ao sindicato.
+2. A sentença proferida nos autos da ação coletiva não foi restritiva, uma vez que não delimitou expressamente quem seriam os beneficiários do pleito, de modo que a coisa julgada advinda da alusiva ação coletiva, portanto, deve alcançar todos os integrantes da categoria.
+3. O apelante comprovou que se enquadra na mesma categoria beneficiada pela sentença proferida na ação coletiva e que teve seu direito lesado nos moldes delineados na referida ação, de forma que não há óbice para a propositura do cumprimento de sentença individual, porquanto os efeitos da sentença estendem-se a todos da categoria.
+4. Recurso conhecido e provido. Sentença reformada para reconhecer a legitimidade ativa do apelante para o cumprimento individual de sentença da ação coletiva. Por conseguinte, determino o retorno dos autos à origem para prosseguimento do feito.
+Para mais além, é pacífico o entendimento de que a decisão contrária aos interesses da parte não autoriza o questionamento na via dos embargos de declaração, posto que há recurso específico para tanto (fls. 239/240).
+Ante o exposto, nego provimento ao recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimações necessárias.
