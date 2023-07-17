@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo de inadmissão de recurso especial interposto por EULER MIRANDA DA COSTA contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO em agravo de instrumento.
+A questão debatida no recurso especial inadmitido na origem, qual seja, inclusão do valor de eventual multa civil na medida de indisponibilidade de bens decretada em ação de improbidade administrativa foi decidida pelo Superior Tribunal de Justiça quando do julgamento do REsp 1.862.792/PR e do REsp 1.862.797/PR, ambos submetidos ao regime dos recursos repetitivos (Tema n. 1.055/STJ).
+Dessa forma, existindo precedente vinculante ao qual adstrito o recurso especial interposto, não caberia ao tribunal a quo proceder a um juízo de admissibilidade fundamentado no art. 1.030, V, do CPC, mas sim proceder nos termos do art. 1.030, I ou II, do diploma processual.
+Pelo exposto, casso a decisão de inadmissão do recurso especial (fls. 9.441/9.446), determinando a devolução dos autos ao tribunal de origem, com a devida baixa nesta Corte Superior, a fim de que se proceda nos termos do art. 1.030, I e II, do CPC. Julgo prejudicado o agravo em recurso especial interposto.
+Publique-se. Intimações necessárias.
