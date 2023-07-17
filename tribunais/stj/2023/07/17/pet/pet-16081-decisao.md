@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de atribuição de efeito suspensivo a agravo em recurso especial formulado por CARLOS ALBERTO CARVALHO MONTEIRO e MARIA DE NAZARETH ANDRADE MONTEIRO, sustentando que estariam presentes os requisitos necessários para a concessão de efeito suspensivo ao recurso especial.
+Alegam que a apreciação do recurso interposto não demandaria revolvimento do contexto fático-probatório, mas tão somente posicionamento desta Corte na interpretação do art. 206, § 1º, V, do Código Civil. Defendem, portanto, que não incidiria o óbice enunciado pela Súmula n. 7 do STJ sobre o presente caso.
+Aduzem que estaria presente o periculum in mora, pois, em 27/7/2023, o prazo para cumprimento voluntário da obrigação decorrente do cumprimento provisório de sentença se escoaria, ao argumento de que não reuniriam condições de efetuar o pagamento voluntário.
+É o relatório.
+De acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na análise prefacial ínsita a este período de plantão judiciário, não se infere das alegações o periculum in mora que desborde da tramitação normal da ação, não havendo elementos excepcionais que ensejam a atribuição de efeito suspensivo ao recurso.
+Outrossim, não foi comprovado risco de dano irreparável ou de ineficácia da medida ao fim do processo na hipótese de a tutela cautelar não ser, desde logo, deferida, não constituindo a mera possibilidade de prosseguimento da ação motivo suficiente para a concessão do pretendido efeito suspensivo.
+Ante o exposto, indefiro o pedido de tutela recursal, sem prejuízo de ulterior apreciação pelo Ministro relator.
+Publique-se. Intimem-se.
