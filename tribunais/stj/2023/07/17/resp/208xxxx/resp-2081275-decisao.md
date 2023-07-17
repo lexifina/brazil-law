@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por NILMAR RODRIGUES DO NASCIMENTO (e-STJ fl. 203/209), com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 182):
+TRÁFICO ILÍCITO DE ENTORPECENTES Existência de prova segura da autoria e materialidade do tráfico Condenação mantida.
+PENA. REDUÇÃO. Admissibilidade. Excesso de rigor do ilustre sentenciante. RECURSO PARCIALMENTE PROVIDO
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 33, §2º, alínea "b", do CP e do artigo 387 do CPP. Sustenta: (i) a fixação do regime semiaberto para o cumprimento da pena; (ii) a aplicação da detração penal.
+Apresentadas contrarrazões (e-STJ fls. 212/217), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 222).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não provimento do recurso (e-STJ fl. 231/232).
+É o relatório. Decido.
+O recurso não merece acolhida.
+No que tange ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito - enunciado da Súmula 440 deste Tribunal.
+Na mesma esteira, são os enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do Código Penal ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No presente caso, em atenção ao art. 33, § 2º, alínea "b", do CP, embora estabelecida a pena definitiva do acusado em 6 anos, 9 meses e 20 dias de reclusão, além da reincidência, houve a consideração de circunstância judicial negativa na exasperação da pena-base (maus antecedentes), fundamentos a justificar a imposição de regime prisional mais gravoso, no caso, o fechado. Precedentes: AgRg no AREsp 1797487/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/04/2021, DJe 20/04/2021; AgRg no REsp 1899462/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 9/2/2021, DJe 12/2/2021; HC 606.212/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 22/9/2020, DJe 29/9/2020; AgRg no AREsp 1.602.427/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/8/2020, DJe 31/8/2020.
+Por fim, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Isso porque o agravamento do regime está baseado nos maus antecedentes e na reincidência do envolvido, nos termos do art. 33 do Código Penal.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ e na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
