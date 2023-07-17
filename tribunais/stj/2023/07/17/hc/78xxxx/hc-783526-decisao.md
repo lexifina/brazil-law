@@ -1,0 +1,34 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o HC n. 717.193/SP.
+Trata-se de habeas corpus impetrado em nome de Giam Jose Gomes Brandao dos Santos, condenado pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa (Processo n. 1503712-14.2021.8.26.0510, da 2ª Vara Criminal da comarca de Rio Claro/SP - fls. 36/41).
+Aponta-se como órgão coator o Tribunal de Justiça de São Paulo, que manteve a sentença condenatória (fls. 58/74).
+Alega-se, em síntese, a nulidade do flagrante realizado pela Guarda Civil Municipal, em afronta aos arts. 244 do Código de Processo Penal e 144 da Constituição Federal.
+Postula-se, em liminar e no mérito, a concessão da ordem para reconhecer a ilegalidade das provas colhidas. Requer-se a concessão da liminar para que o paciente possa aguardar solto o julgamento do presente writ, e, ao final, pede que seja conhecida e concedida a ordem de habeas corpus para absolver o paciente, nos termos do art. 386, incisos II e V, do Código de Processo Penal (fl. 11).
+Liminar indeferida (fls. 77/78) e informações prestadas (fls. 83/84 e 85/120), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 124/130).
+É o relatório.
+Assiste razão às alegações da defesa.
+Com efeito, quanto às nulidades arguidas, o acórdão impugnado está assim fundamentado (fls. 61/65 - grifo nosso):
+A preliminar arguida não comporta guarida jurisdicional.
+De fato, a função precípua dos guardas municipais é a proteção do patrimônio do município.
+Entretanto, não há o que se cogitar sobre a ilegalidade das provas produzidas, eis que ausente investigação policial exercida pelos agentes, mas sim situação de flagrância.
+Em patrulhamento de rotina, os guardas civis avistaram o apelante e corré juntos, os quais, ao notarem a presença da viatura e possiblidade de abordagem, apresentaram nervosismo, bem como a varoa dispensou ao solo uma sacola que continha crack e cocaína.
+Revistado, sob a cueca de Giam, mais porções dos mesmos entorpecentes.
+Portanto, o crime de tráfico de drogas já estava caracterizado quando da apreensão, não havendo qualquer investigação por parte dos guardas.
+Isto é, em razão do caráter permanente do delito, a natureza do crime autorizava os guardas municipais a agirem, eis que facultado a qualquer do povo prender quem quer que seja encontrado em flagrante delito, pela norma do artigo 301 do Código de Processo Penal.
+ ..
+Desse modo, não houve violação ao texto constitucional e os direitos fundamentais do apelante e corré foram amplamente preservados. Não há, portanto, qualquer irregularidade ou nulidade a ser reconhecida na ação da guarda municipal no caso vertente.
+Assim, lícitas todas as provas coligidas nos autos, as quais não devem ser desentranhadas, nos termos do artigo 157, §1º do Código de Processo Penal.
+Destarte, não há que se falar em absolvição do apelante pela alegação de ilegalidade da prova produzida.
+Realmente, conforme a jurisprudência desta Corte Superior, inexiste qualquer óbice à realização de prisão, em situação de flagrância, por guardas municipais ou qualquer outra pessoa, não havendo falar, em tais casos e somente por isso, em ilicitude das provas daí decorrentes.
+Contudo, quanto à realização de busca pessoal, o próprio § 2º do art. 240 do CPP consagra que é necessária a presença de fundada suspeita para que esteja autorizada a medida invasiva, não bastando para isso o fato de os réus terem demonstrado nervosismo ao avistar os guardas municipais, jogando para o lado uma sacola. Ora, tal fato, isoladamente, não possui razoabilidade.
+Com efeito, assentou-se nesta Casa que a adequada interpretação do art. 244 do CPP é a de que a fundada suspeita de posse de corpo de delito é um requisito necessário, mas não suficiente, por si só, para autorizar a realização de busca pessoal, porque não é a qualquer cidadão que é dada a possibilidade de avaliar a presença dele; isto é, não é a todo indivíduo que cabe definir se, naquela oportunidade, a suspeita era fundada ou não e, por consequência, proceder a uma abordagem seguida de revista. Em outras palavras, mesmo se houver elementos concretos indicativos de fundada suspeita da posse de corpo de delito, a busca pessoal só será válida se realizada pelos agentes públicos com atribuição para tanto, a quem compete avaliar a presença de tais indícios e proceder à abordagem do suspeito (REsp n. 1.977.119/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe 23/8/2022).
+Diante do cenário exposto, no caso, a diligência em questão está eivada de ilegalidade, pois a abordagem foi realizada por guardas municipais, em razão de suposta atitude suspeita do paciente, que dispensou uma sacola ao visualizar a presença da guarnição, o que, além de não consubstanciar fundadas suspeitas para a busca pessoal, não demonstrou relação com suas atribuições de proteção à integridade dos bens e instalações ou garantia da adequada execução dos serviços municipais (AgRg no HC n. 771.705/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022).
+Com efeito, por não haver sido demonstrada concretamente a existência de relação clara, direta e imediata com a proteção do patrimônio municipal, não estavam os guardas municipais autorizados, naquela circunstância, a avaliar a presença da fundada suspeita, efetuar a busca pessoal no acusado. Assim, na espécie, porque a situação de flagrante delito só foi descoberta após a realização de diligências ostensivas e investigativas típicas da atividade policial e completamente alheias às atribuições da guarda municipal, deve ser reconhecida a ilicitude das provas colhidas com base nessas medidas e de todas as que delas derivaram (AgRg no RHC n. 173.998/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2023).
+À vista do exposto, concedo a ordem para anular o flagrante realizado pela guarda municipal, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolver o paciente com fundamento no art. 386, II, do Código de Processo Penal.
+Por fim, nos termos do art. 580 do Código de Processo Penal, estendo os efeitos desta decisão à corré Kayna Diecine Silva Tome, por ostentar idêntica situação fática e jurídica.
+Comunique-se, com urgência, o teor desta decisão às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PRISÃO REALIZADA POR GUARDAS MUNICIPAIS. BUSCA PESSOAL. AUSÊNCIA DE ELEMENTOS CONCRETOS. FUNDADA SUSPEITA INEXISTENTE. ILICITUDE DAS PROVAS OBTIDAS. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo, com extensão dos efeitos à corré.
