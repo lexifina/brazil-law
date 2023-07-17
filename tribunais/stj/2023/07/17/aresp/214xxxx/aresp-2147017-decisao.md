@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de DINO AKIRA SAKASHITA no qual se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+AGRAVO LEGAL. APELAÇÃO EM MANDADO DE SEGURANÇA E REMESSA OFICIAL. AGRAVO RETIDO NÃO REITERADO, PORTANTO NÃO CONHECIDO. SENTENÇA EXTRA PETITA NÃO CONFIGURADA. EXCLUSÃO DE SÓCIO DO POLO PASSIVO. AGRAVO IMPROVIDO.
+1. Agravo retido não conhecido, uma vez que a parte deixou de reiterá-lo expressamente nas razões ou na resposta de apelação, conforme o disposto no art.523, § 1º, do Código de Processo Civil.
+2. Não há que se falar em julgamento extra perna na medida em que o r. juízo acolheu o pedido dos impetrantes, excluindo seus nomes do CADIN. Todavia, sentença ultra petita no tocante à determinação de cancelamento das inscrições dos impetrantes na Dívida Ativa da União em relação às inscrições 80.6.056736-41, 80.6.056737-22, 80.2.96.040161-76 e 82.2.96.040162-57, que reduzo aos limites do pedido.
+3. Consoante art. 135, III, do Código Tributário Nacional, os sócios, diretores, gerentes e representantes das pessoas jurídicas são pessoalmente responsáveis pelas obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração da lei, contrato social ou estatutos.
+4. Não resta dúvida que o representante legal da sociedade pode ser responsabilizado em razão da prática de ato com abuso de poder, infração à lei, contrato social ou estatutos, ou ainda, na hipótese de dissolução irregular da sociedade. A responsabilidade nestes casos deixa de ser solidária e se transfere inteiramente para o representante da sociedade que agiu com violação de seus deveres.
+5. O simples fato de não terem sido encontrado bens passíveis de penhora em nome da empresa executada não enseja o redirecionamento do feito para os sócios, sendo necessária a citação por Oficial de Justiça, a fim de comprovar a irregularidade da dissolução da empresa executada.
+6. Noutro viés, não restou configurada qualquer das situações a que se refere o art. 135, do CTN, limitando-se a União Federal a requerer a inclusão no polo passivo da execução dos sócios da empresa, sem qualquer indício de prova de sua responsabilidade pessoal.
+7. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+8. Agravo legal improvido (fls. 403/404).
+Os embargos de declaração opostos foram rejeitados (fls. 421/429).
+Nas razões de seu recurso especial, a parte ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 128, 460 e 535, II, do CPC/1973.
+Afirma que o acórdão recorrido foi omisso ao deixar de apreciar suposta contradição, conforme suscitada, restando o julgado eivado de vícios na prestação jurisdicional.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 524/525).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Trata-se de agravo em recurso especial interposto contra a decisão que inadmitiu o recurso especial e cuja publicação se deu em 7/11/2017. Dessa decisão, a parte opôs embargos de declaração (fls. 531/536), que foram rejeitados (fls. 547/548). O agravo em recurso especial foi interposto somente em 20/2/2018, fora do prazo de 15 dias úteis, conforme determina o art. 994, VIII, c/c arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do CPC.
+Conforme a orientação consolidada desta Corte Superior, os embargos de declaração contra a decisão que inadmite o recurso especial na origem são considerados manifestamente incabíveis e, portanto, não interrompem o prazo recursal do agravo em recurso especial. Cito, a propósito, os seguintes arestos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TARIFA DE ESGOTO. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. TEMA 565/STJ. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA JUÍZO PRIMEVO DE PRELIBAÇÃO. RECURSO MANIFESTAMENTE INCABÍVEL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. Na forma do artigo 1.030, § 2º, do CPC, o recurso cabível contra a decisão que nega seguimento a apelo nobre com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno, não cabendo falar na possibilidade de interposição de agravo em recurso especial.
+2. Não mais existindo dúvida objetiva quanto ao recurso cabível, a interposição de agravo em recurso especial nesses casos configura erro grosseiro, desautorizando a aplicação do princípio da fungibilidade recursal.
+3. Segundo consolidada jurisprudência, o agravo previsto no art. 1.042 do CPC/2015 (art. 544 do CPC/73) é o único recurso cabível contra a decisão que não admite recurso extraordinário lato sensu na origem, de modo que os embargos de declaração opostos, nesse caso, não interrompem o prazo para a interposição do agravo em recurso especial.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.912.714/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. RECURSO INCABÍVEL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO.
+1. Nos termos do art. 1.030, § 1º, do CPC/2015, o recurso cabível contra a decisão denegatória de recurso especial é o agravo em recurso especial.
+2. É firme o entendimento no sentido de que a interposição de recurso manifestamente incabível configura erro grosseiro e não interrompe o prazo recursal. Assim, a oposição de embargos de declaração contra decisão que inadmite o recurso especial não interrompe o prazo para a interposição do agravo previsto no art. 1.042 do CPC/2015.
+Agravo interno improvido. (AgInt no AREsp n. 2.104.980/MG, relator Ministro Humberto Martins, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022.)
+Dessa forma, não deve ser conhecido o presente agravo em recurso especial, porque manifestamente intempestivo.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
