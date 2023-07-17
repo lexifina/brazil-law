@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor CLAYTON MACIEL PALESTINO contra acórdão da Terceira Câmara Criminal do Tribunal de Justiça de Goiás, no HC n. 5296288-17.2023.8.09.0160, assim ementado:
+HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO TENTADO. TRANCAMENTO DA AÇÃO PENAL. PACIENTE JÁ PRONUNCIADO. IMPOSSIBILIDADE. NEGATIVA DE AUTORIA. IMPRONÚNCIA. VIA ELEITA IMPRÓPRIA. MATÉRIA JÁ QUESTIONADA E DECIDIDA EM RECURSO EM SENTIDO ESTRITO. NÃO CONHECIMENTO. EXCESSO DE PRAZO. RÉU SOLTO. NÃO VERIFICADO.
+1 - Pronunciado o paciente, resta prejudicada a análise do pleito de trancamento da ação penal por ausência de justa causa.
+2 - Inviável a análise do pedido de impronúncia e da tese de negativa de autoria, porquanto o habeas corpus, ação mandamental de natureza constitucional, de rito célere, não admite exame aprofundado de provas, não podendo ser utilizado como sucedâneo de recurso próprio, mormente quando a matéria já foi, inclusive, apreciada e decidida em sede de recurso em sentido estrito.
+3 - Não prospera a alegação de excesso de prazo quando o acusado se encontra em liberdade, não evidenciada ilegalidade passível de ser combatida na estreita via do writ.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.(e-STJ, fl. 19)
+Em suas razões, o impetrante aponta ausência de justa causa para a ação penal e excesso de prazo para o encerramento da instrução.
+Pugna pelo trancamento da Ação Penal n. 0117014-72.2019.8.09.0160.
+Sem pedido liminar e dispensadas as informações, o Ministério Público opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 140-145).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de Justiça de Goiás entendeu esgotada a jurisdição daquela Corte acerca da tese de ausência de provas da materialidade e autoria delitivas, porque já devidamente afastada no julgamento do Recurso em Sentido Estrito n. 0117014-72.2009.8.09.0160.
+O entendimento adotado pelo TJ-GO não destoa da orientação desta Corte pacificada no sentido de que com a superveniência da pronúncia, a análise de trancamento da ação penal fica prejudicada.
+Foi como se pronunciou o representante do Parquet estadual:
+Nesse passo, com a sentença de pronúncia torna prejudicado o pleito de ausência de justa causa para prosseguimento do feito, uma vez que o julgador, em sede de cognição exauriente, reputou presentes os elementos probatórios da conduta delitiva, típica, ilícita e culpável. (e-STJ, fl. 22)
+Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO QUALIFICADO TENTADO. NEGATIVA DE AUTORIA. ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. DECISÃO DE PRONÚNCIA SUPERVENIENTE. REQUISITOS DO ART. 41 DO CPP ATENDIDOS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E AUSÊNCIA DE FUNDAMENTAÇÃO. CUSTÓDIA CAUTELAR REVOGADA EM PRIMEIRO GRAU. QUESTÕES PREJUDICADAS. RECURSO NÃO PROVIDO.
+1. Os questionamentos acerca da legalidade da segregação cautelar da recorrente estão superados, diante da notícia de que a custódia provisória foi revogada, com a aplicação de medidas cautelares diversas ao cárcere.
+2. Consoante precedentes desta Quinta Turma, "o habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária" (RHC 56.440/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/5/2015, DJe 17/6/2015).
+3. A alegação de inépcia da denúncia deve ser analisada de acordo com os requisitos exigidos pelos arts. 41 do CPP e 5º, LV, da CF/1988. Portanto, a peça acusatória deve conter a exposição do fato delituoso em toda a sua essência e com todas as suas circunstâncias, de maneira a individualizar o quanto possível a conduta imputada, bem como sua tipificação, com vistas a viabilizar a persecução penal e o exercício da ampla defesa e do contraditório pelo réu.
+4. Hipótese em que a inicial acusatória preenche os requisitos exigidos pelo art. 41 do CPP, porquanto descreve detalhadamente a conduta delituosa atribuída à ora recorrente, de forma individualizada, a classificação dos crimes e o rol de testemunhas, permitindo-lhe rechaçar os fundamentos acusatórios que culminaram na denúncia da investigada como incursa no art. 121, § 2º, incisos I, IV e V e art. 121, § 2º, incisos I, IV e V, c/c art. 14, inciso II, ambos na forma do art. 29 e art. 69, todos do Código Penal.
+5. Ademais, "ao proferir a decisão de pronúncia, o Magistrado emite juízo de convencimento no sentido de que estão devidamente delineados na narrativa da denúncia, e comprovados na prévia instrução processual, os indícios suficientes de autoria. Nesse contexto, não é possível na via eleita revolver o espectro probatório dos autos a fim de analisar a alegação de ausência de justa causa por ausência de indícios de autoria." (RHC 75.487-ES, Quinta Turma, Ministro Reynaldo Soares da Fonseca, julgado em 21/09/2017, DJe 27/09/2017).
+6. Recurso ordinário em habeas corpus não provido.
+(RHC n. 66.466/RS, deste relator, Quinta Turma, julgado em 14/8/2018, DJe de 24/8/2018; grifou-se.)
+In casu, conforme dito, a sentença de pronúncia foi ratificada no julgamento do Recurso em Sentido Estrito n. 0117014-72.2009.8.09.0160.
+Quanto à alegação de excesso de prazo na instrução processual, verifica-se que a Corte a quo afastou a alegação de constrangimento ilegal pelo fato de o acusado encontrar-se em liberdade.
+Independentemente de o paciente estar ou não em liberdade, nos termos da Súmula 21 do STJ, pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
