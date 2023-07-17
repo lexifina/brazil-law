@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por CAIQUE GONÇALVES - pronunciado em 9/11/2022 pela suposta prática de quatro homicídios qualificados tentados - contra o acórdão proferido pelo Tribunal de Justiça do Espírito Santo no HC n. 5009842-51.2022.8.08.0000, que manteve a prisão preventiva decretada na Ação Penal n. 0012733-45.2019.8.08.0030, em curso na 1ª Vara Criminal da comarca de Linhares/ES.
+Em síntese, alega-se: a) que há excesso de prazo na prisão preventiva que se prolonga há cerca de três anos (desde novembro de 2019), bem como que a Súmula 21/STJ não deve ser aplicada de maneira irreflexiva e perniciosa, sob pena de viabilizar a perpetuação das custódias cautelares; e b) a ausência dos requisitos autorizadores da preventiva, especialmente porque os elementos de provas constantes da ação penal não evidenciam de forma incontestável a materialidade e autoria delitiva.
+Requer-se a expedição de alvará de soltura em favor do acusado ou que lhe sejam aplicadas medidas cautelares alternativas à prisão.
+Contrarrazões à fl. 1.341/1.350, sem juízo de admissibilidade.
+Opinou o Ministério Público Federal pelo não provimento do recurso (fls. 177/184).
+Em 29/5/2023, em reanálise da custódia cautelar (art. 316 do CPP), o Juízo processante manteve a prisão preventiva do recorrente e dos coacusados e, em juízo de retratação, manteve a sentença de pronúncia, determinou o desmembramento do feito em relação ao ora recorrente e sua posterior remessa ao Tribunal local, dada a interposição de recurso em sentido estrito.
+É o relatório.
+Este recurso não merece prosperar.
+Quanto à suposta delonga na finalização da ação penal e, por consequência, na constrição cautelar do recorrente, a Corte estadual concluiu que, além de esvaziado o argumento da defesa, ante a aplicação da Súmula 21/STJ, considerando a quantidade de réus (três), bem como de vítimas (quatro), não há que se falar em desproporcionalidade do tempo de prisão provisória (fl. 640).
+Para aferição do alegado excesso de prazo devem ser considerados os percalços enfrentados pelo Juiz na condução do feito. Uma vez revelada alguma demora, há de se observar o critério da razoabilidade e se houve desídia do Magistrado na condução do feito.
+No caso, verifica-se que, muito embora a prisão do acusado tenha se dado em 22/11/2019, o processo na primeira instância segue seu curso natural e, ao menos por ora, não se evidencia retardo desproporcional ocasionado pelo Juízo de primeira instância ou pela acusação.
+Com efeito, além de incidir, no caso, o Enunciado n. 21 da Súmula desta Corte Superior, há que se levar em conta os transtornos causados pela pandemia decorrente da Covid-19, como a suspensão dos prazos processuais e das atividades presenciais, exigindo adaptações por parte do Poder Judiciário para a continuidade da prestação de seus serviços.
+Relativamente à alegação de ausência dos requisitos para a manutenção da custódia cautelar do recorrente, observa-se que a prisão está consubstanciada na garantia da ordem pública, concretamente demonstrada em razão da reiteração criminosa do recorrente (fl. 640).
+Outrossim, observa-se dos autos que o fato ocorreu no contexto de disputa decorrente do tráfico de drogas (fl. 639).
+Vê-se que as instâncias precedentes demonstraram, em decisão devidamente motivada, amparada nas circunstâncias concretas do caso em apuração na origem, a presença dos requisitos da custódia cautelar, sobretudo pela gravidade concreta do delito e risco de reiteração delitiva.
+Ora, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019).
+Nessa mesma linha, dentre muitos outros, confiram-se o HC n. 774.600/RS, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 17/3/2023; o AgRg no RHC n. 172.175/RS, Ministra Laurita Vaz, Sexta Turma, DJe 15/12/2022; e o AgRg no RHC n. 152.877/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/2/2022.
+Ademais, nos termos de reiterada jurisprudência do Superior Tribunal de Justiça, é cabível a prisão para a garantia da ordem pública, quando se sabe que o delito de homicídio qualificado, ainda que tentado, foi praticado em decorrência de disputa relacionada ao tráfico ilícito de entorpecentes (HC n. 635.217/SP, de minha relatoria, Sexta Turma, DJe 26/5/2021).
+No mesmo sentido, o HC n. 612.602/BA, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020.
+Dessa forma, inviável a aplicação de medidas cautelares diversas da prisão, já que a gravidade concreta do delito demonstra a sua insuficiência para resguardar a ordem pública (HC n. 671.112/CE, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/11/2021).
+Outrossim, questões atinentes ao mérito da ação penal não podem ser objeto de discussão nos estritos limites do remédio heroico, na medida em que ensejam o revolvimento do conjunto probatório, o que se afigura inviável.
+Portanto, a participação ou não nos delitos apurados no processo é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão provisória, haver indícios de autoria, o que, no caso, conforme se observa do acórdão (fl. 639), aconteceu.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SÚMULA 21/STJ. APLICABILIDADE. PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
