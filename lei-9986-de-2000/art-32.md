@@ -1,2 +1,0 @@
-Art. 32. No prazo de até noventa dias, contado da publicação desta Lei, ficam extintos os Cargos de Natureza Especial e os Cargos do Grupo-Direção e Assessoramento Superiores - DAS ora alocados à ANEEL, ANATEL, ANP, ANVS e ANS, e os Cargos Comissionados de Telecomunicações, Petróleo, Energia Elétrica e Saúde Suplementar e as Funções Comissionadas de Vigilância Sanitária.
-Parágrafo único. Os Cargos Comissionados e os Cargos Comissionados Técnicos de que trata esta Lei só poderão ser preenchidos após a extinção de que trata o caput.
