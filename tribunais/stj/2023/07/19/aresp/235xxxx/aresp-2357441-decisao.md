@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e demais dispositivos legais invocados e incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 488):
+DESAPROPRIAÇÃO  Decreto nº 58.547/12  Área declarada de utilidade pública  O poder expropriante deve suportar as despesas com a regularização do imóvel expropriado junto ao Cartório de Registro de Imóveis. Atualização monetária sobre a oferta inicial  Admissibilidade  A não correção do depósito da oferta produziria uma dupla e injusta correção em benefício do expropriado  Precedentes desta E. Corte - Recurso provido em parte.
+Embargos de declaração rejeitados (fl. 507).
+Interposto recurso especial, no julgamento do REsp 1.314.085/SP, esta Corte deu provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem apreciasse a matéria articulada nos aclaratórios, qual seja, inadequação da via eleita pelas partes adversas para pleitear o pagamento das despesas com a regularização da área remanescente (fls. 742-748).
+Na sequência, os embargos de declaração foram acolhidos sem efeitos modificativos (fls. 742-748).
+Daí o presente recurso especial, em que o recorrente alega violação do art. 1.022 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa aos arts. 20, 26 e 27 do Decreto-Lei 3.365/1941, art. 29, VII, da Lei 8.987/95 e art. 373, II, do CPC/2015, aos seguintes argumentos: (a) deve ser afastada a condenação da concessionária ao pagamento das despesas necessárias à regularização da área remanescente das partes adversas, pois as referidas despesas não compõem o escopo da indenização; (b) inadequação da via eleita pelas partes adversas para pleitear o pagamento das despesas com a regularização da área remanescente.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No que diz respeito à alegação de ofensa aos arts. 26 e 27 do Decreto-Lei 3.365/1941 e art. 29, VII, da Lei 8.987/95, o acórdão recorrido consignou o seguinte (fl. 747):
+Ora, não se pode impor aos expropriados referidas despesas, haja vista que a área remanescente teve sua delimitação alterada em razão da decretação de utilidade publica efetivada pela expropriante, no caso, a embargante.
+Nesse sentido, como ensina José Carlos de N Moraes Salles (in: Desapropriação à luz da doutrina e da jurisprudência, 5a edição, Ed. RT, 2006, p. 544): "a indenização devida ao expropriado não se compõe apenas do valor de mercado do bem atingido pela expropriação. Em princípio, todo e ó qualquer prejuízo advindo da desapropriação deve ser ressarcido, a fim de que seja atendido o princípio constitucional da justa indenização".
+Dessa forma, devida a condenação do expropriante ao pagamento dos custos de regularização da área remanescente, vez que decorre do ato expropriatório e não pode ser o prejuízo imputado aos expropriados.
+Como se vê, o aresto de origem decidiu a lide com base em fundamento eminentemente constitucional - "princípio constitucional da justa indenização" (art. 5º, XXIV, da CF) -, razão pela qual o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido: REsp 1.440.762/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 19/2/2019, DJe 26/2/2019 ; e AgInt no REsp 1.466.399/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 23/8/2018, DJe 29/8/2018.
+Considerando que a composição do preço da indenização foi discutida com base no fundamento constitucional acima referido, os arts. 20 do Decreto-Lei 3.365/1941 e 29, VII, da Lei 8.987/95 não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido acerca do cabimento da via eleita para discutir as despesas com a regularização da área remanescente. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço do agravo par a não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISP OSITIVOS INDICADOS. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
