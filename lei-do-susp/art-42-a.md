@@ -38,3 +38,4 @@ II - enfrentamento a toda forma de isolamento ou de desqualificação ou a qualq
 III - restrição do porte e uso de arma de fogo;
 IV - acompanhamento psicológico e, sempre que for o caso, médico, regular;
 V - outras ações de apoio institucional ao profissional.
+§ 7º O disposto neste artigo aplica-se aos integrantes das carreiras policiais previstas no § 3º do art. 27, no inciso IV do caput do art. 51 e no inciso XIII do caput do art. 52 da Constituição Federal, conforme regulamentação das respectivas Casas Legislativas.

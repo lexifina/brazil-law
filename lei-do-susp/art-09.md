@@ -19,5 +19,6 @@ XIII - Secretaria Nacional de Proteção e Defesa Civil (Sedec);
 XIV - Secretaria Nacional de Política Sobre Drogas (Senad);
 XV - agentes de trânsito;
 XVI - guarda portuária.
+XVII - polícia legislativa, prevista no § 3º do art. 27, no inciso IV do caput do art. 51 e no inciso XIII do caput do art. 52 da Constituição Federal.
 § 3º (VETADO).
 § 4º Os sistemas estaduais, distrital e municipais serão responsáveis pela implementação dos respectivos programas, ações e projetos de segurança pública, com liberdade de organização e funcionamento, respeitado o disposto nesta Lei.
