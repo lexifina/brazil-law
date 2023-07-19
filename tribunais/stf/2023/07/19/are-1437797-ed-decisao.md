@@ -1,0 +1,53 @@
+DECISÃO: EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. ELEVADO VALOR DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO. CONTROVÉRSIA SOBRE A FIXAÇÃO DE HONORÁRIOS PELO MÉTODO DA EQUIDADE. INTERPRETAÇÃO DO ART. 85, § 2º, § 3º E § 8º, DO CÓDIGO DE PROCESSO CIVIL. MATÉRIA SUBMETIDA AO PLENÁRIO VIRTUAL PARA EXAME DA EXISTÊNCIA DE REPERCUSSÃO GERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+
+    Vistos etc.
+
+    Trata-se de embargos de declaração opostos de decisão monocrática da Presidência desta Suprema Corte, pela qual negado seguimento ao recurso ante o óbice da Súmula nº 279 desta Suprema Corte e o caráter infraconstitucional da controvérsia, considerada a necessidade de interpretação da legislação infraconstitucional aplicada.
+
+    A matéria debatida, em síntese, diz com a possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes
+
+    A parte embargante aponta vícios no julgado, ao articular direta a ofensa aos preceitos constitucionais indicados nas razões recursais. Afirma que o recurso atende todos os requisitos para sua admissão. Sustenta, em síntese:
+
+    “Controvérsia dos autos: Recurso extraordinário que discute a necessidade de aplicação da equidade nas hipóteses em que os honorários advocatícios de sucumbência resultarem em valores exorbitantes contra a Fazenda Pública, em descompasso com o trabalho realizado.
+
+    FATO NOVO: Submissão ao Plenário Virtual para reconhecimento da questão constitucional e repercussão geral do RE nº 1.412.069 - Tema 1.255 de Repercussão Geral.
+
+    Necessária devolução dos autos à Corte de origem, até que haja o término do julgamento do Tema 1255, para que, posteriormente, possa ser aplicada a tese final, com efeito vinculante, nos termos dos arts. 1.030 e 1.036, ambos do Código de Processo Civil.
+
+    Pelo provimento dos embargos de declaração em face da superveniência do início do julgamento do Tema 1255, com a determinação de devolução à origem para sobrestamento e posterior aplicação do entendimento firmado pelo STF no processo paradigma”.
+
+    Requer o acolhimento dos declaratórios e o exame do recurso extraordinário.
+
+    Houve intimação da parte embargada para apresentar contraminuta.
+
+    É o relatório.
+
+    Decido.
+
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios.
+
+    O art. 1.022 do CPC admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+
+    Com base, pois, nesses permissivos legais, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+
+    Decido.
+
+    Assiste razão à embargante.
+
+    Verifica-se que após a publicação da decisão embargada, a matéria relativa à possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes, foi submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 1.412.069-RG, verbis:
+
+    “DIREITO PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. ELEVADO VALOR DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO. CONTROVÉRSIA SOBRE A FIXAÇÃO DE HONORÁRIOS PELO MÉTODO DA EQUIDADE. INTERPRETAÇÃO DO ART. 85, § 2º, § 3º E § 8º, DO CÓDIGO DE PROCESSO CIVIL. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. PRECEDENTES. REELABORAÇÃO DA MOLDURA FÁTICA. SÚMULA 279/STF. QUESTÃO CONSTITUCIONAL. INEXISTÊNCIA. REPERCUSSÃO GERAL. AUSÊNCIA”.
+
+    Ante o exposto, reconsidero a decisão recorrida para aplicar o paradigma da repercussão geral.
+
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos nos arts. 1.036 a 1.040 do CPC. Julgo prejudicados os embargos de declaração.
+
+    Publique-se.
+
+    Brasília, 19 de julho de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
