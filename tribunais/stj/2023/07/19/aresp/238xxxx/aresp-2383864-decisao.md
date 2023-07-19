@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por J.G. ASSIS DE ALMEIDA E ASSOCIADOS - SOCIEDADE DE ADVOGADOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONTRARRAZ ES DA AUTORA - INÉPCIA RECURSAL - INOCORRÉNCIA - VÍCIO DE DIALETICIDADE INEXISTENTE - PEÇAS RECURSAIS DAS RÉS FUNDAMENTADAS E DIRECIONADAS A COMBATER DE FORMA CONCRETA A SUCUMBÊNCIA ENFRENTADA POR OCASIÃO DA R. SENTENÇA - INOVAÇÃO RECURSAL - INEXISTÊNCIA - TRECHO APONTADO COMO INOVADOR NÃO ALBERGOU FATOS, TESES OU DOCUMENTOS NOVOS, LIMITANDO-SE A FORMULAR ARGUMENTO RETÓRICO SOBRE QUESTÃO JÁ DEBATIDA NOS AUTOS - PRELIMINARES DAS CONTRARRAZÕES DA AUTORA REJEITADAS.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, § 2º, do CPC, no que concerne à necessária fixação da verba honorária com base no proveito econômico obtido pela empresa ré , trazendo a seguinte argumentação:
+21. Apesar de reformar a r. sentença e limitar o valor da condenação a R$ 640,00  quando o pedido da Recorrida era de receber R$109.145,83, o d. acórdão deixou de fixar honorários sucumbenciais com base no proveito econômico obtido pela ré patrocinada pela Recorrente (cf. fl. 805):
+ ..
+22. Como se vê, mesmo negando a maior parte do pedido da Recorrida, o Eg. TJ/SP deixou de fixar honorários sucumbenciais sobre o valor do proveito econômico obtido pela sociedade patrocinada pela Recorrente, inclusive após a oposição de Embargos de Declaração:
+ ..
+25. O êxito da sociedade patrocinada pelo escritório ora Recorrente (a sociedade Cargolux), ou seja, o que a Cargolux ganhou com a ação de origem, foi o valor equivalente ao que deixou de ser condenada, já que era parte ré, de forma que seu proveito econômico equivale a R$ 108.505,66.
+26. Com efeito, o proveito econômico vem da diferença entre o valor inicialmente pretendido pela Recorrida e o que será efetivamente a ela pago, pela decisão judicial já transitada em julgado.
+ ..
+33. Deste modo, ao não fixar honorários em favor dos patronos da Cargolux, o d.acórdão violou o art. 85, § 2º, do CPC/15 (fls. 765-768).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Considerando que o decisum colegiado, fundamentadamente, manteve a distribuição da sucumbência proclamada pela r. sentença recorrida, com a condenação da Embargante ao pagamento de honorários de 10% sobre o valor da condenação, fato é que a redução da base de cálculo da condenação imposta à Embargante, referida nos embargos declaratórios, ensejará a redução do valor do honorários advocatícios correspondentes, sem que tal redução, contudo, tenha o condão de ensejar a inversão da sucumbência, considerando o acolhimento da pretensão deduzida na inicial, ainda que em menor extensão (fl. 817).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
