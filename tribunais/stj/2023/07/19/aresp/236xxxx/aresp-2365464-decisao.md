@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por INDUSTRIA METALURGICA FUNPERLITA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ICMS NA BASE DE CÁLCULO DO PIS/COFINS. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. REPETIÇÃO DE ARGUMENTOS.
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. OMISSÃO. NULIDADE DA CDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 2º, § 4º, III, da Lei n. 6.830/1980, no que concerne à nulidade da CDA que embasa a execução fiscal, pois não preenche requisitos legais de validade do título, já que não há indicação da origem e natureza da dívida, trazendo a seguinte argumentação:
+Vejamos que a negativa quanto à pretensão recursal pautou-se numa justificativa para suplantar a exigência legal de clareza e precisa para constituir como regular a exigência prevista na CDA (fl. 366).
+Desde a 1.ª instância a Recorrente bate na tecla de que uma CDA onde a Natureza de Origem da Dívida é  Demais Produtos  não oferece clareza e precisão para referência da origem do débito, ofendendo literalmente art. da Lei n.º 6.830/83.
+Vejamos que a decisão reflete que dá a entender pela fundamentação legal qual supostamente seria o tributo devido.
+Contudo, existe uma ENORMIDADE DE FUNDAMENTOS LEGAIS NA CDA e o exercício do direito de defesa é prejudicado sem que haja a possibilidade de plena e indubitável verificação do que se trata o débito discutido.
+Não basta apontar que está tudo lá mas não trazer a característica e identificação justamente do que fora apontado como elemento de nulidade.
+ ..
+Vejamos, de maneira especial, as CDAs colacionadas às fls. e cuja origem refere-se como DEMAIS PROUDUTOS devem ser declaradas nulas.
+Não existe tributo devido que denomina-se DEMAIS PRODUTOS.
+É confuso e impreciso trazer que referidas CDAs são exigíveis, sem tratar claramente do que se trata (fl. 367).
+ ..
+Reforce-se que embora a decisão diga que há CLAREZA, nem na própria decisão de 1.ª instância constou exatamente descrito qual tributo estava sendo exigido, tamanha a incompreensão e falta de objetividade, bem como a decisão de 2.ª instância buscou tentar entender qual tributo se tratava analisando algumas das referências legais, dentre muitas, apontadas.
+Sendo assim, não há exação tributária exigível à título de imposto que referencie Demais Produtos, devendo, desde já, referidas CDAs serem declaradas plenamente nulas, principalmente pela falta de indicação de origem e natureza, um dos requisitos previstos na Lei n.º 6830/80  ..  (fl. 368).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF em relação ao art. 2º, § 4º, III, da Lei n. 6.830/1980, uma vez que a parte recorrente indicou como violado dispositivo legal inexistente no ordenamento jurídico, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". ;
+Confiram-se os seguintes precedentes: REsp n. 1.311.899/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 2/3/2021; AgRg no AREsp n. 692.338/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 2/6/2015; AgRg no AREsp n. 230.768/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/2/2013; AgRg no Ag n. 1.402.971/RJ, relator Ministro Massami Uyeda, Terceira Turma, DJe de 17/8/2011; AgRg no AREsp n. 522.621/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12/12/2014; AgRg no AREsp n. 544.436/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/11/2014.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se, no caso, que a CDA que instrui a execução fiscal originária atende aos requisitos obrigatórios previstos no art. 2º, §§5º e 6º, da Lei nº 6.830/80 e no art. 202 do Código Tributário Nacional, inclusive, com a indicação da origem e natureza da dívida, bem como a forma de constituição do crédito e modalidade de notificação, além da fundamentação legal das exações e dos consectários legais cobrados (multa, juros de mora, atualização monetária). Não está ausente qualquer elemento essencial que dificulte a defesa do executado.
+Embora a denominação "demais produtos" não seja a de maior clareza, é possível, através da fundamentação legal, verificar qual o tributo devido, no caso o IPI, nos termos do art. 1º, do Decreto-Lei nº 34/66.
+As alegações genéricas de nulidade não possuem o condão de afastar a presunção legal de que goza a CDA (fl. 356).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
