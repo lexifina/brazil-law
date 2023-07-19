@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SOCIEDADE ALPHAVILLE RESIDENCIAL 10 em face da decisão de fls. 467/468, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+DATA MAXIMA VENIA, a decisão denegatória de seguimento do Recurso Especial, entendeu que à tese recursal não afastou o óbice da Súmula 284/STF, uma vez que o recorrente deixou de indicar precisamente os dispositivos legis federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, não observou a tese recursal que cumpriu tais requisitos, vejamos.
+I - DA OMISSÃO DA DECISÃO DENEGATÓRIA EM RELAÇÃO A TESE RECURSAL DE VIOLAÇÃO DO V. ACÓRDÃO A LEI 6.766/79 - ART.36-A (fl. 473).
+ ..
+O argumento da tese Recursal foi detalhado e exposto, e vale frisar que a lei federal violada, não fala em obrigação do "associado" no pagamento, mas sim dos "titulares" de imóveis que integram o empreendimento, ou seja, independentemente de ser associado o proprietário de imóvel em loteamento fechado, devidamente autorizado pelo Poder Público, tem a obrigação legal de cotizar as despesas na forma definida pela associação.
+Outro ponto a ser considerado é a fundamentação de que decisão do Excelso Supremo Tribunal Federal, através do Tema 492 em sede de Recurso Extraordinário nº 695.911/SP, estabeleceu a inconstitucionalidade da cobrança de taxa associativa até o advento da lei 13.465/2017, ou de anterior lei Municipal, que regulamenta os loteamentos de acesso controlado não foi observada.
+II - ART.1.022 § Parágrafo único - CPC - OMISSÃO DE ANÁLISE DA JURISPRUDÊNCIA OBJETO DO DISSÍDIO INTERPRETATIVO.
+ ..
+Observa-se que da mesma forma em que apontou a violação da Lei Federal 6.766-79, artigo 36-A, trouxe os Arestos oriundo do AgRg nos EDcl no AgEg nos EDcl no Recurso Especial nº 778.145/SP da Relatoria do Ministro Humberto Gomes de Barros, em que se aplica ao caso em tela com a exegese do Tema 492, que possui repercussão geral (fl. 475).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
