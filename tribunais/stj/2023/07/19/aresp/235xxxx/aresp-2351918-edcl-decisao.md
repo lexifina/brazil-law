@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCELO ANTONIO DA SILVA ZEFERINO à decisão de fls. 1095/1096, que não conheceu do recurso.
+Sustenta a parte embargante que:
+2.1.2 Percebe-se que Vossa Excelência não constou explicitamente o conhecimento do Agravo em Recurso Especial interposto, deixando omissão/obscuridade quanto ao conhecimento do recurso. Afinal, o não conhecimento foi do Agravo ou do próprio Recurso Especial ! (fl. 1101).
+2.1.3 O Agravo em Recurso Especial que foi objeto de análise pela decisão ora embargada tem por objetivo modificar a decisão do Tribunal a quo quanto à tempestividade do Recurso Especial interposto.
+2.1.4 Importante destacar que todo e qualquer recurso possui, data vênia, 02 (dois) elementos de análise: os pressupostos para seu conhecimento (cabimento, tempestividade e preparo) e o mérito em si.
+2.1.5 Ora, se o Agravo em Recurso Especial interposto encontra-se próprio, tempestivo e preparado, este deve ser conhecido. No mérito, se for o caso, negado seu provimento para manter a intempestividade do Recurso Especial.
+2.1.6 Deste modo, requer seja sanada a omissão/obscuridade para que conste na Decisão Monocrática embargada que o Agravo em Recurso Especial interposto fora conhecido, porque próprio e tempestivo (fl. 1102).
+Alega ainda:
+2.2.2 Conforme se depreende da leitura da decisão monocrática acima, Vossa Excelência analisou o caso em comento como se não houvesse a comprovação de existência de feriado local no curso do prazo recursal.
+2.2.3 Todavia, o protocolo do recurso na data de 14/07/2022 não se deu em razão da existência de feriado local, mas sim em razão da existência de datas diferentes de disponibilização e de publicação da decisão recorrida, o que altera, por consequência, a data de início e fim do prazo recursal: (fl. 1102).
+ ..
+2.2.4 É possível perceber, através dos trechos acima, que em nenhum momento foi suscitado no recurso a existência de feriado que suspendeu a fluência do prazo recursal, mas sim foi suscitado a diferença entre data de disponibilização e data de publicação, bem como a interferência dessas datas no início da contagem do prazo recursal.
+2.2.5 A controversa no caso em comento não surge da existência ou não de feriado local cuja comprovação não foi realizada no ato de interposição do recurso, mas sim da análise da diferença entre data de disponibilização e data de publicação de uma determinada decisão e do início do prazo recursal com base nessas duas datas.
+Tanto é que nas razões recursais foi suscitada a aplicação do artigo 4º §3º da Lei 11.419/06, que diz exatamente sobre disponibilização e publicação de determinada decisão (fl. 1104).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, observe-se que, de fato, o recurso enviado ao STJ para julgamento foi o agravo em recurso especial. No entanto, quando a decisão ora embargada julgou a tempestividade do recurso especial, a admissibilidade do agravo em recurso especial ficou superada, partindo-se para a análise dos requisitos de admissibilidade do próprio recurso especial.
+Portanto, superada a análise de admissibilidade dos requisitos formais do agravo em recurso especial, são analisados pelo STJ os requisitos formais referentes ao recurso especial, nos quais se enquadram sua tempestividade.
+Quanto à tempestividade do recurso especial, em sentido contrário ao alegado, nos autos há apenas a certidão de fl. 1025, atestando a disponibilização ocorrida em 21/6/2022, com a publicação no próximo dia útil subsequente, ou seja, 22/6/2022. Além disso, não há nenhum documento do tribunal de origem certificando o exposto pela parte.
+Cabia a esta fazer prova de sua argumentação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada no ato de interposição do recurso. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgInt no AREsp 1349668/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 27/2/2019; e AgInt no AREsp 1329622/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
