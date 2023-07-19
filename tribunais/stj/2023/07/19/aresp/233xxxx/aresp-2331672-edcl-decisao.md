@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IVOCLAR VIVADENT LTDA à decisão de fls. 2532/2533, que não conheceu do recurso.
+Sustenta a parte embargante que:
+10. Houve, na ocasião do julgamento do Agravo interposto pela Embargante, com o devido respeito, todavia, um hiato entre o teor da r. decisão monocrática deste E. STJ e o que deveria ter sido atendido, que é a observância aos entendimentos firmados pelos Tribunais, sobretudo no que se refere aos Temas 881 e 885 de Repercussão Geral firmados pelo E. STF.
+11. Em primeiro lugar, por ter incorrido em omissão, no que tange ao atendimento à combinação de padrões de coerência e integridade, de forma a ser mantida a uniformização da jurisprudência com o escopo maior de garantia da não surpresa. Esse fundamento por si só ensejaria a suspensão do processo até decisão final do tema de repercussão geral pelo E. STF.
+ ..
+13. Isto porque, como é sabido, o E. STF fixou os Temas nº 881 e 885 da Repercussão Geral, pelos quais passou a existir a possibilidade de alteração na coisa julgada preexistente, de forma que decisões já transitadas em julgado poderão ter seus efeitos interrompidos, na possibilidade de o E. STF julgar uma mesma temática sob outra perspectiva. Este é o contexto deixado de levar em conta na decisão era embargada. Os r. Enunciados Administrativos invocados, bem como a Súmula referida, com o devido acatamento, não dão conta da realidade jurisprudencial ora dominante, ainda que se apliquem plenamente a outros casos que não este (fls. 2540/2541).
+ ..
+16. Não bastasse a mencionada omissão, a r. decisão ora embargada também se omitiu quanto ao princípio da instrumentalidade das formas.
+17. Isto é, não houve qualquer menção acerca da peculiaridade de o objeto litigioso deste processo - a aplicação da tese tributária do Tema 1.067 de Repercussão Geral do Col. STF -, já ter tido o esgotamento de instância aperfeiçoado, na medida em que a posição da Col. Turma do TRF-3 já era conhecida e pacificada no mesmo sentido da r. decisão monocrática recorrida (que, inclusive, se fundamentou na jurisprudência pacificada da própria turma).
+ ..
+19. Observar o formalismo de sujeitar a questão ao colegiado antes da interposição do recurso especial e do recurso extraordinário apenas retardaria desnecessariamente o andamento deste processo.
+20. Nesse sentido, a forma exigida não se faz necessária para tutela do bem protegido pelo art. 102, pois o esgotamento de instância se operou por vias transversas em razão do tema ser exclusivamente de direito, repetitivo, já julgado e consolidado pelo Tribunal a quo (fl. 2542).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+Confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 1571531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/5/2020; AgInt no AREsp 879.030/RO, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/5/2020; e AgInt no AREsp 1591427/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020.
+A parte interpôs recurso especial diretamente contra decisão monocrática (fls. 2417/2419), sem o necessário exaurimento de instância.
+Desse modo, observe-se que o exame de mérito do recurso especial restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso.
+Ademais, cumpre esclarecer, pois se encontra pacificado nesta Corte, que o fato de a controvérsia porventura discutida nestes autos ser tema de afetação em recurso extraordinário com repercussão geral reconhecida, não acarreta o sobrestamento do recurso cujo mérito não pode ser apreciado em razão do não preenchimento dos requisitos de admissibilidade recursal.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. MONOCRÁTICA DO TRIBUNAL DE ORIGEM. INADMISSÃO DO ESPECIAL. INCISO V DO ARTIGO 1.030 DO CPC/2015. AGRAVO INTERNO. POSTERIOR AGRAVO NOS PRÓPRIOS AUTOS. PRINCÍPIO DA UNICIDADE. EXCEPCIONALIDADE NÃO CARACTERIZADA. NÃO CONHECIMENTO DO SEGUNDO RECURSO. MATÉRIA DE MÉRITO. REPERCUSSÃO GERAL. RECURSO ESPECIAL REPETITIVO. RECURSO INADMISSÍVEL. SOBRESTAMENTO DO ESPECIAL. DESNECESSIDADE. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+4. Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e não conhecer do agravo nos próprios autos, diante da preclusão consumativa.
+(AgInt no AREsp 1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 518/STJ. INVIABILIDADE DE APRECIAÇÃO DE SUPOSTA OFENSA A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM RECURSO ESPECIAL. DEFICIÊNCIA NA REALIZAÇÃO DO DISSÍDIO INTERPRETATIVO. SÚMULA 284/STF. HIPÓTESE DE SUSPENSÃO DO RECURSO COM BASE NO ART. 1.035 DO NOVO CPC. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Nos termos da jurisprudência desta Corte Superior, "revela-se injustificável acolher pedido de sobrestamento de recurso especial que não ultrapassa o juízo de admissibilidade para aguardar o julgamento do mérito de recurso extraordinário com repercussão geral reconhecida" (AgInt no REsp 1.861.662/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 24/8/2020, DJe de 27/8/2020).
+5. Agravo interno desprovido.
+(AgInt no AREsp 1628647/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
