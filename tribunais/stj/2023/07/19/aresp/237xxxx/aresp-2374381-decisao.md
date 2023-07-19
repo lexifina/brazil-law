@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO DE ALMEIDA NOBRE NETO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - INTERPOSIÇÃO CONTRA SENTEUÇA QUE JULGOU IMPROCEDENTE AÇÃO DE PROCEDIMENTO COMUM. PREVENÇÃO GERADA EM RAZÃO DE ANTERIOR DISTRIBUIÇÃO DE AGRAVO DE INSTRUMENTO N.º 2081534-97.2021.8.26.0000 À COLENDA 25A CÂMARA DE DIREITO PRIVADO, NOS AUTOS U.º 1002446-91.2021.8.26.0011. CASO QUE REQUER APLICAÇÃO (LO ARTIGO 105 (LO REGIMENTO INTERNO (LO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. RECURSO NÃO CONHECIDO, COM DETERMINAÇÃO DE REDISTRIBUIÇÃO. APELAÇÃO NÃO CONHECIDA, COM DETERMINAÇÃO DE REDISTRIBUIÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 1.277 e 1.279 do CC, no que concerne à indevida improcedência do pleito, ensejando salvo conduto para a repetição das violações de direitos, trazendo a seguinte argumentação:
+5. A posição da r. sentença e do v. acórdão, com o devido respeito, implica em negativa de prestação jurisdicional, além de salvo conduto para a repetição das violações de direitos admitidas pelos julgados recorridos, apesar de proibidas pelos arts. 1.277 e 1.279 do Cód. Civil.
+6. Ora, os r. julgados recorridos não negam o quão assustador foi o evento constante do link acima, que reproduz as reuniões realizadas no imóvel vizinho às terças e quintas feiras. Ainda que o Recorrente só tenha conseguido gravar um único evento, não é possível imaginar que algo tão bárbaro e assustador possa ser encarado como uma exceção desculpável, sem a necessidade de ser proibida, ainda que que as normas federais elencadas não admitam exceções ou atos isolados que as violem.
+7. Por outro lado, julgar improcedente a ação só porque não se provou a repetição das violações, equivale a inocentar o ladrão que foi pilhado roubando uma única vez.
+ ..
+8. Anote-se, ainda, que a ação precisou ser proposta para que cessasse o comportamento violador dos Recorridos, circunstância que não foi considerada pelos nobres julgadores.
+ ..
+11. A partir do momento em que a norma legal tem a sua vigência comprometida pela admissão pretoriana da excepcionalidade das violações ou pela relativização de atos ilícitos, desde que isolados, instala-se a insegurança jurídica e a desarmonia nas relações condominiais.
+12. No caso dos autos, tanto o Recorrente como a coletividade estão sofrendo prejuízos com o salvo conduto outorgado pelo Judiciário paulista aos Recorridos, autorizando-os a agir como agiram, desde que isoladamente, de forma excepcional. Por outro lado, essa leniência do Judiciário apresenta condições plenas para disseminar comportamentos como o dos Recorridos, gerando ainda maior insegurança jurídica ao admitir violações da espécie, desde que preenchido o requisito da excepcionalidade (fls. 179/181).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+E o entendimento da r. sentença deve prosperar, não trazendo a parte apelante elementos suficientes a ilidir seu embasamento.
+Isso porque, de fato, não há provas de que os réus tenham violado reiteradamente o direito de vizinhança.
+ ..
+Da referida prova depreende-se que o excesso de barulho foi um fato isolado. As reuniões eram realizadas fora do horário comercial e, atualmente, não são mais realizadas.
+Não há nos autos reclamações dos demais condôminos, tampouco reclamações formalizadas junto ao condomínio.
+Desse modo, o auto r não trouxe aos autos provas que demonstrassem os fatos constitutivos de seu direito. Esse ônus lhe cabia, nos termos do artigo 373, I, do Código de Processo Civil, pois as provas são os motivos produtores de certeza, e consiste na demonstração da existência ou da veracidade daquilo que se alega em Juízo (fls. 172/174).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
