@@ -1,0 +1,143 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0709645-16.2022.8.07.0018REPRESENTANTE LEGAL(S)SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DFAPELANTE(S)SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DFREPRESENTANTE LEGAL(S)DISTRITO FEDERALAPELADO(S)DISTRITO FEDERALRelatorDesembargador ARNOLDO CAMANHO
+ Acórdão Nº1728290
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PROCESSO Nº 59.888/96. BENEFÍCIO ALIMENTAÇÃO. DECRETAÇÃO DA PRESCRIÇÃO NA EXECUÇÃO COLETIVA. POTENCIAL REFLEXO SOBRE OS CUMPRIMENTOS INDIVIDUAIS. DISCUSSÃO SOBRE A INTERRUPÇÃO ALEGADAMENTE OPERADA EM FAVOR DOS SUBSTITUÍDOS. AUSÊNCIA DE PRECLUSÃO. NECESSIDADE DE SUSPENSÃO PROCESSUAL. ART. 313, INCISO V, ALÍNEA “A”, DO CPC. APLICAÇÃO ANALÓGICA. SENTENÇA CASSADA.
+
+1. Considerando a interpendência entre o que decidido na execução coletiva e a tese de interrupção da prescrição, que teria se operado em favor dos beneficiários do título, cabível a suspensão do processo até o trânsito em julgado do REsp nº 1.301.935/DF, mediante aplicação analógica do art. 313, inciso V, alínea “a”, do CPC, que, embora seja precipuamente relacionado aos processos de conhecimento, permite alcançar a solução mais coerente com a segurança jurídica, a isonomia e a racionalização da atividade jurisdicional.
+
+2. Apelo parcialmente provido. Sentença cassada. Processo suspenso.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNOLDO CAMANHO - Relator, JAMES EDUARDO OLIVEIRA - 1º Vogal e MARIO-ZAM BELMIRO - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: DAR PARCIAL PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 19 de Julho de 2023
+
+Desembargador ARNOLDO CAMANHOPresidente e Relator
+
+RELATÓRIO
+
+O Senhor Desembargador ARNOLDO CAMANHO DE ASSIS - Relator
+
+Cuida-se de apelação interposta pelo Sindicato dos Auxiliares de Administração Escolar no Distrito Federal contra sentença proferida pelo Juízo da 7ª Vara da Fazenda Pública do Distrito Federal, que acolheu a prejudicial de mérito da prescrição e extinguiu o cumprimento de sentença coletiva, com fundamento no art. 487, inciso II, do CPC, c/c os arts. 1º, 8º e 9º, do Decreto nº 20.910/32.
+
+O apelante narra que logrou êxito em ação coletiva, tendo o apelado sido condenado a pagar o valor dos tíquetes alimentação suprimidos desde janeiro de 1996 até a data do restabelecimento, ocorrido em maio de 2002 - processo nº 59.888/96 (0001096-21.1999.8.07.0000). Alega que a decisão proferida no REsp nº 1.301.935/DF, relativamente à execução coletiva, não vincula o presente cumprimento de sentença, movido em favor de dez (10) dos substituídos, ressaltando que tal decisão não transitou em julgado, ante a pendência de embargos de divergência. Sustenta ser cabível a aplicação dos efeitos modulatórios do que foi decidido pelo STJ quanto ao Tema nº 880, dos recursos especiais repetitivos, uma vez que a sentença coletiva transitou em julgado sob a vigência do CPC/73 e houve pedido expresso de juntada de documentos pelo executado, sem os quais não seria possível deduzir o pedido de cumprimento de sentença. Assevera não haver litispendência entre a ação coletiva e as execuções individuais, bem como não haver vinculação entre as decisões respectivas, exceto no tocante ao art. 103, inciso III, do CDC, que não é o caso dos autos. Acresce que a liquidação e a execução da sentença podem ser promovidas pela vítima e seus sucessores, conforme o art. 97, do CDC. Defende que os exequentes não podem ser prejudicados pelo que foi decidido na ação coletiva, haja vista serem cumprimentos de sentença distintos. Ressalta que o limite da prescrição, para os títulos transitados em julgado na vigência do CPC/73, foi postergado até 30/06/22, nas situações em que a liquidação dependia de documentos a serem apresentados pelo devedor, tal como se deu no presente caso, consoante o citado Tema nº 880/STJ. Discorre sobre a marcha processual no feito originário. Sustenta que a verba honorária, arbitrada em dez por cento (10%), é exorbitante. Ao final, requer a reforma da sentença para afastar a prescrição, ou, subsidiariamente, para que os honorários sejam fixados por equidade.
+
+Contrarrazões pugnando pelo não provimento do apelo (ID nº 43685411).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNOLDO CAMANHO - Relator
+Primeiramente, recapitule-se que esta egrégia 4ª Turma Cível tem entendimento firme no sentido de que a interrupção da prescrição operada no processo coletivo repercute a favor dos beneficiários do título, em seus respectivos cumprimentos individuais. Por exemplo:
+
+“AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PREJUDICIALIDADE EXTERNA. RECURSO ESPECIAL NOS EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. INEXISTÊNCIA. PRESCRIÇÃO. EXECUÇÃO COLETIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA CUMPRIMENTO INDIVIDUAL. ÚLTIMO ATO PROCESSUAL DA CAUSA INTERRUPTIVA. INOCORRÊNCIA. TERMO FINAL. VALORES INDEVIDOS. LEI VÁLIDA POSTERIOR QUE MAJOROU A ALÍQUOTA. TERMO FINAL. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. EXCESSO DE EXECUÇÃO. RECONHECIDO. ATUALIZAÇÃO MONETÁRIA. TAXA SELIC. APLICAÇÃO. DECISÃO PARCIALMENTE REFORMADA.
+
+5. Agravo de instrumento conhecido e parcialmente provido” (Acórdão 1661316, 07297021220228070000, Relator: LUCIMEIRE MARIA DA SILVA, 4ª Turma Cível, data de julgamento: 02/02/2023, publicado no DJE: 16/02/2023. Pág.: Sem Página Cadastrada).
+
+1. Inexiste prejudicialidade externa entre as demandas coletiva e individual, de maneira a justificar a suspensão pleiteada, uma vez que a questão referente ao prazo prescricional para cumprimento coletivo da sentença já foi dirimida nos autos de origem pelo Juízo competente, e não houve atribuição de efeito suspensivo ao recurso ali interposto.
+
+2. O requerimento de cumprimento de sentença na ação coletiva interrompe o curso do prazo prescricional de 5 anos para o início da ação executiva individual, e volta a correr pela metade a partir do último ato processual da causa interruptiva, que sequer ocorreu, uma vez que a execução coletiva não se findou e segue em trâmite, de maneira que resta afastada a alegada prescrição.
+
+3. Tendo a sentença exequenda determinado a restituição dos valores indevidamente descontados, restam esses limitados à data em que a majoração da alíquota foi devidamente regularizada por ato normativo posterior, deixando de se tratar de desconto indevido, portanto. Nesse contexto, o termo final a ser observado corresponde à data de vigência da Lei nº 8.688/1993, ocorrido em 21/07/1993, acrescido de 90 (noventa) dias para observância do princípio da anterioridade nonagesimal.
+
+4. A partir de junho de 2018, o valor devido pelo Distrito Federal, a título de tributos de sua competência, deve ser corrigido pela taxa SELIC, nos termos do art. 2º, § 2º, da Lei Complementar Local nº 943/2018, sendo vedada a sua cumulação com quaisquer outros índices.
+
+A propósito, em que pese o citado precedente, assim como muitos outros desta Turma, também tenha assentado que “inexiste prejudicialidade externa entre as demandas coletiva e individual, de maneira a justificar a suspensão pleiteada, uma vez que a questão referente ao prazo prescricional para cumprimento coletivo da sentença já foi dirimida nos autos de origem pelo Juízo competente, e não houve atribuição de efeito suspensivo ao recurso ali interposto”, releva observar que, na presente hipótese, a premissa é oposta. Em casos tais, a arguição de prescrição fora rejeitada, o que, efetivamente, tornaria indevida a suspensão dos cumprimentos individuais para aguardar a possível reversão, que se mostra eventual e incerta, somente interessando aos interesses protelatórios do devedor. Porém, excepcionando o que se costuma verificar em hipóteses análogas, no presente caso, houve o acolhimento da prescrição na execução coletiva, de modo que importa definir, para tais hipóteses específicas, se seria cabível a extinção dos feitos, antes do trânsito em julgado da questão no âmbito coletivo.
+
+A esse respeito, os Juízos Fazendários vêm ora extinguindo, ora suspendendo, os cumprimentos de sentença movidos em favor dos sindicalizados. Relativamente à hipótese de suspensão processual determinada em primeira instância, tais decisões vêm sendo confirmadas no âmbito desta egrégia 4ª Turma Cível, nos agravos de instrumento respectivamente interpostos:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. BENEFÍCIO ALIMENTAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. RESP Nº 1.301.935/DF. REFLEXOS NO CUMPRIMENTO INDIVIDUAL. SUSPENSÃO DO PROCESSO. CABIMENTO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+
+4. Recurso não provido” (Acórdão 1673213, 07396740620228070000, Relator: MARIO-ZAM BELMIRO, 4ª Turma Cível, data de julgamento: 02/03/2023, publicado no DJE: 31/03/2023. Pág.: Sem Página Cadastrada).
+
+1. A parte agravante/exequente pretende o cumprimento individual de sentença proferida nos autos da ação coletiva nº 59.888/96, proposta pelo Sindicato dos Auxiliares de Administração Escolar do DF, transitada em julgado em 10/03/2000.
+
+2. O Sindicato propôs o cumprimento de sentença coletiva em 08/07/2009, tendo este Tribunal de Justiça declarado a prescrição da pretensão executória, a qual foi mantida pelo colendo STJ, nos autos do REsp nº 1.301.935, sob o fundamento de que o cumprimento de sentença foi proposto após decorrido o prazo de cinco (5) anos a contar do trânsito em julgado do processo de conhecimento.
+
+3. Tendo em vista que referida questão não está definitivamente solucionada pelo Superior Tribunal de Justiça - STJ, posto que pendente a apreciação de embargos de divergência, deve ser aplicado o disposto no art. 313, inciso V, alínea ‘a’, inciso V, do CPC, que permite a suspensão do processo quando a questão controvertida depender do julgamento de outra causa.
+
+4. Em caso de decisão definitiva reconhecendo a prescrição da pretensão executória, esta, inevitavelmente, alastrará seus efeitos sobre eventuais cumprimentos individuais de sentença, haja vista que o termo inicial para contagem da prescrição é o mesmo para as demandas coletivas ou individuais.
+
+5. Agravo de instrumento não provido” (Acórdão 1689207, 07352337920228070000, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 13/04/2023, publicado no DJE: 02/05/2023. Pág.: Sem Página Cadastrada).
+
+“AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO SOB O PROCEDIMENTO COMUM Nº 59888/1996 (PJE Nº 0001096-21.1999.8.07.0000) AJUIZADA PELO SINDICATO DOS AUXILIARES DE ADMINISTRAÇÃO ESCOLAR DO DF (SAE-DF). SUSPENSÃO DO PROCESSO. QUESTÃO PREJUDICIAL. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. RESP 1.301.935. PENDENTE DE JULGAMENTO. PRINCÍPIOS DA INSTRUMENTALIDADE E DA COOPERAÇÃO PROCESSUAL. AGRAVO DESPROVIDO.
+
+1. Embora os agravantes afirmem inexistir liame jurídico entre o presente cumprimento de sentença e o REsp nº 1.301.935/DF, verifica-se que o cumprimento de sentença originou-se da ação sob o procedimento comum nº 59888/1996 (autos nº 0001096-21.1999.8.07.0000), promovida pelo SINDICATO DOS AUXILIARES DE ADMINISTRAÇÃO ESCOLAR NO DISTRITO FEDERAL (SINDICATO DOS TRABALHADORES EM ESCOLAS PÚBLICAS NO DISTRITO FEDERAL - SAE/DF) em desfavor do DISTRITO FEDERAL, com o intuito de assegurar aos seus filiados a percepção do benefício alimentação previsto pela Lei Distrital nº 1.136/1996 desde a data da supressão (janeiro de 1996) até o seu efetivo restabelecimento. Conforme documentos juntados pelos exequentes, o trânsito em julgado do acórdão da ação nº 59888/1996 deu-se em 10/03/2000.
+
+2. A entidade classista, porém, só ajuizou a liquidação de sentença em 2009, nos autos 0134432-69.2009.8.07.0001 (2009.01.1.13443-20). O intervalo de mais de 5 (cinco) anos entre o trânsito em julgado e o ajuizamento resultou no reconhecimento da prescrição da pretensão executiva pela 3ª Turma Cível deste e. TJDFT.
+
+3. A questão prejudicial fica patente ao verificar que a Corte da Cidadania, nos EDcl no AgRg no AgRg no EREsp 1.301.935, manteve o afastamento da aplicação do Tema 880/STJ e reconheceu a prescrição da pretensão executiva. A decisão do Superior Tribunal de Justiça não transitou em julgado e é objeto de embargos de divergência em REsp, ainda pendente de julgamento.
+
+4. Diante da presença de questão de prejudicialidade em relação à causa coletiva e à ação individual, considerada a possível perda de objeto do cumprimento de sentença caso fosse rejeitada em sentença, a decisão do Juízo a quo de suspender o feito até o trânsito em julgado do REsp atende os princípios da instrumentalidade e da cooperação processual. Preserva o eventual direito dos exequentes ao mesmo tempo que garante o executado contra eventuais decisões contraditórias no mesmo contexto jurídico coletivo.
+
+5. Agravo conhecido e desprovido” (Acórdão 1689200, 07367242420228070000, Relator: LUCIMEIRE MARIA DA SILVA, 4ª Turma Cível, data de julgamento: 13/04/2023, publicado no DJE: 28/04/2023. Pág.: Sem Página Cadastrada).
+
+“CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SUSPENSÃO. PREJUDICIALIDADE EXTERNA. PRETENSÃO EXECUTÓRIA. RECONHECIMENTO DA PRESCRIÇÃO. RECURSO ESPECIAL. TRÂNSITO EM JULGADO PENDENTE.
+
+1. De acordo com o art. 313, inc. V, alínea ‘a’, do Código de Processo Civil, ‘suspende-se o processo quando a sentença de mérito depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente’.
+
+2. Extrai-se da referida hipótese legal que o legislador entendeu conveniente suspender a causa dependente, enquanto não se decide a causa subordinante, a fim de evitar decisões colidentes e que possam inclusive frustrar o provimento jurisdicional conferido à demanda que se pretendeu a suspensão, cabendo ao julgador aferir a plausibilidade da suspensão ante as circunstâncias do caso concreto.
+
+3. Reconhece-se a existência de prejudicialidade externa, a justificar a suspensão do cumprimento de sentença individual, até o trânsito em julgado de recurso especial, quando se discute, neste último, a prescrição da pretensão executória do mesmo título judicial exequendo.
+
+No presente caso, trata-se de apelação interposta contra sentença que acolheu a prejudicial de mérito da prescrição, razão pela qual se mostra razoável aplicar uma solução coerente com aquelas citadas acima. Note-se que a decisão proferida no âmbito do citado recurso especial foi tomada por maioria e, conquanto os embargos de divergência tenham sido inadmitidos, a matéria ainda poderá ser revista em sede de agravo interno. Nestas circunstâncias, a se confirmar a extinção perpetrada pela sentença recorrida, poderá haver, posteriormente, grande embaraço processual, onerando significativamente o sindicato apelante para obter a reversão de cada um dos muitos pronunciamentos semelhantes, com potencial risco à segurança jurídica e à celeridade processual, em desalinho ao dever de cooperação a que se sujeitam os participantes do processo. Em suma, em que pese não se tratar rigorosamente da hipótese disciplinada no art. 313, inciso V, alínea “a”, do CPC, precipuamente relacionado aos processos de conhecimento, a suspensão processual é a medida que melhor se coaduna com a segurança jurídica, a isonomia e a racionalização da atividade jurisdicional.
+
+Nesse sentido, confiram-se os seguintes precedentes:
+
+“APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO SOB O PROCEDIMENTO COMUM Nº 59888/1996 (PJE Nº 0001096-21.1999.8.07.0000) AJUIZADA PELO SINDICATO DOS AUXILIARES DE ADMINISTRAÇÃO ESCOLAR DO DF (SAE-DF). QUESTÃO PREJUDICIAL. RESP 1.301.935. PENDENTE DE JULGAMENTO. PREMATURO O RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. SUSPENSÃO DO PROCESSO. APELAÇÃO PARCIALMENTE PROVIDA.
+
+12. Apelação conhecida e parcialmente provida. Sentença cassada. Determinada a suspensão do processo na origem” (Acórdão 1707038, 07096841320228070018, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 01/06/2023, publicado no DJE: 06/06/2023. Pág.: Sem Página Cadastrada).
+
+1. Embora os apelantes afirmem inexistir liame jurídico entre o presente cumprimento de sentença e o REsp nº 1.301.935/DF, verifica-se que o cumprimento de sentença originou-se da ação sob o procedimento comum nº 59888/1996 (autos nº 0001096-21.1999.8.07.0000), promovida pelo SINDICATO DOS AUXILIARES DE ADMINISTRAÇÃO ESCOLAR NO DISTRITO FEDERAL (SINDICATO DOS TRABALHADORES EM ESCOLAS PÚBLICAS NO DISTRITO FEDERAL - SAE/DF) em desfavor do DISTRITO FEDERAL, com o intuito de assegurar aos seus filiados a percepção do benefício alimentação previsto pela Lei Distrital nº 1.136/1996 desde a data da supressão (janeiro de 1996) até o seu efetivo restabelecimento. Conforme documentos juntados pelos exequentes, o trânsito em julgado do acórdão da ação nº 59888/1996 deu-se em 10/03/2000.
+
+2. A entidade classista, porém, só ajuizou a liquidação de sentença em 2009, nos autos 0134432-69.2009.8.07.0001 (2009.01.1.13443-20). O intervalo de mais de 5 (cinco) anos entre o trânsito em julgado e o ajuizamento resultou no reconhecimento da prescrição da pretensão executiva pela 3ª Turma Cível deste e. TJDFT.
+
+3. A questão prejudicial fica patente ao verificar que a Corte da Cidadania, nos EDcl no AgRg no AgRg no EREsp 1.301.935, manteve o afastamento da aplicação do Tema 880/STJ e reconheceu a prescrição da pretensão executiva. A decisão do Superior Tribunal de Justiça não transitou em julgado.
+
+4. Diante da presença de questão de prejudicialidade em relação à causa coletiva e à ação individual, é prematuro o reconhecimento da prescrição da pretensão executiva operado na sentença recorrida.
+
+5. Não obstante, considerada a possível perda de objeto do cumprimento individual caso rejeitada a sentença coletiva, mister suspender o feito até o trânsito em julgado do REsp 1.301.935/DF.
+
+6. Apelo conhecido e parcialmente provido” (Acórdão 1690765, 07099491520228070018, Relator: LUCIMEIRE MARIA DA SILVA, 4ª Turma Cível, data de julgamento: 26/04/2023, publicado no DJE: 04/05/2023. Pág.: Sem Página Cadastrada).
+
+“APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. SUSPENSÃO DO PROCESSO NA ORIGEM ATÉ DECISÃO DEFINITIVA DO STJ. SENTENÇA CASSADA.
+
+1. Cumprimento Individual da Sentença proferida na Ação Coletiva nº 0001096-21.1999.8.7.0000 (Processo Físico nº 59888/96), na qual o Distrito Federal foi condenado a pagar aos servidores substituídos pelo Sindicato (Autor da Ação Coletiva) o valor dos tíquetes alimentação suprimidos no período de janeiro de 1996 a maio de 2002.
+
+2. A r. sentença apelada pronunciou a prescrição da pretensão executiva e julgou extinto o feito, sob o fundamento de que já teria sido definitivamente declarada a prescrição executiva da Execução Coletiva referente ao mesmo título judicial em que se fundamenta o presente Cumprimento Individual, formado na Ação Coletiva nº 59888/96.
+
+3. Todavia, tal premissa fática encontra-se equivocada, tendo em vista que o acórdão proferido no REsp nº 1.301.935/DF, no qual foi mantida a prescrição da Execução Coletiva reconhecida nas instâncias ordinárias, ainda não transitou em julgado, pois foi objeto de recurso que se encontra pendente de julgamento na Corte Superior de Justiça (Agravo Interno no EREsp 1.301.935).
+
+4. Nesse contexto, não se pode ainda reconhecer, com a devida segurança jurídica, a prescrição da pretensão executiva no presente Cumprimento de Sentença, ao qual se aplica o mesmo prazo prescricional da Execução Coletiva.
+
+5. Por outro lado, diante das peculiaridades que envolvem o caso concreto, deve o feito permanecer suspenso, até a definição da questão perante o c. STJ.
+
+6. No julgamento do REsp nº 1.301.935/DF, no bojo da Execução Coletiva do mesmo título judicial, o c. STJ afastou, expressamente, a aplicação da modulação de efeitos do Tema Repetitivo nº 880 e entendeu pelo advento da prescrição da pretensão executiva, sob o fundamento de que a Execução Coletiva da obrigação de pagar foi proposta em 11/4/2005, após transcorrido o prazo prescricional de 5 (cinco) anos, previsto no art. 1º do Decreto nº 20.910/32, contado a partir do trânsito em julgado da sentença coletiva exequenda, ocorrido em 10/3/2000.
+
+7. Embora a tramitação da Execução Coletiva não configure, por si só, prejudicial externa, no caso específico dos autos, encontram-se presentes a probabilidade do direito e o risco ao resultado útil do processo, capazes de ensejar a suspensão do Cumprimento Individual da Sentença Coletiva, no uso do poder geral de cautela do magistrado.
+
+8. Reconhecida pelo c. STJ, no julgamento do REsp nº 1.301.935/DF, a prescrição da Execução Coletiva da mesma sentença objeto do presente Cumprimento Individual, cujo termo a quo da contagem do prazo prescricional é único, qual seja, o trânsito em julgado da sentença proferida na Ação Coletiva, consoante tese firmada no Tema Repetitivo nº 877 do c. STJ: ‘O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n.8.078/90’.
+
+9. Dessa forma, a decisão definitiva no julgamento do REsp nº 1.301.935/DF deverá, necessariamente, ser aplicada ao presente Cumprimento Individual da Sentença Coletiva, pois, do contrário, subsistiriam dois prazos prescricionais diferentes para a execução coletiva e individual do mesmo título judicial.
+
+10. Vislumbra-se, também, a presença do risco ao resultado útil do processo, cuja continuidade da tramitação poderá ensejar a realização de atos absolutamente desnecessários, caso mantido o entendimento do c. STJ no REsp nº 1.301.935/DF, no sentido da prescrição da pretensão executiva da obrigação de pagar, constante do título exequendo.
+
+11. Saliente-se que não se trata de questão pontual, mas, sim, de tema objeto de inúmeros Cumprimentos Individuais da mesma sentença coletiva, em curso neste eg. TJDFT, os quais, em nome da celeridade, da efetividade e da própria segurança jurídica, devem aguardar a decisão definitiva do c. STJ sobre a prejudicial de mérito relativa à prescrição, plenamente aplicável à espécie.
+
+Dessa forma, dou parcial provimento ao recurso para cassar a sentença e determinar a suspensão processual, a fim de se aguardar a preclusão no âmbito da execução coletiva.
+
+É como voto.
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - 1º Vogal Com o relatorO Senhor Desembargador MARIO-ZAM BELMIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+DAR PARCIAL PROVIMENTO AO RECURSO. UNÂNIME
