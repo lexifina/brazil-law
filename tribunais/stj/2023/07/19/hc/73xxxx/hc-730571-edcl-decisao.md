@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Diego Aleixo da Silva à decisão de minha relatoria, na qual concedi liminarmente a ordem, à vista dos fundamentos sintetizados na seguinte ementa (fl. 170):
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO (NÃO ESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. PRECEDENTES E RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+Neste recurso, sustenta contradição e obscuridade na decisão embargada, visto que a Retificação do Cálculo de Penas pleiteada é com relação à revogação expressa do §2º do art. 2º da Lei nº 8.072/1990, trazida pelo "Pacote Anticrime"(Lei n. 13.964/2019), em 23/01/2020, em seu artigo 19, FAZENDO COM QUE O TRÁFICO DE DROGAS, NÃO SEJA CONSIDERADO COMO CRIME HEDIONDO OU EQUIPARADO para fins de progressão de regime prisional (fl. 178).
+Requer, assim, sejam recebidos e providos os presentes embargos, corrigindo-se a referida contradição e obscuridade, para que seja concedida ao Embargante a retificação do cálculo de penas para que o Tráfico de Drogas NÃO SEJA CONSIDERADO COMO CRIME HEDIONDO OU EQUIPARADO para fins de progressão de regime prisional, passando a constar o prazo de 16%, 20%, 25% ou 30% para que o sentenciado possa ser beneficiado com a progressão de regime, nos termos da nova redação do artigo112, incisos, I, II, III e IV, da Lei de Execução Penal (fl. 188).
+Impugnação do Ministério Público Federal pelo desprovimento dos embargos (fls. 203/208).
+É o relatório.
+O presente recurso deve ser acolhido.
+De feito, a defesa pleiteou no habeas corpus originário a retificação do cálculo de penas para que o crime de tráfico de drogas não seja considerado como crime hediondo para fins de progressão da pena.
+O Tribunal de Justiça, no julgamento do agravo em execução, negou provimento ao recurso, pelos seguintes fundamentos (fls. 163/164):
+ ..
+Olvida-se o agravante que o §5º do art. 112 da Lei de Execuções Penais dispõe expressamente que não se considera hediondo ou equiparado o crime de tráfico "privilegiado", não havendo dúvidas, portanto, após interpretação teleológica do dispositivo, que tal delito em sua forma prevista no caput do art. 33 da Lei Antidrogas permanece sendo equiparado a hediondo, afinal, inclusio unius alterius exclusio.
+Ademais, em interpretação sistemática com o disposto na Carta Magna (v. art. 5º, inciso XLIII), chega-se à mesma conclusão, no sentido de que o tráfico de drogas e o terrorismo devem ser equiparados a hediondos, especialmente para fins de benefícios penais.
+Pois bem, o entendimento firmado pelas instâncias ordinárias não destoa da jurisprudência deste Superior Tribunal de Justiça, no sentido de que diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim, a revogação do § 2º do art. 2º da Lei 8.072/1990 pela Lei n. 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para indeferir liminarmente o habeas corpus.
+Publiq ue-se.
+EMENTA
+EXECUÇÃO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CONTRADIÇÃO E OMISSÃO. OCORRÊNCIA. EFEITOS INFRINGENTES. TRÁFICO DE DROGAS. EQUIPARAÇÃO AO CRIME HEDIONDO. PRECEDENTES.
+Embargos acolhidos nos termos do dispositivo.
