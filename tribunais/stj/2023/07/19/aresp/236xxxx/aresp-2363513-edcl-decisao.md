@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANGELICA DE ANDRADE ARAUJO E OUTROS em face da decisão de fls. 587/588, que não conheceu do recurso.
+Em suas razões sustenta a parte embargante que:
+Inicialmente, verifica-se que o Agravo em Recurso Especial foi rejeitado, pela fundamentação de que o Embargante não deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Todavia, o Embargante rebate a especificadamente a infração a Lei Federal, mencionando por diversas vezes a letra da lei.
+Na peça recursal o Embargante impugna quanto ao infração a possibilidade de concessão ao benefício da justiça gratuita, tendo durante o seu recurso pretendido somente a análise da legislação pertinente, e não reexame de matéria probatória.
+Ressalta-se que não há menção acerca do reexame de prova, corroborada a aplicação correta da legislação negada.
+Ou seja, o Embargante rebateu todos as controvérsias acerca da questão da possibilidade de concessão da justiça gratuita, em razão da documentação comprobatória acostada nos autos, e, mesmo que não tenha feito de forma explícita, o contexto de todo o Agravo em Recurso Especial já deixa claro acerca da impugnação direta realizada consoante a Lei Federal" (fl. 594).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+É cediço, por fim, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Desse modo, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
