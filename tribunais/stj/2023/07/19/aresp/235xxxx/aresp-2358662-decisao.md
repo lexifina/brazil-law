@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por LIDER INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento - ação declaratória despacho saneador antecipação do custeio da prova prova pericial determinada de oficio - art. 95 do Código de Processo Civil decisão mantida - agravo improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 95 do CPC, sustentando que o pagamento dos honorários periciais é de responsabilidade da parte que requer a sua produção, trazendo a seguinte argumentação:
+De acordo com o ordenamento jurídico, o pagamento dos honorários periciais deve ser realizado pela parte que requereu a prova pericial. Logo, o pagamento dos honorários periciais no caso dos autos deve ser suportado exclusivamente pela parte adversa, pois foi ela quem requereu a realização da perícia e a apresentação dos documentos:
+ ..
+Somente na hipótese de o recorrente também ter requerido a produção de prova pericial é que os honorários poderiam ser rateados entre as partes, o que não ocorreu no caso concreto, estando claramente afrontado o artigo 95 do Código de Processo Civil.
+Saliente-se, ainda, que incumbe ao recorrido a produção de prova dos fatos impeditivos, extintivos ou modificativos do direito do agravante, a teor do que preconiza o artigo 373, II, do CPC, devendo também por esse motivo suportar exclusivamente o pagamento dos honorários periciais. Ora, se não cabe ao recorrente a produção dessa prova, não há que se falar em sua responsabilidade pelo pagamento dos honorários periciais, mormente quando, como no caso dos autos, a prova técnica tiver sido requerida exclusivamente por uma das partes (fls. 85/86).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Inicialmente, destaque-se que, ao contrário do sustentado pela agravante, observa-se que, às fls. 224/225, postulou a agravada a prova testemunhal, depoimento pessoal e a juntada de novos documentos, nada mencionando a respeito de prova pericial.
+"In casu", a prova pericial foi determinada de ofício: "para dirimir o ponto controvertido ora fixado, DEFIRO a produção de prova documental e DETERMINO produção de prova pericial contábil".
+Nesse trilho, nos termos do art. 95 do Código de Pro cesso Civil, a remuneração do perito será rateada quando a perícia for determinada de ofício (fls. 63).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF". (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021; AgInt no AREsp n. 1.815.228/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 17/08/2021; AgInt no AREsp n. 931.169/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/04/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
