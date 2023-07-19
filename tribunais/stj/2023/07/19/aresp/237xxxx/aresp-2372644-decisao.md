@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARY ROSALIA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL-AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS-CONTRATAÇÃO DE EMPRÉSTIMO CONFIRMADA - ASSINATURA CONTRATUAL QUESTIONADA - PRELIMINAR - FALTA DE INTERESSE DE AGIR - OCORRÊNCIA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 172, 173 e 174 do CC, no que concerne à indevida confirmação de negócio jurídico anulável, eis que a simples constatação de descontos realizados em consignação em folha não pode ser entendido como ato que supre todos requisitos expressamente dispostos nos referidos dispositivos, trazendo a seguinte argumentação:
+Contudo, o E. TJMG confirmou o negócio anulável por aplicação do art. 172 do CC, o qual dispõe:
+ ..
+Ou seja, nos termos do artigo 174 do CC, NÃO BASTA só cumprir parte do negócio para escusar a vontade expressa prescrita nos dispositivos anteriores; É IMPRESCINDÍVEL que o mencionado cumprimento tenha sido realizado com a ciência do devedor que a obrigação que ele está cumprido está inquinada de vícios.
+O TJMG entendeu preenchido o requisito com base na simples constatação que houve o pagamento de parcelas mediante descontos consignados na folha de pagamento.
+ ..
+Ante o exposto, coloca-se perante esse C. Tribunal Superior a seguinte questão:
+- A simples constatação de descontos realizados em consignação em folha, pode ser entendido como ato que supre todos requisitos expressamente dispostos nos art. 174, 173 e 172 do CC para se confirmar um negócio anulável
+Em outras palavras e já rogando perdão pela aparente redundância:
+- Uma cobrança consignada diretamente em folha de pagamento, em si, já contempla e traduz a real vontade do devedor em confirmar a substância e intenção de manter um negócio anulável, de forma a afastar a confirmação expressa  (fls. 365/366).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a autora/recorrente confirma ter contraído empréstimo junto ao banco réu/apelado, obtido o crédito e seu uso.
+Não questiona os valores descontados de sua folha de pagamento a título de contraprestação, tendo quitado a última parcela prevista para vencimento em 15/10/2016. Ajuízou a presente ação apenas em 25/06/2019, postulando a declaração de nulidade do contrato já quitado, cujos termos não são questionados.
+Sua pretensão é relacionada somente ao fato de que o contrato obtido via ação de exibição de documentos contém assinatura sua, mas que, segundo alega, seria falsificada.
+Sendo assim, comungo do entendimento da magistrada singular no sentido de inexistir interesse da autora "em pleitear a declaração de nulidade do contrato por eventual falsidade de assinatura, notadamente pela confirmação do negócio pela parte contratante e a sua clara intenção de mantê-lo, pois, do contrário, estar-se-ia permitindo que a consumidora se beneficiasse de sua própria torpeza", e que "ainda que a assinatura lançada no instrumento contratual em nome da requerente venha a ser considerada falsa, o que, em tese, ensejaria a nulidade do pacto por vício de consentimento (art.171, II, CC), o reconhecimento pela requerente da operação de crédito junto à instituição financeira, sem qualquer insurgência contra o quantum disponibilizado a seu favor, tampouco sobre a quantidade e valores das parcelas descontadas, por óbvio, são suficientes para confirmar a validade da transação bancária e revesti-la de caráter legal, conforme preconiza o art. 172 do Código Civil" (fl. 246).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
