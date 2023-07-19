@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por REGINALDO ROSSI e OUTRO à decisão de fls. 679/680, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme trazido pelo recurso interposto, a recorrente impugnou de forma individualizada as irresignações proferidas no acórdão, desde o recurso especial interposto no tribunal de origem.
+A análise concreta e específica, pelo colegiado, de qualquer uma das motivações articuladas, pelos recorrentes, é conducente, por si, jurídica, lógica, natural e autonomamente, à modificação do ato judicial ora atacado.
+O assunto foi debatido em todas as instâncias recursais, não tendo sido analisado.
+Levando em conta o princípio invocado pelos recorrentes, ao não ser analisado na petição de agravo apresentada - por não ter sido analisado o mérito - fulmina a persecução penal em tela, que parte de supostas condutas, que não foram individualizadas, nem destrinchadas e, tampouco, circunstanciadas na denúncia. O que, por certo, violenta o postulado da dignidade da pessoa humana, balizador e limite maior de todos os atos persecutórios, no campo penal (fl. 684).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo (fls. 588/590).
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Essa orientação também se aplica a hipóteses como a dos autos, em que a acórdão do Tribunal de origem foram opostos embargos de declaração, julgados de forma monocrática, e, contra essa decisão, foi interposto recurso especial sem que houvesse o necessário exaurimento das instâncias ordinárias.(AgInt no AREsp 1621900/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/6/2020; e AgInt no AREsp 1527034/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 14/2/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
