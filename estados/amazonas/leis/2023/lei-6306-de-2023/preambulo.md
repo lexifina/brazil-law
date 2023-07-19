@@ -1,0 +1,9 @@
+LEI Nº 6.306, DE 19 DE JULHO DE 2023.
+
+INSTITUI o Cadastro Estadual de Cultura no Estado do Amazonas, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+CAPÍTULO I DO CADASTRO ESTADUAL DE CULTURA
