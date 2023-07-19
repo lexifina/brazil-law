@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de suspensão de segurança trazida pelo Município de Tangará da Serra, MT, que, a pretexto de grave lesão à economia pública, busca sustar os efeitos de tutela recursal antecipada deferida pelo Desembargador MÁRIO ROBERTO KONO DE OLIVEIRA, do Tribunal de Justiça de Mato Grosso, nos autos do Agravo de Instrumento n. 009148-35.2023.8.11.0000.
+Alega o autor que a empresa CLEAN MASTER AMBIENTAL LTDA, na origem, ingressou com mandado de segurança com vistas "a reconhecer a inconstitucionalidade e ilegalidade da alteração da alíquota do imposto de renda retida na fonte procedida por Decreto Municipal", cuja liminar foi indeferida em primeira instância, mas deferida em sede recursal.
+Colhe-se da inicial a seguinte fundamentação:
+(..)
+A decisão atacada simplesmente deferiu a antecipação de tutela para "determinar que a retenção na fonte a título de imposto de renda (IRRF) nos contratos públicos n.º 14/SAMAE/2021, 01/SAMAE/2022 e aditivos, sejam realizados no patamar de 1% (um por cento) conforme prevê o art. 716 do Decreto Federal nº 9.580/2018, até o julgamento do mérito do vertente recurso".
+Cumpre registrar, desde logo, que a antecipação de tutela deferida não merece prosperar, uma vez que, o município nada mais fez do que editar Decreto Executivo regulamentando a retenção determinada em sede de STF/RE 1293453/2021, conforme lhe foi comunicado pelo AMM.
+Relevante frisar que, não se trata de novo imposto e ou de majoração da base de cálculo, mas sim de uma decisão do STF assegurando que as retenções de IRRF/PJ feitas por municípios serão de acordo com as normativas da RFB IN nº 1234/2012, que é a mesma adotada pela União atualmente.
+A Instrução Normativa RFB nº 2145 de 26 de julho de 2023, que alterou a Instrução Normativa RFB nº 1.234/2012, teve como principal alteração o artigo que passou a determinar a obrigatoriedade dos municípios a efetuar a retenção do IRRF sobre os pagamentos que efetuarem, bem como, o dispositivo que dispõe com relação a alíquota que deverá ser aplicada na referida retenção, vejamos os artigos 2º-A e 3º-A da IN RFB nº 2145/2023 (..)
+Conforme visto no dispositivo acima transcrito, as alíquotas referentes à prestação de serviços ou ao fornecimento de bens por pessoas jurídicas aos órgãos e entidades federais, que também podem ser aplicadas aos estados e municípios em razão da decisão do STF, estão dispostas de forma detalhada no Anexo I da IN nº 1234/12 da RFB.
+Dessa forma, a retenção será efetuada mediante aplicação da alíquota informada na coluna 02-IR do Anexo I, ou seja, é legal a aplicação da alíquota de 4,80% mencionada pelo agravante, a IN RFB nº 2145/2023, entrou em vigor na data de sua publicação, sendo seus efeitos imediatos e os entes federativos que ainda não estavam procedendo à retenção ampla do IRRF se sujeitarão ao risco de sofrer sanções decorrentes da renúncia de receitas, conforme previsto na Lei de Responsabilidade Fiscal.
+No presente caso, o pedido de suspensão de liminar tem amparo legal, uma vez que, o agravado não incorreu em nenhum ato ilegal, conforme alegado pelo agravante.
+Desta feita, inexistindo direito líquido e certo capazes de amparar as alegações do agravante, estão ausentes os requisitos ensejadores da concessão da tutela de urgência deferida, motivo pelo qual requer a suspensão da mesma.
+(..)
+Pontua que "as obrigações impostas pela liminar deferida em Agravo de Instrumento, causará lesão à ordem econômica, na medida que a retenção em alíquota inferior a determinada caracteriza renúncia de receitas, e conforme já mencionado sujeitará o ente federado ao risco de sofrer sanções. Além de que, sofrerá importante queda nas retenções".
+Ao final, pede "o deferimento do presente pedido, INAUDITA ALTERA PARS, para que promova suspensão da decisão que confirmou a liminar no Agravo de Instrumento nº 1009148-35.2023.8.11.0000, como medida apta a evitar grave lesão à ordem e economia públicas".
+É o relatório.
+Nos termos do art. 4º da Lei n. 8.437/92, "compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas".
+A suspensão dos efeitos do ato judicial, sabidamente, é providência excepcional, cumprindo ao requerente a efetiva demonstração da grave e iminente lesão aos bens jurídicos tutelados pela legislação de regência.
+Consoante já decidiu o STF, "o incidente de contracautela, por consubstanciar demanda típica, de fundamentação vinculada, deve ter como causa de pedir as hipóteses próprias ao seu cabimento"  sua  "causa petendi há de ser, portanto, a transgressão aos valores e interesses protegidos pela legislação de regência" (SL n. 1.588, Rel. Min. Presidente Rosa Weber).
+No caso em presença, não foi evidenciada a presença de algum dos pressupostos ao deferimento da contracautela.
+Diferentemente do alegado, a ordem de não reter valores a título de imposto de renda de uma única prestadora de serviço, só por si, não é apta a configurar prejuízo grave à economia pública, tampouco à ordem ou segurança públicas.
+Em realidade, o que se afere das razões de pedir é o inconformismo com o conteúdo da decisão que foi desfavorável à municipalidade. Contudo, a reforma de decisões contrárias aos interesses defendidos no processo não é possível de ser obtida na via extraordinária e estreita da suspensão de segurança, cujas hipóteses de cabimento são específicas e exaustivamente listadas, como aqui já visto, pela legislação em vigor, a saber: lesão grave à economia, ordem, saúde ou segurança públicas.
+Nesse sentido, isto é, de que a contracautela não constitui sucedâneo recursal apto a propiciar o exame do acerto ou do desacerto da decisão impugnada, vejam-se os precedentes:
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA.
+IMPOSSIBILIDADE LEGAL DE UTILIZAÇÃO DO INCIDENTE PROCESSUAL DA SUSPENSÃO COMO SUCEDÂNEO RECURSAL. NÃO COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.
+2. A suspensão dos efeitos do ato judicial é providência excepcional, cabendo ao requerente a efetiva demonstração da alegada ofensa grave aos bens jurídicos tutelados pela legislação de regência, quais sejam, ordem, saúde, segurança e/ou economia públicas.
+3. As questões eminentemente jurídicas debatidas na instância originária são insuscetíveis de exame na via suspensiva, cujo debate tem de ser profundamente realizado no ambiente processual adequado.
+4. Não apontou a parte agravante situações específicas ou dados concretos que efetivamente pudessem demonstrar que o comando judicial atual não deve prevalecer com relação ao não reconhecimento de violação dos bens jurídicos tutelados pela legislação de regência. Agravo interno improvido.
+(AgInt na SLS n. 3.075/DF, relator Ministro Humberto Martins, Corte Especial, DJe de 12/8/2022)
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. CORREIOS. OPERADORA DO PLANO DE SAÚDE DOS FUNCIONÁRIOS. PENHORA DOS VALORES EXECUTADOS. GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. NÃO DEMONSTRAÇÃO. VIA INADEQUADA PARA A ANÁLISE DO MÉRITO DA CONTROVÉRSIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva e grave lesão ao interesse público.
+2. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+3. Agravo interno desprovido.
+(AgInt na SLS n. 2.535/DF, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 2/9/2020)
+Pelo exposto, indefiro o pedido de suspensão.
+Intime-se.
+Publique-se.
+EMENTA
+SUSPENSÃO DE SEGURANÇA. ORDEM DE NÃO RETENÇÃO DE VALRES A TÍTULO DE IMPOSTO DE RENDA. GRAVE LESÃO ECONOMIA PÚBLICA. AUSÊNCIA DE DEMONSTRAÇÃO. PROPOSIÇÃO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. INDEFERIMENTO DO PEDIDO.
