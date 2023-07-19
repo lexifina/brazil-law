@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por DORIVAL JESUS DE OLIVEIRA VIRADOURO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONTRATO BANCÁRIO Descontos de valores em duplicidade em conta corrente da autora Inocorrência - Contrato de trava de domicílio bancário firmado entre as partes Instrumento assinado pela autora, cuja assinatura não foi impugnada, traz cláusula que autoriza descontos de valores em conta corrente depositados pela antecipação de recebíveis de vendas de cartão de crédito ou débito - Autora não se desincumbiu do seu ônus de provar o fato constitutivo de seu direito, nos termos do art. 373, I, do CPC - Ação declaratória de inexigibilidade de débito improcedente Sentença reformada - Encargos sucumbenciais impostos à autora e arbitrados os honorários advocatícios em 20% sobre o valor da causa - Recurso provido (fl. 981).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, II, do CPC, no que concerne à inexistência de comprovação por parte da recorrida de fato extintivo do direto da recorrente, não demonstrando por meio de extratos bancários a antecipação de créditos oriundos da venda de cartões. Aduz os seguintes argumentos:
+Com efeito, o presente recurso é plenamente cabível, eis que contraria o disposto no art. 373, II do Código de Processo Civil, o qual di spõe:
+ ..
+E como destacado, o v. acórdão recorrido fundamentou que o contrato de trava bancária "traz cláusula que autoriza descontos de valores em conta corrente depositados pela antecipação de recebíveis de vendas de cartão de crédito ou débito".
+Contudo, a Recorrente trouxe provas de que os descontos de juros remuneratórios estavam sendo cobrados em duplicidade em toda a instrução processual, sendo que no parecer a fls. 10 ficou devidamente demonstrado que:
+ ..
+Ou seja, que não havia retenção em duplicidade dos juros remuneratórios das vendas feitas a débito ou a crédito do Recorrente.
+E neste sentido, se observado o extrato da Embargada referente ao mês de janeiro de 2014 é possível observar que não houve a antecipação de nenhum crédito na conta corrente do Embargante, muito pelo contrário, tão somente a cobrança sobre a rubrica "LIQ ANTECIP CARTAO VISA" que totalizou R$ 197,00 1 , vejamos:
+ ..
+Ou seja, não houve nenhuma antecipação no extrato que fizesse jus a cobrança efetuada.
+Ou seja, não há um lançamento sequer nos documentos de fls. 296/851 que comprovem a antecipação de valores das vendas com a operadora Rede que justifique a incidência de descontos oriundos do contrato de trava de domicílio bancário, motivo pelo qual é cristalina a duplicação de juros remuneratórios em duplicidade.
+E diante deste fato, nos termos do art. 373, II do CPC, caberia a Recorrida comprovar o fato extintivo do direito da Recorrente por meio de extratos que demonstrassem a antecipação de créditos oriundos da venda de cartões, o que em momento algum ocorreu, limitando-se a dizer que estes valores são oriundos da trava bancária.
+Ou seja, não provou que tais valores eram oriundos das antecipações o que afasta a presunção feita pelo acordão somente pela leitura do contrato.
+Logo o contrato não é prova suficiente para comprovar que houveram as operações de antecipação de créditos oriundos da venda de cartões (fls. 989- 991, grifo meu ).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A alegação da autora é a de que houve descontos em duplicidade pelo Banco réu em sua conta bancária. Ou seja, ela pagou os juros remuneratórios à Rede e o Banco também cobrou os valores alusivos a esses juros.
+Ocorre que o Banco apelante juntou aos autos um contrato assinado pela autora (cf. fls. 287-290), cuja assinatura não foi impugnada, que demonstra a sua autorização dos descontos de valores creditados em sua conta corrente pela antecipação das vendas de cartões de crédito.
+ ..
+Não cumpriu a autora o seu ônus probatório (cf. art.373, I, do CPC) de demonstrar que prática do Banco réu foi ilícita encargo que era efetivamente seu, notadamente porque a inversão da prova (cf. art. 6º, VIII, do CDC) não é absoluta, ainda mais por se tratar de fato constitutivo do direito da autora, que pretende a inexigibilidade do débito e indenização por dano material (fls. 984- 985, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
