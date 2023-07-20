@@ -1,0 +1,2 @@
+Altera a Lei nº 10.048, de 8 de novembro de 2000, e a Lei nº 10.205, de 21 de março de 2001, para prever atendimento prioritário a pessoas com transtorno do espectro autista ou com mobilidade reduzida e a doadores de sangue e reserva de assento em veículos de empresas públicas de transporte e de concessionárias de transporte coletivo nos dois primeiros casos.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
