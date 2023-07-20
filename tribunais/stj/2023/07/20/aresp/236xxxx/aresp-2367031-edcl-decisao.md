@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JONAS BORGES contra a decisão que não conheceu dos embargos de declaração interposto em face da decisão de não conheceu do agravo em recurso especial, em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Constata-se omissão na decisão ao passo que não apreciou a questão das matérias de ordem pública, que comportam conhecimento até mesmo de ofício. Portanto, considerando as matérias de ordem pública suscitadas no recurso, especialmente que versa sobre PRESCRIÇÃO, tem-se que é imperiosa a manifestação desta Corte sobre a tese recursal, razão pela qual se requer seja sanada a omissão mediante pronunciamento expresso sobre as matérias de ordem pública, bem como seja atribuído efeitos infringentes a fim de se conhecer e julgar o mérito do recurso principal.(fl. 272).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Os embargos de declaração opostos contra a decisão de inadmissibilidade do agravo em recurso especial não foram conhecidos por estarem intempestivos. Não foi apreciada qualquer alegação constante do recurso por não ter ultrapassado o conhecimento.
+Percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
