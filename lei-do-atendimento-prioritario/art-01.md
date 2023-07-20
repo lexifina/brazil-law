@@ -1,2 +1,5 @@
-Art. 1º As pessoas com deficiência, os idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos terão atendimento prioritário, nos termos desta Lei.
-Parágrafo único. Os acompanhantes ou atendentes pessoais das pessoas referidas no caput serão atendidos junta e acessoriamente aos titulares da prioridade de que trata esta Lei.
+Art. 1º As pessoas com deficiência, as pessoas com transtorno do espectro autista, as pessoas idosas com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes, as pessoas com criança de colo, os obesos, as pessoas com mobilidade reduzida e os doadores de sangue terão atendimento prioritário, nos termos desta Lei.
+§ 1º Os acompanhantes ou atendentes pessoais das pessoas referidas no caput serão atendidos junta e acessoriamente aos titulares da prioridade de que trata esta Lei.
+§ 2º Os doadores de sangue terão direito a atendimento prioritário após todos os demais beneficiados no rol constante do caput deste artigo, mediante apresentação de comprovante de doação, com validade de 120 (cento e vinte) dias.
+§ 3º O atendimento prioritário poderá ser realizado mediante discriminação de postos, caixas, guichês, linhas ou atendentes específicos para esse fim.
+§ 4º Caso não haja postos, caixas, guichês, linhas ou atendentes específicos para a realização do atendimento prioritário, as pessoas referidas no caput deste artigo deverão ser atendidas imediatamente após a conclusão do atendimento que estiver em andamento, antes de quaisquer outras pessoas.

@@ -1,1 +1,1 @@
-Art. 3º As empresas públicas de transporte e as concessionárias de transporte coletivo reservarão assentos, devidamente identificados, aos idosos, gestantes, lactantes, pessoas portadoras de deficiência e pessoas acompanhadas por crianças de colo.
+Art. 3º As empresas públicas de transporte e as concessionárias de transporte coletivo reservarão assentos, devidamente identificados, às pessoas com deficiência, às pessoas com transtorno do espectro autista, às pessoas idosas, às gestantes, às lactantes, às pessoas com criança de colo e às pessoas com mobilidade reduzida.
