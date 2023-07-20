@@ -1,0 +1,99 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0715479-20.2023.8.07.0000AGRAVANTE(S)FERNANDA ANTONIA DE SOUSA BASTOS DIASAGRAVADO(S)DISTRITO FEDERALRelatoraDesembargadora FÁTIMA RAFAEL
+ Acórdão Nº1734086
+
+EMENTA
+
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. SOBRESTAMENTO DO CUMPRIMENTO DE SENTENÇA. NECESSIDADE DE LIQUIDAÇÃO PRÉVIA. RECURSO REPETITIVO. TEMA 1.169. STJ. DECISÃO MANTIDA.
+
+1. Conforme a sistemática adotada pelo Código de Processo Civil, o sobrestamento dos processos relacionados com a questão afetada é consequência automática da decisão proferida pelo tribunal superior.
+
+2. Em que pese o presente recurso não tratar diretamente da questão jurídica objeto da controvérsia, há inegável relação de prejudicialidade, pois lá se discute possível extinção da ação executiva individual por ausência de requisito indispensável, qual seja, liquidação prévia da sentença genérica.
+
+3. A continuidade do cumprimento individual de sentença sem certeza quanto à exigência de requisito indispensável pode resultar em atividade jurisdicional ineficiente e redundante.
+
+4. Agravo de Instrumento conhecido e não provido.  Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁTIMA RAFAEL - Relatora, MARIA DE LOURDES ABREU - 1º Vogal e LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERTO FREITAS FILHO, em proferir a seguinte decisão: CONHECER E NEGAR PROVIMENTO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Julho de 2023
+
+Desembargadora FÁTIMA RAFAELRelatora
+
+RELATÓRIO
+
+Trata-se de Agravo de Instrumento interposto por Fernanda Antônia de Sousa Bastos Dias contra a r. decisão Id. 152444191 dos autos de origem, proferida pelo Juiz de Direito da 4ª Vara da Fazenda Pública do Distrito Federal que, nos autos do Processo n° 0719378-06.2022.8.07.0018, suspendeu o curso do cumprimento de sentença, nos seguintes termos:
+
+“I - Em acórdão disponibilizado no DJe de 18/10/2022, a Primeira Seção do Superior Tribunal de Justiça decidiu afetar os REsp 1.978.629, REsp 1.985.037 e REsp 1.985.491, todos de relatoria do Exmo. Ministro Benedito Gonçalves, e determinou a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a mesma questão e que tramitem no território nacional, nos termos da delimitação da controvérsia contida no Tema Repetitivo 1169:
+
+“Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo magistrado com base no cotejo dos elementos concretos trazidos aos autos.”
+
+II - Assim, em observância à decisão supramencionada, o presente feito deverá permanecer sobrestado até o julgamento do Tema Repetitivo 1169 pelo e. STJ.
+
+III - Intimem-se”.
+
+Alega o Agravante, em síntese, que o cumprimento de sentença deve prosseguir, pois promoveu a “liquidação de sentença de título executivo judicial genérico decorrente de ação coletiva c/c cumprimento de obrigação de dar, que além de antever e superar a discussão travada no Tema 1169, evitando, assim, o seu sobrestamento e eventual extinção futura, proporciona ao executado maior amplitude de defesa, sem qualquer prejuízo jurídico às partes”.
+
+Reforça que houve prévio procedimento de liquidação, e que a continuidade do feito não ocasiona prejuízos à Fazenda Pública.
+
+Aduz que o periculum in mora está caracterizado em razão da natureza alimentar da verba.
+
+Pede a concessão de efeito suspensivo ativo “para suspender a decisão agravada e determinar ao juízo a quo que dê prosseguimento regular à liquidação.”
+
+No mérito, requer o provimento do Agravo de Instrumento, pelas razões expostas.
+
+O Agravo de Instrumento foi recebido apenas no efeito devolutivo (Id. 46206412).
+
+O Agravado apresentou contrarrazões (Id. 46727462).
+
+Preparo comprovado (Id. 46065252).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora FÁTIMA RAFAEL - Relatora
+Presentes os pressupostos de admissibilidade, conheço do Agravo de Instrumento interposto por Fernanda Antônia de Sousa Bastos Dias contra a r. decisão que, nos autos do Processo n° 0719378-06.2022.8.07.0018, suspendeu o curso do cumprimento de sentença.
+
+No caso em exame, pede a Agravante a reforma da r. decisão agravada para determinar o prosseguimento do Cumprimento de Sentença.
+
+Ocorre que, em recente decisão, a Corte Especial do Superior Tribunal de Justiça afetou recursos ao Tema Repetitivo 1.169, com determinação de suspensão da tramitação, em todo território nacional, de processos que versem sobre a seguinte matéria, in verbis:
+
+“A Corte Especial, por unanimidade, afetou o processo ao rito dos recursos repetitivos (artigo 1.036 do CPC e art. 257-C do RIST J) para consolidar entendimento acerca da seguinte questão jurídica: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.". E, por maioria, suspendeu a tramitação, em todo território nacional, de processos que versem sobre a mesma matéria, nos termos do art. 1.037, II, do CPC/2015, conforme proposta do Sr. Ministro Relator”. (ProAfR no REsp n. 1.978.629/RJ, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 11.10.2022, DJe de 18.10.2022.)
+
+A decisão de afetação ocorreu em três recursos especiais (REsp 1978629/RJ, REsp 1985037/RJ e REsp 1985491/RJ) interpostos contra acórdãos do Tribunal Regional Federal da 2ª Região, que entenderam ser a fase de liquidação indispensável para o cumprimento individual de sentença coletiva, como garantia de contraditório e ampla defesa do ente público, ante a generalidade do título judicial proferido, em oposição à estreiteza cognitiva da impugnação prevista no art. 535 do CPC para o cumprimento de sentença.
+
+Confira-se:
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO JULGADO COLETIVO. EXTINÇÃO DA EXECUÇÃO. EFEITO TRANSLATIVO DO RECURSO.
+
+1. O recurso merece ser conhecido, embora não caiba apreciar as suas razões de mérito, eis que a hipótese reclama, na verdade, a decretação de extinção da execução originária, por ausência de condição de prosseguimento válido e regular da ação executiva, matéria apreciável de ofício, consoante autoriza o chamado efeito translativo dos recursos, admitido no âmbito do agravo de instrumento (Cf. STJ, 3ª T., REsp 736.966/PR, Rel. Min. NANCY ANDRIGHI, DJe 06.05.2009).
+
+2. Em sede de processo coletivo, em que a sentença condenatória é necessariamente genérica (art. 95 do CDC), não é possível prescindir, para que a execução possa se iniciar, da apuração de um valor líquido e exigível, sendo esta apuração feita através de um processo de liquidação, com induvidoso respeito ao contraditório e ampla defesa, em que o ente público executado deva contribuir de forma efetiva, não sendo razoável transferir para o âmbito da impugnação prevista no art. 535 do NCPC, como ocorreu, in casu, a possibilidade de discussão dos critérios de cálculo unilateralmente adotados como forma de evitar esta liquidação em evidente subversão do processo coletivo.
+
+3. Agravo de instrumento conhecido para, de ofício, decretar a extinção da execução individual, restando prejudicada a apreciação do mérito do recurso.” (g.n.)
+
+Cuida-se de cumprimento individual da sentença coletiva proferida no Processo nº 32159/97, ação movida pelo Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal – SINDIRETA/DF contra o Distrito Federal para pagamento do benefício alimentação suspenso pelo Governador do Distrito Federal a partir de janeiro de 1996, por intermédio do Decreto nº 16.990/1995.
+
+Em que pese o presente processo não tratar diretamente da questão jurídica objeto da controvérsia, há inegável relação de prejudicialidade, uma vez que o processo paradigma discute possível extinção da ação executiva individual por ausência de requisito indispensável, qual seja, liquidação prévia da sentença genérica.
+
+Na espécie, embora a Agravante aduza que pediu a liquidação de sentença, houve, em verdade, pedido de cumprimento individual da sentença coletiva, tanto que requereu a condenação do Distrito Federal ao pagamento dos honorários de sucumbência, com fundamento na Súmula 345 do Superior Tribunal de Justiça1.
+
+A delimitação do procedimento necessário para individualizar o título genérico proferido na sentença coletiva impacta a eventual matéria de defesa a ser aduzida pelo devedor, pois, enquanto no cumprimento de sentença contra a Fazenda Pública, a tese defensiva é restrita as hipóteses do art. 535 do CPC, a liquidação de sentença seguirá pelas regras do procedimento comum.
+
+Portanto, a continuidade do cumprimento individual de sentença sem certeza quanto à exigência de requisito indispensável pode resultar em atividade jurisdicional ineficiente e redundante.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao Agravo de Instrumento.
+
+É como voto.
+
+A Senhora Desembargadora MARIA DE LOURDES ABREU - 1º Vogal Com o relatorO Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER E NEGAR PROVIMENTO, UNÂNIME
