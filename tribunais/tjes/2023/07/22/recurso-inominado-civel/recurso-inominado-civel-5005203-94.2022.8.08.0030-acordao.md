@@ -1,0 +1,154 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005203-94.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: PAULO RICARDO PEREIRA CAMPISTA
+RECORRIDO: SAAE SERVIÇO AUTONOMO DE ÁGUA E ESGOTO DE LINHARES ES e outros
+RELATOR(A):IDELSON SANTOS RODRIGUES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº
+5005203-94.2022.8.08.0030
+
+RECTE.:
+
+PAULO RICARDO PEREIRA CAMPISTA
+
+RECDO.: SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE LINHARES
+
+RELATOR: O SR. JUIZ DE DIREITO IDELSON SANTOS RODRIGUES
+
+EMENTA: DIREITO DO CONSUMIDOR.
+FALHA NOS SERVIÇOS PRESTADOS.
+
+INTERRUPÇÃO DE SERVIÇO ESSENCIAL.
+MOROSIDADE NO REESTABELECIMENTO DO SERVIÇO. FALHA NA PRESTAÇÃO DE SERVIÇO ESSENCIAL. DANOS MORAIS CONFIGURADOS
+IN RE
+IPSA
+.
+RECURSO INOMINADO PROVIDO, EM PARTE.
+SENTENÇA REFORMADA
+EM PARTE
+.
+MAJORAÇÃO DA INDENIZAÇÃO.
+
+R E L A T Ó R I O
+
+Relatório dispensado nos termos do art. 38 da Lei 9.099/95.
+
+Verifica-se que a Recorrida apresentou contrarrazões (Id 4077526).
+
+VOTO
+
+Inicialmente, conheço do Recurso Inominado interposto (Id 4077524), eis que ele preenche seus requisitos de admissibilidade intrínsecos e extrínsecos, motivo pelo qual o recebo em seu efeito devolutivo, na forma do art. 43 da Lei n.º 9.099/1995, bem como, concedo-lhe os benefícios da Justiça Gratuita, nos termos do art. 55 da Lei 9.099/95 C/C art. 98 do Código de Processo Civil (CPC/2015).
+
+O presente Recurso Inominado tem como objetivo a reforma da sentença objurgada (Id 4077522), em que o juiz
+a quo
+julgou nos seguintes termos: “
+JULGO PROCEDENTE EM PARTE
+a ação proposta
+
+para
+CONDENAR
+o
+
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE LINHARES (SAAE)
+a pagar a quantia de
+R$ 500,00 (quinhentos reais)
+a título de danos morais a parte autora
+PAULO RICARDO PEREIRA CAMPISTA
+, corrigido monetariamente pela
+SELIC
+, conforme art. 3º da Emenda Constitucional nº 113/2021
+, RESOLVENDO O MÉRITO
+nos termos do art. 487, inc. I do CPC
+e JULGANDO EXTINTO
+o presente processo”
+
+Trata-se de ação de reparação de danos, sob argumento que
+o
+autor teria ficado 04 (quatro) dias sem fornecimento de água administrado pela empresa ré, fato que teria causado ofensa à dignidade d
+est
+e
+.
+
+Em suma, o magistrado de piso reconheceu
+a falha na prestação de serviços e lesão moral
+ao
+autor/recorrente, condenando a ré/recorrida ao pagamento de indenização em danos morais fixados em R$ 500,00 (quinhentos reais)
+.
+
+O
+Recorrente em suas razões recursais pleiteia a reforma da r. Sentença, alegando que
+o montante indenizatório seria insuficiente para reparar o dano amargado pel
+o
+autor
+.
+
+Sumariamente, importa trazer a baila que se encontra preclusa a discussão sobre a
+falha na prestação de serviço que ensejou dano a direito personalíssimo d
+o
+demandante
+, vez que
+a concessionaria ré
+não interpõe recurso inominado nesse sentido,
+razão pela
+qual no presente voto perquirir-se-á tão somente quanto ao quantum indenizatório relativo a indenização por danos morais fixados em sentença
+
+Dito isto,
+entend
+o
+que tal tese deve prosperar, haja vista que ao considerar que a indenização deve ser capaz de desestimular a parte ré na prática dos mesmos atos, da mesma forma que deve proporcionar ao ofendido compensação na justa medida do abalo sofrido, sem se transformar em fonte de enriquecimento sem causa,
+entendendo-se diminuto o valor fixado em sentença
+,
+votando-se pela reforma, em parte, da r.sentença,
+para o fim de majorar o valor de indenização por danos morais para R$
+1
+.000,00 (mil reais)
+, quantia suficiente para reparar o dano sem ensejar locupletamento indevido.
+
+Por fim, insta consignar que nas demandas que versam sobre o tema destes autos, qual seja, a morosidade no restabelecimento do serviço pela ré no bairro Aviso – Linhares, entendi por justo e adequado a majoração da indenização moral para o montante de R$ 2.000,00 (dois mil reais), contudo, há existência de outro processo de nº
+5005220-33.2022.8.08.0030
+
+em que a parte reside no mesmo endereço do aqui recorrente dessa ação, dessa forma, imperioso fixar a majoração no valor determinado
+(R$ 1.000,00)
+nos dois autos para que as decisões fiquem consoantes com o entendimento adotado.
+
+Ante o exposto,
+CONHE
+ÇO
+
+do recurso interposto,
+e
+LHE CONFIRO PARCIAL PROVIMENTO
+, reformando, em parte, a r. sentença, para o fim de majorar o valor da indenização por danos morais para R$
+1
+.000,00 (mil reais), com correção e juros a partir da prolação da sentenç
+a. Fica mantida os demais termos da r.sentença guerreada.
+
+Diante do parcial provimento do recurso, sem condenação em custas nem honorários.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
