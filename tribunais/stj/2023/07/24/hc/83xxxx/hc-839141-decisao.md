@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEFFERSON LUIS DO NASCIMENTO, em que se aponta como autoridade coatora desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que foi reconhecida a prática de falta grave pelo paciente no curso da execução penal n. 0010097-54.2018.8.26.0026. Interposto agravo em execução pela defesa do paciente, o recurso foi julgado improvido (fls. 24/29). Na sequência, foi impetrado habeas corpus n. 826389 - SP (2023/0178757-1) perante o Superior Tribunal de Justiça, o qual não foi conhecido. Irresignada, a defesa do paciente impetrou habeas corpus n. 2143677-54.2023.8.26.0000 perante o Tribunal de Justiça do Estado de São Paulo, que foi indeferido liminarmente (fls. 10/13).
+Em suas razões, a impetrante sustenta que, nos autos do habeas corpus n. 826389 - SP (2023/0178757-1) perante o Superior Tribunal de Justiça, o pedido de extensão dos efeitos concedidos ao corréu Iago Silva Vitor de Sales não foi apreciado para evitar a configuração de supressão de instância.
+Argumenta que foi impetrado o habeas corpus n. 2143677-54.2023.8.26.0000 perante o Tribunal de Justiça do Estado de São Paulo para evitar a alegação de supressão de instância em habeas corpus eventualmente impetrado perante o STJ, entretanto, a medida requerida foi "indeferida" (fl. 04).
+Alega que o paciente faz jus à extensão do benefício concedido ao corréu, consistente na desclassificação da natureza da falta disciplinar para média, em respeito ao princípio da isonomia, considerando que as condutas praticadas por ambos foram iguais, tendo sido praticadas no mesmo dia e lugar, contudo, ensejaram tratamentos diferenciados.
+Aduz, ainda, a atipicidade da conduta, ressaltando que não houve cometimento de falta grave, mas "intolerância do agente penitenciário no cumprimento do seu dever." (fl. 05), bem como a irrelevância do ato praticado, tendo em vista que em nada atrapalhou o desempenhar das funções da unidade prisional.
+Requer, liminarmente e no mérito, que seja o paciente absolvido da falta grave ou, subsidiariamente, desclassificada a natureza da falta disciplinar para média, levando em consideração a decisão proferida em favor de corréu.
+É o relatório.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente pelo desembargador relator na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES LICITATÓRIOS. COMPETÊNCIA DA JUSTIÇA ELEITORAL. MATÉRIA NÃO DISCUTA PELO TRIBUNAL DE JUSTIÇA. INDÍCIOS DE CRIMES ELEITORAIS. REMESSA AO TRIBUNAL REGIONAL ELEITORAL PARA MELHOR EXAME. AGRAVO PARCIALMENTE PROVIDO.
+1. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+2. Ainda que não se possa reconhecer imediatamente a competência da Justiça Eleitoral, se há indícios expressos nos autos acerca da possível prática dos delitos durante o período de campanha eleitoral, com promessa de fraude de futuras licitações em caso de êxito nas eleições, é pertinente que a Justiça especializada seja provocada a decidir sobre a questão.
+3. Não há necessidade anular a medida de busca e apreensão determinada pelo Tribunal de Justiça porque, ainda que seja posteriormente reconhecida a competência da Justiça Eleitoral, este Superior Tribunal de Justiça vem entendendo que o reconhecimento da incompetência do juízo, por si só, não anula decisão cautelar, que, por isso, poderá ser ratificada pela autoridade competente.
+Precedentes.
+4. Agravo regimental provido em parte para determinar a remessa da investigação à Justiça eleitoral para que analise a existência ou não de eventuais crimes eleitorais capazes de atrair a sua competência (Medida cautelar inominada: 0047746-58.2020.8.19.0000).
+(AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
