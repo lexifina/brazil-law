@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de efeito suspensivo a agravo em recurso especial interposto por GRAN COFFEE COMÉRCIO, LOCAÇÃO E SERVIÇOS S.A., nos autos do processo n. 5017013-80.2021.8.13.0024.
+Narra a requerente que ajuizou "Ação Declaratória de Inexistência de Relação Jurídica e de Débito c. c. Indenização por Danos Morais, na qual a Recorrente relata que, em 29 de outubro de 2020, foi informada pela Recorrida da existência de débitos em aberto, oriundos de contrato de aluguel de 36 (trinta e seis) veículos, cuja contratação, na realidade, não foi celebrada entre as partes, que, à época, sequer possuíam relação comercial" (fl. 3).
+Afirma que "teve seu nome negativado indevidamente junto ao órgão de proteção ao crédito por débitos decorrentes do referido contrato - que não foi por ela firmado - sendo que, em janeiro de 2021, as pendências financeiras já apontavam 73 (setenta e três) registros, em valor próximo de R$ 142.676,79 (cento e quarenta e dois mil, seiscentos e setenta e seis reais e setenta e nove centavos)" (fl. 4).
+Acrescenta que o tribunal a quo manteve o entendimento firmado na sentença que julgou improcedente seu pedido. Em razão disso, interpôs recurso especial, que teve seu seguimento negado com base na Súmula n. 7 do STJ. Diante desse cenário, apresentou "Agravo, que se encontra pendente de recebimento e remessa pelo Egrégio Tribunal de Justiça a quo ao Colendo Superior Tribunal de Justiça" (fl. 6).
+Alega que "até que seja processado o Agravo interposto pela Recorrente, o v. acórdão atacado pode vir a ser executado provisoriamente pela Recorrida" (fl. 6).
+Sustenta, ainda, que seu nome "está negativado em virtude das cobranças indevidas efetuadas pela Recorrida com base no contrato em questão, o que já tem lhe causado diversos prejuízos" (fl. 9).
+Requer, desse modo, a antecipação dos efeitos da tutela recursal para "compelir a Recorrida a cessar as cobranças decorrentes do contrato de locação de veículos, bem como determinar a baixa imediata da negativação do nome da Recorrente nos órgãos de proteção ao crédito" (fl. 9)
+É o relatório.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não está evidenciado o periculum in mora, na medida em que ausente qualquer argumentação quanto à iminência de atos expropriatórios, limitando-se a requerente a expor argumentações genéricas sobre a possibilidade de início de execução provisória.
+Além disso, a negativação do nome da requerente ocorreu há mais de 2 anos, ou seja, não é recente, o que afasta, em princípio, o reconhecimento do periculum in mora na necessidade de manter a situação jurídica anterior.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+Intimem-se.
