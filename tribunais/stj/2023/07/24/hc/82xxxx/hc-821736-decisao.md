@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JEIMES MAIA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime previsto no artigo 180, §1º, do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada (e-STJ fls. 72/76).
+Na presente oportunidade, a impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que "não há elementos informativos que indiquem que se trata de prática habitual do paciente, não houve apreensão de valores ou mesmo outros objetos que denotem minimamente a prática da mercancia" (e-STJ fl. 5).
+Salienta que "em que pese a qualificação penal dada aos fatos, a prática descrita no depoimento dos policiais e no boletim de ocorrência se encaixa na conduta descrita no caput do art. 180 do CP, receptação na modalidade simples, delito punido com pena máxima em abstrato não superior a 04 anos por paciente primário de modo que não estão presentes os requisitos do art.313 do CPP, necessários à conversão da prisão em flagrante em preventiva" (e-STJ fl. 5).
+Sublinha, ainda, que o paciente é primário e está sendo acusado de um crime cometido sem violência ou grave ameaça, sendo certo que "o fato de alguém não conseguir comprovar documentalmente possuir atividade remunerada não pode ser usado como elemento a fazer presumir que a pessoa se dedica a atividades ilícitas" (e-STJ fl. 8). Além disso, não se pode ignorar a desproporcionalidade da custódia ante o prognóstico, em caso de condenação, de pena final menos gravosa que o regime fechado, havendo, ainda, a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, ou, subsidiariamente, a aplicação de medidas cautelares previstas no art. 319 do CPP, "preferencialmente o comparecimento periódico em juízo (CPP, arts. 319 e 320, com redação dada pela Lei n. 12.403/2011)" (e-STJ fl. 12).
+O pleito urgente foi indeferido (e-STJ fls. 84/87).
+Prestadas as informações (e-STJ fls. 95/98), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 115/118).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, em 19/06/2023 sobreveio sentença condenatória nos autos da ação penal originária, tendo sido deferido ao réu, ora paciente, o direito de apelar em liberdade, momento em que foi determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de J ustiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
