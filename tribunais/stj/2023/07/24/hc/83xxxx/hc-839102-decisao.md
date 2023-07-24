@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ERLY PEREIRA DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que o paciente foi pronunciado para submissão ao Tribunal do Júri, pela suposta prática do crime previsto no art. 121, caput, c/c art.14, II, ambos do Código Penal. Defesa e acusação interpuseram recurso em sentido estrito. O do MP foi conhecido e provido. O da defesa foi conhecido e desprovido. O acórdão está assim ementado:
+E M E N T A - RECURSO EM SENTIDO ESTRITO - TENTATIVA DE HOMICÍDIO - ABSOLVIÇÃO SUMÁRIA - AFASTADA - INDICIOS SUFICIENTES DA AUTORIA E DEMONSTRAÇÃO ALUSIVA À MATERIALIDADE- PRONÚNCIA MANTIDA- QUALIFICADORAS- RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA, ASFIXIA E MOTIVO FÚTIL - INDICIOS SUFICIENTES - MANTIDAS - RECURSO DO MINISTÉRIO PÚBLICO CONHECIDO E PROVIDO. RECURSO DEFENSIVO CONHECIDO E IMPROVIDO.
+Como cediço, somente se admite a absolvição sumária quando a evidência dos autos não permitir a mais tênue dúvida a respeito nem outra versão ou hipótese, pois, caso contrário, o acusado há de ser julgado pelo seu juiz natural, que é o Tribunal do Júri, notadamente tratando-se de mero juízo de admissibilidade da acusação, que prescinde de prova incontroversa.
+Em situações desse jaez, vislumbrando-se indícios acerca da investida de surpresa, bem como sobre a alegada asfixia e a desproporção entre o delito e a sua causa, a mantença das correspondentes qualificadoras se afigura inevitável, posto que, ainda que haja controvérsia, o caso deve ser levado à apreciação do Tribunal do Júri, cuja instituição, por disposição constitucional, tem competência para proferir a derradeira palavra sobre o assunto, mesmo porque a presunção neste momento é contra o réu, pois qualquer dúvida deve ser resolvida em benefício da sociedade.
+Sustenta o impetrante que a conduta do paciente, conforme se tiraria do laudo pericial, se coaduna, em verdade, com o crime de lesão corporal leve.
+Requer, liminarmente e no mérito, a despronúncia, a partir da desclassificação do delito de tentativa de homicídio para o de lesão corporal leve, com a consequente suspensão da Sessão do Júri, já designada para o dia 09/08/23.
+É o relatório.
+O writ não merece prosseguir.
+É que vem da sedimentada jurisprudência da Casa que "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no HC n. 820.758/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
