@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARIANA DA MOTA BASTOS BORGES, em que se aponta como autoridade coatora Desembargador do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO.
+Consta dos autos que a paciente foi diagnosticada com ansiedade, transtorno de pânico, transtorno depressivo, e distúrbio do sono.
+Os impetrantes alegam que, em razão da não obtenção de resultados satisfatórios com as terapias e medicações convencionais, profissional da área médica prescreveu o uso alternativo do óleo de canabidiol (CBD). A partir dessa indicação, a paciente importou sementes da planta cannabis sativa e iniciou o seu cultivo residencial para a extração do óleo suficiente ao tratamento. Depois de um ano, com significativa melhora de seu quadro clínico, buscou e obteve na ANVISA autorização para a importação do CBD, válida até 15/06/2025. Sustentam que diante do alto custo da importação a paciente pretende retomar o cultivo caseiro.
+No primeiro grau, o habeas corpus proposto foi denegado. Novo habeas foi proposto no Tribunal local, o qual, depois do indeferimento da liminar, teve seu seguimento negado, pelo Desembargador relator, em decisão monocrática de 14/07/23.
+Requerem, liminarmente e no mérito, a concessão de SALVO CONDUTO em favor da paciente, para assegurar que agentes de segurança pública se abstenham de atentar contra sua liberdade de locomoção, no que diz respeito ao cultivo, importação, guarda, depósito, produção artesanal, uso de matérias primas da planta cannabis, bem como do transporte de seus remédios, inclusive para outros estados da Federação, em quantidade necessária ao tratamento, para fins estritamente medicinais, sem o risco de ser injustamente presa. Subsidiariamente, pedem a expedição de salvo conduto para o cultivo limitado de pelo menos 15 plantas de cannabis, por ciclo de produção.
+É o relatório.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente pelo desembargador relator na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES LICITATÓRIOS. COMPETÊNCIA DA JUSTIÇA ELEITORAL. MATÉRIA NÃO DISCUTA PELO TRIBUNAL DE JUSTIÇA. INDÍCIOS DE CRIMES ELEITORAIS. REMESSA AO TRIBUNAL REGIONAL ELEITORAL PARA MELHOR EXAME. AGRAVO PARCIALMENTE PROVIDO.
+1. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+2. Ainda que não se possa reconhecer imediatamente a competência da Justiça Eleitoral, se há indícios expressos nos autos acerca da possível prática dos delitos durante o período de campanha eleitoral, com promessa de fraude de futuras licitações em caso de êxito nas eleições, é pertinente que a Justiça especializada seja provocada a decidir sobre a questão.
+3. Não há necessidade anular a medida de busca e apreensão determinada pelo Tribunal de Justiça porque, ainda que seja posteriormente reconhecida a competência da Justiça Eleitoral, este Superior Tribunal de Justiça vem entendendo que o reconhecimento da incompetência do juízo, por si só, não anula decisão cautelar, que, por isso, poderá ser ratificada pela autoridade competente.
+Precedentes.
+4. Agravo regimental provido em parte para determinar a remessa da investigação à Justiça eleitoral para que analise a existência ou não de eventuais crimes eleitorais capazes de atrair a sua competência (Medida cautelar inominada: 0047746-58.2020.8.19.0000).
+(AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
