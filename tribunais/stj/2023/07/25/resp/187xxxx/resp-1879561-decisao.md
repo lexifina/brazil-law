@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SINDICATO DOS EMPREGADOS DE COOPERATIVAS MÉDICAS NO ESTADO DE SÃO PAULO contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, que manteve a decisão que havia determinado à parte autora o ajuste no valor da causa.
+Alega a parte recorrente, além de divergência jurisprudencial, "violação literal e negação de vigência dos arts. 98, 489, 994, IV, 1022, II e parágrafo único, II, e 1025, e 1026 do CPC/2015  arts. 259, 282, caput e inciso V, 284, 458, II, 463, II, 515, §§ 1º e 2º,516 e 535, inciso II, 557, caput (com a redação dada pela Lei n. 9756/98) e § 1º e § 1º-Ado CPC/1973 "
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição do presente agravo.
+É, no essencial, o relatório.
+Passo a decidir.
+Entendo que o recurso não pode ser conhecido.
+Inicialmente, registro que, embora a parte recorrente tenha apontado vulneração do art. 1.022, II, do CPC, observa-se que, nas razões do recurso especial, não explicitou e indicou, de maneira clara e precisa, os pontos efetivamente omissos do acórdão impugnado. Também não indicou as matérias sobre as quais deveria pronunciar-se a instância ordinária e não demonstrou no apelo especial a relevância delas para o julgamento do feito.
+Nesses casos, sendo genéricas as alegações que tentam fundamentar a apontada vulneração do art. 1.022, todas as Turmas do STJ entendem ser o caso de incidência da Súmula 284/STF, por analogia.
+Nesse sentido: AgInt no AREsp 2.218.973/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no AREsp 1.943.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022; AgInt no REsp 2.028.861/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgInt no REsp 1.612.743/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/06/2021, DJe 02/08/2021.
+Semelhante raciocínio se emprega em relação ao mérito em si do recurso.
+A redação do apelo especial não demonstrou, de maneira clara e objetiva, como o acórdão recorrido teria malferido a legislação federal indicada no recurso.
+Registre-se que a citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se o foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018).
+No caso, o recurso foi aviado empregando parágrafos genéricos, incapazes de indicar precisamente como os artigos teriam sido violados.
+Exemplificativamente, cito os seguintes trechos do apelo:
+49.) O v. Acórdão recorrido, ao deixar de fazer o exame e a resolução da matéria suscitada (pedido de justiça gratuita, a qualquer tempo e grau de jurisdição) violou a literalidade dos artigos 98 do CPC, porque recusou o efeito devolutivo de todas as questões suscitadas, deixando de incluir no campo de aplicação hipótese legalmente contemplada, a qual efetivamente rege a hipótese dos autos; deixando de cumprir o seu oficio jurisdicional, sendo causa eficiente de sua nulidade que ora é perseguida através do provimento do presente Recurso Especial pela alínea "a", do inciso DL do artigo 105, da Constituição Federal, com a corolário devolução do feito ao Egrégio Tribunal de origem para que outorgue a devida prestação jurisdicional.
+ ..
+52.) O v. Acórdão recorrido, ao deixar de fazer o exame e a resolução da matéria suscitada (inaplicabilidade, na hipótese dos autos) violou a literalidade dos Artigos 259, 282, caput e inciso V, e 284, do CPC/1973 porque manteve a inclusão no campo de aplicação hipótese legalmente não contemplada ou dispensada para a hipótese dos autos; deixando de cumprir o seu oficio jurisdicional, sendo causa suficiente de sua nulidade que ora é perseguida através do provimento do presente Recurso Especial pela alínea "a", do inciso III, do artigo 105, da Constituição Federal, com a corolária devolução do feito ao Egrégio Tribunal de origem para que outorgue a devida prestação jurisdicional.
+ ..
+Assim, novamente aplicável a Súmula 284/STF.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes." (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
