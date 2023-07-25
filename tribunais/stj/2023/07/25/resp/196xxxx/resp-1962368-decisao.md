@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo IBAMA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Em suas razões, a parte recorrente aponta violação dos arts. 489, §1º e 1.022 do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos seguintes dispositivos:
+a) arts. 14 da Lei n. 6.938/81 e 935 do CC (a transação na esfera penal, com a doação da madeira apreendida, não vincula a seara administrativa, pois são juízos independentes);
+b) arts. 106, II, e 134 do Decreto 6.514/08 (com a apreensão, o infrator, como mero depositário, não pode dispor do bem apreendido em sede de transação penal);
+c) arts. 186 e 640 do CC; 25 e 72, IV, da Lei n. 9.605/98; 3º, IV, 105, 106, II e 107, III, todos do Decreto n. 6.514/08 (o bem apreendido está incorporado ao patrimônio público, de modo que, se não for encontrado, deve a Administração ser indenizada);
+d) arts. 76, § 3º, da Lei n. 9.099/95; 393, 640 e do CC e art. CPC/73 (a transação penal não é impositiva ao réu, tendo este a liberalidade de aceitá-la ou não); e
+e) arts. 25, § 4º, 70 e 72, IV da Lei n. 9.605/98 e 3º, IV, 35, 101, I e §1º e 102, todos do Decreto n. 6.514/08 ("A apreensão é uma penalidade prevista em lei, impositiva, de aplicação obrigatória pelo Poder Público, sendo que o perdimento não é uma faculdade da autoridade administrativa, senão um imperativo legal).
+Contrarrazões (e-STJ fls. 440/448).
+Parecer do MPF pelo não conhecimento do recurso (e-STJ fls. 468/473).
+Passo a decidir.
+Inicialmente, registro que não se pode falar em negativa de prestação jurisdicional, porquanto, ainda que se considere incorreta a fundamentação utilizada pelo Tribunal, não há, agora, necessariamente ausência de motivação quanto ao tema controvertido.
+Verifica-se que, após determinação desta Corte, o juízo local enfrentou diretamente a controvérsia sobre a possível independência de instâncias (infração administrativa/ambiental e penal), mas manteve o entendimento adotado no acórdão integrado, no sentido de que, no caso, cobrar do recorrido o valor da madeira apreendida implicaria vedação ao bis in idem.
+Vale dizer, ainda que discutível o acerto da conclusão do juízo a quo a respeito do tema, não se pode falar que houve omissão quanto à celeuma, mas apenas a conclusão foi contrária à tese advogada ora recorrente.
+No mérito propriamente dito, o recurso não deve ser conhecido.
+Os artigos mencionados nos itens "b" a "e" deste relatório não foram prequestionados, pelo que aplico a Súmula 211/STJ e 282/STF em relação a eles.
+Registre-se que "não configura impropriedade afirmar a falta de prequestionamento da matéria e afastar indicação de afronta ao art. 535 do CPC/73, uma vez que é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está o magistrado obrigado" (AgInt no REsp 1442970/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/02/2020, DJe 02/03/2020).
+Nesse mesmo sentido: STJ, AgRg no REsp 1.181.095/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 29/10/2014; AgRg no AREsp 508.461/SC, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 16/10/2014.
+Quanto à alegada violação às normas que tratam da independência de instâncias, entendo que não pode ser conhecida por conta das Súmulas 283/STF e 7/STJ.
+A primeira porque, no caso, em ambos os acórdãos (o original e o fruto de integração, após julgamento de aclaratórios), houve a fundamentação expressa reconhecendo a existência da independência de instâncias, e que essa teria sido preservada no particular, ressalvando-se apenas a vedação do bis in idem. Tanto é que no acórdão original (e-STJ fls. 299/306), chegou-se a esclarecer que a multa cível imposta pelo IBAMA foi paga independentemente do resultado da transação penal (que teria como uma das condições a entrega das madeiras apreendidas) (e-STJ fl. 305).
+Isto é, a pretensão do IBAMA deixou de ser acolhida não em razão da ausência de reconhecimento da independência de instâncias, mas pela aplicação do princípio do ne bis in idem.
+Além do mais, a decisão impugnada se fundava na alegação de que o pagamento do valor proporcional à madeira apreendida só seria cabível ao IBAMA se o recorrido tivesse perdido os bens na condição de depositário daqueles, o que não teria sido o caso dos autos, pois a entrega da carga apreendida se operou em cumprimento à determinação da autoridade penal.
+Esses dois fundamentos (princípio do ne bis in idem e ausência da condição e depositário do réu) não foram diretamente infirmados no apelo especial, atraindo a aplicação da Súmula 283/STF.
+Ainda que assim não fosse, para chegar às conclusões externadas no acórdão recorrido, a Corte Regional reexaminou as peculiaridades fáticas do caso (ausência de comunicação entre o juízo penal e a Administração; detalhes da transação penal; efeitos após a suspensão do processo criminal etc.), pelo que, para adotar solução distinta, seria necessário rever tal contexto fático-probatório, inviável por conta da Súmula 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
