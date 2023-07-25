@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de MARIA SEUDA DA SILVA contra decisão de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que indeferiu o pedido liminar no HC n. 0627213-84.2023.8.06.0000.
+Extrai-se dos autos que em 27/4/2023 a paciente foi presa em flagrante, o qual foi convertido em preventiva, e restou denunciada pela suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Posteriormente, o Juízo de primeiro grau indeferiu o pedido de revogação da custódia.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida às fls. 469/473.
+No presente writ, o impetrante sustenta a necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, ante a flagrante ilegalidade verificada na prisão preventiva da pac iente.
+Alega a ausência de fundamentação concreta que justifique a prisão preventiva, baseada apenas na gravidade abstrata do delito. Assevera não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Afirma que a paciente faz jus à prisão domiciliar, tendo em vista seu estado de saúde, considerando que passou por recente cirurgia ortopédica, bem como se tratar de agente que possui comorbidades.
+Pondera, também, se tratar de responsável por criança de 6 anos, a qual depende dos seus cuidados, razão pela qual faz jus à prisão domiciliar.
+Ressalta que a paciente é primária e conta com condições pessoais favoráveis.
+Assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor da paciente.
+A liminar foi deferida às fls. 476/480 para revogar a prisão preventiva da paciente até o julgamento definitivo da presente impetração, substituindo-a por medidas cautelares alternativas previstas o art. 319 do Código de Processo Penal, a serem definidas pelo Juízo de primeiro grau.
+O Ministério Público Federal opinou pela concessão da ordem de ofício em parecer acostado às fls. 487/492.
+Informações prestadas às fls. 493/494, 499/501.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. TRÁFICO DE DROGAS. GRANDE QUANTIDADE DE MACONHA APREENDIDA. DELITO PRATICADO DURANTE A PANDEMIA DA COVID-19. PRISÃO PREVENTIVA. SÚMULA 691/STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere pedido de liminar na origem, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF.
+2. Na hipótese, não há ilegalidade apta a justificar pronunciamento antecipado deste Superior Tribunal de Justiça, não sendo o caso de mitigação do referido verbete sumular.
+3. Agravo regimental não provido.
+(AgRg no HC 582.494/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2020, DJe 22/06/2020).
+Verifico ser o caso de superação do mencionado enunciado sumular, uma vez caracterizado evidente constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, a revogação da custódia cautelar imposta à paciente.
+Inicialmente, verifica-se que o Juízo Singular converteu a prisão em flagrante em preventiva nos seguintes termos:
+"I. DA ANÁLISE DA NECESSIDADE OU NÃO DE DECRETAÇÃO DA PRISÃO PREVENTIVA
+Passo a examinar, doravante, a necessidade de conversão da prisão em flagrante em prisão preventiva.
+Com efeito, para a decretação de qualquer prisão de caráter cautelar é imprescindível a demonstração do fumus boni juris e do periculum in mora, elementos inerentes à própria essência da expressão medida cautelar, que, no caso em apreço, se corporificam, respectivamente, no fumus comissi delicti e no periculum libertatis.
+ ..
+O fumus commissi delicti se exterioriza nos pressupostos e condições de admissibilidade da prisão provisória, enquanto o periculum libertatis está ligado à existência de um dos fundamentos da medida de exceção.
+Nessa linha, para a decretação da custódia cautelar, são necessários que restem presentes seus pressupostos, condições de admissibilidade e fundamentos, os dois primeiros configurando o fumus commissi delicti, enquanto o terceiro caracterizando o periculum libertatis.
+Os pressupostos da prisão preventiva estão exteriorizados na parte final do artigo 312 do Código de Processo Penal, quais sejam, prova da existência do crime e indícios suficientes de autoria.
+Na hipótese vertente, a prova da existência do crime, ou materialidade, encontra-se ligado ao próprio corpo do delito, ou seja, o termo de apresentação e apreensão (página 6) e os laudos provisórios de constatação de substância entorpecente (páginas 7/8).
+No mesmo norte, os indícios de autoria restam evidenciados pela prova testemunhal colhida por ocasião da lavratura do auto de prisão em flagrante delitos, em especial nas palavras dos policiais militares, os quais relataram, per summa capita, que os entorpecentes foram encontrados em poder da autuada.
+As condições de admissibilidade da prisão provisória, elencadas no artigo 313 do Código de Processo Penal, também se encontram presentes, posto que o crime imputado é punido com pena privativa de liberdade máxima superior a 4 (quatro) anos e não há, prima facie, indícios de que o agente tenha agido acobertado por quaisquer excludentes de criminalidade.
+Quanto aos fundamentos da prisão preventiva temos que a medida segregativa, nos termos do artigo 312 do Código de Processo Penal, pode ser decretada como: a) garantia da ordem pública; b) garantia da ordem econômica; c) por conveniência da instrução criminal; ou d) para assegurar a aplicação da lei penal. Para caracterizar esses fundamentos da prisão preventiva, além necessário a presença dos pressupostos e das condições de admissibilidades antes referidas, imperioso a necessidade do perigo gerado pelo estado de liberdade do imputado, consubstanciando o que denominamos de periculum libertatis.
+Do cotejar dos autos, extrai-se que resta presente, in concreto, fundamento para a decretaç/ão da prisão preventiva da acusada MARIA SEUDA DA SILVA posto que a custódia cautelar se faz necessário para manutenção da ordem pública e para garantia da instrução criminal.
+ ..
+No caso vertente, a garantia da ordem pública resulta do próprio modus operandis de sua conduta, uma vez que, a droga estava em posse da acusada. Ademais, a necessidade de resguardar da ordem pública e a paz social surge pelo próprio tipo penal que, nos últimos anos, vem sendo uma das maiores mazelas sociais funcionando como mola propulsora inclusive para prática de outros crimes como roubo e homicídio.
+ ..
+Portanto, evidencia-se, de forma clara, a necessidade de custódia da agente para fins de garantia da ordem pública. Enfim, pela valoração dos elementos informativo-probantes contidos nos fólios sub examine, verifica-se a presença, in concreto, dos requisitos legais justificadores da prisão provisória (fumus comissi delicti e periculum libertatis), para finda de manutenção da ordem pública." (fls. 109/114).
+A liminar foi indeferida nos seguintes termos:
+"De início, no que concerne à carência de fundamentação da decisão que converteu o flagrante em prisão preventiva, constata-se que a análise feita pelo Juízo a quo, a princípio, é apta a justificar a aplicação da medida cautelar extrema, tendo em vista que o magistrado aponta razões concretas em relação aos indícios da autoria e da materialidade delitivas atribuídas à paciente, ressaltando que
+ ..
+Sobre o pedido de revogação da prisão preventiva da paciente, (autos nº 0010230-32.2023.8.06.0300), recentemente aos 19/05/2023, a autoridade dita coatora decidiu pelo indeferimento do pedido às fls.01/16 (daqueles autos incidentais) nestes termos
+ ..
+Na mesma decisão, a autoridade coatora pontuou acerca das condições pessoais favoráveis: "".. registro que as condições pessoais favoráveis da denunciada não têm o condãode, por si só, inviabilizar a decretação/manutenção da custódia preventiva, se existem outros elementos nos autos que respaldam a medida cautelar..
+""No mais, o juízo a quo justifica a inaplicabilidade da prisão domiciliar e a insuficiência da aplicação das medidas cautelares diversas no caso em análise, ressaltando que:
+ ..
+Dessa maneira, para o momento, não obstante os fundamentos apresentadospela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos deconvicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Por fim, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste writ, em respeito ao princípio da colegialidade, o qual vigora nessa instância e proporciona adiscussão de teses e contraposição de ideias entre os magistrados integrantes do órgãojurisdicional. Tudo com o fim de se chegar a uma conclusão mais qualificada e adequadaacerca das questões postas à apreciação, a recomendar que a análise em caráter liminar dê-sesomente em casos realmente excepcionais em que, à primeira vista, seja nítido, evidente eindiscutível o direito pretendido, situação que não se amolda à hipótese.
+Isso posto, INDEFIRO o pedido de liminar, por não vislumbrar o fumus boni iuris necessário à sua concessão.  .. " (fls. 471/473).
+Em consulta ao andamento processual - e como referido às fls. 499/501 - verifica-se que em 14/6/2023 o Habeas Corpus n. 0627213-84.2023.8.06.0000 foi julgado prejudicado.
+Relativamente à custódia cautelar, na esteira da decisão que concedeu a medida liminar, não obstante tenham as instâncias ordinárias feito menção a elementos concretos do caso indicativos da necessidade de resguardar a ordem pública, verifica-se que a quantidade da droga localizada - 29 g de cocaína e 8 g de maconha - não se mostra exacerbada, o que permite concluir que a potencialidade lesiva da conduta imputada não pode ser tida como das mais elevadas.
+Ademais, ao que se verifica dos autos, trata-se de agente primária e não há notícias do seu envolvimento com organização criminosa, o que, somado ao fato de o crime em questão não envolver violência ou grave ameaça à pessoa, indica a desproporcionalidade da prisão preventiva e a suficiência das medidas cautelares menos gravosas.
+Nesse sentido, cito os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUFICIÊNCIA, NA ESPÉCIE. OBSERVÂNCIA AO BINÔMIO NECESSIDADE E ADEQUAÇÃO. AGRAVO REGIMENTAL INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+1. De acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e dos princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade.
+2. Apesar da fundamentação concreta acerca da necessidade da custódia preventiva, a quantidade total de drogas apreendidas é reduzida, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas da prisão, máxime quando se observa que se trata de Ré primária, sem a indicação de outras ações penais ou inquéritos policiais em curso em seu desfavor e as condutas não foram praticadas com violência ou grave ameaça à pessoa.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 774.598/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/10/2022, DJe de 3/11/2022)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA 691 DO STF. SUPERAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. QUANTIDADE DE DROGAS APREENDIDAS. FUNDAMENTAÇÃO INSUFICIENTE. QUANTIDADE INEXPRESSIVA. ACUSADA PRIMÁRIA. AUSÊNCIA DE VIOLÊNCIA OU GRAVE AMEAÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O enunciado n. 691 da Súmula do Supremo Tribunal Federal prescreve: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." Todavia, nos casos de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular.
+2. No caso em exame, a flagrante ilegalidade está demonstrada, haja vista a possibilidade de imposição de medidas cautelares diversas da prisão na hipótese, situação que autoriza a excepcional superação do referido entendimento sumular.
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+4. No caso, a quantidade de drogas apreendidas é fundamento insuficiente para, isoladamente, justificar a medida extrema, porquanto ausente excepcionalidades adicionais e, no caso, não há se falar em grande quantidade de drogas - 1,48 g de cocaína, 1,51 g de crack e 7,24 g de maconha. Ainda, o suposto crime não foi praticado com violência ou grave ameaça, a acusada é primária, não ostenta maus antecedentes e tem 3 filhos menores.
+5. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319 do Código de Processo Penal.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 724.821/RO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2022, DJe de 25/3/2022)
+Assim, demonstrada a inadequação e a desproporcionalidade no encarceramento da paciente, deve ser substituída a prisão preventiva por medidas cautelares alternativas.
+Ante o exposto, não conheço do habeas corpus, mas, confirmando a liminar deferida, concedo a ordem, de ofício, para revogar a prisão preventiva da paciente mediante a aplicação de medidas cautelares alternativas definidas pelo Juízo singular.
+Publique-se.
+Intimem-se.
