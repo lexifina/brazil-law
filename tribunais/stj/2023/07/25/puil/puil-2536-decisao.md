@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado por ANA MARIA GENTILE VAZ e OUTROS, com fundamento no art. 18, § 3º, da Lei 12.153/2009, no qual se insurgem contra acórdão de Turma Recursal de Sorocaba/SP.
+Os requerentes alegam dissídio jurisprudencial entre o acórdão atacado e precedente deste Tribunal, sustentando a possibilidade de seguimento da execução p elos sucessores da parte demandante falecida, em demanda que visa o recebimento de crédito de natureza patrimonial.
+Ouvido, opinou o Ministério Público Federal a favor do não conhecimento do pedido.
+É o relatório.
+Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo, é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+Na espécie, o pedido de uniformização ampara-se em alegação de suposta contrariedade a precedente jurisprudencial do Superior Tribunal de Justiça, não especificando eventual dissidência entre turmas recursais ou divergência com súmula, razão pela qual não se enquadra nas hipóteses de cabimento descritas na Lei 12.153/2009, não merecendo conhecimento.
+Sobre as hipóteses de cabimento do pedido de uniformização de interpretação de lei com fundamento na Lei 12.153/2009, confira-se este precedente:
+ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, E 19 DA LEI N. 12.153/09. SERVIDORA PÚBLICO DO ESTADO DO PARANÁ. PRETENSÃO DE COMPLEMENTAÇÃO DE PROVENTOS DE APOSENTADORIA. PARIDADE. EC N. 20/1998. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUE ATINGE O PRÓPRIO FUNDO DE DIREITO. INOCORRÊNCIA. APLICABILIDADE DA SÚMULA N. 85/STJ. PEDIDO DE UNIFORMIZAÇÃO PROVIDO.
+I - No âmbito do microssistema dos Juizados Especiais da Fazenda Pública, do exame conjunto dos arts. 18, caput, §§ 1º e 3º, e 19, caput, da Lei n. 12.153/2009, verifica-se que o pedido de uniformização de interpretação acerca de questão de direito material concernente a lei federal é admissível quando: (i) houver divergência entre Turmas Recursais de diferentes Estados sobre controvérsia idêntica; e (ii) súmula desta Corte sofrer contrariedade por decisão proferida por Turma Recursal ou pelas Turmas de Uniformização de que trata o § 1º do art. 18 do referido diploma legal.
+ ..
+IV - Pedido de uniformização de interpretação de lei provido. (PUIL 1.191/PR, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 12/6/2019, DJe de 19/6/2019.)
+Ante o exposto, não conheço do presente pedido.
+Publique-se. Intimem-se.
