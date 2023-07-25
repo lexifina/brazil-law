@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MILITAR TEMPORÁRIO. INCAPACIDADE PARCIAL. PERDA AUDITIVA. DIREITO À READAPTAÇÃO DENTRO DO EXÉRCITO. IMPOSSIBILIDADE DE REFORMA. AGRAVO IMPROVIDO.
+1. Agravo de Instrumento manejado pela União no sentido de reformar a decisão que, em sede de1. cumprimento de sentença, determinou o cumprimento de obrigação de fazer, consistente em reincorporar o demandante e readaptá-lo para funções administrativas, no prazo de 30 dias. Nas suas razões recursais, alega a Agravante que houve um equívoco cometido pelo Juízo, pois não
+2. houve condenação da União em qualquer obrigação a ser cumprida (de fazer ou de pagar), pois o acórdão da Terceira Turma deu total provimento ao seu Apelo e à Remessa Oficial. Não prospera a irresignação da União, tendo em vista que o voto do Relator para Acórdão.
+3. expressamente determinou a readaptação do Soldado dentro do Exército para exercer atividades administrativas, dando provimento à sua Apelação por entender que tal readaptação era querida pelo Exército, sendo indevida a reforma (a qual fora concedida na sentença). Agravo de Instrumento improvido (fl. 681).
+Os embargos de declaração opostos foram rejeitados (fls. 709/712).
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 489, §1º, IV, 1.022, 502, 503, 504, 505, 507, 508, § 4º, e 509 do Código de Processo Civil.
+Argumenta que:
+(a) o Tribunal de origem foi omisso quanto à matéria discutida;
+(b) "resta clara a ocorrência da coisa julgada na espécie, vez que a questão suscitada nestes autos já foi amplamente debatida no bojo da ação nº 0007751.17.2011.4.05.8200, que concluiu pela improcedência do pedido de reintegração e reforma e qualquer tentativa de alteração das suas conclusões implica em patente ofensa à coisa julgada" (fl. 733);
+(c) houve um equívoco cometido pelo juízo, que ofende a coisa julgada.
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 736/742).
+É o relatório.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência (fls. 680/681):
+Compulsando os autos originários, verifica-se no acórdão exequendo (ID 4058200.4388448) que o Relator que proferiu o voto vencedor expressamente determinou a readaptação do autor dentro do próprio exército, nos seguintes termos:
+"Depreende-se, ainda, que se trata de um soldado forte, vigoroso, mas com deficiência auditiva, um ouvido perdido e outro bem comprometido. Tem as condições físicas para ser soldado, no entanto, não tem condições de ouvir, em uma guerra, o clique do fuzil.
+Desta forma, divergindo do e. Relator, reputo razoável a readaptação do soldado dentro do Exército, que quer continuar com o autor, não quer que o soldado seja reformado. Com a readaptação, ele poderá exercer as atividades administrativas.
+Por todo o exposto; DOU PROVIMENTO à apelação e à remessa oficial".
+Não procede, portanto, a irresignação da União, tendo em vista que o voto do Relator para Acórdão expressamente determinou a readaptação do soldado dentro do Exército para exercer atividades administrativas, dando provimento à sua Apelação por entender que tal readaptação era querida pelo Exército, sendo indevida a reforma (a qual fora concedida na sentença) - sem destaque no original.
+O Tribunal de origem reconheceu que com adaptações o soldado podia exercer as atividades administrativas. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
