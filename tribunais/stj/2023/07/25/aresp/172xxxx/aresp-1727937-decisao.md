@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por BIMBO DO BRASIL LTDA com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 2ª Região.
+Em suas razões, a parte recorrente aponta, preliminarmente, violação aos arts. 489, §1º, IV e 1.022 do CPC (negativa de prestação jurisdicional).
+No mérito, afirma que houve contrariedade aos arts. 7º, 9º, 10º do CPC; 76, 129 e 136 da Lei n. 11.101/2005; 124, 125, 133 e 174 do CTN; e 1142 do Código Civil.
+Contrarrazões ao recurso especial (e-STJ fls. 1724/1779).
+Sobreveio o juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição de agravo.
+É, no essencial, o relatório.
+Passo a decidir.
+O recurso não merece guarida.
+Inicialmente, registro que não se pode falar em violação ao art. 489, §1º, IV, do CPC, porquanto, ainda que se considere incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela parte.
+Alegava a parte recorrente, em suma, omissão quanto aos seguintes pontos: a) nunca houve a coligação da Bimbo com o Grupo Firenze, nem nunca existiu caracterização do grupo econômico de fato; b) não houve fundamentação apta a justificar a responsabilização patrimonial da empresa recorrente; c) impossibilidade de interpretação extensiva dos arts. 124 e 135 do CTN; d) ocorrência da prescrição intercorrente.
+O Tribunal local, todavia, enfrentou diretamente todas essas questões, na medida em que rejeitou a alegação de prescrição (e-STJ fls. 1557/1558); e externou as razões pelas quais entendeu ter ocorrido a aquisição do fundo de comércio, sucessão empresarial e confusão patrimonial (e-STJ fls. 1551/1562)
+Isto é, não houve omissão quanto ao ponto controvertido, mas apenas a conclusão foi contrária à tese advogada pela sociedade empresária.
+Quando houve a interposição dos aclaratórios, o que queria a parte embargante era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando aquele recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AgInt nos EDcl no AgInt no AREsp 1582376/SP, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 11/04/2022, DJe 18/04/2022; EDcl no AgInt no REsp 1896032/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 08/09/2021, DJe 13/09/2021.
+A propósito, é entendimento pacífico nesta Corte Superior que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio (EDcl no AgInt no AREsp n. 1.939.336/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022).
+Portan to, entendo inexistente a alegada negativa de prestação jurisdicional.
+No mérito propriamente dito, o recurso não pode ser conhecido.
+Registro, inicialmente, que a pretensão principal veiculada no recurso esbarra no óbice da Súmula 7/STJ.
+Para afastar a alegação da parte (sobre a prescrição e inocorrência de sucessão empresarial), a Corte Regional revisitou diversos fatos e provas colacionados aos autos, sendo certo que a adoção de conclusão em sentido oposto demandaria a incursão no mesmo acervo fático-probatório, providência inviável em sede de recurso especial.
+Além disso, ressalta-se que os arts. 7º, 9º, 10º do CPC; 76, 129 e 136 da Lei n. 11.101/2005 não foram prequestionados na origem, pelo que, quanto a esses, aplica-se as Súmulas 211/STJ e 282/STF.
+Lembre-se que "não configura impropriedade afirmar a falta de prequestionamento da matéria e afastar indicação de afronta ao art. 535 do CPC/73, uma vez que é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está o magistrado obrigado" (AgInt no REsp 1442970/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/02/2020, DJe 02/03/2020).
+Nesse mesmo sentido: STJ, AgRg no REsp 1.181.095/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 29/10/2014; AgRg no AREsp 508.461/SC, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 16/10/2014.
+Por fim, destaco que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ainda que assim não fosse, esta Corte Superior entende que a aplicação da Súmula 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (AgInt no AgInt no AREsp 1618014/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/08/2021, DJe 17/08/2021).
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
