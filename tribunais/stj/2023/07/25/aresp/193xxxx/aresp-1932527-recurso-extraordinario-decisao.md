@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto por WILLER SEVERIANO DA COSTA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.355-1.359):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+Não houve oposição de embargos de declaração.
+No recurso extraordinário às fls. 1.367-1.425, a parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, XXXV, LIV e LV e, especialmente, do art. 93, IX, da CF.
+Em síntese, argumenta que teria havido afro nta ao princípio da fundamentação das decisões judiciais, "visto que o Superior Tribunal vem se negando a receber e julgar o Recurso Especial interposto pelo Recorrente" (fl. 1.373).
+Em seguida, além de tecer digressões sobre o mérito do recurso especial, assim acrescenta (fls. 1.423-1.424):
+Além dos dispositivos acima transcritos, é importante destacar que a decisão ora combatida viola também os incisos XXXV, LIV, e LV do artigo 5º da Carta Magma, por negativa de prestação jurisdicional e ampla defesa, uma vez que o Recurso Especial interposto por esta empresa recorrente encontra-se com os requisitos necessários para a sua admissibilidade.
+Evidencia-se, ainda, a impossibilidade de manutenção das decisões combatidas, eis que a discussão posta em análise traz consigo nítida índole constitucional, sendo certo que a busca é exclusivamente pelo correto enquadramento de preceitos constitucionais violados de forma literal e direta, o que não atrai a necessidade de revolvimento de fatos e provas dos autos.
+ ..
+A negativa de prestação jurisdicional contraria diretamente diversos preceitos constitucionais, entre eles destacamos o devido processo legal que ora se tenta alcançar, vejamos a Carta Magna:
+ ..
+A Constituição ainda defende e determina que seja necessário o due process of law, inclusive para assegurar o Estado Democrático de Direito. Isto sem contar que o afastamento do devido processo legal fere o direito do cidadão constante na Carta Magna. O princípio do due process of law está presente no inciso LIV do art. 5º da CF/88, in verbis:
+ ..
+Por fim, é certo que a discussão em baila não está restrita ao âmbito infraconstitucional e, muito menos, processual, bem como as ofensas constitucionais existentes ocorrem de forma direta, conforme devidamente apontado, razão pela qual o r. despacho urge em ser reformado.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.436-1.441.
+É o relatório.
+A insurgência não tem como prosperar.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Portanto, a existência de fundamentação no acórdão recorrido que foi considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, ainda que a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+A propósito, foram declinados, no caso, os motivos pelos quais o agravo em recurso especial não foi conhecido, diante da ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 1.357-1.358):
+O Tribunal de origem inadmitiu o recurso especial por entender que as razões recursais encontram os seguintes óbices: ausência de violação do art. 1.022 do CPC, Súmula n. 284/STF, Súmula n. 7/STJ e, por fim, dissídio jurisprudencial não configurado.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência de todos os fundamentos, em especial a incidência da Súmula n. 7/STJ.
+É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual, o que não ocorreu no caso.
+Ressalta-se que, nos termos da jurisprudência do STJ, "a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial. (AgInt no AREsp 1790197/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1º.7.2021.)" (STJ, AgInt no AREsp n. 2.023.795/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/6/2022).
+Do mesmo modo, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (STJ, AgInt no AREsp n. 1.463.467/RJ, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/6/2020).
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Vale repisar que não foram opostos embargos de declaração contra o acórdão ora combatido por meio de recurso extraordinário.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, no acórdão impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, justamente porque não houve impugnação específica aos fundamentos da decisão que, na origem, inadmitiu o recurso especial, incidindo o óbice da Súmula n. 182/STJ.
+Assim, nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
