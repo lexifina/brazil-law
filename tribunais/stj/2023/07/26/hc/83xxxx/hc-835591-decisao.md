@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WILIAM OLIVEIRA VICENTE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado à pena de 3 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 388 dias-multa, como incurso no art. 33, caput c/c art. 40, V, da Lei nº 11.343/2006.
+A pena privativa de liberdade foi substituída por duas penas restritivas de direitos (fls. 278-289).
+Interposta apelação, foi dado provimento ao recurso ministerial para afastar o bis in idem na 1ª fase do processo dosimétrico, a aplicação do redutor do tráfico privilegiado e a pena alternativa, aumentando-se a reprimenda para 5 anos de reclusão e 500 dias-multa, mantendo-se o regime inicial fechado.
+Opostos embargos de declaração pelo Ministério Público, foram acolhidos para sanar a omissão quanto ao cômputo da causa de aumento, totalizando a pena do paciente em "05 anos e 10 meses de reclusão e 583 dias- multa no valor unitário mínimo em regime fechado" (fl. 301).
+A impetrante sustenta, em suma, que o paciente está sofrendo constrangimento ilegal em razão do afastamento da causa de diminuição de pena descrita no § 4º, do art. 33 da Lei 11.343/06. Afirma que o paciente é primário, não tem maus antecedentes, não havendo prova que integre organização criminosa.
+Requer, assim, a concessão da ordem para seja reconhecida a incidência da causa especial de diminuição de pena no crime de tráfico, em seu patamar máximo.
+O pedido liminar foi indeferido às fls. 326-327.
+Informações prestadas às fls. 333-335.
+O Ministério Público Federal, às fls. 341-346, manifestou-se pela extinção do feito sem resolução de mérito, mas com a concessão da ordem.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração o reconhecimento da causa especial de diminuição no crime de tráfico de drogas, em seu patamar máximo.
+Cumpre registrar, inicialmente, que "o amplo efeito devolutivo da apelação autoriza o Tribunal estadual, quando instado a se manifestar sobre a dosimetria da pena, a realizar nova ponderação dos fatos e das circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, sem que se incorra em reformatio in pejus, desde que não seja agravada a situação do réu, exatamente como ocorrido na espécie" (AgRg no HC n. 811.250/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/5/2023, grifei).
+Ressalta-se, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, o parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Assinale-se, ainda, que a Terceira Seção deste Sodalício firmou o entendimento de que, a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesse sentido: AgRg no AREsp n. 2.296.168/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/5/2023 e AgRg no AgRg no AgRg no AREsp n. 2.108.796/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2022.
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado, tão somente, com base na quantidade de droga apreendida, a saber, " ..  é de ser excluída a da 1ª fase, e mantida na 3ª fase, com a motivação de que a expressiva quantidade de drogas, está a conduzir, ao agente que se dedica a atividade criminosa, impedindo a aplicação da causa de diminuição especial, o que se arreda, inclusive a pena alternativa, mantido o regime prisional." (fl. 298).
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06.
+Passo, assim, ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos de reclusão e 500 dias-multa (fl. 39).
+Na segunda fase, a reprimenda permaneceu inalterada.
+Na terceira fase, preservo a fração conde 1/6 em razão da causa de aumento descrita no art. 40, V, da Lei de Drogas, para fixar a pena provisoriamente em 5 anos e 10 meses de reclusão. Por fim, reduzo a pena em 1/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, alcançando a reprimenda o total definitivo de 3 anos, 10 meses e 20 dias de reclusão e 388 dias-multa.
+No ponto, abro um parêntese para destacar que, segundo os autos, foram apreendidos com o paciente " 1.885g de maconha" (fl. 295). Como tal vetorial não foi considerada quando da fixação da pena-base, justifica a modulação da causa especial de diminuição.
+De mais a mais, o regime prisional inicial deve ser o semiaberto, nos termos determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena e a integral favorabilidade das circunstâncias judiciais.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para fins de redimensionar a reprimenda do paciente para 3 anos, 10 meses e 20 dias de reclusão e 388 dias-multa, bem como fixar o regime prisional semiaberto, para o início do cumprimento da pena.
+P. e I.
