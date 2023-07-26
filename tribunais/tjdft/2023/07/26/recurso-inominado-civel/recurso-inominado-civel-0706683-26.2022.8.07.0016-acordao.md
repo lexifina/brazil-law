@@ -1,0 +1,78 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0706683-26.2022.8.07.0016RECORRENTE(S)MULTIPLAN ADMINISTRADORA DE SHOPPING CENTERS LTDA.RECORRIDO(S)BRENDA CREVANIL BARRETO DA SILVARelatoraJuiza MARILIA DE AVILA E SILVA SAMPAIO
+Relatora Designada Juiza SILVANA DA SILVA CHAVES Acórdão Nº1731365
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. QUEDA EM SHOPPING EM RAZÃO DE PISO MOLHADO. AFASTAMENTO DAS ATIVIDADES. FUNCIONÁRIA DE LOJISTA. CONSUMIDOR POR EQUIPARAÇÃO. PRELIMINAR DE INCOMPETÊNCIA REJEITADA. FORTUITO EXTERNO. ÁREA SINALIZADA. AUSÊNCIA DE SOCORRO ADEQUADO. DANOS MORAIS DEVIDOS. DANOS MATERIAIS INDEVIDOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1.               Insurge-se a ré/recorrente contra a sentença que a condenou ao pagamento de R$ 5.000,00 (cinco mil reais), a título de indenização por danos morais, e de R$ 3.792,09 (três mil, setecentos e noventa e dois reais e nove centavos), a título de indenização por danos materiais. Em síntese, no dia 11/01/2022, por volta de 23 horas, a recorrida, ao sair das dependências do Park Shopping, escorregou, em razão do piso molhado, causando-lhe queda e luxação no joelho esquerdo. A recorrente arguiu preliminar de incompetência, e, no mérito, sustentou: que o CDC não é aplicável ao caso; que não foi comprovada a ocorrência de lesão grave; a ausência de culpa do estabelecimento comercial; a existência de fortuito externo, porquanto a queda se deu em área externa do shopping que estava molhada em decorrência de chuva. Requereu a reforma da sentença para julgar improcedentes os pedidos iniciais.
+
+2.                Recurso próprio e tempestivo. Preparo devidamente recolhido (ID 45498634). Foram apresentadas contrarrazões (ID 45498640).
+
+3.                No presente caso, não há necessidade de perícia quando os fatos controvertidos, uma vez que estes podem ser esclarecidos à luz de outras provas, especialmente pelo exame da prova documental constante dos autos. Ademais, o Juiz é o destinatário da prova, cabendo indeferir as provas que se mostram inúteis à solução da demanda ou que sejam meramente protelatórias, conforme inteligência do art. 370, § único, do CPC. Preliminar de incompetência do Juizado Especial rejeitada.
+
+4.                A controvérsia deve ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei Federal nº 8.078, de 11 de setembro de 1990), pois o recorrente é fornecedor de serviço (shopping center) e a recorrida é consumidora por equiparação (funcionária de lojista), conforme previsão contida no art. 17 do CDC. A vítima de acidente de consumo equipara-se ao consumidor para efeito da proteção conferida pelo CDC.
+
+5.                Em relação aos fatos, restou comprovado que a recorrida, após cumprir a jornada de trabalho, por volta das 23h, sofreu queda ao sair do estabelecimento de responsabilidade da recorrente, ocasionando entorse no joelho esquerdo e danos a dois aparelhos celulares que a autora portava no momento da queda. A narrativa constante dos autos é incontroversa no sentido de que a queda ocorreu em área externa do estabelecimento comercial, embora seja próxima de uma das entradas.
+
+6.                A reunião das circunstâncias que envolveram o fato rompe o nexo causal entre a conduta do estabelecimento e o acidente. O evento ocorreu após o encerramento das atividades do centro comercial, na área externa do local (embora contígua), cujo acúmulo de água foi causado pela chuva (fortuito externo), sendo que no local havia a colocação de placas de aviso acerca do piso molhado. Embora conste a alegação de que a iluminação no local era fraca, tal fato é esperado em razão do encerramento das atividades e do horário do fato (por volta das 23h). Danos materiais indevidos.
+
+7.                Quanto aos danos morais, houve grave falha na prestação de socorro por parte dos brigadistas que atuam no estabelecimento e que tinham o dever de ter acionado o SAMU, ante a ocorrência de acidente que claramente demonstrava gravidade e que traria repercussões, uma vez que o joelho da vítima chegou a ser imobilizado no local, revelando que não se tratou de queda corriqueira e que ela demonstrava intensa dor.
+
+8.                O dever de assistência e prestação de socorro aos consumidores independe de dolo ou culpa em relação ao evento, ante a responsabilidade objetiva do estabelecimento comercial. No presente caso, restou configurada a falha na prestação do serviço, que atrai o dano moral. Restou claro o abalo psicológico e ofensa aos direitos de personalidade da recorrida, conforme bem fundamentado na sentença. O valor do dano moral arbitrado guarda proporcionalidade e razoabilidade em relação à situação narrada.
+
+9.                Recurso conhecido. Preliminar rejeitada. No mérito, recurso parcialmente provido para afastar os danos materiais. Danos morais mantidos.
+
+10.              Sem custas finais e honorários advocatícios, ante a ausência de recorrente vencido, consoante art. 55 da Lei 9.099/95.
+
+11.             A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARILIA DE AVILA E SILVA SAMPAIO - Relatora, GISELLE ROCHA RAPOSO - 1º Vogal e SILVANA DA SILVA CHAVES - Relatora Designada e 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E PROVIDO EM PARTE. PRELIMINAR(ES) REJEITADA(S). MAIORIA. VENCIDA A RELATORA. REDIGIRÁ O ACÓRDÃO A 2ª VOGAL, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 26 de Julho de 2023
+
+Juiza SILVANA DA SILVA CHAVESRelatora Designada
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - Relatora
+
+          Preliminar de incompetência. Não há necessidade de perícia quando os fatos controvertidos podem ser esclarecidos à luz de outras provas, especialmente pelo exame da prova documental. (Relator (a): ARNALDO CORRÊA SILVA ACJ20150410079143). No caso, não prospera a alegação da parte ré/recorrente acerca da imprescindibilidade da realização de perícia para solução da questão controvertida, porquanto esta pode ser dirimida através da apreciação do acervo probatório já existente nos autos, que se mostra suficiente para subsidiar a formação da convicção do julgador. Ademais, o Juiz é o destinatário da prova, cabendo indeferir de plano as que se mostram inúteis à solução da demanda ou que sejam meramente protelatórias, conforme inteligência do art. 370, § único, do CPC. Assim, constata-se que basta a análise da prova documental para resolução da demanda. PRELIMINAR REJEITADA.
+
+            Inicialmente, não conheço do recurso no que se refere à impugnação ao dano material, porque não foram deduzidas perante o juízo de origem, em que pese o réu tenha se manifestado nos autos antes da prolação da sentença. Há, portanto, indevida inovação recursal e, por conseguinte, supressão de instância. Preliminar de não conhecimento parcial suscitada de ofício e acolhida.
+
+            A controvérsia deve ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei Federal nº 8.078, de 11 de setembro de 1990), pois há a figura do fornecedor de serviço (shopping center) e a do consumidor equiparado, prevista no art. 17 do CDC, pois toda e qualquer vítima de acidente de consumo equipara-se ao consumidor para efeito da proteção conferida pelo CDC, abrangendo os chamados bystanders, na terminologia da common law, que são os terceiros que, embora não estejam diretamente envolvidos na relação de consumo, são atingidos pelo aparecimento de um defeito no produto ou no serviço.
+
+            O art. 14 do Código de Defesa do Consumidor estabelece que: O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos. § 1° O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais: II - o resultado e os riscos que razoavelmente dele se esperam. A controvérsia cinge-se em saber se houve rompimento do nexo de causalidade, porquanto a queda ocorreu em área externa do empreendimento. No entanto, pela análise das fotografias inseridas pela própria recorrente, nota-se que, a despeito de ser área externa, é contígua às dependências do Park Shopping, id 45498586 p. 2, cujo piso é escorregadio, estava molhado e sem qualquer advertência quando ao risco de queda. Observa-se, ainda, que foi permitida a saída da recorrida e de outros clientes do empreendimento, por acesso destinado a descarga de produtos destinados aos lojistas.
+
+            Assim, não havendo provas contundentes de que a área em que a recorrida caiu estava, no dia do evento danoso, iluminada, com placas indicativas de piso molhado e escorregadio, caracterizada está a responsabilidade da recorrente pelos danos advindos de sua omissão. Nessa toada, comprovada a existência dos danos materiais e morais e de suas extensões, impõe-se o dever de indenizar.
+A Senhora Juíza GISELLE ROCHA RAPOSO - 1º Vogal Com a divergênciaA Senhora Juíza SILVANA DA SILVA CHAVES - Relatora Designada e 2º Vogal p{text-align: justify;}
+Peço vênia à i. relatora para pronunciar-me de maneira divergente em relação ao voto apresentado.
+Conforme a contestação juntada aos autos em ID 45498585, foi dedicado um capítulo aos questionamentos do dano material requerido na inicial (capítulo 7), no qual todos os itens das despesas que fundamentaram o pedido foram objeto de questionamento (transporte, medicamentos, aparelhos celulares, exame de ressonância magnética).
+Dessa forma, entendo não ser o caso de desconhecimento de parte do recurso sob a fundamentação de inovação recursal. No ponto, acrescento, ainda, que o assunto foi novamente objeto de debate perante a primeira instância em sede de réplica à contestação (ID 45498594), ocasião em que a autora, inclusive, juntou novas provas com a finalidade de justificar a pertinência dos gastos discriminados a título de danos materiais, os quais requer o ressarcimento.
+Recebido o recurso em sua totalidade, passo a expor meu entendimento a respeito do mérito das alegações do recorrente e das contrarrazões ofertadas pela recorrida.
+A questão devolvida à análise nesta instância recursal refere-se, inicialmente, à preliminar de incompetência do Juizado Cível, ante a alegação de necessidade de perícia técnica. Em relação ao mérito, é questionada a inaplicabilidade do CDC ao caso e a inexistência do dever de indenizar os danos materiais e morais requeridos, sob o fundamento de ausência de conduta culposa ou dolosa, ativa ou omissiva do recorrente. Subsidiariamente, foram levantadas as teses de interrupção do nexo causal, ante a existência de fortuito externo; culpa exclusiva da vítima; ausência de falha na prestação do serviço; ausência de comprovação da extensão do dano material e inexistência de ofensa aos direitos de personalidade da recorrida.
+Adiro aos argumentos lançados pela i. relatora quanto à preliminar de incompetência, uma vez que é desnecessária a realização de perícia técnica para o deslinde da causa. Manifesto concordância também quanto à aplicabilidade do CDC ao caso em questão, uma vez que a recorrida se enquadra no conceito de consumidora por equiparação, conforme dispõe o art. 17 do CDC.
+Nesse ponto, entendo necessário adentrar à análise dos fatos noticiados nos autos. A recorrida, após cumprir a jornada de trabalho, por volta das 23h, sofreu queda ao sair do estabelecimento de responsabilidade da recorrente, ocasionando entorse no joelho esquerdo e danos a dois aparelhos celulares que a autora portava no momento da queda.
+A narrativa constante dos autos é incontroversa no sentido de que a queda ocorreu em área externa do estabelecimento comercial, embora seja próxima de uma das entradas. No dia do acidente havia chovido e a recorrida escorregou em uma das poças de água ocasionada pela chuva. O acidente aconteceu, ainda, após o encerramento das atividades do local. Na ocasião, constava placa de aviso de piso molhado, embora a iluminação fosse baixa.
+Em que pese o lamentável acidente sofrido pela recorrida, entendo que os danos materiais não são devidos, uma vez que a reunião das circunstâncias que envolveram o fato rompe o nexo causal entre a conduta do estabelecimento e o resultado danoso. O evento ocorreu após o encerramento das atividades do centro comercial, na área externa do local (embora contígua), cujo acúmulo de água foi causado pela chuva (fortuito externo) e em que havia a colocação de placas de aviso acerca do piso molhado. Ressalto que, embora conste a alegação de que a iluminação no local era fraca, tal fato é esperado em razão do encerramento das atividades e do horário do fato (por volta das 23h).
+Assim, não há como imputar a responsabilidade civil à recorrente em razão do acidente sofrido pela autora da causa.
+Lado outro, é inegável que houve grave falha na prestação de socorro por parte dos brigadistas que atuam no estabelecimento e que tinham o dever de ter acionado o SAMU, ante a ocorrência de acidente que claramente demonstrava gravidade e que traria repercussões, uma vez que o joelho da vítima chegou a ser imobilizado no local, revelando que não se tratou de queda corriqueira e que ela demonstrava intensa dor (fato que não foi objeto de controvérsia e que constou, inclusive, no relatório de ocorrência juntado pela recorrida – ID  45498588, pg. 6).
+O dever de assistência e prestação de socorro aos consumidores independe de dolo ou culpa em relação ao evento, ante a responsabilidade objetiva do estabelecimento comercial. No presente caso, restou configurada a falha na prestação do serviço, que atrai o dano moral.
+O dever dos brigadistas do local era ter acionado o socorro médico imediato, não sendo razoável a tese de que a trabalhadora, próximo da meia noite, teria preferido fazer uso de transporte de aplicativo para se locomover diretamente ao hospital por ser mais rápido ou fácil. Todas as narrativas ofertadas nos autos dão conta de uma pessoa que estava com a perna imobilizada e reclamando de muita dor, cabendo aos agentes habituados a atender emergências ter acionado o socorro cabível. Ademais, o depoimento do segurança do estabelecimento confirmou que a imobilização da perna foi realizada e que não ouviu falarem sobre chamar o SAMU (ID 45498620).
+Assim, entendo devidos e proporcionais os danos morais arbitrados em sentença, uma vez que resta claro o abalo psicológico e ofensa aos direitos de personalidade da recorrida, conforme bem fundamentado na sentença. O valor do dano moral arbitrado guarda proporcionalidade e razoabilidade em relação à situação narrada.
+Diante de todo o exposto, voto pelo conhecimento do recurso, rejeição da preliminar de incompetência do Juizado Especial Cível, aplicação do CDC ao caso, afastamento dos danos materiais e manutenção dos danos morais arbitrados em sentença.
+
+DECISÃO
+
+RECURSO CONHECIDO E PROVIDO EM PARTE. PRELIMINAR(ES) REJEITADA(S). MAIORIA. VENCIDA A RELATORA. REDIGIRÁ O ACÓRDÃO A 2ª VOGAL
