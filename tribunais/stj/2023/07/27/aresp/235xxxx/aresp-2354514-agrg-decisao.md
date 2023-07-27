@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por TSC TRANSPORTADORA DE CARGAS LTDA contra decisão monocrática da lavra da Ministra Presidente desta Corte, que não conheceu do recurso pelo óbice da Súmula n. 284 do STF.
+O agravante alega a existência de erro material na indicação do art. 109 em vez do art. 105 da CF.
+É o relatório. Decido.
+Compulsando-se os autos, verifica-se que procede a argumentação trazida no agravo regimental. Passa-se, então, ao reexame do recurso especial.
+A defesa aponta a violação do art. 131 do CPP, alegando que diante do excesso de prazo nas investigações, deve ser revogada a constrição do bem (embarcação "Dona Vilma", modelo: 600 FULL INTERMARINE / AZIMUT, inscrita na Capitania dos Portos de São Paulo sob o nº 4030243762)
+O TJSP manteve o indeferimento do pedido de restituição de bem apreendido pelos seguintes fundamentos:
+A Procuradora de Justiça, em seu parecer, apresenta, de maneira minuciosa, uma descrição dos fatos, que bem justificam a necessidade da manutenção da constrição sobre o bem, o que adoto como razões de decidir: "Com efeito, nos autos do inquérito policial de nº 2041710-80.2020.140215(processo nº 1504049-59.2020.8.26.0050), instaurado pela Polícia Civil do Estado de São Paulo para apuração de eventuais crimes de lavagem ou ocultação de bens, direitos ou valores, foi expedido mandado de busca e apreensão que resultou na apreensão da embarcação "DONA VILMA", modelo:600 FULL INTERMARINE /AZIMUT, inscrita na Capitania dos Portos de São Paulo sob o nº 403024376, pertencente a ora apelante.
+Ocorre que, embora demonstrada a propriedade da embarcação, não é o caso de restituição do bem neste momento. Em consulta aos autos do processo nº 1504049-59.2020.8.26.0050 é possível verificar que a Polícia Civil do Estado de São Paulo requisitou ao COAF o envio de relatório referente à movimentação financeira de diversas empresas, entre as quais a apelante, o que foi deferido pelo Magistrado a quo em 22 de fevereiro de 2022 (fls. 1289 dos referidos autos).
+Em 23 de maio de 2022, o Magistrado a quo determinou: "aguarde-se 30 dias, a vinda das informações sobre o andamento da cautelar de afastamento do sigilo bancário e fiscal" (fls.1352 daqueles autos).
+Nota-se, portanto, que o bem apreendido ainda interessa à persecução penal, considerando que os autos de origem encontram-se aguardando o término das investigações". (e-STJ fl. 195/196)
+Dispõe o art. 118 do CPP que antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo.
+No presente caso, como bem destacou o acórdão estadual, o bem ainda interessa ao processo não podendo cessar, neste momento, a constrição. Nesse sentido, o seguinte julgado: AgRg no AREsp n. 545.103/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/10/2015, DJe de 29/10/2015 e AgRg no RMS n. 68.825/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 17/6/2022.)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 260/261 e conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
