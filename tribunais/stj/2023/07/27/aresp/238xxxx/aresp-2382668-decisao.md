@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo em Recurso especial interposto por TRANS AM VEÍCULOS E SERVIÇOS LTDA e OUTROS, objetivando o conhecimento de recurso especial, que teve seguimento negado, quanto à pretensão relacionada à prescrição intercorrente, em razão de teses firmadas em precedentes qualificados (REsp 1.102.431/RJ e REsp 1.340.553/RS); e, por ausência de prequestionamento, não foi admitido quanto à pretensão relacionada à nulidade processual do ato citatório.
+Nas razões recursais, a parte considera que o tribunal de origem não poderia ter ingressado no mérito do recurso especial e que se equivocou ao inadmitir o especial, notadamente porque preenchidos os requisitos de admissibilidade e prequesitonada a matéria (fls. 766/792).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso não pode ser conhecido porque este Tribunal Superior, atento às regras do Código de Processo Civil, sedimentou entendimento segundo o qual não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão. Nesse sentido, entre outros: AgRg no AREsp n. 2.341.777/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023; AgInt no AREsp n. 1.955.129/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; AgInt no AREsp n. 2.126.013/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgInt no AREsp n. 2.243.742/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.
+Entretanto, embora seja questão vinculada ao tema da prescrição intercorrente, cumpre destacar, quanto à nulidade processual por ausência de citação, que o teor do acórdão recorrido revela mesmo a ausência de enfrentamento da matéria, uma vez que se limitou à seguinte fundamentação (fls. 543/644):
+Mantenho a decisão agravada pelos seus próprios fundamentos.
+Ressalto que a vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmodispositivo, que determina:
+Art. 1.021. (..) § 1o Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+Diante do exposto, voto por negar provimento ao agravo interno.
+Não obstante, a parte não opôs embargos de declaração e, por isso, não há como se conhecer do tema recursal, uma vez que não se pode ter por prequestionada a matéria, sequer implicitamente.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
