@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ERIKI RODRIGO SOUZA DIAS, em que se aponta como autoridade coatora o desembargador do TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO, que deferiu liminar em sede de medida cautelar inominada para atribuir efeito suspensivo ao RSE e decretar a prisão preventiva do paciente.
+Consta dos autos que a 3ª Auditoria de Justiça Militar Estadual/SP indeferiu o pedido de prisão preventiva do paciente (policial militar), aplicando-lhe medida cautelar de suspensão do exercício da função pública e de proibição de contato com qualquer pessoa ligada à investigação (fls. 78-80).
+Inconformado, o Ministério Público do Estado de São Paulo interpôs Recurso em Sentido Estrito (RSE) contra a referida decisão.
+Com o fim de atribuir efeito suspensivo ao RSE, o Ministério Público do Estado de São Paulo interpôs Medida Cautelar Inominada no Tribunal de Justiça Militar do Estado de São Paulo. O pleito foi analisado e deferido a fim de determinar a prisão preventiva do paciente, sob o amparo do artigo 254, "a" e "b", c.c. o artigo 255, "a", "b" e "e", ambos do Código de Processo Penal Militar (fls. 93-95).
+No presente writ, o impetrante alega ausência de fundamentação idônea na decisão que decretou a prisão preventiva do paciente.
+Defende que não foi trazida "nenhuma notícia de que o paciente tenha praticado algum ato que prejudique as investigações em curso ou que possa afetar a hierarquia e disciplina ou que possa continuar delinquindo, já que estava afastado do exercício de atividade policial, em que, em tese, se teria dado a prática dos delitos até então apontados: corrupção passiva e violação de segredo profissional".
+Requer, liminarmente e no mérito, seja relaxada/revogada a prisão preventiva do paciente, com ou sem medidas cautelares, sem fiança, no que lhe for mais favorável, e expedido o competente alvará de soltura, não se opondo ao restabelecimento do afastamento de sua função pública, suficiente para atender os interesses da justiça, conforme determinado pelo Juízo de primeiro grau da Justiça Militar do Estado de São Paulo - Autos 0800570-73.2023.9.26.0030.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem.
+Aplica-se à hipótese, por analogia, o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA N. 691/STF. MEDIDA CAUTELAR INOMINADA. EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. POSSIBILIDADE. ART. 244 C/C O ART. 9º, II, E, DO CPM. PRISÃO PREVENTIVA. MODUS OPERANDI DO DELITO. TEMOR CAUSADO À VÍTIMA E À TESTEMUNHA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Nos termos da Súmula n. 691 do STF, aplicável por analogia ao caso, não se admite, em regra, a impetração de habeas corpus contra decisão que indefere a liminar na origem, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+2. Conforme a jurisprudência desta Corte Superior, "é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva" (HC n. 485.727/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2019, DJe de 30/4/2019).
+3. Tendo o pedido liminar sido deferido na origem com a indicação de fundamentação concreta, destacando-se a existência de indícios de autoria e de materialidade, bem como do periculum libertatis, evidenciado no modus operandi do delito, praticado por policiais com ameaça a civil, bem como no temor causado à vítima e à testemunha, não há manifesta ilegalidade apta a justificar a mitigação da Súmula n. 691/STF.
+4. Agravo regimental improvido.
+(AgRg no HC n. 794.156/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. AÇÃO CAUTELAR INOMINADA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO EM SENTIDO ESTRITO. ORGANIZAÇÃO CRIMINOSA E EXTORSÃO QUALIFICADA. PRISÃO PREVENTIVA FUNDAMENTADA. PERICULOSIDADE SOCIAL. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+1. Prevalece o entendimento nesta Corte de que "É admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que determinou a soltura do Acusado.
+Inaplicável, ao caso, a Súmula n. 604 do Superior Tribunal de Justiça, que é específica ao proibir o uso do mandado de segurança como via de atribuição de efeito suspensivo a recurso criminal da Acusação" (HC 572.583/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/08/2020, DJe 19/08/2020). Precedentes.
+2. No caso, o presente habeas corpus foi impetrado contra decisão monocrática que deferiu o pleito emergencial postulado pelo Ministério Público, em sede de medida cautelar inominada em recurso em sentido estrito, restabelecendo de forma fundamentada a prisão preventiva do paciente, em razão da periculosidade social, evidenciada pela gravidade das ações imputadas e pelo risco de reiteração delitiva. Ausência de constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 649.652/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/3/2021, DJe de 8/4/2021.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, o desembargador relator destacou a extrema gravidade dos fatos imputados ao policial militar que, em tese, é acusado de fornecer informações sigilosas do policiamento ambiental a pescadores que atuam ilegalmente na região do Rio Aguapei - Salto Botelho, além de haver notícia da prática de reiterada corrupção passiva.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
