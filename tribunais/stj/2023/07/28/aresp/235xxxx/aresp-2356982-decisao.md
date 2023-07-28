@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por SEAN COUROS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. VALOR IRRISÓRIO. IMPENHORABILIDADE. PESSOA JURÍDICA.
+1. Tratando-se o executado de pessoa jurídica, o entendimento do STJ e deste Tribunal é no sentido de que o caráter irrisório do valor bloqueado, por si só, não justifica a sua liberação.
+2. A impenhorabilidade prevista no art. 833, inciso X, do CPC, não se aplica às pessoas jurídicas, porque a intenção do legislador é a de garantir a situação do pequeno poupador pessoa física.
+Quanto à controvérsia recursal, alega violação dos artigos 833, X, e 836, ambos do CPC, no que concerne à necessidade de reconhecimento da impenhorabilidade dos valores depositados em conta bancária em nome da recorrente, uma vez que existe previsão legal ressalvando esse montante, assim como o valor é irrisório frente ao montante pretendido na execução, já que será absorvido pelo pagamento das custas do processo, trazendo a seguinte argumentação:
+Como se vê, a proteção legal é de clareza solar e absoluta, na medida em que contrariamente ao que restou fundamentado pela decisão hostilizada, afigura-se plenamente justificável o pleito de liberação dos valores bloqueados em conta bancária em nome da Recorrente, porquanto são impenhoráveis nos termos do que estabelece o artigo 833, X, do CPC, inclusive porque destinados à manutenção da própria empresa Recorrente.
+Com efeito, impõe-se o afastamento da constrição judicial incidente sobre os valores de titularidade da empresa Recorrente, notadamente porque são inferiores a 40 (quarenta) salários mínimos, e inclusive frente ao valor do débito será integralmente absorvido pelo pagamento de custas da execução, cuja constrição também é vedada pelos termos do artigo 836, do CPC, verbis:
+ ..
+Diante disso, resta demonstrada as suscitadas infringências aos termos dos citados dispositivos legais. Devendo, pois, ser o presente Recuso Especial acolhido com o consequente reconhecimento da impenhorabilidade dos valores depositados em conta bancária em nome da Recorrente, nos moldes suscitados, mormente porque contrariamente ao entendimento do Acórdão em tela, trata-se efetivamente de valor irrisório frente ao montante pretendido pelo Agravado em sua demanda executiva (fls. 177/178).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Ao analisar o pedido liminar assim restou decidido:
+ ..
+Tratando-se o executado de pessoa jurídica, o entendimento do STJ e deste Tribunal é no sentido de que o caráter irrisório do valor bloqueado, por si só, não justifica a sua liberação.
+Neste sentido: AgInt no REsp 1.875.338, 1ª Turma, Rel. Ministro Benedito Gonçalves, j. 08-02-2021; AgInt no REsp 1.878.944, 2ª Turma, Rel. Ministro Herman Benjamin, j. 24-02-2021 e AG 5045562-31.2019.4.04.0000, 3ª Turma, Rel.ª Desembargadora Federal Vânia Hack de Almeida, j. 28-01-2020.
+Todavia, tratando-se o executado de pessoa física, a jurisprudência deste Tribunal, uniformizada na Súmula 108, estende a norma protetiva do artigo 833, X, do CPC para casos em que valores inferiores a 40 salários mínimos sejam mantidos pelo devedor pessoa física, em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, ressalvado eventual abuso, má-fé, ou fraude.
+Neste sentido: TRF4, AG 5010996-85.2021.4.04.0000, PRIMEIRA TURMA, Relator LEANDRO PAULSEN, juntado aos autos em 07/08/2021.
+No caso, trata-se de execução fi scal dirigida à pessoa jurídica, de forma que deve ser mantido o bloqueio de valores, ainda que ínfimos ou irrisórios.
+Sobre a impenhorabilidade do artigo 833, X, do CPC (pessoa jurídica) A alegada impenhorabilidade do art. 833, X, do CPC não é aplicável a valores depositados em conta de pessoa jurídica, eis que visa proteger o pequeno poupador, pessoa física.
+Nesse sentido: TRF4, AG 5010361-07.2021.4.04.0000, QUARTA TURMA, Relator RICARDO TEIXEIRA DO VALLE PEREIRA, juntado aos autos em 26/05/2021.
+Ante o exposto, indefiro o pedido de efeito suspensivo.
+Não tendo vindo aos autos novos elementos que justifiquem a alteração do entendimento anteriormente adotado, a decisão não merece reparos (fls. 165/166).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da contro vérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
