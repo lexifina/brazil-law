@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por GRAZIELE GRASSONE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROCESSUAL CIVIL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - DECISÃO DE PRIMEIRO GRAU QUE DETERMINA O PROCESSAMENTO DOS EMBARGOS SEM EFEITO SUSPENSIVO - AGRAVO INTERPOSTO PELA EMBARGANTE - ARTIGO 919, §1º, DO CÓDIGO DE PROCESSO CIVIL - POSSIBILIDADE DE SUSPENSÃO DA EXECUÇÃO, DESDE QUE GARANTIDO O JUÍZO E DEMONSTRADOS OS REQUISITOS PARA A CONCESSÃO DE TUTELA PROVISÓRIA - HIPÓTESES NÃO CARACTERIZADAS - DECISÃO MANTIDA - RECURSO DESPROVIDO
+Quanto à controvérsia, a parte recorrente alega divergência jurisprudencial do art. 919, §1º, do CPC, no que concerne à necessidade de atribuir o efeito suspensivo aos embargos à execução da recorrente, eis que tal efeito é cabível ainda que sem garantia do juízo, quando restar demonstrada a probabilidade do direito e o dano de difícil ou incerta reparação , trazendo a seguinte argumentação:
+O r. Desembargador do Juízo "a quo" entende que há necessidade da garantia do juízo nos embargos à execução, interpretando o artigo 919, §1º do Código de Processo Civil de forma restritiva:
+ ..
+Em todo o acórdão o desembargador não deprecia a relevância da fundamentação que justifica a concessão do efeito suspensivo:
+ ..
+Como demonstrado em sede de embargos e no próprio agravo, o recorrido não tem direito a receber nenhum valor, pois não trabalhou nas ações que estavam no contrato de honorários.
+Inclusive vale frisar que além da presente, existem mais duas execuções em que foram protocoladas pelo recorrido.
+Em uma delas (execução nº 1000273-81.2022.8.26.0004) em fase de agravo de instrumento (autos nº 2205850-51.2022.8.26.0000) o nobre desembargador deu provimento ao recurso da agravante resumidamente informando que seria necessário que o exequente/recorrido movesse ação de cobrança/conhecimento para que seja arbitrado o valor devido, se é que existe algum (probabilidade clara do direito da recorrente).
+Verifica-se assim, que há necessidade do efeito suspensivo, pois como será provado (e já foi provado em outra execução) o recorrido não 8 possui nada a receber, sendo certo que manter o bloqueio dos valores na conta corrente da recorrente (valores estes usados para sua subsistência) e autorizar o posterior levantamento (efeito ativo da execução) causou, causa e causará um dano irreparável.
+Salienta-se novamente que o acórdão debatido aqui, em nenhum momento informou que não há plausividade na fundamentação da recorrente e apenas não foi deferido o efeito suspensivo pela falta da garantia do juízo.
+Para o TJSP (acórdão debatido), possui o entendimento que sem a garantia do juízo, não é possível o deferimento do efeito suspensivo, como preconiza o próprio código de processo civil.
+Em contrapartida, passando para o cotejo analítico, o acórdão paradigma (Tribunal de Justiça do Mato Grosso do Sul - Agravo de Instrumento nº 1412636-47.2016.8.12.0000 - Campo Grande), possuí o mesmo entendimento da recorrente, qual seja, que existe sim, como medida excepcional, o deferimento do efeito suspensivo sem a garantia do juízo.
+ ..
+Para o relator cabe ao juiz singular, a requerimento do embargante, verificar se os requisitos foram preenchidos (a probabilidade do direito e o perigo de dano), quando da análise do efeito suspensivo.
+ ..
+Assim, temos interpretação distintas de tribunais regionais, sendo que um interpreta a norma de forma restritiva (TJSP) não sendo possível o deferimento do efeito suspensivo sem a garantia do juízo, independentemente da fundamentação jurídica e outro (TJMS) entende que há possibilidade do efeito suspensivo nos embargos à execução de forma excepcional, quando verificado probabilidade do direito e dano de difícil ou incerta reparação, que é o caso da recorrente (fls. 154-158).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.) ;
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
