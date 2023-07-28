@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por LAISA AFONSO CORREA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. REDIRECIONAMENTO DA EXECUÇÃO EM FACE DE CRÉDITO ORIUNDO DE PROCESSO QUE CORRE NOUTRA COMARCA. PENHORA NO ROSTO DE AUTOS. VIOLAÇÃO AO ART. 10 DO CPC. DECISÃO QUE NÃO SE CARACTERIZA COMO SURPRESA. AGRAVO CONHECIDO E NÃO PROVIDO SEM INTERESSE MINISTERIAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 9º e 10 do CPC, no que concerne à violação ao contraditório, uma vez que não foi dada oportunidade aos recorrentes para se manifestarem acerca da penhora no rosto de autos judiciais, trazendo a seguinte argumentação:
+Desde logo é oportuno referenciar que, ao contrário do delineado no acórdão guerreado, a eventual ciência da parte da tramitação do processo por si só não justifica a eventual prolação de decisão, sobre determinada questão ou aspecto processual, sem garantir a parte prévia oportunidade para ser ouvida.
+ ..
+Portanto, é manifesta a violação dos arts. 9 e 10 do CPC, na medida em que o contraditório efetivo fora notoriamente inobservado, não garantindo as Recorrentes a prévia manifestação e poder de influenciar na decisão jurisdicional.
+Ademais disso, importante referenciar que houve notório prejuízo a defesa, de sorte que, uma vez garantido o prévio contraditório demonstraria as Recorrentes que seria totalmente inviável a realização de constrição através de penhora de rosto, porque ilegal. (fls. 114/117).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Analisando os autos, constata-se a inocorrência de ofensa ao art. 10 do CPC, pois, a execução já vem se arrastando por muito tempo, devido à recalcitrância dos agravantes, sendo que o magistrado apenas determinou a penhora de crédito em processo que corre noutra Comarca.
+ ..
+Já havia nos respectivos autos pretensão resistida, não justificando a necessidade nova intimação para os agravantes se manifestarem, não se podendo falar em violação ao art. 10, 489 e 933 do CPC.
+Conforme relatado, a parte agravante diz que não seria caso de desconsideração da personalidade jurídica, posto que o agravado não cumpriu o art. 133 e 134 do CPC.
+De plano, constata-se que devem ser rejeitados os argumentos dos Agravantes, tendo em vista que há prova da recalcitrância em promover a satisfação da execução, movida pelo agravado, principalmente quando foram feitas várias tentativas de penhora on line, sem que ocorresse a devida garantia do juízo. Desta feita, o mero despacho que redireciona a execução para o crédito existente no processo que corre noutra Comarca, não é caracterizado como decisão surpresa (fls. 66/67).
+Tal o contexto , incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
