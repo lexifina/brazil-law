@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO AGUA E TERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. MULTAS ADMINISTRATIVAS. LAVRATURA EM NOME DA DISTRIBUIDORA DE COMBUSTÍVEL, POR CONTA DA AUSÊNCIA DE LICENCIAMENTO AMBIENTAL EM NOME DE POSTOS REVENDEDORES. ILEGITIMIDADE PARA RESPONDER PELA OMISSÃO. RESPONSABILIDADE AMBIENTAL ADMINISTRATIVA QUE POSSUI CARÁTER SUBJETIVO. NÃO COMPROVAÇÃO DE CO-AUTORIA OU SOLIDARIEDADE POR PARTE DA FORNECEDORA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 70 da Lei n. 9.605/1998; e 66 do Decreto n. 6.514/2008. Sustenta a responsabilidade solidária e objetiva da distribuidora de combustíveis pela falta de licenciamento ambiental do posto revendedor em razão do fornecimento do produto e da prestação de assistência técnica, trazendo a seguinte argumentação:
+Nota-se que os acórdãos recorridos estão fundamentados no entendimento de que responsabilidade administrativa por infração ambiental é sempre subjetiva, com apresentação de argumentos sobre aprova de dano ambiental e do nexo causal.
+Por conta disto, tangenciou o mérito da causa, concernente à responsabilidade solidária da recorrente a respeito de uma infração administrativa, não baseada em um dano propriamente dito, mas na ausência de licença ambiental para funcionamento.
+Não obstante, houve o prequestionamento com o julgamento dos embargos de declaração.
+Mesmo rejeitados, por força do artigo 1.025 do Código de Processo Civil, os embargos suscitaram o tema acerca da responsabilidade objetiva da recorrida, não diante de dano ambiental, e sim por falta do licenciamento.
+Ademais, o acórdão referente aos embargos de declaração explicitamente contém consideração acerca do artigo 66 do Decreto n. 6.514/2008.
+Consumado, portanto, o prequestionamento.
+Ainda no que concerne ao prequestiomanento, cabe lembrar que o Superior Tribunal de Justiça já reconheceu que o termo lei federal, para fins de interposição do recurso especial, também abrange os decretos de caráter geral, abstrato, impessoal e obrigatório, enfim, aqueles que têm natureza de lei em sentido material.
+O artigo 66 do Decreto Federal n. 6.514/2008 é exemplo de Decreto com tais qualidades.
+Enfim, completo o cenário de contrariedades à lei federal, como desrespeito ao artigo 70 da Lei n. 9.605/1998 e ao artigo 66 do Decreto Federal n. 6.514/2008.
+Como previsto no referido artigo 66, não apenas condutas lesivas materiais ao meio ambiente são infrações ambientais, mas, também, aquelas omissivas próprias, para usar uma denominação mais usada no âmbito do Direito Penal.
+Trata-se de infrações em que é dispensada alguma prova de dano material; a norma tipifica a atitude de não fazer algo que o ordenamento jurídico esperava fosse feito.
+Vale dizer, o Posto revendedor, independentemente de haver praticado algum dano, foi omisso em obter o licenciamento ambiental. É o que basta para sua responsabilidade e, de efeito, da recorrida, pois solidária no mesmo contexto normativo.
+A ilicitude administrativa de não obter licenciamento ambiental é uma obviedade. E a responsabilidade ambiental solidária, prevista no artigo 66 do Decreto Federal n. 6.514/2008, só pode ser objetiva.
+A recorrida é responsável solidária pela infração em face do previsto no artigo 66 do Decreto Federal n. 6.514/2008.
+Como verdade, sem a licença ambiental, contribuía para o funcionamento de serviço potencialmente poluidor. Sua relação comercial com os postos de combustíveis revendedores, que ostentam sua bandeira, inquestionável.
+Significa que todos (Ipiranga e postos), porque agiram em cooperação técnica e econômica algo que parece indiscutível  não prescindiam de licenciamento ambiental para operar no mercado de combustíveis.
+A recorrida, porque fornecia o produto e prestava assistência técnica; as revendedoras, por sua vez, porque viabilizavam a revenda do combustível aos consumidores finais.
+Eis porque foram contrariados os artigos 70 da Lei n. 9.605/1998 e 66 do Decreto 6.514/2008.
+A responsabilidade administrativa da recorrida, concomitante a dos Postos que revendiam seus combustíveis, devido à ausência de licenciamento ambiental, justificou a aplicação das multas ambientais (fls. 1.340-1.342).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Ora, como não há obrigação legal de fiscalização por parte da distribuidora, não se pode reputar presente a coautoria ou a pretensa obrigação solidária, porque a ausência do licenciamento não pode ser atribuída a suposto ato omissivo da distribuidora, quando tão somente os próprios postos revendedores têm que tomar essa iniciativa.
+Dessa forma, não há elemento subjetivo capaz de caracterizar a prática de infração ambiental por parte da distribuidora, porque falta a conduta, o dano e, portanto, o próprio nexo causal.
+ ..
+Assim é que, considerando que a apelada foi responsabilizada de forma objetiva pelas infrações listadas pelo órgão fiscalizador, devem mesmo ser afastadas as penalidades aplicadas e desconstituídos os débitos consubstanciados através dos títulos que aparelham a execução fiscal, confirmando-se a extinção da execução fiscal em apenso (fls. 1.299-1.300, grifo meu ).
+Aplicável mais uma vez, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
