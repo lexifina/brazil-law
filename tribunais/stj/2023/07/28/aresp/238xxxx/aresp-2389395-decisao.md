@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/09/2022.
+Concluso ao gabinete em: 05/07/2023.
+Ação: de obrigação de fazer ajuizada por BRENDA OLIVEIRA BRITO e OUTRO em face da agravante, visando a cobertura de cirurgia intrauterina para correção de mielomeningocele.
+Sentença: julgou procedente a demanda para condenar a agravante a custear a cirurgia realizada em hospital não credenciado, em caráter de urgência.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE. Ação para compelir a operadora a custear cirurgia intrauterina para correção de mielomeningocele. Argumento de que o procedimento prescrito à paciente não está assegurado pelo rol da Agência Nacional de Saúde(ANS). Demorados trâmites administrativos não podem deixar o doente descoberto, colocando em risco bens existenciais. Tratamento não experimental e fornecido normalmente no mercado nacional. Tratamento indicado por médico especialista. Moléstia coberta, de modo que tratamento eficaz e adotado por protocolos médicos e científicos não pode ser recusado pela operadora. Irretroatividade da Lei no. 14.307, de 3 de Março de 2022, que dispõe sobre a natureza taxativa do rolda ANS, a fatos pretéritos. Lei superveniente não pode apagar inadimplemento já consumado, nem converter ato ilícito em lícito, pena de ofensa ao princípio constitucional do ato jurídico perfeito. Alteração legislativa que determina ser de natureza taxativa o rol de procedimentos da ANS, mas, em contrapartida, cria célere procedimento para inclusão de novos medicamentos e procedimentos. Procedimento de atualização rápida do rol pendente de regulamentação pela ANS, de modo que não alcançada ainda a função de balanceamento entre direitos do paciente e equilíbrio do contrato objeto de alteração legislativa. Sentença mantida. Recurso improvido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 12, VI, da Lei 9656/98 e 54 do CDC. Além de negativa de prestação jurisdicional, sustenta que o reembolso de despesa realizada fora da rede credenciada deve ser parcial, limitado à tabela do plano de saúde.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC/15 residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca da limitação do reembolso de despesa realizada fora da rede credenciada.
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parte agravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CIRURGIA INTRAUTERINA.. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial conhecido provido.
