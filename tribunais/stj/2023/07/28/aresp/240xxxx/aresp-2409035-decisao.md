@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/10/2021.
+Concluso ao gabinete em: 14/7/2023.
+Ação: indenização securitária ajuizada por JULIVAL SOUZA DA CRUZ, ELISABETE DOS SANTOS DA CRUZ, RODOLFO FERREIRA DA SILVA, ROSA CLÉRIA MANOEL DA SILVA, NILZA RIBEIRO DA SILVA, MARIA BENEDITA MENDES DA SILVA, ROSENILDA APARECIDA ANANIAS, MANOEL ALBERTO VIEIRA e EUGÊNIO CÉZAR BARBOZA DE OLIVEIRA, em face de COMPANHIA EXCELSIOR DE SEGUROS e COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO.
+Sentença: julgou parcialmente procedentes os pedidos formulados pelos agravados para " ..  condenar as rés a pagar aos autores o valor de R$ 126.150,00, conforme apurado no laudo pericial, dividido conforme a tabela de fls. 634, montante a ser devidamente atualizado conforme a tabela prática do E. TJSP, desde a propositura da ação, acrescido de juros moratórios à taxa legal de 1% ao mês a contar da citação  .. " (e-STJ fl. 789).
+Acórdão: deu parcial provimento à apelação de COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO, nos termos da seguinte ementa (e-STJ fl. 1.142):
+SEGURO HABITACIONAL
+1 - RECURSO ESPECIAL CONTRA APELAÇÃO. Determinada a aplicação do prazo prescricional ânuo para a espécie. Após reexaminar a questão, esta Câmara entende a necessidade de reformar a decisão, aplicando-se o prazo prescricional ânuo, o que, entretanto, não interfere no direito de os autores receberem a indenização, posto que os danos são de caráter contínuo e permanente, não se podendo precisar a data a partir da qual ensejariam eventual indenização.
+2 - Agravo Retido da corré, COSESP - a) Caixa Econômica Federal que se manifestou no sentido de ausência de interesse no caso - b) Prescrição ânua. Acolhida a determinação do Colendo STJ, com espeque em precedentes (AgInt o REsp 1.420.961 e AgRg no AREsp 634.538), o que, entretanto, não altera o direito de indenização, posto que não restou demonstrado, na hipótese, a data que ocorreu o sinistro, sendo, portanto, impossível apontar com precisão o termo inicial para a contagem da prescrição - c) Ilegitimidade Passiva - A seguradora é parte legítima na lide, eis que há cobertura securitária vinculada ao financiamento - d) Carência da ação - Inocorrência - Desprovimento.
+3 - Preliminares das rés - a) Autores que são partes legítimas, ainda que cessionários - b) Inocorrência de cerceamento defensório - c) corré, Excelsior, que é parte legítima para figurar no polo passivo - Preliminares rejeitadas.
+4 - Apelação das rés - Pleito relativo à responsabilidade securitária por danos oriundos de vícios de construção ocorridos em imóvel popular financiado pelo SFH - Demonstração inequívoca da ocorrência de danos abrangidos pelo seguro - Indenização devida, com correção monetária a partir da data do laudo pericial - Recursos providos parcialmente.
+Recurso especial: alegam, além do dissídio jurisprudencial, violação aos artigos 1.022 do CPC/2015; e 1º da Lei n. 12.409/2011.
+Decisão de admissibilidade: não admitiu o recurso especial pela incidência das Súmulas n. 568/STJ e, por analogia, 282/STF.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nestes fundamentos: aplicação dos verbetes sumulares n. 568/STJ e, por analogia, 282/STF.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência, por analogia, da Súmula n. 282/STF.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, a Súmula n. 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no artigo 932, III, do CPC/2015.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da condenação (e-STJ fls. 783/790) para 15% (quinze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
