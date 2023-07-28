@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ERNESTO MARTINS PAMPLONA CORTE REAL NETO e VANIA AVELINA MADALENA MONVOISIN, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 27/02/2023.
+Concluso ao gabinete em: 26/06/2023.
+Ação: de execução de título executivo extrajudicial - instrumento particular de confissão de dívidas -, ajuizada por ALESAT COMBUSTIVEIS S.A, em desfavor dos recorrentes.
+Decisão interlocutória: rejeitou a exceção de pré-executividade apresentada pelos recorrentes.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelos recorrentes, apenas para afastar os honorários advocatícios arbitrados em desfavor dos executados. O acórdão foi assim ementado:
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - NULIDADE CITAÇÃO POR EDITAL - NÃO RECONHECIMENTO - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS IMPOSSIBILIDADE DE FIXAÇÃO - INTELIGÊNCIA DA SÚMÚLA 519 DO STJ. Reputa-se válida a citação por edital quando efetivada após frustradas as tentativas para a localização pessoal da parte ré, tal como se deu no caso dos autos, pelo que não há que se falar em nulidade da citação. Considerando o posicionamento firmado pelo Colendo Superior Tribunal de Justiça, quando do julgamento do Recurso Especial de nº 1134186 - RS, eleito como representativo de controvérsia, o qual restou consolidado pela Súmula 519, também do STJ, não é cabível a condenação em honorários advocatícios caso não acolhida integralmente a exceção de pré-executividade. No presente caso, dada a rejeição do referido incidente, com a determinação de prosseguimento do feito, mostra-se incabível a fixação de honorários advocatícios sucumbenciais neste momento (e-STJ fl. 535).
+Recurso especial: apontam violação do art. 256, § 3º, do CPC/2015, bem como dissídio jurisprudencial. Sustentam a nulidade da citação por edital, uma vez que não esgotados todos os meios de localização dos executados. Aduzem que não foram realizadas pesquisas nos sistemas conveniados à Justiça - tais quais o RENAJUD, INFOJUD e BACENJUD. Afirmam que a citação por edital é medida excepcional e que as diligências previstas no art. 256, § 3º, do CPC/2015 devem ser observadas, mesmo quando se tratar de ação de execução.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da nulidade da citação por edital (Súm. 568/STJ)
+Nos termos da jurisprudência desta Corte, a citação por edital somente tem lugar quando exauridas as tentativas de citação pessoal da parte demandada. Faz-se necessário, portanto, o esgotamento dos meios de localização do réu, sobretudo mediante pesquisas de endereços nos cadastros de órgãos públicos e de concessionárias de serviço público. Nesse sentido: AgInt no AREsp 2.277.739/SE, 4ª Turma, DJe 28/06/2023; REsp 2.026.482/RS, 3ª Turma, DJe 10/03/2023; EDcl no AgInt no AREsp 1.704.204/DF, 4ª Turma, DJe 17/10/2022; e REsp 1.828.219/RO, 3ª Turma, DJe 6/9/2019.
+O TJ/MG, contudo, ao decidir que não é razoável reconhecer a nulidade da citação por não terem sido solicitadas informações por meio dos sistemas conveniados - a exemplo dos RENAJUD, INFOJUD e BACENJUD - dissentiu do entendimento do STJ quanto à matéria.
+Diante da dissonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de reconhecer a nulidade da citação por edital promovida em nome dos executados.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CITAÇÃO EDITALÍCIA. EXCEPCIONALIDADE. PREVISÃO DO ART. 256, §3º, DO CPC/15. NECESSIDADE DE ESGOTAMENTO DAS DILIGÊNCIAS PARA A BUSCA DO DEMANDADO.
+1. Ação de execução de título executivo extrajudicial - instrumento particular de confissão de dívidas.
+2. Nos termos da jurisprudência desta Corte, a citação por edital somente tem lugar quando exauridas as tentativas de citação pessoal da parte demandada. Faz-se necessário, portanto, o esgotamento dos meios de localização do réu, sobretudo mediante pesquisas de endereços nos cadastros de órgãos públicos e de concessionárias de serviço público. Precedentes.
+3. Recurso especial conhecido e provido.
