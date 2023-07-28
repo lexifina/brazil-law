@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"EXECUÇÃO DE PENA. READEQUAÇÃO DA PENA EM FACE DE NOVO ENTENDIMENTO JURISPRUDENCIAL PREDOMINANTE. INDEFERIMENTO PELO JUÍZO DE ORIGEM. RECURSO DO APENADO. PEDIDO DE APLICAÇÃO DE NOVO ENTENDIMENTO JURISPRUDENCIAL ACERCA DO AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO NOS CRIMES DE FURTO QUALIFICADO. ACOLHIMENTO. PRECEDENTE QUALIFICADO FIRMADO PELO STJ NO JULGAMENTO DO TEMA 1087. CARÁTER VINCULANTE DO SISTEMA DE PRECEDENTES DO CPC. APLICAÇÃO RETROATIVA EM BENEFÍCIO DO RÉU. POSSIBILIDADE. INTERPRETAÇÃO EXTENSIVA. MAJORANTE AFASTADA. PENA REDUZIDA. RECURSO CONHECIDO E PROVIDO." (e-STJ, fl. 41).
+O Parquet aponta violação do art. 2º, parágrafo único, do Código Penal e d o art. 66, I, da Lei 7.210/84, alegando a impossibilidade de aplicação retroativa de precedente judicial como se lei em sentido formal fosse.
+Sustenta que a garantia da retroatividade da lei penal mais benéfica, prevista no art. 2º, parágrafo único, do Código Penal, não alcança precedentes judiciais, sobretudo quando não vigente ao tempo do trânsito em julgado da condenação. De tal modo, por não se tratar de lei em sentido formal, a operação realizada pelo TJPR acabou por extrapolar os limites do art. 66, I, da LEP, que permite apenas a aplicação retroativa de lei posterior que beneficia o apenado.
+Requer, assim, seja restabelecida a decisão singular do Juízo da Execução, a qual corretamente indeferiu o pleito formulado pela defesa do sentenciado de aplicação retroativa do Tema 1.087 do STJ (e-STJ, fls. 55-73).
+Com contrarrazões (e-STJ, fls. 99-105), o recurso especial foi admitido na origem (e-STJ, fl. 145-148).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento e provimento do recurso (e-STJ, fls. 161-167).
+É o relatório.
+Decido
+Sobre a controvérsia, "a jurisprudência do STJ é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Nesse sentido:
+" ..
+1. O entendimento desta Corte é no sentido de que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+2. No caso, correta a decisão do Tribunal de origem que não conheceu a revisão criminal, ante o não preenchimento dos pressupostos previstos no art. 621 do CPP. Verificado que a condenação transitou em julgado em 20/4/2021, e que o entendimento jurisprudencial desta Corte Superior, utilizado como paradigma, foi publicada apenas em 27/6/2022 por este Sodalício, não há que se falar em retroatividade do novo entendimento ao presente caso.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 797.839/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+" ..
+1. A mudança de posicionamento jurisprudencial posterior ao trânsito em julgado da decisão condenatória não serve de base para o ajuizamento de revisão criminal, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica.
+2. As hipóteses da revisão criminal encontram-se taxativamente previstas no art. 621 do CPP, e essa ação não cabe para reformar a sentença definitiva no ponto em que tratou da dosimetria da pena-base.
+3. Agravo improvido".
+(AgRg no HC n. 550.031/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/3/2020, DJe de 16/3/2020.)
+Ademais, vale salientar que nem mesmo no âmbito da revisão criminal esta Corte Superior tem admitido a aplicação do precedente qualificado, quando ao tempo do julgamento do recurso de apelação havia consenso entre as Turmas da Terceira Seção desta Corte Superior, como na hipótese dos autos, que trata acerca da aplicação da majorante do repouso noturno ao furto qualificado.
+A propósito:
+" ..
+1. Novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao Réu, não autoriza, por si só, a revisão do édito condenatório. Precedentes.
+2 . É certo que, em julgamento qualificado concluído em 25/05/2022 do REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, a Terceira Seção do Superior Tribunal de Justiça, em overruling, passou a compreender que a majorante do art. 151, § 1.º, do Código Penal é incompatível com a forma qualificada do delito de furto. Ocorre que, quando do julgamento da apelação (09/12/2021), havia consenso em ambas as Turmas da Terceira Seção deste Sodalício quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado. Correta a conclusão da Corte local, portanto, de que o pedido de revisional lá formulado não pode ser acolhido.
+3. Agravo regimental desprovido".
+(AgRg no HC n. 804.414/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+" ..
+II - Furto qualificado. Pedido de afastamento da causa de aumento de pena relativa ao repouso noturno. Com efeito, "este Superior Tribunal de Justiça que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de Revisão Criminal" (AgRg no HC n. 395.162/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 21/09/2017).
+III - Isto é: a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica.
+Agravo regimental desprovido".
+(AgRg no HC n. 782.558/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Com efeito, a aplicação das disposições contidas no art. 66, I, da Lei 7.210/1984 não alcança os casos de mudança de entendimento jurisprudencial, mas apenas as hipóteses em que lei posterior, de qualquer forma, favoreça o condenado.
+Assim, a tese firmada pelo colendo Superior Tribunal de Justiça no julgamento do REsp n. 1.888.756/SP (Rel. Min. João Otávio de Noronha, Terceira Seção, julgado em 25/05/2022, DJe de 27/06/2022 - Tema 1087), no sentido de que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)", não pode retroagir para alcançar fatos praticados anteriormente ao referido entendimento, pois precedentes judiciais não tem efeitos retroativos.
+No caso em apreço, consoante informado pelo Ministério Público do Estado do Paraná (e-STJ, fl. 72), o trânsito em julgado da sentença que condenou o recorrido como incurso no art. 155, §1º e §4º, do CP, ocorreu em 15/06/2021 e a Tese 1087, como visto, foi firmada pela Terceira Seção do STJ em 25/05/2022.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para restabelecer a decisão proferida pelo d. Juízo da Vara de Execuções Penais e Corregedoria dos Presídios da Comarca de Guarapuava/PR, que indeferiu o pedido de readequação da pena relativa à condenação penal pela prática do crime de furto qualificado nos autos de nº 0000813-78.2021.8.16.0031, mediante o afastamento da causa especial do aumento de pena relacionada ao repouso noturno.
+Publique-se. Intimem-se.
