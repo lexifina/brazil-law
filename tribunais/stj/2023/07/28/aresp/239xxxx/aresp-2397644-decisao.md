@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ERCÍLIA DE SOUZA COSTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA - PENHORA ONLINE E MENSAL DE BENEFÍCIO PREVIDENCIÁRIO ATÉ O PAGAMENTO DA DÍVIDA - CONSTRIÇÀO JUDICIAL CORRESPONDENTE AO PATAMAR DE 10% AUSÊNCIA DE PROVAS DE QUE O VALOR COMPROMETE A SUBSISTÊNCIA DO DEVEDOR PORCENTAGEM RAZOÁVEL E PROPORCIONAL MITIGAÇÃO DA REGRA DO ARTIGO 833, IV, DO CPC - INCIDENTE DE DEMANDAS REPETITIVAS (IRDR 14/TJMS) - ENTENDIMENTO DE ACORDO COM A JURISPRUDÊNCIA PACÍFICA DO STJ SOBRE O TEMA - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+I - Conforme decidido por este Sodalício nos autos de Incidente de Demanda Repetitiva n. 1403693-36.2019.8.12.0000/5000, admite-se a mitigação da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do Código de Processo Civil, como forma de garantir a satisfação da dívida não alimentar, limitada a 30% do salário, desde que a constrição não comprometa a subsistência do Devedor.
+II - No caso dos autos a penhora online e a constrição de 10% sobre o Benefício Previdenciário da parte Executada até a extinção da dívida, mostra-se razoável e proporcional, não demonstrando ser excessivo ou que venha a colocar em risco a subsistência da parte Devedora, ora Recorrente.
+III - Recurso conhecido e desprovido (fl. 374).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 833, IV, do CPC, no que concerne à impossibilidade de se proceder à penhora de benefício previdenciário, sob o fundamento de que estaria protegido por cláusula de impenhorabilidade, sustentando que o referido desconto prejudicaria a sua condição financeira. Aduz os seguintes argumentos:
+Primeiramente, vale relembrar que a penhora incide em beneficio previdenciário que possui caráter alimentar, necessário a sua subsistência e de seu esposo, sendo que já possui diversos empréstimos consignados e que tal desconto prejudica sobremaneira sua condição financeira, não possuindo qualquer outra verba de natureza alimentar.
+ ..
+Logo, restou cabalmente demonstrado que o valor penhorado se trata de provento de aposentadoria, incidindo, portanto, em situação de impenhorabilidade.
+Assim, conforme pacifico entendimento do Superior Tribunal de Justiça, estão protegidos pela cláusula de impenhorabilidade, sendo mitigado excepcionalmente em casos de débitos decorrentes de prestação de natureza alimentar, que não é o caso.
+ ..
+Logo, não se enquadrando na exceção é caso de desbloqueio do valor penhorado, em razão da impenhorabilidade (fls. 405).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+In casu, impõe-se consignar que a parte Agravante, em momento algum, logrou êxito em comprovar que a penhora poderá comprometer a sua própria subsistência ou de sua família, além da inexistência de outros bens, devendo, pois, prevalecer o principio da efetividade da execução.
+ ..
+Por tais motivos, a alegação de impenhorabilidade não se sustenta, por absoluta falta de provas de que a penhora online ou a constrição mensal de 10% do benefício previdenciário, possa causar prejuízo à própria subsistência da parte Devedora (fls. 377- 378, grifo meu ).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
