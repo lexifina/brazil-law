@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIFANNY LUSETH RAMOS ALVAREZ contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2097729-89.2023.8.26.0000).
+Infere-se dos autos que a paciente foi presa em flagrante, custódia convertida em preventiva, por suposta infração ao art. 157, §§ 1º e 2º, inciso II, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 111):
+Habeas Corpus - Roubo impróprio majorado pelo concurso de agentes - Pleito de revogação da prisão preventiva - Impossibilidade - Decisão fundamentada na demonstração dos pressupostos e requisitos autorizadores da custódia cautelar - Insuficiência das medidas cautelares alternativas - Substituição da prisão preventiva por prisão domiciliar a paciente que possui filho menor de doze anos de idade - Inadmissibilidade - Agente que praticou crime com violência e grave ameaça à pessoa, o que representa óbice à concessão do benefício - Inteligência do artigo 318-A, inciso I do Código de Processo Penal - Questões relacionadas ao mérito que não comportam exame nos estreitos limites do writ - Ordem conhecida parcialmente e denegada, na parte conhecida.
+Na presente impetração, a defesa alega, em síntese, não estarem presentes dos requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, porquanto não está demonstrado o periculum libertatis. Acrescenta que a gravidade do delito, por si só, não basta para justificar a aplicação da medida extrema.
+Sublinha ser a paciente primária, além de possuir residência fixa e um filho de 3 anos de idade que só conta com os seus cuidados.
+Sustenta, ainda, que a paciente faz jus ao regime domiciliar, nos termos do art. 318-A do CPP, ressaltando que não está clara se o crime foi cometido com uso de violência, pois "conforme narrativa da vítima, os roubadores tentaram fugir e ela conseguiu segurar a ora paciente, nesse momento ela apertou sua mão, sendo muito prematura cravar que estamos diante de um crime de roubo, sendo necessário análise dos sob o crime do contraditório" (e-STJ fls. 6/7).
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva da paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas ou, ainda, pelo regime domiciliar.
+Indeferida a liminar (e-STJ fls. 172/173) e prestadas as informações (e-STJ fls. 179/221), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (e-STJ fls. 225/228).
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação do mandado de prisão preventiva da paciente. Ocorre que, conforme informações obtidas no endereço eletrônico do Tribunal de origem, em 26/7/2023, foi concedida a liberdade provisória à ré.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Intimem-se.
