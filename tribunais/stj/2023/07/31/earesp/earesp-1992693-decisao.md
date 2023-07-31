@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ALDO MÁRIO DE FREITAS LOPES contra acórdão da Terceira Turma assim ementado (fl. 153):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO AGRAVO EM VIRTUDE INTEMPESTIVIDADE E DA AUSÊNCIA DE REGULARIZAÇÃO DA CADEIA DE PROCURAÇÕES DO PATRONO DA PARTE. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO NÃO PROVIDO.
+O embargante sustenta que seu agravo é tempestivo e que os "lapsos ocorridos no interregnos" entre os dies a quo e o dies ad quem estão comprovados nos autos (fl. 162).
+Também sustenta que, quanto à cadeia de procuradores, embora intimado, não procedeu à regularização no prazo de 5 dias, porquanto não há, no âmbito do STJ, norma interna que estabeleça que tal providência deva ocorrer em 5 dias. Sendo assim, o prazo deveria ser de 15 dias.
+Afirmou que há divergência com os EDcl no AgRg no Ag n. 1.090.116/R, julgado pela Quarta Turma, em que se concluiu que se impõe "a aplicação do artigo 76, § 2º, I, do Código de Processo Civil, segundo o qual não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização" (fl. 168).
+Pede, ao final, que sejam processados os presentes embargos de divergência e que seja "seja exercido, monocraticamente, o juízo positivo para dar provimento aos Embargos por esse e. Relator, dando-se provimento ao Agravo Interno em Agravo em Recurso Especial interposto para, ao final, dar seguimento ao próprio recurso especial, por ser medida de direito e da mais lídima" (fl. 169).
+É o relatório. Decido.
+Os presentes embargos de divergência não reúnem condições de conhecimento ante a ausência do necessário cotejo analítico, ou seja, não foi realizado o comparativo entre os julgados na forma do art. 266, § 4º, do RISTJ.
+É certo que, para o atendimento do requisito, não basta a mera transcrição de trechos esparsos e da ementa do julgado que a parte entende ser divergente. É necessária a demonstração analítica da divergência jurisprudencial por intermédio da transcrição dos trechos específicos dos acórdãos que configuram o dissídio, em comparação com o acórdão recorrido, com a clara indicação das circunstâncias que identificam ou assemelham os casos confrontados, o que torna viável a apreciação da divergência.
+Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. CUSTAS INICIAIS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. SÚMULA 168/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. A divergência não foi caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, é insuficiente à comprovação do dissídio jurisprudencial invocado.
+2. Ademais, ainda que a divergência fosse notória, esta Corte tem entendimento de que não há dispensa do cotejo analítico, a fim de demonstrar a divergência entre os arestos confrontados. Precedente.
+ ..  Agravo interno improvido. (AgInt nos EAREsp n. 261.239/MT, relator Ministro Humberto Martins, Corte Especial, julgado em 17/8/2016, DJe de 30/8/2016.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
