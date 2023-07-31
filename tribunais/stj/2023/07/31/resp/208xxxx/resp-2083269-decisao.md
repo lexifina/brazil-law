@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por NORCON ROSSI EMPREENDIMENTOS S/A, NORCON - SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A (EM RECUPERAÇÃO JUDICIAL) e SPE CONDOMÍNIO VILAS DO BOSQUE LTDA., com fundamento no art. 105, III, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Sergipe, em apelação, assim ementado (fl. 783):
+APELAÇÕES CÍVEIS  CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL  ATRASO QUE ULTRAPASSOU O PRAZO DE TOLERÂNCIA DE 180 (CENTO E OITENTA) DIAS  NORCON  EMPRESA EM RECUPERAÇÃO JUDICIAL QUE FAZ JUS A GRATUIDADE JUDICIÁRIA - LEGITIMIDADE PASSIVA DA NORCON ROSSI EMPREENDIMENTOS S/A  APLICAÇÃO DA TEORIA DA APARÊNCIA  MULTA MORATÓRIA PREVISTA NO INSTRUMENTO CONTRATUAL  INCIDÊNCIA NO PRESENTE CASO  POSSIBILIDADE DE CUMULAÇÃO COM VERBA INDENIZATÓRIA  DANO MORAL DEVIDO  SÚMULA 12 DO TJSE  FIXAÇÃO DO QUANTUM  RAZOABILIDADE  REDUÇÃO DO MONTANTE DE R$ 10.000,00 (DEZ MIL REAIS) PARA R$ 6.000,00 (SEIS MIL REAIS), DE ACORDO COM OS PARÂMETROS DESTA CORTE DE JUSTIÇA  JUROS DE MORA INCIDENTES SOBRE O VALOR DOS DANOS MORAIS  RELAÇÃO CONTRATUAL  APLICAÇÃO DO ART. 405 CC  FLUÊNCIA A PARTIR DA CITAÇÃO  RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS. REFORMA DA SENTENÇA. POR UNANIMIDADE.
+Os embargos de declaração opostos foram rejeitados (fls. 807-808).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes artigos: 98, caput, do CPC, defendendo a concessão dos benefícios da gratuidade da justiça em seu favor; e 186, 927 e 944 do CC, impugnando a existência de danos morais indenizáveis.
+Afirma que preenche os requisitos para a concessão da gratuidade de justiça. Sustenta que se encontra em recuperação judicial e não tem capacidade de arcar com as custas e despesas processuais.
+Aduz ainda que que o mero atraso contratual na entrega do imóvel não gera o dever de indenizar dano moral.
+Argumenta ainda que o acórdão recorrido diverge do entendimento do TJDFT e STJ sobre a existência de danos morais indenizáveis.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas à fl. 964 e o recurso especial foi admitido na origem (fls. 969-975).
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Consta do acórdão recorrido o seguinte (fls. 785-789):
+De início, registro que estando a Empresa Norcon em recuperação judicial devido a grave situação financeira e, ainda, considerando o elevado número de demandas existentes em face dela, defiro o pleito de gratuidade formulado no presente apelo, sob pena de estarmos a inviabilizar a sua defesa.
+ ..
+Compulsando os autos, verifico, no Compromisso de Compra e Venda de Imóvel firmado entre as partes, que o empreendimento deveria ter sido entregue até o mês de março de 2013, havendo previsão de um prazo de tolerância de 180 (cento e oitenta) dias.
+Todavia, não se sabe ao certo sequer foi, quiçá quando foi entregue o habite-se.
+No que se refere à multa, vale salientar que a referida cláusula penal tem natureza moratória, e não compensatória. Por conseguinte, não merece acolhida a afirmação das apelantes de impossibilidade de cumulação da citada multa com outra verba indenizatória pleiteada pela autora.
+ ..
+As apelantes insurgem-se, pois, contra a condenação ao pagamento de indenização por danos morais, argumentando que o atraso na entrega do imóvel . não enseja o dever de indenizar.
+Quanto ao citado ponto, tem-se que esta Corte de Justiça uniformizou seu entendimento a respeito do dano moral decorrente do atraso de entrega de imóvel nos autos do Incidente de Uniformização nº 201300125531, tal como se verifica da redação da Súmula nº 12 deste TJSE, verbis:
+ ..
+Segundo restou decidido, é devido dano moral na hipótese de atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, somente podendo ser afastado quando comprovada hipótese de caso fortuito ou força maior, o que não ocorreu nestes autos.
+Não há, pois, como afastar a condenação das acionadas ao pagamento da indenização respectiva, razão pela qual passo a analisar o pleito subsidiário de redução do quantum indenizatório de R$ 10.000,00 (dez mil reais) fixado pelo sentenciante.
+Na tarefa de fixar o montante da indenização pelo abalo moral suportado, compete ao magistrado, usando de bom senso, estimá-lo, visando à reparação da culpa por parte do réu, ao mesmo tempo em que deve dar um consolo aos autores pela certeza de que não ficou impune aquele que causou a sua dor.
+Embora não haja um critério pré-determinado na fixação do montante da reparação, ensina a doutrina que algumas circunstâncias devem ser observadas quando da quantificação, pautadas pelo binômio compensação ao lesado e sanção ao lesante. O importante é que esta Corte mantenha um certo critério na concessão de tais verbas, mediante a análise dos requisitos anteriormente referidos.
+ ..
+Deve-se ter em mente o princípio de que o dano não pode ser fonte de lucro. A indenização, não há dúvida, deve ser suficiente para reparar o dano, o mais completamente possível, e nada mais. Qualquer quantia a maior importará enriquecimento sem causa.
+Em relação à violação do art. 98, caput, do CPC, mantenho a concessão da gratuidade de justiça, vez que "jurisprudência do Superior Tribunal de Justiça reconhece a eficácia do benefício da gratuidade da Justiça para todos os atos processuais posteriores à sua concessão" (AgInt nos EDcl no RCD na ExSusp n. 187/SP, relatora Ministra Laurita Vaz, relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 20/2/2019, DJe de 7/6/2019).
+No tocante à ofensa aos arts. 186, 927 e 944 do CC, considerando os trechos do acórdão ora transcritos, o Tribunal local, instância soberana na análise das provas, concluiu que o atraso na entrega do bem imóvel pela recorrente gerou danos morais indenizáveis.
+Desse modo, para adotar conclusões diversas das que foram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial em face do óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A instância originária entendeu que, além do significativo atraso na disponibilização da unidade imobiliária, houve situação excepcional a demonstrar a efetiva ocorrência de ofensa moral, conclusão esta pautada nos aspectos fáticos do caso concreto.
+1.1. Verifica-se, assim, que reverter a conclusão do Tribunal local - para acolher a pretensão recursal, a fim de verificar a presença ou não dos elementos que configuram o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido. (AgInt no AREsp n. 2.229.909/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+1.1. No caso sub judice, o Tribunal de origem consignou expressamente o atraso na entrega do imóvel ter perdurado por mais de dois anos e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+1.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido. (AgInt no REsp n. 2.020.322/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+Nesse sentido: AgInt no AREsp n. 1.401.433/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/02/2020, DJe de 13/2/2020; e AgInt no AREsp n. 1.704.998/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/5/2021, DJe de 7/5/2021.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
