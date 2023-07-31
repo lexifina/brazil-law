@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZA CALDAS SANTANA e OUTROS contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão d o Tribunal de Justiça do Estado de Sergipe (Apelação Cível n. 202000721680) assim ementado (fl. 836 ):
+APELAÇÃO USUCAPIÃO CÍVEL ESPECIAL - URBANO - ARTIGO 183 DA CONSTITUIÇÃO FEDERAL E 1240 DO CÓDIGO CIVIL - PREENCHIMENTO DOS REQUISITOS AUTORIZATIVOS DA PRETENSÃO AQUISITIVA - ÔNUS DA PROVA DO AUTOR - ARTIGO 333, I DO CPC - PROVA DOCUMENTAL E TESTEMUNHAL - ANIMUS DOMINI, TEMPO NECESSÁRIO, TAMANHO DO BEM, LOCALIZAÇÃO NA CIDADE, ALÉM DE NÃO POSSUIR OUTRO IMÓVEL - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME.
+Nas razões do recurso especial, alegam os recorrentes divergência jurisprudencial no tocante à aplicação do art. 1.240 do Código Civil. Argumentam que não poderia ter sido decretada a usucapião no caso, em razão da ausência de posse originária do imóvel, uma vez que o recorrido foi residir no local em troca de favores à proprietária, caracterizando posse derivada.
+Requerem o conhecimento e o provimento do recurso para cassar o acórdão recorrido.
+É o relatório. Decido.
+Não obstante o recurso especial estar fundamentado nas alíneas a e c do art. 105, III, da Constituição Federal, observa-se que toda a argumentação baseia-se na divergência de entendimento entre tribunais. Assim, o recurso será analisado somente com relação à alínea c.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos nos § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
