@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TANGARA INCORPORADORA LTDA. contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: não ficou demonstrada a alegada vulnerabilidade dos dispositivos arrolados; e incidência da Súmula n. 7 do STJ..
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2181798-25.2021.8.26.0000) assim ementado (fl.128):
+AGRAVO DE INSTRUMENTO. Tutela de urgência deferida para autorizar a retomada do imóvel. Pretensão à revogação. Compromisso de compra e venda de imóvel. Cláusula resolutiva expressa, por si só, não autoriza a rescisão automática do contrato. Ausência dos requisitos previstos no artigo 300, do Código de Processo Civil. Decisão reformada. Recurso provido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 32 da Lei n. 6.766/1979 e 474 do Código Civil bem como divergência jurisprudencial com o entendimento do Superior Tribunal de Justiça.
+Argumenta o seguinte (fl. 138, destaquei):
+O fundamento adotado na r. decisão atacada de que não estão presentes os elementos previstos no artigo 300, do Código de Processo Civil não procede, haja vista que ficou comprovada a inadimplência e a regular constituição em mora dos recorridos, e, assim, era imperiosa a aplicação dos dispositivos legais acima mencionados e que foram violados.
+Requer o conhecimento e provimento do recurso a fim de "restabelecer a liminar concedida em primeira instância, reintegrando-se a ora recorrente na posse do imóvel, por ser medida de direito e justiça" (fl. 142).
+É o relatório. Decido.
+O recurso não deve prosperar.
+No presente caso, a Corte de origem decidiu no seguintes termos (fl.129):
+De acordo com o artigo 300, do Código de Processo Civil, para a concessão da tutela de urgência de natureza antecipada é imprescindível a demonstração da existência de elementos que evidenciem, cumulativamente, a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+A posse dos recorrentes está ampara em contrato de compromisso de compra e venda de imóvel.
+A existência de cláusula resolutiva expressa, por si só, não determina a rescisão automática do contrato e nem autoriza a imediata reintegração de posse.
+Há necessidade de prévia manifestação judicial acerca da rescisão do compromisso de compra e venda do imóvel, para que ocorra a resolução do contrato.
+Quanto à suscitada violação dos arts. 32 da Lei 6.766/1979 e 474 do Código Civil, verifica-se que os referidos dispositivos não foram objeto de debate pelo Tribunal a quo e sequer verificou-se a oposição dos embargos de declaração, de modo que não houve o indispensável prequestionamento.
+Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+De acordo com a reiterada jurisprudência do Superior Tribunal de Justiça, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A matéria referente aos arts. 884 do CC/2002 e 503 do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+ ..
+4. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.052.990/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. PERDA DE OBJETO. SUPERVENIENTE PROLAÇÃO DE SENTENÇA NO FEITO ORIGINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO PROVIDO
+PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+4. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência, por analogia, das Súmulas 283 e 284 do STF.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial. (AgInt no AREsp n. 2.028.056/PE, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/9/2022.)
+Ademais, incide a orientação do STJ de de que não se admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância, salvo quanto às normas que disciplinam os requisitos ou o regime da tutela de urgência, hipótese que não é a dos autos.
+Incide na espécie, por analogia, a Súmula n. 735 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO AUTÔNOMA DE ANULAÇÃO DE ARREMATAÇÃO C/C ANULAÇÃO DE HIPOTECA. PEDIDOS DE SUSPENSÃO TEMPORÁRIA DOS EFEITOS DA ARREMATAÇÃO, DE REINTEGRAÇÃO DE POSSE NO IMÓVEL E DE AVERBAÇÃO DA AÇÃO NA MATRÍCULA DO BEM. MEDIDA CAUTELAR DEFERIDA. REFORMA EM AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL CONTRA DECISÃO LIMINAR. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA N. 735 DO STF POR ANALOGIA. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+3. Agravo interno provido. (AgInt no AREsp n. 2.177.076/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/5/2023, REPDJe de 15/06/2023, DJe de 14/6/2023, destaquei.)
+Cito ainda os seguintes precedentes nesse sentido: AgInt no AREsp n. 2.245.946/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023; AgInt no AREsp n. 2.245.165/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023; AgInt no AREsp n. 1.532.120/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023; e AgRg no Ag n. 658.931/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/8/2011, DJe de 31/8/2011.
+Consoante já ressaltei no julgamento do AgInt no AREsp n. 2.177.076/MT (Quarta Turma, julgado em 16/5/2023, DJe de 15/6/2023), é assenta a jurisprudência do Superior Tribunal de Justiça de que as tutelas provisórias de urgência são conferidas ou não com base na cognição sumária e mediante juízo de verossimilhança. Não representam, portanto, pronunciamento definitivo sobre o direito reclamado, podendo ser modificadas a qualquer tempo e devendo ser confirmadas ou revogadas quando proferida decisão definitiva.
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Isso porque, consoante dispõe o art. 105, III, da Constituição Federal, o recurso especial somente deve ser interposto para atacar as causas decididas pelos tribunais regionais federais ou pelos tribunais de justiça em última instância.
+Por fim, no tocante à pretensão recursal fundada na alínea c do permissão constitucional, o STJ firmou o entendimento de que a falta de prequestionamento do tema apresentado como divergente impede o conhecimento da insurgência em relação ao dissídio jurisprudencial.
+A esse respeito: AgInt nos EDcl no REsp n. 1.817.608/SE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023 e AgInt no AREsp n. 1.332.962/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/2/2019, DJe de 14/2/2019.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
