@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo UNIMED NORDESTE RS SOCIEDADE COOPERATIVA DE SERVIÇOS MÉDICOS LTDA. com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de execução de título extrajudicial de termo de ajustamento de conduta (TAC).
+O julgado foi assim ementado (fl. 125):
+Agravo de instrumento. Seguros. Plano de saúde. Execução de título extrajudicial. Termo de ajustamento de conduta. Possibilidade de estabelecimento de multa por descumprimento. Multa prevista no TAC. Comprovada a notificação extrajudicial acerca do descumprimento, nos termos previstos no ajuste. Agravo de instrumento não provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, a parte aponta ofensa aos arts. 165, 468, 535, I e II, 572 e 614, III, do CPC de 1973.
+Afirma que o Tribunal de origem foi omisso ao não se manifestar a respeito dos seguintes pontos: a) a intimação de seu representante legal não foi pessoal; e b) a multa foi fixada em relação a período expressamente excluído do termo de ajustamento da conduta.
+Argumenta ainda o seguinte (fl. 158):
+O aresto que julga o agravo, ao dizer que não há fixação de multa para cumprimento de cláusula do termo antes de setembro de 2009, omite a análise da decisão agravada que expressamente diz o contrário. Se omissão não houver, a decisão é obscura, outro motivo pelo qual embargos devem ser acolhidos, porquanto diz o acórdão exatamente o contrário do que efetivamente disse a decisão que por ele foi confirmada.
+Sustenta que a notificação encaminhada não foi dirigida ao representante, contrariamente ao que prevê cláusula expressa do ajuste.
+Pontua que o acórdão recorrido, ao aludir à questionada inexistência de notificação hábil a ensejar a execução do TAC, referiu-se ao documento recebido por empregada da operadora, que não o fez chegar ao conhecimento do representante legal.
+Alega que a recorrida não comprovou ter sido realizada a notificação a fim de que fosse cobrada a multa prevista no ajuste, pois aquela que foi encaminhada não foi dirigida ao representante legal da Unimed.
+Aduz que a cobrança da multa dependia de condição suspensiva não verificada, ou seja, da intimação pessoal do representante legal, bem como da oportunidade de defender-se, o que não ocorreu.
+Requer o provimento do recurso para que seja anulado o acórdão e devolvidos os autos par a o suprimento das omissões levantadas.
+As contrarrazões foram apresentadas às fls. 171-207.
+Admitido o apelo extremo (fls. 209-212), os autos ascenderam ao Superior Tribunal de Justiça.
+Parecer do Ministério Público Federal às fls. 228-230.
+É o relatório. Decido.
+De início, impõe-se ressaltar que o recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2 do STJ).
+O recurso não reúne condições de prosperar.
+A controvérsia diz respeito à efetivação de notificação acerca do cumprimento de termo de ajustamento de conduta firmado entre a recorrente e a recorrida.
+Do acórdão extrai-se que referido termo diz respeito ao estabelecimento de limitação do reajuste de faixa etária em contratos não regulamentados, com o compromisso de limitação ao percentual de 40%, em única oportunidade, para os 60 e 70 anos, com a restituição de valores a contar de setembro de 2009 e fixação de multa em caso de descumprimento.
+I - Art. 165, 468, 535, I e II, do CPC de 1973
+Afasta-se a alegada ofensa aos dispositivos legais em epígrafe, porquanto a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Na espécie, o Tribunal de Justiça do Estado do Rio Grande do Sul, considerando o previsto na cláusula 7ª do Termo de Ajustamento de Conduta, concluiu que fora comprovada a notificação extrajudicial acerca do descumprimento do ajuste. A respeito da abrangência do TAC, consignou que, no recurso, não há pedido para que haja a determinação de que o cumprimento da cláusula abranja todos os consumidores que sofreram aumento, inclusive antes de 2009. Confira-se trecho do acórdão que trata das referidas teses (fl. 128, destaquei):
+Da mesma forma que ocorre com as multas contratuais, a multa estabelecida no TAC, que nada mais é que um instrumento consensual, é plenamente exigível uma vez verificado o descumprimento, sendo que quanto à alegada não verificação da condição para a aplicação da multa cumpre ressaltar que, conforme cópia do Termo de Ajustamento de Conduta trazido aos autos, a multa ora estabelecida encontra amparo em sua cláusula 7a que assim estabelece ..
+Ao contrário do afirmado pela agravante, houve a efetiva notificação judicial acerca do descumprimento dos TAC, fls. 28/31,inexistindo nos autos demonstração de que a ora agravante tenha se desincumbido do ônus de demonstrar o efetivo cumprimento do acordado. Ademais, insta registrar que além de ter sido observado o direito à defesa acerca do descumprimento quando da notificação extrajudicial, a decisão agravada determinou a incidência da multa apenas após decorridos 10 dias da citação, dando nova oportunidade de defesa ao agravado, quando poderia ter sido postulada a multa desde a notificação extrajudicial, nos termos das cláusulas acima reproduzidas.
+Destaco que em que pese a agravante faça referências à abrangência do TAC, não há neste recurso qualquer pedido acerca da determinação de que o cumprimento da cláusula abranja todos os consumidores não regulamentados que, ao fazer 60 e 70 anos, sofreram aumento superior a 40%, mesmo que antes de setembro de 2009.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da intimação pessoal
+A Corte estadual, analisando o acervo probatório dos autos e a previsão da cláusula no ajuste firmado, concluiu que fora comprovada a notificação acerca do descumprimento do TAC, não tendo a parte se desincumbido de demonstrar a nulidade do ato. Além disso, registrou que fora observado o direito à defesa acerca do descumprimento, tendo a decisão agravada determinado a incidência da multa após decorridos 10 dias da citação, dando nova oportunidade de defesa à parte agravada.
+Em tal contexto, para infirmar as conclusões do aresto recorrido, seria preciso reex aminar cláusula contratual e provas, o que é inviável em recurso especial, ante o óbice das Súmulas n. 5 e 7 do STJ.
+III - Conclusão
+Ante o exposto, conheço em parte do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
