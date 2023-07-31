@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de reclamação ajuizada por VALTER LIMA DE AGUIAR contra julgado da TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DE SÃO PAULO.
+Narra o reclamante ter promovido, na origem, ação de revisão e ressarcimento de contrato de honorários com a sociedade Paulo Pastori Advogados Associados.
+Relata que o Juízo de origem julgou improcedente o pedido ao reconhecer a prescrição.
+Interposto recurso inominado, a Turma Recursal manteve a sentença em acórdão assim ementado (fl. 377):
+Pretensão de revisão de contrato firmado e recebimento de valores retidos a título de honorários advocatícios. Pedido julgado improcedente. Recurso inominado improvido.
+Argumenta que o acórdão reclamado confrontou a jurisprudência do STJ firmada no Tema repetitivo n. 610, por se tratar de contrato de trato sucessivo, bem como que o prazo prescricional se revigora a cada a ato.
+Requer a procedência da reclamação para ser anulada a decisão prolatada pela Turma Recursal, devolvendo-se os autos à origem.
+É o relatório. Decido.
+A presente reclamação não merece conhecimento.
+Conforme decidido pela Corte Especial do STJ no julgamento da QO no AgRg na Rcl n. 18.506/SP, "com o advento da Emenda Regimental n. 22-STJ, de 16/3/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte", passando a matéria a ser regulada pela Resolução STJ n. 3/2016.
+A Resolução STJ n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+Cumpre ressaltar que a Segunda Seção do STJ já se manifestou sobre a validade da Resolução STJ n. 3/2016 em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL. RESOLUÇÃO STJ/GP N. 3/2016.
+1. O art. 1º da Resolução STJ/GP n. 3 de 7 de abril de 2016 dispõe que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+2. A decisão do TJ/MG que declarou a inconstitucionalidade da Resolução n. 3/2016 do STJ não vincula esta Corte Superior, além do que, conforme bem salientado pelo Ministro Moura Ribeiro na decisão que proferiu na Rcl n. 36.419/MG (DJe 21/9/2018), "a declaração de inconstitucionalidade da Resolução nº 3/2009 do STJ se deu no citado julgamento da Arguição de Inconstitucionalidade nº 1.000.16.039708-0/001, em controle incidental pelo TJ/MG, de modo que somente vale entre as partes do referido processo e naquele caso concreto, permanecendo hígida, portanto, a sua vigência e observância".
+3. Agravo interno não provido. (AgInt na Rcl n. 37.170/MT, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/4/2019, DJe de 7/5/2019.)
+Em idêntico norte: AgInt na Rcl n. 39.961/AL, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 20/4/2021, DJe de 26/4/2021; AgInt nos EDcl na Rcl n. 40.605/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 1º/12/2020, DJe de 3/12/2020.
+Ademais, é firme a orientação jurisprudencial do STJ de que "a autorização do cabimento excepcional da reclamação pelo STF, no julgamento dos EDcl no RE n. 571.572BA, enquanto não instituídas as turmas de uniformização dos juizados especiais cíveis estaduais, não tem o condão de criar novo meio de impugnação das decisões proferidas pelas turmas recursais, tampouco instituir um incidente processual mais amplo do que o previsto na lei de regência" (RCD na Rcl n. 42.888/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 23/3/2022, DJe de 19/4/2022).
+Cumpre ressaltar, por fim, que o entendimento acima firmado também se aplica quando o ato reclamado for proferido pelo juízo de juizado especial. Nesse sentido, as seguintes decisões: Rcl n. 37.854/PR, relator Ministro Luis Felipe Salomão, DJe de 14/5/2019; e Rcl n. 38. 661/SP, relator Ministro Antonio Carlos Ferreira, DJe de 26/8/2019.
+Ante o exposto, não conheço da presente reclamação.
+Remetam-se os autos ao Tribunal de origem.
+Publique-se. Intimem-se.
