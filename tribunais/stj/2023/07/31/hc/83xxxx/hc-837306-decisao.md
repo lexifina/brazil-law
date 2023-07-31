@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Natielle Jaqueline da Silva Sasaki Celestino, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul.
+Consta dos autos (n. 0002381-16.2012.8.12.0045) que a paciente foi condenada pelo Juízo da 2ª Vara da comarca de Sidrolândia/MS, como incursa no art. 33 da Lei n. 11.343/2006, c/c art. 29 do Código Penal, à pena de 5 anos de reclusão, em regime semiaberto, e 500 dias-multa, em face da apreensão de 279 tabletes de maconha, com peso de mais de 157 kg (fls. 14/25).
+Em sede de apelação, a defesa pediu a absolvição e a ausência de provas suficientes para a condenação. A Segunda Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul negou provimento ao recurso (fls. 26/34). O julgado recebeu ementa no seguinte teor (fls. 26/27):
+APELAÇÃO CRIMINAL - TRÁFICO - ABSOLVIÇÃO - NÃO ACOLHIDA - AUTORIA E MATERIALIDADE DEMONSTRADAS - TRÁFICO PRIVILEGIADO NÃO EVIDENCIADO - GRANDE QUANTIDADE DE DROGA E CIRCUNSTÂNCIAS QUE DEMONSTRAM DEDICAÇÃO AO CRIME - REGIME SEMIABERTO MANTIDO - ART. 33, § 2.º, "B" E § 3.º, DO CÓDIGO PENAL - RECURSO IMPROVIDO.
+As provas colhidas nos autos são harmônicas para demonstrar sem sombra de dúvida a materialidade e autoria pelo delito previsto no art. 33, caput, da Lei de Drogas.
+A grande quantidade de droga apreendida aliada as circunstâncias em que o crime ocorreu indicam a dedicação ao crime, o que impede a aplicação da causa de diminuição do tráfico privilegiado, previsto no § 4.º, do art. 33, da Lei n.11.343/2006.
+Nos termos do art. 33, § 2.º, "b" e § 3.º, do Código Penal, o regime semiaberto fixado na sentença deve ser mantido.
+Recurso improvido, com o parecer.
+No presente writ, a defesa requer a aplicação da causa de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/2006).
+Decisão da Presidência indeferindo o pedido de liminar (fls. 38/39).
+Prestadas informações pelo Tribunal de Justiça de Mato Grosso do Sul (fls. 45/55).
+Parecer ministerial opinando pela denegação da ordem (fls. 61/64).
+É o relatório.
+Verifica-se na sentença que há constrangimento ilegal para a paciente. Não obstante a fixação da pena-base no piso mínimo, consta na sentença e no acórdão hostilizado que a causa de diminuição da pena não seria aplicada em razão da quantidade de drogas e do fato de a paciente ser escoltada por "batedores", o que levaria ao entendimento de dedicação à atividade criminosa.
+De fato, para a aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, o agente deve ser primário, ter bons antecedentes, e não se dedicar a atividades criminosas e nem fazer parte de organização criminosa. No entanto, o Magistrado afastou o art. 35 da Lei de Drogas por entender não estar comprovado o vínculo associativo ou que a paciente participasse de organização criminosa.
+Na hipótese dos autos, por ser a paciente primária e sem antecedentes, e por ter a pena-base sido fixada no piso mínimo, ou seja, a quantidade de drogas não foi utilizada para elevação da pena-base, mostra-se razoável que seja reconhecido o art. 33, § 4º, da Lei de Drogas, no entanto, em fração diversa da máxima de 2/3. Como a quantidade de drogas é bastante considerável (157,47 kg de maconha, acondicionados em 279 tabletes), deverá a pena ser reduzida com a fração moduladora de 1/6, quanto à incidência da causa de diminuição da pena. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 63 KG DE MACONHA. ALEGAÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL QUANTO À IMPOSSIBILIDADE DE RECONHECIMENTO DO PRIVILÉGIO. AUSÊNCIA DE ILEGALIDADE NA DECISÃO AGRAVADA. PENA FIXADA COM A REDUÇÃO NA FRAÇÃO DE 1/6, MODULADA EM FACE DA QUANTIDADE DE DROGAS. RAZOABILIDADE.
+1. O não reconhecimento do privilégio traz constrangimento ilegal ao paciente por ter sido negado, unicamente, pela quantidade de drogas. Ademais, foi feita a modulação, na fração de redução em 1/6, mostrando-se razoável a pena fixada.
+2. Agravo regimental improvido.
+(AgRg no HC n. 815.433/GO, de minha relatoria, Sexta Turma, DJe 21/06/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. QUANTUM DA CAUSA ESPECIAL DE REDUÇÃO (ART. 33, § 4º, LEI N. 11.343./2006). INCONFORMISMO. QUANTIDADE E NATUREZA DA DROGA. MODULAÇÃO DA FRAÇÃO DA REDUTORA EM 1/2. POSSIBILIDADE. CRITÉRIO UTILIZADO EM APENAS UMA ETAPA DA DOSIMETRIA.
+1. A simples presença dos requisitos do art. 33, § 4º, da Lei n. 11.343/2006 não gera direito à aplicação da fração máxima da minorante, que pode ser modulada dentro dos parâmetros mínimo e máximo previstos, desde que haja fundamentação idônea. Nessa modulação, é possível a utilização da quantidade e natureza das drogas apreendidas, desde que não tenham sido avaliadas em outra etapa da dosimetria, para que não haja bis in idem (AgRg no REsp 1.628.219/AM, da minha relatoria, Sexta Turma, DJe de 31/8/2017).
+2. Na hipótese, a aplicação da fração de redução da pena referente ao tráfico privilegiado em 1/2, na terceira etapa dosimétrica, foi fundamentada na quantidade e natureza da droga apreendida com o agravante - 98 frascos de lança-perfume e 221,580 g de maconha -, fatores esses não avaliados em outro momento da fixação da reprimenda.
+3. Ademais, esta Corte Superior de Justiça entende que, em home nagem ao princípio do livre convencimento motivado e tendo sido apresentado argumento concreto e específico para a escolha da fração de 1/6 de redução da pena, não há como esta Corte se imiscuir no juízo de proporcionalidade feito pelas instâncias ordinárias (AgRg no AREsp n. 1.927.059/CE, Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe 24/10/2022).
+4. Agravo regimental improvido.
+(AgRg no HC n. 798.958/GO, de minha relatoria, Sexta Turma, DJe 31/03/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO CONCOMITANTE. MINISTÉRIO PÚBLICO FEDERAL E MINISTÉRIO PÚBLICO ESTADUAL. POSSIBILIDADE. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cabível a interposição concomitante de recursos pelo Ministério Público Federal e pelo Ministério Público Estadual. Precedentes.
+2. Quanto à aplicação da minorante, a decisão agravada foi clara ao demonstrar que o afastamento do redutor, pela Corte estadual, foi justificado, especialmente, pela elevada quantidade de droga apreendida. Todavia: a) o montante de entorpecente localizado, isoladamente, não se presta a motivar a conclusão pela dedicação habitual ao tráfico de drogas, consoante precedentes do STJ; b) o Juízo singular, ao proferir sentença, havia declarado expressamente a ausência de provas indicativas da dedicação habitual da paciente ao comércio espúrio, bem como de que integraria organização voltada ao tráfico de drogas.
+3. Agravo regimental não provido.
+(AgRg no HC n. 813.067/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/06/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a Corte estadual, soberana na análise da matéria fática, ao apreciar as circunstâncias do caso concreto, entendeu haver razão para aplicar a causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, ao repelir a tese ministerial de afastamento do benefício com base na quantidade de cocaína. Logo, não teria sido demonstrada a dedicação do Recorrido às atividades criminosas ou que integrasse organização dessa natureza.
+2. Com efeito, a Terceira Seção do Superior Tribunal de Justiça, em 27/04/2022, no julgamento do HC n. 725.534/SP, de relatoria do Ministro RIBEIRO DANTAS, reafirmou o entendimento exposto no REsp n. 1.887.511/SP, no sentido de que a quantidade e a natureza da droga apreendida não permitem, por si sós, afastar a aplicação do redutor especial.
+3. Nesse contexto, para rever a conclusão, no sentido de que haveria dedicação às atividades criminosas, seria necessário o reexame de fatos e provas, o que não é possível em recurso especial, nos termos da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.813.520/GO, Ministra Laurita Vaz, Sexta Turma, DJe 11/07/2023)
+Nesses termos, a pena final da paciente passa a ser de 4 anos e 2 meses de reclusão e 416 dias-multa. Quanto ao r egime de cumprimento da pena, deverá permanecer o semiaberto, por ser a pena superior a 4 anos de reclusão.
+Ante o exposto, concedo a ordem de habeas corpus a fim de redimensionar a pena da paciente para 4 anos e 2 meses de reclusão, em regime semiaberto, e 416 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. 279 TABLETES DE MACONHA, COM PESO DE MAIS DE 157 KG. PEDIDO DE RECONHECIMENTO DO ART. 33, § 4º, DA LEI N. 11.343/2006. POSSIBILIDADE. FRAÇÃO MODULADORA DE 1/6. PACIENTE PRIMÁRIA E SEM ANTECEDENTES. AUSÊNCIA DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA.
+Ordem concedida nos termos do dispositivo.
