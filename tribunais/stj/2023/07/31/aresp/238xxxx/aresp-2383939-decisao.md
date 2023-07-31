@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANA MARIA PLETSCH NABHAN e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. INSUFICIÊNCIA DAS RAZÕES.
+Quanto à controvérsia, a parte recorrente alega violação do art. 871, I, do CPC, no que concerne à desnecessidade de avaliação judicial do bem ofertado para garantia da execução fiscal, pois houve a concordância da exequente acerca da estimativa feita pela executada, trazendo a seguinte argumentação:
+O acórdãos recorridos se fundamentam na necessidade de avaliação judicial para que se conceda o efeito suspensivo nos Embargos à Execução.
+Contudo, o Código de Processo Civil, ao prever que as avaliações de bens nas execuções serão realizadas por oficial de justiça, dispõe também as exceções dessa regra.
+O artigo 871 do mencionado dispositivo traz as hipóteses em que não serão realizadas as avaliações.
+ ..
+Da leitura do dispositivo, tem-se que na hipótese em que uma das partes estimar a avaliação do imóvel e a outra aceitar, não se procederá a avaliação do bem.
+Veja-se, ainda, que o legislador utiliza o termo "estimativa", o qual se trata de um valor aproximado do bem, não sendo necessária avaliação por oficial de justiça ou engenheiro, bastando o aceite da exequente.
+No caso em tela, os imóveis registrados nas matrículas n.º 4.841, 4.880, 4.629, 5.668, 9.154 e 6.126, todas do 1º Ofício de Registro de Imóveis de Cianorte/PR, foram avaliados em aproximadamente R$ 13.500.000,00 (treze milhões e quinhentos mil reais), conforme laudo juntado ao evento 12, "MATRIMÓVEL4", fls 21 e seguintes, em janeiro de 2021.
+À época, a divida não alcançava o montante de 10 milhões de reais, tendo um saldo remanescente de quase 4 milhões de reais. Em vista a isto, a União se manifestou no sentido de aceitar os bens como garantia da execução.
+ ..
+Carece de lógica a negativa de efeito suspensivo da execução, eis que, como já demonstrado, fora reconhecido por diversas vezes a garantia à execução pelos imóveis penhorados.
+Desta forma, requer-se seja julgado totalmente procedente o presente recurso para o fim de conceder o efeito suspensivo à Execução Fiscal n.º 5001721-55.2021.4.04.7003/JFPR, cessando a incidência de juros e mora e demais encargos moratórios, desde o aceite da União com relação à penhora dos bens (fls. 154-157).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Acresce que as questões trazidas pela parte embargante em suas razões de embargos de declaração não alteram essa conclusão. Com efeito, basta examinar a manifestação feita pela União (Fazenda Nacional), em resposta à nomeação dos bens imóveis à penhora, para perceber que o seu consentimento limitou-se ao acolhimento dos imóveis como garantia do juízo. A mera alegação da União (Fazenda Nacional), de que As avaliações havidas nos documentos juntados no evento 12, out4, fls. 21 e seguintes, por sua vez, apontam, em análise sumária, que a execução fiscal estaria garantida (cf. evento 28, PET1, fls. 2, da execução embargada), evidentemente não é equivalente ao aceite da estimativa dos valores feita pela embargante que dispense a avaliação oficial na forma do art. 871 do Código de Processo Civil (CPC), sobretudo porque a própria exequente expressa incerteza na suficiência dos bens para a garantia integral do juízo, a qual, de resto, é de ser dirimida por ocasião da avaliação oficial (fl. 134).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
