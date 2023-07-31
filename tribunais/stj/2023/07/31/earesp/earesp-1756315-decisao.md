@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por REGINALDO DE FRANÇA contra acórdão da Primeira Turma assim ementado:
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. RECURSO PROTELATÓRIO. MULTA. APLICAÇÃO.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo.
+3. A adição de teses não ventiladas no recurso especial caracteriza indevida inovação recursal, pois, conforme remansosa jurisprudência deste Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública, é "imprescindível a prévia irresignação no momento oportuno e o efetivo debate sobre os temas" (AgRg no AREsp 401.770/PI, Rel. Min. MARCO AURÉLIO BELLIZZE, Quinta Turma, DJe 12/11/2013), o que impede a apreciação da questão por esta Corte, sob pena de supressão de instância.
+4. O art. 1.026, § 2º, do CPC/2015 permite a aplicação de multa não excedente a dois por cento do valor atualizado da causa quando interpostos embargos de declaração reputados, fundamentadamente, manifestamente protelatórios.
+5. Embargos de declaração rejeitados, com imposição de multa no valor de 1% (um por cento) sobre o valor atualizado da causa.
+Sustenta o embargante que há divergência de entendimento em relação aos seguintes julgados:
+- Quinta Turma: AgRg no HC n. 719.059/SC, relator Ministro Jesuíno Rissato, DJe de 28/3/2022;
+- Quinta Turma: AgRg no REsp n. 749.019/MS, relator Ministro Arnaldo Esteves Lima, DJe de 10/5/2010.
+Defende, em síntese que, a mat é ria de ordem pública pode ser apreciada a qualquer tempo, assim como a decisão que subsiste baseada em erro material.
+No caso presente, a matéria teria sido trazida aos autos pela Petição n. 787208/2020. Alega que o juiz de primeira instância, de forma equivocada, concluiu por sua ilegitimidade ativa por, "supostamente, não ter ingressado por concurso público no cargo de Agente Fiscal (AF-1), o que, ao contrário, já estava sobejamente demonstrado nos autos" (fl. 1.819). Afirma que foi "nomeado através de concurso público, através da Resolução 5585 de 10/11/1980, publicada no Diário Oficial 921 de 11/11/1980 no cargo de Agente Fiscal AF-1" (fl. 1.819).
+Portanto, segundo argumenta, possui pleno direito de figurar como parte legítima para "executar os cálculos relativos ao seu direito reconhecido de percepção do prêmio de produtividade de que tratava a Lei Complementar nº 92/2002" (fl. 1.821).
+Pondera ainda que as decisões adotadas no processo são fruto do errôneo entendimento de que não preenchia os requisitos para figurar no polo ativo da execução e, assim, receber os valores a que tem direito.
+Assim, aduz que, "no caso vertente, consoante o parágrafo único do art. 278, do CPC, trata-se de erro material e, assim, entende-se que a decretação de nulidade deve ocorrer de ofício pelo próprio magistrado" (fl. 1.823), conforme o entendimento da Quinta Turma nos julgados indicados como paradigmas, segundo os quais o erro material pode ser sanado a qualquer tempo.
+Pede, ao final, o recebimento e processamento dos presentes embargos de divergência a fim de se reconhecer que o acórdão embargado "foi exarado em sentido diverso das decisões já declinadas pela c. 5ª. Turma desse e. STJ" (fl. 1.829).
+É o relatório. Decido.
+Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas com diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+No presente feito, o ora embargante afirma que houve equívoco na análise dos fatos conforme indicados ou provados, ou seja, o magistrado teria errado ao julgar, tratando-se de error in judicando.
+Isso não constitui matéria de ordem pública que possa ser suscitada a qualquer tempo. Na verdade, como consta do acórdão embargado, o que se busca nesta instância extraordinária é o pronunciamento sobre questão que nem sequer foi indicada no recurso especial.
+Tais aspectos já apontam a inexistência de similitude entre os casos confrontados, até porque, no AgRg no REsp n. 749.019/MS, paradigma indicado, já se debatia, na via especial, a questão da nulidade naquele caso, o que possibilitou a esta Corte adotar a solução jurídica que reputou mais equânime.
+Ademais, nestes autos, o recurso especial foi inadmitido, restringindo-se a discussão nesta Corte aos termos do art. 1.021, § 1º, do CPC de 2015.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, segundo o teor da Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada nesta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido. (AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020.)
+Também nos termos da jurisprudência do STJ, o confronto de teses jurídicas objeto dos embargos de divergência limita-se àquelas decorrentes do julgamento de recursos e de ações de competência originária. Não pode, pois, servir como paradigma julgado relativo a ação constitucional, tal como o AgRg no HC n. 719.059/SC (AgRg nos EAREsp n. 2.006.876/RS, relator Ministro Jesuíno Rissato, Terceira Seção, julgado em 26/4/2023, DJe de 9/6/2023).
+Por fim, a admissão dos embargos de divergência está condicionada à comprovação do dissídio jurisprudencial, por meio do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, inexistente na espécie. Registre-se que o ora embargante não se desincumbiu dessa demonstração.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
