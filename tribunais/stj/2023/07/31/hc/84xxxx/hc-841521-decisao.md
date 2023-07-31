@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de SANDRO DIAS COUTO, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que indeferiu o pedido de liminar formulado no HC n. 0729520-89.2023.8.07.0000 .
+Consta dos autos que o paciente encontra-se preso pela suposta prática dos crimes de furto mediante fraude e associação criminosa.
+No presente habeas corpus, o impetrante sustenta, em suma, a falta de fundamentação idônea da decisão que decretou a prisão preventiva e a ausência dos requisitos que autorizam a prisão cautelar nos termos do disposto no art. 312 do CPP. Além disso, alega a falta de contemporaneidade da prisão cautelar, pois "a conduta imposta ao Paciente, se limita, quer seja no decreto preventivo, quer seja no inquérito policial, em receber, através de uma transferência bancária para a empresa SANDER CONSTRUÇÕES, a quantia de duzentos mil reais, feita pelo investigado HERNANE, sendo esta realizada no dia 15.12.2022, ou seja, a quase um ano" (fl. 24). Por fim, aduz que o paciente é imprescindível aos cuidados de saúde e financeiros da sua genitora de 83 anos de idade.
+Requer, em pedido liminar e no mérito, seja revogada a prisão preventiva do paciente ou seja substituída por medidas cautelares diversa da prisão nos termos do art. 282 e 319 do CPP, ou, ainda, seja substituída a prisão cautelar por prisão domiciliar.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, há fundamentação suficiente para manter a decisão que indeferiu o pedido liminar na origem. A propósito, veja o seguinte trecho da decisão impugnada (fls. 62-63):
+Nos termos do relatório investigativo (ID 162488021, dos autos de origem), nos dias 30/08/2022 e 05/10/2022, H. A. O. realizou duas transferências da conta da empresa vítima para a conta de J. C., totalizando R$ 400.000,00. Nos dias 13/09/2022 e 05/10/2022, H. A. O. transferiu R$ 400.000,00 para a conta da empresa L. T., o que fez por meio de três transferências bancárias. Além disso, no dia 15/12/2022, H. A. O. transferiu R$ 200.000,00 para a conta bancária da empresa S. C., de propriedade do paciente.
+Além dessas movimentações fraudulentas, foi apurado que a empresa de propriedade do paciente, embora tenha ficado inativa por um longo período durante a Pandemia, movimentou no período o montante de RS 6.131.605,00, conforme Relatório de Inteligência Financeira do COAF, demonstrando fortes indícios de crimes contra o sistema financeiro.
+ ..
+Ademais, depreende-se dos autos o periculum libertatis, consubstanciado na ofensa à ordem pública e à ordem econômica, o qual pode ser percebido pelo modus operandi do grupo criminoso envolvido no desvio de valores depositados em conta bancária da vítima, devendo ser considerado, sobretudo, o envolvimento efetivo de gerente bancário nas movimentações fraudulentas realizadas e vinculadas ao paciente.
+Dessa forma, a manutenção da prisão cautelar do paciente é imprescindível, no momento, inclusive para se evitar a prática de novos delitos, assim como a dilapidação e ocultarão dos valores por ele desviados.
+ ..
+Por fim, no que diz respeito à imprescindibilidade do paciente com os cuidados de sua mãe, ressalto não haver, nos autos, provas concretas nesse sentido, de forma que não se vislumbra, de plano, que a presença do paciente seja imprescindível aos cuidados permanentes de sua genitora.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
