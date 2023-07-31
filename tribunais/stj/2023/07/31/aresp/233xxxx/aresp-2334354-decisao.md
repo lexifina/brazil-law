@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLEONICE DE JESUS SANTOS contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 284 do STF e por ausência de demons tração de similitude fática.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1109983-44.2019.8.26.0100) assim ementado (fl. 363):
+APELAÇÃO - AÇÃO MONITÓRIA - JUSTIÇA GRATUITA - Se a gratuidade já havia sido concedida em primeiro grau, sem notícia de revogação ou interposição de recurso pela parte contrária, não há razão para revogação do benefício em razão da interposição de apelação, se não há nenhum indício de que a parte recuperou sua capacidade financeira - DÍVIDA DE JOGO - INEXIGIBILIDADE - Tratando-se de valores entregues para, sabidamente, realizar apostas esportivas, ainda que sob a denominação de "investimento", a cobrança não tem cabimento, por força do que dispõe o artigo 814 do Código Civil - Precedentes - Demanda que deve ser julgada improcedente - Recurso provido.
+Opostos embargos de declaração , os quais foram rejeitados (fls. 377-381).
+No recurso especial (fls. 383-407), a parte alega violação dos arts. 9º da LINDB, 113, 422 e 814, §1º, do Código Civil.
+Aduz, em síntese, que, apesar de haver aposta na prática de trade esportivo, "a origem da dívida não reside em jogo ou aposta de qualquer sorte, mas no inadimplemento d o contrato de prestação de serviços de administração de recursos com fins de investimentos pessoais" (fl. 403).
+Razão pela qual defende a "exigibilidade da obrigação contraída junto a plataforma "Sportingbet" que o Recorrido declarou ter feito em nome da Recorrente" (fl. 406).
+Requer  o  conhecimento  e  o provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o Tribunal de origem analisou as questões deduzidas e assim decidiu (fls. 364-367):
+Embora não tenha constado expressamente do contrato, é incontroverso que se trata de dívida decorrente de apostas esportivas, o que era de conhecimento da autora, a qual contratou o réu para que realizasse as apostas em sites especializados, em razão de seu conhecimento no assunto e suposto sucesso em apostas anteriores.
+ ..
+No caso em tela, a cobrança versa sobre apostas que eram realizadas em sites estrangeiros, sem regulamentação no Brasil, com o intuito de obter lucro conforme resultados de jogos da liga de futebol americano (NFL).
+ ..
+A divergência quanto à licitude dos serviços prestados por sites de apostas no Brasil, sejam eles registrados no país ou no exterior, também não torna exigível a cobrança. No último precedente supramencionado, cabe citar trechos do voto do relator:
+ ..
+No tocante à alegada ofensa aos arts. 9º da LINDB, 113, 422 e 814, §1º, do Código Civil, a Corte de origem entendeu que "é incontroverso que se trata de dívida decorrente de apostas esportivas" (fl. 364) e que a "divergência quanto à licitude dos serviços prestados por sites de apostas no Brasil, sejam eles registrados no país ou no exterior, também não torna exigível a cobrança" (fl. 367).
+Nesse contexto, a pretensão de novo pronunciamento a respeito dos termos do contrato e da validade de seu objeto implicaria a interpretação de cláusulas contratuais e o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+Nesse sentido, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. EMBARGOS À AÇÃO MONITÓRIA. DOCUMENTOS. EXISTÊNCIA DA DÍVIDA. COMPROVAÇÃO. CLÁUSULA CONTRATUAL. SÚMULA N. 5 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS DEVIDOS. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional.
+2. O recurso especial não comporta exame de questões que impliquem a análise de cláusula contratual e o revolvimento do contexto fático dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem entendeu que os documentos apresentados na ação monitória seriam suficientes para comprovar a existência da dívida. Alterar esse entendimento demandaria reexame das cláusulas contratuais e do conjunto probatório do feito, vedado em recurso especial.
+4. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil, (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente, e (c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.644.641/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/9/2020, DJe de 24/9/2020.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora agravante, pois a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pela impossibilidade de reexame de prova (Súmula n. 7 do STJ) e pela interpretação de cláusulas contratuais (Súmula n. 5 do STJ) nesta instância especial, o q ue implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Nessa linha de entendimento, os seguintes precedentes: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 11%, percentual arbitrado na instância de origem, para 13% sobre o valor da causa.
+Publique-se. Intimem-se.
