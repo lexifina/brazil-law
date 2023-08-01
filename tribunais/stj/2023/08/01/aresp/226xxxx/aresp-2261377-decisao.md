@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÂO CÍVEL. AÇÃO DE INDENIZAÇÃO. RELAÇÃO DE CONSUMO. VÍCIO DO PRODUTO. QUEBRA DO CUBO DA RODA TRASEIRA. FIAT STILO. DEFEITO DE FABRICAÇÃO. COMPROVAÇÃO. DEVER DE INDENIZAR. OCORRÊNCIA. ACIDENTE DE TRÂNSITO. DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM. CRITÉRIOS DE FIXAÇÃO. JUROS MORATÕRIOS. TERMO INICIAL. CITAÇÃO. SENTENÇA. REFORMA PARCIAL. 1. O fornecedor, o fabricante e o produtor respondem objetivamente pelos danos causados ao consumidor decorrentes de vício do produto, sendo que essa obrigação somente é elidida diante da inexistência do defeito e da culpa exclusiva do consumidor ou de terceiro. 2. Se o conjunto probatório demonstra que a quebra do cubo da roda traseira direita do veículo decorre de defeito de fabricação, impõe-se a manutenção da sentença por meio da qual o MM. Juiz condenou a fabricante ao dever de indenizar pelos prejuízos causados ao consumidor. 3. De acordo com a corrente majoritária contemporânea, a quantificação do dano moral e estético se submete à equidade do magistrado, o qual arbitrará o valor da indenização com base em critérios razoavelmente objetivos, analisados caso a caso, tais como a gravidade do fato em si e suas consequências para a vítima, a culpabilidade do agente, a possível culpa concorrente do ofendido, a condição econômica do ofensor, as condições pessoais da vítima etc., devendo observar também os patamares adotados pelo Tribunal e pelo Superior Tribunal de Justiça. 4. Tratando-se de responsabilidade contratual, os juros moratórios incidem a partir da citação."(e-STJ fl. 1.466).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente alega que o acórdão violou os artigos 489 e 1.022 do Código de Processo Civil, 944 do Código Civil e 6º, VI, do Código de Defesa do Consumidor. Afirma que houve negativa de prestação jurisdicional e que a indenização por danos morais foi fixada em valor irrisório.
+Após a apresentação de contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017).
+Quanto ao mais, a irresignação não merece prosperar.
+A respeito do montante da indenização, o valor de R$ 40.000,00 (quarenta mil reais) por danos morais, atende aos princípios da proporcionalidade e razoabilidade, encontrando-se dentro dos parâmetros da lei e reconhecidos por esta Corte.
+Assim, mostra-se inviável o acolhimento da pretensão da parte recorrente de minorar a indenização por danos morais, pois o óbice da Súmula nº 7/STJ tem sido afastado apenas quando tais valores forem exorbitantes ou ínfimos , o que não ocorreu no presente caso.Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. ATRASO DE OBRAS. PROBLEMAS E PENDÊNCIAS NA ENTREGA DO IMÓVEL. IMPOSSIBILIDADE DE HABITAÇÃO DE FORMA IMEDIATA. PRECEDENTES DO STJ. EXCEÇÃO REFERIDA. MAIS QUE MERO DISSABOR. DEVIDA INDENIZAÇÃO POR DANOS MORAIS. REVISÃO DO MONTANTE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em síntese, na origem trata-se de ação indenizatória por danos materiais e morais em face da agravante em decorrência de atraso na entrega de empreendimento, e reconhecimento de problemas e pendências no imóvel.
+2. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Entendeu que houve pendências e diversos problemas quando da entrega do imóvel que impossibilitaram a habitação de forma imediata pelos agravados.
+3. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de Recurso Especial, ante a Súmula nº 7 do Superior Tribunal de Justiça.
+4. A revisão da quantia fixada a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ. Valor razoável arbitrado pelo Tribunal de origem, a não possibilitar a sua revisão.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.132.382/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta parte, negar-lhe provimento .
+Em observância ao art. 85, §§ 11, do CPC/2015, majoro em 2% (dois por cento) o percentual da verba honorária, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
