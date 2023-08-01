@@ -1,0 +1,27 @@
+DESPACHO
+
+    1. O recurso extraordinário (eDOC 14) foi formalizado pelo Instituto Nacional do Seguro Social – INSS, com fundamento na alínea ‘a’ do permissivo constitucional, contra acórdão (eDOC 19) da 2ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul.
+
+    A insurgência apresenta-se contra a parte do pronunciamento que declarou a inconstitucionalidade incidental do critério diferenciado de cálculo da renda mensal inicial da aposentadoria por incapacidade permanente não decorrente de acidente de trabalho, de doença profissional e de doença do trabalho, conforme previsto no art. 26, § 2º, III, e § 5º, da Emenda Constitucional n. 103/2019.
+
+    Em resumo, a autarquia previdenciária consigna não subsistir a declarada inconstitucionalidade dos citados preceitos dessa emenda.
+
+    É, no essencial, o relato.
+
+    2. Observo que a discussão submetida ao conhecimento do Supremo Tribunal Federal consiste na constitucionalidade material ou não do art. 26 da Emenda Constitucional n. 103/2019, no ponto em que fixa critério diferenciado para o cálculo do valor do benefício da aposentadoria por incapacidade permanente geral (EC n. 103/2019, art. 26, § 2º, III, c/c o § 5º) e da decorrente de acidente de trabalho, de doença profissional e de doença do trabalho (EC n. 103/2019, art. 26, § 3º, II).
+
+    Feito esse registro, destaco que, na ADI 6.279 e na ADI 6.384, ambas sob relatoria do ministro Roberto Barroso, encontra-se em avaliação, sob os aspectos formal e material, respectivamente, a constitucionalidade desse art. 26 da EC n. 103/2019. Inclusive, essas ações já estiveram em julgamento na Sessão Virtual de 23 a 30.6.2023, porém houve pedido de destaque do eminente ministro Luiz Fux.
+
+    Nesse contexto, noto que a declaração de inconstitucionalidade ou não, por esta Corte Suprema, do teor do art. 26 da EC n. 103/2019 influenciará a resolução da presente controvérsia, de modo a ser de rigor o sobrestamento destes autos.
+
+    3. Em face do exposto, considerandos os escopos de análise da ADI 6.279 e da ADI 6.384, determino o sobrestamento do presente feito até que se ultime o julgamento do mérito dessas respectivas ações de controle concentrado.
+
+    4. Publique-se.
+
+Brasília, 1º de agosto de 2023.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
