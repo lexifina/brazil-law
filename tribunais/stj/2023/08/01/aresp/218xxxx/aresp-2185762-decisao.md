@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MILIOLI BEBIDAS EIRELI, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: revisional de contrato bancário, ajuizada pela agravante, em face do BANCO SAFRA S A.
+Sentença: julgou parcialmente procedente o pedido.
+Acórdão: conferiu parcial provimento aos apelos da agravante e do agravado, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO. CONTRATOS DE CONTA CORRENTE E SEU LIMITE DE CRÉDITO DO TIPO CONTA GARANTIDA E CÉDULAS DE CRÉDITO BANCÁRIO PARA ABERTURA DE CRÉDITO EM CONTA CORRENTE DO TIPO CONTA GARANTIDA E EMPRÉSTIMO PARA CAPITAL DE GIRO. AUTOS QUE VIERAM ACOMPANHADOS APENAS DAS CÉDULAS DE CRÉDITO BANCÁRIO. DETERMINAÇÃO DE EXIBIÇÃO, PELA INSTITUIÇÃO FINANCEIRA, DE DOCUMENTOS QUE SÃO COMUNS À S PARTES. ARTIGO 359, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE 1973 (ARTIGO 399, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015). DESCUMPRIMENTO QUE ACARRETA A ADMISSÃO DOS FATOS ALEGADOS COMO SENDO VERDADEIROS. ARTIGO 400, INCISO I, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. REVISÃO QUE É POSSÍVEL EM FACE DA ONEROSIDADE EXCESSIVA. ARTIGOS 6 9 , INCISOS IV E V, E 51, INCISO IV, AMBOS DO CÓDIGO DE DEFESA DO CONSUMIDOR. JUROS REMUNERATÓRIOS. ENUNCIADO N. I DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL. MANUTENÇÃO DAS TAXAS PACTUADAS NAS CÉDULAS EXIBIDAS PORQUE SÃO INFERIORES OU NÃO SE MOSTRARAM ABUSIVAS EM COMPARAÇÃO COM A MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL. AUSÊNCIA DE PROVA DO PACTO EM RELAÇÃO À CONTA CORRENTE (ADIANTAMENTO A DEPOSITANTE) E AO CONTRATO DO TIPO CONTA GARANTIDA OMITIDO QUE ACARRETA A APLICAÇÃO DA TAXA MÉDIA DE MERCADO INFORMADA PELO BANCO CENTRAL, CONTANTO QUE INFERIOR À EXIGIDA. SÚMULA N. 530 DO SUPERIOR TRIBUNAL DE JUSTIÇA. POSSIBILIDADE DA CAPITALIZAÇÃO DOS JUROS E DA EXIGÊNCIA DA COMISSÃO DE PERMANÊNCIA E DA MULTA CONTRATUAL APENAS NOS CONTRATOS EM QUE O PACTO EXPRESSO FOI DEMONSTRADO. ENUNCIADO N. III DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL. INVIABILIDADE DA UTILIZAÇÃO DO CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI) COMO FATOR DE ATUALIZAÇÃO MONETÁRIA. PRECEDENTES DA CÂMARA. IMPUGNAÇÃO GENÉRICA À EXIGÊNCIA DE "TARIFAS" E DE "OUTROS ENCARGOS NÃO PACTUADOS" NA CONTA CORRENTE. INVIABILIDADE. NECESSIDADE DA IDENTIFICAÇÃO DE CADA TARIFA ADMINISTRATIVA OU ENCARGO E DA DEMONSTRAÇÃO DA ABUSIVIDADE NO CASO CONCRETO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM RAZÃO DO TRABALHO REALIZADO EM GRAU DE RECURSO. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSOS PROVIDOS EM PARTE.
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 46, 47, 51 e 54 do CDC, 122, 423 e 424 do CC/02 e 400 do CPC/15, bem como dissídio jurisprudencial. Sustenta a abusividade dos juros remuneratórios contratados e pugna pela sua limitação à taxa média de mercado. Assevera que devem ser afastadas as tarifas cobradas nos contratos não juntados pelo agravado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 46, 47, 51 e 54 do CDC, 122, 423 e 424 do CC/02 e 400 do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 46, 47, 51 e 54 do CDC, 122, 423 e 424 do CC/02 e 400 do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+A agravante, em relação à cobrança de tarifas abusivas, não impugnou o seguinte fundamento utilizado pelo TJ/SC:
+A impugnação genérica à exigência de "tarifas" "e outros encargos não pactuados" na conta corrente não é suficiente para que se proíba a sua cobrança, sendo imprescindível a identificação daqueles tidos por ilegais e a demonstração da abusividade no caso em relação à cada tarifa ou encargo, o que os autos não deixaram evidenciado. (e-STJ fl. 1.036).
+Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-s e, na hipótese, a Súmula 283/STF.
+Ainda que assim não fosse, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à abusividade da taxa de juros remuneratórios contratada, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 10% o valor dos honorários fixados anteriormente, devidos pela agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial.
+8. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
