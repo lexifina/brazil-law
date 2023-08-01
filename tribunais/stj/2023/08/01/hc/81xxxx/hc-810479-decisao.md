@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO GOMES DE SOUSA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente se encontra preso, preventivamente, tendo sido pronunciado pela suposta prática do crime de homicídio qualificado. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, mantendo a prisão preventiva, conforme acórdão de fls. 23-38.
+No presente writ, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para segregação cautelar, ponderando acerca da ausência de participação do Paciente na conduta imputada, aduzindo que:
+"seu irmão assumiu toda autoria do crime praticado" (fl. 6).
+Aponta a necessidade de afastamento das qualificadoras de motivo fútil e recurso que dificultou a defesa do ofendido.
+Requer, assim, o afastamento das qualificadoras, art. 121, inc. II e IV do Código Penal, bem como a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 105-106.
+Informações prestadas, às fls. 110-113 e 116-219. O Ministério Público Federal, às fls. 221-227, manifestou pelo "não conhecimento do writ". Confira-se a ementa do parecer:
+"HABEAS CORPUS COM PEDIDO LIMINAR. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NECESSIDADE. GARANTIADA ORDEM PÚBLICA.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. Comprovada a materialidade, havendo indícios de autoria e restando demonstrada, com elementos concretos, a necessidade da prisão preventiva para garantia da ordem pública, afasta-se a alegação de constrangimento ilegal.
+3. Parecer pelo não conhecimento do writ" (fl. 221).
+É o relatório.
+Decido.
+In casu, a prisão cautelar se encontra justificada para a garantia da ordem pública, considerando a gravidade concreta da conduta e a periculosidade do Paciente, pois:
+"É evidente a necessidade de se assegurar a ordem pública, diante da periculosidade dos agentes, que mediante conduta extremamente agressiva e cruel somente não ceifou a vida da vítima, pois familiares desta impediram o prosseguimento das agressões. Friso que o delito causo grande clamor no bairro onde residem os envolvidos, gerando insensibilidade social. São dados concretos que revelam a necessidade da decretação da medida cautelar, posto que presentes as condições de admissibilidade, os pressupostos e os fundamentos, dentre eles, o da garantia da ordem pública, cujo conceito não se restringe à prevenção de fatos criminosos, mas visa, também, acautelar o meio social e preservar a credibilidade da Justiça, face as circunstâncias e a sua repercussão de modo geral. No mais, revela-se necessário assegurar a colheita da prova, e encontrando-se os investigados em liberdade, fatalmente tentarão por todas as formas fragilizá-las" (fl. 31).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Outrossim, cumpre consignar que, de acordo com a jurisprudência desta Corte, a perscrutação acerca de fragilidade probatória, mormente, no que tange à ausência de participação na conduta imputada, demanda o revolvimento de matéria fático-probatória, inviável na presente via:
+"digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via augusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório" (RHC 56.155/MT, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 24/5/2017).
+No mais, no que pertine ao pleito de afastamento de qualificadoras, verifica-se a impossibilidade desta Corte se manifestar acerca da questão, sob pena de indevida supressão de instância, haja vista que não houve pronunciamento do Tribunal local a respeito da matéria:
+"o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+P. I.
