@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em ben efício de ANDRE GABRIEL DO NASCIMENTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante, em 05/04/2022, e teve a prisão convertida em preventiva pela suposta prática do crime de roubo circunstanciado, fundamentando o juízo a quo que a subtração teria sido cometida com o emprego de arma de fogo, em concurso de pessoas e com restrição da liberdade da vítima, colocando em especial risco de vulneração sua vida e integridade física (fls. 136-139).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que, mantendo os fundamentos da decisão que decretou a prisão preventiva, denegou a ordem em acórdão de fls. 356-359.
+No presente writ, postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do ora paciente em razão da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Sustenta, ainda, do excesso de prazo na formação da culpa, aduzindo que o paciente está preso há "356 dias" (fl. 05).
+A liminar foi indeferida às fls. 367-368 .
+As informações foram prestadas às fls. 373-376. O Ministério Público Federal, às fls. 380-383, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. NÃO CONHECIMENTO" - fl. 380.
+É o relatório.
+Decido.
+Primeiramente, em consulta ao sítio do tribunal de origem (www.tjsp.jus.br), verifica-se que foi proferida sentença condenatória em que o paciente foi condenado nas sanções do artigo 157, § 2º, inciso II e V e §2º-A, inciso I, do Código Penal a 08 (oito) anos, 10 (meses) e 20 (vinte) d ias de reclusão, em regime inicial fechado, sendo-lhe negado o direito de recorrer em liberdade.O Juizo a quo não acrescentou novos fundamentos, motivo pelo qual o presente habeas corpus não se encontra prejudicado.
+Nesse sentido:
+"A manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo"(AgRg no HC 698.533/MG, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 07/04/2022-grifei.)
+Quanto ao alegado excesso de prazo na formação da culpa, o pedido encontra-se, portanto, prejudicado, uma vez que:
+"A prolação de sentença condenatória prejudica a análise de eventual excesso de prazo para a formação da culpa, nos termos do enunciado sumular n. 52 do Superior Tribunal de Justiça" (AgRg no HC n. 748.935/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/4/2023- grifei.)
+Quanto a alegação acerca da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, in casu, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que revelam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, evidenciada pelo modus operandi da conduta em tese perpetrada, consistente em roubo majorado em concurso de pessoas e com restrição da liberdade da vítima:
+"há especial periculosidade em tese da ação delitiva descrita no boletim de ocorrências que instrui o auto, eis que a subtração teria sido cometida com o emprego de arma de fogo, em concurso de pessoas, e com restrição da liberdade da Vítima, colocando em especial risco de vulneração sua vida e integridade física" - fl. 138.
+Destaca-se que:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+P. I.
