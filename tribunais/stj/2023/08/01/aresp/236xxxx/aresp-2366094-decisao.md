@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FERNANDA AMARAL DE LIMA, contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial: 03/04/2023.
+Concluso ao gabinete em: 17/07/2023.
+Ação: indenizatória ajuizada por ORMEZINA RODRIGUES DE SOUZA em face de FERNANDA AMARAL DE LIMA e SANCOR SEGUROS DO BRASIL S/A, objetivando o ressarcimento pelos danos sofridos em decorrência de acidente de trânsito.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para condenar a corré Fernanda ao pagamento de danos estéticos, e danos morais; e julgou improcedente o feito com relação à seguradora .
+Acórdão: interpostas apelações por ambas as partes, foi provido em parte o recurso da autora e desprovido o recurso da ré Fernanda Amaral de Lima, nos termos da seguinte ementa:
+"Responsabilidade civil. Acidente de trânsito. Atropelamento. Autoria da motorista corré inconteste. Negativa de pagamento de indenização securitária por parte da seguradora baseada em cláusula excludente de responsabilidade por agravamento do risco, em virtude de comportamento doloso da segurada. Própria segurada que confessa sua intenção deliberada de atropelar terceiro,vindo,contudo,a fazê-lo em relação à autora,Comportamento da segurada que equivale ao agravamento intencional do risco. Excludente de responsabilidade contratual, contudo, ineficaz em relação a terceiro de boa-fé, vítima do sinistro. Responsabilidade solidária da seguradora corré caracterizada, restringida, porém, aos limites da apólice. Extensão a ela, seguradora, com essa ressalva, da condenação imposta à segurada por danos morais e estéticos. Pretensão indenizatória por danos materiais improcedente, ante a ausência de qualquer comprovação pela autora acerca de prejuízos patrimoniais sofridos em decorrência do acidente. Decisão recorrida mantida nessa parte. Valores indenizatórios por danos morais e estéticos mantidos (R$ 50 mil para cada qual). Acidente de proporções graves, principalmente em decorrência das graves lesões físicas causa das à autora e do sofrimento por ela experimentado. Montantes que comportariam, em tese, majoração, mas que correspondem ao total postulado pela autora na petição inicial, em que delimitada a pretensão. Ausência de razão para a redução postulada pela ré. Sentença parcialmente reformada,apenas para estender a condenação à seguradora. Apelação da autora parcialmente provida. Apelação da ré desprovida."(e-STJ, fl. 588)
+Embargos de declaração: opostos por Sancor Seguros do Brasil e Ormezina Rodrigues de Souza, foram acolhidos os da seguradora e rejeitados o da autora.
+Recurso especial: Alegou, ofensa aos arts. 4º, III, 6ª, III, 46 e 51, IV do CDC, sustentando que "seguradora não prestou informações sobre a correta distinção entre dano corporal, dano moral e dano estético, uma vez que os conceitos trazidos nas condições gerais não são claros o suficiente para o consumidor hipossuficiente por natureza. Nesse diapasão, não se sabe se o princípio da informação foi observado, ou seja, se o segurado ficou ciente da abrangência dos termos utilizados para definir dano corporal, dano material e dano moral." (e-STJ, fl. 644).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos artigos 4º, III, 6ª, III, 46 e 51, IV do CDC, indicados no recurso especial, nem quanto aos argumentos invocados pela agravante sob o enfoque pretendido, com relação falta de informação no contrato acerca da distinção dos danos, tampouco foram opostos os competentes embargos de declaração para ver suprido eventuais vícios, de maneira a viabilizar a apreciação dos temas por esta Corte.
+Aplicável, na hipótese, as Súmulas 282 e 356/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Por fim, a incidência das Súmulas 282 e 356 do STF acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação, para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. FALTA DE SÚMULAS 282 E 356/STF. DISSÍDIO NÃO COMPROVADO. DISSÍDIO PREJUDICADO.
+1. Ação indenizatória.
+2. A ausência de apreciação do tema proposto atrai a incidência das Súmulas 282 e 356/STF.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência das Súmulas 282 e 356 do STF prejudicam a análise do dissídio jurisprudencial pretendido.
+5. Agravo conhecido. Recurso especial não conhecido.
