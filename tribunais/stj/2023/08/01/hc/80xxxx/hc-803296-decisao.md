@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ANDRE RICARDO DE SOUZA contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da revisão criminal n. 0021392-64.2021.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado como incurso no art. 157, § 2º, inciso II, e § 2º-A, inciso I, por duas vezes, na forma do art. 70, todos do Código Penal, à pena 18 anos, 1 mês e 23 dias de reclusão, em regime inicial fechado, e ao pagamento de 42 dias -multa (fls. 158-169).
+No julgamento da apelação, o eg. Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 222-230).
+Ajuizada revisão criminal, a Corte estadual julgou improcedente o pedido revisional (fls. 312-319).
+No presente writ, o impetrante alega, em síntese, a ocorrência de constrangimento ilegal na dosimetria da pena.
+Sustenta que "exceto pelo reconhecimento dos maus antecedentes, todas as outras circunstâncias judiciais negativas foram reconhecidas com base em fundamentação inidônea" (fl. 5).
+Assere, ainda, que "ao realizar a aplicação sucessiva das causas de aumento sem fundamentação concreta, a sentença descumpriu o disposto no art. 68 do CP e violou o dever de fundamentação e a jurisprudência do C. STJ" (fl. 8).
+Por fim, rebate a possibilidade de reconhecimento do crime único entre as condutas praticadas.
+Requer, assim, o redimensionamento da reprimenda do paciente.
+Informações prestadas às fls. 327-382.
+Parecer do Ministério Público Federal às fls.386-388.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração o redimensionamento da reprimenda do paciente na primeira e terceira fases da dosimetria, com o reconhecimento do crime único.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Na presente hipótese, as instâncias de origem analisando as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, fixaram a pena-base do paciente em 6 anos de reclusão, considerando desfavoráveis as seguintes circunstâncias judiciais: circunstâncias do crime, consequências e maus antecedentes (fl. 229).
+No que tange às vetoriais relativas às circunstâncias do crime e os maus antecedentes, as instâncias ordinárias apreciaram concretamente tais vetores, uma vez que "o réu entrou em um escritório em pleno horário comercial com diversas salas e funcionários" bem como o fato de o acusado possuir "quatro condenações definitivas pela prática do mesmo crime violento" -fl. 229, não evidenciando nenhuma ilegalidade manifesta na exasperação da pena-base no ponto.
+A propósito: AgRg no HC n. 749.138/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2022 e AgRg no HC n. 747.770/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/3/2023.
+Por outro lado, quanto às consequências do crime, denota-se que as instâncias de origem valoraram negativamente tal vetorial sem adequação ao caso concreto, de modo que os fundamentos exarados refletem elementos ínsitos ao dispositivo violado (fl. 229).
+Ressalta-se, ainda, que a jurisprudência desta Corte Superior de Justiça "entende que é inerente ao crime contra o patrimônio o arrebatamento do bem, com o prejuízo para a vítima. Portanto, não constitui fundamentação idônea considerar as consequências do delito desfavoráveis em razão do prejuízo causado à vítima, pois esse está expressamente previsto na norma do art. 157 do Código Penal: "Subtrair coisa móvel alheia" (AgRg no AREsp n. 1.638.257/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/9/2020, grifei).
+Assim, necessário se mostra o afastamento da circunstância judicial referente às consequências do crime.
+Quanto ao cúmulo de majorantes, a jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique quando da escolha da cumulação das causas de aumento.
+Portanto, qualquer que seja a solução, ela deve ser fundamentada. Não pode ser automática. Isso porque o Código Penal diz, tanto no parágrafo único do art. 68, como no § 2º do art. 157, "pode o juiz" e "aumenta-se de 1/3 até metade", indicando claramente, que a opção do magistrado há que ser fundamentada, sob pena de se transmutar a discricionariedade permitida com um inaceitável arbítrio próprio do princípio da convicção íntima.
+In casu, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o cúmulo de causas de aumento foi aplicado sem que houvesse a devida fundamentação, sem remissão às peculiaridades do caso em comento (fls. 229-230).
+A propósito: Resp n. 1896832/AC, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 30/11/2021 e AgRg no Resp n. 1872157/PR, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 10/02/2021.
+Desse modo, aplicando a regra do art. 68, parágrafo único, do Código Penal, deve prevalecer a causa de aumento pela qual se fez maior exasperação da pena que, no presente caso, é a referente ao emprego de arma de fogo, com incremento da pena em 2/3.
+No tocante ao pleito de reconhecimento de crime único entre as condutas praticadas, verifico que não assiste razão ao paciente.
+Na presente hipótese, como bem salientado pelo acórdão recorrido, "a consideração de dois crimes por se tratar de vítimas distintas se mostrou correta e fundamentada" (fl. 319).
+Ademais, desconstituir o entendimento firmado pelas instâncias ordinárias in casu exigiria, a toda evidência, ampla e profunda valoração de fatos e provas, procedimento incompatível com a via do habeas corpus. Nesse sentido: AgRg no HC n. 617.900/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/9/2021; AgRg no HC n. 551.668/RS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), DJe de 18/3/2020 e HC n. 541.177/AC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/2/2020.
+Evidenciado, o constrangimento ilegal apontado pela defesa, no tocante a primeira e terceira fases da dosimetria, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, estabeleço a pena-base em 5 anos e 4 meses de reclusão e 12 dias-multa.
+Na segunda fase, mantenho o acrécimo de 1/6 pela presença da agravante da reincidência, alcançando a reprimenda 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa (fl. 229).
+Na terceira fase, presente as causas de aumento de pena, referentes ao concurso de agentes e a utilização de arma de fogo, aplico, tão somente, a fração de 2/3 (dois terços), totalizando a reprimenda o quantum definitivo de 10 anos, 4 meses e 13 dias de reclusão e 23 dias-multa.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para redimensionar a reprimenda do paciente em 10 anos, 4 meses e 13 dias de reclusão e 23 dias-multa, mantidos os demais termos da condenação.
+P. e I.
