@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial, interposto por EDNALVA DOS SANTOS, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+O Tribunal de origem, no julgamento da apelação interposta pela defesa, acolheu pedido de arbitramento de honorários advocatícios para o defensor dativo, mas não utilizou os valores prescritos na tabela da Ordem dos Advogados do Brasil local porquanto entendeu que o parâmetro seria meramente referencial e não vincularia o magistrado (fls. 303-327).
+Nas razões do recurso especial, o recorrente aponta negativa de vigência ao art. 22, §§ 1º e 2º, Lei 8.906/94, e dissídio jurisprudencial sobre a matéria, em razão da inobservância dos valores mínimos constantes da tabela do Conselho Seccional da OAB na fixação de honorários ao defensor dativo que atuou no processo. O advogado da defesa pede, ainda, fixação de honorários advocatícios pela atuação em sede de recurso especial (fls. 341-350).
+Em contrarrazões, o Ministério Público Estadual opinou pelo provimento do recurso (fls. 403-409).
+O recurso especial foi admitido na origem (fls. 411-412).
+O Ministério Público Federal apresentou parecer pelo conhecimento e provimento do recurso para que o Tribunal de Justiça de origem arbitrasse honorários advocatícios ao defensor dativo em conformidade com a tabela de honorários da OAB da Seccional do Paraná vigente à época da designação (fls. 434-437).
+O então relator Ministro Jorge Mussi determinou o retorno dos autos à origem com baixa na distribuição em razão da afetação da matéria à Terceira Seção do Superior Tribunal de Justiça pela sistemática dos recursos repetitivos (fl. 440).
+Após o julgamento dos recursos afetados, Tema Repetitivo n º. 984, o Tribunal de Justiça manteve o arbitramento dos honorários em virtude da não vinculação do magistrado aos valores de honorários devidos aos defensores dativos em tabelas elaboradas unilateralmente pelos Conselhos Seccionais da OAB (fls. 853-857).
+Em novo juízo de admissibilidade, a Primeira Vice-Presidência do Tribunal local admitiu o recurso especial, nos termos do art. 1.030, inciso V, alínea "c", do Código de Processo Civil (fls. 1.006).
+O Ministério Público Federal manteve o posicionamento anterior (fls. 1.028).
+É o relatório. DECIDO.
+A controvérsia consiste em avaliar a correção do arbitramento dos honorários realizados na origem ao defensor dativo em processo de natureza criminal.
+A Terceira Seção do Superior Tribunal de Justiça, ao analisar o Tema Repetitivo n º. 984, firmou as seguintes teses (REsp 1665033/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 23/10/2019, DJe 04/11/2019; e REsp 1656322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 23/10/2019, DJe 04/11/2019), verbis:
+1ª) As tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado;
+2ª) Nas hipóteses em que o juiz da causa considerar desproporcional a quantia indicada na tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados, poderá, motivadamente, arbitrar outro valor;
+3ª) São, porém, vinculativas, quanto aos valores estabelecidos para os atos praticados por defensor dativo, as tabelas produzidas mediante acordo entre o Poder Público, a Defensoria Pública e a seccional da OAB.
+4ª) Dado o disposto no art. 105, parágrafo único, II, da Constituição da República, possui caráter vinculante a Tabela de Honorários da Justiça Federal, assim como tabelas similares instituídas, eventualmente, pelos órgãos competentes das Justiças dos Estados e do Distrito Federal, na forma dos arts 96, I, e 125, § 1º, parte final, da Constituição da República.
+No caso dos autos, a inobservância da tabela de honorários da Seccional Ordem dos Advogados do Brasil foi justificada pelo Tribunal local nos seguintes termos (fl. 326, grifei):
+"Por fim, requer o defensor nomeado o arbitramento dos honorários advocatícios em consonância com a tabela da OAB/PR.
+Consigne-se que a Tabela de Honorários da Ordem dos Advogados do Brasil é uma referência da remuneração paga aos advogados pelos atos praticados, contudo, não vincula o magistrado a arbitrar os valores nela contidos.
+Assim, considerando o grau de zelo do profissional, bem assim a natureza da causa, o grau de complexidade da apelação e o trabalho realizado pelo advogado, fixa-se R$ 300,00 (trezentos reais), por conta da apresentação do recurso, valor este atualizável e corrigido a partir da data deste julgamento."
+Verifico, portanto, que, como a tabela de honorários foi elaborada unilateralmente pelo Conselho da Seccional da Ordem dos Advogados do Brasil do Paraná, não há vinculação do magistrado para o arbitramento da verba.
+Ante o exposto, nego provimento ao recurso especial, nos termos do art. 255, §4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça.
+Indefiro, por fim, o pedido de arbitramento de honorários pela interposição de recurso especial perante o Superior Tribunal de Justiça, porquanto a atuação profissional trouxe matéria de in teresse exclusivamente individual do advogado.
+Publique-se. Intime-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. DEFENSOR DATIVO. TEMA REPETITIVO N. 984 STJ. TESE FIXADA. TABELA DA ORDEM DOS ADVOGADOS DO BRASIL DA SECCIONAL DO ESTADO. ELABORAÇÃO UNILATERAL. INEXISTÊNCIA DE VINCULAÇÃO DO MAGISTRADO. MERA REFERÊNCIA.
