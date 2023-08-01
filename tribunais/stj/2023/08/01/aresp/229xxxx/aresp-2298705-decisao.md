@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ISRAEL RODRIGUES CARLOS contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Consta dos autos que o juízo de primeiro grau condenou o agravante como incurso nas sanções do art. 155, caput, do CP, à pena de 1 (um) ano de reclusão, em regime aberto, e pagamento de 10 (dez) dias-multa, tendo sido a pena corporal substituída por restritiva de direito (fls. 77-81).
+O Tribunal de origem, em decisão unânime, deu provimento ao recurso ministerial para "condenar o réu Israel Rodrigues Carlos como incurso no crime previsto no artigo 157, caput, do Código Penal, às penas de 04 anos de reclusão, em regime semiaberto, além do pagamento de 10 dias-multa." (fls. 125-138).
+Os embargos de declaração opostos foram, por unanimidade, rejeitados (fls. 156-161).
+Sobreveio recurso especial, interposto com fulcro na alínea "a" da Constituição, em que alega violação aos arts. 33 e 59, ambos do CP, porquanto o recorrente faria jus ao regime aberto para início do cumprimento da pena.
+Apresentadas contrarrazões (fls. 182-192), o especial foi inadmitido na origem em virtude da deficiência da fundamentação e pela incidência da Súmula n. 7, STJ (fls. 195-196).
+Nas razões do agravo, a parte pede o processamento do recurso especial, uma vez que teria cumprido todos os requisitos necessários a sua admissão (fls. 201-203).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 227-231).
+É o relatório. DECIDO.
+Conforme relatado, o recurso especial foi inadmitido na origem em virtude da deficiência da fundamentação e pela incidência da Súmula n. 7, STJ.
+Da análise das razões recursais, verifico que o agravante deixou de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, qual seja, o fundamento relativo à incidência da Súmula n. 7, STJ. Isso porque sobre a questão, limitou-se a mencionar que (fls. 203):
+"A defesa requereu, no recurso, apenas a correta aplicação da lei, que foi violada pelo acórdão. Assim, reitera-se: o recurso trata de matéria jurídica, e não fática. Não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas - estando estes já provados - cuida-se, sim, de que seja atribuída a subsunção normativa adequada aos fatos já julgados na sentença e no acórdão."
+A parte, portanto, não refutou a aplicação do óbice de maneira adequada, uma vez que deveria indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão.
+O Superior Tribunal de Justiça tem jurisprudência consolidada no sentido de que para que afastar a incidência da Súmula nº. 7, STJ, não basta a simples assertiva de que se trataria de revaloração da prova. Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+À propósito: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se .
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
