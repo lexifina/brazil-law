@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por ANDREI CANALES SOCIEDADE INDIVIDUAL DE ADVOCACIA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"LOCAÇÃO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EMBARGOS. ADMISSÃO DE PROCESSAMENTO SEM EFEITO SUSPENSIVO. PREVALECIMENTO. IMPOSSÍVEL COGITAR DE SOLUÇÃO DIVERSA ENQUANTO NÃO SE REALIZAR A PENHORA, DIANTE DA CLAREZA DA NORMA LEGAL. AGRAVO IMPROVIDO. O processamento dos embargos, como regra, não propicia a suspensão do processo de execução (artigo 919 do CPC-2015), a não ser nas situações em que presentes os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução (art. 919, § 1º). No caso, nota-se que ainda não foi realizada a penhora, estando ausente a garantia de juízo, o que desautoriza cogitar da pretendida suspensão " (fl. 753, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 785/788, e-STJ).
+No especial, o recorrente aponta violação dos arts. 11, 1.022 e 919, § 1º, do CPC, argumentando, em síntese, a necessidade de atribuição de efeito suspensivo à execução, em virtude da demonstração do atendimento aos requisitos para a concessão da medida.
+Apresentadas contrarrazões às fls. 845/851 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+A suspensão da execução, na verdade, só encontra sentido em situações especiais, expressamente indicadas no artigo 919, § 1º, do CPC, e deve ser determinada pelo juiz "quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes".
+No caso em exame, nota-se que a constrição ainda não foi realizada, ou seja, não se encontra caracterizada uma situação de risco, o que de pronto afasta a possibilidade de cogitar da suspensão da atividade executória, ausente o pressuposto legal indispensável.
+Enquanto não se concretizar a garantia de juízo dentro do processo de execução, não haverá atendimento do requisito legal. A clareza da norma legal não possibilita qualquer dúvida, de modo que não existe fundamento para autorizar a pretendida suspensão do processo sem essa providência.
+Enfim, diante da ausência de elementos para impedir o seguimento do processo executório, não comporta acolhimento o inconformismo" (fls. 751/755, e-STJ - grifou-se).
+De início, no tocante à violação do art. 1.022 do CPC, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, extrai-se das razões recursais que o recorrente não refutou o fundamento adotado pela Corte local, segundo o qual "Enquanto não se concretizar a garantia de juízo dentro do processo de execução, não haverá atendimento do requisito legal".
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pelo recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Ainda que superado o óbice, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CLÁUSULA. ELEIÇÃO. FORO. VALIDADE. EMBARGOS. EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. PREJUDICIALIDADE EXTERNA. AUSÊNCIA. REEXAME. PROVAS. IMPOSSIBILIDADE. SÚMULAS NºS 5, 7 E 83/STJ. INCIDÊNCIA. DECISÃO AGRAVADA. MANUTENÇÃO INTEGRAL.
+1. A jurisprudência do STJ entende que a cláusula de eleição de foro somente deve ser afastada quando reconhecida a sua abusividade ou quando resultar na inviabilidade, ou em especial dificuldade, de acesso ao Poder Judiciário. Precedente.
+2. A atribuição de efeito suspensivo aos embargos à execução é medida excepcional, somente aplicável quando presentes os requisitos exigidos pelo art. 919 do CPC. Precedente.
+3. Na hipótese, rever as conclusões do tribunal de origem, no sentido de que a execução não se encontra garantida e de que não há questão prejudicial externa, demandaria a análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp n. 2.246.368/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/5/2023, DJe de 19/5/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE AFRONTA AOS ARTS. 489 e 1.022 DO CPC/2015. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. REQUISITOS NÃO VERIFICADOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568/STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. SÚMULA N. 735/STF. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 568/STJ).
+3. "O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 919, § 1º, do CPC/2015" (AgInt nos EDcl no AREsp 1.786.983/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 10/6/2021).
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+5. No caso, o Tribunal de origem concluiu não ser caso de deferimento do efeito suspensivo aos embargos à execução. Alterar esse entendimento demandaria analisar o contrato e reexaminar o conjunto fático-probatório dos autos, providências não admitidas no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+6. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF.
+7. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.231.426/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
