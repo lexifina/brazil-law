@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental de Guilherme Bressane contra a decisão monocrática, de minha lavra, na qual não conheci do habeas corpus por constatar reiteração de pedido (fls. 5695/5696).
+O agravante alega, em síntese, que o que se requer no HC nº 612.231, é "o afastamento, a anulação das provas já admitidas como nulas, colhidas de forma ilícita, e assim, todas as demais provas delas decorrentes." Em nenhum momento se pede a nulidade das interceptações telefônicas realizadas pela Polícia Rodoviária Federal (fl. 5706).
+Acrescenta que, diferentemente do fundamentado no Acórdão ora combatido, no Habeas Corpus nº 657.280, tem em sua causa de pedir, "a nulidade das interceptações telefônicas realizadas pelo Polícia Rodoviária Federal, em razão da inequívoca possibilidade de outros meios de investigação menos gravosos". Em nenhum momento se pede a nulidade das interceptações telefônicas realizadas pela Polícia Rodoviária Federal (fl. 5706).
+Pede que o presente recurso seja conhecido e provido para que se reconheça a nulidade das interceptações telefônicas realizadas pela PRF em desconformidade com a lei federal vigente, em homenagem ao Princípio dos Frutos da Árvore Envenenada (fl. 5708).
+É o relatório.
+O presente agravo regimental objetiva o conhecimento e processamento do writ, ao argumento de não se tratar de reiteração de pedido já veiculado no HC n. 612.231/ES.
+Da análise dos autos verifica-se que, no presente feito (HC n. 657.280/ES), ataca-se acórdão proferido na Apelação Criminal n. 0028678-42.2009.8.08.0024 (fls. 19/149) e requer-se o reconhecimento da utilização indevida de interceptação telefônica quando havia a possibilidade de se fazer uso de outros meios menos gravosos de investigação, bem como, em virtude da aplicação da teoria dos frutos da árvore envenenada, se reconheça a ilegalidade das provas provenientes da interceptação telefônica (fl. 17).
+Por sua vez, no HC n. 612.231/ES, também se ataca acórdão proferido na Apelação Criminal n. 0028678-42.2009.8.08.0024 (fls. 20/149 do HC n. 612.231/ES) e requer-se a anulação da prova colhida de maneira ilícita, e todas dela decorrentes (fl. 17 do HC n. 612.231/ES).
+Então, razão assiste ao recurso, uma vez que - a despeito da identidade da parte e do ato coator - o objeto das impetrações não é coincidente.
+Assim, passa-se à análise do mandamus.
+Acerca das supostas ilegalidades envolvendo a quebra do sigilo telefônico, a Corte estadual ponderou que (fls. 142/144 - grifo nosso):
+ ..
+Após ouvir atentamente o bem lançado voto de relatoria, e tendo analisado a matéria vergastada em momento anterior a esta sessão, não tenho dúvidas em ACOMPANHAR, inteiramente, o ilustre relator.
+Faço vênia, todavia, para externar breves apontamentos técnicos acerca de algumas das teses preliminares, então aduzidas nas razões recursais, e que constam, inclusive, do robusto memorial ofertado pelo nobre Causídico que patrocina o recorrente GUILHERME BRESSANE.
+Para fins didáticos, e de modo a não soar repetitivo, as analisarei em bloco, organizando-as em três tópicos.
+Quanto a alegada (i) inépcia da denúncia  ..
+Prosseguindo, no que toca a alegação de (ii) nulidade da interceptação telefônica realizada, afirma o Recorrente que a prova foi derivada, exclusivamente, de denúncias anônimas, ressaltando, ademais, a existência de outros meios de prova, o que violaria o caráter subsidiário da interceptação telefônica.
+De fato, os Tribunais Superiores têm prestigiado a utilização de notícia anônima como mero elemento desencadeador de procedimentos preliminares de averiguação, repelindo-a, contudo, como fundamento propulsor à imediata instauração de inquérito policial ou à autorização de medida de interceptação telefônica.
+Segundo a jurisprudência do STJ e do STF, não há ilegalidade em iniciar investigações preliminares com base em denúncia anônima a fim de se verificar a plausibilidade das alegações contidas no documento apócrifo.
+No caso concreto, a Polícia Rodoviária Federal, com base em diligências preliminares para atestar a veracidade dessas denúncias, requereu ao juízo a decretação da interceptação telefônica do investigado.
+Dada a complexidade das operações criminosas investigadas, explicadas e mapeadas de forma primorosa pelo douto Relator, inviável acolher a tese de que haveriam outros meios de prova capazes de abastecer, com a devida completude, as investigações então desencadeadas.
+Assim, inexiste violação ao caráter subsidiário do instrumento de colheita probatória utilizado, tendo se mostrado indispensável a interceptação realizada, constatação esta reforçada pelo fato de que os pedidos apenas foram encaminhados ao Magistrado após 1 (um) ano do transcurso das investigações.
+Vê-se, portanto, que Decisão do magistrado foi correta, considerando que a decretação da interceptação telefônica não foi empreendida com base unicamente na denúncia anônima, e sim, após a realização de diligências investigativas, e também com fulcro nas informações recebidas dos órgãos públicos de fiscalização, mostrando-se imprescindível ao deslinde das investigações (STF. 2ª Turma. RHC 132115/PR, Rel. Min. Dias Tóffoli, julgado em 6/2/2018).
+ ..
+Vê-se que o Juízo de origem registrou expressamente que as interceptações telefônicas foram deferidas após a colheita de outros meios de prova, os quais confirmaram a credibilidade da "denúncia anônima". Somente após o transcurso de um ano de investigações, foram autorizadas as interceptações.
+Com efeito, diante do que se tem nos autos, não há falar em manifesta ilegalidade se as interceptações foram autorizadas por decisão fundamentada e não havia outro meio legal disponível para a comprovação da ligação entre os indiciados para a prática dos delitos, senão por meio da quebra de sigilo de dados (AgRg no HC n. 555.960/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/6/2020).
+Ademais, perquirir em habeas corpus a existência de outros meios de prova, no intuito de definir a imprescindibilidade da decretação da medida de interceptação telefônica, é procedimento incompatível com os estreitos limites de cognição da via eleita, pela impreterível necessidade de revolvimento de material fático-probatório dos autos (HC n. 465.912/SE, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/10/2019).
+Ante o exposto, dou provimento ao agravo regimental e, reconsiderando a decisão agravada, conheço do habeas corpus e denego a ordem.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE.
+Agravo regimental provido. Decisão reconsiderada. Ordem denegada.
