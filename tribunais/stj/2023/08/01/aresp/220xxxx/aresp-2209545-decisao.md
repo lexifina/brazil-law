@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ARMANDO ZURZOLO NETO contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO INDENIZATÓRIA TRANSPORTE AÉREO INTERNACIONAL CANCELAMENTO DE VOO REACOMODAÇÃO EM OUTRO VOO - DANOS MORAIS QUANTUM REDUÇÃO JUROS DE MORA CORREÇÃO MONETÁRIA TERMO A QUO
+I- Sentença de procedência Apelo da ré, apenas com relação a sua condenação ao pagamento de indenização por danos morais
+II- Companhia aérea que responde objetivamente pelas consequências do ato ilícito a que deu ensejo, aplicando-se ao caso as disposições do CDC Cancelamento do voo incontroverso Existência de necessidade de manutenção na aeronave que configura fato que se insere no risco da atividade da ré, não constituindo hipótese de fortuito externo Opção de reacomodação oferecida pela ré que não atendia às necessidades do autor Ré que não reacomodou o autor em outro voo, nem mesmo ofereceu transporte por modalidade diferente ou lhe reembolsou Autor teve que adquirir novas passagens junto a outra companhia aérea, para poder chegar ao destino a tempo de pegar o outro transporte que já havia contratado Desrespeito ao art. 741 do CC e art. 21 da Resolução nº 400/2016 da ANAC Falha na prestação de serviço pela ré Na específica hipótese de atraso/cancelamento de voo operado por companhia aérea, não se vislumbra que o dano moral possa ser presumido em decorrência da demora e eventual desconforto, aflição e transtornos suportados pelo passageiro Necessária a prova, pelo passageiro, da lesão extrapatrimonial sofrida Precedente do Colendo STJ Danos morais, na hipótese, caracterizados O simples fato de a empresa ré não ter realocado o autor em outro voo, ainda que de companhia aérea parceira, é suficiente para configurar o dano moral indenizável Indenização pelos danos morais devida, devendo ser ponderada, suficiente para amenizar o abalo emocional experimentado, sem importar enriquecimento sem causa do lesado Indenização reduzida para R$1.500,00, face às circunstâncias do caso
+III- Por se tratar de responsabilidade contratual, derivada de um contrato de transporte de passageiros, os juros de mora devem incidir desde a citação Correção monetária que deve incidir desde a data da sentença, ou seja, do arbitramento Súmula nº 362 do STJ IV- Sentença parcialmente reformada Uma vez que houve condenação(indenização por danos materiais e morais), os honorários advocatícios devem ser fixados em percentual sobre o valor da condenação, nos termos do art. 85, §2º, do NCPC
+Sucumbente, deverá a ré arcar com o pagamento das custas e despesas processuais, bem como com os honorários advocatícios dos patronos do autor, fixados em 20% sobre o valor total da condenação, nesta quantia já incluídos os honorários recursais - Apelo parcialmente provido" (fl. 212/213 e-STJ).
+Nas razões do recurso especial, o recorrente sustenta, além da divergência jurisprudencial, violação do artigo 14 do Código de Defesa do Consumidor.
+Aduz que o valor fixado a título de danos morais é irrisório.
+Ao final, requer o provimento do recurso.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante ao pedido e valor dos danos morais, o Tribunal de origem assim se manifestou:
+"(..) inegáveis os danos morais sofridos pelo autor, pois impedido de embarcar em viagem previamente programada. O simples fato de a empresa ré não ter realocado o autor em outro voo que atendesse a suas necessidades, ainda que de companhia aérea parceira, é suficiente para configurar o dano moral indenizável. Não se pode negar que os transtornos causados pelo cancelamento do voo, sem realocação posterior, com a necessidade de aquisição, às expensas do autor, de passagens junto a outra companhia aérea para realizar a viagem, afeta a normalidade psíquica do indivíduo.
+(..)
+Assim, face às circunstâncias do caso concreto acima descritas reduz-se o quantum indenizatório para R$1.500,00, quantia que, ao ver da Turma Julgadora, revela-se suficiente para reparar o dano causado ao autor" (fls. 219/220 e-STJ).
+Irresignado , alega o recorrente violação do artigo 14 do CDC, pugnando pela majoração do valor arbitrado a título de danos morais.
+Contudo, referido preceito legal não tem comando normativo suficiente para infirmar os fundamentos do acórdão combatido, mesmo porque a reparação foi concedida nos termos determinado pelo dispositivo de lei apontado como violado, tampouco possui força para sustentar a tese defendida pela parte recorrente sobre a necessidade majorar a verba indenizatória, o que configura a deficiência de fundamentação do recurso especial, a atrair o óbice da Súmula nº 284/STF.
+Ademais, rever a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CANCELAMENTO DE VOO. DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, quanto à majoração dos danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+2. O mero não conhecimento ou improcedência de agravo interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC.
+3. Agravo interno improvido" (AgInt nos EDcl no AREsp n. 1.504.036/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2019, DJe de 28/10/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de aplicar o art. 85, § 11, do CPC/2015 pela ausência de prévia fixação na origem.
+Publique-se.
+Intimem-se.
