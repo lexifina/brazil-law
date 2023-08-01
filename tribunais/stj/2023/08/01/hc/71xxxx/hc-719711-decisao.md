@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gilnei Silva Leal e Willians Jacques Guadaguinim dos Santos, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que os pacientes foram denunciados como incursos no art. 121, § 2º, III e IV, do Código Penal, por terem, mediante recurso que dificultou a defesa do ofendido e fazendo uso de arma de fogo, desferido disparo que foi a causa da morte da vítima (fl. 77).
+Contra a decisão de primeiro grau que desclassificou a imputação feita de crime doloso por outra alheia à competência do Júri popular, o Ministério Público interpôs recurso em sentido estrito requerendo a pronúncia dos pacientes por entender estarem presentes a autoria, materialidade do crime e a presença do animus necandi. A Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul deu provimento ao recurso para incursionar os réus no art. 121, § 2º, III e IV, do Código Penal (fls. 29/62).
+Opostos embargos de declaração pela defesa, foram desacolhidos pela Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (fls. 63/73).
+No presente writ, a defesa aponta constrangimento ilegal por entender que há fragilidade probatória para a pronúncia (fls. 3/28).
+Decisão da Presidência desta Corte indeferindo o pedido de liminar (fls. 1.642/1.646).
+Prestadas informações pelo Tribunal de Justiça do Rio Grande do Sul (fls. 1.649/1.716).
+Parecer ministerial opinando pela denegação da ordem (fls. 1.718/1.719).
+É o relatório.
+A pretensão da defesa é pela despronúncia. Quando a Câmara julgadora proveu o recurso em sentido estrito interposto pela acusação, trouxe fundamentação no sentido de que a materialidade não foi contestada, pois comprovada por meio da ocorrência policial e demais provas dos autos, e em face da autoria, pois existem indícios suficientes de que os acusados possam ter sido os autores do crime em razão da transcrição dos depoimentos contidos na sentença. Com efeito, não há como, em sede de habeas corpus, chegar a um entendimento contrário referente à classificação do delito, já que o Julgador apresentou idônea motivação.
+Além disso, a Câmara Criminal também assentiu que a decisão de pronúncia é um juízo de admissibilidade, não encerrando juízo de mérito, e que bastam indícios de autoria e de materialidade para a pronúncia do acusado. Nesses termos, o entendimento do acórdão está de acordo com a jurisprudência desta Corte. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES TENTADO. PRONÚNCIA. LEGÍTIMA DEFESA. AUSÊNCIA DE COMPROVAÇÃO CABAL. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA DELITIVA. DESCLASSIFICAÇÃO PELA AUSÊNCIA DE ANIMUS NECANDI. NÃO CABIMENTO NO CASO DOS AUTOS. COMPETÊNCIA DO JÚRI. A EXCLUSÃO DO JULGAMENTO DA CAUSA PELO ÓRGÃO POPULAR SOMENTE PODERÁ OCORRER QUANDO NÃO HOUVER ABSOLUTAMENTE NENHUM ELEMENTO QUE INDIQUE A PRESENÇA DO DOLO DE MATAR, DIRETO OU INDIRETO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Constituição da República conferiu ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida, consumados e tentados, e assegurou-lhe a soberania dos vereditos. Em respeito ao princípio do juiz natural, a decisão de pronúncia consubstancia mero juízo de admissibilidade da acusação, consoante o disposto no art. 413 do CPP. Para que o acusado seja pronunciado, basta que o juiz esteja convencido da materialidade do delito e da existência de indícios suficientes de autoria ou de participação.
+ ..
+3. Questões referentes à certeza da autoria e à materialidade do delito deverão ser analisadas pelo Corpo de Jurados, órgão constitucionalmente competente para a apreciação do mérito de crimes dolosos contra a vida. Os Juízos antecedentes foram expressos ao consignar que a instrução criminal não comprovou, de forma inequívoca, a ocorrência da legítima defesa, de modo que a competência para o reconhecimento da alegada excludente de ilicitude é do Tribunal do Júri.
+4. O mesmo entendimento se aplica à tese da desclassificação do delito, prevista no art. 419 do Código de Processo Penal, ou seja, o juiz só desclassificará o delito diante da certeza da ausência de dolo na conduta imputada ao réu ou de provas inequívocas de que o recorrente desistiu voluntariamente de ceifar a vida da vítima. Em caso de dúvida, compete ao Tribunal do Júri decidir.
+5. Afastar as conclusões das instâncias de origem, quanto ao contexto fático, implicaria ofensa ao conteúdo da Súmula 7 do STJ.
+6. Agravo regimental não provido.
+( AgRg nos EDcl no AREsp n. 2.175.413/PB, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/2/2023 - grifo nosso)
+Diante disso, como o acórdão hostilizado apresenta materialidade e indícios de autoria, não há ilegalidade a ponto de ser devida a intervenção desta Corte Superior.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DECISÃO DE DESCLASSIFICAÇÃO. RECURSO MINISTERIAL PROVIDO. PRONÚNCIA DOS PACIENTES AO TRIBUNAL DO JÚRI. JUÍZO DE ADMISSIBILIDADE E NÃO DE MÉRITO. AUSÊNCIA DE ILEGALIDADE. INDÍCIOS DE AUTORIA DO CRIME. MATERIALIDADE COMPROVADA. NECESSIDADE DE REVOLVIMENTO DO ARCABOUÇO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Ordem denegada.
