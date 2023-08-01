@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LINCO KCZAM, apontando-se como autoridade coatora o Tribunal de Justiça do Paraná, que negou provimento ao Recurso em Sentido Estrito n. 00022732020228160014 (fl. 20):
+RECURSO EM SENTIDO ESTRITO. DECISÃO QUE INDEFERIU O PEDIDO DE EXTINÇÃO DE PUNIBILIDADE (ARTIGO 107, INC. V, DO CP). ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA INDIVISIBILIDADE DA AÇÃO PENAL PRIVADA, EM RAZÃO DO NÃO OFERECIMENTO DA QUEIXA-CRIME EM DESFAVOR DO ADVOGADO SUBSCRITOR DA PETIÇÃO INICIAL. PECULIARIDADES DO CASO CONCRETO QUE DEMONSTRAM QUE O ADVOGADO APENAS NARROU OS FATOS TRAZIDOS PELO SEU CLIENTE.
+AUSÊNCIA DE EXCESSO NA ATUAÇÃO DO PROFISSIONAL. NÃO VIOLAÇÃO AO PRINCÍPIO DA INDIVISIBILIDADE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Alega-se que, de forma consciente e deliberada, o recorrido e seu causídico deixaram de incluir EDUARDO DUARTE FERREIRA no polo passivo da exordial acusatória quando era possível identificar o papel por ele desempenhado no iter criminis, evidenciando a renúncia tácita ao direito de queixa que deve ser estendida para o recorrente em cumprimento ao disposto no art. 49 do Código de Processo Penal. Afirma-se que, ao deixar de incluir o advogado EDUARDO DUARTE FERREIRA no polo passivo da queixa-crime, o querelante deixou de observar o princípio da indivisibilidade da ação penal privada. Dessa maneira, deve ser decretado a extinção de punibilidade de LINCO KCZAM em atendimento ao art. 107, inciso V, do Código Penal, pela inobservância da regra contida no art. 48 do Código de Processo Penal (fls. 9/10).
+Requer-se, liminarmente e no mérito, a suspensão da ação penal originária autuada sob n. 0041450-93.2019.8.16.0014, da 2ª Vara Criminal de Londrina/PR, devendo esse efeito ser estendido aos seus recursos, com a finalidade de se evitar decisões conflitantes (fl. 13).
+A liminar foi indeferida (fls. 245/246).
+Informações prestadas (fls. 249/265).
+Parecer do Ministério Público Federal (fls. 284/288).
+É o relatório.
+Não ficou evidenciada a existência do alegado constrangimento ilegal.
+De início, é sabido que esta Corte Superior de Justiça, em consonância com o Supremo Tribunal Federal, tem entendimento firmado no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício (HC n. 393.709/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/6/2017). Sendo assim, não conheço do habeas corpus.
+Outrossim, não há ilegalidade na decisão vergastada.
+Cediço que o trancamento da ação penal é medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade ou a ausência de prova da materialidade ou de indícios mínimos de autoria, o que não ocorreu no caso.
+Ademais, a impetrante alega que o paciente seria, na verdade, partícipe dos delitos contra a honra imputados (art. 138, caput, e 139, caput, do CP), sendo seu advogado constituído o autor (fl. 7). No entanto, por mais que tenha participado no preparo de petições as quais ensejaram os supostos fatos criminosos, esse atua protegido por imunidade profissional (art. 133 da CF e art. 2º, § 3º, da Lei n. 8.906/19 94).
+Com efeito, esclarece o acórdão impugnado que não se vislumbra qualquer violação do princípio da indivisibilidade da ação penal, considerando que Eduardo Duarte Ferreira apenas atuou como advogado do recorrente nos autos de representação criminal, de modo que não pode ser responsabilizado por eventuais crimes contra a honra atribuídos ao seu cliente (fl. 24).
+No mesmo sentido, opinou o Ministério Público Federal em parecer (fl. 287):
+O Tribunal a quo rechaçou tal assertiva ao verificar que o ora paciente também é advogado e ao constituir patrono para representá-lo e apresentar representação criminal contra terceiros, rubricando pessoalmente todas as páginas da petição exerceu atitude que demonstrara ter seu patrono, o também advogado Eduardo Duarte Ferreira atuado apenas como intérprete/advogado de fatos narrados a ele comunicados pelo querelado ora paciente sem que houvesse do profissional subscritor excesso ou incontinência verbal/literal, razão por que não haveria justa causa a que fosse incluído no polo passivo da demanda.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. AÇÃO PENAL PRIVADA. CRIMES CONTRA A HONRA. TRANCAMENTO DA AÇÃO POR EXTINÇÃO DA PUNIBILIDADE. INDIVISIBILIDADE DA AÇÃO PENAL PRIVADA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Writ não conhecido.
