@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por WALTER DE SOUZA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento de apelação criminal n. 1500052-17.2020.8.26.0552.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas), à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, no piso legal (fls. 200/206).
+Recurso de apelação interposto pela defesa foi parcialmente provido para fixar a pena-base no mínimo legal, sem reflexo na pena final. O acórdão ficou assim ementado:
+"TRÁFICO ILÍCITO DE ENTORPECENTES - SENTENÇA CONDENATÓRIA - INSURGÊNCIA DEFENSIVA - PRELIMINAR AFASTADA - ATUAÇÃO DA GUARDA CIVIL METROPOLITANA - LEGITIMIDADE SITUAÇÃO DE FLAGRANTE DELITO - AUSÊNCIA DE VIOLAÇÃO DE DOMICÍLIO - MÉRITO - CONDENAÇÃO MANTIDA - CONJUNTO PROBATÓRIO ROBUSTO EM DESFAVOR DO ACUSADO - RÉU CONFESSO EM AMBAS AS FASES PERSECUTÓRIAS - DOSIMETRIA - RETORNO DA PENA-BASE AO MÍNIMO LEGAL, SEM REFLEXO NA PENA FINAL CALCULADA - INVIÁVEL A CONCESSÃO DO REDUTOR DO ART. 33, §4º, DA LEI DE DROGAS - DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS - REGIME INICIAL FECHADO MANTIDO - RECURSO PROVIDO EM PARTE, PARA RETORNAR A PENA-BASE AO MÍNIMO LEGAL, SEM REFLEXO NA PENA FINAL." (fl. 326)
+Embargos infringentes opostos para fazer prevalecer o voto minoritário que aplicava o redutor do art. 33, § 4º, da Lei n. 11.343/06 e fixava o regime aberto foram parcialmente acolhidos, para aplicar o redutor, redimensionando a pena imposta para 1 ano e 8 meses de reclusão, e 166 dias-multa, mantendo o regime inicial fechado, conforme acórdão de fls. 391/397.
+Sem ementa.
+Em sede de recurso especial (fls. 406/420), a defesa apontou inobservância do art. 33, § 2º, "c" do Código Penal - CP, porque o TJ manteve o regime fechado para início de cumprimento da pena privativa de liberdade do recorrente.
+Sustenta, em síntese, que o regime mais gravoso foi fixado em razão da gravidade em abstrato do delito, e que o recorrente preenche os requisitos para cumprimento da pena em regime aberto.
+Requer a fixação do regime aberto.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 424/437).
+Parcialmente admitido o recurso no TJ (fls. 449/450), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 458/462).
+É o relatório.
+Decido.
+Acerca da controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve o regime inicial fechado nos seguintes termos do voto do relator:
+"Por outro lado, quanto ao regime prisional inicial imposto, verifica-se que o inicial fechado é o único que se coaduna com a gravidade do crime praticado pelo acusado, que resta, pois, mantido, tal como estabelecido pela douta maioria.
+O crime de tráfico de entorpecentes continua sendo grave, aliás um dos mais graves dentre os elencados no Código Penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+Há, como é de sabença, crimes graves, mas que não são tidos como hediondos, como, por exemplo, o de roubo agravado, o de homicídio simples, dentre outros. Mesmo o tráfico de drogas, considerado o § 4º, do artigo 33 da respectiva Lei Especial, é, sem dúvida, crime grave.
+Mas há os considerados hediondos.
+Hediondo quer significar horrendo, gravíssimo, repulsivo, absolutamente intolerável.
+Ora, sendo assim, como aplicar-se para um crime hediondo, como o tráfico de entorpecentes, regime que não o inicial fechado
+O traficante, perante a lei penal tal como está em vigor, é tido como um pária da sociedade, que destrói, não só a saúde das pessoas, especialmente a dos jovens, deixando muitos deles incapacitados para estudar ou mesmo trabalhar, pois é sabido que a cocaína e o "crack", por exemplo, além de causarem dependência, destroem os neurônios, como ainda arrasam os patrimônios das famílias, com gastos desmesurados com tratamentos e internações, e o que é pior: com mínimas chances de recuperação.
+A sociedade não tolera o traficante, não podendo o Poder Judiciário fazer ouvidos moucos ao clamor social.
+O legislador, com a edição da Lei nº 11.343/06, passou a punir o tráfico de forma mais severa exatamente porque o Poder Legislativo percebeu, sentiu que o tecido social estava se esgarçando cada vez mais e que os valores deveriam ser preservados.
+Uma sociedade repleta de viciados e dependentes é uma sociedade que caminha a passos largos para sua própria destruição com o prejuízo de todos, menos dos traficantes que, com o dinheiro e patrimônio amealhados de forma criminosa, poderão deixar o País e mudarem-se para outros lugares, onde, com certeza, passarão a destroçar outras sociedades, outras inúmeras famílias.
+Em suma, a sociedade e o Brasil como um todo é o que menos os preocupa.
+O Poder Judiciário tem que, igualmente, dar o exemplo, tal como procedeu o Legislativo.
+Bem por isso que a substituição por restritivas de direito é absolutamente inadmissível, consoante, aliás, bem decidiu, por votação unânime, a colenda Turma Julgadora.
+Com efeito, como aplicar ao traficante, por exemplo, a prestação de serviços à comunidade se ele, exatamente, não presta serviço social algum. Ao contrário, só destrói a sociedade em que ele vive!
+O tráfico de entorpecentes, por se tratar de crime equiparado aos hediondos, não admite a pretendida substituição. Tanto é que a lei penal até previa o regime inicial fechado, numa demonstração de que se trata de crime gravíssimo.
+Mas, mesmo que, em alguns casos, possa não ser mais considerado hediondo, ainda assim o crime de tráfico é sempre muito grave, comportando, dessarte, o regime inicial fechado, não sendo admitida a substituição de pena, mesmo nos casos de aplicação do § 4º, do artigo 33 da Lei de Drogas. Em liberdade, ou mesmo em regime prisional mais ameno, especialmente o aberto, óbvio que o agente irá continuar exercendo o nefando comércio. Nem a mais ingênua das pessoas iria acreditar no contrário!" (fls. 394/397)
+Vê-se, assim, que o regime mais gravoso foi fixado com fundamento na gravidade em abstrato do delito.
+Nos termos da jurisprudência desta Corte, é vedada a fixação de regime inicial mais gravoso com base apenas na gravidade abstrata do delito, sobretudo quando se trata de agente cuja pena-base foi estipulada no mínimo legal, nos termos do enunciado sumular n. 440/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO EM CONTINUIDADE DELITIVA. PRIMARIEDADE E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME FECHADO. GRAVIDADE ABSTRATA DO DELITO. IMPOSSIBILIDADE. SÚMULAS 718 E 719 STF E 440 DO STJ.
+1. Firmou-se nesta Corte o entendimento no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, porquanto é contraditório o estabelecimento de pena-base no mínimo e de regime mais severo, com base em circunstâncias não consideradas inicialmente.
+2. A mera referência genérica, pelo Tribunal a quo, à gravidade ínsita ao delito de roubo não constitui motivação suficiente para justificar a imposição de regime prisional mais gravoso, uma vez que se trata de situação prevista no próprio tipo. Súmulas 718 e 719 do STF e 440 do STJ. 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1674685/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/08/2017).
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO QUALIFICADO. REGIME PRISIONAL MAIS GRAVOSO IMPOSTO PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO INIDÔNEA. CONDIÇÕES JUDICIAIS FAVORÁVEIS. PACIENTE PRIMÁRIO. PENA APLICADA INFERIOR A 8 ANOS. GRAVIDADE ABSTRATA DO DELITO. INCIDÊNCIA DA SÚMULA N.º 440/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM DE HABEAS CORPUS CONCEDIDA PARA ALTERAR O REGIME INICIAL DO CUMPRIMENTO DA PENA.
+1. A Corte de origem não utilizou fundamentação idônea capaz de justificar a imposição do regime mais rigoroso ao Paciente, já que a atuação com outro comparsa não demonstra, por si só, no caso dos autos, maior reprovabilidade da conduta e a violência não exacerbada, apontada pelo Tribunal a quo, constitui tão somente uma elementar do crime de roubo. Ressalta-se, ainda, que foi reconhecida a primariedade do Acusado pelo Juízo sentenciante, sendo-lhe atribuídas condições judiciais favoráveis, razão pela qual a pena-base foi fixada no patamar mínimo para o delito.
+2. In casu, incide a Súmula n.º 440 desta Corte Superior, que consigna, in verbis: "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+3. Ordem de habeas corpus concedida para fixar o regime inicial semiaberto.
+(HC 490.412/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 30/05/2019).
+Dessa forma, mantida a pena final do recorrente em 1 ano e 8 meses de reclusão, nos termos do art. 33, § 2º, "c", do CP, fixo o regime inicial aberto para início da pena privativa de liberdade.
+Além disso, presentes os requisitos do art. 44 do Código Penal, substituo a pena privativa de liberdade por duas penas restritivas de direitos, a critério do Juízo da Execução Penal.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para fixar ao recorrente o regime inicial aberto, devendo a pena privativa de liberdade ser substituída por duas restritivas de direitos, a critério do Juízo da Execução Criminal.
+Publique-se.
+Intimem-se.
