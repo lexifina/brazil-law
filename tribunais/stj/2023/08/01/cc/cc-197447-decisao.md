@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  conflito  negativo de  competência  instaurado entre o JUÍZO DE DIREITO DA 1A VARA DE FEITOS DE RELAÇÃO DE CONSUMO, CÍVEL E COMERCIAIS DE BARREIRAS - BA (suscitante) e o JUÍZO FEDERAL DO JUIZADO ESPECIAL CIVEL E CRIMINAL ADJUNTO À VARA FEDERAL DE BARREIRAS - SJ/BA (suscitado).  O conflito decorre de  ação  ajuizada  em  desfavor  do  Instituto Nacional do Seguro Social objetivando  a  parte  autora  a  concessão  do benefício de auxílio-doença/aposentadoria por invalidez.
+O Juízo suscitado declarou-se incompetente para processar e julgar o feito por entender que competia à Justiça estadual processar e julgar a causa em razão da matéria veiculada nos autos, porquanto a demanda tratava de benefício decorrente de acidente do trabalho (fl. 21).
+O Juízo suscitante, por sua vez, suscitou o presente conflito porque a competência para processar e julgar a ação previdenciária seria da Justiça Federal, uma vez que, "no caso em tela, o perito constatou que a moléstia que incapacita o autor não teve origem em acidente de trabalho, tratando-se de doença degenerativa (quesito nº 2, ID. 187777597) pelo que, nos termos do art. 20, §1º, da Lei 8.213/91, não se trata de doença do trabalho ou profissional" (fl. 17).
+Ministério Público Federal, em parecer, opinou a favor da "competência do juízo federal, suscitado" (fl. 41), nos termos da seguinte ementa:
+Conflito negativo de competência. Juízos federal e estadual. Demanda previdenciária. Pedido aposentadoria por invalidez ou auxílio-doença. A jurisprudência do STJ estabilizou-se no sentido de que se afere a competência pelo critério da asserção do autor: a petição inicial, nem remotamente, vincula os pleitos do autor a acidente de trabalho, cuja eventual ocorrência, não interfere na concessão de benefício previdenciário de natureza comum. Parecer pela competência do juízo federal, suscitado (fl. 39).
+É o relatório.
+Conheço  do  conflito  porque  se  trata  de  controvérsia  instaurada  entre  juízos vinculados  a  tribunais  distintos,  conforme  preceitua  o  art.  105,  I,  d,  da  Constituição Federal  .
+Segundo  o  pacífico  entendimento  desta  Corte  Superior  de  Justiça,  o  teor  da petição  inicial  é  elemento  essencial  ao  deslinde  do  conflito,  visto  que  a  definição  da competência  decorre  de  verificação  da  causa  de  pedir  e  do  pedido  nela apresentados  .
+Na presente hipótese, a parte autora pleiteou a concessão do "AUXÍLIO DOENÇA REQUERIDO DESDE 23/10/2018, E A PROCEDER COM A SUA CONVERSÃO EM APOSENTADORIA POR INVALIDEZ, CASO SEJA CONSTATADA NA PERÍCIA A INCAPACIDADE PERMANENTE PARA O LABOR" (fl. 11).
+Alegou como causa de pedir que (fls. 8/9):
+Há alguns anos, o Autor sofre de: Lumbago com ciática, Artrose, Gonartrose (CID m-19.9,M17.9, M51), sem mais condições físicas e psicológicas de trabalhar, sendo segurado da Previdência.
+ ..
+Além disso, está praticamente impossibilitada de realizar atividades simples, pois NÃO CONSEGUE TRABALHAR, QUE REQUER TOTAL ESFOÇO DO QUE ESTÁ FAZENDO.
+Assim, considerando que a parte demandante requer a concessão de benefício de natureza previdenciária e que não há, na narrativa dos fatos, menção à ocorrência de acidente de trabalho, a competência para processar e julgar a causa é da Justiça Federal à luz do art. 109, I, da CF, segundo o qual:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Nesse sentido, confiram-se os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PREVIDENCIÁRIA DE CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+1. Conflito Negativo de Competência instaurado entre o Juízo de Direito da 4ª Vara Cível de Cáceres/MT e o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, em ação previdenciária de conversão de auxílio-doença em aposentadoria por invalidez.
+2. No caso concreto, não se extrai da petição inicial qualquer alusão à ocorrência de acidente laboral que, como causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça Estadual.
+ ..
+4. Conflito de Competência conhecido para declarar competente para o processamento do feito o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, o suscitado. (CC 164.335/MT, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe 12/6/2019 - sem grifos no original.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA EM RAZÃO DA MATÉRIA DA JUSTIÇA FEDERAL DE ITAPERUNA/RJ.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Na hipótese em exame, o interessado postulou a concessão de beneficio previdenciário sem referência a acidente de trabalho.
+3. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da demanda é a concessão de benefício previdenciário por invalidez, tendo como causa de pedir o seu estado de saúde. Logo, a competência para processar e julgar a presente demanda é da Justiça Federal.
+4. Conflito de Competência conhecido a fim de declarar competente para processar o feito a Justiça Federal de Itaperuna/RJ. (CC 158.104/RJ, relator Ministro Herman Benjamin, Primeira Seção, julgado em 8/8/2018, DJe 20/11/2018 - sem grifos no original.)
+Ante o exposto, conheço do presente conflito para declarar a competência da Justiça Federal para processamento e julgamento do feito.
+Publique-se. Comunique-se.
