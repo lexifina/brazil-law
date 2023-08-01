@@ -1,0 +1,55 @@
+RECLAMAÇÃO. SERVIDOR PÚBLICO ANISTIADO. LEI 8.878/1994. DECISÃO QUE DETERMINA A EQUIPARAÇÃO COM SERVIDORES QUE NÃO FORAM AFASTADOS. ALEGAÇÃO DE OFENSA ÀS SÚMULAS VINCULANTES 10 E 37. OCORRÊNCIA. AFASTAMENTO INDEVIDO DE PREVISÃO LEGAL ESPECÍFICA SER OBSERVÂNCIA DA CLÁUSULA DE RESERVA DE PLENÁRIO. PRINCÍPIO DA ISONOMIA. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    Decisão: Trata-se de reclamação ajuizada pela Agência Nacional de Mineração - AMN contra decisão proferida pelo Tribunal Superior do Trabalho, nos autos do Processo nº 0010965-80.2015.5.03.0138, sob a alegação de ofensa às Súmulas Vinculantes 37 e 10.
+
+    Em síntese, narra a autarquia autora ter sido demandada na origem por servidor anistiado da Companhia Vale do Rio Doce com vistas ao reconhecimento do seu direito a reposicionamento de carreira, recomposição remuneratória e progressão salarial. Relata que, em sede de recurso de revista, foi determinado o reenquadramento do autor “no atual plano de cargos e salários da reclamada, consoante os termos do art. 2º da Lei nº 8.878/94".
+
+    Sustenta o reclamante ter havido no caso concreto ofensa à Súmula Vinculante 37, visto que o incremento salarial determinado se deu sem previsão legal específica e com fundamento no princípio da isonomia. Aduz ainda haver ofensa à Súmula Vinculante 10, dado que o TST teria afastado a incidência do disposto no art. 2º, parágrafo único, da Lei nº 8.878/1994 e dos artigos 309 e 310 da Lei nº 11.907/2009, sem observar a cláusula de reserva de plenário.
+
+    Requer, por estes fundamentos, seja julgada procedente a reclamação, a fim de que seja cassado o acórdão reclamado.
+
+    Devidamente citado, o beneficiário da decisão reclamada apresentou reclamação, sustentando, em síntese, que teria direito ao recebimento de todas as vantagens que receberia se não tivesse sido afastado, nos termos do que prevê o art. 471 da CLT (doc. 15).
+
+    A Procuradoria-Geral da República opinou pela procedência da reclamação, em parecer que restou assim ementado (doc. 23):
+
+    “RECLAMAÇÃO. SERVIDOR ANISTIADO E REINTEGRADO AOS QUADROS DO ÓRGÃO. DIFERENÇAS SALARIAIS DECORRENTES DE REAJUSTES REMUNERATÓRIOS GERAIS E PROGRESSÕES FUNCIONAIS LINEARES, CONCEDIDOS A PARTIR DO RETORNO AO SERVIÇO COM FUNDAMENTO NO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA. CARACTERIZAÇÃO DE AFRONTA À SÚMULA VINCULANTE 37 DO STF. PRECEDENTES. PROCEDÊNCIA. 1. A concessão, pelo Poder Judiciário, a servidor anistiado reintegrado, de diferenças salariais, decorrentes de reajustes remuneratórios gerais e progressões funcionais lineares, em equivalência à categoria que continuou em atividade, com fundamento no princípio da isonomia, caracteriza ofensa à autoridade da Súmula Vinculante 37 do STF. Precedentes. — Parecer pela procedência do pedido”
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238 AgR, Primeira Turma, Rel. Min, Dias Toffoli, DJe 24/05/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Reclamação ajuizada em face de decisão que declarou a competência da Justiça do Trabalho para julgar ação que versa sobre descumprimento de normas de segurança e medicina do trabalho aplicáveis a trabalhadores que laboram nos hospitais públicos estaduais. 2. Ausência da necessária relação de aderência estrita entre o ato reclamado e o paradigma apontado como violado, tendo em conta que a decisão reclamada se dedica à análise do cumprimento de normas de saúde e segurança do trabalho como forma de proteção à vida, à saúde e à integridade física de trabalhadores, garantindo o direito constitucional a meio ambiente de trabalho hígido e seguro para todos os empregados, independentemente do regime jurídico a que estejam sujeitos. 3. Agravo interno a que se nega provimento”. (Rcl 52.766 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 16/08/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142 AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe 23/08/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento principal a alegação de inobservância do teor da Súmula Vinculante 37, que tem o seguinte teor:
+
+    Súmula Vinculante 37: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+
+    Demais disso, alega a reclamante ter havido no caso ofensa à Súmula Vinculante 10, pela não aplicação ao caso concreto do no art. 2º, parágrafo único, da Lei nº 8.878/1994. Eis o teor do verbete sumular invocado como paradigma:
+
+    Súmula Vinculante 10: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+
+    Entendo que a razão assiste à parte reclamante no presente caso concreto. Isto porque a leitura da decisão reclamada revela ter o Tribunal Superior do Trabalho de fato desconsiderado a disposição constante do parágrafo único do art. 2º da Lei nº 8.878/1994, que establece regra expressa para servidores dispensados de órgãos ou entidades que tenha sido liquidados ou privatizados, aplicando, à espécie, a regra geral constante da CLT, sem, contudo, observar o quanto previsto no art. 97 da CF. Ao fazê-lo, incorreu o acórdão em violação à Súmula Vinculante 10, razão pela qual revela-se de rigor a cassação do acórdão reclamado.
+
+    Nesse sentido são as seguintes decisões monocráticas: Rcl 57.106, Rel. Min. Dias Toffoli, DJe 23/06/2023; Rcl 57.116, Rel. Min. Carmén Lúcia, DJe 04/04/2023; Rcl 57.356, Rel. Min. Edson Fachin, DJe 03/07/2023.
+
+    Ex positis, JULGO PROCEDENTE A RECLAMAÇÃO, com fundamento nos artigos 992 do CPC e 161 do RISTF, a fim de cassar o acórdão proferido nos autos do Processo nº 0010965-80.2015.5.03.0138, determinando que outra seja proferida com observância da jurisprudência vinculante deste Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 1º de agosto de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
