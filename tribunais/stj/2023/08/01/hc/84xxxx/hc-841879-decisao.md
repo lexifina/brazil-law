@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de VALDIR HERMES DA SILVA, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que indeferiu o pedido de liminar formulado no HC n. 1413234-54.2023.8.12.0000.
+Relata o impetrante que o paciente foi preso preventivamente pela suposta prática do delito tipificado no art. 2º, caput e § 4º, II e IV, da Lei 12.850/2013, c/c o art. 61, II, "h", do Código Penal, termos em que denunciado.
+Sustenta que o paciente se encontra preso há 20 (vinte) dias sem que tenha sido submetido a audiência de custódia.
+Alega, outrossim, que a segregação processual encontra-se despida de fundamentação idônea, pois amparada na mera gravidade abstrata do delito, não estando presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Destaca que o paciente se encontra na mesma situação fático-processual de corré, que teve sua prisão processual substituída por medidas cautelares não prisionais, em ordem de habeas corpus concedida pelo Tribunal de origem.
+Pondera que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente ou, a substituição da mencionada constrição por "medidas cautelares diversas da prisão nos moldes que o prudente arbítri o da Relatoria exigir, tendo em vista os fundamentos trazidos à luz neste julgamento, e especialmente por já haver ordem liminar concedida à corré em idêntica situação fático/processual à do Sr. Valdir" (fl. 20).
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, não se verifica teratologia na decisão que decretou a prisão preventiva do paciente. Confira-se:
+ ..  a modalidade de execução do tipo penal, a gravidade concreta da ação criminosa e a personalidade dos representados denotam ser necessária a segregação cautelar para garantia da ordem pública, sendo evidente a possibilidade de reiteração criminosa.
+Com efeito, das investigações realizadas, verificou-se que as duas organizações trabalham de forma estável, com divisão de tarefas entre os respectivos integrantes, sendo grupo amplo e organizado, contando com cooptores treinados e articulados nos locais onde atuam, inclusive com líderes graduados, porquanto advogados, e também servidores públicos, atuando em vários Estados da Federação, circunstância que possibilitou a movimentação de R$ 190.862.481,86 (cento e noventa milhões, oitocentos e sessenta e dois mil, quatrocentos e oitenta e um reais e oitenta e seis centavos), entre 1.1.2016 a 21.8.2020, período sobre o qual incidiu o afastamento do sigilo bancário.
+Desta forma, a garantia da ordem pública se consubstancia na necessidade de interromper a atuação dos integrantes da complexa organização, dentre eles familiares dos líderes, sendo, portanto, fundamentação suficiente para a prisão preventiva, sobretudo pela gravidade concreta dos crimes, evidenciada pelo modus operandi da organização, com risco presente de reiteração delitiva (fls. 55/56).
+Quanto ao mais, tratam-se de matérias que demandam maior reflexão e exame aprofundado dos autos, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
