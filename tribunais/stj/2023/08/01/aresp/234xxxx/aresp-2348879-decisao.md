@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ADILSON JOÃO DA CRUZ, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/02/2023.
+Concluso ao gabinete em: 30/06/2023.
+Ação: embargos à execução, opostos por MAPFRE VIDA S/A, em face de ADILSON JOÃO DA CRUZ.
+Sentença: julgou improcedentes os embargos e determinou o prosseguimento da execução, bem como condenou a agravada ao pagamento das custas e dos honorários, que foram fixados em 15% do valor da condenação.
+Acórdão: rejeitou a preliminar e a prejudicial de prescrição, para dar provimento à Apelação interposta pela agravada e julgar prejudicada, em parte, a Apelação adesiva interposta pelo agravante, nos termos da seguinte ementa:
+"Apelação Cível - Embargos à execução - Prescrição afastada - Seguro de invalidez por doença profissional - Ausência de nexo de causalidade com o trabalho - Indenização securitária indevida - Procedência dos embargos.
+- A ação do segurado contra o segurador para cobrança de valores atinentes ao contrato de seguro prescreve em um ano a contar da ciência do fato gerador da pretensão, no caso a doença profissional incapacitante (art. 206, §1º, II, "b", do CC/2002).
+- Não havendo cobertura para indenização em caso de incapacidade decorrente de doença não profissional, não remanesce obrigação da seguradora em arcar com a verba indenizatória." (e-STJ fl. 322)
+Recurso especial: alega violação dos arts. 373, I, II, 485, IV, CPC/15, 47, 51, Lei 8.078/90, Súmula 632/STJ, bem como dissídio jurisprudencial, sustentando que: i) a recorrida não distribuiu a ação de embargos do devedor, tendo realizado o protocolo de petição intermediária nos próprios autos da execução, não observando as regras de procedimento, sendo inadequada a via eleita; e, ii) as cláusulas contratuais devem ser interpretadas do modo mais favorável ao recorrente, parte fragilizada da relação jurídica; e, iii) as cláusulas abusivas são nulas de pleno direito; e, iv) a doença do recorrente está atrelada a atividade profissional, seja o surgimento ou agravamento, por causa ou concausa, uma vez que exerce atividade de frentista de posto de combustível.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 47, 51, Lei 8.078/90, indicados como violados, não tendo o agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "rejeitou-se a preliminar de inadequação na interposição dos embargos à execução, uma vez que tendo sido efetivamente distribuídos os embargos em apenso à execução, possibilitou-se a defesa do agravante, não se verificando nenhum prejuízo às partes, além do fato de que a inicial atende a todos os requisitos legais", bem como de que "as partes celebraram contrato de seguro de vida em grupo, no qual consta, entre outras, a cobertura para "PAED", ou seja, pagamento antecipado especial por consequência de doença profissional, no valor de R$ 12.000,00", assim também de que "constou expressamente anexo ao certificado a descrição de "PAED", como sendo o pagamento da quantia de R$ 12.000,00 no caso de doença profissional do empregado, quando da caracterização de estado de Invalidez Permanente Total por Doença adquirida no exercício profissional de suas atividades, mediante declaração médica", além de que "afirmou o perito que "a doença do agravante tem característica degenerativa, ou seja, não há nexo causal entre a doença e sua atividade laboral, então, conclui-se que a doença não é profissional, pois as patologias degenerativas têm caráter crônico, com desenvolvimento lento e progressivo, isto é, não relacionadas a acidentes", ao entendimento de que "a apólice securitária não prevê cobertura para invalidez decorrente de doença, mas tão somente para invalidez relativa à doença profissional, não sendo este o caso dos autos", e, por fim, de que "evidencia-se legítima a recusa da agravada em pagar a indenização referente a risco não demonstrado", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, o recorrente utilizou acórdãos da lavra do próprio TJ/MG, os quais, todavia, não se prestam à comprovação da divergência, nos termos da Súmula 13/STJ.
+Por fim, a falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1.579.618/PR, 3ª Turma, DJe 01/07/2016; AgRg no REsp 1.283.930/SC, 4ª Turma, DJe 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe 17/03/2014.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de embargos à execução.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+7. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+8. Agravo conhecido. Recurso especial não conhecido.
