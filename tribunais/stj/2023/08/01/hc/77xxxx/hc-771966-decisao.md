@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS EDUARDO ANACLETO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, Revisão Criminal n. 2053938-07.2022.8.26.0000.
+Consta dos autos que o paciente foi inicialmente condenado, pelo Juízo da Vara Criminal da Comarca de Taboão da Serra, a cumprir pena de nove (9) anos e vinte e seis (26) dias de reclusão, no regime inicial fechado, e a pagar vinte e um (21) dias-multa, por infração ao artigo 157, parágrafo 2º-A, incisos I, por duas vezes, na forma do artigo 70, primeira parte, ambos do Código Penal.
+Operado o trânsito em julgado, o paciente propôs perante o Tribunal de Justiça Revisão Criminal, pretendendo a desconstituição do título condenatório, visando a absolvição, a redução da pena no mínimo legal e o abrandamento do regime prisional. Os pedidos foram julgados improcedentes, conforme o acórdão de fls. 61-67.
+No presente writ, o impetrante sustenta que o citado acórdão padece de flagrante ilegalidade em razão da desproporcional dosimetria da pena.
+Requer, ao final, a concessão da ordem de habeas corpus para readequar a pena-base e o regime inicial de cumprimento de pena.
+A liminar foi indeferida às fls. 70-71.
+As informações foram prestadas às fls. 75-78 e 84-94.
+O Ministério Público Federal opinou às fls. 96-101 pelo não conhecimento e pela inexistência de ilegalidade a ser sanada.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do STF, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento.
+Desta forma, incabível o presente mandamus, porquanto sucedâneo de recurso especial.
+Passo a análise de possível constrangimento ilegal, passível de ser sanado pela concessão da ordem de ofício.
+Registro que o acórdão impugnado, ao enfrentar a pleito revisional acerca da na dosimetria da pena, assim fundamentou (fls. 61-67):
+ ..
+A pena base foi fixada no mínimo legal e as agravantes (crime cometido em período de pandemia, contra pessoa maior de 60 anos) foram compensadas com as atenuantes da confissão espontânea e da menoridade relativa. A primeira agravante tem sido afastada por este Colendo Grupo quando não fica estabelecido nexo causal entre o crime e a pandemia, mas no caso em exame o afastamento fica sem efeito prático, porque a pena base acabou ficando no mínimo legal.
+Embora o revólver utilizado pelo réu estivesse desmuniciado, o seu emprego se revelou apto a incutir temor no ânimo das vítimas, reduzindo-as à completa incapacidade de resistência. É o quanto basta para a incidência da causa de aumento. A existência de divergência jurisprudencial a respeito não invalida o critério que a sentença e o acórdão adotaram para a sua manutenção.
+Incide a regra do concurso formal, porque o Revisionando investiu contra o patrimônio de vítimas distintas com a perfeita consciência de que assim agia.
+E o regime inicial fechado foi justificado a contento e fica mantido, por conta da pena concretizada, superior a oito anos, gravidade concreta do crime e pelo dolo exacerbado com que se houve o Revisionando, que agrediu fisicamente uma das vítimas.
+Enfim, e sempre com a devida venia, não é correto que a condenação tenha contrariado a evidência dos autos.
+Ante o exposto, o meu voto rejeita a preliminar de não conhecimento e julga improcedente a ação revisional.
+ ..
+Cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Na hipótese, a instância originária, ao aplicar a majorante ao caso concreto, ressaltou que "Embora o revólver utilizado pelo réu estivesse desmuniciado, o seu emprego se revelou apto a incutir temor no ânimo das vítimas, reduzindo-as à completa incapacidade de resistência. É o quanto basta para a incidência da causa de aumento. A existência de divergência jurisprudencial a respeito não invalida o critério que a sentença e o acórdão adotaram para a sua manutenção".
+Observo a ocorrência de constrangimento ilegal no acórdão combatido, passível de ser extirpada, consubstanciada pela aplicação da majorante de emprego de arma de fogo, prevista no § 2º-A, do artigo 157, Código Penal, na terceira fase de dosimetria da pena.
+A jurisprudência desta Corte é assente no sentido de que a utilização de arma desmuniciada, como forma de intimidar a vítima do delito de roubo, caracteriza o emprego de violência, porém não permite o reconhecimento da majorante de pena, uma vez que está vinculada ao potencial lesivo do instrumento, dada a sua ineficácia para a realização de disparos.
+Precedentes: HC n. 728.901/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022; AgRg no HC 665770/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJ-e 24/09/2021 e HC 247708/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJ-e 25/04/2018.
+Passo ao redimensionamento das penas.
+Mantenho as penas fixadas na primeira e segunda fase da dosimetria pelas instâncias ordinárias e, em decorrência do afastamento da majorante insculpida no art. 157, § 2.º-A, inciso I, do Código Penal, fixo, definitivamente, as penas em 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, e 13 (treze) dias-multa, fixados estes em 1/30 (um trigésimo) do salário mínimo vigente à data dos fatos, conforme estabelecido pelo Juízo sentenciante.
+Ainda que a pena redimensionada não exceda oito anos, fica mantido o regime inicial fechado, uma vez que presente circunstância judicial desabonadora (circunstâncias do crime).
+Vale ressaltar que, embora o quantum da sanção seja baliza importante para o estabelecimento do regime inicial, não é, por si só, determinante, tendo em vista que a ponderação das circunstâncias judiciais, para tal fim, decorre de expressa previsão legislativa (art. 33, § 3º, do Código Penal), sendo que certo que, no caso em exame, a pena-base foi exasperada ante a existência de vetorial desfavorável.
+Com igual conclusão, confira-se: AgRg no REsp 1943490/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 07/12/2021, DJe 13/12; AgRg no AREsp 1846543/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/05/2021, DJe 27/05/2021.
+Em relação ao constrangimento ilegal denunciado na inicial, quanto à ilegalidade na equivocada valoração da culpabilidade, dos antecedentes, da conduta social e das consequências do crime na dosimetria da pena-base, registro que a sentença de fls. 43-44 não as considerou para elevar a pena-base:
+ ..
+Portanto, demonstradas a autoria e materialidade do delito, bem como a ausência de qualquer circunstância que exclua o crime ou isente o agente de pena, mostra-se de rigor a procedência da pretensão acusatória em relação ao crime de roubo. Passo a dosar a reprimenda.
+Na primeira fase da dosimetria penal, passo a analisar as circunstâncias judiciais do artigo 59 do Código Penal: culpabilidade (inerente ao tipo, sem considerações que possam aumentar significativamente a reprovabilidade da conduta); antecedentes (o acusado é primário); conduta social (nada a considerar); personalidade (nada a considerar); motivos do crime (inerentes à espécie); circunstâncias do crime (tendo em vista que o acusado se utilizou de efetiva violência contra a vítima Henriqueta, dando uma coronhada no seu ombro, valoro essa circunstância negativamente em 1/6); consequências do crime(inerentes à espécie);comportamento da vítima (nada a considerar).
+Assim, fixo a pena base no mínimo legal, isto é, 04 anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa.
+ ..
+Diante disso, não constato a flagrante ilegalidade apontada pelo impetrante quanto à primeira fase da dosimetria.
+Ante o exposto, concedo de ofício a ordem de habeas corpus para redimensionar a pena em 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, e 13 (treze) dias-multa, fixados estes em 1/30 (um trigésimo) do salário mínimo vigente à data dos fatos, mantido o regime inicial fechado para o cumprimento da pena, ficando mantidos os demais termos da sentença.
+P. I.
