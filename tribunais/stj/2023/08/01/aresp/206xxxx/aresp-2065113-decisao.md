@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado por EUSTAQUIO DE PAULA COLETA em face da decisão que inadmitiu recurso especial interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o agravante foi condenado pelo delito do art. 121, § 2º, incisos II e IV, c/c art. 14, inciso II, ambos do CP, à pena de 07 (sete) anos de reclusão, em regime semiaberto (fls. 241-248).
+O Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação da defesa (fls. 322-337).
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea "c", da Constituição da República, a defesa alegou divergência jurisprudencial por violação aos arts. 14, II, e 65. III. "c" e "d" do Código Penal; e arts. 41, 384, 483 e 593, III, "a" a "d", do CPP, porquanto o Tribunal de origem: i) não reconheceu a inépcia da denúncia; ii) não reconheceu hipótese de mutatio libeli, o que, de resto, também teria impingido nulidade na quesitação aos jurados; iii) não acolheu a tese de ser a condenação manifestamente contrária à prova dos autos; iv) não aplicou as atenuantes da confissão espontânea e da violenta emoção; e v) não aplicou a fração máxima de redução de pena a título de tentativa.
+Apresentadas contrarrazões (fls. 370- 374), sobreveio juízo negativo de admissibilidade fundado na aplicação da Súmula n. 284, STF, e na ausência do devido cotejo analítico para conhecimento do dissídio jurisprudencial (fls. 378-380).
+Nas razões do agravo, a parte postula o processamento do recurso especial, uma vez que teria cumprido todos os requisitos necessários a sua admissão (fls. 383-390).
+O Ministério Público Federal apresentou parecer pelo conhecimento parcial do agravo para dar parcial provimento ao recurso especial (fls. 409-414).
+É o relatório. DECIDO.
+Conheço do agravo e passo a examinar o recurso especial.
+A interposição do apelo extremo com fundamento na alínea "c", do inciso III, do art. 105, da Constituição Federal, exige o atendimento dos requisitos do art. 1029, e § 1º do Código de Processo Civil, e art. 255, § 1º, do RISTJ, para a devida demonstração do alegado dissídio jurisprudencial, competindo à parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência ou indicar repositório oficial ou credenciado, bem como transcrever os acórdãos para a comprovação da divergência e realizar o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não se verifica no caso dos autos.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. O Código de Processo Civil, no art. 1.029, § 1º, bem como o RISTJ, em seu artigo 255, § 1º, dispõem que: "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados."
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1.796.690/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 22/9/2021).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se .
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DO DEVIDO COTEJO ANALÍTICO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
