@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FABRÍCIO GONZALES DE REZENDE contra a decisão de fls. 430-434 (e-STJ), que deu parcial provimento ao recurso especial.
+O embargante alega omissão na decisão embargada. Para tanto, aduz que não há provas de que estaria na condução do veículo automotor.
+Sustenta, ainda, que o que existe "é a "comprovação" de que o embargante estava embriagado, com base única e exclusivamente no testemunho dos policiais, mas não há qualquer elemento que indique que o acusado estava na condução do veículo nessas condições, já que as únicas testemunhas ouvidas em juízo afirmam categoricamente que não viram o acusado na condução do veículo, todos os policiais afirmam que quando chegaram ele estava do lado de fora. E, ora, estar, ainda que embriagado, ao lado do veículo é conduta absolutamente atípica".
+Requer o conhecimento dos aclaratórios.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Colhe-se da decisão embargada:
+"DA AUTORIA
+A testemunha JOSÉ ROBERTO CARNEIRO JÚNIOR, policial militar, ouvido em Juízo (id. 34494022, 34494023 e 34494024), informou que: "na data dos fatos havia recebido a informação pelo Centro de Operações de que um carro havia se chocado com um poste na via principal do Lago Norte, na altura da QI 11, e os envolvidos estariam tentando desfazer o local do acidente. Fomos acionados tanto pelo Copom como pelos moradores, que estavam enviando fotos e vídeo do Sr. Fabrício tentando tirar o carro do local do acidente. Dirigimos até o local, quando a viatura entrou e o carro, que estava com a lateral danificada, já estava no interior de um conjunto da QI 11. O Sr. Fabrício apresentava sinais de embriaguez, a exemplo de odor etílico e olhos vermelhos.
+ ..
+Após determinado tempo, compareceu um amigo do réu, momento no qual o réu alegou que era aquele amigo quem estava conduzindo o carro. Os próprios moradores encaminharam aos policiais as imagens nas quais o réu aparece descendo do veículo. Quando chegamos ao local o carro se encontrava parado e o réu encontrava-se ao lado do automóvel. O Sr. Fabrício não deu qualquer explicação, estava bem embriagado. Ele estava na porta do carro e confessou que estava na direção do veículo. Não cheguei a ver ele dirigindo o carro. Ele se recusou a fazer o teste do etilômetro e realizamos o teste passivo de etilômetro, o qual comprovou a embriaguez. No teste, está escrito Paranoá porque é o local da Delegacia. Não me recordo se o teste foi feito no local ou na Delegacia, mas o teste foi feito. Confirmo na íntegra as minhas informações prestadas na Delegacia, mas não me recordo do teor. Independente da realização do teste, dava para perceber que ele estava embriagado, cambaleando, agressivo e com odor etílico muito forte."
+ ..
+Com efeito, não há nos autos nenhum elemento probatório que confirme a presença de terceira pessoa no local do crime e nem mesmo quem seria essa pessoa, apenas a alegação do réu de tratar-se um amigo. Além do mais, o réu não forneceu ou esclareceu nenhuma qualificação dessa pessoa. Ademais, os depoimentos das testemunhas em juízo apresentam-se coerentes e harmônicos, tendo os policiais, inclusive a testemunha de defesa, afirmado categoricamente que não havia outra pessoa nas proximidades do veículo e que o réu era a única pessoa que se encontrava ao lado da porta, segurando a chave do carro. Outrossim, a versão do réu de que o seu amigo teria o deixado no local para que ele chamasse o guincho, não merece prosperar, uma vez que no vídeo, enviado por moradores do local aos policias (id. 34494038), é possível visualizar o momento em que o veículo abalroado foi rebocado por um veículo Fiat/Pálio de cor prata, com auxílio de uma corda, sendo levado para rua interna de uma das quadras do local." (e-STJ, fls.291-293).
+Verifica-se, da simples leitura do julgado, que ao contrário do que alega o embargante, o acórdão recorrido através do testemunho dos policiais e das fotos e vídeos encaminhados pelos moradores, motivadamente concluiu pela presença de provas suficientes a comprovar que o réu estava na direção do veículo automotor.
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.
+ ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Dessarte, a matéria foi suficientemente analisada, não havendo se falar em quaisquer omissões a serem sanadas.
+A toda evidência, portanto, não há o que ser reparado no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
