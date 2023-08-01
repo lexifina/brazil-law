@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS MATHEUS SOUSA E SILVA contra decisão proferida pelo eg. Tribunal de Justiça do Distrito Federal e Territórios que inadmitiu recurso especial.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 180, caput, do Código Penal, à pena de 01 (um) ano, 10 (dez) meses e 12 (doze) dias de reclusão, em regime semiaberto, mais o pagamento de 18 (dezoito) dias-multa (fls. 246-252).
+O eg. Tribunal de origem, em decisão unânime, deu parcial provimento ao recurso de apelação criminal interposto pela Defesa para reduzir a pena do agravante para 1 (um) ano, 7 (sete) meses e 7 (sete) dias de reclusão e o pagamento de 12 (doze) dias-multa, mantido o regime semiaberto (fls. 345-368).
+Nas razões do recurso especial interposto com base na alínea a do permissivo constitucional, a Defesa alega violação aos arts. 386, VII do Código de Processo Penal e 180, § 3º, do Código Penal, ao argumento de ausência de provas para a condenação, pois não foi comprovado o dolo do réu de adquirir 04 rodas veiculares com pneus que soubesse ser produto de crime. Nesse sentido, pleiteia-se a absolvição, em consonância com o princípio "in dubio pro reo". Alega ainda que:
+a) "(..) peço licença para informar que LUCAS indicou ao e. Juízo exatamente a forma como adquiriu o produto. Em seu interrogatório, afirmou que comprou as rodas na internet, pelo valor de R$ 2.500,00 (dois mil e quinhentos reais), para vendê-las a posteriori. Disse que anunciou as rodas pelo valor de R$ 3.000,00 (três mil reais) e teve oferta de R$ 2.700,00 (dois mil e setecentos reais). Afirmou que não sabia da procedência ilícita das rodas e que efetuou o pagamento em dinheiro" (fl. 379);
+b) "O fato de não ter se precavido com recibo ou nota fiscal, ou mesmo que tenha efetuado o pagamento em espécie não lhe entrega DOLO, vontade e consciência, de que o produto seria de origem criminosa" (fl. 379).
+Por fim, a Defesa busca o provimento do apelo nobre para que o recorrente seja absolvido.
+Apresentada as contrarrazões (fls. 397- 400), o especial foi inadmitido na origem pela incidência da Súmula 7 do STJ (fls. 403-404 ).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 409-420).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 439-442).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Como relatado, a Defesa pleiteia a absolvição do recorrente pela prática da conduta prevista no art. 180, caput, do CP, ao argumento de ausência de dolo do insurgente em adquirir 04 rodas veiculares com pneus que soubesse ser produto de crime.
+No que concerne ao pleito absolutório, verifica-se que o eg. Tribunal de origem declinou, de forma explícita, as razões - com base nas provas carreadas aos autos, concluiu pela caracterização do delito de receptação, bem como pela impossibilidade de absolvição do ora recorrente.
+No ponto, segue trecho do acórdão recorrido: (fls. 345-368)
+" (..) as harmônicas declarações da vítima, na seara administrativa, e das testemunhas, na seara administrativa e em juízo, uníssonas ao afirmarem que o apelante estava na posse de rodas e pneus que foram retirados de veículo anteriormente furtado (Ocorrência Policial nº 2798/2020 - 11ª DP), e que o réu pretendia aliená-los pelo valor de R$ 2.700,00 (dois mil e setecentos reais). Esclareceram como o acusado foi localizado e os bens reconhecidos, além das circunstâncias da prisão em flagrante.
+ ..
+Ocorre que a versão apresentada em juízo pelo recorrente carece de embasamento. Inexistem nos autos elementos aptos a demonstrarem a forma de aquisição dos objetos, nenhuma nota fiscal ou mesmo recibo da quantia dada como pagamento, nenhuma prova da existência do negócio. Além disso, o desembolso de dinheiro em espécie de quantia significativa é questionável porque muito pouco usual, especialmente se considerarmos a precária situação sócioeconômica do réu. Além disso, uma negociação destituída de mínima cautela, desconhecendo o réu até mesmo o nome dos supostos vendedores, afronta à lógica e ao bom senso. Não bastasse isso, o veículo furtado foi localizado nas proximidades da residência do réu.
+ ..
+Desse modo, tem-se que os elementos de prova carreados, com destaque para as circunstâncias que lindaram o fato criminoso e os testemunhos em juízo, tornam certa a responsabilidade do réu"
+De fato, na hipótese, entender de modo diverso ao que estabelecido pelo Tribunal a quo, como pretende o recorrente, demandaria, como dito na decisão monocrática recorrida, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, que dispõe, verbis: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido: AgRg no REsp n. 1.838.076/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 21/12/2022; AgRg no AREsp n. 1.239.066/RS, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 27/04/2021.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ABSOLVIÇÃO. AUSÊNCIA DE DOLO. VERIFICAÇÃO. IMPOSSIBILIDADE. PLEITO QUE DEMANDA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. APLICAÇÃO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
