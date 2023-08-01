@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por TAGUARACI LOPES DE CARVALHO contra decisão proferida pelo eg. Tribunal de Justiça do Estado da Bahia que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 157, 2º, inciso I, c.c. os arts. 14, inciso II, e 65, inciso III, d, todos do Código Penal, à pena de 3 (três) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, no regime inicial aberto, mais 9 dias-multa. Não houve substituição por penas restritivas de direitos (fls. 244-256).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 470-513). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL - SENTENÇA QUE CONDENOU O APELANTE POR CRIME DE ROUBO MAJORADO PELO USO DE ARMA DE FOGO EM SUA MODALIDADE TENTADA (ART. 157, § 2º, INCISO I, DO CP) - APELO DA DEFESA REQUERENDO ABSOLVIÇÃO, SOB A ALEGAÇÃO DE QUE OS ATOS PRATICADOS SERIAM PREPARATÓRIOS. ALEGAÇÃO DE CRIME IMPOSSÍVEL - MATERIALIDADE E AUTORIA COMPROVADAS - PALAVRAS DAS VÍTIMAS - RELATO DOS POLICIAIS HARMÔNICO COM AS DECLARAÇÕES DOS OFENDIDOS - ALEGAÇÃO DE CRIME IMPOSSÍVEL SEM AMPARO NOS AUTOS - DOSIMETRIA CORRETAMENTE APLICADA - RECURSO DESPROVIDO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação ao "artigo 17 do Código Penal Pátrio" (fl. 525).
+Para tanto, menciona que "A teoria objetiva material tratando sobre o início da execução que ocorre quando se cria o perigo para o bem jurídico tutelado (malote localizado na gerencia), e portanto, JAMAIS o Recorrente teve acesso ou possibilidade de possuir a res indicariam que o Recorrente poderia apenas responder pelo porte de arma de fogo" (fl. 525).
+Requer, ao final "seja CONHECIDO e dado PROVIMENTO, para no fim ser REFORMADA A SENTENÇA DE PRIMEIRO GRAU REAFIRMADA PELO EGREGIO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, nos moldes das razões acima mencionadas, de modo a reafirmar e alinhar o entendimento da Superior Corte com a reprimenda exarada, aplicando-se o tabulado neste recurso" (fl. 526).
+Apresentadas as contrarrazões (fls. 532-538), o especial foi inadmitido na origem pela incidência das Súmulas n. 282 e 356, ambas do STF (fls. 542-543).
+Daí o presente agravo, no qual o agravante, em apertada síntese, repisa os argumentos expendidos no apelo nobre (fls. 548-551).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 577-583).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o especial foi inadmitido na origem pela incidência das Súmulas n. 282 e 356, ambas do STF (fls. 542-543).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, o agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativo à incidência das Súmulas n. 282 e 356, ambas do STF.
+Limitou-se a Defesa a mencionar, resumidamente, que "O importante a ser destacado é que, como se manifesta na Constituição Federal em seu artigo 93, IX, toda decisão judicial deverá ser devidamente fundamentada sob pena de nulidade" (fl. 550).
+De fato, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação dos citados óbices, de maneira adequada, pois deveria o agravante indicar e comprovar que o dispositivo de lei federal infraconstitucional apontado como violado no apelo nobre foi devidamente discutido perante o Tribunal a quo, quando do julgamento do recurso de apelação criminal, de modo a comprovar o devido prequestionamento do tema, o que não aconteceu.
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO . AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
