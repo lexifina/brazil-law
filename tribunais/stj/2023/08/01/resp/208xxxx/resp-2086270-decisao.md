@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra acórdão prolatado pelo e. Tribunal de Justiça da referida unidade federativa que, por unanimidade, deu provimento ao recurso da defesa "para determinar a exclusão da unificação das penas de detenção e reclusão impostas ao agravante, suspendendo a execução daquela e procedendo-se a devida retificação no seu Atestado de Pena" (fls. 380 - 389).
+Opostos embargos de declaração pela Acusação (fls. 397 - 405), estes foram rejeitados (fls. 413 - 421).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o recorrente alega violação ao art. 111, caput e parágrafo único, da Lei n. 7.210/84, ao argumento de que "é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido da possibilidade da unificação e cumulação das reprimendas de reclusão e detenção no momento da execução das mesmas, porquanto possuem a mesma natureza" (fl. 437).
+Pugna pelo conhecimento e provimento do recurso.
+Contrarrazões (fls. 442 - 445).
+O recurso foi admitido na origem (fls. 449 - 452).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 464 - 470).
+É o relatório.
+Decido.
+O cerne da questão cinge-se em analisar a possibilidade de unificação das penas de detenção e de reclus ão.
+Acerca da temática recursal, o eg. Tri bunal de origem assim se manifestou sobre o tema (fls. 382 - 388):
+"Compulsando o feito, infere-se que o recorrente foi condenado como incurso nas sanções dos arts. 121, § 2º; e 155, caput, ambos do Código Penal; e art. 16, § 1º, da Lei 10.826/03, à pena total de dezoito (18) anos, quatro (04) meses e quinze (15) dias de reclusão, e art.331, caput, do Código Penal, à pena de (06) meses de detenção(docs. de ordem 3, 6, 9 e 14).
+Diante disso, o Juízo da Execução unificou as penas impostas, bem como fixou o regime fechado para o início do cumprimento das reprimendas, conforme se verifica do Atestado de Pena de f. 01/02 - doc. de ordem 150.
+In casu, tal como sustentado pela Defesa, necessária se faz a reforma da decisão de Primeiro (1º) Grau, diante da impossibilidade de unificação das penas de detenção e de reclusão, tendo em vista a sua natureza diversa.
+Certo é que, diante da inexistência de uma norma expressa sobre o objeto do inconformismo do agravante, sua análise demanda uma interpretação conjunta das normas penais e processuais penais, buscando-se uma análise harmônica dos comandos insertos no Código Penal, no Código de Processo Penal e na Lei de Execução Penal.
+Primeiramente, vejamos as disposições acerca do tema no Código Penal Brasileiro:
+"Art.33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado."(destaque nosso).
+"Art.69 - Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido. No caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro aquela."(destaque nosso).
+"Art.76 -No concurso de infrações, executar-se-á primeiramente a pena mais grave."(destaque nosso).
+Por sua vez, o Código de Processo Penal dispõe que:
+"Art.681. Se impostas cumulativamente penas privativas da liberdade, será executada primeiro a de reclusão, depois a de detenção e por último a de prisão simples."(destaque nosso).
+Finalmente, tem-se, ainda, a Lei nº 7.210/84:
+"Art.111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição. Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.".
+Como visto, o sistema penal brasileiro comporta três modalidades de pena privativa de liberdade, quais sejam: prisão simples; detenção; e reclusão, sendo imperiosa a análise das duas últimas para o presente caso.
+Com efeito, da análise dos comandos legais supramencionados, em que pese a inexistência de vedação expressa no bojo do art. 111 da Lei nº 7.210/84 com relação à unificação de penas de reclusão e detenção, tem-se que, em atenção ao disposto nos arts.33, caput; 69, caput; e 79, todos do Código Penal, as mesmas devem ser mantidas autônomas.
+Sabe-se que a pena de detenção trata-se de categoria de pena privativa de liberdade reservada aos ilícitos não tão graves, uma vez que abrange apenas os regimes semiaberto e aberto, enquanto a pena de reclusão destina-se como forma de reprimenda aos delitos mais graves, tendo em vista que abarca todos os regimes de cumprimento de pena, inclusive o fechado.
+Desse modo, as modalidades de detenção e reclusão implicam tratamento diferenciado entre si, pois trata-se de espécies distintas de penas privativas de liberdade, sendo inviável a unificação das mesmas, conforme expressamente disposto no art. 681 do Código de Processo Penal: "Se impostas cumulativamente penas privativas da liberdade, será executada primeiro a de reclusão, depois a de detenção e por último a de prisão simples".
+No mesmo sentido, a jurisprudência deste E. TRIBUNAL DE JUSTIÇA:
+ ..
+Logo, em observância aos arts.33, caput; 69, caput; e 79, todos do Código Penal, bem como ao art. 681 do Código de Processo Penal e ao art.111 da Lei de Execução Penal, e, ainda, considerando a natureza distinta das penas aplicadas ao reeducando, não se mostra viável cumular a reprimenda de detenção, a ser cumprida no regime aberto ou semiaberto, com a pena de reclusão, fixada em regime fechado.
+Desse modo, no caso em comento, a execução da pena do reeducando deverá ocorrer, inicialmente, apenas sobre a reprimenda de reclusão, prorrogando-se para momento posterior o cumprimento da pena de detenção, a ser executada quando da progressão para regime mais brando e compatível com esta reprimenda.
+A douta PROCURADORIA-GERAL DE JUSTIÇA, em parecer da lavra do ilustre Procurador de Justiça RONALDO CÉSAR DE FARIA, manifestou-se nos seguintes termos:
+"(..)
+Quanto ao mérito, razão não assiste ao agravante. O art. 111, parágrafo único, da Lei de Execução Penal (Lei 7.210/84) estabelece que:
+(..)
+Nesse sentido, afigura-se o entendimento do Supremo Tribunal Federal:(..)
+CONCLUSÃO
+Ex positis, somos pelo conhecimento do presente recurso de Agravo em Execução, por tempestivo e, no meritum, pelo seu DESPROVIMENTO ,mantendo integralmente a decisão combatida." (f. 02/03 -doc. de ordem 153).
+Em que pese o parecer Ministerial, pelos fundamentos expostos alhures, não há como se proceder à unificação de penas de naturezas distintas (reclusão e detenção), com a fixação do regime fechado para ambas, pois a pena de detenção não pode ter seu cumprimento iniciado no regime mais grave."
+Transcrevo, ainda, trecho do v. acórdão proferido em sede de embargos de declaração (fls. 417 - 418):
+"De fato, como bem abordado no Acórdão proferido no Agravo em Execução Penal nº 1.0105.12.002860-7/001, em que pese a inexistência de vedação expressa no bojo do art. 111 da Lei nº 7.210/84 com relação à unificação de penas de reclusão e detenção, tem-se que, em atenção ao disposto nos arts. 33, caput; 69, caput; e 76, todos do Código Penal(transcritos no decisum combatido), as mesmas devem ser mantidas autônomas.
+Decerto, as modalidades de detenção e reclusão implicam tratamento diferenciado entre si, pois tratam-se de espécies distintas de penas privativas de liberdade, sendo inviável a unificação das mesmas, conforme expressamente disposto no art. 681 do Código de Processo Penal: "Se impostas cumulativamente penas privativas da liberdade, será executada primeiro a de reclusão, depois a de detenção e por último a de prisão simples".
+Logo, conforme consignado por este Relator no decisum vergastado pelo Embargante, em observância aos arts.33, caput; 69, caput; e 76, todos do Código Penal, bem como ao art.681 do Código de Processo Penal e ao art. 111 da Lei de Execução Penal, e, ainda, considerando a natureza distinta das penas aplicadas ao reeducando, não se mostra viável cumular a reprimenda de detenção, a ser cumprida no regime aberto ou semiaberto, com a pena de reclusão, fixada em regime fechado."
+Nesse aspecto, da análise do excerto colacionado, verifico que os fundamentos do acórdão recorrido estão em dissonância com o entendimento desta Corte Superior no sentido de que as reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie.
+Com efeito, o art. 111, caput e parágrafo único, da Lei n. 7.210/1984, prescreve a soma da pena superveniente, como forma de determinação do regime, in verbis:
+"Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime".
+Esse é o entendimento de ambas as Turmas que compõem a 3ª Seção desta eg. Corte Superior, como segue: "A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade" (AgRg no REsp n. 1.939.600/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/6/2021).
+Em reforço: AgRg no AREsp n. 2.012.584/RN, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 28/10/2022; AgRg no AREsp n. 1619879/MT, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 22/05/2020; AgRg no AREsp n. 1749665/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/10/2020; REsp n. 1642346/MT, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/05/2018.
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial para restabelecer a decisão do juízo da execução quanto à unificação das penas, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. RECURSO ESPECIAL MINISTERIAL. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E DE RECLUSÃO. POSSIBILIDADE. REPRIMENDAS DA MESMA NATUREZA. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
