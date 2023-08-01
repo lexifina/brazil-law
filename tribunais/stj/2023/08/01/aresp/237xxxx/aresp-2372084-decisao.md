@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão proferida pelo eg. Tribunal de Justiça do mesmo Estado que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que o juízo singular condenou o agravado como incurso nas sanções do art. 33, caput, c.c. o art. 40, inciso VI, ambos da Lei n. 11.343/2006, e do art. 12, caput, da Lei n, 10.826/2003, nos termos do art. 69, caput, do Código Penal, à "pena em 05 (cinco) anos, 01 (um) mês e 08 (oito) dias de reclusão e 01 (um) ano e 15 (quinze) dias de detenção; além de 499 (quatrocentos e noventa e nove) dias-multa" (fls. 287-294).
+O eg. Tribunal a quo, em decisão unânime, deu parcial provimento ao recurso defensivo (fls. 349-353). Eis a ementa do acórdão:
+"PENAL E PROCESSUAL PENAL. APCRIM. TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/06) E POSSE DE ARMA DE FOGO DE USO PERMITIDO (ART.12 DA LEI 10.826/03). . DESVALOR DAS DOSIMETRIA "CIRCUNSTÂNCIAS DO CRIME" MOTIVADOS DE FORMA ESCORREITA. ALEGATIVA DE DESPROPORCIONALIDADE NA ATENUANTE DA MENORIDADE PENAL. QUANTITATIVO APLICADO EM CONSONÂNCIA COM A DIRETRIZ DE 1/6 SUGERIDA PELO TRIBUNAL DA CIDADANIA. INSURGÊNCIA RELATIVA AO PATAMAR DA MINORANTE DO IMPROFICUIDADE DO FUNDAMENTO TRÁFICO PRIVILEGIADO. UTILIZADO PARA ARBITRAR NO MÍNIMO LEGAL. DESCONFORMIDADE COM A LINHA INTELECTIVA DO STJ. REDIMENSIONAMENTO IMPOSITIVO DANDO ENSEJO A PERMUTA EM PENAS RESTRITIVAS DE DIREITOS. REFORMADO EM PARTE. CONHECIMENTO E DECISUM PROVIMENTO PARCIAL."
+Nas razões do recurso especial (fls. 368-376), interposto com fulcro na alínea a do permissivo constitucional, o órgão ministerial alega violação ao artigo 33, §4º, da Lei n. 11.343/2006.
+Afirma, para tanto, que " ..  o fundamento para deferir tal pleito defensivo foi de que configuraria bis in idem considerar a quantidade e variedade das drogas também nesse momento de aplicação da pena, assim como afirmou que a quantidade seria incapaz de demonstrar a dedicação do acusado a atividades ilícitas" (fl. 372).
+Aduz, outrossim, que é "irrefutável que o recorrido foi flagrado com 3 (três) tipos de entorpecentes (maconha, crack e cocaína), os quais, embora em quantidade não tão relevante (quase 100 gramas), demonstram maior gravidade quando considerado o alto poder nocivo de tais espécies de drogas." (fl. 373).
+Requer, ao final, "o conhecimento e provimento do presente Recurso Especial para que seja estabelecida a fração de um sexto relativa à referida minorante prevista no art. 33, §4º, da Lei de Drogas, por todas as razões expostas" (fl. 376).
+Não presentadas as contrarrazões (Certidão de fl. 379), o especial foi inadmitido na origem pela incidência da Súmula 7 do STJ (fls. 380-384).
+Daí o presente agravo, no qual o agravante, em apertada síntese, repisa os argumentos expendidos no apelo nobre (fls. 387-392).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 419-421).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Consoante relatado, nas razões do presente recurso, o insurgente postula a alteração da fração eleita para aplicação da causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006.
+O eg. Tribunal a quo, no que interessa ao caso, assim se manifestou sobre a quaestio (fl. 351-353, grifei):
+"13. Avançando à insurgência relativa à terceira fase (subitem 3.3), assiste razão ao Apelante no tocante ao desacerto entabulado pela Julgadora ao utilizar, à mercê do devido e necessário embasamento, a minorante do §4º do art. 33 da Lei 11.343/06 na ordem de 1/6.
+14. Primeiramente, ao modular o fracionamento na proporção mínima sob a argumentativa de o Apelante responder "a outra ação penal", agiu em desconformidade com o mais recente posicionamento da Corte Cidadã:
+ ..
+15. De igual forma, ante a inexpressividade da quantidade de entorpecentes apreendida (35,55g de maconha e 54,36 g de cocaína) não há de se considerar tal alegativa como critério idôneo para dosar a redutiva referente ao privilégio, consoante entendimento asseverado pelo Tribunal da Cidadania:
+ ..
+16. Por fim, a Julgadora ao fixar o patamar mínimo com respaldo na prática concomitante em delito autônomo (art.12 da Lei 10.826/03), cuja punição já fora considerada, incorreu no vedado . bis in idem 17. Passo ao novo cômputo dosimétrico."
+No tocante aos critérios para a escolha do patamar de diminuição, cumpre destacar que o legislador apontou apenas os pressupostos para a incidência do benefício legal, deixando, contudo, de estabelecer os parâmetros para escolha entre a menor e a maior frações previstas no § 4.º do art. 33 da Lei n.º 11.343/06. Assim, este Superior Tribunal de Justiça assentou entendimento no sentido de que a dosagem do decréscimo da pena em virtude do reconhecimento da aludida minorante depende do juízo de discricionariedade regrada do julgador, pois o Código Penal não estabeleceu limites para tal operação.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo para reconhecer a dedicação do recorrido à prática de atividade criminosa, como pretende o Ministério Público, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/2006. MINORANTE. IMPOSSIBILIDADE DE APLICAÇÃO. QUANTIDADE E DIVERSIDADE DA DROGA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ . PERCENTUAL DE REDUÇÃO DE PENA. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na quantidade e diversidade da droga, afasta a minorante no seu patamar máximo, rever tal entendimento implicaria o reexame de provas, a incidir o enunciado da Súmula 7/STJ.
+2. A natureza, a variedade e a quantidade da droga constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 em patamar inferior ao máximo legal.
+3. Agravo regimental desprovido. (AgInt no AREsp 875.951/ES, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 10/08/2016, grifei)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO DO MINISTÉRIO PÚBLICO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA INSERTA NO ART. 33, § 4º, DA LEI 11.343/2006. PLEITO DE ALTERAÇÃO DA FRAÇÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
