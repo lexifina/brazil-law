@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por CAMILO JOSE CAMPAGNOLLO BARBOSA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 225-229.
+No presente recurso ordinário, o recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera, neste sentido, que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, bem como que possuiria condições pessoais favoráveis.
+Sustenta que a prisão preventiva seria incompatível com o regime que lhe seria imposto em caso de condenação.
+Requer, ao final, a revogação da prisão preventiva.
+A liminar foi indeferida e o Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos de parecer de fls. 274-277.
+É o relatório.
+Decido.
+No que pertine à alegada ausência de fundamentação do decreto prisional, observa-se que, na hipótese, a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o paciente ostentar reincidência específica além de outra condenação pelo crime de ameaça quando novamente preso em flagrante, dados que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg no HC n. 802.845/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 792.071/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no HC n. 795.867/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023.
+A alegada desproporcionalidade da prisão cautelar, em razão da possibilidade de colocação do paciente em regime mais brando, não merece guarida nesta seara processual, por não ser possível, a esta Corte Superior, em um exercício de futurologia, determinar, de antemão, a pena futura a ser fixada ao paciente. A concreta aplicação da pena, em caso de condenação, é um exercício que compete ao magistrado por ocasião da prolação da sentença, com a devida análise do conjunto probatório, sabidamente inviável de ser realizado nesta estreita via do writ.
+Deve-se ressaltar, ainda, que, in casu, não há hipótese de aplicação das medidas cautelares alternativas à prisão, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea b do RISTJ, nego provimento ao recurso ordinário em habeas corpus .
+P. e I.
