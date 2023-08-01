@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ WELLINGTON MEDEIROS DE ARAÚJO (fls. 1.616-1.620), em face da decisão monocrática de minha lavra (fls. 1.608-1.611), na qual julguei prejudicado o presente habeas corpus.
+Nas razões recursais, o embargante sustenta "contradição interna verificada na decisão embargada" (fl. 1.617).
+Alega que, "sem avançar sobre o acerto ou desacerto da decisão impugnada, os ora embargantes não podem deixar de consignar que, proclamada a impossibilidade de análise do mérito do writ pela perda de objeto (prejuízo - art. 34, XI, do RISTJ), não há como cogitar-se de subsequente "declínio" de competência para o julgamento da impetração pela Justiça especializada, mormente porque, em nenhum cenário, o juízo eleitoral de primeira instância seria competente para o julgamento da presente ação constitucional" (fl. 1.618).
+Aduz que "revela-se contraditória a decisão que, a um só tempo, (i) reconhece a perda do objeto do habeas corpus pelo fundamento de que o novel Juízo processante poderia ratificar, ou não, os atos decisórios emanados da Justiça Federal e (ii) estima que a Justiça Eleitoral seria competente para julgar a impetração deduzida em face de acórdão denegatório de habeas corpus proferido pelo TRF-1" (fls. 1.619).
+Explica que "a decisão ora embargada se acha, portanto, marcada por uma contradição interna relevante. Isso porque não se poderia cogitar, concomitantemente, de prejuízo do habeas corpus imp etrado pelos ora embargantes em favor do paciente José Wellington Medeiros de Araújo e de aventada competência da Justiça Eleitoral de primeiro grau para examiná-lo" (fl. 1.619).
+Requer, ao final, sejam acolhidos os aclaratórios a fim de que seja sanada a contradição apontada.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaque-se, inicialmente, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Nesse compasso, considerando as alegações vertidas nestes aclaratórios, verifica-se que assiste razão ao ora embargante. Vejamos.
+No decisum ora embargado, assim foi decidido (fls. 1.609-1.611 - grifei):
+"O presente writ encontra-se prejudicado.
+Conforme noticiado às fls. 1.599-1.605, o d. Juízo da 12ª Vara Federal da Seção Judiciária do Distrito Federal proferiu decisão, em 15/3/2022, tendo em vista o que restou decidido pelo eg. Tribunal Regional Federal da 1ª Região no HC n. 1043955-64.2021.4.01.0000, declarando-se incompetente para processar e julgar a Ação Penal n. 1016446-17.2019.4.01.3400 e, com esteio no art. 109 do Código de Processo Penal, determinou a remessa daqueles autos à Justiça Eleitoral.
+Dessarte, considerando-se que os autos foram remetidos à Justiça Eleitoral, não há como esta Corte proceder à análise das questões ora suscitadas pela il. Defesa, pois cabe ao juízo para qual os autos foram remetidos analisar a possibilidade de ratificação de todos os atos decisórios até então realizados.
+A propósito, mutatis mutandis, " r econhecida a competência da Justiça estadual para processar e julgar a demanda, a ela compete, a priori, analisar quais atos decisórios prolatados pelo juízo anterior serão ou não revogados, mesmo em casos de incompetência absoluta" (ARE 850933 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 02/05/2017, PROCESSO ELETRÔNICO DJe-100 DIVULG 12-05-2017 PUBLIC 15-05-2017, grifei).
+ ..
+Ante todo o exposto, julgo prejudicado o presente habeas corpus e determino a remessa dos autos à Justiça Eleitoral, dando-se, por conseguinte, baixa ao feito nesta Corte.
+P. I."
+De fato, diante da constatação da prejudicialidade do mandamus, tendo em vista a declarada competência da Justiça Eleitoral para processar e julgar a Ação Penal n. 1016446-17.2019.4.01.3400 na origem, incabível a determinação de remessa dos presentes autos àquela justiça especializada, em razão de sua absoluta incompetência para julgamento de habeas corpus ajuizado em face de ato proferido por tribunal coator não sujeito à sua jurisdição (art. 105, I, "c", da Constituição Federal de 1988).
+Ante o exposto, acolho os embargos de declaração para sanar a contradição interna apontada pela il. Defesa e retificar a decisão ora embargada (fls. 1.608-1.611), a fim de fazer constar em seu dispositivo, apenas: "Ante todo o exposto, julgo prejudicado o presente habeas corpus".
+P. I.
