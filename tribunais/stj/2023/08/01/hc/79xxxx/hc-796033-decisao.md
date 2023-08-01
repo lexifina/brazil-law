@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS DE SOUZA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação n. 1500649-28.2021.8.26.0559.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 25-37).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 63-89).
+Na hipótese, o impetrante aponta constrangimento ilegal na inaplicabilidade do redutor do § 4º do art. 33 da Lei de Drogas, em favor do paciente.
+Requer, assim, "seja CONCEDIDA A ORDEM DE OFÍCIO, reconhecendo a aplicação do redutor previsto no §4º do artigo 33 da Lei de Drogas em favor do paciente" (fl. 10).
+Informações prestadas às fls. 97-153.
+Parecer do Ministério Público Federal à fl. 157.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A Terceira Seção deste Sodalício firmou o entendimento de que, na hipótese em que a quantidade de entorpecente é levada a efeito na primeira fase da dosimetria, o referido fator não pode ser utilizado novamente, na terceira fase, como o único fundamento para negar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, a modulação do grau de redução não pode ser operada com base na quantidade de droga apreendida, se o volume de entorpecente já foi utilizado na primeira etapa da dosimetria, sob pena de configurar bis in idem, conforme assentado pelo Supremo Tribunal Federal, no RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712).
+Nesse sentido: AgRg no HC n. 780.053/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 15/12/2022; EDcl nos EDcl no HC n. 723.643/RJ, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 11/11/2022 e AgRg no HC n. 769.775/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022.
+Na presente hipótese, a inaplicabilidade da minorante prevista no art. 33, § 4º, da Lei de Drogas, foi fundamentada com base na quantidade dos entorpecentes apreendidos, motivo pelo qual está patente o bis in idem (fl. 82).
+Passo, assim, ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 7 anos de reclusão e 700 dias-multa (fl. 76).
+Na segunda fase, a reprimenda permaneceu inalerada.
+Na terceira fase, ausentes outras causas modificadoras, reduzo a pena em 2/3 (dois terços), nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 2 anos e 4 meses de reclusão e 233 dias-multa.
+Observa-se, que a pena-base foi fixada acima do mínimo legal, pois considerada a quantidade de droga apreendida. Desse modo, embora relevante a quantidade de entorpecentes ("pouco mais de 7 quilos de maconha" - fl. 78), em razão da vedação de bis in idem, observo ser cabível o benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima.
+De mais a mais, "é pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo" (HC n. 452.147/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/08/2018, grifei).
+In casu, a quantidade dos entorpecentes - "pouco mais de 7 quilos de maconha" (fl. 78) - constitui elemento apto a ensejar a aplicação do regime inicial semiaberto, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "b", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: AgRg no HC n. 568.801/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 17/06/2020; AgRg no HC n. 540.202/SP Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/02/2020; e RCD no HC n. 558.257/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/04/2020.
+Ante o exposto, concedo a ordem de habeas corpus, para redimensionar a reprimenda do paciente em 2 anos e 4 meses de reclusão e 233 dias-multa, bem como fixar o regime prisional semiaberto, para o início do cumprimento da pena.
+P. e I.
