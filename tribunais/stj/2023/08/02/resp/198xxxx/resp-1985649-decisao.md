@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALDAIR JOSÉ SOUZA com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação Criminal n. 1.0024.14.262689-4/001.
+Consta nos autos que o Recorrente foi condenado como incurso no art. 155, § 4.º, inciso I, do Código Penal, às penas de 2 (dois) anos, 6 (seis) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e 14 (catorze) dias-multa (fls. 266-275).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento a apelação defensiva por maioria de votos (fls. 316-338).
+Opostos embargos infringentes, foram acolhidos para mitigar as reprimendas, tornando-as definitivas em 2 (dois) anos, 5 (cinco) meses e 5 (cinco) dias de reclusão em regime inicial semiaberto, e 12 (doze) dias-multa, unitariamente no mínimo legal.
+Nas razões do recurso especial, sustenta ofensa aos arts. 158 e 171 do Código de Processo Penal, pois o reconhecimento da qualificadora relativa ao rompimento de obstáculo exige a realização de exame de corpo de delito que, na espécie, foi olvidado sem a apresentação de motivo justificado.
+Contrarrazões às fls. 392-396.
+O Ministério Público Federal opinou desprovimento do recurso (fls. 427-433).
+É o relatório. Decido.
+No que interessa à solução da controvérsia, o Tribunal estadual estadual decidiu com amparo nos seguintes fundamentos:
+"Pugna a defesa pelo decote da qualificadora argumentando que a apresentação de laudo pericial é imprescindível nos casos em que a infração deixar vestígios.
+Embora não desconheça o posicionamento adotado por parte da doutrina e da jurisprudência no sentido de que deve ser aplicado o disposto no art. 158, do Código de Processo Penal com a realização da prova pericial quando a infração deixar vestígios, entendo que nos casos em que a ocorrência da qualificadora for facilmente aferível, por mera constatação visual e sem que se requeira maiores qualificações técnicas, tal exame pode ser perfeitamente suprido pela apresentação de outros elementos de prova.
+Acerca do tema, destaco as ponderações do Ministro Marco Aurélio Bellizze quando do julgamento do AgRg no REsp 1409779/RS:
+ ..
+Após detida análise das provas produzidas nos autos, verifico que a qualificadora foi devidamente comprovada, pois o apelante rompeu um tapume protegido por trincos e cadeados que protegiam a porta giratória da agência bancária ltaú.
+A funcionária da agencia Bancária ltaú, Kátia B. R., declarou perante a autoridade policial que ".. neste dia havia na agência uma proteção de tapume de madeira, pois era período de copa e o Banco temia prejuízos causados pelas manifestações; Que no interior da agencia foram furtados 09 monitores; Que toda a ação foi gravada pelo CFTV; Que o autor danificou os cabos ligados aos equipamentos que furtou; (..). (termo de fls. 34135)
+Em juízo, a testemunha, confirmou os relatos prestados na delegacia, ressaltando que os cadeados presos aos tapumes de madeira foram rompidos. (mídia de f. 151).
+Assim, em casos como o ora posto, tenho por viável a flexibilização do disposto no ad. 158 do Código de Processo Penal, não devendo ser demandado maior empenho dos recursos estatais, já tão escassos, pois devidamente demonstrada a ocorrência da qualificadora.
+Portanto, embora não tenha sido juntado o laudo pericial ao feito, atento as provas produzidas, mantenho o reconhecimento da qualificadora do rompimento de obstáculo previstas no ad. 155, § 40, inciso 1, do Código Penal." (fls. 321-327, sem grifos no original).
+Como se vê, em que pese o delito haver deixado vestígios aptos a serem periciados, a Corte local concluiu que a realização da perícia seria mera faculdade, podendo a prova técnica ser substituída por outros elementos probatórios, de acordo com o livre critério do julgador.
+O entendimento adotado no acórdão recorrido é contrário à jurisprudência pacífica desta Corte Superior, que considera ser imprescindível, para a constatação da qualificadora referente ao rompimento de obstáculo, a realização do exame de corpo de delito.
+A realização da prova técnica, destarte, somente pode ser suprida pela prova testemunhal ou outro meio indireto quando os vestígios tenham desaparecido por completo ou em razão de outra excepcionalidade expressamente justificada, circunstâncias que não foram expostas pela instância de origem.
+Sobre o tema, confira-se:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO APENAS COM BASE NA PROVA ORAL. FALTA DE JUSTIFICAÇÃO CONCRETA ACERCA DA NÃO REALIZAÇÃO DO LAUDO PERICIAL. AFASTAMENTO. LAUDO JUNTADO AOS AUTOS A DESTEMPO. ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência tem-se orientado no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e a confissão não suprem a sua ausência.
+2. No presente feito, como constatado, houve a possibilidade de confecção do laudo pericial, tanto que tardiamente juntado aos autos, não sendo possível substituí-lo por outros meios de prova, como permite a jurisprudência desta Corte em casos excepcionais.
+ .. " (AgRg no AREsp n. 1.995.588/DF, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 08/03/2022, DJe 14/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. AUSÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O reconhecimento da qualificadora de rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Ainda que a presença da circunstância qualificadora esteja em consonância com a prova testemunhal colhida nos autos, mostra-se imprescindível a realização de exame de corpo de delito, nos termos do art. 158 do Código de Processo Penal.
+3. Agravo regimental improvido." (AgRg no REsp 1814051/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/11/2019, DJe 19/11/2019, sem grifos no original.)
+Desse modo, a qualificadora referente ao rompimento de obstáculo deve ser afastada, ante a ausência injustificada do laudo pericial apto a demonstrar a sua ocorrência, nos termos exigidos pelo art. 158 do Código de Processo Penal.
+Fixada essa premissa, passo a redimensionar a pena.
+Na primeira fase, afastada a qualificadora e militando contra o Acusado apenas seus antecedentes criminais, mantenho a fração de 1/10 (um décimo) de acréscimo da pena-base por cada circunstância judicial, ante a impossibilidade de reformatio in pejus. Assim, fixo-a em 1 (um) ano, 1 (um) mês e 6 (seis) dias de reclusão e 11 (onze) dias multa.
+Na segunda fase, incide a agravante do art. 61, inciso I, do Código Penal, do que resulta a majoração das penas na fração de 1/6 (um sexto), alcançando-se 1 (um) ano, 3 (três) meses e 12 (doze) dias de reclusão, além de 12 (doze) dias-multa.
+Na terceira fase, ausentes causas de aumento ou diminuição, torna-se definitiva a pena de 1 (um) ano, 3 (três) meses e 12 (doze) dias de reclusão, além de 12 (doze) dias-multa.
+Em razão do quantum da pena, dos maus antecedentes e da reincidência, mantenho o regime inicial semiaberto, observada a vedação a reformatio in pejus.
+Ausentes os requisitos do art. 44 do Código Penal, em especial o fato do acusado ser reincidente específico, assim reconhecido em sentença, preserva-se a inaplicabilidade à espécie das penas substitutivas.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para afastar a qualificadora do art. 155, § 4.º, inciso I, do Código Penal, redimensionando as penas impostas, nos termos desta decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. DELITO QUE DEIXA VESTÍGIOS. IMPRESCINDIBILIDADE DA REALIZAÇÃO DE PERÍCIA. INSTÂNCIAS ORDINÁRIAS QUE NÃO JUSTIFICARAM A AUSÊNCIA DO LAUDO PERICIAL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
