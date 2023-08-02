@@ -1,0 +1,7 @@
+LEI Nº 6.354, DE 2 DE AGOSTO DE 2023.
+
+DISPÕE sobre a implantação do Site Maria da Penha Online.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
