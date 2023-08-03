@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça.
+Em suas razões recursais, a parte recorrente aponta violação do art. 78, § 1º, do CP.
+Alega que "o tempo fixado para a pena corporal foi de 03 (três) meses, ao passo que o da suspensão condicional da pena ficou no mínimo legal, 02 (dois) anos. Considerando que se trata de institutos diferentes, deve ser observado o dispositivo legal supracitado, que determina que, durante o primeiro ano da suspensão da pena, o condenado deverá prestar serviços à comunidade ou submeter-se à limitação de fim de semana".
+Requer seja determinada "a sujeição do recorrido à limitação de final de semana durante todo o primeiro ano do período de suspensão condicional da pena".
+Com contrarrazões (e-STJ, fls. 275-280).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 302-308).
+É o relatório.
+Decido.
+No tocante à substituição da pena, faz-se necessário expor excertos do acórdão:
+"Com relação ao sursis concedido em sentença (e aqui aprecio o recurso ministerial), nada obstante haja julgado de minha relatoria no 4º Grupo Criminal, no sentido de ser possível a aplicação de prestação de serviços à comunidade como condição à suspensão condicional da pena mesmo que a sanção seja aplicada em patamar inferior a 06 meses estou mantendo a condição da suspensão da pena de limitação de final de semana, pelo tempo da pena privativa de liberdade imposta, nos termos do Art. 55 do Código Penal, considerando o posicionamento majoritário desta Câmara Criminal" (fls. 231-232, e-STJ)
+Sobre o instituto do sursis, assim dispõe o Código Penal:
+Art. 78 - Durante o prazo da suspensão, o condenado ficará sujeito à observação e ao cumprimento das condições estabelecidas pelo juiz.
+§ 1º - No primeiro ano do prazo, deverá o condenado prestar serviços à comunidade (art. 46) ou submeter-se à limitação de fim de semana (art. 48).
+§ 2º Se o condenado houver reparado o dano, salvo impossibilidade de fazê-lo, e se as circunstâncias do art. 59 deste Código lhe forem inteiramente favoráveis, o juiz poderá substituir a exigência do parágrafo anterior pelas seguintes condições, aplicadas cumulativamente:
+a) proibição de freqüentar determinados lugares;
+b) proibição de ausentar-se da comarca onde reside, sem autorização do juiz;
+c) comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades."
+No caso, o entendimento do Tribunal de origem está em dissonância com a legislação, pois, como se observa do disposto no art. 78, §1º, do Código Penal, a condição para obtenção da benesse é no primeiro ano do prazo, o condenado submeter-se à limitação de final de semana, o que não ocorreu na hipótese.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. LESÃO CORPORAL. SURSIS SIMPLES. CONDIÇÃO LEGAL OBRIGATÓRIA. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. PENA INFERIOR A 6 MESES. MEDIDA INCABÍVEL. LIMITAÇÃO DE FINAL DE SEMANA ESTABELECIDA. DEMAIS CONDIÇÕES MANTIDAS. ART. 79 DO CP. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Conforme a dicção do art. 79 do CP, na hipótese do sursis simples, admite-se que o Julgador estabeleça outras condições às quais a suspensão condicional da pena ficará subordinada, desde que adequadas ao caso concreto, além das legalmente previstas, quais sejam, prestação de serviços à comunidade e limitação de final de semana.
+3. No caso, a pena corporal foi estabelecida em 3 meses de detenção, o que afasta a possibilidade de prestação de serviços à comunidade, pois tal medida somente é aplicável às condenações superiores a 6 meses, a teor do art. 46 do CP.
+4. Malgrado não tenha ocorrido a aplicação cumulativa das condições correspondentes ao sursis simples e ao sursis especial, deve ser estabelecida como condição legal e obrigatória da benesse a limitação de final de semana (CP, art. 48), no primeiro ano do prazo, ficando mantido o comparecimento mensal em juízo e a proibição de se ausentar da comarca, por serem tais medidas adequadas ao fato concreto e à situação do réu, conforme o autorizado pelo art. 79 do CP.
+5. Writ não conhecido. Habeas corpus concedido, de ofício, tão somente para substituir a condição legal correspondente à prestação de serviços à comunidade pela limitação de final de semana, ficando mantidas as demais condições do sursis estabelecidas na sentença condenatória. (HC n. 440.286/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2018, DJe de 20/6/2018.)
+"Nos termos do art. 77 do Código Penal, "A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos". Já o art. 78 do CP dispõe que durante o prazo da suspensão da pena o condenado ficará sujeito à observação e ao cumprimento das condições estabelecidas pelo Juiz, bem como o art. 79 do mesmo Diploma Legal estabelece que "a sentença poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do condenado".
+Com efeito, a limitação das condições impostas para a concessão de sursis ao ao tempo da pena carcerária suspensa, sustentada pela Corte de origem, foge por completo à letra dos dispositivos legais citados, tratando-se de temerário entendimento contra legem". (REsp n. 1.996.336, Ministro Joel Ilan Paciornik, DJe de 23/05/2023.)
+Ante o exposto, com fundamento no artigo 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de que a limitação de final de semana seja cumprida pelo período de um ano, nos termos do art. 78, §1º, do CP.
+Publique-se. Intimem-se.
