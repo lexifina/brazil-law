@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória de urgência formulado por JOÃO IUNES DE SIQUEIRA, visando a obtenção de efeito suspensivo a agravo em recurso especial por ele interposto.
+Alega, em síntese, estarem presentes os requisitos necessários à concessão da tutela requerida. O perigo de dano estaria consubstanciado na existência de determinação de que o imóvel de sua titularidade seja levado a leilão, o qual, segundo alega, foi constrito indevidamente. A probabilidade do direito, conforme afirma, reside nas circunstâncias (i) de que o acórdão proferido pelo Tribunal de origem carece da necessária fundamentação e (ii) de que ficou caracterizada a prescrição intercorrente da pretensão executiva.
+RELATADOS OS FATOS, DECIDE-SE.
+Como é cediço, a concessão da pretendida tutela provisória depende da demonstração do fumus boni juris, consistente na plausibilidade do direito alegado (no particular, na possibilidade de provimento do recurso especial), e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Em sede de exame preliminar, verifica-se, de um lado, que as questões invocadas no agravo de instrumento interposto pelo requerente - prescrição intercorrente e nulidade da desconsideração da personalidade jurídica - foram enfrentadas de modo expresso e com fundamentação suficiente pela Corte de origem, de modo que não se evidencia, primo icto oculi, a alegada negativa de prestação jurisdicional. Nesse sentido: AgInt no AgInt no AREsp 1.999.005/RS (DJe 30/6/2023).
+De outra banda, é de se reconhecer, ao menos em juízo perfunctório, que a irresignação manifestada no recurso especial esbarra no óbice da Súmula 7/STJ, na medida em que a análise das circunstâncias que poderiam conduzir ao reconhecimento da prescrição intercorrente da pretensão executiva e ao afastamento da preclusão afirmada pelo Tribunal a quo demandaria o revolvimento do conteúdo fático-probatório dos autos, providência vedada em recurso especial.
+No sentido da inviabilidade de se examinar, em recurso especial, a caracterização ou não a prescrição intercorrente: AgInt no REsp 1.699.021/PR (DJe 25/8/2021).
+Quanto à impossibilidade de reexame das circunstâncias que conduziram ao reconhecimento da preclusão: AgInt no AREsp 2.030.343/SC (DJe 15/8/2022).
+Diante do exposto, não se constatando a probabilidade do direito vindicado, é de ser indeferida a tutela provisória requerida.
+Forte nessas razões, INDEFIRO o pedido de atribuição de efeito suspensivo.
+Publique-se. Intimem-se.
