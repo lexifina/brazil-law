@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça da referida unidade federativa.
+Depreende-se dos autos condenação da agravante à pena de 2 (dois) anos e 4 (quatro) meses, em regime aberto, pela prática do crime de tortura, édito reformado pelo eg. Tribunal de origem que deu parcial provimento ao recurso defensivo para "absolver em relação a uma vítima e desclassificar a conduta remanescente, para a do artigo 136, § 3º, com remessa ao Juizado Especial Criminal e afastamento da condenação secundária relativa ao artigo 92, II, do Código Penal" (fl. 686).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação ao artigo 1º, inciso II, e §4º, inciso II, da Lei n. 9.455/1997, uma vez que "a intensidade do sofrimento causado à vítima, reconhecido no acórdão, é suficiente para caracterizar o elemento subjetivo do crime de tortura" (fl. 696).
+Apresentadas as contrarrazões (fls. 714-724), sobreveio juízo negativo de admissibilidade fundado na Súmula 7/STJ (fls. 727-729).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 734-750).
+O Ministério Público Federal apresentou parecer pelo provimento do agravo em recurso especial (fls. 767-772).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se configuração (ou não) do crime de tortura.
+Acerca da temática recursal, o eg. Tribunal de origem assim dispôs:
+"Assim, sem olvidar os argumentos expendidos na exordial e falas vagas e esparsas sobre os castigos desmedidos, aos dois filhos, não demonstrado o intenso sofrimento físico ou indicativos suficiente para a caracterização do ilícito.
+Frisa-se, uma condenação não pode se basear em meras conjecturas, mormente quando as provas amealhadas não conferem a segurança exigida para o édito condenatório. Portanto, incabível solução desfavorável assentada em dúvidas ou vacilações, imperiosa o afastamento desta conduta, remanescendo apenas uma conduta, relativa à PH.
+Neste ponto, há necessidade de nova classificação do ilícito, tendo em vista que para a configuração da tortura, necessário que o agente possua o dolo de impor intenso sofrimento, como forma de castigo ou medida preventiva, o que não ficou demonstrado do presente caso.
+No referido tipo o autor deve submeter a vítima, que está sob sua guarda, poder ou autoridade, mediante uso de violência ou grave ameaça, a intenso sofrimento físico ou mental, como meio de lhe aplicar punição pessoal ou de caráter preventivo. Frise-se que "o legislador exigiu mais para o aperfeiçoamento do tipo, isto é, deve o sofrimento ser intenso" (DELMANTO, 2014, p.422).
+O tipo do artigo 136 do Código Penal, por sua vez, se aperfeiçoa com a simples exposição a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, em razão de excesso nos meios de correção ou disciplina. O que, a meu ver, é o caso em tela. O intuito foi repreendê-lo, é certo que de forma imoderada, mas não impor intenso sofrimento físico.
+O conjunto probatório não demonstra essa intensidade ou a ocorrência de sofrimento penoso e excessivo infringido ao menor. Ao revés, dos trechos fica evidente que a apelante castigou a criança imoderadamente, ainda que com finalidade corretiva.
+Em verdade, o relato da mãe de que não colocou a mão do filho sobre a chama do fogão, mas o levou a fazê-lo, com ressonância nas declarações da própria vítima, que confirma o feito.
+Como se vê, a ação não se amolda à tortura, mas suficiente para preencher a de maus tratos. Não se pode afirmar que ela agiu por ódio pessoal e crueldade, de modo a causar padecimento. Houve abusos dos meios disciplinares, e não tortura.
+A propósito, o entendimento desse Tribunal:
+ ..
+Repito, nos maus-tratos a finalidade é a repreensão de uma indisciplina, e na tortura o propósito é causar o padecimento da vítima.
+Do arcabouço não evidenciado o sadismo ou desejo de causar sofrimento por mero prazer ou ódio, mas a falta de paciência da ré, que abusou da autoridade que possuía impingindo meios corretivos excessivos.
+Não há, portanto, como manter a condenação pela tortura (art. 1º, II, e § 4º, II, da Lei 9.455). Desclassifico para o artigo 136, § 3º, do Código Penal, de menor potencial ofensivo, competente ao Juizado Especial Criminal" (fls. 684-685).
+Como se denota, o eg. Tribunal de origem desclassificou a conduta para o tipo penal de maus tratos, uma vez que "O conjunto probatório não demonstra essa intensidade ou a ocorrência de sofrimento penoso e excessivo infringido ao menor. Ao revés, dos trechos fica evidente que a apelante castigou a criança imoderadamente, ainda que com finalidade corretiva".
+Entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela configuração do crime de tortura demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, "Ao desclassificar a conduta do agravado para a prevista no art. 136 do Código Penal, o Tribunal estadual concluiu que as provas disponíveis não refletem a vontade livre e consciente de causar o padecimento do filho, mas apenas o intuito de corrigi-lo, o que, no caso concreto, tornou-se ilícito pelo excesso de correção e castigos vinculados ao poder disciplinar e orientador dos pais ou responsáveis. Rever o entendiment o do acórdão recorrido demandaria amplo reexame do conteúdo fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ" (AgInt no AREsp n. 965.166/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 9/10/2017).
+Vale citar, a contrario sensu: AgRg no AREsp n. 2.084.968/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 23/3/2023.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL MINISTERIAL. MAUS TRATOS. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE TORTURA. INCURSÃO NO ACERVO PROBANTE. VIA INADEQUADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
