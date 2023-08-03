@@ -5,3 +5,4 @@ I - de formação inicial e continuada ou qualificação profissional;
 II - de educação profissional técnica de nível médio;
 III - de educação profissional tecnológica de graduação e pós-graduação.
 § 3º Os cursos de educação profissional tecnológica de graduação e pós-graduação organizar-se-ão, no que concerne a objetivos, características e duração, de acordo com as diretrizes curriculares nacionais estabelecidas pelo Conselho Nacional de Educação.
+§ 4º As instituições de educação superior deverão dar transparência e estabelecer critérios e procedimentos objetivos para o aproveitamento das experiências e dos conhecimentos desenvolvidos na educação profissional técnica de nível médio, sempre que o curso desse nível e o de nível superior sejam de áreas afins, nos termos de regulamento.
