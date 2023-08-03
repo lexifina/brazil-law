@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SÉRGIO ROBERTO JAESCHKE JAEGER à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 733):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. 1. EMENDA À INICIAL. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. 2. ANÁLISE DE DISSÍDIO PREJUDICADA. 3. HONORÁRIOS ADVOCATÍCIOS. TEMA REPETITIVO N. 1.076 DO STJ. ART. 1.030, I, B, DO CPC/2015. 4. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 746-750), o embargante sustenta que a decisão que conheceu parcialmente do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ, fls. 733-738) incorreu nas hipóteses ventiladas no art. 1.022 do CPC/2015 .
+Para tanto, argumenta que a decisão monocrática da lavra desta relatoria é obscura, porquanto fora apoiada unicamente em entendimento equivocado adotado pelo Colegiado de origem, sem que fossem verificados minimamente os atos processuais dos autos.
+Alega, ainda, que a questão controvertida não demanda o revolvimento de provas.
+Por fim, pleiteia pelo conhecimento e provimento dos embargos de declaração.
+Foram apresentadas as impugnações com pedido de aplicação de multa (e-STJ, fls. 759-762).
+Brevemente relatado, decido
+Os declaratórios não merecem ser acolhidos.
+De início, cabe rememorar que os embargos de declaração constituem meio de impugnação à decisão judicial de fundamentação vinculada, cabíveis apenas nas hipóteses estabelecidas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Tal recurso objetiva o aprimoramento das decisões judiciais, com o propósito de prestara tutela jurisdicional de forma clara e completa, sem, contudo, revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissões, prestam-se os declaratórios a modificar o julgado.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.475.227/RS,Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+Além disso, nos termos da jurisprudência desta Corte Superior, "a obscuridade verifica-se quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível" (AgRg no REsp n. 677.210/SP, relator Ministro Hamilton Carvalhido, Sexta Turma, DJ de 3/10/2005).
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE. VÍCIO NÃO CONFIGURADO.
+1. A obscuridade corresponde à falta de clareza do texto. Assim, somente fica caracterizada quando, por qualquer motivo, haja prejuízo da compreensão da decisão judicial. Dessa falha não se ressente o acórdão embargado.
+2. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.934.310/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/2/2022, DJe de 4/3/2022.)
+Na presente insurgência, o embargante argumenta que a decisão monocrática foi proferida apoiando-se apenas na conclusão equivocada adotada pela Corte estadual, sem proceder a mínima análise dos atos praticados.
+Ocorre que, ao apreciar as questões trazidas, esta relatoria o fez observando o contexto fático delineado na instância ordinária, a qual possui ampla liberdade na análise dos fatos e provas.
+Nessa senda, dessume-se da leitura do acórdão proferido pela Vigésima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul que, além do acolhimento dos documentos juntados posteriormente como emenda à inicial, houve a juntada extemporânea do contrato de mútuo, cerca de quatro meses depois, quando já caracterizada a revelia do recorrente.
+Confira-se (e-STJ, fls. 499-500):
+Após ter ingressado com a inicial da ação executiva, a parte credora foi intimada para que demonstrasse fazer jus ao benefício da AJG (Evento2, PROCJUDIC2 - fl. 21 - autos da execução).
+Peticionou às fls. 22 e ss, juntando documentos e solicitando a concessão do benefício ou ainda, a possibilidade de pagamento das custas ao final do processo.
+Sobreveio decisão (fls. 39 e ss) que indeferiu o pedido de AJG, bem como o de pagamento das custas ao final da demanda, em vista que o pedido do exequente não encontrava amparo legal e a excepcionalidade da concessão somente se verificaria em caso de escassez momentânea, o que não se constatava no caso. Foi assim a parte intimada para o recolhimento das custas, sob pena de cancelamento da distribuição.
+O exequente peticionou às fls. 43 e seguintes, comprovando o recolhimento, reiterou o pedido de deferimento, "inaudita altera pars", da tutela de urgência de arresto sobre créditos provenientes do contrato de prestação de serviços entre os executados e a empresa BRF Brasil Foos, requereu o desentranhamento da declaração de imposto de renda juntado às fls. 26/38.
+Como não bastasse, juntou diversos documentos, inclusive as "provas das obrigações das executadas e reconhecimento do crédito executado" e "prova grupo controlador e repasse de valores", sendo que, acompanhando este último item, juntou novamente o "Contrato Particular de Mútuo" (fl. 69), reproduzindo o documento antes juntado com a inicial (documento de fl. 15).
+Porém, basta comparar os contratos (juntados parcialmente) para se constatar que são instrumentos diferentes, assim como referido na sentença. Cumpre frisar, que o magistrado a quo acolheu a petição como emenda à inicial, decidindo, inclusive, acerca do pedido de tutela de urgência requerido pelo exequente (Evento 3, PROCJUDIC3 - fls. 85/85v).
+Com o oferecimento dos embargos à execução, o exequente foi intimado para audiência conciliatória. Manifestou-se nos autos contra a audiência, mas esta acabou se realizando, sem resultado frutífero.
+Transitou "in albis" o prazo para oferecimento da impugnação aos embargos (Evento3, PROCJUDIC4 fl. 147v - autos dos embargos).
+A juntada extemporânea do "contrato de mútuo", quando já caracterizada a revelia do embargado (fl. 157), somente ocorreu com a petição de fl. 160, ou seja, cerca de quatro meses após, justificando, o exequente, o longo prazo que o processo ficou sob a carga de seu patrono, por motivos de mudança de domicílio deste último, quando os autos acabaram extraviados temporariamente. Além disso, requereu a relativização dos efeitos da revelia. Como visto, a parte e seu procurador não são aprendizes na arte do extravio.
+Nesse sentido, tendo a Corte de origem adotado tal entendimento, este Superior Tribunal fica impedido de proceder ao revolvimento do acervo fático-probatório por incidência da Súmula n. 7/STJ, de modo que decisão monocrática outrora proferida não incorreu em vício de obscuridade.
+No caso, não obstante a alegação de pretensa obscuridade no no julgado embargado, o que se constata, na verdade, é tão só a pretensão de rejulgamento da causa, em virtude do inconformismo da parte com o resultado, tornando inviável o acolhimento dos presentes embargos.
+Em arremate, não merece ser acolhida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015, pois se verifica que o embargante apenas fez uso de seu direito aos embargos por entender que o acórdão do agravo interno realmente padecia dos defeitos elencados no art. 1.022; contudo, tal oposição, como constatada neste autos, não configura hipótese de cabimento da aludida multa. Ademais, entende-se que esta não é automática, aplicando-se apenas quando protelatórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL -AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE DEU PROVIMENTO AO RECLAMO E, DE PLANO, DESPROVEU O AGRAVO. INCONFORMISMO DA AGRAVANTE.
+1. A multa prevista no art. 1.026, § 2º, do CPC/2015, não é automática (AgInt no AREsp 1631739/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021), devendo ser afastada quando não se caracteriza o propósito protelatório na oposição dos embargos de declaração (EDcl no AgInt no REsp 1893132/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021), nos termos da Súmula 98 do STJ.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao agravo interno e, por conseguinte, afastar a multa do art. 1.026, § 2º, do NCPC, aplicada pela instância de origem.
+(EDcl no AgInt no AREsp 1.620.025/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-s e.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. OBSCURIDADE. AUSÊNCIA DE VÍCIO. EMBARGOS REJEITADOS.
