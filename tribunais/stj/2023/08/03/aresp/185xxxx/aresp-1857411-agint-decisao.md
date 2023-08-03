@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interno interposto por ZÉ AMPARO HORTIFRUTI LTDA. - EM RECUPERAÇÃO JUDICIAL contra a decisão de fls. 269-270 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão agravada.
+Nas razões do agravo, a parte insurgente alega que refutou especificamente todos os fundamentos da decisão que inadmitiu o seu apelo especial.
+Parecer do MPF pelo nã provimento do agravo interno (e-STJ, fls. 290-291).
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pela agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ZÉ AMPARO HORTIFRUTI LTDA. - EM RECUPERAÇÃO JUDICIAL, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 96-97):
+Impugnação de crédito em recuperação judicial. Decisão de procedência. Agravo de instrumento da recuperanda. A garantia fiduciária constitui-se quando da celebração do contrato, servindo o registro à mera publicidade do negócio, tornando-o oponível a terceiros. Consolidação desse entendimento pelo STJ. Precedentes das Câmaras Reservadas de Direito Empresarial deste Tribunal, amoldando-se a tal jurisprudência, superado entendimento anterior. Essencialidade. A alegação de que os bens dados em garantia fiduciária são essenciais à atividade econômica da recuperanda não altera a natureza dos créditos, mas tão somente inviabiliza sua expropriação durante o "stay period". Enunciado III do Grupo de Câmaras de Direito Empresarial do Tribunal: "Escoado o prazo de suspensão de que trata o § 4º, do art. 6º, da Lei nº 11.101/05 ("stay period"), as medidas de expropriação pelo credor titular de propriedade fiduciária de bens móveis ou imóveis, de arrendador mercantil, de proprietário ou promitente vendedor, poderão ser retomadas, ainda que os bens a serem excutidos sejam essenciais à atividade empresarial". Manutenção da decisão agravada. Agravo de instrumento a que se nega provimento.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 167-168).
+Em suas razões de recurso especial (e-STJ, fls. 112-131), a agravante alegou violação ao art. 1.361, § 1º, do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que as garantias fiduciárias são inválidas, tendo em vista que não houve o registro dos contratos objeto da impugnação em órgão competente, devendo ser reconhecida a concursalidade do crédito, submetendo-o ao plano de recuperação judicial.
+Destacou, outrossim, que "sendo comprovada a essencialidade do bem dado em alienação, o crédito garantido deve, obrigatoriamente, sujeitar-se aos efeitos do processo recuperacional" (e-SJ, fl. 124).
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 176-181).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 207-214).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca da submissão do crédito aos efeitos da recuperação judicial, o TJSP dirimiu a controvérsia consignando os seguintes aspectos (e-STJ, fls. 102-105):
+O crédito do banco credor, consubstanciado pelas Cédulas de Crédito Bancário nº 333461/001 e 344226/001, está integral e validamente garantido por cessão fiduciária de equipamentos (fls. 54/80, na numeração dos autos de origem). Portanto, não se sujeita aos efeitos da recuperação judicial, nos termos do § 3º do art. 49 da Lei 11.101/2005, o que indica o bom direito do credor.
+A jurisprudência do Superior Tribunal de Justiça é no sentido da aplicação do § 3º do art. 49 da Lei 11.101/05 a casos como o presente:
+( )
+Mais, cumpre destacar que, embora a Súmula 60 deste Tribunal de Justiça estabeleça ser o registro em cartório ato constitutivo da garantia fiduciária, o Superior Tribunal de Justiça consolidou entendimento contrário, pela prescindibilidade do registro prévio para a constituição da garantia. A Súmula não mais opera, portanto.
+A jurisprudência das Câmaras Reservadas de Direito Empresarial deste Tribunal amoldou-se a essa posição da Corte Superior:
+( )
+Assim sendo, restam incontroversas a existência da garantia fiduciária prestada pela agravante, bem como sua eficácia inter partes, o que basta para o reconhecimento da extraconcursalidade do crédito do agravado.
+Sobre o tema, a Segunda Seção deste Tribunal Superior consolidou o entendimento no sentido de que na cessão fiduciária de créditos não exige o registro como elemento constitutivo da propriedade ou titularidade fiduciária, pois a transferência ao credor fiduciário se efetiva a partir da contratação e, por esse motivo, os bens não se submetem aos efeitos da recuperação judicial.
+Segue a ementa do julgado:
+DIREITO CIVIL E COMERCIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE DE REGISTRO PARA A CONSTITUIÇÃO DA GARANTIA. CREDOR NÃO SUJEITO Á RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+1. A cessão fiduciária de título de crédito, nos termos da disciplina específica da Lei 4.728/95, com a redação dada pela Lei 10.931/2004, não depende de registro em cartório de títulos e documentos para ser constituída, não se lhe aplicando a regra do art. §1º do art. 1.361 do Código Civil, regente da cessão fiduciária de coisa móvel infungível.
+2. O registro da cessão fiduciária do título de crédito pode ser necessário para salvaguardar eventual direito de terceiro a quem o título de crédito seja oponível, a saber, o devedor do título de crédito cedido pela recuperanda. Não há repercussão na esfera de direitos dos demais credores, donde a irrelevância da existência do registro para o processo de recuperação.
+3. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, §3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária. Precedentes.
+4. Impossibilidade "de se impor restrições à propriedade fiduciária de crédito, por não se tratar de bem de capital, segundo entendimento desta Corte Superior." (AgInt no REsp. 1.475.258-MS, rel Ministro Paulo de Tarso Sanseverino, DJe 20.2.2017).
+5. Recurso especial conhecido e provido.
+(REsp n. 1.629.470/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 30/11/2021, DJe de 17/12/2021.)
+Assim, observa-se que a orientação firmada pela Corte a quo está em harmonia com a jurisprudência do STJ, incidindo, na espécie, o teor do enunciado sumular n. 83 do STJ.
+No mais, o colegiado de origem assim se manifestou a respeito do argumento de essencialidade dos bens (e-STJ, fl. 105):
+Prosseguindo, não cabe, em impugnação de crédito, realizar análise de essencialidade dos bens alienados fiduciariamente pela recuperanda.
+De resto, a alegação de que os bens dados em garantia fiduciária são essenciais à atividade econômica da recuperanda, naturalmente, não altera a natureza do crédito; tão somente inviabiliza sua expropriação durante o stay period.
+Contudo, conforme é possível verificar da análise das razões recursais, a agravante não impugnou os fundamentos utilizados pelo acórdão recorrido acima destacados.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVA - CONDENATÓRIA - DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL NAS ORDENS DE PAGAMENTO. FUNDAMENTO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS DO ARTS. 255, §§ 1º e 2º, DO RISTJ e 1.029, § 1º do CPC/2015 NÃO CUMPRIDOS. DECISÃO MANTIDA.
+1. Inviável a análise de ofensa aos dispositivos constitucionais sob pena de usurpação da competência reservada à Corte Suprema.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Não se conhece do recurso interposto pela alínea "c" do permissivo constitucional, quando a divergência não é demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os supostos casos que deveriam ser apresentados e confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1909651/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2022, DJe 28/03/2022).
+Ante o exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DE CRÉDITO EM RECUPERAÇÃO JUDICIAL. GARANTIA FIDUCIÁRIA. AUSÊNCIA DE REGISTRO. DESNECESSIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. ESSENCIALIDADE DO BEM. FUNDAMENTO SUFICIENTE SUSCITADO PELO TRIBUNAL A QUO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
