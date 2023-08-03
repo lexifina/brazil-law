@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de OTAVIO FERREIRA DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0018042-88.2016.8.26.0050).
+O paciente foi condenado às penas de 1 ano 7 meses e 6 dias de reclusão em regime aberto e de 4 dias-multa, pela prática do delito previsto no art. 155, parágrafos 2º e 4º, IV, do Código Penal.
+A pena-base foi fixada em 1/5 acima do mínimo, em razão dos maus antecedentes, reconhecido o furto privilegiado, a pena foi reduzida em 2/3.
+Interposta a apelação pela defesa e pela acusação, o recurso defensivo foi desprovido, enquanto o recurso acusatório foi provido para afastar o furto privilegiado.
+Nas razões do presente writ, a defesa alega constrangimento ilegal decorrente da quantificação da pena aplicada e da prescrição da pretensão punitiva.
+Alega que, embora seja portador de maus antecedentes criminais, o paciente é tecnicamente primário e portando tem direito ao reconhecimento do furto privilegiado.
+Sustenta que deve ser reconhecida a extinção da pretensão punitiva, pois decorrido lapso superior a 3 anos entre o recebimento da denúncia em 3/5/2016 e a prolação da sentença em 10/2/2021.
+Requer, assim, a concessão da ordem para que seja promovida a diminuição da pena aplicada e a extinção da punibilidade do paciente.
+O pedido liminar foi indeferido às fls. 99-100.
+Informações prestadas às fls. 105-106 e 129-130.
+O Ministério Público Federal, à fl. 159, manifestou-se pela manutenção integral da decisão impugnada.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração que seja promovida a diminuição da pena aplicada e a extinção da punibilidade do paciente.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJU de 11/4/2005).
+Nesse compasso, consoante jurisprudência deste Tribunal Superior, a condenação anterior existente, ainda que alcançada pelo período depurador de cinco anos previsto no art. 64, I, do Código Penal, embora não seja apta a caracterizar a agravante da reincidência, configura maus antecedentes podendo ser utilizado para exasperação da pena-base na primeira fase do processo dosimétrico.
+Nesse sentido: (HC 304.905/SP, Sexta Turma, Rel. Ministro Ericson Maranho, DESEMBARGADOR CONVOCADO DO TJ/SP, DJe 19/02/2015); (AgRg no HC n. 323.661/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2015); (AgRg no AREsp n. 508.791/MT, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 26/10/2015).
+Além disso, "A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático, levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime" (AgRg no HC n. 188.873/AC, Quinta Turma, Rel. Ministro Jorge Mussi, julgado em 8/10/2013, DJe de 16/10/2013).
+No tocante ao pleito de reconhecimento da prescrição da pretensão executória, o entendimento jurisprudencial desta Corte a respeito da contagem de prazo sofreu alterações. Até recentemente, esta Corte entendia que o termo inicial da contagem do prazo era o do trânsito em julgado para a acusação, conforme expressamente estabelecido no art. 112, inciso I, do Código Penal.
+No entanto, a Terceira Seção, ao julgar o AgRg no REsp n. 1.983.259/PR, em, 26 de outubro de 2022, modificou sua compreensão sobre o tema, alinhando-se ao posicionamento já manifestado pelo Supremo Tribunal Federal, no sentido de que a prescrição da pretensão executória tem como marco inicial o trânsito em julgado para ambas as partes, tendo em vista que, somente a partir desse momento processual, é possível se falar em possibilidade de execução da pena.
+Na hipótese não houve o trânsito em julgado para o Ministério Público, conforme abordado pelo v. acórdão impugnado à e-STJ fl. 90.
+Nesse mesmo sentido: (EDcl no AgRg no HC n. 764.111/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 20/3/2023); (AgRg no REsp n. 1.999.878/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022); (AgRg no AREsp n. 2.174.685/PB, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 7/3/2023, DJe de 15/3/2023).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
