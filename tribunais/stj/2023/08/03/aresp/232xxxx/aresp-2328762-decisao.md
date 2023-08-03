@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Thayenne Baldo Vieira, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado (e-STJ, fl. 325):
+AÇÃO DE OBRIGAÇÃO DE FAZER C. C REPARAÇÃO DE DANOS MATERIAIS E MORAIS - COMPRA E VENDA DE VEÍCULO- TRANSFERÊNCIA - COMUNICAÇÃO DA VENDA - OBRIGAÇÃO DO ANTIGO PROPRIETÁRIO - AUSÊNCIA - DANO MORAL - INEXISTENTE - RECURSO DESPROVIDO. Tendo em vista que a parte não cumpriu com o dever legal previsto no art. 134 do CTB, em comunicar a alienação do automóvel ao Órgão de Transito, cuja omissão corroborou para que as infrações e os débitos tributários fossem lavrados em seu nome, sendo por isso descabida a condenação por dano moral, na medida em que contribuiu pela inércia para o evento danoso. Recurso desprovido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 354):
+EMBARGOS DE DECLARAÇÃO - COMPRA E VENDA DE VEÍCULO- TRANSFERÊNCIA - COMUNICAÇÃO DA VENDA - OBRIGAÇÃO DO ANTIGO PROPRIETÁRIO - AUSÊNCIA - DANO MORAL - INEXISTENTE - OMISSÃO E CONTRADIÇÃO - INOCORRÊNCIA - REDISCUSSÃO - MEIO INADEQUADO - PREQUESTIONAMENTO - EMBARGOS REJEITADOS. Para que seja cabível os embargos de declaração, é necessário haver conexão entre a matéria arguida e os requisitos ensejadores, conforme preconizam os artigos 1.022, incs. I a III e parágrafo único, inc. I, e 489, §1º, do CPC. Oposto o recurso integrativo com fim específico de rediscutir a matéria, deve os embargos de declaração ser rejeitado. Os embargos de declaração é o meio adequado para o simples objetivo de prequestionar matéria como pressuposto para interpor recurso à instância superior. Embargos rejeitados.
+Em suas razões de recurso especial (e-STJ, fls. 363-384), a agravante alegou violação aos arts. 1.226 do Código Civil de 2002; 186, 489, § 1º, I, e 927 do Código de Processo Civil de 2015; e 134 do Código de Trânsito Brasileiro,
+Sustentou, em síntese, a ocorrência de dano moral passível de ser indenizado.
+Assinalou que não promoveu a comunicação da venda do veículo ao órgão fiscalizador competente por culpa da agravada.
+Requereu, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com relação à apontada ofensa ao art. 489 do Código de Processo Civil de 2015, cumpre assinalar que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado.
+Assim, apontar o dispositivo de lei de maneira genérica, sem realizar a sua necessária individualização, expondo as razões pelas quais entende que ocorreu violação à legislação federal indicada é medida inviável na via do recurso especial, pois não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal.
+À guisa de exemplo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+(..)
+5. A alegação genérica de violação à lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF.
+( )
+7. Agravo interno provido para reconsiderar a decisão de fls. 238-240, e-STJ, e, de plano, negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 1.972.132/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, DJe de 31/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INAPTIDÃO DAS RAZÕES RECURSAIS. SÚM. N. 284/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚM. N. 83/STJ. PREJUÍZO. INEXISTÊNCIA. NULIDADE. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+(..)
+2. A arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+(..)
+5. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.448.711/ES, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, DJe de 25/2/2022)
+Com relação ao cabimento do pleito indenizatório a título de danos morais, o TJMT dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fl. 326):
+Na origem, cuida-se de ação de obrigação de fazer requerendo em síntese a condenação da ré na obrigação de transferir a propriedade do bem para si e o pagamento dos encargos incidentes sobre o veículo, além de indenização por danos morais.
+Decorrido o iter procedimental o processo foi julgado parcialmente procedente para determinar a empresa demandada que cumpra com a obrigação em transferir o veiculo objeto dos autos, com o pagamento dos encargos pertinentes.
+Não concordando com o édito judicial, recorre a autora, ora apelante. Insurge-se sustentando que a não realização da transferência do veículo acarretou transtornos e frustrações, mormente, prejuízo de ordem moral, na medida em que ao deixar de quitar os impostos que recaem sobre o automóvel, acarretou a inscrição do débito nos cadastros restritivos de crédito.
+Todavia, baldados os substanciosos argumentos vertidos pela apelante, o fato é que a apelante, então, proprietária anterior do automóvel, não cumpriu com o dever legal previsto no art. 134 do CTB, em comunicar a alienação do automóvel ao Órgão de Transito, cuja omissão corroborou para que as infrações e os débitos tributários fossem lavrados em seu nome, sendo por isso descabida a condenação por dano moral, na medida em que contribuiu pela inércia para o evento danoso, na medida em que os transtornos poderiam ter sido evitado por meio de uma simples diligência consistente na comunicação da venda junto ao Departamento do Transito.
+Das informações extraídas do aresto recorrido, observa-se que o colegiado local concluiu pela inexistência de dano moral, tendo em vista que a agravante contribuiu para o evento danoso, já que deixou de cumprir com a diligência de informar ao órgão de fiscalização competente a alienação do veículo.
+Do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, a fim de acolher a pretensão recursal, precisaria empreender novo e aprofundado exame de tais circunstâncias, mas tal providência é vedada a esta Corte, na via do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE VEÍCULO. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVO LEGAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DANOS MORAIS AFASTADOS. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
