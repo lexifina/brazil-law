@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Lívia Simão Frangioti contra o acórdão de fls. 442-448 (e-STJ), proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER c/c INDENIZAÇÃO POR DANO MORAL - Paciente menor impúbere portador de Transtorno do Espetro Autista (TEA) - Sentença que julgou parcialmente procedentes os pedidos, determinando o custeio do tratamento prescrito, nos termos dos relatórios médicos, mas afastou o pleito indenizatório - Insurgência da autora - Não acolhimento - Dano moral que não restou caracterizado - Mero inadimplemento contratual - Ausência de violação a direito da personalidade - Recurso desprovido.
+Nas razões do recurso especial (e-STJ, fls. 453-469), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação do art. 927 do CCB. Sustenta, em síntese, que a recusa indevida de cobertura de tratamento médico gera danos morais in re ipsa.
+Contrarrazões às fls. 485-499 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 519-521), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido verifica-se que o Tribunal de origem concluiu que a recusa indevida da cobertura de tratamento médico não gera danos morais in re ipsa e que não houve a demonstração de dano à personalidade.
+Veja-se à fl. 445 (e-STJ):
+Os danos morais não restaram mesmo caracterizados. Houve mero inadimplemento contratual e o descumprimento do contrato, por si só, não gera dano moral. Não se discute que a negativa de custeio do tratamento poderia ter causado certos dissabores e aborrecimentos à autora, mas não restou comprovado que seu estado de saúde tenha-se agravado em razão do ocorrido. Eventuais constrangimentos experimentados, quando da negativa, não caracterizam a dor moral grave que justifica uma condenação pecuniária com caráter indenizatório. Em casos de plano de saúde, tem sido reconhecido o direito do titular, cuja cobertura foi negada, ao ressarcimento de danos morais, quando se verificar que a recusa foi capaz de trazer sofrimento, angústia ou dor. Mas a hipótese não é de dano "in re ipsa", de sorte que a negativa, por si só, não é capaz de gerar direito à indenização, sendo necessário que se verifique, no caso concreto, que dela resultou, de fato, preocupação, angústia ou sofrimento, que ultrapassa o limite do mero aborrecimento. Além disso, a liminar foi deferida, por decisão proferida por esta E. Câmara, no V. Acórdão de fls. 60/61, assegurando o tratamento da paciente.
+A jurisprudência desta Corte é no sentido de que a recusa indevida de tratamento médico somente gera danos morais quando há o agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, não sendo, portanto, in re ipsa.
+Logo, sem razão a recorrente quando defende a existência de dano moral in re ipsa.
+Diante do exposto, conheço do recurso especial e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais), devendo ser observada a gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA. DANO MORAL IN RE IPSA. IMPROCEDÊNCIA. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
