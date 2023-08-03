@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por EVER ELETRIC APPLIANCES INDUSTRIA E COMERCIO DE VEICULOS LTDA. e OUTRO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Recuperação Judicial - Habilitação de crédito ajuizada pelas próprias recuperandas - Decreto de procedência - Extraconcursalidade do crédito, no entanto, reconhecida em recurso interposto pela credora contra a mesma decisão e anteriormente julgado - Questões atinentes à quantificação do crédito ultrapassadas, ainda que pendente o trânsito em julgado do acórdão proferido - Recurso prejudicado" (fl. 993, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.083/1.091, e-STJ).
+No especial, os recorrentes apontam, além de divergência jurisprudencial, violação dos arts. 55, § 3º, e 313, V, "a", do Código de Processo Civil, argumentando, em síntese, a obrigatoriedade de reunião dos processos conexos para julgamento conjunto para evitar decisões conflitantes.
+Sustentam, ainda, a necessidade de suspensão do feito, visto que
+"o objeto que figura no foco do Agravo de Instrumento interposto pela NOVAPORTFOLIO de certa forma, abarca o objeto do recurso interposto por estas Recorrentes nestes autos, ensejando, assim, numa relação de prejudicialidade" (fl. 1.104, e-STJ).
+Apresentadas contrarrazões às fls. 1.197/1.208 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+O pedido de reunião dos recursos, por sua vez, foi formulado pela embargante em 2 de setembro de 2021 (fls. 964/977), enquanto o agravo de instrumento antecedente já tinha sido julgado em 14 de julho de 2021, persistindo, portanto, obviamente, a total e completa inviabilidade o julgamento em conjunto, formulando a parte embargante argumento vazio e destinado a formentar, pura e simplesmente, o surgimento de uma ilusão de verdade" (fl. 1.090, e-STJ - grifou-se).
+De início, extrai-se das razões r ecursais que os recorrentes não refutaram o fundamento adotado pela Corte local, segundo o qual o pedido de reunião dos processos ocorreu após o julgamento do processo conexo.
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pelos recorrentes , aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Mesmo que superado o óbice, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA. OCUPAÇÃO COLETIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE OMISSÃO. CONTRADIÇÃO. CONFIGURAÇÃO. NULIDADE PREJUDICADA. CELERIDADE, ECONOMIA PROCESSUAL, EFETIVIDADE E PRIMAZIA DO JULGAMENTO DE MÉRITO. REUNIÃO DE AÇÕES PARA JULGAMENTO CONJUNTO. RISCO DE DECISÕES CONFLITANTES. DISCRICIONARIEDADE DO JULGADOR. REEXAME DE FATOS E PROVAS. INAMISSIBILIDADE. SÚMULA 7/STJ. ARTS. 554, §§ 1º A 3º, E 565 DO CPC/2015. PROCEDIMENTO ESPECIAL DE LITÍGIOS POSSESSÓRIOS COLETIVOS. APLICAÇÃO ÀS AÇÕES PETITÓRIAS. POSSIBILIDADE.
+(..)
+2. O propósito recursal é decidir se (I) o procedimento dos litígios possessórios coletivos aplica-se às ações petitórias, na forma do art. 554, c/c o art. 565, § 5º, do CPC/2015; (II) devem ser reunidas, para julgamento conjunto, por risco de decisões conflitantes, as demais ações reivindicatórias ajuizadas, em datas próximas, pelo recorrido com o objetivo de recuperar imóveis de lotes vizinhos, mas com matrículas individualizadas; (III) há contradição e omissão no acórdão recorrido.
+(..)
+5. Trata-se de uma faculdade do julgador a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a conveniência da medida em cada hipótese. Precedentes. Para o acolhimento da tese de imprescindibilidade da reunião das ações por risco de decisões conflitantes, seria imprescindível promover o revolvimento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante a incidência da Súmula 7/STJ.
+(..)
+8. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido, apenas para determinar que o Juízo de origem dê ampla publicidade à existência da presente ação, na forma do art. 554, § 3º, do CPC/2015, ou seja, mediante anúncios em jornais e rádios locais, publicações em redes sociais, além de outros meios considerados pertinentes pelo julgador" (REsp n. 1.992.184/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/5/2022, DJe de 3/6/2022 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. AÇÃO DE COBRANÇA. PROCESSUAL CIVIL. RECOLHIMENTO DAS CUSTAS CONFORME EXIGÊNCIA DO ART. 486, § 2º, DO CPC. CONEXÃO DOS PROCESSOS. AUSÊNCIA DE REUNIÃO. PREJUÍZO AFASTADO. SUFICIÊNCIA DO ACERVO PROBATÓRIO PARA JULGAR A AÇÃO DE COBRANÇA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO E, EM NOVO EXAME, CONHECER DO AGRAVO E DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que houve impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial. Novo exame do feito.
+2. "Trata-se de uma faculdade do juiz a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a conveniência em cada caso concreto, conforme disposto no art. 105 do CPC/73" (AgRg no REsp 1.567.989/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/05/2016, DJe de 27/05/2016).
+3. O Tribunal de Justiça, conforme arrimo no acervo fático-probatório carreado aos autos, concluiu que a ação de cobrança está devidamente instruída com documentos indispensáveis para sua propositura. A pretensão de alterar esse entendimento, considerando as circunstâncias do caso concreto, esbarraria no óbice da Súmula 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e negar provimento ao recurso especial" (AgInt nos EDcl no AREsp n. 1.681.585/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/4/2021, DJe de 12/5/2021 - grifou-se).
+"PROCESSUAL CIVIL E DIREITO MARCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. CANCELAMENTO DE REGISTRO. ABSTENÇÃO DO USO DE MARCA. SUSPENSÃO DE PROCESSO NA JUSTIÇA COMUM ESTADUAL POR PREJUDICIALIDADE EXTERNA COM OUTRO EM TRAMITAÇÃO NA JUSTIÇA FEDERAL. INEXISTÊNCIA DE OBRIGATORIEDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE (SÚMULA 83/STJ). AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARCIALMENTE PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a suspensão do processo ante a existência de prejudicialidade externa com outra demanda ou incidente não possui caráter obrigatório, cabendo ao julgador aferir, no caso concreto, a plausibilidade da paralisação consoante as circunstâncias.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento" (AgInt no AREsp 1.709.685/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/04/2021, DJe 23/04/2021 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE PROTESTO CONTRA ALIENAÇÃO DE BENS. DEFERIMENTO. ART. 265, IV, A, DO CPC. VIOLAÇÃO. INOCORRÊNCIA. ARTS. 867 e 869 do CPC/73. PREENCHIMENTO DOS REQUISITOS PARA DEFERIMENTO DA MEDIDA. REFORMA. SÚMULA Nº 7 DO STJ.
+(..)
+2. O STJ possui o entendimento de que a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto. Precedentes.
+(..)
+5. Agravo interno não provido, com aplicação de multa" (AgInt no AREsp 846.717/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/11/2017, DJe 30/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
