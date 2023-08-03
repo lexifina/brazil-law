@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto por OMNI S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão monocrática da Presidência do Superior Tribunal de Justiça (e-STJ, fls. 319-322) que conheceu do agravo para não conhecer do recurso especial.
+O apelo especial foi deduzido com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 190):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO BANCÁRIO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. REVISÃO DE CONTRATO. ALEGAÇÃO DE INÉPCIA DA INICIAL DESACOLHIDA. JUROS REMUNERATÓRIOS. COMPENSAÇÃO DE VALORES E REPETIÇÃO DE INDÉBITO. DESCARACTERIZAÇÃO DA MORA, DA INÉPCIA DA INICIAL. Nas ações que tenham por objeto a revisão de obrigação decorrente de empréstimo, de financiamento ou de alienação de bens, nos termos do art. 330 do Código de Processo Civil, o autor terá de, sob pena de inépcia, discriminar na petição inicial, dentre as obrigações contratuais, aquelas que pretende controverter, além de quantificar o valor incontroverso do débito e esse valor deverá continuar sendo pago no tempo e modo contratados. Narrativa e fundamentação na petição inicial que apontam as matérias submetidas à apreciação judicial, não havendo falar em extinção da ação sem resolução de mérito.
+DOS JUROS REMUNERATÓRIOS. Pactuada taxa de juros em patamar superior ao dobro da média de mercado apurada para o período da contratação, cabe a intervenção do Judiciário para revisar dita taxa, adaptando-a à média apurada pelo BACEN no período da contratação.
+DA COMPENSAÇÃO DE VALORES E REPETIÇÃO DO INDÉBITO. Constatada abusividade nas cláusulas pactuadas pelas partes, é cabível a compensação de valores e/ou a repetição do indébito, modo simples.
+DA DESCARACTERIZAÇÃO DA MORA Revisado encargo do período da normalidade contratual, resta descaracterizada a mora do fiduciante enquanto não sobrevier nova inadimplência após o recálculo da dívida, nos termos do REsp nº 1.061.530/RS.
+DA SUCUMBÊNCIA. Confirmada. Majorados os honorários advocatícios, diante do trabalho adicional ao demandante em grau recursal, nos termos do art. 85, §11, do Código de Processo Civil.
+APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, estes foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 215):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. VÍCIOS INOCORRENTES. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. Inexistência de obscuridade, contradição, omissão ou erro material amparando os embargos de declaração, cujo acolhimento pressupõe a presença de pelo menos uma das hipóteses elencadas de forma taxativa no art. 1.022 do Código de Processo Civil, ainda que para finalidade prequestionatória. Impossibilidade de rediscussão da matéria decidida, tendo em vista que os declaratórios não configuram sucedâneo recursal.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em suas razões de recurso especial (e-STJ, fls. 225-231), a recorrente apontou, além da existência de dissídio jurisprudencial, violação aos arts. 189 e 206, § 3º, IV, do Código Civil de 2002.
+Alegou, em síntese, que o Tribunal originário teria se equivocado ao não aplicar prazo prescricional trienal à pretensão de repetição de valores decorrente de revisão de cláusula contratual, configurando enriquecimento ilícito.
+O recurso especial não foi admitido pela Corte local (e-STJ, fls. 284-288), ante o entendimento da incidência dos óbices das Súmulas 7 e 83/STJ.
+A recorrente interpôs, então, agravo em recurso especial.
+Foi proferida decisão pela Presidência desta Corte, a qual conheceu do recurso para não conhecer do recurso especial tendo em vista o óbice da Súmula 7/STJ, que incidiria sob ambas as alíneas do permissivo constitucional.
+Em suas razões de agravo interno, a recorrente sustenta que não seriam aplicáveis os referidos óbices.
+Brevemente relatado, decido.
+No caso, observa-se que, de fato, o cerne da questão posta pela recorrente não demanda o revolvimento de fatos e provas, motivo pelo qual afasto o óbice da Súmula 7/STJ, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e passo à análise do recurso especial.
+A jurisprudência desta Corte Superior se posiciona no sentido de que a pretensão de repetição de valores pagos indevidamente fundada em contrato bancário está sujeita ao prazo prescricional decenal na vigência do CC/2002, contado da efetiva lesão, ou seja, do pagamento.
+Nesse sentido (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO. DECISÃO MANTIDA.
+1. "Tratando-se de repetição de indébito decorrente de relação contratual, aplica-se o prazo de prescrição decenal previsto no art. 205 do CC/02" (AgInt no AREsp 1753420/PB, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+2. A Segunda Seção do STJ selecionou o REsp n. 1.361.730/RS como representativo da controvérsia (art. 543-C do CPC/1973) para, originalmente, definir acerca "do prazo prescricional para o ajuizamento de ação revisional cumulada com repetição de indébito relativas a cédulas de crédito rural". No curso do julgamento do referido precedente qualificado, o tema foi readequado, "para restringir a discussão apenas à pretensão de repetição de indébito em contrato de cédula de crédito rural, ação condenatória pura não sujeita, portanto, a prazo decadencial". A questão debatida ficou circunscrita à discussão sobre a pretensão de repetir o indébito, fundada no enriquecimento sem causa, sem abranger a pretensão revisional.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1547852/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/10/2022, DJe de 3/11/2022)
+Ao dirimir a questão posta nos autos, o Tribunal originário assim se manifestou (e-STJ, fls. 218-219; sem grifos no original):
+Com efeito, tratando-se de demanda revisional de contrato de financiamento bancário com pedido de repetição de indébito, o prazo prescricional, na vigência do Código Civil/2002, é o decenal.
+(..)
+Outrossim, estando-se diante de demanda em que o propósito é a revisão de cláusulas contratuais - ou seja, a intenção da parte autora é de ver declarada a nulidade dos encargos contratados, e não de mera repetição de indébito (ou repetição de indébito pura) -, não há falarem prescrição trienal.
+E no caso, não decorreu o prazo decenal.
+E, destaco, pouco importa que o contrato já estivesse quitado, porque a revisão de contratos findos é plenamente possível, conforme pacífica jurisprudência do STJ, responsável pela interpretação da legislação infraconstitucional - tanto que, no caso, as ilegalidades existentes foram reconhecidas, declaradas e revisadas.
+Destarte, observa-se que o posicionamento adotado pelo TJRS está em consonância com a jurisprudência desta Corte Superior, não merecendo reparo.
+Ante o exposto, conheço do agravo, em juízo de retratação, para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em mais 2% (dois por cento) sobre a base de incidência fixada pelas instâncias ordinárias.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguime nto do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. CONTRATO BANCÁRIO. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO DECENAL. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL .
