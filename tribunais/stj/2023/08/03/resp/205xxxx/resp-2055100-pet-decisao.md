@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de Petição n. 63176/2023 em que se requer que "seja o feito convertido em diligência, para que se dê baixa dos autos à Procuradoria Regional da República da 5ª Região, em segundo grau, a fim de oportunizar ao Ministério Público Federal o oferecimento do Acordo de Não Persecução Penal em favor do requerente SANDRO ROGÉRIO MARTINS DE ARANDAS, tendo em vista a presença inequívoca de todos os requisitos necessários à sua propositura, em especial pelo fato deter havido oferta do instituto negocial (e inclusive celebrado o negócio jurídico), por parte do órgão ministerial, ao corréu em situação jurídico-processual semelhante" (e-STJ fl. 824).
+É o relatório.
+Decido.
+Pretende a defesa, em síntese, que os autos seja remetidos ao Ministério Público para seja oportunizado o oferecimento do "acordo de não persecução penal".
+O pedido não comporta acolhimento, porquanto o Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias.
+No presente caso, o feito já foi sentenciado (e-STJ fls. 563/570) e a sentença condenatória já foi, inclusive, confirmada pelo Tribunal Regional Federal da 5º Região.
+O fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC n. 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+Assinala-se, também, que o Ministério Público Federal, em 17/3/2021, entendeu pelo cabimento do ANPP em relação ao corréu José Monteiro Freitas e não cabimento em relação ao ora requerente em razão da reiteração da conduta. (e-STJ fl. 374)
+A análise das particularidades que diferenciam a situação do ora requerente e do corréu não é possível na via do recurso especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+Verifica-se, portanto, que, ao contrário do que alegado pela combativa Defesa, não merece acolhimento o pleito formulado na presente petição, pois não preenchidos os requisitos legais.
+Pelo exposto, indefiro o pedido.
