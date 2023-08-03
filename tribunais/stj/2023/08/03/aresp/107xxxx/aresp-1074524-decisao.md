@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DALTON PERIM contra a decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 1.504/1.510, in verbis:
+Dalton Perim foi denunciado pelo crime do art. 183 da Lei 9.472/1997, por, na qualidade de prefeito de Venda Nova do Imigrante/ES, operado, até 02/09/2011, re transmissora de TV, sem a devida licença dos órgãos competentes. O TRF2 recebeu a inicial em 13/12/2013 (e-STJ 662) e, por acórdão de 28/07/2016 (e-STJ 1.083/1.103), julgou, à maioria, procedente a denúncia; a pena base foi fixada em 2 anos de reclusão e em 10 dias multa e nesse patamar foi tornada definitiva, no regime prisional inicial aberto, e substituída a privativa de liberdade por 2 penas restritivas de direitos, a serem determinadas pelo JEP.
+A defesa interpôs recurso especial (e-STJ 1.251/1.286), com base nas alíneas a e c do inc. III do art. 105 da Constituição Federal. Alegou ofensa aos arts. 183 e 184 da Lei 9.472/1997, pois o município emancipou-se e ainda estava cadastrado, para fins de retransmissão de sinal de TV, nas coordenadas do município que compunha anteriormente e que a ANATEL não examinou a tempo a documentação necessária à regularização da retransmissão do sinal, pelo que a conduta não seria clandestina, mormente quando tomadas providências para regularizar a situação. Trouxe que a conduta seria irrelevante penal, em função de sua insignificante ofensividade. Apontou como paradigmas, julgados do Supremo Tribunal Federal e do Superior Tribunal de Justiça em sede de habeas corpus.
+O TRF2, por decisão monocrática de 26/10/2016, não admitiu embargos infringentes (e-STJ 1.377).
+Apresentadas contrarrazões ao recurso especial, o TRF2 não admitiu o apelo nobre, aos fundamentos de que não foi demonstrada a ofensa a norma legal e de que a pretensão recursal mostra-se contrária a jurisprudência dominante do Superior Tribunal de Justiça (e-STJ 1.428).
+A defesa então interpôs agravo, visando a conferir seguimento ao recurso especial (e-STJ 1.431/1.474). Aduziu que houve ofensa a normas legais e que a pretensão recursal não vai contra jurisprudência dominante de Tribunal Superior. Reiterou argumentos do recurso especial.
+Apresentadas contrarrazões ao agravo, vieram os autos ao e. Superior Tribunal de Justiça e ao custos legis  .. .
+Decido.
+De início, verifico que os fundamentos da decisão que não admitiu o apelo raro foram suficientemente impugnados, razão pela qual conheço do presente agravo.
+Outrossim, verifico, de plano, a viabilidade do recurso especial quanto às teses aventadas em suas razões.
+Antes de analisar o mérito do recurso, no entanto, observo a perda do seu objeto, tendo em vista que a pretensão punitiva está prescrita. Senão, vejamos.
+O agravante foi condenado à pena de 2 anos de detenção.
+Desse modo, tendo em vista que a reprimenda não excede a 2 anos, a prescrição ocorre em 4 anos, nos termos do art. 109, V, do Código Penal.
+Assim, é de rigor o reconhecimento da prescrição da pretensão punitiva, tendo em vista o transcurso desse lapso prescricional entre a publicação do acórdão recorrido, último marco interruptivo (5/9/2016 - conforme certidão de e-STJ fl. 1.137), e a presente data.
+Ante o exposto, com fulcro no art. 109, V, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, e julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
