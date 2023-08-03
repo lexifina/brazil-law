@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial apresentado por Genoveva Sabatini Ortolan e João Ortolan desafiando acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 75):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE PENHORA DE IMÓVEL RURAL. ALEGAÇÃO DE IMPENHORABILIDADE, POR SE TRATAR DE PEQUENA PROPRIEDADE RURAL TRABALHADA PELA FAMÍLIA.
+AGRAVANTES NÃO COMPROVARAM QUE A PROPRIEDADE RURAL É TRABALHADA PELA FAMÍLIA E QUE DELA RETIRAM SEU SUSTENTO.
+ALEGAÇÃO DE QUE A EXPLORAÇÃO DA PROPRIEDADE RURAL PELA FAMÍLIA É PRESUMIDA, À LUZ DO ENTENDIMENTO DO C. STF NO JULGAMENTO DO TEMA 961 COM REPERCUSSÃO GERAL RECONHECIDA, FIRMADA A SEGUINTE TESE: "É IMPENHORÁVEL A PEQUENA PROPRIEDADE RURAL FAMILIAR CONSTITUÍDA DE MAIS DE 01 (UM) TERRENO, DESDE QUE CONTÍNUOS E COM ÁREA TOTAL INFERIOR A 04 (QUATRO) MÓDULOS FISCAIS DO MUNICÍPIO DE LOCALIZAÇÃO".
+PRECEDENTE INVOCADO PELOS RECORRENTES QUE NÃO SE AMOLDA AO CASO CONCRETO. DISCUSSÃO ACERCA DA PROVA DA EXPLORAÇÃO DA PROPRIEDADE QUE NÃO FOI OBJETO DO MENCIONADO JULGAMENTO.
+DECISÃO MANTIDA.
+Nas razões do recurso especial (e-STJ, fls. 103-127), fundado no art. 105, III, a e c, da Constituição Federal, os recorrentes alegam violação ao art. 833, VIII, do CPC/2015, além de afirmar a existência de dissídio jurisprudencial.
+Sustentam ser impenhorável a pequena propriedade rural, argumentando não haver necessidade de comprovação de exploração da propriedade.
+Contrarrazões apresentadas (e-STJ, fls. 161-172).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+O Tribunal estadual, ao julgar o agravo de instrumento, assim consignou (e-STJ, fls. 78-81, sem grifo no original):
+A questão recursal cinge-se em verificar se o imóvel matriculado sob o nº 16.776 no Cartório de Registro de Imóveis de Sacramento preenche os requisitos de impenhorabilidade da pequena propriedade rural, nos termos da legislação vigente.
+ ..
+No presente caso, o enquadramento do imóvel como pequena propriedade rural já está superado, pois é incontroverso que suas dimensões são inferiores a quatro módulos fiscais, bastando a análise dos demais requisitos legais que fundamentaram a decisão impugnada pelo executado e, nesse ponto, entende-se que a decisão não merece reparo.
+Com efeito, conforme já salientado, a condição para o reconhecimento da impenhorabilidade da pequena propriedade rural é que ela seja trabalhada pela família. Pretende o legislador proteger aquelas pessoas que retiram seu sustento da pequena propriedade rural por meio do trabalho familiar.
+Compulsando os autos, não se verifica a comprovação desse requisito.
+A citação dos agravantes no local e o cadastro de João Ortolan como produtor rural não são suficientes para comprovar a efetiva atividade no imóvel.
+Os agravantes não trouxeram qualquer documento apto a comprovar que a propriedade rural é trabalhada pela família, que dela tira seu sustento: não há fotos, notas fiscais, registros, sequer evidências de como a propriedade é utilizada.
+O que se busca com o presente recurso é o reconhecimento de que a pequena propriedade rural é, por presunção, trabalhada pela família e por isso, impenhorável, com amparo no julgamento do Recurso Extraordinário com Agravo nº 1.038.507 pelo Supremo Tribunal Federal, com repercussão geral reconhecida sob o Tema 961 , cuja tese ficou assentada nos seguintes termos:
+ ..
+Veja-se que o cerne da decisão do Egrégio Supremo Tribunal Federal não versa sobre a prova quanto à utilização da propriedade da família, tampouco firmou-se o entendimento de que se trata de fato presumido.
+Os próprios recorrentes assim reconhecem em seu recurso: ""Não há dúvidas de que o Acórdão proferido pelo STF, objeto do tema de repercussão geral n. 961, apesar de não tratar diretamente da necessidade de comprovação da exploração familiar, abraçou conceitos que afastam tal exigência quando acolhe os princípios do patrimônio jurídico mínimo, função social da propriedade, dignidade humana e proteção da família" (fls. 13, destaquei).
+De outro giro, a necessidade de se comprovar a exploração da propriedade pela família de forma alguma mitiga a proteção à função social da propriedade e à dignidade humana. Como já mencionado, o legislador protege aquelas pessoas que retiram seu sustento da pequena propriedade rural por meio do trabalho familiar, cuja prova não foi afastada pelo referido julgado.
+Desse modo, o precedente invocado pelos agravantes não se amolda ao presente caso, porquanto pacificou o entendimento tão somente quanto à configuração da pequena propriedade rural quando composta por mais de um imóvel.
+Por todo o exposto, inexistindo provas quanto à exploração familiar do imóvel em questão, afasta-se a alegação de impenhorabilidade, mantendo-se a decisão tal como lançada.
+Com efeito, a Segunda Seção do STJ, que dirimiu a divergência entre as turmas que a compõe, decidiu que "a ausência de comprovação, pela parte executada, de que o imóvel penhorado é explorado pela família afasta a incidência da proteção da impenhorabilidade" (REsp n. 1.913.234/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 8/2/2023, DJe de 7/3/2023.).
+A propósito, confira-se a ementa do referido julgado:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. PEQUENA PROPRIEDADE RURAL. ALEGAÇÃO DE IMPENHORABILIDADE. ÔNUS DA PROVA DO EXECUTADO DE QUE O BEM CONSTRITO É TRABALHADO PELA FAMÍLIA. AUSÊNCIA DE COMPROVAÇÃO. JULGAMENTO: CPC/2015.
+1. Recurso especial interposto em 23/09/2019 e atribuído ao gabinete em 28/10/2020.
+2. O propósito recursal consiste em definir sobre qual das partes recai o ônus da prova de que a pequena propriedade rural é trabalhada pela família e se a proteção da impenhorabilidade subsiste mesmo que o imóvel tenha sido dado em garantia hipotecária.
+3. Para reconhecer a impenhorabilidade, nos termos do art. 833, VIII, do CPC/2015, é imperiosa a satisfação de dois requisitos, a saber: (i) que o imóvel se qualifique como pequena propriedade rural, nos termos da lei, e (iii) que seja explorado pela família.
+Até o momento, não há uma lei definindo o que seja pequena propriedade rural para fins de impenhorabilidade. Diante da lacuna legislativa, a jurisprudência tem tomado emprestado o conceito estabelecido na Lei 8.629/1993, a qual regulamenta as normas constitucionais relativas à reforma agrária. Em seu artigo 4ª, II, alínea "a", atualizado pela Lei 13.465/2017, consta que se enquadra como pequena propriedade rural o imóvel rural "de área até quatro módulos fiscais, respeitada a fração mínima de parcelamento".
+4. Na vigência do CPC/73, a Terceira Turma já se orientava no sentido de que, para o reconhecimento da impenhorabilidade, o devedor tinha o ônus de comprovar que além de pequena, a propriedade destinava-se à exploração familiar (REsp 492.934/PR; REsp 177.641/RS). Ademais, como regra geral, a parte que alega tem o ônus de demonstrar a veracidade desse fato (art. 373 do CPC/2015) e, sob a ótica da aptidão para produzir essa prova, ao menos abstratamente, é certo que é mais fácil para o devedor demonstrar a veracidade do fato alegado. Demais disso, art. 833, VIII, do CPC/2015 é expresso ao condicionar o reconhecimento da impenhorabilidade da pequena propriedade rural à sua exploração familiar. Isentar o devedor de comprovar a efetiva satisfação desse requisito legal e transferir a prova negativa ao credor importaria em desconsiderar o propósito que orientou a criação dessa norma, o qual, repise-se, consiste em assegurar os meios para a manutenção da subsistência do executado e de sua família.
+5. O oferecimento do bem em garantia não afasta a proteção da impenhorabilidade, haja vista que se trata de norma de ordem pública, inafastável pela vontade das partes. Precedentes.
+6. A ausência de comprovação, pela parte executada, de que o imóvel penhorado é explorado pela família afasta a incidência da proteção da impenhorabilidade.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico e a demonstração da similitude fática entre o acórdão recorrido e os acórdãos paradigmas.
+8. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 1.913.234/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 8/2/2023, DJe de 7/3/2023.)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo.
+Ante o exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. PEQUENA PROPRIEDADE RURAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O BEM É TRABALHADO PELA FAMÍLIA. PENHORA. POSSIBILIDADE. PRECEDENTE DA SEGUNDA SEÇÃO . RECURSO ESPECIAL IMPROVIDO.
