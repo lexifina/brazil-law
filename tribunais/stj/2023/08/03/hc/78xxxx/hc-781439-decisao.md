@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de LUIS FERNANDO FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0001411-79.2022.8.26.0496).
+Infere-se dos autos que o paciente cumpre pena total de 17 (dezessete) anos, 02 (dois) meses e 05 (cinco) dias de reclusão, em regime fechado, com TCP previsto para18/11/2033, pela prática de furtos qualificados, receptação e tráfico de drogas.
+Pleiteado o indulto, com base no Decreto n. 9.246/2017, foi o pleito indeferido pelo Juízo de primeiro grau, motivando a interposição de agravo em execução, ao qual o Tribunal negou provimento, nos termos da seguinte ementa (e-STJ fl. 14):
+AGRAVO EM EXECUÇÃO. Indulto. Pleito com base no Decreto nº 9.246/2017. Indeferimento pelo magistrado de piso. Defesa almeja reforma. Impossibilidade. Agravante foi condenado por crime equiparado a hediondo, sendo vedada a concessão de indulto, com base neste Decreto. Quanto aos crimes patrimoniais, o agravante não preenche as condições legais. Agravante reincidente. Pena total superior a 08 (oito) anos de reclusão. Decisão mantida. Recurso improvido.
+No presente writ, sustenta a defesa que "o paciente foi condenado pela prática de crimes contra o patrimônio, cometidos sem emprego de violência ou grave ameaça e não possui condições de reparar o dano, fato esse que foi objetivamente apontado pelos Magistrados ao proferirem suas sentenças condenatórias, quando fixaram o valor da multa no mínimo legal em razão das precárias condições financeiras do paciente. Além disso, em uma das Ações Penais que respondeu a res furtiva foi recuperada" (e-STJ fl. 6).
+Afirma que em 17/12/2017 "o paciente havia cumprido 1/4 (um quarto) de suas condenações, dessa forma, satisfazendo o requisito objetivo para a concessão do indulto aqui pleiteado, nos termos do Artigo 1º, VI do Decreto nº 9.246/17" (e-STJ fl. 8).
+Pontua que "também se faz necessário comentar rapidamente sobre o trecho da decisão do MM. Juiz de primeiro grau em que o Magistrado cita o fato da pena privativa de liberdade do paciente ser superior a oito anos como fato impeditivo para a concessão do Indulto. Conforme acima exposto, a pena do paciente na data base do indulto era inferior a oito anos e mesmo que fosse superior também não encontraria óbice algum, pois o impedimento ocorreria somente para os crimes cometidos com violência ou grave ameaça, o que não é o caso do paciente" (e-STJ fl. 8).
+Aduz que "o paciente possui direito adquirido à concessão do Indulto aqui debatido, mesmo que posteriormente pudesse ter deixado de preencher os requisitos por conta de novas condenações" (e-STJ fl. 9).
+Busca, inclusive liminarmente, "seja concedido ao paciente o INDULTO NATALINO, referente as condenações expostas acima, nos termos do Decreto nº 9.246/17" (e-STJ fl. 11).
+Indeferida a liminar (e-STJ fls. 52/54) e prestadas as informações (e-STJ fls. 58/65, 73/76 e 86/148), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 151):
+MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL, COMO CUSTOS IURIS, NO HABEAS CORPUS. DIREITO PROCESSUAL PENAL. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSENTES OS PRESSUPOSTOS QUE AUTORIZAM A CONCESSÃO DA ORDEM DE OFÍCIO. ARTIGO 34, INCISO XX, DO RISTJ. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS. PROVIDÊNCIA VEDADA NA ESPÉCIE.
+1. "O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n.º 736.573-SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.).
+2. A apreciação de pedidos que demandam o reexame aprofundado de elementos fático-probatórios é providência vedada em habeas corpus, em face da cognição estreita do mandamus. Precedentes do Supremo Tribunal Federal e desse Superior Tribunal de Justiça.
+3. Manifestação do Ministério Público Federal pelo não conhecimento do presente habeas corpus substitutivo de recurso próprio.
+É o relatório.
+Decido
+O indulto é constitucionalmente ato privativo do Presidente da República, podendo ele trazer no ato discricionário as condições que entender cabíveis para a concessão do benefício, não se estendendo ao judiciário nenhuma ingerência no âmbito de alcance da norma.
+No caso, colho do acórdão recorrido (e-STJ fls. 15/18):
+Conforme se infere dos autos, LUÍS FERNANDO cumpre reprimenda corporal total de 17 (dezessete) anos, 02 (dois) meses e 05 (cinco) dias de reclusão, em regime fechado, com TCP previsto para18/11/2033, pela prática de furtos qualificados, receptação e tráfico de drogas (fls. 17/23).
+Entendendo preencher os requisitos necessários, formulou, em primeiro grau, pedido de concessão de indulto das penas.
+Todavia, seu pedido foi indeferido, sob a seguinte fundamentação:
+"O sentenciado não preenche os requisitos objetivos exigidos pelo Decreto nº 9.246/2017.
+Com efeito, de acordo com o cálculo de pena (fls.326/331),o sentenciado, reincidente, não cumpriu 1/4 da pena, relativamente aos crime contra o patrimônio, até 25/12/2017, conforme exige o artigo 1º, inciso VI, do Decreto9.246/2017.
+Ademais, a pena privativa de liberdade imposta ao condenado é superior a 8 (oito)anos, de modo que a pretensão encontra óbice nas regras insertas no art. 1º, inciso III, combinado com o art. 12, caput, ambos do Decreto nº 9.246/2017.
+De registrar-se, por fim, que o condenado cumpre pena pelo delito do artigo 33, caput, da Lei nº 11.343/06, o que encontra impedimento no artigo 3º, inciso II, do referido decreto."
+Daí a insurgência, mas sem razão.
+A priori, impende destacar que o Agravante foi condenado por crime equiparado a hediondo, tráfico de drogas, o que lhe impossibilita o alcance da benesse almejada, nos termos do artigo 1º, incisos I e IV da Lei 8.072/1990.
+Como se sabe, a Constituição Federal, em seu artigo 5º, inciso XLIII, veda a concessão do benefício em questão para os delitos desta espécie.
+Assim, o indulto nesses casos é vedado pela própria Carta Magna de nosso país, sendo medida impossível de ser alcançada.
+ ..
+De outro lado, ainda que sejam consideradas as condenações pelos delitos patrimoniais, melhor sorte não socorre a Defesa.
+Como bem destacado pela D. Procuradoria Geral de Justiça em seu parecer, independentemente da alegada incapacidade econômica do sentenciado, observa-se que LUÍS FERNANDO é reincidente e, não havia resgatado 1/4 (um quatro) da pena até a data de 25/12/2017,conforme exige o artigo 1º, inciso VI, do Decreto nº 9.246/2017, conforme cálculo de liquidação das penas.
+Não bastasse, a pena privativa de liberdade total do sentenciado é superior aos 08 (oito) anos, de forma que a concessão da benesse está impossibilitada, nos termos do artigo 1º, inciso III, c/c com o artigo 12, caput, ambos do Decreto nº 9.246/2017.
+Diante deste cenário, resta impossível a concessão do benefício pleiteado ao agravante.
+O Decreto n. 9246/2017 prescreve, em seu art. 3º, II, que o indulto natalino não será concedido às pessoas condenadas pela prática do delito tipificado nos arts. 33, caput e § 1º, 34, 36 e 37 da Lei n. 11.343/2006, exceto quando se tratar de tráfico privilegiado, o que não é o caso.
+Na hipótese, o paciente cumpre pena total de 17 (dezessete) anos, 02 (dois) meses e 05 (cinco) dias de reclusão, em regime fechado, pela prática de furtos qualificados, receptação, além de tráfico de drogas, para o qual é expressamente vedada a concessão d o indulto.
+Mas não é só. O paciente, que é reincidente, não havia resgatado 1/4 (um quatro) da pena até a data de 25/12/2017, conforme exige o art. 1º, inciso VI, do Decreto n. 9.246/2017. Ademais, foi condenado à reprimenda total de 17 anos, 02 meses e 05 dias de reclusão, com término de cumprimento previsto para 18/11/2033, quantum que inviabiliza a concessão do indulto, nos termos dos arts. 1º, VI e 12 do ato presidencial, assim transcritos:
+Art. 1º O indulto natalino coletivo será concedido às pessoas nacionais e estrangeiras que, até 25 de dezembro de 2017, tenham cumprido:
+ ..
+VI - um sexto da pena, se não reincidentes, ou um quarto, se reincidentes, nos casos de crime contra o patrimônio, cometido sem grave ameaça ou violência a pessoa, desde que haja reparação do dano até 25 de dezembro de 2017, exceto se houver inocorrência de dano ou incapacidade econômica de repará-lo;
+Art. 12. As penas correspondentes a infrações diversas serão unificadas ou somadas para efeito da declaração do indulto natalino ou da comutação, na forma do art. 111 da Lei n. 7.210, de 1984.
+Parágrafo único. Na hipótese de haver concurso com infração descrita no art. 3º, não será concedido o indulto natalino ou comutada a pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+A propósito, confira o seguinte precedente:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 9.246/2017. CONCURSO DE CRIMES. INFRAÇÕES DIVERSAS. UNIFICAÇÃO DAS PENAS. ART. 12 DO DECRETO N. 9.246/2017. CONDENAÇÃO SUPERIOR A 8 ANOS DE RECLUSÃO. NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. ART. 1º DO MENCIONADO DECRETO PRESIDENCIAL. EXPRESSA VEDAÇÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não é cabível a concessão de indulto quando o somatório das penas cominadas ao condenado é superior a 8 anos, conforme o art. 12 do Decreto n. 9.246/2017. Logo, em que pese tenha o reeducando cumprido 1/4 da pena em relação ao delito de tráfico de drogas e 1/3 do previsto no Estatuto do desarmamento, uma vez unificadas as penas dos crimes, nos termos do art. 12 do mencionado decreto, não foi cumprido o requisito objetivo, porquanto ultrapassado o quantum exigido no art. 1º do Decreto n. 9.246/2017, já que o total das penas a ele impostas supera o limite de 8 anos.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.908.729/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Finalmente, vale lembrar que " é  vedada a concessão de indulto ou de comutação aos condenados por crimes hediondos ou outros a eles equiparados, entre os quais se insere o tráfico de drogas sem a incidência do art. 33, § 4º, da Lei n. 11.343/2006. Regra do art. 2º, I, da Lei n. 8.072/1990 e do art. 5º, XLIII, da CF" (AgRg no HC n. 434.071/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/10/2018, DJe de 8/11/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. INTELIGÊNCIA DOS ARTS. 159 DO REGIMENTO INTERNO DESTA CORTE E ARTS. 937 C.C 1021, AMBOS DO CÓDIGO DE PROCESSO CIVIL. COMUTAÇÃO DE PENAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. VEDAÇÃO LEGAL (ART. 44 DA LEI N. 11.343/2006). TRÁFICO NA FORMA NÃO PRIVILEGIADA. VEDAÇÃO LEGAL E CONSTITUCIONAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+2. Estabelece o art. 44 da Lei n. 11.343/2006 que os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+3. Embora a vedação à concessão da comutação ao crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) não conste no Decreto Presidencial n. 9.246/2017, está expressamente delineada no art. 44, caput, da Lei n. 11.343/2006.
+4. Precedentes desta Corte Superior de Justiça no sentido da impossibilidade de concessão de indulto/comutação de penas no que tange ao crime de associação para o tráfico de drogas.
+5. Por fim, é vedada a concessão de indulto ou de comutação aos condenados por crimes hediondos ou outros a eles equiparados, entre os quais se insere o tráfico de drogas sem a incidência do art. 33, § 4º, da Lei n. 11.343/2006. Regra do art. 2º, I, da Lei n. 8.072/1990 e do art. 5º, XLIII, da CF.
+6. Agravo regimental não provido.
+(AgRg no HC n. 670.378/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+Não vislumbro, assim, a existência de constrangimento ilegal a ser sanado via habeas corpus.
+Ante o exposto, denego o habeas corpus .
+Publique-se. Intimem-se.
