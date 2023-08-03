@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não a dmitiu o recurso especial por intempestividade, em razão da parte não ter, no ato de interposição, demonstrado a ocorrência da paralisação ou interrupção do expediente forense em virtude de feriado local.
+Em suas razões, a agravante alega que o dia de Corpus Christi é ponto facultativo nacional, o que afastaria a necessidade de sua comprovação e evidenciaria a tempestividade do recurso.
+O acórdão recorrido foi publicado em 27/05/2022, tendo o prazo recursal começado a fluir em 30/05/2022, exaurindo-se em 17/06/2022.
+Assim delimitada a controvérsia, passo a decidir.
+Sobre o tema - necessidade de comprovação de feriado local -, a Corte Especial deste Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.813.684/SP, de relatoria para acórdão do Ministro Luis Filipe Salomão, consolidou o entendimento de que, na vigência do Código de Processo Civil de 2015, é necessária a comprovação, nos autos, de feriado local, por meio de documento idôneo no ato de interposição do recurso.
+O entendimento também é aplicável nas hipóteses de suspensão dos prazos processuais em decorrência de recesso forense e pontos facultativos locais, dentre outros motivos, a fim de demonstrar a tempestividade recursal.
+Ressalta-se que esta Corte Superior adota o entendimento de que o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. Os dias 2 de novembro (Dia de Finados) e 15 de novembro (Proclamação da República) são feriados nacionais e dispensam a comprovação no momento da interposição do recurso. Precedentes.
+3. A segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+4. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+5. Agravo interno desprovido" (AgInt no AREsp n. 2.286.006/SP, relator Ministro João Otávio de Noronha, QUARTA TURMA, DJe de 15/6/2023.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE AUTORA.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+2. A jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal. Precedentes.
+2.1. No caso, a agravante não apresentou qualquer documento quando da interposição do recurso especial, não havendo justificativa para o afastamento da intempestividade recursal.
+3. Para interposição de recurso especial via protocolo postal, deve ser considerado o teor da resolução do tribunal de origem, vigente à época da interposição, a fim de perquirir se essa normativa permitia ou não a utilização do sistema para petições de recurso especial, sendo indispensável que a parte efetue essa comprovação.
+Precedentes.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.264.984/MG, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 11/5/2023.)
+Assim, verificada a interposição do recurso especial apenas em 21/06/2022, após o transcurso do prazo de 15 dias úteis previsto no Código de Processo Civil, irretocável a decisão ora agravada.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
