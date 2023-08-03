@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NILSON GABRIEL VICTORINO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Na hipótese, foi concedida a ordem, por ocasião do julgamento do HC n. 702406/SC, para determinar ao Tribunal de origem que apreciasse o mérito da impetração originária, na qual se buscou o trancamento de inquérito policial deflagrado para apurar a suposta prática do crime de roubo majorado cometido pelo paciente.
+Posteriormente, o Tribunal de Justiça do Estado de Santa Catarina, em cumprimento à decisão proferida no HC n. 702.406/SC, denegou a ordem em acórdão, cuja ementa foi assim definida (e-STJ fl. 315):
+HABEAS CORPUS. CONCRETIZAÇÃO DE ORDEM PROFERIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA QUANDO DO JULGAMENTO DE HABEAS CORPUS . CORTE SUPERIOR QUE DETERMINOU A ANÁLISE DO REMÉDIO HERÓICO. PACIENTE PRESO EM FLAGRANTE PELA PRÁTICA, EM TESE, DO DELITO CONSTANTE NO ARTIGO 14 DA LEI 10.826/03 E INVESTIGADO, TAMBÉM, PELO CRIME DESCRITO NO ARTIGO 157, § 2º, INCISO II E § 2º-A, INCISO I, DO CÓDIGO PENAL. DECISÃO, NA ORIGEM, QUE NÃO ACOLHEU O PLEITO DE ARQUIVAMENTO FORMULADO PELO MINISTÉRIO PÚBLICO E REMETEU OS AUTOS À PROCURADORIA-GERAL DE JUSTIÇA, NOS MOLDES DO ARTIGO 28 DO CÓDIGO DE PROCESSO PENAL. PLEITO DE TRANCAMENTO DO INQUÉRITO POLICIAL. MEDIDA EXCEPCIONAL ADOTADA SOMENTE QUANDO AFERÍVEL, DE PLANO, AS TESES SUSCITADAS. FATOS QUE TEORICAMENTE CONSTITUEM ILÍCITOS PENAIS E PRESENÇA DE ELEMENTOS SUFICIENTES A MOTIVAR A INVESTIGAÇÃO POLICIAL. ANÁLISE PROBATÓRIA, ADEMAIS, PREMATURA PARA O MOMENTO. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.
+A concessão de ordem de habeas corpus com o fim de trancar a ação penal ou o inquérito policial é medida de extrema excepcionalidade, de modo que "  ..  só admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito " (STJ - RHC n. 30872/SP, Quinta Turma. Rel. Min. Jorge Mussi, j. em 26/06/2012).
+Assim, tratando-se de fatos teoricamente constitutivos de delitos e inexistindo provas evidentes da não participação do paciente nos fatos noticiados, inviável obstar o curso do procedimento investigatório.
+Neste writ, a defesa reitera o pedido de trancamento do inquérito policial, sustentando que o acusado estaria sendo investigado há "1 ano e 7 meses e 21 dias sem que haja qualquer desfecho em relação a situação investigativa processual do processo de piso" (e-STJ fl. 8).
+Aduz que a ilegalidade seria evidente, "uma vez que a parte Autora da Ação, que neste caso é o Ministério Público, solicitou o arquivamento do procedimento investigatório, mas isso foi negado" (e-STJ fl. 9).
+Requer, assim, a concessão da ordem para trancar o inquérito policial.
+É o relatório.
+Decido.
+Em consulta ao sítio do Tribunal de origem, constata-se que foi determinado o arquivamento do Inquérito Policial n. 5043911-19.2020.8.24.0038 em 16/3/2023.
+Dessa maneira, o presente habeas corpus encontra-se prejudicado.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
