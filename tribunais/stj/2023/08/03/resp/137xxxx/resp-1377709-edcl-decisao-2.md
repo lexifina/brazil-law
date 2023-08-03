@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Adilson Aparecido Massagrande contra a decisão que deu parcial provimento ao recurso especial interposto por Comercial Zaragoza Importação e Exportação Ltda. (fls. 479/483), para, em ação de nunciação de obra nova, fixar, como limite global da multa diária que lhe foi aplicada, o valor do imóvel do autor (ora embargante).
+Alega o embargante, em síntese, que a empresa embargada estaria tentando estabelecer que seu imóvel valeria R$ 320.000,00, mas que este valor está defasado, uma vez que se refere à avaliação feita em 2011. Informa que, em junho de 2016, o seu imóvel já estava avaliado em R$ 725.000,00 (setecentos e vinte e cinco mil reais).
+Assevera que ficou confuso quanto ao parâmetro a ser utilizado como limite global da multa.
+Pede, assim, que este Tribunal esclareça se o valor mencionado na decisão se refere ao valor do seu imóvel ou ao imóvel da ré, e, ainda, se o limite global da multa diária será correspondente ao valor atualizado do imóvel à época em que será realizado o efetivo pagamento ou se será correspondente ao valor da sua avaliação em 2011.
+Contrarrazões às fls. 504/508.
+Assim posta a questão, passo a decidir.
+Da análise dos autos, verifico que merecem ser acolhidos, em parte, os embargos de declaração opostos por Adilson Aparecido Massagrande.
+Observo que, ao analisar a questão do valor das astreintes a serem pagas pela empresa embargada, o Tribunal de Justiça do Estado de São Paulo esclareceu que a data de 05/10/2011 seria o termo final para a sua aplicação, limitando o valor global do pagamento ao montante de R$ 1.000.000,00 (um milhão de reais).
+Ao dar provimento ao recurso especial da embargada, reformei, em parte, o acórdão do TJSP, estabelecendo como limite global da multa diária o valor do imóvel do autor, ora recorrido.
+Diante do que decidido, não há dúvidas de que o valor do imóvel a ser considerado é o do autor, ora embargante, e não o da ré, ora embargada, não havendo que se falar em obscuridade na decisão recorrida no tocante a esse ponto.
+Apesar disso, como não indiquei, de fato, qual seria valor exato do imóvel, e, como isto, certamente, pode gerar novo conflito na fase de execução, entendo que, neste ponto, merecem ser acolhidos os embargos opostos.
+Desse modo, tendo em vista que o termo final das astreintes foi fixado pelo TJSP em 05/10/2011, entendo que o valor do imóvel do autor a ser considerado é aquele referente à avaliação feita nesse ano (2011), a qual apurou que a sua casa valeria R$ 320.000,00 (trezentos e vinte mil reais) na ocasião (fl. 105).
+Em face do exposto, acolho, em parte, os presentes embargos para, sanando a omissão apontada, esclarecer que o limite global da multa diária neste caso deve ser equivalente ao valor do imóvel do autor, ora embargante, no ano de 2011, conforme avaliação realizada à fl. 105, que fixou o montante em R$ 320.000,00 (trezentos e vinte mil reais), o qual deve ser devidamente atualizado até a data do efetivo pagamento, descontados os valores por ele já sacados.
+Intimem-se.
