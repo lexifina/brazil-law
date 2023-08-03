@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO ZANCO BUENO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECURSO  Apelação  Embargos à execução  Insurgência contra a r. sentença que julgou improcedentes os embargos  Inadmissibilidade  Concessão dos benefícios da gratuidade da justiça em favor do apelante. exclusivamente para o processamento deste recurso  Inteligência do artigo 98, § 5o, do CPC  Inexistência de violação ao princípio da dialeticidade  Incontroversa existência de relação jurídica entre as partes  Contrato de Cessão de Créditos que não se confunde com mútuo  Hipótese em que o apelante reconhece a existência do débito e se insurge apenas quanto a exigibilidade dos títulos executados  Execução que está lastreada em duplicatas regularmente assinadas pelo apelante, cujos créditos foram recebidos e não foram repassados  Configurada existência de títulos líquidos, certos e exigíveis  Ausência de assinatura de duas testemunhas nos aditivos do contrato de cessão, que não retira a exigibilidade dos débitos  Litigância de má-fé não caracterizada  Preliminar arguida nas contrarrazões rejeitada  Recurso improvido, com observação" (fl. 484, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 514/518, e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 784 do Código de Processo Civil e 2º, § 1º, VIII, e 15 da Lei nº 5.474/1968.
+Sustenta que as duplicatas não são título executivo porque não têm aceite, não foram protestadas e não estão acompanhadas com comprovante de entrega de mercadoria. Também o termo de cessão não tem força executiva, pois não possui a assinatura de duas testemunhas.
+Além disso, afirma que o aceite em duplicatas somente é configurado com a assinatura do comprador e não do recorrente que assinou tal documento como avalista.
+Após as contrarrazões (fls. 539/549, e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o Tribunal de origem afastou a alegada nulidade da execução, com base nos seguintes fundamentos:
+"(..)
+No caso vertente é incontroversa a existência de relação jurídica entre as partes, consubstanciada no "Contrato que regula as cessões de crédito para fundo de investimento em direitos creditórios, com coobrigação" em fls. 75/87 e aditivos (fls. 92/148), em que a empresa PACKSEVEN, assumiu a obrigação de ceder créditos para o Fundo de Investimento apelado, assumindo a responsabilidade pelos adimplementos, tendo o apelante firmado a avença na qualidade de responsável solidário. Não obstante, está comprovada a efetiva emissão de duplicatas em nome da empresa cedente (fls. 149/376), todas regularmente assinadas pelo apelante, restando incontroverso o recebimento dos créditos cedidos que não foram repassados para o Fundo de Investimento apelado.
+Assim, conforme aduz o nobre magistrado de primeiro grau, é evidente a certeza, liquidez e exigibilidade dos títulos executados, que justamente por derivarem de regular contrato de cessão, não dependem da apresentação dos comprovantes de prestação dos serviços cedidos, eis que todas as duplicatas, foram regularmente assinadas pelo próprio apelante.
+Ademais, o apelante admite nas razões recursais que não se opõe a existência da obrigação, questionando apenas a exigibilidade dos títulos apresentados, o que implica na confissão acerca do inadimplemento dos débitos.
+Dessa forma, considerando que houve evidente pactuação de contrato de cessão de créditos, que não se confunde com mútuo e que a execução está lastreada nas duplicatas colacionadas em fls. 149/376, cujos créditos foram incontroversamente recebidos e não repassados, não é possível reconhecer a apontada nulidade da execução ante a simples ausência de assinatura de duas testemunhas nos aditivos colacionados em fls. 92/148, sendo inaplicável o teor do artigo 784, inciso III, do CPC.
+Portanto, incontroversa a existência de relação jurídica entre as partes, bem como o inadimplemento dos valores estampados nas duplicatas em fls. 149/376, é evidente a certeza, liquidez e exigibilidade dos títulos executados, sendo de rigor a rejeição dos embargos opostos.
+(..)" (fls. 490/491, e-STJ).
+Além disso, consignou que "os títulos executados estão consubstanciados nas duplicatas em fls. 149/376, e que justamente por terem sido emitidas em nome da empresa cedente e regularmente assinadas pelo próprio embargante, se configura a existência de aceite, preenchendo os requisitos do artigo 15 da Lei nº 5.474/68" (fl. 516/517, e-STJ).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, de que as duplicatas são títulos certos, líquidos e exigíveis, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CONTRATO ESTIMATÓRIO. TÍTULO DE CRÉDITO. DUPLICATA. VALIDADE. CUMPRIMENTO DA OBRIGAÇÃO. COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a regularidade das duplicatas e notas fiscais de venda emitidas, bem como a falta de comprovação do cumprimento da obrigação pela recorrente.
+2. A modificação do entendimento lançado no acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. (..)
+4. Agravo interno improvido" (AgInt no AREsp n. 1.978.589/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+Por fim, quanto à divergência jurisprudencial, constata-se a deficiência na fundamentação recursal porque o recorrente não aponta os julgados divergentes, o que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da quais, os quais majoro para 20% (vinte por cento) nos termos do artigo 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
