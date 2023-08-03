@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado:
+HABEAS CORPUS - PRISÃO PREVENTIVA - ROUBO QUALIFICADO (ART. 157, § 2º, INCISO II, DO CP) - PRESSUPOSTOS E FUNDAMENTOS AUTORIZADORES DA PRISÃO PREVENTIVA (ART. 312 DO CPP) - PRESENÇA DE INDÍCIOS DA MATERIALIDADE E DA AUTORIA - SUBSISTÊNCIA DA NECESSIDADE DA MEDIDA EXTREMA PARA A GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - PELA DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME.
+Consta dos autos que os recorrentes foram presos preventivamente como incursos no art.157, § 2º, II, do CP.
+No presente recurso, sustenta a defesa que a decisão que decretou a prisão preventiva carece de fundamentação idônea, estando ausentes os pressupostos autorizadores da segregação cautelar.
+Menciona ser cabível a fixação de cautelares menos gravosas.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva, com ou sem a imposição de medidas cautelares substitutivas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame "in limine" pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Segundo consta do julgado, a decisão que decretou a prisão preventiva foi proferida com base nos seguintes fundamentos (fl. 81):
+(..)
+Diante da narrativa fática, em que pese o esforço legislativo no sentido de conferir alternativas à perda provisória da liberdade, no caso em apreço nenhuma das medidas acima destacadas será eficaz a coibir novas ações por parte do representado.
+Ademais, os flagranteados são reincidentes, necessitando a segregação cautelar.
+Ora, a ordem pública está seriamente ameaçada, uma vez que o delito imputado aos representados (crime de roubo) é cada vez mais frequente em nosso Estado, e é fato gerador de outros diversos crimes, a exemplo de roubos, furtos e homicídios, sendo um delito grave.
+ ..
+Ante todo o exposto, inexistindo vícios formais que maculam a referida peça coercitiva, HOMOLOGO A PRISÃO EM FLAGRANTE, ao tempo em que, com base na nova disciplina introduzida pela Lei nº 12.403, de 04/05/2011, DECRETO a prisão preventiva de BRUNO DOS SANTOS e VITOR DOS SANTOS MESSIAS".
+Como se vê, a decisão de prisão apresenta fundamentação concreta, evidenciada na prática de roubo majorado, bem como em razão da reiteração delitiva, de modo que não se verifica ilegalidade a ser sanada na via recursal.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, diante da acentuada periculosidade dos acusados, evidenciada na conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Nos termos da jurisprudência desta Corte, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC 100.793/RR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe. 23/10/2018). No mesmo sentido: RHC 106.136/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
