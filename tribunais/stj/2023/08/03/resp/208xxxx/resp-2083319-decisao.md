@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALVARO AUGUSTO METZKER PIFANO, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 42):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PENHORA. PREVIDENCIA COMPLEMENTAR. PREVI. IMPENHORABILIDADE.
+1. Na presente hipótese a controvérsia consiste em examinar a possibilidade de penhora de quantia depositada em fundo de aposentadoria complementar, que é gerido pela PREVI - Caixa de Previdência dos Funcionários do Branco do Brasil.
+2. De acordo com o art. 833, inc. IV, do CPC, não é possível a penhora de valores depositados em fundo de previdência privada complementar, em razão de sua natureza alimentar.
+2.1. Por isso, deve ser mantida a decisão agravada, tendo em vista que os valores questionados encontram-se protegidos pela impenhorabilidade, nos termos do art. 833, inc. IV, do CPC e do entendimento prevalente no âmbito da jurisprudência deste Egrégio Tribunal de Justiça.
+3. Agravo conhecido e desprovido.
+Em suas razões de recurso especial (e-STJ, fls. 58-79), o recorrente alega divergência jurisprudencial com relação à interpretação do art. 833, § 2º, Código de Processo Civil de 2015, sustentando, em síntese, a possibilidade de penhora de valores depositados em fundo de previdência complementar.
+Foram apresentadas contrarrazões (e-STJ, fls. 95-103).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 106-107).
+Brevemente relatado, decido.
+A jurisprudência do Superior Tribunal de Justiça firmou posicionamento no sentido de que a aferição da impenhorabilidade dos valores depositados em fundo de previdência privada deve ser feita pelo juiz, de maneira que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC/1973 (correspondente ao art. 833, IV, do CPC/2015).
+Nesse sentido, o seguinte precedente da Segunda Seção:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. IMPENHORABILIDADE. INDISPONIBILIDADE DE BENS DETERMINADA À LUZ DO ART. 36 DA LEI 6.024/74. MEDIDA DESPROPORCIONAL.
+1. O regime de previdência privada complementar é, nos termos do art. 1º da LC 109/2001, "baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal", que, por sua vez, está inserido na seção que dispõe sobre a Previdência Social.
+2. Embora não se negue que o PGBL permite o "resgate da totalidade das contribuições vertidas ao plano pelo participante" (art. 14, III, da LC 109/2001), essa faculdade concedida ao participante de fundo de previdência privada complementar não tem o condão de afastar, de forma inexorável, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente.
+3. Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC.
+4. Ante as peculiaridades da espécie (curto período em que o embargante esteve à frente da instituição financeira e sua ínfima participação no respectivo capital social), não se mostra razoável impor ao embargante tão grave medida, de ter decretada a indisponibilidade de todos os seus bens, inclusive do saldo existente em fundo de previdência privada complementar - PGBL.
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.121.719/SP, Relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 4/42014.)
+Confiram-se, ainda, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. PENHORABILIDADE. AUSÊNCIA DE CARÁTER ALIMENTAR. POSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+2. O Tribunal de origem, com fundamento nos fatos e nas provas dos autos, concluiu que o agravante não demonstrou o caráter alimentar dos valores recolhidos para a previdência complementar. Alterar o entendimento do acórdão recorrido, quanto à legitimidade da parte e à existência do ato ilícito, demandaria reexame do conjunto fático-probatório dos autos, vedado em recurso especial pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.357.826/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20.9.2021, DJe de 23.9.2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PENHORA. FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. PRECEDENTE. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida m que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Nos termos do entendimento firmado no âmbito da Segunda Seção do STJ, "a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC" (EREsp 1.121.719/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/02/2014, DJe de 04/04/2014).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1275604/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/12/2019, DJe 19/12/2019.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORABILIDADE DOS VALORES APLICADOS EM PREVIDÊNCIA PRIVADA COMPLEMENTAR. ANÁLISE CASUÍSTICA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A "impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC" (EREsp 1.121.719/SP, Rel. Ministra Nancy Andrighi, DJe 4/4/2014).
+2. Hipótese em que o Tribunal de origem concluiu que "o executado não necessita dos valores constritos para sua subsistência e de sua família, na medida em que dispôs de R$117.000,00 para o plano de previdência privada, além de emprestar R$45.000,00 à terceira pessoa, possuir imóvel na praia (fl. 306v do apenso), contratar advogado privado (fl. 12) e não requerer benefício de AJG".
+3. A reforma do julgado, portanto, depende de incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1205924/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/03/2018, DJe 22/11/2018.)
+Em observância ao entendimento assentado no julgamento dos EREsp n. 1.121.718/SP, mencionado acima, observa-se que a jurisprudência do STJ se firmou no sentido da impenhorabilidade do saldo em fundos de previdência privada quando as verbas possuírem caráter alimentar.
+Assim, faz-se necessário o retorno dos autos ao Tribunal de origem, que deverá avaliar se, no caso concreto, as provas dos autos revelam a necessidade de utilização do saldo para a subsistência do recorrido e de sua família, ou, diferentemente, se esse valor, ou parte dele, poderá ser destinado à satisfação do crédito vindicado pelo recorrente.
+Diante do exposto, nos termos da fundamentação expendida, dou provimento ao recurso especial para determinar ao Tribunal estadual que promova novo julgamento do agravo, agora à luz da orientação jurisprudencial desta Corte Superior.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA. PREVIDÊNCIA COMPLEMENTAR. PREVI. NECESSIDADE DE AVALIAÇÃO DO CARÁTER ALIMENTAR DA VERBA, À LUZ DA PROVA DOS AUTOS, PELAS INSTÂNCIAS DE ORIGEM. PRECEDENTE DA SEGUNDA SEÇÃO DO STJ. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL PARA NOVO JULGAMENTO DO AGRAVO. RECURSO ESPECIAL PROVIDO.
