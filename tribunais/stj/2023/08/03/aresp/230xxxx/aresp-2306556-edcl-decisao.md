@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de segundos aclaratórios opostos por CURY CONSTRUTORA E INCORPORADORA S. A. à decisão desta relatoria, assim ementada (e-STJ, fls. 1.177):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO CONTRATUAL DECORRENTE DE ATRASO NA ENTREGA DA OBRA. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL.2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.3. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. 4. ILEGITIMIDADE DA CEF. CONTRATOS AUTÔNOMOS. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF.5. CULPA EXCLUSIVA DA CONSTRUTORA. DEVOLUÇÃO INTEGRAL DAS PARCELAS PAGAS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULAS 7 E 83/STJ.6. VIOLAÇÃO A ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ.7. DANOS MORAIS. INEXISTÊNCIA DE CIRCUNSTÂNCIAS ESPECÍFICAS QUE ENSEJAM LESÃO EXTRAPATRIMONIAL. AFASTAMENTO DA CONDENAÇÃO.8. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, 1.258-1.260).
+Alega a embargante (e-STJ, fls. 1.263-1.278) a impossibilidade de se saber se foi rescindido o contrato de promessa de compra e venda ou o de compra e venda.
+Requer seja acolhido os aclaratórios.
+Impugnação apresentada às fls. 1.281-1.285 (e-STJ).
+A Construtora apresentou réplica (e-STJ, fls. 1.287-1.291).
+Brevemente relatado, decido.
+De início, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Na hipótese dos autos, o Tribunal de origem, ao manter a sentença que julgou procedente o pedido formulado pela ora embargada para rescindir o contrato firmado entre as partes (Cury Construtora e Incorporadora S.A. e Luana Soles Félix Araújo), sob os seguintes fundamentos (e-STJ, fl. 907, sem grifo no original):
+A primeira Apelante suscita, ainda, a impossibilidade jurídica da rescisão contratual, uma vez que a propriedade do imóvel objeto da demanda já foi transferida para a CEF, o que não merece prosperar. Embora haja uma correlação direta entre o contrato de promessa de compra e venda e o de mútuo, tratam-se de relações jurídicas distintas. Não há argumento razoável que aprisione o consumidor a uma relação jurídica com uma construtora inadimplente, em razão da existência de outra relação contratual que lhe é conexa, mas que com ela não se confunde.
+A rescisão do contrato havido entre as partes não se condiciona à existência do contrato de mútuo e, portanto, bem decidiu o magistrado não apenas ao determinar a rescisão contratual, mas igualmente em condenar a Ré a restituir à Autora os valores dispendidos e as multas decorrentes do inadimplemento.
+Assim, a decisão não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido intuito modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EMBARGOS REJEITADOS.
