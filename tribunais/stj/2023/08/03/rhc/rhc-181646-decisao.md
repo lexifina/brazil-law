@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WILLIAM JOSE DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente foi preso em flagrante e teve a prisão convertida em preventiva pela suposta prática do crime previsto no art. 33, caput, da lei 11.343/2006 - apreensão de 186,05g de maconha. O juíz a quo fundamentou a prisão preventiva - "examinando as CAC"s dos autuados, verificam-se ostentar conduta voltada para a prática criminosa" - fl. 59. Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão preventiva, conheceu em parte do writ e na parte conhecia, e denegou a ordem, em acórdão de fls. 142-166.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado: a) falta de fundamentação da decisão que decretou a segregação cautelar; b) ausência dos requisitos ensejadores da prisão preventiva.
+Salienta que ostenta condições pessoais favoráveis e pondera a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 198-199.
+O Ministério Público Federal, às fls. 204-206, manifestou-se em parecer que restou assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DESPROVIMENTO.
+1. Conforme a jurisprudência do STJ, o risco de reiteração delitiva, ante o histórico criminoso do agente, constitui fundamentação idônea para a imposição da prisão preventiva.
+2. Eventuais condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem à paciente a revogação da prisão preventiva, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+3. Parecer pelo desprovimento do recurso ordinário." - fl. 204.
+É o relatório.
+Decido.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da contumácia delitiva do ora Recorrente, porquanto, consoante se depreende dos autos, a conduta, em tela, não é fato isolado na sua vida, restando consignado na decisão hostilizada que: "examinando as CAC"s dos autuados, verificam-se ostentar conduta voltada para a prática criminosa" - fl. 59.
+Tais circunstâncias indicam a periculosidade concreta do agente, além da probabilidade de repetição de condutas tidas por delituosas e revelam a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+No ponto, impende destacar que, c onforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
