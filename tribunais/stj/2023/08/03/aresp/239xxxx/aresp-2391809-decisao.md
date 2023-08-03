@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Município de Campo Grande, contra decisão da Corte de origem que não admitiu o recurso especial pelo teor da Súmula 83 do STJ. O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 310):
+EMENTA - APELAÇÃO CÍVEL DO MUNICÍPIO - SERVIDOR PÚBLICO - APOSENTADORIA POR INVALIDEZ - PROVENTOS PROPORCIONAIS - MOLÉSTIA PROFISSIONAL - LAUDO PERICIAL - COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE A DOENÇA E A ATIVIDADE PROFISSIONAL - CONCESSÃO DE PROVENTOS INTEGRAIS - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Comprovado por laudo pericial que a moléstia que ocasionou a incapacidade é de natureza profissional e que, nesta hipótese, os proventos seriam integrais, impõe-se o reconhecimento do direito do servidor à aposentadoria por invalidez com proventos integrais, nos termos do art. 40, §1º, I da Constituição Federal e art. 27 da Lei Complementar Municipal nº 191 de 2011, vigentes ao tempo da concessão da aposentadoria.
+Recurso conhecido e não provido.
+Embargos de Declaração rejeitados.
+Nas razões do recurso especial, o recorrente alega violação ao artigo 1.022, incisos I e II, e 1.037, inciso II, do CPC, "pois não se pronunciou adequadamente sobre a tese recursal contida nos embargos declaratórios, qual seja, a de que a conversão da aposentadoria por incapacidade com proventos proporcionais para integrais baseou-se em laudo pericial que não concluiu taxativamente pelo nexo da causalidade entre as funções laborais da Recorrida e a sua doença" (fl. 351).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que tange à alegada violação do art. 1.022, I e II, do CPC, sob o argumento de omissão do decisum recorrido não se pronunciou sobre "a conversão da aposentadoria por incapacidade com proventos proporcionais para integrais baseou-se em laudo pericial que não concluiu taxativamente pelo nexo da causalidade entre as funções laborais da Recorrida e a sua doença" (fl. 351), ao contrário do alegado, a instância de origem examinou as circunstâncias do caso concreto, de forma que não houve qualquer omissão, contradição ou obscuridade no acórdão embargado, senão vejamos (fls. 336-337):
+ ..
+Analisando o acórdão embargado e as razões recursais, concluo que não há contradição, contrariamente ao apontado pelo embargante.
+Isto porquanto o acórdão, ao reconhecer o nexo de causalidade entre a doença e a atividade laboral desempenhada pelo segurado/embargado, ancorou-se no laudo médico pericial que expressamente consignou nas conclusões que "4) A etiologia do transtorno mental relaciona-se ao trabalho como concausa" (f. 240/244).
+Assim, havendo prova pericial atestando que a doença é ocupacional e, tendo o acórdão decidido nesse sentido, aplicando a lei regente ao caso, não há qualquer contradição.
+Evidente, portanto, a pretensão de rediscutir a questão decidida por meio de recurso inadequado.
+Dessa forma, afasta-se a alegada violação do art. 1.022, incisos I e II, do CPC, uma vez que o acórdão recorrido manifestou-se de maneira fundamentada a respeito da questão suscitada, apenas não adotando as razões do recorrente, o que não configura violação dos dispositivos invocados. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS ESTADUAIS. ADICIONAL POR TEMPO DE SERVIÇO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA, TOMADO SOB A ÉGIDE DO CPC/1973. IMPOSSIBILIDADE. DIVERGÊNCIA ENTRE DECISÃO DE ÓRGÃO FRACIONÁRIO E DECISÃO DE ÓRGÃO ESPECIAL EM ASSUNÇÃO DE COMPETÊNCIA ACERCA DE DIREITO LOCAL. INCIDÊNCIA DAS SÚMULAS 13 DO STJ E 280 DO STF. PRECEDENTES DO STJ.
+ ..
+2. Inexiste violação do art. 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.961.463/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Além disso, observa-se que a controvérsia dos autos foi solucionada com fundamento no art. 40, § 1º, inciso I, da Constituição Federal, e art. 27 da Lei Complementar Municipal n. 191 de 2011.
+No entanto, "o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme. Assim, não é, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, segundo dispõe o art. 102, III, da Carta Magna" (AgInt no AREsp n. 1.739.782/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1/7/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte. Precedentes.
+II - Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp n. 1.087.259/RJ, relator Ministro Napoleão Nunes Maia Filho, relatora para acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2020, DJe de 16/11/2020.)
+Ademais, o Tribunal local apreciou o tema à luz da legislação municipal, de modo que afasta a competência desta Corte para o deslinde do desiderato contido no Recurso Especial, pelo que incide, na espécie, a Súmula 280 do STF. Nesse sentido: REsp 1.776.439/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25/04/2019.
+Por último, o agravante aponta violação ao art. 1.037, inciso II, do CPC, sob alegação genérica, ao não demonstrar com transparência e precisão, de que forma o mencionado dispositivo legal teria sido violado, bem como indicar a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte. A propósito: AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/6/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no artigo 932, III, do CPC/2015, combinado com os artigos 34, XVIII, a, e 255, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO SERVIDOR PÚBLICO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PROVENTOS PROPORCIONAIS. MOLÉSTIA PROFISSIONAL. LAUDO PERICIAL. COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE A DOENÇA E A ATIVIDADE PROFISSIONAL. CONCESSÃO DE PROVENTOS INTEGRAIS. ACÓRDÃO FUNDAMENTADO NA CONSTITUIÇÃO FEDERAL E EM LEI LOCAL. COMPETÊNCIA DO STF E INCIDÊNCIA DA SÚMULA 280 DOS STF. VIOLAÇÃO DO ART. 1.037 DO CPC. ALEGÇÃO GENÉRICA. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPCIAL.
