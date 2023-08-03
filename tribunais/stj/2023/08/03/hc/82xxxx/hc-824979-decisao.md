@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de IAGO PATRICIO DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça do Estado da Paraíba (Medida Cautelar n. 0810790-16.2023.8.15.0000).
+Foi o paciente denunciado pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, incisos II e IV, do Código Penal).
+Em 4/11/2020, a autoridade policial representou pela sua prisão preventiva.
+O pedido foi deferido pelo Magistrado singular.
+Entretanto, a decisão não chegou a ser cumprida, tendo em vista a evasão do réu do distrito da culpa, vindo ele a ser capturado, tão somente, em 7/3/2023, por ocasião do seu comparecimento espontâneo à audiência de instrução e julgamento. Na oportunidade, a defesa requereu a revogação da prisão preventiva, pedido esse acolhido pelo magistrado, com a fixação de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+Contra essa decisão insurgiu-se o Ministério Público.
+Buscando a concessão de efeito suspensivo ao recurso em sentido estrito, apresentou o órgão acusatório medida cautelar inominada.
+O Desembargador relator deferiu em parte o pedido para atribuir efeito suspensivo ao recurso em sentido estrito, sustando os efeitos da decisão que revogou a prisão preventiva e impôs ao paciente medidas cautelares alternativas.
+No Superior Tribunal de Justiça, sustenta a defesa não existirem nos autos provas de que ele "represente um perigo iminente para a sociedade ou para a ordem pública, e, como bem sabemos, a Constituição Federal exige motivação por parte do Juiz para que o cidadão fique preso antes do trânsito em julgado de sua condenação, não bastando, assim, invocar-se formalmente, no decreto prisional, dispositivos ensejadores da prisão preventiva ou prisão temporária, e dessa maneira, a decisão tomada pela Magistrada não merece nenhum reparo, pois é necessário sempre a demonstração "in concreto" do porquê o indiciado ou acusado deva permanecer confinado antes da condenação" (e-STJ fl. 8).
+Pondera que "a prolação da decisão que confirmou a liminar de decretação da prisão preventiva do paciente ocorreu sem ao menos a defesa ter sido intimada para se manifestar a respeito do julgamento da cautelar inominada" (e-STJ fl. 9).
+Diante dessas considerações, pede (e-STJ fls. 15/16):
+a) Seja concedida a ordem de habeas corpus preventivo (se encontra prestes a ser preso) em favor de Iago Patrício dos Santos, em caráter liminar, independentemente de informações a serem prestadas pela autoridade coatora, fazendo cessar a coação ilegal em sua liberdade de ir e vir que o ora paciente está na iminência de sofrer, expedindo- se o competente contramandado de prisão em seu favor;
+b) a nulidade da decisão (ID 21543869) dos autos do segundo grau número 0810790-16.2023.8.15.0000, que decretou a prisão preventiva do paciente, em razão do cerceamento de defesa, tendo em vista a ausência de intimação da defesa para se manifestar a respeito do julgamento da cautelar inominada.
+c) Consequentemente, a expedição do competente salvo conduto, na forma prevista em lei.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação do writ.
+É o relatório.
+Decido.
+Com relação à ausência de periculum libertatis do paciente, tem-se que a competência do Superior Tribunal de Justiça não foi inaugurada, uma vez que se insurge a defesa contra decisão monocrática e, conforme informações prestadas pelo Tribunal de origem "em 31/05/2023, foi distribuído neste Tribunal o Recurso em Sentido Estrito de nº 0813497-54.2023.8.15.0000, oposto nos autos da ação penal nº 0802951-77.2020.8.15.0441, estando o referido recurso com vistas à Procuradoria de Justiça para emitir parecer, desde 06/06/2023", de modo que a apreciação do mérito, quanto à necessidade de manutenção da prisão pre ventiva por esta Corte Superior, configuraria indevida supressão de instância.
+No que diz respeito à alegada nulidade da decisão por cerceamento de defesa, como bem destacado pelo representante ministerial, "a jurisprudência da Sexta Turma desta Corte Superior tem considerado cabível a decretação de prisão preventiva por meio de medida cautelar inominada, apresentada como objetivo de atribuir efeito suspensivo a recurso em sentido estrito". Ademais, tal como ocorreu na espécie, "apesar de não ter havido citação e intimação quanto ao deferimento da liminar na medida cautelar para decretar a prisão, nos termos do art. 572, II, do CPP, a ciência ocorreu por outros meios, tendo a defesa, voluntariamente, se manifestado nos autos"(HC n. 491.443/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19/3/2019, DJede 8/5/2019).
+Ante o exposto, denego a ordem, acolhido o parecer ministerial.
+Publique-se. Intimem-se.
