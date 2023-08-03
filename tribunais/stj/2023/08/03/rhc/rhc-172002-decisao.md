@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por MARIA JOSÉ ALVES CAETAN O contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Habeas Corpus n. 0631236-10.2022.8.06.0000).
+Depreende-se dos autos que a recorrente foi presa preventivamente e pronunciada pela suposta prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual conheceu parcialmente a ordem e a denegou, conforme acórdão assim ementado (e-STJ fls. 66/67):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. VIA INADEQUADA. NÃO CONHECIMENTO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO CAUTELAR. CONDIÇÕES FAVORÁVEIS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. REITERAÇÃO DE ARGUMENTOS DE HC ANTERIOR, JÁ DENEGADO. TESES NÃO CONHECIDAS. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. DECISÃO DE PRONÚNCIA. ALEGATIVA DE EXCESSO DE PRAZO SUPERADA. SÚMULA Nº 21 DO STJ. PRAZOS PROCESSUAIS CONTADOS DE FORMA GLOBAL. TRÂMITE REGULAR DO PROCESSO. FEITO COMPLEXO. PLURALIDADE DE RÉUS (04). SÚMULA Nº 15 DO TJCE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM PARCIALMENTE CONHECIDA E, NA EXTENSÃO, DENEGADA.
+1. Buscam os impetrantes com o presente writ, a concessão da ordem de habeas cor pus, para que seja revogada a prisão preventiva da paciente, alegando a ausência de fundamentação idônea do decreto prisional e a negativa de autoria. Pugna ainda pelo relaxamento da constrição cautelar ante o excesso de prazo na formação da culpa, sustentando a presença de condições favoráveis e a possibilidade de aplicação de medidas cautelares diversas da prisão.
+2. O habeas corpus não se mostra como meio adequado para discutir tese de inocência, pois pressupõe análise aprofundada de mérito e necessária incursão probatória, o que somente é possível no curso da ação penal principal ou por meio do recurso apropriado.
+3. Não se conhece do presente mandamus quanto às teses de ausência de fundamentação idônea do decreto prisional, presença de condições favoráveis e aplicação de medidas cautelares diversas da prisão, por configurar reiteração de pedido já formulado em favor do paciente, no HC nº 0636815-07.2020.8.06.0000, julgado por esta 3" Câmara Criminal, em 01/12/2020, ocasião em que foi denegada a ordem.
+4. Na hipótese, verificando-se que autoridade apontada coatora está buscando conferir a necessária celeridade ao feito, o qual vem se desenvolvendo em ritmo compatível com as particularidades e complexidade da demanda, que envolve pluralidade de réus (04), expedição de carta precatória para intimação de testemunhas, análise de diversos incidentes processuais, e que, eventual demora na ultimação dos atos processuais, não decorreu de desídia por parte do Poder Judiciário, ou de forma injustificada e desarrazoada, não há que se falar, nesse momento, em constrangimento ilegal por excesso de prazo. Súmula n. 15 do TJCE.
+5. Ademais, conforme entendimento pacificado pelo Superior Tribunal de Justiça no verbete sumular nº 21, não há que se falar em excesso de prazo para a formação da culpa quando pronunciado o réu.
+6. Ordem parcialmente conhecida e, na extensão conhecida, denegada, com recomendação ao Juízo de origem.
+Daí o presente recurso, no qual a defesa alega excesso de prazo para a formação da culpa, bem como não haver fundamentação idônea para a prisão preventiva.
+Busca, assim, a expedição de alvará de soltura em favor da recorrente.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 110/111).
+É o relatório.
+Decido.
+Pois bem. Informações enviadas pelo Juízo de primeiro grau (e-STJ fls. 120/121) noticiam que a recorrente, em 15/6/2023, foi absolvida pelo Tribunal do Júri do crime que lhe foi imputado.
+Com isso, fica esvaziado o objeto deste recurso.
+Ante o exposto, com base no art. 34, inciso XI do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
