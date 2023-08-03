@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISTIANE OLIVEIRA VALENTE (CRISTIANE), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal de Justiça de Sergipe (TJSE), assim ementado:
+Administrativo. Apelação ante sentença que julgou procedente o pedido contido nos embargos de terceiro, para desconstituir a indisponibilidade lançada nos autos da execução de título extrajudicial 0800634-25.2019.4.05.8502 sobre o veículo Peugeot/2008.Por fim, a sentença condenou a autora ao pagamento das custas e honorários advocatícios no importe de 10% (dez por cento) sobre o valor da causa que deverá ser repartido entre os advogados dos embargados que atuaram na causa. Princípio da Causalidade. Razoabilidade do percentual fixado para os honorários advocatícios. Apelação improvida.
+1. Na origem, a apelante interpôs Embargos de Terceiro em face da Caixa Econômica Federal  CEF  visando desconstituir a restrição judicial lançada nos autos da execução de título extrajudicial 0800634-25.2019.4.05.8502 sobre o veículo Peugeot/2008 Allure EAT 6, álcool/gasolina, ano de fabricação 2018, modelo 2019, cor branca, placa QME 4193/SE, chassi 936CMNFNVKB029108. A recorrente alegou que o veículo foi adquirido em 04 de fevereiro de 2020, antes da restrição de indisponibilidade do bem.
+2. A sentença julgou procedente o pedido, porquanto o registro da indisponibilidade do veículo foi realizado em 14 de fevereiro de 2020 (id. 4058502.3571328, 13/03/20). Posterior, portanto, à alienação/transferência do bem, realizada segundo as provas dos autos (Autorização para Transferência de Propriedade de Veículo  ATPV  e Laudo de Vistoria para o Serviço de Transferência de Propriedade  id. 4058502.3571315/13/03/20  em 04 de fevereiro de 2020. Deste modo, correta sentença, haja vista não se tratar de Fraude à Execução, nos termos do incs. I a III do art. 792 do Código de Processo Civil, haja vista a prova documental , comprovando que a alienação foi anterior ao registro da indisponibilidade questionada.
+3. Relativamente ao pedido para afastar a condenação em honorários advocatícios, uma das razões da interposição do recurso, entende-se que devam ser mantidos. A apelante celebrou contrato de compra e venda, contudo a Caixa Econômica Federal não teve relação jurídica com esta negociação. Tratou-se de contrato entre a apelante e o executado tão-somente, ao passo que não fora dada a devida publicidade.
+Neste cenário, aplica-se a Súmula 303 do Superior Tribunal de Justiça: Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios.
+4. Desse modo, mesmo que a apelante tenha cumprido com todas as cláusulas do contrato de compra e venda firmado, o veículo continuou em nome do executado no sistema do Detran/SE durante o processo de execução, permitindo a sua restrição. Competiria a recorrente regularizar o registro de propriedade do veículo.
+5. Quanto ao pedido para reduzir o valor estipulado dos honorários advocatícios, fixados em 10% ( dez por cento) sobre R$ 40.000,00 (quarenta mil reais), valor este atribuído a causa, também não prospera referida irresignação. Considera-se que o percentual de 10 % (dez por cento ) é compatível com os ditames do art. 85 §§ 2º e 3º do Código de Processo Civil e o valor é razoável, haja vista não ser irrisório e tampouco excessivo.
+6. Condena-se o vencido em honorários advocatícios recursais, no percentual de um por cento sobre a condenação imposta em primeiro grau, a teor do § 11, do art. 85, do Código de Processo Civil.
+7. Apelação improvida. (e-STJ, fl. 183)
+Os embargos de declaração opostos por CRISTIANE foram rejeitados (e-STJ, fls. 246/251).
+Nas razões do presente recurso, CRISTIANE alega violação dos arts. 85, § 2º, 489, § 1º, IV e VI, 1.022, II, e 1.025 do CPC, bem como dissídio jurisprudencial, arguindo que (1) houve omissão em relação à resistência da ora recorrida que mesmo ciente da incontroversa documentação de titularidade do veículo, impugnou os embargos de terceiro com o intuito de dar seguimento a constrição do bem (e-STJ, fl. 270) (2) na hipótese em que parte embargada toma ciência da transmissão do bem e, ainda assim, apresenta impugnação para manter a penhora cabe a ela suportar com os encargos da sucumbência.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+(1) omissão
+Da atenta leitura do decidido verifica-se que, embora tenha sido posta em debate a questão relativa à resistência da ora recorrida que mesmo ciente da incontroversa documentação de titularidade do veículo, impugnou os embargos de terceiro com o intuito de dar seguimento a constrição do bem (e-STJ, fl. 270), o Tribunal de origem não sanou o referido ponto.
+Ressalte-se que é condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Nessas condições, prejudicada a análise dos demais pontos, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJSE para que analise a referida omissão, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. EMBARGOS DE TERCEIRO. OMISSÃO. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
