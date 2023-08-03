@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por SUPERMERCADO CASA AURORA LTDA - EM RECUPERAÇÃO JUDICIAL envolvendo, como suscitados, o r. Juízo de Direito da 1ª Vara Cível de Sinop/MT, onde se processa a recuperação judicial da suscitante (Processo n.º 1002346-20.2016.8.11.0015), e o r. Juízo da Vara do Trabalho de Peixoto de Azevedo/MT, onde tramita a Reclamação Trabalhista n.º 0000349-11.2017.5.23.0141, movida por FERNANDO CIPRIANO DOS SANTOS.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados da Segunda Seção deste STJ.
+Diante disso, requer a concessão de tutela de urgência objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando- se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Prestadas as informações (fls. 485/486 e 488/493), o MPF ofertou parecer no sentido do não conhecimento do incidente. (fls. 495/500)
+É o relatório.
+Decisão.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+A situação em análise, todavia, não se amolda às hipóteses previstas no referido dispositivo porquanto o r. juízo da 1ª Vara Cível de Sinop/MT (Processo n.º 1002346-20.2016.8.11.0015) determinou o encerramento da recuperação judicial da ora suscitante e, em consulta ao site do e. TJ/MT, verifica-se que a decisão que encerrou o processo de soerguimento transitou em julgado em 17/02/2023, não havendo se falar, portanto, na presença dos requisitos para manejo do incidente em epígrafe.
+Nesse sentido, confira-se: AgRg no CC 142.082/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDASEÇÃO, julgado em 17/03/2020, DJe 19/03/2020.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ não conheço do presente conflito e, por conseguinte, revogo a liminar de fls. 478/480.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados.
