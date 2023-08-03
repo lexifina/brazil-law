@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por MANOEL DOS REIS PEREIRA ALVES contra decisão que inadmitiu o seu recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento da Apelação n. 0701723-40.2020.8.07.0002.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 1 anos, 10 meses e 20 dias de reclusão, em regime inicial semiaberto, e multa, pela prática do delito previsto no art. 155, § 1º, do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 259):
+APELAÇÃO CRIMINAL. FURTO DURANTE O REPOUSO NOTURNO. AUTORIA E MATERIALIDADE. SUFICIÊNCIA PROBATÓRIA. DOSIMETRIA. SEGUNDA FASE. FRAÇÃO DE 1/6 PELA AGRAVANTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Nos crimes patrimoniais, a palavra da vítima assume especial credibilidade, sobretudo quando seus depoimentos forem seguros e coerentes e vierem confirmados por outros elementos probatórios, como ocorre na hipótese posta para julgamento, não havendo que se falar em absolvição.
+2. O depoimento dos policiais reveste-se de especial valor probatório e suas palavras ostentam fé-pública, porquanto emanados de agentes públicos no exercício da função, merecendo credibilidade quando em consonância, de forma harmônica e coesa, com as provas coligidas aos autos.
+3. Na segunda fase da dosimetria da pena, o critério de incremento/decote deve ser o correspondente a 1/6 (um sexto) sobre a pena-base para cada circunstância agravante ou atenuante, conforme jurisprudência uníssona do c. STJ.
+4. Recurso conhecido e parcialmente provido.
+A defesa interpôs recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, alegando negativa de vigência ao art. 386, inciso V e VII, do Código de Processo Penal.
+Afirmou que, no caso, " a pós a instrução processual ficou demonstrado que não há prova de que o Recorrente concorreu para a prática do crime tipificado na acusação ou não há prova suficiente para condenar o Recorrente pela prática do crime previsto no artigo 155 caput do Código Penal, portanto, a absolvição do Recorrente se apresenta como medida de justiça com base no artigo 386, V e VII do Código de Processo Penal" (e-STJ fl. 293).
+Requereu, assim, a absolvição do recorrente.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual alega a defesa que a questão seria eminentemente jurídica (e-STJ fls. 320/334).
+Contraminuta apresentada (e-STJ fl. 338).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ fls. 352/353).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Ressalto que, no caso, o Tribunal de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de furto majorado, tipificado no art. 155, § 1º, do CP.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 263/264):
+Extrai-se dos autos que a prova oral produzida está em harmonia com o que foi produzido na fase inquisitorial, havendo a verossimilhança necessária para apontar o acusado como o autor do crime descrito na denúncia.
+Com efeito, em que pese sua negativa em Juízo, o certo é que a autoria do delito foi confirmada pelo depoimento do agente policial, pelas declarações da vítima e, ainda, pelas fotografias constantes dos autos (ID 32618818 - Pág. 18/19), contendo imagem do acusado vendendo ferramentas de irrigação numa chácara, conforme citado no depoimento do policial Luciano.
+Note-se que, apesar das fotografias serem objeto de outa apuração, outro inquérito - nos dizeres do policial, o modus operandi e os objetos subtraídos demonstram que o acusado é o autor do crime dos presentes autos, conforme fundamentado pela d. Juiz sentenciante.
+No que se refere à alegação agitada pela d. defesa, no sentido de que em delegacia não foi assegurado ao acusado o seu direito ao silêncio, ou de assistência familiar e de advogado, não houve comprovação no particular. Além disso, como é cediço eventual irregularidade deste ato é causa de nulidade relativa, dependendo da comprovação de efetivo prejuízo, conforme entendimento oriundo do c. STJ, in verbis:
+ ..
+Desse modo, nada obstante a negativa do acusado feita em sede judicial, os relatos prestados pela testemunha policial e pela vítima, demonstram com clareza a prática delitiva pelo acusado, sendo insustentável a tese defensiva pela sua absolvição.
+Impõe-se que seja aqui consignado que as declarações prestadas por policiais possuem a presunção de credibilidade e idoneidade ínsita aos atos administrativos em geral, principalmente quando se apresentam lógicas, coerentes e com um mínimo de respaldo em outros elementos de convicção.
+Da transcrição acima colacionada, observo que a matéria referente à suficiência ou insuficiência do acervo probatório a caracterizar a configuração do delito de furto, na espécie, foi devidamente analisada pela Corte local, com base nas peculiaridades do caso concreto.
+Ora, está assentado no Superior Tribunal de Justiça que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal de origem para absolver o agravante da imputação do crime de furto demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. INTELIGÊNCIA DO ART. 44, § 3º, DO CP. MEDIDA SOCIALMENTE RECOMENDÁVEL. DESCABIMENTO. SÚMULA 7/STJ. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A reforma do v. acórdão recorrido, para rever seus fundamentos e concluir pela absolvição do agravante, demanda inegável necessidade de reexame do acervo fático-probatório dos autos, soberanamente delineado perante as instâncias ordinárias, já que tal providência, como se sabe, é inviável pela via eleita, cujo escopo se limita ao debate de matérias de natureza eminentemente jurídica, nos termos do enunciado n. 7 da Súmula desta Corte, segundo o qual "a pretensão de simples reexame de prova não enseja recurso especial".
+III - Não se aplica o princípio da insignificância ao furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de pessoas dada a especial reprovabilidade da conduta.
+IV - No presente caso, ainda que não haja reincidência específica, o e. Tribunal de origem, soberano na análise do acervo fático-probatório presente nos autos, concluiu que a substituição da pena corporal não seria suficiente e adequada à repressão e prevenção do crime, premissa que não pode ser alterada na via eleita, ante o óbice do Súmula 7 deste Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.997.477/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ART. 155, § 4º, IV, DO CP. SENTENÇA ABSOLUTÓRIA REFORMADA PELA CORTE A QUO. SUFICIÊNCIA DA PROVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. REITERAÇÃO DELITIVA. MAIOR REPROVABILIDADE DA CONDUTA. PRECEDENTES.
+1. A desconstituição das premissas do acórdão impugnado, para fins de absolvição, demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via do recurso especial, a teor da Súmula 7/STJ.
+2. Descabida a pretensão de incidência excepcional do princípio da insignificância. Além de o crime de furto ter sido qualificado pelo concurso de agentes, circunstância objetiva que denota a maior reprovabilidade da conduta, o réu é reincidente, estando, ainda, ausente o requisito da inexpressividade da lesão ao bem jurídico, considerando que o valor estimado dos bens subtraídos (R$280,00 - duzentos e oitenta reais) não constitui montante inexpressivo, na medida em que correspondia a mais de 30% do salário mínimo vigente à época (R$724,00 - setecentos e vinte e quatro reais - 2014), valor muito superior ao montante adotado por esta Corte como parâmetro objetivo para aceitação do princípio da bagatela. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.954.207/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/10/2022, DJe de 14/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se
