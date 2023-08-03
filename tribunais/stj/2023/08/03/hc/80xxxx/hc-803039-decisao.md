@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEX FELIPE DUARTE ALVES, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o ora Paciente foi preso em flagrante e teve sua prisão convertida em preventiva e posteriormente denunciado pela prática, em tese, do delito previsto no art. 121, §2º, inciso III, c/c art. 14, inciso II, bem como art. 147, do Código Penal, na forma do art. 69, todos do Código Penal (fl. 93).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva para a garantia da ordem pública, em razão da gravidade em concreto do delito e da periculosidade do agente: "não se ignorando uso de combustíveis e fogo, com risco de explosão e incêndio, além de provocar intenso sofrimento à vítima"-fls 101, e denegou a ordem, em acórdão de fls. 91-105.
+Daí o presente writ, no qual sustenta a Defesa, em síntese, que o paciente estaria sofrendo constrangimento ilegal em razão da ausência de motivação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, e excesso de prazo na formação da culpa.
+Aduz que: "o paciente está 05 (cinco) meses preventivamente recolhido, não deu causa para o atraso dos atos processuais, não contribuiu para demora na formação de seu conjunto de culpa" (fl. 8).
+Assevera que: "o paciente tem problemas de saúde, conforme se depreende com as cópias juntadas, sendo que não há provas de que em liberdade se envolverá na prática de novos delitos" (fl. 9).
+Sustenta que as suas condições pessoais seriam favoráveis, sendo que não ostenta apontamentos criminais, possui residência fixa e trabalho lícito, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva do Paciente ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida à fl. 162-164.
+As informações foram prestadas às fls. 167-171, 189-193 e 200-209. O Ministério Público Federal, às fls. 175-177, manifestou-se em parecer que restou assim ementado:
+"Habeas corpus. Homicídio qualificado tentado e ameaça. Prisão preventiva. Garantia da ordem pública. Gravidade concreta da conduta revelada pelo modus operandi. Fundamentação idônea. Ausência de constrangimento ilegal. Parecer pelo não conhecimento ou denegação do writ" (fl. 175).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Conforme informações do juízo de origem, fls. 189-193 e 200-209, em 07/06/2023, foi proferida decisão de pronúncia em desfavor do paciente, a fim de que seja submetido a julgamento pelo Tribunal do Júri, como incurso nas sanções do artigo 121, §2º, inciso III (emprego de fogo e perigo comum), c.c. artigo 14, inciso II, do Código Penal, com incidência da Lei nº 8.072/1990 (Lei dos crimes hediondos), e no artigo 147 do Código Penal, na forma do artigo 69 (concurso material) do Código Penal. Foi negado ao paciente o direito de recorrer em liberdade e na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor.:
+"O réu está sendo processado por crime de intensa gravidade, sendo certo que após a pronúncia e remessa dos autos ao Tribunal do Júri, com maior razão deverá aguardar no cárcere seu julgamento, sob pena de se criar sensação de impunidade e total descrédito à justiça. De mais a mais, há indícios de periculosidade exacerbada e falta de freios morais, e continuam presentes os motivos que ensejaram a custódia cautelar, de modo que lhe nego o direito de recorrer em liberdade"- fl. 207.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito:
+"Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem" (HC 495.012/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe 25/06/2019).
+Nesse sentido, também:
+"A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. " (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+Ante o exposto não conheço do habeas corpus.
+P. e I.
