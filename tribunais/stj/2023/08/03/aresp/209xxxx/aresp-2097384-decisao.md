@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por AMPLA ENERGIA E SERVIÇOS S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Ação Rescisória. Ação de Reintegração de Posse c/c demolitória. Alegação de erro de fato e prova nova, bem como violação manifesta à norma jurídica, nos termos do artigo 966, VII e VII, do CPC. Pretensão de rescisão de sentença proferida pela 1ª Vara Cível da Comarca de Teresópolis, que julgou procedente, em parte, o pedido autoral, determinando a reintegração de posse da servidão administrativa, bem como autorizando a autora a proceder o desfazimento das construções irregularmente erguidas na área declarada de utilidade pública pelo Decreto Federal 58.119/1966 (muro e garagem do imóvel da ré). Decreto 58.119/1966 que foi expressamente revogado por Decreto Federal de 15/02/1991. A incorreta indicação do inciso não induz à extinção ou improcedência da ação rescisória. A procedência do pedido, mesmo que parcial, fere expressamente o disposto nos art. 2º da Lei de Introdução às Normas de Direito Brasileiro. Ação rescisória que merece acolhimento. Violação manifesta à norma jurídica, nos termos do artigo 966, V, do CPC. PROCEDÊNCIA DO PEDIDO" (fl. 117, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 140-145, e-STJ).
+No recurso especial (fls. 147-157, e-STJ), a recorrente aponta violação dos arts. 489, §1º, II e V, 502 e 966 do Código de Processo Civil e 20 da Lei de Introdução às Normas do Direito Brasileiro.
+Sustenta que o Tribunal de origem permaneceu silente quanto à sua alegação de que o acórdão não está de acordo com a realidade porque, segundo afirma, com base nos documentos apresentados, é possível comprovar de forma inequívoca a existência da faixa de servidão administrativa, uma vez que o imóvel em questão está localizado abaixo da linha de transmissão mencionada.
+Aponta a "necessidade de garantir a continuidade da prestação do serviço de forma segura, para que não ocorra acidentes, garantindo a devida prestação" (fl. 154, e-STJ), e que
+"por expressa previsão legal, está autorizada a adotar as medidas necessárias para garantir a continuidade do serviço prestado, ainda que seja necessária a remoção de residências que invadem a faixa de servidão administrativa de sua Linha de transmissão" (fl. 155, e-STJ).
+Sustenta que ação rescisória não é válida neste caso por dois motivos: primeiro, porque a informação em questão já estava disponível quando o réu foi citado na ação original, mas não foi devidamente analisada por negligência. Segundo, a linha em questão foi construída antes do Decreto mencionado e a invasão é claramente confirmada pelo laudo pericial.
+Sem contrarrazões (fl. 163, e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Verifica-se, inicialmente, que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Com efeito, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)" (AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Com efeito, ao solucionar a controvérsia, a Corte mineira dispôs o seguinte:
+"Sabe-se também que, a servidão não se presume. Por outro lado, não se aplica na presente hipótese, a orientação firmada no verbete nº 415 do colendo Supremo Tribunal Federal ("Servidão de trânsito não titulada, mas tornada permanente, sobretudo pela natureza das obras realizadas, considera-se aparente, conferindo direito à proteção possessória"), pois não há qualquer alegação anterior ou mesmo comprovação, de que a área edificada pelos autores é uma servidão de trânsito.
+Ao contrário, o laudo pericial produzido na ação primitiva traz um croqui da área mostra que o imóvel dos autores está construído entre duas Linhas de Transmissão (LT) da ré, havendo ainda, entre as duas LT"s, uma rua paralela e outra transversal.
+(..)
+Registre-se ainda que o laudo pericial apontou que as normas técnicas brasileiras (NBR5422) proíbem a construção de edificações embaixo da Linha de Transmissão (LT), mas não embaixo da faixa de servidão administrativa.
+(..)
+Infere-se ainda, que o referido laudo concluiu que o imóvel , o muro e a garagem da ré (ora autora) estão construídos dentro da faixa de servidão - constante do Decreto 58.119/1966, que já se encontrava expressamente revogado.
+(..)
+Não é demasiado dizer que o decreto, já revogado, previa que a faixa de domínio estava sujeita a desapropriação, instituto de que a ora ré não se valeu.
+Dessa forma, se tem por inviável o acolhimento da pretensão da ação primitiva, que será rescindida, julgando-se os pedidos improcedentes, nos termos dos artigos 966, V c/c 974 c/c 487, I do CPC.
+De fato, quando a interpretação não guarda coerência com o sistema e viola frontalmente a lei, a rescisão do julgado não só é pertinente, como necessária a fim de manter a higidez do sistema jurídico" (fls. 125-127, e-STJ).
+E, ao julgar os embargos de declaração opostos ao acórdão recorrido, o Tribunal de origem consignou que:
+"(..)
+Certo é que se o referido decreto foi revogado, não há que se falar em demolição de imóvel com base em suposta servidão administrativa.
+Ademais, se a parte não interpôs recurso de apelação nos autos originários é porque perdeu o prazo ou assim instruída por seu patrono, mas não importa o motivo, pois em nada obsta o ajuizamento da presente ação rescisória" (fls. 143, e-STJ).
+Conforme se verifica, a Corte de origem decidiu a controvérsia à luz do conjunto fático-probatório dos autos, concluindo pelo cabimento da ação rescisória na espécie. Nesse sentido, a modificação das conclusões adotadas no acórdão recorrido demandaria um novo exame desse arcabouço, providência vedada em recurso especial pela Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte Superior, a ação rescisória, manejada com fundamento na hipótese prevista no art. 966, inc. V, do CPC/15, exige que se demonstre a violação frontal e literal à lei federal, o que não ocorreu na hipótese dos autos. Incidência do óbice da Súmulas 7 e 83 do STJ.
+1.1. Ademais, "não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais" (Súmula 343/STF).
+3. Agravo interno desprovido" (AgInt no AREsp 2.228.086/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 15% (quinze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
