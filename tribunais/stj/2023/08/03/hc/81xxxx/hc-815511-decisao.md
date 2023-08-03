@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Weslei Inacio - atacando-se o acórdão proferido pelo Tribunal de Justiça do Paraná (HC n. 0019698-68.2023.8.16.0000 - fls. 47/48) que manteve a prisão preventiva do paciente, decretada em 10/8/2022, pela prática, em tese, do crime de homicídio qualificado tentado, nos Autos n. 0001402-14.2022.8.16.0006 (fls. 16/19), da 2ª Vara Sumariante do Tribunal do Júri da comarca de Curitiba/PR -, não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao acusado, ao argumento de deficiência de fundamentação do decreto, pois se infere que o Juízo singular constituiu seu entendimento, acerca da suposta periculosidade social do paciente, a partir de uma versão parcial dos fatos, que é corroborada tão somente pelo depoimento extrajudicial prestado pela vítima (fl. 12).
+Pedido liminar indeferido em 14/4/2023 (fls. 60/61). Em seu parecer, o Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 85/87).
+Da atenta análise dos autos observa-se que o decreto de prisional demonstrou de forma fundamentada o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e periculosidade do agente - o crime foi praticado no interior de terreno residencial, com vários moradores, de propriedade da vítima. Além disso, os indiciados atingiram a vítima com diversos golpes de faca. Em outros dizeres, empregou-se brutal violência, muito acima da necessária à consumação do delito, tudo feito na presença em potencial de várias pessoas. Em acréscimo, há indício de motivação fútil, decorrente de desentendimento anterior (fl. 18) - elementos suficientes para justificar a manutenção do acautelamento.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E PERICULOSIDADE. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA.
+Ordem denegada.
