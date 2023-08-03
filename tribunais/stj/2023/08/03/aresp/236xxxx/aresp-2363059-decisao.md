@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MAPFRE SEGUROS GERAIS S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO INDENIZATÓRIA REGRESSIVA. SEGURADORA QUE SE APRESENTA SUB-ROGADA, PELO PAGAMENTO, NOS DIREITOS DE 2 SEGURADOS DE DUAS CIDADES DO ESTADO.
+Nexo de causalidade não provado. Objetos danificados não examinados. Unidades consumidoras, localizadas em cidades diversas (Araraquara e Piracicaba) não vistoriadas. Causa da oscilação de tensão não elucidada por prova judiciária.
+Improcedência da pretensão de regresso. Sentença confirmada por seus fundamentos. - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega interpretação divergente do art. 3º do CPC, no que concerne à ausência de necessidade de prévia instauração de procedimento administrativo a fim de possibilitar o pedido de reparação de danos causados pela concessionária de energia elétrica, tendo em vista o princípio da inafastabilidade da jurisdição, trazendo a seguinte argumentação:
+Como demanda a praxe desta c. Corte, será realizado o cotejo analítico das decisões paradigmas aqui trazidas, em face do v. acórdão recorrido.
+No caso concreto, a autora não instaurou a prévia regulação administrativa, para propiciar à distribuidora que investigasse o nexo de causalidade, considerando inclusive os registros de ocorrência na sua rede, e para que fosse possível a purar os danos nos aparelhos pertencentes aos consumidores, antes de sua inutilização, por descarte.
+Como se vê no trecho acima transcrito, excerto do v. acórdão recorrido, resta evidenciado a interpretação equivocada do artigo 3º do CPC, já que atrela a comprovação do nexo de causalidade ao prévio procedimento administrativo de ressarcimento de danos, uma vez que isso fere a inafastabilidade da jurisdição:
+Art. 3º Não se excluirá da apreciação jurisdicional ameaça ou lesão a direito.
+As concessionárias de energia admitem a realização de procedimento administrativo para ressarcimento de danos, porém, a mera existência desta possibilidade não pode ser tratada como condição para ajuizamento de ação.
+Em que pese o argumento do acórdão não diga isso em todas as suas palavras é certo que este entendimento, na prática, cerceia o direito de ação da recorrente, violando fatalmente o artigo 3º do CPC.
+Destarte, o disposto no acórdão recorrido viola a inafastabilidade da jurisdição, pois condiciona a procedência da ação ao prévio pedido administrativo.
+Em hipótese alguma se pode admitir que a inexistência do procedimento administrativo sirva de motivo para a improcedência da ação. E em casos análogos, outros Tribunais aplicaram entendimento diverso do consignado no acórdão recorrido (fls. 922/923).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, verifica-se que a questão debatida no recurso especial, que serve de base para o dissídio jurisprudencial (aplicação do art. 3º do CPC e do princípio da inafastabilidade da jurisdição), não foi examinada pela Corte de origem.
+Dessa forma, reconhecida a ausência de prequestionamento da questão debatida inviável a demonstração do dissenso jurisprudencial em razão da inexistência de identidade jurídica e similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022)
+Sobre o tema, confira-se ainda: AgInt no REsp n. 2.002.592/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/10/2022; AgInt no REsp n. 1.956.329/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021; AgInt no AREsp n. 1.787.611/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
