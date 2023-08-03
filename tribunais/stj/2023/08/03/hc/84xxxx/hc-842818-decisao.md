@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LUCAS HENRIQUE DO NASCIMENTO, no qual se aponta constrangimento ilegal decorrente do julgamento do Agravo de Execução Penal n. 00071159120238260996 pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fl. 16):
+AGRAVO EM EXECUÇÃO Retificação do cálculo de penas - Aplicação de lei mais benéfica - Inadmissibilidade Sentenciado reincidente específico em crime hediondo Agravo improvido.
+Alega-se, em síntese, que o cálculo de liquidação de penas está incorreto, uma vez que, após as alterações promovidas pela Lei n. 13.964/2019 (Pacote Anticrime), o art. 112, VII, da Lei de Execução Penal, determina que o lapso de cumprimento de pena de 60% para a obtenção da progressão de regime deve ser aplicado apenas a sentenciados reincidentes específicos em crimes hediondos, situação na qual não se enquadraria o paciente, reincidente por um crime hediondo e o restante por crime comum (fl. 4). Argumenta-se que o percentual a ser exigido é de 40%, nos termos do disposto no inciso V do mencionado artigo.
+Requer-se a concessão imediata da ordem para que seja reconhecida a incidência do disposto na nova redação do art. 112, V, da LEP, determinando-se a aplicação da fração de 40% no cálculo de penas do paciente.
+É o relatório.
+No caso, não há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Com efeito, a Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (60%) deve ser aplicada aos condenados reincidentes em crimes hediondos ou equiparados.
+A interpretação extensiva para considerar reincidente específico na prática de crime hediondo ou equiparado aquele que cometeu apenas um crime hediondo é contra o espírito da lei, pois se puniria igualmente quem pratica dois ou mais crimes hediondos e o que pratica apenas um crime hediondo.
+Na espécie dos autos, contudo, o paciente não faz jus a benefício da nova lei, pois, após ter sido anteriormente condenado pela prática do tráfico de drogas, o sentenciado foi novamente condenado, dentro do prazo depurador da reincidência, à pena de 5 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, crime este equiparado a hediondo (fls. 171/174). Logo, o sentenciado foi condenado por 2 crimes hediondos ou equiparados, aptos a gerar a reincidência específica (fl. 18).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO NÃO ATENDIDO. LEI N. 13.964/2019 (PACOTE ANTICRIME). NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. INEXISTÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
