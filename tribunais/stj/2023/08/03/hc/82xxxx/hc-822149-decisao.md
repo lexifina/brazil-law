@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de MURIEL PACHECO DOS SANTOS JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento da apelação criminal n. 5011871-67.2022.8.24.0020.
+Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 121, § 2º, incisos II, VI e § 2º-A, I, c/c artigo 14, inciso II, ambos do Código Penal. (fls. 294-297).
+Inconformados, a defesa e o Ministério Público interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo e deu parcial provimento do recurso ministerial para aumentar a pena do paciente para 8 anos de reclusão, em regime inicial fechado, consoante voto condutor do v. acórdão de fls. 434-443.
+No presente writ, o impetrante aponta constrangimento ilegal na negativa de afastamento da análise desfavorável da vetorial circunstância crime, bem como escusa no afastamento de uma das qualificadoras - motivo fútil ou feminicídio, em razão da ocorrência de bis in idem.
+Requer, assim, a concessão da ordem para " ..  determinar o afastamento da circunstância judicial negativa das "circunstâncias do crime", pela ausência de fundamentação idônea e afastar uma das qualificadoras (motivo fútil ou feminicídio), pela violação ao ne bis in idem." (fls. 15).
+A liminar foi indeferida às fls. 450-451.
+Informações prestadas às fls. 465-491.
+O Ministério Público Federal, em parecer às fls. 457-461, manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração: o redimensionamento da reprimenda na primeira e terceira fases da dosimetria.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Ressalta-se, que a jurisprudência desta Corte Superior entende que "a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena" (AgRg no AREsp 637.724/MT, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/09/2018).
+Na presente hipótese, a Corte de origem analisando as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, manteve fixada a pena-base do paciente acima do mínimo legal, destacando para tanto, "o fato do crime ter sido praticado na presença de menores (1 (um) e 3 (três) anos de idade)  .. , pois demonstra frieza por parte do homicida, ou seja, total insensibilidade do agente durante a prática do crime" (fl. 438).
+Nesse sentido: AgRg no HC n. 603.561/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/3/2022 e AgRg no HC n. 678.226/PR, Sexta Turma, Rel. Min. Sebastião Reis, DJe de 13/10/2021.
+No tocante ao pedido de afastamento de uma das qualificadoras (motivo fútil e feminicídio), sob a alegação de ocorrência de bis in idem, verifico que melhor sorte não socorre ao paciente.
+Com efeito, "esta Corte possui o entendimento segundo o qual as qualificadoras do motivo torpe e do feminicídio não possuem a mesma natureza, sendo certo que a primeira tem caráter subjetivo, ao passo que a segunda é objetiva, não havendo, assim, qualquer óbice à sua imputação simultânea" (HC n. 430.222/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe 22/3/2018, grifei).
+In casu, como bem destacado pela Corte de origem "diferentemente do alegado pela defesa, a qualificadora do feminicídio possui natureza objetiva, na medida em que está relacionada à condição de gênero feminino, enquanto a qualificadora do motivo fútil é de natureza subjetiva, pois diz respeito à pessoa do agente" (fl. 439).
+Nesse sentido: AgRg no AgRg no AREsp n. 1.830.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2021; AgRg no AREsp n. 1.166.764/MS, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 17/6/2019 e AgRg no REsp n. 1.741.418/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/6/2018.
+Portanto, inexiste constrangimento legal a ser sanado no caso dos autos.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
