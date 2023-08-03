@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 650):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DE PENSIONISTA. REFLEXOS SOBRE A PENSÃO. ART. 112 DA LEI N.º 8.213/91. INCLUSÃO DE DIFERENÇAS DA APLICAÇÃO DE NOVOS TETOS DE PAGAMENTO NO CÁLCULO DA EXECUÇÃO.
+1. Os pensionistas do segurado e, na sua ausência, seus sucessores, têm legitimidade para postular em nome próprio as diferenças do benefício antes titulado pelo instituidor do benefício e por este não recebidas em vida.
+Inteligência do art. 112 da Lei de Benefícios.
+2. Devem ser incluídas no cálculo da execução da ação revisional promovida pelo instituidor as diferenças decorrentes dos reflexos desta revisão sobre a pensão por morte dela derivada.
+3. Em se tratando o Recurso Extraordinário 564.354 de decisão com repercussão geral, e não tendo sido a discussão sobre o tema travada e decidida nos autos do processo de conhecimento, deve o entendimento firmado pela Corte Suprema aplicar-se de imediato à execução, uma vez que se trata de precedente qualificado e, portanto, vinculante. Precedentes desta Corte.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: " ..  impossibilidade da revisão da renda mensal por regras estranhas ao título executivo judicial (questão não debatida no processo de conhecimento) e de inclusão, nas diferenças devidas, das parcelas relativas à pensionista sucessora" (fl. 689).
+Quanto à questão de fundo, sustenta ofensa aos artigos 293, 492, 509, §4º, 535, IV, 598 e 917, III, e §2º, II e III do CPC/2015, aduzindo argumentação quanto ao reconhecimento de que " ..  não cabe em sede de cumprimento de sentença reconhecer a possibilidade de aplicação de regra de cálculo do benefício completamente estranha ao tema debatido na ação de conhecimento, nem incluir as diferenças encontradas no benefício da sucessora, modificando (estendendo) o dispositivo sentencial para fins de ampliar a condenação do réu" (fl. 690).
+Pugna, então, pelo " ..  provimento do presente recurso para reformar o acórdão do TRF4, a fim de que seja reconhecido que a adequação da renda mensal do benefício aos tetos das EECC 20/1998 e 41/2003 e a inclusão, no cálculo das diferenças devidas, das parcelas relativas à pensão da sucessora, constituem excesso de execução, por se tratar de providências não previstas no título judicial" (fl. 691).
+Com contrarrazões (fls. 698-709).
+Juízo positivo de admissibilidade às fls. 712-713.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se ter a Corte de origem decidido que (fls. 657-659):
+ ..
+Indo além, a questão é saber se em uma ação voltada à revisão de aposentadoria é possível incluir, no cálculo do valor da condenação, parcelas pertinentes ao benefício de pensão decorrente da aposentadoria que recebia o instituidor.
+Não há dúvidas de que a revisão determinada no título judicial exequendo produz efeitos sobre a pensão. Sendo a pensão por morte decorrente de aposentadoria que recebia o instituidor, são benefícios vinculados, inclusive para efeito de valor da renda mensal, o primeiro correspondendo a um percentual do segundo, conforme a legislação da época da concessão. Ou seja, qualquer revisão do benefício originário, necessariamente, revisa a pensão dele decorrente.
+Quanto à inclusão destas diferenças de pensão nas parcelas vencidas, afigura-se de todo lógico. Trata-se atualmente do mesmo credor e de crédito com origem no mesmo fato gerador. Remeter-se a autora, já idosa (62 anos), para, em ação própria, buscar o direito que lhe decorreu d o decisum neste processo, não é lógico nem razoável. O processo é instrumento para a realização do direito material. Este, o direito material, não pode ser escravo das amarras processuais, impondo-se extrair dos termos da lei adjetiva o conteúdo que com maior efetividade realiza o direito substantivo daquele que vem a juízo.
+ ..
+Não há razão para maiores questionamentos, ademais, se a esposa já teve sua condição de dependente previdenciário reconhecida pelo próprio INSS quando lhe deferiu, administrativamente, o benefício de pensão pela morte de seu marido.
+Não desconheço que existe controvérsia sobre o tema, razão pela qual foi afetado para julgamento pela sistemática de recursos repetitivos (tema 1057):
+ ..
+Contudo a suspensão nacional determinada pelo STJ nos processos com a mesma controvérsia tem efeitos somente com relação aos "recursos especiais e agravos em recurso especial envolvendo a matéria, em segunda instância e/ou no Superior Tribunal de Justiça, bem como nas Turmas Recursais do Juizados Especiais Federais" (acórdão publicado no DJe de 29/6/2020).
+Nesse contexto, devem ser incluídas no cálculo da execução da ação revisional promovida pelo instituidor as diferenças decorrentes dos reflexos desta revisão sobre a pensão por morte dela derivada.
+ ..
+Dos efeitos do RE 564.354 no curso do cumprimento de sentença
+No caso em exame, na fase de conhecimento, no acórdão proferido na Apelação Cível nº 2006.71.00.021243-5, foi determinado que o benefício do autor, por não se encontrar dentro do lapso temporal previsto no art. 26 da Lei nº 8.870/94, não teria direito à respectiva decisão.
+Tal aproveitamento do excedente ao teto, portanto, não pode ser reclamado nesta etapa.
+Nada obsta, porém, a aplicação do quanto decidido pelo STF no RE 564.354, quanto aos efeitos das Emendas Constitucionais 20 e 41.
+Com efeito, em se tratando o Recurso Extraordinário 564.354 de decisão com repercussão geral, a circunstância de não ter sido a decisão travada nos autos do processo de conhecimento, não obsta ao debate na fase de cumprimento, devendo o entendimento firmado pela Corte Suprema aplicar- se de imediato à execução, o que decorre do efeito vinculante, inclusive para a Administração Pública, das decisões com repercussão geral.
+ ..
+Nesse contexto, deve ser reformada a decisão no ponto, para que sejam apurados os valores devidos a menor em face da pensão, e consequente alteração do valor do benefício, nos termos do RE 564.354. (grifos no original)
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No mérito o recorrente, ao indicar ofensa aos artigos 293, 492, 509, §4º, 535, IV, 598 e 917, III, e §2º, II e III do CPC/2015 e direcionar a sua tese no sentido de que seja reconhecido que a adequação da renda mensal do benefício aos tetos das EECC 20/1998 e 41/2003 e a inclusão, no cálculo das diferenças devidas, das parcelas relativas à pensão da sucessora, constituem excesso de execução, por se tratar de providências não previstas no título judicial, deixou de impugnar o fundamento do acórdão recorrido segundo o qual:
+ ..
+Indo além, a questão é saber se em uma ação voltada à revisão de aposentadoria é possível incluir, no cálculo do valor da condenação, parcelas pertinentes ao benefício de pensão decorrente da aposentadoria que recebia o instituidor.
+Não há dúvidas de que a revisão determinada no título judicial exequendo produz efeitos sobre a pensão. Sendo a pensão por morte decorrente de aposentadoria que recebia o instituidor, são benefícios vinculados, inclusive para efeito de valor da renda mensal, o primeiro correspondendo a um percentual do segundo, conforme a legislação da época da concessão. Ou seja, qualquer revisão do benefício originário, necessariamente, revisa a pensão dele decorrente.
+Quanto à inclusão destas diferenças de pensão nas parcelas vencidas, afigura-se de todo lógico. Trata-se atualmente do mesmo credor e de crédito com origem no mesmo fato gerador. Remeter-se a autora, já idosa (62 anos), para, em ação própria, buscar o direito que lhe decorreu d o decisum neste processo, não é lógico nem razoável. O processo é instrumento para a realização do direito material. Este, o direito material, não pode ser escravo das amarras processuais, impondo-se extrair dos termos da lei adjetiva o conteúdo que com maior efetividade realiza o direito substantivo daquele que vem a juízo.
+ ..
+Não há razão para maiores questionamentos, ademais, se a esposa já teve sua condição de dependente previdenciário reconhecida pelo próprio INSS quando lhe deferiu, administrativamente, o benefício de pensão pela morte de seu marido.
+Não desconheço que existe controvérsia sobre o tema, razão pela qual foi afetado para julgamento pela sistemática de recursos repetitivos (tema 1057):
+ ..
+Contudo a suspensão nacional determinada pelo STJ nos processos com a mesma controvérsia tem efeitos somente com relação aos "recursos especiais e agravos em recurso especial envolvendo a matéria, em segunda instância e/ou no Superior Tribunal de Justiça, bem como nas Turmas Recursais do Juizados Especiais Federais" (acórdão publicado no DJe de 29/6/2020).
+Nesse contexto, devem ser incluídas no cálculo da execução da ação revisional promovida pelo instituidor as diferenças decorrentes dos reflexos desta revisão sobre a pensão por morte dela derivada.
+ ..
+Dos efeitos do RE 564.354 no curso do cumprimento de sentença
+No caso em exame, na fase de conhecimento, no acórdão proferido na Apelação Cível nº 2006.71.00.021243-5, foi determinado que o benefício do autor, por não se encontrar dentro do lapso temporal previsto no art. 26 da Lei nº 8.870/94, não teria direito à respectiva decisão.
+Tal aproveitamento do excedente ao teto, portanto, não pode ser reclamado nesta etapa.
+Nada obsta, porém, a aplicação do quanto decidido pelo STF no RE 564.354, quanto aos efeitos das Emendas Constitucionais 20 e 41.
+Com efeito, em se tratando o Recurso Extraordinário 564.354 de decisão com repercussão geral, a circunstância de não ter sido a decisão travada nos autos do processo de conhecimento, não obsta ao debate na fase de cumprimento, devendo o entendimento firmado pela Corte Suprema aplicar- se de imediato à execução, o que decorre do efeito vinculante, inclusive para a Administração Pública, das decisões com repercussão geral.
+ ..
+Nesse contexto, deve ser reformada a decisão no ponto, para que sejam apurados os valores devidos a menor em face da pensão, e consequente alteração do valor do benefício, nos termos do RE 564.354.
+ ..
+A referida fundamentação em destaque, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide ao caso a Súmula 283/STF.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO COLETIVA DE TÍTULO EXECUTIVO JUDICIAL. DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. COISA JULGADA. APELO NOBRE QUE NÃO IMPUGNOU O FUNDAMENTO DO ACÓRDÃO RECORRIDO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Consoante pacífica jurisprudência desta Corte, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019)" (AgInt no REsp n. 1.957.753/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/3/2022).
+2. É inviável o conhecimento do recurso especial que não ataca especificamente o fundamento adotado no acórdão recorrido. Incidência da Súmula 283/STF.
+3. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"."
+(AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021). Nesse mesmo sentido: AgInt no AREsp 1.170.224/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/9/2020.
+3. Agravo interno desprovido.
+(AgInt no REsp 1990498/DF, Rel Ministro Sérgio Kukina, Primeira Turma, julgado em 06/03/2023, Dje de 09/03/2023) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA CONTINUADA. APLICAÇÃO DE MULTA SINGULAR. POSSIBILIDADE. PRECEDENTES. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça define que "há continuidade infracional quando diversos ilícitos de idêntica natureza são apurados durante mesma ação fiscal, devendo tal medida ensejar a aplicação de multa singular" (AgInt no AREsp n. 1.129.674/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021).
+3. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que há continuidade delitiva no caso concreto, bem como de que a sanção aplicada pela ANP é desproporcional. A revisão de referida conclusão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1783746/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/02/2023, Dje de 16/02/2023) (grifei).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO DE PENSIONISTA. REFLEXOS SOBRE A PENSÃO. INCLUSÃO DE DIFERENÇAS DA APLICAÇÃO DE NOVOS TETOS DE PAGAMENTO NO CÁLCULO DA EXECUÇÃO. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
