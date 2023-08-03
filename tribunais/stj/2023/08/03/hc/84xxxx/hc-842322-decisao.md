@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODNELSON EVANGELISTA DE SOUZA contra decisão liminar do Tribunal de Justiça do Estado de Minas Gerais (1.0000.23.178228-5/000).
+Segundo consta dos autos, o paciente foi preso cautelarmente no dia 30/3/2023 pela suposta prática dos delitos previstos no art. 146, art. 147, art. 158, §1º, todos do Código Penal, art. 15, da Lei n. 10.826/2003, e art. 23, da Lei n. 13.869/2019.
+Na ação originária, a defesa alegou ausência de motivos para a manutenção da prisão preventiva do paciente, após mais de 100 dias dos fatos denunciados.
+Nas razões do presente habeas corpus, a defesa sustenta, em síntese, ausência de fundamentação idônea para a prisão preventiva do paciente, asseverando que não há qualquer risco à ordem pública, caso seja colocado em liberdade, sobretudo porque ostenta condições pessoais fav oráveis, ressaltando ser servidor público de carreira há mais de 10 anos. Acrescenta que a decisão da Relatora também é ilegal por ausência de mínima fundamentação para convalidar a decisão de primeiro grau.
+Diante disso, pede a revogação da prisão preventiva ou a substituição por outras cautelares mais brandas, tudo com superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+É o relatório, decido.
+Não há como prosseguir a irresignação.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fls. 31 ):
+Indefiro o pedido de revogação de prisão preventiva. As questões colocadas pela Defesa referem-se ao mérito e serão apreciadas no momento oportuno. Por ora, verifico que permanecem inalterados os fatos que ensejaram na decretação da prisão preventiva.
+Ocorre que a defesa não juntou aos autos o teor da decisão que decretou a prisão preventiva o paciente, o que inviabiliza o exame das alegações.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " ..  a jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 182.788, Rel. Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " ..  em sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 772.017/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Além disso, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
