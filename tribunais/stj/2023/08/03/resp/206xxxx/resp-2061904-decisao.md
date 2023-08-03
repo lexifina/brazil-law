@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por MASB DESENVOLVIMENTO IMOBILIARIO S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL -AÇÃO DE PROCEDIMENTO COMUM -INOVAÇÃO RECURSAL -COMPRA E VENDA DE IMÓVEL -ATRASO NA ENTREGA DA UNIDADE AUTÔNOMA -EXCLUDENTE DE RESPONSABILIDADE CIVIL -FORTUITO INTERNO -REDUÇÃO DA MULTA CONTRATUAL -CORREÇÃO MONETÁRIA -IGP-M COMO INDEXADOR -DANO MORAL CONFIGURADO -QUANTUMINDENIZATÓRIO -ÔNUS SUCUMBENCIAIS. Apenas constituirão objeto de exame e julgamento pelo tribunal as questões suscitadas e discutidas no processo, não se admitindo inovação recursal. O atraso na documentação junto ao órgão público não pode ser considerado motivo que justifique a não entrega do imóvel no prazo contratual, não se considerando caso fortuito ou força maior uma vez constituir o risco da atividade desenvolvida pelo empreendedor neste ramo de atuação. "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor." (REsp 1631485/DF, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 25/06/2019). Havendo previsão contratual de incidência do IGP-M (FGV) este deve ser o índice adotado para correção monetária. Comprovado o descumprimento pela construtora do prazo estabelecido para a entrega do imóvel e, tratando-se de atraso demasiado e injustificado, deve o comprador receber indenização por dano moral, pois os reflexos da conduta ultrapassam o mero dissabor cotidiano. Nos termos do artigo 86 do Código de Processo Civil, há sucumbência recíproca quando autor e réu forem em parte vencidos e vencedores, devendo, nessa hipótese, haver a distribuição proporcional das custas e despesas processuais e dos honorários advocatícios" (fl. 855 e-STJ).
+Nas razões do recurso especial, a recorrente aponta violação dos artigos 52 da Lei nº 4.591/1964 e 476 do Código Civil, que tem direito de retenção da unidade até a quitação do saldo devedor.
+Apresenta, ainda, divergência jurisprudencial acerca da reversão da cláusula penal do contrato de compra e venda de bens imóveis, do cabimento de danos morais indenizáveis em atrasos de alguns meses na entrega de bens imóveis e a respeito do marco final da obrigação da construtora em negócios de incorporação imobiliária
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Verifica-se que a tese do direito de retenção da unidade até a quitação do saldo devedor não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do Código de Processo Civil.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. ART. 397 DO CÓDIGO CIVIL. SÚMULA 211 DO STJ.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Persistindo a omissão no julgado, cabe ao recorrente alegar, nas razões do recurso especial, violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a fim de que não haja supressão de instância.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 875.774/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/10/2016, DJe 7/10/2016).
+Por fim, no tocante as divergências jurisprudenciais, verifica-se que a parte recorrente não indicou o dispositivo legal tido por violado o que implica na incidência da Súmula nº 284/STF.
+Ressalte-se, ademais, que o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. (..).
+2. A matéria constitucional invocada não é de ser examinada nesta via, porquanto a sua apreciação não compete ao Superior Tribunal de Justiça, pelo teor do artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+3. Incabível a interposição de recurso especial por violação de enunciado sumular, por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+4. Não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+5. Agravo interno desprovido" (AgInt no AREsp 576.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/4/2017, DJe 3/5/2017).
+Ante o exposto, não conheço d o recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários fixados na origem em 2,5% (dois e meio por cento) sobre o valor da condenação, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
