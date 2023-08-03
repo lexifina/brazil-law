@@ -1,0 +1,7 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado no Agravo em Execução n. 1.0433.14.041676-2/003.
+Consoante informações acostadas no parecer Ministerial de fls. 115-116 e confirmadas em consulta ao sistema de informações processuais deste Superior Tribunal, verifico a anterior interposição do REsp n. 2.075.856/MG, de minha relatoria, em que também se impugna decisão do Juízo de primeira instância que deferiu a progressão de regime ao recorrido a despeito do não adimplemento da pena de multa imposta na sentença penal condenatória, no bojo do Processo de Execução n. 0416762-63.2014.8.13.0433.
+As partes e objeto daquele feito são os mesmos deste recurso especial, o que caracteriza a mera reiteração de pedidos e impede o conhecimento d o recurso.
+A jurisprudência desta Corte Superio r entende que "a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto perante este Sodalício caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ.  .. " (AgRg no HC n. 118.517/AC, Rel. Ministro Jorge Mussi, DJe 25/4/2011).
+À vista do exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 34, XVIII, "a", do RISTJ, não conheço deste recurso.
+Publique-se e intimem-se.
