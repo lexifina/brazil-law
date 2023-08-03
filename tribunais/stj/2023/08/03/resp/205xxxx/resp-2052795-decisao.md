@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+APELAÇÃO CRIMINAL TRÁFICO DE ENTORPECENTES PRELIMINAR DE NULIDADE POR VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA - AUTORIA E MATERIALIDADE DEMONSTRADAS CONDENAÇÃO MANTIDA - AFASTAMENTO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/06 DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS COMPROVAÇÃO DE NÃO SE TRATAR DE TRAFICANTE HABITUAL READEQUAÇÃO DA PENA SUBSTITUIÇÃO AFASTADA REGIME FECHADO - RECURSOS DEFENSIVOS NÃO PROVIDOS E RECURSO MINISTERIAL PROVIDO EM PARTE.
+Sustenta o recorrente JOÃO VICTOR GOMES DOS SANTOS DE SOUZA violação do art. 33, § 4º, da Lei 11.343/2006.
+Afirma a falta de fundamentação concreta no afastamento da minorante do tráfico, porquanto a quantidade ou a natureza da droga não constitui requisito para a incidência da causa de diminuição.
+Requer o provimento do recurso, a fim de que seja redimensionada a pena.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento dos recursos.
+Inadmitido o recurso especial de ALBERT KAUE ALVES DA SILVA, com base na Súmula 7/STJ, foi interposto agravo, apontando o agravante ofensa ao art. art. 33, § 4º, da Lei 11.343/2006.
+Menciona que não há motivação idônea no decote da minorante do tráfico, de modo que postula a redução da pena, com a alteração do regime prisional e substituição da pena privativa de liberdade por penas restritivas de direitos.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que os réus foram condenados à pena de 1 ano e 8 meses de reclusão e 166 dias-multa, no regime aberto, como incursos no art. 33, § 4º, da Lei 11.343/06, tendo o Tribunal de origem negado provimento às apelações da defesa e provido em parte o recurso do Ministério Público para, afastada a causa de diminuição, majorar a reprimenda para 5 anos de reclusão e 500 dias-multa, no regime fechado, com base nos seguintes argumentos:
+Merece reparo a dosimetria da pena.
+A pena-base foi fixada no mínimo legal corretamente.
+Na segunda fase não houve alteração e quanto ao corréu JOÃO, com o reconhecimento das atenuantes da menoridade relativa e a confissão, nos termos da Súmula 231, STJ, a pena não pode ser diminuída abaixo do mínimo legal.
+Impossível a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, haja vista a não satisfação do requisito de não se dedicar às atividades criminosas.
+Os Réus traziam 422 microtubos de crack e 1 tijolo de crack, pesando, aproximadamente, 601,1 gramas. Ora, a quantidade razoável de entorpecentes comprova que se dedicava às atividades criminosas.
+O traficante eventual, a quem é destinada a causa especial de diminuição de pena é aquele que não faz do tráfico seu meio de vida, não sendo esse o caso dos autos.
+Assim, fixo a pena definitiva em 5 anos de reclusão e ao pagamento de 500 dias-multa.
+Por sua vez, constou da sentença que:
+Considerando, todavia, o disposto no artigo 33, §4º, Lei nº 11.343/06, sendo os réus primários e inexistindo elementos a indicarem que se dediquem a atividades criminosas nem integrem organização criminosa, reduzo a pena em 2/3 (dois terços), resultando em 01 (um) ano e 08 (oito) meses de reclusão e pagamento de 167 (cento e sessenta e sete) dias-multa, no mínimo legal, para cada réu. E ante a ausência de outras causas modificadoras, torno definitiva a pena de 01 (um) ano e 08 (oito) meses de reclusão e pagamento de 167 (cento e sessenta e sete) dias-multa, no mínimo legal, para cada réu.
+Com efeito, entende esta Corte Superior que a indicação da quantidade de drogas apreendida, isoladamente, sem a expressa referência às circunstâncias concretas adicionais, não justifica o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO NA FRAÇÃO DE 1/6. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 1/6.
+2. Esta Corte vem se manifestando no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+3. Agravo regimental não provido.
+(AgRg no HC 670.280/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021.)
+Na hipótese, apesar de ter sido indicada a quantidade de droga apreendida, tratando-se de 601,1 gramas de crack, como justificativa para o afastamento da minorante, não foram indicadas circunstâncias adicionais aptas a demonstrar a dedicação a atividades criminosas ou a participação em organização criminosa.
+Como bem mencionado no parecer ministerial:
+Na presente hipótese, em que pese o volume de entorpecentes não tenha sido sopesado na 1ª fase da dosimetria, forçoso convir que não se afigura suficientemente justificado o afastamento do redutor em tela, vez que foi sopesada isoladamente a quantidade da droga (635,78g de cocaína) para deixar de aplicar a causa de diminuição, sendo mais adequada e razoável, dada as particularidades do caso, a adoção da benesse, como pleiteia a defesa.
+Importante realçar, também, no tópico, que, consoante o entendimento dessa Corte Superior, mesmo sendo possível e recomendável a modulação da fração de diminuição estabelecida no § 4º do art. 33 da Lei n.º 11.343/06, em função da quantidade e da natureza do entorpecente apreendido, o fator mais benéfico ao réu só deve começar a ser reduzido a partir de quantias expressivas de drogas, não sendo esta a presente hipótese.
+Diante dessas razões, deve ser restabelecida a dosimetria fixada na sentença condenatória, a qual fixou as sanções definitivas em 1 ano e 8 meses de reclusão, mais o pagamento de 166 dias-multa, no regime aberto, convertendo a pena privativa de liberdade em penas restritivas de direitos, mormente porque fixada a pena-base no mínimo legal, em consonância com os arts. 33, §§ 2º e 3º, e 44, ambos do CP.
+Ante o exposto, conheço do agravo e dou provimento aos recursos especiais para, reconhecido o tráfico privilegiado, reduzir as penas para 1 ano e 8 meses de reclusão, mais o pagamento de 166 dias-multa, no regime aberto, substituindo a pena privativa de liberdade em penas restritivas de direitos, a serem estabelecidas pelo Juízo da execução.
+Publique-se.
+Intimem-se.
