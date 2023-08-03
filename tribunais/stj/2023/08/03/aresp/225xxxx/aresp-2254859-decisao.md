@@ -1,0 +1,6 @@
+DECISÃO
+Estando pendente o julgamento dos agravos em recurso especial interpostos por Energia Sustentável do Brasil S.A. e por Santo Antônio Energia S.A., foi juntada aos autos a Petição n. 663.338/2023 (e-STJ, fls. 19.223-19.227), protocolada, conjuntamente, pelos autores/agravados (Clidemar Barboza Lima e outros) e pelo corréu Consórcio Construtor Santo Antônio - CCSA e subscrita pelos respectivos advogados, por intermédio da qual noticiam a celebração de acordo para encerrar a questão litigiosa, tendo solicitado a sua homologação.
+Com amparo na redação conferida ao art. 34, IX, do RISTJ pela Emenda Regimental n. 24/2016, homologo o acordo celebrado pelas referidas partes, na forma do instrumento de fls. 19.223-19.227 (e-STJ), a fim de que surta seus jurídicos e legais efeitos.
+Em consequência, julgo extinto o processo com resolução de mérito exclusivamente em relação ao Consórcio Construtor Santo Antônio - CCSA, nos termos do art. 487, III, "b", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, devolver os autos conclusos a esta relatoria para prosseguimento da análise dos agravos em recurso especial dos corréus Energia Sustentável do Brasil S.A. e Santo Antônio Energia S.A.
+Publique-se.
