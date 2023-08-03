@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em face de inadmissão de recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Teritórios assim ementado:
+"APELAÇÃO CÍVEL. CIVIL. AÇÃO DE USUCAPIÃO. BEM INDISPONÍVEL. AÇÃO CIVIL PÚBLICA. POSSE. ÂNINO DE DONO. AUSÊNCIA. PRESCRIÇÃO AQUISITIVA. IMPOSSIBILIDADE. INTERESSE PÚBLICO. SENTENÇA MANTIDA.
+1. A usucapião extraordinária consiste em meio para a aquisição originária da propriedade, mediante relação possessória direta, contínua e duradoura do possuidor com o bem que se tenciona usucapir pelo lapso temporal de 15 (quinze) anos, sem qualquer vínculo de subordinação com o titular do domínio.
+2. Para a configuração da usucapião extraordinária, necessária a demonstração do pressuposto do animus domini, que se entende como a intenção de agir como dono, de obter o domínio da coisa.
+3. As provas dos autos evidenciam que a Ré deu em pagamento o imóvel do qual os Autores exercem a posse ininterrupta por mais de 20 (vinte) anos. Todavia, a existência de gravame de indisponibilidade determinada em Ação de Improbidade, anterior à posse, para garantia de ressarcimento dos cofres públicos, impede a aquisição da propriedade do bem, de maneira direta ou indireta. Precedentes específicos da 8ª Turma deste eg. TJDFT.
+4. Apelação conhecida e não provida." (fl. 310 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente sustenta violação do artigo 1.238 do Código Civil/2002.
+Aduz que há comprovação do animus domini. Menciona que possui posse mansa, pacífica e contínua do bem por mais de 15 anos.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante ao argumento de preenchimento dos requisitos da usucapião extraordinária, observa-se que o acórdão recorrido foi fundamentado nos seguintes termos:
+"(..)
+O imóvel objeto da usucapião - apartamento nº 310 do Edifício OK Residence Service, situado na SHCGN, Quadra 703, Bloco J, Asa Norte, Brasília/DF - foi dado pela Ré em pagamento às dívidas fundadas em títulos judiciais transitados em julgados e proferidos nos autos do Cumprimento de Sentença nº 50.418/95 (CNJ - 0025289- 39.1995.8.07.0001), que tramitou perante o d. Juízo da 13ª Vara Cível de Brasília, bem como da Ação de Indenização nº 5222/69 (CNJ - 0011466- 61.1996.8.07.0001), que tramitou perante o d. Juízo da 11ª Vara Cível de Brasília.
+No referido acordo (ID 33061355), firmado em 3/4/2003, data em que iniciada a posse dos Autores com o recebimento das chaves (ID 33061357 e 33061358), a Ré/Apelada reconheceu o débito no montante de R$ 141.800,00 (cento e quarenta e um mil e oitocentos reais) e deu em pagamento, além do imóvel objeto dos autos, uma lancha M. A. B., a quantia de R$ 6.800,00 (seis mil e oitocentos reais) que estava depositada em juízo e um cheque emitido no montante de R$ 5.000,00 (cinco mil reais) (clausula 1ª).
+Nos termos da cláusula 2ª, a posse do imóvel foi transferida aos Autores/Apelantes, para uso e gozo como se proprietários fossem, e a Ré/Apelada se comprometeu a lhes transferir o bem, após o levantamento da indisponibilidade, no prazo de 12 (doze) meses, prorrogável por igual período. A transferência definitiva da propriedade do imóvel estava condicionada à exclusão dos gravames.
+Os Apelantes tinham ciência da indisponibilidade do bem no momento em que o receberam, tanto que, nos termos do estipulado na cláusula 5ª, caso o imóvel não fosse transferido no prazo acordado, os Autores poderiam optar por permanecerem na posse do bem até a exclusão do gravame, ou executarem os devedores solidariamente, na importância do bem, acrescidos de juros de 1% ao mês, desde a assinatura do acordo e multa de 20% do valor total do débito.
+Registre-se que não se ignora que o crédito dos Autores, lastreado em título executivo judicial, antecede o acordo firmado em juízo. Entretanto, além da plena ciência de que o imóvel dado em pagamento estava judicialmente bloqueado, numa manobra que se assemelha à adjudicação, os Apelantes postulam a usucapião em violação ao próprio contrato, pois, na hipótese de inadimplência da Apelada, ou seja, frustrada a transferência da propriedade, o valor atualizado do imóvel poderia ser executado, com incidência de juros e multa.
+O art. 1.238 do Código Civil dispõe que aquele que, por 15 (quinze) anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.
+E o parágrafo único do mesmo dispositivo estipula a redução do prazo para 10 (dez) ano se o possuidor houver estabelecido no imóvel a sua moradia habitual, ou nele realizado obras ou serviços de caráter produtivo.
+Assim, nos termos dispostos, a usucapião extraordinária consiste em meio para a aquisição originária da propriedade, mediante relação possessória direta, contínua e duradoura do possuidor com o bem com animus domini, ou seja, a intenção de agir como dono, de obter o domínio da coisa. Tal requisito se caracteriza como elemento subjetivo indispensável ao reconhecimento da usucapião.
+(..)
+Como seria possível a posse com intenção de dono se à data da aquisição o imóvel estava bloqueado, por decisão judicial, para garantir dívidas fundadas em fatos anteriores ao título de posse  Admitir a prescrição aquisitiva de imóvel constrito é violar a efetividade da decisão judicial para garantia do resultado útil do processo em que proferida.
+Afirmam os Autores/Apelantes, ainda, que, a despeito do registro em nome da Ré, detêm o imóvel desde abril de 2003, sem oposição, com animus domini, o que, a princípio, seria fundamento suficiente para a procedência da prescrição aquisitiva.
+No entanto, o bem esteve, por todos os últimos 22 (vinte e dois) anos, gravado por indisponibilidade devido à determinação do d. Juízo da 12ª Vara Federal de São Paulo, por ordem proferida em ação de improbidade (ID 33061356).
+Logo, o imóvel gravado de indisponibilidade para garantia de dívida não pode estar sujeito à aquisição da propriedade por terceiros, seja de maneira direta ou indireta, como pretendem os ocupantes." (fls. 313/315 e-STJ).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso obstado exigiria por parte desta Corte o reexame de matéria fática, o que é vedado pela Súmula nº 7 deste Tribunal, consoante iterativa jurisprudência desta Corte
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. REQUISITOS. PREENCHIMENTO. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADAS. MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, em regra, não é cabível em recurso especial o reexame da satisfação dos requisitos para o reconhecimento da usucapião extraordinária.
+4. Na hipótese, rever o entendimento do tribunal local, que concluiu que os recorridos detinham posse mansa e pacífica da totalidade da área objeto do litígio por mais de 15 (quinze) anos ininterruptos, tendo atendido os requisitos da usucapião, demandaria o revolvimento fático-probatório dos autos, procedimento inadmissível em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido"
+(AgInt no REsp n. 1.888.900/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/5/2021, DJe de 24/5/2021.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONDOMÍNIO. POSSE. USUCAPIÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Na linha da jurisprudência desta Corte, "o condômino tem legitimidade para usucapir em nome próprio, desde que exerça a posse por si mesmo, ou seja, desde que comprovados os requisitos legais atinentes à usucapião, bem como tenha sido exercida posse exclusiva com efetivo animus domini pelo prazo determinado em lei, sem qualquer oposição dos demais proprietários." (REsp 668.131/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/8/2010, DJe 14/9/2010).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem examinou os elementos fáticos dos autos para concluir que a posse não decorreu de meros atos de tolerância e que atendia os requisitos da usucapião. Dessa forma, a alteração do acórdão recorrido exigiria reexame da prova dos autos, inviável em recurso especial, nos termos da súmula mencionada.
+4. Agravo interno a que se nega provimento"
+(AgInt no REsp n. 1.431.365/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/6/2020, DJe de 1/7/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, §§ 11, do CPC/2015, majoro em 2% (dois por cento) o percentual da verba honorária, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
