@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Banco Santander (Brasil) S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 659):
+APELAÇÃO CÍVEL. AÇÃO RENOVATÓRIA. Procedência do pedido a impor ao vencido os ônus sucumbenciais quanto as custas e honorários advocatícios, estes mantidos em 10% do valor da condenação. Aplicação do artigo 73 da lei do inquilinato, corrigindo-se as diferenças dos valores a partir de cada vencimento e juros de 1% a partir da citação. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 715):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO DECISUM. INEXISTÊNCIA. Os embargos declaratórios destinam-se a aclarar omissões, contradições e obscuridades que maculem a decisão impugnada, mas não a adequá-la a tese do embargante. Mera irresignação com as conclusões do acórdão que manteve a sentença do 1º grau. Manutenção do termo inicial dos juros e correção a partir da citação. Efeitos nitidamente infringentes devem ser perseguidos através de outra espécie recursal. Outrossim, como meio de integração, igualmente não se destinam ao prequestionamento de matéria constitucional. Precedentes do STJ. Embargos de declaração duplos que se REJEITAM.
+Em suas razões de recurso especial (e-STJ, fls. 719-741), o agravante alegou violação aos arts. 489, § 1º, e 1022 do CPC de 2015 e 69 e 73 da Lei n. 8.245/1991, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional, uma vez que o acórdão recorrido não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia.
+Destacou que o termo inicial para a incidência dos juros de mora deve ser a data do trânsito em julgado da ação renovatória.
+Requereu, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à suposta negativa de prestação jurisdicional, cabe pontuar que "o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Na espécie, verifica-se que o Tribunal a quo se manifestou de forma expressa e fundamentada acerca da controvérsia, com a aplicação do direito que entendeu cabível à hipótese.
+Por oportuno, colhem-se do julgado recorrido os seguintes fundamentos (e-STJ, fls. 660):
+Ademais, omissa a sentença quanto ao pagamento das verbas derivadas das diferenças de alugueres, a serem executadas na forma do artigo 73 da lei do inquilinato, corrigidas desde cada vencimento e com juros de 1% a partir da citação.
+Nesse contexto, é certo que foram examinados todos os pontos relevantes para a solução da causa, não havendo como reconhecer a propalada ofensa aos arts. 489 e 1.022 do CPC/2015.
+Nessa linha de cognição:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+Outrossim, de acordo com a jurisprudência desta Corte de Justiça, somente após o trânsito em julgado da sentença condenatória que fixa o valor do aluguel a ser renovado é que se poderá apurar o montante devido e, a partir de então, incidir os juros de mora.
+Desse modo, deve-se perquirir se a sentença da ação renovatória fixa prazo para o pagamento do saldo devedor, haja vista que, se o fizer, a mora do devedor se dará com o trânsito em julgado (mora ex re), mas caso o título executivo judicial não faça referência ao prazo para adimplimento, caberá ao credor interpelar o devedor para pagamento (mora ex persona).
+A propósito, confira-se:
+RECURSO ESPECIAL. CIVIL. LEI DE LOCAÇÕES. AÇÃO RENOVATÓRIA DE LOCAÇÃO. DIFERENÇAS DOS ALUGUÉIS VENCIDOS. JUROS DE MORA. TERMO INICIAL. PRAZO FIXADO NA SENTENÇA TRANSITADA EM JULGADO. INTIMAÇÃO PARA O CUMPRIMENTO DE SENTENÇA.
+1- Recurso especial interposto em 20/11/2020 e concluso ao gabinete em 27/5/2021.
+2- O propósito recursal consiste em determinar, no âmbito da ação renovatória de aluguel, o termo inicial dos juros de mora relativos às diferenças de aluguéis vencidos.
+3- A sentença de procedência da ação renovatória produz efeitos ex tunc, isto é, o novo aluguel é devido desde o primeiro dia imediatamente posterior ao fim do contrato primitivo. Fixado o novo valor do aluguel, pode remanescer saldo relativo às diferenças de aluguéis vencidos em favor do locador ou do locatário, a depender de o novo valor ser, respectivamente, maior ou menor do que o original. As diferenças, se existentes, a teor do art. 73 da Lei n. 8.245/1991, serão executadas nos próprios autos da ação renovatória.
+4- O termo inicial dos juros de mora relativos às diferenças dos aluguéis vencidos será (a) ou a data para pagamento fixada na própria sentença transitada em julgado (mora ex re) (b) ou a data da intimação do devedor - prevista no art. 523 do CPC/2015 - para pagamento no âmbito da fase de cumprimento de sentença (mora ex persona).
+5- Na hipótese dos autos, inexistindo prazo fixado na sentença para pagamento das diferenças, os juros moratórios devem incidir desde a intimação dos executados para pagamento no âmbito do cumprimento de sentença.
+6- Recurso especial parcialmente provido. (REsp n. 1.929.806/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 07/12/021, DJe 13/12/2021)
+No presente caso, observa-se que o processo ainda está na fase de conhecimento da ação renovatória, de modo que não há decisão transitada em julgada que fixou, ou não, o prazo para pagamento das diferenças dos aluguéis.
+Destarte, impõe-se a observância das normas modernas de processo civil, notadamente a do art. 523 do CPC/2015, que prevê a intimação do devedor, a pedido do credor, para pagamento do débito no prazo de 15 (quinze) dias, pois a intimação possui efeito interpelativo e esse é o momento em que as diferenças dos aluguéis se revelam concretas a todas as partes.
+Assim, torna-se imperiosa a reforma do acórdão da origem, que fixou como termo inicial dos juros de mora a data do vencimento de cada parcela, a fim de se estabelecer como termo a quo a data da intimação do devedor para pagamento do débito.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de fixar como termo inicial dos juros de mora a data da intimação para pagamento na fase de cumprimento de sentença, nos termos do art. 523 do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DIFERENÇA DOS ALUGUÉIS. TERMO INICIAL DOS JUROS MORATÓRIOS. TRÂNSITO EM JULGADO. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL .
