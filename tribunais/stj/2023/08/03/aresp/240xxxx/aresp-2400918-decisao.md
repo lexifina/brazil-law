@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por PORTOCRED S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que não admitiu o recurso especial, fundado na alínea c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 280):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. EMPRÉSTIMO CONSIGNADO. JUROS REMUNERATÓRIOS ABUSIVOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. REPETIÇÃO DO INDÉBITO. MANTIDA A DECISÃO MONOCRÁTICA,EIS AUSENTE RAZÃO BASTANTE QUE JUSTIFIQUE A SUA REFORMA ."POSSIBILITADA A REVISÃO DE CONTRATO QUITADO, TENDO EM VISTA QUE A AÇÃO FOI AJUIZADA DENTRO DO PRAZO PRESCRICIONAL PREVISTO PARA TANTO E QUE A REVISÃO DE CONTRATOS FINDOS É ADMITIDA DE MODO PACÍFICO PELO COLENDO STJ. JUROS REMUNERATÓRIOS. ENTENDIMENTO UNÂNIME DESTA CÂMARA PARA CONSIDERAR ABUSIVAS AS TAXAS QUE EXCEDAM A TAXA MÉDIA DE MERCADO CONFORME TABELAS PUBLICADAS PELO BACEN. CONSTATADA A ABUSIVIDADE,O CONTRATO BANCÁRIO DEVE SER READEQUADO COM BASE NA TAXA MÉDIA DE MERCADO PARA A ÉPOCA E ESPÉCIE CONTRATADA. DEFERIDA A RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE A MAIOR NA FORMA SIMPLES. MANTIDA A DISTRIBUIÇÃO DA SUCUMBÊNCIA, PORQUANTO ARBITRADA DE ACORDO O RESULTADO DA DEMANDA.
+AGRAVO INTERNO IMPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 289-305), a recorrente postulou, inicialmente, a concessão da assistência judiciária gratuita por estar em liquidação extrajudicial, além da suspensão do feito, nos termos do art. 18 da Lei 6.024/1974.
+Sustentou, em síntese, que não foi demonstrado, no caso concreto, o caráter abusivo das taxas a justificar a redução da taxa pactuada, apontando a violação ao art. 51, IV, e § 1º, III, do Código de Defesa do Consumidor.
+Apontou divergência entre o acórdão recorrido e a jurisprudência do Superior Tribunal de Justiça, notadamente o REsp. 1.061.530/RS e o AgInt no AREsp. 1.522.043/RS, acerca da abusividade na contratação de empréstimo bancário.
+Ponderou, que a abusividade não deve ser verificada pela mera comparação entre taxas, sem análise dos requisitos elencados no art. 51, IV e §1º, III, do Código de Defesa do Consumidor, consoante estabelecido pelo Superior Tribunal de Justiça nos julgamentos que enfrentaram a matéria.
+Contrarrazões ao recurso especial acostadas às fls. 484-492 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no tocante ao pedido de suspenção do feito em decorrência da liquidação extrajudicial, o Superior Tribunal de Justiça tem o entendimento de que "a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial e o veto à propositura de novas demandas após o decreto de liquidação não alcançam as ações de conhecimento voltadas à obtenção de provimento judicial relativo à certeza e liquidez do crédito" (AgInt no AREsp n. 902.085/SP, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 16/2/2017, DJe de 6/3/2017).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DENUNCIAÇÃO DA LIDE À SEGURADORA. REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL.
+1. Não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a concluir pela existência de dano moral a ser reparado, sob pena de afronta ao óbice da Súmula 7/STJ.2. Em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, o termo inicial dos juros de mora é a data da citação.3. "A jurisprudência desta Corte firmou o entendimento de que a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial não alcança as ações de conhecimento voltadas à obtenção deprovimento judicial relativo à certeza e liquidez do crédito, bem assim que tal condição não impede a incidência de juros e correção monetária. Incidência da Súmula 83 do STJ. " (AgInt no REsp 1.669.141/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26.06.2018, DJe 01.08.2018).4. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie.5. Decisão agravada mantida pelos seus próprios fundamentos.6. AGRAVO INTERNO DESPROVIDO.(AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020.)
+No caso em questão, cinge-se a controvérsia quanto à possibilidade de limitação dos juros remuneratórios pelo Poder Judiciário.
+Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. LIMITAÇÃO. TAXA MÉDIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA. SIMILITUDE FÁTICA. ALTERAÇÃO. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado apenas quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Precedentes.
+2. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+3. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e das cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.220.130/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+(..)
+4. Agravo interno desprovido .
+(AgInt no AREsp 1.405.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021.)
+No caso, verifica-se que o Tribunal de Justiça do Estado do Rio Grande do Sul, ao analisar os juros remuneratórios contratados, concluiu que eles seriam abusivos, conforme se depreende do excerto abaixo transcrito (e-STJ, fls. 277-278):
+Ademais, em que pese não se desconheça o entendimento firmado pelo STJ, esta Câmara tem entendimento unânime no sentido de considerar abusivas as taxas que excedam as taxas médias de mercado. Estas taxas, divulgadas pelo BACEN, se afirma serem a "média" aplicada pelo mercado, porque já contemplam, tanto as mais elevadas, quanto as mais baixas, praticadas pelas instituições financeiras pesquisadas.
+Deste modo, entendo ausente qualquer fundamento relevante para confrontar a pretendida modificação do entendimento recorrido. Assim, para evitar a sempre indesejável tautologia, incorporo aos fundamentos supra, aqueles que respaldaram a decisão monocrática agravada:
+ ..
+No caso concreto, verifico abusividade na taxa pactuada na cédula de crédito bancária revisanda, vez que considerada a data da contratação, ocasião em que à taxa dos juros praticadas no mercado conforme tabelas divulgadas pelo BACEN (Pessoas físicas -Crédito pessoal consignado para trabalhadores do setor público - série 25467) para o período e relativa a contrato similar era inferior à taxa pactuada, conforme se demonstra na representação gráfica abaixo:
+Nº do contratoData da assinaturaTaxa do contratoTaxa média do BACEN380211239310/20155,40% a. m1,98% a. m
+Portanto, impositiva a readequação das parcelas à taxa supramencionada.
+Nesse contexto, observada a consonância do acórdão recorrido com a jurisprudência desta Corte (Súmula 83/STF), não há como afastar a conclusão estadual (no sentido de que os juros remuneratórios contratados seriam abusivos) sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Casa.
+Sobre o tema, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS N.os 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.Afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas n.ºs 5 e 7 desta Corte.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.165.595/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA. SÚMULAS 5 E 7/STJ. MORA. DESCARACTERIZADA. SÚMULA 83 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+(..)
+3. No caso dos autos, o Tribunal de origem entendeu, quanto aos juros remuneratórios, que houve abusividade em sua cobrança. Rever essa conclusão demandaria reexame de provas e interpretação de cláusulas contratuais, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+(..)
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1.983.007/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022.)
+RECURSO ESPECIAL. DIREITO CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO DE CARTÃO DE CRÉDITO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. TEMA REPETITIVO Nº 27/STJ. INCIDÊNCIA DOS ENUNCIADOS N.º 05 E 07/STJ.
+(..)
+8. Afastar a conclusão do Tribunal de Justiça a quo, soberano na análise dos fatos e das provas, reconhecendo a abusividade da taxa de juros remuneratórios praticada no caso concreto, exigiria incursão no conteúdo fático-probatório dos autos e interpretação de cláusula contratual,
+procedimentos vedados em sede de recurso especial, a teor dos enunciados sumulares n.º 5 e 7/STJ.
+9. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+(REsp 1.722.233/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/09/2021, DJe 14/12/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor da advogada da parte recorrida em R$ 500,00 (quinhentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. CARÁTER ABUSIVO CONSTATADO. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
