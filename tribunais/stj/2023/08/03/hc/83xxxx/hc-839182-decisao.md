@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIUDE DE SOUZA em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (Apelação n. 5002291-51.2019.4.03.6126).
+Consta dos autos que o paciente foi condenado como incurso nos delitos dos arts. 288 e 171, § 3º, c/c o art. 71 (6 condutas), ambos do Código Penal, à pena de 2 anos 9 meses e 24 dias de reclusão no regime semiaberto e 17 dias-multa.
+Em âmbito de apelação, o Tribunal local deu parcial provimento ao recurso da acusação para fixar as penas do paciente em 4 anos e 8 meses de reclusão no regime inicial semiaberto e 33 dias-multa.
+Sobreveio o trânsito em julgado e a expedição de guia de recolhimento para o início do cumprimento da pena.
+Sustenta o impetrante, na presente oportunidade, que não foi intimado pessoalmente do acórdão de apelação, mostrando-se evidente a necessidade de intimar o réu para que ele possa exercer a sua autodefesa mesmo com a intimação técnica realizada.
+Requer, em suma, que seja cancelado o trânsito em julgado, com consequente concessão de novo prazo para o paciente recorrer do acórdão proferido pelo Tribunal local.
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente no caso em que não se verifica flagrante ilegalidade.
+De fato, como oportunamente pontuou o Parquet, in verbis (e-STJ fls. 22.135/22.136):
+Na espécie, não assiste razão ao impetrante. Conforme entendimento consolidado dessa Corte Superior, não há necessidade de ocorrer intimação pessoal do réu, acerca de sentença ou acórdão condenatórios, quando ele estiver solto. A propósito, confira-se o seguinte precedente nesse exato sentido:
+RECURSO EM HABEAS CORPUS. INTIMAÇÃO PESSOAL DO RÉUSOLTO. SENTENÇA CONDENATÓRIA. FACULTATIVIDADE. PACIENTE QUE NÃO MAIS RESIDIA NO ÚLTIMO ENDEREÇODECLINADO NOS AUTOS. OBRIGAÇÃO DE INFORMAR ENDEREÇOATUALIZADO. DEFESA QUE CONCORRE PARA A NULIDADE. RECURSO VOLUNTÁRIO NÃO INTERPOSTO. REGULARINTIMAÇÃO DA DEFESA TÉCNICA CONSTITUÍDA. AUSÊNCIA DECONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO. 1. "Nos termos do art. 392, inciso II, do Código de Processo Penal, a intimação acerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído através da publicação no órgão de imprensa oficial, sendo desnecessária a intimação pessoal"(AgRg no AREsp 1668133/SP, Rel. Ministra LAURITA VAZ, SEXTATURMA, DJe 29/6/2020). 2. A ausência de interposição do recurso de apelação pelo advogado anteriormente constituído não enseja o reconhecimento de nulidade. Deve-se observar que, diante do caráter de voluntariedade do recurso, sua não interposição não implica ausência de defesa (AgRg no RHC 111.241/PE, . Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 3/6/2019). 3. Recurso em habeas corpus desprovido.(STJ: RHC 153032/SP, rel. Min. JOEL ILAN PACIORNIK, QUINTATURMA, DJe 22/4/2022, g. n.).
+No caso, a defesa foi devidamente intimada do acórdão condenatório em questão, não havendo falar, pois, em nulidade decorrente da ausência de intimação pessoal do réu acerca do seu conteúdo.
+Por estas considerações, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
