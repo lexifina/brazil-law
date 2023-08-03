@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 63):
+CUMPRIMENTO PROVISÓRIO DE SENTENÇA Contrato Plano de saúde Pretensão ao cumprimento de obrigação imposta em tutela antecipada, exigindo-se da executada o pagamento dos honorários dos médicos que realizaram a cirurgia do exequente Determinação de cancelamento da distribuição do feito, ante a ausência de título judicial formado Advento de sentença, nos autos principais Prosseguimento do procedimento executivo PossibilidadeRecurso provido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 91):
+EMBARGOS DE DECLARAÇÃO Ausência de requisitos para a sua oposição Pretensão à rediscussão da matéria, analisada à luz da legislação a ela aplicável Descabimento Via recursal que não se presta ao reexame do aresto, tampouco ao mero prequestionamento de dispositivos constitucionais ou de lei federal supostamente violados, sobre o que já houve expressa manifestação quando do julgamento do agravo de instrumento Embargos rejeitados.
+Nas razões do apelo especial (e-STJ, fls. 67-78), o plano de saúde insurgente apontou ofensa aos arts. 783, 786 e 1.022, II, do CPC/2015.
+Sustentou, em síntese, que o acórdão objurgado teria sido omisso quanto à alegação de ausência de título executivo.
+Alegou que o título executivo ainda não se encontraria formado, uma vez que é ilíquido e lhe falta certeza, pois pendente o julgamento recurso de apelação manejado pelo autor/recorrido e do ora recorrente nos autos do processo principal.
+Argumentou que a sentença que determinou a obrigação de cobrir integralmente as despesas hospitalares seria ilíquida, devendo passar por liquidação.
+Aduziu que, se tratando de execução provisória, poderá causar prejuízo ao insurgente, sendo necessária a prestação de caução para sua concessão.
+Contrarrazões às fls. 100-108 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 109-110), levando o insurgente a interpor o presente agravo (e-STJ, fls. 113-121).
+Contraminuta às fls. 124-130 (e-STJ).
+Brevemente relatado, decido.
+De início, quanto à alegada violação ao art. 1.022 do CPC/2015, cabe esclarecer que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, não possuindo natureza de efeito modificativo.
+No caso ora em apreço, a Corte originária, para dirimir a lide, assim fundamentou (e-STJ, fl. 64; sem grifos no original):
+O agravante iniciou o cumprimento provisório de sentença, visando ao cumprimento da tutela que obteve, para que a agravada pagasse os honorários dos médicos que realizaram a cirurgia que lhe fora prescrita.
+O juiz, entendendo que o feito era prematuro, já que sequer havia sentença, determinou a sua remessa ao Distribuidor para o seu cancelamento.
+Compulsando os autos principais, verifica-se que houve o seu sentenciamento, tendo, o magistrado, julgado parcialmente procedente o pedido para tornar definitiva a tutela antecipada concedida e condenar a ré, ora agravada, a cobrir integralmente as despesas hospitalares do procedimento de transplante de fígado do agravante, nos termos da prescrição médica, sob pena de, não o fazendo, incorrer em multa.
+Assim, já havendo título, confirmando a medida liminar, o cumprimento de sentença poderá ter o seu prosseguimento retomado.
+Observa-se que, no caso apreciado, o acórdão recorrido, com base nas provas produzidas, resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte local não se pronunciou sobre o pleito do ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ele deduzida.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Nos termos do art. 1.012, §§ 1º e 2º, V, do CPC/2015, começa a produzir efeitos imediatamente após a sua publicação a sentença que confirma a tutela provisória, podendo o apelado promover o pedido de cumprimento provisório depois de sua publicação, desde que não tenha sido concedido efeito suspensivo.
+A propósito (sem grifos no original):
+AGRAVO INTERNO. PEDIDO DE AGREGAÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. EXECUÇÃO PROVISÓRIA. AUSÊNCIA DE ATOS CONSTRITIVOS. SEGURO GARANTIA JUDICIAL. INOCORRÊNCIA DE "PERICULUM IN MORA". JULGADOS DESTA CORTE SUPERIOR.
+1. Existência de norma expressa no CPC/2015, a exemplo do CPC/1973, conferindo ao vencedor (provisório) da demanda o direito de promover a execução provisória da sentença sujeita a recurso sem efeito suspensivo (art. 520 do CPC/2015).
+2. Inocorrência de "periculum in mora" em razão do mero processamento da execução provisória no juízo de origem. Julgados desta Corte Superior.
+3. Caso concreto em que o juízo está garantido por seguro garantia judicial, o que por si só impede a prática de atos constritivos (cf. art. 835, § 2º, do CPC/2015).
+4. Aplicação da multa do art. 1.021, § 4º, do CPC/2015 ao agravo interno, por se tratar de recuso manifestamente improcedente.
+5. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA.
+(AgInt na PET no AREsp 1057682/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 3/10/2017, DJe de 19/10/2017)
+No caso dos autos, a Corte originária determinou o prosseguimento do cumprimento de sentença sob o fundamento de que a sentença proferida nos autos originários tornou definitiva a tutela antecipada anteriormente concedida, condenando o plano de saúde réu, ora recorrente, a cobrir integralmente as despesas hospitalares do procedimento de transplante de fígado do recorrido.
+Destarte, com base no arcabouço fático trazido no acórdão objurgado (que não pode ser revisto nesta sea ra extraordinária, tendo em vista o óbice contido na Súmula 7/STJ), percebe-se que a decisão está em consonância com a jurisprudência deste Tribunal Superior, não merecendo, por consequência, qualquer reparo no ponto.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE CUMPRIMENTO DE OBRIGAÇÃO IMPOSTA EM TUTELA ANTECIPADA CONFIRMADA EM SENTENÇA. POSSIBILIDADE CONFORME EXPRESSA PREVISÃO DO CPC/2015. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
