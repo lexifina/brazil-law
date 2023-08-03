@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por OLIVEIRA CASTRO ADVOGADOS, com fundam ento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado (e-STJ, fls. 357-358):
+RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DE IMPUGNAÇÃO E DIVERGÊNCIA DE CRÉDITO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA IMPROCEDENTE - PROVEITO ECONÔMICO - DIFERENÇA ENTRE O VALOR DO CRÉDITO PRETENDIDO E O VALOR ADMITIDO PELO ADMINISTRADOR JUDICIAL E PODER JUDICIÁRIO - INTELIGÊNCIA DO ART. 85, § 2º, DO CPC - RECURSO CONHECIDO E PROVIDO.
+Nos termos do §2º do art. 85 do CPC, não havendo condenação, os honorários sucumbenciais devem ter como base de cálculo o proveito econômico buscado na demanda judicial, o que, in casu, é a diferença entre o valor do crédito pretendido pelo recorrente, e o valor admitido pelo Administrador Judicial e pelo Juízo de primeiro grau, sob pena de caracterização de excesso no cumprimento de sentença apresentado.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 408-418).
+Nas razões do recurso especial, o recorrente alega a ofensa aos arts. 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão quanto à constituição da coisa julgada material no que se refere à base de cálculo dos honorários advocatícios.
+Afirma, ainda, a violação aos arts. 85, 502, 508 e 1.025, todos do CPC/2015, preconizando que não há falar em alteração da base de cálculo dos honorários advocatícios, pois trata de matéria já transitada em julgada quando iniciado o cumprimento de sentença, bem como a existência de dissídio pretoriano.
+Apresentadas contrarrazões (e-STJ, fls. 569-579).
+O Tribunal de origem admitiu o processamento do recurso especial, vindo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+De início, verifica-se que o recorrente, em suas razões, alega a ofensa aos arts. 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão quanto à constituição da coisa julgada material no que se refere à base de cálculo dos honorários advocatícios.
+O Tribunal de origem, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 359-360):
+Inicialmente, necessário esclarecer que o recorrente ajuizou Ação de Impugnação ao Crédito, sustentando ser credor do terceiro interessado, em recuperação judicial, do valor de R$744.450,00.
+Quando da prolação da sentença, o Juízo a quo julgou improcedente a impugnação, mantendo o crédito do agravante na quantia de R$594.527,99 e fixando honorários sucumbenciais em favor dos agravados no montante equivalente a 10% (dez por cento) do valor do objeto da causa.
+Ato contínuo, o escritório recorrido apresentou cumprimento de sentença, postulando os seus honorários, que seriam na quantia de R$74.445,00.
+Este pedido foi impugnado pelo recorrente, que apontou o valor de R$149.922,01 como a base de cálculo para os honorários sucumbenciais, eis que corresponde ao proveito econômico pretendido na Ação de Impugnação e Divergência de Crédito que originou o presente agravo de instrumento. Portanto, este montante seria a diferença entre o valor do crédito pretendido por ele, e o valor admitido pelo Administrador Judicial e mantido pela sentença, entendendo a parte recorrente ser devido a título de honorários sucumbenciais somente a quantia equivalente a 10% (dez por cento) deste, qual seja, R$14.992,20, alegando excesso de execução.
+O Juízo de primeiro grau julgou improcedente a impugnação ao cumprimento de sentença apresentada, decisão esta que é o objeto do presente recurso.
+Convém colacionar, ainda, o seguinte trecho do acórdão proferido em embargos de declaração (e-STJ, fls. 412-417):
+No caso, não procede a alegação de omissão do julgado no tocante à eficácia preclusiva da coisa julgada da matéria em debate.
+Vale a transcrição dos trechos pertinentes, acerca do tema, em meu voto durante o julgamento do agravo, in verbis:  ..
+Assim, na ausência de vícios a serem sanados, os embargos de declaração devem ser rejeitados.
+De outro lado, não cabe ao órgão julgador manifestar sobre a aplicabilidade ou incidência de todos os artigos de lei ou argumentos citados pela parte ao longo da lide, sendo necessário, apenas, que a decisão seja clara ao manifestar os motivos pelos quais restou adotada determinada solução.
+Cabe reforçar que o Colegiado não está compelido a rebater todos os argumentos exarados pelas partes, inclusive quando resultam refutados de forma implícita por incompatibilidade com aqueles contidos na decisão hostilizada, os quais restaram considerados aptos e suficientes para a solução da demanda.  ..
+Conclui-se, portanto, que a matéria foi apreciada na oportunidade do acórdão recorrido, permitindo às partes, se assim desejarem, a interposição futura de recursos dirigidos às Cortes Superiores de Justiça.
+Com efeito, observa-se que, de fato, a Corte local não se manifestou sobre à constituição da coisa julgada material no que se refere à base de cálculo dos honorários advocatícios, em que pese a oposição dos embargos de declaração.
+Dessa forma, inarredável a conclusão de ofensa aos arts. 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não das teses invocadas, a supracitada questão deveria ter sido analisada.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Ademais, destaca-se que a análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação aos arts. 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊNCIA. ANÁLISE DAS DEMAIS TESES PREJUDICADA. RECURSO ESPECIAL PROVIDO.
