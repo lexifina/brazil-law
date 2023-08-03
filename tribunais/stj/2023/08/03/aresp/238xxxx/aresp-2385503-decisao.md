@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por MARIA RITA PEREIRA DE SOUSA desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Território assim ementado (e-STJ, fls. 298-299):
+APELAÇÃO CÍVEL. INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. GRATUIDADE DE JUSTIÇA. ILEGITIMIDADE PASSIVA. SAQUE. FRAUDE. CARTÃO DE CHIP E SENHA PESSOAL. UTILIZAÇÃO. CULPA EXCLUSIVA DO CONSUMIDOR. CONFIGURAÇÃO.
+1. A gratuidade de justiça deve ser mantida quanto preenchidos os requisitos legais e a parte adversa não demonstra alteração dessas circunstâncias.
+2. A análise das condições da ação deve ocorrer in status assertionis, isto é, segundo os fatos alegados pelo autor na inicial.
+3. As instituições financeiras submetem-se ao Código de Defesa do Consumidor (STJ, Súmula 297).
+4. Diante da natureza das atividades desenvolvidas e nos termos do art. 14 do Código de Defesa do Consumidor (CDC), a responsabilidade civil de instituição financeira é objetiva, podendo ser afastada por inexistência do defeito (falha no serviço) e/ou por culpa exclusiva do consumidor ou de terceiros.
+5. As provas produzidas não demonstram qualquer ação ou omissão do banco réu, que não concorreu nem pôde evitar os fatos narrados, o que afasta o requisito contido na Súmula 479 do STJ: "no âmbito de operações bancárias". Não há falha do banco na operação realizada autonomamente, sem sua concorrência, tendo a correntista, negligentemente, descuidado da guarda do cartão e da senha, que é sua obrigação. A instituição financeira não responde por esse descuido.
+6. "Evidenciado que a instituição financeira não contribuiu para o resultado, inexistindo nexo de causalidade entre sua conduta e os danos sofridos pelo consumidor, inexiste o dever de reparação."
+Precedente: Acórdão 1093697.
+7. Pela culpa exclusiva, apenas a vítima deve responder (CDC, art. 14, § 3º).
+8. Preliminares rejeitadas. No mérito, recurso do réu conhecido e provido. Recurso adesivo da autora prejudicado.
+Apresentados embargos de declaração pela ora agravante, estes foram rejeitados (e-STJ, fls. 390-398).
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, a recorrente alegou violação aos arts. 14, § 3º, II, do CDC e 1.022, I e II, do CPC/2015 (e-STJ, fls. 403-416).
+Sustentou, em síntese, a existência de omissão e contradição no acórdão recorrido, bem como que não há falar em culpa exclusiva da vítima.
+O Tribunal de origem não admitiu o processamento do recurso especial por ausência de violação ao art. 1.022 do CPC/2015 e em virtude da incidência da Súmula n. 7/STJ (e-STJ, fls. 419-421).
+Foi interposto agravo em recurso especial às fls. 424-431 (e-STJ).
+Brevemente relatado, decido.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da ausência de ilegalidades no processo disciplinar interno instaurado pelo Clube em detrimento do autor, bem como a respeito da proporcionalidade da sanção imposta a ele, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1384086/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021)
+O Tribunal estadual, ao julgar a apelação, assim concluiu (e-STJ, fls. 301-304):
+26. A controvérsia consiste em aferir a responsabilidade do Banco do Brasil S.A. pelos danos narrados na petição inicial, em razão de suposta fraude. 27.
+A relação entre as partes é consumerista (CDC, 2º; 3º; 14 e 17 e Súmula nº 297 do STJ).
+28. A responsabilidade civil da instituição bancária está fundamentada nas normas de relação de consumo e, diante das atividades desenvolvidas, o apelante submete-se à Teoria do Risco.
+ ..
+31. Ao se conjugar esses conceitos, conclui-se que a responsabilidade civil do banco por eventual evento danoso é objetiva, devendo a instituição responder pelo fato independentemente de culpa (já que o dever de reparar será preservado), salvo se comprovar a ausência de defeito na prestação dos serviços ou a culpa exclusiva da vítima e/ou de terceiros.
+32. A autora ingressou em juízo em desfavor do réu e pediu a devolução de R$ 2.700,00 pelos saques fraudulentos realizados em terminal 24hs no dia 12/4/2021, bem como indenização por danos morais.
+33. Afirmou que foi à agência bancária para sacar R$ 100,00 e descobriu que foram realizados 2 saques em sua conta corrente, o primeiro no valor de R$ 2.000,00 e o segundo de R$ 700,00, no intervalo de apenas 1 minuto.
+34. Disse que foi até o gerente para comunicar o fato, mas foi destratada. Registrou boletim de ocorrência e reclamação no Procon/DF. Quando retornou à agência, descobriu que o procedimento interno foi encerrado por não identificar ocorrência de fraude e o valor não seria devolvido.
+35. O réu justifica que os saques foram feitos com cartão de chip e senha pessoal. Ressalta que a autora não cumpriu com seu dever de guarda e preservação do cartão e senhas pessoais do alcance de terceiros, o que caracteriza a culpa exclusiva do consumidor.
+36. Como visto, a responsabilidade civil exige a presença concomitante de três elementos: conduta ilícita, dano e nexo de causalidade. O fornecedor não será responsabilizado quando provar que, tendo prestado o serviço, o defeito inexiste ou que houve culpa exclusiva do consumidor ou de terceiro (CDC, art. 14, §3º).
+37. Não existem filmagens para identificar quem fez os saques, pois elas são armazenadas por apenas 30 dias. Mas a lógica extraída do contexto fático-jurídico apresentado e debatido pelas partes permite esclarecer o ocorrido.
+38. Os extratos bancários da conta da autora indicam que foi solicitado novo cartão em 29/3/2021, data próxima à do evento danoso (12/4/2021) - ID nº 31806789 .
+39. A autora explicou que o seu cartão venceu em 8/2019, mas continuou usando até 9/2020, momento em que o dispositivo parou de funcionar. Foi até a agência e solicitou outro, pois o que teria sido enviado pelos Correios não foi entregue (ausente 3 vezes). Apesar da afirmativa de que esse cartão teria sido utilizado nos saques fraudulentos, é certo que o uso de um novo dispositivo bloqueia o antigo.
+40. É fato processual que a autora utilizou o cartão normalmente mesmo após os saques questionados. Mesmo após a descoberta da alegada fraude, a autora não trocou o cartão nem a senha, providência normalmente tomada em situações como a relatada para evitar novas ações de terceiros. A conta continuou a ser utilizada normalmente e não ocorreram novas transações suspeitas.
+41. Chama a atenção o fato de que, mesmo após a ação considerada ilegal, havia saldo na conta, o que não condiz com outros casos envolvendo golpes bancários.
+42. Do comportamento da autora e dos extratos bancários é possível concluir que não há, nem residualmente, qualquer contribuição do Banco do Brasil S/A para o fato narrado.
+43. Não há qualquer ação ou omissão da instituição financeira, que não poderia evitar nem concorreu para os fatos narrados pela autora. Não há a condição que a Súmula 479do STJ impõe: "no âmbito de operações bancárias". Não há falha do banco na operação bancária realizada autonomamente, sem sua concorrência, tendo a autora, negligentemente, descuidado da guarda do cartão e da senha, que é obrigação da correntista. A instituição financeira não responde por esse descuido.
+44. A jurisprudência do STJ e deste Tribunal é unânime no sentido de que o titular do cartão de crédito é responsável pela sua guarda e manutenção do sigilo da respectiva senha. A alegação de que o cartão foi utilizado indevidamente por terceiros, quando imprescindível a inserção de senha para autorizar as transações, impossibilita a presunção da ocorrência de fraude e o ônus da prova deve ser atribuído ao consumidor que dela não se desincumbiu.
+ ..
+45. Vale lembrar que a inversão do ônus probatório não afasta a necessidade de corroboração mínima dos fatos alegados, que, na hipótese, foram refutados pelo próprio comportamento da autora.
+46. O contexto fático demonstra que não houve falha no serviço do banco, o que afasta a responsabilidade pelas transações reclamadas pelo consumidor, tanto por ausência de defeito quanto pela culpa exclusiva da vítima, nos termos do art. 14, § 3º do CDC.
+47. A sentença deve ser reformada. Todos os pedidos iniciais devem ser julgados improcedentes. Por consequência, julgo prejudicados os pleitos subsidiários e o recurso adesivo.
+Como se depreende, convicção a que chegou o acórdão recorrido a respeito da culpa exclusiva da recorrente decorreu da análise do conjunto fático-probatório da causa, questão cujo reexame é vedado em âmbito de recurso especial, nos termos da Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, §11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre a base de cálculo fixada na origem, suspensa a exigibilidade em razão da gratuidade de Justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANO MORAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CULPA EXCLUSIVA. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
