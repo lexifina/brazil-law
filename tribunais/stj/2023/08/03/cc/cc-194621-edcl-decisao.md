@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLERIO ARLINDO DA COSTA contra decisão, acostada às fls. 265-268, da lavra deste signatário que conheceu do conflito de competência instaurado e declarou a competência exclusiva do r. Juízo de Direito da 3.ª Vara Cível de Venâncio Aires-RS para a prática de atos de constrição sobre o patrimônio da empresa KLIMA REFRIGERAÇÃO LTDA. e OUTROS, em recuperação judicial (Processo n.º 077/1.18.0003503-6), bem como para exercer o controle sobre bens e valores pertencentes às recuperandas, que eventualmente ainda permaneçam bloqueados/arrecadados naqueles autos.
+Inconformado, o ora embargante, na condição de sócio das empresas em recuperação, sustenta, em resumo, que "(..) esta C. Corte Julgadora ao proferir decisão definitiva, nada manifestou quanto a proibição dos atos de constrição, em face dos bens dos sócios da empresa em recuperação, mormente quando o plano de recuperação judicial justamente veda tal procedimento, consoante suscitado nos itens "1.2.2", "1.2.2.1", "1.2.3", "4.4", "6.3.4", "6.4"e "6.5" da peça inaugural."
+Requer o acolhimento dos embargos de declaração (fls. 273-275).
+Sem impugnação (fl. 280).
+É o relatório.
+Decide-se.
+Os presentes embargos de declaração merecem acolhimento.
+1. Nos estreitos lindes do art. 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, com razão o embargante porquanto o r. Juízo da recuperação judicial destacou que "(..) a sentença proferida atinge os sócios nos termos da referida cláusula, tendo em vista que homologado o plano na qual ela consta", revelando que os bens dos sócios das empresas recuperandas também se encontram submetidos ao sistema protetivo do processo de soerguimento, merecendo, portanto, o acolhimento da insurgência.
+Com efeito, o dispositivo da decisão embargada passa a constar o seguinte dispositivo:
+"Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo de Direito da 3.ª Vara Cível de Venâncio Aires-RS, para a prática de quaisquer atos constritivos/executórios sobre o patrimônio das empresas recuperandas e de seus sócios, relativos à Reclamação Trabalhista n.º 0020086-09.2014.5.04.0731, em curso perante o r. Juízo da 1ª Vara do Trabalho de Santa Cruz do Sul/RS, bem como para exercer o controle sobre bens e valores pertencentes às empresas recuperandas e aos seus sócios, que eventualmente ainda permaneçam bloqueados/arrecadados nos referidos autos .
+Publique-se. Intimem-se."
+2. Do exposto, acolho os presentes embargos de declaração nos termos da fundamentação supracitada.
+Publique-se. Intimem-se.
