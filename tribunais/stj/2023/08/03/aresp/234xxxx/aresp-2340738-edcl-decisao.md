@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de novos embargos de declaração opostos por RENAN UCHOA DANTAS em face da decisão que rejeitou os primeiros embargos de declaração.
+Em suas razões, sustenta a parte embargante, in verbis:
+Em que pese o entendimento de Vossa Excelência, a r. decisão e-STJ Fl.522/530 foi omissa, tendo em vista a ausência de pronunciamento quanto a inexistência de pretensão de reexame de fatos ou provas, posto que o que se busca é sanar uma falha irremediável quando, equivocadamente, deu-se aos fatos discorridos e às provas insertas aos fólios e debatidas no decorrer da lide processual, uma qualificação jurídica desacertada.
+Ademais, não fora considerada a indicação precisa e pormenorizada do dispositivo legal violado, tecendo-se, exaustivamente, acerca da não existência de prova produzida, diante do crivo do contraditório e da ampla defesa, que demonstre que o Embargante, é atirador com porte de CAC"s e possui autorização para o uso de arma de fogo para a prática da atividade, efetuou disparos em via pública, sendo, deste modo, contrariado o disposto no art. 386, VII do Código de Processo Penal.
+Diante disso, há a necessidade de REVALORAÇÃO DO FATO DEVIDAMENTE COMPROVADO, posto que não existe qualquer prova produzida diante do crivo do contraditório e da ampla defesa que demonstre que o Embargante praticou os delitos que lhe foram imputados.
+Ainda, a decisão vergastada demonstra incorreção quando se ocupou do enquadramento dos fatos à norma aplicada. Com efeito, nessas circunstâncias, emerge inescusável necessidade de revaloração do fato comprovado. Por esse ângulo, por ter-se, no caso em questão, o fito único relativo à incorreta qualificação jurídica dos fatos, verifica-se que a demanda se trata, pelos motivos explicitados, de se examinar matéria de direito, não havendo que se falar em óbice da Sumula 7 do Superior Tribunal de Justiça (fl. 554).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Conforme já ressaltado na decisão embargada, os embargos de declaração possuem fundamentação vinculada, destinando-se a suprir omissão, eliminar contradição ou ambiguidade e afastar obscuridade existentes no julgado, vícios que não se verificam na espécie, pois o presente recurso veicula mero inconformismo com o conteúdo da decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
