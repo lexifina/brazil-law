@@ -7,6 +7,7 @@ IV-A - estabelecer, em colaboração com os Estados, o Distrito Federal e os Mun
 V - coletar, analisar e disseminar informações sobre a educação;
 VI - assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino;
 VII - baixar normas gerais sobre cursos de graduação e pós-graduação;
+VII-A - assegurar, em colaboração com os sistemas de ensino, processo nacional de avaliação das instituições e dos cursos de educação profissional técnica e tecnológica;
 VIII - assegurar processo nacional de avaliação das instituições de educação superior, com a cooperação dos sistemas que tiverem responsabilidade sobre este nível de ensino;
 IX - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino.
 § 1º Na estrutura educacional, haverá um Conselho Nacional de Educação, com funções normativas e de supervisão e atividade permanente, criado por lei.
