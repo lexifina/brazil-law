@@ -1,0 +1,1 @@
+Art. 90-A. Até a entrada em vigor da lei de que trata o art. 14, os Conselhos Escolares e os Fóruns dos Conselhos Escolares já instituídos continuarão a observar as normas expedidas pelos respectivos sistemas de ensino.
