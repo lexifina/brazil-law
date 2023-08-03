@@ -10,3 +10,4 @@ VIII - notificar ao Conselho Tutelar do Município a relação dos alunos que ap
 IX - promover medidas de conscientização, de prevenção e de combate a todos os tipos de violência, especialmente a intimidação sistemática (bullying), no âmbito das escolas;
 X - estabelecer ações destinadas a promover a cultura de paz nas escolas.
 XI - promover ambiente escolar seguro, adotando estratégias de prevenção e enfrentamento ao uso ou dependência de drogas.
+XII - instituir, na forma da lei de que trata o art. 14, os Conselhos Escolares.

@@ -6,4 +6,5 @@ IV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente
 V - baixar normas complementares para o seu sistema de ensino;
 VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio a todos que o demandarem, respeitado o disposto no art. 38 desta Lei;
 VII - assumir o transporte escolar dos alunos da rede estadual.
+VIII - instituir, na forma da lei de que trata o art. 14, Conselhos Escolares e Fóruns dos Conselhos Escolares.
 Parágrafo único. Ao Distrito Federal aplicar-se-ão as competências referentes aos Estados e aos Municípios.
