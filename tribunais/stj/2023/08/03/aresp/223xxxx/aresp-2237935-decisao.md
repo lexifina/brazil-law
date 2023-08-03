@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo apresentado por JULIANO ANDRE DE FARIAS para impugnar decisão que não admitiu o recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 43):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DECISÃO QUE NEGOU A CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. INSURGÊNCIA. CONDIÇÃO DE HIPOSSUFICIÊNCIA. NÃOACOLHIMENTO. AGRAVANTE QUE SE RECUSOU A JUNTARAO FEITO OS DOCUMENTOS COMPROBATÓRIOS DE SUACONDIÇÃO FINANCEIRA. PRESUNÇÃO DEHIPOSSUFICIÊNCIA QUE É RELATIVA, PODENDO SERAFASTADA. DECISÃO QUE NÃO ENSEJA REFORMAS. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 551-67), embasadas no art. 105, III, a, da Constituição da República, a parte agravante apontou violação dos arts. 98, § 3º e 99, §§ 3º, 4º e 6º do CPC/2015, sustentando, em suma, fazer jus ao benefício da assistência judiciária gratuita, "posto que não possui condições de honrar com as custas do processo sem prejudicar o seu sustento e/ou de sua família, à medida em que é Pai de e ainda auxilia a sua mãe, sendo medida imperiosa a concessão da gratuidade processual" (e-STJ, fl. 59).
+Brevemente relatado, decido.
+O Tribunal de Justiça manteve a decisão que indeferiu o pleito de gratuidade de justiça por verificar, diante do conjunto probatório produzido, que a parte requerente não se enquadrava no conceito de pessoa necessitada (e-STJ, fl. 47):
+Compulsando os autos, verifica-se que, mesmo após devidamente instruído a acostar ao feito os comprovantes de sua renda (última declaração do imposto de renda ou a declaração de isenção, assim como o último holerite), o Agravante deixou de fazê-lo, já com a ciência da possibilidade de indeferimento da petição inicial no caso de descumprimento da determinação (movs. 10.1 e 14.1).
+Com efeito, tudo indica que a decisão objurgada se encontra alinhada, uma vez que a presunção de hipossuficiência é relativa e a parte, mesmo ciente da consequência jurídica, negou-se a instruir o feito conforme determinado pelo Magistrado competente.
+E a inércia simboliza que a parte pode arcar com as custas e despesas processuais. Caso assim não fosse, na primeira ocasião teriam apresentado os documentos comprobatórios.
+Enfim, destaco que as razões recursais apresentadas a esta Corte de Justiça não representam situação de perigo iminente ao recorrente.
+Diante disso, ao que tudo aponta, o caso em apreço não apresenta situação peculiar a autorizar o deferimento da justiça gratuita ou a redução no valor.
+Assim, o Agravante não se enquadra na concepção jurídica de hipossuficiência financeira, a fim de justificar a concessão da benesse, de modo que o recurso não merece acolhimento.
+Nesse contexto, examinando as razões do acórdão recorrido, depreende-se que a Corte de origem delineou a controvérsia dentro do universo fático-probatório dos autos e, analisando as particularidades do caso concreto, concluiu pela ausência de comprovação da situação de miserabilidade da parte agravante.
+Dessa forma, o acolhimento da tese veiculada nas razões do recurso especial, concentrada na alegação da impossibilidade de arcar com as custas e despesas do processo, em confronto com a conclusão assentada pela Corte estadual, não prescindiria do reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA. CERCEAMENTO DE DEFESA. INOVAÇÃO. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ASSISTÊNCIA JUDICIÁRIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É impossível a análise de teses alegadas apenas nas razões do agravo interno por se tratar de evidente inovação recursal.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca do não cumprimento dos requisitos necessários à concessão da gratuidade da justiça encontra óbice na Súmula nº 7/STJ.
+5. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+6. Ausente o prequestionamento, até mesmo de modo implícito, dos temas suscitados no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+7. Agravo interno não provido.
+(AgInt no AREsp 1753969/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/09/2021, DJe 24/09/2021)
+Diante do exposto, nego provimento ao agravo.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO NA ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO ESTADO DE HIPOSSUFICIÊNCIA ECONÔMICA. ANÁLISE DOS REQUISITOS PARA CONCESSÃO DA GRATUIDADE PLEITEADA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
