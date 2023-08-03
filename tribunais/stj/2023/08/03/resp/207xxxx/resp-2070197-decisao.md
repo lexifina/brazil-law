@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+DANO MORAL - PLANO DE SAÚDE - SERVIÇOS DO CHAMADO HOME CARE - FALTA DE PROVA DE FALHA DA MODALIDADE - EXCLUSÃO CONTRATUAL DESSE ATENDIMENTO PLENAMENTE VÁLIDA - JUDICIÁRIO QUE NÃO PODE CRIAR CLÁUSULA CONTRATUAL REQUISITOS ELEITOS PELO MAGNÍFICO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO CORPORIFICADOS - AÇÃO IMPROCEDENTE - SENTENÇA REFORMADA - RECURSO ADESIVO NÃO CONHECIDO - APELAÇÃO PROVIDA.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, apontam os recorrentes existência de dissídio jurisprudencial, além de violação dos artigos 186 e 187 do Código Civil e de dispositivo constitucion al.
+Alegam que fazem jus à reparação econômica por dano moral, dada a abusividade na recusa de tratamento/procedimento médico prescrito para genitora deles.
+O recurso foi admitido na origem, nos termos da decisão de fls. 224-225, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Na hipótese dos autos, o Tribunal de origem assim se manifestou sobre a controvérsia (fl. 190, e-STJ):
+O pleito inicial, e bem assim o Recurso Adesivo, estão afeiçoados por vã cobiça - mormente em função do astronômico valor pleiteado a respeito da tal reparação moral pretendida; o recurso contraria a R. sentença, com alqueires de razão - pois que se não localiza falha alguma no atendimento, que pudera propiciar a indenização alvitrada; o fornecimento da medicamentação de que necessitada a partida havia que ser realizado em ambiente hospitalar, inexistente de aí conduta lesiva para a segurada; NÃO HÁ PROVA ALGUMA DO MAU ATENDIMENTO REVELADO - vendo-se a fls.108 declaração do Facultativo, dando conta do atendimento fornecido, insuficientes as alegações a respeito das falhas alvitradas, que se não nas localizam, mesmo porque a cobertura não é ilimitada, para insumos e alimentação - e em verdade o que se obriga é que a parte A. exigiu da Operadora supressão de comportamentos que a família os deveria prover - tendo havido fornecimento de atendimento, além do que é nítida a prevalência do Contrato - que não detinha a chamada CLÁUSULA HOME CARE.
+(..)
+Assim, a defensão da afeitada tese do A. não pode receber acatamento, pois que não há prova alguma, exigível do A., mormente a teor do item "c" suso revelado - pelo que a equivocada visão da parte A. esbarra no contrato: os cuidados com a enferma hão que ser realizados por cuidadora ou familiares - e é para isso que existem os laços sangüíneos, para amparo e ajuda mútua, e sem interferência da Operadora, que jamais poderá ser obrigada à concessão de cuidados que a família os deve prover. E isso sem falar, como suso exposto, na FALTA DE PROVA do alegado.
+Entende-se que a situação de fato, para gerar danos morais, deveria ter repercutido no patrimônio imaterial dos autores de forma reflexa, o que não ficou demonstrado. Conforme delineado no acórdão recorrido, a conduta da operadora do plano de saúde não agravou o momento delicado pelo qual passaram os autores, além de inexistir prova de que a conduta da ré resultou em atraso no tratamento, prolongamento do sofrimento físico ou outra circunstância que extrapolasse o mero descumprimento contratual. De modo que as ocorrências narradas não geram, por si sós, dano à moral.
+Nesse contexto, verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Confira-se:
+RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DE TRATAMENTO. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO. DANO MORAL NÃO CONFIGURADO. CONDENAÇÃO À OBRIGAÇÃO DE FAZER. COBERTURA DE INTERNAÇÃO DOMICILIAR (HOME CARE). PROVEITO ECONÔMICO IMENSURÁVEL. CRITÉRIO PARA O ARBITRAMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA. VALOR DA CAUSA. JULGAMENTO: CPC/2015.
+1. Ação cominatória c/c compensação por dano moral ajuizada em 17/10/2017, da qual foi extraído o presente recurso especial, interposto em 17/12/2019 e concluso ao gabinete em 19/11/2020.
+2. O propósito recursal é decidir sobre a configuração do dano moral e o critério para fixação dos honorários advocatícios de sucumbência.
+3. O descumprimento contratual, por parte da operadora de plano de saúde, que implica negativa ilegítima de cobertura para procedimento médico, somente enseja reparação a título de danos morais quando trouxer agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+(..)
+6. Recurso especial conhecido e desprovido, com majoração de honorários.
+(REsp n. 1.904.603/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 24/2/2022)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
