@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por 3Z ESPACO JARDINS EMPREENDIMENTOS IMOBILIÁRIOS SPE I LTDA. fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL - Ação de revisão contratual c.c. pedido de devolução de valores e indenização por danos materiais - Contrato de compra e venda de imóvel  Devolução da comissão de corretagem e taxa SATI  Teses firmadas em sede de recurso repetitivo no STJ - Contrato que não prevê a transferência ao promitente-comprador da obrigação de pagar a comissão de corretagem - Atraso na entrega da obra  Mora da ré configurada  Prazo de tolerância válido  Lucros cessantes devidos durante o período de mora - Mora que somente se encerra com a efetiva entrega das chaves, não bastando a comprovação da expedição do "Habite-se" - Saldo devedor que não pode ser corrigido pelo INCC durante o período de mora  Sentença de procedência mantida - Recurso não provido" (fl. 395, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 430/435, e-STJ).
+No recurso especial, a recorrente alega a violação dos artigos 1.022 do Código de Processo Civil e 393, 403, 422 e 884 do Código Civil.
+De início, aduz que teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios em relação à ciência da parte pela cobrança da corretagem, sobre a ocorrência de caso fortuito e força maior, inexistência de lucros cessantes, validade do contrato, previsão de correção monetária e enriquecimento ilícito advindo da obrigação de reembolso.
+Além disso, defende que o atraso pela entrega do imóvel decorreu de caso fortuito ou força maior, o que exclui a sua responsabilidade.
+Assevera que deve ser afastado o pagamento de lucros cessantes porque a recorrida não demonstrou os prejuízos alegados e nem que deixou de perceber valores advindos do imóvel.
+Defende ser plenamente cabível a correção monetária do saldo devedor pelo INCC, nos termos previstos no contrato.
+Aduz que a parte recorrida tinha total ciência do serviço de corretagem que lhe foi prestado, sendo incabível a restituição da comissão de corretagem e SATI.
+Contrarrazões às fls. 440/454 (e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No tocante à violação do art. 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2017, DJe 16/5/2017 - grifou-se).
+Em relação à alegada exclusão de responsabilidade pelo atraso na entrega do imóvel,
+"essa Corte já se pronunciou em inúmeras oportunidades no sentido de que a inversão das conclusões da Corte local para afirmar, por exemplo, que o excesso de chuvas e a escassez de mão de obra configuram fatos extraordinários e imprevisíveis, enquadrando-se como hipóteses de caso fortuito ou força maior, demandaria o reexame do conjunto fático-probatório dos autos" (REsp 1.536.354/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 20/6/2016).
+No mesmo sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. LUCROS CESSANTES. DANO MATERIAL PRESUMIDO. TERMO FINAL. PRECEDENTES. VALOR. SÚMULA 7 DO STJ. JUROS DE OBRA. COBRANÇA NO PERÍODO DA MORA. IMPOSSIBILIDADE. JURISPRUDÊNCIA REPETITIVA DO STJ. DANO MORAL. OCORRÊNCIA. VALOR. SÚMULA 7 DO STJ. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reconhecimento de caso fortuito, força maior ou culpa de terceiro, no atraso da entrega do imóvel, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+(..)
+8. Agravo interno não provido" (AgInt nos EDcl no REsp n. 1.936.821/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022).
+Quanto aos lucros cessantes, a Segunda Seção desta Corte firmou entendimento, sob o rito dos recursos repetitivos, no sentido de que,
+"no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DE OBRA. LUCROS CESSANTES. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ. REEXAME DE CONTRATOS, FATOS E PROVAS. SÚMULAS 5 E 7/STJ. MULTAS DOS ARTS. 81 E 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, o prejuízo do promitente comprador é presumido em hipótese de inexecução do contrato de compra e venda por atraso na entrega do imóvel. Portanto, incide, na espécie, o veto da Súmula 83 desta Corte.
+(..)
+4. Agravo interno improvido" (AgInt no REsp n. 2.036.705/PA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+Assim, o acórdão recorrido está em consonância com o entendimento dominante desta Corte no ponto, o que atrai a aplicação da Súmula nº 568/STJ.
+No que tange à comissão de corretagem e à TAXA SATI, a Corte local reconheceu a abusividade desta última e consignou que "o contrato firmado entre as partes não previu essa cláusula, de modo que a devolução do valor pago a título de comissão de corretagem é de rigor" (fl. 399, e-STJ).
+Com efeito, rever tal entendimento, a partir da tese de que a recorrida tinha ciência da cobrança de comissão de corretagem e da taxa SATI, demandaria a análise de fatos, de provas e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas nº 5 e 7/STJ.
+A respeito, confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS MORAIS CONFIGURADOS DE FORMA EXCEPCIONAL. OFENSA A DIREITOS DA PERSONALIDADE QUE EXASPERAM MERO DISSABOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. COBRANÇA DE COMISSÃO DE CORRETAGEM. AUSÊNCIA DE PREVISÃO NO CONTRATO. SÚMULA 5/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Na hipótese, o eg. Tribunal estadual, com arrimo nas peculiaridades do caso concreto, concluiu pela inexistência de previsão no contrato quanto à cobrança de comissão de corretagem, assim como o valor não fora transcrito na cláusula descritiva do montante devido, não sendo possível a retenção dos valores pagos a título de comissão de corretagem. Para modificar esse entendimento, seria necessário analisar as cláusulas contratuais, providência incompatível com o recurso especial, a teor da Súmula 5/STJ.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.042.494/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. ATRASO NA ENTREGA DA OBRA. PROGRAMA MINHA CASA MINHA VIDA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. PAGAMENTO DA COMISSÃO DE CORRETAGEM. TAXA SATI. DEVER DE INFORMAÇÃO NÃO CUMPRIDO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA 568 DO STJ. TEMA 938 DO STJ.
+1. Cuida-se, na origem, de ação de indenização por dano material e compensação por dano moral decorrente de atraso na entrega de unidade imobiliária, adquirida por meio do Programa Minha Casa Minha Vida.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. É válida a cláusula contratual que transfere a obrigação do pagamento da comissão de corretagem ao adquirente do imóvel, desde que previamente informado do repasse (REsp 1.599.511/SP, 2ª Seção, DJe de 06/09/2016 - Tema 938 do STJ).
+4. A Corte de origem expressamente consignou que não houve comprovação nos autos de que o recorrido foi devidamente informado sobre a obrigação de pagar a comissão de corretagem e a taxa SATI, e alterar as referidas conclusões do acórdão impugnado, exige o reexame de fatos e provas e a interpretação de cláusula contratuais.
+Incidência das Súmulas 5 e 7/STJ.
+5. Agravo interno no recurso especial não provido" (AgInt no REsp n. 1.850.275/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2021, DJe de 12/8/2021).
+Em relação à correção monetária, se colhe no julgado atacado que
+"(..) o INCC somente pode ser aplicado durante o prazo previsto para a construção da obra, já que sua finalidade é apurar a evolução dos custos das construções habitacionais. Após o prazo previsto para conclusão da obra, escoado o de tolerância, a correção monetária deverá ser substituída por outro índice que melhor represente a inflação do período posterior, sob pena de enriquecimento ilícito da ré, que se beneficiou da própria mora" (fl. 399, e-STJ).
+De fato, esse entendimento, está em consonância com a jurisprudência do STJ, o que atrai a aplicação da Súmula nº 568/STJ, e não pode ser modificado na via do recurso especial, sob pena de incidência da Súmula nº 5/STJ.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. CASO FORTUITO. SÚMULA 7/STJ. INDENIZAÇÃO. TERMO FINAL. ENTREGA DAS CHAVES. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. CORREÇÃO MONETÁRIA. INCC. INAPLICABILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO
+(..)
+4. Nos termos da jurisprudência desta Corte, não se aplica o INCC para correção do saldo devedor após o transcurso da data-limite para a entrega da obra. Incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento" (AgInt nos EDcl no REsp n. 1.853.965/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 2/5/2023.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. IMÓVEL FINANCIADO PELO PROGRAMA MINHA CASA MINHA VIDA. ATRASO NA ENTREGA DA OBRA. CORREÇÃO MONETÁRIA DO SALDO DEVEDOR. SUBSTITUIÇÃO DO ÍNDICE DA CONSTRUÇÃO CIVIL PELO IPCA. ENTENDIMENTO FIRMADO EM JULGAMENTO DE RECURSO ESPECIAL REPETITIVO (TEMA 996). AGRAVO INTERNO PROVIDO.
+1. A eg. Segunda Seção desta Corte, em julgamento submetido ao rito dos recursos repetitivos (Tema 996), firmou o entendimento de que, nos contratos de promessa de compra e venda de imóvel firmados no âmbito do Programa Minha Casa Minha Vida, "O descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor." (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, j. em 25/9/2019, DJe de 27/09/2019).
+2. Agravo interno provido, para reformar em parte a decisão agravada" (AgInt no REsp 1.476.058/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. INADIMPLEMENTO CONTRATUAL. MORA EXCLUSIVAMENTE DA CONSTRUTORA. SALDO DEVEDOR. ÍNDICE DE CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO. POSSIBILIDADE.
+1. (..)
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, após o prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA. Precedentes.
+3. Agravo interno não provido" (AgInt no REsp 1.871.402/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2020, DJe de 17/11/2020).
+Ante o exposto, conheço parcialmente do recurso especial para negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro a verba honorária de 15% (quinze por cento) sobre o valor da condenação para 20% (vinte por cento).
+Publique-se.
+Intimem-se.
