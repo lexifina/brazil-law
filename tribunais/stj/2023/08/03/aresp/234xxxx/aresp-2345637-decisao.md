@@ -1,0 +1,7 @@
+DECISÃO
+Vieram os presentes autos ao Superior Tribunal de Justiça para apreciação de dois agravos interpostos, o primeiro, por Ello Especialidades Médicas Clínica Popular Ltda. (e-STJ, fls. 446-490), e, o segundo, por Rodrigo Lambert Dias (e-STJ, fls. 493-520), derivados dos recursos especiais por eles apresentados contra o acórdão proferido pela Décima Terceira Câmara de Direito Privado do Tribunal de Justiça de São Paulo no julgamento do Agravo de Instrumento n. 2289173-22.2020.8.26.0000.
+Estando pendente de análise e decisão os referidos agravos, o agravante Rodrigo Lambert Dias protocolizou a Petição n. 703.135/2023 (e-STJ, fl. 565) para noticiar a celebração de acordo no processo de execução do qual tirado o agravo de instrumento que inaugura estes autos, já submetido ao juízo de primeiro grau e por ele homologado (e-STJ, fls. 566-572).
+A notícia da celebração do acordo é reveladora, dados os termos do ajuste, da perda superveniente do interesse recursal de ambas as partes, donde sem utilidade a apreciação de seus respectivos agravos.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicados os agravos em recurso especial de fls. 446-490 e 493-520 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a imediata baixa dos autos à origem.
+Publique-se.
