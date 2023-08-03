@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se  de  embargos  declaratórios  opostos  por  ODAIR  JOSE  DO  NASCIMENTO  apontando  contradição  na  decisão  monocrática  de  minha  lavra  (e-STJ  fls.  152/158)  em  que  deneguei  a  ordem  de  habeas  corpus.
+Em  breve  resumo,  relato  que,  em  suas  razões,  alega  o  embargante  que,  na  decisão  monocrática,  houve  contradição,  considerando-se  que  tal  decisum  analisou  o  pleito  sob  a  ótica  de  que  a  confissão  só  poderia  ser  reconhecida  se  debatida  perante  os  jurados;  todavia,  "no  caso  ora  em  apreço,  não  se  trata  de  processo  que  fora  submetido  à  apreciação  dos  jurados"  (e-STJ  fl.  162).
+No  mais,  apresenta  argumentos  relativos  ao  cabimento  da  aplicação  da  atenuante  da  confissão  extrajudicial.
+Busca,  assim,  sejam  acolhidos  os  embargos  para  sanar  o  vício  apontado.
+É  o  relatório.
+Decido.
+Os  embargos  de  declaração,  nos  termos  do  art.  619  do  Código  de  Processo  Penal,  supõem  defeitos  na  mensagem  do  julgado,  em  termos  de  ambiguidade,  omissão,  contradição  ou  obscuridade,  isolada  ou  cumulativamente.
+Vejo  que  não  assiste  razão  ao  embargante  no  que  se  refere  à  existência  de  contradição  na  decisão  guerreada.
+Quanto  ao  ponto,  a  hipótese  de  contradição  prevista  no  artigo  382  do  Código  de  Processo  Penal,  na  forma  dos  artigos  619  e  620,  ambos  do  mesmo  Código,  é  aquela  que  abrange  vício  intrínseco  ao  próprio  julgado  proferido,  que,  em  partes  diversas  da  decisão,  apresenta  entendimentos  contraditórios  entre  si.
+Ou  seja,  "a  contradição  sanável  mediante  embargos  de  declaração  é  aquela  interna  ao  julgado  embargado,  que  se  dá  entre  a  fundamentação  e  o  dispositivo,  de  modo  a  evidenciar  uma  ausência  de  logicidade  no  raciocínio  desenvolvido  pelo  julgador.  Portanto,  o  recurso  integrativo  não  se  presta  a  corrigir  eventual  desconformidade  entre  a  decisão  embargada  e  a  prova  dos  autos,  ato  normativo,  ou  acórdão  proferido  pelo  tribunal  de  origem  ou  em  outro  processo"  (AgInt  no  REsp  1696413/SP,  relatora Ministra  Regina  Helena  Costa,  Primeira Turma,  julgado  em  29/4/2019,  DJe  2/5/2019).
+Todavia,  apesar  de  não  se  observar  contradição  entre  os  fundamentos  apresentados  no  decisum  embargado,  entendo  que  há  que  se  tornar  sem  efeito  a  decisão  de  e-STJ  fls.  152/158  pela  existência  de  erro  material,  uma  vez  que  seus  fundamentos  se  referem  a  procedimento  referente  aos  processos  que  tramitam  sob  o  rito  do  Tribunal  do  Júri,  o  que  não  é  o  caso  da  ação  penal  em  questão.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  ante  a  ausência  da  alegada  contradição,  mas  torno  sem  efeito  a  decisão  de  e-STJ  fls.  152/158,  em  razão  do  erro  material,  nos  termos  acima  delineados.
+Publique-se.  Intimem-se.
+Após,  voltem  os  autos  conclusos  para  que  nova  decisão  seja  proferida.
