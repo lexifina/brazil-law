@@ -1,0 +1,2 @@
+Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a educação profissional e tecnológica e articular a educação profissional técnica de nível médio com programas de aprendizagem profissional, e a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre isenção do cômputo de determinados rendimentos no cálculo da renda familiar per capita para efeitos da concessão do Benefício de Prestação Continuada (BPC).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
