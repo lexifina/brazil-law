@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCO ALVES DE SOUZA NETTO e RENATA CAVALCANTE SOBRAL contra a decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que não admitiu o recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 774/781, in verbis:
+Trata-se de Agravos interpostos por ELÍSIO BRITO DE MEDEIROS GALVÃO, FRANCISCO ALVES DE SOUZA NETTO ou FRANCISCO ALVES DE SOUSA NETTO e RENATA CAVALCANTE SOBRAL, inconformados com as decisões proferidas pelo Vice-Presidente do Tribunal Regional Federal da 5ª Região que, em juízos de admissibilidade, negou seguimento aos seus Recursos Especiais, nos seguintes termos:
+FRANCISCO ALVES DE SOUZA NETTO ou FRANCISCO ALVES DE SOUSA NETTO e RENATA CAVALCANTE SOBRAL: "Todavia, entendo que não merece prosperar a insurgência dos recorrentes quanto à alegada ofensa aos arts. 619 e 620 do CPP. Isso porque o Tribunal de origem não está obrigado a se manifestar expressamente sobre todos os argumentos levantados pelas partes, rebatendo-os um a um, de modo que, ao deliberar de forma diversa da pretendida, sob outro prisma de fundamentação, rejeitou, deveras, a tese dos recorrentes." (Fls. 735/736) ELÍSIO BRITO DE MEDEIROS GALVÃO "Verifico que o recorrente ELÍSIO BRITO DE MEDEIROS GALVÃO interpôs recurso especial (certidão de fl. 588) antes do julgamento dos embargos de declaração pelo órgão colegiado (fls. 589/593).
+O Excelso Supremo Tribunal Federal e o colendo Superior Tribunal de Justiça já firmaram o entendimento de que a ausência de reiteração do recurso extraordinário/especial, após a publicação do acórdão dos embargos declaratórios, implica a intempestividade do respectivo recurso, obstando-lhe o conhecimento." (Fls. 737)
+Na minuta inserta às fls. 740/744, o Agravante ELÍSIO BRITO DE MEDEIROS GALVÃO, reiterando os termos do Recurso Especial, sustenta que a necessidade de reiteração do Especial após o julgamento de Embargos de Declaração manejado por corréu não consta da legislação federal.
+Já os Agravantes FRANCISCO ALVES DE SOUZA NETTO ou FRANCISCO ALVES DE SOUSA NETTO e RENATA CAVALCANTE SOBRAL, às fls. 745/761, alegam que não requereram a expressa manifestação do Tribunal a quo sobre todos os argumentos levantados pela defesa mas apenas sobre os fatos, determinados como crime, e as provas existentes nos autos.
+Apresentada a contraminuta aos Agravos às fls. 765, os autos subiram a esse Superior Tribunal de Justiça e vieram, na forma digitalizada, para manifestação do Ministério Público Federal.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+De início, verifico que os fundamentos da decisão que não admitiu o apelo raro foram suficientemente impugnados, razão pela qual conheço do presente agravo.
+Outrossim, verifico, de plano, a viabilidade do recurso especial quanto às teses aventadas em suas razões (violação ao disposto nos arts. 157, 381, II e III, 382, 386, II, III e IV, 619 e 620, todos do Código de Processo Penal).
+Antes de analisar o mérito do recurso, no entanto, constato a perda do seu objeto, tendo em vista que a pretensão punitiva está prescrita. Senão, vejamos.
+Os agravantes foram condenados à pena de 3 anos de reclusão pelo delito tipificado no art. 1º, I, do Decreto-lei n. 201/1967.
+Desse modo, tendo em vista que a reprimenda não excede a 4 anos, a prescrição ocorre em 8 anos, nos termos do art. 109, IV, do Código Penal.
+Assim, é de rigor o reconhecimento da prescrição da pretensão punitiva, tendo em vista o transcurso desse lapso prescricional entre a publicação do acórdão impugnado, último marco interruptivo (27/6/2014 - conforme e-STJ fl. 636), e a presente data.
+Ante o exposto, com fulcro no art. 109, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade dos agravantes, pela prescrição da pretensão punitiva, e julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
