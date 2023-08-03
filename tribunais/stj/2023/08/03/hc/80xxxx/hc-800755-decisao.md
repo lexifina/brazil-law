@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ ANDRE PANISSON apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação n. 0000531-16.2014.8.24.0014).
+Depreende-se dos autos que o réu foi condenado a 1 ano de detenção, em regime inicial aberto, por crime contra a flora (art. 38 da Lei n. 9.605/1998). Essa pena foi substituída por uma pena restritiva de direitos.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso.
+Daí o presente writ, no qual a defesa sustenta a extinção da punibilidade pela prescrição da pretensão punitiva, ao argumento de que, transcorrido o prazo prescricional de 4 anos entre a sentença e o recebimento da denúncia, foi descontado o período de suspensão condicional do processo. Alega que a prescrição interrompeu-se em "13 de março de 2016, momento da venda do imóvel" (e-STJ fl. 9). Ao final, requer liminarmente a suspensão dos efeitos da condenação; e, no mérito, a extinção da punibilidade.
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+O Tribunal de origem, ao negar provimento ao recurso de apelação, consignou que (e-STJ fls. 698/699):
+É cediço que com a prática da infração criminal nasce para o Estado o direito de punir o infrator. No entanto, essa reprimenda não pode ser aplicada a qualquer tempo, impondo a lei a observância de determinados prazos, que, se não respeitados, resultam na prescrição da pretensão punitiva e, por consequência, na extinção da punibilidade do acusado.
+Em regra, para o cômputo do prazo prescricional, considera-se o máximo de pena privativa de liberdade em abstrato cominado ao delito e, a partir daí, observa-se o lapso temporal previsto nos incisos enumerados no art. 109 do Código Penal.
+No entanto, com o trânsito em julgado da sentença penal condenatória para a acusação, conforme apura-se no caso em tela, a pena imposta não pode mais ser agravada, em razão da proibição, pelo ordenamento jurídico pátrio, da reformado in pejus. Nesse caso, tem-se certeza da pena máxima cominada, não se utilizando mais a pena abstrato, mas a reprimenda em concreto, conforme inteligência do art. 110, §1º, do mesmo Código.
+O art. 117 deste Codex traz as causas interruptivas da prescrição, as quais fazem com que a contagem do prazo seja retomada do início, e, em seus incisos I e IV, fixa o recebimento da denúncia ou queixa e a publicação da sentença como marcos interruptivos.
+No caso em tela, a reprimenda aplicada ao apelante restou arbitrada em 1 (um) ano de detenção pela prática do crime previsto no art. 38 da Lei n. 9.605/98. Logo, o prazo prescricional é de 4 (quatro) anos, a teor do disposto no art. 109, V, do Código Penal.
+Infere-se dos autos que a denúncia foi recebida no dia 24/04/2015 (ev. 35.81), com o oferecimento e aceitação da suspensão condicional do processo no dia 13/08/2015 (ev. 61.104), sua revogação pelo descumprimento das condições impostas em 17/09/2019 (ev. 158.216) e publicação da sentença na data de 13/01/2022 (ev. 278.1).
+Muito embora a defesa aponte a ocorrência da prescrição da pretensão punitiva com fundamento no lapso temporal havido entre o recebimento da denúncia e a publicação da sentença, necessário observar que neste período houve a suspensão condicional do processo, com a consequente suspensão da prescrição.
+ ..
+Logo, do período computado pela defesa, deve ser descontado o interstício compreendido pela suspensão condicional do processo, de modo que o período efetivamente verificado entre o recebimento da denúncia e a publicação da sentença perfaz um total de 2 (dois) anos, 7 (sete) meses e 14 (quatorze) dias, razão pela qual se mostra muito inferior aos 4 (quatro) anos descritos na norma para o reconhecimento da prescrição.
+Assim, não há possibilidade de acolher a tese defensiva.
+ ..
+Conforme consignado pelo Tribunal a quo não houve transcurso do prazo do lapso temporal entre os marcos interruptivos, destacando-se que houve oferecimento e aceitação da suspensão condicional do processo entre das datas 13/8/2015 e 17/9/2019.
+Ressalto, ainda, que as alegações de que o benefício deveria ser considerado revogado na data da venda do imóvel ou após o período de provas de dois anos não foram analisadas pela Corte estadual, o que impossibilita o debate diretamente por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância.
+E, ainda que assim não fosse, segundo a jurisprudência desta Corte, "O Superior Tribunal de Justiça possui o entendimento no sentido de que "o benefício da suspensão condicional do processo pode ser revogado mesmo após o transcurso do período de prova, desde que a causa da revogação tenha ocorrido durante o referido lapso temporal. Precedentes do STJ e do STF." (REsp 1.391.677/RJ, Ministro Moura Ribeiro, Quinta Turma, DJe 18/10/2013) (RHC n. 61.827/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 17/9/2015)" (AgRg no REsp n. 1.953.113/AL, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/5/2022, DJe de 9/5/2022).
+Além disso, destaca-se que, "no que diz respeito em especial à prescrição, tem-se que sua suspensão, em conjunto com a suspensão do processo, ocorre por meio de decisão do Magistrado de origem. Dessa forma, em observância ao paralelismo das formas, apenas é possível retomar sua contagem também por meio de decisão do Juiz que restabelece o curso do processo" (AgRg no HC n. 632.230/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2021, DJe de 4/2/2021, grifei ).
+Ante o exposto, conheço em parte do habeas corpus e nessa extensão denego a ordem.
+Publique-se. Intimem-se.
