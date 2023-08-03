@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de LUIZ ROBERTO FALCÃO contra acórdão do Tribunal de Justiça do Estado do Paraná proferido nos autos da Apelação Criminal n. 0008783-03.2019.8.16.0031.
+Consta dos autos que o Paciente foi condenado à pena de 2 (dois) anos e 2 (dois) meses de reclusão, a ser cumprida em regime aberto, e ao pagamento de 111 (cento e onze) dias-multa, por infringir o disposto no art. 171, caput, do Código Penal.
+O apelo defensivo foi desprovido e o recurso ministerial provido, em 30/07/2020, para agravar a pena definitiva e o regime prisional impostos ao Paciente, que restou definitivamente condenado em 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 155 (cento e cinquenta e cinco) dias-multa, nos termos do acórdão de fls. 10-25.
+Seguiu-se a oposição de 4 (quatro) embargos de declaração, todos rejeitados, consoante acórdãos juntados às fls. 26-44.
+Daí o presente habeas corpus, sustentando, em confusa inicial, que à "míngua de prova robusta e incontroversa da autoria delitiva, fica inviabilizada a condenação, porquanto os elementos de convencimento constantes da sentença e do acórdão são incapazes de evidenciar, com a segurança necessária à prolação de um decreto condenatório, a prática de delito de apropriação indébita e de estelionato" (fl. 8).
+Busca-se (fl. 9):
+"(1) seja concedida a ordem para reconhecer a nulidade do ato coator dada a caracterização de patente constrangimento ilegal, roga-se a concessão da ordem para anular a Ação Penal;
+(2) Subsidiariamente, caso não seja conhecido o habeas corpus, seja a ordem concedida de ofício, diante das manifestas ilegalidades (CRFB/1988, artigo 5º, LXVIII; CPP, artigo 654, § 2º), e ainda, em reconhecer o fato de que houve a restituição dos valores supostamente indevidos.
+(3) Seja levado, à luz do que dispõe o art. 649 do CPP, o habeas corpus e as causas criminais com réu preso tem prioridade no julgamento com relação a outros processos.
+(4) Sejam observadas as disposições legais e regimentais deste Superior Tribunal de Justiça, de modo a assegurar que o julgamento do habeas corpus em questão, para que seja levado a julgamento na primeira sessão -, como medida de Direito e de Justiça."
+Não houve pedido liminar.
+As informações foram prestadas às fls. 119-140.
+Petição às fls. 142-153, sustentando que houve cerceamento de defesa julgamento do recurso de apelação e nulidade da condenação por ausência de condição de procedibilidade, ao argumento que o Advogado que firmou a representação das vítimas não possuía procuração com poderes específicos para tanto.
+Pedido de prioridade no julgamento às fls. 154-155.
+O Ministério Público Federal opina às fls. 156-157, pelo não conhecimento do writ.
+Após a manifestação ministerial, a Defesa protocolou petição às fls. 159-163, buscando a concessão de indulto ao Paciente.
+É o relatório.
+Decido.
+De início, verifico dos assentamentos processuais desta Corte Superior que esta impetração é mais uma de uma série de habeas corpus e pedidos em favor do Paciente, a maioria em favor próprio, nos autos da ação penal em que foi condenado por crimes de estelionato, cometidos utilizando como artifício, para enganar as vítimas, sua condição de Advogado, pois recebia honorários e custas processuais antecipados, não protocolava a inicial e ficava com os valores, mantendo os ofendidos em erro.
+As teses absolutórias suscitadas na inicial deste writ já foram solucionadas pelo Superior Tribunal de Justiça no julgamento do HC n. 676.347/PR, impetrado contra o acórdão que julgou a apelação, antes da oposição dos diversos aclaratórios na origem, onde a Defesa também é renitente, com idênticos fundamentos, em decisão transitada em julgado em 31/08/2021, que guarda a seguinte ementa:
+"HABEAS CORPUS. PENAL. PROCESSUAL PENAL. ESTELIONATO. MATERIALIDADE DELITIVA E DOLO NA CONDUTA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. SUSPEIÇÃO DO DELEGADO DE POLÍCIA. IMPOSSIBILIDADE DE RECONHECIMENTO. AUSÊNCIA DO RÉU NA AUDIÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO PREJUÍZO. INOVAÇÃO RECURSAL. INEXISTÊNCIA. DOSIMETRIA DA PENA. PENA-BASE INIDONEAMENTE MAJORADA. AGRAVANTE DA REINCIDÊNCIA COMPROVADA. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, CONCEDIDA EM PARTE A ORDEM."
+Friso que no julgado acima transcrito concedi a ordem para reduzir a reprimenda para 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e 13 (treze) dias- multa, mantido, no mais, o acórdão confirmatório da condenação impugnado.
+Esta impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnar o mesmo acórdão na origem, na qual foi esgotada toda a argumentação sobre a inocência e fragilidade probatória e revista toda a dosimetria da pena, nada havendo a ser rediscutido nesta Corte Superior, sob pena de ofensa à coisa julgada.
+Do mesmo modo, as teses de nulidade na ação penal e no julgamento do recurso perante o Tribunal a quo, suscitadas nas petições avulsas, foram devidamente afastadas tanto no julgamento do HC n. 676.347/PR quanto do HC n. 616.748/PR, em decisão publicada em 04/04/2022, objeto de agravo regimental, desprovido pela Sexta Turma do Superior Tribunal de Justiça, e recurso ordinário ao Supremo Tribunal Federal, ainda em processamento.
+A propósito, o acórdão proferido no AgRg no HC n. 616.748/PR, in verbis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO DEFENSIVA SUPERVENIENTE À JUNTADA AOS AUTOS DAS INFORMAÇÕES PRESTADAS PELA AUTORIDADE APONTADA COMO COATORA E DO PARECER MINISTERIAL. ACRÉSCIMO DE INÚMERAS TESES. IMPOSSIBILIDADE DE CONHECIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste previsão legal da possibilidade de inovação no pedido de habeas corpus, notadamente após terem sido prestadas as informações do Tribunal a quo e juntado aos autos o parecer do Ministério Público, como ocorreu no caso em apreço.
+2. A impossibilidade de conhecimento das teses defensivas supervenientes é reforçada pelo fato de que duas delas já foram objeto de julgamento no HC conexo de n. 676.437/PR e as demais não foram apreciadas pelo Colegiado estadual, evidenciando a supressão de instância.
+3. Agravo regimental desprovido." (DJe 28/04/2022.)
+Assim, concluo pela inadmissibilidade do mandamus, porque, mutatis mutandis, "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impe trado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+Os demais pedidos, inclusive o de indulto, devem ser submetidos primeiramente às instâncias ordinárias, não sendo possível este Superior Tribunal de Justiça manifestar-se originariamente sobre as questões.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ESTELIONATO. ABSOLVIÇÃO POR FALTA DE PROVAS OU PELO RECONHECIMENTO DE NULIDADES, BUSCADA NA INICIAL E EM PETIÇÕES AVULSAS. REITERAÇÃO DE PLEITOS FORMULADOS NO HC 661.748/PR E HC . 676.437/PR. COISA JULGADA. DEMAIS ALEGAÇÕES. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
