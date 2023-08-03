@@ -6,7 +6,7 @@ IV - respeito à liberdade e apreço à tolerância;
 V - coexistência de instituições públicas e privadas de ensino;
 VI - gratuidade do ensino público em estabelecimentos oficiais;
 VII - valorização do profissional da educação escolar;
-VIII - gestão democrática do ensino público, na forma desta Lei e da legislação dos sistemas de ensino;
+VIII - gestão democrática do ensino público, na forma desta Lei e da legislação dos respectivos Estados e Municípios e do Distrito Federal;
 IX - garantia de padrão de qualidade;
 X - valorização da experiência extra-escolar;
 XI - vinculação entre a educação escolar, o trabalho e as práticas sociais.
