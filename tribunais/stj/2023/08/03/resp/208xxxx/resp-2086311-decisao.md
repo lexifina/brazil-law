@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial apresentado por Almeira Empreendimentos Imobiliários Ltda. desafiando acórdão do Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 371):
+Apelação cível. Ação indenizatória decorrente de atraso na entrega d e imóvel residencial adquirido na planta. Ausência de comprovação de caso fortuito ou força maior por parte da ré, que deve responder pelos prejuízos causados à autora. Inteligência do art. 14 caput e § 3º CDC. Lucros cessantes relativos aos alugueres que a promitente - comprador a deixou de auferir ou continuou a pagar durante o atraso na entrega do imóvel. Presunção à inteligência do disposto no art. 375 CPC/15, de que o consumidor iria dar destinação econômica se o imóvel tivesse sido entregue no prazo. Sentença ultra petita, que fixou o valor dos lucros cessantes em quantia maior do que a requerida pela autora. Valor que deve ser apurado em liquidação de sentença, com base no valor médio de locação residencial na região do imóvel. Danos morais decorrentes da frustração e angústia pelo atraso na entrega do imóvel. Verba indenizatória corretamente fixada, segundo os padrões definidos pela jurisprudência desta Corte para casos similares. Parcial provimento do recurso.
+Nas razões do recurso especial (e-STJ, fls. 383-397), fundado no art. 105, III, a e c, da Constituição Federal, a recorrente alega violação aos arts. 186, 187 e 927 do CC, sustentando, em síntese, a ausência de danos morais.
+Contrarrazões apresentadas (e-STJ, fls. 479-487).
+O Tribunal de origem admitiu o processamento do recurso especial (e-STJ, fls. 489-495).
+Brevemente relatado, decido.
+O Tribunal estadual, ao analisar a controvérsia dos autos, concluiu pela caracterização do atraso na entrega do imóvel em construção, aduzindo ser cabível a indenização por danos morais, assentindo os seguintes fundamentos (e-S TJ, fls. 373-378):
+A autora celebrou contrato de promessa de compra e venda, tendo por objeto a unidade 501 do Bloco 0 2 do empreendimento "Conquista Itaboraí", cuja data de entrega estava prevista para 30/05/2018, com cláusula de tolerância de até 180 dias, conforme contrato de compra e venda às fls. 18/39.
+O referido prazo para entrega está previsto expressamente na cláusula 4.1 do contrato, não havendo qualquer outro prazo estipulado, não sendo verídicos aqueles mencionados pela apelante, com exceção da cláusula de tolerância de 180 dias. Refira -se:
+ ..
+O imóvel contudo somente foi entregue em 12/04/2019, conforme recibo de fl. 208, após o término do prazo de entrega que, considerando os 180 dias de tolerância, expirara em 25/11/2018.
+ ..
+Os danos morais restaram evidenciados na hipótese, e decorreram da frustração à legítima expectativa do consumidor.
+Saliente -se que as regras de experiência comum (art. 375 CPC/15) informam que a aquisição do imóvel próprio, para a classe média e média baixa, perfaz um sonho de grandes proporções, que dá concretude a um sentimento de segurança familiar e pessoal ao consumidor, sendo certo que a não entrega pontual do imóvel gera grande angústia, frustração e sensação de enganosidade, essas que extrapolam os meros aborrecimentos do dia a dia .
+Como regra geral, o CC/2002 no art. 944, parágrafo único 2 , especifica, como parâmetros para a fixação da indenização por dano moral, a gravidade da responsabilidade e a qualidade do prejuízo.
+Na seara consumerista, a fixação da indenização deve atender também, ao caráter preventivo e pedagógico da medida, para que o fornecedor evite reincidir na violação dos direitos dos consumidores.
+Tem -se, portanto, e na esteira dos parâmetros desta Corte, que a indenização foi adequadamente fixada em R$ 10.000,00, conforme se vê nos seguintes precedentes:
+Observa-se que o Tribunal de origem considerou que o atraso na entrega do imóvel configurou dano moral.
+No entanto, a jurisprudência do Superior Tribunal de Justiça entende inexistir dano moral pelo mero descumprimento contratual, exceto quando verificada situação peculiar, apta a justificar o reconhecimento de violação a direitos da personalidade.
+Na mesma linha:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DO BEM. INADIMPLEMENTO CONTRATUAL. DANO MORAL. MERO DISSABOR. ENTENDIMENTO FIRMADO NA EG. TERCEIRA TURMA. DO STJ. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA AVALIAR A OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE COMPROVE A EXISTÊNCIA DO DANO VINDICADO. DECISÃO EXTRA PETITA. INOCORRÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A eg. Terceira Turma desta Corte, em recente julgado, reconheceu, em relação aos contratos envolvendo compra e venda de imóvel em construção, que o mero inadimplemento contratual não enseja a reparação por dano moral (Precedente: REsp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017).
+3. Não tendo o Tribunal estadual se manifestado acerca das alegações constantes da petição inicial relativas a outros elementos fáticos que permitissem um exame mais abrangente - para além do mero atraso na entrega do imóvel - devem os autos retornar à origem a fim de que lá se afira a ocorrência de lesão extrapatrimonial à luz da jurisprudência acima mencionada.
+4. Não há falar em julgamento extra petita, pois, como é cediço "O juiz não está adstrito aos fundamentos de direito exarados pelas partes, e sua atividade está delimitada pelo pedido e pelos fatos trazidos à sua apreciação, devendo analisar as questões postas e fundamentar sua decisão nos limites em que proposta a ação, aplicando o direito à espécie, adstrito, contudo, ao pedido formulado na inicial". (AgInt no REsp 1.760.025/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j. 17/12/2018, DJe 1º/2/2019).
+5. Agravo interno não provido
+(AgInt no REsp 1.921.794/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+Com efeito, na espécie, constata-se que, apesar da mora da recorrente - o que se revela de todo indesejável -, não foi comprovado que o atraso teria afetado, de maneira excepcional, o direito da personalidade da recorrida, não havendo falar, portanto, em abalo moral indenizável.
+Ante o exposto, dou provimento ao recurso especial, a fim de afastar a indenização por danos morais.
+Mantido os ônus sucumbenciais como fixados na origem.
+Prejudicada a análise do Recurso Extraordinário.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ATRASO DO PRAZO DE ENTREGA DA UNIDADE. DANO MORAL. AFASTAMENTO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
