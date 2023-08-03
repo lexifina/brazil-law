@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Carlos Eduardo Costa Rodrigues, apontando-se como autoridade coatora a Desembargadora do Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar nos autos do Habeas Corpus n. 2183820-85.2023.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante, com posterior conversão em prisão preventiva, acusado da prática do delito de roubo qualificado (fls. 67/68). Impetrado o writ na origem, o pleito liminar foi indeferido (fls. 84/86).
+Nesta Corte Superior, sustenta a impetrante, em suma, que a decisão, data máxima vênia, deu-se de forma genérica, fazendo alusão à necessidade de garantia da ordem pública e de aplicação da lei penal, sem, contudo, indicar qualquer circunstância concreta e idônea que justificasse a manutenção de Carlos Eduardo no cárcere, considerando que o paciente é primário, possui endereço fixo e registro em carteira, sendo ainda o principal responsável pelo sustento de sua família (dois filhos pequenos) - (fls. 6/7 - grifo nosso)
+Aponta que, infelizmente, o paciente vem sofrendo com os efeitos de mais uma decisão absolutamente inconsistente (conforme cópia juntada), tendo a relatora Ana Zomer, da Primeira Câmara Criminal do TJSP mencionado apenas a gravidade (em tese) do delito e presumido (indevidamente) a periculosidade do Paciente, em que pese sua primariedade e histórico impecável de trabalho (fl. 7 - grifo nosso).
+Requer, inclusive liminarmente, a mitigação da Súmula 691/STF para revogar a constrição cautelar do paciente.
+É o relatório.
+Na via da excepcionalidade, admite-se habeas corpus contra decisão que indeferiu pedido de liminar em writ impetrado no Tribunal a quo, ainda não julgado, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão teratológica, despida de qualquer razoabilidade.
+Na espécie, não verifico ser o caso de superação do óbice previsto na Súmula 691 do Supremo Tribunal Federal, pois ausente a teratologia defendida ou a falta de razoabilidade da decisão combatida.
+No caso, inexiste, à primeira vista, flagrante ilegalidade a ser reparada neste momento, na medida em que o Magistrado de primeiro grau decretou a prisão preventiva, para a garantia da ordem pública, uma vez que o fato concretamente cometido, mediante grave ameaça à pessoa, com restrição de sua liberdade e em concurso de agentes, evidencia, ao menos neste momento inicial, a periculosidade do seu autor e, consequentemente, a necessidade de sua prisão para a salvaguarda da ordem pública (fl. 68 - grifo nosso).
+A relatora do writ impetrado na origem, por sua vez, asseverou que a despeito da primariedade do agente, o crime teria sido cometido no interior da residência da vítima, com restrição à liberdade, em concurso de agentes e mediante grave ameaça exercida por meio de simulacro de arma de fogo, aproveitando-se do fato de que a vítima estava lavando a garagem com o portão aberto. Tais circunstâncias revelam a gravidade concreta da conduta (fl. 86 - grifo nosso).
+Nesse cenário, não há ilegalidade flagrante a ser sanada, motivo pelo qual se faz necessário aguardar o deslinde do writ na instância própria para, somente então, se necessário, recorrer ao Superior Tribunal de Justiça.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
