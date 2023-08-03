@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por CCS - Concentrados Industriais Ltda. desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base na Súmula 7/STJ, tendo em vista que "o julgado atacado foi reformado pelos embargos de fls. 323/332, aos quais foram atribuídos efeitos modificativos para anular a sentença" (fl. 471), "pois não havia sido apreciado o mérito da questão nem o pedido de prova pericial. Recomendou, inclusive, a produção da aludida prova, a fim de se constatar ou não a garantia total da dívida pelos depósitos efetuados nos autos da ação cautelar, de modo a se evitar a possibilidade de o contribuinte ser cobrado em duplicidade" (fl. 470), e, como "o órgão julgador decidiu a controvérsia após análise dos fatos,  ..  para se chegar à conclusão diversa, tornar-se-ia imprescindível reexaminar o conjunto fático-probatório dos autos, o que, como visto, é vedado" (fl. 471).
+Nas razões de agravo em recurso especial, a parte defende que "A apreciação do presente recurso dispensa o reexame de provas. O julgamento do caso compreende apenas a análise dos efeitos jurídicos produzidos por uma carta de "cobrança amigável" no que diz respeito à contagem do prazo prescricional" (fl. 479), pugnando pelo reconhecimento da ofensa ao art. 174 do CTN.
+Contraminuta às fls. 500/503.
+É O RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+De fato, a agravante defendeu o afastamento da Súmula 7/STJ com base em argumentação dissociada do pilar esposado no juízo de prelibação, deficiência essa de fundamentação recursal capaz de atrair o óbice da Súmula 284/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
