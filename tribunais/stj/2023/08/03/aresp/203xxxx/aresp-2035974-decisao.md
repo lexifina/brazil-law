@@ -1,0 +1,45 @@
+DECISÃO
+Na origem, BV Financeira S/A Crédito Financiamento e Investimento ajuizou ação de busca e apreensão em face de Fabio Jacobsen Brasil, a qual foi julgada extinta (art. 485, IV e IV, do Código de Processo Civil).
+Interposta apelação pela instituição financeira, a Décima Quarta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul negou-lhe provimento em acórdão assim ementado (e-STJ, fl. 254):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. EVENTUAL IMPOSSIBILIDADE DE RESTITUIÇÃO DE VEÍCULO. DEPÓSITO DE SEU VALOR CONFORME TABELA FIPE.
+AÇÃO JULGADA EXTINTA, SEM RESOLUÇÃO DE MÉRITO.
+INCABÍVEL COMPENSAÇÃO DE VALORES. ANTE EVENTUAL IMPOSSIBILIDADE DE RESTITUIÇÃO DO VEÍCULO ALIENADO EXTRAJUDICIALMENTE, CONVERTE-SE A OBRIGAÇÃO EM PERDAS E DANOS, SENDO DEVER DA INSTITUIÇÃO FINANCEIRA A DEVOLUÇÃO DO EQUIVALENTE AO VALOR DE MERCADO DO BEM, CALCULADO CONFORME TABELA FIPE. OUTROSSIM, DIANTE DA EXTINÇÃO DA AÇÃO DE BUSCA E APREENSÃO, SEM RESOLUÇÃO DO MÉRITO, E COM A IMPOSSIBILIDADE DE RESTITUIÇÃO DO VEÍCULO À PARTE RÉ, A DECORRÊNCIA LÓGICA É O RETORNO DAS PARTES AO STATUS QUO, SENDO QUE O DEFERIMENTO DA COMPENSAÇÃO, NOS MOLDES EM QUE POSTULADA, SIGNIFICARIA O RECONHECIMENTO, DE MODO INDIRETO, DA PROCEDÊNCIA DA AÇÃO DE BUSCA E APREENSÃO, POIS O OBJETIVO DE SATISFAZER O DÉBITO (OU PARTE DELE) AO CREDOR SERIA ATINGIDO. DAÍ DECORRE A IMPOSSIBILIDADE DE COMPENSAÇÃO DE VALORES NOS AUTOS.APELAÇÃO IMPROVIDA.
+Nas razões do recurso especial, BV Financeira S/A Crédito Financiamento e Investimento indicou divergência jurisprudencial e violação aos arts. 1.022, II, parágrafo único, II, do CPC/2015; e 368 do Código Civil.
+Sustentou, além de negativa de prestação jurisdicional, a possibilidade de compensação dos débitos existentes entre as partes.
+Sem contrarrazões.
+O processamento do apelo nobre não foi admitido pela Corte local sob o fundamento de incidência das Súmulas 283 e 284 do STF e 7 do STJ, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, no tocante à alegada violação ao arts. 1.022 do CPC/2015, verifica-se que a parte recorrente não opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre eventuais omissões no julgado.
+Nesse contexto, considerando que não houve oposição de embargos declaratórios ao acórdão recorrido, o exame do Recurso Especial, no particular, encontra óbice na Súmula 284 do STF, consoante ilustram os seguintes precedentes:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS, EM 2º GRAU. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 282, 284 E 356 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, À MÍNGUA DE REALIZAÇÃO DE COTEJO ANALÍTICO ENTRE OS JULGADOS CONFRONTADOS. INCLUSÃO DOS VALORES RELATIVOS AO ICMS, AO PIS E À COFINS NA BASE DE CÁLCULO DO IPI. LEGALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II.  ..
+IV. Quanto à alegada violação aos arts. 489 e 1.022 do CPC/2015, verifica-se que a parte recorrente não opôs embargos de declaração, em 2º Grau, a fim de provocar a Corte de origem a se manifestar sobre eventuais omissões no julgado. Nesse contexto, considerando que não houve oposição de embargos declaratórios ao acórdão recorrido, o exame do Recurso Especial, no particular, encontra óbice nas Súmulas 282, 284 e 356 do STF. Nesse sentido: STJ, AgInt no AREsp 1.697.937/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/10/2021; AgInt no REsp 1.963.131/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 17/02/2022; AgInt no REsp 1.982.103/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 01/07/2022.
+V.  ..
+VII. Agravo interno improvido.
+(AgInt no REsp n. 2.018.262/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. LEGITIMIDADE. INTERESSE. PREJUDICIALIDADE EXTERNA. ERRO MATERIAL. FALTA DE PREQUESTOINAMENTO. ARBITRAMENTO DE ALUGUÉIS. OCUPAÇÃO EXCLUSIVA POR EX-CÔNJUGE. IMÓVEL NÃO PARTILHADO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS N. 284 DO STF E 83 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973  correspondente ao art. 1.022 do CPC/2015 , na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+2.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.276/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+2.  ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.385.697/MA, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe 3/6/2019.)
+Quanto ao pedido de compensação, constata-se que o Tribunal estadual, soberano na análise do contexto fático-probatório, indeferiu tal requerimento sob o argumento de que "o deferimento da compensação, nos moldes em que postulada, significaria o reconhecimento, de modo indireto, da procedência da Ação de busca e apreensão, pois o objetivo de satisfazer o débito (ou parte dele) ao credor seria atingido" (e-STJ, fl. 252 ).
+Todavia, verifica-se que o referido fundamento não foi objeto de impugnação especifica nas razões do recurso especial.
+Assim, a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. SUCESSÕES. IMPUGNAÇÃO DE ESBOÇO DE PARTILHA. CONCLUSÃO DO TRIBUNAL BANDEIRANTE DE QUE O BEM IMÓVEL LEGADO PERTENCIA A PARTE DISPONÍVEL. REFORMA. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA Nº 283 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado
+Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No iter do recurso especial não é possível reexaminar a conclusão do Tribunal bandeirante, soberano na análise das provas e elementos dos autos, de que a falecida genitora do recorrente, não dispôs de mais da metade da herança e que existiam bens suficientes para garantir a sua legítima (Súmula nº 7 do STJ).
+3. A ausência de impugnação no recurso especial de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai a incidência, por analogia, da Súmula nº 283 do STF.
+4. Recurso especial não conhecido. (REsp n. 1.908.766/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 25/05/2021, DJe 28/5/2021)
+Ademais, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. 1. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS NA ORIGEM. INCIDÊNCIA DO ÓBICE DA SÚMULA 284 DO STF. 2. AÇÃO JULGADA EXTINTA, SEM RESOLUÇÃO DE MÉRITO. IMPOSSIBILIDADE DE RESTITUIÇÃO DE VEÍCULO. DEPÓSITO DE SEU VALOR CONFORME TABELA FIPE. PEDIDO DE COMPENSAÇÃO INDEFERIDO. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
