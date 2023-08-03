@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo  manifestado  contra  decisão  que  negou  seguimento  a  recurso  especial,  no  qual  se  alega  dissídio  jurisprudencial.  O  acórdão  recorrido  está  retratado  na  seguinte  ementa  (fl.  499):
+AGRAVO INTERNO. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. MANUTENÇÃO DA DECISÃO QUE DEU PROVIMENTO AO APELO DO RÉU E NEGOU PROVIMENTO AO APELO DO AUTOR. REEDIÇÃO DE ARGUMENTAÇÃO JURÍDICA. TEM-SE QUE NÃO MERECE ACOLHIDA A INSURGÊNCIA RECURSAL DO AGRAVANTE, UMA VEZ QUE A DECISÃO PROFLIGADA EMBASOU-SE EM PRECEDENTES JURISPRUDENCIAIS JULGADOS PELA SISTEMÁTICA DOS RECURSOS REPETITIVOS - ART. 927 DO CPC.
+AGRAVO INTERNO DESPROVIDO.
+Sustenta a agravante que é vedada a cobrança da capitalização dos juros em razão da ausência de pactuação.
+Afirma que a taxa de juros remuneratórios contratada é abusiva pois superior à taxa média de mercado, bem como aduz que deve ser afastada a mora da agravante.
+Assim posta a questão, passo a decidir.
+Observo que a Corte local afastou a alegação de abusividade da taxa de juros remuneratórios, conforme se extrai do seguinte trecho (fl. 497):
+(..)
+Logo, no caso, como o pacto prevê juros remuneratórios em 25,69% ao ano, ou seja, nível inferior ao patamar de uma vez e meia a taxa média de mercado apurada para o período em que se deu a celebração, que era de 20,47% ao ano, vão mantidos os juros tal qual avençados, pois, na esteira de recentes decisões do Egrégio Superior Tribunal de Justiça e desta Colenda Corte, não percebo abusividade nesta variação dos juros. Se assim não fosse, fixar-se-ia, desde logo, a taxa média como padrão nos contratos de financiamentos, provocando resultados imprevisíveis no sempre sensível mercado financeiro, que poderia aumentar a taxa de juros em detrimento do tomador do empréstimo. Destarte, mantenho os juros contratados.
+(..)
+Com efeito, destaco que rever tais conclusões da Corte local demandaria o reexame do acervo contratual e fático dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+No tocante à taxa de juros capitalizados, a Segunda Seção do STJ adotou, para os efeitos do art. 543-C do Código de Processo Civil de 1973, o entendimento de que "A capitalização de juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Segunda Seção, REsp 973.827/RS, acórdão de minha relatoria, DJe de 24.9.2012). No caso dos autos, houve previsão de taxa de juros anual superior ao duodécuplo da mensal. Dessa forma, legítima a cobrança da taxa efetiva anual de juros remuneratórios, tal como convencionada.
+Anoto, por fim, que a jurisprudência desta Corte entende que a mora do devedor é descaracterizada tão somente quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade", tais como juros remuneratórios e capitalização dos juros, o que não se verifica no caso dos autos. A propósito, confira-se:
+DIREITO CIVIL E BANCÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CAPITALIZAÇÃO DE JUROS. ÍNDOLE ABUSIVA. MORA DESCARACTERIZADA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em conformidade com a jurisprudência pacífica desta Corte Superior, firmada por ocasião do julgamento do Recurso Especial 1.061.530/RS, submetido ao rito dos recursos repetitivos, instituído pelo artigo 543-C do CPC, "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (AgRg no AREsp 507.275/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/8/2014, DJe de 8/8/2014).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.575.049/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12.12.2022, DJe de 14.12.2022.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
