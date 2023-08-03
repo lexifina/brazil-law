@@ -1,0 +1,30 @@
+DECISÃO
+A controvérsia foi bem relatada pelo Parquet Federal em seu parecer, in verbis, no que interessa (e-STJ fls. 818/819):
+O recurso especial foi interposto com fundamento no art. 105, III, a, da CF/88, contra acórdão do TJ/SP, que negou provimento ao recurso da defesa, nos autos da apelação criminal n. 1500540-52.2020.8.26.039.
+O recorrente foi condenado pelo crime do art. 33, caput, da Lei nº 11.343/06, à à pena de 5 anos de reclusão, em regime fechado, e ao pagamento de 500 dias multa, por que, no dia 12/03/2020, no município de Novo Horizonte/SP, trazia consigo um tijolo de maconha com peso líquido de 265,92g e uma outra porção da mesma droga (40,21g) (f. 538- 548).
+O TJ/SP negou provimento ao recurso, nos termos da seguinte ementa:
+Apelação Criminal Tráfico de Drogas Recurso da Defesa visando à absolvição por insuficiência probatória, ou desclassificação para o delito de posse de drogas Impossibilidade Materialidade e Autoria do delito de tráfico de drogas devidamente comprovadas, diante do quadro probatório amealhado Validade dos depoimentos dos Policiais Condenação acertada Impossibilidade de aplicação do redutor do artigo 33, §4º, da Lei de Drogas, pois evidenciada a dedicação do acusado às atividades criminosas e portador de maus antecedentes Dosimetria e regime inicial fechado corretamente fixados Recurso não provido (f. 740).
+Neste recurso especial, tempestivamente interposto, a defesa aponta negativa de vigência ao art. 33 do CP e 33, § 4o, do art. 33, da Lei Drogas. Alega que juiz determinou a fixação de regime fechado para início do cumprimento de pena sem fundamentação idônea; que deixou de aplicar o disposto no § 4o, do art. 33, da Lei de Drogas, apesar de o recorrente preencher todos os requisitos necessários para a tal benesse. Requer seja conhecido e provido o presente recurso, adequando a fixação da pena para o regime inicial semiaberto e, consequentemente, seja aplicada a minorante do § 4o, do art. 33, da Lei Drogas, determinando-se o regime aberto para o início do cumprimento da pena (f. 751-755).
+O MP apresentou contrarrazões (f. 763-766).
+O recurso foi admitido na origem (f. 769) e os autos vieram ao MPF (f. 817).
+Parecer ministerial pelo não provimento do recurso.
+É o relatório. Decido.
+Inicialmente, verifico que não há como conhecer da irresignação acerca da aplicação do redutor de pena previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Com efeito, a benesse foi indeferida pelo acórdão recorrido sob os fundamentos de que a quantidade de droga e os antecedentes do réu impediriam a concessão. Todavia, tais motivos, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados especificamente pela defesa nas razões recursais. Desse modo, incide na espécie a Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.)
+Outrossim, quanto ao regime, deve ser mantido a modalidade mais gravosa , tendo em vista os maus antecedentes do recorrente.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. POSSIBILIDADE. AUMENTO VÁLIDO. PENA-BASE. EXASPERAÇÃO. PROPORCIONALIDADE. BENEFÍCIO DO ART. 33, § 4º, DA LEI N. 11.343/06. INAPLICÁVEL. MAUS ANTECEDENTES. IMPOSSIBILIDADE. AFASTAMENTO DA INCIDÊNCIA DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO V, DA LEI N. 11.343/2006. INVIABILIDADE NA VIA ELEITA. PENA DEFINITIVA INFERIOR A 8 ANOS. REGIME FECHADO. POSSIBILIDADE. MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência pacífica desta Corte, "para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (AgRg no HC 560.442/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 29/3/2021).
+2. A pena-base foi majorada em virtude dos maus antecedentes e da elevada quantidade de drogas, o que se mostra de acordo com a jurisprudência desta Corte, sendo assim, não é possível desconsiderar a valoração negativa do referido vetor ou mesmo reduzir o quantum de aumento, como pretende a impetrante.
+3. O redutor foi afastado em decorrência dos maus antecedentes do paciente, sendo incabível a aplicação da benesse por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas.
+4. O acordão impugnado entendeu que houve transporte interestadual de drogas, analisando o acervo probatório constante nos autos. A modificação desse entendimento demanda o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+5. Segundo a pacífica jurisprudência desta Corte Superior, a existência de circunstâncias judiciais desfavoráveis (maus antecedentes), com a consequente fixação da pena-base acima do mínimo legal, autoriza a fixação de regime inicial mais gravoso do que o cabível em razão do quantum da pena cominado.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 787.742/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Assim, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
