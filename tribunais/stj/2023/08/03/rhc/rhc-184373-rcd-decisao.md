@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado em favor de DANIEL SEIITI BRUM contra decisão que indeferiu o pedido de liminar no recurso em habeas corpus, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do HC n. 2082744-18.2023.8.26.0000.
+Em suas razões, a defesa requer a revogação da custódia cautelar imposta ao ora requerente.
+É o relatório. Decido.
+Ao que se tem dos autos, o requerente foi preso em flagrante em 5 de abril deste ano, na posse de aproximadamente 1,6 kg de maconha, uma pistola e munições. Por meio deste habeas corpus, a defesa postulou a revogação ou o relaxamento da custódia cautelar, sob a alegação de incompetência do juízo processante e cerceamento de defesa, além de afirmar estarem ausentes os requisitos autorizadores da prisão p reventiva.
+Neste caso, não obstante os elogiosos esforços argumentativos da defesa, não há elementos novos que justifiquem a reconsideração da decisão proferida pela Presidência do Superior Tribunal de Justiça por meio da qual se indeferiu o pedido de urgência.
+De mais a mais, a questão principal trazida a exame por meio deste recurso ordinário já foi previamente analisada pelo Tribunal da Cidadania no julgamento do HC n. 823.068/SP, em 22 de maio de 2023, quando se afirmou a necessidade manutenção da custódia, tendo em vista a gravidade concreta do crime, evidenciada pela quantidade expressiva de drogas apreendidas e a presença de apetrechos relacionados ao comércio ilícito de entorpecentes.
+Assim, não se verifica, de plano, constrangimento ilegal que autorize a concessão da medida urgente pleiteada, pois a prisão preventiva está devidamente fundamentada na gravidade concreta da conduta, demonstrada pela quantidade de material apreendido em poder do requerente, além da existência de anotações desabonadoras na folha de antecedentes criminais, circunstâncias que demonstram a presença de risco à ordem pública e, por isso, atestam a necessidade da constrição cautelar.
+Diante do exposto, indefiro o pedido.
+Intimem-se.
