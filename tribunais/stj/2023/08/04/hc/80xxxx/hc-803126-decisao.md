@@ -1,0 +1,51 @@
+DECISÃO
+MARILENE VIEIRA DO NASCIMENTO, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação n. 000129-28.2016.814.0401.
+Depreende-se dos autos que a ré foi condenada a 8 anos de reclusão, em regime fechado, mais 324 dias-multa, pela prática do crime previsto no art. 155, § 4º, I e IV, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de diminuir a pena para 7 anos, 1 mês ou 10 dias de reclusão mais 244 dias-multa.
+Neste habeas corpus, alega a impetrante que "A situação teratológica (sic) a Corte Estadual ao apreciar o recurso da defesa fundamentou a vetorial circunstâncias do crime, o que é totalmente inadmissível em um recurso exclusivamente da defesa para piorar a situação da recorrente, ora Paciente" (fl. 5). Afirma que o valor dos bens subtraídos e a demissão dos funcionários da vítima não podem ser sopesados fora da vetorial relativa às consequências do crime. Aduz que o patamar de aumento na primeira fase foi mais gravoso que 1/6, mediante fundamentação inidônea.
+Argumenta que a diminuição decorrente da confissão foi em patamar menos favorável que 1/6.
+Sustenta que a majorante referente ao repouso noturno é incompatível com a forma qualificada do furto.
+Pede sejam os acréscimos feitos à pena-base limitados a 1/6 por vetorial negativa, sejam afastadas do cômputo dosimétrico as circunstâncias do delito e excluída a referida causa de aumento.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+A sentença foi proferida nestes termos:
+MARILENE VIEIRA DO NASCIMENTO
+ ..  as circunstâncias e as consequências do crime são circunstâncias desfavoráveis, porque o resultado da ação criminosa não se limitou à subtração patrimonial, cujo valor foi bastante elevado (dois milhões e seiscentos reais), eis que também resultou na inviabilização da continuidade do empreendimento, ocasionando a demissão de funcionários e o fechamento do estabelecimento comercial;  ..
+Por isso, fixo a pena base em 06 (seis) anos de reclusão e 243 (duzentos e quarenta e três) dias-multa, os quais fixo à razão de 05 (cinco) vezes do maior salário mínimo vigente ao tempo do fato delituoso, em razão da comprovada vantagem auferida indevidamente pelo réu, nos termos do § 1º do art. 49 do Código Penal.
+(fl. 48, grifei)
+O acórdão atacado asseriu o seguinte:
+A causa de aumento prevista no § 1º do artigo 155 do Código Penal, que se refere à prática do crime durante o repouso noturno, em que há maior possibilidade de êxito na empreitada criminosa em razão da menor vigilância do bem, mais vulnerável à subtração -, é aplicável tanto na forma simples como na qualificada do delito de furto. (AgRg no REsp 1721890/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/05/2018, DJe 04/06/2018)
+Assim, rejeito a tese de afastamento da causa de aumento prevista no parágrafo 1º do art. 155, do CPP (Repouso Noturno).
+ ..
+DOSIMETRIA DA PENA (MARILENE VIEIRA DO NASCIMENTO).
+Circunstâncias e as Consequências do crime são circunstâncias desfavoráveis, porque o resultado da ação criminosa não se limitou à subtração patrimonial, cujo valor foi bastante elevado (dois milhões e seiscentos reais), eis que também resultou na inviabilização da continuidade do empreendimento, ocasionando a demissão de funcionários e o fechamento do estabelecimento comercial.
+Mantenho as circunstâncias e consequências como desfavoráveis, pois a fundamenta.
+As circunstâncias do crime foram graves pois a ousadia foi elevada, pois os autores ingressaram dentro de um shopping center para efetuar um furto, ignorando todo sistema de segurança.
+Já em relação às consequências do crime, pontuo que o juízo de primeiro grau fundamentou corretamente a valoração negativa de tal vetor em desfavor do apelante, uma vez que estas foram graves, na medida em que foram grandes os prejuízos, haja vista que os objetos furtados tinham valor considerável.
+ ..
+Diante de três circunstâncias judiciais valoradas negativamente em desfavor do recorrente (culpabilidade, circunstâncias, consequências e antecedentes criminais). MANTENHO a pena-base em 06 (seis) anos de reclusão e 243 (duzentos e quarenta e três) dias-multa. Além disso, mantenho o valor da multa que foi fixada 5 (cinco) vezes do maior salário mínimo vigente ao tempo do fato delituoso, em razão da comprovada vantagem auferida indevidamente pelo réu, nos termos do § 1º do art. 49 do Código Penal, com fulcro na Súmula nº 23 do TJPA.
+2ª Fase da Dosimetria da Pena
+Não há circunstâncias agravantes.
+Apesar do magistrado a quo não ter reconhecido a confissão espontânea da apelante MARILENE VIEIRA DO NASCIMENTO, entendo de modo diverso, pois embora a confissão não tenha sido objeto de impugnação específica, devo reconhecer de ofício que a apelante faz jus a atenuante da confissão espontânea, nos termos da Súmula 545 do STJ, uma vez que, mesmo sendo parcial, sua confissão foi utilizada na fundamentação da sentença.
+Assim, reduzo a pena intermediária em 06 (seis) meses e 43 (quarenta e três) dias-multa, ficando a pena intermediária no patamar de 05 (cinco) anos e 06 (seis) meses de reclusão e ao pagamento de 200 (duzentos) dias-multa.
+ ..
+Diante de três circunstâncias judiciais valoradas negativamente em desfavor do recorrente (culpabilidade, circunstâncias, consequências e antecedentes criminais). MANTENHO a pena-base em 06 (seis) anos de reclusão e 243 (duzentos e quarenta e três) dias-multa.
+ ..
+Por fim, na terceira fase, mantenho o reconhecimento da causa de aumento "repouso noturno", prevista no do art. do  sic , conforme fundamentação exposta acima, majorando-se a pena base em 1/3, de modo que a pena fica concretizada em 07 (sete) anos, 04 (quatro) meses e ao pagamento de 266 (duzentos e sessenta e seis) dias-multa, os quais fixo à razão de 05 (cinco) vezes do maior salário mínimo vigente ao tempo do fato delituoso, em razão da comprovada vantagem auferida indevidamente pelo réu, nos termos do § 1º do art. 49 do Código Penal.
+(fls. 31-34, destaquei)
+No que tange à alegada reformatio in pejus, a defesa não indicou com clareza quais foram os fundamentos utilizados pelo Tribunal de Justiça que haveriam inovado em relação à sentença.
+Com efeito, sentença e acórdão apontaram as mesmas constatações fáticas para sopesar desfavoravelmente as circunstâncias e as consequências do crime - subtração de bens avaliados em mais de dois milhões de reais e ulterior extinção da pessoa jurídica vítima em decorrência do prejuízo causado.
+A deficiência na demonstração da suposta nulidade dificulta sobremaneira a apreciação da tese, o que inviabiliza o conhecimento da impetração nesse ponto.
+Quanto à primeira fase dosimétrica, os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Pelo que se depreende dos excertos transcritos, as circunstâncias e as consequências do crime foram sopesados negativamente em decorrência de fatos distintos - o valor muito elevado dos bens subtraídos e a extinção da personalidade jurídica da vítima em função do prejuízo causado.
+Trata-se de circunstâncias que destoam do que comumente se observa nesse tipo de crime e que justificam a exasperação da pena-base mediante valoração negativa de dois elementos dosimétricos na primeira fase, a teor do princípio da individualização da pena.
+Relativamente à proporcionalidade do quantum, verifico que foi atribuído acréscimo de 8 meses de reclusão para cada uma das três vetoriais tidas como negativas, patamar esse que deve ser visto como módico, tanto pelas graves circunstâncias do furto qualificado quanto do amplo intervalo entre os limites fixados em lei (entre 2 e 8 anos de reclusão).
+Assim, não há falar em desproporcionalidade na dosimetria da primeira fase.
+No que se refere à confissão, o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. O art. 65 limitou-se a estipular as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+Nesse sentido, a jurisprudência deste Superior Tribunal é firme em assinalar que "A redução da pena em 1/6 em razão da atenuante da confissão espontânea atende aos pressupostos da razoabilidade e da proporcionalidade" (AgRg no AREsp n. 570.843/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 22/11/2016).
+Neste processo, a pena intermediária foi diminuída em 6 meses a título de confissão, sem que hajam sido apresentados elementos do caso concreto que justifiquem esse percentual, que destoa dos parâmetros comumente aceitos na jurisprudência desta Corte Superior e que deve ser corrigido em nova dosimetria para o mínimo de 1/6.
+Quanto à terceira fase, "A Terceira Seção desta Casa, no julgamento do Tema Repetitivo n. 1.087, estabeleceu que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)"" (AgRg no HC n. 778.896/SC, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 21/12/2022, destaquei).
+Assim, deve ser afastada essa causa de aumento em nova dosimetria, que passo a refazer.
+A pena-base foi fixada em 6 anos de reclusão mais 200 dias-multa. Na segunda-fase, aplico a redução de 1/6 em decorrência da atenu ante confissão, o que resulta reprimenda final de 5 anos de reclusão mais 167-dias-multa, pois afasto a majorante repouso noturno na terceira fase.
+Diante do exposto, conheço parcialmente da impetração e, nessa parte, concedo a ordem parcialmente, com a finalidade de diminuir a sanção para 5 anos de reclusão mais 167-dias-multa.
+Publique-se e intimem-se.
