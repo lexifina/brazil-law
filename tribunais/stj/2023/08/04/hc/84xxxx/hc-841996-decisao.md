@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de ROBERT GUIMARAES SILVA  em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA  (HC 5042360-16.2023.8.24.0000).
+O paciente está preso preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei 11.343/2006, e arts. 12, caput, e 16, § 1º, IV, da Lei 10.826/2003.
+A defesa alega: a) "falta de fundamentação, especificadamente, ausência de apontamento quanto ao periculum in libertatis, para manutenção da prisão no seu ato renovatório" (e-STJ fl. 8); b) excesso de prazo para formação da culpa, considerando que o paciente está encarcerado desde 03/02/2023, com audiência de instrução e julgamento designada para 20/09/2023; e c) tratar-se de "processo com réu preso, a AIJ com apenas 2 testemunhas da acusação a serem inquiridas e com endereços junto a sede da comarca onde corre o processo, respostas às acusações já ofertadas, não se observando qualquer complexidade na coleta da prova" (e-STJ fl. 9).
+Requer, liminar e definitivamente, deferimento da ordem para que o paciente aguarde em liberdade até o trânsito em julgado.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 17):
+Inicialmente, há de se ressaltar que o provimento liminar não está previsto na lei processual penal (arts. 647 a 667 do CPP), tratando-se de construção jurisprudencial, razão pela qual é faculdade do julgador.
+No caso, entendo ser imprescindível a coleta das informações do juízo a quo para apurar a razoabilidade de eventual retardo no trâmite do processo. Com relação aos fundamentos da prisão do paciente, esta insurgência, em princípio, sequer merece ser conhecida, tendo em vista que a legalidade da manutenção da segregação foi confirmada pela colenda Quarta Câmara Criminal no Habeas Corpus n. 5009546-48.2023.8.24.0000, anteriormente impetrado, inexistindo fato novo a priori.
+Isso posto, INDEFIRO o pedido de liminar e DETERMINO que sejam solicitadas informações à autoridade dita coatora.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
