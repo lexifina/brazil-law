@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Ibama contra decisão monocrática de fls. 375-379.
+O recurso especial foi interposto pela autarquia, com fundamento no art. 105, III, a, da Constituição Federal, objetivando reformar acórdão assim ementado pelo Tribunal Regional Federal da 1ª Região (fls. 215):
+ADMINISTRATIVO. AUTO DE INFRAÇÃO. MANTER EM CATIVEIRO ESPÉCIES DE PASSERIFORMES DA FAUNA SILVESTRE BRASILEIRA SEM A DEVIDA AUTORIZAÇÃO DO IBAMA. MULTA. VALOR EXCESSIVO EM RELAÇÃO À SITUAÇÃO DO EXECUTADO. DISPENSA DA MULTA.
+1- Na inteligência jurisprudencial deste egrégio tribunal, "em se tratando de guarda doméstica de animal silvestre não considerado em ameaça de extinção, considerando as circunstâncias dispostas nos art. 6º e 14 da Lei n. 9.605/98 (gravidade do fato; antecedentes, situação econômica e grau de instrução do infrator), a multa poderá deixar de ser aplicada (art. 29, §2º, da Lei n. 9.605/98).
+(AG 2008.01.00.014368-0/MG, Rel. Desembargador Federal Luciano Tolentino Amaral, Conv. Juiz Federal Rafael Paulo Soares Pinto, Sétima Turma, e-DJFI p. 217 de 28/11/2008). Precedentes.
+II- Apelação desprovida.
+Em suas razões recursais especiais, o recorrente aponta violação ao art. 535, II, do CPC de 1973, porquanto o Tribunal a quo teria se omitido quanto à apreciação da legislação federal que indica (fl. 342), relativamente ao descabimento do perdão judicial, prerrogativa exclusiva da autoridade administrativa; da proporcionalidade da pena aplicada e da impossibilidade de a autoridade judicial isentar o autuado da multa.
+Aduz, ainda, violação dos arts. 72, 74 e 75 da Lei n. 9.605/98 e do art. 24 do Decreto n. 6.514/08, visto ser plenamente possível a aplicação de multa sem advertência prévia e, ainda, que não caberia ao Judiciário anular a multa imposta ao recorrido, uma vez que foi fixada em consonância com os critérios definidos na lei.
+Por fim, aponta violação do art. 29, § 2º, da Lei n. 9.605/98, ao argumento de que em se tratando de infração administrativa, a aplicação da sanção de multa, assim como sua isenção, só cabe ser analisada e decidida por autoridade administrativa, competente para tal mister, reservando ao Judiciário, apenas, decidir referida questão nos processos criminais.
+Sem contrarrazões por parte do recorrido, o Tribunal a quo negou seguimento ao recurso (fls. 360-361), tendo sido interposto o presente agravo.
+No âmbito deste Tribunal, conheci do agravo para não conhecer do recurso especial.
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação, mantendo-se inerte.
+É o relatório.
+O recurso merece provimento.
+De fato, a jurisprudência consolidada desta Corte é no sentido de que não se exige advertência previamente à lavratura de auto de infração ambiental e à aplicação das multas administrativas previstas na Lei n. 9.605/98.
+Nesse sentido, menciono os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AUTO DE INFRAÇÃO. MANTER EM CATIVEIRO ESPÉCIES DE PASSERIFORMES DA FAUNA SILVESTRE BRASILEIRA SEM AUTORIZAÇÃO DO IBAMA. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ART. 72 DA LEI 9.605/1998. INEXISTÊNCIA DE GRADAÇÃO DE PENALIDADES. MULTA. CABIMENTO. PROPORCIONALIDADE. CIRCUNSTÂNCIAS DO CASO CONCRETO.
+1. Hipótese em que o Tribunal local entendeu não ter sido atendido o suposto requisito de gradação das penalidades, motivo pelo qual afastou a multa prevista no art. 72 da Lei 9.605/1998 aplicada ao ora recorrido por infração administrativa por manter em cativeiro espécies de passeriformes da fauna silveste brasileira sem autorização do Ibama.
+2. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. 3. Não procede a alegação de que a imposição da multa depende de advertência prévia. Por outro lado, realmente procede a afirmação de que o quantum da multa não seria razoável, ante a inequívoca desproporção entre o seu valor e a situação econômica do infrator, o que ocasionou afronta ao disposto no art. 6º da Lei 9.605/1998.
+4. Recurso Especial parcialmente provido para determinar o retorno dos autos à origem a fim de que Tribunal a quo fixe o valor da multa em consonância com os princípios da proporcionalidade e da razoabilidade, a serem aferidos nas circunstâncias do caso concreto. (REsp 1426132/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/05/2015, DJe 18/11/2015)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUTO DE INFRAÇÃO AMBIENTAL. ADVERTÊNCIA PRÉVIA. DESNECESSIDADE. PRECEDENTES. SÚMULA 7/STJ. NÃO INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não se exige advertência previamente à lavratura de auto de infração ambiental e à aplicação das multas administrativas previstas na Lei n. 9.605/98.
+2. O acolhimento da insurgência do Ibama não encontrou óbice na Súmula 7/STJ, porquanto a questão da ausência de advertência prévia como causa de nulidade da autuação é tema objetivamente examinado pelo acórdão recorrido.
+3. Agravo interno não provido.
+(AgInt no AREsp 1812915 / MG; Rel. Ministro SÉRGIO KUKINA; PRIMEIRA TURMA Julgado em 17/05/2021; DJe 20/05/2021)
+Ademais, no que se refere à anulação da multa, é incontroverso no acórdão impugnado que o ora agravado manteve a guarda doméstica de espécime silvestre, o que é vedado pela legislação ambiental de regência, mais especificamente no inciso III, §1º do art. 29 da Lei nº 9.605/1998.
+Entretanto, apesar de o próprio Tribunal de origem reconhecer a infração cometida pelo agravado, considerou desproporcional a multa aplicada pelo Ibama, atuando em clara substituição à Administração, que agiu dentro dos parâmetros legais.
+Mostra-se claro, portanto, que o acórdão recorrido merece a devida reforma.
+Em situação análoga, invoco o seguinte julgado desta Corte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO. DÍVIDA ATIVA. TAXA ANUAL POR HECTARE. AUTORIZAÇÃO PARA PESQUISA MINERAL. PAGAMENTO PROPORCIONAL. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Primeiramente, convém salientar que o Tribunal de origem apenas admitiu o Recurso Especial quanto aos arts. 20, 22, II e III, 63 e 64, § 2º, todos do Código de Minas, razão pela qual os demais dispositivos arguidos não serão objeto de análise.
+2. Preliminarmente, constata-se que não houve ofensa ao art. 1.022, II, do CPC/2015, pois o Tribunal de piso fundamentadamente rejeitou a tese de pagamento parcial da taxa em questão, bem como repudiou a suposta abusividade da multa imposta (fl. 172, e-STJ).
+3. O fato gerador da cobrança da referida Taxa Anual por Hectare é a publicação do alvará de pesquisa, e não o efetivo desempenho da atividade minerária anteriormente desejada, sendo irrelevante se a parte outrora interessada dela desiste.3. Corretamente decidiu o Tribunal regional ao dizer que, "nos termos do art. 20, do Código de Minas, o marco temporal de cobrança da TAH é anual", bem como que "o art. 22, III, do Código de Minas, dispõe que a autorização não pode ter prazo de validade inferior a um ano" (fl. 172, e-STJ, grifou-se).
+4. Além disso, não existe previsão normativa que autorize a cobrança parcial/proporcional da TAH, o que inviabiliza a conduta da Administração nesse sentido, pois está atada ao princípio da legalidade e somente pode o que a Lei permite. Ressalte-se que tal fundamento, apto por si só para manter a conclusão da decisão monocrática anterior, não foi combatido agora pela parte agravante, o que atrai o óbice da Súmula 284/STF por debilidade argumentativa.
+5. Estando incontroverso nos autos que o valor da multa imposta respeitou as balizas legais, inexiste ilicitude por parte da Administração e, portanto, é inviável considerar como desproporcional penalidade legalmente adequada, cabendo ao juízo de discricionariedade e ao arbítrio - não arbitrariedade - do Executivo a devida ponderação da "gravidade das infrações", conforme texto legal, descabendo ao Judiciário interferir nesse mérito administrativo.
+6. Dissídio jurisprudencial prejudicado.
+7. Agravo Interno não provido.(AgInt no REsp 1865164/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020, g. n.)
+(grifos nossos)
+Ante o exposto, dou provimento ao agravo interno do Ibama para conhecer de seu agravo e dar provimento ao seu recurso especial, mantendo-se a penalidade aplicada pela autarquia em sua forma originária.
+Publique-se. Intimem-se.
