@@ -1,0 +1,7 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em virtude do excesso de prazo para a finalização de Inquérito n. 0013904-14.2017.8.15.2022 (fl. 13), atribuído ao Tribunal a quo. Explica aguardar, por prazo irrazoável, o deslinde das investigações.
+Infere-se dos documentos colacionados aos autos que não houve análise da matéria pelo Tribunal estadual. A defesa deixou de ventilar a questão perante as instâncias ordinárias, requisito para a inauguração da competência desta Corte, prevista no art. 105 da CF. Não há possibilidade de apreciação do pedido em indevida supressão de instância.
+Ressalto que, nas únicas decisões colacionadas aos autos, de fls. 32-32 e 36-43, houve declinação de competência do Tribunal de Justiça, que não pode ser apontado como autoridade coatora, uma vez que não supervisiona o inquérito do paciente. Nos atos judiciais não houve nenhuma menção ao princípio da razoável duração do processo.
+A defesa deve provocar a jurisdição das instâncias ordinárias, pois o o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, relator Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
