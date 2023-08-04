@@ -1,0 +1,7 @@
+DECISÃO
+ANDREI CAMPOS BRITO alega sofrer constrangimento ilegal em decorrência de decisão do "Juízo de Direito da Vara Criminal de Poções e o Eminente Relator do HC nº 8036446-45.2023.8.05.0000 do Egrégio Tribunal de Justiça do Estado da Bahia" (fl. 3).
+A defesa busca a anulação da decisão que homologou o flagrante e decretou a prisão preventiva do réu, ante a ausência da realização da audiência de custódia, haja vista a essencialidade do ato. Assinala que o pedido não foi analisado em segundo grau, durante o plantão judiciário.
+A inicial do mandamus não veio acompanhada de acórdão do Tribunal de Justiça, com a prévia decisão sobre a controvérsia, a ensejar a inauguração da competência desta Corte (art. 105 da CF), sendo incabível a análise da pretensão em indevida supressão de instância.
+A defesa pode deduzir o pedido liminar de soltura ao Desembargador Relator do habeas corpus. Consta dos autos que o suspeito está custodiado desde 21/7/2023, pela suposta prática de tráfico de drogas e que o writ requerido ao Tribunal de Justiça há alguns dias, em 28/7/2023, foi encaminhado à Diretoria de Distribuição do 2º grau. Com o término do recesso judiciário local, em 31/7/2023, o feito será processado no expediente regular com conclusão ao Desembargador competente, sem necessidade de intervenção desta Corte para determinar a sua análise pela instância ordinária.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
