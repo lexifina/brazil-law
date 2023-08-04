@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ESTADO DO TOCANTINS, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECURSO INTERPOSTO PELO EXECUTADO. DECISÃO CORRIGINDO ERRO MATERIAL DE OFÍCIO. SENTENÇA TRANSITADA EM JULGADO. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO MANTIDA.
+1. Em recurso dessa espécie, cabe ao juízo ad quem apreciar, tão somente, o teor da decisão interlocutória impugnada. As demais questões, inclusive o meritum causa, devem ser analisadas e decididas no processo principal, sendo vedada a sua apreciação em sede de agravo de instrumento.
+2. O inconformismo da Agravante se refere ao entendimento do Juízo que corrige de ofício sentença fulminada por erro material, já que o cumprimento de sentença buscado pela Agravada refere-se aos direitos devidamente confirmados e determinado o seu ressarcimento por sentença transitada em julgado.
+3. Agravo conhecido e não provido. Decisão mantida" (fl. 493e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação ao art. 494 do CPC/2015, sustentando que "no caso em questão, o Juízo de primeira instância já havia proferido sentença extinguindo a fase executiva, com a improcedência do pedido de cumprimento de sentença. Posteriormente, sem qualquer provocação recursão por parte do enxequete/autor, o Juízo "acolheu" mera petição simples do particular como um novo pedido de cumprimento de sentença e, alterando completamente o seu entendimento anterior, revogou a sentença já existente, proferindo uma nova decisão, desta vez julgando procedente o pleito do enxequete".
+Defende que o acórdão recorrido, ao entender que o juízo sentenciante teria observado corretamente o art. 494 do CPC/2015, acabou por violar a correta interpretação que deve ser dada ao dispositivo. Alega que "segundo a jurisprudência sedimentada do Superior Tribunal de Justiça, entende-se por erro material o decorrente de evidentes e claros equívocos cometidos pelo órgão julgador, o que não abarca reapreciação de questões e de prolação de nova decisão".
+Contrarrazões a fls. 529/535e.
+Inadmitido o Recurso Especial (fls. 541/543e), foi interposto o presente Agravo (fls. 570/578e).
+Contraminuta a fls. 582/588e.
+A irresignação não merece prosperar.
+O Tribunal de Justiça local consignou que a hipótese dos autos se enquadrou como correção de erro material, razão pela qual a correção de ofício da sentença está amparada pelo art. 494 do CPC/2015. Assentou, ainda, que a correção promovida pelo magistrado sentenciante não desbordou dos direitos já reconhecidos por título judicial (fl. 486e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente - a fim de que se conclua que o caso não se enquadra como erro material - somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Por fim, no tocante ao dissídio jurisprudencial, cumpre asseverar que, consoante jurisprudência do STJ, a análise do dissídio fica prejudicada em razão da aplicação da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os julgados paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Nesse sentido: STJ, AgRg no AREsp 16.879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/04/2012; AgRg no Ag 1.126.375/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 13/04/2012.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
