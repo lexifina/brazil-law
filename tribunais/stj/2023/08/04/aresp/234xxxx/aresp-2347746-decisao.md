@@ -1,0 +1,19 @@
+DECISÃO
+Na origem trata-se de exceção de pré-executividade objetivando afastamento imediato da cobrança da taxa de fiscalização de funcionamento, haja vista que se aplica às Entidades Religiosas a não incidência do débito. Na sentença acolheu-se a exceção de pré-executividade. No Tribunal a quo a sentença foi reformada para dar seguimento da execução fiscal. O valor da causa foi fixado em R$ 1.977,84.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+EXECUÇÃO FISCAL. TAXA DE FISCALIZAÇÃO DE FUNCIONAMENTO. SENTENÇA QUE RECONHECE IMUNIDADE E EXTINGUE O PROCESSO. ENTIDADE RELIGIOSA. BENEFÍCIO CONSTITUCIONAL QUE ALCANÇA APENAS IMPOSTOS. ISENÇÃO QUE NÃO SE APLICA A FATOS PRETÉRITOS. CERTIDÕES DE DÍVIDA ATIVA QUE PREENCHEM OS REQUISITOS ESSENCIAIS PREVISTOS EM LEI. LANÇAMENTO DE OFÍCIO. DESNECESSIDADE DE PROCESSO ADMINISTRATIVO. APELO DO MUNICÍPIO PROVIDO PARA QUE A EXECUÇÃO RETOME O SEU CURSO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a c ontrovérsia com base nos seguintes fundamentos:
+A entidade religiosa invocou também isenção, forte na Lei Municipal 6.593/17. No entanto, basta cotejar mês e ano da promulgação da suposta lei isentiva (setembro de 2017) e vencimentos da taxa (março a junho/2017 fls. 2/9, CDA"s) para concluir que nem mesmo em tese haveria lugar para exclusão do crédito tributário.
+Lei local instituidora de exclusão do crédito tributário (= isenção)não retroage (v. rol do art. 106/CTN).
+ ..
+Ao contrário do que sustenta a entidade religiosa, as certidões de fls. 2/9preenchemos requisitos legais, pois indicam expressamente: a) os dados identificadores da contribuinte (campo "devedor"); b) a origem e a natureza do débito (campos "tipo" e "descrição da rubrica"); c) a data e o número de inscrição na dívida ativa; d) o valor originário do débito e o termo inicial, com todos os parâmetros de atualização; e) o fundamento legal da cobrança (campo "fundamentação legal") e dos consectários do inadimplemento.
+Como dito acima, a execução sub judice versa apenas taxa. Não foi difícil para este relator identificar o fato imponível. Tampouco o seria para os ilustres representantes judiciais da entidade religiosa.
+Desnecessária referência ao número do processo administrativo, pois a execução diz respeito a taxa de fiscalização de funcionamento, tributo lançado de ofício (Código Tributário Municipal -- art. 148).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, Código Tributário Municipal art. 148, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
