@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por ANA RITA GOMES BERNARDES e FABIANO GOMES BERNARDES contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL nos termos da seguinte ementa (fl. 1.909):
+EMENTA - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO- EXTINÇÃO PELO RECONHECIMENTO DE LITISPENDÊNCIA COM A AÇÃO REVISIONAL - PRELIMINARES DE NULIDADE POR CERCEAMENTO DE DEFESA - AFASTADA - LITISPENDÊNCIA CONFIGURADA - MESMAS PARTES E MESMA CAUSA DE PEDIR E PEDIDO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (fls. 1.933-1.973), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 55, § 3º, e 337, §§ 1º, 2º e 3º do Código de Processo Civil, alegando que não se trata de litispendência;
+b) 917, IV, do Código de Processo Civil, sustentando que a única maneira de o devedor se defender em processo executivo é com a apresentação de embargos de devedor;
+c) 313, V, a, do Código de Processo Civil, asseverando que fora ajuizada ação revisional para rever toda a relação jurídica estabelecida entre as partes;
+d) 355 do Código de Processo Civil, verberando que, "havendo entendimento pelo prosseguimento dos embargos à execução, é caso de ser reconhecido o cerceamento de defesa, por impossibilidade de julgamento antecipado da lide, cassando-se a decisão proferida e determinando-se a remessa dos autos à instância primeira para que se possa proceder à instrução do feito" (fl. 1.961); e
+e) 85, § 10, do Código de Processo Civil, defendendo que deve ser aplicado o princípio da causalidade.
+Oferecidas contrarrazões (fls. 1.978-1.990), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.992-1.994), o que ensejou a interposição do presente agravo (fls. 1.996-2.014).
+Apresentadas contraminutas do agravo (fls. 2.018-2.029).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que não é necessária a dilação probatória e que está configurada a litispendência, baseado no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos, conforme o seguinte trecho do acórdão:
+A matéria aventada nestes Embargos à Execução, qual seja, revisional de Cédula de Produto Rural, é apenas de direito, não sendo necessária dilação probatória. A dilação probatória não se faz necessária, porquanto basta a análise do contrato objeto do pedido de revisão para concluir se os encargos cobrados são abusivos ou não. (fl.1.911)
+O juízo singular entendeu configurada a litispendência, tendo a própria parte informado na inicial acerca do ajuizamento da revisional n. 0828665-92.2014.8.12.0001, que tem por objeto a revisão contratos firmados pelos apelantes como apelado, dentre eles a Cédula de Produto Rural ora executada.
+Extinguiu o feito sem resolução de mérito.
+Pois bem.
+Os apelantes fazem parte das duas ações e a causa de pedir é igual no que se refere à Cédula de Produto Rural de nº 7854, objeto sendo discutindo nas duas ações.
+Mesmas partes, mesma causa de pedir.
+Afirmam os apelantes que, embora haja identidade de partes e causa de pedir, os pedidos são diversos, o que afasta a litispendência, sendo certo que os pedidos formulados nos Embargos têm especificidades quanto ao contrato objeto da demanda, enquanto na revisional os pleitos relacionados aos encargos moratórios nas Cédulas Rurais Pignoratícias são abrangentes, englobando aquelas que ainda não haviam vencido à época e que estavam em discussão judicialmente.
+Entretanto, não há divergência alguma dos pedidos, pois se observa que os fundamentos são os mesmos. (fl. 1.912)
+Assim, a questão da abusividade ou não das cláusulas contratuais restará decidida na ação revisional e seus efeitos irradiam de forma consequente para a ação de execução em apenso a este embargos, de forma que não cabe rediscutir a matéria nesta seara processual.
+Portanto, não havendo outro fundamento para o excesso de execução, tratando-se de matéria de ordem pública, mantém-se a sentença de extinção do feito nos termos do art. 485, V do CPC. (fl. 1.915)
+Rever tal entendimento, conforme pretendido, implica a interpretação das cláusulas contratuais e o reexame do contexto fático-probatório dos autos. Sendo assim, incidem as Súmulas n. 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Confira-se: AgInt no AREsp n. 2.231.244/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no REsp n. 2.025.468/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no REsp n. 2.029.671/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Referente ao art. 85, § 10, do Código de Processo Civil, o Superior Tribunal de Justiça possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios implica o reexame do contexto fático-probatório. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+O afastamento da referida súmula somente é possível em situações excepcionais, que se configuram quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes, o que não é o caso em apreço.
+Nesse sentido: AgInt no AREsp n. 2.059.368/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgInt nos EDcl no AREsp n. 2.208.098/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgInt no REsp n. 1.545.883/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 3/4/2023; AgInt no AREsp n. 2.087.604/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
