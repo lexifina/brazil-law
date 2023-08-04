@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por VANILDE DE ALVARENGA MENDES contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, por sua vez desafia o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. "AÇÃO DE INDENIZAÇÃO SECURITÁRIA". SENTENÇA QUE EXTINGUIU O PROCESSO ANTE O INDEFERIMENTO DA PETIÇÃO INICIAL. PRELIMINAR ARGUIDA NAS CONTRARRAZÕES. PRESCRIÇÃO DA PRETENSÃO. PRAZO ÂNUO. INTELIGÊNCIA DO ARTIGO 206, § 1.º, INCISO II, ALÍNEA "B" DO CÓDIGO CIVIL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DA INVALIDEZ. ORIENTAÇÃO CONTIDA NA SÚMULA DE N.º 278 DO E. STJ. AJUIZAMENTO DA DEMANDA APÓS O TÉRMINO DO PRAZO. RECONHECIMENTO DA PRESCRIÇÃO. SENTENÇA CASSADA PARA RECONHECER A PRESCRIÇÃO E JULGAR EXTINTO O PROCESSO COM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ARTIGO 487, INCISO II DO CÓDIGO PROCESSUAL CIVIL. RECURSO PREJUDICADO.
+Nas razões do recurso especial (fls. 193-200, e-STJ), a recorrente aponta violação do art. 206, § 1º, inciso II, "b", do Código Civil.
+Sustenta em síntese, a impossibilidade de reconhecimento do transcurso do lapso prescricional ânuo em ação de indenização securitária que considera como termo inicial da contagem do prazo a data da realização de mero exame médico, haja vista a necessidade de perícia médica ou de laudo médico para comprovar a ciência inequívoca do caráter permanente da invalidez não notória, nos termos do Recurso Especial Repetitivo nº. 1.388.030/MG e enunciado da Súmula nº 278 desta Corte de Justiça.
+Postula a reforma do acórdão estadual para afastar a ocorrência da prescrição e determinar o retorno dos autos à origem para prosseguimento do feito.
+Contrarrazões ofertadas às fls. 204-212, e-STJ.
+Inadmitido o recurso na origem (fls. 213-215, e-STJ), sobreveio o presente agravo (fls. 219-223, e-STJ), no qual se busca o processamento do apelo nobre.
+Juízo de retratação negativo (fl. 233, e-STJ).
+É o relatório. Decide-se.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação, no entanto, não merece prosperar.
+1. A recorrente aponta infringência da norma contida no art. 206, § 1º, inciso II, "b", do CC, por ter o acórdão recorrido reconhecido a prescrição da pretensão autoral de indenização securitária por invalidez permanente não notória, considerando para tanto como termo inicial da contagem do prazo a data da realização de exame médico que, por si só, não comprovaria a ciência inequívoca da autora acerca de sua incapacidade permanente, dado que, para tanto, seria necessária a realização de perícia médica judicial ou a emissão de laudo médico atestando a invalidez permanente.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos (fls. 184-187, e-STJ):
+II - VOTO E SUA FUNDAMENTAÇÃO
+Alega a seguradora apelada que a pretensão autoral está prescrita, visto que decorreu mais de 1 (um) ano entre a suposta invalidez do autor e o ajuizamento da demanda.
+É indubitável que o prazo prescricional para a cobrança securitária é de 1 (um) ano, nos termos do artigo 206, § 1.º, inciso II, alínea "b", do Código Civil, bem como do contido no verbete sumular de n.º 101, do e. Superior Tribunal de Justiça.
+ ..
+Demais disso, sobre o termo inicial e a causa suspensiva do prazo prescricional, extrai-se dos enunciados das Súmulas 229 e 278, do e. Superior Tribunal de Justiça:
+"O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão".
+"O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral".
+A partir disso, inequívoco que o prazo começa a fluir a partir da ciência inequívoca da invalidez, que, in casu, ocorreu em 29.12.14, conforme Laudo Médico elaborado pelo profissional Dr. Sidney Calixto Junior, no qual se informa o seguinte (mov. 1.9):
+ ..
+Ademais, informa a parte autora que se tornou permanentemente incapaz no curso do contrato de trabalho mantido com a empresa estipulante, o qual se encerrou em 11.10.16. Portanto, no mínimo, é inegável que ao fim do contrato de trabalho a autora já tinha ciência da invalidez.
+Portanto, o marco inicial do prazo prescricional ocorreu em 29.12.14, por se tratar do fato gerador da pretensão de cobertura securitária, conforme a teoria da actio nata inserta no artigo 189 do Código Civil  1 .
+Desse modo, considerando que a ciência inequívoca da invalidez permanente restou comprovada nos autos através de laudo médico, e que transcorreu mais de 01 (um) ano entre a data do diagnóstico (29.12.14 - mov. 1.9) e o ajuizamento da presente demanda (17.11.21), resta, de fato, consumada a prescrição.
+A título de esclarecimento, ainda que se considere o encerramento do contrato de trabalho com a estipulante o momento da ciência inequívoca da invalidez, a pretensão autoral encontra-se ainda assim prescrita.
+Verifica-se, no entanto, a ausência de prequestionamento da tese recursal, pois o Tribunal de origem não analisou o tema sob o viés suscitado no apelo especial, qual seja, quanto à suficiência ou não do documento analisado para comprovar a ciência inequívoca da incapacidade permanente e, via de consequência, ser considerado o marco inicial da contagem do prazo prescricional, tampouco foi suscitada sua discussão em embargos de declaração, ressentindo-se o apelo extremo, no ponto, do indispensável prequestionamento.
+Incide, à hipótese, os óbices das Súmulas nºs 282 e 356 do STF, por analogia.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO DE VIDA. DEVER DE INFORMAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. COBERTURA SECURITÁRIA. GRAU DE INVALIDEZ DO SEGURADO. REVISÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão recorrido não dirimiu a controvérsia sob o enfoque do dever de informação a respeito das cláusulas restritivas de cobertura, e nem foi suscitada sua discussão nos embargos de declaração opostos. Ausência do indispensável prequestionamento da matéria a ensejar o recurso especial. Incidência, à hipótese, das Súmulas nºs 282 e 356, ambas do STF, por analogia.
+3. A alteração das conclusões do acórdão recorrido, no que se refere ao grau de invalidez do segurado e ao valor da respectiva indenização, exigiria a interpretação de cláusula contratual, bem como o reexame do acervo fático-probatório da causa, o que é vedado nesta via excepcional ante os óbices das Súmulas nºs 5 e 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.878.799/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.) grifou-se
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS COM REMOÇÃO E ESTADIA DE VEÍCULO EM PÁTIO PRIVADO. VEÍCULO OBJETO DE CONTRATO DE FINANCIAMENTO, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. INSTÂNCIAS ORDINÁRIAS ASSENTARAM QUE O RECOLHIMENTO FOI DECORRENTE DE AÇÃO MOVIDA PELO CREDOR. CREDOR RESPONSÁVEL PELAS DESPESAS DE ESTADIA. PRECEDENTES. VIOLAÇÕES DO CÓDIGO DE TRÂNSITO BRASILEIRO. INCIDÊNCIA EM CASO DE PENALIDADE POR INFRAÇÃO ADMINISTRATIVA. O QUE NÃO É O CASO DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+1. O Tribunal pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, as questões que lhe foram submetidas, ainda que tenha decidido em sentido contrário à pretensão da parte.
+2. Quanto aos arts. 389, 944, 1.196, 1.204, 1.361, 1.368-B do Código Civil, apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem, nem mesmo implicitamente, apesar da interposição dos embargos de declaração objetivando suprir eventual omissão quanto a esse ponto.
+3. Persistindo a omissão, como no presente caso, e sendo relevante, no seu entender, para a solução da controvérsia, deveria a parte ora recorrente ter apontado, nas razões do recurso especial, afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o óbice da ausência de prequestionamento, providência a que se furtou. Incide, portanto, na espécie o óbice da Súmula 211/STJ.
+4. Não há falar-se em prequestionamento ficto porquanto a incidência do art. 1.025 do CPC, segundo a jurisprudência desta Corte Superior, exige que no recurso especial seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+(..)
+8. Agravo interno não provido.
+(AgInt no REsp 1817294/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/04/2021, DJe 26/04/2021) grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS E ANÁLISE DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia acerca do reconhecimento da ilegitimidade da agravada não foi dirimida no acórdão recorrido sob o enfoque dos artigos indicados como violados, tampouco foram opostos embargos de declaração, a fim de suscitar especificamente sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento (Súmulas n. 282 e 356/STF).
+2. A análise das razões recursais e a reforma do acórdão questionado, para atribuir a legitimidade passiva à recorrida, demandaria o reexame das cláusulas contratuais e das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto nos enunciados n. 5 e 7 da Súmula do STJ.
+3. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.171.480/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017.) grifou-se
+Desse modo, inviável o conhecimento do apelo nobre .
+2. Do exposto, com fundamento no art. 1.042, § 5º, do CPC/15 c/c o art. 253, parágrafo único, inciso II, "a", do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, uma vez que são inaplicáveis ao caso concreto.
+Publique-se. Intimem-se.
