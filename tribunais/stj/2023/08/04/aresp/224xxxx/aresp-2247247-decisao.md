@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ, contra decisão do Tribunal de Justiça daquela Unidade Federativa que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado na Apelação Criminal n. 0000535-72.2011.8.18.0031.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravado às penas de 8 (oito) anos, 10 (dez) meses e 8 (oito) dias de reclusão, em regime inicial fechado, e pagamento de 145 (cento e quarenta e cinco) dias-multa, no mínimo legal, como incurso no art. 157, § 2.º, inciso II, do Código Penal (fls. 889-899).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu parcial provimento para afastar a valoração negativa da culpabilidade, dos antecedentes, da conduta social, da personalidade e das consequências do crime, redimensionando as reprimendas a 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e pagamento de 13 (treze) dias-multa, no menor valor legalmente previsto (fls. 785-814).
+Sustenta a Acusação, nas razões do apelo nobre, contrariedade ao art. 59 do Estatuto Repressor.
+Alega que a culpabilidade do Agente deve ser considerada negativa porque o delito foi cometido em via pública e com o uso de arma branca.
+Foram apresentadas contrarrazões (fls. 839-850). O recurso especial não foi admitido (fls. 851-854). Foi interposto agravo (fls. 859-871).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento do agravo para negar provimento ao apelo nobre (fls. 909-912).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 804-805; sem grifos no original):
+"A defesa pleiteia o redimensionamento da pena-base ao mínimo legal, sob o argumento de que a magistrada a quo não apresentou fundamentação idônea para a valoração das circunstâncias judiciais.
+ ..
+Merece destaque, também, trecho da sentença que trata das circunstâncias judiciais e fixa a pena-base (pág. 618/619 - id. 1078106):
+(..) CULPABILIDADE exacerbada, sua conduta merece reprovação, merece censura, porquanto nas circunstâncias era-lhe exigível conduta de respeito à norma. É de se ver que o acusado juntamente com o seu comparsa RENEE bastante conhecido no mundo do crime praticou o roubo contra a vítima que caminhava tranquilamente na rua, fazendo uso de uma chave ingleza, cometeu o delito em local público e com circulação de muitas pessoas; assim não se preocupou em cometer o crime na presença de testemunhas, fatos que exacerba o desvalor de sua conduta social, para além dos elementos normativos do tipo, razão pela qual elevo a pena em 1 6.
+ ..
+De início, registra-se que deve ser afastada a valoração da culpabilidade, pois, consoante vem decidindo o Superior Tribunal de Justiça, o simples fato de o delito ser praticado em via pública, com grande circulação de pessoas, não se mostra suficiente para justificar a exasperação da reprimenda (STJ, HABEAS CORPUS Nº 543.674 - RJ, Rel. Ministro Sebastião Reis Júnior, decisão monocrática, publicada em 10/12/2019)."
+Nos termos da jurisprudência desta Corte Superior de Justiça, conquanto, no crime de roubo, a ameaça resultante do uso arma branca (no caso, chave inglesa) possa fundamentar a exasperação da pena-base, tal proceder somente é pa ssível de ser adotado quando também são declinadas outras particularidades do caso concreto aptas a emprestar maior reprovabilidade à conduta, o que não ocorreu na hipótese dos autos.
+No mesmo sentido:
+" ..
+1. Verifica-se nos autos que o delito em análise foi praticado com o emprego de arma branca (faca), situação não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do §2º do art. 157 do CP. Assim, tendo em vista a abolitio criminis, promovida pela referida lei, e em observância ao art. 5º, inciso XL, da Constituição Federal, é de rigor a aplicação da novatio legis in mellius, devendo ser excluída a causa de aumento do art. 157, §2º, inciso I, do CP do cálculo dosimétrico.
+2. O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 436.314/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 16/8/2018, DJe 21/8/2018).
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 1.847.944/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021.)
+" ..
+1. Para a jurisprudência da Terceira Seção desta Corte Superior, em hipóteses como a descrita nos autos, o Juízo da execução tem a possibilidade de deslocar o desvalor do uso da arma branca da terceira para a primeira fase da dosimetria.
+2. O delito apurado na origem foi praticado com o emprego de arma branca (faca), situação não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do § 2º do art. 157 do Código Penal.  ..  O Juiz da execução reconheceu essa inovação e, diante disso, operou o deslocamento dessa majorante, da terceira para a primeira fase do cálculo da pena. Tal procedimento tem sido reconhecido como válido pela jurisprudência da Terceira Seção desta Corte, cujo entendimento é no sentido de que o emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 436.314/SC, Ministro FELIX FISCHER, Quinta Turma, julgado em 16/8/2018, DJe 21/8/2018).  ..  Assim, tendo sido reconhecido o uso da arma branca (faca) durante o roubo, associado a outras particularidades do modus operandi que refletem a gravidade concreta do crime, o mero deslocamento desta circunstância da terceira para a primeira fase da dosimetria, ainda que em sede de execução penal, não configura reformatio in pejus, em especial, porque, na hipótese, a sanção imposta ao agravante não foi alterada (AgRg no HC n. 593.889/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/9/2020).
+3. O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 476.385/SP, Ministro Felix Fischer, Quinta Turma, DJe 14/12/2018).
+ ..
+8. Agravo regimental improvido." (AgRg no REsp 1.880.840/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; sem grifos no original.)
+Por outro lado, como se verifica dos trechos da sentença e do acórdão recorrido antes transcritos, o roubo foi praticado em local público e de grande circulação de pessoas. Esse conjunto de fatores traz elementos não inerentes ao tipo penal e demonstra um maior grau de reprovabilidade da conduta, justificando a negativação das circunstâncias do delito.
+A propósito:
+" ..
+5. Consoante jurisprudência desta Corte, a premeditação do delito e a prática do crime em local com grande circulação de pessoas são fatores que podem legitimar a exasperação da pena-base. Quando a violência excede o comum à espécie, é possível a elevação da sanção basilar do delito de roubo sob tal fundamento. O trauma causado à vítima, que não se confunde com mero abalo passageiro, também é elemento hábil a justificar a avaliação negativa do vetor consequências do crime.
+ ..
+10. Recurso não conhecido." (AgRg no HC n. 785.572/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023.)
+" ..
+2. O afastamento da causa de aumento de pena no crime de roubo pelo uso de arma branca, em razão da novatio legis in mellius engendrada pela Lei n. 13.654/2018, não impede a valoração dessa circunstância para o aumento da pena-base, desde que não importe prejuízo ao réu (AgRg no REsp n. 1.867.201/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 31/8/2021).  ..  A ousadia do agente em cometer o delito em local de grande circulação de pessoas configura fundamento válido a exasperar a pena-base no tocante à culpabilidade (AgRg no HC n. 587.995/AC, Ministro João Otávio De Noronha, Quinta Turma, DJe 19/10/2020).  ..  Conforme a pacífica jurisprudência deste Tribunal Superior, a premeditação do delito autoriza a valoração negativa da culpabilidade na primeira fase da dosimetria da pena (AgRg no AREsp n. 1.794.034/GO, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2021).
+ ..
+5. Agravo regimental desprovido." (AgRg no REsp n. 1.943.274/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022; sem grifos no original.)
+" ..
+1. A ousadia do agente em cometer o delito em local de grande circulação de pessoas configura fundamento válido a exasperar a pena-base no tocante à culpabilidade.
+ ..
+3. Agravo regimental desprovido." (AgRg no HC n. 587.995/AC, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 13/10/2020, DJe de 19/10/2020.)
+Fixadas essas premissas, restabeleço a valoração negativa da culpabilidade do Réu e passo a redimensionar as respectivas reprimendas.
+1.ª Fase - Nos termos da fundamentação contida neste decisum, restabeleço a valoração negativa da culpabilidade. Portanto, fixo a pena base em 4 (quatro) anos e 8 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa.
+2.ª Fase - Conforme consignado na sentença e no acórdão recorrido, não há agravantes ou atenuantes a considerar. Assim, as penas intermediárias permanecem inalteradas.
+3.ª Fase - De acordo com o estabelecido pelo magistrado de piso e pelo Tribunal de origem, foi reconhecida a majorante do concurso de pessoas à razão de 1/3 (um terço). Nessas condições, as penas definitivas são de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão e pagamento de 14 (quatorze) dias-multa.
+Por fim, esclareço que, a despeito de a pena ter sido estabelecida em patamar superior a 4 (quatro) anos e inferior a 8 (oito) anos de reclusão, é adequado o regime inicial o fechado ante a existência de circunstância judicial negativa.
+A propósito:
+" ..
+3. Quanto à pretensão de fixação do regime fechado, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+4. No caso, figuram elementos suficientes para justificar a imposição do regime fechado, diante da existência de circunstância judicial negativa, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+5. Embargos de declaração parcialmente acolhidos, com efeitos modificativos, para dar parcial provimento ao agravo regimental e, por consequência, conhecer do agravo em recurso especial e dar-lhe parcial provimento, a fim de fixar o regime fechado." (EDcl no AgRg no AREsp n. 2.142.252/RN, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 7/2/2023, DJe de 16/2/2023.)
+" ..
+4. No presente caso, em atenção ao art. 33, § 2º, alínea "b", do CP, embora estabelecida a pena definitiva do acusado em 7 anos, 9 meses e 10 dias de reclusão, houve a consideração de circunstância judicial negativa na exasperação da pena-base, fundamento a justificar a fixação do regime prisional mais gravoso, no caso, o fechado.
+5. Agravo regimental não provido." (AgRg no AREsp n. 2.166.501/TO, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e DAR PARCIAL PROVIMENTO ao recurso especial, a fim de restabelecer a valoração negativa da culpabilidade do Agente e redimensionar as respectivas penas a 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e pagamento de 14 (quatorze) dias-multa.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. ROUBO MAJORADO. PENA-BASE. EMPREGO DE ARMA BRANCA (CHAVE INGLESA). CONSIDERAÇÃO PARA EXASPERAR A PENA-BASE. IMPOSSIBILIDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS QUE POSSAM JUSTIFICAR A ATRIBUIÇÃO DE MAIOR REPROVABILIDADE À CONDUTA. PRÁTICA DO DELITO EM VIA PÚBLICA, LOCAL DE GRANDE CIRCULAÇÃO DE PESSOAS. NEGATIVAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO CONHECIDO PARA CONHECER E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
