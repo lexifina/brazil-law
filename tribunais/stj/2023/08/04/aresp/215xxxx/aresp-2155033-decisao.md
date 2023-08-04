@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por KELLY LOUZADA DA SILVA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos termos da seguinte ementa (fls. 552-553):
+APELAÇÃO. GESTÃO DE NEGÓCIOS. RESCISÃO CONTRATUAL EINDENIZAÇÃO. INTERMEDIAÇÃO E CUSTÓDIA DE ATIVOS MOBILIÁRIOS. MERCADO DE CAPITAIS. CERCEAMENTO DE DEFESA. INOCORRENTE. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+O indeferimento da prova testemunhal e pericial requerida pela autora não configura cerceamento de defesa, porque a análise da controvérsia é estritamente documental, tornando as aludidas provas inúteis.
+FALHA NA PRESTAÇÃO DO SERVIÇO. INSTABILIDADE NA PLATAFORMA DE NEGOCIAÇÕES DA DEMANDADA. NÃO COMPROVADA. PREJUÍZOS MATERIAIS. INIMPUTÁVEIS À CORRETORA DE ATIVOS MOBILIÁRIOS.
+1. A autora não conseguiu comprovar que a plataforma de investimentos mantida pela demandada ficou inoperante nos dias e horários relatados na inicial, inviabilizando suas operações de compra e venda de ativos no mercado de capitais, o que teria lhe causado prejuízos financeiros.
+2. A prova coligida demonstra que a vertiginosa perda de capital da autora se deu pela soma do seu perfil de investimento somado à instabilidade financeira gerada pelo início da Covid-19, fatos não imputáveis à demandada, mas à própria investidora e ao mercado de ações.
+3. Inexistindo conduta ilícita cometida pela corretora de ativos (demandada), não há como atribuir a ela qualquer responsabilidade indenizatória, seja material ou moral.
+RECONVENÇÃO. DÉBITO INCORPORADO PELA CORRETORA. RESTITUIÇÃO. MANTIDA.
+Embora a demandada tenha liquidado parte da carteira de capital da autora, visando quitar o débito no mercado de capitais, ainda ficaram débitos em aberto, os quais foram assumidos pela corretora (XP), fazendo ela jus a restituição.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial (fls. 559-577), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 369 e 373, I e II, do Código de Processo Civil, sustentando que ocorreu cerceamento de defesa, diante do indeferimento de provas postuladas; e
+b) 2º, 3º, 6º, 12 e 29 do Código de Defesa do Consumidor; 186, 187, 402, 475, 927 e 944 do Código Civil; 17 da Instrução n. 434 da CVM; 2º, X, da Instrução n. 387 da CVM; art. 13, III e IV, da Instrução n. 497 da CVM; e 6º, §2º, 12, §1º, da Instrução n. 387 da CVM, alegando que houve falha na prestação de serviço da ora agravada, o que a impossibilitou de evitar os prejuízos relatados.
+Oferecidas contrarrazões (fls. 583-593), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 596-600), o que ensejou a interposição do presente agravo (fls. 609-625).
+Apresentadas contraminutas do agravo (fls. 630-639).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, não é cabível o recurso especial por ofensa à norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça, de acordo com a alínea a do inciso III do artigo 105 da Constituição Federal.
+Ademais, o Tribunal de origem concluiu que não há falar em cerceamento de defesa, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fl. 547):
+Não há falar em cerceamento de defesa, decorrente do indeferimento da prova testemunhal e pericial, porque se mostram diligências inúteis e meramente protelatórias ao deslinde da questão, conforme art. 370, parágrafo único, do CPC.
+A prova testemunhal visava provar o abalo e os problemas causados à autora pela instabilidade do sistema da demandada, bem como, provar o contato telefônico que teve com a assessoria da demandada, requerendo que o assessor realizasse a operação desejada de forma direta, uma vez que a plataforma da XP Investimentos estava travando. Entretanto, a instabilidade técnica e o contato telefônico são passível de prova documental (ex. captura de tela da plataforma online, registro de chamada), enquanto o abalo moral é corolário lógico da prova documental.
+Já a perícia contábil visava provar os prejuízos financeiros suportados pela falha, em decorrência da má prestação do serviço. Novamente, tal prova é iminentemente documental, inclusive, a autora apontou o valor do prejuízo material na petição inicial (R$ 79.103,55), confirmando a desnecessidade da perícia.
+Rever tal entendimento, conforme pretendi do, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. / conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
