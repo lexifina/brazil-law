@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se habeas corpus, sem pedido de liminar, impetrado em favor de EDUARDO FERNANDES DIAS, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no agravo em execução n. 0001857-89.2022.8.26.0041.
+Consta dos autos que o Juízo das Execuções reconheceu falta grave em desfavor do paciente (fls.31-33).
+Inconformada, a Defesa interpôs agravo em execução, perante o Tribunal de origem, o qual desproveu o recurso, em acórdão, assim ementado (fls. 34-37):
+"FALTA GRAVE - Desclassificação das faltas. Impossibilidade. Dias remidos  perda justificada. Falta que tem o condão de interromper prazo para progressão. Agravo desprovido."
+No presente mandamus, a Defesa alega constrangimento ilegal em face do paciente, pela imposição de indevida sanção coletiva, no reconhecimento da falta grave.
+Assevera que, no reconhecimento da infração disciplinar, o Juiz da Execução Penal aplicou sanção a todos os envolvidos no ato, sem a individualização da conduta de cada apenado, em verdadeiro cerceamento de defesa.
+Sustenta a "impossibilidade de punição coletiva, visto que para a tipificação da falta grave, é indispensável a descrição pormenorizada da conduta do sentenciado que teria caracterizado a falta, bem como sua subsunção direta à conduta prevista na legislação ordinária como falta grave, o que não havia sido verificado no caso" (fl. 5).
+Aduz que "O Paciente não foi identificado por montar qualquer barraca, e na questão do uso, nega com veemência, logo, pelo simples fato de não ter sido identificado pela construção, não pode pagar pelo todo" (fl. 6).
+Assere que deve ser afastada a sanção imposta ao paciente, assim como ocorreu em favor de outro apenado, Sandro, na origem, nos autos do agravo n. 0000161-18.2022.8.26.0041.
+Requer, ao final, "estender ao paciente os efeitos do acórdão proferido no agravo nº 0000161-18.2022.8.26.0041, que reconhece a impossibilidade de punição coletiva, assim o fazendo para absolve-lo, da imputação de falta grave, e ao final, sob o aspecto meritório, que seja confirmada em definitivo a decisão proferida em sede de liminar" (fl. 8).
+Informações, às fls. 76-82 e 87-89.
+O Ministério Público Federal, às fls. 91-92, manifestou-se pela denegação da ordem, em parecer com a seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CONDUTA INDIVIDUALIZADA E COMPROVADA. SANÇÃO COLETIVA INEXISTENTE.
+1. A anotação da falta grave decorreu da desobediência às regras estabelecidas para prevenção da COVID-19, que estabelecia certo distanciamento entre os detentos e seus familiares durante o horário de visitas. Caso em que o paciente utilizou de barraca construída por ele e outros detentos para manter contato físico com sua companheira durante o horário de visitas.
+2. Ato de insubordinação devidamente individualizado e comprovado, que afasta qualquer incursão acerca da configuração de eventual sanção coletiva.
+3. Parecer pela denegação da ordem."
+É o relatório.
+Decido
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Ora, as instâncias ordinárias, mediante análise fática e probatória, entenderam que o paciente praticou falta grave prevista no art. 50, VI, c/c o art. 39, I, II e IV, ambos da Lei de Execução Penal, por ter desobedecido as normas estabelecidas nos procedimentos para prevenção da COVID-19, ao ter, durante horário de visita, mantido contato físico com sua companheira numa "barraca" por ele montada, em prejuízo à vigilância dos agentes prisionais.
+Aqui, o acórdão (fl. 36):
+"Restou demonstrado que o agravado praticou falta disciplinar nos termos do art. 50, inciso VI da Lei nº 7.210/84, no dia 22/08/2021, por ter desobedecido as normas estabelecidas nos procedimentos para prevenção da COVID-19, já que, durante horário de visita, manteve contato físico com sua companheira numa barraca por ele montada, que também prejudicou a vigilância pelos servidores.
+Segundo restou apurado, no dia 24/08/2021, por volta das 17h45min, a realização da visita de familiares, realizada de forma presencial no interior do Pavilhão Habitacional IV, nos períodos da manhã e tarde, alguns sentenciados montaram estruturas tipo "cabanas", confeccionadas com lençois, banquinhos plásticos e garrafas pet, que dificultavam a vigilância do pavilhão" (grifei).
+No caso concreto, ao contrário da irresignação defensiva, não há falar em sanção coletiva, na medida em que a conduta do paciente, embora tenha sido a mesma de outros apenados no cometimento da falta grave, foi individualizada.
+Vale destacar que, segundo os autos:
+"Ao contrário do sustentado pela defesa, o agente penitenciário Cesar Aparecido Batista afirmou ter identificado o sentenciado com certeza através das imagens. Ele e sua esposa permaneceram o tempo da visita nas "barracas" montadas pelos sentenciados para que pudessem manter contato físico, contrariando ordem expressa dos agentes (fls. 58)" (fl. 36, grifei).
+No que atine à questão da validade dos depoimentos dos agentes prisionais em geral, esta Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções e ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada (AgRg no AREsp n. 1.281.468/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/12/2018; AgRg no RHC n. 168.326/SP Quinta Turma, de minha relatoria, DJe de 14/3/2023; e AgRg no HC n. 611.832/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/4/2022).
+Com efeito, não se pode confundir sancionamento coletivo, este sim vedado pelo ordenamento jurídico, por caracterizar verdadeira responsabilização objetiva, com autoria coletiva, a qual se configura quando apurada a infração e reconhecida a responsabilidade autoral de vários reeducandos (no caso), em razão de circunstâncias concretas, acarretando a punição individualizada dos envolvidos.
+Vejamos os seguintes precedentes: AgRg no HC n. 820.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/5/2023; e AgRg no HC n. 782.937/SP, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 19/4/2023.
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Sobre o tema: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023
+Portanto, verifica-se na hipótese que a homologação da falta disciplinar de natureza grave encontra-se pautada em fundamentação idônea.
+Ante o exposto, denego o habeas corpus.
+P. I.
