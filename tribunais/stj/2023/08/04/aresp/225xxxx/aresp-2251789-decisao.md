@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU (CDHU) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta ao agravo em recurso especial, conforme certidão de e-STJ fl. 1.119.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CDHU alegou a violação aos artigos (1) 489, §1º, III a V e 1.022 do CPC em razão da falta de manifestação do Tribunal estadual quanto à análise da denunciação da lide à Caixa Econômica Federal; ao cerceamento de defesa pela necessidade de esclarecimento quanto à perícia realizada nos autos; e, à regularidade da edificação à época da sua entrega pela incontroversa aprovação dos projetos pelos órgãos reguladores competentes, emissão do Auto de Vistoria do Corpo de Bombeiros (AVCB) e do Habite-se; (2) 477, §2º do CPC, defendendo a nulidade do acórdão pelo cerceamento de defesa fundamentado pelo encerramento prematuro da instrução dos autos; (3) 618, parágrafo único, do CC e 487, II do CPC, aduzindo a ocorrência da prescrição e o desrespeito ao prazo decadencial de 180 (cento e oitenta dias); (4) 485, VI, do CPC, asseverando sua ilegitimidade passiva ad causam; (5) 70, III do CPC/73, vigente à época da contestação, tendo em vista a necessidade da denunciação da lide à Caixa Econômica Federal; (6) 3º, 6º do CDC e 373 do CPC, afirmando que a relação entre as partes não deve ser caracterizada como de consumo e, por isso, a inversão do ônus da prova não é automática na hipótese; e (7) 33 do CPC/73, vigente à época da contestação, insurgindo-se contra a determinação da Corte Estadual para que arcasse com os honorários periciais.
+(1) Da negativa de prestação jurisdicional (violação dos arts. 489, §1º, III a V e 1.022 do CPC)
+Em que pese as alegações da CDU no sentido de que a CAIXA ECONÔMICA FEDERAL foi a efetiva responsável pela construção do empreendimento habitacional na sua integralidade, o TJSP explicitou que, na espécie, "é inviável a responsabilização do agente financeiro, que apenas atuou na administração dos contratos de financiamento imobiliário" (e-STJ fl. 1.040).
+Quanto ao cerceamento de defesa, o acórdão impugnado esclareceu expressamente que "os elementos existentes nos autos são suficientes para o julgamento da demanda" (e-STJ fl. 1.040).
+A respeito da regularidade da edificação à época da entrega, o aresto recorrido registrou que a aprovação da obra por órgãos estatais e municipais não tem o condão de alterar a realidade retratada pelo expert judicial, especialmente considerando os inúmeros vícios construtivos constatados (e-STJ fl. 1.045).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, a alegada violação.
+(2) Do cerceamento de defesa
+A questão foi assim esclarecida pelo Tribunal paulista:
+Igualmente, merece ser repelida a preliminar de cerceamento de defesa suscitada pela ré, uma vez que o magistrado não é obrigado a deferir todas as provas postuladas pelos litigantes, quando entender que os elementos existentes nos autos são suficientes para o julgamento da demanda, como ocorre no caso sub judice (e-STJ fl. 1.040).
+Assim, rever as conclusões quanto à ocorrência do cerceamento de defesa demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+(3) Da prescrição e da decadência
+A conclusão do aresto impugnado quanto ao tema foi no sentido de que "não há se falar em prescrição e decadência do direito do autor, uma vez que os prazos previstos no artigo 618 do Código Civil, se referem unicamente à execução da garantia de solidez da obra, hipótese diversa daquela tratada nos autos" (e-STJ fl.1.041).
+Além disso, suas razões foram fundamentadas no Enunciado 181 do CJF (e-STJ fl. 1.041), no prazo prescricional do art. 205 do CC (e-STJ fl. 1.402), e ainda que "restou incontroverso que os vícios construtivos "sub judice" foram constatados em que as obras foram concluídas em dezembro de 2009 com a expedição do "Habite-se" (cfr. fls. 227) e a ação interposta em abril de 2015, não há que se falar em prescrição ou decadência" (e-STJ fls. 1.042/1.043)
+Tratando-se de argumentos capazes de manter o acórdão impugnado por suas próprias razões e não havendo o ataque específico a tais pontos, colhe-se a incidência, por analogia, da Súmula 283 do STF, que estabelece que é inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+(4) Da ilegitimidade passiva ad causam
+CDHU alegou que "adquiriu o empreendimento habitacional já edificado junto à Caixa Econômica Federal, não realizando nenhum ato ou sequer participando das obras e serviços correlatos necessários à edificação do empreendimento" (e-STJ fl. 1.066), e por este motivo não tem responsabilidade em indenizar eventual vício na construção do Condomínio.
+Contudo o acórdão esclareceu expressamente que sua legitimidade "decorre do fato de ser ela um dos sujeitos da relação contratual discutida nos autos, assumindo posição de vendedor do imóvel aos autores, conforme se verifica do instrumento de fls. 207/214, sendo, portanto, parte legítima para responder ação em que se discute defeitos na construção do bem." (e-STJ fl. 1.039)
+E, que "em razão do contrato firmado, responder pela solidez da casa vendida, nos termos do art. 441 do Código Civil, sendo certo que o direito do autor está assegurado pelo dever de garantia da ré, inerente ao contrato de compra e venda e vinculado ao princípio da boa-fé (artigo 422 do Código Civil) e da vedação ao enriquecimento ilícito, justamente porque inexistiu qualquer desconto ou abatimento do preço em razão do vícios e defeitos construtivos constatados na perícia" (e-STJ fl. 763).
+Assim, da análise das razões do presente recurso verifica-se que os referidos fundamentos não foram impugnados, o que também atrai a incidência da Súmula nº 283 do STF, por analogia.
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+(5) Da denunciação da lide
+Aduziu a CDHU, em seu recurso, que como a Caixa Econômica Federal foi a efetiva responsável pela edificação do empreendimento habitacional, tendo alienado o imóvel a ela, é imprescindível a denunciação da lide na hipótese.
+Sobre o tema, o acórdão explicitou "que grande parte dos vícios e defeitos identificados no trabalho pericial já existiam na época da realização do negócio, sendo de rigor o reconhecimento da responsabilidade da ré na reparação de tais danos" (e-STJ fls. 1.044/1.045).
+Ademais, ratificou que a Caixa Econômica Federal apenas atuou na administração dos contratos de financiamento imobiliário, devendo ser rechaçada a pretensão da denunciação da lide requerida.
+Note-se, assim, que o entendimento adotado pelo Tribunal estadual foi baseado nas provas encartadas aos autos, notadamente o contrato firmado entre as partes.
+Modificar tal entendimento exigiria nova análise do conjunto probatório, medida inviável nesta esfera recursal em razão das Súmulas 5 e 7, ambas do STJ.
+(6) Da relação de consumo e da inversão do ônus da prova
+Observa-se que as matérias constantes dos arts. 3º, 6º do CDC e 373 do CPC não foram objeto de debate no acórdão recorrido, que se pronunciou sobre o que julgou necessário.
+Outrossim, apesar da interposição dos embargos de declaração, a recorrente não indicou omissão quanto aos referidos dispositivos legais em suas razões.
+Portanto, o conhecimento das teses fica prejudicado pela incidência da Súmula 211 do STJ.
+(7) Do pagamento da perícia
+O acórdão recorrido explicitou que não houve desobediência à decisão exarada pela Câmara de Direito Privado do TJSP, uma vez que o MM. Juiz a quo "jamais determinou que os honorários periciais fossem arcados pela empresa ré" (e-STJ fl. 1.043).
+Verifica-se que o dispositivo legal trazidos por CDHU nas razões do presente inconformismo (art. 33 do CPC/73) e as razões acerca do pagamento da perícia realizada nos autos não demonstra claramente o motivo pelo qual trouxe a citada matéria à discussão no especial, não estando presentes as razões de reforma do acórdão recorrido.
+Dessa forma, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE o apelo nobre e, nessa extensão, a ele NEGAR PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONJUNTO RESIDENCIAL CRUZEIRO DO SUL II, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso co ntra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C.C. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283 DO STF. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS EM JULGAMENTO DE RECURSO ESPECIAL. SÚMULAS NºS 5 E 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
