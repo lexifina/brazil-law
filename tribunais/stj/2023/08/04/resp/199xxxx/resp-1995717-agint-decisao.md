@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Agravo interno, interposto pela UNIVERSIDADE FEDERAL DE SANTA CATARINA, contra decisão de minha lavra, que negou provimento ao Recurso Especial.
+Tendo em conta a faculdade prevista no art. 259 do RISTJ, reconsidero a decisão agravada e passo, a seguir, a um novo exame do Recurso Especial.
+Trata-se de Recurso Especial interposto em face de acórdão cuja controvérsia diz respeito, dentre outros, à "possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV".
+Ocorre que a referida matéria foi afetada, pela Primeira Seção do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, no REsp 2.031.118/SP, no REsp 2.029.675/SP e no REsp 2.030.855/SP, de relatoria do Ministro HERMAN BENJAMIN (Tema 1.190/STJ, DJe de 27/04/2023).
+Nesse julgamento, determinou-se, com fundamento no art. 1.037, II, do CPC/2015, a "suspensão dos Recursos Especiais e Agravos em Recursos Especiais na segunda instância e/ou no Superior Tribunal de Justiça".
+Ante o exposto, reconsidero a decisão agravada e determino a devolução do presente feito ao Tribunal de origem, com a devida baixa neste Tribunal, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o presente recurso: ( a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
