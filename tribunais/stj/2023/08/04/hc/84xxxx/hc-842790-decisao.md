@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de Itamar Pereira Remuge, no qual se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que denegou a ordem no HC n. 5200216-76.2023.8.21.7000.
+Consta dos autos que o paciente foi condenado pelo delito de roubo qualificado, ao cumprimento da pena de 12 anos, 7 meses e 25 dias de reclusão, em regime inicial fechado. Na oportunidade, foi negado ao réu o direito de recorrer em liberdade - Processo n. 5007188-09.2022.8.21.0072, da 2ª Vara Criminal da comarca do Torres/RS.
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea, na sentença condenatória, para a manutenção da constrição cautelar.
+Aduz-se que o acórdão objurgado acrescentou fundamentação à necessidade de prisão, o que é incabível na via estreita do mandamus.
+Defende-se que, também, não foi fundamentada a impossibilidade de aplicação de medidas cautelares diversas, uma vez que nem sequer a necessidade de prisão preventiva foi fundamentada de forma idônea.
+Por fim, requer-se (fls. 11/12):
+ ..
+Ante o exposto, requer:
+a) A imediata concessão de medida liminar, determinando a substituição da prisão preventiva por medidas cautelares diversas da prisão;
+b) Subsidiariamente, caso não seja concedida a medida liminar, fato que não se espera, após o trâmite legal, prestadas as informações pela autoridade coatora e proferido o Parecer pelo Ministério Público, no julgamento de mérito requeremos que seja revogada a prisão preventiva ou substituída por medidas cautelares diversas da prisão;
+c) Ainda, de forma subsidiária, caso não seja conhecido o presente habeas corpus, requer seja concedida a ordem de ofício, diante da flagrante ilegalidade, conforme prevê o art. 654, § 2º, do CPP;
+d) Não sendo concedidos os pedidos, deixando-se de seguir os julgados colacionados neste writ, requer seja realizada a distinção no caso ou a superação dos entendimentos, por força do art. 315 § 2º, VI, do CPP.
+ ..
+É o relatório.
+Bom, é legítima a prisão cautelar decretada com o fim de garantir a ordem pública quando apresentada motivação concreta, tirada das circunstâncias que envolveram a prisão em flagrante.
+Extrai-se da decisão que condenou o réu que (fl. 33):
+ ..
+Mantenho os corréu ora condenados segregados, pois permanecem inalterados os motivos que ensejaram as prisões preventivas, agora reforçados pela sentença condenatória que lhes impôs o cumprimento das penas respectivas no regime inicialmente fechado.
+ ..
+Contudo, apesar das alegações da defesa de que não houve fundamentação idônea na decisão que manteve a prisão preventiva em sede de sentença condenatória, esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva devido à permanência das razões que a ensejaram. (RHC n. 177.983/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/6/2023, DJe 16/6/2023 - grifo nosso).
+Ademais, há, no Superior Tribunal de Justiça, precedentes segundo os quais, tendo o paciente permanecido preso durante toda a instrução processual, mediante decisão devidamente motivada, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em Juízo de primeiro grau (HC n. 584.762/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/2/2021).
+Também, segundo jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1 º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (RHC n. 121.762/CE, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020).
+Afora isso, a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória que não concede a agente que ficou preso durante toda a instrução processual o direito de recorrer em liberdade, por subsistirem as circunstâncias que justificaram a decretação da prisão preventiva (AgRg no RHC n. 169.970/TO, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022).
+Por outro lado, não vislumbro ilegalidade na decisão que decretou a preventiva, sobretudo porque, segundo o Juiz singular, a prisão preventiva está devidamente fundamentada na gravidade em concreto do delito e na reiteração delitiva, uma vez que o ora paciente, com antecedentes por homicídio, roubo, tráfico de drogas, receptação e outros, teria praticado o delito de roubo de mercadorias, que estavam sendo transportadas em um ônibus, em concurso de agentes, em atividade criminosa organizada, portanto de caráter profissional, seja por atuarem os supostos agentes de forma a colocar em xeque a integridade física das vítimas, que se veem assaltadas à mão armada e subjugadas à condição de reféns; seja também porque, neste cenário, com os perfis comportamentais estampados a partir das certidões de antecedentes anexadas, assome provável também o risco de fuga, em prejuízo da aplicação da lei penal (fls. 14/15).
+Sendo assim, não há falar em ausência de fundamentação idônea. Ademais, estando devidamente fundamentada a decisão proferida pelo Juiz singular, indiferente o suposto acréscimo de fundamentação perpetrado pelo Tribunal a quo.
+Por fim, havendo nos autos elementos hábeis a recomendar a manutenção da custódia máxima, não se mostram suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO QUALIFICADO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. VEDAÇÃO DO RECURSO EM LIBERDADE. PRESO DURANTE TODA A INSTRUÇÃO. MANUTENÇÃO DA CUSTÓDIA CAUTELAR GANHA REFORÇO COM A PROLAÇÃO DA SENTENÇA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada.
