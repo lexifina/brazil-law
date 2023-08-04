@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JOSENILTON CORDEIRO DUARTE, JOSÉ SOARES DE MELO FILHO, SALATIEL ROSENDO DE ALBUQUERQUE, FÁBIO LUIZ DO PRADO, JOSÉ LOURIVAL FERREIRA PIRES e JOSÉ TALVANE DA SILVA, com fundamento no art. 102, III, a , da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 423-424):
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PLANO DE CARGOS E CARREIRAS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO COMPROVAÇÃO DOCUMENTAL DE DIREITO. PROVA PRÉ-CONSTITUÍDA DA EXISTÊNCIA DO DIREITO AFIRMADO.
+I - Na origem, trata-se de mandado de segurança objetivando a anulação do ato administrativo que os excluiu do Plano de Cargos e Carreiras do Estado de Pernambuco, o qual determina os critérios de promoção para os militares estaduais, sustentado assim que deveriam ser promovidos ao cargo superior ao atual, por terem cumprido com os critérios previstos em lei. No Tribunal a quo, denegou-se a segurança.
+II - Observa-se que o Tribunal a quo assentou expressamente que os impetrantes firmaram suas pretensões com base em interpretação análoga ao que estabelece a Lei Complementar Estadual n. 320/2015, que redefiniu o Plano de Cargos e Carreiras dos Policiais Militares, a qual estabeleceu novos critérios de promoção aos postos do Oficialato. Ainda que a concessão da promoção automática, por antiguidade decenal conferida pela norma em questão, não foi extensiva aos Oficiais do Quadro de Oficiais da Administração, não ficando configurada a ausência de direito líquido e certo da demanda.
+III - Dessa forma, não havendo nos autos prova documental capaz de comprovar o direito dos impetrantes, é de rigor a manutenção do acórdão recorrido.
+IV - Ademais, a ação mandamental exige que a inicial venha acompanhada de prova pré-constituída da existência do direito afirmado, uma vez que não admite dilação probatória. Não cuidando os impetrantes de demonstrar nos autos a existência do direito líquido e certo capaz de amparar a segurança, o desprovimento recursal é medida que se impõe, já que não cabe dilação probatória na via eleita. Confiram-se decisões desta Corte a respeito do tema: AgInt no MS n. 23.205/DF, 2017/0020151-8, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/9/2017, DJe 19/9/2017; RMS n. 53.485/BA, 2017/0049381-5, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/8/2017, DJe 13/9/2017.
+V - Agravo interno improvido.
+As partes recorrentes sustentam a violação do art. 5º, caput, da CF e aduz que haveria a repercussão g eral da matéria tratada.
+Requerem, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fls. 525-526).
+É o relatório.
+O STF fixou a tese de que "a questão do preenchimento dos pressupostos de admissibilidade do mandado de segurança tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, relatora a Ministra Ellen Gracie, DJe de 13/3/2009" (Tema n. 318/STF).
+Confira-se:
+Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.
+(AI n. 800.074-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 14/10/2010, DJe de 6/12/2010.)
+No caso dos autos, da leitura do acórdão objeto do recurso extraordinário, depreende-se que se concluiu pela ausência de requisito de cabimento do mandado de segurança, inexistindo julgamento de mérito, ou seja, não houve decisão sobre a existência ou não do direito líquido e certo, motivo pelo qual incide o Tema n. 318/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Por fim, registro que não é possível o conhecimento da petição sucessivamente apresentada, às fls. 482-512, contra o mesmo acórdão, em razão do princípio da unirrecorribilidade e da já consolidada preclusão consumativa, porquanto a parte recorrente exauriu sua faculdade recursal com a interposição do primeiro recurso, ora apreciado, o que torna inviável a análise da insurgência posteriormente manejada.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DO MANDADO DE SEGURANÇA. QUESTÃO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 318/STF. NEGATIVA DE SEGUIMENTO.
