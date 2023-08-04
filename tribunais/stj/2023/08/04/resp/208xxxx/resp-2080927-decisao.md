@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial, interposto por EDNA BALDEZ DE SOUSA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 933, e-STJ):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO CÍVEL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso Embargos de Declaração, impõe o desprovimento do recurso. II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA,julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)III - Agravo interno desprovido.
+Os embargos de declaração foram rejeitados às fls. 969-993, e-STJ.
+Nas razões do recurso especial (fls. 994-1020, e-STJ), a insurgente aponta violação dos artigos 489, § 1º, I ao VI e 1.022, II, do CPC, ao argumento da existência de omissão quanto a pontos nucleares do caso em concreto, tal qual a autenticidade e veracidade do termo de adesão juntado aos autos.
+Contrarrazões às fls. 1025-1028, e-STJ.
+Após decisão de admissão do recurso especial (fls. 1030-1033, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração dos artigos a insurgente aponta violação dos artigos 489, § 1º, I ao VI e 1.022, II, do CPC, ao argumento da existência de omissão quanto a pontos nucleares do caso em concreto, tal qual a autenticidade e veracidade do termo de adesão juntado aos autos.
+Sustenta, em síntese, que "o Eminente Relator tão somente reproduziu os mesmos fundamentos constantes da sentença recorrida, tendo se dedicado mais em justificar a possibilidade monocrático, bem como de não opor juízo de valoração em sede de mérito, aduzindo estar aplicando a chamada técnica de fundamentação vinculada, qual seja "per relationem" (fl. 998, e-STJ).
+Acerca da validade do contrato firmado entre as partes, o Tribunal local, utilizando-se de fundamentação per relationem, assim decidiu (fls. 840-842 e-STJ):
+Pois bem. A relação jurídica firmada entre as partes é incontroversa, haja vista que a autora admite a contratação junto ao réu, porém, sustenta a ocorrência vício de consentimento no tocante à modalidade da avença, porquanto não pretendida a fruição de cartão de crédito consignado, inexistindo no instrumento contratual, em seu entender, informação clara sobre a operação financeira entabulada.
+ ..
+In casu, verifica-se que os termos apostos no ID 56904226 - Págs. 03/04 não tergiversam quanto à previsão da modalidade contratual pactuada, havendo expressa indicação no cabeçalho de que se tratava de proposta de adesão a cartão de crédito consignado, encontrando-se a assinatura da parte autora lançada ao final da página.
+Acrescente-se a isso que, do teor do contrato, também se extrai com clareza as especificidades do negócio jurídico, dentre elas a informação de que apenas o valor mínimo fixado nas faturas seria descontado em contracheque, bem como que a ausência de pagamento integral ensejaria a incidência de encargos, conforme registrado abaixo:
+ ..
+Assim sendo, conclui-se que a leitura integral, sistemática e esparsa dos termos contratuais não deixa dúvidas quanto à natureza da avença, restando devidamente cumpridos os deveres de informação, probidade e boa fé da instituição financeira.
+Ademais, o acervo probatório acostado à contestação demonstra que a parte autora se beneficiou de saque inicial no valor de R$ 1.086,80 (um mil, oitenta e seis reais e oitenta centavos) e,posteriormente, de telesaque no montante de R$ 815,66 (oitocentos e quinze reais e sessenta e seis centavos), como se vê do TED lançado no ID 56904228 - Pág. 1 e na fatura de ID 56904234 -Pág. 1.
+ ..
+Desta feita, não há que se falar em qualquer vício que tenha eivado a contratação, posto que todas as obrigações assumidas pela autora, ainda que mais onerosas que as de empréstimo consignado, foram esclarecidas e contraídas por livre e espontânea vontade,não se enquadrando em nenhuma das hipóteses que invalidariam o negócio jurídico, sob a égide da orientação do IRDR.
+Segundo entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica em negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação" (AgInt no AREsp 1467013/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/09/2019, DJe 12/09/2019).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO DECIDIDO POR DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A legislação processual permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal (Súmula 568/STJ), sendo certo que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. Conforme a jurisprudência do STJ, "É admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica em negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação " (AgInt no AREsp 1467013/RS, Rel. Ministro Marco Aurélio Bellizze, DJe de 12.9.2019).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.982.498/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 3/4/2023.)
+Inexiste, portanto, violação ao artigos artigos 489, § 1º, I ao VI e 1.022, II, do CPC , visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, não conheço do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
