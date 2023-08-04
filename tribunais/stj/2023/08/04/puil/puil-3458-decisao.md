@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial com pedido liminar apresentado pelo DEPARTAMENTO ESTADUAL DE TRANSITO, com fundamento no art. 18, § 3º, da Lei 12.153/2009, contra acórdão da 3ª Turma Recursal do Estado do Ceará.
+A Turma Recursal negou provimento ao recurso inominado interposto pela parte ora requerente, mantendo a nulidade de parte dos autos de infração decretada na sentença e condenando o Departamento de Trânsito ao pagamento de honorários advocatícios sucumbenciais arbitrados em 10% (dez por cento) do valor da causa (fls. 250/256).
+Nas razões recursais, a parte requerente alega que o acórdão combatido interpretou o art. 55 da Lei 9.099/1985, c/c o art. 85, § 2º, do CPC, em desconformidade com o entendimento da 3ª Turma Recursal dos Juizados Especiais no Paraná.
+Sustenta que a verba honorária sucumbencial deve ser fixada com base no proveito econômico obtido, e não sobre o valor da causa, como consta no acórdão paradigma; e que, " n o presente caso, o autor obteve proveito econômico decorrente da anulação de parte dos AlTs impugnados, sendo esta a única base de cálculo legalmente admitida como base dos honorários" (fl. 289).
+Aponta, ainda, divergência do julgado em relação a julgado do Superior Tribunal de Justiça sobre a matéria.
+Parecer do Ministério Público Federal às fls. 306/308.
+É o relatório.
+Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça", e especificamente no que se refere a questões de direito material, senão vejamos:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Nos  termos  da  jurisprudência  desta  Corte,  para a comprovação da divergência, não basta a citação das ementas e trechos do julgado; deve ser demonstrada a si militude das circunstâncias fáticas e jurídicas dos casos, assim como realizado o cotejo analítico entre o acórdão recorrido e o julgado paradigma, o que verifico não ter ocorrido no presente caso.
+Cito precedentes:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI,. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Dispõe o § 3º do art. 18 da Lei n. 12.153/2009 que caberá o Pedido de Uniformização de Interpretação de Lei para o STJ: "Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado".
+2. É pacifico o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico.
+3. Para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise. Precedentes.
+Agravo interno improvido. (AgInt no PUIL n. 2.667/SC, relator Ministro Humberto Martins, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Segundo o disposto no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ, aplicáveis por analogia, a parte requerente deve comprovar a divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido. (AgInt no PUIL n. 2.750/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 25/10/2022, DJe de 21/11/2022.)
+Esclareço, ainda, não ser possível o conhecimento do pedido baseado na contrariedade à jurisprudência do Superior Tribunal de Justiça que não está sedimentada em enunciado sumular, porquanto não se enquadra na hipótese legal prevista no § 3º do art. 18 da Lei 12.153/2009.
+Pelo exposto, com fundamento no art. 34, XVIII, a, não conheço do pedido de uniformização de interpretação de lei. Prejudicado o pedido liminar.
+Publique-se.  Intimações  necessárias.
