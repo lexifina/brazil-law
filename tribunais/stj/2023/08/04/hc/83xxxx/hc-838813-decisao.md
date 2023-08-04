@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Ewerton Santiago de Freitas Lopes, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (HC n. 1.0000.23.119554-6/000).
+Consta dos autos que o paciente foi preso em flagrante, em 9/5/2023. Posteriormente, houve a conversão em custódia preventiva, dada a suposta prática dos delitos capitulados no art. 333 do Código Penal e art. 16, § 1º, inciso I, da Lei n. 10.826/2003.
+Nestes autos, a defesa sustenta a ocorrência de constrangimento ilegal, diante da ausência de elementos concretos que possam comprovar a prática dos delitos imputados ao paciente.
+Ressalta, ainda, que não estão presentes os requisitos autorizadores da medida extrema, bem como que os princípios da presunção de inocência e da dignidade da pessoal humana devem se sobrepor ao princípio da necessidade da prisão cautelar, sobretudo diante da existência de predicados pessoais favoráveis ao paciente.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar do paciente. Subsidiariamente, pugna pelo relaxamento da custódia cautelar em razão do manifesto excesso de prazo para formação da culpa.
+Pretensão de urgência indeferida pela Presidência desta Casa às fls. 87/88.
+Informações prestadas pelo Juízo de primeiro grau à fl. 259.
+Parecer do Ministério Público Federal opinando pela denegação da ordem (fls. 414/417).
+É o relatório.
+No que diz respeito ao alegado excesso de prazo, além de o acórdão hostilizado não ter tratado da matéria, como bem ponderou o Ministério Público, a prisão em flagrante foi convertida em preventiva em 10/5/2023, e eventual desaceleração da marcha processual decorre da realização de diligências próprias de qualquer investigação. Ademais, não foi apontada pela defesa qualquer circunstância que demonstre infundada demora no trâmite processual (fl. 416).
+Relativamente aos fundamentos da prisão cautelar, não enxergo constrangimento ilegal a ser reparado nestes autos.
+Na espécie, o Juízo de origem, ao converter a prisão em flagrante em preventiva, considerou que a gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, sobretudo diante da do reincidência autuado Ewerton Santiago de Freitas Lopes, que ostenta diversas condenações penais transitadas em julgado pelas práticas anteriores dos delitos de homicídio qualificado e roubo majorado, estando em cumprimento de pena. Além disso, o autuado responde a ação penal pela suposta prática do delito de uso de documento falso e falsidade ideológica (fl. 70).
+Do acórdão extrai-se que, ao exame das CACs (ord. 11/12) do paciente, depreende-se que ele é multirreincidente, tendo em vista que ostenta diversas condenações transitadas em julgado, pela prática dos delitos de homicídio, roubo, falsificação de documento público e uso de documento falso. Não bastasse, observa-se que ele ainda responde à ação penal pelo suposto cometimento dos crimes de tráfico de drogas e associação para tal fim. Tais anotações indicam que, caso seja solto, o paciente poderá voltar a delinquir (fl. 249).
+Ora, é pacífico nesta Corte Superior que o risco real de reiteração delitiva, decorrente de condenações, inquéritos ou ações penais em curso, demonstra a necessidade de se acautelar o meio social para que seja resguardada a ordem pública, nos termos do art. 312 do Código de Processo Penal (RHC n. 55.992/SP, Ministro Jorge Mussi, Quinta Turma, DJe 16/4/2015).
+Confiram-se ainda: RHC n. 108.692/MG, de minha relatoria, Sexta Turma, DJe 24/5/2019; HC n. 481.404/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/5/2019; e RHC n. 107.989/PR, Ministro Jorge Mussi, Quinta Turma, DJe 7/5/2019.
+Com efeito, diante da indicação elementos suficientes a recomendar a manutenção de sua custódia preventiva, não se mostram suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Por fim, para aferição da matéria concernente aos elementos relacionados à comprovação da prática delitiva, seria imprescindível o revolvimento de fatos e provas, providência vedada nessa via.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CORRUPÇÃO ATIVA E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS DA CUSTÓDIA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
