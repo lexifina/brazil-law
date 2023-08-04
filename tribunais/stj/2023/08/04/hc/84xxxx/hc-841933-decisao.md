@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Rodrigo Rutiely de Souza Jacino - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás, não comporta processamento.
+Com efeito, busca a impetração a anulação da condenação imposta ao paciente pelo Juízo de Direito da 10ª Vara Criminal da comarca de Goiânia/GO, ao argumento de nulidade da busca e apreensão veicular, pois os fatos descritos no auto de prisão em flagrante pelos policiais militares que efetuaram as diligências, demonstram claramente a prisão decorreu de atos investigativos promovidos por eles, dos quais decorreu uma invasão veicular, com apreensão de objetos. Vê-se, pois, que esse flagrante somente ocorreu posteriormente ao adestramento veicular, para qual, evidentemente não houve autorização. E além do relato anônimo recebido de que no interior do local havia suspeitos e que estava praticando crime continuado, não foi promovida nenhuma averiguação anterior sobre a verossimilhança dessa alegação (fls. 7/8).
+Ocorre que a via eleita foi indevidamente utilizada como espécie de segunda apelação, pretendendo a modificação da condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, além de não constar dos autos cópia do auto de prisão em flagrante, peça essencial para a verificação da verossimilhança das alegações, consta do acórdão hostilizado que a atitude suspeita que ensejou a devassa no veículo do paciente foi devidamente delineada, pois o investigado, quando ciente da presença da polícia, passou a lançar objetos pela janela do veículo, circunstância que justificou a abordagem policial.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO VEICULAR. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. SEGUNDA APELAÇÃO TRAVESTIDA DO WRIT. INSTRUÇÃO DEFICIENTE E EXIS TÊNCIA, ADEMAIS, DE FUNDADA SUSPEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
