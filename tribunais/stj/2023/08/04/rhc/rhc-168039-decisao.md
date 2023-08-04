@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por VAGNER DOS SANTOS PEREIRA contra acórdão proferido pelo Tribunal Regional Federal da 4.ª Região no julgamento do HC n. 5029125-07.2022.4.04.0000.
+Consta dos autos que o Juízo de primeiro grau indeferiu pedido do ora Recorrente de dispensa dos custos referentes ao monitoramento eletrônico (fls. 22-23).
+Consoante o Magistrado singular, " ..  sendo a cautelar de monitoramento medida substitutiva à prisão preventiva, aplicada em benefício do réu, e em privilégio a seu direito à liberdade de locomoção, é ônus do monitorado, e não do Estado, arcar com os custos da medida" (fl. 22; sem grifos no original).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 80-85.
+Nesta insurgência, o Recorrente alega que, em razão de sua hipossuficiência, não pode arcar com o custeio do equipamento de monitoração eletrônica sem prejudicar seu próprio sustento e de sua família, bem como aduz a ausência de previsão legal para que lhe seja imposta tal obrigação. Afirma, ainda, que o valor anteriormente recolhido para custeio do referido monitoramento, de forma parcelada, "era retirado do alimento de sua família" (fl. 95).
+Requer, em liminar e no mérito, a cassação do acórdão recorrido para que seja afastada a suposta coação ilegal, e restituído o valor anteriormente recolhido.
+A liminar foi indeferida pelo Min. Vice-Presidente desta Corte (fls. 139-140).
+O Ministério Público Federal opinou pelo provimento do recurso, "afastando-se a determinação de que o ora Recorrente custeie as despesas do seu monitoramento eletrônico" (fl. 160).
+É o relatório. Decido.
+O Tribunal de origem, ao manter a decisão de primeira instância, deixou assente que " a  atribuição ao paciente do ônus financeiro à instalação/manutenção da tornozeleira eletrônica para fins de cumprimento da medida cautelar de monitoração eletrônica tem espeque legal, notadamente no art. 39, VIII, da Lei n. 7.210/84" (fl. 80).
+Ocorre que, conforme já decidiu esta Corte Superior, constitui constrangimento ilegal a determinação de que o Réu seja compelido a arcar com o ônus do monitoramento eletrônico, notadamente por não haver previsão legal nesse sentido.
+A propósito: " i mpõe-se afastar a determinação de que o réu custeie o seu próprio monitoramento por tornozeleira eletrônica, seja porque não existe previsão legal nesse sentido, seja porque não parece razoável impor ao réu, que sequer foi condenado, a obrigação de custear uma medida que se opõe à sua liberdade" (RHC n. 92.238/RS, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08/02/2018, DJe 21/02/2018; sem grifos no original).
+Confiram-se, ainda, entre outras, as seguintes decisões monocráticas: REsp n. 1.886.824/RS, Relator Ministro Messod Azulay Neto, DJe de 05/05/2023; RHC n. 175.263/PR, Relator Ministro Ribeiro Dantas, DJe de 01/02/2023; REsp n. 1.966.976/PR, Relator Ministro Reynaldo Soares da Fonseca, DJe de 26/11/2021; PET no HC n. 707.092/PR, Relator Ministro João Otávio de Noronha, DJe de 01/12/2021; e REsp n. 1.895.250/RS, Relator Ministro Sebastião Reis Júnior, DJe de 14/12/2022, este último assim ementado:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 1º DO CP E 39, VIII, DA LEP. MONITORAMENTO ELETRÔNICO. REPASSE DO CUSTO AO APENADO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. Recurso especial provido nos termos do dispositivo."
+No mesmo sentido manifestou-se o Ministério Público Federal no parecer que ofertou ofertou nos autos (fl. 159):
+"O presente recurso deve prosperar.
+Ao solucionar a controvérsia - custeio com o aluguel/manutenção de equipamento de monitoramento eletrônico pelo ora Recorrente -, o Tribunal Regional assim se manifestou (fls. 80/82):
+ ..
+Tal entendimento, no entanto, merece reforma, pois em dissonância com a jurisprudência do STJ no sentido de que a determinação de custeio de equipamento de monitoração eletrônica ofende a legislação pátria em vários níveis, dado que não tem previsão legal, impondo à pessoa uma despesa que é contrária aos seus interesses próprios e transfere ao réu um custo que é inerente a atividade estatal básica, já financiada via tributos."
+Q uanto ao pedido de restituição de valores que teriam sido pagos pelo Recorrente, a via eleita não se mostra adequada para a análise do tema, devendo a questão, caso assim entenda a Defesa, ser suscitada perante o Juízo de primeiro grau.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso e, nessa parte, DOU-LHE provimento para, em conformidade com a manifestação da Procuradoria-Geral da República, afastar a determinação de custeio pelo Recorrente da manutenção do seu monitoramento eletrônico.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. MONITORAMENTO ELETRÔNICO. CUSTEIO DAS DESPESAS PELO RÉU. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RESTITUIÇÃO DE VALORES. VIA INADEQUADA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
