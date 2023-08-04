@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Maria Elizete da Conceição Pereira - condenada como incursa no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, não comporta processamento.
+Com efeito, busca a impetração a fixação da pena-base no mínimo legal, ao argumento de que, muito embora o art. 42 da Lei n. 11.343/2006 estabeleça como critério para dosagem da pena a quantidade e a variedade de entorpecentes apreendidos, é impossível a aplicação de tal norma, na medida em que é difícil avaliar qual a quantidade e quais variedades de drogas seriam suficientes para justificar a exasperação da pena base acima do mínimo estabelecido em lei. Ademais, no caso em questão, observa-se que é ínfima a quantidade de entorpecentes apreendidos, de modo que a exasperação operada se mostra desgarrada dos princípios da razoabilidade e da proporcionalidade (fl. 5).
+Ocorre que a via eleita foi indevidamente utilizada como uma "segunda apelação", pretendendo revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, da análise dos autos, observa-se que foram apreendidas 1 porção de cocaína, na forma de crack, com peso líquido de 4,94 g, 6 porções de cocaína, na forma de crack, com peso líquido de 0,47 g, 1 porção de cocaína, na forma de crack, com peso líquido de 4,35 g, 8 porções de cocaína, com peso líquido de 0,88 g, 3 porções de maconha, com peso líquido de 1,65 g, 1 porção de maconha, com peso líquido de 0,35 g, 1 porção de maconha com peso líquido de 4,23 g (fl. 15), quantidade e natureza suficientes para justificar maior reprovação da conduta e justificar o aumento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. DOSIMETRIA DA PENA. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
