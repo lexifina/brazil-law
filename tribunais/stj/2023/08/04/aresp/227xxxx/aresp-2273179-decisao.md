@@ -1,0 +1,24 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado na Apelação Criminal n. 0100670-16.2020.8.20.0001.
+Nas razões do recurso especial, o Parquet aponta violação aos arts. 33, § 4º, e 42 da Lei 11.343/2006, por entender que a apreensão de grande quantidade de drogas com os acusados, aliada às demais circunstâncias dos autos, evidencia a necessidade de imposição de regime mais gravoso.
+A Corte estadual não admitiu o recurso especial, o que ensejou a interposição do respectivo agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso especial.
+Decido.
+O agravo infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial, que preenche os pressupostos mínimos de admissibilidade.
+Nos autos em exame, o Tribunal de origem revisou a pena imposta aos réus e entendeu devida a fixação do regime inicial semiaberto conforme a seguir descrito (fl. 721):
+22. Na derradeira etapa, sem majorantes a contabilizar, tenho por impertinente a inclusão do benefício do§4º do art. 33 da LD, visto que pela quantidade e diversidade de tóxicos apreendidos, somados aos depoimentos testemunhais, há plena e total constatação de serem os Apenados afeitos à atividade criminosa.
+23. Aliás, nesse particular, é curial repisar o significativo volume de entorpecente, a saber: 319 pedras e 01 porção de raspa de crack, 01 tablete de cocaína, com peso total de 140 g, além de 05 tabletes de maconha, com aproximados 700 g.
+24. Por conseguinte, torno concreta e definitiva, para ambos os Apelantes, a pena de 05 anos de reclusão em regime semiaberto (art. 33 do CP) e 500 dias-multa.
+Posteriormente, ao apreciar os embargos declaratórios, acrescentou isto (fls. 751-752):
+8. Realmente, ao prover em parte o Apelo interposto pelos Embargados, este Órgão Julgador reduziu sua reprimenda para 05 anos de reclusão e 500 dias-multa e, por conseguinte, fixou o semiaberto como regime de cumprimento.
+9. Esse arrefecimento, frise-se, levou em consideração a literalidade do art. 33 do CP, o qual, como cediço, elege por diretriz, regra geral, o quantitativo sancionatório e a reincidência.
+10. Doutro bordo, é verdade, pode o Magistrado fugir a esse disciplinamento, máxime quando as circunstâncias do art. 59 do Estatuto Repressor assim recomendarem.
+11. Contudo, apenas na hipótese de se optar por um sistema mais rigoroso ao proposto pelo legislador é que se exige expressa fundamentação. O silêncio, por consectário lógico, pressupõe a mera e simples aplicabilidade da legis generali.
+ ..
+13. Volvendo-se à presente casuística, e o digo apenas para ilustrar, malgrado a "quantidade e diversa da droga" tenha se constituído motivo bastante para afastar a benesse do tráfico privilegiado, a taciturnidade verificada no arbitramento do regime traduz, com todas as suas letras e timbres, sua incompletude para imposição de uma política prisional mais austera. Mal comparando, seria o que a doutrina convencionou rotular de "silêncio eloquente".
+Não se pode olvidar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Pelos trechos transcritos, verifico que a Corte de origem justificou a imposição do modo inicialmente menos gravoso por considerar que a quantidade de drogas apreendida não seria suficiente para impor o regime fechado.
+Com efeito, entendo que o delito foi cometido em circunstâncias normais à espécie, pois não foi apreendida quantidade exarcebada de drogas a justificar o regime mais gravoso - 114,34 g de crack, 33,77 g de cocaína, 700 g de maconha (fl. 63).
+Assim, uma vez que os réus eram tecnicamente primários ao tempo do delito, tiveram a pena-base fixadas próximo ao mínimo legal, confessaram a prática delitiva e foram condenados a reprimenda inferior a 8 anos de reclusão, entendo que o regime semiaberto é mesmo o mais adequado ao caso em exame.
+À vista do exposto, conheço do agravo em recurso especial para, com fundamento no art. 932, IV e VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, negar provimento ao recurso especial.
+Publique-se e intimem- se.
