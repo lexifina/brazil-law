@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto por IBIPORA NEGOCIOS IMOBILIARIOS S.A. e MASB DESENVOLVIMENTO IMOBILIARIO S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos termos da seguinte ementa (fl. 795):
+EMENTA: APELAÇÃO CÍVEL -DIREITO PROCESSUAL CIVIL -LEGITIMIDADE PASSIVA -TEORIA DA ASSERÇÃO -AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE INADIMPLEMENTO CONTRATUAL C/C CONSIGNAÇÃO EM PAGAMENTO COM PEDIDO CAUTELAR INCIDENTAL E AÇÃO DE RESOLUÇÃO CONTRATUAL COM PEDIDO DE RESTITUIÇÃO DO VALOR PAGO -ATRASO NA ENTREGA DE IMÓVEL -CULPA EXCLUSIVA DA CONSTRUTORA -MANUTENÇÃO -RESPONSABILIDADE SOLIDÁRIA -APLICAÇÃO -RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS -ART. 475 DO CÓDIGO CIVIL -JUROS DE MORA SOBRE OS VALORES A SEREM RESTITUÍDOS -INÍCIO DE INCIDÊNCIA -TAXAS DE CONDOMÍNIO -RESPONSABILIDADE DA CONSTRUTORA ATÉ A ENTREGA DO IMÓVEL AO CONSUMIDOR.
+1 -A análise das condições da ação deve ser realizada sob a ótica da teoria da asserção, ou seja, à luz da narrativa contida na petição inicial, sem a análise das provas e, portanto, sem o juízo de mérito.
+2 -O inadimplemento contratual outorga à parte lesada o direito de pedir judicialmente a resolução do contrato, sem prejuízo das perdas e danos, independentemente de cláusula resolutiva expressa, conforme se extrai da leitura conjunta dos arts. 474 e 475 do Código Civil.
+3 -Se o consumidor vem a sofrer um dano, qualquer um dos membros da cadeia de consumo poderá ser acionado, visto que são solidariamente responsáveis, ainda que não tenha contrato formalizado com todos eles.
+4 -Tendo sido exclusivamente da construtora a culpa pela rescisão do contrato, é seu dever restituir o valor integral pago pelo adquirente, conforme entendimento fixado pelo STJ no julgamento do REsp Repetitivo 1300418/SC.
+5 -Os juros de mora sobre o valor das parcelas a serem restituídas à autora incidem a partir da citação, nos termos do art. 405 do Código Civil, sendo inaplicável a súmula 54 do STJ, que trata de responsabilidade extracontratual.
+6 -As taxas condominiais se tornam obrigação do promissário comprador somente a partir do momento da entrega do imóvel a ele, quando passa a ter disponibilidade de posse, gozo e uso do bem.
+Rejeitados os embargos de declaração opostos (fls. 868-870).
+Nas razões do recurso especial (fls. 874-890), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos:
+a) 371 do Código de Processo Civil, alegando que as razões de convencimento do juiz estão dissociadas das provas elencadas nos autos;
+b) 286 do Código Civil, sustentando que não houve a cessão do empreendimento, mas a cessão dos créditos; e
+c) 7º, parágrafo único, 25, § 1º, e 12, § 3º, I, do Código de Defesa do Consumidor, argumentando que não possuem qualquer vínculo ou atuação perante os consumidores, porque nenhuma das empresas jamais firmou qualquer avença jurídica com a ora agravada.
+Oferecidas contrarrazões (fls. 916-928), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 934-936), o que ensejou a interposição do presente agravo (fls. 946-962).
+Apresentadas contraminutas do agravo (fls. 985-998).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que aplica-se ao caso os dispositivos pertinentes ao Código de Defesa do Consumidor e, ademais, que está configurada a responsabilidade dos ora agravantes, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 803-810):
+Aplicam-se ainda ao caso em questão os dispositivos pertinentes ao Código de Defesa do Consumidor (Lei nº 8078/90), porquanto enquadram-se as partes nos conceitos de consumidor e fornecedor previstos no Código de Defesa do Consumidor e, além disso, está clara a vulnerabilidade econômica, técnica e fática da apelada em relação às apelantes, autorizando, dessa forma, a aplicação da legislação consumerista, pois a finalidade desta legislação é tutelar o direito daqueles que estejam em posição vulnerável, ou seja, proteger o mais fraco nas relações mercadológicas, nos termos do art. 4, inc. I, CDC.
+Referido diploma legal adotou a teoria da responsabilidade objetiva pelos danos causados aos consumidores. Portanto, para se ver ressarcido dos danos sofridos, basta ao consumidor provar a ocorrência do ilícito contratual, que se materializa através do inadimplemento ou da mora, o dano e a relação de causalidade entre este e o inadimplemento. Por se tratar de responsabilidade objetiva, dispensável a prova da culpa.
+Quanto à responsabilidade solidária, estabelece o parágrafo único do artigo 7º do Código de Defesa do Consumidor, in verbis:
+"Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo."
+O Código de Defesa do Consumidor, ao incluir nos seus dispositivos a norma acima citada, pretendeu atribuir solidariedade a todos aqueles que integram a cadeia de responsabilidade nas questões relativas ao consumo.
+Se o consumidor vem a sofrer um dano, qualquer um dos membros desta cadeia poderá ser acionado, visto que são solidariamente responsáveis, ainda que não tenha contrato formalizado com todos eles.
+ ..
+A apelante IBIPORÃ NEGÓCIOS IMOBILIÁRIOS S/A (atual denominação de PDV LOTEAMENTO E EMPREENDIMENTOS IMOBILIÁRIOS S/A) alega que, na condição de cessionária apenas dos créditos do empreendimento e não do contrato, não se obrigou a executar e/ou finalizar as obras, inexistindo sua responsabilidade solidária em eventual condenação originada, unicamente, por culpa da construtora/cedente.
+A nosso ver, sem razão a apelante IBIPORÃ.
+Dispõe o artigo 286 do Código Civil, in verbis:
+Art. 286. O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor; a cláusula proibitiva da cessão não poderá ser oposta ao cessionário de boa-fé, se não constar do instrumento da obrigação.
+Sendo o crédito cedido originário de relação de consumo, aplica-se a responsabilidade solidária entre cedente e cessionária nos termos do parágrafo único do art. 7 do CDC, alhures transcrito, como também o art. e 25, §1º, do CDC:
+Art. 25. É vedada a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar prevista nesta e nas seções anteriores.
+§ 1º Havendo mais de um responsável pela causação do dano, todos responderão solidariamente pela reparação prevista nesta e nas seções anteriores.
+Com a cessão de créditos, a apelante IBIPORÃ tornou-se detentora do direito de recebimento dos valores originários do empreendimento, impondo sua responsabilidade solidária no caso de reconhecimento do pleito autoral de rescisão do contrato e restituição dos valores.
+ ..
+Quanto à apelante MASB DESENVOLVIMENTO IMOBILIÁRIO S/A, pelos documentos de ordens nº 49 e 52 dos autos conexos, constata-se que ela possui os mesmos diretores/administradores da apelada IBIPORÃ, sendo ainda representadas pelos mesmos advogados, que apresentaram defesa conjunta, evidenciando o fato de elas comporem o mesmo grupo econômico.
+Desta forma, todas as apelantes respondem solidariamente pelos danos causados à apelada.
+ ..
+Seguindo, o inadimplemento contratual ficou reconhecido nas razões recursais, pois as apelantes reconheceram que o prazo contratual para entrega do empreendimento foi estabelecido para 30/12/2012, mas foi concluído somente em março de 2014.
+O fato de a apelada ter ajuizado ação de rescisão contratual em 2016 não desqualifica o inadimplemento das apelantes, pois o direito foi exercido dentro do prazo legal.
+Destarte, mantem-se a responsabilidade exclusiva das apelantes pela rescisão do contrato, tendo em vista o inadimplemento da obrigação de entregar o imóvel a tempo e modo próprios.
+O inadimplemento contratual outorga à parte lesada o direito de pedir judicialmente a resolução do contrato, sem prejuízo das perdas e danos, independentemente de cláusula resolutiva expressa, conforme se extrai da leitura conjunta dos arts. 474 e 475 do Código Civil.
+E uma vez que a culpa pela rescisão do contrato foi exclusivamente das apelantes, é dever delas restituir o valor integral pago pela apelada, sob pena de enriquecimento sem causa das recorrentes.
+ ..
+Quanto aos juros de mora incidentes sobre os valores a serem restituídos à apelada, eles incidente a partir da citação, por se tratar de responsabilidade contratual, nos termos do art. 405 do Código Civil, sendo inaplicável a súmula 54 do STJ, que trata de responsabilidade extracontratual.
+No tocante aos valores referentes às taxas condominiais, referidas despesas se tornam obrigação do promissário comprador a partir do momento da entrega do imóvel, que é quando passa a ter disponibilidade de posse, gozo e uso do bem.
+ ..
+No caso em exame, as apelantes não provaram ter dado posse do imóvel à apelada.
+Dessa forma, tem-se por correta a sentença que determinou a restituição dos valores pagos pela recorrida a título de condomínio.
+Por fim, uma vez que todas as três apelantes foram condenadas ao pagamento dos honorários advocatícios sucumbenciais, não há necessidade de esclarecer que a condenação é de forma proporcional entre elas, pois decorre de lei, conforme art. 87 do CPC, pelas próprias apelantes suscitado.
+Em face do exposto, NEGO PROVIMENTO AO RECURSO, mantendo-se inalterada a respeitável sentença recorrida.
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido: AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turm a, julgado em 17/4/2023, DJe de 19/4/2023; AgInt no AREsp n. 1.954.459/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023; AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
