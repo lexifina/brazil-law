@@ -1,4 +1,4 @@
-Art. 16. A direção nacional do Sistema Único da Saúde (SUS) compete:
+Art. 16. À direção nacional do SUS compete:
 I - formular, avaliar e apoiar políticas de alimentação e nutrição;
 II - participar na formulação e na implementação das políticas:
 a) de controle das agressões ao meio ambiente;
@@ -25,6 +25,7 @@ XVI - normatizar e coordenar nacionalmente o Sistema Nacional de Sangue, Compone
 XVII - acompanhar, controlar e avaliar as ações e os serviços de saúde, respeitadas as competências estaduais e municipais;
 XVIII - elaborar o Planejamento Estratégico Nacional no âmbito do SUS, em cooperação técnica com os Estados, Municípios e Distrito Federal;
 XIX - estabelecer o Sistema Nacional de Auditoria e coordenar a avaliação técnica e financeira do SUS em todo o Território Nacional em cooperação técnica com os Estados, Municípios e Distrito Federal.
+XX - definir as diretrizes e as normas para a estruturação física e organizacional dos serviços de saúde bucal.
 § 1º A União poderá executar ações de vigilância epidemiológica e sanitária em circunstâncias especiais, como na ocorrência de agravos inusitados à saúde, que possam escapar do controle da direção estadual do Sistema Único de Saúde (SUS) ou que representem risco de disseminação nacional.
 § 2º Em situações epidemiológicas que caracterizem emergência em saúde pública, poderá ser adotado procedimento simplificado para a remessa de patrimônio genético ao exterior, na forma do regulamento.
 § 3º Os benefícios resultantes da exploração econômica de produto acabado ou material reprodutivo oriundo de acesso ao patrimônio genético de que trata o § 2º deste artigo serão repartidos nos termos da Lei nº 13.123, de 20 de maio de 2015.
