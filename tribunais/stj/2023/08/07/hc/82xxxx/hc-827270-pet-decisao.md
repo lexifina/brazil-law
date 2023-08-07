@@ -1,0 +1,20 @@
+DECISÃO
+BRUNO RODRIGUES SALES interpôs agravo regimental contra decisão da Presidência desta Corte que indeferiu liminarmente o habeas corpus, com base no art. 21-E, IV, c/c o art. 210, ambos do RISTJ.
+Requereu a reconsideração do decisum impugnado e, subsidiariamente, o provimento do agravo regimental.
+Na sequência, por meio da petição de fl. 87, a defesa noticia o superveniente julgamento do mérito do prévio mandamus, colaciona cópia do acórdão e pugna seja conhecida a presente impetração e concedida a ordem.
+Decido.
+I. Reconsideração
+Esta Corte tem se orientado pela possibilidade de mitigação do entendimento consolidado na Súmula n. 691 do STF, em homenagem ao princípio da economia processual, possibilitando o processamento do habeas corpus quando, comprovada a superveniência do julgamento final do writ originário, o teor do acórdão proferido - em contraposição ao exposto na impetração - é trazido à colação, de modo a fazer as vezes de ato coator, exatamente como no caso dos autos.
+Assim, em homenagem aos princípios da economia e da celeridade processuais e porque foi trazida aos autos, pela defesa, cópia do acórdão proferido nos autos do HC n. 5078753-70.2023.8.21.7000, deve o pedido de reconsideração ser conhecido.
+Ilustrativamente: "com o julgamento superveniente da impetração originária e a denegação da ordem, o Tribunal de Justiça transmuda-se em autoridade coatora" (HC n. 607.657/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 29/9/2020).
+Passo agora, portanto, à nova apreciação do feito, em que o impetrante aduz, em síntese, que seria ilegal a exigência do cumprimento de 1/6 da pena no regime semiaberto para o deferimento de trabalho externo.
+II. Saídas temporárias - supressão de instância
+O habeas corpus é substitutivo de agravo em execução, também interposto na origem e ainda não julgado pela instância a quo. Não está inaugurada a competência desta Corte, nos termos do art. 105, da CF, para exame do incidente antes do esgotamento da instância ordinária.
+Deveras: "O exame pelo Superior Tribunal de Justiça de matéria ainda não apreciada pelo Juiz ou pelo Tribunal de origem, enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+Inexiste ilegalidade no acórdão. O writ originário deixou de ser conhecido, justificadamente, pois "não se admite a tramitação concomitante de recurso e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (fl. 92).
+O manejo do habeas corpus não dispensa a racionalidade no uso dos instrumentos postos à disposição da parte, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada e correta se vê comprometido com o concomitante emprego de dois meios de impugnação com igual pretensão, contra o mesmo ato judicial.
+Sob essa perspectiva, já interposto o agravo em execução contra a decisão do Juiz da VEC, a impetração de habeas corpus perante idêntico órgão julgador, para igual pretensão de reforma do julgado, não deve ser admitida. O exame da questão idêntica formulada pela defesa deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. A utilização de habeas corpus para resolver incidentes da execução penal é de caráter subsidiário; somente será possível se não veiculado o recurso próprio.
+Destaque-se que, demonstradas a plausibilidade jurídica do pedido e o perigo da demora da prestação jurisdicional, a defesa poderá pleitear, no bojo do agravo em execução, em antecipação de tutela, a concessão urgente da pretensão recursal.
+III. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 53-55, julgo prejudicado o agravo regimental de fls. 56-58 e não conheço do habeas corpus.
+Publique-se e intimem-se.
