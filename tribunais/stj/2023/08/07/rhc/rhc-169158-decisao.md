@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOÃO AUGUSTO REZENDE HENRIQUES em face de v. acórdão proferido pelo eg. Tribunal Regional Federal da 4ª Região no HC n. 5027160-91.2022.4.04.0000/PR.
+Depreende-se dos autos que o recorrente foi denunciado como incurso no art. 1º da Lei n. 9.613/1998 - Ação Penal n. 5071421-30.2021.4.04.7000/PR - Operação Lava Jato.
+A il. Defesa, ao argumento de que há litispendência com relação aos fatos tratados na Ação Penal n. 5071421-30.2021.4.04.7000/PR e na precedente Ação Penal n. 5027685-35.2016.4.04.7000/PR, ajuizou a Exceção de Litispendência n. 5012444-11.2022.4.04.7000/PR perante o d. Juízo da 13ª Vara Federal de Curitiba/PR, que a rejeitou.
+Irresignada, impetrou habeas corpus perante o eg. Tribunal a quo, que denegou a ordem, conforme o v. aresto de fls. 370-385.
+No presente recurso, reitera, em síntese, as alegações vertidas na origem e sustenta que "existe inafastável situação de litispendência entre esta novel ação e os autos já julgados" (fl. 398).
+Requer, por fim, liminarmente, a suspensão da Ação Penal n. 5071421-30.2021.4.04.7000/PR, até o final do julgamento deste recurso em habeas corpus.
+No mérito, pugna pelo conhecimento e provimento do recurso, "reconhecendo-se a litispendência e determinando-se o arquivamento do presente feito com relação ao paciente" (fl. 427).
+O pedido liminar foi indeferido às fl. 742-743.
+As informações foram recebidas e acostadas aos autos às fls. 746-753.
+Por sua vez, o Ministério Público Federal manifestou-se pelo desprovimento do recurso, conforme parecer de fls. 755-759.
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Conforme se verifica das informações acostadas às fls. 746-753, o d. Juízo da 13ª Vara Federal da Seção Judiciária de Curitiba/PR ressaltou que, no REsp n. 1.875.853/PR, foi proferida decisão, em 30/8/2022, pelo relator à época o em. Min. João Otávio de Noronha, na qual foi deferido o pleito de extensão de efeitos, com fulcr o no art. 580 do Código de Processo Penal, do corréu José Claudio Marques Barboza Júnior, a fim de reconhecer a conexão probatória entre a Ação Penal n. 5071421-30.2021.4.04.7000/PR e a n. 5027685-35.2016.4.04.7000/PR, que foi objeto do reconhecimento pela eg. Quinta Turma desta Corte Superior da incompetência da Justiça Federal para julgar o feito, e determinar, "por consequência, igualmente sua remessa ao Juízo Eleitoral do Rio de Janeiro, que se encontra prevento para dela conhecer, ou seja, aquele a quem tenha sido previamente distribuída a Ação Penal n. 5051606-23.2016.4.04.7000/PR, a quem caberá a análise da validade dos atos decisórios e instrutórios realizados" (grifei).
+Dessarte, considerando-se que os autos foram remetidos à Justiça Eleitoral, não há como esta Corte proceder à análise da matéria suscitada pela il. Defesa neste recurso, pois cabe agora ao juízo para qual os autos foram remetidos examinar todas as questões relacionadas à Ação Penal n. 5071421-30.2021.4.04.7000/PR e suas conexas.
+A propósito, mutatis mutandis, " r econhecida a competência da Justiça estadual para processar e julgar a demanda, a ela compete, a priori, analisar quais atos decisórios prolatados pelo juízo anterior serão ou não revogados, mesmo em casos de incompetência absoluta" (ARE 850933 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 02/05/2017, PROCESSO ELETRÔNICO DJe-100 DIVULG 12-05-2017 PUBLIC 15-05-2017, grifei).
+E nesta Corte Superior:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. BUSCA E APREENSÃO. INSURGÊNCIA DEFENSIVA QUANTO À JUSTIÇA COMPETENTE PARA PROCESSAR E JULGAR O FEITO. ALEGAÇÃO DE QUE A MEDIDA TERIA SIDO DEFERIDA MUITO TEMPO APÓS A PRÁTICA DO SUPOSTO FATO CRIMINOSO E APENAS BASEADA EM DELAÇÃO PREMIADA. JUÍZO DE ORIGEM QUE SE DECLAROU INCOMPETENTE E DETERMINOU A REMESSA DOS AUTOS À JUSTIÇA ELEITORAL. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante jurisprudência desta Corte, mesmo no caso de incompetência absoluta, é possível que os atos instrutórios e decisórios já praticados sejam ratificados pelo Juízo competente. Precedentes.
+2. Fica prejudicado o exame do habeas corpus que tem por objetivo a anulação de busca e apreensão quando sobrevém decisão do Juízo que a decretou declarando-se incompetente para o processamento e julgamento do feito. Nesse caso, cabe ao Juízo para qual os autos foram remetidos analisar a possibilidade de ratificação do ato, oportunidade em que poderá examinar, inclusive, as demais questões arguidas pela Defesa da ora Agravante.
+3. Agravo regimental desprovido." (AgRg no HC n. 659.667/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023, grifei)
+Ante todo o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+P. I.
