@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado (fl. 213, e-STJ):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. PROCESSO CIVIL. ADMINISTRATIVO. ACUMULAÇÃO DE CARGO PÚBLICO. CARGO DE NATUREZA CIENTÍFICA. COMPATIBILIDADE DE HORÁRIOS. CARGA HORÁRIA CUMPRIDA COM EFICIÊNCIA. HIPÓTESE QUE ATENDE AO DISPOSTO NO ARTIGO 37, INCISO XVI, ALÍNEA "C" DA CF. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+I. A Constituição Federal, em seu artigo 37, inciso XVI, "c", autoriza a acumulação remunerada de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas, quando houver compatibilidade de horário e desde que seja respeitado o teto constitucional, conforme inciso XI do mencionado artigo.
+II. O raciocínio jurisprudencial consolidado no Supremo Tribunal Federal é de que nem a existência de norma infraconstitucional que limita a jornada semanal de trabalho do servidor poderia impedir a cumulação de cargos, caso haja compatibilidade de horários, pois a norma constitucional não traz nenhuma limitação nesse sentido.
+III. Resta evidenciado nos autos, que foi desmedido o ato, ora atacado judicialmente, vez que ficou comprovado na Portaria n.º 946, de 22/08/2017,da Secretaria Municipal de Administração-SEMAD (ID n.º 17828171), que a solicitação de vacância do Apelado se deu somente por suposta não acumulação de cargos.
+IV. Contudo, os referidos cargos públicos de saúde não apresentam horários incompatíveis, pois o emprego no Município era exercido com a carga horária de 24 horas semanais, em dois turnos de 12 horas, conforme ID n.º 13500144, e o cargo na Empresa Brasileira de Serviços Hospitalares-EBSERH era realizado de forma compatível com esses dois turnos, já que o impetrante trabalhava inclusive aos sábados e domingos.
+V. Agravo Interno conhecido e não provido.
+Os Embargos de Declaração foram rejeitados (fls. 248-269, e-STJ).
+O recorrente sustenta que ocorreu violação do art. 1.022 do CPC/2015, sob o argumento de que a omissão apontada nos Aclaratórios não foi suprida. .
+Transcorreu o prazo legal sem apresentação de Contrarrazões (fl. 289, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.7.2023.
+Ao fundamentar o pedido de violação do art. 1.022 do CPC, a parte alega (fl. 280, e-STJ):
+Logo, é evidente a nulidade do julgamento, bem como a violação ao artigo 1.022 do CPC, eis que o Tribunal de Justiça do Maranhão manteve REITERADA OMISSÃO EM ANALISAR O ARGUMENTO PRINCIPAL DA AÇÃO.
+Percebe-se que, ao julgar a apelação, o agravo interno e os embargos de declaração, o TJMA não apreciou os argumentos apresentados pelo município de São Luís no caso acerca de o autor não se enquadrar em nenhuma das hipóteses legais de recondução ou reintegração, eis que o impetrante não era servidor estável no cargo de origem quando se desligou dos quadros de pessoal da administração municipal, logo, o pedido de vacância feito acarretou o rompimento definitivo do vínculo com a Administração Pública (exoneração), vez que não tinha estabilidade para manter o vínculo "suspenso".
+Tal tese fora expressamente levantada nos recursos interpostos, mas não se teve fundamentação sequer para afastar os argumentos do ora recorrente, omissão essa que fora mantida mesmo com a oposição dos embargos de declaração, fato que VIOLA OS artigos1022 e 1025do CPC.
+Dessume-se que a prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira bem fundamentada, a controvérsia, debruçando-se sobre os fatos e as provas apresentadas, mas chegando a conclusão diversa da pretendida pelo recorrente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os EDcl, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Recorde-se que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 23.8.2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 20.11.2018.
+No entendimento do STJ, "não há violação do art. 535, II, do CPC/73 quando a Corte de origem utiliza-se de fundamentação suficiente para dirimir o litígio, ainda que não tenha feito expressa menção a todos os dispositivos legais suscitados pelas partes" (STJ, REsp 1.512.361/BA, Rel. Min. Og Fernandes, Segunda Turma, DJe de 22/9/2017).
+Verifica-se, ademais, que a tese fundada na possível omissão da análise dos requisitos legais para recondução ou reintegração não consta dos Embargos Declaratórios de fls. 238-243, e-STJ, de modo que a apresentação somente no REsp revela manifesta tentativa de inovação recursal.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ e da Súmula 568/STJ, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
