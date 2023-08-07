@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal), contra decisão assim ementada:
+APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE IMPOSTO DE RENDA. ISENÇÃO DE IMPOSTO DE RENDA. SERVIDORA PÚBLICA APOSENTADA, PORTADORA DE NEFROPATIA GRAVE, FALECIDA EM 2015.
+Autora, herdeira necessária da de cujus. Requerimento administrativo instaurado pela falecida. Inércia do ente público. Sentença de procedência. Condenação do Estado a restituir os valores de imposto de renda retidos. Insurgência do Réu. Alegação de que não houve comprovação da existência das doenças por meio de Laudo Médico Oficial. Entendimento consolidado no STJ no sentido de ser desnecessária a apresentação de Laudo Médico Oficial. Doenças elencadas no art. 6º, inciso XIV, da Lei nº 7.713/88. Magistrado que não está vinculado ao disposto no art. 30 da lei nº 9.250/95. Moléstia comprovada por meio de laudo médico da rede pública. No que toca à alegação do recorrente de não haver possibilidade de repetição de indébito referente ao imposto de renda retido na fonte, dos calendários anteriores, melhor sorte também não lhe assiste. Consoante o entendimento consolidado do Superior Tribunal de Justiça, o ente estatal é o destinatário da receita tributária, sendo cabível a restituição dos valores descontados indevidamente. Juros moratórios devidos a partir da prolação da sentença. Correta a sentença quanto aos acréscimos legais.
+DESPROVIMENTO DO RECURSO.
+Os Embargos de Declaração foram rejeitados (fls. 213-217, e-STJ)
+Em suas razões recursais, aponta o agravante que houve violação aos arts. 1º, da Lei 11.482/2007; 12 da Lei 9.250/1995; e 6º, § 3º, da Lei 12.016/2009.
+Contrarrazões às fls. 255-258, e-STJ.
+O juízo de admissibilidade negativo (fls. 271-275, e-STJ) deu ensejo à interposição do presente Agravo (fls. 307-314, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de julho de 2023.
+A irresignação não merece prosperar. Isso porque a decisão de inadmissibilidade teve como base os seguintes fundamentos: i) Súmula 284 do STF em relação ao art. 6º, § 3º, da Lei 12.016/2009, uma vez que a decisão denegatória consignou que "o exame das razões recursais revela a falta de pertinência temática entre à alegada violação ao artigo ao artigo 6º, parágrafo 3º da Lei 12.016/09 e a questão efetivamente julgada por este Tribunal de Justiça" (fl. 263, e-STJ); e ii) Súmula 83 do STJ. O agravante, contudo, não impugnou especificamente a incidência da Súmula 284 do STF em relação ao art. 6º, § 3º, da Lei 12.016/2009.
+Incumbe à parte, no AREsp, atacar os fundamentos do decisum que negou seguimento ao Apelo na origem. Não o fazendo, é correta a decisão que não conhece do Agravo nos próprios autos.
+In casu, embora a parte tenha reservado tópico específico para tratar da Súmula 284 do STF (fl. 310, e-STJ), não houve demonstração do porquê da violação ao referido dispositivo no presente feito. Dessa maneira, é aplicável por analogia a Súmula 182/STJ que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido: AgInt no REsp 1.881.152/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020 e AgInt no AREsp 1.751.773/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18/12/2020.
+Conforme já assentado pela Corte Especial do STJ, "a decisão de inadmissi bilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
