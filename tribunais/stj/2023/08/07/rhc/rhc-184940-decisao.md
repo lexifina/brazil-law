@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por FATIMA DE JESUS desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2098607-14.2023.8.26.0000).
+Depreende-se dos autos que a recorrente encontra-se em custódia preventiva pela prática, em tese, de tráfico de drogas, em razão da apreensão de 21,3g (vinte e um gramas e três decigramas) de cocaína e 249,7g (duzentos e quarenta e nove gramas e sete decigramas) de crack.
+Impetrado prévio writ na origem, da ordem não se conheceu, nos termos da ementa de e-STJ fl. 186:
+Habeas Corpus - Crimes de tráfico de drogas (artigos 33, caput, da Lei nº 11.343/06) - Pedido de revogação da custódia cautelar da paciente, mediante cautelares (319 CPP) ou subsidiariamente prisão domiciliar (318 CPP) - Litispendência verificada com outro habeas corpus impetrado para julgamento por esta Col. Câmara, em favor da mesma paciente e com mesmos pedidos e causa de pedir - Impetração não conhecida.
+Daí o presente recurso ordinário, no qual sustenta a defesa "que o presente habeas corpus (Processo nº 2098607-14.2023.8.26.0000), fora recebido em 26/04/2023, enquanto que o referido habeas corpus impetrado pela Dra. Dra. Mariley Guedes Leão (Processo nº 2114638-12.2023.8.26.0000) fora recebido em 15/05/2023, razão pela qual este deve ser julgado com resolução do mérito e, naquele ser reconhecida a litispendência, por se tratar de mera reiteração de habeas corpus anteriormente impetrado pela defesa da Paciente, com os mesmos pedidos e a mesma causa de pedir" (e-STJ fl. 198).
+Argui a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Argumenta que, "além da audiência de instrução e julgamento não ter sido realizada até a presente data, sendo que a paciente já se encontra presa há 5 (cinco) meses, a mesma foi designada para o dia 13/11/2023, momento em que a Paciente já estará segregada em regime fechado há quase 10 (dez) meses, o que se reputa absolutamente ilegal, pelo excesso de prazo e descumprimento a norma processual penal, sendo medida de rigor e justiça o relaxamento da prisão em vertente" (e-STJ fls. 212/213).
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+É, em síntese, o relatório.
+Decido.
+As alegações trazidas no presente recurso não foram analisadas pelo Tribunal de origem, que não conheceu da impetração originária por entender ter havido reiteração de pedido. Dessa forma, fica obstado o exame da matéria diretamente pelo Superior Tribunal de Justiça , sob pena de indevida supressão de instância.
+Confira-se, por oportuno, a fundamentação do referido aresto, ipsis litteris (e- STJ fls. 188/190):
+A impetração não deve ser conhecida.
+A presente impetração é mera reiteração de habeas corpus impetrado pela Dra. Mariley Guedes Leão - este com objeto mais amplo que o presente - em favor da mesma paciente, e com os mesmos pedidos e causa de pedir, de concessão da liberdade provisória e substituição do cárcere a medidas cautelares do artigo 319 do Código de Processo Penal e, ainda, pedido de prisão domiciliar por ser mãe de filhos menores no formato do artigo 318 do Código de Processo Penal.
+Dessa forma, deve ser reconhecida a hipótese de litispendência, nos termos do artigo 337, §§ 1º, 2º e 3º, do Código de Processo Civil.
+Nesse sentido, confira-se o entendimento do Colendo Superior Tribunal de Justiça:
+ ..
+Ante o exposto, pelo meu voto, NÃO CONHEÇO da presente impetração, julgando extinto o remédio constitucional sem análise do mérito.
+Argumenta o recorrente que "o presente habeas corpus (Processo nº 2098607-14.2023.8.26.0000), fora recebido em 26/04/2023, enquanto que o referido habeas corpus impetrado pela Dra. Dra. Mariley Guedes Leão (Processo nº 2114638-12.2023.8.26.0000) fora recebido em 15/05/2023, razão pela qual este deve ser julgado com resolução do mérito e, naquele ser reconhecida a litispendência, por se tratar de mera reiteração de habeas corpus anteriormente impetrado pela defesa da Paciente, com os mesmos pedidos e a mesma causa de pedir" (e-STJ fl. 198).
+Não obstante as razões declinadas, a defesa não instruiu os autos com os documentos comprobatórios dessa alegação.
+Além disso, esses argumentos nem sequer foram apreciados pelo Tribunal de origem, de maneira que fica obstado o exame da matéria diretamente por esta Corte, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+Merece destaque, outrossim, que a Corte de origem considerou que "a presente impetração é mera reiteração de habeas corpus impetrado pela Dra. Mariley Guedes Leão - este com objeto mais amplo que o presente - em favor da mesma paciente" (e-STJ fl. 188), o que não foi impugnado nas presentes razões. Ademais, não foi apontado prejuízo decorrente do julgamento de outro writ de maior abrangência.
+Insta observar, por derradeiro, que o presente recurso ordinário é mera reiteração do pedido feito no HC n. 832.198/SP, anteriormente impetrado e também de minha relatoria, no qual já proferi decisão indeferindo a liminar.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
