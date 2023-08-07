@@ -1,0 +1,32 @@
+DECISÃO
+Conforme anteriormente relatado (e-STJ fls. 263/264):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAIK HENRIQUE LEME RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 8 anos, 06 meses e 2 dias, e ao pagamento de 850 dias-multa, pela suposta prática do crime previsto no art. 33, caput e art. 40 caput, ambos da Lei nº 11.343/06, com fixação do regime inicial fechado. Interposta apelação foi o recurso desprovido.
+O impetrante sustenta deva ser a dosimetria ajustada, com a aplicação do redutor previsto do art. 33, § 3o, da Lei 11.343/06, em razão de o paciente ser primário, ter bons antecedentes, ocupação lícita e residência fixa.
+Requer, liminarmente e no mérito, a aplicação desse redutor em seu patamar máximo, com o reconhecimento do tráfico privilegiado e a fixação do regime aberto para o cumprimento da pena.
+Parecer ministerial pelo não conhecimento do habeas corpus ou pela denegação da ordem.
+É, em síntese, o relatório.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+É evidente, portanto, que o benefício descrito no aludido dispositivo legal tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes muitas das vezes até para viabilizar seu próprio consumo, e não os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Sobre o tema, confira-se a seguinte lição:
+Cuida-se de norma inédita, visando à redução da punição do traficante de primeira viagem, o que merece aplauso. Portanto, aquele que cometer o delito previsto no art. 33, caput ou § 1º, se for primário (indivíduo que não é reincidente), vale dizer, não cometeu outro delito, após ter sido definitivamente condenado anteriormente por crime anterior, no prazo de cinco anos, conforme arts. 63 e 64 do Código Penal) e tiver bons antecedentes (sujeito que não ostenta condenações definitivas anteriores), não se dedicando às atividades criminosas, nem integrando organização criminosa, pode valer-se da pena mais branda. (In Leis penais e processuais penais comentadas. Guilherme de Souza Nucci. 9. ed. rev. atual, e ampl. Rio de Janeiro: Forense, 2015, pp. 358/359.)
+No caso dos autos, os antecedentes do paciente justificam concretamente o indeferimento da minorante do art. 33, § 4º, da Lei n. 11.434/2006, pois o réu reincidente não pode beneficiar-se com a benesse referenciada, uma vez que tal circunstância evidencia a dedicação a atividades criminosas.
+A respeito, a jurisprudência deste Sodalício:
+PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AGRAVANTE DA REINCIDÊNCIA. TRANSITO EM JULGADO PARA AMBAS AS PARTES DEVIDAMENTE CERTIFICADO NOS AUTOS. RECONHECIMENTO NECESSÁRIO. TEMPO DEPURADOR. NÃO OCORRÊNCIA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. REGIME MAIS BRANDO. RÉU REINCIDENTE. IMPOSSIBILIDADE. MANUTENÇÃO DA APELAÇÃO PELOS SEUS PRÓPRIOS FUNDAMENTOS. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+ ..
+2. Hipótese em que, de fato, a certidão juntada pelo Parquet Federal comprova satisfatoriamente a reincidência do ora embargado, pois a condenação penal existente em seu desfavor transitou em julgado em 15/04/2009, portanto, em data anterior ao novo fato delituoso, praticado em 07/06/2015.
+3. Comprovado o trânsito em julgado da sentença penal condenatória pretérita, antes do cometimento novo crime, impõe-se o reconhecimento da agravante prevista no art. 61, I, do Código Penal.
+4. O cômputo do prazo depurador tem início na data do cumprimento ou extinção da pena, e não da data do trânsito em julgado, conforme dispõe o art. 64, I, do Código Penal. Precedente.
+5. Sendo o embargado reincidente, deve ser mantido acórdão impugnado que negou-lhe a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 e a fixação de regime mais brando.
+6. Embargos acolhidos com efeitos infringentes, para reconhecer a agravante de reincidência ao embargado, mantendo o acórdão proferido em sede apelação, pelos seus próprios fundamentos. (EDcl no HC 369.678/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 3/8/2017, DJe 14/8/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA. IMPOSSIBILIDADE. CONDENAÇÃO ANTERIOR COM TRÂNSITO EM JULGADO. PLEITO DE RECONHECIMENTO DA FIGURA DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. PENA SUPERIOR A 4 ANOS. REGIME PRISIONAL FECHADO. PENA SUPERIOR A 4 ANOS E PACIENTE REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Analisando as informações trazidas nos autos, verifico que o paciente possui uma condenação com trânsito em julgado ocorrido em 9/4/2012. Tendo em vista que o fato ora imputado ao paciente ocorreu em 25/2/2015, após o trânsito em julgado da condenação anterior, não há ilegalidade no reconhecimento da agravante da reincidência.
+- Não há se falar em aplicação da redutora do art. 33, § 4º, da Lei de Drogas, porquanto um dos requisitos necessários para a sua aplicação é o acusado ser primário, o que não se verifica nos autos.
+- Em relação ao regime, tendo em vista a reincidência do paciente e a pena ter ficado no patamar acima de 4 anos, nos termos do art. 33, § 2º, alínea "b", do Código Penal, deve ser mantido o fechado.
+- Não há se falar em substituição da pena privativa de liberdade por restritiva de direitos, em razão do quantum da pena, superior a 4 anos.
+- Habeas corpus não conhecido. (HC 381.789/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/2/2017, DJe 24/02/2017, grifei.)
+Quanto aos pleitos de regime e substituição, mantido o quantum de pena, ficam prejudicados.
+Ante o exposto, denego a ordem, nos termos ora delineados.
+Publique-se. Intimem-se.
