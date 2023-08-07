@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 149, e-STJ):
+EXECUÇÃO FISCAL - Processo que permaneceu paralisado por mais de seis anos - Inércia da parte exequente - Prescrição intercorrente - Presentes os pressupostos que autorizam o reconhecimento - Inteligência do art. 40 da Lei Federal 6.830/80 e art. 1º do Decreto n.º 20.910/32 - Decisão mantida - Negado provimento ao recurso.
+O Município recorrente, nas razões do Recurso Especial, alega que ocorreu violação do art. 40, §§ 1º, 2º, 3º, 4º e 5º, da Lei 6.830/1980, ao argumento de que o acórdão recorrido deu interpretação divergente do STJ em relação ao entendimento firmado no julgamento do REsp Repetitivo 1.340.553/RS, Temas do STJ n. 566, 567/569, 568 e 570/571 e Súmula 314. Argumenta (fl. 183, e-STJ):
+Ocorre que, como exposto anteriormente, no presente caso não houve decisão judicial de suspensão e de arquivamento dos autos, como exige o art. 40 da LEF, já que o Município em nenhum momento foi intimado acerca de eventual inexistência de bens penhoráveis.
+Sem contrarrazões.
+Instado ao juízo de retratação, o Tribunal de origem manteve a decisão recorrida, em decisão assim ementada (fl. 197, e-STJ):
+RETORNO DOS AUTOS A TURMA JULGADORA, PARA EVENTUAL ADEQUAÇÃO À ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL - TEMAS 566, 567, 568, 569, 570 e 571 do STJ (REsp nº 1.340.553/RS) - PRESCRIÇÃO INTERCORRENTE - Sentença que julgou extinto o processo pelo reconhecimento da prescrição intercorrente - Prescrição que não se configura com o mero decurso do tempo, mas também com a inércia da exequente - Artigos 8º, § 2º, da Lei n.º 6.830/80, e 174, inciso I, do CTN - Não existência de parcelamento ou a efetiva constrição patrimonial por mais de 05 (cinco) anos - Prazo prescricional automático, havendo ou não pronunciamento judicial, logo após a primeira tentativa infrutífera de localização de bens penhoráveis - Após a citação, apenas a efetiva constrição patrimonial é apta a interromper o curso da prescrição intercorrente, não bastando, para tanto, o mero peticionamento em juízo - Entendimento firmado pelo C. Superior Tribunal de Justiça, no REsp Repetitivo nº 1.340.553/RS (Temas 566, 567, 568, 569, 570 e 571 do STJ) - Retratação desacolhida, mantendo-se o julgado.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12 de julho de 2023.
+Inicialmente, ressalto que o acórdão recorrido foi publicado na vigência do CPC/1973. Por isso, no exame dos pressupostos de admissibilidade do Apelo, será observada a diretriz contida no Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Extraio da fundamentação do decisum recorrido (fl. 150, e-STJ):
+Com efeito, a execução fiscal foi proposta em agosto de 2001 (fls. 02) e se encontrava sem andamento, desde 18/1/2005, sendo que apenas em 4/7/2011, após pedido da executada de extinção do feito, a Fazenda Municipal manifestou-se, requerendo o seu não acolhimento.
+Verifica-se que após o desentranhamento do mandado para livre penhora (fls. 90), requerido pela exequente, e a manifestação de fls. 96/97 passaram-se mais de seis anos, deixando a exequente de promover o devido impulso processual.
+O recorrente, por sua vez, alega que, diferentemente do que consta do aresto, não foi intimado do eventual insucesso da penhora.
+Dess e modo, tem-se que a alteração do julgado de origem sobre a questão - em contraponto às alegações recursais - demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do Recurso Especial, em razão da incidência da Súmula 7 do STJ.
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
