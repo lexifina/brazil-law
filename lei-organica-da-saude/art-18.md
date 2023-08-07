@@ -1,4 +1,4 @@
-Art. 18. À direção municipal do Sistema de Saúde (SUS) compete:
+Art. 18. À direção municipal do SUS compete:
 I - planejar, organizar, controlar e avaliar as ações e os serviços de saúde e gerir e executar os serviços públicos de saúde;
 II - participar do planejamento, programação e organização da rede regionalizada e hierarquizada do Sistema Único de Saúde (SUS), em articulação com sua direção estadual;
 III - participar da execução, controle e avaliação das ações referentes às condições e aos ambientes de trabalho;
@@ -6,8 +6,9 @@ IV - executar serviços:
 a) de vigilância epidemiológica;
 b) vigilância sanitária;
 c) de alimentação e nutrição;
-d) de saneamento básico; e
+d) de saneamento básico;
 e) de saúde do trabalhador;
+f) de saúde bucal;
 V - dar execução, no âmbito municipal, à política de insumos e equipamentos para a saúde;
 VI - colaborar na fiscalização das agressões ao meio ambiente que tenham repercussão sobre a saúde humana e atuar, junto aos órgãos municipais, estaduais e federais competentes, para controlá-las;
 VII - formar consórcios administrativos intermunicipais;

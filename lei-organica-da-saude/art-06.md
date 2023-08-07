@@ -2,8 +2,9 @@ Art. 6º Estão incluídas ainda no campo de atuação do Sistema Único de Saú
 I - a execução de ações:
 a) de vigilância sanitária;
 b) de vigilância epidemiológica;
-c) de saúde do trabalhador; e
+c) de saúde do trabalhador;
 d) de assistência terapêutica integral, inclusive farmacêutica;
+e) de saúde bucal;
 II - a participação na formulação da política e na execução de ações de saneamento básico;
 III - a ordenação da formação de recursos humanos na área de saúde;
 IV - a vigilância nutricional e a orientação alimentar;
@@ -27,3 +28,4 @@ V - informação ao trabalhador e à sua respectiva entidade sindical e às empr
 VI - participação na normatização, fiscalização e controle dos serviços de saúde do trabalhador nas instituições e empresas públicas e privadas;
 VII - revisão periódica da listagem oficial de doenças originadas no processo de trabalho, tendo na sua elaboração a colaboração das entidades sindicais; e
 VIII - a garantia ao sindicato dos trabalhadores de requerer ao órgão competente a interdição de máquina, de setor de serviço ou de todo ambiente de trabalho, quando houver exposição a risco iminente para a vida ou saúde dos trabalhadores.
+§ 4º Entende-se por saúde bucal o conjunto articulado de ações, em todos os níveis de complexidade, que visem a garantir promoção, prevenção, recuperação e reabilitação odontológica, individual e coletiva, inseridas no contexto da integralidade da atenção à saúde.
