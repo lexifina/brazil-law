@@ -1,0 +1,10 @@
+DECISÃO
+VICTOR HUGO ARAÚJO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 2019.001259-1, em que foi dado parcial provimento ao recurso para "a) absolver o acusado Victor Hugo Araújo da prática do delito previsto no art. 344 do CP, bem como redimensionar sua pena para 03 (três) anos e 03 (três) meses de reclusão e pagamento de 26 (vinte e seis) dias-multa, além de afastar a medida cautelar de suspensão do exercício profissional na condição de advogado aplicada em seu desfavor" (fl. 12), impostas em virtude da condenação pelo delito de estelionato.
+Irresignada, assere a defesa que, " a o estabelecer o regime semiaberto, a decisão combatida amparou-se tão somente na (suposta) gravidade em abstrato do crime, incorrendo, novamente, em flagrante violação ao artigo 5º, inciso XLVI, da Constituição da República, que estabelece o princípio da individualização da pena" (fl. 4).
+Requer, assim, " a o final, que a ordem seja concedida, fixando-se o regime aberto para cumprimento da pena privativa de liberdade e substituindo-se a pena corporal por restritivas de direito" (fl. 6).
+Todavia, no caso, a Corte de origem, ao manter o regime semiaberto, salientou que "o recorrente teve urna das circunstâncias judiciais do artigo 59 do CP julgadas desfavoráveis, em consonância com o disposto no artigo 33, § 2º, e § 3º, do Código Penal, deve o mesmo iniciar o cumprimento de sua pena no regime semiaberto" (fl. 23).
+De fato, a existência de circunstância judicial desfavorável constitui fundamento que, segundo o entendimento consolidado do Superior Tribunal de Justiça, permite o estabelecimento de regime inicial mais gravoso, in verbis:
+ ..
+5. O reconhecimento de circunstâncias judiciais desfavoráveis e a reincidência justificam até mesmo a fixação do regime inicial fechado, quanto mais o semiaberto para réu que foi condenado à pena inferior a quatro anos de reclusão  ..  (AgRg no HC n. 788.738/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/5/2023.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
