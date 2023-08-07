@@ -1,0 +1,24 @@
+DECISÃO
+HOZELIO LUIZ RODRIGUES SANTOS agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.22.043783-4/001.
+Consta dos autos que o réu foi condenado, em primeiro grau, a 8 anos de reclusão, em regime fechado, mais multa, como incurso nos art. 33, caput, da Lei n. 11.343/06.
+O Tribunal de origem deu provimento ao recurso da acusação a fim de tornar a reprimenda definitiva em 7 anos de reclusão, em regime fechado, mais multa.
+Aponta a defesa violação dos arts. 59 e 68 ambos do Código Penal. Busca a redução da pena-base, por entender que a instância de origem não mencionou fundamento idôneo para a análise desfavorável da vetorial, pois não há elementos nos autos que comprovem que a conduta social na comunidade seja negativa e "o recorrente sequer estava em cumprimento de pena, vez que conforme processo de execução de n. 0892276-54.2013.8.13.0024, o recorrente, na época dos fatos, já teria cumprido com toda sua obrigação, salvo o pagamento da multa, razão pela qual não foi extinta sua pena" (fl. 485).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e refutou as razões de inadmissão do recurso especial.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+No caso, observo que a instância de origem considerou desfavorável ao réu a conduta social, "tendo em vista que o fato foi praticado no curso do cumprimento de pena anterior  ..  o que eleva o grau de reprovabilidade da conduta" (fl. 293).
+De acordo com o entendimento desta Corte Superior, "O conceito de conduta social tem por fim examinar a interação do agente em seu meio, ante familiares, amigos e vizinhos, razão pela qual a motivação referente à ausência de trabalho lícito, por si só, não justifica a valoração negativa da circunstância referente à conduta social do sentenciado" (HC n. 146.041/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 26/8/2015).
+Além disso, para esta Corte Superior, "Configura-se adequada a valoração negativa da conduta social do agente quando "fundamentada em elemento concreto, qual seja, o delito foi cometido enquanto o réu usufruía do benefício da progressão de regime, encontrando-se em cumprimento de pena por delito anterior (AgRg no HC 556.444/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)" (AgRg no AREsp n. 2.209.318/MG, Rel. Ministro João Batista Moreira (Desembargador Convocado do TRF1), 5ª T., DJe de 14/4/2023).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 59 DO CP. DOSIMETRIA. PENA-BASE. CONDUTA SOCIAL. VALORAÇÃO NEGATIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido foi proferido em sintonia com a jurisprudência desta Corte Superior de Justiça, que é firme no sentido de que "a prática delitiva no curso de cumprimento de pena por crime anterior - seja em razão do regime que propicie contato com a sociedade, ou por benefícios externos - é circunstância apta a demonstrar conduta social inadequada, diante do propósito de tais medidas de buscar a ressocialização do agente" (AgRg no HC 346.799/SC, Sexta Turma, Rel. Ministro Antônio Saldanha Palheiro, DJe de 21/3/2017).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.276.637/PR, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 28/4/2023, grifei)
+Nesse ponto, vale ressaltar que, não obstante a defesa mencionar não estar mais o réu em cumprimento de pena e, portanto, não subsistir o argumento mencionado pela instância de origem para majorar da pena-base, não trouxe aos autos, a fim de comprovar sua alegação, a certidão do Processo de Execução n. 0892276-54.2013.8.13.0024.
+Desse modo, considero idôneo o fundamento mencionado pela instância de origem para a análise desfavorável da conduta social.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
