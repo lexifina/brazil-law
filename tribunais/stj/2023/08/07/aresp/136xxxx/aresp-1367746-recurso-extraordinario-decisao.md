@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pela UNIÃO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.084):
+AGRAVO INTERNO. ADMINISTRATIVO. CONCURSO PÚBLICO. CORREÇÃO DE PROVA. ANÁLISE EXCEPCIONAL PELO PODER JUDICIÁRIO. EVOLUÇÃO JURISPRUDENCIAL QUE ADMITE A APRECIAÇÃO DE INADEQUAÇÃO AO EDITAL E DE ILEGALIDADE FLAGRANTE DE QUESTÕES OBJETIVAS E SUBJETIVAS DO CERTAME. NECESSIDADE DE RETORNO DOS AUTOS PARA ANÁLISE FÁTICA, EM ADEQUAÇÃO AO ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Embora, em regra, não seja cabível a apreciação dos critérios de formulação e correção das provas de concurso pelo Poder Judiciário, a jurisprudência desta Corte Superior evoluiu para admitir a revisão excepcional quando verificada a inobservância das regras previstas no edital e, agora, também, quando verificada a ocorrência de flagrante ilegalidade de questão objetiva ou subjetiva do certame.
+2. Hipótese em que a Corte de origem reformou a sentença por considerar que somente seria admitida a revisão pelo Poder Judiciário de questões cujo conteúdo fosse incompatível com o previsto no edital, sem adentrar no mérito da flagrante ilegalidade afirmada na decisão de piso.
+3. Decisão agravada que determina a devolução do processo ao Tribunal de origem para que, por meio de nova análise dos elementos instrutórios do feito, reaprecie a controvérsia à luz da atual orientação do STJ.
+4. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados nos termos da seguinte ementa (fl. 1.112):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONCURSO PÚBLICO. CORREÇÃO DE PROVA. ANÁLISE EXCEPCIONAL PELO PODER JUDICIÁRIO. EVOLUÇÃO JURISPRUDENCIAL QUE ADMITE A APRECIAÇÃO DE INADEQUAÇÃO AO EDITAL E DE ILEGALIDADE FLAGRANTE DE QUESTÕES OBJETIVAS E SUBJETIVAS DO CERTAME. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Conforme consta do acórdão recorrido, "embora, em regra, não seja cabível a apreciação dos critérios de formulação e correção das provas de concurso pelo Poder Judiciário, a jurisprudência desta Corte Superior evoluiu para admitir a revisão excepcional quando verificada a inobservância das regras previstas no edital e, agora, também, quando verificada a ocorrência de flagrante ilegalidade de questão objetiva ou subjetiva do certame" (fl. 1.086).
+3. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. Embargos de declaração rejeitados.
+A parte recorrente alega violação do art. 2º da CF e aduz que há repercussão geral da matéria tratada.
+Argumenta que (fl. 1.133):
+Ampliar as hipóteses de sindicabilidade para casos de "flagrante ilegalidade" é verdadeira inovação que extrapola os limites da tese fixada pelo STF em sede de repercussão geral.
+É aí que reside a violação do acórdão ao art. 2º da CF/88, ao autorizar a intervenção indevida do Poder Judiciário em atos de atribuição do Poder Executivo. O julgado amplia a possibilidade de sindicabilidade dos atos praticados pela banca de concurso público, levando em consideração apenas precedentes do STJ, que teriam evoluído acerca da questão, afrontando diretamente o conteúdo - a tese minimalista - do acórdão do Supremo Tribunal Federal, proferido no julgamento do TEMA 485.
+Requer a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.141-1.152.
+É o relatório.
+O STF, ao julgar o RE n. 632.853/CE, firmou o entendimento de que "não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade" (Tema n. 485/STF).
+Confira-se:
+Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.
+(RE n. 632.853, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/4/2015, DJe de 29/6/2015.)
+No caso dos autos, o acórdão recorrido consignou que o julgado da Corte de origem (fl. 1.089):
+ ..  limitou-se à avaliação da adequação das questões do concurso ao edital de convocação dos candidatos, não apreciando detidamente o conteúdo probatório dos autos quanto à suposta ilegalidade flagrante da correção, aspecto esse que havia sido afirmado na sentença.
+Nesse contexto, o acórdão ora impugnado manteve a decisão monocrática que determinou o retorno dos autos à origem para nova apreciação dos fatos de acordo com a orientação do STJ.
+Verifica-se, portanto, que o acórdão proferido por esta Corte Superior está em consonância com o Tema n. 485/STF.
+Nesse sentido, o seguinte precedente da Suprema Corte:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 16.05.2018. DIREITO ADMINISTRATIVO. AÇÃO DECLARATÓRIA. CONCURSO PÚBLICO. TEMA 485 DA REPERCUSSÃO GERAL. CRITÉRIOS ADOTADOS POR BANCA EXAMINADORA. SUBSTITUIÇÃO PELO PODER JUDICIÁRIO. OCORRÊNCIA DE ILEGALIDADE. ERRO GROSSEIRO NA CORREÇÃO DAS QUESTÕES IMPUGNADAS. INCIDÊNCIA DA SÚMULA 279 DO STF. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE MAJORAÇÃO DOS HONORÁRIOS NESTA SEDE RECURSAL. CORREÇÃO DE OFÍCIO DE ERRO MATERIAL NA DECISÃO AGRAVADA (ART. 494, I, DO CPC).
+1. O acórdão recorrido não destoa da jurisprudência desta Corte, sedimentada no julgamento do RE RG 632.853, Rel. Min. Gilmar Mendes, DJe 29.06.2015 (tema 485), no sentido de que não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora de concurso para avaliar respostas dadas às questões e notas pertinentes, salvo na hipótese de ilegalidade, de ocorrência de erro flagrante nas questões impugnadas, como na hipótese em análise.
+2. Eventual divergência ao entendimento adotado pelo Juízo a quo quanto à ocorrência de erro grosseiro na correção de prova de concurso público, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+3. Constatado erro material na decisão agravada é possível, nos termos do art. 494, I, do CPC, de ofício, a sua correção para afastar a majoração de honorários.
+4. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC, devendo ser substituída a parte dispositiva da decisão impugnada, em face ao erro material, para fazer constar: inaplicável o art. 85, § 11 do CPC, em virtude da sucumbência recíproca reconhecida na instância de origem.
+(RE n. 1.114.732 AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 18/10/2019, DJe de 30/10/2019.)
+Ante o exposto, com fundamento no art. 1.030, I, a, segunda parte, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CORREÇÃO DE PROVA. ILEGALIDADE. NÃO INCURSÃO NO MÉRITO ADMINISTRATIVO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA N. 485/STF. NEGATIVA DE SEGUIMENTO.
