@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fls. 45-55, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL EXTINTA PELO PAGAMENTO ANTES DA CITAÇÃO. PRETENSÃO DE CONDENAÇÃO DO EXECUTADO EM HONORÁRIOS. PLEITO INCOMPATÍVEL COM O PRINCÍPIO CONSTITUCIONAL DO CONTRADITÓRIO. APELO IMPROVIDO.
+1. Trata-se de apelação cível interposta contra sentença que extinguiu a execução fiscal subjacente, sem condenação do executado ao pagamento de verba honorária, tendo em conta que o pagamento do crédito exequendo teria sido efetuado via parcelamento em sede administrativa, antes da citação.
+2. O Município, invocando a aplicação à espécie do princípio da causalidade, pretende a reforma da sentença com a imposição de verba honorária em desfavor do executado, mesmo não tendo ocorrido a citação, na linha de precedentes do Superior Tribunal de Justiça.
+3. Sem embargo da respeitosa reverência que é de rigor prestar aos precedentes emanados das Cortes Superiores, mesmo quando não vinculantes para as instâncias ordinárias, a questão em lume merece exame sob perspectiva diferente.
+4. Isso porque a evocação do princípio da causalidade como critério determinante para a imposição de condenação em verba honorária tem como inafastável pressuposto lógico o respeito ao princípio do contraditório, em outras palavras, para definir quem deu causa à demanda é necessário, antes, ouvir as partes que compõem a lide.
+5. Deveras, não se amolda ao figurino constitucional garantidor do contraditório, da ampla defesa e do devido processo legal (art. 5º, LIV e LV) quadro processual em que a sentença (ou acórdão) promova juízo de valor quanto ao princípio da causalidade e em sequência condene réu indefeso (porque não ouvido) ao pagamento de quantia em dinheiro (verba honorária).
+6. Isso seja em sede de execução fiscal, seja em qualquer outro tipo de demanda, a exemplo de execuções de títulos extrajudiciais privados, ações de cobrança, de despejo, dentre outras, em que o autor aponte, antes da citação, o cumprimento voluntário da obrigação pelo réu, mas pretenda - como o faz a Fazenda exequente - seja o réu logo prima facie condenado em verba honorária, mesmo sem ter sido citado.
+7. Note-se: a sentença (ou acórdão) que impõe condenação em honorários constitui título executivo judicial.
+8. Mas não é constitucionalmente admissível a formação de título judicial condenatório sem o contraditório prévio.
+9. Bem se vê, pois, que a pretensão da Fazenda exequente em verdade vulnera, frontalmente, o art. 5º, incisos LIV e LV da Constituição da República, além do disposto no art. 9º do Código de Processo Civil/2015, sendo também certo que as regras contidas nos artigos 85, §§ 1º e 19, e art. 90 do CPC/2015, pressupõem a citação da parte executada, sob pena de flagrante inconstitucionalidade.
+10. Somente essa percepção já é suficiente para conduzir ao improvimento do apelo fazendário.
+11. De todo modo, não cabe presumir que o executado teria efetuado um "pagamento voluntário" em razão do ajuizamento de execução fiscal. No plano das suposições, isso de fato pode ter acontecido. Mas não se produzem decisões condenatórias de quantia em dinheiro, mesmo que alusivas a honorários, com base em suposições.
+12. Até porque, no plano das suposições, há outro cenário a considerar, dado que de vez em quando as Fazendas Públicas lançam planos de recuperação de créditos tributários que envolvem, no contexto de incentivos ao pagamento voluntário, ora
+(i) a dispensa de honorários,
+(ii) ora o pagamento administrativo da verba honorária (o que ensejaria potencial bis in idem).
+13. Neste caso concreto, a Fazenda Municipal não esclareceu em que termos foi formalizado o parcelamento.
+14. É evidente, no entanto, que o parcelamento em questão foi deferido pela Fazenda exequente, o que traz à baila o princípio da boa-fé objetiva, pois o Município tinha ciência de que o débito constituía objeto de execução fiscal, pelo que o ato de parcelar a dívida em sede administrativa (mesmo que seja sem a inclusão de verba honorária) gera para o contribuinte a legítima expectativa de que a liquidação do parcelamento produziria a extinção total de sua pendência fiscal.
+15. Ou seja, revela-se ofensiva ao princípio da boa-fé objetiva a conduta fazendária de deferir o parcelamento administrativo de débito em fase de execução
+(i) sem incluir no montante parcelado a verba honorária (se for o caso), ou
+(ii) sem ressalvar expressamente a necessidade de pagar os honorários em sede judicial, para, na sequência,
+(iii) receber integralmente o valor parcelado,
+(iv) induzindo o contribuinte não-citado à convicção de que nada mais tinha a pagar,
+(v) surpreendendo-o depois com a cobrança judicial de honorários, sem que sequer seja a ele garantido o contraditório constitucional.
+16. Essas circunstâncias também conduzem à necessidade de formação de contraditório prévio à avaliação acerca do principio da causalidade e à subsequente decisão relativa à imposição da carga sucumbencial.
+17. Apelo improvido, por unanimidade de votos.
+O Município de Camaragibe afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 85 e 90 do CPC. Sustenta:
+A decisão do Desembargador da egrégia Segunda Câmara de Direito Público é baseada em jurisprudência ultrapassada do Superior Tribunal de Justiça  STJ.
+O Acórdão decidiu pela manutenção da sentença de primeiro grau que deixou de condenar o executado em honorários e custas processuais, citando jurisprudências superadas do STJ de que a condenação em honorários advocatícios quando a extinção da execução em decorrência do pagamento ocorre após a citação válida do devedor.
+ ..
+Impõe-se, todavia, destacar veementemente os registros apontados, tendo em vista que, conforme se observa no caso dos autos. notadamente da FICHA DE INFORMAÇÕES CONSOLIDADAS DO IMÓVEL e CERTIDÃO (presente nos autos). as CDAS executadas nos presentes autos foram quitadas pela parte adversa, não estando incluídos o valor referente à verba honorária.
+ ..
+Assim, no caso do contribuinte que efetuou a quitação do débito em tempo anterior a outubro de 2016, fizeram-no com a emissão de documento de arrecadação municipal (DAM  boleto de pagamento) com valor correspondente tão somente à obrigação tributária, não estando incluídos a verba honorária.
+Logo, no caso em tela, a CDA executada nos presentes autos foi quitada em Novembro de 2015, não estando incluído o valor referente à verba honorária, tendo a Fazenda Municipal registrado de forma expressa a pendência em relação à parte executada sobre os honorários.
+Portanto, estando ainda pendente o pagamento dos honorários advocatício, eles são devidos pela parte executada na hipótese de extinção da execução fiscal em decorrência do pagamento extrajudicial do quantum, após ajuizada a ação e antes de promovida a citação, em atendimento ao princípio da causalidade.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de julho de 2023.
+Sobre o tema, a Primeira Turma, por ocasião do julgamento do REsp 1.931.060/PE, na sessão realizada em 14/9/2021, reafirmou o entendimento de que, embora ausente a triangulação da relação jurídica, o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte. Logo, a Fazenda exequente não pode ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito. Veja-se no mesmo sentido desta relatoria os REsp 1.854.592/SC e AgInt no REsp 1.927.753/PE, Segunda Turma, DJe 31.8.2020 e DJe 1º/7/2021, respectivamente .
+Ocorre, que o acórdão fundamentou que "não cabe presumir que o executado teria efetuado um "pagamento voluntário" em razão do ajuizamento de execução fiscal. No plano das suposições, isso de fato pode ter acontecido. Mas não se produzem decisões condenatórias de quantia em dinheiro, mesmo que alusivas a honorários, com base em suposições". E, ainda, fundou-se em questão constitucional:
+Bem se vê, pois, que a pretensão da Fazenda exequente em verdade vulnera, frontalmente, o art. 5º, incisos LIV e LV da Constituição da República, além do disposto no art. 9º do Código de Processo Civil/2015, sendo também certo que as regras contidas nos artigos 85, §§ 1º e 19, e art. 90 do CPC/2015, pressupõem a citação da parte executada, sob pena de flagrante inconstitucionalidade.
+O recurso não merece prosperar, pois da leitura do acórdão recorrido depreende-se que foram debatidas matérias de natureza constitucional e infraconstitucional. No entanto, o recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal.
+Assim, aplica-se na espécie o teor da Súmula 126/STJ: "É inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário."
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ARTIGO 544 DO CPC. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE POSSUI DUPLO FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO E RECURSO ESPECIAL INADMITIDOS. FALTA DE COMPROVAÇÃO DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO CONTRA DECISÃO DENEGATÓRIA DE RECURSO EXTRAORDINÁRIO.
+1. Decidida a matéria com base em fundamentos infraconstitucional e constitucional, é necessária a comprovação, quando da interposição do agravo de instrumento ao Superior Tribunal de Justiça, de que houve também recurso da mesma espécie dirigido ao Supremo Tribunal Federal.
+2. Agravo regimental provido. (AgRg no Ag 749.860/SP, Rel. Ministro João Otávio de Noronha, Segunda Turma, DJ 03.08.2006).
+O acordão afirma, ainda, que a Fazenda Municipal não esclareceu em que termos foi formalizado o parcelamento, "no contexto de incentivos ao pagamento voluntário", situação que esbarra na Súmula 7/STJ.
+Dessa maneira, como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
