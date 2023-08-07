@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por COOPERATIVA DE TRANSPORTE LÍDER (COOPERATIVA) contra decisão de relatoria do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial, em virtude da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, COOPERATIVA alegou que (1) foram impugnados todos os fundamentos da decisão agravada, inclusive a não incidência das Súmulas nºs 7 e 89 do STJ; (2) foram violados os arts. 11, 489, § 1º, IV, 1.013, § 3º, IV e 1.022, II, todos do NCPC; (3) as omissões vislumbradas no aresto recorrido não foram sanadas; (4) o novo Código de Processo Civil prevalece sobre o Regimento Interno do Tribunal; e, (5) foi afrontado o art. 5º, II e XXXV, da CF.
+Não houve impugnação ao recurso (e-STJ, fl. 637).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+De fato, verifica-se que a COOPERATIVA infirmou todos os fundamentos da decisão de inadmissibilidade nas razões de seu agravo em recurso especial.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto pela COOPERATIVA.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, COOPERATIVA alegou ofensa aos arts. 11, 489, § 1º, IV, 1.013, § 3º, IV e 1.022, II, todos do NCPC. Sustentou que (1) o aresto recorrido foi omisso, porque não enfrentou o argumento de que não existe inovação recursal no tocante à nulidade da intimação do protesto; (2) o acórdão atacado ainda foi omisso, uma vez que não se manifestou sobre a inexistência de comprovação de entrega dos veículos, conforme avençado, acerca da inexistência de DUT de todos os veículos negociados e sobre o fato de que o DUT não se presta a demonstrar a entrega das mercadorias; e, (3) o acórdão rechaçado foi igualmente omisso, pois deixou de fundamentar o tema relativo ao abatimento dos valores pagos.
+O inconformismo merece prosperar.
+Da assertiva de omissão no aresto recorrido
+COOPERATIVA alegou ofensa aos arts. 11, 489, § 1º, IV, 1.013, § 3º, IV e 1.022, II, todos do NCPC. Sustentou que (1) o aresto recorrido foi omisso, porque não enfrentou o argumento de que não existe inovação recursal no tocante à nulidade da intimação do protesto; (2) o acórdão atacado ainda foi omisso, uma vez que não se manifestou sobre a inexistência de comprovação de entrega dos veículos, conforme avençado, acerca da inexistência de DUT de todos os veículos negociados e sobre o fato de que o DUT não se presta a demonstrar a entrega das mercadorias; e, (3) o acórdão rechaçado foi igualmente omisso, pois deixou de fundamentar o tema relativo ao abatimento dos valores pagos.
+A Corte local, ao analisar os embargos de declaração, deixou de se manifestar acerca das alegadas omissões, no que se refere à ausência de inovação recursal no tocante à nulidade da intimação do protesto, sobre a inexistência de comprovação de entrega dos veículos, conforme avençado, acerca da inexistência de DUT de todos os veículos negociados e sobre o fato de que o DUT não se presta a demonstrar a entrega das mercadorias, bem como sobre a ausência de fundamentação quanto ao abatimento dos valores pagos.
+É condição sine qua non ao conhecimento do especial que as questões de direito ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido.
+(REsp n. 2.005.719/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Ante o exposto, dou provimento ao agravo interno para CONHECER do agravo a fim de conhecer em parte do recurso especial e, nesta extensão, DAR-LHE PROVIMENTO determinando o retorno dos autos ao Tribunal de Justiça do Distrito Federal e dos Territórios para que se analisem as questões trazidas nos embargos de declaração, como entender de direito, ficando prejudicadas os demais temas deduzidos.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DIREITO EMPRESARIAL AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. FALÊNCIA. EXECUÇÃO. DUPLICATA. OMISSÕES. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONFIGURAÇÃO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, DAR PROVIMENTO.
