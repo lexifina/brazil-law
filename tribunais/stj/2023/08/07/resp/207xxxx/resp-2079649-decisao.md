@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+FORNECIMENTO DE MEDICAMENTO.
+1.Obrigação de fazer julgada procedente, no ponto em que não extinta, para determinar o fornecimento à autora de um dos medicamentos especificados na inicial. Tema nº 106, do STJ. Requisitos preenchidos.
+2. Astreintes. Montante deve servir de estímulo para que o devedor opte pelo cumprimento da obrigação na forma específica. Valor mantido.
+3. Fixação de verba honorária nos termos do art. 85, § 3º, do CPC. Cabível a adequação do montante às peculiaridades do caso, reduzidos os honorários para R$ 1.500,00. Aplicação dos princípios da proporcionalidade, da razoabilidade e da equidade.
+4. Multa por litigância de má-fé que se afasta em face da ausência de prova do dolo específico, necessário à imposição da sanção, provido nesta extensão o recurso da autora.
+5. Recursos parcialmente providos.
+A parte recorrente, nas razões do Recurso Especial, aponta violação do art. 85, § 3º, do Código de Processo Civil.
+Contrarrazões às fls. 592-600, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.7.2023.
+Quanto aos honorários advocatícios, o Tribunal estadual consignou:
+(..)
+3. Em relação aos honorários, foram fixados ao patrono da autora, em virtude da sucumbência e por equidade, em R$ 6.000,00.
+Esse critério foi adotado pelo juízo sentenciante para evitar a desproporcionalidade do numerário, uma vez que ainda que se entenda que a causa apresenta conteúdo econômico imediato, (..) cabível a apreciação equitativa e o valor ora fixado não é irrisório, excessivo ou exorbitante e configura-se adequado diante das peculiaridades do caso em comento (f. 275).
+Ainda que se registrem decisões em sentido oposto inclusive reformando acórdãos desta relatoria, recentemente o STJ, a julgar o REsp 1.864.345 - SP 1 (j. em 17.03.2020), sob a relatoria do Ministro Benedito Gonçalves, entendeu que a honorária de sucumbência pode ser arbitrada por equidade nas causas em que os valores são exorbitantes:
+(..)
+A hipótese insere-se claramente na exceção, pois pese o valor da causa importar em R$ 240.000,00, aplicação automática e irrefletida do artigo 85, § 3º do CPC sobre tal cifra conduziria, na hipótese, a honorária exorbitante e desarrazoada, desproporcional ao trabalho realizado, a importar enriquecimento sem causa.
+Logo, foi bem aplicado o preceito do § 8º do art. 85 do CPC, com base nos princípios da equidade e da razoabilidade.
+No entanto, o montante a final arbitrado, R$ 6.000,00, revela-se ainda excessivo. Assim, mostra-se mais consentâneo às peculiaridades do caso reduzi-lo a R$ 1.500,00, garantindo remuneração condigna ao patrono e simultaneamente evitando o risco de fixar-se valor que importe em enriquecimento sem causa. atendendo aos critérios dos incisos do § 2º e do § 8º do art. 85 do CPC.
+Relativamente aos critérios para arbitramento de honorários advocatícios de sucumbência, a Corte Especial do STJ, como se sabe, afetou a matéria para julgamento sob o rito dos Recursos Repetitivo, por meio do REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.618/SP e REsp 1.906.623/SP.
+O objeto específico da pretensão recursal neles veiculada consistiu em definir a exegese do art. 85, § 8º, do CPC, isto é, se a norma desse dispositivo legal é aplicável nas hipóteses em que a adoção dos parâmetros estabelecidos nos §§ 2º e 3º do referido artigo poderia resultar no estabelecimento de verba exorbitante ou excessiva, ou, por qualquer modo, desproporcional.
+O julgamento do Tema 1.076/STJ ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi concluído com o estabelecimento das seguintes teses: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação, ou (b) do proveito econômico obtido, ou (c) do valor atualizado da causa; e ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O acórdão proferido no julgamento de cada um dos Recursos Especiais acima indicados foi publicado no DJe de 31.5.2022, e, como consequência, tem-se que "As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais aclaratórios. Precedentes do STJ e do STF." (AgInt nos EmbExeMS n. 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018.)
+In casu, a decisão adotada nas instâncias de origem não se encontra em sintonia com a orientação do STJ, razão pela qual - ressalvados tanto o meu posicionamento a respeito desse ponto (disponível no endereço/link https://processo.stj.jus.br/processo/revista/documento/mediado/ componente=ATC&sequencial=145446622&num_registro=201903526617&data=20220531&tipo=4&formato=PDF) e quanto a análise da compatibilidade da norma com a Constituição Federal de 1988 - merece reforma o acórdão hostilizado. Dada a necessidade de valoração dos critérios fáticos estabelecidos no art. 85, § 2º, do CPC, que serão utilizados também para individualização das alíquotas a serem aplicadas conforme as margens definidas no § 3º do mesmo dispositivo legal, determino a devolução dos autos à Corte a quo, responsável pelo arbitramento, nos moldes acima, dos honorários de sucumbência.
+Diante do exposto, dou provimento ao Recurso Especial .
+Publique-se.
+Intimem-se.
