@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LOURDES MARIA FERREIRA - SUCESSÃO e OUTROS contra acórdão prolatado, por unanimidade, pela 25ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento de Agravo de Instrumento, assim ementado (fls. 244/245e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. HONORÁRIOS EXECUTIVOS INDEVIDOS TANTO NA VIGÊNCIA DO CPC/73 COMO NO CPC/15. INTERPRETAÇÃO DO ART. 85, §7º, DO CPC/15. RECURSO IMPROVIDO. UNÂNIME.
+A PARTIR DO JULGAMENTO DO RE 420.816-4, PELO E. STF, CONSOLIDOU-SE O ENTENDIMENTO DE QUE NÃO SÃO DEVIDOS HONORÁRIOS ADVOCATÍCIOS PELA FAZENDA PÚBLICA NAS EXECUÇÕES POR QUANTIA CERTA QUE NÃO TENHAM SIDO EMBARGADAS E CUJO CRÉDITO DEVA SER PAGO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO, O QUE NÃO FOI ALTERADO PELO ADVENTO DO CPC/15, CONFORME ART. 85, §7º.
+TENDO HAVIDO IMPUGNAÇÃO PELO ENTE PÚBLICO AO PEDIDO DE CUMPRIMENTO DE SENTENÇA, VIÁVEL A CONDENAÇÃO EM HONORÁRIOS, MAS NÃO EM RAZÃO DO CUMPRIMENTO DE SENTENÇA, E SIM EM VIRTUDE DA IMPUGNAÇÃO OFERTADA, E DE ACORDO COM A SUCUMBÊNCIA NESTA VERIFICADA.
+CASO CONCRETO QUE NÃO DÁ ENSEJO AOS HONORÁRIOS EXECUTIVOS, POIS QUE A PRETENSÃO DIZ, EXCLUSIVAMENTE, COM O SÓ FATO DA FAZENDA PÚBLICA TER IMPUGNADO O CUMPRIMENTO DE SENTENÇA, E INDEPENDENTEMENTE DA DECISÃO QUE OS JULGAR. SITUAÇÃO QUE NÃO SE ENQUADRA NO TEMA 973 DO STJ.
+DECISÕES JUDICIAIS CITADAS PELOS RECORRENTES COMO PARADIGMAS QUE NÃO SE CONSTITUEM JURISPRUDÊNCIA DOMINANTE, TAMPOUCO PRECEDENTES VINCULANTES E, PORTANTO,NÃO SÃO DE OBSERVÂNCIA OBRIGATÓRIA, NÃO INCIDINDO, ASSIM, O DISPOSTO NOS ARTS. 926 E 927 DO CPC/15.
+Opostos embargos de declaração, foram rejeitados (fls. 452/453e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos art.  85,  §  7º,  do  Código de Processo Civil de 2015, alegando-se, em síntese,  que  houve  violação  ao  dispositivo,  porquanto  a  regra  estatuída  estabelece  que  serão  devidos  honorários  no  cumprimento  de  sentença  contra  a  Fazenda  Pública  que  enseje  a  expedição  de  precatório  para  os  casos  em  que  houve  oferecimento  de  impugnação/embargos.
+Com contrarrazões (fls. 585/594e), o recurso foi admitido (fls. 598/601e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual o cumprimento de sentença impugnado enseja a fixação de honorários sucumbenciais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. ART. 85, § 7º, CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O entendimento do acórdão recorrido não está em consonância com a jurisprudência do STJ, segundo a qual, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de Cumprimento de Sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.209.980/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/4/2023, DJe de 28/4/2023 - destaque meu).
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA SOB A VIGÊNCIA DO CPC/2015. IMPUGNAÇÃO. FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS QUE OBEDECEM A LEI PROCESSUAL EM VIGOR NO MOMENTO DA DECISÃO DA IMPUGNAÇÃO.
+1. No decisum combatido ficou consignado (fl. 216, e-STJ): "O Tribunal de origem consignou: "considero que a fixação dos honorários sucumbenciais se aplica ao processo como um todo e não a cada uma de suas fases, como pretendido pela embargante". Neste panorama, a tese da recorrente merece guarida. Assim, considerando essas balizas fáticas, o Superior Tribunal de Justiça definiu que o cumprimento de sentença impugnado pela executada enseja a fixação de honorários sucumbenciais, sendo estes regidos pela lei processual em vigor.
+2. Com efeito, o STJ já pacificou o entendimento de que o cumprimento de sentença impugnado enseja a fixação de honorários sucumbenciais, sendo estes regidos pela lei processual em vigor.
+Precedente do STJ.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.805.278/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe de 19/12/2019 - destaque meu).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para determinar que os honorários sucumbenciais no cumprimento de sentença sejam fixados pela Corte de origem.
+Publique-se e intimem-se.
