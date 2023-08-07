@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Cumprimento de sentença Mandado de segurança. Ausência de condenação do impetrado em ônus sucumbencial Título executivo inexistente Sentença de extinção nos termos do artigo 485, inciso IV, do CPC - Honorários sucumbenciais que, embora aviltantes, não podem ser elevados, por ausência de recurso da requerente nesse sentido Sentença mantida. Recurso desprovido
+Na origem, trata-se de execução de sentença proposta em desfavor do Município de Suzano e do Secretário da Fazenda do referido município, a qual tramita perante a 4ª Vara Cível da Comarca de Suzano. A sentença em questão extinguiu o processo sem resolução de mérito, nos termos do art. 485, inciso IV, do Código de Processo Civil, devido à ausência de título executivo judicial. A parte exequente foi condenada ao pagamento dos honorários advocatícios fixados em R$ 1.000,00, seguindo critério de equidade.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa ao art. 25 da Lei 12.016/2009, bem como do art. 85, § 2º, § 3º e § 11.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30.6.2023.
+A recorrente insurgiu-se contra acórdão que admitiu a fixação de honorários advocatícios em execução de sentença emanada de Mandado de Segurança.
+Importa frisar que, na esfera do Mandado de Segurança, a condenação em honorários advocatícios é vedada, consoante o art. 25 da Lei 12.016/2009, corroborado pelas Súmulas 512 do STF e 105 do STJ, inexistindo ressalvas ao cumprimento de sentença.
+As ações são interdependentes, não autônomas. Uma decorre da outra. Assim, na execução de sentença em Mandado de Segurança, descabe condenação em honorários, por subsumir-se a norma especial que o rege.
+Dessa forma, o comando do art. 25 da Lei 12.016/2009 sobressai sobre o disposto no art. 85 do CPC (art. 2º, § 2º, da LICC).
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA INDIVIDUAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 25 DA LEI 12.016/2009. SÚMULA 105/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de impugnação ao Cumprimento de Sentença apresentada pelo Instituto Nacional do Seguro Social, nos autos do Mandado de Segurança impetrado por José João Batista de Paulo. A sentença rejeitou a impugnação e homologou os cálculos apresentados pela Contadoria Judicial, concluindo que, "descabida a condenação em honorários advocatícios em sede de mandado de segurança, não poderá, por conseguinte, ser cobrada tal verba em execução do julgado, consoante disposto no art. 25 da Lei 12.016/2009, bem como nas Súmulas 512 do STF e 105 do STJ". O Tribunal de origem negou provimento ao recurso de Apelação interposto pela parte exequente, mantendo o afastamento da condenação em honorários advocatícios.
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+V. Nos termos da jurisprudência desta Corte, na fase de cumprimento de sentença em Mandado de Segurança individual, não cabem honorários advocatícios de sucumbência, na esteira do disposto no art. 25 da Lei 12.016/2009 e na Súmula 105/STJ. Nesse sentido: STJ, AgInt no REsp 2.010.538/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/11/2022; AgInt no REsp 1.968.010/DF, Rel. Ministro MANOEL ERHARDT (Desembargador Federal convocado do TRF/5ª Região), PRIMEIRA TURMA, DJe de 11/05/2022; AgInt no REsp 1.960.102/AL, Rel. Ministro MANOEL ERHARDT (Desembargador Federal convocado do TRF/5ª Região), PRIMEIRA TURMA, DJe de 09/06/2022; AgInt no REsp 1.931.193/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/03/2022, o que atrai, ao caso, a Súmula 83 do STJ.
+VI. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 2.127.997/MG, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Cuida-se de Agravo Interno contra decisum que negou provimento ao Recurso Especial.
+2. Inicialmente, o Recurso Especial foi interposto contra acórdão do Tribunal a quo que considerou descaber a fixação de honorários advocatícios em execução de sentença proferida em Mandado de Segurança.
+3. Na origem, trata-se de Agravo de Instrumento interposto pela ora recorrente contra decisão em que o Juiz da primeira instância indeferiu o pedido de fixação de honorários advocatícios da execução de sentença, nos termos do art. 85, §§ 3º e 5º, do CPC/2015.
+4. Assim, em se tratando de Mandado de Segurança, é indevida a condenação em honorário s advocatícios, consoante dispõe o art. 25 da Lei 12.016/2009 e em conformidade com as Súmulas 512 do STF e 105 do STJ, não havendo nenhuma ressalva à fase de cumprimento de sentença.
+Ao contrário, há precisão quanto ao descabimento da fixação de honorários no processo de Mandado de Segurança.
+5. As ações, como quer demonstrar a agravante, não são autônomas.
+Pelo contrário, são interdependentes. Uma decorre da outra. Assim, cuidando-se de Ação de Execução de Sentença em Mandado de Segurança, não há falar em condenação em honorários advocatícios, por se enquadrar em lei especial. Logo, na hipótese em exame, o disposto no art. 25 da Lei 12.016/2009 prevalece sobre a regra do art. 85, § 1º, do CPC (art. 2º, § 2º, da LICC).
+6. Ademais, o caso dos autos não consiste em execução individual de sentença proferida em ação coletiva, como trata a Súmula 345 do STJ, mas sim em execução coletiva.
+7. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.849.248/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/10/2020.)
+Diante do exposto, conheço e dou pro vimento ao Recurso Especial com a finalidade de anular a fixação de honorários advocatícios de sucumbência na execução de sentença originada de Mandado de Segurança.
+Publique-se.
+Intimem-se.
