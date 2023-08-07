@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão assim ementado (fl. 58):
+1-) Agravo de execução penal. Recurso Ministerial. Não provimento.
+2-) Pleito para que se considere como termo inicial para transferência ao regime aberto o dia em que realizado o exame criminológico.
+3-) Conforme entendimento dos Tribunais Superiores e deste Tribunal de Justiça, na execução da pena, a data-base para a progressão de regime será o dia em que o sentenciado preencher os requisitos legais do art. 112 da Lei de Execução Penal, definidos de forma casuística.
+4-) Recurso não provido.
+Consta dos autos que o juízo da execução, ao elaborar novo cálculo de penas do recorrido, adotou como data-base para a progressão ao regime aberto, a data em que o sentenciado cumpriu o requisito objetivo, qual seja, 18/1/2022.
+Inconformado, o Ministério Público estadual interpôs recurso de agravo em execução, que não foi provido.
+No presente recurso, interposto com fundamento no art. 105, III, alíneas a e c, da CF, alega o recorrente, em suma, violação do artigo 33, §2º, do Código Penal, bem como do artigo 112, da Lei de Execução Penal, além de ter divergido na interpretação do artigo 112, da Lei de Execução Penal.
+Aduz que a data-base para nova progressão corresponde à data do preenchimento do requisito subjetivo, equivalente, no caso, à data do laudo do exame criminológico.
+Requer o provimento do recurso para reformar o v. acórdão recorrido e fixar como data-base para nova progressão de regime o dia em que o sentenciado preencheu o último requisito, no caso, o subjetivo, com a realização do exame criminológico (dia 20.05.2022), determinando-se o retificação do cálculo de penas.
+Contrarrazoado e admitido na origem, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+O Tribunal de origem assim se pronunciou (fls. 59/67):
+O agravo não comporta acolhimento.
+O agravado cumpre pena privativa de liberdade que totaliza treze (13) anos, oito (8) meses e quinze (15) dias de reclusão pela prática dos delitos dispostos nos artigos 158, § 2º e 213 "caput", ambos do Código Penal.
+O término da pena está previsto para 2.2.2031 (fls. 21/22).
+Submetido ao exame criminológico, o sentenciado obteve parecer favorável à progressão de regime (fls. 8/16 - 20.5.2022).
+O douto Magistrado entendeu adequado ao caso fixar como marco inicial à progressão ao regime aberto a data do preenchimento do requisito objetivo (fls. 27/29).
+Conforme entendimento pacificado pelos Tribunais Superiores, o termo inicial para a progressão de regime deverá ser a data em que o sentenciado, efetivamente, adquiriu o direito ao benefício, mediante preenchimento dos requisitos exigidos pelo art. 112 da Lei de Execução Penal.
+Deste modo, a data em que o reeducando preencheu os requisitos necessários para a concessão do benefício, sendo anterior à realização do exame criminológico favorável, não pode ser desconsiderada, pois o período em que o Judiciário analisava o requerimento permanecia a ele, que cumpria pena.
+Com efeito, nos termos do art. 112, da Lei de Execução Penal, que normatizou o sistema progressivo de cumprimento de pena, a progressão do sentenciado para o regime menos rigoroso deve ser precedida da comprovação de requisitos de ordem objetiva e subjetiva, de sorte que o Magistrado, tendo dúvidas a propósito da presença dos requisitos de ordem subjetiva, pode e deve determinara realização de exame criminológico, instrumento capaz de aferir os méritos do condenado.
+E, como se sabe, a despeito da almejada celeridade no trâmite dos incidentes na execução penal, o que se tem, na realidade, é que, muitas vezes o sentenciado acaba aguardando longos períodos para instauração e processamento dos benefícios requeridos, não só pela alta demanda nas Varas das Execuções, mas pela variedade e complexidade de atos, como aqueles relacionados à progressão de regime, que, repita-se, demandam cuidadosa análise judicial, exigindo, algumas das vezes, a realização do exame criminológico, procedimento complexo que, além de envolver uma série de profissionais, exige a realização de variadas perícias.
+Não sem razão a Comissão Parlamentar de Inquérito da Câmara dos Deputados, destinada a investigar a realidade do sistema carcerário do país (CPI do Sistema Carcerário), elaborou projeto de Lei (PL nº 2.684/2015) que altera a Lei de Execução Penal para acelerar pedidos de mudança de presos para regimes menos severos, pedidos de remição e outros requerimentos relacionados à situação dos detentos.
+Atualmente, a Comissão de Constituição e Justiça e Cidadania (CCJC) aprovou o parecer e o processo aguarda publicação na Coordenação de Comissões Permanentes (CCP) (informação disponível em: https://www. camara. leg. br/proposicoes Web/ ficha de tramitacao - id Proposicao=1672153, data da pesquisa: 5.7.2021).
+Desse modo, tudo vem sinalizando que não se pode mesmo desconsiderar, em prejuízo do condenado, o período em que permaneceu cumprindo pena enquanto se dava o processamento e análise de seu pedido de progressão, até mesmo em razão da natureza declaratória de que se reveste a decisão que concede a progressão ao preso. Nessa toada, confira-se o julgadodo Supremo Tribunal Federal:
+ ..
+Ora, é bem verdade que o preenchimento do requisito objetivo não é suficiente para o aperfeiçoamento do direito à progressão de regime, pois o art. 112, da Lei de Execução Penal, prevê também a necessidade de boa conduta carcerária.
+Em julgamento de questão repetitiva sobre a matéria, esclareceu a tese vencedora, em sede de embargos de declaração, dando a seguinte redação para o enunciado sobre o tema, de lavra do Exmo. Des. Sérgio Coelho:
+ ..
+Todavia, disto não decorre que o exame criminológico constitua, necessariamente, o momento do atendimento ao requisito subjetivo.
+Embora o laudo criminológico indique a presença do requisito subjetivo no momento de sua realização, não exclui que a boa conduta carcerária já estivesse presente no período que o antecedeu, de modo que, na ausência de elementos que indiquem a falta de méritos do sentenciado entre o aperfeiçoamento do requisito objetivo e a realização do exame, deve-se considerar que o requisito subjetivo se encontrava satisfeito já na data em que o prazo para o objetivo se concluiu.
+Afinal, repita-se, a avaliação da conduta do sentenciado é responsabilidade da administração pública e a demora na sua realização, por mais que decorra de circunstâncias inevitáveis, não pode prejudicar o apenado.
+No mesmo sentido:
+ ..
+Como se vê, a referida tese estabeleceu que a data-base a ser considerada para fins de nova progressão é aquela em que foi preenchido, caso a caso, o último requisito, seja ele o objetivo ou o subjetivo, sem especificar quando este último requisito deve ser considerado preenchido, ou seja, em nenhum momento estabeleceu que se considera atendido o requisito subjetivo na data de elaboração do exame criminológico.
+Aliás, essa questão ficou bem esclarecida pela Turma Especial em sede de julgamento dos Embargos de Declaração Criminal nº 2103746-20.2018.8.26.0000/50000, datado de 11 de junho de 2021: "(..) Consigne-se, em acréscimo, que ao contrário do que parece entender a Defensoria, a tese final em nenhum momento estabeleceu que se considera atendido o requisito subjetivo na data de elaboração do exame criminológico. Ela deixa claro que "deverá ser definida de forma casuística".
+Portanto, a decisão ora recorrida fica confirmada, por seus fundamentos.
+Como visto, pugna o MP para que seja fixado como termo inicial para a concessão da progressão de regime a data do laudo de exame criminológico favorável.
+Sobre a controvérsia, a jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido de que "A data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício" (AgRg no HC 654.153/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, ju lgado em 11/05/2021, DJe 25/05/2021).
+No mesmo sentido: AgRg no HC 662.270/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; (AgRg no HC 689.642/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021).
+Portanto, havendo a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável.
+Estando o acórdão im pugnado em dissonância com a jurisprudência desta Corte, merece reforma a fim de se ajustar ao entendimento firmado acerca da questão.
+Ante o exposto, dou provimento ao recurso especial a fim de fixar como data-base para a progressão de regime a data do exame criminológico, determinando seja realizado novo cálculo pelo juízo das execuções.
+Publique-se.
+Intimem-se.
