@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSS, com fundamento no art. 105, III, "a", da CF/1988, do acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado:
+PREVIDENCIÁRIO. Apelação cível. Ação de concessão de auxílio-acidente. Procedência. Recurso da Fazenda Pública.
+Prescrição de fundo de direito. Inocorrência. Direito relativo à obtenção de benefício previdenciário. Prazo quinquenal limitado ao período que antecede o ajuizamento da ação. Precedentes do STJ e do STF. Mérito. Acidente de trabalho. Comprovação das lesões, nexo causal e da incapacidade laboral do segurado. Benefício devido. Juros de mora e correção monetária. Inobservância do Tem 905 do STJ. Reforma parcial da sentença. Provimento parcial.
+- Segundo os precedentes do STJ e do STF, a pretensão ao benefício previdenciário em si não prescreve, mas tão somente as prestações não reclamadas em tempo certo, prescrevendo-se uma a uma por inércia do beneficiário, motivo pelo qual inaplicável a prescrição do fundo de direito.
+- Plenamente cabível e justa a concessão de auxílio-acidente a segurado que, apesar de, na teoria, possuir parcialmente sua capacidade laboral geral, na prática, não possui condições gerais para o exercício de trabalho, uma vez que se trata de pessoa que não possui grau de instrução que o capacite para o exercício de atividades técnicas ou intelectuais.
+- O índice de correção monetária nas condenações contra a Fazenda Pública, em matéria previdenciária, é o INPC, sendo aplicado, os juros de mora, a remuneração oficial da caderneta de poupança (art. 41-A da lei nº 8.213/91 e art. 1º- F da lei 9.494/97).
+Precedente repetitivo do STJ (Tema 905) -
+Desprovimento.
+Os Embargos de Declaração foram rejeitados.
+O recorrente afirma que houve ofensa aos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil; e ao art. 1º do Decreto 20.910/1932. Sustenta, em suma (fl. 206, e-STJ):
+(..), no caso vertente, a despeito de a cessação do benefício ter ocorrido em 31/05/2010, a parte demandante apenas ajuizou a presente ação após 5 (cinco) anos, em 2016, requerendo a transformação do auxílio-doença cessado em auxílio-acidente, razão pela qual evidente a prescrição da pretensão de impugnar o ato administrativo de indeferimento/cessação.
+Contrarrazões às fls. 214-216, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5 de julho de 2023.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pelo recorrente.
+Da leitura atenta do Voto condutor, vê-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais o recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+Quanto à alega prescrição, o Tribunal de origem assim se pronunciou (fls. 160-162, e-STJ, grifei):
+Segundo a jurisprudência do STJ e do STF, a pretensão ao benefício previdenciário em si não prescreve, mas tão somente as prestações não reclamadas em tempo certo, prescrevendo-se uma a uma por inércia do beneficiário, motivo pelo qual inaplicável a prescrição do fundo de direito.
+(..)
+Infere-se dos precedentes, que é incabível o reconhecimento da prescrição do fundo de direito, eis que não estamos diante de restabelecimento de benefício previdenciário anteriormente concedido e cessado, mas sim de concessão de auxílio-acidente diante de redução em sua capacidade laborativa ou a aposentadoria por invalidez.
+Ora, como é cediço, os benefícios previdenciários estão ligados ao próprio direito à vida, sendo considerados direitos sociais que compõem o quadro dos direitos fundamentais. A pretensão ao benefício previdenciário em si não prescreve, mas tão somente as prestações não reclamadas em tempo certo, prescrevendo-se uma a uma por inércia do beneficiário.
+Logo, diferentemente do alegado pelo recorrido, a prescrição não atinge o fundo de direito ao benefício, mas, repita-se, apenas as parcelas vencidas no prazo de cinco anos anteriores ao ajuizamento da ação, motivo pelo qual a presente questão deve ser rejeitada.
+O aresto recorrido está em sintonia com a jurisprudência consolidada no STJ e do STF de que, mesmo na hipótese de negativa de concessão de benefício previdenciário e/ou assistencial pelo INSS, não há que se falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a esse benefício não pode ser fulminado sob tal perspectiva.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. NOVO JULGAMENTO DETERMINADO PELO SUPREMO TRIBUNAL FEDERAL. ARE Nº 1.339.439/PE. APLICAÇÃO DA TESE FIRMADA NA ADI Nº 6096/DF. BENEFÍCIO PREVIDENCIÁRIO. IMPRESCRITIBILIDADE. PENSÃO POR MORTE. REGIME ESTATUTÁRIO. VIOLAÇÃO AO ART. 1º DO DECRETO Nº 20.910/32. INDEFERIMENTO ADMINISTRATIVO. PRESCRIÇÃO. INOCORRÊNCIA. MANUTENÇÃO DO ACÓRDÃO RECORRIDO. AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RETRATAÇÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL DO INSS.
+1. A decisão monocrática agravada, proferida às e-STJ fls. 1278/1284, conheceu do agravo e deu provimento ao recurso especial do INSS para reconhecer a prescrição do fundo de direito, pois transcorridos mais de 5 (cinco) anos entre o indeferimento administrativo da pensão por morte e o ajuizamento da ação, nos termos da jurisprudência pacífica deste Tribunal.
+2. Entretanto, o Supremo Tribunal Federal, ao julgar a ADI nº 6096/DF, precedente fixado em sede de controle concentrado de constitucionalidade, firmou a tese de que configura violação ao direito fundamental ao benefício previdenciário fazer incidir os institutos da prescrição e da decadência nas hipóteses de indeferimento, cancelamento ou cessação de benefício previdenciário.
+3. Agravo interno provido para, em juízo de retratação, negar provimento ao recurso especial interposto pelo INSS, mantendo-se o acórdão proferido pelo Tribunal de origem.
+(AgInt no REsp n. 1.525.902/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2023, DJe de 27/3/2023.)
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO NA VIA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. ENTENDIMENTO SEDIMETADO NESTA CORTE E NO SUPREMO TRIBUNAL FEDERAL.
+1. A jurisprudência desta Corte é firme no sentido de que, mesmo na hipótese de negativa, pelo INSS, de concessão de benefício previdenciário de aposentadoria por invalidez, não há falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a esta prerrogativa previdenciária não pode ser fulminado sob tal perspectiva.
+2. Da mesma forma, o Supremo Tribunal Federal, no julgamento da ADI 6.096/DF, relator Ministro EDSON FACHIN, declarando a inconstitucionalidade do art. 24 da Lei 13.846/2019, na parte que dera nova redação ao art. 103 da Lei 8.213/1991, manifestou-se no sentido que, mesmo nas hipóteses em que há o indeferimento administrativo do pedido, não há falar em prescrição do fundo de direito, sendo de rigor o reconhecimento de que apenas as parcelas pretéritas vencidas no quinquênio que precedeu a propositura da ação são alcançadas pela prescrição.
+3. Em outras palavras, nos feitos relativos a concessão ou restabelecimento de benefício previdenciário, não há prescrição do fundo de direito, mas apenas das verbas pleiteadas anteriores aos cinco anos do ajuizamento da ação.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.957.794/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 29/9/2022.)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos term os do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
