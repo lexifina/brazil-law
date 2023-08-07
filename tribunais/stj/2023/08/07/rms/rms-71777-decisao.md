@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por PETTERSON ALVES COSTA, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Secretário de Estado e Administração do Estado de Goiás e ao Instituto de Assessoria em Organização de Concursos Públicos - AOCP, objetivando a sua convocação para o prosseguimento no concurso público de Cadete da Polícia Militar do Estado de Goiás, em especial, nas fases de realização de exames médicos e odontológicos e investigação social, em razão de suposta ilegalidade na aplicação de limite para classificação dos candidatos aptos a participarem da próxima etapa.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS denegou a segurança pleiteada.
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: MANDADO DE SEGURANÇA. EDITAL  003/2022 - CONCURSO DA POLÍCIA MILITAR DO ESTADO DE GOIÁS. AGRAVO INTERNO PREJUDICADO. CANDIDATO NÃO HABILITADO DENTRO DO NÚMERO DAS VAGAS PREVISTAS PARA CLASSIFICAÇÃO NA ETAPA SEGUINTE DO CERTAME. CLÁUSULA DE BARREIRA. INEXISTÊNCIA DE ILEGALIDADE. AUSÊNCIA DE COMPROVAÇÃO DA PRETERIÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA SEGURANÇA.
+1. Deve ser julgado prejudicado o recurso de agravo interno interposto contra a decisão liminar do relator, porquanto o mandado de segurança encontra-se maduro para julgamento de mérito.
+2. Afasta-se a preliminar de inadequação de via eleita, cujo fundamento é a inexistência de direito liquido e certo, na medida em que a matéria confunde-se com o mérito da demanda.
+3. O mandado de segurança consubstancia-se em instrumento constitucional colocado à disposição da pessoa fisica ou jurídica para a proteção de direito individual ou coletivo, liquido e certo, lesado ou ameaçado de lesão por ato de autoridade, quando não amparado por outros remédios constitucionais, conforme definem o art. 5o, inciso LXIX, da Constituição Federal, e art. Io da Lei 12.016/09.
+4. Os procedimentos e critérios de avaliação estabelecidos no edital de seleção são vinculativos à administração pública e ao candidato, razão pela qual configura verdadeira "lei entre as partes".
+5. O Supremo Tribunal Federal decidiu no julgamento da Repercussão Geral do RE 635.739/AL - Tema 376, pela reafirmação da sua jurisprudência, no sentido de que "é constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame."
+6. Ausente a comprovação de preterição na convocação para etapa seguinte do certame, não há se falar em ilegalidade ou arbitrariedade perpetrada pelo Poder Público.
+7. Sem condenação em honorários advocaticios, por serem incabiveis na espécie, de acordo com o artigo 25 da Lei federal nº 12.016/09, e Súmula nº 512 do Supremo Tribunal Federal e Súmula nº 105 do Superior Tribunal de Justiça.
+SEGURANÇA DENEGADA.
+Nas razões do recurso ordinário, o Recorrente rebate o acórdão recorrido reproduzindo as mesmas premissas da impetração.
+Não foram apresentadas contrarrazões.
+O Ministério Público opina pelo desprovimento do recurso.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não merece reparos o acórdão ora recorrido, uma vez que encontra-se em consonância com a jurisprudência firmada nesta Corte Superior.
+Com efeito, alinhando-se ao Supremo Tribunal Federal, que decidiu, no julgamento do RE n. 635.739/AL, pelo regime da Repercussão Geral, ser válida a chamada cláusula de barreira, o Superior Tribunal de Justiça entendeu incidir a referida cláusula para a convocação de determinado número limite de candidatos para as etapas subsequentes, considerando-se eliminados os candidatos excedentes, não conferindo direito líquido e certo ao candidato que, depois de excluído do certame, alega ter obtido a informação da existência de mais vagas que poderiam ser oportunamente providas pelo mesmo concurso público.
+Nesse sentido:
+ADMINISTRATIVO. CONCURSO PÚBLICO. PRETENSÃO DE REVISAR PESO ATRIBUÍDO A QUESTÕES OBJETIVAS. IMPOSSIBILIDADE. VINCULAÇÃO AO EDITAL. CLÁUSULA DE BARREIRA. CONSTITUCIONALIDADE.
+1. Cuida-se de Mandado de Segurança no qual o impetrante sustenta que, em concurso para provimento do cargo de Investigador de Polícia Civil, no qual concorreu a uma das vagas reservadas a pessoas com deficiência, a Administração Pública teria desobedecido o edital ao atribuir, na correção das provas objetivas, às questões de conhecimentos gerais peso superior ao atribuído às questões de conhecimentos específicos.
+(..)
+7. No julgamento do Recurso Extraordinário com Repercussão Geral 635.739/AL, Relator Ministro Gilmar Mendes, Tribunal Pleno, DJe em 3.10.2014, o Supremo Tribunal Federal consagrou o entendimento de que "é constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame." (Tema 376/STF).
+8. Essa orientação tem sido reiterada pelo Superior Tribunal de Justiça. Nesse sentido: AgInt no RE nos EDcl no AgInt no RMS 54.965/GO, Relatora Min. Maria Thereza de Assis Moura, Corte Especial, DJe 2.9.2019; AgInt no RMS 51.590/MS, Relator Min. Gurgel de Faria, Primeira Turma, DJe 27.4.2020; AgInt no MS 23.891/DF, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 3.10.2018.
+9. Recurso em Mandado de Segurança não provido.
+(RMS 65.540/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/04/2021, DJe 01/07/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS PREVISTO NO EDITAL. MERA EXPECTATIVA DE DIREITO. AUSÊNCIA DE PRETERIÇÃO. CLÁUSULA DE BARREIRA. CONSTITUCIONALIDADE. TEMAS DECIDIDOS PELO STF EM REPERCUSSÃO GERAL. IMPROCEDÊNCIA MANIFESTA. MULTA.
+1. O Superior Tribunal de Justiça, secundando orientação do STF oriunda de julgamento realizado sob a sistemática da repercussão geral, consolidou o entendimento de que o candidato classificado em concurso público fora do número de vagas previstas no edital ou para cadastro de reserva tem mera expectativa de direito à nomeação, sendo certo que o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da Administração.
+2. O STF, em julgamento com repercussão geral (RE 635.739/AL), entendeu ser "constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame".
+3. Hipótese em que os candidatos não obtiveram classificação no certame, não havendo a configuração de nenhuma situação de preterição a ensejar o direito à nomeação.
+4. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4º, do CPC/2015).
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no RMS 51.590/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
