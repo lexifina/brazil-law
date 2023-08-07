@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial da FAZENDA DO ESTADO DE SAO PAULO e OUTRO no qual se insurgiram contra o acórdão proferido pelo TJSP assim ementado:
+PRESCRIÇÃO - A contagem do lustro prescricional previsto no artigo 3º do Decreto nº 20.910/32, dar-se-á retroativamente, a partir da data de impetração do mandado de segurança coletivo, porquanto o direito ao recálculo ali pleiteado se viu reconhecido  Não ocorrência de prescrição  Preliminar afastada.
+MANDADO DE SEGURANÇA COLETIVO - Impetração por associação legalmente constituída - Comprovação de filiação à associação - Desnecessidade - Artigo 21, da Lei nº 12.016/2009 - Preliminar afastada.
+AÇÃO DE COBRANÇA - Recálculo de quinquênios e sexta -parte concedido em mandado de segurança - Pretensão ao recebimento das aludidas verbas no quinquênio anterior à impetração do writ  Possibilidade  Decisão colegiada que extinguiu o processo sem análise do mérito reformada pelo Superior Tribunal de Justiça em Recurso Especial  Reconhecimento da ocorrência de coisa julgada material - Valores devidos.
+JUROS E CORREÇÃO MONETÁRIA  Observância aos Temas 905 e 810, do STJ e STF, respectivamente - Juros contados da notificação na impetração  Correção Monetária de quando devidos os valores.
+HONORÁRIOS ADVOCATÍCIOS  Sentença ilíquida  Fixação no patamar mínimo do artigo 85, § 3º e seus incisos do CPC  Majoração levada a efeito na forma do artigo 85, § 11, do CPC. Recurso dos Autores provido.
+Os embargos de declaração opostos foram rejeitados (fls. 426/433).
+Nas razões do seu recurso especial (fls. 435/441), a parte agravante sustenta violação dos arts. 1º, 3º e 9º do Decreto 20.910/1932, argumentando, para tanto, o seguinte:
+ ..  necessário o provimento do presente recurso procedendo-se ao distinguishing entre a prescrição do fundo de direito (para ingressar com a ação individual) e a prescrição parcelar (relativa às verbas pretéritas ao ajuizamento da ação individual), com a consequente adequação do julgado à orientaçâo consolidada no âmbito desta e. Corte Superior, de forma que sejam declaradas prescritas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual (fls. 441).
+Contrarrazões apresentadas às fls. 446/457.
+Sobreveio o juízo de admissibilidade negativo (fl. 464), razão pela qual se interpôs o agravo em recurso especial ora em análise.
+Foi apresentada contraminuta ao agravo às fls. 482/495.
+É o relatório.
+A irresignação merece prosperar.
+Com efeito, o entendimento desta Corte é o de que a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual.
+Nesse sentido, cito os seguintes os precedentes:
+RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. REVISÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PRESCRIÇÃO QUINQUENAL A CONTAR DA AÇÃO INDIVIDUAL.
+1. O acórdão recorrido deu provimento à pretensão autoral, fundamentado no entendimento proferido pelo Supremo Tribunal Federal, no julgamento do RE 564.354, ao reconhecer que não ofende o ato jurídico perfeito a aplicação imediata dos arts. 14 da Emenda Constitucional n. 20/1998 e 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto estabelecido antes da vigência dessas normas. Esse fundamento, eminentemente constitucional, impede a análise em recurso especial.
+2. Tratando-se de ação de conhecimento individual e autônoma, em relação à ação civil pública ajuizada pelo Ministério Público Federal - MPF em momento anterior, com mesmo objeto, o termo inicial da prescrição quinquenal é a data da propositura da ação individual. Precedentes.
+4. Recurso especial do INSS parcialmente conhecido e, nessa extensão, provido. (REsp 1.748.485/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/12/2018, DJe de 10/12/2018.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO QUINQUENAL DE AÇÃO INDIVIDUAL A CONTAR DO AJUIZAMENTO DA AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE.
+1. Hipótese em que o Tribunal local consignou: "inexiste vício quanto a interrupção da prescrição a partir do ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183, em 05/05/2011, com fixação do termo a quo do prazo prescricional no quinquênio anterior, e não no quinquênio que antecede ao ajuizamento da presente ação. Isto porque a propositura da ação civil pública tem o condão de promover a cessação da inércia, desde que a Autarquia tenha sido devidamente citada" (fl. 207, e-STJ).
+2. O Superior Tribunal de Justiça possui o entendimento de que "a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1642625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2017, DJe 12/6/2017).
+3. Recurso Especial provido. (REsp 1.722.592/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2018, DJe de 23/11/2018).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de reconhecer a prescrição quinquenal, a contar do ajuizamento da ação individual.
+Publique-se. Intimações necessárias.
