@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por FERNANDO MAIA BOSCHI, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+EMENTA: APELAÇÃO CÍVEL. CONCURSO PÚBLICO. FORMAÇÃO DE SOLDADO PMMG. EXAME PSICOLÓGICO. CONTRAINDICAÇÃO.
+É legítima a exigência de exame psicológico em concurso público para carreira da Polícia Militar, pois além de previsto em Lei e no próprio edital de convocação, possui caráter objetivo e razoável para as funções a serem exercidas.
+Havendo prova pericial, produzida judicialmente e sob o crivo do contraditório, que não conduz à inaptidão do candidato, não cabe a anulação do ato que o eliminou do certame.
+Recurso conhecido e provido (fl. 1.867).
+Os embargos de declaração foram rejeitados (fls. 1.898/1.900).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 489, § 1º, e 1.022 do CPC, apresentando os seguintes argumentos: (a) o Tribunal de origem foi omisso quanto à matéria discutida; (b) "Não houve a apreciação da alegação de ausência do contraditório e da ampla defesa, em razão do indeferimento do recurso administrativo sem qualquer justificativa. Não houve a apreciação da nulidade decorrente da Ofensa ao princípio da Legalidade, vez que a decisão que apreciou o recurso administrativo aviado pelo recorrente foi desprovida de qualquer justificativa técnica, contendo apenas o resultado de INDEFERIDO, havendo vício por ausência de motivação" (fl. 1.913); (c) a clínica que aplicou o teste não era credenciada à PMMG; (d) ausência de isonomia na aplicação do teste psicológico; (e) "a avaliação psicológica realizada no recorrente feriu o princípio da finalidade do objeto do certame por apresentar de forma subjetiva o resultado da análise dos dados" (fl. 1.218).
+Contrarrazões às fls. 1.936/1.939.
+É o relatório.
+Inicialmente, destaco que encontra-se consolidado o entendimento de que a exigência de avaliação psicológica de candidato em concurso público não se perfaz apenas com a sua previsão no edital do certame, mas sim com a expressa previsão legal.
+No caso em comento, essa exigência foi atendida, pois o teste psicológico encontra previsão na Lei Estadual 5.301/1969 - Estatuto da Polícia Militar.
+Sobre o tema, cito precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. POLÍCIA MILITAR. CRITÉRIOS OBJETIVOS. PREVISÃO LEGAL.
+(..).
+III - A decisão agravada adotou entendimento consolidado nesta Corte, segundo o qual é legítima a previsão de realização de exame psicotécnico em concursos públicos, desde que haja previsão na lei e no edital do certame e objetividade dos critérios adotados, resguardando-se, ainda, o direito de recurso revisional pelo candidato .
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V- Agravo Regimental improvido. (AgRg no RMS 43.362/AC, relatora Ministra Regina Helena Costa, DJe 30/3/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. MERA INSATISFAÇÃO COM O JULGADO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONTROVÉRSIA DIRIMIDA COM BASE EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. TESTE PSICOTÉCNICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. APLICAÇÃO. POSSIBILIDADE. PREVISÃO LEGAL. SUBJETIVIDADE DA AVALIAÇÃO AFASTADA. ALTERAR ENTENDIMENTO. ÓBICE DA SÚMULA 7.
+(..).
+7. É legítima a previsão de realização de exame psicotécnico em concursos públicos, desde que haja previsão na lei, bem como no edital do certame,e objetividade dos critérios adotados, resguardado o direito de recurso revisional pelo candidato (AgRg no RMS 37.636/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 12.4.2016, DJe 19.4.2016).
+8. Conforme entendimento do Superior Tribunal de Justiça, "o ingresso na carreira da Polícia Militar do Distrito Federal exige, dentre outros requisitos, a aptidão psicológica do candidato. Inteligência do art. 11 da Lei 7.289/1984 e do art. 14 do Decreto 6.944/2009 (AgRg no REsp 1.404.261/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11.2/2014,.DJe 18.2.2014).
+9. Agravo Interno não provido. (AgInt no AREsp. 868.409/DF, relator Ministro Herman Benjamin, DJe 29/9/2016.)
+Quanto ao conhecimento das razões da inaptidão da parte autora no teste aplicado, extraio do acórdão recorrido o seguinte:
+A Constituição da República estabelece que a investidura em cargo público "depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei" (artigo 37, II). (Destaques apostos)
+Da mesma forma, o artigo 39, §3º, da CF/88, dispõe que a lei pode "estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir
+Não há dúvida, pois, acerca da possibilidade de limitação ao exercício de cargos públicos, segundo critérios definidos em lei.
+E a lei a que se refere o texto constitucional só pode ser entendida como lei em sentido formal, ou seja, a norma editada pelo Parlamento e sancionada pelo Chefe do Poder Executivo.
+Para regulamentar a lei, foi editada a Resolução Conjunta n. 4.278/2013, que prevê a relação de doenças e alterações que revelam a incapacidade para o exercício do cargo.
+No anexo "E" da referida norma, estão elencadas as "Doenças e Alterações Incapacitantes e Fatores de Contra-lndicação para Admissão/Inclusão".
+E no Grupo XVI, itens 2 e 10, os traços de descontrole da agressividade e quadros de excitabilidade elevada ou de ansiedade generalizada são indicados como óbice à admissão no cargo postulado.
+Considerando que os atos da Administração são vinculados e encontrando, no caso em apreço, fundamento na legislação estadual de forma clara e precisa, não se pode afirmar que a exclusão do autor, ora apelado, do curso de formação de soldados, violou normas e princípios constitucionais informadores da atividade administrativa.
+Na hipótese dos autos, verifica-se que, assim como dispõe a Resolução n 01/2002 do Conselho Federal de Psicologia e próprio edital do concurso, acerca da necessidade de avaliação conjunta de todos os testes aplicados, a desclassificação foi pautada no resultado da anamnese psicológica, do Beta-lll, do Inventário Fatorial de Personalidade - IFP-II e do Psicodiagnóstico Miocinético, PMK, conforme esclarecido no laudo de inaptidão de n de ordem 17.
+E, além disso, a perícia realizada não avaliou o resultado do exame psicológico, limitando-se a observar as questões procedimentais realizadas (fls. 1.871/1.872).
+Da leitura do aresto acima transcrito, verifico que não há qualquer ilegalidade a ser reconhecida no exame psicológico a que foi submetida a parte recorrente, não merecendo reparos o acórdão recorrido.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ante o exposto, nego provimento ao recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
