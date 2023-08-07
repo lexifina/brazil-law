@@ -5,8 +5,9 @@ III - prestar apoio técnico e financeiro aos Municípios e executar supletivame
 IV - coordenar e, em caráter complementar, executar ações e serviços:
 a) de vigilância epidemiológica;
 b) de vigilância sanitária;
-c) de alimentação e nutrição; e
+c) de alimentação e nutrição;
 d) de saúde do trabalhador;
+e) de saúde bucal;
 V - participar, junto com os órgãos afins, do controle dos agravos do meio ambiente que tenham repercussão na saúde humana;
 VI - participar da formulação da política e da execução de ações de saneamento básico;
 VII - participar das ações de controle e avaliação das condições e dos ambientes de trabalho;
