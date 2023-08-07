@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Julio Cesar Martins dos Santos, apontando-se como órgão coator o Tribunal de Justiça do Rio Grande do Sul, que, nos autos do Agravo em Execução Penal n. 5143560-02.2023.8.21.7000, deu provimento ao recurso ministerial para cassar a decisão do Juízo da Vara de Execuções Criminais da comarca de Passo Fundo - que deferira progressão ao regime semiaberto ao sentenciado -, determinando a realização do exame criminológico, a fim de verificar o eventual preenchimento do requisito subjetivo.
+Sustenta-se, no presente writ, em resumo, que a legislação em vigor aboliu a necessidade de exame criminológico para fins de progressão de regime, a partir da edição da Lei 10.792/2003, PERMANECENDO COMO ÚNICO REQUISITO A COMPROVAÇÃO DE BOM COMPORTAMENTO CARCERÁRIO, O QUE JÁ RESTOU EVIDENCIADO NO CASO DOS AUTOS (fl. 8).
+Requer-se , em liminar e no mérito, o restabelecimento da decisão de primeiro grau que deferiu ao paciente a progressão ao regime semiaberto, independente da elaboração da avaliação psicossocial.
+É o relatório.
+O Tribunal a quo deu provimento ao agravo ministerial para determinar o retorno do paciente ao regime fechado para realização de exame criminológico, afirmando que o paciente respondeu a PADs, por fugas do sistema prisional, quando recebeu progressão de regime para o semiaberto. Além disso, durante as fugas envolveu-se em novos ilícitos, um deles já com condenação transitada em julgado, ambos com violência e grave ameaça à pessoa (fl. 23).
+Pois bem, verifica-se que a Corte estadual fundamentou a necessidade do exame criminológico em elementos concretos da execução da pena, notadamente o fato de o ora paciente ter cometido novos crimes quando beneficiado anteriormente com a progressão de regime, não havendo, assim, qualquer ilegalidade a ser sanada por esta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE RECIME. EXAME CRIMINOLÓGICO. SÚMULA N. 439 DO STJ. JUSTIFICATIVA CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A determinação de exame criminológico está em consonância com a Súmula n. 439 do STJ, pois a instância ordinária registrou a prática de duas faltas disciplinares (fuga) para justificar a dúvida sobre o requisito subjetivo da progressão de regime.
+2. O período de reabilitação previsto nos estatutos penitenciários não vincula o Poder Judiciário na análise de benefícios da execução, sob pena de transformar o juiz em mero chancelador de documentos administrativos.
+3. Não existe lei federal que dispõe sobre o período depurador do ato de indisciplina. Por analogia, o julgador poderá valer-se, por exemplo, de normas que regulamentam situação similar, de perda dos efeitos de uma tendência antissocial (arts. 64, I, e 94, ambos do CP) ou do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar, sempre atento às características da falta grave e ao montante de pena a cumprir, para evitar o efeito ad eternum da conduta.
+4. O prazo decorrido desde a última fuga do apenado (um ano e seis meses) era insuficiente para a desconsideração do mau comportamento carcerário.
+5. Agravo regimental não provido.
+(AgRg no HC n. 676.512/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/10/2021, DJe 12/11/2021)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE CONSTRANGIMENTO LEGAL.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Consigna a Súmula n. 439 do Superior Tribunal de Justiça, verbis: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada, para aferir o requisito subjetivo da progressão". Tal prova técnica pode ser determinada pelo magistrado de primeiro grau, ou mesmo pela Corte estadual, diante das circunstâncias do caso concreto e adequada motivação, para formação de seu convencimento.
+3. Na hipótese, o Tribunal de Justiça de origem entendeu que persiste a exigência da avaliação do condenado por equipe multidisciplinar (exame criminológico), diante da vida carcerária conturbada do paciente - prática de novo crime no curso da execução penal.
+4. Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+5. Habeas corpus não conhecido.
+(HC n. 529.244/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2019, DJe 22/11/2019)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publiqu e-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CASSAÇÃO PELO TRIBUNAL A QUO. SUBMISSÃO DO APENADO A EXAME CRIMINOLÓGICO. PRÁTICA DE NOVO CRIME QUANDO BENEFICIADO COM REGIME SEMIABERTO. HISTÓRICO PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL AUSENTE.
+Writ indeferido liminarmente.
