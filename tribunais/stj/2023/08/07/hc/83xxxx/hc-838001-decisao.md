@@ -1,0 +1,12 @@
+DECISÃO
+O presente pedido é mera reiteração do HC n. 803.805/SP também de minha relatoria em que não conheci da alegação de nulidade da busca veicular e invasão a domicílio por também ser reiteração de outro writ prévio, além de haver considerado legal o afastamento da aplicação da minorante vindicada.
+Confira-se, por oportuno, a referida ementa:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA. TRÁFICO DE ENTORPECENTES. BIS IN IDEM. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se conhece da parte já enfrentada em ou tro writ, ainda que em fase processual distinta, porquanto remanescem os estreitos limites de cognição da via mandamental.
+2. Na presente hipótese, no bojo do HC n. 691.444/SP, também de minha relatoria, esta Sexta Turma enfrentou e rejeitou, por unanimidade, as teses de nulidade da busca veicular e invasão de domicílio, o que obsta - ainda que com o propósito distinto de desconstituir o decreto prisional - a rediscussão da tese nesta Corte na estreita via do habeas corpus tão somente pela superveniência de condenação, mormente considerado não ter havido qualquer fato novo a corroborar a tese defendida ou desconstituir o entendimento anteriormente esposado.
+3. "Valorada a quantidade e natureza da droga na primeira etapa da dosimetria, inviável sua utilização na terceira etapa para negar ou mesmo modular o fator de diminuição da pena pelo privilégio do tráfico de drogas, evitando indevido bis in idem" (AgRg no HC n. 445.769/SP, relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 16/10/2018).
+4. Entretanto, no caso em tela, a despeito de o acórdão hostilizado citar a quantidade de drogas em ambas as fases, somente o faz na terceira fase como reforço argumentativo, e remetendo-se expressamente aos argumentos prévios, em especial "o elevado montante em dinheiro, máquina para contar dinheiro, existência de inúmeros bens móveis e imóveis de alto valor, a comprovar que a atividade era rentável, tudo, pois a demonstrar que exercia o tráfico de maneira habitual e angariava valores expressivos com a atividade ilícita, com elevado padrão de vida", circunstâncias essas que, de fato, sugerem uma dedicação às atividades ilícitas e impedem a aplicação da referida minorante.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 803.805/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
