@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de DANIELE DO AMARAL SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da apelação n. 1501072-62.2019.8.26.0363.
+Depreende-se dos autos que a paciente foi condenada como incursa nos arts. 33, §4º, c/c o 40, inciso III, ambos da Lei n. 11.343/06, ao cumprimento da pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, mais o pagamento de 194 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos (fls. 22-30).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa e deu provimento ao recurso ministerial a fim de redimensionar a reprimenda da ré para 5 anos e 10 meses de reclusão, em regime inicial fechado, mais pagamento de 583 dias-multa (fls. 31-57).
+Na hipótese, a impetrante aponta constrangimento ilegal na negativa de aplicação da causa redutora do § 4º do ar. 33 da Lei de Drogas.
+Requer, ao final, a concessão da ordem para que seja restabelecida a sentença de primeira grau que aplicou a redutora do § 4º do artigo 33 da Lei n. 11.343/06.
+O pedido liminar foi indeferido às fls. 69-70.
+Informações prestadas às fls. 77-122.
+O Ministério Público Federal, às fls. 124-126, manifestou-se pela concessão do writ.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, com a fixação do regime prisional menos gravoso e a substituição da pena corporal por penas restritivas de direitos.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No tocante a minorante prevista no art. 33, § 4º, da Lei de Drogas, esta Corte Superior assentou o entendimento de que "a ausência de comprovação de ocupação lícita e o fato de o Agente estar em conhecido ponto de venda de drogas não permitem presumir a dedicação do Paciente à atividade criminosa" (AgRg no HC n. 647.199/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 25/4/2022, grifei).
+Na presente hipótese, verifica-se que a Corte a quo deixou de apresentar elementos concretos acerca da dedicação da paciente à atividade delitiva ou a sua participação em organização criminosa, destacando, tão somente, que a acusada "conhecida dos meios policiais,  .. , em lugar conhecido ponto de venda de drogas lugar acessível à mercantilização espúria somente aos enfronhados no mundo do crime -, o modus vivendi, não demonstrando mínima vinculação com o trabalho lícito" (fl. 51).
+Assim, diante da inexistência de fundamentação idônea capaz de afastar a aplicação do benefício, bem como consideradas a primariedade e os bons antecedentes, entendo que a paciente faz jus à figura do tráfico privilegiado no seu patamar máximo, 2/3 (dois terços).
+Nesse sentido: AgRg no AREsp n. 2.211.075/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 30/3/2023 e AgRg no AREsp n. 2.203.953/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/11/2022.
+Evidenciado, in casu, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda da paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos de reclusão e 500 dias-multa (fl. 50).
+Na segunda fase, a reprimenda permaneceu inalterada.
+Na terceira fase, mantenho o acréscimo de 1/6 pela presença da causa de aumento prevista no art. 40, III, da Lei n. 11.343/06, alcançando a reprimenda 5 anos e 10 meses de reclusão e 583 dias-multa (fl. 51).
+Ademais, ausentes outras causas modificadoras, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa.
+De mais a mais, o regime prisional inicial deve ser o aberto, nos termos determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena e a integral favorabilidade das circunstâncias judiciais.
+Finalmente, cumpre registrar que o Pretório Excelso, nos termos da r. decisão proferida por ocasião do julgamento do HC n. 97.256/RS, ao considerar inconstitucional a vedação legal à substituição da pena privativa de liberdade em restritivas de direitos, contida no art. 33, § 4º, da Lei n. 11.343/06 (cuja execução foi suspensa pelo Senado Federal por meio da Resolução n. 5 de 16/2/2012), permitiu a concessão da benesse aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal, como ocorre no presente caso.
+Ante o exposto, concedo a ordem de de habeas corpus, para aplicar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/06 no seu patamar máximo e estabelecer a sanção em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, bem como fixar o regime prisional aberto, para o início do cumprimento da pena da paciente e determinar a conversão da pena privativa de liberdade por restritivas de direitos, nos moldes do artigo 44 do Código Penal, a ser estabelecida pelo Juízo da Execução.
+P. e I.
