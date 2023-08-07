@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por JOSE GUILHERME MOLESINI contra decisão que determinou a remessa dos autos ao Sodalício de origem, tendo em vista que o recurso especial interposto pelo BANCO DO BRASIL SA versa, dentre outros temas, sobre questão de direito afetada à Corte Especial do STJ como representativa da controvérsia, a ser julgada sob o rito dos recursos repetitivos (Tema 1.169 do STJ).
+Em suas razões, a parte embargante sustenta que há erro material na decisão embargada, na medida em que tratou "a decisão monocrática que determinou a suspensão do feito para aguardar julgamento de tema que versa sobre necessidade de liquidação prévia carece de manifestação por V. Exa., na medida em que, o feito na origem tramita como liquidação e a matéria arguida no RESP do embargado e admitido na origem refere-se à fixação de honorários em liquidação." (fl. 310).
+A parte embargada apresentou impugnação, defendendo a manutenção do acórdão embargado e a aplicação de multa do art. 1.026, § 2º, do CPC/2015 (fls. 345-347).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer erro material no julgado.
+De fato, ao contrário do que defende o embargante, o eg. Tribunal de origem abordou a matéria contida no Tema 1.169 do STJ, a respeito da necessidade de prévia liquidação do julgado, senão vejamos:
+"É necessário destacar que o procedimento conferido à liquidação nestes autos respeitou o quanto previsto em lei.
+Com efeito, o magistrado de primeiro grau determinou a prévia liquidação, na forma do art. 475-E, do Código de Processo Civil de 1973, hoje o art. 509, inc. II, do Código de Processo Civil de 2015." (fl. 214)
+Por sua vez, a parte adversa em seu recurso especial insurgiu-se contra o tema em questão, sustentando violação dos arts. 95, 97 e 98 da Lei n. 8.078/90.
+De todo modo, ainda que a questão controvertida seja a fixação de honorários sucumbenciais na liquidação de sentença, como defende o embargante, é certo que tal matéria é correlata ao Tema 1.169 do STJ, o qual lhe é prejudicial, ou seja, se não era necessária a liquidação, muito menos seria a imposição de sucumbência.
+Portanto, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Por fim, quanto ao pedido formulado pela parte embargada, registra-se que não é o caso de aplicação da multa do artigo 1.026, § 2º, do CPC/2015, tendo em vista que os embargos de declaração, na espécie, foram opostos com o intuito de questionar matéria considerada não apreciada, sem que tenha havido demonstração de dolo, ou seja, da intenção de obstrução do trâmite regular do processo.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
