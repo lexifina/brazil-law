@@ -1,0 +1,41 @@
+DECISÃO
+UNIMED CATANDUVA COOPERATIVA DE TRABALHO MÉDICO (UNIMED) interpôs recurso ordinário em mandado de segurança impetrado contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador THEODURETO CAMARGO, a seguir ementado (e-STJ, fls. 174/181):
+EMENTA: MANDADO DE SEGURANÇA - V. ACÓRDÃO DA TURMA RECURSAL CÍVEL E CRIMINAL DO COLÉGIO RECURSAL DE JABOTICABAL QUE RECONHECEU A COMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL PARA JULGAMENTO DE AÇÃO DE INEXISTÊNCIA DE DÉBITO AJUIZADA EM FACE DA UNIMED CATANDUVA - COBRANÇA BASEADA EM INSTRUMENTO DE CONFISSÃO E ASSUNÇÃO DE DÍVIDA FIRMADO ENTRE A OPERADORA DE PLANO DE SAÚDE E A ESTIPULANTE - ALEGAÇÃO DA IMPETRANTE DE INCOMPETÊNCIA DO JUIZADO POR NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL E EM VIRTUDE DO INSTRUMENTO EM DISCUSSÃO ULTRAPASSAR 40 SALÁRIOS MÍNIMOS - DISCUSSÃO QUE SE LIMITA À NULIDADE DO INSTRUMENTO DE CONFISSÃO, NÃO ENVOLVENDO A VALIDADE DOS REAJUSTES OU NECESSIDADE DE REVISÃO DE CLÁUSULAS - SUFICIÊNCIA DA PROVA DOCUMENTAL PRODUZIDA - INDEMONSTRADA NECESSIDADE DE MEIO DE PROVA NÃO ADMITIDO PELA SISTEMÁTICA DA LEI Nº 9.099/95 - PRETENSÃO INICIAL QUE CINGIU AO AFASTAMENTO DO DÉBITO DO AUTOR, DE R$ 5.849,28, NÃO À NULIDADE DE TODO INSTRUMENTO, CUJO VALOR SUPERA OS 2 MILHÕES DE REAIS - OBSERVÂNCIA DO ART. 3º, INC. I DA LEI Nº 9.099/95 - PRECEDENTE DESTE E. TJSP - COMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL RECONHECIDA - ORDEM DENEGADA.
+UNIMED sustentou, em suma, cabimento do mandado de segurança para assegurar a competência da ação à Justiça Comum, tendo em vista que a complexidade da demanda, cujo valor da causa ultrapassa a alçada dos Juizados Especiais Cíveis (e-STJ, fls. 183/192).
+Foram apresentadas contrarrazões (e-STJ, fls. 197/204).
+Foi indeferida a liminar (e-STJ, fls. 230/231).
+Ouvido o Ministério Público Federal, em parecer da lavra do Subprocurador Geral da República, Dr. SADY D"ASSUMPÇÃO TORRES FILHO, manifestou-se pelo não provimento do recurso (e-STJ, fls. 256/259).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Observa-se do aresto recorrido que não há nenhuma situação excepcional a justificar o cabimento do mandado de segurança, pois a decisão judicial proferida não é absurda ou teratológica, bem como era passível de recurso cabível.
+UNIMED aduziu que o writ deve ser acolhido para o reconhecimento da incompetência do Juizado Especial, ante a necessidade de realização de perícia atuarial na originária ação anulatória e em razão do proveito econômico da pendenga ultrapassar o teto de 40 (quarenta salários mínimos).
+A segurança foi denegada pelo TJSP, nos seguintes termos (e-STJ, fls. 178/181):
+"Quanto ao mérito, a discussão cinge-se à questão da competência do Juizado Especial Cível para processar e julgar ação movida por beneficiário contra plano de saúde e, nesse aspecto, não se vislumbra a alegada incompetência.
+"Com efeito, o exame da validade ou invalidade do termo de confissão de dívida é incabível nesta sede, porque se confunde com o mérito e, conforme entendimento jurisprudencial sedimentado, prevalece quanto ao mérito a autonomia dos juizados.
+"A par disso, nota-se que, ao contrário do que sustenta a impetrante, não se discutiu na ação a validade ou invalidade dos reajustes aplicados, tampouco se pretendia a revisão de cláusulas contratuais. A discussão se limitou à nulidade de instrumento particular firmado entre a impetrante e terceira pessoa, gerador de débitos ao beneficiário cooperado, autor na demanda.
+"Por isso, de fato, tratando-se de questão meramente de direito, não se vislumbra a necessidade de produção de prova pericial, bastando a análise dos documentos encartados no curso do processo.
+"Não se deve olvidar que, "sendo o juiz o destinatário da prova, cabe a ele decidir acerca de sua pertinência.
+(..)."Do mesmo modo, o valor da causa (R$ 5.849,28) não supera a alçada do juizado, eis que houve afastamento apenas dos débitos que diziam respeito ao autor e não a nulidade de todo o instrumento, cujo valor atribuído supera os 2 milhões de reais.
+(..) "Desse modo, não verificada a necessidade de meio de prova não admitido pela sistemática da Lei nº 9.099/95, tampouco a causa supere os 40 salários mínimos, nos termos do art. 3º, inc. I do mencionado diploma, não subsistem as razões suscitadas pela impetrante para declaração de incompetência do Juizado Especial Cível de Taquaritinga/SP e a nulidade do v. acórdão proferido pela Turma Recursal Cível de Jaboticabal."
+Como se vê, a Corte bandeirante entendeu não haver elementos para o deslocamento da competência para a Justiça Comum, razão pela qual denegou a segurança.
+E não se evidenciou nenhuma teratologia na decisão impetrada, tampouco demonstração de violação a direito líquido e certo.
+Assim, tendo a impetração se dirigido contra decisão judicial passível de recurso próprio, mostra-se inapropriada a utilização da via mandamental, conforme Súmula nº 267 do STF, que dispõe: Não cabe mandado de segurança contra decisão judicial passível de recurso ou correição.
+E, diante da via estreita do mandado de segurança, no qual se exige prova pré-constituída do direito líquido e certo que se alega violado, inadequada a via eleita por UNIMED para rediscutir o mérito da questão que, repise-se, era suscetível de recurso próprio.
+A propósito, a jurisprudência desta Corte Superior orienta que o mandado de segurança não serve como sucedâneo de recurso cabível e somente pode ser impetrado para combater decisão judicial absurda ou teratológica e se, contra ela não existir recurso próprio cabível, o que não ocorreu na hipótese.
+Nesse sentido:
+AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TEMPESTIVIDADE. RECONSIDERAÇÃO. PEDIDO DEFERIDO. RECURSO ORDINÁRIO CONHECIDO. ATO JUDICIAL PASSÍVEL DE RECURSO PRÓPRIO OU CORREIÇÃO. INDEFERIMENTO DA PETIÇÃO INICIAL MANTIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. É incabível o mandado de segurança quando impetrado contra decisão judicial sujeita a recurso específico ou correição parcial, mormente porque tal remédio constitucional não representa panaceia para toda e qualquer situação, nem é sucedâneo recursal.
+2. Decisão reconsiderada, em juízo de retratação. Recurso ordinário conhecido e não provido.
+(AgInt no AgInt no RMS 59.302/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 1/6/2020, DJe 4/6/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO COATOR. DECISÃO DE INADMISSIBILIDADE DE RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO. INDEFERIMENTO DA INICIAL DO MANDADO DE SEGURANÇA. ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. INOCORRÊNCIA. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+ .. .
+2. A viabilidade do mandado de segurança impetrado contra ato judicial depende da demonstração, de plano, da existência de teratologia ou de flagrante ilegalidade na decisão impugnada ou, ainda, da ocorrência de abuso de poder pelo órgão prolator da decisão.
+3. Não verificadas quaisquer dessas situações, impõe-se o indeferimento da petição inicial do mandado de segurança, à luz do art. 10 da Lei 12.016/2009. Precedentes.
+4. Agravo interno nos embargos de declaração no recurso ordinário em mandado de segurança não provido.
+(AgInt nos EDcl no RMS 63.188/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 24/8/2020, DJe 27/8/2020)
+Com igual entendimento, confiram-se: AgInt nos EDcl no REsp 1.549.207/PR, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 30/9/2020; EDcl no RMS 61.317/MG, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, j.17/11/2020, DJe 26/11/2020; AgRg no MS nº 21.730/DF, Rel. Ministro BENEDITO GONÇALVES, Corte Especial, j. 3/6/2015, DJe 12/6/2015; AgRg no RMS nº 44.688/DF, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 24/4/2014, DJe 13/5/2014; AgRg no AgRg no RMS nº 33.541/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 5/5/2015, DJe 12/5/2015.
+Nessas condições, NEGO PROVIMENTO ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. DENEGAÇÃO DO WRIT. AUSÊNCIA DE TERATOLOGIA OU IRREGULARIDADE. VIOLAÇÃO DO DIREITO LÍQUIDO E CERTO INVOCADO NÃO DEMONSTRADA. POSSIBILIDADE DE INTERPOSIÇÃO DE RECURSO. SÚMULA 267, STF. RECURSO NÃO PROVIDO.
