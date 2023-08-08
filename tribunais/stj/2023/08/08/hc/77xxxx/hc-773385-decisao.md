@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ANTÔNIO VALDAIR FIDELIS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que deu provimento ao agravo em execução ministerial, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. INSURGÊNCIA MINISTERIAL. REQUISITO SUBJETIVO NÃO SATISFEITO.
+Muito embora o artigo 112 da Lei de Execução Penal, com redação dada pela Lei nº 13.964/2019, exija que o apenado ostente boa conduta carcerária, comprovada pelo diretor do estabelecimento prisional, para a concessão dos pedidos de progressão de regime, o referido dispositivo, entretanto, vem complementado pela redação do artigo 33, § 2º, do Código Penal, e artigos 5º, 6º, 8º e 9º, todos da Lei de Execução Penal, em que previstos requisitos outros à verificação do mérito subjetivo do apenado para a concessão do benefício da Progressão e do Livramento Condicional.
+O histórico carcerário do apenado, assim como as faltas graves por ele perpetradas ensejam dúvidas acerca da pertinência da progressão que lhe foi concedida, até porque não avaliada, de forma efetiva, a pertinência do novo benefício. Da mesma forma, a gravidade concreta dos delitos pelo qual restou o apenado condenando também é digna de nota a evidenciar necessária cautela na aferição do requisito subjetivo, observando-se, igualmente, o saldo de pena a cumprir, circunstâncias a indicar que o recorrido ainda não demonstra possibilidade de readaptação ao convívio social, cumprindo pena recolhido em regime prisional mais brando, estando devidamente justificada a prorrogação do período de observação.
+AGRAVO PROVIDO." (e-STJ, fl. 21).
+Neste writ, os impetrantes afirmam que deveria ter se operado a preclusão consumativa e temporal para o Ministério Público, eis que interpôs recurso equivocado dentro do prazo recursal. Todavia, o agravo foi processado e o Tribunal Local deu provimento ao recurso para cassar a decisão que progrediu o paciente de regime.
+Aduzem que a fundamentação adotada pelo acórdão estadual foi inidônea, eis que se refere ao histórico carcerário de faltas graves e antigas, à gravidade dos crimes pelos quais foi condenado e ao saldo de pena a cumprir.
+Requerem, inclusive liminarmente, o restabelecimento do regime semiaberto concedido ao paciente, considerando os exames criminológicos favoráveis e o preenchimento dos demais requisitos legais, bem como a intempestividade do recurso de agravo em execução, interposto pelo Ministério Público Estadual.
+A liminar foi indeferida (e-STJ, fl. 84).
+Prestadas as informações (e-STJ, fls. 87-90), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (e-STJ, fls. 94-97).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir e a consequente perda do objeto deste habeas corpus, pois, de acordo com informações retiradas na página eletrônica do SEEU, foi concedida ao paciente a progressão ao regime semiaberto em 29/6/2023, de modo que não mais subsiste o constrangimento ilegal apontado.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
