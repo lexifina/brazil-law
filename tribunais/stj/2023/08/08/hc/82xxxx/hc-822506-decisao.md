@@ -1,0 +1,20 @@
+DECISÃO
+DEIVID SALLES SCHIAVO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal a quo.
+A defesa postula, em liminar, a soltura do paciente - preso preventivamente, desde 11/8/2018, pela suposta prática do delito de tráfico de drogas -, ao argumento de que há excesso de prazo na sua prisão, notadamente porque esta Corte Superior, ao proferir decisão no HC n. 682.028/SP, anulou o interrogatório e determinou a realização de novo ato.
+Deferida a liminar e prestadas as informações, os autos foram encaminhados ao Ministério Público Federal, que opinou pela prejudicialidade do mandamus.
+Decido.
+Depreende-se dos autos que o paciente, preso em 11/8/2018, foi condenado em sentença datada de 29/7/2021, a 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do crime descrito no art. 35, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+Em acórdão datado de 25/8/2022, o Tribunal de Justiça do Estado de São Paulo, após decisão desta Corte Superior no HC n. 682.028/SP, impetrado por corréu, anulou a sentença e determinou a realização de novo interrogatório.
+Os autos retornaram à primeira instância, novo ato foi realizado e, apresentados memoriais, os autos aguardam prolação de sentença.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+A jurisprudência desta Corte é firme em assinalar que "eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional" (AgRg no RHC n. 155.141/CE, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 12/11/2021).
+A "demora na conclusão da instrução criminal, como circunstância apta a
+ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outra situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal" (STF, HC n. 216752 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 8/9/2022).
+No caso, é possível verificar que o paciente está cautelarmente privado de sua liberdade nestes autos desde 11/8/2018 - há mais de 4 anos e 9 meses, portanto.
+A despeito de o feito haver encerrado a instrução criminal, não há notícia de prolação de sentença ou, menos ainda, do trânsito em julgado do feito.
+Embora eu não desconheça que a conduta em tese perpetrada pelo acusado seja revestida de alta periculosidade e em que pese as evidências indicarem que o Juízo singular adotou todas as providências que lhe cabiam para assegurar o regular andamento do feito, há circunstâncias que demonstram ser desproporcional a manutenção da prisão cautelar, sobretudo porque o paciente já cumpriu mais de 2/3 da pena anteriormente imposta em prisão preventiva.
+À vista do exposto, concedo o habeas corpus para, confirmada a liminar, relaxar e substituir a prisão preventiva do paciente por cautelares diversas, a saber:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades (art. 319, I, do CPP);
+b) proibição de ausentar-se da comarca sem autorização judicial (art. 319, IV, do CPP).
+Não há prejuízo de fixação de outras medidas que o Magistrado entender pertinentes ao caso concreto, ou de restabelecimento da prisão preventiva (ou decretação de internação provisória), se fatos novos denotarem a imprescindibilidade de providências mais gravosas ao caso concreto.
+Publique-se e intimem-se.
