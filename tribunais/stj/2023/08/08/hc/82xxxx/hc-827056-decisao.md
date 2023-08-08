@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, formulado de próprio punho pelo paciente EDER MENEZES MARINHO.
+Busca o impetrante a retificação de cálculo de penas para fins de progressão de regime.
+A narrativa (de próprio punho) não faz qualquer referência a acórdão apreciado perante o Tribunal de Justiça do Estado de São Paulo.
+Requer a retificação de cálculo de penas para fins de progressão de regime, com percentual de 25%.
+As instâncias de origem prestaram informações (e-STJ fls. 114/125).
+O Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 3ª RAJ - da Comarca de Bauru/SP esclareceu que o paciente foi condenado à pena de 10 anos, 04 meses e 13 dias de reclusão, em regime fechado, por infração ao art. 157, §2º, II e §2º-A, I, do Código Penal, delito cometido em 31/7/2020, com previsão de término em 3/10/2030.
+Informou que o primeiro cálculo de pena elaborado na Execução Penal n. 0000626-19.2021.8.26.0152 atribuiu o percentual de 25% como fração de cumprimento de pena necessária à progressão de regime.
+No entanto, após consulta da unidade prisional sobre a porcentagem para progressão em relação ao crime hediondo, o Ministério Público pugnou pela retificação do cálculo e a Defensoria Pública não se opôs ao pedido, sendo proferido despacho para elaboração do cálculo observando-se a fração de 2/5 aplicável aos crimes hediondo.
+Por sua vez, o Tribunal de Justiça de São Paulo esclareceu que o paciente, "em seu próprio benefício, impetrou o Habeas Corpus n. 0030733-17.2021.8.26.0000, neste Tribunal, objetivando que fosse aplicado o percentual de 25% do cumprimento da sua reprimenda para fins de progressão ao regime semiaberto, nos termos da Lei n. 13.964/2019, sob a alegação de que seria réu primário quanto à condenação por delito de natureza comum nos autos da Ação Penal n. 1500745-94.2020.8.26.0618, da Segunda Vara Criminal da Comarca de Taubaté" (e-STJ fl. 119) .
+Aos 12 de agosto de 2021, o Relator não conheceu da impetração, tendo a decisão transitado em julgado.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJe 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Do cálculo da pena para progressão de regime
+Busca o paciente o reconhecimento de seu direito a que seja retificado o cálculo de pena, fazendo constar o percentual de 25% para fins de progressão de regime prisional, nos termos art. 112, inciso III, da Lei de Execução Penal, com a redação da Lei n. 13.769/2018, sob a alegação de se tratar de primário em crime cometido com violência ou grave ameaça.
+Na hipótese em exame, conforme informações do Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 3ª RAJ (e-STJ fl. 114), foi aplicado o percentual de 40% ao paciente, por se tratar de primário condenado pela prática de crime hediondo (art. 157, §2º, II, e §2º-A, I, do Código Penal, praticado em 31/7/2020, ou seja, após a entrada em vigor da Lei n. 13.964/2019).
+No mesmo sentido, o Tribunal de origem não conheceu do Habeas Corpus n. 0030733-17.2021.8.26.0000, em 12/8/2021 (e-STJ fl. 119).
+Assim, verifica-se que as instâncias de origem estabeleceram, para fins de progressão de regime, o percentual de 40%, nos termos do previsto no art. 112, V, da Lei n. 7.210/1984, com redação dada pela Lei n. 13.964/2019, uma vez que, apesar de a condenação do paciente ser em crime com violência ou grave ameaça, cuida-se de crime hediondo, incluído no rol da Lei n. 8.072/1990 pela Lei n. 13.964/2019, in verbis:
+Art. 1o São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados:
+II - roubo: (Redação dada pela Lei nº 13.964, de 2019)
+a) circunstanciado pela restrição de liberdade da vítima (art. 157, § 2º, inciso V); (Incluído pela Lei nº 13.964, de 2019)
+b) circunstanciado pelo emprego de arma de fogo (art. 157, § 2º-A, inciso I) ou pelo emprego de arma de fogo de uso proibido ou restrito (art. 157, § 2º-B); (Incluído pela Lei nº 13.964, de 2019)
+c) qualificado pelo resultado lesão corporal grave ou morte (art. 157, § 3º); (Incluído pela Lei nº 13.964, de 2019)
+No caso concreto, de acordo com o cálculo de pena (e-STJ fls. 116/117), verifica-se que o paciente foi condenado na Ação Penal n. 1500745-94.2020.8.26.0618, nas penas do art. 157, §2º, II, e §2º-A, I, do Código Penal, fato praticado em 31/7/2020, posterior à vigência da Lei n. 13.964/2019. Portanto, delito de natureza hedionda.
+Diante desse quadro, o paciente não faz jus à aplicação do percentual equivalente ao que é previsto para o primário em crime com violência ou grave ameaça - 25%, mas sim de 40%, por ser primário na prática de crime hediondo.
+Não existe, portanto, constrangimento ilegal a ser sanado.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ (na redação da Emenda n. 24/2016), não conheço do presente habeas corpus.
+Intimem-se.
