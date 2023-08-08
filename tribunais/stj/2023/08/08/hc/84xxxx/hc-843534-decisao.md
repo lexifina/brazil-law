@@ -1,0 +1,14 @@
+DECISÃO
+STHEFANE APARECIDA FERREIRA DE ALMEIDA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0005433-62.2015.8.26.0356.
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que o regime prisional fechado foi estabelecido com base apenas na gravidade abstrata do delito.
+Decido.
+O Tribunal de origem, ao fixar o regime inicial fechado, assim fundamentou sua decisão (fls. 30-31):
+O regime inicial fechado é o único adequado em face do Princípio da Suficiência Penal, mormente porque se trata de delito equiparado a hediondo (Súmula 512 do STJ), que enseja maior repressão e reprovação, por ser verdadeiro flagelo da sociedade hodiernamente.
+Anote-se que o regime aberto é incompatível com a infração de tráfico de drogas, que se tornou uma das grandes pragas modernas a atormentar a sociedade, mormente no Brasil, antes país de passagem da droga para o exterior, sendo hoje um dos países com grande número de traficantes, passando a droga a ser utilizada aqui, sendo exemplo disso que 70% dos processos em julgamento nas sessões ordinárias dessa E. Câmara, sempre em número superior a 500 feitos, são referentes a tráfico de drogas.
+Assim, transformando-se o tráfico num dos verdadeiros cancros da atualidade, envolvendo jovens e desagregando famílias, deve ele ser combatido com rigor, rigor este que só se encontra presente na imposição do regime fechado para o traficante.
+Ademais, não pode o julgador ter seu olhar voltado para as estrelas, mas deve ser homem do seu tempo, que não ignora que a leniência com o tráfico destrói famílias, jogando usuários e viciados na sarjeta, bem como incrementa roubos, latrocínios, furtos e homicídios.
+Conforme visto, a Corte estadual considerou que seria devida a imposição do regime inicial fechado à ré com base, apenas, na gravidade abstrata do delito, nos malefícios gerados pelo tráfico de drogas à sociedade como um todo e no disposto no art. 2º, § 1º, da Lei n. 8.072/1990 - cuja inconstitucionalidade já foi declarada pelo Plenário do Supremo Tribunal Federal (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012) -, sem, portanto, apontar elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de fixação do modo mais gravoso.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de fixar à paciente o regime inicial semiaberto de cumprimento de pena, nos autos da condenação objeto do Processo n. 0005433-62.2015.8.26.0356.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providência s cabíveis.
+Publique-se e intimem-se.
