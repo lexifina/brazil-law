@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso em habeas corpus, com pedido liminar, interposto pela Defensoria Pública em favor de ACÁSSIO TORRES RODRIGUES DA SILVA contra acórdão do Tribunal de Justiça do Estado da Bahia (HC n. 8008133-74.2023.8.05.0000).
+Consta dos autos que o recorrente foi preso preventivamente em 19/2/2021, pela suposta prática do crime previsto no artigo 121, §2º, inciso IV c/c artigo 14, inciso II, ambos do Código Penal e artigo 1º, inciso I, da Lei n. 8.072/1990.
+No writ originário, a defesa afirmou que o paciente está sofrendo constrangimento ilegal em razão do excesso de prazo. O Tribunal de origem denegou a ordem (e-STJ fls. 116/134).
+Na presente oportunidade, a defesa sustenta que o recorrente está sofrendo constrangimento ilegal pelo excesso de prazo na tramitação do feito.
+Alega que até a presente data, a Sessão do Tribunal do Júri ainda não foi realizada em razão de reforma ocorrida no Fórum, encontrando-se o recorrente preso preventivamente há mais de 02 anos e 03 meses.
+Destarte, pede, em liminar e no mérito, a revogação da prisão preventiva, ou a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+A liminar foi indeferida (e-STJ fls. 198/199). As informações foram prestadas (e-STJ fls. 205/211) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não provimento do recurso (e-STJ fls. 221/226).
+É o relatório. Decido.
+Busca-se no presente recurso, a revogação da prisão preventiva do recorrente.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação". No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser assegurados às partes no curso do processo.
+Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Nesse sentido:
+ .. . O excesso de prazo desproporcional, desmotivado e irrazoável para a conclusão do feito, mormente em se tratando de réu preso, não pode, em qualquer hipótese, ser tolerado. (HC n. 134.312/CE, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 22/6/2010, DJe 2/8/2010).
+O Tribunal impetrado ao denegar a ordem, assim entendeu (e-STJ fl. 129):
+ ..
+Dessa forma, a aferição do excesso de prazo requer uma análise criteriosa do caso concreto e suas especificidades, o que não se exaure no mero exame cronológico do decurso do tempo.
+Do exame das informações do juízo coator, não se vislumbra qualquer retardo ao trâmite do feito imputável ao aparato estatal, porquanto a denúncia foi recebida em 14/04/ 2021, o réu foi citado em 19/04/2021 e pronunciado em 01/10/2021.
+Vale consignar que o Superior Tribunal de Justiça assentou na Súmula nº 21 que "pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução." Contra a decisão de pronúncia, foi manejado Recurso em Sentido Estrito, julgado na sessão do dia 15/09/2022, negando-lhe provimento. A seguir, a defesa interpôs Recurso Especial, inadmitido por decisão (04/11/2022), cujo trânsito foi certificado em 03/02/2023 e os autos recebidos na primeira instância no mesmo dia.
+Em 24/02/2023, o advogado constituído renunciou ao mandato, sendo imediatamente substituído pela Defensoria (27/02/2023).
+Ademais, a autoridade coatora informou que estão sendo tomadas todas as providências necessárias para realização da sessão do Júri, cujo rol de testemunhas que irão depor em plenário já foi solicitado. Na oportunidade, destacou que a realização da sessão do júri aguarda a conclusão da reforma fórum, com fim previsto para 17 de maio do corrente ano, e, logo após a conclusão, serão adotadas as medidas necessárias para inclusão do feito em pauta da sessão do júri com urgência.
+Em contraponto às alegações de morosidade processual, denota-se que o juízo coator tem imprimido celeridade ao andamento processual em conformidade com o princípio da razoável duração do processo.
+O Juízo de primeiro grau, assim esclareceu ao prestar as informações (e-STJ fl. 209):
+ ..
+Inicialmente, com o término da reforma do fórum, foi designada a sessão de julgamento do Réu / Paciente ACASSIO TORRES RODRIGUES DA SILVA para o dia 22/08/2023, às 08h30min, no Salão do Júri do Fórum desta Comarca.
+Por outro lado, foi designado para o dia 13/07/2023, às 08h30min, na sala de audiências, para se dar lugar ao sorteio dos jurados que atuarão na reunião periódica.
+Como visto, a ação se desenvolve de forma regular, sem desídia ou inércia do Magistrado singular, inclusive com data agendada para a Sessão do Tribunal do Júri, para 22/8/2023, às 8:30hs.
+Enfim, considerados os dados do processo, sendo que a Sessão do Júri já se encontra agendada para data próxima, não vislumbro ofensa aos princípios constitucionais da proporcionalidade e da razoável duração do processo (art. 5º, LXXVIII, da Constituição Federal), o que afasta o acolhimento da tese defensiva de excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SÚMULA N. 21/STJ. AUSÊNCIA DE DESÍDIA ESTATAL. IMPACTOS DA PANDEMIA. SESSÃO DO JÚRI MARCADA.
+1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso em exame, o agente está preso desde 16/7/2018, foi pronunciado em 6/2/2019, julgado recurso em sentido estrito em 17/9/2019, tendo sido os autos devolvidos ao primeiro grau em 27/2/2020 após inadmissão de recurso especial, estando marcada sessão do Tribunal do Júri para 29/8/2022.
+3. Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, já tendo sido prolatada sentença de pronúncia, com interposição de recurso em sentido estrito e recurso especial, quadro processual que tornaria "superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução" (Súmula n. 21, Terceira Seção, DJ 11/12/1990).
+4. Ademais, já agendada sessão do Tribunal do Júri, está demonstrado que a marcha processual caminha adequadamente, mormente considerada a gravidade do delito de homicídio qualificado por motivo torpe e mediante emboscada em razão de mero ciúme.
+5. Na mesma linha a manifestação da Procuradoria-Geral da República, para quem "a interposição dos recursos em sentido estrito e especial contribuíram para a demora no julgamento da ação penal, não sendo irrelevantes, ademais, as dificuldades oriundas da crise sanitária deflagrada pela Covid-19.  ..  Por fim, cumpre ressaltar que, devidamente fundamentada a prisão preventiva, a medida não se revela desproporcional diante das penas cominadas ao crime atribuído ao paciente (art. 121, § 2º, I e IV, do CP)".
+6. Ordem denegada, acolhido o parecer ministerial. (HC 703374 / RJ, Relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, Julgado em 8/3/2022, Dje 14/3/2022).
+Assim, ausente o injustificado excesso de prazo da custódia, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Ante o exposto, conheço do Recurso, contudo nego provimento ao Recurso em habeas corpus.
+Intimem-se.
