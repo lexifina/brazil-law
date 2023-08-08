@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAÚDE S/A contra decisão que inadmitiu recurso especial por não ter sido demonstrada a alegada vulneração aos arts. 1º e 4º, VII, XI, XXIII, da Lei n. 9961/2000.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 244):
+Apelação. Obrigação de fazer. Plano de saúde. Art.30 da Lei 9.656/98. Demissão sem justa causa. Manutenção por seis meses. Autor em tratamento de câncer. Manutenção no plano na modalidade individual. Sentença de procedência. Inconformismo da ré. Ilegitimidade passiva rejeitada. Mérito. Precedentes desta Câmara. Situação excepcional. Interpretação do art. 13, parágrafo único, III, da Lei nº 9.656/98. Manutenção em plano individual enquanto perdurar tratamento, mediante pagamento integral. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 1º e 4º, VII, XI, XXIII, da Lei n. 9.961/2000. Alega que o acórdão recorrido o condenou a oferecer apólice individual nas mesmas condições de apólice coletiva cancelada, aplicando de modo e quivocado as disposições da Resolução CONSU n. 19 e usurpando a competência da ANS.
+Aduz que a sobredita resolução exclui a obrigação de transferência dos beneficiários de operadoras que não mais comercializam a modalidade individual da apólice.
+Defende a possibilidade de portabilidade de carência em caso de cancelamento de plano coletivo.
+Requer o provimento do recurso para a reforma do acórdão recorrido, julgando improcedentes os pedidos iniciais formulados.
+Passo, pois, à análise das proposições deduzidas.
+O recurso não merece prosperar.
+Na espécie, a Corte estadual manteve a sentença concluindo ser devida a manutenção do beneficiário do plano de saúde nas mesmas condições de cobertura, desde que assuma o pagamento integral, de acordo com o art. 30 da Lei n. 9.656/98, em razão de ter sido acometido de grave enfermidade a qual necessita da continuidade de tratamento e, também, pela dificuldade de contratação de novos planos nestas circunstâncias, inviabilizando o tratamento imediato.
+De início, cumpre asseverar que as teses referentes à usurpação de competência da ANS, da não comercialização de apólice na modalidade individual, bem como da portabilidade de carências, com a alegação de violação dos arts. 1º e 4º, VII, XI, XXIII, da Lei n. 9.961/2000, não foram objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se, nessa hipótese, que para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+Ademais, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Além disso, quanto ao apontado dissídio, ressalto ainda que a incidência das Súmulas n. 282 do STF e 211 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.949.666/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023; e AgInt no AREsp n. 2.101.047/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
