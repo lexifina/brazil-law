@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MOTOBRAS VEÍCULOS LTDA contra decisão que não admitiu o recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/5/2022.
+Concluso ao gabinete em: 24/8/2022.
+Ação: declaratório cumulada com indenização por danos morais e materiais ajuizada pela ora agravante em face de Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+Sentença: julgou improcedente o pedido feito na inicial e acolheu a reconvenção, para condenar a autora ao pagamento de indenização no percentual de 5% sobre o valor total das mercadorias adquiridas.
+Acórdão: negou provimento à apelação interposta pela empresa agravante, conforme ementa a seguir (fl. 1.913):
+Bem móvel. Contrato de concessão comercial. Ação declaratória cumulada com pedido de indenização por danos materiais e morais julgada improcedente e reconvenção procedente.
+Cerceamento de defesa. Inocorrência.
+Rescisão comercial. Justa causa. Ocorrência. Aquisição de quotas mínimas não cumprida pela concessionária.
+Previsão legal (art. 7º, da Lei 6.729/79) e da Convenção da Marca. Laudo pericial que corroborou nesse sentido. Desempenho comercial não satisfatório.
+Advertências enviadas à concessionária constando expressamente que eram "para efeito de aplicação das penalidades gradativas" em cumprimento ao disposto no art. 22, §1º, da Lei 6.729/79. Culpa da concessionária evidenciada. Sentença mantida.
+Recurso não provido
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 355, I; 369; 370; 373, I; 442; 489, II, §1º, IV; 505; 507 e 1.022, I e II, parágrafo único, II, todos do CPC; 7º, §§1º e 2º; 10; 17; 19, VIII; 20; 22, III, §1º; 24 e 26, todos da Lei nº 6.729/1979; 186 e 927, ambos do CC. Além de negativa de prestação jurisdicional, sustenta, em síntese: i) a ocorrência de cerceamento de defesa e ii) a ilicitude da rescisão contratual promovida pela agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca de licitude da rescisão contratual, que ocorreu em razão do não cumprimento do contrato pela agravante ao não adquirir as contas mínimas, independente de seu estoque, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC/2015, quando o Tribunal de origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 355, I; 505 e 507, todos do CPC; 186 e 927, ambos do CC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+O Tribunal de origem, ao afastar a ocorrência de cerceamento de defesa e reconhecer a licitude da rescisão contratual operada pela agravada, assim assentou (fls. 1.915- 1.921, grifo nosso):
+Inicialmente, afasta-se a alegação de cerceamento de defesa, sob alegação de necessidade de produção de prova pericial. De fato, no Acórdão que anulou a sentença anterior prolatada no feito, admitiu-se a ocorrência do cerceamento de defesa, contudo, constou do dispositivo: "Diante do exposto dá-se provimento ao recurso, para anular a sentença, a fim de que o feito prossiga na forma de direito, admitindo-se a produção das provas requeridas, vislumbrada sua necessidade e utilidade para a solução do litígio" (fls. 666).
+Assim, cabia ao juiz, como destinatário da prova a verificação da pertinência da prova oral, a qual não foi vislumbrada no caso concreto.
+ .. .
+Com relação às quotas, verifica-se que há previsão legal e na Convenção da Marca da concessionária adquiri-las, independente do estoque (art. 7º, §1º 1 , da Lei 6.729/79), situação que não comporta a afirmativa da apelante de que estaria dispensada em razão de já ter veículos suficientes em estoque e cujo descumprimento, além de outros fatores, ocasionou o desempenho comercial insatisfatório.
+O bem elaborado laudo pericial de fls. 733/1308, complementado a fls. 1.626/1.651, asseverou, no tocante à essa questão, que: "A Concessionária Requerente é uma empresa antiga, atua neste ramo desde 1970, não houve ampliação recente em sua estrutura bem como apresenta solidez em suas finanças (pelo menos no período analisado), portanto não houve alteração nos indicadores individuais que justificassem as flutuações nas cotas atribuídas" (fls. 1.632).
+A corroborar é a tabela apresentada pela perita a fls. 768/769 que, além dos dados acerca do desempenho da apelante, apresenta a quantidade de veículos que deveriam ter sido adquiridos e quantos realmente foram.
+ .. .
+Lado outro, não se pode olvidar que em face dos baixos resultados apresentados pela apelante, a apelada a incluiu em um programa intitulado "Bottom 35" (fls. 368/370 e fls. 384/386), e encaminhou-lhe três advertências constando expressamente que eram "para efeito de aplicação das penalidades gradativas" (fls. 68/73; fls. 74/79 e fls. 80/89), desse modo não vinga a tese de que a apelada não cumpriu com o disposto no art. 22, §1º, da Lei 6.729/79.
+A expert, afirmou positivamente, quantos aos quesitos formulados pela apelada:
+"11) Informe a Perita se, em 22.4.2014, a Ré encaminhou a primeira advertência à Autora, com efeito de penalidade gradativa, consignando que o plano de ação elaborado para o ano de 2013 não foi cumprido pela Autora, onde descreve todos os indicadores de desempenho insatisfatórios da Autora (fls. 68/73)" (fls. 770).
+"12) Informe a Perita se em 18.9.2014, decorridos cinco meses sem melhorias significativas por parte da Autora, a Ré encaminhou a segunda advertência à Autora, demonstrando que o desempenho comercial da Autora no primeiro semestre de 2014 continuava insatisfatório (fls. 74/79)" (fls. 771) "13) Informe a Perita se em 11.5.2015, novamente sem melhorias significativas por parte da Autora, a Ré encaminhou a terceira advertência à Autora, demonstrando que o desempenho comercial da Autora para todo o ano de 2014 continuou insatisfatório (fls. 80/89)" (fls. citada).
+Nesse aspecto, a sentença andou bem ao ponderar que "a autora faz menção, em sua inicial, que um fato específico, ocorrido em 2014, impactou fortemente nas vendas de veículos, prejudicando assim a comercialização de veículos, o que por conseguinte afeta a aquisição de veículos. É certo que todo o contexto deve ser analisado, porém, há previsão legal (art. 10 §2º da Lei 6.729/79), bem como há uma cláusula na Primeira Convenção das Categorias Econômicas (Capítulo IX, art. 3º, às fls. 329) que dispõe sobre a redução de estoque de veículos caso haja alteração no cenário econômico. Ora, percebe-se há a possibilidade de revisão da quota mínima de aquisição, o que não se tem nos autos é notícia de que a autora tentou rever tal condição, ou mesmo por pleito judicial.
+Deste modo, a ré exerce seu direito legal, convencional e contratual de exigir que a autora adquira quota mínima de veículos, sendo certo que a não aquisição acaba em cometimento de infração, uma vez que há previsão neste sentido.
+Há de se combater, também, o argumento da autora de que "desempenho comercial insatisfatório" não é causa para rescisão de contrato. Com a devida vênia, quando autora resolveu atuar neste campo estava ciente de que metas lhe seriam impostas pela cedente e que as deveria cumprir para se manter no negócio. É de se notar que o objetivo de ambas é o lucro. Porém, há de se consignar que para que a ré obtenha seu lucro é preciso que a concessionária atinja suas metas e, não logrando êxito, fica a cedente prejudicada".
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 1.923) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação declaratório cumulada com indenização por danos morais e materiais
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusula contratual em recurso especial são inadmissíveis.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
