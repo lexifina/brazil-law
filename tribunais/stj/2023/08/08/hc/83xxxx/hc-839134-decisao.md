@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FELIPE PEREIRA DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1503893-51.2022.8.26.0228).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 4 meses de reclusão, regime inicial fechado, e 13 dias-multa, pela prática do crime previsto no art. 157, § 2º, inciso II, do Código Penal (e-STJ fls. 18/26).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 33/37).
+No presente mandamus (e-STJ fls. 3/9), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois o estabelecimento do regime inicial fechado não possui lastro em fundamentação idônea. Para tanto, aduz que o paciente é primário, as circunstâncias judiciais lhe são favoráveis e a gravidade abstrata do delito não justifica o recrudescimento.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o regime inicial seja alterado para semiaberto.
+O pedido liminar foi indeferido (e-STJ fls. 40/41).
+As informações foram prestadas às e-STJ fls. 49/51 e 52/72.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 76/79, opinou pelo não conhecimento do writ, cuja ementa segue transcrita:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. APELAÇÃO. ROUBO MAJORADO. APLICAÇÃO DA PENA. CAUSA DE AUMENTO. CONCURSO DE AGENTES.
+- Na terceira fase da aplicação da pena, as instâncias ordinárias aplicaram a fração de 1/3 de aumento da pena, com fundamento na existência de circunstância judicial negativa - concurso de agentes.
+- Embora tenha sido imposta reprimenda entre 4 e 8 anos de reclusão, tratando-se de réu com circunstância judicial desfavorável (concurso de agentes), não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do C.
+Pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, em síntese, o reconhecimento de constrangimento ilegal no estabelecimento do regime inicial fechado.
+Sobre o tema, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, segue a motivação apresentada pelo Juízo sentenciante, a qual foi corroborada pela Corte local, para fixar o regime inicial fechado (e-STJ fl. 24):
+O réu iniciará o cumprimento da pena em regime inicialmente fechado, mais apropriado diante das circunstâncias do crime, cometido em concurso de agentes. Trata-se de crime violento, perpetrado com grave ameaça à pessoa, cuja ação parece revelar personalidade desajustada, voltada ao ganho patrimonial em desrespeito à integridade física e psicológica do cidadão de bem.
+Ademais, há de se considerar no caso específico, que o réu, não satisfeito em subtrair bem alheio, ainda ameaçou a vítima, quando esta tentava lhe perseguir, ao incentivar seu parceiro a atirar contra ela, o que demonstra o desprezo do réu pela vida alheia.
+No mais, tem-se que o crime em questão traz desassossego à sociedade, autorizando o encarceramento mais severo na fase inicial do cumprimento da pena corporal, e conceder-lhes regime mais brando seria decidir contra os anseios da coletividade, que clama por mais rigor na punição dos crimes praticados com grave ameaça ou violência contra as pessoas (CP, art. 33, § 3º).
+Assim, extrai-se que o recrudescimento do regime possui lastro nas circunstâncias específicas do delito, especialmente mais gravosas, tendo em vista que o paciente demonstrou excessivo desprezo pela vida da vítima ao incentivar o seu comparsa a atirar contra ela enquanto eram perseguidos.
+Nesse contexto, o regime inicial fechado estabelecido para o cumprimento da pena aplicada ao paciente possui lastro em fundamentação concreta e suficiente.
+Em hipótese análoga, decidiu esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. AGRAVANTE DE CALAMIDADE PÚBLICA. ERRO MATERIAL DAS INSTÂNCIAS ORDINÁRIAS, QUE, POR LAPSO, EMBORA TENHAM RECONHECIDO A AGRAVANTE, NÃO CONSIDERARAM, NA TERCEIRA FASE DA DOSIMETRIA, O AUMENTO APLICADO NO ESTÁGIO INTERMEDIÁRIO. AFASTAMENTO DA AGRAVANTE NESTA CORTE, SEM ALTERAÇÃO NO QUANTUM DA PENA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador, ao fixar o regime prisional, deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+3. Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição do modo mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço, já que praticado o roubo com excessiva violência - ameaças desnecessárias de disparos contra a cabeça de uma das vítimas -, bem como no fato de a prática delitiva ter redundado em disparos em via pública.
+4. Agravo regimental desprovido. (AgRg no HC n. 686.729/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Assim, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, sendo manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
