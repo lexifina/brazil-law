@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de pedido formulado pela defesa de RONALD DE OLIVEIRA ROSA, que objetiva vê-lo alcançado pela decisão de e-STJ fls. 182/188, a qual deu provimento ao pedido do corréu DEONILDO GOMES DA SILVA.
+Sustenta-se que ambos encontram-se em situação fático-processual idêntica, devendo ser relaxada também a prisão processual do ora requerente.
+É o relatório. Decido.
+O pedido original foi deferido ante as considerações (i) de que as instâncias ordinárias não se atentaram a alteração relevante do status jurídico-processual do então recorrente, quando mantiveram o cárcere imposto em momento anterior à sentença, na medida em que a prisão preventiva havia sido imposta em função do aparente cometimento não apenas do crime de tráfico de drogas ilícitas, mas também de associação para o tráfico, crime esse do qual o réu veio a ser absolvido, e (ii) de que os reputados indícios de risco à ordem pública eram inidôneos, devido à reconhecida ausência de contemporaneidade com os maus antecedentes identificados.
+Quanto a RONALD DE OLIVEIRA ROSA, os fundamentos são idênticos, na medida em que as instâncias ordinárias efetivamente mantiveram o cárcere imposto anteriormente à sentença condenatória, sem considerar que sua situação havia se tornado mais benigna, e, embora tenham feito menção à reincidência do ora requerente, não delinearam que o reputado risco à ordem pública fosse atual e premente, sendo certo que condenação anterior, mesmo transitada em julgado, não resulta na imposição da custódia processual de forma automática, por si só.
+Ante o exposto, estendo o provimento das e-STJ fls. 182/188, para que alcance o corréu RONALD DE OLIVEIRA ROSA, ressalvando-se a possibilidade de se imporem medidas cautelares consideradas imprescindíveis.
+Intimem-se.
