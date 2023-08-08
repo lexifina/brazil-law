@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interno interposto por Tito Alcântara Bessa Júnior contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial.
+Infere-se dos autos que o Tribunal de Justiça de São Paulo negou provimento ao agravo interno interposto pelo ora insurgente, conforme ementa abaixo colacionada (e-STJ, fl. 60):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA DE NÃO CONHECIMENTO DE AGRAVO DE INSTRUMENTO. IRRESIGNAÇÃO. ALEGAÇÃO DE TRATAR-SE DE MATÉRIA DE ORDEM PÚBLICA (ILEGITIMIDADE PASSIVA). NÃO VERIFICAÇÃO. DECISÃO DE PRIMEIRO GRAU QUE VERSA SOBRE AVALIAÇÃO DE BEM IMÓVEL PENHORADO. AGRAVO DE INSTRUMENTO QUE NÃO IMPUGNOU ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO INTERNO NÃO PROVIDO. 1 - A legitimidade "ad causam" se verifica observando os sujeitos envolvidos na relação jurídica material que se alega subjacente ao exercício do direito de ação. No caso presente, trata-se de execução de título extrajudicial visando o recebimento de aluguéis decorrentes de contrato de locação. Não há dúvida, no caso, quanto à pertinência subjetiva: as partes que integram a relação jurídica processual figuram no contrato. 2 - No curso da execução, porém, foi determinada a penhora de bem imóvel. Alega o agravante que, por ter sido o imóvel objeto de alienação fiduciária, seria ele de propriedade da instituição financeira. À evidência, não se trata de questão de ilegitimidade, mas apenas de medida constritiva que, segundo o agravante, teria atingido bens de terceiro. Como tal, a medida só poderia ser combatida pelo terceiro prejudicado, pelos meios adequados. 3 - Em todo caso, a decisão de primeiro grau não versa sobre a penhora, mas sobre a avaliação de bem cuja penhora fora determinada anteriormente. Assim, a regularidade da penhora não está mais em debate. Em verdade, portanto, o recurso de agravo de instrumento não impugna especificamente os fundamentos da decisão recorrida, não guardando liame temático com esta, em violação ao princípio da dialeticidade.
+Nas razões do apelo especial, o recorrente indicou contrariedade aos arts. 139, IX, 337, XI, § 5º, e 805 do CPC/2015.
+Aduziu que a ilegitimidade passiva seria matéria de ordem pública, podendo ser arguida em qualquer tempo e grau de jurisdição, não havendo falar em preclusão consumativa.
+Entendeu que, tratando-se de questão de ordem pública, o tema relativo à ilegitimidade passiva poderia ser conhecido de ofício, não sendo de alegação restrita do terceiro prejudicado.
+Relatou que uma avaliação do bem no estágio atual do processo apenas o oneraria desnecessariamente, não havendo real benefício ao credor.
+Contrarrazões às fls. 90-97 (e-STJ).
+O Tribunal de origem inadmitiu o processamento do apelo especial com base no enunciado sumular n. 7 do STJ e na ausência de violação aos dispositivos de lei federal.
+O insurgente então interpôs o agravo em recurso especial.
+Às fls. 134-135 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do recurso, por entender que a parte agravante teria deixado de impugnar um dos fundamentos da decisão agravada.
+Em suas razões de agravo interno, o recorrente sustenta, em síntese, que teria combatido especificamente todos os motivos da decisão de inadmissibilidade.
+Brevemente relatado, decido.
+Na espécie, observo que a decisão do TJSP que inadmitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, a fim de admitir o agravo, e passo à análise do apelo especial.
+De início, constata-se que a Corte a quo consignou a legitimidade passiva do ora insurgente, em razão de ter figurado como fiador em contrato de locação cuja dívida de aluguel se estaria executando no presente processo; esclareceu, ainda, que eventual medida constritiva sobre bens de terceiro não integraria a temática da legitimidade.
+Nas razões do apelo especial, contudo, a parte se limita a apontar suposta ofensa ao art. 337, XI, § 5º, do CPC/2015, sob a assertiva de que a matéria relativa à legitimidade passiva seria de ordem pública e que, portanto, não haveria falar em preclusão consumativa.
+Nesse contexto, considera-se deficiente a argumentação recursal que deixou de impugnar fundamento suficiente para a manutenção do aresto vergastado, apresentando razões recursais dissociadas da decisão estadual, tendo em vista o disposto nos verbetes n. 283 e 284 da Súmula da Suprema Corte.
+A esse respeito:
+RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DEMORA EXCESSIVA NA APRECIAÇÃO DE REQUERIMENTO ADMINISTRATIVO. OBEDIÊNCIA AO PRINCÍPIO DA RAZOÁVEL DURAÇÃO DO PROCESSO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283/STF E 284/STF.
+(..)
+2. Ademais, a recorrente não infirma o argumentos de que o pedido administrativo da impetrante, ora recorrida, não foi examinado ou sequer encaminhado ao órgão recursal por quase dois anos. Igualmente não impunga o fundamento de que seria descabido o argumento de ausência de apreciação por falta de cumprimento de instrução documental, porque inexistiria qualquer notificação da parte ora recorrida para tanto. Limita-se a defender genericamente a ilegitimidade passiva e falta de interesse de agir. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do Supremo Tribunal Federal, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+(..)
+4. Recurso Especial parcialmente conhecido, apenas quanto à violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015 e, nessa parte, não provido.
+(REsp n. 2.038.284/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/5/2023, DJe de 28/6/2023.)
+Outrossim, cabe pontuar que o art. 139, IX, do CPC/2015 trata das incumbências do magistrado na direção do processo, não possuindo comando normativo apto a amparar a tese recursal de que seria possível pleitear direito alheio em juízo.
+Assim, fica patente a deficiência da fundamentação recursal, a atrair a aplicação, por analogia, do enunciado sumular n. 284 do Supremo Tribunal Federal.
+A título exemplificativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR PREPARATÓRIA. PROCESSO PRINCIPAL EXTINTO, COM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO DA CAUTELAR. SUPOSTA VIOLAÇÃO AO DISPOSITIVO INDICADO. COMANDO NORMATIVO INAPTO DE SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. VERIFICAÇÃO DE INTERESSE PROCESSUAL E AUSÊNCIA DE PERDA DO OBJETO. QUESTÃO ATRELADA AO CONTEXTO FÁTICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial exige que o citado dispositivo legal indicado como violado possua comando normativo apto de sustentar a tese recursal que fundamenta a alegada violação, sob pena de atrair a incidência da Súmula 284 do STF, por analogia.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.241.565/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+No tocante à suposta ofensa ao art. 805 do CPC/2015, observa-se que não houve pronunciamento do Tribunal a quo sobre o conteúdo normativo do referido dispositivo legal.
+Desse modo, ausente o debate estadual acerca da questão ventilada, tampouco havendo a oposição de embargos de declaração a fim de suscitar a discussão na origem, é inviável a apreciação do tema ante a falta do indispensável prequestionamento, incidindo os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal na espécie.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER E NÃO FAZER CUMULADA COM INDENIZATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA 13/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.015.235/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ante o exposto, conheço do agravo, em juízo de retratação, para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. 2. LEGITIMIDADE PASSIVA. FUNDAMENTO INATACADO. SÚMULAS 283 E 284/STF. 3. ART. 139, IX, DO CPC/2015. COMANDO NORMATIVO INAPTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. TESE DE VIOLAÇÃO AO ART. 805 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 5. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
