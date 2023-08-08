@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial de PEDRO PAULO WILVERT no qual se insurge, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. IRPF. PERCEPÇÃO ACUMULADA DE RENDIMENTOS. REGIME DE COMPETENCIA. J UROS MORATÓRIOS. REVISÃO DOLANÇAMENTO.
+1. A tributação dos valores que são pagos de uma só vez não pode se dar sobre o montante total acumulado, sob pena de ferir os princípios constitucionalmente garantidos da isonomia tributária (art. 150, II, da CF/88) e da capacidade contributiva (§ 1º do art. 145 da CF/88).
+2. Não incide imposto de renda sobre os juros moratórios, dada a sua natureza indenizatória.
+3. Se as parcelas postuladas pela parte autora são distintas, sendo possível o seu destacamento, a determinação de revisão é decorrência lógica da anulação parcial do lançamento, não havendo que se falar em julgamento extra petita.
+4. Remessa oficial e apelações desprovidas (fl. 393).
+Os embargos de declaração opostos foram rejeitados (fls. 428/431).
+Em suas razões, a parte agravante sustenta violação do art. 535 do CPC/1973, visto que não foram apreciadas questões essenciais ao deslinde da controvérsia.
+Discorre, ainda, sobre a afronta aos arts. 128 do CPC, 149 e 173, II, do CTN e 15 do Decreto 70.235/1972, ao argumento de que a ação de natureza declaratória-negativa objetivou apenas a anulação do lançamento fiscal e a declaração de inexigibilidade do crédito tributário, razão pela qual incorre em julgamento extra petita a sentença que impôs à União uma obrigação de revisar o lançamento fiscal objeto da Notificação de Lançamento 2005/609425180282079, notadamente porque a revisão do lançamento é um ato discricionário e deve ser feita na própria esfera administrativa.
+Contrarrazões apresentadas às fls. 500/504.
+Às fls. 540/542, o Ministro Napoleão Nunes Maia Filho proferiu decisão determinando o sobrestamento do feito e o retorno dos autos ao Tribunal de origem até o julgamento pelo Superior Tribunal de Justiça do REsp 1.470.443/PR - Tema 878/STJ, sob a sistemática do recurso repetitivo, e pelo Supremo Tribunal Federal do RE 855.091/RS - Tema 808/STF, sob o regime da repercussão geral.
+Por decisão de fls. 572/573, o Desembargador Federal Vice-Presidente do TRF4 verificou que a pretensão recursal ora em análise abrange matéria distinta daquela apreciada no Tema 878/STJ e determinou o reenvio dos autos a esta Corte Superior.
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+No que importa à controvérsia travada no presente recurso, o Tribunal de origem reconheceu que o Imposto de Renda incidente sobre verbas recebidas acumuladamente deveria ser apurado pelo regime de competência e que não incide a exação sobre os juros moratórios por se tratar de verba indenizatória dos prejuízos causados pelo pagamento extemporâneo do crédito.
+Contra o acórdão, a parte recorrente opôs embargos de declaração a fim de provocar a Corte de origem a manifestar-se sobre a ocorrência de omissão quanto ao pedido de afastamento dos encargos legais, a saber, multa e juros moratórios, sobre eventual saldo de Imposto de Renda apurado após a revisão do lançamento, haja vista que não houve omissão de receita.
+Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento da parte recorrente.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação do art. 535 do CPC/1973, devendo os autos retornar à origem para que sejam sanados os vícios apontados no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para anular o acórdão proferido nos embargos de declaração. Determino a devolução dos autos ao Tribunal a quo para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
