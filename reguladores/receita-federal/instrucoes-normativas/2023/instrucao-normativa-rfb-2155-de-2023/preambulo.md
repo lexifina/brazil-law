@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2155, de 4 de agosto de 2023
+Revoga as Instruções Normativas SRF nº 42, de 6 de maio de 1997, e nº 76, de 18 de setembro de 2001, que dispõem sobre restituição de imposto de renda da pessoa física.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, e no inciso I do art. 8º do Decreto nº 10.139, de 28 de novembro de 2019, resolve:
