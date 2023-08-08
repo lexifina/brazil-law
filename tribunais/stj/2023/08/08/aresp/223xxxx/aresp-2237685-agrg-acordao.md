@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DELIA APARECIDA DE OLIVEIRA contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+A agravante alega: a) "em que pese a existência de um entendimento majoritário, cumpre-se destacar que precedentes não são imutáveis e podem ser revistos a qualquer tempo quando houver novos argumentos ou por evolução fática histórica" (e-STJ fl. 425); b) "nas provas documentais usadas na condenação não foram realizadas perícias grafotécnicas ou papiloscópicas, contrariando assim o artigo 158 do Código de Processo Penal" (e-STJ fl. 425); e c) "diante da falta de realização de exame pericial, tem-se uma flagrante nulidade conforme prevê o artigo 564, inciso III, alínea b, do Código de Processo Penal" (e-STJ fl. 426).
+Requer provimento do recurso para que a matéria seja apreciada pelo Colegiado.
+Contrarrazões às e-STJ fls. 441-443.
+Ciência do Ministério Público Federal à e-STJ fl.445.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PERÍCIA EM DOCUMENTOS UTILIZADOS NA PRÁTICA DO CRIME. AUSÊNCIA. POSSIBILIDADE. AUTORIA E MATERIALIDADE PROVADAS POR OUTROS MEIOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte, "a comprovação da materialidade do crime de estelionato não está adstrita à realização de perícia em documento que tenha dado causa à instauração da persecutio, o qual se caracteriza como prova indiciária, podendo ser suprida a sua ausência por outros elementos constantes dos autos, nos termos do arts. 158 e 167 do CPP" (AgRg no REsp 1.874.995/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020)
+2. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi publicada em 29/03/2023 (e-STJ fl. 416) e o agravo foi protocolizado em 03/04/2023 (e-STJ fl. 421), dentro do prazo previsto no art. 258, caput, do RISTJ.
+A decisão agravada tem os seguintes fundamentos (e-STJ fl. 414):
+O Colegiado a quo afastou a necessidade de exame pericial nos documentos em que registradas a assinatura da recorrente e suas impressões digitais, uma vez que, "da análise dos documentos constantes no relatório da Polícia Civil (ID 3395022 - pág. 10/11), é possível atestar que a pessoa da foto constante no RG utilizado na compra refere-se à ré, afastando-se, assim, a necessidade de realização de perícias" (e-STJ fl. 338).
+A Corte concluiu que a materialidade do crime foi comprovada não apenas pela falsidade dos documentos utilizados na conduta, mas também pelo fato de ser a recorrente a pessoa que figurou na fotografia do documento de identidade utilizado para o estelionato.
+Não há falar, portanto, em ofensa aos arts. 158 e 564, III, b, do CPP, por ausência de exame pericial sobre os documentos utilizados na realização da conduta investigada, porquanto esta Corte possui entendimento de que, caso a falsidade documental seja comprovada por outros meios de prova, torna-se prescindível a realização de perícia.
+O Tribunal a quo destacou outros elementos probatórios que formaram a convicção sobre a materialidade e autoria do crime, além dos documentos sobre os quais a agravante sustenta haver necessidade de perícia (e-STJ fls. 210-211):
+Ademais, o número de telefone celular utilizado na documentação para a compra do eletrodoméstico - 61 981026405 - (ID 33950222 - pág. 39) condiz com um dos constantes no sistema da polícia civil vinculado à ré, tendo sido por ela confirmado que já lhe pertenceu. Outrossim, o endereço informado no ato da compra (QSC 19 CHACARA), embora claramente incompleto, possui semelhança com aquele onde a ré reside (QSC 19, chácara 27, conjunto I, casa 5C, Taguatinga-DF). Tais fatos representam mais evidências do delito por ela praticado.
+Assim, o conjunto probatório aponta que a compra foi realizada pela ré, obtendo assim vantagem ilícita com prejuízo alheio, infringindo, o disposto no art. 171, caput, do CP.
+Nesse cenário, os elementos constantes nos autos são suficientes para a formação da convicção do juízo a respeito do crime, restando satisfatoriamente comprovadas a materialidade e a autoria, não havendo que se falar em absolvição da ré, nos termos do art. 386, VII, do CPP, e em prevalência do princípio in dubio pro reo.
+Não há falar em ofensa aos arts. 158 e 564, III, b, do CPP, por ausência de exame pericial sobre os documentos utilizados na prática do estelionato, porquanto esta Corte orienta que, caso a falsidade seja provada por outros elementos, torna-se prescindível a realização de perícia. Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO EM CONCURSO DE PESSOAS. ART. 619 DO CPP. OMISSÃO. NÃO OCORRÊNCIA. DOSIMETRIA. OFENSA AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. NÃO OCORRÊNCIA. MATERIALIDADE. AUSÊNCIA DE REALIZAÇÃO DE PERÍCIA. COMPROVAÇÃO POR OUTROS ELEMENTOS COLHIDOS NOS AUTOS. POSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. CONTINUIDADE DELITIVA. INTERVALO DELITIVA SUPERIOR A 30 DIAS. CONCURSO FORMAL. AÇÕES DIVERSAS E SUCESSIVAS. NÃO CONFIGURAÇÃO. MAUS ANTECEDENTES E REINCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. MANIFESTA ILEGALIDADE. AGRAVANTE RECONHECIDA COM BASE EM CONDENAÇÃO COM O PERÍODO DEPURADOR SUPERADO. REDIMENSIONAMENTO DA PENA. AGRAVO IMPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+(..)
+3. Entende este Superior Tribunal de Justiça que a comprovação da materialidade do crime de estelionato não está adstrita à realização de perícia em documento que tenha dado causa à instauração da persecutio, o qual se caracteriza como prova indiciária, podendo ser suprida a sua ausência pela por outros elementos constantes dos autos, nos termos do arts. 158 e 167 do CPP.
+4. Tendo as instâncias ordinárias, soberanas na análise fático-probatória, firmado compreensão, com base nas provas amealhadas ao longo da instrução, de que robustamente comprovadas a materialidade e a autoria delitivas, descabe a esta Corte promover a alteração de tal entendimento, nos moldes aventados pela defesa, haja vista a necessidade de revolvimento fático, providência que encontra óbice no enunciado sumular n. 7 desta Corte.
+(..)
+9. Agravo regimental improvido. Habeas corpus concedido de ofício apenas para afastar a agravante da reincidência, redimensionando a pena do agravante para 4 anos e 4 meses de reclusão, em regime semiaberto, além do pagamento de 30 dias-multa.
+(AgRg no REsp 1.874.995/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 619. OMISSÃO. INEXISTÊNCIA. LAUDOPERICIAL. PRESCINDIBILIDADE. FALSIDADE DO DOCUMENTO COMPROVADA POR OUTROS MEIOS DE PROVA ADMITIDOS EM JUÍZO. NEGATIVA DE VIGÊNCIA AO ART. 384 DO CPP. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA AO ART. 155, §2º, DO CP. ANÁLISE PREJUDICADA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO NOS TERMOS DOS ARTS. 1.029, § 1º, do CPC E 255, § 1º, DO RISTJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. Esta Corte Superior de Justiça pacificou o entendimento de que "a ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova" (HC-169.068/SP, Rel. Ministro Nefi Cordeiro, 6ª Turma, DJe de 5/2/2016).(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.642.040/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 02/06/2020, DJe de 15/06/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
