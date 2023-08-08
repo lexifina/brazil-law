@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial manifestado em face de acórdão assim ementado:
+EMENTA: PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO CÍVEL. ILEGITIMIDADE PASSIVA SUSCITADA PELA INSTITUIÇÃO FINANCEIRA. REJEIÇÃO. MÉRITO. PLANO DE SAÚDE. DESLIGAMENTO POR MEIO DE DEMISSÃO VOLUNTÁRIA. EXCLUSÃO DO APELANTE DO BENEFÍCIO EM RAZÃO DA SUA DEMISSÃO SEM JUSTA CAUSA. IMPOSSIBILIDADE DA PERMANÊNC IA DO RECORRENTE NO PLANO. APLICABILIDADE DO ESTATUTO VIGENTE A É POCA DO SEU DESLIGAMENTO. ENTENDIMENTO SEDIMENTADO PELO STJ. APELO CONHECIDO E DESPROVIDO.
+1. A Lei nº 9.656/98 em seu art. 30 assegura ao trabalhador demitido sem justa causa o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+2. Aplicam-se ao presente caso as regras do estatuto vigente a época do desligamento do apelante, é assegurado a sua exclusão dos associados da Cassi, ora apelada, de forma automática, sem direto a qualquer indenização.
+3. Precedente do STJ (AgRe no AREsp 166.928/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 06/11/2014. DJe 13/11/2014)
+4. Apelo conhecido e desprovido.
+Em suas razões do recurso, a parte agravante sustenta violação dos arts. 31 e 35 da Lei 9.656/98. Alega que, "Excelências, data máxima vênia, o v. acórdão recorrido incorre em lamentável equívoco ao concluir em seu parágrafo 16 que o Recorrente ao se desligar do quadro dos funcionários do Banco do Brasil  em razão de rescisão sem justa causa por adesão a plano de desligamento voluntário  cessou o vínculo com a instituição e, portanto, com o Plano de Saúde CASSI" (fl. 404).
+Afirma que, "Por todo exposto, não resta dúvida de que o direito do Recorrente encontra amparo no Estatuto CASSI de 2007, diploma que, corrigindo falha do Estatuto anterior (2004), foi elaborado para adaptar o Plano de Saúde de Associados à lei 9.656/98" (fl. 406).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Colegiado estadual, ao julgar a causa, deixou consignados os seguintes fundamentos (fls. 394-396):
+No presente caso, o apelante era funcionário do Banco do Brasil S.A. Se desligando do quadro em 03/06/2007 ao aderir ao programa de demissão voluntária.
+16. Ocorre que ao se desligar de forma voluntária do quadro dos funcionário da instituição financeira, houve a rescisão sem justa causa e com isso cessado o vínculo com o plano de saúde, ora segurado.
+17. Sobre o assunto, temos que a Lei nº 9.656/98 em seu art. 30 assegura ao trabalhador demitido sem justa causa o direito de manutenção como beneficiário nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+18. Ademais, como pretendido pelo apelante, não se aplicam as disposições contidas no art. 31 da Lei nº 9.656/98, uma vez que faz menção aos aposentados que contribuíram para o plano de assistência a saúde, posto que o ato de aposentadoria só foi proferido em 09/11/2010.
+19. Do mesmo modo, não se aplicam ao presente caso as normas contidas no Estatuto da Cassi realizado em 05/09/2007 (fls. 15/29), posto que só entrou e vigor após o desligamento do apelante, não sendo possível aplicar as novas regras de forma retroativa.
+20. Logo, em aplicando as regras do estatuto vigente a época do desligamento do apelante, é assegurada a exclusão dos associados da Cassi, ora apelada. de forma automática, sem direto a qualquer indenização (fl. 80).
+21. Diante dessa situação e, analisando o parágrafo primeiro do art. 30 da Lei nº 9.656/98, poderia o beneficiário permanecer no plano de assistência a saúde, após o seu desligamento, pelo período de no mínimo de seis meses e um máximo de vinte e quatro meses.
+22. Contudo, o apelante só buscou o judiciário para se restabelecer ao plano no ano de 2012 quando já tinha ultrapassado o para de 24 (vinte e quatro) meses concedido em Lei, impossibilitando o seu restabelecimento.
+23. Argumenta ainda que deixou o plano de saúde de cumprir a norma contida na Resolução normativa nº 279/2011, o qual obriga o empregador enviar uma comunicação inequívoca a respeito do direito de manutenção no plano.
+24. Ocorre que ao receber o Regulamento do Plano de Adequação de Quadro, constava em seu art. 18. que o funcionário que optasse pelo desligamento voluntário, assinaria uma nova proposta de adesão ao plano de saúde família da Cassi, configurando a comunicação da empresa, ora apelada.
+25. Desse modo. restou configurada a impossibilidade do restabelecimento do apelante e da sua esposa no plano de saúde dos associados da Cassi.
+No caso, o Tribunal local entendeu, com base no conjunto probatório disposto nos autos, que "restou configurada a impossibilidade do restabelecimento do apelante e da sua esposa no plano de saúde dos associados da Cassi" (fl. 396).
+Nesse sentido, verifico que a revisão do entendimento proferido pelo Colegiado de origem, no presente caso, demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial esbarra na Súmula n. 7 do STJ.
+No mais, observo que o posicionamento prolatado pelo Tribunal e stadual está em sintonia com a jurisprudência desta Corte. A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PLANO DE DEMISSÃO VOLUNTÁRIA. IMPOSSIBILIDADE DE MANUTENÇÃO DO VÍNCULO PELO ART. 30 DA LEI 9.656/98. HIPÓTESE DISTINTA DA DEMISSÃO SEM JUSTA CAUSA. CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há violação do art. 535 do CPC/73 quando o eg. Tribunal local analisa os argumentos de forma clara e suficientemente fundamentada.
+2. "A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que somente o ex-funcionário do Banco do Brasil, demitido sem justa causa, tem o direito de permanecer como beneficiário do plano de assistência à saúde nas mesmas condições que gozava quando da vigência do seu contrato de trabalho" (AgRg no AREsp 166.928/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 06/11/2014, DJe de 3/11/2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.432.926/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/3/2021, DJe de 26/3/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE ASSISTÊNCIA À SAÚDE. EX-FUNCIONÁRIO. DEMISSÃO VOLUNTÁRIA. PERMANÊNCIA. IMPOSSIBILIDADE. SÚMULAS NºS 7 E 83/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que somente o ex-funcionário do Banco do Brasil, demitido sem justa causa, tem o direito de permanecer como beneficiário do plano de assistência à saúde nas mesmas condições que gozava quando da vigência do seu contrato de trabalho.
+2. Tendo o tribunal de origem, com base nas circunstâncias fáticas da causa, concluído que o ex-funcionário que aderiu ao plano de demissão voluntária não possui direito a permanecer no plano de assistência, mostra-se inviável rever tal conclusão, por incidência da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 166.928/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/11/2014, DJe de 13/11/2014.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
