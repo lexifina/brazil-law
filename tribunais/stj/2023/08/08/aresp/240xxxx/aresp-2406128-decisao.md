@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 83/STJ e 284/STF.
+No recurso especial, a defesa sustenta violação do art. 59 do Código Penal e dos arts. 33, § 4º, e 42, ambos da Lei nº 11.343/06, bem como dissídio jurisprudencial.
+Alega que a natureza mais gravosa do entorpecente apreendido não justifica, de forma isolada, o aumento da pena-base.
+Afirma, relativamente à acusada Leidiane, que se encontram preenchidos os requisitos necessários à concessão da minorante do art. 33, § 4º, da Lei nº 11.343/06.
+Requer o provimento do recurso para "afastar a circunstância judicial "culpabilidade", valorada negativa na primeira fase da dosimetria da pena de ambos os Recorrentes", bem como para "aplicar, em sua fração máxima, a minorante do tráfico privilegiado" (fls. 1.099-1.100).
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma os fundamentos da decisão impugnada. Passo à análise do recurso especial.
+Dessume-se dos autos que os recorrentes Rafael e Leidiane foram condenados, como incursos no art. 33, caput, da Lei 11.343/2006, respectivamente, às penas de 9 anos e 26 dias de reclusão, em regime fechado, e 600 dias-multa, e 1 ano e 8 meses de reclusão, além de 167 (cento e sessenta e.
+Conforme cediço, "A estreita via do recurso especial não é adequada à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias, apenas se admitindo, excepcionalmente, seu exame nos casos de manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica" (AgRg no REsp n. 1.958.755/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+Ao majorar a pena-base com fundamento no art. 42 da Lei 11.343/2006, o Tribunal de origem consignou (fls. 967-968):
+Sobre a negativa avaliação da culpabilidade, cumpre destacar que é textual a orientação de que, à ocasião da primeira fase da dosimetria da pena pelo tráfico de drogas, o magistrado aprecie as circunstâncias da quantidade e natureza dos entorpecentes. Eis o comando da Lei 11.343/06, art. 42:
+ ..
+Disso extrai-se que a exasperação operada na basilar da dosimetria da pena de ambos os Réus tem fundamento idôneo, devendo ser mantida, máxime porque foram apreendidos 14g (quatorze gramas) de "maconha", 60g (sessenta gramas) de "crack" fracionados em 480 (quatrocentos e oitenta) pedras, e 915g (novecentos e quinze gramas) de "cocaína" divididos em 915 (novecentos e quinze), quantidade elevada de entorpecentes extremamente nocivos à saúde daqueles que delas fazem uso, pinos contexto que autoriza a negativa avaliação da culpabilidade.
+Em se tratando de crime de tráfico de drogas, consoante o disposto no artigo 42 da Lei n. 11.343/2006, o juízo, ao fixar a pena, deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.
+Ao contrário do que alega a defesa, o aumento da basilar não se deu com apoio apenas na natureza dos entorpecentes, tendo sido considerada também a expressiva quantidade de drogas apreendidas - 14g de maconha, 60g de crack, 915g de cocaína -, o que, de fato, justifica o incremento da pena.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Entendo como adequado a manutenção do regime inicial semiaberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006. Isso porque, conquanto tenha a ré sido condenada a reprimenda inferior a 4 anos de reclusão, ela teve a pena-base estabelecida acima do mínimo legal e foi apreendida com grande quantidade de drogas (6.651 g de maconha).
+2. A desfavorabilidade das circunstâncias do crime (pena-base acima do mínimo legal, pois apreendida grande quantidade de drogas) evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+3. Agravo regimental não provido.
+(AgRg no HC n. 781.658/PA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Outrossim, não impugnados referidos fundamentos, suficientes, por si só, para a manutenção do acórdão recorrido no ponto, incide a Súmula 283/STF.
+A defesa afirma, relativamente à acusada Leidiane, que se encontram preenchidos os requisitos necessários à concessão da minorante do art. 33, § 4º, da Lei nº 11.343/06, pugnando pelo reconhecimento do tráfico privilegiado. Não obstante, verifico que o pleito defensivo já foi deferido na origem, conforme se extrai da fundamentação do acórdão de fls. 1.004-1.008:
+A rigor, a criação da causa de diminuição conhecida como "tráfico privilegiado" encontra raízes em questões de política criminal que buscam favorecer a rápida ressocialização do pequeno traficante que ainda não se acha envolvido profundamente com o mundo delitivo.
+O dispositivo respectivo estabelece que, nos delitos definidos pelo art. 33, , caput "as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Sem embargo de posição contrária, o e. STJ. fixou entendimento, quando do julgamento do Tema Repetitivo nº 1139, que "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06".
+Assim, pese submetida à persecutio criminis também em outros autos, não podem, a tal ação penal, ser empregada como fundamento - objetivo ou subjetivo - ao afastamento da reportada causa de diminuição.
+ ..
+Assim, imprestável ao afastamento da minorante invocada, de rigor reconhecer inexistência de elementos aptos a demonstrar dedicação da Ré a atividades criminosas, circunstância que, aliada à primariedade, aos bons antecedentes e à ausência de indícios de que integre organização criminosa, autoriza a aplicação da causa de diminuição da Lei 11.343/06, art. 33, § 4º.
+A reforma do v. acórdão implica, via de consequência, cômputo da minorante especial também na dosimetria da pena.
+Nessa razão, considerando-se que, na primeira etapa do cálculo dosimétrico, as naturezas dos entorpecentes apreendidos motivaram exasperação da basilar, implicaria bis in idem valorá-las também aqui para, vez mais, recrudescer a pena aplicável. Outrossim, nada obsta redução da penalidade corporal em grau máximo, de modo que, minorada a pena em 2/3 (dois terços), redunda definitiva na ordem de 01 (um) ano e 08 (oito) meses de reclusão, além de 167 (cento e sessenta e sete) dias-multa.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
