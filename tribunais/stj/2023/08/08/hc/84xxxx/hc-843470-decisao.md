@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Nelson Fuculo Borges Neto, no qual se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 70076984764 - CNJ n. 0063688-96.2018.8.21.7000 - fls. 41/58), por manter a sentença proferida pelo Juízo de Direito da 4ª Vara Criminal da comarca de Pelotas/RS, na Ação Penal n. 022/2.16.0010468-7 - CNJ n. 0027690-20.2016.8.21.0022 (fls. 21/31), que o condenou à pena de 5 anos de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 500 dias-multa, em razão da prática do crime de tráfico de drogas (209 g de maconha e 4 g de cocaína - fls. 16 e 22).
+Nesta Casa, a defesa pretende, em síntese, no âmbito liminar e no mérito, a aplicação da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo; a fixação do regime aberto, bem como a substituição da privativa de liberdade por restritivas de direitos.
+É o relatório.
+A ilegalidade passível de justificar a impetração de habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Com efeito, a sentença condenatória asseverou ser inviável o reconhecimento do tráfico privilegiado ao acusado. Embora primário e de bons antecedentes à época dos fatos, há comprovação suficiente de que se dedicava às atividades criminosas, mantendo relação com os principais traficantes da Comarca, conforme podemos depreender das interceptações telefônicas juntadas aos autos (fls. 145/168), não preenchendo, portanto, o requisito último trazido pelo § 4º do art. 33 da Lei n. 11.343/2006 (fls. 28/29 - grifo nosso).
+Dessa forma, para que fosse possível entender de modo diverso e afastar a conclusão de que o réu se dedica a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, o que não é possível na via eleita, que possui rito célere e cognição sumária. Nesse sentido: AgRg no REsp n. 1.737.179/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/8/2019.
+Mantida, assim, a reprimenda em 5 anos de reclusão, além do pagamento de 500 dias-multa, não há falar em substituição da privativa de liberdade por restritivas de direitos (art. 44, I, do Código Penal).
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ELEMENTOS FÁTICOS. REEXAME. IMPOSSIBILIDADE. MINORANTE. NÃO INCIDÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
