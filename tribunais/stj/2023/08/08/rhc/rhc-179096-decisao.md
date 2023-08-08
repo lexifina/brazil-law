@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por BRUNO DOS SANTOS PAULA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do HC n. 1.0000.23.054779-6/000.
+Extrai-se dos autos que o Juízo da 1ª Vara Criminal da Comarca de Ipatinga/MG acolheu pedido ministerial de revogação da liberdade provisória e decretou a prisão preventiva do recorrente, denunciado pela pratica dos tipos do artigo 33 da Lei n. 11.343/2006 e art. 14 da Lei n. 10.826/2003 (tráfico de entorpecentes e porte ilegal de arma de uso permitido).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO - REVOGAÇÃO DA PRISÃO PREVENTIVA -IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA -GARANTIA DA ORDEM PÚBLICA - QUEBRA DE COMPROMISSO ASSUMIDO COM A JUSTIÇA - INDÍCIOS DE REITERAÇÃO EM CRIMES CONTRA A SAÚDE PÚBLICA - IMPOSIÇÃO DE REGIME MAIS BRANDO EM CASO DE EVENTUAL CONDENAÇÃO -INVIABILIDADE DE ANÁLISE.
+1. A Prisão Preventiva encontra-se fundamentada no risco de reiteração delitiva e na quebra de compromisso assumido com a Justiça, evidenciada pelo fato de que o Paciente, durante cumprimento de Medidas Cautelares Diversas da Prisão, teria reiterado em Delito da mesma natureza (Tráfico de Drogas), impondo-se a manutenção da segregação cautelar.
+2. A garantia da ordem pública e o perigo gerado pelo estado de liberdade são requisitos que, quando presentes, indicam a insuficiência e inadequação de Medidas Cautelares Diversas da Prisão.
+3. A desproporcionalidade da medida, em razão de provável imposição de regime menos gravoso, em eventual édito condenatório, não há como ser analisada no writ, porquanto a dosagem sancionatória é baseada em circunstâncias judiciais, a serem analisadas após a instrução criminal." (fl. 624).
+No presente recurso, em síntese, a defesa aduz a ausência concreta dos requisitos autorizadores da prisão preventiva dispostos no art. 312 do Código de Processo Penal. Sustenta, ainda, a inidoneidade da fundamentação adotada para a decretação da medida extrema.
+Refere que o recorrente detém condições pessoais favoráveis e que, mesmo em caso de condenação, não seria imposta pena a ser cumprida em regime fechado.
+Requer, em liminar e no mérito, seja revogada a prisão preventiva e recolhido o mandado de prisão expedido, ou seja expedido contramandado de prisão.
+É o relatório.
+Decido.
+A presente impetração está prejudicada.
+Consoante informações prestadas via e-mail pelo douto Juízo da 1ª Vara Criminal de Ipatinga/MG, em 06/06/2023, nos autos nº 0010257-15.2022.8.13.0313, foi prolatada sentença condenatória de BRUNO DOS SANTOS PAULA nas reprimendas do art. 33 da Lei 11343/06 e § 4º e art. 14 da Lei 10826/03, ao cumprimento das penas de 03 (três) anos e 08 (oito) meses de reclusão, no regime inicial aberto, e 176 (cento e setenta e seis) dias-multa. A pena corporal foi substituída por duas restritivas de direitos, quais sejam: 1) prestação de serviços à comunidade e 2) prestação pecuniária, no valor de um salário-mínimo e meio. Foi concedido ao acusado o direito de recorrer em liberdade, tendo sido determinado o recolhimento do mandado de prisão em desfavor dele. Tal sentença transitou em julgado para a Defesa, em 06/06/2023, e para a Acusação, em 14/06/2023.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
