@@ -1,0 +1,35 @@
+DECISÃO
+Depreende-se dos autos que Cooperativa de Crédito dos Médicos, Profissionais da Saúde e Empresários de Mato Grosso interpôs agravo de instrumento contra decisão que, nos autos de ação de execução de título extrajudicial manejado em desfavor de Francisco de Arruda Machado, indeferiu o pedido de penhora mensal de 30% (trinta por cento) da remuneração percebida pelo executado.
+A Primeira Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso negou provimento ao recurso, em acórdão assim ementado (e-STJ, fls. 297-298):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO AGRAVADA QUE INDEFERIU O PEDIDO DE PENHORA MENSAL NO PERCENTUAL DE 30% (TRINTA POR CENTO) SOBRE A APOSENTADORIA DO EXECUTADO - DÍVIDA DE NATUREZA NÃO ALIMENTAR - IMPOSSIBILIDADE NESTE MOMENTO PROCESSUAL, DIANTE DAS PECULIARIDADES DO CASO CONCRETO - BUSCAS ORDINÁRIAS DE BENS NÃO ESGOTADAS - PRINCÍPIO DA EXECUÇÃO PELO MEIO MENOS GRAVOSO AO EXECUTADO - RECURSO CONHECIDO E DESPROVIDO.
+A norma é clara ao dispor sobre a absoluta impenhorabilidade dos vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios (dentre outras verbas destinadas à remuneração do trabalho), não podendo o julgador contrariá-la, permitindo que a penhora recaia sobre a integralidade ou parte da remuneração do devedor, salvo as exceções sabidamente admitidas.
+Por se tratar de medida excepcional, a penhora parcial de salário é cabível apenas quando o crédito não puder ser adimplido de outra forma, vale dizer, quando esgotados os meios de localização de bens do devedor que sejam passíveis de constrição, o que não é a hipótese dos autos.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 336-342).
+Inconformada, Cooperativa de Crédito dos Médicos, Profissionais da Saúde e Empresários de Mato Grosso interpõe recurso especial (e-STJ, fls. 359-376), com fundamento nas alíneas a e c do permissivo constitucional, alegando, além de divergência jurisprudencial, violação dos arts. 789, 797 e 833, IV, do CPC/2015.
+Defende possibilidade de penhora parcial do salário do executado/recorrido, ante a flexibilização do regramento pelo CPC e pelo entendimento pacificado do STJ, desde que não comprometa a dignidade do devedor.
+Contrarrazões apresentadas às fls. 402-406 (e-STJ).
+O Tribunal de origem admitiu o recurso especial.
+Brevemente relatado, decido.
+Cinge-se a controvérsia em analisar a possibilidade de penhorar percentual dos rendimentos do executado para o pagamento da dívida não alimentar, diante da mitigação da regra de impenhorabilidade absoluta.
+A respeito do tema, o Tribunal local assim se manifestou (e-STJ, fls. 299-301 ):
+A controvérsia do presente recurso se restringe à possibilidade de penhora de 30% dos valores recebidos pelo agravado até o pagamento integral da dívida, para fins de pagamento de crédito não alimentar.
+Pela dicção do disposto no inciso X, art. 7º, CF, o salário do trabalhador tem caráter alimentar e é inviolável, pois destina-se ao sustento deste e de sua família, in verbis:
+"Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
+X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;"
+O artigo 833, CPC, dispõe sobre as rendas impenhoráveis. Vejamos:
+"Art. 833. São impenhoráveis:
+(..) IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º."
+Com efeito, a norma é clara ao dispor sobre a absoluta impenhorabilidade dos vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios (dentre outras verbas destinadas à remuneração do trabalho), não podendo o julgador contrariá-la, permitindo que a penhora recaia sobre a integralidade ou parte da remuneração do devedor, salvo as exceções sabidamente admitidas.
+Sobre o tema, a jurisprudência pátria, especialmente a do Superior Tribunal de Justiça, de fato, evoluiu no sentido do reconhecimento da excepcional possibilidade de proceder-se à penhora de parte da verba considerada alimentar, inclusive para dívidas não alimentares.
+Todavia, tal mitigação se trata de medida excepcional, ou seja, deve ser adotada tão somente em situações nas quais não haja outra forma de satisfação do crédito, bem como se demonstrada a possibilidade de penhora mensal de valores sem prejuízo da subsistência do devedor e de sua família.
+Portanto, antes do deferimento da medida excepcional de relativização da penhora de salário é importante a realização das diligências ordinárias de buscas de bens em nome dos devedores e que estas sejam infrutíferas. Além disso, não se pode falar em preferência na ordem de penhora por equiparação a dinheiro (CPC, 835, inc. I), uma vez que não se confundem e a regra é a impenhorabilidade da verba de natureza alimentar.
+Atente-se que, na execução, existindo mais de uma forma para satisfação do crédito executado deve ser observado o meio menos gravoso ao devedor, nos termos do artigo 805, caput, do Código de Processo Civil.
+No caso dos autos, tal como restou consignado na decisão agravada, sequer foi realizada pesquisa via Renajud e Infojud, cujos dados extraídos da Receita Federal poderiam auxiliar na demonstração dos bens existentes em nome do devedor.
+ ..
+Do excerto acima transcrito, depreende-se que o Tribunal de origem, apesar de reconhecer o atual entendimento desta Corte Superior, no sentido de admitir a relativização da regra da impenhorabilidade das verbas de natureza salarial, indeferiu, neste momento, o pedido de penhora de percentual dos rendimentos líquidos da parte recorrida por considerar necessária, primeiramente, a realização de diligências de buscas de bens em nome dos devedores, em observância ao art. 805, caput, do Código de Processo Civil.
+Essa ponderação foi extraída da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, não conheço do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIOS E PROVENTOS. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. CONCLUSÃO NO SENTIDO DE IMPOSSIBILIDADE DA PENHORA NESTE MOMENTO PROCESSUAL, DIANTE DAS PECULIARIDADES DO CASO CONCRETO. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
