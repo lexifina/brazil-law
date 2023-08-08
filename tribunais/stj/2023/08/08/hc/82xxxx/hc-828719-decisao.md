@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTHAVO HENRIQUE LIMA DE PAULA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o paciente foi inicialmente condenado às penas de 06 (seis) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, e 170 (cento e setenta) dias-multa, pela sentença de fls. 220-240, por infração ao art. 157, §2º, I, II e V, do Código Penal e ao artigo 33, caput, e § 4º, da Lei 11.343/2006.
+A defesa e a acusação interpuseram recursos de apelação ao Tribunal de origem, que deu parcial provimento ao apelo ministerial e negou provimento ao apelo defensivo, para manter a pena, na segunda etapa, no patamar de 05 (cinco) anos de reclusão, bem como para, na terceira etapa da dosimetria, afastar a redutora do tráfico privilegiado, ficando as penas do paciente, quanto ao delito de tráfico de entorpecentes, fixadas definitivamente em 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa, nos termos do acórdão juntado às fls. 426-431.
+No presente writ, o impetrante sustenta sofrer coação ilegal em razão da negativa à causa especial de diminuição de pena do parágrafo 4º do art. 33 da Lei 11.343/2006.
+Requer, ao final, a concessão da ordem para reconhecer o privilégio do parágrafo 4º do art. 33 da Lei n. 11.343/2006, em seu patamar máximo.
+O pedido liminar foi indeferido às fls. 467-468.
+Informações prestadas às fls. 474-485.
+O Ministério Público Federal, às fls. 494-497, opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+O impetrante sustenta a ilegal negativa ao privilégio do parágrafo 4º do art. 33 da Lei n. 11.343/2006 na terceira etapa da dosimetria.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange ao tráfico privilegiado, o parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, diversamente do que aponta a defesa, a redutora não foi afastada apenas com base na existência de ação penal em andamento (REsp n. 1.977.027/PR, Terceira Seção, Rel. Ministra Laurita Vaz, DJe de 18/8/2022) ou, exclusivamente, em razão da apreensão de 01 porção de cocaína pesando 68,45 g e de 03 porções de maconha, pesando 1,045,530kg (HC 709.541/SC, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 25/04/2022), mas em razão das circunstâncias concretas de cometimento do delito, aptas a demonstrar a dedicação do paciente às atividades criminosas.
+Com efeito, consoante assinalado pelas instâncias ordinárias, o delito foi praticado no contexto do crime de roubo de uma carga de cigarros, triplamente majorado, o qual foi cometido, ressalto, de forma violenta, inclusive com o emprego de arma de fogo, restrição da liberdade da vítima e concurso de agentes.
+Ademais, depreende-se dos autos que foram também apreendidos balança e embalagens tipo zip lock, corroborando com a conclusão das instâncias ordinárias.
+Trata-se, portanto, de elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente efetivamente se dedicava às atividades criminosas, es tando a fundamentação da Corte de origem em consonância com o entendimento deste Superior Tribunal de Justiça.
+Nesse sentido: AgRg no HC n. 762.571/RS, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 14/6/2023; e AgRg no HC n. 800.677/RJ, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 28/4/2023
+Desconstituir as conclusões da Corte de origem demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Nesse sentido: AgRg no HC n. 725.431/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 4/4/2022; AgRg no REsp n. 1.905.895/SP, AgRg no HC n. 747.450/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), DJe de 23/8/2022; AgRg no HC n. 738.450/RS, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 19/5/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se e intime-se.
