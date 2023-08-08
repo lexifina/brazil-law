@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MARILSON GERALDO DA SILVA VIANA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Norte, que não admitiu o recurso especial manejado com apoio no art. 105, III, alínea "a", da Constituição da República.
+Nas razões recursais, a defesa alega violação do art. 157, § 2º, inciso VII, do Código Penal.
+Aduz, em suma, que as instâncias ordinárias elevaram a pena em 2/3, diante do emprego de arma branca, quando deveriam ter aplicado a fração legalmente prevista de 1/3.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ, fls. 231-236).
+O recurso foi inadmitido (e-STJ, fls. 237-240). Daí este agravo (e-STJ, fls. 241-246).
+O Ministério Público Federal opina pelo não conhecimento do recurso (e-STJ, fls. 267-268).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, quanto à apontada afronta ao art. 157, §2º, inciso VII, do Código Penal, o recurso especial não foi admitido, diante do enunciado contido na Súmula 7 do STJ.
+Por outro lado, a defesa do agravante não refutou adequadamente os fundamentos da decisão agravada, apresentando razões dissociadas do caso concreto, afirmando buscar "a valoração da validade da prova obtida com o reconhecimento pessoal" (e-STJ, FL. 243).
+Como bem ponderou o Ministério Público Federal em seu parecer, "O agravante, contudo, afirmou que discutia "valoração da validade da prova obtida com o reconhecimento pessoal" e que pretendia a absolvição por inexistência de liame subjetivo entre o agravante e o autor do fato, além de reconhecimento de participação de menor importância, matérias que não foram objeto do recurso especial. Verifico, assim, que se aplicam, à hipótese, as Súmulas n. 182/STJ e 284/STF, porque não refutada a decisão agravada e porque o agravo não permite compreender a controvérsia trazida a exame" (e-STJ, fl. 268).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos d a decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016, com destaque).
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Por outro lado, observa-se a ilegalidade do acórdão no que tange à dosimetria penal, sendo de rigor, portanto, a concessão da ordem, de ofício, para readequá-la.
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Cabe destacar que a Lei n. 13.654, de 23 de abril de 2018, revogou o inciso I do §2º artigo 157 do CP, que previa o aumento de 1/3 até 1/2 (um terço até metade) no crime de roubo se a violência ou ameaça fosse exercida com emprego de arma. No mesmo passo, incluiu o §2º-A, inciso I, que instituiu o aumento da pena de 2/3 (dois terços) se a violência ou ameaça for exercida com emprego de arma de fogo.
+A circunstância de aumento da pena pelo emprego de arma de fogo no crime de roubo, antes prevista no art. 157, §2º, inciso I, do CP, não foi afastada pela Lei n. 13.654/2018, tendo ocorrido tão somente a alteração do patamar de majoração da pena.
+Por sua vez, na hipótese dos autos, a Corte local manteve o aumento da pena em 2/3, pelo emprego de arma branca, quando deveria ter observado o disposto no art. 157, § 2º, inciso VII, do Código Penal, já que não se trata do emprego de arma de fogo.
+Passo, portanto, ao redimensionamento da pena imposta ao agravante.
+Na primeira fase, mantenho a pena-base fixada em 5 anos e 6 meses de reclusão, diante da consideração desfavorável da culpabilidade e das circunstâncias do delito.
+Na segunda fase, não há agravantes ou atenuantes.
+Na terceira fase, mantenho a redução da pena em 1/3, diante do reconhecimento da participação de menor importância, restando fixada em 3 anos e 8 meses de reclusão, e pagamento de 8 dias-multa.
+Por fim, com amparo no art. 157, §2º, inciso VII, do Código Penal, aumento a pena em 1/3, em razão do emprego de arma branca (faca), de modo que a pena definitiva fica estabelecida em 4 anos, 10 meses e 20 dias de reclusão, e pagamento de 10 dias-multa. Mantenho o regime inicial fechado, diante do quantum da pena e da existência de circunstâncias judiciais desfavoráveis, que ocasionaram a fixação da pena-base acima do mínimo legal.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial. Concedo habeas corpus, de ofício, a fim de alterar a fração da causa de aumento referente ao emprego de arma branca para 1/3, redimensionando a pena imposta ao agravante, nos termos da fundamentação.
+Publique-se. Intimem-se.
