@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO AMAZONAS, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/AM, assim ementado (fl. 21):
+EMENTA: AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FAZENDA PÚBLICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. PLANILHA DE CÁLCULOS NÃO APRESENTADA. PROVA. ÔNUS DO IMPUGNANTE. ARTIGO 535, §2º DO CPC. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. Alegando a parte executada a existência de excesso na execução, a impugnação deverá apontar o valor que entende correto e estar lastreada pela memória de cálculo, sob pena de não ser conhecida a alegação (artigo 535, §2º do CPC);
+2. Recurso conhecido e desprovido. (grifos no original)
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, § 1º, IV e 1022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: (a) reconhecimento de que o Estado do Amazonas apresentou sua impugnação aduzindo excesso de execução, indicando o valor que entendia correto, bem como apresentando a planilha de cálculos, tudo em conformidade ao mandamento processual; e (b) reconhecimento de que houve erros de cálculo por inclusão de parcelas indevidas, correção monetária em duplicidade, com a consequente aplicação de índice indevido.
+Quanto às questões de fundo, sustenta ofensa: (a) ao artigo 535, IV e § 2º, do CPC/2015, no que concerne ao reconhecimento de que, no presente caso, o Estado do Amazonas se desincumbiu do seu ônus, indicando o valor que entendia correto e a planilha de cálculo, demonstrando excesso de execução da parte; e (b) ao artigo 494, I, do CPC/15, sustentando que a correção do erro de cálculo não implica em violação a coisa julgada.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 107-108.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se ter a Corte de origem assentado a compreensão de que (fls. 22-23):
+ ..
+A parte agravante alegou excesso na execução, porém não apresentou memória de cálculo nem apontou o valor que entende como sendo devido.
+Sabe-se que a impugnação ao cumprimento de sentença constitui-se em incidente processual, competindo à parte impugnante o ônus da prova de suas alegações. Alegando a parte agravante a existência de excesso na execução, deverá declarar na petição o valor que entende devido e instruí-la com a planilha de cálculos, demonstrando suas razões, sob pena de de não conhecimento deste argumento (artigo 535, §2º do CPC).
+No caso em voga, a parte agravante não apontou o valor que entende correto nem provou, através de memória de cálculo, o excesso da execução, deixando de comprovar o que fora alegado na impugnação, o que, inevitavelmente, conduz o julgador ao não conhecimento dos embargos à execução com relação a este argumento.
+ ..
+Desse modo, não deve ser conhecido o argumento de excesso na execução ante a ausência de planilha de cálculos a embasá-lo, motivo pelo qual o decisum não merece reparos.
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos 489 e 1.022 do CPC/2015.
+No mérito, no que diz respeito aos artigos 535 e 494 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que "não deve ser conhecido o argumento de excesso na execução ante a ausência de planilha de cálculos a embasá-lo".
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão do excesso de execução, da forma como pretendida nas razões do recurso especial, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ilustrativamente.
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. REAJUSTE DE 3,17%. LIMITAÇÃO À DATA DA REESTRUTURAÇÃO DA CARREIRA. TEMA 804/STJ. OFENSA À COISA JULGADA. INEXISTÊNCIA. EXCESSO DE EXECUÇÃO. ANÁLISE. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há que se falar em violação do art. 535, II, do CPC/1973, uma vez que o Tribunal de origem se manifestou sobre todas as questões relevantes ao deslinde da controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade a ensejar a anulação do acórdão por esta Corte.
+2. O STJ, nos termos do Tema 804 (REsp 1.371.750/PE), assentou que "o pagamento do reajuste de 3,17% está limitado à data da reestruturação ou reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225-45/2001, não configurando tal marco o advento da Lei 9.678, de 3 de julho de 1998, que estabeleceu a Gratificação de Estímulo à Docência - GED, uma vez que esse normativo não reorganizou ou reestruturou a carreira dos servidores públicos do magistério superior lotados em instituições de ensino dos Ministérios da Educação e da Defesa". Logo, não há violação da coisa julgada quando há limitação do reajuste de 3,17% à data da reestruturação da carreira.
+3. A análise quanto à existência de possível excesso de execução implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. I ncide no caso a Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1733542/RJ, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/04/2023, Dje de 28/04/2023)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE COTEJO ANALÍTICO. AUSÊNCIA DE REFUTAÇÃO ESPECÍFICA DE FUNDAMENTOS BASILARES DO ACÓRDÃO A QUO.
+INCIDÊNCIA DO ÓBICE DA SÚMULA 283/STF. EXCESSO DE EXECUÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa. Desse modo, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, pois o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+2. Verifica-se que o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, quais sejam, o de que, por se tratar de procedimento não autônomo, é válida a citação da liquidação por artigos realizada na pessoa do advogado constituído nos autos, bem como o de que teria ocorrido a preclusão da matéria.
+3. Dessa forma, restando fundamentos inatacados no aresto a quo, suficientes para a manutenção do decisum, é certo que o apelo nobre esbarra no óbice da Súmula 283/STF.
+4. Quanto ao alegado excesso de execução, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar a incorreção do valor cobrado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1793442/MA, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 21/02/2022, Dje de 24/02/2022)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
