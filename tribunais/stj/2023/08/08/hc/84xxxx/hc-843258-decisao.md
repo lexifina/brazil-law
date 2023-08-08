@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME FIRMINO DA CONCEICAO contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco na Apelação n. 0001202-23.2022.8.17.4001.
+Consta nos autos que o Paciente foi condenado às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incurso no art. 33, caput, c.c. o art. 40, inciso IV, ambos da Lei n. 11.343/2006, em razão da apreensão de 15,567g de crack.
+A Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+Neste writ, a Impetrante alega que não houve fundamentação idônea para a exasperação da pena-base.
+Requer a redução da pena-base ao mínimo legal.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta." (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime.
+Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+No caso, o Tribunal de origem destacou que "a pena-base foi exasperada em apenas 6 meses por se tratar de pequena quantidade de droga, sem desconsiderar, contudo, a sua natureza (crack)" (fl. 25).
+Como se vê, a fixação da pena-base do Paciente acima do mínimo legal se deu em razão da natureza do entorpecente apreendido. No entanto, a quantidade de droga apreendida - 15,567g de crack -, não tem o condão de demonstrar, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+Em verdade, a natureza da droga apreendida, isoladamente considerada, não constitui fundamento suficiente para majorar a pena-base. As circunstâncias da natureza e quantidade de drogas, previstas no art. 42 da Lei n. 11.343/06 devem ser avaliadas proporcional e conjuntamente, conforme as peculiaridades do caso concreto.
+Sobre o tema, confiram-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 e não obstante o crack seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido." (AgRg no HC n. 669.398/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/10/2021, DJe 28/10/2021, sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUMENTO DA PENA-BASE. LESIVIDADE DA DROGA. QUANTIDADE NÃO EXORBITANTE (84,74 G DE CRACK). CONSTRANGIMENTO ILEGAL EVIDENCIADO. PENA REDIMENSIONADA NA
+PRIMEIRA FASE DA DOSIMETRIA.
+1. Não obstante a lesividade da droga, a referida quantidade de substância ilícita, apesar de relevante, não se mostra exorbitante a ponto de justificar o recrudescimento da pena-base. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC n. 676.140/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/06/2022, DJe 27/06/2022.)
+É importante salientar que a natureza e a quantidade da droga são elementos que integram um vetor judicial único, não sendo possível cindir a sua análise. Somente quando examinadas em conjunto será possível ao julgador compreender adequadamente a gravidade concreta do fato e proceder à devida individualização da pena, que é o objetivo almejado pelo legislador com as disposições do art. 42 da Lei n. 11.343/2006.
+Sobre o tema, já decidiu o Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PRESENTE SITUAÇÃO APTA A EXCEPCIONAR ESSE ENTENDIMENTO. DOSIMETRIA DA PENA. QUANTIDADE E NATUREZA DA DROGA. VETOR ÚNICO. VALORAÇÃO NEGATIVA DA QUANTIDADE DA DROGA NA PRIMEIRA FASE E DA NATUREZA NA TERCEIRA FASE DA DOSIMETRIA. BIS IN IDEM. OCORRÊNCIA.
+1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal, ressalvado, nesta última hipótese, serem os fatos incontroversos e presente situação excepcional de flagrante ilegalidade ou teratologia que autorize a concessão da ordem de ofício (HC 139.741/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.4.2019, v.g.).
+2. A natureza e a quantidade da droga devem ser analisadas conjuntamente, nos termos do art. 42 da Lei 11.343/2006.
+3. Inadmissível considerar separadamente, em fases distintas da dosimetria da pena, a natureza e a quantidade, por constituírem circunstância judicial única, portanto, incindível, pois somente quando avaliadas em conjunto - natureza e quantidade - será possível exercer juízo valorativo adequado e atingir os fins almejados pelo legislador.
+4. Detectada a ocorrência de bis in idem por terem as instâncias anteriores valorado negativamente a quantidade da droga na primeira fase e a sua natureza na terceira fase da dosimetria.
+5. A jurisprudência dominante desta Suprema Corte é no sentido de que as circunstâncias da natureza e da quantidade de droga apreendida com o acusado de tráfico devem ser levadas em consideração apenas em uma das fases da dosimetria da pena. Precedentes.
+6. Agravo regimental conhecido e não provido." (AgRg no RHC 169343, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 08/06/2021, DJe-125, 25/06/2021, sem grifos no original.)
+Assim, a pena-base deve ser fixada no mínimo legal.
+Passo ao redimensionamento da pena-base do acusado.
+Na primeira fase, fixo a pena-base no mínimo legal de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda etapa, presente a agravante da reincidência, mantenho o aumento operado pelas instâncias ordinárias, tão-somente na pena privativa de liberdade, de 6 (seis) meses, resultando em 5 (cinco) anos e 6 (seis) meses de reclusão e 500 (quinhentos) dias-multa.
+Na terceira fase, presente a causa de aumento do art. 40, inciso IV, da Lei n. 11.343/2006, fica também mantido o aumento da pena privativa de liberdade em 1/6 (um sexto), ficando em 6 (seis) anos e 5 (cinco) meses de reclusão e 500 (quinhentos) dias-multa.
+Diante da reincidência do réu, e fixada pena acima de 4 (quatro) anos de reclusão, mantenho o regime fechado para início de cumprimento da pena.
+Ante o exposto, CONCEDO a ordem de habeas corpus para, reformando o acórdão impugnado e a sentença condenatória, redimensionar as penas do Paciente, nos termos acima explicitados.
+Oficie-se, com urgência, ao Tribunal de Justiça do Estado de Pernambuco e ao Juízo de primeira instância, comunicando-lhes o inteiro teor da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE PELA NATUREZA DE DROGA APREENDIDA. QUANTIDADE NÃO EXCEPCIONAL DE DROGA. ILEGALIDADE. PENA REDIMENSIONADA. ORDEM DE HABEAS CORPUS CONCEDIDA.
