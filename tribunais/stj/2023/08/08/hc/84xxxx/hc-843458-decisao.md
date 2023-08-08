@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jose Mateus Felix Moura - atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (HC n. 2188898-60.2023.8.26.0000 - fls. 92/122) que manteve a conversão da prisão em flagrante do paciente, ocorrida em 22/7/2023, pela prática, em tese, do crime de tráfico de drogas (1,09 g de maconha e 0,5 g de crack - fl. 23), em preventiva nos Autos n. 1500229-64.2023.8.26.0555 (fls. 70/72), da 3ª Vara Criminal da comarca de São Carlos/SP -, não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar, ao argumento de deficiência de fundamentação do decreto preventivo: dado que os fatos utilizados somente compõem as elementares do delito vislumbrado no auto de prisão em flagrante (fl. 5).
+Da atenta análise dos autos observa-se que o decreto prisional demonstrou de forma fundamentada o receio de perigo gerado pelo estado de liberdade à ordem pública, destacando a reiteração delitiva - o indiciado, há menos de 1 ano, em 30/11/2022, foi preso em flagrante por tráfico de entorpecentes, sendo beneficiado com a liberdade provisória. O processo criminal está em andamento, e, mesmo assim, segundo os elementos provisórios colhidos, voltou a praticar o mesmo crime (fl. 71) - elemento suficiente para justificar a manutenção do acautelamento cautelar.
+A propósito: a decretação da prisão preventiva está suficientemente fundamentada, tendo sido amparada no risco concreto de reiteração delitiva, pois, a despeito da pequena quantidade de drogas, ele responde a outro processo pelo crime de tráfico e estava em gozo de liberdade provisória (AgRg no HC n. 747.174/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe 27/6/2022).
+Em razão disso, indefiro liminarme nte a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (1,09 G DE MACONHA E 0,5 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
