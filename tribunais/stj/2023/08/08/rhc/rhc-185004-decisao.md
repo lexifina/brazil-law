@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por CARLOS FERNANDO JUNQUEIRA SERIBELI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2121375-31.2023.8.26.0000).
+Infere-se dos autos que o recorrente foi preso em flagrante em 10/5/2023, custódia convertida em preventiva, por suposta infração aos arts. 180 e 288 do Código Penal e ao art. 16 da Lei n. 10.826/2003.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 220):
+HABEAS CORPUS - Receptação qualificada, cumulada com associação criminosa - Conversão do flagrante em prisão preventiva e posterior manutenção, motivadas - Pedido de liberdade provisória - Indícios de autoria e de materialidade delitivas presentes - Denúncia - Gravidade concreta - Inteligência dos artigos 312 e 313 do Código de Processo Penal - Requisitos objetivos e subjetivos verificados - Decisões bem fundamentadas - Liberdade provisória incabível - ORDEM DENEGADA.
+Nas razões do presente recurso, a defesa alega, em síntese, não haver fundamentação concreta para justificar a manutenção da custódia cautelar, ressaltando que "uma das justificativas utilizadas para fundamentar a r. decisão se baseia em elementos fugazes e incertos, não tendo a força necessária para fundamentar a negativa da liberdade provisória e a manutenção de uma prisão preventiva totalmente desnecessária." (e-STJ fl. 245).
+Sustenta que o filho do ora recorrente assumiu a propriedade da arma e do bem subtraído e ainda esclareceu que "Carlos nunca participou e nem tinha conhecimento, sendo que, apontar a existência de materialidade do crime de associação criminosa previsto no artigo 288 do Código Penal, é no mínimo prematuro." (e-STJ fl. 245).
+E conclui afirmando não estarem presentes, portanto, os requisitos autorizadores da medida constritiva cautelar previstas no art. 312 do CPP. Insiste não haver indicativo de qualquer ameaça a ordem pública, de interferência na instrução criminal ou de risco a aplicação da lei penal.
+Sublinha ser o recorrente primário e detentor de bons antecedentes, além de possuir ocupação lícita e residência fixa, defendendo serem suficientes, no caso, a aplicação de medidas cautelares alternativas.
+Aduz, por fim, que o acórdão impugnado indeferiu o pedido de substituição da custódia cautelar por medidas alternativas sem apresentar qualquer fundamentação.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do recorrente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+É o relatório. Decido.
+De plano, verifico que nesta Corte, também, houve a impetração do HC n. 837.878/SP, em favor do ora recorrente, requerendo, igualmente, a revogação da prisão preventiva, sob os mesmos argumentos ora apresentados e apontando o mesmo ato coator (HC n. 2121375-31.2023.8.26.0000), sendo que, em 12/7/2023, teve a liminar indeferida por esta Corte .
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Intimem-se.
