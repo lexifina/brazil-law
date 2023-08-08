@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo com fundamento na Súmula 182/STJ.
+A parte agravante afirma que impugnou específica e fundamentadamente a impossibilidade de aplicação da Súmula 83/STJ.
+Impugnação apresentada às fls. 253/261.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo à análise do agravo em recurso especial de fls. 219/222.
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do INSTITUTO NACIONAL DO SEGURO SOCIAL no qual se insurgira, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. PAGAMENTOS NA VIA ADMINISTRATIVA. FORMA DE ABATIMENTO. IRDR Nº 14 DO TRF4.
+1. O abatimento dos valores relativos a benefício diverso e inacumulável pago administrativamente deve ser limitado ao valor do benefício deferido judicialmente, zerando as competências e obstando a formação de saldo negativo, em razão da impossibilidade de desconto das prestações de natureza alimentícia recebidas de boa fé e de se converter o procedimento numa execução invertida, destinada ao desconto das parcelas indevidamente pagas.
+2. O critério adotado na conta apresentada pelo agravado está em sintonia com a tese firmada, por este Tribunal, no julgamento do IRDR nº 14, cujo enunciado é: Pelo exposto, voto por solver o IRDR estabelecendo a seguinte tese jurídica: o procedimento no desconto de valores recebidos a título de benefícios inacumuláveis quando o direito à percepção de um deles transita em julgado após o auferimento do outro, gerando crédito de proventos em atraso, deve ser realizado por competência e no limite do valor da mensalidade resultante da aplicação do julgado, evitando-se, desta forma, a execução invertida ou a restituição indevida de valores, haja vista o caráter alimentar do benefício previdenciário e a boa-fé do segurado, não se ferindo a coisa julgada, sem existência de "refomatio in pejus", eis que há expressa determinação legal paratanto.
+3. Agravo de instrumento não provido (fl. 160).
+Os embargos de declaração opostos foram rejeitados (fls. 181/185).
+Nas razões do seu recurso especial (fls. 106/111), a parte agravante alega que houve violação dos arts. 509, § 4º, 535, VI, e 1.022, II, do CPC/2015; 115, II, e 124, I, da Lei 8.213/1991; 368 e 876 do CC/2002.
+Argumenta, para tanto, que: (a) houve negativa de prestação jurisdicional; (b) "a decisão recorrida possibilitou o abatimento dos valores, porém determinou que nas competências em que o valor recebido administrativamente foi superior àquele devido em razão do julgado a dedução deve ser limitada ao valor da mensalidade resultante da aplicação do julgado" (fls. 191); (c) "a fim de evitar cumulação ilícita de benefícios previdenciários, deve-se não apenas zerar as competências em que houve gozo de benefício pago na via administrativa, mas também deduzir e/ou compensar valores a maior pagos" (fl. 192); (d) a compensação pleiteada pela autarquia não enseja o descumprimento do título judicial, uma vez que se trata de questão verificada no momento da liquidação do título.
+Com as contrarrazões (fls. 201/205), o recurso foi inadmitido na origem (fls. 208/212), o que ensejou a interposição do presente agravo (fls. 219/222).
+É o relatório.
+A irresignação não merece acolhimento.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No que se refere à matéria debatida no presente recurso, a Corte de origem assim se manifestou:
+ ..
+De qualquer modo, vale referir que o critério adotado na conta apresentada pelo agravado está em sintonia com a tese firmada, por este Tribunal, no julgamento do IRDR nº 14.
+O enunciado dessa tese é o seguinte:
+Pelo exposto, voto por solver o IRDR estabelecendo a seguinte tese jurídica: o procedimento no desconto de valores recebidos a título de benefícios inacumuláveis quando o direito à percepção de um deles transita em julgado após o auferimento do outro, gerando crédito de proventos em atraso, deve ser realizado por competência e no limite do valor da mensalidade resultante da aplicação do julgado, evitando-se, desta forma, a execução invertida ou a restituição indevida de valores, haja vista o caráter alimentar do benefício previdenciário e a boa-fé do segurado, não se ferindo a coisa julgada, sem existência de "refomatio in pejus", eis que há expressa determinação legal para tanto.
+Nesse contexto, não se justifica a atribuição de efeito suspensivo ao agravo. Ante o exposto, indefiro o pedido de atribuição de efeito suspensivo ao agravo de instrumento.
+Não há razão para alterar o entendimento inicial (fl. 164).
+Na presente hipótese, não houve a impugnação particularizada do fundamento basilar que ampara o acórdão hostilizado, qual seja, o de que a tese jurídica está firmada no julgamento do IRDR 14 do TRF4, fundamento apto, por si só, para manter o decisum combatido; assim, permite-se aplicar à espécie, por analogia, o óbice contido na Súmula 283 do STF: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. RESPONSABILIDADE TRIBUTÁRIA RECONHECIMENTO FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. ARGUMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+ ..
+5. Havendo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do especial, incide, à espécie, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+6. Agravo interno desprovido. (AgInt no REsp 1.491.638/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/8/2021, DJe 20/8/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. PIS E COFINS. CONTROVÉRSIA QUE NÃO SE CONFUNDE COM O TEMA 69/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. ARGUMENTAÇÃO RECURSAL DISSOCIADA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF.
+ ..
+3. A apresentação de razões dissociadas e a falta de impugnação específica à fundamentação adotada no acórdão, capaz por si só de manter o resultado do julgado, inviabilizam o conhecimento do recurso. Incidem à hipótese as Súmulas 284 e 283 do STF.
+4. Agravo interno não provido. (AgInt no REsp 1.927.251/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe 22/9/2021.)
+Ante o exposto, reconsidero a decisão de fls. 239/240 e conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
