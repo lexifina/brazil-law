@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELISSON BATISTA DOS SANTOS (e-STJ fls. 775/785) contra decisão monocrática de e-STJ fls. 764/767, que conheceu do agravo para não conhecer do recurso especial.
+A parte agravante alega que emerge dos elementos acidentais e circunstancias delineados no acórdão que o recorrente foi pronunciado unicamente com base nos elementos colhidos em sede inquisitorial, o que não é aceito pela jurisprudência desta Corte Superior.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. TENTATIVA DE HOMICÍDIO. INDÍCIOS DA AUTORIA E DA MATERIALIDADE. ELEMENTOS COLHIDOS NA FASE INQUISITIVA E EM JUÍZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese acerca da impossibilidade de pronúncia do acusado com base em elementos exclusivos do inquérito policial não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF.
+2. Mesmo que superado tal óbice o recurso não prosperaria.
+3. Como é cediço, a decisão de pronúncia não revela juízo de mérito, mas apenas de admissibilidade da acusação, direcionando o julgamento da causa para o Tribunal do Júri, órgão competente para julgar os crimes dolosos contra a vida. Para tanto, basta a demonstração da materialidade do fato e a existência de indícios suficientes de autoria ou de participação, conforme disciplina o art. 413 do Código de Processo Penal.
+4. Não se desconhece que é ilegal a sentença de pronúncia baseada, unicamente, em elementos colhidos durante o inquérito policial, por não se constituírem em fundamentos idôneos para a submissão da acusação ao Plenário do Tribunal do Júri. Precedentes. Ocorre que, pela leitura do acórdão recorrido, verifica-se que a sentença de pronúncia, que decidiu pela presença da materialidade e indícios da autoria delitiva, fundamentou-se em elementos colhidos na fase inquisitiva e em juízo.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+A tese acerca da impossibilidade de pronúncia do acusado com base em elementos exclusivos do inquérito policial não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF.
+No caso, a parte deveria ter apresentado embargos de declaração na origem para que o Tribunal a quo analisasse a referida questão e, se essa persistisse, imprescindível que fosse o recurso fundamentado em violação ao artigo 619 do CPP, o que não foi deito, razão pela qual subsiste patente a ausência de prequestionamento acerca da matéria.
+Mesmo que superado tal óbice o recurso não prosperaria.
+Como é cediço, a decisão de pronúncia não revela juízo de mérito, mas apenas de admissibilidade da acusação, direcionando o julgamento da causa para o Tribunal do Júri, órgão competente para julgar os crimes dolosos contra a vida. Para tanto, basta a demonstração da materialidade do fato e a existência de indícios suficientes de autoria ou de participação, conforme disciplina o art. 413 do Código de Processo Penal.
+Não se desconhece que é ilegal a sentença de pronúncia baseada, unicamente, em elementos colhidos durante o inquérito policial, por não se constituírem em fundamentos idôneos para a submissão da acusação ao Plenário do Tribunal do Júri. Precedentes: AgRg no HC n. 783.582/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgRg no HC n. 771.973/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023; AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022; HC n. 746.873/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.
+Ocorre que, pela leitura do acórdão recorrido, verifica-se que a sentença de pronúncia, que decidiu pela presença da materialidade e indícios da autoria delitiva, fundamentou-se em elementos colhidos na fase inquisitiva e em juízo.
+Abaixo, trecho do acórdão recorrido (e-STJ fls. 671):
+In casu, a decisão pronunciando os réus não revela qualquer vício, pois o Juiz a quo firmou seu convencimento com base nas declarações seguras nos autos, de várias testemunhas, que foram harmônicas em seus depoimentos e, nas provas materiais coligidas aos autos, a Certidão de Óbito, Laudo Pericial Cadavérico, Perícia do local do delito e, demais provas coligidas nos autos.
+Com efeito, à luz do que preceitua art. 413 do CPP, verifica-se que foram criteriosamente observados os pressupostos para a fustigada pronúncia. A materialidade da ocorrência está sobejamente testificada nos autos, relatório médico de fls. 117 e fotografia de fls. 33, que atestam as lesões sofridas pela vítima, bem como o laudo pericial de fls.186/191, que atestam a ocorrência do incêndio provocado na casa da vítima, entre outras, em especial os depoimentos prestados na fase inquisitiva e em juízo.
+Quanto aos indícios de autoria, os quais são necessários para a pronúncia do réu, também restaram evidenciados pelos documentos supramencionados nas audiências de instrução e julgamento e termos de declarações realizadas perante autoridade policial, relatados com riqueza de detalhes, denotando harmonia com demais provas constantes nos autos desde as investigações, como visto nos depoimentos coligidos acima.
+Em sendo assim, como existem indícios de autoria, afigura-se cabível a pronúncia do acusado/recorrente.
+Acresço, ainda, que, não se mostra crível, neste momento, a versão do réu; as provas até então colecionadas, vejo, prefacialmente, do arcabouço probatório existente nos autos, que o aqui recorrente, agiu com animus necandi .
+Destaco, que, o reconhecimento da viabilidade do prosseguimento da acusação, não admite mera possibilidade do reconhecimento da autoria ou participação, mas exige, sim, a demonstração cabal da probabilidade concreta, fundada em indícios suficientes de autoria, quanto aos fatos trazidos na Denúncia.
+Importante salientar, que, nesta fase, existe possibilidade de se entender pela imputação válida do fato contra a vida em relação ao acusado, a permitir o convencimento quanto à existência de indícios suficientes de autoria ou participação, no caso concreto.
+Desta feita, vê-se que a cognição acerca da autoria e materialidade aptas a impulsionar o processo para esta fase posterior foi lastreada tanto pelo inquérito policial acostado aos autos, como pelo laudo pericial encartado, pelas declarações que constam do procedimento administrativo e pelos depoimentos colhidos ao longo da instrução criminal.
+Nota-se que os elementos de prova até aqui produzidos encontram indícios suficientes de autoria surgidos sob o crivo do contraditório e da plenitude de defesa, os quais justificam e fundamentam uma decisão de pronúncia.
+Assim, não há qualquer ilegalidade a ser sanada.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
