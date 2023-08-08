@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROMEU NORTE PEREIRA contra decisão que não conheceu do recurso devido: a) ao princípio da unirrecorribilidade e à ocorrência da preclusão consumativa em relação recurso especial; e b) à intempestividade em relação ao agravo em recurso especial (fls. 542-643).
+Nas razões do agravo regimental, a Defesa sustenta que o agravo em recurso especial é tempestivo, pois houve a suspensão do expediente forense, no Tribunal de origem, em 19/12/2022, conforme determinado pela Portaria n. 5886/PR/2022 do TJMG.
+Alega, ainda, que não há falar em preclusão consumativa, pois a interposição dos embargos de declaração na origem em nada afetaria a tramitação do recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do agravo regimental, mantendo-se o não conhecimento do recurso (fls. 665-670).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNICIDADE RECURSAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS POR ATO NORMATIVO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. AGRAVO REGIMENTAL DESPROVIDO, COM DETERMINAÇÃO.
+1. Salvo as exceções legalmente previstas, a interposição de dois recursos, pela mesma parte e contra a mesma decisão judicial impede o conhecimento do segundo recurso interposto, em razão da preclusão consumativa e da aplicação do princípio da unirrecorribilidade recursal.
+2. O art. 1.003, § 6.º, do Código de Processo Civil, determina que o recorrente comprovará a ocorrência de suspensão dos prazos por ato normativo local no momento da interposição do recurso, não havendo previsão de cumprimento posterior da referida exigência.
+3. A decisão agravada foi publicada em 16/12/2022 (sexta-feira), iniciando-se o prazo recursal em 19/12/2022 (segunda-feira). Todavia, o recurso somente foi protocolizado em 06/02/2023, quando já encerrado o prazo recursal.
+4. Agravo regimental desprovido.
+VOTO
+Conforme a jurisprudência pacífica desta Corte Superior, salvo as exceções legalmente previstas, a interposição de dois recursos, pela mesma parte e contra a mesma decisão judicial impede o conhecimento do segundo recurso interposto, em razão da preclusão consumativa e da aplicação do princípio da unirrecorribilidade recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. RECURSO DESPROVIDO.
+1. "Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgRg no AREsp 849.518/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe de 2/8/2017).
+2. Agravo interno desprovido." (AgInt no AREsp n. 2.109.241/SP, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/09/2022, DJe 13/10/2022, sem grifos no original).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE DOIS RECURSOS SIMULTÂNEOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRETENSÃO DE APLICAÇÃO DA SÚMULA N. 579/STJ. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO ESPECIAL APRESENTADOS PELA MESMA PARTE. INTEMPESTIVIDADE DO SEGUNDO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Defesa apresentou 2 (dois) recursos desafiando o acórdão proferido pelo Tribunal de origem no julgamento da apelação, sendo o primeiro os aclaratórios, e, posteriormente, o recurso especial.
+2. No caso de interposição de 2 (dois) recursos pela mesma parte e contra o mesmo decisum, apenas o primeiro - na espécie, os aclaratórios - poderá ser conhecido, em virtude da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, ressalvada a interposição de recursos especial e extraordinário. Precedente do STJ.
+ ..
+7. Agravo regimental desprovido." (AgRg no AREsp n. 2.053.040/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 03/05/2022, DJe 06/05/2022, sem grifos no original).
+No caso, contra o mesmo acórdão, o Agravante opôs embargos de declaração em 14/06/2022 (fl. 571) e, na sequência, recurso especial em 27/06/2021 (fl. 601).
+Desse modo, revela-se correta a decisão da Presidência desta Corte Superior, que não conheceu do recurso especial posteriormente interposto, tendo em vista a preclusão consumativa e o princípio da unirrecorribilidade.
+De outra parte, a suspensão de prazos processuais por norma editada no âmbito do Tribunal local somente pode ser comprovada no momento da interposição do recurso, não sendo possível a apresentação posterior dos documentos comprobatórios, por ausência de previsão legal, conforme se extrai do art. 1.003, § 6.º, do Código de Processo Civil.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015, o que não ocorreu na hipótese dos autos. Precedentes.
+ .. " (AgRg no AREsp 1.902.212/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 317 DO CP. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO.
+1. O agravo em recurso especial mostra-se intempestivo, uma vez que interposto fora do prazo de 15 dias, conforme o disposto nos arts. 798 do CPP e 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, caput, do CPC.
+2. "A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido" (AgRg no AREsp n. 864.072/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe de 30/5/2017).
+ .. " (AgRg nos EDcl no AREsp 1.801.298/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/09/2021, DJe 07/10/2021, sem grifos no original.)
+No ato de interposição do agravo em recurso especial, o Agravante não comprovou documentalmente a existência de nenhuma norma local capaz de justificar a alegada suspensão dos prazos recursais penais no Tribunal local. Ante a ausência de comprovação de causa suspensiva no ato de interposição do recurso, os prazos devem ser computados de modo contínuo e peremptório, nos termos do art. 798 do Código de Processo Penal.
+Assim, constata-se que a decisão agravada foi publicada em 16/12/2022 (sexta-feira - fl. 614), iniciando-se o prazo recursal em 19/12/2022 (segunda-feira). Todavia, o recurso somente foi protocolizado em 06/02/2023 (fl. 617), quando já encerrado o prazo recursal.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+Comunique-se ao Juízo de origem, a fim de que sejam adotadas as providências para a realização do Júri, pois "a interposição de recursos excepcionais, por serem desprovidos de efeito suspensivo, não impede o julgamento do acusado pelo júri" (AgRg no HC 706.828/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 17/06/2022).
+É como voto.
