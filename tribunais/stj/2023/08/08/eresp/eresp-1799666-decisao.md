@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos por LUIZ CARLOS CUNHA ZANONI contra acórdão da Quarta Turma.
+Ac a o: cominatória, ajuizada por LUIZ CARLOS CUNHA ZANONI em face de UNIMED DO ESTADO DO PARANÁ - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS, pretendendo o custeio do medicamento REVLIMID 25 mg prescrito para o tratamento quimioterápico de mieloma múltiplo.
+Sentenc a: julgou procedente o pedido.
+Aco"rda o: o TJ/PR, à unanimidade, negou provimento a" apelação interposta pela UNIMED DO ESTADO DO PARANÁ - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE -MEDICAMENTO IMPORTADO (REVLIMID) - FORNECIMENTO NEGADO - AUTOR PORTADOR DE MIELOMA MÚLTIPLO (CÂNCER DE MEDULA ÓSSEA) -TRATAMENTO PRESCRITO POR MÉDICO RESPONSÁVEL PELO ATENDIMENTO DO REQUERENTE - LEGISLAÇÃO CONSUMERISTA - NULIDADE DE CLÁUSULA ABUSIVA - LIMITAÇÃO DO TRATAMENTO MÉDICO DESCABIDA - FÁRMACO QUE NÃO POSSUIA REGISTRO NA ANVISA À ÉPOCA EM QUE INICIADO O USO PELO AUTOR - IMPORTAÇÃO QUE ERA POSSÍVEL EM NOME DO PRÓPRIO PACIENTE, SEM VIOLAÇÃO AO ORDENAMENTO JURÍDICO - MEDICAMENTO, ADEMAIS, INCLUÍDO NA LISTA C3, DO ANEXO I, DA PORTARIA 344/98, EM DEZEMBRO DE 2017 - DEVER DE COBERTURA PELO PLANODE SAÚDE -IMPERIOSO CUSTEIO DO MEDICAMENTO PRESCRITO - PRECEDENTES DO STJ E DESTE TRIBUNAL -- COBERTURA DEVIDA - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Recurso especial: a Quarta Turma, no julgamento do agravo interno interposto por LUIZ CARLOS, manteve a decisão monocrática do Relator, que deu provimento ao recurso especial da UNIMED para condenar a operadora ao custeio do tratamento a partir da data do registro do medicamento na Anvisa. Eis a ementa do acórdão:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. COBERTURA DE MEDICAMENTO. SUPERVENIÊNCIA DE REGISTRO NA ANVISA. TEMA 990/STJ. MODULAÇÃO DE EFEITOS. DECISÃO MANTIDA. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+1. A análise de suposta violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+2. Pretensão de restabelecimento da procedência integral do pedido, sob o argumento de necessidade de modulação dos efeitos da tese firmada no Tema 990/STJ.
+3. Segundo a jurisprudência desta Corte, apenas deve ser reconhecido o dever de cobertura contratual a partir do efetivo registro do medicamento pela ANVISA, de forma que o reembolso fica limitado aos valores despendidos após esse fato.
+4. Aplicação da modulação de efeitos nos exatos termos em que deferida no Tema n. 990/STJ, somente para permitir a procedência parcial do pedido no caso de superveniência do registro no curso da demanda.
+5. Agravo interno a que se nega provimento.
+Embargos de divergência: aponta a existência de divergência entre o acórdão embargado e o exarado no julgamento do REsp 1.923.107/SP e do REsp 1.885.384/RJ, pela Terceira Turma.
+Alega, em síntese, que, é "incontroverso que todos os casos tratavam do mesmo assunto (obrigatoriedade de cobertura de medicamento importado sem registro na Anvisa) e enquanto os v. acórdãos divergentes entenderam corretamente pela promoção do tratamento, mesmo que ausente o registro na Anvisa, ante o direito dos beneficiários à terapêutica indicada, o v. acórdão embargado logrou decidir pela impossibilidade de cobertura de medicamento sem registro na Anvisa", bem como que "o Tema 990/STJ foi mitigado nos dois v. acórdãos colacionados nesta ocasião, não havendo que se falar, portanto, em impossibilidade de modular os efeitos do referido tema a fim de que a cobertura do medicamento do embargante seja realizada" (fl. 1.010, e-STJ).
+É O RELATÓRIO. DECIDE-SE.
+A controvérsia apontada pelo embargante diz respeito à obrigação de custeio, pela UNIMED, do medicamento REVLIMID 25 mg, no período anterior ao seu registro na Anvisa, que aconteceu apenas no curso do processo.
+Sobre essa questão, consta do acórdão embargado:
+Desse modo, apenas deve ser reconhecido o dever de cobertura a partir do efetivo registro pela ANVISA do aludido medicamento, de forma que o reembolso fica limitado aos valores despendidos após esse fato, nos exatos termos da modulação de efeitos definida no Tema 990/STJ.
+(..)
+A controvérsia, portanto, foi dirimida com base em entendimento dominante acerca do tema.
+Inaplicável, ademais, a modulação dos efeitos da tese firmada no julgamento do Tema 103/STJ, tendo em vista a ausência de similitude entre os arestos comparados. Naquele julgamento discutia-se a obrigatoriedade do Poder Público de fornecer medicamentos não incorporados em atos normativos do SUS, o que não se verifica na hipótese dos autos.
+Por outro lado, não é caso de aplicação do entendimento desta Corte, no sentido de que "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/8/2021, DJe 16/8/2021).
+Isso porque, conforme se verifica dos autos, não consta a existência de autorização da ANVISA, anteriormente ao registro, para a importação excepcional do referido medicamento para uso hospitalar ou sob prescrição médica.
+Além disso, a análise de suposta violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada. (fls. 977-978, e-STJ - grifou-se)
+Importante acrescentar que não há no acórdão embargado informação sobre ser o mieloma múltiplo enquadrado no conceito de doença rara.
+Diante disso, forçoso concluir que a hipótese dos autos não se amolda às peculiaridades descritas nos acórdãos paradigmas, que autorizam a mitigação do tema 990/STJ.
+Logo, os embargos não podem ser conhecidos pela divergência, ante a ausência da similitude fática entre os acórdãos confrontados, nos termos do que exige o art. 266, § 4º, do RISTJ.
+Forte nessas razões, com amparo nos arts. 932, III, do CPC/15 e 266-C do RISTJ, bem como na súmula 168/STJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado do embargado em virtude da interposição deste recurso, majoro em 10% os honorários devidos por LUIZ CARLOS CUNHA ZANONI (fls. 767 e 920, e-STJ), observada a eventual concessão da gratuidade de justiça.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CUSTEIO DE MEDICAMENTO EM PERÍODO ANTERIOR AO REGISTRO NA ANVISA. TEMA 990/STJ. MITIGAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Ação cominatória para custeio de medicamento em período anterior ao eu registro na Anvisa.
+2. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no art. 266, § 4º, do RISTJ.
+3. Embargos de divergência indeferidos liminarmente.
