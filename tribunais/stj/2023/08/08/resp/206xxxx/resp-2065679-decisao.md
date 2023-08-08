@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por CLAUDE NOVAIS DA SILVA contra acórdão prolatado, por unanimidade, pela 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Apelação, assim ementado (fl. 199e):
+AÇÃO ORDINÁRIA - Ação de obrigação de fazer com requerimento de antecipação de tutela - Portador de Osteocondrose Juvenil na Cabeça do Fêmur - Pedido de realização de cirurgia - Honorários devidos, em tese, à Defensoria Pública - Reconhecimento da existência de compensação - Recurso provido.
+Opostos Embargos de Declaração, forma rejeitados (fls. 212/216e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 4º, XXI, da Lei Complementar n. 80/1994, alegando-se, em síntese, ser devida a fixação de honorários advocatícios sucumbenciais em favor da Defensoria Pública.
+Com contrarrazões (fls. 262/277e), o recurso foi admitido (fl. 279e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, observo assistir razão à Recorrente.
+Isso porque, na exegese dos §§ 2º e 3º do art. 134 da Constituição da República, o Supremo Tribunal Federal firmou as teses segundo as quais: (i) É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; e (ii) O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição (Tema n. 1.002 da repercussão geral; RE n. 1.140.005/RJ, PLENÁRIO, Rel. Min. ROBERTO BARROSO, Sessão Virtual de 16.6.2023 a 23.6.2023, DJe 06.07.2023).
+Na mesma linha, destaco as seguintes decisões monocráticas desta Corte: AgInt no REsp n. 1.941.335/RJ, Rel. Min. SÉRGIO KUKINA, DJe 02.08.2023; AgInt no REsp n. 1.949.476/RN, Rel. Min. GURGEL DE FARIA; e REsp n. 2.077.218/GO, Rel. Min. FRANCISCO FALCÃO, DJe 02.08.2023.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para determinar a fixação de honorários sucumbenciais pelo tribunal de origem, nos termos expostos.
+Publique-se e intimem-se.
