@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Fabio de Jesus Pires dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2105629-26.2023.8.26.0000).
+Narram os autos que o paciente foi condenado a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do crime de roubo. Na oportunidade, foi-lhe vedado o recurso em liberdade.
+Daí o presente mandamus, em que o impetrante alega que, em 24/2/2023, foi interposta apelação criminal, o Ministério Público apresentou contrarrazões, em 28/2/2023, mas, até o momento, o processo não subiu ao Tribunal de Justiça.
+Aduz, em síntese, que o paciente está preso há 7 meses em decorrência de decisão sem fundamentação idônea.
+Destaca que o paciente está preso preventivamente só porque é reincidente, estava cumprindo pena em regime aberto, quando do acontecido e, supostamente, foi confundido com o real criminoso (fl. 6).
+Sustenta que não há justa causa para ação penal, pois não há indícios de autoria (fl. 14).
+Requer, inclusive, em liminar, a revogação da prisão mantida na sentença condenatória ou, subsidiariamente, a substituição por outras medidas cautelares.
+Indeferida a liminar, prestadas as informações de praxe, foi noticiado que, apresentadas razões e contrarrazões de apelação, os autos foram remetidos ao segundo grau em 20 de junho de 2023 (fl. 132).
+O Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, pela denegação da ordem (fls. 135/141).
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, contudo, a ordem não comporta concessão.
+Na espécie, consta do acórdão impugnado o seguinte (fl. 30 - grifo nosso): considerando-se a gravidade concreta do crime imputado e a reincidência específica do réu, visando principalmente à garantia da ordem pública, o MM. Juízo a quo decretou a custódia preventiva do paciente e a manteve, fundamentadamente.
+Com efeito, ao decretar a prisão preventiva, quando da homologação do flagrante, o Magistrado de piso disse que há reincidência, inclusive específica, na espécie, circunstância impeditiva, nos termos da lei e na eventualidade de condenação, da concessão de regime menos gravoso. Outrossim, assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão antetempus (STF, HC n. 95.118/SP, n. 94.999/SP, n. 94.828/SP e n. 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa (fl. 37).
+E, mais, continua o Juiz: no caso concreto, o autuado evidentemente quebrou a confiança que foi depositada pela Justiça Criminal, pois foi novamente detido em flagrante durante o cumprimento de pena em regime aberto (fl. 37).
+Com efeito, da leitura dos trechos acima não se vislumbra ilegalidade da decisão combatida, uma vez que concretamente fundamentada na garantia da ordem pública, evidenciada pelo risco concreto de reiteração delitiva, haja vista que o paciente é reincidente e estava cumprindo pela no regime aberto quando foi novamente preso em flagrante.
+Nesse sentido, a propósito, já decidiu esta Corte que a decisão que decretou a custódia preventiva do recorrente está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, conforme consignado, o paciente é reincidente específico, ostenta condenações penais com trânsito em julgado pela prática de roubo simples, roubo majorado e furto simples, sendo que no momento do flagrante, cumpria prisão domiciliar, além de responder processo por furto qualificado (RHC n. 98.175/MG, RIBEIRO DANTAS, QUINTA TURMA, DJe 1º/8/2018 - grifo nosso). E, mais: HC n. 541.339/RJ, Ministra LAURITA VAZ, SEXTA TURMA, DJe 2/3/2020.
+Com razão a nobre parecerista quando destacou, em seu parecer, que, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão (fl. 141).
+Ante o exposto, à vista do parecer, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO. PRISÃO MANTIDA NA SENTENÇA CONDENATÓRIA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DOS CRIMES. REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
