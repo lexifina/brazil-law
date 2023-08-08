@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Jackson Rodrigo Santana, no qual se aponta como ato coator o acórdão proferido pelo Tribunal de Justiça do Paraná que negou provimento ao Agravo em Execução n. 4000459-45.2023.8.16.4321, pelos fundamentos sintetizados na seguinte ementa (fl. 49):
+EXECUÇÃO DA PENA. 1) - DATA BASE. INDEFERIMENTO DE PEDIDO DE ALTERAÇÃO RELATÓRIO DA SITUAÇÃO PROCESSUAL EXECUTÓRIA. MANUTENÇÃO DO DIA DA ÚLTIMA PRISÃO PARA AFRUIÇÃO DOS BENEFÍCIOS. INCONFORMISMO DO REEDUCANDO. ALEGAÇÃO DE AUSÊNCIA DE HOMOLOGAÇÃO DE FALTA GRAVE EM RAZÃO DA PRÁTICA DE NOVO CRIME. NÃO ACOLHIMENTO. DECISÃO EM CONSONÂNCIA COM PRECEDENTES DA CORTE SUPERIOR E DESTE TRIBUNAL DE JUSTIÇA. 2)- COMUTAÇÃO DE PENA. PLEITO DE CONCESSÃO COM BASE NO DECRETO PRESIDENCIAL Nº 9246/2017. INVIABILIDADE. APENADO QUE NÃO CUMPRIU 1/3 DO SOMATÓRIO DAS PENAS E 2/3 EM RELAÇÃO AOS CRIMES IMPEDITIVOS. REQUISITO OBJETIVO NÃO PREENCHIDO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Insurge-se a impetrante quanto às decisões das instâncias ordinárias que fixaram a data da última prisão como data-base para o cálculo de futuros benefícios.
+Afirma que, apesar da posição exarada pela Câmara Criminal do TJPR, a não homologação da falta grave altera por completo a solução jurídica do caso concreto. Isso porque a razão de decidir fixada pela Terceira Seção do STJ ao reconhecer que a data-base deve corresponder à última prisão somente existe na medida em que tal prisão é também uma falta grave. Assim, ao se considerar a data-base oriunda desta falta grave após a homologação judicial ou da condenação se estaria ignorando o lapso temporal de prisão cautelar a que o apenado foi submetido, configurando excesso de execução (fl. 7 - grifo nosso).
+Acrescenta que, sem a homologação da falta grave correspondente à prática de novo crime, não há como extrair efeitos jurídicos da prisão em flagrante, pois esta não foi reconhecida judicialmente no bojo da execução (fl. 7).
+Pugna, inclusive liminarmente, pela concessão da ordem.
+Em 29/5/2023, indeferi o pedido liminar (fls. 58/59).
+Prestadas as informações (fls. 66/69), o Ministério Público Federal opinou pelo não conhecimento da impetração (fl. 73).
+É o relatório.
+O presente pedido não comporta acolhimento, pois as decisões das instâncias ordinárias se encontram em consonância com o entendimento deste Superior Tribunal, firme no sentido de que, nos termos do precedente firmado no julgamento do Recurso Especial n. 1.557.461/SC, de relatoria do Ministro Rogerio Schietti Cruz, a superveniência do trânsito em julgado da sentença penal condenatória não serve de marco inicial para a concessão de novos benefícios na execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave (AgRg no HC 667.552/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2022).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. DATA-BASE PARA FINS DE NOVOS BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. DECISÕES HOSTILIZADAS EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
