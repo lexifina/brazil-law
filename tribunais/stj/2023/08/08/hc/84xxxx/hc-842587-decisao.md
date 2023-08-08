@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE ALLYSON GONZAGA BARROS contra decisão do Tribunal de Justiça do Estado de Pernambuco no HC n. 0010300-36.2023.8.17.9480.
+Consta dos autos que a prisão temporária do Paciente foi decretada em 17/06/2022, pela prática, em tese, do crime previsto no art. 121, § 2.º, incisos II e IV, do Código Penal ocorrido no dia 05/06/2022, sendo posteriormente convertida em prisão preventiva (fl. 104).
+Segundo a denúncia (fl. 80; original com grifos diversos):
+" ..  na madrugada do dia 05 de junho de 2022, nas proximidades da ponte da entrada da cidade, neste Município, o denunciado, mediante disparos de arma de fogo, por motivo fútil, mediante recurso que tornou impossível a defesa da vitima, ceifou a vida de Vinicius Miranda Ricardo, conforme as lesões descritas na perícia tanatoscópica de fls. 45/53.
+Infere-se do inquérito policial em anexo, que a vitima e o acusado estavam ingerindo bebidas alcoólicas em um bar/restaurante em Garanhuns/PE, quando decidiram retornar para esta cidade. Por estar embriagada, a vitima deixou que o denunciado dirigisse seu veiculo, porém, logo após chegar a cidade de Correntes, foi surpreendido pelo denunciado ao ser alvejado com disparos de arma de fogo.
+O certo é que, no dia, hora e local acima indicados, o imputado, sem oportunizar qualquer meio de defesa á vitima, aproveitando-se do seu estado de embriaguez, disparou dois tiros na cabeça de Vinícius, conforme laudo pericial de exame veicular de fis.143, tendo em vista que é relatado uma mancha de sangue gerada ao sentido contrário do projétil, o que indica um tiro a curta distância ou encostado, além de que os disparos foram realizados do lado esquerdo da vitima, onde era justamente o lado em que o indiciado estava.
+Consoante se depreende ainda no inquérito policial, a vitima teria emprestado para o denunciado uma quantia considerável por meio de transferência pix, o que motivou o crime, caracterizando-se, assim, o motivo fútil, já que vitima e denunciado mantinham uma certa amizade.
+O modus operandi do delito impossibilitou a defesa do ofendido, eis que, conforme consta do caderno inquisitorial, o executor se aproveitou do estado de embriaguez da vitima, e sem que ela tivesse qualquer chance de oferecer algum modo de resistência ou defesa, desferiu-lhe disparos fatais na região da cabeça.
+ .. ".
+O Réu foi pronunciado no dia 08/05/2023, sendo, na ocasião, mantida a prisão preventiva do Acusado (fls. 61-67).
+Inconformada, a Defesa do Paciente impetrou habeas corpus originário, que foi denegado, nos termos de acórdão assim ementado (fls. 110-111):
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. EXCESSO DE PRAZO. INOCORRÊNCIA. RÉU PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21, DO STJ. AUSÊNCIA DE DESÍDIA DA AUTORIDADE IMPETRADA. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE. PREENCHIDOS OS REQUISITOS LEGAIS. DECISÃO HÍGIDA E DEVIDAMENTE FUNDAMENTADA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. SÚMULA 86 DO TJPE. DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME.
+1. Hipótese em que o réu foi pronunciado por praticar homicídio duplamente qualificado. A prisão preventiva foi decretada para garantia da ordem pública, conveniência da instrução criminal e para assegurar a aplicação da lei penal. Há fortes indícios de autoria. A necessidade da prisão preventiva foi revisada recentemente. Há elementos concretos que legitimam a segregação cautelar.
+2. Cotejando o decreto de prisão preventiva, percebe-se que a cautelar extrema lastreia-se em fundamentação hígida, pois o juízo a quo consignou a presença do fumos comissi delicti com base no acervo probatório dos autos, bem como consignou que o perigo no estado de liberdade do imputado, ora paciente, exsurge das evidências contidas nos autos confirmadas durante a instrução.
+3. In casu, houve prolação de sentença de pronúncia, estando o feito aguardando o julgamento do recurso em sentido estrito interposto pela defesa para designação de data para a sessão de julgamento. A Autoridade Impetrada tem sido diligente na condução do feito. O processo tem impulso regular dentro das circunstâncias que o caso requer. Trata-se, portanto, de situação excepcional em que não houve desídia do órgão judicante e que atrai a aplicação direta do enunciado da Súmula nº 21 do STJ.
+4. Denegação da ordem.
+5. Decisão unânime."
+Nas razões do writ, o Impetrante alega ausência de fundamentação idônea do decreto prisional e dos requisitos para decretação e manutenção da prisão preventiva do Acusado.
+Sustenta nulidade processual em razão da ausência de intimação da Defesa para fins de sustentação oral expressamente requerida nos autos.
+Salienta ausência de contemporaneidade dos fatos e de fundamentação pormenorizada para não aplicação de medidas cautelares menos gravosas.
+Defende ser adequado e proporcional a aplicação de medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Busca, inclusive liminarmente, a revogação da prisão preventiva mediante a imposição de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal, e a expedição de alvará de soltura em favor do Paciente.
+É o relatório.
+Decido.
+No que diz respeito às teses de nulidade em razão da ausência de intimação da Defesa para fins de sustentação oral bem como de ausência de contemporaneidade dos fatos, observo que as questões suscitadas não foram apreciadas pelo Tribunal a quo, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+No que diz respeito aos requisitos da prisão preventiva, no caso, não é possível analisar a viabilidade do pleito deduzido, pois a Parte Impetrante não acostou aos autos cópia das peças processuais necessárias à compreensão da controvérsia, notadamente inteiro teor do decreto de prisão preventiva.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ .
+No mesmo sentido: HC n. 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 08/05/2019; HC n. 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n. 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 08/05/2019; HC n. 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Ante o exposto, NÃO CONHEÇO da ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. TESE DE AUSÊNCIA DE INTIMAÇÃO DA DEFESA PARA FINS DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE CONTEMPORANEIDADE DOS FATOS. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
