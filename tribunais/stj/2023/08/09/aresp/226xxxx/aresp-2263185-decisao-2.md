@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DO RIO DE JANEIRO, às fls. 661-669, contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 584):
+Direito Ambiental. Direito Processual Público. Loteamento e construção irregular em área de especial interesse ambiental e área de proteção ambiental. Decreto Municipal nº 42.659/2016 e Lei Municipal nº 2.835/1999. Condições da ação aferíveis pela técnica da asserção. Ilegitimidade passiva do Estado configurada. Dever de fiscalização do meio ambiente que é de competência comum dos entes federativos. Art. 23 da CR. Falha do Município no exercício do poder de polícia. Responsabilidade civil do Município configurada. Responsabilidade civil que é objetiva e solidária. Art. 14, § 1º, da Lei nº 6.938/81. Precedente do STJ. Necessidade de se reconhecer a culpa concorrente para responsabilizar os condenados na exata medida em que concorreram para a infração. Apuração da culpa concorrente a ser aferida na fase de liquidação de sentença. Possibilidade de cumulação de condenação à obrigação de fazer e pagar. Princípio da reparação integral do dano que tutela o direito transindividual. Verba reparatória que deve ser destinada ao Fundo Municipal de Conservação Ambiental com base no critério de predominância de interesse. Primeira apelação parcialmente provida. Segundo apelo provido.
+Embargos de declaração rejeitados (fls. 718-721).
+No recurso especial o recorrente alega violação dos arts. 3º, IV e 14, §1º da Lei 6.938/1981 e arts. 1º e 17 da Lei Complementar 140/2011, ao argumento de que deve ser reconhecida a responsabilidade do estado do Rio de Janeiro e de que o esgotamento das medidas administrativas pelo ente municipal, à exceção daquelas que en volvem medidas manu militari, são suficientes para afastar a sua responsabilização.
+Com contrarrazões.
+Neste agravo afirma que o recurso especial interposto satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 1.114-1.123).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+Isso porque, no que se refere aos arts. 3º, IV e 14, §1º, da Lei 6.938/1981, o recurso especial encontra-se prejudicado.
+Com efeito, o recurso do Ministério Público do Estado do Rio de Janeiro, parte adversa, no ponto, foi provido para reconhecer a responsabilidade solidária de execução subsidiária do estado do Rio de Janeiro decorrente da ação civil pública, razão pela qual o pleito fundado nos referidos dispositivos legais, com a mesma pretensão do Parquet estadual, não pode ser conhecido.
+No que diz respeito aos arts. 1º e 17 da Lei Complementar 140/2011 e a tese a eles vinculada, de que o esgotamento das medidas administrativas pelo ente municipal, à exceção daquelas que envolvem medidas manu militari, são suficientes para afastar a sua responsabilização, verifica-se que não houve juízo de valor por parte da Corte de origem, tampouco foram opostos embargos de declaração pelo ora recorrente para sanar eventual omissão em relação aos referidos dispositivos legais, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplicam-se ao caso as Súmulas 211/STJ, 282 e 356/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUA L CIVIL. AGRAVO EM RECURSO ESPECIAL. TESE PREJUDICADA PELO PROVIMENTO DO RECURSO DA PARTE ADVERSA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS 211/STJ, 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
