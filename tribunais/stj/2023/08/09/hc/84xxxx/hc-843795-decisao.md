@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de HENRIQUE NOEL DE NOVAES JUNIOR, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro no Habeas Corpus Criminal n. 0018026-41.2023.8.19.0000, assim ementado (e-STJ fls. 15/21):
+HABEAS CORPUS. Execução Penal. Pretensão ao reconhecimento da prescrição da pretensão executória da pena imposta ao ora Paciente, condenado por infração ao artigo 303, parágrafo único, c/c 302, §1º, I e artigo 306, caput, ambos da Lei 9.503/97, na forma do artigo 89, do Código Penal, nas penas de 1 ano, 3 meses e 10 dias de detenção e 11 DM, além da suspensão de sua habilitação para dirigir qualquer tipo de veículo automotor, pelo mesmo prazo. Interrupção da prescrição. Artigo 117, §2º, do Código Penal.
+Sentença proferida em 08/01/2019, tendo o Réu, em 18/10/2019, requerido o parcelamento da pena pecuniária e, em 06/11/2020, comprovado a quitação da primeira parcela em 08/02/2021, interrompendo-se o prazo prescricional da pretensão executória, não restando decorrido, em qualquer momento, o prazo prescricional de 4 anos previsto para a pena em concreto imposta, a contar do trânsito em julgado da Sentença condenatória.
+ORDEM DENEGADA.
+(Habeas Corpus Criminal n. 0018026-41.2023.8.19.0000, Rela. Desa. KATIA MARIA AMARAL JANGUTTA, 2ª Câmara Criminal do TJ/RJ, por maioria, julgado em 23/5/2023)
+Na presente impetração, a defesa sustenta a ocorrência da prescrição da pretensão executória, uma vez que "A parcela não comprova o efetivo cumprimento da pena pecuniária, pois, o parcelamento de valor diverso ao fixado pelo Juízo sentenciante, não faz prova do início da execução" (e-STJ fl. 6).
+Informa que "O paciente foi condenado à pena de 01 (hum) ano, 3 (três) meses e 10 (dez) dias de detenção e multa, pela prática dos delitos tipificados nos artigos 303, parágrafo único c/c art. 302, § 1º, I, e art. 306, caput, da Lei de nº. 9.503/98, com a substituição da pena privativa de liberdade substituída prestação de serviços à comunidade e multa no valor de 01 (hum) salário mínimo" (e-STJ fl. 6).
+Aduz que, "Na verdade, não se trata de pena pecuniária, mas sim de multa indenizatória cível" (e-STJ fl. 6).
+Diante  disso,  requer,  liminarmente  e  no  mérito, a concessão da ordem para reconhecer a prescrição da pretensão executória em favor do reeducando.
+É o relatório. Passo a decidir.
+Preliminarmente, cumpre esclarecer que as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com enunciado de súmula, com jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, Dje 3/12/2018; AgRg no HC n. 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018; e AgRg no RHC n. 37.622/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n. 45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, DJ 28/2/2014.
+Este é exatamente o caso dos autos, em que a presente impetração faz as vezes de recurso próprio.
+Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Da prescrição da pretensão executória
+Sobre o tema, o Tribunal de origem afastou a prescrição da pretensão executória, aos seguintes fundamentos:
+As informações prestadas dão conta de que se trata de Ação penal, na qual o Réu foi condenado na pena de 1 ano, 3 meses e 10 dias de detenção e 11 DM, além da suspensão do direito de dirigir, por igual prazo.
+Ressaltou S. Exa. que, ante o cumprimento dos requisitos legais, a pena de detenção foi substituída pelas privativas de direitos de prestação de serviços comunitários, pelo mesmo prazo daquela e prestação pecuniária.
+Mencionou que, de acordo com o artigo 109, V, do Código Penal, os crimes punidos com pena máxima privativa de liberdade não superior a 2 anos prescrevem em 4.
+Narrou que, a Sentença foi proferida em 08/01/2019, tendo o Réu dado início ao cumprimento das penas em 18/10/2019, quando comprovou a quitação da primeira parcela da Prestação Pecuniária, o que, por sua vez, interrompeu o prazo para prescrição da pretensão executória.
+Esclareceu que, desde então, para além de outros atos de cumprimento da Prestação Pecuniária pelo Réu, o Juízo vem empreendendo esforços no sentido de que, ele prossiga com o cumprimento das demais penas, não havendo que se reconhecer, pois, inércia do Estado nesse sentido.
+Não assiste razão à impetração.
+Ao apenado foi imposta a pena privativa de liberdade de 1 ano, 3 meses e 10 dias de detenção, o qual desafia prazo prescricional de 4 anos, a teor do artigo 109, V do Código Penal, e segundo entendimento majoritário de nossos Tribunais, esse deve ser o prazo aplicável à pena restritiva de direitos que a substituiu.
+Resta, assim, examinar, se transcorreu o referido prazo.
+No dia 18/10/2019 o Apenado requereu o parcelamento da pena pecuniária e, em 06/11/2020 (Doc. 000422, dos Autos principais), comprovou a quitação da primeira parcela, ocorrendo aí a interrupção do prazo prescricional da pretensão executória.
+Além disso, em 08/02/2021 (Doc. 000444, dos Autos principais), efetuou o pagamento da segunda parcela.
+O cômputo da prescrição da forma como acima colocada, encontra perfeito amparo no artigo 117, §2º, do Código Penal, que dispõe:
+(..)
+Com efeito, como bem sustentou a douta Procuradoria de Justiça, em nenhum momento restou decorrido o prazo prescricional de 4 anos, a contar do trânsito em julgado da Sentença condenatória, não havendo como reconhecer a pretendida prescrição.
+(e-STJ fls. 17/19 - negritei)
+Vê-se que o Tribunal de Justiça entendeu que o fato de o executado ter quitado parcelas da pena pecuniária nas datas de 6/11/2020 e 8/2/2021 corresponde a início e continuação do cumprimento da pena e, portanto, enseja novos marcos interruptivos da prescrição da pretensão executória.
+A respeito do tema, o artigo 117 do Código Penal prevê as causas interruptivas da prescrição, in verbis:
+Art. 117 - O curso da prescrição interrompe-se:
+I - pelo recebimento da denúncia ou da queixa;
+II - pela pronúncia;
+III - pela decisão confirmatória da pronúncia;
+IV - pela publicação da sentença ou acórdão condenatórios recorríveis;
+V - pelo início ou continuação do cumprimento da pena;
+VI - pela reincidência.
+Assim, condenado o paciente à pena privativa de liberdade, substituída por uma pena restritiva de direito do tipo prestação de serviço à comunidade e multa, o pagamento desta acarreta a interrupção do prazo da prescrição da pretensão executória, conforme disposto no art. 117, inciso V, do Código Penal.
+Observo, portanto, que a conclusão da Corte de origem encontra-se em total consonância com o entendimento jurisprudencial deste Superior Tribunal de Justiça. A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRESCRIÇÃO EXECUTÓRIA. NÃO OCORRÊNCIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. INÍCIO DO CUMPRIMENTO DA PENA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Consoante a jurisprudência do STJ, a audiência admonitória não configura início do cumprimento da pena, não servindo, portanto, para interromper o prazo da prescrição executória, contudo, efetuado o pagamento da multa, tem-se por iniciada a execução.
+2. Não evidenciado o transcurso do lapso de 4 anos entre o trânsito em julgado da condenação para o Ministério Público e o início da execução, pelo pagamento da multa, não há falar em prescrição da pretensão executória.
+3. Decisão agravada mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 70.260/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 30/3/2017, DJe de 7/4/2017)
+No caso concreto, o paciente foi condenado à pena de 1 (um) ano, 3 (três) meses e 10 (dez) dias de detenção, bem como 11 (onze) dias-multa, substituída a pena privativa de liberdade por uma restritiva de direito consistente em prestação de serviço à comunidade e multa no valor de um salário mínimo.
+Nos termos do artigo 109, inciso V, do Código Penal, evidencia-se que a pena imposta ao paciente prescreve em 4 (quatro) anos.
+É incontroverso que a sentença condenatória foi publicada em 8/1/2019 e houve o início do cumprimento da pena em 18/10/2019, com o pagamento da primeira parcela da multa substitutiva da pena privativa de liberdade.
+Portanto, não há falar em prescrição da pretensão executiva, uma vez que não transcorreu o lapso temporal de quatro anos entre os marcos interruptivos da prescrição.
+Assim, não configurado, na hipótese vertente, constrangimento ilegal, a justificar a concessão do writ de ofício.
+Diante do exposto, com amparo no art. 34, XX, do Regimento Interno do STJ (na redação da Emenda Regimental n. 24/2016), não conheço do habeas corpus.
+Intimem-se.
