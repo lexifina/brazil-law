@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTINA LINHARES CLINICA DE PSICOLOGIA LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado:
+DIREITO TRIBUTÁRIO. APELO. AÇÃO ANULATÓRIA. ISSQN. LEI COMPLEMENTAR N. 116/2013. INTERPRETAÇÃO CONFERIDA NO RESP. 1.060.21 O/SC, PROCESSADO SOB O RITO DOS RECURSOS REPETITIVOS. FALTA DE PROVA DA EXISTÊNCIA DE UNIDADE ECONÔMICA OU PROFISSIONAL NO MUNICÍPIO DA PRESTAÇÃO DOS SERVIÇOS. RECURSO CONHECIDO E NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, a recorrente aponta, além da divergência jurisprudencial, violação dos arts. 3º e 4º da Lei Complementar n. 116/03, sustentando que pode ser considerado estabelecimento para fins de definição do local da ocorrência do fato gerador do ISS o local onde o serviço médico foi efetivamente prestado, haja vista ter se configurado uma unidade do prestador de serviço.
+Houve contrarrazões ao recurso especial (e-STJ fls. 342/352).
+O Tribunal de origem inadmitiu o recurso especial pela incidência da Súmula n. 7/STJ.
+Insurge-se a agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 389/396).
+É o relatório. Decido.
+Impugnado o fundamento de inadmissibilidade, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Ao analisar a controvérsia posta, o acórdão recorrido fundamentou que "a empresa recorrente não conseguiu demonstrar, cabalmente, possuir no município em que os serviços de saúde foram prestados, estabelecimentos que detenham perfil de unidade econômica" (e-STJ fls. 292).
+Assim, acolher a pretensão recursal no sentido de que foi configurada uma unidade econômica do prestador de serviço exigiria o revolvimento do acervo fático-probatório dos autos, providência inviável nesta seara recursal a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVAS. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO ART. 1.022 DO CPC/2015. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA ENUNCIADOS N. 282 E 283 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento objetivando a anulação da decisão agravada e sucessivamente, que seja reformada em definitivo a r. decisão agravada para, reconhecendo a possibilidade de discussão do feito através da Exceção de Pré-Executividade oposta e a desnecessidade de produção de provas, acolher a defesa e proceder no cancelamento do crédito tributário consubstanciado, ia de consequência, extinguir a Execução Fiscal, em razão da ilegitimidade ativa do Município Agravado. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+IV - No mérito, também não assiste razão ao recorrente, o Tribunal a quo a despeito de constar na CDA o endereço da empresa prestadora de serviço, observando a decisão proferida no RESp 1.060.210/SC, explicitou que a partir da vigência da LC 116/2003 a cobrança do ISS deve ser feita pelo município onde o serviço é prestado, entendido o local onde se comprove haver unidade econômica ou profissional da instituição financeira, a despeito do endereço onde se localiza a sede, unidade decisória da empresa.
+V - O entendimento sufragado pelo acórdão recorrido está de acordo com a tese firmada no tema 355, decorrente do julgamento do RESp 1.060.210/SC, in verbis: "O sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador (art. 12); a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, assim entendido o local onde se comprove haver unidade econômica ou profissional da instituição financeira com poderes decisórios suficientes à concessão e aprovação do financiamento - núcleo da operação de leasing financeiro e fato gerador do tributo."
+VI - Assim, para o exame da existência ou não de uma unidade econômica com poderes limitados para a aprovação do financiamento seria necessária dilação probatória, o que não poderia ser viabilizado no âmbito da exceção de pre-executividade.
+VII - Evidente que para contrastar a referida tese seria necessário o reexame do conjunto probatório, atraindo o comando da súmula 7/STJ.
+VIII - Finalmente, no tocante à alegada ofensa aos arts. 502, 505, 507 e 508, todos do CPC/2015, examina-se que no acórdão recorrido é observado que a sentença foi proferida com extinção do feito, quando deveria ser apenas admitida a exceção de pré-executividade, sendo por isso, com o chamamento do feito à ordem, proferida decisão "ex officio" para corrigir o decisório equivocado, oportunidade em que se entrou no mérito da exceção de pré-executividade.
+IX - Assim, de acordo com o referido entendimento verifica-se que as matérias atinentes aos arts. 502, 505, 507 e 508, todo do CPC/2015, foram afastadas em face do acima observado, não sendo analisada a ocorrência de coisa julgada. Incidência da súmula 282/STF.
+Observe-se ademais que o recorrente não confrontou o entendimento acima, atraindo o comando da súmula 283/STF.
+X - Agravo interno improvido.
+(AgInt no AREsp n. 2.178.498/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+No mais, deixo de analisar a divergência em virtude do óbice aplicado ao conhecimento do recurso especial pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ISSQN. FATO GERADOR. LOCAL. UNIDADE ECONÔMICA OU PROFISSIONAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
