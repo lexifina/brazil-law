@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Ministério Público do Estado de São Paulo (fls. 588-778) contra decisão de fls. 565-569, que suspendeu o processo n. 0001192-72.2022.8.26.0300 até ulterior deliberação deste relator.
+Às fls. 577-586, informações prestadas pelo juízo da 1ª Vara da Comarca de Jardinópolis/SP.
+Defende a parte agravante que: a) não cabe reclamação por descumprimento de decisão do STJ que não conheceu do recurso especial porque, ausente o efeito substitutivo, a questão meritória e controvertida não foi apreciada pela Corte, revelando a utilização da reclamação como sucedâneo recursal; b) os reclamantes não integraram a relação jurídica processual nem mesmo demonstraram se tratar de sucessores dos réus da referida ação, decorrendo daí sua ilegitimidade ativa; c) não há periculum in mora, pois a ofensa ao direito fundamental à moradia foi afastado pelo STF; d) há perigo de dano reverso, pois a decisão paradigma relacionada à ação civil pública teve como objeto apenas 06 (seis) ranchos e a suspensão de cumprimento de sentença envolve área muito superior e distinta, de mais de 900 (novecentos) ranchos, sendo um entrave à política ambiental de controle do avanço de loteamentos clandestinos às margens do Rio Pardo.
+É o relatório. Passo a decidir.
+Considerando as razões acima elencadas, observa-se que a decisão de fls. 565-569 merece reconsideração, motivo pelo qual procedo a novo exame da questão.
+À luz do disposto no art. 105, I, "f", da CF/1988 c/c o art. 988, IV, do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada, com o escopo de preservar a competência desta Corte Superior e garantir a autoridade de suas decisões, assim como para assegurar a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Todavia, no caso sub examine, não se verifica que o julgado em sede de interdito proibitório n. 1000874-38.2023.8.26.0300 tenha descumprido o acórdão proferido pelo STJ nos autos do AgInt no Resp 1.483.187, de relatoria do Ministro Og Fernandes.
+Não caracterizado o descumprimento à decisão proferida por esta Corte, o pedido que originou os autos é manifestamente inadmissível.
+Dessa forma, observa-se que merece acolhida a argumentação apresentada pela parte agravante.
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. 565-569, com lastro no art. 259, § 6º do RISTJ, combinado com o § 2º do artigo 1.021 do CPC/2015.
+Por derradeiro, julgo prejudicado o agravo de instrumento de fls. 779-3596, em razão da superveniente perda de objeto.
+Publique-se. Intimem-se.
