@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DANUZIA PALMER E OUTRO à decisão de fls. 1262/1263, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme se pode depreender dos termos da decisão, a Presidente não conheceu do recurso por entender que contra uma mesma decisão foram apresentados dois recursos, impondo-se o não conhecimento do segundo recurso em observação ao princípio da unicidade recursal.
+No entanto, imperioso se faz a observação de que estes agravantes não foram intimados da decisão que negou provimento ao embargo de declaração, seguindo o Juízo de piso diretamente para a análise da admissibilidade do recurso especial.
+Note-se que a questão da tempestividade restou superada pelo Des. Terceiro Vice- Presidente do Tribunal Estadual em juízo de admissibilidade, e, deste modo, diante da ausência de prejuízo, não havia nulidade a ser suscitada.
+Nesta senda, cumpre trazer à baila o mandamento do princípio da não surpresa, elencado o art.10 do CPC, determinando que o juiz não poderá decidir com base em fundamento sobre o qual não se tenha dado às partes a oportunidade de se manifestar, mesmo que se trate de matéria que deva ser decidida de ofício.
+Por tal razão, observado a não ocorrência de intimação da decisão dos embargos de declaração, a ausência de prejuízo da parte evidenciada pelo contorno do juízo de admissibilidade, e, privilegiando o princípio da não surpresa, se faz necessário a observação da questão de ordem no presente momento, pugnando se para que os autos sejam remetidos ao Tribunal Estadual (fl. 1270).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão embargada, contra uma mesma decisão, a parte apresentou embargos de declaração; e, posteriormente, recurso especial.
+Ressalte-se que "a oposição de embargos de declaração e, antes do julgamento de tais aclaratórios, a subsequente interposição de recurso especial, pela mesma parte e contra idêntico acórdão, enseja a aplicação do princípio da unirrecorribilidade e da preclusão consumativa, impedindo o conhecimento do especial". (AgInt no REsp 1797696/AL, relator Ministro Antonio Carlos Ferreira, Dje de 03/10/2019.)
+A Corte Especial, recentemente, também apreciou a matéria:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNICIDADE RECURSAL. DECISÃO AGRAVADA.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ.
+1. A interposição de mais de um recurso pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial. (AgInt no REsp n. 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020).
+2. É inviável o conhecimento do agravo regimental que não impugna, especificamente, todos os fundamentos da decisão agravada.
+Agravos não conhecidos.
+(AgInt no RE nos EDcl nos EREsp 1768552/PE, relator Ministro Humberto Martins, Corte Especial, Dje de 03/05/2021).
+Dessa forma, correta a decisão que não conheceu do recurso.
+Outrossim, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+No mais, destaca-se que não há violação ao princípio da não surpresa na decisão que averigua os requisitos legais e constitucionais para a admissão do recurso, uma vez que o "fundamento" ao qual se refere o art. 10 do Código de Processo Civil é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). Nesse sentido: AgInt no AREsp 1389200/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 29/03/2019; EDcl no REsp 1.280.825/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 1º/08/2017.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
