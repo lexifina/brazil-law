@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SANTO DONIZETI DE PAULA contra acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, proferido no julgamento do Habeas Corpus Criminal n. 2114738-64.2023.8.26.0000, assim ementado (fl. 1362):
+"Habeas Corpus - Pedido de indulto natalino que sequer teriasido solicitado junto ao Juízo da Execução - Via inadequadaNão se presta o writ para conhecimento e decisão de pedidos quesequer foram solicitados no Juízo da Execução."
+Consta dos autos que a Corte Estadual não conheceu do writ originário impetrado pelo recorrente no qual pretendia a concessão do indulto natalino e o reconhecimento da prescrição da pretensão punitiva, conforme acórdão de fls. 1361/1364.
+No presente recurso, reitera as alegações da impetração recorrida e pretende, em sede liminar e no mérito, a "total procedência, reformando-se, assim, a r. decisão de fls. 1361/1364, concedendo-se o Habeas Corpus ao Requerente advogado paciente" (fl. 1381).
+É o relatório.
+Decido.
+Não há como dar seguimento ao pedido.
+No caso em análise, o TJSP não conheceu da impetração originária, seguindo a orientação desta Corta e do próprio STF, destacando que a "via eleita não se presta ao atendimento desta pretensão, de competência originária da Vara das Execuções Criminais para o enfrentamento deste tema, que demanda a apreciação de requisitos que extrapolam os estreitos limites do remédio heroico" (fl. 1363).
+Não tendo o Tribunal a quo enfrentado a matéria de mérito diante da inadequada via eleita, fica está Corte Superior impedida de manifestar-se sob os pedidos aqui deduzidos, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIOLAÇÃO DO PERÍMETRO DE MONITORAMENTO ELETRÔNICO. FALTA GRAVE. TESES DEFENSIVAS NÃO ANALISADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DE PROVAS. VIA INADEQUADA. RECURSO NÃO PROVIDO.
+1. As teses defensivas não foram objeto de exame pela Corte de origem, o que impede seu enfrentamento por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância.
+Precedentes.
+2. Ademais, não se constata flagrante ilegalidade que pudesse ensejar a superação do referido óbice. De acordo com o entendimento desta Corte, "nos termos do art. 146-C, I, da LEP, o apenado submetido a monitoramento eletrônico tem que observar as condições e limites estabelecidos para deslocamento. Ao violar a zona de monitoramento, o apenado desrespeitou ordem recebida, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da LEP" (HC 438.756/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 5/6/2018, DJe 11/6/2018).
+3. A jurisprudência desta Corte Superior firmou entendimento no sentido de que a prática de falta disciplinar de natureza grave implica a regressão de regime, conforme estabelecido pelo art. 118, I, da LEP.
+4. A prática de falta grave pelo sentenciado, no curso da execução da pena, altera a data-base para a concessão de novos benefícios, exceto para fins de livramento condicional, indulto e comutação da pena. Entendimento consolidado nas Súmulas 441, 535 e 534 desta Corte e no REsp repetitivo n. 1.364.192/RS.
+5. Sem embargo acerca do amplo direito à produção das provas necessárias a dar embasamento às teses defensivas, ao magistrado, mesmo no curso do processo penal, é facultado o indeferimento, de forma motivada, das diligências protelatórias, irrelevantes ou impertinentes. Cabe, outrossim, a parte requerente demonstrar a real imprescindibilidade na produção da prova requerida.
+6. O exame dos motivos pelos quais o ora agravante teria descumprido as regras da monitoração eletrônica demanda revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+Precedentes.
+7. Agravo regimental não provido.
+(AgRg no HC n. 618.454/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ALEGADA NULIDADE DAS BUSCAS PESSOAL E DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DE 1/2 (METADE) APLICADA NA DECISÃO AGRAVADA COM BASE NA DROGA APREENDIDA. RAZOABILIDADE. NOVO MONTANTE DA PENA ESTABELECIDO EM 2 ANOS E 6 MESES DE RECLUSÃO, E 250 DIAS-MULTA. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta
+2. No caso, as supostas ilegalidades da busca pessoal e da violação de domicílio não foram submetidas e, por consequência, não foram efetivamente debatidas pela Corte local, uma vez que não constaram das razões recursais de apelação da paciente, motivo pelo qual o t e ma não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+3. Na esteira dos precedentes do STJ, inexiste óbice à aplicação da causa de diminuição do tráfico privilegiado na fração intermediária de 1/2, considerando a quantidade e a natureza dos entorpecentes apreendidos - 3 (três) porções de maconha, com massa bruta total de 797,560 gramas, e 1 (uma) porção de cocaína, com massa bruta total de 7,950 gramas (e-STJ fl. 69).
+4. O regime inicial semiaberto é o adequado para o cumprimento da pena reclusiva (2 anos e 6 meses), em decorrência da valoração negativa da quantia e da espécie da substância apreendida, na terceira fase da dosimetria, para a modulação do índice de redução do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Não se mostra recomendável o deferimento da substituição da pena privativa de liberdade por restritivas de direito, diante da quantidade e da natureza das drogas apreendidas.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.)
+Desse modo, inviável o conhecimento do presente Recurso em habeas corpus, tendo em vista que a matéria aqui impugnada não foi objeto de análise pelo Tribunal de origem no acórdão recorrido.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso em habeas corpus.
+Publique-se.
