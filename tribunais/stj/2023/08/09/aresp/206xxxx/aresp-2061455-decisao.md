@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por HALNA COMÉRCIO E EMPREENDIMENTOS LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO EMBARGOS À EXECUÇÃO FISCALISS - DISCUSSÃO ACERCA DA REGULARIDADE DA COBRANÇA DE VALORES LANÇADOS EM CARÁTER COMPLEMENTAR, A TÍTULO DE ISS - MUNICIPALIDADE QUE SE UTILIZOU DO REGIME DE PAUTA FISCALPARA A FIXAÇÃO DA BASE DE CÁLCULO DO TRIBUTO, ENSEJANDO UM DESVIRTUAMENTO INDEVIDO DA MESMA SENTENÇA MANTIDARECURSO DESPROVIDO.
+Opostos embargos de declaração foram eles acolhidos com efeitos modificativos com relação à verba honorária.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, a recorrente aponta, além da divergência jurisprudencial, violação dos seguintes dispositivos: a) art. 1.022 do Código de Processo Civil, na medida em que o acórdão recorrido acolheu os aclaratórios quando ausente vício a ser sanado; b) art. 85, §§ 2º, 3º, 4º e 6º, do Código de Processo Civil, aduzindo que a fixação dos honorários deve observar os patamares legais, não podendo ser utilizada a equidade no caso concreto.
+Houve contrarrazões ao recurso especial (e-STJ fls. 2366/2376).
+O Tribunal de origem inadmitiu o recurso especial pela ausência de negativa de prestação jurisdicional e pela incidência da Súmula n. 7/STJ.
+Insurge-se a agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve c ontraminuta ao agravo (e-STJ fls. 2399/2407).
+É o relatório. Decido.
+Impugnados os fundamentos de inadmissibilidade, passo ao exame do recurso especial.
+Inicialmente, verifico a ausência de demonstração precisa de como a alegada violação ao art. 1.022 do CPC teria ocorrido, o que impede o conhecimento do recurso especial no ponto.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A indicação genérica do artigo de lei que teria sido contrariado, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, caracteriza defeito na fundamentação do Recurso. Dessa forma, incide o óbice da Súmula 284 do STF. Precedentes.
+2. O Tribunal de origem, ao manter a sentença, reconheceu a ausência de interesse de agir do autor, já que a matéria relativa a eventual necessidade de recomposição da Reserva Legal deveria ser tratada em anterior Ação Civil Pública que trata justamente da adequação ambiental da propriedade do recorrente e da necessidade de observância da Reserva Legal.
+3. Embora o recorrente sustente que "os contornos fáticos necessários para resolver as questões jurídicas devolvidas a esta Corte Superior constam expressamente nos acórdãos proferidos pelo TJ-SP" (fl. 691, e-STJ), o entendimento do STJ, diversamente, é o de que a análise do conteúdo das causas relacionadas, a fim de aferir a identidade dos pedidos, da causa de pedir ou das partes, é verificada por juízo de matéria de fato, atribuído soberanamente às instâncias ordinárias.
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023.)  grifei
+No mérito, melhor sorte assiste a parte.
+Em recente julgamento do REsp 1.746.072, a Segunda Seção do Superior Tribunal de Justiça confirmou o entendimento de que os honorários advocatícios só podem ser fixados com base na equidade de forma subsidiária, quando não for possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa.
+Com efeito, o § 8º do art. 85 do CPC/15 determina que "Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+E, na linha da jurisprudência desta Casa, "O § 8º do art. 85 do NCPC somente será aplicável nas causas em que for impossível atribuir valor ao bem jurídico pleiteado." (EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017).
+Nessa esteira, restou pacificado no RESP 1746072/PR o seguinte entendimento:
+ ..
+Tem-se, então, a seguinte ordem de preferência:
+(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º);
+(II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo:
+(II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou
+(II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim,
+(III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+No caso dos autos, verifica-se que o acórdão recorrido entendeu que a fixação dos honorários advocatícios em percentual sobre o valor da causa culminaria em montante exorbitante. Não se vislumbra, assim, nenhuma das hipóteses previstas no §8º do artigo 85 do CPC e autorizativas da fixação dos honorários por apreciação equitativa.
+O § 6º do artigo 85 determina que "Os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Dessa forma, cabia o arbitramento dos honorários advocatícios sucumbenciais pela regra geral exposta no § 2º e ainda, o §3º, do mesmo dispositivo legal, razão pela qual merece ser acolhida a irresignação.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU O PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL EM SEDE DE RECURSO ESPECIAL REPETITIVO.
+1. A Corte Especial, ao julgar o Tema Repetitivo 1076 (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), firmou as seguintes teses jurídicas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.918.134/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA ADMINISTRATIVA. PROCON. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. VERBA SUCUMBENCIAL. FIXAÇÃO COM BASE NA EQUIDADE. IMPOSSIBILIDADE. APLICAÇÃO DO TEMA 1.076 DO STJ.
+1. No caso concreto, as conclusões da Corte de origem a respeito do valor da multa administrativa aplicada pelo Procon não são passíveis de revisão pelo STJ, porque implicaria reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+2. A Corte Especial, no julgamento dos Recursos Especiais 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1.076 - acórdão ainda pendente de publicação), sob o rito dos repetitivos, sedimentou entendimento no sentido de que, "Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.832.678/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022)
+Impende registrar entendimento fixado pela Corte Especial do STJ na assentada de 16/3/2022, no âmbito do REsp 1.850.512/SP, e outros, em sede de recurso especial repetitivo (Tema 1.076), onde foram fixadas as seguintes teses:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§ 2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de determinar que o juízo de origem observe a fundamentação exposta para fixar os valores de honorários advocatícios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. EXCEPCIONALIDADE. PROVEITO EC ONÔMICO ESTIMÁVEL. LIMITES E CRITÉRIOS DOS § 2º, §3º, §4º, §5º, §6º e §8º DO ART. 85 DO CPC/2015. TEMA 1.076. APLICABILIDADE. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVA FIXAÇÃO DA VERBA HONORÁRIA COM BASE NO VALOR ATUALIZADO DA CAUSA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
