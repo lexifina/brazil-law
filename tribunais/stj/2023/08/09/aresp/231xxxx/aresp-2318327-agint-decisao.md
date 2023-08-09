@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo Município de São Paulo, contra a decisão da presidência dessa Corte que não conheceu agravo em recurso especial por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade.
+Nas razões do agravo, sustenta-se que houve efetiva impugnação de todos os fundamentos de inadmissibilidade.
+É o relatório.
+Com razão a agravante, pois os fundamentos lançado no juízo de admissibilidade foram impugnados de modo suficiente, motivo pelo qual reconsidero a decisão agravada.
+No caso, foi interposto recurso especial fundado na alínea "a" do permissivo constitucional contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA - ISSQN Demanda visando a inexigibilidade no recolhimento do ISS sobre o licenciamento do direito de uso de marca mediante pagamento de royalties - Cabimento Cessão de uso de marca - - Obrigação que não consiste em prestação de serviços Sentença reformada Recurso provido.
+Nas razões do recurso especial, o recorrente apontou violação do item 3.02 da Lista de Serviços anexa à Lei Complementar n. 116/03, sustentando a incidência de ISS no caso concreto.
+Houve contrarrazões (e-STJ fls. 319/341).
+Cuida-se, na origem, de ação declaratória proposta pela ora recorrida para discutir a incidência ou não do ISS sobre licenciamento do direito de uso de marca mediante pagamento de royalties.
+A insurgência não merece prosperar.
+Da leitura do acórdão recorrido depreende-se que o ISS restou afastado em virtude de fundamento constitucional, consoante expresso no excerto (e-STJ fls. 253/255):
+A matéria referente ao ISSQN foi originalmente regulamentada pelo Decreto-lei nº. 406, de 1968, alterado pelo Decreto-lei nº 834/1969 e, posteriormente, pela Lei Complementar n. 56/1987, atualmente pela Lei Complementar nº 116/03, que assim dispõe:
+"Art. 1º O Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, tem como fato gerador a prestação de serviços constantes da lista anexa, ainda que esses não se constituam como atividade preponderante do prestador".
+Antes, tanto o Decreto-Lei nº 406/1968 quanto a Lei Complementar nº 56/1987 não previam a incidência do ISSQN sobre os "serviços" de cessão de direito de uso de marcas.
+Nesse contexto, o Superior Tribunal de Justiça entendia que a referida atividade não poderia ser tributada pelo ISSQN (v. g. REsp606.276/RS, Segunda Turma, Rel. Min. Castro Meira, DJ de 22/08/2005, p. 202;REsp 221.577/MG, Primeira Turma, Rel. Min. José Delgado, DJ de 03/04/2000, p. 117).
+Com a edição da Lei Complementar nº 116/2003,passou-se a incluir a mencionada atividade como sujeita ao ISSQN, constando de sua lista anexa no item 3, subitem 3.02:"3 Serviços prestados mediante locação, cessão de direito de uso e congêneres. (..) "3.02- Cessão de direito de uso de marcas e de sinais de propaganda".
+Diante da inovação legislativa, o Superior Tribunal de Justiça mudou seu entendimento, passando a admitir a discutida tributação em razão da expressa menção na lista anexa à Lei Complementar nº 116/2003 (v. g. REsp 978.719/SP, Segunda Turma, Rel. Min. Eliana Calmon, DJe05/05/2009; EDcl no REsp 1.066.071/SP, Primeira Turma, Rel. Min. Teori Albino Zavascki).
+No entanto, o Supremo Tribunal Federal, ao julgar o Recurso Extraordinário nº 603.136/RJ (Rel. Min. Gilmar Mendes, DJe de 30/09/2010, com repercussão geral reconhecida), reconheceu que a discussão envolve matéria eminentemente constitucional, pois diz respeito ao próprio conceito de "serviços" contido na Constituição Federal.
+Assim sendo, a despeito da atividade ter sido incluída no rol de serviços tributáveis pelo ISSQN, esta inclusão, por si só, não lhe empresta o caráter de serviços.
+ ..
+Foi a partir da conclusão de que a atividade desenvolvida na locação de bens móveis não poderia ser considerada um serviço, que o Supremo Tribunal Federal entendeu que o ISSQN não poderia incidir nesses casos. Por essa razão, estabeleceu na Súmula Vinculante nº 31 que "é inconstitucional a incidência do imposto sobre serviços de qualquer natureza ISS sobre locação de bens móveis".
+Assim sendo, a conclusão a que se chega é a de que seria inexigível o ISSQN sobre contratos, cujo objeto seja a cessão de uso de marca, tal como é o caso do firmado entre a recorrida e a empresa cedente. Isto porque não se trata de prestação em favor de terceiro com esforço físico ou psicológico. No contrato de cessão de direitos de marca faculta-se a um terceiro o uso de um bem imaterial. Nele não se exige qualquer prestação ou esforço do cedente.
+A cessão de marca configura nítida obrigação de dar, que se opera pela simples transmissão temporal do direito para que outro tenha a fruição mediante certa remuneração; verdadeiramente, trata-se de locação (v. art. 565 do Código Civil), que não importa ou demanda de parte do cedente qualquer outra atividade que não a de dar ou ceder. Assim, o cedente não serve, não presta atividade de qualquer ordem que implique obrigação de fazer, a que se possa considerar locação de serviços.
+Portanto, quando a Lista inclui fatos que não configuram prestação de serviço, por afastada a ideia de trabalho, de esforço humano, de um "facere", viola o disposto no artigo 156, III, da Constituição Federal. Assim se dá na locação de bens móveis, como já proclamou o Supremo Tribunal Federal. E assim também, por identidade de razões, na cessão de direito de marca ou de imagem.
+A solução da controvérsia na origem à luz de fundamento constitucional impede o exame da questão em sede de recurso especial sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. DIFAL. PRINCÍPIO DA ANTERIORIDADE. MATÉRIA ANALISADA NA ORIGEM À LUZ DE FUNDAMENTO CONSTITUCIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. No recurso especial a parte apontou, além da divergência jurisprudencial, violação do art. 3º da Lei Complementar n. 190/22, argumentando-se que deve ser reconhecida a aplicação das anterioridades nonagesimal e anual, afastando-se, consequentemente, a exigência de DIFAL de ICMS.
+2. Da leitura do aresto combatido verifica-se que a aplicabilidade da LC n. 190/22 foi examinada pela Corte local à luz da jurisprudência do Supremo Tribunal Federal e de dispositivos da Constituição Federal.
+3. Dirimida a questão, na instância ordinária, com fundamentação exclusivamente constitucional, ainda que tenha sido feita menção à legislação federal, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido sob pena de usurpação da competência da Suprema Corte (art. 102 da CRFB/88).
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.049.476/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, a fim de, com base no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conhecer do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ITEM 3.02 DA LISTA ANEXA À LC N. 116/03. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO PARA NÁO CONHECER DO RECURSO ESPECIAL.
