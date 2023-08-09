@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BENEDITO BIASI ZANIN NETO, MARIA ESTER CAETANO ZANIN, SANTO ZANIN NETO e PAMELA IOLE RIZATO ZANIN, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/02/2023.
+Concluso ao gabinete em: 13/07/2023.
+Ação: Pauliana movida por DEUTSCHE BANK SA BANCO ALEMAO, contra os agravantes, na qual alegam que doação de imóvel feita a seus genitores foi feita sob fraude contra credores.
+Sentença: julgou procedente o pedido da inicial, "para reconhecer a ineficácia do negócio jurídico de doação firmado sobre o bem imóvel matriculado sob o nº 3.525 do CRI de Sertanópolis, no qual figuraram como doadores os réus SANTO ZANIN NETO e MARIA ESTERCAETANO ZANIN e como donatários os réus BENEDITO BIAZI ZANIN NETO e PAMENA IOLE RIZATO ZANIN, com a retomada dos bens à esfera patrimonial de SANTO ZANIN NETO e MARIA ESTER CAETANO ZANIN." (e-STJ fl. 882)
+Acórdão: negou provimento à apelação dos agravantes, nos termos da ementa:
+"APELAÇÃO CÍVEL - AÇÃO PAULIANA - SENTENÇA DEPROCEDÊNCIA. Ausência de interesse de agir - Não acolhimento - Ação Pauliana que pretende analisar se a doação realizada pelos apelantes do imóvel se deu com o intuito de fraude, com a retirada do bem do patrimônio dos devedores. Fraude contra credores sobre o negócio realizado e ineficácia da doação - Devedores que doaram bem imóvel de alto valor para seu ascendente, dias antes do vencimento da dívida - Requisitos para configuração de fraude contra credores preenchidos - Nulidade de negócio jurídico. Sentença mantida - Ônus sucumbenciais mantidos - Honorários recursais fixados. RECURSO DE APELAÇÃO NÃO PROVIDO." (e-STJ fl. 1051)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 158, caput, do Código Civil e artigo 1º, caput, da Lei 8.009/90. Tece considerações acerca do instituto da fraude contra credores, bem como seus pressupostos. Alega que o tribunal a quo não observou que não houve a presença do pressuposto redução patrimonial, ao confirmar a presença da fraude contra credores na doação. Aduz para tanto que a ausência de registro do negócio jurídico de doação na matrícula do bem não altera o universo patrimonial de qualquer uma das partes, pretenso doador e pretenso donatário. Alega que por essa razão, por permitir que a fraude contra credores atinja um ato que não reduz o patrimônio, que há a distorção do artigo 158, caput, do CC. Assevera que a contrariedade sistemática está no conflito entre declaração da fraude contra credores e a impenhorabilidade do bem de família, conferida pelo artigo 1º, caput, da Lei 8.009/90. Aduz que, ao retornar o bem ao patrimônio do devedor, o julgador a quo permitiu de forma indireta a agressão do imóvel utilizado para residência do recorrente BENEDITO BIASI ZANIN NETO na demanda executiva movida pela instituição financeira recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+A parte alega, em síntese, que não houve a diminuição de seu patrimônio, uma vez que não houve registro da doação na matrícula do bem.
+Ocorre que alterar o decidido no acórdão impugnado, no que se refere a estar demonstrado o eventus damni, tornando-se insolventes e causando prejuízos ao credor através de doação feita em 2017 por meio de ato solene, transferindo sua propriedade (e-STJ fl. 1057), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 1º, caput, da Lei 8.009/90, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários recursais, fixados pelo Tribunal de origem no acórdão às fls e-STJ 1058, de R$ 21.000,00 (vinte e um mil reais) para R$ 23.000,00 (vinte e três mil reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação Pauliana.
+2. Modificar a conclusão do Tribunal de origem no sentido de que restou demonstrado o eventus damni, tornando-se insolventes e causando prejuízos ao credor através de doação feita em 2017 por meio de ato solene, transferindo sua propriedade (e-STJ fl. 1057) implica reexame de fatos e provas.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial não conhecido.
