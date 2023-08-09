@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de reclamação proposta por ANTONIO CARLOS PRATES DO NASCIMENTO em que relata o descumprimento do julgado proferido por esta Corte no HC n. 746.768/SP.
+Afirma que, embora o Superior Tribunal de Justiça tenha determinado, em 1º/8/2022, o exame do preenchimento dos requisitos necessários à progressão ao regime semiaberto, à luz de elementos extraídos somente da execução, o Juízo da Vara de Execuções encontra-se inerte até o momento do protocolo do presente pedido. Diante disso, requer, liminarmente e no mérito, seja cumprida a decisão proferida no citado HC n. 746.768/SP.
+Instado a se manifestar, o reclamante informa que " o douto Juiz de Direito Reclamado, em data de 12/7/2023 (fls. 113/114 do processo nº 7011821-32.2016.8.26.0482da 2ª Vara das Execuções Criminais - Foro da Comarca de Presidente Prudente (SP)), finalmente exarou sentença concedendo a progressão ao regime semiaberto em favor do Reclamante. Dessa forma, Excelência, entende o Reclamante que este feito perdeu seu objeto, devendo ser considerada a desnecessidade de seu prosseguimento" (e-STJ fl. 34).
+Desse modo, é imperioso reconhecer a perda do objeto da presente reclamação, a qual visa justamente que seja determinada a progressão ao regime semiaberto.
+Ante o exposto, julgo prejudicada a reclamação.
