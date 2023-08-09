@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+CREDITO DE ICMS - APROVEITAMENTO INDEVIDO - ENERGIA ELÉTRICA - NÃO INCIDÊNCIA/SAÍDA MERCADO DE CURTO PRAZO - CCEE. CONSTATADO APROVEITAMENTO INDEVIDO DE CRÉDITOS DE ICMS REFERENTES À ENTRADA DE ENERGIA ELÉTRICA QUE FOI POSTERIORMENTE COMERCIALIZADA NO MERCADO DE CURTO PRAZO (LA CCEE, AO AMPARO DA NÃO INCIDÊNCIA DO ICMS, NOS TERMOS ESTABELECIDOS NO ART. 71, INCISO I DO RIC"MS/02. INFRAÇÃO CARACTERIZADA. CORRETAS AS EXIGÊNCIAS DO ICMS INDEVIDAMENTE APROPRIADO, ACRESCIDO DAS MULTAS DE REVALIDAÇÃO E ISOLADA PREVISTAS NOS ARTS. 56, INCISO II E 55, INCISO XIII. ALÍNEA "B", AMBOS DA LEI Nº 6.763/75.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente aponta violação dos seguintes dispositivos: a) arts. 489 e 1.022 do Código de Processo Civil, sustentando a incompletude da prestação jurisdicional; b) art. 927, III, do Código de Processo Civil, aduzindo que o acórdão recorrido deixou de aplicar precedente vinculante; c) art. 373, I, do Código de Processo Civil, alegando que não se pode falar em bis in idem no caso concreto; d) art. 2º, § 1º, III, da Lei Complementar n. 87/96, asseverando que o ICMS incidente na operação envolvendo energia elétrica deveria ser destinado ao recorrente; e) arts. 286 a 298 do Código Civil, argumentando que não há cessão de direito de consumir energia elétrica, mas compra e venda de mercadoria.
+Houve contrarrazões ao recurso especial (e-STJ fls. 453/463).
+O Tribunal de origem inadmitiu o recurso especial pela ausência de afronta aos arts. 489 e 1.022 do CPC, pela incidência da Súmula n. 283/STF e pela consonância do acórdão recorrido com o entendimento proferido por este e.STJ em caso semelhante.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 519/527).
+É o relatório. Decido.
+Não foram impugnados todos os fundamentos da decisão agravada.
+A despeito da argumentação no sentido de que houve efetiva violação dos arts. 489 e 1.022 do CPC e de que não incide o óbice da Súmula n. 283/STF, não se pode falar que a consonância do acórdão recorrido com o entendimento deste STJ foi devidamente rebatida.
+No ponto, o agravante limitou-se a argumentar que não há decisões em número suficiente para afirmar que há jurisprudência formada sobre o tema.
+Verifica-se que a parte não trouxe precedentes desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, tampouco demonstrou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio de distinguishing.
+A jurisprudência desta Corte aplica a Súmula n. 182/STJ ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao A gravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA A DECISÃO DE ADMISSIBILIDADE PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 83/STJ. AUSÊNCIA DE PRECEDENTES RECENTES QUE DEMONSTREM A TESE DEFENDIDA NO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que não admitiu o Recurso Especial, não foram enfrentados adequadamente pelo Recurso de Agravo em Recurso Especial, permanecendo incólumes em face da impugnação apresentada.
+2. De fato, as razões do Recurso de Agravo em Recurso Especial devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o decisum, o que não foi feito na peça recursal, visto que não apresentou impugnação adequada quanto ao enunciado da Súmula 5 do STJ. Quanto ao ponto, não se pode conhecer do Recurso, nos termos do art. 1.042 do CPC.
+3. Verifica-se que o agravante não trouxe precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. No caso dos autos, o precedente trazido pela empresa é mais antigo do que os colacionados na decisão de admissibilidade, não sendo capaz de demonstrar o atual posicionamento do STJ sobre a questão apreciada.
+4. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, bem como ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+5. Ademais, a Corte Especial do Superior Tribunal de Justiça assentou no julgamento dos EAREsp 746.775/PR ser necessária a impugnação específica de todos os fundamentos da decisão denegatória do Recurso Especial, sob pena de não conhecimento.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2022, DJe de 22/8/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
