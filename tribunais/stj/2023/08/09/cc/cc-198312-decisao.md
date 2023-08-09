@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito de negativo de competência suscitado pelo Juízo de Direito do Juizado Especial da Fazenda de Pelotas/RS em desfavor do Juízo Federal da 2ª Vara de Pelotas - SJ/RS, extraído dos autos da ação ajuizada, originariamente, contra o Município de Pelotas e o Estado do Rio Grande do Sul, objetivando o fornecimento do medicamento oncológico de alto custo, que não integra a lista do SUS.
+A inicial foi distribuída no Juízo Estadual, que, após o indeferimento da liminar, determinou a de inclusão da União no polo passivo e a declinação da competência para processar e julgar a pretensão em favor da Justiça Federal, ao argumento de que o medicamento pleiteado está incorporado às Diretrizes Terapêuticas do SUS para o câncer de cólon e reto, sendo, portanto, da União a responsabilidade pelo respectivo custeio.
+O Juízo Federal, por sua vez, devolveu os autos, ao argumento de que, tratando-se de medicamento não padronizado no âmbito do SUS e que já fora proferida sentença na Justiça Estadual, devem os autos permanecerem na Justiça Estadual, nos termos do que foi decidido pelo STF no Tema 1.234.
+Com o retorno dos autos ao Juízo Estadual, este suscitou o presente conflito, consignando que "em razão de o fármaco ser de alto custo e estar incoportado ao DDT para o câncer, deve o magistrado observar repartição de responsabilidades estruturada no Sistema Único de Saúde e, na hipótese, reconhecer a presença obrigatória da União no polo passivo da demanda", nos termos da alínea i dos parâmetros definidos pelo STF no Tema 1.234.
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo a Justiça Estadual a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
