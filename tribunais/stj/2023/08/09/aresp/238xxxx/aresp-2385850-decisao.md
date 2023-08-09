@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra os acórdãos proferidos pelo Tri bunal de Justiça do Espírito Santo (Apelação Criminal n. 0000173-03.2018.8.08.0064 e Embargos de Declaração Criminal n. 0000173-03.2018.8.08.0064) que mantiveram a condenação de Lucas de Oliveira Poncio como incurso nos crimes tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/2006, por duas vezes, na forma do art. 69 do Código Penal,
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos seguintes dispositivos de lei federal: art. 3º da Lei n. 9.296/1996; art. 386, II, do Código de Processo Penal; art. 35 da Lei n. 11.343/2006, c/c o art. 386, I, do Código de Processo Penal; art. 59 do Código Penal; e art. 40, V, da Lei n. 11.343/2006 (fls. 1.100/1.121).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 1.141/1.145).
+Contra o decisum a defesa interpôs o presente agravo (fls. 1.149/1.160).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 1.189/1.193 - grifo nosso).
+ ..
+No recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, a defesa alega que a decisão de 2ª instância violou o disposto nos artigos 3º da Lei n.º 9.296/96, 386, I e II, do Código de Processo Penal, 59 do Código Penal e 35, caput, 40, V, ambos da Lei n.º 11.343/06. Pleiteia, essencialmente, (i) o reconhecimento da ilicitude da quebra de sigilo telefônico realizada sem autorização judicial; (ii) a absolvição do delito de tráfico de drogas por insuficiência probatória, referente ao crime ocorrido no período de 28 de abril a 03 de maio de 2017; (iii) a absolvição do delito de associação para o tráfico, por ausência de demonstração do vínculo permanente e estável entre pelo menos duas pessoas; (iv) a fixação da pena-base próxima ao mínimo legal; e (v) a majoração da pena, na terceira etapa da dosimetria, no importe mínimo de 1/6, com o redimensionamento da penalidade imposta ao recorrente (e-fls. 1100-1121).
+A Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo, como visto, não admitiu o nobre apelo (e-fls. 1141-1145) ante o óbice da Súmula 7/STJ. Entretanto, ao interpor o agravo em recurso especial (e-fls. 1149-1160), embora o agravante tenha impugnado genericamente o óbice apontado na Súmula 7/STJ, deixou de atacar, específica e adequadamente, o único fundamento da decisão agravada, limitando-se a repisar os fundamentos do recurso especial, o que afeta a viabilidade de sua pretensão.
+A propósito da adequação formal da presente irresignação, aliás, convém relembrar que o art. 544, § 4º, I, do Código de Processo Civil de 1973, aplicável supletivamente aos agravos contra decisões denegatórias de admissibilidade de recursos especiais e extraordinários em matéria criminal, ditava o seguinte:
+"Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..  § 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada;
+ ..
+À sua vez, o art. 932, III, do CPC de 2015, dispõe:
+"Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+A razão de ser dessa disposição legal é bastante clara: também o agravo previsto no art. 1042 do Código de Processo Civil deve traduzir insurgência contra a decisão que impede o prosseguimento do recurso especial/extraordinário, controvertendo-se os correspondentes termos, não servindo como oportunidade de renovação dos argumentos previamente veiculados no inconformismo atravancado. Ressalta-se: ao passo em que a decisão impugnada no recurso especial ou extraordinário é aquela do órgão fracionário colegiado - Turma/Câmara, Seção/Grupo - que, por último, haja examinado a questão de fundo, no agravo impugnam-se não os acórdãos das Cortes de Apelação, mas sim a decisão da (Vice-)Presidência que analisou a viabilidade dos recursos dirigidos aos Tribunais Superiores. São conteúdos jurisdicionais distintos, que reclamam, nos recursos pertinentes, também razões de reforma próprias. Por isso que não basta, à viabilidade do agravo, a pura e simples repetição dos termos do recurso especial/extraordinário, fazendo-se mister que este traga, de forma específica, as razões pelas quais a decisão contra que se volta mereceria revisão.
+Em viés análogo, encontra-se o enunciado da Súmula 182 desse Tribunal Superior, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Daí que, na fundamentação do agravo, não basta a impugnação parcial, lacônica ou imprecisa da decisão de inadmissão do recurso especial. Ao contrário, a insurgência contra a decisão que obstou o prosseguimento do especial/extraordinário deve controverter, de modo específico e preciso, todos os argumentos nela lançados, sob pena de não conhecimento do agravo. Sobre o tema, confira-se:
+ ..
+Como mencionado, no caso dos autos, é possível verificar que o recorrente deixou de atacar adequadamente os fundamentos da decisão que negou seguimento ao apelo nobre, especificamente, quanto à incidência da Súmula 07/STJ, limitando-se, apenas, a apresentar alegações genéricas sobre a desnecessidade de reexame fático-probatório e a reiterar os mesmos argumentos expendidos no recurso especial obstado, sem demonstrar, efetivamente, como a pretensão recursal superaria os óbices apontados.
+Ocorre que a simples declaração de que não pretende reexame de provas não supre, por si só, a exigência de impugnação da decisão que inadmitiu o nobre apelo, de modo que o agravo esbarra no que dita o mencionado art. 932, III, do Código de Processo Civil e no que se extrai da Súmula 182 do STJ.
+ ..
+É o relatório.
+Com razão o parecerista. De fato, o agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a defesa do agravante não impugnou, de forma adequada e suficiente, a incidência da Súmula 7/STJ, na medida em que não deduziu argumentos concretos no sentido de demonstrar a desnecessidade de reexame de matéria probatória para fins de análise de cada uma das teses veiculadas no recurso especial.
+Em casos que tais (impugnação genérica), a jurisprudência desta Corte tem orientado no sentido da inadmissão do agravo:
+ ..
+1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso)
+ ..
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso)
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ), pois não impugnou, de forma suficiente, a íntegra da fundamentação lançada na decisão agravada.
+Em face do exposto, acolhendo o parecer, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. PARECER ACOLHIDO.
+Agravo não conhecido.
