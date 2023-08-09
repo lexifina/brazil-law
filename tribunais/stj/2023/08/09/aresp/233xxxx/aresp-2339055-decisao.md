@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do INSTITUTO BRASILEIRO DE DEFESA DA NATUREZA interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EXECUÇÃO TÍTULO ORIGINADO DE DECISÃO DO TRIBUNAL DE CONTAS DO ESTADO EMBARGOS IMPROCEDENTES CERCEAMENTO DE DEFESA INEXISTENTE DENUNCIAÇÃO DA LIDE INCABÍVEL SENTENÇA CONFIRMADA.
+Os embargos de declaração foram rejeitados. No recurso especial, a recorrente aponta violação aos artigos 1º, inciso III, 5º, incisos XXXV, LIV e LV, 125, 126, 131, 369 e 442, do CPC.
+Foram apresentadas contrarrazões às fls. 240-243 (e-STJ).
+Sobreveio juízo negativo de admissibilidade.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial se baseou nos seguintes argumentos: a) assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial; e b) busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior.
+Contudo, do exame do agravo interposto, observa-se o recorrente quedou-se inerte quanto a impugnação do fundamento do Juízo a quo de que assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial.
+Nas razões do agravo em recurso especial, a parte agravante limitou-se a alegar, em síntese, que:
+(..) O Tribunal "a quo" entendeu ainda, que o recurso especial não poderia ser admitido, pois não ficou demonstrada a alegada vulneração aos ARTIGOS 1º, inciso III, 5º, INCISOS XXXV, LIV e LV, TODOS DA CF. (..)
+uma vez demonstrado que no presente caso o e. TJSP decidiu de modo contrário a melhor interpretação das leis infraconstitucionais e constitucionais, e que a questão foi devidamente enfrentada pelo agravante, não há que se falar em óbice do Recurso por referência genérica dos respectivos dispositivos, assim, deve ser admitido o RECURSO ESPECIAL com fulcro na alínea "a", do art. 105, III, da CF, razão pela qual há de ser reformada a decisão agravada.
+Observa-se que a recorrente tentou impugnar fundamento que não foi utilizado pelo Tribunal de origem para inadmitir o recurso especial. Ao contrário do alegado pela parte, o recurso especial foi inadmitido em razão da impossibilidade de interposição de apelo especial para tratar de violação de artigo da Constituição Federal, e não porque o recurso deixou de demonstrar de maneira adequada violação a dispositivos constitucionais.
+Dessa forma, as razões do agravo em recurso especial estão dissociadas do fundamento da decisão de inadmissibilidade do Tribunal de origem.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 o agravo que não tenha atacado de forma adequada e específica todos os fundamentos da decisão de inadmissibilidade.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGN AÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO
