@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo manejado por VINICOLA PERINI LTDA contra decisão que negou admissibilidade ao recurso especial por entender que a controvérsia recursal é de cunho constitucional, escapando ao âmbito de cognição do recurso especial.
+A agravante insurge-se contra a decisão agravada reiterando, em síntese, as alegações do recurso especial no sentido de ofensa aos arts. 97, I, do CTN; 4º, § 2º, 12, XIV, XV e XVI, e 13, IX e X, § § 3º, 6º e 7º da LC n. 190/2022, cuja aferição seria de natureza infraconstitucional apta ao exame pelo Superior Tribunal de Justiça. No mérito pretende, em síntese, o direito ao pagamento do DIFAL-ICMS, nas operações interestaduais envolvendo consumidores finais não contribuintes do imposto, somente a partir do exercício de 2023, em respeito ao princípio da anterioridade tributária anual, haja vista que a Lei Complementar nº 190/2022 foi publicada no dia 05/01/2022, implicando na criação de um novo tributo.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 654-656 e-STJ.
+É o relatório. Passo a decidir.
+Impugnado o fundamento do juízo negativo de admissibilidade recursal, conheço do agravo e passo ao exame do recurso especial.
+O presente feito discute a aplicação do princípio da anterioridade no âmbito da Lei Complementar n. 190/2022, editada para viabilizar a cobrança do DIFAL-ICMS.
+Da análise dos autos, verifica-se que o acórdão recorrido decidiu a controvérsia com fundamento eminentemente constitucional. Confira-se (fls. 494 e-STJ):
+Pretensão da impetrante de não se submeter ao recolhimento do DIFAL nas operações interestaduais, realizadas no curso do ano-calendário de 2022, que tenham como destinatário consumidor final não contribuinte do ICMS situado no Estado de São Paulo, e pleito de restituição de valores pagos a este título.
+R. sentença que denegou a segurança, mas observou seja observada a anterioridade nonagesimal a ser considerada a partir da publicação da LC nº 190/22, de sorte que, embora não tenha assim constado, houve provimento parcialmente concessivo. Recursos de apelação interpostos por ambas as partes, e reexame necessário considerado interposto.
+Nos termos da tese fixada no Tema 1.093, do E. STF, após a EC nº 87/2015, a cobrança do diferencial de alíquota do ICMS exige lei complementar. No caso, a exação foi instituída, no Estado de São Paulo, pela Lei Estadual17.470, de 13 de dezembro de 2021, com eficácia suspensa até a vigência da Lei Complementar Federal 190, de 4 de janeiro de 2022, que trata de normas gerais do tributo. Entendimento do E. STF. Inexistência de inconstitucionalidade e/ou ofensa aos princípios da anterioridade geral e nonagesimal. Ausência de ilegalidade. Precedentes deste E. TJSP e desta C. Câmara de Direito Público
+Dessa forma, seja em razão do cunho eminentemente constitucional da controvérsia relativa à aplicação da anterioridade anual prevista no art. 150, III, "b", da Constituição Federal, seja em razão da impossibilidade de interpretação do quanto decidido pelo STF no RE 1.287.019 (Tema 1.093 da repercussão geral), não é possível a esta Corte, em sede de recurso especial, infirmar o acórdão recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS-DIFAL. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. ACÓRDÃO RECORRIDO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+1. Discute-se nos autos a exclusão do ICMS-DIFAL da base de cálculo do PIS/COFINS.
+2. Hipótese em que a questão foi dirimida pelo Tribunal de origem com base em fundamentos eminentemente constitucionais, a impedir a revisão da tese em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo interno improvido. (AgInt no REsp 2.019.681/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 16/02/2023) (Grifei)
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, CONHEÇO DO AGRAVO para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. DIFAL-ICMS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NO ÂMBITO DA LEI COMPLEMENTAR N. 190/2022. QUESTÃO DECIDIDA NA OR IGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
