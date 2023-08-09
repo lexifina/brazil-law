@@ -1,0 +1,21 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o AREsp n. 2.401.722/SP.
+Trata-se de habeas corpus impetrado em nome de Jonatan Mateus Marcelo da Silva, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo de Direito da 1ª Vara da comarca de Adamantina/SP condenou o ora paciente como incurso no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, a cumprir, em regime fechado, a pena de 6 anos de reclusão e ao pagamento de 600 dias-multa (Ação Penal n. 1501443-96.2019.8.26.0081 - fls. 627/639).
+O Tribunal de origem, por sua vez, deu parcial provimento ao recurso interposto pela defesa do réu Jonatan para alterar o aumento operado na terceira fase da dosimetria da pena para 1/6, readequando a pena imposta a Jonatan Mateus Marcelo da Silva em 5 anos e 10 meses de reclusão, no regime inicial fechado e pagamento de 583 dias-multa, no valor unitário mínimo legal, como incurso no art. 33, caput, c/c o art. 40, inciso III, da Lei n. 11.343/2006 (fl. 777).
+Nesta Corte, a defesa pretende, em síntese, a aplicação da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo; a fixação de regime menos gravoso, bem como a substituição da privativa de liberdade por restritivas de direitos.
+É o relatório.
+O acórdão impugnado não aplicou a pretendida minorante, asseverando que as circunstâncias do caso concreto são incompatíveis com a hipótese do tráfico eventual de drogas. Consoante se depreende do relatório de investigações de fls. 71/82, o acusado praticava a conduta ilícita em epígrafe há vários meses, pelo menos desde agosto de 2019, consoante mensagens trocadas entre o apelante e interlocutor de apelido "troll" (fl. 73). Conforme já anteriormente analisado, constam em tal relatório várias conversas em que o acusado realiza negócios de compra e venda de drogas com seus fornecedores e clientes (fl. 772).
+Dessa forma, para que fosse possível entender de modo diverso e afastar a conclusão de que o réu se dedica a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, o que não é possível na via eleita, que possui rito célere e cognição sumária. Nesse sentido: AgRg no REsp n. 1.737.179/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/8/2019.
+Mantida, assim, a reprimenda em 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, não há falar em substituição da privativa de liberdade por restritivas de direitos (art. 44, I, do Código Penal).
+Todavia, verifico a existência de nítido constrangimento ilegal a ser sanado, no que se refere ao regime de cumprimento da pena, o que autoriza a concessão da ordem in limine.
+Com efeito, foi fixado o regime fechado para o início do cumprimento de pena inferior a 8 anos de reclusão, tendo em vista a hediondez e a gravidade abstrata do crime de tráfico de drogas (fls. 637 e 772 ).
+Entretanto, além de não se tratar de quantidade exorbitante (quase 50 g de maconha - fl. 628), o posicionamento pacificado nesta Corte e no Supremo Tribunal Federal é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada, apenas com fundamento na hediondez ou na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Assim, tratando-se de réu primário, que teve sua pena-base fixada no mínimo legal, e a definitiva em 5 anos e 10 meses de reclusão (fl. 777), deve ser estabelecido o regime semiaberto para o início do seu cumprimento.
+Ante o exposto, concedo liminarmente a ordem, em parte, tão somente a fim de fixar o regime semiaberto para o início do cumprimento da reprimenda de 5 anos e 10 meses de reclusão imposta a Jonatan Mateus Marcelo da Silva (Ação Penal n. 1501443-96.2019.8.26.0081).
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. MOTIVAÇÃO IDÔNEA. REGIME FECHADO. GRAVIDADE ABSTRATA E HEDIONDEZ. FUNDAMENTAÇÃO INVÁLIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME SEMIABERTO. FIXAÇÃO.
+Ordem concedida liminarmente, em parte, nos termos do dispositivo.
