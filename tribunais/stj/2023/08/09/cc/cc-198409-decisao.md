@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como Suscitante o JUÍZO DE DIREITO DA 2.ª VARA CRIMINAL DE SÃO MATEUS - ES e, como Suscitado, o JUÍZO DE DIREITO DA VARA ÚNICA DE GOIANÉSIA DO PARÁ - PA.
+O Juízo Suscitado declinou de sua competência com esteio nos seguintes fundamentos (fls. 14-16):
+"O art. 65 da Lei 7.2010/1984 dispõe que a execução penal competirá ao juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+Acerca da alteração da competência, esta é possível quando houver a transferência do preso para comarca diversas, conforme previsão do artigo 86 da Lei 7.210/1984, o que não é o caso dos autos.
+O fato de o apenado mudar de domicílio durante o período de cumprimento da pena não tem o condão legal de alterar a competência originária do juízo da execução.
+ ..
+Logo, infere-se da norma legal e da jurisprudência que a mudança de domicílio do apenado não altera a competência para o processamento da execução.
+Portanto, determino a remessa dos autos juízo de origem, ficando facultado aquele à expedição e carta precatória para acompanhamento e fiscalização das condições obrigatórias imposta ao apenado que se encontra em regime aberto e as que o juízo entender cabíveis a cumulação nos termos do art. 115 da Lei 7.210/84."
+Por sua vez, o Juízo Suscitante apresentou a seguinte fundamentação (fl. 17):
+"Vieram os autos conclusos em razão da remessa dos autos pela Vara Única de Goianésia do Pará/PA, sob o entendimento que cabe à esta 2ª Vara Criminal de São Mateus/ES a fiscalização do cumprimento da pena em regime aberto, facultada a expedição de carta precatória para acompanhamento, nos termos da LEP.
+Compulsando os autos, denota-se que ao reeducando foi concedida a progressão ao regime aberto (mov. 33.1) e, em razão do pedido formulado pela Defesa no mov. 41.1, a execução penal foi redistribuída àquele Juízo de Goianésia do Pará em 16/12/2021, onde o apenado reside atualmente.
+Destaca-se que o c. CNJ, ao editar a Resolução 280/19, estabeleceu diretrizes e parâmetros para o processamento da execução penal nos tribunais brasileiros por intermédio do SEEU, fixando que a partir de 30 de junho de 2020 todos os processos de execução penal deverão tramitar no novel sistema. E conforme o art. 5º da referida Resolução, a identificação da pessoa com processo de execução penal em curso será única em todo o território nacional.
+Assim, diante das diretrizes apontando para a existência única de um processo de execução penal para sentenciado, não haveria motivo para a expedição de carta precatória em sendo viável o envio integral dos autos, notadamente por tratar-se o caso dos presentes autos de pena privativa de liberdade em regime aberto, e não restritiva de direitos."
+O Ministério Público Federal apresentou parecer, opinando pela competência do Juízo Suscitante (fls. 27-29).
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior é firme no sentido de que a execução da pena cabe ao Juízo da condenação, não implicando deslocamento de competência a mudança de domicílio do Apenado, podendo ser deprecada a fiscalização do cumprimento da pena.
+Nesse sentido:
+" ..
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).
+3. O novo Sistema Eletrônico de Execuções Unificado - SEEU tem proporcionado facilidade de acesso aos autos e otimizado a prestação jurisdicional, contudo, não tem o condão de alterar a competência para a execução da pena que é fixada na Lei n. 7.210/84. "Cabe aos Juízes envolvidos no uso desse novo instrumento lançar mão de procedimentos que extraíam os benefícios da nova ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador" (CC 170.280, DJe 11/2/2020 e CC 170.458, DJe 4/5/2020, ambos de relatoria do Ministro Sebastião Reis Júnior.
+4. "Ademais, em 16/12/2019, o Ministro do STF Alexandre de Moraes, Relator da ADIn 6259/2019, deferiu liminar, determinando a suspensão da eficácia dos arts. 2º, 3º, 9º, 12 e 13 da "Resolução CNJ nº 280/2019" que determinavam, a partir de 31/12/2019, que todos os processos de execução penal de tribunais brasileiros tramitassem obrigatoriamente pelo "Sistema Eletrônico de Execução Unificado - SEEU", sem que, até o momento, tenha sido a causa submetida a julgamento ou referenda pelo plenário" (CC 172.411, DJe 2/6/2020, Rel. Ministro Reynaldo Sorares da Fonseca).
+5. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 9ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitante, e que incumbe ao Juízo Federal da 1ª de São Bernardo do Campo - SJ/SP, o suscitado, o cumprimento da carta precatória para acompanhamento e fiscalização da execução das penas restritivas de direitos e da pena de multa." (CC 172.445/RJ, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 29/06/2020.)
+" ..
+1. Possui legitimidade para interpor agravo regimental eventual interessado, desde que demonstre que a decisão proferida no conflito de competência refletirá diretamente na sua condição carcerária.
+2. A jurisprudência desta Corte, com fundamento no art. 65 da Lei de Execuções Penais, firmou entendimento de que o juízo competente para a execução penal é o indicado na lei local de organização judiciária do Juízo da condenação. É evidente que o fato de o processo executivo ser de competência de juízo que não corresponda ao do domicílio do réu não impede, por si só, que a pena possa ser cumprida neste último local, sob a supervisão de juízo que deve ser deprecado para essa finalidade.
+3. A despeito de otimizar a ressocialização do preso e de humanizar o cumprimento da reprimenda, pela maior proximidade do preso aos seus familiares, a transferência de presídio depende da existênci a de vaga.
+4. Agravo regimental não provido." (AgRg no CC 143.256/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 17/06/2016.)
+Dessa forma, compete ao Juízo Suscitante a execução da pena do Sentenciado, o qual deverá fiscalizar o cumprimento da pena, mediante carta precatória.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o JUÍZO DE DIREITO DA 2.ª VARA CRIMINAL DE SÃO MATEUS - ES, o Suscitante .
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO. DE COMPETÊNCIA. EXECUÇÃO PENAL. RÉU DOMICILIADO EM COMARCA DIVERSA DAQUELA EM QUE FOI CONDENADO. COMPETÊNCIA DO JUÍZO DE EXECUÇÃO DA COMARCA EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA. DECLARADA A COMPETÊNCIA DO JUÍZO SUSCITANTE.
