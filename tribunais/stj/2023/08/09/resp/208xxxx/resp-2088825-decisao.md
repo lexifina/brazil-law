@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, interposto por HELIO DOMINGOS AOZANI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 128, e-STJ):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO DE SENTENÇA. VALOR INICIAL: R$ 13.355,66. FUNDAMENTO: CÉDULA RURAL Nº 88/00603-4. EXPEDIÇÃO DE ALVARÁ JUDICIAL. AUSÊNCIA DE TRÂNSITO EMJULGADO. INEXISTÊNCIA DE CAUÇÃO. IMPOSSIBILIDADE. OARTIGO 520, INCISO IV, DO CPC, DISPÕE QUE O LEVANTAMENTO DEDEPÓSITO REALIZADO NOS AUTOS, NO CUMPRIMENTO PROVISÓRIODE SENTENÇA, DEPENDERÁ DE CAUÇÃO SUFICIENTE E IDÔNEA. NOCASO DOS AUTOS, O PRESENTE CUMPRIMENTO DIZ RESPEITO ATÍTULO JUDICIAL QUE AINDA NÃO TRANSITOU EM JULGADO EMSEDE DE AÇÃO CIVIL PÚBLICA. ADEMAIS, AINDA QUE ASSIM NÃOFOSSE, A LEGISLAÇÃO PERMITE A EXIGÊNCIA DE CAUÇÃO QUANDODA DISPENSA POSSA RESULTAR MANIFESTO RISCO DE GRAVE DANODE DIFÍCIL OU INCERTA REPARAÇÃO, COMO NO CASO DOS AUTOS. PORTANTO, PARA O LEVANTAMENTO DO VALOR DEVERÁ A PARTEPRESTAR CAUÇÃO SUFICIENTE E IDÔNEA OU COMPROVAR OTRÂNSITO EM JULGADO DA AÇÃO COLETIVA. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Em suas razões de recurso especial, o Recorrente aponta, além de dissídio jurisprudencial, ofensa ao artigo 521, III e IV, do CPC/15. Sustenta, em síntese, que é prescindível a caução para o levantamento da quantia depositada
+Após a apresentação das contrarrazões (fls. 201/206, e-STJ), e após decisão de admissão do recurso especial (fls. 209/212, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local consignou (fl. 126, e-STJ):
+O presente cumprimento diz respeito a título judicial que ainda não transitou em julgado em sede de ação civil pública. Esta Câmara, por sua vez, adotou posição de cautela em ações semelhantes. Tal entendimento é amparado pela legislação em vigor, já que o próprio art. 521, em seu Parágrafo Único leciona que "A exigência de caução será mantida quando da dispensa possa resultar manifesto risco de grave dano de difícil ou incerta reparação." Portanto, inexistindo trânsito em julgado final, não há como verificar a certeza da condenação no montante pleiteado pelos exequentes.
+Com efeito, havendo pendência de recurso sem efeito suspensivo na fase de liquidação, como no caso, tem-se uma execução provisória, a qual demanda caução por parte do credor pretendente de levantamento de valores.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO PENDENTE DE JULGAMENTO DE RECURSOS. PRETENSÃO DE LEVANTAMENTO DE VALORES SEM OFERECIMENTO DE CAUÇÃO. INADMISSIBILIDADE. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A ação coletiva originária apenas inicia a formação da relação jurídica obrigacional, proporcionando a fixação de certeza genérica acerca do dever de prestar e da legitimidade do devedor. Por isso, somente com a posterior liquidação individual da sentença coletiva genérica é que se poderá estabelecer a relação jurídica obrigacional em sua totalidade ou completude, identificando-se devidamente cada credor da prestação e determinando-se o quantum especificamente devido a este.
+2. Havendo pendência de recurso sem efeito suspensivo na fase de liquidação, como no caso, tem-se uma execução provisória, a qual demanda caução por parte do credor pretendente de levantamento de valores.
+3. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no REsp n. 1.748.933/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 9/2/2021, DJe de 5/8/2021.)
+Aplicável a Súmula 83/STJ para ambas as alíneas.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e nego-lhe p rovimento.
+Publique-se. Intimem-se.
