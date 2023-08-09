@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 594-595):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DESPRONÚNCIA. TESTEMUNHO INDIRETO (POR "OUVIR DIZER"). IMPOSSIBILIDADE. AUSÊNCIA DE OUTROS INDÍCIOS DE AUTORIA.
+1. O art. 413 do Código de Processo Penal exige, para a submissão do réu a julgamento pelo Tribunal do Júri, a existência de comprovação da materialidade delitiva e de indícios suficientes de autoria ou participação.
+2. Conforme o entendimento jurisprudencial desta Corte, "muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia baseada, exclusivamente, em testemunho indireto (por ouvir dizer) como prova idônea, de per si, para submeter alguém a julgamento pelo Tribunal Popular". (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/12/2017.)
+3. Afastando-se o testemunho indireto (por ouvir dizer) prestado em juízo, não subsiste um único indício colhido na fase judicial que aponte para o acusado, que não confessou o crime, como autor do homicídio que lhe fora imputado.
+4. Com efeito, " o  recente entendimento adotado pela Sexta Turma do STJ, firmado com observância da atual orientação do Supremo Tribunal Federal, é de que não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem qualquer lastro probatório produzido em juízo, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial". (REsp n. 1.932.774/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/8/2021, DJe 30/8/2021.)
+5. Agravo regimental desprovido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVIII, d, da CF e aduz haver repercussão geral da matéria tratada.
+Defende, em síntese, que (fls. 625 e 627):
+ ..  segundo a moldura legal do artigo 413, caput, e seu parágrafo 1º, do Código de Processo Penal, a pronúncia consubstancia mero juízo de admissibilidade da acusação, em que se exige apenas o convencimento da prova material do crime e indícios de autoria, de modo que "a questão se decide pro societate e não pro reo", como reiteradamente afirma o Superior Tribunal de Justiça(RSTJ 98/430).
+Assim, salvo em hipóteses excepcionais, ou seja, quando estreme de dúvida a inexistência do fato ou que o imputado não seja seu autor ou, ainda, que não esteja presente o elemento subjetivo do tipo, ao juiz não é lícito afastar a imputação, sob pena de usurpar competência constitucional do Tribunal do Júri (artigo 74, parágrafo 1º, do Código de Processo Penal).
+ ..
+ ..  ainda que se admita a aplicação do artigo 155 do Código de Processo Penal à decisão de pronúncia, o presente caso não representa qualquer ofensa às normas nele estabelecidas.
+Nesse contexto, possível a utilização dos elementos informativos referendados por prova colhida sob o crivo do contraditório, da ampla defesa e do devido processo legal, em atenção à plenitude de defesa, na linha do que decidiu a Corte Cidadã, pela qual não há falar em sentença de pronúncia calcada exclusivamente em elementos colhidos em sede inquisitiva quando confirmados por outras provas angariadas em sede judicial (AgRg no HC 670.141/RS).
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 641-645.
+É o relatório.
+O STF, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou a seguinte tese (Tema n. 154/STF):
+Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, "c").
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa.
+II - Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+III - Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri.
+III - Recurso extraordinário não provido.
+(RE n. 593.443, relator para o acórdão Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 6/6/2013, DJe de 22/5/2014.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fl. 601):
+Como posto na decisão agravada, e em que pese a gravidade da imputação, as instâncias ordinárias decidiram pela pronúncia do réu com fundamento em testemunho indireto prestado por pessoa (policial), o qual ouviu que o paciente seria um dos autores do crime.
+Conforme já salientado, fiaram-se as instâncias anteriores no "depoimento do policial militar que atendeu a ocorrência, quem registrou que, após chegar no local do fato, foi atrás do autor da facada juntamente com testemunhas presenciais, os quais teriam apontado o inculpado como sendo o autor do ato agressor" (fl. 527).
+No entanto, os relatos produzidos na delegacia de polícia, que apontaram o acusado como o executor das facadas, foram os das testemunhas Davi de Menezes e Heliton Correa, não confirmados, todavia, em juízo.
+Em verdade, a menção a boatos e informes caracterizam, no máximo, frágeis relatos indiretos (testemunhas por ouvir dizer), os quais a jurisprudência desta Corte tem rechaçado, por não constituírem fundamentos idôneos, quando escoteiros, para a submissão da acusação ao Tribunal do Júri.
+Tem-se, portanto, caso de impronúncia do réu pelo Superior Tribunal de Justiça no julgamento de habeas corpus.
+Essa situação configura hipótese abarcada pelo Tema n. 154 do STF, acima referido, de modo que a solução aplicada no acórdão impugnado não ofende o monopólio da ação penal pública (art. 129 da CF), tampouco os postulados do juiz natural (art. 5º, LIII, da CF) e da soberania dos veredictos do júri (art. 5º, XXXVIII, c, da CF), o que obsta o processamento do recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ORDEM CONCEDIDA PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF. NEGATIVA DE SEGUIMENTO.
