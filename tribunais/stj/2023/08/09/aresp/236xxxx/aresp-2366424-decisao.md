@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INTELLI INDÚSTRIA DE TERMINAIS ELÉTRICOS LTDA. contra decisão que inadmitiu recurso especial ante a ausência de ofensa aos artigos tidos por violados, a incidência da Súmula n. 7 do STJ e a falta de similitude entre os acórdãos confrontados.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 26):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. PEDIDO DE PESQUISA PELO SISTEMA CCSBACENJUD. SISTEMAS QUE SE DESTINA A APURAR CRIMES DE LAVAGEM OU OCULTAÇÃO PATRIMONIAL. INADEQUAÇÃO DA MEDIDA,TENDO EM VISTA AS CARACTERÍSTICAS DO CASO CONCRETO. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 4º, 139, IV, 371, 489, 789, 797 e 824 e 1.022 do CPC, além de divergência jurisprudencial.
+Alega omissão e falta de fundamentação no acórdão recorrido.
+Defende a aplicabilidade da pesquisa ao Cadastro de Clientes do Sistema Financeiro Nacional (CCS BACEN) no âmbito das execuções cíveis.
+Sustenta a necessidade da consulta em nome dos recorridos (executados), visando a obtenção de informações úteis para subsidiar futuro pedido de penhora (negar atos executivos visando a satisfação da execução).
+Requer o retorno dos autos para que sejam sanados os vícios apontados ou o provimento do recurso para que seja reconhecida a aplicabilidade da pesquisa CCS-BACEN nas execuções cíveis.
+É o relatório. Decido.
+O recurso merece prosperar em parte.
+Afasta-se a alegada ofensa aos arts. 371, 489 e 1.022 do CPC, uma vez que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+O Tribunal de origem, sobre o pedido de pesquisa pelo sistema CCS-Bacen, disse o seguinte (fls. 27-28):
+O cadastro CCS BACENJUD foi criado pela Lei nº 10.701/03, que acrescentou o artigo 10-A à Lei nº 9.613/98, que tem por escopo a investigação de crimes de "lavagem" ou ocultação de bens, direitos e valores:
+ ..
+O Conselho Nacional de Justiça, inclusive, assevera que "o principal objetivo do CCS é auxiliar nas investigações financeiras conduzidas pelas autoridades competentes, mediante requisição de informações pelo Poder Judiciário (ofício eletrônico), ou por outras autoridades, quando devidamente legitimadas" (conforme https://www. cnj. jus. br/sistemas/ccs-bacen/, acessado em17.05.2022), restando bem definido as hipóteses em que são permitidas a pesquisa, o que não ocorre na hipótese dos autos, em que se busca o adimplemento de débito exequendo, sem sinal de cometimento de fato típico que justifique sua utilização.
+Desse modo, não está indicada a utilização da ferramenta, dado sua inaplicabilidade ao caso concreto.  ..
+Esse entendimento encontra-se em desacordo com a jurisprudência do STJ.
+A Terceira Turma deste Tribunal, nos recursos especiais 1.938.665/SP e 2043.328/SP, de relatoria da Ministra Nancy Andrighi, entendeu que "justamente porque o CCS-Bacen, ressaltado outrora, consubstancia sistema de informações que não contém dados de valor, de movimentação financeira ou de saldos de contas ou aplicações, mas apenas os contornos da identificação cadastral, sobre o relacionamento dos clientes com as instituições do Sistema Financeiro Nacional, decidiu-se inexistir impedimento à consulta ao CCS-Bacen nos procedimentos cíveis, devendo ser considerado como apenas mais um mecanismo à disposição do credor na busca para satisfazer o seu crédito".
+O julgado trouxe a seguinte jurisprudência:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VÍCIOS NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EXPEDIÇÃO DE OFÍCIO AO CADASTRO DE CLIENTE DO SISTEMA FINANCEIRO NACIONAL DO BANCO CENTRAL DO BRASIL - CCS/BACEN. POSSIBILIDADE.
+1- Recurso especial interposto em 26/8/2020 e concluso ao gabinete em 21/6/2021.
+2- O propósito recursal consiste em dizer se seria possível, após as devidas tentativas de identificação e constrição de ativos financeiros restarem infrutíferas, a determinação de consulta ao CCS-Bacen, com o fim de apurar a existência de patrimônio do devedor, perseguido em cumprimento de sentença, de natureza cível.
+3- Na hipótese em exame, é de ser afastada a existência de vícios no acórdão recorrido, à consideração de que as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+4- O Cadastro de Clientes do Sistema Financeiro Nacional (CCS) é um sistema de informações de natureza cadastral, que tem por objeto os relacionamentos mantidos pelas instituições participantes com os seus correntistas ou clientes, mas não congrega dados relativos a valor, movimentação financeira ou saldos de contas e aplicações.
+5- Em suma, o mencionado cadastro contém as seguintes informações sobre o relacionamento dos clientes ou correntistas com as instituições do Sistema Financeiro Nacional: a) identificação do cliente e de seus representantes legais e procuradores; b) instituições financeiras em que o cliente mantém seus ativos ou investimentos; e c) datas de início e, se houver, de fim de relacionamento.
+6- O CCS-Bacen, portanto, ostenta natureza meramente cadastral. Não implica constrição, mas sim subsídio à eventual constrição, e funciona como meio para o atingimento de um fim, que poderá ser a penhora de ativos financeiros por meio do BacenJud.
+7- Em outras palavras, o acesso às informações do CCS serve como medida que poderá subsidiar futura constrição, alargando a margem de pesquisa por ativos. Não se mostra razoável, assim, permitir a realização de medida constritiva por meio do BacenJud e negar a pesquisa exploratória em cadastro meramente informativo, como é o caso do CCS. Precedente.
+8- Dessa forma, não há qualquer impedimento à consulta ao CCS-Bacen nos procedimentos cíveis, devendo ser considerado como apenas mais um mecanismo à disposição do credor na busca para satisfazer o seu crédito.
+9- Recurso especial provido. (REsp n. 1.938.665/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2021, DJe de 3/11/2021.)
+Diante da ausência de informações sobre a satisfação das diligências realizadas para localizar bens dos agravados, entendo por necessário o retorno dos autos para que proceda a novo julgamento do agravo de instrumento, observado o entendimento do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e dar-lhe provimento para determinar o retorno dos autos ao Tribunal de origem a fim de que proceda a novo julgamento do agravo de instrumento, à luz da orientação jurisprudencial firmada por ocasião do julgamento dos recursos especiais acima destacados.
+Publique-se. Intimem-se.
