@@ -1,0 +1,173 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DIFERENÇAS SALARIAIS DECORRENTES DA URV. ANÁLISE: NECESSIDADE DE REEXAME DO QUADRO FÁTICO. IMPOSSIBILIDADE EM SEDE EXTRAORDINÁRIA. ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. ATUALIZAÇÃO MONETÁRIA. RE Nº 870.947-RG/SE; TEMA RG Nº 810. ATUALIZAÇÃO DAS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. USO DA TR: INCONSTITUCIONALIDADE. MODULAÇÃO DOS EFEITOS: EXPRESSAMENTE AFASTADA. NEGATIVA DE SEGUIMENTO.
+
+    1. Trata-se de agravo contra decisão negativa de admissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “APELAÇÃO - AÇÃO DE COBRANÇA PELO RITO ORDINÁRIO - SERVIDOR PÚBLICO ESTADUAL - URV - Pretensão má de recálculo da remuneração nos termos da lei no 8.880/94 a partir de março de 1994 - Prescrição do fundo de direito afastada, reconhecida apenas a prescrição quinquenal, para impedir a cobrança das diferenças que deveriam ser pagas antes do período de cinco anos que antecedeu o ajuizamento do feito. Súmula n° 85 do STJ - Dezessete autores que demonstraram os fatos constitutivos de seu direito, sendo de rigor a procedência da ação em relação a eles - Três autores que não demonstraram suas condições de servidores à época da conversão, existindo para estes apenas a possibilidade em tese - Fato constitutivo do direito ( art. 333 , I, do CPC) - Ônus sucumbenciais carreados à apelante , ante à sucumbência na maior parte da demanda - Sentença parcialmente reformada - Recursos voluntário e de oficio parcialmente providos.” (e-doc. 21).
+
+    2. No presente recurso extraordinário, interposto com fundamento nas alíneas “a” e “b” do permissivo constitucional, o recorrente afirma violados os arts. 5º, caput, 25, 37, incs. X e XIII, 39, § 1º, e 169, § 1º, incs. I e II, da Constituição da República. Sustenta ofensa ao art. 97 da CRFB e necessária a aplicação dos índices de correção previstos na Lei nº 11.960, de 2009 (e-doc. 24).
+
+    É o relatório.
+
+    Decido.
+
+    3. Entendo que a pretensão recursal não merece acolhida. Com efeito, o Colegiado de origem examinou as singularidades do caso concreto com base em dados fáticos carreados aos autos e com lastro nas normas de regência, dirimindo a controvérsia nos seguintes meandros:
+
+    “Pois bem. A Lei 8.880/94 dispôs sobre o Programa de Estabilização Econômica e o Sistema Monetário Nacional, instituiu a Unidade Real de Valor (URV) e, dentre as inúmeras regras de transição com vistas à conversão do Cruzeiro Real para o Real, determinou no seu artigo 22 a conversão dos vencimentos dos servidores públicos em URV na data de 1º de março de 1994.
+
+    Tratando-se de questão relacionada com alteração da moeda, atinente ao sistema monetário nacional, a matéria é de competência privativa da União nos termos do artigo 22, VI, da Constituição Federal.
+
+    Assim, por se tratar de norma geral, as regras de conversão dos vencimentos dos servidores em URV devem ser observadas também pelos Estados e Municípios, sem que se possa falar em violação da autonomia desses entes Federativos, de modo que os critérios de conversão previstos na Lei no 8.880/94 alcançam todos os servidores públicos, sejam eles federais, distritais, estaduais ou municipais.
+
+    Aliás, a tese da Fazenda estadual apegada na alegação de que não houve prova do efetivo prejuízo aos autores carece de respaldo jurídico. Ora, uma vez não respeitado o correto critério previsto em lei como medida de transição à adoção da nova moeda, mostra-se manifesta e independente de prova a ocorrência prejuízo, ao passo que decorre do próprio fato do cálculo ter se dado em divergência ao quanto imposto pela Lei Federal (in re ipsa). Não bastante isso, apresenta-se contraditória a alegação da Fazenda Pública, pois alega ter efetuado a conversão dos vencimentos em URV, quando, em verdade, aplicou um aumento não relacionado à mudança - de moeda, para, posteriormente,afirmar categoricamente que ‘impor aos Estados a observância da Lei no 8.880/94 constitui afronta ao artigo 25, caput, da Lei Maior, que dispõe que os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição, revelando-se equivocada, neste ponto, a conclusão do MM. Juízo.
+
+    (...)
+
+    Destarte, se a conversão para a URV não foi efetuada na data correta, como previa a legislação á aplicável, constata-se que a Fazenda estadual desobedeceu ao comando da Lei Federal e acarretou perdas econômicas aos autores.
+
+    Ainda, frise-se que, in casu, não haverá concessão de uma ‘nova’ oportunidade para conversão dos vencimentos com base na URV, mas, antes, em ‘adequada’ aplicação da medida de conversão, do que se extrai inexistir afronta ao quanto disposto no art. 37, caput, da CF/88, às diretrizes orçamentárias, ou mesmo ao teor do Enunciado no 339, da Súmula do C. STF.” (e-doc. 21; grifos acrescidos).
+
+    4. Da leitura dos fundamentos acima indicados, tem-se que, para aferir qualquer divergência quanto ao entendimento definido no acórdão recorrido e examinar a plausibilidade dos argumentos trazidos no apelo extremo, seriam necessários o reexame dos pressupostos fático-probatórios constantes dos autos e a análise da legislação de regência, o que é inviável no campo extraordinário, ante o óbice do enunciado nº 279 da Súmula do STF.
+
+    5. Em casos semelhantes, cabe destacar:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. REVISÃO DOS VENCIMENTOS. DATA DO PAGAMENTO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 913). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+
+    (RE nº 1.238.465-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 14/02/2020, p. 28/02/2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. CONVERSÃO DE CRUZEIRO REAL EM UNIDADE REAL DE VALOR - URV. DIREITO À RECOMPOSIÇÃO REMUNERATÓRIA. TEMA 5 DA REPERCUSSÃO GERAL. CONTROVÉRSIA SOBRE A DATA DE PAGAMENTO DOS SERVIDORES ESTADUAIS. VERIFICAÇÃO DA OCORRÊNCIA DE REDUÇÃO REMUNERATÓRIA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – No julgamento do RE 561.836-RG/RN (Tema 5 da repercussão geral), de relatoria do Ministro Luiz Fux, o Supremo Tribunal Federal assentou que os servidores públicos têm direito à incorporação dos 11,98%, ou do índice decorrente do processo de liquidação, resultante da perda remuneratória oriunda da equivocada conversão do Cruzeiro Real em Unidade Real de Valor – URV. II – Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. III – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais. IV – Agravo regimental a que se nega provimento.”
+
+    (RE nº 1.005.478-AgR/MT, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 09/03/2018, p. 20/03/2018).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. CONVERSÃO DE CRUZEIRO REAL EM UNIDADE REAL DE VALOR - URV. DIREITO À RECOMPOSIÇÃO REMUNERATÓRIA. TEMA 5 DA REPERCUSSÃO GERAL. LEI 8.880/1994. CABÍVEL RECOMPOSIÇÃO REMUNERATÓRIA DE SERVIDOR DO PODER EXECUTIVO LOCAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – No julgamento do RE 561.836-RG/RN (Tema 5 da Repercussão Geral), de relatoria do Ministro Luiz Fux, o Supremo Tribunal Federal assentou que os servidores públicos têm direito à incorporação dos 11,98%, ou do índice decorrente do processo de liquidação, resultante da perda remuneratória oriunda da equivocada conversão do Cruzeiro Real em Unidade Real de Valor – URV. II – Esta Corte já se manifestou no sentido de admitir a recomposição salarial dos servidores do Poder Executivo local, quando identificado decréscimo salarial em decorrência da conversão monetária em URV, determinada pela Lei 8.880/1994. Precedentes. III – Agravo regimental a que se nega provimento.”
+
+    (RE nº 1.020.769-AgR/RJ, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 27/03/2020, p. 12/05/2020).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. SERVIDOR ESTADUAL. VENCIMENTOS. CONVERSÃO EM URV. DATA DO PAGAMENTO. INCIDÊNCIA DA SÚMULA 279/STF. DESCABIMENTO. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão do Tribunal de origem quanto a adequação do caso concreto à situação objeto do RE 561.836-RG, Rel. Min. Luiz Fux (Tema 5) demandaria uma nova análise dos fatos e das provas constantes dos autos, bem como o exame da legislação local aplicável. Nessas condições, incidem as Súmulas 279 e 280/STF. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.“
+
+    (ARE nº 961.985-AgR/MT, Rel. Min. Roberto Barroso, Primeira Turma, j. 09/08/2016, p. 29/08/2016).
+
+    6. Ademais, verifico inocorrente a alegada afronta à cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação a despeito da norma do artigo 97 da Constituição da República, mas, tão somente, interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INFRAÇÃO DE TRÂNSITO. INDICAÇÃO DO CONDUTOR PELO PROPRIETÁRIO DO VEÍCULO. INTERPRETAÇÃO DO ART. 257, § 7º, DO CTB. ALEGADA OFENSA AO ART. 97 DA CRFB E AO ENUNCIADO Nº 10 DA SÚMULA VINCULANTE: NÃO OCORRÊNCIA. 1. Não há violação à cláusula de reserva de plenário quando o Tribunal de origem não declara a inconstitucionalidade de norma. 2. No caso, o Superior Tribunal de Justiça assentou que o art. 257, § 7º, do Código de Trânsito Brasileiro não teria o condão do impedir a discussão sobre a autoria da infração de trânsito perante o Poder Judiciário. Não houve, assim, manifestação do Tribunal de origem quanto à suposta incompatibilidade da norma legal com a Carta da República. 3. Agravo regimental a que se nega provimento.”
+
+    (ARE nº 1.263.403-ED-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 14/09/2022, p. 28/09/2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+
+    III - Agravo regimental a que se nega provimento.”
+
+    (ARE nº 784.179-AgR/PE, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 04/02/2014, p. 17/02/2014).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+
+    Agravo regimental a que se nega provimento.”
+
+    (ARE nº 767.313-AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, j. 10/03/2015, p. 26/03/2015).
+
+    7. No que se refere à atualização monetária, assim constou do acórdão recorrido:
+
+    “Advirta-se que sobre os valores da condenação, tendo em vista o entendimento das Cortes Superiores que, por arrastamento, consideraram inconstitucional o art. 1ª - F, da Lei 11.960/2009, retorna-se com a aplicação da Lei no 9.494/97 na sua redação original (conferida pela MP no 2.180-35/2001), incidindo o índice de atualização monetária dos débitos judiciais previsto na Tabela Prática do Tribunal de Justiça de São Paulo e juros de mora à base de 6% ao ano, contados a partir da citação.” (e-doc. 21).
+
+    8. Ressalto ser inaplicável ao presente caso, o que decidido nas ADIs nº 4.357/DF e nº 4.425/DF, no tocante à correção monetária. Ocorre que esses paradigmas se referem ao art. 100, § 12, da CRFB, modificado pela Emenda Constitucional nº 62, de 2009, portanto, relativos apenas à atualização de precatórios. Assim expressamente consignado na ementa a seguir:
+
+    “EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. EMENDA CONSTITUCIONAL Nº 62/2009. SUPOSTA OMISSÃO QUANTO AO ÍNDICE DE CORREÇÃO MONETÁRIA DAS CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA (“PRECATÓRIOS NÃO EXPEDIDOS”). ALCANCE MATERIAL DA DECISÃO DE MÉRITO. LIMITES DA DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ARRASTAMENTO DO ART. 1º-F DA LEI 9.494/1997 COM REDAÇÃO DADA PELA LEI 11.960/2009. EXTENSÃO DO ACÓRDÃO EMBARGADO. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+
+    1. O art. 1º-F da Lei nº 9.494/1997 foi declarado inconstitucional pelo Supremo Tribunal Federal, ao julgar as ADIs nº 4.357 e 4.425, apenas na parte em que o texto legal estava logicamente vinculado no art. 100, §12, da CRFB, incluído pela EC nº 62/2009, o qual se refere tão somente atualização de valores de requisitórios, não abarcando as condenações judiciais da Fazenda Pública.
+
+    2. A correção monetária nas condenações judiciais da Fazenda Pública seguem disciplinadas pelo art. 1º-F da Lei nº 9.494/1997, devendo-se observar o índice oficial de remuneração da caderneta de poupança como critério de cálculo; o IPCA-E deve corrigir o crédito uma vez inscrito em precatório.
+
+    3. Os juros moratórios nas condenações judiciais da Fazenda Pública seguem disciplinadas pelo art. 1º-F da Lei nº 9.494/1997, aplicando-se-lhes o índice oficial de remuneração da caderneta de poupança como critério de cálculo, exceto no que diz respeito às relações jurídico-tributárias, aos quais devem seguir os mesmos critérios pelos quais a Fazenda Pública remunera o seu crédito.
+
+    4. Embargos de declaração rejeitados.”
+
+    (ADI nº 4.357-QO-ED/DF, Rel. Min. Luiz Fux, Tribunal Pleno, j. 09/12/2015, p. 06/08/2018; grifos acrescidos).
+
+    9. Por sua vez, a controvérsia contida no presente recurso extraordinário foi solucionada quando do julgamento do RE nº 870.947- RG/SE — Tema nº 810 do ementário da Repercussão Geral, ocasião em que o Supremo Tribunal Federal concluiu pela inconstitucionalidade da utilização dos índices de remuneração da caderneta de poupança como critério de correção monetária das condenações impostas à Fazenda Pública. Confira-se a ementa desse julgado:
+
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09 IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO AO DIREITO FUNDAMENTAL DE PROPRIEDADE (CRFB, ART. 5º, XXII). INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS. INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO RENDIMENTO DA CADERNETA DE POUPANÇA COMO ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DE CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA, QUANDO ORIUNDAS DE RELAÇÕES JURÍDICO TRIBUTÁRIAS. DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CRFB, ART. 5º, CAPUT). RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.
+
+    1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado.
+
+    2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+
+    3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia . São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29).
+
+    4. A correção monetária e a inflação, posto fenômenos econômicos conexos, exigem, por imperativo de adequação lógica, que os instrumentos destinados a realizar a primeira sejam capazes de capturar a segunda, razão pela qual os índices de correção monetária devem consubstanciar autênticos índices de preços. 5. Recurso extraordinário parcialmente provido.”
+
+    (RE nº 870.947-RG/SE, Rel. Min. Luiz Fux, Tribunal Pleno, j. 20/09/2017, p. 20/11/2017; grifos acrescidos).
+
+    10. Do mesmo modo, quanto à modulação pretendida pelo recorrente, tem-se que aquela resultante do julgamento das ADIs nº 4.357/DF e nº 4.425/DF diz respeito apenas a precatórios e RPV, e não às condenações impostas à Fazenda Pública no processo de conhecimento.
+
+    11. De resto, acrescento que a modulação pleiteada pelo recorrente foi expressamente rechaçada pelo Plenário, quando da apreciação dos diversos embargos de declaração opostos no precedente acima citado, como pode ser verificado da leitura da ementa a seguir:
+
+    “QUARTOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. REJEIÇÃO. REQUERIMENTO DE MODULAÇÃO DE EFEITOS INDEFERIDO.
+
+    1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos do Recurso Extraordinário.
+
+    2. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo.
+
+    3. A respeito do requerimento de modulação de efeitos do acórdão, o art. 27 da Lei 9.868/1999 permite a estabilização de relações sociais surgidas sob a vigência da norma inconstitucional, com o propósito de prestigiar a segurança jurídica e a proteção da confiança legítima depositada na validade de ato normativo emanado do próprio Estado.
+
+    4. Há um juízo de proporcionalidade em sentido estrito envolvido nessa excepcional técnica de julgamento. A preservação de efeitos inconstitucionais ocorre quando o seu desfazimento implica prejuízo ao interesse protegido pela Constituição em grau superior ao provocado pela própria norma questionada. Em regra, não se admite o prolongamento da vigência da norma sobre novos fatos ou relações jurídicas, já posteriores à pronúncia da inconstitucionalidade, embora as razões de segurança jurídica possam recomendar a modulação com esse alcance, como registra a jurisprudência da CORTE.
+
+    5. Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados.
+
+    6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma.
+
+    7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional.
+
+    8. Embargos de declaração todos rejeitados. Decisão anteriormente proferida não modulada.”
+
+    (RE nº 870.947-RG-ED-Quartos/SE, Rel. Min. Luiz Fux, Red. do Acórdão Min. Alexandre de Moraes, Tribunal Pleno, j. 03/10/2009, p. 03/02/2020; grifos acrescidos).
+
+    12. Nesse sentido, cito a jurisprudência maciça produzida por esta Suprema Corte:
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. ADIs Nº 4.357 E Nº 4.425. MODULAÇÃO DE EFEITOS. TEMA RG Nº 810. CORRETA APLICAÇÃO DO ENTENDIMENTO DO SUPREMO. 1. Os paradigmas decisórios emanados desta Suprema Corte em controle concentrado, embora versem sobre a (in)constitucionalidade do mesmo índice de atualização monetária (a TR), demandam distinção quanto aos respectivos objetos: enquanto as ADIs nº 4.357 e nº 4.425 trataram especificamente da correção monetária dos requisitórios (precatórios e RPVs), o Tema RG nº 810 versou acerca da correção monetária das condenações judiciais impostas à Fazenda Pública. 2. Os requisitórios expedidos entre 10/12/2009 (data da entrada em vigor da EC nº 62, de 2009) e 25/03/2015 (data fixada na modulação de efeitos), porque objeto de decisão específica deste Supremo Tribunal Federal, estão salvaguardados dos efeitos da inconstitucionalidade da Taxa Referencial (TR). Quanto ao período anterior à expedição do precatório, aplica-se o entendimento firmado no RE nº 870.947, Tema RG nº 810. 3. Agravo regimental conhecido e não provido.”
+
+    (Rcl nº 24.311-AgR/GO, de minha relatoria, Segunda Turma, j. 02/05/2022, p. 19/05/2022).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. CORREÇÃO MONETÁRIA. IPCA-e. TEMA 810. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. Ao decidir pela aplicação do IPCA-e como índice de correção monetária, o acórdão recorrido está alinhado à jurisprudência desta CORTE firmada no julgamento do RE 870.947-RG, Tema 810, da sistemática da Repercussão Geral, relativamente aos juros e à correção monetária nas condenações da Fazenda Pública. 2. Agravo Interno a que se nega provimento.“
+
+    (RE nº 826.881-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 02/03/2022, p. 08/03/2022).
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADO EQUÍVOCO NA APLICAÇÃO DO TEMA 810 DA REPERCUSSÃO GERAL E DESCUMPRIMENTO DAS DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE NS. 4.357 E 4.425: INOCORRÊNCIA. SUPERVENIENTE REJEIÇÃO DA PROPOSTA DE MODULAÇÃO DOS EFEITOS DA DECISÃO PROFERIDA NO RECURSO EXTRAORDINÁRIO N. 870.947 (TEMA 810). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Rcl nº 46.316-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, j. 31/05/2021, p. 02/06/2021) “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 11.08.2021. CONDENAÇÃO DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. ATUALIZAÇÃO MONETÁRIA. IMPOSSIBILIDADE DE APLICAÇÃO DO ÍNDICE OFICIAL DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA. TAXA REFERENCIAL (TR). TEMA 810 DA REPERCUSSÃO GERAL. APLICABILIDADE. PRECEDENTES. NÃO INCIDÊNCIA DO TEMA 733 DA RG. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. No caso, o Tribunal a quo determinou a aplicação do IPCA-E como índice para atualização monetária da condenação, conforme orientação traçada por esta Suprema Corte ao apreciar o RE 870.974-RG, referente ao Tema 810 da sistemática da repercussão geral. 2. Não incidência do Tema 733 da Repercussão Geral. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC.“
+
+    (ARE nº 1.312.852-AgR/SP, Rel. Min Edson Fachin, Segunda Turma, j. 25/10/2021, p. 12/11/2021).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. TEMA 810 DA REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. NÃO OCORRÊNCIA. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO AGRAVO, COM APLICAÇÃO DE MULTA. I – O Supremo Tribunal Federal, ao apreciar o RE 870.947-RG/SE (Tema 810 da Repercussão Geral), concluiu que o art. 1°-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (art. 5°, XXII, da CF). Não houve modulação dos efeitos dessa decisão. II – Agravo regimental a que se nega provimento, com aplicação da multa ( art. 1.021, § 4°, do CPC).”
+
+    (ARE nº 1.165.848-ED-ED-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 25/10/2021, p. 04/11/2021; grifos acrescidos).
+
+    “EMBARGOS DE DECLARAÇÃO. DIREITO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. ÍNDICE. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RE 870.947-RG. TEMA Nº 810/STF DA SISTEMÁTICA DA REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. INOCORRÊNCIA. APLICAÇÃO DO IPCA-E. CONCESSÃO EXCEPCIONAL DE EFEITOS INFRINGENTES. 1. No julgamento dos Embargos de Declaração opostos ao RE 870.947- RG, esta Corte rejeitou a modulação de efeitos postulada, preservando o entendimento da inconstitucionalidade da correção monetária pelo índice de remuneração oficial da caderneta de poupança (TR) às condenações impostas à Fazenda Pública. Verificada, portanto, a identidade entre o precedente paradigmático e o caso dos autos. 2. Embargos de declaração acolhidos para, concedendo-lhes excepcionais efeitos modificativos, determinar a adoção do IPCA-E como índice a ser aplicado para a correção monetária do valor devido.”
+
+    (RE nº 1.143.726-AgR-ED/SP, Rel. Min. Rosa Weber, Primeira Turma, j. 21/06/2021, p. 25/06/2021; grifos acrescidos).
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONDENAÇÃO DA FAZENDA PÚBLICA. CRITÉRIO DE CORREÇÃO MONETÁRIA. TEMA 810. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. MODULAÇÃO DE EFEITOS. INOCORRÊNCIA. 1. O acórdão recorrido não diverge da jurisprudência sedimentada, pelo Plenário do Supremo Tribunal Federal, no julgamento do RE 870.947-RG, Tema 810. 2. Não houve modulação de efeitos da declaração parcial de inconstitucionalidade do art. 1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009. 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios. 4. Agravo interno a que se nega provimento.”
+
+    (ARE nº 1.004.554-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma, j. 08/06/2020, p. 23/06/2020; grifos acrescidos).
+
+    13. Nestes moldes, o acórdão do Tribunal a quo, ao afastar a aplicação da TR para a correção monetária da condenação, está em conformidade com a jurisprudência do STF.
+
+    14. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017).
+
+    15. Alerto, de resto, que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a Justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+    16. Do quanto exposto e apreciado, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita
+
+    Publique-se.
+
+    Brasília, 9 de agosto de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
