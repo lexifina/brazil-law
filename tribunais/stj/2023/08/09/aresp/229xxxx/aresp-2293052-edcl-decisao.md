@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SPE JOSE HIGINO INCORPORADORA E CONSTRUTORA LTDA. e CONSTRUTORA SANTA CECÍLIA DO RIO DE JANEIRO LTDA. contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino que não conheceu do agravo em recurso especial (fls. 710-713).
+A parte embargante alega os seguintes vícios: a) está sendo negado conhecimento ao recurso das embargantes em razão de uma matéria que não foi suscitada e está coberta pelo manto da coisa julgada, qual seja, Tema 971/STJ; b) a decisão embargada restou omissa quanto aos capítulos constantes nas razões recursais através do qual foram especificamente impugnadas: (I) ausência de negativa de prestação jurisdicional; e (II) incidência da Súmula 7/STJ (fls. 715-718)
+Requer o saneamento dos vícios apontados.
+A embargada, instada a manifestar-se, apresentou impugnação (fls. 723-724).
+É, no essencial, o relatório.
+Os embargos declaratórios são incabíveis para a modificação do julgado que não se apresenta omisso, contraditório ou obscuro ou não contenha erro material.
+No pres ente caso, razão parcial assiste à parte embargante.
+Com efeito, a decisão embargada não conheceu do agravo em recurso especial interposto entendendo que fora interposto também contra a parte que inadmitiu o recurso especial com base no art. 1.030, inciso I, alínea "b", do CPC/2015.
+Todavia, não se encontra nas razões recursais lançadas no agravo em recurso especial nenhuma menção a esse tema, razão pela qual se deve excluir da decisão embargada referida fundamentação.
+No mais, a decisão embargada foi clara ao aplicar o teor do que dispõe o art. 932, inciso III, do CPC/2015, não conhecendo do agravo em recurso especial, por falta de ataque específico à decisão agravada. Vejamos:
+De toda sorte, quanto aos óbices remanescentes, igualmente não conheço do agravo em recurso especial, tendo em vista a ausência de impugnação específica e suficiente aos argumentos utilizado pelo Tribunal de origem.
+Nesse passo, constato que o recurso especial dos recorrentes foi inadmitido em razão de: a) ausência de negativa de prestação jurisdicional; e b) incidência da Súmula 7/STJ.
+Os agravantes, entretanto, não demonstraram específica e objetivamente a inadequação dos referidos fundamentos, limitando-se a tecer considerações meramente genéricas sem, entretanto, evidenciar o desacerto da decisão de acordo com as peculiaridades dos autos, em atenção à jurisprudência desta Corte.
+Convém ressaltar, por oportuno, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+ ..
+Desta forma, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015, veja-se:
+ ..
+Inviável, pois, a pretensão dos agravantes.
+Assim, observa-se que a parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado
+Nesse sentido, cito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO. PRETENSÃO DE REEXAME. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.2. O erro material sanável na via dos embargos de declaração é aquele conhecível de plano, isto é, sem que sejam necessárias deliberações acerca dos elementos dos autos e que dizem respeito a incorreções internas do próprio julgado.3. No caso dos autos, o suposto erro material diz respeito a incorreção, em tese, do próprio conteúdo da decisão, configurando inconformismo da parte com a conclusão a que chegou o órgão julgador.4. Não havendo omissão, obscuridade, contradição ou erro material, devem ser rejeitados os embargos declaratórios interpostos com o propósito infringente.5. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.006.905/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/10/2022.)
+Ante o exposto, acolho em parte os embargos de declaração apenas para excluir da decisão a fundamentação relativa ao Tema 971/STJ.
+Publique-se. Intimem-se.
