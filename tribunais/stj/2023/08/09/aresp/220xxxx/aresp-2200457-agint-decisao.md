@@ -1,0 +1,7 @@
+DECISÃO
+Estando pendente o julgamento do agravo interno interposto por Consórcio Quebec Libe contra a decisão de fls. 627-634 (e-STJ), as partes ingressaram, conjuntamente, com a Petição n. 747.680/2023 (e-STJ, fl. 677), por intermédio da qual noticiaram a celebração de acordo para encerrar a questão litigiosa, entabulado na forma do instrumento de fls. 678-680 (e-STJ), tendo solicitado a sua homologação e consequente extinção da ação indenizatória (Processo n. 0031533-85.2014.8.13.0280) e do conexo cumprimento de sentença deflagrado no juízo de origem (Processo n. 0038538-61.2014.8.13.0280).
+Não obstante o Regimento Interno do Superior Tribunal de Justiça tenha sido alterado pela Emenda Regimental n. 24/2016 a fim de autorizar a homologação de acordos pelo Ministro relator (art. 34, IX), o acerto a que chegaram as partes diz respeito não só ao feito principal, como também ao cumprimento de sentença que atualmente tramita na instância originária, afigurando-se recomendável, por isso, que o pedido de homologação, relativamente a ambos os processos, seja examinado e decidido pelo magistrado de primeiro grau.
+Quanto ao presente recurso, não há dúvida de que, em razão da noticiada autocomposição, o agravante não mais possui interesse em vê-lo jugado.
+Ante o exposto, julgo prejudicado o agravo interno de fls. 638-653 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
