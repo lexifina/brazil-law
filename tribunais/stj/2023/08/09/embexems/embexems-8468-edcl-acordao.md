@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA. NULIDADE. AUSÊNCIA DE INTIMAÇÃO DA DEFESA DA DATA DO JULGAMENTO. SUSTENTAÇÃO ORAL GARANTIDA PELA LEI N. 14.365/2022. NULIDADE. PRELIMINAR ACOLHIDA.
+1. Se o advogado não foi intimado da data do julgamento do agravo interno, o que impossibilitou o exercício do direito de sustentar oralmente, garantido pela Lei 14.365/2022, de rigor a anulação do julgamento.
+2. Preliminar dos embargos de declaração acolhida para anular o julgamento do agravo interno e garantir a prévia intimação da defesa para, querendo, sustentar oralmente.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, acolher a preliminar dos aclaratórios a fim de anular o julgamento do agravo interno e garantir a prévia intimação da defesa para, querendo, sustentar oralmente, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de embargos de declaração opostos por AÉCIO ALVES DE LIMA E OUTROS contra acórdão ementado nos seguintes termos (fls. 366/367):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. ENQUADRAMENTO NO PLANO DE CLASSIFICAÇÃO DE CARGOS E SALÁRIOS - PCC. CUMPRIMENTO DA OBRIGAÇÃO DE PAGAR OS EFEITOS FINANCEIROS DAÍ DECORRENTES. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. CONSUMAÇÃO. COBRANÇA DAS ALUDIDAS DIFERENÇAS REMUNERATÓRIAS NÃO CONDICIONADA AO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER PROPRIAMENTE DITA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRETENSÃO DE REVISÃO CONFORME CRITÉRIO DA EQUIDADE. NÃO CABIMENTO. APLICAÇÃO DO TEMA 1.076/STJ. AGRAVO IMPROVIDO.
+1. A teor do disposto na Súmula 150/STF, o prazo para promover execução em face da Fazenda Pública encontra previsão no art. 1º do Decreto nº 20.910/32, sendo de 5 (cinco) anos contados do trânsito em julgado do processo de conhecimento. No caso concreto, tendo ocorrido o trânsito em julgado na fase de conhecimento em 4/12/2002, é forçoso reconhecer a ocorrência da prescrição da pretensão executória, tendo em vista que o ajuizamento desta execução somente se deu em 19/12/2008, quando já decorrido o prazo qüinqüenal.
+2. O cumprimento da obrigação de pagar constitui pretensão autônoma e poderia ter sido iniciado mesmo sem o efetivo cumprimento da obrigação de fazer, sendo que eventuais parâmetros de cálculo poderiam ter sido discutidos no âmbito da própria execução. A Corte Especial deste Superior Tribunal de Justiça, inclusive, adota o posicionamento no sentido de que o prazo prescricional para exercício da pretensão executória é único, de forma que a execução da obrigação de fazer não tem o condão de interromper a fluência do prazo prescricional da obrigação de pagar.
+3. A hipótese dos autos não autoriza a adoção do critério da equidade para fins de fixação dos honorários advocatícios sucumbenciais, considerando o que restou decidido pela Corte Especial quando da apreciação do Tema 1.076 da sistemática dos recursos repetitivos, que teve como relator o Min. Og Fernandes (julgado em 16/3/2022, DJe de 31/5/2022).
+4. Agravo interno improvido.
+Os embargantes alegam, preliminarmente, nulidade do acórdão, dada a ausência de prévia inclusão do feito em pauta de julgamento, o que impossibilitou a distribuição de memoriais e o pedido de inscrição para realização de sustentação oral, a teor da Lei n. 14.365/2022.
+Aduzem existir omissão pela não apreciação do fundamento indicado no agravo, no sentido de que o prazo prescricional não iniciou da data do trânsito em julgado da ação de conhecimento, mas da data em que nasceu a pretensão dos servidores, "com a formação do título executivo líquido, quando a União, finalmente, deu-lhes a conhecer as informações sobre os valores a executar".
+Apontam, também, omissão por não terem sido apreciados os argumentos que sustentam que o adimplemento da obrigação de pagar estava condicionado à obrigação de fazer, ou seja, há interdependência das obrigações (princípio actio nata), defendendo que se fixou "uma orientação abstrata e puramente objetiva de contagem do prazo prescricional". Acentuam que a situação fática difere daquela versada no paradigma adotado, no qual a obrigação de pagar já havia se definido desde a prolação da decisão que futuramente se executaria. Invocam a tese jurídica firmada em sede de recurso especial repetitivo (REsp n. 1.270.439/PR).
+Ressaltam, ainda, existir obscuridade no entendimento de que as obrigações de fazer e de pagar seriam autônomas, já que a execução poderia ter-se iniciado ainda que não dispusessem das informações sobre os critérios de cálculo dos valores, pois "é consabido que os processos de execução se iniciam somente mediante obtenção de títulos líquidos". Mais uma vez, reforçam a impossibilidade de se arrimar no que foi decidido no REsp n. 1.340.444/RS, cuja situação fática é distinta.
+Indicam, outrossim, a ausência de "enfrentamento acerca da modulação da tese jurídica fixada no REsp 1.340.444/RS pelo superveniente julgamento do REsp 1.336.026/PE", apontando que "ao tempo em que foi ajuizada a presente execução, nos idos de 2008, a orientação jurisprudencial desse C. STJ era majoritária no sentido de que o adimplemento da obrigação de fazer obsta a fruição do prazo prescricional para a obrigação de pagar. Não havia, portanto, a distinção que foi feita no REsp 1.340.444/RS", devendo ser observada a segurança jurídica.
+Destacam, também, obscuridade no fundamento de que outros impetrantes do mesmo mandado de segurança teriam iniciado a execução da obrigação de pagar em 2006, antes mesmo do seu enquadramento no PCC, o que não ocorreu. Isso, porque naquele ano, quando foram ajuizadas as execuções, o enquadramento já se havia concluído mediante as portarias ministeriais editadas em 2004.
+Por fim, insurgem-se contra os honorários sucumbenciais, por entenderem que deve ser afastada a aplicação do Tema 1076, pois "a base de cálculo considerada é significativamente alta e a singela participação do advogado público não justifica a fixação de tão expressivos honorários".
+Pugnam pelo acolhimento da questão preliminar para que se declare a nulidade do julgamento do agravo interno, com a inclusão do feito em pauta para novo julgamento, mediante a intimação das partes para viabilizar a sustentação oral ou ao menos a apresentação de memoriais. No mérito, requerem o provimento dos aclaratórios para que se integre o acórdão e se analisem os argumentos expostos, com o consequente reconhecimento da tempestividade da execução ajuizada. Alternativamente, pretendem a fixação de honorários de sucumbência nos moldes do AREsp 1967127/RJ, afastando-se o Tema 1076.
+Em impugnação, a União requer o não conhecimento ou improvimento dos embargos de declaração.
+E o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA. NULIDADE. AUSÊNCIA DE INTIMAÇÃO DA DEFESA DA DATA DO JULGAMENTO. SUSTENTAÇÃO ORAL GARANTIDA PELA LEI N. 14.365/2022. NULIDADE. PRELIMINAR ACOLHIDA.
+1. Se o advogado não foi intimado da data do julgamento do agravo interno, o que impossibilitou o exercício do direito de sustentar oralmente, garantido pela Lei 14.365/2022, de rigor a anulação do julgamento.
+2. Preliminar dos embargos de declaração acolhida para anular o julgamento do agravo interno e garantir a prévia intimação da defesa para, querendo, sustentar oralmente.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+De pronto impõe-se reconhecer que assiste razão aos embargantes no tocante à preliminar de nulidade do julgamento do agravo interno.
+Com efeito, com a vigência da Lei n.º 14.365/2022, o art. 7º, § 2º-B, da Lei 8.906/1994 (Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB), passou a vigorar com a seguinte redação:
+§ 2º-B. Poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações:
+I - recurso de apelação;
+II - recurso ordinário;
+III - recurso especial;
+IV - recurso extraordinário;
+V - embargos de divergência;
+VI - ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária.
+Com efeito, conforme alegado, o advogado não foi intimado da data do julgamento do agravo interno, o que impossibilitou o exercício do direito de sustentar oralmente.
+De rigor, assim, a anulação do julgamento, para que seja garantida a prévia ciência do causídico.
+Ante o exposto, acolho a preliminar suscitada dos aclaratórios a fim de anular o julgamento do agravo interno e garantir a prévia intimação da defesa para, querendo, sustentar oralmente.
+É como voto.
