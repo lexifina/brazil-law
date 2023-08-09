@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo manejado por MICHELON - MÁQUINAS E EQUIPAMENTOS LTDA contra decisão que negou admissibilidade ao recurso especial por entender que a controvérsia recursal é de cunho constitucional, escapando ao âmbito de cognição do recurso especial.
+A agravante insurge-se contra a decisão agravada reiterando, em síntese, as alegações do recurso especial no sentido de ofensa aos arts. 97, I, do CTN; 4º, § 2º, 12, XIV, XV e XVI, e 13, IX e X, § § 3º, 6º e 7º da LC n. 190/2022, cuja aferição seria de natureza infraconstitucional apta ao exame pelo Superior Tribunal de Justiça. No mérito pretende, em síntese, o direito ao pagamento do DIFAL-ICMS, nas operações interestaduais envolvendo consumidores finais não contribuintes do imposto, somente a partir do exercício de 2023, em respeito ao princípio da anterioridade tributária anual, haja vista que a Lei Complementar nº 190/2022 foi publicada no dia 05/01/2022, implicando na criação de um novo tributo.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 538-540 e-STJ.
+É o relatório. Passo a decidir.
+Impugnado o fundamento do juízo negativo de admissibilidade recursal, conheço do agravo e passo ao exame do recurso especial.
+O presente feito discute a aplicação do princípio da anterioridade no âmbito da Lei Complementar n. 190/2022, editada para viabilizar a cobrança do DIFAL-ICMS.
+Da análise dos autos, verifica-se que o acórdão recorrido decidiu a controvérsia com fundamento eminentemente constitucional. Confira-se (fls. 403):
+Ementa: Mandado de segurança ICMS Diferencial de alíquota de ICMS (DIFAL/ICMS) Pretensão inicial voltada ao reconhecimento de suposto direito líquido e certo ao afastamento da incidência do DIFAL/ICMS em relação às operações de venda realizadas antes de janeiro de 2023Impossibilidade Inteligência do julgamento proferido pelo E. STF no autos do RE nº 1.287.019/DF (Tema nº 1093) Entendimento pacificado no STF, firmando-se a seguinte tese de repercussão geral: "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais" Advento da Lei Complementar Federal nº 190/2022 e da Lei Estadual nº 17.470/2021 Observância dos princípios da anterioridade nonagesimal e anual Sentença mantida Recurso desprovido.
+Dessa forma, seja em razão do cunho eminentemente constitucional da controvérsia relativa à aplicação da anterioridade anual prevista no art. 150, III, "b", da Constituição Federal, seja em razão da impossibilidade de interpretação do quanto decidido pelo STF no RE 1.287.019 (Tema 1.093 da repercussão geral), não é possível a esta Corte, em sede de recurso especial, infirmar o acórdão recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS-DIFAL. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. ACÓRDÃO RECORRIDO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+1. Discute-se nos autos a exclusão do ICMS-DIFAL da base de cálculo do PIS/COFINS.
+2. Hipótese em que a questão foi dirimida pelo Tribunal de origem com base em fundamentos eminentemente constitucionais, a impedir a revisão da tese em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo interno improvido. (AgInt no REsp 2.019.681/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 16/02/2023) (Grifei)
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, CONHEÇO DO AGRAVO para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. DIFAL-ICMS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NO ÂMBITO DA LEI COMPLEMENTAR N. 190/2022. QUESTÃO DECIDIDA NA ORIGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
