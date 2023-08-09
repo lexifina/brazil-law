@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por SAIMON RODRIGO OLIVEIRA ARAÚJO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consoante se extrai dos autos, o agravante foi absolvido pela prática do delito previsto no art. 33, caput, da Lei 11.343/2006, com base no art. 386, inciso VII, do Código de Processo Penal (fls. 308-314).
+Em segunda instância, o eg. Tribunal a quo deu provimento à apelação do Ministério Público e condenou o agravante como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e pagamento de 560 (quinhentos e sessenta) dias-multa (fls. 440-487).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação do art. 33, §4º, da Lei n. 11.343/2006, pois não foi reconhecida a ocorrência do tráfico privilegiado.
+Apresentadas contrarrazões (fls. 519-526), sobreveio juízo negativo de admissibilidade fundado na incidência: i) da Súmula 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório e ii) da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior (fls. 527-530).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 537-543).
+O Ministério Público Federal apresentou parecer pela concessão de habeas corpus de ofício, reconhecendo a nulidade da busca pessoal e a ilicitude da prova resultante quanto à apreensão de drogas (fls. 570-582).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 83/STJ.
+A defesa nas razões de fls. 537-543, alegou que "a sumula nº 83 do STJ não deve ser aplicada no presente caso concreto, tendo em vista que não há um entendimento pacificado sobre a questão em estudo pelo STJ" (fl. 540).
+Entretanto, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+A propósito:
+"para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)" (AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023)
+No caso, verifico que a Defesa não apresentou para exame, na petição do agravo em recurso especial, nenhum julgado desta Corte Superior que atendesse a exigência citada no precedente acima referido.
+Além disso, tenha-se em conta que:
+"Também é pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp 1.241.318/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/04/2018).
+Outrossim, a Corte Especial desse Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
