@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IDEMAR ROCHA à decisão de fls. 390/391, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Data vênia, a r. decisão é contraditória, tendo em vista que, conforme publicado no Diário da Justiça dia 13 de Janeiro, a Portaria n. 4 divulgou a relação dos feriados forenses com os pontos facultativos referentes ao ano de 2023, onde podemos constatar que os dias 20, 21 e 22 de fevereiro de 2023 contabilizam como feriados (carnaval e quarta feira de cinzas.) Vejamos:
+ ..
+Assim, compreende-se que nos dias 20, 21 e 22 de fevereiro de 2023, não teve expediente nos foros judiciais de Primeira e Segunda Instâncias, em consequencia disto, os prazos estavam suspenso, portanto, tais dias devem ser desconsiderados para contagem do referido prazo.
+Dessa forma, tendo em vista que a publicação da intimação ocorreu em 02/02/2023, a contagem do prazo iniciou-se dia 03/02/2023, desconsiderando os dias 20, 21 e 22, o utimo dia do prazo é dia 28/02/2023 (fls. 427/428).
+ ..
+Ademais, conforme verifica-se as fls. 339 e 354, o próprio Tribunal reconheceu a tempestividade, tanto no Termo de Distribuição (fls. 339), onde consta que o recurso deu entrada no Tribunal na data de 28/02/2023 e que foi distribuído em 03/03/2023, não mencionando em nenhum momento ser um Recurso Intempestivo. Vejamos: (fl. 429).
+ ..
+Outrossim, na própria Decisão Monocrática foi também reconhecida tempestividade, onde inclusive o Relator menciona o termo de distribuição acima citado (fl. 430).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Inicialmente, retifique-se a autuação do processo nos termos da petição de fls. 404/413 bem como da procuração de fl. 433/434.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+É certo que o feriado nacional de 21/2/2023 não precisa ser comprovado. Porém, os dias 20/2/2023 e 22/2/2023 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Ademais, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt no AREsp 2017110/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/03/2022; AgInt no AREsp 1734860/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/02/2022; e o AgInt no AREsp 1931827/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 02/12/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
