@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo regimental interposto por DECIO PACHECO e DECIO PACHECO JUNIOR contra decisão de minha lavra, por meio da qual foi deferido o pedido de tutela provisória, nos termos da seguinte ementa (fl. 417):
+"TUTELA PROVISÓRIA. PROCESSULA PENAL. EFEITO SUSPENSIVO. RECURSO ESPECIAL. PLAUSIBILIDADE JURÍDICA DO PEDIDO. PERIGO NA DEMORA. DEMONSTRAÇÃO. PEDIDO DEFERIDO."
+Os embargos de declaração opostos foram rejeitados (fls. 466-467).
+Sustentam os Agravantes, nas razões do agravo regimental, que não foram preenchidos os requisitos legais para tanto, porquanto " ..  a medida cautelar foi requerida como uma espécie de tutela recursal antecipada, eis que o Ministério Público pleiteou a atribuição de efeito suspensivo ativo ao recurso especial a fim de que fosse determinado que a 2ª Câmara Criminal do TJSC atue, provisoriamente, para apreciação e julgamento da apelação nº 5000070-09.2021.8.24.0015/SC, até o julgamento definitivo do aludido recurso, de maneira a adiantar uma decisão judicial que será objeto de apreciação perante este e. STJ" (fl. 481).
+Alegam que o Agravado se valeu de duas vias recursais com o fito de obter o mesmo resultado, o que conduz à prejudicialidade do recurso especial interposto.
+Aduzem que o excesso de prazo para definir o órgão do Tribunal a quo que seria competente para julgar a apelação não é fundamento que justifique afrontar o duplo grau de jurisdição.
+Asseveram que, nos termos do § 3.º do art. 300 do Código de Processo Civil, a tutela de urgência não será concedida quando, tal como ocorre na hipótese dos autos, houver possibilidade de que os efeitos da respectiva decisão sejam irreversíveis.
+Apontam que sofrerão dano irremediável, pois será examinada tese que gravita em torno da fundamentação da decisão que deferiu a interceptação telefônica, a qual foi validada pelos próprios integrantes da 2.ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina .
+Argumentam que " ..  a interpretação do art. 252, inc. III, do CPP não pode ser limitada a literalidade da norma, notadamente porque haverá atuação dos mesmos Julgadores nas medidas assecuratórias impostas que nortearam a ação penal e no recurso de apelação que traz em seu bojo tese sobre a ilegalidade da interceptação telefônica" (fl. 483).
+Ponderam que a baixa probabilidade de reversão das decisões anteriormente tomadas pela 2.ª Câmara Criminal do TJ/SC frustra o duplo grau de jurisdição.
+Esclarecem que não existe periculum in mora, na medida em que a responsabilização dos acusados não está sendo frustrada em razão da concessão de efeito suspensivo ao recurso especial interposto pelo Parquet Federal, mas, tão somente, adiada até o julgamento a ser levado a efeito pelo Superior Tribunal de Justiça quanto à definição do órgão competente para julgamento da apelação. E, ademais, o elevado quantum da pena imposta aos Réus impede a ocorrência da prescrição da pretensão executória em futuro próximo.
+Afirmam que não há fumus boni iuris porque o apelo nobre foi interposto pelo Parquet estadual, pois as questões foram dirimidas pela Corte de origem com esteio em fundamento eminentemente constitucional, o que desborda da competência do Superior Tribunal de Justiça; e, ademais, a solução da lide demanda revolvimento fático-probatório, atraindo o óbice na Súmula n. 7/STJ.
+É o relatório.
+Decido.
+Em consulta ao sistema de informações processuais deste Tribunal Superior, constata-se que o RESP n. 2.051.543/SC já teve o seu mérito analisado - decisão disponibilizada no DJe de 03/08/2023 e considerada publicada em 04/08/2023 -, ocasião na qual o apelo nobre foi conhecido e provido, para afastar a declaração de impedimento dos Membros da Segunda Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina, determinando que o citado órgão fracionário aprecie a apelação defensiva como entender de direito.
+Ante o exposto, JULGO PREJUDICADO o pedido de tutela provisória e o respectivo agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇAO NO PEDIDO DE TUTELA PROVISÓRIA RECURSAL. RECURSO ESPECIAL JULGADO. PERDA DE OBJETO. PEDIDO DE TUTELA PROVISÓRIA PREJUDICADO.
