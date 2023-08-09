@@ -1,0 +1,30 @@
+DECISÃO
+EVERTON HENRIQUE DA SILVA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal estadual.
+A defesa busca o reconhecimento da prescrição da pretensão punitiva, bem como a fixação de regime mais brando.
+Decido.
+Primeiramente, em relação à prescrição da pretensão punitiva, verifico que a controvérsia deduzida neste mandamus não foi previamente analisada pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do Superior Tribunal de Justiça. O tema não foi nem sequer aventado no recurso de apelação.
+Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016)
+Quanto ao regime inicial, extrai-se dos autos que o paciente foi condenado à pena de 2 anos de reclusão mais 10 dias-multa, em regime fechado, pela prática do delito previsto no art. 304 do Código Penal.
+A Corte estadual manteve o modo inicial mais gravoso de cumprimento da reprimenda diante da reincidência específica do réu.
+Quanto à almejada modificação do regime inicial para o aberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+A teor da Súmula n. 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Ademais, tem-se proclamado, reiteradamente, ser "admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais", como in casu (Súmula n. 269 do STJ).
+Dessa forma, não basta citar a reincidência para transitar o réu do regime semiaberto para o fechado. Inviável conceber tamanha relevância ao instituto da reincidência, principalmente quando a letra da lei impede apenas a aplicação do regime aberto nesta hipótese (quando a pena fixada é igual ou inferior a 4 anos de reclusão).
+Era imperioso, para manter o regime mais gravoso, que o Tribunal indicasse elementos concretos mais graves do furto praticado ou, mesmo, a análise desfavorável do art. 59 do CP, o que não existiu na espécie. Assim, reconhecida a ilegalidade na motivação do acórdão, o agravante faz jus ao regime intermediário.
+Ilustrativamente, colaciono julgado desta Corte Superior:
+ ..
+2. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo. No mesmo sentido, são os enunciados n. 440 da Súmula desta Corte e n. 718 e 719 da Súmula do STF.
+No caso dos autos, embora as circunstâncias judiciais tenham sido consideradas favoráveis, com a pena-base no mínimo legal, foi estabelecido o regime inicial fechado a partir de motivação concreta extraída dos autos, em razão da multirreincidência do paciente e pelo fato de que encontrava-se em livramento condicional quando praticou o furto qualificado. Todavia, apesar da fundamentação concreta apresentada pela Corte estadual, a qual justifica a fixação de regime mais gravoso, em razão do quantum de pena fixado, qual seja 2 anos e 4 meses de reclusão, o regime prisional a ser fixado deve ser o semiaberto, de acordo com o disposto no art. 33, § 3º do CP. Ademais, sendo as circunstâncias judiciais consideradas favoráveis e reincidente o réu, é admissível a fixação do regime intermediário, em observância ao disposto no Enunciado n. 269 da Súmula desta Corte, que assim dispõe: É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto para início de cumprimento de pena do paciente.
+(HC n. 453.092/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 9/10/2018, grifei)
+Saliento, a impossibilidade de imposição do regime aberto, pois tal modalidade, a teor do art. 33, § 2º, do CP, é reservada ao "condenado não reincidente".
+Dessa forma, entendo que deve o paciente cumprir a pena em regime inicial semiaberto, compatível com a pena que lhe foi imposta.
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo a ordem, in limine, a fim de fixar o regime semiaberto ao paciente.
+Publique-se e intimem-se.
