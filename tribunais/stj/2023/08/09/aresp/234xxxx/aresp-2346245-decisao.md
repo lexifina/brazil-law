@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por MÔNACO DISTRIBUIDORA DE MEDICAMENTOS LTDA em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+CONTRATO ADMINISTRATIVO. ATRASO NO PAGAMENTO DOS DÉBITOS CONTRATUAIS. RESCISÃO UNILATERAL. INFLIÇÃO DE MULTA.
+- A exceptio non adimpleti contractus é modalidade de extinção contratual que, como regra, não se aplica extensamente na órbita dos ajustes administrativos, em razão da necessidade de continuidade das prestações administrativas em prol do interesse público.
+- A sanção aplicada na espécie observou as prescrições da normativa local, regente das penalidades aplicáveis ao contrato firmado entre as partes, conforme pacto entre as partes, não se vislumbrando excesso ou desproporção, mormente ao considerar-se o prejuízo dos
+administrados dependentes do insumo médico-hospitalar que não foi fornecido pela ora apelante.
+- Não se entrevendo, no caso, maltrato a direitos fundamentais ou ilegalidade na multa imposta, não cabe ao poder judiciário substituí-la por outra penalidade, o que levaria a imiscuir-se no mérito administrativo e, desse modo, vulnerar o princípio da separação de poderes (art. 2o da Constituição federal).
+Não provimento do recurso.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta, além de divergência jurisprudencial, violação ao artigo 78, V e XV, da Lei nº 8.666/93, sob o argumento de que, em que pese o acórdão recorrido ter confirmado a existência de notificação, concluiu que ela não seria prévia. Ocorre que o inciso V, mencionado pelo decisum para fundamentar a insubsistência do pleito, é inaplicável ao caso em detrimento ao inciso XV do mesmo art. 78, além de que referido inciso XV não detém previsão de notificação prévia, e, por óbvio, nem como seria essa notificação, nem qual seria a antecipação necessária.
+Ou seja, o v. acórdão recorrido se pautou em premissa completamente equivocada pois, em que pese reconhecer a existência de atraso por mais de 90 dias, pela administração pública, condicionou a rescisão à existência de notificação (que ocorreu), e, ainda, que esta deveria se dar de forma prévia, em que pese a falta de previsão legal nesse sentido.
+A inadmissão do recurso especial se fez à consideração de que, no que tange às alegadas violações, o fundamento utilizado para a interposição somente poderia ter sua procedência verificada mediante o reexame de cláusulas contratuais e das provas colhidas nos autos, atraindo a incidência das Súmulas 5 e 7 do STJ, além de que a recorrente deixou de atender aos requisitos legais para comprovar a alegada divergência jurisprudencial.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+Sustenta a recorrente que o v. acórdão recorrido se pautou em premissa completamente equivocada pois, em que pese reconhecer a existência de atraso por mais de 90 dias, pela administração pública, condicionou a rescisão à existência de notificação (que ocorreu), e, ainda, que esta deveria se dar de forma prévia, em que pese a falta de previsão legal nesse sentido.
+A pretensão não merece prosperar.
+Isso porque observa-se que a Corte local julgou improcedente o pedido de anulação do ato administrativo de aplicação da multa pelos seguintes fundamentos (fls. 282/283 e-STJ):
+(..)
+3. Observa-se que foi celebrada com a apelante ata de registro de preços 55011/2019, resultante do pregão eletrônico 285/2019 (processo administrativo 31332/19), cujo objeto era o fornecimento de equipamento para dieta ou nutrição enteral, com vigência de 12 meses a partir de 7 de novembro de 2019 (cf. e-pág. 23-63 e 102).
+Expedida a autorização de fornecimento AF 1505/2020 aos 15 de outubro de 2020, a recorrente não efetuou a entrega dos produtos nela consignados, ante o atraso superior a 90 dias para a liquidação da nota fiscal 2261, emitida em atenção à AF 699/2020. Essa informação foi ratificada pela Municipalidade guarulhense (e-págs. 103 e 114).
+Ocorre que essa nota fiscal 2261 foi liquidada aos 11 de setembro de 2020, mediante nota de empenho 7568/2020 (e-pág. 140), e a AF 1505/2020 foi emitida aos 15 de outubro de 2020 (e-págs. 67-70), mais de um mês, portanto, após a liquidação da nota em que se escorou a apelante para não fornecer os produtos solicitados pela Municipalidade. Ressalta-se, ainda, que não há nos autos notícia de manifestação da apelante, nesse interregno, visando à rescisão do contrato, o que ocorreu somente aos 3 de novembro de 2020 (e-pág. 71), inexistindo, pois, a necessária comunicação prévia idônea a ensejar a rescisão unilateral do ajuste.
+A exceptio non adimpleti contractus é modalidade de extinção contratual que, como regra, não se aplica extensamente na órbita dos ajustes administrativos, em razão da necessidade de continuidade das prestações administrativas em prol do interesse público.
+Dispõe o art. 78 da Lei 8.666/1993 que:
+"Art. 78. Constituem motivo para rescisão do contrato:
+(..)
+V - a paralisação da obra, do serviço ou do fornecimento, sem justa causa e prévia comunicação à Administração:
+(..)
+XV - o atraso superior a 90 (noventa) dias dos pagamentos devidos pela Administração decorrentes de obras, serviços ou fornecimento, ou parcelas destes, já recebidos ou executados, salvo em caso de calamidade pública, grave perturbação da ordem interna ou guerra, assegurado ao contratado o direito de optar pela suspensão do cumprimento de suas obrigações até que seja normalizada a situação" (o destaque não é do original).
+Depreende-se de dispositivo que o atraso superior a 90 dias nos pagamentos, resultantes de fornecimento, devidos pela administração constitui motivo para a rescisão do contrato, e não implica em rescisão automática da avença, devendo existir, pois, prévia comunicação à administração pública, em atenção aos princípios da continuidade do serviço público e da relativa supremacia do interesse público sobre o particular.
+E integrou o julgado ao julgar os embargos de declaração (e-STJ fls. 303), verbis:
+(..)
+Ora, a decisão recorrida, ao revés do alegado pela embargante, consignou que a comunicação endereçada à municipalidade guarulhense ocorreu apenas aos 3 de novembro, sendo que a liquidação da nota fiscal 2261 -que ensejou a rescisão contratual objeto- se deu aos 11 de setembro de 2020. Houve, portanto, comunicação à Administração pública, mas esta não ocorreu de forma prévia.
+No que tange com a comunicação em momento anterior à rescisão contratual, sua necessidade se dá em atenção aos princípios da continuidade dos serviços
+públicos e da relativa supremacia do interesse público sobre o particular, ao par da previsão normativa nesse sentido (arg. inc. V do art. 78 da Lei 8666/1993 - de 21-6).
+Observa-se, portanto, que a Corte de origem concluiu que não houve comunicação prévia à Administração, cuja necessidade se dá em atenção aos princípios da continuidade dos serviços públicos e da relativa supremacia do interesse público sobre o particular. Anotou-se ainda que a nota fiscal 2261 em que se escorou a recorrente para não fornecer os produtos solicitados pela Municipalidade já se encontrava liquidada desde 11/09/2020 mediante nota de empenho 7568/2020, sendo que a autorização de fornecimento que não houve entrega dos produtos - AF 1505/2020, foi emitida em 15/10/2020, ou seja, um mês após a liquidação da nota 2261, e que não houve manifestação da recorrente nesse interregno, ocorrendo somente em 03/11/2020.
+Nota-se, portanto, que, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido ao não reconhecer o direito à rescisão unilateral para o recorrente, qual seja, que a nota fiscal 2261 em que se escorou a recorrente para não fornecer os produtos solicitados pela Municipalidade já se encontrava liquidada desde 11/09/2020 mediante nota de empenho 7568/2020, sendo que a autorização de fornecimento que não houve entrega dos produtos - AF 1505/2020, foi emitida em 15/10/2020, ou seja, um mês após a liquidação da nota 2261, e que não houve manifestação da recorrente nesse interregno, ocorrendo somente em 03/11/2020, de modo que o recurso especial esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+A respeito do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+(AgInt no REsp 1646287, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 16/03/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. IMPOSTO DE RENDA. SAQUES DE RECURSOS DE ENTIDADE DE PREVIDÊNCIA PRIVADA. MULTA E JUROS. AUSÊNCIA DE INTERESSE RECURSAL. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. DECADÊNCIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ALÍQUOTA DE 15%. FUNDAMENTO NÃO ATACADO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF.
+ ..
+4. Igualmente não é possível conhecer do recurso especial em relação ao pedido de incidência futura de imposto de renda à alíquota de 15% sobre saques de recursos aplicados na entidade de Previdência em questão, tendo em vista que tal pretensão foi rechaçada pelo acórdão recorrido em razão da ausência de demonstração da data da adesão do contribuinte ao plano de previdência, a partir da qual seria possível aferir a alíquota aplicável. Tal fundamento não foi impugnado pelo recorrente nas razões recursais, inviabilizando sua análise nesta Corte em face do óbice da Súmula nº 283 do STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1637033/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 05/05/2017)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS STF/282 E 356.REVISÃO. REEXAME DE PROVAS. SÚMULA STJ/7. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia nos limites do que lhe foi submetido. Não há que se falar, portanto, em violação do artigo 535 do CPC ou negativa de prestação jurisdicional.
+2.- É inadmissível o Recurso Especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas STF/282 e 356.
+3.- A convicção a que chegou o Acórdão recorrido decorreu da análise do conjunto fático-probatório, sendo que o acolhimento da pretensão recursal
+demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+4.- O recurso especial pela alínea "c" do permissivo constitucional também deve atender à exigência do prequestionamento.
+5.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+6.- Agravo Regimental improvido.
+(AgRg no AREsp 83.011/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2014, DJe 06/06/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil.
+Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. ATRASO DE PAGAMENTO DOS DÉBITOS CONTRATUAIS. RESCISÃO UNILATERAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. FUNDAMENTO INATACADO. SÚMULA 283/STF. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
