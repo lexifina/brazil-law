@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROSANGELA GOMES DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL. DECISÃO QUE INDEFERIU O BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE ARCAR COM OS ENCARGOS PROCESSUAIS NÃO VERIFICADA NO CASO CONCRETO. AUSÊNCIA DE DOCUMENTOS CAPAZES DE COMPROVAR A ALEGADA SITUAÇÃO FINANCEIRA PRECÁRIA. AGRAVANTE QUE POSSUI RENDIMENTO INCOMPATÍVEL COM A DECLARAÇÃO DE HIPOSSUFICIÊNCIA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 3º, 98, e 99, §§ 2º e 4º, do CPC, no que concerne à concessão de gratuidade de justiça, tendo em vista a comprovação da hipossuficiência e do preenchimento dos requisitos legais, trazendo a seguinte argumentação:
+Desse modo, não pode o objeto da demanda ser usado como fundamento para indeferimento da benesse pretendida, sob pena de a requerente não ter a análise do seu direito violado, quando analisado pelo judiciário de acordo com os preceitos legais, ferindo frontalmente o princípio de acesso à justiça previsto em nosso ordenamento.
+ ..
+Outro fundamento utilizado foi a contratação de advogado particular, o qual não merece prosperar.
+Com previsão expressa no Código de Processo Civil, a contratação de advogado particular não constitui fundamento idôneo para indeferir a benesse pleiteada, uma vez que é livre a escolha da demanda por quem deseja ser representado em juízo. Ademais esta mais do que sedimento na jurisprudência este pensionamento, onde a opção por advogado particular em desfavor a Defensoria Pública, não interfere não concessão do beneficio pleiteado
+ ..
+A decisão guerreada, foi fundamentada sob o argumento de que que a renda mensal auferida pela requerente é incompatível com hipossuficiência alegada, bem como os bens que a mesma possui em seu nome.
+Contudo, a análise realizada sobre estes elementos apresentados, vai de encontro com o preceito do artigo 99, §2º do Código de Processo Civil, uma vez a analise que deveria ter sido feita pelo juízo a quo era sobre as receitas e despesas da requerente, sem considerar seu patrimônio ilíquido, para só então concluir a real condição econômica da mesma.
+ ..
+Dessa forma, o Douto Magistrado, ao indeferir a benesse pleiteada apenas sob os argumentos de que a requerida detém bens e aufere renda de valor elevado - sem considerar as despesas que possui ordinariamente, bem como que seu patrimônio ilíquido  como casa a qual reside a família e único carro, não podem ser considerados, já que seu valor não está disponível para pagamento, e como dispõe a jurisprudência, não é razoável que se exija que a mesma venda seu patrimônio com o objetivo de pagar as custas processuais para ter acesso ao judiciário.
+Sendo assim fica evidente que não houve uma correta analise e aplicação do disposto legal ao caso, não merecendo prosperar tal fundamento (fls. 201-206).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em tela, verifica-se que a agravante auferiu rendimento anual de R$ 63.771,07, no ano de 2021, o que resulta em rendimentos mensais de R$ 5.314,00, incompatíveis com a alegada hipossuficiência econômica.
+Além disso, conforme as declarações de imposto de renda apresentadas, nota-se que a agravante possui patrimônio composto por bens móveis e imóvel, que não condiz com a situação de necessidade financeira
+ ..
+Assim, mantém-se integralmente a decisão de Primeiro grau, negando-se a gratuidade da justiça à agravante, ante a demonstração de capacidade financeira pelos documentos juntados aos autos (fls. 188-190).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pre tensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
