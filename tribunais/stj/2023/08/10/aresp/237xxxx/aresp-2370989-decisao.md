@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ANDREA CURIÁ DE MELO CABRAL, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do T ribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 54-55):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE INTIMAÇÃO DA PARTE DEVEDORA PARA INDICAR BENS Á PENHORA. POSSIBILIDADE. PRINCÍPIO DA COOPERAÇÃO E DA EFETIVIDADE DO PROCESSO EXECUTÓRIO. INSCRIÇÃO DO DEVEDOR EM CADASTRO DE INADIMPLENTES. SERASAJUD. POSSIBILIDADE. ART. 782, §3º, CPC.
+1. Trata-se de agravo de instrumento interposto contra decisão que indeferiu o pedido de intimação pessoal da devedora para indicar bens à penhora, bem como a inclusão do nome no cadastro de inadimplentes (SPC/SERASA).
+2. O Código de Processo Civil, inspirado no Direito Europeu, inseriu no processo brasileiro o Princípio da Cooperação, tratando-se, em verdade, da evolução do princípio do contraditório. Com base neste princípio, o juiz deixa de ser mero fiscal da norma para atuar de forma colaborativa no processo. Deve participar ativamente do contraditório, dialogando com as partes, a fim de possibilitar a entrega de uma decisão meritória justa, efetiva e célere.
+3. O julgador poderá determinar a intimação do devedor para indicar a localização do bem sujeito à penhora, conforme inteligência do artigo 774, V, do CPC.
+4. Embora faculdade do julgador, o ato de inscrição do nome da parte em cadastro de inadimplentes (art. 782, §3º, CPC) mostra-se razoável, proporcional e eficiente à finalidade do processo executório.
+5. As medidas em foco têm o condão de concretizar o princípio da efetividade do processo, bem como de garantir à parte seu direito de obter, em prazo razoável, a satisfação da obrigação.
+6. Agravo conhecido e provido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 84):
+EMBARGOS DOS EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. OMISSÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração configuram recurso de fundamentação vinculada, mostrando-se imprescindível que a parte demonstre a existência de contradição, omissão ou obscuridade, devendo ser rejeitado quando não encontrado nenhum dos vícios encontrados no artigo em referência.
+2. Em que pese a alegação de ausência de análise dos argumentos expostos em sede de contrarrazões, da simples leitura dos autos se percebe que a embargante não chegou a apresentar resposta ao recurso, conforme certificado nos autos. Logo, se os argumentos da embargante não foram submetidos a esta Turma julgadora, não há falar em omissão.
+3. Recurso conhecido e desprovido.
+Nas razões do apelo especial (e-STJ, fls. 92-100), a insurgente apontou ofensa aos arts. 5º, 80, 782, §4º, do CPC/2015; e 188, I, do CC/2002.
+Sustentou, em síntese, que o Tribunal recorrido se equivocou ao deferir a inclusão do nome da recorrente nos órgãos de proteção ao crédito, tendo me vista que não existiria mora e que a dívida estaria sendo solvida mediante desconto na folha de pagamento da devedora.
+Alegou que já teria sido assegurado o recebimento do crédito e que portanto, não haveria razão para que a recorrente fosse duplamente penalizada com o desconto na sua folha de pagamento e, ao mesmo tempo, com a inclusão do seu nome pelo Serasajud.
+Contrarrazões às fls. 112-124 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 127-128), levando a insurgente a interpor o presente agravo (e-STJ, fls. 131-137).
+Contraminuta às fls. 141-153 (e-STJ).
+Brevemente relatado, decido.
+Ao dirimir a controvérsia, o Tribunal de Justiça do Distrito Federal e dos Territórios assim se manifestou (e-STJ, fls. 56-61; sem grifos no original):
+Conforme relatado, insurge-se a agravante contra a decisão que indeferiu pedido de intimação pessoal da agravada para indicar bens passíveis de penhora, sob pena de configuração de ato atentatório à dignidade da Justiça, bem como sua inscrição no rol de maus pagadores por meio do SERASAJUD.
+(..)
+Verifica-se dos autos de origem que a execução movida pela agravante tramita desde junho de 2019, tendo sido efetivadas diversas diligências em busca de bens penhoráveis (ID 102212879) diante da inércia da executada em pagar o débito.
+Após foram realizadas pesquisas nos sistemas RENAJUD e SISBAJUD, restando infrutíferas (ID 93679180).
+Esgotadas as possibilidades de encontrar bens da devedora, foi deferida a pesquisa no INFOJUD, o qual demonstrou que a executada é Agente da Polícia Civil do Distrito Federal e percebe mensalmente a remuneração líquida de R$ 10.726,50 (ID 107274995 e 107683290).
+Diante disso, a exequente requereu penhora de 35% do salário da devedora até o adimplemento da dívida, sendo indeferido pelo Juiz a quo, porém reformada em parte a decisão por essa e. Turma deferindo a penhora de 10% do salário bruto da devedora (ID 110613047).
+Alem disso, restou comprovado que a devedora declarou em contrarrazões no AGI dos autos n. 0738477-50.2021.8.07.0000 ID 31820868) que adquiriu um imóvel em 16/06/2021, data posterior à citação (08/10/2020 - ID 78552243) e à realização de infrutíferas diligências via SISBAJUD (20/05/2021 - ID 93679185, no valor de R$ 578.000,00 e que financiou apenas R$ 300.847,8, tendo efetuado o pagamento da entrada à vista e com recursos próprios, no valor de R$ 277.152,17.
+Assim, o pedido da exequente/agravante de intimar a parte executada para que indique bens à penhora encontra respaldo legal, além de estar em consonância com o Princípio da Cooperação.
+(..)
+Ademais, como corolário do princípio constitucional supracitado, ressalte-se a garantia da efetividade do processo, através da qual os litigantes obtenham, em menor espaço de tempo possível, a solução da lide e o alcance dos fins colimados.
+Quanto à inclusão do nome da executada em cadastro de inadimplentes, sabe-se que configura meio coercitivo para o cumprimento de obrigação constante em títulos judiciais ou extrajudiciais, caso não haja a quitação da dívida no prazo legal.
+(..)
+Frisa-se, contudo, que o disposto no artigo supratranscrito não possui o condão de impor ao julgador o dever de determinar a "negativação" do nome do devedor, tratando-se, por certo, de mera faculdade conferida ao juiz, podendo ser exercida a depender das circunstâncias do caso concreto.
+Assim, diante do resultado da pesquisa no INFOJUD, não se mostra coerente a imposição de óbices para afastar a providência, de interesse tanto do credor quanto da Justiça.
+(..)
+Nesse contexto, e enfatizando o dever de cooperação que deve reger a conduta do juiz, tem-se que tal medida concretiza o princípio da efetividade no processo, bem como garante às partes seu direito de obter, em prazo razoável, a solução da lide - incluída a atividade satisfativa.
+Assim, ante o não pagamento voluntário do débito e do insucesso das demais medidas para compelir a executada ao cumprimento da obrigação, a determinação de inscrever o nome do devedor em cadastro de inadimplentes (SPC/SERASA) mostra-se razoável, proporcional e eficiente à finalidade do processo - de modo a ensejar a reforma da decisão.
+Diante do exposto, conheço e DOU PROVIMENTO ao recurso para deferir o pedido de intimação da executada para indicar bens passíveis de penhora e para inclusão dos seus dados no cadastro de inadimplentes, via SERASAJUD, em conformidade com o que dispõe o artigo 782, §3º do CPC.
+Em relação às medidas executivas típicas, a possibilidade de inclusão do nome do devedor nos cadastros de inadimplentes, prevista no art. 782, § 3º, do CPC de 2015, deve ser interpretada de forma a garantir maior amplitude possível à concretização da tutela executiva, em conformidade com o princípio da efetividade do processo.
+Da análise dos trechos do acórdão objurgado, verifica-se que o Tribunal originário, com base nas circunstâncias do caso concreto, verificou a necessidade e a potencialidade de a negativação coagir a devedora à satisfação da obrigação - asseverando também a existência de mora para saldar a dívida e de inércia da executada em pagar o débito.
+Destarte, percebe-se que a conclusão pelo deferimento do pedido de inclusão da recorrente no cadastro de inadimplentes decorreu da análise de premissas fáticas dos autos. Assim, conclui-se que o acolhimento da pretensão recursal demandaria o reexame de fatos e provas, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Sobre o tema:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelas recorrentes, quanto à inexistência de mora e ao dever dos agravados de pagar as despesas de IPTU do bem, ante a previsão contratual, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp n. 1.839.792/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/8/2020, DJe 17/8/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1931878/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Oportunamente, insta destacar que não se trata aqui de ser caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSCRIÇÃO DO DEVEDOR EM CADASTRO DE INADIMPLENTES. SERASAJUD. POSSIBILIDADE. CONCLUSÕES DA CORTE ORIGINÁRIA PAUTADAS EM FATOS E PROVAS. REVISÃO INVIÁVEL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
