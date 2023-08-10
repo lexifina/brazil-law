@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de LUIS FELIPE HENRIQUE DE SOUSA, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado como incurso no art. 35, caput, c/c o art. 40, IV, da Lei n. 11.343/2006, às penas de 5 anos, 9 meses e 13 dias de reclusão, em regime fechado, e 1.086 dias-multa.
+Em grau recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste writ, alega a defesa, em suma, a inexistência de comprovação de que o réu estivesse associado em caráter permanente e estável com outras pessoas, voltado para o cometimento do crime de tráfico ilícito de drogas.
+Aduz que "não existe comprovação da existência de facção criminosa na localidade mencionada na denúncia." (e-STJ, fl. 8)
+Sustenta que "o paciente foi preso sozinho, o que vem confirmado pela narrativa contida na denúncia e pelas decisões atacadas." (e-STJ, fl. 9)
+Requer a absolvição do réu pelo delito de associação para o tráfico.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 65-68).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado encontra-se assim fundamentado:
+" ..
+As testemunhas de acusação apresentaram versões substancialmente coerentes, harmônicas entre si e seguras quanto à dinâmica da ação criminosa, ao apontar o denunciado como associado ao tráfico de drogas da Comunidade do Sapo 1, em Guarus, Campos dos Goytacazes, de local reconhecidamente dominado pela Facção Criminosa ADA.
+Nesse sentido, os Policiais Militares que participaram da diligência efetuada no dia dos fatos foram uníssonos em narrar que em patrulhamento na Comunidade do Sapo 1, dominada pela famigerada Facção Criminosa autodenominada ADA, conhecida como ponto de venda de entorpecente e confrontos armados de facções rivais. Nesta oportunidade os policiais se depararam com uma barricada instalada com o fito de impedir operações e incursões policiais e eventuais ataques de grupo criminoso rival momento no qual logrou-se o flagrante descrito na denúncia.
+Vale ressaltar que os depoimentos dos Policiais Militares, principalmente quando harmônicos e seguros, como no caso em testilha, possuem o mesmo valor que quaisquer outros, já estando a "quaestio" sumulada pelo nosso Tribunal de Justiça:
+ ..
+Segundo tais depoimentos restou demonstrado que o Apelante se dedicava à atividade criminosa, associando-se a terceiros não identificados, de forma estável e permanente, para a prática do nefasto crime de tráfico de entorpecentes.
+Nesse sentido, a prática do delito descrito no art. 35 da Lei 11.343/06 restou comprovada nos autos, pois as circunstâncias em que ocorreu a prisão, não deixam dúvidas quanto à imputação acerca dos atos praticados pelo réu.
+Nesse sentido, vale destacar parte da sentença condenatória, verbis:
+"Em primeiro lugar, porque, em relação à atividade associativa do acusado, entendo que a sua conduta se adequa, em verdade, ao delito de associação previsto no art. 35 da Lei 11.343/06, modalidade especial de associação criminosa (art. 288 do CP) - que possui o mesmo bem jurídico a ser protegido, qual seja, a saúde pública -, pois, repita-se, o acusado portava uma arma de fogo e uma granada enquanto segurança da facção criminosa que domina a localidade, cujo contexto fático evidencia o seu vínculo associativo com os demais integrantes da facção local para a prática do tráfico de drogas.
+Ainda, estou convencido de que o uso da arma de fogo, das munições e da granada estava diretamente ligado à atividade exercida pelo acusado na associação criminosa (tendo ele sido capturado em flagrante, atuando como segurança), para fim de proteção da localidade contra a ação de outros criminosos ou das autoridades policiais, sendo o porte o crime-meio para atingir o crime-fim - o desempenho da associação."
+Assim, não há que se falar em ausência de comprovação do dolo associativo.
+O acusado, em seu interrogatório, momento oportuno para esclarecer os fatos a ele imputados, preferiu permanecer em silêncio.
+A defesa técnica do acusado não produziu qualquer prova que leve à conclusão diversa da que o Juízo "a quo" pronunciou, pelo que não há como chegar à conclusão diversa daquela constante da denúncia.
+Assim, não se pode acolher a pretensão absolutória como requerido no recurso defensivo." (e-STJ, fls. 39-40; sem grifos no original)
+No tocante ao pedido de absolvição do delito do art. 35 da Lei n. 11.343/2006, razão assiste à defesa.
+Para a caracterização do crime de associação criminosa, é imprescindível a demonstração concreta do vínculo permanente e estável entre duas ou mais pessoas, com a finalidade de praticarem os delitos do art. 33, caput e § 1º e/ou do art. 34, da Lei de Drogas (HC 354.109/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/9/2016, DJe 22/9/2016; HC 391.325/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/5/2017, DJe 25/5/2017).
+Na hipótese, à mingua de um exame aprofundado do conteúdo probatório, verifica-se que a instância ordinária não apresentou elementos concretos que demonstrem efetivamente o animus associativo entre o paciente e os outros agentes da facção criminosa ADA - AMIGOS DOS AMIGOS.
+A condenação pelo delito do art. 35 da Lei nº 11.343/2006 está amparada no simples fato de que por ter sido o paciente, preso em flagrante, com uma arma de fogo e uma granada, em local conhecido como ponto de venda de drogas e dominado pela facção criminosa ADA - Amigos dos Amigos, dela seria integrante.
+Como se verifica, a subsunção ao tipo penal de associação ao tráfico tem como amparo mera presunção de que ele seria integrante de determinada facção criminosa. Não há conjunto probatório que aponte a sua participação nas atividades criminosas habituais da facção ADA. Ademais, como se verifica, o réu foi o único denunciado pelo delito de associação para o tráfico, embora o crime seja de concurso necessário.
+Portanto, sendo flagrantemente ilegal a condenação pelo delito de associação, em decorrência da falta de comprovação de pressuposto legal - pluralidade de agentes -, a absolvição do paciente é medida que se impõe.
+A seguir os seguintes precedentes que respaldam esse entendimento:
+" ..  ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO ESTABILIDADE E PERMANÊNCIA NÃO RECONHECIDAS PELA INSTÂNCIA DE ORIGEM. COAÇÃO ILEGAL CONFIGURADA
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina. Precedentes.
+2. Na espécie, inexistindo a comprovação de que os pacientes tiveram o dolo de se associar com estabilidade ou permanência, não resta caracterizado o delito de associação para o tráfico. Precedentes.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida de ofício para absolver os pacientes do crime de associação para o tráfico e para reduzir a reprimenda que lhes foi imposta quanto ao delito do artigo 33 da Lei 11.343/2006 para 5 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, mantidos os demais termos do acórdão impugnado."
+(HC 390.143/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/9/2017, DJe 19/9/2017).
+"HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ESTABILIDADE E PERMANÊNCIA. AUSÊNCIA DE COMPROVAÇÃO. POSSIBILIDADE DE APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONSECTÁRIOS. REGIME MAIS BRANDO. CORRÉU. SITUAÇÃO FÁTICO-PROCESSUAL IDÊNTICA. ORDEM CONCEDIDA, COM EXTENSÃO AO CORRÉU.
+1. A jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+2. As instâncias ordinárias, ao concluírem pela condenação do paciente em relação ao crime previsto no art. 35 da Lei n. 11.343/2006, em nenhum momento fizeram referência ao vínculo associativo estável e permanente porventura existente entra ele e o corréu; proclamaram a condenação com base em meras conjecturas acerca de uma societas sceleris, de maneira que se mostra inviável a manutenção da condenação pelo tipo penal descrito no art. 35 da Lei n. 11.343/2006.
+ ..
+6. Ordem concedida para absolver o paciente em relação ao delito previsto no art. 35 da Lei n. 11.343/2006. Habeas corpus concedido para: reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006; aplicá-la no patamar de 2/3 e, por conseguinte, reduzir a reprimenda do paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; fixar o regime inicial semiaberto. Extensão, de ofício, ao corréu."
+(HC 264.222/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 8/8/2017, DJe 16/8/2017).
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para absolver o paciente pelo delito do art. 35 da Lei n. 11.343/2006.
+Publique-se. Intimem-se.
