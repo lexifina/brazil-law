@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÉRGIO ALAN SENISSE PRATES contra a decisão que inadmitiu recurso especial com base nos seguintes fundamentos (fls. 1.344/1.346 e-STJ):
+(i) quanto aos artigos 927, III, do Código de Processo Civil, 21 da Lei Complementar nº 109/2001 e ao termo inicial dos juros de mora, o aresto recorrido decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, nos termos da Súmula nº 83/STJ;
+(ii) além de incidir a Súmula nº 13/STJ, o dissídio jurisprudencial não foi comprovado, visto que não houve o devido cotejo analítico entre os acórdãos confrontados, e
+(iii) a Súmula nº 7/STJ se aplica ao artigo 85, §§ 6º e 11, do CPC.
+Nas razões do presente recurso (fls. 1.350/1.396 e-STJ), o agravante alega que a matéria apontada no apelo especial está prequestionada e que todos os fundamentos do acórdão recorrido foram impugnados. Além disso, não há necessidade de rever matéria fática.
+Reitera a alegação de que é da responsabilidade do patrocinador arcar com a totalidade do recolhimento dos valores para a recomposição da reserva matemática e do cálculo atuarial em virtude de ter praticado ato ilícito ao deixar de pagar voluntariamente as horas extras devidas, o que repercutiu no valor do benefício previdenciário.
+Sustenta que os juros de mora são devidos a partir da citação, porquanto se trata de "pena imposta ao devedor pelo atraso no cumprimento de sua obrigação e funciona como uma espécie de indenização pelo retardamento na execução do débito" (fl. 1.382 e-STJ).
+Afirma que o caso dos autos se amolda ao item II da ementa do REsp 1.370.191/RJ, redigido nos seguintes termos: "Não se incluem no âmbito da matéria afetada as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador".
+Menciona que os honorários devidos pelos recorridos devem ser majorados para 20% (vinte por cento), o que admite o reexame da matéria.
+Ao final, requer o provimento do recurso.
+É o relatório.
+DECIDO.
+O agravo não merece ser conhecido.
+A leitura do agravo revela que, conquanto tenha sido a Súmula nº 7/STJ aplicada aos honorários infirmada de forma genérica, não houve impugnação específica da incidência da Súmula nº 83/STJ quanto aos artigos 927, III, do CPC e 21 da Lei Complementar nº 109/2001 e aos juros de mora.
+Do mesmo modo, não foi refutado o fundamento de que o dissídio jurisprudencial não foi comprovado e que também a ele incidiria a Súmula nº 13/STJ, circunstância que atrai a aplicação do disposto no artigo 932, III, do Código de Processo Civil, que impõe ao relator não conhecer do recurso "que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Como cediço, é dever da parte agravante impugnar, especificamente, os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a reiteração das razões do especial ou a impugnação parcial, visto se tratar de decisão incindível.
+A propósito:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos" (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. para acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018 - grifou-se).
+Ante o exposto, não conheço do agravo em recurso especial.
+Em observância ao art. 85, § 11, do CPC, majoro em 1% (um por cento) a verba honorária atribuída ao recorrente em favor do patrono da instituição financeira, fixada na decisão que reconheceu sua ilegitimidade passiva, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
