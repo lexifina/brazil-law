@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por BRASILIA DISTRIBUICAO DE ALIMENTOS COMERCIO E IMPORTACAO LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 6/3/2023.
+Concluso ao Gabinete em: 3/8/2023.
+Ação: declaratória de inexistência de débito cumulada com compensação por danos morais, ajuizada pela agravante em desfavor de LATICINIOS PORTO ALEGRE INDUSTRIA E COMERCIO LTDA.
+Sentença: julgou improcedentes os pedidos da agravante e procedente a reconvenção da ora agravada.
+Acórdão: deu provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. ESPECIFICAÇÃO DE PROVAS. PEDIDO DE JULGAMENTO DE MÉRITO ANTECIPADO PELA AUTORA. PRINCÍPIO DA PRECLUSÃO. POSTERIOR PEDIDO DE PRODUÇÃO DE PROVA APENAS PARA SE CONTRAPOR ÀQUELE PRÉVIA E LEGITIMAMENTE MANIFESTADO PELA PARTE DEMANDA. IMPOSSIBILIDADE. PROTESTO POR FALTA DE PAGAMENTO E INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. PROVA DE REGULARIDADE NO PAGAMENTO. DIREITO DE COMPENSAÇÃO. DANO MORAL À PESSOA JURÍDICA. PREJUÍZO IN RE IPSA. RECURSO CONHECIDO E PROVIDO.
+1. Se determinada a especificação de prova, a parte permanece em silêncio ou pugna pelo julgamento antecipado de mérito (art. 355, CPC), incabível a pretensão recursal de anulação do processo por cerceamento de defesa e sob o pálio de que se desejava produzir novos elementos de convencimento. Agindo dessa maneira, a recorrente fere o princípio da boa-fé processual, na medida em que sua atuação seria contraditória (venire contra factum proprium)
+2. Na hipótese, conquanto a parte ré tenha alegado que incorreu em engano ao realizar o depósito do dia 01/10/2019, buscou recuperar o suposto crédito por meio de protesto, cujo pagamento se deu na data de vencimento, mas o Cartório de Notas, sem justificava, promoveu a devolução da quantia. Lado outro, a inscrição no cadastro de restrição para o acesso ao crédito se refere a dívida vencida em 19/09/2019, cujo abatimento foi autorizado pela própria ré, via mensagem de e-mail. Além disso, considerando-se o direito à compensação (art. 368 e seguintes do CC), a ré não obedeceu aos ditames da boa-fé contratual e sua conduta gerou dano moral à autora, em razão do protesto e da inscrição em cadastro de inadimplentes quando era, em verdade, devedora.
+3. "É firme no STJ o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp 1.059.663/MS, Rel. Min. NANCY ANDRIGHI, DJe 17/12/2008).
+4. A fixação do para a reparação do dano psicológico é questão tormentosa tanto na doutrina, quantum como na jurisprudência. Mas tanto uma, como outra têm traçado parâmetros para auxiliar na sua dosagem. A questão rege-se pelos princípios da proporcionalidade e da razoabilidade. O montante deve ser tal, que confira um alento à dor e ao sofrimento experimentado, mas sem causar o enriquecimento ilícito da vítima, tampouco a ruína do devedor.
+5 - RECURSO CONHECIDO E PROVIDO. (e-STJ Fl. 434/435)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega ofensa ao art. 85, § 2º, do CPC/15. Sustenta que não foram fixados honorários sobre o pedido de inexistência de débito, razão pela qual a sucumbência deve ser reanalisada em atenção aos pedidos formulados na inicial.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base na incidência das Súmulas 282/STF e 211/STJ, tendo em vista a ausência de prequestionamento do art. 85, § 2º, do CPC/15.
+No entanto, no agravo em recurso especial, a parte agravante não refutou os óbices aplicados, não trazendo qualquer impugnação à sua incidência.
+Nesse passo, a agravante cinge-se a deduzir a ausência de decisão de admissibilidade recursal, o que não se coaduna com os autos, em que expressamente proferida a decisão de inadmissão e colacionada à e-STJ Fls. 569/570.
+A agravante, assim, limita-se a apontar negativa de prestação jurisdicional e ausência de fundamentação, furtando-se em atacar a decisão objurgada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Deixo de majorar os honorários recursais, pois não fixados à parte agravante na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
