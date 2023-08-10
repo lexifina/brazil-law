@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONDOMÍNIO EDIFÍCIO RESIDENCIAL SOLAR DAS PAPOULAS, com fundamento no art. 1.022 do CPC, à decisão monocrática desta relatoria de fls. 2.043-2.049 (e-STJ), que negou provimento ao recurso especial.
+Defende ter havido omissão e erro material na manifestação embargada. Pontua que a questão controvertida - possibilidade de penhora de imóvel adquirido por alienação fiduciária e que garante o próprio financiamento. Destaca que essa questão jurídica não é pacífica nesta Corte Superior, conforme o REsp 2.059.278/SC (2022/0086988-5). Esclarece que nesse julgado a Quarta Turma julgou de forma favorável ao condomínio, permitindo a penhora integral do imóvel.
+Menciona o cabimento da suspensão desse caso para julgamento sob a sistemática dos recursos repetitivos ou IRDR. Frisa a inaplicabilidade da Súmula 83/STJ. Pugna pelo acolhimento destes embargos de declaração (e-STJ, fls. 2.053-2.075).
+Contraminuta não apresentada (e-STJ, fls. 2.080-2.081).
+É o relatório.
+Brevemente relatado, decido.
+Não há nenhuma omissão, erro material, contradição ou mesmo carência de fundamentação a serem sanados no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do CPC.
+A decisão monocrática deste Julgador dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+Estão claras as circunstâncias que ensejaram a inviabilidade de provimento ao recurso especial. Justificou-se a carência de ofensa aos 10, 141, 489 e 1.022 do CPC pelo julgamento estadual; bem como atestou-se que o entendimento no sentido de que o bem imóvel não não poderia ser objeto de penhora para pagamento de dívidas da agravada, pois não seria de propriedade, por ter sido adquirido por alienação fiduciária em garantia.
+Argumentou-se que a jurisprudência desta Corte Superior agasalharia a conclusão da segunda instância, motivo a atrair a aplicação Súmula 83/STJ. In casu, o julgamento individual demonstrou os motivos para o não acolhimento da pleito do insurgente, com suporte no referido enunciado sumular, contexto que não evidencia omissão ou erro material.
+É bom frisar que eventual julgamento destoante do estipulado nestes autos não afasta o referido enunciado sumular. O entendimento é de que a jurisprudência de determinado órgão julgador não se faz pela unanimidade de seus acórdãos, mas sim da maioria deles, em um mesmo sentido e de forma contínua, o que se observa sobre a questão controvertida.
+A arguição de que o caso deveria ser suspenso para julgamento sob a sistemática dos recursos repetitivos ou a instituição de IRDR também não configura tais vícios. Esses pontos dos embargos de declaração foram expressamente enfrentados e afastados na apreciação do apelo excepcional.
+Leia-se (e-STJ, fl. 2049):
+As ponderações no tocante à carência dos requisitos para a instauração do incidente voltado a uniformizar o entendimento jurisprudencial - incidente de resolução de demandas repetitivas - (e-STJ, fl. 612) igualmente foram fundadas na análise fático-probatória (aplicação do verbete sumular n. 7 desta Corte Superior).
+O decisum embargado também estabeleceu que o entendimento estipulando que a condição de imóvel adquirido por alienação fiduciária em garantia constava na petição inicial; a unidade imobiliária não pertencia, portanto, aos executados; inexistência de participação do credor fiduciário no polo passivo da execução; e viabilidade de penhora, se assim convier ao exequente, apenas sobre eventuais direitos de titularidade do executado sobre o imóvel, foram questões solucionadas com base na apreciação de fatos, provas e termos contratuais. Demonstrou-se, nesse cenário, a conclusão no sentido do não cabimento de denunciação da lide, mas sim de eventual ação regressiva - Súmulas 5 e 7/STJ.
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. Fica nítido que se busca, em verdade, a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 182.614/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/04/2022, DJe 19/04/2022)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO NÃO VERIFICADOS. DECISÃO EMBARGADA DEVIDAMENTE JUSTIFICADA. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
