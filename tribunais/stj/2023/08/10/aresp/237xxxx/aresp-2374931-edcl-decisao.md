@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SUELI ALMEIDA FERNANDES à decisão de fls. 248/249, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Pois bem Exas., a ora embargante interpôs somente um Recurso, o qual foi interposto em 8/8/2022 (Sequencial 50002), sendo que o mesmo não foi admitido, e a ora recorrente, por equívoco, protocolou o mesmo RESP, ao invés de Agravo em RESP.
+Posteriormente, tendo em vista que a parte foi intimada para esclarecer a interposição de dois recursos especiais, comprovou a recorrente que interpôs o segundo RESP (equivocado) no prazo do Agravo em RESP (15 dias), não sendo erro grosseiro, na medida em que uma vez que a decisão foi denegatória do RESP, por obviedade o recurso era Agravo em RESP e não RESP, momento em que regularizou a peça, fulcro art.932, parágrafo único do CPC:
+ ..
+Portanto Exa., o agravo em RESP não foi interposto de forma intempestiva, EIS QUE A EMBARGANTE APENAS SUBSTITUIU A PEÇA PROTOCOLADA EM TEMPO HÁBIL PELA CORRETA.
+Aliás, Exa. o Tribunal de origem inclusive possibilitou a oferta de contrarrazões ao Agravo em RESP pelo embargado.
+Inclusive Exa., a interposição de recurso de processo diverso, desde que dentro do prazo recursal, configura erro escusável, passível de regularização com a apresentação da petição correta (fl. 253).
+O princípio da não surpresa, previsto no artigo 10 do Código de Processo Civil, tem o condão de assegurar o contraditório e a ampla defesa, proibindo a prolação de decisões sobre cujos fundamentos não foi oportunizado às partes debater (fl. 254).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Veja-se que intimada a parte recorrente da decisão agravada em 09/09/2022, somente interpôs o agravo em 19/10/2022, fora do prazo.
+É responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais. No caso, é intempestivo o agravo em recurso especial juntado aos autos fora do prazo legal, quando a parte equivocadamente protocolou petição diversa.
+Portanto, a oportunidade que o Tribunal de origem concedeu à parte para direcionar corretamente a petição de agravo aos autos, tratou-se apenas de um ato com a finalidade de regularizar o trâmite processual, em nada influenciando no julgamento do agravo por esta Corte.
+Correta, assim, a decisão que não conheceu do agravo pela sua intempestividade.
+No mais, destaca-se que não há violação ao princípio da não surpresa na decisão que averigua os requisitos legais e constitucionais para a admissão do recurso, uma vez que o "fundamento" ao qual se refere o art. 10 do Código de Processo Civil é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). Nesse sentido: AgInt no AREsp 1389200/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 29/03/2019; EDcl no REsp 1.280.825/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 1º/08/2017.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
