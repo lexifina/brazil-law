@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Trata-se de reclamação, com pedido liminar, proposta por SILVANA FURLANETTO PASCOALI, com fundamento nos arts. 105, I, f, da Constituição da República e 988, I, do CPC, em face de decisão do Presidente da 1ª Turma Recursal dos Juizados Especiais do Estado Estado de Santa Catarina.
+A Reclamante alega usurpação da competência desta Corte, porquanto não é incumbe ao STJ a análise da admissibilidade do pedido de uniformização a ele dirigido.
+Requer, liminarmente, a imediata remessa do Pedido de Uniformização ao STJ.
+Acompanharam a inicial os documentos de fls. 11/18e.
+É o relatório. Decido.
+A Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui expediente destinado à preservação de sua competência (inciso I), a garantir a autoridade das decisões do Superior Tribunal de Justiça (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+A presente Reclamação veio desacompanhada de peças essenciais ao seu conhecimento, quais sejam: (a) cópia do pedido de uniformização dirigido ao STJ, (b) certidão de publicação da decisão reclamada.
+Com efeito, indispensável é a juntada de cópia do recurso dirigido a esta Corte, a fim de se aferir a alegada usurpação de competência. Ademais, a falta da certidão de publicação da decisão impugnada impede a comprovação da tempestividade da Reclamação.
+A jurisprudência desta egrégia Corte firmou o entendimento segundo o qual, na via excepcional da Reclamação, não é possível a conversão do feito em diligência para a juntada das peças faltantes e que é dever do reclamante instruir a Reclamação com cópia de todos os documentos necessários à compreensão da matéria, sendo vedado posterior complementação.
+Nesse sentido:
+PROCESSUAL CIVIL. RECLAMAÇÃO. RES/STJ 12/2009. JUIZADOS ESPECIAIS. CABIMENTO. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO REGIMENTAL. INCABÍVEL. AUSÊNCIA DA CERTIDÃO DE PUBLICAÇÃO DO ACÓRDÃO RECLAMADO. JUNTADA POSTERIOR. IMPOSSIBILIDADE.
+1. A reclamação disciplinada pela Res/STJ 12/2009 destina-se a "dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte" (art. 1º STJ/Res 12/2009), consolidada em súmula ou em julgamento de recurso representativo da controvérsia - art. 543-C do CPC (Rcl 6.721, MT).
+2. É irrecorrível a decisão proferida pelo relator na reclamação de que trata a Resolução STJ 12/2009 (art. 6º).
+3. A reclamante deixou de juntar cópia da certidão de intimação do acórdão da Turma Recursal, o que impossibilita a verificação da tempestividade da reclamação. "É inviável a juntada posterior das peças essenciais ao julgamento da reclamação processada nos termos da Resolução 12/2009/STJ" (AgRg na Rcl 25.065/RO, Rel. Ministro Benedito Gonçalves, DJe 30/09/2015).
+4. Agravo regimental não conhecido.
+(AgRg na Rcl n. 28.595/ES, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Seção, julgado em 9/12/2015, DJe de 15/12/2015.)
+PROCESSO PENAL. RECLAMAÇÃO COM FULCRO NA RESOLUÇÃO N. 12/2009 DO STJ. PETIÇÃO INICIAL DESACOMPANHADA DE QUALQUER PROVA DOCUMENTAL. JUNTADA POSTERIOR: IMPOSSIBILIDADE. ACÓRDÃO PARADIGMA NÃO REPRESENTATIVO DE CONTROVÉRSIA, NEM TAMPOUCO DE JURISPRUDÊNCIA DOMINANTE DO STJ. INJÚRIA PRATICADA POR ADVOGADA CONTRA MAGISTRADA. DECISÃO QUE NÃO CONSIDEROU A INTERPELAÇÃO JUDICIAL COMO RENÚNCIA AO DIREITO DE QUEIXA. AUSÊNCIA DE TERATOLOGIA NA DECISÃO RECLAMADA. INDEFERIMENTO LIMINAR DA RECLAMAÇÃO.
+1. A reclamação na hipótese prevista na Resolução n. 12/2009 do Superior Tribunal de Justiça somente autoriza o ajuizamento do incidente para "dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência do Superior Tribunal de Justiça, suas súmulas ou orientações decorrentes do julgamento de recursos especiais processados na forma do art. 543-C do Código de Processo Civil."
+2. Se a petição inicial da reclamação fundada na Resolução n. 12/2009 do STJ não é instruída com nenhum documento, nem mesmo a decisão impugnada e a certidão de sua publicação, revelam-se inviáveis a verificação da tempestividade da reclamação e a constatação da efetiva ocorrência dos fatos narrados na inicial, o que acarreta a negativa de seu seguimento. É inadmissível, outrossim, a juntada posterior das peças consideradas essenciais à instrução desta espécie de incidente processual. Precedentes.
+3. O único precedente indicado pela reclamante (APN 647/DF), ainda que fosse faticamente similar à situação examinada no acórdão reclamado, por óbvio, não seria suficiente para representar a jurisprudência dominante da Corte Superior sobre a matéria.
+4. Embora, excepcionalmente, a jurisprudência admita a reclamação em hipóteses nas quais é demonstrada a manifesta teratologia da decisão reclamada, não é este o caso dos autos, visto que não há óbice legal à utilização da interpelação judicial seguida de representação por crime contra a honra, se a parte ofendida não se valeu de ação penal privada.
+5. Agravo regimental a que se nega provimento.
+(AgRg na Rcl n. 27.770/GO, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/11/2015, DJe de 2/12/2015.)
+Posto isso, nos termos do art. 34, XVIII, a, do RISTJ, NÃO CONHEÇO da Reclamação.
+Publique-se e intimem-se.
