@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IAGO DE JESUS DOS SANTOS contra a decisão proferida pelo Tribunal de Justiça do Estado da Bahia que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 531/537:
+Trata-se de Agravo em Recurso Especial interposto contra a decisão de fls. 487/489, que negou seguimento a Recurso Especial interposto pelo lago de Jesus dos Santos, em face de acórdão proferido pela 8ª Câmara Criminal do Tribunal de Justiça do Estado da Bahia, assim ementado:
+ ..
+2. No recurso especial inadmitido, buscava o recorrente, ora agravante, demonstrar contrariedade à lei federal. Alegou que o v. acórdão contrariou o artigo 226 do Código de Processo Penal.
+3. Ar. decisão agravada negou seguimento ao recurso especial ao considerar que a pretensão do recorrente incorreria em revolvimento fático- probatório e que a decisão encontrava guarida na jurisprudência atual, a teor das Súmulas 7 e 83/STJ.
+4. Daí o presente agravo, por meio do qual insiste na admissibilidade de seu apelo, alegando não buscar o reexame do material fático- probatório dos autos, mas somente a revaloração dos critérios jurídicos utilizados na apreciação dos fatos, o que se admite em sede de recurso especial.
+5. Contraminuta do agravado às fls. 504/512.
+6. Vieram então os autos a esta Procuradoria-Geral da República para manifestação do custos legis. É o relatório.
+O Parquet opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+Cumpre ressaltar que essa Corte firmou o entendimento segundo o qual " ..  o reconhecimento de pessoal, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa (HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020)" (AgRg no HC n. 734.611/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022). É o caso dos autos.
+Sendo assim, na hipótese, considerando que as instâncias ordinárias apontaram outras provas suficientes para manter a condenação (e-STJ fls. 437/438), examinar a questão recursal exigiria necessariamente o reexame fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CARÁTER MANIFESTAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. RECONHECIMENTO DE PESSOAS. ART. 226, DO CPP. INOBSERVÂNCIA EM JUÍZO. AUSÊNCIA DE REGISTRO PELAS INSTÂNCIAS ORDINÁRIAS. ART. 228, DO CPP. VIOLAÇÃO NÃO DEMONSTRADA. OUTRAS PROVAS AUTÔNOMAS. SUFICIÊNCIA. DECLARAÇÃO DA VÍTIMA. FRAGILIDADE. REEXAME. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os embargos de declaração, opostos contra decisão monocrática proferida no âmbito do STJ, podem ser de logo recebidos como agravo regimental, quando for nítido o seu caráter infringente, por haver, na verdade, mero inconformismo com a decisão que lhe foi contrária.
+2. O disposto no art. 226, do CPP, relativo ao reconhecimento de pessoas ou coisas, não equivale a mera recomendação do legislador, devendo o procedimento nele indicado ser observado, sob pena de nulidade, ressalvando-se, porém, a existência de outras provas que não sejam dele decorrentes e que bastem para convencer o magistrado a respeito da autoria delitiva.
+3. Inexistindo registro, pelas instâncias ordinárias, de inobservância em juízo dos parâmetros legais relativos ao reconhecimento do acusado, sob um ponto de vista fático, concluir de forma contrária exigiria análise do material probatório produzido nos autos, em ofensa ao enunciado da Súmula 7/STJ.
+4. Quando as instâncias ordinárias apenas registram que a vítima foi conduzida ao local do reconhecimento ao lado de outra pessoa, sem indicação de quem seja ela, não há como acolher a alegação de ofensa ao art. 228, do CPP, podendo esse outro indivíduo ser até mesmo um policial auxiliando a realização dos trabalhos.
+5. Tendo a decisão judicial mencionado a existência de prova testemunhal que demonstrou ser o acusado a pessoa que aparece nas imagens do local do crime, além de ter o seu deslocamento rastreado a partir de extratos telefônicos e antenas, tudo se harmonizando com as declarações da vítima, prestadas inclusive em juízo, não se pode falar em condenação baseada exclusivamente em reconhecimento viciado.
+6. Não é possível acolher a alegação de fragilidade de declarações da vítima, baseada na alegação de longo decurso de tempo, sem que os fatos correspondentes tenham sido registrados no acórdão recorrido, não sendo possível admiti-los como incontroversos a partir da leitura da prova respectiva, diante da proibição do reexame de provas na via do recurso especial.
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.551.087/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/2/2022, DJe de 2/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
