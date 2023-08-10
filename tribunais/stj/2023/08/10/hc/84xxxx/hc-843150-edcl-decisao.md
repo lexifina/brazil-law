@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DIEGO ALAN DUARTE de decisão na qual não conheci do habeas corpus por ser reiteração dos HCs 804.807 e 686.925.
+A defesa insiste na ilegalidade da prova utilizada na condenação, porque obtida por Guardas Municipais, em atividade de policiamento ostensivo.
+Afirma que "no REsp 1.977.119. julgado em 2022, foi dada nova interpretação e consequentemente novo entendimento para atuação das Guardas Municipais, restringindo a atuação do órgão".
+Defende que "diante do novo paradigma interpretativo em relação à atuação das Guardas Municipais por essa Colenda Corte, entendemos cabível a análise do writ para eventual concessão da ordem de ofício."
+É o breve relato.
+Decido.
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Na hipótese, observa-se que não há se falar em omissão, na medida em que a decisão impugnada analisou satisfatoriamente o feito, concluindo que este habeas corpus traz pedido idêntico ao deduzido no HC 686.925/SP. Na oportunidade, consignei:
+Inicialmente, no que se refere à ilegalidade da prisão em flagrante operada por guardas municipais, consigno que "É assente nesta Corte Superior de Justiça a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (HC 471.229/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/2/2019, DJe 1º/3/2019).
+Como se verifica, a atuação da guarda municipal foi tida como legal amparada em precedente juntado à época do exame da questão. Logo, não houve a comprovação da existência de nenhum dos vícios constantes do art. 619 do CPP.
+No mesmo sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. Ademais, cumpre destacar que, "segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade." (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014)" (AgRg no REsp n. 1.993.252/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.).
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.192.057/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/4/2023, DJe de 10/5/2023.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. CABIMENTO DE AÇÃO REVISIONAL CONTRA DECISÃO SINGULAR. OMISSÃO. CARACTERIZAÇÃO. EFEITOS INFRIGENTES. POSSIBILIDADE. APLICAÇÃO DO NOVO ENTENDIMENTOS AOS RECURSOS PENDENTES DE ANÁLISE, AINDA QUE INTERPOSTOS ANTES DA ALTERAÇÃO JURISPRUDENCIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Nos termos do art. 239 do RISTJ, "À Corte Especial caberá a revisão de decisões criminais que tiver proferido, e à Seção, das decisões suas e das Turmas". Muito embora a interpretação literal não indique a possibilidade da ação revisional contra decisão singular, recentemente, essa Terceira Seção acolheu entendimento diverso para concluir pelo cabimento da ação revisional que visa desconstituir decisão monocraticamente proferida.
+III - Esta eg. Corte Superior já decidiu que a alteração de entendimento jurisprudencial é aplicado ao recurso pendente de análise, ainda que interposto antes da mudança de posicionamento pretoriano. Precedentes.
+IV - No caso, o v. acórdão ora impugnado, seguindo entendimento jurisprudencial anterior, não admitiu a revisão criminal, porquanto ajuizada em face de decisão singular, de modo que, padecendo de omissão, excepcionalmente, por meio do recurso integrativo, são admitidos efeitos infringentes desde que constatada a presença de um dos vícios do artigo 619 do Código de Processo Penal, cuja correção importe em alteração da conclusão do julgado.
+Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl no AgRg na RvCr n. 5.608/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022.)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
