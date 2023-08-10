@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jamildo Assis Junior - réu na Ação Penal n. 0061538-50.2022.8.16.0014, da Vara Sumariante do Tribunal do Júri da comarca de Londrina/PR, que apura a prática, em tese, dos crimes de homicídio qualificado e embriaguez ao volante, atacando-se acórdão proferido pelo Tribunal de Justiça do Paraná (Recurso em Sentido Estrito n. 0018877-22.2023.8.16.0014 - fls. 15/22), que manteve a medida cautelar de suspensão da habilitação para dirigir, imposta ao paciente no recebimento da denúncia (fls. 24/25) -, não comporta acolhimento.
+Com efeito, busca a impetração a revogação da medida cautelar, aos argumentos de deficiência de fundamentação da medida - pois, a existência de três processos administrativos não é suficiente a demonstrar o alegado risco na condução de veículos automotores, em especial para se justificar a imposição de medida cautelar tão grave (fl. 8) - e restrição ao exercício profissional do paciente.
+Ocorre que, da atenta análise dos autos, observa-se que a imposição da medida cautelar de suspensão da habilitação para dirigir demonstrou de forma fundamentada o risco à ordem pública, ressaltando a gravidade concreta do delito - prática de homicídio utilizando-se de um veículo automotor de razoável porte para dolosamente atingir e matar a vítima, que conduzia uma motocicleta, em local com grande circulação de pessoas, arrastando, em tese, por longo percurso a motocicleta, sem se importar para os perigos desta conduta, somente parando por ação de populares (fl. 65) -, elemento que se mostra suficiente para justificar a manutenção da medida.
+Nesse sentido: HC n. 554.822/SP, de minha relatoria, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E EMBRIAGUEZ AO VOLANTE. MEDIDA CAUTELAR. SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR. RISCO À ORDEM PÚBLICA. GRAVIDADE CONCRETA. MEDIDA CAUTELAR MANTIDA.
+Inicial indeferida liminarmente.
