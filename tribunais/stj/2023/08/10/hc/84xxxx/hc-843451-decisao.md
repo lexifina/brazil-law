@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ARIELH OLIVEIRA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC 1.0000.23.102039-7/000)
+A paciente está presa preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei 11.343/2006, e 12, caput, da Lei 10.826/2003.
+A ordem impetrada na Corte de origem foi indeferida.
+A defesa alega: a) "a paciente possui filhos menores de 12 anos de idade, os quais somente ela é a responsável pelos filhos, estando aos cuidados de familiares" (e-STJ fl. 6); b) ausência de fundamentação apta a justificar a segregação cautelar (não atendidos os requisitos previstos no art. 312 do Código de Processo Penal); c) existência de condições pessoais favoráveis, notadamente, primariedade, bons antecedentes, residência fixa, ocupação lícita, mãe de duas crianças menores de 12 anos e quantidade reduzida de droga apreendida; e d) possibilidade de substituição da prisão preventiva por quaisquer das medidas cautelares diversas estabelecidas no art. 319 do CPP.
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas.
+É o relatório.
+A matéria relativa à revogação da prisão preventiva não foi apreciada no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. EXCESSO DE PRAZO. RAZOABILIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO CAUTELAR. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Quanto ao aventado excesso de prazo, da análise dos autos, não verifico, na espécie, a existência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração a prisão imposta, em 08/7/2022, mormente, em virtude das particularidades da causa, a exemplo da gravidade concreta que se busca apurar no presente feito, havendo que se considerar, outrossim, a situação atual de pandemia de COVID-19, que tem interferido nos trâmites processuais; não havendo qualquer elemento que evidencie a desídia dos órgãos estatais na condução feito, razão pela qual não se vislumbra, por ora, o alegado constrangimento ilegal suscetível de provimento do presente recurso.
+III - No mais, no que tange ao pleito de revogação da prisão cautelar, mesmo, a substituição da prisão por medida diversa, verifico que não há manifestação acerca de tais controvérsias pelo eg. Tribunal a quo, de maneira que sua análise diretamente por esta Corte fica impossibilitada, sob pena de indevida supressão de instância.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 750.520/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 2/3/2023).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
