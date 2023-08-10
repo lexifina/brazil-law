@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto por COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA. - contra a decisão que conheceu do agravo para negar provimento ao recurso especial em virtude da incidência da Súmula nº 7/STJ.
+Nas presentes razões, a agravante reafirma que o art. 833, IV, do Código de Processo Civil foi afrontado pelo tribunal de origem, sustentando a possibilidade de penhora do salário do agravado.
+Aponta, ainda, a inaplicabilidade da Súmula nº 7/STJ ao caso em apreço.
+Ao final, requer a reconsideração da decisão atacada ou a submissão deste recurso ao colegiado.
+Foi apresentada impugnação às fls. 296-308 (e-STJ).
+É o relatório.
+DECIDO.
+O recurso merece prosperar.
+O posicionamento do Superior Tribunal de Justiça é no sentido de que a regra geral de impenhorabilidade dos vencimentos e outras verbas de caráter alimentar pode ser excepcionada, nos termos do art. 833, IV, c/c o § 2º, do Código de Processo Civil, independentemente da natureza da dívida, quando, ressalvadas eventuais particularidades do caso concreto, for preservado montante capaz de garantir a dignidade do devedor e de sua família.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos." (EREsp 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023).
+No caso dos autos, o Tribunal de Justiça do Distrito Federal e dos Territórios afastou a possibilidade de penhora dos vencimentos da parte recorrida sob a seguinte fundamentação:
+"(..)
+Conforme decidido em sede liminar, de acordo com o inciso IV do art. 833 do Código de Processo Civil, são impenhoráveis os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o §2º. O Superior Tribunal de Justiça, inclusive, já consolidou, sob o rito dos recursos repetitivos, o entendimento no sentido de que: "A penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de (REsp 1184765/PA, Rel. Ministro Luiz Fux, Primeira Seção, DJe 03/12/2010)."" (fl. 117 e-STJ - grifou-se).
+Desse modo, o acórdão recorrido dispôs de tese genérica, segundo a qual seria absolutamente inviável afastar a impenhorabilidade, trazendo como fundamento o REsp 1.184.765/PA, rel. Ministro Luiz Fux, Primeira Seção, DJe 03/12/2010, motivo pelo qual nem sequer analisou as peculiaridades do caso concreto que poderiam permitir, ou não, a mitigação da proteção sobre os proventos de aposentadoria do executado.
+Ante o exposto, dou provimento ao agravo interno para conhecer do agravo e dar provimento ao recurso especial, a fim de determinar o retorno dos autos ao tribunal de origem para que reexamine o pedido de penhora observando a atual jurisprudência desta Corte Superior.
+Publique-se.
+Intimem-se.
