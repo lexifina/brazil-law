@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por MUNICÍPIO DE CURITIBA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ nos termos da seguinte ementa (fl. 58):
+AGRAVO DE INSTRUMENTO- AÇÃO DE USUCAPIÃO ORDINÁRIO -RECURSO PELA REQUERIDA - INSURGÊNCIA PELA REFORMA DA DECISÃO QUE DETERMINOU MANIFESTAÇÃO DO AGRAVANTE SOBRE INTERESSE NO FEITO - NÃO ACOLHIDA - MATRÍCULA DOIMÓVEL E DEMAIS DOCUMENTOS ANEXADOS QUE SÃO CAPAZES DE INDIVIDUALIZAR O OBJETO DA LIDE - DESNECESSIDADE DE PLANTA E MEMORIAL DESCRITIVO - AGRAVADA QUE É,INCLUSIVE, HIPOSSUFICIENTE - PRECEDENTES DESTA CORTE - DECISÃO MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 80-85).
+Nas razões do recurso especial (fls. 91-99), aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 1.022, II, do Código de Processo Civil, sustentando que houve omissão no acórdão recorrido, quanto à documentação necessária à propositura da ação; e
+b) 320 e 1.071 do Código de Processo Civil, alegando que o levantamento topográfico da área usucapienda é documento essencial à propositura da ação de usucapião.
+Oferecidas contrarrazões (fls. 105-110), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 111-116), o que ensejou a interposição do presente agravo (fls. 121-125).
+Apresentadas contraminutas do agravo (fls. 130-136).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação do art. 1.022, II, do Código de Processo Civil, porquanto, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem a apontada omissão.
+No que se refere aos arts. 320 e 1.071 do Código de Processo Civil, o Tribunal de origem concluiu que a matrícula do imóvel e demais documentos anexados são capazes de individualizar o objeto da lide, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 60-62):
+Junto da exordial, a parte autora apresentou uma série de documentos: matrícula do imóvel (mov. 1.7, petição inicial), matrícula atualizada (mov. 13.2), Croqui da delimitação dos confrontantes, emitido pela prefeitura municipal de Curitiba (mov. 1.8, petição inicial), declarações testemunhais (mov. 1.14), bem como uma fotografia do local, retirada do endereço eletrônico "Google Maps" (mov. 1.15, petição inicial), registros este que se revelam suficientes para aferição da demarcação da área ucucapienda e que permitem manifestação do Município de Curitiba.
+Aliás, isso se mostra escorreito, pelo simples fato de que os demais entes, quais sejam, a Procuradoria do Estado do Paraná (mov. 36.1) e a União (mov. 44.1), já se manifestação, com base nos referidos documentos, pelo desinteresse no feito.
+No que tange a alegação do agravante de necessidade do levantamento topográfico e do memorial descritivo pela autora, também não procede.
+Muito embora o art. 1.071, do Código de Processo Civil, estipule que a inicial de usucapião deve ser instruída, entre outros documentos, com planta e memorial descritivo, por óbvio que, considerando a matrícula anexada no processo, a qual é capaz de individualizar a área litigiosa, não seria crível impor tamanho ônus à parte requerente, podendo, em última análise, se tornar óbice a busca por tutela jurisdicional.
+Saliente-se que a agravada é beneficiária da assistência judiciária gratuita, dada seu caráter de hipossuficiente (mov. 1.4, petição inicial).
+Nessa toada, esta Colenda Corte já se pronunciou pela desnecessidade da planta do imóvel e memorial descritivo, vez que a parte autora era carente de recursos financeiros:
+ ..
+Sendo assim, entendo pela manutenção da decisão agravada, pelos seus próprios termos, considerando que os documentos anexados aos autos são capazes de permitir manifestação sobre interesse no feito pelo Município de Curitiba.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confiram-se precedentes : AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
