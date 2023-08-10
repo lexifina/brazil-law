@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de Emerson Florentino Martins contra decisão proferida no Tribunal de Justiça do Estado de Santa Catarina - TJSC que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0000061-61.2019.8.24.0029.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 171, §§ 1º e 4º, do Código Penal - CP (estelionato majorado), à pena de 1 ano de reclusão, em regime inicial aberto, e 10 dias-multa. Ainda, a reprimenda corporal foi substituída por uma pena restritiva de direitos (fls. 772/773).
+Recurso de apelação interposto pela defesa foi parcialmente provido para fixar os honorários pleiteados (fl. 924). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO. SENTENÇA CONDENATÓRIA. INSURGÊNCIA DEFENSIVA. PLEITEADA A APLICAÇÃO DO PRINCIPIO DA INSIGNIFICÂNCIA. NÃO ACOLHIMENTO. CONTEXTO FÁTICO QUE DEMONSTRA A MAIOR REPROVABILIDADE DA CONDUTA. PALAVRAS DA VITIMA QUE DEMONSTRAM QUE O APELANTE UTILIZOU-SE DO FATO DE SER FILHO DE PESSOA CONHECIDA NA LOCALIDADE PARA REPASSAR O TITULO DE CRÉDITO FALSIFICADO. VITIMA IDOSA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. LAUDO PERICIAL DO TITULO DE CHEQUE ATESTANDO A SUA FALSIDADE. CONDENAÇÃO MANTIDA. VERBA HONORÁRIA RECURSAL. FIXAÇÃO AO DEFENSOR NOMEADO. RECURSO PARCIALMENTE PROVIDO PARA DETEMRINAR O PAGAMENTO DOS HONORÁRIOS ADVOCATICIOS" (fl. 918).
+Em sede de recurso especial (fls. 935/945), a defesa sustentou que há dissídio jurisprudencial entre o entendimento do TJSC e do Superior Tribunal de Justiça - STJ quanto ao princípio da insignificância e em relação ao não arbitramento dos honorários advocatícios de acordo com a tabela da Ordem dos Advogados do Brasil - OAB.
+Pugnou, dessarte, pelo provimento da pretensão recursal para que seja aplicado o princípio da insignificância à espécie, bem como sejam arbitrados os honorários advocatícios de acordo com a tabela da OAB.
+Contrarrazões do Ministério Público do Estado de Santa Catarina - MPSC (fls. 968/979).
+O recurso especial foi inadmitido no TJSC em razão da: a) não indicação dos dispositivos de Lei Federal interpretados de forma divergente; b) deficiência do cotejo analítico; c) indicação de julgado proferido em sede de habeas corpus como acórdão paradigma; d) da ausência de prequestionamento. Além disso, foi negado seguimento do recurso, no tocante ao Tema 984/STJ.
+Em agravo em recurso especial, a defesa deixou de impugnar todos os óbices (fls. 1.001/1.003).
+Contraminuta do MPSC (fls. 1.007/1.010).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 1.047/1.050).
+É o relatório.
+Decido.
+Na hipótese, denota-se que não estão presentes os pressupostos de admissibilidade do agravo em recurso especial, porquanto a defesa não impugnou todos os óbices indicados pela decisão agravada.
+A decisão proferida pelo TJSC negou trânsito ao recurso especial em razão da: a) não indicação dos dispositivos de Lei Federal interpretados de forma divergente; b) deficiência do cotejo analítico; c) indicação de julgado proferido em sede de habeas corpus como acórdão paradigma; d) da ausência de prequestionamento. Em contrapartida, o agravo em recurso especial não impugnou todos os óbices de admissibilidade aplicados pelo Tribunal de origem.
+Nessa medida, faz-se necessária a aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Nesse sentido, cito (grifo meu):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. No caso, o agravante deixou de refutar o fundamento segundo o qual, o acórdão recorrido foi proferido em consonância com jurisprudência do STJ, no sentido de que a tipificação dos crimes de sonegação fiscal prescinde da demonstração do dolo específico, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Acrescente-se que, de acordo com o entendimento pacificado nesta Corte Superior, quando o inconformismo excepcional não é admitido pela instância ordinária, sob o fundamento de que a orientação do Tribunal se firmou no mesmo sentido da jurisprudência do STJ, tal como ocorrido na espécie, a impugnação deve indicar precedentes contemporâneos ou supervenientes, em sentido contrário aos mencionados na decisão combatida, o que não se verifica no caso em apreço.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/05/2021).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/5/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO CONFIRMADA.
+A teor do do art. 253, parágrafo único, inciso I, c. c. o art. 1º, da Resolução n. 17/2013, ambos do Regimento Interno desta Corte, é manifestamente inadmissível o agravo que não impugna, especificamente, todos os fundamentos da decisão de admissibilidade.
+Agravo regimental desprovido.
+(AgRg no AREsp 982.371/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/3/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO NÃO CONHECIDO MONOCRATICAMENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODAS AS RAZÕES UTILIZADAS PELO TRIBUNAL DE JUSTIÇA LOCAL PARA INADMITIR O APELO NOBRE. ART. 932, III, do NCPC. INSURGÊNCIA DESPROVIDA.
+ ..
+3. O agravo não infirmou todos os fundamentos apontados pela Instância a quo para a inadmissão de seu apelo nobre, razão pela qual o inconformismo não foi conhecido monocraticamente pela Presidência deste Sodalício, com fulcro na norma insculpida no art. 932, III, do CPC/2015, combinado com o art. 1.º da Resolução STJ n.º 17/2013.
+4. Em sede recursal é necessário que a parte refute de forma direta os impedimentos apontados para a não admissão de seu apelo extremo, explicitando os motivos pelos quais estes não incidiriam na hipótese em testilha, ônus do qual o agravante não se desincumbiu, razão pela qual a decisão impugnada deve ser mantida por seus próprios fundamentos.
+5. Agravo a que se nega provimento.
+(AgRg no AREsp 880.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/10/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC; art. 253, I, do RISTJ; e da Súmula n. 182 do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
