@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOAO JOSE REIS ARAUJO, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de cobrança, ajuizada pelo agravante, em face de COOPERATIVA DE CREDITO SICOOB ENGECRED LTDA. e COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE GOIANIA E REGIAO LTDA., decorrente de exoneração do cooperado.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+Apelação cível - Ação de cobrança - Exoneração de cooperado, a pedido -Desligamento do quadro de associados - Restituição do capital social integralizado -Saldo devedor -Observância às disposições estatutárias - Recurso desprovido.
+1. A Lei 5.764, de 1971, que define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências, estabelece em seu art. 38 que a "Assembleia Geral dos associados é o órgão supremo da sociedade, dentro dos limites legais e estatutários, tendo poderes para decidir os negócios relativos ao objeto da sociedade e tomar as resoluções convenientes ao desenvolvimento e defesa desta, e suas deliberações vinculam a todos, ainda que ausentes ou discordantes".
+2. As decisões assembleares das sociedades cooperativas são passíveis de análise pelo Poder Judiciário estritamente sob o âmbito da legalidade. Para além disso, a intervenção do Judiciário em setor regulado sistemicamente implica ingerência indevida na autonomia privada. Prevalência das normas do Estatuto Social das cooperativas.
+3. O Conselho de Administração da cooperativa tem autonomia para deliberar sobre a forma de remuneração do capital social e quanto à aplicação ou não de juros sobre as quotas-sociais dos associados.
+Recurso especial: alega violação dos arts. 3º, 21, II, III e IV, 24, § 4º, e 37 da Lei 5.764/1971 , bem como dissídio jurisprudencial. Argumenta que a forma de demissão e retirada das quotas-partes dos associados é estabelecida no Estatuto Social. Assevera que o Estatuto Social da agravada não foi observado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 3º, 21, II, III e IV, 24, § 4º, e 37 da Lei 5.764/1971.
+- Do reexame de fatos e provas
+O TJ/MG assim se manifestou a respeito da remuneração do capital social:
+Ademais, em reunião do Conselho de Administração da SICOOB ENGECRED MG ocorrida na data de 29/11/2016, decidiu-se pela não remuneração do capital social, nos seguintes termos:
+ITEM 5 -REMUNERAÇÃO DO CAPITAL SOCIAL: Em seguida o presidente do Conselho de Administração passou a palavra ao conselheiro e diretor-presidente da Cooperativa, Antônio Dias Vieira, para a apresentação da proposta da Diretoria Executiva para a remuneração do Capital Social. O diretor-presidente fez uma ampla explanação sobre a formação do Capital Social da Cooperativa, pontuando que a sua maior parte foi formada em função da incorporação das sobras e de juros pagos. Disse que a cultura da capitali9zação voluntária e continuada não existe na Cooperativa e que esta mentalidade precisa ser mudada. Quanto à proposta de remuneração, disse que diante do quadro de prejuízo registrado nos últimos meses e do quadro de incerteza quanto ao futuro da economia em 2017, a proposta da Diretoria Executiva é que não seja pago juros ao capital neste ano e que a Assembleia Geral decida sobre o destino das sobras que porventura sejam apuradas no final deste exercício. Os conselheiros debateram a proposta e a aprovaram por unanimidade. Assim, não será feito provisionamento para o pagamento de sobras neste ano de 2016.
+Por sua vez, a Assembleia Geral Ordinária, realizada em 28/03/2017, além de aprovar, por unanimidade, as contas do exercício findo em 31 de dezembro de 2016, deliberou sobre a destinação dos resultados do exercício de 2016 e sobre os critérios para distribuição das sobras, decidindo destinar as sobras para o FATES, para o Fundo de Reserva e para os cooperados, com contas correntes ativas, em proporções distintas.
+Verifica-se, assim que, em função do cenário econômico e baseada em seu Estatuto Social e na legislação vigente, a Cooperativa não remunerou capital social, conforme previsão do artigo 27 do Estatuto Social:
+Art. 27 -Conforme deliberação do Conselho de Administração o capital integralizado pelos associados poderá ser remunerado até o valor da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais.
+Neste cenário, considerando que a decisão do Conselho de Administração da SICOOB ENGECRED MG em relação ao não pagamento de juros sobre o capital social se mostrou devidamente fundamentada no cenário econômico da época e nos resultados apresentados pela cooperativa, não é dado ao Poder Judiciário substituir-se nas funções do referido órgão administrativo das cooperativas.
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964.391/SP, 3ª Turma, DJe de 1/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% do valor atualizado da causa (e-STJ fl. 529) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
