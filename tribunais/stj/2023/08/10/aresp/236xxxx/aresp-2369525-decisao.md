@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANTONIO ALVES SOBRINHO E OUTROS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Decisão interlocutória: entendeu ser necessária a abertura de inventário, ou a realização de arrolamento de bens ou, ainda, de sobrepartilha judicial ou extrajudicial, para o caso de levantamento dos valores depositados nos autos .
+Acórdão: deu parcial provimento ao recurso interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - Sobrepartilha - Necessidade - Valor que não foi submetido à partilha - Regularização necessária - Inteligência do art. 2.022, do CC e do art. 669, do CPC.
+AGRAVO DE INSTRUMENTO - Reserva e levantamento de honorários contratuais - Necessária a habilitação dos herdeiros no cumprimento de sentença e a expressa concordância destes com o valor reservado para que haja o levantamento no cumprimento de sentença - Na hipótese de discordância, referido montante deverá ser transferido na integralidade para os autos do inventário, onde será deliberado sobre seu levantamento.
+Recurso parcialmente provido.
+Recurso especial: alega violação dos arts. 1º do Decreto 85.845 de 1981, 666 do CPC, 22, §4º, da Lei 8.906 de 1994, 1º e 2º da Lei 6.858 de 1980, bem como dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: ausência de cabimento de Resp contra violação do Decreto 85.845 de 1981, por não se cuidar de tratado ou lei federal; ausência de violação dos arts. 666 do CPC, 22, §4º, da Lei 8.906 de 1994, 1º e 2º da Lei 6.858 de 1980; Súmula 7/STJ e ausência de similitude fática quanto ao dissídio jurisprudencial.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos: ausência de cabimento de Resp contra violação do Decreto 85.845 de 1981, por não se cuidar de tratado ou lei federal e ausência de comprovação da similitude fática quanto ao dissídio jurisprudencial.
+Ressalte-se que, na hipótese em que se pretende impugnar, o fundamento relativo à divergência não comprovada é necessário que a parte agravante demonstre, de maneira inequívoca, os elementos indispensáveis à demonstração da divergência, requisitos constantes dos arts. 541, parágrafo único, do CPC/73 e 255, § 1º, do RISTJ, o que também não se verifica no recurso, uma vez que o agravante não realizou o devido cotejo com comprovação da similitude fática.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
