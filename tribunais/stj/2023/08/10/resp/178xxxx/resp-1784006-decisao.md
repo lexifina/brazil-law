@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DO SUDOESTE DE MINAS GERAIS E NORDESTE DE SÃO PAULO LTDA. - SICOOB AGROCREDI, com arrimo no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Embargos à Execução. Cédula de Crédito Rural. Cerceamento. Inocorrência. Pretensão ao alongamento da dívida. Falta de demonstração de requisitos fáticos e legais para a pretensão. Capitalização de juros. Viabilidade. Possibilidade de elevação dos juros remuneratórios em 1% ao ano, mais correção monetária e multa moratória. Descaracterização da mora no presente caso. Necessidade de recálculo do débito. Exclusão do avalista com fundamento no Decreto-Lei 167/67, art. 60, §§ 2º e 3º. Recurso parcialmente provido" (e-STJ fl. 418).
+Em suas razões (e-STJ fls. 434-450), a recorrente aponta, além de divergência jurisprudencial, violação do artigo 60, caput, e §§ 2º a 4º, do Decreto-lei nº 167/1967.
+Sustenta, em síntese, a validade do aval prestado em cédula de crédito rural pignoratícia.
+Insurge-se, ainda, quanto à limitação dos juros remuneratórios a 12% ao ano.
+Com as contrarrazões (e-STJ fls. 485-490), e admitido o recurso na origem (e-STJ fls. 491-492), subiram os autos a esta colenda Corte.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar em parte.
+No tocante à limitação de juros remuneratórios, a recorrente não apontou nenhum dispositivo legal que teria sido violado pelo acórdão recorrido.
+Aplica-se, por analogia, na espécie, o disposto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA DO NOME DO AUTOR EM ROL DE INADIMPLENTES. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL COM INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. QUANTUM INDENIZATÓRIO DO DANO MORAL. INCIDÊNCIA DA SÚM 7/STJ.
+1. Nos termos da jurisprudência do STJ, é imprescindível que no recurso especial sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula n.º 284 do STF.
+2. Na hipótese, a recorrente não indicou os dispositivos de lei federal supostamente violados e, no tocante à alínea "c" do recurso especial, limitou-se a transcrever precedentes paradigmas sem, contudo, precisar qual artigo de lei teria recebido interpretação divergente.
+3. A conclusão a que chegou o Tribunal de origem acerca do valor fixado a título de dano moral, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Entender de forma diversa implicaria na necessária incursão na seara fática para reexame de provas, conduta vedada em sede de recurso especial, ante o óbice da Súmulas 7/STJ.
+4. Agravo regimental não provido, com aplicação de multa".
+(AgRg no AREsp 511.537/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 04/08/2014 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO. SERVIÇO DE TELEFONIA. COBRANÇA. VIOLAÇÃO DO ARTIGO 535 DO CPC. SÚMULA 284/STF. PREQUESTIONAMENTO. SÚMULA 211/STJ. SÚMULA 7/STJ.
+1.- Tendo o Tribunal de origem fundamentado o posicionamento adotado com elementos suficientes à resolução da lide, não há que se falar em ofensa ao artigo 535, do CPC.
+2.- A ausência de particularização do dispositivo legal tido por afrontado é deficiência com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial.
+3.- Não examinada a matéria objeto do Recurso Especial pela instância a quo, mesmo com a oposição dos Embargos de Declaração, incide o enunciado 211 da Súmula do Superior Tribunal de Justiça.
+4.- A convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial o enunciado 7 da Súmula desta Corte Superior.
+5.- Agravo Regimental improvido".
+(AgRg no AgRg no AREsp 111.412/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2014, DJe 06/06/2014 - grifou-se)
+Quanto ao mais, nota-se que a jurisprudência desta Corte está consolidada no mesmo rumo da tese defendida nas razões do especial, no sentido de que é válido o aval prestado por pessoa física nas cédulas de crédito rural, pois a vedação contida no § 3º do art. 60 do Decreto-lei nº 167/67 não alcança o referido título, sendo aplicável apenas às notas promissórias e duplicatas rurais.
+Confir am-se, a propósito, os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE AVAL. NÃO INCIDÊNCIA DAS SÚMULAS 126/STJ, 211/STJ E 284/STF. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. INEXISTÊNCIA DE DIREITO SUBJETIVO À APLICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. VALIDADE DO AVAL.
+1. Não há que se falar em incidência da Súmula 126/STJ, uma vez que o Tribunal de origem fundamentou suas conclusões exclusivamente em dispositivos infraconstitucionais. Também não incidem os óbices das Súmulas 211/STJ e 284/STF, porquanto as matérias debatidas foram devidamente prequestionadas.
+2. De acordo com a orientação consolidada do STJ, inexiste direito subjetivo à aplicação da jurisprudência vigente à época dos fatos, do ajuizamento da ação ou da interposição do recurso, estando o julgador vinculado apenas aos precedentes existentes no momento da efetiva prestação jurisdicional. Precedentes.
+3. É válido o aval prestado por pessoa física nas cédulas de crédito rural, pois a vedação contida no § 3º do art. 60 do Decreto-lei nº 167/67 não alcança o referido título, sendo aplicável apenas às notas promissórias e duplicatas rurais. Precedentes.
+4. Agravo interno não provido".
+(AgInt no REsp n. 2.002.764/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA. ALONGAMENTO DA DÍVIDA. REQUISITOS. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DECRETO-LEI 167/67, ART. 60, §§ 1º, 2º E 3º. TEOR NORMATIVO ESPECÍFICO ÀS CAMBIAIS. GARANTIA DADA POR TERCEIROS EM CCR. VALIDADE. AGRAVO DESPROVIDO.
+1. A modificação do entendimento firmado nas instâncias ordinárias, quanto à ausência dos requisitos que autorizariam o alongamento da dívida rural, demanda, na hipótese dos autos, o revolvimento de matéria fático-probatória.
+2. Diversamente da nota promissória rural e da duplicata rural, que são emitidas pelo comprador da produção agrícola e representam o preço de venda a prazo de bens de natureza agrícola, em geral cedidas pelo produtor rural nas operações de desconto bancário, a cédula de crédito rural corresponde a financiamento obtido para viabilizar a produção agrícola.
+3. "As mudanças no Decreto-lei n.167/67 não tiveram como alvo as cédulas de crédito rural. Por isso elas nem sequer foram mencionadas nas proposições que culminaram com a aprovação da Lei nº 6.754/79, que alterou o Decreto-lei referido. A interpretação sistemática do art. 60 do Decreto-lei nº 167/67 permite inferir que o significado da expressão "também são nulas outras garantias, reais ou pessoais", disposta no seu § 3º, refere-se diretamente ao § 2º, ou seja, não se dirige às cédulas de crédito rural, mas apenas às notas e duplicatas rurais" (REsp 1.483.853/MS, TERCEIRA TURMA, Rel. Ministro MOURA RIBEIRO, julgado em 4/11/2014, DJe de 18/11/2014).
+4. O Decreto-Lei 167/67, em seu art. 60, §§ 2º e 3º, determina a nulidade do aval e de outras garantias, reais ou pessoais, referindo-se apenas à nota promissória rural e à duplicata rural endossadas, ressalvando a validade das garantias nestes títulos quando prestadas por pessoas físicas participantes de sociedade empresária emitente, por esta ou por outras pessoas jurídicas.
+5. Tal nulidade, portanto, não atinge a cédula de crédito rural, porque esta corresponde a um financiamento bancário, negócio jurídico, de natureza contratual, em que há a participação direta de instituição de crédito. Trata-se de operação diversa das referentes às notas promissórias e duplicatas rurais, nas quais o banco não participa da relação jurídica subjacente, ingressando na relação cambial apenas durante o ciclo de circulação do título.
+6. Dada a natureza de financiamento bancário, inexiste óbice à prestação de quaisquer garantias na cédula de crédito rural, sendo válidas mesmo as dadas por terceiro pessoa física, cumprindo-se assim a função social dessa espécie contratual.
+7. Agravo interno a que se nega provimento".
+(AgInt no AREsp n. 1.622.258/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2022, DJe de 14/6/2022 - grifou-se)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para, reformando em parte o acórdão recorrido (apenas no que diz respeito à validade do aval prestado por Marcos Monteiro Miranda), julgar parcialmente procedentes os embargos à execução opostos pelos ora recorridos.
+Publique-se.
+Intimem-se.
