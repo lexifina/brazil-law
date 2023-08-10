@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de RICHAR DAMIAO DA ROCHA RIBEIRO, preso porque condenado à pena de 3 anos e 6 meses de reclusão pela prática do delito descrito no art. 35 da Lei n. 11.343/2006, em acréscimo, pelos delitos dos arts. 33, caput, e 33, § 1º, II, do mesmo diploma legal, condenado à sanção de 11 anos e 8 meses (fls. 206/207), apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO (Apelação Criminal n. 00004722-49.2018.8.11.00007).
+Alega o impetrante que, conforme se extrai dos autos, houve flagrante violação do comando do art. 35 da Lei n. 11.343/2006, ao manter a condenação do paciente pelo delito de associação para o tráfico de drogas, sem a demonstração concreta dos requisitos da estabilidade e da permanência, como exigem por esta Corte (fl. 10).
+Requer , em liminar e no mérito, o seguinte (fl. 17):
+ ..
+IV - DA LIMINAR:
+Encontram-se presentes os requisitos para o deferimento de medida liminar, quais sejam o fumus boni iuris e o periculum in mora. O fumus boni iuris consiste no não apenas aparente, mas sim evidente direito do paciente ser absolvido do delito previsto no art. 35 da Lei n. 11/343/2006, uma vez que ausentes as elementares da estabilidade e da permanência. Já o periculum in mora consubstancia-se no fato de que o paciente encontra-se cumprindo pena em regime fechado, sem que haja quaisquer fundamentos juridicamente válidos para tanto.
+V - POSTULAÇÕES:
+Diante de todo o exposto, requer o impetrante a procedência do pedido, culminando com a concessão da ordem para absolver o paciente, do crime previsto no art. 35 da Lei n. 11/343/2006, por ser medida de direito.
+ ..
+É o relatório.
+De início, verifico que a impetração não prospera, visto que a insurgência apresentada pela defesa neste writ - demanda relativa à absolvição pelo delito previsto no art. 35 da Lei n. 11.343/2006 (fl. 17) - não foi examinada pela instância de origem, o que acarreta o óbice da indesejada supressão de instância e denota flagrante impropriedade do meio processual ora utilizado.
+As hipóteses de cabimento do writ são restritas e este Superior Tribunal não tem admitido a sua utilização como remédio para todos os males.
+Nesse sentido: as matérias que não foram objeto de análise pelo tribunal de origem não são passíveis de conhecimento pelo STJ, sob pena de ocorrer indevida supressão de instância (AgRg no HC n. 608.682/SP, Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 16/3/2021, DJe 19/3/2021).
+De mais a mais, mesmo que superado o mencionado óbice, denota-se que o ora paciente foi condenado, nas sanções do art. 35 da Lei n. 11.343/2006, nos seguintes termos da sentença condenatória, ratificado pelo acórdão impugnado (fls. 150/151):
+ ..
+90. Quanto ao delito de associação para o tráfico capitulado, necessário se mostra fazer uma digressão quanto a este delito. Pois bem, a associação nada mais é do que a reunião de duas ou mais pessoas para a prática dos crimes previstos no art. 33, caput, c, e art. 34 da Lei n. 11.343/2006.
+91. Na verdade, é a quadrilha ou bando específico para o tráfico ilícito de entorpecentes, equiparado a hediondo.
+92. No entanto, possui como elemento subjetivo, o dolo. Exige-se requisito subjetivo especial, também conhecido na doutrina como dolo específico ou elemento subjetivo do injusto, consistente no ânimo de associação, de caráter duradouro, permanente e estável. Caso contrário será um mero concurso de agentes para a prática do crime de tráfico. É fundamental que os sujeitos se reúnam com o propósito de manter a meta comum, qual seja, a prática da traficância contínua, duradoura, permanente e estável. Sem estes elementos, não há que se falar em delito de associação para o tráfico.
+93. Tomadas tais considerações, analisando o conjunto probatório coligido aos autos, vislumbro que os elementos de provas levai  decreto condenatório para a associação para o tráfico, pois conjunto probatório é robusto c testifica ter havido o delito de associação para o tráfico ilícito de entorpecentes, pois restou cabalmente demonstrado que o réu e a adolescente/inimputável Luana Davane Pereira estavam previamente mancomunados à prática delitiva de tráfico, haja vista que guardavam e tinham em depósito Os entorpecentes, tipo maconha e cocaína e cultivavam Cannabis Saliva L. na residência do acusado com finalidade de, conjuntamente, comercializar.
+94. Tais fatos foram precisamente confirmados pelos policiais civis em instrução processual, não pairando dúvidas, deste modo, que o réu e o imputável estavam associados para a prática do crime de tráfico de entorpecentes.
+95. Não pairem dúvidas acerca da existência de forte animus associativo entre o réu e a inimputável Luana Davane Pereira, tendo havido uma prévia reunião de interesse e propósitos para a distribuição da droga, inclusive a pretensa estabilidade declinada como condição para o tipo, ficando patente a conjunção de esforços e a associação dos mesmos com o único propósito de distribuição de drogas.
+96. Note-se dos autos que o réu e a inimputável estavam associados para a prática do crime de tráfico ilícito de drogas, na medida em que, após ajuste prévio c adesão de vontades, agiram com unidade de desígnios, formando urna coesa e perene associa.
+ ..
+Logo, não merece reforma o acórdão impugnado, porquanto, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (AgRg no HC n. 814.452/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2023).
+Igualmente: AgRg no RHC n. 161.882/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 31/3/2022; e EDcl nos EDcl nos EDcl no AgRg nos EAREsp n. 301.889/MG, Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, DJe 12/3/2021.
+Ante o exposto, indefiro liminarmente o writ.
+Publique -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ACÓRDÃO A QUO NÃO EXAMINOU A QUAESTIO. SUPRESSÃO.
+Writ indeferido liminarmente.
