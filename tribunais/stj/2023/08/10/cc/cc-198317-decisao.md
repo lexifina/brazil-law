@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito de competência entre o JUÍZO DA 61ª VARA DO TRABALHO DE SÃO PAULO/SP, o suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DO FORO REGIONAL XI DE PINHEIROS - SÃO PAULO/SP, o suscitado.
+A primeira interessada ajuizou ação de indenização visando o ressarcimento dos valores por ela pagos em reclamações trabalhistas, ao fundamento que decorreram de atos ilícitos realizados pela CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO, ao realizar terceirizações ilícitas.
+A ação foi proposta perante a justiça estadual que declinou da competência para a justiça especializada, ao fundamento de que a análise do mérito exige decisão sobre a responsabilidade trabalhista (e-STJ fl. 261), o qual, por sua vez, suscitou o presente conflito (e-STJ fls. 264/265).
+O Ministério Público Federal se manifestou no sentido de que seja declarada a competência da Justiça comum.
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, é sabido que a competência em razão da matéria é fixada a partir da causa de pedir e do pedido deduzido em juízo.
+Nesse passo, da análise das peças que instruem o referido conflito, notadamente a petição inicial do interessado, verifica-se que a pretensão a empresa é de ação de regresso com o ressarcimento dos valores pagos por esta empresa nas reclamações trabalhistas já resolvidas pela Justiça especializada, nas quais, inclusive, a CESP também conjuntamente como reclamada, e que não estariam abarcadas em cláusula dos contratos firmados com a empresa de energia elétrica após lograr-se vencedora dos certames licitatórios.
+Com efeito, a causa de pedir e o pedido não se referem às matérias de competência da Justiça Laboral, dispostas no art. 114 da Constituição da República, mas a eventual direito de regresso decorrente do vínculo empresarial e contratual entre pessoas jurídicas.
+Nesse sentido: CC n. 193.601, Ministro Raul Araújo, DJe de 28/02/2023; CC n. 186.737, Ministro Paulo de Tarso Sanseverino, DJe de 06/10/2022; CC n. 190.459, Ministro Herman Benjamin, DJe de 26/08/2022; e CC n. 182.306, Ministro Og Fernandes, DJe de 27/10/2021.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, CONHEÇO do conflito para DECLARAR a competência do JUÍZO DE DIREITO DA 3A VARA CÍVEL DO FORO REGIONAL XI DE PINHEIROS - SÃO PAULO/ SP, o suscitado.
+Publique-se. Intimem-se.
