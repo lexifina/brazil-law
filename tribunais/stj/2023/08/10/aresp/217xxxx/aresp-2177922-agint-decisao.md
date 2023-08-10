@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOÃO MARCELO DE LIMA ASSAFIM (JOÃO MARCELO), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO (e-STJ, fl. 540)
+Nas razões do presente inconformismo, JOÃO MARCELO defendeu a (1) impugnação específica de todos os fundamentos da decisão que inadmitiu o apelo nobre, por meio de tópicos exclusivos; e (2) existência de omissão sobre ponto relevante da causa, cuja apreciação poderia embasar entendimento contrário ao pronunciado pelo julgamento combatido pelo recurso especial (e-STJ, fls. 546/560).
+Não foi apresentada contraminuta (e-STJ, fl. 565).
+É o relatório.
+Decido.
+Da reconsideração da decisão agravada
+Diante dos fundamentos indicados no agravo interno, RECONSIDERO a decisão agravada para reanálise do recurso especial.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a , da CF, JOÃO MARCELO sustentou ofensa aos arts. 489, § 1º, IV, 492 e 1.022, II, do CPC; e 104, 107, 110, 421 e 422 do CC/02, sob os argumentos de: (1) ausência de fundamentação e negativa de prestação jurisdicional, pois o TJRJ deixou de considerar a fundamental questão acerca da aplicação dos arts. 104, 107, 110, 421 e 422 do CC/02; (2) julgamento extra petita diante da inexistência de pedido de exibição de documentos; (3) pedido cominatório com finalidade de cumprimento de obrigação de fazer (entrega de documentos) decorrente de termo de compromisso celebrado entre as partes; e (4) condenação do Recorrido à obrigação de fazer decorrente de relação jurídica objetiva em termo de compromisso firmado entre as partes (e-STJ, fls. 413/436).
+(1) Negativa de prestação jurisdicional
+Consta dos autos que a apelação interposta por JOÃO MARCELO foi julgado pela Vigésima Quinta Câmara Cível do TJRJ aos 26/8/2021 em acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO AUTORAL DE QUE OS PROPRIETÁRIOS DA UNIDADE SUPERIOR DE SEU CONDOMÍNIO EXIBAM DOCUMENTOS QUE ATESTEM A SEGURANÇA DAS OBRAS REALIZADAS, TENDO EM VISTA A MODIFICAÇÃO DA PLANTA ORIGINAL E CONSTRUÇÃO DE ÁREAS MOLHADAS ANTERIORMENTE NÃO PREVISTAS, OCASIONANDO CONSTANTES INFILTRAÇÕES EM SEU APARTAMENTO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR.
+1. Apelo do autor que merece conhecimento parcial, visto que patente a inovação recursal no tocante ao pedido de declaração de descumprimento de obrigação de fazer acordada administrativamente, na medida em que o referido nunca foi requerido expressamente ao juízo a quo.
+2. Recurso que somente devolve a este juízo ad quem matéria referente à existência de cerceamento de defesa, à falta de apresentação de documentos comprobatórios da regularidade da obra perante a autoridade municipal competente, e ao pagamento de multa, pela existência de litigância de má-fé praticada pelo réu, restando as demais questões preclusas, na forma do art. 1.013, caput, do CPC.
+3. Preliminar de nulidade da sentença, em razão de cerceamento de defesa, que se rejeita, tendo em vista o apelante ter sido regularmente intimado a se manifestar em provas, quedando-se, contudo, inerte, inexistindo comprovante que demonstre a ilegalidade da certidão de intimação tácita constante dos autos.
+4. Pretensão autoral referente à exibição de documentos que comprovem a regularidade, perante o CREA/RJ e a Prefeitura do Rio de Janeiro, das obras realizadas na unidade 1806, que alterou a planta do imóvel, construindo banheiros em áreas originalmente secas, que não merece ser acolhida, em que pese o preenchimento dos requisitos do art. 397do CPC.
+5. Laudo Pericial juntado aos autos, pelo réu/apelado, produzido a pedido do autor, em acordo extrajudicial antes da propositura da presente demanda, que atesta não ser necessária, à época da obra na unidade 1806, a licença da SMU -Secretaria Municipal de Planejamento Urbano para as modificações realizadas no imóvel, visto que a norma técnica NBR 1680-2014 somente passou a vigorar em 2014, ou seja, após a conclusão da reforma.
+6. Parte autora/apelante que não obteve êxito em demonstrar que à época da realização das obras seriam necessárias outras medidas além daquelas adotadas pelo réu/apelado, tampouco demonstrado que o réu teria obrigação de estar na posse do documento que pretende ser exibido.
+7. Litigância e má-fé, pautada na alteração da verdade dos fatos, que não restou configurada, considerando que "a alteração da verdade dos fatos pela parte, a fim de que se configure litigância de má-fé, tem de ter sido intencional, com manifesto propósito de induzir o órgão jurisdicional em erro" e "Representação diversa da realidade de uma e de outra parte, por si só, não configuram litigância de má-fé".
+8. Recurso parcialmente conhecido e, nesta extensão, desprovido, majorando-se os honorários advocatícios fixados em seu desfavor para 11% sobre o valor da causa, na forma do art. 85, §11 do CPC (e-STJ, fls. 372/373).
+Contra esse acórdão JOÃO MARCELO opôs embargos de declaração (e-STJ, fls. 384/396) alegando omissão e obscuridade quanto à aplicação dos arts. 104, 107, 110, 421 e 422 do CC/02.
+Referidos embargos foram rejeitados, porém, sem enfrentamento dessas questões, mediante alegação genérica de que não haveria omissão, contradição ou obscuridade. Com efeito, o Tribunal estadual afirmou, apenas, a desnecessidade de referência a todos os normativos legais ou jurisprudenciais trazidos pela embargante, mormente porque todos os argumentos apresentados foram enfrentados (e-STJ, fls. 403/411).
+Admitindo que as circunstâncias destacadas nos embargos de declaração, ao menos sob a linha argumentativa adotada pelo embargante pode, em tese, interferir no resultado do julgamento, cumpria ao órgão julgador, esclarecer se elas seriam ou não suficientes para tanto, o que não ocorreu.
+Assim, recusando-se o TJRJ a se manifestar sobre as questões federais terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos ao TJRJ para que sane o vício de omissão relativa às questões levantadas:
+Fica prejudicada a analise das demais matérias.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada, CONHECER do agravo e DAR PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRJ para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
