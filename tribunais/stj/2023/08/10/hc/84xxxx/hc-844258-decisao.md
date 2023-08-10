@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jefferson Cavalcante de Lima e Jose Davi Espindola das Neves - denunciados como incursos no crime de tráfico de drogas - contra ato coator do Tribunal de Justiça de Alagoas (Habeas Corpus n. 0803191-86.2023.8.02.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração o trancamento da ação penal que tramita perante o Juízo de Direito da Vara do Único Ofício da comarca de Teotônio Vilela/AL, ao argumento de nulidade da busca pessoal que culminou com a apreensão de entorpecentes em poder dos acusados (Ação Penal n. 0700027-23.2022.8.02.0071).
+Da análise dos autos, extrai-se do auto de prisão em flagrante que guardas municipais avistaram os pacientes em suposta "atitude suspeita", ocasião em que decidiram abordá-los. Confiram-se, no que interessa, trechos do auto de prisão em flagrante (fl. 46 - grifo nosso):
+ ..  que estavam de plantão na data de hoje pela guarda municipal de Teotonio Vilela, em patrulhamento preventivo na região do conjunto Frei Damião, quando notaram indivíduos em atitude suspeita e resolveram abordar os suspeitos; que inicialmente encontraram 06 bombinhas de maconha com Jefferson Cavalcante de Lima; que nada havia num primeiro momento com José Davi das Neves; que ao indagarem os dois conduzidos, disseram que haveria mais uma pequena quantidade no interior da residência  ..
+Neste contexto, vê-se que razão assiste à impetração, inicialmente porque a busca pessoal foi realizada sem apresentação de elementos concretos, uma vez que esta Corte entende não ser suficiente a genérica descrição da "atitude suspeita", para fins de justificar a devassa pessoal.
+Evidenciado, portanto, que a revista pessoal foi realizada apenas com base em parâmetros subjetivos dos agentes municipais, que sequer possuem atribuição de polícia investigativa, sem a indicação de dado concreto sobre a existência de justa causa para autorizar a medida invasiva, vislumbra-se a ilicitude da prova, e das dela decorrentes, nos termos do art. 157, caput, e § 1º, do CPP (HC n. 791.754/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 17/3/2023).
+Em face do exposto, concedo liminarmente a ordem para, reconhe cendo a ilicitude da prova que ensejou a deflagração da persecução penal, trancar a Ação Penal n. 0700027-23.2022.8.02.0071, da Vara do Único Ofício da comarca de Teotônio Vilela/AL.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. NULIDADE. OCORRÊNCIA. ALEGAÇÃO GENÉRICA DE ATITUDE SUSPEITA. TRANCAMENTO DA AÇÃO PENAL QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
