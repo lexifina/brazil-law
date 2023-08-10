@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração manejado por MARCIA FRANZ AMARAL contra decisão de minha lavra, proferida às e-STJ fls. 634/639, em que não conheci do recurso especial ante a incidência da Súmula 83 do STJ.
+Em suas razões, os embargantes apontam vício de omissão e sustentam, em resumo, que a situação em debate nos autos amolda-se ao decidido pelo STF no julgamento do RE 593.068/SC, sob o rito da repercussão geral (Tema 163), segundo o qual "Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como terço de férias, serviços extraordinários, adicional noturno e adicional de insalubridade".
+Sem impugnação (certidões de e-STJ fls. 650 e 651).
+Passo a decidir.
+De fato, assiste razão aos embargantes e, em razão disso, exerço o juízo de retratação.
+Verifico que o Supremo Tribunal Federal, nos autos do RE 593.068/SC (Tema 163), reconheceu a existência de repercussão geral da questão jurídica relativa à incidência de contribuição previdenciária sobre parcelas remuneratórias de servidores público e, examinando definitivamente o mérito, fixou a seguinte tese jurídica: "Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como "terço de férias", "serviços extraordinários", "adicional noturno" e "adicional de insalubridade."
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem retornar ao Tribunal de origem para a realização do juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse mesmo sentido, vide: EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp 1.615.441/RS, rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/202; EDcl no AgInt no AREsp 1.382.576/RJ, rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/12/2020, DJe 18/12/2020; EDcl no AgRg no AgRg no REsp 1.400.500/SC, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020; AgInt nos EDcl no AREsp 1.731.342/MG, rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto:
+(i) ACOLHO os embargos de declaração para sanar omissão, com efeitos infringentes;
+(ii) RECONSIDERO a decisão de e-STJ fls. 627/629; e,
+(iii) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que proceda ao juízo de conformação com o precedente obrigatório formado no julgamento do RE 593.068/SC (Tema 163 do STF), nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
