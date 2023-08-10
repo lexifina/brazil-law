@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em favor de PAULO RODRIGO GOMES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Paraná.
+Depreende-se dos autos que o recorrente teve sua prisão em flagrante convertida em preventiva pela prática do crime descrito no art. 180, caput, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 76-78, com a seguinte ementa:
+HABEAS CORPUS - RECEPTAÇÃO - ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA PRISÃO PREVENTIVA DO PACIENTE - TESES DE QUE NÃO ESTÃO PREENCHIDOS OS REQUISITOS PARA A PRISÃO PREVENTIVA E DE QUEO DECRETO DE PRISÃO NÃO POSSUI FUNDAMENTAÇÃO IDÔNEA -IMPROCEDÊNCIA - PROVA DE EXISTÊNCIA DOS CRIMES E INDÍCIOS SUFICIENTES DE AUTORIA - DECISÃO QUE EXPÔS FATOS CONCRETOS A DEMONSTRAR O PREENCHIMENTO DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL E A NECESSIDADE DA PRISÃO CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA EM RAZÃO DOS INDICATIVOS DE REITERAÇÃO DELITUOSA PELO PACIENTE, QUE É REINCIDENTE. IMPOSSIBILIDADE, NO CASO EM EXAME, DE FIXAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS, EIS QUE SE MOSTRAM INEFICAZES. PEDIDO DE EXTENSÃO DOS EFEITOS DA DECISÃO QUE CONCEDEU A LIBERDADE PROVISÓRIA AOS CORRÉUS, NOS TERMOS DO ARTIGO 580 DO CÓDIGO DE PROCESSO PENAL - IMPROCEDÊNCIA - NECESSIDADE DA PRISÃO PREVENTIVA DO PACIENTE FUNDAMENTADA NA SUA REINCIDÊNCIA, O QUE NÃO SE VERIFICA COM RELAÇÃO AOS CORRÉUS - SITUAÇÕES FÁTICAS DISTINTAS. ALEGADAS CONDIÇÕES FAVORÁVEIS DO PACIENTE NÃO SUFICIENTES, POR SI SÓS, A GARANTIR A LIBERDADE PROVISÓRIA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+No presente recurso, sustenta, em síntese, a ausência dos requisitos do art. 312 do CPP. Alega a defesa, por fim, que o paciente se encontra na mesma situação fático-processual dos corréus.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva para que o recorrente responda ao processo em liberdade, ainda que mediante a aplicação de medidas cautelares diversas.
+O Ministério Público Federal, às fls. 101-110, manifestou-se nos termos da seguinte ementa:
+RECURSO ORDINÁRIO EM HABEASCORPUS. RECEPTAÇÃO. PRISÃO PREVENTIVA. NÃO PROVIMENTO.
+1. Comprovada a materialidade, havendo indícios de autoria e restando demonstrada, com elementos concretos, a necessidade da prisão preventiva para garantia da ordem pública, afasta-se a alegação de constrangimento ilegal.
+2. Parecer pelo não provimento do apelo.
+É o breve relatório.
+Decido.
+Sustenta o impetrante, em síntese, a ausência dos requisitos do art. 312 do CPP. Alega a defesa, por fim, que o paciente se encontra na mesma situação fático-processual dos corréus.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta da decisão que decretou a prisão preventiva: "Já quanto ao réu PAULO RODRIGO GOMES, a situação é diversa, posto que, o indiciado possui folha criminal extensa e encontra-se em cumprimento de pena. Assim, com fundamentos no artigo 313, inciso II, e artigo 310 do Código de Processo Penal, prevê a necessidade do encarceramento preventivo do indiciado, diante do fato de reiteração delitiva do mesmo." (fl. 388 - Apenso 1).
+Como se vê, consta da decisão do Juízo de 1º grau fundamento válido, evidenciada na reiteração delitiva.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Assim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+No tocante à extensão de efeitos da decisão que concedeu liberdade provisória aos corréus, o Tribunal de origem consignou (fl. 78):
+Ademais, não se constata irregularidade na decisão na parte em que concedeu liberdade provisória aos corréus e decretou a prisão preventiva do paciente.
+Isso porque, conforme exposto pela MM. Juíza a quo, diferentemente da situação dos corréus, o ora paciente é reincidente.
+Por isso, não se aplica ao caso o disposto no artigo 580 do Código de Processo Penal e a decisão que concedeu liberdade provisória aos corréus não pode ser estendida ao ora paciente, eis que as situações fáticas não são semelhantes.
+In casu, o Tribunal de origem ressaltou que a situação do recorrente difere da situação da corré. Nesse compasso, não se encontrando os corréus na mesma situação fático-processual, não é cabível o pedido de extensão, nos termos do art. 580 do CPP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. CONCLUSÃO PELO TRIBUNAL A QUO DE REITERAÇÃO DE PEDIDO ANTERIOR. PRETENDIDA EXTENSÃO DOS EFEITOS DE DECISÃO QUE REVOGOU A CUSTÓDIA CAUTELAR DE CORRÉUS. AUSÊNCIA DE SIMILITUDE DE SITUAÇÕES FÁTICO-PROCESSUAIS. INAPLICABILIDADE DO ART. 580 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria referente aos fundamentos da decretação da prisão preventiva do Agravante, não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. A Corte local destacou que a situação do Agravante difere daquela dos corréus. Assim, não se encontrando os corréus na mesma situação fático-processual, não cabe, a teor do Princípio da Isonomia e do art. 580 do Código de Processo Penal, deferir pedido de extensão de julgado benéfico obtido por um deles.
+3. Não se verifica o excesso de prazo sustentado pela Defesa, mormente em razão da complexidade da ação que conta com 19 réus e envolveu extensa investigação policial. Foi ressaltado, ainda, que já foi encerrada a instrução processual.
+4. Agravo regimental desprovido. (AgRg no HC n. 786.049/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
