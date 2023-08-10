@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIO CESAR FUSCO ANGELUCCI contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente teve o pedido de indulto indeferido pelo Juízo da execução por não preencher os requisitos do Decreto Presidencial n. 11.302/22.
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento, nos termos do acórdão juntado às fls. 11-14, com a seguinte ementa:
+AGRAVO EM EXECUÇÃO - EXTINÇÃO DA PENA - INDULTO - DECRETO PRESIDENCIAL N.º 11.302/2022 - ART. 5.º - CONDENAÇÕES ORIUNDAS DE PROCESSOS DISTINTOS - APLICABILIDADE - CONFIGURAÇÃO DE CONCURSO MATERIAL, AINDA QUE EM PROCESSOS DISTINTOS - ART. 11, PARÁGRAFO ÚNICO, DO DECRETO PRESIDENCIAL - CRIME IMPEDITIVO CUJA PENA NÃO FOI CUMPRIDA - RECURSO NÃO PROVIDO.
+No presente writ, a impetrante sustenta que faz jus ao indulto uma vez que preenche os requisitos do Decreto Presidencial n. 11.302/22.
+Ressalta, ainda, que "Os crimes sobre os quais cabem indulto não foram cometidos em concurso com nenhum dos crimes impeditivos do artigo 7º (artigo 11, parágrafo único)." (fl. 9).
+Requer, liminarmente e no mérito, que seja decretado o indulto da pena imposta ao paciente, com fundamento no artigo 5º do Decreto Presidencial nº 11.302/22.
+O pedido liminar foi indeferido.
+As informações foram prestadas às fls. 56-83.
+O Ministério Público Federal, às fls. 85-88, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO PRESIDENCIAL. NÃO PREENCHIMENTO DOS REQUISITOS. INTERPRETAÇÃO RESTRITIVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. Não é cabível habeas corpus substitutivo de recurso quando não constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não há como suplantar na estreita via do habeas corpus as conclusões das instâncias ordinárias, no sentido de que não foram preenchidos os requisitos da norma, sem que haja necessidade de revolvimento de matéria fático-probatória.
+3. Nos termos do parágrafo único do art. 11 do Decreto Presidencial n. 11.302/2022, "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º".
+4. "Consoante entendimento sedimentando nesta Corte Superior, o deferimento do indulto deve observar estritamente os critérios estabelecidos pela Presidência da República no respectivo ato de concessão, sendo vedada a interpretação ampliativa da norma, sob pena de usurpação da competência privativa disposta no art. 84, XII, da Constituição e, ainda, ofensa ao princípio da separação entre os poderes" (AgRg no REsp n. 1809749/RS, Rel. Min. Jorge Mus-si, Quinta Turma, DJe de 1º/7/2019).
+5. Parecer pelo não conhecimento do habeas corpus ou pela denegação da ordem.
+É o breve relatório.
+Decido.
+A impetrante sustenta que faz jus ao indulto uma vez que preenche os requisitos do Decreto Presidencial n. 11.302/22. Ressalta, ainda, que "Os crimes sobre os quais cabem indulto não foram cometidos em concurso com nenhum dos crimes impeditivos do artigo 7º (artigo 11, parágrafo único)." (fl. 9).
+No que se refere ao tema, consta do acórdão impugnado (fls. 12-13):
+Dispõe o art. 5.º do Decreto Presidencial n.º 11.302/2022:
+"Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal."
+Com efeito, o concurso material previsto no art. 69 do Código Penal se aplica não só aos crimes apurados no mesmo processo, mas também a processos distintos, tanto é que o art. 111, caput, da Lei n.º 7.210/1984, dispõe que "Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+Ao juízo das execuções penais compete somar as penas se reconhecer concurso material de crimes ou unificá-las reconhecendo, inclusive, continuidade delitiva.
+Destarte, o art. 5.º do Decreto Presidencial n.º 11.302/2022 se aplica inclusive para condenações oriundas de processos distintos.
+O art. 11, parágrafo único, do mesmo diploma normativo, dispõe que "Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º".
+Portanto, havendo concurso material de crimes e não tendo sido cumprida a pena relativa ao crime impeditivo, improcedente o indulto.
+Como bem delineado no acórdão, para a concessão do indulto é necessário o preenchimento dos requisitos previstos no Decreto e, no caso, concluiu que "Portanto, havendo concurso material de crimes e não tendo sido cumprida a pena relativa ao crime impeditivo, improcedente o indulto.".
+Por sua vez extrai-se do Decreto 11.302/2022, em seu art. 11, parágrafo único, que "Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º.".
+Dessa forma, considerando que o paciente ainda cumpre a pena prevista no art. 157, §2º, II do Código Penal (fl. 31), entendo que não foi preenchendo, assim, os requisitos necessários para a concessão da benesse em relação ao crime comum, posto que o apenado não cumpriu a pena do crime impeditivo.
+A propósito, confira:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. DECRETO 7.873/2012. COMUTAÇÃO. CONCURSO DE CRIMES COMUM E HEDIONDO. POSSIBILIDADE. ART. 76 DO CP. CUMPRIMENTO INTEGRAL DA PENA RELATIVA AO DELITO HEDIONDO. DESNECESSIDADE.
+1. O artigo 7º do Decreto 7.873/2012 dispõe que, havendo concurso entre crimes comuns e hediondos, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo, enquanto a pessoa condenada não cumprir, no mínimo, dois terços da pena, correspondente ao crime impeditivo dos benefícios.
+2. A disposição do art. 76 do CP, referente à ordem de cumprimento das penas, não se incompatibiliza com a regramento do Decreto, principalmente porque a finalidade do instituto é beneficiar o apenado, servindo, ainda, como instrumento de Política Criminal.
+3. Na hipótese em apreço, o recorrido cumpriu a fração de dois terços da pena pelo crime impeditivo, além de um terço da reprimenda do delito não impeditivo, preenchendo, portanto, os requisitos estabelecidos no Decreto acima mencionado.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1486461/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/02/2015, DJe 25/02/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMUTAÇÃO DE PENAS. CONCURSO ENTRE CRIMES HEDIONDOS E CRIMES COMUNS. NECESSIDADE DE CUMPRIMENTO DE 2/3 DA PENA REFERENTE AOS DELITOS HEDIONDOS. AUSÊNCIA DE OFENSA AO ART. 76 DO CP. RECURSO NÃO PROVIDO.
+1. O art. 7º, parágrafo único, de ambos os Decretos n. 7.420/2010 e 7.648/2011, na hipótese de concurso de crimes, dispõe que o apenado precisa cumprir, no mínimo, 2/3 da pena do crime de natureza hedionda ou outro a ele equiparado, considerado impeditivo, para que faça jus à declaração das benesses instituídas no diploma legal em relação ao crime comum.
+2. A concessão do benefício não pode ser obstada se preenchidos os requisitos legais estabelecidos no decreto presidencial de regência e é incabível a exigência de cumprimento integral das penas relacionadas aos crimes hediondos para a comutação ou o induto das penas do crime comum, sob pena de violação do princípio constitucional da legalidade.
+3. Agravo regimental não provido. (AgRg no REsp 1387954/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. OMUTAÇÃO DE PENAS. DECRETO N. 8.380/2014. APENADO REINCIDENTE. REQUISITO OBJETIVO. CONCURSO ENTRE CRIME HEDIONDO E CRIME COMUM. CUMPRIMENTO DE 2/3 DA PENA IMPOSTA PELO CRIME IMPEDITIVO. REQUISITO OBJETIVO NÃO PREENCHIDO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente, o que não é o caso dos autos.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que é possível a comutação da pena nos casos de concurso entre crimes comum e hediondo, quando cumpridos 2/3 da pena referente ao crime hediondo mais 1/4 (não reincidente) ou 1/3 (reincidente) da pena referente ao delito comum. Inteligência do art. 8º, parágrafo único, do Decreto n. 8.380/2014.
+3. In casu, conforme folha de antecedentes acostada aos autos (fl.41), o paciente não adimpliu o requisito objetivo, tendo em vista que não cumpriu 1/3 da pena relativa ao crime comum. 4. Habeas corpus não conhecido. (HC 366.164/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/09/2016, DJe 29/09/2016)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
