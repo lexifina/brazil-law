@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo apresentado pelo BANCO ABN AMRO REAL S.A. para impugnar decisão que não admitiu o recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 139):
+CADERNETA DE POUPANÇA. Ação de cobrança de diferença de correção monetária referente ao Plano Verão (Janeiro/89). 1. Ilegitimidade de parte do Banco réu. Não caracterização. "Eventuais alterações na política econômica, decorrentes de planos governamentais, não afastam, por si, a legitimidade "ad causam" das partes envolvidas em contrato de direito privado, inclusive as instituições financeiras que atuam como agentes captadores em torno de cadernetas de poupança". 2. Prescrição dos juros moratórios ou do direito à correção em si considerado. Inocorrência. Inaplicabilidade do disposto nos artigos 178, § 10, III, do Código Civil/1916 ou 206, § 3º, III, do Código Civil/2002. Prazo prescricional vintenário do artigo 177, do antigo Código Civil. Reconhecimento. 3. Plano Verão. Correção monetária. Índices. Primeira quinzena de janeiro de 1989. Inaplicabilidade da Medida Provisória nº 32, de 15.01.1989, convertida na Lei 7.730/89, que altera indexador. Aplicação da OTN atualizada pelo IPC de 42,72% (Resolução n.º 1.338/87-BACEN c/c o artigo 16, do Decreto-lei n º 2.335/87) e não das LFT (Letras Financeiras do Tesouro). 4. Juros. Compensatórios e moratórios (após citação). Cumulação. Admissibilidade, sem que represente bis in eadem. Existência de causas diversas para a ocorrência de um e de outro. Recurso improvido. com observação.
+Os embargos de declaração foram rejeitados, com aplicação de multa (e-STJ, fl. 154-158).
+Nas razões do recurso especial (e-STJ, fls. 161-177), o agravante defendeu o afastamento da sanção pecuniária aplicada nos embargos, com base na Súmula n. 98/STJ.
+Apontou ofensa aos arts. 884 do CC/2002, 6º da LICC e 26 do CDC, sustentando enriquecimento sem causa da parte adversa, bem como dissídio jurisprudencial em torno do art. 178, § 10, III, do CC/1916, pois os juros remuneratórios nas ações condenatórias para pagamento de expurgos inflacionários estariam sujeitos ao praz o prescricional de 5 (cinco) anos.
+Pediu o provimento do recurso.
+Contrarrazões às fls. 219-223 (e-STJ).
+Brevemente relatado, decido.
+No especial, o banco insurgente alega prescrição e, por via de consequência, enriquecimento sem causa da parte recorrida, sustentando que seria aplicável o prazo de cinco anos para cobrança dos juros remuneratórios aplicados à diferença de correção monetária incidente sobre o saldo de caderneta de poupança.
+Quanto ao tema, consta do acórdão os seguintes fundamentos (e-STJ, fl. 141-142):
+Noutra vertente, não tem guarida a tese da prescrição qüinqüenal, tanto da correção monetária, quanto dos juros contratuais ou remuneratórios, esteja o entendimento fulcrado no disposto no artigo 178, § 10, III, do Código Civil de 1916 ou mesmo no art. 206, § 3º, III, do Código Civil/2002.
+Isso porque, os dispositivos invocados dizem respeito a juros e outras prestações acessórias, enquanto que o objeto da presente ação se prende à correção monetária e aos juros capitalizados ao principal, in casu, o depósito em conta poupança, itens estes que, sem dúvida, com ele se confundem, não possuindo natureza acessória.
+No que se refere à alegada prescrição quinquenal dos juros remuneratórios, constata-se que o acórdão estadual está em harmonia com o entendimento desta Corte Superior no sentido de que a correção monetária e os juros remuneratórios não são prestações acessórias, estando sujeitos ao prazo prescricional das obrigações pessoais, pois agregam-se ao principal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do CPC/73.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF.
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não
+preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ. 3.1. Ademais, não foi alegada negativa de prestação jurisdicional, de forma específica, sobre os tópicos não prequestionados, o que impede o conhecimento de eventual omissão.
+4. Nos termos da jurisprudência do STJ, a correção monetária, incidente sobre a restituição de parcelas pagas a plano de previdência complementar, deve ser feita pelos índices que melhor reflitam a desvalorização da moeda (Súmula 289/STJ), ainda que outro tenha sido avençado, incluídos os expurgos inflacionários.
+5. O prazo prescricional da correção monetária e dos juros moratórios é o mesmo da obrigação principal.
+6. Agravo interno desprovido.
+(AgInt no AREsp N. 982.412/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe 1/10/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PRESCRIÇÃO DOS JUROS. PRESCRIÇÃO VINTENÁRIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Embargos de declaração recebidos como agravo regimental em razão do caráter infringente da peça processual. Aplicação dos princípios da fungibilidade recursal e da economia processual.
+2. A presente controvérsia não se enquadra naquelas hipóteses em que o sobrestamento se impõe, pois versa apenas sobre questão processual, qual seja a prescrição dos juros nas obrigações oriundas do pagamento de expurgos inflacionários relativos à edição de planos econômicos, fora, portanto, das hipóteses de suspensão de que tratam os Recursos Extraordinários n. 591.797/SP e 626.307/SP, de relatoria do eminente Ministro Dias Toffoli.
+3. Esta Corte Superior adota a incidência da prescrição vintenária para buscar-se a diferença remuneratória dos saldos de poupança atingidos pelos expurgos inflacionários decorrentes do advento de planos econômicos, bem como para a aferição dos juros remuneratórios, não havendo razão, portanto, para alterar-se a decisão primeva. Incidência da Súmula 83/STJ.
+4. Agravo regimental não provido.
+(EDcl no Ag 1419087/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/10/2015, DJe 19/11/2015)
+Incide, portanto, a Súmula n. 83STJ.
+Anote-se, por fim, ser inviável o conhecimento do recurso especial com base na alegação de violação à súmula da jurisprudência desta Corte pelo fato desta não se enquadrar no conceito de lei federal (Súmula 518/STJ), o que impede o exame da insurgência em torno da multa aplicada no julgamento dos embargos declaratórios.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. PRESCRIÇÃO DOS JUROS. SÚMULA 83/STJ. MULTA POR LIGÂNCIA DE MÁ-FÉ. VIOLAÇÃO À SÚMULA. DESCABIMENTO. ENUNCIADO N. 518/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃ O, NEGAR-LHE PROVIMENTO.
