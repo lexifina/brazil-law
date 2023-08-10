@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JANDIR ROCHA PEREIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Rondônia, no julgamento do HC n. 0801738-98.2023.8.22.0000.
+Segundo se infere, o paciente foi preso preventivamente pela suposta prática do crime previsto no art. 33, caput, c/c art. 40, V e art. 35, c/c art. 40, V, todos da Lei 11.343/06 e no art. 1º da Lei 9613/98.
+Irresignada, a defesa impetrou habeas corpus postulando a revogação da custódia cautelar, por ausência de fundamentação idônea e excesso de prazo da prisão preventiva. A ordem foi denegada pelo TJRO.
+Nesta Corte, o impetrante alega, em suma, a nulidade do julgamento do writ deduzido na origem em benefício do paciente, por violação ao princípio do contraditório e da ampla defesa, uma vez que não foi observado o pedido expresso para julgamento presencial do feito e realização de sustentação oral pelo advogado.
+No mais, sustenta que a decisão que decretou a custódia cautelar é genérica, desprovida de fundamentação idônea, e o paciente encontra-se há 529 dias em custódia cautelar.
+Requer assim a anulação do acórdão impugnado a fim de que seja realizado novo julgamento do habeas corpus, com a prévia manifestação oral da defesa, ou a revogação da prisão preventiva, com a aplicação, ou não, de medida cautelar alternativa.
+Ouvido, o MPF opinou pela concessão da ordem, "para anular o julgamento do Habeas Corpus nº 0801738-98.2023.8.22.0000, a fim deque outro seja realizado com a participação da defesa do paciente, a fim de que possa proferir a sustentação oral" (e-STJ, fls. 366-368).
+É o breve relato.
+Decido.
+O Superior Tribunal de Justiça tem entendimento firme de que caracteriza cerceamento de defesa o não atendimento de pedido expresso do advogado constituído para a realização de sustentação oral.
+No caso, observa-se que a defesa requereu expressamente a sustentação oral na inicial do habeas corpus impetrado na origem (e-STJ, fls. 92-93), pedido reiterado às fls. 235-236 e às fls. 242-243, antes da sessão de julgamento.
+Logo, é de rigor a declaração de invalidade da sessão de julgamento efetivada virtualmente sem o atendimento do pedido expresso da defesa de sustentar oralmente suas razões.
+A seguir, os julgados que respaldam esse entendimento:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE PEDIDO TEMPESTIVO PARA REALIZAÇÃO DE SUSTENTAÇÃO ORAL EM SESSÃO DE JULGAMENTO PRESENCIAL OU TELEPRESENCIAL. OPOSIÇÃO EXPRESSA À REALIZAÇÃO DO JULGAMENTO DO FEITO EM SESSÃO VIRTUAL. NULIDADE. CERCEAMENTO DE DEFESA. ANULAÇÃO DA SESSÃO DE JULGAMENTO. ORDEM CONCEDIDA.
+1. A realização do julgamento virtual, mesmo após a oposição tempestiva da defesa, com a manifestação expressa de interesse na realização de sustentação oral presencial ou telepresencial, ocasiona prejuízo ao direito de defesa da parte. Precedente: HC 583.604/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/6/2020.
+2. Exceção feita a casos de urgência passíveis de perecimento de direito - o que não era o caso em tela, em que se buscava o reconhecimento de excesso de prazo e ausência de fundamentação da prisão -, havendo oposição formal e tempestiva da parte à realização do julgamento do feito em sessão virtual, deverá ele ser retirado de pauta, privilegiando-se a escolha da parte pelo julgamento presencial (ou telepresencial), no qual lhe possa ser facultada a realização de sustentação oral.
+3. Ordem concedida para anular o julgamento virtual do acórdão recorrido, realizando-se outro, na modalidade presencial ou telepresencial, com a devida intimação de seu patrono constituído, a fim de, caso queira, sustentar oralmente perante o Colegiado local.
+(HC 603.259/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+HABEAS CORPUS. NULIDADE DO JULGAMENTO DA APELAÇÃO. OPOSIÇÃO AO JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL PRESENCIAL NÃO PERMITIDA. PEDIDO TEMPESTIVO DE ADIAMENTO DA SESSÃO DE JULGAMENTO. ATOS NORMATIVOS REGULANDO A SUSTENTAÇÃO ORAL DURANTE A PANDEMIA. VIABILIDADE DE AGUARDAR JULGAMENTO PRESENCIAL QUANDO POSSÍVEL. VIOLAÇÃO À AMPLA DEFESA. HABEAS CORPUS CONCEDIDO.
+1. Prevendo a norma regulamentadora do tribunal local que fica facultado sustentar oralmente de forma presencial e/ou se opor, por outra razão, ao julgamento virtual, mediante petição devidamente justificada (Resolução 23/2020- TRF 4ª Região), revela a Corte local que a excepcionalidade dos julgamentos em tempos de pandemia fica condicionada à concordância das partes.
+2. Inexistindo na decisão atacada arguição de questão de perecimento de direito passível de concessão de ofício, nada justifica negar a opção da parte pelo julgamento no formato legal, com participação presencial para o ato - ainda mais diante do exíguo prazo para insurgência ao Colegiado a quo contra o indeferimento do pedido, haja vista que a intimação ocorreu um dia antes da sessão de julgamento.
+2. Habeas corpus concedido para anular o julgamento do recurso de apelação do paciente no Processo n. 5049238-95.2017.4.04.7100, sendo oportunizado julgamento e eventual sustentação oral presencial.
+(HC 583.604/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020)
+Ante o exposto, concedo a ordem para anular o julgamento do Habeas Corpus n. 0801738-98.2023.8.22.0000, a fim de que seja designada nova data para apreciação do feito, possibilitando à defesa a sustentação oral de suas razões.
+Fica prejudicada a análise das demais alegações.
+Publique-se. Intimem-se.
