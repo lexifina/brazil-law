@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal Regional Federal da 5ª Região.
+Consta dos autos que a defesa do paciente buscou na origem a "obtenção de salvo-conduto para fazer cessar suposto e eventual constrangimento ilegal por parte da Polícia Federal, Polícia Civil e Polícia Militar, órgãos competentes para eventuais notícias-crimes, bem como que se abstenham de atentar contra a liberdade de locomoção do paciente, proceder a prisão em flagrante, e, ainda, que sejam impedidas de apreender/destruir as plantas que o paciente vier a se utilizar para fins exclusivamente terapêuticos (cultivo, uso, porte, transporte e produção artesanal de extratos e flores da Cannabis Sativa)" (fl. 79), sendo a ordem denegada monocraticamente.
+No presente writ, aduz a defesa, em síntese, excesso de prazo para o julgamento do recurso em sentido estrito interposto contra a decisão de 1º grau (fls. 79-90), a qual denegou a ordem pleiteada.
+Alega que, diante da inércia da Corte de origem, necessário conceder salvo-conduto em favor do paciente para que possa cultivar, em sua residência, a substância ativa da cannabis sativa para fins terapêuticos, visando obter extrato e óleo, com o reconhecimento da atipicidade da conduta, requerendo, inclusive liminarmente, a concessão de salvo-conduto para os fins apontados.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Nas informações prestadas pelo TRF da 5ª Região, em 30/6/2023, noticiou-se que "no Recurso em Sentido Estrito nº 0800181-64.2022.4.05.8101, foi negado provimento ao recurso em sentido estrito, à unanimidade, pela Egrégia Primeira Turma do Tribunal Regional Federal da 5ª Região. Desta decisão, foi interposto Recurso Ordinário, pela defesa do paciente, o qual foi admitido e remetido ao STJ por meio eletrônico, restando integralmente disponível para exame nessa Corte Superior de Justiça" (fl. 443).
+Portanto, a alegação de excesso de prazo encontra-se prejudicada, destacando-se, ainda, que o salvo-conduto aqui requerido será melhor analisado quando do exame do RHC 183.285/CE, conexo a este, recebido nesta Corte em 30/6/2023.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
