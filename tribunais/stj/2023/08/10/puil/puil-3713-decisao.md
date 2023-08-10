@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado pelo MUNICÍPIO DE PALHOÇA, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da 1ª Turma Recursal dos Juizados Especiais do TJSC assim ementado:
+RECURSO INOMINADO. ADMINISTRATIVO. TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISSQN. INSURGÊNCIA CONTRA A INCIDÊNCIA DA EXAÇÃO SOBRE OS MATERIAIS EMPREGADOS NA OBRA.
+SENTENÇA DE PROCEDÊNCIA CALCADO EM PREVISÃO DA LC N. 116/03, E NA RECEPÇÃO DO ART. 9º, § 2º, DO DECRETO-LEI 406/68.
+IRRESIGNAÇÃO AVIADA PELA PARTE RÉ. PLEITO DE REFORMA.
+DEDUÇÃO DOS GASTOS COM MATERIAIS EMPREGADOS NA CONSTRUÇÃO CIVIL NA BASE DE CÁLCULO DO ISSQN. RECEPÇÃO DO ART. 9º, § 2º, B, DO DECRETO-LEI 406/1968 PELA CF/88 PRECEDENTES. RE 603497 RG, RELATOR (A): MIN. ELLEN GRACIE, JULGADO EM 04/02/2010, REPERCUSSÃO GERAL - MÉRITO DJE-081 DIVULG 06-05-2010 PUBLIC 07-05-2010 EMENT VOL-02400-08 PP-01639. REMESSA NECESSÁRIA CÍVEL N. 5015170-81.2021.8.24.0054, DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, REL. DIOGO PÍTSICA, QUARTA CÂMARA DE DIREITO PÚBLICO, J. 09-06.2022; APELAÇÃO N. 0307530-71.2018.8.24.0045, DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, REL. VERA LÚCIA FERREIRA COPETTI, QUARTA CÂMARA DE DIREITO PÚBLICO, J. 25-11-2021.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS. EXEGESE DO ART. 46, DA LEI 9.099/95. RECURSO CONHECIDO E DESPROVIDO.
+Nas suas razões, o requerente, apontando contrariedade à Súmula 167 do STJ, sustenta, em resumo, que recente aresto desta Corte Superior (REsp 1.916.376/RS) restabeleceu o entendimento pela impossibilidade de deduzir os materiais empregados da base de cálculo do ISS incidente sobre a prestação do serviço de concretagem, salvo os produzidos pelo prestador fora do local da obra e destacadamente comercializados com a incidência do ICMS.
+A parte requerida apresentou impugnação.
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º, e 19, caput, da Lei n.12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º , a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1 o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante o previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; (iii) quando as Turmas de Uniformização contrariar súmula desta Corte.
+O presente caso, todavia, não se enquadra em nenhuma das hipóteses acima identificadas.
+Conforme relatado, a irresignação da municipalidade requerente se volta contra a dedução da base de cálculo do ISS referente aos materiais empregados para a prestação do serviço de concretagem, embasando o presente incidente em suposta afronta à Súmula 167 do STJ, assim redigida: "O fornecimento de concreto, por empreitada, para construção civil, preparado no trajeto até a obra em betoneiras acopladas a caminhões, é prestação de serviço, sujeitando-se apenas à incidência do ISS."
+Ocorre que esse verbete de súmula, embora mencionado como reforço argumentativo em alguns julgados que versaram acerca da questão controvertida nesse processo, não cuida propriamente da base de cálculo do ISS, mas sim da definição do imposto incidente sobre a prestação do serviço de concretagem, consolidando o entendimento de que essa atividade é tributável pelo ISS e não pelo ICMS.
+A propósito, importa salientar que nenhum dos três precedentes que deram ensejo à mencionada súmula trataram do tema relativo à base de cálculo.
+Cons tata-se, assim, que o enunciado de súmula apontado pelo ente público requerente não guarda pertinência temática a amparar o presente incidente.
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
