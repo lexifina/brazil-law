@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDREIA ALVES TEIXEIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 1128/1139, in verbis:
+O Tribunal de Justiça do Estado do Paraná, por sua 5ª Câmara Criminal, deu parcial provimento aos recursos de apelação interpostos pelas defesas, redimensionando a pena de ANDREIA ALVES TEIXIERA e JEFERSON JESUS DE ANDRADE para 10 (dez) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além da multa, cada um deles, pela prática do delito tipificado no art. 33, caput, c/c art. 40, VI, ambos da Lei nº 11.343/06 (tráfico ilícito de entorpecentes), porquanto, em 06/03/2021, "de forma livre, consciente e voluntária, cientes da ilicitude e reprovabilidade de suas condutas, com unidade de desígnio, um aderindo a conduta do outro e em comunhão de esforços e conjunção de vontades com o adolescente, K. C. da S. CHAVES DA SILVA, de 16 anos de idade, tinham em depósito e guardavam, para fins de comércio, aproximadamente 0,270 (duzentas e setenta gramas) quilogramas de "maconha", Cannabis sativa l. provida de tetrahidrocanabinol, drogas estas capazes de causar dependência física e/ou psíquica" (e-STJ fls. 134/135), tendo sido rejeitados os embargos de declaração opostos.
+Irresignada, a defesa de ANDREIA ALVES TEIXEIRA interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, pleiteando a absolvição da recorrente por ausência de provas para justificar a condenação.
+O recurso especial foi inadmitido pela aplicação da Súmula 7/STJ e ausência de prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente (e-STJ fls. 1000/1002).
+Daí que ANDREIA ALVES TEIXEIRA interpõe o presente agravo em recurso especial alegando que "conforme se observa do recurso especial interposto, fora colacionada a cópia integral da decisão proferida, citando, inclusive a fonte e link de acesso ao mesmo, com todas as informações necessárias" (e-STJ fl. 1015) e que "Não se trata de necessidade de revolvimento fático probatório mas sim mera reanálise do melhor direito a ser aplicado ao caso, sendo que, evidente demonstrado desde as alegações finais, recurso de apelação e recurso especial que no tocante a recorrente não há qualquer elemento seguro que indique que a mesma, de forma simples e objetiva, estava em outra situação que não meramente na residência" (e-STJ fl. 1017).
+ ..
+Ao final, o Parquet opinou pelo desprovimento do recurso e pela concessão da ordem de ofício para redução da pena-base.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial. Ao fazê-lo, no entanto, verifico que o apelo nobre não comporta conhecimento.
+Com efeito, destacou a Corte originária que a autoria ficou devidamente comprovada nos autos, haja vista que (e-STJ fls. 882/884):
+No mesmo sentido, a autoria de Jeferson e Andreia é inafastável.
+Os policiais militares contaram que iniciaram monitoramento após receberem denúncia de que em um determinado endereço era realizado o tráfico ilícito de droga.
+Durante a diligência, verificaram que um indivíduo em atitude duvidosa compareceu rapidamente ao local. Ao abordá-lo, identificaram-no como Júnior Ribeiro dos Santos e descobriram em sua posse uma bucha de maconha. Na ocasião, o flagranteado confessou às autoridades ter comprado o entorpecente no imóvel suspeito.
+Por isso, a equipe se dirigiu à residência, habitada por Jeferson Jesus de Andrade, sua companheira Andreia Alves Teixeira e os filhos menores desta. Após autorização de busca, apreenderam no quarto do casal cerca de 270 g (duzentos e setenta) gramas de maconha já fracionada e aproximadamente R$ 4.000,00 (quatro mil) reais em espécie (movs. 140.1 e 140.2 - AP).
+Questionados judicialmente, os denunciados negaram a prática da infração, destacando que não tinham conhecimento da presença do tóxico no recinto.
+Ambos, ainda, sustentaram que K. C. da S., adolescente filho de Andreia, era usuário de maconha, sugerindo ser ele o provável detentor da substância confiscada (movs. 169.2 e 169.3 - AP).
+A versão dos inculpados, contudo, não se sustenta.
+Isso devido à Cannabis sativa estar guardada no cômodo no qual os dois apelantes dormiam, não sendo crível imaginar que sequer sabiam de sua existência, inclusive porque o material apresenta um cheiro forte característico.
+Além disso, ao contrário do que os recorrentes aduzem, os dois estavam em casa quando o dependente químico se dirigiu ao local para adquirir o narcótico, tendo a câmera de monitoramento flagrado o ato.
+Assim, é inverossímil assumir que os condenados não tenham, ao menos, acompanhado a distribuição, tornando ainda mais evidente a ciência de ambos acerca do estupefaciente armazenado.
+Vale registrar que o toxicômano foi flagrado com uma porção de maconha, mesma droga encontrada na habitação dos sentenciados. Inclusive, ele destacou já ter comprado o produto de Jeferson em oportunidades anteriores, confirmando a denúncia anônima sobre a intensa circulação de pessoas na região e o relato de K. C. da S. sobre auxiliar o padrasto no narcotráfico (movs. 140.3 e 169.1 - AP).
+Mesmo que Andreia não tenha sido citada pelo usuário ou por seu filho, resta inquestionável sua participação da empreitada, especialmente diante da guarda da droga em seu quarto e da localização de elevada quantidade de dinheiro em espécie, cuja origem lícita não restou comprovada.
+Sabe-se que o injusto do art. 33, caput, da Lei nº 11.343/06 é crime de ação múltipla e conteúdo variado, sendo desnecessária a comprovação da efetiva mercancia.
+Por conseguinte, como não há dúvidas do envolvimento da apelante no depósito da maconha, resta configurada sua incorrência no injusto.
+Nesse sentido:
+ ..
+Ademais, a tentativa de imputar ao adolescente a posse do narcótico é inócua, pois, como visto, os indícios atribuem aos recorrentes a propriedade do entorpecente.
+Aliás, esse tipo de situação é extremamente comum, pois se tem o falso imaginário de que sujeitos menores de idade não são responsabilizados por seus atos.
+Portanto, repito, a notícia dando conta do repasse oneroso de entorpecente no determinado logradouro, somada à quantidade de droga encontrada, em ponto acessível e de fácil localização, e ao numerário em espécie não deixam dúvidas acerca da ocorrência do injusto.
+Destarte, é incontestável o envolvimento de Andreia Alves Teixeira e Jeferson Jesus de Andrade nas sanções do art. 33, caput, da Lei nº 11.343/06, não havendo se falar em absolvição ou desclassificação da conduta perpetrada. (Grifei.)
+Dessarte, delineada pelo Tribunal de origem, soberano no exame das provas, a prática do crime de tráfico de drogas pela agravante, tem-se que a desconstituição da condenação reclamaria imprescindível revolvimento do acervo fático-probatório, o que não se coaduna com a via eleita, conforme prescreve a Súmula n. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. OPERAÇÃO SUÇUARANA. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. SÚMULA 7/STJ. DOSIMETRIA. BIS IN IDEM. NÃO OCORRÊNCIA. DELITOS DIVERSOS. RECURSO DE APELAÇÃO. EFEITO DEVOLUTIVO AMPLO. AGRAVOS IMPROVIDOS.
+1. A revisão do acórdão recorrido, no sentido da suficiência de provas para a condenação, bem como da presença de vínculo associativo entre os acusados, demandaria profunda incursão probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte.
+(..)
+4. Agravos regimentais improvidos.
+(AgRg no REsp 1874923/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020.)
+No entanto, consoante bem pontuou o Ministério Público Federal, a quantidade de droga apreendida - 270g (duzentos e setenta gramas) de maconha -, conquanto relevante, não é expressiva o suficiente para exasperar a pena-base com fundamento no art. 42 da Lei n. 11.343/2006, de maneira que, mantidos os demais termos do apenamento, fica a reprimenda da recorrente agora estabelecida em 8 anos, 6 meses e 2 dias de reclusão, além de 850 dias-multa.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mas concedo a ordem, de ofício, para redimensionar a pena da recorrente, nos termos acima delineados.
+Publique-se. Intimem-se.
