@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a" e "c" da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMBARGOS À MONITÓRIA ACOLHIDOS. CONHECIMENTO PARCIAL DO RECURSO. JUNTADA DE DOCUMENTOS EM SEDE RECURSAL. DESCABIDO. INOVAÇÃO RECURSAL. SENTENÇA DE IMPROCEDÊNCIA. CONTRATO DE ABERTURA DE CRÉDITO COLACIONADO NOS AUTOS. APRESENTAÇÃO NO CURSO DA AÇÃO APÓS VERIFICAÇÃO DE EQUÍVOCO NA JUNTADA ANTERIOR. POSSIBILIDADE. MANIFESTAÇÃO POSTERIOR DA PARTE CONTRÁRIA. JULGAMENTO SEM MÉRITO. DESCABIDO. APRESENTAÇÃO DOS DOCUMENTOS ESSENCIAIS AO RECEBIMENTO DO FEITO QUE NÃO INDUZ EM NECESSARIAMENTE AO ACOLHIMENTO DO PLEITO AUTORAL. APRECIAÇÃO DE MÉRITO. VERIFICAÇÃO DE FALTA DE CLAREZA NO DEMONSTRATIVO DE DÉBITO SE AUSÊNCIA DEP ROVAS QUANTO À CADA CRÉDITO/EMPRÉSTIMO E DÉBITO DEBATIDOS. PARTE AUTORA QUE DISPENSOU A APRESENTAÇÃO DE OUTRAS PROVAS. IMPROCEDÊNCIA MANTIDA. HONORÁRIOS RECURSAIS. CABIMENTO. REVISÃO DO PERCENTUAL ARBITRADO. MINORAÇÃO REQUERIDA. PARCIALMENTE ADIMITIDA. INCIDÊNCIA DA MAJORAÇÃO RECURSAL. RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO" (fl. 291, e-STJ).
+Os embargos de declaração opostos foram rejeitados, aplicando-se multa (fls. 359/369, e-STJ).
+Nas razões do recurso especial (fls. 371/382 e-STJ), a recorrente alegou, além de divergência jurisprudencial, violação do art. 700, § 5º, e 1.026 do Código de Processo Civil.
+Afirmou não foi observado o rito legal da ação monitória, pois, havendo dúvida quanto à idoneidade da prova documental apresentada pelo autor/recorrente, o juiz deveria ter intimado a parte autora para, querendo, emendar a petição inicial, adaptando-a ao procedimento comum, o que não ocorreu.
+Ao final, requereu o afastamento da multa aplicada nos embargos de declaração.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem manteve a sentença que julgou improcedente o pedido inicial, conforme se extrai do seguinte trecho:
+"(..)
+Com efeito, "a ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo" (art.700 do CPC).
+Ressalte-se que, para recebimento do feito monitório, de fato, é suficiente a apresentação de prova escrita sem eficácia de título executivo, aliada à pretensão de recebimento de soma em dinheiro, entrega de coisa fungível ou infungível ou de determinado bem móvel ou imóvel.
+Em hipóteses como a que ora se examina, o entendimento jurisprudencial é no sentido de admitir o ajuizamento do procedimento monitório fundado em contrato de abertura de crédito, desde que devidamente acompanhado do demonstrativo do débito.
+Este é o enunciado da súmula n. 247 do Superior Tribunal de Justiça: "O contrato de abertura de crédito em conta corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória".
+Contudo, faz- se imperioso distinguir que os documentos retro mencionados são essenciais ao recebimento do petitório inicial, o que não se confunde com a procedência derradeira do pleito exordial.
+É relevante considerar, inclusive, que a oposição dos embargos à monitória culmina na ampliação do debate, cabendo ao magistrado decidir com base nas provas e argumentos indicados pelos litigantes, nos limites das regras processuais (devido processo legal), que inclui as regras de distribuição do ônus probatório.
+Analisando o caderno processual em comento, vejo que foi colacionado contrato de abertura de crédito (fls.185/186) firmado entre as partes no ano de 2005, bem como extrato de débito, imputando a autora/apelante à parte contrária dívidas oriundas de empréstimos firmados em 2014, que alega não quitados.
+Como dito, embora para impulso inicial do feito seja suficiente o contrato de abertura de crédito e a planilha de evolução do débito, a presença de tais documentos não enseja, necessariamente, a procedência do pleito exordial, ou seja, uma vez que atendidos os requisitos legais ao recebimento do petitório, não há que se falar em "extinção sem resolução de mérito", como pretende a recorrente; ao invés disso, a apreciação meritória poderá ocorrer pela procedência ou não dos pedidos.
+In casu, a análise o arcabouço probatório não foi suficiente para respaldar as alegações da demandante, impondo a improcedência do pedido inicial.
+(..) Também não merece prosperar pedido de modificação da sentença, sob argumento de necessidade intimação para emenda àinicial, quando evidenciado que foi oportunizada à parte manifestações no curso do feito, inclusive, quanto às provas que pretendia produzir, após a impugnação da parte contrária dos documentos até então apresentados" (fls. 302/305, e-STJ - grifou-se).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor da Súmula nº 7/STJ.
+Por fim, com razão a recorrente, pois, na hipótese dos autos, é inviável a imposição da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento pacífico no sentido de ser cabível a multa em apreço quando presente o intuito manifestamente procrastinatório na oposição de declaratórios.
+Contudo, se demonstrado que a parte buscava o prequestionamento da matéria federal, os embargos de declaração não podem ser considerados protelatórios, nos termos da Súmula nº 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório."
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ARREMATAÇÃO DE IMÓVEL. NULIDADE DA SEGUNDA PRAÇA. TESE REJEITADA. PREÇO VIL. INEXISTENTE. REMIÇÃO. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. NÃO OCORRÊNCIA. MULTA AFASTADA.
+(..)
+5. Afasta-se a multa do 1.026, §2º, do CPC/15, quando não se caracteriza o intento protelatório na oposição dos embargos de declaração perante o Tribunal de apelação.
+6. Agravo interno provido" (AgInt no AREsp 1.254.635/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/11/2019, DJe 22/11/2019).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. REAJUSTE CONFERIDO À CATEGORIA DO MAGISTÉRIO E PESSOAL DE APOIO DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO. ACÓRDÃO PROLATADO COM BASE EM LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. SÚMULA 280/STF. MULTA DO ART. 1.026, § 2º, DO CPC/2015. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM COM INTUITO DE PREQUESTIONAMENTO. RECURSO ESPECIAL PROVIDO.
+1. Cinge-se o inconformismo recursal à aplicação da multa no julgamento dos Embargos julgados protelatórios e ao reajuste concedido à autora por ocupar cargo de auxiliar de serviços gerais na Secretaria de Educação do Município de Iguaba Grande.
+(..)
+5. Merece acolhida o pleito pelo afastamento da multa do art. 1.026, § 2º, do CPC/2015, uma vez que os Embargos de Declaração opostos na origem visavam ao prequestionamento para fins de acesso às instâncias superiores. Assim, aplica-se o disposto na Súmula 98/STJ:
+"Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+6. Recurso Especial parcialmente provido para excluir a multa imposta com base no art. 1.026, § 2º, do CPC/2015" (REsp 1.831.683/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/10/2019, DJe 29/10/2019).
+Registra-se, ainda, que a Súmula nº 98/STJ, embora tenha sido formulada sob a égide do CPC/1973, continua vigente, visto que o art. 1.026, § 2º, do CPC/2015 manteve a hipótese de aplicação da multa do art. 538, parágrafo único, do Código anterior.
+Ademais, conforme leciona Daniel Amorim Assumpção Neves, deve ser entendido como manifestamente protelatório o recurso que
+"(..) não tem fundamento fático e/ou jurídico sério, sendo perceptível que a sua utilização tem como único objetivo retardar a marcha procedimental. Também o recurso manifestamente inadmissível pode ser considerado protelatório. Ao órgão jurisdicional é dada a análise do campo cinzento entre o exercício da ampla defesa e o abuso do exercício de defesa, devendo haver parcimônia pelos julgadores na aplicação da sanção processual" (Daniel Amorim Assumpção Neves, Código de Processo Civil Comentado, 4ª ed., Salvador, Editora JusPodivm, 2019, pág. 1.864 - grifou-se).
+No caso, a Corte de origem concluiu pela inexistência de vícios passíveis de correção por meio de aclaratórios e aplicou a multa prevista no art. 1.026, § 2º, do CPC. No entanto, não justificou os motivos pelos quais entendeu estar presente o intuito manifestamente protelatório dos aclaratórios opostos.
+Ademais, não pode o Tribunal local aplicar a multa do art. 1.026, § 2º, do CPC e, ao mesmo tempo, reconhecer o prequestionamento da matéria em exame por meio dos declaratórios.
+Desse modo, o acórdão destoa da jurisprudência desta Corte Superior, atraindo a incidência da Súmula nº 98/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para afastar da condenação a multa prevista no artigo 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
