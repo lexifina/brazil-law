@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 139):
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DE RECURSO DE APELAÇÃO COM ESTEIO NO ART. 1.010, II E III, E NO ART. 932, III, DO CPC. MERA REPRODUÇÃO DE TRECHOS DA CONTESTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS CENTRAIS DA SENTENÇA DE ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DO ENUNCIADO 43 DA SÚMULA DO TJCE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A MANIFESTAÇÃO UNIPESSOAL VERGASTADA. RECURSO CONHECIDO E DESPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, V e 1.022, II, do CPC/2015, ao argumento de que o acórdão, muito embora tenha sido provocado por meios dos embargos de declaração, não teria se manifestado sobre o seguinte tópico: necessidade de que a correção monetária e a taxa de juros fossem estabelecidas em conformidade com o disposto no art. 3º da EC 113/2021.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 175/178.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Trata-se de recurso especial cifrado a suposta nulidade do acórdão por alegada violação dos arts. 489 e 1.022 do CPC/2015.
+O acórdão da Corte cearense, por ocasião da apreciação do recurso de apelação, não conheceu do recurso, ao fundamento de que houve infringência ao postulado da dialeticidade, uma vez que a parte deixou de impugnar os alicerces da decisão recorrida. Note-se trecho do julgado (fl. 108):
+ ..  sabido é que ao recorrente é lícito se utilizar dos argumentos já delineados em suas anteriores peças processuais; porém, em observância ao princípio da dialeticidade ou da congruência, jamais poderá deixar de apresentar as razões pelas quais reputa equivocada a fundamentação e, consequentemente, a conclusão da decisão recorrida.
+ ..  Ante o exposto, NÃO CONHEÇO do recurso, por ausência de impugnação específica aos fundamentos da decisão de origem, o que faço com esteio no art. 932, III, do CPC.
+No recurso especial, a parte busca a nulificação do julgado que rejeitou embargos de declaração, ao argumento de que seria necessário manifestação do órgão julgador acerca da necessidade de que a correção monetária e a taxa de juros fossem estabelecidas em conformidade com o disposto no art. 3º da EC 113/2021. Confira-se (fl. 118):
+ ..  o acórdão recorrido não saneou a omissão na determinação de que a correção monetária e o cálculo dos juros de mora incidentes sobre a condenação se deem conforme a sistemática estabelecida pelo artigo 3º da Emenda Constitucional nº 113/2021.
+Nesse sentido, nos termos do artigo 3º da Emenda Constitucional 113/2021, a partir de 09 de dezembro de 2021, o índice de atualização monetária e juros de mora das condenações envolvendo a fazenda pública deve ser a SELIC,
+Por esse sumário de eventos processuais, nota-se que o recurso especial não pode ser conhecido, uma vez que o recurso de apelação sequer adentrou o tema de fundo no Tribunal de origem, obstando-se a análise de mérito por razões processuais (ausência de impugnação aos fundamentos da decisão recorrida).
+Assim, não pode ser qualificado como omisso o julgado quanto a aspectos condizentes com correção monetária, uma vez que sequer foi aberta a jurisdição no tocante aos elementos meritórios, que poderiam desaguar em debate acerca dos consectários de eventual condenação. O recurso especial não reúne condições para ser conhecido.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. RECURSO DE APELAÇÃO NÃO CONHECIDO NA ORIGEM POR AUSÊNCIA DE IMPUGNAÇÃO INTEGRAL AOS FUNDAMENTOS DA DECISÃO RECORRIDA. ALEGAÇÃO DE OMISSÃO QUANTO AO TÓPICO DO ÍNDICE DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE DE CONHECIMENTO DE TEMA DE MÉRITO EM EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
