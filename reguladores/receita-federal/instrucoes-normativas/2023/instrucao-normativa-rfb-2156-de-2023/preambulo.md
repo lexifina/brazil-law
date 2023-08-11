@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2156, de 8 de agosto de 2023
+Altera a Instrução Normativa RFB nº 2.055, de 6 de dezembro de 2021, que dispõe sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.250, de 26 de dezembro de 1995, no art. 62 da Lei nº 9.430, de 27 de dezembro de 1996, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
