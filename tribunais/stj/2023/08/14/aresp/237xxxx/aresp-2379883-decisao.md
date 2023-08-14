@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição F ederal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Espírito Santo (Apelação Criminal n. 0003859-28.2019.8.08.0012) que manteve a condenação de Cleyton Louzada de Oliveira como incurso no crime de tráfico de drogas.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos seguintes dispositivos: art. 33 da Lei n. 11.343/2006; art. 13 do Código Penal; e art. 386, VII, do Código de Processo Penal (fls. 301/309).
+A Corte de origem inadmitiu o reclamo com fundamento na Súmula 7/STJ (fls. 327/328).
+Contra o decisum a defesa interpôs o presente agravo (fls. 331/338).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 368):
+Agravo em recurso especial. Tráfico de drogas. I) Agravo que impugnou especificamente as razões da decisão agravada. Conhecimento. II) Acórdão que reconheceu a prática criminosa com arrimo nas provas produzidas na fase judicial, sob o crivo do contraditório e da ampla defesa, e com base no princípio do livre convencimento motivado e no postulado da persuasão racional do juiz. III) Ausência de demonstração de flagrante ilegalidade. IV) Pleito de absolvição. Revolvimento fático-probatório, providência inviável na via do recurso especial. Súmula 7/STJ. Parecer pelo não provimento do agravo.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, verifico, desde logo, que é inadmissível o reclamo calcado na violação do art. 13 do Código Penal, pois o agravante não demonstrou, nas razões do recurso especial, de que forma o acórdão impugnou violou o dispositivo em comento, circunstância que firma a deficiência na fundamentação do recurso nesse aspecto (Súmula 284/STF):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. INEXISTÊNCIA DE VIOLAÇÃO A COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NECESSIDADE DE CONSTITUIÇÃO DE CAPITAL. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de ofensa genérica aos arts. 489 e 1.022 do CPC/2015, sem mencionar de que forma tais dispositivos teriam sido violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir a Súmula 284/STF.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.115.843/SP, Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe 7/6/2023 - grifo nosso)
+De outra parte, no que se refere ao pleito absolutório, calcado na violação dos arts. 386 do Código de Processo Penal e 33 da Lei n. 11.343/2006, não há dúvida de que a insurgência encontra óbice na Súmula 7/STJ, pois a conclusão almejada - insuficiência probatória - demandaria o reexame de matéria probatória, providência vedada na via especial:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO. SÚMULA 182, STJ AFASTADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. ALEGADA VIOLAÇÃO AO ART. 155, CPP. INOCORRÊNCIA. SÚMULA 7, STJ. DIREITO PENAL. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE JUDICIAL. AUSÊNCIA DE DIREITO SUBJETIVO À FRAÇÃO DE 1/6. SÚMULA 83, STJ.
+I - A Súmula n.º 182 do STJ deve ser afastada quando, da leitura da petição defensiva, é possível verificar a impugnação específica e pormenorizada dos fundamentos da decisão agravada.
+II - Não há violação ao art. 155 do Código de Processo Penal quando os elementos de informação mencionados no acórdão visam tão somente a corroborar aquilo que, de qualquer modo, poderia ser deduzido a partir de outras provas produzidas em juízo, sob o crivo do contraditório e da ampla defesa. Precedentes.
+III - Na hipótese dos autos, o pleito de absolvição por insuficiência de provas só seria viável por meio de nova análise dos depoimentos judiciais e das imagens levadas em consideração pelo Tribunal de origem, o que não é viável em sede de recurso especial. Incidência da Súmula nº 7/STJ mantida.
+IV - A dosimetria da pena se insere em um espaço de discricionariedade judicial, só podendo ser revista diante da violação de comandos legais ou da existência de manifesta desproporcionalidade no cálculo da reprimenda, o que não ocorreu no caso. Precedentes.
+V - Conquanto o Superior Tribunal de Justiça tenha considerado, em situações específicas, a adequação da fração de 1/6 para os fins de exasperação da pena-base, tal conclusão não pode ser generalizada, sendo certo que a orientação jurisprudencial consolidada é a de que não há direito subjetivo a frações específicas para cada circunstância judicial negativa aferida na primeira fase da dosimetria da pena. Incidência da Súmula nº 83/STJ mantida.
+Agravo regimental provido para conhecer do agravo em recurso especial, negando-lhe, todavia, provimento.
+(AgRg no AREsp n. 2.154.006/DF, Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe 16/6/2023 - grifo nosso)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 13 DO CÓDIGO PENAL. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 386 DO CPP E 33 DA LEI N. 11.343/2006. PLEITO ABSOLUTÓRIO (INSUFICIÊNCIA PROBATÓRIA). INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
