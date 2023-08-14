@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA MARIS ARALDI SOTTILI E OUTROS contra decisão proferida às e-STJ fls. 1181/1185, por meio da qual dei parcial provimento ao recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO AOS ARTS. 1022, II, 489, § 1º, IV, DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 85, § 7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. IMPUGNAÇÃO APRESENTADA PELO EXECUTADO. PRECEDENTES. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA FIXAÇÃO DOS HONORÁRIOS. RECURSO ESPECIAL PROVIDO EM PARTE.
+Nas razões do agravo interno, os agravantes alegam, em síntese, que os honorários na execução/cumprimento de sentença deveriam ser fixados sobre o valor total executado, sendo irrelevante o resultado da impugnação apresentada pela parte executada.
+Sustentam que "a decisão supra padece de OMISSÃO e EQUÍVOCO, pois restou inobservado que para a fixação dos honorários executivos postulados (Art. 85, §7º, do CPC/2015), independe o resultado da Impugnação/Embargos à Execução, consequentemente não há que falar em exclusão de eventual parcela incontroversa da base de cálculo, não se tratando de honorários decorrentes do êxito da impugnação e sim honorários executivos" (e-STJ fl. 1194).
+Aduzem ainda que "em diversas decisões o Superior Tribunal de Justiça vem determinando a fixação de honorários advocatícios executivos nas execuções que foram embargadas/impugnadas pelo executado, sem estabelecer "condição" quanto à base de cálculo, como no caso em apreço, uma vez que não tratam-se de honorários de impugnação/embargos, e sim honorários executivos" (e-STJ fl. 1199).
+Por fim, alegam que os honorários deveriam ser fixados pelo d. Juízo da Execução, onde realizado o pedido, e não pelo Tribunal de origem, sob pena de supressão de instância e decisão extra petita.
+Requerem, assim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para que "seja determinando a fixação da verba honorária executiva sobre A TOTALIDADE DA EXECUÇÃO, HAJA VISTA A LITERALIDADE DO ART. 85, § 7º O CPC, OBSERVANDO A APLICABILIDADE DOS ENTENDIMENTOS JURISPRUDENCIAIS ACIMA MENCIONADOS, bem como seja determinado que o percentual dos honorários venha fixado pela instância ordinária/juízo de 1º grau, que foi aonde o pedido foi realizado" (e-STJ fl. 1209).
+Impugnação ao agravo interno apresentada às e-STJ fls. 1268/1271.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. OFENSA AO ART. 85, § 7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. IMPUGNAÇÃO APRESENTADA PELO EXECUTADO. BASE DE CÁLCULO. PARCELA CONTROVERTIDA. PRECEDENTES. DEVOLUÇÃO DOS AUTOS AO JUÍZO DA EXECUÇÃO PARA FIXAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que por ela impugnado o pedido de cumprimento de sentença, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito, nos termos do art. 85, § 7º, do CPC/2015.
+2. A fixação dos honorários no cumprimento de sentença deverá ser realizada pelo d. Juízo da Execução, onde formulado o pedido, uma vez que o Tribunal de origem apenas manteve a decisão de primeira instância objeto do agravo de instrumento.
+3. Agravo interno parcialmente provido.
+VOTO
+Segundo já consignado na decisão agravada, a jurisprudência desta Corte Superior firmou o entendimento de que é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que por ela impugnado o pedido de cumprimento de sentença, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito, nos termos do art. 85, § 7º, do CPC/2015.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO APRESENTADA PELA FAZENDA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO: PARCELA CONTROVERTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No agravo interno, a recorrente sustenta que o valor total da execução deve ser a base de cálculo para a fixação dos honorários advocatícios a serem fixados em sede de execução embargada pela Fazenda Pública.
+2. A jurisprudência do STJ determina a condenação da Fazenda Pública ao pagamento de honorários advocatícios sucumbenciais quando essa impugna a pretensão executória. Esses honorários devem ser determinados, contudo, não com base no valor total da execução, mas tão somente a partir do valor controvertido da execução.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no REsp nº 2.025.913/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/5/2023, DJe de 24/5/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. ART. 85, § 7º, CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O entendimento do acórdão recorrido não está em consonância com a jurisprudência do STJ, segundo a qual, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de Cumprimento de Sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 2.209.980/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/4/2023, DJe de 28/4/2023)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. Consoante o entendimento do STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a Execução não tiver sido impugnada e seu pagamento ocorrer por precatório.
+2. No entanto, oferecida resistência à Execução da Sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+3. Insurge-se a parte exequente, ora agravante, contra a base de cálculo dos honorários, pugnando pela adoção do valor total do cumprimento de sentença, e não sobre o valor do excesso apresentado na impugnação.
+4. Todavia, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que admite a condenação em honorários advocatícios sobre o valor controverso da Execução, que, no caso, é o excesso de Execução apresentado na impugnação rejeitada.
+5. Agravo Interno não provido.
+(AgInt no REsp nº 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDENIZAÇÃO DE LICENÇA-PRÊMIO. BASE DE CÁLCULO. VERBAS DE CARÁTER PERMANENTE. HONORÁRIOS ADVOCATÍCIOS DE EXECUÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Trata-se de agravo de instrumento interposto contra parte da decisão que, no âmbito de cumprimento de sentença tendo por objeto o pagamento de indenização por períodos de licença-prêmio não gozados, rejeitou a impugnação do INSS contra a inclusão, na base-de-cálculo, das parcelas de adicional de insalubridade e do terço constitucional de férias. No Tribunal a quo, o agravo de instrumento foi desprovido.
+II - Nos termos da jurisprudência firme desta Corte Superior, o adicional de insalubridade não integra a remuneração do servidor, devendo tal rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia. Por outro lado, o adicional de férias integra a remuneração do cargo efetivo e possui natureza permanente, devida ao servidor quando em atividade, integrando a base de cálculo para a conversão da licença-prêmio em pecúnia.
+III - Jurisprudência citada: "O adicional de insalubridade não integra a remuneração do servidor, devendo tal rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia" (AgInt no AREsp n. 1.717.278/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 1º/3/2021).
+IV - Ademais, o adicional de insalubridade é uma vantagem pecuniária não permanente, pois não se incorpora ao patrimônio jurídico do servidor de forma irreversível. Precedente do STF: (RE n. 593.068, Relator(a): Roberto Barroso, Tribunal Pleno, Processo Eletrônico Repercussão Geral - mérito DJe-056 Public 22-3-2019).
+V - Também o STJ apreciou questão semelhante e concluiu pela não inclusão do adicional de insalubridade como base de cálculo nos proventos de aposentadoria, o que, por analogia, aplica-se ao presente caso, uma vez que comprova a natureza meramente indenizatória de tal rubrica. (REsp n. 921.873/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 11/9/2020).
+VI - Nesse diapasão: AgInt no AREsp n. 1.734.643/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/10/2021, DJe 22/10/2021; AgInt no AREsp n. 1.717.278/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe 1/3/2021; e AgInt no AREsp n. 1.945.228/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/3/2022, DJe 24/3/2022.
+VII - Acerca dos honorários, é entendimento desta Corte Superior que devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa.
+Nesse sentido: AgInt no REsp n. 1.897.903/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe 24/2/2022; e AgInt nos EDcl no REsp n. 1.885.625/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2021, DJe 1ª/6/2021.
+VIII - Assim, os honorários advocatícios devem ser fixados apenas sobre o valor controvertido, alvo da impugnação, ou, no caso de acolhimento da impugnação, sobre o valor decotado do inicialmente cobrado.
+IX - Agravo interno improvido.
+(AgInt no REsp nº 1.988.577/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2022, DJe de 27/10/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CABIMENTO. BASE DE CÁLCULO. PARCELA CONTROVERTIDA MANTIDA NO JULGAMENTO DOS EMBARGOS. RECURSO NÃO PROVIDO.
+1. Conforme jurisprudência desta Corte, é cabível a fixação de honorários advocatícios em execuções que ensejem a expedição de precatório e que tenham sido embargadas ou impugnadas pela Fazenda Pública. Precedentes.
+2. O STJ possui entendimento firme no sentido da autonomia entre os honorários fixados nos embargos à execução e os honorários relativos à propositura da execução, respeitado o teto legal estabelecido no Código de Processo Civil. Precedente.
+3. Esses honorários terão como base apenas a parcela controvertida da execução que tenha sido mantida após julgamento dos embargos à execução.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.888.835/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022)
+Por fim, quanto à fixação dos honorários pelo d. Juízo da Execução, razão assiste aos agravantes.
+Isso porque o pedido de fixação de honorários foi formulado perante o d. Juízo da Execução, que indeferiu o pleito, tendo o Tribunal de origem mantido referida decisão.
+Logo, compete ao juízo de primeiro grau arbitrar a verba honorária, excluindo-se da base de cálculo a parcela incontroversa do crédito.
+Ante o exposto, dou parcial provimento ao agravo interno.
+É o voto.
