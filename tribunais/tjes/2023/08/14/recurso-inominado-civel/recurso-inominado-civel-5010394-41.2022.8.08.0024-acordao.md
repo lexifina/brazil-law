@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5010394-41.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FABIO FERREIRA DA SILVA
+RECORRIDO: ESTADO DO ESPIRITO SANTO
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. CONCESSÃO DE MEDALHA VALOR POLICIAL MILITAR (MVPM) INDEFERIDA. ALEGA O AUTOR QUE FAZ JUS AO RECEBIMENTO DA MEDALHA VALOR POLICIAL MILITAR COR BRONZE, ENTRETANTO, FOI CONTRAINDICADO PORQUE EXISTIA PUNIÇÃO EM SUA FICHA FUNCIONAL DO ANO DE 2010. DIZ SER DEVIDA A ANULAÇÃO DA SUA CONTRAINDICAÇÃO PORQUE FOI REABILITADO E A PENALIDADE NÃO PODERIA CONSTAR DE SEUS REGISTROS FUNCIONAIS, DEVENDO A ADMINISTRAÇÃO SER CONDENADA NA CONCESSÃO DA MEDALHA. SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO AUTORAL PARA RECEBIMENTO DA MEDALHA. RECURSO INTERPOSTO PELO AUTOR, PLEITEANDO A REFORMA DA SENTENÇA.
+RECURSO CONHECIDO E PROVIDO.
+
+COMPULSANDO OS AUTOS, VERIFICO QUE O AGRAVADO SE ENCONTRA REABILITADO DA PUNIÇÃO ADMINISTRATIVA DESDE 18/07/2014. À VISTA DISSO, O EFEITO IMEDIATO DECORRENTE DA REABILITAÇÃO DA SANÇÃO DISCIPLINAR É A SUA EXCLUSÃO/ELIMINAÇÃO DO ASSENTAMENTO FUNCIONAL DO MILITAR, DEVENDO A PENALIDADE SER APAGADA DE TODOS OS SISTEMAS DE REGISTRO EXISTENTES, MANTENDO-SE APENAS O NÚMERO E A DATA DO BOLETIM QUE PUBLICOU O ATO ADMINISTRATIVO QUE FORMALIZOU A REABILITAÇÃO, SENDO, AINDA, ASSEGURADO AO MILITAR O SIGILO DOS REGISTROS SOBRE O PROCESSO E A SANÇÃO DISCIPLINAR.
+ISTO POSTO, JULGO PROCEDENTE O PEDIDO AUTORAL E, VIA DE CONSEQUÊNCIA, DECLARO A NULIDADE DA CONTRAINDICAÇÃO DO REQUERENTE, FABIO FERREIRA DA SILVA, AO RECEBIMENTO DA MEDALHA VALOR POLICIAL MILITAR NA COR BRONZE
+,
+DEVENDO SER CONCEDIDA A RESPECTIVA PONTUAÇÃO REFERENTE A ESTA E CONSEQUENTEMENTE ACARRETANDO NA RECLASSIFICAÇÃO DO AUTOR NOS QUADROS DE ACESSO DA POLÍCIA MILITAR.
+SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
