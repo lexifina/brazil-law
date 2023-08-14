@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO PEREIRA DE OLIVEIRA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Informam os autos que o agravante foi condenado à pena de 07 (sete) anos e 08 (oito) meses de reclusão, em regime semiaberto, e pagamento de 26 (vinte e seis) dias-multa, pela prática dos crimes de roubo duplamente majorado e receptação (artigos 157, §2º, inciso II, e §2º-A, inciso I, e 180, caput, na forma do artigo 69, todos do Código Penal) (fls. 470-499). O eg. Tribunal de origem, por unanimidade, negou provimento ao apelo defensivo (fls. 641-676). Opostos embargos de declaração, estes foram rejeitados (fls. 693-698).
+Nas razões do recurso especial (fls. 704-734), interposto com fulcro no artigo 105, III, alínea a, da Constituição Federal, a Defesa aduziu violação aos artigos 155 e 156, ambos do CPP, ante a inexistência de provas suficientes para lastrear a condenação.
+Apresentadas as contrarrazões (fls. 753-756), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório e ii) na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior (fls. 763-768).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 771-795).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo e, de forma subsidiária, pelo não conhecimento do recurso especial (fls. 822-828).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7/STJ e 83/STJ.
+A defesa nas razões de fls. 771-795, em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ alegou que "que não se trata de reexame de prova e sim de afronta clara a norma infraconstitucional" (fl. 793), além de repisar as razões do especial.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+E, ainda, nada aduziu quanto à aplicação da Súmula 83/STJ, entretanto, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+A propósito:
+"para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)" (AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023)
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, RECEPTAÇÃO E CORRUPÇÃO ATIVA . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
