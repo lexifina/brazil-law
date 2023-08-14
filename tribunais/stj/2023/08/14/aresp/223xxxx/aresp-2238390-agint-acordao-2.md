@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Município de Uberaba desafiando decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) não se verifica omissão no acórdão recorrido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; e (II) incide a Súmula 7/STJ no tocante à verificação da adequação ou não do valor da multa fixada pelo Tribunal a quo, tendo em vista a necessidade de reexame de matéria fático-probatória.
+Em suas razões, a parte agravante sustenta que: (I) o acórdão proferido pelo Tribunal a quo padece de omissão, porquanto não enfrentou a questão relacionada ao art. 22 da LINDB, que determina ao julgador a análise das consequências jurídicas da decisão para o Poder Público; e (II) não há pretensão de reexame de fatos e de provas, mas da "análise da aplicabilidade dos dispositivos federais violados e, em decorrência, eventual decote ou redução dos valores." (fl. 425).
+Impugnação às fls. 453/456.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. EXECUÇÃO DE MULTA PREVISTA EM TERMO DE AJUSTAMENTO DE CONDUTA. VERIFICAÇÃO DA EXCESSIVIDADE OU DA POSSIBILIDADE DE EXCLUSÃO DA PENALIDADE. IMPOSSIBILIDADE.
+1. Na origem, o Município de Uberaba opôs embargos à execução de título extrajudicial, esta intentada pelo Ministério Público do Estado de Minas Gerais, na qual se cobra multa por descumprimento de Termo de Ajustamento de Conduta, relacionado à regularização de estabelecimentos de ensino.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A insurgência quanto ao valor da multa por descumprimento de Termo de Ajuste de Conduta não pode ser analisada em sede de recurso especial, por demandar o revolvimento fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno do Município de Uberaba não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, a decis ão agravada não merece reparos.
+Na origem, o Município de Uberaba opôs embargos à execução de título extrajudicial, esta intentada pelo Ministério Público do Estado de Minas Gerais, na qual se cobra multa por descumprimento de Termo de Ajustamento de Conduta, relacionado à regularização de estabelecimentos de ensino.
+A senten ça de piso acolheu os embargos e determinou a elaboração de novo cronograma para o cumprimento das obrigações assumidas (fls. 73/75).
+O Parquet estadual interpôs apelação para o Tribunal de Justiça do Estado de Minas Gerais, o qual deu parcial provimento ao recurso para, "reformando a sentença, julgar parcialmente procedentes os embargos do devedor para reconhecer o excesso de execução da multa diária, determinar o prosseguimento do processo executivo prosseguir com o valor certo, atualizado e limitado em R$ 30.000,00 (trinta mil reais)." (fl. 200).
+Nas razões do recurso especial, o Município de Uberaba, ora agravante, alegou ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, ao argumento de que o acórdão recorrido padece de omissão. Sustentou, também, a existência de maltrato aos arts. 884 do Código Civil e 20, 21, 22 da LINDB, pois a cobrança da multa, ainda que no valor reduzido pela Corte estadual, implica ônus excessivo aos cofres municipais, motivo pelo qual pugnou pela exclusão da multa ou pela reversão do valor para cumprimento das medidas de adequação da unidade de ensino objeto do Termo de Ajustamento de Conduta.
+A decisão agravada, por sua vez, concluiu que não houve ofensa aos arts. 489, § 1º, e 1022, II, do CPC e que a pretensão recursal de exclusão da multa esbarra no óbice da Súmula 7/STJ.
+O Município agravante discorda de tais fundamentos.
+Sem razão, contudo.
+Primeiramente, não se verifica a omissão apontada pela edilidade, pois o tema tido como olvidado foi assim enfrentado pelo Tribunal local (fls. 199/200):
+Além disso, devem ser considerados os obstáculos e as dificuldades reais do gestor na interpretação de normas sobre gestão pública (artigo 22 da LINDB) e a já destacada grave crise econômica enfrentada pelos municípios mineiros, razão pela qual é imperiosa a redução multa ao patamar de R$ 30.000,00 (trinta mil reais), valor que observa os princípios da proporcionalidade e da razoabilidade.
+Não configurada, pois, a alegada omissão.
+Por outro lado, cumpre registrar que, em sede de recurso especial, não cabe verificar se o novo valor da multa estipulado pelo Tribunal de origem se mostra excessivo em relação à situação dos cofres públicos, ou se é cabível, no caso concreto, a exclusão da penalidade, tendo em vista a necessidade de reexame de matéria fática, providência que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TERMO DE AJUSTAMENTO DE CONDUTA. MULTA PREVISTA NO AJUSTE. REDUÇÃO. ACÓRDÃO AMPARADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No caso, verifica-se que a Instância a quo concluiu pela necessidade de redução de multa prevista em Termo de Ajustamento de Conduta a partir da análise de circunstâncias fáticas.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer o valor irrisório da multa, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.07 9.757/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/11/2018, DJe de 13/11/2018.)
+No caso, a instância a quo reduziu a multa para R$ 30.000,00 (trinta mil reais) com base nos seguintes fundamentos (fls. 194/200):
+A alegação do ente público foi acolhida pelo juízo de origem, que entendeu pelo descumprimento justificado da obrigação, tanto em relação à situação de crise econômica agravada pelos atrasos nos repasses obrigatórios a cargo do Estado de Minas Gerais, como pela superveniência da pandemia do COVID-19, que piorou ainda mais a situação dos municípios mineiros (documento n. 14).
+Todavia, com a devida vênia, não constato que o apelado comprovou a direta correlação entre o atraso no repasse pelo Estado de Minas Gerais e o descumprimento da obrigação pactuada no título extrajudicial, não bastando para tanto meras alegações de dificuldades financeiras e de crise econômica, ainda que público e notório o agravamento da situação em decorrência da pandemia.
+Consoante asseverado, o TAC consiste em um compromisso extrajudicial, celebrado previamente ao ajuizamento da ação civil pública, sendo que o compromissário assume obrigações decorrentes de exigências legais, mediante cominações que têm o caráter de título executivo por força do disposto no artigo 5º, § 6º, da Lei n. 7.347/85 e do artigo 784, IV, do Código de Processo Civil.
+As obrigações previstas no Termo de Compromisso e Ajustamento de Conduta foram livremente pactuadas entre as partes e dizem respeito ao dever constitucional dos entes públicos de garantirem o direito fundamental à educação, previsto no artigo 5º e 227 da CRFB/88.
+Assim, forçoso concluir que a situação de crise financeira vivenciada pelo ente municipal, alegada de forma genérica e sem demonstração da direta influência no cumprimento do título extrajudicial executado, não pode ser fundamento para o não cumprimento das obrigações assumidas livremente, sob pena de se esvaziar o objetivo do instituto do TAC e de se premiar a mora do Poder Executivo em regularizar a situação de instituição escolar local.
+(..)
+Além disso, não se desconhece a situação de emergência em Saúde Pública no Estado em razão de epidemia de doença infecciosa viral - COVID-19 - causada pelo agente Novo Coronavírus - SARSCoV-2 - 1.5.1.1.0., a qual impactou as finanças de todos os entes da federação.
+Não obstante, a obrigação de fazer em questão tinha vencimento em data muito antes da superveniência da pandemia, em dezembro de 2018, não havendo que se falar na sua ocorrência como forma de eximir o ente público da obrigação por ele firmada.
+Em síntese, não há que se falar na extinção da ação de execução ajuizada em desfavor do ora apelado, que descumpriu o compromisso firmado em termo de ajustamento de conduta com previsão de penalidade pecuniária, tornando-se líquida, certa e exigível a multa pactuada.
+(..)
+Apesar de ser devida a continuidade da execução da multa pecuniária proposta, admite-se, no entanto, a redução do seu valor, nos termos do artigo 814, parágrafo único, do Código de Processo Civil, que assim determina:
+(..)
+Diante desse quadro, tendo em vista que não fora fixado teto para a multa diária prevista no título executivo e que o descumprimento da obrigação em análise é apenas em relação a uma instituição de ensino, decerto que o valor pactuado e ora executado (R$ 196.311,45) tornou-se excessivo à finalidade proposta em razão do decurso do tempo.
+Além disso, devem ser considerados os obstáculos e as dificuldades reais do gestor na interpretação de normas sobre gestão pública (artigo 22 da LINDB) e a já destacada grave crise econômica enfrentada pelos municípios mineiros, razão pela qual é imperiosa a redução multa ao patamar de R$ 30.000,00 (trinta mil reais), valor que observa os princípios da proporcionalidade e da razoabilidade.
+Vê-se, pois, que o entendimento adotado pelo Tribunal de origem está ancorado no substrato fático-probatório dos autos, sendo imperiosa a incidência da Súmula 7/STJ, no caso concreto.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
