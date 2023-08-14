@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. JUROS REMUNERATÓRIOS. POSSIBILIDADE DE LIMITAÇÃO NOS CASOS EM QUE A TAXA CONTRATADA SE REVELA SUPERIOR À MÉDIA AUFERIDA PELO BACEN PARA O PERÍODO. COMPENSAÇÃO E RESTITUIÇÃO DE VALORES. POSSIBILIDADE NOS CASOS EM QUE VERIFICADA A REALIZAÇÃO DE PAGAMENTOS A MAIOR PELA PARTE DEVEDORA. MORA. SOMENTE A EXIGÊNCIA DE ENCARGOS REMUNERATÓRIOS ILEGAIS DESCARACTERIZA A MORA DO DEVEDOR. VERBA HONORÁRIA MAJORADA. UNÂNIME. NEGARAM PROVIMENTO AO RECURSO DA RÉ E DERAM PROVIMENTO AO RECURSO DA AUTORA" (fl. 222, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 245/248, e-STJ).
+No especial, a recorrente sustenta haver divergência jurisprudencial no acórdão a respeito da aplicação do art. 51, IV, § 1º, III, do Código de Defesa do Consumidor e do entendimento firmado no julgamento do recurso especial repetitivo REsp nº 1.061.530/RS.
+Aduz que o reconhecimento da abusividade da taxa de juros remuneratórios demanda a análise individualizada das particularidades do caso concreto, o que não ocorreu no caso.
+Afirma que "para convencimento do Tribunal a quo bastou o mero cotejo entre taxa de juros prevista no contrato objeto da ação e a taxa média publicada pelo Bacen para época da contratação para se configurar a abusividade da taxa contratada e a consequente determinação de sua revisão" (fl. 262, e-STJ).
+Apresentadas contrarrazões às fls. 449/452 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO CUMULADA COM DEVOLUÇÃO DE VALORES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO COMPROVADA. SÚMULAS 5 E 7/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. MANUTENÇÃO DA DECISÃO UNIPESSOAL AGRAVADA.
+1. Ação revisional de contrato cumulada com devolução de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, 2ª Seção, DJe de 10/3/2009, Tema 27). Na hipótese dos autos, todavia, não restou comprovada a abusividade na taxa de juros remuneratórios praticada, tampouco a incidência de juros capitalizados.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. Ademais, a incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo interno não provido" (AgInt no REsp n. 2.019.555/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. COBRANÇA ABUSIVA. REVISÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+2. A jurisprudência desta Corte é firme no sentido de que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a cobrança abusiva (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+3. No caso dos autos, a Corte de origem concluiu pelo caráter abusivo da taxa de juros remuneratórios porque fixada em valor exorbitante em relação à média de mercado, em contratos assemelhados. A modificação de tal entendimento é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.579.114/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 19/8/2022).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido" (AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor da atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advoga do da recorrida, observada assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
