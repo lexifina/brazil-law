@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno contra decisão que não conheceu do agravo em recurso especial por falta de impugnação de fundamentos de inadmissibilidade do recurso especial na origem.
+O recurso especial foi interposto contra acórdão com o seguinte resumo da ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COTA-PARTE DEVIDA. ERRO DE CÁLCULO. CORREÇÃO. POSSIBILIDADE. RECURSO DESPROVIDO. 1. A controvérsia posta nos autos cinge-se a aferir a correção dos cálculos efetuados pela contadoria judicial, notadamente quanto à cota-parte da Agravante. 2. O INSS, ora Agravado, foi condenado a implantar, em favor da Autora, ora Agravante, o benefício de pensão por morte, procedendo-se ao pagamento dos atrasados desde a época do falecimento de seu companheiro, R. Y., falecido em 15/11/87, com a ressalva das partes da pensão devidas à viúva M. de L. e à sua filha, L. M. 3. Ao contrário do alegado pela parte agravante, não foi discutida nesses autos a validade da pensão paga a L. M. anteriormente à março de 2003, de modo que não há que se falar em pagamento integral da referida pensão após o falecimento de M. de L. 4. Assim, uma vez apontado nos autos erro de cálculo, a fim de se evitar desobediência à coisa julgada e aos limites da execução, além do enriquecimento sem causa do exequente e consequente prejuízo ao erário público, tem o magistrado o poder-dever de, a qualquer tempo, e até mesmo reconhecível de ofício, adotar as medidas cabíveis visando a correção do valor da dívida, de modo que se mostram corretos os cálculos elaborados pelo contador judicial de evento 520.5. Recurso desprovido.
+Foi interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULOS APRESENTADOS POR CONTADOR JUDICIAL. AGRAVO IMPROVIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em autos de cumprimento de sentença, homologou os cálculos apresentados por contador judicial. No Tribunal a quo, o agravo foi improvido. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ, da Súmula n. 83/STJ (quanto à correção de cálculos/de ofício pelo juiz/não há preclusão) e na ausência de afronta ao art. 1.022 do CPC (Súmula 284/STF).
+II - Entretanto, a parte agravante deixou de impugnar especificamente os óbices referentes à ocorrência da Súmula n. 7/STJ e da Súmula n. 83/STJ (quanto à correção de cálculos/de ofício pelo juiz/não há preclusão). A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+III - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+IV - Agravo interno não conhecido.
+VOTO
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente aos óbices referentes à ocorrência da Súmula n. 7/STJ e da Súmula n. 83/STJ (quanto à correção de cálculos/de ofício pelo juiz/não há preclusão).
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
