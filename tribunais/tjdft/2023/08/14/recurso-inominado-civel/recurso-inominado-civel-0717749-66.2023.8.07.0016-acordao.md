@@ -1,0 +1,58 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0717749-66.2023.8.07.0016RECORRENTE(S)CAROLINA MEIRELES AIRESRECORRIDO(S)DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL - DERRelatoraJuiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA
+ Acórdão Nº1743034
+
+EMENTA
+
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. INFRAÇÃO DE TRÂNSITO. ART. 165-A DO CTB. TESTE DO ETILÔMETRO. RECUSA PELO CONDUTOR. AUSÊNCIA DE NOTIFICAÇÃO. INOVAÇÃO RECURSAL. DESCRIÇÃO DO EQUIPAMENTO NO AUTO DE INFRAÇÃO. MODELO APROVADO PELO INMETRO. AUSÊNCIA DE IRREGULARIDADE. SENTENÇA MANTIDA.
+
+1. A alegação de ausência de notificação para apresentação de defesa prévia não foi arguida na petição inicial, de forma que está configurada a inovação recursal, vedada pelo ordenamento jurídico e abrangida pelo instituto da preclusão.
+
+2. Nos termos da Resolução do CONTRAN n.º 432 de 23/1/2013, art. 4.º, inciso I, o etilômetro deve ter seu modelo aprovado pelo INMETRO; no caso, o modelo foi descrito no auto de infração – Alcolizer LE5, e, diferentemente do alegado pela recorrente, foi devidamente aprovado pelo INMETRO.
+
+3. Não existindo qualquer irregularidade no auto de infração de trânsito questionado, não há falar-se em nulidade, razão pela qual a sentença de improcedência não merece reparo.
+
+4. Recurso CONHECIDO e NÃO PROVIDO. Sentença mantida. Recorrente vencida condenada ao pagamento dos honorários advocatícios, esses fixados por equidade em R$ 1.000,00 (mil reais), nos termos do art. 85, §§ 2º, 3º e 8º do CPC/2015, cuja exigibilidade ficará suspensa por ser a parte beneficiária da gratuidade de justiça.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - Relatora, EDILSON ENEDINO DAS CHAGAS - 1º Vogal e ANTONIO FERNANDES DA LUZ - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. NAO PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 18 de Agosto de 2023
+
+Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHAPresidente e Relatora
+
+RELATÓRIO
+
+Trata-se de Recurso Inominado interposto pela parte autora contra a sentença que julgou improcedente o pedido inicial formulado em face do Departamento de Estradas e Rodagem do DF, em que se objetivava a anulação de auto de infração de trânsito baseado no art. 165-A do CTB.
+
+Em suas razões recursais, a recorrente alega que não foi notificada para apresentar defesa prévia, seja por AR ou por meio do SNE; defende que a autuação pessoal somente supre a falta de notificação quando consta do documento da autuação a data da defesa prévia; diz que não há informações sobre o modelo do aparelho usado pelo agente de trânsito, a especificação nem se sabe se o objeto é aprovado pelo Inmetro; por fim, requer a concessão da gratuidade de justiça (anexando documentos comprobatórios de sua situação financeira) e, no mérito, que o recurso seja provido.
+
+Contrarrazões apresentadas sob id 49268555.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - Relatora
+
+Consoante os documentos de Id. 49268553, verifica-se que a parte recorrente não possui condições de arcar com as despesas processuais, razão pela qual concedo em seu favor os benefícios da gratuidade de justiça.
+
+Inicialmente, registro que alegação de ausência de notificação para apresentação de defesa prévia não foi arguida na petição inicial, de forma que está configurada a inovação recursal, vedada pelo ordenamento jurídico e abrangida pelo instituto da preclusão.
+
+No tocante à aferição do etilômetro, houve sua especificação no auto de infração de Id. 49268544 - Pág. 5 (Etilômetro Alcolizer LE5), que, inclusive, é devidamente aprovado pelo INMETRO por meio da Portaria Inmetro/Dimel nº 234, de 12 de dezembro de 2018.
+
+Não existindo qualquer irregularidade no auto de infração de trânsito questionado, não há falar-se em nulidade, razão pela qual a sentença de improcedência não merece reparo.
+
+Ante o exposto, voto pelo conhecimento e não provimento do recurso.
+
+Recorrente vencida condenada ao pagamento dos honorários advocatícios, esses fixados por equidade em R$ 1.000,00 (mil reais), nos termos do art. 85, §§ 2º, 3º e 8º do CPC/2015, cuja exigibilidade ficará suspensa por ser a parte beneficiária da gratuidade de justiça.
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - 1º Vogal Com o relatorO Senhor Juiz ANTONIO FERNANDES DA LUZ - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NAO PROVIDO. UNANIME.
