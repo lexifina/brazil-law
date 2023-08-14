@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça de Rondônia, assim resumido:
+Agravo de instrumento. Cumprimento de sentença. Honorários de advogados sucumbenciais. Programa de Recuperação de Créditos da Fazenda Pública Estadual - REFAZ VI. Adesão. Não comprovação. Desistência após a prolação da sentença, já transitada em julgado. Princípio da causalidade. Recurso não provido. É cediço que após a superveniência da sentença, não há como a parte desistir da demanda, nos termos do art. 485, §5º, do CPC, ainda que possa desistir de recurso outrora interposto, porém os efeitos da sentença permanecem nos exatos termos em que foi proferida. In casu, a Lei n. 4.214, de 2017, que instituiu o Programa REFAZ VI, não estava em vigor no final do ano de 2020, tendo sido substituída pela Lei Estadual n. 4.703, de 2019, de modo que a agravante não pode aproveitar-se de benefício fiscal ao qual não tem direito, porquanto não comprovado ter aderido ao referido programa, mormente após a sentença que julgou improcedente o pedido de anulatória de débito fiscal e condenou-a em verba honorária em favor da Fazenda Pública. Por conseguinte, os honorários de sucumbência são devidos em sua totalidade, tendo em vista o princípio da causalidade, segundo o qual aquele que deu causa à propositura da demanda deve arcar com as despesas que dela decorrem.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 1.021, §2º do CPC/2015 e 259, §6º do RISTJ, reconsidero a decisão de fls.543-548, tornando-a sem efeito e com esteio no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+10. Pois bem. Sem delongas, a Agravante esclarece que, no presente feito, NÃO há que se falarem adesão ao programa de parcelamento após o trânsito em julgado da condenação. Diferentemente do que restou consignado na decisão agravada, a adesão ao Programa de Parcelamento ocorreu ANTERIORMENTEAO TRÂNSITO EM JULGADO da decisão.
+ ..
+12. Tal alegação se mostra a inda mais cristalina quando expostas, simultaneamente, a data do trânsito em julgado da sentença proferida nos autos de origem em comparação à data de adesão ao Programa de Parcelamento. É ver:
+ ..
+14. Situação, esta, IDÊNTICA ao ocorrido nos presentes autos. Isso porque, assim como no Leading Case supracitado, o contribuinte, ora Agravante, desistiu da sua peça de defesa (nos autos do processo nº 7009331-31.2019.8.22.0001), em razão da adesão ao Programa de Parcelamento ofertado pelo Estado de Rondônia (vide REFAZ VI). Assim, e diante da transação realizada perante a Administração Pública, a Empresa fez jus ao benefício de redução dos honorários advocatícios -inseridos no Programa de Parcelamento.
+ ..
+16. Acresça-se, ainda, que a Empresa Agravante não simplesmente "desistiu" do litígio em apreço, mas, na realidade, atendeu aos requisitos necessários à concretização da transação realizada com o Fisco Estadual, ora Agravado. Isto pois, conforme demonstrado à exaustão, a Empresa aderiu ao parcelamento REFAZ VI e, conforme exigido pelo Programa, renunciou ao seu direito de defesa. Desse modo, não seria razoável que a contribuinte renunciasse ao direito de defesa para aderir ao referido Programa de Parcelamento e, em seguida, fossem-lhe negados os benefícios concedidos pelo parcelamento, no caso, a redução dos honorários advocatícios.
+17. Desse modo, incontestável que a decisão ora agravada se encontra, em bem da verdade, em desconformidade ao entendimento firmado por esta Colenda Corte por meio do Tema 400 STJ. Isto pois, diferentemente do que equivocadamente sustentou este ilustre Ministro Relator, o pedido de adesão ao Programa de Parcelamento (30.09.2019) ocorreu ANTERIORMENTE ao trânsito em julgado da sentença condenatória (05.03.2020).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ADESÃO AO PARCELAMENTO. NÃO AFETAÇÃO DO TÍTULO EXECUTIVO JUDICIAL FORMADO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que julgou improcedente a impugnação ao cumprimento de sentença. No Tribunal a quo, a sentença foi mantida.
+II - A posterior adesão ao parcelamento não afeta o título executivo judicial formado, devendo ser mantida a sucumbência fixada. Sobre o assunto, confiram-se: AgInt no REsp n. 1.819.693/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/2/2020, DJe de 25/5/2020; AgInt no REsp n. 1.572.065/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/10/2020, DJe de 28/10/2020.)
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A posterior adesão ao parcelamento não afeta o título executivo judicial formado, devendo ser mantida a sucumbênci a fixada.
+Sobre o assunto, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO DA LEI 13.606/2018. TRÂNSITO EM JULGADO DA DECISÃO. HONORÁRIOS DE SUCUMBÊNCIA. COISA JULGADA. SÚMULAS 7 E 83/STJ. APLICAÇÃO.
+1. Recusou-se a impugnação por se constatar a irreversibilidade da condenação em verbas sucumbenciais em sentença transitada em julgado. O acórdão negou provimento ao Agravo ao argumento de que "a adesão a parcelamento administrativo não tem o condão de fulminar o título executivo judicial já transitado em julgado, que condenou a recorrente ao pagamento de honorários advocatícios sucumbenciais".
+2. Os agravantes sustentam ser inaplicável o "pressuposto da desistência prévia", conforme consignado na decisão, requerendo a aplicação do art. 2o da Lei 13.606/2018, pois, não desistiram previamente da ação judicial existente, sendo fato incontroverso nos autos que não houve tal desistência.
+3. O entendimento do Tribunal de origem encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, que considera incabível a exclusão de condenação, em honorários de sucumbência, quando o pedido de adesão ao programa de parcelamento tributário tiver sido efetuado após o trânsito em julgado daquela condenação.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1.640.540/AL, Rel. Min. Og Fernandes, Segunda Turma, DJe de 11.9.2017; AgRg no REsp 1.337.994/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 31.10.2012; AgRg no REsp 1.220.571/SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 11.10.2011.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.819.693/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/2/2020, DJe de 25/5/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ADESÃO A PROGRAMA DE PARCELAMENTO. TRÂNSITO EM JULGADO DA DECISÃO QUE FIXOU OS HONORÁRIOS DE SUCUMBÊNCIA. COISA JULGADA. PRECEDENTES.
+1. Nos termos da jurisprudência desta Corte, a posterior adesão ao parcelamento não afeta o título executivo judicial formado. Entendimento contrário importaria ofensa à coisa julgada, como consignado pelo acórdão recorrido. Precedentes: AgInt no REsp 1.640.540/AL, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/9/2017; AgInt no REsp 1.644.554/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 4/5/2017.
+2. Ademais, rever o entendimento do Tribunal a quo quanto à existência do trânsito em julgado demandaria o reexame de provas, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.572.065/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/10/2020, DJe de 28/10/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
