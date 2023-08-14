@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por NOTRE DAME INTERMEDICA SAUDE S.A, contra  a decisão  monocrática de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região)  assim ementada:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ISS. RETENÇÃO PELOS TOMADORES DE SERVIÇOS. POSSIBILIDADE. ARGUMENTO NÃO IMPUGNADO ESPECIFICAMENTE PELA PARTE RECORRENTE. INCIDÊNCIA DA SÚMULA 283/STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO (fl. 682).
+Em  suas  razões  recursais  (fls.  688/704),  a  parte  agravante  reitera a alegação de negativa de prestação jurisdicional, bem como a inaplicabilidade da Súmula 283 do STF. Sustenta que "o regime de retenção inviabiliza que a base de cálculo do ISS seja corretamente apurada mediante a dedução, do valor bruto recebido pela Agravante, dos montantes repassados aos profissionais de área da saúde que prestaram serviços aos usuários dos planos" (fl. 691).
+Pretende ver reconhecido o direito de apurar e recolher o ISS, ela própria, ao ente municipal.
+Requer, ao final, a reconsideração da decisão agravada.
+Impugnação apresentada (fls. 707/715).
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO AGRAVO EM RECURSO  ESPECIAL.  NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ISS. RETENÇÃO. RAZÕES DISSOCIADAS. SÚMULA 284/STF. RESPONSABILIDADE CONFERIDA AOS TOMADORES DE SERVIÇOS. ACÓRDÃO FUNDAMENTADO EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DISSÍDIO PREJUDICADO. PROVIMENTO NEGADO.
+1.  Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Razões do recurso especial dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência, por analogia, do enunciado sumular 284 do Supremo Tribunal Federal.
+3. A alteração do julgad o, conforme pretendido nas razões recursais, demandaria a análise da legislação local, providência vedada em recurso especial ante o óbice da Súmula 280 do STF.
+4. Agravo  interno  a que se nega provimento.
+VOTO
+De início, afasto a incidência da Súmula 283/STF. No entanto, o resultado do julgamento se mantém.
+O Tribunal de origem resolveu a controvérsia assim fundamentando:
+Trata-se de mandado de segurança impetrado pela ora apelante com vistas a que seja afastada a obrigação de retenção do ISS pelos tomadores dos serviços por ela prestados e previstos nos subitens 4.22 e 4.23, bem como lhe seja autorizado apurar e recolher o ISS devido ao Município de Sorocaba.
+O Juízo "a quo" julgou improcedente o pedido ao argumento de que "somente a previsão legal acima exposta não conduz à inexorável conclusão de que o tomador de serviços, ao realizar a retenção do imposto, agirá de forma contrária ao que fora decidido pelo Colendo Supremo Tribunal Federal, deixando de deduzir da base de cálculo do ISS os pagamentos efetuados pela impetrante aos profissionais da área da saúde que prestam serviços aos usuários dos planos, notadamente, se dispor de informações nesse sentido, prestadas pela impetrante".
+Deve ser mantida a decisão recorrida.
+Verdade que, segundo entendimento do STJ, a incidência do ISS sobre a totalidade do montante recebido pelas operadoras de plano de saúde significaria fazer incidir duas vezes o ISS sobre a mesma base imponível, consoante ficou decidido no âmbito do REsp 1.137.234/RS (Relator Ministro Mauro Campbell Marques, por maioria, publicado no DJ de 13.09.2011), contendo o v. acórdão respectivo a seguinte ementa:
+(..)
+No caso, todavia, segundo se extrai de seu contrato social, a ora apelante acha-se estabelecida em Sorocaba, onde possui filiais. Logo, ao que tudo indica, os tomadores dos serviços daquela, no mencionado Município, não se sujeitam ao cumprimento do quanto estabelecido no art. 8º, II da Lei Municipal nº 4.994/95, com as alterações introduzidas pela de nº 11.589/17.
+De outro lado, não importa a natureza das operações levadas a efeito nas filiais daquela em Sorocaba, por certo que a própria impetrante admite que, por força do estatuído pelo inciso XXIII do art. 3º da LC nº 116/2003, introduzido pelo art. 1º da LC nº 157/2016, não há como furtar-se ao recolhimento do ISS no domicílio do tomador dos serviços.
+Tanto assim que seu pedido recursal é no sentido de que se lhe autorize -- ela mesma, e não mediante retenção pelo tomador -- que ".. apure e recolha o ISS devido ao Município de Sorocaba" (fls. 501/503 - sem destaques no original).
+Não há, na presente hipótese, a violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+A pretensão da ora agravante não foi acolhida pela Corte local ao fundamento de que a previsão legal, tão somente, não conduz à conclusão de que a retenção do imposto se dará de forma contrária à orientação do STF. No recurso especial, a defesa limitou-se a discutir que "na prática, os tomadores retêm o ISS sobre a base cheia, relativa a todo o valor incorrido com o serviço, sem a dedução" (fl. 514), o que contrariaria a jurisprudência dos tribunais superiores.
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos presentes autos. Por essa razão, incide na hipótese, por analogia, o enunciado sumular 284 do Supremo Tribunal Federal, que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido. (AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020 - sem destaques no original.)
+No que concerne à responsabilidade pela retenção do imposto discutido, o Tribunal de origem consigna que "ao que tudo indica, os tomadores dos serviços daquela, no mencionado Município, não se sujeitam ao cumprimento do quanto estabelecido no art. 8º, II da Lei Municipal nº 4.994/95, com as alterações introduzidas pela de nº 11.589/17" (fl. 503).
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a a nálise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno .
+É  o  voto.
