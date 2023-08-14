@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELEVADORES ATLAS SCHINDLER LTDA., com arrimo no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER - RECURSO DA DEMANDADA - RENOVAÇÃO DO AGRAVO RETIDO - DESPROVIMENTO - RECURSO DO DEMANDANTE - SENTENÇA A QUO MANTIDA - APELOS DESPROVIDOS. NEGA-SE PROVIMENTO AO AGRAVO RETIDO INTERPOSTO DA DECISÃO PROFERIDA EM SEDE DE AUDIENCIA. NO CASO DOS AUTOS, COMO JÁ RESSALTADO, AS PROVAS REQUERIDAS SE REVELARAM ABSOLUTAMENTE DESNECESSÁRIAS, NÃO ESTANDO A R. SENTENÇA A MERECER QUAISQUER REPAROS." SALIENTA-SE QUE NA HIPÓTESE, NÃO HOUVE O ALEGADO CERCEAMENTO DE DEFESA EM RAZÃO DO JULGAMENTO ANTECIPADO DA LIDE, TAMPOUCO PELO INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVAS. IN CASU OS APELANTES TROUXERAM APENAS ARGUMENTOS FRÁGEIS E INCONSISTENTES SEM QUALQUER PROVA ROBUSTA QUE POSSA ILIDIR OU REBATER, OS FUNDAMENTOS DA DECISÃO RECORRIDA, OS QUAIS DEVEM SER MANTIDOS NA SUA INTEGRALIDADE PELOS SEUS PRÓPRIOS FUNDAMENTOS JURÍDICOS. À UNANIMIDADE, NOS TERMOS DO VOTO DO DESEMBARGADOR RELATOR, O DESPROVIMENTO DE AMBOS OS RECURSOS DE APELAÇÃO, É MEDIDA QUE SE IMPÕE" (e-STJ fl. 525).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 568-574).
+Em suas razões (e-STJ fls. 576-594), a recorrente aponta violação dos seguintes dispositivos com as respectivas teses:
+(i) artigos 11, 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil - porque teria havido negativa de prestação jurisdicional ao deixar o Tribunal de origem de se manifestar acerca de aspectos relevantes da demanda suscitados em embargos de declaração e
+(ii) artigos 369 e 370, parágrafo único, do Código de Processo Civil - alegando cerceamento de defenda em virtude do julgamento antecipado da lide e indeferimento do pedido de prova pericial de engenharia.
+Com as contrarrazões (e-STJ fls. 602-611), e admitido o recurso na origem (e-STJ fls. 613-614), subiram os autos a esta colenda Corte.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (artigos 11, 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019 - grifou-se)
+No caso em apreço, ambas as instâncias de cognição plena entenderam desnecessária a produção de prova pericial.
+O Tribunal de origem acrescentou, ainda, que as alegações da parte deveriam ter sido comprovadas por meio de prova documental, o que não foi feito em momento oportuno (e-STJ fls. 531-532).
+Tendo o magistrado, destinatário da prova, concluído, com base nos elementos do processo, ser desnecessária a dilação probatória requerida, inviável o acolhimento da pretensão recursal, pois demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula nº 7/STJ.
+A jurisprudência é pacífica nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. DECISÃO MOTIVADA. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. JUSTIÇA GRATUITA. DEMONSTRAÇÃO DA IMPOSSIBILIDADE FINANCEIRA. REVISÃO. INVIABILIDADE. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA E CULPA CONCORRENTE. CAUSA DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. INEXISTÊNCIA. REEXAME. NÃO CABIMENTO. NOVA APREÇIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a produção de provas e diligências protelatórias, desnecessárias ou impertinentes.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Rever a convicção da corte de origem de prescindibilidade da produção de provas requerida demanda reexame fático-probatório, o que é vedado em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+4. É inviável revisar o entendimento do tribunal a quo acerca da justiça gratuita, tendo em vista a necessidade de reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Desconstituir o entendimento da corte de origem de que não foi demonstrada a culpa exclusiva da vítima ou a culpa concorrente demandaria revolvimento de matéria fática, o que é inviável em recurso especial (Súmula n. 7 do STJ).
+6. Agravo interno desprovido".
+(AgInt no AREsp n. 1.903.083/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. OMISSÃO. AUSÊNCIA. INCONFORMISMO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO DA DÍVIDA. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que era desnecessária a dilação probatória. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. O prazo prescricional não tem sua contagem iniciada a partir do vencimento antecipado 4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido".
+(AgInt no AREsp n. 2.219.123/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023 - grifou-se)
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
