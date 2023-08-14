@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DIEGO SANTOS DA SILVA contra decisão (e-STJ fls. 1.466/1.471) que concedeu parcialmente a ordem de habeas corpus para reduzir as penas impostas ao agravante, pela prática dos delitos de furto qualificado e homicídio qualificado, a 2 anos de reclusão, e 14 anos e 7 meses de reclusão (e-STJ fls. 31/34), integrada pelos embargos declaratórios às e-STJ fls. 1.481/1.482.
+Nas razões do presente recurso, a agravante insiste na tese de ilegalidade decorrente da carência de fundamentação e desproporcionalidade do aumento na primeira fase da dosimetria. Ademais, sustenta que o aumento acima do mínimo pela agravante na segunda fase também careceu de fundamentação.
+Assim, pleiteia a reconsideração da decisão ou o julgamento do recurso pela Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. FURTO QUALIFICADO. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AUMENTO DA PENA-BASE. CONSEQUÊNCIAS DO DELITO. MOTIVAÇÃO CONCRETA. CRITÉRIO. DISCRICIONARIEDADE DO JULGADOR. LEGALIDADE E PROPORCIONALIDADE OBSERVADAS. AGRAVANTE. AUMENTO ACIMA DE 1/6 JUSTIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Casa, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Ainda, "mostra-se devida a fixação da pena-base acima do mínimo legal quando demonstradas, de forma concreta, as razões pelas quais foram consideradas desfavoráveis à paciente as circunstâncias e as consequências do delito" (HC n. 190.933/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/2/2012, DJe 21/3/2012).
+3. N o que toca às consequências do crime, penso suficiente a motivar a exasperação da pena-base o argumento assentado na origem de que a vítima, além deixar órfãos filhos pequenos, esses ficaram desamparados justamente na antevéspera do Natal, época mundial de reunião de famílias.
+4. Outrossim, "não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena- base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada)" (AgRg no HC n. 603.620/MS, Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2020, DJe 9/10/2020).
+5. Acerca da agravante, deve-se frisar que o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena em razão da incidência das agravantes e das atenuantes genéricas. Assim, a exasperação ou diminuição da reprimenda em razão da incidência de circunstância agravante ou atenuante deve respeitar, em regra, a fração de 1/6, salvo situações excepcionais, devidamente justificadas, como no caso, em que o Tribunal de origem corretamente assentou que o "aumento de 1/4 por ter agido mediante emboscada e com recurso que dificultou a defesa da vítima, que, atraída sob o pretexto de receber dinheiro que lhe era devido, foi amarrada e amordaçada, recebendo três tiros na cabeça".
+6. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os argumentos que embasaram as decisões ora impugnadas, que devem ser integralmente mantidas, in verbis (e-STJ fls. 1.466/1.470 e 1.481/1.482):
+No caso, o Tribunal de origem reavaliou a dosimetria da pena fixada pelo Juízo de primeiro grau, pronunciando-se nestes termos (e-STJ fl. 65, grifei):
+Para Diego, no tocante ao homicídio, o inciso I (do § 2º do art. 121 do CP) qualificou a conduta, mantendo-se a exasperação de 1/3 (e não 1/2) à base, diante de sua negativa conduta social, visto que ex-policial militar, com diversos registros em sua folha de antecedentes, contando com condenação por tentativa de homicídio anterior (em fase recursal), bem como pelas consequências do delito, mencionadas acima; já em relação à prática do delito contra pessoa desconhecida e de modo premeditado, não elevam a base, destacando-se que a última parte, inclusive, está ligada à emboscada.
+Assim, para Diego, pelo homicídio, após exasperação da base de 1/3, não sendo o caso de atenuar pela confissão, porquanto negou o "animus necandi", segue-se aumento de 1/4 por ter agido mediante emboscada e com recurso que dificultou a defesa da vítima, que, atraída sob o pretexto de receber dinheiro que lhe era devido, foi amarrada e amordaçada, recebendo três tiros na cabeça, definindo-se a reprimenda em 20 anos de reclusão.
+Para o furto cometido por Diego, a citada conduta social negativa eleva a base de 1/6, sem influência na fração em razão de se tratar de vítima desconhecida e pela premeditação, esta tocante ao homicídio em si, o que faz com que a pena se defina em 02 anos e 04 meses de reclusão e 11 dias-multa.
+Somadas, as penas aplicadas a Diego totalizam 22 anos e 04 meses de reclusão e 11 dias-multa.
+Primeiramente, quanto à negativação da conduta social do paciente, em virtude de "diversos registros em sua folha de antecedentes, contando com condenação por tentativa de homicídio anterior (em fase recursal)", tal entendimento contraria o do Superior Tribunal de Justiça de que "condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente" (REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021.)
+Ora, se nem mesmo condenações definitivas podem desfavorecer a conduta social do agente, quiçá processos em curso.
+Já no que toca às consequências do delito, penso ser suficiente a motivar a exasperação da pena-base o fato de que a vítima deixou órfãos filhos pequenos que ficaram desamparados e justamente na antevéspera do Natal, época mundial de reunião de famílias.
+Nesse sentido:
+PENAL. RECURSO ESPECIAL. HOMICÍDIO CULPOSO. IMPOSSIBILIDADE DE INTERPOSIÇÃO DE RECURSO ESPECIAL PARA SUSCITAR VIOLAÇÃO À RESOLUÇÃO. CONTRARIEDADE AOS ARTIGOS DA LEI 5.194/66 E AO ART. 65, III, "B", DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO PELA ALÍNEA "C" DO ART. 105, III, DA CF. AUSÊNCIA DE SIMILITUDE FÁTICA. CONTRARIEDADE AO ART. 159 DO CPP. NÃO OCORRÊNCIA. EXAME REALIZADO POR PERITOS OFICIAIS COM DIPLOMA DE CURSO SUPERIOR. PRESCINDIBILIDADE DE QUALIFICAÇÃO SUPERIOR ESPECÍFICA NA ÁREA OBJETO DO EXAME. DOSIMETRIA DA PENA. OBSERVÂNCIA AOS ARTS. 59 E 68 DO CP. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+ ..
+6. A individualização da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no artigo 5º, XLVI, da Constituição Federal, e nos arts. 68 do Código Penal e 387 do Código de Processo Penal.
+7. De acordo com as singularidades do caso e os vetores do art. 59 do CP, a pena-base do recorrente foi fixada acima do mínimo legal, ante o desfavorecimento da culpabilidade, das circunstâncias e das consequências do crime.
+8. A culpabilidade, analisada como maior ou menor censurabilidade do comportamento do agente, foi bem evidenciada no acórdão recorrido, no qual se destacou ter o recorrente ciência de que a embarcação navegava com pouca borda e o dobro do número máximo de passageiros, bem como ter afirmado, após indagado sobre a possibilidade de naufrágio, haver homens capazes de salvar quem não sabia nadar, comportamento que demonstrou extremo descuido ante o bem jurídico tutelado, a merecer graduado juízo de reprovação na individualização da pena.
+9. As circunstâncias do crime foram desfavoráveis ao recorrente, porquanto a ingestão de bebida alcóolica, a realização de passeio noturno, o embarque de passageiros embriagados e com capacidade de reação diminuída, a condução da lancha para local profundo e distante da margem do lago e a insuficiência de equipamentos de segurança são dados acidentais, não integrantes do tipo penal, que evidenciam a maior gravidade concreta da conduta.
+10. A morte de duas pessoas ainda jovens, que contribuíam para o sustento econômico da família, e o intenso sofrimento emocional causado à irmã sobrevivente, que "acompanhou o drama diretamente e carregará por toda a vida os traumas da experiência", vão além do resultado do tipo e justificam a exasperação da pena-base a título de consequências do crime.
+11. Recurso especial parcialmente conhecido e, nesta extensão, não provido. (REsp 1383693/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/12/2014, DJe 04/02/2015)
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. BIS IN IDEM. ANTECEDENTES E CONDUTA SOCIAL. DOCUMENTAÇÃO INSUFICIENTE. MOTIVOS DO CRIME. FUTILIDADE. CIRCUNSTÂNCIAS DO CRIME. MÚLTIPLOS DISPAROS DE ARMA DE FOGO. MORTE DA VÍTIMA. CIRCUNSTÂNCIA INERENTE AO PRÓPRIO TIPO PENAL VIOLADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SANÇÃO REDIMENSIONADA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. O fato de haverem sido efetuados diversos disparos de arma de fogo contra a vítima do crime de homicídio justifica a conclusão pela desfavorabilidade das circunstâncias do delito.
+7. A morte da vítima é circunstância inerente ao próprio tipo penal violado (homicídio), motivo pelo qual não se justifica a exasperação da pena-base a título de consequências desfavoráveis do delito.
+8. De acordo com o entendimento desta Corte Superior, o comportamento da vítima é circunstância judicial que nunca será avaliada desfavoravelmente: ou seja, ou será positiva, quando a vítima contribui para a prática do delito, ou será neutra, quando não há contribuição. Precedentes.
+9. Ordem não conhecida. Habeas corpus concedido, de ofício, para reduzir em parte a pena-base do paciente e, consequentemente, tornar a sua reprimenda definitiva em 13 anos e 2 meses de reclusão. (HC 253.035/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/10/2015, DJe 27/10/2015)
+Quanto à confissão, o Tribunal de origem deixou de aplicá-la ao argumento de que o réu não admitiu o animus necandi (e-STJ fl. 650.
+Ora, no caso dos autos, verifica-se que ele, de fato, ainda que parcialmente, confessou admitiu a prática criminosa, fornecendo dados que corroboraram a condenação.
+Assim sendo, não há empecilho à aplicação da atenuante prevista no art. 65, III, "d", do Código Penal, no percentual de 1/6, considerando que esta Corte Superior assentou a orientação de que mesmo a confissão qualificada permite a sua incidência. Nesse sentido:
+HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA DA PENA. CONFISSÃO PARCIAL. COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. PRECEDENTES. PARECER DA PROCURADORIA-GERAL DA REPÚBLICA ACOLHIDO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Conforme o entendimento sedimentado na Súmula n. 545 do Superior Tribunal de Justiça, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+2. Ainda que o Paciente tenha declarado em juízo conjuntura que pareça a descrição de simples subtração - o que configuraria crime diverso -, tal conduta também constitui elementar do delito de roubo, por se tratar de crime complexo, consistente na prática de furto associada à violência ou grave ameaça.
+3. Outrossim, no voto condutor do acórdão impugnado, consignou-se que o Paciente admitiu parcialmente os fatos em audiência. Portanto, na hipótese deveria ter ocorrido a compensação da agravante da reincidência com a atenuante, pois a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que deve ser promovida a compensação entre a agravante da reincidência e a atenuante da confissão espontânea ainda que a última tenha sido apenas parcial.
+4. Não pesa contra o Paciente a multirreincidência. Dessa forma, é de rigor a compensação integral entre a confissão espontânea e a agravante da reincidência.
+5. Parecer Ministerial acolhido. Ordem de habeas corpus concedida.
+(HC 525.885/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 02/09/2020, grifei)
+Acerca da agravante, deve-se frisar que o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena em razão da incidência das agravantes e das atenuantes genéricas.
+Assim, a exasperação ou diminuição da reprimenda em razão da incidência de circunstância agravante ou atenuante deve respeitar, em regra, a fração de 1/6, salvo situações excepcionais, devidamente justificadas, como no caso.
+De fato, no ponto, afirmou o Tribunal de origem que se segue "aumento de 1/4 por ter agido mediante emboscada e com recurso que dificultou a defesa da vítima, que, atraída sob o pretexto de receber dinheiro que lhe era devido, foi amarrada e amordaçada, recebendo três tiros na cabeça".
+Com efeito, na espécie, a escolha da fração de exasperação da pena na segunda etapa da dosimetria revelou-se concretamente fundamentada e proporcional.
+Repasso, então, ao redimensionamento das penas.
+HOMICÍDIO QUALIFICADO
+Na primeira fase, considerando desfavoráveis as consequências do crime, elevo a pena básica em 1/6, a qual fica estabelecida em 14 anos de reclusão.
+Na segunda etapa, a pena é reduzida em 1/6 pela atenuante da confissão e aumentada em 1/4 pelas agravantes reconhecidas, alcançando o patamar de 14 anos e 7 meses de reclusão, o qual torno definitivo, em virtude da inexistência de outras causas modificativas da sanção.
+FURTO QUALIFICADO
+Na primeira fase, considerando desfavoráveis as consequências do crime, elevo a pena básica em 1/6, a qual fica estabelecida em 2 anos e 4 meses de reclusão.
+Na segunda etapa, a pena é reduzida em 1/6 pela atenuante da confissão, alcançando o patamar de 2 anos de reclusão, o qual torno definitivo, em razão da inexistência de outras causas modificativas da sanção.
+Mantido, no mais, o acórdão impetrado.
+Ante o exposto, concedo parcialmente a ordem, nos termos ora delineados.
+ ..
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão.
+De fato, a pena básica do crime de furto deve ser fixada no mínimo legal na origem.
+Procedo ao redimensionamento.
+FURTO QUALIFICADO
+Na primeira fase, a pena fica estabelecida em 2 anos de reclusão e, em obediência à Súmula n. 231, permanece nesse patamar na segunda fase, em que pese o reconhecimento da atenuante da confissão, e torna-se, assim, definitiva, em razão da inexistência de outras causas modificativas da sanção.
+Ante o exposto, acolho os embargos de declaração, para sanar a obscuridade constatada na decisão embargada, com efeitos modificativos, nos termos ora delineados.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
