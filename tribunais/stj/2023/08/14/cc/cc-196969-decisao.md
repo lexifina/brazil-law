@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante MASSA FALIDA DE GEORADAR SERVIÇOS E PARTICIPAÇÕES S/A e OUTRAS e suscitados o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE NOVA LIMA - MG e o JUÍZO DA 19ª VARA DO TRABALHO DE MANAUS - AM.
+Ação em trâmite perante o juízo cível: falência das suscitantes.
+Ação em trâmite perante o juízo trabalhista: reclamatória n. 0002604-84.2016.5.11.0019, ajuizada por AMAURY GUIMARÃES RIBEIRO.
+Conflito de competência: alega, em síntese, "ser competência exclusiva do Juízo da Falência conhecer de todas as ações sobre bens, interesses e negócios do falido, não tendo, portanto, a Justiça Especializada do Trabalho competência para prosseguir as execuções após a decretação da falência, especialmente quando o credor trabalhista está reconhecidamente sujeito ao procedimento falimentar" (e-STJ fl. 5). Pleiteia, liminarmente, a "suspensão da decisão proferida pelo MM. Juiz do Trabalho da 19ª Vara do Trabalho de Manaus/AM, nos autos da Reclamatória Trabalhista n. 0002604-84.2016.5.11.0019, tornando sem efeito a decisão que determinou a liberação da importância disponível nos autos ao Reclamante, utilizando-se de depósito judicial de créditos pertencentes às sociedades falidas" (e-STJ, fl. 14).
+Tutela antecipada: deferida, às fls. 84/85, e-STJ.
+Parecer do MPF: manifestou-se pelo conhecimento do conflito a fim de que seja declarada a competência do juízo da recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+Depreende-se dos autos que o processo de falência das suscitantes está em andamento perante o Juízo de Direito da 2ª Vara Cível de Nova Lima - MG .
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Vale lembrar, ademais, que a Segunda Seção do STJ possui entendimento consolidado no sentido de que é "da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento" (AgInt nos EDcl no CC 165.079/SP, DJe 08/05/2020).
+Na hipótese, portanto, não compete ao juízo trabalhista interferir no acervo patrimonial das suscitantes, motivo pelo qual o conflito deve ser acolhido.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE NOVA LIMA - MG para a realização de qualquer ato processual que implique em constrição do patrimônio das falidas, nos autos da Ação n. 0002604-84.2016.5.11.0019, ajuizada por Amaury Guimarães Ribeiro, em trâmite no Juízo da 19ª Vara do Trabalho de Manaus - AM.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E FALÊNCIA. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE NOVA LIMA - MG.
