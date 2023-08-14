@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por HMC CLINICA ODONTOLOGICA LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. IRPJ E CSLL. ALÍQUOTA. SERVIÇO ODONTOLÓGICO. NÃO ENQUADRAMENTO COMO ATIVIDADE DE NATUREZA HOSPITALAR. FLEXIBILIZAÇÃO DA EXIGÊNCIA DE ATENDIMENTO AS NORMAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. NÃO ATENDIMENTO DOS REQUISITOS LEGAIS PARA OBTENÇÃO DO BENEFÍCIO TRIBUTÁRIO" (fl. 815e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 855/856e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 15 e 20, da Lei 9.249/95 e Tema 217/STJ, sustentando, em síntese, que preenche todos os requisitos legais previstos na Lei nº 9.249/95, para o reconhecimento do seu direito de calcular o Imposto de Renda da Pessoa Jurídica (IRPJ) à alíquota de 8% (oito por cento), e a Contribuição Social sobre o Lucro Líquido (CSLL) à alíquota de 12% (doze por cento), ambos sobre a receita bruta, vez que optante do regime tributário do lucro presumido (fls. 867/893e).
+Por fim, requer o provimento do recurso.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 939e).
+No caso, trata-se de Mandado de Segurança impetrado por HMC CLINICA ODONTOLOGICA LTDA, objetivando a apuração do IRPJ e da CSLL, utilizando-se como base de cálculo o percentual de 8% (oito por cento) e 12% (doze por cento), respectivamente, sobre a receita bruta auferida mensalmente, por entender que presta serviços hospitalares.
+Julgada procedente a demanda, recorreram a Impetrante e a Fazenda Nacional. O Tribunal de origem deu provimento ao recurso da Fazenda Nacional e negou provimento a apelação da impetrante, restando reformada a sentença (fls. 815/821e).
+Daí a interposição do presente Recurso Especial, que não merece prosperar.
+De início, não conheço da alegada violação ao Tema 217/STJ, porquanto não se enquadra no conceito de "tratado ou lei federal" prevista no permissivo constitucional (art. 105, III, "a"), não tendo o condão de abrir a via estreita dos recursos excepcionais.
+No mais, a Corte de origem, ao analisar a controvérsia, asseverou que "os serviços odontológicos não estão situados dentre aquelas especialidades elencadas na al. a do inc. III do § 1º do art. 15 da L 9.249/1995. As profissões de medicina e de odontologia são regulamentadas de forma distinta na legislação nacional, possuindo cada uma delas, por suas características, um certo conjunto de privilégios, isso mesmo antes da entrada em vigor da L 9.249/1995, inexistindo equivalência entre as atividades" (fls. 820/821e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ademais, ainda que não fosse o caso de se aplicar os óbices acima, o Superior Tribunal de Justiça já decidiu que "a atividade de clínica odontológica não se enquadra no conceito de serviços hospitalares para efeitos do benefício fiscal" (AgRg no REsp 1.168.663/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 9.6.2011). Aplica-se, portanto, a Súmula 83 do STJ.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
