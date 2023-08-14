@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA ECONÔMICA FEDERAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fls. 1.668-1.669):
+CIVIL E PROCESSUAL CIVIL. SFH. INDENIZAÇÃO SECURITÁRIA POR VÍCIOS DE CONSTRUÇÃO. ILEGITIMIDADE DA CEF. COMPETÊNCIA DA JUSTIÇA ESTADUAL. APELO PREJUDICADO.
+1. A presente ação foi ajuizada com o escopo de condenar a parte ré a proceder à indenização securitária por supostos danos ao imóvel vinculado ao Sistema Financeiro da Habitação -SFH, decorrentes de vícios de construção.
+2. Ilegitimidade da Caixa Econômica Federal. O Superior Tribunal de Justiça nos EDcl no REsp 1091363/SC estabeleceu premissas para o reconhecimento do interesse da CEF: apólices firmadas no período que vai de 02-12-1988 (Lei 7.682) até 29-06-1998 (MP1.691-1), que são necessariamente da modalidade "pública", bem como para as apólices firmadas de 02-12-1988 (Lei 7.682) até 29-12-2009 (MP 478/2009), na modalidade "pública" (), ou que para esta modalidade tenham sido migradas, uma vez que ramo 66 nessas situações presente está a possibilidade de comprometimento do FCVS.
+3. Em manifestação sustentando a presença de interesse para intervir na presente ação, a CEFacostou inúmeros documentos. Contudo, não apresentou uma prova sequer de que a apólice tratada nesta ação é do ramo público (ramo 66) e que foi firmada no interregno estabelecido pelo STJ em sede de recurso repetitivo.
+4. A COHAB, atendendo determinação do Juízo, acostou aos autos o ofício de fls. 1163, do qual se extrai que o contrato foi firmado em 01/04/1981.
+5. Aliada a ausência de qualquer prova produzida pela CEF no sentido de comprovar seu interesse, o documento de fls. 1163 demonstra que o contrato foi firmado em momento anterior a dezembro de 1988, a partir do qual o STJ estabeleceu existir a possibilidade da intervenção do ente estatal federal.
+6. Inexistindo interesse da Caixa Econômica Federal em intervir na lide, deve ser mantida no polo passivo da demanda a Cia Excelsior de Seguros, com a consequente declinação da competência para a Justiça Estadual.
+7. Reconhecida a ausência de interesse da CEF para intervir na lide e, por consequência, a incompetência da Justiça Federal, devendo a ação ser remetida à Justiça Estadual.
+Interpostos os embargos de declaração, esses foram rejeitados pelo Tribunal de origem (fls. 1.817-1.818).
+No presente recurso especial (fls. 1.831-1.837), o recorrente suscita violação do art. 1,022 do CPC, porquanto, apesar de ter interposto embargos de declaração, o Tribunal de origem não teria se manifestado sobre pontos essenciais ao deslinde da controvérsia.
+No mérito, suscita ofensa aos arts. 109, I, da CF, art. 1º-A, §§1º-A e 2º, da lei n. 12.409/11 e 45, 489, IV e VI e 927, III, do CPC, aduzindo, em síntese, ser da Justiça Federal a competência para julgamento das ações que versem sobre apólices públicas em que haja o comprometimento do FCVS.
+O recorrido ofereceu contrarrazões ao recurso especial (fls. 1.857-1.864).
+Sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 1.873-1.876), o que ensejou a interposição do presente agravo.
+A parte agravada não apresentou contraminuta ao agravo.
+É, no essencial, o relatório.
+Discute-se nos autos a possibilidade de condenação da Caixa Econômica Federal por danos verificados em imóvel financiado pelo Sistema Financeiro da Habitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+Entretanto, verifica-se que a competência interna do Superior Tribunal de Justiça para o julgamento de tais questões ainda não está pacificada, pois a Corte Especial não concluiu o julgamento dos CCs n. 140.456 e 148.188 . Logo, esta Corte ainda não definiu sequer qual a Seção desta Corte é o juízo natural para o exame da presente demanda.
+Imperioso ressaltar que, ainda que não se discuta nos autos eventual conflito de competência entre as Justiças Federal e Estadual, pois a questão já foi pacificada consoante o que dispõe o Tema 1.011/STF, ainda assim, a matéria diz respeito a eventual comprometimento do FCVS com a participação da Caixa Econômica Federal na lide, tendo relação direta com as questões debatidas nos referidos conflitos de competência.
+Portanto, visando à segurança jurídica e à pacificação dos conflitos, necessário se faz o sobrestamento do presente feito até que seja fixada a competência interna para o julgamento do feito. Nesse sentido, cito o REsp n. 2.068.161, Ministro Mauro Campbell Marques, DJe de 18/5/2023.
+Ante o exposto, de termino o sobrestamento do feito até a conclusão do julgamento dos CCs n. 140.456 e 148.188 pela Corte Especial deste Tribunal.
+Publique-se. Intimem-se.
