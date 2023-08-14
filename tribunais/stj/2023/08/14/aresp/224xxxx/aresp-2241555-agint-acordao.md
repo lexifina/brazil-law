@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por SOBAM - CENTRO MEDICO HOSPITALAR S/A contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de obrigação de fazer c/c danos morais ajuizada por ROSELI APARECIDA UNGARETTE em face da agravante, visando a cobertura de tratamento home care, em fase de cumprimento de sentença.
+Decisão interlocutória: determinou à executada que enviasse funcionários próprios à residência da autora exequente, ante a ausência de escala de funcionários e que seja cumprida a ordem anterior de não mais terceirizar o serviço de home care de forma definitiva, sob pena de configuração de crime de desobediência e aumento da multa ao dobro.
+Acórdão: não conheceu do recurso da agravante, nos termos da seguinte ementa:
+Agravo de instrumento. Cumprimento de sentença. Decisão que determinou à executada que enviasse funcionários próprios à residência da autora exequente, ante a ausência de escala de funcionários e que seja cumprida a ordem anterior de não mais terceirizar o serviço de home care de forma definitiva, sob pena de configuração de crime de desobediência e aumento da multa ao dobro. Inconformismo da executada. Não conhecimento. Quanto à reiteração de obrigação de fazer, constata-se que o provimento jurisdicional impugnado sequer é dotado de conteúdo decisório próprio, limitando-se à reiteração de ordens anteriores. Previsão de possibilidade de majoração de multa por descumprimento é medida com esteio legal (arts. 536, § 1º e 537, § 1º, do CPC) e que, por si só, não implica em prejuízo imediato à executada. No mesmo sentido dá-se quanto à menção à eventual configuração de crime de desobediência, já que o pronunciamento acerca da configuração ou não de conduta delituosa não cabe ao juízo originário, devendo ocorrer, se o caso, em eventual processo crime. Recurso não conhecido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 537, §1º, do CPC. Sustenta que tendo havido o cumprimento da determinação judicial de fornecimento de serviço de home care, não se justifica a imposição de multa alguma, mormente em se tratando de astreintes exorbitantes.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial em virtude da incidência da Súmula 211/STJ na alegada ofensa ao art. 537, §1º, do CPC, bem como em virtude da aplicação da Súmula 283/STF, uma vez que não impugnados todos os fundamentos do acórdão recorrido.
+Agravo interno: o agravante alega que toda a matéria recursal foi devidamente prequestionada e que todos os fundamentos do acórdão recorrido foram devidamente rebatidos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. HOME CARE. ASTREINTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo interno desprovido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, o acórdão recorrido decidiu a questão, enfrentando a notícia de não atendimento à determinação judicial de fornecimento de tratamento home care, que intimada "reiteradas vezes para promover a adequação dos serviços (fls. 264, 624-625 e 641). Como não cessaram as reclamações acerca da inadequação da prestação do home care, foi cominada multa diária (fl. 652-653), posteriormente aplicada (fl. 673)" (fl. 159, e-STJ).
+E completou:
+"Assim, já que com por meio de empresas terceirizadas não teria se logrado grau satisfatório de prestação de serviços, ordenou o juízo de primeiro grau que fossem supridas as falhas mencionadas por meio da utilização de funcionários próprios da executada, não de terceirizados, tudo sob pena de nova fixação de astreintes, mediante intimação pessoal (fl. 716).
+Não cessados os relatos de descumprimento, foram reiteradas as determinações de fls. 716 às fls. 772 e 808 (especialmente para que fosse o home care prestado por pessoal próprio ,não terceirizado). Finalmente, à fl. 823, proferiu-se a decisão interlocutória agravada, de seguinte teor: "Fls. 816/821: Determino à parte executada que envie funcionários da própria Sobam à residência da autora, nos dias 05/11 q 13/11, haja vista que não há escala de funcionários e que seja cumprida a ordem emanada por este juízo no sentido de não mais terceirizar o serviço de home care de forma definitiva, como já outrora determinado, sob pena da tipificação de crime de desobediência, além de a multa ser dobrada.
+Pois bem, quanto às determinações relativas à regularização de serviços, não se justifica o inconformismo manifestado, visto que as medidas ordenadas há muito não são inéditas. A propósito, são reiterações de comandos também previamente reiterados. Neste aspecto, é lícito concluir que o provimento jurisdicional sequer é dotado de conteúdo decisório original, limitando-se a repetir ordens anteriores.
+No que concerne à prevista possibilidade de majoração da multa, trata-se de medida com esteio no art. 536, § 1º, do CPC e, mais especificamente, no art. 537, § 1º, também do código processual civil, que prevê a possibilidade de modificação do valor e da periodicidade da penalidade caso se verifique que a multa original tenha se tornado insuficiente ou excessiva. Como a majoração da penalidade pecuniária sequer chegou a ser aplicada na decisão agravada, mas apenas cogitada, não existe conteúdo decisório impugnável pela via recursal." (fls. 160/161, e-STJ).
+Desse modo, a insurgência contra o valor das astreintes, imputado como exorbitante, não foi mesmo objeto de exame pela Corte de origem, pois não houve a majoração da penalidade pecuniária. Mantida, portanto, a aplicação do óbice da Súmula 211/STJ.
+Do mesmo modo, no tocante a tal fundamento do acórdão recorrido, a parte agravante, nas razões de seu recurso especial, de fato, não o impugna, limitando-se a reiterar a insurgência contra o valor elevado da multa e contra a própria imposição da multa, pugnando pelo reconhecimento do cumprimento da determinação judicial.
+Assim, igualmente não merece reforma a decisão agravada também neste ponto, mantendo-se o óbice da Súmula 283/STF.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
