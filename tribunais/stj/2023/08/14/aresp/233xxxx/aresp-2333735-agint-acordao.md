@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por RODOBNES INCORPORADORA IMOBILIÁRIA 348 - SPE LTDA (e-STJ fls. 686/695), contra decisão da Presidência (e-STJ fls. 680/682) que não conheceu do agravo em recurso especial.
+Ação: de Rescisão Contratual c/c Restituição de Valores e Compensação por Danos Morais ajuizada por FÁBIO FRIGERI em desfavor de RODOBENS INCORPORADORA IMOBILIÁRIA 348 - SPE LTDA.
+Sentença: declarou rescindido o contrato celebrado entre as partes e condenou o réu à devolução dos valores pagos à título de sinal, taxa de corretagem e parcelas pagas pelo autor, devidamente corrigidos desde o desembolso.
+Acórdão: negou provimento à apelação interposta pelo réu/agravante e deu parcial provimento à apelação interposta pelo autor, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS - ATRASO INJUSTIFICADO NA ENTREGA DA OBRA - IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA - ARGUMENTOS RETÓRICOS E SUPERFICIAIS - AJG MANTIDA - INADIMPLEMENTO DA VENDEDORA CONFIGURADO - RESTITUIÇÃO INTEGRAL DOS VALORES DEVIDOS (SÚM. 543 STJ) - VEDAÇÃO À COMPENSAÇÃO DE HONORÁRIOS -CONDENAÇÃO RECÍPROCA DOS ÔNUS SUCUMBENCIAIS - RECURSO DA DO RÉU DESPROVIDO E RECURSO DO AUTOR PARCIALMENTE PROVIDO.
+1. "O benefício da assistência judiciária gratuita pode ser deferido à pessoa física ou jurídica, desde que comprovada a impossibilidade de arcar com as despesas do processo sem prejuízo próprio" (STJ - Terceira Turma - EDcl no AREsp 571.875/SP - Rel. Ministro MOURA RIBEIRO - Julgado em 12/02/2015 - DJe 20/02/2015), e uma vez deferido, a sua revogação depende da apresentação de provas contumazes da capacidade financeira do beneficiado.
+2. Tendo em vista que a rescisão do contrato de promessa de compra e venda de imóvel deu-se por culpa exclusiva da promitente vendedora, pelo atraso injustificado na entrega do imóvel, o consumidor e promitente comprador faz jus à imediata restituição de todos os valores vinculados ao cumprimento do contrato. Inteligência da Súmula nº 543 do STJ.
+3. Os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial (art. 83, §14 do CPC).
+4. O não acolhimento do pedido de indenização por danos morais pretendido pelo autor na petição inicial enseja sucumbência recíproca e isso impõe, nos termos do art. 86, "caput", do CPC/2015, a distribuição proporcional dos ônus correspondentes. (e-STJ, fls. 528/529).
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 67-A, §5º, da Lei 13.786/18; 476 do Código Civil, sustentando: que a rescisão contratual ocorreu por culpa exclusiva do agravado, sendo, portanto, descabida a devolução do valor integral das parcelas pagas, devendo haver retenção de 50% dos valores pagos. Diz que o agravado deve responder pela desistência do negócio firmado, pois deixou de cumprir com suas obrigações, sendo devida referida retenção, mormente porque o empreendimento em questão está sob o regime de patrimônio de afetação; ii) que conforme as teses fixadas nos Resps 1.551.956/SP e 1.599.511/SP, a pretensão relativa à devolução da comissão de corretagem está prescrita, devendo ser excluída a restituição desse encargo em razão da prescrição trienal ocorrida; iii) que os juros de mora sobre os valores a serem restituídos, devem incidir apenas após o trânsito em julgado, ante a ausência da mora da parte agravante, conforme entendimento firmado no Tema 1.002/STJ.
+Decisão agravada: não conheceu do agravo em razão da incidência da Súmula 182/STF.
+Agravo interno: em suas razões o agravante alega que preencheu os requisitos para a interposição do recurso. Diz que impugnou corretamente os fundamentos do acórdão recorrido. No mais, insiste nas teses expendidas anteriormente acerca da prescrição, da comissão de corretagem, dos juros de mora e do valor de retenção.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1.Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pelo agravante, devido à ausência de impugnação específica de todos os fundamentos da decisão denegatória de processamento do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento capaz de ilidir a conclusão da decisão agravada.
+Com efeito, da leitura do agravo em recurso especial, observa-se que de fato, naquela ocasião, o agravante não rebateu, de maneira consistente e específica, cada um dos óbices invocados na decisão denegatória de processamento do recurso especial, o fazendo apenas de forma genérica com relação à Súmula 83/STJ aplicada.
+Ressalte-se que a impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Nesse contexto, mostra-se correto o não conhecimento do agravo em recurso especial, haja vista que, em atenção ao princípio da dialeticidade, cumpre à parte agravante o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente de todos os fundamentos utilizados pelo Tribunal de origem para obstar o seguimento do recurso especial, o conhecimento do recurso é, de fato, inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, §1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Saliente-se, por oportuno, que as razões do agravo interno não se prestam a sanar a deficiência do agravo não conhecido. Nesse sentido: AgInt no AREsp 936.439/SP, 3ª Turma, DJe de 22/03/2017.
+A decisão agravada, portanto, merece ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
