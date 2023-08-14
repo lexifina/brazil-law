@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 173):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUTONOMIA E INDEPENDÊNCIA DAS BASES DE CÁLCULO DOS HONORÁRIOS. PROVEITO ECONÔMICO IMENSURÁVEL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que houve sucumbência recíproca, sendo adequada a condenação da verba honorária em percentual do proveito econômico. Incidência da Súmula 7/STJ.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. Agravo interno não provido.
+O embargante sustenta que o acórdão contém vício de omissão, aos seguintes argumentos: (a) as questões concernentes à ofensa aos arts. 85, caput, §§3º, 8º e 14, e 86, todos do CPC, não demandam reexame dos fatos e provas, sendo equivocada a incidência da Súmula 7/STJ; (b) inaplicabilidade da súmula 282 "eis que os pressupostos de admissibilidade foram devidamente preenchidos no que tange à tese relacionada à ofensa aos arts. 85, caput, §§3º, 8º e 14, e 86, do CPC, dispositivos esses devidamente prequestionados".
+Postula, assim, pelo conhecimento e provimento dos presentes aclaratórios, para que sejam sanadas as omissões e provido o apelo especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado decidiu a controvérsia relativa à sucumbência na fl. 176, assentando que, de acordo com a Corte de Origem "o recorrente restou vencido em parte, de forma que a condenação da verba honorária em percentual do proveito econômico estaria adequada".
+Desse modo, fez incidir a Súmula 7/STJ, ante a impossibilidade de revisão da conclusão sem a revisão do conteúdo fático-probatório. Para tanto, citou o seguinte trecho da decisão proferida pela Corte a quo na fl. 76 para subsidiar sua compreensão:
+" ..
+restou vencido em parte, especialmente em relação "o Distrito Federal é responsável principal no que à sua pretensão deduzida nos termos concerne ao período anterior e subsidiário período posterior a 1/7/2008", a qual não foi quanto ao acolhida, tendo a impugnação do DF prevalecido nesse particular." (id Num. 50758682 - Pág. 3 - proc. origem)
+Nesse sentido, a condenação do Agravante em percentual do proveito econômico como estabelecido na Decisão agravada mostra-se em consonância com as disposições legais pertinentes, não merecendo modificação.".
+Ademais, elucidou nas fls. e-STJ 177-178 tratar-se de hipótese de aplicação do óbice contido na Súmula 282/STF, uma vez que "a Corte de origem não se manifestou acerca da alegação de que as verbas honorárias da fase de cumprimento de sentença e as da impugnação seriam autônomas e independentes, tampouco sobre a ausência de proveito econômico mensurável ao recorrido, o que denota a falta de pronunciamento ou prequestionamento sobre as controvérsias suscitadas."
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+O embargante limitou-se a reiterar os argumentos trazidos no agravo interno.
+Desse modo, sob o pretexto de que há omissão no acórdão embargado, a embargante objetiva, por via transversa, alterar o resultado do julgado promovendo novo julgamento da causa, o que não se admite na via dos embargos de declaração.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SUSTENTAÇÃO ORAL EM AGRAVO EM RECURSO ESPECIAL. CLASSE NÃO INCLUÍDA NO ROL DE RECURSOS QUE A ADMITEM. ART. 159, IV, DO RISTJ E § 2º-B DO ART. 7º DA LEI N. 8.906/194, INCLUÍDO PELA LEI N. 14.365/2022. PRECEDENTES. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADADE. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS MODIFICATIVOS.
+1. Corretamente negado o pleito de sustentação oral requerido pela recorrente, nos termos do art. 159, IV, do RISTJ. Ressalte-se que a alteração promovida pela Lei 14.365/2022, que incluiu o § 2º-B no art. 7º da Lei n. 8.906/1994, não incluiu a classe Agravo em Recurso Especial no rol de recursos e ações que a admitem. Na mesma linha:
+EDcl no AgInt nos EDcl no AREsp n. 1.269.627/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 26/04/2023; EDcl no AgInt no AREsp n. 2.089.748/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/11/2022; EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe 28/6/2022; AgRg no AREsp n. 2.144.230/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022 e AgRg no ARE n. 1.381.324/SC, Ministro Luiz Fux, DJe 22.6.2022.
+2. Não há contradição no acórdão recorrido no ponto em que afastou a negativa de prestação jurisdicional e aplicou o óbice da Súmula nº 284 do STF em relação à alegação de ausência de manifestação quanto à prova pericial produzida nos autos, visto que, em relação a esse ponto, a recorrente não explicitou de forma clara de que maneira tal apreciação seria capaz de infirmar a conclusão do julgado, providência necessária para fins de cumprimento do princípio da dialeticidade e, também, porque somente se conhece de nulidade se demonstrado o prejuízo ou a importância da omissão não suprida para possível alteração das conclusões do julgado, sob pena de não conhecimento da alegação deficiente em razão do óbice da Súmula nº 284 do STF, como ocorreu na hipótese.
+3. A motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos. (EDcl no AgInt no AREsp n. 1.949.869/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023.) (grifei).
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. AUSÊNCIA DE VÍCIOS NO JULGADO. USURPAÇÃO DE COMPETÊNCIA DO STF. INEXISTÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. EMBARGOS REJEITADOS.
+1. Inexiste usurpação de competência do Supremo Tribunal Federal por parte do tribunal que nega seguimento a recurso extraordinário pela sistemática da repercussão geral (art. 543-A do CPC/1973 ou 1.030, I, "a", primeira parte, do CPC/2015), visto que este exerce, nessa restrita hipótese, competência própria. Exegese da Questão de Ordem no AI 760.358/SE, Rel. Ministro Gilmar Mendes, DJe de 19/2/2010.
+Precedentes do STF.
+2. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+3. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretendem os embargantes.
+4. Embargos de declaração rejeitados. (EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.539.387/RS, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 12/2/2019, DJe de 14/2/2019.) (grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Consoante jurisprudência consolidada desta Corte Superior de Justiça, a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.829.832/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.) (grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que o embargante repisa as razões do recurso especial, relacionadas à suposta violação dos art. 131, 475, 515 e 535, II, do CPC/1973, 1.228, §§ 4º e 5º, do Código Civil e 10 da Lei n. 10.257/2001.
+3. O acórdão embargado, após descrever a cronologia dos acontecimentos relativos à presente demanda, com base nos fatos incontroversos e devidamente delineados na origem, manifestou-se sobre todas as alegações do Estado do Acre, apresentando fundamentos suficientes e claros para rejeitar as preliminares suscitadas e as teses acerca da desapropriação judicial ou pro labore.
+4. In casu, a irresignação não objetiva a correção de eventual vício no aresto impugnado, mas sim o rejulgamento do recurso, com base em argumentos que demandam o reexame do contexto fático-probatório da lide, sendo nítido o caráter infringente dos declaratórios.
+5. Embargos de declaração rejeitados. (EDcl no REsp 1442440/AC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/03/2019, DJe 09/04/2019) (grifei)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
