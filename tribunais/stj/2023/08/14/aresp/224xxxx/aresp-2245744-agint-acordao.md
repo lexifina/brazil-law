@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Campo Verde Empreendimento Imobiliário Ltda. e FTA Desenvolvimento Imobiliário S.A. interpuseram recurso especial contra os acórdãos de fls. 13-16 e 31-35 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AGRAVO DE INSTRUMENTO. Ação de Rescisão contratual. Cumprimento de sentença, sem pagamento voluntário. Custas finais a cargo do executado. Prestação de serviços judiciais. Aplicação do princípio da causalidade. Decisão mantida. Recurso improvido.
+Embargos de Declaração. Inexistência de vícios. Mero inconformismo da parte embargante que não merece acolhimento por esta estreita via. Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 18-22), apontaram as insurgentes a existência de violação do art. 1.022, II, do CPC/2015 e 77 do CTN. Sustentaram, em síntese: i) ocorrência de negativa de prestação jurisdicional (omissão sobre a alegada inexistência de fato gerador das custas finais); e ii) descabimento de custas judiciais no cumprimento de sentença.
+Não constam dos autos contrarrazões.
+A Corte de origem deixou de admitir o recurso ao argumento de não ocorrência de negativa de prestação jurisdicional.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 55-56 (e-STJ), a Presidência do Superior Tribunal de Justiça dele não conheceu, concluindo pela falta de impugnação do fundamento da decisão que inadmitiu o recurso na origem.
+Manejado o agravo interno de fls. 59-61 (e-STJ), em juízo de retratação, este signatário conheceu do agravo para conhecer do recurso especial e negar-lhe provimento (e-STJ, fls. 70-72).
+Daí sobreveio este novo agravo interno (e-STJ, fls. 75-78), no qual persistem as agravantes na tese de negativa de prestação jurisdicional, bem como defendem o descabimento das custas finais no cumprimento de sentença.
+Sem impugnação (e-STJ, fl. 82-83).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA . INCIDÊNCIA DAS CUSTAS FINAIS NO CUMPRIMENTO DE SENTENÇA. QUESTÃO DIRIMIDA À LUZ DA LEGISLAÇÃO ESTADUAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 280/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme trecho do acórdão recorrido colacionado na decisão monocrática, o Tribunal local se manifestou satisfatoriamente sobre o ponto da lide considerado omitido. Logo, sem razão as agravantes quando persistem na tese de negativa de prestação jurisdicional por parte da Corte de origem.
+2. Incidência das custas finais na fase de cumprimento de sentença que foi reconhecida pelo acórdão recorrido com base na interpretação da legislação estadual de regência, não sendo admissível a interposição de recurso especial para questionar tal decisão, a teor da Súmula n. 280/STF, aplicável por analogia.
+3. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo desprovimento do recurso especial, uma vez não constatada a alegada negativa de prestação jurisdicional por parte do Tribunal de origem.
+Veja-se às fls. 71-72 (e-STJ):
+Defenderam as recorrentes a ocorrência de negativa de prestação jurisdicional. Alegaram que o Tribunal de origem foi omisso quanto ao seu argumento de ausência de fato gerador a justificar a cobrança de custas finais. Todavia, observa-se que o Tribunal local se manifestou satisfatoriamente sobre tal questão.
+Veja-se às fls. 15-16 (e-STJ):
+O recurso não comporta acolhimento, adianta-se. Consta dos autos que os exequentes deram início ao cumprimento de sentença, para cobrança da importância de R$ 50.883,73. Intimado o executado efetuou o depósito (fls.162). O feito foi sentenciado, com determinação, ao final, para recolhimento de eventuais custas em aberto (fls. 167). Posteriormente, deferiu a expedição de guia e que se aguardasse o recolhimento das custas finais (fls. 177). Na sequência, a executada ofereceu embargos de declaração (fls. 178/179). Sobreveio a decisão agravada, do seguinte teor: "Fls. 178/179: não cabem embargos de declaração contra ato ordinatório feito pelo cartório, mas vou apreciara petição. Execução iniciada com a decisão de fls. 159. O artigo 4º, inciso III da lei 11.608/2003 é claro ao afirmar que é devida a taxa judiciária quando satisfeita a execução, como no presente caso. Aqui, houve o início do cumprimento de sentença, portanto, as custas finais são devidas. Não existiu pagamento espontâneo logo após o trânsito da fase de conhecimento. Aguarde-se o prazo concedido para pagamento." (fls. 183) Pois bem. O artigo 4º, inciso III, da Lei 11.608/2.003, estabelece a obrigatoriedade de recolhimento de custas finais ao ser satisfeita a execução, momento em que nasce o fato gerador da obrigação tributária. Nesse contexto, à vista do princípio da causalidade, tem-se que a responsabilidade atinente ao pagamento da referida taxa judiciária cabe àquele que deu causa à demanda. E isso porque, para que o agravado pudesse receber o seu crédito, necessitou promover o cumprimento de sentença em razão da ausência de pagamento espontâneo do devedor. Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao agravo.
+Assim, não assiste razão às recorrentes, quando defendem a ocorrência de negativa de prestação jurisdicional, porquanto a questão relativa à alegada inexistência de fato gerador das custas finais foi apreciada pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+Ante o exposto, em juízo de retratação da decisão de fls. 55-56 (e-STJ), conheço do agravo para conhecer do recurso especial e nego-lhe provimento.
+Na presente insurgência, persistem as agravantes na tese de negativa de prestação jurisdicional por parte do Tribunal de origem, bem como defendem o descabimento das custas finais no cumprimento de sentença.
+Conforme trecho do acórdão colacionado na decisão monocrática, o Tribunal local se manifestou satisfatoriamente sobre o ponto da lide considerado omitido (ausência de fato gerador a justificar a cobrança de custas finais). Logo, sem razão as insurgentes quando insistem nessa alegação.
+Referente ao pretextado descabimento das custas finais no cumprimento de sentença, o recurso especial é manifestamente inadmissível.
+Sobre essa questão, a decisão de primeiro grau foi mantida pelo tribunal estadual com base na seguinte fundamentação (e-STJ, fl. 16):
+O artigo 4º, inciso III, da Lei 11.608/2.003, estabelece a obrigatoriedade de recolhimento de custas finais ao ser satisfeita a execução, momento em que nasce o fato gerador da obrigação tributária.
+Nesse contexto, à vista do princípio da causalidade, tem-se que a responsabilidade atinente ao pagamento da referida taxa judiciária cabe àquele que deu causa à demanda.
+E isso porque, para que o agravado pudesse receber o seu crédito, necessitou promover o cumprimento de sentença em razão da ausência de pagamento espontâneo do devedor.
+Do que se depreende desse excerto, a responsabilidade das agravantes pelo pagamento das custas finais foi extraída da interpretação conferida pelas instâncias ordinárias à Lei n. 11.608/2003 do Estado de São Paulo.
+Assim, eventual violação de texto normativo, no caso sob exame, somente poderia estar relacionada à legislação estadual invocada pelo acórdão recorrido em suas razões de decidir, matéria essa estranha às hipóteses de cabimento do recurso especial, conforme entendimento consolidado na Súmula n. 280/STF, aplicável por analogia: "por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
