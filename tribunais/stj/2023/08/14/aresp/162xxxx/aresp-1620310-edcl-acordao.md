@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de segundos embargos de declaração opostos por MEDITERRÂNEA DISTRIBUIDORA DE BEBIDAS LTDA. - EM RECUPERAÇÃO JUDICIAL - e ATLÂNTICA NEWS DISTRIBUIDORA DE BEBIDAS LTDA. - EM RECUPERAÇÃO JUDICIAL - ao acórdão proferido pela Terceira Turma desta Corte nos termos da seguinte ementa (e-STJ, fl. 1.622):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É necessário que a justificativa para a retirada do processo do ambiente virtual seja contundente, demonstrando a existência de prejuízo, o que não ocorreu no presente caso.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+4. Embargos de declaração rejeitados.
+Em suas razões (e-STJ, fls. 1.633-1.644), as embargantes renovam a argumentação anteriormente deduzida no sentido de ter omissão no julgado quanto à fundamentação apresentada atinente ao pedido de retirada do feito da pauta virtual de julgamento.
+Ressaltam que "todo e qualquer julgamento em Sessão Virtual, nos moldes que estão sendo adotados pelo Superior Tribunal de Justiça, é, em si mesmo, nulo" (e-STJ, fl. 1.638), aduzindo que houve reiteração de vício de procedimento com a submissão dos primeiros embargos de declaração à sessão virtual.
+Ponderam que os julgamentos do agravo interno e embargos de declaração não observaram a garantia do art. 93, IX, da Constituição Federal, por ausência da publicidade durante a sua realização, apontando violação aos princípios do devido processo legal, contraditório e ampla defesa.
+Foi apresentada impugnação ao recurso (e-STJ, fls. 1.649-1.653), na qual a parte embargada postula a aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE VÍCIOS NO JULGADO. CARÁTER PROTELATÓRIO. MULTA. CABIMENTO. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, § 2º, do CPC/2015.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Consoante assinalado no acórdão embargado, "a oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, o que não se verificou no caso" (EDcl no AgInt no AREsp n. 2.120.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022).
+Nessa linha, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO VIRTUAL. OPOSIÇÃO. JUSTIFICATIVA. AUSÊNCIA. PROCESSUAL CIVIL. BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. CONSTITUIÇÃO EM MORA. ENTREGA NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O art. 184-D, II, do Regimento Interno do Superior Tribunal de Justiça estabelece que a oposição ao julgamento virtual deve ser apresentada de forma fundamentada, o que não ocorreu no caso dos autos.
+3. Na hipótese, acolher a pretensão recursal para afirmar que a notificação foi efetivamente entregue no domicílio do devedor demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita (Súmula nº 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.964.323/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. PRESCRIÇÃO. INTERRUPÇÃO. AJUIZAMENTO ANTERIOR DE AÇÃO DE PRESTAÇÃO DE CONTAS. CITAÇÃO REALIZADA. SÚMULA 83/STJ. OPOSIÇÃO AO JULGAMENTO VIRTUAL. AUSÊNCIA DE ARGUMENTAÇÃO IDÔNEA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que "a citação válida promovida em anterior ação de prestação de contas, no prazo e na forma da lei processual, ainda que extinta sem resolução de mérito, é suficiente para interromper a prescrição para o ajuizamento de ação de revisão de cláusulas contratuais referente ao mesmo contrato" (AgInt no AREsp 1.727.721/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2021, DJe de 28/04/2021).
+2. "Segundo a jurisprudência desta Corte Superior, a oposição ao julgamento virtual deve ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, ônus do qual não se desincumbiu o ora agravante" (AgInt nos EDcl no AREsp 1.869.072/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe de 03/03/2022).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.986.058/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO FORA DA REDE CREDENCIADA. AUSÊNCIA DE COBERTURA. INEXISTÊNCIA DE URGÊNCIA/EMERGÊNCIA. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. JULGAMENTO VIRTUAL NA ORIGEM. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO. NULIDADE. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso, entendeu o Tribunal de origem que o atendimento realizado fora da rede credenciada não devia ser custeado pelas recorridas, uma vez que inexistiria situação de urgência ou emergência que o justificasse. Alterar esse entendimento demandaria o reexame dos fatos e das provas, vedado em recurso especial, ante o óbice da mencionada súmula.
+3. Constata-se que o entendimento adotado pelo Tribunal de origem concorda com a jurisprudência do STJ, de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1459849/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 17/12/2020).
+4. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado, sequer implicitamente, pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+5. Ademais, inexistente a suposta nulidade em razão do julgamento virtual do feito na origem, pois a mera oposição da parte não é suficiente para impedir essa forma de sessão, devendo ser demonstrado o prejuízo, o que, segundo afirmado pela Corte de origem, não ocorreu.
+6. Nesse sentido, o entendimento da Justiça local concorda com a orientação desta Corte Superior, segundo a qual, " ..  é necessário que a justificativa para a retirada do processo do ambiente virtual seja contundente, demonstrando a existência de prejuízo" (EDcl nos EDcl na Rcl 34.880/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/09/2021, DJe 21/10/2021).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.826.593/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Na hipótese dos autos, o acórdão embargado resolveu satisfatoriamente o agravo interno, sem incorrer em nenhum dos vícios de contradição, obscuridade ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Ressalte-se que não foi apresentada justificativa plausível para a retirada do processo do ambiente virtual, além de não ter sido demonstrado prejuízo às partes, levando-se em conta que o Regimen to Interno do Superior Tribunal de Justiça permite que os advogados apresentem memoriais a fim de esclarecer quaisquer questões de fato e de direito que reputem relevantes.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. AGRAVO INTERNO. SESSÃO DE JULGAMENTO VIRTUAL. EMENDA 27/2016 DO RISTJ. PRETENSÃO RECURSAL QUE NÃO ADMITE SUSTENTAÇÃO ORAL POR ADVOGADO. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. ARGUMENTAÇÃO GENÉRICA. DECISÃO AGRAVADA NÃO ATACADA ESPECIFICAMENTE. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. As normas regimentais do STJ regulamentam o procedimento para julgamento virtual, garantindo o respeito ao contraditório e à ampla defesa nos julgamentos eletrônicos. Asseguram, inclusive, a possibilidade de os advogados das partes apresentarem memoriais que auxiliem no esclarecimento das questões de fato e de direito que emergem do caso concreto.
+2. A argumentação de que tem interesse em participar ativamente do julgamento, inclusive fazendo esclarecimentos de fato, não é suficiente à retirada do feito da pauta de julgamentos virtuais.
+(..).
+9. Agravo Interno não conhecido. (AgInt nos EAREsp n. 369.513/GO, Relator o Ministro Herman Benjamin, Corte Especial, DJe de 26/6/2019)
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Com efeito, tendo em vista que as embargantes simplesmente reiteram tese recursal já exaustivamente examinada e inequivocamente descabida, a revelar o caráter protelatório dos embargos, impõe-se a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC. OMISSÃO NÃO CONSTATADA. EMBARGOS PROTELATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Decidida a questão em sede de decisão monocrática e agravo interno, o segundo recurso manejado com o propósito de rediscutir a matéria ostenta nítido caráter protelatório, circunstância apta a ensejar a multa de 1% sobre o valor corrigido da causa (1.026, § 2º, do Código de Processo Civil).4. Embargos declaratórios rejeitados com aplicação de multa.
+(EDcl no AgInt no REsp n. 1.941.896/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. MULTA. EMBARGOS PROTELATÓRIOS. APLICAÇÃO.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, §2º, do CPC/2015.
+3. Embargos de declaração rejeitados, com apl icação de multa.
+(EDcl nos EDcl no AgInt no AREsp n. 1.922.180/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 16/2/2022.)
+Diante dessas considerações, rejeito os embargos de declaração e condeno as embargantes ao pagamento de multa à parte embargada, no percentual de 2% sobre o valor atribuído à causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 4º, do CPC/2015.
+É como voto.
