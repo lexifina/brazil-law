@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S/A contra decisão proferida pela Ministra Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial ante a ausência da dialeticidade recursal.
+Nas razões do agravo interno, sustenta a agravante a reconsideração da decisão, alegando para tanto que impugnou os fundamentos adotados na decisão denegatória do recurso especial.
+O prazo para impugnação do presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE INDIVIDUAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. SITUAÇÃO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. INAPLICABILIDADE. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, em decorrência da dialeticidade recursal apta ao conhecimento do agravo em recurso especial.
+2. Nos termos da jurisprudência desta Corte,  a cláusula contratual que estabelece prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência  (AgInt no REsp 1.815.543/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/10/2019, DJe de 06/11/2019).
+3. Ademais, "a jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp 1.838.679/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe de 25/03/2020). Incidência da Súmula 83/STJ.
+4. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A questão recursal a ser revisitada diz respeito à dialeticidade recursal, apta ao conhecimento do agravo em recurso especial.
+No presente caso, a decisão denegatória do recurso especial, proferida pelo Presidente do Tribunal de Justiça do Estado de Alagoas, mostra-se fundamentada na Súmula 7/STJ. Por sua vez, da releitura da petição do agravo em recurso especial, é possível afirmar que a parte agravante impugnou especificamente esse fundamento, razão pela qual a decisão ora agravada merece ser reconsiderada.
+Adentra-se o mérito recursal.
+O recurso especial desafia acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO DE INTERNAÇÃO DE PACIENTE PROVENIENTE DE ATENDIMENTO EMERGENCIAL. ALEGAÇÃO DE PERÍODO CARÊNCIA CONTRATUAL PARA INTERNAÇÃO. AFASTADA. SITUAÇÃO DE EMERGÊNCIA QUE JUSTIFICA A AUTORIZAÇÃO DE INTERNAMENTO. PRECEDENTES JURISPRUDENCIAIS. EMERGÊNCIA COMPROVADA. ILICITUDE DA NEGATIVA. PACIENTE TRANSFERIDO AO HOSPITAL GERAL DO ESTADO. MANUTENÇÃO DA CONDENAÇÃO POR DANO MORAL NO IMPORTE DE R$ 10.000,00 (DEZ MIL REAIS). ACERTO DOS CONSECTÁRIOS LÓGICOS. FIXAÇÃO DE MULTA DIÁRIA COMINATÓRIA POR DESCUMPRIMENTO EM DECISÃO LIMINAR. AUSÊNCIA DE CUMPRIMENTO DO COMANDO JUDICIAL. ADEQUAÇÃO DO QUANTO POSTO EM SENTENÇA. MANUTENÇÃO DO JULGADO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência ao art. 12, V, b, da Lei 9.656/98, art. 54, § 4º, da Lei 8.078/90, art. 188 do Código Civil, na medida em que não pode ser compelida à cobertura avessa ao contrato de assistência à saúde firmado com a parte recorrida, a qual ainda não tinha completado o período de carência. Assim, sua conduta não pode ser tida como ilícita.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+Com efeito, a questão recursal gira em torno da não prestação de serviço por parte da operadora de plano de saúde individual.
+O recurso especial tem origem em ação de obrigação de fazer cumulada com indenização por danos morais, cujo pedido foi julgado procedente.
+Acerca da questão recursal, o Tribunal a quo manteve a condenação imposta pela sentença, com base nos seguintes fundamentos:
+11. Com efeito, constata-se que o cerne do litígio envolve a negativa de autorização para internação hospitalar, realizada pelo plano de saúde, ante o encaminhamento médico que diagnosticou, em atendimento de urgência, o acometimento de mínimo derrame pericárdico, sem repercussão hemodinâmica e presença de derrame pleural à esquerda do autor/apelado.
+12. Em conformidade com o acima relatado, o plano de saúde recorrente negou a internação do autor/apelado em hospital credenciado sob a argumentação de ausência de cumprimento do prazo de carência estipulado contratualmente, o que ocasionou o encaminhamento do paciente ao Hospital Geral do Estado.
+13. Pois bem. Em que pese a alegação de configuração de carência, fato apontado como impeditivo à autorização de internação, observa-se pela documentação acostada aos autos (fls. 14-17 e 36-39) que o paciente fora acometido por derrames cardíaco e pleural, o que caracteriza enfermidade que necessita de atendimento emergencial, merecendo obter não somente o pronto atendimento, mas também a internação necessária em decorrência da emergência, nos termos prescritos no art. 35-C, I da Lei nº 9.656/98.
+Depreende-se do trecho supratranscrito que o paciente se encontrava em situação de emergência, caso em que não se exige carência por parte do plano de saúde.
+Deveras, o Superior Tribunal de Justiça tem entendimento firme de que a cláusula de carência do contrato de plano de saúde deve ser mitigada em virtude de situações emergenciais graves, porquanto o valor da vida humana se sobrepõe a qualquer outro interesse.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMERGÊNCIA. CLÁUSULA DE CARÊNCIA. MITIGAÇÃO. POSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O Superior Tribunal de Justiça tem entendimento firme no sentido de que a cláusula de carência do contrato de plano de saúde deve ser mitigada em virtude de situações emergenciais graves, porquanto o valor da vida humana se sobrepõe a qualquer outro interesse.
+3. Não é possível a esta Corte Superior apreciar o entendimento exarado na origem, pois teria que, necessariamente, rever o contexto fático-probatório dos autos e o contrato firmado pelas partes, procedimentos inviáveis nesta via extraordinária, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 2077299/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/5/2023, DJe de 19/5/2023)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PERÍODO DE CARÊNCIA. PROCEDIMENTO DE EMERGÊNCIA. ILEGALIDADE. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL. DESNECESSIDADE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 7 E 597 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. O Tribunal de origem entendeu que a parte ora recorrida comprovou o caráter emergencial do atendimento postulado, sendo viável o julgamento antecipado da lide e desnecessária a prova pericial.
+Alterar esse entendimento, sobretudo para averiguar a imprescindibilidade da perícia e a natureza eletiva do procedimento requerido, demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. "Nos termos da jurisprudência desta Corte Superior, embora permitida a estipulação de prazo de carência no contrato de plano de saúde, este não pode obstar a cobertura em casos de emergência ou urgência" (AgInt no AREsp n. 2.068.474/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/10/2022, DJe de 6/10/2022).
+5. De fato, "a cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica na situação de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (SÚMULA 597, SEGUNDA SEÇÃO, julgado em 08/11/2017, DJe 20/11/2017).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2218627/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/4/2023, DJe de 20/4/2023)
+AGRAVO IN TERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CASO DE URGÊNCIA/EMERGÊNCIA. RECUSA. NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA PARA ATENDIMENTO EMERGENCIAL. 24 HORAS. LIMITAÇÃO DA INTERNAÇÃO POR 12 HORAS. CARÁTER ABUSIVO. SÚMULAS N. 302 E 597 DO STJ. NEGATIVA INDEVIDA. OBRIGATORIEDADE DE ATENDIMENTO. DANO MORAL. CONFIGURAÇÃO. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. REVISÃO. NÃO CABIMENTO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ASTREINTES. IMPOSIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ARTS. 412 E 413 DO CC. MERA INDICA ÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+2. É abusiva a cláusula contratual que, em casos de urgência ou emergência, limita o período de internação ao período de 12 horas ou prevê carência para utilização dos serviços de assistência médica após ultrapassado o prazo máximo de 24 horas da contratação, conforme disposto nas Súmulas n. 302 e 597 do STJ.
+3. Havendo, em razão do período de carência estipulado no contrato, a indevida recusa de atendimento pela operadora do plano de saúde em caso de urgência ou emergência, é cabível a indenização por danos morais.
+4. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+5. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+6. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+7. Agravo interno desprovido.
+(AgInt no REsp 1858967/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 17/4/2023, DJe de 19/4/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO DE URGÊNCIA/EMERGÊNCIA. CARÊNCIA NÃO APLICÁVEL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. A jurisprudência do STJ firmou o entendimento de que "a cláusula do prazo de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde não prevalece quando se revela circunstância excepcional, constituída por necessidade de tratamento necessário em caso de emergência ou de urgência" (AgInt no AREsp 1153702/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 3/12/2018, DJe 5/12/2018).
+2. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência pacífica do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2163872/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/3/2023, DJe de 23/3/2023)
+Dessa forma, o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, dou provimento ao agravo interno, para reconsiderar a decisão agravada e, em novo julgamento, conheço do agravo para negar provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, § 11, do CPC/2015, majoro os honorários de advogado em mais 2%.
+É como voto.
