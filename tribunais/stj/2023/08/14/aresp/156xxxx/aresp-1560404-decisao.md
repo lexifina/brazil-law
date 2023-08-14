@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Maceió, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 170):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IRRESIGNAÇÃO DA DEFENSORIA PÚBLICA ESTADUAL EM RAZÃO DO NÃO ARBITRAMENTO DE VERBA ADVOCATÍCIA EM SEU FAVOR.
+PRETENSÃO DE FIXAÇÃO EM 20% (VINTE POR CENTO) DO VALOR DA CAUSA. CABIMENTO, NOS TERMOS DA LEGISLAÇÃO DE REGÊNCIA, E DOS PRECEDENTES JURISPRUDENCIAIS, DA FIXAÇÃO DA REFERIDA VERBA EM DESFAVOR DE ENTES PÚBLICOS. HONORÁRIOS DEVIDOS, PORÉM ARBITRADOS EM R$550,00 (QUINHENTOS E CINQUENTA REAIS) APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Inconformada, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa aos arts. 20, § 4º, do CPC/73 (85, §§ 2º e 8º, do CPC/15). Para tanto, alega que "os defensores públicos já são remunerados pelo Estado para desenvolver o seu trabalho em favor da população carente, de forma que a pretensa elevação da verba honorária é totalmente infundada e representaria uma injusta oneração aos cofres públicos, além de um enriquecimento sem justa causa em favor do Estado de Alagoas, único ente direta e indiretamente beneficiado" (fl. 197). Aduz, ainda, que é incabível, na ação civil pública, a condenação do em honorários advocatícios.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+D  e acordo com a jurisprudência desta Corte Superior, "nos termos do art. 18 da Lei 7.347/85, não há condenação em honorários advocatícios na ação civil pública, salvo em caso de comprovada má-fé. Referido entendimento deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da ação civil pública -, quanto para o réu, em obediência ao princípio da simetria" (AgInt no AREsp n. 1.462.912/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2019, DJe de 16/9/2019).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. O Tribunal de origem, na hipótese dos autos, concluiu pela possibilidade de condenação do município ao pagamento dos honorários advocatícios à Defensoria Pública Estadual, porquanto são pessoas jurídicas distintas.
+2. Tal compreensão, todavia, não está em consonância com a jurisprudência do STJ firmada no sentido de que, nos termos do art. 18 da Lei 7.347/1985, não há condenação em honorários advocatícios na Ação Civil Pública, salvo em caso de comprovada má-fé. O referido entendimento é aplicado tanto para o autor quanto para o requerido, em obediência ao princípio da simetria. Precedentes do STJ: AgInt no REsp 1.648.761/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/8/2018; AgInt no AREsp 996.192/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 30/8/2017; AgInt no REsp 1.531.504/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 21/9/2016; REsp 1.358.057/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2018.
+3. Recurso Especial provido.
+(REsp n. 1.806.060/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/8/2019, DJe de 13/9/2019.)
+No caso concreto, o Tribunal a quo asseverou (fl. 179):
+Acresça-se que, mesmo em se tratando o feito originário de Ação Civil Pública, resta sedimentado o entendimento da Corte Superior no sentido de que em ações dessa natureza a dispensa aos honorários de sucumbência aplica-se apenas quando a parte autora decair em seus pedidos.
+Nesse contexto, resta patente que o acórdão recorrido diverge da jurisprudência deste Superior Tribunal de Justiça, razão pela qual não merece subsistir.
+Em acréscimo, vale ressaltar que esta Corte Superior tem asseverado que, mesmo após a vigência do novo CPC, prevalece o regramento da Lei n. 7.347/85 para a fixação de honorários advocatícios em ação civil pública, em razão do princípio da especialidade.
+Nessa linha de raciocínio:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DE HONORÁRIOS PERICIAIS EM AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE DO ESTADO A QUE ESTIVER VINCULADO O MINISTÉRIO PÚBLICO AUTOR DA AÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 232/STJ. INAPLICABILIDADE DO ART. 91 DO CPC/2015. PRINCÍPIO DA ESPECIALIDADE. PRECEDENTES DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de exigir do Ministério Público o adiantamento de honorários periciais em Ação Civil Pública, aplicando-se, por analogia a Súmula 232/STJ, de modo que cabe a Fazenda Pública à qual o Parquet está vinculado arcar com tal despesa.
+2. Tanto a Primeira quanto a Segunda Turma do Superior Tribunal de Justiça entendem que o art. 18 da Lei 7.347/1985 prepondera sobre o disposto no art. 91 do CPC/2015, por ser aquela norma especial.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.893.469/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+ANTE O EXPOSTO, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação acima.
+Publique-se.
