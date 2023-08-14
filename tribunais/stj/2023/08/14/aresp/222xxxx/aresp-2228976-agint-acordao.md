@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  RIAD  MERHEJ  contra  decisão  monocrática  de  relatoria  da  Presidência  do  STJ,  por  meio  da  qual  não  conheceu  do  recurso  especial,  por  incidência  da  Súmula  n.  187/S TJ  (fls.  1.026-1.027).
+Extrai-se  dos  autos  que  o  recurso  especial  foi  interposto,  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  assim  ementado  (fl.  823):
+SUCESSÕES.  AÇÃO  DE  ABERTURA,  REGISTRO  E  CUMPRIMENTO  DE  TESTAMENTO.  TESTAMENTONUNCUPATIVO.  SUPOSTA  LAVRATURA  DO  ATO  DEMANEIRA  ORAL,  NA  PRESENÇA  DE  TESTEMUNHAS.  ALEGAÇÃO  DO  AUTOR  DE  QUE  ERA  INVIÁVEL  À  FALECIDA  EFETUAR  O  TESTAMENTO  POR  ESCRITO,UMA  VEZ  QUE  SE  ACHAVA  INTERNADA  EM  UTI  POR  HAVER  CONTRAÍDO  FORMA  GRAVE  DECOVID-19.  DESCABIMENTO.  INEXISTÊNCIA  DOSPRESSUPOSTOSLEGAIS.  TESTAMENTONUNCUPATIVO  QUE  SE  ADMITE  DE  MANEIRAAPENAS  EXCEPCIONALÍSSIMA,  ACHANDO-SE  O  AUTOR  DA  HERANÇA  A  SERVIÇO  DAS  FORÇASARMADAS,EMPENHADOEM  COMBATEOUFERIDO.  SITUAÇÃO  QUE,  NEM  DE  LONGE,  SE  ASSEMELHAVA  À  DA  "DE  CUJUS".  FALECIDA  QUE,SE  DEFATOASSIM  DESEJASSE,PODERIAPERFEITAMENTETERLAVRADO  O  ATODEDISPOSIÇÃO  DE  ÚLTIMA  VONTADE  DE  MANEIRAESCRITA,  AINDA  QUE  LANÇADO  DE  PRÓPRIOPUNHO.  AUSÊNCIA,POIS,  DEINTERESSEPROCESSUALDOAUTOR,DADA  A  CABALINEXISTÊNCIA  DE  TESTAMENTO  A  REGISTRAR  E  CUMPRIR.  CARÊNCIA  DA  AÇÃO  RECONHECIDA  DEOFÍCIO.  PROCESSO  EXTINTO,  SEM  RESOLUÇÃO  DOMÉRITO  (ART.  485,  INC.  VI,  DO  CPC).  RECURSOPREJUDICADO.
+Nas  razões  do  presente  agravo  interno,  a  parte  agravante  alega , em síntese,  o  seguinte  (fls.  527-543):
+Todavia,  coma  devida  venia,  ao  contrário  do  que  foi  alegado  na  r.  decisão  ora  recorrida,  as  custas  foram  devidamente  recorridas,  o  que  foi  explicado  e  demonstrado  às  fls.  887/888,  e  o  Tribunal,  na  realidade,  proferiu  outra  decisão,  intimando  o  Agravante  tão  somente  para  juntar  o  comprovante  de  pagamento,  o  que  foi  realizado:
+ ..
+Note-se  que  o  r.  despacho  que  antecedeu  a  inadmissão  do  recurso  questionando  sobre  a  falta  do  recolhimento  é  datado  de  11/01/2022,  ou  seja,  quando  do  despacho,  a  guia  já  estava  paga.
+Desse  modo,  o  Recorrente  asseverou  que  o  pagamento  já  havia  sido  efetuado  anteriormente,  e  que  não  se  tratava  de  um  mero  agendamento  sem  a  quitação  da  guia,  cumprindo  a  determinação  e  anexando  o  respectivo  comprovante.
+Pugna,  por  fim,  caso  não  seja  reconsiderada  a  decisão  agravada,  pela  submissão  do  presente  agravo  à  apreciação  da  Turma.
+Foram  apresentadas  contrarrazões  (fls.  1.0404-1.053).
+Parecer  do  Ministério  Público  Federal  manifestando-se  pelo  desprovimento  do  agravo  interno,  mantendo-se  a  decisão  de  não  conhecimento  do  agravo  em  recurso  especial  (fls.  1.067-1.070).
+É,  no  essencial,  o  relatório.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM RECURSO  ESPECIAL.  PREPARO.  JUNTADA  TARDIA  DO  COMPROVANTE.  IMPOSSIBILIDADE.  FUNDAMENTO  NÃO  IMPUGNADO.  INCIDÊNCIA  DA  SÚMULA  N.  182/STJ.
+O  agravo  interno  não  merece  conhecimento,  porquanto  o  fundamento utilizado  na  decisão  recorrida  para  não  conhecer  do  recurso  especial  não  foi  objeto  de  impugnação  específica  no  recurso  interno,  inviabilizando  o  seu  conhecimento.  Incidência  da  Súmula  n.  182/STJ.  Precedentes.
+Agravo  interno  não  conhecido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+A  irresignação  não  merece  conhecimento.
+A  decisão  agravada  possui  os  seguintes  fundamentos:
+Mediante  análise  do  recurso  de  RIAD  MERHEJ,  foi  colacionado  aos  autos  apenas  o  comprovante  de  agendamento  do  preparo,  não  tendo  sido  juntado  o  comprovante  do  efetivo  pagamento.  Portanto,  não  se  pode  considerar  efetuado  o  pagamento  se  o  próprio  documento  "traz  em  si  a  advertência  de  que  não  representa  a  efetiva  quitação  da  transação".  (AgInt  no  AREsp  1143559/SP,  relator  Ministro  Sérgio  Kukina,  Primeira  Turma,  DJe  de  7/3/2018).
+Nos  termos  da  Lei  n.  11.636/2007,  são  devidas  custas  judiciais  e  porte  de  remessa  e  retorno  dos  autos  nos  processos  de  competência  recursal  do  Superior  Tribunal  de  Justiça.  O  parágrafo  único  do  art.  10  da  referida  lei  ordinária  dispõe  que  nenhum  recurso  subirá  ao  Superior  Tribunal  de  Justiça,  excetuados  os  casos  de  isenção,  sem  a  juntada  aos  autos  do  comprovante  de  recolhimento  do  preparo.
+Assim,  mero  comprovante  de  agendamento  do  preparo  não  serve  para  a  comprovação  da  quitação  da  obrigação  do  recorrente,  resultando  na  deserção  do  recurso  especial.  Nesse  sentido,  confiram-se  os  seguintes  precedentes:  AgInt  no  AREsp  1623099/SP,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  DJe  de  3/8/2020;  AgInt  no  AREsp  1534909/PE,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  17/3/2020;  e  AgInt  no  AREsp  1497996/SP,  relator  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  de  10/2/2020.
+Ademais,  percebeu-se,  no  Tribunal  de  origem,  haver  irregularidade  no  recolhimento  do  preparo.  A  parte,  embora  regularmente  intimada  para  sanar  referido  vício,  não  regularizou.
+Acrescentou-se,  ainda,  o  seguinte  fundamento:
+Veja  que  intimada  para  regularizar  o  preparo  em  28/1/2022  (fl.  884),  a  parte  só  se  manifestou  em  7/2/2022  (fls.  887/888),  fora  do  prazo  legal  de  5  (cinco)  dias.
+Verifica-se  que  a  parte  agravante  limitou-se  a  afirmar  que  "por  engano,  havia  nos  autos  apenas  o  comprovante  do  agendamento,  incorreção  que  foi  sanada  com  a  juntada  do  comprovante  do  pagamento,  que  foi  compensado  em  novembro  de  2021,  isto  é,  bem  antes  da  determinação",  nada  trazendo  quanto  à  comprovação  tardia,  ou  seja,  fora  do  prazo  legal  de  5  (cinco)  dias.
+Com  efeito,  "nos  termos  da  jurisprudência  desta  Corte  Superior,  a  comprovação  do  recolhimento  do  preparo  deve  ocorrer  no  momento  da  interposição  do  apelo  especial  ou  dentro  do  prazo  assinalado  para  a  sua  regularização,  não  sendo  cabível  a  posterior  juntada  do  comprovante,  em  razão  da  preclusão  consumativa "  (AgInt  no  AREsp  n.  2.247.703/AM,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  22/5/2023,  DJe  de  24/5/2023  -  sem  grifo  no  original).
+Ressalte-se  que,  em  atenção  ao  princípio  da  dialeticidade  recursal,  a  impugnação  deve  ser  realizada  de  forma  efetiva,  concreta  e  pormenorizada,  não  sendo  suficientes  alegações  genéricas  ou  relativas  ao  mérito  da  controvérsia,  sob  pena  de  incidência,  por  analogia,  da  Súmula  n.  182  do  STJ.
+Nesse  sentido,  confiram-se  precedentes:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA  NÃO  IMPUGNADOS.  RECURSO  MANIFESTAMENTE  INADMISSÍVEL.  AGRAVO  INTERNO  NÃO  CONHECIDO,  COM  APLICAÇÃO  DE  MULTA.
+1.  É  inviável  o  agravo  interno  que  deixa  de  impugnar  especificamente  os  fundamentos  da  decisão  agravada  (CPC/2015,  art.  1.021,  §  1º).
+2.  O  recurso  mostra-se  manifestamente  inadmissível,  a  ensejar  a  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC,  no  montante  equivalente  a  1%  sobre  o  valor  atualizado  da  causa,  ficando  a  interposição  de  qualquer  outro  recurso  condicionada  ao  depósito  da  respectiva  quantia,  nos  termos  do  §  5º  do  citado  artigo  de  lei.
+3.  Levando  em  conta  que  a  parte  agravante  litiga  sob  o  pálio  da  justiça  gratuita,  o  recolhimento  da  multa  em  questão  deverá  ser  realizado  ao  final  do  processo,  nos  termos  do  §  5º  do  artigo  1.021  do  CPC/2015.
+4.  Agravo  interno  não  conhecido,  com  aplicação  de  multa.
+(AgInt  no  AREsp  n.  2.313.217/SP,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  22/5/2023,  DJe  de  25/5/2023.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INOBSERVÂNCIA  DO  ART.  1.021,  §  1º,  C/C  O  ART.  932,  III,  AMBOS  DO  CPC/2015.  LITIGÂNCIA  DE  MÁ-FÉ.  INEXISTÊNCIA.  MULTA  PREVISTA  NO  §  4º  DO  ART.  1.021  DO  CPC/2015.  NÃO  CABIMENTO.  AGRAVO  INTERNO  NÃO  CONHECIDO.
+1.  Cabe  à  parte  insurgente,  nas  razões  do  agravo  interno,  trazer  argumentos  suficientes  para  contestar  a  decisão  agravada.  A  ausência  de  fundamentos  válidos  para  impugnar  a  decisão  proferida  no  agravo  em  recurso  especial  atrai  a  aplicação  do  disposto  nos  arts.  932,  III,  e  1.021,  §  1º,  do  Código  de  Processo  Civil  de  2015.
+2.  Não  pode  ser  considerada  como  litigância  de  má-fé  a  interposição  de  recurso  previsto  no  ordenamento  jurídico,  quando  não  ficar  evidenciado  o  seu  intuito  protelatório.  Inaplicabilidade  da  multa  prevista  no  art.  81  do  CPC/2015.
+3.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  não  se  tratando  de  mera  decorrência  lógica  do  desprovimento  do  agravo  interno  em  votação  unânime,  devendo  ser  aferida  a  sua  incidência  caso  a  caso.
+4.  Agravo  interno  não  conhecido.
+(AgInt  no  AREsp  n.  2.293.210/SP,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  3/5/2023,  DJe  de  8/5/2023.)
+
+Ante  o  exposto,  não  conheço  do  agravo  interno.
+É  como  penso.  É  como  voto.
