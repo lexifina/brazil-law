@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por BRADESCO AUTO/RE COMPANHIA DE SEGUROS contra acórdão da Quarta Turma do Superior Tribunal de Justiça assim ementado:
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DOS JUROS DE MORA. PREVISÃO NO TÍTULO EXECUTIVO. OBSERVÂNCIA. OMISSÃO VERIFICADA.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Se a Corte de origem deixou de examinar alegação que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 1.022 do Código de Processo Civil, sendo necessário o retorno do autos para que o Tribunal estadual supra a omissão.
+3. Agravo interno a que se nega provimento" (fl. 1.662 e-STJ).
+A embargante aponta a existência de divergência com o AgInt no AREsp nº 1.698.089/SP e o AgInt no AREsp nº 1.684.350/SP, ambos da Terceira Turma, assim ementados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. ALTERAÇÃO DO TERMO INICIAL. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A jurisprudência desta Corte é no sentido de que a correção monetária e os juros de mora tem natureza de ordem pública podendo ser analisados de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+6. Agravo interno não provido" (Relator Ministro Moura Ribeiro, julgado 16/8/2021, DJe 18/8/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA.1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. JUROS E CORREÇÃO MONETÁRIA. MERA ATUALIZAÇÃO. 3. CUSTAS E HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 283/STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo carência de fundamentação a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a permanência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento" (Relator Ministro Marco Aurélio Bellizze, julgado 21/2/2022, DJe 23/2/2022).
+Sustenta que o acórdão embargado "diverge totalmente da Jurisprudência mais recente deste Colendo Superior Tribunal de Justiça, em especial da Terceira Turma, que reconhece expressamente que a questão correspondente aos juros de mora é de ordem pública e não faz coisa julgada material, podendo ser alterada a qualquer tempo para evitar o enriquecimento sem causa" (fl. 1.679 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Segundo orientação jurisprudencial do Superior Tribunal de Justiça,
+"(..) a finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do apelo especial" (AgRg nos EREsp 1.126.442/MG, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 18/5/2012).
+Estabeleceu-se também o entendimento de que a verificação da ocorrência, ou não, dos vícios listados no artigo 1.022 do Código de Processo Civil, bem como no art. 489, § 1º, depende da apreciação das circunstâncias fáticas do caso, o que obsta a sua confrontação com outros julgados no âmbito de embargos de divergência.
+No particular, afirmou a Corte Especial que
+"(..) o julgamento de embargos de declaração é casuístico, porque o órgão julgador leva em conta as particularidades de cada caso concreto. Para o cabimento do recurso em torno do art. 535 do CPC, seria necessário que as questões tratadas nos acórdãos confrontados, as alegações recursais e os votos condutores dos julgados fossem idênticos, de forma a conter as mesmas falhas" (AgRg nos ERESP 347.524/SP, Rel. Min. Eliana Calmon, DJ de 14/6/2004).
+Nessa mesma linha, confiram-se os seguintes precedentes da Corte Especial: AgInt nos EAREsp 1.667.770/MT, relatora Ministra Laurita Vaz, DJe de 15/3/2023; AgInt nos EAREsp 1.673.549/SC, relator Ministro Humberto Martins, DJe de 30/11/2022; AgInt nos EAREsp 98.905/SC, rel. Ministro Francisco Falcão, DJe de 28/8/2018; AgInt nos EREsp 1.203.149/RS, rel. Ministro Napoleão Nunes Maia Filho, DJe de 19/4/2017, e AgInt nos EAREsp 324.542/SP, rel. Ministro Mauro Campbell Marques, DJe de 16/6/2016.
+Ante o exposto, indefiro liminarmente os embargos de divergência, com fulcro nos arts. 34, XVIII, e 266-C do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
