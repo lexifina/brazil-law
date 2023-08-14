@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 682.846/MG (fl. 277).
+Trata-se de agravo regimental interposto por Igor Lucio Fraga dos Santos contra a decisão monocrática da Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial por incidência das Súmulas 7/STJ, 282, 283, 284 e 356/STF.
+Nas razões do agravo regimental, a defesa aduz, em síntese, que o óbice da Súmula 7/STJ foi devidamente atacado e que compete à Turma Julgadora apreciar o mérito dos pedidos, uma vez que versam exclusivamente sobre matéria de direito, restando incontroversa a matéria fática (fls. 259/261), e que a ausência de defesa técnica foi devidamente demonstrada no bojo do Recurso Especial (fl. 262), reiterando, ainda, as razões de mérito lançadas no especial (fls. 262/269).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E PORMENORIZADA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE OFENSA AO ART. 621, III, DO CPP. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF. PEDIDO DE REDIMENSIONAMENTO DA PENA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE CONTRARIADO. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. TESE QUE NÃO FOI OBJETO DE ANÁLISE PELO ACÓRDÃO RECORRIDO. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+VOTO
+De plano, observa-se que a insurgência em tela não ataca todos os fundamentos da decisão ora agravada.
+Com efeito, a decisão de fls. 241/250, proferida pela Presidência desta Corte Superior, concluiu, em relação à primeira controvérsia, pela incidência das Súmulas 283/STF e 7/STJ; e, em relação à segunda controvérsia, pela incidência do óbice da Súmula 284/STF, e, no tocante ao aventado "prejuízo causado pela ausência de defesa técnica", pela incidência das Súmulas 282 e 356/STF.
+Nas razões do regimental, limitou-se a contestar a Súmula 7/STJ, a alegar que a ausência de defesa técnica foi devidamente demonstrada no bojo do Recurso Especial (fl. 262), e a reiterar as razões de mérito lançadas no especial; nada disse sobre os óbices das Súmulas 282, 283, 284 e 356/STF.
+Com efeito, caberia à parte insurgente contestar a íntegra da conclusão contida na decisão de fls. 241/250, impugnando especificamente os fundamentos nela lançados.
+Por conseguinte, as razões expendidas no bojo do presente recurso contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil, que assim dispõe (grifo nosso):
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Nessa esteira:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica do fundamento da decisão agravada enseja o não conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia. Precedentes do STJ.
+ ..
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.305.758/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2023)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIOS SIMPLES TENTADOS. POSSIBILIDADE DE O RELATOR DECIDIR MONOCRATICAMENTE A IMPETRAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+II - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+III - In casu, o presente inconformismo limitou-se a afirmar que o Tribunal de origem aplicou a pena de forma inidônea, bem como ser incabível a apreciação monocrática da impetração por parte do relator.
+IV - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado. Nessa senda, as razões expendidas no bojo do presente contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+(AgRg no HC n. 649.167/MG, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/3/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALDIADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PEDIDO DE APRECIAÇÃO DA QUESTÃO DE OFÍCIO. INICIATIVA DO ÓRGÃO JULGADOR.
+ ..
+2. A ausência de impugnação específica aos fundamentos da decisão recorrida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC, e da Súmula 182 desta Corte.
+3. "Nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp 1389936/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe29/03/2019).
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.182.803/SC, Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, DJe 15/12/2022)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO TENTADO. 1) SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 2) VIOLAÇÃO AO ART. 413 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. PRINCÍPIO DO IN DUBIO PRO SOCIETATE. 3) VIOLAÇÃO AO ART. 210 DO CPP. INOCORRÊNCIA. DEPOIMENTO COLHIDO POR VIDEOCONFERÊNCIA. JUSTIFICADO NA PANDEMIA DE COVID-19. PREJUÍZO À INCOMUNICABILIDADE NÃO DEMONSTRADO. 4) AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A decisão agravada apresentou os óbices da Súmula n. 7 do STJ e da falta de prequestionamento para tópicos defensivos relacionados à inconformidade com a pronúncia. Ausente a impugnação específica deles, não se conhece do agravo regimental em sua totalidade. Súmula n. 182 do STJ que se encontra em conformidade com o art. 1.021, § 1º, do Código de Processo Civil - CPC/2015.
+ ..
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no REsp n. 1.962.176/PE, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/10/2022)
+À vista disso, por se encontrar divorciada da orientação jurisprudencial desta Corte Superior (Súmula 182/STJ) e da legislação pertinente, a irresignação, neste particular, não merece ser conhecida.
+Ademais, em relação ao art. 621, I, do Código de Processo Penal, concluiu o Tribunal de origem (fls. 146/147 - grifo nosso):
+ ..  Na presente hipótese, o que se vê, em verdade, é um mero inconformismo do peticionário que pretende o reexame das provas dos autos.
+Ora, a autoria delitiva foi devidamente analisada no feito em comento, seja pelo Conselho de Sentença, quando da prolação da condenação (evento nº 09), seja por essa Corte de Justiça, quando do julgamento da apelação defensiva que confirmou a decisão do Tribunal do Júri (evento nº 13), sendo devidamente reconhecida, com base nos elementos de convicção existentes no feito.
+Ocorre que, o peticionário limitou-se a alegar a insuficiência e a fragilidade das provas produzidas, o que, como sabido, não basta para o deferimento do pedido revisional, já que tal ação não se presta a reapreciar as provas devidamente analisadas - sobretudo, em se tratando de procedimento especial do Tribunal do Júri, em que há devolução restrita da matéria às esferas recursais.
+Ora, a revisão criminal é cabível para sanar erro técnico ou injustiça na condenação. Ou, ainda, conduzir a nova apreciação de elementos de prova surgidos após a condenação, o que, in casu, não ocorreu.
+Nesses autos, não veio a essa Corte de Justiça qualquer elemento novo de prova a autorizar o reexame da condenação.
+A propósito, acerca do surgimento de prova nova, é sabido que para que um novo elemento seja considerado na forma do art. 621, III do CPP, é necessário que tenha sido obtido por meio de Justificação Judicial, conforme dispõe o art. 861 e seguintes do Código de Processo Civil, diante da ausência de regulamentação no CPP, o que inexiste na presente hipótese.
+Assim, considerando que as provas trazidas ao processo criminal principal já foram devidamente examinadas pelo Juízo Cognicivo e apontaram para a prática do crime de pelo qual o peticionário foi condenado e, ainda, não tendo sido comprovado erro no julgamento, de modo a autorizar a rescisão do julgado, deve ser mantida a condenação.  ..
+De fato, a revisão criminal tem cabimento restrito, sendo apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Por isso, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário (AgRg no REsp n. 1.805.996/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/3/2021).
+Além disso, é firme o entendimento desta Corte Superior de que não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do Código de Processo Penal.
+Nesse contexto, o exame da suscitada afronta o art. 621, III, do Código de Processo Penal, sob o argumento de que a condenação foi contrária à evidência dos autos, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento dos elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, nos termos da Súmula 7/STJ.
+Veja-se:
+PENAL E PROCESSO PENAL. OFENSA AO ART. 619 DO CPP. NÃO OCORRÊNCIA. AFRONTA AO ART. 621, I E III, DO CPP. SÚMULA 7/STJ. CONTRARIEDADE AO ART. 492 DO CPC. TEMA DECIDIDO POR MAIORIA DE VOTOS. AUSÊNCIA DE EMBARGOS DE DIVERGÊNCIA. PRECLUSÃO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE. ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. NÃO CABIMENTO. RENOVAÇÃO, NO ACÓRDÃO QUE JULGA O AGRAVO REGIMENTAL, DOS FUNDAMENTOS TRAZIDOS NA DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE QUANDO AS RAZÕES DO REGIMENTAL REPISAM AS TESES DO RECURSO JÁ ANALISADAS PELO RELATOR OU PRODUZEM ARGUMENTAÇÃO INCAPAZ DE INFIRMAR O JULGADO. INTELIGÊNCIA DOS ARTS. 1.021, § 3º E 489, § 1º, IV, CPC/2015. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O julgado recorrido não padece de qualquer omissão ou nulidade na sua fundamentação, porquanto apreciou as teses relevantes para o deslinde da controvérsia, tendo concluído, após minucioso exame dos elementos fáticos e probatórios produzidos nos autos, que o decreto condenatório não foi contrário à evidência dos autos (art. 621, I, CPP), já que alicerçado em um "conjunto de provas harmônico, coeso e coerente, indicando que os acusados cometeram os crimes que a denúncia lhes imputa".
+2. Nesse contexto, o exame da suscitada afronta ao art. 621, I e III, do CPP, sob o argumento de que a condenação foi contrária à evidência dos autos, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento dos elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, nos termos da Súmula 7/STJ.
+ ..
+6. Este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. No que diz respeito à dosimetria da pena, a revisão criminal tem cabimento restrito, somente se admitindo o exame quando, após a sentença, forem descobertas novas provas de elementos que autorizem a revisão da pena, (..)" (AgRg no AREsp 1.704.043/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/9/2020, DJe 29/9/2020), o que, como visto, não é o caso dos autos.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AgRg no REsp n. 1.850.458/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 6/4/2021)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REVISÃO CRIMINAL. ATENTADO VIOLENTO AO PUDOR E FAVORECIMENTO À PROSTITUIÇÃO. NEGATIVA DE VIGÊNCIA DO ART. 228 DO CP. TESE DE QUE HÁ PROVA NOVA (JUSTIFICAÇÃO CRIMINAL) APTA A SUBSIDIAR A CONCLUSÃO NO SENTIDO DA ATIPICIDADE. INADMISSIBILIDADE. SÚMULA 7/STJ. ATIPICIDADE CALCADA NA TESE DE QUE OS FATOS SÃO ANTERIORES AO ADVENTO DA NORMA PENAL. QUESTÃO QUE NÃO FOI DEDUZIDA NA AÇÃO REVISIONAL, SENDO ACRESCIDA EM SEDE DE ACLARATÓRIOS. INADMISSIBILIDADE. PRECLUSÃO. AUSÊNCIA DE DEBATE DO TEMA. FALTA DE PREQUESTIONAMENTO. INAPLICABILIDADE DO ART. 1.025 DO CPC (INOVAÇÃO RECURSAL). VIOLAÇÃO DO ART. 619 DO CPP. OMISSÃO. MANIFESTA IMPROCEDÊNCIA. NEGATIVA DE VIGÊNCIA DO ART. 621, III, DO CPP. INADMISSIBILIDADE. SÚMULA 7/STJ. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. NOVATIO LEGIS IN MELLIUS. INADMISSIBILIDADE. AUSÊNCIA DE DEBATE DA QUESTÃO NO ACÓRDÃO ATACADO. TEMA QUE DEMANDA ANÁLISE DE MATÉRIA PROBATÓRIA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. SÚMULA 611/STF.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.861.849/AC, de minha relatoria, Sexta Turma, DJe 17/11/2020)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCUSSÃO. REVISÃO CRIMINAL. NOVAS PROVAS. CONTRADITÓRIO PRÉVIO. ALEGAÇÃO DE INOCÊNCIA E AUSÊNCIA DE PROVAS CONCRETAS PARA A CONDENAÇÃO. PLEITO QUE DEMANDA REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+I - "De acordo com a jurisprudência há muito consolidada deste Superior Tribunal de Justiça, o pedido de revisão criminal, calcado na existência de prova oral nova, pressupõe a necessidade de sujeição dos novéis elementos probatórios ao eficiente e democrático filtro do contraditório.
+2. Referido entendimento foi mantido não obstante a supressão, pelo Novo Código de Processo Civil, do procedimento cautelar de justificação, sendo necessária a produção antecipada de provas (arts. 381 e 382 do referido Estatuto Processual) para ajuizamento de ação revisional fundada na existência de novas provas decorrentes de fonte pessoal" (REsp n. 1.720.683/MS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 13/08/2018, destaquei).
+II - Inafastável a incidência do verbete n. 7 da Smula do STJ, pois para se concluir de forma diversa do entendimento do eg. Tribunal de origem, no sentido de que não há provas da participação do agravante nos crimes a que foi condenado, inevitável o reexame das provas dos autos, procedimento sabidamente inviável na instância especial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.465.006/SP, Ministro Felix Fischer, Quinta Turma, DJe 16/5/2019)
+Afora isso, como bem anotado na decisão atacada, depreende-se que o Tribunal de origem concluiu que não veio a essa Corte de Justiça qualquer elemento novo de prova a autorizar o reexame da condenação (fl. 146). Logo, nota-se a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado.
+Neste passo, correta a incidência do óbice da Súmula 283/STF. A propósito: REsp n. 1.843.481/PE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/12/2021.
+Quanto à segunda controvérsia, da leitura do recurso especial, infere-se que a defesa realmente não apontou o dispositivo de lei federal supostamente violado pelo acórdão recorrido, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Correta, pois, no ponto, a aplicação do enunciado da Súmula 284/STF, por analogia.
+Nessa linha:
+ ..  V - Ademais, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+VI - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."  ..
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.032.918/SP, Ministro Francisco Falcão, Segunda Turma, DJe 19/8/2022)
+ ..  2. A ausência de indicação do dispositivo de lei federal eventualmente violado implica em deficiência de fundamentação do recurso especial. Assim, incide, por analogia, a Súmula n. 284 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.949.109/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/6/2022)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 168-A DO CÓDIGO PENAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. ATIPICIDADE. SÚMULA N. 284 DO STF. DOSIMETRIA DA PENA. INOVAÇÃO RECURSAL.
+ ..
+2. As razões declinadas no recurso especial, haja vista a deficiência em sua fundamentação, as quais não apontaram de forma devida o dispositivo legal violado, atraem a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+3. O pleito de redução da pena, mediante o afastamento da avaliação negativa da culpabilidade, constitui inovação recursal.
+4. Agravo regimental do qual se conhece parcialmente e, nesta parte, nega- se provimento.
+(AgRg no AREsp n. 1.332.378/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022)
+Além disso, é possível inferir que a tese jurídica levantada nas razões do especial não foi debatida sob o enfoque suscitado pela defesa, tampouco houve a oposição de embargos de declaração com o fim de forçar a sua análise, o que inviabilizou o seu exame por esta Corte Superior.
+Dessa forma, não tendo havido manifestação prévia sobre o tema, é vedada a sua apreciação em recurso especial.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DA CITAÇÃO. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A questão acerca da ausência de intimação para apresentar contrarrazões não foi objeto de debate pela instância ordinária, nem apontada nos embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF. Ademais, mesmo que assim não fosse, o próprio agravante reconhece terem sido apresentadas contrarrazões ao Recurso em Sentido Estrito por meio da Defensoria Pública.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.095.184/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2022)
+Correta, pois, a incidência dos referidos óbices.
+Não havendo elementos capazes de alterar os fundamentos da decisão agravada, proferida pela Presidência desta Corte Superior, subsiste incólume o entendimento nela firmado, razão pela qual não merece prosperar o presente agravo.
+Ante o exposto, conheço parcialmente do agravo regimental e, nessa extensão, nego-lhe provimento.
