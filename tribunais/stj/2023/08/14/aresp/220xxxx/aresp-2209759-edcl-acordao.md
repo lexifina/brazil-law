@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+CONSERVENGE CONSTRUÇÃO E CONSERVAÇÃO EIRELI (ou CONSERVENGE - CONSTRUÇÃO E CONSERVAÇÃO - EIRELI EPP) opõe embargos de declaração ao acórdão assim ementado (fls. 9.384-9.387):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+3. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+4. Agravo interno desprovido.
+Em suas razões, a parte embargante alega que o acórdão é omisso quanto à idêntica decisão proferida em 5/12/2022, nos autos do Agravo em Recurso Especial n. 2.256.315/MT, não obstante tratar-se de interposição relativa a recursos distintos e motivados por questões de cunho jurídico diverso, sem analogia ou semelhança alguma com estes autos, mas com identificação dos parágrafos apontados, confrontados e transcritos no agravo interno.
+Sustenta que houve na espécie violação frontal da ordem constitucional, especificamente quanto ao disposto no art. 5º, LV, da Constituição Federal.
+Requer o recebimento dos embargos para que seja esclarecido o ponto acima suscitado e, por consequência, seja dado efeito modificativo ao acórdão.
+As contrarrazões aos embargos foram apresentadas às fls. 9.402-9.406, em que se pleiteia a condenação no pagamento de multa e indenização por litigância de má-fé.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.022 do CPC/2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Os embargos de declaração são incabíveis para fins de prequestionamento de matéria constitucional quando ausentes as hipóteses previstas no art. 1.022 do CPC.
+4. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+5. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão referente o não conhecimento do agravo, em razão da aplicação analógica da Súmula n. 182 do STJ.
+Eis o que consta do acórdão embargado (fls. 9.385-9.386, destaquei):
+Conforme exposto na decisão de fls. 9.340-9.342, a ora agravante, nas razões do agravo em recurso especial, não contestou adequadamente alguns dos fundamentos da decisão então agravada, a saber, a incidência das Súmulas n. 7, 83 e 518 do STJ e 283 do STF.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+ ..
+A argumentação constante do agravo em recurso especial não constitui impugnação específica da aplicação da Súmula n. 83 do STJ, pois, segundo o entendimento do Superior Tribunal de Justiça, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não foi feito pela parte agravante.
+ ..
+Ressalte-se também que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Como visto, a decisão embargada foi clara ao não conhecer do agravo em recurso especial, tendo em vista que a parte agravante deixou de impugnar de forma específica e adequada fundamentos da decisão que inadmitira o recurso especial, o que atraiu a aplicação da Súmula n. 182 do STJ.
+Nas razões dos embargos de declaração, a parte restringe-se a defender a ausência de fundamentação quanto à idêntica decisão proferida em autos diversos, que não guardam semelhança alguma com estes.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento do agravo interno n ão viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+A propósito, segundo orientação firmada pela a Corte Especial do STJ "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Outrossim, quanto à pretensão de se valer dos embargos de declaração para alcançar o prequestionamento de matéria constitucional, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "é incabível a utilização de embargos declaratórios para fins de prequestionamento de matéria constitucional - com vistas à interposição de recurso extraordinário -, se não ocorrentes as hipóteses relacionadas no art. 1.022 do Código de Processo Civil" (EDcl no AgInt no AgInt no AREsp n. 1.736.994/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+No mais, no que se refere ao pedido feito na impugnação apresentada aos embargos de declaração, relativo à aplicação da multa por litigância de má-fé, não há como acolhê-lo.
+A litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se q uando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+No caso, apesar da rejeição dos embargos de declaração, não está caracterizada, por ora, a litigância temerária, razão pela qual é incabível a aplicação da penalidade acima referida.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
