@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação em que se pleiteia o reconhecimento de danos mentais decorrentes de imposição excessiva de trabalho, configurando acidente em serviço, bem como a indenização por danos materiais e imateriais. Na sentença, julgaram-se os pedidos improcedentes. No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO. SERVIDOR PÚBLICO CIVIL. ACIDENTE EM SERVIÇO. NÂO COMPROVAÇÃO DO NEXO DE CAUSALIDADE. AUSÊNCIA DE CONDUTA ANTIJURÍDICA DA RÉ. RECURSO DESPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, indefiro o pedido. Não havendo recursos pendentes de análise nesta Corte, baixem os autos independentemente de decurso de prazo."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+3.2 Pelo que a decisão negou seguimento a legítimo pedido de questão de ordem é nula, por ter sido proferida monocraticamente, requerendo-se seja ela assim tomada por essa Col. Turma.
+3.2.1 Deliberando-se colegiadamente, na sequência, pelo conteúdo das questões de ordem, declarando-se as anteriores irregularidades igualmente nulas, por infração ao devido processo legal (LIV-5º-CRFB), com foco no arts.938-CPC e arts.164-RI-STJ.
+ ..
+É o relatório .
+EMENTA
+PROCESSUAL CIVIL. DANOS MENTAIS. INDENIZAÇÃO POR DANOS MATERIAS E IMATERIAIS. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO. NULIDADE DO ACÓRDÃO. NÃO VERIFICADA. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação em que se pleiteia o reconhecimento de danos mentais decorrentes de imposição excessiva de trabalho, configurando acidente em serviço, bem como a indenização por danos materiais e imateriais. Na sentença, julgaram-se os pedidos improcedentes. No Tribunal a quo, a sentença foi mantida.
+II - A decisão agravada está amparada na jurisprudência dominante desta Corte, razão pela qual não há porque falar na inadmissibilidade do julgamento monocrático. Incidência da Súmula n. 568/STJ e do art. 932, VIII, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ.
+III - Tal orientação não gera prejuízo às partes, porquanto está resguardada a possibilidade de interposição do agravo interno objetivando o exame da matéria pelo Colegiado competente. Nesse sentido: AgInt no REsp 1.630.561/MA, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgInt no AREsp 748.359/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/11/2017, DJe 16/11/2017; AgInt no AREsp 947.903/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2017, DJe 30/10/2017; AgInt nos EDcl no REsp 1.268.982/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/3/2017, DJe 19/4/2017; AgInt no REsp 1.655.635/SE, relator Ministro Mauro Campbell Marques.
+IV - Ademais, verifica-se que o agravo em recurso especial da parte ora requerente não foi conhecido nesta Corte, mormente porque a parte recorrente deixou de impugnar os fundamentos da decisão de inadmissão do recurso especial na origem.
+V - A decisão foi objeto de agravo interno em que se manteve a decisão recorrida considerando-se que são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+VI - O acórdão aplicou jurisprudência pacífica desta Corte no sentido de que incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem, e de que, não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+VII - Não se verifica qualquer nulidade no Acórdão que julgou os embargos de declaração. A parte requerente pretende reformar todas as decisões anteriores sob a alegação de supostas nulidades que não indica.
+VIII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A decisão agravada está amparada na jurisprudência dominante desta Corte, razão pela qual não há porque falar na inadmissibilidade do julgamento monocrático. Incidência da Súmula n. 568/STJ e do art. 932, VIII, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ.
+Tal orientação não gera prejuízo às partes, porquanto está resguardada a possibilidade de interposição do agravo interno objetivando o exame da matéria pelo Colegiado competente. Nesse sentido: AgInt no REsp 1.630.561/MA, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgInt no AREsp 748.359/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/11/2017, DJe 16/11/2017; AgInt no AREsp 947.903/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2017, DJe 30/10/2017; AgInt nos EDcl no REsp 1.268.982/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/3/2017, DJe 19/4/2017; AgInt no REsp 1.655.635/SE, relator Ministro Mauro Campbell Marques.
+Ademais, verifica-se que o agravo em recurso especial da parte ora requerente não foi conhecido nesta Corte, mormente porque a parte recorrente deixou de impugnar os fundamentos da decisão de inadmissão do recurso especial na origem.
+A decisão foi objeto de agravo interno em que se manteve a decisão recorrida considerando-se que são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+O acórdão aplicou jurisprudência pacífica desta Corte no sentido de que incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem, e de que, não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+Não se verifica qualquer nulidade no Acórdão que julgou os embargos de declaração. A parte requerente pretende reformar todas as decisões anteriores sob a alegação de supostas nulidades que não indica.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
