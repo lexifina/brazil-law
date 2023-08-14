@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (e-STJ fl. 3794):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PROCEDIMENTO ADMINISTRATIVO PELO TCDF. AUSÊNCIA DE IRREGULARIDADE. RESPEITO AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+2. No caso dos autos, o Tribunal de origem expressamente concluiu que os documentos carreados aos autos eram suficientes para demonstrar a regularidade do procedimento administrativo do TCDF, de modo que, a alteração das conclusões adotadas pela Corte de origem conforme a pretensão recursal, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+Afirma haver omissão no posicionamento do acórdão embargado quanto ao fato de a condenação ter sido impingida à Embargante, na contramão dos pareceres do órgão técnico do órgão e do Ministério Público que oficia perante aquela Corte de Contas, os quais se pronunciaram sobre a necessidade de sobrestamento daqueles autos, porquanto, na Ação Civil Pública, tombada sob o nº 0713953-71.2017.8.07.0018 e em trâmite na Justiça Comum, a matéria já se encontrava sujeita ao controle final de legalidade e já ali havia sido deferida tutela preservando a garantia da controversa diferença de preços, além de que, adveio, naquele mesmo feito, a partir da produção de prova pericial, manifestação técnica conclusiva no sentido de que se reconheceu, tecnicamente, que a empresa CAVO não ostentava qualificação técnica para a operação da usina cujo uso foi licitado e restou negado, peremptoriamente o superfaturamento imputado à Embargante.
+Alega também que, no caso quanto à regularidade procedimental da representação, não há que se falar em incidência da Súmula 7/STJ porquanto não demanda revolvimento de fatos ou provas, e nem se discute sequer sobre a valoração de provas, mas a respeito de um tema exclusivamente jurídico, qual seja, sobre a delimitação das fronteiras das sindicâncias das decisões proferidas em tribunais de contas, cuja exegese reinante confirma a tese defendida no recurso especial protocolado nestes autos, isto é, de que a extensão de tal sindicância, a qual não se limita, como demarcado pelo TJDFT, a aspectos formais, abrange a averiguação de manifestas ilegalidades.
+Pugna pelo conhecimento e acolhimento dos presentes aclaratórios.
+É o necessário relatar.
+EMENTA
+PROCESSUAL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Sustenta a embargante que ocorreu omissão no acórdão sob o fundamento de que não houve pronunciamento quanto ao fato de a condenação ter sido impingida à Embargante, na contramão dos pareceres do órgão técnico do órgão e do Ministério Público que oficia perante aquela Corte de Contas, bem como que adveio, a partir da produção de prova pericial, manifestação técnica conclusiva no sentido de que se reconheceu, tecnicamente, que a empresa CAVO não ostentava qualificação técnica para a operação da usina cujo uso foi licitado.
+Irresigna-se também quanto à aplicação da Súmula 7/STJ por se tratar de tema jurídico, sem necessidade de revolvimento de provas.
+As razões não merecem acolhimento.
+Isso porque, os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Ocorre que o acórdão embargado posicionou-se de forma clara, adequada e suficiente acerca do não provimento do agravo interno em virtude de que não houve a alegada ofensa ao artigo 1.022 do CPC por negativa de prestação jurisdicional, bem como houve incidência da Súmula 7/STJ, uma vez que o Tribunal de origem, após análise dos autos, expressamente concluiu que os documentos carreados aos autos eram suficientes para demonstrar a regularidade do procedimento administrativo do TCDF.
+Ademais, restou esclarecido que o julgado atrelava-se ao contexto fático-probatório da causa e, para admitir entendimento contrário conforme a pretensão recursal, necessário que se adotasse o mesmo procedimento, o que todavia escap a ao âmbito do recurso especial diante da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Dessa forma, infere-se das razões destes aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
