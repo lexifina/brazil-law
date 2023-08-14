@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5003514-68.2019.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ADELSON WOTKOSKI
+RECORRIDO: EDIMAR BUZETTI
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ADUZ O REQUERENTE, EM SÍNTESE, SER PROPRIETÁRIO DO VEÍCULO FORD RANGER, COM PLACA JYJ-0115 QUE HAVIA SIDO ADQUIRIDO COM ALIENAÇÃO JUNTO A BV FINANCEIRA. ARGUI QUE, EM MEADOS DE 2011, PROMOVEU A VENDA DO BEM PELO VALOR DE R$16.000,00 (DEZESSEIS MIL REAIS) PARA O REQUERIDO, FICANDO ACORDADO ENTRE AS PARTES A RESPONSABILIDADE DO RÉU DE REALIZAR A TRANSFERÊNCIA E A DO AUTOR DE REALIZAR A QUITAÇÃO DO VEÍCULO APÓS O PAGAMENTO. O REQUERIDO AJUIZOU UMA AÇÃO QUE TRAMITOU NO 1º JUIZADO DA COMARCA DE COLATINA PARA OBRIGAR O REQUERENTE A REALIZAR A QUITAÇÃO DO VEÍCULO JUNTO A FINANCEIRA. AFIRMA TER QUITADO O BEM EM 2012, CONTUDO MESMO APÓS SOLICITAR AO RÉU, ESTE NÃO CUMPRIU SUA PARTE NO ACORDADO. ALEGA QUE VEM RECEBENDO MULTAS E SANÇÕES DE TRÂNSITO, INCLUINDO A SUSPENSÃO DE SUA CARTEIRA. PUGNA POR OBRIGAÇÃO DE FAZER, DANOS MATERIAIS E MORAIS. A SENTENÇA DE PISO JULGO PARCIALMENTE PROCEDENTE O PEDIDO CONSTANTE DA INICIAL, PARA:
+“
+(I) CONDENAR o requerido ADELSON WOTKOSKI a transferir o automóvel Ford Ranger XL, placa JYJ-0115 para seu nome perante o Detran; (II) CONDENAR o requerido ADELSON WOTKOSKI a adimplir os débitos lançados em nome do autor sobre o automóvel Ford Ranger XL, placa JYJ- 0115, cujo fato gerador tenha ocorrido após agosto/2011; (III) CONDENAR o requerido ADELSON WOTKOSKI a pagar ao autor EDIMAR BUZETTI, a título de dano material, o valor de R$ 316,48 (trezentos e dezesseis reais e quarenta e oito centavos), com acréscimo de correção monetária desde o desembolso (28/10/2017) e juros legais a partir da citação. A fim de assegurar o cumprimento da decisão jurisdicional no tocante à transferência do veículo, EXPEÇA-SE ofício ao DETRAN, com a determinação de transferência do automóvel Ford Ranger XL, placa JYJ-0115 para o nome do Sr. Adelson Wotkoski, com a ressalva de que, perante a Administração Pública, o antigo proprietário (Edimar Buzetti) permanecerá solidariamente responsável pelos débitos existentes sobre o bem, juntamente com o novo (Adelson Wotkoski).”
+RECURSO INOMINADO DO REQUERIDO PUGNANDO, PRELIMINARMENTE POR SUA ILEGITIMIDADE PASSIVA. NO MAIS, REQUER A REFORMA TOTAL DA SENTENÇA COM A IMPROCEDÊNCIA DOS PLEITOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. APÓS A ANÁLISE DETALHADA DOS AUTOS, TENHO COMO ACERTADA A SENTENÇA ORA GUERREADA. O REQUERIDO ADUZ TER NEGOCIADO O REFERIDO CARRO, EM 2011, COM O GENITOR DO AUTOR, CONFORME DECLARADO EM PRÓPRIA DEFESA. NARROU AINDA QUE ESTE VENDEU O CARRO AO SR. CARLOS MEIRELES. E, APÓS A AUDIÊNCIA QUE OCORREU EM 2011, O PAI DO REQUERENTE E O SR. CARLOS TERIAM REALIZADO UM ACERTO SOBRE A TRANSFERÊNCIA DO BEM. INSTA ESCLARECER QUE TAIS FATOS NÃO FORAM DEVIDAMENTE COMPROVADOS PELO REQUERIDO, QUE DISPENSOU A PRODUÇÃO DE PROVA ORAL. ADEMAIS, COLACIONOU “PROVA NOVA” COM VERDADEIRA INOVAÇÃO RECURSAL. AFIRMA QUE O SR. JULIANO DA SILVA LAURINDO TERIA ADQUIRIDO O AUTOMÓVEL NA MESMA ÉPOCA, EM 2011, E JUNTA DECLARAÇÃO DA REFERIDA PESSOA. NA FASE RECURSAL SOMENTE SE ADMITE A JUNTADA DE DOCUMENTOS NOVOS OU QUANDO PROVADO O JUSTO IMPEDIMENTO PARA SUA OPORTUNA APRESENTAÇÃO OU SE REFERIR A FATO POSTERIOR À SENTENÇA, O QUE NÃO É O CASO DOS AUTOS. INTELIGÊNCIA DO ART. 435 DO CPC. NÃO HOUVE JUSTIFICATIVA PARA JUNTADA TARDIA DOS DOCUMENTOS. DEIXOU DE FAZER PROVAS DE SUAS ALEGAÇÕES. NESSE SENTIDO, É PARTE LEGÍTIMA PARA FIGURAR NESSA DEMANDA. OUTROSSIM, APLICA-SE AO CASO DOS AUTOS O ARTIGO 123, §1º, DO CÓDIGO DE TRÂNSITO BRASILEIRO, QUE DISPÕE SER OBRIGAÇÃO DO ADQUIRENTE PROMOVER A TRANSFERÊNCIA DO VEÍCULO JUNTO AO ÓRGÃO DE TRÂNSITO. OCORRENDO A VENDA DO VEÍCULO, TEM O NOVO PROPRIETÁRIO A OBRIGAÇÃO DE TRANSFERIR O BEM PARA SEU NOME, O QUE NÃO AFASTA O DEVER DO ALIENANTE DE COMUNICAR AO ÓRGÃO DE TRÂNSITO A VENDA DO BEM, NOS MOLDES DO ART. 134 DO CTB. SENTENÇA DEVIDAMENTE FUNDAMENTADA NESSE PONTO. HOUVE FALHA POR PARTE DO AUTOR COM A DEMORA NA QUITAÇÃO DO BEM, E DO REQUERIDO QUE NÃO PROCEDEU COM OBRIGAÇÃO LEGAL QUANDO INSTADO A FAZER, TENDO REPASSADO O VEÍCULO A TERCEIRA PESSOA, NUMA SUCESSÃO DE ERROS. ASSIM, CABÍVEL SUA RESPONSABILIZAÇÃO, CONFORME DISPOSTO NA DECISÃO DE PRIMEIRO GRAU.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
