@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbice ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. NÃO INDIVIDUALIZAÇÃO E INDEXAÇÃO DAS PEÇAS OBRIGATÓRIAS. PRINCÍPIO DA COOPERAÇÃO. INTIMAÇÃO PARA REGULARIZAR NÃO ATENDIDA. IRREGULARIDADE FORMAL. RECURSO NÃO CONHECIDO. ART. 932, III, DO CPC/2015.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida. Confira-se:
+Com o devido acato, o Tribunal de origem negou conhecer do agravo de instrumento sob o suposto fundamento de que não teria o recorrente o instruído corretamente. Ocorre que resta certificado nos autos que o agravante juntou cópia integral do processo físico, ou seja, do início ao fim, sendo que seria perfeita e confortavelmente possível ao julgador simplesmente folhear virtualmente o processo que encontraria todas as informações.
+Portanto, não se discute a (i) incorreta classificação ou (ii) a inadequada indicação das peças obrigatórios como sustentou o Tribunal de origem. Isso porque o recorrente juntou cópia integral (capa-a-capa) do processo físico e instruiu com essas cópias o agravo de instrumento protocolado virtualmente.
+ ..
+Portanto, a juntada integral do processo de origem no processo eletrônico não pode ser móvel para impedir, necessariamente, que esse recurso seja conhecido e julgado pelo tribunal só porque eventualmente a parte não nominou cada arquivo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. AGRAVO IMPROVIDO. IRREGULARIDADE FORMAL. AUSÊNCIA DE IDENTIFICAÇÃO DE PEÇAS. REGULARIZAÇÃO NÃO ATENDIDA. NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que teria deferido o pleito de tutela de urgência em favor do ora agravado. No Tribunal a quo, a agravo foi improvido diante de irregularidade formal no tocante à ausência de identificação de peças obrigatórias e essenciais ao recurso, sendo a regularização não atendida mesmo após notificação. Interposto recurso especial, teve seu seguimento negado. Seguiu-se por interposição de agravo. No STJ o agravo foi conhecido para não conhecer do recurso especial.
+II - A jurisprudência desta Corte é pacífica no sentido de que a juntada de documentos no sistema virtual, sem a mínima cautela quanto à sua adequada identificação e correspondência, não apenas afeta a capacidade do magistrado de compreender os fundamentos e provas do pedido para prestar a tutela jurisdicional efetiva e célere, mas prejudica diretamente o exercício do contraditório, uma vez não se vincula apenas à exposição de fatos e fundamentos na inicial, mas à análise de provas e documentos que firmam o direito pretendido. Nesse sentido, AREsp n. 2.114.876, Ministro Francisco Falcão, DJe de 19/12/2022; e AREsp n. 2.076.286, Ministro Humberto Martins, DJe de 3/5/2022.)
+III - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Agravo interno improvido.
+VOTO
+A jurisprudência desta Corte é pacífica no sentido de que a juntada de documentos no sistema virtual, sem a mínima cautela quanto à sua adequada identificação e correspondência, não apenas afeta a capacidade do magistrado de compreender os fundamentos e provas do pedido para prestar a tutela jurisdicional efetiva e célere, mas prejudica diretamente o exercício do contraditório, uma vez não se vincula apenas à exposição de fatos e fundamentos na inicial, mas à análise de provas e documentos que firmam o direito pretendido. Nesse sentido, AREsp n. 2.114.876, Ministro Francisco Falcão, DJe de 19/12/2022; e AREsp n. 2.076.286, Ministro Humberto Martins, DJe de 3/5/2022.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
