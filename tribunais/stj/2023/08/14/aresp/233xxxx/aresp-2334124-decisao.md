@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HOTEL BOURBON DE FOZ DO IGUAÇU LTDA. contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ e 284 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1060085-91.2021.8.26.0100) assim ementado (fl. 298):
+APELAÇÃO - AÇÃO MONITÓRIA - Prestação de serviços de hotelaria - Alegado inadimplemento da demandada - Sentença de procedência - Insurgência da requerida - A documentação apresentada pela autora embargada não satisfaz os requisitos da ação monitória, sendo insuficiente para aferir a probabilidade do direito alegado - Redistribuição dos ônus sucumbenciais - Honorários advocatícios recursais - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 312-317).
+No recurso especial, a agravante aduz ofensa ao art. 1022, I, II e III, do CPC, sob a alegação de que, "mesmo sendo provocado pelos embargos de declaração a sanar omissões e contradições do julgado,  o Tribunal  nada modificou" (fl. 327).
+Defende ainda o seguinte (fl. 322):
+- o acórdão recorrido, que decidiu julgar "improcedente" a demanda monitória, mesmo havendo somente pedido de inépcia e/ou redução parcial dos valores, viola o disposto nos artigos 141 e 492 do Código de Processo Civil;
+- mesmo que se entendesse que houve declaração tácita de "inépcia", o que se admite para argumentar, haveria violação ao disposto nos artigos 330 e 331 do Código de Processo Civil;
+- por fim, em se mantendo a "improcedência" da monitória, conforme decidiu o acórdão ora recorrido, estar-se-á afrontado também o disposto no artigo 700, § 5º do Código de Processo Civil, pois em momento algum se permitiu a adaptação do feito ao procedimento comum.
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+As contrarrazões não foram apresentadas (fl. 332).
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o Tribunal de origem analisou as questões e assim decidiu (fls. 299-303):
+Nos termos do art. 700 do diploma processual, o procedimento monitório exige "prova escrita sem eficácia de título executivo".
+ ..
+Assim, é entendimento da doutrina que o exame do preenchimento do requisito da prova documental se faz pelo julgador de maneira casuística: exige-se aquele documento com capacidade de formar o seu convencimento quanto à probabilidade do direito invocado, convencimento que seja suficiente para expedição de mandado monitório, ressalvando-se a possibilidade de insurgência do réu, a ser exercida pela oposição de embargos ao mandado monitório.
+ ..
+Dessa forma, a monitória prescinde de exibição de documento que demonstre a liquidez da obrigação reclamada, seu exato valor e data de vencimento. Basta a demonstração da probabilidade do direito ao crédito.
+In casu, não se vislumbra tal probabilidade, fundando-se a pretensão autoral exclusivamente em documentos emitidos unilateralmente (boletos, notas fiscais eletrônicas, protestos e páginas do sistema da autora, fls. 23/46) e sem o aceite da empresa ré, e em mensagens eletrônicas (fls. 47/48 e 50/53) desacompanhadas do pedidos de reserva e respectivas confirmações pela requerida, observando-se que o único e-mail de funcionário da requerida é o colacionado às fls. 51/52, relativo à fatura 2710 019, que sequer é cobrada nesta monitória (que tem por objeto as faturas 338 020 e 3674 019, cf. fls. 2/3).
+Para conferir veracidade ao quanto alegado na inicial seria esperado, no mínimo, a juntada dos pedidos de reservas supostamente efetuados pela requerida (por e-mail ou no sistema da requerente, demonstrado o usuário que realizou as reservas, tudo de forma a conferir plausibilidade ao quanto alegado).
+Frisa-se, a fim de se evitar eventual alegação de cerceamento de defesa, que tais documentos, por serem indispensáveis à propositura da demanda, deveriam instruir a peça exordial, nos termos do que dispõe o art. 320 do Código de Processo Civil.
+Dessa forma, de rigor a improcedência da ação monitória.
+No tocante à alegada contrariedade ao art. 1.022, I, II e II, do Código de Processo Civil, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se ainda os seguintes precedentes: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No que se refere à alegação de ofensa aos arts. 141 e 492 do Código de Processo Civil, o STJ entende que a pretensão deduzida em juízo não se limita a determinado capítulo da petição inicial, podendo o julgador ater-se a tudo o que pode extrair, mediante interpretação lógico-sistemática, das razões apresentadas, de modo que não há falar em julgamento extra petita quando o órgão julgador não desrespeitou os limites objetivos da pretensão inicial.
+Quanto à violação d os arts. 330, 331, 700, § 5º, do Código de Processo Civil, a Corte de origem concluiu que, para "conferir veracidade ao quanto alegado na inicial seria esperado, no mínimo, a juntada dos pedidos de reservas supostamente efetuados pela requerida", que, "por serem indispensáveis à propositura da demanda, deveriam instruir a peça exordial" (fl. 303).
+Nesse contexto, rever essa conclusão de mandaria amplo revolvimento do quadro fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ATRASO NA ENTREGA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. VIOLAÇÃO DOS ARTS. 141 E 492 DO CPC. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. DANOS MORAIS. CONFIGURAÇÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA N. 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É vedado ao juiz proferir decisão de natureza diversa da pedida, bem com condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+2. Não há falar em julgamento extra petita quando o órgão julgador não desrespeitou os limites objetivos da pretensão inicial nem concedeu providência jurisdicional diversa da que fora requerida, em atenção ao princípio da congruência ou adstrição.
+3. Rever o entendimento do tribunal de origem acerca das premissas fáticas firmadas no caso demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+4. O recurso especial que não ataca especificamente o fundamento adotado pela instância ordinária suficiente para manter o acórdão recorrido atrai, por analogia, a incidência da Súmula n. 283 do STF.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.154.844/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA NÃO SURPRESA. JULGAMENTO EXTRA PETITA. ARTS. 141 E 492 DO CPC/2015. NÃO CONFIGURAÇÃO. FUNDAMENTO DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. TERMO DE NOVAÇÃO DE DÍVIDA. PROCURADOR. PODERES ESPECÍFICOS. AUSÊNCIA. ILEGITIMIDADE PASSIVA. REEXAME. MATÉRIA FÁTICA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que não há julgamento extra petita quando o julgador interpreta o pedido formulado na petição inicial de forma lógico-sistemática, levando em consideração todos os requerimentos feitos ao longo da peça inaugural.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido (Súmula nº 283/STF).
+4. Na hipótese, o procurador não detinha poderes suficientes e expressos para assinar o instrumento particular de novação, confissão e consolidação de dívida com a empresa agravante, não possuindo, assim, legitimidade para figurar no polo passivo da lide.
+5. No caso, rever os fundamentos do acórdão a fim de acolher a pretensão do agravante exigiria exceder os fundamentos do aresto impugnado, além do reexame de provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.025.931/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários sucumbenciais, nos termos do § 11 do art. 85 do CPC, diante do arbitramento no limite máximo permitido em lei.
+Publique-se.  Intimem-se.
