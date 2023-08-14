@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Naedson Lucio de Carvalho - investigado no Inquérito Policial Militar, instaurado pela Portaria n. 108.142/2023, da 11ª Região de Polícia Militar/MG, que apura a prática, em tese, dos crimes militares de ameaça e coação, atacando-se o acórdão proferido pelo Tribunal de Justiça Militar de Minas Gerais (HC n. 2000099-12.2023.9.13.0000 - fls. 115/122) que manteve a tramitação da citada investigação -, não comporta seguimento.
+Com efeito, busca o recurso o trancamento do inquérito policial militar, ao argumento de atipicidade da conduta imputada: a conduta narrada pelo Ten. Daniel Carvalho Miranda, no painel administrativo da PM trata-se de simples comunicação aos superiores e não uma ameaça como tentam imputar ao réu (fl. 133).
+Contrarrazões do Ministério Público local assentando a existência de indícios mínimos de materialidade e autoria em relação aos crimes pelos quais o militar está sendo investigado (fl. 145).
+Ocorre que o recurso não demonstrou constrangimento ilegal apto a justificar o excepcional trancamento de inquérito policial pela via eleita - só admitido quando evidenciada, de maneira inequívoca e a um primeiro olhar, a atipicidade da conduta ou de causa extintiva da punibilidade (AgRg no RHC n. 174.004/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/4/2023) -, especialmente porque o acórdão hostilizado concluiu pela existência de elementos mínimos indicativos de materialidade de fatos e indícios da autoria que, em tese, constituam delito (fl. 120). Então, concluir de forma diversa demandaria reexame probatório, providência vedada na via eleita.
+Em razão disso, nego seguimento ao recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL MILITAR. RECURSO EM HABEAS CORPUS. CRIMES MILITARES DE AMEAÇA E COAÇÃO. TRANCAMENTO DE INQUÉRITO POLICIAL. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA IMPUTADA. NÃO CABIMENTO. PRESENÇA DE INDÍCIOS MÍNIMOS DE AUTORIA E MATERIALIDADE. NECESSIDADE DE REEXAME PROBATÓRIO. INVIABILIDADE. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Recurso a que se nega seguimento.
