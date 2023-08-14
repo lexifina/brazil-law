@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por BANCO DO NORDESTE DO BRASIL S/A contra decisão que não conheceu do agravo em recurso especial.
+Ação: recuperação judicial ajuizada por TB Sul Indústria e Comércio de Revestimento S/A, TB Nordeste Indústria e Comércio de Revestimentos S/A, Cerâmica Cedisa LTDA, Mineração Loghi LTDA, Mineração Tubarão LTDA, TB Comércio, Administração e Participações LTDA, e SPE ITA Fenix Administradora de Imóveis LTDA.
+Decisão interlocutória: homologou o plano e seus modificativos, concedendo a recuperação judicial, tendo o BANCO DO NORDESTE DO BRASIL S/A interposto agravo de instrumento argumentando acerca da abusividade dessa homologação em face do seu crédito junto às empresas ora agravadas.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos seguintes termos (fls. 1998-1999):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DO PLANO E DE SEUS MODIFICATIVOS E CONCESSÃO DA RECUPERAÇÃO JUDICIAL. PLANO E MODIFICATIVOS REJEITADOS PELO ÚNICO CREDOR HABILITADO A VOTAR PELA CLASSE II. VOTO PROFERIDO EM MANIFESTA CONTRARIEDADE AO INTERESSE DA COMUNHÃO DE CREDORES E AOS FINS DA LEI N. 11.101, DE 9.2.2005. ABUSO DE DIREITO. ARTIGO 187 DO CÓDIGO CIVIL. RECONHECIMENTO DA VIABILIDADE ECONÔMICO-FINANCEIRA DAS EMPRESAS MATERIALIZA DA PELA APROVAÇÃO DO PLANO E SEUS MODIFICATIVOS PELA MAIORIA ESMAGADORA DOS CREDORES. CONCESSÃO DA RECUPERAÇÃO JUDICIAL. ARTIGO 58, § 1º, DA LEI N. 11.101, DE 9.2.2005. MITIGAÇÃO DOS REQUISITOS LEGAIS. POSSIBILIDADE. PRINCÍPIOS DA FUNÇÃO SOCIAL E DA PRESERVAÇÃO DA EMPRESA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA, DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO E DA CORTE. AFASTAMENTO DA INCIDÊNCIA DE DESÁGIO SOBRE A PARCELA DO CRÉDITO ATRELADA AO FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORDESTE - FNE. INVIABILIDADE. INEXISTÊNCIA DE DIFERENCIAÇÃO ENTRE CREDORES PÚBLICOS E PRIVADOS SUJEITOS AOS EFEITOS DA RECUPERAÇÃO JUDICIAL NA LEI N. 11.101, DE 9.2.2005. IMPOSSIBILIDADE DE IMPOSIÇÃO DE TRATAMENTO DIFERENCIADO A CREDOR SUBMETIDO AOS EFEITOS DO PROCEDIMENTO DE REESTRUTURAÇÃO. ÍNDOLE MARCADAMENTE CONTRATUAL DO INSTITUTO QUE AUTORIZA A NEGOCIAÇÃO DE CRÉDITOS SUJEITOS AO PROCEDIMENTO, OBSERVADAS AS LIMITAÇÕES IMPOSTAS PELA LEI N. 11.101, DE 9.2.2005. PREVISÃO DE CONDIÇÕES ESPECIAIS PARA O PAGAMENTO DE CRÉDITOS VENCIDOS E EQUALIZAÇÃO DE ENCARGOS FINANCEIROS RELATIVOS A DÉBITOS DE QUALQUER NATUREZA. MEIOS LEGAIS DE RECUPERAÇÃO JUDICIAL. ARTIGO 50, INCISOS I E XII, DA LEI N. 11.101,DE 9.2.2005. OBJEÇÃO ÀS PROPOSTAS DE PAGAMENTO DOS CRÉDITOS DAS CLASSES II E III (CORREÇÃO MONETÁRIA,JUROS E DESÁGIO). DISPOSIÇÕES DE CUNHO ECONÔMICO. IMPOSSIBILIDADE DE CONTROLE JUDICIAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA,DA CORTE E DA CÂMARA. RECURSO DESPROVIDO.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão denegatória do recurso especial (Súmula 182/STJ).
+Agravo interno: alega que rebateu todos fundamentos da decisão denegatória de processamento do recurso e, ao final, requer a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Recuperação Judicial.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não conheceu do agravo em recurso especial da parte agravante, ante a incidência da Súmula 182/STJ.
+Da análise do presente recurso, verifica-se que a parte agravante deixou de rebater, pontualmente, o fundamento da decisão agravada, pois não demonstrou, de maneira consistente e específica, a inaplicabilidade da Súmula 182/STJ à hipótese dos autos.
+De fato, a parte agravante não se desincumbiu de apontar que, nas razões do agravo em recurso especial, impugnou a incidência das Súmulas n. 7 e 83, ambas do STJ, pois não demonstrou que os pressupostos fáticos necessários ao julgamento da causa estavam delineados no acórdão recorrido, tampouco indicou julgados recentes desta Corte que corroborem com suas pretensões recursais.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Outrossim, cumpre ressaltar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Além disso, saliente-se que a aplicação da Súmula 83/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Dessa forma, cabia à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os
+fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
