@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado contra acórdão assim ementado (fl. 12):
+HABEAS CORPUS. QUEIXA-CRIME. DELITO CONTRA CONTRA A HONRA. PEDIDO DE TRANCAMENTO DE AÇÃO PENAL PRIVADA. SUSTENTADA AUSÊNCIA DE UM DOS REQUISITOS DO ART. 44 DO CÓDIGO DE PROCESSO PENAL (DESCRIÇÃO DO FATO CRIMINOSO). INOCORRÊNCIA. INSTRUMENTO DE MANDATO FORMALMENTE PERFEITO. PROCURAÇÃO QUE NÃO NECESSITA OBRIGATORIAMENTE DA DESCRIÇÃO PORMENORIZADA DOS FATOS. REQUISITOS LEGAIS PREENCHIDOS COM A SIMPLES MENÇÃO AOS TIPOS PENAIS, EM TESE, VIOLADOS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. ORDEM CONHECIDA E DENEGADA.
+Alega o impetrante, em suma, que o paciente faz jus ao trancamento da ação penal, tendo em vista que "a petição inicial é inepta, uma vez que não acompanhada de procuração válida. E, uma vez que o prazo para sanar o vício apresentado é o prazo decadencial de 6 meses, a contar da datas dos fatos ou da ciência da autoria, nos termos do art. 38 do CPP, no caso em tela, temos que o querelado decaiu do seu direito de queixa em razão do transcurso de tempo, superior a um ano" (fl. 8).
+Aduz que, "considerando que o defeito na representação processual do querelante, qual seja o fato de a procuração outorgada para a propositura da ação não atender as exigências do art. 44 do CPP, não foi sanada dentro do prazo decadencial previsto no art. 38 do mesmo diploma legal, de modo que o querelante decaiu de seu direito de queixa" (fl. 9).
+Requer, assim, a "concessão da ordem de Habeas Corpus para trancar a ação penal autuada sob o n. 5001548-70.2022.8.24.0030, tendo em vista que inexiste justa causa apta a justificar o seu prosseguimento" (fl. 10).
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela prejudicialidade do writ.
+Como bem observado pelo MPF, compulsando as informações prestadas pelo Tribunal de origem, "em primeira instância, aportou ao feito manifestação defensiva sinalizando a intenção em compor acordo (doc. 7), sendo o processo encaminhado para o Órgão Ministerial para manifestação (doc. 8)" (fl. 320), sendo juntada petição do querelante aceitando a composição do acordo, o que evidencia a perda superveniente do interesse .
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
