@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  contra  a  decisão  que  indeferiu  liminarmente  o  habeas  corpus,  em  razão  do  óbice  do  verbete  691  da  Súmula  do  STF.
+Sustenta  o  agravante, em síntese,  ilegalidade no cumprimento do mandado de busca e apreensão, por ter ocorrido em local diverso do autorizado judicialmente, assim como nulidade das provas por violação de domicílio sem justa causa e sem autorização do morador.
+Afirma ainda ausência de fundamentação idônea para a prisão preventiva, sendo cabível, no caso, a substituição da prisão por medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Requer  a  reconsideração  da  decisão  agravada  ou  o  provimento  do  agravo  regimental.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  SÚMULA  N.  691  DO  STF.  PRISÃO  PREVENTIVA.  FUNDAMENTO  VÁLIDO.  EXPRESSIVA  QUANTIDADE  DE  DROGA.  NULIDADE. INVASÃO DE DOMICÍLIO. QUESTÃO PASSÍVEL DE INDEFERIMENTO DE PEDIDO LIMINAR.  AUSÊNCIA  DE  ILEGALIDADE  FLAGRANTE.
+1.  A teor do enunciado da Súmula n. 691 do Supremo Tribunal Federal, plenamente adotada por esta Corte, em princípio não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. A despeito de tal óbice processual, tem-se entendido que tão somente em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado, hipótese que não se faz presente.
+2.  Apresentada  fundamentação  concreta,  evidenciada  na  apreensão  de  significativa  quantidade  de  drogas  (31 frascos,  com  peso líquido de 13,2g;  13 eppendorfs de cocaína,  com peso líquido de 3,1g;  e  2 sacos  de  cocaína,  com peso líquido de 333,9g; e 2 sacos de maconha a granel, com peso líquido de 327,5g),  não  há  ilegalidade  no  decreto  de  prisão  preventiva.
+3.  A alegação de nulidade por invasão de domicílio é questão passível de indeferimento do pedido liminar, por demandar análise do próprio mérito da impetração.
+4. Agravo  regimental  improvido.
+VOTO
+A  decisão  agravada  assim  dispôs  (fls.  117-119):
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de SAMUEL RENATO FERREIRA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou o pedido de liminar formulado no HC n. 2120844-42.2023.8.26.0000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, tendo em vista a ilegalidade no cumprimento do mandado de busca e apreensão, uma vez que realizado em local diverso daquele autorizado judicialmente, além de a busca domiciliar ter sido realizada sem fundadas razões e sem autorização judicial ou do morador, sendo ilícitas as provas dela derivadas.
+Ressalta, ainda, que a segregação processual encontra-se despida de fundamentação idônea; não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP; e revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão cautelar ou sua revogação.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, a decisão atacada não se revela teratológica.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+A  teor  do  disposto  no  enunciado  da  Súmula n.  691  do  Supremo  Tribunal  Federal,  não  se  admite  a  utilização  de  habeas  corpus  contra  decisão  que  indeferiu  liminar  em  writ  impetrado  no  Tribunal  de  origem,  sob  pena  de  indevida  supressão  de  instância.
+A  despeito  de  tal  óbice  processual,  tem-se  entendido  que,  em  casos  excepcionais,  quando  evidenciada  a  presença  de  decisão  teratológica  ou  desprovida  de  fundamentação,  é  possível  a  mitigação  do  referido  enunciado.
+O  Tribunal  estadual  indeferiu  o pedido  liminar  sob os  seguintes  termos  (fls.  21-22):
+A medida liminar em habeas corpus - não prevista expressamente nos artigos 647 ao 667 do Código de Processo Penal - é excepcional, cabível somente quando o constrangimento ilegal for detectado de plano, por meio do exame sumário da inicial, o que não ocorre no presente caso, porquanto não demonstrados, de pronto, o fumus boni juris e o periculum in mora, necessários para concessão da liminar.
+O paciente foi preso em flagrante, no dia 17 de maio de 2023, pela prática, em tese, do delito de tráfico de drogas.
+A prisão em flagrante foi convertida em preventiva um dia após (págs. 87/88 da ação originária), pelo MM. Juiz de Direito que presidiu a audiência de custódia, cuja r. decisão foi suficientemente fundamentada.
+O delito em questão tráfico de drogas -, em regra, fomenta a prática de diversos outros, inclusive aqueles que pressupõem emprego de violência contra as vítimas.
+Outrossim, a análise do preenchimento, ou não, dos requisitos legais autorizadores da custódia provisória ou mesmo de medidas cautelares diversas da segregativa, revela-se inadequada à esfera de conhecimento liminar, porquanto se confunde com o mérito.
+Ademais, qualquer discussão sobre o mérito da ação é incabível por meio desta via estreita e limitada, inapropriada para a análise de elementos subjetivos e probantes presentes nos autos, uma vez que este exame será feito oportunamente, sob a garantia do contraditório e da ampla defesa, em respeito ao princípio constitucional do devido processo legal, sob pena de violação ao princípio do juiz natural, de prejulgamento do mérito e intolerável supressão de instância.
+Observo que o paciente ostenta maus antecedentes e é reincidente específico. Além disso, a apreensão de petrechos utilizados no tráfico de drogas e a quantidade e variedade de entorpecentes apreendidos31 porções de maconha, 13 eppendorfs e 2 sacos contendo cocaína -, bem como a dinâmica da sua apreensão, são circunstâncias que devem ser levadas em consideração ao analisar a gravidade em concreto.
+Nesta fase de cognição sumária, o que importa é o delineamento de conduta típica e que a prova da materialidade delitiva e o sindícios de autoria, colhidos durante as investigações policiais, sejam suficientes para a propositura da ação penal.
+A  decisão  que  converteu  a  prisão  em  flagrante  em  preventiva  assim  fundamentou  (fls.  109-110):
+ .. .O fato é que ao meu ver o flagrante deve ser homologado, uma vez que o tráfico de drogas é crime permanente e há, de acordo com os depoimentos dos policiais, em absoluta cognição sumária e somente para análise deste momento de audiência de custódia, em tese, ligação entre a residência que foi cumprido um mandado de busca e apreensão e ligação na residência na qual foram encontrados os objetos apreendidos.
+Portanto, e considerando, segundo também o auto de prisão em flagrante, a quantidade de drogas, a quantidade de embalagens que foram apreendidas, e os demais elementos converter a prisão em flagrante em preventiva.  .. .
+De início, quanto aos fundamentos da prisão preventiva, verifica-se que a  medida constritiva  se  deu com base em  fundamento  válido,  para  resguardar  a  ordem  pública,  tendo em vista a apreensão de  quantidade  expressiva  de  drogas, qual seja, 31 frascos contendo maconha (peso líquido 13,2g); 13 eppendorfs de cocaína (peso líquido 3,1g); 2 sacos contendo cocaína (peso líquido 333,9g); e 2 sacos contendo maconha a granel (peso líquido 327,5g), conforme laudo de constatação (fls. 79-80).
+Pacífico  é  o  entendimento  nesta  Corte  Superior  de  que,  embora  não  sirvam  fundamentos  genéricos  (do  dano  social  gerado  por  tráfico,  crime  hediondo,  ou  da  necessidade  de  resposta  judicial)  para  a  prisão,  podem  a  periculosidade  e  os riscos  sociais  justificar  a  custódia  cautelar  no  caso  de  tráfico,  assim  se  compreendendo  a  especialmente  gravosa  natureza  ou  quantidade  da  droga.  Nesse  sentido:  AgRg no HC n. 801.020/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgRg no HC n. 783.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJPE) - DJe 11/9/2015 e HC n. 313.977/AL - 6ª T. - unânime - rel. Min. Maria Thereza de Assis Moura - DJe 16/3/2015.
+Quanto à alegada ilegalidade no cumprimento do mandado de busca e apreensão e ilicitude de provas em razão da invasão de domicílio, tem-se que, como bem ressaltado na decisão recorrida, tais pleitos são passíveis de indeferimento do pedido liminar na origem, por demandarem o exame mais aprofundado a ser realizado no mérito do writ, após a juntada das informações da autoridade aponta da como coatora, não se verificando, de imediato, flagrante ilegalidade.
+Assim, a apreciação da questão referente à nulidade por esta Corte Superior implicaria inevitavelmente supressão de instância.
+Desse modo, a decisão agravada deve ser mantida, pois não há manifesta ilegalidade apta a autorizar a mitigação da Súmula n. 69l/STF.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
