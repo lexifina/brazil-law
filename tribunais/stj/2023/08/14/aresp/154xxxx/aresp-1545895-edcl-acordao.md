@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CITEP EMPREENDIMENTOS IMOBILIÁRIOS LTDA. ao acórdão assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. LEILÃO. HABILITAÇÃO NO CERTAME. INDEFERIMENTO. PRESTAÇÃO JURISDICIONAL. FALHA. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO NÃO ATACADO. DISSÍDIO JURISPRUDENCIAL.1. Não há falar em falha na prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.2. Nos termos da iterativa jurisprudência desta Corte, o prequestionamento pressupõe o efetivo debate pelo Tribunal de origem acerca da matéria, ainda que não haja expressa menção ao dispositivo legal, o que não ocorreu na espécie. 3. A ausência de impugnação de fundamento suficiente para manutenção do acórdão recorrido enseja o não conhecimento do recurso no ponto, incidindo o disposto na Súmula nº 283/STF. 4. A falta de prequestionamento obsta o conhecimento do recurso por qualquer das alíneas do permissivo constitucional. Precedentes. 5. Agravo interno não provido" (fl. 637, e-STJ).
+Em suas razões, a embargante afirma que não foram enfrentadas questões relevantes apresentadas em seu agravo interno, cingindo-se o acórdão embargado a reproduzir a decisão agravada, o que fere o disposto no artigo 93, IX, da Constituição Federal.
+Afirma que não foi agregado nenhum fundamento quanto à negativa de prestação jurisdicional da Corte de origem, que, mesmo provocada em embargos de declaração, nada dispôs acerca da subsunção do impedimento em participar do certame ao que estava no edital.
+Ressalta que se tivessem sido enfrentadas suas alegações não se chegaria à equivocada conclusão de que a sua inabilitação ocorreu devido à falta de cumprimento das normas estabelecidas no edital.
+No que respeita à matéria contida no artigo 890 do Código de Processo Civil, entende que o caso era de reconhecimento do prequestionamento ficto, albergado pelo artigo 1.025 do CPC.
+Defende que a Corte de origem aplicou interpretação extensiva ao referido artigo 890 do CPC, de modo a atingi-lo.
+Conclui, diante disso, que houve prequestionamento da matéria, o que viabilizará sua análise tanto pela alínea "a" quanto pela "c" do permissivo constitucional e, por consequência, não somente reconhecerá a possibilidade de sua participação, como a necessidade da anulação do certame.
+Requer o acolhimento dos embargos para que, supridas as omissões, seja dado provimento ao recurso, a fim de anular o acórdão estadual ou declarar a nulidade do leilão com fundamento no disposto nos artigos 890 e 903, § 1º, I, do CPC.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. LEILÃO. HABILITAÇÃO NO CERTAME. INDEFERIMENTO. PRESTAÇÃO JURISDICIONAL. FALHA. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO NÃO ATACADO. DISSÍDIO JURISPRUDENCIAL. OMISSÃO, CONTRADIÇÃO OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do Código de Processo Civil de 2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC): obscuridade, contradição, omissão ou erro material.
+Com efeito, as alegações apresentadas pelas embargantes foram expressamente enfrentadas:
+"(..)
+No que tange ao art. 1.022 do Código de Processo Civil de 2015, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Frisa-se que, mesmo à luz do art. 489 do Código de Processo Civil de 2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). Concretamente, verifica-se que o Tribunal local enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, concluindo que a recorrente não poderia participar do leilão por não cumprir um dos requisitos do edital, destacando-se do acórdão o seguinte trecho:
+"(..)Não há motivos para a reforma da decisão. Com efeito, o representante legal e sócio da agravante também integra o quadro social da empresa Agropecuária Dona Yvone Ltda., que há tempos litiga com a falida buscando manter-se em área de terra da massa, e tudo indica que a posse que exerce é irregular e que a sociedade é devedora da falida, certo que os recursos que interpôs foram todos rejeitados" (fl. 351, e-STJ).
+Cumpre ressaltar que a decisão de primeiro grau impugnada pelo agravo de instrumento tinha como objeto analisar o pedido de habilitação da recorrente. As demais matérias alegadas, relativas a vícios no leilão e a favorecimento de outros participantes, não foram objeto de decisão no primeiro grau de jurisdição, de modo que o Tribunal não poderia manifestar-se acerca delas, sob pena de infringir os limites de cognição do recurso, o que não configura omissão ou falta de fundamentação.
+Vale lembrar que o recurso não devolve ao Tribunal matéria estranha ao âmbito de julgamento da decisão impugnada.
+No que respeita ao artigo 890 do CPC/2015, que trata das pessoas que podem oferecer lance na arrematação, não foi objeto de decisão pelo aresto recorrido, ressentindo-se o recurso do indispensável prequestionamento.
+Também carece de prequestionamento a matéria contida no artigo 903, § 1º, do CPC/2015, tendo a Corte local esclarecido que não poderia tratar do tema no julgamento do agravo de instrumento por não ter sido a questão objeto da decisão de primeiro grau.
+A propósito:
+(..)
+Ademais, observa-se que se a recorrente entendia que o tribunal deveria conhecer das matérias alegadas apesar de não terem sido analisadas em primeiro grau, por se tratarem de fatos supervenientes, era o caso de ter suscitado essa tese perante aquela Corte, com a indicação dos dispositivos legais que a amparam, o que, no entanto, não foi feito.
+Cumpre esclarecer que, nos termos da iterativa jurisprudência desta Corte, o prequestionamento pressupõe o efetivo debate pelo Tribunal de origem acerca da matéria, ainda que não haja expressa menção ao dispositivo legal, o que não ocorreu na hipótese.
+(..)
+Na realidade, acerca da alegação da existência de vícios no leilão, com o favorecimento de outros participantes, a Corte de origem assim se manifestou no julgamento dos declaratórios:
+"(..)A decisão recorrida deixou claro o motivo pelo qual deveria ser mantida a decisão agravada e as questões alegadas pela embargante, relativas a outros licitantes, não interferem na apreciação da decisão que indeferiu sua habilitação e, aliás sequer foram objeto da decisão agravada. Portanto, não seria viável a apreciação delas no acórdão ora embargado" (fl. 503, e-STJ - grifou-se).
+Assim, foram apresentados 2 (dois) fundamentos para não se conhecer das alegações. A recorrente, porém, deixou de impugnar o segundo, que permanece hígido, o que atrai a incidência da Súmula nº 283/STF.
+É oportuno registrar, por fim, que a falta de prequestionamento impede o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+(..)" (fls. 641/645, e-STJ).
+É preciso consignar que a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do Código de Processo Civil de 2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. ALEGADA VIOLAÇÃO DO 357, III, DO CPC/2015. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DO CDC. TEORIA FINALISTA. MITIGAÇÃO. POSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. VULNERABILIDADE. NECESSIDADE DE COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ.
+1. Ação ajuizada sob o rito do procedimento comum, requerendo declaração de nulidade de alterações nas condições de pagamento, o afastamento de reajuste de tarifas e de valores cobrados acima dos índices oficiais, condenação da ré em se abster de impor medidas que aumentem os ônus ou reduzam os direitos da autora, e a devolução de valores pagos a maior.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+3. A jurisprudência desta Corte tem mitigado a teoria finalista para autorizar a incidência do CDC nas hipóteses em que a parte (pessoa física ou jurídica), embora não seja tecnicamente a destinatária final do produto ou serviço, se apresente em situação de vulnerabilidade.
+4. Alterar o decidido pelo Tribunal local sobre a existência ou não de vulnerabilidade da recorrente e da necessidade de inversão do ônus probatório, seja pelo art. 6º VIII, do CDC, seja pelo art. 373, § 1º, do CPC/2015, demandaria o reexame do conjunto fático-probatório dos autos, além de cláusulas contratuais, o que não se admite em sede de recurso especial. Súmulas 5 e 7 do STJ.
+5. Agravo interno não provido" (AgInt no REsp nº 1.989.321/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022 - grifou-se).
+Vale destacar, ademais, que o artigo 890 do CPC nem sequer foi citado na petição de embargos declaratórios, também não restando afirmado que teria ocorrido sua interpretação extensiva (fls. 447/472, e-STJ), assim também em relação ao art. 903, § 1º, I, do CPC. Reitera-se que o prequestionamento pressupõe o efetivo debate da matéria alegada no recurso especial.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados." (EDcl no AgInt no REsp 1.940.827/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 1º/2/2022).
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Consoante estabelecido pelo art. 1.022 do CPC, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios for reconhecido.
+2. No caso dos autos, não há qualquer vício a ensejar esclarecimento ou integração do que decidido no julgado.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS." (EDcl no REsp 1.720.121/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/2/2022, DJe 17/2/2022).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
