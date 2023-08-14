@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL) contra decisão de relatoria do Ministro Presidente desta Corte, que conheceu do agravo para não conhecer do recurso especial anteriormente manejado em virtude da falta de prequestionamento do art. 537 do NCPC (Súmula n.º 211 do STJ).
+Nas razões do presente inconformismo, defendeu que o mencionado dispositivo foi devidamente prequestionado.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ASTREINTES. VIOLAÇÃO DO ART. 537 DO NCPC. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem, apesar da oposição dos embargos de declaração, obsta o conhecimento do recurso especial pela ausência de prequestionamento. Aplicável, assim, o enunciado n.º 211 da Súmula do Superior Tribunal de Justiça.
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, além de opor à parte recorrente embargos de declaração na origem, suscitar a violação do art. 1.022 do diploma legal, o que não foi feito no caso em apreço.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, AMIL sustentou que o Tribunal de origem apreciou a alegada violação do art. 537, § 1º, I e II, do NCPC e que, por esse motivo, no âmbito do STJ, deve-se conhecer do recurso especial por ela interposto e a ele dar provimento para reduzir o valor da multa diária.
+Contudo, o Tribunal estadual não se pronunciou sobre tais pontos, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à violação do art. 537 do NCPC.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. 3. DOENÇA PREEXISTENTE. CLÁUSULA DE CARÊNCIA. ACÓRDÃO RECORRIDO QUE CONSIGNOU PELA AUSÊNCIA DE PROVAS CONCRETAS DO CONHECIMENTO PRÉVIO DA MOLÉSTIA PELA SEGURADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DO DISPOSITIVO QUE TERIA SIDO VULNERADO PELO ACÓRDÃO ESTADUAL. SÚMULA 284 DO STF. 5. AGRAVO IMPROVIDO.
+1. Segundo esta Corte Superior, "é vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa" (STJ, AgInt no REsp 1.536.146/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/09/2016).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+3. Em relação à cobertura de doença preexistente, esta Corte tem entendido que é abusiva a recusa à cobertura de tratamento necessário ao segurado, ainda que se fundamente em doença preexistente, em que a administradora do plano não exigiu exames prévios de admissão, e não está demonstrada a inequívoca má-fé do consumidor, como ocorreu no caso dos autos.
+3.1. Reverter a conclusão do Tribunal local, no sentido de que não há nos autos nenhum elemento capaz de comprovar que a recorrida tinha conhecimento da existência da doença e que dificilmente o quadro clínico de pneumonia passaria incólume pelos médicos da agravante, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça. 4. Quanto ao pedido de redução dos honorários sucumbenciais, a falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.224.597/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/4/2018, DJe de 18/4/2018 - destacou-se)
+Importante destacar que a jurisprudência do STJ entende que para a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COBERTURA CONTRATUAL E PRAZOS DE CARÊNCIA. IMPOSSIBILIDADE DE REDISCUSSÃO DO MÉRITO EM FASE DE CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Os arts. 932, IV, a, do CPC/2015; 34, XVIII, a, e 255, § 4º, I e II, do RISTJ devem ser interpretados conjuntamente com a Súmula 568/STJ, a fim de permitir que o relator decida monocraticamente o recurso, quando amparado em jurisprudência dominante ou súmula de Tribunal Superior, como no caso dos autos.
+2. A apontada violação aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem, apesar da oposição dos embargos de declaração, obsta o conhecimento do recurso especial pela ausência de prequestionamento. Aplicável, assim, o enunciado n. 211 da Súmula do Superior Tribunal de Justiça.
+3.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, além de opor a parte recorrente embargos de declaração na origem e suscitar a violação ao art. 1.022 do diploma legal, esta Corte reconhecer a ocorrência de omissão, obscuridade ou contradição no julgado, situações não verificadas na hipótese em apreço.
+4. A alteração das conclusões adotadas pelo aresto impugnado, demandaria o necessário revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial nos termos da Súmula 7/STJ.
+5. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.784.560/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2022, DJe de 29/4/2022. - destacou-se)
+Contudo, no caso dos autos, apesar da oposição dos aclaratórios, a análise do tema agora tratado não pode ser feita em razão da ausência de indicação de violação do disposto no art. 1.022 do NCPC.
+Assim, não se pode conhecer do recurso quanto ao ponto por falta de prequestionamento, dando azo à incidência da Súmula n.º 211 do STJ.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
