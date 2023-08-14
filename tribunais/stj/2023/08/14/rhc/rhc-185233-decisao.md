@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Jonathan Victor de Lima Feitosa - preso preventivamente, desde o dia 20/6/2022, pela prática, em tese, dos crimes de roubo circunstanciado, associação criminosa e corrupção de menores - contra acórdão do Tribunal de Justiça do Ceará (Habeas Corpus n. 0628421-06.2023.8.06.0000), não comporta seguimento.
+Com efeito, busca o recorrente o relaxamento da prisão cautelar imposta a ele pelo Juiz de Direito da 2ª Vara Criminal da comarca de Caucaia/CE, ao argumento de que não existe sucessão razoável de atos e expedientes quanto ao processo de primeiro grau. Em realidade, houve clara desídia do Poder Judiciário e da Acusação, a qual se demonstra por meio da sequer designação da audiência de instrução (fl. 100).
+Da atenta análise dos autos e do andamento da ação penal no site do Tribunal a quo não se verifica desídia do Judiciário no impulsionamento do feito. O recorrente foi preso em flagrante em 20/6/2022, a denúncia oferecida ainda no mesmo mês e recebida em 17/8/2022, ocasião em que, ante o silêncio do réu em apresentar resposta à acusação, nomeou-se defensor dativo em 8/9/2022, com pedido de relaxamento da prisão em 30/11/2022. Desde então, a ação penal foi movimentada para diligências necessárias, por todos os meses deste ano. Atualmente, os autos aguardam a intimação de testemunha da acusação, a qual já foi notificada no novo endereço fornecido.
+Assim, considerando o tempo de prisão ca utelar até o presente momento , não se verifica coação ilegal por excesso de prazo, devendo ser observado o princípio da razoabilidade, pois os prazos processuais não são absolutos.
+Em face do exposto, nego seguimento ao recurso ordinário.
+Publi que-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO, ASSOCIAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SEGREGAÇÃO IMPOSTA EM 20/6/2022 E APARENTE REGULAR IMPULSIONAMENTO DA AÇÃO PENAL. DESÍDIA DO JUDICIÁRIO OU DOS ÓRGÃOS DE PERSECUÇÃO. AUSÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. RAZOABILIDADE. OBSERVÂNCIA.
+Recurso a que se nega seguimento.
