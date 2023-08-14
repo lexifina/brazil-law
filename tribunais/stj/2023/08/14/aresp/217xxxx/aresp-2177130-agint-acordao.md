@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CICERO ANTONIO PINTO MACEDO contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento.
+Ação: de busca e apreensão ajuizada por BANCO J. SAFRA S/A em face do agravante.
+Sentença: julgou procedente a inicial para consolidar a posse plena e exclusiva do bem alienado ao patrimônio do credor fiduciário.
+Acórdão: deu parcial provimento à apelação do agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. JULGAMENTO DE PROCEDÊNCIA. PRETENSÃO DE REFORMA. IMPUGNAÇÃO AO VALOR DA CAUSA. ACOLHIDA. REVISÃO DE CLÁUSULAS CONTRATUAIS COMO MATÉRIA DE DEFESA. POSSIBILIDADE. COMISSÃO DE PERMANÊNCIA. QUESTÃO NÃO PROPOSTA NO JUÍZO DE ORIGEM. INOVAÇÃO RECURSAL. RECURSO NÃO CONHECIDO NESSE PONTO. TARIFA DE CADASTRO. VALIDADE. SÚMULA 566/STJ. TARIFA DE AVALIAÇÃO E TAXA DE REGISTRO. ENCARGOS NÃO EXIGIDOS NO CONTRATO. AUSÊNCIA DE INTERESSE PROCESSUAL. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA NÃO CONFIGURADA. MORA NÃO DESCARACTERIZADA. RECURSO PARCIALMENTE CONHECIDO E PROVIDO EM PARTE.
+1. Insurge-se o apelante contra a sentença que julgou procedente o pedido inicial da ação de busca e apreensão, consolidando a posse plena e exclusiva do bem alienado fiduciariamente em favor do credor fiduciário.
+2. O recorrente introduziu questão inédita, em sede de apelação, concernente à cobrança abusiva da comissão de permanência cumulada com encargos remuneratórios e moratórios. A apelação devolve ao tribunal o conhecimento das matérias deduzidas em primeira instância, sendo vedada a inovação recursal, porquanto implica em ofensa ao duplo grau de jurisdição. Recurso não conhecido nesse ponto.
+3. Nas ações de busca e apreensão, o valor da causa corresponde ao saldo devedor integral, compreendendo o somatório das parcelas vencidas e vincendas. In casu, o autor atribuiu à causa o valor total do contrato, sem deduzir as prestações pagas. Portanto, a impugnação ao valor da causa deve ser acolhida.
+4. Tarifa de cadastro. Consoante o enunciado da Súmula nº. 566/STJ: "Nos contratos bancários posteriores ao início da vigência da Resolução-CMN n. 3.518/2007, em 30/4/2008, pode ser cobrada a tarifa de cadastro no início do relacionamento entre o consumidor e a instituição financeira. Destarte, é válida a cobrança no caso concreto.
+5. Tarifa de avaliação e taxa de registro. No julgamento do REsp. 1578553-SP (TEMA 958/STJ) firmou-se a seguinte tese: "Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto.". Na hipótese, não houve cobrança da tarifa de avaliação e de taxa de registro do contrato. Nesse ponto, inexiste interesse processual.
+6. Seguro Proteção Financeira. Segundo o entendimento firmado nos Recursos Especiais Repetitivos nº. 1.639.320/SP e 1.639.259/SP (TEMA 972/STJ): "a contratação do seguro é válida, desde que não seja imposta ao contratante restrição à sua liberdade de escolha." No caso em exame, o valor do seguro e a autorização do pagamento constam da cédula de crédito bancário assinada pelo apelante e não há elementos nos autos que evidenciem a imposição da contratação do seguro como condição para celebração do contrato de financiamento do veículo.
+7. Mora. Consoante a orientação 2 do REsp 1.061.530/RS: "a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual. No caso concreto, o apelante limitou-se a discutir encargos acessórios, contudo a jurisprudência é assente no sentido de que eventuais abusividades nos encargos acessórios não descaracterizam a mora.
+8. Recurso parcialmente conhecido e provido em parte. Sentença parcialmente reformada. (e-STJ fls.168/169)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso Especial: alega violação dos arts. 1.022 do CPC; 6º, V, 42, parágrafo único, 51, IV, e 54 do CDC; e das Súmulas 30 e 472 do STJ.
+Sustenta que a decisão é omissa ao não considerar as insurgências apresentadas sobre a comissão de permanência. Sobre a temática, argui que os valores cobrados a título de comissão de permanência são abusivos e excedem a soma dos encargos remuneratórios e moratórios contratuais, ocasionando desequilíbrio.
+Ademais, o acórdão deixou de reconhecer o cabimento da repetição de indébito em favor do agravante, não obstante os pagamentos indevidos realizados durante o cumprimento do contrato.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de busca e apreensão.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido. (e-STJ fl. 292)
+Agravo interno: a parte agravante reapresenta as razões recursais expostas no recurso especial e alega não incidir os óbices das Súmulas 5 e 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização de por danos materiais.
+2. O agravo interno interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Da análise do presente recurso, verifica-se que a parte agravante deixou de rebater, pontualmente, os fundamentos da decisão agravada contra a qual se insurge, o que atrai a incidência da Súmula 182 desta Corte Superior.
+Explico.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo interno, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente de todos os fundamentos utilizados pelo decisum recorrido para obstar o seguimento do apelo nobre, o conhecimento do recurso é, de fato, inadmissível, a teor do disposto na aludida Súmula 182 e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+In casu, a decisão monocrática, de forma clara e devidamente fundamentada, asseverou:
+i) o não cabimento do recurso para pretensa violação de Súmula;
+ii) estarem ausentes os vícios do art. 1.022 do CPC;
+iii) incidir os óbices das Súmulas 5 e 7 do STJ.
+Ocorre que, não obstante os diversos fundamentos adotados na decisão agravada, o recorrente limitou-se a refutar os óbices das Súmulas 5 e 7 do STJ, para além de reapresentar a discussão das temáticas contratuais objeto de insurgência.
+Quanto às irresignações, consoante elucidado na decisão agravada, o Tribunal de origem consignou:
+Analisando o aresto embargado, não vislumbro qualquer vício que reclame a integralização e/ou ajuste do decisum. Na realidade, as matérias impugnadas no recurso de apelação foram devidamente enfrentadas e fundamentadas de maneira clara e objetiva.
+Com efeito, diversamente do que pretende fazer crer o embargante, a tese referente à cobrança indevida da comissão de permanência não foi conhecida em razão de tratar-se de inovação recursal.
+Ademais, não há que se falar em direito à repetição do indébito em dobro quando a mora do devedor não restou descaracterizada e nem houve revisão e/ou redução dos encargos contratuais controvertidos.
+A propósito, transcrevo os trechos do acórdão que evidenciam o enfrentamento das questões que o embargante afirma terem sido ignoradas:
+Inicialmente, suscito, de ofício, preliminar de inovação recursal. Confrontando as alegações deduzidas na contestação (fls. 60/83) com as razões recursais, verifica-se que o apelante introduziu questão inédita em sede de apelação, concernente à cobrança abusiva da comissão de permanência cumulada com encargos remuneratórios e moratórios, incorrendo, assim, na vedada inovação recursal.
+Consoante preconiza o art. 1.013 do CPC, a apelação devolve ao tribunal o conhecimento das matérias suscitadas e discutidas no decorrer da tramitação processual em primeira instância, não merecendo conhecimento quando se trata de inovação recursal, sob pena de ofensa ao duplo grau de jurisdição.
+As questões não propostas no juízo de origem só podem ser suscitadas na apelação se a parte comprovar que deixou de fazê-lo por motivo de força maior, não sendo este o caso dos autos.(e-STJ fls. 208/209 e 295)
+Nota-se que o órgão julgador manifestou-se claramente sobre a inovação recursal empreendida pelo agravante, ocasião em que sinalizou o não conhecimento da tese defendida sobre a irregularidade na cobrança da comissão de permanência.
+Ademais, posicionou-se expressamente sobre o não cabimento da repetição de indébito pretendida, na medida em não houve revisão ou redução dos encargos objeto de questionamento e, portanto, não fora descaracterizada a mora contratual.
+Ressalta-se, por oportuno, que os fundamentos supramencionados sequer foram abordados no agravo interno objeto de exame, o que demonstra que o recorrente deixou de rebater, pontualmente, os fundamentos da decisão agravada, não apresentando argumentos juridicamente aptos a modificar o decisum.
+Dessa forma, conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Corte Especial, DJe de 30/11/2018)
+Forte nessas razões, não conheço do agravo interno.
