@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Negou-se provimento ao recurso especial interposto por IPAB - Indústria Paulista de Artefatos de Borracha S/A, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso visa reforma acórdão do Tribunal Regional Federal da 3ª Região, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ART. 557,CAPUT, DO CÓDIGO DE PROCESSO CIVIL. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. ART. 169, CAPUT, DO CÓDIGO TRIBUTÁRIO NACIONAL. PRESCRIÇÃO. PRAZO DE DOIS ANOS A CONTAR DA CIÊNCIA DA DECISÃO ADMINISTRATIVA DEFINITIVA DENEGATÓRIA. AGRAVO DESPROVIDO.
+1. Constata-se, nos autos, a existência de uma decisão negando a repetição do indébito pleiteada administrativamente pelo autor, já tendo sido utilizado, inclusive, o prazo previsto no artigo 165 do Código Tributário Nacional. Essa decisão denegatória em procedimento administrativo constitui-se em condição para que o contribuinte, nos termos do artigo 169 do Código Tributário Nacional, maneje a ação judicial, dentro do prazo prescricional de dois anos.
+2. Através da leitura do artigo 169 do Código Tributário Nacional, denota-se que o legislador tomou o cuidado de qualificar de denegatória a decisão administrativa a ser pugnada pela ação anulatória, sem, contudo, direcionar o pedido a ser nela efetuado pelo contribuinte que se sentir lesado.
+3. é pacífico o entendimento quanto ao cabimento da ação judicial para repetir o indébito, no prazo de dois anos, em face da decisão do Fisco, que negou ao contribuinte o direito ao ressarcimento do tributo recolhido indevidamente em procedimento administrativo, prazo esse contado da data da intimação da decisão administrativa. Precedentes.
+4. Agravo desprovido.
+Na origem, trata-se de ação ajuizada por IPAB - Indústria Paulista de Artefatos de Borracha S/A contra a União objetivando a repetição de indébito de Imposto de Renda na Fonte, no exercício de 1984.
+Na sentença extinguiu-se o feito, por ocorrência da prescrição. No Tribunal a quo a sentença foi mantida. Esta Corte negou provimento ao recurso especial.
+No recurso especial, IPAB - Indústria Paulista de Artefatos de Borracha S/A alega ofensa aos arts. 535, II, do CPC/1973, quanto à omissão do acórdão recorrido relativamente à tese de que independentemente do prazo para ajuizar ação anulatória da decisão administrativa de indeferimento, dispunha a recorrente do prazo de cinco anos do CTN, art. 168, para pleitear a repetição de indébito.
+Nessa linha, alega violação dos arts. 165 e 168 do CTN, pelas mesmas razões, aduzindo que o ajuizamento da ação de repetição de indébito independe de ter havido pleito administrativo anterior. Argumenta, nesse sentido, que os valores relativos ao recolhimento a maior de imposto de renda são do exercício de 1984, ano-base 1983, e a ação foi proposta em 1988, isto é, menos de cinco anos a partir do termo inicial.
+Aduz, ainda, dissídio jurisprudencial quanto ao tema, citando como paradigma o REsp 799.564/PE.
+O acórdão recorrido tem a seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. REQUERIMENTO ADMINISTRATIVO ANTERIOR. PRAZO PRESCRICIONAL APLICÁVEL. ARTS. 168 E 169 DO CTN. AÇÃO FORMALMENTE IDENTIFICADA COMO DE REPETIÇÃO DE INDÉBITO. PRETENSÃO OBJETO DE PRÉVIO INDEFERIMENTO ADMINISTRATIVO. NATUREZA ANULATÓRIA. RECURSO ESPECIAL IMPROVIDO.
+I - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+II - O acórdão de origem assentou a premissa de que o pedido formulado na ação de repetição de indébito, considerando a existência de prévio requerimento administrativo nesse sentido, dependeria, necessariamente, da análise da decisão de indeferimento, cuja anulação seria pressuposto indispensável à restituição pela via judicial, razão por que, mesmo no caso de pleito formal de restituição, aplicar-se-ia o prazo prescricional de dois anos.
+III - Possui relevância para a análise a existência ou não de decisão de indeferimento de requerimento administrativo prévio de restituição do indébito tributário, como no caso sob análise, conforme se dessume dos fatos incontroversos destes autos. Isso porque, independentemente da nomenclatura atribuída à ação - de restituição de indébito ou anulatória - na hipótese como a dos autos, a demanda assume o viés de ação anulatória da decisão administrativa que indeferiu o pedido naquela seara. (AgInt nos EDcl no REsp n. 1.740.765/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2020, DJe de 1/10/2020; AgInt no REsp n. 1.683.673/RJ, relator Ministro Francisco Falcão, relator para acórdão Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/8/2022, DJe de 10/11/2022.)
+IV - Não se pode autorizar que a escolha da nomenclatura "ação de restituição de indébito", implique burla às regras aplicáveis ao direito processual tributário, dilatando o prazo para propositura de ação que, em última análise, objetiva a anulação de ato administrativo, pleito para o qual o artigo 169 do Código Tributário Nacional estipulou prazo prescricional de dois anos.
+V - Assim, não merece reforma o acórdão proferido na origem que, a despeito da denominação formal da ação como sendo de restituição de indébito, por identificar a natureza anulatória do pleito, aplicou o prazo prescricional de dois anos para propositura da ação.
+VI - Recurso Especial a que se nega provimento.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+.. o v. acórdão incorreu em omissão pois foi demonstrada divergência jurisprudencial (alínea c do permissivo constitucional) pela Embargante, que não foi enfrentada pelo v. acórdão. (..)
+.. a premissa fixada pelo v. acórdão ora embargado no sentido de que "possui relevância para a análise a existência ou não de decisão de indeferimento de requerimento administrativo prévio de restituição do indébito tributário", é, nos termos do acórdão paradigma proferido por este STJ no Recurso Especial nº 799.564/PE, absolutamente indiferente.
+É esta divergência jurisprudencial, devidamente veiculada no Recurso Especial, que este STJ deve enfrentar no presente caso, a justificar a oposição dos presentes Embargos de Declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. IRRF. PRESCRIÇÃO. OCORRÊNCIA. REQUERIMENTO ADMINISTRATIVO ANTERIOR. PRAZO PRESCRICIONAL APLICÁVEL. ARTS. 168 E 169 DO CTN. AÇÃO FORMALMENTE IDENTIFICADA COMO DE REPETIÇÃO DE INDÉBITO. PRETENSÃO OBJETO DE PRÉVIO INDEFERIMENTO ADMINISTRATIVO. NATUREZA ANULATÓRIA. RECURSO ESPECIAL IMPROVIDO.. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada por IPAB - Indústria Paulista de Artefatos de Borracha S/A contra a União objetivando a repetição de indébito de Imposto de Renda Retido na Fonte, no exercício de 1984.
+II - Na sentença extinguiu-se o feito, por ocorrência da prescrição. No Tribunal a quo a sentença foi mantida. Esta Corte negou provimento ao recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante relacionados à repetição de indébito foram analisados pelo acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante relacionados à repetição de indébito foram analisados pelo acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+A jurisprudência do Superior Tribunal de Justiça, de fato, já diferenciou, em outras oportunidades, os pedidos anulatório e de restituição, disciplinados nos arts. 168 e 169 do CTN. (..)
+A questão demanda esclarecimento. Isso porque possui relevância para a análise a existência ou não de decisão de indeferimento de requerimento administrativo prévio de restituição do indébito tributário, como no caso sob análise, conforme se dessume dos fatos incontroversos destes autos.
+Isso porque, independentemente da nomenclatura atribuída à ação - de restituição de indébito ou anulatória - na hipótese como a dos autos, a demanda assume o viés de ação anulatória da decisão administrativa que indeferiu o pedido naquela seara. (..)
+Relembre-se que o artigo 169 do Código Tributário Nacional impõe prazo prescricional de 02 (dois) anos para a propositura da ação anulatória da decisão administrativa que denegar a restituição. Confira-se:
+Art. 169. Prescreve em dois anos a ação anulatória da decisão administrativa que denegar a restituição.
+Parágrafo único. O prazo de prescrição é interrompido pelo início da ação judicial, recomeçando o seu curso, por metade, a partir da data da intimação validamente feita ao representante judicial da Fazenda Pública interessada.
+Não se pode autorizar que escolha da nomenclatura "ação de restituição de indébito", implique burla às regras aplicáveis ao direito processual tributário, dilatando o prazo para propositura de ação que, em última análise, objetiva a anulação de ato administrativo, pleito para o qual o artigo 169 do Código Tributário Nacional estipulou prazo prescricional de dois anos.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
