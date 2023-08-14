@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 105):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. QUESTÕES AFETAS À REVISÃO CRIMINAL. POSSIBILIDADE DE ANÁLISE POR ESTA CORTE. FLAGRANTE ILEGALIDADE VERIFICADA. CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus impetrado contra acórdão de Tribunal a quo já transitado em julgado não deve ser conhecido, uma vez que manejado como substitutivo de revisão criminal, hipótese na qual ainda não houve a inauguração da competência desta Corte Superior.
+2. Entretanto, constatou-se flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício, tendo em vista que a jurisprudência desta Corte e do Supremo Tribunal Federal firmaram-se no sentido de que a existência de processos em curso não tem o condão de afastar a incidência do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, por violar o princípio da presunção de inocência.
+3. Ademais, na hipótese, a quantidade de droga apreendida não se mostra elevada a ponto de justificar, apenas por tal fundamento, o afastamento do referido redutor de pena, uma vez que as instâncias ordinárias não apresentaram outros elementos concretos que concluíssem pela dedicação do paciente às atividades criminosas ou sua integração a organização dessa natureza. Precedentes desta Corte.
+3. Configurado, assim, o constrangimento ilegal no afastamento do benefício legal, a ordem deve ser concedida de ofício, adequando-se a pena aos parâmetros jurisprudenciais definidos por esta Corte.
+4. Agravo regimental a que se nega provimento.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, XXXVI, da CF.
+Nesse sentido, argumenta que não seria possível a desconstituição de sentença condenatória transitada no âmbito do habeas corpus.
+Afirma que (fl. 131):
+ ..  a Quinta Turma do STJ deixou de seguir orientação dessa Suprema Corte, violando o disposto no artigo 5º, inciso XXXVI, da Constituição da República, porquanto desconsiderou que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, desconstituindo condenação criminal transitada em julgado, em que sequer houve flagrante ilegalidade ou teratologia demonstrados pela defesa.
+Argumenta que (fl. 137):
+ ..  diante deste quadro de oscilação da jurisprudência dos Tribunais Superiores quanto à matéria, AINDA não consolidado, não é possível se falar que a decisão proferida, transitada em julgado, se revestia de flagrante ilegalidade a justificar a concessão da ordem com a desconstituição da coisa julgada.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da possibilidade utilização do habeas corpus como sucedâneo de revisão criminal, estando o acórdão recorrido assim fundamentado (fl. 112):
+Foi demonstrada na decisão agravada, portanto, a existência de constrangimento ilegal suficiente a justificar a atuação desta Corte, de ofício.
+Ademais, a jurisprudência desta Corte é firme no sentido de que não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Registra-se, contudo, numerosos precedentes desta Corte Superior nos quais se concede a ordem de ofício quando se verifica flagrante ilegalidade(HC n. 730.555/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+E, de minha relatoria, destaco que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 775.604/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/11/2022, DJe 1º/12/2022).
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 647 a 654 do Código de Processo Penal, motivo por que eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCONSTITUIÇÃO DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. RECURSO NÃO ADMITIDO
