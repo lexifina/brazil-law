@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declara ção, opostos por JOSÉ JUNIOR DA SILVA SANTOS (fls. 102-105), em face de decisão proferida, às fls. 84-94, que indeferiu liminarmente o habeas corpus, sob a Relatoria anterior neste STJ.
+Nas razões dos presentes embargos, o embargante afirma a existência de omissão no decisum embargado.
+Sustenta "ilegalidade quando a decretação do transito em julgado pelo Presidente do Tribunal de Justiça de Rondônia sendo que não houve o referido transito em julgado" (fl. 102).
+Aduz que "em que pese a decisão do Douto Presidente do Tribunal de Justiça de Rondônia em decretar o transito em julgado, o acórdão de fls. 124/128 foi disponibilizado no Diário da Justiça Eletrônico nº 25, página 76, de 06/02/2020, considerando-se como data da PUBLICAÇÃO o dia 07/02/2020 nos termos da Lei n. 11.419, de 19/12/2006 e Resolução n. 007/2007-PR-TJRO e REGISTRADO sob o n. 93 no CD/DVD volume I/2020. Desse modo, o prazo findava-se no dia 26 de fevereiro de 2020" (fl. 103, grifei).
+Assevera que "TENDO O REFERIDO ACÓRDÃO DE FLS. 124/128 SIDO DISPONIBILIZADO NO DIÁRIO DA JUSTIÇA ELETRÔNICO EM 06/02/2020, E TENDO COMO DATA DA PUBLICAÇÃO O DIA 07/02/2020, DEVERIA FINDAR-SE O PRAZO PROCESSUAL EM 22 DE FEVEREIRO DE 2020. OCORRE, PORÉM, QUE DIA 22 DE FEVEREIRO DE 2020 FOI UM SÁBADO. POR CONSEGUINTE O PROXIMO DIA ÚTIL SERIA SEGUNDA-FEIRA DIA 24 DE FEVEREIRO DE 2020, CONTUDO, DIA 24 E 25 DE FEVEREIRO DE 2020, ERA FERIADO CONFORME PORTARIA DA PRESIDÊNCIA DO TJRO NÚMERO 2565/2019" (fl. 103).
+Alega que "resta clara a ilegalidade do trânsito em Julgado e por via de consequência deve ser anulado, recebendo o Recurso Especial e determinando o Envio do Recurso Extraordinário ao STF" (fl. 103).
+Requer, assim, sejam supridos vícios apontados, com efeitos infringentes, para determinar a revisão do mérito e a concessão da ordem de ofício.
+É o relatório.
+Decido.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também, para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior & Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido: EDcl no AgRg no AREsp n. 292.108/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/2/2015; EDcl no RHC n. 35.243/MG, Quinta Turma, Rel. Min. Félix Fischer, DJe de 10/12/2014; EDcl no AgRg no AREsp n. 527.022/SC, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 9/10/2014; e EDcl no REsp n. 1.290.073/ES, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 1º/7/2014.
+Ao analisar os autos, verifica-se que o embargante afirma a existência de omissão na decisão embargada.
+No entanto, à conta de omissão, pretende o embargante, na verdade, a modificação do julgado que lhe desfavoreceu, o que traduz mero inconformismo com o que decidido nos autos.
+Convém registrar que a decisão embargada já bem destacou a impossibilidade do manejo do habeas corpus contra inadmissão de recursos extraordinários, por sua intempestividade ou por qualquer outra razão.
+Nesse sentido:
+"Concede-se habeas corpus sempre que alguém está sofrendo ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder (art. 5º, LXVIII, da Constituição Federal), não cabendo sua utilização como substitutivo de recursos ordinário, extraordinário e especial, tampouco como sucedâneo de revisão criminal ou de agravo de instrumento contra a inadmissão de recurso especial" (AgRg no HC n. 619.986/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 20/11/2020, grifei).
+Ademais, também se destaca que a situação objurgada na origem é do início do ano de 2020, mas a presente impetração é de 24/10/2022 (fl. 3), ou seja, de quase dois anos após o trânsito em julgado.
+Nem se olvide que também foi explicado que o tema que se busca analisar não foi sequer objeto do recurso de apelação, ou seja, não se comprovou como poderia ser debatido em sede de recursos extraordinários (indevida supressão de instância).
+Do acima exposto, verifica-se, pois, que os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim a revisão do mérito - o que não é permitido nesta via.
+Assim, não há que se falar em vício da decisão embargada tão somente porque contrária aos interesses do embargante (EDcl no AgRg nos EDcl no AREsp n. 1.205.732/SP, Quinta Turma, Rel. Min Félix Fischer, DJe de 12/11/2018; EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 9/11/2018; EDcl no HC n. 423.595/PE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/10/2018).
+Ante o exposto, rejeito os embargos declaratórios.
+P. I.
