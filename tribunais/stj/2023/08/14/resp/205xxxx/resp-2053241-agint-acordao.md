@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 89):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 9º, §4º, DA LC 123/2006 E 135 DO CTN. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que não há a deficiência de fundamentação no seu recurso especial, pois, "(..) ainda que de forma concisa, o Distrito Federal, ao contrário do entendido pela r. decisão agravada, trouxe fundamentação que permite compreender a controvérsia submetida a essa Corte Superior. Com efeito, é possível perceber que a violação ao art. 9º, § 4º, da Lei nº 123/2006 gravita em torno da interpretação que lhe foi dada pelas instâncias ordinárias no sentido de que o processo judicial, a que se refere o aludido preceito para a apurar de irregularidades do sócio na execução do contrato social da empresa, somente poderia ocorrer em feito distinto e não, de forma incidental nos próprios autos da execução fiscal. Ora, os princípios da justa duração do processo e da economia processual, permite dar interpretação ao art. 9º, § 4º, da LC nº 123/2006 de forma a permitir que a apuração das irregularidades possa ser feitas em processo incidental nos próprios autos da execução fiscal. Quanto à violação do art. 135 do CTN, a controvérsia se instaura em razão da interpretação dada pelas instâncias ordinárias no sentido de que a baixa irregular da empresa não atrai automaticamente a responsabilidade tributária do sócio, especialmente porque teria havido a uma liquidação voluntária. Entretanto, a jurisprudência dessa Colenda Corte Superior não distingui entre baixa irregular ou liquidação voluntária quando a dívidas tributária pendentes da pessoa jurídica." (fls. 98-99).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARGUMENTAÇÃO DISSOCIADA E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o recurso especial contém alegações genéricas, imprecisas no que diz respeito a suposta violação dos arts. 9º, §4º, da LC 123/2006 e 135 do CTN. É dizer, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Além disso, o recurso especial apresentou ofensa aos referidos dispositivos (arts. 9º, §4º, da LC 123/2006 e 135 do CTN), os quais não contêm o comando normativo deduzido pelo recorrente, não sendo capaz de infirmar os fundamentos do acórdão recorrido, que assim decidiu (fls. 39-40):
+"O agravante pretende redirecionar a execução fiscal para atingir o sócio administrador da empresa agravada, sob o argumento de que teria havido dissolução irregular da pessoa jurídica.
+O Superior Tribunal de Justiça, ao julgar o REsp 1.371.128/RS sob a sistemática dos recursos repetitivos (Tema 630), fixou a seguinte tese: "Em execução fiscal de dívida ativa tributária ou não-tributária, dissolvida irregularmente a empresa, está legitimado o redirecionamento ao sócio-gerente".
+Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente (STJ, Súmula 435).
+A jurisprudência deste Tribunal orienta-se no sentido de que o responsável pela dissolução da empresa deve coincidir com o detentor da gerência na oportunidade do surgimento da obrigação tributária, seja por meio da materialização do fato gerador ou do vencimento do tributo: Ac. 1212551, 07126207020198070000, Relator: João Egmont, 2ª Turma Cível, Publicado no DJE: 7/11/2019.
+O redirecionamento da execução fiscal não pode ocorrer de maneira automática, uma vez que é necessário instaurar procedimento administrativo ou judicial adequado para confirmar a existência inequívoca de liame entre eventuais condutas ilícitas imputadas aos sócios (art. 135 do CTN) e o inadimplemento do tributo, oportunidade em que os corresponsáveis podem ser incluídos na CDA e, consequentemente, ser redirecionada a execução fiscal. Precedentes: Acórdão nº 1413155, 07002159420228070000, Relator: Diaulas Costa Ribeiro, 8ª Turma Cível, Publicado no DJE: 12/4/2022; Acórdão nº 1202909, 00496582520138070015, Relator: Fernando Habibe, 4ª Turma Cível, Publicado no DJE: 30/9/2019.
+Registre-se que não houve dissolução irregular, pois consta no comprovante de inscrição e de situação cadastral emitido pela Receita Federal do Brasil que a pessoa jurídica foi extinta por liquidação voluntária, em 12/4/2018 (ID nº 112009212, autos originários).
+Essas informações possuem presunção de veracidade e legitimidade, e não foram confrontadas pelo agravante.
+Não há como presumir que houve dissolução irregular.
+O art. 9º § 4º da Lei Complementar nº 123/2006, arguido pelo agravante, não autoriza o redirecionamento automático da execução fiscal, mas apenas prevê hipótese excepcional de responsabilidade solidária dos sócios e administradores. Para a apuração dessas condutas, é necessário processo administrativo ou judicial.
+A simples ausência de cumprimento da obrigação tributária principal não autoriza o redirecionamento contra o sócio."
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
