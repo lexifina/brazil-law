@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por JOCKEY CLUB DO PARANÁ contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nessa extensão, negou-lhe provimento.
+Agravo interno em recurso especial interposto em: 16/5/2023.
+Concluso ao gabinete em: 2/6/2023.
+Ação: execução de título extrajudicial, ajuizada por BANCO BRADESCO S/A em face de JOCKEY CLUB DO PARANÁ.
+Decisão interlocutória: rejeitou a impugnação à penhora online de valores depositados na conta bancária do executado/recorrente.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+AGRAVO INTERNO. DECISÃO LIMINAR QUE INDEFERIU O EFEITO SUSPENSIVOPLEITEADO - PRETENSÃO DE MODIFICAÇÃO - ALEGAÇÃO DE DEMONSTRAÇÃO DO PERIGO DE DANO GRAVE OU DE DIFÍCIL REPARAÇÃO E DA PLAUSIBILIDADE DO DIREITO - ANÁLISE DO RECURSO QUE RESTA PREJUDICADA COM O JULGAMENTO DO MÉRITO DO AGRAVO DE INSTRUMENTO.
+Agravo interno prejudicado.
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO QUE PERMITIU A PENHORA DE VALORES DO DEVEDOR PARA SALDAR VERBA HONORÁRIA DECORRENTE DA SUCUMBÊNCIA NOS EMBARGOS À EXECUÇÃO JULGADOS IMPROCEDENTES - VERBAS SUCUMBENCIAIS QUE DEVEM SER ACRESCIDAS AO VALOR DO DÉBITO PRINCIPAL NA DEMANDA EXECUTIVA, DEVIDAMENTE IDENTIFICADA - PROCEDIMENTO EXPRESSAMENTE PREVISTO NO PARÁGRAFO 13 DO ARTIGO 85, DO CPC/15 E 24, §1º DO ESTATUTO DA OAB - MEDIDA CÉLERE, ECONÔMICAE EFICAZ PARA OS INTERESSADOS - IRRELEVÂNCIA DE AINDA NÃO HAVER TRÂNSITO EM JULGADO NOS AUTOS DE EMBARGOS À EXECUÇÃO -CREDORES QUE ASSUMEM O RISCO DE UMA EVENTUAL DEVOLUÇÃO DOS VALORES LEVANTADOS EM CASO DE MODIFICAÇÃO DA DECISÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - DESNECESSIDADE DE NOVA INTIMAÇÃO PARA PAGAMENTO JÁ QUE, COM A INCLUSÃO DA VERBA DOS AUTOS EXECUTIVOS, A EXPROPRIAÇÃO OCORRE EXCLUSIVAMENTE NESTES AUTOS E DELA O DEVEDOR JÁ TEM PLENO CONHECIMENTO DO SEU DÉBITO E DA NECESSIDADE DE SALDÁ-LO - DECISÃO MANTIDA.
+Agravo de instrumento conhecido e desprovido. (e-STJ fls. 108)
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 10º, 522 e 523 do CPC/15. Pretende a reforma do acórdão que autorizou o prosseguimento da execução provisória nos mesmos autos da execução de título extrajudicial, bem como o reconhecimento da necessidade de intimação do executado para pagamento voluntário do valor exequendo, antes de se determinar o bloqueio/penhora de valores depositados nas contas bancárias do devedor. Requer a reforma do acórdão recorrido a fim de que seja declarada a nulidade da penhora e determinada liberação imediata dos valores constritos.
+Decisão unipessoal: conheceu parcialmente do recurso especial e negou-lhe provimento.
+Agravo interno: aduz a inaplicabilidade da Súmula 283/STF, sob o fundamento de que as razões do recurso especial se mostram suficientes para impugnar o entendimento adotado pela Corte local. Pugna pela reforma da decisão monocrática.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ACÓRDÃO RECORRIDO NA ORIGEM. FUNDAMENTOS NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA 283/STF. MANUTENÇÃO DA DECISÃO UNIPESSOAL.
+1. Execução de título extrajudicial.
+2. A existência de fundamento do acórdão recorrido não impugnado, quando suficiente para a manutenção da decisão quanto ao ponto, impede o conhecimento do recurso especial. Súmula 283/STF.
+3. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+1. Da incidência da Súmula 283/STF
+Conforme mencionado na decisão unipessoal, o agravante não impugnou os fundamentos utilizados pelo Tribunal de Justiça do Estado do Paraná, notadamente no que tange (I) à incidência do art. 85, § 13º, do CPC/15 à espécie, (II) à ausência de efeito suspensivo no recurso contra a sentença de improcedência nos embargos à execução e (III) à desnecessidade de nova intimação do recorrente/devedor "porque este já foi citado para cumprir a obrigação, não podendo alegar qualquer nulidade decorrente da expropriação de bens que, destaque-se, é o ato normal e esperado de qualquer feito executivo" (e-STJ fls. 112).
+Reprisam-se os argumentos do Tribunal de origem no ponto:
+"Segundo aduz o recorrente, sem que tivesse sido intimado para cumprir espontaneamente o seu débito, o executado, aqui agravante, foi surpreendido com o bloqueio do importe de R$ 7.619,02, correspondente à quantia imposta em condenação nas verbas de sucumbência dos embargos à execução que ajuizou, afirmando que tal proceder não se mostra possível diante da provisoriedade da sentença, considerando-se que pende de julgamento recurso ao Superior Tribunal de Justiça, não tendo ocorrido, ainda, o trânsito em julgado da decisão geradora da condenação.
+Conforme muito bem ponderou a magistrada a quo, aplica-se ao caso em apreço o disposto no art. 85, § 13, do CPC, in verbis:
+"As verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença serão acrescidas no valor do débito principal, para todos os efeitos legais".
+Ora, a hipótese legislativa é exatamente o caso dos autos.
+Os embargos à execução opostos pelo agravante foram julgados parcialmente procedentes para reconhecer a abusividade da taxa de juros remuneratórios prevista no contrato firmado entre as partes, tendo o embargante sido condenado ao pagamento de 80% das custas e despesas do processo (mov. 217.1 - autos de embargos).
+Desta decisão ambas as partes apelaram, sendo dado provimento ao recurso da instituição financeira e negado provimento ao apelo do embargante, com a sua condenação à integralidade da sucumbência. Interposto recurso especial, este não foi conhecido, o que gerou a interposição de agravo em recurso especial, que aguarda julgamento perante aquela Corte Superior.
+Assim, ainda que não tenha ocorrido o trânsito em julgado da mencionada decisão geradora da condenação em honorários advocatícios, não é demais lembrar que, em regra, os recursos aos Tribunais Superiores não possuem efeito suspensivo automático, a não ser que, mediante expresso pedido do recorrente, seja tal efeito concedido pelo Relator naquela 3ª instância, o que não parece ser o caso do presente feito.
+Desta forma, nada obsta que imediatamente seja dado continuidade à execução - que, aliás, igualmente não teve deferida a suspensividade através dos embargos opostos - devendo o exequente incluir no cálculo geral o montante atinente aos honorários advocatícios fixados nos embargos.
+Conforme explica Nelson Nery Jr. e Rosa Maria de Andrade Nery:
+"O valor dos honorários, nesses casos, deverá ser agregado ao restante da dívida, comportando, pois, exigibilidade junto ao devedor diretamente pelo credor, sem necessidade de propositura de uma demanda à parte, na qual o advogado figure como parte autora" (Código de Processo Civil comentado  livro eletrônico . 3 ed. São Paulo: Thomson Reuters Brasil, 2018).
+Daí que, não parece haver qualquer dúvida quanto ao procedimento a ser adotado como regra, ou seja, de que os honorários advocatícios fixados em caso de improcedência liminar ou rejeição dos embargos deverão ser acrescidos ao débito principal para todos os efeitos, prosseguindo a execução unicamente nos autos executivos, de forma unificada, sem prejuízo do caráter autônomo da verba de titularidade do advogado, de modo a evitar a realização de atos processuais infrutíferos.
+Veja-se que tal dispositivo legal tem a finalidade justamente de evitar uma nova execução contra o mesmo devedor, prestigiando com isso a economia e a celeridade processual, princípios basilares do Código de Processo Civil de 2015.  ..
+Nem o fato de ainda não ter ocorrido o trânsito em julgado da sentença dos embargos à execução socorre o agravante, considerando que ainda que se alegue que o montante executado a título de honorários advocatícios tenha cunho "provisório", inegável que o exequente assume o risco de eventual modificação da decisão condenatória, o que não afasta, de toda maneira, a continuidade da execução, conforme pretende o agravante.
+Também não há que se falar em intimação prévia para cumprimento espontâneo da condenação, já que, como dito e repetido, a execução principal não estava suspensa pelo ajuizamento dos embargos e, agora, com a inclusão da verba honorária, apenas segue o seu curso original, sem que haja qualquer óbice ou necessidade de novas intimações do devedor para pagamento, inclusive porque este já foi citado para cumprir a obrigação, não podendo alegar qualquer nulidade decorrente da expropriação de bens que, destaque-se, é o ato normal e esperado de qualquer feito executivo.
+Aliás, apesar da irresignação do agravante quanto a uma eventual falta de intimação para pagar o valor correspondente aos honorários advocatícios ao qual restou condenado, há que se observar que neste sentido também não houve qualquer manifestação do devedor, mantendo-se inerte em relação ao seu débito.
+Caso, inclusive, fosse este o interesse do agravante, o próprio Código de Processo Civil permite que assim o faça, consoante se vê do disposto no art. 826, a saber:
+"Art. 826. Antes de adjudicados ou alienados os bens, o executado pode, a qualquer tempo, remir a execução, pagando ou consignando a importância atualizada da dívida, acrescida de juros, custas e honorários advocatícios" (destaquei).
+Desta maneira, por qualquer ângulo que se analise a situação não merece provimento o presente recurso" (e-STJ fls. 111)
+Em razão do exposto, incide a Súmula 283/STF, a afirmar que: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A decisão monocrática, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
