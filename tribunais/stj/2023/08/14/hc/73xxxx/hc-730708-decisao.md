@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABIO NASCIMENTO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de Alagoas proferido na Revisão Criminal n. 0803793-48.2021.8.02.0000.
+Consta dos autos que o Paciente foi condenado, em primeiro grau de jurisdição, às penas de 3 (três) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, e 20 (vinte) dias-multa, pela prática do crime previsto no art. 155, § 1.º e § 4.º, incisos I e IV, do Código Penal (fls. 183-190).
+A condenação transitou em julgado.
+O Sentenciado ajuizou revisão criminal, a qual foi julgada improcedente pela Corte estadual (fls. 12-17).
+Neste writ, a Impetrante sustenta, em suma, a desproporcionalidade no aumento da pena-base pela aplicação do critério de 1/8 (um oitavo) sobre o intervalo da pena previsto no preceito secundário do tipo penal incriminador.
+Requer seja reduzida "a pena-base mediante a aplicação do critério de aumento de 1/6 sobre a pena mínima para cada circunstância judicial valorada negativamente" (fl. 11).
+Não foi formulado pleito liminar.
+Foram prestadas informações às fls. 297-299.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 301-305).
+É o relatório. Decido.
+No que interessa à solução da controvérsia, tem-se que o Colegiado estadual declinou as seguintes razões (fl. 15):
+"13. Pois bem. Noto que, ao realizar a dosimetria da pena, especialmente na primeira etapa do cálculo da pena, o Juiz não incorreu em erro manifesto ou arbitrariedade. Isto porque, como as margens penais do furto qualificado começam em 02 (dois) anos e findam em 08 (oito) anos, se mostrou razoável o acréscimo inicial de pena no montante de 09 (nove) meses.
+14. Anote-se que não existe marco temporal taxativo para cada vetorial do art. 59 do Código Penal, a ser avaliada na primeira etapa da dosimetria da pena. Tanto é verdade que o Magistrado pode, ao valorar uma só moduladora, chegar ao patamar máximo de sanção, ainda na fase inicial do cálculo da reprimenda.
+15. No mais, considerando que o intervalo entre as margens penais do crime em apreço atinge 06 (seis) anos ou 72 (setenta e dois) meses, tem-se que dividindo tal montante pela quantidade de vetoriais, perceber-se-á que cada uma das 08 (oito) circunstâncias judiciais corresponderá a 09 (nove) meses, ou seja, o montante usado pelo Juiz, o que só reforça a inexistência de ilegalidade neste caso.
+16. Assim, rejeito a primeira tese da defesa."
+De início, destaco que de acordo com o entendimento consolidado desta Corte Superior de Justiça, "a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC 710.060/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+Além disso, " n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso" (AgRg no HC n. 820.316/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/06/2023, DJe 23/06/2023).
+Nesse linha de intelecção, inexiste ilegalidade no caso em apreço, pois não há desproporcionalidade no incremento da sanção basilar em 1/8 (um oitavo) sobre o intervalo da pena mínima e máxima para cada vetor considerado negativo. A propósito:
+" ..  2. Sobre o cálculo da pena-base em si, diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador.
+3. Tratando-se de patamar meramente norteador, que busca apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu.
+4. Não há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias.
+5. Na hipótese, a pena do crime foi exasperada em 2 anos pela análise negativa de 2 circunstâncias judiciais (circunstâncias e consequências), o que não se revela desproporcional, diante do intervalo de apenamento mínimo e máximo para o delito (8 a 15 anos).
+6. Agravo desprovido." (AgRg no HC n. 803.187/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 29/05/2023, DJe 02/06/2023; sem grifos no original.)
+" ..  2. O refazimento da dosimetria da pena neste Superior Tribunal de Justiça tem caráter excepcional, somente admitido sob a existência de manifesta ilegalidade, hipótese não configurada nestes autos, sob pena de incidência da Súmula n. 7/STJ.
+3. Destaca-se o fato de o réu não ter direito subjetivo à utilização de frações específicas para cada circunstância judicial negativa (1/8 do intervalo ou 1/6 da pena), não sendo tais parâmetros obrigatórios, porque o que se exige das instâncias ordinárias é a fundamentação adequada e a proporcionalidade na exasperação da pena.
+ .. " (AgRg no AREsp n. 2.249.221/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 23/05/2023, DJe 26/05/2023; sem grifos no original.)
+" ..  3. Não há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena base, 1/8 do intervalo supracitado ou mesmo outro valor.
+4. Na hipótese dos autos, nota-se que a fração de aumento adotada na primeira fase da pena de ambos os agravantes foi exatamente 1/8 sobre o intervalo entre as penas mínima e máxima cominadas ao delito (1 a 5 anos), de modo que não se vislumbra a desproporcionalidade aventada pela defesa.
+5. Agravo regimental não provido." (AgRg no HC n. 810.433/PB, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 22/05/2023, DJe 26/05/2023; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. FURTO. DOSIMETRIA. FRAÇÃO DE EXASPERAÇÃO DA PENA-BASE EM UM OITAVO DO INTERVALO DAS PENAS. AUSÊNCIA DE DESPROPORCIONALIDADE. ORDEM DE HABEAS CORPUS DENEGADA .
