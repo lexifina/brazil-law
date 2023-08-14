@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS HENRIQUE MACHADO FERREIRA CAVALCANTI, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consoante se extrai dos autos, o agravante foi condenado pela prática do delito previsto no art. 33 da Lei 11.343/2006, às penas de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e pagamento de 500 (quinhentos) dias-multa (fls. 214-221), o que foi mantido pelo Tribunal local no julgamento da apelação (fls. 300-313).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação dos arts. 59 e 68 do Código Penal, e 33, § 4º, da Lei n. 11.343/2006, porque a pena foi indevidamente fixada, notadamente por ausência de fundamentação adequada.
+Apresentadas as contrarrazões (fls. 340-345), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 211/STJ, por ausência de prequestionamento; e ii) porque a conclusão adotada pelo acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior (fls. 348-351).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 356-365).
+O Ministério Público Federal apresentou parecer pelo conhecimento e desprovimento do recurso especial, ou que se conceda habeas corpus de ofício (fls. 391-393).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 211/STJ.
+De fato, o agravante, à fl. 359, limitou-se a afirmar que "Tampouco é caso de incidência da súmula 211 do STJ porquanto em sede de Apelação a matéria dosimétrica foi toda devolvida ao TJPE", quando deveria a Defesa ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial - a alegada desproporcionalidade no incremento da pena-base, sem ter apresentado fundamentação idônea -, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+Outrossim, a Corte Especial desse Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. A propósito cito o seguinte precedente: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Co nvocado do TJDFT), DJe de 21/10/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
