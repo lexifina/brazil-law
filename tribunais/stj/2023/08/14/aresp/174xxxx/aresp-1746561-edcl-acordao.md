@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  FUNDAÇÃO  ATLÂNTICO  DE  SEGURIDADE  SOCIAL  ao  acórdão  proferido  pela  Terceira  Turma  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  BENEFÍCIO  PREVIDENCIÁRIO.  REQUERIMENTO  ADMINISTRATIVO.  SÚMULA  Nº  126/STJ.  RESISTÊNCIA  DA  SEGURADORA.  SÚMULA  Nº  7/STJ.  CONDIÇÃO  DE  BENEFICIÁRIA.  DEPENDENTE.  COMPROVAÇÃO.  MODIFICAÇÃO.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  É  incabível  o  recurso  especial  quando  o  acórdão  recorrido  decide  a  controvérsia  à  luz  de  fundamento  constitucional  e  a  parte  não  interpõe  o  competente  recurso  extraordinário  para  viabilizar  a  discussão  da  matéria  (Súmula  nº  126/STJ).
+3.  O  recurso  especial  é  inviável  quando  o  acórdão  atacado  decide  a  controvérsia  à  luz  do  conjunto  fático-probatório  dos  autos  (Súmula  nº  7/STJ).
+4.  Na  hipótese,  as  afirmações  do  acórdão  recorrido  acerca  do  início  das  tratativas  na  via  administrativa,  da  resistência  da  recorrente  ao  pedido  de  pagamento  do  benefício  sob  discussão  e  da  comprovação  da  condição  de  beneficiária  atraem  o  óbice  da  Súmula  nº  7/STJ  ao  caso.
+5.  Agravo  interno  não  provido"  (fl.  678,  e-STJ).
+Em  suas  razões  ( fls.  687-694,  e-STJ),  a  embargante  rebate  os  fundamentos  do  acórdão  recorrido,  alegando:
+ i)  o  descabimento  de  interposição  do  recurso  extraordinário  na  espécie,  e
+ii)  a inaplicabilidade  da  Súmula  nº  7/STJ
+"(..)  ante  a  imperiosa  necessidade  de  comprovação  do  preenchimento  dos  requisitos  para  auferir  benefício  perante  à  entidade  privada,  em  respeito,  ainda,  ao  PACTA  SUNT  SERVANDA  e  a  FUNÇÃO  SOCIAL  DO  CONTRATO  PREVIDENCIÁRIO"  (fl.  693,  e-STJ).
+Devidamente  intimada,  a  parte  contrária  não  apresentou  impugnação  (fl.  697,  e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ACÓRDÃO  EMBARGADO.  VÍCIO  DE  FUNDAMENTAÇÃO.  AUSÊNCIA.  SÚMULA  Nº  284/STF.
+1.  Não  há  falar  em  violação  do  art.  489,  §  1º,  IV,  do  CPC  se  o  julgado  decide  a  controvérsia  de  forma  suficientemente  fundamentada,  embora  contrariando  os  interesses  da  parte.
+2.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+3.  É  inviável  o  conhecimento  dos  embargos  de  declaração  opostos  à  decisão  colegiada  quando  redigidos  como  agravo  interno,  tendo em vista que,  não  estando  presentes  os  vícios  dos  arts.  489  e  1.022  do  CPC,  evidencia-se  a  deficiência  na  fundamentação  do  recurso,  cujas  razões  não  são  capazes  de  possibilitar  a  exata  compreensão  da  controvérsia.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  verifica-se  que  a  parte  não  demonstra  de  forma  clara  e  precisa  em  qual  ponto  reside  a  alegada  falta  de  fundamentação  no  acórdão  embargado,  valendo-se  de  razões  genéricas  para  manifestar  o  seu  inconformismo.
+Com  efeito,  não  há  falar  em  violação  dos  arts.  489  e  1.022  do  CPC  se  o  julgado  decide  a  controvérsia  de  forma  suficientemente  fundamentada,  embora  contrariando  os  interesses  da  parte.
+Desse  modo,  mostra-se  inviável  o  conhecimento  dos  embargos  de  declaração  opostos  contra  decisão  colegiada,  quando  redigidos  como  se  agravo  interno  fosse,  porquanto  não  estando  presentes  os  vícios  dos  arts.  489  e  1.022  do  CPC,  fica  evidente  a  deficiência  na  fundamentação  do  recurso,  cujas  razões  não  são  capazes  de  possibilitar  a  exata  compreensão  da  controvérsia.
+Assim,  nos  termos  da  Súmula  nº  284/STF,  o  presente  recurso  encontra-se  deficiente,  pois  de  sua  leitura  não  é  possível  extrair  a  exata  compreensão  da  controvérsia.
+Nesse  sentido:
+"TRIBUTÁRIO.  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  REDISCUSSÃO  DE  QUESTÕES  DECIDIDAS.  IMPOSSIBILIDADE.
+1.  De  acordo  com  a  norma  prevista  no  art.  535  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição  ou  omissão  da  decisão  recorrida.
+2.  No  caso,  a  parte  embargante  limitou-se  a  afirmar  que  o  acórdão  incorreu  em  omissão  e  contradição,  sem,  contudo,  explicitar  em  que  consistiriam  os  supostos  vícios,  passando  a  reprisar  os  temas  suscitados  no  recurso  especial  e  a  pugnar  pela  reforma  do  decidido.  Nesse  panorama,  de  um  lado,  revela-se  deficiente  a  fundamentação  do  presente  recurso,  atraindo  ao  caso  concreto  a  incidência  da  Súmula  284/STF;  de  outro,  inadmissíveis  os  embargos  aclaratórios  para  a  rediscussão  de  questões  já  decididas.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgRg  no  AREsp  688.515/RO,  Rel.  Ministro  SÉRGIO  KUKINA,  Primeira  Turma,  julgado  em  20/10/2015,  DJe  de  4/11/2015).
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DE  SENTENÇA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  REVISÃO  DAS  CONCLUSÕES  ESTADUAIS.  INVIABILIDADE.  NECESSIDADE  DO  REEXAME  DE  FATOS  E  PROVAS.  SÚMULA  N.  7/STJ.  AUSÊNCIA  DE  OMISSÃO  NO  ACÓRDÃO  EMBARGADO.  ART.  1.022  DO  CPC/2015.  VÍCIOS  NÃO  CONFIGURADOS.  EMBARGOS  PROCRASTINATÓRIOS.  CABIMENTO  DA  MULTA  DO  ART.  1.026,  §  2º,  DO  NOVO  CPC.  EMBARGOS  REJEITADOS.
+1.  A  jurisprudência  deste  Tribunal  Superior  firmou-se  no  sentido  de  que  o  mero  descontentamento  da  parte  com  o  resultado  do  julgamento  não  configura  violação  do  art.  1.022  do  CPC/2015  e  que  os  embargos  declaratórios  não  se  prestam  à  rediscussão  de  matéria  devidamente  analisada.
+(..)
+4.  Aplica-se,  por  analogia,  o  enunciado  da  Súmula  n.  284  do  STF,  tendo  em  vista  a  deficiência  das  razões  dos  embargos  de  declaração,  que  vieram  expostas  genericamente,  sem  demonstrar,  de  forma  clara  e  precisa,  em  que  consistiu  a  alegada  negativa  de  vigência  à  Lei,  ou  mesmo  qual  a  sua  correta  aplicação.
+5.  A  embargante  reitera  argumentos  já  apreciados,  postergando  a  solução  definitiva  da  controvérsia.  Essa  conduta  é  motivo  para  a  aplicação  da  multa  do  art.  1.026,  §  2º,  do  CPC/2015,  por  terem  estes  embargos  nítido  intuito  procrastinatório.
+6.  Embargos  de  declaração  rejeitados,  com  aplicação  de  multa"  (EDcl  nos  EDcl  no  AgInt  nos  EDcl  no  AREsp  1.031.107/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  22/5/2018,  DJe  de  1º/6/2018).
+"PROCESSUAL  CIVIL.  SEGUNDOS  EMBARGOS  DE  DECLARAÇÃO.  AUSÊNCIA  DE  INDICAÇÃO  DA  HIPÓTESE  DE  CABIMENTO  DO  RECURSO.  DEFICIÊNCIA  RECURSAL.  SÚMULA  284  DO  STF.  INCIDÊNCIA.  PREQUESTIONAMENTO  DE  DISPOSITIVO  CONSTITUCIONAL.  NÃO  CABIMENTO.  RECURSO  REJEITADO.
+1.  Nos  termos  do  art.  1.022  do  Código  de  Processo  Civil,  os  Embargos  de  Declaração  constituem  recurso  de  rígidos  contornos  processuais  e  destinam-se  a  esclarecer  obscuridade,  eliminar  contradição,  suprir  omissão  e  corrigir  erro  material  eventualmente  existentes  no  julgado,  o  que  não  se  verifica  na  hipótese.
+2.  Não  se  pode  conhecer  da  apontada  violação  ao  art.  1.022  do  Código  de  Processo  Civil  de  2015,  porquanto  o  recurso  cinge-se  a  alegações  genéricas  e,  por  isso,  não  indica,  com  transparência  e  precisão,  qual  seria  o  ponto  omisso,  contraditório  ou  obscuro  do  acórdão  recorrido,  bem  como  a  sua  importância  para  o  deslinde  da  controvérsia,  o  que  atrai  o  óbice  da  Súmula  284  do  Supremo  Tribunal  Federal,  aplicável,  por  analogia,  no  âmbito  do  STJ.  Precedentes:  EDcl  no  AgInt  nos  EDcl  no  AREsp  1.710.327/RS,  Rel.  Min.  Herman  Benjamin,  Segunda  Turma  e  AgRg  no  REsp  1.450.797/RS,  Rel.  Min.  Sérgio  Kukina,  Primeira  Turma,  DJe  11/06/2014.
+(..)
+4.  Embargos  de  Declaração  rejeitados"  (EDcl  nos  EDcl  no  AgInt  no  AREsp  1.574.705/PR,  Rel.  Ministro  HERMAN  BENJAMIN,  Segunda  Turma,  julgado  em  21/2/2022,  DJe  de  15/3/2022).
+Ressalta-se  que  o  tribunal  de  origem  solucionou  a  controvérsia  à  luz  do  conjunto  fático-probatório  dos  autos,  conforme  consignou  o  acórdão  ora  embargado:
+"(..)
+As  afirmações  do  acórdão  recorrido  acerca  do  início  das  tratativas  na  via  administrativa  e  da  resistência  da  recorrente  ao  pedido  de  pagamento  do  benefício  sob  discussão  atraem  o  óbice  da  Súmula  nº  7/STJ  ao  caso.
+(..)
+Com  efeito,  para  afastar  a  conclusão  de  que  a  recorrida  comprovou  à  ora  recorrente  ser  dependente  do  falecido  para  fins  de  recebimento  da  suplementação  da  pensão  por  morte,  demandaria  o  reexame  de  fatos  e  provas,  procedimento  vedado  nesta  via  especial  pela  Súmula  nº  7/STJ."  (fl.  681,  e-STJ)
+Dessa  forma,  a  pretensão  da  embargante  foi  obstada  pela  aplicação  da  Súmula  nº  126/STJ e também pela  incidência  da  Súmula  nº  7/STJ,  que  impede  a  admissibilidade  do  recurso  especial  quando  a  modificação  das  conclusões  adotadas  pelo  tribunal  de  origem  na  resolução  da  controvérsia  requer  a  incursão  do  Superior  Tribunal  de  Justiça  em  matéria  de  fatos  e  provas.
+Assim,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ,  eliminar  a  contradição  ou  corrigir  algum  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+Registra-se  que  a  reiteração  de  recurso  com  objetivo  claramente  protelatório  estará  sujeita  à  multa  prevista  no  art.  1.026,  §  2º,  do  CPC.
+É  o  voto.
