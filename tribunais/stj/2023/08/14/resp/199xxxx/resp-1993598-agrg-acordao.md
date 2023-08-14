@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que negou provimento ao recurso especial.
+Alega que "A controvérsia dos autos cinge-se à possibilidade de o juízo das execuções penais estabelecer destinação diversa da pactuada entre as partes para os recursos provenientes de acordo de não persecução penal".
+Menciona que o art. 28-A, IV, do CPP "deve incidir somente quando o acordo de não persecução penal deixa de indicar qual será a destinação da prestação pecuniária".
+Assevera que, "uma vez incluído no acordo de não persecução penal qual será a destinação da prestação pecuniária, a alteração, pela autoridade judicial, da alocação dos recursos financeiros daí provenientes, extrapola a atividade homologatória prevista no art. 28-A do Código de Processo Penal, interpretado à luz do art. 3º-A, do mesmo diploma legal".
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma. Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. DISPOSITIVO SEM COMANDO NORMATIVO SUFICIENTE. SÚMULA N. 284/STF.
+1. O dispositivo invocado no recurso especial não contém comando normativo suficiente para embasar as razões do recurso especial ou para reformar o acórdão recorrido, o que evidencia inafastável deficiência recursal, a impedir a exata compreensão da controvérsia, atraindo a aplicação da Súmula n. 284/STF.
+2. Agravo regimental improvido.
+VOTO
+A decisão agravada está assim fundamentada:
+O Tribunal a quo negou provimento à correição parcial ajuizada pelo Ministério Público contra decisão do Juízo da Vara Criminal, que, nos autos do inquérito policial, homologou o ANPP proposto, com a ressalva que a verba decorrente deveria ser paga ao Poder Judiciário e não à instituição apontada pelo Ministério Público.
+Conforme adiantado, o recorrente aponta contrariedade aos arts. 3º-A e 28-A, IV, do CPP, alegando que "cabe ao Ministério Público, como titular da ação penal pública e único legitimado para a realização do acordo de não persecução penal, indicar a destinação das verbas relativas à prestação pecuniária, em atenção à estrutura acusatória do processo penal brasileiro" (fl. 142).
+Os dispositivos do CPP tidos como contrariados dispõem:
+"Art. 3º-A. O processo penal terá estrutura acusatória, vedadas a iniciativa do juiz na fase de investigação e a substituição da atuação probatória do órgão de acusação".
+Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente:
+ ..
+IV - pagar prestação pecuniária, a ser estipulada nos termos do art. 45 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a entidade pública ou de interesse social, a ser indicada pelo juízo da execução, que tenha, preferencialmente, como função proteger bens jurídicos iguais ou semelhantes aos aparentemente lesados pelo delito;  ..
+Na hipótese, ao tempo em que sustentou-se, no recurso especial, que "cabe ao Ministério Público, como titular da ação penal pública e único legitimado para a realização do acordo de não persecução penal, indicar a destinação das verbas relativas à prestação pecuniária" decorrente do ANPP, apontando-se, assim, violação do art. 28-A do CPP, o comando contido no mencionado dispositivo é contrário à tese ministerial, pois dispõe que a entidade pública ou de interesse social beneficiária da referida prestação pecuniária será "indicada pelo juízo da execução".
+Dessume-se que os dispositivos invocados pelo recorrente não contêm comando normativo suficiente para embasar as razões do recurso, bem como para reformar os fundamentos do acórdão recorrido, o que evidencia inafastável deficiência recursal, a impedir a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF.
+Tal como consignado na decisão agravada, considerando que o art. 28-A, IV, do CPP prevê que compete ao Juízo da execução estipular a entidade pública ou de interesse social beneficiada da prestação pecuniária, razão pela qual o aludido dispositivo legal não tem comando normativo apto a fundamentar o recurso, tampouco para reformar o julgado, a fim de amparar a pretensão recursal no sentido de ser o Ministério Público o legitimado a "indicar a destinação das verbas relativas à prestação pecuniária".
+Ademais, foi deferida a medida cautelar na ADPF 569 no STF , ficando ressalvado que:
+De outro lado, a hipótese do art. 28-A, inciso IV, do Código de Processo Penal, incluído pela Lei 13.964/2019 - ACORDO DE NÃO PERSECUÇÃO PENAL - prevê a possibilidade de que seja adotada como condição para a efetivação do acordo a obrigação de "pagar prestação pecuniária, a ser estipulada nos termos do art. 45 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a entidade pública ou de interesse social, a ser indicada pelo juízo da execução, que tenha, preferencialmente, como função proteger bens jurídicos iguais ou semelhantes aos aparentemente lesados pelo delito".
+Expressa e especifica e diferentemente da previsão do §1º do artigo 45 do Código Penal, a norma estabelecida no artigo 28-A, inciso IV, do Código de Processo Penal autoriza que o magistrado indique a prestação pecuniária a determinada entidade pública ou de interesse social. No art. 45, § 1º, do CP, por determinação legal, incumbe ao órgão jurisdicional apenas a fixação da importância a ser paga a título de prestação pecuniária.
+O art. 28-A, IV, CPP, por outro lado, faculta ao magistrado a indicação da entidade destinatária dos recursos apurados, razão pela qual a aplicação desse dispositivo não está alcançada pela medida cautelar concedida nos autos da presente ADPF.
+Desse modo, sendo deficiente a fundamentação trazida no recurso, incide, por analogia, a Súmula n. 284/STF, a qual dispõe: " é  inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A parte agravante, portanto, não trouxe fundamentos capazes de reformar a decisão agravada, que se mantém por seus próprios fundamentos, contexto no qual nego provimento ao agravo regimental.
+É o voto.
