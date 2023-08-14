@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MATEUS OLIVEIRA MATOS contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Informam os autos que o agravante foi condenado à pena de 11 (onze) anos, 03 (três) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela prática dos crimes de roubo duplamente majorado, receptação e corrupção ativa (artigos 157, §2º, II, e §2º-A, I, 180, caput, 333, caput, na forma do artigo 61, I, e 69, todos do CP) (fls. 470-499). O eg. Tribunal de origem, por unanimidade, deu parcial provimento ao apelo defensivo apenas para determinar o afastamento da exigência de pagamento das despesas de depósito do veículo apreendido, mantendo inalterados os demais termos da sentença recorrida (fls. 641-676).
+Nas razões do recurso especial (fls. 736-741), interposto com fulcro no artigo 105, III, alínea a, da Constituição Federal, a Defesa aduziu violação aos artigos 156, caput e 386, inciso V, ambos do CPP, ante a inexistência de provas suficientes para lastrear a condenação.
+Apresentadas as contrarrazões (fls. 758-761), sobreveio juízo negativo de admissibilidade fundado na intempestividade do recurso especial (fls. 766-768).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista a tempestividade do apelo (fls. 796-800).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo e, de forma subsidiária, pelo não conhecimento do recurso especial (fls. 822-828).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Em que pesem os argumentos expendidos pela combativa D efesa, tem-se que o recurso especial não merece ser conhecido, porquanto se mostra manifestamente intempestivo.
+Inicialmente, aponto que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 4/5/2016, firmou a tese de que a contagem dos prazos em processo penal possui ordenação específica em dias corridos, consoante disposto no art. 798 do Código de Processo Penal.
+Cumpre salientar, por necessário, que o recesso judiciário/suspensão por feriado não tem o condão de interromper o suspender a contagem do prazo, mas tão somente prorroga o dia do vencimento para aqueles findos em seu curso, para o dia útil subsequente.
+Ressalto, ainda, que a Corte Especial, no julgamento do AREsp 957.821/MS, decidiu não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito à regra contida no art. 1003, § 6º, do diploma processual.
+Registre-se que a Lei n. 5.010/1996 não se aplica a todo o Poder Judiciário, mas apenas prevê, em relação à Justiça Federal e aos tribunais superiores, que serão feriados "os dias da Semana Santa, compreendidos entre a quarta-feira e o Domingo de Páscoa".
+Com efeito, no Superior Tribunal de Justiça, já se decidiu que "é descabido invocar a Lei n. 5.010/1966 para comprovar a ocorrência de feriado em Tribunais estaduais, pois se cuida de diploma legal que não lhes é aplicável" (AgRg no AREsp n. 1.932.784/GO, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 25/10/2021).
+Dessa forma, caso haja legislação local ou ato normativo do tribunal estadual que preveja a ocorrência de feriado ou a suspensão do expediente forense nos dias que antecedem a Sexta-Feira da Paixão, deverá a parte comprovar, no ato da interposição do recurso dirigido aos tribunais superiores, a existência dessa circunstância, sob pena de declaração de intempestividade do apelo.
+A propósito, nos termos do § 6º do art. 1.003 do CPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. QUINTA-FEIRA ANTECEDENTE À SEXTA-FEIRA DA PAIXÃO. JUSTIÇA ESTADUAL. LEI N. 5.010/1966, ART. 62. INAPLICABILIDADE. FERIADO LOCAL. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 62 da Lei n. 5.010/1966, ao considerar como feriados os dias da Semana Santa, compreendidos entre a quarta-feira e o domingo de Páscoa, só se aplica à Justiça Federal e aos tribunais superiores.
+2. Caso haja legislação local ou ato normativo do tribunal estadual que preveja a ocorrência de feriado ou suspensão dos prazos processuais no período, deve a parte recorrente comprovar tal circunstância mediante a juntada de documento idôneo no ato da interposição do recurso especial.
+3. É irrelevante a suspensão dos prazos processuais no Superior Tribunal de Justiça para fins de comprovação da tempestividade de recurso apresentado no tribunal local, ainda que dirigido a tribunal superior.
+4. Agravo regimental desprovido." (AgRg no AREsp n. 2.016.056/SP, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 13/5/2022)
+Nesse contexto, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal, é de 15 (quinze) dias o prazo para a interposição de recurso especial.
+No caso, o insurgente foi intimado do acórdão recorrido em 01/04/2022 (f1. 498), entretanto, a petição do recurso extremo foi protocolizada somente em 25/04/2022 (fl. 736), sendo manifesta a sua intempestividade.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, RECEPTAÇÃO E CORRUPÇÃO ATIVA. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. PRAZO DE 15 DIAS CONTÍNUOS. ART. 798 DO CPP. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
