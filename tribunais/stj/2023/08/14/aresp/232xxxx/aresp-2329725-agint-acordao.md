@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo interposto pelo ESTADO DA BAHIA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+AGRAVO INTERNO EM EXECUÇÃO PROVISÓRIA DE ACÓRDÃO. DECISÃO QUE DETERMINOU O CUMPRIMENTO DA ORDEM MANDAMENTAL. REINTEGRAÇÃO DE SERVIDOR PÚBLICO. INTERPRETAÇÃO RESTRITIVA DO ART. 2º-B da Lei 9.494/97. PRECEDENTES DO STJ. DECISÃO MANTIDA.
+1. Consoante jurisprudência do Superior Tribunal de Justiça-STJ, é possível a execução provisória do julgado que determina a reintegração de servidor, uma vez que tal situação não se trata de uma nova relação jurídica; pelo contrário, apenas revigora aquela que deixou de existir de forma ilegal.
+2. Em outras palavras, a reintegração não implica despesa em folha de pagamento, mas, sim, no retorno de quem nela já se encontrava.
+3. Recurso conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violação do art. 2º-B, da Lei n. 9.494/97, com redação dada pela Medida Provisória n. 2.180-35/2001. Sustenta, em síntese, a impossibilidade de execução provisória contra a Fazenda Pública em decorrência da ausência de trânsito em julgado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO PROVISÓRIA DE ACÓRDÃO. DECISÃO QUE DETERMINOU O CUMPRIMENTO DA ORDEM MANDAMENTAL. REINTEGRAÇÃO DE SERVIDOR PÚBLICO. INTERPRETAÇÃO RESTRITIVA DO ART. 2º-B da Lei 9.494/97. PRECEDENTES DO STJ. DECISÃO MANTIDA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o cumprimento de ordem mandamental nos autos do mandado de segurança. No Tribunal a quo, a decisão foi mantida.
+II - A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que o art. 2º-B, da Lei n. 9.494/97 não veda a execução provisória de acórdão que determina a reintegração de servidor público. Nesse sentido: AgInt no REsp n. 1.648.303/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/8/2021, DJe de 18/8/2021; AgInt no AREsp n. 690.556/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/9/2017, DJe de 28/9/2017 e REsp n. 1.090.425/AL, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1/9/2011, DJe de 19/9/2011.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que o art. 2º-B, da Lei n. 9.494/97 não veda a execução provisória de acórdão que determina a reintegração de servidor público.
+Nesse sentido, confira-se os precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRAÇÃO AO SERVIÇO PÚBLICO. DIREITO RECONHECIDO EM AÇÃO DE CONHECIMENTO, AINDA EM ANDAMENTO NAS INSTÂNCIAS ORDINÁRIAS. EXECUÇÃO PROVISÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. MÉRITO DA AÇÃO DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE. NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. CONCESSÃO DE EFEITO SUSPENSIVO À EXECUÇÃO PROVISÓRIA DE SENTENÇA. REQUISITOS. AFERIÇÃO. IMPOSSIBILIADADE. EXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. De início, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/4/2021).
+2. O recurso especial interposto contra acórdão prolatado em sede de execução provisória de sentença não se presta ao exame do próprio mérito travado nos autos da ação de conhecimento.
+3. Rever as conclusões firmadas pela Corte de origem acerca da necessidade de concessão de efeito suspensivo à execução provisória, na forma do art. 475-M do CPC/1973, demandaria o revolvimento de matéria fática, o que esbarra no óbice da Súmula 7/STJ. Nesse sentido: REsp 1.693.966/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/5/2018, DJe 2/8/2018.
+4. Como consignado na decisão agravada, ""pacífico  é o  entendimento do STJ de que o art. 2º-B da Lei n. 9.494/97 não veda a execução provisória de acórdão que determina a reintegração de servidor" (STJ, AgRg no AREsp 422.856/PI, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/03/2014)" (AgInt no AREsp 690.556/GO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/9/2017).
+5. O argumento expendido pela parte ora agravante - no sentido de que "a execução provisória está ultrapassando os limites da coisa julgada ao determinar enquadramento que não consta do título judicial e cujos parâmetros ainda estão pendentes de julgamento" (fl. 1.794) - vincula-se, a rigor, ao próprio mérito da controvérsia, ainda em análise na ação de conhecimento, sendo inviável seu exame no presente momento processual.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.648.303/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO, A BEM DA DISCIPLINA. INCAPACIDADE TOTAL E PERMANENTE. ANULAÇÃO DO ATO ADMINISTRATIVO E REFORMA DO MILITAR. REINTEGRAÇÃO. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. TRÂNSITO EM JULGADO DA DECISUM QUE CONCEDERA A SEGURANÇA. PERDA DE OBJETO. AGRAVO INTERNO PREJUDICADO.
+I. Agravo interno aviado contra decisão monocrática que julgou recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na forma da jurisprudência, "com o advento do trânsito em julgado, a execução, antes provisória, tornou-se definitiva, razão pela qual está prejudicada a insurgência quanto à possibilidade de execução provisória do título judicial, com fulcro no art. 2º-B da Lei nº 9.494/97" (STJ, AgRg no Ag 841.186/RS, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 1º/07/2013). Nesse mesmo sentido: STJ, REsp 946.580/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 24/09/2008; REsp 1.124.940/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/11/2016.
+III. De qualquer modo, "pacífico entendimento do STJ de que o art. 2º-B da Lei n. 9.494/97 não veda a execução provisória de acórdão que determina a reintegração de servidor" (STJ, AgRg no AREsp 422.856/PI, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/03/2014).
+IV. Agravo interno prejudicado.
+(AgInt no AREsp n. 690.556/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/9/2017, DJe de 28/9/2017.
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284/STF. SERVIDOR PÚBLICO ESTADUAL. DEMISSÃO. SUPERVENIÊNCIA DE SENTENÇA PENAL ABSOLUTÓRIA, TRANSITADA EM JULGADO, FUNDADA NA PRESENÇA DE CAUSA EXCLUDENTE DE ILICITUDE (ESTADO DE NECESSIDADE). REPERCUSSÃO NA ESFERA ADMINISTRATIVA. EXECUÇÃO PROVISÓRIA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC. APRECIAÇÃO EQÜITATIVA DO JUIZ. SÚMULA 7/STJ.
+1. Se nas razões do recurso especial a parte, apesar de apontar violação de legislação federal infraconstitucional, deixa de demonstrar no que consistiu a alegada ofensa, aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório.
+2. A sentença penal absolutória que reconhece a ocorrência de causa excludente de ilicitude (estado de necessidade) faz coisa julgada no âmbito administrativo, sendo incabível a manutenção de pena de demissão baseada exclusivamente em fato que se reconheceu, em decisão transitada em julgado, como lícito.
+3. É possível a execução provisória contra a Fazenda Pública nos casos de reintegração de servidor, pois a sentença não tem por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens. Precedentes.
+4. Estabelecida a verba honorária com base na eqüidade, em atenção ao disposto nas alíneas "a", "b" e "c" do § 3º do artigo 20 do CPC, não cabe a este Tribunal reapreciar o valor ou percentual fixado a título de honorários advocatícios, sob pena de ofensa ao disposto na Súmula nº 7 desta colenda Corte.
+5. No tocante à suposta ofensa ao art. 538, par. único, do Código de Processo Civil, nota-se, in casu, que os embargos de declaração tiveram a pretensão de rediscutir matéria já debatida nos autos, tratando-se de hipótese clara de recurso manifestamente protelatório, que não deve ser admitido sob argumento de possibilitar o prequestionamento. Desse modo, necessária se faz a manutenção da multa aplicada pelo Tribunal de origem com base no supracitado dispositivo legal.
+6. Recurso especial improvido.
+(REsp n. 1.090.425/AL, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1/9/2011, DJe de 19/9/2011.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
