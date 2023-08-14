@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno do ESTADO DO MARANHÃO contra decisões que, com apoio em entendimento jurisprudencial, não conheceu de seu recurso especial, no qual discute o critério do arbitramento, por apreciação equitativa, dos honorários advocatícios de sucumbência, na hipótese em que o processo é extinto em razão de litispendência; e deu provimento ao recurso especial de RISA S/A para fixar a data do trânsito em julgado como o termo inicial dos juros de mora incidentes no montante dos honorários advocatícios de sucumbência.
+A parte agravante sustenta, em síntese (fls. 676/682):
+o acórdão que deu parcial provimento ao recurso de apelação aviado pela parte embargante violou precedente vinculante firmado no Tema nº 1076 do STJ, na medida em que, indevidamente, fixou honorários advocatícios por equidade, em frontal divergência com o disposto nos §§ 2º, 3º, e 8º do art. 85 do CPC  ..  Sucessivamente à reconsideração ou reforma da decisão de fls. 661/665, há que se entender pela adoção da mesma conclusão à decisão de fls. 666/668. Isso porque, refutada a aplicação do art. 85, § 8º, do CPC e a fixação de honorários advocatícios por equidade, restará necessária a estipulação da verba honorária em percentuais a incidir sobre o valor da causa e do proveito econômico  ..  Assim, deixando-se de ter fixação de quantia certa a título de honorários, restará afastada a aplicação do § 16 do art. 85 do CPC.
+Impugnação apresentada por RISA S/A (fls. 687/703).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. TERMO INICIAL DOS JUROS MORATÓRIOS. TRÂNSITO EM JULGADO. REGRA LEGAL EXPRESSA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este Tribunal Superior tem orientação jurisprudencial no sentido de que a extinção do processo, em decorrência da litispendência, autoriza a observância da regra do § 8º do art. 85 do CPC/2015, de tal sorte que é legal o arbitramento dos honorários advocatícios de sucumbência em quantia certa, mediante juízo de apreciação equitativa. Precedentes.
+3. E, fixados em quantia certa, os juros moratórios incidentes sobre os honorários advocatícios de sucumbência terão como termo inicial a data do trânsito em julgado da decisão que os arbitrou, nos termos do § 16 do art. 85 do CPC/2015 e à luz da jurisprudência deste Tribunal. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, com o destaque para o fato de as fundamentações das decisões serem interligadas, na medida em que a regra da data do trânsito em julgado como termo inicial dos juros moratórios dos honorários advocatícios de sucumbência só se aplica na hipótese em que fixados em quantia certa.
+Feito esse destaque inicial, vejamos, no que interessa, o que está consignado no voto condutor do acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão (fls. 450/480):
+Ante o exposto, sem interesse ministerial, dou parcial provimento ao Apelo para reformar a sentença para minorar os honorários advocatícios de sucumbência para R$ 5.000,00 (cinco mil reais), corrigidos desde o ajuizamento e juros de mora de 1% desde a citação, mantendo os demais termos da sentença que extinguiu o processo sem resolução do mérito, nos termos do art. 485, inciso V, do CPC/2015.
+Pois bem.
+Conforme registrado na decisão de fls. 661/665, este Tribunal Superior tem orientação jurisprudencial no sentido de que a extinção do processo, em decorrência da litispendência, autoriza a observância da regra do § 8º do art. 85 do CPC/2015, de tal sorte que é legal o arbitramento dos honorários advocatícios de sucumbência em quantia certa, mediante juízo de apreciação equitativa.
+A respeito, dentre outros: AgInt no REsp n. 1.807.900/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/5/2021, DJe de 26/5/2021; AgInt no REsp n. 1.889.799/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 1/3/2021, DJe de 3/3/2021; AgInt nos EDcl no REsp n. 1.848.890/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/9/2020, DJe de 17/9/2020.
+E, nessa linha, no caso dos autos, o teor do acórdão recorrido revela conformidade com entendimento jurisprudencial deste Tribunal Superior, pois os honorários advocatícios de sucumbência foram arbitrados em razão do reconhecimento da litispendência.
+Considerado isso, tal como consignado na decisão monocrática de fls. 666/668, com relação aos juros de mora aplicáveis aos honorários advocatícios de sucumbência, o § 16 do art. 85 do CPC/2015 dispõe: "Quando os honorários forem fixados em quantia certa, os juros moratórios incidirão a partir da data do trânsito em julgado da decisão". Além disso, é oportuna a menção à jurisprudência deste Tribunal Superior segundo a qual a exigibilidade dos honorários advocatícios sucumbenciais se inicia com o trânsito em julgado da decisão que os arbitra, o que enseja entendimento no mesmo sentido da regra legal.
+A respeito, dentre outros:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO, EM FASE DE CUMPRIMENTO DEFINITIVO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. TERMO INICIAL PARA A CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. SÚMULA 568/STJ.
+1. Ação de indenização, em fase de cumprimento definitivo de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Modificar a conclusão do Tribunal de origem para acolher a pretensão da recorrente nos moldes propostos implica reexame de fatos e provas.
+4. A jurisprudência do STJ sedimentou-se no sentido de que, arbitrados os honorários advocatícios em quantia certa, a correção monetária deve ser computada a partir da data em que fixada a verba. Também devem incidir juros de mora sobre a verba advocatícia, desde que o trânsito em julgado da decisão que a fixou, nos termos do § 16 do art. 85 do CPC/15. Precedentes do STJ.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.935.385/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021)
+No mesmo sentido: EDcl no AgInt no REsp n. 1.960.431/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; AgInt no AREsp n. 1.879.201/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021.
+No caso dos autos, o acórdão recorrido não observa o § 16 do art. 85 do CPC/2015, razão pela qual o recurso especial foi provido para reformá-lo, na parte, e fixar a data do trânsito em julgado como o termo inicial dos juros de mora.
+Portanto, devem ser mantidas as decisões ora agravadas.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
