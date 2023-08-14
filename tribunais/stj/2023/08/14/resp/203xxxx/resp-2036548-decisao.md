@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por IGOR SERGIO DE ANDRADE FREITAS, com fundamento no artigo 105, inciso III, alínea a, do permissivo constitucional, contra acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Paraná, que, por unanimidade, negou provimento ao recurso da Defesa.
+Nas razões do presente recurso especial (fls. 345/350), a Defesa sustenta violado o artigo 564, inciso IV, do Código de Processo Penal, ao argumento de que "(..) houve nulidade da diligencia e imprestabilidade da ação penal ante a ausência de justa causa que justificasse o ingresso no domicílio do réu e a mitigação da garantia prevista no art. 5, inc. XI, da Constituição Federal, pois a entrada forçada em domicílio, sem uma justificativa prévia, conforme o direito, é arbitrária. Ademais, não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Para tanto, os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida, o que, claramente, no presente caso, não foi feito." (fl. 348).
+Apresentadas as contrarrazões (fls. 352/356), foi o recurso admitido na origem (fl. 357/361).
+O Ministério Público Federal opinou pelo desprovimento da insurgência (fls. 374/378).
+É o relatório.
+Decido.
+No que concerne à alegação nulidade do feito, por entrada forçada dos policiais na residência do ora recorrente sem fundadas razões, identifico que o recurso não merece conhecimento.
+Pois bem.
+O v. acórdão impugnado está fundamentado nos seguintes termos (fls. 339/340, destaquei):
+"Em que pese os argumentos da defesa, o que se verifica dos autos é que os policiais, após Boletim de Ocorrência, diligenciaram acerca de flagrante de roubo de um aparelho de celular, em que se chegou no acusado. E como constante dos depoimentos, a esposa do acusado, autorizou a entrada da polícia em sua residência e em revista foi encontrado o entorpecente, além de que como consta da sentença condenatória, Igor era foragido do Sistema Penitenciário do Estado do Pará.
+Assim sendo, não há que se falar em violação de domicílio em virtude dos fatos narrados, pelo qual rejeito a preliminar arguida."
+Da  análise  dos  autos,  verifico  que  os  fundamentos  destacados  no  trecho  do  v.  acórdão  recorrido,  os  quais,  per  se,  sustentam  o  decisum  impugnado,  não  foram  especificamente  atacados  pelo  insurgente,  razão  pela  qual  o  recurso  não  pode  ser  conhecido,  pela  aplicação,  por  analogia,  do  Enunciado  n.  283  da  Súmula  do  c.  Supremo  Tribunal  Federal:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles".
+De fato,  no  puctum  salliens,  o  v.  acórdão recorrido  utilizou  como  uma  das  razões  para  afastar  a  apontada  nulidade  o  fato  de  que  houve  autorização  da  esposa  do  ora  recorrente  para  que  os  policiais  entrassem  no  domicílio  em  que  a  droga  foi  apreendida,  conforme  exposto  no  trecho  acima. , porém, tal fundamento não foi devida e especificamente refutado pela parte recorrente, pelo que incide, in casu, o referido óbice.
+Nesse  sentido,  cito  os  precedentes  desta  Corte:
+"PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  FUNDAMENTO  SUFICIENTE  DA  DECISÃO  RECORRIDA.  SÚMULA  N.  283  DO  STF.  ROUBO  TENTADO.  DESCLASSIFICAÇÃO  PARA  LATROCÍNIO  TENTADO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.
+1.  Em  observância  ao  princípio  da  dialeticidade  recursal,  é  dever  do  recorrente  impugnar  todos  os  fundamentos  que  sejam,  por  si  sós,  suficientes  para  manter  a  decisão  recorrida,  sob  pena  de  incidência  da  Súmula  283  do  STF.
+ ..
+3.  Agravo  regimental  desprovido."  (AgRg  no  REsp  1675268/MG,  Quinta  Turma,  Rel.  Min.  Joel  Ilan  Paciornik,  DJe  22/09/2017).
+"PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CRIME  DE  RESPONSABILIDADE.  PREFEITA  MUNICIPAL.  FRAUDE  À  LICITAÇÃO.  NULIDADE  POR  NÃO  REALIZAÇÃO  DE  NOVO  INTERROGATÓRIO  APÓS  A  ALTERAÇÃO  DO  NOVO  CPP.  MOTIVAÇÃO  SUFICIENTE.  NÃO  IMPUGNAÇÃO.  SÚMULA  283/STF.  PRINCÍPIO  DA  CONSUNÇÃO.  BIS  IN  IDEM.  SÚMULA  211/STJ.  CRIMES  DE  FRAUDE  À  LICITAÇÃO  E  DESVIO  DE  VERBA  PÚBLICA.  SUBSUNÇÃO.  INEXISTÊNCIA.  ATIPICIDADE  DO  FATO.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INVIABILIDADE.  IMPROVIMENTO.
+1.  Tratando-se  de  motivação  suficiente,  por  si  só,  para  manter  o  acórdão  recorrido,  não  tendo  o  recurso  a  ele  abrangido,  incide,  por  analogia,  a  Súmula  n.  283  do  STF,  segundo  a  qual  É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.
+ ..
+6.  Agravo  regimental  improvido."  (AgRg  no  AREsp  621.601/SP,  Sexta  Turma,  Rel.  Min.  Nefi  Cordeiro,  DJe  05/04/2018).
+Ante  o  exposto,  com  fulcro  no  art.  255,  §  4º,  inciso  I,  do  Regimento  Interno  do  STJ,  não  conheço  do  recurso  especial.
+P.  e  I.
+EMENTA
+PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS.  ALEGADA  NULIDADE.  VIOLAÇÃO  DE  DOMICÍLIO.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DO  FUNDAMENTO  SUFICIENTE  DA  DECISÃO  RECORRIDA.  INCIDÊNCIA  ANALÓGICA  DA  SÚMULA  283  /  STF. RECURSO  ESPECIAL  NÃO  CONHECIDO.
