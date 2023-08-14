@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TRANSPORTADORA JUNIOR LTDA, contra decisão monocrática que conheceu do agravo para conhecer parcialmente de seu recurso especial e, nessa extensão, negar-lhe provimento.
+Ação: de indenização ajuizada por CONSTRUTORA CARVALHO PEREIRA S/A., em face de TRANSPORTADORA JUNIOR LTDA na qual requer a condenação por dano material atinente a roubo de carga objeto de contrato de transporte celebrado entre as partes, porquanto a transportadora se responsabilizou pelo contrato de seguro para realizar o serviço.
+Sentença: julgou parcialmente procedente o pedido.
+Acórdão: negou provimento à apelação interposta por TRANSPORTADORA JUNIOR LTDA, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL - PRELIMINAR ILEGITIMIDADE PASSIVA - AFASTADA - RESPONSABILIDADE CIVIL - NEGLIGÊNCIA E OMISSÃO - DANO MATERIAL - CONFIGURADO - LITIGANCIA DE MÁ FÉ - NÃO COMPROVADA - SENTENÇA MANTIDA. A legitimidade para a causa consiste na titularidade da parte em relação ao interesse deduzido em juízo, o que revela sua qualidade de integrar a relação processual, seja na condição de demandante ou demandado. A responsabilização civil do fornecedor de serviços prescinde da comprovação da sua culpa na causação do dano ao consumidor, mas não dispensa a existência do nexo causal entre a conduta lesiva e o dano. Na responsabilidade objetiva, a atitude culposa ou dolosa do agente causador do dano é de menor relevância, pois, desde que exista relação de causalidade entre o dano experimentado pela vítima e o ato do agente, surge o dever de indenizar, quer tenha este último agido ou não culposamente. Os danos materiais são aqueles que atingem diretamente o patrimônio das pessoas f ísicas ou jurídicas, e, portanto, não se presumem, devendo ser comprovados por quem os alega, por meio de prova documental que ateste o prejuízo suportado, pela despesa que foi gerada, e pelo que se deixou de auferir em razão da conduta ilícita do agente. Conforme dispõe o art. 186 do Código Civil, "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito". Se não restou comprovado nos autos, de forma clara e induvidosa, que a autora adotou conduta maliciosa ou desleal em relação ao processo, não há falar-se em sua condenação em litigância de má-fé, motivo pelo qual não autorizada a aplicação das penalidades legais." (fl. 455, e-STJ).
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, com base nos seguintes fundamentos:
+i) ausência de demonstração de ofensa aos arts. 489 e 1.022 do CPC/2015;
+ii) incidência da Súmula 7/STJ quanto à tese atinente ao reconhecimento de responsabilidade da recorrente e o consequente dever de indenização; e
+iii) a análise do dissídio jurisprudencial alegado revela-se prejudicada, haja vista o necessário reexame de fatos e provas da matéria que se supõe divergente.
+Agravo interno: alega, em síntese, a inaplicabilidade da Súmula 7/STJ, bem como a demonstração adequada da violação dos arts. 489 e 1.022 do CPC/2015.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno e pela reforma da decisão agravada.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de obrigação de fazer.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 d o CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Alterar o decidido no acórdão impugnado no que se refere à tese atinente ao reconhecimento de responsabilidade da recorrente e o consequente dever de indenização, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, com base nos seguintes fundamentos: i) ausência de demonstração de ofensa aos arts. 489 e 1.022 do CPC/2015; ii) incidência da Súmula 7/STJ quanto à tese atinente ao reconhecimento de responsabilidade da recorrente e o consequente dever de indenização; e iii) a análise do dissídio jurisprudencial alegado revela-se prejudicada, haja vista o necessário reexame de fatos e provas da matéria que se supõe divergente.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Julgamento: aplicação do CPC/2015.
+1. Da violação dos arts. 489 e 1.022 do CPC/2015
+Confirmo o assentado no entendimento de que é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o Tribunal de origem ao julgar os embargos de declaração opostos pela recorrente, já havia esclarecido o que segue:
+"Todavia, não se vislumbra qualquer omissão e/ou erro material no Acórdão, sendo bastante claro o julgado ao apontar os motivos que fundamentaram todos os pontos nele elencados, inclusive a reponsabilidade atribuída a Ré/Apelante/Embargante:
+No caso dos autos, restou comprada a celebração de contrato de transporte entre as partes, sendo certo que a Ré/Apelante se responsabilizou pela contratação de seguro para realizar seu serviço.
+Ocorre que os bens da Autora/Apelada que estavam sendo transportados pela Ré/Apelante foram roubados, tendo a seguradora negado o pagamento da indenização sob o argumento de constar no contrato celebrado pela Ré/Apelante a cláusula excludente de roubo, assim como um valor limite a ser indenizado.
+Assim, conforme bem consignado pelo Magistado primevo, se a Ré/Apelante tivesse tomado os cuidados necessários quanto da contratação do seguro, teria evitado ocorrência de danos à Autora/Apelada.
+Nesse sentido, conclui-se que a Ré/Apelante agiu com imprudência e negligência ao não verificar nas cláusulas do seguro contratado qual seria o valor máximo de cobertura e quais seriam os bens excluídos da apólice, não havendo qualquer hipótese de excludente de responsabilidade cabível.
+Assim, não há que se falar em cabimento do presente Embargos de Declaração quando o que pretende a Ré/Apelante/Embargante é rediscutir a matéria já decidida." (fl. 490, e-STJ).
+Referida conclusão, repise-se, encontra-se suficientemente fundamentada, não havendo que se falar em vício do julgado pela mera ausência de menção a determinado dispositivo legal invocado pela parte agravante, ou a tese incapaz de alterar a conclusão posta.
+De fato, é certo que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente detalhadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.708.568/SP, 2ª Turma, DJe 10/03/2020).
+Dessa maneira, em suma, rigorosamente analisadas as questões relevantes à solução da controvérsia, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não prospera a alegação de violação dos arts. 489 e 1.022 do CPC/2015.
+2. Do reexame de fatos e provas
+Da renovada análise dos autos, reitero a assertiva de que, no tocante à tese atinente ao reconhecimento de responsabilidade da recorrente e o consequente dever de indenização, o acórdão recorrido adentrou na esfera fática probatória dos autos, vedado em recurso especial pela Súmula 7 do STJ.
+Vejamos.
+Confira-se como o acórdão do Tribunal de origem se pronunciou sobre a questão mencionada:
+"No caso dos autos, restou comprada a celebração de contrato de transporte entre as partes, sendo certo que a Ré/Apelante se responsabilizou pela contratação de seguro para realizar seu serviço.
+Ocorre que os bens da Autora/Apelada que estavam sendo transportados pela Ré/Apelante foram roubados, tendo a seguradora negado o pagamento da indenização sob o argumento de constar no contrato celebrado pela Ré/Apelante a cláusula excludente de roubo, assim como um valor limite a ser indenizado.
+Assim, conforme bem consignado pelo Magistado primevo, se a Ré/Apelante tivesse tomado os cuidados necessários quanto da contratação do seguro, teria evitado ocorrência de danos à Autora/Apelada.
+Nesse sentido, conclui-se que a Ré/Apelante agiu com imprudência e negligência ao não verificar nas cláusulas do seguro contratado qual seria o valor máximo de cobertura e quais seriam os bens excluídos da apólice, não havendo qualquer hipótese de excludente de responsabilidade cabível.
+Assim, a indenização pelos danos materiais decorrentes do roubo é a medida cabível para responsabilizar a Ré/Apelante." (fl. 461).
+Dessa forma, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+3. Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema acima mencionado que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, 1ª Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, 2ª Turma, DJe 14/12/2018; REsp 1665845/RS, 2ª Turma, DJe 19/06/2017.
+Logo, a decisão agravada não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
