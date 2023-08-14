@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por JOACIR ALVES VIANA contra decisão singular, de relatoria da Ministra Presidente do STJ, que não conheceu do recurso especial em virtude do óbice da Súmula 284 do STF, sob o fundamento de que houve a indicação errônea do dispositivo constitucional autorizador do recurso (fls. 212/213).
+O agravante afirma que, "nas razões do Recurso Especial, o fundamento apresentado (conforme visto às fls. 136/143), toma por base o art. 104 e seguintes do vigente CPC" (fl. 218).
+Aduz que "não houve indicação errônea do dispositivo constitucional. Os fundamentos tanto do Recurso Especial, quanto do Agravo de Instrumento ora interposto, seguem os ditames do CPC vigente" (fl. 218).
+Requer a reconsideração da decisão agravada ou o julgamento do agravo interno pela Turma.
+Intimada, a parte agravada apresentou impugnação (fl. 222/234).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182 do STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente recurso não se prestam a modificar o posicionamento anteriormente adotado na decisão agravada, assim redigida:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de JOACIR ALVES VIANA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que houve a indicação errônea do dispositivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, o enunciado da referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Como já salientado na decisão agravada, a Corte Especial do STJ, no julgamento dos EAREsp 746.775/PR, manteve o entendimento quanto à obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial, sob pena de não conhecimento do agravo, ante a incidência da Súmula 182 do STJ.
+Nas razões do agravo em recurso especial, o agravante não infirmou o fundamento da decisão recorrida, deixando de se pronunciar acerca da indicação errônea do dispositivo constitucional autorizador do recurso especial.
+Acrescente-se que, nas razões deste agravo interno, apenas afirmou a indicação de violação do art. 104 e seguintes do vigente CPC/2015, bem como o cumprimento dos requisitos do citado código.
+Nos termos da jurisprudência desta Corte, a falta de expressa indicação dos permissivos constitucionais autorizadores de acesso à instância especial e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. NECESSIDADE. ENTENDIMENTO PACÍFICO DO STJ. MODULAÇÃO DOS EFEITOS APENAS PARA AS SEGUNDAS-FEIRAS DE CARNAVAL ANTERIORES À PUBLICAÇÃO DO ACÓRDÃO DE FIXAÇÃO DESSE ENTENDIMENTO. DOCUMENTO IDÔNEO. INEXISTÊNCIA. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL E DE DISPOSITIVO DE LEI VIOLADO OU DE EVENTUAL DIVERGÊNCIA JURISPRUDENCIAL APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+3. A Corte Especial, no julgamento do REsp n. 1.813.684/SP, reafirmou que, nos recursos interpostos sob a vigência do CPC de 2015, a comprovação de feriado local deve ser feita no ato da interposição. Contudo, mitigou esse entendimento quanto à comprovação da segunda-feira de Carnaval, modulando os efeitos do julgado para aplicação tão somente a recursos interpostos até a publicação do acórdão, ocorrida em 18/11/2019.
+4. A segunda-feira de Carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+5. São considerados documentos idôneos para fins de comprovação da tempestividade recursal a cópia da lei, dos atos normativos ou certidão oficial emitida pelo Tribunal de origem.
+6. A mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal. Precedentes.
+7. A falta de expressa indicação dos permissivos constitucionais autorizadores de acesso à instância especial e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+8. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.172.255/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PERDAS E DANOS E REPARAÇÃO POR DANOS MORAIS E EMERGENTES E RESTITUIÇÃO DE QUANTIA PAGA. 1. VIOLAÇÃO AO ART. 485, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. 2. JULGAMENTO EXTRA PETITA E JULGAMENTO BASEADO EM FATO INEXISTENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 489 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 4. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. REITERAÇÃO DOS FUNDAMENTOS. POSSIBILIDADE. PRECEDENTES. 5. MULTA DO ART. 1.021, § 1º, DO CPC/2015. INAPLICABILIDADE. 6. AGRAVO INTERNO IMPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.129.634/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todas as razões da decisão recorrida.
+Imperioso concluir, portanto, que a exigência constante do artigo 1.021, § 1º, do CPC/2015 não foi cumprida, o que conduz à inviabilidade do agravo interno, como ensinam o artigo 932, III, do mesmo Diploma e o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
