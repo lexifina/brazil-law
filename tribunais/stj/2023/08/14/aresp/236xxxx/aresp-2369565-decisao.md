@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. PERÍCIA HONORÁRIOS ARBITRADOS EM R$ 92.070,00. PEDIDO DE REDUÇÃO. NÃO CABIMENTO. VALOR ARBITRADO DE FORMA RAZOÁVEL E PROPORCIONAL AO TRABALHO A SER REALIZADO. RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, a parte recorrente alega violação do art. 489, § 1º, II, III e IV, do Código de Processo Civil, no que concerne à nulidade do acórdão recorrido em razão da negativa de prestação jurisdicional, trazendo a seguinte argumentação:
+O acórdão embargado é nulo porque não apresentou qualquer justificativa relacionada ao caso concreto para manutenção dos honorários periciais em valor tão elevado.
+Nessa toada, assim dispõe o referido § 1º do art. 489:
+ ..
+Assim, tem-se inequívoco que incidiram as nulidades dos incisos II, III e IV do § 1º do art. 498 do NCPC. Foram empregados conceitos jurídicos sem especificar a relação com o caso concreto. Também, a acórdão poderia ter justificado qualquer valor de perícia, em qualquer caso, uma vez que não se teceu qualquer consideração relativa a qualquer especificidade do caso concreto. No mais, sequer se rebateram as alegações da Municipalidade, que poderiam infirmar as conclusões do acórdão (fl. 61).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
