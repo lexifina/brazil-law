@@ -1,0 +1,25 @@
+DECISÃO
+MATEUS DELFINO DOS SANTOS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0040.20.001131-6/001.
+Nas razões recursais, a defesa aponta violação dos arts. 1º, 59 e 68, do Código Penal, diante da ausência de fundamentação idônea para negativar as consequências do crime.
+Requer o provimento do recurso, a fim de que seja reduzida a sanção aplicada.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 231-234).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 1 ano e 2 meses de reclusão mais 11 dias-multa, em regime aberto, pela prática do delito previsto no art. 155, caput, do Código Penal.
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz de primeiro grau, no que foi corroborado pela Corte estadual, considerou desfavoráveis as consequências do crime, "eis que parte do dinheiro não foi recuperado" (fl. 137, grifei).
+Reputo ilegítima a fundamentação adotada, haja vista que a jurisprudência deste Tribunal Superior é firme em assinalar que a ausência de devolução do bem subtraído, por ser elemento intrínseco ao delito de furto, não pode ser utilizada, isoladamente, para justificar a avaliação desfavorável das consequências do delito. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A análise negativa das consequências do crime foi realizada por meio de fundamentação inidônea, haja vista que o prejuízo é elemento inerente dos crimes contra o patrimônio e não foram apresentados elementos concretos, como o valor exacerbado da res furtiva ou do próprio dano gerado, que pudessem fundamentar o recrudescimento da pena pela referida vetorial.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 2.213.274/GO, Rel. Ministro Rogerio Schietti, 6ª T., DJe de 31/5/2023)
+ ..
+1. A avaliação negativa das consequências do crime, que devem ser entendidas como o resultado da ação do agente, mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+2. "A redução do patrimônio da vítima é circunstância inerente à prática de crimes contra o patrimônio, dos quais o roubo é espécie, de modo que a não restituição do bem apropriado, por si só, não se presta a amparar a exasperação da pena-base." (AgRg no REsp n. 2.015.055/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.) 3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.048.133/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 22/5/2023)
+Dessa forma, identifico a violação legal apontada, para afastar a valoração negativa da referida circunstância judicial e passo à nova dosimetria.
+Na primeira fase, afastada a análise desfavorável das consequências do delito, retorno a pena-base do furto ao mínimo legal de 1 ano de reclusão mais 10 dias-multa. Na segunda etapa, a reprimenda permaneceu inalterada, uma vez que compensadas a atenuante da confissão com a agravante do art. 61, II, "h", do CP. Por não haver causas de aumento ou de diminuição, a pena se torna definitivamente estabelecida em 1 ano de reclusão mais 10 dias-multa.
+À vista do exposto, com fundamento no art. 932, V, "a", do CPC, c/c o art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial, a fim de afastar a análise negativa das consequências do delito, redimensionando a pena para 1 ano de reclusão mais 10 dias-multa.
+Publique-se e intimem-se.
