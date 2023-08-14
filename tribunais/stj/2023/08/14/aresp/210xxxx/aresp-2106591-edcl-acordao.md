@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+ANA PATRICIA SARDA opõe embargos de declaração ao acórdão assim ementado (fl. 554):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. LEGITIMIDADE ATIVA DO CONDOMÍNIO. SUB-ROGAÇÃO. NÃO OCORRÊNCIA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Quando o tribunal de origem, com base na análise de cláusulas contratuais e de provas, conclui pela contratação de empresa de serviço de cobrança e de garantia de fluxo de caixa mensal, não ocorrendo a sub-rogação do crédito, o condomínio tem legitimidade para cobrar as taxas condominiais a condômino inadimplente.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise de cláusulas contratuais e dos elementos probatórios produzidos ao longo da demanda.
+3. Agravo interno desprovido.
+A embargante alega omissão do decisum, porquanto não apreciado o pedido de retirada de pauta.
+Sustenta que, "apresentado pedido de redesignação para o fim de possibilitar a sustentação oral do advogado que encontrou dificuldade técnicas para anexar vídeo com a sustentação oral e sem que tenha sido apreciado o pedido, lançado tempestivamente nos autos, resta configurada a omissão cuja consequência é a caracterização do cerceamento do direito de defesa" (fl. 563).
+Requer o acolhimento dos embargos de declaração para que seja sanada a omissão suscitada, anulando o julgamento realizado e sendo redesignada nova sessão a fim de permitir a sustentação oral pela embargante.
+Não foi apresentada resposta aos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE RETIRADA DA PAUTA VIRTUAL PARA SUSTENTAÇÃO ORAL. OMISSÃO. AUSÊNCIA DE PREVISÃO PARA SUSTENTAÇÃO ORAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração são incabíveis para fins de prequestionamento de matéria constitucional quando ausentes as hipóteses previstas no art. 1.022 do CPC.
+2. Conforme entendimento pacífico desta Corte, não há previsão legal para a apresentação de sustentação oral nos agravos internos interpostos contra decisões proferidas em agravo em recurso especial.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+Segundo o art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto sobre o qual o juiz devia se pronunciar de ofício ou a requerimento ou corrigir erro material.
+No caso, verifico que não foi examinado o pedido formulado às fls. 537-552 para que o feito fosse julgado presencialmente a fim de possibilitar a realização de sustentação oral.
+Entretanto, conforme entendimento pacífico desta Corte, não há previsão legal para a apresentação de sustentação oral nos agravos internos interpostos contra decisões proferidas em agravo em recurso especial, como é o caso dos autos. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE INTIMAÇÃO PARA EFETUAR SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. CORREIÇÃO PARCIAL. ABERTURA DE VISTA AO MINISTÉRIO PÚBLICO PARA SE MANIFESTAR SOBRE RESPOSTA A ACUSAÇÃO. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. - Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial (AgRg no AREsp n. 2.170.433/PA, QUINTA TURMA, Rel. Min. RIBEIRO DANTAS, DJe de 10/10/2022).
+ ..  4. Agravo regimental não provido. (AgRg no AREsp n. 2.217.901/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/3/2023, DJe de 27/3/2023.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1.CONTRADIÇÃO NÃO CONSTATADA. 2. PEDIDO DE RETIRADA DO AGRAVO REGIMENTAL DA PAUTA DE JULGAMENTOS VIRTUAL PARA SUSTENTAÇÃO ORAL. NÃO CABIMENTO. 3. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na decisão judicial, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022 do CPC/2015. Contradição não verificada.
+2. Inicialmente, frise-se que esta Corte Superior já assentou que o cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994 (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, 4ª T., DJe 28/6/2022).
+2.1. Ademais, a oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, o que não se verificou no caso (EDcl no AgInt no AREsp n. 2.120.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.).
+3. Embargos de declaração parcialmente acolhidos sem efeitos infringentes. (EDcl no AgInt no AREsp n. 2.018.341/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE RETIRADA DA PAUTA VIRTUAL PARA SUSTENTAÇÃO ORAL NÃO ANALISADO. PLEITO DE ANULAÇÃO DO ACÓRDÃO PROLATADO EM SESSÃO VIRTUAL. AUSÊNCIA DE PREVISÃO PARA SUSTENTAÇÃO ORAL.
+1. Não foi examinado o pedido formulado às fls. 896-900 para que o feito fosse julgado presencialmente a fim de possibilitar a realização de sustentação oral.
+2. Contudo, o pedido de realização de sustentação oral é insuficiente para a retirada da pauta virtual. É incabível sustentação oral em Agravo em Recurso Especial, nos termos do art. 159, IV, do RISTJ, especialmente porque a alteração promovida pela Lei 14.365/2022 não incluiu a classe Agravo em Recurso Especial no rol de recursos e ações que a admitem. Na mesma linha: EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe 28/6/2022; AgRg no AREsp n. 2.144.230/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022 e AgRg no ARE 1.381.324/SC, Ministro Luiz Fux, DJe 22.6.2022.
+3. Embargo de Declaração acolhidos para sanar a omissão, sem efeitos infringentes. (EDcl no AgInt no AREsp n. 2.089.748/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+Ante o exposto, acolho os embargos de declaração, sem efeito infringentes.
+É o voto.
