@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Ronaldo do Prado Lima contra o ato coator proferido pela Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do HC n. 2101551-86.2023.8.26.0000, denegou a ordem, mantendo o paciente preso preventivamente pela suposta prática de furto simples (Processo n. 1500551-95.2023.8.26.0616, da 2ª Vara Criminal de Itaquaquecetuba/SP).
+A impetrante alega, em síntese, que o paciente está preso desde 17/2/2023 e a audiência de instrução foi designada para 27/7/2023. Assim, caso tenha que aguardar preso terá cumprido integralmente eventual pena antes de transitado em julgado o processo.
+Sustenta que possui apenas uma condenação capaz de gerar reincidência, sendo as demais anotações muito antigas, incapazes de gerar reincidência ou maus antecedentes.
+Pede, em caráter liminar e no mérito, a revogação da prisão preventiva, ainda que mediante cautelares (fls. 3/8).
+Liminar indeferida (fls. 94/95).
+Informações prestadas (fls. 102/183).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 191/194).
+Atualmente, a ação penal encontra-se aguardando audiência de instrução e julgamento designada para o dia 27/9/2023.
+É o relatório.
+No que concerne ao excesso de prazo para a formação da culpa, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise da alegação importaria indevida supressão de instância, de mod o que o mandamus não pode ser conhecido quanto ao ponto.
+O Juízo a quo decretou a prisão preventiva para a garantia da ordem pública por vislumbrar o risco de reiteração delitiva, uma vez que (fl. 45 - grifo nosso):
+ ..
+É notório que a subtração de veículos automotores revela maior grau de reprovação da conduta do averiguado, pois fomenta o mercado (nacional e internacional) clandestino de desmanche de automóveis.
+Importante salientar que o crime foi praticado em sua forma qualificada (uso de chave falsa), o que revela maior grau de reprovação na conduta do indiciado.
+Além disso, o custodiado ostenta condenação por receptação (fls. 57 - proc. 9325-24.2012), é reincidente (proc. 3470-11.2005 - fls. 56 e 54 - consta na folha de antecedente que a pena imposta está por cumprir) e responde a processos por furto (fls. 59 - proc.1500592-48.2022) e receptação (fls. 59 - proc. 1500876-51.2022), o que indica que as medidas cautelares são insuficientes e inadequadas ao presente caso.
+Aliás, nesse ponto, verifica-se que o custodiado foi beneficiado com cautelares diversas da prisão (fls. 53), que não foram suficientes para que ele se envolvesse novamente coma prática de crimes.
+Portanto, não é recomendável a soltura do indiciado neste mom ento, que poderiam se ver premiado com prematura liberdade e, por isso, instigado a praticar novos delitos.
+ ..
+O Tribunal local denegou a ordem de habeas corpus e m anteve a prisão preventiva afirmando que (fl. 85 - grifo nosso):
+ ..
+Verifico que o paciente conforme a folha de antecedentes que o paciente é reincidente, responde a processos por furto (Processo n. 1500592-48.2022) e receptação (Processo n. 1500876-51.2022) e voltou a delinquir, fazendo da prática criminosa um verdadeiro modus vivendi e não se olvida que a concessão de liberdade provisória é vedada por expressa disposição legal (artigo 310, §2º, do CPP).
+ ..
+Pois bem, não obstante a ausência de violência ou grave ameaça, ficou devidamente demonstr ado o risco concreto de reiteração delitiva, pois, conforme afirmado pelas instâncias ordinárias, o paciente é reincidente, possui condenação por receptação, responde a processos por furto e receptação novamente, e estava em gozo de liberdade provisória, em cumprimento de medidas cautelares diversas, quando do cometimento do novo delito.
+Assim, demonstrada a periculosidade social do paciente, incompatível com a manutenção do status libertatis, revela-se necessária a prisão preventiva para garantia da ordem pública, não havendo, assim, qualquer ilegalida de a ser sanada.
+Com efeito, a jurisprudência desta Corte de Justiça já se manifestou em caso semelhante no sentido de que reiteração delitiva é justificativa idônea para manter a prisão antes do trânsito em julgado da condenação.
+Nesse sentido, por exemplo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. FURTO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO CONCRETA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. CONDIÇÕES PESSOAIS IRRELEVANTES, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES, NA HIPÓTESE. EXISTÊNCIA DE TESE NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (HC 714.681/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/04/2022, DJe 02/05/2022).
+2. No caso, as instâncias ordinárias evidenciaram, de forma idônea, a necessidade de manutenção da prisão preventiva do Agravante, tendo em vista o fundado risco de reiteração delitiva, pois "foi preso pela prática de furto qualificado (processo 1500234-58.2022.8.26.0608) em agosto de 2022, tendo recebido liberdade provisória naquela ocasião. Um mês depois, em setembro de 2022, foi preso novamente, tendo novamente recebido a liberdade provisória, em delito que também envolveu furto de veículos (processo 1500514-52.2022.8.26.0374). Pouco menos de dois meses depois, o agente voltou a delinquir".
+3. A suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu.
+4. Em relação à última tese sustentada pelo Agravante - " u ma das ações penais sequer causará maus antecedentes e/ou reincidência, pois foi ofertado Acordo de não persecução penal, e a segunda imputação está em momento embrionário, sequer houve denúncia, ou seja, n ão existe ainda ação penal, o próprio órgão acusatório tem extremas dúvidas sobre a materialidade e autoria do delito" - não pode ser conhecida, sob pena de se incorrer em indevida supressão de instância, haja vista que a Corte a quo não emitiu qualquer juízo sobre tal questão.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 801.092/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/5/2023 - grifo nosso)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. PACIENTE PRESO NO CURSO DE EXECUÇÃO PENAL (CRIME DE ROUBO). RISCO SANITÁRIO CAUSADO PELA PANDEMIA. MATÉRIA NÃO APRECIADA. SUPRESSÃO DE INSTÂNCIA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - No caso, o decreto prisional está devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam a periculosidade do agente que transita na senda criminosa, um a vez que estava em cumprimento de pena pelo crime de roubo, quando foi autuado em flagrante pelo suposto furto de veículo, evidenciando de maneira inconteste a necessidade da prisão como garantia da ordem pública, ante a sua periculosidade concreta e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+III - O alegado risco sanitário causado pela pandemia não foi analisado pelo eg. Tribunal a quo. Assim sendo, fica impedida esta eg. Corte de apreciar a questão, sob pena de indevida supressão de instância.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 661.326/SP, Ministro Felix Fischer, Quinta Turma, DJe 25/5/2021 - grifo nosso)
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pelo Subprocurador-Geral da República Elton Ghersel (fls. 191/194), o qual também adoto como razão de decidir.
+Ante o exposto, com base no parecer ministerial e nos precedentes, conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REINCIDENTE E OUTROS REGISTROS DE DELITOS CONTRA O PATRIMÔNIO. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO VÁLIDA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER MINISTERIAL ACOLHIDO.
+Writ parcialmente conhecido e, nessa parte, ordem denegada.
