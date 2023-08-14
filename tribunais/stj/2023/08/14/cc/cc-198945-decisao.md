@@ -1,0 +1,10 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA CRIMINAL E IMPROBIDADE ADMINISTRATIVA, COM JUIZADO ESPECIAL FEDERAL CRIMINAL ADJUNTO DE TERESINA - SJ/PI suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA 15ª VARA DE LIMOEIRO DO NORTE - SJ/CE.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o Juízo competente para a execução penal de sentenciado que teve a pena fixada em regime aberto e substituída por restritiva de diretos, na hipótese de seu domicílio ser em local diverso do da condenação.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 15ª Vara de Limoeiro do Norte - SJ/CE, ora suscitado (fls. 25-26).
+Decido.
+De início, registro que, no caso, não há a incidência da Súmula n. 192 do STJ, visto que o sentenciado não se encontra recolhido em estabelecimento prisional estadual, na medida em que a pena privativa de liberdade foi estabelecida em regime aberto e convertida em restritiva de direitos.
+Em casos similares, esta Corte firmou a compreensão de que "Tendo o réu sido condenado pela Justiça Federal a pena a ser inicialmente cumprida no regime aberto, deve a execução ser processada por esta, nos termos do art. 65, da Lei de Execuções Penais." (AgRg no CC n. 153.707/PR, Rel. Ministro Felix Fischer, DJe 10/11/2017).
+De fato, a competência para a execução penal cabe ao Juízo do local da condenação, que na espécie é em Limoerio do Norte - CE, nos termos do art. 65 da LEP, sendo deprecado, se for o caso, ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, sem o deslocamento de competência (v.g. CC n. 137.899/PR, Rel. Min. Leopoldo de Arruda Raposo - Desembargador Convocado do TJ/PE, DJe 27/3/2015).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 15ª Vara de Limoeiro do Norte - SJ/CE, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
