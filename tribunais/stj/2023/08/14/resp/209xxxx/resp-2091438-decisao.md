@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANTONIO AUGUSTO BRANDÃO DE ARAS contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu recurso especial interposto contra acórdão assim ementado (fls. 544-545):
+CONSTITUCIONAL. CIVIL. INDENIZAÇÃO POR DANOS MORAIS. DIVULGAÇÃO DE MATÉRIA JORNALÍSTICA. OFENSA À HONRA, À INTIMIDADE E À VIDA PRIVADA. INEXISTÊNCIA. ANIMUS NARRANDI. DIREITO-DEVER DA EMPRESA JORNALÍSTICA. INEXISTÊNCIA DOS REQUISITOS PRECÍPUOS AO DEVER DE INDENIZAR. SENTENÇA MANTIDA.1. As informações jornalísticas revestem-se de peculiar caráter público e são importantes para a formação de opinião da sociedade. Sua divulgação torna-se direito-dever da empresa jornalística e do público, dentro do contexto de que a informação tem mais valia para a sociedade do que a preservação absoluta dos direitos individuais.2. A informação jornalística é legítima se preencher três requisitos: o interesse social da notícia, a verdade do fato narrado e a contingência da narração. Portanto, só haverá responsabilidade se o informante desbordar dessa pauta estabelecida.3. Os agentes públicos ficam ainda mais sujeitos à publicidade de seus atos e de circunstâncias que os envolvem, pois tais notícias são de interesse da sociedade.4. Ausente a intenção de ofender ou difamar, e não tendo a matéria veiculada ultrapassado o dever de informar, não há direito à indenização por dano moral.5. Recurso não provido.
+Nas razões do recurso especial, manejado com fundamento na alínea a do permissivo constitucional, a recorrente alega ofensa aos arts. 489, § 1º, inciso IV, e 1.022, inciso II, ambos do Código de Processo Civil, e ao art. 927 do Código Civil.
+Recurso especial inadmitido pelo Tribunal de origem (fls. 750-752), cuja decisão foi objeto presente agravo (fls.754-755).
+Contrarrazões às fls. 792-823.
+É, no essencial, o relatório.
+Tenho por atendidos os pressupostos de admissibilidade do agravo em recurso especial.
+Portanto, considerando a importância da questão em discussão e a fim de possibilitar melhor exame da controvérsia, conheço do agravo interposto e determino sua conversão em recurso especial.
+Ante o exposto, dou provimento ao agravo para determinar a sua reautuação como recurso especial para melhor exame da controvérsia.
+Publique-se. Intimem-se.
