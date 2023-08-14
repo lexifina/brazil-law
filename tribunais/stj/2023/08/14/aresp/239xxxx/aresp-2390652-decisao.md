@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por SILVIO ANTONIO MIRANDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PROVA. DOCUMENTOS. EXTRATOS DE MOVIMENTAÇÃO FINANCEIRA. REGISTRO ELETRÔNICO. VALIDADE.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 5º, LV, da CF/88; e 369 do CPC, no que concerne à configuração de cerceamento de defesa no caso dos autos, eis a necessidade de que o recorrido seja intimado para apresentar os documentos originais ou suas microfilmagens, imprescindíveis para a aferição dos fatos relevantes discutidos na demanda, trazendo a seguinte argumentação:
+O juiz "a quo" decidiu a lide entendendo ser desnecessária a intimação do Recorrido para apresentação dos documentos origianais ou as suas microfilmagens, agindo de forma arbitraria e abusiva e em total desacordo com as determinaçãoes dos artigos 369 do CPC e 5º da Constituição Federal, os quais destacam-se o teor:
+ ..
+O princípio do contraditório e ampla defesa não admite adiamento, sob pena de nulidade dos atos praticados após o indeferimento da prova.
+Além disso, a juntada dos documentos em posse do Banco Recorrido é imprescindível para aferição dos fatos relevantes discutidos nos autos, sendo certo que o julgamento sem a apresentação dos necessários documentos importou em violação do contraditório e ampla defesa.
+ ..
+No caso dos autos, o Recorrente ingressou com Ação de Liquidação e Cumprimento de Sentença, sobre decisão do STJ em ACP cujo julgamento lhe conferiu direito de ser restituído dos valores correspondentes à diferença dos índices aplicados pelo Banco do Brasil, acrescidos de juros e correção monetária.
+Para apuração do valor a que tem direito a restituição, formularam pedido de inversão do ônus da prova, a fim de determinar ao Recorrido a apresentação dos documentos originais ou as suas reproduções gráficas/microfilmagens.
+O Recorrido juntou aos autos mero demonstrativo, o qua foi validado pelo juiz singular, mesmo tendo sido veementemente impugnado pelo Recorrente, tendo em vista não se tratarem de representação comprovadamente fiel dos valores envolvidos nas operações celebradas entre as Partes.
+ ..
+É certo que, na transposição dos dados entre os documentos originais e o simples extrato apresentado em juízo, comumente ocorrem erros ou inconsistências. Se há viabilidade e amparo jurídico ao dever de apresentação da documentação original, entende-se devida a sua exibição, garantindo assim a veracidade das informações - desde as eventuais correções até as diversas trocas de moedas ocorridas enquanto a dívida se desenvolvia e suas amortizações.
+ ..
+O documento juntado pelo Recorrido foi confeccionado unilateralmente pela Instituição Financeira e o que se questiona é o fato de não se tratar dos documentos gerados automaticamente à época da evolução do saldo devedor.
+Além do mais, a Resolução do BACEN n. 913, em seus art. 1º e 4º, §1º estipula de maneira clara a obrigatoriedade de microfilmar os extratos das operações financeiras antes de eliminar os documentos propriamente ditos:
+ ..
+Desse modo, incoerente é a validação de documentos não originais e em conformidade com as determinações do Banco Central contidas na Resolução 913 (fls. 617-622).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, no que se refere à alegada violação ao art. 5º, LV, da CF/88, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Importa observar que o cerne da controvérsia cinge-se à eficácia probatória do extrato financeiro apresentado pela ré. Consoante exposto nos autos, as fichas financeiras datam de um período que se iniciou em 1988, razão pela qual a parte apelante pugna pela apresentação das microfilmagens e invalidade do extrato apresentado.
+Não obstante a irresignação, entende-se que os documentos apresentados são idôneos e suficientes para o deslinde da controvérsia, cujo exame acerca da eficácia probatória cabe ao juiz, seu destinatário final, nos termos do art. 371 do CPC:
+ ..
+O apelante, em que pese a reiterada indignação acerca dos documentos apresentados, não apresentou qualquer fato ou argumento capaz de indicar a sua dissociação com a realidade. Os extratos de movimentação financeira são documentos produzidos pelas instituições financeiras unilateralmente e a forma como são apresentados - em microfilmagem ou por meio de registro histórico no sistema - não é capaz de, por si só, macular sua validade.
+Diante do exposto, conclui-se pela suficiência dos documentos apresentados, não havendo subsistir os argumentos expostos no apelo (fls. 602-603).
+Assim, no que se refere à alínea "a" do permissivo constitucional, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
