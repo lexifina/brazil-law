@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por NARA ALVARES DOS SANTOS contra decisão que não conheceu do agravo em recurso especial.
+Ação: de obrigação de fazer ajuizada pela agravante em face de BANCO BRADESCO S/A.
+Decisão Interlocutória: deferiu parcialmente a tutela de urgência para determinar a suspensão de qualquer exigibilidade de quaisquer obrigações oriundas do empréstimo pessoal realizado na conta da autora, do contrato objeto da lide, e a negativação de seu nome nos órgãos de proteção ao crédito, sob pena de multa de R$ 1.000,00 por cada ato de descumprimento, limitada a R$ 60.000,00.
+Acórdão: deu parcial provimento ao agravo de instrumento da agravada, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO Ação de obrigação de fazer - Decisão que defere parcialmente tutela de urgência para determinar a suspensão de qualquer exigibilidade de quaisquer obrigações oriundas do empréstimo pessoal realizado na conta da autora, do contrato objeto da lide, e a negativação de seu nome em órgãos de proteção ao crédito, pena de multa - Agravada vítima de roubo em sua residência - Operações bancárias atribuídas aos autores do roubo, dentre as quais de empréstimo - Banco que bloqueou a conta diante de operação suspeita - Probabilidade de fortuito externo e não de falha bancária - Efeito suspensivo deferido para adequação do contrato no limite do valor não recuperado que segue confirmado e nesses termos parcialmente modificada a decisão agravada - Inviabilidade de suspensão da exigibilidade e de medidas na ocorrência de mora em relação ao contrato adequado - Multa mantida para fins de cumprimento da adaptação contratual - Decisão parcialmente modificada - Recurso parcialmente provido. (e-STJ fl. 260)
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: a agravante reapresenta as razões recursais do agravo em recurso especial e alega não almejar o reexame do conjunto fático probatório. Por fim, requer reconsideração do decisum, para que o recurso seja conhecido e provido no que se refere ao mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer.
+2. O agravo interno interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não conheceu do agravo em recurso especial da parte agravante, ante a incidência da Súmula 182/STJ.
+Da análise do presente recurso, verifica-se que a agravante deixou de rebater, pontualmente, o fundamento da decisão agravada, pois não demonstrou, de maneira consistente e específica, a inaplicabilidade da Súmula 182/STJ à hipótese dos autos.
+Explico.
+In casu, não obstante as arguições recursais, verifica-se que a parte não demonstrou ter impugnado, no agravo em recurso especial, a incidência da Súmula 7/STJ, ainda que arguida na decisão de inadmissibilidade proferida pelo Tribunal a quo.
+Elucida-se que, em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Dessa forma, cabia à agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu.
+Nesse sentido , conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Corte Especial, DJe de 30/11/2018)
+No que se refere ao agravo interno em exame, nota-se que a recorrente sequer abordara o reconhecimento da Súmula 182/STJ, tampouco apresentara fundamentação acerca da sua inaplicabilidade.
+Destarte, estando ausente a impugnação pontual e consistente do fundamento utilizado pelo decisum recorrido para obstar o seguimento do apelo nobre, o conhecimento do recurso é, de fato, novamente inadmissível, a teor do disposto na aludida Súmula 182 e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Forte nessas razões, não conheço do agravo interno no agravo em recurso especial.
