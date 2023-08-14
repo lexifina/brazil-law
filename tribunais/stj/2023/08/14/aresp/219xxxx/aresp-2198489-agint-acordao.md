@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão por meio da qual a Presidência desta Corte Superior não conheceu do recurso em razão da ausência de preparo (Súmula n. 187 do STJ).
+Sustenta o agravante que, em que pese o indeferimento da justiça gratuita pelo Tribunal de origem, não houve determinação para regularização do comprovante de recolhimento da guia.
+Afirma que "foi indeferida a justiça gratuita pelo tribunal a quo, intimado o Agravante, efetuou o devido recolhimento, entretanto, apresentou comprovante deficiente" (e-STJ, fl.584).
+Aduz que "não houve oportunidade de o Recorrente regularizar a juntada de comprovante das custas anteriormente recolhias, nesse ponto, roga o Agravante pela oportunidade de comprovar o devido recolhimento das custas de Recurso Especial, e desde já, junta o respectivo comprovante sem cortes" (e-STJ, fl.585).
+Impugnação apresentada às fls.590/599.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. AUSÊNCIA. PEDIDO DE JUSTIÇA GRATUITA FORMULADO NO RECURSO ESPECIAL. INDEFERIMENTO. INTIMAÇÃO PARA RECOLHIMENTO DO PREPARO. FALTA DE COMPROVAÇÃO. DESERÇÃO. SÚMULA N. 187/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Indeferido o benefício de justiça gratuita e intimada a parte para regularizar o preparo, não houve a comprovação do efetivo recolhimento, o que acarreta o não conhecimento do recurso especial pela deserção.
+2. Incidência da Súmula 187/STJ, segundo a qual "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Conforme se depreende da leitura da decisão de fl. 543, a recorrente teve seu pedido para concessão de justiça gratuita indeferido, sendo oportunizado à a parte agravante recolhimento do preparo do recurso especial, nos termos do art. art. 99, § 7º, do Código de Processo Civil.
+A parte agravante, apesar de apresentar a guia de recolhimento, deixou de anexar o devido comprovante de pagamento das custas devidas ao STJ (e-STJ, fls.547/548). Nesse contexto, correta a decisão proferida pela Presidência desta Corte que não conheceu do recurso, nos seguintes termos (e-STJ, fls.580/581):
+Mediante análise do recurso de GILTEC HIDRAULICOS SANITARIOS EIRELI, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, tendo em vista que a petição foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. (548) não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Nas razões do agravo interno, a parte agravante afirma que a Corte de origem apenas indeferiu o pedido de justiça gratuita e determinou o recolhimento do preparo recursal, de forma que não foi concedida à agravante a oportunidade para regularizar a juntada de comprovante das custas anteriormente recolhidas, anexadas juntamente com seu agravo interno.
+No caso, foi oportunizado à agravante o pagamento posterior do preparo, uma vez que o pedido de gratuidade da justiça formulado na petição de recurso especial foi indeferido na origem.
+Com efeito, intimada para regularizar o preparo nos termos do art. 99, § 7º, do CPC, a recorrente deixou de comprovar o efetivo pagamento das custas devidas ao STJ, uma vez que o documento apresentado à fl. 548 não era apto a comprovar a quitação da obrigação, porquanto nem sequer contém a sequência numérica do código de barras.
+Dessa forma, não há que se falar em nova concessão de prazo para regularizar o vício, uma vez que, apesar de intimada para efetuar o saneamento, a parte não regularizou, razão pela qual deve ser mantida a decisão que reconheceu a deserção do recurso.
+Destaca-se que o pedido de justiça gratuita formulado no curso da ação não dispensa o recolhimento do valor do preparo no momento da interposição do recurso especial, tendo em vista que a concessão da benesse não possui efeito retroativo.
+A jurisprudência desta Corte dispõe que o pedido realizado no curso do processo não tem o condão de dispensar a parte recorrente de realizar o preparo recursal devido, não possuindo efeito retroativo o deferimento do pleito.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. 1. DESERÇÃO DO RECURSO ESPECIAL AFIRMADA PELA CORTE DE ORIGEM. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. PRODUÇÃO DE PROVAS. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA 7/STJ. 2. INAPLICABILIDADE DO ENTENDIMENTO FIRMADO NO AGRG NOS ERESP 1.222.355/MG. 3. INÉRCIA DA RECORRENTE EM ATENDER O CHAMADO PARA A REALIZAÇÃO DO PREPARO. DESERÇÃO CONFIGURADA. 4. IRRETROATIVIDADE DA CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. 5. AGRAVO IMPROVIDO.
+1. Na hipótese em análise, o Tribunal local, tomando por base os documentos existentes nos autos, concluiu que a parte não faria jus ao benefício de assistência judiciária gratuita.
+Assim, o recurso especial foi inadmitido na origem por ser deserto.
+1.1. Pretensão de revisar as conclusões da instância de origem passa pelo reexame de fatos e provas, o que é inviável em tema de recurso especial, nos termos do enunciado n. 7 da Súmula do STJ. 2. Não sendo o pedido de assistência judiciária gratuita o mérito do recurso especial, não se aplica à espécie o seguinte entendimento:
+"é desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício" (AgRg nos EREsp 1.222.355/MG, Rel. Ministro Raul Araújo, Corte Especial, julgado em 4/11/2015, DJe 25/11/2015). Precedentes.
+3. Por diversas vezes, o Tribunal local, após rejeitar os inúmeros pedidos de gratuidade de justiça, abriu prazo para que a parte insurgente efetuasse o preparo. Contudo, a recorrente quedou-se inerte, razão pela qual a pena de deserção é medida de rigor.
+4. Não assiste à insurgente o direito à realização de novo pedido de assistência judiciária gratuita perante o STJ, uma vez que a concessão de benesse não tem efeito retroativo, logo não isenta a parte do recolhimento do preparo até que o seu pedido seja deferido.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 983.952/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2017, DJe de 1/6/2017.)
+Portanto, inafastável a incidência do enunciado da Súmula 187 do STJ, dado o não cumprimento do despacho que determinou a regularização do preparo. Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL E NO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. NECESSIDADE DE COMPROVAÇÃO DA CONCESSÃO DE GRATUIDADE NA ORIGEM. AGRAVO NÃO PROVIDO.
+1. Nos termos dos arts. 76, §2º, I e 932, parágrafo único, do CPC de 2015, não se conhece do recurso quando a parte, após intimada, não comprova a regularidade da sua representação processual no prazo estipulado.
+2. Ademais, consoante jurisprudência desta Corte Superior, se a parte, mesmo após regular intimação, não comprova no prazo assinalado o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, o recurso especial é considerado deserto (Súmula 187 do STJ).
+3. "A dispensa de instrução do agravo de instrumento com as peças obrigatórias, prevista no artigo 1.017, § 5º, do CPC/15, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais. Precedentes." (AgInt no AREsp 1907625/BA, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe 28/10/2021) 4. Agravo interno não provido.
+(AgInt no AREsp n. 2.020.569/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO NA FORMA DO ART. 1.007, § 4º, DO CPC/2015. NÃO RECOLHIMENTO. DESERÇÃO. SÚMULA N. 187/STJ. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 4º, do CPC/2015, a parte não comprovar ser beneficiária da gratuidade da justiça ou ter pago o preparo no momento de sua interposição, ou, ainda, não efetuar o recolhimento em dobro.
+2. Mesmo após a intimação da parte recorrente para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo, o que atrai a Súmula n. 187/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.984.951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. Nos termos da jurisprudência desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo.
+1.1. Na hipótese, não constava dos autos decisão deferindo a gratuidade de justiça e, devidamente intimada, a parte deixou de comprovar a alegada benesse ou efetuar o recolhimento devido.
+1.2. É insuficiente a mera alegação de que a justiça gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, cabendo à parte comprovar a concessão do benefício. Precedentes.
+1.3. A dispensa de instrução do agravo de instrumento com as peças obrigatórias, prevista no artigo 1.017, § 5º, do CPC/15, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.907.625/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Assim, não trazendo a parte agravante fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
