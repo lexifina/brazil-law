@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ARNAUD ARAÚJO FILHO contra a decisão que conheceu do agravo para não conhecer do recurso especial em virtude da incidência da Súmula nº 7/STJ.
+Em suas razões (fls. 6.731/6.740 e-STJ), o agravante refuta o óbice da Súmula nº 7/STJ, argumentando que
+"(..) a matéria a ser analisada por esse Tribunal Superior é exclusivamente de direito, bastando que este Superior Tribunal diga qual a roupagem jurídica adequada ao caso concreto frente aos arts. 17, 485 e 550, §5º, todos do CPC, art. 1.078, § 3º, do CC e art. 286 da Lei 6.404/76.
+Não há que se cogitar, portanto, de que o Recurso Especial esteja obstado pelo quanto disposto na Súmula de nº 7 desse STJ. Assim, caso não se reconheça a nulidade da Decisão Agravada, ou caso se a admita e se passe ao julgamento do mérito deste Agravo Interno, o caso é de provimento deste recurso para que se conheça do Recurso Especial".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. PRELIMINAR. INTERESSE DE AGIR. DEVER DE PRESTAR CONTAS. RECONHECIMENTO. REEXAME. SEGUNDA FASE. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. O tribunal de origem afastou a preliminar de interesse de agir, pois entendeu ser descabido e desarrazoado o reexame da questão na segunda fase, uma vez que já foi reconhecido, por sentença transitada em julgado, o dever do agravante de prestar contas. A reforma do julgado reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+No que diz respeito à alegada falta de interesse de agir, depreende-se dos fundamentos adotados pelo acórdão estadual que
+"(..) a ação de prestar contas desenvolve-se em duas fases, a saber: a primeira para se apurar a existência, ou não, do dever de prestar contas; a segunda para o exame e a devida apuração das contas, no caso de procedência da primeira fase.
+(..) In casu, a preliminar de falta de interesse processual (pela qual o apelante sustenta a inexistência do dever de prestar contas) já foi analisada pela r. sentença - transitada em julgado - que julgou a primeira fase, contra a qual o apelante não se insurgiu no momento e pelo meio adequado.
+Nessa perspectiva, observa-se que, por força da mencionada sentença, restou decidido que "a demanda merece prosperar parcialmente. A prestação de contas consiste no relacionamento e na documentação que comprove as receitas e despesas referentes à administração de bens, valores ou interesse de outrem, realizada por força de relação jurídica derivada de lei ou de contrato. (..) Outrossim, é sabido que quem administra a sociedade tem o dever de prestar contas ao outro sócio, independente de seus investimentos e participação efetiva na sociedade. Na hipótese, a sociedade "Instituto Oftalmológico Brooklin" foi criada aos 09.11.1987 (fls. 9/12), sendo que o autor ingressou no quadro societário aos 18.11.2016 (fls. 57/62), motivo pelo qual deve a segunda fase desta ação de exigir documentos pautar-se na documentação após tal data. O réu se encarregou da administração da sociedade, de modo que está obrigado a prestar contas da sua administração. A pretensão da parte autora deve ser acolhida para que lhe seja fornecida uma prestação completa de contas relativa aos atos de sua gestão no tocante a todas as operações e/ou contratações vinculadas à sociedade, instruindo-as com os documentos justificativos. Portanto, em que pese a requerida tenha apresentado documentos, merece acolhida a pretensão inicial, ficando as divergências acerca de valores para serem analisadas na segunda fase deste procedimento. Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação para condenar a requerida a prestar contas a partir de 28.11.2016, após o ingresso do autor no quadro societário, no prazo de 15 dias".
+Sendo assim, é descabido e desarrazoado o reexame da questão nessa segunda fase, uma vez que já foi reconhecido o dever do apelante de prestar contas, por sentença transitada em julgado, afastando-se, por conseguinte, a preliminar arguida" (e-STJ fls. 6.648/6.650).
+Nesse contexto, a discussão acerca da ocorrência ou não do interesse de agir reclama, na presente hipótese, o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+Assim , não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
