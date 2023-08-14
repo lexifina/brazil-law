@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  EMPREENDIMENTOS  TURÍSTICOS  E  IMOBILIÁRIOS  MIRANTE  DO  PORTO  LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  dar  provimento  ao  recurso  especial  interposto  pela  parte  adversa,  determinando  o  retorno  dos  autos  ao  tribunal  de  origem  para  que  se  realize  novo  julgamento  dos  embargos  de  declaração  (e-STJ  fls.  437/439).
+Nas  presentes  razões  (e-STJ  fls.  441/444),  a  agravante  alega  que  a  decisão  impugnada  deixou  de  observar  o  cumprimento  dos  requisitos  de  admissibilidade  do  agravo  em  recurso  especial,  devidamente  apontados  nas  contrarrazões,  visto  que  deixou  de  refutar  o  fundamento  referente  à  ausência  de  ofensa  do  art.  489  do  Código  de  Processo  Civil.
+Aduz  que  também  não  foi  observado  o  fundamento  da  decisão  de  admissibilidade  que  entendeu  pela  incidência  da  Súmula  nº  7/STJ,  pois  a  decisão  recorrida  examinou  diretamente  o  mérito  do  recurso  especial  após  o  relatório.
+Sustenta  a  inexistência  de  negativa  de  prestação  jurisdicional  devido  à  instância  ordinária  ter  expressamente  se  manifestado  acerca  de  questão  tida  por  omissa,  atestando  a  idoneidade  da  caução  ofertada  para  subsidiar  o  levantamento  dos  valores  depositados  na  fase  de  cumprimento  provisório  da  sentença.
+Afirma  a  perda  de  objeto  do  recurso  especial  por já  terem  sido  extintas  as penhoras dos bens dados em caução e  por  continuar  em  atividade,  tratando-se  de  má-fé  a  alegação  do  agravado  de  que  se  encontra  baixada.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  colegiado.
+A  parte  contrária  apresentou  impugnação  às  fls.  466/469  (e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CUMPRIMENTO  PROVISÓRIO  DE  SENTENÇA.  CAUÇÃO.  INIDONEIDADE.  OMISSÃO  NÃO  SANADA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.
+1.  Constatada  a  existência  de  omissões  não  sanadas  no  acórdão  proferido  pelo  tribunal  local,  apesar  da  oposição  de  aclaratórios,  é  de  rigor  o  reconhecimento  da  violação  do  art.  1.022  do  Código  de  Processo  Civil  por  negativa  de  prestação  jurisdicional,  com  a  determinação  de  retorno  dos  autos  à  origem  para  que  se  realize  novo  julgamento.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  início,  registra-se  que  o  art.  932,  III,  do  Código  de  Processo  Civil  dispõe  que  cabe  ao  relator  "(..)  não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+Assim,  considerando  que  os  requisitos  de  admissibilidade  do  agravo  em  recurso  especial  interposto  pela  instituição  financeira  foram  cumpridos,  examinou-se  diretamente  o  recurso  especial,  prática  corriqueira  nesta  Corte.
+Ademais,  ao  contrário  do  afirmado,  a  decisão  de  admissibilidade  do  agravo  proferida  na  origem  entendeu  pela  inexistência  de  negativa  de  prestação  jurisdicional,  o  que  foi  devido  e  especificamente  refutado  no  agravo.
+No  caso  dos  autos,  o  agravado  alegou  no  apelo  nobre  que  a  caução  ofertada  pela  ora  agravante  é  inidônea,  porquanto  os  imóveis  estão  com  constrição  judicial  de  outras  execuções  e  que  o  CNPJ  da  empresa  exequente  está  baixado  desde  2015.
+Como  cediço,  não  importa  em  reexame  de  matéria  probatória  reconhecer  a  ocorrência  de  negativa  de  prestação  jurisdicional.
+Com  efeito,  o  reconhecimento  de  ofensa  ao  art.  1.022  do  Código  de  Processo  Civil  ocorre  no  caso  em  que  o  julgador  ordinário  deixar  de  se  manifestar  acerca  de  questão  relevante  e  que  foi  devidamente  suscitada.
+No  caso ,  conforme  registrado  na  decisão  atacada,  as  questões  tidas  por  omissas  não  foram  enfrentadas.
+De fato, não  basta  a  conclusão  do  aresto  recorrido  de  que  a  caução  é  idônea  sem  o  enfrentamento  dos  argumentos  que  podem,  ao  menos  em  tese,  alterar  a  conclusão  do  julgado.
+Nesse  cenário,  verifica-se  que  a  Corte  local  se  manteve inerte  no  exame  de  tais  questões,  que,  aí  sim,  não  poderiam  ser  analisadas  na  estreita  via  do  recurso  especial  em  virtude  da  impossibilidade  de  incursão  no  acervo  fático-probatório  dos  autos  (Súmula  nº  7/STJ).
+Além  disso,  o  conhecimento  do  recurso  especial  exige  a  manifestação  da  instância  ordinária  acerca  da  questão  de  direito  suscitada.
+Assim,  não havendo manifestação da  Corte  de  origem ,  fica  impedido  o  acesso  à  instância  extrema,  cabendo  à  parte  vencida  invocar,  como  no  caso,  a  infringência  ao  art.  1.022  do  Código  de  Processo  Civil  a  fim  de  anular  o  acórdão  recorrido  para  que  seja  suprida  a  omissão  existente.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  PLANO  DE  SAÚDE  COLETIVO  EMPRESARIAL.  EX-EMPREGADO  APOSENTADO.  REGIME  DE  CUSTEIO.  DIVISÃO  DE  CATEGORIAS.  OMISSÃO  E  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  VERIFICADAS.  VÍCIOS  NÃO  CORRIGIDOS  NO  JULGAMENTO  DOS  ACLARATÓRIOS.  QUESTÕES  RELATIVAS  AO  CERNE  DA  CONTROVÉRSIA.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022,  AMBOS  DO  NCPC.  ANULAÇÃO  DO  ACÓRDÃO  ESTADUAL  E  RETORNO  DOS  AUTOS  À  INSTÂNCIA  DE  ORIGEM.  DECISÃO  MANTIDA.  AGRAVO  NÃO  PROVIDO.
+1.  O  presente  agravo  interno  foi  interposto  contra  decisão  publicada  na  vigência  do  NCPC,  razão  pela  qual  devem  ser  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  nele  prevista,  nos  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  Quando  o  tema  suscitado  nos  embargos  de  declaração  é  relevante  ao  deslinde  da  controvérsia,  e  o  Tribunal  de  origem  não  se  pronunciou  sobre  ele,  imprescindível  a  anulação  do  acórdão  para  que  outro  seja  proferido,  ante  a  contrariedade  ao  art.  1.022  do  NCPC.
+3.  No  caso,  foi  constatado  que  houve  prestação  jurisdicional  incompleta  no  que  concerne  a  legalidade  da  mudança  da  forma  de  contribuição  para  o  novo  modelo  por  faixa-etária  e  a  inexistência  de  discriminação  ao  ex-empregado  aposentado,  por  se  tratar  de  plano  único.
+4.  Por  ora,  apesar  da  manifesta  inadmissibilidade  deste  recurso,  e  da  anterior  advertência  em  relação  à  aplicação  do  NCPC,  deixo  de  aplicar  a  multa  prevista  no  art.  1.021,  §  4º,  do  NCPC.
+5.  Agravo  interno  não  provido"  (AgInt  nos  EDcl  no  AgInt  no  REsp  1.728.492/SP,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  10/9/2019,  DJe  13/9/2019).
+Por  fim,  quanto  ao  exame  da  violação  do  art.  1.022  do  CPC,  não  cabe  ao  Superior  Tribunal  de  Justiça  avaliar  a  justiça  da  decisão,  mas,  sim,  verificar  se  as  instâncias  ordinárias  deixaram  de  sanar  vícios  que,  em  tese,  poderiam  alterar  o  resultado  do  julgamento  se  fossem  supridos,  como  na  hipótese.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
