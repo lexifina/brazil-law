@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão que julgou agravo interno. O recurso foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO ADMINISTRATIVA. PARCELA INCORPORADA A REMUNERAÇÃO. DECADÊNCIA. PRAZO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RECURSO ESPECIAL PROVIDO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA MANIFESTAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que deu provimento ao recurso especial da Universidade Federal do Rio Grande do Sul para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+II - Na petição do agravo interno, a agravante sustenta que a decisão proferida pelo Relator merece ser reformada no tocante à decadência.
+III - Nas razões do recurso especial, a agravada apresentou questão jurídica relevante, qual seja, a aplicação do entendimento firmado em repercussão geral pelo Supremo Tribunal Federal, consubstanciado no Tema 445/STF, quanto ao início da fluência do prazo decadencial para revisão do ato de aposentadoria de servidor público. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+IV - Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+Ao apreciar o agravo interno interposto pela embargante, esta C. Turma concluiu por negar-lhe provimento sobre o fundamento de que o acórdão regional não teria emitido pronunciamento com relação à incidência do Tema 445/STF, cujo teor trata do termo inicial para fluência do prazo decadencial para revisão do ato de aposentadoria de servidor público, o que configuraria, segundo à sua compreensão, negativa de prestação jurisdicional e violação ao disposto no art. 1.022, II, do CPC.
+No entanto, Excelência, e em que pese à magistral lavra do acórdão proferido, entende a embargante que, ao assim decidir, a referida decisão incorreu em omissão. E isso porque consta do bojo do acórdão regional enfrentamento expresso com relação ao tema relativo à decadência, que, por meio da adoção da técnica per relationem, adotou os seguintes fundamentos para dirimir a matéria:
+ ..
+Além de existir enfrentamento expresso com relação ao tema da decadência, o que, por si só, deveria ser suficiente para afastar à configuração da negativa de prestação jurisdicional, é necessário consignar que não consta nas razões dos embargos de declaração (fls. 369/384 e-STJ)opostos pela Universidade pedido para que o Tribunal de origem se manifestasse com relação à aplicação do Tema 445/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO ADMINISTRATIVA. PARCELA INCORPORADA À REMUNERAÇÃO. DECADÊNCIA. PRAZO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. RECURSO ESPECIAL PROVIDO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA MANIFESTAÇÃO. EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Trata-se de embargos de declaração opostos contra agravo interno que manteve decisão que deu provimento ao recurso especial da Universidade Federal do Rio Grande do Sul para anular o acórdão que julgou os embargos de declaração e determinou o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas naqueles declaratórios.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+IV - Na espécie, da an álise das razões recursais em confronto com a decisão ora embargada, não se vislumbra omissão no julgado, mas tão somente o inconformismo da parte embargante com a decisão contrária aos seus interesses.
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Na espécie, da análise das razões recursais em confronto com a decisão ora embargada, não se vê omissão no julgado, mas tão somente o inconformismo da parte embargante com a decisão contrária aos seus interesses.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
