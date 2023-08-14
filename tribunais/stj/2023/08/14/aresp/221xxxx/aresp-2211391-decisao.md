@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por DAIANA BUENO CAETANO e OUTROS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação de Restituição de Valores c/c Indenização. Fase de cumprimento de sentença. Liquidação da dívida. Decisão agravada de mov. 606.1 - complementada pela decisão de aclaratórios de mov. 643.1 - que adotou o laudo pericial e fixou o valor da indenização. (1) Apuração do valor devido. Alegação do executado/agravante de que a parte exequente não comprovou a qualidade do café que produzia e utilizou como parâmetro, para elaboração do cálculo do valor exequendo, o preço da saca de café arábica tipo 6 com valor mais elevado. Laudo pericial que adota o mesmo parâmetro apresentado pela parte exequente. Expressa menção do perito quanto à inexistência de documentos que demonstrassem a classificação e subtipo do café produzido. Pedidos de esclarecimentos quanto ao laudo pericial não foram enviados ao perito para complementação do trabalho pericial, com a imediata homologação do laudo pelo juízo, apesar da impugnação do executado/agravante. Inobservância do artigo 477, § 2º do CPC. Afronta ao contraditório e cerceamento de defesa. Acolhimento da pretensão recursal do agravante, no ponto. Necessidade de nova perícia utilizando como parâmetro a média de valores da saca de café tipo arábica e seus subtipos, produzidos na região de Londrina. (2) Agravados, em sede de contrarrazões, alegam que a insurgência do exequente quanto a classificação do café utilizado como parâmetro do laudo foi intempestiva. Improcedência. Executado que vinha se insurgindo sobre o tema desde a ocasião da contestação. RECURSO PROVIDO" (fl. 338, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 354/360, e-STJ).
+No especial, os recorrentes apontam, além de divergência jurisprudencial, violação dos arts. 11, 489, § 1º, 1.022, II, e 373, II, do CPC, argumentando, em síntese, que é do recorrido o ônus de apresentar os documentos com as informações a respeito da produção de café, devendo ser mantida a decisão que homologou o laudo pericial.
+Afirmam que
+"quem de fato realizou a venda das sacas de café cultivadas pelos Recorrentes foi o Recorrido, logo, este seria o único capaz de indicar e comprovar a quantidade e qualidade do café produzido, bem como do verdadeiro valor das sacas de café" (fl. 368, e-STJ).
+Aduzem, ainda, que ocorreu a preclusão da matéria, já que o recorrido não apresentou os documentos no momento oportuno.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido na origem , dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Em outras palavras, o MM. Juiz da causa reavaliou toda a questão da liquidação na decisão alvo do presente Agravo de Instrumento, discutindo o laudo e a base de cálculo tomada pelo perito judicial. Por esse motivo não se pode falar em preclusão (ou intempestividade) para a parte ora agravante/devedora questionar a homologação "final" da liquidação.
+(..)
+Com relação ao cerceamento de defesa, verifica-se claramente que não foi oportunizado ao agravante a remessa do laudo impugnado ao perito para que este procedesse a devida complementação e esclarecimentos.
+É dizer: A impugnação do agravante não foi submetida ao perito.
+(..)
+Tal dever encontra ressonância em preciosos princípios processuais, de observância obrigatória, não só pelas partes e seus procuradores, mas por todos aqueles que de alguma forma interferem no processo, notadamente os princípios do contraditório, da cooperação, da lealdade processual, e da não surpresa.
+Ademais, em momento algum a parte exequente declinou efetivamente qual era a qualidade de café por ela produzido, entretanto, elaborou seu cálculo inicial de liquidação com base na saca de café que seria a de qualidade melhor e mais cara (café arábica - tipo 6), de modo que entendo indispensável e feitura de nova perícia, inclusive pela discrepância de valores apresentados pelos exequentes (R$ 90.365,36) e o valor tido como correto pelo réu/executado que aponta: "que a saca de café entregue era avaliada por R$ 296,00 ((R$ 4.450,00/15 = R$ 296,00)" somando, portanto a quantia de R$ 61.348,96, objetivando obstar, o excesso de execução.
+Repise-se, cabe ao exequente a demonstração do tipo de café que produzia, e, não sendo possível tal demonstração, é necessária a confecção de novo laudo pericial utilizando-se como parâmetro a média de valores das sacas de café arábica (classificação do gênero) e dos subtipos mais comuns na região do plantio.
+(..)
+De acordo com a impugnação ao cumprimento de sentença (mov. 168.1), o executado já apresentava discordância quanto ao tipo de café e preço das sacas que os exequentes apresentaram como negociados, de modo que a insurgência quanto a essa questão não ocorreu somente após apresentação do laudo pericial, mas quando da contestação (leia-se impugnação ao cumprimento de sentença).
+(..)
+Nestas condições, diante da ausência de comprovação quanto à qualidade o café produzido para fins de cálculo do valor exequendo, não se desincumbindo a parte exequente de seus ônus nos moldes do art. 373, I do CPC, necessário se faz a reprodução do laudo pericial, levando em consideração a média de valores da saca do café arábica e seus subtipos, estes produzidos na região de Londrina" (fls. 346/348, e-STJ - grifou-se).
+No julgamento dos aclaratórios, a Corte local acrescentou que
+"(..)
+Depreende-se, então, que a decisão colegiada enfrentou com maestria e de maneira aprofundada todas as questões trazidas em sede de agravo de instrumento, especialmente a aqui aventada como omissa e obscura, sendo possível constatar que, de fato, o ônus probante acerca da qualidade do café produzido era dos embargantes, os quais, em momento algum, apresentaram qual seria a qualidade do produto que produziam, tanto que no cálculo inicial de liquidação consta que o café seria de melhor e mais cara qualidade, isto é, café arábica do tipo 6.
+Aliás, restou consignado na decisão atacada que caso não seja possível a demonstração pelos exequentes do tipo de café que produziam, seria necessário novo laudo pericial" (fl. 359, e-STJ - grifou-se).
+De início, no tocante à violação dos arts. 489, § 1º, 1.022, II, do CPC, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAL E MORAL. RELAÇÃO DE CONSUMO. ÔNUS DA PROVA. INVERSÃO. HIPOSSUFICIÊNCIA E VEROSSIMILHANÇA. CONJUNTO FÁTICO PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. JUÍZO DE ADMISSIBILIDADE. BIFÁSICO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A discussão acerca do cabimento ou não da regra de instrução probatória inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência técnica do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+3. A jurisprudência do Superior Tribunal de Justiça preleciona que o juízo de admissibilidade feito no tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico.
+4. Agravo interno não provido" (AgInt nos EDcl no AREsp n. 1.925.225/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSUMO. HIPOSSUFICIÊNCIA. VEROSSIMILHANÇA. COMPROVAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. PERÍCIA. HONORÁRIOS. ADIANTAMENTO PELO FORNECEDOR. NÃO OBRIGATORIEDADE. ALEGAÇÕES. NÃO COMPROVAÇÃO. CONSEQUÊNCIAS. CARGA DINÂMICA DA PROVA. DANO PRESUMIDO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Nos termos da jurisprudência desta Corte, aquele contra quem houve a inversão do ônus não é obrigado a custear honorários de perícia devendo, contudo, arcar com as consequências da não produção da prova.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.953.714/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA PROFERIDA SOB A ÉGIDE DO CPC/73. JULGAMENTO REALIZADO NA VIGÊNCIA DO NCPC. INTIMAÇÃO DO AGRAVANTE PARA SE MANIFESTAR SOBRE A CONTRAMINUTA. PRINCÍPIO DA NÃO SURPRESA. INAPLICABILIDADE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO E CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRECLUSÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DA EXECUÇÃO. DECISÃO FUNDAMENTADA. EMBARGOS DO DEVEDOR. EFEITO SUSPENSIVO. GARANTIA DO JUÍZO. NECESSIDADE. RECURSO IMPROVIDO.
+(..)
+4. Afastar o entendimento do Tribunal de Minas Gerais quanto a preclusão para se discutir a decisão de desconsideração da personalidade jurídica da empresa executada, por já ter a tese sido apreciada em outro recurso, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante a incidência da Súmula nº 7 do STJ.
+(..)
+9. Recurso especial a que se nega provimento" (REsp n. 1.633.757/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/11/2019, DJe de 19/11/2019).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
