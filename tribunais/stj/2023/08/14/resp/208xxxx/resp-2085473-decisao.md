@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDILSON ROGÉRIO BRITO, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/MT.
+Recurso especial interposto em: 18/52023.
+Concluso ao gabinete em: 20/7/2023.
+Ação: declaratória de nulidade de instrumento contratual c/c reinvindicação de posse e indenização por perdas e danos, ajuizada pelo recorrente em face de DISTRIBUIDORA DE ACESSORIOS PARA POSTOS COBRA - EIRELI (ÓLEOFIL) e LUIZ CARLOS RODRIGUES, na qual alega, em síntese, que possui um imóvel em condomínio indiviso com o réu LUIZ CARLOS RODRIGUES, tendo este, sem a sua anuência, alugado o imóvel à ré ÓLEOFIL, lhe causando prejuízos de ordem material e moral, por não exibir o contrato entabulado, quando solicitado.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para declarar nulo o contrato de locação firmado entre os réus, devendo as partes retornar ao status quo ante da contratação, devendo o réu LUIZ CARLOS RODRIGUES ressarcir ao autor a metade de todos os valores recebidos da ré ÓLEOFIL, cabendo ao autor o montante de R$ 1.250,00 (mil duzentos e cinquenta reais) de cada aluguel mensal. Por consequência determinou a desocupação voluntária do imóvel descrito na inicial. Ainda, em razão da sucumbência recíproca, condenou as partes ao pagamento das custas e despesas processuais na proporção de 50% pela autora e 50% pela parte ré. Quanto aos honorários advocatícios, fixou em 15% (quinze por cento) sobre o valor da condenação, na proporção de 50% em favor da parte ré e 50% em favor da parte autora.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA DE NULIDADE DE INSTRUMENTO CONTRATUAL C/C REIVINDICAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS - ALUGUEL DE IMÓVEL SEM A ANUÊNCIA DO COPROPRIETÁRIO - DANO MATERIAL - CONDENAÇÃO SOLIDÁRIA DO LOCATÁRIO - IMPOSSIBILIDADE - DANO MORAL NÃO CARACTERIZADO - ÔNUS SUCUMBENCIAL - REDISTRIBUIÇÃO PROPORCIONAL AO GRAU DE ÊXITO - RECURSO PARCIALMENTE PROVIDO.
+In casu, embora a falta de anuência do coproprietário tenha ensejado a anulação do contrato de locação, tal fato não implica na imposição, à apelada, de pagar por um débito já adimplido.
+Nos termos do art. 265, do C. Civil, "A solidariedade não se presume; resulta da lei ou da vontade das partes.".
+Apesar do dissabor suportado pela parte, é certo que o fato não é capaz de gerar indenização por dano moral, caracterizando, apenas e tão somente, um aborrecimento, mormente porque não houve qualquer mácula ou consequência negativa que violasse seus direitos de personalidade.
+Conforme o disposto no art. 86, do CPC, "Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas."
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 405, 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/15 e dos arts. 186 e 927 do CC.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que "as premissas de julgamento do acórdão recorrido reconhecem que a 1ª Recorrida praticou Ato Ilícito em face do Recorrente, que lhe obrigaria reparar o dano na forma dos arts. 186 e 927 do Código Civil, sendo solidária sua responsabilidade com o 2º Recorrido como consequência da solidariedade passiva na lide" (e-STJ fl. 405).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do não cabimento da condenação da ré ÓLEOFIL no pagamento de dano material, considerando que a falta de anuência do coproprietário do imóvel no contrato de locação não é motivo apto a justificar a condenação da locatária no pagamento de um débito já adimplido, bem como quanto à ausência de ofensa à dignidade do recorrente apta a embasar a condenação dos recorridos à compensação em danos morais, de modo que os embargos de declaração opostos pelo recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+Ademais, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, 3ª Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, 4ª Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 405 do CPC/15, indicado como violado, apesar da oposição dos embargos de declaração, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+O recorrente não impugnou os fundamentos do acórdão recorrido no sentido de que não cabe a condenação da ré ÓLEOFIL no pagamento de dano material, pois a falta de anuência do coproprietário do imóvel no contrato de locação não ser motivo apto a justificar a condenação da locatária no pagamento de um débito já adimplido; e, no que se refere à compensação em danos morais, de que:
+"(..) de acordo com a norma legal, não basta a prática do ato, isso porque faz-se necessária a comprovação de mácula à honra, boa-fé subjetiva ou à dignidade da pessoa, que não ocorreu no caso.
+Não obstante, apesar do dissabor suportado pelo autor, repiso, tal conduta, por si só, não é capaz de gerar indenização por dano moral, caracterizando apenas e tão somente, um aborrecimento.
+Outro não é o entendimento desta Câmara, confira:
+(..)
+Por conseguinte, o "mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo" (Sérgio Cavalieri Filho, Programa de Responsabilidade Civil, 6ª Ed., São Paulo: Ed. Malheiros, 2005).
+À vista disso, tenho que andou bem o douto magistrado ao afastar o pleito indenizatório, pois embora evidenciada a locação do imóvel pelo coproprietário sem a sua anuência, não se vislumbra na hipótese a ocorrência de qualquer ofensa à dignidade do apelante a embasar a sua pretensão." (e-STJ fls. 354/355)
+Como esses fundamentos não foram impugnados, deve-se manter o acórdão recorrido.
+Incide, no ponto, a Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE INSTRUMENTO CONTRATUAL C/C REINVINDICAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF.
+1. Ação declaratória de nulidade de instrumento contratual c/c reinvindicação de posse e indenização por perdas e danos.
+2. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido.
