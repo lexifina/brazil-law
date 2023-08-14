@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+BRUNO TEIXEIRA ALVARES COLETO opõe embargos de declaração ao acórdão assim ementado (fl. 170):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO ARTIGO 489 DO CPC. NÃO OCORRÊNCIA. COBRANÇA DE DÍVIDA PAGA. VIOLAÇÃO AO ARTIGO 940 DO CC. NÃO OCORRÊNCIA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE. REVISÃO. SÚMULA N. 7 DO STJ. INOBSERVÂNCIA À COISA JULGADA. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 489 do CPC do 2015 quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não havendo o pagamento integral da dívida, não há falar em devolução em dobro de todo o montante, mas tão somente dos valores efetivamente pagos de forma indevida, conforme preconiza o art. 940 do CC.
+3. Não é possível rever o entendimento firmado pelo Tribunal de origem acerca da não quitação da dívida, o que inviabilizaria o pedido de devolução em dobro de todo o montante devido, posto que baseado no conjunto fático-probatório dos autos. Incidência da Súmula n. 7 do STJ.
+4. Inviável a análise da violação ao art. 502 CPC, pois suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a preclusão consumativa.
+5. Agravo interno desprovido.
+Em suas razões, a parte embargante sustenta (fl. 181).
+ ..  OMISSÃO consistente na falta de análise do conteúdo das decisões acima, repita-se, em acórdão já transitado em julgado que se pretende apenas liquidar (e não reexaminar ou inovar), deve ser sanada, porquanto, o decidido no acórdão condenatório, foi debatido exaustivamente no agravo interno a que se negou provimento.
+Alega que (fls. 181-182):
+Cumpre ressaltar, que o debate travado nos recursos dirigidos a esse Egrégio SUPERIOR DE JUSTIÇA, sempre apontaram, exaustivamente: (i) a ofensa ao artigo 489 do CPC 2015, quando demonstra que o TJSP, em sede de liquidação de sentença, não respeita as partes do acórdão condenatório citadas acima; (ii) A existência do reconhecimento do pagamento integral da dívida e o reconhecimento do preenchimento dos requisitos do determinado pela primeira parte do artigo 940 do CC de 2015; (iii) Que não há pretensão de rever matéria de fato, más tão somente, que se evite que a decisão atacada do TJSP o faça, inclusive, apontando a todo tempo a ofensa a coisa julgada, desde o início.
+No entanto, pela simples leitura da decisão, vê-se que há não foram devidamente analisadas as decisões contidas no título executivo a que se pretende liquidar nos termos da lei, mas, apenas, a decisão do TJSP que inova indevidamente o já decidido, devendo, portanto, ser sanada.
+Requer sejam os embargos acolhidos a fim de que seja sanada a omissão apontada.
+Não foi apresentada resposta aos embargos de declaração (fl. 188).
+É o relatório
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM R ECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, não procede a alegação de omissão no voto condutor do acórdão, que foi claro quanto à devolução em dobro apenas das parcelas efetivamente pagas e à aplicação da Súmula n. 7 do STJ. Confiram-se trechos do acórdão (fls. 171-172):
+Ademais, como bem pontuado na decisão monocrática que negou provimento ao agravo em recurso especial do ora agravante, a devolução dos valores cobrados indevidamente não poderia se dar de maneira integral uma vez que, como compreendido pelo Tribunal de origem, não existiu pagamento integral da dívida, devendo ser restituídas apenas as parcelas efetivamente pagas. A propósito, vejam-se trechos do referido julgado (fl. 125):
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 489 do Código de Processo Civil. É indevido conjecturar-se acerca da deficiência de fundamentação no julgado apenas porque decidido em desconformidade com os interesses da parte.
+4. O Tribunal de origem entendeu que é indevida a devolução em dobro do valor total cobrado na execução, porque, não existiu o pagamento e a quitação de todo o montante, nos seguintes termos (fl. 18):
+Daí porque não merece guarida a insistência do exequente em cobrar o dobro do valor total cobrado na execução, porque, a rigor, inexistiu pagamento e quitação naquele montante. O art. 940 do Código Civil determina a devolução do dobro do que houver sido cobrado indevidamente em decorrência de dívida já paga. No caso em voga, é certo que a execução foi extinta, mas em decorrência de carência da ação por força da transação extrajudicial celebrada entre as partes, e não de pagamento da integralidade da dívida. Isto colocado, conclui-se que deverão ser ressarcidas ao exequente, em dobro, apenas as parcelas do acordo pagas entre a data de ajuizamento e a data de extinção da execução, quando cessada a cobrança indevida - o que se deu com o julgamento dos embargos à execução em Primeira Instância, em 16/11/2016, já que o banco embargado não recorreu e a sentença se tornou definitiva nesse aspecto.
+Com efeito, o entendimento está em consonância com a jurisprudência desta Corte, no sentido de que a base de cálculo para sanção prevista no art. 940 do CC, deve ser o valor cobrado em excesso, e não todo o débito indicado na pretensão de cobrança, porque "conquanto represente pena e imponha indenização tarifada, cuja base de cálculo equivale ao dobro do valor cobrado por dívida já paga, por dizer respeito a espécie de responsabilidade civil, a aplicação do art. 940 do CC não pode resultar em condenação exorbitante, sem nenhuma correlação com a dívida quitada e com os danos sofridos. O valor indenizado, ainda que presumido por lei, conforme a regra geral do art. 944 do CC, deve sempre estar relacionado com a extensão do dano" (REsp 1119803/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/05/2012, DJe 13/09/2012).
+ ..
+Registre-se que, apesar da alegação de que o acórdão da ação originária reconheceu a quitação integral da dívida, o Tribunal de origem determinou a restituição das parcelas pagas nos meses de abril a outubro de 2016 com base nos elementos fático-probatórios acostados aos autos; assim, rever o entendimento a respeito da quitação integral ou parcial da dívida demandaria reexame, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+Posto isso, ausente qualquer violação dos arts. 489 do CPC e 940 do CC.
+Dessa forma, o acórdão embargado enfrentou todas as questões trazidas no agravo interno, não padecendo dos vícios que autorizariam a oposição dos embargos (obscuridade, contradição, omissão e erro material).
+No presente recurso, a pretensão é rediscutir matéria devidamente abordada e decidida no decisum embargado, motivada pela mera insatisfação com o resultado do julgamento, situação que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014).
+A mera irresignação da parte embargante com o entendimento apresentado no agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte embargante de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
