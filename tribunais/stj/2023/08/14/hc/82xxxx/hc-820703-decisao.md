@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADALBERTO ALVES FILHO contra acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, nos autos do HC n. 0002428-67.2023.8.17.9000.
+Depreende-se dos autos que o paciente foi condenado à pena de 19 anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, incisos I e IV, do Código Penal (fl. 35).
+A defesa impetrou habeas corpus perante a Corte de origem que não conheceu do writ (fls. 17-21).
+Interposto agravo regimental, a Corte estadual negou provimento ao recurso (fls. 17-25).
+Neste writ, a defesa aponta constrangimento ilegal em relação à primeira fase da dosimetria da pena, afirmando a necessidade de fixação da pena-base no mínimo legal.
+Requer, assim, o redimensionamento da reprimenda do paciente.
+Informações prestadas às fls. 35-51.
+O Ministério Público Federal às fls. 52-53, manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração a fixação da pena-base no mínimo legal.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Na presente hipótese, a Corte de origem analisando as especificidades do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, manteve fixada a pena-base do paciente acima do mínimo legal, considerando desfavoráveis às seguintes circunstâncias judiciais: conduta social, personalidade e motivos do crime.
+Ressalta-se que no tocante à conduta social, "nos termos do art. 59 do CP, esta corresponde ao comportamento do réu no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta demonstração de desvio de natureza comportamental" (AgRg no REsp n. 1.969.578/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/6/2023, grifei).
+Na presente hipótese, destacou a Corte estadual que "o réu já ter praticado outros delitos, inclusive sendo condenado em dois deles. As condenações citadas não se prestam para desabonar a primariedade do acusado, em razão da inexistência de provas nos autos, mas serve para demonstrar seus antecedentes sociais desabonando-os.  ..  A conduta social apresenta-se reprovável, eis que o mesmo é temido na região em conseqüências dos seus atos." (fl. 20), razão pela qual o v. acórdão, quanto ao ponto, se encontra de acordo com a jurisprudência desta Corte Superior.
+Nesse sentido: AgRg no HC n. 805.325/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023 e HC n. 676.329/RS, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 16/5/2023.
+Quanto aos motivos do crime, como bem salientado pela Corte a quo, "na sentença transcrita (pág. 29ID 25754065) que o paciente Adalberto Alves Filho foi condenado pela prática de homicídio com duas qualificadoras (art. 121, § 2º, incs. I e IV, do CP), sendo uma delas o "motivo torpe" (inc. I) e a outra o "recurso que dificultou ou tornou impossível a defesa da vítima" (fl. 23).
+Com efeito, "no delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial" (AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017, grifei).
+A propósito: AgRg no AREsp n. 2.029.219/PA, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 5/8/2022 e AgRg no HC n. 678.325/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/11/2021.
+Por outro lado, no que diz respeito à personalidade, cumpre assinalar que "a valoração negativa da personalidade do agente exige a existência de elementos concretos e suficientes nos autos que demonstrem, efetivamente, a maior periculosidade do réu aferível a partir de sua índole, atitudes, história pessoal e familiar, etapas de seu ciclo vital e social, etc., sendo prescindível a existência de laudo técnico confeccionado por especialistas nos ramos da psiquiatria e psicologia para análise quanto a personalidade do agente" (AgRg no REsp n. 1301226/PR, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe 28/03/2014).
+Na hipótese em foco, denota-se que as instâncias de origem valoraram negativamente tal circunstância (personalidade), sem adequação ao caso concreto, limitando-se a uma fundamentação genérica baseada, tão somente, no fato de que o reú"revela ser pessoa desviada dos padrões éticos-sociais vigentes" (fl. 20).
+Vale ressaltar que considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal, não servem para a exasperação da pena.
+Nesse sentido: AgRg no AREsp n. 2.073.714/MG, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 5/8/2022 e HC n. 646.844/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/4/2021.
+Evidente, no ponto, o constrangimento ilegal apontado pela defesa.
+Desse modo, evidenciado, em parte, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, afastada a circunstância judicial referente à personalidade, e remanescendo as circunstâncias judiciais referentes à conduta social e aos motivos do crime, estabeleço a pena-base em 16 anos e 6 meses de reclusão.
+Na segunda e terceiras fases, diante da ausência de outras causas modificativas, a a reprimenda totaliza-se definitivamente em 16 anos e 6 meses de reclusão.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para fins de redimensionar a pena do paciente em 16 anos e 6 meses de reclusão, mantidos os demais termos da condenação.
+P. e I.
