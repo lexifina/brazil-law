@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. (HAPVIDA) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL.  CONSUMIDOR.  RECURSO  ESPECIAL.  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE.  ATENDIMENTO  DE  EMERGÊNCIA.  CARÊNCIA.  RECUSA  INJUSTIFICADA.  INVIABILIDADE  DE  REEXAME  DAS  PROVAS  DOS  AUTOS.  DANOS  EXTRAPATRIMONIAIS  CARACTERIZADOS.  REEXAME  DE  PROVAS.  DESCABIMENTO.  SÚMULA  Nº  7  DO  STJ.  RECURSO  ESPECIAL  NÃO  PROVIDO. (e-STJ, fl. 392)
+Nas razões do presente inconformismo, defendeu que se tratando de paciente em estabilidade clínica reconhecida pelo médico assistente, não há que se falar em emergência e, por conseguinte, em afastamento do período de carência.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. SÚMULA Nº 7 DO STJ. CARÊNCIA. RECUSA INJUSTIFICADA. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever a conclusão alcançada pelo Tribunal de origem sobre o estado de saúde da autora e da emergência do atendimento que afastou o prazo de carência demandaria reexame das provas coligidas aos autos, o que se revela inviável na estreita via do recurso especial, atraindo a incidência da Súmula nº 7 do STJ.
+3. O período de carência contratualmente estipulado pelo plano de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado, como é o caso dos autos.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente inconformismo, defendeu que se tratando de paciente em estabilidade clínica reconhecida pelo médico assistente, não há que se falar em emergência e, por conseguinte, em afastamento do período de carência.
+Contudo, como constou na decisão agravada, o TJCE foi claro ao consignar que ficou demonstrada a emergência da situação enfrentada pela autora.
+Por oportuno, transcreve-se uma vez mais:
+Extrai-se dos autos que a apelada, Marina Tereza Teixeira Leite, firmou contrato de plano de saúde com o Hapvida Assistência Médica Ltda. em agosto de 2019. E a recorrida, desde do dia 23 de dezembro de 2019, encontrava- se internada no Hospital Antônio Prudente, em situação de urgência, necessitando se submeter a procedimento cirúrgico de colostomia (colectomia parcial com ou sem colostomia), conforme prescrição médica de fl. 41 dos autos, ante queixa de dor abdominal em hipocôndrio direito e epigastro de grande intensidade, que piora ao comer e deambular, sem fator de melhora, além de náuseas/vômitos.
+Solicitado a realização do tratamento cirúrgico, o plano de saúde apelante negou, sob o fundamento de não cumprimento de carência de 180 dias previsto no contrato (fl. 36).
+A controvérsia estabelecida entre o Hapvida e a Promovente refere-se à subsistência ou não do prazo de carência, que poderia impedir a realização da cirurgia pleiteada. Em razões recursais, como já visto, defende a operadora de saúde apelante que o prazo de carência impede autorizar a realização da referida cirurgia.
+ ..
+atendimento ao direito e a vida, bens maiores, que possuem proteção constitucional. Além do mais, resta frisar que o princípio do "pacta sunt servanda" é mitigado perante os princípios constitucionais do direito à vida e da dignidade da pessoa humana.
+Dos autos consta que a Promovente deu entrada no hospital da requerida com queixa de dor abdominal em hipocôndrio direito e epigastro de grande intensidade, que piora ao comer e deambular, sem fator de melhora, razão pela qual o médico assistente lhe prescreveu procedimento cirúrgico de colostomia (colectomia parcial com ou sem colostomia), conforme Formulário de Emergência clínica de fl. 41.
+Nesse contexto, agiu com acerto o Magistrado ao considerar ser indevida a negativa da realização da intervenção cirúrgica, pois o que está em discussão é o próprio direito à vida e à dignidade da existência, sendo certo que esses valores supremos e indissociáveis estão muito acima de qualquer convenção, impondo-se relativizar, no caso em exame, a cláusula de carência, pois a emergencialidade da situação, conjugada à sobrevivência digna da enferma, deve prevalecer sobre quaisquer interesses contratuais ou financeiros (secundários, portanto).
+Nesse tocante, a jurisprudência do STJ já se posicionou pela licitude da cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde, mas desde que não obste o acesso do segurado a tratamentos necessários em casos de emergência ou urgência, como é o caso dos autos.
+ ..
+Demonstrado o risco de morte para a promovente, restaram configurados os pressupostos autorizadores da mitigação da cláusula contratual de carência dos serviços do plano de saúde, sendo inadmissível fazê-la prevalecer sobre o direito à sobrevivência digna, mormente porque há de ser levado em conta o disposto no art. 35-C, da Lei nº 9.656/98, que regulamenta os planos de saúde.
+Art. 35-C. É obrigatória a cobertura do atendimento nos casos: I - de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente;
+II - de urgência, assim entendidos os resultantes de acidentes pessoais ou de complicações no processo gestacional;
+III - de planejamento familiar. (Grifei)
+A teor do referido artigo, é obrigatória a cobertura de atendimento nos casos de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para a paciente, caracterizado em declaração do médico assistente.
+Resta configurada, portanto, a urgência e necessidade e grave risco de lesão a que estaria cometida a apelada, não havendo, portanto, justificativa plausível para a negativa do Plano de Saúde apelante.
+Ademais, os direitos à vida e à saúde, que são direitos públicos subjetivos invioláveis, devem prevalecer sobre os interesses administrativos e financeiros da instituição privada (e-STJ, fls. 283/288 - sem destaques no original).
+Conforme se nota, rever a conclusão alcançada pelo TJCE sobre o estado de saúde da autora e da emergência do atendimento que afastou o prazo de carência demandaria reexame das provas coligidas aos autos, o que se revela inviável na estreita via do recurso especial, atraindo a incidência da Súmula nº 7 do STJ.
+Dessa feita, forçoso concluir que, caracterizada a emergência, o acórdão estadual adotou conclusão que guarda consonância com o entendimento firmado no STJ, no sentido de que o período de carência contratualmente estipulado pelo plano de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado, como é o caso dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMERGÊNCIA. CLÁUSULA DE CARÊNCIA. MITIGAÇÃO. POSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O Superior Tribunal de Justiça tem entendimento firme no sentido de que a cláusula de carência do contrato de plano de saúde deve ser mitigada em virtude de situações emergenciais graves, porquanto o valor da vida humana se sobrepõe a qualquer outro interesse.
+3. Não é possível a esta Corte Superior apreciar o entendimento exarado na origem, pois teria que, necessariamente, rever o contexto fático-probatório dos autos e o contrato firmado pelas partes, procedimentos inviáveis nesta via extraordinária, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.077.299/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/5/2023, DJe de 19/5/2023 - sem destaque no original )
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. "Nos termos da jurisprudência desta Corte Superior, é abusiva a limitação de utilização do plano de saúde no período de carência nos casos de urgência e emergência. Incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça."(AgInt no AgInt no AREsp 1925187/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2022, DJe 21/02/2022)
+2. Segundo a jurisprudência desta Corte, o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis . Precedentes.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.233.251/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023 - sem destaque no original)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
