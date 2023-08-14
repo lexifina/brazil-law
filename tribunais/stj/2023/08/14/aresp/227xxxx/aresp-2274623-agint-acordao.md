@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A contra decisão unipessoal que conheceu do agravo, para não conhecer do recurso especial que interpusera.
+Ação: de compensação por danos morais, ajuizada por JOSE ROBERTO RAMOS, em face da agravante, na qual alega - em síntese - que é idoso e tem dificuldades de locomoção. Acrescenta que, em 10/05/2017, por volta das 20:00 horas, ao desembarcar na estação do Engenho Novo da Concessionária Supervia (demandada), dirigiu-se ao elevador para portadores de deficiência e idosos, contudo não estava funcionando, o que o fez utilizar a escada rolante. Ressalta que de repente o corrimão da escada travou em desacordo com o movimento dos degraus, ocasionando sua queda, tendo sido socorrido por transeuntes, que entraram em contato com seus familiares. Passado algum tempo, surgiram funcionários da ré que não lhe prestaram socorro. Pugna pela compensação por danos morais.
+Sentença: julgou procedentes os pedidos, para condenar a agravante:
+i) a pagar ao agravado/autor a importância de R$ 8.000,00, a título de compensação por danos morais, com correção monetária e juros de 1% ao mês, ambos contados da data da prolação da sentença; e
+ii) ao pagamento das despesas processuais e dos honorários advocatícios, fixados em 10% sobre o valor da condenação.
+Acórdão: negou provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE. Lesão decorrente da queda de passageiro na escada rolante da estação de trem. Nexo de causalidade demonstrado pelo contexto probatório. Impossibilidade de presunção de má-fé da vítima. Lesão à integridade física comprovada por fotografias e laudo do IML. Dano moral caracterizado "in re ipsa". Verba compensatória compatível com a extensão do dano. Observância dos princípios da razoabilidade e da vedação ao enriquecimento sem causa. Aplicação do enunciado nº 343, da Súmula deste Tribunal. Recursos desprovidos. (e-STJ, fl. 502)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão monocrática: conheceu do agravo, para não conhecer do recurso especial interposto, nos termos do art. 932, III, do CPC/15 (e-STJ, fls. 676/679).
+Agravo interno: alega, em síntese, a não incidência da Súmula 7/STJ na situação dos autos. Afirma não existir responsabilidade a ser atribuída à agravante, tendo em vista a existência de responsabilidade exclusiva da vítima, bem como assevera a ausência de razoabilidade na fixação da compensação por danos morais pelo Tribunal de origem. Por derradeiro, aduz estar inadequada a majoração dos honorários em sede recursal para 15% sobre o valor da condenação (e-STJ, fls. 685/700).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CPC/15. POSSIBILIDADE.
+1. Ação de compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere à aplicação das regras de distribuição do ônus da prova, à não demonstração da ocorrência de acidente por culpa exclusiva da vítima agravada (a afastar a responsabilidade civil da agravante), bem como no que tange à adequação da compensação por danos morais fixada na situação dos autos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. Segundo a jurisprudência do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Corte Especial, DJe 07/03/2019).
+5. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo, para não conhecer do recurso especial interposto pela agravante, em razão da:
+i) deficiência de fundamentação (Súmula 284/STF);
+ii) ausência de prequestionamento (Súmula 211/STJ); e
+iii) incidência da Súmula 7/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+Inicialmente, em relação aos óbices referentes à inadmissibilidade do recurso especial fundados na deficiência de fundamentação (Súmula 284/STF) e na ausência de prequestionamento (Súmula 211/STJ), urge frisar que o agravo interno não impugnou os referidos fundamentos constantes na decisão monocrática de fls. 676/679 (e-STJ), acarretando a preclusão no que concerne à impugnação dos referidos fundamentos. Nesse sentir: EREsp 1.424.404/SP (Corte Especial, DJe 17/11/2021).
+Dessa forma, passe-se à análise dos demais fundamentos impugnados constantes na decisão agravada.
+1. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido, no que se refere à aplicação das regras de distribuição do ônus da prova, à não demonstração da ocorrência de acidente por culpa exclusiva da vítima agravada (a afastar a responsabilidade civil da agravante), bem como no que tange à adequação da compensação por danos morais fixada na situação dos autos, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+2. Da majoração de honorários em sede recursal (Súmula 568/STJ)
+Segundo a jurisprudência do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Corte Especial, DJe 07/03/2019).
+Ademais, segundo o que dispõe o art. 85, § 11, do CPC/2015, a majoração dos honorários de sucumbência encontra limite nas balizas definidas em seus §§ 2º e 3º. Nesse sentir: AgInt no REsp 1.922.403/SP (4ª Turma, DJe de 13/03/2023).
+Na situação dos autos, a Corte de origem manteve a fixação dos horários de sucumbência arbitrados na sentença de fls. 379/382 (e-STJ), publicada em 02/02/2022 (e-STJ, 383), em 10% sobre o valor da condenação. Por sua vez, decisão unipessoal de fls. 576/579 (e-STJ), a qual conheceu do agravo para não conhecer do recurso especial, majorou os honorários em sede recursal para 15% sobre o valor da condenação, dentro dos limites previstos na legislação processual civil.
+Dessa forma, a referida majoração da verba honorária de sucumbência encontra-se alinhada ao entendimento desta Corte Superior.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
