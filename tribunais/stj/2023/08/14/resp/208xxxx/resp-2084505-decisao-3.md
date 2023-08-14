@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRES CHRISTEN FILHO e ÉRIKA DINIZ BORDAN CHRISTEN contra acórdão prolatado, por unanimidade, pela Primeira Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo, em sede de apelação, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional (e-STJ fls. 1.874/1.912).
+Recurso especial interposto em: 7/10/2021.
+Concluso ao gabinete em: 1º/8/2023.
+Ação: declaratória de reconhecimento de sociedade de fato, apuração e cobrança de haveres ajuizada por CRISTIANO MOREIRA BUSSI, em face de ANDRES CHRISTEN FILHO, ÉRIKA DINIZ BORDAN CHRISTEN, ECO VALLE EMPREENDIMENTOS E PARTICIPAÇÕES LTDA., ROGÉRIO DIAS FAISAL e PEDRO WLADIMIR KRETCHETOFF.
+Sentença: julgou procedentes os pedidos formulados por CRISTIANO MOREIRA BUSSI.
+Acórdão: negou provimento às apelações de ANDRES CHRISTEN FILHO, ÉRIKA DINIZ BORDAN CHRISTEN, ECO VALLE EMPREENDIMENTOS E PARTICIPAÇÕES LTDA., ROGÉRIO DIAS FAISAL e PEDRO WLADIMIR KRETCHETOFF, nos termos da seguinte ementa (e-STJ fls. 1.668/1.669):
+Ação declaratória da existência de sociedade de fato, com apuração de haveres, julgada procedente em primeira instância. Apelações dos corréus.
+Na sociedade em comum, à qual se aplicam as regras da sociedade simples (Código Civil, art. 986), não há vedação à contribuição de sócio consistente em prestação de serviços, restrita às limitadas (§ 2º do art. 1.055 do mesmo Código).
+Para demonstração da existência de sociedade em comum não é necessário haver início de prova documental, aceitando-se qualquer prova idônea, para evitar-se enriquecimento sem causa dos sócios demandados. Precedentes do STJ e desta Câmara Empresarial. Caso concreto em que, todavia, dada a troca de e-mails reproduzida nos autos, a questão, a rigor, não se coloca. Jurisprudência a respeito da aceitação de correspondência eletrônica como prova da sociedade de fato.
+A apuração de haveres é pedido que se faz autonomamente quando já consumada a saída do sócio da sociedade. Se isto ainda não se deu, como no caso em julgamento, em que se quer a declaração de existência da sociedade de fato, está implícito, no de apuração, o pedido de dissolução parcial da sociedade. Inteligência do art. 322 e seu § 2º do CPC.
+Elenco probatório oral - depoimentos pessoais dos réus e depoimentos de testemunhas - que corrobora amplamente o que já decorria dos e-mails.
+Sentença de procedência - reconhecida a sociedade, declarada sua dissolução parcial e determinada a apuração de haveres, pelos quais respondem solidariamente os corréus perante o autor -, que bem analisou a prova e se confirma "per relationem" (art. 252 do Regimento Interno deste Tribunal de Justiça).
+Apelações desprovidas.
+Recurso especial: alegam violação aos artigos 987 e 1.055, § 2º, do CC/2002.
+Sustentam que ao " ..  decidir pela existência de sociedade com fundamento na prestação de serviços, ainda que se trate de uma sociedade comum - de fato - a r. decisão recorrida contrariou a norma legal que, expressamente, no caso das sociedades por cotas de responsabilidade limitada, veda a contribuição que importe em prestação de serviços, conforme art. 1.055, § 2º, do Código Civil  .. " (e-STJ fl. 1.889).
+Afirmam, ainda, que o " ..  acórdão recorrido também atuou em ofensa a legislação federal pois reconheceu a alegada sociedade de fato - comum - sem a existência de prova escrita - fazendo menção a outros elementos probatórios (testemunhas) e começo de prova escrita - colidindo com a regra do artigo 987 do Código Civil, que impõe que a prova da sociedade se dê somente na forma escrita  .. ", visto que o " ..  artigo 987 do Código Civil brasileiro é de patente clareza ao prescrever que, mesmo numa sociedade em comum, a prova da relação social há de ser feita por escrito, ressaltando que as provas escritas indicadas pelo E. Tribunal - e-mails e mensagens WhatsApp - não indicam a existência da alegada sociedade, não podendo ser aceito "começo de prova escrita" conforme decidido  .. " (e-STJ fl. 1.894).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas.
+Quanto às questões aventadas pela parte recorrente, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 1.688/1.703):
+ ..
+Se os e-mails não bastavam para configurar, por si sós, aparência de bom direito para os fins do art. 300 do CPC, todavia, supriam o requisito de começo de prova escrita que se impõe, em leitura direta do mencionado texto legal (Código Civil, art. 987).
+Não é preciso, destarte, no caso presente, abordar-se a controvérsia, trazida nas apelações, acerca da dispensa de início de prova documental, aceitando-se qualquer prova idônea, para evitar-se enriquecimento sem causa dos sócios demandados (a respeito, satisfazendo-se com qualquer prova, para se afirmar o império, sempre inafastável, do suum cuique tribuere, ver STJ-REsp 1.430.750, NANCY ANDRIGHI, cit. por THEOTONIO NEGRÃO e continuadores, Código Civil, 36ª ed., pág. 422; e, nesta Câmara, de minha relatoria, Ap. 1003681-93.2017.8.26.0218).
+Tem-se, portanto, como visto, de qualquer modo, começo de prova escrita, consistente na troca de e-mails.
+Essa prova, somada ao que se apurou em exauriente cognição, leva, como bem decidido na origem, à procedência da ação.
+Cumpre, ainda, desde logo, anotar que está absolutamente correta a sentença ao esclarecer que o pedido de dissolução está implícito no de apuração de haveres. Somente quando se pedem haveres em sociedade já antes dissolvida parcialmente em relação ao autor, é desnecessária a declaração de resolução parcial da sociedade.
+Trata-se, mesmo, de pedido implícito.
+ ..
+Esta Câmara já foi mais longe, entendendo implícito o pedido seguinte, de apuração de haveres, quanto formulado expressamente o antecedente, de dissolução, o que demonstra a estreita ligação que há entre eles. O Judiciário, também na pacificação das relações sociais de direito empresarial, ao decidir casos concretos de direito societário, há de estar atento à eficiência do processo (CPC, art. 8º)  ..
+Indo ao mérito propriamente dito, a sentença examinou corretamente a prova oral, que, somada aos e-mails, e também a mensagens WhatsApp - provas escritas -, levam à convicção de procedência da ação.
+ ..
+Corriqueiro, assinalo, finalizando, na atual dinâmica dos negócios, a prova de sociedade de fato por troca de correspondência eletrônica, e-mails ou mesmo mensagens WhatsApp, salvo, naturalmente, o caso de serem desmentidos pelo que mais conste dos autos.
+ ..
+Põe-se, por fim,  ..  a questão da solidariedade da condenação imposta pela sentença, mais precisamente na decisão antes transcrita de embargos de declaração a ela opostos.
+Observa-se, inicialmente, a respeito, que não se decidiu ser o apelado sócio da Eco Valle Empreendimentos e Participações Ltda., integrante de seu capital social. Decidiu-se pela sentença que ora se confirma que era sócio de fato da empresa e dos demais corréus pessoas físicas, em sociedade não personalizada, sociedade em comum, aquela regida atualmente pelos arts. 986 e seguintes do Código Civil.
+Nas palavras, que mais uma vez se reproduzem, da ilustre Juíza sentenciante, tanto o autor, quanto os corréus, "em conjugação de esforços para busca de investidores no empreendimento", sem prova de maior contribuição de qualquer deles, uma vez que não comprovado "investimento financeiro para a aquisição do terreno", mantiveram sociedade em comum (fls. 1.330/1.331).
+E a condenação solidária foi precisa, determinada, localizada num ponto, isto é, os corréus pessoas físicas e pessoa jurídica foram condenados a pagar haveres consistentes no valor valor da "venda das cotas que a empresa requerida tinha na empresa "Eco Valle Empreendimentos Imobiliários SPE Ltda." à "São Fidelis Empreendimentos Imobiliários e Participações Ltda.", em valor a ser apurado em fase de liquidação de sentença, e ao pagamento, ainda, do percentual pertencente ao autor, com relação aos 0,88% restantes na sociedade do Shopping" (fl. 1.331).
+A solidariedade, no caso em julgamento, decorre de lei.
+Com efeito, em se tratando da dissolução de sociedade em comum, rege-se ela, como dispõe o Código Civil (art. 986) subsidiariamente pelas regras aplicáveis às sociedades simples (arts. 997 e seguintes). Assim, na dissolução observam-se os arts. 1.033 e 1.034, sempre da Lei Civil (cf. ERASMO VALLADÃO AZEVEDO E NOVAES FRANÇA, A Sociedade em Comum, pág. 145).
+Portanto, tal qual se dá com as sociedades simples, às sociedades de fato aplicam-se as regras do CPC acerca da dissolução parcial de sociedades, arts. 599 de seguintes.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AREsp n. 182.361/SP, Terceira Turma, DJe de 10/5/2016; AgInt no AREsp n. 1.698.665/SP, Quarta Turma, DJe de 18/11/2020; e AgInt no AREsp n. 1.621.499/DF, Quarta Turma, DJe de 24/9/2020.
+Forte nessas razões, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Observados os limites previstos nos parágrafos 2º e 3º do artigo 85 do CPC/2015, deixo de majorar os honorários arbitrados em favor da parte recorrida, porque já fixados no limite legal máximo.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RECONHECIMENTO DE SOCIEDADE DE FATO, APURAÇÃO E COBRANÇA DE HAVERES. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE.
+1. Ação declaratória de reconhecimento de sociedade de fato, apuração e cobrança de haveres.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Recurso especial não conhecido.
