@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Cuida-se  de  agravo  interno  interposto  pelo ESTADO DA BAHIA contra  decisão  monocrática  da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial (fls. 162/164).
+  A  parte  agravante, nas  razões  do  agravo  interno  , alega que não há a incidência da Súmula 284/STF, uma vez que "ao contrário da premissa da decisão agravada, com a devida vênia, o presente recurso especial é cognoscível quanto a questão jurídica de fundo, consistente justamente na extensão dos efeitos da posse e na violação, realizada data vênia pelo TJBA, ao disposto nos arts.1.214 e 1.219, normas essas que restaram prequestionadas (CPC/2015, art. 1025)" (fl. 171).
+ Postula, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+Parecer do Ministério Público no qual pugna pelo não provimento do recurso especial (fls. 190/194).
+Não houve impugnação (fl. 181).
+ É  o  relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. DISPOSITIVO VIOLADO. COMANDO NORMATIVO. AUSÊNCIA. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo capaz de sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, tendo em vista o óbice contido na Súmula 284 do STF.
+2. Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+Trata-se na origem de mandado de segurança impetrado pela parte agravada visando desconstituir ato administrativo que determinara a desocupação de imóvel, objeto de desapropriação pelo Estado ora agravante, sem o devido pagamento de indenização referente à posse do imóvel.
+Sobre o tema assim se manifestou a Corte estadual (fls. 79/82):
+A Constituição Federal de 1988, em seu art. 5º, inciso XXIV, garante justa e prévia indenização em dinheiro nos casos de desapropriação. Assim, a imissão do ente desapropriante na posse do imóvel depende do pagamento de indenização pela via administrativa ou de depósito prévio feito pela via judicial, conforme determina o caput do art.15 do Decreto-lei nº3.365/41, abaixo transcrito:
+Art.15. Se o expropriante alegar urgência e depositar quantia arbitrada de conformidade com o art. 685 do Código de Processo Civil, o juiz mandará imiti-lo provisoriamente na posse dos bens;
+A jurisprudência do Superior Tribunal de Justiça, por sua vez, é assente ao assegurar ao possuidor a indenização pela perda do direito possessório, vez que a exigência do art. 34 do Decreto-lei nº 3.365/41 apenas se impõe quando há dúvida sobre o domínio decorrente de disputa quanto à titularidade do bem.
+(..)
+Deflui-se do cotejo entre o quanto narrado na exordial e o quanto posto na peça contestatória, ter havido acordo entre as partes para indenizar as benfeitorias enquanto se aguardava o desfecho da ação de usucapião.
+No caso dos autos, o impetrante, expropriado do imóvel descrito na inicial, não possui título de propriedade, tendo optado por receber a indenização apenas pelas benfeitorias e acessões e concordado em aguardar a indenização pela propriedade após declaração de usucapião por sentença.
+Vale aqui ressaltar que a posse do impetrante foi reconhecida pela própria Administração Pública que efetuou o pagamento das benfeitorias e acessões ao impetrante, bem como encaminhou notificação extrajudicial à sua representante para desocupação do bem.
+Nesse contexto, verifica-se que o Estado da Bahia não efetuou o pagamento de compensação pelo direito de propriedade do impetrante, pois inexistente o título, tampouco indenizou a posse do imóvel, pois o expropriado concordou em aguardar a sentença de usucapião para receber o ressarcimento.
+Ora, se a imissão na posse do ente expropriante depende de pagamento de indenização pela via administrativa ou de prévio depósito do valor na via judicial, não havendo o Estado da Bahia ressarcido o impetrante pela posse ou pela propriedade, não pode notificá-lo para sair do imóvel.
+Nesse diapasão, não tendo o Estado da Bahia cumprido a condição necessária para se apossar do bem em procedimento de desapropriação, qual seja, o pagamento de compensação pela perda da propriedade ou da posse, não há como determinar a retirada do impetrante do imóvel, devendo a Administração Pública aguardar o desfecho da ação de usucapião ou se valer da via judicial, com depósito judicial prévio, para obter a imissão na posse.
+A parte recorrente, por sua vez, limita-se a alegar afronta ao s  arts. 1.214 e 1.219 do Código Civil,  que apontam a necessidade de se indenizar o possuidor de boa-fé pelas benfeitorias necessárias e úteis, não possuindo comando normativo apto a sustentar sua tese defensiva e infirmar o acórdão recorrido em sua totalidade, razão pela qual incide, por analogia, o óbice contido na Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Nos termos do entendimento desta Corte Superior: "ao expor suas razões de recurso especial, a parte recorrente deve apontar de forma compreensível e precisa o dispositivo legal que entende violado. Esse ônus não se limita à mera indicação numérica do artigo de lei. Tratando-se de artigo que se desdobra em parágrafos, incisos, alíneas e itens, deve a parte insurgente explicitar e individualizar, com clareza, o que entende haver sido violado, especialmente quando em jogo a interpretação de dispositivos legais que contemplam extensa articulação e redação, como no caso concreto" (AgInt no REsp 1.872.293/BA, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/03/2022, DJe de 05/04/2022).
+2. Na hipótese em comento, as razões do recurso especial limitam-se a transcrever o art. 76-A, § 1º, da Lei n. 8.112/1990, bem como art. 7º do Decreto n. 6.114/2007, sem, contudo, indicar qual parágrafo, inciso ou alínea teria sido contrariado, não havendo, portanto, como deixar de se observar, por analogia, o enunciado da Súmula 284 do STF, que estabelece: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3.Os dispositivos legais supostamente contrariados também não possuem comando normativo suficientes a desconstituir o acórdão objurgado, atraindo, mais uma vez, o óbice contido no enunciado sumular n. 284 da Corte Suprema.
+4. Agravo interno desprovido. (AgInt no AREsp 2.110.906/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR PREPARATÓRIA. PROCESSO PRINCIPAL EXTINTO, COM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO DA CAUTELAR. SUPOSTA VIOLAÇÃO AO DISPOSITIVO INDICADO. COMANDO NORMATIVO INAPTO DE SUSTENTAR A TESE RECURSAL. SÚMULA 284/STF. VERIFICAÇÃO DE INTERESSE PROCESSUAL E AUSÊNCIA DE PERDA DO OBJETO. QUESTÃO ATRELADA AO CONTEXTO FÁTICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial exige que o citado dispositivo legal indicado como violado possua comando normativo apto de sustentar a tese recursal que fundamenta a alegada violação, sob pena de atrair a incidência da Súmula 284 do STF, por analogia.
+2. Na hipótese dos autos, a Corte a quo expressamente consignou que houve perda do objeto da ação e falta de interesse superveniente que conduziu à extinção do processo, de modo que, admitir entendimento contrário conforme a pretensão recursal demandaria reexame de fatos e provas, o que todavia escapa ao âmbito do recurso especial diante da Súmula 7/STJ.
+3. É entendimento consolidado nessa Corte Superior de Justiça de que "O julgamento do mérito do feito ao qual está atrelada a medida cautelar que originou o apelo especial impõe a perda de objeto do recurso, sendo desnecessário que se aguarde o trânsito em julgado da ação principal". (AgInt no REsp n. 1.616.159/PB, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe de 19/3/2018.)
+4. Agravo interno não provido. (AgInt no AREsp 2.241.565/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Ante  o  exposto, nego  provimento  ao  agravo  interno .
+É  o  voto.
