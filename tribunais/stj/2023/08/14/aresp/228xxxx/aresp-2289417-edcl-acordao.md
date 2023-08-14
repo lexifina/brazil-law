@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MULTIPROX EQUIPAMENTOS E SUPRIMENTOS DE INFORMATICA EIRELI - ME a acórdão desta Terceira Turma que negou provimento ao seu agravo interno, nos termos da seguinte ementa (e-STJ, fls. 807-808):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL DE CORPUS CHRISTI. RECURSO INTEMPESTIVO. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR RESTRITA AO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL. ERRO NO SISTEMA ELETRÔNICO. AUSÊNCIA DE DEMONSTRAÇÃO. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+2. A Corte Especial do Superior Tribunal de Justiça, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015, bem como os princípios consagrados pelo novo Código, por maioria, firmou orientação de que a parte recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil em momento posterior para demonstrar a tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+3. Cabe destacar que a Corte Especial, no julgamento da QO no REsp 1.813.684/SP, Rel. Ministra Nancy Andhighi, julgada em 03/02/2020, DJe 28/02/2020, entendeu que "a tese firmada por ocasião do julgamento do  aludido recurso especial  é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais", restrição aplicável ao alcance da modulação dos efeitos do decisum, o que foi reafirmado por ocasião do julgamento dos EDcl na QO no RESP 1.813.684/SP, em sessão realizada em 19/05/2021.
+4. Esta Corte Superior entende que "o erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso, o que não ocorreu no caso dos autos. (AgInt nos EDcl no AREsp n. 2.034.914/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe 9/12/2022).
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo a imposição ser analisada caso a caso.
+6. Agravo interno improvido.
+Em suas razões (fls. 824-832, e-STJ), sustenta a parte embargante que o julgado é omisso, pois não se pronunciou sobre os julgados mencionados em suas razões de seu agravo interno e as razões para sua não aplicação ao caso concreto.
+Reitera que as informações divulgadas pelos sistemas de automação dos tribunais gozam de presunção de veracidade e confiabilidade e são capazes de gerar legítima expectativa no advogado, que deve ser preservada, em nome da boa fé e na proteção da confiança.
+Aduz que a exigência de que a parte junte aos autos provas de feriado local que já se encontra registrado no sistema de automação é um formalismo exacerbado que viola a garantia da ampla defesa.
+Pleiteia o acolhimento dos embargos para o saneamento das omissões e a atribuição de efeitos infringentes.
+Impugnação às fls. 838-847 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecer obscuridade, corrigir contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. Não se admite apreciação, na via especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+3. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os aclaratórios.
+4. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022, do CPC/2015, os embargos de declaração têm cabimento somente para sanar eventual omissão, contradição, obscuridade ou erro material, e não para rediscutir o julgado embargado.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLRAÇÃO NO RECURSO ESPECIAL. EMBARGOS PROTELATÓRIOS. RECONHECIMENTO DEVIDAMENTE FUNDAMENTADO. FIXAÇÃO SOBRE O VALOR DA CAUSA. PREVISÃO LEGAL. REDUÇÃO DA MULTA. CABIMENTO.
+1. Conforme a orientação jurisprudencial do Superior Tribunal de Justiça, a via dos embargos declaratórios não se presta à mera rediscussão dos fundamentos da decisão embargada.
+ ..
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl no REsp 1.733.883/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/10/2021, DJe 03/11/2021).
+Ademais, a jurisprudência do STJ adota a orientação de que não se admite a apreciação, em recurso especial, de matéria constitucional.
+Nessa linha:
+REITERAÇÃO DE EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. PREQUESTIONAMENTO DE TEMA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. INEXISTÊNCIA. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. REITERAÇÃO DE RECURSO DE CARÁTER MERAMENTE INFRINGENTE. MANIFESTA INADEQUAÇÃO DA VIA RECURSAL ELEITA, A TORNAR INARREDÁVEL A IMPOSIÇÃO DE MULTA.
+1. Muito "embora seja dever de todo magistrado velar a Constituição, para que se evite supressão de competência do egrégio STF, não se admite apreciação, na via especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário" (AgInt nos EDcl no AREsp 1844931/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+ ..
+(EDcl nos EDcl no AgInt nos EDcl nos EDcl no REsp 1.828.921/AM, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/03/2022, DJe 30/03/2022).
+Na presente hipótese, o acórdão proferido por este colegiado decidiu a controvérsia relativa à tempestividade do agravo em recurso especial com base em fundamentação sólida, sem omissões ou contradições.
+Com efeito, os julgados mencionados nos presentes embargos declaratórios foram examinados e afastada a sua incidência na hipótese concreta, tendo sido consignado que "não se desconhece o entendimento desta Corte Superior no sentido de que a existência de erro nas informações fornecidas pelo sistema eletrônico mantido exclusivamente pelo Poder Judiciário, para fins de contagem de prazo, pode ser considerado, em homenagem aos princípios da boa-fé e da confiança" (e-STJ, fl. 815), mas igualmente fora ponderado que a parte interessada "deve demonstrar, de maneira efetiva, a justa causa para obter o excepcional afastamento da intempestividade recursal" (e-STJ, fl. 815), consistente no erro, que deve ter sido induzido por falha na informação prestada pelo sistema eletrônico do Tribunal, o que não ocorreu na espécie.
+Quanto ao tema, o acórdão embargado registrou que "a respeito das alegações recursais atinentes ao suposto equívoco na contagem do prazo pelo sistema, as agravantes não trouxeram aos autos nenhum documento para corroborar tal afirmação, não sendo possível inferir, por conseguinte, que tenham sido induzidas a erro pelas informações do sistema eletrônico do TJMG" (e-STJ, fl. 818).
+Pontou, em acréscimo, que, nos termos da jurisprudência desta Corte, a parte recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil em momento posterior para demonstrar a tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+Portanto, o acordão embargado apenas resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente e, nessas circunstâncias, tendo o órgão julgador declinado as razões de seu convencimento motivado, como de fato ocorre nos autos, não estava obrigado a responder a questionamentos das partes.
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015 .
+Com esses fundamentos, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
