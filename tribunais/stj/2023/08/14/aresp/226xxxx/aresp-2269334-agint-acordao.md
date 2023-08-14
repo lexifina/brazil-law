@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MULTLOG - LOCAÇÕES E SERVIÇOS LOGÍSTICOS LTDA. contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 1.071-1.079):
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 55 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DO ARTIGO DE LEI TIDO POR VIOLADO. SÚMULA 211/STJ. REQUISITOS PARA CONFIGURAÇÃO DO PREQUESTIONAMENTO FICTO NÃO PREENCHIDOS. DIVERGÊNCIAJURISPRUDENCIALNÃO COMPROVADA. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Irresignada, a agravante sustenta, em síntese, que teria realizado o prequestionamento do art. 55 do CPC/2015, arguindo que o acórdão recorrido traria do tema.
+Alega que demonstrou o dissídio jurisprudencial a partir das ementas transcritas, não sendo necessário o confronto analítico para compreensão.
+Impugnação apresentada às fls. 1.121-1.130 (e-STJ), com pedido de aplicação da multa do art. 1.021, § 4º, do CPC/2015, bem como a condenação por litigância de má-fé da recorrente, em razão da interposição de recurso de caráter meramente protelatório.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO CUMULADA COM CANCELAMENTO DE PROTESTO CAMBIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 55 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REQUISITOS PARA CONFIGURAÇÃO DO PREQUESTIONAMENTO FICTO NÃO PREENCHIDOS. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme dispõe a Súmula n. 211/STJ, é inadmissível recurso especial quanto à questão que, a despeito da opos ição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. Precedentes.
+2. A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional requisita a comprovação e demonstração com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Não se oferece como bastante a simples transcrição de ementas, sem a realização do necessário cotejo analítico.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+VOTO
+De fato, a decisão monocrática deve ser mantida.
+Conforme asseverado na decisão agravada, forçoso reconhecer que o art. 55 do CPC/2015 não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração pela insurgente.
+Com efeito, no ponto, está ausente o requisito do prequestionamento, fazendo incidir o disposto na Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que, no mesmo recurso, seja reconhecida a existência de violação do art. 1.022 do CPC/2015 - o que nem sequer foi arguido pela insurgente no caso dos autos.
+Ademais, acrescenta-se que, mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+Ilustrativamente:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. TAXA DE MANUTENÇÃO. LOTEAMENTO URBANO. TEMA 882/STJ. APLICABILIDADE AOS LOTEAMENTOS INSTITUÍDOS NA FORMA DA LEI Nº 6.766/79. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. ARTS. 141 E 492 DO CPC. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO INDISPENSÁVEL. AUSÊNCIA. SÚMULA 282/STF. EXISTÊNCIA DE CONTRATO PADRÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DEMONSTRAÇÃO DA ANUÊNCIA COM A COBRANÇA OU ADESÃO ASSOCIATIVA. INEXISTÊNCIA. COBRANÇA INDEVIDA. PRECEDENTE.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+2. A ausência de debate no acórdão recorrido quanto a temas suscitados no recurso especial evidencia a falta de prequestionamento. Ademais, mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento. (..) AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+(AgInt no REsp n. 2.021.499/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Por fim, reforça-se que não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional requisita a comprovação e demonstração com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Não se oferece como bastante a mera transcrição de ementas, sem a realização do necessário cotejo analítico.
+Assim, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão agravada.
+No entanto, não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto , em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Nessa diretriz de intelecção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp 1728999/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/8/2021, DJe de 3/9/2021)
+Por fim, insta esclarecer que não se nota intuito meramente protelatório ou evidente má-fé da insurgente, logo não cabe a imposição de multa a este título em seu desfavor.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
