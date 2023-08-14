@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão deste Relator que não conheceu do habeas corpus (e-STJ, fls. 54-56).
+Nas razões recursais (e-STJ, fls. 62-70), o agravante assinala que esta Corte Superior tem se pronunciado reiteradamente que não há óbice para que as faltas antigas sejam consideradas para a análise global do comportamento do apenado.
+Aduz que a prática de falta grave pelo reeducando demonstra sua inaptidão para o cumprimento da pena em regime de liberdade condicional, motivo pelo qual deve ser reformada a decisão agravada, por ofensa ao art. 83, III, "a", do Código Penal.
+Assevera que a presente via não é meio hábil à desconstituição das premissas delineadas pela instância ordinária quanto ao não preenchimento do requisito subjetivo para fins de livramento condicional.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito ao exame deste Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. FALTAS GRAVES ANTIGAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. É assente nesta Corte Superior de Justiça que "faltas disciplinares muito antigas  ..  não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo", além de ser "desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução" (AgRg no HC 620.883/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2020, DJe 18/12/2020).
+2. No caso, a Corte local cassou a decisão que concedeu o livramento condicional ao paciente utilizando-se de fundamentação inidônea, relativa ao cometimento de uma falta disciplinar, de natureza grave, antiga - posse de celular e componentes.
+3. Decisão monocrática que deve ser mantida, a fim de restabelecer o deferimento do benefício ao paciente pelo Juízo de primeiro grau.
+4. Agravo regimental desprovido.
+VOTO
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado, razão pela qual a decisão deve ser mantida pelos seus próprios fundamentos.
+Pois bem.
+Nos termos do art. 83 do Código Penal, para a concessão do benefício do livramento condicional, deve o apenado preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita).
+No caso dos autos, verifica-se que o Tribunal de origem considerou como óbice para a concessão do benefício a existência de uma falta grave no histórico prisional do reeducando, cometida em período longínquo.
+A respeito, o Superior Tribunal de Justiça consolidou entendimento segundo o qual a gravidade do delito, a longa pena a cumprir, as faltas graves antigas e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL CONTURBADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIA. VIA IMPRÓPRIA. AGRAVO NÃO PROVIDO.
+1. "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, Rel. Min. Felix Fisher, DJe de 19/2/2019).
+2. Para a concessão do livramento condicional, deve o acusado preencher tanto o requisito de natureza objetiva (lapso temporal) quanto os pressupostos de cunho subjetivo (comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto), nos termos do art. 83 do CP, c/c art. 131 da LEP.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 656.391/SP, deste Relator, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas também não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução. A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido." (AgRg no HC 620.883/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/12/2020, DJe 18/12/2020).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CONCESSÃO PELO JUÍZO DA EXECUÇÃO PENAL. REVOGAÇÃO PELO TRIBUNAL ESTADUAL. FUNDAMENTAÇÃO. FALTA GRAVE. IMPOSSIBILIDADE. SÚMULA 441/STJ. APLICABILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A despeito de o entendimento predominante nesta Corte que a falta grave pode ser utilizada a fim de verificar o cumprimento do requisito subjetivo necessário para a concessão de benefícios da execução penal (AgRg no AREsp n. 1.467.632/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/10/2019), a falta grave foi cometida em 17/11/2018, devendo-se considerar o decurso considerável de tempo a se concluir pela reabilitação do apenado, dada a natureza progressiva do cumprimento da pena (AgRg no HC n. 549.649/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/6/2020).
+2. Agravo regimental improvido." (AgRg no HC 527.134/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/08/2020, DJe 02/09/2020, grifou-se).
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. LONGA PENA A CUMPRIR. GRAVIDADE DOS DELITOS PRATICADOS. FALTA GRAVE ANTIGA E JÁ REABILITADA. DESNECESSIDADE DE ADAPTAÇÃO A UM REGIME MAIS LIBERAL PARA A CONCESSÃO DO LIVRAMENTO CONDICIONAL. FUNDAMENTAÇÃO INIDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Para a concessão do benefício do livramento condicional, nos termos do art. 83 do CP e arts. 112 e 131 da LEP, deve o reeducando preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover o próprio sustento de maneira lícita).
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada." (HC 508.784/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2019, DJe 22/08/2019).
+Nesse sentido, impõe-se a manutenção da decisão agravada que concedeu a ordem, de ofício, para restabelecer a decisão de primeiro grau que deferiu o livramento condicional ao reeducando .
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
