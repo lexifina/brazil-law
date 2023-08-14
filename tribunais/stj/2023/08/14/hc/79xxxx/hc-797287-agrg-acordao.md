@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+Reitera a defesa os mesmos argumentos aduzidos na inicial, ressaltando que deve ser absolvido o paciente, diante da falta de provas suficientes para demonstrar a autoria e vinculá-lo ao crime.
+Requer a reconsideração da decisão ou a submissão e o provimento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. PROVIDÊNCIA INVIÁVEL NA VIA ELEITA. REEXAME DE PROVAS.
+1. Na hipótese, as instâncias ordinárias demonstraram estarem configuradas a materialidade e a autoria delitiva, constatadas, sobretudo, pelos depoimentos dos agentes policiais e das testemunhas. Estas, donos dos automóveis subtraíd os, com indicação de circunstâncias que evidenciam a factível possibilidade de ver ilegalidade quanto à procedência dos veículos, o que compõe um conjunto probatório sopesado pela Corte local para embasar o reconhecimento do delito de receptação, não havendo falar em insuficiência de provas.
+2. "A jurisprudência desta Corte é firme no sentido de que, no crime de receptação, se o bem tiver sido apreendido em poder do agente, caberia à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no HC n. 745.259/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+3. Para chegar a um entendimento diverso do Tribunal local e ensejar a pretendida absolvição, implicaria o revolvimento do contexto fático-probatório dos autos, providência inviável na seara restrita do habeas corpus.
+4. Agravo regimental desprovido.
+VOTO
+Conforme relatado, busca a defesa a reforma da decisão monocrática que denegou o habeas corpus.
+A decisão ora agravada está assim fundamentada (fls. 652/655):
+Acerca da insuficiência probatória, consta do acórdão (fls. 16/23):
+A materialidade delitiva restou plenamente demonstrada pelo boletim de ocorrência (fls. 04/06), auto de exibição/apreensão (fls. 07/08), pesquisas Prodesp (fls. 09 e 11), laudo pericial (fls. 16/22), boletim de ocorrência (fls. 24/25), documentos (fls. 57 e 112/116), laudo pericial (fls. 196/202), boletins de ocorrência (fls. 203/204 e 212/213), pesquisa Prodesp (fl. 215), não se olvidando da prova oral produzida nos autos.
+Outrossim, a autoria é inconteste.
+Em solo policial, PAULO negou a autoria delitiva e contou que trabalha com o comércio de peças de carros, acessórios e vidros.
+Com relação aos veículos apreendidos na propriedade em que residia, esclareceu que, em meados de maio daquele ano, através de uma pessoa que conheceu pelo nome de Anderson, adquiriu os dois veículos, o "GM Corsa" e o "Ford EcoSport", com a informação de que se encontravam com os financiamentos em atraso, tendo recebido os recibos em branco.
+Asseverou que pagou R$ 7.000,00 pelo "EcoSport" e R$ 3.000,00 pelo "Corsa", com a condição de que providenciaria o restante dos pagamentos.
+Informou que Anderson reside em Bauru e nunca trouxe os carnês das prestações em atraso. Quanto aos documentos em questão, foram furtados em meados de novembro de 2014, juntamente com outros objetos, quando sua propriedade foi invadida.
+Aduziu que, mesmo trabalhando com o comércio de peças de veículos, não se preocupou em realizar as consultas dos automóveis, os quais estavam intactos quando os adquiriu.
+Por fim, disse que desconhecia as irregularidades encontradas nos carros e, quanto ao seu comércio, o imóvel está fora de atividade, mas o registro permanece atualizado (fls. 30).
+Interrogado em Juízo, o apelante manteve a negativa; contou que um rapaz lhe ofereceu dois carros financiados. Disse que "puxou" (sic) a documentação e não constavam irregularidades.
+Esclareceu que os documentos estavam na chácara e foram furtados e que pagou R$ 8.000,00 em dinheiro pelos dois carros (mídia digital fls. 387).
+Não obstante, a condenação do apelante pela prática do crime de receptação qualificada era medida de rigor e restou embasada na prova oral produzida sob o crivo do contraditório.
+Nesse sentido, os policiais civis Ederval Emerson de Souza Perin e Élio Antônio Carnevali, ouvidos sob a égide processual, foram firmes em relatar que, na data dos fatos, receberam denúncia anônima de desmanche de veículos e dirigiram-se até o local informado.
+Narraram que o apelante não estava presente no momento, mas havia um pedreiro que estava trabalhando para ele no local e havia vários carros.
+Foram pesquisados todos os veículos. O "Corsa" estava sem a placa, pesquisaram por meio do chassis e constou furto na cidade de Birigui. Também havia uma "EcoSport" que estava com a placa de um "Golf", e sobre este ainda não havia queixa.
+Os veículos foram apreendidos e posteriormente o cartório procedeu as investigações.
+Salientaram que havia muitos carros no local, vários já desmanchados, "depenados" (sic) (mídia digital fls. 381).
+As testemunhas Maicon Maximiano e Antônio Pes, confirmaram terem sofrido o furto dos automóveis há vários anos, alegando que foram avisados pela Polícia do reencontro dos bens subtraídos, reconhecendo-os como de suas propriedades (fls. 384 e 400).
+Nesse contexto, não há que falar em fragilidade das provas, porquanto nossos Tribunais desde há muito vêm conferindo credibilidade ao depoimento de agentes da lei, que por essa condição não podem ser tidos e havidos como suspeitos ou parciais.
+ ..
+Como cediço, para a configuração do elemento normativo em análise, não é necessário édito condenatório pelo delito anteriormente cometido, bastando, para tanto, a prova da prática do crime antecedente, o que, no presente caso, ficou sobejamente comprovada.
+A controvérsia, portanto, gira em torno do elemento subjetivo do tipo, ou seja, se o apelante sabia ou não da origem ilícita do bem.
+Quanto a isso, a efetiva comprovação do elemento subjetivo do tipo, em se tratando de crime de receptação, especialmente na sua forma dolosa, exige que sejam levadas em conta as circunstâncias que cercam o fato, inclusive, a credibilidade que se possa eventualmente dar a versão do acusado.
+Não obstante o esforço defensivo, vejo que há nos autos elementos de convicção suficientes a demonstrar que o apelante tinha conhecimento da origem ilícita do bem.
+Isso porque, as circunstâncias do caso concreto, notadamente por se tratar pessoa que trabalha com o comércio de peças de carros, acessórios e vidros, deveria o apelante se revestir de todas as cautelas na aquisição veículos, analisando cuidadosamente sua procedência.
+Outrossim, PAULO não apresentou qualquer elemento apto a lançar dúvida sobre os depoimentos prestados pelos policiais, nas duas fases da persecutio criminis, firmes no sentido de que foram até a chácara onde o apelante residia e localizaram veículos em situação de desmanche.
+Ora, a forma como o negócio foi entabulado sem nenhuma testemunha e com a de documento comprobatório da venda, além de ambos os veículos possuírem adulterações em seus sinais identificadores já denota que o apelante tinha consciência de que os carros não tinham origem lícita, uma vez que afirmou que comprou os carros já com a informação de que se encontravam com os financiamentos em atraso e que recebeu os recibos em branco.
+Afirmou, ainda, que pagou apenas R$ 7.000,00 pelo "EcoSport" e R$ 3.000,00 pelo "Corsa" (frise-se, preço totalmente incompatível com o mercado), com a condição de que providenciaria o restante dos pagamentos e que o vendedor nunca trouxe os carnês das prestações em atraso.
+Tal versão apresentada pelo apelante, não colhe, diante da ausência de prova de sua alegação, nos moldes do artigo 156 do Código de Processo Penal.
+Quanto ao referido dispositivo legal, cumpre destacar que não se trata de inversão do ônus probatório, mas sim de incumbência de provar alegação trazida aos autos, o que se aplica na hipótese do crime de receptação, conforme entendimento do C.
+Superior Tribunal de Justiça.
+ ..
+Sob esse vértice, não obstante o esforço defensivo, vejo que há nos autos elementos de convicção suficientes a demonstrar, com a certeza necessária, que o apelante tinha pleno conhecimento da origem espúria dos bens, de modo que a pretendida desclassificação para a modalidade culposa do delito não merece acolhimento.
+Como se vê, o Tribunal local manteve a condenação do réu pelo crime de receptação na modalidade dolosa, por concluir que houve a suficiente comprovação de que os veículos apreendidos em seu desmanche foram objeto de subtração, conforme o relato das testemunhas, aduzindo que eram donos dos referidos automóveis.
+Extrai-se do julgado que "há nos autos elementos de convicção suficientes a demonstrar que o apelante tinha conhecimento da origem ilícita do bem" e "por se tratar pessoa que trabalha com o comércio de peças de carros, acessórios e vidros, deveria o apelante se revestir de todas as cautelas na aquisição veículos, analisando cuidadosamente sua procedência" (fls. 20/21). É destacado que as circunstâncias da compra dos veículos pelo paciente infirmam suposta ausência de consciência da situação de ilegalidade: sem testemunha ou documento comprobatório e visíveis sinais de adulteração dos sinais identificadores.
+Desse modo, rever esse entendimento, para fins de absolvição ou desclassificação, demandaria o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do habeas corpus. A propósito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. RECEPTAÇÃO (ART. 180, CAPUT, DO CP). DIREÇÃO DE VEÍCULO AUTOMOTOR SEM A DEVIDA PERMISSÃO GERANDO PERIGO DE DANO (ART. 309 DO CTB). INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. AGENTE SURPREENDIDO NA POSSE DE AUTOMÓVEL ORIUNDO DE FURTO. ART. 156 DO CPP. CONJUNTO PROBATÓRIO FIRME A INDICAR O CONHECIMENTO DA ORIGEM ESPÚRIA DO BEM. PLEITO DE ANULAÇÃO COM VISTAS À DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. O pleito defensivo concernente à absolvição do crime de receptação, previsto no art. 180, caput, do CP, bem como sua desclassificação para a modalidade culposa, não comporta análise na presente via, de cognição sumária, na qual não se permite dilação fático-probatória.
+4. Habeas corpus não conhecido.
+(HC n. 483.023/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2019, DJe de 15/2/2019.)
+Outrossim, nos termos da jurisprudência desta Corte "tratando-se de crime de receptação, ao qual o acusado foi flagrado na posse do bem, a ele competiria demonstrar o desconhecimento da sua origem ilícita, o que, no caso, não ocorreu" (AgRg no RHC n. 153.972/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022). No mesmo sentido: (HC n. 464.010/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/9/2018, DJe de 2/10/2018.)
+A decisão agravada deve ser mantida por seus próprios fundamentos, pois as instâncias ordinárias demonstraram estarem configuradas a materialidade e autoria delitiva, constatadas, sobretudo, pelos depoimentos dos agentes policiais e das testemunhas; testemunhas essas, donos dos automóveis subtraídos, com indicação de circunstâncias que evidenciam a factível possibilidade de ilegalidade quanto à procedência dos veículos, que compõe um conjunto probatório sopesado pela Corte local para embasar o reconhecimento do delito de receptação, não havendo falar em insuficiência de provas.
+Nesse contexto, "A jurisprudência desta Corte é firme no sentido de que, no crime de receptação, se o bem tiver sido apreendido em poder do agente, caberia à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no HC n. 745.259/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Ademais, para chegar a um entendimento diverso do Tribunal de Justiça, quanto à suficiência das provas colhidas, implicaria o revolvimento do contexto fático- probatório dos autos, providência inviável na seara restrita do habeas corpus.
+Desse modo, "É assente neste Tribunal Superior que o agravo regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos." (AgRg no HC n. 759.619/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
