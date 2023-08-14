@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WALISSON RAFAEL VILACA PINTO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, dos delitos de homicídio qualificado na modalidade tentada, sequestro e cárcere privado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 23-33.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Requer, ao final, a revogação da prisão preventiva, ou, subsidiariamente, sua substituição por medidas cautelares diversas, e a distinção entre esta decisão e precedente do Tribunal de Justiça do Estado de Minas Gerais, invocado como precedente.
+A liminar foi indeferida e as informações foram prestadas às fls. 148-167.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, nos termos do parecer de fls. 173-183.
+É o relatório.
+Decido.
+Na hipótese, a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, seja pela forma na qual o delito foi em tese praticado, consistente em tortura, cometido em concurso de sete agentes, no qual a vítima foi agredida por cerca de vinte e cinco minutos; seja em razão de o paciente ostentar maus antecedentes e reincidência, circunstâncias que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar. em virtude do fundado receio de reiteração delitiva.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg no HC n. 802.845/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 792.071/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no HC n. 795.867/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023; DJe de 24/4/2023; AgRg no RHC n. 178.042/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023.
+Acrescente-se que em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que na data de 19/06/2023, sobreveio sentença na qual o paciente foi condenado, como incurso na sanção do 1º, inciso I, alínea a, §4º, inciso III, da Lei n.º 9.455/1997, às penas de 4 (quatro) anos, 3 (três) meses e 21 (vinte e um) dias de reclusão, em regime inicial fechado, negado o direito de recorrer em liberdade.
+Quanto ao pedido de distinção com o precedente invocado, ressalto que não cabe a esta Corte Superior justificar diferença de entendimento entre seus julgados e acórdãos de Tribunais estaduais.
+Deve-se ressaltar, ainda, que, in casu, não há hipótese de aplicação das medidas cautelares alternativas à prisão, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Ante o exposto denego a ordem.
+P. e I.
