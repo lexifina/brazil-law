@@ -1,0 +1,71 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça daquele Estado na Revisão Criminal n. 0062763- 37.2020.8.19.0000.
+O recorrente aponta a violação do art. 621, I, do CPP, ao argumento de que a Corte de origem julgou procedente a ação revisional ajuizada pela defesa sem que houvesse a caracterização da hipótese legal prevista no referido dispositivo.
+Aduz: "o dispositivo violado em momento algum permite a utilização de revisão criminal para que se discuta a dosimetria, sem que houvesse a indicação de novas provas que pudessem alterar a dosimetria" (fl. 69).
+Sustenta: "a revisão criminal fora utilizada como "segunda apelação" ou como instrumento de mera revaloração da prova anteriormente analisada na sentença e no acórdão rescindendo, o que é vedado por lei e rechaçado pela doutrina e jurisprudência pátria" (fl. 69).
+Requer o restabelecimento da pena fixada no acórdão de apelação.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 158-166).
+Decido.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+O ora recorrido foi definitivamente condenado a 26 anos de reclusão, em regime inicial fechado, e 20 dias-multa, pelos crimes de homicídio qualificado e ocultação de cadáver. A defesa ajuizou revisão criminal, fundada no art. 621, I, do CPP, a fim de reduzir a reprimenda fixada.
+O Tribunal estadual acolheu o pedido revisional e reduziu a sanção do sentenciado para 19 anos de reclusão e 10 dias-multa, conforme acórdão assim motivado (fls. 38-41, destaquei):
+Em sede de Revisão Criminal não há amparo à rediscussão da matéria decidida em jurisdição própria, cabendo somente modificar a decisão manifestamente contrária às evidências dos autos.
+Através dela procura-se assegurar ao condenado a correção de eventual erro judiciário ou injustiça explícita, não se constituindo em mais uma instância de julgamento.
+Ressalte-se que a revisão criminal não está destinada ao reexame do conjunto probatório, nem serve como nova oportunidade para nova análise das teses já sustentadas e apreciadas nas instâncias inferiores, como almeja o requerente.
+Na realidade, ela se presta a afastar uma decisão contrária às evidências dos autos, a falsidade das provas e pode ser manejada se surgirem novos elementos probatórios que autorizem a inocência do condenado ou a redução da reprimenda.
+A jurisprudência tem admitido a rediscussão de pena quando verificado que o órgão prolator da decisão contrariou o que prevê a legislação penal.
+Assim, é possível a redução da pena em sede de revisão criminal, de forma excepcional, desde que haja constatação de erro técnico ou injustiça na fixação da dosimetria.
+Passo à análise do pleito defensivo.
+O acusado foi julgado e condenado a pena total de 26 (vinte e seis) anos de reclusão, em regime fechado, e ao pagamento de 20 (vinte) dias-multa, no menor valor unitário, pela prática do delito previsto no artigo 121, § 2º, incisos I, IV e VI, e artigo 211, na forma do artigo 69, todos do Código Penal (Processo nº 0142827- 45.2017.8.19.0001).
+Inconformado o sentenciado recorreu. Em segunda instância foi negado provimento ao recurso defensivo sendo mantida, na íntegra, a douta sentença (Anexo 1 - peça 000002 - fl. 11):
+ ..
+"(..) Passo a dosar a pena.
+Quanto ao crime de homicídio 01ª Fase: As circunstâncias judiciais são desfavoráveis. Inicialmente, verifico que as consequências são nefastas. A filha da vítima fatal, Senhora MARIANA, inquirida hoje em Juízo, com as cautelas legais, disse que seu irmão IGOR sente imensamente a falta da mãe e não se recuperou até hoje. Disse que ele tinha apenas 17 (dezessete) anos à época do crime. Relatou que IGOR faz tratamento psicológico e é diabético. A Sra MARIANA, ademais, expressou sua própria tristeza, de forma intensa, informando, ainda, que a mãe deixou um total de 3 (três) filhos jovens. O pai de IGOR, Sr. IRAIR, ex-marido da vítima, por sua vez, igualmente ouvido nesta data em plenário, confirmou que seu filho está traumatizado; quase não come e não sai de casa. A prova indica, pois, que houve severas e drásticas consequências para os filhós da vítima fatal, o que deve ser considerado pelo Estado-Juiz na fixação da pena.
+Na sequência, em tendo os Senhores Jurados reconhecido três qualificadoras, utilizo duas delas nesta fase, como circunstâncias judiciais: motivo, reconhecido pelo Tribunal Popular como torpe e circunstâncias do crime, mediante recurso que dificultou a defesa da vítima.
+A culpabilidade é intensa, superando a média do tipo. Conforme extensa prova oral.
+O laudo de exame de necropsia de fls. 14/16, atesta as múltiplas lesões sofridas pela vítima, a denotar que foi causado sofrimento acima do necessário para alcançar o resultado morte. A constatação se depreende do esquema de lesões de fls. 337, onde se vê que a vítima foi alvejada por disparo de arma no rosto, indicando especial audácia e frieza na conduta delitiva.
+A personalidade e conduta social não lhe beneficiam, pois o Réu não demonstrou qualquer arrependimento pelo atroz feminicídio cometido, tendo, inclusive, tentado criar um ábili, desde o início da persecução penal (representação de fls. 50/58, especialmente fls. 52), o que foi confirmado pela testemunha, hoje inquirida com as cautelas legais, Srª JULIANA. O Réu forjou uma carta de despedida (apreendida às fls. 18), como se tivesse sido escrita pela vítima, a qual o teria abandonado. Como se não bastasse, registrou ocorrência policial na 57ª DP/Nilópolis (fls. 28), comunicando o roubo de veículo, o que não ocorreu.
+Em sendo desfavoráveis as consequências, motivo, circunstâncias, culpabilidade, personalidade e conduta social, fixo a pena-base acima do mínimo legal em 24 (vinte e quatro) anos de reclusão, a qual tomo definitiva diante da ausência de agravantes/atenuantes/causas de aumento ou de diminuição."
+Em segunda instância a douta sentença foi mantida.
+Quanto ao crime previsto no artigo 121, § 2º, incisos I, IV e VI, do Código Penal, verifico que a pena-base foi fixada em 24 (vinte e quatro) anos de reclusão, sob o fundamento de que as consequências, o motivo, circunstâncias, culpabilidade, personalidade e conduta social do apenado são desfavoráveis.
+Concessa maxima venia, apesar do crime em tela ter extrapolado o âmbito de normalidade do tipo penal, tratando-se de homicídio triplamente qualificado praticado contra a companheira, a exasperação da sanção básica, nos termos delineados em primeiro grau, mostrou-se exacerbada, mesmo diante da presente hipótese.
+Entendo que diante das qualificadoras incidentes no caso, considerando as condições judiciais favoráveis do acusado, que é primário e de bons antecedentes, e reconhecendo que o delito extrapolou o âmbito de normalidade previsto no tipo, mostra-se razoável o aumento da pena-base em  (metade), sendo estabelecida a reprimenda em 18 (dezoito) anos de reclusão.
+Na segunda fase, não há circunstâncias agravantes ou atenuantes a serem sopesadas.
+Na terceira fase ausentes causas de aumento ou de diminuição, mantem-se a reprimenda.
+Quanto ao crime do artigo 211 do Código Penal, as penas foram aplicadas da seguinte forma:
+"(..) Quanto ao crime de ocultação de cadáver Considerando o quanto fundamentado acima, em sendo desfavoráveis as consequências, culpabilidade, conduta social e personalidade, fixo a pena-base acima do mínimo legal em 2 (dois) anos de reclusão e 20 (vinte) dias-multa, no mínimo legal, a qual tomo definitiva diante da ausência de agravantes/atenuantes/causas de aumento ou de diminuição."
+A pena-base foi fixada acima do mínimo legal, considerando as circunstâncias judiciais ostentadas pelo acusado e porque o delito não extrapolou o âmbito de normalidade previsto no tipo penal, a pena deve ser aplicada no mínimo legal, ou seja, 01 (um) ano de reclusão e 10 (dez) dias-multa, na menor fração legal.
+Na segunda fase, não há circunstâncias agravantes ou atenuantes a serem sopesadas.
+Na terceira fase, ausentes causas de aumento ou de diminuição.
+Diante do concurso material, a sanção se aquieta em 19 (dezenove) anos de reclusão e 10 (dez) dias-multa, no menor valor unitário.
+O regime deve ser o fechado, considerando o montante da pena aplicada, nos termos do art. 33, § 2º, a, do CP, e artigo 111, da Lei de Execução Penal.
+Revisão julgada procedente para reduzir a pena final dos crimes de homicídio triplamente qualificado e ocultação de cadáver para 19 (dezenove) anos de reclusão, em regime fechado, e 10 (dez) dias-multa, no mínimo valor legal.
+A jurisprudência do Superior Tribunal de Justiça entende não ser cabível rediscutir aspectos ligados aos critérios de fixação da pena em revisão criminal, sobretudo quando há, em tal procedimento, a existência de certa discricionariedade vinculada, exceto nas hipóteses de manifesta contrariedade à lei ou à evidência dos autos.
+Confira-se, a propósito, precedente da Terceira Seção desta Corte em que esse entendimento é reafirmado:
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. PENAL E PROCESSUAL PENAL.ART. 621, I, II e III, DO CÓDIGO DE PROCESSO PENAL - CPP.INADMISSIBILIDADE. ARESTO QUE NÃO ADENTROU AO MÉRITO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+IMPOSSIBILIDADE DE REAVALIAÇÃO DE FATOS E PROVAS. NÃO CONFIGURAÇÃO DE CONTRARIEDADE AO TEXTO DE LEI E À EVIDÊNCIA DOS AUTOS.
+INCOMPETÊNCIA DO JUÍZO. QUESTÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL.
+INEXISTÊNCIA DE NOVAS PROVAS DE INOCÊNCIA OU CIRCUNSTÂNCIA QUE AUTORIZE A DIMINUIÇÃO DA PENA. DOSIMETRIA. FUNDAMENTAÇÃO INEFICIENTE.
+REDISCUSSÃO DE QUESTÕES DE MÉRITO.
+INAPROPRIEDADE DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Quanto à dosimetria, não há fundamentação concreta apta a autorizar o conhecimento do recurso, seja porque o revisionante deixou de argumentar qual seria a violação específica, seja porque não está literalmente dentro das hipóteses descritas nos incisos do art. 621 do Código de Processo Penal. "Embora seja possível rever a dosimetria da pena em revisão criminal, a utilização do pleito revisional é prática excepcional, somente justificada quando houver contrariedade ao texto expresso da lei ou à evidência dos autos" (AgRg no AREsp n. 734.052/MS, QUINTA TURMA, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 16/12/2015).
+5. "A revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido. O que se almeja, no presente caso, é a reapreciação indevida do conjunto probatório, que já foi amplamente analisado pelo Tribunal a quo" (AgRg na RvCr 4.730/CE, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 14/9/2020).
+6. Agravo regimental desprovido.
+(AgRg na RvCr n. 5.599/DF, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 14/5/2021, grifei)
+No caso ora em exame, a Corte estadual desconstituiu o trânsito em julgado da condenação, a fim de diminuir a pena do réu, sem demonstrar que a sentença foi contrária ao texto expresso da lei penal ou à evidência dos autos. Deveras, o órgão colegiado julgou a ação revisional como se fosse uma segunda apelação, ao modificar o quantum da reprimenda fixada com base, tão somente, em um juízo de proporcionalidade - hipótese não autorizadora de acolhimento da revisão criminal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL DE CONDENAÇÃO POR TRÁFICO DE DROGAS. IMPUGNAÇÃO À DOSIMETRIA DA PENA. AUSÊNCIA DE ELEMENTOS NOVOS. MERA REITERAÇÃO DE ARGUMENTOS DO PROCESSO ORIGINÁRIO. CABIMENTO RESTRITO DO PLEITO REVISIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário.
+2. Não se colhe do acórdão recorrido (ou mesmo das razões recursais) a indicação de qualquer elemento novo, apto a reverter as conclusões alcançadas pelo Poder Judiciário quando da condenação do agravante.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.805.996/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/3/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. REDUÇÃO DA PENA PELA APLICAÇÃO DE DELAÇÃO PREMIADA. ART. 621, I, DO CPP. VIA IMPRÓPRIA. NÃO CABIMENTO DA AÇÃO REVISIONAL. MERO REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP.
+Precedentes.
+2. Inclusive no que diz respeito à dosimetria da pena, a revisão criminal tem cabimento restrito, somente se admitindo o exame quando, após a sentença, forem descobertas novas provas de elementos que autorizem a revisão da pena, o que não é a hipótese dos autos.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.704.043/TO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/9/2020, destaquei)
+Concluo, portanto, que o acórdão impugnado violou o art. 621, I, do CPP, motivo pelo qual deve ser restabelecida a pena do ora recorrido nos moldes da condenação transitada em julgado - 26 anos de reclusão, em regime inicial fechado, e 20 dias-multa.
+À vista do exposto, dou provimento ao recurso especial, para restabelecer a pena do recorrido em 26 anos de reclusão, em regime inicial fechado, e 20 dias-multa.
+Publique-se e intimem-se.
