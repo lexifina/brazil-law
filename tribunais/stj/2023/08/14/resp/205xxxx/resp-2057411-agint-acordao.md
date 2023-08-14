@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo CENTRO BRASILEIRO DE PESQUISA EM AVALIAÇÃO E SELEÇÃO E DE PROMOÇÃO DE EVENTOS (CEBRASPE) contra decisão proferida às e-STJ fls. 685/689, em que não conheci do recurso especial ante a sua intempestividade.
+A parte agravante alega, em síntese, que o recurso especial é tempestivo, pois (a) os dias 1º, 02 e 15 de novembro foram feriados nacionais; (b) o feriado do servidor público (28 de outubro) "é comemorado como ponto facultativo em todas as repartições públicas do país, inclusive neste C. STJ" (e-STJ fl. 700); (c) "no ano de 2022, tanto o TRF da 5.ª Região, tribunal de origem destes autos, quanto este C. STJ, transferiram a referida comemoração para o dia 31/11" (e-STJ fl. 701); (d) o feriado local abrangeu tanto o tribunal de origem quanto o tribunal que julgará o recurso, sendo fato notório que dispensa prova; (e) a parte não pode ser prejudicada por erro na informação do sistema eletrônico, tendo o aludido sistema apontado como fim do prazo o dia 18/11/2022; e (f) a tempestividade do recurso especial foi reconhecida pela decisão de admissibilidade.
+Impugnação às e-STJ fls. 717/724, em que a parte adversa pugna pelo não conhecimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INOVAÇÃO RECURSAL. VEDAÇÃO. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE EXPEDIENTE FORENSE. FERIADO LOCAL. NÃO COMPROVAÇÃO. CERTIDÃO DO TRIBUNAL DE ORIGEM. VINCULAÇÃO. INEXISTÊNCIA.
+1. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+2. Segundo a jurisprudência desta Corte Superior, o dia do servidor público é considerado feriado local, impondo-se a comprovação da suspensão do expediente forense no ato da interposição do recurso. Precedentes.
+3. "A decisão de admissibilidade proferida pelo Tribunal local ou, ainda, a certidão de tempestividade expedida por servidor na instância de origem não vinculam esta Corte Superior" (AgInt no AREsp n. 1.831.961/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2022, DJe de 14/10/2022).
+4. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Impende consignar que as teses do agravante - de que o feriado do servidor público (28 de outubro) "é comemorado como ponto facultativo em todas as repartições públicas do país, inclusive neste C. STJ" (e-STJ fl. 700); "no ano de 2022, tanto o TRF da 5.ª Região, tribunal de origem destes autos, quanto este C. STJ, transferiram a referida comemoração para o dia 31/11" (e-STJ fl. 701); o feriado local abrangeu tanto o tribunal de origem quanto o tribunal que julgará o recurso, sendo fato notório que dispensa prova; e a parte não pode ser prejudicada por erro na informação do sistema eletrônico, tendo o aludido sistema apontado como fim do prazo o dia 18/11/2022 - não podem ser analisadas no presente agravo interno.
+Em relação ao ponto, nas razões do apelo nobre, a ora agravante somente alegou que o recurso era tempestivo considerando os feriados dos dias 1º, 02 e 15 de novembro.
+Assim, em nenhum momento a parte tratou do feriado do dia 28 de outubro e das teses relacionadas a ele, nem de suposto erro na informação do sistema eletrônico.
+Esta Corte tem o entendimento de que é defeso examinar em sede de agravo interno argumentos não suscitados oportunamente pelas partes nas razões recursais, dada a inovação recursal e a preclusão consumativa. Nesse sentido, merecem destaque julgados desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Nas razões dos presentes aclaratórios, sustenta-se que a decisão embargada deixou de se manifestar acerca do art. 374, II e III, do CPC, suscitado no agravo interno. O dispositivo de fato não foi analisado na decisão embargada.
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 19/12/2022). (Grifos acrescidos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. DILIGÊNCIAS INFRUTÍFERAS. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INOVAÇÃO DE TESE RECURSAL EM AGRAVO INTERNO. EXAME. IMPOSSIBILIDADE
+1. O Superior Tribunal de Justiça tem entendido que "requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não suspendem nem interrompem o prazo de prescrição intercorrente."
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a interrupção da prescrição demanda o reexame de fatos e provas, o que é vedado no âmbito do recurso especial. Súmula 7/STJ.
+3. Nos termos da jurisprudência desta Corte, "é vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa" (AgInt nos EDcl no REsp n. 1.949.934/MG, relator Ministro Gurgel de Faria, Primeira Turma, DJe 3/10/2022).
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.909.848/PR, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 30/11/2022). (Grifos acrescidos).
+Ademais, como assinalado na jurisprudência transcrita na decisão ora agravada, (a) o feriado do dia 28 de outubro - Dia do Servidor Público - é considerado feriado local, impondo-se a comprovação da suspensão do expediente forense no ato da interposição do recurso (AgInt no AREsp n. 2.017.937/MG, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 09/06/2022 e AgInt no AREsp n. 2.057.713/RJ, rel. Ministro Marco Buzzi, Quarta Turma, DJe de 06/10/2022); e (b) a decisão de admissibilidade proferida pelo Tribunal local ou a certidão de tempestividade expedida por servidor na instância de origem não vincula esta Corte Superior (AgInt no AREsp 1.270.928/SP, rel. Ministro Marco Buzzi, Quarta Turma, DJe de 17/0 8/2018 e (AgInt no AREsp n. 1.831.961/RJ, rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 14/10/2022).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
