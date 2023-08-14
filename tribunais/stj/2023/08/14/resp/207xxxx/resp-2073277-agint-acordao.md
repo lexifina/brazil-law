@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ALVERINDO MENDES contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nesta extensão, negou-lhe provimento.
+Ação: de cobrança, ajuizada por ASSOCIACAO DOS PROPRIETARIOS DE CHACARAS DAS ESTANCIAS TRES LAGOS I, TRES LAGOS II, DO LAGO E MONTE ALEGRE, em desfavor do agravante, por meio da qual objetiva a condenação deste ao pagamento de valores a título de obras/melhorias realizadas em áreas comuns de imóvel pertencente a loteamento.
+Sentença: julgou procedente o pedido, para condenar o agravante ao pagamento de R$ 7.049,96 (sete mil, quarenta e nove reais e noventa e seis centavos).
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos seguinte ementa:
+Ação de cobrança decorrente de contrato de prestação de serviços - Procedência parcial da ação - Decisão fundamentada de forma clara e objetiva, art. 93, IX, da Constituição Federal - Legitimidade passiva do réu consubstanciada na relação contratual com a associação autora - Descabimento de chamamento ao processo de ente público - Inexistência de relação jurídica com as partes ou responsabilidade solidária do Poder Público pelo débito em aberto - Inadimplemento do apelante no regular pagamento das despesas de obras de infraestrutura em loteamento - Obrigação de natureza contratual - Pactuação de decorreu da livre manifestação da vontade das partes - Viabilidade da cobrança e exigibilidade do débito, sob pena de enriquecimento sem causa - Precedentes deste Tribunal de Justiça - Sentença mantida - Recurso não provido (e-STJ fl. 587).
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 12 e 18, V, da Lei 6.766/79; 489, § 1º, IV, e 1.022, I, do CPC/2015; e 166, VI, do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta o agravante que é parte ilegítima para figurar no polo passivo da ação, uma vez que, em se tratando de obras de infraestrutura, a cobrança deveria ser dirigida ao empreendedor (loteador). Aduz que o negócio jurídico eventualmente celebrado com a agravada é nulo, uma vez que firmado com a finalidade de fraudar lei imperativa.
+Decisão monocrática: conheceu parcialmente do recurso especial interposto pela agravante e, nesta extensão, negou-lhe provimento, ante: i) a incidência da Súmula 284/STF quanto à alegada violação do art. 1.022, I, do CPC/2015; ii) a ausência de violação do art. 489, § 1º, IV, do CPC/2015; iii) a incidência da Súmula 211/STJ quanto à alegada violação dos arts. 12 e 18, V, da Lei 6.766/79; e 166, VI, do CC/02; iv) a incidência da Súmula 283/STF; e v) a incidência da Súmula 7/STJ.
+Agravo interno: afirma o agravante que, nos embargos de declaração opostos na origem, indicou expressamente em que consistiu a alegada negativa de prestação jurisdicional. Reitera a ocorrência de violação do art. 489, § 1º, IV, do CPC/2015, dada a ausência de fundamentação quanto à inaplicabilidade do art. 166, VI, do CC/02 à espécie. Insurge-se contra a aplicação da Súmula 211/STJ, sob o argumento de que o requisito do prequestionamento foi devidamente atendido, ainda que de forma ficta. Por fim, afirma que não pretende o reexame de provas, mas tão somente, diante das premissas registradas pelo Tribunal de origem, a análise acerca da violação do art. 166, VI, do CC/02 no caso concreto.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação de cobrança de valores a título de obras realizadas em áreas comuns de imóvel pertencente a loteamento.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A decisão agravada conheceu parcialmente do recurso especial interposto pela agravante e, nesta extensão, negou-lhe provimento, ante: i) a incidência da Súmula 284/STF quanto à alegada violação do art. 1.022, I, do CPC/2015; ii) a ausência de violação do art. 489, § 1º, IV, do CPC/2015; iii) a incidência da Súmula 211/STJ quanto à alegada violação dos arts. 12 e 18, V, da Lei 6.766/79; e 166, VI, do CC/02; iv) a incidência da Súmula 283/STF; e v) a incidência da Súmula 7/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, consistentemente, o fundamento da decisão agravada relativo à aplicabilidade da Súmula 283/STF.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
