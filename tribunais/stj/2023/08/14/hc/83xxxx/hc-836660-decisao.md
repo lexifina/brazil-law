@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão que denegou a ordem na origem.
+Consta dos autos que o paciente foi preso em flagrante em 07/07/2022, juntamente com corréu, custódia convertida em prisão preventiva, pela suposta prática do crime previsto no art. 211 c.c. o 14, II, ambos do CP.
+Impetrado habeas corpus no Tribunal de origem, foi a ordem denegada.
+Neste writ, alega a impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Alega, para tanto, que o paciente foi denunciado apenas pelo crime previsto no art. 211 do CP tentado, cujas penas mínimas e máximas, considerando a redução mínima pela tentativa, são de 08 meses a 02 anos de reclusão, que o paciente já está preso há quase 12 meses e que "em caso de condenação, é provável que a pena aplicada pelo crime tentado, mesmo considerada a reincidência, seja inferior ao tempo em que já se encontra preso nesse momento ou a tanto se aproxime."
+Afirma, outrossim, que o decreto de prisão preventiva contém fundamentação "inidônea e genérica já que não há indicação de elemento comprobatório que demonstre o risco real de que o indiciado representa para a ordem pública, para a garantia da instrução criminal e para a aplicação da lei penal" não estando presentes os requisitos autorizadores da prisão preventiva, sendo aplicáveis as medidas cautelares do artigo 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas informações, manifestou-se o Ministério Público Federal pela prejudicialidade, tendo em vista a perda de objeto do writ.
+Conforme informações prestadas pelo Juízo de primeiro grau, a prisão preventiva do ora paciente foi substituída por medidas cautelares diversas da prisão, in verbis (fl. 163):
+Em 07/07/2023 decisão desse Juízo pronunciando o ora paciente e, na sequencia, foi revogada a sua prisão preventiva com imposição das medidas cautelares diversas conforme decisão de index 490, que seque em anexo.
+Da cópia da decisão de pronúncia, juntada às informações, colhe-se o seguinte trecho (fl. 178):
+Em relação ao acusado VICTOR HUGO GONÇALVES CRUZ, entendo que a prisão preventiva não mais se justifica, na forma dos artigos 312 e 313, ambos do CPP, visto que acusado apenas de praticar delito conexo de tentativa de ocultação de cadáver, cuja pena máxima não ultrapassa 03 anos. Ademais, em que pese possua em sua FAC anotação por roubo, entendo que não guarda correlação com o presente feito, que já encontra-se com a primeira fase do procedimento do Júri encerrada.
+Por essas razões, REVOGO a prisão preventiva de VICTOR HUGO GONÇALVES CRUZ, impondo as seguintes medidas cautelares diversas, na forma do art. 319 do CPP: a) COMPARECIMENTO bimestral em Juízo para justificar suas atividades; b) PROIBIÇÃO de aproximação das testemunhas e familiares da vítima por qualquer meio; c) PROIBIÇÃO de se ausentar da Comarca por período superior a 08 dias sem autorização judicial e d) MANUTENÇÃO do endereço atualizado, devendo comparecer a todos os atos do processo, atualizando o endereço no prazo de 10 dias a partir de sua soltura em Cartório.
+Fica o réu advertido que eventual descumprimento das medidas poderá ensejar sua revogação com decretação de prisão preventiva, na forma do art. 282, § 4 do CPP.
+Desse modo, verifica-se a perda superveniente do objeto do writ, uma vez que a medida nele buscada (revogação da prisão preventiva ou aplicação de medidas cautelares diversas da prisão) foi, posteriormente, alcançada pela concessão pelo Juízo de primeiro grau. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. RECENTE ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. CRIME CONTRA O PATRIMÔNIO. ROUBO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. DECRETO PRISIONAL COM FUNDAMENTAÇÃO INIDÔNEA. AUSÊNCIA DE SITUAÇÃO FÁTICA CONCRETA. PRECEDENTES.
+ ..
+3. Há de ser julgado prejudicado o remédio heroico do primeiro paciente, cujo objeto está relacionado à revogação da prisão preventiva, quando posteriormente, o Juízo de Primeiro Grau concedeu a medida buscada.
+ ..
+5. Habeas corpus não conhecido, por ser substitutivo do recurso cabível. De ofício revogo a prisão preventiva, determinando a expedição de alvará de soltura em favor do segundo paciente, se por outro motivo ele não estiver preso, sem embargo de novo decreto prisional ou de imposição das medidas cautelares previstas no art. 319 do CPP, desde que acompanhado dos fundamentos necessários. (HC n. 248.334/MG, relator Ministro Campos Marques (Desembargador Convocado do TJ/PR), Quinta Turma, julgado em 18/12/2012, DJe de 1/2/2013.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
