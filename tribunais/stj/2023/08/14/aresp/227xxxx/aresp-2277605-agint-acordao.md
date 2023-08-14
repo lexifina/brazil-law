@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+MINISTRA NANCY ANDRIGHI: Trata-se de agravo interno interposto por MARIA LÍGIA LAPA DE CARVALHO contra decisão singular, desta relatoria, que CONHECEU do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHECEU do recurso especial (e-STJ fls. 374/376).
+Não foram opostos embargos de declaração.
+Impugnação às fls. 389/394 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 4º do artigo 1.021 do CPC/2015.
+Ação: declaratória de resolução de contrato por inadimplemento ajuizada pela agravante, na qual alega que celebrou instrumento particular de compromisso de venda e compra de 33 (trinta e três) lotes de imóvel rural com MARCELO JOSÉ SCHAJNOVETZ, tendo este adimplido parcialmente o valor acordado.
+Sentença: julgou improcedente o pedido formulado por MARIA LÍGIA LAPA DE CARVALHO.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa (e-STJ fl. 272):
+APELAÇÃO - Ação Declaratória de Resolução de Contrato por Inadimplemento - Promessa de Compra e Venda de Lotes de Terreno - Propositura por promitente vendedora - Sentença de improcedência - Inconformismo da autora, alegando que restando comprovado seu insucesso na obtenção de recebimento dos valores em ação de cobrança anteriormente ajuizada, se faz necessária a rescisão do Instrumento Particular de Compromisso de Venda e Compra e o consequente retorno das partes ao "status quo ante" - Descabimento - Ainda que se reconheça que a pretensão rescisória veiculada na presente ação seja diversa da pretensão de cobrança veiculada na ação anteriormente ajuizada pela autora, é certo que ambas se referem à mesma relação contratual e estão embasadas na mesma causa de pedir, qual seja, a falta de pagamento integral do preço, o que torna descabida nova discussão sobre o tema - Autora que optou por discutir a relação contratual através da ação da cobrança, obtendo o provimento judicial que postulava, qual seja, a condenação do réu no pagamento da prestação inadimplida, deve prosseguir com as medidas expropriatórias previstas na lei processual para a satisfação de seu crédito, o que, por consequência, também resulta no desfazimento da avença que a autora pretende na presente ação - Recurso desprovido.
+Embargos de declaração: opostos por MARIA LÍGIA LAPA DE CARVALHO, foram rejeitados.
+Recurso especial: alegou violação ao artigo 475 do CC/2002.
+Decisão monocrática: CONHECEU do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHECEU do recurso especial, em razão da incidência das Súmulas n. 7/STJ e, por analogia, 283/STF.
+Agravo interno: limita-se a repisar as alegações do recurso especial e do agravo em recurso especial, ataca apenas o fundamento relativo à aplicação, por analogia, do verbete sumular n. 283/STF, bem como requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESOLUÇÃO DE CONTRATO POR INADIMPLEMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182/STJ E DO ARTIGO 1.021, § 1º, DO CPC/2015. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. CABIMENTO.
+1. Ação declaratória de resolução de contrato por inadimplemento.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015 e da S úmula n. 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.
+VOTO
+MINISTRA NANCY ANDRIGHI (Relatora): Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que o fundamento atinente à incidência da Súmula n. 7/STJ não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC/2015 (correspondentes aos artigos 544, § 4º, I, e 545 do CPC/1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos EAREsp n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão (DJe de 30/11/2018).
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga esta Corte Superior a conhecer de todos os fundamentos do recurso especial.
+Portanto, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial e, ainda, sendo unânime o julgamento, aplica-se multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC/2015.
