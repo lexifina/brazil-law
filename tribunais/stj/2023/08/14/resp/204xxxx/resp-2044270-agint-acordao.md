@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Benedito Gonçalves.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 1100):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. IPTU. ÁREA URBANIZÁVEL OU DE EXPANSÃO URBANA. ZONA DE PRODUÇÃO INDUSTRIAL. AUSÊNCIA DE INFRAESTRUTURA INSTALADA OU PROJETADA. LOTEAMENTO IRREGULAR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+Embargos de declaração rejeitados às fls. 1167-1168.
+O agravante alega que "(..), a 18ª Câmara de Direito Público do Tribunal de Justiça de São Paulo entendeu que o lote de propriedade da recorrida não se enquadra no conceito legal de área urbana, nos termos do § 2º do art. 32 do Código Tributário Nacional, indo de encontro ao entendimento firmado por este C. Superior Tribunal de Justiça, estampado na Súmula 626." (fl. 1176), de modo que o acórdão padeceu de omissão, pois "(..) deixou de considerar a existência de loteamento devidamente aprovado e registrado junto ao Cartório de Registro de Imóveis, inclusive deixou de considerar a existência de matrículas individualizadas para cada lote." (fl. 1177). Opostos embargos de declaração, foram rejeitados, pelo que houve "(..) nítida violação ao art. 1.022 do Código de Processo Civil, (..)." (fl. 1177). Afirma que a manutenção da decisão agravada fere o art. 32, §2º, do CTN e a Súmula 626/STJ e acrescenta que "(..) há entendimento pacífico deste Superior Tribunal de Justiça no sentido de que, havendo lei local integrando o imóvel ao perímetro urbano, a incidência do IPTU não está condicionada aos melhoramentos previstos no § 1º do artigo 32 do CTN." (fl. 1179). Trata da violação legal e do dissídio jurisprudencial.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 32, §2º, DO CTN. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em violação do art. 1022 do CPC/2015 quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, prestando a tutela jurisdicional de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. No tocante ao art. 32, §2º, do CTN, a ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+4. Agravo interno parcialmente conhecido e, na extensão, não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada, que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento porque não evidenciada ofensa ao art. 1022 do CPC/2015 e porque, quanto ao art. 32, §2º, do CTN, incidentes à hipótese as Súmulas 7/STJ e 283/STF.
+No tocante ao art. 1022 do CPC/2015, como assentado na decisão agravada, não há falar na violação legal quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, prestando a tutela jurisdicional de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração, o que se verifica no caso.
+Quanto ao art. 32, §2º, do CTN, a decisão agravada não conheceu do recurso especial porque incidentes no ponto as Súmulas 7/STJ e 283/STF.
+Ocorre que o agravante não impugnou, especificamente, a referida fundamentação, razão pela qual impõe-se a incidência, no ponto, da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, conheço parcialmente do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
