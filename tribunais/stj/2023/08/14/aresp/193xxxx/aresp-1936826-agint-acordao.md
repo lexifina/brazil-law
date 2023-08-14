@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CFR IMOBILIÁRIA LTDA. (CFR), VPF ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA. (VPF), FATOR IMÓVEIS LTDA. (FATOR), VASCO RODRIGUES NETO (VASCO), FERNANDO ANTONIO TORRES RODRIGUES (FERNANDO), FERNANDO ANTONIO TORRES RODRIGUES JUNIOR (JUNIOR) e CELINA MARIA FIÚZA RODRIGUES (CELINA) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado.
+Nas razões do presente inconformismo, defendeu que (1) a negativa de seguimento foi fundamentada no Tema Repetitivo n.º 434 do STJ, e não no enunciado sumular; (2) essa negativa foi retratada por ocasião da interposição do agravo interno.
+Foi apresentada contraminuta (e-STJ, fls. 2069/2081).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL. INADMISSIBILIDADE POR AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC, INCIDÊNCIA DA SÚMULA N.º 7 DO STJ E APLICAÇÃO DO TEMA N.º 434 DO STJ. INTERPOSIÇÃO DE AGRAVO INTERNO CONTESTANDO A ÚLTIMA MATÉRIA. RECONSIDERAÇÃO DO TRIBUNAL ESTADUAL QUANTO À NEGATIVA DE SEGUIMENTO PELO TEMA N.º 434 DO STJ, MAS COM INADMISSÃO PELA APLICAÇÃO DA SÚMULA N.º 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO NO TOCANTE À NOVA ANÁLISE. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo artigo 932, III, do NCPC, não impugna todos os fundamentos da respectiva inadmissibilidade.
+2. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento, embora por outros fundamentos.
+Como emana dos autos, CFR e outros interpuseram recurso especial, que não foi admitido pelo Tribunal estadual em decorrência da ausência de violação do art. 1.022 do CPC, por incidir a Súmula n.º 7 do STJ e por entender que o acórdão estava em conformidade com o Tema n.º 434 do STJ (e-STJ, fls. 1.893/1.902).
+Em face desta decisão, CFR e outros interpuseram agravo interno para rechaçar a incidência do Tema n.º 434 do STJ (e-STJ, fls. 1.940/1.943).
+Também foi interposto agravo em recurso especial para reafirmar a violação dos arts. 489 e 1.022 do CPC e para impugnar a aplicação da Súmula n.º 7 do STJ (e-STJ, fls. 1.947/1.952).
+Ao analisar o agravo interno, o Tribunal estadual reconsiderou em parte sua decisão para afastar a negativa de seguimento do apelo nobre pelo Tema n.º 434, porém inadmitiu o referido recurso quanto à violação do art. 1.026, § 2º, do CPC, sob o argumento de que a questão vinculada ao comportamento procrastinatório do recorrente envolve a rediscussão da matéria fático-probatória, o que inviabiliza a admissão do recurso nesse particular (e-STJ, fl. 1.998).
+Não obstante o Tribunal estadual tenha inadmitido o recurso especial no tocante à alegação de afronta ao art. 1.026, § 2º, do CPC, não houve qualquer recurso da CFR e outros para afastar os argumentos lançados na decisão de inadmissibilidade.
+Nem se diga que a interposição do agravo interno impugnou a referida matéria, pois, apesar de o Tribunal do Rio de Janeiro reconsiderar a decisão para afastar a negativa de seguimento pelo Tema n.º 434 do STJ, inadmitiu o apelo nobre por outros fundamentos que, por óbvio, deveriam ser objeto de aditamento do agravo anterior.
+Tendo em vista que não houve qualquer impugnação quanto à inadmissão do recurso especial na parte em que sustenta a violação do art. 1.026, § 2º, do CPC, sob o prisma da Súmula n.º 7 do STJ, forçoso reconhecer a clara afronta ao princípio da dialeticidade.
+Conforme já decidiu o Superior Tribunal de Justiça:
+(..) À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge. (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Vale lembrar que, segundo o entendimento exarado em voto pelo Ministro LUÍS FELIPE SALOMÃO, ao apreciar os EAREsp n.º 746.775/PR, existem regras tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem, inclusive, conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Também foi consignado pelo Ministro relator, no julgamento dos referidos EAREsp n.º 746.775/PR, que a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao reclamo especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo.
+Nesse sentido, seguem os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. GRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.590.969/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 8/5/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 937.019/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/5/2020)
+Ressalta-se que não basta uma impugnação genérica, superficial, devendo a parte recorrente adotar uma argumentação exauriente e particularizada ao caso sub judice, como bem pontuado na decisão agravada:
+Como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, o que não se verificou no caso vertente.
+Por tais razões, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, sendo de rigor a manutenção do seu não conhecimento.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
