@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Joel Ilan Paciornik.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ANTONIO AMAURY CAVALLINI contra a decisão que não conheceu do presente habeas corpus.
+Em suas razões, o patrono assevera que os fundamentos adotados monocraticamente são equivocados e omissos, "data vênia, haja vista que a impetração trata da: (i) confissão espontânea reconhecida pela r. Sentença, mas pena não foi atenuada, contrariando assim a Sumula 545 deste STJ; (ii) nulidade absoluta por ausência de exame técnico do local do acidente, sobretudo por conta da presença de cocaína no sangue na vítima fatal Paulo Henrique que conduzia a moto, bem como por cerceamento de defesa" (fl. 242).
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. NULIDADE. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. REVISÃO DA DOSIMETRIA DA PENA. FALTA DE INTERESSE PROCESSUAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A decretação de nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo, por aplicação do princípio pas de nullité sans grief.
+2. A Corte estadual ressaltou enfaticamente que a ausência do laudo pericial "não compromete a credibilidade da acusação, notadamente porque a prova oral colhida sob o crivo do contraditório revelou a dinâmica do acidente automobilístico que vitimou fatalmente duas pessoas"  ..  cuidando-se a matéria de inovação inadmitida, n otadamente porque as nulidades devem ser arguidas tão logo sejam verificadas no caso na fase de conhecimento" (fls. 47/48).
+3. Falta interesse processual à defesa, na revisão da dosimetria, porquanto a pena-base foi fixada no mínimo legal, o réu não admitiu a infração penal que lhe foi imputada e, ainda que assim não fosse, a presença da atenuante esbarraria no óbice da Súmula n. 231 do Superior Tribunal de Justiça - STJ.
+4. Agravo regimental parcialmente conhecido e desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Consta dos autos que o Juízo de primeiro grau condenou o agravante a 5 anos e 10 meses de reclusão, inicialmente no regime semiaberto, como incurso no art. 302, § 3º, do Código de Trânsito Brasileiro - CTB (homicídio culposo na direção de veículo automotor), conforme sentença de fls. 57/70.
+Interposta apelação pela defesa, o Tribunal a quo negou provimento ao recurso.
+Transitado em julgado o decreto condenatório, foi ajuizada revisão criminal, indeferida com estes fundamentos (fls. 47/50):
+"Como se sabe, não se reconhece nulidade na ausência de comprovação de prejuízo. No caso, embora o laudo pericial do local dos fatos não tenha sido juntado aos autos, a falta dele não compromete a credibilidade da acusação, notadamente porque a prova oral colhida sob o crivo do contraditório revelou a dinâmica do acidente automobilístico que vitimou fatalmente duas pessoas.
+Além disso, durante a instrução processual, não se aventou a hipótese de irregularidade causada pela ausência do laudo pericial, cuidando-se a matéria de inovação inadmitida, notadamente porque as nulidades devem ser arguidas tão logo sejam verificadas no caso na fase de conhecimento.
+ ..
+Rejeitada a preliminar, a condenação não é contrária à evidência dos autos.
+Com efeito, a despeito da versão apresentada pelo peticionário no sentido de que não se lembrava da dinâmica do acidente (fls. 198/199 da ação penal), a acusação produziu prova segura da responsabilidade penal dele.
+A testemunha Alessandro disse que estava conduzindo sua motocicleta quando viu o réu invadir a pista contrária, tendo colidido frontalmente com a motocicleta ocupada pelas vítimas, que vinha um pouco atrás de onde estava (fls. 194/195 da ação penal).
+O policial militar Paulo Henrique também afirmou que a batida foi causada pelo réu, que, embriagado, invadiu a contramão de direção, colidindo de frente com a moto dos ofendidos (fls. 196/197 da ação penal).
+Nesse contexto, havendo provas robustas de autoria e de materialidade (laudos necroscópicos fls. 73/76 e 77/80 destes autos), a condenação era o desfecho natural da ação penal.
+Sobre eventual consumo de substância entorpecente pela vítima, não custa lembrar que no âmbito do Direito Penal inexiste a figura da compensação de culpas. E não ficou demonstrado ter o evento sido causado por culpa exclusiva da vítima.
+Em última análise, não se pode dizer no caso concreto que decisão apoiada em depoimentos de uma testemunha presencial e de um policial que esteve no palco dos acontecimentos seja uma decisão contrária à evidência dos autos, A pena foi corretamente dosada.
+A pena-base foi fixada no mínimo legal (cinco anos de reclusão e dois meses de suspensão para dirigir veículo automotor). Não há que se falar em confissão, pois o réu não admitiu a prática do crime. E, ainda que assim não fosse, a presença de atenuante não permite a redução da pena abaixo do mínimo legal. Reconhecido o concurso formal (duas vítimas fatais), a reprimenda foi elevada em um sexto, totalizando cinco anos e dez meses de reclusão e dois meses e dez dias de suspensão do direito de dirigir."
+A jurisprudência das Cortes Superiores possuem o entendimento de que, tanto na nulidade relativa quanto na absoluta, é imprescindível a demonstração de efetivo prejuízo, em observância ao princípio pas de nullité sans grief. Porém, no caso concreto, a defesa não cumpriu com essa obrigação, nem mesmo na origem.
+Quanto ao tema, trago à colação os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E DENUNCIAÇÃO CALUNIOSA. CONDENAÇÃO. ALEGAÇÃO DEFENSIVA DE OFENSA À SÚMULA VINCULANTE 14 DO STF. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO DE DE ACESSO À MÍDIA DE INTERCEPTAÇÃO TELEFÔNICA. ALEGADA NULIDADE. INEXISTÊNCIA. ART. 563 DO CPP. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. PRINCÍPIO DO PAS DE NULLITÉ SANS GRIEF. PRETENSA NULIDADE OCORRIDA NA INSTRUÇÃO CRIMINAL. ARGUIÇÃO ATÉ AS ALEGAÇÕES FINAIS SOB PENA DE PRECLUSÃO. ART. 571, II, DO CPP. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA PELA JURISPRUDÊNCIA. AGRAVO DESPROVIDO.
+1. Em relação à alegação de ofensa à Súmula vinculante n. 14, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. Na hipótese, em que pese as mídias não estarem anexadas aos autos, a defesa não requereu a sua juntada durante a instrução da ação, o fazendo apenas por ocasião do julgamento da sessão plenária.
+3. O reconhecimento de nulidades no curso do processo penal, seja absoluta ou relativa, reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief).
+4. Assim, razão não assiste à defesa, na medida em que conforme o art. 571, II, do CPP, eventual nulidade ocorrida até o encerramento da fase de instrução deve ser arguída por ocasião das alegações finais, sob pena de preclusão, com a imprescindível demonstração do efetivo prejuízo suportado pela parte, o que inocorreu nos autos, na medida em que havia disponibilidade da íntegra das transcrições e que o acusado havia confessado a prática criminosa.
+5. Cumpre registrar que o prejuízo não pode ser presumido em razão apenas da prolação de sentença condenatória, mas deve ser demonstrado de modo efetivo.
+6. Por fim, o atendimento ao pleito defensivo resultaria em implícita aceitação da chamada "nulidade de algibeira" - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura. Ressalta-se, a propósito, que tal atitude não encontra ressonância no sistema jurídico vigente, pautado no princípio da boa-fé processual, que exige lealdade de todos os agentes processuais, 7. Agravo regimental desprovido.
+(AgRg no HC n. 710.305/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO ATIVA. CRIME FORMAL. EVENTUAIS IRREGULARIDADES NO INQUÉRITO POLICIAL. AUSÊNCIA DE CONTAMINAÇÃO DA AÇÃO PENAL. INFORMAÇÃO SOBRE O DIREITO DE PERMANECER EM SILÊNCIO. NULIDADE RELATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Supostas irregularidades ocorridas na fase de inquérito policial não têm o condão de contaminar a ação penal.
+2. Eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo, o que não ocorreu no presente caso.
+3. O delito de corrupção ativa, por se tratar de crime formal, prescinde da efetiva obtenção da indevida vantagem para sua consumação.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 703.604/PE, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 13/5/2022).
+Em relação à tese subsidiária, falece interesse processual à defesa, porquanto nos termos ressaltados pelo Tribunal de origem, "a pena-base foi fixada no mínimo legal  ..  o réu não admitiu a prática do crime. E, ainda que assim não fosse, a presença de atenuante não permite a redução da pena abaixo do mínimo legal" (fls. 49/50).
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, vo to pelo parcial conhecimento e, na parte conhecida, pelo desprovimento do agravo regimental.
