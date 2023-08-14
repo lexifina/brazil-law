@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Luiz Cláudio Serra Chaves contra decisão de minha relatoria (fls. 590/592) que negou provimento ao seu agravo em recurso especial por força da inexistência de comprovação do dissídio jurisprudencial.
+Em suas razões, a parte agravante argumenta, em suma, que o "referido acórdão determinou a aplicação subsidiária da Decreto-Lei n.5.452/1943 (Consolidação das Leis do Trabalho), com relação ao adicional de insalubridade, subentende-se a incidência implícita dos artigos que tratam do referido direito" (fl. 597).
+Requer, ao final, o provimento deste agravo interno e, por conseguinte, do recurso especial anteriormente interposto (fl. 598).
+Impugnação apresentada às fls. 603/606.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL E SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADICIONAL DE INSALUBRIDADE. DISSÍDIO PRETORIANO NÃO COMPROVADO. SÚMULA 284/STF. RECURSO DESPROVIDO.
+1. Conforme asseverado na decisão agravada, a parte alegou a existência de divergência jurisprudencial sobre a aplicação de artigos de lei que não foram mencionados nos julgados que apontou.
+2. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a alegada dissensão, o que, reitera-se, não ocorreu, eis que a recorrente apontou acórdãos que em nada se manifestaram acerca da aplicação dos específicos arts. 189 e 190 da CLT, sendo obviamente impossível, portanto, afirmar que os Tribunais estariam atribuindo aos mesmos textos legais interpretação diversa. Incide, logo, o teor da Súmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Conforme asseverado na decisão agravada, a parte alegou a existência de divergência jurisprudencial sobre a aplicação de artigos de lei que não foram mencionados nos julgados que apontou.
+Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta dissensão, o que, reitera-se, não ocorreu, eis que a recorrente apontou acórdãos que em nada se manifestaram acerca da aplicação dos específicos arts. 189 e 190 da CLT (fls. 351/354), sendo obviamente impossível, portanto, afirmar que os Tribunais estariam atribuindo aos mesmos textos legais interpretação diversa.
+Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgInt no AREsp 1742361/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 3/3/2021; AgInt no REsp 1791633/CE, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 4/3/2021; AgInt no AREsp 1650251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/9/2020.
+Ainda nesse norte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. LEGISLAÇÃO LOCAL. EXAME. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+ ..
+4. Nos termos do art. 85, § 11, do CPC/2015, o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+5. Hipótese em que a majoração dos honorários na origem para 12% sobre o valor da causa não se mostra desarrazoada.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+7. Ausente o cotejo analítico, não há o cumprimento dos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.902.013/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1.Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2.A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3.A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência, pois, da Súmula 284/STF.
+4.Agravo interno não provido.
+(AgInt no AREsp n. 1.905.144/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL CIVIL DO DISTRITO FEDERAL. DEMISSÃO. ABSOLVIÇÃO PELO TRIBUNAL DO JÚRI DA ACUSAÇÃO DE HOMICÍDIO CONTRA A ESPOSA. INDEPENDÊNCIA ENTRE AS ESFERAS. CRIME COMETIDO FORA DAS FUNÇÕES POLICIAIS DO AUTOR. UTILIZAÇÃO DE ARMA DA CORPORAÇÃO NA PRÁTICA DELITIVA. LEI 4.878/1965. LEI LOCAL. SÚMULA 280/STF. MÉRITO ADMINISTRATIVO. EXAME PELO PODER JUDICIÁRIO. IMPOSSIBILIDADE. ART. 12 DA LEI DE IMPROBIDADE ADMINISTRATIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+ ..
+5. A tese de nulidade do ato administrativo disciplinar não foi acompanhada da indicação do dispositivo de lei federal violado, o que caracteriza deficiência de fundamentação, nos termos da Súmula 284/STF.
+6. "Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09)"(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 17/3/2014).
+7. "A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica"(AgInt no REsp 1.903.827/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/6/2021).
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.731.056/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+Além disso, o acórdão oriundo do Tribunal de origem aplicou expressamente outro diploma federal, a Lei n. 8.112/90 (fl. 352), o que afasta a demonstração de divergência pretoriana.
+A afirmação de que o STJ "exige que haja indicação expressa do dispositivo legal a que se teria dado interpretação divergente no recurso especial interposto, como ocorreu no caso em exame, e não no acórdão divergente" (fl. 598) não possui nenhum substrato lógico-jurídico, uma vez que a divergência veiculada no recurso especial deve necessariamente referir-se ao que há no acórdão questionado.
+Não fosse bastante, convém anotar que inclusive logo o primeiro precedente apontado pela parte (fl. 598) categoricamente aduz que "deixou a agravante, contudo, de explicitar, no bojo da petição recursal, qual o dispositivo legal que teria recebido interpretação divergente nos acórdãos trazidos à colação, circunstância que inviabiliza o conhecimento da insurgência, ante a aplicação do óbice da Súmula 284/STF" (AgInt no AREsp n. 2.159.249/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022, grifou-se).
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
