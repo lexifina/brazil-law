@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S.A. contra decisão monocrática desta relatoria que conheceu do agravo para negar provimento ao recurso especial, assim ementada (e-STJ, fl. 1.000):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1. 022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante, em suas razões (e-STJ, fls. 1.007-1.013), sustenta que "é consabido que em ações da espécie (EREsp n. 1.319.232/DF) uma vez apurado o indébito do valor principal, são devidos apenas a correção monetária e os juros moratórios legais, sendo completamente indevidos os juros remuneratórios (ainda mais capitalizados), sob pena de transformar o mutuário em Banco" (e-STJ, fl. 1.012).
+Alega a aplicação do Tema 968/STJ, pois é descabida "a repetição de indébito com os mesmos encargos do contrato, forte no entendimento de que tal cobrança na repetição de indébito - por parte das instituições financeiras - decorrem de sua inserção no sistema financeiro nacional, com regramentos específicos para cada operação financeira e não podem ser carreadas aos particulares" (e-STJ, fl. 1.012).
+Foi apresentada impugnação (e-STJ, fls. 1.022-1.033), pleiteando a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022, do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos do agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o Tribunal estadual resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Destaque-se, nesse sentido, o seguinte trecho (e-STJ, fls. 1.001 - sem destaque no original):
+O agravante não trouxe dados e provas que indiquem, de fato, que o valor final apontado é dissonante com aqueles parâmetros fornecidos pelo v. acórdão.
+Aliás, o recorrente insiste na existência de equívoco nos cálculos apresentados, repetindo as mesmas argumentações já rebatidas e bem esclarecidas pela perita em duas oportunidades.
+Conforme se vê do laudo complementar, a perita esclareceu e ratificou o laudo: "chegamos ao saldo credor de $50.485.003,19 em dez/90, observando substituição do percentual de 84,32% por 41,42%, a evolução dos valores e os pagamentos efetuados, inclusive às amortizações da lei Federal 8,088/90, mas recalculados os juros no percentual de 12% ao ano, e após utilizamos os índices Tabela Prática do Tribunal de Justiça".
+Não se olvida que "Em sede de liquidação de sentença, somente é cabível a retificação da conta se constatada a ocorrência de erro material ou desrespeito ao comando expresso na sentença, sob pena de ofensa à coisa julgada" (STJ-RT 758/174)", contudo, não é este o caso dos autos.
+Com efeito, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tute la jurisdicional.
+Isso porque ficou demonstrado nos autos que o laudo pericial simplesmente aplicou correção monetária, juros de mora de forma simples e juros remuneratórios, estes últimos capitalizados conforme ordenado pela decisão condenatória.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito do ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Por fim, não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
