@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno manejado por ORTOTECH S.A. contra decisão de minha lavra, proferida às e-STJ fls. 372/375, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, aplicando a Súmula 83 do STJ.
+Alega a agravante, em resumo, que houve a devida demonstração da violação dos arts. 489, IV e VI, e 1.022, II, do CPC/2015, pois, apesar da oposição de embargos de declaração contra o acórdão regional, não houve pronunciamento acerca dos argumentos apontados para justificar a condenação do ente público ao pagamento de honorários advocatícios no caso.
+Sustenta, ainda, que o óbice sumular imposto não se mostra adequado, tendo em vista a existência de diversos julgados no sentido do "cabimento da condenação da parte exequente aos ônus de sucumbência em execução fiscal extinta mediante exceção de pré-executividade não resistida" (e-STJ fl. 394).
+Sem impugnação (certidão de e-STJ fl. 404).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. FAZENDA NACIONAL. RECONHECIMENTO DO PEDIDO. ISENÇÃO.
+1. Não se configura a nulidade do acórdão regional por negativa de prestação jurisdicional  quando  o Tribunal  de  origem  se  manifesta  de  modo  fundamentado  acerca  das  questões que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta nos  autos,  porquanto  julgamento  desfavorável  ao  interesse  da  parte  não  se confunde  com  negativa  ou  ausência  de  prestação  jurisdicional.
+2. O Superior Tribunal de Justiça firmou a orientação de que a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002.
+3. Hipótese em que o ente fazendário federal reconheceu expressamente a ocorrência de prescrição intercorrente suscitada na exceção de pré-executividade, o que impossibilita a fixação de verbas sucumbenciais em seu desfavor.
+4. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Conforme assentado na decisão agravada, o recurso especial origina-se de execução fiscal extinta em razão do reconhecimento da prescrição intercorrente pela Fazenda Nacional, com a fixação de honorários advocatícios em desfavor da exequente.
+O ente fazendário interpôs apelação, a qual foi provida pelo Tribunal Regional Federal da 4ª Região para reconhecer a isenção do pagamento da verba sucumbencial, com amparo no art. 19, § 1º, da Lei n. 10.522/2002.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 213/214):
+A União (Fazenda Nacional) interpõe recurso de apelação contra a sentença que extinguiu a execução fiscal de origem, reconhecida a prescrição intercorrente, condenando a parte exequente a pagamento honorários de advogado de sucumbência de dez por cento do valor da causa.
+(..)
+Dispõe a L 10.522/2002, no que interessa à questão submetida a este julgamento:
+Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional autorizada a não contestar, a não interpor recurso ou a desistir do que tenha sido interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar sobre: (Redação da Lei nº 11.033, de 2004)
+§ 1º. Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente: (Redação da Lei nº 12.844, de2013)
+I - reconhecer a procedência do pedido, quando citado para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, hipóteses em que não haverá condenação em honorários; ou (Incluído pela Lei nº 12.844, de 2013)
+ ..
+A isenção do pagamento de honorários de advogado é aplicável quando houver o reconhecimento integral da procedência do pedido sem resistência à pretensão da parte adversa:
+(..)
+A União expressamente reconheceu a procedência do pedido(e3d4p4), pelo que não se lhe pode impor o pagamento de honorários de advogado de sucumbência, por expressa previsão legal (inc. I do § 1º do art. 19 da L 10.522/2002).
+O recurso da União comporta provimento para afastar a condenação da União a pagar honorários de advogado de sucumbência.
+Conforme registrado no julgado ora combatido, não se constata a alegada nulidade do acórdão de origem por negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, verifica-se que o tribunal regional foi expresso ao ratificar o seu entendimento pelo afastamento da condenação da Fazenda Nacional ao pagamento de honorários advocatícios em razão do reconhecimento expresso da procedência da exceção de pré-executividade, ante a ocorrência da prescrição intercorrente, que, por sua vez, justificou a extinção da execução fiscal.
+Desse modo, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional, sendo certo que, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+No mais, cumpre salientar que a decisão agravada não merece reparos também no tocante à aplicação da Súmula 83 do STJ.
+No caso dos autos, o Tribunal de origem registrou que a Fazenda Nacional reconheceu a procedência do pedido quanto à ocorrência de prescrição intercorrente, ensejando o acolhimento da exceção de pré-executividade e a consequente extinção do feito executivo, motivo por que afastou a condenação ao pagamento de honorários advocatícios, com base no art. 19, § 1º, I, da Lei n. 10.522/2002.
+Nesse panorama, resulta claro que o acórdão regional está em sintonia com a orientação jurisprudencial desta Corte Superior, de que extinção da execução fiscal decorrente do reconhecimento da prescrição intercorrente (art. 40 da LEF) não justifica a condenação da exequente em honorários advocatícios, salvo se ela manifestar resistência a essa pretensão, sendo certo que o reconhecimento expresso do pedido também tem o condão de afastar a fixação de verba honorária em desfavor da Fazenda Nacional, de acordo com a isenção prevista no inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013.
+A esse respeito, vide:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. APLICAÇÃO DO ART. 19, § 1º, DA LEI 10.522/2002 APÓS A ENTRADA EM VIGOR DA LEI 12.844/2013. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE RESISTÊNCIA. CONDENAÇÃO EM HONORÁRIOS. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento consolidado do STJ é o de que, de acordo com a atual redação do art. 19, § 1º, I, da Lei 10.522/2002, "a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhece a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei 10.522/2002" (AgInt no REsp n. 1.977.387/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022; e AgInt no AgInt no AREsp n. 886.145/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/11/2018, DJe de 14/11/2018).
+2. É firme nesta Corte a orientação de que "o reconhecimento da prescrição intercorrente não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente que não resistiu ao pedido de extinção da execução fiscal" (AgInt no AgInt no AREsp n. 1.958.399/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 14/6/2022; e AgInt no AgInt nos EDcl no REsp n. 1.849.431/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/3/2021, DJe de 17/3/2021).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.191.504/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FAZENDA NACIONAL. RECONHECIMENTO DO PEDIDO. ISENÇÃO. LEI ESPECIAL SOBRE A LEI GERAL. PREVALÊNCIA.
+1.Inexiste violação do art. 489 do CPC/2015, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Superior Tribunal de Justiça firmou a orientação de que, "de acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 06/11/2018, DJe 14/11/2018).
+3. A Lei n. 10.522/2002 é especial quando versa sobre dispensa da condenação da Fazenda Nacional ao pagamento de honorários advocatícios, de modo que não deve ser observada, nas hipóteses ali referidas, a regra geral de fixação dessa verba em desfavor da Fazenda Pública, de que cuida o art. 85 do CPC/2015.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.915.981/SP, de minha relatoria, Primeira Turma, julgado em 4/10/2021, DJe de 19/10/2021.)
+TRIBUTÁRIO E PROCESSUAL CIIVL. AGRAVO INTERNO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. EXTINÇÃO DO FEITO. RECONHECIMENTO PELA FAZENDA. CONDENAÇÃO EM HONORÁRIOS DESCABIDA. ATUAL REDAÇÃO DO ART. 19, § 1º, DA LEI 10.522/2002. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Conforme consignado anteriormente, não houve ofensa aos arts.
+489, 1.013 e 1.022 do CPC/2015, pois o Tribunal de origem fundamentadamente afastou a condenação da recorrida em honorários em razão do princípio da causalidade e das peculiaridades do caso concreto (fls. 562-564, e-STJ).
+2. A sentença foi exarada quando já estava em vigor a norma do art. 19, § 1º, da Lei 10.522/2002, com a redação dada pela Lei 12.844/2013. O Tribunal a quo consignou no acórdão que, na exceção de pré-executividade, "a União prontamente reconheceu a consumação da prescrição", ademais "não existem notícias de que o Fisco tenha oferecido qualquer resistência, inclusive na via extrajudicial" (fl. 563, e-STJ).
+3. "Com o advento da Lei n. 12.844/2013, prevalece o entendimento de que "a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002."" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe em 25/5/2016).
+4. Tal fundamento é suficiente, por si só, para manter o acórdão intacto, sendo despicienda a averiguação das demais teses.
+5. Rever a premissa processual em que se apoiou a Corte regional é inviável ante a Súmula 7/STJ.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 1.850.404/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/10/2020, DJe de 12/11/2020.)
+Em atenção às alegações da agravante, vale ressaltar que os julgados transcritos nas razões de agravo interno não tratam das particularidades fáticas dos autos, pois nenhum deles explicita se houve o reconhecimento expresso da procedência da exceção de pré-executividade pela Fazenda Nacional, ante a ocorrência de prescrição intercorrente, como se verifica neste caso.
+Além disso, alguns desses precedentes não são contemporâneos ou supervenientes àqueles referidos no julgado ora impugnado (2015 e 2016) e, por isso, não se prestam a afastar a aplicação da Súmula 83 do STJ.
+Assim, deve ser mantida a decisão agravada.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
