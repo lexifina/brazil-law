@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. FASE DE CUMPRIMENTO DE SENTENÇA.
+CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. A JUSTIÇA ESTADUAL É COMPETENTE PARA PROCESSAR O CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA PROFERIDA NA AAÇÃO CIVIL PÚBLICA 94.0008514-1/DF. MÉRITO RECURSAL. A DECISÃO QUE JULGOU PROCEDENTE O RECURSO ESPECIAL NÚMERO 1.319.232/DF NA AÇÃO CÍVEL PÚBLICA Nº. 94.8514-1 - QUE FORMOU O TÍTULO EXECUTIVO EM CUMPRIMENTO - PREVIU DEVIDO O PAGAMENTO DAS DIFERENÇAS APURADAS ENTRE O IPC DE MARÇO DE 1990 (84,32%) E O BTN FIXADO EM IDÊNTICO PERÍODO (41,28%), CORRIGINDO-SE MONETARIAMENTE OS VALORES A CONTAR DO PAGAMENTO A MAIOR PELOS ÍNDICES APLICÁVEIS AOS DÉBITOS JUDICIAIS, ACRESCIDOS DE JUROS DE MORA DE 0,5% AO MÊS ATÉ A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002 (11/01/2003), QUANDO PASSARÃO PARA 1% AO MÊS, NOS TERMOS DO ARTIGO 406 DO REGRAMENTO EM VIGOR. LIQUIDAÇÃO. COM O JULGAMENTO DO RECURSO ESPECIAL 1.247.150/PR, JULGADO PELA SISTEMÁTICA DOS RECURSOS REPETITIVOS, O SUPERIOR TRIBUNAL DE JUSTIÇA SEDIMENTOU O ENTENDIMENTO DE QUE A SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA NÃO SE REVESTE DE LIQUIDEZ NECESSÁRIA AO CUMPRIMENTO ESPONTÂNEO DO COMANDO JUDICIAL. CASO DOS AUTOS EM QUE A APURAÇÃO DO VALOR DEVIDO NÃO SE REVELA POSSÍVEL A PARTIR DE SIMPLES CÁLCULO ARITMÉTICO. NECESSIDADE DE LIQUIDAÇÃO. DECISÃO MODIFICADA NO PONTO. IMPUGNAÇÃO À GRATUIDADE JUDICIÁRIA. ÔNUS DA PROVA QUE INCUMBE AO IMPUGNANTE. SUFICIÊNCIA FINANCEIRA NÃO DEMONSTRADA NA HIPÓTESE.
+UNÂNIME. DERAM PARCIAL PROVIMENTO AO RECURSO" (e-STJ fl. 147).
+Os embargos de declaração opostos por ambas as partes foram rejeitados (e-STJ fls. 178/182).
+No especial (e-STJ fls. 192/219), o recorrente aponta a violação dos artigos 43, 130, 131, 132, 509, II, 511, 771, 778, § 1º, IV, e 1.022 do Código de Processo Civil.
+Aduz que houve negativa de prestação jurisdicional por omissão quanto à necessidade de chamamento ao processo do BACEN e da União Federal e, por consequência, o deslocamento da competência para processar o feito para a Justiça Federal.
+Sustenta a possibilidade de requerer o chamamento ao processo dos demais devedores solidários, visto que figuraram na fase de conhecimento, não havendo óbice para que integrem o presente cumprimento de sentença coletiva.
+Defende que a solidariedade foi estabelecida no julgamento do REsp 1.319.232/DF.
+Assinala a incompetência da Justiça estadual para o processamento do feito.
+Ao final, requer o provimento do recurso.
+A parte contrária não ofereceu contrarrazões (e-STJ fl. 227).
+O recurso foi inadmitido na origem sob os seguintes fundamentos:
+(i) ausência de deficiência na prestação jurisdicional; e
+(ii) aplicação do Tema nº 315, da gestão por temas de repercussão geral, do Superior Tribunal de Justiça, quanto à competência da Justiça Comum para processar e julgar o cumprimento individual de sentença coletiva.
+O recorrente interpôs agravo interno, ao qual foi negado provimento (e-STJ fls. 294/299).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, conforme se extrai do seguinte trecho do voto condutor do acórdão:
+"(..)
+Relativamente à competência para o processamento do feito necessário ressaltar que o critério que define a atuação da Justiça Federal tem por base a pessoa envolvida. Na situação em analise a ação foi proposta apenas em face de sociedade de economia mista inexistindo outra pessoa jurídica no polo passivo que atraia, portanto, a competência da Justiça Federal. Em complemento, a Súmula 508 do Supremo Tribunal Federal prevê que "compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A". Nesse âmbito, tratando-se de cumprimento individual de sentença coletiva, decidida perante a Justiça Federal, quando a execução foi movida contra pessoa jurídica que não está sujeita à jurisdição federal, competente é a Justiça Estadual para seu julgamento" (e-STJ fl. 140).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Quanto aos artigos 771 e 778, § 1º, IV, do CPC, a deficiência na fundamentação recursal restou evidenciada, na medida em que o recorrente, apesar de indicar os artigos como malferidos, não especifica de que forma eles teriam sido violados pelo aresto recorrido.
+Incide ao caso, portanto, por analogia, a Súmula nº 284/STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No tocante à competência da Justiça estadual para o julgamento da execução individual de sentença coletiva cuja demanda foi dirigida exclusivamente em face do Banco do Brasil S.A. - sociedade de economia mista, o acórdão combatido está alinhado ao entendimento desta Corte Superior, atraindo a incidência da Súmula nº 83/STJ.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. SUSPENSÃO DO PROCESSO. AFASTAMENTO. VIOLAÇÃO AO ART 1.022 DO NCPC. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O JULGAMENTO DA EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DEMANDA DIRIGIDA EXCLUSIVAMENTE EM FACE DO BANCO DO BRASIL S/A. CHAMAMENTO AO PROCESSO. DESCABIMENTO. OBRIGAÇÃO SOLIDÁRIA PASSIVA. CREDOR PODE REQUERER O CUMPRIMENTO DA PRESTAÇÃO DE QUALQUER DOS DEVEDORES. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que compete à Justiça Estadual o processamento do feito ajuizado em face de sociedade de economia mista e, ainda, a possibilidade de o credor escolher cobrar a condenação de quaisquer dos devedores solidários.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp 1.898.289/RS, Rel.Min. Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe 17/12/2021.)
+Ademais, o Tribunal de origem afastou o chamamento ao processo da União e do Banco Central, não obstante também condenados em sentença coletiva, sob o argumento de que, em obrigação solidária passiva, o credor pode requerer o cumprimento da prestação de qualquer dos devedores. Tal conclusão também está em conformidade com o entendimento desta Corte Superior.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido" (AgInt no AREsp 1.309.643/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 29/04/2019, DJe 02/05/2019.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do artigo 85, § 11, do Código de Processo Civil, considerando que o acórdão recorrido é proveniente de julgamento de agravo de instrumento sem o arbitramento de honorários advocatícios
+Publique-se.
+Intimem-se.
