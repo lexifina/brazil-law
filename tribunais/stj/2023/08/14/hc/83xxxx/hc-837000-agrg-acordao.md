@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Elifio Araujo dos Santos contra a decisão às fls. 402/404, na qual o Vice-Presidente, no exercício da Presidência, Ministro Og Fernandes, indeferiu liminarmente o habeas corpus impetrado em seu favor, diante do óbice imposto pela Súmula 691/STF e por não ter vislumbrado, na hipótese, a configuração de ilegalidade manifesta ou de abuso de poder.
+Reiterando os argumentos lançados na inicial da impetração, alega a defesa, em síntese, que o remédio heroico impetrado perante este sodalício, somente tem por objetivo, ante o princípio da cautelaridade, por em compasso de espera o processo originário, até que a corte paulista se manifeste acerca do habeas corpus impetrado (fl. 413).
+Sustenta, ademais, que se temos uma prisão em flagrante oriunda de um mandado de busca e apreensão, é mais do que natural que o processo aguarde a manifestação do Tribunal de Justiça paulista acerca do ponto controverso em debate; isso porque, trata-se de uma ação penal que está intrinsecamente ligada a esse meio de prova (fls. 413/414).
+Diante desse cenário, sustenta ser possível a superação do óbice previsto na Súmula 691/STF.
+Ao final, requer seja reconsiderada a decisão agravada ou seja o recurso submetido à apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO. DECISÃO GENÉRICA. INDEFERIMENTO LIMINAR DA INICIAL. INCIDÊNCIA DA SÚMULA 691/STF. PRETENSÃO DE SOBRESTAMENTO DO PROCESSO ORIGINÁRIO ATÉ JULGAMENTO DO PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA.
+1. A teor do disposto no enunciado da Súmula 691/STF, o Superior Tribunal de Justiça firmou compreensão de não caber habeas corpus contra decisão que denega liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade.
+2. No writ prévio, o Desembargador relator, considerando as peculiaridades do caso concreto, indeferiu a pretensão liminar. Esta Corte Superior vem entendendo perfeitamente aplicável, em casos tais, o entendimento sumular antes referido, considerando a natureza precária do ato apontado como coator, proferido em sede mandamental.
+3. Agravo regimental improvido .
+VOTO
+Em que pesem as alegações do agravante, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Na hipótese, não enxergo excepcionalidade apta a superar o óbice da Súmula 69/STF. Verifica-se que a decisão que indeferiu o pedido urgente não ostenta ilegalidade que justifique a manifestação antecipada desta Corte Superior.
+Caberá ao Tribunal a quo analisar, no momento oportuno, após o exame das informações a serem prestadas pelo Magistrado de primeiro grau, se efetivamente existe a possibilidade de acolhimento da pretensão da defesa.
+Ao menos por ora, em princípio, não cabe a intervenção imediata e prematura desta Corte Superior, sobretudo porque o Desembargador Relator ponderou, ao indeferir a tutela de urgência, com a devida atenção e cuidado, no que pertine à autorização para a busca e apreensão, que após receber denúncias anônimas dando conta da prática de tráfico de drogas no local, a autoridade policial, por seus agentes, efetuou diligências prévias que indicaram a presença de indícios de possível tráfico de drogas na residência do paciente. Tais fatos teria subsidiado o oferecimento de representação junto à autoridade judiciária para a expedição do mandado de busca e apreensão no imóvel do paciente  ..  Afinal, a ordem de busca teria sido subsidiada por investigações preliminares que confirmaram as notícias trazidas pela denúncia anônima (fl. 24).
+Frente a esse cenário, não diviso motivação suficiente para amparar o pleito regimental, sendo que, o pronunciamento do Superior Tribunal de Justiça, in casu, evidenciaria indevida supressão de instância, dada a natureza precária do ato apontado como coator proferido por Desembargador do Tribunal local, que examinará com maior profundidade a matéria ali arguida, por ocasião do julgamento de mérito.
+Ante o ex posto, nego provimento ao agravo regimental.
