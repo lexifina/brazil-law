@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O  SENHOR  MINISTRO  SÉRGIO  KUKINA:  Trata-se  de  embargos  de  declaração  opostos  por  Equatorial Goiás Distribuidora de Energia S/A contra  acórdão  da  Eg.  Primeira  Turma,  que  negou  provimento  a  seu  agravo  interno,  nos  termos  da  seguinte  ementa  (fl.  1.872):
+TRIBUTÁRIO. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO COM FUNDAMENTAÇÃO SUFICIENTE. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DA CONCLUSÃO DO TRIBUNAL A QUO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando a controvérsia posta nos autos com coerência, clareza e devida fundamentação.
+2. A Corte de origem reconheceu que a ora agravante foi quem deu causa ao manejo da própria reconvenção. Eventual alteração da conclusão do Tribunal a quo ensejaria o reexame fático-probatório dos autos, o que esbarra no óbice da Súmula 7/STJ. Precedente.
+3. Na espécie, o art. 85, §10, do CPC, apontado como violado, não contém comando capaz de, por si só, sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+Sustenta a embargante que "o acórdão embargado possui vício de omissão, visto que não consta análise da tese de violação ao inc. 93, IX da Constituição Federal" (fl. 1.886).
+Aberta  vista  à  parte  embargada, foi apresentada impugnação (fls. 1.921/1927).
+É  O  RELATÓRIO.
+EMENTA
+TRIBUTÁRIO.  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO .  INEXISTÊNCIA  DOS  VÍCIOS  DO  ART.  1.022  DO  CPC.  REDISCUSSÃO  DE  QUESTÕES  DECIDIDAS.  IMPOSSIBILIDADE.
+1.  De  acordo  com  a  norma  prevista  no  art.  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  erro  material  na  decisão  embargada.
+2.  No  caso,  não  se  verifica  a  existência  de  nenhum  dos  vícios  em questão,  pois  o  acórdão  embargado  enfrentou  e  decidiu,  de  maneira  integral  e  com  fundamentação  suficiente,  toda  a  controvérsia  posta  no  recurso.
+3.  Não  podem  ser  acolhidos  embargos  de  declaração  que,  a  pretexto  de  alegadas  omissões  no  julgado  combatido,  traduzem,  na  verdade,  o  inconformismo  da  parte  com  a  decisão  tomada,  buscando  rediscutir  o  que  decidido  já  foi.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+O  SENHOR  MINISTRO  SÉRGIO  KUKINA (Relator):  Não  prospera  a  irresignação  da  parte  embargante.
+De  acordo  com  o  previsto  no  artigo  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  erro  material  na  decisão  embargada.
+Entretanto,  no  caso  dos  autos,  não  se  verifica  a  existência  de  nenhum  desses  vícios,  pois  o  acórdão  embargado  enfrentou  e  decidiu,  de  maneira  integral  e  com  fundamentação  suficiente,  toda  a  controvérsia  posta  no  recurso.
+Com  efeito,  ficaram  devidamente  consignadas  no  aresto  hostilizado  as  razões  pelas  quais  o  agravo  interno  foi  desprovido,  pois: (I) não houve ofensa ao art. 1.022 do CPC, na medida em que o órgão julgador apreciou com coerência, clareza e devida fundamentação as teses suscitadas pelo jurisdicionado; (II) com relação ao art. 85, §10, do CPC, nota-se que o referido dispositivo legal não contém comando capaz de, por si só, sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, a saber, o de que, no caso dos autos, a ora agravante foi quem deu causa ao manejo da própria reconvenção, tendo em vista que bastaria a ela "oferecer contestação para refutar as assertivas iniciais, mostrando-se totalmente desnecessária a apresentação da reconvenção" (fl. 1551), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF; (III) para alterar essa conclusão do acórdão recorrido, qual seja, a de que a ora agravante foi quem deu causa ao manejo da própria reconvenção, tendo em vista que bastaria a ela "oferecer contestação para refutar as assertivas iniciais, mostrando-se totalmente desnecessária a apresentação da reconvenção" (fl. 1551), seria necessário o revolvimento fático-probatório , o que é vedado pela Súmula 7/STJ.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 1.878/1.880 - g.n.):
+Conforme já assinalado no decisum agravado, não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022 do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado.
+De fato, em relação à controvérsia dos autos, registrou o Tribunal de origem no acórdão integrativo às fls. 1.599/1.600 - g. n.:
+ ..
+Dessa forma, observa-se que o julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente.
+Ademais, com relação ao art. 85, §10, do CPC, nota-se que o referido dispositivo legal não contém comando capaz de, por si só, sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, a saber, o de que, no caso dos autos, a ora agravante foi quem deu causa ao manejo da própria reconvenção, tendo em vista que bastaria a ela "oferecer contestação para refutar as assertivas iniciais, mostrando-se totalmente desnecessária a apresentação da reconvenção" (fl. 1551), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012;REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Além disso, para alterar essa conclusão do acórdão recorrido, a saber, a de que a ora agravante foi quem deu causa ao manejo da própria reconvenção, tendo em vista que bastaria a ela "oferecer contestação para refutar as assertivas iniciais, mostrando-se totalmente desnecessária a apresentação da reconvenção" (fl. 1551), seria necessário o revolvimento fático-probatório dos autos, o que é vedado pela Súmula 7/STJ. A propósito (g. n.):
+ ..
+Nesse contexto, ainda, somente a título de esclarecimento, em relação à alegação da ora agravante de que "se esta Corte Superior já analisou o caso do RESP nº 1.584.440/RJ -  ..  - concluindo por afastar os honorários advocatícios arbitrados na reconvenção, certamente não precisou revolver o conjunto fático probatório, não incidiu a Súmula 07 do STJ" (fl. 1.776), trata-se de argumentação somente apresentada nas razões do agravo interno, o que caracteriza inovação recursal.
+Ainda que assim não fosse, nos referidos autos, ficou expressamente consignado no acórdão deste Superior Tribunal que, em razão da "análise minuciosa das particularidades da causa" (fl. 1.178), a recorrida deveria arcar com os encargos sucumbenciais da ação principal e da reconvenção, pois "quem deu causa à instauração da reconvenção foi a autora da ação principal - aqui recorrida - ao ajuizar demanda perante órgão jurisdicional, mesmo ciente da existência de cláusula compromissória por ela livremente pactuada" (fl. 1.178), e que, "em razão de a ação principal e a reconvenção terem sido extintas pelo mesmo motivo, a saber, acolhimento da preliminar de existência de convenção de arbitragem arguida pela recorrente - ré-reconvinte -, e convicto de que a recorrida deu causa ao manejo da reconvenção,  .. , devem os ônus da sucumbência relativos à reconvenção serem imputados à ora recorrida" (fl. 1.178).
+Diferentemente, nos presentes autos, não é possível obter a convicção suficiente para alterar as conclusões do Tribunal a quo sem o revolvimento fático-probatório do feito. A própria agravante, em seu recurso especial, ao sustentar que "a realidade fática corrobora com a afirmação de que a Ação de Reconvenção na demanda serviu como meio de defesa da Recorrente" (fl. 1.621), "que a ação de reconvenção perdeu o objeto e deveria ter sido extinta sem resolução de mérito antes de ser processada, em razão da prescrição" (fl. 1.621), acaba por confirmar a necessidade de se reexaminar os fatos para, em tese, obter-se conclusão diversa daquela contida no acórdão da instância a quo.
+Assim, não merece reparos a decisão agravada.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
+Dessa  forma,  não  podem  ser  acolhidos  embargos  de  declaração  que,  a  pretexto  de  alegada  omissão  no  julgado,  traduzem,  na  verdade,  o  inconformismo  da  parte  com  a  decisão  tomada,  buscando  rediscutir  o  que  decidido  já  foi.
+Por fim, na forma da jurisprudência, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes: AgInt nos EDcl no RMS 53.955/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/12/2017; EDcl nos EAREsp 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 29/3/2017.
+Nesse  panorama,  inexistente  qualquer  vício  no  acórdão  embargado,  conforme  exige  o  art.  1.022  do  CPC,  impõe-se  a  rejeição  do  pleito  integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(Edcl no AgInt nos EAREsp 666.334/RS, Rel. Min. Og Fernandes, Primeira Seção. DJe 28/8/2018).
+ANTE O EXPOSTO,  rejeitam-se  os  embargos  de  declaração.
+É o voto.
