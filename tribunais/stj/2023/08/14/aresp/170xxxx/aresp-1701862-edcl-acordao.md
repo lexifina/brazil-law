@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/08/2023 a 14/08/2023, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos de declaração, opostos por MAPFRE VIDA S/A, contra acórdão proferido em agravo interno por esta Quarta Turma, assim ementado (fl. 686):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. MORTE DO SEGURADO. NEGATIVA DE COBERTURA PELA SEGURADORA. AGRAVAMENTO DE RISCO. USO DE SUBSTÂNCIA ENTORPECENTE. DESCABIMENTO. SÚMULA 620/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. CELEBRAÇÃO DO CONTRATO ATÉ A DATA DO EFETIVO PAGAMENTO. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO. 1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, a teor da Súmula 620/STJ, nos contratos de seguro de vida, o consumo de bebida alcoólica, o estado de confusão mental e a utilização de substâncias tóxicas não eximem a seguradora do pagamento da indenização prevista em contrato de seguro de vida contratado. Precedentes. 2. O termo inicial da correção monetária, de acordo com a jurisprudência desta Corte, nas indenizações securitárias, incide desde a data da celebração do contrato até o dia do efetivo pagamento do seguro. Precedentes. 3. Agravo interno a que se nega provimento.
+A embargante aponta omissão no v. acórdão embargado sustentando que a determinação para incidência da correção monetária a partir da contratação não esclarece efetivamente o termo inicial do encargo, porquanto se trata de contrato de seguro renovado sucessivamente.
+A embargada apresentou impugnação às fls. 713-719 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE RECONHECIDA. ESCLARECIMENTO NECESSÁRIO. EMBARGOS DECLARATÓRIOS ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Conforme disposto na Súmula 632 do Superior Tribunal de Justiça, "Nos contratos de seguro regidos pelo Código Civil, a correção monetária sobre a indenização securitária incide a partir da contratação até o efetivo pagamento".
+3. Na hipótese de renovações sucessivas do contrato de seguro, o termo inicial de correção monetária do capital segurado é a data da renovação que vigia ao tempo do sinistro. Precedentes.
+4. Embargos de declaração acolhidos com efeitos infringentes, para, esclarecendo o acórdão embargado, dar parcial provimento ao recurso especial.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022).
+No caso dos autos, aponta-se a necessidade de esclarecimento quanto ao termo inicial da correção monetária, para fins de aplicação concreta da Súmula 632/STJ. Isso, porque há renovações sucessivas do contrato de seguro sub judice, e o acórdão desta Quarta Turma não indicou, de forma expressa e precisa, qual contratação ou renovação serviria de termo inicial.
+De fato, no decisum embargado, determinou-se a observância da Súmula 632/STJ, cujo teor não explicita o termo inicial da correção monetária, visto que não enfrenta a questão das sucessivas renovações dos contrato de longa duração.
+Entretanto, não se trata de questão nova no âmbito desta Corte Superior, tampouco desta Quarta Turma, que tem entendimento de que o termo inicial da correção monetária se refere à data de contratação da apólice vigente no momento da ocorrência do sinistro. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. OMISSÃO. ART. 1.026 DO CPC. PRAZO DO AGRAVO INTERNO. INTERROMPIDO. TEMPESTIVIDADE. MÉRITO DO AGRAVO INTERNO. CAPITAL SEGURADO. CORREÇÃO MONETÁRIA. TERMO INICIAL. APÓLICE RENOVADA. DATA DO SINISTRO.
+1. Omissão constatada em razão de ter sido desconsiderada a interrupção da contagem do prazo recursal para interposição de agravo interno, uma vez que a parte contrária havia oposto embargos de declaração.
+2. A correção monetária incide desde a data da celebração do contrato de seguro de vida até o dia do efetivo pagamento da indenização, pois a apólice deve refletir o valor contratado atualizado.
+3. Em caso de renovações sucessivas de contrato de seguro, entende-se que a cada renovação há uma novo capital segurado, de modo que o termo inicial de correção monetária dele é a data da renovação que vigia ao tempo do sinistro.
+4. Embargos de declaração acolhidos com efeitos modificativos, para negar provimento ao recurso especial interposto pela parte embargada.
+(EDcl no AgInt nos EDcl no REsp 1852164/RS, Rel. MIN. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/03/2021, DJe 07/04/2021, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CORREÇÃO MONETÁRIA DO CAPITAL SEGURADO. TERMO INICIAL. DATA DA ÚLTIMA RENOVAÇÃO DA APÓLICE. SÚMULA 83/STJ. REEXAME FÁTICO E PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. É entendimento desta Corte Superior que, em se tratando de seguro com renovações sucessivas, o termo inicial de correção monetária é a data da renovação da apólice vigente ao tempo do sinistro.
+2. O eg. Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, conclui que foi adotado como base de cálculo o valor do capital segurado previsto na apólice quando da última renovação do contrato, determinando que a indenização securitária deverá ser atualizada a partir de tal data, entendimento de acordo com a jurisprudência desta Corte Superior. Súmula 83/STJ.
+3. A modificação do entendimento lançado no v. acórdão recorrido, para concluir que o capital segurado utilizado não é aquele que constou na apólice na última renovação, mas sim um valor já atualizado posteriormente, demandaria o revolvimento de matéria fático-probatória e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7, ambas do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.868.457/MS, desta relatoria, QUARTA TURMA, julgado em 25/10/2021, DJe de 25/11/2021.)
+Nesse contexto, verifica-se a necessidade de acolhimento dos aclaratórios, a fim de explicitar, no caso concreto, que a correção monetária deve incidir desde a data de renovação do contrato de seguro, conforme a apólice vigente na data do sinistro.
+Ressalta-se ainda que o acolhimento dos aclaratórios implica a modificação parcial da conclusão do acórdão recorrido. Com efeito, a ora embargante, em suas razões de recurso especial, aduziu o afastamento da cobertura decorrente do agravamento do risco segurado e, na eventualidade de se manter a condenação indenizatória, a modificação do termo inicial da correção monetária. Assim, no que tange ao pedido subsidiário, o recurso especial merece provimento, nos termos acima delineados.
+Com esses fundamentos, acolho os embargos de declaração para esclarecer o acórdão embargado e, em decorrência de seu acolhimento, dou parcial provimento ao recurso especial.
+Em consequência da atribuição de efeitos infringentes, afasto a condenação em honorários advocatícios recursais (CPC, art. 85, § 11), mantendo-se inalteradas a condenação e a distribuição dos honorários sucumbenciais fixados pelas instâncias ordinárias.
+É como voto.
