@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 604/605).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 381):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE CARTÃO D ECRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC) C/C INDENIZATÓRIA. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS. INSURGÊNCIA DA PARTE AUTORA.
+PRELIMINAR DE PRESCRIÇÃO ARGUIDA EM SEDE DE CONTRARRAZÕES. APLICAÇÃO DO ARTIGO 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRAZO DE 5 (CINCO) ANOS QUE COMEÇA A CONTAR DA DATA DO ÚLTIMO DESCONTO INDEVIDO. PRELIMINAR AFASTADA.
+PRELIMINAR DE DECADÊNCIA. DISCUSSÃO QUE GIRA EM TORNO DO DEFEITO NA PRESTAÇÃO DO SERVIÇO. APLICAÇÃO APENAS DO INSTITUTO DA PRESCRIÇÃO PREVISTA NO ARTIGO 27 DO CDC EM VIRTUDE DA NATUREZA CONDENATÓRIA E DE RESSARCIMENTO DOS DANOS PATRIMONIAIS E EXTRAPATRIMONIAIS ORIUNDOS DO NÃO CUMPRIMENTO DO DEVER DE INFORMAÇÃO. PRELIMINAR AFASTADA.
+ALEGADA ILEGALIDADE DO EMPRÉSTIMO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). INEXISTÊNCIA DE PROVAS DE QUE O CARTÃO FOI ENVIADO OU UTILIZADO. ABUSIVIDADE CONFIGURADA. PRETENSÃO DE CONTRATAR EMPRÉSTIMO CONSIGNADO COMPROVADA. CRÉDITO DISPONIBILIZADO. RETORNO AO "STATUS QUO ANTE". REPETIÇÃO SIMPLES DO INDÉBITO.
+DANO MORAL. ATO ILÍCITO CONFIGURADO. DESCONTOS REALIZADOS NO BENEFÍCIO PREVIDENCIÁRIO DA PARTE AUTORA QUE COLOCA EM RISCO A SUA SUBSISTÊNCIA. VERBA INDENIZATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VALOR DE R$ 10.000,00 (DEZ MIL REAIS) QUE SE MOSTRA RAZOÁVEL AO CASO CONCRETO. OBSERVÂNCIA DOS PARÂMETROS DESTA CÂMARA.
+ÔNUS SUCUMBENCIAL. READEQUAÇÃO. PARTE QUE DECAIU DE PARTE MÍNIMA DA PRETENSÃO. NECESSÁRIA CONDENAÇÃO DO RÉU AO PAGAMENTO DA INTEGRALIDADE DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 15% SOBRE O VALOR DA CONDENAÇÃO. CABIMENTO CONFORME ARTIGO 85, § 2º, DO CPC. HONORÁRIOS RECURSAIS. DESCABIMENTO NO PRESENTE CASO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 431/437).
+Nas razões do recurso especial (e-STJ fls. 454/475), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 186 e 927 do CC e 14 do CDC, sob o argumento de que "os descontos havidos no benefício previdenciário da parte recorrida - decorrentes do contrato entabulado entre as partes - não poderiam ensejar a condenação em danos morais" (e-STJ fl. 469). Alega que "não há como presumir a ocorrência de abalo moral pela simples presunção de vulnerabilidade do consumidor" (e-STJ fl. 468).
+No agravo (e-STJ fls. 613/616), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 620/625 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem analisou a controvérsia relativa ao cabimento de indenização por danos morais no caso concreto nos seguintes termos (e-STJ fls. 388/389 - grifei):
+Ainda que a responsabilidade do fornecedor seja objetiva, o Grupo de Câmaras de Direito Comercial desta Corte de Justiça, na decisão prolatada em 09/11/2022 no IRDR n. 5040370-24.2022.8.24.0000, fixou o entendimento provisório de que a configuração do dano moral não é presumida nas ações que objetivam a invalidação do contrato de cartão de crédito com reserva de margem consignável em benefício previdenciário. O Grupo entendeu que cabe ao autor demonstrar a ocorrência da prática ilícita, do nexo causal e do dano. E todos esses aspectos foram demonstrados no presente feito.
+É que aqui, os descontos dos valores relativos ao cartão de crédito consignado no benefício previdenciário do autor caracterizam prática considerada abusiva pelo Código de Defesa do Consumidor e representam ilícito que implica dano também de ordem moral, passível, portanto, de indenização. De fato, embora cada um dos descontos de forma isolada não representem valores expressivos, deve-se ter em mente que ocorrem de maneira sucessiva, diminuindo mês a mês a capacidade de autossustento do consumidor aposentado com benefício previdenciário módico.
+ ..
+Assim, demonstrada a prática ilícita e o nexo causal, a instituição financeira deve reparar os danos causados, nos termos dos artigos 186 e 927 do Código Civil e 14 do Código de Defesa do Consumidor.
+Do excerto transcrito, depreende-se que a conclusão do Tribunal de origem, relativamente à configuração de dano moral indenizável no caso dos autos, está estabelecida sobre o acervo fático-probatório dos autos, cujo revolvimento é vedado em sede especial.
+Assim, a desconstituição das premissas fixadas no acórdão recorrido, para fins de acolher a pretensão recursal relacionada à alegada violação dos arts. 186 e 927 do CC e 14 do CDC, encontra óbice na Súmula n. 7 do STJ.
+Por fim, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
