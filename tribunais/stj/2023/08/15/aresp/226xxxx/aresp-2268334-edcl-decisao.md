@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 293/320) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial.
+Em suas razões, a embargante aponta obscuridade na decisão embargada, e requer o acolhimento do recurso, com efeitos infringentes, defendendo que "os entendimentos dos fundamentos das decisões dessa Corte do STJ, colacionados, na "decisium" de fls. 283/290, sobre exceção de impenhorabilidade, não tem forças maiores, que a norma sobre esse assunto, do artigo 833 do CPC 2015, e não supera/não revogou, o tema 425 do RR do STJ, sobre esse assunto".
+Pede a aplicação do tema repetitivo n. 425 do STJ, em vigor, e sustenta error in judicando.
+A embargada ofereceu impugnação, na qual requer a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 325/332).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+No caso concreto, sob o pretexto de que vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios, montepios, quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, ganhos de trabalhador autônomo e honorários de profissional liberal não se enquadram na exceção da legislação processual de impenhorabilidade, pretende a embargante nova análise dos argumentos apresentados no especial.
+Ocorre que a decisão embargada apresentou, de forma clara e fundamentada, os motivos pelos quais entendeu ser caso de negar provimento ao agravo nos próprios autos, inexistindo o vício apontado.
+A matéria relativa à possibilidade de penhora dos proventos de aposentadoria da parte embargante foi examinada de modo claro na decisão ora embargada.
+Ressalte-se que no presente caso não se aplica o tema repetitivo n. 425 do STJ, cuja tese foi fixada nos seguintes termos "a utilização do Sistema BACEN-JUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.01.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exequente, a fim de se autorizar o bloqueio eletrônico de depósitos ou aplicações financeiras".
+Cumpre consignar que, segundo a jurisprudência do STJ, a regra geral da impenhorabilidade pode ser excetuada, ainda que para satisfazer crédito não alimentar, desde que ressalvado percentual para manter a dignidade do devedor e de sua família. Do mesmo modo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA. RENDIMENTOS. POSSIBILIDADE. SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp n. 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que a penhora é necessária à satisfação do crédito da execução e não afeta a dignidade do devedor. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.916.216/DF, de minha relatoria, Quarta Turma, DJe de 19/5/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. PENHORA SOBRE PERCENTUAL DE APOSENTADORIA. DÉBITO DECORRENTE DE HONORÁRIOS ADVOCATÍCIOS. ART. 833, INCISO IV, DO CPC. FLEXIBILIZAÇÃO DE PENHORA SOBRE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE COMPROVADA NO CASO CONCRETO. N. 1.815.055/SP. SÚMULA 83 DO STJ. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça fixou o entendimento de que a exceção à impenhorabilidade prevista no § 2º do art. 833 do CPC não abarca créditos relativos a honorários advocatícios, porquanto não estão abrangidos pelo conceito de "prestação alimentícia" (REsp 1.815.055/SP, julgado em 03/08/2020, DJe 26/08/2020).
+2. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+3. No caso em análise, a Corte de origem consignou que "dadas as diversas fontes de renda do devedor e do valor global que percebe é de relativizar-se a regra protetiva do art. 833, IV, do CPC. Ainda que deferida a penhora de 10% dos proventos de uma das fontes pagadoras, remanescem receitas suficientes para subsistência do devedor e de sua família".
+4. Não tendo a parte agravante apresentado argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, é de rigor a manutenção da decisão por seus próprios fundamentos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.969.745/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. 2. PENHORA DE PERCENTUAL DO SALÁRIO. MITIGAÇÃO DA REGRA DE IMPENHORABILIDADE. PRECEDENTE DA CORTE ESPECIAL. DESNECESSIDADE DE REEXAME DE FATOS E PROVAS. REFORMA DO ACORDÃO RECORRIDO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo o entendimento do Superior Tribunal de Justiça, "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019).
+2. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+(EREsp 1.582.475/MG, Rel. Ministro Benedito Gonçalves, Corte Especial, julgado em 03/10/2018, DJe 16/10/2018).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.975.899/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/4/2022.)
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses dos aclaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Deixo de aplicar a multa prevista no art. 1.026, § 2º, do CPC/2015, uma vez que o embargante apenas exerceu seu direito de petição, o que não constitui ato protelatório que enseje sanção processual, tampouco se evidencia, até o momento, conduta maliciosa ou temerária a justificar punição.
+Publique-se e intimem-se.
