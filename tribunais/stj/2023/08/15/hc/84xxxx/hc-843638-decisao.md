@@ -1,0 +1,26 @@
+DECISÃO
+WANDEBERG RARYSON DE ARAÚJO LIMA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Revisão Criminal n. 0037250-38.2021.8.26.0000).
+Nas razões deste writ, a defesa pugna pelo afastamento da circunstância judicial dos maus antecedentes, tendo em vista que o paciente "só poderia ser considerado possuidor de maus antecedentes se houvesse sentenças transitadas em data anterior a prisão em flagrante, o que não ocorreu no caso" (fl. 7).
+Decido.
+Cumpre lembrar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, diante da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Dispõe o art. 621 do Código de Processo Penal que "a revisão dos processos findos será admitida" quando a sentença condenatória: a) for contrária ao texto expresso da lei penal ou à evidência dos autos; b) se fundar em depoimentos, exames ou documentos comprovadamente falsos; c) caso, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Nenhuma das hipótese ocorreu no caso.
+Ainda que assim não fosse, a Corte de origem manteve a valoração negativa dos antecedentes, em revisão criminal, nos seguintes termos:
+Não assiste razão ao peticionário quanto à pleiteada redução da pena-base pela ausência de maus antecedentes, uma vez que o acréscimo de 1/6, aplicado na primeira etapa do cálculo dosimétrico, teve como fundamento as condenações certificadas às fls. 14, 18, 20 e 24 do apenso.
+Ora, referidas certidões atestam que o peticionário, ostentava condenações definitivas posteriores, porém por crimes anteriores aos ora tratados. Cabe ressaltar, por oportuno, que tais condenações já haviam transitado em julgado antes da prolação do decreto condenatório prolatado nestes autos (fl. 65).
+Quanto ao incremento da sanção acima do mínimo legal, na primeira etapa da dosimetria, a orientação da Corte local se coaduna com a diretriz deste Tribunal Superior, no sentido de que, em havendo mais de uma condenação prévia, com trânsitos em julgado posteriores à data da infração em lide, é legítimo o recrudescimento da pena-base a título de maus antecedentes.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SONEGAÇÃO FISCAL. PENA-BASE. MAUS ANTECEDENTES. CRIME ANTERIOR. TRÂNSITO EM JULGADO POSTERIOR. ILEGALIDADE. AUSÊNCIA. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. SURSIS HUMANITÁRIO. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base" (AgRg no HC n. 607.497/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/9/2020, DJe 30/9/2020).
+2. Embora a pena estabelecida seja inferior a 4 anos de reclusão (2 anos e 4 meses de reclusão), a existência de maus antecedentes justifica o agravamento do regime prisional, no caso, o semiaberto.
+3. Por fim, não submetido ao Tribunal de origem o pedido de sursis humanitário, não cabe a esta Corte a análise inaugural da matéria, sob pena de incidir em indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 753.609/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. MINORANTE. NÃO CABIMENTO. MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Condenações definitivas com trânsito em julgado por fato anterior ao crime descrito na denúncia, ainda que com trânsito em julgado posterior à data dos fatos tidos por delituosos, embora não configurem a agravante da reincidência, podem caracterizar maus antecedentes e, nesse contexto, impedem a aplicação da minorante de tráfico de drogas dito privilegiado, por expressa vedação legal.
+2. Fixada a pena-base acima do mínimo legal, é lícita a fixação de regime inicial imediatamente mais gravoso do que aquele previsto nas alíneas "b" e "c" do § 2º do art. 33 do Código Penal.
+3. No caso, a basal foi fixada acima do mínimo legal e a pena definitiva atingiu o montante de 5 anos de reclusão, o que autoriza a fixação do regime inicial fechado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 783.764/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro o writ liminarmente.
+Publique-se e intimem-se.
