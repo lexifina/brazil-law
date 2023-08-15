@@ -1,0 +1,2 @@
+DECISÃO
+Considerando que no CC nº 140.456/RS, de Relatoria do Ministro Jorge Mussi, a Corte Especial está decidindo acerca da competência interna deste Tribunal para análise de processos que tratam sobre o Fundo de Compensação de Valores Salariais - FCVS e que o tema está em debate no âmbito do Supremo Tribunal Federal, no RE nº 827.996/PR (tema 1011), determino o sobrestamento do presente recurso na Coordenadoria de Processamento de Feitos de Direito Público.
