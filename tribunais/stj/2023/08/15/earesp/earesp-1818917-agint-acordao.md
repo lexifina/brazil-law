@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/08/2023 a 15/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno opostos por AURI ROGERIO MACEDO CASSETARI, em face de decisão que rejeitou os embargos de divergência em agravo em recurso especial.
+Ação: de reintegração de posse ajuizada pelo embargante em face de FERNANDO CASSETARI VELHO.
+Acórdão: manteve a sentença ao garantir o exercício de posse ao embargado.
+Embargos de declaração: opostos pelo embargante, foram rejeitados.
+Recurso especial: interposto pelo embargante, com fulcro no artigo 105, II, "a", da Constituição Federal. Foi inadmitido pelo Tribunal de origem, o que ensejou a interposição de agravo em recurso especial.
+Decisão da Presidência do STJ: manteve a decisão unipessoal do Relator que, conhecendo do agravo, negou provimento ao recurso especial.
+Embargos de declaração: opostos pelo embargante, foram rejeitados.
+Acórdão da Quarta Turma: negou provimento ao agravo interno interposto pelo embargante, nos termos assim ementados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. DEFERIMENTO DE MEDIDA LIMINAR. INCIDÊNCIA DA SÚMULA 735 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.2. Esta Corte, em sintonia com o disposto na Súmula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11/05/2010, DJe 21/05/2010).3. As questões referentes aos arts. 1.829, I, 1.826 e 108, do Código Civil, não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.4. Agravo interno não provido." (e-STJ fl. 882)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Embargos de divergência: opostos pelo agravante, foram indeferidos liminarmente.
+Agravo interno: nas razões do presente recurso, o agravante busca reinterpretar o entendimento adotado nesta Corte quanto à Súmula 211/STJ, acusa o TJ/SC e o STJ de discricionariedade no julgamento dos recursos e defende que houve o prequestionamento, razões pelas quais pleiteia o deferimento dos embargos de divergência.
+Petição: em virtude do falecimento do agravado, FERNANDO CASSETARI VELHO, foi deferida a suspensão do processo por 60 (sessenta) dias (e-STJ Fl.984) para que se processe a regularização processual e, após novo pedido, renovou-se a suspensão por mais 90 (noventa) dias (e-STJ Fl.992). Nada obstante, o prazo transcorreu sem que houvesse manifestação do agravado.
+RELATADO O PROCESSO, DECIDE-SE.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO.
+1. A admissão dos embargos de divergência está condicionada à comprovação do dissídio jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, inexistente na hipótese dos autos.
+2. Agravo interno não provido.
+VOTO
+1. A decisão agravada indeferiu liminarmente os embargos de divergência com base na seguinte fundamentação:
+"O acórdão embargado exige a ocorrência do prequestionamento para admissibilidade recursal, em conformidade com a Súmula 211 do STJ. Tal posição está em consonância com a jurisprudência desta Corte Superior, conforme demonstram os seguintes julgados: REsp 1498719/PR, Primeira Seção, DJe 21/11/2017; AgInt no AREsp 1852889/SP, Terceira Turma, DJe 07/10/2021; e AgInt nos EDcl no AREsp 1830258/SP, Quarta Turma, DJe 25/02/2022. Há, portanto, incidência da Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado". Outrossim, a tese de prequestionamento ficto, defendida nos embargos de divergência, não foi decidida no acórdão embargado. Logo, inexiste similitude fática entre os acórdãos trazidos à colação, elemento indispensável à demonstração da divergência". (e-STJ fls. 952)
+2. Pela análise das razões recursais ora apresentadas, verifica-se que a agravante não trouxe qualquer novo argumento apto à modificação do decisum.
+3. Em suas razões no presente agravo interno, o agravante alega que não merece prevalecer o entendimento firmado nesta Corte Superior, buscando rediscutir o entendimento já sedimentado neste STJ quanto ao prequestionamento.
+4. Assim sendo, a argumentação do recorrente é incabível neste instrumento processual, razão pela qual os embargos de divergência haviam mesmo de ser rejeitados, não exsurgindo qualquer ilegalidade na decisão unipessoal.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
