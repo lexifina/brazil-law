@@ -1,0 +1,24 @@
+DECISÃO
+Agrava-se de decisão que inadmitiu recurso especial interposto por DANIELLE CAROLINE DOS REIS PROCOPIO, manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que recebeu a seguinte ementa (e-STJ fls. 257):
+TRÁFICO DE ENTORPECENTES - PRELIMINAR - Ilegalidade da prisão realizada por guardas municipais. - Inocorrência - Rejeição. - MÉRITO Configuração. Materialidade e autoria demonstradas. Depoimentos dos guardas municipais em harmonia com o conjunto probatório. Negativa do réu isolada. Apreensão de razoável quantidade e variedade de entorpecentes (03 porções de maconha, com peso líquido de 0,9 gramas; 04 eppendorf"s de cocaína, com massa líquida de 2,1 gramas; e 02 invólucros de cocaína, sob a forma de crack, pesando 6,6 gramas), além de balanças de precisão e dinheiro - Desclassificação para uso próprio. Impossibilidade Condenação mantida.
+PENAS e REGIME DE CUMPRIMENTO - Bases nos patamares -Reincidência (1/6) - Inviável o redutor do § 4º do artigo 33 da Lei nº 11.343/06 - Regime inicial fechado - Descabida a substituição da pena privativa de liberdade por restritivas de direitos (CP, artigos44, I, II e III) - Apelo desprovido.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação dos artigos 155 e 244, ambos do Código de Processo Penal. Sustenta a ilicitude da prova colhida por guarda municipal, que não possui a atribuição de polícia judiciária e sem justa causa para a abordagem. Busca a absolvição da recorrente.
+Contrarrazões às e-STJ fls. 285/289.
+O recurso especial foi inadmitido (e-STJ fls. 292), dando ensejo ao presente agravo.
+O Ministério Público Federal opinou às e-STJ fls. 320/324 pelo desprovimento do recurso.
+É o relatório. Decido.
+No caso em apreço, o entendimento adotado pela Corte local não diverge da orientação jurisprudencial do Superior Tribunal de Justiça firme acerca da legalidade da prisão, em situação de flagrância, por guardas municipais ou qualquer outra pessoa, não havendo falar, portanto, em ilicitude das provas daí decorrentes.
+Relevante anotar que o art. 5º, incisos II, IV, XIV e parágrafo único, da Lei n. 13.022/2014, dispõe, de forma expressa, ser competência específica das guardas municipais prevenir e inibir, bem como coibir, infrações penais; colaborar, de forma integrada com os órgãos de segurança pública, para a paz social; encaminhar ao delegado de polícia, diante de flagrante delito, o autor da infração, preservando o local do crime, quando possível e sempre que necessário; além de colaborar ou atuar conjuntamente com órgãos de segurança pública.
+Vale destacar que o Tribunal local expressamente consignou que a atuação dos guardas municipais ocorreu em efetiva situação de flagrância, apta a autorizar a atuação dos dos agentes públicos , com o objetivo de coibir a infração penal, em observância à Lei n. 13.022/2014.
+A respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE POR GUARDAS MUNICIPAIS. ILEGALIDADE NÃO RECONHECIDA. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência consolidada desta Corte Superior, não há falar em ilegalidade na prisão em flagrante realizada por guardas civis municipais. Consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito".
+Precedentes.
+2. Agravo regimental desprovido (AgRg no HC n. 748.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. TESE DEFENSIVA PREQUESTIONADA. DECISÃO AGRAVADA. REFORMA. PRISÃO EM FLAGRANTE EFETUADA POR GUARDAS MUNICIPAIS. POSSIBILIDADE.
+1. A tese de violação ao art. 241 do CPP encontra-se devidamente prequestionada, razão pela qua a decisão agravada deve ser reformada para se conhecer do recurso especial.
+2. A jurisprudência desta Corte firmou-se no sentido de que "os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (AgRg no HC n. 711.356/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Agravo regimental provido para conhecer do recurso especial e negar-lhe provimento (AgRg no AREsp n. 2.051.137/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 2/8/2022, DJe de 5/8/2022).
+Além disso, desconstituir a premissa da situação de flagrância, no caso dos autos, não prescinde do revolvimento fático-probatório dos autos, providência vedada em sede de recurso especial.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
