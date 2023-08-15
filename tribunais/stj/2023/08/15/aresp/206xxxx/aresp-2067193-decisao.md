@@ -1,0 +1,35 @@
+DECISÃO
+Na origem trata-se de ação ordinária ajuizada pelos MUNICÍPIOS DE SANTO ANDRÉ, SÃO BERNARDO DO CAMPO, SÃO CAETANO DO SUL, DIADEMA, MAUA, RI -BEIRÃO PIRES e RIO GRANDE DA SERRA contra a FAZENDA NACIONAL e contra CTBC - Companhia Telefônica Bordas do Campo (sucedida pela TELESP), pleiteando diferenças tarifárias decorrentes de aumentos supostamente abusivos cobrados mediante a Portaria 293/1977 e 297/1977. Na sentença julgou-se o pedido parcialmente procedente condenando a CTBC a devolução dos valores excedentes das tarifas nos degraus tarifários 2 e 3, recalculando-as no percentual de 16,7%. Julgou, ainda, improcedente quanto a UNIÃO. No Tribunal a quo a sentença foi reformada, por ser considerada ultra petita, julgando prejudicado o apelo. O valor da causa foi fixado em R$ 1.000.000,00 (um milhão de reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PROCESSO CIVIL. PORTARIA DO MINISTÉRIO DAS COMUNICAÇÕES Nº 297/77. TARIFAS TELEFÔNICAS. REAJUSTE. PRELIMINAR DE DESERÇÃO DO RECURSO. AFASTADA. PRELIMINAR DE JULGAMENTO ULTRA PETITA. ACOLIIIDA. SENTENÇA NULA NA PARTE QUE EXCEDEU OS LIMITES DA LIDE. IMPROCEDÊNCIA DA AÇÃO. RECURSO PREJUDICADO NO MÉRITO. INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA. CONDENAÇÃO DAS AUTORAS NOS HONORÁRIOS PERICIAIS, CUSTAS E VERBA HONORÁRIA.
+Após interposição de agravos em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Os recursos especiais não devem ser conhecidos.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+A Companhia Telefônica da Borda do Campo, em sua contestação, afirmara que o percentual de aumento refletira somente o fenómeno inflacionário àquela época. Este também foi o fundamento aventado pelo Ministério Público Federal ao tempo em que defendia a Fazenda Nacional em juízo (fls. 113/124).
+Neste interim, portanto, improcede a alegação de ausência dos motivos p ara a edição da Portaria nº 297/77, ante a plausibilidade das alegações vertidas pelas rés e a ausência, nos autos, da Exposição de Motivos aventada na motivação do ato normativo." - Destaquei
+Com efeito, considerando que a r. sentença recorrida não apreciou apenas matéria estranha à veiculada na lide (analisou a Portaria nº 297/1977), mas decidiu além do pedido (afastou a Portaria nº 293/1977), resta configurado o vicio de julgamento ultra petita, e não extra petita corno aduzido pela apelante. sendo de rigor a nulidade na parte que excedeu o pedido.
+Nesse diapasão, anulo a r. sentença no que afastou a incidência parcial da Portaria riº 293/1977 e condenou a apelante à devolução dos valores excedentes a esse titulo, o que implica no reconhecimento da improcedência integral da presente demanda, com a inversão dos ônus de sucumbência.
+ ..
+DOS RECURSOS ESPECIAIS DO MUNICÍPIO DE DIADEMA, RIBEIRÃO PIRES, SÃO CAETANO DO SUL.
+Serão analisados conjuntamente por possuírem a mesma causa de pedir e o mesmos suportes fáticos, a saber, a ilegalidade das Portarias 293/1977 e 297/1977 do Ministério das Comunicações.
+Verifica-se ser incabível a indicação de ofensa a dispositivo inserto em portaria, porquanto tal regramento não se caracteriza como "lei federal", não se inserindo no disposto no art. 105, III, a, da Carta Magna.
+Nesse sentido, confiram-se os seguintes precedentes, in verbis:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E INDENIZAÇÃO. DESPESAS COM OBRAS DE INFRAESTRUTURA PARA A IMPLANTAÇÃO DE REDE ELÉTRICA EM LOTEAMENTO PARTICULAR. RESPONSABILIDADE LEGAL DO LOTEADOR. DECISÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. É VEDADA A ANÁLISE DE MATÉRIA, CONSTANTE EM PORTARIA, EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+4. Este Superior Tribunal de Justiça já firmou entendimento de que Portarias, Circulares e Resoluções não se equiparam a Leis Federais para fins de interposição do Recurso Especial. Assim, a alegada violação dos arts. 136, 138 e 140 do Decreto 41.019/1957 pela Portaria 005/1990 do DNAEE tem a sua análise vedada no âmbito desta Corte Superior de Justiça.
+(..)
+6. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no AREsp 1034775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. FALECIMENTO DO PROPRIETÁRIO ANTES DA EXECUÇÃO FISCAL. ALÍNEA "C" DO ART. 105 DA CONSTITUIÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF.
+(..)
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar tal violação, na medida em que o ato normativo não é enquadrado no conceito de lei federal. Conforme o art. 105, III, alínea "a", da Constituição Federal, não se permite ampliar a competência desta Corte Superior para, em recurso especial, examinar eventual ofensa a súmulas, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1645453/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 2º da Lei 4717/65), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço dos agravos relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
