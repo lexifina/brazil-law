@@ -1,0 +1,8 @@
+DECISÃO
+GEOVANI DA SILVA SALUSTRIANO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0005643-03.2023.8.26.0496, em que foi mantido o indeferimento do livramento condicional.
+Na hipótese, a Corte de origem salientou que " o  requerimento de obtenção do livramento condicional, contudo, não foi provido, pois o juízo sentenciante entendeu que não houve o preenchimento do requisito subjetivo e há a necessidade de cumprimento da pena em regime intermediário, vez que o sentenciado ostenta condenação por crime grave cometido com violência à pessoa, tendo resgatado parcela mínima de longa pena a cumprir" (fl. 86).
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Outra sorte não socorre o fundamento atrelado à suposta necessidade de prévia passagem pelo regime semiaberto. A esse respeito, " s egundo a jurisprudência deste Superior Tribunal de Justiça, não há obrigatoriedade de o sentenciado vivenciar primeiramente o regime intermediário para que obtenha o benefício do livramento condicional, em razão da inexistência de tal previsão no art. 83 do Código Penal" (HC n. 482.168/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 19/2/2019).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de conceder ao paciente o livramento condicional.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
