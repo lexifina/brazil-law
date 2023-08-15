@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de DIEGO GARCIA DA SILVA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido na Apelação Criminal n. 5008662-06.2020.8.21.0033.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, às penas de 7 (sete) anos, 10 (dez) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 787 (setecentos e oitenta e sete) dias-multa (fls. 24-25).
+O Sentenciado interpôs recurso de apelação, o qual foi desprovido pela Corte estadual (fls. 29-37).
+Neste writ, o Impetrante sustenta, em suma, a existência de ilegalidade, sob o argumento de que "o Magistrado a quo, quando da dosimetria da pena, não apresentou as razões que justificassem a aplicação da fração de 1/10 a o invés da cotidiana fração de 1/6 que é efetivamente aplicada pelos Magistrados em solo nacional." (fl. 8).
+Requer, nesses termos, o redimensionamento da pena.
+É o relatório. Decido.
+No que interessa à solução da controvérsia, tem-se que o Juízo sentenciante e o Colegiado estadual declinaram as seguintes razões (fls. 24 e 32-37; sem grifos no original):
+"Ainda, presente a atenuante da confissão espontânea, atenuo a pena em 1/10, o que corresponde a DEZ (10) MESES e QUINZE (15) DIAS de RECLUSÃO restando a pena em SETE (07) ANOS, DEZ (10) MESES e QUINZE (15) DIAS de RECLUSÃO, a qual torno definitiva, porquanto ausentes outras circunstâncias agravantes ou atenuantes ou causas especiais de aumento ou diminuição da pena."
+"No tocante à autoria do delito de tráfico de drogas, é comprovada pela prova oral produzida sob o crivo do contraditório, notadamente pelos depoimentos coerentes dos policiais que foram averiguar informação acerca da traficância no endereço.
+ ..
+Como se percebe, o réu, em juízo, confirmou que guardava os entorpecentes, afirmando que armazenou a mochila com as drogas para um terceiro, optando por não declinar seu nome. Ainda, afirmou que estava ciente da ilicitude da sua conduta, não tendo referido ameaça ou coação por seu amigo não identificado.
+ ..
+Da mesma forma, também não merece acolhida o pedido de maior incidência da atenuante da confissão espontânea, uma vez que a subtração na fração estabelecida na sentença (dez meses e quinze dias) se mostra adequado e proporcional na espécie, notadamente em razão da relevância da confissão para o deslinde do fato."
+Não deve ser acolhido o pleito defensivo.
+Com efeito, o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena em razão da incidência das agravantes e atenuantes genéricas.
+Firmou-se no âmbito desta Corte que a aplicação de circunstâncias atenuantes ou agravantes, isoladamente, enseja a incidência da fração paradigma de 1/6 (um) para o devido ajuste da pena na segunda fase.
+Todavia, o aumento ideal de 1/6 (um sexto) pode ser superado, desde que seja declinada motivação idônea, em atendimento aos princípios da individualização da pena e da proporcionalidade.
+No caso, o Tribunal de Justiça estadual consignou que a redução de dez meses e quinze dias relativa à atenuante da confissão espontânea se mostra adequada e proporcional, notadamente em razão da relevância da confissão para o deslinde do fato. Em verdade, ainda que se possa reconhecer a atenuante da confissão pelo fato de que as declarações do Paciente reforçaram o aspecto objetivo da autoria, tal confissão em momento algum abrangeu o dolo, daí a razão pela qual se reduz a atenuante de pena para 1/10 (um décimo) .
+Nesse sentido, em parecer ofertado para instruir o feito, assim consignou a Procuradoria-Geral da República (fl. 110):
+"Verifica-se, portanto, que inexistem critérios objetivos e absolutos para a modulação do quantum de atenuação pela confissão espontânea, tendo-se o patamar ideal imaginário de 1/6 (um sexto) como critério meramente norteador, pois sempre se ressalva a possibilidade de adequação ao caso concreto, de modo a chancelar a atenuação em fração inferior quando existente específica fundamentação amparada nas especiais circunstâncias da causa.
+É o que ocorre no caso dos autos, em que se aplicou a redução de1/10, tendo em vista a confissão qualificada do réu, conforme se verifica do v. acórdão rechaçado:
+ ..
+Como se vê, a não utilização da fração paradigma restou devidamente justificada."
+Ainda, a propósito, mutatis mutandis:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JÚRI. OCORRÊNCIA DE LEGÍTIMA DEFESA OU DA EXCLUDENTE DE INEXIGIBILIDADE DE CONDUTA DIVERSA. AFASTAMENTO DAS QUALIFICADORAS DO ART. 121, §2º, INCISOS II E IV, DO CP. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ATENUANTE DE CONFISSÃO QUALIFICADA. FRAÇÃO DE REDUÇÃO DIVERSA DE 1/6. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal local, soberano na análise do conjunto fático-probatório, concluiu que a decisão dos jurados não se encontrou manifestamente contrária à prova dos autos, tendo eles optado pela tese da acusação. Assim, para alterar a conclusão a que chegaram as instâncias ordinárias, no sentido da absolvição, por ausência de prova concreta para a condenação, pela ocorrência da legítima defesa ou da excludente de inexigibilidade de conduta diversa, pelo afastamento das qualificadoras, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+2. A jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado. No presente caso, em razão da confissão ter sido qualificada, justificada a redução da pena em fração inferior a 1/6, com a compensação parcial com a agravante da reincidência.
+3. Agravo regimental não provido." (AgRg no AREsp n. 2.284.198/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/03/2023, DJe 17/03/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. ATENUANTE DA CONFISSÃO QUALIFICADA. FRAÇÃO DE UM DOZE AVOS. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DA COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA. ORDEM DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Atende aos princípios da individualização da pena e da proporcionalidade a escolha de fração inferior a 1/6 (um sexto) para diminuir a pena, na segunda fase da dosimetria, em razão da incidência da atenuante da confissão qualificada. Consequentemente, é legítima a compensação apenas parcial com a agravante da reincidência.
+2. Agravo regimental desprovido." (AgRg no HC n. 787.561/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 07/02/2023, DJe 14/02/2023; sem grifos no original.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO ESPONTÂNEA. FRAÇÃO DIVERSA DE 1/6 (UM SEXTO) FUNDAMENTADA. ORDEM DENEGADA .
