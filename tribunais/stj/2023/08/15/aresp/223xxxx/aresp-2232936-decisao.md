@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por GIRLEY GUILHERME FERREIRA MADEIRA JUNIOR contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu o recurso especial.
+O agravante foi condenado como incurso no art. 33, § 4º, da Lei 11.343/2006, à pena de 2 anos e 6 meses de reclusão, em regime aberto, além do pagamento de 250 dias-multa (fls. 109-116).
+O Tribunal negou provimento à apelação em que a defesa arguia a absolvição do réu e a desclassificação para o delito previsto no art. 28 da Lei 11.343/2006, além da modulação da causa de diminuição de pena constante do art. 33, § 4º, da Lei de Drogas, no patamar máximo de 2/3 (fls. 165-181).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 33, § 4º, da Lei 11.343/2006 (fls. 185-190).
+O aludido recurso foi inadmitido devido à Súmula n. 7, STJ (fls. 199-201).
+No presente agravo, a defesa sustenta que a insurgência versa sobre matéria jurídica, sendo desnecessário o reexame de fatos e provas (fls. 204-208).
+Em contrarrazões, o Ministério Público do Estado de Minas Gerais pugna pela manutenção da decisão recorrida por seus próprios fundamentos (fls. 211-213).
+O Ministério Público Federal opinou pelo desprovimento do agravo, nos termos da Súmula n. 7, STJ (fl. 231).
+É o relatório. DECIDO.
+A defesa afirma que o recurso especial deve ser admitido porque a discussão sobre a fração de diminuição da pena, nos termos do art. 33 § 4º, da Lei 11.343/2006, é matéria eminentemente jurídica. Insurge-se quanto à modulação da diminuição da pena na fração de 1/2, por entender que não haveria motivação idônea para a aplicação de patamar inferior ao máximo de 2/3 (fls. 204-208).
+Da leitura do acórdão que negou provimento à apelação, observo que o Tribunal de Justiça do Estado de Minas Gerais manteve a aludida fração em metade devido à quantidade da droga apreendida (fl. 179):
+"Malgrado a lei não ter definido, de forma explícita, os critérios a serem adotados pelo julgador para mensuração do quantum de redução do apenamento a ser efetivado ante a aplicação do §4º do art. 33 da Lei de Tóxicos, tal operação deve ser realizada observando-se as circunstâncias judiciais do art. 59 do CPB, bem como o preconizado no art. 42 da Lei 11.343/2006.
+Na espécie, considerando a quantidade, a variedade, e a natureza lesiva do tóxico apreendido (25g de maconha e 28,7g de cocaína), entendo que a diminuição da pena pela metade, em virtude da minorante em comento, mostrou-se razoável e proporcional, não demandando qualquer reparação".
+Na perspectiva da defesa, a causa de diminuição de pena deveria ter sido fixada em grau máximo, em especial porque a quantidade da droga apreendida não seria elevada o suficiente para justificar a modulação da redutora nos termos do acórdão recorrido.
+Ocorre que, consoante precedentes deste Tribunal, a dosimetria da pena se insere em um espaço de discricionariedade judicial e só pode ser revista diante da violação de comandos legais ou da existência de manifesta desproporcionalidade no cálculo da reprimenda (AgRg no AREsp n. 2.281.192/GO, Quinta Turma , Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/5/2022; AgRg no AREsp n. 2.031.605/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/12/2022).
+No caso sob exame, a fração de diminuição de pena do art. 33, §4º, da Lei 11.343/2006, foi fixada à razão de 1/2 em virtude da apreensão de 25g de maconha e 28,7g de cocaína. Ao que tudo indica, a ponderação efetuada na origem não é manifestamente ilegal ou desproporcional, mormente porque encontra respaldo em precedentes desta Corte (AgRg no HC n. 610.638/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/3/2021; AgRg no REsp n. 1.735.720/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 22/8/2018).
+Logo, ao contrário do que aduz a defesa, a pretensão recursal demanda a modificação do cenário fático estabelecido na origem, o que só é possível mediante o revolvimento do acervo fático-probatório.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. FRAÇÃO DE DIMINUIÇÃO DA PENA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7, STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
