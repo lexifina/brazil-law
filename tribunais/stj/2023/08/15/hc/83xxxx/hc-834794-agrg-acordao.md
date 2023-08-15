@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROSANA CARVALHO CASTRO contra decisão de minha relatoria que não conheceu do habeas corpus (e-STJ fls. 744/749).
+Consta dos autos que a paciente foi condenada pelo crime de tráfico de drogas à pena de 4 anos e 2 meses de reclusão, no regime aberto, mais o pagamento de 416 dias-multa pela prática do crime de tráfico de drogas porque guardava em sua residência, para fins de comércio ilegal, "12 (doze) embrulhos contendo "CRACK" , com massa líquida total de 1,945 kg (um quilograma e novecentos e quarenta e cinco gramas), 2 (duas) porções grandes e 1 (uma)porção pequena de MACONHA , com massa líquida total de 860 g (oitocentos e sessenta gramas), e 1 (uma) porção de COCAÍNA , com massa líquida de98,1 g (noventa e oito gramas e um decigrama)" (e-STJ fl. 555).
+No writ impetrado nesta Corte Superior, sustentou a defesa a ilicitude da busca domiciliar realizada pela polícia, uma vez que fundada apenas em denúncia anônima, o que não é suficiente para demonstrar a justa causa para a medida.
+Apontou, ainda, que o suposto consentimento da moradora para a entrada dos policiais em sua residência inexistiu. Requer, liminarmente, a suspensão dos efeitos da sentença condenatória.
+No mérito, pleiteou o reconhecimento da nulidade de todos as provas colhidas em razão da ilicitude da busca domiciliar.
+A ordem não foi conhecida por este Relator.
+No presente regimental, a defesa renova os fundamentos lançados na impetração e requer seja provido o agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. BUSCA DOMICILIAR. NULIDADE. INOCORRÊNCIA. DILIGÊNCIA DE CONFIRMAÇÃO DE DENÚNCIA ANÔNIMA ESPECIFICADA. EXERCÍCIO REGULAR DA ATIVIDADE INVESTIGATIVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento segundo o qual a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados". (AgRg no HC n. 819.903/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+2. Na hipótese, o ingresso em domicílio está fundado em "denúncia anônima especificada" seguida da confirmação detalhada das características descritas da residência da suspeita. Desse modo, a denúncia anônima foi minimamente averiguada, sendo que a busca domiciliar traduziu-se em exercício regular da atividade de policiamento ostensivo conduzida pelos agentes de segurança, o que justificou a abordagem.
+3. Investigação policial e diligências prévias que redundam em acesso à residência do acusado não se traduz em constrangimento ilegal, mas sim em exercício regular da atividade investigativa promovida pelas autoridades policiais. (AgRg no RHC n. 169.456/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022)
+4. Agravo regimental improvido.
+VOTO
+Em que pese o esforço da combativa defesa, a decisão agravada deve ser ratificada por seus próprios fundamentos. Vejamos (e-STJ fls. 744/749):
+Busca-se, no caso, seja anulada a busca domiciliar realizada pelos policiais.
+A respeito do tema, assim, decidiu o Juízo sentenciante (e-STJ fl. 300):
+No presente caso, os policiais responsáveis pelo flagrante foram movidos por denúncia anônima dando conta de que no local dos fatos estaria ocorrendo o comércio ilícito de entorpecentes, os quais foram efetivamente apreendidos.
+Logo, o ingresso dos policiais não se deu de forma aleatória, mas, pelo contrário, devidamente embasada em informações fidedignas da prática do crime de tráfico no apartamento das denunciadas, que foram identificadas.
+Pelas provas judicializadas, mostra-se plenamente justificada a atitude dos milicianos de adentrar o imóvel, mesmo sem mandado judicial, pelas fundadas razões referidas.
+O ingresso no imóvel não se deu de maneira aleatória, mas fundado em razões anteriores de suposta prática do crime de tráfico pelas rés no local que, como visto, foram avistadas por moradores locais vendendo drogas a usuários no condomínio e foram confirmadas posteriormente pela apreensão.
+Observa-se, no caso, que a busca domiciliar está fundada em "denúncia anônima especificada" que corresponde a verificação detalhada das características descritas do imóvel objeto da investigação.
+Desse modo, a denúncia anônima foi minimamente confirmada, sendo que a busca domiciliar traduziu em exercício regular da atividade investigativa promovida pelos policiais, o que justificou a busca domiciliar realizada.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. NÃO CONFIGURAÇÃO. BUSCA DOMICILIAR. NULIDADE. INOCORRÊNCIA. DILIGÊNCIA DE CONFIRMAÇÃO DE DENÚNCIA ANÔNIMA ESPECIFICADA. AUTORIZAÇÃO DE INGRESSO. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+- "Esta Corte Superior pacificou o entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, inquérito policial ou procedimento investigativo, tal medida somente se verifica possível quando ficar demonstrado - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade" (AgRg no RHC n. 159.796/DF, Rel. Min. JOEL ILAN PACIORNIK, Quinta Turma, julgado em 27/3/2023, DJe de 31/3/2023.).
+- O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento segundo o qual a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+- In casu, a Corte local, soberana na delimitação do quadro fático-probatório, firmou que houve autorização para o ingresso dos policiais na residência do agravante. Para se concluir, eventualmente, que a dinâmica dos fatos foi distinta da narrada na origem, impõe-se aguardar a instrução criminal, onde será possível à defesa produzir provas no sentido de que não fora autorizada a entrada dos policiais no domicílio do agravante.
+- Na hipótese, o ingresso em domicílio está fundado em "denúncia anônima especificada" seguida da confirmação detalhada das características descritas da residência do suspeito. Desse modo, a denúncia anônima foi minimamente averiguada, sendo que a busca domiciliar traduziu-se em exercício regular da atividade de policiamento ostensivo conduzida pelos agentes de segurança, o que justificou a abordagem, especialmente, em face do consentimento do morador.
+- Agravo regimental desprovido.(AgRg no HC n. 819.903/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DILIGÊNCIAS PRÉVIAS. FUNDADAS RAZÕES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo.
+2. Afere-se a justa causa para o ingresso forçado em domicílio mediante a análise objetiva e satisfatória do contexto fático anterior à invasão, considerando-se a existência ou não de indícios mínimos de situação de flagrante no interior da residência.
+3. Investigação policial e diligências prévias que redundam em acesso à residência do acusado não se traduz em constrangimento ilegal, mas sim em exercício regular da atividade investigativa promovida pelas autoridades policiais.
+4. Tendo ocorrido controle judicial posterior do ato policial de ingresso em domicílio de investigado, a análise da tese defensiva em toda a sua extensão fica inviabilizada, visto que há nítida necessidade de dilação probatória, situação não permitida no rito especial do recurso em habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 169.456/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022)
+Sendo assim, não há como reconhecer o apontado constrangimento ilegal.
+Ante o exposto, não conheço do presente habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
