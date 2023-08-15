@@ -1,0 +1,24 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que deferiu o pagamento de parcelas ao beneficiário concedido em juízo. No Tribunal a quo a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIARIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO/CUMPRIMENTO DE SENTENÇA. BENEFÍCIOS INACUMULÁVEIS RECEBIDOS VIA ADMINISTRATIVA E VIA JUDICIAL. FORMA DE CÁLCULO.
+1. EM SITUAÇÕES NAS QUAIS O SEGURADO POSTULA A CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO NA VIA JUDICIAL E, DURANTE A TRAMITAÇÃO DO PROCESSO, VEM A RECEBER, POR UM PERÍODO DETERMINADO, OUTRO BENEFÍCIO (VIA DE REGRA AUXÍLIO-DOENÇA OU OUTRO BENEFÍCIO POR INCAPACIDADE), ESTE DEFERIDO NA VIA ADMINISTRATIVA, É VIÁVEL QUE A IMPORTÂNCIA PAGA SEJA ABATIDA DAS PARCELAS DEVIDAS POR FORÇA DO DEFERIMENTO JUDICIAL, PORÉM RESPEITANDO O LIMITE DE CADA PARCELA A SER RECEBIDA.
+2. SE O BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE TIVER RENDA MENSAL SUPERIOR ÀQUELA APURADA PARA O BENEFÍCIO CONCEDIDO NA VIA JUDICIAL, A SOLUÇÃO QUE SE IMPÕE É ABATER OS VALORES QUE O SEGURADO JÁ RECEBEU ADMINISTRATIVAMENTE, LIMITANDO, PORÉM, ESSE DESCONTO AO VALOR DA RENDA MENSAL DO BENEFÍCIO QUE ESTÁ SENDO IMPLANTADO EM SEU FAVOR. EM TAIS COMPETÊNCIAS NÃO HAVERÁ DIFERENÇAS A EXECUTAR OU A DEVOLVER, MERCÊ DA SUA FACULDADE DE OPTAR PELO QUE LHE FOR MAIS VANTAJOSO, ADEMAIS DE ELE NÃO PODER SER PREJUDICADO PELA INCORRETA ATUAÇÃO DO INSS, QUE, SE TIVESSE CONCEDIDO O BENEFÍCIO AFINAL RECONHECIDO, NÃO SE FARIA NECESSÁRIO UM NOVO REQUERIMENTO ADMINISTRATIVO E, AINDA, CONSIDERANDO QUE OS VALORES RECEBIDOS DE BOA-FÉ PELO SEGURADO SÃO IRREPETÍVEIS.
+PRECEDENTES.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Em exame preambular, a questão controversa restou assim decidida
+(..)
+Em face de casos similares, decidiu a Sexta Turma de modo unânime (emsessão de que participei) em conformidade com o seguinte precedente:
+(..)
+E mais recentemente com igual unanimidade e mesma origem:
+(..)
+Sobre este ponto, mencione-se o acórdão do Incidente de Resolução de Demandas Repetitivas Tema n.º 14 do Tribunal Regional Federal da 4ª Região (TRF4):
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Relativamente às demais alegações de violação dos arts. 509 e 535, do CPC/2015, 368 e 876 do Código Civil de 2002 e 115 e 124 da Lei n. 8.213/1991, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
