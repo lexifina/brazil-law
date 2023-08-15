@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JOSENILDO ALVES DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consoante se extrai dos autos, o agravante foi pronunciado como incurso no delito descrito no art. 121, caput, c/c o art. 14, inciso II, ambos do Código Penal (fls. 62-64), o que foi mantido pelo Tribunal local no julgamento do recurso em sentido estrito (fls. 94-107).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição Federal, o insurgente alegou violação dos arts. 93, inciso IX, da Constituição Federal; 413, 415, 563 e 564, todos do Código de Processo Penal; e 23, II, do Código Penal, sustentando a inexistência de indícios suficientes que autorizassem a prolação da sentença de pronúncia.
+Apresentadas as contrarrazões (fls. 141-154), sobreveio juízo negativo de admissibilidade fundado: i) na falta de competência do Superior Tribunal de Justiça para analisar matéria constitucional; ii) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório; e iii) na condição de ter ficado prejudicado o dissídio jurisprudencial (fls. 157-160).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 164-170).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso especial, ou, se conhecido, pelo seu desprovimento (fls. 190-203).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da impossibilidade de análise de matéria constitucional, bem como em virtude da aplicação da Súmula 7/STJ e ter ficado prejudicada divergência jurisprudencial.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com efeito, registro que o insurgente, nas razões recursais, não teceu impugnação quanto à impossibilidade de análise de violação a dispositivo de extração constitucional no recurso especial, que também serviu de base para a inadmissão do recurso especial (fls. 198-199).
+Além disso, também deixou de apresentar impugnação ao fundamento de que o dissídio jurisprudencial ficou prejudicado.
+A propósito, conforme a jurisprudência desta Corte:
+" ..  a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre" (AgRg no REsp 1532799/SC, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 03/04/2018).
+Outrossim, a Corte Especial deste Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020 .
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. SENTENÇA DE PRONÚNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
