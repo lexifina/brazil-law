@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 117):
+TÍTULO EXTRAJUDICIAL. Cédula de crédito à exportação. Sentença prolatada nos embargos à execução condenando a devedora ao pagamento de honorários advocatícios, majorados em sede de apelação por esta C. Câmara. Garantia prestada pela agravada que teve sua exigibilidade interrompida em decorrência da aprovação de cláusula no plano de recuperação judicial da devedora principal. Suspensão da execução e dos consectários legais, inclusive os honorários advocatícios. Inadmissibilidade, tendo em vista que a verba honorária foi constituída por ocasião da prolação da sentença, portanto, posterior ao pedido de recuperação judicial. Precedentes do STJ. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 187/190).
+Em suas razões (e-STJ fls. 127/149), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(a) art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, por entender que (e-STJ fl. 136):
+No Agravo de Instrumento, a partir do argumento da extra concursalidade, se determinou o prosseguimento da execução dos honorários. Ocorre que essa não é a discussão travada nos autos; o que se está discutindo é a impossibilidade de prosseguimento de execução relativa aos consectários, em caso de estar suspensa a execução do principal, nos mesmos autos.
+(..)
+O e. TJSP deixou de se manifestar, ainda, quanto à jurisprudência invocada pela Embargante, qual seja, o entendimento do C. STJ exarado no julgamento do REsp 1890615/SP, do EDcl no REsp 1236276/MG, do REsp 1643012/RS, do REsp 1355740/SC e do REsp 790.567/RS, segundo o qual é nulo qualquer ato processual realizado enquanto suspenso o processo e segundo o qual o crédito do advogado não pode preferir ao do seu cliente.
+(b) arts. 85, § 13, e 314 do CPC/2015, afirmando que "independentemente da discussão sobre a concursalidade ou não do crédito de honorários (que não foi objeto de decisão em primeiro grau, porque nem poderia ser), se suspensa a execução do principal, por força do PRJ do Grupo Ecovix, deveria ser suspensa a execução também em face do crédito acessório" (e-STJ fl. 137).
+Contrarrazões apresentadas às fls. 194/206 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No caso, o TJSP afastou as teses de inexigibilidade do crédito em razão da suspensão da execução e de sua acessoriedade, decidindo com base nos seguintes fundamentos (e-STJ fls. 189/190):
+Ao contrário do que afirma a embargante as alegações de inexigibilidade do crédito em razão da suspensão da execução e de sua acessoriedade foram devidamente enfrentadas pelo aresto nos seguintes termos: "a sentença que fixou os honorários advocatícios em favor dos advogados do banco foi prolatada em 22.08.2017 (fls.60/61) e majorada por esta Corte em 30.11.2017 (Voto 38.474, de minha relatoria), portanto, posteriormente ao plano de recuperação judicial, cujo processamento foi deferido em 19.12.2016 (fls. 63/76)" (fls. 119).
+Por isso, referido crédito não está sujeito à recuperação judicial, pois nãose amolda à hipótese do artigo 49 da Lei 11.101/2005, sendo ressaltado ainda que (fls.119): "o crédito decorrente da verba honorária arbitrada na sentença não está sujeito à habilitação na recuperação judicial, pois decorre de fato gerado distinto daquele que originou a ação principal".
+Por outro lado, a questão relativa à validade da penhora foi devidamente analisada no julgamento do agravo de instrumento nº2242212-23.2020.8.26.0000 (votonº 45.864, de minha relatoria), em que restou rejeitado o pedido de levantamento da constrição realizada na execução, visto que o juízo falimentar foi expresso ao ressalvarque as garantias serão reconstituídas em caso de descumprimento do plano.
+Segundo a jurisprudência do STJ "os honorários advocatícios terão natureza extraconcursal se a sentença que os arbitrou foi prolatada após o pedido de recuperação judicial" (AgInt nos EDcl no AREsp n. 1.895.881/SC, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+Portanto, o TJSP, ao concluir pela executividade autônoma dos honorários advocatícios de sucumbência posteriores ao deferimento da recuperação judicial e pela consequente inexistência de acessoriedade da verba, decidiu em consonância com a jurisprudência desta Corte no sentido de que o crédito extraconcursal não se submente aos efeitos do plano de recuperação. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA EXECUTADA.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo Tribunal de origem, a questão federal suscitada. Aplicação da Súmula 211/STJ.
+2. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, sob pena de incidência da Súmula 284/STF.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o direito aos honorários advocatícios nasce com o provimento jurisdicional, razão pela qual, uma vez fixados em sentença proferida após o pedido de recuperação judicial, constituindo crédito extraconcursal, a ela não se submetem, conforme disciplina do art. 49 da Lei 11.101/2005" (AgInt no AREsp n. 1.857.913/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.212.019/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO POSTERIOR. ACESSORIEDADE. INEXISTÊNCIA. CRÉDITO EXTRACONCURSAL. NÃO SUBMISSÃO. SEGUNDA SEÇÃO. MATÉRIA PACIFICADA. LEI 11.101/2005, ART. 49.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o direito aos honorários advocatícios nasce com o provimento jurisdicional, razão pela qual, uma vez fixados em sentença proferida após o pedido de recuperação judicial, constituindo crédito extraconcursal, a ela não se submetem, conforme disciplina do art. 49 da Lei 11.101/2005.
+2. Matéria pacificada no âmbito da Segunda Seção, por intermédio do julgamento do REsp 1.841.960/SP (Rel. p/ acórdão Ministro Luis Felipe Salomão, por maioria, DJe de 13.4.2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.857.913/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/6/2022, DJe de 30/6/2022.)
+Incidente, portanto, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
