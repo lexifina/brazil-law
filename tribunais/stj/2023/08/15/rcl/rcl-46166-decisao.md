@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Reclamação, com pedido de liminar, proposta pela UNIÃO, com fundamento nos arts. 988, IV, do CPC/2015 e 187 e seguintes do RISTJ, em face de decisão proferida pela 3ª Turma Recursal da Justiça Federal da Seção Judiciária de Santa Cataria, no bojo do Mandado de Segurança nº 5033535-42.2022.4.04.7200/SC.
+Alega a reclamante, em síntese, que:
+"Trata-se de demanda ajuizada perante a Justiça Estadual em face, exclusivamente, do Estado de Santa Catarina, pretendendo o fornecimento de medicamento registrado na ANVISA, mas não incorporado pelo SUS, na qual houve a imposição obrigatória de formação de litisconsórcio passivo com a União e o deslocamento da competência para a Justiça Federal.
+Aportados os autos na Justiça Federal, foi reconhecida a incompetência do juízo federal, em observância às decisões vinculantes do STJ e do STF no IAC nº 14 e no Tema nº 1234, respectivamente, decidindo-se pela incompetência da Justiça Federal, exclusão da União da lide e devolução dos autos à Justiça Estadual (decisão anexa).
+Em face de tal decisão, o Estado impetrou mandado de segurança, o qual teve segurança concedida pela Turma Recursal nos seguintes termos do voto do Relator: "Dessa forma, entendo que é o caso de adotar o entendimento acima citado, no sentido da necessidade de inclusão da União no polo passivo das demandas que envolvam pedido de medicamentos/tratamentos não incorporados ao SUS, medicamentos/tratamentos incorporados ao SUS de financiamento pela União via Ministério da Saúde e medicamentos sem registro na ANVISA, razão pela qual voto por conceder a segurança".
+Opostos embargos de declaração pela União, pugnando por manifestação da jurisdição em relação às decisões vinculantes do IAC 14 do STJ e do Tema nº 1234 do STF, os mesmos restaram desacolhidos, sob a seguinte fundamentação: (..)" (fl. 3e)
+Ademais, sustenta que:
+"No caso, a parte autora havia ajuizado a ação apenas contra o Estado de Santa Catarina. Porém, para dar cumprimento a determinação do Juízo Estadual, apresentou petição de emenda à inicial, para incluir a União no polo passivo da demanda. O que levou ao deslocamento do feito para a Justiça Federal.
+Em sede recursal, em nítido descompasso com a orientação fixada por este Superior Tribunal de Justiça no IAC nº 14, foi acolhida a competência da justiça federal os seguintes fundamentos: (..)
+Em face desse comando judicial, de acordo com o qual é obrigatória a inclusão da União no polo passivo da lide e legítima a determinação, de ofício, de emenda da inicial, a União interpõe a presente reclamação" (fl. 5e).
+Ao final, requer a a reclamante:
+"a) o recebimento da presente e o deferimento de liminar, para suspender a determinação exarada nos autos do MANDADO DE SEGURANÇA TR Nº 5033535-42.2022.4.04.7200/SC(decisão reclamada) de manutenção dos autos na Justiça Federal, retornando-se o feito à Justiça Estadual, afastando-se qualquer comando em face da União;
+b) no mérito, a permanência do feito, em definitivo, na Justiça Estadual" (fls. 7e).
+Acompanharam a inicial os documentos de fls. 09/129e.
+É o relatório. Decido.
+A Reclamação não merece ser conhecida.
+Com efeito, a Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei 13.256/2016), constitui ação constitucional destinada à preservação da competência do tribunal (inciso I), à garantia da autoridade da decisão do tribunal (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+De fato, a Primeira Seção do STJ, em 08/06/2022, ao apreciar Questão de Ordem no IAC 14, "deliberou que, até o julgamento definitivo do incidente de assunção de competência (IAC), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, de modo que o processo deve prosseguir na jurisdição estadual".
+Contudo, no caso em questão, a ação originária foi remetida à Justiça Federal por força de decisão datada de 26/7/2021, conforme autos principais (fls. 24/39e).
+Portanto, a decisão que declinou da competência foi proferida em momento anterior à Questão de Ordem do IAC 14, razão pela qual não há que se falar em violação da autoridade da decisão deste tribunal.
+É certo que o julgamento do Mandado de Segurança ocorreu após a decisão de mérito do Incidente de Assunção de Competência n. 14, ou seja, em 28/04/2023. Entretanto, trata-se de ação que tinha por objetivo realizar, em última análise, o controle de legalidade da decisão que fora proferia em momento anterior à referida Questão de Ordem.
+Assim, à vista da inviabilidade do manejo da presente reclamação constitucional, compete à parte suplicante buscar a via processual adequada para deduzir a sua irresignação.
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, não conheço da Reclamação, ficando, por conseguinte, prejudicada a análise do pedido de liminar.
+I.
