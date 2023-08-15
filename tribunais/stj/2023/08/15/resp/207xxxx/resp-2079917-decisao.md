@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 194):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISIONAL. - REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO. REVISIONAL. NA AÇÃO REVISIONAL É DEVIDA A REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES - INDEPENDENTE DE PROVA DE ERRO - SE AFERIDOS E COMPENSADOS OS VALORES PARA CUMPRIMENTO DA SENTENÇA RESULTAR EXCESSO DE PAGAMENTO. A REPETIÇÃO EM DOBRO REQUISITA PROVA DE MÁ-FÉ QUE NÃO SE PRESUME COM A REVISÃO CONTRATUAL. CIRCUNSTÂNCIA DOS AUTOS EM QUE HAVENDO REVISÃO SE IMPÕE MANTER A SENTENÇA QUE ADMITIU REPETIÇÃO NA FORMA SIMPLES E COMPENSAÇÃO. - HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO PERCENTUAL. INCIDÊNCIA SOBRE O VALOR DA CAUSA. OS HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ART. 85 DO CPC/15, EM REGRA DEVEM SER FIXADOS EM PERCENTUAL SOBRE O VALOR DA CONDENAÇÃO OU DO PROVEITO ECONÔMICO OBTIDO, OU NÃO SENDO POSSÍVEL MENSURÁ-LO, SOBRE O VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO SEU § 2º, OBSERVADOS OS CRITÉRIOS DE VALORAÇÃO PREVISTOS NOS RESPECTIVOS INCISOS. PELO MESMO ARTIGO, QUANDO AQUELES VALORES FOREM LÍQUIDOS OU LIQUIDÁVEIS É VEDADA A ESTIPULAÇÃO EQUITATIVA, EM QUANTIA DETERMINADA, SALVO NAS SITUAÇÕES EXPRESSAS NO § 8º, CAUSAS EM QUE FOR INESTIMÁVEL OU IRRISÓRIO O PROVEITO ECONÔMICO OU, AINDA, QUANDO O VALOR DA CAUSA FOR MUITO BAIXO, COMO DISPOSTO NO SEU § 6º-A. CIRCUNSTÂNCIA DOS AUTOS EM QUE A SENTENÇA ESTABELECEU HONORÁRIOS EM QUANTIA DETERMINADA; E SE IMPÕE FIXAR EM PERCENTUAL SOBRE O VALOR DA CAUSA. RECURSO PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração ao referido acórdão.
+Em suas razões (e-STJ fls. 201/208), a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 369 do CC, porquanto o acórdão recorrido "permite que a compensação de valores pagos a maior pela autora ocorra entre parcelas ainda pendente de vencimento, enquanto que o disposto no art. 369 do Código Civil dispõe DIAMETRALMENTE DE FORMA CONTRÁRIA, uma vez que dispõe que a compensação efetua-se entre dívidas líquidas" (e-STJ fl. 205).
+Contrarrazões apresentadas às fls. 257/259 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia apresentada nas razões do especial cinge-se à alegação de que a compensação de valores pagos a maior pela parte recorrente apenas pode ocorrer com parcelas vencidas, e não com parcelas vincendas.
+O recorrente aduz que entender de forma contrária "obriga(..) a recorrente a quitar de forma imediata ou a aba ter o saldo devedor, em claro prejuízo, pois o contrato é para pagamento PARCELADO, EM PRESTAÇÕES" (e-STJ fl. 205).
+Referida tese, todavia, não foi objeto de apreciação pela Corte local, que nem sequer foi instada, por via de embargos declaratórios, a se manifestar acerca da questão, circunstância que impede o conhecimento da insurgência por falta de prequestionamento.
+Incidem ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se e intimem-se.
