@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  ERASMO SEVERO DA SILVA  contra  decisão  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea  a ,  da  Constituição  da  República,  apresentado  contra  acórdão  prolatado  pelo  Tribunal  de Justiça do Estado do Espírito Santo no Recurso em Sentido Estrito n. 0000383-07.2018.8.08.0015.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 620-628).
+É  o  relatório.  Decido.
+O  agravo  em  recurso  especial  não  reúne  condições  de  admissibilidade,  pois  não  foi  concretamente  impugnado  o  fundamento  da  decisão  agravada.
+No  caso,  a  Corte  de  origem  não  admitiu  o  recurso  especial  devido  à  incidência  das  Súmula  n.  7/STJ, destacando-se que "para a análise das razões do recorrente e eventual reforma do aresto hostilizado seria indispensável o revolvimento de elementos fático-probatórios, procedimento incabível na via estreita do recurso especial" (fl. 586).
+Nas  razões  do  agravo  contra  essa  decisão,  o  Agravante  não  impugnou  satisfatoriamente  este  fundamento de inadmissão.
+Com efeito,  o Agravante alegou genericamente que "o que se pretende não é reexaminar as provas do caso concreto, mas sim reconhecer que não há indícios suficientes capazes de sustentar o conteúdo probatório referente à autoria do acusado" (fl. 595). Entretanto, não se demonstrou  como  seria  possível, sem amplo reexame das provas, modificar a conclusão de que há indícios suficientes de autoria e materialidade delitivas aptos a sustentar a pronúncia.
+Como  se  sabe,  "para  afastar  a  aplicação  da  Súmula  n.  7  do  STJ,  não  é  bastante  a  mera  afirmação  de  sua  não  incidência  na  espécie,  devendo  a  parte  apresentar  argumentação  suficiente  a  fim  de  demonstrar  que,  para  o  STJ  mudar  o  entendimento  da  instância  de  origem  sobre  a  questão  suscitada,  não  é  necessário  reexame  de  fatos  e  provas  da  causa"  (AgRg  no  AREsp  1.750.146/PR,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quinta  Turma,  julgado  em  09/03/2021,  DJe  12/03/2021).
+No  mesmo  sentido:
+" ..
+5.  Relativamente  à  Súmula  7/STJ,  mostra-se  insuficiente  "sustentar  genericamente  que  a  matéria  seria  apenas  jurídica,  sem  explicitar,  à  luz  da  tese  recursal  trazida  no  recurso  especial,  de  que  maneira  a  análise  não  dependeria  do  reexame  de  provas"  (AgRg  no  AREsp  n.  1.677.886/MS,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  de  3/6/2020).
+ ..  "  (AgRg  nos  EDcl  no  AREsp  1.856.037/RS,  Rel.  Ministro  OLINDO  MENEZES  (DESEMBARGADOR  CONVOCADO  DO  TRF/  1.ª  REGIÃO),  SEXTA  TURMA,  julgado  em  22/06/2021,  DJe  28/06/2021,  sem  grifos  no  original.)
+Em  razão  de  o  Agravante  não  ter  rebatido  concretamente  o  fundamento  empregado  pela  decisão  agravada,  não  é  possível  o  conhecimento  do  agravo,  conforme  se  extrai  da  Súmula  n.  182/STJ:  "É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".
+Ante  o  exposto,  NÃO  CONHE ÇO  do  agravo  em  recurso  especial.
+Comunique-se ao Juízo de origem, a fim de que sejam adotadas as providências para a realização do Júri, pois "a interposição de recursos excepcionais, por serem desprovidos de efeito suspensivo, não impede o julgamento do acusado pelo júri" (AgRg no HC 706.828/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 17/06/2022).
+Publique-se.  Intimem-se.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL . HOMICÍDIO QUALIFICADO. PRONÚNCIA.  MINUTA  DE  AGRAVO  QUE  NÃO  INFIRMA  ESPECIFICAMENTE  OS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  N.  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  AGRAVO  NÃO  CONHECIDO, COM DETERMINAÇÃO.
