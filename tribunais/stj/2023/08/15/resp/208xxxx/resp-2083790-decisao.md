@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo BANCO DO BRASIL S/A, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 18/05/2020.
+Concluso ao gabinete em: 26/08/2021.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face do BANCO DO BRASIL, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Decisão interlocutória: julgou parcialmente procedente a impugnação ao cumprimento da sentença.
+Acórdão: deu parcial provimento ao recurso interposto pela recorrida, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. CÉDULA DE CRÉDITO RURAL. CORREÇÃO MONETÁRIA. IGP-M. POSSIBILIDADE. MULTA E HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. CABIMENTO.
+EM SEDE DE JULGAMENTO DO RECURSO ESPECIAL Nº 1.3129.232/DF, TERCEIRA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA DETERMINOU QUE O ÍNDICE DE CORREÇÃO MONETÁRIA APLICÁVEL PARA AS CÉDULAS DE CRÉDITO RURAL NO PERÍODO REFERENTE A MARÇO DE 1990, DEVERIA SER A BTN-F (41,28%).
+ESTABELECEU, AINDA, A DEVOLUÇÃO ENTRE ESSE INDEXADOR ,O BTN-F, E O ÍNDICE APLICADO PELO BANCO RÉU/AGRAVANTE NA ÉPOCA, O IPC DE 84,32% OU O ÍNDICE PONDERADO DE 74, 60%,DETERMINADO PELA LEI Nº 8.088/90.
+ASSIM, TENDO A JUSTIÇA ESTADUAL A COMPETÊNCIA PARA JULGAR A DEMANDA, NÃO HÁ QUE SE FALAR EM APLICAÇÃO DO ÍNDICE ATINENTE À JUSTIÇA FEDERAL, VISTO QUE A DECISÃO LIQUIDANDA DETERMINOU QUE A CORREÇÃO MONETÁRIA DEVERIA SER REALIZADA PELOS ÍNDICES APLICÁVEIS AOS DÉBITOS JUDICIAIS.
+CONTUDO, DIFERENTEMENTE DO QUE REQUER A AGRAVANTE, O IGPM NÃO É MAIS O ÍNDICE APLICADO PARA A CORREÇÃO MONETÁRIA. RECENTEMENTE ESTA COLENDA CÂMARA ALTEROU O ENTENDIMENTO, PASSANDO A ADOTAR O IPCA EM DETRIMENTO DO IGP-M, POIS É O ÍNDICE QUE MELHOR REFLETE A INFLAÇÃO ATUALMENTE. RECURSO PARCIALMENTE PROVIDO NO PONTO.
+APLICAÇÃO DA MULTA E HONORÁRIOS ADVOCATÍCIOS PREVISTOS NO ARTIGO 523 DO CÓDIGO DE PROCESSO CIVIL. NA HIPÓTESE, EM QUE PESE O DEPÓSITO TENHA SIDO REALIZADO DENTRO DO PRAZO PARA PAGAMENTO VOLUNTÁRIO, A QUANTIA NÃO FOI LIBERADA AO CREDOR. ATO CONTRÁRIO, O AGRAVADO APRESENTOU IMPUGNAÇÃO E, ANTES DISSO, QUANDO DA REALIZAÇÃO DO DEPÓSITO, ESCLARECEU QUE O DEPÓSITO DESTINOU-SE À GARANTIA DO JUÍZO PARA A APRESENTAÇÃO DA IMPUGNAÇÃO.
+ASSIM, RESTA INCONTROVERSO QUE A AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO ENSEJA A APLICAÇÃO DA MULTA DE 10%, ALÉM DOS HONORÁRIOS EM MESMO PATAMAR, NOS TERMOS DO § 1º DO ARTIGO 523 DO CPC. RECURSO PROVIDO NO PONTO.
+AGRAVO DE INSTRUMENTO PROVIDO EM PARTE. UNÂNIME.
+Recurso especial: alega violação dos arts. 489, 523, §1º, 1.022 e 1.025, do CPC. Além de negativa de prestação jurisdicional, sustenta, em síntese, que a incidência da multa prevista no artigo 523 do CPC não cabe em cumprimento individual de sentença coletiva, pois o título é carente da liquidez necessária para o cumprimento voluntário da obrigação. Defende que no caso concreto nunca houve prévia liquidação dos valores, tendo a exequente ingressado diretamente com o cumprimento de sentença.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+Segundo a orientação jurisprudencial desta Corte, "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado. Nesse sentido: EREsp 1705018/DF, SEGUNDA SEÇÃO, DJe 10/02/2021).
+Desse modo, tratando-se, portanto, de cumprimento de título oriundo de ação civil pública, que, devido a sua natureza genérica, carece de liquidez e exigibilidade, dependendo de futura apuração da titularidade do crédito e do quantum debeatur, não se aplica a multa prevista no art. 475-J, do CPC/73 (AgInt nos EDcl no REsp 1747665/SP, Quarta Turma, DJe 18/03/2022 e AgInt nos EDcl no REsp 1617992/SP, TERCEIRA TURMA, DJe 31/08/2017).
+Assim, o TJ/RS não se alinhou à jurisprudência dessa Corte quanto ao tema. Aplica-se, portanto, a súmula 568 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, e V, "a", do CPC/2015, bem como na Súmula 568 do STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para afastar a multa prevista no art. 523, §1º, do CP e determinar a liquidação do título exequendo.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. MULTA DO ART. 523, §1º, DO CPC. INAPLICABILIDADE. ILIQUIDEZ DA SENTENÇA. SÚMULA 568 DO STJ.
+1. Segundo a orientação jurisprudencial desta Corte, "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado (EREsp 1705018/DF, SEGUNDA SEÇÃO, DJe 10/02/2021).
+2. Impossibilidade de aplicação da multa prevista no art. 523, §1º, do CPC/2015, enquanto não tornada líquida a obrigação exequenda. Precedentes.
+3. Recurso especial provido.
