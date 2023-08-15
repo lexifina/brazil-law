@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TRF da 4ª Região assim ementado (e-STJ fl. 352):
+CIVIL. PROCESSUAL ADMINISTRATIVO. MCMV. FINANCIAMENTO HABITACIONAL. ATRASO NA ENTREGA DA OBRA. TERMO FINAL DA INDENIZAÇÃO. DANOS EMERGENTES. OCORRÊNCIA. RESPONSABILIDADE SOLIDÁRIA. DANOS MORAIS. ATUALIZAÇÃO PELA TAXA SELIC.
+1. A planilha de evolução que informa como data de término da obra o dia 06/02/2017, é elemento de presunção quanto à entrega das chaves ao mutuário.
+2. Configurados os pressupostos, a fixação do dano moral deve observar os princípios de moderação e de razoabilidade, assegurando à parte lesada a justa reparação, sem incorrer em enriquecimento ilícito e não deixando de observar o caráter pedagógico ao agente que cometeu o ato lesivo. O valor fixado a título de indenização do dano moral deve ter incidência a variação da taxa SELIC desde a data do arbitramento.
+3. Configurado o atraso na entrega do imóvel financiado, impõe-se a reparação do dano emergente sofrido pelo mutuário. O valor fixado a título de indenização por dano material deve ser atualizada pela Selic desde a data do evento danoso, nos termos da Súmula 54 do STJ.
+Nas razões apresentadas (e-STJ fls. 362/368), a recorrente aponta ofensa aos arts. 398 e 405 do CC/2002, pois "a Selic deve ser estipulada para atualização de débito vinculados à Fazenda Pública, sendo que, em razão da natureza civil da dívida em tela, o caso é de a plicar-se a legislação civil (art. 406/CC), com a correção monetária pelo IPCA-E a contar do arbitramento (Súmula 362/STJ) e juros de mora de 1% a partir do evento danoso (art. 398/CC e Súmula 54/STJ), tal como fez o acórdão em relação aos outros temas indenizatórios, ou, sucessivamente, da citação (art. 405/CC); ou seja, de qualquer modo que se analise a questão, os juros de mora (de 1% ou via Selic) não podem ser lançados apenas do arbitramento da indenização, sob pena de mácula à legislação" (e-STJ fl. 367)
+Nesse contexto, "requer seja reconhecida violação ao artigo 398/CC (os juros fluem do evento danoso) ou, sucessivamente, do artigo 405/CC (os juros fluem da citação), reformando-se o acórdão combatido; ainda, requer seja substituída a Selic pelo IPCA-E com juros de 1%, inclusive pela ausência de recurso das partes nesse sentido (vinculação à adstrição)" (e-STJ fl. 367).
+O recurso foi admitido na origem (e-STJ fls. 379/380).
+É o relatório,
+Decido.
+A Corte local não se manifestou quanto aos arts. 398 e 405 do CC/2002 sob o enfoque pretendido pela recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
