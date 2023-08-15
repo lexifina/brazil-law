@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que homologou os cálculos apresentados em execução de sentença, objetivando a concessão de efeito suspensivo. No Tribunal a quo, negou-se provimento ao recurso. O valor da causa foi fixado em R$ 16.000,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. URV. PRESCRIÇÃO. MUNICÍPIO QUE REQUER A APLICAÇÃO DA PRESCRIÇÃO DE FUNDO DE DIREITO AO CASO DE URV,JÁ TRANSITADO EM JULGADO. NÃO É APLICÁVEL. RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A análise da questão suscitada na impugnação ao cumprimento de sentença está prejudicada pelo fato de não ter sido debatida ou julgada na fase cognitiva do litígio.
+O inciso XXXVI do artigo 5º da Constituição Federal estabelece que nemmesmo a lei pode "prejudicar" a coisa julgada . Portanto, não será um julgamento do Supremo Tribunal Federal, mesmo que ornado com o efeito da repercussão geral, que poderá fazê-lo.
+Frise-se, portanto, que a decisão não se mostra defeituosa sob o aspecto de técnica processual, já que prestigia a coisa julgada , devendo ser dada continuidade ao cumprimento do v. acórdão exequendo e não se mostra defeituosa sob o aspecto jurídico, uma vez que a jurisprudência entende de forma uníssona que a prescrição de fundo de direito para os casos de URV é inaplicável.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 487, II, c/c art. 485, X, §3º, do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
