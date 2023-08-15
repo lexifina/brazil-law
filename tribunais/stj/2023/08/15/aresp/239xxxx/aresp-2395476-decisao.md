@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 234):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE REVISÃO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. JUROS REMUNERATÓRIOS. NECESSÁRIA OBSERVÂNCIA À TAXA MÉDIA DE MERCADO ANUNCIADA PELO BACEN. MATÉRIA SEDIMENTADA NA CORTE SUPERIOR E NOS ENUNCIADOS DESTE TRIBUNAL. PERCENTUAL QUE EXTRAPOLA O LIMITE JURISPRUDENCIAL ESTABELECIDO DE DEZ POR CENTO. ABUSIVIDADE RECONHECIDA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Sustenta a parte agravante a impossibilidade de revisão contratual em razão da obrigatoriedade do contrato e da ausência de situação que coloque uma das partes em extrema dificuldade.
+Adverte que os juros contratados não são discrepantes em relação à taxa média de mercado, motivo pelo qual não há se falar em abusividade.
+Aduz que o Tribunal de origem para fundamentar a abusividade, fez apenas um mero cotejo entre taxa de juros prevista no contrato objeto da ação e a taxa média publicada pelo Bacen na época da contratação, o que evidencia a divergência da decisão recorrida, com a jurisprudência do STJ.
+Assim posta a questão, passo a decidir.
+O recurso não prospera, uma vez que a parte não menciona o artigo de lei que foi violado e, de acordo com a jurisprudência do STJ, mesmo nos casos em que o Recurso Especial é interposto apenas pela alínea "c" do art. 105 da Constituição Federal, imprescindível se mostra a indicação do artigo legal tido como violado ou que teve sua vigência negada, pois o dissídio jurisprudencial se baseia na interpretação divergente da lei federal. Em face de tal deficiência recursal, aplica-se a Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL INTERPOSTO APENAS PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF CONCESSÃO DE APOSENTADORIA POR INVALIDEZ OU DE RESTABELECIMENTO DE AUXÍLIO-DOENÇA. ALTERAÇÃO DO JULGADO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de concessão de aposentadoria por invalidez ou de restabelecimento de auxílio-doença.
+2. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles. Indispensável a transcrição de trechos do relatório e do Voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+3. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC/1973, art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial previsto na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. De acordo com a jurisprudência do STJ, mesmo nos casos em que o Recurso Especial é interposto apenas pela alínea "c" do art. 105 da Constituição Federal, imprescindível se mostra a indicação do artigo legal tido como violado ou que teve sua vigência negada, pois o dissídio jurisprudencial se baseia na interpretação divergente da lei federal. Em face de tal deficiência recursal, aplica-se a Súmula 284 do STF.
+5. Ainda que assim não fosse, verifica-se que o acórdão recorrido, ao concluir pelo não preenchimento dos requisitos para a concessão do benefício pretendido, fundamentou-se nas provas colacionadas aos autos. Assim, para infirmar as conclusões a que chegou a Corte de origem, necessário reexaminar o conjunto fático-probatório dos autos, o que é vedado em Recurso Especial, ante a Súmula 7/STJ.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.259.803/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2023, DJe de 28/6/2023 - grifei.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIÇOS PÚBLICOS. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. DECRETO REGULAMENTAR 553/1976 DO ESTADO DO RIO DE JANEIRO. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 518/STJ. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que deixa de apontar o dispositivo de lei federal que o Tribunal de origem teria violado, incidindo no caso, por analogia, a Súmula 284 do STF.
+2. Esta Corte possui entendimento segundo o qual é vedada a análise de decreto regulamentar em recurso especial diante da aplicação, por analogia, da Súmula 518/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.877.682/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023 - grifei.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE IMISSÃO NA POSSE. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA 284 DO STF. VIOLAÇÃO À CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182 DO STJ. NÃO PROVIMENTO.
+1. A via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF.
+2. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+3. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182 do STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.895.548/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
