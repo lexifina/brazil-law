@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ CARLOS TULER, contra decisão monocrática deste signatário (fls. 697-707, e-STJ), que deu parcial provimento ao seu recurso especial, determinando que os honorários advocatícios incidam sobre o valor total da condenação.
+Nestes aclaratórios (fls. 710-719, e-STJ), aponta o recorrente omissão e obscuridade quanto à incidência dos honorários sobre todos os pedidos julgados procedentes e omissão quanto aos honorários recursais. Pugna, ainda, seja autorizada a correção monetária dos valores descritos na petição inicial, nos termos da Súmula 14 do STJ.
+Resposta apresentada (fls. 723-725, e-STJ).
+É o relatório.
+Decido.
+Os embargos merecem parcial acolhimento.
+1. De fato, verifica-se que a decisão de fls. 697-707, e-STJ, conquanto tenha dado parcial provimento ao recurso especial interposto pelo ora embargante, para determinar que os honorários advocatícios incidam sobre o valor total da condenação, isto é, a soma dos débitos declarados como inexigíveis e os danos morais fixados, ignorou que a ação foi julgada procedente também para reconhecer a existência e a validade do acordo extrajudicial celebrado entre as partes, capítulo que possui evidente conteúdo econômico e deve, portanto, ser levado em consideração para fins de fixação da verba honorária, a teor da jurisprudência desta E. Corte, destacada alhures.
+Assim, o decisum embargado deve ser corrigido para, onde se lê ".. razão pela qual merece reforma para que a verba honorária incida sobre o valor total da condenação, isto é, a soma dos débitos declarados como inexigíveis e os danos morais fixados" (fl. 707, e-STJ), fazer constar o seguinte: ".. razão pela qual merece reforma para que a verba honorária incida sobre o valor total da condenação, isto é, o benefício econômico auferido pelo autor com todos os pedidos julgados procedentes, a ser apurado em liquidação de sentença".
+Improcede, todavia, a alegação de omissão quanto aos honorários recursais, haja vista que sua fixação deve ocorrer apenas nos casos em que "o recurso não for conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado" (v.g., AgInt no REsp n. 1.955.274/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023, grifou-se), situação diversa da verificada no presente caso, em que o recurso especial foi parcialmente provido.
+Por fim, não se conhece do pedido para correção dos valores descritos na inicial, nos termos do enunciado da Súmula 14/STJ, uma vez que a questão não foi objeto do recurso especial, configurando sua alegação apenas em sede de embargos de declaração indevida inovação recursal.
+2. Do exposto, acolho parcialmente os embargos de declaração para sanar a obscuridade apontada, nos termos da fundamentação supra.
+Publique-se.
+Intime-se.
