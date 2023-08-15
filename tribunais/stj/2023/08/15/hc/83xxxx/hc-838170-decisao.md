@@ -1,0 +1,14 @@
+DECISÃO
+JOÃO VICTOR AZEVEDO ANTUNES, condenado por roubo circunstanciado, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que, em apelação, reduziu a pena imposta para 8 anos e 4 meses de reclusão, em regime fechado, além de 20 dias-multa.
+Neste writ, afirma a defesa que assere a defesa que a majoração da pena-base foi desproporcional e arbitrária, visto que se lastreou em elementos inerentes ao próprio tipo penal. Assinala, no particular, que "o fato de o prejuízo patrimonial suportado não pode ser desvalorado para efeito de fixação de pena-base, uma vez que a subtração constitui elementar do delito imputado" (fl. 6).
+Não houve pedido de liminar e as informações foram prestadas às fls. 43-46 e 56-71. Encaminhados os autos ao Ministério Público, este se manifestou pela denegação da ordem, ao argumento de que o elevado prejuízo suportado pela vítima constitui argumento idôneo para a majoração da pena-base (fl. 73-80).
+Decido.
+Depreende-se dos autos que o paciente foi condenado, por roubo circunstanciado, ao cumprimento de 8 anos e 4 meses de reclusão, em regime fechado, além de 20 dias-multa. Ao avaliar as circunstâncias judiciais, destacou o Tribunal de origem, no acórdão proferido em embargos infringentes, o seguinte (fl. 13, destaquei):
+ ..
+Na hipótese dos autos, o embargante subtraiu do estabelecimento comercial 32 (trinta e dois) aparelhos de telefonia celular. Ao analisar a pena-base do acusado, tanto o juízo a quo como a colenda Quinta Câmara Criminal consideraram como negativa a circunstância judicial referente às consequências do crime.
+Com efeito, esta Relatora entende que as consequências deste roubo estão a merecer algum aumento e, na hipótese, a exasperação de 01 ano de reclusão e dois dias-multa se afigura suficiente como reprovação, pois o valor dos bens subtraídos ultrapassa a perda patrimonial ordinariamente esperada para um crime de roubo.
+Como se observa, as consequências do crime foram consideradas desfavoráveis fundamentalmente em razão do expressivo prejuízo patrimonial sofrido pela vítima com a conduta. Tal compreensão está em consonância com a orientação desta Corte.
+De fato, " e mbora a subtração patrimonial seja elementar do crime de roubo, é possível a avaliação negativa do vetor "consequências do crime" quando for considerável o prejuízo financeiro suportado pela vítima" (AgRg no HC n. 765.752/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 10/10/2022) .
+Logo, como destacou o Parquet Federal, contata-se "a idoneidade da fundamentação utilizada para elevar a sanção em razão das circunstâncias do crime, que ocasionou grave dano patrimonial à vítima em razão da subtração de 32 aparelhos celulares" (fl. 75).
+À vista do exposto, com fundamento no ar. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
