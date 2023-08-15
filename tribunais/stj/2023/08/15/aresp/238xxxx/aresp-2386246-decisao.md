@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSÉ EDUARDO GRIBEL VIVAQUA e OUTROS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Ação: embargos à execução promovida pela COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DA MATA MINEIRA -SICOOB CREDIMATA em face dos agravantes
+Sentença: rejeitou a impugnação ao benefício de justiça gratuita aos embargantes, o pedido de suspensão da execução, negou provimento aos embargos, determinou o prosseguimento da execução e julgou extinto o feito, com base no art. 487, I do CPC.
+Acórdão: negou provimento ao recurso interposto pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS DO DEVEDOR - CÉDULA DE CRÉDITO BANCÁRIO - PLANILHA DÉBITO - OBSERVÂNCIA DOS REQUISITOS § 2º DO ART. 28 DA LEI 10.931/04 -NULIDADE DA EXECUÇÃO REJEITADA - LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA.
+Conforme disposto no artigo 28 da Lei 10.931/04, a cédula de crédito bancário é título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, seja pela soma nela indicada, seja pelo saldo devedor demonstrado em planilha de cálculo, ou nos extratos da conta corrente. Não há se falar em nulidade da execução de Cédula de Crédito Bancário se a o valor executado estiver indicado em planilha de cálculo. Não se impõe multa por litigância de má-fé se ausente conduta processual ímproba ou dano causado ao oponente.
+Recurso especial: alegam violação dos arts. 489, 786 e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentam, em síntese, que o título executivo não é certo e nem exigível, ante a ausência de prova do inadimplemento dos títulos bancários.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: ausência de violação dos arts. 489 e 1.022 do CPC; Súmulas 283/STF e 284/STF (quanto à comprovação de eventual pagamento do título pelo devedor originário, de forma a afastar a exigibilidade do título).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos: Súmulas 283/STF e 284/STF (quanto à comprovação de eventual pagamento do título pelo devedor originário, de forma a afastar a exigibilidade do título)
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% sobre o valor da execução (e-STJ fls. 112) para 20%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
