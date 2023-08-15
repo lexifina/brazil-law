@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 436-439):
+ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR PREJUÍZOS SUPOSTAMENTE CAUSADOSPOR IMISSÃO DE POSSE DO INCRA ASSEGURADA EM AÇÃO DE DESAPROPRIAÇÃOTRANSITADA EM JULGADO. DECRETO PRESIDENCIAL POSTERIORMENTE DECLARADOINCONSTITUCIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DO DANO SUPORTADO. SENTENÇADE IMPROCEDÊNCIA MANTIDA.
+1. Apelação interposta por NEGÓCIO IMOBILIÁRIO S. A. e USINA ESTRELIANA LTDA. EPP, contra sentença que resolveu o mérito da demanda e julgou improcedente o pedido formulado na inicial, com fulcro no art. 487, inciso I, do CPC, objetivando a indenização por prejuízos efetivos e lucros cessantes causados pela imissão ilegal de posse do Instituto Nacional de Colonização e Reforma Agrária (INCRA)no imóvel rural denominado Engenho São Gregório/Alegre I/ Alegre II. Honorários advocatícios arbitrados em 10% sobre o valor atualizado da causa, com fulcro no art. 85, § 2º, do CPC.
+2. Em seu apelo, os particulares argumentam, em síntese, que:
+a) preliminarmente, deve ser anulada a sentença, por cerceamento do direito de defesa, ao julgar antecipadamente a lide, haja vista a negativa de produção de prova pericial, necessária para demonstrar seu direito à indenização;
+b) o Decreto Presidencial que precariamente autorizou a posse do INCRA foi julgado inconstitucional pelo Pleno do STF, no MS 22.613/PE, julgado em 08/06/1998, possuindo efeitos; ex tunc
+c) em que pese o trânsito em julgado favorável com decisão do Juízo da 26ª Vara nesse sentido, não houve a efetiva reintegração até a presente data;
+d) é absurda a tese de que, por não estarem na posse dos imóveis rurais, por decisão judicial provisória, impedidas estavam do uso dos bens, e, em razão disso, afastado o direito à indenização pelos lucros cessantes, uma vez que obstadas de usá-los;
+e) no caso da Negócio Imobiliário, deve ser fixado, como forma de indenização, o valor do arrendamento mensal dos imóveis rurais, contados da data da aquisição da propriedade dos bens até a efetiva imissão da posse;
+f) a indenização da Estreliana deve dar-se pelo faturamento frustrado de açúcar e álcool que o processamento da cana plantada nos imóveis rurais permitiria, subtraído dos custos habituais, de modo a encontrar o lucro cessante, desde a ilegal imissão de posse, iniciada em 18/02/1997, até a data da aquisição pela Negócio Imobiliário;
+g) reclamam, por meio de liquidação do julgado, as receitas perdidas em decorrência da geração de energia pela hidroelétrica, de acordo com a sua capacidade de produção, descontados os custos habituais;
+h) trata-se de caso de enriquecimento sem causa e, por essa razão, deve o INCRA responsabilizar-se pelo ressarcimento dos rendimentos interrompidos;
+i) não procede a argumentação do Juízo de que a ação de rito comum não seria o meio apropriado para as empresas buscarem sua indenização, uma vez que o cumprimento do julgado na ação de desapropriação se limita a reintegrar a proprietária na posse;
+j) ainda que se decidisse pela licitude do ato do INCRA, persiste o dever de indenizar, haja vista que o Estado responde juridicamente também pela prática de atos lícitos, quando deles decorrerem prejuízos para os particulares (RE 571.969);
+k) inequívoco que o INCRA, ao tomar posse dos imóveis, através de decisão judicial precária, causou e causa dano/lucro cessante, impossibilitando o gozo de rendimentos;
+l) alternativamente, sendo a posse supostamente lícita, inviabilizando a indenização pleiteada, devem ser consideradas as seguintes datas como posse sem respaldo judicial: data em que o Decreto Presidencial autorizativo foi julgado inconstitucional pelo Pleno do STF, no MS 22.613/PE, julgado em 08/06/1998; a sentença que transformou a pretensão em desapropriação indireta, datada de 26/02/2004, reformada pelo acórdão de apelação, proferido em 18/05/2006; o acórdão do STF, proferido no Ag. Reg. na Suspensão de Liminar 157/PE, que, em 21/09/2017, julgou exauridos os efeitos da liminar concedida em 14/05/2007; e o pedido de suspensão na execução do julgado, por ambas as partes em busca de acordo, foi de apenas 60 dias (de 04/04/2018 a 04/06/2018), não maculando o direito à indenização, notadamente porque acreditaram na boa-fé do INCRA.
+3. De início, cumpre esclarecer que os lucros cessantes consistem em uma espécie de juros compensatórios, os quais se destinam a ressarcir o prejuízo sofrido pelos particulares em função de ato expropriatório praticado pela Administração Pública, haja vista terem deixado de auferir os rendimentos que obteriam, acaso não ocorresse a privação de sua propriedade, sendo o dano, portanto, incontestável.
+4. A autarquia federal, conforme descreve nos presentes autos, entendeu que, uma vez amparada em decisão judicial, poderia instalar na área dos imóveis São Gregório e Alegre I e II o Projeto de Assentamento. E assim o fez. A imissão do INCRA na posse ocorreu em 18/02/1997, momento a partir do qual passou a assentar trabalhadores sem-terra.
+5. No mandado de segurança previamente ajuizado perante o Supremo Tribunal Federal em 01/10/1996,decidiu-se pela invalidação do Decreto Presidencial supramencionado, o qual transitou em julgado em19/05/1999 (fls. 1163/1165), tornando-se a decisão definitiva dois anos após o início do projeto de assentamento realizado pelo Instituto.
+6. Nas contrarrazões aos embargos de declaração opostos pelo Negócio Imobiliário S/A, o INCRA aduziu o seguinte:
+ ..
+7. A sentença há de ser mantida pelos seus próprios fundamentos, consoante exposto a seguir.
+ ..
+8. O INCRA imitiu-se na posse dos imóveis dentro da legalidade, em que pese, posteriormente, o Decreto Presidencial ter sido declarado inconstitucional pela Corte Suprema. Isso é fato. Por outro lado, se dano houve em nenhum momento foi demonstrado.
+9. Apelação desprovida. Honorários majorados de 10% para 11% sobre o valor da causa, nos termos do art. 85, § 11, do CPC/2015, vigente ao tempo da prolação da sentença. (grifo nosso)
+Embargos de declaração rejeitados.
+Os recorrentes alegam violação do artigo 489, § 1º, inciso IV e 1.022, inciso II, ambos do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões:
+(a) preliminar de cerceamento de defesa;
+(b) ausência de apreciação de provas a respeito da perda de rendimentos descritos em laudos;
+(c) coisa julgada quanto à ilegalidade da posse;
+(d) direito à indenização pela revogação da decisão que concedeu posse provisória, nos termos do art. 302, do CPC/2015;
+(e) desnecessidade de ato ilícito a fim de se reconhecer o direito à indenização pleiteada;
+(f) pedido subsidiário de indenização após a revogação da tutela provisória de urgência;
+(g) determinação, nos autos de cumprimento de sentença da ação de desapropriação, para que postulem perdas e danos em ação própria.
+Quanto às questões de fundo, sustentam ofensa: (a) aos artigos 402 e 403, do Código Civil, sob o argumento de que a reparação por perdas e danos é devida na hipótese pela perda antecipada da posse do imóvel, com impedimento de auferir rendimentos; (b) aos artigos 15 do Decreto-lei n. 3.365/1941 e 302 do CPC/2015, sob o argumento de que, embora a lei que regula a desapropriação não estabeleça indenização pela revogação da decisão que concedeu a imissão provisória na posse, deve a parte responder pelo prejuízo que a efetivação da tutela de urgência causa à parte adversa nos termos do art. 302 do CPC/2015; (c) ao art. 503 do CPC/2015, sob o argumento de que o trânsito em julgado da ação de desapropriação garante o direito à indenização pleiteado
+Juízo positivo de admissibilidade à fl. 619.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, os recorrentes pretendem a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional e omissões no julgamento da controvérsia.
+Extrai-se dos autos que os recorrentes argumentaram e requereram a manifestação expressa do órgão julgador a respeito da seguintes questões (fls. 536-543):
+(a) preliminar de cerceamento de defesa;
+(b) ausência de apreciação de provas a respeito da perda de rendimentos descritos em laudos;
+(c) coisa julgada quanto à ilegalidade da posse;
+(d) direito à indenização pela revogação da decisão que concedeu posse provisória, nos termos do art. 302, do CPC/2015;
+(e) desnecessidade de ato ilícito a fim de se reconhecer o direito à indenização pleiteada;
+(f) pedido subsidiário de indenização após a revogação da tutela provisória de urgência;
+(g) determinação, nos autos de cumprimento de sentença da ação de desapropriação, para que postulem perdas e danos em ação própria.
+Por outro lado, no julgamento da apelação, o acórdão recorrido se limitou a reproduzir e adotar os fundamentos expostos em sentença, sem, contudo, se manifestar a respeito das matérias supracitadas relevantes para a solução da controvérsia (fls. 433-435).
+Por conseguinte, em sede de embargos de declaração, a Corte de origem foi instada a se manifestar sobre as questões acima expostas, todavia, novamente, não houve manifestação expressa sobre os pontos suscitados (fl. 503)
+Com efeito, evidencia-se que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Insta salientar que a fundamentação per relationem é admitida pela jurisprudência do Superior Tribunal de Justiça, "No entanto, exige que o julgador apresente elementos próprios de convicção, ainda que de forma sucinta, de modo a enfrentar todas as questões relevantes para o julgamento do processo" (REsp n. 2.050.338/MA, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 21/3/2023, DJe de 5/6/2023.).
+Nesse mesmo sentido "Apesar de não se exigir do magistrado, desde que amparado em fundamentação suficiente, a obrigação de responder a todos os argumentos suscitados pela parte, na espécie, as alegações apresentadas nos aludidos embargos de declaração mostram-se relevantes para a solução da controvérsia, razão por que devem ser expressamente enfrentadas, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ" (AgInt no AREsp 1.377.683/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 1º.10.2020)"
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie as matérias articuladas nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMP RESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
