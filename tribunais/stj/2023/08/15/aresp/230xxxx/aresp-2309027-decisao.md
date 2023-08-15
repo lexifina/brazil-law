@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional, da incidência das Súmulas n. 282 e 283 do STF (e-STJ fls. 625/627).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 567):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA C/C EXIBIÇÃO DE DOCUMENTOS - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - AUSÊNCIA DE CONHECIMENTO PRÉVIO E INEQUÍVOCO DO AUTOR SOBRE A APÓLICE E AS CONDIÇÕES INDIVIDUAIS E GERAIS DO SEGURO - VIOLAÇÃO AO DEVER DE INFORMAÇÃO - ALEGAÇÃO DE QUE OS DOCUMENTOS PODERIAM SER FACILMENTE ACESSADOS PELO AUTOR POR TELEFONE, SITE OU EM AGÊNCIA BANCÁRIA QUE NÃO AFASTA O DEVER PRÉVIO DE INFORMAÇÃO IMPUTADO À SEGURADORA - AUSÊNCIA DE DEVIDO DESTAQUE NA CLÁUSULA LIMITATIVA NAS CONDIÇÕES ESPECIAIS DO CONTRATO QUE IMPEDE SUA APLICAÇÃO - INTELIGÊNCIA DO ART. 54, § 4º, DO CDC - INAPLICABILIDADE DA TABELA DE GRADUAÇÃO DAS LESÕES, EXPEDIDA PELA SUSEP - INDENIZAÇÃO DEVIDA EM SUA INTEGRALIDADE, DESCONTADO O MONTANTE PAGO AO AUTOR NA VIA ADMINISTRATIVA - CORREÇÃO MONETÁRIA - INCIDÊNCIA A PARTIR DA DATA DE CONTRATAÇÃO - SÚMULA 632 DO STJ -APLICABILIDADE DO ART. 85, § 11, DO CPC.
+RECURSO DE APELAÇÃO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 585/586).
+Nas razões do recurso especial (e-STJ fls. 591/608), fundamentado no art. 105, III, "a" , da CF, a parte alega violação dos arts. 489, § 1º, IV, 1.022, II, parágrafo único, II, do CPC/2015, 757, 760 do CC/2002, 35 e 36 do Decreto-Lei n. 73/1966.
+Aponta negativa de prestação jurisdicional, aduzindo que o aresto recorrido (e-STJ fl. 593):
+(..) deixou de indicar, de forma fundamentada, as razões pelas quais não adotou o entendimento dos artigos 757 e 760 do CC, que estabelecem que a obrigação da seguradora é limitada aos riscos predeterminados, os quais deverão estar descritos na apólice. Igualmente, se omitiu quanto à competência da SUSEP para regulamentar as operações securitárias, nos termos dos artigos 35 e 36 do Decreto-Lei 73/66, sendo que vem dela a limitação dos valores de indenização.
+Quanto ao tema de fundo assevera que (e-STJ fl. 593):
+(..) a invalidez do Recorrido é parcial, não podendo, assim, o Recorrente ser compelido a efetuar o pagamento do valor integral do capital segurado, mas tão somente o proporcional à invalidez apurada na perícia médica, nos termos dos arts. 757 e 760 do CC e arts. 35 e 36 do Decreto-Lei 73/66.
+Ao final, requer o provimento do recurso, "a fim de reconhecer a legalidade do pagamento da indenização proporcional, em razão de a invalidez ter sido apenas parcial, sob pena de violação aos artigos 757 e 760 do Código Civil e ao artigo 54, §4º, do CDC" (e-STJ fl. 608).
+No agravo (e-STJ fls. 631/640), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 643).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 355/357):
+No mérito, cinge-se a discussão quanto à possibilidade de pagamento da indenização securitária de acordo com a tabela SUSEP e o grau de invalidez do apelado.
+De fato, consta da apólice de mov. 24.9 que o capital segurado no caso de invalidez por acidente é de "até R$ 52.048,41", cuja expressão tem sido aceita por este Tribunal de Justiça em casos semelhantes como suficiente para informar o consumidor sobre a possibilidade de pagamento parcial, de acordo com o grau de invalidez.
+No entanto, o apelado afirmou em sua exordial não ter tido ciência dos termos da apólice, tampouco das condições gerais do contrato.
+Sobre o tema, é certo que o art. 6º, inciso III, do CDC prevê a informação como um direito básico do consumidor, o qual, se descumprido pelo fornecedor, faz com que as condições contratuais desconhecidas não obriguem o consumidor.
+Visto isso, não vislumbro nos autos qualquer comprovação da ciência do apelado quanto aos termos da referida apólice, ônus que era da apelante e seria facilmente comprovado pela apresentação do documento original devidamente assinado.
+Consigno que, embora a apelante sustente que os termos do contrato poderiam ser facilmente consultados via telefone, site ou comparecimento em uma agência bancária, além de inexistir comprovação do conhecimento do apelante sobre essas possibilidades, tal fato não exime a seguradora do dever de informação prévio quanto ao serviço ofertado, não sendo crível imputá-lo ao apelado.
+(..)
+Além disso, como muito bem observado pelo juízo de primeiro grau, as próprias condições especiais do contrato, acostadas pela apelante no mov. 24.18, não se encontram de acordo com o art. 54, § 4º, do CDC, uma vez que a cláusula que versa sobre o pagamento da indenização a título de invalidez permanente total ou parcial por acidente de acordo com a tabela SUSEP não foi redigida com o destaque devido (vide pág.35, cláusula 3ª, item 1.2), o que também afasta sua aplicação na espécie.
+Dessa forma, considerando a ausência de ciência do apelado quanto aos termos da apólice e das condições gerais do seguro, bem como sobre a aplicação da tabela SUSEP, a indenização por invalidez permanente parcial por acidente deve corresponder à integralidade do capital segurado, qual seja, R$ 52.048,41, descontada a quantia recebida administrativamente (R$ 7.807,26), tal qual constou da sentença.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Ademais, para alterar as conclusões do acórdão impugnado quanto à limitação da cobertura securitária, seria imprescindível o reexame das cláusulas contratuais e revolver os elementos fático-probatório dos autos, o que é inadmissível na via especial, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
