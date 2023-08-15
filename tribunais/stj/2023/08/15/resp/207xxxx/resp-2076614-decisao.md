@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ, fl. 258):
+EMBARGOS DE TERCEIRO - Sentença de rejeição - Embargantes que alegam terem adquirido metade do imóvel penhorado anteriormente à dívida e execução - Contrato de compromisso de compra e venda que não foi levado a registro na matrícula do imóvel - Pagamentos do preço não comprovados - usência de documentos comprobatórios de que a aquisição do imóvel de fato ocorreu e em data anterior à dívida e execução - Elementos que nas circunstâncias ensejam má fé - Proteção de terceiro incabível - Embargos corretamente rejeitados - Pedido do embargado de fixaçao da verba honoraria com base no valor do bem, equivalente ao proveito econômico obtido - Descabimento, no caso, pois geraria valor que implicaria violação à razoabilidade, proporcionalidade, e à equidade, acarretando enriquecimento sem causa do vencedor e gravame excessivo ao vencido - Honorários advocatícios fixados sobre o valor da causa, valor condizente com o escopo objetado e o NCPC, art. 85, § 2º e incisos, na remessa do § 8º - - Sentença mantida - Recursos desprovidos, e majorados os honorários advocatícios (NCPC, art. 85, §11).
+Os embargos de declaração opostos pelos agora recorridos foram rejeitados (e-STJ, fls. 407/411 e 412/415).
+Nas razões do especial (e-STJ, fls. 267/303), a recorrente aponta violação do art. 85, §§ 2º e 8º, do CPC/2015. Afirma ser impositivo o arbitramento dos honorários advocatícios sucumbenciais sobre o proveito econômico obtido, correspondente ao valor do bem objeto da penhora, observados os limites percentuais definidos no dispositivo. Outrossim suscitou dissídio jurisprudencial.
+Contrarrazões às fls. 419/424 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não prospera.
+Os embargos de terceiro foram opostos pelos agora recorridos em face de execução na qual houve a penhora de bem imóvel que se afirma avaliado em R$ 350 mil. Segundo argumenta a recorrente, seria esse o proveito econômico obtido com a presente demanda.
+Tem-se, contudo, premissa equivocada.
+A dívida executada corresponde a não mais do que R$ 16.420,38 (dezesseis mil, quatrocentos e vinte reais e trinta e oito centavos), em posição para novembro de 2019, valor esse que foi atribuído à causa pelos embargantes-recorridos (e-STJ, fl. 9) e não impugnado pela embargada-recorrente.
+Ainda que eventualmente expropriado o bem objeto da constrição, portanto, à recorrente somente caberia receber quantia equivalente à de seu crédito,
+Nesse contexto, força reconhecer que o proveito econômico obtido pela recorrente não é senão correspondente ao valor da causa dos embargos, de sorte que a condenação imposta pelo Juízo de primeira instância - e mantida pelo TJSP - observa o disposto no art. 85, § 2º, do CPC/2015, na linha do entendimento firmado pela Corte Especial do STJ no julgamento do Tema repetitivo n. 1.076:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
