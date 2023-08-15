@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 587/589).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 447):
+AÇÃO MONITÓRIA. Contrato de empréstimo bancário. Consignação. Consumidor interditado. Ausência de prova de contratação representado por sua curadora. Nulidade reconhecida. Retorno das partes ao status quo ante. Devolução pelo réu do valor que foi creditado em sua conta bancária pela instituição financeira, sob pena de se prestigiar o enriquecimento sem causa, sem incidência de juros, porquanto inexiste mora por se tratar de negócio cuja nulidade foi reconhecida.
+EXTINÇÃO DO EMPRÉSTIMO PELA MORTE. Não cabimento. Entendimento do STJ no sentido de que houve revogação da Lei nº 1.046/50.
+COMPENSAÇÃO. Possibilidade com relação ao valor disponibilizado em favor do réu. Sentença reformada.
+HONORÁRIOS ADVOCATÍCIOS. Pedido de redução pelo réu. Inadmissibilidade. Montante fixado que remunera com dignidade o trabalho do advogado. Sentença mantida.
+RECURSO AUTOR PARCIALMENTE PROVIDO, NÃO PROVIDO O DO RÉU.
+Nas razões do recurso especial (e-STJ fls. 454/489), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do art. 16 da Lei n. 1.046/1950, sustentando, em síntese, a necessidade de se reconhecer a extinção do crédito obtido por consignação em folha em razão da morte do devedor.
+Segundo afirma, "a Lei 10.820/03, por ser o último diploma legal que trata do crédito consignado, não regulou a hipótese de falecimento do mutuário/financiado; entretanto, o artigo 16, da Lei 1.046/50, elucida tal questão, revelando que a cobrança levada a efeito pelo Recorrido, nos presentes autos monitórios entremonstra-se abusiva, ilegal e ilegítima, pois com a morte do Recorrente, extingue-se o débito, por força do artigo 16 da Lei 1.046/50" (e-STJ fl. 488).
+No agravo (e-STJ fls. 592/627), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 661/672 (e-STJ).
+É o relatório.
+Decido.
+No caso, o TJSP afastou a tese de extinção da dívida, decidindo a matéria com base nos seguintes fundamentos (e-STJ fl. 450):
+Não merece prevalecer a alegação de extinção da dívida, com fundamento no disposto no artigo 16 da Lei n.º 1.046/50. O Superior Tribunal de Justiça fixou o entendimento de que houve a ab-rogação tácita ou indireta da Lei 1.046/50 pela Lei 8.112/90, pois esta tratou, inteiramente, da matéria contida naquela, afastando, em consequência, a sua vigência no ordenamento jurídico.
+A insurgência quanto ao conflito intertemporal envolvendo a aplicação do art. 16 da Lei n. 1.046/1950 não pode ser sustentada apenas com base no referido dispositivo, o qual não regula a matéria. O Tribunal aplicou ao caso precedente jurisprudencial fundamentado no art. 2º, § 1º, da LINDB. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ainda que assim não fosse, a decisão recorrida está em consonância com a jurisprudência desta Corte, conforme se verifica dos seguintes precedentes:
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. CONTRATO DE CRÉDITO CONSIGNADO EM FOLHA DE PAGAMENTO. SERVIDOR MILITAR. FALECIMENTO DO CONSIGNANTE. EXTINÇÃO DA DÍVIDA. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. ART. 16 DA LEI Nº 1.046/50. REVOGAÇÃO TÁCITA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Consoante a jurisprudência desta Corte, é incabível a quitação de empréstimo consignado em folha em virtude do falecimento do consignante, porquanto a Lei nº 1.046/50, que previa essa possibilidade, não está mais em vigor, uma vez que o seu texto não foi reproduzido pela Lei nº 10.820/03, aplicável aos celetistas, tampouco pela Lei nº 8.112/90, aplicável aos servidores civis. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.887.723/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/4/2021, DJe de 22/4/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE EMPRÉSTIMO. CONSIGNAÇÃO EM FOLHA. FALECIMENTO DA CONSIGNANTE. EXTINÇÃO DA DÍVIDA. IMPOSSIBILIDADE. AGRAVO PROVIDO.
+1. É incabível o pleito da parte autora de quitação do empréstimo consignado em folha em virtude do falecimento da consignante, porquanto a Lei 1.046/50, que previa a extinção da dívida em caso de falecimento do consignante - e que não está mais em vigor - não teve seu texto reproduzido pela Lei 10.820/2003, aplicável aos celetistas, tampouco pela Lei 8.112/90, aplicável aos servidores civis.
+2. "Malgrado a condição da consignante - se servidora pública estatutária ou empregada celetista; se ativa ou inativa - não tenha sido considerada no julgamento dos embargos à execução opostos pelo espólio, tal fato não impede o julgamento deste recurso especial, porquanto, sob qualquer ângulo que se analise a controvérsia, a conclusão é uma só: o art. 16 da Lei 1.046/50, que previa a extinção da dívida em virtude do falecimento do consignante, não está mais em vigor, e seu texto não foi reproduzido na legislação vigente sobre o tema. No particular, a morte da consignante não extingue a dívida por ela contraída mediante consignação em folha, mas implica o pagamento por seu espólio ou, se já realizada a partilha, por seus herdeiros, sempre nos limites da herança transmitida (art. 1.997 do CC/02)" (REsp 1.498.200/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/06/2018, DJe de 07/06/2018).
+3. Agravo interno provido para dar provimento ao recurso especial, a fim de julgar improcedentes os pe didos formulados na inicial.
+(AgInt no REsp n. 1.414.744/CE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/9/2019, DJe de 25/9/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
