@@ -1,0 +1,38 @@
+DECISÃO
+PAULO SERGIO GONÇALVES DA SILVA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0004614-75.2016.8.26.0038.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Em grau de recurso, a reprimenda foi reduzida para 2 anos e 11 meses de reclusão, em regime fechado, mais multa.
+Nas razões da impetração, a defesa requer o reconhecimento da atenuante da confissão espontânea e a sua compensação integral com a agravante da reincidência, para a redução da pena fixada. Aduz que o réu foi beneficiado com a causa de diminuição de pena, por sua semi-imputabilidade, entretanto considera que a escolha da fração intermediária de redução da sanção não foi fundamentada. Finalmente, pugna pela fixação de regime inicial menos gravoso.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fl. 1.082).
+Decido.
+I. Atenuante da confissão espontânea
+No tocante à atenuante da confissão espontânea, conforme consignado na sentença condenatória, o réu não admitiu a prática dos delitos, seja na fase extrajudicial, seja em juízo. Transcrevo (fl. 831, grifei):
+Interrogado, o réu Paulo admitiu ter sido flagrado na posse das drogas apreendidas. Alega, todavia, que destinadas a consumo pessoal. Afirmou, ainda, ter comprado as drogas na companhia do corréu, que, entretanto, de nada sabia. Admitiu a compra de 23 porções de cocaína. Alegou nada saber sobre os 7 mil eppendorfs vazios encontrados no porta-malas. Disse ser usuário de drogas e já ter sido internado para tratamento. Recebia auxilio do INSS e utilizava o beneficio para comprar drogas (fls. 708).
+Acrescentou o Tribunal de origem, ao julgar o recurso de apelação (fls. 950-951, destaquei):
+A defesa pretende o reconhecimento da atenuante da confissão.
+Entretanto, não há que se falar em aplicação da atenuante espontânea, na medida em que acertadamente o MM. Magistrado deixou de aplicar a atenuante da confissão já que o réu, embora tenha admitido parcialmente os fatos, deu-lhes outra versão.
+Portanto o réu não confessou a prática do delito, afigurando-se inviável o reconhecimento da atenuante, tendo em vista a evidente tentativa de se beneficiar com sua versão.
+Nos termos da Súmula n. 630 do STJ, "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio". Portanto, uma vez que, no caso em análise, o paciente não confessou a prática de tráfico de drogas - mas, tão somente, ser para consumo próprio a substância entorpecente apreendida, não há que se falar na aplicação da atenuante
+Nesse sentido, já se manifestou em outras oportunidades esta Corte Superior:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. REVISÃO DE DOSIMETRIA DE CONDENAÇÃO TRANSITADA EM JULGADO. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. IMPOSSIBILIDADE DE RECONHECIMENTO EX OFFICIO DA CONFISSÃO ESPONTÂNEA QUANTO AO CRIME DE TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça"(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+2. Prevê o verbete n. 630 da Súmula desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+3. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDcl no HC n. 773.655/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 15/12/2022, grifei)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/206 E FUNDAMENTAÇÃO DO MANDADO DE BUSCA E APREENSÃO DOMICILIAR. QUESTÕES JÁ DECIDIDAS NO HC N. 809.771/MG. ALEGAÇÃO DE OMISSÃO NA DECISÃO AGRAVADA. INTERPOSIÇÃO DE AGRAVO REGIMENTAL. ERRO GROSSEIRO. DOSIMETRIA. SEGUNDA FASE. ATENUANTE GENÉRICA DA CONFISSÃO ESPONTÂNEA. ART. 65, INCISO III, ALÍNEA "D", DO CÓDIGO PENAL. INAPLICÁVEL. CONFISSÃO QUE NÃO ALCANÇOU ELEMENTOS ESSENCIAIS DO TIPO DELITIVO. SÚMULA N. 630/STJ. AGRAVO DESPROVIDO.
+1. O recurso encontra-se prejudicado quanto à análise das questões referentes ao tráfico privilegiado e à fundamentação do mandado de busca e apreensão domiciliar, tendo em conta que a defesa impetrou o HC n. 809.771/MG, julgado em 27/3/2023, no qual foram suscitadas as mesmas teses.
+2. A interposição de agravo regimental com o intuito de alegar supostas omissões e contradições do decisum agravado revela erro grosseiro, o que inviabiliza, inclusive, a aplicação do princípio da fungibilidade.
+3. Consoante o Enunciado n. 630 da Súmula desta Corte Superior: A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio 4. Agravo regimental improvido.
+(AgRg no AgRg no AREsp n. 2.273.812/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/5/2023, grifei )
+Ademais, verifico que as instâncias originárias não usaram a versão apresentada pelo réu para fundamentar a condenação, mas sim a prova testemunhal que delineou a dinâmica fática e comprovou a autoria delitiva.
+Assim, em que pese os argumentos defensivos, nos termos do art. 65, III, "d", do CP, o paciente não faz jus à atenuante da confissão espontânea.
+II. Causa de diminuição de pena pela semi-imputabilidade
+Conforme relatado, a defesa sustenta que a redução da pena, em razão da semi-imputabilidade do agente, em proporção menor que a máxima, não foi devidamente fundamentada.
+As instâncias originárias reconheceram a causa de diminuição de pena, no patamar de 1/2, justificada pelo laudo de dependência química toxicológica que atestou redução de compreensão moderada do paciente, conforme explicitado no acórdão (fls. 951-952, destaquei):
+Por fim, pela semi-imputabilidade do réu fica mantida a redução da reprimenda em metade, totalizando uma pena final de 02 anos e 11 meses de reclusão, mais o pagamento de 291 dias-multa, no piso.
+Registro que a diminuição em metade, pelo reconhecimento da semi-imputabilidade de Paulo, foi adequada à espécie, tendo em vista o grau moderado indicado pelo Sr. Perito Judicial.
+Considero, portanto, que a individualização da minorante foi devidamente fundamentada, não havendo razão para sua majoração, visto que ao tempo do delito o paciente tinha entendimento considerável sobre a ilicitude de sua conduta. Por fim, esclareço que, para decidir de forma contrária, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, incabível na via estreita do habeas corpus.
+III. Regime inicial de cumprimento de pena
+Por fim, por serem infrutíferas as teses recursais, permanece inalterado o regime inicial fixado, nos termos do art. 33, § 2º, "a" e "b" e § 3º do CP, diante da reincidência do paciente.
+IV . Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
