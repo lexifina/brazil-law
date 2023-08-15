@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO CENTRAL DO BRASIL - BACEN contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal.
+Na origem, o particular ajuizou ação cautelar visando à suspensão das penalidades pecuniárias aplicadas no âmbito do PA1401602549, sendo atribuído à causa o valor de R$ 1.000.000,00 (um milhão de reais), em fevereiro de 2017.
+Após decisão que negou o pedido de concessão de tutela liminar, sobreveio pedido de desistência da ação (petição protocolada em 17.02.2017). Por sentença, foi homologado o pedido de desistência e julgado extinto o processo sem resolução mérito, bem como foram fixados honorários advocatícios em metade do mínimo legal, nos termos do art. 85, §§ 3º e 4º, III, do CPC.
+No Tribunal Regional Federal da 3ª Região, a sentença foi parcialmente reformada, para afastar a condenação ao pagamento de honorários advocatícios, nos termos da seguinte ementa de acórdão, in verbis:
+AÇÃO CAUTELAR. ADMINISTRATIVO. EXTINÇÃO DO FEITO SEMRESOLUÇÃO DE MÉRITO. DESISTÊNCIA DA AÇÃO ANTES DA CITAÇÃO DA PARTE CONTRÁRIA. CONDENAÇÃO EM HONORÁRIOS INDEVIDA.
+1. De acordo com a norma processual vigente pode a parte autora desistir da ação, nos termos dos artigos 485 e 90 do Código de Processo Civil de 2015.
+2. A jurisprudência firmada pelo C. Superior Tribunal de Justiça - STJ indica que nos casos em que requerida a desistência da ação antes da citação da parte contrária são indevidos os honorários advocatícios.
+3. a parte autora requereu a desistência da ação antes da citação In casu, das rés e, nesta seara, ainda não formada a relação processual resta afastado o princípio da causalidade e indevida à condenação ao pagamento de honorários advocatícios.
+4. Apelação da parte autora provida. Apelação da União Federal prejudicada.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, BANCO CENTRAL DO BRASIL - BACEN interpôs recurso especial, apontando, inicialmente, violação dos arts. 489 e 1022 do CPC, ao argumento de que, apesar da oposição de embargos de declaração, o Tribunal "a quo" não enfrentou "questões relevantes relativas ao direito à fixação da verba honorária", bem como haveria uma suposta contradição entre o decisum com fundamentação no art. 90 e a cronologia estabelecida no próprio voto relator.
+Indicou ainda negativa de vigência aos arts. 85, §3º, III, 90 e 240 §1º do CPC. Sustenta, em síntese, que (fls. 500-501):
+Primeiramente, como é cediço, a condenação em honorários advocatícios da parte que deu causa à ação é a consequência que se impõe por força do denominado princípio da causalidade, conforme expressamente previsto no art. 85, § 1º, do Código de Processo Civil vigente.
+No presente caso, ainda que a parte autora alegue que fez o pedido de desistência antes que ocorresse a citação dos réus; os mandados foram expedidos, as citações foram efetivadas e as defesas apresentadas, tais fatos, repita-se, são incontroversos, embora tenham sido ignorados pela Corte de origem, mesmo após provocação via embargos de declaração.
+Já o art. 240 e seu §1º, do CPC, é claro sobre o efeito da citação e a retroação à data da 8 propositura da ação.
+Logo, em função do princípio da causalidade e nos termos do que dispõe o art. 90 do Código de Processo Civil, deve ser mantida a condenação imposta a título de honorários.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na incidência da Súmula 83 do STJ, foi interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+No tocante à suposta violação dos arts. 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente.
+Para o provimento do recurso especial com base no referido dispositivo legal, a omissão tem que ser patente, ou seja, imprescindível para o enfrentamento da quaestio.
+A análise do acórdão recorrido em conjunto com a sua decisão integrativa revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado, de modo coerente, satisfatório e sem contradições, as questões imprescindíveis ao deslinde do feito. É o que se observa pelos seguintes trechos da decisão (fls. 433-439):
+No que se refere à condenação ao pagamento de honorários advocatícios nos casos de desistência da ação, o Colendo Superior Tribunal de Justiça firmou jurisprudência no sentido de que estes são devidos pela parte que deu causa ao ajuizamento da ação, mas somente nos casos em que houve a citação da parte contrária.
+Confira-se:
+ ..
+Este é entendimento também adotado nesta Corte Regional:
+"PROCESSUAL CIVIL. PEDIDO DE DESISTÊNCIA DA AÇÃOFORMULADO ANTES DA CITAÇÃO VÁLIDA. AFASTAMENTO DALITISPENDÊNCIA. NÃO CABIMENTO DE CONDENAÇÃO DA PARTEAUTORA AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOSSUCUMBENCIAIS. APELAÇÃO PROVIDA.
+1. A análise das informações constantes do sistema PJE permite constatar que o pedido de desistência da ação foi formulado antes da citação da ré. A petição inicial foi protocolada em 16/07/2018; em 17/07/2018, restou indeferido o pedido de tutela antecipada de urgência; em 18/07/2018 foi expedido o mandado de citação.
+2. Em 25/07/2018, às 09 horas e 54 minutos, a parte autora protocolou seu pedido de desistência da ação ou, subsidiariamente, o cancelamento da distribuição, justificando o pleito em razão de uma falha ocorrida no sistema PJE, por meio da qual teria havido a distribuição de várias ações idênticas.
+3. No dia 31/07/2018 foi juntado aos autos o mandado de citação devidamente cumprido. O conteúdo da certidão do Sr. Oficial de Justiça permite constatar que a citação da ré ocorreu em 25/07/2018 - isto é, no mesmo dia em que protocolado o pedido de desistência da parte autora -porém por volta das 11 horas e 40 minutos, ou seja, posteriormente aopedido de desistência, protocolado no dia 25/07/2018 às 09 horas e 54minutos.
+4. Por conseguinte, e como bem pontuou o magistrado a quo, somente a citação válida induz litispendência, nos termos do art. 240 do Código de Processo Civil. Desse modo, como a citação válida somente ocorreu depois do pedido de desistência formulado pela parte autora, não há falar em litispendência, nem em condenação ao pagamento de honorários advocatícios sucumbenciais, nos termos da remansosa jurisprudência do C. STJ e deste E. Tribunal Regional Federal.
+5. Diante desse cenário, merece reforma a r. sentença ora recorrida, para o fim de afastar tanto a ocorrência de litispendência como a condenação da parte autora em honorários advocatícios de sucumbência, mantendo-se a extinção do feito, sem julgamento do mérito, porém por fundamento diverso, a saber, a homologação da desistência da ação, com espeque no art. 485, inciso VIII do Código de Processo Civil.
+6. Apelação provida.
+ ..
+Detidamente analisando os autos observa-se que:
+- em 16.02.2017 foi proferida decisão indeferindo a tutela provisória de urgência (ID 3082674 - Pág.  );
+- em 17.02.2017 foram expedidos mandado de citação (ID 3082675 - Pág. );
+- em 17.02.2017, às 15:43 h a parte autora protocolizou pedido de desistência da ação (ID 3082675 - Pág. 7);
+- em 21.02.2017 a União Federal foi citada (ID 3082675 - Pág. 8);- em 22.02.2017 o Banco Central do Brasil foi citado (ID 3082675 - Pág. 9);
+- em 03.03.2017 o Banco Central do Brasil apresentou contestação (ID3082676 - Pág. 1/9);- em 08.03.2017 a União Federal apresentou contestação (ID 3082677 -Pág. 3/33);
+- em 10.03.2017 a parte autora reiterou seu pedido de desistência da ação(ID 3082677 - Pág. 35);
+Nesta seara, verifica-se que a parte autora apresentou o pedido de desistência da ação antes da citação dos réus, pelo que resta indevida a condenação ao pagamento de honorários advocatícios.
+Ressaltou-se ainda na decisão que rejeitou os embargos de declaração (fl. 486):
+No caso em apreço, todavia, não ocorreram vícios a ensejar a interposição dos embargos. A decisão ora impugnada está devidamente fundamentada, restando claros os critérios adotados que levaram ao provimento do recurso da parte autora.
+Constou expressamente do voto que a parte autora apresentou o pedido de desistência da ação antes da citação dos réus, razão pela qual resta indevida a condenação ao pagamento de honorários advocatícios.
+Conclui-se, portanto, que o acórdão recorrido não padeceu de qualquer mácula capaz de ensejar a oposição de embargos de declaração, porquanto foi claro ao considerar a data da efetiva citação como o marco temporal para o requerimento da desistência da ação, sem que enseje condenação em honorário advocatícios.
+Sendo assim, a oposição dos embargos declaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação do art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de modo embasado pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo decisório exarado não autoriza a oposição de embargos declaratórios.
+Ainda de acordo com o entendimento dominante desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. INOCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. São devidos honorários advocatícios à Defensoria Pública quando a atuação se dá contra ente federativo diverso do qual é parte integrante (REsp 1.108.013/RJ, submetido à sistemática prevista no art. 543-C do CPC/1973). Cabível, portanto, a condenação do Estado de Pernambuco ao pagamento da verba honorária à Defensoria Pública da União.
+5. A jurisprudência STJ é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+6. Recurso Especial parcialmente conhecido, apenas no tocante à violação do art. 1022 do CPC e, nessa parte, não provido.
+(REsp n. 1.833.594/PE, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe 12/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA. SÚMULA 235/STJ. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. AÇÃO RESCISÓRIA. ERRO DE FATO. PROVA FALSA. REEXAME DAS PREMISSAS ASSENTADAS PELO ACÓRDÃO ESTADUAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A prevenção por conexão tem por finalidade evitar sejam proferidas decisões conflitantes, e, bem por isso, não haverá necessidade de reunião dos processos se um deles já tiver sido julgado Súmula n. 235/STJ.
+2. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+3. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+4. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.594.694/MS, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe 12/6/2020.)
+Quanto a matéria de fundo, a decisão recorrida encontra-se em sintonia ao entendimento jurisprudencial Desta Corte Superior, o qual é firma no sentido de que "havendo desistência do autor antes da citação do réu, não há que se falar em condenação em honorários, tendo em vista que a relação processual ainda não fora perfectibilizada" (AgRg no AREsp 558.010/MS, Relator o Ministro Benedito Gonçalves, DJe 31/03/2015)
+Nesse sentido, confiram-se:
+RECURSO ESPECIAL. EXECUÇÃO. DESISTÊNCIA. CITAÇÃO. EMBARGOS DO DEVEDOR. ANUÊNCIA. DESNECESSIDADE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se, apresentado o pedido de desistência da execução antes da citação dos executados, os embargos do devedor devem ser apreciados ou julgados extintos e se, nessa circunstância, o credor responde pelo pagamento dos honorários advocatícios; (ii) se há contradição entre a fundamentação e o dispositivo do acórdão e (iii) se a fixação da verba honorária deve observar o regramento previsto no CPC/1973 ou o CPC/2015.
+3. A desistência da execução antes do oferecimento dos embargos independe da anuência do devedor. Precedentes.
+4. A apresentação de desistência da execução quando ainda não efetivada a citação dos devedores provoca a extinção dos embargos posteriormente opostos, ainda que estes versem acerca de questões de direito material.
+5. O credor não responde pelo pagamento de honorários sucumbenciais se manifestar a desistência da execução antes da citação e da apresentação dos embargos e se não houver prévia constituição de advogado nos autos.
+6. Recurso especial provido.
+(REsp n. 1.682.215/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/4/2021, DJe de 8/4/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSOESPECIAL. BUSCA E APREENSÃO. SENTENÇA QUE HOMOLOGA PEDIDO DEDESISTÊNCIA DA AÇÃO ANTES DA CITAÇÃO DA PARTE RÉ. CONDENAÇÃO APAGAMENTO DE HONORÁRIOS. IMPOSSIBILIDADE. REVER ESSA CONCLUSÃO.ÓBICE DA SÚMULA 7/STJ. ACÓRDÃO EM CONSONÂNCIA COM AJURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNOIMPROVIDO.
+1. O Colegiado estadual consignou expressamente que a desistência da ação ocorreu antes da apreensão do veículo e subsequente citação, ressaltando, ainda, a apresentação prematura da contestação, por parte da ré, ora agravante, a qual se antecipou aos termos da ação. A revisão dessa premissa demandaria o imprescindível reexame fático-probatório dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+2. O acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior, no sentido de que, "havendo desistência do autor antes da citação do réu, não há que se falarem condenação em honorários, tendo em vista que a relação processual ainda não fora perfectibilizada" (AgRg no AREsp 558.010/MS, Relator o Ministro Benedito Gonçalves, DJe 31/03/2015). Incidência, no ponto, da Súmula 83/STJ.
+3. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.063.920/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2017, DJe de 15/9/2017.)
+PROCESSUAL CIVIL  EMBARGOS DE DECLARAÇÃO  ERRO MATERIAL  OCORRÊNCIA  DESISTÊNCIA DA AÇÃO  CITAÇÃO EFETIVADA  CONTESTAÇÃO APRESENTADA  PRINCÍPIO DA CAUSALIDADE  DEVER DE PAGAR HONORÁRIOS ADVOCATÍCIOS.
+1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão. Assim, verificada a existência de erro material, deve ele ser sanado.
+2. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido que, em função do princípio da causalidade, é cabível a condenação em honorários advocatícios na hipótese de o pedido de desistência da ação ter sido protocolado após a ocorrência da citação da ré, ainda que em data anterior à apresentação da contestação.
+Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgRg no REsp n. 1.140.162/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/8/2010, DJe de 17/8/2010.)
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DESISTÊNCIA DA AÇÃO. CITAÇÃO EFETIVADA. CONTESTAÇÃO APRESENTADA. DEVER DE PAGAR HONORÁRIOS ADVOCATÍCIOS.
+1. É cabível a condenação em honorários advocatícios na hipótese de o pedido de desistência da ação ter sido protocolado após a ocorrência da citação da ré, ainda que em data anterior à apresentação da contestação. Precedentes do STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 867.732/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/4/2010, DJe de 5/5/2010.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
