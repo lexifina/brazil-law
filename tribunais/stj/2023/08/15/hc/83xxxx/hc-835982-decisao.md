@@ -1,0 +1,16 @@
+DECISÃO
+RODRIGO ULYSSES SIMAO BORBA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 0015357-54.2022.8.26.0000.
+Nas razões deste writ, impetrado de próprio punho, o paciente pretende a concessão de prisão domiciliar humanitária. Para tanto, sustenta que possui grave problema de saúde (lúpus eritematoso) e não pode ser tratado de forma adequada e eficiente em ambiente carcerário.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 94-95).
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 4 meses de reclusão, em regime fechado, pela prática do delito previsto no art. 33 da Lei n. 11.343/2006.
+Sobre o pleito de prisão domiciliar, como bem salientei em voto-vista proferido no julgamento do RHC n. 145.931(Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 16/3/2022), a prisão domiciliar durante a execução definitiva é excepcional, assim como a aplicação do art. 117 da LEP aos apenados dos regimes fechado e semiaberto. A privação de liberdade, em regra, tem de ser cumprida em estabelecimento adequado, consoante a previsão do Código Penal. É um remédio amargo que, não se pode negar, pode trazer consequências para a convivência familiar.
+Ao indeferir a benesse, destacou o Juízo singular que "o apenado vem recebendo tratamento médico adequado dentro da unidade prisional" (fl. 61).
+A Corte de origem manteve a decisão do Juízo das execuções e salientou (fl. 66, grifei):
+Não se depreende, de forma indisputável, da documentação constante dos autos do processo de execução (fls. 163/165 e 175) que não haja condições de tratamento do paciente no sistema prisional. Há notícia de que vem recebendo tratamento médico e que a aquisição da hidroxicoloroquina não foi feita porque o próprio paciente entregou o pedido médico elaborado por profissional da própria unidade prisional aos seus familiares, para que providenciassem a compra, razão pela qual a unidade prisional não dispunha da receita para realizar a aquisição. Ademais, anote-se que a d. magistrada está atenta à situação (fls. 172 dos autos do processo de execução).
+Pelo que não se afigura desacertada a decisão judicial que indeferiu o pleito.
+Assim, evidencia-se a inviabilidade do acolhimento do pedido, visto que a instância ordinária salientou a disponibilidade de atendimento médico, bem como o fornecimento dos medicamentos necessários ao tratamento em questão.
+Por fim, saliento também que "o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária. Precedentes" (AgRg no HC n. 521.374/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/11/2019).
+Outra não é a hipótese dos autos, visto que para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para concessão da prisão domiciliar, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
