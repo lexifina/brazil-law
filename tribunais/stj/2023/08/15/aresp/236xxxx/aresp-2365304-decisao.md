@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo interposto por CANADÁ EMPREENDIMENTOS LTDA. E OUTRA contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, no qual impugna acórdão assim ementado (e-STJ, fls. 446-447):
+AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO DE SENTENÇA. DEFERIMENTO DE PEDIDO DE PENHORA DE BENS INDICADOS PELO EXEQUENTE. POSSIBILIDADE. ALEGAÇÃO DE EXISTÊNCIA DE BEM INDICADO COMO GARANTIA DO JUÍZO. APLICABILIDADE DO ART. 829, §2º, DO CPC. IMPOSSIBILIDADE DE IMPOSIÇÃO DO BEM AO CREDOR. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. A parte Agravante sustenta que a decisão não possui a fundamentação adequada. Assevera que a manutenção da decisão hostilizada afetará bens adquiridos por terceiros de boa- fé. Aduz ter indicado como bem à penhora no valor de R$ 1.723.795,84 (-)
+2. Da análise dos autos, verifica-se que a decisão embargada determinou "a penhora de todos os lotes constantes da Certidão de fls. 383/404, em que não haja registro de venda/novos proprietários, em número suficiente à garantia da presente execução, com o competente registro da hipoteca judicial".
+3. Portanto, não há de se falar que foi determinada a penhora de bens pertencentes a terceiros de boa-fé, haja vista que a magistrada singular frisou que a penhora não recaísse sobre bens com registro de venda ou novos proprietários, razão pela qual a penhora só recairá sobre os bens ainda pertencentes aos Agravantes.
+4. O simples fato de haver indicação de bem à penhora, não implica na sua aceitação tácita, podendo o exequente requerer que a penhora recaia sobre outros bens indicados, consoante determina o art. 829, §2º, do CPC.
+5. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 507-529)
+Nas razões do especial (e-STJ fls. 466-478), as agravantes apontaram a violação dos arts. 11, 489, § 1º, IV, 805, 835, 917, § 1º, e 1.022, II, do CPC; 1.228 e 1.231 do CC.
+Alegaram que o Tribunal negou a devida prestação jurisdicional, pois, apesar da oposição de embargos, não se manifestou sobre a tese de que foram penhorados bens pertencentes a terceiros.
+Afirmaram que a penhora de bens de terceiros ofende o princípio da menor onerosidade ao executado, sobretudo tendo ofertado outros bens em garantia.
+Sustentaram que a incidência da penhora sobre bens de terceiros também ofende o direito de propriedade, pois há prova de que os lotes do Paradiso Laguna foram alienados a terceiros.
+Argumentaram, ainda, haver excesso de penhora, porquanto a execução já estaria garantia pelo imóvel indicado como garantia da dívida e o valor dos bens de terceiros que foram penhorados é desproporcional ao valor em cobrança.
+Contrarrazões apresentadas (e-STJ, fls. 872-885).
+O recurso especial não foi admitido (e-STJ, fls. 886-891), o que ensejou a interposição do presente agravo (e-STJ, fls. 900-905)
+Brevemente relatado, decido.
+Não é possível reconhecer a apontada negativa de prestação jurisdicional, pois, de um lado, não existe omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir nenhum dos vícios a que alude o art. 1.022 do CPC/2015 apenas porque resolveu a celeuma em sentido contrário ao postulado pelos recorrentes.
+A propósito, confira-se o seguinte trecho do julgamento do agravo de instrumento, no qual o Tribunal de origem se manifestou satisfatoriamente sobre a alegada ocorrência de penhora de bens de terceiros e de ofensa ao princípio da menor onerosidade (e-STJ, fls. 450-452):
+Da análise dos autos, verifica-se que a decisão embargada determinou "a penhora de todos os lotes constantes da Certidão de fls. 383/404, em que não haja registro de venda/novos proprietários, em número suficiente à garantia da presente execução, com o competente registro da hipoteca judicial".
+Portanto, não há de se falar que foi determinada a penhora de bens pertencentes a terceiros de boa-fé, haja vista que a magistrada singular frisou que a penhora não recaísse sobre bens com registro de venda ou novos proprietários, razão pela qual a penhora só recairá sobre os bens ainda pertencentes aos Agravantes.
+O simples fato de haver indicação de bem à penhora, não implica na sua aceitação tácita, podendo o exequente requerer que a penhora recaia sobre outros bens indicados, consoante determina o art. 829, §2º, do CPC:
+ ..
+Assim, resta clara a necessidade de anuência da parte Exequente.
+Confira-se, ainda, o excerto abaixo transcrito do julgamento dos aclaratórios (e-STJ, fls. 511-513):
+A perfectibilização do negócio jurídico da promessa de compra e venda se dá com o seu devido registro em cartório, assim sendo, não havendo registro da promessa de compra e venda, o imóvel está livre e desembaraçado para que sobre ele recaia a penhora requerida.
+Ademais, consta da escritura de id. 13238990 que o empreendimento foi desmembrado em 336 lotes, agrupados em 28 quadras, divididos em duas etapas.
+Insta salientar que o quadro colacionado no id. 13238996, o qual supostamente demonstra a propriedade dos 336 lotes, data de 25/06/2020, quando, em sua peça vestibular deste recurso, informa que o pedido de penhora dos lotes se deu em 23/09/2019, não servido para comprovar se, à época do pedido, todos os lotes já haviam sido vendidos. Portanto, não logrou êxito na comprovação de que todos os supracitados 336 lotes já foram alienados.
+ ..
+De igual sorte, não há de se falar em violação ao princípio da menor onerosidade, haja vista que a indicação do bem à penhora necessita do aceite do exequente, não podendo ser-lhe imposta a aceitação, tese que foi devidamente enfrentada pelo Acórdão vergastado, senão vejamos:
+ ..
+Nesse contexto, não se verifica a propalada ofensa aos arts. 11, 489, § 1º, IV, e 1.022 do CPC/2015, mas o mero inconformismo da parte com o julgamento contrário à sua pretensão, o que não se confunde com negativa de prestação jurisdicional.
+A título exemplificativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSÓRCIO. IMÓVEL. DESISTÊNCIA. MULTA E CLÁUSULA PENAL. ART. 1.022 DO CPC/2015. OMISSÕES. NÃO OCORRÊNCIA. CLÁUSULA PENAL. EFETIVO PREJUÍZO. DEMONSTRAÇÃO. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+(..)
+(AgInt no AREsp n. 2.109.460/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Por sua vez, quanto às apontadas violações dos arts. 805 e 835 do CPC; 1.228 e 1.231 do CC, o Tribunal de origem consignou que "não há de se falar que foi determinada a penhora de bens pertencentes a terceiros de boa-fé, haja vista que a magistrada singular frisou que a penhora não recaísse sobre bens com registro de venda ou novos proprietários, razão pela qual a penhora só recairá sobre os bens ainda pertencentes aos Agravantes" (e-STJ, fl. 451) e que as agravantes "não logr aram  êxito na comprovação de que todos os supracitados 336 lotes já foram alienados" (e-STJ, fl. 512).
+Rever essas conclusões, para que prevalecesse a versão das agravantes de que "insistir na penhora dos bens já alienados a terceiros, como se vê, é grande afronta aos art. 805 e 835, do CPC" (e-STJ, fl. 474), demandaria o reexame de fatos e provas, vedado no âmbito do recurso especial pela incidência da Súmula 7/STJ.
+Ademais, no tocante à análise da afronta ao art. 917, § 1º, do CPC, do exame dos fundamentos do acórdão recorrido, constata-se que o Tribunal de origem, apesar da oposição de embargos de declaração, deixou de examinar o conteúdo jurídico do mencionado dispositivo.
+À vista disso, ausente o devido prequestionamento, aplica-se o disposto na Súmula 211/STJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE REGRESSO. CONEXÃO ENTRE AÇÕES. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, o que não ocorreu na hipótese.
+2. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o seu reconhecimento nesta instância extraordinária por falta de presquestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+3. A Corte de origem, diante do exame das cláusulas contratuais e do acervo fático-probatório dos autos, entendeu que o objeto da demanda decorre de contrato firmado entre partes.
+4. Rever o entendimento do Tribunal de origem acerca da ocorrência ou não de exceção do contrato não cumprido demanda o reexame de cláusulas contratuais e do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.085.760/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Em relação à possibilidade de reconhecer o prequestionamento ficto, esta Corte Superior possui jurisprudência assentada no sentido de que a matéria só pode ser implicitamente incluída no acórdão recorrido quando, ao menos, a tese foi objeto de embargos de declaração na origem e, no Superior Tribunal de Justiça, foi verificada violação ao art. 1.022 do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. PREQUESTIONAMENTO. AUSÊNCIA. FICTO. FUNDAMENTO NÃO ATACADO. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS Nº 5 E 7/STJ. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+4. A jurisprudência desta Corte é firme no sentido de que o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+5. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+6. Estando as razões do agravo interno dissociadas do que restou decidido na decisão atacada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+7. Na hipótese, o acolhimento da pretensão recursal esbarra no enunciado das Súmulas nºs 5 e 7/STJ, tendo em vista que a conclusão do acórdão decorreu inquestionavelmente da análise das circunstâncias fáticas dos autos e da interpretação de cláusula contratual.
+8. A conclusão do tribunal de origem não destoa do entendimento desta Corte, no sentido de que o arrependimento do promitente comprador de unidade habitacional em construção não importa em perda das arras se estas forem confirmatórias. Aplicação da Súmula nº 83/STJ.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022).
+In casu, embora tenha sido apontada a afronta ao art. 1.022 do CPC/2015, a alegação de negativa de prestação jurisdicional se limitou à suposta omissão do exame dos arts. 805 e 835 do CPC e da tese de penhora de bens de terceiros, não tendo sido aventada omissão em relação ao art. 917, § 1º, do CPC; tema que, aliás, sequer constou nos embargos de declaração de fls. 541-546 (e-STJ), o que impede a configuração do prequestionamento ficto.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PENHORA. BENS DE TERCEIROS. MENOR ONEROSIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. EXCESSO DE PENHORA. ART. 917, § 1º, DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
