@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo interno interposto por GONÇALVES MARCAS E PATENTES S/S LTDA. contra decisão monocrática da Presidência do STJ, por meio da qual não conheceu do recurso especial (fls. 402-403).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 319):
+APELAÇÃO CÍVEL. PROPRIEDADE INTELECTUAL. REGISTRO DE MARCA. AÇÃO DE ABSTENÇÃO DE USO DE MARCA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INOCORRÊNCIA DE USO INDEVIDO DE MARCA POR PARTE DO APELADO PELA UTILIZAÇÃO DA EXPRESSÃO "GONÇALVES". MARCA MISTA DE PROPRIEDADE DA APELANTE QUE NÃO DETÉM O USO EXLUSIVO DE SEUS ELEMENTOS NOMINATIVOS. ELEMENTO NOMINATIVO "GONÇALVES" QUE CONSTITUI VOCÁBULO COM SIGNIFICADO PATRONÍMICO E NÃO PODE SER OBJETO DE REGISTRO NO INPI. ARTIGO 124, INCISO IV, DA LEI FEDERAL N. 9.279/1996. POSSIBILIDADEDE CONFUSÃO PARA O CONSUMIDOR NÃO DEMONSTRADA. EVIDENTE DISTINÇÃO ENTRE AS MARCAS PELOS DEMAIS ELEMENTOS GRÁFICOS E VISUAIS QUE AS COMPÕE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL. MAJORAÇÃO DOS HONORÁRIOS. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. Recurso conhecido e não provido.
+Verifico a presença dos pressupostos de admissibilidade do agravo e, em princípio, ante as circunstâncias que envolvem a lide, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, reconsidero a decisão agravada (fls. 402-403) para conhecer do agravo e determinar sua conversão em recurso especial.
+Publique-se. Intimem-se.
