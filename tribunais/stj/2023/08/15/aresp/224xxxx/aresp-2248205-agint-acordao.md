@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. GLOSA DE VALORES NÃO UTILIZADOS PELA EMPRESA. PREVISÃO NA PLANILHA DE CUSTOS NÃO CUMPRIDA. DESCUMPRIMENTO DA PROPOSTA. VIOLAÇÃO AO PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. ACÓRDÃO QUE SE BASEOU NAS CLÁUSULAS CONTRATUAIS E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem decidiu a controvérsia soberano na análise da planilha de custos que é parte integrante da proposta apresentada pelo contratante, concluindo que a empresa violou o contrato/edital ao converter em lucro os recursos repassados pelo Município que eram destinados ao pagamento de vale transporte dos funcionários e insumos, em descumprimento à planilha de custos apresentada junto com a proposta, de modo que, o recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e contexto fático-probatório próprio da causa.
+2. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto por COSTA OESTE SERVICOS LTDA contra decisão monocrática cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. GLOSA DE VALORES NÃO UTILIZADOS PELA EMPRESA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. PREVISÃO NA PLANILHA DE CUSTOS NÃO CUMPRIDA. DESCUMPRIMENTO DA PROPOSTA. VIOLAÇÃO AO PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. ACÓRDÃO FUNDAMENTADO NAS CLÁUSULAS CONTRATUAIS E DEMAIS PROVAS DOS AUTOS. REVISÃO. SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Alega a inaplicabilidade das Súmulas 5 e 7/STJ ao caso dos autos porquanto o fundamento do recurso especial é justamente a violação da disposição dos arts. 6º, VIII, "a", 41, 58, § 1º, e 80, IV, da Lei n.º 8666/1993.
+Sustenta o agravante que o cerne da questão diz respeito a legalidade de aplicação de glosas sobre vales-transportes previstos, mas não utilizados por renúncia dos empregados em contrato administrativo firmado pelo regime de empreitada por preço global, o que não implica reexame do contexto fático-probatório dos autos e análise de cláusulas contratuais.
+Por fim, pugna pela reforma da decisão ora agravada ou o julgamento do feito pelo Colegiado para provimento do recurso especial, opondo-se ao julgamento virtual e requerendo deferimento de realização de sustentação oral em sessão presencial.
+Às fls. 2653/2655 (e-STJ) reitera o pedido de oposição ao julgamento virtual e deferimento de realização de sustentação oral em sessão presencial.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. GLOSA DE VALORES NÃO UTILIZADOS PELA EMPRESA. PREVISÃO NA PLANILHA DE CUSTOS NÃO CUMPRIDA. DESCUMPRIMENTO DA PROPOSTA. VIOLAÇÃO AO PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. ACÓRDÃO QUE SE BASEOU NAS CLÁUSULAS CONTRATUAIS E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem decidiu a controvérsia soberano na análise da planilha de custos que é parte integrante da proposta apresentada pelo contratante, concluindo que a empresa violou o contrato/edital ao converter em lucro os recursos repassados pelo Município que eram destinados ao pagamento de vale transporte dos funcionários e insumos, em descumprimento à planilha de custos apresentada junto com a proposta, de modo que, o recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e contexto fático-probatório próprio da causa.
+2. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+3. Agravo interno não provido.
+VOTO
+Por meio da Petição 00458763/2023 (fls. 2653/2655 e-STJ), a agravante opõe-se ao julgamento virtual e requer que lhe seja oportunizada a realização de sustentação oral em sessão presencial para o julgamento do recurso interposto.
+Inicialmente é o caso de indeferir o pedido, pois incabível sustentação oral em agravo interno em agravo em recurso especial, sendo que, de qualquer forma, o julgamento no ambiente virtual por si só não representa prejuízo às partes.
+Ademais, é facultada a apresentação de memoriais aos Ministros integrantes da Segunda Turma, de modo que indeferido os pedidos de retirada de pauta da sessão virtual e de sustentação oral.
+Quanto à irresignação do agravo interno, são improcedentes as razões deduzidas.
+Sustenta o agravante que o cerne da questão diz respeito a legalidade de aplicação de glosas sobre vales-transportes previstos, mas não utilizados por renúncia dos empregados em contrato administrativo firmado pelo regime de empreitada por preço global, o que não implica reexame do contexto fático-probatório dos autos e análise de cláusulas contratuais, o que afasta a incidência das Súmulas 5 e 7 do STJ.
+Pois bem.
+Conforme salientado na decisão ora impugnada, o Tribunal de origem decidiu a controvérsia soberano na análise da planilha de custos que é parte integrante da proposta apresentada pelo contratante, concluindo que a empresa violou o contrato/edital ao converter em lucro os recursos repassados pelo Município que eram destinados ao pagamento de vale transporte dos funcionários e insumos, em descumprimento à planilha de custos apresentada junto com a proposta.
+A propósito, os seguintes trechos do acórdão recorrido (fls. 2397/2398 e-STJ):
+(..)
+No presente caso, verifica-se que a planilha de custos é parte integrante da proposta apresentada pelo contratante, na qual constam de forma discriminada o valor do vale alimentação pago aos funcionários, o custo denominado "Materiais/Equipamentos -Uso/Depreciação/Comb. Mnt." e o lucro da empresa.
+Portanto, como "nem todos os funcionários que prestam serviço terceirizado recebem "vale transporte" e "o insumo "Materiais/Equipamentos - Uso/Depreciação/Comb. Mnt." não é um item utilizado pela contratante", não há ilegalidade nos atos impugnados, uma vez que a apelante estava convertendo em lucro referidos gastos previstos na proposta, na qual se encontra vinculada, em violação ao princípio da vinculação ao edital.
+Nesse contexto, observa-se que o julgado atrela-se ao contexto fático-probatório da causa e na interpretação de cláusulas contratuais e, para admitir entendimento contrário conforme a pretensão recursal, necessário que se adote o mesmo procedimento, o que todavia escapa ao âmbito do recurso especial diante das Súmulas 5 e 7/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de prova não enseja recurso especial").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECOMPOSIÇÃO DO EQUILÍBRIO ECONÔMICO DO CONTRATO ADMINISTRATIVO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 11.263/2002. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem, a partir do exame das cláusulas do contrato de Concessão Rodoviária n. CR/004/98, do Edital de licitação n. 10/CIC/97, e, ainda, após minuciosa análise dos elementos fáticos contidos nos autos, consignou não subsistir desequilíbrio contratual a justificar o reajuste das condições financeiras acordadas.
+III - Rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessária interpretação de cláusula contratual, além do imprescindível revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas ns. 5 e 7 desta Corte.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1847985/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/03/2020, DJe 23/03/2020)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS STF/282 E 356. REVISÃO. REEXAME DE PROVAS. SÚMULA STJ/7. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia nos limites do que lhe foi submetido. Não há que se falar, portanto, em violação do artigo 535 do CPC ou negativa de prestação jurisdicional.
+2.- É inadmissível o Recurso Especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas STF/282 e 356.
+3.- A convicção a que chegou o Acórdão recorrido decorreu da análise do conjunto fático-probatório, sendo que o acolhimento da pretensão
+recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+4.- O recurso especial pela alínea "c" do permissivo constitucional também deve atender à exigência do prequestionamento.
+5.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+6.- Agravo Regimental improvido.
+(AgRg no AREsp 83.011/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2014, DJe 06/06/2014)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
