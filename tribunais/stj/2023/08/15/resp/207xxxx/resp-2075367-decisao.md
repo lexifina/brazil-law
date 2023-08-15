@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por Antonia Lucia Vieira dos Santos e outros, no qual se alega violação dos arts. 489, II, § 1º, IV, V e VI, e 1.022 do Código de Processo Civil; 2º, 3º, 17 e 20 do Código de Defesa do Consumidor; 11 da Lei n. 9.074/1995; 1º da Lei n. 10.848/2004, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 766/767):
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. PESCADORES. DANO AMBIENTAL. VARA DE RELAÇÃO DE CONSUMO. VARA CÍVEL E COMERCIAL. RELAÇÃO ORIGINÁRIA . CONSUMIDORES POR EQUIPARAÇÃO. ENQUADRAMENTO. IMPOSSIBILIDADE. CDC, ARTIGO 17. NÃO INCIDÊNCIA.
+I - De acordo com a Lei de Organização Judiciária compete à Vara de Relações de Consumo processar e julgar todos os litígios decorrentes de relação de consumo (Lei 10.845/07, artigo 69).
+II - Consumidor por equiparação é aquele que sofre com evento decorrente de relação consumerista, ainda que dela não faça parte diretamente (artigo 17 do Código de Defesa do Consumidor).
+III - Evidenciado que os autores da ação indenizatória não mantiveram qualquer relação direta com os réus e não adquiriram produto deles, para o seu consumo, além da ausência de indício de que a relação originária é consumerista, inexiste a figura do consumidor por equiparação.
+IV - Afastada a natureza consumerista da relação entre as partes litigantes, impõe-se reconhecer a procedência do conflito e declarar a competência do Juízo da 10ª Vara Cível e Comercial de Salvador, para processar e julgar a ação indenizatória originária.
+CONFLITO DE COMPETÊNCIA PROCEDENTE.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 887):
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ACÓRDÃO. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. OMISSÃO. INOCORRÊNCIA. MATÉRIA JULGADA. REDISCUSSÃO. IMPOSSIBILIDADE. EMBARGOS. REJEIÇÃO.
+I - Os embargos de declaração são admitidos nas hipóteses expressamente previstas no artigo 1.022 do Código de Processo Civil, isto é, quando há obscuridade, contradição, omissão ou erro material no julgado.
+II - Não há omissão no julgado que discorreu fundamentadamente sobre os motivos pelos quais julgou procedente o Conflito instaurado por Juízo de Vara Consumerista, e declarou a competência de Vara Cível para julgar ação indenizatória proposta por pescadores artesanais contra empresas que exercem atividade na Barragem de Pedra do Cavalo.
+III - Além de ser meio inadequado para a rediscussão da matéria já decidida, a inexistência dos vícios previstos no artigo 1.022 do Diploma Processual Civil impõe o não acolhimento dos embargos de declaratórios.
+EMBARGOS NÃO ACOLHIDOS.
+Sustentam os recorrentes que é notória a existência da relação de consumo entre as partes, diante da natureza do serviço prestado pela parte recorrida.
+Afirmam que devem ser considerados consumidores por equiparação, nos termos do art. 17 do Código de Defesa do Consumidor, uma vez que sofreram os danos de um acidente de consumo.
+Argumentam que deve ser fixada a competência da Vara de Relações de Consumo da Capital para processar e julgar o feito de origem.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o Tribunal de origem declarou a competência do Juízo da 10ª Vara Cível e Comercial de Salvador para o julgamento do feito, assim discorrendo (fls. 770/773):
+(..)
+Os Autores da ação nº 8088111-05.2020.8.05.0001, pescadores artesanais, ajuizaram ação indenizatória, objetivando a compensação por supostos prejuízos que, segundo alegam, decorrem de dano ambiental causado pela atividade das empresas Acionadas na Barragem de Pedra do Cavalo.
+Inicialmente distribuída para a 10ª Vara Cível e Comercial, de Salvador, o juízo entendeu se tratar de relação consumerista e declinou a competência para Vara de Relações de Consumo, ensejando a suscitação do Conflito, pelo Juiz da 9ª Vara especializada.
+A análise da questão revela que os Autores da ação indenizatória não mantiveram qualquer relação direta com os Acionados e não adquiriram produto deles, para o seu consumo.
+Também não sofreram lesão decorrente da prestação de um serviço que pudesse ser caracterizado como de consumo, pois na ação originária, alegam que sofrem com danos ambientais decorrentes da operação da Barragem de Pedra de Cavalo e da Usina Hidroelétrica de Pedra do Cavalo, por causa da má gestão na captação da força hidráulica das águas para a produção de eletricidade e no sistema de abastecimento de populações.
+Destarte, não visualizo elemento para identificar os Demandantes como consumidores por equiparação, nos termos previstos no artigo 17 do Código de Defesa do Consumidor, que dispõe, in litteris:
+(..)
+Impositiva, assim, a procedência do conflito em exame, para declarar a competência do Juízo da 10ª Vara Cível e Comercial de Salvador, para processar e julgar a ação nº 8088111-05.2020.8.05.0001.
+(..)
+Com efeito, registro que o acórdão recorrido está em dissonância com a jurisprudência do STJ, segundo a qual "admite a existência da figura do consumidor por equiparação nas hipóteses de danos ambientais, nos termos do art. 17 do Código de Defesa do Consumidor" (AgInt no REsp n. 2.047.558/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29.5.2023, DJe de 31.5.2023). Nesse sentido, confira-se:
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. COMPETÊNCIA DA SEGUNDA SEÇÃO. DANO AMBIENTAL. DANOS INDIVIDUAIS. IMPACTO DA ATIVIDADE PESQUEIRA E DE MARISCAGEM. CONSUMIDOR POR EQUIPARAÇÃO. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. COMPETÊNCIA DO JUÍZO DA VARA ESPECIALIZADA.
+1- Recurso especial interposto em 18/8/2021 e concluso ao gabinete em 15/8/2022.
+2- O propósito recursal consiste em determinar: a) se o acórdão recorrido seria nulo por deficiência de fundamentação; b) se os recorrentes podem ser considerados consumidores por equiparação por sofrerem os danos decorrentes do exercício de atividade de exploração de complexo hidroelétrico que causa danos ambientais; e c) o juízo competente para processar e julgar a presente ação.
+3- Recurso especial afetado pela Terceira Turma, em atenção aos princípios da efetividade da jurisdição e da celeridade processual, para julgamento perante a Segunda Seção em razão da existência de multiplicidade de recursos fundados em idêntica questão de fato e de direito.
+4- A Corte Especial, em 19/4/2023, por unanimidade, acolheu Questão de Ordem para declarar a competência da Segunda Seção do STJ para processar e julgar o presente recurso.
+5- Na espécie, extrai-se da causa de pedir que as recorridas, na Usina Hidrelétrica Pedra do Cavalo localizada no Estado da Bahia, desenvolve atividade exploração de potencial hidroenergético em local de extrema sensibilidade socioambiental provocando grave impacto ao meio ambiente com a modificação da vazão e do fluxo das águas, alterações hidrodinâmicas e de salinidade. As mencionadas alterações ambientais teriam promovido sensível redução das áreas de pesca e mariscagem, com morte em massa de peixes e moluscos, ocasionando graves prejuízos, não só de ordem econômica, social e de subsistência, mas também à própria saúde da população ribeirinha, que depende da integridade daquele ecossistema para sobreviver.
+6- Na hipótese de danos individuais decorrentes do exercício de atividade de exploração de potencial hidroenergético causadora de impacto ambiental, é possível, em virtude da caracterização do acidente de consumo, o reconhecimento da figura do consumidor por equiparação, o que atrai a incidência das disposições do Código de Defesa do Consumidor.
+7- Presente a relação de consumo, impõe-se o reconhecimento da competência do juízo da 20ª Vara de Relações de Consumo da Comarca de Salvador para o julgamento da presente demanda.
+8- Recurso especial parcialmente provido para declarar a competência do juízo da 20ª Vara de Relações de Consumo da Comarca de Salvador para o julgamento da presente demanda.
+(REsp n. 2.018.386/BA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 10.5.2023, DJe de 12.5.2023.)
+Dessa forma, estando presente a relação de consumo no caso dos autos, deve ser declarada a competência do Juízo da 9ª Vara dos Feitos de Relações de Consumo da Comarca de Salvador para o julgamento da demanda.
+Em face do exposto, dou provimento ao recurso especial para declarar a competência do Juízo da 9ª Vara de Relações de Consumo da Comarca de Salvador para o julgamento do feito.
+Intimem-se.
