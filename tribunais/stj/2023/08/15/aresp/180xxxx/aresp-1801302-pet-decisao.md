@@ -1,0 +1,7 @@
+DECISÃO
+O agravado, CONDOMÍNIO SHOPPING CENTER PENHA, apresentou petição, protocolizada sob o n. 00319117/2023 (e-STJ fls. 1.468/1.481), informando que "as partes se compuseram amigavelmente, mediante assinatura do termo de aditamento do instrumento particular do contrato atípico de locação ora anexo que põe termo à presente ação renovatória (doc. 01)." Ao final, requer "a homologação da avença firmada, extinguindo-se o feito nos termos do art. 485, inciso VIII, do Código de Processo Civil, fazendo-se posterior comunicação ao cartório distribuidor para baixa do apontamento deste feito".
+Intimada, a agravante, MARISA LOJAS S.A., apresentou petição, protocolizada sob o n. 00435949/2023 (e-STJ fl. 1.485), informando que "em razão do termo aditivo acostado às fls. 1.470/1.480, no qual as partes se compuseram amigavelmente para prorrogar o prazo de vigência da locação por 60 (sessenta meses), a ora agravante manifesta o seu desinteresse no julgamento do Agravo em Recurso Especial de fls. 1.410/1.428".
+Os advogados subscritores das referidas peças possuem poderes para tanto (e-STJ fls. 47/48 e 1.276).
+A realização de acordo pelas partes, conforme se infere das informações constantes dos autos, denota a superveniente falta de interesse recursal, por perda de objeto do presente agravo em recurso especial (e-STJ fls. 1.410/1.428).
+Diante do exposto, homologo o acordo firmado entre as partes, às fls. 1.470/1.480 (e-STJ), em conformidade com o art. 34, IX, do RISTJ, e julgo prejudicado o recurso por perda de objeto.
+Publique-se e intimem-se.
