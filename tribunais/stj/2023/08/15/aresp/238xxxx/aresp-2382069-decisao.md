@@ -1,0 +1,24 @@
+DECISÃO
+Na origem trata-se de mandado de segurança contra ato de Delegado da RFB referente à desembaraço aduaneiro de mercadorias. Na sentença concedeu-se parcialmente a segurança. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 866.695,00 (Oitocentos e sessenta e seis mil, seiscentos e noventa e cinco reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESEMBARAÇO ADUANEIRO. PRAZO PARA CONCLUSÃO DO DESPACHO ADUANEIRO.
+Inexistindo prazo específico para o desembaraço aduaneiro, deve ser observado o prazo de oito dias, estabelecido para execução de atos no âmbito do processo administrativo fiscal pelo art. 4º do Decreto 70.235, de 1972.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Do exame dos autos, verifico que o Julgador de origem analisou com critério e acerto as questões suscitadas, examinando corretamente o conjunto probatório e aplicando os dispositivos legais pertinentes.
+Assim, para evitar desnecessária tautologia, transcrevo os fundamentos da decisão recorrida e adoto-os como razões de decidir, in verbis:
+(..)
+Com efeito, no que se refere à questão dos prazos legais considerados pela jurisprudência para o transcurso regular do despacho de importação, nota-se uma tendência à uniformização dos oito dias previstos no Decreto n.70.235/72, que dispõe sobre o processo administrativo fiscal:
+(..)
+Por fim, verificada a plausibilidade do direito, o perigo na demora da prestação jurisdicional mostra-se presumível no caso, vez que a impetrante encontra-se privada da posse e uso das mercadorias importadas, utilizadas no exercício do seu objeto social.
+(..)
+6. Contudo, para que tal benefício possa ser concedido, torna-se necessário que a conferência - documental e física - das mercadorias seja cercada de cuidados e realizada com maior rigor, ante a hipótese de haver divergências que possam levar a uma incorreta redução nos tributos devidos.
+Considerando que a decisão liminar determinou que fosse dado prosseguimento ao despacho aduaneiro da referida declaração de importação, e não necessariamente deferido o desembaraço, constata-se que foi cumprido integralmente seu comando.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Relativamente às demais alegações de violação dos arts. 542, 545, 564 e 571 do Decreto n. 6.759/2009 e 23, 24, 49 e 69-A da Lei n. 9.784/1999, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
