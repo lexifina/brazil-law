@@ -1,0 +1,56 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182 do STJ." (AgRg no AREsp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+2. Na hipótese, a decisão agravada não conheceu do recurso diante dos óbices contidos nas Súmulas 284 do STF e 7 do STJ. Todavia, o agravante não impugnou o primeiro fundamento, o que faz incidir a Súmula 182 do STJ. Precedentes.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por PETERSON PEREIRA DOS SANTOS (e-STJ, fls. 1749-1755) contra decisão proferida pela Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial por incidência das Súmulas 284 do STF e 7 do STJ (e-STJ, fls. 1740-1744).
+O agravante sustenta que não incidiria o óbice contido na Súmula 7 do STJ, e reitera as razões do recurso especial, concluindo que "não há qualquer necessidade de incursão no acervo probatório para se concluir que os elementos do tipo crime do art. 35, da Lei n. 11.343/06, consistentes na estabilidade e permanência da associação criminosa, de acordo com o v. acórdão recorrido, estão fundamentados na mera presunção, sem qualquer dado fático" (e-STJ, fl. 1752).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo ao crivo deste órgão colegiado.
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (e-STJ, fl. 1806).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182 do STJ." (AgRg no AREsp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+2. Na hipótese, a decisão agravada não conheceu do recurso diante dos óbices contidos nas Súmulas 284 do STF e 7 do STJ. Todavia, o agravante não impugnou o primeiro fundamento, o que faz incidir a Súmula 182 do STJ. Precedentes.
+3. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, assim expôs seus fundamentos (e-STJ, fls. 1742-1744, grifou-se):
+"Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) apontado(s) como violado(s) para sustentar a tese recursal, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Nesse sentido: "Não há como conhecer do especial em que a parte aponta como violado dispositivo legal com conteúdo normativo dissociado da tese formulada nas razões recursais, por desdobramento da Súmula n. 284 do STF." (REsp 1.932.774/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/8/2021, DJe 30/8/2021). Incidência da Súmula 284/STF." (AgRg no AREsp n. 2.092.396/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022.)
+ ..
+Nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente em elementos informativos do inquérito policial.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas produzidas sobre o crivo do contraditório, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos."
+No decisum impugnado, observa-se que o recurso não foi conhecido diante do enunciado contido na Súmula 284 do STF, além da Súmula 7 do STJ. Desse modo, caberia ao agravante impugnar especificamente esse fundamento, o que não foi feito, na medida em que a defesa apenas reitera as razões do recurso especial, e afirma que não busca o reexame de fatos e provas.
+Logo, incide, no caso, a Súmula 182 do STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. PEDIDO DE HABEAS CORPUS DE OFÍCIO. RECEPTAÇÃO. PENA INFERIOR A 4 ANOS. REGIME INICIAL FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não enfrentou as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada nesta Corte.
+III - Não há constrangimento ilegal na decisão que, em virtude de reincidência e maus antecedentes, afasta a incidência da Súmula n.º 269/STJ para determinar a inserção de réu condenado à pena de reclusão inferior a 4 anos em regime inicial fechado. Precedentes da Quinta Turma. Habeas corpus de ofício denegado.
+Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DA DECISÃO MONOCRÁTICA DO RELATOR. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. A eficácia meramente preclusiva da omissão em sede de agravo regimental, dirigido a capítulo autônomo e/ou independente da decisão monocrática, não desonera o recorrente de impugnar tantos quantos forem os motivos sobre os quais se ergue o capítulo recorrido, sob pena de não conhecimento. Precedentes.
+3. A decisão agravada é constituída de capítulo único, consistente na incidência da Súmula 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+4. No agravo regimental, todavia, a defesa limitou-se a afirmar que o recurso deveria ser conhecido com amparo nos princípios da ampla defesa e do contraditório e que estariam preenchidos os pressupostos de admissibilidade. Nada argumentou sobre o óbice do enunciado 284/STF.
+5. Esta Corte pacificou orientação de que a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+6. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.268.882/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Conforme se extrai do art. 7.º, § 2.º-B, do Estatuto da Ordem dos Advogados do Brasil, inserido pela Lei n. 14.365/2022, o recurso interposto contra decisão que não conhecer de agravo em recurso especial não foi incluído entre as espécies recursais que admitem a sustentação oral.
+2. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+3. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+4. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus, de ofício, é deferido por iniciativa dos Tribunais quando detectarem ilegalidade manifesta. Não se presta como meio para que a Defesa suplante requisitos de admissibilidade recursal.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.078.183/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2023, DJe de 23/5/2023.)
+Ainda que assim não fosse, constata-se que o recurso especial constitui mera reiteração do pedido formulado no HC 737.215/ES, e isto porque há identidade de partes e causa de pedir, ambos impugnando o acórdão proferido na apelação criminal n. 0000013-52.2018.8.08.0007. Verifica-se que, naquele feito, a defesa pleiteou a absolvição do ora recorrente dos delitos de tráfico e associação para o tráfico de drogas, o que foi denegado, na medida em que "ficou sobejamente demonstrado por meio das interceptações telefônicas, da prova testemunhal e da quantidade de droga apreendida, que o paciente e os corréus associaram-se de forma estável e permanente com a finalidade de comercializar entorpecentes, de modo que não há falar em ausência de provas para a condenação pelos delitos dos arts. 33 e 35 da Lei 11.343/2006". A referida decisão transitou em julgado aos 23/08/2022.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
