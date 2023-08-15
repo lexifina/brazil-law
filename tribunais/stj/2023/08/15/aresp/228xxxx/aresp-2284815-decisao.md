@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  JEFFERSON GAIA CARVALHO contra  decisão  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea  a ,  da  Constituição  da  República,  apresentado  em  face  de  acórdão  prolatado  pelo  Tribunal  de  Justiça  do  Estado  do  Pará  na  Apelação  Criminal  n.  024017-70.2018.8.14.0401.
+O  Ministério  Público  Federal  opinou  pelo  não  conhecimento  do  agravo,  em  razão  da ausência de impugnação dos fundamentos da decisão agravada  (fls.  356-359).
+É  o  relatório.  Decido.
+O  agravo  em  recurso  especial  não  reúne  condições  de  admissibilidade,  pois  não  foram  concretamente  impugnados  todos  os  fundamentos  da  decisão  agravada.
+No  caso,  a  Corte  de  origem  não  admitiu  o  recurso  especial  devido  à  incidência  da  Súmula  n.  284/STJ. Consta na decisão de inadmissão que:
+"Pois bem, na hipótese vertente, não foi observado o enunciado 284 da Súmula do Supremo Tribunal Federal.
+Isso porque configurada a deficiência na fundamentação a impedir a exata dimensão da controvérsia, na medida em que o ilícito foi perpetrado em 18/10/2018, isto é, na vigência da Lei n.º 13.654/2018, que acrescentou o §2.º-A ao art. 157 do Código Penal, segundo o qual a pena no crime de roubo deve ser aumentada em 2/3, quando praticado com uso de arma de fogo, como no caso; logo, as instâncias ordinárias nada mais fizeram do que aplicar a lei ao caso concreto, mormente se considerando que continua em plena vigência.
+A propósito da aplicação da fração de 2/3 na terceira fase da dosimetria nos crimes de roubo com emprego de arma de fogo, transcrevo ementa de julgado recente do Superior Tribunal de Justiça:  .. " (fl. 318, sem grifos no original).
+Da análise da petição do agravo em recurso especial, observa-se que o Recorrente não impugnou o fundamento decisório citado no excerto acima. Diante da ausência de impugnação efetiva a todos os  fundamentos  empregados  pela  decisão  agravada,  não  é  possível  o  conhecimento  do  agravo,  conforme  se  extrai  da  Súmula  n.  182/STJ:  "É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".
+Ressalte-se que a decisão que inadmite o recurso especial é incindível e deve ser impugnada em sua integralidade, razão pela qual a ausência de impugnação concreta de qualquer um dos fundamentos nela constantes implica o não conhecimento de todas as teses suscitadas no recurso (EAREsp n. 701.404/SC, Rel. para acórdão Ministro LUIS FELIPE SALOMÃO , Corte Especial, DJe 30/11/2018).
+No mesmo sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DE FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. IMPUGNAÇÃO TARDIA. DECISÃO INCINDÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. "A decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018)" (AgRg no AREsp 1552169/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 11/11/2019).
+4. Agravo regimental desprovido." (AgRg nos EDcl no AREsp n. 1.882.835/MG, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 5/4/2022, DJe de 7/4/2022, sem grifos no original).
+Ante  o  exposto ,  NÃO  CONHEÇO  do  agravo  em  recurso  especial.
+Publique-se.  Intimem-se.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL . ROUBO MAJORADO.  MINUTA  DE  AGRAVO  QUE  NÃO  INFIRMA  ESPECIFICAMENTE  TODOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  N.  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  AGRAVO  NÃO  CONHECIDO.
