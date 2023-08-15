@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA DAS GRAÇAS CRAVANÇOLA e OUTRO à decisão monocrática, assim ementada (e-STJ, fl. 1.000):
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OFENSA AO ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REAJUSTE ANUAL. SINISTRALIDADE. POSSIBILIDADE. TEMA 1.016/STJ. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. PRECEDENTES. PREMISSA EQUIVOCADA UTILIZADA PELO TRIBUNAL DE JUSTIÇA. NECESSIDADE DE NOVO JULGAMENTO. RECURSO ESPECIAL PROVIDO.
+Nas razões dos aclaratórios (e-STJ, fls. 146-150), os embargantes alegam haver omissão em relação ao fato de que a embargada não teria apresentado qualquer documento que justificasse o reajuste nas mensalidades do plano de saúde, não sendo possível deste modo determinar a apuração do reajuste nos termos da decisão ora embargada.
+Afirma que "não há previsão contratual para os reajustes por mudança de faixa etária e, como senão bastasse isso, a ANS determinou que a última mudança de faixa etária ocorre aos 59 (cinquenta e nove) anos, além disso, o artigo 15 da Lei n.º 9.656/98 dispõe sobre a inviabilidade da cobrança por idade para os consumidores com mais 60 anos de idade e com mais de 10 anos de contrato, como ocorre no presente caso" (e-STJ fl. 1.028)
+Acrescem que "ante a ausência de informações/documentos, do próprio contrato firmado entre as partes com o plano de saúde da parte Embargante e o Laudo Pericial inconclusivo, ante a falta de documentos, não há como auferir um reajuste aplicável, senão o da ANS, como forma excepcional e em caráter de penalidade" (e-STJ fl. 1.034)
+Apresentada contraminuta às fls. 1.042-1.043, e-STJ.
+Brevemente relatado, decido.
+Os embargos de declaração não merecem acolhida.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa
+(EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados
+(EDcl no AgInt no AREsp 1.475.227/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+Na presente insurgência, os embargantes argumentam que a decisão monocrática embargada foi omissa quanto a ausência de documentos necessários a justificar o reajuste do plano de saúde coletivo, sendo que na hipótese era mesmo de ser aplicado os índices das ANS previstos para os planos individuais.
+Na decisão embargada foi determinado o retorno dos autos à origem, para que em novo julgamento seja observada a jurisprudência desta Corte de Justiça acerca da impossibilidade de utilização dos índices aplicados aos contratos individuais/familiares aos contratos coletivos.
+Ocorre que, nas razões dos declaratórios opostos, os embargantes não ventilam qualquer dos vícios elencados no art. 1.022 do CPC/2015, mas apenas mera irresignação com o resultado do julgado.
+No que tange à evidente intenção dos embargantes de que seja concedido os efeitos infringente, impende registrar que, nos termos da jurisprudência desta Corte Superior, a atribuição de tal efeito demanda a constatação da presença de um dos vícios do art. 1.022 da lei processual civil, os quais, reitera-se, sequer foram suscitados pela parte.
+Ilustrativamente (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. EXCEPCIONALIDADE. TEMPESTIVIDADE. COMPROVAÇÃO. TRIBUNAL DE ORIGEM. PÁGINA. SÍTIO ELETRÔNICO. POSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CPC.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alterar a conclusão do julgado.
+2. A atual jurisprudência do STJ é no sentido de que a juntada de cópia de página extraída do sítio eletrônico do tribunal de origem é documento idôneo para a comprovação da existência de feriado local (EAREsp nº 1.927.268/RJ).
+3. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC).
+4. Embargos de declaração acolhidos com efeitos infringentes para superar a intempestividade e não conhecer do agravo em recurso especial.
+(EDcl no AgInt no AREsp n. 2.079.128/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Ademais, a insurgência dirigida à suposta ausência de previsão contratual para reajuste por mudança de faixa etária está dissociada do que foi decidido no acórdão estadual, haja vista que a discussão travada nos autos diz respeito ao aumento por sinistralidade.
+No caso, não obstante a alegação de pretensa omissão no decisum, o que se constata, na verdade, é tão só a pretensão de rejulgamento da causa, em virtude do inconformismo da parte com o resultado, tornando inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
