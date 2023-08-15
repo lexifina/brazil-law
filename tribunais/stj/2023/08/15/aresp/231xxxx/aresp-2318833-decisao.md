@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ALUIZIO MANOEL DO NASCIMENTO NETO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, o agravante foi condenado à pena de 1 (um) ano e 02 (dois) meses de reclusão, no regime inicial semiaberto, e ao pagamento de 11 (onze) dias-multa, como incurso no artigo 180, caput, do Código Penal (fls. 137-141), o que foi mantido pelo Tribunal de origem (fls. 181-187 e 199-203).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa alegou violação dos artigos 33 e 59, ambos do Código Penal e artigo 387, § 2º, do Código de Processo Penal, ante fundamentação inidônea na fixação do regime mais gravoso.
+Apresentadas as contrarrazões (fls. 221-231), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 284/STF, pois não foram devidamente atacados os argumentos do acórdão, nos termos do artigo 1029 do CPC e ii) na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior (fls. 230-231).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 237-245).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 266-272).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7/STJ.
+A defesa nas razões recursais , em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ alegou que "não se pretende mero reexame de provas, mas se pugna pela correta aplicação dos artigos 33 e 59, do Código Penal, no que diz respeito à fixação do regime inicial, bem como do art. 387, §2º, do Código de Processo Penal, mediante aplicação do instituto da detração, levando-se em consideração o tempo que o agravante ficou preso preventivamente para a fixação do regime" (fl. 242).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Outrossim, a Corte Especial desse Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. A propósito cito o seguinte precedente: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1.682.769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
