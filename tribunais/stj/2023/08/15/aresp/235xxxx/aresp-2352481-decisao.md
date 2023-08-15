@@ -1,0 +1,13 @@
+DECISÃO
+Na origem trata-se de ação de indenização contra ESTADO DE SÃO PAULO, objetivando o pagamento de danos morais no importe de 1000 salários mínimos, bem como danos materiais e demais consectários legais. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi parcialmente reformada. O valor da causa foi fixado em R$332.311,28.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS. ACIDENTE COM VIATURA POLICIAL, QUE RESULTOU NA MORTE DO MARIDO E PAI DAS AUTORAS, POLICIAL MILITAR ESCOLTADO PRESO. CONFIGURAÇÃO DA RESPONSABILIDADE DO ESTADO, NOS TERMOS DO ARTIGO 37, PARÁGRAFO 61, DA CONSTITUIÇÃO FEDERAL. DANO MORAL. ADMISSIBILIDADE. REDUÇÃO, NO ENTANTO, DA ESTIMATIVA DA AUTORA. DANOS MATERIAIS. INADMISSIBILIDADE. INCONSISTÊNCIA DE DEMONSTRAÇÃO. SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO. PROVIMENTO PARCIAL DO RECURSO DAS AUTORAS, CONSOANTE ESPECIFICADO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A indenização por danos materiais é mesmo indevida na espécie, visto que se assenta na mesma causa de pedir do caso precedente. Os danos morais devem ser pagos no mesmo valor para cada uma das autoras (R$ 65.000,00 x 3), porém com prejuízo da aplicação da regra do art. 1-F da Lei nº 9.497/97 na redação dada pela Lei nº 11.960/09, tendo em vista a declaração de inconstitucionalidade nos autos da ADIN nº 4.357-DF.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
