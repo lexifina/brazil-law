@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que indeferiu a suspensão da execução fiscal. No Tribunal a quo a decisão foi mantida. O valor da causa foi fixado em R$ 1.999.047,66 (Um milhão, novecentos e noventa e nove mil e quarenta e sete reais e sessenta e seis centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA DO CRÉDITO TRIBUTÁRIO. SUSPENSÃO DA EXECUÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DO PREENCHIMENTO DOS REQUISITOS LEGAIS DO ART. 151 DO CTN. APLICAÇÃO DO ART. 784, §1º DO CÓDIGO DE PROCESSO CIVIL E ART. 38 DA LEI DE EXECUÇÕES FISCAIS. RECURSO CONHECIDO E DESPROVIDO.
+1. CUIDA-SE DE AGRAVO DE INSTRUMENTO INTERPOSTO COM ESCOPO DE VER REFORMADA A DECISÃO INTERLOCUTÓRIA PROFERIDA PELO JUÍZO DA 3A VARA DE EXECUÇÕES FISCAIS DA COMARCA DE MARACANAÚ QUE INDEFERIU O PEDIDO DE SUSPENSÃO ATÉ O TRÂNSITO EM JULGADO DA AÇÃO DE EXECUÇÃO FISCAL (PROC. Nº 0055041-83.2019.8.06.0117) AJUIZADA EM DESFAVOR DE DANONE LTDA.
+2. CONFORME A LEGISLAÇÃO VIGENTE E A JURISPRUDÊNCIA PÁTRIA, O AJUIZAMENTO DE AÇÃO ANULATÓRIA NÃO POSSUI O CONDÀO, POR SI SÓ, DE SUSPENDER A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO, ISTO PORQUE AS HIPÓTESES DE SUSPENSÃO ESTÃO PREVISTAS NO ARTIGO 151 DO CÓDIGO TRIBUTÁRIO NACIONAL.
+3. AS DISPOSIÇÕES CONTIDAS NO ART. 784, §1º DO CÓDIGO DE PROCESSO CIVIL E NO ART. 38 DA LEI DE EXECUÇÕES FISCAIS PERMITEM O PROSSEGUIMENTO DA EXECUÇÃO NA PENDÊNCIA DE AÇÃO ANULATÓRIA.
+4. EM CONSONÂNCIA COM OS PRECEDENTES SUPRARRELACIONADOS, CONHEÇO AGRAVO DE INSTRUMENTO, PARA LHE NEGAR PROVIMENTO, MANTENDO A RESPEITÁVEL DECISÃO OBJURGADA, REVOGANDO A ORDEM DE SUSPENSÃO DO FEITO(PÁGS.43/47) PAIA QUE A EXECUÇÃO FISCAL DE ORIGEM TENHA REGULAR PROSSEGUIMENTO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A ação Anulatória não é causa de suspensão da Execução Fiscal, que somente poderia ser concedida, em sendo verificada a excepcionalidade do caso concreto, através da oposição de Embargos à Execução, com a devida garantia do juízo, em face da aplicação subsidiária do disposto no art. 919, § 1º, do Código de Processo Civil; ou ainda mediante depósito integral do débito executado.
+(..)
+Ademais, preceitua o Verbete Sumular nº. 112 do Colendo Superior Tribunal de Justiça, que "o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro".
+E, nesse quadro, a mesma Corte Superior, quando do julgamento do Recurso Especial Repetitivo nº. 1.156.668/DF (TEMA 378), firmou posicionamento no sentido de que a fiança bancária não é equiparável ao depósito integral do débito exequendo, para fins de suspensão da exigibilidade do crédito tributário, ante a taxatividade do art. 151 do Código Tributário Nacional (CTN).
+(..)
+(STJ, REsp 1156668/DF, Rel. Ministro LUIZFUX, PRIMEIRA SEÇÃO, julgado em 24/11/2010, DJe 10/12/2010)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 313 do CPC/2015 e 9º, 15 e 32 da Lei n. 6.830/1980, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
