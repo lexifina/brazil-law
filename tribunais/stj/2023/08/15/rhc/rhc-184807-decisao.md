@@ -1,0 +1,19 @@
+DECISÃO
+ANDRE LUIS PASTRE alega sofrer coação ilegal em seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Habeas Corpus n. 5037606-31.2023.8.24.0000/SC.
+Nas razões deste mandamus, a defesa postula o relaxamento da prisão preventiva em razão do excesso de prazo. Afirma que o paciente está preso desde 16/02/2023. Repisa que "houve a designação de Audiência de Instrução e Julgamento tão-somente para a data de 03 de outubro de 2023, o que implicaria, neste caso, na manutenção da custódia cautelar do paciente por mais 04 (quatro) meses, ou seja, sujeitando-se o paciente a uma custódia cautelar de 08 (oito) meses (fl. 5).
+Sustenta, ainda, que o transcurso de 126 (vinte e vinte e seis) dias entre a data de sua prisão em flagrante até a data de impetração do presente Habeas Corpus faria ser necessário o exame acerca da necessidade de prorrogação da prisão preventiva do réu, ou, se de outro lado, não seria o caso de sua revogação.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, não fosse provido.
+Decido.
+I. Duração razoável do processo
+O acusado foi preso em flagrante no dia 16/02/2023, pela suposta prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006 e no art. 12, caput, da Lei 10.826/2003 .
+Oferecida a denúncia, apresentada resposta à acusação e afastada a possibilidade de absolvição sumária em decisão proferida no dia 16/06/2023, designou-se audiência de instrução e julgamento para o dia 3/10/2023
+Inconformada, a defesa interpôs recurso ordinário em habeas corpus perante o Tribunal a quo, que negou provimento ao writ em julgamento ocorrido em 11/07/2023.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022 ).
+Na hipótese, é possível verificar que o flagrante ocorreu em fevereiro de 2023 e a audiência de instrução foi designada para oito meses depois. Diante do exposto, não constato ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+II. Do exame da prorrogação ou revogação da prisão preventiva
+No tocante à alegada violação do art. 316, parágrafo único, do Código de Processo Penal, rememoro que " o  prazo estabelecido na redação do art. 316, parágrafo único, do CPP, para revisão da custódia cautelar a cada 90 dias, não é peremptório, de modo que eventual atraso na execução do ato não implica reconhecimento automático da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no HC n. 697.019/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 3/11/2021, grifei).
+Na hipótese, observo que a segregação cautelar deve mesmo ser reapreciada pelo Magistrado de primeiro grau, dado o transcurso do prazo legal de 90 dias para tanto. Não obstante isso, a necessidade dessa reavaliação não é razão para que o Superior Tribunal de Justiça relaxe a prisão provisória do ora paciente.
+III. Dispositivo
+À vista do exposto, denego a ordem, in limine. Todavia, determino ao Juízo de primeiro grau que proceda à reavaliação prescrita pelo art. 316, parágrafo único do CPP.
+Publique-se e intimem-se.
