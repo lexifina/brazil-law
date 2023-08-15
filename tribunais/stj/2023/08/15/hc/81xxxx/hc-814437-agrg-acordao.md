@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DAS DROGAS APREENDIDAS EM CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. SUSPEIÇÃO DO JUÍZO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas, em locais diversos, e em contexto de organização criminosa. Precedentes.
+III - O agravante, mesmo tendo constituído advogado nos autos e ciente da ação penal e da decretação de sua prisão preventiva continuou se recusando a fornecer sua localização, e está foragido, o que evidencia a necessidade da prisão preventiva, também em razão da garantia da aplicação da lei penal.
+IV - A arguição de suspeição do juízo, sequer foi analisada pelo Tribunal a quo, nos autos do habeas corpus originário, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+V - O habeas corpus não se presta para a apreciação de alegações de negativa de autoria, em virtude da necessidade de revolvimento do conjunto fático-probatório dos autos , o que é inviável na via eleita.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MATHEUS FRANCISCO ROSA MAIA, contra a decisão que denegou a ordem no habeas corpus impetrado contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O agravante teve sua prisão preventiva decretada pela prática, em tese, do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem conheceu parcialmente da impetração e denegou a ordem, nos termos do acórdão de fls. 77-83.
+No respectivo writ impetrado nesta Corte, a defesa requereu a expedição de contramandado de prisão e o afastamento da Magistrada de primeiro grau da ação penal ordinária.
+Denegada a ordem, interpôs-se o presente agravo.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ denegado, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar.
+Alega a ausência de indícios suficientes de autoria, razão pela qual entende que a decisão contrariou o conteúdo probatório dos autos.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DAS DROGAS APREENDIDAS EM CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. SUSPEIÇÃO DO JUÍZO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas, em locais diversos, e em contexto de organização criminosa. Precedentes.
+III - O agravante, mesmo tendo constituído advogado nos autos e ciente da ação penal e da decretação de sua prisão preventiva continuou se recusando a fornecer sua localização, e está foragido, o que evidencia a necessidade da prisão preventiva, também em razão da garantia da aplicação da lei penal.
+IV - A arguição de suspeição do juízo, sequer foi analisada pelo Tribunal a quo, nos autos do habeas corpus originário, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+V - O habeas corpus não se presta para a apreciação de alegações de negativa de autoria, em virtude da necessidade de revolvimento do conjunto fático-probatório dos autos , o que é inviável na via eleita.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar, a ausência de indícios suficientes de autoria, e que a decisão que denegou a ordem contrariou o conteúdo probatório dos autos..
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas, em locais diversos, e em contexto de organização criminosa, conforme consignado no acórdão objurgado:
+"Após, autorização para quebra de sigilos dos respectivos aparelhos celulares e continuidade das investigações, o paciente e demais investigados, segunda consta nos autos principais, foram posteriormente denunciados porque, segundo apurado, o paciente e os corréus hipoteticamente guardavam expressiva quantidade de drogas, a saber: i) na Fazenda Jaó, na cidade e comarca de Batatais, 344 porções de maconha compactada em tijolos, pesando 214,427kg (duzentos e quatorze quilogramas e quatrocentos e vinte e sete gramas), e ii) na Avenida dos Pupins, nº 875, no Conjunto Habitacional Zaira Pupim, Bloco 22, Apartamento 22, Bairro Jardim Aurora, na cidade e comarca de Batatais, mantinham em depósito 165 porções de maconha, pesando 157,905g (cento e cinquenta e sete gramas e novecentos e cinco miligramas) e uma porção de maconha, pesando outros 27,400g (vinte e sete gramas e quatrocentos miligramas), além de se associarem para prática de crimes de tráfico de drogas" (fl. 80).
+Tais circunstâncias são indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+A corroborar tal entendimento, os seguintes precedentes desta Corte: AgRg no HC n. 788.866/SP, Quinta Turma, de minha relatoria, DJe de 28/4/2023; AgRg no HC n. 798.056/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 26/4/2023; AgRg no HC n. 797.201/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no RHC n. 176.544/MG, Sexta Turma, Relª. Min.ª Laurita Vaz, DJe de 31/3/2023.
+Acrescente-se que o paciente, que mesmo tendo constituído advogado nos autos e ciente da ação penal e da decretação de sua prisão preventiva continuou se recusando a fornecer sua localização, e está foragido, o que evidencia a necessidade da prisão preventiva, também em razão da garantia da aplicação da lei penal.
+Quanto à alegação de suspeição do juízo, o habeas corpus não comporta conhecimento. Isso porque, do exame do acórdão reprochado, tem-se que o writ originário não foi conhecido, no ponto, ante a impossibilidade de revolvimento do acervo fático probatório dos autos na via estreita do mandamus.
+Portanto, a matéria ora suscitada sequer foi analisada pelo Tribunal a quo, nos autos do HC n. 2012908-55.2023.8.26.0000, objeto do presente recurso, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Pela mesma razão, as alegações relativas à negativa de autoria não comportam conhecimento na presente via.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
