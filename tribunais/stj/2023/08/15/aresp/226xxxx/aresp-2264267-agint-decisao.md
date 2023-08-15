@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE CORBELIA contra decisão em que a Exma. Presidente do STJ não conheceu do agravo em recurso especial.
+A agravante sustenta que indicou precisamente o dispositivo de lei federal violado nas razões do recurso especial.
+Ao analisar o agravo interno, entendo que a decisão da Presidência deste Tribunal deve ser reconsiderada, uma vez que as razões do agravo em recurso especial impugnaram a fundamentação da decisão de inadmissibilidade do recurso especial.
+Por isso, reconsidero a decisão de fls. 329-330 para afastar o óbice apontado e passo a examinar a pretensão contida no presente agravo em recurso especial.
+Trata-se de agravo interposto pelo MUNICIPIO DE CORBELIA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. COMPETÊNCIA DA JUSTIÇA ESTADUAL VERIFICADA. LEGITIMIDADE DA AUTORIDADE IMPETRADA PARA FIGURAR NO POLO PASSIVO DA DEMANDA. LICENÇA MATERNIDADE. DIREITO DE PRORROGAÇÃO POR 60 DIAS DISCIPLINADA PELA LEI FEDERAL 11.770/2008. SÚMULA 75 DESTE TRIBUNAL QUE DEFINIU A NÃO AUTO APLICABILIDADE DA REFERIDALEGISLAÇÃO. LEI MUNICIPAL 807/2013 QUE ALTEROU O ESTATUTO DOSSERVIDORES DE CORBÉLIA PARA DISCIPLINAR A LICENÇA MATERNIDADE POR 180 DIAS. DIREITO LIQUÍDO E CERTO A SER AMPARADO VERIFICADO. RECURSO DESPROVIDO. SENTENÇA QUE DENEGOU A SEGURANÇA MANTIDA EM SEDE DE REEXAME NECESSÁRIO.
+No recurso especial, o recorrente aponta como violado o art. 2º, da Lei n. 11.770/08. Sustenta, em síntese que o estatuto dos servidores públicos municipais não estendeu a prorrogação da licença maternidade para os servidores temporários, como é o caso da recorrida.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta conhecimento.
+O Tribunal de origem consignou que a prorrogação da licença maternidade para as servidoras do município recorrente foi regulamentada por lei municipal, conforme se observa à fl. 258:
+Ocorre que, a questão foi devidamente regulamentada pelo Município de Corbélia, pela Lei Municipal nº 807/2013, art. 1º, que alterou o art. 109, caput, do Estatuto dos Servidores do Município (Lei Municipal 286/1992, com a seguinte redação:
+Art. 1º O caput do artigo 109 da Lei n. 286, de 20 de julho de 1992, passa a vigorar com a seguinte redação: "Art. 109. Será concedida licença à servidora gestante, por180 (cento e oitenta) dias consecutivos, sem prejuízo dos seus vencimentos".
+Extrai-se, portanto, que a questão foi devidamente regulamentada pela legislação municipal, a qual fica vinculado o Prefeito Municipal, pelo princípio da estrita legalidade que norteia a Administração Pública.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as leis municipais n. 807/2013 e 286/92, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Nesse diapasão, confiram-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. SANÇÃO. LEGALIDADE. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. VALOR DA MULTA. CRITÉRIOS. EXAME DE LEI LOCAL E DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Incide a Súmula 284 do STF quando a parte aponta violação do art. 1.022 do CPC de 2015 de forma genérica, sem explicitar os vícios de integração e sua relevância para a solução da controvérsia.
+3. Hipótese em que o Tribunal de origem reconheceu a validade do dispositivo de lei local (art. 7º da Lei Estadual n. 12.685/2007) amparando-se exclusivamente em fundamento constitucional, o que impede o conhecimento do recurso especial quanto à matéria.
+4. A alteração do julgado, no que tange aos critérios adotados para a fixação do valor da multa, demandaria a apreciação de dispositivos da lei estadual e o reexame dos elementos de convicção postos nos autos, providências incompatíveis com a via estreita do recurso especial, nos termos das Súmulas 280 do STF e 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1586502/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020)
+Ante o exposto, com fundamento no caput do art. 259 do RISTJ, reconsidero a decisão agravada para, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conhecer do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
