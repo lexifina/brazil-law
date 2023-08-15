@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/08/2023 a 15/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se de agravo interno interposto por RENATO MENEZES DE GOES contra decisão monocrática desta relatoria que indeferiu liminarmente os embargos de divergência (e-STJ, fls. 2.097-2.100).
+Em suas razões, o agravante sustenta a inaplicabilidade da Súmula n. 315/STJ.
+Afirma que "a controvérsia jurídica foi analisada, comprovando o desacerto da r. decisão monocrática sob ataque, em inteira violação ao artigo 1043 inciso III do CPC" (e-STJ, fl. 2.118 ).
+Alega que, "ao contrário do sustentado na r. decisão monocrática proferida, a 4ª Turma do STJ exarou decisão de mérito sobre a controvérsia jurídica, no qual COMPROVADO O PREQUESTIONAMENTO IMPLÍCITO, MEDIANTE O DEBATE JURÍDICO DA MATÉRIA PERANTE A INSTÂNCIA ORDINÁRIA, AS SÚMULAS 282 E 356 DO STF DEVEM SER AFASTADAS, CARACTERIZANDO A VIOLAÇÃO AO ARTIGO 1025 DO CPC, sendo apenas um equívoco de técnica de julgamento do recurso especial" (e-STJ, fl. 2.118).
+Acrescenta que, "COMPROVADO O PREQUESTIONAMENTO IMPLÍCITO, MEDIANTE O DEBATE JURÍDICO DA MATÉRIA PERANTE A INSTÂNCIA ORDINÁRIA, AS SÚMULAS 282 E 356 DO STF DEVEM SER AFASTADAS, RESTANDO CARACTERIZADA A VIOLAÇÃO AO ARTIGO 1025 DO CPC" (e-STJ, fls. 2.143).
+Pede o "recebimento e processamento do agravo interno, a fim de que seja afastado o óbice da Súmula 315 do STJ, conhecendo do recurso de embargos de divergência, e no mérito deve ser dado provimento, por divergir do v. acórdão paradigma proferido pela 3ª Turma deste Tribunal, prevalecendo o entendimento do v. acórdão paradigma para reconhecer a violação ao artigo 1025 do CPC, bem como os artigos 1725, 1790 inciso III todos do Código Civil, afastando a aplicação das Súmulas 282 e 356 do STF, para conhecer do recurso especial" (e-STJ, fl. 2.172).
+A parte agravada apresentou impugnação, pedindo o desprovimento do recurso e a condenação dos insurgentes ao pagamento da multa prevista no art. 1.021, § 4º, do CPC (e-STJ, fls. 2.176-2.191).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A admissão dos embargos de divergência pressupõe a comprovação do dissídio jurisprudencial, por meio da realização de cotejo analítico entre os acórdãos confrontados, devendo a parte embargante demonstrar a identidade de situações fáticas com soluções jurídicas diversas.
+2. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, em razão do disposto na Súmula 315 do STJ, em consonância, ainda, com a redação do art. 1.043, do CPC/2015.
+3 . Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, no acórdão paradigma da Terceira Turma desta Corte, foi possível observar que, muito embora a Corte de origem não tenha mencionado expressamente o dispositivo legal indicado como violado, a fundamentação do acórdão o considerou, implicitamente, para afastar o pleito de compensação, não havendo falar em ausência de prequestionamento.
+O acórdão embargado, contudo, manteve decisão monocrática que havia afastado a suposta ofensa aos arts. 458 e 535 do CPC/1973, pois o Tribunal de origem teria enfrentado coerentemente as questões postas a julgamento.
+Não foi identificado sequer prequestionamento "implícito dos arts. 1.725 e 1.790, III, do CC/2002, uma vez que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto dos embargos de declaração opostos às fls. 1772/1777, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial" (e-STJ, fl. 1.967). Também não houve manifestação sobre possível prequestionamento ficto, na forma do art. 1.025 do CPC/2015.
+A análise dos autos denota a inadmissibilidade dos embargos de divergência, pois, consoante a jurisprudência sedimentada deste Tribunal, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, tendo em vista o que dispõe o enunciado n. 315 da Súmula desta Corte Superior:
+Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Registre-se que "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.423.657/PE, Relatora a Ministra Nancy Andrighi, DJe de 9/12/2021).
+Além do mais, nos termos da pacífica jurisprudência desta Corte Superior, não se admite o processamento de embargos de divergência quando o suposto dissídio estiver relacionado à existência ou não de negativa de prestação jurisdicional por parte do Tribunal local, como no caso, pois essa análise depende das circunstâncias particulares de cada caso concreto, não se podendo falar em identidade de situações fáticas com soluções jurídicas diversas entre os acórdãos confrontados.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIVERGÊNCIA RELATIVA À APLICAÇÃO DO ART. 1.022 DO CPC/2015. DESCABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO IMPROVIDO.
+1. Na aplicação do art. 535 do CPC de 1973, atual art. 1.022 do CPC de 2015, a constatação de ter, ou não, havido omissão no acórdão embargado, em regra, demanda o exame das peculiaridades de cada caso concreto, inexistindo, portanto, divergência de teses a ensejar os embargos de divergência. Precedentes.
+2. "Os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se prestam a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado, como se a Corte Especial funcionasse como instância revisora ordinária dos demais órgãos jurisdicionais internos, o que, como se sabe, não é o seu papel" (EDcl no AgRg nos EAREsp 1.778.789/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 22/02/2022, DJe de 02/03/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1.331.871/SC, Corte Especial, Relator o Ministro Raul Araújo, DJe de 21/6/2022)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO ACERCA DA PRESTAÇÃO JURISDICIONAL APLICADA AO CASO CONCRETO. ART. 535 DO CPC DE 1973. CORRESPONDENTE AO ART. 1.022 DO CPC/15. IMPOSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+I - Nos embargos de divergência, os agravantes sustentam a ocorrência de dissídio jurisprudencial, alegando negativa de prestação jurisdicional no caso concreto.
+II - Nos termos da jurisprudência vigente nesta Corte Superior, não há se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à existência ou não de ofensa ao disposto no art. 535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), na medida em que a verificação de ocorrência ou não dos vícios elencados nesse dispositivo processual depende das circunstâncias particulares do caso concreto. Nesse sentido: AgInt nos EAREsp 805.015/SP, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 16/8/2017, DJe 24/8/2017).
+III - Agravo interno improvido.
+(AgInt nos EAREsp 543.036/SP, Corte Especial, Relator o Ministro Francisco Falcão, DJe de 27/10/2017)
+Cabe acrescentar que, "não há que se falar em superação da Súmula 315/STJ, na medida em que o art. 1.043, III, CPC, apenas disciplina a hipótese em que, a despeito de o dispositivo ser de não conhecimento, houver efetivo enfrentamento do mérito por esta Corte" (AgInt nos EAREsp n. 2.029.511/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/3/2023, DJe de 16/3/2023).
+Confira-se ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO, MULTA, DANOS MORAIS E ÓBICE DE CONHECIMENTO. SÚMULAS N. 315 E 420 DO STJ. DESCABIMENTO DA VIA UNIFORMIZADORA.
+1. É inviável o manejo de embargos de divergência para discutir o acerto ou o desacerto da aplicação dos arts. 1.022 e 1.026 do CPC ou de óbices ao conhecimento do recurso especial, na medida em que dependem da análise de circunstâncias processuais específicas dos autos e não contrapõem teses jurídicas abstratas.
+2. "Incabível, em embargos de divergência, discutir o valor de indenização por danos morais" (Súmula n. 420 do STJ).
+3. Ausente o enfrentamento do mérito da causa no recurso especial, aplica-se a conclusão extraída da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" .
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.697.400/MG, relator Ministro Og Fernandes, Corte Especial, julgado em 25/4/2023, DJe de 2/5/2023 - sem grifo no original)
+Quanto ao pedido da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da sanção prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+(EDcl no AgInt no REsp 1480859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
