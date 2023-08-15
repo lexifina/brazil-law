@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO CAMILO DE GODOY contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0004078-56.2023.8.26.0996.
+Consta dos autos que o Juízo da Execução Criminal indeferiu o pedido de remição da pena por estudo formulado pelo Apenado (fls. 13-14).
+Inconformado, o Reeducando interpôs agravo em execução penal, que foi desprovido pela Corte de origem (fls. 15-25).
+Neste writ, o Impetrante alega que o Paciente sofre constrangimento ilegal, pois possui direito à remição parcial, nos termos do art. 126 da Lei de Execução Penal, relativo à prestação do Exame Nacional do Ensino Médio (ENEM) e à aprovação em áreas de conhecimento que compõem o mencionado certame.
+Requer, liminarmente e no mérito, em virtude da aduzida aprovação do Paciente no ENEM, a remição parcial da pena (fl. 12).
+O pedido liminar foi indeferido (fl. 38).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, no mérito, pela denegação da ordem (fls. 50-53).
+É o relatório. Decido.
+O Juízo da Execução Criminal consignou o que se segue quanto à negativa de remição da pena pela participação do Paciente no Exame Nacional do Ensino Médio (fls. 13-14):
+"O pedido é improcedente.
+Isso porque, analisando os autos denota-se que o reeducando foi beneficiado com a remição relativa a participação no ENEM 2019, conforme documentos de fls. 729 e acórdão que deferiu a remição (fls. 865/870), e dessa forma não pode ser beneficiado duas vezes com a mesma benesse, malgrado nova participação às provas em anos subsequentes."
+O Tribunal de origem, ao desprover o agravo defensivo e manter a negativa de remição da pena, assim fundamentou a questão (fls. 15-25; grifos diversos):
+"Dessa forma, a fim de dar plena eficácia à remição por estudo, recomendou o CNJ que aquele sentenciado que, por meios próprios, lograr aprovação em exames que certificam a conclusão do Ensino Fundamental ou Médio (ENCCEJA), ou aprovação no ENEM, faz jus à remição.
+Sendo assim, de acordo com os parâmetros previstos no art. 1º, IV, da Resolução nº 44/2013 do CNJ, se comprovada a aprovação, o sentenciado tem direito a 50 dias de remição.
+Isso porque, segundo a sobredita norma, deve- se considerar 50% da carga horária legalmente definida para cada nível de ensino.
+E, levando-se em conta que o apenado teria concluído o ensino médio, cuja carga horária é de 1.200 horas, resgataria 600 horas, que, divididas por 12 (número de horas exigidas para cada dia de remição), chega-se em 50 dias de remição.
+Por outro lado, acaso concluído o ensino médio, faria jus o sentenciado, ainda, nos termos do §5º do art. 126 da Lei de Execução Penal, ao acréscimo de 1/3 em função do estudo, chegando-se ao total de 66 dias.
+ ..
+Todavia, fato é que, in casu, o agravante não foi aprovado no ENEM, malgrado a sua argumentação em sentido diametralmente oposto.
+ ..
+Ora, conforme se verifica na documentação acostada a fls. 304, o sentenciado não obteve os necessários 500 pontos para aprovação no campo da redação, de modo que não satisfez as condições necessárias para ser considerado aprovado no exame."
+Ressalto que não olvido o caráter de ressocialização do estudo. Por outro lado, constato que o art. 126 da Lei de Execução Penal e a Resolução n. 44 do Conselho Nacional de Justiça deixam evidente que a remição da pena pelo estudo depende da efetiva participação e aprovação, ainda que parcial, do Reeducando nas atividades educacionais.
+No caso dos autos, consignou a Corte de origem que o Reeducando "não foi aprovado no ENEM, malgrado a sua argumentação em sentido diametralmente oposto" (fl. 20; sem grifos no original). Assim sendo, não houve a comprovação da aprovação do Reeducando, ainda que parcial, no Exame Nacional do Ensino Médio/ENEM, mas tão somente da sua participação, o que não gera direito à remição.
+Para afastar essa percepção, é imprescindível o reexame do acervo fático-probatório, o que é todo inviável no âmbito do habeas corpus.
+Ilustrativamente, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. AUSÊNCIA DE COMPROVAÇÃO DOCUMENTAL DAS HORAS EFETIVAMENTE ESTUDADAS. REVISÃO. IMPOSSIBILIDADE ANTE A INVIÁVEL REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS NA VIA DO HABEAS CORPUS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem asseverou que é inviável a remição de pena pelo estudo em razão da participação do Agravante no Exame Nacional do Ensino Médio - ENEM, porque não consta comprovação específica das horas cursadas, nem sequer da sua aprovação, impossibilitando o cômputo da freqüência escolar. Para afastar essa percepção, é imprescindível o reexame do acervo fático-probatório, o que é todo inviável no âmbito do habeas corpus.
+2. No mesmo sentido: " ..  a reforma do referido juízo, relativo à insuficiência da comprovação acerca das horas estudadas em cela pelo paciente, a fim de demonstrar o cumprimento dos requisitos necessários à concessão do benefício, demanda a análise de fatos e provas, providência inviável na via estreita do habeas corpus. Precedentes" (AgRg no HC 580.613/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2020, DJe 31/08/2020).
+3. Agravo regimental desprovido." (AgRg no HC 689.203/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/09/2021, DJe 04/10/2021.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. REMIÇÃO. ESTUDOS. LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44 DO CONSELHO NACIONAL DE JUSTIÇA. CONVÊNIO. PODER PÚBLICO. AUSÊNCIA. INSUFICIÊNCIA. DOCUMENTAÇÃO. DEMONSTRAÇÃO. REQUISITOS LEGAIS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - O art. 126, § 1º, da Lei de Execução Penal é categórico ao estabelecer que o condenado terá direito à remição de parte do tempo de execução da pena pelo estudo, na contagem de 01 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em três dias, dispondo, ainda, o art. 126, § 2.º, da Lei de Execução Penal sobre a necessidade de certificação pelas autoridades educacionais competentes dos cursos frequentados, por meio de documento idôneo, que cumpra os requisitos da Recomendação nº 44 de 26/11/2013, do Conselho Nacional de Justiça.
+III - Para fins de remição pelo estudo (Lei nº 12.433/2011), o Conselho Nacional de Justiça recomenda aos Tribunais que "sejam valoradas e consideradas as atividades de caráter complementar, assim entendidas aquelas que ampliam as possibilidades de educação nas prisões, tais como as de natureza cultural, esportiva, de capacitação profissional, de saúde, entre outras, conquanto integradas ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional local e sejam oferecidas por instituição devidamente autorizada ou conveniada com o poder público para esse fim".
+IV - In casu, além de inexistir convênio entre o Instituto Universal Brasileiro e o DEPEN/PR, os documentos juntados no presente writ não se prestam a demonstrar que o paciente teve acesso ao material didático de todos cursos, ou ainda a realização das avaliações respectivas, emergindo de tal constatação a realidade de que, de fato, não há como se conceber tenha o paciente atendido os requisitos necessários a concessão da remição.
+V - A reforma do referido juízo de fato, relativo à insuficiência da documentação apresentada pelo agravante para comprovar o cumprimento dos requisitos necessários à concessão do benefício, demanda a análise de fatos e provas, inviável na via estreita do mandamus.
+Agravo regimental desprovido." (AgRg no HC 454.395/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/10/2018, DJe 22/10/2018; sem grifos no original.)
+Ademais, como se vê, segundo as instâncias ordinárias, "o sentenciado já foi beneficiado com a participação no ENEM de 2019" (fl. 23). Assim, o pleito de nova remição levaria à concessão em duplicidade do benefício pelo mesmo fato, ou seja, a remição do período de estudo relativa à aprovação em matérias do ensino médio, sob pena de bis in idem, o que não é admitido pela jurisprudência desta Corte.
+A esse respeito, destaco o seguinte precedente , mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APENADO JÁ APROVADO NO EXAME NACIONAL DE ENSINO MÉDIO - ENEM. DUPLICIDADE DE BENEFÍCIO NÃO ACEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pacífica a jurisprudência desta Corte quanto à impossibilidade de conceder o benefício da remição da pena em duplicidade, por aprovações sucessivas no ENEM.
+2. Agravo regimental desprovido." (AgRg no HC n. 734.881/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/08/2022, DJe 15/08/2022.)
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. AUSÊNCIA DE COMPROVAÇÃO DA APROVAÇÃO NO ENEM, AINDA QUE PARCIAL. REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE NO ÂMBITO DO MANDAMUS. ADEMAIS, CONSTA REMIÇÃO ANTERIOR DOS PERÍODOS DE ESTUDO RELACIONADOS AO ENSINO MÉDIO. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
