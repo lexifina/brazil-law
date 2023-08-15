@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental, com recomendação, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por YGOR CASAROTTO contra decisão de minha lavra (e-STJ fls. 239/242), que negou provimento ao recurso em habeas corpus.
+Na presente oportunidade, o agravante insiste na tese de excesso de prazo da custódia cautelar, na medida em que se encontra segregado desde 11/3/2023, sem que haja perspectiva para o encerramento da instrução criminal, não havendo, ademais, gravidade concreta apta a justificar a prisão preventiva, notadamente diante das condições pessoais favoráveis ao acusado.
+Ressalta, ainda, que, a reforçar a desproporcionalidade da medida extrema no caso concreto, "este processo não apresenta qualquer complexidade, pois trata-se de um único crime, de apenas 1 réu, que é confesso, sem requerimento de diligências complementares nem expedição de cartas precatórias, sendo, portanto, descabido que o Agravante arque com o ônus pelas eventuais deficiências da máquina judiciária" (e-STJ fl. 256).
+Diante disso, pede a reconsideração da decisão anterior ou que o recurso seja levado a julgamento pelo Colegiado, para conceder a ordem postulada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. TRÂMITE REGULAR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. Ao que se tem dos autos, em que pese o acusado estar preso desde março de 2023, não é possível reconhecer a existência de retardo abusivo e injustificado na prestação jurisdicional, a justificar o relaxamento da prisão por excesso de prazo, sendo certo que a ação se desenvolve de forma regular e não há comprovação de desídia ou inércia do Magistrado singular quanto ao impulso do feito.
+3. Ademais, o Juízo processante, em 9/5/2023, antes mesmo de receber a denúncia, procedeu ao reexame da necessidade da custódia, tendo decidido pela manutenção da clausura de forma fundamentada, o que evidencia o atento cumprimento aos termos do disposto no art. 316, parágrafo único do CPP, reforçando, ainda, a atuação diligente do Magistrado na prestação jurisdicional.
+4. Por fim, relevante destacar que o cenário narrado nos autos revela a gravidade concreta da conduta praticada pelo agravante, em poder do qual foi encontrada significativa quantidade de droga (584g de maconha), além de indícios de que o acusado já praticava a mercancia de entorpecentes há algum tempo, e a existência de outra ação penal em curso por crime de porte ilegal de arma de fogo, circunstâncias essas que ensejam, portanto, a manutenção da prisão preventiva, como forma de acautelar o meio social, contendo, assim, eventual reiteração delitiva.
+5. Agravo regimental desprovido, com recomendação de que seja reavaliada a necessidade da manutenção da custódia, nos termos do art. 316, parágrafo único, do CPP.
+VOTO
+Em que pese o esforço argumentativo da defesa, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Consta dos autos que o recorrente, ora agravante, teve sua prisão preventiva decretada, em 11/3/2023, pela suposta prática do delito previsto no art. 33, caput, da Lei 11.343/2006.
+Conforme relatado na decisão agravada, busca-se, em síntese, a revogação da prisão preventiva do agravante, alegando-se, notadamente, o indevido excesso de prazo para a formação da culpa.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Mencione-se, por outro lado, que, com o fim de assegurar que a prisão não se estenda por período superior ao necessário, configurando verdadeiro cumprimento antecipado da pena, a alteração promovida pela Lei nº 13.964/19 ao art. 316 do Código Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal.
+Necessário, porém, considerar que, cumprido tal requisito, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+In casu, em relação à matéria, o Tribunal de origem assim ponderou (e-STJ fls. 188/189):
+(..)
+Os impetrantes sustentam que há flagrante excesso de prazo para o encerramento da instrução.
+Todavia, sem razão, dadas as peculiaridades do caso concreto.
+Conforme jurisprudência do e. Superior Tribunal de Justiça e deste Tribunal, é possível a dilação do prazo em razão das particularidades do caso concreto.
+ ..
+No caso: a denúncia foi oferecida em 27/03/2023; o paciente apresentou resposta à acusação em 10/04/2023; a denúncia foi recebida em 09/05/2023 e a audiência de instrução foi marcada para 06/10/2023.
+Em que pese a instrução ainda não tenha sido encerrada, o tempo decorrido até o momento é razoável e, como visto, não há paralisação indevida do processo a caracterizar constrangimento ilegal, eis que o feito tramita de forma regular.
+Ainda, anota-se que o processo de origem envolve crime de tráfico, cujos atos tem os seus prazos expressamente previstos na lei e estes, somados, ainda não estão expirados.
+Assim, não se reconhece a existência do alegado constrangimento ilegal.
+Por sua vez, o órgão ministerial se manifestou em seu parecer nos seguintes termos (e-STJ fl. 236):
+(..)
+No caso, o mandado de prisão preventiva foi cumprido em 22.03.22 e a denúncia oferecida em 27.03.2023, data em que também foi determinada a notificação do acusado para a apresentação de defesa prévia. A resposta à acusação foi apresentada em 10.04.2023, tendo sido recebida a peça acusatória em 09.05.2023 e marcada, para o dia 06.10.2023, a audiência de instrução.
+Esse quadro revela que, embora sem a celeridade desejável, a ação penal apresenta tramitação regular, sem nenhum atraso imputável ao funcionamento inadequado dos órgãos judiciários por ela responsáveis, ou qualquer ilegalidade passível de reconhecimento no presente recurso em habeas corpus.
+Assim, não obstante o tempo de prisão cautelar, não é possível se reconhecer a existência de retardo abusivo e injustificado na prestação jurisdicional, de forma a caracterizar excesso de prazo na formação da culpa.
+Vale lembrar que eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+No particular, à vista da tramitação processual acima noticiada, da qual se extrai uma natural sucessão dos atos processuais, em intervalos de tempo razoáveis e com o adequado impulso do feito, não se visualiza desídia ou negligência que possam ser atribuídos ao Judiciário, a justificar o relaxamento da prisão por excesso de prazo.
+Cabe enfatizar que o Juízo processante, em 9/5/2023 (e-STJ fls. 46/49), antes de receber a denúncia, procedeu ao reexame da necessidade da custódia, tendo decidido pela manutenção da clausura de forma fundamentada, o que evidencia o atento cumprimento aos termos do disposto no art. 316, parágrafo único do CPP, reforçando a atuação diligente do Magistrado na prestação jurisdicional.
+De todo modo, não se ignora, conforme relatado pela própria defesa, que já há audiência designada para o dia 6/10/2023, a corroborar a regularidade do trâmite processual.
+Por fim, ressalte-se que o cenário narrado nos autos revela a gravidade concreta da conduta praticada pelo agravante, em poder do qual foi encontrada significativa quantidade de droga (584g de maconha), além de indícios de que o acusado praticava a mercancia de entorpecentes, sendo relatado, ainda, que já há outra ação penal em curso por crime de porte ilegal de arma de fogo, circunstâncias essas que ensejam, portanto, a manutenção da prisão preventiva, como forma de acautelar o meio social, contendo, assim, eventual reiteração delitiva.
+Nesse contexto, não se pode desprezar que "o fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte". (AgRg no RHC n. 171.374/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+Assim, diante desse panorama, em que pese os argumentos da defesa no presente recurso, não se constata o alegado excesso de prazo, afigurando-se suficiente, por ora, recomendar ao Juízo de origem que seja observado o disposto no art. 316, parágrafo único do CPP, a fim de que se reexamine oportunamente a necessidade da custódia cautelar.
+Dessa forma, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Ante o exposto, permanecendo hígidos os fundamentos da decisão combatida, nego provimento ao agravo.
+É como voto.
