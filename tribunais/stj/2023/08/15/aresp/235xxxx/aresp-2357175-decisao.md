@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que indeferiu pedido de suspensão do feito e apensamento de autos de juízo diverso. No Tribunal a quo a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. APENSAMENTO COM AÇÃO ANULATÓRIA EM TRÂMITE EM OUTRO JUÍZO. IMPOSSIBILIDADE. ALTERAÇÃO DA COMPETÊNCIA PELA CONEXÃO. PRESSUPOSTOS NÃO DEMONSTRADOS. SUSPENSÃO DO FEITO EXECUTIVA. INEXISTÊNCIA DE CAUSA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Em que pesem as alegações da parte agravante, não caberia apensar autos de processos que tramitam em juízos distintos. Da mesma forma, a agravante não demonstra a competência do juízo da ação anulatória dos créditos para processar também a respectiva execução fiscal, pressuposto para a alteração da competência pela conexão.
+De resto, a tutela de urgência concedida na ação anulatória, conforme transcrição do dispositivo da decisão nas razões recursais, limita-se à expedição de certidão de regularidade fiscal, sem contemplar a suspensão da exigibilidade do crédito, o que não é obtido tão só pelo oferecimento de garantia.
+Enfim, não foi demonstrada a existência de causa para a suspensão do processo de execução de origem.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação do art. 919 do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
