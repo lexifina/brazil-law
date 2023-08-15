@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos arts. 489 e 1.022 do CPC/2015, falta de demonstração de ofensa aos demais artigos arrolados, incidência da Súmula n. 7/STJ e ausência de comprovação do dissídio jurisprudencial (e-STJ fls. 899/902).
+O acórdão recorrido está assim ementado (e-STJ fl. 842):
+COBRANÇA DE HONORÁRIOS DE ADVOGADO. Sentença de improcedência do pedido. Apelação do autor. Contrato verbal. A prova pericial concluiu que as partes firmaram contrato verbal com cl áusula de honorários ad exitum. Ação ajuizada pelo autor no interesse da empresa ré julgada improcedente e confirmada pelo Tribunal. Remuneração ad exitum indevida. Sentença mantida.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 853/856).
+Nas razões do recurso especial (e-STJ fls. 858/888), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 489, § 1º, 1.022, I, II e III, e 373, II, do CPC/2015, 187, 389, 658, 676 e 884 do CC/2002 e 22, caput e § 3º, da Lei n. 8.906/1994.
+Alegou que, "não hav endo prova material, porque o contrato de prestação de serviços é verbal, o que é inconteste, não se poderia por mera presunção porque se disse "que seria ao final acertado os honorários" do serviço tomado pela Recorrida, que se dessuma que há contrato "ad exitum", como reconhecido pelo perito por meras ilações e distorções gramaticais claras, do que se disse e se contradisse, pelo Recorrente" (e-STJ fl. 861). Afirmou que, apesar da oposição de embargos de declaração, o Tribunal de origem não teria apreciado a alegação de que, se era um contrato de resultado, sua rescisão, antes da finalização da lide, foi um ato claramente abusivo. Sustentou que a agravada não comprovou, como lhe competia, que o contrato seria de resultado. Defendeu que os serviços jurídicos não são gratuitos e qualquer exceção à regra deve ser comprovada documentalmente. Afirmou que o mandato foi revogado antes de findo o processo, de forma ilícita. A seu ver, o serviço foi prestado a contento, de forma que a ausência de remuneração gera enriquecimento ilícito da parte contrária. Aduziu que, de acordo com o Estatuto da OAB, não havendo contrato escrito ou acordo entre as partes, os honorários advocatícios são devidos por arbitramento.
+Contrarrazões às fls. 893/898 (e-STJ).
+No agravo (e-STJ fls. 905/929), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 932/936).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, a existência de revogação do mandato por parte da agravada.
+Referida questão é importante ao julgamento da lide, pois, "Nos termos da jurisprudência desta Corte, quando a revogação do mandato ocorre por iniciativa do constituinte (mandante), é facultado ao advogado mandatário propor ação de arbitramento judicial dos honorários advocatícios contratuais, ainda que avençados sob a cláusula ad exitum" (AgInt no AREsp n. 338.397/RS, de minha relatoria, QUARTA TURMA, julgado em 3/3/2020, DJe de 6/4/2020).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este Juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de determ inar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
