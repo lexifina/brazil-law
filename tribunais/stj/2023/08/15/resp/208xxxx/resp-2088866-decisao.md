@@ -1,0 +1,55 @@
+DECISÃO
+Na origem, Evandra Oliveira Cardoso ajuizou ação declaratória cumulada com indenizatória em desfavor de Câmara de Dirigentes Lojistas de Porto Alegre, ao argumento de ter sido inscrita perante a requerida sem que esta lhe enviasse a prévia notificação.
+O Magistrado de primeiro grau julgou improcedentes os pedidos.
+Interposta apelação pela autora, a Décima Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 145):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. DANO MORAL. NOTIFICAÇÃO PRÉVIA COMPROVADA.
+A comunicação ao consumidor sobre a inscrição de seu nome nos registros de proteção ao crédito é obrigação do órgão responsável pela manutenção do cadastro, isto é, do arquivista, e não do credor, que apenas informa a existência da dívida.
+Aplicação do §2º, art. 43, do CDC.
+O consumidor tem o direito de ser notificado a respeito da inclusão de seu nome em cadastro de inadimplentes. Na espécie, a parte demandada comprovou o envio da notificação ao consumidor, mostrando-se desnecessária a prova do recebimento.
+Notificação enviada por e-mail, ao concreto, que se reputa válida. Sentença mantida.
+Apelação não provida.
+Opostos embargos de declaração, foram rejeitados.
+Inconformada, Evandra Oliveira Cardoso interpõe recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de divergência jurisprudencial, ofensa ao art. 43, § 2º, do Código de Defesa do Consumidor.
+Defende o descumprimento do dever de notificação prévia para fins de inscrição do nome do consumidor em cadastros restritivos de crédito. Afirma que a notificação prévia deve ser enviada, obrigatoriamente, por carta AR, via correios, dispensando-se apenas a prova do recebimento, não sendo válida a comunicação feita por meio de mensagem de texto de celular.
+Contrarrazões apresentadas às fls. 208-213 (e-STJ).
+Brevemente relatado, decido.
+Depreende-se dos autos que as instâncias originárias entenderam que, não obstante exista exigência legal e jurisprudencial para a prévia comunicação do devedor durante o procedimento de inscrição em órgão de proteção ao crédito, não há forma estabelecida para a prática do ato, sendo, desse modo, válida a notificação encaminhada para o e-mail da devedora.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fls. 140-143):
+A jurisprudência pacificada da 2ª Seção do Superior Tribunal de Justiça, ao julgar recurso repetitivo, REsp Repetitivo n. 1.061.134/RS, Relatora Ministra NANCY ANDRIGHI em 10/12/2008, DJe 1º/4/2009 (art. 543-C, do CPC), é no sentido de que a comunicação ao consumidor sobre a inscrição de seu nome nos registros de proteção ao crédito é obrigação do órgão responsável pela manutenção do cadastro, isto é do arquivista, e não do credor, que apenas informa a existência da dívida. Aplicação do § 2º do art. 43 do CDC.
+O arquivista - seja associação ou câmara de dirigentes lojistas (CDL) - que utiliza banco de dados com inscrição de consumidor no cadastro de inadimplentes sem prévia notificação e divulga a existência de apontamentos em nome do devedor, ainda que tenha obtido a informação de terceiro órgão, responde solidariamente com a entidade responsável pela negativação, e é parte legítima passiva para responder à ação de cancelamento e/ou indenização, pelas falhas decorrentes desse cadastro, nos termos do artigo 7º, parágrafo único, do CDC (AG 985172, rel. Min. Luiz Felipe Salomão).
+A respeito, a Súmula 359 do Superior Tribunal de Justiça:
+"Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição."
+O objetivo fundamental do referido dispositivo legal é oportunizar ao consumidor o acesso às informações arquivadas em bancos de dados de restrição ao crédito, evitando registros indevidos, possibilitando a retificação de dados e, até mesmo, o pagamento da dívida, evitando, assim, situações vexatórias e constrangimentos decorrentes de eventuais equívocos.
+A respeito do tema:
+ ..
+Portanto, o descumprimento, seja pelo arquivista, seja pelo mantenedor do arquivo de consumo, autoriza ao consumidor a busca pelo cancelamento do apontamento lançado às avessas da lei.
+Todavia, no caso dos autos, a parte demandada comprovou o envio da notificação à parte autora (Evento 21 - NOT3), o que mostra o cumprimento da obrigação prevista no art. 43, § 2º, do Código de Defesa do Consumidor.
+Salienta-se, ainda, que independentemente do meio que se deu a notificação, reputa-se apenas necessária a comprovação do envio da comunicação, sendo despicienda a prova de que consumidor tenha efetivamente recebido a mensagem, conforme o contido na Súmula 404 do Superior Tribunal de Justiça, entendida em sentido amplo:
+"É dispensável o aviso de recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em bancos de dados e cadastros."
+No caso dos autos, a notificação acerca da inclusão do nome da parte autora nos cadastros da ré se deu por e-mail.
+No caso dos autos há prova, estreme de dúvidas, de que o e-mail pertence à parte autora, pois é o mesmo informado pelo suplicante na inicial (Evento 1 - INIC1). Além disso, em momento algum a parte autora nega ser titular do endereço eletrônico.
+Vale lembrar o entendimento majoritário deste grupo cível acerca das notificações enviadas por e-mail, em especial se não negada a titularidade do endereço eletrônico:
+ ..
+Além disso, há entendimento de que a lei não prevê forma específica, conforme se infere do seguinte julgado:
+ ..
+Por esses motivos, não restam dúvidas de que o preceito contido no artigo 43, § 2º, do Código de Defesa do Consumidor foi cumprido, o que afasta a ocorrência do dever de cancelar o registro e de indenizar por danos morais.
+A respeito do tema, a Terceira Turma do STJ, no julgamento do REsp n. 2.056.285/RS (julgado em 25/4/2023, DJe de 27/4/2023), relatora Ministra Nancy Andrighi, por unanimidade, reconheceu que a validade da notificação prévia do consumidor, prevista no § 2º do art. 43 do CDC, atinente à inscrição do seu nome em cadastro de inadimplentes, exige o envio de carta ao endereço do devedor, sendo vedada a notificação exclusivamente realizada por intermédio de e-mail ou mensagem de texto de celular (SMS).
+Conforme enfatizado no referido precedente específico, à luz da interpretação teleológica e restritiva do § 2º do art. 43 do CDC, "não há como se admitir que a notificação do consumidor seja realizada, tão somente, por simples e-mail ou mensagem de texto de celular, por se tratar de exegese ampliativa que, na espécie, não deve ser admitida".
+Confira-se a ementa do precedente transcrito:
+RECURSO ESPECIAL. CONSUMIDOR. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E-MAIL OU MENSAGEM DE TEXTO DE CELULAR. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR.
+1. Ação de cancelamento de registro e indenizatória ajuizada em 21/1/2022, da qual foi extraído o presente recurso especial, interposto em 14/12/2022 e concluso ao gabinete em 15/3/2023.
+2. O propósito recursal consiste em dizer se a notificação prévia à inscrição do consumidor em cadastro de inadimplentes, prevista no §2º, do art. 43, do CDC, pode ser realizada, exclusivamente, por e-mail ou por mensagem de texto de celular (SMS).
+3. O Direito do Consumidor, como ramo especial do Direito, possui autonomia e lógica de funcionamento próprias, notadamente por regular relações jurídicas especiais compostas por um sujeito em situação de vulnerabilidade. Toda legislação dedicada à tutela do consumidor tem a mesma finalidade: reequilibrar a relação entre consumidores e fornecedores, reforçando a posição da parte vulnerável e, quando necessário, impondo restrições a certas práticas comerciais.
+4. É dever do órgão mantenedor do cadastro notificar o consumidor previamente à inscrição - e não apenas de que a inscrição foi realizada -, conferindo prazo para que este tenha a chance (I) de pagar a dívida, impedindo a negativação ou (II) de adotar medidas extrajudiciais ou judiciais para se opor à negativação quando ilegal.
+5. Na sociedade brasileira contemporânea, fruto de um desenvolvimento permeado, historicamente, por profundas desigualdades econômicas e sociais, não se pode ignorar que o consumidor, parte vulnerável da relação, em muitas hipóteses, não possui endereço eletrônico (e-mail) ou, quando o possui, não tem acesso facilitado a computadores, celulares ou outros dispositivos que permitam acessá-lo constantemente e sem maiores dificuldades, ressaltando-se a sua vulnerabilidade técnica, informacional e socioeconômica.
+6. A partir de uma interpretação teleológica do §2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail ou mensagem de texto de celular (SMS).
+7. Na hipótese dos autos, merece reforma o acórdão recorrido, com o cancelamento das inscrições mencionadas na inicial, pois, à luz das disposições do CDC, não se admite a notificação do consumidor, exclusivamente, através de e-mail ou mensagem de texto de celular.
+8. No que diz respeito à eventual compensação por danos morais, não é possível o seu arbitramento neste momento processual, pois não se extrai dos fatos delineados pelo acórdão recorrido a existência ou não, em nome da parte autora, de inscrições preexistentes e válidas além daquelas que compõem o objeto da presente demanda, o que afastaria a caracterização do dano extrapatrimonial alegado.
+9. Recurso especial conhecido e provido para determinar o cancelamento das inscrições mencionadas na exordial por ausência da notificação exigida pelo art. 43, § 2º, do CDC, e o retorno dos autos à origem para que examine a caracterização ou não dos danos morais, a partir das peculiaridades da hipótese concreta.
+(REsp n. 2.056.285/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+Destarte, constata-se a necessidade de apreciação pelo Tribunal de origem da matéria sob o enfoque das orientações desta Corte.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda com novo julgamento da apelação, à luz da orientação jurisprudencial firmada por ocasião do julgamento do REsp n. 2.056.285/RS, de relatoria da Ministra Nancy Andrighi.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. NOTIFICAÇÃO PRÉVIA VIA E-MAIL. INADEQUAÇÃO DA FORMA. PRECEDENTES. IMPRESCINDIBILIDADE DE RETORNO DOS AUTOS PARA NOVO JULGAMENTO. RECURSO ESPECIAL PROVIDO.
