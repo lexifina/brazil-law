@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 328):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA DE DISSOLUÇÃO PARCIAL DE SOCIEDADE EMPRESÁRIA. DETERMINAÇÃO DE QUE OS ATOS CONSTRITIVOS SE REALIZASSEM EM NOME DA SOCIEDADE EMPRESÁRIA E DOS DEMAIS SÓCIOS QUE A COMPÕEM. JUÍZO DE RETRATAÇÃO. PERDA PARCIAL DO OBJETO. PEDIDO DE SOBRESTAMENTO DO PROCESSO. PROVIMENTO DE RECURSO ESPECIAL PARA INVALIDAR ACÓRDÃO QUE APRECIOU EMBARGOS DECLARATÓRIOS EM SEGUNDO GRAU. NÃO SUBSUNÇÃO ÀS HIPÓTESES DESCRITAS NO ART. 520, INCISOS I E II, DO CPC.
+1. Resta prejudicado em parte o agravo de instrumento, pela perda do objeto, se, no processo de origem, houve juízo de retratação parcial, excluindo-se da decisão agravada a determinação de que os atos constritivos se realizassem nas pessoas dos sócios remanescentes da sociedade empresária dissolvida parcialmente.
+2. Não se subsumindo a cassação de acórdão proferido em julgamento de embargos de declaração interpostos contra a decisão colegiada de apelação às situações descritas nos incisos II e III do art. 520, do CPC, e se, no momento da instauração do cumprimento do julgado, estavam presentes os requisitos legais, há o processo que prosseguir, eis que inexistente determinação de seu sobrestamento pela instância extraordinária.
+3. Agravo de instrumento conhecido em parte e não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 353/359).
+Em suas razões (e-STJ fls. 361/379), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV e VI, e 1.022 do CPC/2015, tendo em vista que, "apesar de ter usado o artigo 520 do NCPC para desprover o agravo, a eg turma SE RECUSOU EMITIR TESE SOBRE A NECESSIDADE DE CAUÇÃO PREVISTA NO ARTIGO 520 IV DO NCPC aduzindo que os declaratórios não estavam fundados nas hipóteses do artigo 1022. Foi omitida a apreciação sobre a aplicação do artigo 520 IV DO NCPC, PERSISTINDO O BSCUR IDADE SO BRE A CAUÇÃO" (e-STJ fl. 368),
+(ii) art. 520, IV, do CPC/2015, pois "não se sustenta a tese do acórdão recorrido, de manter o pagamento definitivo da sentença executada provisoriamente e manter os atos constritivos e a remoção determinados, já que tudo isso depende de CAUÇAO SUFICIENTE E INONEA A SER PRESTADA PELOS EXEQUENTES (PREVISTA NO ART 520 IV DO NCPC O QUAL FOI VIOLADO EM SUA LITERALIDADE). E nem se alegue que não há grave dano ao executado, já que antes do transito em julgado da decisão de conhecimento a execução provisória MANDA PAGAR MAIS DE 4 MILHOES DE REAIS SOB PENA DE PENHORA E REMOÇÃO DE BENS. De mais a mais, não é suficiente que o acórdão tenha dito que a execução provisória corre por conta e risco do exequente, já que a lei também diz isso (art 520 I do NCPC) e ADICIONALMENTE EXIGE CAUÇAO (ART 520 IV)" (e-STJ fl. 372), e
+(iii) art. 1.026, § 2º, do CPC/2015, devendo ser afastada a multa, pois os embargos de declaração opostos na origem não possuíam intuito protelatório.
+Contrarrazões apresentadas às fls. 401/419 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Na origem, o TJDFT manteve a decisão agravada, segundo a qual "a douta Magistrada processante determinou que o cumprimento provisório do julgado devia prosseguir com a realização de atos constritivos, por ora apenas em relação ao patrimônio da sociedade executada Mainline Móveis S/A" (e-STJ fl. 330).
+Ao julgar os embargos de declaração, o Tribunal de origem afirmou ser desnecessário tratar da caução do art. 520, IV, do CPC/2015, pois, "embora determinada a prática de atos constritivos, ainda não se deferiu o levantamento de eventuais valores bloqueados aos credores" (e-STJ fl. 357 - grifei).
+Segundo dispõe o art. 520, IV, do CPC/2015 (grifei):
+Art. 520. O cumprimento provisório da sentença impugnada por recurso desprovido de efeito suspensivo será realizado da mesma forma que o cumprimento definitivo, sujeitando-se ao seguinte regime:
+IV - o levantamento de depósito em dinheiro e a prática de atos que importem transferência de posse ou alienação de propriedade ou de outro direito real, ou dos quais possa resultar grave dano ao executado, dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos.
+Assim, o Tribunal de origem apenas se manifestou sobre parte do art. 520, IV, do CPC/2015 - levantamento de depósito -, contudo foi omisso em relação ao cabimento da caução na hipótese de prática de atos que importem transferência de posse ou alienação de propriedade ou de outro direito real.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame do vício apontado , nos termos da fundamentação, sendo, consequentemente, afastada a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
