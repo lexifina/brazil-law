@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial da Companhia de Saneamento do Tocantins-SANEATINS contra acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 282):
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. SANEATINS. ENQUADRAMENTO DE IMÓVEL EM UNIDADE ECONÔMICA EQUIVOCADA. RESPONSABILIDADE DO PRESTADOR DE SERVIÇO MANTER ATUALIZADO O CADASTRO RELATIVO ÀS ECONOMIAS. ART. 71. RESOLUÇÃOATR Nº 007/2017. DANOS MORAIS DEVIDO. REPETIÇÃO DEINDÉBITO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+O recurso teve seu processamento admitido (fls. 380-384).
+Por intermédio da certidão de fl. 389, determinou-se o recolhimento em dobro das custas recursais no prazo de 5 dias, ao seguinte fundamento: há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento.
+A decisão foi publicada em 06/07/2023 (fl. 391), findando o prazo em 13/07/2023.
+No entanto, a petição que noticia o pagamento só foi protocolada em 17/07/2023, isto é, após o lapso temporal assinado.
+O recurso não pode ser conhecido, por deserção, consoante julgados do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. MULTAS E SANÇÕES. PREPARO. AUSÊNCIA DE RECOLHIMENTO NO PRAZO CONCEDIDO, DESERÇÃO. PRECEDENTES.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para não se conhecer do Recurso Especial.
+2. Na origem, trata-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de que não houve a comprovação do recolhimento do preparo no ato da interposição do recurso.
+3. É deserto o Recurso Especial quando o recorrente não comprova, por documento hábil, a realização do preparo no prazo concedido para saneamento do vício identificado, consoante o disposto no art. 1.007, § 7º, do CPC/2015, não cabendo nova oportunidade para sua regularização, por se ter operado a preclusão consumativa. Precedentes: AgInt no AREsp 1.1473.48/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe 17.5.2018; AgInt nos EDcl no REsp 1.627.333/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 27.8.2018; AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães (Desembargador Federal convocado do TRF/5ª Região), Quarta Turma, DJe de 21.11.2017; AgInt no AREsp 1.143.168/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 16.3.2018;
+AgInt no AREsp 1.121.532/CE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 13.12.2017 4. Agravo Interno não provido (AgInt no AREsp n. 2.221.152/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. PREPARO IRREGULAR. INTIMAÇÃO PARA SANEAMENTO DO VÍCIO. NÃO REGULARIZAÇÃO NO PRAZO CONCEDIDO. DESERÇÃO. SÚMULA N. 187 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante entendimento desta Corte Superior de Justiça, "a irregularidade no preenchimento das guias do preparo no ato da interposição do recurso caracteriza a sua deserção, sendo inviável nova intimação para sanar o vício. Incidência da Súmula n. 187 do Superior Tribunal de Justiça. Precedentes." (AgInt no AREsp n. 1.941.752/PB, Rel. Ministra Isabel Gallotti, 4ª T., DJe 19/5/2022).
+2. Uma vez que as partes já foram devidamente intimadas para sanar a irregularidade havida no recolhimento do preparo - mas, ainda assim, não o regularizaram de forma correta -, não cabe nova oportunidade para regularização. Precedentes.
+3. Agravo interno não provido (AgInt nos EDcl no RMS n. 58.797/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023)
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CERTIDÃO PARA SANEAMENTO DE ÓBICES. PROTOCOLO DE PETIÇÃO APÓS FINDO O PRAZO CONCEDIDO PARA A REGULARIZAÇÃO DO PREPARO. RECURSO ESPECIAL NÃO CONHECIDO.
