@@ -1,0 +1,12 @@
+DECISÃO
+Na origem trata-se de ação previdenciária referente a revisão e correção de aposentadoria. Na sentença julgou-se o pedido improcedente. No Tribunal a quo declinou-se da competência para a Justiça Federal.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. REVISÃO DE BENEFÍCIO DE APOSENTADORIA POR ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTS. 100. II, E § 4º, DO ART. 109, DA CONSTITUIÇÃO FEDERAL, DECLINAÇAO DE COMPETÊNCIA.
+EX VI DOS ARTS. 108, II, E § 4º E ART. 109, AMBOS DA CONSTITUIÇÃO FEDERAL E ENTENDIMENTO SEDIMENTADO NO STJ, ENQUANTO A PRETENSÃO DE RECONHECIMENTO DE ACIDENTE DE TRABALHO DEVA SER PROCESSADA E JULGADA PELA JUSTIÇA COMUM DO ESTADO, AQUELA RELACIONADA COM O REAJUSTE DA REFERIDA PENSÃO CONTÉM-SE NA COMPETÊNCIA DA JUSTIÇA FEDERAL COMUM.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Compulsando detidamente os autos, verifica-se que as razões recursais apresentadas pela recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, a recorrente insurge-se "no que tange à revisão, pelo IRSM  negando  vigência ao (prazo decadencial) (..), POIS O MÊS DE FEVEREIRO DE 1994 NÃO INTEGROU O CÁLCULO DA RENDA MENSAL INICIAL", enquanto, o acórdão recorrido " declinou  da competência para o Tribunal Regional Federal da 1ª Região, órgão competente para processar e julgar o presente recurso". Dessa forma, tal fundamen to do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
