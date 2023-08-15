@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Gabriel Custodio dos Santos - condenado como incurso no crime de tráfico de drogas, negado-lhe o direito de recorrer em liberdade -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2175215-53.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente na sentença em que o Juízo de Direito da 2ª Vara Criminal da comarca de Presidente Prudente/SP o condenou como incurso no crime de tráfico de drogas (Ação Penal n. 1501006-33.2021.8.26.0583), ao argumento de que o Magistrado singular ao decretar a prisão cautelar do Paciente na sentença, o Juízo de primeiro grau não aponta fatos novos aptos a demonstrar a imprescindibilidade da medida e o abalo a ordem pública, de modo que em liberdade voltará a reiterar na prática delitiva. Conclui-se assim - ausente devida fundamentação quanto a necessidade do cárcere - configurando a mera antecipação da resposta punitiva à conduta (fl. 5).
+Da análise da sentença condenatória (fl. 76) não se verifica o alegado constrangimento, pois a imposição da medida extrema se encontra fundamentada na probabilidade concreta de reiteração delitiva do acusado, em face, não só da própria condenação pelo crime de tráfico, mas pela existência de maus antecedentes em crimes graves (como roubo), a denotar a necessidade da custódia para a garantia da ordem pública.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PROBABILIDADE CONCRETA DE REITERAÇÃO DELITIVA. MAUS ANTECEDENTES (ROUBO). CRIME GRAVE COMETIDO COM GRAVE AMEAÇA À PESSOA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
