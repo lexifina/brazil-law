@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por BANICRED FOMENTO MERCANTIL LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 1.163-1.164) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 881):
+EMBARGOS DE TERCEIRO Fraude à execução Doação de cotas de sociedade limitada após o ajuizamento da execução Ausência de citação válida do executado/doador ao tempo da aquisição dos bens Circunstância, contudo, que não afasta o reconhecimento da fraude à execução Demonstração de inequívoco conhecimento de demanda capaz de levar o devedor à insolvência Doação não onerosa realizada entre pai e filha quando já em trâmite a execução Evidenciada a má-fé da transação, realizada com o único intento de frustrar o adimplemento da dívida Sucumbência recíproca Cabimento Embargos parcialmente acolhidos para declarar a regularida de quanto à conferência de quota parte de bem imóvel em nome empresa Expressa resistência da embargada em relação a esta pretensão Súmula 303 do C. STJ Procedência parcial dos embargos que representou benefício econômico às embargantes Sentença mantida Recursos improvidos.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 1.107):
+EMBARGOS DE DECLARAÇÃO  Embargos declaratórios opostos por ambas as partes com o nítido propósito de rediscussão da matéria  Descabimento  Inocorrência de qualquer omissão ou contradição  Suficiência do enfrentamento da questão de direito debatida  Precedentes  art. 1025 do CPC  Ambos os embargos rejeitados.
+Nas razões do recurso especial, a recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 85, § 2º, e 86 do CPC/2015.
+Defendeu que não pode ser responsalizada pelo pagamento dos honorários, uma vez que sucumbiu em parte mínima.
+Afirmou que a lide versou sobre a existência de fraude à execução diante da transferência de cotas sociais do devedor a sua filha.
+Sustentou que a verba honorária deve ser calculada com base no proveito econômico obtido com o julgamento da demanda.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 1.163-1.164).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 1.171-1.191).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a agravante impugnou a distribuição do ônus sucumbencial, afirmando que deve ser afastada sua responsabilidade, uma vez que sucumbiu em parte mínima nos pedidos.
+A respeito do tema, a jurisprudência do Superior Tribunal de Justiça entende que "é inviável a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, a teor do disposto na Súmula 7 do STJ" (AgInt no AREsp 1.907.253/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/02/2022, DJe 09/03/2022).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. MULTA CONTRATUAL. COBRANÇA. RECONVENÇÃO. DECADÊNCIA. AÇÃO PRINCIPAL. MULTA PENAL MORATÓRIA. CONTRATO. DESCUMPRIMENTO. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. FICTO. AUSÊNCIA. ART. 1.025 DO CPC/2015. REEXAME DE PROVAS. FUNDAMENTO. NÃO IMPUGNAÇÃO. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+4. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+5. De acordo com a jurisprudência deste Tribunal Superior, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+6. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelos recorrentes.
+7. Na hipótese, o acolhimento da pretensão recursal exigiria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7/STJ.
+8. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Além disso, a tese de dissídio jurisprudencial, diante das normas legais regentes da matéria (arts.
+1.029 do CPC/2015 e 255 do RISTJ), exige confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+9. A alteração da distribuição da sucumbência fixada pelas instâncias ordinárias demanda o necessário revolvimento do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ.
+10. Agravo interno não provido.
+(AgInt no AREsp n. 1.993.729/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022.)
+Quanto ao critério de cálculo da verba honorária, do exame dos fundamentos do aresto recorrido, constata-se que a tese envolvendo a preponderância do proveito econômico sobre o valor da causa não foi objeto de debate pelo Tribunal estadual.
+Desse modo, ausente o devido prequestionamento do tema, aplica-se o disposto na Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de BANICRED FOMENTO MERCANTIL LTDA.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados das recorridas em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAL. REVISÃO. SÚMULA 7/STJ. ALTERAÇÃO DO CRITÉRIO DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. PREPONDERÂNCIA DO PROVEITO ECONÔMICO. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE BANICRED FOMENTO MERCANTIL LTDA.
