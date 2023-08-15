@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CENTERBOX SUPERMERCADOS LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+"Tributário e Processual Civil. Execução fiscal. Ação anulatória. Rejeição. Validade dos requisitos do título executivo que embasa a ação executiva fiscal. Legalidade das penalidades impostas ao executado pelo INMETRO. Manutenção da sentença. Majoração dos honorários recursais. Desprovimento à apelação.
+1. Cuida-se de apelação do particular ante sentença que julgou improcedente o pedido da autora na ação ordinária, mantendo hígido o auto de infração, com a condenação da autora em honorários advocatícios em 10% (dez por cento) do valor atualizado da causa, nos termos do art. 20, § 4º, inc. III, do Código de Processo Civil.
+2. A apelante requer, em síntese, a reforma da sentença para extinguir o feito executivo fiscal, haja vista a nulidade do ato administrativo em comento, em face da ausência de qualquer fundamentação ou motivação, confrontando os princípios legais e constitucionais estabelecidos para todos os atos administrativos.
+3. Sustenta, ainda, que seja determinado a nulidade e arquivamento do processo administrativo nº 52631.002711/2019-12, com a determinando a devolução integral e atualizada do valor da multa paga anteriormente.
+4. No caso em análise, a apelante busca a extinção da demanda executiva, haja vista a ilegalidade do processo administrativo diante da ausência de fundamentação acerca do montante da multa cominada.
+5. Os dispositivos legais dos arts. 1º e 5º, da Lei nº 9.933/1999, definem a tipificação da conduta à observação de Regulamentos Técnicos expendidos pelo Conmetro e pelo Inmetro.
+6. Ressalte-se, ainda, que os procedimentos de fiscalização da Autarquia estão amparados no efetivo exercício do poder de polícia administrativa nas áreas de metrologia legal e da avaliação da conformidade pelo Inmetro.
+7. Ao exame dos autos, verifica-se que a certidão de dívida ativa que alicerça a ação executiva fiscal preenche todos os requisitos de validade, nos termos do art. 3º da Lei nº 6.830/1980 e do art. 204 do Código Tributário Nacional, bem como não há nos autos prova inequívoca que fulmine o citado título judicial.
+8. No tocante ao auto de infração, lavrado com amparo na Lei nº 9.933/1999, com as alterações promovidas pela Lei nº 12.545/2011 e na Portaria da INMETRO nº 248/2008,constata-se que a cominação das penalidades foi realizada com a devida observância dos citados dispositivos legais.
+9. Registre-se, ainda, que o poder administrativo de polícia é o meio que dispõe a Administração Pública para regular e restringir o uso e gozo de bens, atividades e direitos individuais, em benefício da coletividade e do próprio Estado, constituindo-se como mecanismo de frenagem da Administração para conter abusos de direito individual.
+10. Improvimento à apelação" (fl. 197e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 214/221e), os quais restaram rejeitados (fl. 230e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 2º e 50, §1º, da Lei 9.784/99, e ao art. 9º, §1º, da Lei 9.933/99, sustentando a nulidade do auto de infração, porque "é dever da Administração Pública descrever de forma explícita, clara e congruente as suas motivações, demonstrando como cada critério de gradação influiu no valor arbitrado a título de penalidade".
+Contrarrazões a fls. 270/273e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 275e).
+A irresignação não merece conhecimento.
+O Tribunal Regional Federal afirmou a legalidade da multa aplicada, à luz dos seguintes fundamentos:
+"No tocante ao auto de infração, lavrado com amparo na Lei nº 9.933/1999, com as alterações promovidas pela Lei nº 12.545/2011 e na Portaria da INMETRO nº 248/2008, constata-se que a cominação das penalidades foi realizada com a devida observância dos citados dispositivos legais.
+Registre-se, ainda, que o poder administrativo de polícia é o meio que dispõe a Administração Pública para regular e restringir o uso e gozo de bens, atividades e direitos individuais, em benefício da coletividade e do próprio Estado, constituindo-se como mecanismo de frenagem da Administração para conter abusos de direito individual" (fl. 196e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
