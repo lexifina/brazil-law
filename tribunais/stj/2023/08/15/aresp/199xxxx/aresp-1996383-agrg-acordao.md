@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ MAGNO LEITE DE ALMEIDA e por LUIZ MAGNO LEITE DE ALMEIDA FILHO contra a decisão monocrática de minha lavra, às fls. 519/521, que não conheceu do agravo em recurso especial ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão na origem.
+Nas razões do agravo regimental, a defesa sustentou a admissibilidade do agravo, sob o argumento de que todos os fundamentos da decisão atacada foram impugnados. Argumentou que houve a demonstração de que as rationes decidendis firmadas nos acórdãos apenas confirmam que o Tribunal a quo, no caso sob análise, incorreu em contrariedade aos arts. 70 e 83 do Código de Processo Penal, que os três precedentes atestam que a mera autorização de medidas cautelares no curso das investigações não é suficiente para definir a competência (fl. 527).
+Não abri vista ao Ministério Público Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. FALTA DE DEMONSTRAÇÃO QUE O ACÓRDÃO DO TRIBUNAL ESTADUAL ESTÁ EM DESARMONIA COM A JURISPRUDÊNCIA CONSOLIDADA NESTA CORTE.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+Para os agravantes, em que pese alguns crimes de fato tenham ocorrido em diversos municípios do Estado da Paraíba, absolutamente nenhum se consumou na cidade de João Pessoa, motivo pelo qual defende que o Juízo da 6ª Vara Criminal daquela comarca é manifestamente incompetente para decidir sobre o feito em comento - não havendo falar, portanto, em concorrência com os demais juízos.
+Já o Tribunal estadual diz que se trata de feito relacionado à atuação de organização criminosa, à sonegação fiscal e à lavagem de dinheiro praticados em várias cidades do Estado da Paraíba (Campina Grande, João Pessoa, Patos, Pombal, Assunção, Conceição, São Sebastião de Lagoa de Roça e Monteiro), cujas decisões de conteúdo decisório, referentes a interceptações telefônicas, mandados de busca e apreensão e prisões preventiva, além do recebimento da denúncia, foram proferidas pelo Juízo da capital. Dessa forma - conforme o acórdão hostilizado -, concorrendo dois ou mais juízes igualmente competentes, caso um deles tenha antecedido aos outros na prática de algum ato processual ou de medida relativa a este, há de ser reconhecida a prevenção deste para processar e julgar o feito, no caso o juízo suscitado, no caso, o da 6ª Vara Criminal da comarca de João Pessoa (fl. 351).
+O recurso especial dos agravantes foi inadmitido por aplicável a Súmula 83/STJ e, no AREsp, a impugnação foi deficiente, daí por que aplicada a Súmula 182/STJ. Neste regimental, eles insistem na tese original, contudo, na espécie, não ficou demonstrado que o acórdão do Tribunal estadual está em desarmonia com a jurisprudência consolidada nesta Corte.
+Com efeito, diz a nossa jurisprudência que a prevenção constitui critério de fixação da competência, quer na hipótese em que for possível a dois ou mais Juízes conhecerem do mesmo caso, seja por dividirem a mesma competência, seja pela incerteza da competência territorial, quer na hipótese de se tratar de crime continuado ou permanente. Por conseguinte, estando caracterizado o delito permanente e plurilocal, cuja execução se prolonga no tempo, justifica-se a competência por prevenção em relação ao primeiro Juiz instado a prestar jurisdição - isto é, aquele que, ainda na fase de investigação, autorizou a realização de interceptações telefônicas e de outras medidas cautelares -, e, ainda, recebeu a denúncia nos autos da ação penal correlata. Dúvidas não há, segundo os precedentes desta Corte, de que este é o competente para processar e julgar o feito.
+Sobre o tema, entre outros, RHC n. 67.558/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/10/2016; HC n. 170.212/RJ, Ministro Og Fernandes, Sexta Turma, DJe 29/6/2012; RHC 103.684/RS, Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/5/2019; RHC n. 83.938/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2017.
+Cumpre lembrar, ainda, que é inviável considerar os argumentos veiculados em recurso subsequente, ante a incidência do princípio da preclusão consumativa.
+Sobre o tema, destaco:
+ ..
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo regimental), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+ ..
+(EDcl no AREsp n. 474.744/BA, Ministro Sérgio Kukina, Primeira Turma, DJe 19/5/2014)
+Ant e o exposto, nego provimento ao agravo regimental.
