@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por KLABIN S.A, com fundamento no art. 1043 do CPC/2015, apresentando como acórdão embargado o abaixo ementado (fls. 1128-1144):
+TRIBUTÁRIO. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO CONSTITUCIONAL. REFORMA EM RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. O Tribunal de origem, ao decidir pela impossibilidade de creditamento de ICMS na aquisição de produtos intermediários, amparou-se no entendimento do Supremo Tribunal Federal a respeito do tema. Nesse contexto, inviável a reforma do aresto recorrido por meio do recurso especial, em atenção aos arts. 102, III, e 105, III, da CF. Precedentes.
+2. Agravo interno não provido.
+No presente recurso, o embargante afirma que a questão entelada, "apesar da origem constitucional do princípio da não cumulatividade, o STF não vem conhecendo de recursos extraordinários a versarem sobre a questão discutida nos autos, considerando-a reflexa a suposta ofensa à CF/88".
+Aponta como paradigma o acórdão proferido no REsp 1175166/MG, cuja ementa transcreve-se:
+TRIBUTÁRIO. ICMS. CONTRIBUINTE PRESTADORA DE SERVIÇOS DE TRANSPORTE. PEÇAS DE VEÍCULOS UTILIZADOS NA ATIVIDADE. INSUMOS. CREDITAMENTO. ART. 20 DA LC 87/1996.
+1. Hipótese em que a contribuinte pretende creditar-se do ICMS incidente sobre aquisição de mercadorias que classifica como insumos essenciais para a prestação do serviço, quais sejam peças para os veículos utilizados no transporte interestadual e intermunicipal. O Tribunal a quo reconheceu a possibilidade de creditamento apenas em relação a combustível, lubrificante, pneus, câmaras de ar e material de limpeza, por estarem previstos expressamente no art. 66, IV, do Regulamento do ICMS mineiro.
+2. Antes da atual LC 87/1996, vigia o Convênio Interestadual ICMS 66/1988, que regulava nacionalmente o ICMS, com força de lei complementar federal. O art. 31, III, previa o creditamento relativo aos insumos desde que: a) fossem consumidos no processo industrial e b) integrassem o produto final na condição de elemento indispensável a sua composição.
+3. Com base nessa legislação, o STJ firmou entendimento de que somente os insumos que atendessem a essas duas condições (consumidos no processo e integrantes do produto final) permitiriam o creditamento.
+4. Ocorre que a LC 87/1996 ampliou a possibilidade de creditamento, pois fez referência apenas à vinculação dos insumos à atividade do estabelecimento, mas não à necessidade de que eles integrem o produto final (art. 20, § 1º).
+5. In casu, o Tribunal de origem consignou que a perícia realizada em primeira instância aferiu que "determinados bens sofrem desgaste total no processo ínsito ao objeto social da empresa contribuinte". Porém, é impossível afirmar ser isso incontroverso, como alega a contribuinte, já que o Tribunal de Justiça entendeu irrelevante para o deslinde da demanda, pois "tal fato por si só não altera a classificação legal dos bens e a limitação ao aproveitamento dos créditos pretendidos".
+6. Os autos devem retornar à origem para que o TJ-MG analise as provas e verifique se os insumos suscitados pela contribuinte são, efetivamente, aplicados e consumidos na atividade-fim da empresa. Em caso positivo, deverá reconhecer o direito ao creditamento, nos termos do art. 20 da LC 87/1996, ainda que esses bens não integrem o produto final (prestação do serviço de transporte).
+7. Quanto ao pedido de correção monetária dos créditos, não há interesse recursal, pois o Tribunal a quo já reconheceu o pleito da empresa.
+8. Recurso Especial parcialmente provido.
+Requer o provimento dos embargos para prevalecer o entendimento no sentido da possibilidade de creditamento do tributo.
+Parecer do MPF pelo não conhecimento dos embargos.
+É o relatório. Decido.
+O art. 1.043, III, do CPC/2015 prevê o conhecimento de embargos de divergência quando o recurso especial "divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Assim, embora o novo CPC tenha viabilizado o cabimento de embargos de divergência entre acórdãos com julgamento de mérito e acórdãos que não conheceram do recurso, foi condicionado que esses acórdãos que não conheceram do recurso tenham apreciado a controvérsia.
+Após tais considerações, verifico que a despeito de na decisão embargada ter sido examinada questão de mérito, o questionamento do recorrente iniciou com a interposição de agravo interno, este examinado apenas no eito da cognoscibilidade, restando evidente que as questões apresentadas são unicamente referentes ao conhecimento do recurso, o que inviabiliza o exame pretendido.
+Ante o ex posto, com fundamento no art. 34, XVIII, a, do RI/STJ, não conheço dos embargos de divergência.
+Publique-se. Intimem-se.
