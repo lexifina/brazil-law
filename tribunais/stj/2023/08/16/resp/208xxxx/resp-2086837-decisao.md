@@ -1,0 +1,37 @@
+DECISÃO
+A controvérsia se encontra bem delineada no parecer ministerial, in verbis (e-STJ fls. 699/701) :
+Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que condenou o recorrente à pena de 06 anos 06 meses e 20 dias de reclusão, em regime inicial fechado, pela prática dos crimes tipificados nos arts. 33, da Lei nº 11.343/06, e 180, do Código Penal.
+O julgado principal e o dos embargos contra ele interpostos encontram-se assim ementados (e-STJ fl. 610 e 656):
+ISENÇÃO DE CUSTAS - IMPOSSIBILIDADE - SUSPENSÃO DA EXIGIBILIDADE - JUÍZO DA EXECUÇÃO. Em observância à declaração de inconstitucionalidade formal do art. 10, inciso II, da Lei Estadual nº 14.939/2003 pelo Órgão Especial deste Tribunal, não é possível a isenção das custas processuais. Eventual suspensão da exigibilidade do pagamento das custas processuais deve ser examinada pelo Juízo da Execução Penal. (DES. EDSION FEITAL LEITE - REVISOR) V.V. APELAÇÃO CRIMINAL - CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/06) E CRIME DE RECEPTAÇÃO (ART. 180, CAPUT, DO CPB) - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA - ABSOLVIÇÃO DO DELITO DE RECEPTAÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - DOLO EVIDENCIADO - CONSUNÇÃO ENTRE O DELITO DE TRÁFICO E O DE RECEPTAÇÃO - INAPLICABILIDADE - PENA BASE - REDIMENSIONAMENTO - NECESSIDADE - CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA - MATÉRIA ATINENTE AO JUÍZO DA EXECUÇÃO - SENTENÇA REFORMADA PARCIALMENTE.
+-Inviável cogitar-se da absolvição, pois não há dúvidas quanto à presença de dolo na conduta do recorrente, caracterizando o delito previsto no art. 180, caput, do CP.
+-Não se aplica o princípio da consunção do delito de receptação pelo crime de tráfico de drogas, diante dos desígnios autônomos na conduta, eis que o delito patrimonial não constitui simples fase de realização da mercancia ilícita.
+-Havendo incorreção na análise das circunstâncias judiciais do art. 59 do CP, deve ser feita a adequação.
+-Conforme estipula o artigo 804 do Código de Processo Penal, a condenação nas custas decorre de expressa previsão legal, devendo suposta impossibilidade de pagamento ser analisada pelo juízo da execução, quando exigível o encargo. (DES. WANDERLEY PAIVA - RELATOR VENCIDO EM PARTE)
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CRIMINAL - CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/06) E CRIME DE RECEPTAÇÃO (ART. 180, CAPUT, DO CÓDIGO PENAL) - AMBIGUIDADE - CONTRADIÇÃO - OBSCURIDADE - OMISSÃO - INOCORRÊNCIA - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados implica a rejeição da pretensão aclaratória.
+2. Os embargos declaratórios não se prestam a rediscussão da causa, e, ainda que opostos com objetivo de prequestionamento, devem guardar correspondência com as situações previstas no CPP art. 619, o que não se observa no presente caso.
+O recorrente suscita violação aos arts. 67 e 68, caput, do Código Penal. Afirma ser desproporcional o aumento da pena em 1/3, na segunda fase do cálculo dosimétrico para o delito de receptação, já que a reincidência não é específica e que existe apenas uma condenação anterior. Assevera que não foi apresentado pela sentença ou pelo acórdão recorrido qualquer fundamento válido para a fração superior a 1/6. Cita precedente (AgRg no HC 743680/SP, Rel. Min. Ribeiro Dantas, julgado em 06/09/2022).
+Contrarrazões às e-STJ fls. 678/681.
+Opinou, então, o Parquet Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+Da leitura dos autos, observa-se que o acórdão recorrido manteve a fração de aumento utilizada pela sentença (1/3), na segunda fase da dosimetria, em razão da agravante da reincidência. Todavia, não apresentou fundamentação para a escolha de tal fração.
+Acerca do tema, deve-se frisar que o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena em razão da incidência das agravantes e das atenuantes genéricas.
+Assim, a exasperação ou diminuição da reprimenda em razão da incidência de circunstância agravante ou atenuante deve respeitar, em regra, a fração de 1/6, salvo situações excepcionais, devidamente justificadas.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. 1) VALORAÇÃO NEGATIVA DA CULPABILIDADE. JUSTIFICATIVA IDÔNEA. 2) AGRAVANTE DECORRENTE DA QUALIFICADORA DO PERIGO COMUM. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. 3) AUSÊNCIA DE ERRO OU FLAGRANTE ILEGALIDADE. PENA APLICADA DIANTE DAS PECULIARIDADES DO CASO CONCRETO. REVISÃO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Esta Corte tem entendido que "em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta" (AgRg no REsp 1822454/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/9/2019).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.842.007/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021, grifei.)
+Desse modo, não tendo havido fundamentação apta a justificar a fração superior à de 1/6, considerada dotada de razoabilidade por esta Corte, deve ser refeito o cálculo da segunda fase da dosimetria dos delitos de receptação.
+Assim, redimensiono a reprimenda do crime do art. 180 do Código Penal, objeto do presente recurso:
+Na primeira etapa, mantenho a pena-base como fixada pelo Tribunal de origem (e-STJ fls. 630/631) - 1 ano de reclusão.
+Na segunda fase, aplico a fração de 1/6 pelo reconhecimento da reincidência - 1 ano e 2 meses de reclusão, que torno definitiva em razão da ausência de causas de aumento e diminuição da pena.
+Tendo em vista o reconhecimento da continuidade delitiva entre os dois crimes de receptação (e-STJ fl. 631), aplico à pena acima calculada a fração de 1/6, resultando na reprimenda definitiva de 1 ano, 4 meses e 10 dias de reclusão.
+E, por fim, considerando o concurso material entre os delitos de receptação e o crime de tráfico de drogas, cuja pena foi fixada em 5 anos de reclusão (e-STJ fl. 630), somo as reprimendas, chegando ao resultado total de 6 anos, 4 meses e 10 dias de reclusão.
+Mantido, no mais, o acórdão condenatório, notadamente no que se refere ao regime inicial fechado, uma vez que esta Corte considera possível a fixação de regime mais gravoso do que aquele que a pena comporta, em razão da condição de reincidente do réu.
+À guisa do exposto, dou provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
