@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Vancouros Comércio de Couros Ltda, com base no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 445):
+CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). LEI Nº 10.637, DE 2002. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). LEI Nº 10.833, DE 2003. REGIME NÃO-CUMULATIVO. CREDITAMENTO.
+Não tem o contribuinte o direito de creditamento, no âmbito do regime não-cumulativo do PIS e da COFINS, dos valores referentes às comissões pagas à pessoa jurídica na compra da matéria-prima;
+combustíveis e lubrificantes utilizados em veículos próprios para transporte de matéria-prima; e armazenagem na operação de exportação relacionada a serviços de estufamento de container, ovação/ovagem de container, pesagem e transporte para pesagem de container, por não constituírem insumos segundo a definição legal (Leis nºs 10.637, de 2002, e 10.833, de 2003, art. 3º, II), e por não estarem entre as despesas taxativamente arroladas na legislação de regência (Leis nºs 10.637, de 2002, e 10.833, de 2003, art. 3º, III a X).
+Nas razões do recurso especial primevo, sustenta, em resumo, que "devem ser considerados insumos os gastos que, ligados inseparavelmente aos elementos produtivos, proporcionam a existência do produto ou serviço, o seu funcionamento, a sua manutenção ou o seu aprimoramento. Sob essa ótica, o insumo pode integrar as etapas que resultam no produto ou serviço ou até mesmo as antecedentes e posteriores, desde que seja imprescindível para o funcionamento do fator de produção" (fl. 489).
+Houve contrarrazões (fls. 501/519).
+Às fls. 535/540, proferi decisão determinando a devolução dos autos à Corte de origem, para que ali se realizasse o competente juízo de adequação ao Tema 779/STJ.
+Foi então que o Tribunal Regional assim se manifestou (fl. 578):
+Daí que não há razão para retratar o acórdão que negou provimento aos embargos infringentes, ainda que se tenha adotado fundamento diverso, porquanto a sua conclusão (improcedência do pedido do contribuinte que pretendia adotar o conceito de insumo da legislação do imposto de renda para finns de creditamento de PIS e COFINS) está em conformidade com o que decidiu o Superior Tribunal de Justiça no julgamento do Tema STJ 779.
+Na sequência, foi proferida decisão presidencial local inadmitindo o apelo raro pelo obstáculo da Súmula 7/STJ (fls. 596/601). Contra referido decisum, foi interposto o agravo ora em análise.
+Contra referido decisum, foi interposto o agravo ora em análise.
+Vieram os autos conclusos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Consoante antes relatado, a Corte de origem analisou a questão posta acerca do enquadramento das atividades como insumo para fins de direito à crédito de PIS e COFINS à luz do entendimento consolidado no julgamento do Tema 779/STJ (REsp 1.221.170/PR) -, concluindo pela adequação do acórdão recorrido a esse precedente (fls. 565/578 e 583/585).
+Nesse contexto, quanto a tal questão, não é possível o conhecimento do recurso, pois, no caso dos autos, o Tribunal de origem manteve o acórdão recorrido por estar em conformidade com a tese adotada no precedente indicado, o que afasta o disposto no art. 1.041 do CPC, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º ".
+Além disso, a alteração das conclusões adotadas pela Corte Regional, tal como colocada a questão nas razões recursais, quanto ao enquadramento dos valores recolhidos ao conceito de insumo demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e do contrato social da empresa, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
