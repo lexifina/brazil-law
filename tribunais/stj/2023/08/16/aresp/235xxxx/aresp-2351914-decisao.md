@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por NELSON FERREIRA DA CRUZ FILHO em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. AGRAVO RETIDO NÃO CONHECIDO. REQUERIMENTO DE APOSENTADORIA POR INVALIDEZ. INTOXICAÇÃO POR INSETICIDA MALATHION. LAUDO PERICIAL QUE ATESTA A CAPACIDADE LABORATIVA DO RECORRENTE. CERCEAMENTO DE DEFESA. MATÉRIA IDÊNTICA AO AGRAVO RETIDO. PRECLUSÃO CONSUMATIVA. RECURSO CONHECIDO E DESPROVIDO.
+1. AGRAVO RETIDO:
+Agravo retido não conhecido, uma vez que não reiterado em preliminar de apelação, conforme exigido pelo artigo 523, §1º, do CPC/73.
+2. APELAÇÃO CÍVEL:
+2.1. Sabe-se que o juiz não está vinculado ao laudo pericial, podendo deixar de utilizar as conclusões da perícia, conforme disposto no Art. 479 do CPC. Contudo, no caso em tela, o laudo mostrou-se bem explicativo com os devidos apontamentos técnicos, que conferem maior segurança aos resultados alcançados pelo perito.
+2.2. Não vislumbra-se a necessidade de anulação da r. sentença, para fins de reabertura da instrução probatória, tendo em vista que diante da complexidade técnica do caso em apreço, agiu com acerto o juiz a quo em prestigiar a conclusão alcançada pelo expert no sentido de que o apelante não é portador de doença incapacitante para o labor e por isso, julgar improcedente o pedido autoral.
+2.3. Conforme já salientado pelo C. STJ: A jurisprudência valoriza a atuação técnica e científica dos peritos, ressalvando sempre o indispensável exercício imparcial de suas funções como agentes de estrita confiança do juízo, cuja atividade ocorre não em prol de interesses obscuros e tendenciosos mas sim como verdadeiros auxiliares da justiça. (REsp 1420543/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+2.4. No que tange o suposto cerceamento de defesa ventilado pelo recorrente, observo que tal questão também foi alegada em sede de Agravo Retido, que por sua vez, conforme já apontado anteriormente, não atendeu ao disposto no Art. 523, § 1º do CPC/1973, ao não requerer expressamente a apreciação do referido Agravo nas razões da Apelação, razão pela qual a matéria encontra-se fulminada pela preclusão consumativa. Precedente do TJES.
+2.5. Considerando o disposto no artigo 85, § 11 do CPC, os honorários sucumbenciais devem ser majorados em mais R$ 200,00 (duzentos reais), totalizando R$ 1.200,00 (mil e duzentos reais). No entanto, sua exigibilidade deve ser suspensa, em decorrência do apelante ser beneficiário da gratuidade da justiça. (Art. 98, § 3º do CPC).
+2.6. Recurso CONHECIDO e DESPROVIDO.
+Os embargos de declaração opostos não foram providos.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, alegou-se contrariedade às disposições do artigo 1.013, §1º e §2º, do CPC, sob o fundamento de que o Tribunal de origem deveria conhecer a matéria exposta na apelação, em relação ao agravo retido, em razão de seu efeito devolutivo, que abrange tanto as matérias decididas por interlocutórias não agraváveis, quanto as ainda não solucionadas.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que nem todos os fundamentos do acórdão foram impugnados, atraindo o óbice da súmula 283/STF.
+A parte agravante rechaça o fundamento mencionado.
+É o relatório. Decido.
+O Tribunal de origem concluiu que o CPC/1973 se aplica ao caso dos autos, em razão do enunciados administrativos 2 e 3 do STJ, conforme se lê do seguinte trecho do acórdão:
+Assim, considerando que CPC/73 o presente recurso foi interposto com fundamento no CPC/73 visto que a intimação da decisão daquele recorrida se deu 23.03.2015, ou seja, na vigência estatuto, passo a apreciar aos requisitos de admissibilidade, de acordo com as regras previstas pelo diploma anterior.
+Ao passo que, a parte recorrente alega que a decisão foi proferida sob a égide do CPC/2015 e, por isso, deve ser aplicado o novo código no exame de admissibilidade do recurso.
+Neste contexto, a análise sobre qual direito deve ser aplicado, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÁLCULOS. OFENSA À COISA JULGADA E PRECLUSÃO. CONSTATAÇÃO. IMPOSSIBILIDADE. ÍNDICE DE CORREÇÃO MONETÁRIA. SÚMULA 283 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. EXAME. PREJUÍZO. (..) 3. A revisão do entendimento do Tribunal a quo para reconhecer ofensa à coisa julgada sobre a matéria em debate demandaria reexame do conjunto fático-probatório, consistente no cotejo de peças processuais, providência vedada em recurso especial, nos termos da Súmula 7 do STJ. (..) 7. Divergir do aresto impugnado acerca do enquadramento da parte nas condutas dos incisos II e V do art. 80 do CPC/2015, pois estava "distorcendo completamente o que foi decidido" e praticando "atos incompatíveis com a boa-fé processual", esbarra no óbice da Súmula 7 do STJ, visto que demanda imperioso reexame dos fatos e provas constantes nos autos. (..) 9. Agravo interno desprovido.
+(AgInt no AREsp 1311173/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 16/10/2020 - grifo nosso)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AGRAVO RETIDO. DIREITO INTERTEMPORAL. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
