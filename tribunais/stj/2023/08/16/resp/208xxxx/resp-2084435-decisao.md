@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. TEMA 692 STJ.
+1. Se o acórdão desta Instância estiver em dissonância com as teses jurídicas fixadas pelo Supremo Tribunal Federal no julgamento de recurso extraordinário submetido à sistemática da Repercussão Geral, deve ser realizado o juízo de retratação para adequação do julgado, consoante artigo1.040, II, do Código de Processo Civil.
+2. Caso em que a decisão proferida pela Turma deste Tribunal, ao julgar o presente recurso, diverge do entendimento pacificado pelo STJ quanto ao Tema 692.
+Nas razões do recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, o recorrente alega violação aos artigos 927, III, do CPC/2015; 115, II, da Lei 8.213/91.
+Argumenta que "o STJ, ao reafirmar a tese fixada no Tema 692, autorizando a devolução dos valores recebidos a título de tutela antecipada posteriormente revogada, apenas limitou os descontos a 30% da renda mensal de eventual benefício ativo".
+Requer "seja o recurso conhecido e provido, para que sejam afastadas as limitações impostas pelo acórdão recorrido na aplicação da tese firmada esse Colendo STJ no Tema 692".
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Depreende-se dos autos que a tese vinculada aos dispositivos apontados como violados não foi apreciada pelo acórdão recorrido, tampouco foram opostos embargos de declaração para sanar eventual omissão no julgado.
+Ausente, portanto, o indispensável requisito do prequestionamento, circunstância que atrai, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada", e da Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Ademais, o acórdão recorrido consigna, de forma expressa, que (i) "o critério de 30%, estabelecido no referido Tema do STJ, não é suficiente à efetividade do preceito constitucional, ainda quando conjugado com a vedação prevista no artigo 201, § 2º, da Constituição Federal"; (ii) "não se pode menos do que concluir que a repetibilidade do salário dos benefícios previdenciários haverá de obedecer também as hipóteses legais de penhorabilidade de salários: - exigência que decorre da natureza mesma das verbas previdenciárias. Sob pena de se desamparar os segurados da previdência muito além daqueles devedores no âmbito privado, hipótese na qual a lei, seguida de copiosa jurisprudência do STJ, veda a penhora de salários inferiores a 50 salários mínimos. Haverá que se concluir, em tratamento díspar, que segurados previdenciários e devedores da iniciativa privada apresentam padrões de dignidade alimentar, financeira e social diferenciados, o que, no meu entender, afronta o princípio constitucional da igualdade"; (iii) "é possível admitir que muito embora o desconto possa ocorrer na importância de 30% (trinta porcento), far-se-á mister, na análise do caso concreto, primeiro (i) observar o patamar do salário mínimo e (II) ponderar se o percentual fixado garante o mínimo existencial, que se reflete na preservação da dignidade do devedor e de sua família. Ter-se-ia, assim, a harmonização, no âmbito do Direito Previdenciário, das duas vertentes do princípio da dignidade da pessoa humana - de um lado, o direito ao mínimo existencial; de outro, o direito à satisfação executiva, de que se fala no EREsp n. 1.518.169/DF".
+A parte recorrente, entretanto, não infirma tais premissas.
+Assim, por força do óbice da Súmula 283/STF, que dispõe que "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.", o recurso especial não pode ser conhecido no ponto.
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. RAZÕES DISSOCIADAS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+2. Incide à espécie, por analogia, os enunciados das Súmulas 283 e 284/STF. Precedentes do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1671555/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO DE DISPOSITIVOS. SÚMULAS 282/STF E 356/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO INFIRMADOS. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
