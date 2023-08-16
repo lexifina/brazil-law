@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Larissa Nayara Bauer, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, proferido no julgamento do Habeas Corpus n. 5044720-46-2022.4.04.0000/PR.
+Extrai-se dos autos que a paciente foi condenada pela prática do delito de tráfico de drogas à pena de 2 anos e 6 meses de reclusão, em regime aberto, substituída por duas penas restritivas de direitos. Após frustradas tentativas de intimação da paciente para participar da audiência de admoestação, o Juízo da Execução regrediu, cautelarmente, o regime inicial para o fechado, por estar a apenada em evidente estado de fuga.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo. Eis o teor da ementa do acórdão:
+"HABEAS CORPUS. EXISTÊNCIA DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO." (fl. 1.543).
+Na presente impetração, a defesa insurge-se contra a regressão para regime inicial mais gravoso do que o determinado na sentença condenatória.
+Afirma ser mais razoável a concessão de prisão domiciliar, por razões humanitárias, porquanto a apenada tem uma filha de quatro anos de idade, que necessita da presença e dos cuidados da mãe.
+Assevera estarem presentes os requisitos do Decreto n. 11.302/2022 para a concessão de indulto.
+Busca, assim, a reconversão das penas restritivas de direitos em privativa de liberdade, com regressão ao regime aberto, ou o deferimento da prisão domiciliar, ou, ainda, a concessão do indulto natalino, com a consequente declaração de extinção da pena.
+O pedido de liminar foi indeferido, conforme decisão de fls. 1.561/1.562.
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim sumariado:
+"PENAL - PROCESSUAL PENAL - HABEAS CORPUS - PRISÃO DOMICILIAR - INDULTO NATALINO - MATÉRIA NÃO APRECIADA PELO EG. TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO .
+INCOMPETÊNCIA DESSA E. CORTE SUPERIOR PARA APRECIAÇÃO DO REFERIDO PLEITO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. PRECEDENTES/STJ.
+Parecer pelo não conhecimento da Ordem." (fl. 1.576).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+Da leitura atenta dos autos, verifica-se que os pleitos de reconversão das penas restritivas de direitos em privativa de liberdade, com regressão ao regime aberto, ou o deferimento da prisão domiciliar, ou, ainda, a concessão do indulto natalino, com a consequente declaração de extinção da pena, não foram analisados pelo Tribunal a quo, sendo certo que não houve manifestação do Colegiado de origem sobre as questões aqui deduzidas.
+Dessa forma esta Corte Superior de Justiça está impedida de pronunciar-se diretamente sobre a matéria, sob pena de atuar em indevida supressão de instância. Nessa esteira, confiram-se os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES . PEDIDO DE ABRANDAMENTO DE REGIME INICIAL. QUANTIDADE ELEVADÍSSIMA DE ENTORPECENTE APREENDIDA . 25 KG DE MACONHA. MODO INICIAL FECHADO MANTIDO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. BENESSE NÃO RECOMENDÁVEL. ALEGAÇÃO DE CABIMENTO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido de abrandamento de regime inicial. A jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena.  ..
+III - In casu, a quantidade e a natureza do entorpecente - 25 Kg de maconha - foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006.  ..
+IV - Pleito de substituição da pena privativa de liberdade por restritiva de direitos. a substituição da pena corporal por penas restritivas de direitos pode ser estabelecida para o delito de tráfico de entorpecentes, mas, para tanto, é necessário que o acusado preencha os requisitos legais elencados no art. 44 do Código Penal. Esta Corte Superior de Justiça tem decidido, por outro lado, que a quantidade da droga apreendida pode, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+V - Na hipótese em análise, a natureza e a quantidade da droga apreendida - 25 Kg de maconha - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela.  ..
+VI - Alegação de cabimento de prisão domiciliar. Observa-se que a referida tese não foi enfrentada pela eg. Corte de origem. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 166.402/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 26/8/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. QUANTIDADE DE ENTORPECENTES APREENDIDOS. RECORRENTE FORAGIDA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de que a agravante tem direito à concessão de prisão domiciliar, por ser a mãe de uma criança menor de 12 anos de idade, não foi objeto de impugnação no acórdão originário, o que impede o conhecimento do tema diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+2. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva que envolveu a apreensão de 19,50kg de maconha, 301,11g de cocaína e 742,63g de crack, além de objetos normalmente vinculados com a habitualidade da conduta ilícita atribuída (balança de precisão, faca e aparelho de telefone celular). Ademais, o juízo originário informou que ainda não houve o cumprimento do mandado de prisão da recorrente, estando, portanto, foragida até o momento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 724.943/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/4/2022.)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
