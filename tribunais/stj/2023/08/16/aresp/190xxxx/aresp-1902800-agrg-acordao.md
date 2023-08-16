@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DESCAMINHO. PLEITO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.  MANUTENÇÃO  DA  DECISÃO  AGRAVADA.
+I - De fato, entender de modo contrário ao estabelecido pelas instâncias ordinárias, como pretende a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância.
+II - Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo  regimental  desprovido.
+RELATÓRIO
+ Trata-se  de  agravo  regimental  interposto  por  EZEQUIEL ELIAS DA ROSA THIS  contra  a  decisão  de  fls.  592-598,  que conheceu do agravo para negar conhecimento ao recurso especial.
+Nas razões do agravo regimental (fls. 600-607), o agravante alega que "não houve a produção de qualquer prova em sede judicial, havendo ambas as instâncias se amparado, para fins de fundamentar a condenação do réu, em documentos exclusivamente provindos do inquérito (auto de infração e apreensão de mercadoria, termo de lacração de volumes e declarações do réu em inquérito)" e que "não há um só documento dos citados pelos doutos julgadores das instâncias ordinárias que se enquadre na exceção legal e no conceito de prova "irrepetível" (impossível de ser repetida)" (fl. 606). Pugna, ao final, pela reconsideração da decisão agravada e, subsidiariamente, pela apresentação do recurso ao Colegiado, "para o fim de, com esteio nos artigos 155, 156, 381, III, e 386, VII, do Código de Processo Penal, absolver-se o acusado, diante da ausência de provas produzidas em Juízo" (fl. 607).
+O Ministério Público Federal manifestou pelo não conhecimento do agravo regimental (fls. 617-619).
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  Colegiado.
+É o relatório.
+EMENTA
+PENAL  E  PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DESCAMINHO. PLEITO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.  MANUTENÇÃO  DA  DECISÃO  AGRAVADA.
+I - De fato, entender de modo contrário ao estabelecido pelas instâncias ordinárias, como pretende a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância.
+II - Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo  regimental  desprovido.
+VOTO
+Não  obstante  os  argumentos  apresentados  pela  Defesa,  o  presente  recurso  não  comporta  provimento.
+Alega o agravante o descumprimento dos arts. 155, 156, 381, III, e 386, VII, do CPP, uma vez que a condenação fo i baseada em documentos exclusivamente provindos do inquérito (auto de infração e apreensão de mercadoria, termo de lacração de volumes e declarações do réu em inquérito) e que nenhum dos documentos citados pelo Tribunal de origem se enquadra na exceção legal e no conceito de prova "irrepetível".
+O eg. Tribunal a quo, acerca do tema, assim se manifestou (fls. 508-510):
+"Os precedentes das turmas criminais e da Quarta Seção deste Tribunal afirmam que, para a configuração da materialidade e da autoria delitiva, usualmente são suficientes os documentos elaborados pelos servidores públicos no exercício de suas funções, pois tais documentos gozam de presunção de legitimidade e veracidade, sendo considerados provas irrepetíveis a serem submetidas ao contraditório diferido.
+(..)
+Nas provas cautelares, irrepetíveis e antecipadas, as garantias do devido processo legal e da ampla defesa são levadas a efeito quando os elementos são apresentados à defesa em juízo, no curso da ação penal. Equivale a dizer, o exercício do direito ao contraditório e à ampla defesa ocorre em momento distinto do da produção das provas cautelares e irrepetíveis, situação denominada contraditório diferido.
+A regra geral do artigo 155 do Código de Processo Penal, de que o juiz não pode fundamentar sua decisão apenas nas provas produzidas durante a fase investigatória, é expressamente excepcionada quando se trata de provas cautelares, irrepetíveis e antecipadas. Em relação aos citados tipos de prova, portanto, não se observa vedação de que sejam a base da convicção do juízo, ainda que daí decorra a condenação do réu.
+Ademais, submetida a prova ao contraditório durante o curso da ação penal, a defesa pode impugná-la e desconstituí-la, produzindo novas provas em sentido contrário.
+Não obstante, no caso em tela, a defesa não se desincumbiu do ônus de produzir qualquer prova capaz de afastar a presunção de legitimidade e de veracidade daquelas trazidas pela acusação.
+Desse modo, os elementos informativos que foram judicializados -sendo regularmente submetidos ao exercício do direito ao contraditório e à ampla defesa - podem servir de fundamento ao juízo, nos moldes em que ocorreu no caso concreto, não merecendo acolhimento a tese defensiva.
+(..)
+Os fatos ora em julgamento apresentam os elementos do artigo 334, §1º, inciso II, do Código Penal, tendo em vista que o réu transportou mercadorias de origem e procedência estrangeira desprovidas da documentação de sua regular importação, restando iludidos os tributos relativos à importação."
+Nas razões do presente recurso, a defesa postula a absolvição do recorrente, sob o fundamento de ausência de provas para condenação pelo crime de descaminho.
+O eg. Tribunal de origem, sobre o tema, no que importa ao caso, consignou (fls. 512-514):
+"Assim, a materialidade restou comprovada pelo Termo de lacração de volumes nº 220814-01, Auto de Infração com Apreensão de Mercadorias nº 0915200-06774/2014, Representação fiscal para fins Penais e PAF nº 15165.722398/2014-37 e nº 15165.722397/2014-92 e pelo Demonstrativo de Créditos Tributários Evadidos (evento 1, NOT_CRIME2 do inquérito policial).
+No demonstrativo de créditos tributários evadidos, a Receita Federal do Brasil apurou o valor de R$ 2.059,16 (dois mil e cinquenta e nove reais e dezesseis centavos) em tributos iludidos. Entretanto, é entendimento pacífico no Superior Tribunal de Justiça que, quando há decreto de perdimento das mercadorias ap reendidas - tratamento comumente dado pela Receita Federal do Brasil nas apreensões quando do transporte ou manutenção em depósito das mercadorias estrangeiras - incidem apenas o imposto de importação e o imposto sobre produtos industrializados sobre seu valor, devendo ser excluídos do cálculo as alíquotas relativas ao PIS e a Cofins (artigo 2º, inciso III, da Lei nº 10.865/2004).
+(..)
+Quanto à autoria, os documentos produzidos pelos servidores públicos, da Receita Federal do Brasil, e o depoimento do réu prestado na polícia dão conta de bem demonstrá-la (evento 9, DEPOIM_TESTEMUNHA2, do inquérito policial).
+Ressalte-se que os documentos lavrados pelos servidores públicos da Receita Federal são dotados de presunção de legitimidade e veracidade, de modo que cabia à defesa acostar documentos colocando em dúvida tal presunção, nos termos do art. 156 do Código de Processo Penal, o que não o fez.
+(..)
+No que tange ao dolo, o tipo penal de descaminho apresenta elemento subjetivo na forma de dolo genérico, sem finalidade específica, sendo que, para aferi-lo, "basta a comprovação da prática consciente e deliberada da conduta descrita no preceito primário da norma penal." (TRF4, ACR 5000299- 32.2014.404.7119, Sétima Turma, Relator Márcio Antônio Rocha, juntado aos autos em 25/02/2016).
+As circunstâncias que envolvem o fato apurado permitem verificar o dolo na conduta do acusado. Inclusive o réu, na polícia, confirmou a prática dolosa do crime, uma vez que reconheceu que foi contratado pela corré para realizar o transporte das mercadorias até a rodoviária do Tietê em São Paulo.
+A autoria e o dolo no agir, desse modo, estão bem configurados.
+Presente prova da materialidade, da autoria e do dolo no agir, bem como inexistentes causas excludentes da culpabilidade ou da ilicitude, impõe- se manter a condenação. "
+No caso, o eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, concluiu por manter a condenação em desfavor do ora recorrente, por entender que estão demonstrados, in casu, a autoria e a materialidade em relação ao delito de descaminho, especialmente em razão da presença de prova da materialidade, da autoria e do dolo no agir, bem como inexistentes causas excludentes da culpabilidade ou da ilicitude.
+Está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, que dispõe, verbis: "a pretensão de simples reexame de prova não enseja recurso especial".
+A propósito: AgRg no AREsp n. 1.263.243/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 30/05/2022; AgRg no AREsp n. 965.171/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/12/2021 e AgRg no AREsp n. 2.116.217/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/10/2022.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
