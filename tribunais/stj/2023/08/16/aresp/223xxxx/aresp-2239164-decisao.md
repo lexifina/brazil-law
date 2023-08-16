@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto pela Vale S/A, contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE AJUSTAMENTO DE CONDUTA. VALE S/A. INDENIZAÇÃO PELA ROMPIMENTO DA BARRAGEM EM BRUMADINHO. DECISÃO QUE DETERMINOU AO AGRAVANTE A EMENDA DA INICIAL, PARA QUE O RITO SEJA CONVOLADO PARA PROCEDIMENTO COMUM. REFORMA. O juízo a quo determinou que o Exequente, ora Agravante, emendasse a petição inicial para converter a execução em procedimento comum, por entender ser necessária dilação probatória, para apurar sua legitimidade para figurar como credor da indenização ajustada no termo. Conforme referido TAC, a legitimidade da vítima para postular a indenização nele prevista, é aferida por meio da comprovação de residência na cidade de Brumadinho, ao tempo da tragédia, e da apresentação de laudo médico, que ateste os danos à saúde mental provocados pelo acidente. Agravante que comprova ser residente de Brumadinho e ter sofrido sério abalo emocional em razão do acidente. Reforma da decisão para determinar o prosseguimento do feito. PROVIMENTO DO RECURSO.
+Na origem, trata-se de ação de execução de título extrajudicial proposta por João Paulo Soares de Carvalho, objetivando executar termo de ajustamento de conduta firmado pela Vale S/A e a Defensoria Pública de Minas Gerais, em decorrência do rompimento da barragem no dia 25 de janeiro de 2019, em Betim, Minas Gerais.
+Fora interposto agravo de instrumento pelo autor, tendo sido prolatado acórdão pelo TJRJ, dando provimento ao recurso.
+Inconformada com o acórdão recorrido, a Vale S/A interpôs recurso especial o qual foi a mim distribuído.
+Entretanto, conforme relatado, a lide trata de "responsabilidade civil", o que, de acordo com o Regimento Interno desse Tribunal, é de competência da Segunda Seção:
+Art. 9º A competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa.
+ ..
+§ 2º À Segunda Seção cabe processar e julgar os feitos relativos a:
+ ..
+III - responsabilidade civil, salvo quando se tratar de responsabilidade civil do Estado;
+Ante o exposto, nos termos do art. 9º, § 2º, III, do RISTJ, torno sem efeito a decisão de fls. 516-520 e determino a remessa dos presentes autos à Coordenadoria de Análise e Classificação dos Temas Jurídicos e Distribuição de Feitos, para que proceda à redistribuição do presente recurso a um dos Ministros componentes da Segunda Seção.
