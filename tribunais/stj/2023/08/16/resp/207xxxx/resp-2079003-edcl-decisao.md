@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALESSANDRA VILLE DA SILVEIRA e outros com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora interpôs agravo de instrumento contra decisão que, em cumprimento de sentença, fixou honorários advocatícios somente em relação ao crédito de duas exequentes, indeferindo quanto aos demais.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL negou provimento à apelação da parte autora, ficando consignado que a renúncia ao valor excedente ao previsto no art. 87 do ADCT, manifestada após a propositura da demanda executiva, não autoriza o arbitramento dos honorários.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. CRÉDITO INICIAL SUBMETIDO AO REGIME DE PRECATÓRIO. RENÚNCIA AO VALOR EXCEDENTE PARA PAGAMENTO VIA RPV. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.
+1. Segundo orientação do Eg. Superior Tribunal de Justiça, "A renúncia ao valor excedente ao previsto no art. 87 do ADCT, manifestada após a propositura da demanda executiva, não autoriza o arbitramento dos honorários, porquanto, à luz do principio da causalidade, a Fazenda Pública não provocou a instauração da Execução, uma vez que se revelava inicialmente impositiva a observância do art. 730 CPC, segundo a sistemática do pagamento de precatórios".
+2. A parte, nas razões de agravo, não trouxe qualquer argumentação nova e capaz de mudar o entendimento acerca do caso em tela.
+AGRAVO INTERNO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação do art. 85, § 7º, do CPC.
+Apresentadas contrarrazões.
+Às fls. 213-214, o recurso especial foi julgado prejudicado, tendo sido determinada a devolução dos autos à Corte de origem para aguardar o julgamento definitivo do Tema n. 1.190/STJ, de acordo com o rito do art. 1.040 do CPC.
+Foram opostos embargos de declaração, em que aponta a existência de contradição na decisão embargada, tendo sido aduzido, em síntese, que:
+Ocorre que, na decisão ora embargada, este Nobre Ministro Relator determinou devolução dos autos ao Tribunal de origem para que se observe a decisão a ser proferida no Tema n. 1.190/STJ), que trata sobre a "possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor -RPV."
+Com a devida vênia, a decisão é contraditória, visto que no caso dos autos já houve impugnação a pretensão executória, e somente é objeto de controvérsia o direito a honorários de cumprimento sobre os créditos a serem pagos por Precatório. (fl. 258)
+É o relatório. Decido.
+Em melhor análise dos autos, verifica-se que a matéria debatida no presente recurso especial não coincide com aquela discutida no Tema n. 1.190/STJ, de modo que, em juízo de reconsideração, torno sem efeito a decisão de fls. 213-214 e passo à nova análise do recurso especial interposto.
+Não merece acolhimento a pretensão recursal, uma vez que o acórdão recorrido encontra-se em consonância com a jurisprudência firmada no Superior Tribunal de Justiça no sentido da impossibilidade de arbitramento de verba honorária quando se tratar de execuções não embargadas contra a Fazenda Pública que foram iniciadas pela regime do pagamento de precatórios - art. 730 do CPC -, com renúncia superveniente do excedente ao limite (art. 87 do ADCT) para efeito de enquadramento no procedimento de Requisição de Pequeno Valor - RPV.
+Além disso, o STJ possui a orientação de que a Lei n. 9.494/1997, em seu art. 1º-D, expressamente exclui a verba honorária nas execuções não embargadas contra a Fazenda Pública e de que, se os Embargos foram apenas parciais, o disposto no art. 1º-D da Lei n. 9.494/1997 deve ser aplicado ao montante incontroverso, excluindo-se a fixação de honorários, já que não há oposição da Fazenda Pública.
+No mesmo sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015 CABIMENTO.
+1. O Superior Tribunal de Justiça, ao julgar o Recurso Especial 1.406.296/RS, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento no sentido da impossibilidade de arbitramento de verba honorária quando se tratar de execuções não embargadas contra a Fazenda Pública iniciadas pela sistemática do pagamento de precatórios (art. 730 do CPC), com renúncia superveniente do excedente ao limite (art. 87 do ADCT) para efeito de enquadramento no procedimento de Requisição de Pequeno Valor - RPV.
+2. Além disso, o STJ possui a orientação de que a Lei 9.494/1997, em seu art. 1º-D, expressamente exclui a verba honorária nas execuções não embargadas contra a Fazenda Pública e de que, se os Embargos foram apenas parciais, o disposto no art. 1º-D da Lei 9.494/1997 deve ser aplicado ao montante incontroverso, excluindo-se a fixação de honorários, já que não há oposição da Fazenda Pública.
+Saliente-se que os valores não impugnados podem ser desde logo objeto da expedição de precatório, independentemente do julgamento dos Embargos.
+3. De fato, a dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do Código de Processo Civil/2015 restringe-se às hipóteses em que a execução não tenha sido combatida e cujo pagamento ocorra por precatório.
+4. É irrelevante o fato de a impugnação ter ou não ter sido recebida, bastando simplesmente que a execução tenha sido atacada pela parte devedora.
+5. In casu, o Tribunal foi expresso ao afirmar que houve impugnação à Execução, o que atraiu a fixação dos honorários advocatícios.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 1.881.288/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+Na hipótese dos autos, é incontroverso que a parte recorrente concordou com a impugnação do Estado do Rio Grande do Sul (fl. 155), de modo que não restou valor controverso a ensejar condenação em honorários advocatícios e m favor dos Exequentes.
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com fundamento no art. 263, III, do RISTJ, acolho os embargos para, em juízo de reconsideração, tornar sem efeito a decisão de fls. 213-214 e, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
