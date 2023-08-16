@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado do Rio de Janeiro contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. PREVENTIVO. POLICIAL MILITAR. CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO. EFEITOS DA CONDENAÇÃO PENAL. PERDA DO CARGO. ART. 92, I, DO CÓDIGO PENAL. CASSAÇÃO DA REFORMA. IMPOSSIBILIDADE. RECURSO ORDINÁRIO PROVIDO.
+No agravo interno, o recorrente sustenta a reforma da decisão ora impugnada por entender que a sentença penal condenatória determinou que o impetrante fosse excluído da corporação quando ainda esse estava na ativa. Assevera que a jurisprudência do STJ somente se aplica aos servidores já aposentados ou na reserva. Afirma, em síntese, que a exclusão do impetrante é devida porque quando ele foi condenado ainda era servidor da ativa. Afirma que "a exclusão da impetrante decorreu de decisão judicial transitada em julgado, que determinou a perda do cargo, enquanto ele ainda estava em atividade, na forma do art. 92, I, do CP e não de ato punitivo-disciplinar da administração pública."
+Em impugnação, o particular assevera que, apesar de ter sido condenado, não foi excluído das fileiras da Polícia Militar e que a ordem de exclusão do cargo não pode pode alcançar a aposentadoria. Ressalta a natureza administrativa da perda do cargo determinada em sentença judicial nos termos do art. 92 do CP, a qual se submete à prescrição. Argui que - após decorridos cinco anos - não pode mais a Administração Pública anular os atos administrativos que geraram efeitos favoráveis a particulares.
+É o relatório. Passo a decidir.
+A pretensão merece acolhida.
+Infere-se dos autos que o particular, apesar de ter sido condenado por sentença penal, não foi oportunamente excluído das fileiras da Polícia Militar e continuou vinculado ao serviço público.
+Ora, a exclusão do particular é o efeito esperado da sentença penal condenatória porque ainda determinado quando esse se encontrava na ativa. A esse respeito, como destacado no acórdão a quo, houve determinação administrativa de recolhimento do impetrante ao sistema prisional comum e a cessação do pagamento de sua remuneração.
+Ou seja, de fato, a cassação de aposentadoria não foi determinada por sentença penal, mas é, na verdade, consequência lógica do cumprimento de ordem de exclusão do militar da Administração Pública quando esse ainda se encontrava na ativa. Logo, com razão o Estado do Rio de Janeiro ao afirmar que "a exclusão da  parte  impetrante decorreu de decisão judicial transitada em julgado, que determinou a perda do cargo, enquanto ele ainda estava em atividade, na forma do art. 92, I, do CP e não de ato punitivo-disciplinar da administração pública."
+Portanto, a decisão ora recorrida deve ser reconsiderada, pois o acórdão a quo não destoa da orientação jurisprudencial da Segunda Turma do STJ acerca da controvérsia. Confira-se:
+ADMINISTRATIVO. CASSAÇÃO DE APOSENTADORIA DE POLICIAL MILITAREM DECORRÊNCIA DE EXCLUSÃO A BEM DA DISCIPLINA. POSSIBILIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "Restou comprovado que o autor já se encontrava na inatividade quando da prática do ilícito a ele imputado, fazendo com que o benefício previdenciário estivesse constituído como direito adquirido. Assim, a perda de posto ou patente, em razão de ilícito penal cometido após a concessão da aposentadoria, não tem como consequência o cancelamento do benefício previdenciário, em razão da inexistência de previsão legal nesse sentido e do respeito ao direito adquirido"9fl. 172, e-STJ).
+2. Conforme consignado na decisão agravada, o acórdão recorrido destoa da jurisprudência do Superior Tribunal de Justiça quanto à possibilidade de imposição de sanção disciplinar ao militar inativo quando prevista na legislação regente e à legitimidade da cassação da aposentadoria de policial militar da reserva remunerada quando excluído da corporação em face da prática de ato incompatível com sua função.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1.855.745/MS, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe16/12/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POLICIALMILITAR INATIVO. CRIME DE TORTURA. CONDENAÇÃO CRIMINAL. PERDA DO CARGO. ATO PRATICADO NA ATIVIDADE. EXCLUSÃO DO MILITAR DOSERVIÇO INATIVO. POSSIBILIDADE. PRECEDENTES DO STF E DO STJ. SÚMULA 83 DO STJ. AGRAVO NÃO REBATE O ÓBICE APONTADO NADECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182DO STJ. AGRAVO IMPROVIDO.
+1. O STF já se manifestou pela constitucionalidade da cassação da aposentadoria, a despeito do caráter contributivo de que se reveste o benefício previdenciário (MS 21.948/RJ, Rel. Min. Néri da Silveira; MS 23.219-AgR/R, Rel. Min. Eros Grau; STA n. 729AgR, Rel. Min. Ricardo Lewandowski), assim como esta Corte de Justiça: MS20.926/DF, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe14/9/2015; MS 20.444/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe11/3/2014.
+2. A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial obsta ao conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182do STJ, aplicável por analogia.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1732310/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CASSAÇÃO DEPROVENTOS DE POLICIAL MILITAR. POSSIBILIDADE.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. O Tribunal de origem consignou: "Esta Corte, majoritariamente, firmou o entendimento de que, inobstante o caráter contributivo de que se revestem os proventos da reforma, é, sim, aplicável a sua cassação, por ser inconcebível que um policial militar que deixa de observar os preceitos contidos no Regulamento Disciplinar da Polícia Militar, violando-o tão gravemente, ao ponto de levar à declaração de sua incompatibilidade para o oficialato da Polícia Militar, mantenha qualquer vínculo com a Administração Pública. (..) Ressalte-se que o então justificante, praticou o ato que resultou na decretação da perda de seu posto e patente quando ainda não havia sido reformado. (..) A fim de expurgar quaisquer dúvidas a respeito da possibilidade de cassação dos proventos da inatividade do militar, colacionam-se as recentes decisões do Pretório Excelso a respeito (..)". (fls. 304-305, e-STJ)
+3. Com efeito, a orientação jurisprudencial tanto do Supremo Tribunal Federal quanto do Superior Tribunal de Justiça admitem a aplicação da sanção disciplinar "cassação de aposentadoria" contra militares que, embora aposentados, tenham cometido faltas graves ainda em atividade.
+4. Agravo Interno não provido.
+(AgInt no RMS n. 59.454/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2019, DJe de 10/9/2019)
+Nesse aspecto, não observo haver direito manifesto, delimitado e apto a ser exercido. São os termos da jurisprudência:
+ADMINISTRATIVO. PRÓ-DF. CONCESSÃO DE DIREITO REAL DE USO. PRÉ-INDICAÇÃO DA ÁREA. CONCESSÃO ONEROSA. DIREITO LÍQUIDO E CERTO. AUSÊNCIA.
+1. (..).
+2. Conforme ensina Hely Lopes Meirelles (Mandado de Segurança, 35ª ed., São Paulo: Malheiros, 2013, p. 37), "direito líquido e certo é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa, se sua extensão ainda não estiver delimitada, se seu exercício depender de situações e fatos ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meios judiciais".
+3. (..).
+4. (..).
+5. (..).
+6. Agravo Regimental não provido.
+(AgRg nos EDcl no RMS 40.803/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/08/2015, DJe 10/09/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO NO MANDADO DE SEGURANÇA. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR.  .. .
+1. O rito do Mandado de Segurança demanda a comprovação initio litis do fatos em que se funda o direito líquido e certo invocado pelo impetrante.
+2. Ausência nos autos comprovação pré-constituída da violação a direito líquido e certo a ser amparo por writ.
+3. "O direito líquido e certo, para fins de mandado de segurança, é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração" (MEIRELLES, Hely Lopes. Mandado de Segurança. 28ª ed. São Paulo: Malheiros, 2005, págs. 36/37).
+4. (..).
+5. Agravo regimental não provido.
+(AgRg no RMS 30.427/PE, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 24/09/2013, DJe 30/09/2013).
+Ante o exposto, conheço do agravo interno para, em juízo de reconsideração, negar provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO. EFEITOS DA CONDENAÇÃO PENAL. PERDA DO CARGO. EXCLUSÃO DO IMPETRANTE AINDA NA ATIVA. CONSEQUENTE CASSAÇÃO DE APOSENTADORIA. POSSIBILIDADE. PRECEDENTE DO STJ. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, NEGAR PROVIMENTO AO RECURSO EM MANDADO DE SEGURANÇA.
