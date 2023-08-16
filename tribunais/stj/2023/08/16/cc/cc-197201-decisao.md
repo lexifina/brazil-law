@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante TCI BPO TECNOLOGIA, CONHECIMENTO E INFORMAÇÃO LTDA. - EM RECUPERAÇÃO JUDICIAL e ROBERTO CAMPOS MARINHO FILHO e suscitados o JUÍZO DA 9ª VARA CÍVEL DE MACEIÓ - AL e o JUÍZO DA 5ª VARA DO TRABALHO DE BRASÍLIA - DF.
+Ação em trâmite perante o juízo cível: recuperação judicial de TCI BPO - TECNOLOGIA, CONHECIMENTO E INFORMAÇÃO S/A e OUTRAS.
+Ação em trâmite perante o juízo trabalhista: reclamatória n. 0000708-46.2014.5.10.0005 ajuizada por FLÁVIO RIBEIRO ARAÚJO.
+Conflito de competência: alegam que "o crédito executado se trata de um crédito sujeito aos efeitos da recuperação judicial das devedoras principais, e por imposição legal e do plano homologado, não deve o Juízo perante o qual tramita o pleito executivo, determinar o prosseguimento da execução e/ou determinar a prática de atos constritivos em face dos sócios coobrigados solidários, contrariando direito expressamente disposto no plano" (e-STJ, fl. 14). Postulam o sobrestamento da ação trabalhista.
+Tutela antecipada: indeferida às fls. 153/154 e-STJ.
+Agravo interno: interposto pelos suscitantes às fls. 160/168 e-STJ, objetivando a reforma da decisão que indeferiu a liminar.
+Parecer do MPF: manifestou-se pela declaração da competência do juízo da recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+Observa-se que o plano de recuperação judicial da TCI BPO Tecnologia, Conhecimento e Informação S.A. e outras foi homologado e possui cláusula expressa que determina a extinção das ações, cujos créditos foram novados pelo plano (e-STJ, fl. 64).
+O Juízo Laboral, de sua vez, determinou o prosseguimento da execução, mediante a instauração do incidente de desconsideração da personalidade jurídica da empresa executada, a fim de atingir os bens dos sócios da recuperanda.
+Ocorre que o Superior Tribunal de Justiça assentou o entendimento de que "Compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contém cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022).
+Logo, merece ser acolhido o presente conflito de competência. Com efeito, como a decisão homologatória do plano acabou por obstar a execução contra a recuperanda e também seus sócios, compete ao juízo da recuperação judicial avaliar se a hipótese que subjaz ao presente incidente está contemplada pela referida cláusula protetiva, bem como se é cabível, no caso, a desconsideração requerida na Justiça Laboral.
+Deveras, mostra-se configurado a existência de decisões conflitantes entre os juízos suscitados, não tendo o Juízo Laboral, em princípio, competência para o redirecionamento da execução de crédito novado.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 9ª VARA CÍVEL DE MACEIÓ - AL, para decidir acerca da desconsideração da personalidade jurídica pleiteada nos autos da Reclamação Trabalhista n. 0000708-46.2014.5.10.0005, ajuizada por Flávio Ribeiro Araújo, em trâmite no Juízo da 5ª Vara do Trabalho de Brasília - DF. Julgo prejudicada a análise do agravo interno interposto contra a decisão liminar.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO LABORAL E JUÍZO DA RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. CLÁUSULA. CRÉDITO NOVADO. EXECUÇÃO CONTRA OS SÓCIOS. IMPEDIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELO JUÍZO LABORAL. CONFLITO. CARACTERIZAÇÃO.
+1. Nos termos da jurisprudência desta Corte, "compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contem cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022).
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 9ª VARA CÍVEL DE MACEIÓ - AL. Prejudicada a análise do agravo interno interposto contra a liminar.
