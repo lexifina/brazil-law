@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de OSMAN ALVES DE OLIVEIRA FILHO, contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+HABEAS CORPUS - PACIENTE DENUNCIADO PELA PRÁTICA DO DELITO DE ASSOCIAÇÃO CRIMINOSA PREVISTO NO ART. 288, DO CP - DENÚNCIA QUE NARRA A PRÁTICA DELITIVA ENTRE OS ANOS DE 2012 E 2014 - DE ACORDO COM A DENÚNCIA, O PACIENTE, CORONEL DA POLÍCIA MILITAR, ERA SUPERIOR HIERÁRQUICO DE ALDO HUMBERTO FERNANDES SANTOS, E SABIA DO ENVOLVIMENTO DO SUBORDINADO NAS ATIVIDADES ILÍCITAS DA ORGANIZAÇÃO CRIMINOSA, E TERIA RECEBIDO PARTE DOS LUCROS ADVINDOS DA PRÁTICA DOS CRIMES - PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA, SOB ALEGAÇÃO DE QUE TODA A ACUSAÇÃO ESTÁ CALCADA EM UM ÚNICO EVENTO, A SABER, A INTERCEPTAÇÃO TELEFÔNICA DE CONVERSA REALIZADA NO DIA 14.09.2012 - NÃO CABIMENTO - INSTRUÇÃO CRIMINAL NÃO ENCERRADA - AIJ DESIGNADA PARA O PRÓXIMO DIA 15.08.2023.
+1) Não se pode falar em evento único, ainda mais quando não encerrada a instrução criminal, visto que, além da interceptação telefônica, pode a acusação produzir, ainda, outras provas.
+2) Com os dados ora apresentados pela defesa, impossível o reconhecimento da prescrição da pretensão punitiva, visto que atrelado a toda produção probatória acerca da ocorrência do crime, inclusive, sobre a sua permanência até o ano de 2014.
+3) A denúncia não descreve a data final da permanência, mas o relatório final do inquérito explica que a associação perdurou até a saída do corréu Carlos Augusto, líder da associação, da chefia do GIC da 39ª DP, no dia 23.12.14. Assim, somente a instrução criminal poderá esclarecer isto. ORDEM DENEGADA. (e-STJ, fl. 7)
+Nesta instância, o impetrante busca a declaração de extinção da punibilidade do paciente em virtude do necessário reconhecimento da prescrição da pretensão punitiva. Sustenta que o réu foi denunciado pelo delito de associação criminosa (art. 288 do Código Penal) e que o único fato narrado ocorreu em 12/9/2012, já tendo transcorrido, portanto, o prazo prescricional de oito anos legalmente previsto. Afirma que não há elementos probatórios mínimos na denúncia para amparar a narrativa segundo a qual o delito foi praticado entre o período de setembro de 2012 até o ano de 2014, informação totalmente inverídica, segundo a defesa.
+Requer, liminarmente, a suspensão do andamento da Ação Penal n. 0102366-56.2016.8.19.0001. No mérito, pretende a concessão da ordem para que seja declarada a prescrição da pretensão punitiva, com a extinção da punibilidade do paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sobre a controvérsia, asseverou o Tribunal de Justiça:
+Alegou o impetrante, em síntese, que está sofrendo constrangimento ilegal por parte da autoridade coatora, vez que seu pedido de reconhecimento de extinção da punibilidade pela prescrição foi indeferido pelo Juízo de 1º grau.
+Vejamos. O paciente foi denunciado pela prática do delito previsto no art. 288, do CP. Narra a denúncia que:
+"Em data e hora não determinados, mas pelo menos entre os anos de 2012 e 2014, os denunciados, livres e conscientemente, em comunhão de desígnios e ações entre si e entre outros indivíduos ainda não identificados, associaram-se para o fim específico de cometer crimes, na comunidade conhecida como "Chapadão".
+Conforme apurado, os denunciados aproveitaram-se da ocupação por forças policiais da comunidade para, aproveitando-se do fato de serem agentes públicos, realizarem diversos crimes, principalmente crimes de extorsão.
+Ocorrido o encontro fortuito em interceptação telefônica, foi possível identificar e individualizar a conduta dos denunciados, conforme o que se segue:
+DAS CONDUTAS
+1. CARLOS AUGUSTO FERREIRA NOGUEIRA:
+Apurou-se que o denunciado, policial civil, era o líder da organização criminosa, responsável por descobrir informações sigilosas sobre possíveis alvos e repassá-las a seus comparsas. O denunciado, para tanto, fazia-se valer de seu cargo na 39a Delegacia de Polícia, como chefe do GIC.
+2. ALDO HUMBERTO FERNANDES SANTOS:
+O denunciado, bombeiro militar, realizavam as atividades criminosas, sendo responsável por ir até o endereço dos possíveis alvos. É certo ainda, que o denunciado usurpava o exercício de função pública, atuando como se fosse policial civil lotado na 39ª Delegacia de Polícia.
+3. EVANDRO SILVA SANTOS:
+O denunciado, bombeiro militar, realizavam as atividades criminosas, sendo responsável por ir até o endereço dos possíveis alvos. É certo ainda, que o denunciado usurpava o exercício de função pública, atuando como se fosse policial civil lotado na 39ª Delegacia de Polícia.
+4. OSMAN ALVES DE OLIVEIRA FILHO:
+O denunciado, coronel da Polícia Militar, era superior hierárquico de Aldo Humberto Fernandes Santos, e sabia do envolvimento do subordinado nas atividades ilícitas da organização criminosa, sendo certo ainda que recebia parte dos lucros advindos da prática dos crimes;
+Assim agindo, estão os denunciados:
+1. CARLOS AUGUSTO FERREIRA NOGUEIRA, incurso nas sanções do Artigo 288 do Código Penal.
+2. ALDO HUMBERTO FERNANDES SANTOS, incurso nas sanções do Artigo 288 e do Artigo 328, na forma do Artigo 69, todos do Código Penal.
+3. EVANDRO SILVA SANTOS, incurso nas sanções do Artigo 288 e do Artigo 328, na forma do Artigo 69, todos do Código Penal. 4. OSMAN ALVES DE OLIVEIRA Fumo, incurso nas sanções do Artigo 288 do Código Penal.
+(Doc. 05 - Anexo 1)
+Ao apreciar o pleito defensivo de reconhecimento da prescrição da pretensão punitiva, o Juízo de 1º grau indeferiu o pedido em decisão de seguinte teor:
+1) Trata-se de requerimento da prescrição pela defesa de Aldo Humberto Fernandes Santos e Osman Alves de Oliveira Filho, às fls.891/893.
+O Ministério Público manifestou-se contrariamente ao pleito às fls.920.
+Assiste razão ao Parquet. Há indícios suficientes para o prosseguimento do feito. O requerimento deve ser analisado com o fim da instrução criminal;
+2) Designo AIJ para o dia 15/08/2023 às 14:50 h;
+3) Requisitem-se e/ou intimem-se o acusado e as testemunhas arroladas pelas partes;
+4) Dê-se ciência ao Ministério Público e à defesa técnica.
+(Doc. 24 - Anexo 1 - Grifos nossos).
+Ora, em que pese a argumentação da combativa defesa, razão não lhe assiste.
+Conforme se extrai da própria denúncia: "Em data e hora não determinados, mas pelo menos entre os anos de 2012 e 2014, os denunciados, livres e conscientemente, em comunhão de desígnios e ações entre si e entre outros indivíduos ainda não identificados, associaram-se para o fim específico de cometer crimes, na comunidade conhecida como "Chapadão".
+Assim, não se pode falar em evento único, ainda mais quando não encerrada a instrução criminal, visto que, além da interceptação telefônica, pode a acusação produzir, ainda, outras provas.
+Na manifestação do Ministério Público que precedeu a decisão vergastada pontuou o Promotor de Justiça:
+"Infundados são os argumentos apresentados pelos réus às fls. 891/893. Com efeito, os indícios apresentados na fase investigativa são suficientes para justificar o prosseguimento do feito, embora se saiba que as questões de mérito serão melhor analisadas ao fim da instrução probatória. Ante o exposto, opina o MP pela designação de nova data para AIJ". (Item 920 dos autos originários).
+Extrai-se dos autos que há audiência de instrução criminal designada para o próximo dia 15.08.2023, momento em que pode ocorrer o encerramento da instrução criminal e, aí sim, munido de mais elementos probatórios poderá o Juízo de 1º grau melhor apreciar a tese defensiva.
+Certo é que, com os dados ora apresentados pela defesa, impossível o reconhecimento da prescrição da pretensão punitiva, visto que atrelado a toda produção probatória acerca da ocorrência do crime, inclusive, sobre a sua permanência até o ano de 2014.
+Outrossim, conforme pontuado pela Procuradoria de Justiça, em parecer da lavra da Dra. Silvana Gonzalez de Fabritis, a pena máxima prevista para o crime que se apura é de 3 anos de reclusão, de modo que a prescrição ocorre após o transcurso do prazo de 8 anos, nos termos do inciso IV do art. 109 do Código Penal. O crime de associação criminosa é permanente e, de acordo com o disposto no inciso III do art. 111 do Código Penal, o termo inicial da prescrição é o dia em que cessar a permanência. A denúncia não descreve a data final da permanência, mas o relatório final do inquérito explica que a associação perdurou até a saída do corréu Carlos Augusto, líder da associação, da chefia do GIC da 39ª DP, no dia 23.12.14.
+Dispõe o Relatório Final do Inquérito da Polícia Civil nesta parte:
+"Todavia, quanto ao crime previsto no artigo 288, formal, a prova colhida indica que os indiciados Carlos Augusro, Aldo, Evandro e Osman, em comunhão de desígnios estavam associados de maneira estável para praticararem de forma livre e consciente crimes na Comunidade do Chapadão. A associação sem dúvidas esteve presente no ano de 2012, ano da interceptação, podendo ter perdurado até 2014, período no qual Carlos Augusto Ferreira esteve como chefe do GIC da 39ª DP (de 31/10/2011 até 23/12/2014, como consta às fls 53)." (Item 119 - Fls. 05, dos autos originários - Grifos nossos).
+Neste cenário, acolho o parecer da Procuradoria de Justiça e voto pela DENEGAÇÃO DA ORDEM, na forma da fundamentação retro. (e-STJ, fls. 9-13, grifou-se)
+Sem razão a defesa.
+Conforme ressaltado pela Corte estadual, há narrativa no sentido de que a associação criminosa perdurou, no mínimo, entre os anos de 2012 e 2014. Inviável, assim, o acolhimento prematuro da tese defensiva segundo a qual o delito teria ocorrido apenas em 12/9/2012 e por tal razão estaria a pretensão punitiva do Estado está prescrita. Ressalte-se que o crime do artigo 288 do Código Penal é necessariamente um ilícito permanente, que não se confunde com o mero concurso eventual de pessoas.
+Nesse ínterim, tem-se que a versão defensiva aponta, na verdade, para suposta insuficiência de provas no tocante à caracterização do crime de associação criminosa, pleito este que depende invariavelmente do exame das provas existentes e daquelas a serem produzidas durante a instrução processual. Frise-se que a primeira audiência do feito está designada para o dia 15/8/2023.
+Imperioso frisar, nesse ponto, que a tarefa de realizar aprofundado exame de conteúdo fático-probatório é reservado ao Juízo processante, que julgará a procedência ou não da acusação proposta, verificando, por exemplo, se há elementos probatórios suficientes para sustentar a permanência da associação criminosa no lapso temporal indicado pelo Ministério Público. Por ora, são suficientes os elementos dos autos para fins de dar início à persecução penal.
+Nesse contexto, há narrativa coerente a respeito da infração permanente praticada pelo paciente - entre 2012 e 2014 - motivo pelo qual não há como acolher a tese defensiva de extinção da punibilidade por prescrição da pretensão punitiva.
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
