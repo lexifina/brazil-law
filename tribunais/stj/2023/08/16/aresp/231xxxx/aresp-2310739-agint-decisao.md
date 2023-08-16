@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DE MATO GROSSO contra a decisão de minha relatoria assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. DIFERENÇAS ENTRE A BASE DE CÁLCULO EFETIVA E A BASE DE CÁLCULO PRESUMIDA. ART. 166 DO CTN. INAPLICABILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+No agravo interno, o Estado pleiteia o provimento do recurso para que seja suspenso o trâmite processual até o julgamento final do Tema n. 1.191/STJ.
+Houve impugnação (e-STJ fls. 418/432).
+Passo a decidir.
+Na sessão virtual de julgamento iniciada em 29/03/2023 e finalizada em 04/04/2023, a Primeira Seção do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps n. 2.034.975/MG, 2.034.977/MG e 2.035.550/MG, em que discutida a "necessidade de observância, ou não, do que dispõe o art. 166 do CTN nas situações em que se pleiteia a restituição/compensação de valores pagos a maior a título de ICMS no regime de substituição tributária para frente quando a base de cálculo efetiva da operação for inferior à presumida" - Tema n. 1.191 do STJ.
+Na ocasião, houve a determinação de suspensão dos processos com recurso especial e/ou agravo em recurso especial, em tramitação na segunda instância e/ou no STJ, em que a matéria estivesse sendo discutida.
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, em juízo de retratação, reconsidero a decisão de e-STJ fls. 397/400, tornando-a sem efeitos para determinar a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
