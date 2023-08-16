@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.507):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. RECURSO HIERÁRQUICO AO PRESIDENTE DA REPÚBLICA. POSSIBILIDADE. ART. 56 DA LEI 9.784/1999. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A controvérsia consiste em saber se cabe recurso hierárquico dirigido ao Presidente da República contra ato administrativo praticado por autoridade delegada, nos termos do Decreto 3.035/1999, que aplicou pena de demissão ao impetrante no seio de Processo Administrativo Disciplinar.
+2. O art. 141, I, da Lei 8.112/1990 estabelece que as penalidades disciplinares serão aplicadas "pelo Presidente da República, pelos Presidentes das Casas do Poder Legislativo e dos Tribunais Federais e pelo Procurador-Geral da República, quando se tratar de demissão e cassação de aposentadoria ou disponibilidade de servidor vinculado ao respectivo Poder, órgão, ou entidade".
+3. Por força do art. 84, IV, "a" e parágrafo único, da Constituição Federal, foi editado o Decreto 3.035/1999, por meio do qual o Presidente da República delegou aos Ministros de Estado e ao Advogado-Geral da União a atribuição de julgar Processos Administrativos Disciplinares e aplicar penalidades aos servidores públicos a eles vinculados, nas hipóteses de demissão e cassação de aposentadoria ou disponibilidade.
+4. Esta Corte Superior possui orientação pacífica de que, ao tratar da delegação, a Lei 9.784/1999 não estabeleceu nenhuma ressalva quanto à impossibilidade de recurso hierárquico, razão pela qual é aplicável o que dispõe o art. 56 desse diploma legal. Ou seja, não há óbice para a interposição de recurso hierárquico à autoridade delegante porque, embora mediante delegação, a decisão foi tomada pelo delegado no exercício das suas competências administrativas.
+5. Além disso, o Decreto 3.035, de 27 de abril de 1999, não estabeleceu nenhuma vedação à possibilidade de interposição de recurso hierárquico, razão pela qual devem prevalecer as disposições legais que possibilitam a interposição do recurso administrativo. Nesse sentido: AgInt no MS 24.448/DF, Rel. Min. Manoel Erhardt - Desembargador convocado do TRF5 - Primeira Seção, DJe 31.3.2022; MS 17.449/DF, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 1.10.2019; e MS 10.222/DF, Rel. Min. Laurita Vaz, Terceira Seção, DJe 1.2.2010.
+6. Agravo Interno não provido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 37, caput, 84, II, IV, VI e parágrafo único, e 87, I e IV, da CF e aduz que há repercussão geral da matéria tratada.
+Alega que a autoridade coatora agiu em conformidade com a competência que lhe foi delegada pelo Decreto n. 3.035/1999, cuja validade teria sido atestada pelo Supremo Tribunal Federal, sem qualquer condicionante de validade.
+Dessa forma, entende que permitir a interposição de recurso hierárquico das decisões proferidas no âmbito da competência delegada seria desvirtuar o próprio instituto, que perderia seus efeitos práticos, além de ofender o princípio da eficiência que não seria observado.
+Assevera, outrossim, a inexistência da previsão de duplo grau de jurisdição na esfera administrativa.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.585-1.593.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão do cabimento ou não de recurso hierárquico dirigido ao Presidente da República contra ato administrativo praticado por autoridade delegada, estando o acórdão recorrido assim fundamentado (fls. 1.514-1.515):
+O art. 141, I, da Lei 8.112/1990 estabelece que as penalidades disciplinares serão aplicadas "pelo Presidente da República, pelos Presidentes das Casas do Poder Legislativo e dos Tribunais Federais e pelo Procurador-Geral da República, quando se tratar de demissão e cassação de aposentadoria ou disponibilidade de servidor vinculado ao respectivo Poder, órgão, ou entidade".
+Por força do art. 84, IV, "a" e parágrafo único, da CF, foi editado o Decreto 3.035/1999, por meio do qual o Presidente da República delegou aos Ministros de Estado e ao Advogado-Geral da União a atribuição de julgar Processos Administrativos Disciplinares e aplicar penalidades aos servidores públicos a eles vinculados, nas hipóteses de demissão e cassação de aposentadoria ou disponibilidade.
+Esta Corte Superior possui orientação pacífica de que, ao tratar da delegação, a Lei 9.784/1999 não estabeleceu nenhuma ressalva quanto à impossibilidade de recurso hierárquico, razão pela qual é aplicável o que dispõe o art. 56 desse diploma legal. Ou seja, não há óbice para a interposição de recurso hierárquico à autoridade delegante porque, embora mediante delegação, a decisão foi tomada pelo delegado no exercício das suas competências administrativas.
+Além disso, o Decreto 3.035, de 27 de abril de 1999, não estabeleceu nenhuma vedação à possibilidade de interposição de recurso hierárquico, razão pela qual devem prevalecer as disposições legais que possibilitam a interposição do recurso administrativo.
+Nesse sentido:
+ ..
+No caso em questão, verifica-se a ocorrência de ato ilegal praticado pelo Ministro de Estado, na medida em que indeferiu o processamento do recurso hierárquico. Deve ser mantida a decisão monocrática que concedeu a ordem.
+Desse modo, a análise da matéria ventilada depende do exame do art. 56 da Lei n. 9.784/1999, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante, assim já decidiu a Suprema Corte, a propósito:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. SANÇÃO. APLICAÇÃO PELO CONTROLADOR-GERAL DO DISTRITO FEDERAL. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário não se presta à análise de matéria infraconstitucional.
+2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.
+(ARE n. 1.360.588 AgR, relator Ministro Luiz Fux (Presidente), Tribunal Pleno, julgado em 2/3/2022, DJe de 24/3/2022.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENA DE DEMISSÃO. ATO PRATICADO POR MINISTRO DE ESTADO DELEGATÁRIO DO PRESIDENTE DA REPÚBLICA. RECURSO HIERÁRQUICO. CABIMENTO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
