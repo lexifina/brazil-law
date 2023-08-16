@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA JANIELE BATISTA DA SILVA SIQUEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 158):
+Apelação. Ação declaratória de inexigibilidade do débito c/c obrigação de fazer e indenização por danos morais. Débito prescrito incluído na plataforma "Serasa Limpa Nome". Prescrição que impede a cobrança judicial da dívida. Portal de renegociação de dívida que não equivale à inclusão n o cadastro de inadimplentes. Ausência de dano moral indenizável. Precedentes. Improcedência da ação mantida. Recurso improvido.
+Sem embargos de declaração.
+No recurso especial, alega a recorrente ofensa aos arts. 189 do Código Civil e 14 do Código de Defesa do Consumidor, ao defender a improcedência do Tribunal de origem ao entender que ela não sofreu dano moral no caso dos autos, quando os fatos reconhecidos no acórdão demonstram, por si só, que a agravante sofreu dano moral reparável. Aduz que o fornecedor de serviço responde, objetivamente, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação do serviço.
+Aponta divergência jurisprudencial com arestos desta corte.
+Sem contrarrazões ao recurso especial (fl. 185).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 186-188), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 256 ).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender que não ficou configurado dano moral reparável, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 159-160):
+Trata-se de ação declaratória de inexigibilidade de débito c/c obrigação de fazer e indenização por danos morais, em que a autora discute a cobrança indevida de dívidas inseridas no portal "Serasa Limpa Nome", com vencimentos em 20/09/20215 e 28/12/2016, relativa a débito oriundo de contratos de nº 72189767981816152015e 72189767099999012016 celebrados entre a autora e a empresa ré.
+No entanto, no caso concreto não é possível a declaração judicial de inexigibilidade da dívida pretendida pela autora, porque, consoante o art. 189 do Código Civil, a prescrição extingue tão somente o direito de propor ação judicial para cobrança da dívida, mas não a existência do débito em si.
+Logo, persiste a obrigação do devedor em adimplir, fazendo-se desnecessária a declaração da inexigibilidade da dívida, "pois, se de fato prescrita, tal fato decorre "ex lege", e pode ser oposta em face de qualquer ato de cobrança efetuado pelo credor"1. Assim sendo, inexiste óbice para a manutenção dos registros na plataforma.
+No mais, prevalece nesta C. Câmara o entendimento deque o portal "Serasa Limpa Nome" disponibiliza tão somente informações ao consumidor sobre renegociações de dívidas, mediante login e senha, e não se confunde com cadastros de inadimplentes mantidos por órgãos de proteção ao crédito, nos quais de fato há a publicidade da informação a terceiros e gera restrições de crédito.
+Assim, a inclusão de dívidas prescritas nessa plataforma eletrônica não configura ato atentatório contra a dignidade da autora e não gera o dever de reparação por danos morais.
+(..)
+E sendo assim, não restando comprovado nos autos que a autora foi cobrada de forma abusiva ou vexatória, ou então que houve restrição de crédito ou efetiva diminuição do score em razão das dívidas aqui questionadas, deve ser mantida r. sentença apelada.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca de fatos e provas. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.791/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
