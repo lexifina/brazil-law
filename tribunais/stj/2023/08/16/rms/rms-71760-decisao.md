@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por RCI BRASIL - PRESTAÇÃO DE SERVIÇOS DE INTERCÂMBIO LTDA, com fundamento no art. 105, II, da Constituição Federal, contra acórdão assim ementado:
+: MANDADO DE SEGURANÇA. MULTA ADMINISTRAÇÃO APLICADA PELO PROCON. LEGALIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. O Procon detém competência para instaurar processo administrativo e aplicar sanções administrativas por inobservância de direitos dos consumidores, não se vislumbrando irregularidade na condução do procedimento administrativo que culminou na multa impugnada.
+2. Inexiste nulidade ou desproporcionalidade da multa aplicada, tendo sido observados os critérios legais, bem como os princípios da razoabilidade e da proporcionalidade.
+SEGURANÇA DENEGADA.
+No presente recurso ordinário, o recorrente RCI BRASIL - PRESTAÇÃO DE SERVIÇOS DE INTERCÂMBIO LTDA se acha possuidor do direito líquido e certo em face, segundo ele, de atos manifestamente ilegais, abusivos e violadores, praticados pelos Superintendentes do Procon Goiás, no uso de suas atribuições na Superintendência de Proteção aos Direitos do Consumidor de Goiás.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O mandado de segurança possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido. Nesse sentido: AgInt no RMS n. 34.203/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 6/2/2018, DJe 16/2/2018 e AgInt no RMS n. 48.586/TO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+O Tribunal a quo assim se manifestou no que tange ao mandado de segurança impetrado (fls. 573 a 577):
+Nesse norte, constata-se que foi devidamente observado o devido processo legal na via administrativa (evento 1 - pags. 34/40 e 44/49), especialmente considerando que foram devidamente motivados os critérios de fixação da penalidade, dentre os quais a gravidade da infração, a vantagem auferida, a condição econômica do fornecedor, agravantes e atenuantes, inclusive a ausência de reparação do prejuízo ao tempo de prolação da decisão administrativa, em 10/03/2020. Isso porque além de a reparação do prejuízo não ter sido espontânea, mas decorrente de cumprimento de sentença judicial, foi realizado por outra devedora solidária, Cia Thermas do Rio Quente, em 25/11/2020, não podendo a impetrante se beneficiar da atenuante de "minimização da lesão", especialmente porque a própria demanda judicial representa enorme desgaste para o consumidor.
+Desse modo, entendeu o órgão administrativo julgador que as provas colacionadas ao processo administrativo foram suficientes para comprovar o descumprimento da legislação consumerista.
+Portanto, inexiste ilegalidade na multa aplicada de forma fundamentada, consoante critérios objetivos e observada a dosimetria estabelecida no Código de Defesa do Consumidor, bem como os princípios da proporcionalidade e razoabilidade.
+Feitas essas considerações, impõe-se a denegação da segurança, na medida em que não se vislumbra ilegalidade ou desproporcionalidade na aplicação da multa administrativa, ora impugnada.
+Da leitura do trecho colacionado, observa-se que o Tribunal a quo assentou expressamente que o impetrante não firmou suas pretensões com base em prova pré-constituída, restando, dessa forma, configurado a ausência de direito líquido e certo da demanda.
+Dessa forma, não havendo nos autos prova documental capaz de comprovar o direito do impetrante, é de rigor a manutenção do acórdão recorrido.
+Confira-se decisões desta Corte a respeito do tema:
+ADMINISTRATIVO. ANISTIA. PORTARIA DE CONCESSÃO DE ANISTIA ANULADA. AUSÊNCIA DE COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. MANDADO DE SEGURANÇA MANIFESTAMENTE INADMISSÍVEL. ORDEM DENEGADA.
+(..)
+IV - As alegações da parte agravante somente ratificam a decisão recorrida, porquanto se não foi comprovado, no momento da impetração do mandado de segurança, o direito líquido e certo, deve ser denegada a ordem. O Mandado de Segurança exige demonstração inequívoca, mediante prova pré-constituída, do direito líquido e certo invocado. Não se admite, portanto, dilação probatória, ficando a cargo do impetrante juntar, aos autos, a documentação necessária ao apoio de sua pretensão, como é amplamente apregoado pelas lições da doutrina jurídica e pela jurisprudência dos Tribunais.
+(..)
+VIII - Agravo interno improvido.
+(AgInt no MS 23205 / DF, 2017/0020151-8, Relator Ministro Francisco Falcão, T2- SEGUNDA TURMA, julgado em 13/09/2017, DJe 19/09/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. POLÍCIA MILITAR. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADICIONAL DE PERICULOSIDADE. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO.
+1. O Mandado de Segurança exige prova pré-constituída como condição essencial à verificação do direito líquido e certo, de modo que a dilação probatória mostra-se incompatível com a natureza dessa ação constitucional. Não é o meio processual adequado para provar um fato.
+2. Hipótese em que o ora recorrente pretende provar que há locais perigosos onde exerce suas atividades, para fins de recebimento do adicional correspondente. Tanto que busca a elaboração de laudos. Assim, os fatos se apresentam controvertidos, não autorizando a impetração do Mandado de Segurança.
+3. Recurso Ordinário em Mandado de Segurança não provido. (RMS 53485 / BA, 2017/0049381-5, Relator Ministro Herman Benjamin, T2- SEGUNDA TURMA, julgado em 17/08/2017, DJe 13/09/2017.)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se
