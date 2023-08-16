@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ALFA TRANSPORTES EIRELI contra a decisão de fls. 1.114-1.116 (e-STJ), da Presidência desta Corte, que não conheceu do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão de admissibilidade.
+O apelo extremo foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fls. 783-784, e-STJ, grifos no original):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. COLISÃO EM RODOVIA. INVASÃO DE CONTRAMÃO. MORTE DE FAMILIAR.
+1. DEFERIDA A GRATUIDADE DA JUSTIÇA PARA A VIÚVA, DIANTE DAS CONSEQUÊNCIAS MATERIAIS E PESSOAIS DO INFORTUNÍSTICO EM TELA, MATERIALIZADAS NA SENTENÇA RECORRIDA.
+2. EVIDENCIADA A CULPA DO MOTORISTA RÉU, CONDUTOR DO CAMINHÃO, PARA A OCORRÊNCIA DO ACIDENTE DE TRÂNSITO SUB JUDICE, DIANTE DA INVASÃO INJUSTIFICADA DA CONTRAMÃO, OBSTRUINDO A CORRENTE NORMAL DE TRÁFEGO E CAUSANDO A COLISÃO COM O AUTOMÓVEL VW/GOL EM QUE TRAFEGAVAM AS VÍTIMAS, TENDO UMA DELAS FALECIDO NO LOCAL. NESTA TOADA, ESTÁ EVIDENCIADA TAMBÉM A RESPONSABILIDADE DA PROPRIETÁRIA DO CAMINHÃO CAUSADOR DO ACIDENTE PELA REPARAÇÃO DOS DANOS CAUSADOS AOS AUTORES. DEVER DE REPARAÇÃO RECONHECIDO NA SENTENÇA MANTIDO.
+3 . DANOS MATERIAIS. A SENTENÇA RECORRIDA POSTERGOU A APURAÇÃO DO QUANTUM INDENIZATÓRIO PARA A LIQUIDAÇÃO DE SENTENÇA, SENDO DESCABIDA A INSURGÊNCIA DOS RÉUS-APELANTES NO PONTO. AS DESPESAS COM DESLOCAMENTO E HOSPEDAGEM DOS AUTORES, FILHOS DO DE CUJUS, QUE RESIDIAM EM OUTRO PAÍS E PRECISARAM VIR AO BRASIL, EMERGENCIALMENTE, E QUE ESTÃO COMPROVADAS NOS AUTOS,DEVEM SER INCLUÍDAS NA CONDENAÇÃO PELOS DANOS MATERIAIS, POIS GUARDAM RELAÇÃO DIRETA COM O EVENTO DANOSO.
+4 . PENSIONAMENTO POR MORTE. NO CASO, O PENSIONAMENTO MENSAL É DEVIDO À VIÚVA, CÔNJUGE DO DE CUJUS. FIXAÇÃO DO PENSIONAMENTO EM 2/3 DO SALÁRIO MÍNIMO NACIONAL, POIS AUSENTE COMPROVAÇÃO DOS RENDIMENTOS DA VÍTIMA.
+5 . DANO MORAL. É IN RE IPSA O DANO MORAL SOFRIDO PELOS AUTORES, PELA MORTE DO MARIDO E PAI NO ACIDENTE DE TRÂNSITO SUB JUDICE. ADEMAIS, A VIÚVA TAMBÉM ESTAVA NO VEÍCULO SINISTRADO, TENDO SOFRIDO GRAVES LESÕES CORPORAIS, QUE LHE CAUSARAM DEBILIDADE PERMANENTE NA FUNÇÃO DEAMBULATÓRIA, NECESSITANDO DE CADEIRA DE RODAS. QUANTUM INDENIZATÓRIO FIXADO EM CONFORMIDADE COM AS PECULIARIDADES DA LIDE E COM OS PRECEDENTES DESTA CORTE.
+6. OS JUROS DE MORA SÃO DE 1% AO MÊS.
+7. PREQUESTIONAMENTO. ACÓRDÃO FUNDAMENTADO. DESNECESSIDADE DE ENFRENTAMENTO DE TODOS OS DISPOSITIVOSLEGAIS APONTADOS PELOS RÉUS-APELANTES.
+8. ÔNUS DA SUCUMBÊNCIA INALTERADO.
+APELAÇÃO DOS RÉUS PARCIALMENTE PROVIDA.
+RECURSO ADESIVO DOS AUTORES PROVIDO.
+Nas razões do recurso especial (fls. 830-846, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 99, § 6º e 1.005, parágrafo único, do Código de Processo Civil de 2015.
+Sustentou, em suma que:
+(i) o recurso adesivo interposto pelos filhos da vítima encontra-se deserto, uma vez que ausente o pagamento de custas, bem como que a gratuidade de justiça deferida à mãe, também vítima do acidente, não lhes pode ser estendido, motivo pelo qual ele não deve ser conhecido;
+(ii) o índice de correção monetária a ser utilizado para atualizar o valor da indenização que lhe foi imposta deve ser o IPCA, conforme decidido pelo Supremo Tribunal Federal, no Tema, 810, e não o IGPM, como determinado pelo Tribunal de origem.
+Em juízo de admissibilidade (fls. 1.059-1.064, e-STJ), a corte de origem negou o processamento do recurso pelos seguintes fundamentos: a) aplicação das Súmulas 282 e 356/STF, em virtude da ausência de prequestionamento dos artigos de lei tidos por violados; b) incidência da Súmula 83/STJ, haja vista o acórdão recorrido encontrar-se em harmonia com a jurisprudência desta Corte, a obstar a análise do recurso por ambas as alíneas do permissivo constitucional; e c) aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido, óbice que igualmente prejudicou a análise da divergência jurisprudencial apontada.
+Irresignada (fls. 1.080-1.096, e-STJ), aduziu a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 1.106-1.107 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, a Presidência desta Corte, por decisão monocrática, não conheceu do agravo em recurso especial (e-STJ, fls. 1.114-1.116), uma vez que a recorrente não impugnou todos os fundamentos da decisão de inadmissibilidade, em desrespeito ao preconizado no art. 932, III, do CPC/2015, ensejando a aplicação da Súmula n. 182/STJ.
+Neste agravo interno (e-STJ, fls. 1.119-1.126), defende a insurgente a inaplicabilidade do óbice apontado para o não conhecimento do agravo em recurso especial, afirmando ter impugnado todos os fundamentos da decisão de inadmissibilidade no agravo apresentado.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Impugnação às fls. 1.128-1.129 (e-STJ).
+Brevemente relatado, decido.
+No caso, observa-se que a decisão do TJRS que negou seguimento ao recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegada afronta aos arts. 99 e 1.005 do Código de Processo Civil de 2015, constata-se que o conteúdo dos citados normativos não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas nele contido, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, nestes termos:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada,
+na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos
+embargos declaratórios, não pode ser objeto de recurso extraordinário, por
+faltar o requisito de prequestionamento.
+Dito isto, cumpre destacar que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado.
+Assim, é imprescindível a indicação do dispositivo tido como objeto da divergência jurisprudencial para a correta configuração do dissídio, nos termos do art. 105, III, c, da Constituição Federal.
+Contudo, no presente reclamo não foi apontado qual artigo de lei federal teria sido objeto de interpretação divergente (alínea c) nem foi comprovada a notória divergência em relação à alegação de que o índice de correção monetária incidente sobre os valores devidos deveria observar o IPCA e não o IGPM, como decidido pelo Tribunal de origem.
+Assim, a ausência desses pressupostos essenciais não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida. Dessa forma, é de rigor a incidência da Súmula 284 do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula nº 284 do STF.
+3. O conhecimento do recurso especial pela alínea c do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF. Precedentes.
+(..)
+5. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Agravo interno não provido (AgInt no AREsp n. 1.960.286/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/2/2022, sem grifos no original).
+Diante do exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE ACIDENTE DE TRÃNSITO. MORTE DE FAMILIAR. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO. ARTIGOS DE LEI TIDOS POR VIOLADOS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI CUJA INTERPRETAÇÃO TENHA SIDO DIVERGENTE DA JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
