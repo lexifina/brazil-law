@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PARECER DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE CARÁTER VINCULATIVO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Não basta deduzir a inaplicabilidade do óbice sumular, no qual a Súmula 284/STF, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+III - A defesa, em relação ao óbice da Súmula 282/STF, deveria ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+IV - O pronunciamento da Procuradoria da República, na qualidade de custos legis, não vincula o julgador, pois a manifestação do Ministério Público, traduzida em parecer, embora de grande valia, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ CARLOS DE SOUSA REGO contra a decisão de fls. 1493-1495, por meio da qual o agravo em recurso especial deixou de ser conhecido.
+Consoante se extrai dos autos, o eg. Tribunal a quo deu provimento à apelação ministerial, por unanimidade, para condenar o agravante nas iras do artigo 299 do Código Penal, à pena de 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, e ao pagamento de 200 (duzentos) dias-multa, sendo substituída à pena corporal por restritiva de direitos (fls. 936-954).
+Interposto recurso especial, alegou-se violação aos artigos: i) 619 do Código Processo Penal, ao não esclarecer obscuridade e omissão devidamente arguida nos embargos de opostos tempestivamente; ii) 299 e 386, inciso III, ambos do Código Processo Penal, ao argumento de que a conduta do insurgente é atípica; iii) 59 do Código Penal, pois a fundamentação que delineia as circunstâncias judicias é inidônea. Além disso, aponta divergência jurisprudencial.
+O apelo foi inadmitido ante aos óbices das Súmulas 284 e 282, ambas do STF.
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido, pois a Defesa não impugnou especificamente os fundamentos da decisão de inadmissão do apelo nobre.
+No regimental (fls. 1.506-1.562), sustenta a Defesa que os verbetes sumulares restaram plena e satisfatoriamente impugnados nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. Além disso, repisou as razões do apelo nobre.
+Alega que tanto o Ministério Público do Estado da Paraíba, quanto o Ministério Público Federal, manifestaram-se a favor do conhecimento do agravo em recurso especial, ainda que parcialmente, nos termos do parecer ministerial. E mais o MPF opinou pelo parcial provimento do recurso especial, com relação ao art. 59 do Código Penal, eis que entendeu que apenas duas (circunstâncias e consequências do crime) das cinco circunstâncias do crime valoradas negativamente possuem elementos concretos presentes nos autos.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PARECER DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE CARÁTER VINCULATIVO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Não basta deduzir a inaplicabilidade do óbice sumular, no qual a Súmula 284/STF, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+III - A defesa, em relação ao óbice da Súmula 282/STF, deveria ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+IV - O pronunciamento da Procuradoria da República, na qualidade de custos legis, não vincula o julgador, pois a manifestação do Ministério Público, traduzida em parecer, embora de grande valia, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados os fundamentos empregados pela eg. Corte de origem para inadmitir o recurso.
+Como consignado na decisão atacada, não basta deduzir a inaplicabilidade da Súmula 284/STF, mas deve ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+E mais, no tocante a Súmula 282 do STF, deveria a Defesa ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+No caso, o agravante, à fl. 1287, limitou-se a afirmar que: " ..  para a interposição de Recurso de natureza Especial e Extraordinária, a tese jurídica, bem como a razão de ser do recurso, devem ficar bem delineadas, sob penas de não conhecimento nas instâncias superiores. Neste sentido, tem-se que a matéria em questão fora explicitamente prequestionada. Isto porque, o referido Acórdão analisa o mencionado dispositivo legal (art. 299 do CP e art. 386, III do CPP) ao julgar pela procedência do Recurso de Apelação interposto pelo parquet estadual, reformando assim a sentença de 1º grau para condenar o ora agravante".
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Com efeito, "Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ" (AgRg no AREsp n. 2.083.475/MA, Quinta Turma, Rel. Min. Ministro Jorge Mussi, DJe de 10/10/2022).
+Por derradeiro, cumpre destacar que o pronunciamento da Procuradoria da República, na qualidade de custos legis, não vincula o julgador, pois a manifestação do Ministério Público, traduzida em parecer, embora de grande valia, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador. A propósito: AgRg no AREsp n. 2.321.950/MG, Quinta Turma, de minha relatoria, DJe de 16/6/2023.
+Em reforço:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PARECER OPINATIVO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE VINCULAÇÃO INDEPENDÊNCIA JUDICIAL. MUDANÇA DE DOMICÍLIO. AUSÊNCIA DE INFORMAÇÃO AO JUÍZO DE ORIGEM. REVELIA. NULIDADE. NÃO OCORRÊNCIA. ART. 367 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O parecer opinativo do Ministério Público Federal nesta Corte Superior não vincula o provimento jurisdicional a ser proferido, sob pena de se negar a independência judicial. Ademais, conforme a jurisprudência pacífica do Supremo Tribunal Federal, é constitucional o art 385 do Código de Processo Penal, que autoriza o juiz a proferir decisão condenatória contra pedido do órgão acusador (HC n. 185.633SP, Rel. Ministro EDSON FACHIN, Segunda Turma, julgado em 24/02/2021), disposição que se aplica, mutatis mutandis, à rejeição das alegações nulidade do Parquet.
+ ..
+5. Agravo regimental desprovido" (AgRg no AgRg no AREsp n. 2.079.875/PR, Sexta Turma, Relª . Minª. Laurita Vaz, DJe de 12/8/2022).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
