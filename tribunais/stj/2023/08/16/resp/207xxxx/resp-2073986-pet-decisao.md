@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de pedido de concessão de tutela de urgência cautelar, objetivando a atribuição de efeito suspensivo a recurso especial.
+Aduz a parte requerente, em síntese, que estaria caracterizado o requisito do fumus bonis iuris, porquanto "houve equívoco na aplicação da norma do artigo 7º, § único e 14º do Código de Defesa do Consumidor para afastar a ilegitimidade passiva da requerida" (fl. 1.152).
+Ademais, sustenta a cristalização do periculum in mora em virtude do cumprimento provisório de sentença.
+É o relatório.
+DECIDO.
+1. A concessão da tutela provisória deve possuir caráter excepcional, ocorrendo sempre que necessário para impedir o perecimento do direito e a conseqüente inutilidade do provimento jurisdicional. Nesse sentido: AgInt no TP 363/PE, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017; MC 15.726/SP, PRIMEIRA TURMA, julgado em 20/04/2010, DJe 12/05/2010.
+2. Na hipótese dos autos, no entanto, a requerente não logrou êxito em comprovar os requisitos indispensáveis ao deferimento da tutela de urgência.
+3. De fato, no que diz respeito ao requisito do periculum in mora, esta Corte Superior perfilha o entendimento de que "o risco de dano apto a lastrear a presente medida, analisado objetivamente, deve se revelar real e concreto, não sendo suficiente, para tal, a mera conjectura de riscos" (AgInt no TP 363/PE, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017). A propósito: AgRg na MC 24.065/PR, QUARTA TURMA, julgado em 18/08/2015, DJe 26/08/2015; AgRg na MC 25.391/MS, QUARTA TURMA, julgado em 18/02/2016, DJe 25/02/2016; AgInt no TP 956/MS, QUARTA TURMA, julgado em 12/12/2017, DJe 01/02/2018; REsp 821.720/DF, SEGUNDA TURMA, julgado em
+23/10/2007, DJ 30/11/2007, p. 423.
+4. Nesse contexto, importa consignar que "a execução provisória já contém mecanismos/instrumentos para mitigar as hipóteses em que evidenciado dano irreparável, tanto que o levantamento de depósito em dinheiro e a prática de atos que importem alienação de propriedade ou dos quais possa resultar grave dano ao executado dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (AgInt no TP 363/PE, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017).
+5. Assim, a mera execução provisória não caracteriza o periculum in mora necessário para a concessão do efeito suspensivo ao recurso. A propósito: AgRg na MC 18.414/RJ, TERCEIRA TURMA, julgado em 27/09/2011, DJe 05/10/2011; AgInt no TP 255/MG, QUARTA TURMA, julgado em 07/03/2017, DJe 16/03/2017.
+6. Na hipótese dos autos, verifica-se que a urgência apontada pela parte requerente refere-se à possibilidade de sofrer os efeitos típicos da execução provisória, verbis:
+Como está claramente demonstrado nas razões do recurso especial, por mais de um enfoque, o cumprimento provisório de sentença distribuído pela autora causa irreparável perigo de dano e ao resultado útil do processo, tendo em vista que há probabilidade de provimento do recurso especial interposto, posto que o STJ no julgamento do REsp 1453920 definiu que "o serviço prestado pela agência de turismo foi exclusivamente a venda de passagens aéreas, circunstância que afasta a sua responsabilidade pelo efetivo cumprimento do contrato de transporte aéreo e autoriza o reconhecimento da sua ilegitimidade para figurar no polo passivo da ação indenizatória decorrente de cancelamento de voo".
+(fl. 1152)  g.n.
+7. Assim, no que alude à urgência da medida, a parte requerente não demonstrou sua presença, uma vez que a mera possibilidade de cumprimento provisório de sentença não traduz a alegada premência.
+Forte nessas razões, INDEFIRO o pedido de tutela de urgência.
+Publique-se e intimem-se.
