@@ -1,0 +1,17 @@
+DECISÃO
+O JUÍZO FEDERAL DA 22ª VARA DE PORTO ALEGRE - SJ/RS suscita conflito de competência, em processo penal, diante do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o Juízo competente para o processo e julgamento de ação penal deflagrada pela suposta prática de falsificação de documento público e uso de documento falso, consistente em falsificar um passaporte português (União Europeia), o qual teria sido posteriormente utilizado para embarque em empresa aérea Argentina.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 22ª Vara de Porto Alegre - SJ/RS, ora suscitante (fls. 1.888-1.893).
+Decido.
+Depreende-se dos autos que houve, por determinada pessoa, a falsificação e posterior utilização de passaporte português, com o intuito de embarcar em empresa aérea Argentina. Entretanto, os funcionários da referida empresa, diante de alerta prévio feito pelo consulado americano, constataram a falsidade do documento e entrou em contato com a Polícia Federal, que efetuou a prisão do acusado.
+Como destacou o Ministério Público Federal, "a utilização de passaporte falsificado, ainda que documento público estrangeiro, tinha por escopo fraudar atividade cujo o controle é de competência do Departamento de Polícia Federal, autarquia vinculada ao Ministério da Justiça" (fl. 1.892, grifei).
+E ainda: " ..  embora a apresentação do documento falso tenha se dado perante entidade particular, qual seja, empresa aérea Aerolíneas Argentinas, não há dúvida de que a saída irregular - por via aérea e com uso de documento falso - constituiu burla ou fraude ao sistema de controle de fronteiras, serviço da União" (fl. 1.893, destaquei).
+Além disso, o referido documento, após haver sido apresentado a funcionários da empresa aérea, foi objeto de escrutínio de policiais federais, que efetuaram a prisão, conforme destacou o acórdão impugnado, nestes termos (fl. 1783, grifei):
+ ..  Segundo consta, ocorreu a falsificação de um passaporte, sendo posteriormente o documento público falso apresentado pelo réu a Policiais Federais, no aeroporto internacional de Porto Alegre, após tentar embarcar em um voo das Aerolineas Argentinas  ..
+Logo, a competência será fixada em razão da entidade ou órgão ao qual o documento foi também apresentado. No particular, " é  certo que que o Superior Tribunal de Justiça sedimentou na Súmula n. 546 o entendimento de que " a  competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedido"" (CC n. 169.902/SP, Rel. Ministra Laurita Vaz, DJe 12/11/2020).
+Em caso similar ao dos autos, já decidiu esta Corte:
+ ..
+2. In casu, trata-se de ação penal em que se apura crime de uso de documento falso (passaporte português) por cidadã brasileira, com vistas ao ingresso nos Estados Unidos da América.
+3. Embora a falsidade só tenha sido detectada no exterior, não há dúvida de que a saída irregular - por via aérea e com uso de documento falso - constituiu burla ou fraude ao sistema de controle de fronteiras, serviço da União. (CC n. 119.645/MG, Rel. Ministro Sebastião Reis Júnior, DJe 18/4/2012)
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 22ª Vara de Porto Alegre - SJ/RS, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
