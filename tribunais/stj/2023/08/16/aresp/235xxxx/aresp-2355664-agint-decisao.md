@@ -1,0 +1,21 @@
+DECISÃO
+Em face das razões apresentadas no recurso de fls. 451/464 (e-STJ), torno sem efeito a decisão de fls. 441/446 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/10/2022.
+Concluso ao gabinete em: 04/08/2023.
+Ação: de obrigação de fazer c/ compensação por danos morais ajuizada por CRISTIANE APARECIDA VALENTIM FAY em face da agravante visando o custeio do medicamento TOCILIZUMABE administrado durante a internação da autora em unidade de terapia intensiva.
+Sentença: julgou procedente a demanda para condenar a agravante no pagamento do medicamento ministrado e na compensação por danos morais no valor de R$ 8.365,98.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+INDENIZAÇÃO. O objeto recursal cinge-se à averiguação da ocorrência, de fato, da recusa por parte da operadora de plano de saúde no custeio do medicamento TOCILIZUMABE ministrado à autora durante sua internação na UTI do Hospital Santa Paula, decorrente da infecção por COVID-19. A ré arcou com todas as despesas durante a internação da apelada sendo que somente em relação ao uso do medicamento em questão o Hospital requereu expressa autorização da filha, fazendo-a ter ciência, inclusive, no tocante ao valor, o que faz presumir, com base nas regras de experiência, subministradas pela observação do que ordinariamente acontece (art. 375 CPC) que houve recusa. DANO MORAL caracterizado. Presença dos requisitos legais. O valor arbitrado na sentença (R$ 8.365,98) é proporcional e razoável. Manutenção. HONORÁRIOS majorados em 5% (artigo 85, §11,CPC). Não provimento.
+Recurso Especial: alega violação dos arts. 186, 927, 884 e 944 do CC, bem como dissídio jurisprudencial. Sustenta a não configuração da responsabilidade civil no pagamento dos danos morais, pois não teria havido recusa indevida por falta de solicitação de cobertura. Insurge-se contra o valor fixado a título de compensação, pois não atendido o requisito da razoabilidade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos danos morais
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, verifica-se que o Tribunal de origem manteve a condenação da recorrente no pagamento de compensação por danos morais, considerando que se tratava de dano in re ipsa, decorrente da recusa de cobertura, tão somente, não tendo examinando as circunstâncias específicas da hipótese quanto à experimentação de agravamento da situação psicológica da paciente. Tal entendimento está em confronto com a jurisprudência pacificada desta Corte Superior de Justiça, merecendo reforma o acórdão, portanto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para excluir a condenação em danos morais, restando a sucumbência repartida igualmente entre as partes.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. COBERTURA DE MEDICAMENTO. INTERNAÇÃO. RECUSA INJUSTIFICADA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Torno sem efeito a decisão de fls. 441/446 (e-STJ). Agravo conhecido. Recurso especial provido.
