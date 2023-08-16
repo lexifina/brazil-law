@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JAQUES RODRIGUES PINHEIRO, contra decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina (Habeas Corpus Criminal Nº º 5046481-87.2023.8.24.0000).
+Depreende-se dos autos que o Recorrente teve a prisão cautelar decretada, pela prática, em tese, do delito de homicídio qualificado. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. O Desembargador da Corte local negou conhecimento ao writ, conforme decisão, fls. 24-25.
+Neste writ, alega a Defesa, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para a segregação cautelar do Recorrente; apontando que nada evidencia que o Recorrente iria fugir ou voltar a delinquir.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+No caso, inviável o conhecimento do presente recurso ordinário em habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por Desembargador do Tribunal de origem.
+Todavia, observa-se que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a interposição de recurso ordinário, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, inc. II "a", da Constituição Federal, este Superior Tribunal de Justiça é competente para julgar recurso ordinário em habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição. Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, II, "a", da Constituição Federal, para julgar recurso ordinário em habeas corpus interposto contra decisão monocrática, proferida por Desembargador.
+"O recurso não merece seguimento. Com efeito, a Carta Magna estabelece que o recurso ordinário desafia apenas os julgados proferidos pelos tribunais locais e regionais federais em "única ou última instância", ou seja, condicionou o cabimento do recurso ao esgotamento das anteriores vias recursais cabíveis, o que não ocorreu na hipótese. Nessa linha a orientação desta Corte" (RHC n. 175.807, Ministro Og Fernandes, DJe de 30/01/2023.)
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste recurso .
+Sobre o tema, destaco os seguintes precedentes:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. MANDAMUS NÃO INSTRUÍDO COM CÓPIA DO PROVIMENTO JUDICIAL QUESTIONADO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF.
+ ..
+4. Agravo regimental desprovido" (AgInt no HC n. 409.060/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 28/02/2018, grifei).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. AUSÊNCIA DE REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR QUE NEGOU SEGUIMENTO LIMINAR AO WRIT. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO NESSA CORTE. NULIDADE NÃO ANALISADA PELO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A questão referente à nulidade decorrente da ausência de realização de audiência de custódia não foi submetida à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental contra a decisão monocrática do relator que negou seguimento liminar ao writ sem análise do mérito. Assim, não compete a esta Corte Superior, o debate da tese levantada pela defesa, sob pena de se incorrer em indevida supressão de instância.
+ .. Habeas corpus não conhecido" (HC n. 385.063/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 14/11/2017, grifei).
+Ante o exposto, com fulcro no art. 34, inc. XVIII, (a), e art. 210, do RISTJ, não conheço do recurso ordinário em habeas corpus.
+P. I.
