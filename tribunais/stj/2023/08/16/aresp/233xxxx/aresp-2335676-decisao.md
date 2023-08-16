@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANDREZANI ADVOCACIA EMPRESARIAL e NOVADEC PARTICIPAÇÕES LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/02/2023.
+Concluso ao gabinete em: 09/08/2023.
+Ação: despejo por falta de pagamento, em fase de cumprimento de sentença, ajuizada por ANDREZANI ADVOCACIA EMPRESARIAL e NOVADEC PARTICIPAÇÕES LTDA., em face de DUXXI IMOBILIÁRIA S/A.
+Decisão interlocutória: indeferiu o pedido de desconsideração da personalidade jurídica da agravada DUXXI IMOBILIÁRIA LTDA., por entender não estarem presentes os requisitos legais de abuso de direito ou confusão patrimonial.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+"Agravo de Instrumento. Desconsideração da personalidade jurídica. Descabimento. Ausência de demonstração efetiva de abuso da personalidade jurídica. Não caracterização do desvio de finalidade, tampouco de confusão patrimonial. Relação civil pura. Inteligência do art. 50 do Código Civil. A mera demonstração de dissolução irregular da sociedade empresária ou de insolvência da pessoa jurídica não conduz à aplicação da teoria maior da desconsideração. Decisão mantida. Recurso não provido." (e-STJ fl. 81)
+Embargos de Declaração: opostos, pelos agravantes, foram rejeitados. (e-STJ fl. 279/283)
+Recurso especial: alegam violação dos arts. 11, 489, 1.022, II, CPC/15, 50, CC/02, além de negativa de prestação jurisdicional, sustentando que: i) não foram analisadas as provas carreadas aos autos, que comprovam os abusos, os desvios de finalidade, a confusão patrimonial e a má-fé dos gestores e acionistas da recorrida, que culminaram na dissolução irregular da sociedade, declarada como inexistente de fato pela Receita Federal do Brasil; e, ii) resta evidente que a recorrida está se esquivando de seus credores e não pretende adimplir suas obrigações e, inclusive, adicionalmente, verifica-se que esta não só não está cumprindo suas obrigações perante seus credores, como também não o faz com os órgãos fiscalizadores de suas atividades; e, iii) há acusações de que os acionistas e administradores da recorrida praticaram crime de apropriação indébita, pela retirada de valores sem autorização, demonstrando-se nos autos, assim, haver provas cabais acerca da ocorrência de abuso e desvio de finalidade da recorrida por parte de acionistas e administradores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da impossibilidade da desconsideração da personalidade jurídica da agravada, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "os argumentos trazidos à baila para justificar a pretensão dos agravantes são a ausência de localização de bens passíveis de penhora em nome da agravada, a suposta dissolução irregular da sociedade empresária e irregularidades que teriam sido praticadas, mas não demonstradas, bem de se ver que, no caso, a tese de abuso da personalidade jurídica, propugnada nas razões recursais, apenas poderia ser acolhida caso se demonstrasse a utilização da pessoa jurídica com o propósito de lesar os credores, por meio de prática de atos ilícitos de qualquer natureza ou por confusão patrimonial", bem como de que "não houve descrição das condutas específicas que poderiam revelar fraude pelo abuso da personalidade jurídica, pois os agravantes se limitam a dizer que, em virtude de não se ter encontrado patrimônio até o momento, haveria abuso da personalidade jurídica pela empresa devedora, e também não ofereceram indício ou prova suficientes de que houve fraude", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de despejo por falta de pagamento.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
