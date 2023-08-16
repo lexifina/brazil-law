@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por MARCELO AGNOLIN PARAGUASSU LEMOS contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+HABEAS CORPUS. Alegação de que o instrumento de mandato juntado pela Querelante, não atende aos requisitos necessários para o manejo da Ação penal. Writ que pretende discutir formalidades do instrumento de mandato juntado na ação originária. Nos termos do artigo 648, do Código de Processo Penal, o Habeas Corpus não se presta examinar requisitos de validade de procuração juntada aos Autos, importando em não conhecer do remédio heroico, na esteira do recente entendimento adotado nas Cortes Superiores. WRIT NÃO CONHECIDO. (e-STJ, fl. 32)
+Nesta instância, a defesa alega a irregularidade da procuração outorgada à advogada do querelante por não conter poderes específicos para a apresentação da queixa-crime e por não resumir o suposto fato criminoso. Sustenta que, diante da deficiência do instrumento de mandato, há a necessidade de reconhecimento da decadência do direito de apresentação da queixa-crime.
+Requer o provimento do recurso para que seja reconhecida a decadência nos autos da Ação Penal n. 0018458-61.2022.8.19.001.
+O Ministério Público Federal ofertou parecer pelo não provimento do recurso.
+É o relatório.
+Decido.
+No caso, tem-se que a querelante apresentou queixa-crime contra o recorrente pelo delito de calúnia.
+Acerca da suposta irregularidade da procuração da advogado do querelante, sem razão a defesa. Verifique-se que a defesa não cuidou de especificar qual o defeito da procuração, alegando genericamente que o documento não cumpre os requisitos exigidos pela lei e não traz resumo dos fatos. A propósito, tem-se que o Juízo processante, em audiência, rejeitou a alegação do querelado: "O juízo, na forma da mídia desta audiência, deixa de acolher o requerimento de decadência e recebe a queixa, conforme fundamentos ali expostos." (e-STJ, fl. 164).
+Ocorre que, em momento nenhum, o ora recorrente indica, nas presentes razões, o fundamento utilizado pelo magistrado para a rejeição do pedido, afrontando o princípio da dialeticidade. A respeito: " o  princípio da dialeticidade recursal impõe ao recorrente o dever de infirmar os fundamentos da decisão que se está impugnando com a espécie recursal correta." (AgInt nos EDcl no AREsp n. 1.836.881/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Ademais, vale pontuar que o Tribunal de Justiça bem destacou a impropriedade da via mandamental eleita para discussão relacionada à existência de irregularidades no instrumento de mandato. Afinal, como se sabe, nos termos do art. 5º, inciso LXVIII, da Constituição da República, a utilização do habeas corpus, e por consequência do seu respectivo recurso, deve estar atrelada à demonstração, no caso concreto, de ato coator que possa ao menos vir a causar ameaça à liberdade de locomoção do paciente, por ilegalidade ou abuso de poder, o que não parece ser a hipótese dos autos.
+Assim, não há razão para o acolhimento da pretensão.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
