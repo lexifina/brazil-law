@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus (fls. 3/11) com pedido liminar impetrado em favor de FRANCISCO LUCAS CÂNDIDO PAIVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (Processo n. 0052613-41.2020.8.06.0167 - fls. 49/58).
+Depreende-se dos autos que o juiz singular condenou o ora paciente, pela prática do delito previsto no art. 157, § 2.º, inciso II, do Código Penal, por duas vezes, à pena de 10 anos e 8 meses de reclusão, em regime prisional inicial fechado, e 20 dias-multa (fls. 12/18).
+Irresignada, a defesa interpôs apelação criminal, na Corte local, que conheceu parcialmente do recurso, para, na parte conhecida, julgar-lhe improvido (fls. 49/58).
+No presente mandamus, o impetrante alega que a prisão do paciente decorreu, exclusivamente, de denúncia anônima.
+Aduz que o paciente foi condenado em razão de reconhecimento fotográfico feito com descumprimento do procedimento do art. 226, do Código de Processo Penal.
+Pondera que deve ser reconhecida a continuidade delitiva entre os roubos e que a pena do paciente deve ser reduzida, com a incidência das circunstâncias atenuantes da menoridade relativa e da confissão espontânea.
+Ao final, requer, liminarmente e no mérito, a absolvição do paciente, ou, em caráter subsidiário, a redução de sua pena definitiva.
+A liminar foi indeferida (fls. 64/65).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 72/76).
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe de 27/5/2015; e STF, HC n. 113.890/SP, Rel. Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, DJe de 28/2/2014.
+Mais recentemente: STF, HC n. 147.210-AgR, Relator Ministro EDSON FACHIN, DJe de 20/2/2020; HC n. 180.365-AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC n. 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC n. 169.174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC n. 172.308-AgR, Relator Ministro LUIZ FUX, DJe de 17/9/2019; e HC n. 174.184-AgRg, Relator Ministro LUIZ FUX, DJe de 25/10/2019. STJ: HC n. 563.063-SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC n. 323.409/RJ, Relator p/ acórdão Ministro FELIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; e HC n. 381.248/MG, Relator p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 22/2/2018, DJe de 3/4/2018.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Na origem, a defesa interpôs apelação criminal alegando o que consta do relatório do acórdão impugnado:
+"Inconformada, a defesa do réu apelou e apresentou as razões recursais às fls. 254-281, requerendo, preliminarmente, o direito de apelar em liberdade. Pleiteou pela reforma da sentença, em suma, com a reanálise da dosimetria da pena, aplicando a pena-base no seu mínimo legal, reconhecendo as circunstâncias atenuantes da menoridade relativa e da confissão espontânea, bem como pelo reconhecimento da ocorrência da continuidade delitiva. Pugnou também pelo deferimento da justiça gratuita." (fl. 51).
+As teses de nulidade da condenação - por falta de justa causa para a busca pessoal e por violação ao procedimento legal do reconhecimento pessoal / fotográfico - não foram examinadas pelos julgadores da origem, de maneira que este Superior Tribunal de Justiça não pode se pronunciar sobre elas em supressão de instância.
+Veja-se nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TESES DE SUSPENSÃO CONDICIONAL DO PROCESSO, NULIDADE DOS DEPOIMENTOS COLHIDOS E INVALIDADE DOS ATOS INSTRUTÓRIOS PRATICADOS APÓS 10/9/2001 NA ORIGEM. TEMAS NÃO DEBATIDOS A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+III - Vale ressaltar, ademais, que a tese de que o juiz tomou conhecimento das nulidades aqui invocadas quando houve o pedido de informações não supre a necessidade de insurgência defensiva em âmbito processual, com a devida oportunidade de manifestação do juízo natural da causa. Como explicado, a competência desta Corte Superior se inaugura com a manifestação colegiada do Tribunal, por certo, não se suprindo quando um juiz presta informações nos autos.
+IV - Esta Corte Superior de Justiça entende que, nem sendo a nulidade absoluta, pode ser declarada em supressão de instância.
+Confira-se: "Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte (..)" (HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2017).
+ ..
+Agravo regimental desprovido. (AgRg nos EDcl no RHC n. 160.495/PB, Rel. Min. MESSOD AZULAY NETO, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023)
+Consta, do acórdão impugnado, que o ora paciente "cometeu dois crimes de roubo, contra vítimas diversas, em momentos distintos e locais diferentes" (fl. 53).
+Dessa forma, no entender da Corte local, que firmou o quadro fático-probatório que não pode ser reformado na via do writ, o requisito objetivo da continuidade delitiva não está configurado (mesmas condições de tempo, lugar e modo de execução).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. ADOÇÃO DA TEORIA MISTA OU OBJETIVO-SUBJETIVA. REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. IMPROPRIEDADE DA VIA ELEITA.
+ ..
+2. Esta Corte Superior de Justiça, ao interpretar o conteúdo do art. 71 do Código Penal, adotou a teoria mista, ou objetivo-subjetiva, segundo a qual, para o reconhecimento da continuidade delitiva, faz-se necessário o preenchimento de requisitos de natureza objetiva (pluralidade de ações; mesmas condições de tempo, lugar e modo de execução do delito) e subjetiva (unidade de desígnios).
+3. Contudo não é possível verificar se houve ou não unidade de contexto e de desígnios sem o revolvimento do acervo fático-probatório dos autos, o que constitui tarefa inviável na via eleita.
+4. Agravo regimental desprovido. (AgRg no HC n. 659.946/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 1/6/2021, DJe de 7/6/2021)
+Na segunda fase do cálculo da pena, incidiram as circunstâncias atenuantes da menoridade relativa e da confissão espontânea, as quais, porém, não podem conduzir a pena a patamar aquém do mínimo legal abstratamente cominado, em observância à Súmula 231/STJ.
+Ante o exposto, ausente qualquer ilegalidade flagrante, com fundamento no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
