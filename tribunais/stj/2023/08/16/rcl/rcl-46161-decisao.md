@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de reclamação ajuizada em face de decisão do juízo singular que, supostamente, não observou a orientação desta Corte para fins de decretação da prescrição intercorrente.
+O reclamante sustenta, em suma, que:
+No presente caso a decisão da Vara de Fazenda Pública de Bocaiuva do Sul desrespeitou a decisão do Superior Tribunal de Justiça proferida no Recurso Especial nº 1.340.553 - RS ao não observar o disposto sobre o termo inicial do prazo prescricional e sua suspensão.
+O Respeitável Acórdão afirma que a suspensão do prazo prescricional de inicia automaticamente assim que intimada a fazenda pública da não localização do devedor ou da ausência de bens.
+No presente caso a intimação da fazenda pública sobre a ausência de bens ocorreu em 24 de dezembro de 2022 (Movimento 69) iniciando-se apenas nessa data a suspensão do prazo prescricional.
+Requer seja julgada procedente a reclamação.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, f, da CF/88, c/c o art. 988 do CPC/2015, cabe reclamação da parte interessada ou do Ministério Público, dirigida ao Superior Tribunal de Justiça, para: (a) preservar a competência do Tribunal; (b) garantir a autoridade das decisões do Tribunal; (c) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (d) garantir a observância de acórdão de recurso especial submetido ao regime dos recursos repetitivos quando exauridas as instâncias ordinárias.
+No caso, verifica-se que a pretensão do reclamante consiste na reforma da decisão do juízo singular.
+Nesse contexto, eventual impugnação (a esta Corte) deveria ser apresentada em face da decisão do Tribunal de segundo grau, não sendo possível a utilização da via da reclamação para atacar, per saltum, a decisão do juízo de primeiro grau.
+A corroborar esse entendimento, destaca-se o seguinte precedente do Supremo Tribunal Federal:
+AGRAVO REGIMENTAL. RECLAMAÇÃO. REPERCUSSÃO GERAL. CARÁTER ERGA OMNES E EFEITO VINCULANTE QUE TERIA SIDO ATRIBUÍDO AO RE 600.885-RG/RS. COMPETÊNCIA PARA A SOLUÇÃO DE CASOS CONCRETOS. INADEQUAÇÃO DO INSTRUMENTO DA RECLAMAÇÃO. AGRAVO DESPROVIDO. I - Conquanto o decidido nos recursos extraordinários submetidos ao regime da repercussão geral vincule os outros órgãos do Poder Judiciário, sua aplicação aos demais casos concretos, em observância à nova sistemática instituída pela EC 45/2004, regulamentada pela Lei 11.418/2006, não poderá ser buscada, diretamente, nesta Suprema Corte, antes da apreciação da controvérsia pelas instâncias ordinárias; II - O instrumento da reclamação não pode ser utilizado a fim de que, per saltum, seja aplicado o entendimento firmado no RE 600.885-RG/RS a processo em curso no primeiro grau de jurisdição; III - A reforma das decisões dos juízes de primeiro grau, contrárias à orientação firmada em julgamentos afetos ao regime da repercussão geral, deve ser feita pelo Tribunal a que estiverem vinculados, pela via recursal ordinária. Precedente: Rcl 10.793/SP, Rel. Min. Ellen Gracie; IV - Agravo a que se nega provimento.
+(AgR na Rcl 12.600/SP, Tribunal Pleno, Rel. Min. Ricardo Lewandowski, DJe de 7.12.2011)
+Diante do exposto, indefiro liminarmente a inicial da reclamação.
+Publique-se. Intimem-se.
