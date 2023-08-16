@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ITAU UNIBANCO S/A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Agravo em recurso especial interposto em: 24/02/2023.
+Concluso ao gabinete em: 13/07/2023.
+Ação: de exigir contas ajuizada por IARA OLIMPIO FERREIRA em face do ITAU UNIBANCO S/A na qual se requer a prestação de contas sobre os lançamentos realizados em sua conta corrente nº 16316-4, agência 4539.
+Decisão interlocutória: julgou procedente a primeira fase da ação, condenando o agravante na obrigação de prestar as contas requeridas.
+Acórdão: negou provimento ao agravo de instrumento interposto por ITAU UNIBANCO S/A, nos termos da seguinte ementa:
+"Agravo de Instrumento. Decisão que, na primeira fase da ação de exigir contas, movida pela correntista em face do banco, julgou procedente, em parte, o pedido e condenou o réu a prestá-las.
+Inconformismo deste. Demandante que comprovou ser cliente do recorrido e indicou, claramente, na exordial, o período em que foram efetuados os lançamentos objeto da demanda em tela, bem como especificou sob quais rubricas eles foram debitados, o que atrai a aplicação da Súmula 259 do Superior Tribunal de Justiça. Preliminares de inépcia da inicial e de falta de interesse de agir que não merecem acolhimento, ressaltando-se que a tese fixada pela já citada Corte Superior, no julgamento do Recurso Especial n.º 1.133.872/PB, submetido ao rito dos recursos repetitivos, refere-se a situação diversa, pois diz respeito aos requisitos para a propositura de demandas em que se pretende o recebimento de expurgos inflacionários em caderneta de poupança, decorrentes dos Planos Bresser e Verão.
+Ato judicial guerreado que também não vai de encontro à orientação firmada pelo Superior Tribunal de Justiça no Recurso Especial n.º 1.497.83/PR, igualmente processado sob a técnica prevista no artigo 543-C do Código de Processo Civil de 1973, então em vigor, uma vez que o Magistrado a quo não determinou a revisão das cláusulas contratuais, inclusive porque esse pedido sequer foi formulado pela demandante, inexistindo, portanto, a citada cumulação indevida de pretensões.
+In casu, também não se aplica a tese firmada no Recurso Especial n.º 1.293.558/PR, a impossibilitar o manejo da ação de exigir contas pela ora agravada, pois, da análise dos autos, infere-se que os lançamentos impugnados por ela não são decorrentes de contratos de mútuo ou financiamento. Relação de Consumo. No caso concreto, restou incontroverso que a demandante possui uma conta corrente no demandado, em que foram realizados diversos descontos, consoante extratos acostados aos autos do feito de origem, sem que tenha ocorrido, segundo ela, a respectiva contraprestação do serviço por parte do banco, sendo certo que a obrigação de prestar contas decorre do dever de informação, previsto no artigo 6.º, inciso III, do Código de Defesa do Consumidor. Precedentes do Superior Tribunal de Justiça e deste Egrégio Tribunal. Manutenção do decisum.
+Recurso a que se nega provimento, restando prejudicado o agravo interno interposto conta a decisão que indeferiu o efeito suspensivo." (fls. 46/48, e-STJ).
+Embargos de declaração: opostos por ITAU UNIBANCO S/A, foram rejeitados.
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 319, III e IV, 327, § 1º, I, 489, § 1º, IV, 550, § 1º, e 1.022, II, parágrafo único, II, do CPC/2015.
+Sustenta, em síntese, i) a negativa de prestação jurisdicional, bem como deficiência de fundamentação no acórdão recorrido quanto à impossibilidade de formular pedido genérico; ii) ausência de interesse de agir ante a formulação de pedido genérico; iii) impossibilidade de cumulação de pedido de revisão de cláusulas contratuais em ação de prestação de contas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o Tribunal de origem ao julgar os embargos de declaração opostos pelo recorrente, já havia esclarecido o que segue:
+"No que tange à alegação de que o decisum incorreu em omissão, ao deixar de se pronunciar expressamente sobre a aplicação da orientação firmada no julgamento do Recurso Especial n.º 1.231.027/PR, tem-se que a motivação da decisão judicial resta atendida quando os fundamentos do julgado repelem, por incompatibilidade lógica, os demais argumentos apresentados pelo recorrente, ainda não tenham sido apreciadas todas as teses ventiladas no recurso.
+(..)
+Ademais, no caso concreto, tem-se que o acórdão guerreado, ao rechaçar as preliminares de inépcia da inicial e de ausência de interesse de agir, consignou, expressamente, que a ora embargada demonstrou preencher os requisitos necessários para a propositura da ação de exigir contas (..)" (fls. 72/74, e-STJ).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, também, em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+2. Do reexame de fatos e provas
+No tocante à tese atinente à ausência de interesse de agir ante a formulação de pedido genérico, o acórdão recorrido assim se pronunciou:
+"Ab initio, cumpre registrar que, ao contrário do que sustenta o ora recorrente, in casu, a recorrida comprovou ser sua cliente e indicou, claramente, na exordial, o período em que foram efetuados os lançamentos objeto da ação de exigir contas em tela (novembro de 2013 a abril de 2017), bem como especificou sob quais rubricas eles foram debitados, o que atrai a aplicação da Súmula 259 do Superior Tribunal de Justiça, a qual dispõe, in verbis: "A ação de prestação de contas pode ser proposta pelo titular de conta- corrente bancária".
+Logo, as preliminares de inépcia da inicial e de falta de interesse de agir não merecem acolhimento (..)" (fl. 49, e-STJ).
+Relativamente ao argumento da impossibilidade de cumulação de pedido de revisão de cláusulas contratuais em ação de prestação de contas, o Tribunal de origem consignou o que segue:
+"Registre-se, por fim, que também não se aplica, na espécie, a tese firmada pelo Superior Tribunal de Justiça, no Recurso Especial n.º 1.293.558/PR, a impossibilitar o manejo da ação de exigir contas pela ora agravada, pois, da análise dos autos, infere-se que os lançamentos impugnados por ela não são decorrentes de contratos de mútuo ou financiamento." (fl. 50, e-STJ).
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+3. Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca dos temas acima mencionados que se supõe divergentes, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, 1ª Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, 2ª Turma, DJe 14/12/2018; REsp 1665845/RS, 2ª Turma, DJe 19/06/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de exigir contas.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
