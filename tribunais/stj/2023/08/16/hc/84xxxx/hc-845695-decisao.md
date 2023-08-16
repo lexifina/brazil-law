@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  de  liminar,  impetrado em favor de BRENO FERNANDO DIONISIO  contra  acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução Penal nº 0003803-55.2023.8.26.0496.
+Depreende-se dos autos que o juízo de primeiro grau determinou a expedição de mandado de prisão em desfavor do paciente para iniciar o cumprimento da pena em regime semiaberto, em decisão mantida pelo Tribunal estadual.
+Nesta via, a impetrante alega que não há vagas no regime semiaberto e que não houve a prévia intimação da defesa para início do cumprimento da pena.
+Requer, liminarmente e no mérito, a expedição de contramandado de prisão ou alvará de soltura e a concessão da prisão domiciliar até que seja disponibilizada vaga para o sentenciado.
+É  o  relatório.  DECIDO.
+Compulsando os autos, verifica-se que o objeto do presente writ caracteriza reiteração de pedido anteriormente formulado no HC n. 829.745/SP, ajuizado em face de acórdão proferido no Habeas Corpus Criminal nº 2105218-80.2023.8.26.0000, julgado sob a ementa abaixo:
+"Habeas Corpus" Execução da pena. Paciente condenado em regime inicial semiaberto. Expedição de mandado de prisão sem a sua prévia intimação. Alegação de violação à "Resolução CNJ nº 474/2022" Inocorrência. Dispensabilidade da prévia intimação diante da antecipada certificação pelo Juízo das execuções da existência e disponibilidade de vaga em estabelecimento prisional adequado, garantindo que o paciente não permanecerá em regime prisional mais gravoso. Inteligência do "Comunicado TJSP n º628" Súmula Vinculante nº 56 preservada. Constrangimento ilegal não verificado. Ordem denegada.
+O presente writ foi interposto em face de acórdão proferido em agravo em execução penal assim ementado (fl. 93):
+Agravo em Execução Penal - Preliminar de nulidade - Inocorrência - Prescindibilidade de intimação prévia da defesa quando da expedição de mandado de prisão nas hipóteses de disponibilidade de vagas em estabelecimentos adequados - Preliminar afastada - Mérito - Pretensão à expedição de contramandado de prisão - Inviabilidade - Decisão precedida de informação da Secretaria de Administração Penitenciária, consignando a disponibilidade de vagas no regime intermediário - Hipótese de não aplicabilidade da Súmula Vinculante n. 56 - Agravo desprovido.
+Embora os pleitos tenham sido formulados em face de diferentes acórdãos, ambos tratam exatamente da mesma matéria e foram impetrados em favor do mesmo paciente para a desconstituição da mesma deci são do juízo da execução penal que determinou a expedição de mandado de prisão em desfavor do paciente em 13/04/2023 (fls. 58-59 do HC 845.695/SP e fls. 58-59 do HC 829.745/SP).
+Nesse diapasão, o art. 210 do RISTJ dispõe que: "quando o pedido for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
