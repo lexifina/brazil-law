@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Jose da Silva Farias contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco que denegou o Habeas Corpus n. 0001364-37.2023.8.17.9480 (fls. 99/106)
+Consta dos autos que o recorrente está preso preventivamente e foi pronunciado pela prática, em tese, do delito previsto no art. 121, § 2º, I e IV, (três vezes), c/c o art. 70, segunda parte, art. 211, c/c o art. 29 e art. 69, todos do Código Penal.
+Sustenta-se, em síntese, o excesso de prazo da prisão cautelar, tendo em vista que o recorrente está preso cautelarmente por mais de 3 anos. Aponta-se, ainda, a fragilidade das razões para a manutenção da constrição, aduzindo-se que não se pode supor que, solto, o recorrente irá atentar contra a ordem pública, frustrar a instrução processual, e, ou ameaçar testemunhas (fls. 125).
+Requer-se, em liminar e no mérito, a expedição de alvará de soltura.
+É o relatório.
+O presente recurso não comporta provimento.
+Com efeito, o Tribunal de origem consignou expressamente que o recorrente foi pronunciado em 26/4/2022, o que atrai a incidência do enunciado da Súmula 21 desta Corte, segundo o qual, pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução.
+Afora isso, a instância de origem analisou a existência de eventual demora injustificável após a pronúncia, concluindo pela inexistência do alegado excesso de prazo, sob os seguintes fundamentos (fls. 101/102):
+ ..
+O que se poderia analisar seria uma possível demora injustificada pós pronúncia. Entretanto verifica-se que nos autos originários foi designada a data de 24/1/2023 para sessão plenária do Tribunal Popular, que não ocorreu em razão do pedido do Ministério Público para o desaforamento do julgamento (Id. 27791134).
+Apesar de o julgamento não ter ocorrido na data prevista, o pedido de desaforamento NPU0003466-66.2022.8.17.9480 já foi julgado em 13/4/2023 por esta 2ª Turma da Câmara Regional(Id. 27791137), com a ementa que ora transcrevo.
+ ..
+Em consulta ao sistema PJe 2º Grau verifica-se que o trânsito em julgado do pedido de desaforamento ocorreu em 16/05/2023, só então os autos foram remetidos ao Juízo de origem(NPU 0003466-66.2022.8.17.9480, Id. 27483322). Ressalte-se que o pedido de desaforamento foi distribuído nesta 1ª Câmara Regional de Caruaru em 23/12/2022 (véspera do recesso), proferida decisão liminar em 17/1/2023, colhidas as manifestações das partes e julgado em 13/4/2023.
+Percebe-se pelas movimentações processuais, portanto, que tanto o processo originário quanto o pedido de desaforamento têm uma marcha célere e regular, dentro das particularidades que o caso requer.
+Da análise dos trechos transcritos é possível observar que inexiste o alegado excesso de prazo. No caso, o julgamento em plenário estava marcado para ocorrer em 24/1/2023. No entanto, houve pedido de desaforamento, efetuado em 23/12/2022, e que já foi julgado pelo Tribunal de origem, em 13/4/2023. Consta, ainda, que trânsito em julgado da mencionada decisão ocorreu em 16/5/2023, de forma que não se mostra desarrazoado o tempo decorrido após a pronúncia, com julgamento célere do pedido de desaforamento, inexistindo comprovação de desídia por parte do Poder Judiciário na hipótese.
+No mais, quanto aos fundamentos para a manutenção da constrição cautelar, observa-se que a instância de origem não debateu a questão sob os moldes suscitados no presente recurso, ou seja, de fragilidade dos fundamentos (garantia da ordem pública e aplicação da lei penal). Na hipótese, a análise pelo Tribunal a quo foi realizada considerando a alegação de excesso de prazo e de ausência de contemporaneidade da constrição, de fo rma que a ausência de debate sob a perspectiva apresentada no recurso obsta o exame do tema por esta Corte, ante a supressão de instância verificada.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRIPLO HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. DECISÃO DE PRONÚNCIA. INCIDÊNCIA DA SÚMULA 21/STJ. PROCESSO QUE TRANSCORRE COM NORMALIDADE. FUNDAMENTOS PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. QUESTÃO QUE NÃO FOI DEBATIDA NA CORTE DE ORIGEM SOB O ENFOQUE SUSCITADO NO RECURSO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso em habeas corpus improvido.
