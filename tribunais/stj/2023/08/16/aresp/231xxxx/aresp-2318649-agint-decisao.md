@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno contra decisão em que neguei provimento ao agravo em recurso especial.
+Diante dos argumentos trazidos em agravo interno, reconsidero a decisão recorrida e passo a uma nova análise do recurso especial.
+O recurso especial foi interposto em face de acórdão com a seguinte ementa (e-STJ, fl. 533):
+CONTRATO Fornecimento de produtos perecíveis Ação declaratória de inexigibilidade de título de crédito com pedido liminar Impossibilidade Autora que não se desincumbiu do seu ônus probatório, nos termos do art. 373, I, do CPC Honorários de advogado Insurgência quanto à aplicação do art. 85, §8º, CPC, pleiteando o advogado da ré a sua majoração, nos moldes do art. 85, § 2º, do CPC Inadmissibilidade Verba bem fixada Sentença mantida Recursos não providos, prejudicado o agravo interno.
+Alegou a agravante violação aos arts. 489, inciso IV e 490 do Código de Processo Civil, apontando que teria realizado pagamento parcial, e que o acórdão recorrido não teria se pronunciado sobre seu pedido de compensação de valores.
+Aponta que "A Recorrida optou por encaminhar 25 (vinte) cinco títulos à protesto, no seu valor integral, ignorando inclusive os pagamentos realizados nas datas dos seus vencimentos", e, após trazer planilha listando pagamentos realizados aquém dos valores devidos, alega que "Os pagamentos acima mencionados foram realizados através dos boletos bancários encaminhados pela própria Recorrida para quitação dos títulos (fls. 51/64), apenas abatendo-se o valor do acordo comercial", e que "17.Importante frisar que os comprovantes de pagamentos anexados aos autos (fls. 51/64), sequer foram impugnados pela Recorrida em sede contestação, tornando-se preclusa a impugnação neste momento e nem poderia ser diferente tendo em vista os comprovantes bancários existentes nos autos".
+Assiste razão à parte agravante.
+Nas razões do recurso especial, a parte agravante alega, e traz planilha, demonstrando que teria efetuado pagamento à parte agravada, que, embora não tenha saldado integralmente as dívidas que deram origem aos títulos protestados, justificariam o pedido de compensação de valores.
+Os valores que alega teriam sido pagos, ainda que a menor, totalizariam, segundo a parte, R$ 278.935,35, quantia expressiva, que demanda análise pelo Tribunal local. Apesar disso, o Tribunal local, quando examinou a controvérsia, não se pronunciou sobre o pedido de compensação formulado pela parte.
+Transcrevo a passagem pertinente:
+A r. sentença julgou improcedente o pleito da autora, sob o fundamento de que esta não se desincumbiu do seu ônus probatório quanto à existência do acordo verbal indicado na petição inicial.
+E em que pesem os argumentos da requerente, não houve a aludida comprovação.
+(..)
+Portanto, não há prova suficiente nos autos acerca da existência do acordo verbal narrado na inicial, que implicaria na inexigibilidade dos títulos levados a protesto. Desse modo, a versão inicial permaneceu
+Assim, a dinâmica articulada não saiu do terreno da penumbra, em desserviço à convicção plena e afirmativa, com infração ao art. 373, I do NCPC (art. 333, I do CPC/73). (..)
+Na realidade, o Tribunal local limitou-se a apontar que a parte agravante não comprovou o suposto acordo verbal que teria conferido quitação do débito, mas não indicou, de forma fundamentada, se a parte agravante também não teria comprovado que teria realizado determinados pagamentos, ainda que parciais.
+É o caso, portanto, de reconhecer a omissão no julgado, a fim de que o Tribunal local, em novo exame da questão, aponte se a parte agravante fez prova dos valores parcialmente adimplidos no montante da dívida, e se - provando-se verdadeira suas alegações - ela faz jus à compensação dos valores.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial e determinar o retorno dos autos ao Tribunal local, para que, em novo exame da questão, aponte se a parte agravante fez prova dos valores parcialmente adimplidos no montante da dívida e se faz jus à compensação dos valores.
+Intimem-se.
