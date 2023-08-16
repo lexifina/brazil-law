@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de LUIS HENRIQUE LIMA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, pela suposta prática do delito de tráfico de drogas, ressaltando o Juízo de primeiro grau que:
+"a quantidade de droga encontrada não é pequena, pois foi apreendido 320 g de substancia entorpecente maconha, que, certamente, renderia centenas de porções para venda", (fl. 14).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local que denegou a ordem, concluindo que:
+"o paciente responde por receptação e furto qualificado (processos n.:5001432-95.2022.8.21.0079, 5000305- 36.2017.8.21.0035 e 5000241-26.2017.8.21.0035). Cabe destacar que não se está analisando a existência de antecedentes, mas de requisitos à medida cautelar adotada" (fl. 53).
+Na hipótese, a Defesa alega a existência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a prisão cautelar mantida em desfavor do Recorrente, afirmando a existência de nulidade da ação policial; busca pessoal justificada apenas com base no fato de que o acusado estava em local conhecido como ponto de venda de drogas.
+Requer a revogação da prisão preventiva do Recorrente e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 122-124.
+Informações prestadas, às fls. 132-134. O Ministério Público Federal, às fls. 136-141, opinou pelo não provimento do recurso, em parecer ementado:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EMHABEAS CORPUS. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. SUPOSTA NULIDADE DA BUSCA PESSOAL. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. APRRENSÃO DE RELEVANTE QUANTIDADE DE DROGAS E APETRECHOS. APLICAÇÃO DA LEI PENAL. RÉU CONTUMAZ. AÇÕES PENAIS EM CURSO. RISCO EFETIVO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES DO STJ. CONHECIMENTO PARCIAL E, NESSA PARTE, NÃO PROVIMENTO DO RECURSO" (fl. 136).
+É o relatório.
+Decido.
+Pretende o Recorrente a revogação da prisão preventiva.
+In casu, a prisão cautelar se encontra justificada para a garantia da ordem pública, notadamente se considerada a gravidade concreta da conduta, haja vista a quantidade de droga apreendida, no contexto da traficância, na medida em que foi encontrado em poder do Paciente, (320 gramas de maconha), além de balança e rádio comunicador; não se olvidando o fundado receio de reiteração criminosa, pois, conforme se depreende dos autos, ele responde por delitos de receptação e furto qualificado:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No que tange à asserção acerca da existência de irregularidade decorrente da busca pessoal, tem-se que não houve apreciação da quaestio na instância precedente, o que obsta o pronunciamento desta Corte, sob pena de indevida supressão de instância:
+"o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. I.
