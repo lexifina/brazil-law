@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por ÂNGELA CRISTINA DE OLIVEIRA CORDEIRO E OUTRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 812):
+AGRAVO DE INSTRUMENTO Execução de título extrajudicial Decisão que rejeitou exceção de pré-executividade e determinou o prosseguimento da execução - As cédulas de crédito bancário são títulos executivos extrajudiciais, conforme dispõem o art. 28 da Lei n. 10.931/04 e a Súmula nº 14 desta Corte de Justiça E o demonstrativo de débito apresentado pelo banco agravado demonstra de forma aritmética o quantum debeatur a evidenciar a liquidez do título - Deveria valer-se a agravante dos embargos do devedor previsto no artigo 914do NCPC para questionar valor do saldo devedor, o que demanda ampla cognição e eventuais provas, o que não se coaduna com a estreita via da exceção de pré-executividade Decisão mantida. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 900-904).
+No recurso especial, alegam os recorrentes ofensa aos arts. 320, 373, § 1º, 783 e 803, inciso I e II, do CPC; 28 e 29 da Lei n. 10.931/2004; 1º, 2º, 3º, 6º, inciso VIII, 39, inciso V, e 51, incisos IV e XV, do CDC, ao defender, em síntese, à nulidade da execução no caso, tendo em vista a ausência de título executivo com obrigação líquida, certa e exigível; e, ainda, a necessidade de aplicação da teoria da inversão do ônus da prova, considerando a natureza consumerista da relação jurídica no caso dos autos. Aduz que a liquidez constitui requisito essencial do título executivo, cuja ausência enseja a extinção da própria demanda.
+Suscita, outrossim, divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 907-932).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 933-935), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 983-987 ).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, entendeu a Corte de origem pela validade do título executivo a embasar a execução em questão, e, com relação ao valor do saldo devedor e da aplicação do estatuto consumerista, ao caso, o debate deve ser objeto de Embargos de Devedor, e não de exceção de pré-executividade.
+Reiteram os recorrentes, em recurso especial, as alegações de ao defender, em síntese, a nulidade da execução no caso, tendo em vista a ausência de título executivo com obrigação líquida, certa e exigível; e, ainda, a necessidade de aplicação da teoria da inversão do ônus da prova, considerando a natureza consumerista da relação jurídica no caso dos autos.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao entender pela regularidade do título executivo extrajudicial a demonstrar o quantum debeatur, e a evidenciar a liquidez, e pela inadequação da via recursal eleita, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fl. 818):
+No caso, os argumentos da exceção não se enquadram na viabilidade admitida.
+A execução veio fundada em Cédula de Crédito Bancário Empréstimo Capital de Giro assinado por duas testemunhas (fls. 44/61 autos principais).
+E as cédulas de crédito bancário são títulos executivos extrajudiciais, conforme dispõem o art. 28 da Lei n. 10.931/04 e a Súmula 14 desta Corte de Justiça: "A cédula de crédito bancário regida pela Lei nº 10.931/04 é título executivo extrajudicial".
+O demonstrativo de débito apresentado pelo banco agravado(fls. 37/39 autos principais) demonstra de forma aritmética o quantum debeatur, a evidenciar a liquidez.
+E insurge-se a agravante contra o valor do saldo devedor e aplicação do estatuto consumerista ante a relação de consumo estabelecida entre as partes.
+No entanto, deveria valer-se a agravante dos embargos do devedor previsto no artigo 914 do NCPC para questionar mencionadas questões, ato-fato que demanda ampla cognição e eventuais provas, o que não se coaduna com a estreita via da exceção de pré-executividade.
+Correta em decorrência a decisão de rejeição da exceção de pré-executividade, que segue mantida.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. PROVAS DE ABALO ECONÔMICO. INEXISTÊNCIA. REVISÃO DAS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. RESPONSABILIDADE SOLIDÁRIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação aos arts 489 e 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. Para desconstituir o entendimento delineado no acórdão estadual (que refutou a intervenção judicial no quanto livremente pactuado pelas partes) em relação à liquidez do título apto a viabilizar a continuidade do rito executivo, seria imprescindível o reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, permanecendo incólume a aplicação da Súmula 7/STJ.
+3. Não pode ser considerada como litigância de má-fé a interposição de recurso previsto no ordenamento jurídico, quando não ficar evidenciado o seu intuito protelatório. Inaplicabilidade da multa prevista no art. 81 do CPC/2015.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime, devendo ser aferida a sua incidência caso a caso.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.307.910/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EMBARGOS INFRINGENTES. APELAÇÃO. FUNDAMENTOS. ACRÉSCIMOS. RESPOSTA DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVAS. VALORAÇÃO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TESTEMUNHA. DEPOIMENTO COMO INFORMANTE. VALOR. SÚMULA Nº 7/STJ. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. CABIMENTO. FECHAMENTO DO NEGÓCIO. RESPONSABILIDADE. AVALIAÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reprodução dos fundamentos expostos no voto da relatora da apelação, por si só, não implica em deficiência de fundamentação, considerando que o tribunal de origem dirimiu as questões postas de forma a alcançar solução unânime à controvérsia.
+3. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, que preceitua caber ao julgador dirigir a instrução probatória através da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+4. Tendo o tribunal de origem formado o seu convencimento nos elementos de provas disponíveis dos autos e indicado os motivos para tanto, a intervenção desta Corte quanto à valoração probatória encontra óbice na Súmula nº 7/STJ.
+(..)
+8. No caso, rever o entendimento da Corte local, a partir da tese de que o recorrido não foi o responsável pelo fechamento do negócio, exigiria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+9. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+10. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+11. Agravo interno não provido.
+(AgInt no REsp n. 1.973.116/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
