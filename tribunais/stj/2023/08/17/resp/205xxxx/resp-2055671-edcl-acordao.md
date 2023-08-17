@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ABR TRANSPORTES LTDA opõe embargos declaratórios contra o acórdão de fls. 618-621, por meio do qual a Sexta Turma negou provimento ao agravo regimental, a fim de preservar o não conhecimento de seu Recurso Especial, pela incidência da Súmula n. 115 do STJ.
+Em suas razões, o embargante sustenta a omissão do decisum, ao afirmar que não houve manifestação deste órgão julgador acerca do "excesso de formalismo, pois o Embargante apresentou a procuração antes da decisão que não conheceu o recurso" (fls. 627-629).
+Pleiteia, assim, o acolhimento dos aclaratórios, para que seja analisado o especial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA CA USA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em nenhum vício que desse ensejo aos aclaratórios.
+2. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+3. A irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque ficou devidamente justificado o não provimento do recurso, dada a incidência da Súmula n. 115 do STJ.
+4. Embargos de declaração rejeitados.
+VOTO
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados no acórdão embargado, que assim registrou (fls. 618-621, grifos no original):
+Mediante análise dos autos, verifico que o recorrente não procedeu, no ato de interposição do recurso endereçado a este Superior Tribunal de Justiça, à juntada de procuração para o fim de demonstrar os poderes do advogado, Dr. Sergio Lima dos Anjos. Embora regularmente intimado para sanar o vício e demonstrar a regularidade na sua representação processual, a parte quedou-se inerte. Dessa forma, está correta a incidência da Súmula n. 115 do STJ.
+Conforme certidão de fl. 577, embora intimado para regularizar a representação processual em 17/03/2023, quedou-se inerte até o término do prazo em 21/03/2023, apresentando o documento apenas em 22/03/2023. Sobre a falta de regularidade do requisito objetivo, já se manifestou esta Corte de Justiça (AgRg no AREsp n. 2.089.384/RN, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 22/8/2022).
+Ademais, "a juntada em momento posterior e a destempo da procuraça o, em raza o da preclusa o consumativa, na o tem o conda o de sanar a falha na representaça o processual" (AgRg no AREsp n. 1.860.405/SP, relatora Ministra Laurita Vaz, 6ª T., DJe de 25/8/2022).
+Cumpre registrar que:
+1. Entende esta Corte que "" ..  a procuração juntada em outro processo conexo ou incidental, não apensado, não surte efeito em favor do recorrente neste Tribunal Superior. Assim, o fato de o instrumento de mandato estar juntado nos autos principais (ação ordinária) não viabiliza o conhecimento do presente agravo em recurso especial" (AgRg no AREsp 592.921/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015)" (AgRg no AREsp 1936568/PB, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe 25/11/2021).
+2. De acordo com o que prescreve o art. 932, parágrafo único, do Código de Processo Civil de 2015, "antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado o vício ou complementada a documentação exigível". Precedentes do STJ.
+3. Incidência da Súmula 115 desta Corte, a qual dispõe: " n a instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+4. Agravo regimental desprovido.(AgRg no AREsp n. 2.013.125/SP, relator MinistroOlindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 11/3/2022).
+ ..
+1. Verificando-se a falta de instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo, nos termos da Súmula n. 115/STJ, in verbis: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. Constatada a inexistência de procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor dos recursos e, não sendo suprida a falta após regular intimação, a juntada extemporânea não é bastante para corrigir a deficiência processual.
+3. Conforme o entendimento pacificado desta Corte Superior de Justiça, " ..  a procuração juntada em outro processo conexo ou incidental, não apensado, não surte efeito em favor do recorrente neste Tribunal Superior. Assim, o fato de o instrumento de mandato estar juntado nos autos principais (ação ordinária) não viabiliza o conhecimento do presente agravo em recurso especial." (AgRg no AREsp 592.921/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015).4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.936.568/PB, relatora MinistraLaurita Vaz, 6ª T., DJe de 25/11/2021).
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam em essência, a reapreciação do caso.
+Sob essas premissas, constato que, no caso em análise, o acórdão não incorreu em nenhuma omissão, ao contrário, reiterou a existência de óbice para o conhecimento do recurso especial, diante do não preenchimento dos requisitos formais para sua interposição - instrumento de procuração.
+Noto que a irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, isso porque ficou devidamente justificado o não conhecimento do recurso, dada a incidênc ia da Súmula n. 115 do STJ.
+À vista do exposto, rejeito os embargos de declaração.
