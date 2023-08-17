@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por NAIDE DA CONCEICAO TITO contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, no qual impugna acórdão assim ementado (e-STJ, fl. 513):
+APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE. PRETENSÃO DE MANUTENÇÃO DE POSSE, COM O RECONHECIMENTO DO DIREITO DE CONCESSÃO DE USO PARA FINS ESPECIAIS DE MORADIA NOS TERMOS DO ART. 1º DA MP 2220/01, OU ALTERNATIVAMENTE, O RECONHECIMENTO DO DIREITO A INDENIZAÇÃO E RETENÇÃO POR BEFENTORIAS REALIZADAS. SENTENÇA DE IMPROCEDENCIA E PROCEDENTE O PEDIDO FORMULADO PELA AUTARQUIA RÉ DE REINTEGRAÇÃO DE POSSE. IRRESIGNAÇÃO DA AUTORA. APELANTE QUE TINHA CIÊNCIA DO CARATER PRECÁRIO DE SUA OCUPAÇÃO, INCLUSIVE PAGAVA TAXA DE OCUPAÇÃO. INAPLICÁVEL A MP 2.220/01, VEZ QUE A REFERIDA NORMA SE APLICA TÃO SOMENTE A UNIÃO E SUA ADMINISTRAÇÃO INDIRETA. INCABÍVEL INDENIZAÇÃO PELAS ACESSÕES E BENFEITORIAS. ALEGADA BENFEITORIA REALIZADA NO IMÓVEL QUE NÃO PODE SER CONSIDERADA COMO NECESSÁRIA, EIS QUE NÃO TINHA POR FIM CONSERVAR O BEM OU EVITAR QUE SE DETERIORASSE (ART. 96, § 3º, DO CÓDIGO CIVIL), CONFORME LAUDO PERICIAL. INCIDÊNCIA DA SÚMULA 619 DO STJ. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do especial, a agravante apontou a violação ao art. 1º da MP 2.220/01.
+Alegou que a referida Medida Provisória é norma de caráter nacional e que, portanto, não se limita a regular as situações que envolvam os imóveis da União.
+Aduz que, como o imóvel em questão possui menos que duzentos e cinquenta metros quadrados, deve ser reconhecido seu direito à concessão de uso especial para fins de moradia.
+Contrarrazões apre sentadas (e-STJ, fls. 550-561).
+O recurso especial foi inadmitido, o que ensejou a interposição do presente agravo (e-STJ, fls. 573-577).
+Brevemente relatado, decido.
+O recurso especial não ultrapassa a barreira da admissibilidade.
+Ao apreciar a apelação, o Tribunal de origem afastou o direito à concessão de uso especial para fins de moradia prevista no art. 1º da MP 2.220/01 sob o fundamento de que referida norma se aplica unicamente em relação a União e sua Administração Indireta e também de que "o imóvel em questão ultrapassa o limite de 250 metros quadrados previsto na MP 2220/01" (e-STJ, fl. 515, sem destaque no original).
+Desse modo, rever essas conclusões, para que prevalecesse a versão da agravante de que "utiliza o bem situado em área urbana e cuja parte efetivamente utilizada pela autora é menor que 250m2" (e-STJ, fl. 539, sem destaque no original) e, assim, fosse possível aventar-se a sugerida violação do art. 1º da MP 2.220/01, demandaria desta Corte o reexame dos fatos e provas dos autos, procedimento vedado pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa, ressalvada eventual anterior concessão de gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE MANUTENÇÃO DE POSSE. CONCESSÃO DE USO PARA FINS ESPECIAIS DE MORADIA. ART. 1º DA MP 2220/01. IMÓVEL COM DIMENSÕES SUPERIORES A DUZENTOS E CINQUENTA METROS QUADRADOS. REVISÃO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
