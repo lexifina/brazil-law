@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MUNICÍPIO DE ITUPEVA em face da decisão de fls. 1074/1075, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+1. Excelência, conforme decisão transcrita acima, Vossa Excelência aduz que "embora a parte recorrente tenha indicado violação à MP 2.180- 35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido".
+2. Contudo, mencionados dispositivos não foram objeto do recurso, o que indica possível equívoco desta julgadora quando se debruçou no Agravo que ora embarga-se.
+3. Na verdade, Nobre Ministra, o dispositivo federal objeto recursal é a Lei Complementar Federal 116/03, o Decreto-lei 406/08, a Súmula 424 do STJ e Tema 296 do Supremo Tribunal Federal (fls. 1085/1086).
+Aduz, ainda que:
+1. Excelência, além da obscuridade acima indicada, a decisão denegatória fundou-se na Súmula 284 do STF, pois haveria apenas indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo.
+2. No parágrafo seguinte a Relatora menciona dispositivos que sequer são objeto do Recurso e do Agravo.
+3. De outro norte, Excelência, a petição de Agravo foi devidamente instruída com apontamento inequívoco das particularidades do caso concreto, bem como indicação expressa do dispositivo federal violado, trazendo ainda de forma cristalina o dissídio interpretativo (fl. 1086).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera indicação genérica de lei federal, sem particularizar seus dispositivos.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente violação de lei federal, sem, contudo, apontar especificamente qual artigo considerava violado.
+Além disso, consigne-se que a MP 2.180-35/01 e a Lei n. 4.414/64 foram mencionadas no precedente desta Corte (AgInt no REsp n. 1.468.671/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/3/2020), que corrobora com a decisão de não conhecimento do Recurso Especial do ora embargante.
+Registre-se, ainda, que não prosperam os argumentos da parte embargante quanto à indicação dos artigos de lei violados, uma vez que foram mencionados somente na petição de agravo em recurso especial. Neste ponto, cumpre ressaltar que se mostra inviável a indicação posterior do dispositivo violado na medida em que os requisitos do recurso especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
