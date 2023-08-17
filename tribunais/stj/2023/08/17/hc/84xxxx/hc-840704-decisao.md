@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão que deu provimento ao recurso de agravo em execução interposto pelo MP para, cassando a decisão de 1º Grau, determinar a submissão do paciente a exame criminológico.
+Consta dos autos que o paciente foi condenado às penas de 13 anos e 5 meses de reclusão como incurso nas sanções dos arts. 155, §4º, IV e 157, §2º, I e II, do Código Penal.
+Informa a impetrante que o paciente requereu e teve deferido pelo juízo das execuções o livramento condicional e o Tribunal a quo, ao apreciar o agravo em execução manejado pelo Ministério Público do Estado de São Paulo, deu provimento ao recurso para cassar o benefício e determinar a submissão do apenado ao exame criminológico.
+Alega constrangimento ilegal pois o paciente preenche todos os requisitos para a concessão do livramento condicional, carecendo o acórdão de motivação idônea para a cassação do benefício.
+Salienta que a necessidade de submissão do paciente ao exame criminológico baseia-se na gravidade abstrata dos crimes pelo qual foi condenado.
+Requer, liminarmente e no mérito, o restabelecimento da decisão que concedeu o livramento condicional ao paciente.
+Prestadas as informações, manifestou-se o MPF pelo não conhecimento ou denegação da ordem.
+Sobre o tema, assim constou do acórdão impugnado (fls. 39-40 ):
+É bem verdade que o agravado possui bom comportamento carcerário (fls. 783 dos autos de origem), mas é insuficiente para a aferição do mérito, diante da excepcionalidade do caso.
+Verifica-se pelo Boletim Informativo e demais documentos juntados aos autos a necessidade de prévio exame criminológico, pois o reeducando cumpre pena por vários crimes, dentre eles dois roubos majorados, não se olvidando que o agravo tem histórico prisional conturbado, com prática de diversas faltas graves e médias, sendo a última grave cometida em 17 de setembro de 2020 (fls. 787 dos autos de origem), tudo a ensejar periculosidade e possibilidade de reiteração delitiva.
+A situação peculiar exige maior prudência no controle relativo às benesses executivas, mostrando-se, portanto, necessário exame criminológico, para melhor análise do requisito subjetivo, máxime pelas condições e condutas acima mencionadas.
+Constatada motivação concreta para o indeferimento do benefício, consubstanciada no fato de que o apenado possui histórico prisional conturbado, com o registro de faltas graves, não se verifica, assim, nenhuma ilegalidade a ser sanada, não sendo adequada, de todo modo, a via do habeas corpus à revisão do entendimento. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME INDEFERIDOS. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA DISCIPLINAR GRAVE. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+2. "A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário" (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. No caso concreto, o Tribunal Estadual concluiu que o caso em questão requer cautela, diante do histórico carcerário conturbado do paciente que perpetrou faltas graves em reduzidíssimo período de tempo, reconhecidas e homologadas em 23/4/2020 e 17/6/2020, além de falta média em 18/6/2021, demonstrando que ao invés de aproveitar a chance para se reabilitar, o executado não assimilou a terapêutica penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 767.408/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
