@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por HELIO SOARES DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 164):
+RECURSO DE APELAÇÃO INTERPOSTO CONTRA R. SENTENÇA PELA QUAL FOI JULGADA PROCEDENTE AÇÃO MONITÓRIA - ALEGAÇÃO DE INCORREÇÃO PEDIDO DE REFORMA MANUTENÇÃO DA R. SENTENÇA. PRELIMINAR DE CERCEAMENTO DE DEFESA INOCORRÊNCIA - PROVAS ENCARTADAS AO FEITO QUE SE MOSTRARAM SUFICIENTES PARA O DESLINDE DA DEMANDA PRELIMINAR REPELIDA RECURSO NÃO PROVIDO. AÇÃO MONITÓRIA CAMBIAL CHEQUEALEGAÇÃO DE AGIOTAGEM - ÔNUS DA PROVAQUE INCUMBIAM AO RECORRENTE E DOS QUAIS NÃO SE DESINCUMBIU INAPLICABILIDADE DA MEDIDA PROVISÓRIA Nº 2.172-32/2001 MECANISMO LEGAL QUE NÃO SE MOSTRA SUFICIENTE PARA MODIFICAR A REGRA DOS ÔNUS DA PROVA RELATIVOS A EXISTÊNCIA DE RELAÇÃO JURÍDICA TIDA POR ESPÚRIA IMPOSSIBILIDADE DE APLICAÇÃO DE MEDIDA PROVISÓRIA DESTINADA A REGULAMENTAÇÃO DE REGRA PROCESSUAL CIVIL, CONFORME COMANDO CONTIDO NO ART.62, §1º, I, "B", DA CONSTITUIÇÃO FEDERAL DE 1988- COMPROVAÇÃO DA CAUSA QUE DEU ORIGEM A EMISSÃO DO TÍTULO PROVIDÊNCIA DESNECESSÁRIA APRESENTAÇÃO DO CHEQUE QUE SE MOSTRA SUFICIENTE PARA ENSEJAR A PROPOSITURA DA AÇÃO SATISFATIVA ADEQUAÇÃO NÃO COMPROVAÇÃO DE PAGAMENTO DA DÍVIDA, AINDA QUE DE FORMA PARCIAL TITULO ABSTRATO CÁRTULA PERFEITA E DOTADA DE TODOS OS REQUISITOS LEGAIS PROCEDÊNCIA DA AÇÃO QUE SE MOSTRA DE RIGOR PLENO ACERTO DA R. SENTENÇA COMO PROFERIDA RECURSO NÃO PROVIDO.
+Embargos de declaração rejeitados (fls. 478-484).
+No recurso especial, alega o recorrente afronta ao arts. 9º, 10, 357, III e § 1º, e 373, I, do CPC e 315, 319, 320, parágrafo único, 321 e 324 do Código Civil, ao defender, em síntese, a não há quitação da dívida constituída e reconhecida em testamento no caso dos autos, e que improcedente a inversão do ônus da prova, o qual no cabe ao ora recorrido no caso.
+Não apresentadas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 494-496), o que ensejou a interposição do presente agravo.
+A presentada contraminuta do agravo (fls. 521-525).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações da parte recorrente, considerando que a Corte de origem, ao entender que ficou provada que houve quitação da dívida em questão, e que cabe ao ora recorrente o ônus da prova do direito alegado, firmou entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 418-422 ):
+É incontroversa a celebração do contrato de mútuo, bem como o recebimento dos cheques citados na petição inicial dos presentes embargos pelo embargado Hélio.
+(..)
+Constata-se, pois, que o embargado confirma o recebimento das cártulas, mas não especifica de maneira adequada o destino das mesmas, eis que as informações prestadas na impugnação aos embargos se resumem ao parágrafo já transcrito, de fls. 206, não se sabendo qual valor foi utilizado para pagar fornecedores e empregados, quais seriam estas "outras pendências" do falecido, ou quanto teria sido destinado para a mãe do embargante.
+Não há como saber, ainda, se de fato havia instrução do "de cujus" para o pagamento de despesas particulares da genitora do embargante, e qual seria o valor autorizado pelo falecido para tal finalidade.
+De toda forma, o ônus de comprovar a destinação dos valores recebidos por meio dos cheques em discussão cabia ao embargado.
+Entrementes, o apelado sustentou que não tem os comprovantes de pagamento, pois , todos teriam sido entregues para o escritório contábil que fazia as escriturações do sr. Rodolpho. (fls 208 )
+(,..)
+Porém, nenhuma prova acerca do destino dos cheques foi acostada aos autos pelo embargado.
+Ainda que se desconsiderem os cheques de fls.12 e 13, emitidos em 28/05/2015 e 01/06/2015, tem-se que os demais títulos foram emitidos após a celebração do contrato de mútuo e dentro do prazo contratual para pagamento da dívida.
+Do mesmo modo, se desconsideradas as cártulas nominais à esposa do embargado (fls. 12 - R$10.800,00, fls. 14 - R$ 11.000,00, e fls. 16 - R$ 20.000,00), ter-se-ia valor suficiente para a quitação dos R$ 200.000,00.
+Em síntese, tem-se que o espólio apresentou nos autos prova da entrega de valores suficientes para quitar a dívida executada, de maneira que competia ao embargado provar que o montante representado pelos cheques tinha destinação diversa, mas não o fez.
+Neste contexto, deve-se considerar que houve prova suficiente da quitação dos R$ 200.000,00 devidos pelo falecido sr. Rodolpho, de modo que a execução deve ser extinta.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. TÍTULO EXECUTIVO. DEMONSTRATIVO DE EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. SÚMULA. VIOLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. ALEGAÇÕES. VEROSSIMILHANÇA. NÃO DEMONSTRAÇÃO. REEXAME. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que a cédula de crédito bancário é título executivo, apto a instruir a ação de cobrança ou de execução, ainda que o débito tenha origem em contrato de abertura de crédito, porém, a inicial deverá vir acompanhada também de demonstrativo da evolução da dívida.
+3. Na espécie, rever o entendimento d o tribunal de origem, que afastou a alegada ausência de documentos indispensáveis para o ajuizamento da ação de cobrança, demanda ria o reexame do contexto fático-probatório , procedimento inadmissível em recurso especial ante o óbice da Súmula nº 7/STJ.
+4. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+5. Não compete ao STJ apreciar violação de enunciado de súmula em recurso especial, pois o verbete não se insere no conceito de lei federal previsto no art. 105, III, "a", da Constituição Federal.
+6. A discussão acerca do cabimento ou não da regra inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.955.527/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
