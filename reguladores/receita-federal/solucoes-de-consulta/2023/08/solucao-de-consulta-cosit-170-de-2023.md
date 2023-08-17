@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 170, de 7 de agosto de 2023
+Assunto: Contribuições Sociais Previdenciárias
+IMUNIDADE. EXPORTAÇÃO INDIRETA. DIREITO CREDITÓRIO. COMPROMISSO DE EXPORTAÇÃO.
+A declaração de inconstitucionalidade proferida pelo STF tem eficácia contra todos e efeito vinculante em relação aos órgãos do Poder Judiciário e à Administração Pública federal, estadual e municipal.
+No caso, não se trata de hipótese que demande habilitação de créditos reconhecidos em ação judicial própria. Entretanto, caso o contribuinte esteja abarcado de forma integral na situação descrita na ADI, o crédito devido poderá ser pleiteado por meio de Declaração de Compensação ou de Pedido de Restituição, na forma da IN RFB nº 2.055, de 2021, reservando-se sempre à Administração Tributária o direito de, se necessário, averiguar no caso concreto a realidade dos fatos e respeitado o prazo de cinco anos contado da data do recolhimento indevido.
+A empresa comercial exportadora que houver adquirido produtos de outra pessoa jurídica, com o fim específico de exportação para o exterior, deverá efetuá-la no prazo de 180 (cento e oitenta) dias, contado da data da emissão da nota fiscal pela vendedora. Caso não comprove o embarque dos produtos para o exterior no prazo previsto, ou venda-os no mercado interno antes de encerrado o referido prazo, ficará sujeita ao pagamento das contribuições sociais previdenciárias que deixaram de ser pagas pela empresa vendedora, acrescidas de juros de mora e multa, de mora ou de ofício.
+A empresa comercial exportadora que houver adquirido produtos de pessoa física, com o fim específico de exportação para o exterior, deverá efetuá-la no prazo de 1 (um) ano, contado da data do depósito em entreposto. Caso não comprove o embarque dos produtos para o exterior no prazo previsto no caput, ou venda-os no mercado interno antes de encerrado o referido prazo, ficará sujeita ao pagamento das contribuições sociais previdenciárias que deixaram de ser pagas pela pessoa física vendedora, acrescidas de juros de mora e multa, de mora ou de ofício.
+Dispositivos Legais: Constituição da República Federativa do Brasil de 1988 (CF/88), art. 149, § 2º, I, Lei nº 9.868, de 10 de novembro de 1999, art. 28 e parágrafo único, IN RFB nº 2.055, de 6 de dezembro 2021, arts. 3º, I, 8º, I, § 1º e 64, § 1º, e IN RFB nº 2.110, de 17 de outubro de 2022, arts. 148 a 150.
+SC Cosit nº 170-2023
+[arquivo anexo: SC Cosit nº 170-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
