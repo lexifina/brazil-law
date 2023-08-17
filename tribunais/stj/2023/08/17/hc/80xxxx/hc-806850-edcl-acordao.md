@@ -1,0 +1,19 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ROBSON MARTINS SILVA opõe embargos contra o acórdão de fls. 113-115, em que a Sexta Turma rejeitou os aclaratórios opostos contra o acórdão do julgamento do agravo regimental, mantendo, assim, hígida a decisão monocrática em que preservei o indeferimento do livramento condicional.
+Para tanto, assere que "a defesa buscou e ainda persiste em buscar a todo tempo que se crie um termo, um prazo, um marco depurador de indisciplina na execução penal para o resgate do bom comportamento outrora perdido" (fl. 121).
+Requer, assim, sejam acolhidos os embargos, "seja expressamente declarado um termo, um marco depurador para o resgate do bom comportamento outrora perdido em razão de falta grave cometida" (fl. 123).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO DO RECURSO. REDISCUSSÃO DA MATÉRIA JÁ APRECIADA. IMPOSSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam nova apreciação do caso.
+2. Verificada a mera reiteração dos embargos de declaração, para apontar os mesmos vícios já rejeitados por esta Corte Superior, impõe-se o não conhecimento do novo recurso integrativo.
+3. Embargos de declaração não conhecidos.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+É imperioso salientar também que " o s embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada" (EDcl no AgRg nos EDcl no AREsp n. 1.644.500/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 3/6/2020, destaquei).
+Não se pode olvidar que " s em a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/6/2021, destaquei).
+Ademais, " v erificada a mera reiteração dos embargos de declaração, para apontar os mesmos vícios já rejeitados por esta Corte Superior, impõe-se o não conhecimento do novo recurso integrativo" (EDcl nos EDcl no AgRg no AREsp n. 1.291.085/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/2/2019).
+Conforme já apontado no acórdão vergastado, a tese firmada pela Terceira Seção do Superior Tribunal de Justiça no julgado do Recurso Especial Representativo da Controvérsia n. 1.970.217/MG estabelece que "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 1/6/2023.), sem que haja óbice temporal ao exame do requisito de ordem subjetiva.
+À vista do exposto, não conheço dos embargos.
