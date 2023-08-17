@@ -1,0 +1,7 @@
+DECISÃO
+DANILO DA SILVA GUSMÃO postula a extensão dos efeitos da decisão proferida às fls. 119-121, em que concedi a ordem em favor do paciente, Lucas de Sena Vieira, a fim de fixar o regime inicial semiaberto de cumprimento de pena.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Na hipótese, vejo que a situação do postulante é similar à do paciente beneficiado com a concessão da ordem neste writ, porquanto também é primário sem registro de circunstância judicial desfavorável e condenado à 7 anos e 8 meses de reclusão, havendo a Corte de origem mantido o regime fechado com base em fundamentação inidônea.
+No caso, em que pese o Tribunal a quo haver indicado elementos dotados de concretude, verifico que não apontaram fundamentos (como o modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que a motivação adotada é inerente ao crime praticado e às majorantes incidentes no caso e não se reveste da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+À vista do exposto, defiro ao ora requerente a extensão dos efeitos da decisão proferida às fls. 119-121, a fim de fixar o regime inicial semiaberto.
+Publique-se e intimem-se.
