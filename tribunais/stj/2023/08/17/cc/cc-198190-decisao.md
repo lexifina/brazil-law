@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 14ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP, ora suscitante, e o JUÍZO DE DIREITO DA 21ª VARA JUDICIAL DE BRASÍLIA - DF, ora suscitado.
+Ação: produção antecipada de provas ajuizada por LETÍCIA CHAVES DA COSTA em face de FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA., com o objetivo de identificar a pessoa que teria se valido de perfil falso no Instagram para difamar a autora.
+Manifestação do Juízo de Brasília: afirmou que o ajuizamento da ação em Brasília caracterizaria escolha aleatória de foro, já que a autora seria domiciliada em São Sebastião/DF e o réu teria sede em São Paulo/SP, determinando fosse esclarecido pela autora o motivo da propositura da ação em Brasília. Após a manifestação autoral, acolheu o pedido de remessa dos autos para o foro do domicílio do réu (e-STJ, fl. 68).
+Manifestação do Juízo de São Paulo: suscitou o presente conflito de competência, afirmando ser impossível a declinação, de ofício, e que "a argumentação do juízo suscitado não pode ser acolhida, à luz da opção da autora em propor a ação na comarca de Brasília/DF, que é o endereço da autora" e da Súmula 33/STJ (e-STJ, fl. 74). Acentuou que, "se há ou não erro na distribuição, apenas a(o) ré(u) pode alegá-lo" (e-STJ, fl. 75).
+Parecer do MPF: opinou pela competência da Justiça de São Paulo.
+É O RELATÓRIO. DECIDO.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, "d", da Constituição Federal.
+Cinge-se a controvérsia em definir o juízo competente para o julgamento da ação de produção antecipada de provas proposta inicialmente em Brasília , na hipótese em que a parte autora, após instada pelo juízo processante a se manifestar, pugnou pela remessa dos autos para São Paulo, foro do domicílio do réu.
+A determinação do juízo suscitado, ao impulsionar o feito, envolveu o esclarecimento do motivo pelo qual a autora optou pelo ajuizamento em Brasília, se ela residia em São Sebastião/DF, com circunscrição judiciária própria, e o réu era sediado em São Paulo/SP. Assim, o questionamento do juízo originário acabou por ensejar, no caso, o deslocamento da competência, visto que requerido pelo autor após o ajuizamento da ação.
+No caso, observa-se, de um lado, que a parte ré não se opôs a essa alteração de competência para São Paulo, até mesmo porque se trata do local de sua sede. De outro lado, o argumento do juízo suscitante de que houve declinação, de ofício, e, assim, de incidência da Súmula 33/STJ, não se sustenta.
+Com efeito, como anteriormente mencionado, a própria parte autora requereu - após determinação do juízo originário - a transferência da competência para a Comarca de São Paulo, de modo que não há falar em declinação de ofício.
+Assim, impõe o reconhecimento da competência do juízo suscitante (Juízo de São Paulo) para o julgamento do feito, o qual, aliás, acaba por observar o disposto no § 2º do art. 381 do CPC, segundo o qual "A produção antecipada da prova é da competência do juízo do foro onde esta deva ser produzida ou do foro de domicílio do réu".
+Forte nessas razões, CONHEÇO do conflito para determinar a competência do JUÍZO DE DIREITO DA 14ª VARA DO FORO CENTRAL DE SÃO PAULO - SP.
+Publique-se. Intime-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA NEGATIVO. PRODUÇÃO ANTECIPADA DE PROVAS. PEDIDO DO AUTOR DE DESLOCAMENTO DO FEITO PARA O FORO DO DOMICÍLIO DO RÉU. AUSÊNCIA DE OPOSIÇÃO POR PARTE DO RÉU. ART. 381 DO CPC. INCIDÊNCIA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. Consoante dispõe o art. 381, § 2º, do CPC, "A produção antecipada da prova é da competência do juízo do foro onde esta deva ser produzida ou do foro de domicílio do réu".
+2. Requerido pela parte autora o deslocamento da ação de produção antecipada de provas para o foro do domicílio do réu, sem qualquer oposição por parte deste, compete ao juízo que recebeu os autos o julgamento da demanda, em observância ao comando legal (art. 381 do CPC).
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 14ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP.
