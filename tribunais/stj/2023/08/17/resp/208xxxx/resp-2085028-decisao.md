@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+PENAL. ART. 334, CAPUT, DO CÓDIGO PENAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA EVIDENCIADA. INAPLICABILIDADE. MATERIALIDADE AUTORIA E DOLO COMPROVADOS. ESTADO DE NECESSIDADE. NÃO CARACTERIZAÇÃO. CONDENAÇÃO MANTIDA. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO DO VALOR. POSSIBILIDADE. GRATUIDADE JUDICIÁRIA. JUÍZO DA EXECUÇÃO PENAL. NÃO CONHECIMENTO.
+1. Para a aplicação do princípio da insignificância ao crime de descaminho deve ser observado o parâmetro fiscal de R$20.000,00, estabelecido pela Portaria MF nº 75/2012 no somatório de tributos iludidos (II e IPI) e admitido pela jurisprudência. Há que se observar, ainda, as seguintes condições: (a) mínima ofensividade da conduta do agente, (b) ausência de periculosidade social da ação, (c) grau reduzido de reprovabilidade do comportamento, e (d) inexpressividade da lesão jurídica provocada.
+2. É entendimento da 4ª Seção desta Corte que a reiteração delitiva, verificável por meio de procedimentos administrativos, inquéritos policiais ou ações penais em curso por delitos semelhantes, afasta a aplicação do princípio da insignificância, em razão do maior grau de reprovabilidade da conduta.
+3. A alegação de dificuldade financeira não autoriza o reconhecimento do estado de necessidade, tampouco o desemprego é circunstância apta a justificar a aplicação da referida excludente de ilicitude.
+4. Comprovadas a materialidade e autoria delitivas, bem como o dolo do acusado, sendo o fato típico, antijurídico e culpável, e inexistindo causas excludentes, mantém-se a condenação pela prática do crime de descaminho.
+5. A despeito de o juízo de primeiro grau não ter procedido à efetiva análise da incidência da atenuante prevista no art. 65, III, "d", do Código Penal, o reconhecimento da confissão espontânea não traz reflexos na quantidade de pena, eis que já fixada no mínimo legal, incidindo, no caso, a Súmula nº 231 do Superior Tribunal de Justiça.
+6. Para definição do valor da prestação pecuniária, dentre os parâmetros estabelecidos pelo artigo 45, §1º, do Código Penal, deve-se considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento. Dentre os fatores a serem considerados, a referida pena deve ser suficiente para a prevenção e reprovação do crime praticado, atentando-se ainda, para a extensão dos danos decorrentes do ilícito e para a situação econômica do condenado.
+7. Sopesados esses elementos, cabível a redução da prestação pecuniária.
+8. A situação de insuficiência de recursos por parte do réu não impede a sua condenação nas custas e despesas processuais, cabendo ao juízo da execução penal a apreciação do pedido da gratuidade da justiça.
+Sustenta o recorrente violação do art. 65, III, "d", do Código Penal.
+Afirma ser cabível a redução da pena-base abaixo do mínimo legal pela existência de atenuante da confissão espontânea.
+Requer o provimento do recurso, a fim de que seja redimensionada a sanção.
+Con tra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+Em relação à redução da reprimenda, o acórdão recorrido está assim fundamentado:
+Dosimetria da Pena
+Definitivamente fixada a pena no mínimo legal de 1 (um) ano de reclusão, em regime aberto (CP, art. 33, § 2º, "c"), recorre a defesa pugnando pela incidência da atenuante da confissão, na segunda fase da dosimetria.
+A despeito de o juízo de primeiro grau não ter procedido à efetiva análise da incidência da atenuante prevista no art. 165, III, "d", do Código Penal, de fato, o reconhecimento da confissão espontânea não traz reflexos na quantidade de pena, eis que já fixada no mínimo legal, incidindo, no caso, a Súmula nº 231 do Superior Tribunal de Justiça - "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" -, estando o tema consolidado na jurisprudência desta Corte e do Supremo Tribunal Federal.
+Deste modo, resta prejudicada a pretensão defensiva, mantendo- se a pena corporal, definitivamente fixada pela sentença no mínimo legal de 1 (um) ano de reclusão.
+Como se vê, as instâncias ordinárias, na segunda etapa da dosimetria, reconheceram a presença da atenuante de confissão espontânea, porém, tendo sido a pena-base estabelecida no mínimo legal, não houve redução da pena, nos termos da Súmula nº 231 do Superior Tribunal de Justiça.
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+O entendimento da Corte de origem encontra-se em consonância com a jurisprudência desta Corte, no sentido de que "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022).
+Com efeito, "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+Incide, pois, a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
