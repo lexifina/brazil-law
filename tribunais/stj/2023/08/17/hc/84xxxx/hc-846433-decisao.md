@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARIANE RODRIGUES DOS SANTOS, CRISTIANO DO AMARAL JUNIOR e DUILIANO PIUCCO ROSA contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que a prisão em flagrante foi convertida em preventiva, em razão da prática dos crimes previstos nos arts. 33 e 35, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 59-65, com a seguinte ementa:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. AUSÊNCIA DECONSTRANGIMENTO ILEGAL. GARANTIA DA ORDEM PÚBLICA. PRISÕES PREVENTIVAS MANTIDAS.
+1 . No presente caso, não se verifica no procedimento adotado ou nas decisões proferidas nos autos irregularidade que autorize a soltura dos pacientes ou a conversão, neste momento, em medida cautelar diversa da segregação.
+2. Verifica-se a presença do fumus comissi delicti, tendo em vista que o paciente Cristiano foi preso em flagrante com 24 porções de maconha e 26 porções de cocaína; já os demais pacientes foram presos em flagrante executando funções específicas, possibilitando, assim, a prática da traficância, já tendo sido oferecida denúncia contra os pacientes.
+3 . Presente, também, o periculum libertatis, na medida em que não só o crime imputado aos pacientes é grave, com pena máxima superior a 04 anos de reclusão (art. 313, I, do CPP), mas também a conduta que teria sido por eles praticada apresenta gravidade concreta, pois praticada, a priori, dentro de um contexto de facções criminosas.
+4 . No que diz respeito à ordem pública, mostra-se necessária a manutenção das segregações cautelares dos pacientes, pois não se verifica no caso em questão apenas a gravidade abstrata dos delitos que lhe são imputados, mas circunstâncias concretas que demonstram que, neste momento, eventual liberdade dos pacientes poderá ensejar considerável abalo à ordem pública, ante a articulação para venda de drogas, cada um com suas funções específicas
+5. As condições pessoais favoráveis dos pacientes não são suficientes, por si só, para a revogação das segregações cautelares, quando existem nos autos elementos suficientes para a manutenção das prisões preventivas.
+ORDEM DENEGADA.
+Daí o presente habeas corpus, em que a defesa alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva, sob a premissa de que os pacientes ostentam condições pessoais favoráveis.
+Requer, li minarmente e no mérito, a revogação ou substituição por prisão domiciliar.
+É o breve relatório.
+Decido.
+A defesa alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva, sob a premissa de que os pacientes ostentam condições pessoais favoráveis.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se constrangimento ilegal. Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada pelos seguintes motivos (fls. 19-21):
+No presente caso, o Ministério Público requereu a decretação da prisão preventiva.
+Ainda, nos termos do art. 313 do CPP, somente se admitirá a prisão preventiva nas situações ali elencadas.
+Sobre o(s) fato(s) imputado(s) ao(s) flagrado(s), o(s) delito(s) possui(em) pena máxima superior a 04 anos de reclusão, o que possibilita a segregação cautelar.
+Nos termos do art. 312 do CPP, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No presente caso, pode-se extrair da simples análise do registro do flagrante e demais elementos de convicção colhidos, a existência do crime e os indícios de autoria a recair sobre o(s) flagrado(s).
+Especificamente em relação aos suficientes indícios de autoria, deve ser ressaltada, ao menos neste momento da persecução penal, a reconstituição fática articulada pelos agentes estatais que promoveram a prisão do(s) custodiado(s).
+Observo que está presente a necessidade da segregação para fins de salvaguardar a ordem pública.
+Sabe-se que o crime de tráfico de drogas acarreta mazela social, prejudicando a saúde dos usuários, gerando gastos extraordinários ao Poder Público para tratamento destes e fomentando diversos outros delitos, muitos dos quais violentos.
+As circunstâncias do fato, com a apreensão de droga de alto poder deletério, em circunstância que culminou em disparos de arma de fogo contra agentes policiais, são elementos que evidenciam a prática de tráfico armado - de extrema periculosidade, portanto - e a gravidade concreta da(s) conduta(s) e a elevada probabilidade de o(s) preso(s) continuar(em) suas empreitadas criminosas caso posto(s) em liberdade.
+Assim, resta evidente a necessidade da prisão preventiva para salvaguardar a ordem pública.
+No presente caso, conforme se extrai do acima referido, não se mostra adequada a aplicação de qualquer medida cautelar diversa da prisão, porquanto se mostrariam insuficientes para salvaguardar a ordem pública.
+Ademais, exige-se a resposta estatal para que a ordem pública seja restabelecida, destacando que a prisão preventiva, embora excepcional, é medida que foi acolhida pela nossa Carta Magna. A eventual existência de condições subjetivas favoráveis, consoante iterativa jurisprudência pátria, não impede a prisão preventiva, desde que, como na espécie, presentes os seus requisitos autorizadores.
+Ante o exposto, CONVERTO a prisão em flagrante de CRISTIANO DO AMARAL JUNIOR, ARIANE RODRIGUES DOS SANTOS e DIULIANO PIUCCO ROSA em prisão preventiva.
+Como se vê, a decisão de prisão apresenta fundamentação válida, evidenciada na periculosidade dos pacientes, consignando a quantidade de droga apreendida e o fato de que houve resistência armada contra os agentes públicos.
+A circunstância de apreensão da droga (embora se trate de quantidade não relevante, 24 porções de maconha, pesando 35,50 gramas; 24 porções de cocaína, pesando 14g - fl. 41), aliadas à resistência armada, constituem elementos suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a imposição da prisão preventiva.
+Assim, a tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circun stâncias fáticas que justificam a prisão preventiva, conforme os seguintes precedentes: RHC 71.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016; HC 398.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/8/2017, DJe 29/8/2017; HC 403.269/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 1/12/2017; RHC 74.131/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas co rpus.
+Publique-se.
+Intimem-se.
