@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DALVA CRISTINA MARTINS (MARIA), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - SENTENÇAJULGOU PROCEDENTE O PEDIDO INICIAL E CONDENOU OEMBARGANTE AO PAGAMENTO DO ÔNUS SUCUMBENCIAL.
+1. Honorários advocatícios - Constrição realizada por omissão do Embargante, que deixou de realizar a transferência dos registros perante o órgão competente - Aplicação da Súmula 303/STJ - Condenação pelo princípio da causalidade - Precedente REsp Repetitivo nº 452.840/SP.
+2. Majoração dos honorários, a teor do art. 85, § 11, do CPC/15.
+RECURSO NÃO PROVIDO.(e-STJ, fls. 256/261).
+Os embargos de declaração opostos por MARIA foram acolhidos sem efeitos modificativos (e-STJ, fls. 385/391).
+Nas razões do presente recurso, MARIA alegou a violação aos arts. 1.245 do CC, 85 do CPC, 195 e 237 da Lei 6 .015/73, ao sustentar que (1) para que haja a transferência do domínio, deve ser realizado o registro do título translativo, o que não ocorreu no caso em tela; (2) a formalização da penhora sobre imóvel que não era de titularidade do executado, em clara ofensa ao princípio da continuidade do registro, precede a existência de qualquer outro registro de direito real; (3) o imóvel penhorado não estava registrado no nome do devedor, portanto, jamais poderia ser constrito, o que atrai a condenação do credor nas verbas de sucumbência.
+Foram apresentadas contrarrazões (e-STJ, fls. 426/440).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Dos honorários advocatícios
+Em suas razões recursais MARIA insiste na inversão dos ônus sucumbenciais sob o argumento de que a penhora ocorreu em imóvel que não era de titularidade do executado.
+Sobre o tema, o Tribunal do Paraná se manifestou nos seguintes termos:
+Não se desconhece o disposto nos arts. 195 e 237 da Lei nº 6.015/73, bem como o art. 1.245 do CC, que dispõem que a transferência da propriedade se dá mediante o registro do título translativo no Registro de Imóveis.
+E, de fato, em um primeiro momento, poder-se-ia dizer que deveria ser aplicado tal dispositivo, vez que em observância aos presentes autos, tem-se que há somente a escritura pública de compra e venda firmada entre Antônio Ganassin Filho, Therezinha Santos Ganassin e Mozart Silva (mov.55.2), sem que tenha sido realizada a averbação de tal transação na matrícula do imóvel (mov. 55.3).
+Contudo, o presente caso deve ser analisado com cautela.
+Isto porque, conforme mencionado anteriormente, Antônio Ganassin Filho, Therezinha Santos Ganassin e Mozart Silva, firmaram escritura pública de compra e venda do imóvel de matrícula 3.081, do Cartório de Registro de Imóveis de Nova Esperança/PR. Ocorre que, chama atenção no presente feito o fato de que a Embargante, Maria Dalva, figurou como testemunha instrumentária na escritura pública de compra e venda, realizada em 19.05.2015. Ou seja, havia plena ciência acerca da transação firmada entre as partes.
+Entretanto, mesmo ciente de que o Sr. Mozart Silva havia adquirido o imóvel de matrícula 3.081, do Cartório de Registro de Imóveis de Nova Esperança/PR, a Embargante, em15.07.2015, ingressou com a Ação de Usucapião nº 0002525-43.2015.8.16.0119, em face dos antigos proprietários, Sr. Antônio Ganassin Filho e Sra. Therezinha Santos Ganassin, pleiteando o reconhecimento do domínio sobre o imóvel supracitado.
+Deste modo, analisando tais fatos, a conclusão a que se chega é que ainda que o registro opere a transferência (art. 1.245, CC), é certo que a escritura pública, na qual, inclusive, a Embargante assinou como testemunha do negócio jurídico, gerou a expectativa de direito.
+Assim, verifica-se que existiam nos autos provas suficientes que demonstravam a propriedade do Executado, Sr. Mozart, sobre o bem constrito, como a escritura pública de compra e venda (mov. 55.2 - autos executivos) e a declaração de imposto de renda, na qual o Executado declarou o imóvel (mov. 51.9 - autos executivos), motivo pelo qual o Exequente/Embargado pleiteou a penhora dobem.
+Além disso, conforme já salientado no acórdão do Recurso de Apelação, a época da penhora do imóvel nos autos executivos, não existia qualquer registro da Ação de Usucapião, de modo que o Embargado não teria como ter conhecimento da transferência do imóvel.
+Isto é, caso fosse aplicado o disposto no art. 1.245 do CC, para que fosse reconhecido que o Sr. Mozart Silva nunca foi proprietário do bem, diante da ausência de averbação na matrícula do imóvel da escritura pública de compra e venda, o mesmo entendimento deveria ser aplicado em relação a Embargante, Sra. Maria Dalva, vez que deixou de promover averbação na matrícula do imóvel a respeito da ação de Usucapião, impossibilitando o conhecimento perante terceiros.
+Ora, a aplicação do direito vale para todos, não podendo a parte Embargante querer se beneficiar de dispositivo legal que poderia também ser aplicado em seu desfavor (e-STJ, fls. 389/390).
+De fato, o pedido de penhora do imóvel matriculado sob o nº 3.081 no CRI de Nova Esperança/PR foi feito pelo credor com fundamento na escritura pública de compra e venda realizada entre ANTÔNIO GANASSIN FILHO, THEREZINHA SANTOS GANASSIN e MOZART SILVA.
+Ainda que não tenha sido feito o registro da referida escritura pública, não há como desconsiderar que a ação de usucapião proposta por MARIA (processo nº 0002525-43.2015.8.16.0119) somente foi protocolada em 15.07.2015, ou seja, após a penhora do imóvel em questão.
+Importante consignar ainda que MARIA tinha pleno conhecimento sobre a transação realizada pelo devedor, tanto que figurou como testemunha instrumentária da escritura pública de compra e venda, o que autoriza a conclusão de que o pedido de penhora sobre o imóvel antes mesmo da propositura da ação de usucapião era totalmente legítimo, o que afasta qualquer pedido de condenação do credor nas verbas de sucumbência.
+Aliás, a legalidade da penhora estava consubstanciada não apenas na escritura de compra e venda, mas também na declaração de imposto de renda em que o imóvel estava arrolado como sendo de titularidade do devedor, de modo que a ausência de registro é incapaz de afastar a pretensão do credor de tentar receber seu crédito.
+Não se ignora a disposição legal que estabelece que a propriedade se transfere mediante o registro do título translativo no Registro de Imóveis.
+Entretanto, o fato da ausência de registro não impede o pedido de penhora de imóvel, ainda mais no caso dos autos em que foi juntada escritura pública de compra e venda em favor do devedor e não havia qualquer averbação da ação de usucapião na matrícula do imóvel, caindo por terra a alegação de que o princípio da continuidade do registro foi violado.
+Diante deste cenário, deve ser aplicada a Súmula nº 303 do STJ, que dispõe: Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios.
+Neste sentido, a jurisprudência desta Corte Superior é pacífica:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE REGISTRO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS ADVOCATÍCIOS. RESPONSABILIDADE DO EMBARGANTE. AGRAVO DESPROVIDO.
+1. Analisando a sucumbência à luz do princípio da causalidade, esta Corte de Justiça pacificou entendimento de que, nos embargos de terceiro, os honorários advocatícios sucumbenciais devem ser de responsabilidade daquele que deu causa à constrição indevida, nos termos da Súmula 303/STJ. Assim, constatada a desídia do adquirente-embargante em fazer o registro do contrato de compra e venda no Cartório de Imóveis, o que possibilitou o registro premonitório em relação à execução ajuizada dois anos após a celebração do aludido negócio jurídico, deve ele ser condenado a arcar com os honorários de sucumbência.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no AREsp n. 1.222.042/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 28/5/2019, DJe de 14/6/2019.)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. APLICABILIDADE.
+1. O acórdão recorrido coincide com a orientação desta Corte Superior, consolidada na Súmula nº 303/STJ.
+2. Agravo regimental não provido.
+(AgRg no Ag n. 825.720/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 20/11/2012, DJe de 26/11/2012.)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ALEXANDRE FILIPE FIOROTTO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PEDIDO DE PENHORA DE IMÓVEL EM QUE O DEVEDOR FIGUROU COMO COMPRADOR EM ESCRITURA PÚBLICA DE COMPRA E VENDA. ADMISSIBILIDADE. AUSÊNCIA DE REGISTRO QUE NÃO IMPEDE A PRETENSÃO DE CONSTRIÇÃO DE BENS. PROPOSITURA DE AÇÃO DE USUCAPIÃO PELA EMBARGANTE. PENHORA ANTERIOR AO PROTOCOLO DA AÇÃO. AUSÊNCIA DE AVERBAÇÃO NA MATRÍCULA QUE LEGITIMA O PEDIDO DE PENHORA. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. INCIDÊNCIA DA SÚMULA Nº 303 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
