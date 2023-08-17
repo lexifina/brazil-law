@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de LEIDYSON TEIXEIRA DIAS contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem, nos termos do acórdão com a seguinte ementa:
+Habeas Corpus Tráfico de Drogas e associação para o tráfico Pleito de reconhecimento da ilicitude do procedimento de busca e apreensão realizado pelos policiais em residência do corréu Nulidade não constatada Caráter permanente do crime Situação de flagrância que conta com expressa previsão constitucional (artigo 5º, inciso VI CF) - Alegação de constrangimento ilegal não evidenciada Ordem denegada. Revogação da prisão preventiva - Impossibilidade Decisão fundamentada na demonstração dos pressupostos e requisitos autorizadores da prisão preventiva Insuficiência das medidas cautelares alternativas Alegação de constrangimento ilegal não evidenciada Ordem denegada.
+No presente writ, o impetrante sustenta a nulidade do feito, ante a alegada violação aos artigo 240 e 157 do CPP.
+Ainda, defende a ausência dos requisitos da prisão preventiva, bem como a suficiência das medidas cautelares diversas ao caso.
+Requer, ao final, a concessão da liminar, a fim de ser o Paciente posto imediatamente em LIBERDADE, com o consequente relaxamento da prisão ilegal e/ou pela substituição da prisão preventiva, por medidas cautelares alternativas à prisão, nos moldes do artigo 282 e 319, ambos do Código de Processo Penal, determinando a expedição do Alvará de Soltura até o julgamento final do presente Writ. II)No mérito, após requisitadas as informações da autoridade coatora, se necessário, e, após zeloso Parecer do Ministério Público Federal, seja concedida a ordem impetrada para declarar a nulidade em todos os atos ocorridos desde os procedimentos inquisitivos (flagrante), e por conseguinte o processo judicial, por serem todos oriundos de coação em sede policial deveras demonstrados pela invasão domiciliar, nos termos do art. 5º, XI, LVI, da Constituição Federal e do art. 157 do CPP., com o consequente trancamento do presente feito criminal e absolvição do Paciente, com fulcro no artigo 386, inciso I ou II, do Código de Processo Penal.
+É o breve relatório.
+Decido.
+Compulsando os autos, denota-se que o presente writ se trata de reiteração de pedido, com os mesmos fundamentos, que se encontram pendentes de julgamento (habeas corpus n. 833315/SP).
+Nesse diapasão, o art. 210 do RISTJ dispõe, in verbis: "Quando o pedido for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+P. e I.
