@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CICERO ANCELMO DOS SANTOS, contra decisão monocrática proferida por Desembargadora do Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 129, § 3º do Código Penal, à pena de 6 anos de reclusão, em regime fechado. Após a detração do período em que o paciente ficou preso preventivamente, nos termos do art. 387, § 2º, do Código de Processo Penal, restou para cumprir a pena de 1 ano, 9 meses e 11 dias de reclusão, em regime fechado, em razão da reincidência e de circunstâncias judiciais desfavoráveis (e-STJ, fls. 18-25).
+A defesa impetrou habeas corpus perante o Tribunal de origem, tendo a Relatora indeferido liminarmente o writ, nos termos da decisão de fls. 11-16 (e-STJ).
+Nesta sede, a impetrante alega, em suma, que a decisão monocrática que não conheceu do habeas corpus impetrado na origem contraria o disposto no art. 387, § 2º, do C PP, por entender que a modificação do regime inicial seria matéria que dependeria de anterior análise do Juízo das Execuções Penais.
+Aduz que não se trata de pedido de progressão, mas de readequação do regime de cumprimento do restante da pena diante do desconto do longo período em que o paciente permaneceu preso provisoriamente.
+Requer a concessão da ordem, inclusive liminarmente, para que seja modificado o regime inicial de pena do paciente, à luz do princípio da proporcionalidade.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão monocrática, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, aplicando-se analogicamente o teor da Súmula 691/STF.
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO ESGOTAMENTO DE JURISDIÇÃO. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTADA. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF). (AgRg no HC 285.647/CE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 25/8/2014; HC 284.999/SP Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/10/2014).
+2. O enunciado aplica-se também à hipótese em que o habeas corpus é inadmitido, indeferido ou não conhecido por decisão singular do relator, a qual deveria ter sido impugnada por agravo regimental, que devolveria a questão ao colegiado competente.
+3. O histórico prisional conturbado do apenado afasta a constatação do requisito subjetivo apto à concessão do livramento condicional e fundamenta a determinação do pedido de exame criminológico.
+4. Agravo regimental não provido."
+(AgRg no HC n. 733.786/SP, minha relatoria, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ORGANIZAÇÃO CRIMINOSA. DIREITO DE RECORRER EM LIBERDADE. SÚMULA 691 DO STF. FUNDAMENTO VÁLIDO. FUGA DO DISTRITO DA CULPA. ASSEGURAR A APLICAÇÃO DA LEI PENAL. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA.
+1. Segundo a jurisprudência desta Corte, não se admite habeas corpus contra decisão monocrática que indefere pedido liminar formulado na origem, por aplicação analógica da Súmula 691/STF, sob pena de indevida supressão de instância.
+2. Em casos excepcionais, uma vez evidenciada teratologia, flagrante ilegalidade ou deficiência de fundamentação na decisão impugnada, é possível a mitigação do referido óbice.
+3. No caso, não se verifica ilegalidade, teratologia ou deficiência na fundamentação, pois o Tribunal de origem asseverou que o sentenciado se encontra foragido, com mandado de prisão pendente de cumprimento desde 2015, fundamento concreto para a manutenção da segregação cautelar, forte na asseguração da aplicação da lei penal, mantendo-se a aplicação da Súmula 691/STF.
+4. A jurisprudência desta Corte firmou-se no sentido de que "não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido" (AgRg no RHC n. 110.762/RJ, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+5. Agravo regimental improvido."
+(AgRg no HC n. 785.753/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023.).
+No caso dos autos, assim constou na decisão monocrática que não conheceu do habeas corpus impetrado perante a Corte de origem:
+"No caso em tela, observo que a sentença de 1º grau, mesmo após realizar a detração, determinou que o regime inicial de pena do paciente fosse o fechado em consonância com o art. 33, §2º, "a" e §3º, do Diploma Penal, e, no dia 02/08/2023, foi confeccionada a Guia de Execução Definitiva 2023004005, enviada ao juízo da Execução, cadastrada no SEEU com o nº.50017865420238250086, em 03/08/2023, consoante pode ser acompanhado pelo Sistema Eletrônico de Execução Unificado e pelo processo de origem.
+Nesse toar, entendo que a execução da pena, com a transferência para regime menos gravoso, é matéria a ser analisada pelo Juiz da Vara de Execuções Penais, e somente será concedida ao condenado que preencher, cumulativamente, os requisitos objetivos e subjetivos estabelecidos no art. 112, da Lei de Execução Penal, in verbis:
+ ..
+Em assim sendo, apreciar o pleito objeto do presente "mandamus", seria incorrer em supressão de instância, uma vez que o Juízo competente para analisar tal situação seria o da Execução Penal nos termos do art. 66, inciso III, alínea "b", da Lei nº 7.210/84." (e-STJ, fls. 12-13)
+Não se verifica, portanto, a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, pois, conforme se extrai dos autos, o regime inicial fechado foi fixado não somente em razão do quantum de pena fixado, mas pela reincidência do paciente e pela existência de circunstâncias judiciais desfavoráveis.
+Desse modo, eventual alteração de regime de cumprimento de pena não se daria somente com a detração penal, mas por progressão de regime, pleito que deve ser analisado primeiramente pelo Juízo da Execução Penal.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
