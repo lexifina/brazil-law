@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA COMPLEMENTAR - ELOS (FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL - ELOS), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/04/2023.
+Concluso ao gabinete em: 09/08/2023.
+Ação: consignatória, ajuizada por COMPANHIA DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA DO SUL DO BRASIL - ELETROBRÁS CGT ELETROSUL, em face de FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA COMPLEMENTAR - ELOS (FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL - ELOS).
+Sentença: julgou procedente o pedido, decretando a extinção de pagamento do valor apontado na inicial, correspondente à contribuição para a previdência complementar dos reclamantes da Ação Trabalhista nº 0020304-54.2015.5.04.0811, bem como autorizou o levantamento do valor depositado judicialmente, mediante alvará automatizado, após o trânsito em julgado. Por fim, condenou a agravante ao pagamento das custas e dos honorários, que foram fixados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Ação de consignação de pagamento. Previdência privada. Fundação ELOS. Consignação dos valores relativos a custeio referente a inclusão de verbas no salário do participante por decisão judicial. Cabimento. Recusa injustificada do recebimento. Honorários recursais.
+I. No caso concreto, trata-se de ação de consignação em pagamento, baseada no art. 335, I, do Código Civil, ajuizada pela patrocinadora contra a Fundação requerida visando realizar o repasse das contribuições patronais decorrentes do deferimento, em reclamatória trabalhista ajuizada por ex-empregado, participante do plano de benefícios, da inclusão de verbas trabalhistas no salário que este percebia quando estava na ativa.
+II. Nos termos do art. 544, do CPC, somente é possível alegar na contestação ao feito a ausência de recusa ou mora no recebimento, a justa recusa, o descumprimento do prazo ou do lugar de pagamento e que o valor não foi pago integralmente, hipótese em que a requerida deverá apontar o valor que entende devido.
+III. Na hipótese fática, presentes os pressupostos para a consignação em pagamento, nos termos do art. 335, I, do Código Civil, e não sendo a recusa no recebimento dos valores satisfatoriamente justificada pela requerida, imperativa a manutenção da sentença de procedência da demanda.
+IV. De acordo com o art. 85, § 11, do CPC, ao julgar recurso, o tribunal deve majorar os honorários fixados anteriormente ao advogado vencedor, levando em conta o trabalho adicional realizado em grau recursal, observados os limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Apelação desprovida" (e-STJ fl. 359/360)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 395/398).
+Recurso especial: alega violação dos arts. 11, 489, § 1º, IV, 1.022, II, § único, II, 1.036 e seguintes, CPC/15, Tema 955/STJ, Tema 1021/STJ. Além de negativa de prestação jurisdicional, sustenta que: i) o acórdão recorrido não indica nenhum elemento formador de convicção; e, ii) ao permitir o repasse de valores de contribuições de custeio para a recorrente sem a necessária aferição atuarial para identificar se são suficientes para recompor a reserva matemática que daria lastro à majoração de benefício, a Corte local violou o entendimento desta Corte expresso por ocasião do Tema 955; e, iii) seria adequado que a recorrida repassasse os valores ao participante e não para a recorrente, eis que essa não poderá recalcular o benefício, cumprindo o determinado nos Temas 955 e 1021 STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de Tema
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da procedência do pedido da ação de consignação em pagamento, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 1.036 e seguintes, CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "no caso dos autos, a agravante, sem razão, alega que foi justa a recusa por não ter participado da Reclamatória Trabalhista que deu origem ao seu crédito, por tal determinação ter sido feita por juízo incompetente para tanto, bem como que o valor não contempla a integralidade do débito, uma vez que diz respeito somente ao custeio, e não à reserva matemática", bem como de que "sem razão a agravante com relação ao argumento de que o valor consignado não seria suficiente para a satisfação do crédito levando em conta que deve ser recomposta a reserva matemática do benefício, e não somente o seu custeio, uma vez que, como determinado no parágrafo único do art. 544, do CPC, entendendo que o valor do depósito não quita integralmente o débito, deveria ter indicado expressamente qual montante entende devido, o que não fez, apenas referindo ser necessário o cálculo através de perícia atuarial", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% sobre o valor atualizado da causa (e-STJ fl. 365) para 18%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA. VIOLAÇÃO DE TEMA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação consignatória.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
