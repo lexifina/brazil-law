@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ISRAEL FAGNER BERGO CAETANO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia, alega violação dos arts. 155, 156 e 386, V, do Código de Processo Penal, no que concerne à necessidade de absolvição do recorrente por insuficiência de provas, uma vez que a condenação foi embasada somente em elementos colhidos no inquérito policial, trazendo os seguintes argumentos:
+A prova constante nos autos, referente à autoria delitiva, é de todo insuficiente para o decreto condenatório exarado na segunda instância, surgindo daí a alegação de que o acordão não pode subsistir, por ter sido proferido em total descompasso com os elementos constantes nos autos (fl. 470).
+É cediço que o ônus da prova incumbe a quem alega. No caso em tela, incumbe ao Ministério Público a apresentação de provas capazes de comprovar a autoria e materialidade do fato alegado. Nos autos, verifica-se, como já mencionado, que o acordão proferido teve como base tão somente nos depoimentos das testemunhas e vítima, colhidas durante a investigação criminal (fl. 470).
+Ocorre que não consta nos autos qualquer outro elemento que possa justificar a condenação do recorrente, já que o único elemento para sua condenação eram estes depoimentos altamente desencontrados e contraditórios (fl. 470).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos:
+Como se vê, há nos autos provas suficientes de que os acusados praticaram o crime pelo qual eles foram condenados (fl. 452).
+E não é demais lembrar que depoimentos de policiais, civis ou militares, são plenamente válidos como os de qualquer outra testemunha, principalmente quando colhidos em juízo, sob o crivo do contraditório (fl. 452).
+Observa-se que o local, uma casa abandonada, é conhecido como ponto de venda de drogas. Os policiais para lá se deslocaram porque receberam denúncias anônimas sobre a ocorrência do tráfico no local. Foi apreendido drogas e a forma como estavam embaladas confirmam a mercancia ilícita por parte dos réus, além disso o depoimento dos agentes foi coerente, não havendo indícios de que queriam incriminar injustamente os acusados (fls. 453-454).
+Nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente em elementos informativos do inquérito policial.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas produzidas sobre o crivo do contraditório, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: AgRg no AREsp n. 2.030.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/5/2022; AgRg no AREsp n. 1.924.674/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/4/2022; AgRg no AREsp n. 1.773.536/AM, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
