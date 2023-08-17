@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado pelo r. JUÍZO DE DIREITO DA VARA ÚNICA DE CAPITÃO POÇO-PA, suscitante, em face do r. JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE SANTA CRUZ DO CAPIBARIBE-PE, suscitado.
+Ação: Monitória ajuizada por ABEL VICENTE TAVARES JUNIOR contra PAULO HIDELBERTO LINS BARBOSA.
+Decisão do juízo suscitado: declinou de sua competência para o suscitante, ao fundamento de que "(..) Tratando-se, pois, de ação fundada em prova escrita sem eficácia de título executivo, a competência para processamento firma-se pelo domicílio do devedor." (fls. 23-24).
+Decisão do juízo suscitante: suscitou o conflito em análise com arrimo no fato de que "(..) a competência para processar e julgar as ações monitórias como sendo o foro do domicílio do réu é regra de competência relativa, ou seja, o juiz não pode conhecer de ofício, pois, se o requerido não a suscitar, ocorre a prorrogação da competência, ou seja, a ação continuaria a tramitar na comarca de Santa Cruz do Capibaribe (PE)". (fls. 53-55).
+Parecer do Ministério Público Federal: opinou pelo julgamento do feito (fls. 63-66).
+É o relatório.
+Decisão.
+De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+1. Em conflitos similares - oriundos de julgamentos envolvendo ações monitórias -, a orientação jurisprudencial da Segunda Seção caminha no sentido de que "a competência territorial é matéria que gera nulidade relativa, não devendo ser reconhecida de ofício, mas arguida em momento oportuno, sob pena de operar-se a preclusão" (AgRg no AREsp n. 240.812/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/9/2015, DJe 15/10/2015)
+No mesmo sentido , confiram-se: CC 176.398/MT, Rel. Min. Antonio Carlos Ferreira, Dje de 01/02/2021; CC 179.118/RJ, Rel. Min. Moura Ribeiro, DJe de 02/06/2021; CC 178.974/PB, Rel. Min. Nancy Andrighi, DJe 01/07/2021; CC 175.313/GO, Rel. Min. Ricardo Vilas Bôas Cueva, DJe 17/12/2020.
+Com efeito, não pode o Juízo suscitado, no qual foi ajuizada a ação, excluir sua competência sem a devida provocação do réu, nos termos da Súmula n. 33 do STJ: "a incompetênci a relativa não pode ser declarada de oficio" (Súmula n. 33, CORTE ESPECIAL, julgado em 24/10/1991, DJ 29/10/1991).
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC, c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL DE SANTA CRUZ DO CAPIBARIBE-PE, onde se processa a Ação Monitória n.º 0000505-58.2021.8.17.3250, movida por Abel Vicente Tavares Junior contra Paulo Hidelberto Lins Barbosa.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados.
