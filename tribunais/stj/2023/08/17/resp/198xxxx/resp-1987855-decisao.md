@@ -1,0 +1,5 @@
+DECISÃO
+Estando pendente de julgamento o recurso especial interposto por Elite Pro-Joia Ltda. , sucedida por Guerreiro Acessórios de Moda Ltda., foi juntada aos autos a Petição n. 702.901/2023 (e-STJ, fls. 455-460), apresentada conjuntamente pelas partes e seus respectivos advogados, informando sobre a celebração de acordo para encerrar a questão litigiosa, com pedido de homologação por esta relatoria, consistindo o ajuste, entre outras mútuas concessões, na renúncia da parte autora à pretensão de revisão contratual deduzida contra o réu, e na abdicação dos advogados do réu quanto aos honorários sucumbenciais que lhes foram atribuídos.
+Por não vislumbrar óbice ao acolhimen to do pedido e com a permissão concedida pelo art. 34, IX, do RISTJ, homologo o ajuste a que chegaram as partes e seus respectivos advogados e, de consequência, julgo extinto o processo com resolução do mérito, nos termo s do art. 487, III, "c", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
