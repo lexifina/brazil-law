@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAIXA ECONÔMICA FEDERAL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/3/2023.
+Concluso ao gabinete em: 15/8/2023.
+Ação: indenização securitária ajuizada por SUELI APARECIDA RODEGUERO BERNARDO, FÁBIO MACHADO RANDI, APARECIDO DA CONCEIÇÃO e DEVANILDE DE LOURDES GONÇALVES, em face de SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS.
+Decisão interlocutória: declinou à competência ao Juizado Especial Federal e deixou de apreciar pedido de incompetência da Justiça Federal da Terceira Região.
+Acórdão: negou provimento ao agravo de instrumento de SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS e CAIXA ECONÔMICA FEDERAL, nos termos da seguinte ementa (e-STJ fls. 941/942):
+PROCESSO CIVIL. FUNGIBILIDADE RECURSAL. AGRAVO PREVISTO NO ART. 557, § 1º, DO CPC. DECISÃO QUE DEU PROVIMENTO AO RECURSO, NOS TERMOS DO ART. 557, § 1º-A, DO CPC. FCVS. SEGURO. CAIXA ECONÔMICA FEDERAL. INEXISTÊNCIA DE INTERESSE PROCESSUAL. DECISÃO MANTIDA. RECURSOS IMPROVIDOS.
+1. Em homenagem ao princípio da fungibilidade recursal, recebo o agravo regimental interposto pela Sul América Companhia Nacional de Seguros como agravo legal previsto no artigo 557, § 1º do Código de Processo Civil.
+2. A atual redação do art. 557 do Código de Processo Civil indica que o critério para se efetuar o julgamento monocrático é, tão somente, a existência de jurisprudência dominante, não exigindo, para tanto, jurisprudência pacífica ou, muito menos, decisão de Tribunal Superior que tenha efeito erga omnes. Precedentes.
+3. Não merecem prosperar os inconformismos das partes agravantes, tendo em vista que a decisão recorrida foi prolatada em consonância com a jurisprudência do Superior Tribunal de justiça, no sentido de que, nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal detém interesse jurídico para ingressar na lide somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09.
+4. Considerando que as partes agravantes não conseguiram afastar os fundamentos da decisão agravada, esta deve ser mantida.
+5. Recursos improvidos.
+Recurso especial: alega violação aos artigos 14 da Lei n. 4.380/1964; 2º, I, e 6º do Decreto-Lei n. 2.406/1988; 1º, I e II, da Lei n. 12.409/2011; e 3º, 46, I, 50 e 54 do CPC/2015.
+Sustenta, em síntese, que " ..  fica claro o interesse jurídico do FCVS no feito, pois este Fundo assumiu as obrigações pertinentes às apólices públicas  .. " e, portanto, " ..  deve a Caixa ser aceita como assistente no presente caso e os autos remetidos à Justiça Federal  .. " (e-STJ fl. 956).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da orientação consolidada na jurisprudência do STJ.
+Esta Corte Superior pacificou entendimento, segundo o qual, nas " ..  ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66)  .. " (EDcl nos EDcl no REsp n. 1.091.363/SC, Segunda Seção, DJe de 14/12/2012).
+Nesse sentido, os seguintes precedentes desta Corte Superior: AgInt no REsp n. 1.981.047/SP, Terceira Turma, DJe de 18/10/2022; e AgInt no REsp n. 2.040.285/SP, Quarta Turma, DJe de 2/5/2023.
+Dessa maneira, encontrando-se o acórdão recorrido em consonância com a orientação firmada por esta Corte Superior, incide, portanto, a Súmula n. 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais.
+O Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, no que diz respeito à ilegitimidade da agravante, assim entendeu (e-STJ fls. 940):
+ ..
+Não merece prosperar o inconformismo das partes agravantes, tendo em vista que a decisão recorrida foi prolatada em consonância com a jurisprudência do C. Superior Tribunal de Justiça, no sentido de que, nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal detém interesse jurídico para ingressar na lide somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09. In casu, os contratos de financiamento foram firmados em 1986 (fls. 64 e 73) e 1983 (fls. 78 e 83), fora do período compreendido entre 02.12.1988 e 29.12.2009, evidenciando, assim, a desnecessidade de intervenção da CEF, seja como ré ou assistente.
+ ..
+Dessa forma, reinterpretar as cláusulas contratuais e, ainda, reexaminar o conjunto fático-probatório dos autos, para chegar à conclusão distinta, faz incidirem, portanto, respectivamente, as Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes: AgInt no AREsp n. 2.259.353/SP, Terceira Turma, DJe de 24/5/2023; AgInt no AREsp n. 1.347.639/SP, Terceira Turma, DJe de 19/2/2020; AgInt no AREsp n. 2.175.567/RS, Quarta Turma, DJe de 15/12/2022; e AgInt no AREsp n. 1.740.991/SP, Quarta Turma, DJe de 3/3/2021.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, nos termos do artigo 85, § 11, do CPC/2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGUROS DE MÚTUO HABITACIONAL NO SFH. AUSÊNCIA DE VINCULAÇÃO DO CONTRATO AO FCVS. CONTRATO FIRMADO ANTERIORMENTE À VIGÊNCIA DA LEI N. 7.682/1988. FALTA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. REEXAME DE FATOS E PROVAS E A INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de indenização securitária.
+2. A jurisprudência desta Corte Superior é no sentido de que, nas " ..  ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66)  .. " (EDcl nos EDcl no REsp n. 1.091.363/SC, Segunda Seção, DJe de 14/12/2012). Precedentes.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
