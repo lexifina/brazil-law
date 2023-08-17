@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local.
+Consta dos autos que o recorrido foi condenado à pena de 1 ano de detenção, no regime inicial aberto, e ao pagamento de 10 dias-multa, pela prática do crime do art. 12, caput, da Lei n. 10.826/2003.
+A apelação criminal manejada pela defesa foi provida, a fim de absolvê-lo, nos termos da ementa de e-STJ fl. 354:
+Posse ilegal de arma de fogo desmuniciada Absolvição - Impossibilidade de uso imediato - Atipicidade - Ausência de potencialidade lesiva e de perigo à incolumidade pública - RECURSO DA DEFESA PROVIDO.
+Irresignada, a acusação então interpôs recurso especial, alegando negativa de vigência ao art. 12 da Lei n. 10.826/2003, pois se trata "de uma arma de fogo cujos mecanismos de percussão, ejeção e carregamento atuavam a contento (laudo a fls. 17/20), e que poderia ter sido eficazmente utilizada assim que fosse municiada; ou seja, não era absoluta a impropriedade do objeto, como reclama o referido dispositivo de lei, para a hipótese de impunibilidade" (e-STJ fl. 381).
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 400):
+RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO DESMUNICIADA. INSURGÊNCIA MINISTERIAL CONTRA A ABSOLVIÇÃO DO RECORRIDO. ATIPICIDADE. AUSÊNCIA DE POTENCIALIDADE LESIVA E DE PERIGO À INCOLUMIDADE PÚBLICA. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Assim decidiu a Corte estadual (e-STJ fls. 355/357):
+A autoria também é certa, contudo, o réu será absolvido da acusação.
+O réu Benedito André da Silva disse na fase inquisitiva (folha 04) que "há 1 mês comprou um revolver, Smith Welson, calibre .32 de VALMIR VINICIUS APARECIDO RIBEIRO DA SILVA, conhecido como "Bigode" pelo valor de R$ 400,00. No mesmo dia, instantes depois, policiais militares foram até sua casa, indagando sobre a arma, sendo que o declarante admitiu que havia comprado de VALMIR e entregou aos policiais. Relata que comprou por "curiosidade". Não tem passagens pela polícia. Está arrependido.".
+ ..
+Assim, não há dúvidas de que o réu foi encontrado na posse de um revólver aparentemente usado, niquelado, parcialmente enferrujado, da marca aparente de fabricação "Smith & Wesson", calibre real 8.7mm (folha 18).
+Consigno, contudo, que razão assiste à defesa em sua alegação de que a conduta do apelante é atípica. Em que pese constar do laudo pericial de folhas 17/20 a eficácia da arma, é certo que não consta dos autos a apreensão de munição (folha 07).
+Estando a arma desmuniciada e não havendo munição próxima do do apelante que pudesse ser utilizada, não se vislumbra potencialidade lesiva do artefato, o qual não oferece qualquer perigo à incolumidade pública. A absolvição, portanto, é de rigor ante a atipicidade da conduta. Neste sentido:
+ ..
+Ante o exposto, dá-se provimento ao recurso de Benedito André da Silva para ABSOLVÊ-LO de estar incurso no crime previsto no artigo 12, "caput", da Lei nº 10.826/2003, com fundamento no artigo 386, inciso III, do Código de Processo Penal. (Grifei.)
+O acórdão recorrido destoa do entendimento do Superior Tribunal de Justiça firmado no sentido de que "a posse de arma de fogo é crime de perigo abstrato, sendo irrelevante, portanto, aferir sua lesividade ou mesmo o fato de estar desmuniciada, porquanto o que se busca é a proteção da segurança pública e a paz social" (AgRg no AREsp n. 1.475.991/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/11/2019, DJe de 11/11/2019).
+Confiram-se ainda:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ATIPICIDADE MATERIAL DA CONDUTA. NÃO OCORRÊNCIA. DELITO DE PERIGO ABSTRATO. POTENCIALIDADE LESIVA ATESTADA POR LAUDO PERICIAL.
+I - "Firme a jurisprudência desta Corte Superior no sentido de que a posse irregular de arma de fogo de uso permitido, ainda que desmuniciada, configura o delito do art. 12 da Lei n. 10.826/2003, de perigo abstrato, que presume a ocorrência de risco à segurança pública e prescinde de resultado naturalístico à integridade de outrem para ficar caracterizado (AgRg no HC 650.615/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 1º/6/2021, DJe 10/6/2021)." (AgRg no AREsp n. 1.923.971/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+II - Agravo regimental desprovido.
+(AgRg no AREsp n. 2.185.134/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE DE ARMA DE FOGO. TESE DE ATIPICIDADE. ARMA DESMONTADA. IRRELEVÂNCIA. CRIME DE PERIGO ABSTRATO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES DESTA CORTE.
+1. Os argumentos trazidos no agravo regimental não são suficientes para infirmar a decisão agravada que denegou a ordem, seguindo a jurisprudência desta Corte, que entende que a posse ilegal de arma de fogo é um delito de perigo abstrato, sendo irrelevante o fato de a arma estar desmuniciada ou desmontada para a configuração do crime.
+2. Agravo regimental improvido.
+(AgRg no HC n. 708.346/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ARTS. 12 E 16 DA LEI N. 10.826/2006. TRANCAMENTO DA PERSECUÇÃO PENAL. ALEGADA AUSÊNCIA DE JUSTA CAUSA. ATIPICIDADE MATERIAL DA CONDUTA POR OBSOLESCÊNCIA DOS ARTEFATOS APREENDIDOS. INOCORRÊNCIA. POTENCIALIDADE LESIVA ATESTADA POR LAUDOS PERICIAIS. DELITOS DE PERIGO ABSTRATO QUE PRESCINDEM DE EFETIVO RISCO À PAZ PÚBLICA. PRECEDENTES. TRANCAMENTO DE AÇÃO PENAL EM HABEAS CORPUS É MEDIDA EXCEPCIONAL. NECESSIDADE DE ANÁLISE APROFUNDADA DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA PROCESSUAL ELEITA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Consolidou-se, nesta Superior Corte de Justiça, entendimento no sentido de que somente é cabível o trancamento da persecução penal por meio do habeas corpus quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta praticada pelo acusado, seja pela ausência de indícios de autoria e materialidade delitiva, ou, ainda, pela incidência de causa de extinção da punibilidade. Precedentes.
+- Havendo a potencialidade lesiva da arma de fogo e das munições sido atestadas pelos laudos periciais, não há que se falar em ausência de justa causa para o prosseguimento da persecução penal, pois se tratam de delitos de perigo abstrato, os quais prescindem de efetivo risco à paz pública. Por tais razões, a Quinta Turma desta Corte consolidou o entendimento segundo o qual o porte de munição, ou mesmo de arma de fogo desmuniciada, subsomem-se aos tipos penais previstos na Lei n. 10.826/2006. Precedentes.
+- Desse modo, não sendo possível atestar de plano a atipicidade das condutas atribuídas ao paciente, impossível concluir-se pela inexistência de justa causa para a persecução criminal, pois, para se negar a ocorrência dos fatos delituosos, seria necessária a análise aprofundada de matéria fático-probatória, o que é vedado na via estreita do habeas corpus.
+- Agravo regimental não provido.
+(AgRg no HC n. 741.264/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ATIPICIDADE DA CONDUTA. SÚMULA N. 83/STJ. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. FALTA DE INTERESSE DE RECORRER. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese absolutória por atipicidade da conduta, pela mera razão de a arma estar desmuniciada, não encontra respaldo na jurisprudência predominante no STJ, haja vista a compreensão de se tratar de crime de mera conduta. Incidência da Súmula n. 83 do STJ.
+2. A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+3. A revisão da dosimetria da pena é inviável, pois não há interesse em recorrer, no tocante à fixação da pena privativa de liberdade, conquanto esta foi estabelecida no patamar mínimo previsto no tipo penal.
+4. A readequação da prestação pecuniária não foi requerida pela defesa, no momento da oposição dos embargos de declaração na instância de origem. Portanto, por esse aspecto, não pode ser suscitada diretamente nesta Corte Superior.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.998.093/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022, grifei.)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
