@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por ROSILENE DA SILVA BARBOSA LUIZ, contra acórdão da SEGUNDA TURMA, relatado pelo Ministro Mauro Campbell Marques, e ementado nestes termos:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO ESPECIAL. PRAZO SUGERIDO PELO SISTEMA PJE. IRRELEVÂNCIA. ÔNUS DA PARTE.
+1. O entendimento da Corte Especial firmado no AgInt no AREsp 957.821/MS, segundo o qual nos casos de recurso especial interposto na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição do recurso, não sendo possível a comprovação posterior, uma vez que a intempestividade se trata de vício grave, insanável
+2. A Corte especial, no julgamento do AREsp n. 957.821/MS, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a comprovação da tempestividade após a interposição do recurso" (AgInt no RMS 58.012/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/06/2019, DJe 14/06/2019), ressalvada a "segunda-feira de carnaval" (Questão de Ordem nos autos do REsp 1.813.684/SP, Corte Especial, Sessão Ordinária de 3.3.2020).
+3. Agravo interno não provido."
+Alega a Embargante divergência no que diz respeito à "possibilidade de admitir recurso intempestivo, considerando a ocorrência de equívoco na informação do prazo passado pelo PJE, instrumento de confiança do Advogado, tendo em vista que este é, hoje em dia, o principal meio de informações acerca de processos eletrônicos dos Advogados" (fl. 318).
+Aponta como paradigma o EREsp 1.805.589/MT, Relator Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, CORTE ESPECIAL, julgado em 18/11/2020, publicado no DJe de 25/11/2020. Sustenta a Embargante que, ao contrário do acórdão embargado, o paradigma entendeu que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente".
+Proferi a decisão de fls. 356-357, admitindo, em juízo prelibatório, o processamento dos embargos.
+Sem contrarrazões, consoante certidão de fl. 362.
+O Ministério Público Federal opinou pelo não conhecimento dos embargos, consoante parecer de fls. 366-369.
+É o relatório.
+Decido.
+Com razão o parecer ministerial, na medida em que o tema de debate no acórdão embargado não se confunde com a controvérsia tratada no paradigma.
+Com efeito, o acórdão embargado resolveu a questão na linha do "entendimento da Corte Especial firmado no AgInt no AREsp 957.821/MS, segundo o qual nos casos de recurso especial interposto na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição do recurso, não sendo possível a comprovação posterior, uma vez que a intempestividade se trata de vício grave, insanável  .. ."
+O paradigma, por sua vez, examinou questão diversa, assim delimitada: "A embargante defende a tempestividade de recurso especial interposto fora de seu prazo. Para tanto, não destaca a ocorrência de feriado local ou ausência de expediente forense, mas equívoco na contagem do prazo pelo sistema oficial (PJe) do Tribunal de origem" (grifei).
+Constata-se, assim, que inexiste similitude fático-jurídica entre os casos comparados, o que enseja a inadmissibilidade dos embargos de divergência.
+"A falta de similitude fático-jurídica entre o acórdão embargado e o apresentado como paradigma obsta a admissão do recurso de embargos de divergência, pois tem-se por não cumpridos os arts. 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ" (AgInt nos EDcl nos EAREsp 1337814/RS, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 22/03/2022, DJe 24/03/2022).
+No mesmo diapasão: "Somente são cabíveis os embargos de divergência quando o acórdão trazido à colação firmou posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (AgInt nos EAREsp 805.488/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 17/05/2017, DJe 26/05/2017; grifo nosso).
+Ante o exposto, NEGO SEGUIMENTO aos embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. ACÓRDÃO EMBARGADO QUE, NA ESTEIRA DA JURISPRUDÊNCIA DO STJ, ENTENDEU QUE O FERIADO LOCAL DEVE SER COMPROVADO NO ATO DE INTERPOSIÇÃO DO RECURSO. PARADIGMA QUE TRATOU DE ERRO NA FIXAÇÃO DO TERMO FINAL DO PRAZO, EXCLUINDO EXPRESSAMENTE A SITUAÇÃO DOS AUTOS. MANIFESTA DESSEMELHANÇA ENTRE OS CASOS COMPARADOS. EMBARGOS DE DIVERGÊNCIA AO QUAL SE NEGA SEGUIMENTO.
