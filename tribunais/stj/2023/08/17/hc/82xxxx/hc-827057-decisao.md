@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 254):
+1. - Adotado o relatório da r. sentença de fls. 213/221, acrescentamos que Vanderlei Claudino da Silva foi condenado às penas de sete (07) anos, cinco (05) meses e vinte e cinco (25) dias de reclusão e dezoito (18) dias-multa e Luiz Alberto Pereira Santos às penas de oito (08) anos, oito (08) meses e vinte e quatro (24) dias de reclusão e vinte e um (21) dias - multa, ambos em regime fechado, por infração ao artigo 157, §, 2º, incisos I e II, combinado com o artigo 70, ambos do Código Penal.
+  Vanderlei e Luiz apelaram conjuntamente a defensora pleiteou suas absolvições com fundamento no artigo 386, inciso VI, do Código de Processo Pena Alternativamente, requereu a diminuição das reprimendas. Buscou, ainda, no tocante ao apelante Luiz, a redução de suas penas sob alegação de que esta foram duplamente aumentadas pelo mesmo motivo (fls. 238/242).
+A d. Procuradoria-Geral de Justiça opinou pelo improvimento do recurso (fls. 264/269).
+É O RELATÓRIO.
+Consta dos autos que o paciente foi condenado às penas de 8 anos, 8 meses e 24 dias de reclusão e 21 dias-multa, pela prática do crime do art. 157, § 2º, I e II, c/c 70, ambos do CP. Em segundo grau, houve parcial provimento do apelo, sendo reduzida a pena para 7 anos, 5 meses e 25 dias de reclusão e 17 dias-multa.
+No presente writ, a defesa alega, em suma, constrangimento ilegal, na dosimetria das penas, tendo em vista a inobservância da Súmula 443/STJ, porquanto aplicada fração superior à mínima legal, pelo concurso de majorantes do roubo, com base unicamente no critério matemático.
+Requer, liminarmente e no mérito, a redução da pena, com a aplicação da fração mínima de 1/3 na terceira fase da dosimetria.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pela concessão da ordem.
+Acerca da dosimetria, extrai-se do acórdão (fls. 259/260):
+As penas de Luiz Alberto merecem pequena retificação.
+Estas são fixadas em quatro (04) anos de reclusão e dez (10) dias-multa, mínimo legal, e permanecerão exasperadas em um sexto (1/6) face à reincidência (fls. 99), perfazendo quatro (04) anos e oito (08) meses de reclusão e onze (11) dias-multa.
+Os maus antecedentes são afastados porque não podem ser demonstrados através das inúmeras certidões criminais juntadas aos autos, inclusive a de fls. 18 . por se tratar de fato superveniente ao delito aqui tratado.
+Em seguida as penas foram exasperadas de em três oitavos (3/8) face o reconhecimentos de duas qualificadoras, resultando em seis (06) anos e cinco (05) meses de reclusão e quinze (15) dias-multa.
+Na seqüência o concurso formal foi bem reconhecido, razão pela qual as aflições penais são novamente acrescidas de um sexto (1/6), perfazendo o total de sete (07) anos, cinco (05) meses e vinte e cinco multa, (25) dias de reclusão e no valor unitário mínimo.
+E, da sentença (fls. 191/192):
+De outra banda, as qualificadoras estão bem delineadas nos autos, decorrendo da prova até aqui analisada. Vale dizer, os increpado agiam (a) em comparsaria entre si e, no intento de alcançarem êxito na empreitada, (b) empregaram arma de fogo com vistas a intimidar as vítimas, tudo a evidenciar a maior temibilidade e reprovabilidade da conduta dos roubadores, de modo a autorizar a fixação da pena, a tal titulo, acima da cifra mínima prevista na lei (STF - HC 70.900-1, Rel. Min. Moreira Alves, 1 a Turma, j. 22.2.94, DJU de 6.5.94, pág. 10.489; HC 76.405-1-SP, mesmo Rel., 1" Turma, j. 3.3.98, subtraídos, experimentando, assim, efetiva redução patrimonial, a configurar a consumação.
+ ..
+Atentando-se, pois, para a regra insculpida no artigo 59 do Código Penal:
+a) em especial a personalidade voltada para atividades criminosas, no tocante a Luiz, fixa-se a pena-base em quatro (4) anos e oito (8) meses de reclusão, aumenta-se de um sexto (1/6), em função dai reincidência, majora-se ainda de três oitavos (3/8), por conta das qualificadoras, e acresce-se também de um sexto (1/6), mercê do concurso formal, dai alcançando-se a pena definitiva de oito (8) anos, oito (8) meses e vinte e quatro (24) dias de reclusão - adequada e suficiente à reprovação e à prevenção do delito -, ausentes causas outras autorizadoras de sua modificação; ademais, adotado o mesmo critério supra e considerada a situação econômica do réu, estabelece-se a correspondente penalidade pecuniária em vinte e um (21) dias - multa, no menor valor unitário, com atuali7ação monetária a partir da data do delito (art. 49, § 2º e 60, CP);
+Quanto ao ponto, na esteira da orientação sedimentada no enunciado 443 da Súmula desta Casa, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Com efeito, a exasperação da pena em fração superior à mínima operada (3/8) quanto ao crime de roubo se deu tão somente pelo número de majorantes, com referência à comparsaria e emprego de arma de fogo, "tudo a evidenciar a maior temibilidade e reprovabilidade da conduta dos roubadores, de modo a autorizar a fixação da pena, a tal titulo, acima da cifra mínima prevista na lei". Nesse to ar, entendo não justificada a aplicação de fração superior à mínima legal na terceira etapa do cálculo da dosimetria da pena.
+Passa-se ao redimensionamento da pena.
+Fixada a pena provisória pelo Tribunal de origem em 4 anos e 8 meses de reclusão e 11 dias-multa, a reprimenda é exasperada em 1/3 pela presença de majorantes e, em seguida, em 1/6, em razão do concurso formal, resultando na pena definitiva de 7 anos, 3 meses e 3 dias de reclusão e 16 dias-multa. Mantido o regime fechado.
+Ante o exposto, concedo o habeas corpus para fixar a pena de 7 anos, 3 meses e 3 dias de reclusão, em regime fechado, e 16 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
