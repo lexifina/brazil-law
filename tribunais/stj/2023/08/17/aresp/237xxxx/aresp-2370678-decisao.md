@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EDER ALVES DE MENDONCA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/03/2023.
+Concluso ao gabinete em: 10/08/2023.
+Ação: de cobrança ajuizada pelo ora agravante em desfavor da SEGURADORA LÍDER DOS CONSÓRCIOS DO SEGURO DPVAT S/A, pleiteando o pagamento de correção monetária do valor do prêmio por ele recebido.
+Sentença: julgou procedentes os pedidos da inicial.
+Acórdão: deu provimento à apelação da agravada, para julgar improcedentes os pedidos iniciais. A ementa restou assim redigida:
+"EMENTA: APELAÇÃO -DIALETICIDADE -OBSERVÂNCIA -AÇÃO DE COBRANÇA -SEGURO OBRIGATÓRIO DPVAT -CORREÇÃO MONETÁRIA. É regular o recurso no qual se apresenta, expressamente, as razões de irresignação, bem como se delimita os pedidos recursais -princípio da dialeticidade. O colendo Supremo Tribunal Federal entendeu pela constitucionalidade da Lei 11.482/2007 (Ação Direta de Inconstitucionalidade nº 4.350/DF), concluindo que, face ao silêncio da Lei 6.194/1974 (com suas posteriores alterações) a respeito da aplicação de correção monetária sobre o teto da indenização do DPVAT, descabe a pretensão de contagem de correção monetária sobre o valor da indenização recebida em sede administrativa, a partir da data da edição da Medida Provisória 340/2006 até a data do pagamento, para recomposição do valor da moeda. A correção monetária prevista no artigo 5º, §7º, da Lei 6.194/74 só é aplicável nos casos em que o pagamento da indenização ocorrer após o prazo de 30 (trinta) dias, contado a partir da entrega dos documentos necessários." (e-STJ fl. 153)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 311, II e IV, 355, I, 356, I, 926, 927, III, e 1.022 do CPC/2015, art. 884 do CC/02, bem como dissídio jurisprudencial. Argumenta que "mesmo que o pagamento tenha ocorrido dentro do prazo de 30 dias (o que não é o caso), a correção é devida a partir do evento danoso. Resta evidenciado que nesse tempo entre o acidente e o pagamento houve inflação, logo não há como deixar de reconhecer a incidência da correção monetária".
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da não incidência da correação monetária na hipótese de pagamento dentro do período de 30 dias concedido por lei, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Ressalta-se que, com exceção dos precedentes vinculantes previstos no rol do art. 927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes. (AgInt no AREsp 1427771/SP, Quarta Turma, DJe 27/06/2019).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+Da correção monetária nas indenizações de seguro DPVAT
+O STJ ao julgar o REsp 1.483.620/SC (2ª Seção, DJe de 02/06/2015), sob o rito dos recursos repetitivos, fixou a tese de que "a incidência de atualização monetária nas indenizações por morte ou invalidez do seguro DPVAT, prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n. 11.482/2007, opera-se desde a data do evento danoso."
+Nesse contexto, o dispositivo legal indicado na referida tese afirma expressamente quanto à incidência da correção monetária que "os valores correspondentes às indenizações, na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, sujeitam-se à correção monetária segundo índice oficial regularmente estabelecido" (grifou-se).
+Assim, é firme o entendimento desta Corte superior no sentido de que a correção monetária sobre a indenização do seguro obrigatório DPVAT incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal. Nesse sentido: AgInt no AREsp 1497284/SE, 3ª Turma, DJe de 03/10/2019; AgInt no AREsp 1492366/SP, 4ª Turma, DJe de 25/09/2019; e AgInt no AREsp 1479030/SP, 3ª Turma, DJe 30/08/2019.
+Na hipótese sob julgamento, o TJ/MG decidiu o seguinte:
+"Nesse contexto, para que haja a possibilidade de correção monetária desde a data do sinistro, de acordo com a súmula 580 do STJ, é preciso que a indenização tenha sido disponibilizada após 30 (trinta) dias da entrega de todos os documentos necessários, o que não ocorreu na hipótese em apreço.
+Por oportuno, importa ressaltar que o autor não alegou, em momento algum, ter recebido a indenização securitária na esfera administrativa após o prazo de trinta dias legalmente previsto. E, além disso, não houve impugnação à alegação da recorrente de que o pagamento deu-se dentro do prazo de trinta dias. (e-STJ fl. 161)
+Ao decidir pela não incidência de correção monetária desde a data do acidente, o Tribunal de origem alinhou-se ao entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Em razão do disposto no art. 85, §11, do CPC/2015, majoro em mais R$ 500,00 os honorários advocatícios sucumbenciais, observada eventual concessão de gratuidade de justiça comedida nos autos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. SEGURO DPVAT. RESP 1.483.620/SC. CORREÇÃO MONETÁRIA. PAGAMENTO CONFORME O PRAZO LEGAL DE 30 DIAS. INCIDÊNCIA AFASTADA.
+1. Ação de cobrança de seguro DPVAT.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O REsp 1.483.620/SC (2ª Seção, DJe de 02/06/2015), julgado sob o rito dos recursos repetitivos, fixou a tese de que "a incidência de atualização monetária nas indenizações por morte ou invalidez do seguro DPVAT, prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n. 11.482/2007, opera-se desde a data do evento danoso."
+4. O § 7º do art. 5º da Lei 6.194/74, dispositivo legal indicado na referida tese afirma expressamente quanto à incidência da correção monetária que "os valores correspondentes às indenizações, na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, sujeitam-se à correção monetária segundo índice oficial regularmente estabelecido".
+5. A correção monetária sobre a indenização do seguro obrigatório DPVAT incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal. Precedentes.
+6. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+7. Agravo conhecido. Recurso especial conhecido e não provido.
