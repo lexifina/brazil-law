@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Silmar de Jesus Pontes, apontando-se como autoridade coatora o Relator Desembargador do Tribunal de Justiça do Paraná, que indeferiu o pedido liminar no HC n. 0049973-97.2023.8.16.0000 (fls. 58/62).
+Narram os autos que o ora paciente teve sua prisão preventiva decretada pelo Juízo de Direito da comarca de Ivaiporã/PR, em razão da suposta prática dos crimes previstos nos arts. 306 e 309 da Lei n. 9.503/1997 (Processo n. 0000659-24.2023.8.16.0085 - fls. 30/32).
+Nesta Casa, pretende a defesa a superação da Súmula 691/STF. Alega que a douta autoridade coatora negou, de forma completamente inexplicável e carente de fundamentação, o pedido de liminar em habeas corpus (fl. 6). Sustenta que a decisão do douto Juízo de primeiro grau de jurisdição não está minimante fundamentada (fl. 7). Afirma que (fl. 8):
+Não houve qualquer juízo crítico acerca do decidido em primeira instância, cingindo-se o eminente desembargador relator, a reportar-se à decisão inicial, que foi transcrita no decisum.
+Não se atentou, porém, à circunstância segundo a qual, a mera "reincidência", assim considerado o novo indiciamento ou prisão em flagrante, não enseja automaticamente a aplicação da prisão preventiva, devendo ser demonstrada concretamente a sua absoluta necessidade. É preciso que se demonstre que a custódia cautelar é necessária, adequada e imprescindível.
+Aduz que, em eventual caso de condenação, o paciente cumpriria pena em regime aberto ou semiaberto.
+Nesses termos, requer a concessão da liberdade provisória.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691 do STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Ora, a decisão monocrática que indeferiu o pedido liminar na Corte de origem, ora apontada como ato coator, entendeu devidamente fundamentado o decreto prisional, em razão da reincidência do paciente, que estava em regime aberto domiciliar, cumprindo uma pena de 6 anos de reclusão, sendo que uma das obrigações à qual o autuado estava submetido, era de permanecer em sua residência enquanto não comprovado o exercício de atividade lícita remunerada e de não ingerir bebida alcoólicas. Não bastasse, o autuado foi colocado em liberdade na data de 1º/7/2023 e em menos de um mês voltou a delinquir e descumprir as obrigações do recolhimento domiciliar (fl. 61). E nisso não há nenhum constrangimento ilegal.
+Com efeito, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 789.064/ES, Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, DJe 10/5/2023).
+Assim, não verifico, de plano, a existência de flagrante constrangimento ilegal a ser sanado.
+Dessa forma, entendo que mais adequado e prudente será reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examinará os contornos e nuances delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ARTS. 306 E 309 DO CÓDIGO DE TRÂNSITO BRASILEIRO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU LIMINAR EM HC ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Habeas corpus indeferido liminarmente.
