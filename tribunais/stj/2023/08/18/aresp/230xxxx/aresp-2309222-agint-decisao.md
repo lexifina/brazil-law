@@ -1,0 +1,11 @@
+DECISÃO
+Vistos.
+Fls. 239/245e - Trata-se de Agravo Interno (art. 1.021 do CPC/2015) interposto contra decisão monocrática mediante a qual não conheci do Agravo em Recurso Especial, porquanto não atacados especificamente os fundamentos da decisão agravada (fls. 229/233e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que, oportunamente, o recurso seja novamente analisado.
+Verifico que a controvérsia objeto do presente recurso guarda relação com o Tema Repetitivo n. 1.190 desta Corte - "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (Recursos Especiais ns. 2.030.855/SP, 2.029.636/SP, 2.029.675/SP e 2.031.118/SP), no qual foi determinada a suspensão de todos os processos em trâmite no território nacional, nos termos do art. 1.037, II, do Código de Processo Civil, consoante os fundamentos estampados na seguinte ementa:
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RESP 2.031.118/SP, RESP 2.029.675/SP, RESP 2.029.636/SP E RESP 2.030.855/SP. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV."
+2. Recurso Especial submetido ao regime dos arts. 1.036 e seguintes do CPC.
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 229/233e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 239/245e, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos Recursos Especiais acima identificados, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
