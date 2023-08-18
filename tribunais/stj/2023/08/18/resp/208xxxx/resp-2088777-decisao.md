@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5º Região assim ementado (fl. 168, e-STJ):
+ADMINISTRATIVO. APELAÇÃO. SERVIDOR CIVIL DA CGU. MILITAR REFORMADO. CÔMPUTO DO TEMPO DE SERVIÇO MILITAR PARA ACRESCER TEMPO DE SERVIÇO CIVIL. ACUMULAÇÃO DE ABONO DE PERMANÊNCIA CIVIL E PROVENTOS DE INATIVIDADE MILITAR. IMPOSSIBILIDADE. MOTIVAÇÃO REFERENCIADA, "PER RELATIONEM", COMPATÍVEL COM O PRINCÍPIO DA OBRIGATORIEDADE DA MOTIVAÇÃO DAS DECISÕES JUDICIAIS. ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF E DO TRF5. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. IMPROVIMENTO DA APELAÇÃO.
+Os Embargos de Declaração foram rejeitados (fls. 208-215, e-STJ).
+Após longo arrazoado, o recorrente alega violação aos arts. 884 do CC, 3º e 57 da Lei 6.880/1980, 3º da MP 2215-10/2001, 1º do Decreto 20.910/1932 e 37, § 10, da CF/1988.
+Afirma que não há ilegalidade ou inconstitucionalidade na cumulação da reserva remunerada com o abono de permanência (fl. 258, e-STJ).
+Contrarrazões às fls. 275-287, e-STJ.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 8.8.2023.
+A irresignação não merece acolhida.
+Observo que o Tribunal a quo decidiu a causa com base em argumentos constitucionais (art. 37, § 10, da CF) e infraconstitucionais. No entanto, o recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional em Recurso Extraordinário a ser encaminhado ao Supremo Tribunal Federal.
+Assim, aplica-se na espécie, o teor da Súmula 126/STJ, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL.AFASTAMENTO PARA PARTICIPAÇÃO EM CURSO DE FORMAÇÃO DE ANALISTA DE FINANÇAS E CONTROLE DA SECRETARIA DE ESTADO E PLANEJAMENTO DO DISTRITO FEDERAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ART. 1.032 DO CPC/2015. INAPLICABILIDADE.
+1. Tendo o acórdão recorrido fundamento constitucional, não impugnado mediante recurso extraordinário, incide, no ponto, a Súmula 126 do STJ, a qual permanece hígida, em que pese a superveniência do CPC/2015.
+2. Nos termos da jurisprudência desta Corte, a aplicação do artigo 1.032 do CPC/2015 ocorre quando há um equívoco quanto à escolha do recurso cabível. Entretanto, este não é o caso dos autos, uma vez que o acórdão recorrido tem fundamento constitucional e o recurso especial versa sobre matéria infraconstitucional. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.786.575/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/6/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 126 DO STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+1. A controvérsia foi dirimida com base em fundamentos constitucionais arts. 5º, XXXVI, e 7º, VI, da CF/1988 e infraconstitucionais arts. 53 e 54 da Lei n. 9.784/1999 , sendo certo que o recorrente não interpôs, simultaneamente ao apelo especial, o recurso extraordinário, motivo pelo qual incide no caso a Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+2. No tocante ao segundo fundamento da decisão agravada incidência das Súmulas 282 e 356 do STF, o próprio insurgente admite a ausência de prequestionamento, motivo pelo qual o recurso também não merece provimento quanto ao ponto.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.779.574/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/5/2021)
+O recorrente optou por fazer apenas alegações genéricas e não demonstrou como ocorreu especificamente a ofensa ao art. 884 do CC. Ante a deficiência das razões recursais, incide sobre a hipótese, por analogia, a Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. TRANSPORTE COLETIVO. CONCESSÃO. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 57, § 1º, 58, I, §§ 1º E 2º, E 65, II, d, DA LEI N. 8.666/1993, 9º, §§ 2º e 4º, DA LEI N. 8.987/1995, E ARTS. 884 E 944 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. REAJUSTE. TARIFAS. COMPETÊNCIA. MATÉRIA DIRIMIDA COM FUNDAMENTO NA CONSTITUIÇÃO DA REPÚBLICA. DANOS MORAIS COLETIVOS. NEXO CAUSAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+VIII - Em regra, descabe a imposição da multa, prevista no art.
+1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.539.186/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 28/4/2021)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO AÇÃO DE RESTITUIÇÃO DE VALORES PAGOS A TÍTULO DE VRG DÍVIDA DECORRENTE DE CONTRATO DE ARRENDAMENTO MERCANTIL. DETERMINAÇÃO DE INCLUSÃO NO CÁLCULO DAS PARCELAS INADIMPLIDAS. CABIMENTO PRESCRIÇÃO DECENAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de demonstração da violação aos dispositivos legais pelo acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284 do STF.
+2. O entendimento da Corte local apresenta-se em harmonia com a jurisprudência desta Corte Superior de Justiça, o que atrai a inadmissibilidade do recurso especial pela incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.693.622/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 26/4/2021)
+Quanto à infringência ao art. 1º do Decreto 20.910/1932, a Corte regional assentou que houve preclusão do debate sobre o julgamento ter sido extra petita. Ademais, a sentença não estava sujeita ao reexame necessário. Portanto, não houve prequestionamento desse dispositivo legal, o que atrai a incidência da Súmula 211/STJ.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADQUIRENTE DE UNIDADE IMOBILIÁRIA. ATÉ O MOMENTO, FORMALMENTE, NÃO CONSTA COMO CREDOR DAS RECUPERANDAS. INCLUSÃO QUE DEVE SER OBJETO DE IMPUGNAÇÃO DE CRÉDITO. NECESSIDADE DE ASSINATURA DO INSTRUMENTO DE DISTRATO. DISCUSSÃO EM SEDE PRÓPRIA. EMPREENDIMENTO SUJEITO A PATRIMÔNIO DE AFETAÇÃO. PLANO CONTÉM PREVISÃO DE CREDORES FUTURAMENTE OPTAREM SOBRE O MODO DE PAGAMENTO DE SEUS CRÉDITOS. INEXISTÊNCIA DE IRREGULARIDADE. LEGALIDADE DOS ÍNDICES DE JUROS PREVISTOS (TR E IPCA). PRAZO DE SUPERVISÃO JUDICIAL PRORROGADO ATÉ QUE FINDA A CARÊNCIA. DECISÃO MANTIDA. PRETENSÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm.211/STJ).
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.641.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/4/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. CONDOMÍNIO. ILEGALIDADE DA COBRANÇA DA TARIFA MÍNIMA, MULTIPLICADA PELO NÚMERO DE ECONOMIAS. APONTADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO. ALEGADA INFRINGÊNCIA AOS ARTS. 6º, IV E VI, 39, I, V E X E 51, IV E X, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ÚNICO HIDRÔMETRO. TARIFA PROGRESSIVA. CONSUMO TOTAL MEDIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..) IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, IV e VI, 39, I, V e X e 51, IV e X, do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ.
+V. Segundo o entendimento do STJ, "em casos de condomínios, em que existe apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido" (STJ, AgRg no REsp 997.405/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2009). No mesmo sentido: STJ, AgInt no REsp 1.745.659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019; AgInt no AgInt no REsp 1.841.266/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/03/2021; EDcl no REsp 625.221/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ 25/05/2006. No caso, o acórdão recorrido encontra-se em conformidade com o aludido entendimento.
+VI. Agravo interno improvido.
+(AgInt no AREsp 859.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/4/2021)
+Diante do exposto, não conheço do Recurso Especial.
+Nos termos do art. 85, § 11, do CPC, majoro para 20% sobre o valor da causa a condenação em honorários advocatícios.
+Publique-se.
+Intimem-se.
