@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de petição apresentada por ENEBRAS MATERIAIS ELÉTRICOS LTDA, em que pleiteia a desistência parcial do mandado de segurança impetrado na origem, unicamente no que se refere à incidência do IRPJ e CSLL sobre os juros SELIC, recebidos no levantamento de depósitos judiciais.
+O writ impetrado pelo requerente, na origem, objetivava excluir da base de cálculo do IRPJ e da CSLL os valores recebidos a título de encargos e juros moratórios - SELIC, decorrentes de repetição de indébito tributário e depósitos judiciais.
+A segurança foi denegada em primeira instância e concedida pelo Tribunal de origem. O RESP só foi admitido quanto aos depósitos judiciais. No que respeita à repetição de indébito o RESP teve seu seguimento negado na origem.
+A FAZENDA NACIONAL interpôs o presente recurso especial, que foi parcialmente provido, em decisão monocrática de fls. 847-852, pelo Ministro Humberto Martins, em 22/05/2023, "para reconhecer a incidência do IRPJ e da CSLL sobre os valores referentes à taxa SELIC no levantamento de depósitos judiciais, nos termos do Tema repetitivo n. 504/STJ". A desistência parcial requerida se refere, pois, aos depósitos judiciais, que foram objeto do provimento do RESP.
+É o relatório.
+Decido.
+Inicialmente, verifico que a petição de desistência foi protocolizada por advogado com poderes para essa finalidade (e-STJ / fl. 391).
+É de se registrar também que, com fundamento na orientação do Supremo Tribunal Federal - STF, estabelecida no julgamento do RE 669.367/RJ, sob o regime da repercussão geral, o impetrante pode desistir de mandado de segurança sem a anuência do impetrado, mesmo após a prolação da sentença de mérito (Tema 530: Tese - É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários, a qualquer momento antes do término do julgamento, mesmo após eventual sentença concessiva do "writ" constitucional, não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC/1973.)
+Ante o exposto, HOMOLOGO o pedido de desistência nos termos em que formulado, determinando a extinção parcial do mandado de segurança, sem resolução de mérito, exclusivamente quanto ao ponto objeto da desistência, acima explicitado, nos termos do do art. 21-E, I, do RISTJ, c/c artigo 485, VIII, do CPC/2015.
+Intimem-se.
+Publique-se.
