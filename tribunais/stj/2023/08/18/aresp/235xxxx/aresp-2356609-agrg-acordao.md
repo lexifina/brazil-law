@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 299 DO CP. INSERÇÃO DE INFORMAÇÃO FALSA EM DECLARAÇÃO DE IMPORTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ZANG HON YAN contra a decisão de fls. 1074-1076 por meio da qual o agravo em recurso especial deixou de ser conhecido.
+Consta dos autos que o recorrente foi condenado como incurso nas sanções dos arts. 299 c.c. 71, ambos do Código Penal (18 vezes), à pena de 03 (três) anos e 10 (dez) meses de reclusão, em regime semiaberto, mais 101 (cento e um) dias-multa (fls. 716-7273).
+O eg. Tribunal a quo, em decisão unânime, deu parcial provimento ao recurso de apelação criminal interposto pela Defesa para reduzir a quantidade de dias multa para 38 (trinta e oito) dias-multa (fls. 841-856).
+Nas razões do recurso especial interposto com base na alínea a do permissivo constitucional, a Defesa alega violação aos artigos: 8º da Convenção Americana de Direito Humanos (CADH), 156, 386, VI e VII, e 315, IV, § 2º, todos do Código de Processo Penal, 1º do Código Penal e 2º, 5º, II, XXXVII, LV e LVII, e 93, IX, todos da Constituição Federal.
+Segundo a Defesa seria caso de absolvição do agravante por ausência de materialidade delitiva, tendo em vista que o conteúdo dos documentos não demonstra a importação de armações de óculos desmontadas, mas apenas uma suposição do fisco de que tal acontecera. Subsidiariamente, pleiteia o redimensionamento da pena mediante a redução da pena-base ao mínimo legal, a diminuição do quantum de aumento pela agravante da reincidência e pelo crime continuado e que o regime de cumprimento de pena fosse o aberto, além da substituição por penas restritivas de direitos, pois a reincidência não obsta o regime prisional mais benéfico e nem a substituição de pena. Alega ainda que:
+a) "Não o bastante, apesar de a ZHC só ter importado "hastes", conforme declarado em suas Declarações de Importação, não ensejando a prática de nenhum crime de falsidade ideológica, o e. tribunal de origem condenou o recorrente pelo referido delito, violando flagrantemente o princípio da reserva legal (CP, art. 1º)" (fl. 887);
+b) "(..) a alegação do Fisco de que as hastes possuíam características de um produto completo e acabado, não possui lastro probatório (e.g. laudo técnico), tratando-se de mera suposição, sendo que ao reputá-la verdadeira, o e. tribunal "a quo" atuou com parcialidade em prol da acusação, não se dedicando a descobrir a realidade dos fatos, mas acolhendo as alegações ministeriais mesmo sem existir provas para respaldá-las" (fl. 887);
+c) "(..) ao majorar a pena-base em 1 ano apenas em razão das consequências do suposto crime, o e. tribunal de origem agiu com abuso, afrontando a tríade do princípio da proporcionalidade (adequação, necessidade e proporcionalidade em sentido estrito)" (fl. 896);
+d) "(..) o v. acórdão recorrido ratificou o aumento da pena em 1/6 pela reincidência do recorrente. Entretanto, esclareça-se que a reincidência do recorrente não se refere à uma reincidência específica, mas genérica, pois o delito pelo qual foi acusado no presente caso concreto é diferente daquele pelo qual foi condenado anteriormente" (fl. 896);
+e) Note que o e. tribunal de origem ratificou o aumento em 2/3 pela suposta continuidade delitiva, citando precedente deste c. Superior Tribunal de Justiça (STJ) que padroniza o aumento da pena para tal situação. Ocorre que a padronização para o aumento de pena, viola o princípio da individualização da pena (CF, art. 5º, XLVI), e, mais, o aumento em 2/3 é excessivo,
+f) "Observe que o e. tribunal de origem ratificou o regime inicial semiaberto pelo réu ser reincidente. No entanto, a mera reincidência, por si só, não pode ensejar o estabelecimento do regime inicial semiaberto em detrimento do regime aberto" (fl. 897).
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido, pois a Defesa não impugnou especificamente o fundamento da decisão de inadmissão do apelo nobre, qual seja, a ausência de prequestionamento e os óbices das Súmulas 7 e 83, ambas do STJ (fls. 1074-1076).
+No regimental (fls. 1080-1087), a Defesa afirma genericamente ter refutado todos os fundamentos presentes n a decisão que inadmitiu o recurso especial.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 1095-1099).
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 299 DO CP. INSERÇÃO DE INFORMAÇÃO FALSA EM DECLARAÇÃO DE IMPORTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo não reúne condições para ser conhecido.
+A Presidência deste Superior Tribunal de Justiça verificou que o agravo em recurso especial deixou de impugnar parte dos fundamentos da decisão de admissibilidade feito pelo Tribunal de origem para não admitir o apelo nobre, em especial, a ausência de prequestionamento, Súmula 7/STJ, consonância do acórdão recorrido com jurisprudência do STJ (dosimetria) e Súmula 83/STJ (fixação de regime mais gravoso para cumprimento de pena (fls. 1074-1076).
+Por tal razão, foi aplicada a regra contida no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, ocasionando o não conhecimento do agravo em recurso especial.
+O agravante, contudo, nas razões deste agravo regimental, limita-se a tecer um resumo histórico do feito e a reiterar os mesmos argumentos expendidos quando da interposição dos recursos anteriores (recurso especial e respectivo agravo em recurso especial), deixando de desincumbir-se do ônus de infirmar o fundamento da decisão monocrática recorrida que pretende desconstituir.
+De fato, limita-se a alegar, em síntese, que:
+"A exma. ministra relatora alega que o agravante não teria impugnado a r. decisão recorrida do e. TRF-3 quanto à ausência de prequestionamento. Contudo, basta olhar o seguinte trecho do Agravo em Recurso Especial, que se verá claramente que tal ponto foi impugnado:
+ ..
+Ainda, a exma. ministra relatora alega que o agravante não teria impugnado a r. decisão recorrida do e. TRF-3 quanto à harmonia do v. acórdão recorrido com a jurisprudência deste c. STJ a respeito da ilegalidade da dosimetria da pena. Entretanto, basta observar o seguinte trecho do Agravo em Recurso Especial, que se verá claramente que tal ponto também foi impugnado:
+ ..
+Assim, note que o agravante impugnou todos os pontos da r. decisão recorrida do e. TRF-3, inclusive de forma efetiva, concreta e pormenorizada, não encontrando seu Agravo em Recurso Especial nenhum óbice pelo art. 932, III, do Código de Processo Civil (CPC) ou pelo art. 253, parágrafo único, I, do RISTJ.
+3.4. Portanto, veja que a r. decisão monocrática da exma. ministra relatora merece reforma."
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu o recorrente.
+De fato, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático- probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+De igual modo, tando agravo em recurso especial quanto no agravo regimental, não cuidou o ora agravante de refutar a aplicação da Súmula 83 do STJ de forma adequada.
+Com efeito, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Ressalto que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido são os precedentes desta Corte: AgRg no AREsp n. 2.087.876/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/9/2022; AgRg no AREsp n. 637.492/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/06/2018 e AgRg no REsp n. 1.470.682/MT, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2017.
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
