@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRADESCO S/A (BRADESCO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça da Bahia, assim ementado:
+AGRAVO INTERNO NA APELAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. APLICAÇÃO DE ENTENDIMENTO SUMULAR DO STJ E DE RECURSO ESPECIALREPETITIVO. COMISSÃO DE PERMANÊNCIA. INSURGÊNCIA EXPRESSA NO RECURSODE APELAÇÃO. NÃO OCORRÊNCIA DE DECISÃO EXTRA PETITA. AGRAVO INTERNODESPROVIDO. (e-STJ, fls. 394/405).
+Nas razões do presente recurso, BRADESCO alegou a violação aos arts. 141, 330, 489, § 1º, 492, 1.021, § 4º, do CPC, ao sustentar que (1) a decisão foi extra petita, pois foi estabelecido que a comissão de permanência não poderia ultrapassar o somatório dos juros remuneratórios (2,01%), juros moratórios (1%) e multa (2%), sem que houvesse pedido expresso da parte; (2) o requerimento foi formulado de forma extremamente genérica, inexistindo pedido expresso para limitar a comissão de permanência, que sequer foi mencionada na petição inicial, sendo vedada a revisão de ofício pelo julgador; (3) o recurso não foi interposto com caráter protelatório, sendo de rigor o afastamento da multa. Aponta ainda a existência de dissídio jurisprudencial.
+Foram apresentadas contrarrazões (e-STJ, fls. 451/467)
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Do julgamento extra petita
+Como emana dos autos, MERCADO PREÇO BOM M.E (MERCADO) e MARIA EDNA DE SOUZA BARBOSA (MARIA) ajuizaram ação buscando a revisão do contrato de empréstimo - Capital de Giro nº 331/3.862.114, no valor de R$ 136.328,00, para pagamento em 36 parcelas de R$ 5.356,27.
+Na inicial postulou a procedência da ação para revisar o valor do contrato, extirpando os juros e encargos financeiros abusivos, desonerando a parte Autora de qualquer débito (e-STJ, fls. 18).
+Julgada improcedente a ação, MERCADO e MARIA interpuseram apelação, afirmando que o fundamento da decisão foi apenas o percentual de juros remuneratórios, deixando de apreciar a questão referente aos juros abusivos, juros compostos, taxas e encargos de permanência imbuídos no contrato de empréstimo bancário (e-STJ, fls. 147).
+Destacou ainda que é nítido que a Ré estaria cometendo, dentre outras irregularidade, anatocismo, além de aplicar índices de atualização monetária com base em fatores ilegais, e ainda cobrança de comissão de permanência cumulada com correção monetária (e-STJ, fls. 149).
+Diante de tais circunstâncias, fácil concluir que MERCADO e MARIA inovaram em suas razões recursais ao afirmarem que a comissão de permanência foi cumulada com a correção monetária, tendo em vista que referida matéria não foi abordada na petição inicial.
+Importante consignar que o fato de a suposta irregularidade ter sido mencionada na apelação é insuficiente para sanar o vício, pois os pedidos devem ser especificados na inicial, não podendo ser incluídos posteriormente, sob pena de violação ao princípio da adstrição ao pedido.
+Incide, no caso, a Súmula nº 381 do STJ, que dispõe: Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas. Nesse sentido, já houve manifestação desta Corte Superior:
+EMBARGOS DE D ECLARAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL. EMBARGOS DO DEVEDOR. AFASTAMENTO, DE OFÍCIO, DE CLÁUSULA CONTRATUAL. SÚMULA 381/STJ. EMBARGOS ACOLHIDOS.
+1. No caso, o Tribunal de origem, determinou o afastamento da comissão de permanência sem que houvesse pedido a respeito, fato que configura julgamento extra petita. Incidência da Súmula 381/STJ, segundo a qual: "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas".
+2. Embargos de declaração acolhidos, com efeitos modificativos, para dar provimento ao recurso especial, determinando: a) a supressão do tópico do acórdão local no qual foi decotada, de ofício, a comissão de permanência; e, b) o afastamento das demais deliberações decorrentes de tal fato.
+(EDcl no AgRg no REsp n. 327.513/MG, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 16/11/2010, DJe de 23/11/2010.)
+(2) Da multa prevista no § 4º do art. 1.021 do CPC
+Tendo em vista o acolhimento da tese ventilada pelo BRADESCO, por óbvio que a multa prevista no art. 1.021, § 4º, do CPC não deve subsistir.
+De qualquer forma, esta Corte Superior tem posicionamento no sentido de que a multa prevista no § 4º do art. 1.021 do CPC quando o desprovimento do agravo interno foi colhido em votação unânime não é automática, devendo sua aplicação incidir quando o recurso mostrar-se manifestamente inadmissível ou com caráter protelatório.
+Da análise dos autos, verifica-se que o agravo interno outrora interposto não denota nenhuma dessas características, tratando-se de mero exercício do direito de petição e reexame da matéria, devendo, portanto, ser afastada a multa aplicada.
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, APENAS PARA FINS DE ESCLARECIMENTOS QUANTO AOS HONORÁRIOS E A MULTA.
+1. Ação de obrigação de fazer cumulada com cobrança.
+2. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. Não verifico na espécie os pressupostos necessários e exigidos pelo art. 1.022 do CPC/2015 para o acolhimento dos Aclaratórios, visto que nenhuma omissão, obscuridade, contradição ou erro material existe, no corpo do decisum, que justifique o oferecimento desse recurso.
+3. Contudo, para evitar novos questionamentos, acolhem-se os Embargos Declaratórios para prestar esclarecimentos, sem, no entanto, atribuir-lhes efeitos infringentes.
+4. São inaplicáveis honorários recursais sucumbenciais na hipótese de interposição de recurso no mesmo grau de jurisdição.
+5. O Agravo Interno é recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no Recurso Especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015. Precedentes.
+6. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória.
+7. Embargos de Declaração acolhidos, sem efeito modificativo, apenas para prestar esclarecimentos.
+(EDcl no AgInt no AREsp n. 2.161.136/MG, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023, sem destaque no original.)
+Nessas condições, DOU PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. CONTRATO BANCÁRIO. EMPRÉSTIMO - CAPITAL DE GIRO. 1. COMISSÃO DE PERMANÊNCIA. ABUSIVIDADE VERIFICADA PELO TRIBUNAL ESTADUAL. PEDIDO AUSENTE NA PETIÇÃO INICIAL. JULGAMENTO EXTRA PETITA. RECONHECIMENTO. AFASTAMENTO, DE OFÍCIO, DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 381 DO STJ. 2. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC. NÃO INCIDÊNCIA. RECURSO MANIFESTAMENTE INADMISSÍVEL OU COM CARÁTER PROTELATÓRIO. NÃO CARACTERIZAÇÃO. RECURSO ESPECIAL PROVIDO.
