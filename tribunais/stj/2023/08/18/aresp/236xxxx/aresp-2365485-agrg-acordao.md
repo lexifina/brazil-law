@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO SISTEMA NACIONAL DE ARMAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não infirmou adequadamente o óbice da Súmula n. 83, STJ, que levou ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DAVI DE LIMA SANTOS contra a decisão (fls. 651-652)que não conheceu do agravo em recurso especial.
+Consta dos autos que o agravante foi condenado como incurso nas penas do art. 16, parágrafo único, inciso IV, da Lei n. 10.826/03, à pena de 04 (quatro) anos de reclusão, em regime inicial semiaberto, e pagamento de 20 (vinte) dias -multa (fls. 275-276).
+O Tribunal de origem, por unanimidade, deu parcial provimento ao recurso da defesa para reduzir a pena imposta ao apelante Davi de Lima Santos para 03 (três) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 (onze) dias-multa (fls. 371-375).
+Os embargos de declaração opostos foram, por unanimidade, rejeitados (fls. 402-404).
+Interposto recurso especial, com fulcro na alínea "a", do permissivo constitucional, a defesa alegou violação ao art. 16, inciso IV, do Estatuto do Desarmamento "(..) ao deixar de reconhecer a atipicidade da conduta em razão do porte de arma desmuniciada, sem munição disponível, tendo-se em vista que o entendimento esposado no corpo do acórdão contraria diversos precedentes emanados pelos Tribunais Superiores" (fl. 428).
+O apelo foi inadmitido ante o óbice das Súmulas n. 7 e n. 83, ambas do STJ; ausência de adequação; e deficiência de fundamentação - Súmula n. 182, STJ (fls. 592-594).
+No Superior Tribunal de Justiça, o agravo em recurso especial não foi conhecido ante a ausência de impugnação específica de parte dos fundamentos da decisão de inadmissão do apelo nobre, qual seja, o óbice da Súmula 83 do STJ.
+No regimental (fls. 659-663), a parte sustenta que o verbete sumular restou plena e satisfatoriamente impugnado nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO SISTEMA NACIONAL DE ARMAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não infirmou adequadamente o óbice da Súmula n. 83, STJ, que levou ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que o agravante não infirmou adequadamente o óbice da Súmula n. 83, STJ, que levou ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça (fl. 617):
+"No caso, contudo, a súmula em questão sequer é aplicável à espécie, pois o presente recurso não foi interposto com base na divergência, mas sim, com base exclusiva no art. 105, III, "a", da CRFB, constatando-se negativa de vigência à Lei Federal."
+A jurisprudência deste Tribunal é firme no sentido de que, para afastar a Súmula nº. 83, STJ, não basta a mera alegação. Ao revés, incumbe à parte indicar, de modo preciso, precedentes contemporâneos ou supervenientes aos colacionados na decisão recorrida, e que demonstrem o desacerto da inadmissão do recurso interposto. Veja-se:
+" ..  Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, incumbe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada. Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie" (AgInt nos EDcl no AREsp n. 1. 842.229/PR, Primeira Turma, Rel. Min. Paulo Sérgio Domingues, DJe de 11/5/2023).
+Consoante orientação jurisprudencial já consolidada, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Nesse sentido: AgRg na RvCr n. 5.740/RS, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 3/4/2023; EDcl no AgRg na RvCr n. 4.570/DF, Terceira Seção, Rel. Min. Sebastião Reis Júnior , DJe de 14/5/2019.
+Verifico, pois, que houve manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto do juízo de admissibilidade efetuado pela Presidência deste Tribunal, o que reclama a aplicação, por analogia, da Súmula n.º 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
