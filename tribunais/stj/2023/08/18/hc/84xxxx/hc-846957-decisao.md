@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JAQUELINE NASCIMENTO PIMENTA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (2175384-40.2023.8.26.0000).
+Consta dos autos que a paciente foi presa em flagrante no dia 06/05/2023, às 10h12, com posterior prisão convertida em preventiva, pela suposta prática do crime previsto no artigo 33, caput, da Lei nº 11.343/06, porque (e-STJ fl. 10):
+ ..  trazia consigo, para fins de tráfico, 69 porções de crack (18,4g), sem autorização ou em desacordo com determinação legal ou regulamentar.  ..  policiais militares realizavam patrulhamento de rotina pelo local dos fatos, já conhecido pela intensa traficância, quando avistaram a denunciada saindo da área de mata com uma pequena bolsa nas mãos, razão pela qual realizou-se sua abordagem. Em revista, os agentes policiais apreenderam na bolsa que Jaqueline trazia consigo as porções de entorpecentes e a quantia de R$ 148,25 em notas fracionadas e moedas.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando (i) ausência de fundamentação idônea e que (ii) a paciente faz jus à prisão domiciliar, porquanto possui 2 filhos menores de 12 anos. Ressaltou também a necessidade de tratamento médico decorrente do vício da paciente em drogas.
+O Tribunal de origem conheceu do writ e denegou a ordem nos seguintes termos (e-STJ fl. 9):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE ENTORPECENTES - PRETENSÃO À REVOGAÇÃO DA PRISÃO PREVENTIVA - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR - INOCORRÊNCIA - ORDEM DENEGADA.
+Na presente oportunidade, a defesa reitera os argumentos, alegando ausência de fundamentação do decreto prisional e direito à conversão da cautelar em domiciliar, pelo fato de ter 2 filhos menores de 12. Ressalta também o vício da paciente e a necessidade de tratamento médico.
+Diante disso, pede, liminarmente e no mérito, seja determinada a liberdade provisória da paciente.
+É o relatório, decido.
+Não há como prosseguir a irresignação, eis porque o writ foi deficitariamente instruído, visto que a defesa não juntou cópia do decreto prisional, nem mesmo da documentação necessária para o exame dos requisitos da prisão domiciliar .
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, conforme o art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
