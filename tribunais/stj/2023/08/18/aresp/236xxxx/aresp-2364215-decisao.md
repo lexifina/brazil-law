@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, a e c, da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 455), e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. DESISTÊNCIA DA DEMANDA PELO CREDOR. CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. DESCABIMENTO. LEI ESTADUAL Nº 13.591/10.
+1. TRATANDO-SE PROCESSO DE EXECUÇÃO, PODE O EXEQUENTE DESISTIR DA AÇÃO SEM QUALQUER ÔNUS PARA AS PARTES, NOTADAMENTE ANTES DA DECISÃO DE PRIMEIRA INSTÂNCIA. INTELIGÊNCIA DO ART. 775, DO CPC; ART. 26, DA LEF; ART. 3º, PARÁGRAFO ÚNICO, DA LEI ESTADUAL Nº 9.298/91; E ART. 5º, DA LEI ESTADUAL Nº 13.591/2010. PRECEDENTES JURISPRUDENCIAIS.
+2. NÃO FOSSE ISSO, NO CASO, ALÉM DE O PEDIDO DE DESISTÊNCIA POR PARTE DO ESTADO DO RIO GRANDE DO SUL TER SIDO FEITO ANTES DA DECISÃO DE PRIMEIRA INSTÂNCIA, A ATUAÇÃO DA DEFESA NO PROCESSO FOI MÍNIMA, LIMITADA A POUCAS PETIÇÕES INDICANDO BENS À PENHORA. NÃO HOUVE APRESENTAÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE OU DE EMBARGOS À EXECUÇÃO.
+3. DESTE MODO, NÃO HÁ COMO SUSTENTAR A CONDENAÇÃO DO EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, O QUE VAI AFASTADO. RECURSO DE APELAÇÃO PROVIDO.
+Nas razões do Recurso Especial, a agravante aponta, além de divergência jurisprudencial, violação do art. 26 da Lei 6.830/1980 e dos arts. 4º, III, 5º, 6º, 14 e 85, §§ 1º e 3º, I a IV, do CPC/2015.
+A parte s ustenta (fls. 470-483, e-STJ):
+Em suma, de tal contextualização verifica-se que a participação dos advogados da recorrente não foi tão singela como mencionado de forma superficial no voto.
+Além disso, desde já se destaca que mesmo se o trabalho da defesa fosse exíguo (o que se cogita apenas para poder argumentar), ainda assim o artigo 85 do CPC/2015 determina a condenação ao pagamento de honorários advocatícios nos percentuais fixados em tal dispositivo, matéria tratada no próximo tópico deste recurso especial.
+(..)
+Inicialmente, se esclarece que há legislação específica sobre a matéria que é a Lei de Execuções Fiscais, a Lei nº 6.830/80, que trata justamente da matéria no artigo 26 como adiante abordado, bem como a legislação estadual é hierarquicamente inferior à Legislação Federal, com o que a Lei nº 6.830/80 e o artigo 85 do CPC/2015 (tratado no próximo tópico deste recurso) se sobrepõem à Legislação Estadual.
+Ademais, na verdade, o artigo 775 do CPC/2015 não corrobora o externado no acórdão recorrido, mas, sim, confirma o pleiteado no corrente recurso. O caput do artigo 775 apenas diz sobre o exequente ter direito de desistir da execução, o que não está em discussão no corrente feito. Por outro lado, o inciso I de tal artigo inclusive prevê o pagamento pelo exequente de honorários advocatícios:
+(..)
+No caso, pretendendo o acórdão recorrido aplicar tal artigo, não poderia passar ao largo do disposto no inciso I que preconiza o pagamento de honorários advocatícios.
+(..)
+No entanto, o acórdão, na verdade, contraria o artigo 26 da LEF na medida em que a extinção da ação não se deu pelo CANCELAMENTO DA INSCRIÇÃO DE DÍVIDA ATIVA, mas, sim, por desistência da execução por parte do Estado, inclusive com expressa RENÚNCIA DO RESPECTIVO PRETENSO CRÉDITO, alegando que não havia viabilidade de prosseguimento, mas, na realidade, é porque estava prescrito.
+O pedido de extinção somente adveio após a citação e mais de 12 anos de andamento processual e, ainda, como tem base em fundamento diverso ao cancelamento da inscrição de dívida ativa, obviamente, não há amparo ao enquadramento no artigo 26 da LEF e, por sua vez, sua aplicação se deu de forma errônea, o que enseja a necessidade de provimento ao presente recurso, pois tal aplicação contraria a redação legal do artigo.
+Em suma, o artigo 26 da LEF retro transcrito, sem dúvida nenhuma, trata apenas das hipóteses legais de CANCELAMENTO DA INSCRIÇÃO DE DÍVIDA ATIVA e não de desistência da execução com expressa RENÚNCIA DO RESPECTIVO PRETENSO CRÉDITO, ou seja, são casos totalmente diversos e, por decorrência lógica da letra da lei, o artigo não incide no caso concreto, com o que foi erroneamente aplicado tal dispositivo, o que enseja o provimento do recurso.
+(..)
+No caso concreto, a decisão recorrida viola expressamente o artigo 26 da LEF, pois pela letra clara da lei de tal artigo se extrai que o mesmo se aplica apenas para EXTINÇÃO por CANCELAMENTO da CDA e, por seu turno, a decisão recorrida erroneamente o aplicou em face de DESISTÊNCIA DA AÇÃO de execução fiscal por IMPOSSIBILIDADE DE PROSSEGUIMENTO, portanto, aplicou o artigo de forma equivocada, totalmente fora de sua previsão legal, bem como o acórdão recorrido viola, por analogia, o teor da Súmula nº 153 do STJ.
+(..)
+No presente caso, a execução fiscal, ajuizada no longínquo dia 22/12/2008, tem como valor do pretenso crédito e, por conseguinte, como valor da causa a quantia de R$ 3.461.180,79 (autos de 1º grau, evento 3, PROCJUDIC1, pág. 2). Nos autos de 1º grau, evento 3, PROCJUDIC4, pág. 45, o exequente, além de desistir da execução fiscal, também expressamente renunciou ao pretenso respectivo crédito, o que inclusive é hipótese de resolução de mérito nos termos do artigo 487, inciso III, alínea "c", do CPC/2015. Para facilitar a visualização, eis tal parágrafo (autos de 1º grau, evento 3, PROCJUDIC4, pág. 45):
+(..)
+Assim, no presente caso, esses R$ 3.461.180,79 (e mais a atualização desde o ajuizamento da ação), além de serem o valor da causa, também são o proveito econômico obtido pela executada (ora recorrente).
+(..)
+Ademais, a jurisprudência do Superior Tribunal de Justiça corrobora o aqui expendido (e nem poderia ser diferente, pois se trata de mera aplicação do EXPRESSAMENTE DETERMINADO no artigo 85, § 1º, § 3º, incisos I, II, III e IV, § 4º, inciso III, § 5º, § 6º e § 14, do CPC/2015). Como é cediço, no dia 16/3/2022, no julgamento do Tema 1.076 dos RECURSOS REPETITIVOS, o STJ decidiu, por maioria, pela inviabilidade da fixação de honorários de sucumbência por apreciação equitativa quando o valor da condenação, do proveito econômico ou da causa forem elevados, sendo obrigatória a observância dos percentuais previstos nos §§ 2º e 3º do artigo 85 do CPC/2015. O relator dos recursos submetidos a julgamento, Ministro Og Fernandes, estabeleceu duas teses sobre o assunto:
+(..)
+Tendo em vista que não pode ser utilizada a apreciação equitativa para fixar os honorários abaixo dos percentuais estipulados no § 3º do artigo 85 do CPC/2015, então, obviamente, também não pode ocorrer como no presente caso em que nem sequer houve condenação em honorários.
+Em face de tudo aqui expendido, resta claro que o acórdão recorrido contrariou o artigo 85, § 1º, § 3º, incisos I,II, III e IV, § 4º, inciso III, § 5º, § 6º e § 14, do CPC/2015, pois, no corrente caso, precisam ser fixados honorários advocatícios e, mais do que isso, precisa ser nos percentuais fixados no § 3º do artigo 85 do CPC.
+Contrarrazões às fls. 513-519, e-STJ.
+O juízo de admissibilidade negativo, com base na incidência da Súmula 280/STF e na falta de prequestionamento, deu ensejo à interposição do presente Agravo (fls. 540-550, e-STJ).
+Contraminuta às fls. 554-558, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de agosto de 2023.
+Eis a fundamentação do acórdão recorrido:
+Por outro lado, tratando-se de processo de execução, aplica-se o artigo 775 do CPC, o qual prevê que "o exequente tem o direito de desistir de toda a execução ou de apenas alguma medida executiva", sendo desnecessária concordância do executado.
+A Lei de Execuções Fiscais, por sua vez, estabelece em seu artigo 26 que "Se, antes da decisão de primeira instância, a inscrição de Divida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para as partes."
+Não obstante, nos termos da lei estadual nº 13.591/2010, a Fazenda Pública está legalmente autorizada a desistir da execução fiscal quando evidenciada a impossibilidade de satisfação do crédito tributário, sendo que o artigo 5º prevê expressamente a dispensa do pagamento de verba honorária, a saber:
+(..)
+No mesmo norte, a lei estadual nº 9.298/91, que dispõe sobre a cobrança judicial de créditos inscritos em dívida ativa da fazenda pública estadual, preconiza em seu art. 3º o seguinte:
+(..)
+Ou seja, não há justificativa plausível para onerar o exequente com a condenação em honorários advocatícios exclusivamente por não haver encontrado os devedores e/ou bens passíveis de penhora, sob pena de se beneficiar os devedores duplamente: por não pagarem o débito fiscal e, ainda, impor a condenação de honorários ao exequente, que já se encontra no prejuízo, dada a insatisfação do crédito.
+Além disso, conforme se observa da narrativa dos fatos, a atuação da defesa no processo foi mínima, limitada a poucas petições indicando bens à penhora. Não houve apresentação de exceção de pré-executividade ou de embargos à execução.
+A matéria em debate envolve, na realidade, análise do disposto nas Leis Estaduais 13.591/2010 e 9.298/1991, cuja apreciação pelo STJ é inviável por aplicação analógica da Súmula 280 do Supremo Tribunal Federal: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISENÇÃO DO PAGAMENTO DE IPVA. VEÍCULO UTILIZADO NO TRANSPORTE PÚBLICO DE PASSAGEIROS. HONORÁRIOS. MAJORAÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. VIOLÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. REQUISITOS PARA ISENÇÃO DO IPVA. ANÁLISE DA LEI ESTADUAL 13.296/2008. IMPOSSIBILIDADE. SÚMULA 280/STF, APLICADA POR ANALOGIA. REVISÃO DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+5. O exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente da Lei Estadual 13.296/2008. Isso posto, a Corte de origem decidiu a lide à luz da referida legislação local, fazendo referência às suas disposições para solucionar a controvérsia. Aplicação, in casu, da Súmula 280 do STF.
+(..)
+7. Recursos Especiais não conhecidos.
+(REsp 1.661.914/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/6/2017.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. TERMO INICIAL DO PRAZO PRESCRICIONAL. NOTIFICAÇÃO DO CONTRIBUINTE. ALTERAÇÃO DO MARCO PRESCRICIONAL, POR MEIO DE LEI MUNICIPAL. EXAME DE LEGISLAÇÃO LOCAL, EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Assim, é de se reconhecer que o exame da insurgência recursal demanda, necessariamente, a prévia análise da legislação local, no caso, o Código Tributário Municipal (Lei Complementar Municipal 7/97) e o Decreto Municipal 6.392/2001. Correta, portanto, a aplicação da Súmula 280 do STF, como óbice ao processamento do Recurso Especial.
+(..)
+V. Agravo Regimental improvido.
+(AgRg no AREsp 745.219/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/11/2015.)
+Confiram-se, ainda, decisões monocráticas proferidas em casos bastante semelhantes: AREsp 1.871.491, Rel. Ministro Sérgio Kukina, DJe de 4.8.2021; AREsp 1.817.653, Rel. Ministro Francisco Falcão, DJe de 4.8.2021; e AREsp 1.772.858, Rel. Ministro Humberto Martins, DJe de 10.12.2020.
+Além disso, não houve o prequestionamento das teses recursais referentes a diversos dispositivos invocados no apelo raro, inclusive parágrafos ou incisos de artigos apontados, o que evidencia a falta de prequestionamento - mormente quando as questões suscitadas não foram examinadas pela Corte de origem sob o viés pretendido pela parte recorrente, e não houve a oposição de Embargos Declaratórios com o fim de suprir eventual omissão. Por esse motivo, não há como afastar o óbice da Súmula 211/STJ.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. LICENÇA ESPECIAL. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO. RECONHECIMENTO ADMINISTRATIVO DO DIREITO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. CONTROVÉRSIA QUE DEMANDA EXAME DE NORMA INFRALEGAL. AGRAVO INTERNO. DECISÃO MANTIDA.
+(..)
+III - Anote-se, incialmente, que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020.)
+IV - Ademais, quanto ao art. 112 da Lei n. 8.112/1990, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento. Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.) V - Além disso, é incabível o recurso especial porquanto eventual violação e interpretação divergente da lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência do Superior Tribunal de Justiça. Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no REsp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+(..)
+IX - Agravo interno improvido.
+(AgInt no AREsp 2.080.103/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 5/10/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. EXECUÇÃO FISCAL. MÁ-FÉ DO ENTE TRIBUTANTE. PREQUESTIONAMENTO. AUSÊNCIA. DANO MORAL. REEXAME DE PROVA. IMPOSSIBILIDADE. DESAPROPRIAÇÃO. AQUISIÇÃO ORIGINÁRIA DE PROPRIEDADE. RESPONSABILIDADE TRIBUTÁRIA. SUCESSÃO. INEXISTÊNCIA.
+1. Ausente o prequestionamento da tese recursal, uma vez que a questão suscitada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente (existência de má-fé do ente tributante em cobrar sobre imóvel desapropriado em seu favor IPTU de período anterior à desapropriação, mesmo após ter aceitado, sem impugnação, as declarações dos expropriados quanto à inexistência de débitos tributários sobre o bem).
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 2.050.893/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 20/10/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMÍCIO QUALIFICADO. CORRUPÇÃO DE MENORES. RECURSO NÃO CONHECIDO. VALIDADE DO RECONHECIMENTO FOTOGRÁFICO. AUSÊNCIA DE PREQUESTIONAMENTO. TESTEMUNHO INDIRETO. PRONÚNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284, STF.
+I - Não há que se falar em prequestionamento quando o acórdão recorrido, a despeito de tratar da matéria de fundo do recurso, não enfrenta a tese recursal sob o viés pretendido pela defesa.
+(..)
+Agravo regimental desprovido.
+(AgRg no AREsp 2.181.871/MA, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 12/6/2023.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias ordinárias, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC /2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
