@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. INCIDÊNCIA.
+I - De acordo com o princípio da dialeticidade, as razões recursais devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida. Ademais, a impugnação deve demonstrar, ponto a ponto, os motivos do eventual desacerto do julgado contestado. Se a fundamentação é deficiente, incide a Súmula n. 182, STJ, que dispõe: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - No presente caso, em vez de impugnar o fundamento da decisão recorrida, o agravante se limitou a repetir as razões já expendidas no agravo em recurso especial. Aliás, tanto a fundamentação do agravo regimental quanto a do agravo em recurso especial consistem em mera reprodução literal das razões do apelo nobre.
+III - Como o recorrente não infirmou o fundamento da decisão agravada e não há sequer menção ao óbice apresentado, configura-se inviável a sua análise por ausência da necessária dialeticidade recursal.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROGERIO SILVA SOUSA contra decisão que não conheceu do agravo em recurso especial (fls. 246-247).
+O agravante foi condenado como incurso nas sanções do art. 155, §§1º e 4º, inc. III, do Código Penal, à pena de 2 anos e 8 meses de reclusão, em regime aberto, e 13 dias-multa, fixados no mínimo legal (fls. 130-132).
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao apelo defensivo a fim de redimensionar as penas para 2 anos de reclusão e 10 dias-multa, fixados no mínimo legal (fls. 170-174).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 155 do Código de Processo Penal e requerer a absolvição por ausência de provas, com base no princípio in dubio pro reo (fls. 182-197).
+O apelo nobre foi inadmitido na origem ao argumento de que não estava adequadamente fundamentado e de que a análise da tese defensiva pressupõe o reexame de provas, de modo que incidem ao caso as Súmulas n. 284, STF, e n. 7, STJ (fls. 211-212).
+Em face disso, a defesa interpôs agravo em recurso especial (fls. 215-229), que deixou de ser conhecido ante a deficiência de fundamentação e, por conseguinte, incidência da Súmula n. 284, STF (fls. 246-247).
+No presente regimental, o recorrente reitera as razões do agravo em recurso especial ao apontar violação do art. 155 do Código de Processo Penal e requerer a absolvição por ausência de provas, com base no princípio in dubio pro reo (fls. 252-266).
+O Ministério Público Federal se manifestou pelo não conhecimento do agravo em recurso especial e do agravo regimental (fls. 276-279).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. INCIDÊNCIA.
+I - De acordo com o princípio da dialeticidade, as razões recursais devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida. Ademais, a impugnação deve demonstrar, ponto a ponto, os motivos do eventual desacerto do julgado contestado. Se a fundamentação é deficiente, incide a Súmula n. 182, STJ, que dispõe: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - No presente caso, em vez de impugnar o fundamento da decisão recorrida, o agravante se limitou a repetir as razões já expendidas no agravo em recurso especial. Aliás, tanto a fundamentação do agravo regimental quanto a do agravo em recurso especial consistem em mera reprodução literal das razões do apelo nobre.
+III - Como o recorrente não infirmou o fundamento da decisão agravada e não há sequer menção ao óbice apresentado, configura-se inviável a sua análise por ausência da necessária dialeticidade recursal.
+Agravo regimental não conhecido.
+VOTO
+Depreende-se dos autos que o agravo em recurso especial não foi conhecido devido à incidência, por analogia, da Súmula n. 284, STF. Veja-se (fl. 246):
+" ..  Mediante análise do recurso de ROGERIO SILVA SOUSA, verifica-se que incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"  .. ."
+O agravante, entretanto, em vez de impugnar o fundamento da decisão recorrida, limitou-se a repetir as razões já expendidas no recurso anterior, sem nem sequer mencionar o óbice da aludida súmula. Aliás, observo que tanto a fundamentação do presente agravo regimental quanto a do agravo em recurso especial consistem em mera reprodução literal das razões do apelo nobre.
+Ocorre que, de acordo com o princípio da dialeticidade, as razões recursais devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida. Ademais, a impugnação deve demonstrar, ponto a ponto, os motivos do eventual desacerto do julgado contestado.
+Se a fundamentação é deficiente, incide a Súmula n. 182, STJ, que dispõe: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundame ntos da decisão agravada". Esse é o entendimento reiterado desta Corte. Confira-se:
+" ..  I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes. (AgRg no AREsp n. 2.215.484/SP, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 12/6/2023)
+ ..  1. A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia. (AgRg no AREsp n. 2.225.453/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023)
+ ..  Desse modo, em razão da ausência de dialeticidade recursal, incide a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido" (AgRg no AREsp n. 2.295.338/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 27/6/2023).
+Assim, como o recorrente não infirmou o fundamento da decisão agravada e não há sequer menção ao óbice apresentado, configura-se inviável a sua análise por ausência da necessária dialeticidade recursal, conforme acima explanado.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
