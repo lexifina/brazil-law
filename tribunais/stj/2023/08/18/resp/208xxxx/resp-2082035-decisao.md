@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. ADICIONAL DE PERICULOSIDADE. VIGILANTE. APLICAÇÃO DA LEI Nº 8.112/90. CONVERSÃO DO TEMPO ESPECIAL EM COMUM. COISA JULGADA. PRECLUSÃO. PRECEDENTES. MANUTENÇÃO DA SENTENÇA. APELO IMPROVIDO.
+1. Apelação interposta pelo ente federal em face da sentença que julgou parcialmente procedente os embargos à execução, que reconheceu o excesso total de execução com relação às verbas de horas extras e de adicional noturno. Entendeu como devido o pagamento do adicional de periculosidade, no montante apurado pelo exequente, referente apenas ao período de agosto de 2005 a janeiro de 2009. Determinou o imediato cumprimento da obrigação de fazer, reconhecendo a especialidade do serviço prestado pelo autor como vigilante no período de 06 de agosto de 1984 a 04 de março de 1997,convertendo-o para tempo comum, com incidência do fator 1.4, de acordo com o título judicial.
+2. A exposição ao risco de violência é algo inerente à função de vigilante, ainda mais àqueles que portam armamento de fogo, como foi o período reconhecido na sentença combatida em que o exequente portava arma de fogo, não tendo se iniciado a partir de regulamentação realizada pelo Ministério do Trabalho e Emprego.
+3. Na hipótese, o recorrido é servidor público federal, exercendo o cargo de vigilante, razão pela qual se aplica o art. 68 da Lei 8.112/1990: "Os servidores que trabalhem com habitualidade em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de vida, fazem jus a um adicional sobre o vencimento do cargo efetivo". Dessa forma, escorreita a sentença que concluiu pela aplicação da legislação estatutária para pagamento do adicional em tela.
+4. Precedentes: (REsp 1742734/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2018, DJe 22/11/2018); (PROCESSO: 08011832120174058400, APELAÇÃO /REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL BRUNO LEONARDO CAMARACARRA, 4ª TURMA, JULGAMENTO: 27/07/2021).
+5. Tratando-se de cumprimento de sentença sobre a qual se operou a coisa julgada, devem ser observados os critérios nela estabelecidos. Portanto, é de se concluir que, com o trânsito em julgado do processo principal, tal critério não pode mais ser alterado, haja vista a intangibilidade da coisa julgada.
+6. Quanto ao reconhecimento do tempo especial e sua conversão para tempo comum, prestado pelo autor como vigilante no período de 06 de agosto de 1984 a 04 de março de 1997, que restou reconhecido no título judicial transitado em julgado a especialidade do serviço, não se apresenta possível rediscutir a situação jurídica declarada por sentença nesta fase de execução.
+7. Como a ausência de periculosidade poderia ter sido alegada no processo de conhecimento para o não reconhecimento da especialidade do tempo de trabalho, a omissão da parte em fazê-lo impede-a de fazê-la agora, ante o efeito preclusivo da coisa julgada. Cabe ao ente federal recorrente tão somente averbar o período na condição de especial com a respectiva conversão para comum de acordo o título que lastreia a presente execução.(PROCESSO: 08081342620204058400,APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTONETO, 4ª TURMA, JULGAMENTO: 21/09/2021)
+8. Honorários advocatícios majorados em 10% (dez por cento) sobre o valor arbitrado pela sentença(estes no percentual de 12% (doze por cento) sobre o valor da condenação, nos termos do art. 85,§2.º, do CPC), nos termos do art. 85, § 11, do CPC.9. Apelo improvido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega que a legislação federal foi ofendida e afirma:
+2.1. CONTRARIEDADE AOS ARTIGOS 489, §1º, IV, E 1.022, II, DO CPC
+(..)
+2.2.. DA IMPOSSIBILIDADE DE CONVERSÃO DO TEMPO ESPECIAL EM COMUM(CONTAGEM FICTA) E INEXIGIBILIDADE DO TÍTULO. COISA JULGADA INCONSTITUCIONAL. OFENSA AOS ARTIGOS 57, E § 1.º DA LEI N.º 8.213/91, CAPUT, ARTIGOS 525, § 1º, III, E § 12, C/C 536, § 4º, E 535, § 5º, DO CPC
+(..)
+Como se observa da jurisprudência do STF, a integração normativa operada via mandado de injunção assegurou tão-somente a aposentadoria de forma diferenciada do servidor público que laborou por 15, 20 ou 25 anos sujeito a condições especiais no RPPS, sem a possibilidade do cômputo majorado pelo fator para aposentadoria ordinária.
+(..)
+É o relatório.
+Decido.
+Preliminarmente, a parte insurgente sustenta que o art. 1.022, II, do CPC/2015 foi contrariado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária nem demonstrar a sua relevância para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1.817.079/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/12/2019)
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+Portanto, quanto ao reconhecimento do tempo especial e sua conversão para tempo comum, prestado pelo autor como vigilante no período de 06 de agosto de 1984 a 04 de março de 1997, que restou reconhecido no título judicial transitado em julgado a especialidade do serviço, não se apresenta possível rediscutir a situação jurídica declarada por sentença nesta fase de execução. Como a ausência de periculosidade poderia ter sido alegada no processo de conhecimento para o não reconhecimento da especialidade do tempo de trabalho, a omissão da parte em fazê-lo impede-a de fazê-la agora, ante o efeito preclusivo da coisa julgada. Cabe ao ente federal recorrente tão somente averbar o período na condição de especial com a respectiva conversão para comum, de acordo com o título que lastreia a presente execução.(PROCESSO:08081342620204058400, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTONETO, 4ª TURMA, JULGAMENTO: 21/09/2021)
+A controvérsia não foi dirimida à luz dos arts. 525, § 1º, III, e § 12, 536, § 4º, e 535, § 5º, do CPC/2015, porquanto não foi enfrentada a tese de que é inexigível o título por configurar coisa julgada inconstitucional, de modo que não houve prequestionamento.
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO COLETIVO. LEGITIMIDADE ATIVA. COISA JULGADA. ARTS. 502 E 525 DO CPC E 2º-A DA LEI N. 9.494/1997. COMANDOS NORMATIVOS INSUFICENTES PARA REFORMAR O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. ART. 525 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INAPLICABILIDADE À IMPUGNAÇÃO DA FAZENDA PÚBLICA. RECURSO NÃO PROVIDO.
+1. Os dispositivos legais supostamente violados - os arts. 502 e 525, § 1º, III, §§ 12, 13 e 14, do CPC e 2º-A, parágrafo único, da Lei n. 9.494/1997 - não possuem comando normativo apto a infirmar a tese adotada no acórdão recorrido. Incidência da Súmula 284/STF.
+2. Por outro lado, o art. 525 do CPC não foi analisado pelo Tribunal de origem, nem mesmo de forma implícita. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Impende destacar ainda a inaplicabilidade do disposto no art. 525 do CPC ao caso, pois o dispositivo que rege a impugnação da Fazenda Pública é o art. 535 do CPC, que também trata da inexigibilidade do título por coisa julgada inconstitucional (§§ 5º e 7º), o qual nem sequer foi mencionado nas razões recursais.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.929.824/MA, Rel. Ministro Og Fernandes, Segunda Turma, DJe 5/5/2022)
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
