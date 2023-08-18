@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por MAURA DE OLIVEIRA FERREIRA desafiando decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial com base nos seguintes fundamentos (fls. 922/923):
+O recurso é manifestamente inadmissível, por ser intempestivo. A intimação eletrônica do acórdão proferido no julgamento do agravo de instrumento foi efetuada em 13/06/2022 (cf. Termo de Envio e Comprovante de Ciência Ficta de Comunicação nº 0258164-68.2022.8.13.0000/001-023), iniciando-se a contagem do prazo legal em 14/06/2022 e findando-se em 05/07/2022.
+A petição recursal, no entanto, só foi protocolizada em 12/07/2022 (cf. Recibo de Protocolização nº 0258164-68.2022.8.13.0000/003-002), quando já escoado o prazo legal.
+Ressalte-se que a interposição de agravo interno ou regimental (sequencial 002), tido por manifestamente incabível, não suspende ou interrompe o prazo para a interposição do recurso especial, sendo esta a orientação do Superior Tribunal de Justiça, conforme se verifica dos recentes julgados a seguir transcritos:
+Em suas razões, a parte agravante alega que "no acórdão o douto desembargador não levou em consideração a interposição tempestiva do agravo, bem como a suspensão dos prazos nos dias 16/06 e 17/06 em decorrência do feriado de Corpus Christi, no dia 24/06 é feriado (dia de São Joao Batista no âmbito do município de São João do Oriente, bem como as indisponibilidades ocorridas no PJE nos dias 15/06, 30/06, 05/07 e 11/07 que prorrogam os prazos" (fl. 968).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Com efeito, tal como constatou a decisão de inadmissibilidade, a agravante foi intimada do acórdão proferido no julgamento do agravo de instrumento em 13/06/2022, iniciando-se a contagem do prazo legal em 14/06/2022.
+Não obstante, a petição recursal somente foi protocolizada em 12/07/2022, quando já escoado o lapso recursal.
+Saliente-se, por oportuno, que a interposição do agravo interno de fls. 849/855 não teve o condão de suspender o prazo recursal, porquanto manifestamente intempestivo. Isso porque, nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, "a interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro recurso" (AgInt no AgInt no AREsp n. 1.849.099/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.). Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. RECURSO INCABÍVEL. PRAZO. NÃO INTERRUPÇÃO. RECURSO ESPECIAL. INTEMPESTIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do art. 1.021, caput, do CPC/2015, o agravo interno somente é cabível contra decisão monocrática, não sendo, portanto, possível sua interposição contra decisão proferida por órgão colegiado, como ocorrido na espécie. Precedentes.
+3. A interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro recurso.
+4. O prazo para interposição do recurso especial é de 15 (quinze) dias úteis. Na hipótese, não se demonstrou a alegada tempestividade.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.756.479/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/6/2021, DJe de 30/6/2021.)
+Acrescente-se, ainda, que as demais causas que suspostamente poderiam atrair o alargamento do prazo recursal sequer foram comprovadas por ocasião do manejo do recurso especial, ônus que incumbe ao recorrente. Desse modo, mantém-se a intempestividade reconhecida na decisão agravada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL E SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO QUANDO DA INTERPOSIÇÃO DO RECURSO. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Aplica-se o CPC/2015 a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9.3.2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Consoante o disposto nos arts. 219 e 1.003, § 5º, e 1.070 do CPC/2015, o prazo para a interposição de qualquer Recurso, excetuados os Embargos de Declaração, é de 15 (quinze) dias úteis, contado em dobro, a partir da intimação pessoal, para a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público, à luz do art. 183 do referido codex.
+3. In casu, a intimação referente ao acórdão impugnado ocorreu em 27/05/2022, tendo-se interposto o Recurso Especial somente em 20/6/2022, fora do prazo de 15 (quinze) dias úteis.
+4. Portanto, considerando que o Agravo em Recurso Especial foi interposto sob a égide do CPC/2015 e que não se comprovou feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição, incontornável sua intempestividade.
+5. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.284.990/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
