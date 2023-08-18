@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. PROCESSO DEVOLVIDO PELO STJ. COISA JULGADA MATERIAL. REQUISITOS LEGAIS. NÃO CUMPRIMENTO DA CARÊNCIA.
+1. Ajuizada ação anterior com o mesmo pedido e causa de pedir, a qual foi julgada improcedente por não restar caracterizada a qualidade de segurada especial da parte auotra, configurada coisa julgada relativa aos períodos anteriores a 2016.
+2. Considerando que o período restante até o novo requerimento administrativo é insuficiente para a carência necessária à concessão do benefício, é de ser julgado improcedente o pedido por não cumprimento dos requisitos legais, não sendo causa de extinção por ausência de conteúdo probatório.
+A parte agravante, nas razões do Recurso Especial, sustenta, em síntese:
+(..) O INSS interpôs recurso de Apelação Cível em face da sentença proferida pelo juízo a quo, argumentando que a autora não preenchia a carência do benefício almejado, na medida em que o período de 11/1996 a 11/2016 estaria acobertado pela coisa julgada substanciada nos autos n o 5005088-51.2016.4.04.7007.
+A 10ª Turma do TRF4 deu provimento ao deu provimento ao recurso manejado pelo INSS, sob o fundamento de que a improcedência externada nos autos no 5005088- 51.2016.4.04.7007 impediria o ajuizamento de nova ação para discutir o exercício de trabalho rurícola nos períodos de 1996 a 2010 e de 2002 a 2016.
+Inconformada com o teor da decisão, a autora interpôs Recurso Especial. Naquela oportunidade, arguiu que o juízo a quo violou o Tema n o 629 do STJ, tendo em vista que se recusou se recusou a admitir que a improcedência fundada em insuficiência de provas não forma coisa julgada material em desfavor daquele que alega se tratar de segurado especial.
+O Superior Tribunal de Justiça, então, deu parcial provimento ao Recurso Especial manejado pela autora, determinando que o juízo a quo exercesse juízo de retratação para fins de adequar o seu julgamento ao Tema n o 629 do STJ e, por conseguinte, examinar a possibilidade de contabilização do período de 11/1996 a 11/2016 em favor da segurada.
+Em seguida, os autos foram reenviados ao juízo a quo, para que adequasse o seu posicionamento às diretrizes fixadas pelo Superior Tribunal de Justiça. Não obstante, a 10ª Turma do TRF4 recusou-se a emitir juízo de retratação e manteve incólume a decisão anteriormente exarada.
+(..)
+Como será explanado adiante, este Tribunal Superior, quando do julgamento do REsp n o 1.352.721/SP, pontificou que a existência de improcedência pretérita não impede o ajuizamento de uma nova ação previdenciária requisitando o cômputo de tempo de serviço rural. Logo, o equívoco cometido pela Turma Regional Suplementar do Paraná pode ser constatado de maneira in ictu oculi , já que emanou entendimento diametralmente oposto àquele veiculado por este STJ no precedente acima referido.
+Em suma, não se pretende rediscutir os contornos fáticos, tampouco probatórios, subjacentes ao acórdão recorrido. O único intuito é o de modificar a conclusão jurídica extraída dos fatos incontroversos que foram descritos no acórdão ora debelado, para efeitos de afastar a incidência da coisa julgada reconhecida pelo Tribunal a quo.
+Não é necessário que o presente Tribunal Superior se debruce sobre as provas aportadas ao processo para formar uma nova convicção a respeito dos fatos litigiosos, uma vez que, pela simples leitura da descrição veiculada na decisão recorrida, é possível extrair qual a controvérsia jurídica que a autora pretende suscitar.
+Nesse sentido, a doutrina é assente em afirmar que "o conhecimento dos fatos sobre os quais versa a solução normativa encontrada na decisão pode se dar de duas maneiras:
+ou se conhecem os fatos por meio da descrição que deles há na própria decisão , ou por meio da análise das provas que constam nos autos. No segundo caso, essa correção não se faz por meio de recursos de estrito direito" (ALVIM, Tereza Arruda; DANTAS, Bruno. Recurso especial, recurso extraordinário e a nova função dos tribunais superiores no direito brasileiro. 6. ed. São Paulo: Thomson Reuters Brasil, 2019, p. 368-369).
+(..)
+A mera leitura do acórdão recorrido é suficiente para se constatar que (i) o pedido revolve a demonstração de tempo de serviço rural, bem como que (ii) houve a indevida extinção do processo sem a resolução do mérito, fundada em improcedência pregressa.
+Daí resta latente que a solução conferida pelo Tribunal a quo não se coaduna com os precedentes promanados por este STJ sobre os contornos diversificados da coisa julgada nas demandas que envolvem o reconhecimento de labor rurícola.
+(..)
+Em termos diretos, a 10ª Turma do TRF4 ignorou a orientação do STJ, consubstanciada em decisão relatada pelo Min. Herman Benjamin na medida em que manteve incólume o posicionamento de que não poderia afastar a coisa julgada formada nos autos n o 5005088-51.2016.4.04.7007.
+Ao assim proceder, o Tribunal a quo persiste violando a ratio decidendi fixada por este E. Superior Tribunal de Justiça quando do julgamento do REsp n o 1.352.721/SP, cujo teor se debruçou sobre os contornos peculiares assumidos pela coisa julgada nos processos que envolvem o reconhecimento de labor rural.
+Naquela ocasião, este Tribunal Superior tomou como supedâneo os valores sociais que orientam o segmento do Direito Previdenciário e, através disso, definiu que a improcedência do pedido judicial de aposentadoria rural não forma coisa julgada material, eis que o Judiciário não pode obstar definitivamente o acesso à cobertura social dos indivíduos que obtenham provas novas a respeito do labor campesino.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.7.2023 .
+O Tribunal de origem, ao decidir a vexata quaestio, consignou:
+Inicialmente, importante repisar a existência de coisa julgada, haja vista que a parte autora ajuizou anteriormente ação semelhante ao presente feito, no processo de nº 5005088-51.2016.4.04.7007/PR, que tramitou 2ª Vara Federal de Francisco Beltrão/PR, a qual foi julgada improcedente em razão da existência de contradições em diversos depoimentos prestados pela parte acerca do exercício de atividade rural desempenhado e incompatibilidade entre os valores constantes em notas fiscais e os bens adquiridos pelo núcleo familiar da parte.
+Portanto, verifica-se que a improcedência do pedido não se restingiu à mera ausência de prova material, mas sim na presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial (ev. 78.2).
+Logo, os lapsos de 1996 a 2010 (implemento da idade mínima) e 2002 a 2016 (formulação do requerimento administrativo) estão cobertos pela coisa julgada, impedindo reanalise das provas referentes a tais períodos.
+No caso dos autos, verifica-se que a parte autora apresentou novo requerimento administrativo em 22/12/2017, agregando os seguintes documentos:
+- Recibo de Entrega da Declaração do ITR do Exercício de 2017 referente ao lote rural 74 da Gleba 119-FB, no qual Clovis Gregolin é indicado como contribuinte, exercício de 2017;
+- Contrato de Comodato  rmado entre o marido da parte, qualificado como agricultor e comodatário, e Clovis Gregolin, referente ao lote rural 74 da Gleba 119-FB, datado de 2017, com prazo de vigência de um ano;
+- Nota Fiscal de Produtor Rural em nome do marido da parte, referente aos período de 2018.
+Entretanto, apesar de tais documentos apresentados referirem o exercício de atividade rural, não restaria tempo su ciente para a concessão do benefício, eis que os anos anteriores não podem ser rediscutidos em razão da existência de coisa julgada.
+Extrai-se do acórdão vergastado e das razões de REsp que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se foi cumprido o tempo suficiente para a concessão do benefício, o que não se admite ante o óbice da Súmula 7/STJ.
+Cumpre salientar que o decisum atacado asseverou que a improcedência do pedido não se restringiu à mera ausência de prova material, mas, sim, na presença de conjunto probatório que contradiz as alegações de exercício de trabalho campesino na qualidade de segurada especial. A modificação desse entendimento também é obstada pelo disposto na referida Súmula.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
