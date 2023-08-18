@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FÁBIO CAIRES BARBOZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1539138-80.2019.8.26.0050.
+Consta dos autos que o paciente foi condenado às penas de 1 ano e 2 meses de reclusão no regime prisional inicial semiaberto e de 11 dias-multa, no piso, como incurso no art. 180, caput, do Código Penal, substituída a reprimenda corporal por restritivas de direitos.
+Interposta apelação, a Corte de origem negou provimento à insurgência.
+No corrente feito, a impetrante sustenta que, nos termos das Súmulas 718 e 719 do STF e 440 do STJ, o paciente faria jus à fixação do regime inicial aberto, haja vista a quantidade de pena imposta e a sua primariedade.
+Ressalta que a gravidade abstrata do delito e a valoração negativa de uma circunstância judicial não constituem fundamentos idôneos para justificar o agravamento do modo prisional.
+Requer, liminarmente e no mérito, a fixação do regime prisional aberto para o início do cumprimento da pena pelo paciente.
+O pedido liminar foi indeferido pela Presidência desta Corte, atuando em regime de plantão judicial.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se na presente impetração a fixação de regime inicial aberto.
+Quanto ao regime inicial, verifica-se que a pena-base foi aplicada acima do mínimo legal, pela existência de circunstância judicial negativa, consubstanciada nos maus antecedentes, o que justifica a fixação de regime inicial mais gravoso, nos termos do art. 33, §§ 2º e 3º e art. 59, ambos do CP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISO I, DO CÓDIGO PENAL). REGIME INICIAL FECHADO FIXADO COM BASE EM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. MANUTENÇÃO JUSTIFICADA. CONSTRANGIMENTO NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a escolha do sistema prisional não está atrelada, de modo absoluto, ao quantum de pena firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Com efeito, não é possível constatar flagrante ilegalidade na imposição do regime inicial fechado ao paciente, pois, embora a sua pena tenha sido fixada em patamar inferior a 8 (oito) anos de reclusão, a existência de circunstância judicial desfavorável, a exemplo dos maus antecedentes, indica que o modo mais gravoso de execução mostra-se adequado na espécie.
+ANÁLISE DE TESES AVENTADAS APENAS NO AGRAVO REGIMENTAL. INDEVIDA INOVAÇÃO RECURSAL. RECURSO IMPROVIDO.
+1. Inviável o exame dos pleitos de redução da pena-base e reconhecimento de reformatio in pejus, porquanto tais matérias somente foram trazidas à discussão em sede de agravo regimental, providência vedada pela jurisprudência deste Tribunal Superior, por revelar nítida inovação recursal. Precedentes.
+2. Agravo regimental improvido (AgRg no HC 326.343/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015).
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. REGIME DE CUMPRIMENTO DE PENA MAIS GRAVOSO. POSSIBILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante de utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, porquanto é contraditório o estabelecimento de pena-base no mínimo e de regime mais severo, com base em circunstâncias não consideradas inicialmente.
+3. No caso dos autos, a pena-base foi fixada acima do mínimo legal, em razão da valoração negativa das circunstâncias do art. 59 do Código Penal, portanto, fundamentação idônea para a fixação do regime prisional mais gravoso, a afastar o alegado constrangimento ilegal.
+4. Habeas corpus não conhecido (HC 323.408/SP, de minha relatoria, QUINTA TURMA, julgado em 06/10/2015, DJe 13/10/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. MAUS ANTECEDENTES.
+CONDENAÇÕES PENAIS POR FATOS ANTERIORES, COM TRÂNSITO EM JULGADO POSTERIOR. FUNDAMENTO IDÔNEO. REGIME INICIAL MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A existência de condenações penais por fatos anteriores podem ser empregadas na avaliação negativa dos maus antecedentes, ainda que o trânsito em julgado das condenações ocorra em momento posterior.
+2. Ante a presença dos maus antecedentes, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta não seja superior a 4 (quatro) anos de reclusão, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.269.757/SP, relatora Ministra Laurita Vaz, SEXTA TURMA, julgado em 21/3/2023, DJe de 28/3/2023.)
+Assim, uma vez que a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça e na legislação penal, não vislumbro constrangimento ilegal apto a justificar a atuação desta Corte, de ofício.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
