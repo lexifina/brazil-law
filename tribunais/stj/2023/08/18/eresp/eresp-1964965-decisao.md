@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Divergência opostos a acórdão da Quarta Turma do S uperior Tribunal de Justiça, de relatoria do em. Ministro Raul Araújo, cuja ementa é a seguinte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. MATÉRIA DE ORDEM PÚBLICA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+2. A jurisprudência do STJ é firme no sentido de que a prescrição é matéria de ordem pública e, portanto, pode ser suscitada a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração, não estando sujeita à preclusão.
+3. Agravo interno a que se nega provimento.
+A embargante alega haver divergência jurisprudencial com o acórdão do AgInt no AREsp 1.061.148/RS, da Primeira Turma, de relatoria do Ministro Sérgio Kukina, assim ementado:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO.
+PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. DECISÃO JUDICIAL. FALTA DE IMPUGNAÇÃO OPORTUNA. PRECLUSÃO.
+1. O Tribunal de origem não se pronunciou sobre a tese defendida no recurso especial de que o "débito originário, que é o executado, diante da informação da própria recorrida, Fazenda Nacional, foi alterado por força de parcelamento efetivado, com pagamentos, amortizações e juros diferenciados, que não vieram aos autos, tornando ilíquidas as CDAs apresentadas", daí por que seria ilíquida a CDA que lastreia o executivo fiscal. Incidência da Súmula 282/STF.
+2. Inviável analisar-se novamente a prescrição, ainda que se trate de matéria de ordem pública, quando reconhecida a existência de coisa julgada sobre o tema, ante a ocorrência da preclusão consumativa. Precedentes.
+2. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.061.148/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/5/2017, DJe de 16/5/2017.) Defende que "ainda que a prescrição seja matéria de ordem pública, essa premissa não é absoluta, pois, na hipótese de a matéria ter sido expressamente abordada em decisão anterior não recorrida, como neste caso, é indubitável a perda da faculdade processual de rediscutir a matéria".
+Além disso, afirma que há divergência com julgados da Terceira Turma (AgInt no EDcl no RESP 1.954.274/RS e EDcl no RESP 1.920.171/RS) porque, enquanto "o acórdão recorrido entende que a renovação sucessiva não é capaz de alterar o termo inicial da prescrição, devendo prevalecer a data de assinatura de cada contrato da cadeia", os precedentes daquela Turma entendem que "existindo a renovação sucessiva, o termo inicial da prescrição se dará a data da assinatura do último contrato renovado".
+É o relatório.
+Decido.
+Em caso de superposição de competências, o Superior Tribunal de Justiça entende que deve haver a cisão do julgamento dos Embargos de Divergência para cada um dos órgãos fracionários, com a primazia do Colegiado mais amplo, em atenção à competência estabelecida pelo art. 266 do RISTJ.
+Passo à análise da divergência apontada entre o aresto embargado e o paradigma da Primeira Turma, nos termos do art. 11, XIII, do Regimento Interno do STJ. O paralelo com os acórdãos da Terceira Turma deverá ser feito, oportunamente, pela Segunda Seção.
+Não há similitude fático-jurídica entre o decisum embargado e o paradigma da Primeira Turma.
+No paradigma, destaca-se que, apesar de as matérias de ordem pública, como a prescrição, poderem ser arguidas a qualquer instante, a apreciação de tal tema é vedada quando existe coisa julgada. De fato, o julgado registra:
+Por outro lado, a simples afirmação do agravante de que o tema relativo à prescrição, por se tratar de matéria de ordem de pública, não se sujeita à preclusão não é suficiente para rebater o decisum, que se ancorou na firme jurisprudência do STJ no sentido de que: "As matérias de ordem pública podem ser apreciadas a qualquer momento, no entanto, havendo decisão anterior, como no presente caso, impede nova apreciação, pois alcançada pela preclusão" (AgRg no REsp 1339113/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/9/2015, DJe 16/9/2015).
+No aresto embargado, entretanto, apenas se reconheceu a possiblidade de a prescrição, como matéria de ordem pública, ser suscitada a qualquer tempo nas instâncias ordinárias, e não há manifestação quanto à prescrição ter sido objeto de prévia decisão judicial, de forma a tornar o tema precluso. Confira-se o trecho abaixo transcrito (fls. 430-431):
+Cabe ressaltar que a tese objeto do apelo especial (termo inicial da prescrição) foi questionada em sede de embargos de declaração (fls. 262/267, e-STJ), o que afasta a alegação de inovação recursal sustentada em contrarrazões.
+Com efeito, a jurisprudência do STJ é firme no sentido de que a prescrição é matéria de ordem pública e, portanto, pode ser suscitada a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração, não estando sujeita a preclusão.
+No REsp 929.266/SP paradigma, por sua vez, a Primeira Turma limitou-se a examinar teses relativas aos limites cognitivos das questões arguíveis em exceção de pré-executividade.
+Patente, assim, a inexistência de semelhança sobre fatos e temas jurídicos entre o acórdão embargado e o paradigma da Primeira Turma.
+Ante o exposto, não conheço dos Embargos de Divergência em relação ao paradigma da Primeira Turma.
+Com o trânsito em julgado desta decisão, devem os autos ser remetidos à Segunda Seção, para verificação da alegada divergência em relação aos paradigmas oriundos da Terceira Turma.
+Publique-se.
+Intimem-se.
