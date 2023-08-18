@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de medida cautelar com pedido de liminar apresentado por Athaídes Alves Garcia, na qual pretende atribuir efeito suspensivo ao recurso especial por ele interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, na Ação Rescisória nº 5013973-43.2022.4.03.0000.
+Fundamenta seu pedido no fato de que o Vice-Presidente da Corte local não poderia ter participado do julgamento de nenhum recurso que fora por ele interposto.
+Na origem, o requerente propôs ação rescisória, cujo principal objetivo é o de desconstituir decisões e sentença proferidas pelo Juízo da 7ª Vara Federal Cível de São Paulo, nos embargos à execução de título extrajudicial 5004983-04.2019.4.03.6100 (opostos incidentalmente à execução de título extrajudicial 5030096-91.2018.4.03.6100, para cobrança de anuidades da OAB, dos anos de 2013 a 2017).
+O TRF-3 considerou manifestamente inviável a rescisória, diante da carência de ação por falta de interesse-adequação.
+Inconformado, o requerente interpôs recurso especial; entretanto, conforme consta na certidão de fls. 438-442, o recurso especial interposto foi inadmitido pela aplicação da Súmula 7 do Superior Tribunal de Justiça, tendo sido, por conseguinte, negado o efeito suspensivo requerido.
+É o relatório. Decido.
+A medida cautelar não merece ser conhecida.
+De fato, é cabível o deferimento de pedido de urgência para a atribuição de efeito suspensivo a recurso desde que exista a satisfação simultânea de dois requisitos: a verossimilhança das alegações - fumus boni iuris -, consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação, e o perigo de lesão grave e de difícil reparação ao direito da parte - periculum in mora.
+Todavia, conforme narrado, na presente hipótese, o recurso especial interposto pelo requerente foi inadmitido pela origem, não tendo sido noticiada , pelo requerente, qualquer interposição do agravo previsto no art. 1.042 do CPC.
+Não se mostra cabível, portanto, a atribuição de efeito suspensivo a recurso especial que não reuniu os requisitos necessários para análise pela instância superior e cuja inadmissibilidade não foi impugnada pelo recurso cabível.
+Registro não desconhecer que a jurisprudência do STJ admite, em situações excepcionais, a atribuição de efeito suspensivo a recurso especial ainda não interposto, "desde que amplamente demonstrada a teratologia do aresto impugnado ou a manifesta contrariedade à orientação jurisprudencial pacífica deste Superior Tribunal de Justiça, aliado a um evidente risco de dano de difícil reparação" (AgRg na MC 21.782/RJ, Relator Ministro Marco Buzzi, Quarta Turma, DJe 3/2/2014).
+Entretanto, repisa-se que o recurso especial interposto pelo requerente já foi inadmitido pela Corte de origem, de modo que não se mostra possível conferir efeito suspensivo a recurso interposto em processo que, em tese, já transitou em julgado.
+Ante o exposto, com fundamento nos arts. 34, XVIII, a, e 288, § 2º, do RI/STJ, nego seguimento ao presente pedido de medida cautelar .
+Publique-se. Intimem-se.
