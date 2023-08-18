@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo regimental interposto por VICTÓRIO FAÉ NETO e GILBERTO PONSO FAÉ contra decisão que negou provimento ao agravo de instrumento (e-STJ fls. 141/143).
+A controvérsia foi devidamente delineada no parecer ministerial acostado às e-STJ fls. 238/243, in verbis:
+Trata-se de agravo de instrumento interposto contra decisão de inadmissão de recurso especial apoiado no art. 105, inc. III, alíneas "a" e "c", da Constituição Federal.
+Os agravantes foram denunciados pela suposta prática do delito de apropriação indébita de contribuições previdenciárias, nos termos dos arts. 168-A, caput, c/c o art. 71, ambos do Código Penal, e foram condenados à pena de 3 (três) anos e 6 (seis) meses de reclusão, mais 165 (cento e sessenta e cinco) dias-multa, substituída a corporal por duas restritivas de direitos, consistentes em prestações pecuniária e de serviço.
+À apelação da defesa deu-se provimento, por unanimidade, para reduzir a pena para 2 (dois) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, mais 13 (treze) dias-multa, mantida a substituição da pena privativa de liberdade como estabelecido na sentença.
+Opostos embargos de declaração, foram rejeitados por unanimidade.
+Inconformados, os ora agravantes interpuseram recurso especial em que alegam divergência jurisprudencial e violação ao § 2º do art. 9º da Lei 10.684/03. Afirmam que o acórdão recorrido teria violado o diploma legal referido porque deixou de extinguir sua punibilidade, mesmo existindo prova de que a empresa, pela qual eram responsáveis, é detentora de crédito junto ao INSS, cujo montante supera em muito o valor do débito objeto da ação penal a que respondem. Pugnam pela redução da pena-base ao mínimo legal por serem primários, detentores de bons antecedentes, além de não existir prova de que foram os responsáveis pelo não recolhimento das contribuições à previdência social. Por fim, consideram que houve excesso na substituição da pena privativa de liberdade por duas restritivas de direito, "pois, deveria ter sido substituída por uma única, ou a pecuniária ou a de prestação de serviços a comunidade" (fl. 111).
+O Ministério Público Federal apresentou parecer manifestando-se pelo não conhecimento do agravo (e-fls. 139).
+O ministro Og Fernandes negou provimento ao agravo de instrumento (e-fl. 141-143).
+Ato contínuo, a defesa opôs embargos de declaração (e-fls. 146-150), que foram rejeitados pelo ministro relator (e-fls. 175-177).
+Inconformada, a defesa interpôs agravo regimental dessa decisão (e-fl. 182- 195). Em 20 de maio de 2023, o ministro Og Fernandes determinou que "ante o considerável prazo entre a prolação do acórdão guerreado e os dias atuais, reservo-me para apreciar o pedido de extinção da punibilidade após as informações, que deverão ser prestadas, com a urgência possível, pelo Tribunal de origem, a respeito da quitação do referido débito junto ao INSS" (e-fl. 198). Foram encaminhadas informações ao Superior Tribunal de Justiça (e-fls. 201-220).
+Em 01 de agosto de 2023, os autos foram encaminhados a esta Procuradoria- Geral da República para que o Ministério Público Federal se manifeste sobre a ocorrência da prescrição da pretensão punitiva estatal.
+Ao final, o Parquet opinou pelo reconhecimento da extinção da punibilidade pela prescrição da pretensão punitiva estatal.
+É o relatório. Decido.
+Verifico que, de fato, o recurso está prejudicado pela superveniência da prescrição da pretensão punitiva. Senão vejamos.
+Os agravantes foram condenados à pena de 2 anos, 9 meses e 18 dias de reclusão.
+Desse modo, tendo em vista que as reprimendas não excedem a 4 anos, a prescrição ocorre em 8 anos, nos termos do art. 109, IV, do Código Penal.
+Assim, é de rigor o reconhecimento da prescrição da pretensão punitiva, tendo em vista o transcurso desse lapso prescricional entre a data da publicação do acórdão recorrido, último marco interruptivo (31/8/2008, e-STJ fl. 91), e a presente data.
+Ademais, como bem apontado no parecer ministerial, cujas razões passo a adotar, "conforme informações prestadas (e-fls. 219-220), não houve suspensão do prazo prescricional pelo parcelamento dos débitos tributários, tampouco extinção da punibilidade pelo pagamento integral" (e-STJ fl. 242).
+Ante o exposto e acolhendo o parecer do Ministério Público Federal , com fulcro no art. 109, IV, do CP, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade dos ora agravantes, pela prescrição da pretensão punitiva, e julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
