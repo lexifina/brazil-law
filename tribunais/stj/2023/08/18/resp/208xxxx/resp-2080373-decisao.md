@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado ( fls. 111-114, e-STJ):
+MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA.
+Tem legitimidade para figurar no polo passivo de mandado de segurança a autoridade que, por ação ou omissão, deu causa à lesão jurídica apontada, possuindo competência funcional para fazer cessar a lesão.
+Os Embargos de Declaração foram rejeitados (fls. 135-138, e-STJ).
+O INSS afirma que houve, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC. Sustenta que a autoridade impetrada não possui legitimidade para responder pelos atos, uma vez que a correção nos informes de rendimentos do impetrante devem ser realizados pela Receita Federal do Brasil. Complementa:
+Assim, deve ser provido o presente recurso, para que seja determinado à autoridade impetrada, tão somente, a concessão da isenção do Imposto de Renda no benefício da parte autora e que, em relação ao período pretérito, seja reconhecida a ilegitimidade passiva da autoridade impetrada quanto à correção dos informes de rendimentos, sob pena de violação ao art. 485, inciso VI, do CPC, devendo ser notificado o Delegado da Receita Federal do Brasil em Blumenau/SC determinando a correção.
+ ..
+Logo, com renovada vênia, deve ser provido o presente recurso para extinguir o feito sem resolução do mérito, por ilegitimidade passiva (art. 485, VI, do CPC).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6 de julho de 2023.
+Dessume-se que a Segurança foi concedida para que a autoridade apontada como coatora corrija os informes de rendimentos do impetrante, para evitar inconsistências no Sistema da Receita Federal, considerando que houve a declaração de ilegalidade da incidência do imposto de renda sobre os proventos de aposentadoria que a parte recebe do INSS (NB 42/107.861.721-7), a contar de 4/10/2017, na Ação judicial n. 5005763-61.2014.4.04.7208, que tramitou na 3ª Vara Federal de Itajaí.
+O TRF4 negou provimento à Apelação e consignou:
+No caso, a parte impetrante aponta a existência de ilegalidade perpetrada pela Gerência Executiva do INSS que, ao apreciar o pedido de averbação de decisão judicial transitada em julgado que reconheceu o direito à isenção do imposto de renda sobre proventos de aposentadoria (Ev. 1.6, p. 3), indeferiu o pedido sob o fundamento de que o "segurado não é isento" (p. 16).
+Assim, em se tratando de mandado de segurança em que a parte impetrante requer a averbação do direito à isenção do imposto de renda sobre seus proventos de aposentadoria perante o INSS, é correta a manutenção no polo passivo da autoridade que detém poderes para o seu cumprimento  no caso, o Gerente Executivo do INSS em Blumenau.
+Registro que o próprio apelante reconhece, nas razões recursais, que "Ao INSS deve ser providenciado apenas a isenção do Imposto de Renda sobre o benefício em sua base de dados", o que configura justamente o objeto desta lide.
+Rejeito, portanto, a preliminar de ilegitimidade passiva.
+2. Mérito Como bem assentado pelo juízo a quo, "A autoridade coatora, em suas informações, alega que "não era de conhecimento desta autarquia o disposto na Sentença da Ação Judicial 5005763-61.2014.4.04.7208/SC. Não localizamos Ofício em nossos sistemas corporativos e verificamos que não constam como réus do referido processo o INSS ou a CEAB-DJ" (evento 12, INF_MSEG1).
+Ocorre que o INSS teve ciência da sentença, tanto através de ofício encaminhado daqueles autos, quanto por requerimento administrativo do impetrante, inclusive dando resposta negativa ao pedido. Além disso, não há informação ou comprovação de que a situação tenha sido regularizada. Logo, evidenciado o direito líquido e certo do impetrante, a concessão da segurança é medida que se impõe".
+A ordem judicial que reconheceu o direito da parte impetrante à isenção do imposto de renda sobre os seus proventos de aposentadoria foi devidamente encaminhada ao INSS (Ev. 57.1), a que cumpria suspender a retenção do tributo e atualizar os dados cadastrais, informando serem os rendimentos isentos, para evitar inconsistências no procedimento de fiscalização pela Receita Federal.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Observa-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+É inviável, ainda, analisar a tese defendida no REsp quanto a a ilegitimidade passiva da autoridade impetrada quanto à correção dos informes de rendimentos, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido, no sentido de que o próprio apelante reconhece que ao "INSS deve ser providenciado apenas a isenção do Imposto de Renda sobre o benefício em sua base de dados", justamente o objeto desta lide. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
