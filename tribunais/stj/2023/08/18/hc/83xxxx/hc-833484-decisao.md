@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 18):
+EMENTA: HABEAS CORPUS - EMBRIAGUEZ AO VOLTANTE - REVELIA DECRETADA NA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO - NULIDADE DO ATO - DESCABIMENTO - ARTIGOS 367 E 565 CÓDIGO DE PROCESSO PENAL - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Diante do dever do réu de manter seu endereço atualizado junto ao juízo, não há qualquer ilegalidade na revelia decretada, notadamente quando, a despeito das tentativas de intimação, ele não é encontrado.
+Consta dos autos que o paciente foi denunciado como incurso no art. 306 da Lei 9.503/97.
+Neste writ, alegam os impetrantes, em síntese, constrangimento ilegal em razão de nulidade, tendo em vista a ausência de intimação do paciente para comparecer a audiência de instrução e julgamento, sendo decretada, na oportunidade, sua revelia.
+Requer a anulação da audiência de instrução e julgamento e, por conseguinte, seja afastada a revelia decretada em desfavor do paciente.
+Prestadas informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus.
+O voto condutor do acórdão impugnado está assim fundamentado (fls. 20-22):
+Os impetrantes almejam a anulação da audiência de instrução e julgamento realizada, com o consequente afastamento da revelia decretada em desfavor do paciente.
+Após analisar detidamente os autos, entendo que a ordem deve ser denegada.
+Vejamos.
+Designada a audiência de instrução e julgamento para 26/04/2023, às 14h00min, as tentativas de intimação do ora paciente restaram infrutíferas, conforme o seguinte teor da certidão do oficial de justiça:
+" ..  Nos dias 11, 12 e 13/4/2023, às 17h11, 15h55 e às 9h44, compareci no endereço do mandado e deixei de intimar GERALDO ANTONIO DE OLIVEIRA, porque todas as vezes que estive no local não o encontrei. Fui atendido pelos porteiros Márcio e Zenon, os quais sempre me disseram que o Sr Geraldo está ficando mais na fazenda dele e que não há hora certa de encontrá-lo aqui."(doc. únicodo processo nº 0018726-12.2020.8.13.0704; PJe).
+Quando da realização do ato, a MM. Juíza de Direito decretou a revelia de Geraldo Antônio, sob os seguintes fundamentos:
+" ..  Considerando a informação constante do mandado ID9778909408, vislumbra-se que o acusado não cumpriu com a sua obrigação de manter o seu endereço atualizado. Deste modo, considerando que se encontra mais tempo na fazenda, deveria ter informado o endereço nos autos a fim de ser devidamente intimado. Além disto, a defesa foi intimada para o ato e não informou o endereço que o acusado pudesse ser encontrado. Deste modo, DECRETO A REVELIA, com fundamento no artigo 367 do CPP.  .. "
+Pois bem.
+Tendo em vista que as tentativas de intimação se deram no endereço fornecido pelo próprio paciente quando da confecção do boletim de ocorrência (ID 6763248036; autos originários; PJe), onde, inclusive, já havia sido pessoalmente intimado (IDs 9505532810 e 9505546154; autos originários; PJe), agiu com acerto a culta Magistrada singular ao decretar a revelia de Geraldo Antônio, vez que, conforme previsão do artigo 367 do Código de Processo Penal (CPP), é dever do réu manter seu endereço atualizado junto ao juízo, não cabendo ao Poder Judiciário a promoção de inúmeras diligências para localizá-lo.
+Ademais, a defesa foi devidamente intimada acerca da realização da AIJ, tanto é que o Dr. Geraldo Donizete e o Dr. Leandro de Deus Filho, advogados constituídos, estiveram presentes no ato, não se constando, pois, violação aos princípios do contraditório e da ampla defesa.
+Nesse sentido, bem ressaltou a MM. Juíza de Direito ao prestar as informações:
+" ..  Gize-se, por oportuno, que o réu está representado nos autos por procurador constituído e não por defensor dativo, de modo que foi devidamente intimado na pessoa do advogado sobre a audiência. Tivesse assistido por defensor dativo ou defensor público seria obrigatória sua intimação pessoal por mandado, mas não é o caso. Foi feita a devida expedição de intimação da audiência aos procuradores via PJE, sendo que o sistema registrou a ciência. Além disso, dois dos impetrantes compareceram na Audiência de Instrução e Julgamento, logo, não há o que se falar em violação do direito de defesa do paciente.  .. " (ordem nº 09).
+Aliás, a própria defesa constituída poderia ter informado o endereço onde, atualmente, o paciente se encontra a maior parte do tempo.
+De mais a mais, de acordo com o art. 565 do CPP, "nenhuma das partes poderá arguir nulidade a que haja dado causa, ou para que tenha concorrido".
+Logo, ausente qualquer ilegalidade, é de rigor a denegação da ordem.
+DISPOSITIVO
+Diante do exposto, por não verificar lesão ou ameaça ao direito de locomoção do paciente, por ilegalidade ou por abuso de poder, DENEGO A ORDEM.
+Como se vê, o Tribunal de origem manteve a decisão que decretou a revelia, uma vez que, consoante o disposto no art. 367 do CPP, é dever do réu manter seu endereço atualizado junto ao juízo, não cabendo ao Poder Judiciário a promoção de inúmeras diligências para localizá-lo.
+Consignou-se que "as tentativas de intimação se deram no endereço fornecido pelo próprio paciente quando da confecção do boletim de ocorrência (ID 6763248036; autos originários; PJe), onde, inclusive, já havia sido pessoalmente intimado (IDs 9505532810 e 9505546154; autos originários; PJe)".
+Ressaltou-se, ainda, que "a defesa foi devidamente intimada acerca da realização da AIJ, tanto é que o Dr. Geraldo Donizete e o Dr. Leandro de Deus Filho, advogados constituídos, estiveram presentes no ato, não se constando, pois, violação aos princípios do contraditório e da ampla defesa".
+Com efeito, "O art. 367 do Código de Processo Penal determina expressamente que o processo seguirá sem a presença do acusado que, no caso de mudança de residência, não comunicar o novo endereço ao juízo. Não há, portanto, obrigatoriedade de publicação de edital ou de realização de diligências voltadas à localização do paradeiro do acusado que, devidamente citado, alterou seu endereço sem comunicar novo local onde poderia ser encontrado" (AgRg no AgRg no AREsp n. 2.079.875/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/8/2022, DJe de 12/8/2022.)
+Ademais, já decidiu esta Corte Superior que "Admitir que o descumprimento, pelo Réu, do seu dever processual de manter atualizado o endereço nos autos implicasse a decretação de nulidade dos atos processuais subsequentes significaria permitir que ele se beneficiasse de conduta irregular própria, o que é vedado pelo art. 565 do Código de Processo Penal" (AgRg no AgRg no AREsp n. 2.079.875/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/8/2022, DJe de 12/8/2022.)
+Estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, não há falar em ilegalidade flagrante, constrangimento ilegal ou teratologia.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
