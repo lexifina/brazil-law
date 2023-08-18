@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de petição protocolizada pela defesa de KARINE DE JESUS COUTINHO, presa preventivamente pela suposta prática dos crimes previstos no artigo 33, caput, da Lei n. 11.343/2006, e no artigo 12 da Lei n. 10.826/2003.
+Na presente oportunidade, a requerente requer juntada da certidão de nascimento do seu filho menor, em razão de que a juntada anteriormente, estava ilegível.
+Sustenta que "Consta na decisão de primeiro que indeferiu a prisão domiciliar que os filhos da paciente se encontra sob os cuidados da sua bisavó desde um mês antes de sua prisão, tal falto não condiz com a realidade, apesar de constar no depoimento da paciente em delegacia, pois a bisavó da paciente tem 94 anos de idade dependendo de terceiros para cuidar dela, não sendo possível a idosa cuidar de crianças" (e-STJ fl. 34).
+Diante disso, pede deferimento para que seja revogada a prisão preventiva e substituída pela prisão domiciliar.
+É o relatório, decido.
+Subsistem inabaláveis os fundamentos, que indeferiu liminarmente o presente habeas corpus.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+No contexto, conquanto não se desconheça o teor da decisão prolatada no HC Coletivo n. 143.641/SP, bem como a regra do art. 318-A do CPP, no que, a rigor, a acusada se enquadraria, o fato é que tais fundamentos não podem servir como salvo- conduto permanente para toda e qualquer situação envolvendo mulheres que possuam filhos pequenos, devendo cada caso ser analisado conforme suas especificidades.
+No caso, a requerente possui vários registros de prática criminosa, além de já responder a ação penal pelo crime de tráfico de drogas.
+Dentre as situações consideradas excepcionalíssimas pelos Tribunais Superiores, de modo a justificar o indeferimento da prisão domiciliar, está a reiteração do agente na prática delitiva.
+Efetivamente, "conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+Nessa direção, o entendimento da Suprema Corte é no sentido de que "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (AgRg no HC n. 150.906/BA, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 13/4/2018, DJe 25/4/2018).
+Ante o exposto, indefiro o pedido.
+Intimem-se.
