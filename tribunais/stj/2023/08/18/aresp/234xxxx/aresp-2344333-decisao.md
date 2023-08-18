@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO. RESTABELECIMENTO DE QUANTITATIVO SALARIAL RETIRADO DOS MILITARES. PRESCRIÇÃO AFASTADA. EFEITO ERGA OMNES DO ACÓRDÃO. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+1. Depreende-se dos autos do referido Mandado de Segurança originário da demanda executada que, embora inicialmente os efeitos do acórdão restringiam-se somente aos filiados da associação impetrante (Evento1,ACOR113, fls. 1050/1051, dos autos do processo eletrônico n.º 5000002-05.1993.827.0000), em momento posterior, o Presidente do Tribunal de Justiça, à época o Desembargador Daniel Negry, proferiu decisão monocrática, datada de 26/11/2007 (Evento1, DEC257, autos do MS),em sede de Cumprimento de Acórdão, determinando, a extensão dos efeitos do acórdão do Mandado de Segurança n.º 689/93 a todos os policiais militares do Estado do Tocantins.
+2. Considerando que o último prazo no Mandado de Segurança nº 689/93(processo eletrônico n.º 5000002-05.1993.827.0000) transcorreu em16/06/2021, e a parte apelante interpôs o cumprimento de sentença na data de 29/03/2021, não decorreu o prazo prescricional de cinco anos em favor da Fazenda Pública, como defende o ora apelado.
+2. Registra-se que o recorrente apesar de ter passado a integrar os quadros da Polícia Militar somente no ano de 2001, deve ter o seu direito de execução individual reconhecido, tendo em vista que extensão dos efeitos (erga omnes) do acórdão do Mandado de Segurança n.º 689/93 a todos os policiais militares do Estado do Tocantins.
+3. Recurso conhecido e provido. Sentença reformada para determinar o prosseguimento do cumprimento de sentença.
+Os Embargos de Declaração foram rejeitados (fl. 467-468, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos art. 1º do Decreto 20.910/1932. Pugna pelo reconhecimento da prescrição da pretensão executiva referente ao pagamento de diferenças salariais, tendo em vista que a parte agravada apresentou pedido de Cumprimento de Sentença após decurso do prazo legal.
+Contraminuta apresentada às fls. 622-632, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.7.2023.
+A irresignação não merece prosperar.
+A Corte a quo, ao decidir a controvérsia, assim consignou (fls. 399-400, e-STJ):
+Com efeito, entende-se que o prazo prescricional de 5 (cinco) anos não se operou, tendo em vista que o termo inicial para execução do Acórdão é a data do trânsito em julgado perante este Tribunal de Justiça.
+(..)
+Assim, considerando que o último prazo no Mandado de Segurança nº 689/93 (processo eletrônico n.º 5000002-05.1993.827.0000) antes de sua baixa transcorreu em 16/06/2021 e a parte agravada interpôs o cumprimento de sentença na data de 29/03/2021, não decorreu o prazo prescricional de cinco anos em favor da Fazenda Pública, como defende o Estado do Tocantins.
+Verifica-se que o Tribunal de origem entendeu como termo inicial da prescrição a data de 16/6/2021. A parte recorrente, no entanto, limitou-se a reiterar genericamente a sua tese de insurgência no sentido de rediscutir a aplicação da prescrição quinquenal da pretensão executória.
+Portanto, diante da ausência de correlação entre os argumentos apresentados no REsp e os fundamentos do aresto contestado, é possível aplicar o impedimento descrito na Súmula 284/STF, uma vez que a parte recorrente não refutou de maneira específica os fundamentos do decisum, o que torna aplicável o enunciado mencionado: "A falta de fundamentação adequada inviabiliza a admissão do recurso extraordinário, pois não permite a compreensão exata da controvérsia". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. MANDADO DE SEGURANÇA. PRESCRIÇÃO NÃO RECONHECIDA PELO TRIBUNAL A QUO. ALEGADA OFENSA AO ART. 1º DO DECRETO 20.910/1932. RAZÕES RECURSAIS DISSOCIADAS QUE NÃO OS IMPUGNAM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Agravo Interno contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, em face da incidência da Súmula 284/STF.
+2. Cuida-se, na origem, de cumprimento de sentença interposto pela ora recorrida contra o Estado do Tocantins, buscando executar o acórdão proferido no MS 698/1993.
+3. Verifica-se que o Recurso Especial em questão apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, atraindo, a incidência a Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", e a Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+4. Considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante reexame de matéria fática, não cabendo ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.246.907/TO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/6/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO ESPECIAL INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS APRESENTADOS PELA DEFESA. MODIFICAÇÃO DO DECISUM ATACADO POR FORÇA, PORÉM, DE ACLARATÓRIOS APRESENTADOS PELO PARQUET. RATIFICAÇÃO. NECESSIDADE. SÚMULA 579/STJ. NÃO APLICAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência deste Sodalício, é necessária a ratificação do Recurso Especial apresentado na pendência de embargos de declaração na hipótese em que há alteração do decisum impugnado, como no caso. Não incidência da Súmula 579/STJ.
+2. Não atacado o fundamento do aresto recorrido, evidente a deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n.º 284 da Súmula do Supremo Tribunal Federal. 3. No caso, a intempestividade, motivação utilizada para não conhecer do agravo regimental na origem, não foi objeto de impugnação nas razões do apelo nobre ratificado, atraindo, por consequência, a aplicação da Súmula 284/STF.
+4. Agravo improvido.
+(AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 14/8/2018, DJe de 24/8/2018.)
+Ademais, é evidente que para modificar a diretriz firmada no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demandaria incursão no contexto fático-probatório dos autos, providência vedada na via eleita conforme a Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial". A propósito:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. FORNECIMENTO DE ENERGIA ELÉTRICA. PRESCRIÇÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO QUE DEIXA DE ATACAR OS FUNDAMENTOS DA DECISÃO VERGASTADA. SÚMULA 182/STJ. PEDIDO DE CONCESSÃO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. SÚMULAS 7, 211 E 481/STJ.
+1. Na hipótese dos autos, a Recurso foi inadmitido sob o fundamento de que "o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar o entendimento da Corte a quo quanto à desnecessidade de readequação do prazo prescricional, o que não se admite ante o óbice da Súmula 7/STJ." Nas razões do Agravo, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, limitando-se a apresentar alegações genéricas e reafirmar os argumentos do Recurso Especial.
+(..)
+5. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 2.263.231/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/6/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA CONTRA EMPRESA PÚBLICA FEDERAL (CORREIOS/ECT). INÉPCIA DA INICIAL. VERIFICAÇÃO DEPENDENTE DO EXAME DE PROVAS. MINISTÉRIO PÚBLICO. INTIMAÇÃO. AUSÊNCIA. INEXISTÊNCIA DE PREJUÍZO. NULIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO. ACÓRDÃO PELO AFASTAMENTO. RAZÕES RECURSAIS NÃO REVELADORAS DE ILEGALIDADE. REVISÃO. EXAME DE PROVA.
+(..)
+4. Com relação à prescrição, o conhecimento do recurso encontra óbice nas Súmulas 7 do STJ e 284 do STJ, uma vez que, além de as razões recursais não conseguirem explicitar o porquê de o acórdão recorrido estar violando o art. 1º do Decreto n. 20.910/1932, eventual conclusão pela prescrição de toda a pretensão autoral dependeria do reexame de provas.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp n. 2.021.087/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
