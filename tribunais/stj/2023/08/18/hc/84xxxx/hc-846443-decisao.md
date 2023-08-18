@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 55):
+AGRAVO EM EXECUÇÃO PENAL PRISÃO ALBERGUE DOMICILIAR RECURSO DEFENSIVO: pleito de reforma da decisão que indeferiu o pedido de concessão de prisão albergue domiciliar mãe de menor impúbere não acolhimento o amoldamento dos arts. 317, 318 e 318-A, do Código de Processo Penal, assim como o art. 117 da lei nº 7.210/1984, ao condenado em regime intermediário e fechado é excepcional e demanda análise do caso concreto precedentes não comprovada a imprescindibilidade da reeducanda periculosidade e condições pessoais da agravante não indicam que o benefício atenda ao melhor interesse da criança - RECURSO DE AGRAVO DEFENSIVO NÃO PROVIDO.
+"A adequada análise de pleitos atinentes à aplicação dos arts. 317, 318, e 318-A, do Código de Processo Penal, e 117 da Lei de Execuções Penais, na fase executória da pena, mormente para presos em regime semiaberto e fechado, quer seja o executado um condenado provisório ou definitivo, independentemente de gênero, faixa etária, histórico delitivo, periculosidade, instrução educacional e profissional, condição médica, status social ou familiar, demanda imprescindível e efetiva observância aos objetivos gerais e individuais da pena no caso concreto, à luz dos princípios constitucionais da razoabilidade, proporcionalidade, individualização da pena e da fraternidade, assim como do melhor interesse da criança".
+A paciente cumpre pena de 6 anos e 3 meses de reclusão, em regime fechado, e teve o pedido de prisão domiciliar indeferido pelo juízo da execução. Interposto agravo em execução, negou-se provimento ao recurso.
+A defesa sustenta que a paciente faz jus à prisão domiciliar, porquanto é mãe de criança menor de 12 anos de idade, requerendo o benefício liminarmente e no mérito.
+Em consulta ao sistema processual eletrônico desta Corte, verificou-se que o presente pedido é mera reiteração do deduzido no HC 837.765/SP, conexo a este, o qual foi denegado em 3/8/2023 (publicação em 4/8/2023).
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
