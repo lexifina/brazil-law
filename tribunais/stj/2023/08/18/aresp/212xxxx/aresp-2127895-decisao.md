@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo interposto pela GMVB WCC APOIO EIRELI - ME contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 339):
+APELAÇÃO. Ação de anulação de contrato bancário cumulada com pedidos de devolução de valores e reparação por danos morais.
+1) Empréstimo bancário oferecido por correspondente bancário de instituição financeira com o propósito de portabilidade de dívida. Relação de consumo. Hipótese em que o autor foi vítima de fraude. Súmula 479/STJ. Contratos de empréstimos exibidos e instrumentalizados no mesmo contexto da fraude. Anulação de ambos. Estorno, pelo Banco, das parcelas descontadas, admitida a compensação do valor pago ao autor a título de troco. Devolução de modo simples, não em dobro, dos valores, à falta de dolo ou má-fé da instituição financeira.
+2) Danos morais configurados. Obrigação solidária das résà devida reparação.
+- RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados (fl. 380):
+Embargos de Declaração em Apelação Cível. Ação de anulação de contrato bancário cumulada com pedidos de devolução de valores e reparação por danos morais. Questão sobre solidariedade. Relação de consumo. Extensão a todos os partícipes da cadeia de consumo. Nulidade não evidenciada. Acórdão que, no ponto, não se mostra omisso, contraditório ou obscuro. Inadmissibilidade da via eleita, impondo-se a rejeição dos embargos declaratórios.
+No recurso especial, alegam os recorrentes ofensa aos arts. 141 e 492 do CPC.
+Sustenta que "não poderia o Recorrido inovar em seu recurso, pois o pedido de condenação solidaria se traveste em verdadeira inovação recursal, a qual não poderia ser conhecida por força da preclusão consumativa (C. P. C., art. 932, inc. III), razão pela qual requer seja a catada a presente preliminar para reconhecer a nulidade do acórdão recorrido neste ponto, afastando a condenação da responsabilidade solidaria dos Réus. " (fl. 366)
+Alega, ainda, que "a parte autora é quem fixa os limites da lide na petição inicial aos quais o magistrado deve ficar adstrito. Assim, diante da ausência de pedido no tocante a condenação a responsabilidade solidaria, caracteriza-se como extra petita a sentença quanto a esse ponto, por extrapolar os limites da pretensão da parte autora. Daí porque havendo inovação em recurso, é inviável sua análise em sede recursal, dada a vedação de decisão além dos limites da contenda e, por conseguinte, de supressão de uma instância julgadora, em ofensa ao princípio do duplo grau de jurisdição. " (fl. 368)
+Aponta divergência jurisprudencial.
+Contrarrazões ao recurso especial (fls. 386-394).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 395-396), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo (fls. 423-431).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+O Tribunal de origem não analisou nem implicitamente os arts. 141 e 492, do Código de Processo Civil.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DIRETA A DISPOSITIVO DE LEI. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. CONTRATO DE MÚTUO BANCÁRIO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO CONSUMATIVA. CABIMENTO. COISA JULGADA. REEXAME. SÚMULA 7/STJ. PENHORA DO BEM DE FAMÍLIA PARA SALDAR DÍVIDA DE EMPRÉSTIMO BANCÁRIO. IMPOSSIBILIDADE. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, não é possível a interposição de ação rescisória quando inexistente violação direta à literalidade da norma jurídica, sendo descabida a demanda para correção de divergência na interpretação do dispositivo legal.
+2. Não cabe ao Superior Tribunal de Justiça a revisão das conclusões adotadas pelo Tribunal de origem quanto à presença ou não dos requisitos legais para interposição de ação rescisória, pois tal exame esbarra na Súmula 7/STJ.
+3. De acordo com o entendimento desta Corte Superior, incidem os efeitos da preclusão e da coisa julgada quando a questão referente à penhora do bem de família tiver sido decidida em decisão já transitada em julgado.
+4. É inviável a este Tribunal Superior modificar o posicionamento adotado pela instância originária quanto à ocorrência ou não da preclusão e da coisa julgada, visto que tal apreciação exigiria o revolvimento fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+5. Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, sob pena de aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal, bem como do enunciado 211 da Súmula do Superior Tribunal de Justiça.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.643.039/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. É devida a cobertura do tratamento de psicoterapia, sem limite de sessões, admitindo-se que está previsto no rol da ANS, nos seguintes termos: a) para o tratamento de autismo, não há mais limitação de sessões no Rol; b) as psicoterapias pelo método ABA estão contempladas no Rol, na sessão de psicoterapia; c) em relatório de recomendação da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde - Conitec, de novembro de 2021, elucida-se que é adequada a utilização do método da Análise do Comportamento Aplicada - ABA.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.036.701/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREQUESTIONAMENTO. ART. 884 DO CC. NÃO OCORRÊNCIA. SÚMULA 211/STJ. ENRIQUECIMENTO SEM CAUSA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ABUSIVIDADE DOS ENCARGOS. AFASTAMENTO DA MORA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RATIFICAÇÃO DE RECURSO APÓS EMBARGOS DE DECLARAÇÃO. SÚMULA 579/STJ. REVELIA QUE NÃO INDUZ PROCEDÊNCIA DO PEDIDO. PRINCÍPIO DO CONVENCIMENTO MOTIVADO DO JULGADOR. REVISÃO DE HONORÁRIOS. RÉU QUE SE MANTEVE ATIVO NOS AUTOS. EQUIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Óbice da Súmula 211/STJ.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pela decisão recorrida, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Óbice da súmula 284/STF.
+3. "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (REsp. 1.061.530 -RS, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe de 10/3/2009). Óbice da Súmula 83/STJ.
+4. A limitação dos juros remuneratórios no caso concreto e o afastamento da mora exigiriam o reexame dos fatos, das provas e das cláusulas do contrato celebrado pelas partes. Óbice da Súmula 7/STJ.
+5. "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior" (Súmula 579/STJ).
+6. A caraterização da revelia não induz a uma presunção absoluta de veracidade dos fatos narrados pelo autor, permitindo ao juiz que, para formar o seu convencimento, analise as alegações formuladas pelas partes em confronto com as provas constantes dos autos (AgRg no REsp 1342255/5P, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 11/3/2016).
+7. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ).
+8. Conforme precedente desta Corte Superior, "havendo revelia e sagrando-se vencedor o réu, é descabida a condenação em honorários (precedentes). Regra que não se aplica se a parte, apesar de não ter apresentado contestação, atuou posteriormente nos autos" (REsp n. 779.515/MG, Relatora a Ministra Eliana Calmon, Segunda Turma, julgado em 27/6/2006, DJ 3/8/2006, p. 260).
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.074.010/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Acrescente-se que, se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso. (AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito. (AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Quanto à alínea "c" do permissivo constitucional, a sua apreciação fica prejudicada. Com efeito, a jurisprudência desta Corte orienta-se no sentido de que a falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. ABATIMENTO. ART. 1.701 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. SÚMÚLA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão das instâncias ordinárias demandaria a revisão do conjunto fático-probatório dos autos, procedimento inviável nesta instância especial por força da Súmula nº 7/STJ.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula nº 282/STF.
+4. A falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.871.476/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2022, DJe de 5/5/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1.021, § 4º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C" PREJUDICADA.
+1. O debate proposto no Recurso Especial não ocorreu no Tribunal de origem. Assim, perquirir, nesta via estreita, ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão
+federal suscitada". No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+2. Fica prejudicada a análise da divergência
+jurisprudencial quando a tese
+sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+3. Agravo Interno não provido. (AgInt no AREsp n. 1.896.144/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
