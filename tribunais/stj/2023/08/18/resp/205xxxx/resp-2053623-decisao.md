@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO com fundamento no art. 105, inciso III, alí nea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento de apelação criminal n. 1501261-21.2018.8.26.0510.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 12 da Lei n. 10.826/03 (posse ilegal de arma de fogo), à pena de 1 ano de detenção, em regime inicial aberto, e 10 dias-multa, substituída por uma pena restritiva de direitos (fl. 138).
+Recurso de apelação interposto pela defesa foi provido para absolver o recorrido (fl. 199). O acórdão ficou assim ementado:
+"PORTE ILEGAL DE ARMA DE FOGO - ART. 12, LEI10.826/03 ABSOLVIÇÃO ARMA DESMUNICIADA SEM ACESSO À MUNIÇÃO - A POSSE OU PORTE DE ARMA DESMUNICIADA E SEM ACESSO À MUNIÇÃO NO LOCAL DOS FATOS, SEM CHANCE DE USO, NÃO CONFIGURA CRIME, SOB PENA DE VIOLAÇÃO DOS PRINCÍPIOS DA OFENSIVIDADE E DA RAZOABILIDADE. ABSOLVIÇÃO QUE SE IMPÕE. RECURSO PROVIDO" (fl. 191).
+Em sede de recurso especial (fls. 212/233), o MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apontou violação ao art. 12 da Lei Federal n. 10.826/03, sustentando, em síntese, o restabelecimento da condenação do recorrido, tendo em vista o fato da arma de fogo está desmuniciada não constitui a atipicidade da conduta.
+Contrarrazões do VALDIR BEZERRA DE FARIAS (fls. 246/250).
+Admitido o recurso no TJ (fl. 253), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 261/264).
+É o relatório. Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO concluiu pela absolvição do recorrido, mediante seguinte fundamentação (fls. 194/197):
+"Em relação a garrucha artesanal artesanal sem munição, não se questiona o fato de haver nos autos provas induvidosas de que o réu possuía, em sua residência, a arma descrita na denúncia, como afirmaram uniformemente os policiais.
+Em meus julgamentos neste Tribunal, de há muito venho entendendo que o porte de arma de fogo desmuniciada, sem condições de pronto acesso à munição, configura uma conduta atípica, já que nestas circunstâncias, constitui-se num artefato inidôneo para produzir disparos.
+Na hipótese ficou comprovado que a arma objeto de posse ilegal pela recorrente não se encontrava municiada, não se tendo notícia nos autos de que estivesse a autora com a munição do respectivo calibre a pronta disponibilidade, donde inimaginável que a utilização do artefato pudesse causar qualquer risco ou dano à integridade física de outrem, impondo-se a absolvição em decorrência da atipicidade da conduta, em observância aos princípios da ofensividade e da razoabilidade.
+ ..
+Conforme salientado dos documentos que instruem o inquérito, a referida arma foi encontrada desmuniciada. Ademais, em busca realizada no local dos fatos, não foi encontrada nenhuma munição. Assim, não havia possibilidade de uso imediato da arma conforme sua específica finalidade, circunstância que, na minha compreensão, afasta a tipicidade do crime imputado."
+O entendimento do Tribunal a quo está em dissonância com a jurisprudência desta Corte que é firme no sentido de que a posse irregular de arma de fogo de uso permitido, ainda que desmuniciada, é crime de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 12, DA LEI N. 10.826/2003. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO CABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. ATIPICIDADE MATERIAL DA CONDUTA. ÓBICE DA SÚMULA N. 7 DESTA CORTE. ART. 12, DA LEI N. 10.826/2003. CRIME DE POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. TIPICIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. INEXIGIBILIDADE DE RESULTADO NATURALÍSTICO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. O entendimento adotado pelo Tribunal de origem está em conformidade com a jurisprudência desta Corte Superior, no sentido de que os delitos de porte ou posse de arma de fogo de uso restrito ou permitido, positivados na Lei n. 10.826/2003, ainda que os citados artefatos estejam desmuniciados, são de perigo abstrato e, por via de consequência, tem-se por prescindível a prova da efetiva situação de risco ao bem jurídico tutelado. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.824.982/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/9/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LEI DE ARMAS. AUSENCIA DE PROVAS PARA A CONDENAÇÃO. PROVAS COLHIDAS EXCLUSIVAMENTE NA FASE INQUISITORIAL. NÃO OCORRÊNCIA. CRIME DE PERIGO ABSTRATO. PROVA EFETIVA DO RISCO. PRESCINDIBILIDADE. PRECEDENTES. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. VIA INADEQUADA. COMPETÊNCIA DO PRETÓRIO STF. AGRAVO REGIMENTAL DESPROVIDO.
+I - Conforme ressaltado no decisum reprochado, é pacífico o entendimento desta Corte no sentido de que "Tanto a posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/2003) quanto o porte ou posse de arma de fogo de uso restrito (art. 16 da mesma lei) são crimes de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado" (AgRg no AREsp n. 1.027.337/MT, Quinta Turma, Rel. Min. Felix Fischer, DJe de 27/03/2017).
+ ..
+Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 1.790.678/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 13/10/2021.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para restabelecer a condenação de primeiro grau.
+Publique-se. Intimem-se.
