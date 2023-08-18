@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 865, e-STJ):
+APELAÇÃO. Servidores Públicos Municipais. Guarujá. Pretensão ao afastamento da aplicação da norma prevista no art. 8º, inciso IX, da Lei Complementar Federal nº 173/2020, a qual veda contagem de tempo de serviço para concessão de adicionais temporais e vantagens similares, até 31.12.2021. Constitucionalidade reconhecida pelo Supremo Tribunal Federal nas ADIs 6442, 6447, 6450 e 6525, e no RE 1.311.742/SP, Tema 1137/STF. Ausência de ilegalidade na suspensão do cômputo do tempo de serviço para a concessão de anuênios, triênios, quinquênios e licenças-prêmios. Decreto Municipal nº 13.809/2020 que, todavia, extrapolou as margens da Lei ao vedar a contagem de tempo para fins de Promoção por Mérito e Qualificação, Promoção Horizontal, Progressão Funcional por Títulos que não são concedidos por mero decurso de prazo, mas apenas pelo preenchimento de requisitos próprios, conforme especificado na legislação local. Procedência parcial da ação. Recurso provido em parte.
+Os Embargos de Declaração foram rejeitados (fl. 885, e-STJ).
+Em seu Recurso Especial, o agravante alega violação do art. 8º, I e IX, da LC 173/2020. Em suma, sustenta, (fl. 911, e-STJ):
+Pela leitura dos destaques acima, verificamos que as promoções funcionais citadas, principalmente a promoção horizontal, são de fato verbas remuneratórias concedidas em "decorrência da aquisição de determinado tempo de serviço", exigindo a incidência da interpretação conferida pelo E. STF, no sentido de suspensão do período aquisitivo, sob pena de afronta a entendimento consolidado do E. STF, firmado em sede de ADI e reafirmado em sede de Reclamação Constitucional, em julgados já citados acima.
+Assim, novamente se demonstra o descompasso entre a interpretação conferida pelo v. acórdão recorrido acerca da aplicabilidade do art. 8º, da LC n. 173/20, e o entendimento consolidado pelo E. STF quanto a matéria, revelador de erro material e premissa equivocada.
+Contrarrazões às fls. 914-917, e-STJ.
+Inadmitiu-se a irresignação (fl. 918, e-STJ), o que ensejou a interposição do Agravo de fls. 921-937, e-STJ.
+Contraminuta às fls. 942-945, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.8.2023.
+Trata-se, na origem, de Ação Ordinária ajuizada pelo Sindicato dos Funcionários Públicos da Prefeitura Municipal de Guarujá com o objetivo de, em síntese, afastar a aplicação da norma prevista no art. 8º, IX, da LC 173/2020.
+Ao dirimir a controvérsia, a Corte local assim se manifestou (fl. 871, e-STJ):
+O Decreto Municipal impugnado extrapolou, portanto, os limites da Lei Complementar Federal, vedando a contagem de tempo também para fins em que ela própria não basta para determinar aumento remuneratório ou sequer deve ser considerada para tanto.
+Assim, levando-se em conta a redação do art. 1º, do Decreto Municipal nº 13.809/2020, é o caso de se julgar o pedido parcialmente procedente, apenas para manter a suspensão da contagem de tempo para os estritos fins de concessão do adicional por tempo de serviço, sexta-parte e licença-prêmio durante o período de 27.05.2020 a 31.12.2021.
+A demanda em exame, tal como enfrentada pelas instâncias ordinárias, remete à análise de direito local - qual seja, o Decreto municipal 13.809/2020. Logo, revela-se incabível a via recursal especial para rediscussão da matéria ante a aplicação, por analogia, da Súmula 280/STF.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. ART. 97 DO CTN. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE NA VIA DO RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. Não se verifica ofensa ao art. 1.022 do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. É inviável, em sede de recurso especial, a apreciação de eventual violação ao art. 97 do CTN, sob pena de usurpação da competência da Suprema Corte, tendo em vista que se traduz em mera reprodução de dispositivo da Constituição Federal, versando sobre matéria de cunho eminentemente constitucional. Precedentes.
+3. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Municipal 16.274/2008, regulamentada pelo Decreto 19.723/2017), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+4. No caso, em relação ao pleito de isenção de IPTU, a Corte de origem registrou a ausência de comprovação das condicionantes para os exercícios anteriores ao de 2017. Assim, para se alcançar conclusão diversa, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, ante o óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.078.562/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/11/2022)
+Destaque-se que, "nos termos do art. 102, II, "d", da Constituição Federal, cabe ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, a decisão que assentar válida lei local contestada em face de lei federal" (AgInt no AREsp 1.770.847/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 22.9.2021). Na mesma linha, a decisão monocrática: REsp 2.002.154/CE, Rel. Ministro Sérgio Kukina, DJe 8.6.2022.
+Ademais, dissentir da conclusão do decisum recorrido - de que o Decreto municipal acima referido indevidamente estendeu a proibição a casos não previstos em lei - requer revolvimento do conjunto fático-probatório dos autos, providência vedada em Recurso Especial ante o óbice da Súmula 7/S TJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
