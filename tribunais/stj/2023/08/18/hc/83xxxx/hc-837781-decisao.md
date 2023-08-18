@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de RUBENS WILSON TEMOTEO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime fechado, mais pagamento de 816 dias-multa, como incurso no art. 35, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao apelo defensivo para modificar o regime inicial de cumprimento de pena para semiaberto, mantendo inalterada a sentença nos demais pontos.
+Nesta Corte, o impetrante alega a ocorrência de constrangimento ilegal decorrente da fixação de regime mais gravoso (semiaberto), sem justificativa adequada, considerando-se a pena inferior a 4 anos e os predicados pessoais positivos do paciente.
+Requer a fixação do regime aberto.
+O Ministério Público opinou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+O Tribunal Estadual reformou a sentença nos seguintes termos:
+(..)
+No que tange a RUBENS e DIOGO, por outro lado, pesa sobre ambos os corréus a circunstância agravante da reincidência, tirada dos documentos de fls. 178 e 120, respectivamente, revelando condenações definitivas ainda não atingidas pelo quinquênio depurador, e roubo contra empresa de transporte de valores (RUBENS); e de receptação dolosa (DIOGO), o que justifica os respectivos aumentos na sexta parte, resultando para cada qual, 3 (três) anos e 6 (seis) meses de reclusão, e 816 (oitocentos e dezesseis) dias-multa.
+Não há causas de aumento ou de diminuição de penas.
+Portanto, à míngua de outras modificadoras, torno definitivas as sanções de RUBENS e de DIOGO, no patamar de 3 (três)anos e 6 (seis) meses de reclusão, e pagamento de 816 (oitocentos e dezesseis) dias-multa, no valor mínimo unitário; ao passo que as de JAILTON e de HENDRICKSON, no piso legal de 3 (três) anos de reclusão, e pagamento de 700 (setecentos) dias-multa, no piso legal.
+Quanto aos respectivos regimes iniciais de cumprimento, anoto que os corréus foram condenados a sanção inferior ao padrão de 4 (quatro) anos e as circunstâncias judiciais são favoráveis, devendo ser mantidos no meio aberto para JAILTON e HENDRICKSON, primários e com bons antecedentes; e abrandados os de RUBENS e DIOGO para o meio intermediário; muito embora registrem o envolvimento pretérito com a Justiça Criminal, porque em seu favor incide a súmula nº 269, do Colendo Superior Tribunal de Justiça, in verbis: É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Por outro lado, inviável a substituição da pena privativa de liberdade por restritivas de direitos, ausentes os requisitos legais.
+Finalmente, não há se cogitar de redução do quantum de dias-multa. Por se tratar de sanção penal, a pena de multa não deve propiciar situação de conforto aos condenados, pois, se assim o fosse, seria absolutamente inócua.
+Ante o exposto, REJEITO AS PRELIMINARES;DOU PARCIAL PROVIMENTO aos recursos de RUBENS WILSONTEMOTEO e DIOGO RODRIGO DOS SANTOS, qualificados nos autos, para, mantidas as respectivas penas de reclusão, FIXAR-LHES o regime inicial semiaberto, como incursos no artigo 35,caput, da Lei n. 11.343/06 (..).
+Como se verifica, o Tribunal de origem destacou a reincidência do paciente para justificar o regime mais grave. Logo, não há se falar em violação à Súmula 440 desta Corte ("A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea"), uma vez que foi apontado elemento concreto para a escolha do modo mais severo de cumprimento de pena.
+Aliás, estabelecida a pena em patamar inferior a 4 anos, ainda que favoráveis as circunstâncias judiciais, mas reincidente o acusado, o regime inicial semiaberto é o cabível a reprovação do delito. É nesse sentido a Súmula 269 deste STJ, que dispõe "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais", sendo esse o exato caso dos autos.
+Confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. MINORANTE DO ART. 33, §4º DA LEI 11.343/2006. IMPOSSIBILIDADE. RÉU REINCIDENTE. REGIME FECHADO. FUNDAMENTO IDÔNEO. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que o recorrente estava praticando o tráfico ilícito de entorpecentes. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. Não há se falar em aplicação da minorante do art. 33, §4º da Lei 11.343/2006, uma vez que o recorrente é reincidente específico, não preenchendo, portanto, os requisitos legais.
+3. O Tribunal de origem validamente considerou a reincidência do acusado para justificar o regime mais grave, consoante autoriza o art. 33, §§ 2º e 3º, do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.360.913/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE AO TEMPO DOS CRIMES. MODO INICIAL FECHADO QUE SE MOSTRA DEVIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora o agravante haja sido definitivamente condenado à reprimenda de 8 anos de reclusão e não obstante tenha tido a pena-base de ambos os ilícitos fixada no mínimo legal, certo é que era reincidente ao tempo dos crimes, circunstância que evidencia ser o regime inicial mais gravoso o mais adequado para a prevenção e a repressão dos delitos perpetrados, ex vi do disposto no art. 33, § 2º, "a", do CP.
+2. É possível a fixação do regime inicial semiaberto aos acusados reincidentes, nos casos em que, fixada a pena-base no mínimo legal, o réu é condenado a pena igual ou inferior a 4 anos, o que, no entanto, não é a hipótese dos autos. Inteligência do enunciado na Súmula n. 269 do STJ.
+3. Agravo regimental não provido.
+(AgRg no HC n. 802.704/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/4/2023, DJe de 29/6/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
