@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON VIANA DE LIMA apontando como autoridade o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Desembargador Luiz Zveiter, relator no HC n. 0061616-85.2011.8.19.0001).
+Depreende-se dos autos que o paciente teve a sua prisão preventiva decretada pela suposta prática do crime de furto (e-STJ fls. 36/40).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, conforme acórdão assim ementado (e-STJ fls. 24/25):
+HABEAS CORPUS. PACIENTE PRESO EM FLAGRANTE PELA PRÁTICA DO CRIME DE FURTO, DELITO DESCRITO NO ARTIGO 155, CAPUT, DO CÓDIGO PENAL. PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA QUE NÃO MERECE PROSPERAR. EXTRAI-SE DA NARRATIVA DA DENÚNCIA QUE O PACIENTE TERIA FURTADO UM APARELHO CELULAR AVALIADO EM R$ 2.800,00 (DOIS MIL E OITOCENTOS REAIS). A VÍTIMA, TERIA DEIXADO SEUS PERTENCES NA AREIA DA PRAIA PARA ENTRAR NA ÁGUA DO MAR, MOMENTO EM QUE TERIA VISTO O PACIENTE SE APROXIMANDO E LOGRANDO ÊXITO EM SUBTRAIR SEU BEM MÓVEL. A DECISÃO QUE CONVERTEU A PRISÃO EM FLAGRANTE EM PREVENTIVA APRESENTA-SE DEVIDAMENTE FUNDAMENTADA NA NECESSIDADE DA CUSTÓDIA CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL, A FIM DE EVITAR A REITERAÇÃO CRIMINOSA E PRESERVAR A CREDIBILIDADE DA JUSTIÇA. ASSIM, POR ORA, NOTA-SE QUE AS MEDIDAS CAUTELARES PREVISTAS NO ARTIGO 319, DO CÓDIGO DE PROCESSO PENAL NÃO SE MOSTRAM SUFICIENTES DIANTE DA INSISTÊNCIA DO PACIENTE EM PRATICAR CRIMES, VEZ QUE O CUSTODIADO OSTENTA 02 (DUAS) CONDENAÇÕES, CONFORME CONSTA EM SUA FOLHA DE ANTECEDENTES, VOLTANDO A SER PRESO EM FLAGRANTE PELA PRÁTICA DE NOVO CRIME. POR FIM, O PRINCÍPIO DA HOMOGENEIDADE É INCOMPATÍVEL COM A NATUREZA DA AÇÃO DE HABEAS CORPUS, EM VISTA DA ANTECIPADA DISCUSSÃO DO MÉRITO DA CAUSA, QUE SOMENTE SERÁ POSSÍVEL NO MOMENTO DECISÓRIO, APÓS REGULAR INSTRUÇÃO PROBATÓRIA, QUANDO O MAGISTRADO SINGULAR DISPORÁ DE ELEMENTOS SUFICIENTES QUE LHE PERMITAM VERIFICAR SOBRE A FIXAÇÃO DO REGIME PRISIONAL ADEQUADO. ORDEM DENEGADA.
+Daí o presente writ, em que a defesa alega não haver fundamentação idônea que enseje a manutenção da prisão preventiva. No ponto, sustenta que "é evidente que o Paciente vem sofrendo tratamento discriminatório, porque se possuísse recursos já teria arcado com o valor e nem sequer teria sido conduzido à audiência de custódia. Mas, justamente por ser pobre, encontra-se encarcerado"" (e-STJ fl. 8).
+Destaca que são favoráveis as circunstâncias pessoais do acusado.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+Liminar indeferida às e-STJ fls. 69/71.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 87/91).
+É o relatório.
+Decido.
+Pois bem. Informações enviadas pelo Juízo de primeiro grau (e-STJ fls. 99/104) noticiam que, em 26/6/2023, a prisão preventiva do paciente foi revogada, expedido o competente alvará de soltura.
+Portanto, esvaziado está o objeto deste writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
