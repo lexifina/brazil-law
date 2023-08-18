@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA Impetração para o fim de obstar exigência do ICMS/DIFAL nas operações interestaduais realizadas no ano-calendário 2022 Inadmissibilidade Lei Estadual nº 17.470/2021 que efetivamente instituiu o tributo de competência estadual Determinação para exigência a partir de abril de 2022 Princípios da anterioridade anual e nonagesimal observados Lei Complementar nº 190/2022 trata-se apenas norma geral para validação da cadeia normativa Precedentes jurisprudenciais Apelação não provida.
+Os Embargos de Declaração foram rejeitados (fl. 317-323, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 927, I e III, do Código de Processo Civil e 3º da Lei Complementar 190/2022. Aduz:
+(..) Ao julgar a apelação da Recorrente, o Tribunal local entendeu que a lei paulista já teria respeitado a anterioridade nonagesimal, de modo que não haveria fundamento em invocar tal princípio tendo como parâmetro a LC 190/2022, no intuito de afastar a cobrança do DIFAL/ICMS até 05/04/2022.
+Nesse sentido, o Plenário do Supremo Tribunal Federal reconheceu, no julgamento da ADI 5469 e do RE 1287019 (leading case do Tema 1093), a inexigibilidade do DIFAL/ICMS enquanto não editada lei complementar regulamentando as normas gerais da exação, introduzida no ordenamento jurídico pela EC 87/2015
+(..) Os efeitos do precedente foram modulados para valerem a partir do exercício fiscal de 2022 na hipótese de não edição da necessária lei complementar pelo Congresso Nacional, ressalvando-se as ações judiciais em curso sobre a matéria, para as quais não há modulação, isto é, o tributo jamais foi exigível nesses casos. Com isso, houve tempo hábil para a publicação da referida lei complementar no período entre 24 de fevereiro e 31 de dezembro de 2021.
+O Congresso Nacional, por sua vez, editou o Projeto de Lei nº 32/2021, o qual foi sancionado, contudo, somente no ano de 2022, originando a Lei Complementar 190/2022, a qual entrou em vigor na data de sua publicação, qual seja, 05/01/2022.
+(..) No caso concreto, o fundamento normativo para a exigência do DIFAL somente se tornará completo a partir da publicação da LC 190, a qual, por ter ocorrido em 2022, atrai a incidência da anterioridade de exercício, conforme o raciocínio apresentado acima.
+Infirma-se, nessa parte, o fundamento apresentado no acórdão recorrido de que " tendo a Lei Estadual nº 17.470/21 sido publicada no exercício financeiro de 2021, verifica-se que observou a regra da anterioridade anual, com pretensão de cobrança da exação apenas no exercício financeiro seguinte, ou seja, no ano-calendário de 2022 ".
+As leis estaduais que porventura tenham instituído a cobrança do DIFAL/ICMS antes da publicação da LC 190/2022, portanto, não cumpriram o período de anterioridade de exercício, pois somente a partir da novel legislação complementar é que houve, de forma efetiva e válida, a instituição da cobrança do tributo.
+Deverá, portanto, ser provido o presente Recurso Especial, a fim de ser aplicada a anterioridade anual à cobrança do DIFAL/ICMS regulamentado pela LC 190/2022, de forma que a cobrança do tributo ocorra somente a partir do exercício fiscal de 2023, nos termos da fundamentação supra.
+Contraminuta apresentada às fls. 358-362, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.8.2023.
+Na origem, cuida-se de Mandado de Segurança no qual a agravante se insurge contra a cobrança do Diferencial de Alíquota de ICMS incidente sobre as operações interestaduais de remessa de mercadorias a consumidor final não contribuinte do imposto com base na Lei Complementar 190/2022.
+Verifica-se que o Colegiado originário se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito. Logo, não cabe falar em negativa de prestação jurisdicional.
+No enfrentamento da matéria, o Tribunal a quo consignou :
+1- LGF Comércio Eletrônico Ltda impetrou mandado de segurança em face do Coordenador da Administração Tributária da Secretaria da Fazenda do Estado de São Paulo, visando afastar a exigência do ICMS/DIFAL nas operações interestaduais destinadas a consumidor final não contribuinte situado neste Estado, realizadas no ano-calendário 2022.
+Relata que realiza operações de venda de mercadorias a consumidores finais não contribuintes do ICMS aqui localizados, fato gerador do ICMS/DIFAL recolhido ao respectivo Estado de destino nos termos do artigo 155, incisos VII e VIII, da Constituição Federal.
+Acrescenta que o Supremo Tribunal Federal fixou entendimento no RE nº 1.287.019, com o Tema nº 1.093, para exigir a edição de lei complementar com normas gerais. Todavia, a publicação da Lei Complementar nº 190 ocorreu apenas em 2022, o que impede a exigência do tributo no ano em curso com fulcro no Princípio da Anterioridade Anual.
+A r. sentença denegatória da ordem deve ser mantida.
+2- O diferencial de alíquotas do ICMS (DIFAL) nas operações interestaduais com consumidor final contribuinte ou não do ICMS, foi instituído pela Emenda Constitucional nº 87/15:
+(..)
+Conforme exigido pelos artigos 146, inciso III, alínea "a", bem como artigo 155, § 2º, inciso XII, alíneas "a", "d" e "i", da Constituição Federal, o Supremo Tribunal Federal fixou entendimento no RE nº 1287019, com o Tema nº 1.093, no sentido de que a cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais.
+A Lei Paulista nº 17.470/2021, de 14/12/2021, institui o tributo e a incidência do diferencial de alíquota nas operações realizadas neste Estado. Essa norma explicitou que haveria cobrança a partir de 1º de abril de 2022, conforme Comunicado CAT nº 02/2022.
+Deste modo, foi observado o princípio da anterioridade anual expresso no artigo 150, inciso III, alínea "b", da Constituição Federal: no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou. Ainda se respeitou o princípio da anterioridade nonagesimal, posto na alínea "c" da norma constitucional:
+antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b.
+A Lei Complementar nº 190/2022, publicada em 05/01/2022, tange à norma geral para validação da cadeia normativa.
+Não instituiu nem majorou tributo, até porque nem poderia, haja vista a competência tributária ser estadual.
+Pontuo ainda que a Lei Complementar nº 190/2022, no seu artigo 3º, ainda remete ao princípio da anterioridade nonagesimal em consonância a lei estadual: Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea "c" do inciso III do caput do art. 150 da Constituição Federal.
+O que pretende a parte, efetivamente, é a não aplicação ao caso concreto dos princípios constitucionais da anterioridade anual e nonagesimal previstos no art. 150, III, "b" e "c", da Constituição Federal, bem como a interpretação do quanto decidido pelo STF no seu Tema 1.093 (RE 1.287.019). Assim, constata-se que a demanda possui natureza eminentemente constitucional, cuja análise é de competência do Supremo Tribunal Federal e não pode ser realizada pela via especial. Ilustrativamente:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS-DIFAL. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. ACÓRDÃO RECORRIDO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+1. Discute-se nos autos a exclusão do ICMS-DIFAL da base de cálculo do PIS/COFINS.
+2. Hipótese em que a questão foi dirimida pelo Tribunal de origem com base em fundamentos eminentemente constitucionais, a impedir a revisão da tese em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal. Agravo interno improvido. (AgInt no REsp 2.019.681/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/2/2023)
+Nessa mesma linha, confiram-se as decisões monocráticas: REsp 2.055.869/DF, Rel. Ministro Mauro Campbell Marques, DJe 21.3.2023; REsp 2.052.288/DF, Rel. Ministro Sérgio Kukina, DJe 30.3.2023; REsp 2.041.668/CE, Rel. Ministro Francisco Falcão, DJe 13.2.2023; e REsp 2.049.476/CE, Rel. Ministro Mauro Campbell Marques, DJe 15.2.2023.
+Ademais, não cabe ao Superior Tribunal de Justiça, no REsp, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula 280/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDORA PÚBLICA ESTADUAL. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITAÇÃO. DIREITO LOCAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem - de que "o Decreto Estadual nº 12.796/09 define limites específicos de despesas do servidor público estadual com empréstimos consignados e cartão de crédito, nos percentuais de 40% e 10% da renda bruta, respectivamente" -, é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+2. Agravo interno não provido.
+(AgInt no AREsp 1.203.368/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/5/2018)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
