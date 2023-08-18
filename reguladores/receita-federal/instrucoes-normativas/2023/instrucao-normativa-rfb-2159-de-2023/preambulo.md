@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2159, de 17 de agosto de 2023
+Dispõe sobre a reabertura do prazo para adesão ao Programa Especial de Regularização Tributária para as santas casas, os hospitais e as entidades beneficentes que atuam na área da saúde (Pert-Saúde) de que trata o art. 12 da Lei nº 14.375, de 21 de junho de 2022, e altera a Instrução Normativa RFB.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no exercício da atribuição prevista no inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 8º da Lei nº 14.592, de 30 de maio de 2023, resolve:
