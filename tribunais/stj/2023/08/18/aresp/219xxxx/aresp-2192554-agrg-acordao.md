@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTONIO STANG, contra decisão de minha lavra, de fls. 410/418, em que se conheceu do agravo e em parte do recurso especial, desprovendo este último.
+A defesa do agravante alega que não incidem os óbices das Súmulas ns. 282 e 356 do STF, pois "a tese de atipicidade ventilada no RESP e mencionada na decisão impugnada foi debatida e defendida pelo Agravante desde o primeiro grau de jurisdição, sendo devidamente analisada, tanto pelo juízo de base, como pela 2ª Câmara Criminal do TJRP" (fl. 426).
+Aduz que "de acordo com o é entendimento do STF Não é necessário que o acórdão recorrido tenha feito referência expressa aos dispositivos da Constituição ou da legislação federal. Basta que a decisão recorrida tenha enfrentado a tese jurídica que envolve a compreensão da Constituição ou do direito federal - é irrelevante a "ausência de menção dos dispositivos constitucionais atinentes aos temas versados" (..), o que é exatamente a situação dos autos, afinal, não há como negar que a tese suscitada foi vencida no Recurso de Apelação" (fl. 429).
+Sustenta que a decisão não está em harmonia com a jurisprudência do STJ e que a pretensão não demanda reexame do conjunto probatório, mas visa tão somente a correta aplicação e interpretação de leis. Pretende a revaloração das provas, o que não é vedado pelo STJ.
+Por fim, afirma que realizou o devido cotejo analítico entre o decisum e os julgados paradigmas.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo colegiado para que seja dado integral provimento ao recurso especial.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA DE FOGO E MUNIÇÕES DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DISSÍDIO NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acolhimento da pretensão recursal de absolvição do recorrente por atipicidade da conduta demandaria revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. O dissídio jurisprudencial não foi comprovado, porquanto o recorrente não realizou o indispensável cotejo analítico entre o decisum recorrido e os acórdãos indicados como paradigmas, limitando-se a citar apenas os julgados.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+Com efeito, ainda que se considere como prequestionada a alegação da defesa, de atipicidade da conduta, o acolhimento da pretensão recursal demanda o reexame de provas, vedado pela Súmula n.7/STJ.
+Não é possível acolher a tese defensiva de que as armas e munições apreendidas possuíam registro em nome do Agravante, bem como foram localizadas em seu escritório e não em sua residência, porquanto as instâncias ordinárias concluíram de modo contrário, que a arma de fogo e munições foram localizadas em seu domicílio e que o registro do artefato não estava em seu nome (fl. 300).
+No mesmo sentido, cita-se precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA DEVIDAMENTE IMPUGNADA. AGRAVO CONHECIDO. POSSE DE ARMA DE FOGO. ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ. ATIPICIDADE. CRIME DE MERA CONDUTA. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO MAS LHE NEGAR PROVIMENTO.
+1. Devidamente impugnada a decisão agravada, deve ser conhecido o recurso.
+2. Uma vez que a condenação pelo delito de porte ilegal de arma de fogo deu-se fundamentadamente com base nas provas dos autos, a pretendida inversão do julgado esbarra no óbice da Súmula 7/STJ.
+3. Nos termos do entendimento desta Corte, o crime de posse ilegal de arma de fogo é delito de mera conduta (ou de simples atividade), ou seja, consuma-se independentemente da ocorrência de efetivo prejuízo. Precedentes.
+4. Agravo regimental provido para conhecer do agravo mas lhe negar provimento.
+(AgRg no AREsp 1.631.613/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020).
+Ainda, no mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. PEDIDO DEFENSIVO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. INVIABILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PLEITO ALTERNATIVO DE FIXAÇÃO DE REGIME PRISIONAL ABERTO. DECISÃO DA CORTE DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. REGIME ESTABELECIDO DE ACORDO COM A QUANTIDADE DE PENA APLICADA E APOIADO NA REINCIDÊNCIA DO APENADO. INCIDÊNCIA DA SÚMULA N. 83 DESTE STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão absolutória defensiva é inviável, dada a necessidade de profunda incursão no contexto probatório dos autos. Vedação da Súmula n. 7 deste Superior Tribunal de Justiça.
+2. Pedido alternativo de fixação do regime prisional aberto, igualmente improcedente, haja vista que a decisão da Corte de origem está em consonância com a orientação jurisprudencial deste Sodalício, pois o regime intermediário foi estabelecido com base no quantum da pena aplicado e na reincidência do apenado. Súmula 83/STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp 1606051/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 23/3/2021).
+Por derradeiro, a respeito do dissídio jurisprudencial, registra-se que não foi comprovado, porquanto não realizado o indispensável cotejo analítico entre o decisum recorrido e os acórdãos indicados como paradigmas. Incumbe à parte demonstrar as circunstâncias identificadoras da divergência, notadamente a existência de similitude fática e identidade jurídica entre as decisões prolatadas pelo TJPR e pelo STJ.
+Dessa forma, a controvérsia não comporta conhecimento pela alínea "c" do permissivo constitucional, com fundamento no art. 932, III, e art. 1.029, § 1º, do Código de Processo Civil - CPC e no art. 255, § 1º, do RISTJ; Nesse sentido, cito (grifo meu):
+PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TEMAS CONSTITUCIONAIS. INADMISSIBILIDADE. DECISÃO MONOCRÁTICA. JURISPRUDÊNCIA DOMINANTE. CABIMENTO. IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DAS DECISÕES RECORRIDAS. NECESSIDADE. FUNDAMENTAÇÃO DEFICIENTE. INCOMPREENSÃO DA CONTROVÉRSIA. MERO USO DE DROGAS. SIMPLES INFORMANTE DO TRÁFICO. CONSTATAÇÃO CONTRÁRIA DAS INSTÂNCIAS ORDINÁRIAS. REEXAME. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. DESCUMPRIMENTO. PROVA PROTELATÓRIA. INDEFERIMENTO FUNDAMENTADO. VIABILIDADE. ESTABILIDADE E PERMANÊNCIA. RECONHECIMENTO. TRÁFICO PRIVILEGIADO. INCOMPATIBILIDADE. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+ ..
+5. A tese de o acusado ser usuário de drogas e não traficante, de forma contrária à conclusão das instâncias ordinárias, com base na afirmação de haver contradição intrínseca e lacuna na prova oral, de existir divergência entre ela e percepção da defesa, bem como de prevalecer o in dubio pro reo, implicam em descabido reexame de provas, contrário ao enunciado da Súmula 7/STJ.
+6. A omissão da defesa, no recurso especial, em impugnar todos os fundamentos do acórdão, baseados em fatos e inferências que conduziriam à constatação de existência de associação para o tráfico de drogas, atrai a incidência do art. 253, II, "a", do RISTJ, na sua parte final, bem como o enunciado da Súmula 182, deste STJ,
+7. O recurso especial interposto com fulcro no art. 105, inciso III, alínea "c", da Constituição da República exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o acórdão recorrido e o eventual paradigma (art. 255, § 2º, do RISTJ), o que não ocorreu na espécie.
+8. Ao magistrado é facultado o indeferimento, de forma fundamentada, do requerimento de produção de provas que julgar protelatórias, irrelevantes ou impertinentes, devendo a sua imprescindibilidade ser devidamente justificada pela parte.
+9. A alegação de ser o acusado mero informante e colaborador com o tráfico não pode ser examinada em sede de recurso especial quando as instâncias ordinárias, baseadas nos diversos elementos probatórios produzidos nos autos, conclui que ele estava traficando, sendo associado ao tráfico, porque novamente a tese esbarra no óbice do enunciado da Súmula 7/STJ.
+10. Mesmo se o acórdão interpreta equivocadamente o direito, entendendo que o agrupamento eventual é suficiente para a configuração do tipo do art. 35, da Lei de Drogas, não há que se falar em absolvição pela prática de associação para o tráfico se a mesma decisão, apontando diversos elementos probatórios produzidos perante o juízo de 1º grau, indica, sob o ponto de vista fático, que estão preenchidos os necessários requisitos da estabilidade e permanência.
+11. A condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente entre os agentes no cometimento do delito, evidenciando, assim, a dedicação da agente à atividade criminosa.
+12. Agravo regimental conhecido parcialmente e desprovido.
+(AgRg no AREsp n. 1.093.927/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2022).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
