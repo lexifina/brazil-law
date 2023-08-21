@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRADESCO SAUDE S/A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - PLANO DE SAÚDE - ASTREINTES - MULTA DEVIDA NO CASO, POIS CUMPRIDA A OBRIGAÇÃO DEPOIS DO TEMPO DEVIDO -MONTANTE QUE É RAZOÁVEL NO CASO CONCRETO - DECISÃO ACERTADA - RECURSO DESPROVIDO, OBSERVANDO-SE QUE O VALOR A SER ARRECADADO COM A MULTA DEVERÁ SER DEPOSITADO EM CONTA JUDICIAL EM NOME DO MENOR, SÓ PODENDO SER LEVANTANDO QUANDO ATINGIDA A MAIORIDADE OU MEDIANTE AUTORIZAÇÃO JUDICIAL, NOS TERMOS DO PARECER DO MINISTÉRIO PÚBLICO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 537, § 1º, do CPC e do art. 884 do CC, no que concerne à necessidade de redução da astreintes, tendo em vista que se tornou excessiva e desproporcional ao valor da obrigação principal, sob pena de incorrer em enriquecimento sem causa do recorrido, trazendo a seguinte argumentação:
+14. Dessa forma, é manifesta a violação art. 537, § 1º do Código de Processo Civil e art. 884 do Código Civil, já que desarrazoado e exagerado o valor fixado a título de multa, em R$ 100 mil.
+MULTA EXCESSIVA 15. Ninguém duvida que a multa inibitória tenha a única função de compelir a parte a cumprir a obrigação a ela estipulada, tanto que o § 1º do art. 537 do Código de Processo Civil, é expresso ao dispor que:
+ ..
+16. Justamente por isso, a cominação de pena pecuniária para o caso de inadimplemento da obrigação, as astreintes no direito francês, não deve ultrapassar o quanto necessário para que a parte se sinta compelida a arcar com a obrigação, garantindo o resultado efetivo da tutela jurisdicional.
+17. Se, por um lado, ninguém dissente que o valor cominado a título de multa por descumprimento deve ser suficiente para cumprir seu mister, evitando o inadimplemento, por outro, não se pode fechar os olhos para os efeitos negativos gerados pela fixação de astreintes em valores que não guardam a devida correlação com a obrigação a ser cumprida.
+18. No caso concreto, a cominação da multa no valor de R$ 100 mil mostra-se mesmo desproporcional ao vulto econômico envolvido nessa demanda, o que torna o descumprimento da ordem judi cial, inclusive, mais vantajoso ao recorrido do que a observância da própria obrigação de fazer.
+19. Além disso, e apesar do deferimento da tutela antecipada pelo MM. Juízo de primeiro grau, não há como se deixar de ponderar que o perigo de dano que sofreria o recorrido em caso de descumprimento da obrigação é infinitamente menor do que outros casos que por vezes envolvem seguradoras.
+20. Cite-se, a título de exemplo, acórdão desse e. Tribunal de Justiça em caso envolvendo obrigação de disponibilização de medicamento para tratamento de câncer, em que se cominou astreinte em patamar bastante inferior ao arbitrado pelo MM. Juízo de primeiro grau:
+(fls. 274-275).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+7. A multa é devida no caso, pois cumprida a obrigação depois do tempo devido e após várias intimações, evidenciada a desídia no caso concreto da requerida.
+ ..
+9. Por outro lado, o montante é razoável no caso concreto, não ferindo a razoabilidade e a proporcionalidade, nem ensejando o enriquecimento sem causa do ora agravado (fl. 247).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
