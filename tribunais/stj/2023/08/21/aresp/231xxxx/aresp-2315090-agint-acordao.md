@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, inconformada com a decisão de fls. 135-138, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a agravante aponta a inaplicabilidade das Súmulas 7 e 83 desta Corte, pois se discute o real cabimento da multa e, subsidiariamente, a possibilidade de revisão de seu valor. Afirma, para tanto, que "a jurisprudência desse E. Superior Tribunal de Justiça consolidou-se no sentido de que o valor fixado a título de multa pode ser revisto a qualquer tempo, consoante disciplina o art. 537, do CPC, sendo que no caso resta patente a abusividade da fixação da multa diária, que poderia, inclusive, abalar as bases da empresa agravante, já que o valor de R$ 29.400,00 poderia muito bem a levar um sério prejuízo e risco de manutenção de suas obrigação, razão pela qual restou comprovada a urgência e o caráter excepcional que autoriza a interposição de agravo de instrumento fora da lista do art. 1.015 do CPC/2015" (fl. 146).
+Foi apresentada impugnação às fls. 174-188.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. TUTELA DE URGÊNCIA CONCEDIDA NOS AUTOS PRINCIPAIS. ASTREINTES. REVISÃO. EXORBITÂNCIA NÃO CONFIGURADA. AGRAVO INTERNO DESPROVIDO.
+1. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. Hipótese em que a multa por descumprimento da obrigação de fazer foi fixada em R$ 200,00 (duzentos reais) por dia, limitada a R$ 30.000,00 (trinta mil reais), valor que não se mostra desproporcional ou exorbitante no caso, em que foi verificada a desídia da ora agravante ao cumprimento da ordem, considerando a gravidade do quadro clínico da parte agravada.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE FINANCIAMENTO DE TRATAMENTO. DANO MORAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. MULTA DIÁRIA. ASTREINTES. TESE RELACIONADA À SUPOSTA EXORBITÂNCIA. NÃO ACOLHIMENTO. ALTERAÇÃO DO ENTENDIMENTO ALCANÇADO NA ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O acolhimento da pretensão recursal sobre a inexistência de abusividade da recusa de custeio do exame médico exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, atraindo os óbices das Súmulas 5 e 7 do STJ.
+2. A operadora de plano de saúde pode estabelecer as doenças que terão cobertura, mas não podem limitar o tipo de tratamento a ser utilizado pelo paciente. Dessa forma, sendo fato incontroverso a cobertura securitária para a enfermidade em questão, inviável a insurgência da recorrente pretendendo limitar o tipo de tratamento a que deve se submeter o paciente.
+3. A jurisprudência do STJ preleciona que, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+4. A jurisprudência do Superior Tribunal de Justiça tem admitido possibilidade da alteração, em recurso especial, do valor das astreintes quando estas se revelarem irrisórias ou exorbitantes, não sendo a situação ora em apreço.
+5. Agravo interno não provido.
+(AgInt no REsp 1826536/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE REQUERIDA.
+1. Incide a Súmula 7/STJ à pretensão da parte de ver reduzida as astreintes, notadamente quando evidenciada que o valor tido como exorbitante foi alcançado pela recalcitrância da parte no cumprimento da determinação judicial.
+2. A alegação de que o valor final da multa por descumprimento da obrigação de fazer supera o da obrigação principal, por si só, não é suficiente para a caracterização de sua excessividade. Isso porque a aferição da razoabilidade e da proporcionalidade das astreintes deve levar em conta o valor no momento da fixação, em vez de comparar com o total alcançado frente à obrigação principal, sob pena de se prestigiar a recalcitrância do devedor em cumprir a ordem judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias 3. Agravo interno desprovido.
+(AgInt no AREsp 1758478/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+No caso em comento, a Corte de origem condenou a parte recorrente ao pagamento de multa diária de R$ 200,00 (duzentos reais) por dia de descumprimento, limitada a R$ 30.000,00 (trinta mil reais). Confira-se a fundamentação do acórdão recorrido:
+O recurso deve ser desprovido.
+Cuida-se, na origem, de cumprimento provisório de sentença pelo qual o agravado busca o pagamento das astreintes fixadas para a hipótese de descumprimento da tutela de urgência concedida nos autos principais, originalmente fixadas " ..  no valor  diário  de R$ 200,00, limitada inicialmente ao montante de R$ 30.000,00" (fls. 54/56 dos autos de origem).
+A despeito da irresignação, a r. decisão agravada está correta, pois, ao contrário do que se afirma nesta instância recursal, a agravante não deu cumprimento tempestivo à tutela de urgência concedida nos autos principais.
+Com efeito, está evidenciado que a agravante tomou conhecimento da tutela provisória em 23 de dezembro de 2019, conforme informação do aviso de recebimento presente em primeiro grau (fl. 95 dos autos de origem).
+Também inequívoco é o fato de que as terapias prescritas ao agravado só foram liberadas corretamente em 22 de maio de 2020 (fls. 124/129 dos autos de origem), ou seja, praticamente 5 (cinco) meses após ser intimada a fazê-lo.
+Não fosse isso o bastante, a própria agravante reconheceu em sua impugnação que houve " ..  algum atraso na liberação dos tratamentos", suscitando argumentos genéricos relacionados à pandemia da Covid-19 para, sem razão, não " ..  ser punida por questões burocráticas alheias ao seu controle" (fls. 176/182 dos autos origem).
+Ocorre que as ditas "questões burocráticas" estão inseridas no risco da atividade da agravante, que deve (ou ao menos deveria) antever as dificuldades de seu ramo de negócios, independentemente do atual cenário pandêmico, (que já não é inédito ou inesperado) e garantir o pleno cumprimento das decisões proferidas pelo Poder Judiciário.
+Nem se diga, de mais a mais, que as astreintes são excessivas ou desarrazoadas.
+Isso porque a penalidade foi fixada em valor diário módico (R$ 200,00), especialmente considerando a gravidade do quadro clínico do agravado e o porte econômico-financeiro da agravante (uma das maiores operadoras de planos de saúde privados do país), tendo sido de início limitada para evitar seu crescimento exponencial.
+Ora, se as astreintes alcançaram o total de R$ 29.400,00, isso só aconteceu em razão da desídia da própria agravante, que não pode dela se valer para reduzir o valor devido ao agravado, inexistindo o enriquecimento sem causa alardeado neste recurso.
+Preserva-se, destarte, o valor da multa, que atende aos critérios de razoabilidade e proporcionalidade. (fls. 41-43)
+O valor da multa cominatória fixada pelo Tribunal de origem não se mostra exorbitante diante das peculiaridades do caso, em que foi verificada a desídia da ora agravante ao cumprimento da ordem, considerando a gravidade do quadro clínico da parte agravada, não merecendo a interferência do STJ para alterar o valor fixado pelas instâncias ordinárias.
+Nessa linha, a agravante não deduz argumentação nova capaz de modificar a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
