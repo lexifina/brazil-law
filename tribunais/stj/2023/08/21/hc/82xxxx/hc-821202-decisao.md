@@ -1,0 +1,31 @@
+DECISÃO
+DANIEL TALES FERREIRA DA SILVA VENTURIN, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1502942-76.2019.8.26.0482.
+Depreende-se dos autos que o réu foi condenado a 2 anos e 8 meses de reclusão, em regime fechado, mais 12 dias-multa, pela prática de furto.
+O Tribunal de origem deu provimento parcial à apelação defensiva, a fim de ajustar a pena para 1 ano de reclusão mais 10 dias-multa.
+Neste habeas corpus, alega haver sido configurada nulidade decorrente da ausência de indicação do regime inicial na sentença e no acórdão atacado. Sustenta não haver sido reconhecida a bagatela, para cuja análise os registros de vida pregressa do agente são irrelevantes. Aduz que deve ser imposto regime inicial aberto ou semiaberto, apesar de o acusado ostentar antecedentes criminais.
+Pede seja declarada a nulidade do acórdão. Subsidiariamente, pleiteia seja aplicado o princípio da insignificância ou determinado regime inicial aberto ou semiaberto.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O acórdão atacado asseriu o seguinte:
+A despeito de não constar na parte dispositiva da sentença o regime inicial de cumprimento da pena, vislumbra-se que ele foi examinado pela douta Magistrada, tanto que o fixou durante sua motivação, assim consignando: "Ademais, considerando as particularidades do caso concreto, atenta ao princípio da individualização da pena e às condições pessoais do acusado, fixo o regime inicial fechado, por entender necessário ante à gravidade em concreto da conduta", fls. 270. O equívoco restringiu-se, portanto, apenas em não o fazer constar no dispositivo, mero erro material passível, igualmente, de pronta correção, não havendo se falar em eiva alguma.
+ ..
+O valor do bem subtraído (um aparelho celular usado, avaliado em R$ 150,00, fls. 90), conquanto não seja significativo, não é ínfimo nem irrisório,  ..
+No caso, a conduta não foi minimamente ofensiva, atingiu bem jurídico tutelado pela lei penal, o patrimônio da vítima. Há na ação do recorrente periculosidade social, trata-se de agente que ostenta diversas condenações por furto, consoante se infere de sua extensa certidão de feitos criminais, 112/119.
+ ..
+O regime inicial é o fechado, à luz do que preconizam os artigos 33, § 3º, e 59, III, do Código Penal, satisfazendo, portanto, o binômio necessidade/suficiência, mesmo diante da redução da pena.
+(fls. 96-104, destaquei)
+No que tange à nulidade, não procede a argumentação defensiva, haja vista que as decisões judiciais são integradas por todas as suas partes, nada obstante sejam divididas em capítulos ou outra técnica de organização dos seus termos.
+Nesse contexto, é irrelevante a circunstância de não constar no dispositivo a indicação do regime inicial, se houver sido determinado na motivação do decisum.
+Quanto à alegada atipicidade, para que o fato seja considerado criminalmente relevante, não basta a m era subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o próprio legislador penal confere importância aos registros na folha de antecedentes para o cômputo da reprimenda, como ocorre na privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses para agentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade de individualizar a pena.
+Na espécie, o réu reincidente específico foi acusado de haver subtraído de pessoa física celular avaliado em R$ 150,00, equivalentes a 16% do salário mínimo vigente na época dos fatos.
+Como se observa, trata-se de valor relevante na análise de furto praticado em desfavor de pessoa física por agente reincidente específico, a recomendar a atividade punitiva estatal.
+Quanto ao regime inicial, estão elencados no art. 33, §§ 2º e 3º, do Código Penal os critérios para a sua imposição, de modo a determinar que deve ser feita com a observância dos critérios temporais do § 2º, bem como das circunstâncias judiciais, nos termos do art. 59 do Código Penal.
+Ante a quantidade de pena (não excedente a 4 anos), a reincidência e o registro de circunstância judicial negativa sopesada na primeira fase da dosimetria (maus antecedentes), revela-se correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, do Código Penal.
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
