@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por FLAVIO PEDRO FERNANDES em face de acórdão de fls. 476/480, que não deu provimento ao agravo regimental, mantendo a decisão monocrática que conheceu do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negar-lhe provimento (fls. 441/449). O acórdão embargado ficou assim ementado:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. ART. 33, § 3º, DO CÓDIGO PENAL - CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS MANTIDA PELO ACÓRDÃO RECORRIDO. AGRAVO DESPROVIDO.
+1. A presença de circunstância judicial negativa permite a fixação do regime semiaberto para início do cumprimento da pena privativa de liberdade inferior a 4 anos, nos termos do art. 33, §§ 2º e 3º, c. c. art. 59, ambos do Código Penal. No caso concreto, as consequências do delito foram consideradas negativas, levando ao incremento da pena-base e justificando a imposição de regime prisional mais gravoso.
+2. O acórdão recorrido manteve a substituição da pena corporal por restritivas de direitos, nos termos estabelecidos pela sentença, sendo destituída de sentido a irresignação defensiva quanto ao ponto.
+3. Agravo regimental desprovido." (fl. 468)
+No presente recurso (fls. 476/480), a defesa alega que o acórdão embargado manteve o regime prisional intermediário, muito embora tenha sido fixada a pena em patamar inferior a 8 anos. Aduz que a pena-base não deveria ter sido imposta acima do mínimo legal e, ainda que o fosse, não poderiam ter sido utilizadas as mesmas circunstâncias para também agravar o regime prisional. Por fim, afirma que as circunstâncias judiciais não são totalmente desfavoráveis a ponto de justificar o acréscimo da pena-base e a fixação de regime mais gravoso.
+Requer o acolhimento dos embargos, com efeitos infringentes, para reformar a decisão hostilizada e, ao fim, dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+2. Verifica-se que o embargante não comprovou a existência de qualquer vício no julgado. Em realidade, aduz, genericamente, ter havido "omissão e contradição" apenas como forma de veicular a sua insatisfação com o resultado do julgamento. Ademais, a defesa suscita questões que sequer foram objeto de irresignação no agravo regimental.
+3. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+4. Embargos de declaração rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso em análise, a defesa sequer indicou efetivamente a existência de quaisquer dos vícios aptos a justificar o manejo do recurso em questão. Em realidade, aduz, genericamente, ter havido "omissão e contradição" apenas como forma de veicular a sua insatisfação com o resultado do julgamento.
+No acórdão embargado, restou suficientemente justificada a razão pela qual foi mantido o regime inicial semiaberto para início do cumprimento da pena, de vez que presente circunstância judicial negativa consistente nas consequências do delito.
+Verifica-se, ademais, que, nas razões de agravo regimental, a defesa sequer impugnou o quantum de aumento da pena-base ou o fato de a mesma circunstância ter justificado o agravamento da pena e do regime prisional. Em agravo regimental, a defesa circunscreveu-se a reiterar, em verdade, a equivocada alegação de violação ao art. 44 do Código Penal - CP, rechaçada em vista da manutenção da substituição da pena corporal por restritivas de direitos.
+Dessa forma, não há qualquer vício a ser sanado no acórdão embargado, apenas inconformismo da parte, o que não se coaduna com a medida integrativa.
+Com efeito, "nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+No mesmo sentido (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nã o está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, o acórdão embargado consignou expressamente que o agravante deixou de impugnar adequadamente um dos fundamentos de inadmissibilidade do recurso especial, qual seja: a incidência da Súmula 83 do STJ, situação que denota a incidência do enunciado sumular n. 182 do STJ.
+3. Assentou, ainda, que a parte não demonstrou, especificamente, que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
