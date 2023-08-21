@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por LOURDES T. R. RECH e outros (LOURDES e outros) contra decisão monocrática de minha relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. OMISSÃO. NÃO CONFIGURAÇÃO. RETENÇÃO DO IMPOSTO DE RENDA. DISCUSSÃO EM SEDE DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA Nº 283 DO STJ. PRECLUSÃO DO VALOR DEVIDO. NÃO VERIFICAÇÃO. ERRO DE CÁLCULO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. LIBERAÇÃO DOS RENDIMENTOS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. ACÓRDÃO QUE SEGUE A ORIENTAÇÃO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 568 DO STJ. VIOLAÇÃO AO PRINCÍPIO DA IGUALDADE ENTRE OS CREDORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO. (e-STJ, fls. 1.098/1.099)
+Nas razões do presente inconformismo, LOURDES e outros combatem a aplicação das Súmulas n.ºs 282, 283 e 284 do STF e 568 do STJ insistindo na alegação de (1) omissão e afirmando que (2) não arguiram erro de cálculo nos autos, tendo sido afirmado, apenas, que descabido o recebimento de impugnação ao cumprimento de sentença oposta contra cálculo homologado  e-STJ, fl. 1.116 ; (3) preclusa a pretensão de reconhecimento de excesso de execução contra débito definido judicialmente  e-STJ, fl. 1.116 ; (4) contraditória a aplicação da Súmula n.º 282 do STF e a afirmação de ausência de que não houve omissão, tendo sido devidamente demonstrada a violação do princípio da igualdade entre os credores.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. NÃO CONFIGURAÇÃO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NÃO CABIMENTO. PRECLUSÃO. NÃO OCORRÊNCIA. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA N.º 283 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. VIOLAÇÃO DO PRINCÍPIO DA IGUALDADE ENTRE OS CREDORES. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 282 DO STF E AUSÊNCIA DE OMISSÃO. APLICAÇÃO. NÃO CONTRADIÇÃO. NÃO PROVIMENTO.
+1. Não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si sós, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n.º 83 do STJ.
+4. Não havendo prequestionamento das matérias postas em discussão no especial, inviável o conhecimento do recurso pelo óbice da Súmula n.º 282 do STF.
+5. Não há que se falar em contradição quando, ao mesmo tempo, reconhecidas a ausência de omissão e o não prequestionamento de um ponto específico, se devidamente resolvida a questão de fundo posta em discussão na origem.
+6. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+VOTO
+O presente agravo interno não merece prosperar.
+As razões expostas na petição ora em análise não justificam a alteração do julgamento proferido na decisão agravada.
+(1) Omissão
+Devidamente comprovado, na decisão agravada, que não configurada a alegada omissão, tendo sido devidamente analisados os pontos necessários à demonstração do entendimento adotado no julgamento. Confira-se:
+Verifica-se que devidamente esclarecidas as razões de decidir pelo TJRS, não se configurando a alegada omissão. Confira-se:
+No caso concreto, restam totalmente descabidas as repetições trazidas pelo embargante, pois como bem explicitado no acórdão embargado, quanto a dita preclusão referente aos critérios de cálculo, a decisão proferida em sede de agravo foi clara no sentido de que não resta configurada, pois o incidente de impugnação é o momento processual legalmente previsto para a defesa da parte devedora que alega excesso de execução. Além disso, não há a incidência da preclusão em erro de cálculo. (e-STJ, fl. 852)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. (e-STJ, fl. 1.101)
+Dessa forma, não tendo sido trazida na petição do presente agravo efetiva demonstração de omissão ou negativa de prestação jurisdicional, não se justifica a alteração do entendimento adotado na decisão agravada.
+(2) Cabimento de impugnação ao cumprimento de sentença
+(3) Preclusão
+No julgamento do recurso especial adequadamente decidido que ausente a impugnação de fundamento suficiente para a manutenção do acórdão proferido pela Corte de origem, porque o Tribunal de origem, ao julgar o agravo de instrumento, concluiu ser possível a análise das citadas matérias, assim se pronunciando:
+ ..
+Primeiramente, importante salientar que o incidente de impugnação é o momento processual legalmente previsto para a defesa da parte devedora que alega excesso de execução (art. 475-L, V, do CPC/73, correspondente ao art. 525, § 1º, inciso V, do NCPC), sendo assim qualquer questão referente aos cálculos apresentados, dentre estes a incidência de Imposto de Renda, estão afetos a matéria de excesso de execução.
+Pois bem, de acordo com o art. 43 do Código Tributário Nacional, o imposto sobre a renda e proventos de qualquer natureza possui como fato gerador a aquisição da disponibilidade econômica ou jurídica de renda:
+ ..
+Assim, tratando-se de cumprimento de sentença, como no caso em apreço, o recolhimento do referido imposto deve ocorrer no mesmo momento do depósito.
+Por sua vez, o cálculo e recolhimento do imposto de renda incidente nos dividendos e honorários advocatícios devem ser realizados pela parte obrigada ao pagamento, de acordo com o preconizado nos artigos 46 e 121, ambos do CTN,  ..
+ ..
+O Superior Tribunal de Justiça firmou entendimento de que o art. 46 do CTN é autoaplicável. Destarte, é possível a retenção ou desconto do imposto de renda pela Brasil Telecom do valor atinente aos dividendos e honorários advocatícios, uma vez que tal empresa é a fonte pagadora.
+ ..
+Portanto, correta a decisão agravada, devendo ser, também, desprovido o recurso no ponto. (e-STJ, fls. 744/750)
+Da atenta análise do especial verifica-se que não houve impugnação aos arts. 43, 46 e 121 do CTN, utilizado como razões de decidir pela Corte de origem, bem como sua interpretação sobre os citados dispositivos, atraindo a incidência da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. (e-STJ, fls. 1.102/1.103)
+Em uma nova leitura dos autos, observo que, decididamente, não foram postos em discussão, no recurso especial, os dispositivos legais que embasaram a conclusão adotada pela origem, devendo, portanto, ser mantida a incidência da Súmula n.º 283 do STF.
+Acrescente-se, ademais, que, na decisão agravada, entendido que o acórdão proferido no Tribunal de origem foi decidido em harmonia com a jurisprudência desta Corte, não se configurando, portanto, qualquer ofensa aos dispositivos legais apontados no especial, o que se verifica do seguinte trecho:
+(3) preclusão da discussão do valor devido aos credores
+A Corte Estadual, ao analisar o assunto, concluiu não estar configurada a alegada preclusão, nos seguintes termos:
+ ..  não está configurada a alegada preclusão das matérias levantadas em impugnação.
+Isto porque o incidente de impugnação é o momento processual legalmente previsto para a defesa da parte devedora que alega excesso de execução (art. 475-L, V, do CPC/73, correspondente ao art. 525, § 1º, inciso V, do NCPC).
+Evidente que as matérias eventualmente examinadas pelo juízo em fase de cumprimento de sentença, antes da oposição de impugnação, não poderão ser novamente alegadas. Mas todas as questões que não foram decididas, independentemente de terem sido levantadas pelas partes na fase de cumprimento de sentença, podem ser reiteradas em impugnação.
+Importa consignar, ainda, que o procedimento de remessa dos autos à Contadoria antes da penhora é ferramenta processual à disposição do juízo prevista no art. 524, §§ 1º e 2º, do NCPC (antigo art. 475-B, §§ 3º e 4º, do CPC/73) servindo para verificar aparente excesso dos limites da condenação e para balizar o valor a ser penhorado. No entanto, a execução prossegue com base no cálculo do credor.
+Ademais, o erro de cálculo pode ser objeto de correção de ofício ou por provocação da parte a qualquer tempo para a adequação ao posto no título judicial, não havendo a incidência, no caso, da preclusão, uma vez que resta necessário, nestas circunstâncias, um exame mais minucioso do juízo acerca do argumento. (e-STJ, fls. 741/742)
+Na mesma direção do decidido, esta Corte entende o simples erro material de cálculo apresentado no cumprimento de sentença não se sujeita a preclusão (AgInt no AREsp n. 1.823.072/RS, de minha relatoria, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Incidência da Súmula nº 568 do STJ. (e-STJ, fls. 1.103/1.104)
+Pela explícita comprovação da consonância entre a conclusão adotada no acórdão recorrido e a jurisprudência sedimentada nesta Corte, incidente ao caso a Súmula n.º 83 do STJ, confirmando o entendimento de que não configurada afronta aos artigos de lei trazidos para discussão no especial.
+(4) Igualdade entre os credores e contradição quanto à aplicação da Súmula n.º 282 do STJ e o não reconhecimento de omissão
+Conforme o já claramente demonstrado acima, a arguição de omissão não procede, tendo sido devidamente transcritos os trechos em que tratadas as matérias sobre as quais alegadas omissão e negativa de prestação jurisdicional.
+Em relação à ausência de prequestionamento referente à igualdade entre os credores, não há o que se modificar, pois, quanto ao referido pedido, a Corte de origem considerou desnecessária sua discussão específica, tendo sido dirimido o ponto no contexto geral do acórdão.
+Esclareça-se que, conforme o entendimento sedimentado nesta Corte, a negativa de prestação jurisdicional somente é reconhecida quando, efetivamente, não se resolve a questão necessária à compreensão da conclusão adotada pela origem, o que não se justifica quando o juízo não se debruça especificamente sobre determinado ponto, por julgá-lo irrelevante ao deslinde da solução requerida.
+Nessa direção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. CONTROVÉRSIA SOBRE A VALIDADE DA CLÁUSULA DE REAJUSTE POR FAIXA ETÁRIA. OFENSA AO ART. 1.022 DO NCPC. AUSÊNCIA. MERO INCONFORMISMO DO RECORRENTE. TESES NÃO DEBATIDAS PELA ORIGEM. APLICAÇÃO DA SÚMULA Nº 282 DO STF. CLÁUSULA DE REAJUSTE DE MENSALIDADE POR MUDANÇA DE FAIXA ETÁRIA. LEGALIDADE. ÚLTIMO GRUPO DE RISCO. PERCENTUAL DE REAJUSTE. DEFINIÇÃO DE PARÂMETROS. AGRAVO NÃO PROVIDO.
+ ..
+2. Não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida, fundamentada, suficiente e apenas se deixa de adotar a tese do embargante. Precedente.
+3. Inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável, por analogia, a incidência da Súmula nº 282 do STF.
+4. O acórdão impugnado não destoou do entendimento firmado no REsp 1.568.244/RJ, porquanto deu provimento ao recurso de apelação para determinar a restituição ao segurado dos valores pagos a maior a partir de agosto de 2011, a título de reajuste de mensalidade em razão de mudança de faixa etária, mantidos os reajustes autorizados pela ANS, de modo que não há que se falar em afastamento integral dos percentuais impostos ao segurado.
+5. Agravo interno não provido.
+(AgInt na PET no REsp n. 1.792.219/SP, de minha relatoria, Terceira Turma, julgado em 10/2/2020, DJe de 12/2/2020)
+Dessa forma, não há que se falar em contradição quando, ao mesmo tempo, reconhecidas a ausência de omissão e o não prequestionamento de um ponto específico, se devidamente resolvida a questão de fundo posta em discussão na origem.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DE DIVERSOS DISPOSITIVOS LEGAIS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AFERIÇÃO DA IDONEIDADE DOS CRÉDITOS ACUMULADOS DE ICMS APURADOS PELA EMBARGANTE. MATÉRIA FÁTICA. IMPOSSIBILIDADE DE INFIRMAR A CONCLUSÃO ADOTADA NA ORIGEM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. MULTA. AFERIÇÃO DO CARÁTER CONFISCATÓRIO. MATÉRIS DE ÍNDOLE CONSTITUCIONAL.
+3. Ausência de prequestionamento dos arts. 156, § 1º, 371, 479, 355, todos do CPC/2015; 3º, 113, caput, e § 2º, 142, 97 e 161, do CTN; e 23 da Lei Complementar nº 87/1996, o que atrai a incidência da Súmula nº 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Ressalte-se que a negativa de provimento da alegação de ofensa aos arts. 489 e 1.022 e o reconhecimento de ausência de prequestionamento de dispositivos legais não são fundamentos contraditórios, eis que de fato não houve omissão no acórdão recorrido quanto às alegações de idoneidade ou não dos créditos e, por outro lado, os dispositivos legais tidos por alegados não foram efetivamente enfrentados no acórdão recorrido. A acolhida de cada alegação pressupõe o atendimento a requisitos distintos e ambos, na hipótese, não foram atendidos. Ademais, o prequestionamento previsto no art. 1.025 do CPC somente ocorre quando o tribunal superior considerar existente o erro, omissão, contradição ou obscuridade quando do exame de eventual ofensa ao art. 1.022 do CPC, o que não aconteceu na hipótese dos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.945.533/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022 - grifei)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
