@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 92):
+AGRAVO DE INSTRUMENTO.TRIBUTÁRIO. LEI 11.451/21. EMPREGADAS GESTANTES. AFASTAMENTO. PAGAMENTO DA REMUNERAÇÃO. ENQUADRAMENTO COMO SALÁRIO GESTANTE CONFORME PREVISÃO INSERTA NA CLT. COMPENSAÇÃO NOS TERMOS DA LEGISLAÇÃO PREVIDENCIÁRIA.
+1. Reconhecimento da omissão prevista na Lei 14.151/2021 nas hipóteses em que, diante das atividades desenvolvidas pela gestante, o trabalho remoto não se mostra possível.
+2. Possibilidade de integração normativa mediante aplicação do art. 394-A, da CLT porquanto, na realidade pandêmica, o local de trabalho constitui ambiente insalubre para as gestantes.
+3- Pagamento do salário-maternidade e compensação pela empresa por ocasião do recolhimento das contribuições, na forma do art. 72 da Lei 8.213/91.
+Opostos embargos declaratórios, foram rejeitados (fls. 136/139).
+A parte recorrente aponta violação aos arts. 17, 485, VI, 489 e 1.022 do CPC; 394-A, §3º da CLT, 97, 111, II e 156, II do CTN, 72, § 1º da Lei 8.213/1991, 20, caput, da LINDB, e ao art.1º da Lei 14.151/2021. Para tanto, sustenta que: (I) o Tribunal de origem deixou de apreciar a totalidade das questões indicadas nos embargos de declaração; (II) o INSS é parte legítima para figurar no polo passivo da demanda; e (III) em razão da pandemia do COVID 19, a lei determinou somente o afastamento presencial da empregada gestante, que continuou à disposição do empregador, razão pela qual se mostra inviável a pretensão autoral.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Em consulta ao sítio eletrônico mantido pela Corte de origem, apurou-se que o processo principal (2039952-45.2021.4.04.7200), cuja tutela antecipada é questionada no presente recurso especial, foi sentenciado em 16/2/2023, e aguarda, atualmente, o julgamento da apelação.
+Assim, nesse contexto, imperioso reconhecer que ocorreu a superveniente perda de objeto do presente recurso.
+Nesse mesmo sentido, confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO QUE EXAMINOU TUTELA ANTECIPADA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A Corte Especial do STJ firmou o entendimento de que, na hipótese de deferimento ou indeferimento da antecipação de tutela, a prolatação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do CPC/1973); b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas. 3. Agravo interno desprovido. (AgInt no AgInt no AREsp 774.844/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 07/08/2018)
+ANTE O EXPOSTO, julgo prejudicado o presente recurso, ante a perda superveniente do seu objeto.
+Publique-se.
