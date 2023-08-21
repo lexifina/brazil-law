@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO. RECUPERAÇÃO DA ÁREA DEGRADADA. INDENIZAÇÃO. DESNECESSIDADE, NO CASO CONCRETO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, concluiu que, "in casu, contudo, não se afigura necessária a condenação suplementar ao pagamento de indenização, porque, embora o imóvel gere impactos ao meio ambiente, a demolição da residência, com a remoção dos entulhos, já representa, por si só, gravame de elevado custo financeiro, obtemperando-se, ainda, que a edificação é apenas mais uma que contribui para a degradação da área, existindo outras em seu entorno que também produzem interferências ambientais, bem como que houve conivência do Poder Público Municipal, inclusive mediante expedição de alvará de construção". Tal entendimento, no sentido de que, conquanto possível a cumulação da obrigação de fazer com o pagamento de determinada quantia em dinheiro para reparar os danos causados, na hipótese em tela, à luz dos elementos concretos da causa, não se justifica a condenação do réu ao pagamento de indenização em pecúnia, sendo suficiente a determinação de recuperação da área degradada", não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+III. Na forma da jurisprudência do STJ, em caso análogo, "conquanto não se afaste a possibilidade (não obrigatoriedade), em tese, de cumulação da obrigação de recuperação do meio ambiente degradado com a indenização, forçoso reconhecer, na singularidade dos autos, a impossibilidade de se perquirir acerca dos elementos fático-probatórios que embasaram o acórdão recorrido no tocante à suficiência do gravame e dos princípios da proporcionalidade e razoabilidade - invocados como fundamento da decisão para afastar a necessidade da aplicação da indenização -, diante da vedação do enunciado n. 7 da Súmula do STJ. Nesse sentido precedentes de ambas as turmas do STJ: REsp 1.785.094/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 7/5/2019, DJe 14/5/2019; AgInt no REsp 1.590.008/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 25/6/2019, DJe 9/8/2019" (STJ, AgInt no AREsp 1.217.162/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/05/2020).
+IV. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência da Súmula 7/STJ.
+Inconformada, sustenta a parte agravante que "o acórdão recorrido contém moldura fática clara e suficiente para o enfrentamento das questões suscitadas no recurso especial quanto à possibilidade de cumulação do dever de indenizar com a obrigação de reparar a área degradada".
+Argumenta que, "constatada a violação aos dispositivos em referência, tendo em vista o dever de reparação integral do dano ambiental, há que se condenar o degradador, também, na obrigação de indenizar por todos os danos ambientais causados pelas indevidas e desastrosas alterações até então realizadas, pois a demolição e a recuperação da área degradada são insuficientes".
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.726.307 - SC (2020/0168316-6)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+MINISTÉRIO PÚBLICO FEDERAL
+AGRAVADO
+:
+EVERSON FRANCISCO GONCALVES
+AGRAVADO
+:
+RAFAEL GONCALVES
+AGRAVADO
+:
+SAMUEL GONCALVES
+ADVOGADO
+:
+ROBSON TIBÚRCIO MINOTTO - SC016380A
+INTERES.
+:
+UNIÃO
+INTERES.
+:
+INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO. RECUPERAÇÃO DA ÁREA DEGRADADA. INDENIZAÇÃO. DESNECESSIDADE, NO CASO CONCRETO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, concluiu que, "in casu, contudo, não se afigura necessária a condenação suplementar ao pagamento de indenização, porque, embora o imóvel gere impactos ao meio ambiente, a demolição da residência, com a remoção dos entulhos, já representa, por si só, gravame de elevado custo financeiro, obtemperando-se, ainda, que a edificação é apenas mais uma que contribui para a degradação da área, existindo outras em seu entorno que também produzem interferências ambientais, bem como que houve conivência do Poder Público Municipal, inclusive mediante expedição de alvará de construção". Tal entendimento, no sentido de que, conquanto possível a cumulação da obrigação de fazer com o pagamento de determinada quantia em dinheiro para reparar os danos causados, na hipótese em tela, à luz dos elementos concretos da causa, não se justifica a condenação do réu ao pagamento de indenização em pecúnia, sendo suficiente a determinação de recuperação da área degradada", não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+III. Na forma da jurisprudência do STJ, em caso análogo, "conquanto não se afaste a possibilidade (não obrigatoriedade), em tese, de cumulação da obrigação de recuperação do meio ambiente degradado com a indenização, forçoso reconhecer, na singularidade dos autos, a impossibilidade de se perquirir acerca dos elementos fático-probatórios que embasaram o acórdão recorrido no tocante à suficiência do gravame e dos princípios da proporcionalidade e razoabilidade - invocados como fundamento da decisão para afastar a necessidade da aplicação da indenização -, diante da vedação do enunciado n. 7 da Súmula do STJ. Nesse sentido precedentes de ambas as turmas do STJ: REsp 1.785.094/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 7/5/2019, DJe 14/5/2019; AgInt no REsp 1.590.008/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 25/6/2019, DJe 9/8/2019" (STJ, AgInt no AREsp 1.217.162/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/05/2020).
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+No acórdão do Tribunal de origem restou assim consignado:
+"Mantém-se, portanto, a determinação de demolição da edificação e recuperação do dano ambiental causado.
+No que tange à pretensão do MPF de condenação suplementar ao pagamento de indenização pecuniária, igualmente não merece reproche a sentença.
+É firme na jurisprudência do Superior Tribunal de Justiça o entendimento de que, comprovada a ocorrência de dano ambiental, a adoção de procedimentos, visando à integral recuperação da área degradada, não exime de responsabilidade o degradador do meio ambiente, sendo admissível a cumulação de obrigação de fazer e eventual indenização pelo dano ainda remanescente (Superior Tribunal de Justiça, 2ª Turma, REsp nº 904.324/RS, Relatora Ministra Eliana Calmon, DJe 27/05/2009).
+In casu, contudo, não se afigura necessária a condenação suplementar ao pagamento de indenização, porque, embora o imóvel gere impactos ao meio ambiente, a demolição da residência, com a remoção dos entulhos, já representa, por si só, gravame de elevado custo financeiro, obtemperando-se, ainda, que a edificação é apenas mais uma que contribui para a degradação da área, existindo outras em seu entorno que também produzem interferências ambientais, bem como que houve conivência do Poder Público Municipal, inclusive mediante expedição de alvará de construção.
+Os princípios da proporcionalidade e da razoabilidade norteiam a responsabilidade civil e determinam que a reparação da conduta lesiva causada ao meio ambiente deve ser proporcional ao dano gerado, atentando para um critério razoável que, de um lado, não deixe o degradador/poluidor com a sensação de impunidade, mas que, também, não seja causa de sua ruína" (fl. 493e).
+Com efeito, como destacou a decisão ora agravada, o Tribunal de origem, embora tenha reconhecido a possibilidade de cumulação da obrigação de fazer com o pagamento de determinada quantia em dinheiro para reparar os danos causados, concluiu, à luz dos elementos concretos da causa, que, na hipótese em tela, não se justifica a condenação do réu ao pagamento de indenização em pecúnia, sendo suficiente a determinação de recuperação da área degradada.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. REESTRUTURAÇÃO DA CARREIRA. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+2. É de se reconhecer a incidência, na hipótese, da Súmula nº 83 do STJ, pois o Tribunal a quo decidiu em consonância com a jurisprudência desta Corte.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.858.814/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2020).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie os óbices das Súmulas 282 e 356 do STF.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam da entidade bancária.
+5. O STJ tem o entendimento de que "a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+6. Agravo interno desprovido" (STJ, AgInt no REsp 1.880.769/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/12/2020).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECRETAÇAO DE PRISÃO. RETRATAÇAO DA VÍTIMA. ABSOLVIÇÃO. TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO FÁTICO DA CAUSA, ENTENDEU NÃO TER OCORRIDO ERRO JUDICIÁRIO, AFASTANDO A RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Hipótese em que o Tribunal de origem consignou que "o conjunto probatório produzido permite concluir que o Estado, ao decretar a prisão do autor, agiu com os elementos que estavam à sua disposição, como prova testemunhal e demais elementos da materialidade e índicos suficientes da autoria, em decisão devidamente fundamentada, guardando pertinência com a legislação aplicável. A segregação realizada se encontrava respaldada no sistema jurídico, face à confirmação, em segundo grau, da sentença penal condenatória (fls. 105/111). De outra banda, a absolvição do demandante aconteceu em face da retratação da vítima que, posteriormente, veio a reconhecer que teria se equivocado no momento do reconhecimento de ser Rogério o autor do fato delituoso" (fl. 352, e-STJ).
+2. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo Interno não provido" (STJ, AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020).
+Na forma da jurisprudência do STJ, em caso análogo, "conquanto não se afaste a possibilidade (não obrigatoriedade), em tese, de cumulação da obrigação de recuperação do meio ambiente degradado com a indenização, forçoso reconhecer, na singularidade dos autos, a impossibilidade de se perquirir acerca dos elementos fático-probatórios que embasaram o acórdão recorrido no tocante à suficiência do gravame e dos princípios da proporcionalidade e razoabilidade - invocados como fundamento da decisão para afastar a necessidade da aplicação da indenização -, diante da vedação do enunciado n. 7 da Súmula do STJ. Nesse sentido precedentes de ambas as turmas do STJ: REsp 1.785.094/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 7/5/2019, DJe 14/5/2019; AgInt no REsp 1.590.008/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 25/6/2019, DJe 9/8/2019" (STJ, AgInt no AREsp 1.217.162/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/05/2020).
+Assim, não se divisam, nas razões do Agravo interno, argumentos capazes de desconstituir a decisão agravada, que deve ser mantida, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
