@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conforme relatado na origem:
+Trata-se de apelação interposta por REDE D"OR SÃO LUIZ S. A. em adversidade à sentença que julgou improcedentes os pedidos formulados nos embargos à execução.
+Nas razões, alega o hospital que " o auto de infração que ensejou a presente execução fiscal não pode servir de supedâneo probatório na presente demanda, na medida em que a autoridade fiscalizadora excedeu os limites de sua atuação", ao reconhecer a existência de vínculo empregatício entre os médicos prestadores de serviço e a apelante.
+Sustenta que " os valores em exigência são indevidos, pois inexiste vínculo empregatício - e, portanto, contraprestação - que lastreie as certidões de dívida ativa".
+Argumenta, também, que " as contratações efetuadas pelo Apelante, as quais, segundo o Auditor Fiscal,seriam fraudulentas por terem sido firmadas com empresas e cooperativas, não têm por objetivo mascarar relação de emprego".
+A apelante aduz, ainda, que, " além da licitude da terceirização de serviços, a necessidade de reforma da r. sentença decorre, ainda, da inexistência dos elementos caracterizadores da relação de emprego entre o Apelante e os sócios e cooperados citados nos autos de infração, o que impede o pleito de reconhecimento de vínculo empregatício e por consequência a cobrança do FGTS e da contribuição social mensal".
+Ao final, requer o cancelamento dos débitos inscritos em dívida ativa sob os nºs CSPE201600057 e FGPE201600056, extinguindo-se a Execução Fiscal nº 0010902- 06.2016.4.05.8300.
+O Tribunal Regional Federal da 5ª Região negou provimento à apelação, conforme acórdão assim ementado:
+EXECUÇÃO FISCAL. EMBARGOS. NULIDADE DA CDA. NÃO DEMONSTRAÇÃO. REQUISITOS LEGAIS PREENCHIDOS. CRÉDITO DECORRENTE DE AUSÊNCIA DE DEPÓSITO DE FGTS DE EMPREGADOS E DE CONTRIBUIÇÃO SOCIAL. RELAÇÃO DE EMPREGO CONSTATADA. DESCUMPRIMENTO DA LEGISLAÇÃO TRABALHISTA. AUTO DE INFRAÇÃO. COMPETÊNCIA DO AUDITOR FISCAL DO TRABALHO RECONHECIDA. APELAÇÃO IMPROVIDA.
+1. Trata-se de apelação interposta em adversidade à sentença que julgou improcedentes os pedidos formulados nos embargos à execução.
+2. O hospital interpôs os presentes Embargos à Execução Fiscal nº 0010902-06. 2016.4.05.8300, a qual foi ajuizada pela ora apelada, visando à cobrança de valores supostamente devidos a título de depósitos ao Fundo de Garantia do Tempo de Serviço - FGTS e da contribuição social mensal instituída pelo art. 2º da Lei Complementar nº 110/2001, ambos incidentes sobre a remuneração paga pelo empregador. A dívida é referente aos médicos e plantonistas que mantinham com o embargante vínculo de emprego, sem registro formalizado.
+3. Em fiscalização realizada por auditores do trabalho, foram constadas manobras fraudulentas utilizadas para mascarar o descumprimento da legislação trabalhista, no que concerne à formalização dos contratos de trabalho e, por conseguinte, ao não pagamento dos respectivos encargos, como o FGTS e a contribuição social.
+4. No relatório produzido pela autoridade fiscal, consta que o ora recorrente mantinha "" empregados sem registro formalizado, trabalhando rotineiramente na função de médicos em diversas especialidades (clínicos gerais, cardiologistas, pediatras, neurologistas, ortopedistas, otorrinos, anestesiologistas etc) em regime de plantão, nos setores de Urgência/Emergência, UTI Geral, UTI Pediátrica e Dala de Recuperação Pós- Anestésica, que funcionam com atendimento 24 horas "".
+5. Conforme consta da sentença, " a análise dos documentos que instruem a inicial, especialmente o relatório que integra a notificação de lançamento (Id. 4058300. 2953326), permite verificar que a fiscalização constatou a existência dos requisitos básicos que caracterizam o vínculo empregatício entre o hospital e os médicos plantonistas que ali trabalhavam, quais sejam, subordinação, não eventualidade, onerosidade e personalidade. Verificou-se que os médicos estavam sujeitos a horários de trabalho estabelecidos pelo embargante e recebendo rem uneração de acordo com as horas trabalhadas e, assim, entendeu a autoridade que a contratação dos profissionais intermediada por outras pessoas jurídicas ou cooperativas, constituídas para esse fim, era, na verdade, "uma tentativa de mascarar a relação de emprego, embora presentes todas as características do contrato de trabalho e ausentes os princípios do cooperativismo"".
+6. Ao contrário do que alega a empresa recorrente, as provas dos autos revelam o vínculo empregatício entre os integrantes da cooperativa e a empresa apelante, não havendo que se falar em nulidade do crédito e das CDAs que embasam a presente execução.
+7. Rejeitado o argumento relativo à suposta incompetência dos auditores do trabalho para lavrar auto de infração. Eles têm o dever funcional de, na sua área de atuação, proceder à autuação de empresa que se encontre violando legislação trabalhista, como na hipótese dos autos.
+8. A busca pela jurisprudência mais recente do Tribunal Superior do Trabalho (TST) revela que tal questão já foi amplamente debatida no âmbito da referida Corte, sendo pacífico o entendimento de queuma das atribuições do auditor do trabalho, na qualidade de fiscal do cumprimento das normas de proteção ao trabalhador, é, justamente, a de verificar o fiel cumprimento da obrigação legal de formalização do vínculo empregatício.
+9. A presunção de certeza e liquidez de que se reveste a Dívida Ativa somente pode ser ilidida por prova inequívoca a cargo do interessado, o que não ocorreu no presente caso.
+10. À míngua de comprovação de qualquer irregularidade nas CDAs que embasam a execução, deve ser mantida a sentença recorrida.
+11. Apelação improvida.
+Embargos de declaração rejeitados na origem (fls. 1897-1905).
+Recurso especial, às fls. 1918-1933 - admitido na origem -, alegando, em síntese, afronta ao art. 1.022 do CPC/2015, e que as conclusões postas no v. acórdão quanto à suposta competência da autoridade fiscal para declarar a existência de vínculo de emprego representam violação aos artigos 11, da Lei nº 10.593, 3ºda Convenção nº 81 da OIT, 55 da Lei nº 123/06 e 39 da CLT, e à jurisprudência desse E. STJ representada pelo julgamento do REsp 838.683/PR e AgInt no REsp 1586345/SP. Além disso, a conclusão alcançada pelo v. acórdão também viola os artigos 2º, 3º e 457 da CLT e 421 (e-STJ Fl.2070) do CC.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, acolho os embargos de declaração, para afastar a inversão dos consectários de sucumbência, não fixados na origem, devendo ser fixados a critério da Justiça do Trabalho, conforme o julgamento final da lide."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+18. Ocorre que, apesar de reconhecer a anulação dos débitos, a r. decisão agravada determinou o sobrestamento do julgamento do auto de infração, com a consequente remessa dos autos à Justiça do Trabalho, com fundamento no artigo 39 da CLT.
+19. No presente caso, contudo, e com o máximo respeito, não há que se falar em sobrestamento do processo administrativo, conforme impugnação específica da r. decisão agravada que segue.
+ ..
+42. Vale destacar que, na hipótese de a ora Agravante ter sido a parte perdedora, teria que arcar com a condenação em verba honorária de 20% estabelecida pela sentença.
+Desse modo, deixar de condenar a Agravada em honorários representaria verdadeira disparidade de tratamento entre as partes processuais vedada pelo artigo 7º do CPC.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS. NULIDADE DA CDA. NÃO DEMONSTRAÇÃO. REQUISITOS LEGAIS PREENCHIDOS. CRÉDITO DECORRENTE DE AUSÊNCIA DE DEPÓSITO DE FGTS DE EMPREGADOS E DE CONTRIBUIÇÃO SOCIAL. RELAÇÃO DE EMPREGO CONSTATADA. DESCUMPRIMENTO DA LEGISLAÇÃO TRABALHISTA. AUTO DE INFRAÇÃO. COMPETÊNCIA DO AUDITOR FISCAL DO TRABALHODESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de embargos à execução distribuídos por dependência à execução fiscal para a cobrança dos créditos consubstanciados resultantes do não recolhimento de FGTS e contribuições sociais relativas aos médicos e plantonistas que mantinham vínculo de emprego sem registro formalizado. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Com efeito, há que ser acolhida a alegação de impossibilidade de inversão do ônus da sucumbência, haja vista não ter havido fixação sucumbencial na origem.
+III - Nada obstante, muito embora a decisão tenha determinado a anulação dos débitos inscritos em dívida ativa (SPE201600057 e FGPE201600056), tal providência é mera consequência da conclusão pela incompetência da autoridade fiscal para, de per si, declarar a existência de relação de emprego, a invadir a competênica da jurisdição trabalhista.
+IV - Com razão a embargada. A decisão não encerrou a lide e, eventual condenação sucumbencial deve ser fixada justiça laboral, caso assim conclua.
+V - De fato, a decisão não implica exclusão ou reversão quanto ao auto de infração, os quais se mantém sobrestados para julgamento pela Justiça do Trabalho, não havendo conclusão sucumbencial final, a ser aplicada, não sendo devida a fixação de verba sucumbencial na espécie, sob pena de dupla condenação.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Com efeito, há que ser acolhida a alegação de impossibilidade de inversão do ônus da sucumbência, haja vista não ter havido fixação sucumbencial na origem.
+Nada obstante, muito embora a decisão tenha determinado a anulação dos débitos inscritos em dívida ativa (SPE201600057 e FGPE201600056), tal providência é mera consequência da conclusão pela incompetência da autoridade fiscal para, de per si, declarar a existência de relação de emprego, a invadir a competênica da jurisdição trabalhista.
+Com razão a embargada. A decisão não encerrou a lide e, eventual condenação sucumbencial deve ser fixada justiça laboral, caso assim conclua.
+De fato, a decisão não implica exclusão ou reversão quanto ao auto de infração, os quais se mantém sobrestados para julgamento pela Justiça do Trabalho, não havendo conclusão sucumbencial final, a ser aplicada, não sendo devida a fixação de verba sucumbencial na espécie, sob pena de dupla condenação.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
