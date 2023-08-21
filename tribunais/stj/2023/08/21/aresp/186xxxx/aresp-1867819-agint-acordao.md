@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FAZENDA NACIONAL contra decisão monocrática de minha relatoria, assim ementada:
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS FISCAIS. DISPENSA. POSSIBILIDADE. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO NCPC. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL (e-STJ, fl. 589).
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, defendeu (1) a inaplicabilidade da Súmula n.º 83, em razão da divergência existente nesta Corte; e (2) ser imprescindível a juntada da certidão negativa de débito tributário para deferimento do processamento de recuperação judicial.
+Há certidão de que não foi aberta vista para impugnação por não ter a parte agravada representação nos autos (e-STJ, fl. 613).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS FISCAIS. DISPENSA. POSSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a falta de certidão negativa tributária não impediria o deferimento da recuperação judicial, ante sua incompatibilidade com o princípio da preservação da empresa. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, a decisão consignou expressamente, quanto à alegada violação dos arts. 57 e 58 da LRJF; 155-A, §§ 3º e 4º, e 191-A do CTN, no que concerne a ser imprescindível a juntada da certidão negativa de débito tributário para deferimento do processamento de recuperação judicial, bem como a instituição de parcelamento específico para empresas em recuperação judicial corrobora a exigência da certidão negativa, que o entendimento adotado pelo Tribunal local estaria em conformidade com a jurisprudência desta Corte, pois consignou:
+A apresentação de certidões de regularidade fiscal pela empresa que pretende a concessão da recuperação judicial pode inviabilizar o procedimento, o que vai contra os interesses da empresa, dos credores e do próprio Fisco, porquanto afronta o princípio da preservação da empresa, que consiste em bloquear os prejuízos sociais e econômicos ocasionados pela extinção da atividade empresarial, sem contar que deixa indisponível a aplicação do princípio da função social da empresa.
+Importante ressaltar que a superveniência de leis específicas que disciplinam os parcelamentos tributários nos âmbitos federal e estadual, por si só, não possuem o condão de afastar a aparente antinomia entre a exigência contida no aludido art. 57 da Lei Federal n.º 11.101/05 e a finalidade do instituto da recuperação judicial prevista em seu art. 47, sendo certo que compete ao juízo universal a análise de atos voltados contra o patrimônio da empresa.
+Desta forma, conclui-se que a homologação da recuperação judicial deve ser deferida ainda que não apresentadas as certidões de regularidade fiscal previstas no artigo 57 da lei nº 11.101/05, pois se a legislação afasta a participação de eventual crédito tributário do concurso de credores, a exigência de certidões negativas para concessão da recuperação judicial mostrar-se-ia contraditória (e-STJ, fl. 319).
+Nesse sentido, Corte Superior possui jurisprudência consolidada de que a ausência de certidão negativa tributária não obsta a concessão da recuperação judicial, porquanto se trata de exigência incompatível com o princípio da preservação da empresa.
+Confiram-se os seguintes precedentes:
+TRIBUTÁRIO. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. CERTIDÃO NEGATIVA DE DÉBITO. EXIGÊNCIA. DESNECESSIDADE. PRECEDENTES.
+1. É tranquila a jurisprudência desta Corte Superior pela inexigibilidade de certidões negativas tributárias em relação às sociedades empresárias em recuperação judicial para fins de contratação com a Administração Pública. Nesse sentido: AREsp 978.453/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/10/2020 e AgInt no REsp n. 1.841.307/AM, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/12/2020.
+2. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.687.050/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÃO NEGATIVA DE DÉBITO. JULGAMENTO MONOCRÁTICO. ART. 932, V, DO NCPC. ENTENDIMENTO DOMINANTE. POSSIBILIDADE. APRECIAÇÃO COLEGIADA. EVENTUAL VÍCIO. SUPERAÇÃO. CERTIDÃO NEGATIVA DE DÉBITO. DEFERIMENTO DA RECUPERAÇÃO. DESNECESSIDADE. LEI N.º 13.043/14. RECLAMAÇÃO. STF. LIMINAR TORNADA SEM EFEITO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Malgrado a literalidade do art. 932, V, do NCPC, esta Corte Superior já se manifestou no sentido de que a interpretação sistêmica do Código recomenda uma exegese ampliativa da norma, de modo a autorizar o julgamento monocrático dos recursos com amparo na existência de orientação jurisprudencial dominante.
+3. A apreciação do tema pelo órgão colegiado no agravo interno supera eventual nulidade da decisão singular.
+4. A falta de certidão negativa tributária não impediria o deferimento da recuperação judicial, ante sua incompatibilidade com o princípio da preservação da empresa.
+5. A inexigibilidade da apresentação da certidão negativa de débito para fins de deferimento do pedido recuperacional não é afastada após a vigência da Lei n.º 13.043/14.
+6. A liminar concedida pelo STF na Reclamação n.º 43.169/SP foi tornada sem efeito em face da posterior negativa de seguimento à mencionada reclamação.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.074.900/PR, de minha relatoria, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTES. RECUPERAÇÃO JUDICIAL. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO. DESNECESSIDADE. PRECEDENTES. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. Preliminarmente, esclareço que, consoante a jurisprudência desta Corte, a legislação vigente (art. 932 do CPC e Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+2. Ainda que assim não fosse, eventual vício ficaria superado, mediante a apreciação da matéria pelo órgão colegiado no âmbito do agravo interno.
+3. A apresentação das certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora ante a incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação. Precedentes.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.984.153/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 6/6/2022, DJe de 8/6/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITO. APRESENTAÇÃO. OBRIGATORIEDADE. FINALIDADE DO INSTITUTO. INCOMPATIBILIDADE.
+1. A apresentação de certidão negativa de débitos fiscais pelo contribuinte não é condição imposta ao deferimento do seu pedido de recuperação judicial. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.841.841/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 9/5/2022, DJe de 11/5/2022)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS TRIBUTÁRIOS. ART. 57 DA LEI 11.101/05 E ART. 191-A DO CTN. EXIGÊNCIA INCOMPATÍVEL COM A FINALIDADE DO INSTITUTO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA E FUNÇÃO SOCIAL. APLICAÇÃO DO POSTULADO DA PROPORCIONALIDADE. INTERPRETAÇÃO SISTEMÁTICA DA LEI 11.101/05.
+1. Recuperação judicial distribuída em 18/12/2015. Recurso especial interposto em 6/12/2018. Autos conclusos à Relatora em 30/1/2020.
+2. O propósito recursal é definir se a apresentação das certidões negativas de débitos tributários constitui requisito obrigatório para concessão da recuperação judicial do devedor.
+3. O enunciado normativo do art. 47 da Lei 11.101/05 guia, em termos principiológicos, a operacionalidade da recuperação judicial, estatuindo como finalidade desse instituto a viabilização da superação da situação de crise econômico-financeira do devedor, a permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica. Precedente.
+4. A realidade econômica do País revela que as sociedades empresárias em crise usualmente possuem débitos fiscais em aberto, podendo-se afirmar que as obrigações dessa natureza são as que em primeiro lugar deixam de ser adimplidas, sobretudo quando se considera a elevada carga tributária e a complexidade do sistema atual.
+5. Diante desse contexto, a apresentação de certidões negativa de débitos tributários pelo devedor que busca, no Judiciário, o soerguimento de sua empresa encerra circunstância de difícil cumprimento.
+6. Dada a existência de aparente antinomia entre a norma do art. 57 da LFRE e o princípio insculpido em seu art. 47 (preservação da empresa), a exigência de comprovação da regularidade fiscal do devedor para concessão do benefício recuperatório deve ser interpretada à luz do postulado da proporcionalidade.
+7. Atuando como conformador da ação estatal, tal postulado exige que a medida restritiva de direitos figure como adequada para o fomento do objetivo perseguido pela norma que a veicula, além de se revelar necessária para garantia da efetividade do direito tutelado e de guardar equilíbrio no que concerne à realização dos fins almejados (proporcionalidade em sentido estrito).
+8. Hipótese concreta em que a exigência legal não se mostra adequada para o fim por ela objetivado - garantir o adimplemento do crédito tributário -, tampouco se afigura necessária para o alcance dessa finalidade: (i) inadequada porque, ao impedir a concessão da recuperação judicial do devedor em situação fiscal irregular, acaba impondo uma dificuldade ainda maior ao Fisco, à vista da classificação do crédito tributário, na hipótese de falência, em terceiro lugar na ordem de preferências; (ii) desnecessária porque os meios de cobrança das dívidas de natureza fiscal não se suspendem com o deferimento do pedido de soerguimento. Doutrina.
+9. Consoante já percebido pela Corte Especial do STJ, a persistir a interpretação literal do art. 57 da LFRE, inviabilizar-se-ia toda e qualquer recuperação judicial (REsp 1.187.404/MT).
+10. Assim, de se concluir que os motivos que fundamentam a exigência da comprovação da regularidade fiscal do devedor (assentados no privilégio do crédito tributário), não tem peso suficiente - sobretudo em função da relevância da função social da empresa e do princípio que objetiva sua preservação - para preponderar sobre o direito do devedor de buscar no processo de soerguimento a superação da crise econômico-financeira que o acomete.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp n. 1.864.625/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 23/6/2020, DJe de 26/6/2020)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
