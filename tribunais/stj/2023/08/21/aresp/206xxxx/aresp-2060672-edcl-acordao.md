@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos declaratórios opostos por QUEIROZ GALVÃO DESENVOLVIMENTO IMOBILIÁRIO S/A contra acórdão proferido por esta colenda Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DA OBRA. MORA. TERMO FINAL. SÚMULAS 283 E 284/STF. POSSIBILIDADE DE COMPENSAÇÃO. SÚMULAS 283 E 284/STF. DESPESAS CONDOMINIAIS. PERÍODO ANTERIOR À IMISSÃO NA POSSE. RESPONSABILIDADE DOS PROMISSÁRIOS-VENDEDORES. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. SÚMULA 83 DO STJ. VALOR DA CONDENAÇÃO.
+RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência, por analogia, das Súmulas 283 e 284 do STF.
+3. Consoante a jurisprudência desta Corte, a responsabilidade pelo pagamento das taxas condominiais é encargo do adquirente apenas a partir da imissão na posse.
+4. No caso dos autos, a fixação do dano moral encontra-se justificada, tendo a Corte estadual destacado que o atraso excessivo na entrega do bem imóvel destinado à moradia, após 12 (doze) meses da data prevista, lesou direito extrapatrimonial dos recorridos.
+5. No caso, não se mostra exorbitante o montante estabelecido pelo Tribunal estadual em R$ 10.000,00 (dez mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, em razão do atraso de mais de 12 (doze) meses na entrega do imóvel em questão.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial." (e-STJ, fl. 1.837)
+Em suas razões, sustenta a parte embargante, em síntese, a existência de omissão no tocante ao entendimento jurisprudencial quanto ao cabimento de danos morais em razão de atraso na entrega da obra e quanto à impossibilidade de compensação da multa por atraso.
+Devidamente intimada, a parte embargada não apresentou impugnação (e-STJ, fl. 1.864).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, o agravo interno interposto pela parte ora embargante não foi provido, nos seguintes termos:
+"No tocante à impossibilidade de compensação da multa por atraso a ser paga pela agravante, diante do seu pedido de recuperação judicial, o Tribunal do origem assim dispôs:
+"No que diz respeito ao deferimento da Recuperação Judicial da Embargada, mostra-se necessário verificar o ponto no tempo que separa os créditos que estarão inseridos na Recuperação e os que nela não estarão, o que atrai a incidência do disposto nos artigos 49 e artigo 67 da Lei nº 11.101/2005, in verbis:
+(..) In casu, a sentença condenatória data de 29/06/2020, sendo este o momento que deve ser considerado para fins de análise da natureza do crédito face a Recuperação Judicial.
+Nesse sentido, a Demandada foi condenada na sentença ao pagamento das verbas que serão objeto de futura execução, não havendo dúvidas de que o decisum de primeiro grau é o marco temporal a ser considerado, tanto que para fins de atualização dos valores devidos, é a sentença que deve ser considerada.
+No que diz respeito ao disposto no artigo 47 da Lei nº 11.101/2005, o Superior Tribunal de Justiça firmou o entendimento de que o momento que deve ser considerado como "do pedido" é o do deferimento do processamento da Recuperação Judicial, de modo que a data da distribuição não traz influência.
+(..) Logo, uma vez que o Acórdão somente reconheceu o direito à compensação, não havendo dúvidas de que a Ré já era devedora do crédito anteriormente constituído com a sentença; sendo que o crédito que pode ser compensado é de 29/06/2020, sendo, portanto, extraconcursal à Recuperação Judicial, que foi deferida em 31/03/2021." (e-STJ, fls.1.554/1.562)
+Ocorre que a parte recorrente, novamente - nas razões do recurso especial -, não rebateu, de forma específica e suficiente, a referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+(..)
+Com efeito, compulsando os autos, é possível observar que o Tribunal a quo se manifestou acerca das teses elencadas pelos recorrentes, consoante se observa na transcrição de parte do acórdão recorrido, in verbis:
+"A prova dos autos não deixa dúvidas de que o prazo contratual se encerrou em setembro de 2017 e que apenas em setembro de 2018, ou seja, mais de um ano depois houve a expedição do habite-se, o que, como acima fundamentado, não é suficiente para demonstrar o encerramento da mora da Ré, de modo que não há dúvidas de que houve atraso de pelo menos mais de UM ANO para a entrega da unidade residência." (fls. 1.448-1.449)
+O entendimento desta Corte é de que o atraso excessivo na entrega de imóvel pode configurar causa de dano moral indenizável. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. CUMULAÇÃO DOS LUCROS CESSANTES COM CLÁUSULA PENAL. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO FEITO. REGRAMENTO DIRIGIDO ÀS INSTÂNCIAS ORDINÁRIAS. DANO MORAL VERIFICADO NO CASO CONCRETO. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe de 16/11/2015).
+2. No que tange ao dano moral, é entendimento desta Corte que, havendo descumprimento do prazo para entrega do imóvel objeto do compromisso de compra e venda, pode ser cabível a condenação em danos morais, de acordo com as peculiaridades do caso concreto. Precedentes.
+3. Na hipótese dos autos, o Tribunal de origem concluiu que os danos morais estão configurados, tendo em vista o atraso de mais de um ano na entrega do imóvel que se destinava à moradia da família do agravado. A alteração das premissas firmadas no aresto recorrido exige o reexame de matéria fático-probatória dos autos, o que atrai a incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1078489/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017 - sem grifo no original).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. LUCROS CESSANTES. CABIMENTO. JULGAMENTO ULTRA PETITA. INOCORRÊNCIA. INDENIZAÇÃO POR DANOS MORAIS. ATRASO INJUSTIFICADO POR 12 MESES. IMÓVEL DESTINADO À MORADIA DOS COMPRADORES. MATÉRIA QUE DEMANDA REEXAME. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Insubsistente o alegado julgamento extra petita, pois o órgão julgador não violou os limites objetivos da pretensão, tampouco concedeu providência jurisdicional diversa do pedido formulado na inicial, respeitando assim o princípio processual da congruência. Tendo em vista a absoluta vinculação dos fundamentos da decisão aos fatos e provas dos autos, o revolvimento desses mesmos fatos e provas, encontra óbice na Súmula 7/STJ.
+2. Nos termos da jurisprudência firmada neste Sodalício, a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta além da indenização correspondente à cláusula penal moratória, o pagamento de indenização por lucros cessantes. Precedentes.
+3. A jurisprudência desta Corte "tem entendido que, muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da controvérsia podem configurar a lesão extrapatrimonial" (1.642.314/SE, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 22/3/2017).
+4. A fundamentação do dano moral encontra-se justificada, tendo a Corte estadual destacado que o atraso da entrega do bem imóvel destinado à moradia, após 12 (doze) meses da data prevista, acarretou dano moral. A revisão dos fundamentos do acórdão estadual, demandaria reexame do conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1049708/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/05/2017, DJe 26/05/2017 - sem grifo no original).
+No caso dos autos, envolvendo o atraso na entrega de imóvel residencial, o Tribunal de origem concluiu pela ocorrência do aludido dano na espécie, com fundamento no atraso por longo período de tempo, confirmando a indenização correspondente a R$ 10.000,00 (dez mil reais).
+Nesse contexto, constata-se a conformidade do acórdão recorrido com a jurisprudência desta Corte, sendo, por isso, inviável o provimento da pretensão de afastamento dos danos morais, nos termos da Súmula 83/STJ." (e-STJ, fls. 1.843/1.846)
+Nesse contexto, verifica-se a inexistência de omissão no acórdão embargado.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. A Súmula nº 356 do Supremo Tribunal Federal assegura que a mera oposição dos embargos declaratórios, em relação a ponto omisso, é suficiente para caracterizar o prequestionamento para efeito de interposição de recurso extraordinário, de modo que é desnecessário que esta Corte se pronuncie a respeito de dispositivos constitucionais. Precedentes.
+4. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1.042.593/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe de 1º/02/2018)  g.n.
+AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ ..
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. MEDIDA CAUTELAR DE ARRESTO. PERICULUM IN MORA NÃO CONFIGURADO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EVIDENCIADA PELA APLICAÇÃO DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Havendo a apreciação pelo Tribunal de origem de todas as matérias suscitadas pelas partes, não há que se falar em violação do art. 1.022 do CPC/2015.
+2. Para modificar a conclusão do acórdão recorrido, que manteve o indeferimento do pedido de arresto cautelar dos bens dos recorridos em razão da ausência de comprovação do periculum in mora, seria imprescindível o reexame de todo o conjunto fático-probatório dos autos, procedimento inviável na via do especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 7/STJ impede o exame do recurso especial em relação ao dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso concreto.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1043856/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO DIRETA. ALEGAÇÃO DE APOSSAMENTO ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS. DIREITO DE CULTO AOS MORTOS. VIOLAÇÃO A DIREITO DA PERSONALIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVA. AUTONOMIA DA PESSOA JURÍDICA. DISTINÇÃO DA PESSOA DOS SÓCIOS. INTRANSMISSIBILIDADE DO DIREITO. CARÊNCIA DE LEGITIMIDADE PARA A CAUSA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2. A regra que veda o comportamento contraditório ("venire contra factum proprio") aplica-se a todos os sujeitos processuais, inclusive os imparciais. Não é aceitável o indeferimento de instrução probatória e sucessivamente a rejeição da pretensão por falta de prova.
+3. A pessoa jurídica não tem legitimidade para demandar a pretensão de reparação por danos morais decorrentes de aventada ofensa ao direito de culto aos antepassados e de respeito ao sentimento religioso em favor dos seus sócios.
+4. Trata-se de direito da personalidade e, portanto, intransmissível, daí por que incabível a dedução em nome próprio de pretensão reparatória de danos morais alheios.
+5. Recurso especial não provido.
+(REsp 1649296/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)  g.n.
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A FAZENDA PÚBLICA FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, FIXADOS, PELO TRIBUNAL DE ORIGEM, SEM DEIXAR DELINEADAS CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+IX. Agravo interno improvido.
+(AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017)  g.n.
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE COBRANÇA. DEPÓSITO JUDICIAL. ATUALIZAÇÃO PELO SALÁRIO MÍNIMO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Considera-se improcedente a arguição de ofensa ao art. 1.022, I, do CPC/2.015 quando o decisum se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)  g.n.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.5.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 2.5.2005.
+É evidente, pois, a ausência de omissão, obscuridade ou contradição, apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
