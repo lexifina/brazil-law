@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ABASTECEDORA NOVA ALVORADA LTDA. e OUTRO, contra acórdão que negou provimento ao agravo interno, nos termos da seguinte ementa (fls. 503/504, e-STJ):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS EMBARGANTES.
+1. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu no caso sob julgamento.
+2. Também inviável o conhecimento do recurso com fundamento na divergência jurisprudencial, pois mesmo nas hipóteses de recurso especial interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal, é imprescindível o prequestionamento da matéria para viabilizar o acesso à instância extraordinária.
+3. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte de origem (Súmula 283 do STF).
+3.1. Para afastar a conclusão da Corte de origem no sentido de que o acordo homologado previu expressamente que os devedores, ante o comparecimento espontâneo, seriam considerados citados na ação de execução, tendo constado o número do processo e as condições para pagamento daquela dívida e, por conseguinte, reconhecer a tempestividade dos embargos à execução, seria necessário promover o reexame do acervo fático-probatório dos autos e interpretar as cláusulas contratuais, providências vedadas na via eleita, a teor dos óbices das Súmulas 5 e 7/STJ.
+4. Agravo interno desprovido.
+Em suas razões recursais, os embargante aduzem: i) omissão acerca da incidência das Súmulas 282 e 283/STF; ii) omissão quanto ao fato de que deve ser reconhecido o cerceamento de defesa, " ..  pois o acordo extrajudicial antes da citação, se dando por citado e renunciando ao direito de defesa é abusivo e contrário à lei." (fl. 521, e-STJ).
+Diante disso, buscam o acolhimento dos aclaratórios com o objetivo de modificar o acórdão prolatado por esta Corte.
+Sem impugnação (fl. 539, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES .
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O recurso não prospera.
+1. Sabe-se que os embargos de declaração têm a finalidade de completar, aclarar, esclarecer ou corrigir uma decisão omissa, obscura, contraditória ou que contenha erro material, afirmação que se depreende dos incisos do próprio artigo 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973).
+Não se prestam os embargos de declaração para adequar a decisão ao entendimento do embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida. Dessa forma, verifica-se que não há como serem acolhidos os presentes embargos de declaração porque o agravo interno foi decidido e suficientemente analisado à luz da jurisprudência deste Superior Tribunal Justiça.
+De início, quanto à Súmula 282/STF, constou do acórdão embargado (fls.507/508, e-STJ):
+Deve ser mantida a aplicação do verbete sumular 282 do STF em relação aos arts. 3º, 9º, 10, 63, 103, 231, 914, 1013 do CPC/15, 51 do CDC. Isso porque para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu no caso sob julgamento. No caso dos autos, a Corte estadual afastou a tese dos agravantes, pois os embargos à execução apresentados pelos recorrentes são intempestivos (fls. 314/315, e-STJ):  ..  Assim, nota-se que sequer houve enfrentamento implícito dos dispositivos ditos violados, tendo em vista o reconhecimento da intempestividade dos embargos à execução. Desse modo, deve ser mantida a incidência da súmula 282, STF.
+Por conseguinte, não há falar em omissão em relação ao alegado cerceamento de defesa, pois, conforme o excerto supracitado, tal tese não foi prequestionada, ante a intempestividade dos embargos à execução.
+Por fim, no que respeita à Súmula 283/STF, restou consignado "como esses fundamentos (o acordo previu expressamente que os devedores seriam considerados citados na ação de execução, tendo constado o número do processo e as condições para pagamento daquela dívida, bem como do pedido de suspensão realizado e; questionaram o acordo mais de quatro anos depois da assinatura da avença) são suficientes por si sós para manter a conclusão do julgado, os quais não foram atacados de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica." (fl. 510, e-STJ).
+Ausente, portanto, a apontada omissão, não se revelam os embargos de declaração como a via adequada à revisão do julgado, em manifesta pretensão infringente. Com efeito, a jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/15.
+Nesse sentido, colhe-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil de 1973, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp n. 993.078/SP, Relator o Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou de caráter protelatório poderá ensejar, conforme o caso, a aplicação de multa (arts. 1.021, § 4º e/ou 1.026, § 2º, CPC/15)
+2. Em face do exposto, rejeito os embargos de declaração.
+É como voto.
