@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALBERTO HENRIQUE OUCHANA contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 134):
+PETIÇÃO. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PLAUSIBILIDADE DO DIREITO E PERIGO DE DEMORA NA PRESTAÇÃO JURISDICIONAL NÃO COMPROVADOS. PEDIDO INDEFERIDO.
+Em suas razões, o agravante alega que foi desconsiderada a ofensa aos arts. 49-A, 1.219, 1.315 e 1.316, §1º, do Código Civil, e aos arts. 7º, 115, incisos I e II, 373, inciso II, e 1.022, incisos II e III, do CPC/2015; que se encontram preenchidos os requisitos autorizadores da concessão do efeito suspensivo ao recurso especial; que o recurso especial não foi interposto com base na alínea c do permissivo constitucional; que demonstrou que as premissas adotadas pelo Tribunal a quo estão equivocadas; que não busca reexaminar provas; bem como que os efeitos da decisão que venha a conceder o efeito suspensivo são reversíveis.
+Impugnação apresentada (e-STJ, fls. 149-179).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA PETIÇÃO. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PLAUSIBILIDADE DO DIREITO E PERIGO DE DEMORA NA PRESTAÇÃO JURISDICIONAL NÃO COMPROVADOS. AGRAVO INTERNO DESPROVIDO.
+1. Para o deferimento da tutela provisória é necessária a conjugação do fumus boni iuris e do periculum in mora; todavia, tais pressupostos não ficaram demonstrados no caso dos autos.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelo agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Consoante assinalado anteriormente, a concessão de efeito suspensivo a recurso especial demanda a demonstração inequívoca do periculum in mora, evidenciado pela urgência da prestação jurisdicional a fim de evitar dano de difícil ou incerta reparação, e do fumus boni iuris, consistente na probabilidade do direito alegado, capaz de denotar a possibilidade de êxito do recurso especial.
+Na espécie, importa reiterar que as alegações feitas no bojo do recurso especial não possuem força suficiente para que seja alterada a conclusão a que chegou o Tribunal estadual.
+Ora, em suas razões de recurso especial, verifica-se que o recorrente alega ofensa ao art. 1.022, incisos II e III, do CPC/2015.
+Contudo, cumpre ressaltar que o acórdão proferido pelo Tribunal de origem mostra-se cristalino ao confirmar a sentença que julgou parcialmente procedente o pedido formulado na exordial; veja-se (e-STJ, fls. 78-80):
+Tem-se dos autos que as partes são condôminas do imóvel litigioso. O autor alegou que o réu o utiliza com exclusividade, de modo que pediu sua condenação no pagamento de indenização equivalente.
+Anoto, de saída, que desse quadro exsurge a legitimidade do réu para o pedido, fundado que está na copropriedade que titulariza sobre o bem de raiz indicado na inicial, e não em eventual contrato de aluguel ou comodato. Tampouco há pedido juridicamente impossível, porquanto a pretensão do autor tem fundamento na lei, como será visto.  ..
+E não ocorreu a aludida nulidade por cerceamento de defesa. Por isso, andou bem o D. Juízo ao encerrar a instrução e sentenciar a demanda, tendo decidido o Egrégio Supremo Tribunal Federal que "O magistrado tem a discricionariedade para indeferir a produção de provas que entender irrelevante para o julgamento da matéria" (RHC 119.432, rel. Ministro Marco Aurélio, j. 09.12.2015).  ..
+Superadas essas questões, tem direito à indenização pela fruição exclusiva de bem comum o condômino que dele não usufrui, podendo, para tanto, ser considerada a impossibilidade do uso comum sua natural indivisibilidade ou as desavenças entre os coproprietários, lembrando que o "condomínio constitui sementeira de discórdia. Communio est mater discordiarum, eis o aforismo consagrado pela jurisprudência romana", como lecionava Washington de Barros Monteiro("Curso de Direito Civil", Ed. Saraiva, 3º vol., 27ª edição, p. 213/4).
+A pretensão do autor está fincada no quanto disposto no art. 1.319, do Código Civil: Cada condômino responde aos outros pelos frutos que percebeu da coisa e pelo dano que se lhe causou.
+Veja-se, na hipótese, que restou configurada a posse exclusiva do réu sobre o bem ao permitir que a empresa da qual é sócio nela se instalasse. Daí a correta procedência do pedido indenizatório, cujo valor foi bem arbitrado considerando o pedido do autor - e o laudo avaliatório que juntou - e a ausência de impugnação específica pelo réu.
+Demais disso, não há pedido de restituição do bem a justificar o aludido direito de retenção.
+Quanto às benfeitorias, não se viu dos autos sequer indícios de que teriam sido erigidas no imóvel. O réu-reconvinte juntou comprovantes de pagamento de tributos (que não guardam qualquer identidade com benfeitorias), notas fiscais, cujo pagador é determinada pessoa jurídica, e comprovantes de pagamento de salários de funcionários também relacionados à empresa referida.
+Logo, não há qualquer motivo para o acolhimento do pedido de reforma da sentença apresentado pelo réu-reconvinte.
+Ademais, considerando as conclusões do Tribunal de origem, percebe-se que a questão foi resolvida com base nos elementos fáticos que permearam a demanda, o que esbarra na aplicação da Súmula n. 7/STJ.
+Ato contínuo, no tocante à urgência da medida, convém repisar que o art. 520 do CPC/2015, a exemplo do diploma anterior, permite o início da execução provisória da sentença, impugnada por recurso desprovido de efeito suspensivo, na mesma forma que o cumprimento definitivo, sob a estrita responsabilidade do exequente, que haverá de ressarcir a parte adversa, em caso de reversão do julgado, de todos os danos eventualmente sofridos.
+Em absoluta ponderação de interesses, a lei adjetiva civil, não obstante permita o cumprimento provisório da sentença, estabelece que "o levantamento de depósito em dinheiro e a prática de atos que importem a transferência de posse ou alienação de propriedade ou de outro direito real, ou dos quais possa resultar grave dano ao executado, dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (inciso IV do art. 520 do CPC/2015).
+Assim, conclui-se que o simples início do cumprimento provisório de sentença, expressamente admitido na lei de regência, não importa na caracterização de periculum in mora, sobretudo porque o próprio sistema processual prevê mecanismos para evitar possíveis danos ao executado, medidas que deverão ser buscadas diretamente nas instâncias ordinárias, e não nesta Corte Superior.
+Portanto, não se vislumbra, deveras, a presença dos requisitos necessários à concessão do efeito suspensivo ao recurso especial no caso vertente, consoante acima delineado.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
