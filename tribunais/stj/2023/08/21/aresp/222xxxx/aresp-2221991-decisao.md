@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por WELLINGTON DIAS SANTOS e LAERCIO TEIXEIRA DOS SANTOS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, os agravantes foram, respectivamente, condenado pela prática do delito descrito no art. 33 da Lei 11.343/2006, às penas de 8 (oito) anos de reclusão, em regime inicial fechado, e pagamento de 810 (oitocentos e dez) dias-multa, e absolvido da acusação de ter cometido o crime do art. 33,"caput", da referida Lei, com fundamento no do art. 386, inciso VII, do Código de Processo Penal (fls. 202-206).
+No julgamento das apelações interpostas, o Tribunal local negou provimento ao pedido de WELLINGTON DIAS SANTOS, e acolheu o pleito do Ministério Público estadual para condenar LAERCIO TEIXEIRA DOS SANTOS como incurso no delito do art. 37 da Lei 11.343/2006, às penas de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa (fls. 280-290).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, os insurgentes alegaram violação dos arts. 33, § 4º, e 42 da Lei 11.343/2006; e 33, § 2º, "b" e "c", e § 3º; 59 e 61, inciso II, j, todos do Código Penal, por indevido aumento da pena-base acima do mínimo legal; ante a ausência de fundamentação idônea para o aumento das penas; da falta de aplicação da minorante relativamente a WELLINGTON; e da fixação de regime de cumprimento mais gravoso.
+Apresentadas as contrarrazões (fls. 323-332), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n.º 7, STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fl. 335).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 343-348).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 369-371).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em virtude da aplicação da Súmula n.º 7, STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+De fato, a Defesa, nas razões de fls. 343-348, em uma breve explanação, em síntese, quanto a incidência da Súmula n.º 7, STJ , alegou que "Todas são questões técnicas, nenhuma exige que se reexamine a prova dos autos" (fl. 346), além de repisar os argumentos apresentados no recurso especial.
+No caso, deveriam os agravantes demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E COLABORAÇÃO COMO INFORMANTE PARA O CRIME. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
