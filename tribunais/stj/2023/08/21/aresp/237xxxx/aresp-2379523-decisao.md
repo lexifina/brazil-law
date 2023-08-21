@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por ADEVALDO JOSE DE OLIVEIRA JUNIOR, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve sua condenação às penas de 02 anos de detenção, em regime aberto, substituída por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade, pelo mesmo prazo da pena substituída, e prestação pecuniária, no valor de 05 salários mínimo vigentes à época, à família da vítima, e, ainda, proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 02 meses, como incurso no art. 302, caput, da Lei n. 9.503/97 (e-STJ fls. 380/390).
+Nas razões do recurso especial (e-STJ fls. 395/406), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 13 do CP e do artigo 156 do CPP. Sustenta: (i) a absolvição por ausência de prova concreta para a condenação; (ii) que não ficou comprovado o nexo de causalidade entre a morte da criança e a conduta do agente.
+Apresentadas contrarrazões (e-STJ fls. 410/414), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 417), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso (e-STJ fls. 449/451).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do envolvido pelo delito do artigo 302 do CTB (e-STJ fls. 382/388).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova concreta para a condenação, ou pela ausência de nexo de causalidade entre a morte da criança e a conduta do agente, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
