@@ -1,0 +1,17 @@
+DECISÃO
+JONATHAN FABIANO SILVA LOPES alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501233-43.2021.8.26.0544.
+A defesa pretende, liminarmente e no mérito, a concessão do regime semiaberto. Para tanto, aponta a ilegalidade na fixação do regime fechado, diante da ausência da fundamentação necessária para tanto.
+Decido.
+O paciente foi condenado à 8 anos de reclusão, com incurso no art. 157, § 2º, II, e § 2º-A, I, na forma do art. 70, caput, ambos do Código Penal.
+O Juiz de primeiro grau depois de haver mantido a pena-base no mínimo legal, fixou o regime fechado, por entender que "é o mais adequado, eis que trata de crime de roubo qualificado, que demonstra a concreta periculosidade do agente  .. , além da presença de duas qualificadoras" (fl. 35).
+A Corte estadual manteve o regime mais gravoso, "em face da quantidade da pena e da gravidade do crime, que demonstra a periculosidade concreta do agente e tanto intranquiliza a sociedade, exigindo resposta enérgica, com a qual não é suficiente, compatível e adequada solução mais branda" (fl. 63).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que as instâncias antecedentes não apontaram nenhum elemento dos autos (como o a indicação de número excessivo de agentes ou de peculiaridades das armas usadas, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+A propósito, o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF, respectivamente:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Assim sendo, o paciente primário sem registro de circunstância judicial desfavorável e condenado à 8 anos de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+À vista do exposto, concedo a ordem, para fixar o regime semiaberto ao paciente.
+Publique-se e intimem-se.
