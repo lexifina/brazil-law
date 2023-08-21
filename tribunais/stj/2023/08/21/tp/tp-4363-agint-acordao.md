@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por GALVANI MINERAÇÃO E PARTICIPAÇÕES LTDA. contra a decisão deste relator que indeferiu o pedido de tutela provisória.
+Aduziu que o recurso especial ao qual pede a atribuição de efeito suspensivo também foi interposto com fundamento na alínea "c" do permissivo constitucional e trouxe como paradigma acórdão do Tribunal de Justiça de Minas Gerais que se pauta em precedente da Colenda 4ª Turma, em oposição aos demais precedentes citados na decisão agravada.
+Alegou que não há pacificidade ainda sobre a questão, sendo justa a concessão do efeito suspensivo pleiteado por razões de ordem pública. Ressaltou que, apesar de a penhora em dinheiro ser processualmente possível, não pode ser efetuada quando afetar diretamente o capital de giro ou subsistência da sociedade executada.
+Disse que para garantir o direito de um credor particular, as instâncias ordinárias ameaçam a sobrevivência da empresa devedora e prejudicam a sua função social, bem como que o CPC determina que a execução se proceda pelo modo menos gravoso para o executado.
+Intimado, o agravado apresentou impugnação (fls. 361-365).
+É, no essencial, o relatório. Decido.
+EMENTA
+AGRAVO INTERNO NA TUTELA PROVISÓRIA. TUTELA PROVISÓRIA INCIDENTAL AO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONCESSÃO DE EFEITO SUSPENSIVO. AUSÊNCIA DE DEMONSTRAÇÃO DOS REQUISITOS NECESSÁRIOS. AGRAVO INTERNO DESPROVIDO.
+1. O deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+2. Na espécie, um exame exauriente da demanda leva a um reexame do conjunto fático-probatório e a parte requerente deixou de demonstrar o periculum in mora, não tendo desenvolvido nenhuma argumentação sobre a necessidade concreta e urgente de concessão do efeito suspensivo ao recurso interposto.
+Agravo Interno improvido .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+De plano, afirmo que o agravo interno não merece prosperar.
+Sabe-se que de acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Sabe-se que o deferimento da tutela de urgência para conferir efeito suspensivo a recurso especial somente é possível quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora. A propósito, cita-se:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO. AÇÃO RESCISÓRIA (ART. 966, VIII, § 2º, DO CPC/2015). ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO INDENIZATÓRIA. PEDIDO DE TUTELA DE URGÊNCIA (ART. 300 DO CPC/2015). AUSÊNCIA DE COMPROVAÇÃO DE PERICULUM IN MORA. INDEFERIMENTO DO PEDIDO DE TUTELA DE URGÊNCIA.
+1. Em preliminar, cumpre receber o pedido de reconsideração como agravo regimental.
+2. Na hipótese em análise, o requerente busca a concessão de tutela de urgência nos termos do art. 300 do Código de Processo Civil de 2015 para que sejam suspensos os processos de execução do julgado que visa rescindir por meio da ação rescisória. A propósito, sustenta a plausibilidade do direito invocado na ação rescisória e a existência de prejuízo irreversível inerente à continuidade dos processos de execução.
+3. O artigo 300 do Código de Processo Civil de 2015 exige para a concessão da tutela de urgência a presença cumulativa dos requisitos do fumus boni iuris e do periculum in mora, sendo que a ausência de qualquer dos requisitos referidos obsta a referida pretensão.
+4. Ademais, impende destacar que o ajuizamento de ação rescisória não impede o prosseguimento da decisão que visa ser rescindida, nos termos do artigo 966 Código de Processo Civil de 2015: "A propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória."
+5. O requerente, entretanto, não comprovou o periculum in mora, apto a determinar a suspensão da execução do julgado. A simples alegação no sentido de que os valores executados equivalem a mais de oitenta por cento do valor de sua folha de pagamento pessoal, isso num momento terrível por que passa a economia do país" (fl. 129 e-STJ), não é suficiente para comprovar o referido requisito, principalmente quando não apresentado nenhum documento que comprove tais alegações. Não obstante, como cediço, a alegação da ocorrência de atos de execução do julgado, por si só, não é suficiente para a configuração de risco de dano jurídico irreversível. 6. Agravo interno não provido. (RCD na AR 5.879/SE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 26/10/2016, DJe 08/11/2016, grifo meu).
+Necessário, portanto, que sejam demonstrados, de forma inequívoca, concomitantemente, a probabilidade do direito alegado e o perigo de dano ou risco ao resultado útil do processo.
+De toda sorte, não obstante a fundamentação sustentada pela parte requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito da demanda, e, diante na natureza satisfativa do pleito, sua análise pormenorizada compete ao colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária.
+Outrossim, no caso em tela, um exame exauriente da demanda induz a um reexame do conjunto fático-probatório por necessitar ser realizada análise da procuração e dos atos processuais para verificação do comparecimento espontâneo ou não da parte para fins de eventual supressão de alegada nulidade de citação.
+Bem assim, não obstante a alegação de ocorrência de atos de execução do julgado, tal argumentação não se mostra suficiente para a configuração de risco de dano jurídico irreversível (nesse sentido: RCD na AR 5.879/SE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 26/10/2016, DJe 08/11/2016).
+E, na hipótese em epígrafe, a parte requerente deixou de demonstrar o periculum in mora, não tendo desenvolvido nenhuma argumentação sobre a necessidade concreta e urgente de concessão do efeito suspensivo ao recurso interposto.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
