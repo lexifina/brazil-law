@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSANGELA APARECIDA ALBUQUERQUE RUIZ (ROSANGELA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSTITUIÇÕES FINANCEIRAS. FRAUDE. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. INEXISTÊNCIA. DISCUSSÃO EM SENTIDO CONTRÁRIO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fls. 440/444).
+Nas razões do presente inconformismo, ROSANGELA defendeu a ocorrência de negativa de prestação jurisdicional, pois o Tribunal estadual teria sido omisso sobre as teses levantadas no apelo nobre. Afirmou que o exame da ofensa à norma do § 3º do art. 14 do CDC não demanda revolvimento das premissas fáticas assentadas pelas instâncias ordinárias, sendo inaplicável, ao caso, a Súmula n.º 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 470/472).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUTORA VÍTIMA DO "GOLPE DO LEILÃO FALSO". SITUAÇÃO QUE NÃO SE INSERE NO RISCO INERENTE ÀS ATIVIDADES DO BANCO. FORTUITO EXTERNO. QUEBRA DO NEXO DE CAUSALIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. O Tribunal estadual, soberano na análise probatória, concluiu que o episódio narrado implicou em culpa exclusiva de terceiro, além de se tratar de fortuito externo, pois a leiloeira estelionatária denominada "Leilões C6" não possui qualquer relação jurídica com o "Banco C6 S/A", ora recorrido.
+2.1 As instâncias ordinárias, soberanas na análise das provas, concluíram não ter ficado configurado ilícito civil de qualquer espécie, pois o banco recorrido também foi vítima de uma fraude ao ter sua marca indevidamente utilizada por terceiro fraudador.
+3. Para suplantar a cognição exarada pela Corte estadual, seria necessário a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos e das circunstâncias fáticas que permeiam a demanda, o que é vedado, em recurso especial, nos termos da Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento, por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Em que pese o reforço argumentativo de ROSANGELA, não há que falar em negativa de prestação jurisdicional na hipótese, tendo em vista que ela somente se caracteriza quando o acórdão contém erro material e/ou deixa de pronunciar-se sobre questão jurídica, ou fato relevante para o julgamento da causa.
+No caso, o Tribunal de Justiça do Estado de São Paulo apreciou as questões deduzidas, decidindo, de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da recorrente.
+Cumpre salientar que o julgador não está obrigado a responder a todas as alegações das partes, quando já tiver encontrado motivo suficiente para fundamentar a decisão, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Nesse sentido: não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. (AgInt no AREsp 629.939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/6/2018).
+Daí por que, não obstante a insurgência manifestada, não se pode cogitar de ofensa ao art. 1.022 do Código de Processo Civil.
+Quanto ao mérito, o recurso também não prospera.
+Trata-se, na origem, de ação indenizatória ajuizada por ROSANGELA contra o BANCO C6 S.A. (BANCO), alegando ter sido vitima do "golpe do leilão falso", pois teria arrematado um automóvel na "Leilões C6", enviando uma ordem de pagamento de R$ 173.250,00 (cento e setenta e três mil, duzentos e cinquenta reais) para uma conta corrente mantida com o banco recorrido, porém, depois disso, não conseguiu mais contato com a suposta leiloeira. Pretendeu, assim, a reparação dos danos materiais e morais experimentados em razão de fraude perpetrada por terceiro.
+A r. sentença julgou a ação improcedente.
+Conforme apontado na decisão recorrida, o Tribunal de Justiça do Estado de São Paulo consignou ter ficado comprovado, nos autos que o BANCO não promove leilões e que a conta para o qual os recursos foram destinados foi aberta em nome de "Dener Manente - Embu Móveis", que, inclusive, foi encerrada assim que o BANCO tomou ciência do esquema fraudulento. Confira-se trecho do acórdão:
+Com efeito, preceitua o artigo 14, § 3º, do Código de Defesa do Consumidor, que o fornecedor não será responsabilizado quando restar comprovada a culpa exclusiva do consumidor ou de terceiro, o que descaracteriza a responsabilidade civil do Apelado.
+No caso em análise, não se vislumbra responsabilidade por parte do Banco Apelado, visto que o infortúnio vivenciado pela Apelante se deu por um caso fortuito externo, havido por culpa de terceiro aliado a culpa do consumidor.
+Assim, para que fosse devida a condenação do fornecedor, seria necessário a demonstração do ato ilícito, o dano e nexo de causalidade, nos termos do artigo 14 do Código de Defesa do Consumidor.
+A alegação da Apelante no sentido de que foi enganada, transferindo a responsabilidade para o Banco Apelado em pagar a indenização por danos materiais e morais, não merece prosperar.
+Isto porque, conforme consta nos Autos, a Apelante arrematou um veículo automotor em leilão realizado por "Leilões C6", efetuando o pagamento da importância de R$ 173.250,00 (cento e setenta e três mil, duzentos e cinquenta reais) por meio de depósito bancário em favor de "Leilões C6" (fls. 20/25).
+No entanto, a leiloeira denominada Leilões C6 não tem qualquer relação jurídica com o "Banco C6 S/A", ora Apelado.
+Neste sentido, como bem salientou a r. sentença:
+"(..) o Banco C6 não promove leilões e a conta para o qual os recursos foram destinados foi aberta em nome de Dener Manente Embu Móveis, a qual foi bloqueada e encerrada tão logo o Réu tomara ciência do estratagema realizado pelo terceiro (..)
+Tem-se que a transferência se deu por livre e espontânea vontade da Autora perante o terceiro, por acreditar que se tratava do Empresa do grupo C6 Bank, de modo que as tratativas de venda e compra foram ajustadas exclusivamenteentre as Partes, sem qualquer interferência do Requerido no referido negócio jurídico.
+Todavia, válida a manifestação de vontade expressada pela Autora na elaboração do Pacto, portanto não há que se falar em qualquer tipo de indenização a ser paga pelo Apelado, uma vez que não configurado ilícito civil de qualquer espécie, pois ele também foi vítima de uma fraude, pois a sua marca foi indevidamente utilizada por terceiro fraudador.
+Sendo assim, considerando as provas dos Autos, poderia a Apelante ter adotado providências cabíveis para se precaver envolvendo a questão.
+Forçoso concluir, portanto, que o uso da marca "C6" pelos estelionatários foi utilizada apenas fora do estabelecimento do BANCO para atrair as vítimas, fazendo-as acreditar que estariam tratando com uma empresa do mesmo grupo econômico do recorrido. Mas a conta bancária, em verdade, foi aberta em nome de "Dener Manente Embu Móveis".
+Assim, a Corte local registrou, à luz dos fatos e das provas constantes dos autos, que o BANCO de nenhuma forma contribuiu para que ROSANGELA caísse no referido golpe, tratando-se de um infortúnio causado por um fato fortuito externo.
+Para suplantar a cognição exarada pelo Tribunal paulista, seria necessária a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos e das circunstâncias fáticas que permeiam a demanda, o que é vedado, em recurso especial, nos termos da Súmula n.º 7 do STJ.
+Aliás, diferentemente do que defendeu ROSANGELA, não há que se falar em revaloração da prova no caso, porquanto o acórdão não valorou mal a prova, nem tampouco qualificou equivocadamente os fatos.
+Assim, como ROSANGELA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
