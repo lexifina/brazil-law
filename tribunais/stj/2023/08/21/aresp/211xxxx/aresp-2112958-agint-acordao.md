@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por DIRCE COSTA FERREIRA DE REZENDE, em face da decisão de fls. 1746-1751, e-STJ, da lavra deste signatário, que negou provimento ao recurso especial manejado pela ora agravante.
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fls. 1553-1561, e-STJ):
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA C. C. ANULAÇÃO DE NEGÓCIO JURÍDICO E REPARAÇÃO DE DANOS MATERIAIS E MORAIS - PRELIMINAR DE SUSPENSÃO DA AÇÃO REJEITADA - ANULAÇÃO DE NEGÓCIO JURÍDICO - PARTE VENDEDORA DOIMÓVEL QUE NÃO PARTICIPOU DO PROCESSO - IMPOSSIBILIDADE DE ANULAÇÃO - OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - PEDIDO DE RESPONSABILIZAÇÃO SOLIDÁRIA QUE NÃO COMPORTA ACOLHIMENTO POR AUSÊNCIA DE CONDUTA E NEXO DE CAUSALIDADE COM O EVENTO DANOSO - MULTA APLICADA EM SEDE DE EMBARGOS AFASTADA - AUSÊNCIA DE CARÁTER PROTELATÓRIO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. Não se vislumbrando a prejudicialidade externa invocada pela apelante em suas razões, não há que impor a suspensão do presente julgamento até que proferida sentença em outros processos que não guardam relação com o presente. Preliminar rejeitada. 2. Para que se possa anular um negócio jurídico, todas as pessoas, inclusive Jurídicas, que participaram da relação negocial devem participar do processo. Como a empresa vendedora do imóvel não compôs o polo passivo, a declaração de nulidade do negócio jurídico (compra e venda de um imóvel) implicaria em flagrante ofensa aos princípios do contraditório e da ampla defesa. 3. A despeito de um dos sócios ter participado do processo, a Pessoa Jurídica NÃO se confunde com a Pessoa Física dos Sócios, pois estes agem como representantes da pessoa jurídica e não em nome próprio.4. Para a responsabilização civil da apelada, imperiosa a presença dos requisitos da responsabilidade civil: conduta (ação ou omissão), dano e o nexo de causalidade (entre a conduta e o dano). 5. In casu, os ilícitos narrados pela apelante (não devolução do gado dado em arrendamento e venda indevida de um imóvel de sua propriedade) não foram praticados pela empresa Breezes Ecovillage Campo Grande Empreendimentos Imobiliários Ltda. Portanto, não se vislumbrando conduta danosa ou nexo de causalidade com o evento danoso, não há que falar em responsabilização civil solidária.6. Além de não se vislumbrar a alegada simulação no negócio jurídico, a empresa vendedora do bem não participou do processo, o que também impede a anulação. 7. Considerando que a parte ora apelante apenas exerceu o seu direito processual de pleitear o saneamento de contradição que, no seu entender existia no julgado proferido pelo juízo a quo, a multa deve ser afastada. 8. Recurso conhecido e parcialmente provido, unicamente, para afastar a multa de 2%, por não vislumbrar caráter meramente protelatório dos embargos..
+Nas razões do recurso especial (fls. 1564-1572, e-STJ), a recorrente aponta violação aos seguintes artigos:
+(i) 313, V, "a", do CPC/2015, na medida em que é necessária a suspensão dos presentes autos até a conclusão do julgamento de medida cautelar;
+Contrarrazões às fls. 1583-1595, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Às fls. 1746-1751, e-STJ, negou-se provimento ao reclamo, com base nas Súmulas 284/STF e 83/STJ.
+Irresignada, a sucumbente maneja o presente agravo interno (fls. 1766-1772, e-STJ), no qual sustenta, em suma, que a inaplicabilidade dos aludidos óbices.
+Impugnação às fls. 1779-1790, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. A insuficiência das razões recursais, dissociadas dos fundamentos da decisão recorrida, impõem a aplicação das Súmulas 283 e 284 do STF, por analogia.
+2. A tutela cautelar tem caráter instrumental, acessório, servil ao asseguramento do resultado prático do processo principal, não podendo ultrapassar a prestação jurisdicional que será dada no feito principal. Logo, eventual desprovimento da demanda principal enseja a perda de objeto da medida cautelar. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Inicialmente, pontua-se ser inviável o afatamento da alegada Súmula 284/STF.
+Conforme disposto na decisão unipessoal, sustenta-se, em sede de recurso especial, a necessidade de suspensão da presente ação anulatória c/c pedido condenatório até a conclusão do julgamento da Medida Cautelar Inominada 825393-27.2013.8.12.0001, manejada pela ora recorrente contra a ora recorrida, no qual foi determinado protesto contra eventual alienação de imóvel de matrícula n. 139.371 da CRI da 1ª Circunscrição da Comarca de Campo Grande.
+Para isso, alega-se que a relação jurídica debatida naqueles autos é a mesma ora apreciada, e que o juízo de primeiro grau, à luz da liminar deferida nos autos da aludida ação, concedeu tutela provisória nestes autos.
+Não obstante as alegações dispostas em sede de agravo interno, cuida-se de argumentação genérica, a qual não revela, de modo claro, em que medida a medida cautelar seria prejudicial em relação ao debate travado nos autos da ação principal, e não o oposto.
+Nesse contexto, de rigor a aplicação da Súmula 284 do STF, por analogia, dada a insuficiência das alegações dispostas no recurso especial.
+Sobre o tema, relevante, ainda, a menção aos seguintes precedentes: AgInt no REsp 1226120/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/05/2019, DJe 29/05/2019; AgInt no REsp 1679920/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/04/2019, DJe 16/04/2019; AgInt no AREsp 1157779/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019 e AgInt no AgInt no AREsp 654.476/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019.
+Logo, de rigor a manutenção da decisão agravada, também em relação ao presente ponto.
+2. De igual modo, não se mostra viável o afastamento da argumentação subsidiária contida no decisum atacado.
+De fato, conforme consagrado pela jurisprudência desta Corte, a tutela cautelar tem caráter instrumental, acessório, servil ao asseguramento do resultado prático do processo principal, não podendo ultrapassar a prestação jurisdicional que será dada neste feito. Nesse sentido:
+AGRAVO REGIMENTAL EM MEDIDA CAUTELAR. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA EM AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EXCLUSÃO CADASTRO RESTRITIVO DE CRÉDITO. AUSÊNCIA DE ANÁLISE, PELA CORTE ESTADUAL, DOS DEMAIS REQUISITOS PARA A CONCESSÃO. AGRAVO NÃO PROVIDO.
+1. Não se vislumbra a presença do fumus boni juris, consubstanciado na demonstração da plausibilidade jurídica das razões veiculadas no recurso especial, uma vez que os recorrentes pretendem ver reconhecidos como preenchidos os requisitos fixados nesta Corte para a concessão de antecipação de tutela objetivando a retirada do nome do devedor dos cadastros de restrição ao crédito quando ajuizada ação revisional.
+2. Ainda que se pudesse entender pelo recebimento do imóvel alienado fiduciariamente como garantia em caução dos valores discutidos judicialmente, o parcial provimento do recurso especial, neste ponto, não teria o condão de autorizar a concessão do pedido de antecipação dos efeitos da tutela, uma vez que, o Tribunal estadual não analisou a presença de requisito essencial, qual seja, de estar demonstrada que a contestação da cobrança estaria amparada no bom direito e em jurisprudência consolidada das Cortes Superiores.
+3. A medida cautelar, incidental ou preparatória, é expediente instrumental, acessório, servil ao asseguramento do resultado prático do processo principal, não podendo, por óbvio, ultrapassar a prestação jurisdicional que será dada com o eventual provimento do recurso especial, o qual limitar-se-ia, no caso, a determinar a devolução dos autos à Corte de origem para a análise da presença dos demais requisitos à concessão da tutela antecipada requerida.
+4. Agravo regimental a que se nega provimento.
+(AgRg na MC n. 18.038/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/6/2011, DJe de 13/6/2011.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JULGAMENTO DO PROCESSO PRINCIPAL. PERDA DE OBJETO DA CAUTELAR. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. O julgamento do processo principal impõe a extinção da cautelar ajuizada com a finalidade de resguardar o resultado do primeiro.
+Ausência do interesse jurídico para a tutela cautelar.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 698.383/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/11/2012, DJe de 13/11/2012.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO NO ÂMBITO DE AÇÃO CAUTELAR. RECONHECIMENTO DA IMPOSSIBILIDADE JURÍDICA DO PEDIDO CONTIDO NA AÇÃO PRINCIPAL: QUERELA NULLITATIS INSANABILIS. CONDIÇÃO ACESSÓRIA DA CAUTELAR EM RELAÇÃO AO FEITO PRINCIPAL (CPC, ART. 796).
+PREJUDICIALIDADE DO RECURSO ESPECIAL.
+(REsp n. 1.255.348/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/10/2011, DJe de 24/10/2011.)
+Nesse contexto, tem-se que o eventual desprovimento da ação principal prejudica a concessão de tutela cautelar requerida pela parte autora, e não o oposto. Veja-se:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR PARA SUSTAÇÃO DE PROTESTO. FORO PREVISTO NO CONTRATO DE "LEASING" FIXADO PELO TRIBUNAL DE JUSTIÇA. QUESTÕES FEDERAIS NÃO PREQUESTIONADAS. SÚMULAS NS. 282 E 356-STF. RECURSO ESPECIAL ALUSIVO À AÇÃO PRINCIPAL NÃO CONHECIDO PELO STJ. IMPOSSIBILIDADE DE A LIDE ACESSÓRIA TER RUMO DISTINTO, EM OUTRO ESTADO. PREJUDICIALIDADE.
+I. A ausência de prequestionamento das questões federais pelo acórdão a quo constituem óbice à admissibilidade do recurso especial.
+II. Caso, ademais, em que não tendo sido também conhecido o recurso da mesma parte interposto contra a decisão do STJ em outro processo, que terminou por firmar a competência do foro de São Paulo para o julgamento da ação principal, a pretensão aqui versada se acha prejudicada, pela impossibilidade de a medida cautelar, acessória daquela, seguir rumo diverso, perante a Justiça do Estado do Rio de Janeiro.
+III. Recurso especial não conhecido.
+(REsp n. 85.876/RJ, relator Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 7/6/2001, DJ de 8/10/2001, p. 217.)
+Assim, em que pese o alegado em sede de agravo interno, é inviável o reconhecimento da prejudicialidade defendida.
+Portanto, ainda que superado o óbice da Súmula 284/STF, afigura-se descabido o provimento do recurso da parte ora agravante.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
