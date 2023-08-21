@@ -1,0 +1,6 @@
+DECISÃO
+Paciente que alega sofrer constrangimento ilegal em decorrência de acórdão proferido pela Corte local, que manteve a sua prisão preventiva.
+Observo que este mandamus foi deficientemente instruído, pois o Juiz de Direito, ao indeferir o pedido de revogação da prisão preventiva, utilizou-se de fundamentação per relationem, ao mencionar que o motivo pelo qual entendia que "a dinâmica dos fatos não sofreu modificação apta a desconstituir os fundamentos da segregação cautelar do representado" estavam "explicitados na decisão do Evento 7". E impetrante não juntou aos autos cópia desse documento.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
