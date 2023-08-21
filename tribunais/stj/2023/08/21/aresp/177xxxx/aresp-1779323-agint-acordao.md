@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 683/716) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, os agravantes reiteram as alegações de falta de fundamentação, omissão e contradição no acórdão recorrido.
+Sustentam que houve prequestionamento implícito, não havendo falar, portanto, na aplicação da Súmula n. 211 do STJ.
+Afirmam que a discussão versa sobre matéria de direito e não de fato, e não demanda análise de cláusulas contratuais, motivos pelo quais não incidem as Súmulas n. 5 e 7 do STJ.
+Ao final, pedem a reconsideração do decisum ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls. 721 /740).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, II, IV, 1.022 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. ANÁLISE. CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, II, IV , e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo aresto impugnado, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+3. O recurso especial não comporta exame de questões que impliquem análise de cláusulas contratuais ou o revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4 . Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+Os agravantes não trouxeram argumentos capazes de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 641/645):
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC/2015 e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 533/535).
+O acórdão recorrido está assim ementado (e-STJ fl. 331):
+AÇÃO DE COBRANÇA. PRELIMINAR. INOVAÇÃO RECURSAL. OCORRÊNCIA. PROMESSA DE COMPRA E VENDA. IMÓVEL NA PLANTA. QUITAÇÃO DO PREÇO. GRAVAME. LIBERAÇÃO DO ÔNUS. PREVISÃO CONTRATUAL. RECEBIMENTO DAS CHAVES. DESCUMPRIMENTO. MULTA MORATÓRIA. INCIDÊNCIA. REDUÇÃO EQUITATIVA. POSSIBILIDADE. PENALIDADE EXCESSIVA. ADIMPLEMENTO SUBSTANCIAL.
+1. A inovação de tese jurídica em sede de apelação não é admitida, por configurar supressão de instância e afronta ao princípio do duplo grau de jurisdição.
+2. A quitação da integralidade do preço do imóvel pelo comprador, com o consequente recebimento das chaves, acarreta a obrigação da promitente vendedora de desconstituir o gravame hipotecário, conforme previsão contratual.
+3. A multa moratória prevista no contrato objetiva assegurar o cumprimento espontâneo da obrigação que lhe é imposta, mas possui caráter sancionatório na hipótese de inadimplemento, ainda que relativo, razão pela qual deve ser fixada em quantia razoável e proporcional, que não acarrete o enriquecimento sem causa.
+4. É incabível a aplicação de percentual de multa prevista para o atraso na entrega do imóvel aos casos de atraso na baixa da hipoteca, que retratam obrigações com consequências distintas. Nessa hipótese, o juiz deve reduzir equitativamente a cláusula penal para percentual que reflita a natureza da obrigação e o adimplemento substancial do contrato. Precedentes.
+5. Presentes as condições, o efeito devolutivo em profundidade pode ser aplicado para corrigir erro material no marco inicial da mora para fins de incidência de correção monetária.
+6. Preliminar acolhida. Recurso parcialmente conhecido e, na parte conhecida, parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 443/447).
+No recurso especial (e-STJ fls. 449/470), fundamentado no art. 105, III, "a", da CF, os recorrentes apontaram ofensa aos arts. 489 § 1º, II, IV, e 1.022, I, II, do CPC/2015.
+Sustentaram, em síntese, que o Tribunal de origem teria deixado de apreciar matéria imprescindível ao deslinde da controvérsia, relativamente ao dano efetivo e controverso por eles suportado, e que teria incorrido em contradição, "ao reformar a r. sentença fundamentando-se em precedentes que, ou reconhecem a exigibilidade da multa tal qual pactuado no contrato de adesão, ou ao invocar o art. 413, do CC, reduzem a multa a patamares idênticos ao do contrato objeto da presente ação, bem como ao sustentar a possibilidade de redução da multa em sessão de julgamento com base em fundamentos pelos quais afastou as teses da Embargada para eximir-se da obrigação" (e-STJ fl. 454).
+Destacaram a ausência de demonstração de que os precedentes invocados são adequados para fundamentar o acórdão recorrido.
+Suscitaram, ainda, violação dos arts. 20, parágrafo único, da LINDB, 113, § 1º, IV, 413, 421 do Código Civil, 47, 54, § 4º, do CDC.
+Alegaram que "pressupor que a obrigação de entregar o imóvel, ainda gravado com a hipoteca e sem a outorga da escritura, caracteriza-se como obrigação principal, é ignorar por completo os casos em que os consumidores adquirem imóveis a título de investimento. Nessa hipótese, a entrega das chaves em uma data e a baixa do gravame (considerado o período de carência) mais de 20 (vinte) meses depois expõe os adquirentes a situação de manifesto prejuízo, uma vez que arcaram com despesas condominiais e tributárias em todo o período em que a situação de insegurança jurídica a que foram expostos prejudicou a venda do imóvel " (e-STJ fl. 463).
+Aduziram que "o v. decisum recorrido não faz qualquer menção à constatação de que o acolhimento da redução, nos termos consignados, estimula as incorporadoras a descumprir a obrigação contratual por longos lapsos temporais, uma vez que o Poder Judiciário passa a pavimentar o caminho para redução de tais multas a patamares, com renovadas vênias, aviltantes" (e-STJ fl. 465).
+Requereram o provimento do recurso especial para que seja declarada a nulidade do aresto impugnado e proferido novo julgamento, sanando os vícios apontados.
+Foram apresentadas contrarrazões (e-STJ fls. 501/516).
+No agravo (e-STJ fls. 539/563), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 592/610).
+Juízo negativo de retratação (e-STJ fl. 629).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Não há falar em ofensa aos arts. 489, § 1º, II, IV, e 1.022, I e II, do CPC/2015, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento.
+O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e- STJ fls. 337/338):
+ ..  17. Em 18/5/2016, os apelados quitaram o preço da unidade imobiliária (ID nº 9856976) e em 8/9/2016, receberam as chaves do apartamento (ID nº 9856977, págs. 3-4). O prazo para a baixa da hipoteca, portanto, venceria em 8/3/2017. A baixa, contudo, somente ocorreu em 16/5/2018, um ano e dois meses além do prazo previsto no contrato (ID nº 9856978).
+18. Embora a recorrente queira excluir sua responsabilidade pela demora em virtude da superveniência de fatos alheios a sua vontade, tais como crise imobiliária e atraso da Administração Pública nos pagamentos de obras licitadas, não há dúvidas de que essa providência é encargo contratualmente previsto a ser cumprido pela própria apelante, como determina o item 1.4 (ID nº 9856973).
+19. Quitado o preço do contrato, o comprador tem direito ao registro do seu imóvel livre do ônus hipotecário, cuja manutenção impede-lhe de ter o domínio pleno sobre o bem adquirido.
+20. Ressalte-se que as alegações sobre a crise econômica imobiliária não são passíveis de justificar o atraso na baixa do gravame existente sobre imóvel, pois dizem respeito à própria atividade empresarial desenvolvida, que comporta riscos.
+21. Do mesmo modo, o atraso dos pagamentos devidos pela Administração Pública por obras licitadas é insuficiente para excluir a responsabilidade da apelante.
+22. Comprovado o pagamento da integralidade do preço acordado (ID nº 9856976), correta a sentença que determinou o pagamento da multa prevista em contrato de adesão, sobretudo porque não foi demonstrada qualquer causa justificadora do atraso.
+23. No mesmo sentido: Acórdão n.1141329, 07268362220188070016, Relator: FERNANDO ANTONIO TAVERNARD LIMA 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, Data de Julgamento: 04/12/2018, Publicado no DJE: 07/12/2018. Pág.: Sem Página Cadastrada.
+24. Logo, a condenação deve ser mantida.
+ ..  25. De acordo com o item 1.5, o descumprimento da obrigação de exonerar a unidade imobiliária da hipoteca em até 180 dias, contados da entrega das chaves, enseja o pagamento de multa equivalente à prevista no item 7.3, que prevê o pagamento de multa cominatória mensal de 1% sobre o valor atualizado do preço total, até a entrega da unidade. . pro rata die 26. O art. 413 do Código Civil dispõe que a cláusula penal deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo em vista a natureza e a finalidade do negócio.
+27. Ademais, a multa prevista no contrato tem a finalidade de garantir o cumprimento da obrigação assumida pela apelante, sendo, de toda sorte, vedado o enriquecimento sem causa dos apelados.
+28. A cláusula penal traduz-se, em valores monetários, na quantia de R$ 248.465,69. Logo, é manifestamente excessiva, porque equivale ao valor da multa pelo atraso na entrega do imóvel, o que é diferente de atraso na baixa da hipoteca, além de não refletir o adimplemento substancial do contrato consistente no cumprimento satisfatório da obrigação principal (entrega do bem).
+29. De acordo com a média dos precedentes deste Tribunal sobre a mesma matéria, considero proporcional o percentual mensal de 0,1% sobre o valor atualizado do imóvel.
+30. Precedentes: , Relator: EUSTÁQUIO DE CASTRO 8ª Turma Cível, Data de Acórdão n.1157851 Julgamento: 14/03/2019, Publicado no DJE: 19/03/2019; , Relator: ARNOLDO Acórdão n.1141862 CAMANHO 4ª Turma Cível, Data de Julgamento: 05/12/2018, Publicado no DJE: 11/12/2018; Acórdão , Relator: FÁTIMA RAFAEL 3ª Turma Cível, Data de Julgamento: 27/02/2019, Publicado no n.1155709 DJE: 11/03/2019.
+31. Vale esclarecer que a expressão contida no final da cláusula 7.3, , significa proporção por pro rata die dia. Assim, a multa é mensal, calculando- se proporcionalmente o período que não completar os 30 dias. Reduzida a penalidade para 0,1% sobre o valor contratual do imóvel, tem-se o percentual de 0,00333% por dia de atraso (0,1% / 30). Como a mora foi de 14 meses e 8 dias, o valor da multa será de cerca de 1,4266% sobre R$ 1.980.000,00. Esse resultado deverá ser confirmado por mero cálculo aritmético, oportunamente.
+Nesse contexto, para alterar os fundamentos do acórdão impugnado e apreciar as razões recursais, seria imprescindível a análise de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, diante da aplicação das Súmulas n. 5 e 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMPREITADA. ATRASO NA ENTREGA DA OBRA. MULTA MORATÓRIA. EXCESSIVIDADE. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. No caso, o Tribunal de origem, no que tange à multa moratória, concluiu que "(..) a multa só alcançou o patamar de R$ 67.500,00 porque o atraso perdurou por mais de nove meses após a dilação do prazo inicialmente previsto, que já havia sido estendido em quinze meses. Considerando o valor total do contrato (R$ 460.000,00), ela representa pouco mais de 1,5% ao mês (R$ 7.500,00), não sendo manifestamente excessiva, de modo que não comporta a redução nos termos do art. 413 do Código Civil. Houve plena negociação entre as partes acerca do conteúdo do contrato e aditivos, de modo que só posso concluir que as disposições contratuais foram livremente acordadas e desejadas por ambas". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.907.301/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022.)
+Ademais, o conteúdo jurídico dos arts. 20, parágrafo único, da LINDB, 47, 54, § 4º, do CDC, 113, § 1º, IV, e 421 do Código Civil, tidos por violados, não foi prequestionado pelo Tribunal de origem. Inafastável a Súmula n. 211 do STJ.
+Ressalte-se que não há falar em contradição por se afastar a alegada violação do art. 1.022 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos suscitados pela parte. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. ACÓRDÃO RECORRIDO. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..  4. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+5. Conforme jurisprudência desta Corte Superior, não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado.
+Precedentes.
+ ..  8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.921.177/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+Como delineado na decisão agravada, descabe falar em omissão, contradição e negativa de prestação jurisdicional. O acórdão recorrido explicitou, de forma clara e fundamentada, os motivos pelos quais entendeu pela redução do percentual da multa. O fato de não terem sido acolhidos os argumentos da parte não configura os vícios alegados.
+Outrossim, a simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo julgado recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Inafastável a Súmula n. 211/STJ.
+Ademais, alterar as conclusões do aresto impugnado demandaria a análise de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências vedadas em recurso especial, ante a incidência das Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão agravada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
