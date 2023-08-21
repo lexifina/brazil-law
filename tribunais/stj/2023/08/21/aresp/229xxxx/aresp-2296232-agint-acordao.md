@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO ITAUCARD S.A. contra decisão monocrática de relatoria da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial (fls. 121-122).
+O recurso especial foi interposto, com fundamento no art. 105, inciso III, alínea "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 50):
+GRAVO DE INSTRUMENTO. AÇÃO DE BUSCA EAPREENSÃO. CONSTITUIÇÃO DO DEVEDOR EM MORA. CARTARECUSADA. EMENDA DA PETIÇÃO INICIAL. LIMINAR DECONSTRIÇÃO DO BEM. COMPROVAÇÃO DA MORA.1. É imprescindível a comprovação da mora do devedor para o deferimento da liminar de busca e apreensão de bem alienado fiduciariamente, ao teor da Súmula nº 72 do STJ.2. A devolução do "AR" com a informação dos correios de que a missiva foi recusada não é capaz de constituir a parte devedora em mora.3. Constatada a não comprovação da mora do devedor, deve ser oportunizado que a instituição financeira emende a petição inicial, para só então ser analisada a medida liminar postulada. RECURSO PROVIDO.
+A parte agravante alega que, "para conhecimento do Recurso Especial, não se exige o prequestionamento numérico dos dispositivos de lei. Basta que a causa tenha sido decidida em sentido diverso do que dispõe expressa previsão legal para que o requisito do prequestionamento esteja observado".
+Aduz, ainda, que "a matéria foi devidamente prequestionada pela corte de origem, bem como pode-se constatar as violações legais independentemente de o acórdão ter feito, ou não, expressa menção aos dispositivos violados, o que revela que o requisito do prequestionamento está sim presente no caso" (fls. 126-140).
+Pugna, por fim, pelo provimento do agravo interno
+Sem contraminuta (fl. 144).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 211/STJ, 282 E 356 DO STF.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Ademais, embora opostos embargos de declaração, a parte não apontou violação do art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Incidência das Súmulas n. 211/STJ e 282 e 356 do STF.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, verifica-se que o Tribunal de origem não analisou a controvérsia à luz dos dispositivos apontados como violados, quais sejam, arts. 2º, §§ 2º e 3º, do Decreto-Lei n. 911/1969 e 113 e 422 do CC
+Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Com efeito, ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, a Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, as Súmulas 282 e 356 do STF.
+E, embora a matéria tenha sido objeto dos embargos de declaração opostos pela recorrente, não houve arguição de violação do art. 1.022 do CPC. Cito a jurisprudência do STJ a respeito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. ALEGADA OFENSA AOS ARTS. 264 E 942 DO CÓDIGO CIVIL. AUSÊNCIADEPREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXCESSO DA CONSTRIÇÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ. IV. Não havendo sido apreciada a questão após a oposiçãodos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015, e não aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+ ..
+VII. Agravo interno improvido. (AgInt no REsp n. 1.929.723/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. SUBSTITUIÇÃO PROCESSUAL. INTIMAÇÃO. NULIDADE. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. NÃO APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 211 DESTA CORTE. DISPOSITIVOS LEGAIS QUE NÃO AMPARAM AS TESES RECURSAIS. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+ ..
+2. Extrai-se dos fundamentos do acórdão da apelação e dos embargos de declaração que o tema não foi decidido pelo colegiado de origem explícita ou implicitamente. Ademais, embora interpostos embargos de declaração, a parte não apontou violação ao art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Em razão de tais deficiências, o recurso especial não pôde ser conhecido. Aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal e 211 desta Corte.
+3. "O entendimento majoritário do Supremo Tribunal Federal e o Superior Tribunal de Justiça é no sentido de que, no âmbito dos recursos excepcionais, é indispensável o prequestionamento explícito ou implícito da questão objeto do recurso extraordinário ou especial" (AgInt no REsp 1765907/RS, minha relatoria, Segunda Turma, DJe 28/06/2019).4. Outrossim, "o Superior Tribunal de Justiça aceita o prequestionamento explícito e implícito; contudo, não admite o chamado "prequestionamento ficto", que se daria com a mera oposição de aclaratórios, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgInt no AREsp 1484121/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/06/2020).
+ ..
+6. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.980.457/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022.)
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. PARTICIPAÇÃO EM PROGRAMA DE TELEVISÃO. ACIDENTE. DANOS MATERIAIS E MORAIS. COMPROVAÇÃO. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL A QUO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE ENRIQUECIMENTO SEM CAUSA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS Nº 211 DO STJ E 282 DO STF. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO NCPC. INVIABILIDADE DE ADMISSÃO DO PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). DANO MORAL. QUANTUM. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A ausência de debate no acórdão recorrido quanto as alegações do recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto somente na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não ocorreu no caso dos autos.
+ ..
+5. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.614.911/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/7/2020.)
+Não tendo, portanto, a parte recorrente alegado, no recurso especial, ofensa ao disposto no art. 1.022 do CPC, fica inviabilizada a apreciação do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
