@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONATHAN APARECIDO DE SA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ na Apelação Criminal n. 006041-37.2022.8.16.0148.
+Consta dos autos que o paciente foi condenado como incurso no artigo 33 da Lei 11.343/2006. A pena definitiva se quedou em 05 (cinco) anos e 10 (dez) meses de reclusão, a ser cumprida inicialmente em regime fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Neste habeas corpus, a Defesa busca o reconhecimento da nulidade da prova inicial, com o seu desentranhamento dos autos.
+Sustenta, em apertada síntese, que a parte paciente está submetida a constrangimento ilegal, ao argumento de busca pessoal ilegal praticada pelos policiais que realizaram a prisão em flagrante.
+Alega que as circunstâncias em que ocorreu a apreensão do material invalidam o ato e as provas derivadas como um todo, o que busca desconstituir nesta impetração sob o revolvimento de provas e fatos.
+Explica que não houve provas do arremesso do invólucro além da palavra policial.
+Requer, inclusive liminarmente, a declaração de nulidade e a consequente absolvição. No mérito, a confirmação da liminar, com a ordem definitiva.
+É o relatório. Decido.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Embora a irresignação defensiva, não encontro nenhuma manifestação do Tribunal de origem acerca da nulidade da suposta busca pessoal realizada pelos policiais.
+Sobre a autoria e materialidade, contudo, foi assentado na origem que (fl. 23):
+"A materialidade delitiva, no caso dos autos, está suficientemente demonstrada por meio do Auto de Prisão em Flagrante (mov. 1.4), do auto de exibição e apreensão (mov. 1.12), do boletim de ocorrência (mov. 1.16), do auto de constatação provisória (mov. 1.14), do laudo toxicológico definitivo (mov. 80.9), e pela prova oral produzida em ambas as fases da apuração dos fatos.".
+De qualquer forma, em situação análoga, esta Corte assentou, inclusive recentemente, que:
+"(..) os policiais mencionaram que estavam em patrulhamento de rotina em local já conhecido pelo crime de tráfico de drogas, viram o recorrente segurando uma sacola e este, ao perceber a presença da viatura, empreendeu fuga e dispensou esta sacola. Assim, estas circunstâncias são suficientes para configurar a "fundada suspeita", apta a justificar a abordagem policial em via pública" (AgRg no REsp n. 2.053.392/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023, grifei).
+Portanto, ausente manifestação do Tribunal a quo, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022; e AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Vale ressaltar, ademais, que esta Corte de Justiça já se posicionou no sentido de que, nem sendo a nulidade absoluta, pode ser declarada em supressão de instância (AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023).
+Outrossim, no que atine à questão da validade dos depoimentos policiais em geral, esta Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções e ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada (AgRg nos EDcl no HC n. 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019; AgRg no HC 672.359/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/6/2021; e AREsp 1936393, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 8/11/2022.
+Nesse sentido:
+"O testemunho do policial é suficientemente para comprovar a autoria delitiva, consoante o entendimento predominante neste STJ, ressalvado o ponto de vista pessoal deste Relator" (AgRg no AREsp n. 2.283.182/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/4/2023).
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se. Intime-se.
