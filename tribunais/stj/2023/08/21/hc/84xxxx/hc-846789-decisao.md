@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO HENRIQUE DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1521693-49.2019.8.26.0050), que negou provimento ao apelo defensivo e deu provimento ao recurso ministerial para exasperar a reprimenda do paciente, condenado pela prática do delito de roubo majorado, para 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, além de 21 dias-multa (e-STJ fls. 346/352, sem ementa).
+Neste writ, sustenta a defesa, em primeiro lugar, a nulidade do acórdão ora impugnado, argumentando que, após a prolação da sentença, o Ministério Público teria renunciado ao direito de recorrer, mas, no entanto, efetivamente recorreu e teve seu recurso provido para aplicação sucessiva de causas de aumento na terceira fase, de maneira que se deve "considerar nulo o acórdão do TJ/SP que reformou a sentença para majorar a pena do acusado, pois admitiu recurso manifestamente inadmissível  (e-STJ fl. 5).
+Alega, outrossim, a existência de constrangimento ilegal pelo aumento sucessivo de majorantes na terceira fase sem a devida fundamentação.
+Requer, ao final, o reconhecimento da nulidade apontada para declarar nulo o acórdão impugnado, ou a concessão da ordem para redimensionar a pena do paciente.
+É o relatório.
+Decido.
+Preliminarmente, deve-se asseverar, quanto à nulidade aqui aventada, que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+De toda forma, a análise dos autos não permite a verificação de ilegalidade no ponto, ainda que para fins de concessão da ordem de ofício, uma vez que consta da certidão acostada à e-STJ fl. 251 que "as partes declararam não terem interesse em recorrer da sentença quanto ao réu Fabiano", de maneira que "a sentença  ..  transitou em julgado para o Ministério Público e Defesa em 21 de junho de 2022 apenas em relação ao réu Fabiano" (grifei.)
+No mais, acerca da dosimetria, penso assistir razão à defesa.
+Para delimitar a controvérsia, transcrevo o seguinte excerto do acórdão impugnado (e-STJ fls. 349/351):
+A pena-base foi mantida no mínimo legal de 4 (quatro) anos de reclusão, além do pagamento de 10 (dez) dias-multa.
+Em seguida, na segunda fase da dosimetria, a atenuante da confissão pretendida pelo apelante não é de ser reconhecida, tendo em vista que o Juízo a quo não a utilizou para fundamentar o decreto condenatório, mas outros elementos constantes dos autos, não havendo que se falar, então, em violação à Súmula 545 do STJ.
+Na terceira fase da dosimetria, a pena foi corretamente elevada em 1/3 (um terço) pela incidência da causa de aumento de pena decorrente do concurso de agentes.
+Ainda na última etapa, de rigor o provimento do apelo ministerial para admitir o aumento da pena diante do emprego de arma de fogo, pois se depreende da prova oral que o apelado se valeu de arma de fogo na execução do crime.
+O simples fato de não ter sido a arma apreendida e periciada não é suficiente para afastar a causa de aumento de pena.
+Isto porque sua utilização, como meio de intimidação e constrangimento da vítima, ficou suficientemente comprovada pelo seu relato.
+ ..
+Assim, presentes duas causas de aumento de pena específicas do roubo, relativas ao concurso de agentes e ao emprego de arma de fogo, a pena eleva-se em 1/3 (um terço) e, em seguida, em 2/3 (dois terços), totalizando 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, e pagamento de 21 (vinte e um) dias-multa, calculados no mínimo legal.
+Note-se que, com a supressão do artigo 157, § 2º, inciso I, do Código Penal, a conduta do apelado se amolda tanto na majorante do inciso II, do § 2º, do artigo 157, como na causa de aumento do inciso I, do § 2º-A, do mesmo artigo.
+ ..
+Como se pode verificar, a Lei 13.654/18 alterou o Código Penal e, dentre as modificações, introduziu o § 2º-A ao artigo 157, majorando a reprimenda no patamar fixo de 2/3 (dois terços) quando o crime de roubo envolve o emprego de arma de fogo. Já as causas de aumento previstas no artigo 157, § 2º, do Código Penal, uma vez caracterizadas, autorizam a exasperação da reprimenda de um terço até a metade.
+Com isso, de acordo com o artigo 68, parágrafo único, do Código Penal, a consideração conjunta de causas de aumento previstas na parte especial não é autorizada pelo ordenamento jurídico, devendo ser consideradas em operações individualizadas e sucessivas, em observância ao critério trifásico.
+Neste caso, de acordo com a intenção do legislador, devem ser aplicadas as duas causas de aumento, de modo que o segundo aumento (emprego de arma de fogo) incide sobre a pena já aumentada pela primeira causa (concurso de pessoas).
+ ..  (Grifei.)
+De fato, nos termos da orientação jurisprudencial desta Casa, presentes duas causas de aumento, é possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda, uma vez que o art. 68, parágrafo único, do CP, não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do art. 68, parágrafo único, do Código Penal, a aplicação das causas majorantes e minorantes se dá sem compensação, umas sobres as outras, não sendo admissível a pretendida tese de incidência de única majorante dentre as aplicáveis.
+2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de cinco agentes, correta foi a incidência separada e cumulativa das duas causas de aumento.
+3. Agravo regimental improvido.
+(AgRg no HC 512.001/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/08/2019, DJe de 29/08/2019.)
+Nesse sentido, exige-se apenas que sejam declinados motivos suficientes e idôneos para a aplicação cumulada das majorantes, o que não ocorreu na espécie.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que a instância ordinária não declinou fundamentos concretos e idôneos que evidenciassem, de modo inequívoco, a possibilidade de aplicação cumulada das majorantes referentes ao concurso de pessoas e emprego de arma de fogo, não sendo suficiente para tal mister a mera demonstração da coexistência das duas causas de aumento.
+Revelou-se desproporcional, portanto, a dosimetria realizada na terceira fase do delito de roubo majorado.
+No mesmo sentido, destaco os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique quando da escolha da cumulação das causas de aumento. Portanto, qualquer que seja a solução, ela deve ser fundamentada. Não pode ser automática. Isso porque o Código Penal diz, tanto no parágrafo único do art. 68, como no § 2º do art. 157, "pode o juiz" e "aumenta-se de 1/3 até metade", indicando claramente, que a opção do magistrado há que ser fundamentada, sob pena de se transmutar a discricionariedade permitida com um inaceitável arbítrio próprio do princípio da convicção íntima
+III - In casu, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o cúmulo de causas de aumento foi aplicado sem que houvesse a devida fundamentação, sem remissão às peculiaridades do caso em comento, quais sejam, número de agentes, ou a forma de violência empregada no crime, pois o modus operandi do delito, como narrado, confunde-se com a mera descrição típica das majorantes reconhecidas, não refletindo especial gravidade.
+Agravo regimental desprovido.
+(AgRg no HC n. 722.103/AC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 3/5/2022, DJe de 9/5/2022, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INFIRMADOS. SÚMULA 182/STJ AFASTADA. CONHECIMENTO DO RECURSO. ROUBO. MOMENTO CONSUMATIVO. POSSE DESVIGIADA. POSSE MANSA E PACÍFICA. DESNECESSIDADE. REsp 1.524.450/RJ. MAJORANTES DO CONCURSO DE AGENTE E DO EMPREGO DE ARMA. CÚMULO DE AUMENTOS. POSSIBILIDADE. NECESSIDADE DE FUNDAMENTAÇÃO. ILEGALIDADE CONSTATADA.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, é de ser conhecido o recurso.
+2. A jurisprudência do STJ, ao julgar o REsp n. 1.524.450/RJ, sob o rito dos recursos repetitivos, o qual também é empregado para o roubo, firmou posicionamento no sentido de que "Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada"
+3. Conquanto legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, somente é cabível quando devidamente motivada nas circunstâncias do caso concreto, não bastando o mero concurso de dois agentes e o emprego de arma de fogo sem maiores considerações.
+4. Agravo regimental provido. Parcial provimento ao recurso especial, a fim de reduzir as penas dos recorrentes para 6 anos, 2 meses e 20 dias de reclusão, e 15 dias-multa.
+(AgRg no AREsp n. 1.990.868/TO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/4/2022, DJe de 7/4/2022, grifei.)
+Dessarte, mantidos os demais termos do apenamento, consolido a nova reprimenda do paciente, considerada apenas a majorante quanto ao emprego de arma de fogo, em 6 anos e 8 meses de reclusão, além de 16 dias-multa.
+Ante o exposto, conheço em parte da impetração e, nesta extensão, concedo a ordem, nos termos acima delineados.
+Publique-se. Intimem-se.
