@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ADRIANA FERREIRA ALVES contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial em razão da Súmula n. 182 do STJ (fls. 209-211 ).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fl. 121):
+DIREITO CIVIL. CONTRATOS. PROCESSO CIVIL. AGRAVO DEINSTRUMENTO, AÇÃO DE REVISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANO MATERIAL E MORAL. DECISÃO QUEINDEFERIU A LIMINAR. MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+I - Busca o agravante a reforma da decisão que indeferiu a liminar pleiteada por não restar satisfatoriamente evidenciado os requisitos necessários para a concessão da medida. Para tanto, defende, que restaram configurados os requisitos autorizadores da tutela antecipada, merecendo reforma, uma vez que o magistrado deixou de examinar os pedidos secundários, tais como, substituição dos índices de correção das parcelas de IGPM para IPCA ou INCC, congelamento do saldo devedor, compelir a empresa agravada a não inserir o nome da agravante em cadastro de inadimplente.
+II - No caso dos autos, penso que a Agravante não comprovou o fato constitutivo do seu direito, porquanto, como afirma, já recebeu as chaves do imóvel e o contrato de Compra e Venda traz a cláusula de que após a entrega das chaves do imóvel, as prestações passam a ser cobradas com índice de correção o IGPM e não mais no INCC. Assim, deve prevalecer a norma contratual.
+III - Ademais, pelo que se apura dos autos, a agravante encontra-se inadimplente desde outubro de 2018, representando a quantia de R$31.163,63, débito esse constituído antes da Pandemia.
+IV - No que toca ao pedido de congelamento do saldo devedor, verifica-se que essa matéria ainda não foi analisada pelo magistrado de origem, portanto, vedado seu exame em sede recursal, em observância ao princípio da supressão de instância. Agravo de Instrumento Improvido.
+Sem embargos de declaração.
+Nas razões do agravo interno, alega a agravante que rebateu todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Sustenta, outrossim, a não incidência da Súmula n. 182/STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl. 226).
+É, no essencial, o relatório.
+Assiste razão à agravante quanto à não incidência da Súmula n. 182 do STJ ao caso dos autos. Desse modo, reconsidero a decisão de fls. 209-211.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal, na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir-se eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC), e não violação da norma que diga respeito ao mérito da causa.
+No caso, o Tribunal de origem manteve a decisão do magistrado de primeiro grau por não restar demonstrados os requisitos necessários para a concessão da medida de urgência (fl. 126):
+Busca o agravante a reforma da decisão que indeferiu a liminar pleiteada por não restar satisfatoriamente evidenciado os requisitos necessários para a concessão da medida. Para tanto, defende, que restaram configurados os requisitos autorizadores da tutela antecipada, merecendo reforma, uma vez que o magistrado deixou de examinar os pedidos secundários, tais como, substituição dos índices de correção das parcelas de IGPM para IPCA ou INCC, congelamento do saldo devedor, compelir a empresa agravada a não inserir o nome da agravante em cadastro de inadimplente.
+Sem razão a agravante
+No caso dos autos, penso que a Agravante não demonstrou o fumus boni iuris, porquanto, como afirma, já recebeu as chaves do imóvel e o contrato de Compra e Venda traz a cláusula de que após a entrega das chaves do imóvel, as prestações passaram a ser cobradas com índice de correção o IGPM e não mais no INCC. Assim, deve prevalecer a norma contratual.
+Na hipótese, a concessão do efeito suspensivo poderá causar dano irreparável à parte contrária, ou seja, o dano resultante da concessão da medida poderá ser maior ao que sede seja evitar.
+ ..
+Do mesmo modo, não há comprovação do prejuízo quanto a lesão irreversível alegada pela Agravante, acarretando a suspensão da decisão, em verdade, em um perigo da demora na modalidade reversa.
+Logo, descabe o exame da tese alegada no recurso especial de contrariedade aos arts. 317 e 478 do CC, pois os referidos normativos não estão relacionados aos requisitos de concessão das medidas de urgência, mas sim ao mérito.
+Ademais, a pretensão de alterar o entendimento a que chegou o Tribunal de origem quanto ao preenchimento dos requisitos de concessão da tutela de urgência, demandaria o revolvimento de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula n. 7/STJ.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS DO ART. 300 DO CPC/2015. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica ofensa ao artigo 1.022 do CPC/2015.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal, na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir-se eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015), e não violação à norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela de urgência em relação à sustação do leilão extrajudicial dos imóveis em questão. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.081.545/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+ .. .
+3. Conforme a orientação jurisprudencial adotada por este Superior Tribunal de Justiça, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+3.1.Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC/15) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.904.542/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/11/2021, DJe de 1º/12/2021.)
+Ante o exposto, reconsidero a decisão de fls. 209-211 e conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
