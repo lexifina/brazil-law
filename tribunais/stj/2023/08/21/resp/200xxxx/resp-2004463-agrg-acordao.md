@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência que não conheceu do recurso especial, em razão da preclusão consumativa e do princípio da unicidade recursal, haja vista que contra o mesmo acórdão a parte recorrente apresentou embargos de declaração e, posteriormente, recurso especial.
+Alega o agravante que, apesar de o Tribunal de origem não ter reconhecido a intempestividade dos embargos de declaração, estes foram apresentados fora do prazo legal de 2 dias. Dessa forma, diante da intempestividade, não se operou a interrupção do prazo para outros recursos, haja vista que só terá aptidão para suspensão/interrupção os embargos que sejam conhecidos, independente se providos ou improvidos. Com isso, não se operou a preclusão consumativa e o recurso especial deve ser conhecido.
+No mais, alega que houve violação do art. 61, I, j, do Código Penal, uma vez que deve ser comprovado que o agente se valeu do contexto da pandemia para a prática do delito.
+Ainda, sustenta a necessidade de absolvição em razão da violação do art. 402 do CPP.
+Pugna, ao final, pela retratação da decisão agravada ou sua reforma pelo órgão colegiado, a fim de que o recurso especial seja conhecido e provido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou desprovimento do agravo regimental.
+O agravado apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. TEMPESTIVIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, "Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial" (AgInt no AREsp n. 2.007.185/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+2. Na espécie, em que pesem os argumentos do recorrente quanto à intempestividade dos embargos de declaração opostos na origem, o fato é que eles foram conhecidos e rejeitados e contra o acórdão integrativo é que cabia a interposição do recurso especial. A questão referente à tempestividade não foi sequer suscitada pela defesa perante o Tribunal de origem, carecendo de prequestionamento.
+3. "A jurisprudência dos Tribunais Superiores é pacífica em rechaçar a estratégia processual denominada nulidade de algibeira, a qual ocorre quando a Defesa não alega a existência de vício formal em momento oportuno, quedando-se inerte até que seja verificado, no futuro, que a tese acarretará mais benefícios ao Agente, em explícita ofensa aos princípios da boa-fé processual e da cooperação" (AgRg no HC n. 746.715/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada está assim fundamentada (fl. 453):
+Cuida-se de recurso especial, apresentado por ARNALDO CORREIA BRANDAO, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ARNALDO CORREIA BRANDAO, constata-se que, contra uma mesma decisão, a parte recorrente apresentou embargos de declaração; e, posteriormente, recurso especial.
+Dessa forma, impõe-se o não conhecimento do segundo recurso, no caso, do recurso especial, tendo em vista a preclusão consumativa, bem como o princípio da unicidade recursal. Nesse sentido, EDcl no AgInt no AREsp 1832666/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/03/2022; EDcl no AgInt no REsp 1905229/PR, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 22/03/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Como visto, a decisão agravada foi proferida em consonância com a jurisprudência desta Corte Superior no sentido de que, "Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial" (AgInt no AREsp n. 2.007.185/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Na espécie, em que pesem os argumentos do recorrente quanto à intempestividade dos embargos de declaração opostos na origem, o fato é que eles foram conhecidos e rejeitados e contra o acórdão integrativo é que cabia a interposição do recurso especial.
+Além disso, a matéria referente à tempestividade dos embargos de declaração não foi objeto de análise pelo Tribunal de origem, pois a defesa nem sequer a suscitou, carecendo de prequestionamento. Nesse contexto, incide à espécie a Súmula n. 282/STF, aplicável, por analogia, que assim preleciona: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ressalta-se ainda que "A jurisprudência dos Tribunais Superiores é pacífica em rechaçar a estratégia processual denominada nulidade de algibeira, a qual ocorre quando a Defesa não alega a existência de vício formal em momento oportuno, quedando-se inerte até que seja verificado, no futuro, que a tese acarretará mais benefícios ao Agente, em explícita ofensa aos princípios da boa-fé processual e da cooperação" (AgRg no HC n. 746.715/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023).
+Desse modo, é inviável o conhecimento do recurso especial inteposto posteriormente contra o mesmo acórdão embargado.
+Com isso, conclui-se que o recurso não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão pela qual mantenho a decisão anteriormente proferida e nego provimento ao agravo regimental.
+É o voto.
