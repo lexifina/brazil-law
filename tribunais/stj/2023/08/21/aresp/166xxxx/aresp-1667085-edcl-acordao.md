@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de embargos declaratórios opostos em face do acórdão assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+A parte embargante sustenta que o acórdão é omisso no que se refere à alegação segundo a qual, nas razões de inconformismo contra o julgado estadual, não foi suscitada a violação dos arts. 10, §2º, e 35 da Lei n. 9.656/1998, motivo porque impossível levantar a Súmula n. 83/STJ como óbice ao conhecimento do recurso especial, nesse particular.
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O acórdão embargado não ostenta vício algum, sendo pertinente, no particular, a reprodução dos fundamentos constantes do voto:
+O presente recurso não merece provimento.
+O recurso especial foi interposto contra acórdão assim ementado (e- STJ, fl. 686):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA POR CARÊNCIA CONTRATUAL. GRAVIDEZ ECTÓPICA. NECESSIDADE DE REALIZAÇÃO DE CIRURGIA. SITUAÇÃO EMERGENCIAL. DEVER DE CUSTEIO, INDEPENDENTEMENTE DO CUMPRIMENTO DE CARÊNCIA. PRECEDENTES DO STJ E DESTA CORTE. CONTRATO ANTERIOR À LEI 9.656/98. OPÇÃO DE MIGRAÇÃO PARA PLANO-REFERÊNCIA. NÃO COMPROVAÇÃO. CONTRATO DE ADESÃO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO MANTIDO. PECULIARIDADES DO CASO. SENTENÇA MANTIDA. RECURSOS DESPROVIDOS.
+Opostos embargos de declaração, esses foram parcialmente acolhidos, sem atribuição de efeito infringente, nos termos da seguinte ementa (e-STJ, fl. 758):
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA POR CARÊNCIA CONTRATUAL. GRAVIDEZ ECTÓPICA. NECESSIDADE DE REALIZAÇÃO DE CIRURGIA. CONTRATO ANTERIOR À LEI Nº 9.656/98, QUE RESTA INAPLICÁVEL À CONTROVÉRSIA. AUSÊNCIA DE OBRIGATORIEDADE DE OFERTA DE PLANO REFERÊNCIA PARA USUÁRIOS DE CONTRATOS ANTIGOS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 10, PARÁGRAGO 2º E 35-E DA LEI Nº 9.656/98 PELO SUPREMO TRIBUNAL FEDERAL. POR MEIO DO JULGAMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 1931. APLICAÇÃO, NO ENTANTO, DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVER DE CUSTEIO. PRAZO DE 48 HORAS ESTIPULADO NO CONTRATO PARA ACIDENTES PESSOAIS. URGÊNCIA DE ATENDIMENTO PARA O QUADRO DE GRADIVEZ ECTÓPICA QUE PODE SER EQUIPARADA A ACIDENTE PESSOAL. READEQUAÇÃO DA FUNDAMENTAÇÃO. PREQUESTIONAMENTO. DESNECESSIDADE. ACLARATÓRIOS PARCIALMENTE. ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITO INFRINGENTE.
+Da análise dos autos, verifica-se, portanto, que a parte ora agravante, efetivamente, não combateu o fundamento da decisão de admissibilidade proferida pelo Tribunal de origem relativo à aplicação da Súmula 83 do STJ quanto aos arts. art. 10, § 2º e 35 da Lei 9.656/98, apontados nas razões do recurso especial à fl. 785 (e-STJ).
+Assim, não tendo sido cumprida a exigência do art. 932, III, do Código de Processo Civil/2015, de rigor a aplicação analógica da Súmula 182/STJ.
+Em face do exposto nego provimento ao agravo interno.
+Com efeito, se a Corte de origem erigiu fundamento equivocado à admissão do recurso especial, a parte deveria ter impugnado a incidência desse obstáculo no momento oportuno, nas razões do seu agravo em recurso especial. A parte agravante, entretanto, olvidou tal providência, fazendo incidir as regas do art. 932, III, do CPC, e da Súmula n. 182/STJ. Suscitar essa questão após a interposição do agravo em recurso especial constitui inovação que não se admite em sede de agravo interno.
+Não obstante incidência desses óbices, a matéria concernente ao mérito do recurso especial diz respeito à validade da cláusula contratual que estabelece a limitação de cobertura durante o período de carência, além da caracterização de ato ilícito a ensejar a condenação de indenização por danos morais.
+A parte não impugnou, todavia, em seu recurso especial, o principal fundamento do acórdão estadual - de que a gravidez ectópica (gestação tubária) configura situação emergencial que enseja o dever de cobertura e custeio, independentemente do cumprimento de carência (art. 35-c da Lei n. 9.656/1998). Esse fundamento é suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Ausente a desconstituição da premissa segundo a qual a negativa de cobertura constituiu ilícito contratual, inviável a pretensão de afastar a indenização por danos morais. Além disso, investigar se o ato causou, efetivamente, abalo moral a justificar a imposição de indenização, demandaria a investigação de fatos da causa, providência vedada pela já citada Súmula n. 7/STJ. Deve-se ter em vista que o acórdão estadual firmou a existência, concretamente, de agravamento do quadro de saúde e abalo psicológico que extrapolaram a esfera de meros aborrecimentos (fls. 699/700 e-STJ).
+Assim, não se verifica a presença do vício da omissão, tendo em vista que, no exame do agravo interno, como na decisão antecedente, houve expressa análise da matéria, perceptível pela leitura do trecho destacado acima, voto condutor que obteve o respaldo da Turma Julgadora, que por unanimidade não encontrou a solução buscada pelo embargante.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
