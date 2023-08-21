@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS em face da decisão monocrática que, a par de conhecer do agravo, conheceu e deu parcial provimento ao recurso especial interposto por JOSE ANTONIO LOPES.
+Ação: de responsabilidade obrigacional securitária, ajuizada pelo agravado em face da agravante, fundada em vícios de construção em imóvel adquirido pelo Sistema Financeiro de Habitação (SFH), com adesão ao seguro habitacional obrigatório.
+Sentença: julgou extinto o processo, com resolução do mérito, para declarar a prescrição, nos termos do art. 487, II, do CPC/15.
+Acórdão: negou provimento ao recurso de apelação interposto pelo agravado, nos termos da seguinte ementa:
+SFH. SEGURO. VÍCIOS DE CONSTRUÇÃO. CONTRATO LIQUIDADO. PRESCRIÇÃO. DANOS NÃO COBERTOS PELA APÓLICE.
+1. Assim, uma vez liquidado o contrato de financiamento habitacional, nãohá pagamento de prêmio de seguro, por consequência, não há cobertura securitária. No caso do apelante, consta nos autos que o contrato se encontra inativo desde 28/06/2008 (Evento 1 CONT11)
+2. O prazo prescricional anual do art. 206, §1º, II, "b" do Código Civil aplica-se para as ações do segurado/mutuário contra a seguradora, nos casos em que a ação foi ajuizada quando decorrido mais de um ano da negativa de cobertura por sinistro de invalidez.
+3. Só se pode cogitar em cobertura securitária de houver previsão contratual expressa neste sentido.
+Recurso especial: aponta violação aos arts. 47 e 51 do CDC e 757 do CC, além de dissídio jurisprudencial.
+Sustenta, em síntese, que os vícios de construção estão incluídos na cobertura contratual.
+Decisão monocrática: a par de conhecer do agravo, conheceu e deu parcial ao recurso especial interposto pelo agravado, nos termos da seguinte ementa (e-STJ fl. 958):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. VÍCIOS DE CONSTRUÇÃO. RESPONSABILIDADE CIVIL DA SEGURADORA. BOA-FÉ OBJETIVA E PROTEÇÃO CONTRATUAL DO CONSUMIDOR. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de responsabilidade obrigacional securitária.
+2. Conforme decidido pela Segunda Seção desta Corte, à luz dos parâmetros da boa-fé objetiva e da função social do contrato, os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a conclusão do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua extinção (vício oculto). A exclusão da responsabilidade da seguradora se limita aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, porque configuram a atuação de forças normais sobre o prédio.
+3. Agravo conhecido. Recurso especial conhecido e parcialmente provido.
+Agravo interno: nas razões do presente recurso, a agravante alega, em síntese, a aplicabilidade de óbices referentes à admissibilidade do recurso especial interposto pelo agravado .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. VÍCIOS DE CONSTRUÇÃO. RESPONSABILIDADE CIVIL DA SEGURADORA. BOA-FÉ OBJETIVA E PROTEÇÃO CONTRATUAL DO CONSUMIDOR. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ .
+1. Ação de responsabilidade obrigacional securitária.
+2. Conforme decidido pela Segunda Seção desta Corte, à luz dos parâmetros da boa-fé objetiva e da função social do contrato, os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a conclusão do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua extinção (vício oculto). A exclusão da responsabilidade da seguradora se limita aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, porque configuram a atuação de forças normais sobre o prédio.
+3. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+- Da inaplicabilidade dos óbices alegados
+Não se aplica na hipótese dos autos os óbices das Súmulas 5 e 7, ambas do STJ, tendo em vista que, diferentemente do sustentado pela agravante, a discussão em análise não se refere a reexame de fatos e provas ou de cláusulas contratuais, mas sim à violação a normas infraconstitucionais destinadas a salvaguardar a proteção da segurada do SFH por vícios de construção no imóvel.
+De igual forma, não se aplica o óbice da Súmula 284/STF, tendo em vista a existência de fundamentação adequada no bojo das razões recursais, bem como não se pode arguir a violação dos arts. 300 e 489, ambos do CPC/15, tendo em vista que os referidos dispositivos sequer foram mencionados pela agravante em sede de contrarrazões de recurso especial.
+- Do julgamento por decisão monocrática
+A agravante alega a impossibilidade de julgamento monocrático, em virtude da ausência de precedente vinculante e entendimento pacificado sobre a matéria.
+Contudo, razão não lhe assiste, pois, como já decidido pela Segunda Seção desta Corte, "a jurisprudência do STJ orienta-se no sentido de que o art. 932 do NCPC e a Súmula nº 568 do STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte" (AgInt na Rcl 42.176/SP, Segunda Seção, DJe 16/3/2022).
+Esse é o entendimento de todas as Turmas deste STJ, conforme os seguintes precedentes: AgInt no AREsp 2.021.455/SP, 1ª Turma, DJe 4/5/2022; AgInt no REsp 1.897.534/DF, 1ª Turma, DJe 30/3/2022; AgInt no AgInt no AREsp 1.794.853/RJ, 2ª Turma, DJe 25/10/2021; AgInt no REsp 1.705.857/RS, 2ª Turma , DJe de 23/4/2021; AgInt no AREsp 934.618/PR, 3ª Turma, DJe 18/6/2020; AgInt no AREsp 1.435.896/PE, 3ª Turma, DJe 29/11/2019; AgInt nos EDcl no REsp 1.960.828/SC, 4ª Turma, DJe 19/4/2022; AgInt nos EDcl no REsp 1.960.828/SC, 4ª Turma, DJe 19/4/2022; AgRg no REsp 1468085/PA, 5ª Turma, DJe 20/4/2020; AgRg no REsp n. 1.957.376/PR, 5ª Turma, DJe 25/2/2022; AgRg no REsp n. 1.575.569/SP, 6ª Turma, DJe 10/4/2019; AgRg no RHC 136.854/RJ, 6ª Turma, DJe 15/12/2020.
+- Da Súmula 568/STJ
+Outrossim, não há qualquer equívoco na decisão agravada, tendo em vista que, conforme registrado, a Segunda Seção, no julgamento do REsp 1.804.965/SP (DJe de 1º/6/2020), firmou o entendimento no sentido de que, à luz dos parâmetros da boa-fé objetiva e da função social do contrato, os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a conclusão do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua extinção (vício oculto).
+Como consignado no referido precedente, aliás, "a interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio".
+Acrescente-se que a decisão recorrida determinou o retorno dos autos à origem, a fim de que se verifique a existência dos vícios construtivos alegados, justamente para que se constate a ocorrência ou não de hipótese de cobertura securitária.
+- Da inovação recursal
+Por fim, registra-se que não prospera nesta esfera recursal as alegações da agravante acerca da prescrição da pretensão da parte agravada, por se tratar de inovação recursal, já que não foi oportunamente aventada em sede de contrarrazões ao recurso especial.
+Nessa toada, segundo a jurisprudência do STJ, "fica inviabilizado o conhecimento de matéria suscitada somente no agravo interno, por se tratar de indevida inovação recursal" (AgInt no REsp 1.987.740/TO, Quarta Turma, DJe de 29/6/2022). No mesmo sentido: AgInt no REsp 1.910.603/PR, Terceira Turma, DJe de 16/2/2023; AgInt nos EDcl no REsp 1.983.737/SC, Quarta Turma, DJe de 4/11/2022; e AgInt no AREsp 1.843.514/DF, Terceira Turma, DJe de 29/6/2022.
+Logo, não há qualquer reparo a ser feito na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
