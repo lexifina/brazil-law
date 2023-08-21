@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA agrava de decisão em que concedi parcialmente o habeas corpus, a fim de afastar a valoração negativa das consequências do crime e readequar a pena imposta ao paciente.
+No regimental, o agravante considera desproporcional a redução da pena-base, de 15 anos para 10 anos de reclusão, "em que pese considerar as circunstâncias do delito - o corréu percorreu distância considerável para buscar a droga e trazê-la a Porto Velho, sem muita preocupação em esconder o entorpecente, que foi encontrado na carroceria do veículo -, e a grande quantidade e natureza da droga - foram apreendidos 326,205 kg de cocaína" (fl. 197).
+Afirma, ainda, ser ilegal a aplicação da "atenuante da confissão espontânea - que não foi reconhecida nem pelo juízo sentenciante, nem pelo Tribunal a quo - mesmo sem que o insurgido tenha confessado o crime" (fl. 197).
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que seja restabelecida a reprimenda imposta pelas instâncias ordinárias.
+Decido.
+Pela análise dos autos, observo que o decisum agravado comporta correção parcial.
+Inicialmente, observo que a pena-base havia sido fixada, pelas instâncias ordinárias, em 15 anos de reclusão e 1.500 dias-multa, diante da análise desfavorável dos antecedentes do réu, das circunstâncias e consequências do delito e da quantidade e natureza da droga apreendida.
+Afastada a negativação das consequências do crime, por estar baseada em "argumentos que, por dizerem respeito à gravidade abstrata do delito praticado não são aptos a justificar a majoração da pena-base" (fl. 181), deve ser reduzida a reprimenda de modo proporcional.
+No entanto, como eram quatro vetoriais negativas, o aumento proporcional para cada uma delas correspondia a 2 anos e 6 meses de reclusão e 250 dias-multa.
+Assim, ao considerar insuficientemente motivada a exasperação pelas consequências do delito, a redução deve ser de 2 anos e 6 meses de reclusão e 250 dias-multa a partir da pena-base fixada pelas instâncias ordinárias (15 anos de reclusão e 1.500 dias-multa).
+Desse modo, a redução proporcional da pena-base, nos moldes delineados, corresponde a 12 anos e 6 meses de reclusão e 1.250 dias-multa.
+Ademais, assiste razão ao agravante ao apontar equívoco na aplicação da atenuante da confissão espontânea. A simples leitura da sentença condenatória evidencia que o Juízo singular não reconheceu a referida atenuante em favor de João Luiz Martins Lemos, in verbis (fl. 95): "Na segunda fase, não há agravantes ou atenuantes a serem valoradas".
+Em complemento, vê-se que a defesa não postulou o reconhecimento da confissão ao interpor apelação - "Em razões recursais, a defesa técnica de João Luiz, pugna por sua absolvição pelo crime de tráfico de drogas (2º fato), por insuficiência de provas com fundamento no artigo 386, inciso VII, do Código de Processo Penal" (fl. 98) -, tampouco a atenuante foi aplicada de ofício pela Corte estadual.
+Além disso, a defesa não requereu, na inicial da impetração, o reconhecimento da referida atenuante, tampouco foi constatada a ocorrência de flagrante ilegalidade no ponto, a ensejar a concessão de habeas corpus de ofício. Fica evidenciado, portanto, que houve erro material na nova dosimetria da pena imposta ao paciente, neste particular.
+Logo, deve ser corrigido o cálculo efetuado no decisum de fls. 178-183, com base nos seguintes parâmetros: a) adequação da nova pena-base, com a redução proporcional pelo afastamento da análise negativa das consequências do crime, para 12 anos e 6 meses de reclusão e 1.250 dias-multa; b) desconsideração da redução efetuada a título de confissão espontânea, na segunda fase da dosimetria.
+Diante dessas premissas, a pena-base é fixada em 12 anos e 6 meses de reclusão e 1.250 dias-multa.
+Na segunda fase, não incidem agravantes ou atenuantes, de modo que a reprimenda intermediária fica no mesmo patamar.
+Por fim, ausentes causas de aumento ou diminuição de pena, torno a pena definitiva em 12 anos e 6 meses de reclusão e 1.250 dias-multa.
+À vista do exposto, reconsidero a decisão agravada para corrigir a dosimetria da pena efetuada naquele decisum, diante dos equívocos constatados, e, por conseguinte, readequar a pena imposta ao agravado para 12 anos e 6 meses de reclusão e 1.250 dias-multa.
+Publique-se e intimem-se.
