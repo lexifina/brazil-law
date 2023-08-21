@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (e-STJ fl. 294):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENERICA. SÚMULA 284/STF. DISSIDIO. NÃO CARACTERIZAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões de agravo interno, defende a agravante: (a) está caracterizada violação ao art. 1022 do CPC - "necessidade de enfrentamento de tese capaz de desconstituir o acórdão recorrido"; (b) houve impugnação específica à decisão agravada - "não incidência da Súmula 7 do STJ - omissão comprovada"; (c) há entendimento do STJ acerca da desnecessidade de apresentação de prova material da dependência econômica.
+Sustenta (e-STJ fls. 304-310):
+ ..
+No caso dos autos, conforme se infere da decisão retro, a Relatoria conheceu o Agravo para não conhecer do Recurso Especial interposto, por entender que não houve enfrentamento de todos os argumentos aduzidos na decisão agravada, especificamente, o que concerne a não incidência da Súmula nº 7 do STJ.
+De fato, não se desconhece a consolidada orientação jurisprudencial afirmando que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada. Contudo, em mesmo sentido reconhece esta Corte Superior não ser admissível a omissão sobre os fatores capazes de influir no resultado do julgamento.
+Dito de outra maneira, de fato não incumbe ao relator exaurir toda a fundamentação trazida pela parte recorrente, quando os fundamentos por ele adotados forem suficientes a justificar a conclusão do julgamento. No entanto, tal faculdade não permite que o julgador deixe de apreciar alegação capaz de inverter a conclusão jurídica para o caso em exame.
+ ..
+Nesses casos, considera-se violado o art. 1.022 do CPC quando o Tribunal de segundo grau, instado a se manifestar sobre questão relevante ao deslinde da controvérsia por meio dos competentes e oportunos embargos de declaração, deixa de se pronunciar a respeito. (AgInt no REsp 1923573/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+ ..
+O Eminente Relator alega que não houve demonstração de negativa de prestação jurisdicional ou omissão apta a ensejar a reforma do julgado, eis que o Tribunal apreciou de forma fundamentada a controvérsia, decidindo com base na realidade delineada à luz do suporte fático-probatório, cuja revisão é inviável no âmbito do STJ, diante do óbice estampado na súmula nº 7 do STJ.
+No entanto, no caso, passou despercebido por esta Relatoria que não há no caso que se falar em incidência da súmula nº 7 do STJ, pois o que se pretendeu com o presente recurso especial é ver aplicado a jurisprudência do próprio STJ, afirmando que a dependência econômica prescinde de início de prova material, podendo ser comprovada exclusivamente por prova testemunhal, bem como de que a dependência econômica não precisa se completa ou exclusiva, bastando que sua falta acarrete desequilíbrio nos meios de subsistência dos requerentes, como vem reiteradamente sendo afirmado por esta Corte.
+É esta a tese a ser discutida nos presentes autos, contudo, tal argumento não foi sequer analisado na decisão que ora se impugna, que se limitou a afirmar a impossibilidade de revisitação das provas dos autos, sem entrar na tese em discussão, qual seja, se a dependência econômica prescinde (ou não) de início de prova material, bem como se a dependência econômica precisa (ou não) se completa ou exclusiva.
+ ..
+Assim, não se busca nos presentes autos a revisitação do acervo probatório dos autos, mas sim fazer prevalecer as teses de que a prova exclusivamente testemunhal pode ser utilizada para a comprovação da dependência econômica dos pais em relação aos filhos, com fins de percepção do benefício de pensão por morte, porquanto a legislação previdenciária não exige início de prova material para tal comprovação à época; bem como que a dependência econômica não necessita ser exclusiva, bastando para tanto que a sua falta acarrete desequilíbrio nos meios de subsistência do requerente.
+Tenha-se claro que não pretende a Agravante qualquer juízo de valor, por esta Corte, acerca das provas juntadas aos autos, ao contrário, é sabido a inviabilidade de tal conduta nas instâncias Superiores. O que se busca, tão somente, é que seja determinado o retorno dos autos à origem para que, em consonância com as orientações firmadas por este STJ, seja procedido uma correta e efetiva valoração do conjunto probatório existente, o que, por seu turno, não enseja reexame de prova, vedado pela súmula nº 7 do STJ.
+ ..
+Como já lançado nas razões de Recurso Especial, o Tribunal a quo entendeu que, para fins de recebimento de pensão por morte de filho, se faz necessário a apresentação de prova material da dependência econômica, bem como que esta se dê de forma total e exclusiva.
+Todavia, é cediço que o STJ, na condição de interprete da Lei, firmou entendimento de que, para comprovação da dependência econômica de genitores em relação ao filho para obtenção do benefício de pensão por morte, não se exige início de prova material, podendo ser comprovado por qualquer meio de prova legalmente admitido, inclusive por prova exclusivamente testemunhal. Precedentes.
+Ademais, cumpre salientar que nos termos da jurisprudência dos Tribunais Superiores à dependência econômica significa contribuição às despesas da família, implicando participação no orçamento doméstico, não sendo necessário que a subsistência dependa exclusivamente dos recursos advindos do segurado.
+Sem impugnação (Certidão à e-STJ fl. 316).
+É o relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  APLICABILIDADE  DO  CPC/2015.  NÃO  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  S  182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC/2015, compete à parte agravante, no agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na espécie, a decisão ora agravada conheceu do agravo para não conhecer do recurso especial, em razão dos seguintes fundamentos: (a) Súmula 284 - argumentação genérica de violação do art. 1.022 do CPC; (b) dissídio jurisprudencial não demonstrado - mera transcrição de ementas; (c) ademais, a jurisprudência do STJ consolidou-se no sentido de que, para fins de percepção de pensão por morte, a presunção de dependência econômica trazida no art. 16, § 4º, II, da Lei n. 8.213/1991 é relativa, podendo ser afastada diante da existência de provas em sentido contrário. Nesse contexto, o Tribunal de origem, a quem cabe a análise de provas, concluiu pela não comprovação da dependência econômica da parte recorrente em relação ao de cujos, com apoio no acervo probatório dos autos.
+Feitas essas considerações, de pronto, observa-se que o recurso não merece trânsito.
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante não atacou devidamente os referidos fundamentos, limitando-se a tecer considerações genéricas acerca da violação do art. 1.022 do CPC uma vez que o Tribunal de origem deixou de se manifestar sobre questões importantes para o deslinde da controvérsia e de que houve impugnação específica no sentido de afastamento da Súmula 7 do STJ.
+Desse modo, a falta de impugnação específica contra a decisão da qual se recorre ou a apresentação de razões genéricas ou dissociadas dos seus fundamentos atrai, inevitavelmente, a incidência da Súmula 182 do STJ.
+Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, nos termos do art. 1021, § 1º, do CPC/2015, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+A falta de impugnação específica aos fundamentos da decisão agravada acarreta o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..
+1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+2. Agravo interno não provido, com aplicação de multa.
+(AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 23/5/2018)
+Citem-se, ainda, na parte que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ.  ..
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada, incidindo, portanto, a Súmula 182/STJ.
+ ..
+(AgInt no REsp 1.661.786/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/5/2018)
+PROCESSUAL CIVIL. .. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.  ..
+ ..
+III - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil. IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido. (AgInt no AgInt no AREsp 1.125.405/GO, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 6/4/2018)
+No mais, necessário apontar que não é cabível o enfrentamento de teses de mérito se não suplantado o juízo de inadmissibilidade recursal e, "diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial" (AgRg no AREsp n. 2.032.402/SP, Rel. Min. Laurita Vaz, 6ª Turma, DJe 06/05/2022).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
