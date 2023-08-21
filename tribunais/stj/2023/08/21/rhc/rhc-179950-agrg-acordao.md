@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de Agravo regimental (Petição n. 422.647/2023), tempestivo, interposto por Carlos Eduardo Dias da Conceicao e Lucas Cunha Rodrigues da Fonseca contra decisão da lavra deste relator (fls. 197/199), que negou seguimento ao recurso em habeas corpus, a seguir ementada:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS CIRCUNSTANCIADO (3.385 G DE COCAÍNA E 816,6 G DE CRACK) E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. FUNDAMENTAÇÃO. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. QUANTIDADE DE ENTORPECENTES APREENDIDOS E GRAVIDADE CONCRETA. FUNDAMENTOS IDÔNEOS. ILEGALIDADE MANIFESTA. AUSÊNCIA. PRISÃO MANTIDA.
+Recurso a que se nega seguimento.
+Sustenta-se no recurso, em síntese, ilegalidade manifesta, consistente em deficiência de fundamentação do decreto preventivo; e requer-se, então, o conhecimento e provimento do recurso para que os agravantes sejam postos em liberdade.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS NEGADO SEGUIMENTO. TRÁFICO DE DROGAS CIRCUNSTANCIADO (3.385 G DE COCAÍNA E 816,6 G DE CRACK) E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. FUNDAMENTAÇÃO. QUANTIDADE DE ENTORPECENTES APREENDIDOS E GRAVIDADE CONCRETA. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que negou seguimento ao recurso, pois não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na gravidade concreta do delito, com apreensão de petrechos de traficância e indícios de envolvimento com organização criminosa, além da quantidade de entorpecentes apreendidos (3.385 g de cocaína e 816,6 g de crack).
+2. Agravo regimental improvido.
+VOTO
+Apesar das alegações dos agravantes, a decisão hostilizada deve ser mantida.
+Da análise da decisão que decretou a prisão preventiva - para garantir a ordem pública, pela prática, em tese, dos crimes de tráfico de drogas circunstanciado (3.385 g de cocaína e 816,6 g de crack - fl. 125) e associação para o tráfico, nos Autos n. 0275022-09.2022.8.19.0001 (fls. 180/186) da Vara Criminal da comarca de Araruama/RJ -, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois a prisão cautelar demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando:
+a) a gravidade concreta do delito - as demais circunstâncias acima expostas - incluindo o local da prisão e a apreensão de petrechos para a traficância - configuram veementes indícios de intenso envolvimento com o narcotráfico e inserção dos custodiados em organização criminosa, de modo a demonstrar sua contumácia delitiva (fl. 170); e
+b) a quantidade de entorpecentes apreendidos - 816,60 g de crack, 2.980 g de cocaína em pó e 405,50 g de cocaína em pasta - de natureza extremamente lesiva -, bem como um simulacro de arma de fogo, um veículo, duas balanças de precisão, material para endolação (fl. 182).
+Isso porque, em situações com quantidade de entorpecentes apreendidos em quantidade similar a dos autos, esta Corte Superior entendeu que tal circunstância demonstraria o periculum libertatis. Confira-se: aproximadamente 1,500 kg de cocaína (HC n. 628.430/RO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/3/2021); mais de 2 kg de cocaína (HC n. 632.041/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/3/2021); e aproximadamente 2 kg de cocaína (HC n. 593.942/MS, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020).
+Em razão disso, nego provimento ao agravo regimental.
