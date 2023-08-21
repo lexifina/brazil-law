@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos assim ementados:
+DIREITO TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. CONTRIBUINTE DE FATO. LEGITIMIDADE ATIVA. ICMS NA BASE DE CÁLCULO DO PIS E COFINS.
+1. O consumidor de energia elétrica, como usuário de serviço público prestado sob regime de concessão, na qualidade de contribuinte de fato, detém excepcional legitimidade para postular direta e pessoalmente a restituição de valores que considera ter suportado indevidamente, conforme orientação do STJ.
+2. O ICMS não incide na base de cálculo do PIS e da COFINS, calculadas sobre o consumo de energia elétrica, aplicando-se o mesmo critério fixado pelo STF no tema 69.
+Na origem, trata-se de mandado de segurança impetrado por Auto Posto Tradição Ltda. contra a União objetivando excluir o ICMS) da base de cálculo do PISPASEP e COFINS incidentes sobre as faturas de energia elétrica.
+Na sentença extinguiu-se o feito por ilegitimidade ativa. Tribunal a quo a sentença foi reformada. Esta Corte deu provimento ao recurso especial.
+No recurso especial, a União alega ofensa aos arts. 1º da Lei n. 10.637/2002, 1º da Lei n. 10.833/2003 e 166 do CTN, sustentando, em síntese, que o consumidor final não possui legitimidade ativa para pleitear a exclusão do ICMS da base de cálculo do PIS e da COFINS nas tarifas de energia elétrica.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a ilegitimidade ativa do contribuinte para postular a exclusão do ICMS das bases de cálculo do PIS e da COFINS nas tarifas de energia elétrica."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. é o contribuinte "de fato" - e somente ele - que sofre o encargo financeiro da tributação, tendo seu patrimônio violentado pela imposição fiscal indevida.
+Ora, se assim é, a recusa, pura e simplesmente, da possibilidade de questionar a medida desta imposição renderá ensejo a uma indesmentível iniquidade, estará ele condenado a assistir impassivelmente a redução de seu patrimônio, alimentando a esperança de que aquele que formalmente figura como sujeito passivo da relação jurídico-tributária, eventualmente, encoraje-se a discutir o tributo reconhecidamente indevido, tomando a iniciativa em manejar a medida judicial pertinente. (..)
+.. a mudança jurisprudencial não atribuiu ao solvens, tout court, aquela legitimidade - como conseqüência da sua retirada do contribuinte "de fato". Com efeito, mesmo após esta "releitura" do art. 166 do CTN o contribuinte "de direito" continuaria desprovido desta pertinência subjetiva - justamente por não assumir o encargo financeiro da tributação -, como já o era antes mesmo do advento do CTN, ainda sob o pálio das vetustas Súmulas n. 71 e 546/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ENERGIA ELÉTRICA. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS. ILEGITIMDADE ATIVA. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por Auto Posto Tradição Ltda. contra a União objetivando excluir o ICMS) da base de cálculo do PIS e Cofins incidentes sobre as faturas de energia elétrica.
+II - Na sentença extinguiu-se o feito por ilegitimidade ativa. No Tribunal a quo a sentença foi reformada. Esta Corte deu provimento ao recurso especial para restabelecer a sentença.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os contribuintes de fato, a despeito de suportarem a exação sob a forma de substituição tributária, não detêm legitimidade para ajuizar ações que visem a discutir a exigência fiscal de recolhimento de tributos incidentes sobre o faturamento, como é o caso do PIS e da COFINS. In verbis: (AgInt nos EDcl no REsp n. 1.932.893/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/3/2022, DJe de 5/4/2022 e AgInt no AgInt no REsp n. 1.932.473/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2021, DJe de 10/12/2021.)
+IV - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que os contribuintes de fato, a despeito de suportarem a exação sob a forma de substituição tributária, não detêm legitimidade para ajuizar ações que visem a discutir a exigência fiscal de recolhimento de tributos incidentes sobre o faturamento, como é o caso do PIS e da COFINS. In verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. CONTAS DE ENERGIA ELÉTRICA. ILEGITIMIDADE ATIVA DO CONSUMIDOR ENQUANTO CONTRIBUINTE DE FATO. PRECEDENTE REPRESENTATIVO DA CONTROVÉRSIA. AUSÊNCIA DE IDENTIDADE FÁTICA ENTRE OS CASOS CONFRONTADOS. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO.
+1. A Primeira Seção, no julgamento do REsp n. 903.394/AL, sob a sistemática do art. 543-C do CPC/1973, reajustou seu entendimento para concluir que os contribuintes de fato, a despeito de suportarem a exação sob a forma de substituição tributária, não detêm legitimidade para ajuizar ações que visem a discutir a exigência fiscal de recolhimento de tributos incidentes sobre o faturamento (Finsocial, Pis e Cofins).
+2. O recurso especial não enseja conhecimento no que diz respeito ao dissídio jurisprudencial proposto, pois o REsp n. 1.299.303/SC, apresentado como paradigma, trata da legitimação excepcional do contribuinte de fato para os casos em que "se busca afastar, no tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e não utilizada", o que não se enquadra ao objeto da presente lide.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.932.893/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/3/2022, DJe de 5/4/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. REPETIÇÃO DE INDÉBITO. SUBSTITUIÇÃO TRIBUTÁRIA. ICMS. ARTIGO 166 DO CTN. ILEGITIMIDADE ATIVA AD CAUSAM DO RESPONSÁVEL TRIBUTÁRIO, QUANDO NÃO COMPROVADO QUE SUPORTOU O ENCARGO FINANCEIRO DO TRIBUTO. ENTENDIMENTO JURISPRUDENCIAL PACÍFICO DO STJ.
+1. Discute-se a inclusão do ICMS na base de cálculo do PIS e da Cofins, tema que não divide interesses entre concessionária de energia elétrica e consumidor final.
+2. À luz do art. 166 do Código Tributário Nacional - CTN, o Superior Tribunal de Justiça firmou entendimento jurisprudencial segundo o qual o responsável tributário, recolhedor, em tese, do crédito tributário por substituição processual, só tem legitimidade ativa ad causam para a ação de repetição de indébito, quando comprovar ter pago o tributo. Fora as hipótese do art. 166 do CTN, o responsável tributário não detém legitimidade para pleitear, em nome próprio, a restituição do tributo que recolheu. A respeito: EDcl no AgRg no REsp 1.418.303/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/6/2014; AgRg no REsp 1.418.207/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/5/2014; AgRg no REsp 1.437.789/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/5/2014.
+3. Agravo Interno não provido.
+(AgInt no AgInt no REsp n. 1.932.473/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2021, DJe de 10/12/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
