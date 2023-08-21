@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANTÔNIO ROBERTO DE OLIVEIRA e DAYANA PEREIRA ROSA DE NORONHA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do HC n. 2142552-51.2023.8.26.0000.
+Extrai-se dos autos que o recorrente ANTÔNIO foi condenado, em segunda instância, à pena de 2 anos de reclusão, em regime inicial aberto e ao pagamento de 10 dias-multa, no patamar mínimo legal, como incurso no art. 14, caput, da Lei n. 10.826/2003, restando a sanção privativa de liberdade substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no importe de um salário mínimo. O Juízo das Execuções indeferiu a conversão da pena restritiva de direitos, consistente na prestação de serviços comunitários, para a exclusivamente pecuniária, conforme decisão de fl. 31.
+Irresignada, a defesa, na pessoa da recorrente DAYANA, impetrou habeas corpus perante a Corte de origem, a qual denegou a ordem nos termos da seguinte ementa:
+"PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DA EXECUÇÃO PENAL. SUBSIDIARIAMENTE, SUBSTITUIÇÃO DA PENA DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE PELA PENA PECUNIÁRIA.
+1. Trancamento da execução penal. Matéria deduzida já foi objeto de enfrentamento por esta Colenda 4ª Câmara de Direito Criminal (autos nº 2204100-19.2019.8.26.0000). Pleito não conhecido.
+2. Substituição da reprimenda de prestação de serviços comunitários por pena pecuniária, por meio de habeas corpus, sendo a via inadequada para obter-se apreciação ou apressamento de matérias relativas à execução, cuja análise da pretensão diretamente por este Tribunal configuraria inegável supressão de instância. Ordem parcialmente conhecida e, nesse âmbito de cognição, denegada" (fl. 147).
+No presente recurso, em confusa petição, a defesa sustenta que o porte e a posse de arma de fogo com registro vencido não constitui crime, pois inexiste ofensa ao bem jurídico protegido pelos tipos penais correspondentes no estatuto do desarmamento, que se voltam à tutela da segurança pública por meio do controle do fluxo de armas de fogo no território nacional.
+Alega, ainda, a nulidade do processo, uma vez que o paciente não foi indiciado e não estava no local dos fatos.
+Desse modo, requer:
+"A) A concessão de liminar a fim de que seja trancado o cumprimento da pena do processo originário, proc. n. 0001660-95.2023.8.26.0269 nos moldes pretendidos, e mantida a absolvição do paciente, até a decisão do presente HC no STJ" como sendo de justiça, e como fôra frizado linhas atrás.
+b) Seja acolhido e provido o presente HC determinando a nulidade da pena e exclusão do paciente do processo, que não foi indiciado e nem estava presente no local comentado pelos PMs.. com desclassificação criminal e suspenso/extinto a execução penal, e trancamento da ação executória contra o paciente da execução penal.. remetendo-se os autos para o órgão competente para imposição de multa administrativa  .. .
+c) seja reconhecida a atipicidade que a JP reconheceu praticada pelo paciente e mantida sua absolvição em manutenção do primado do direito e da soberaneidade da justiça" (fl. 180).
+É o relatório.
+Decido.
+Da atenta leitura das peças essenciais a instrução do feito, verifica-se que o Tribunal de Justiça do Estado de São Paulo não conheceu da impetração em razão da impossibilidade de conhecimento da matéria já decidida por aquela Corte em outras ações de impugnação.
+Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus que tenha por objeto matéria já decidida pelo mesmo órgão, sendo vedada a reiteração de pedidos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO SUFICIENTE E IDÔNEA. TERCEIRA FASE. CRIME ÚNICO. RECONHECIMENTO. NECESSIDADE DE REEXAME FÁTICO. INVIABILIDADE NA VIA ELEITA. REGIME DE CUMPRIMENTO DE PENA E SUBSTITUIÇÃO. MATÉRIAS JÁ JULGADAS. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HC nº 503.450/SP. REITERAÇÃO DE PEDIDOS. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias precedentes incrementaram as sanções básicas, de forma fundamentada e com base em elementos concretos extraídos das condutas imputadas ao ora agravante, os quais não se confundem com a estrutura do tipo penal.
+A avaliação dos vetores judiciais está situada no campo da discricionariedade do julgador, não sendo viável, sobretudo em habeas corpus, desconsiderar a valoração negativa das circunstâncias desabonadoras. Precedentes.
+2. Em relação à terceira fase da dosimetria, a modificação do julgado hostilizado a fim de reconhecer a existência de continuidade delitiva, ou seja, a prática de crime único, demandaria, necessariamente, amplo reexame da matéria fático-probatória, procedimento que, a todo evidência, é incompatível com a estreita via do mandamus. Nesse sentido: AgRg no HC 551.668/RS, relator Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 18/3/2020).
+3. Inviável o conhecimento dos pleitos pertinentes ao regime inicial e a substituição considerando que configuram mera reiteração de pedidos já julgados - Embargos de Declaração no Agravo Regimental no Habeas Corpus nº 503.450/SP.
+4. Agravo regimental desprovido.
+(AgRg no HC 534.928/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DA SEGREGAÇÃO CAUTELAR. REITERAÇÃO DE PEDIDO. RECURSO NÃO CONHECIDO. ALEGAÇÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA EM RAZÃO DA PANDEMIA DA COVID-19. IMPOSSIBILIDADE. PACIENTE NÃO INTEGRA GRUPO DE RISCO. PERIGO À ORDEM PÚBLICA GERADO COM SUA LIBERDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - Quanto à alegação de ausência de fundamentação idônea a justificar a sua segregação cautelar, neste ponto, o presente recurso não comporta conhecimento, pois verifica-se que o recurso ordinário em habeas corpus consubstancia mera reiteração de pedido, uma vez que a controvérsia ora suscitada já foi objeto de apreciação, por ocasião do julgamento do RHC n. 125.946/MS, em 4/5/2020, oportunidade em que o recurso ordinário foi desprovido.
+ ..
+Agravo regimental desprovido
+(AgRg no RHC 126.262/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 23/06/2020)
+Desse modo, inviável o conhecimento do recurso em habeas corpus em que as teses arguidas não foram analisadas no acórdão impugnado.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente Recurso em Habeas Corpus.
+Publique-se.
+Intimem-se.
