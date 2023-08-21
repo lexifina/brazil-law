@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIOES SOUZA PEREIRA DE PAULA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação Criminal nº 5488048-75.2021.8.09.0079).
+Consta dos autos que o paciente foi condenado nas sanções do artigo 33, caput, da Lei nº 11.343/2006 e artigo 14, da Lei 10.826/03, c/c artigo 69, do Código Penal, à pena definitiva de 07 (sete) anos e 06 meses de reclusão, a ser cumprida em regime inicial fechado e 560 (quinhentos e sessenta) dias-multa, à base de 1/30 (um trigésimo) do salário-mínimo.
+O impetrante alega, em síntese, a nulidade das provas oriundas do flagrante em razão da busca pessoal e veicular realizada sem fundadas suspeitas e sem autorização judicial, sendo ilícitas as provas delas derivadas.
+Salienta que foi obtida confissão mediante coação empreendida pelos policiais.
+Requer, liminarmente e no mérito, o reconhecimento da nulidade das provas com repercussão na absolvição do paciente.
+É o relatório. DECIDO.
+De fato, embora a segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Verifica-se dos autos, além de não haver prova cabal do alegado, a ausência de juntada do ato judicial questionado - acórdão proferido pelo Tribunal de origem no julgamento de apelação criminal - o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "é dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos" (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+A doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G. ; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Nesse sentido: AgRg no HC 451.403/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018; AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/6/2017; AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2017; e AgInt no HC 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
