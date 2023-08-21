@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/10/2022.
+Concluso ao gabinete em: 10/08/2023.
+Ação: de obrigação de fazer, cumulada com nulidade de cláusula contratual e compensação por danos morais, ajuizada por JOAO GABRIEL GONCALVES PASSINI, em face da agravante na qual requereu internação em clínica para dependentes químicos (Clínica Bonsai), a qual foi recusada pela operadora do plano de saúde.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a ré ao custeio, proporcional ao gasto com clínica da rede credenciada, do tratamento do autor. Após os 30 dias de internação, o custeio deverá seguir em regime de coparticipação, na forma estabelecida em contrato.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO - PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANO MORAL, COM PEDIDO DE TUTELA DE URGÊNCIA - DESPESAS RELATIVAS À INTERNAÇÃO PSIQUIÁTRICADO AUTOR PARA TRATAMENTO DE DEPENDÊNCIA QUÍMICA POR MAIS DE 30 DIAS - INTERNAÇÃO QUE SE DEU EM CLÍNICA NÃO CREDENCIADA - SENTENÇA DE PARCIAL PROCEDÊNCIA- INCONFORMISMO DA REQUERIDA - OBRIGATORIEDADE DE CUSTEIO PELO PLANO DE SAÚDE APENAS NOS CASOS DE URGÊNCIA OU EMERGÊNCIA, OU QUANDO INEXISTENTE NA REDE CREDENCIADA ESTABELECIMENTO HABILITADO PARA O TRATAMENTO DE QUE NECESSITA O BENEFICIÁRIO - URGÊNCIA COMPROVADA NO CASO CONCRETO - AINDA QUE O AUTOR TENHA, VOLUNTARIAMENTE, DADO ENTRADA NA CLÍNICA PSIQUIÁTRICA, OS LAUDOS MÉDICOS JUNTADOS DEMONSTRARAM O CARÁTER DE URGÊNCIA DA INTERNAÇÃO, RAZÃO PELA QUAL A RÉ DEVE ARCAR COMO CUSTEIO, NOS VALORES EQUIVALENTES AO ATENDIMENTO EM SUA REDE - ADEMAIS, É VÁLIDA A CLÁUSULA DE COPARTICIPAÇÃO DE 50% DAS DESPESAS, APÓS O 30º DIA DE INTERNAÇÃO, NOS TERMOS DO TEMA 1032 DO STJ - SENTENÇA MANTIDA - APELO IMPROVIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 12, inciso VI, da Lei 9.656/98 e 1.022, II, do Código de Processo Civil. Assevera a impossibilidade de reembolso integral fora da rede credenciada, uma vez que o plano de saúde contratado prevê regras de reembolso dentro dos limites previstos pela operadora. Aduz que "Não é viável a ampliação da cobertura para abrigar o reembolso integral de honorários pagos a médico/hospital não credenciados, quando há no contrato expressa previsão de reembolso, dentro dos limites contratuais previstos pela operadora." (e-STJ, fls. 336).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do art. 12, VI, da Lei 9.656/98 ("a seguradora poderá reembolsar o beneficiário nos valores equivalentes ao atendimento em sua rede conveniada, nos limites previstos contratualmente", e-STJ, fls. 309/310), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+No entanto, os argumentos invocados pela agravante de que "não é viável a ampliação da cobertura para abrigar o reembolso integral de honorários pagos a médico/hospital não credenciados, quando há no contrato expressa previsão de reembolso, dentro dos limites contratuais previstos pela operadora." (e-STJ, fls. 336), vão ao encontro do disposto na sentença e no acórdão recorrido o qual aduzem que o reembolso deve se dar nos limites previstos contratualmente.
+Dessa forma, as razões do apelo especial encontram-se dissociadas dos fundamentos do acórdão recorrido, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284 do STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, CUMULADA COM NULIDADE DE CLÁUSULA CONTRATUAL E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer, cumulada com nulidade de cláusula contratual e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
