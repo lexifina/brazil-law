@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCUS VINICIUS PEREIRA DA SILVA (MARCUS) contra decisão de minha relatoria assim ementada
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. DESERÇÃO. COMPLEMENTO DAS CUSTAS JUDICIAIS ESTADUAIS EM VALOR INSUFICIENTE. BASE DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE DE VIOLAÇÃO REFLEXA AO ART. 1007, DO NCPC. IMPRESCINDIBILIDADE DA INTERPRETAÇÃO DE LEI ESTADUAL DE CUSTAS. INCIDÊNCIA DA SÚMULA 280 DO STF, POR ANALOGIA. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 440).
+Nas razões do presente inconformismo, defendeu que (1) o comando para complementação das custas deveria ser expresso para utilização do valor atualizado da causa; (2) como o despacho de complementação determinou recolhimento das custas de preparo com base no valor da causa ou, em caso de condenação, do valor desta, gerou dúvida e, portanto, o "justo impedimento" previsto no art. 1.007, § 6º, do NCPC.
+Houve apresentação de contraminuta por ROSA MARIA CAPOBIANCO (ROSA) (e-STJ, fls. 474/480).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. APELAÇÃO. DESERÇÃO. COMPLEMENTO DAS CUSTAS JUDICIAIS ESTADUAIS EM VALOR INSUFICIENTE. BASE DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE DE VIOLAÇÃO REFLEXA DO ART. 1.007 DO NCPC. IMPRESCINDIBILIDADE DA INTERPRETAÇÃO DE LEI ESTADUAL DE CUSTAS. INCIDÊNCIA DA SÚMULA N.º 280 DO STF, POR ANALOGIA. PRECEDENTES. JUSTO IMPEDIMENTO PARA RELEVAÇÃO DA DESERÇÃO. ACÓRDÃO QUE REPELE A ALEGAÇÃO DE ERRO INDUZIDO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão envolvendo a regulamentação sobre a alíquota e base de cálculo do recolhimento do preparo da apelação não comporta apreciação em recurso especial, pois a matéria é relegada pelo legislador federal ao direito local, encontrando óbice na Súmula n.º 280 do STF, por analogia.
+2. Se o Tribunal recorrido, mediante interpretação dos fatos à luz do direito local, afastou o justo impedimento para relevar a deserção, é necessário a revisitação do arcabouço probatório para infirmar suas premissas, providência vedada nesta sede recursal pela Súmula n.º 7 do STJ.
+3. Como o recorrente não demonstra o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial e, em consequência, o acórdão que não conhece por deserta a apelação por insuficiência de preparo mesmo após a intimação para regularização.
+4. Agravo interno não provido.
+VOTO
+Pelo que se infere da moldura fática delineada pelo acórdão recorrido, MARCUS opôs embargos de terceiro visando a excluir da penhora o valor de R$ 160.395,00 (cento e sessenta mil, trezentos e noventa e cinco reais) exatamente o valor dado à causa, e após o julgamento de improcedência com imposição de multa de má-fé e honorários de advogado, interpôs apelação julgada deserta pelo Tribunal porque, após a intimação de fls. 244/245 para complementar o valor do preparo, o valor recolhido de R$ 52,23 (cinquenta e dois reais e vinte e três centavos) fora considerado insuficiente, considerando o valor atualizado da causa (e-STJ, fl. 254).
+Daí, por reputar que o despacho de regularização do preparo tinha comando dúbio, que definia o complemento como 4% do valor atualizado dado à causa ou, em caso de condenação, do valor dessa, insurgiu-se pelo recurso especial, cuja inadmissibilidade foi mantida por decisão singular deste relator.
+Contudo, o recurso não pode prosperar.
+Da alegada violação ao art. 1.007, §§ 2º e 6º, do NCPC
+A fim de defender existência de ofensa ao mencionado dispositivo infraconstitucional que cuida da comprovação do preparo recursal no ato de interposição do recurso (no caso, de apelação) e da pena de deserção, argumentou MARCUS que o despacho de regularização do preparo continha comando dúbio ao definir o respeito ao percentual de 4% do valor atualizado dado à causa ou, em caso de condenação, do valor dessa.
+O Tribunal recorrido, de sua vez, fundamentou a deserção pelo não cumprimento adequado do despacho de regularização do preparo da seguinte maneira:
+Por decisão de fls. 244/245, o embargante foi intimado a complementar o valor do preparo, considerando o valor atualizado dado à causa.
+Isso porque, deve-se observar que o preparo, no caso de apelação, corresponderá a 4% do valor dado à causa ou, em caso de condenação, do valor dessa, observando-se os valores mínimo e máximo de recolhimento.
+Contudo, ao contrário do alegado pelo embargante, deve ser considerado o valor da causa na hipótese de improcedência da ação, caso dos autos, notadamente porque se trata de Ação de Embargos de Terceiro de natureza declaratória e não condenatória
+No mais, em suas razões de apelação o embargante pretende excluir da penhora o valor de R$ 160.395,00 (cento e sessenta mil, trezentos e noventa e cinco centavos) exatamente o valor dado à causa (cfr. fls. 4), a condenação ao pagamento de honorários advocatícios e a multa por litigância de má-fé que foi utilizada como sua base de cálculo para o pagamento do preparo, diga-se, de forma completamente equivocada.
+Desse modo, considerando o valor dado à causa no importe de R$ R$ 160.395,00 (cento e sessenta mil, trezentos e noventa e cinco centavos) ainda que, sem atualização monetária, mantendo-se o valor original, temos a quantia de R$ 6.415,80 (seis mil, quatrocentos e quinze reais e oitenta centavos) é inferior ao valor recolhido de R$ 2.631,42 (dois mil, seiscentos e trinta e um reais e quarenta e dois centavos), complementado com o valor de R$ 52,23 (cinquenta e dois reais e vinte e três centavos), conforme fls. 251, é totalmente insuficiente, devendo, pois, ser mantido o reconhecimento da deserção.
+Registre-se que desnecessária nova intimação para complementação do valor do preparo, porque já realizado nos autos a fls. 244/245, obedecendo ao estatuído no artigo 1007, parágrafo 2º, do Código de Processo Civil, de modo que bastava o embargante atualizar o valor dado à causa para realizar o recolhimento corretamente.
+No mais, todas as razões apresentadas para sustentação do recurso interposto, foram analisadas e resolvidas pela Turma Julgadora, podendo se afirmar, com a devida vênia, que os termos do acordão embargado são claros, inequívocos, nada restando a ser declarado (e-STJ, fls. 366/368 - sem destaque no original).
+Como se vê, a questão principal para o caso era mesmo sobre regulamentação do recolhimento do preparo. E tal matéria, a exemplo do percentual a recolher e da competente base de cálculo de sua incidência, levando-se em conta características do pedido (condenatório ou declaratório), é relegada pelo legislador federal ao direito local.
+Assim, sendo esse o principal material de revolvimento pelo Tribunal a quo, tudo à luz do direito local, verifica-se que era mesmo intransponível o óbice da Súmula n.º 280 do STF, por analogia, segundo a qual por ofensa a direito local não cabe recurso extraordinário.
+Confira-se, nesse sentido:
+AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. 1.AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL, A DESPEITO DE PRÉVIA INTIMAÇÃO PELO TRIBUNAL DE ORIGEM. DESERÇÃO. 2. DIFERIMENTO DE CUSTAS. NORMA DE DIREITO LOCAL. INVIABILIDADE DE EXAME. SÚMULA 280 DO STF. 3.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 4.AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, após constatar a ausência do comprovante de pagamento das custas, determinou a intimação da parte recorrente para regularizar tal situação, nos termos do art. 1.007, § 4º, do CPC/2015, o que não foi feito.
+1.1. A jurisprudência deste Superior Tribunal assevera que é deserto o recurso na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente, aplicando-se a Súmula n. 187/STJ.
+2. Com efeito, em relação ao pedido de diferimento do recolhimento de custas ao final do processo, não merece acolhimento, tendo em vista amparar-se na interpretação da Lei estadual n. 1.608/2003, o que atrai o óbice da Súmula n. 280 do STF, aplicada por analogia.
+3. Conforme dispõe o art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial impõe o não conhecimento do recurso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.141.094/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXERCUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA EXEQUENTE.
+1. Incide a Súmula 187/STJ, devendo ser decretada a deserção do recurso, quando a parte, mesmo regularmente intimada pela instância ordinária para complementar o preparo, não sana o vício ou o faz intempestivamente.
+1.1. No presente caso, mesmo após a intimação da recorrente para sanar o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo, o que impõe a incidência da Súmula 187 do STJ.
+2. É inviável a interposição de recurso especial para exame de lei local, nos termos da Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.001.045/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. CUSTAS. IRREGULARIDADE. DESERÇÃO. SÚMULA Nº 280/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A irregularidade no recolhimento das custas implica deserção do recurso de apelação.
+3. Na hipótese, analisar a questão referente ao preparo da apelação interposta no tribunal de origem impõe a análise de legislação local, o que atrai a incidência da Súmula nº 280/STF. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.846.765/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022 - sem destaque no original)
+(2) Da violação do art. 1.007, § 6º, do NCPC, pela não relevação do justo impedimento
+Aduziu MARCUS que houve justo impedimento por não ter alcançado com êxito o recolhimento correto do preparo, o que o levou à deserção. Para tanto, defendeu que fora o relator quem o induziu em erro ao determinar o recolhimento do preparo "correspondente a 4% do valor atualizado da causa ou, em caso de condenação, do valor dessa".
+Trouxe em seu recurso especial precedentes da própria Corte bandeirante a fim de corroborar sua interpretação dos fatos no sentido de que imposição de multa por litigância de má-fé e honorários de advogado em sentença equivalem a "condenação" (independentemente de o pedido da ação ser condenatório ou declaratório) para servir de base de cálculo, nos termos da Lei Estadual de Custas do Estado de São Paulo, Lei n.º 11.608/2003, art. 4º (vide e-STJ, fls. 293/295).
+Aqui, MARCUS mais uma vez atrai a indicada violação, o óbice da Súmula n.º 280 do STF, que impede conhecer do recurso pela ofensa do direito local que teria sido ofendido ou mal interpretado.
+No caso, o "justo impedimento" a que alude o art. 1.007, § 6º, do NCPC, para relevação da deserção, de todo modo, carecia de precedente interpretação do direito local.
+E, com base no entendimento do Tribunal a quo (e que não poderia ser revolvido), não houve causa para revogar a deserção, pois concluiu a Corte que o pagamento das custas de preparo com base no que MARCUS chamou de condenação (multa de má-fé e honorários de advogado), foi um completo equívoco já que bastava o embargante atualizar o valor dado à causa para realizar o recolhimento corretamente (e-STJ, fls. 367/368).
+Bem por isso, também para afastar a deserção reconhecida com supedâneo no fundamento do justo impedimento, seria mesmo imprescindível a revisitação do conjunto fático-probatório, incidindo a Súmula n.º 7 do STJ.
+Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO, PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+ ..
+3. Para superar as premissas sobre as quais se apoiou a Corte de origem, a fim de afastar o reconhecimento da deserção, seria necessário o revolvimento dos elementos de prova constantes dos autos, hipótese vedada na presente esfera recursal, ante o óbice da Súmula 7/STJ. 4.
+Agravo interno desprovido.
+(AgInt no AREsp n. 1.904.026/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DESERÇÃO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO. POSSIBILIDADE. SÚMULA N. 83/STJ. PRAZO PRESCRICIONAL. REEXAME DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RENÚNCIA DA PRESCRIÇÃO. REEXAME. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA ALEGADA. SÚMULA N. 211/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+5. A revisão das conclusões estaduais (acerca da deserção alegada e do prazo prescricional) demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula n. 7/STJ.
+6. Nos termos da jurisprudência do STJ, a existência de divergência jurisprudencial, em virtude da aplicação da Súmula n. 7/STJ, fica prejudicado o exame do dissídio apontado.
+7. Agravo interno improvido.
+(AgInt no AREsp n. 1.711.126/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO DESERTA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, amparado no acervo fático-probatório dos autos, concluiu pela deserção da Apelação, uma vez que a guia de recolhimento do preparo recursal, juntada aos autos, não foi paga. Assim, alterar o entendimento do acórdão recorrido, demandaria, necessariamente, incursão na seara fático - probatória dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.065.253/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/11/2017, DJe de 10/11/2017 - sem destaque no original)
+Logo, seja pela impossibilidade de análise do justo impedimento alegado à luz do direito local, seja pela necessidade de revolvimento do material de cognição, o que é vedado pelo teor da Súmula n.º 7 do STJ, o recurso também não prospera no ponto.
+Assim, como MARCUS não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial e, em consequência, o acórdão que não conhece por deserta da apelação por insuficiência de preparo mesmo após a intimação para regularização.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
