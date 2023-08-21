@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 545):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DESIGNAÇÃO DE LEILÃO - FIXAÇÃO DE COMISSÃO DO LEILOEIRO - ARREMATAÇÃO DO BEM - ACORDO POSTERIOR - REMUNERAÇÃO DEVIDA.- Deve prevalecer a comissão do leiloeiro fixadas para a hipótese de acordo firmado entre os litigantes, depois de arrematado o bem, mormente quando considerado que o leilão foi por ele realizado fazendo jus à remuneração. (TJMG - Agravo de Instrumento-Cv 1.0000.22.009642-4/002, Relator(a): Des.(a) Shirley Fenzi Bertão, 11ª CÂMARA CÍVEL, julgamento em 08/02/2023, publicação da súmula em 08/02/2023,
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, a recorrente alega violação aos arts. 804 e 884, parágrafo único, do Código de Processo Civil, 7º, §1º, da Resolução 236/2016 do Conselho Nacional de Justiça, 24 e 40 do Decreto nº 21.981/32, asseverando, em síntese, que o leiloeiro não faz jus à comissão em caso de leilão infrutífero e, de acordo entre as partes, mesmo que estipulados pelo juiz ou pelo edital de leilão.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Não prospera o recurso especial.
+A parte alega que que o leiloeiro não faz jus à comissão em caso de leilão infrutífero e de acordo entre as partes, e invoca em seu favor o entendimento do Superior Tribunal de Justiça no sentido de que "O direito subjetivo à comissão exsurge quando efetivamente realizada a hasta ou leilão, com a consequente arrematação do bem, cabendo ao arrematante o dever de efetuar o pagamento da referida remuneração" (REsp 1179087/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 4.11.2013).
+De fato, esta Corte Superior adota o entendimento de que a atividade do leiloeiro pressupõe a existência de risco do negócio, pois, não será em todos casos em que haverá alguém disposto a arrematar o bem penhorado.
+Desse modo, a comissão será devida somente quando houver arrematante, sendo ele, o arrematante, quem deverá efetuar o seu pagamento, de acordo com o que for estabelecido em lei ou arbitrado pelo juiz, nos termos do CPC.
+Ocorre que a parte invoca o referido entendimento jurisprudencial sem que ele tenha, efetivamente, sido relevante para a resolução da causa.
+Não há dúvidas, pelo trecho transcrito da decisão agravada da origem, que o edital do leilão trazia dispositivo prevendo a obrigação de o executado pagar o leiloeiro "comissão de 2% do valor do bem alienado em caso de cancelamento do leilão ou desconstituição da arrematação" (e-STJ, fl. 18), a qual poderia ser, de fato, considerad a abusiva, à luz do entendimento acima demonstrado desta Corte Superior, no sentido de que a comissão será devida ao leiloeiro apenas nas hipóteses de arrematação.
+Na hipótese nos autos, contudo, o que o Tribunal local fez, ao resolver a controvérsia, não foi analisar a validade daqueles dispositivos editalícios, mas, sim, deixar claro que o acordo celebrado pelas partes, após a arrematação do imóvel, não elidiria a remuneração devida ao leiloeiro.
+A propósito, transcrevo a seguinte passagem do acórdão recorrido:
+Verifica-se que a referida legislação confere ao leiloeiro o direito de ressarcimento da atividade desenvolvida mediante o pagamento de comissão e de quantias que tenha sido obrigado a desembolsar.
+Neste cenário, a composição levada a efeito pelos litigantes depois de realizado o leilão não tem o condão de afastar a comissão do leiloeiro, em caso de arrematação, mormente quando considerado todo o trabalho por ele desempenhado, fazendo jus à remuneração.
+(..)
+Em arremate, deve ser mantida fixação de comissão, em caso de acordo levado a efeito pelas partes, depois de efetivada a alienação do bem, repelindo ajuste a decisão atacada.
+Observe-se, portanto, que, embora a parte recorrente atenha-se ao entendimento desta Corte Superior quando do julgamento do REsp 1179087/RJ, alegando que o leilão não teria se realizado, o acórdão recorrido deixa claro que houve, sim, arrematação, razão pela qual é devida a remuneração.
+De acordo com o aludido julgado, inexistente a arrematação, o leiloeiro faz jus somente à percepção das "quantias que tiver desembolsado com anúncios, guarda e conservação do que lhe for entregue para vender, instruindo a ação com os documentos comprobatórios dos pagamentos que houver efetuado, por conta dos comitentes e podendo reter em seu poder algum objeto, que pertença ao devedor, até o seu efetivo embolso".
+Não se trata, contudo, da hipótese dos autos, em que se constata, do acórdão recorrido, que houve arrematação, logo, é devida à remuneração ao leiloeiro.
+Com efeito, a modificação de tal entendimento demandaria o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
