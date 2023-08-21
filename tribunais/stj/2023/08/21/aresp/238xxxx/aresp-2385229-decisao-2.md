@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por FABIANE NONATA MOREIRA PEREIRA contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - TRÊS RECURSOS - ACIDENTE DE TRÂNSITO - CONCESSIONÁRIA DE SERVIÇO PÚBLICO - TRANSPORTE COLETIVO - ÓBITO DE FILHO MENOR DA PARTE AUTORA - PENSÃO DEVIDA - DANO MORAL - INDENIZAÇÃO DEVIDA - FIXAÇÃO DE MONTANTE ADEQUADO PELA SENTENÇA - DENUNCIAÇÃO DA LIDE - CUSTAS E HONORÁRIOS - SEGURADORA QUE NÃO RESISTE À LIDE SECUNDÁRIA - PRIMEIRO E SEGUNDO RECURSOS PARCIALMENTE PROVIDOS E TERCEIRO APELO DESPROVIDO.
+- Em caso de óbito de filho menor, a jurisprudência do STJ é no sentido de que dependência econômica dos pais é presumida, motivo pelo qual devida a pensão por morte pelo agente causador do dano.
+- Ausente comprovação de ganhos efetivos, a pensão devida deve ser fixada em 2/3 do salário mínimo até o momento em que o falecido completaria 25 anos e, a partir daí, reduzida para 1/3 do salário até a idade em que a vítima completaria 65 anos.
+- A constituição de capital, assim como sua eventual substituição pela inclusão do exequente na folha de pagamentos do executado (art. 533, do CPC), configuram técnicas executivas, cuja análise, como regra, deve aguardar o início da fase de cumprimento de sentença.
+- O óbito de ente querido implica em grave ofensa aos interesses existenciais atrelados aos direitos da personalidade e, consequentemente, implica na configuração do dano moral.
+- Deve ser mantido o valor da indenização que além de ser adequado para compensar o dano sofrido pela parte autora, atente ao caráter pedagógico do instituto.
+- É descabida a condenação da seguradora denunciada ao pagamento das custas processuais e honorários advocatícios sucumbenciais, quando ela não oferece qualquer resistência à lide secundária.
+- Primeiro e segundo recursos parcialmente providos e terceira apelação desprovida.
+A parte agravante não opôs embargos de declaração.
+Nas razões de recurso especial, alega a parte agravante, em suma, violação ao artigo 944 do Código Civil.
+Informa que: "O objetivo do referido recurso é a majoração do montante fixado a título de danos morais, com fundamentação no dissídio jurisprudencial, sendo plenamente possível a majoração da indenização sem que haja violação da presente Súmula, principalmente pelo fato do acidente fatal e suas nuances serem completamente incontroversos nos autos, inclusive, confessado pelos RECORRIDOS" (e-STJ, fl. 895).
+Sustenta que: "É inquestionável que a RECORRENTE, mãe da vítima, sofre até os dias atuais severo abalo psicológico e depressão com o evento danoso, uma vez que perdeu tragicamente seu único filho, sua família, sua companhia diária, seu único bem. Toda esta narrativa para confirmar que os fatos acima descritos são incontroversos e confessados nos autos, pelo que não há pedido de reexame de fatos no presente caso, afastada qualquer violação a Súmula 07 do C. STJ conforme já aduzido acima. Todavia, d.m.v, o valor fixado pela juíza de origem a título de danos morais (R$150.000,00) e mantido no v. acórdão não retratou a realidade dos autos e o valor encontra-se bem abaixo do arbitrado pelo C. STJ em casos análogos" (e-STJ, fl. 897).
+Ressalta que: "Há que ressaltar, ainda, devida maxima venia, que por uma simples amostragem aritmética, de 17 anos (idade do falecimento) para a média de vida de 65 anos, fixados no v. acórdão = 48 anos subtraídos de convivência entre a RECORRENTE e seu filho, ou seja, R$ 150.000,00 / 48 = R$ 3.125,00 por ano, podendo- se dizer uma condenação de APENAS R$ 8,56 POR DIA (R$ 3.125,00 / 365 dias), não se mostra razoável e nem condizente com o dano moral irreparável e tragicamente sofrido pela RECORRENTE, tão pouco se mostra PUNITIVO-PEDAGÓGICO para o 1º RECORRIDO de grande porte econômico! Assim, por todo o exposto, viu-se a RECORRENTE na obrigação de interpor o presente RECURSO ESPECIAL, considerando se tratar de questão de justiça, uma vez que o disposto no artigo 944 do CC/02 é específico ao fixar que a indenização mede-se pela extensão do dano, não sendo compatível a decisão Regional" (e-STJ, fl. 897).
+Acrescenta que: "sopesados os elementos dos autos, há clara violação nos autos ao artigo 944 do Código Civil, ao passo que o quantum indenizatório destoa da análise da extensão do dano, que deveria observar a condição social e econômica dos litigantes, a gravidade da lesão e as circunstâncias do caso" (e-STJ, fl. 897).
+Defende que: "o acidente decorreu de defeito mecânico inusitado e inesperado. No mesmo sentido, seguindo orientação do v. aresto, deveria o acórdão recorrido ter se atentado para o fator condição social da Autora a fim de que o montante da indenização não ensejasse o seu enriquecimento ilícito, o que acabou ocorrendo. Desta forma, constata-se flagrante afronta do acórdão ora recorrido às disposições do parágrafo único do Artigo 953 do CC" (e-STJ, fl. 1.015).
+Conclui que: "O desestímulo do ofensor e a exemplaridade para a sociedade além da circunstância do acidente e a forma da morte, de maneira brutal, devem sopesar-se com a fixação do dano. O montante razoável para o STJ situa-se entre trezentos e quinhentos salários-mínimos e será abordado no próximo tópico, sobre a divergência jurisprudencial" (e-STJ, fl. 900).
+Apresentadas contrarrazões (e-STJ fls. 928 - 991), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 996 - 1.001, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+A Corte de origem, após a análise de fatos e provas levados aos autos, concluiu pela razoabilidade e proporcionalidade do valor da indenização em danos morais, fixado em R$ 150.000,00 (cento e cinquenta mil reais), conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fls. 808 - 812):
+A perda de um ente querido afeta diretamente o aspecto existencial da pessoa, repercutindo de forma negativa na personalidade daquele que se encontra privado do convívio com a vítima falecida.
+Inequívoca, assim, a existência do dano existencial merecedor de tutela jurídica sob a roupagem do dano moral.
+A ocorrência do dano não foi seriamente impugnada pela parte ré, ou mesmo pela seguradora denunciante.
+Assim, resta enfrentar a quantificação.
+O artigo 944 do Código Civil informa que, como regra, a indenização mede-se pela extensão do prejuízo causado.
+Inexistem critérios objetivos nessa tarefa.
+Doutrina e jurisprudência acabam se balizado em elementos como a condição econômica da vítima e do ofensor. Buscam, ainda, uma finalidade pedagógica na medida, capaz de evitar a reiteração da conduta socialmente lesiva.
+Vale dizer, à necessidade de compensação deve ser somada, ainda que em caráter residual, o sentido punitivo/pedagógica da indenização.
+Em caso do óbito de ente querido o STJ entende que a indenização em torno de R$ 100.000,00 se afigura adequada. Não é excessiva ou insuficiente, confira-se:
+Assim, não pode ser considerada excessiva quantia indenizatória de R$ 150.000,00, fixada pelo il. magistrado em favor da mãe do falecido.
+Merece destaque o transcurso temporal relativo aos precedentes citados e, ainda, as especificidades trágicas envolvendo o acidente.
+É que o corpo do filho da parte autora ficou prensado contra o muro, sendo necessária a utilização de técnicas de escavação para sua retirada.
+Outrossim, deve ser considerada a função pedagógica do dano moral no tocante à concessionária do serviço público de transporte coletivo urbano.
+A atividade deve ser prestada de forma adequada e segura para usuários e terceiros.
+Não se olvida da alegação da parte ré de que o veículo envolvido no acidente era submetido à revisões periódicas.
+Todavia, um ônibus em excelente estado de conservação, operado por um motorista cauteloso, dificilmente desceria de forma desgovernada uma rua e atingiria, de forma fatal, terceiros.
+Noutro vértice, tampouco se mostra insuficiente o montante fixado.
+Ele se mostra adequado aos padrões jurisprudenciais referidos, até porque o dano moral configura medida de compensação naturalmente imperfeita.
+De pouco adiantaria, para reverter o dano existencial causado, o incremento indenizatório, fora dos parâmetros jurisprudenciais estabelecidos.
+Assim, devem ser desprovidos os pleitos recursais que buscam a alteração do montante indenizatório, seja para reduzi-lo, seja para majorá-lo.
+Quanto ao valor da verba indenizatória por dano moral, o Tribunal de origem fixou o valor de R$ 150.000,00 (cento e cinquenta mil reais), com base nos fatos e provas dos autos. Nesse sentido imperiosa se faz a incidência do enunciado 7 da Súmula do STJ, à pretensão de majoração do respectivo valor, ante a necessidade de reexame de matéria fática probatória.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros). Observo, todavia, que a quantia arbitrada pelo Tribunal Estadual mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não se mostrando desproporcional à lesão, de modo a ensejar sua alteração em grau de recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
