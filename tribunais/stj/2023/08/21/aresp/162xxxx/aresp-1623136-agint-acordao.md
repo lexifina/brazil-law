@@ -1,0 +1,124 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Elizandra Márcia de Souza Berno interpõe agravo interno contra a decisão de fls. 353/356, integrada pelas decisões de fls. 374/376, 419/422, 468/473, 495/501, na qual conheci do agravo para negar provimento ao recurso especial.
+Sustenta que não deveria ter sido proferida decisão singular, no presente caso, em razão da ausência de entendimento dominante da jurisprudência desta Corte ou de súmula acerca do assunto tratado no recurso interposto pela agravante.
+Afirma que não foi enfrentada a questão referente à tutela antecipada, se integra ou não o proveito econômico da demanda, bem como ressalta que não pretende o reexame fático dos autos, de modo que não incide o óbice da Súmula n. 7 do STJ.
+Aduz que, "os honorários em discussão, na forma em que contratados, não ultrapassam o percentual de 30% do proveito econômico da demanda" (fl. 510).
+Intimada para se manifestar acerca da interposição do recurso, o agravado apresentou impugnação, postulando pela manutenção da decisão recorrida e pela aplicação da multa prevista no § 4º do art. 1.021 do Código de Processo Civil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. MULTA APLICADA POR EMBARGOS PROTELATÓRIOS. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO.
+1. "O prévio recolhimento das multas processuais impostas com base no art. 1026, § 2º, do NCPC é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal" (AgInt nos EDcl nos EDcl na Rcl n. 41.595/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14.9.2021, DJe de 17.9.2021).
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não merece prosperar.
+Transcrevo os fundamentos da decisão agravada (fls. 495/501):
+Elizandra Márcia de Souza Berno opõe, novamente, embargos de declaração contra a decisão de fls. 468/473, na qual rejeitei os embargos de declaração, nos seguintes termos:
+Elizandra Márcia de Souza Berno opõe embargos de declaração novamente contra a decisão de fls. 353/356, integrada pelas decisões de fls. 374/376 e 419/422, na qual neguei provimento ao agravo em recurso especial, nos seguintes termos:
+Em virtude das razões expostas na petição de fls. 331/341, reconsidero a decisão (e-STJ, fls. 309/310) proferida pela Presidência do Superior Tribunal de Justiça, que negou seguimento ao agravo interposto por ELIZANDRA MARCIA DE SOUZA BERNO com fundamento na ausência de impugnação específica, razão pela qual passo a examinar o recurso especial interposto em face de acórdão assim ementado:
+HONORÁRIOS ADVOCATÍCIOS Contrato de prestação de serviços advocatícios Cláusula reputada como abusiva, fixando remuneração ao advogado de 30% sobre o benefício econômico obtido pelo cliente durante todo o trâmite da demanda Remuneração pactuada na modalidade quota litis Redução para limitar o período devido - Montante adequado para bem remunerar o patrono Observância ao princípio da boa fé contratual e em conformidade com o Código de Ética e Disciplina da OAB Precedentes Dano moral não caracterizado - Honorários advocatícios contratuais Sem participação da parte contrária no negócio Impedimento à ingerência sobre o valor pago em contraprestação dos serviços prestados Falta de razoabilidade para atribuição da obrigação de reembolso Ademais, sentido e alcance da expressão honorários de advogado contida nos artigos 395 e 404 do Código Civil já relevado pelo Superior Tribunal de Justiça Descabimento de reembolso quando judicializada a questão - Sentença mantida.
+Recursos não providos.
+Nas razões do especial, aponta a parte agravante, além de dissídio jurisprudencial, violação ao art. 104 do Código Civil ao alegar ausência de abusividade na cobrança do percentual de 30% (trinta por cento) a título de honorários quota litis ante o êxito em ação previdenciária, sustentando ser devido o pagamento devido até o trânsito em julgado da sentença.
+Assim delimitada a controvérsia, passo a decidir.
+O TJSP, ao manter a sentença, considerou abusiva a cláusula contratual que fixa a remuneração do advogado em 30% sobre o benefício econômico obtido pelo cliente durante todo o trâmite da demanda, bem como que a referida pactuação viola a boa fé contratual.
+Segue trechos do acórdão recorrido (e-STJ, fls. 197/199):
+A magistrada houve por bem, reputar abusiva a cláusula contratual nos moldes pactuados, entendendo razoável a remuneração limitada ao período entre a DER (data do requerimento administrativo) e a implantação do benefício na seara administrativa.
+Como bem observado pela magistrada, manter a contratação nos moldes firmados seria o mesmo que reconhecer a existência de sociedade entre cliente e advogado, uma vez que estampa prazo indeterminado, se tratando de condição e não termo, diante da imprevisibilidade de sua ocorrência, o que evidentemente é desarrazoado e abusivo, violando o princípio da boa fé contratual.
+(..)
+É bem verdade que a avença foi firmada por pessoas capazes de entender os termos da contratação, já que todos os termos da contratação e da negociação estão redigidas de forma específica.
+Porém, deve-se aqui respeitar o princípio da boa-fé, sendo que a contratação na modalidade quota litis não pode impor ao contratante obrigação extremamente onerosa e prejudicial, sendo de rigor sua redução para patamar razoável conforme determinado pelo MM. Juízo a quo.
+De acordo com o disposto no artigo 38 do Código de Ética e Disciplina da OAB, também é vedada a fixação de vantagem maior ao advogado que ao seu constituinte.
+Há notícia que, desde 2014 o processo aguarda o julgamento em segunda instância, sem qualquer previsão.
+Assim, tal como a magistrada, entendo que, respeitado o percentual de 30%, os honorários devem incidir sobre as parcelas em atraso até a implantação do benefício, ou seja, da DER (data do requerimento administrativo) até a implantação do benefício por força da tutela antecipada, nos termos igualmente previstos no contrato, tendo em vista, a ausência de termo final para incidência do percentual incidente sobre os valores recebidos mensalmente em decorrência da antecipação dos efeitos da tutela.
+A adoção de entendimento diverso desta Corte demandaria revisão de cláusulas contratual, bem como do contexto fático-probatório dos autos, o que é vedado a teor das Súmulas 5 e 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. LOCAÇÃO. CERCEAMENTO DE DEFESA. CLÁUSULA CONTRATUAL. ABUSIVIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, amparado no acervo fático - probatório dos autos, e na análise do contrato entabulado entre as partes, concluiu pela ausência de cerceamento de defesa; pela caracterização da abusividade das cláusulas impugnadas pela parte, em razão da onerosidade excessiva, a ensejar a rescisão contratual; e pelo direito ao ressarcimento de valores relativos a res sperata e a instalação da loja. Nesse contexto, qualquer conclusão em sentido contrário ao que foi decidido pelo Colegiado local demandaria, necessariamente, interpretação de cláusulas contratuais, bem como novo exame do conjunto fático-probatório acostado aos autos, providências incompatíveis com a via estreita do recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ, o que impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1349347/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, Julgado em 17.12.2019, Dje 4.2.2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. INOVAÇÃO. IMPOSSIBILIDADE. REPRESENTAÇÃO COMERCIAL. AÇÃO DE COBRANÇA. DIFERENÇAS DE COMISSÕES. CONTRATO CELEBRADO ANTERIORMENTE À VIGÊNCIA DA LEI 8.420/1992. PRESCRIÇÃO VINTENÁRIA. QUITAÇÃO TÁCITA. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ. ALTERAÇÃO UNILATERAL DO CONTRATO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULAS 7 E 83/STJ.
+1. Não há ofensa ao art. 535 do Código de Processo Civil de 1973 quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir vício algum ao acórdão somente porque decidiu em sentido contrário à pretensão da recorrente.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. É defeso suscitar argumentos não lançados nas razões ou contrarrazões ao recurso especial.
+4. O contrato de representação comercial celebrado na vigência da Lei 4.886/1965 está sujeito ao prazo prescricional vintenário, que somente sofreu redução para cinco anos com a edição da Lei 8.420/1992, cujos efeitos não podem retroagir.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+6. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, a Súmula 83/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1371836/SC, desta relatoria, QUARTA TURMA, Julgado em 4.5.2020, Dje 6.5.2020)
+Destaco, ademais, que a aplicação do óbice descrito na Súmula 7/STJ prejudica o exame do dissídio jurisprudencial quanto ao ponto. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..  4. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional. Precedentes do STJ.
+5. Agravo não provido.
+(AgInt no AREsp 887.748/RS, Rel. Ministro NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21.8.2018, DJe 23.8.2018)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo e os benefícios da gratuidade judiciária.
+Intimem-se.
+Sustenta que a decisão embargada padece de obscuridade interna "visto que NÃO apontou qual a jurisprudência consolidada e/ou entendimento dominante e/ou tese fixada em julgamento de recurso repetitivo ou de repercussão geral e/ou súmula/tema aplicáveis" (fl. 426), ao presente caso.
+Alega que a decisão recorrida não se manifestou sobre a questão "exclusivamente de direito, acerca do instituto da tutela antecipada integrar ou não o proveito econômico da demanda" (fl. 427).
+Argumenta que "não existe abusividade alguma na cobrança da verba honorária contratual tal como praticada no caso sob exame, pois se os honorários não fossem pagos mensal e proporcionalmente (30%) considerados os valores percebidos pelo cliente a título de tutela antecipada até o trânsito em julgado, o seriam de uma só vez e em igual percentual (30%) após o trânsito em julgado, tendo por base de cálculo o valor do proveito econômico, como é a prática geral da advocacia" (fl. 428).
+A parte contrária não apresentou impugnação.
+Assim posta a questão, passo a decidir.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teor do art. 1.022 do CPC/2015, adstrito à correção de omissão, obscuridade, contradição ou erro material.
+Conforme destacado na decisão recorrida, o Tribunal de origem considerou abusiva a cláusula contratual que determinava a remuneração do advogado sobre o benefício econômico obtido durante todo o trâmite da demanda, limitando-o ao período entre a DER (data do requerimento administrativo) e a implantação do benefício na seara administrativa.
+A referida decisão acrescentou que a incidência da remuneração do advogado até o trânsito em julgado da demanda foi afastada pela Corte local por ser "obrigação extremamente onerosa e prejudicial", conforme se extrai dos seguintes trechos do julgado estadual (fls. 198/199):
+(..)
+É bem verdade que a avença foi firmada por pessoas capazes de entender os termos da contratação, já que todos os termos da contratação e da negociação estão redigido s de forma específica.
+Porém, deve-se aqui respeitar o princípio da boa-fé, sendo que a contratação na modalidade quota litis não pode impor ao contratante obrigação extremamente onerosa e prejudicial, sendo de rigor sua redução para patamar razoável conforme determinado pelo MM. Juízo a quo.
+De acordo com o disposto no artigo 38 do Código de advogado que ao seu constituinte. Há notícia que, desde 2014 o processo aguarda o julgamento em segunda instância, sem qualquer previsão.
+Assim, tal como a magistrada, entendo que, respeitado o percentual de 30%, os honorários devem incidir sobre as parcelas em atraso até a implantação do benefício, ou seja, da DER (data do requerimento administrativo) até a implantação do benefício por força da tutela antecipada, nos termos igualmente previstos no contrato, tendo em vista, a ausência de termo final para incidência do percentual incidente sobre os valores recebidos mensalmente em decorrência da antecipação dos efeitos da tutela.
+(..) (destaquei)
+Destacou-se, ademais, que rever as conclusões da Corte estadual no tocante à remuneração do advogado, demandaria o reexame fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Registro, por outro lado, que esta Corte já decidiu que o art. 932 do Código de Processo Civil e a Súmula n. 568 do STJ, permitem ao relator julgar por decisão singular recurso inadmissível ou, ainda, em confronto com a jurisprudência consolidada deste Tribunal, além de reconhecer que não há risco de ofensa ao princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROMESSA DE COMPRA E VENDA. COOPERATIVA. ATRASO NA CONSTRUÇÃO DO IMÓVEL. RESCISÃO. DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ. AUSÊNCIA DE NULIDADE. OMISSÃO. INEXISTÊNCIA. INCORPORADORA E CONSTRUTORA. RESPONSABILIDADE SOLIDÁRIA. SÚMULA N. 83/STJ.PRESCRIÇÃO. ESTATUTO DA COOPERATIVA. REEXAME. SÚMULA N. 5/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "A jurisprudência deste STJ, a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplica a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 26/03/2019, DJe de 29/03/2019).
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do Código de Processo Civil de 2015.
+3. Ausente circunstância excludente da responsabilidade, o atraso na entrega do imóvel objeto do contrato de incorporação enseja o dever de indenizar, solidariamente, tanto da incorporadora quanto da construtora  (REsp 1881806/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/05/2021, DJe 07/05/2021).
+4. No caso, o Tribunal de origem afastou a alegação de prescrição da demanda, por entender que o termo a quo, como indicativo da actio nata, não era a data de assinatura do termo de demissão do cooperado, mas sim a data da liquidação do crédito a ser-lhe pago pelas rés, na forma do art. 25 do Estatuto Social da Cooperativa ré.
+A reforma desse entendimento demandaria o reexame do referido estatuto, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 5 deste Pretório.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.050.086/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8.8.2022, DJe de 26.8.2022.)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+Sustenta a embargante que foi "expressamente requerido nos embargos de declaração de fls. 424-430 que fosse sanada a obscuridade existente na decisão anterior, ante o fato de não ter sido apontada qual a jurisprudência consolidada e/ou entendimento dominante e/ou tese fixada em julgamento de recurso repetitivo ou de repercussão geral e/ou súmula/tema aplicáveis a ensejar o julgamento do Recurso Especial por decisão monocrática" (fl. 479), o que não ocorreu.
+Afirma que, não sendo sanada a obscuridade relatada, é vedado o julgamento do recurso especial por meio de decisão singular.
+Alega que houve flagrante negativa de prestação jurisdicional, uma vez que desde a instância de origem até a presente instância não houve pronunciamento acerca do instituto jurídico da tutela antecipada, se integra ou não o proveito econômico da demanda.
+Assim posta a questão, passo a decidir.
+Inicialmente, não verifico na decisão embargada os vícios previstos no art. 1.022, I, II e III, do Código de Processo Civil, quais sejam, omissão, obscuridade, contradição ou erro material.
+Conforme destacado anteriormente, a Corte local considerou abusiva a cláusula contratual que determinava a remuneração do advogado sobre o benefício econômico obtido durante todo o trâmite da demanda, limitando-o ao período entre a DER (data do requerimento administrativo) e a implantação do benefício na seara administrativa.
+A decisão recorrida acrescentou, ainda, que a incidência da remuneração do advogado até o trânsito em julgado da demanda foi afastada pelo Tribunal de origem por ser "obrigação extremamente onerosa e prejudicial", conforme se extrai dos seguintes trechos do julgado estadual (fls. 198/199):
+(..)
+É bem verdade que a avença foi firmada por pessoas capazes de entender os termos da contratação, já que todos os termos da contratação e da negociação estão redigidos de forma específica.
+Porém, deve-se aqui respeitar o princípio da boa-fé, sendo que a contratação na modalidade quota litis não pode impor ao contratante obrigação extremamente onerosa e prejudicial, sendo de rigor sua redução para patamar razoável conforme determinado pelo MM. Juízo a quo.
+De acordo com o disposto no artigo 38 do Código de advogado que ao seu constituinte. Há notícia que, desde 2014 o processo aguarda o julgamento em segunda instância, sem qualquer previsão.
+Assim, tal como a magistrada, entendo que, respeitado o percentual de 30%, os honorários devem incidir sobre as parcelas em atraso até a implantação do benefício, ou seja, da DER (data do requerimento administrativo) até a implantação do benefício por força da tutela antecipada, nos termos igualmente previstos no contrato, tendo em vista, a ausência de termo final para incidência do percentual incidente sobre os valores recebidos mensalmente em decorrência da antecipação dos efeitos da tutela.
+(..)
+Destacou-se, ademais, que rever as conclusões da Corte estadual no tocante à remuneração do advogado demandaria o reexame fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Por fim, a decisão recorrida ressaltou que esta Corte já decidiu que o art. 932 do Código de Processo Civil e a Súmula n. 568 do STJ permitem ao relator julgar por decisão singular recurso inadmissível, caso dos autos, ou, ainda, em confronto com a jurisprudência consolidada deste Tribunal.
+Considerando que o presente recurso reitera alegação já rejeitada anteriormente, não se ajustando a nenhuma das hipóteses legais que amparam a oposição de embargos de declaração, fica evidente o propósito protelatório da embargante, pelo que é de rigor a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil, no valor de 1% (um por cento) sobre o valor atualizado da causa.
+Em face do exposto, rejeito os embargos de declaração, com a aplicação de multa, nos termos acima.
+Intimem-se.
+Conforme visto acima, a decisão, ora agravada, rejeitou os embargos de declaração opostos pela agravante com a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Com efeito, destaco que o prévio recolhimento da referida multa é pressuposto objetivo de admissibilidade de qualquer recurso, de modo que não se conhece desse meio de impugnação sem o pagamento da referida penalidade, como ocorreu no caso. Nesse sentido, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. MULTA DO ART. 1.026, § 2º, DO CPC/2015 APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA
+1. O prévio recolhimento das multas processuais impostas com base no art. 1026, § 2º, do NCPC é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal. Precedentes do STJ.
+2. A ausência do comprovante do depósito da mencionada multa implica o não conhecimento do recurso.
+3. AGRAVO INTERNO NÃO CONHECIDO.
+(AgInt nos EDcl nos EDcl na Rcl n. 41.595/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14.9.2021, DJe de 17.9.2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. MULTA DO ART. 1.026, § 2º, DO CPC/2015 APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA
+1. O prévio recolhimento das multas processuais impostas com base no art. 1026, § 2º, do NCPC é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal. Precedentes do STJ.
+2. A ausência do comprovante do depósito da mencionada multa implica o não conhecimento do recurso.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl nos EDcl na Rcl n. 39.885/DF, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 1º.12.2020, DJe de 3.12.2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. MULTA DO ART. 1.026, § 2º, DO CPC/2015 APLICADA. RECOLHIMENTO PRÉVIO. AUSÊNCIA. REQUISITO DE ADMISSIBILIDADE PARA INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO.
+1. O recolhimento prévio da multa imposta com base no art. 1.026, § 2º, do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal. Precedentes.
+2. Ausente o depósito prévio do valor da multa aplicada, correta a decisão que não conheceu dos embargos de divergência.
+3. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.879.387/RS, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 25.10.2022, DJe de 11.11.2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MULTA. RECURSO PROTELATÓRIO. NÃO PAGAMENTO. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Inviável o conhecimento de recurso que não obedece os termos do § 3º do art. 1.026 do CPC/2015 quanto ao pagamento da multa.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl nos EDcl no AREsp n. 1.221.740/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17.9.2018, DJe de 21.9.2018)
+Em face do exposto, não conheço do agravo interno.
+É como voto.
