@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por MIGUEL FELIPE JOÃO e FELIPE AUGUSTO JOÃO, em face de decisão monocrática de lavra deste signatário (fls. 533/536, e-STJ), que conheceu do agravo para não conhecer do recurso especial dos insurgentes.
+O apelo nobre (art. 105, III, alínea "a", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 428, e-STJ):
+APELAÇÃO CÍVEL - PRELIMINAR DE COISA JULGADA - NECESSIDADE DE COMPROVAÇÃO DE IDENTIDADE ENTRE AS CAUSAS - REJEIÇÃO. AÇÃO DE REINTEGRAÇÃO DE POSSE - AUSÊNCIA DOS REQUISTIOS - INEXISTÊNCIA DE PROVA DA POSSE. RECURSO PROVIDO. - Para que seja caracterizada a coisa julgada é imprescindível a devida  comprovação de identidade entre as causas em questão, com a duplicidade nos feitos de todos os elementos que integram a demanda, quais sejam, as partes, causas de pedir e pedidos. - Deve ser julgado improcedente o pleito de reintegração de posse se os autores não comprovam posse anterior sobre o imóvel objeto da lide.
+Embargos de declaração rejeitados (fls. 458/463, e-STJ).
+Nas razões do recurso especial (fls. 466/483, e-STJ), os agravantes apontaram ofensa aos artigos 489, 561 e 1.022 do CPC e 1.196 do CC, sustentando, em suma: (a) negativa de prestação jurisdicional por erro na valoração das provas que demonstram a posse; (b) que comprovaram o direito à reintegração da posse esbulhada por terceiro.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 491/493, e-STJ), dando ensejo à interposição de agravo (fls. 496/519, e-STJ), por meio do qual os agravantes pretenderam a reforma da decisão impugnada e o processamento do apelo.
+Em decisão monocrática (fls. 533/536, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante a ausência de negativa de prestação jurisdicional, bem como pela aplicação da Súmula 7 do STJ.
+Daí o presente agravo interno (fls. 540/554, e-STJ), no qual os agravantes insurgem-se contra a incidência da Súmula 7 do STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REITEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DOS DEMANDANTES.
+1. Rever o entendimento do Tribunal local acerca da ausência dos requisitos necessários à reintegração de posse demandaria o reexame do contexto fático e probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelos agravantes são incapazes de infirmar a decisão objurgada.
+1. Quanto à questão acerca da negativa de prestação jurisdicional, em virtude da ausência de irresignação das partes, fica preclusa a análise da matéria.
+2. Outrossim, de rigor a incidência da Súmula 7 do STJ.
+Conforme constou da decisão agravada, o Tribunal de origem, com amparo no acervo fático e probatório dos autos, concluiu pela ausência dos requisitos necessários à reintegração de posse.
+No ponto, constou do acórdão recorrido (fls. 435/436, e-STJ):
+Na sentença recorrida, o juízo a quo concluiu que a prova testemunhal produzida pelos apelados foi suficiente para comprovar sua posse anterior, insurgindo-se a apelante quanto a este ponto.
+A prova testemunhal é suficiente para comprovar a posse anterior, desde que seja possível extrair dela informação segura a este respeito.
+E pela leitura atenta dos depoimentos das testemunhas, no caso em comento, não foi possível concluir, com segurança, que os recorridos exerciam a posse sobre a faixa de terra em litígio quando fora colocada ali a cerca pela recorrente.
+O depoente José Wilson Gomes afirma não saber dizer quem e para que era usada a faixa de terra que existia entre a rua e a nova cerca e que apenas se recorda dos autores fazendo manutenção na antiga cerca quando o depoente ainda era criança, não sabendo dizer quem dava manutenção na área sob litígio antes da construção da cerca (f. 73)
+No mesmo sentido o teor do depoimento de Jurandir Machado Dias, tendo afirmado que não sabe dizer quem e para que era usada a faixa de terra existente entre a rua e a nova cerca (f. 74).
+Já a testemunha Luis Carlos Machado relata que faz 25 anos que utiliza a área como passagem para o seu trabalho e que a área em litígio sempre foi usada pelos autores como via de acesso à propriedade deles.
+Assim, ao contrário do que afirmado pelo douto Juízo de primeiro grau, a meu ver, os depoimentos prestados pelas testemunhas ouvidas durante a instrução do processo, mostram-se conflitantes entre si, não sendo possível, de sua análise conjunta, estabelecer conclusão a respeito do atendimento dos requisitos atinentes à proteção possessória demandada pelos autores.
+Logo, não tendo os apelados se desincumbido do ônus de provar os requisitos ensejadores da reintegração de posse, não há que se conceder a proteção possessória pretendida.
+Nesse contexto, a modificação das premissas fáticas consignadas no acórdão recorrido demandaria o revolvimento das provas dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+Destaca-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DOS REQUISITOS AUTORIZADORES PARA O AJUIZAMENTO DA DEMANDA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. VIOLAÇÃO A DISPOSITIVOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO. 1. Ausência de prequestionamento de artigos de lei tidos por violados. Súmula 211/STJ. 2. A revisão das conclusões estaduais - acerca da ausência de preenchimento dos requisitos autorizadores para ajuizamento da ação de reintegração de posse - demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ. 3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial. 4. Razões recursais insuficientes para a revisão do julgado. 5. Agravo interno desprovido. (AgInt no AREsp 1137466/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/10/2017, DJe 06/11/2017)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. REQUISITOS DO ART. 927 DO CPC. AUSÊNCIA DE COMPROVAÇÃO DA POSSE ANTERIOR E DO ESBULHO. SÚMULA 7/STJ. RECURSO NÃO PROVIDO. 1. A procedência do pedido de reintegração de posse pressupõe a prova do preenchimento dos requisitos do art. 927 do CPC. 2. O Tribunal de origem, mediante análise do contexto fático-probatório dos autos, entendeu não estarem presentes nos autos elementos que comprovem a posse anterior do recorrente e o esbulho alegado. 3. A modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, no sentido de estarem demonstrados todos os requisitos do art. 927 do CPC, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça. 4. Agravo regimental não provido. (AgRg no AREsp 41.433/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/03/2015, DJe 23/04/2015)
+Incide, portanto, o teor da Súmula 7 do STJ, devendo ser mantida a decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
