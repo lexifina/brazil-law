@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ESTIVERSON RODRIGO MARTINS DA SILVA agrava da decisão de fls. 106-108, em que a Presidência do Superior Tribunal de Justiça indeferiu liminarmente o habeas corpus, dada a ausência de ilegalidade na decisão que indeferiu o pedido de aplicação subsidiária do Código de Processo Penal ao procedimento da Lei de Drogas.
+Para tanto, assere que "a Sexta Turma do Superior Tribunal de Justiça admitiu a utilização do rito híbrido em relação ao processamento do crime de tráfico de drogas. Compete consignar, que a decisão proferida no habeas corpus, ora impugnada, está em desacordo com a jurisprudência atual do Superior Tribunal de Justiça" (fl. 114).
+Requer, assim, "seja conhecido e provido o presente agravo regimental, para o fim de que seja cancelada a audiência de instrução e julgamento designada para o dia 21/6/2023 e, ato contínuo, seja determinado o exame da peça de resposta apresentada em contraposição aos termos da acusação" (fl. 118).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RITO ESPECIAL. DEFESA PRÉVIA. DESNECESSIDADE DE CITAÇÃO PARA APRESENTAR RESPOSTA À ACUSAÇÃO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " a  notificação do acusado para oferecer defesa prévia atende aos ditames da Lei de Drogas, que em seu art. 55, não prevê a necessidade de citação pessoal para apresentar resposta à acusação" (AgRg no AREsp n. 1.525.827/SP, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 11/11/2019.)
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Na hipótese, consoante apontou o Juízo singular, "nos procedimentos especiais em que há exigência de defesa preliminar, é evidente a necessidade de motivação da decisão que recebe a denúncia, o que implica a análise da absolvição sumária prevista no art. 397 do Código de Processo Penal, conforme decisão que recebeu parcialmente a denúncia  ..  Por todo o exposto, não há que se falar em nulidade, ao contrário do que concluiu a defesa, sendo certo que o próprio julgado da Sexta Turma do Superior Tribunal de Justiça, como bem pontuado, apenas admitiu a utilização do rito híbrido, porém, não impôs sua adoção" (fls. 95-96, grifei).
+De fato, nos termos da jurisprudência desta Corte Superior, "não há nulidade processual a ser declarada pela utilização de um rito híbrido pelo Magistrado de primeiro grau, ao oferecer aos réus tanto a possibilidade de apresentação de defesa prévia quanto de resposta à acusação" (AgRg no REsp n. 1.587.452/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 8/6/2017.)
+Todavia, não se trata de uma imposição, mormente diante do fato de que também entende o Superior Tribunal de Justiça que " a  notificação do acusado para oferecer defesa prévia atende aos ditames da Lei de Drogas, que em seu art. 55, não prevê a necessidade de citação pessoal para apresentar resposta à acusação" (AgRg no AREsp n. 1.525.827/SP, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 11/11/2019.)
+No mesmo sentido:
+III - " ..  A notificação do acusado para oferecer defesa prévia atende aos ditames da Lei de Drogas, que em seu art. 55, não prevê a necessidade de citação pessoal para apresentar resposta à acusação" (HC n. 236.398/ES, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 5/9/2016)  ..  (HC n. 364.591/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 17/10/2017.)
+Ademais, urge consignar que, " n o sistema das nulidades previsto pelo Código de Processo Penal vigora o princípio pas de nullite san grief, em razão do qual somente se proclama nulo ato processual quando houver efetiva demonstração de prejuízo" (HC n. 400.482/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 21/11/2017.), o que não ocorreu no caso, dada a oportunidade de apresentação da mencionada defesa preliminaer.
+À vista do exposto, nego provimento ao recurso.
