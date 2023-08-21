@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim resumido:
+CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA. EXCLUSÃO DA GRATIFICAÇÃO EXTRA-CLASSE. REDUÇÃO VENCIMENTAL. DECADÊNCIA. INEXISTÊNCIA. PRESTAÇÃO DF TRATO SUCESSIVO. SEGURANÇA PARCIALMENTE CONCEDIDA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial ."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com todas as vênias, tal entendimento não merece prosperar. Isso porque a fundamentação exposta no recurso especial não está deficiente, porquanto as razões do recurso atacam precisamente os fundamentos do aresto impugnado. Explica-se.
+ ..
+Diante de tal afronta à legislação federal, o ente público aviou recurso especial, objetivando demonstrar que o aresto impugnado contrariou o referido dispositivo legal, pois o ato indicado por violado pela impetrante, ora agravada, é único e de efeitos permanentes, pois se trata do próprio ato que concedeu os seus proventos de aposentadoria, com a respectiva supressão da gratificação extraclasse.
+Assim, veja-se que o ora agravante fez o devido contraponto jurídico no apelo nobre: o acórdão de origem ponderou que o ato atacado era de obrigação de trato sucessivo para afastar a tese de decadência do mandamus; o Estado, por sua vez, sustentou que, ao revés, tratava-se de ato único e de efeitos permanente se, como o writ não foi impetrado no prazo estabelecido na lei, houve a decadência para a sua impetração.
+Diante disso, não prospera o fundamento, data vênia, de que as razões delineadas no recurso especial estão dissociadas dos fundamentos do acórdão, uma vez que houve a impugnação específica, clara e direta do aresto recorrido, inclusive com a indicação de vasta jurisprudência desta Corte Superior a sustentar a tese recursal.
+ ..
+Veja-se que o ente público expôs de forma clara e objetiva -atacando o aresto recorrido -que o ato tido por ilegal não é de relação sucessiva, pois a fixação dos proventos da parte agravada aconteceu num ato único, quando concedida a sua aposentadoria.
+Logo, ao contrário do que exposto na decisão ora agravada, o recurso especial manejado pelo Estado do Ceará não encontra deficiência em sua fundamentação, sendo inaplicável, concessa venia, a súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. DESCONTO EM VENCIMENTOS. GRATIFICAÇÃO EXTRA-CLASSE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de mandado de segurança contra Secretário de Educação Básica do Estado do Ceará, consistente em descontos praticados em seus proventos quando do momento da concessão de sua aposentadoria. No Tribunal a quo, concedeu-se parcialmente a segurança para incluir a gratificação extra-classe em seus vencimentos.
+II - Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiênc ia na sua funda mentação não permitir a exata compreensão da controvérsia". Nesse sentido: AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018; AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Na espécie, o acórdão recorrido assim decidiu:
+A suposta decadência do direito, em razão da segurança ter sido ajuizada depois de transcorridos mais de 120 dias da publicação do ato de aposentadoria da impetrante não é motivo para o seu reconhecimento.
+Assim se verifica por tratar-se de obrigação de trato sucessivo, visto que o direito da impetrante não foi suprimido, mas somente restringido, por isso se renova mensalmente. Destarte, o art. 18 da Lei nº. 1.533/1951 é inaplicável no caso em tela devido a sua contagem recomeçar a cada negativa de observância do direito pleiteado pela impetrante.
+Inclusive, vale mencionar, que esta Corte já disciplinou esta matéria na sua Súmula nº. 25, aplicável à hipótese dos autos:
+Nas prestações de trato sucesso, em que a ilegalidade suscitada no mandado de segurança renova-se periodicamente, descabe coimar de decadência da impetração.
+Rejeito, pois, a alegação de decadência, uma vez que nas obrigações de trato sucessivo, envolvendo pagamento de proventos, que é pago mensalmente, o prazo para impetração renova-se a cada ato (fl. 101).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018; AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
