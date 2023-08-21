@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por SEBASTIÃO BERGAMASSO contra decisão monocrática desta Relatoria, que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 283/STF.
+Nas razões recursais, o agravante alega, em síntese, que, "sem qualquer fundamento, no caso, a aplicação da Súmula nº 283/STF, na medida em que a decisão foi efetivamente enfrentada, principalmente no argumento trazido como óbice ao prosseguimento da fase especial, pelo que o Agravo em Recurso Especial deve ser admitido e o Recurso Especial analisado" (e-STJ, fl. 228).
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada apresentou manifestação de fls. 235-243, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS (CPC, ART. 85, § 1º). LIQUIDAÇÃO DE SENTENÇA. CARÁTER LITIGIOSO. CABIMENTO. RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DO CASO CONCRETO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência desta Corte Superior, mesmo após o advento do CPC/2015, manteve o entendimento já consagrado desde a vigência do CPC/1973 de, em regra, não serem devidos honorários advocatícios sucumbenciais em sede de liquidação de sentença, sendo cabíveis quando a liquidação ostentar nítido caráter litigioso. Precedentes.
+2. Não há, na compreensão exposta, incompatibilidade com a regra do art. 85, § 1º, do CPC/2015, pois está a liquidação compreendida no cumprimento de sentença, expressamente referido no dispositivo legal, cabendo, assim, a condenação ao pagamento de honorários sucumbenciais, quando constatada litigiosidade.
+3. Na espécie, o caráter litigioso da liquidação realizada no presente feito não foi objeto de discussão pela Corte de origem, que afastou, desde logo, o cabimento dos honorários advocatícios em sede de liquidação de sentença. Necessário o retorno dos autos à Corte de origem para análise da questão.
+4. Agravo interno provido. Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação merece prosperar.
+Com efeito, a parte agravante defende ofensa aos arts. 85, § 1º, e 509 do Código de Processo Civil de 2015, afirmando que são devidos honorários advocatícios, uma vez que promovida a liquidação por simples cálculos aritméticos, caracterizando cumprimento de sentença, devidamente impugnados com reconhecimento de excesso de execução.
+Por sua vez, a Corte de origem, analisando as circunstâncias do caso, concluiu pela impossibilidade de arbitramento de honorários advocatícios em favor do devedor, por se tratar de mera liquidação de sentença proferida em sede de embargos do devedor, como se infere do trecho abaixo transcrito do v. acórdão estadual (e-STJ, fls. 164-165):
+"Pese o cálculo apresentado pelo banco tenha sido apresentado nos autos da execução de título extrajudicial, trata-se, na verdade, de cálculo necessário à liquidação do débito em face do que ficara decidido na ação incidental de embargos.
+Portanto, os honorários advocatícios devidos por excesso de execução na cobrança de encargos da mora cumulados com a comissão de permanência somente poderiam ser fixados na própria ação incidental de embargos.
+Contudo, como se verifica do acórdão de fls. 84/87, ficou reconhecido que o agravante decaiu de maior parte do pedido dos embargos, ficando atribuído a este o pagamento dos honorários advocatícios devidos no incidente, o que era possível, uma vez que esse julgamento ocorrera sob a égide da Lei Processual de 1973, em que se admitia a compensação de sucumbência recíproca, e desse comando o agravante não se insurgiu junto à C. Corte Superior, conforme acórdão de fls. 88/94, revelando seu conformismo com a distribuição dos ônus da sucumbência.
+Agora na execução, a discussão sobre o valor da dívida não trata de pedido novo, mas, repisa-se, de mera liquidação da sentença dos embargos, da qual não cabe a fixação de honorários de sucumbência, notadamente porque, na forma do art. 85, §1º, do Código de Processo Civil vigente, são cabíveis a condenação à verba honorária, além da devida no pedido principal, nas taxativas hipóteses de "reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente", deixando de estabelecer seu cabimento nas liquidações de sentença.
+Nem se diga que os honorários seriam devidos na própria execução, porque nessa hipótese, a verba é devida em favor do patrono da parte que necessitou da intervenção judicial para obter a satisfação de seu crédito inadimplido no vencimento, e esses honorários são os fixados initio litis em favor da parte exequente, sendo que a única consequência sobre esses em razão do acolhimento parcial dos embargos, é a redução proporcional dos honorários devidos ao credor, com o afastamento do excesso reconhecido.
+Dessa forma, por qualquer ângulo que se analise a questão, mostrava-se incabível a condenação do agravado ao pagamento de honorários de sucumbência pela apresentação de cálculo incorreto na liquidação da sentença proferida nos embargos." (grifou-se)
+Ocorre que o entendimento desta Corte Superior de Justiça é no sentido de ser cabível a fixação de honorários advocatícios em fase de liquidação quando esta assume caráter contencioso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PARCERIA PECUÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. SÚMULA Nº 7/STJ. LIQUIDAÇÃO. CUNHO LITIGIOSO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca da ventilada violação da coisa julgada demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. É possível a fixação de honorários advocatícios, em caráter excepcional, nos casos em que a fase de liquidação de sentença assumir nítido cunho litigioso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.781.672/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2021, DJe de 16/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. CARÁTER LITIGIOSO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS (CPC, ART. 85, § 1º). CABIMENTO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior, mesmo após o advento do CPC/2015, manteve o entendimento já consagrado desde a vigência do CPC/1973 de, em regra, não serem devidos honorários advocatícios sucumbenciais em sede de liquidação de sentença, sendo cabíveis quando a liquidação ostentar nítido caráter litigioso. Precedentes.
+2. Não há, na compreensão exposta, incompatibilidade com a regra do art. 85, § 1º, do novo CPC, pois está a liquidação compreendida no cumprimento de sentença, expressamente referido no dispositivo legal, cabendo, assim, a condenação ao pagamento de honorários sucumbenciais, quando constatada litigiosidade.
+3. Na espécie, o caráter litigioso da liquidação foi reconhecido pelo eg. Tribunal de Justiça, justificando-se a condenação do recorrente ao pagamento de honorários advocatícios sucumbenciais, os quais são majorados no julgamento deste recurso, nos termos do art. 85, § 11, do Código Processual.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.900.842/RS, Rel. Min. Raul Araújo, QUARTA TURMA, julgado em 5/10/2021, DJe de 11/10/2021)
+Como se vê no entendimento acima, é cabível o arbitramento de honorários na fase de liquidação de sentença quando se verificar, em relação ao quantum debeatur, caráter litigioso.
+O que cabe discutir, portanto, é o caráter contencioso do litígio para verificar a possibilidade ou não de fixação de honorários relativos à fase de liquidação do julgado.
+Neste ponto, como o caráter litigioso da liquidação realizada no presente feito não foi objeto de discussão pela Corte de origem, que afastou, desde logo, o cabimento dos honorários advocatícios em sede de liquidação de sentença, é necessário determinar o retorno dos autos à Corte de origem para análise da questão.
+Ante o exposto, dou provimento ao agravo interno, a fim de reconsiderar a decisão de fls. 219-221 e, em novo exame do feito, conheço do agravo para dar provimento ao recurso especial, a fim de anular o acórdão recorrido e determinar o retorno dos autos à Corte de origem para que, nos termos da jurisprudência desta Corte Superior, analise a possibilidade de fixação de honorários advocatícios na fase de liquidação de sentença no caso concreto.
+É como voto.
