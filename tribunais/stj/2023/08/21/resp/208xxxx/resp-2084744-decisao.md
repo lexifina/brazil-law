@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão prolatado pelo Tribunal de Justiça da referida unidade federativa.
+Depreende-se dos autos condenação do recorrido à pena de 12 (doze) anos, 11 (onze) meses e 5 (cinco) dias de reclusão, em regime fechado, pela prática do crime de roubo majorado, édito mantido íntegro pelo Tribunal de origem que, por maioria, negou provimento ao apelo defensivo e, de ofício, decotou a causa de aumento de pena do emprego de arma de fogo e redimensionou a pena para 8 (oito) anos, 6 (seis) meses e 20 (vinte) dias de reclusão. Posteriormente, a Corte local rejeitou os embargos infringentes, bem como os embargos declaratórios ministeriais.
+Nas razões do recurso especial, o Parquet aduz violação ao art. 157, § 2º-A, inciso I, do Código Penal, diante do decote da majorante do emprego de arma de fogo com entendimento, na contramão da jurisprudência do STJ, na imprescindibilidade da apreensão e perícia da arma.
+Reforça confirmação por duas vítimas do emprego de arma de fogo, consoante consignado no acórdão.
+Relembra que a Terceira Seção já se manifestou outrora pela prescindibilidade da apreensão da arma, nos autos do EREsp 961.863/RS.
+Pugna pelo provimento do recurso para que seja restabelecida a majorante referida, conforme sentença primeva.
+Sem contrarrazões (fl. 682), o recurso foi admitido e os autos encaminhados a esta Corte Superior de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+É o relatório.
+Decido.
+A (im)prescindibilidade da apreensão e da perícia da arma de fogo para majorar o crime de roubo é o cerne do recurso.
+Acerca da temática recursal, o eg. Tribunal de origem assim decidiu:
+"Em que pese não ter sido alvo de insurgência recursal oferecida pela combativa Defesa, pelo caráter "devolutum" do recurso de apelação, e por ser mais benéfico ao acusado, entendo não merecer incidir a majorante prevista no inciso I, §2-A, do artigo 157 do CP no presente caso.
+Isso porque, verifico dos autos que a "arma de fogo" não foi apreendida, o que impossibilita haver conferência da sua capacidade lesiva da mesma através de perícia técnica.
+Assim, julgo ser inviável a majoração de sua pena privativa de liberdade com base na suposta utilização de arma de fogo não apreendida, sequer periciada. A arma imprestável para seu uso serve tão-somente para caracterizar a violência ou grave ameaça exercida, mas não demonstra potencialidade lesiva suficiente para justificar o reconhecimento da causa de aumento.
+Logo, dispensa-se a perícia apenas caso os demais elementos de convicção acostados aos autos sirvam para comprovar a potencialidade lesiva da arma (ex.: testemunhas que presenciaram o agente efetuar efetivos disparos), o que não se confunde com as provas que apenas provem ter o acusado simplesmente portado a arma no momento dos fatos, pois isso não prova a potencialidade lesiva, mas apenas o exercício da grave ameaça" (fls. 574-575).
+Registro que o entendimento da Terceira Seção deste eg. Tribunal Superior é no sentido da prescindibilidade de apreensão e de perícia da arma de fogo para a incidência da majorante, desde que evidenciada sua utilização por outros meios de provas, tais como a palavra da vítima ou o depoimento de testemunhas, como é o caso dos autos.
+Nesse sentido:
+"Nos moldes da orientação firmada pela Terceira Seção desta Corte, para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova" (AgRg no AREsp n. 2.100.469/RN, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 23/6/2023).
+No mesmo sentido: AgRg no REsp n. 1.989.347/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 1/12/2022; e AgRg no REsp n. 2.006.708/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 4/10/2022.
+No caso dos autos, consoante consignado na sentença (fls. 429-430), bem como no voto vencido, "as vítimas foram firmes em confirmar que Antônio e o comparsa ainda não identificado utilizou-se de uma arma de fogo, não deixando dúvidas acerca da incidência da causa de aumento. Assim, pouco importa que o armamento não tenha sido apreendido ou devidamente periciado, pois restou pacífico o seu efetivo emprego para atemorizar as vítimas e facilitar o êxito da empreitada criminosa" (fl. 578).
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula nº 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para, restabelecendo a causa de aumento do emprego de arma de fogo (art. 157, §2º, inciso I, do Código Penal), restaurar a pena fixada na sentença condenatória, consoante fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL MINISTERIAL. ROUBO MAJORADO. RECONHECIMENTO DA MAJORANTE DE USO DE ARMA DE FOGO. PRESCINDIBILIDADE DE APREENSÃO E DE PERÍCIA NA ARMA DE FOGO. PRECEDENTES. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
