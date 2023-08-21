@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão que julgou agravo interno.
+O recurso foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INDEFERIMENTO DE PEDIDO DE CONDENAÇÃO. HONORÁRIOS. FALTA DE IMPUGNAÇÃO DO EXECUTADO. AGRAVO IMPROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. DIVERGÊNCIA NÃO COMPROVADA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em cumprimento de sentença, indeferiu o pedido de condenação em honorários advocatícios por ausência de impugnação do executado.
+Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta a dispositivo legal, na consonância do acórdão recorrido com a jurisprudência do STJ e na divergência não comprovada. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente à divergência não comprovada.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+ ..
+2. Ocorre que o julgado deixou de analisar o fato arguido pela parte de que o recurso especial não fora interposto com base em dissídio pretoriano (permissivo constitucional da alínea "c") o que se constata das razões do recurso especial (fls. 32 e ss. e-STJ).
+ ..
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU O PEDIDO DE CONDENAÇÃO EM HONORÁRIOS PORQUE NÃO IMPUGNADA A EXECUÇÃO. PRETENSÃO À REFORMA. DESACOLHIINENTO. APLICAÇÃO DO § 7º DO ART. 85 DO CPC. REGRAMENTO PROCESSUAL QUE DETERMINA A INTIMAÇÃO DA FAZENDA PÚBLICA PARA IMPUGNAR OU NÃO A EXECUÇÃO. PAGAMENTO CONDICIONADO À SUPERAÇÃO DA FASE DA INTIMAÇÃO E POSTERIOR ORDEM DO JUÍZO (ART. 535. § 3º, II, DO CPC). AUSÊNCIA, ADEMAIS, DE QUALQUER TRABALHO ADICIONAL A JUSTIFICAR, PELO PRINCÍPIO DA CAUSALIDADE, A IMPOSIÇÃO DE HONORÁRIOS. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+O acórdão é claro e sem obscuridades quanto aos vícios indicados pela parte embargante, conforme se confere dos seguintes trechos:
+ ..
+Na sua petição de agravo em recurso especial, por sua vez, a parte agravante somente trouxe alegações genéricas a respeito do óbice. As afirmações encontradas no agravo em recurso especial, quanto à negativa de seguimento relativamente ao óbice referente à divergência não comprovada, são insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem. Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+ ..
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
