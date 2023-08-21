@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S.A. (CAIXA) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da incidência das Súmulas n.ºs 5 e 7 do STJ.
+Nas razões do presente inconformismo, defendeu que a matéria arguida no bojo do recurso especial é exclusivamente de direito e que, portanto, não incidem os mencionados óbices sumulares.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SEGURO HABITACIONAL. ÓBITO. NEGATIVA DE COBERTURA. EXAME PRÉVIO. INEXISTENTE. DOENÇA PREEXISTENTE. NÃO COMPROVADA. MÁ-FÉ NÃO COMPROVADA. INVIABILIDADE DE REEXAME. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A revisão do entendimento do Tribunal de origem acerca da existência de doença preexistente à contratação do seguro e da má-fé da parte contratante demanda o reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, tendo em vista a incidência do óbice da Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, CAIXA defendeu que a matéria arguida no bojo do recurso especial é exclusivamente de direito e que, portanto, não incidem os óbices das Súmulas n.ºs 5 e 7 do STJ. Sustentou que, no caso dos autos, o mutuário agiu com má-fé, tendo se omitido em informar, quando da assinatura do contrato de seguro de financiamento imobiliário, ser portador de doença que o levaria a óbito alguns anos depois.
+Contudo, o Tribunal Regional Federal foi claro ao consignar o seguinte:
+No caso dos autos, o pedido da parte Autora não foi acolhido uma vez que o mutuário, ao assinar o contrato de financiamento em 16 de novembro de 2011 e preencher a declaração de seu estado de saúde, deixou de informar ser portador de doença que se manifestou em 13 de fevereiro de 2009, o que configuraria doença preexistente que deu causa a seu óbito em 09 de setembro de 2019.
+Há que se considerar, no entanto, que a despeito do histórico de saúde do mutuário (ID 221770139), não havia doença neoplásica em atividade por ocasião da assinatura do contrato. Consoante relatório médico do mutuário (ID 221770139), o diagnóstico oncológico inicial foi dado em 13 de fevereiro de 2009 e após a realização de prostatectomia radical o mutuário ficou bem até dezembro de 2010. A doença ressurgiu, sendo proposto radioterapia de resgate até março de 2011. Desse modo, verifica-se que a assinatura do contrato de financiamento é posterior ao período de tratamento.
+Ressalta-se também que o contrato foi regularmente adimplido durante quase oito anos, mesmo após o ressurgimento da doença, e mesmo após o óbito, já às custas dos beneficiários que pleitearam a repetição das parcelas pagas desde então. Nestas condições, não há comprovação de má-fé que sustente os argumentos das Rés para negar a cobertura pleiteada.
+Ao contrário, a constatação de que a doença em comento manifestou-se em fevereiro de 2009, mas não impediu a sobrevida do mutuário por mais dez anos, sem maiores intercorrências neste interregno, e que após a assinatura do contrato, houve o regular adimplemento das prestações do financiamento imobiliário e dos prêmios de seguro durante quase oito anos, denota que não houve má-fé do mutuário, e que seu óbito é uma contingência ou um risco que a apólice contratada deve cobrir, enquanto as cláusulas invocadas pelas apeladas não são suficientes para recusar a cobertura securitária requerida pelos beneficiários.
+Desta forma, é de rigor a condenação das rés a promover cobertura securitária a partir do óbito do mutuário (fl. 654).  e-STJ, fls. 788/789
+Assim, rever as conclusões quanto ao ponto demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. CONHECIMENTO DE DOENÇA PREEXISTENTE. INFORMAÇÃO OMITIDA PELO SEGURADO. INDENIZAÇÃO NEGADA. MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO CONSENTÂNEO COM A JURISPRUDÊNCIA DO STJ. ARTIGO 81 DO CPC/15. ALEGAÇÕES GENÉRICAS. NÃO DEMONSTRADA A VIOLAÇÃO. RECURSO DEFICIENTE. SÚMULA 284 DO STF.
+1. Não comporta revisão, em recurso especial, as conclusões firmadas pelo Tribunal local acerca da existência de má-fé do segurado que omitiu doença preexistente conhecida quando da contratação do seguro de vida. Incidência da Súmula 7 do STJ.
+2. Consoante jurisprudência do STJ, a indenização securitária pode ser negada se comprovado que o contrato de seguro foi celebrado pelo segurado com má-fé, consistente na omissão de informação sobre doença preexistente conhecida no momento da contratação. Acórdão recorrido consentâneo com a jurisprudência do STJ.
+3. Atrai a incidência analógica do enunciado sumular nº 284 do STF, quando a questão federal suscitada é gené rica, sem fundamentar de que forma o dispositivo da legislação infraconstitucional teria sido contrariado pelo acórdão recorrido.
+4. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 1.926.270/ES, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023 - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PRESTAMISTA. CONTRATO DE MÚTUO HABITACIONAL. COBERTURA SECURITÁRIA. OCORRÊNCIA. DOENÇA PREEXISTENTE. NÃO COMPROVADA. MÁ-FÉ. INOCORRÊNCIA. AUSÊNCIA DE PROVA. REVISÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não comprovada a má-fé do segurado quando da contratação do seguro e ainda não exigida pela seguradora a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença pré-existente. Precedente.
+2. A revisão do entendimento do Tribunal de origem acerca da existência de doença preexistente à contratação do seguro e da má-fé da parte contratante demanda o reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.008.938/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023 - destacou-se)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
