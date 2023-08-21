@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS VALENÇA DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS - TJAL que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento do Recurso em Sentido Estrito n. 0000057-41.2015.8.02.0008.
+Consta dos autos que o Paciente foi condenado pelo Tribunal do Júri em sessão realizada no dia 11 de janeiro de 2022 pela prática do crime previsto no art. 121, caput, do Código Penal - CP (homicídio simples), tendo o Juízo consignado que a sentença fora publicada na própria sessão, dando por intimadas as partes, inclusive o réu, por videoconferência. A Defesa do acusado interpôs recurso de apelação na data de 27 de janeiro de 2022, que foi considerada intempestiva pelo Tribunal de origem, conforme certidão de fl. 1182.
+Irresignada, a Defesa interpôs recurso em sentido estrito perante o Tribunal de origem, que conheceu do recurso e negou-lhe provimento. Eis a ementa do julgado:
+"PENAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO SIMPLES. PUBLICAÇÃO DA SENTENÇA EM SESSÃO DO TRIBUNAL DO JÚRI. RECURSO DE APELAÇÃO INTERPOSTO INTEMPESTIVAMENTE. PRAZO ESCOADO. COMPROVAÇÃO. RECURSO CONHECIDO E IMPROVIDO.
+1 - Consoante se depreende de uma leitura dos autos, o recorrente foi condenado pelo Tribunal do Júri em sessão realizada no dia 11 de janeiro de 2022, estando o acusado Marcos Valença da Silva acompanhado do Defensor Público, Dr. Roberto Alan Torres de Mesquita. Os jurados condenaram o acusado por homicídio simples, cuja dosimetria da pena realizada pelo Juiz Togado fixou a pena privativa de liberdade em 07 (sete) anos, 06 (seis) meses e 03 (três) dias de reclusão. Ao final da conclusão do julgamento, o juízo consignou que a sentença fora publicada na própria sessão, dando por intimadas as partes, inclusive o réu por videoconferência.
+2 - No entanto, a defesa do acusado só interpôs o recurso de apelação na data de 27 de janeiro de 2022, quando já tinha escoado o prazo recursal, conforme certidão de fl. 1182. O fato da sentença ter sido publicada também em Diário Oficial, por si só, não é motivo para interrupção do prazo recursal que já havia iniciado quando da publicação da sentença na própria sessão de audiência do Tribunal do Júri.
+3 - Recurso conhecido e, no mérito, improvido." (fl. 1234)
+Em sede de recurso especial (fls. 1241/1249), a Defesa apontou violação ao art. 128, I, da Lei Complementar n. 80/1994. Alega que o recorrente sofre gritante constrangimento ilegal em virtude do não recebimento do seu recurso de apelação, uma vez que o Tribunal alagoano considerou intempestiva a apelação interposta pela Defensoria Pública por julgar válida a intimação feita na data da sessão de julgamento popular (e não posteriormente, como efetivamente foi feito, mediante intimação eletrônica com entrega dos autos com vista).
+Requer seja conhecido e provido o recurso especial para determinar o processamento do recurso de apelação, mediante a abertura de vista à defesa técnica para o oferecimento das respectivas razões.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS (fls. 1257/1262).
+O recurso especial foi inadmitido no TJAL em razão da incidência da Súmula n. 07 deste SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 1264/1267).
+No presente agravo em recurso especial, a Defesa reitera os argumentos de mérito do recurso especial, sem, contudo, impugnar a incidência da Súmula n. 7 do STJ (fls. 1275/1281).
+Contraminuta do Ministério Público do Estado de Alagoas (fls. 1293/1294).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 1314/1318).
+É o relatório.
+Decido.
+O recurso encontra-se prejudicado.
+Trata-se de reiteração de pedido já analisado nos autos do HC n. 763.616/AL, no qual o habeas corpus não foi conhecido com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Ademais, o agravo em recurso especial limitou-se a reiterar os argumentos de mérito do recurso especial, sem, contudo, impugnar a incidência da Súmula n. 7 do STJ, de modo que necessária a aplicação dos arts. 932, inc. III e 1.021, § 1º, do Código de Processo Civil de 2015 - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo regimental ou i nterno que deixa de atacar especificamente os fundamentos da decisão agravada.
+Diante do exposto, com fundamento no art. 932, III, do CPC c/c o art. 3.º do CPP, nos termos do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o presente recurso.
+Publique-se.
+Intimem-se.
