@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por RUY VIEIRA MACHADO FILHO (RUY VIEIRA FILHO) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. REPRESENTAÇÃO PROCESSUAL DA EMPRESA RECORRIDA. RVM. REGULARIDADE. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA E DE CLÁUSULAS CONTRATUAIS. VEDAÇÃO. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fl. 164).
+Nas razões do presente inconformismo, defendeu que, ao contrário do que consignado na decisão em testilha, não seriam aplicáveis, na espécie, as Súmulas n.ºs 5 e 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 187/191).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA PÚBLICA. REGULARIDADE DA PRETENSENTAÇÃO PROCESSUAL DE UM DOS AUTORES. NECESSIDADE DE CONSULTA AOS ATOS CONSTITUTIVOS DA EMPRESA. SÚMULAS N.os 5 E 7 DO STJ.
+1. A regularidade da representação processual da empresa autora não pode, no caso dos autos, ser afastada sem verificação do que disposto nos atos constitutivos daquela sociedade. Incidência das Súmulas n.ºs 5 e 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Consta dos autos que R V M EMPREENDIMENTOS IMOBILIÁRIOS LTDA., RUY VIEIRA MACHADO, LIEDEN VIEIRA LUGGERI e RUY VIEIRA MACHADO FILHO ajuizaram ação anulatória de escritura pública contra COSTA SUL EMPREENDIMENTOS IMOBILIÁRIOS LTDA., no curso da qual sobreveio decisão interlocutória que concluiu pela regularidade da representação processual do primeiro autor (R V M EMPREENDIMENTOS).
+Referida decisão ficou vazada nos seguintes termos:
+Inexiste irregularidade na representação processual do primeiro autor, tendo em vista que a procuração de fls. 20/21 foi assinada pelo segundo e terceiro autores na qualidade de representante legal da pessoa jurídica (primeiro autor). Com a morte do segundo autor a terceira autora continua com poderes de representação diante do expresso no contrato social, cláusula 4º § único. Certifique o cartório a manifestação da primeira ré (Curadora Especial) em provas. Intimem-se (e-STJ, fl. 40).
+Contra essa decisão RUY VIEIRA FILHO interpôs agravo de instrumento alegando, em síntese, que, tendo em vista o falecimento do segundo autor (RUY VIEIRA MACHADO), este não mais faz parte da ação, aduzindo que a terceira autora (LIEDEN) não possui poderes de representação da sociedade primeira autora (R V M EMPREENDIMENTOS)  e-STJ, fls. 1/6 .
+O Tribunal de Justiça do Rio de Janeiro negou provimento a esse agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. JUÍZO DE ORIGEM QUE RECONHECEU A REGULARIDADE DA REPRESENTAÇÃO DA PESSOA JURÍDICA QUE INTEGRA O POLO ATIVO DA RELAÇÃO PROCESSUAL. INCONFORMISMO DO SEGUNDO RÉU (RUY VIEIRA MACHADO FILHO) QUE ADUZ QUE OS AGRAVADOS NÃO REGULARIZARAM A REPRESENTAÇÃO PROCESSUAL DA EMPRESA AUTORA, APÓS O FALECIMENTO DO SÓCIO RUYY VIEIRA MACHADO. ASSEVERA O AGRAVANTE QUE A SÓCIA LIEDEN NÃO POSSUI PODERES DE REPRESENTAÇÃO DA PESSOA JURÍDICA, PODENDO REPRESENTAR A SOCIEDADE APENAS NO IMPEDIMENTO DO SÓCIO RUY VIEIRA MACHADO, FALECIDO, E DE FORMA CONJUNTA COM O ORA AGRAVANTE, NOS TERMOS DO CONTRATO SOCIAL. PUGNA O AGRAVANTE, POIS, PELA EXTINÇÃO DA AÇÃO EM RELAÇÃO À EMPRESA AUTORA E, CASO ASSIM NÃO SE ENTENDA, QUE REFERIDA PARTE PROVIDENCIE A RESPECTIVA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. PRETENSÃO RECURSAL QUE NÃO MERECE PROSPERAR. ATOS CONSTITUTIVOS QUE VIABILIZAM O ENTENDIMENTO DE QUE RUY VIEIRA MACHADO FILHO E LIEDEN VIEIRA LUGGERI SÃO REPRESENTANTES DA PESSOA JURÍDICA R. V. M. EMPREENDIMENTOS IMOBILIÁRIOS LTDA, SEM QUE HAJA A OBRIGATORIEDADE DA RESPECTIVA REPRESENTAÇÃO DE MODO CONJUNTO PELOS SÓCIOS. DIREITO DA SEGUNDA AGRAVADA (LIEDEN) FUNDAMENTADO PELO ART. 75, VIII E IX DO CPC. PRINCÍPIO DA EFICIÊNCIA. DECISÃO QUE DEVE SER MANTIDA. RECURSO DESPROVIDO (e-STJ, fls. 39/40)
+Os embargos declaratórios opostos foram rejeitados (e-STJ, fls. 66/71).
+Nas razões do recurso especial, alegou-se contrariedade aos arts. 682, II, do CC, e 75, VIII, do CPC, sob o argumento de irregularidade na representação da recorrida, R V M EMPREENDIMENTOS, uma vez que ela era representada pelo segundo autor falecido. Aduziu-se, também, que o contrato social daquela empresa designa exatamente quem poderá representar e administrar a sociedade e, com o falecimento do sócio RUY VIEIRA MACHADO, cessaram os poderes da procuração anteriormente conferidos por ele.
+Como se vê, a questão posta em causa, concernente à regularidade da representação processual da empresa R V M EMPREENDIMENTOS, perpassa, necessariamente, pelo exame dos atos constitutivos daquela empresa.
+Não por outro motivo o TJRJ valeu-se desses documentos para embasar o acórdão recorrido.
+Confira-se:
+Da leitura dos autos, constata-se, pois, que, emprestar ao parágrafo único da cláusula 4ª dos atos constitutivos da empresa autora a interpretação restritiva pretendida pelo agravante afigura-se desarrazoado, notadamente porque não se depreende de referido dispositivo, em uma interpretação literal, que a representação da pessoa jurídica seria feita de modo conjunto, obrigatoriamente, o que, efetivamente, viabiliza o entendimento de que ambos, Ruy Vieira Machado Filho e Lieden Vieira Luggeri, são possíveis representantes da pessoa jurídica R. V. M. Empreendimentos Imobiliários Ltda.
+Fixada tal premissa, relevante consignar pelo menos três argumentações que fundamentam o direito da segunda agravada (Lieden) ostentar a condição de representante legal da pessoa jurídica que integra o polo ativo do processo originário.
+(..)
+Com efeito, vê-se de referido texto legal que, não havendo designação do representante legal da pessoa jurídica, a representação far-se-á na pessoa dos seus diretores.
+Na hipótese, com mais razão ainda, a representação da pessoa jurídica pode ser feita na pessoa da segunda agravada (LIEDEN) porque, além de regulamente constituída para tanto, não há qualquer ressalva explícita de que sua atuação deve ser em conjunto com o ora agravante, RUY VIEIRA MACHADOFILHO.
+(..)
+Com efeito, extinguir o feito em relação à parte autora R. V. M. Empreendimentos Imobiliários Ltda, por irregularidade de representação, sob o argumento de que a representação deve ser conjunta, quando os atos constitutivos não contemplam tal ressalva e o Código de Processo Civil dispõe que, inclusive, diretores podem representar a pessoa jurídica, seria violar o Princípio da Eficiência do processo contemplado no artigo antes referenciado.
+Ademais, impõe-se anotar que o falecimento de um dos sócios não obsta que a empresa autora pleiteie um provimento judicial, a teor do que dispõe o art. 75, IX, do CPC.
+(..)
+Conclui-se, pois, que não se apresenta crível, in casu, que ao juízo seja facultado suprimir os legítimos interesses da pessoa jurídica, com a prolação de sentença extintiva sob o argumento de irregularidade de representação conjunta, impondo-se, pois, a manutenção da decisão guerreada (e-STJ, fls.43/45).
+Impossível, assim, rever as conclusões fixadas pelo acórdão recorrido quanto à regularidade da representação processual da empresa R V M EMPREENDIMENTOS sem reexaminar o conjunto fático-probatório dos autos, em especial o contrato social daquela mencionada sociedade. Incidem, por isso, as Súmulas n.ºs 5 e 7 do STJ.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
