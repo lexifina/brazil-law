@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por MARCELO AUGUSTO BOTURA & CIA LTDA., contra acórdão que, por unanimidade, negou provimento ao agravo interno.
+Ação: cobrança cumulada com inexigibilidade de títulos de créditos e indenização, ajuizada por MARCELO AUGUSTO BOTURA & CIA LTDA., em face de LACTICÍNIOS TIROL LTDA.
+Sentença: no to cante à ação de cobrança, julgou improcedentes os pedidos deduzidos pelo agravante e condenou-o ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa. Já no tocante à ação de consignação em pagamento, julgou procedentes os pedidos formulados pelo agravado, para declarar extinta a obrigação, condenando o agravante ao pagamento das custas e dos honorários, os quais foram fixados em 10% sobre o valor atualizado da causa.
+Acórdão: deu provimento ao agravo retido interposto pelo agravante, para afastar a prescrição reconhecida pela decisão interlocutória do Evento 131, bem como julgou, com fundamento no art. 1.013, § 4º, do CPC/15, improcedente a pretensão do agravante no que tange à cobrança do numerário de R$ 29.254,46, além de negar provimento à Apelação interposta pelo agravante.
+Embargos de declaração: opostos, pelo agravante, foram rejeitados.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustentou o afastamento do óbice sumular como apontado, porquanto houve a impugnação específica.
+Acórdão da Terceira Turma: negou provimento ao agravo interno interposto pelo agravante.
+Razões do agravo interno: sustenta que a decisão, acórdão de fls. 2644/2645 (e-STJ), é merecedora de reparo, eis que, à despeito do que foi decidido, houve prequestionamento, entretanto na forma ficta, bem como a pretensão recursal não desafia o teor da Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INEXIGIBILIDADE DE TÍTULOS DE CRÉDITOS E INDENIZAÇÃO. INTERPOSIÇÃO DO AGRAVO INTERNO CONTRA ACÓRDÃO DE TURMA. NÃO CABIMENTO.
+1. Ação de cobrança cumulada com inexigibilidade de títulos de créditos e indenização.
+2. Conforme os arts. 1.021, CPC/2015 e 259 do Regimento Interno do STJ, somente as decisões singulares são impugnáveis por agravo interno, configurando-se, assim, erro grosseiro a sua reiteração.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por MARCELO AUGUSTO BOTURA & CIA LTDA., contra acórdão que, por unanimidade, negou provimento ao agravo interno.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De início, cabe registrar que a insurgência da parte agravante foi apresentada ao Colegiado e foi julgada no dia 08/05/2023, AgInt nos EDcl no AREsp, (e-STJ fl. 2644/2645), com o consequente Termo de Julgamento tendo sido lavrado em 09/05/2023 (e-STJ fl. 2653/2654), constando como resultado, unânime, a negativa de provimento do agravo interno interposto pela parte agravante.
+Publicado o acórdão em desfavor da parte agravante, conforme Certidão de fl. 2655 (e-STJ), agrava internamente, no presente momento processual, sustentando que se insurge contra a r. decisão de fls. 2644-2652, que negou provimento ao agravo interno, mediante juízo de reconsideração, pelas razões que serão articuladas.
+Da leitura das razões recursais do agravo interno, percebe-se que, na verdade, a parte agravante se insurge contra o acórdão de fl. 2644/2645 (e-STJ), uma vez que defende a violação dos artigos 27, "j" e art. 32, § 7º da lei 4.886/65, art. 142 do CPC, artigos 166, VI e 697 do Código Civil e artigo 93, IX da Constituição Federal, sustentando que "utilizou-se da única forma legalmente admitida para que o julgador a quo se manifestasse em relação a afronta ao art. 27, "j" e art. 32, § 7º da lei 4.886/65, art. 142 do CPC, artigos 166, VI e 697 do Código Civil e artigo 93, IX da Constituição Federal, não sendo possível que se lhe atribua em seu prejuízo o silêncio deste, sob pena de malferimento ao princípio do acesso à justiça (art. 5º,XXXV da CRFB/88), a ponto de desafiar frontalmente o texto constitucional".
+Resta consignar, por mais uma vez, que a análise detida dos autos revela na verdade que a insurgência da parte agravante está voltada para o acórdão proferido por este Colegiado, conforme se depreende da Ementa, do Relatório e do Voto de fl. 2644/2652 (e-STJ), o que também foi declarado pela parte agravante como se verificou anteriormente, e cujo fundamento foi objetivo, tendo sido consignado que:
+"Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7 desta Corte, bem como porque não há que se falar em interposição de recurso especial para apreciar a violação de dispositivo constitucional, além do fato de que não há que se falar em dissídio jurisprudencial, ante a incidência da Súmula 7/STJ sobre o suposto tema divergente." (e-STJ fl. 2648)
+Assim, diante desse quadro fático, cumpre observar que, segundo pacífica jurisprudência desta Corte, o agravo interno somente é cabível contra decisão monocrática de relator, o que não é o caso dos autos, configurando-se um erro grosseiro o ato de interposição contra decisão do colegiado.
+Nesse sentido: AgInt no AgInt no REsp 1.764.402/SE, 3ª Turma, DJe 27/08/2019; AgInt no AgInt no AgInt no AREsp 1.338.369/DF, 4ª Turma, DJe 27/09/2019; AgInt no AgInt no AgInt no AREsp 956.173/SP, 3ª Turma, DJe 06/03/2018.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
