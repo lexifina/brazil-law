@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por BANCO DO BRASIL S.A.. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento - Recuperação judicial - Homologação do plano e respectivos modificativos aprovados em Assembleia Geral de Credores - Possibilidade de controle da legalidade das estipulações pelo Poder Judiciário - Novação das dívidas que ocorre sem prejuízo das garantias prestadas por terceiros - Possibilidade, contudo, de liberação da garantia prestada por terceiro, desde que conte com a expressa aprovação do respectivo credor titular (Lei nº 11.101/2005, art. 50, § 1º, e Súmula 61 deste Tribunal de Justiça) - Precedentes do Superior Tribunal de Justiça e das Câmaras Reservadas de Direito Empresarial - Condições de pagamento dos créditos com garantia real e quirografários - Carência de 48 meses, deságio de 70%, correção monetária pela TR a contar da publicação da decisão homologatória do plano, juros simples de 0,5% ao ano e amortização em144 parcelas mensais - Ausência de abuso e/ou ilegalidade - Alienação de bens do ativo não circulante não especificados no plano de recuperação judicial que deve observar a fiscalização do juiz, do administrador, dos credores e do Ministério Público (Lei nº 11.101/2005, arts. 60, 66 e 142) - Criação de subclasses de credores essenciais permitida- Decisão homologatória mantida, com ressalvas - Recurso parcialmente provido, com observações" (fl. 322 e-STJ).
+Nas razões do recurso especial, a recorrente aponta violação dos artigos 122 e 884 do CC e 47, 58, 72 e 126 da Lei nº 11.101/2005. Defende o deságio excessivo e a desigualdade de credores na mesma classe.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+Na hipótese dos autos, o Tribunal de origem consignou:
+"É sabido que toda recuperação judicial exige, pela sua própria essência, uma parcela de sacrifício dos credores; e, aqui, não se verifica onerosidade excessiva ou abusividade que imponha necessidade de intervenção judicial.
+O período de carência (48 meses), o deságio (70%), o índice de atualização monetária (TR), os juros(simples de 0,5% ao ano), o parcelamento (144 parcelas mensais) e o termo inicial de incidência da correção monetária (data da publicação da decisão de homologação do plano de recuperação judicial)previstos para o pagamento dos créditos com garantia real e quirografários de acordo com as cláusulas 3.3 e 3.4 do plano original e comas alterações introduzidas pelo primeiro e segundo modificativos (fls. 1.198/1.199, 3.202 e 3.338 dos autos originários) são plenamente admitidos e não configuram afronta à legislação, até porque dizem respeito a direitos patrimoniais disponíveis, de modo que, sobre eles, deve prevalecer a negociação dos interessados e a decisão soberana da assembleia geral de credores.
+Assim, por mais que tais condições chamem a atenção, elas não configuram ilegalidade ou abusividade, uma vez que dizem respeito à viabilidade econômica do plano de recuperação judicial, a qual foge do controle de legalidade exercido pelo Poder Judiciário.
+(..)
+Tem-se, então, que as condições de pagamento dos créditos com garantia real e quirografários não extrapolam os limites delineados pela jurisprudência, razão pela qual são mantidas.
+(..)
+A previsão de condições de pagamento diferenciadas aos credores essenciais tem como fundamento as características específicas desses credores (financiadores ou fornecedores de insumos ou serviços), que se dedicam a atividades fundamentais à manutenção dos negócios das agravadas (atuantes "nos segmentos de distribuição e logística de combustíveis" fls.1.187 dos autos originários).
+(..)
+Conclui-se, pois, ser autorizada e justificada a criação de subclasses, à vista das características específicas dos credores em questão, para que se possa alcançar o almejado soerguimento, não havendo que se falar em ilegalidade ou violação ao princípio da "par conditio creditorum".
+No mais, não há que se falar em violação da transparência decorrente dessas estipulações, eis que as condições para a qualificação de credores como essenciais e as condições de pagamento dos respectivos créditos foram devidamente especificadas no plano de recuperação judicial, de modo a permitir a devida fiscalização do juiz, do administrador judicial, da coletividade de credores e do Ministério Público.
+Portanto, não se vislumbra ilegalidade na criação de subclasses de credores prevista no plano, ressaltando-se, ainda, o fato de que todas as condições foram aceitas e aprovadas pelos credores em assembleia geral." (fls. 341/355 e-STJ).
+Nesse cenário, a revisão do julgado esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
