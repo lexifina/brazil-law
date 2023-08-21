@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MÁRCIA SARAIVA DE ALMEIDA contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: de extinção de condomínio, em fase de cumprimento de sentença, ajuizada por GERCILGA MARQUES SARAIVA DE ALMEIDA - ESPÓLIO e OUTROS (agravados), em face da agravante, na qual alegam - em síntese - que são proprietários de imóvel do tipo apartamento, sendo que 50% pertencem a primeira autora, enquanto os demais autores e a ré possuem, cada um, 16,66%, conforme noticia a certidão imobiliária em anexo.
+Além da necessidade da venda, há firme desejo dos autores em não mais quererem continuar condôminos da ré, já tendo ocorrido manifesto interesse dos demandantes em vender o aludido bem, diante de recente e concreta proposta recebida, ocasião em que a ré foi contra a assinar os necessários atos para transferência a terceiro.
+Aduzem, ainda, que lhe foi ofertada a possibilidade de comprar as demais frações dos autores, tendo a mesma se quedado inerte.
+Decisão interlocutória: determinou a expedição de carta de arrematação e mandado de imissão na posse em favor do arrematante e o levantamento da quantia excedente depositada.
+Acórdão: por unanimidade, negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo de instrumento. Ação de extinção de condomínio com alienação judicial do imóvel. Processo em fase de cumprimento de sentença. Decisão agravada que determina expedição de carta de arrematação e mandado de imissão na posse em favor do arrematante. Irresignação da parte ré. Embargos à arrematação ofertados pela ré. Sentença de extinção. Sustação dos efeitos da arrematação que se requer. Eficácia suspensiva da sentença que somente pode ser concedida mediante interposição de apelação (art. 1.012, § 4º c/c súmula 331 do STJ). Impossibilidade de se obter tal pretensão através da presente impugnação recursal. Questões relativas à nulidade do processo e à incompetência do juízo cível que já foram apreciadas e rechaçadas no julgamento do AI nº 0087741-44.2021.8.19.0000. Matérias cobertas pela preclusão. Manutenção do decisum recorrido. Desprovimento do recurso. (e-STJ, fl. 542)
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa ao arts. 313, I, § 1º, 618, 619, 655, 689 e 937, VIII, do CPC/15, ao Estatuto do Idoso e aos arts. 1.784, 1791, § 1º, 1793, § 2º e § 3º e 1794, todos do CC/02.
+Prévio juízo de admissibilidade: o TJ/RJ inadmitiu o recurso especial interposto (fls. 643/650).
+Agravo em recurso especial: aduz, genericamente, que não pretende o reexame de fatos e provas, mas tão somente a revaloração jurídica, a par de reiterar as razões apresentadas quando da interposição do recurso especial, bem como sustentar a invasão da competência constitucional do STJ.
+Decisão monocrática: não conheceu do agravo em recurso especial, nos termos do art. 932, III, do CPC/15, em razão da incidência da Súmula 182/STJ (e-STJ, fls. 975/978).
+Agravo interno de fls. 766/833 (e-STJ): repisa os argumentos desenvolvidos nas razões do recurso especial.
+Decisão monocrática de fls. 920/921 (e-STJ): indeferiu o pedido de concessão de tutela provisória, consistente na suspensão dos presentes autos (e-STJ, fls. 920/921)
+Decisão monocrática de fls. 971/972 (e-STJ): rejeitou os embargos declaração de fls. 732/761 (e-STJ), opostos pela agravante e julgou prejudicado os embargos de declaração de fls. 928/940 (e-STJ).
+Decisão monocrática de fls. 973/975 (e-STJ): julgou prejudicado o agravo interno de fls. 766/833 (e-STJ), em razão de anterior oposição de embargos de declaração de fls. 732/761 (e-STJ), pois "a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgRg no AREsp 849.518/MT, 3ª Turma, DJe de 02/08/2017). No mesmo sentido: AgInt no AREsp 2.109.241/SP (4ª Turma, DJe de 13/10/2022).
+Agravo interno de fls. 983/1.028 (e-STJ): repisa os argumentos desenvolvidos nas razões do recurso especial.
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS MONITÓRIOS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO.
+1. Ação de extinção de condomínio, em fase de cumprimento de sentença.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Agravo interno não conhecido.
+VOTO
+A decisão agravada de fls. 973/975 (e-STJ) julgou prejudicado o agravo interno de fls. 766/833 (e-STJ), em razão da não observância do princípio da unirrecorribilidade das decisões. Nesse sentir, segue a transcrição da fundamentação da referida decisão:
+1. Compulsando os autos, observa-se que, contra a decisão monocrática desta relatoria que não conheceu do agravo em recurso especial (fls. 729-730), foi interposto o presente agravo interno e também, em momento anterior, embargos de declaração.
+2. Nesse contexto, "conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgRg no AREsp 849.518/MT, Terceira Turma, julgado em 27/6/2017, DJe de 2/8/2017). No mesmo sentido: AgInt no AREsp n. 2.109.241/SP, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022; EDcl no AgInt no AREsp n. 1.499.687/RS, Primeira Turma, julgado em 28/3/2022, DJe de 6/4/2022; EDcl no AgInt no AREsp n. 1.919.324/GO, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.
+3. Desse modo, tendo em vista a oposição anterior de embargos de declaração, é forçoso concluir que o presente recurso encontra-se prejudicado.
+Forte nessas razões, considero prejudicado o presente agravo interno. (e-STJ, fls. 976/975) (grifo nosso)
+Todavia, nas razões do agravo interno, a agravante limita-se a repisar os argumentos desenvolvidos nas razões do recurso especial, não impugnando a aplicação do seguinte óbice: não observância ao princípio da unirecorribilidade das decisões.
+Nos termos da jurisprudência do STJ, o agravo interno que não impugna determinados fundamentos constantes na decisão monocrática, acarreta a preclusão no que concerne à impugnação dos referidos fundamentos. Nesse sentir: EREsp 1.424.404/SP (Corte Especial, DJe 17/11/2021).
+Desse modo, mostra-se correto o não conhecimento do agravo interno, tendo em vista a ausência de impugnação específica do único fundamento contido na decisão agravada e suficiente para mantê-la.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 3% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
