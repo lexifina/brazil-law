@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DOUGLAS MOREIRA DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2167209-57.2023.8.26.0000).
+Depreende-se dos autos que o réu foi condenado a 5 anos e 4 meses de reclusão, no regime inicialmente semiaberto, pela prática do delito inscrito no art. 157, § 2º, II, do Código Penal (e-STJ fls. 11/21).
+Impetrado habeas corpus, o Tribunal de origem denegou a ordem, em acórdão assim ementado (e-STJ fl. 23):
+HABEAS CORPUS. ROUBO. NEGATIVA DE RECURSO EM LIBERDADE. NECESSIDADE DE MANUTENÇÃO DA PRISÃO. Paciente condenado a cumprir pena de reclusão em regime inicial semiaberto, com negativa de recurso em liberdade. Necessidade de manutenção da segregação cautelar em razão da gravidade concreta do delito. Tendo sido mantido preso durante toda a instrução, mostra-se um contrassenso colocar o paciente em liberdade neste momento, quando um dos efeitos da condenação é justamente sujeitar o agente ao cárcere. Ausência de ilegalidade. Ordem denegada.
+Daí o presente writ, no qual sustenta a defesa, basicamente, que "O C. STF firmou o entendimento da incompatibilidade da prisão preventiva e da negativa ao recurso em liberdade com a fixação de regime semiaberto na sentença condenatória" (e-STJ fl. 4).
+Requer, liminarmente e no mérito, a manutenção do "Paciente em liberdade, tendo em vista as relevantes circunstâncias demonstradas, com o fito de possibilitar o apelo em liberdade. Caso não seja conhecido o writ, requer-se a concessão da ordem de ofício, nos termos do artigo 192 do RISTF, diante da demonstração ilegalidade flagrante (Art. 5º, inciso LXVIII, CF e Art. 654, §2º do CPP)" - (e-STJ fl. 6).
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Na espécie, em juízo de cognição sumária, visualizo manifesta ilegalidade no ato ora impugnado a justificar a concessão da ordem, in limine litis.
+Isso, porque a jurisprudência desta Corte é firme no sentido de que a segregação cautelar é compatível com o regime semiaberto, não podendo, contudo, ser cumprida de modo mais gravoso do que o do próprio regime da condenação, razão pela qual o acórdão objurgado está em dissonância com os precedentes desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DIREITO DE RECORRER EM LIBERDADE. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. COMPATIBILIDADE COM O REGIME SEMIABERTO. TRANSFERÊNCIA DETERMINADA PELO STF. ILEGALIDADE. AUSÊNCIA.
+1. Tendo o decreto prisional apresentado fundamentação concreta, evidenciada na reiteração delitiva do acusado, não há manifesta ilegalidade.
+2. Conforme a jurisprudência desta Corte Superior, não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, devendo-se, no entanto, adequar a custódia às regras do regime aplicado na sentença condenatória, o que, no caso, já foi determinado pelo STF, nos autos da medida cautelar no HC n. 220.880/BA.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 171.488/BA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. ROUBO SIMPLES E ROUBO MAJORADO. CONDENAÇÃO NO REGIMENTE SEMIABERTO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. POSSIBILIDADE. GRAVIDADE DOS FATOS E RISCO DE REITERAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do §1º art. 387 do Código de Processo penal, ao proferir sentença condenatória, O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta.
+2. No caso, a prisão preventiva foi mantida na sentença em razão da periculosidade social do paciente, evidenciada pela gravidade dos fatos e pelo efetivo risco de reiteração delitiva, porquanto teria cometido dois crimes de roubo em um intervalo de apenas 4 dias.
+3. Ainda, embora o paciente tenha sido condenado no regime semiaberto, é assente na jurisprudência deste Superior Tribunal de Justiça que não há incompatibilidade entre o regime intermediário de cumprimento de pena e a prisão cautelar, havendo necessidade, apenas, da compatibilização da custódia preventiva com as regras próprias do regime. (AgRg no HC n. 761.032/RO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022.). No caso, o juízo sentenciante determinou a expedição da guia de execução provisória, procedimento necessário para assegurar ao paciente o direito de permanecer em estabelecimento prisional com regras compatíveis com o regime semiaberto. Ausência de constrangimento ilegal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 787.182/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe de 19/12/2022.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ALEGAÇÃO DE ATIPICIDADE MATERIAL DA CONDUTA. IMPOSSIBILIDADE, NO CASO, DIANTE DA CONTUMÁCIA. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. AUSÊNCIA DE NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT NÃO PREJUDICADO. CONDENAÇÃO. IMPOSIÇÃO DE REGIME SEMIABERTO. NEGATIVA DO RECONHECIMENTO DO DIREITO DE RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. COMPATIBILIZAÇÃO DO REGIME SEMIABERTO COM PRISÃO CAUTELAR. NECESSIDADE. RECURSO DESPROVIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+5. A segregação cautelar encontra-se devidamente fundamentada na garantia da ordem pública, ante o risco concreto de reiteração delitiva
+6. Diante da condenação em regime inicial semiaberto, a prisão cautelar deve ser compatibilizada com as regras próprias desse regime, salvo se houver prisão por outro motivo.
+7. Recurso ordinário desprovido. Habeas corpus concedido, de ofício, para determinar que a prisão preventiva do Recorrente observe as regras próprias do regime semiaberto.
+(RHC 108.753/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em
+28/05/2019, DJe 05/06/2019.)
+Sendo assim, concedo a ordem, liminarmente e de ofício, em menor extensão, para compatibilizar a custódia cautelar com o regime fixado na sentença, salvo se houve ulterior reforma pelo Tribunal de origem, em eventual recurso ministerial.
+Publique-se. Intimem-se.
