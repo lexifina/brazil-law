@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 601/606) interposto contra decisão desta relatoria, que negou provimento ao recurso (e-STJ fls. 593/596).
+Em suas razões, a parte reitera a violação do art. 1.022 do CPC/2015, "tendo em vista que era de mister o pronunciamento, pelo colendo Tribunal a quo acerca da necessidade de apuração do percentual adequado de reajuste em fase de liquidação de sentença" (e-STJ fl. 603).
+Afirma que, "para se aferir a violação apontada no presente recurso especial, basta partir da moldura fática delineada no v. aresto atacado para se verificar a frontal violação, não havendo qualquer necessidade de se revolver provas, de modo que a Súmula 7 desse Superior Tribunal de Justiça, embora não citada expressamente, não encontra aplicação no caso em exame" (e-STJ fl. 605).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 615/618), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REVISÃO CONTRATUAL. REAJUSTE POR FAIXA ETÁRIA. REQUISITOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo a jurisprudência desta Corte Superior, firmada em recurso especial repetitivo, "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (REsp n. 1.568.244/RJ, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/12/2016, DJe de 19/12/2016).
+3. A ausência de indicação d o dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 593/596):
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 313/314):
+Plano de saúde coletivo. Aplicabilidade do CDC (Súmula 469 do C. STJ). Possibilidade de revisão de cláusulas contratuais que decorre do próprio sistema jurídico (arts. 478 e 480 do CC e art. 6º, V, do CDC). Relativização da "pacta sunt servanda". Incidência da legislação consumerista e possibilidade de revisão do contrato que não implicam, ordinária e necessariamente, em solução jurídica favorável ao consumidor, posto que o CDC não é um diploma de mão única.
+Reajuste por faixa etária. Possibilidade reconhecida (art. 15 da Lei nº 9.656/98). Necessidade de previsão contratual, respeito aos limites e requisitos legais e observância ao princípio da boa-fé objetiva. Aplicação de reajuste no percentual de 88,38% a partir de 59 anos de idade, nos exatos termos do contrato. Ilegalidade não evidenciada. Majoração em consonância com o artigo 3º, I, II e III da Resolução Normativa nº 63/2003 da ANS. Abusividade, porém, manifesta. Majoração de 88,38% que representa manifesta desvantagem do segurado em relação à operadora de saúde. Afronta ao disposto nos arts. 51, IV, XII e § 1º, III, e 39, V, ambos do CDC. Expressão numérica exorbitante e injustificada. Inexistência de prova de efetiva ampliação do risco, com cálculos atuariais sólidos, a ponto de impor o reequilíbrio econômico-financeiro do pacto. Limitação impositiva. Observância do artigo 3º, I e II, da Resolução Normativa nº 63/2003 da ANS. Hipótese dos autos que revela que a variação acumulada entre a sétima e a décima faixas sobeja a variação acumulada entre as primeiras sete faixas etárias. Reajuste que deve ser adequado ao texto regulamentar. Limitação ao percentual de 30,80%. Equação econômica do negócio que reclama aquilatar-se o justo valor. Devida a restituição simples dos valores pagos a maior. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 347/352).
+Em suas razões (e-STJ fls. 336/340), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 1.022, I, do CPC/2015, "sob o fundamento de que o acórdão deixou de se atentar quanto ao pedido determinação de perícia atuarial, pois a limitação do percentual a 30% (concedida em antecipação de tutela e confirmada em sentença) é contrária ao entendimento firmado no Recurso Representativo Resp n.2 1.568.244/RJ que determinou o percentual devido a ser calculado em fase de liquidação de sentença" (e-STJ fl. 338), e
+(ii) arts. 927, III, e 1.039 do CPC/2015, pois, "no tocante ao reajuste pela mudança de faixa etária do segurado, é cediço que a questão da aplicabilidade de tal reajuste foi objeto de análise perante o STJ, sendo reconhecida a validade de sua aplicação, desde que o aumento obedeça a três regras: tenha previsão contratual, siga normas de órgãos governamentais reguladores e não seja feito aleatoriamente, com aplicação de "percentuais desarrazoados". Conforme entendimento da Corte, para os contratos recentes, isto é, após 2004, deve ser aplicado a Resolução, a RN 63 da Agência Nacional de Saúde Suplementar. Além disso, outros quesitos devem ser observados, quais sejam os postos no tópico 7 da ementa abaixo, referente ao julgamento do Recurso Especial Repetitivo n.º 1.568.244/R1" (e-STJ fl. 338).
+Contrarrazões apresentadas às fls. 357/360 (e-STJ).
+O recurso foi admitido na origem.
+Determinado o retorno dos autos à origem para observância do rito do recurso repetitivo, foi ratificado o julgado anterior (e-STJ fls. 546/461).
+Houve reiteração do recurso especial (e-STJ fls. 518/530).
+Contrarrazões novamente apresentadas (e-STJ fls. 577/582).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+No mais, verifico que a parte alega violação dos seguintes dispositivos legais:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Art. 927. Os juízes e os tribunais observarão:
+III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos;
+O precedente no recurso repetitivo, que a recorrente busca seja observado, determina que "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (REsp n. 1.568.244/RJ, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/12/2016, DJe de 19/12/2016).
+O Tribunal de origem, por sua vez, aplicou o entendimento firmado no repetitivo (Tema n. 952). Contudo, ao analisar o quadro fático dos autos, manteve sua posição quanto à abusividade no aumento das mensalidades, pelos seguintes fundamentos (e-STJ fls. 460/461):
+Entretanto, da leitura do v. acórdão prolatado por esta C. 7" Câmara (fls. 174/190), possível se extrair que este colegiado já aplicou ao caso sob testilha, por analogia, as teses firmadas no Tema 952/STJ (o que foi determinado na tese firmada no Tema 1.016/STJ), ainda que o caso se tratasse de plano coletivo por adesão.
+Nesse sentido, destaco os seguintes trechos do decisório em questão:
+"Cabia a operadora, portanto, demonstrar a causa primária da referida elevação de 88,38%.
+Competia-lhe demonstrar claramente que ao alcançar 59 anos de idade o consumidor onera significativamente a operadora de saúde.
+Era fundamental demonstrar que nos últimos anos foram realizados um número "x" de cirurgias de pessoas com mais de 59 anos de idade, com uso de vários exames de imagem, inclusive, etc.
+Em razão da ausência de elementos fáticos, tem-se por irretorquivel, pela própria expressão numérica do referido percentual, a exorbitância da exigência levada a efeito pelas recorrentes.
+O elevado percentual fala por si mesmo." O precedente vinculante é claro no sentido de aplicação das regras do tema 952 STJ aos planos coletivos.
+Em sua tese, verifica-se como um dos requisitos que "não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso." Assim, é imperioso demonstrar a necessidade dos reajustes, satisfazendo o requisito da "base atuarial idônea".
+Caso não vencida esta etapa e justificados os reajustes, sequer existe necessidade da verificação do enquadramento dos percentuais aos parâmetros estabelecidos na RN 63/2003.
+Portanto, observado os parâmetros do recurso repetitivo, não há falar em violação dos arts. 927, III, e 1.039 do CPC/2015.
+Quanto ao mérito, a parte não apontou dispositivo legal violado.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+No recurso especial, a parte alegou violação do art. 1.022, II, do CPC/2015, pois o "acórdão deixou de se atentar quanto ao pedido determinação de perícia atuarial, pois a limitação do percentual a 30% (concedida em antecipação de tutela e confirmada em sentença) é contrária ao entendimento firmado no Recurso Representativo Resp n. 1.568.244/RJ que determinou o percentual devido a ser calculado em fase de liquidação de sentença" (e-STJ fl. 338).
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+De fato, no recurso especial repetitivo n. 1.568.244/RJ, apenas ficou decidido que "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso" (Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/12/2016, DJe de 19/12/2016). Portanto, não houve determinação de que o percentual devido deveria ser calculado em fase de liquidação de sentença.
+Assim, tendo o Tribunal de origem observado os parâmetros estabelecidos no recurso especial repetitivo, não houve violação dos arts. 927, III, e 1.039 do CPC/2015.
+Por fim, não é possível adentrar o mérito da controvérsia sem a parte ter indicado os dispositivos legais violados (Súmula n. 284 do STF).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
