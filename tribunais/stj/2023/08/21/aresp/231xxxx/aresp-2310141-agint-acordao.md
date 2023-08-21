@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 4ª Região, assim resumido:
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL DE DÍVIDA NÃO-TRIBUTÁRIA. SUCESSÃO EMPRESARIAL. TRANSFERÊNCIA DE ESTABELECIMENTO. A sucessão empresarial se configura a partir da passagem de poder e capital de uma empresa para outra que passará a executar suas atividades, ainda que com outra razão social. Não se confunde, portanto, com a transferência, tão-somente, de estabelecimento, prevista no artigo 1.146 do CC. Hipótese em que os fatos narrados parecem se subsumir, sim, à simulação e à fraude, não tendo a agravante, porém, juntado aos autos subsídios suficientes para apreciação do tribunal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O referido óbice só incidiria se das razões recursais não se conseguisse permitir a exata compreensão da controvérsia. Note-se, no entanto, que embora não tenha havido especificação de qual inciso teria sido violado, fica claro que o recurso se refere à omissão na análise do conjunto probatório fartamente demonstrado pela Agência Reguladora, hipótese esta prevista nos incisos II do artigo 1022 do CPC.
+Vejam-se os trechos do recurso (fls.71/78):
+ ..
+Em razão da omissão verificada no julgado, a Agência Reguladora interpôs embargos de declaração, requerendo fosse sanada a omissão no tocante à análise do conjunto probatório, bem como prequestionada a matéria legal abordada, tendo em vista a existência de continuidade empresarial pelo mesmo quadro societário em CNPJ distinto.
+Veja-se que o ponto omisso trata de questão essencial à solução da lide, já que abrange justamente a alegada sucessão empresarial que autorizaria o redirecionamento.
+Contudo, em que pese a comprovação cabal promovida da Agência Reguladora - devidamente instruída com a documentação necessária a amparar seu pleito - entendeu pela negativa de provimento aos declaratórios, ao fundamento de que o recurso consistia em "mera contrariedade à tese adotada pelo julgador" - sem apreciar as alegações da ANTT ou expor qualquer manifestação sobre a documentação anexada.
+Neste passo, entende a ANTT o julgamento dos embargos configurou uma negativa da prestação jurisdicional, pois recusou a uma das partes a solução de uma questão adequadamente colocada.
+Alega-se claramente omissão no acórdão recorrido uma vez que a corte regional embora provocada mediante embargos de declaração foi omissa quanto a análise do conjunto probatório, questão essencial à solução da lide.
+O que se percebe então é que não há a referida deficiência de fundamentação que não permitiria a compreensão da controvérsia, afastando-se a o óbice da súmula 284 do STJ.
+Não conhecer do recurso pelo óbice da súmula 284 do STF, tão somente porque não especificado o inciso do artigo 1022 que teria sido violado, embora das razões recursais fique expresso e claro que se alega contradição/obscuridade e omissão (art. 1022, I e II do CPC), é privilegiar formalismo exacerbado em detrimento do princípio da primazia do julgamento do mérito previsto no artigo 6º do CPC:
+ ..
+A regra da primazia do julgamento de mérito é consagrada em diversas passagens do novo CPC. No art. 4º, ao estabelecer que a decisão de mérito seja sempre preferencial a uma decisão de inadmissibilidade; no art.932, que impõe ao relator o dever geral de prevenção, de modo a evitar o juízo de inadmissibilidade recursal; e no art.1.029, § 3º, que, tratando dos recursos extraordinário e especial, prevê a possibilidade de o STF e o STJ desconsiderarem vícios formais de recursos tempestivos ou determinar sua correção.
+No caso dos autos, não há nem que se falar em desconsiderar ou corrigir qualquer vício, pois, como demonstrado, as razões recursais argumentam de maneira pertinente e adequada e conectam-se com os fundamentos da decisão guerreada, sendo, assim, suficientes para ensejar o conhecimento do recurso e a emissão de um julgamento demérito pelo STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL DE DÍVIDA NÃO TRIBUTÁRIA. SUCESSÃO EMPRESARIAL. TRANSFERÊNCIA DE ESTABELECIMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, nos autos de execução fiscal, indeferiu pedido de reconhecimento de sucessão empresarial e a inclusão de empresa polo passivo. No Tribunal a quo, o agravo foi improvido.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
