@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo MUNICÍPIO DE TABOÃO DA SERRA desafiando decisão pela qual neguei provimento ao agravo, ante a incidência da Súmula 7/STJ.
+Irresignada, a parte agravante sustenta que: (I) "Cabe, nesse caso, analisar somente se, mesmo tendo havido reconhecimento jurídico do pedido por parte dos réus, está correto entendimento de que não cabe honorária advocatícia de sucumbência à parte vencida" (fl. 341) e (II) "apenas o que se pretende, com o manejo do presente recurso especial, é que a turma julgadora desse Excelso Sodalício avalie as consequências jurídicas que se extraem dos fatos incontroversos já sedimentados nas instâncias ordinárias" (fl. 342).
+Sem impugnação (fls. 347/348).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. DISTRIBUIÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/TJ.
+1. É assente no STJ que rever a conclusão adotada pelo Tribunal de origem quanto ao princípio da causalidade ou à distribuição dos ônus sucumbenciais implica o revolvimento do contexto fático-probatório, o que é inviável em Recurso Especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, tal como constatou a referida decisão, observa-se dos autos que o Tribunal de origem, ao dirimir a controvérsia, esclareceu o seguinte (fl. 245):
+Sustenta o Município a aplicação do art. 90 do CPC, segundo o qual "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+Ocorre que, no caso dos autos, há situação peculiar e excepcional que impede a aplicação de referido artigo e o arbitramento da verba honorária.
+Os réus/exequentes ofertaram o cálculo com base no título executivo judicial, ou seja, no que fora decidido no processo de conhecimento, cumprindo o determinado na sentença. Assim, os cálculos apresentados inicialmente utilizaram os juros compensatórios de 12% ao ano.
+Contudo, em razão da alteração de entendimento em relação à taxa de juros, em ação direta de inconstitucionalidade julgada pelo C. Supremo Tribunal Federal, houve a concordância dos réus e acolhimento da ação rescisória, pelo acordão embargado.
+Não houve, portanto, má-fé dos réus, porque seus cálculos estavam em conformidade com o título executivo, de forma que não deram causa ao acolhimento da ação. Os cálculos somente foram alterados porque houve modificação do entendimento do C. STF quanto à aplicação dos juros.
+Destarte, considerando as peculiaridades da questão debatida nos autos e que os réus exequentes, ora embargados, não deram causa ao ajuizamento da ação, bem como não resistiram à pretensão, não há que se falar em arbitramento da verba honorária, em atenção ao princípio da causalidade.
+Ora, é assente no STJ que rever a conclusão adotada pelo Tribunal de origem quanto ao princípio da causalidade ou à distribuição dos ônus sucumbenciais implica o revolvimento do contexto fático-probatório, o que é inviável em Recurso Especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REAFIRMAÇÃO DA DER. PRINCÍPIO DO CONTRADITÓRIO. AFRONTA. NÃO OCORRÊNCIA. JUROS DE MORA. JURISPRUDÊNCIA DO STJ. OBSERVÂNCIA. HONORÁRIOS. SUCUMBÊNCIA. PRINCÍPIO. CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+1. Não há falar em afronta aos arts. 926 e 927 do CPC/2015 e ao princípio do contraditório, porquanto o Tribunal de origem reconheceu o direito da parte autora, no sentido da possibilidade de reafirmação da DER, na esteira do entendimento proferido no Tema 995 do STJ, e fixou o termo inicial dos juros de mora segundo o que foi estipulado no precedente.
+2. A Primeira Seção do STJ fixou a orientação, no julgamento dos Embargos de Declaração no Recurso Repetitivo (EDcl no REsp 1.727.063/SP, Rel. Min. Mauro Campbell Marques, DJe 21.5.2020), de que os juros moratórios serão devidos somente se a autarquia previdenciária deixar de implantar o benefício reconhecido judicialmente, sobre o qual houve reafirmação da DER, no prazo razoável de até quarenta e cinco dias. Fixou que deverão tais juros ser incluídos no cálculo do requisitório de pequeno valor ou do precatório. Incidência da Súmula 83 do STJ.
+3. Na hipótese, chegar a entendimento diverso apto a influir na aplicação do princípio da causalidade e distribuição dos honorários sucumbenciais encontra óbice na Súmula 7/STJ, visto que exigiria o revolvimento de fatos e provas, procedimento inadmissível na via do Recurso Especial.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.012.493/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSIONÁRIA DE TELEFONIA MÓVEL. POSTES DE TELETRANSMISSÃO DE DADOS. DESLOCAMENTO PARA VIABILIZAÇÃO DE OBRAS DE INFRAESTRUTURA. OMISSÃO DO ACÓRDÃO ESTADUAL AFASATADA. FALTA DE INTERESSE DE AGIR E PERDA SUPERVENIENTE DO OBJETO. PRECEDENTES DO STJ. AUSÊNCIA DE CONDENÇÃO GENÉRICA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Afasta-se a alegada tese de negativa de prestação jurisdicional, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A desconstituição da premissa lançada pelo acórdão recorrido, acerca da existência de utilidade e necessidade de o demandante servir-se do meio judicial para alcançar a vantagem pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+3. O acórdão recorrido não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que "o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão" (REsp 1.645.812/MG, Rel. Ministro Herman Benjamin, DJe 19/4/2017).
+4. No caso, descabe ao STJ rever o entendimento alcançado sobre a ausência de condenação genérica, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa, o que é vedado pelo verbete sumular n. 7/STJ.
+5. Na hipótese, chegar à compreensão diversa da adotada pelo aresto atacado, apta a influir na aplicação do princípio da causalidade e distribuição dos honorários sucumbenciais, encontra empeço na já mencionada Súmula n. 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.650.286/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/9/2022, DJe de 16/9/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
