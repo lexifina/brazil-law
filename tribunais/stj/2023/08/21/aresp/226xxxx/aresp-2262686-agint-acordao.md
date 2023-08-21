@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA LONDRINA II SPE LTDA. (TERRA NOVA) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação da integralidade dos fundamentos de inadmissibilidade do apelo nobre, notadamente, do óbice da Súmula n.º 83 do STJ.
+Nas razões do presente inconformismo, alegou ter se insurgido contra todos os fundamentos da decisão que inadmitiu o recurso especial, pugnando pela reforma da decisão agravada.
+Foi a presentada contraminuta requerendo a aplicação da multa prevista no art. 1.021, § 4º, do NCPC (e-STJ, fls. 884/891).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 83 do STJ).
+2. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão atacada, o agravo em recurso especial não se dirigiu especificamente contra os fundamentos da decisão que negou seguimento ao apelo nobre, pois TERRA NOVA, na ocasião, não refutou, de forma arrazoada, a incidência da Súmula nº 83 do STJ, no que se refere à subsunção do caso ao prazo prescricional de 10 (dez) anos.
+E isso não fez porque apenas sustentou, nas razões de seu agravo em recurso especial, que (1) a pretensão indenizatória decorrente de vícios construtivos encontra-se prescrita; (2) foi comprovada a divergência jurisprudencial no tocante à condenação por danos morais; e (3) não há necessidade do reexame de provas.
+Assim, não houve a demonstração do adequado confronto do fundamento da decisão agravada no que tange à incidência da Súmula n.º 83 desta Corte.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 83 do STJ, cabe ao agravante demonstrar que o posicionamento adotado pela Corte local não se encontra alinhado com o entendimento do STJ sobre o tema em debate, indicando precedentes contemporâneos ou supervenientes aos referidos na decisão de inadmissibilidade do apelo nobre, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não ocorreu na espécie, tendo em vista que TERRA NOVA não trouxe à colação um único precedente sequer.
+A esse fim, também não basta a simples menção de não incidência da aludida súmula, tampouco a mera transcrição de ementa.
+A propósito, veja-se que:
+não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Desse modo, o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.532.525/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 28/9/2020, DJe 1º/10/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. APLICAÇÃO DO § 11 DO ART. 85 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Quando o inconformismo excepcional não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demon strando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Nos termos da jurisprudência desta Corte, quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado arbitrá-la, inclusive, de ofício.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.643.970/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 24/8/2020, DJe 1º/9/2020)
+Assim, como TERRA NOVA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, visto que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Da multa prevista no art. 1.021, § 4º, do NCPC
+Por derradeiro, conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, a aplicação da multa prevista no art. 1.021, § 4º, do NCPC não é automática, pois não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/8/2016, DJe 29/8/2016).
+Nessa toada, confiram-se os seguintes julgados: AgInt no AREsp 605.532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 31/8/2020, DJe 9/9/2020; e AgInt no AREsp 1.590.140/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 31/8/2020, DJe 3/9/2020.
+Assim, não há que se falar na aplicação da aludida multa, uma vez que, no caso, o manejo do agravo interno por TERRA NOVA, por si só, não deve ser tido como abusivo ou protelatório.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação d os fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
