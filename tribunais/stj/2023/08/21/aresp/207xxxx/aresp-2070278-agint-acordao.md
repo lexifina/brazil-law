@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ADILSON QUARANTA JÚNIOR contra decisão monocrática por mim proferida, quando Presidente desta corte, por meio da qual conheci do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 7/STJ, por demandar análise de provas a pretensão do ora agravante quanto à questão impenhorabilidade de valores (fls. 146-150).
+Rejeitados os embargos de declaração opostos da referida decisão (fls. 167-169).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 57):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - Impenhorabilidade - Alegação de bloqueio de verba alimentar e inferior a 40 salários mínimos - Insubsistência - Ausência de comprovação de que todo o valor bloqueado é decorrente exclusivamente de verba salarial e destinada para fins alimentares - Decisão mantida - Recurso não provido.
+Rejeitados os embargos de declaração opostos (fls. 84-87).
+Alega a agravante que demonstrou a alegada violação do art. 833, X, do CPC e que não pretende rediscutir fatos e provas, mas a impenhorabilidade de valores constritos inferiores a 40 salários mínimos, conforme incontroverso nos autos, assim a questão versa sobre matéria de direito e não matéria de fato.
+Aduz que, "Conforme consta dos autos, fora penhorado a quantia de R$ 1.560,07 (hum mil quinhentos e sessenta reais e sete centavos), conforme consta das fls. 28/29 do Agravo de Instrumento, sendo certo, portanto, que não há que se falar em revolvimento de fatos e provas para que seja caracterizado que tal valor está abaixo de 40 salários mínimos" (fl. 179).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 553-561).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem assentou, com base no contexto fático do caso, que, no caso, a verba em questão não possui caráter de impenhorabilidade absoluta, porquanto o recorrente não trouxe nenhuma prova documental para justificar a pretensão de desbloqueio, não comprovou que todo o valor bloqueado é destinado para fins alimentares, não demonstrou, assim, ev entual impenhorabilidade da referida verba.
+2. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca dos fatos e das provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Pleiteia a ora agravante, no caso dos autos, o reconhecimento de impenhorabilidade de valores depositados em conta bancária em valor inferior a 40 salários mínimos.
+Consoante relatado, o agravo em recurso especial foi conhecido para se conhecer do recurso especial e negar-lhe provimento, em razão da incidência da Súmula n. 7/STJ, no caso, por demandar a análise de provas a pretensão do ora agravante quanto à questão de impenhorabilidade de valores
+Sustenta o agravante ser indiscutível a impenhorabilidade dos valores constritos por ser inferiores a 40 salários m ínimos, conforme incontroverso nos autos.
+Não prospera a alegação da agravante.
+De início, conforme assentado na decisão agravada, da leitura do acórdão recorrido, verifica-se que o Tribunal de origem consignou, com base no contexto fático do caso, que no caso, a verba em questão não possui caráter de impenhorabilidade absoluta, porquanto o recorrente não trouxe qualquer prova documental para justificar a pretensão de desbloqueio, não comprovou que todo o valor bloqueado é destinado para fins alimentares, não demonstrou, assim, eventual impenhorabilidade da referida verba. Confira-se o seguinte excerto do voto condutor (fls. 58-59):
+Primeiramente, não se nega que as verbas provenientes de salários e subsídios possuem caráter alimentar; todavia, há que se considerar, por outro lado, o interesse público na efetividade do processo, que importa na concessão, a quem tem o direito, do provimento jurisdicional perseguido, em tempo razoável.
+Nos termos do art. 854, § 3º, do CPC, uma vez ciente do bloqueio, cabe ao executado comprovar a eventual impenhorabilidade da verba ou indisponibilidade excessiva no prazo de 05 (cinco) dias, sob pena de preclusão.
+Na hipótese, o agravante não trouxe qualquer prova documental para justificar a pretensão de desbloqueio, demonstrando precisamente que a indisponibilidade anotada recaíra sobre numerário da natureza alegada.
+Como se vê, sequer foram acostados extratos bancários, não havendo como se averiguar a atividade financeira regular do agravante e, consequentemente, a impenhorabilidade da verba constrita.
+Ressalte-se, ainda, que se o devedor não comprova que todo o valor bloqueado é destinado para fins alimentares, não há se falar em impenhorabilidade absoluta dessa verba. Não bastasse isso, o Código de Processo Civil coloca a execução a serviço do credor, permitindo-lhe posição dominante em relação ao devedor, e a criação de dificuldades para que o processo atinja seu desiderato aumenta a sensação de impunidade junto à sociedade. Nesse sentido, a não realização da penhora, tal como pretendido pelo credor, obstruiria a finalidade precípua da execução de expropriar bens do executado para a satisfação do direito do exequente, inviabilizando a celeridade da prestação jurisdicional, não havendo se falar, portanto, em impenhorabilidade de valor ínfimo.
+Nesse contexto, consoante, também, consignado na decisão agravada, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DOS VENCIMENTOS. IMPOSSIBILIDADE. PRESERVAÇÃO DA DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência desta Corte, "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art.
+649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 3/10/2018, DJe de 19/3/2019).
+2. Na espécie, a Corte de origem consignou que "não há elementos que permitam mitigar a impenhorabilidade destes vencimentos em razão de eventual padrão de vida compatível com alto salário ou nos termos da exceção contida no § 2º, do art. 833 do CPC".
+3. A pretensão de modificar o entendimento firmado demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.055.735/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+Por fim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
