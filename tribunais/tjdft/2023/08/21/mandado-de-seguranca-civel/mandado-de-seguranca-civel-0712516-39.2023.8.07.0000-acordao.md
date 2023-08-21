@@ -1,0 +1,67 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Câmara Cível
+Processo N.MANDADO DE SEGURANÇA CÍVEL 0712516-39.2023.8.07.0000IMPETRANTE(S)RENAN PUYAL RIBEIROIMPETRADO(S)INSTITUTO AMERICANO DE DESENVOLVIMENTO e SECRETÁRIO DE PLANEJAMENTO, ORÇAMENTO E ADMINISTRAÇÃO DO DISTRITO FEDERALRelatorDesembargador ARNOLDO CAMANHO
+ Acórdão Nº1747568
+
+EMENTA
+
+ p{text-align: justify;}DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINAR. ILEGITIMIDADE DA BANCA EXAMINADORA. REJEIÇÃO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÃO DE PROVA OBJETIVA. CRITÉRIOS DE ELABORAÇÃO E CORREÇÃO DE PROVA. REEXAME PELO PODER JUDICIÁRIO. IMPOSSIBILIDADE. ERRO GROSSEIRO. INOCORRÊNCIA. ILEGALIDADE NÃO COMPROVADA.
+ 1. A banca examinadora possui legitimidade para figurar no polo passivo do mandado de segurança, haja vista ter sido responsável pela elaboração, correção da prova e pelo julgamento dos recursos. Preliminar rejeitada.
+ 2. O colendo Superior Tribunal de Justiça firmou entendimento de que não cabe ao Poder Judiciário apreciar critérios de formulação e correção de provas de concurso público.
+ 3. Só é admitida a anulação de questões de concurso público quando flagrante a ilegalidade, por inobservância das regras editalícias, situação inocorrente no caso concreto.
+ 4. Segurança denegada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNOLDO CAMANHO - Relator, JOAO EGMONT - 1º Vogal, DIAULAS COSTA RIBEIRO - 2º Vogal, ALFEU MACHADO - 3º Vogal, ROBSON TEIXEIRA DE FREITAS - 4º Vogal, ALVARO CIARLINI - 5º Vogal, LEONARDO ROSCOE BESSA - 6º Vogal, ARQUIBALDO CARNEIRO - 7º Vogal e JOSE FIRMO REIS SOUB - 8º Vogal, sob a Presidência do Senhor Desembargador JAMES EDUARDO OLIVEIRA, em proferir a seguinte decisão: Segurança denegada, unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 29 de Agosto de 2023
+
+Desembargador ARNOLDO CAMANHORelator
+
+RELATÓRIO
+
+p{text-align: justify;}O Senhor Desembargador ARNOLDO CAMANHO DE ASSIS – Relator
+ O relatório é, em parte, o que consta da decisão monocrática de ID nº 47023396, in verbis:
+ “Trata-se de mandado de segurança impetrado por Renan Puyal Ribeiro contra ato praticado pelo Secretário de Planejamento, Orçamento e Administração do Distrito Federal e pelo Instituto Americano de Desenvolvimento.
+ O impetrante sustenta ser cabível o mandado de segurança para análise de erros constatados em questões objetivas de concurso público. Argumenta que, embora a divulgação do gabarito definitivo das provas objetivas tenha sido feita pelo Iades, entende-se que as autoridades coatoras são o Presidente do Instituto Iades e o Secretário de Planejamento, Orçamento e Administração do Distrito Federal, ambos responsáveis legais pela realização do concurso público. Aduz que, na prova do cargo de Auditor de Atividades Urbanas, Especialização: Vigilância Sanitária, a questão nº 59 apresenta duas respostas corretas, ‘B’ e ‘E’, motivo pelo qual a questão deve ser anulada. Alega que a alternativa ‘B’ está prevista no art. 53, da Lei nº 5.991/73, o qual dispõe que não poderá ter exercício nos órgãos de fiscalização sanitária o servidor público que for sócio ou acionista de qualquer categoria ou que prestar serviços a empresa ou estabelecimento que explore comércio de drogas, medicamentos, insumos farmacêuticos e correlatos. Assevera que a alternativa ‘E’ também está correta, haja vista que o art. 15, § 3º, da mesma lei, prevê a possibilidade de substituição do farmacêutico pelo oficial de farmácia. Defende, ainda, que a questão nº 35, está equivocada, uma vez que, segundo a Lei nº 6.437/77, não existe o instrumento chamado de ‘auto de penalidade de multa’. Alega que referidas questões estão eivadas de erros grosseiros e estão em nítido descompasso com o conteúdo programático previsto no edital, razão pela qual devem ser anuladas. Alega que a anulação das questões poderá aumentar sua pontuação e, consequentemente, melhorar sua classificação. Pondera que, caso a tutela seja concedida ao final do processo, há risco de que a prestação jurisdicional pretendida se mostre ineficaz. Liminarmente, requer que seja reconhecida a ilegalidade da negativa de anulação das questões nº 35 e 59. No mérito, pugna pela confirmação da liminar concedida”.
+ Acrescente-se que este Relator indeferiu a liminar pleiteada por meio da decisão supracitada.
+ O Distrito Federal prestou informações (ID nº 47717725, págs. 01/12), alegando a impossibilidade de se conceder mandado de segurança quando se tratar de ato do qual caiba recurso administrativo. Aduz que, no caso, a discussão relacionada ao resultado da prova já foi abordada por meio de recurso administrativo, tendo sido claramente demonstrado que os critérios de correção aplicados estavam em estrita consonância com as regras editalícias que regulamentam o certame. Argumenta que, segundo Tema nº 485, do STF, os critérios adotados pela banca examinadora de um concurso não podem ser revistos pelo Poder Judiciário. Afirma que, instada a se manifestar, a banca organizadora do concurso expediu o ofício nº 441/2023 - DJUR – IADES, no qual esclareceu de forma objetiva os critérios de correção aplicados ao caso. Pugna pela denegação da segurança, em face da inexistência de direito líquido e certo, bem como em razão da ausência de qualquer ato ilegal ou abusivo.
+ Informações prestadas pelo Instituto Americano de Desenvolvimento – IADES no ID nº 47739765, págs. 01/19, suscitando, em preliminar, sua ilegitimidade passiva, sob o argumento de que o certame em questão fora instituído por ato exclusivo da Secretaria de Planejamento, Orçamento e Administração do Distrito Federal. Expõe que apenas realiza o ato para o qual foi contratado, não possuindo autonomia para rever os atos ou decidir sobre situação já prevista no edital ou qualquer outra relacionada ao certame. No mais, assevera que os critérios de correção estabelecidos pelo examinador devem ser observados por todos os candidatos. Sustenta que o edital do certame, no subitem 18.1, prevê expressamente que não cabe recurso contra o gabarito definitivo. Defende que é vedado ao Poder Judiciário apreciar a conveniência do ato, devendo se pautar apenas na análise da legalidade. Requer que a segurança seja denegada.
+ A douta Procuradoria de Justiça manifestou-se pela ausência de interesse no feito (ID nº 48066116).
+ É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNOLDO CAMANHO - Relatorp{text-align: justify;}Inicialmente, incumbe esclarecer que a banca examinadora IADES possui legitimidade para figurar no polo passivo do mandado de segurança, haja vista ter sido responsável pela elaboração, correção da prova e julgamento dos recursos.
+Rejeita-se, pois, a preliminar suscitada pela banca examinadora.
+Quanto ao mérito, o mandado de segurança é remédio constitucional destinado à proteção de “direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça”, a teor do art. 1º, da Lei nº 12.016/09 c/c art. 5º, inciso LXIX, da CR.
+Ademais, em se tratando de controle judicial de legalidade realizado sobre ato administrativo consistente em correção de prova aplicada em concurso público, a atuação do Poder Judiciário é restrita à observância do edital.
+Com efeito, o colendo Superior Tribunal de Justiça firmou entendimento de que não cabe ao Judiciário apreciar critérios de formulação e correção de provas de concurso público. Só é admitida a anulação de questões de concurso público quando flagrante a ilegalidade, por inobservância das regras editalícias.
+A esse propósito, confira-se:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 2/STJ. CONCURSO PÚBLICO. PROVA DISSERTATIVA. PRETENSÃO DE CONTROLE DE LEGALIDADE DO CONTEÚDO EXIGIDO. EXAME DE COMPATIBILIDADE COM O CONTEÚDO PROGRAMÁTICO. POSSIBILIDADE. RE 632.853/CE. REPERCUSSÃO GERAL. CASO CONCRETO. VERIFICAÇÃO DA ADEQUAÇÃO DA QUESTÃO IMPUGNADA COM O ROTEIRO PROGRAMÁTICO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1 Conforme decidido, com repercussão geral, no RE 632.853/CE, relator o Em. Ministro Gilmar Mendes, o Poder Judiciário não pode, como regra, substituir a banca examinadora de concurso público para avaliar as respostas dadas pelos candidatos nem as notas a elas atribuídas, ou seja, não pode interferir nos critérios de correção de prova, ressalvada a hipótese de 'juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame' (RE 632853, Relator o Em. Min. Gilmar Mendes, Tribunal Pleno, julgado em 23/04/2015, DJe-125, divulgado em 26/06/2015, publicado em 29/06/2015). [...] Recurso ordinário em mandado de segurança não provido". (RMS 50.300/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/06/2016, DJe 28/06/2016).
+No caso em tela, não ocorreu erro grosseiro na correção da banca a ensejar atuação do Judiciário, de modo que eventual interferência nos parâmetros de correção das questões, retificando-se as notas atribuídas ao candidato, implicaria indevida substituição da banca examinadora e invasão ao mérito administrativo, o que, por conseguinte, violaria os princípios da separação de poderes e da reserva da Administração.
+ Nesse sentido, confiram-se os seguintes julgados deste egrégio Tribunal de Justiça:
+ “CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA C/C TUTELA DE URGÊNCIA. CONCURSO PÚBLICO. SECRETARIA DE SAÚDE DO DISTRITO FEDERAL. CARGO DE ENFERMEIRO. QUESTÕES OBJETIVAS. ALEGAÇÃO DE EXISTÊNCIA DE ERRO GROSSEIRO E DE ILEGALIDADE NA QUESTÃO. NÃO DEMONSTRAÇÃO. DEBATE SOBRE OS CRITÉRIOS DE AVALIAÇÃO. MÉRITO ADMINISTRATIVO. ATUAÇÃO DO PODER JUDICIÁRIO EM SUBSTITUIÇÃO À BANCA EXAMINADORA. IMPOSSIBILIDADE. TEMA 458 DO STF.
+ 1. A jurisprudência do STF se firmou pela impossibilidade de o Poder Judiciário substituir banca examinadora de concurso público, repudiando a interferência judicial nos critérios de correção das suas questões, pois estes critérios compõem o mérito administrativo, salvo situações excepcionais nas quais haja erro grosseiro ou manifesta ilegalidade, consubstanciada em patente violação ao edital do certame, como a incompatibilidade do conteúdo cobrado à disposição editalícia, por exemplo, conforme disposto no RE nº 632.853/CE (Tema 485/STF).
+ 2. Na hipótese, conquanto aventada a existência de erro grosseiro na questão indicada, formulada pela banca examinadora do certame, capaz atrair a aplicação da situação excepcional firmada na tese fixada pelo STF no RE nº 632.853/CE (Tema 485), cotejados os elementos apresentados nos autos, verifica-se que, de fato, pretende o impetrante discutir o seu mérito e que, para dirimir controvérsia, é necessário o exame do seu conteúdo, o que afasta a atuação do Judiciário em substituição à banca examinadora.
+ 2.1. Restando constatado que a questão indicada demandou dos candidatos conhecimento e interpretação do correspondente enunciado, tendo a banca examinadora fundamentado de maneira razoável e adequada a assertiva contra a qual se insurgiu o impetrante, não há se falar em erro grosseiro ou ilegalidade, o que afasta a possibilidade de intervenção do Judiciário quanto ao seu mérito.
+ 3. Segurança denegada”. (Acórdão 1640480, 07259693820228070000, Relator: ALFEU MACHADO, 2ª Câmara Cível, data de julgamento: 14/11/2022, publicado no DJE: 25/11/2022. Pág.: Sem Página Cadastrada).
+ “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. QUESTÕES DE CONCURSO PÚBLICO. GABARITO. MODIFICAÇÃO. IMPOSSIBILIDADE. ERRO GROSSEIRO. INEXISTÊNCIA. PEDIDO FORMULADO EM CONTRARRAZÕES. INADEQUAÇÃO DA VIA ELEITA.
+ 1. Não compete ao Poder Judiciário, no controle de legalidade, substituir a banca examinadora para avaliar a alternativa correta de questão em concurso público, salvo em caso de erro grosseiro, ilicitude ou abuso de poder, o que não se verificou. Precedentes STF e TJDFT.
+ 2. As contrarrazões não são o meio processual próprio para deduzir pedido recursal autônomo quanto a capítulo da sentença.
+ 3. Negou-se provimento ao apelo do impetrante. Não se conheceu de pedido formulado pelo impetrado em contrarrazões”. (Acórdão 1629664. 07000222520228070018, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 13/10/2022, publicado no PJe: 27/10/2022. Pág.: Sem Página Cadastrada).
+ Dessa forma, denego a segurança, condenando o impetrante ao pagamento das custas processuais. Sem honorários advocatícios, em atenção ao art. 25 da Lei nº 12.016/09
+ É como voto.
+
+O Senhor Desembargador JOAO EGMONT - 1º Vogal Ressalvado meu entendimento quanto à legitimidade passiva da banca examinadora, porém, em homenagem ao princípio do colegiado, acompanho o eminente relator.
+
+É como voto.
+O Senhor Desembargador DIAULAS COSTA RIBEIRO - 2º Vogal Com o relatorO Senhor Desembargador ALFEU MACHADO - 3º Vogal Com o relatorO Senhor Desembargador ROBSON TEIXEIRA DE FREITAS - 4º Vogal Com o relatorO Senhor Desembargador ALVARO CIARLINI - 5º Vogal Com o relatorO Senhor Desembargador LEONARDO ROSCOE BESSA - 6º Vogal Com o relatorO Senhor Desembargador ARQUIBALDO CARNEIRO - 7º Vogal Com o relatorO Senhor Desembargador JOSE FIRMO REIS SOUB - 8º Vogal Com o relator
+
+DECISÃO
+
+Segurança denegada, unânime
