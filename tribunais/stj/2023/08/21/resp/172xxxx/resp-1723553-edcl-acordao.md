@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos por CARLOS AUGUSTO DE ASSIS MEDEIROS contra acórdão de e-STJ fls. 5.385/5.386, em que foi desprovido o agravo regimental, em julgado assim ementado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. LAVAGEM DE DINHEIRO EM CONTEXTO DE QUADRILHA OU BANDO. NULIDADE. QUEBRA DE SIGILO FISCAL. AUTORIZAÇÃO DEVIDA. CONHECIMENTO PELAS PARTES. ATIPICIDADE DA CONDUTA. TIPO PENAL. ADEQUADO. AUSÊNCIA DE ILEGALIDADE. DOSIMETRIA. PENA-BASE. EXCESSIVO PREJUÍZO. POSSIBILIDADE. EXASPERAÇÃO ADEQUADA. REGIME INICIAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.1. Havendo expressa afirmação da Corte de origem de que a defesa teve acesso aos elementos da quebra de sigilo fiscal, bem como à decisão que a autorizou, não há como este Tribunal alterar tais premissas fáticas sem extenso revolvimento de acervo fático e probatório, vedado na via eleita.2. Ao contrário do alegado pela defesa, o agravante não foi condenado por delito de organização criminosa, porquanto ainda não vigente a Lei n. 12.850/2013, mas sim por lavagem de dinheiro em contexto de ação de quadrilha ou bando, conforme definido, à época, pela Lei n. 9.034/1995, cuja ementa descrevia que o normativo " d ispõe sobre a utilização de meios operacionais para a prevenção e repressão de ações praticadas por organizações criminosas". Logo, não há de se falar em retroatividade de lei penal em prejuízo do réu ou atipicidade da conduta.3. "A jurisprudência desta Corte de Justiça é no sentido de que, nos crimes patrimoniais, o valor do prejuízo somente pode ser considerado para elevar a pena-base, quando se mostrar exacerbado, excedendo às consequências ínsitas ao tipo penal violado" (HC n. 557.515/MS, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 20/2/2020, DJe de 2/3/2020.)4. No caso em tela, o agente seria membro de organização criminosa que adulterava e vendia combustíveis adulterados, realizando lavagem do capital obtido no período entre 1999 e 2006, tendo sido consignado no acórdão de apelação que ele, apenas no ano de 2004, havia movimentado quase R$ 2.000.000,00 (dois milhões de reais), a despeito de haver declarado renda de apenas R$ 128.625,00 (cento e vinte e oito mil e seiscentos e vinte e cinco reais) no mesmo ano, montante que justificou adequadamente a exasperação da pena-base em 6 (seis) meses.5. Tendo em vista que a pena do agente atingiu o montante final de 4 (quatro) anos e 8 (oito) meses, com aumento da pena-base em 1/6, e apresentada fundamentação concreta, é de rigor a manutenção do regime inicial fechado, em interpretação contrario sensu da Súmula n. 440 desta Corte, bem como em observância aos ditames do art. 33, § 3º, do Código Penal.6. Agravo regimental desprovido.
+No presente recurso, a parte embargante repisa as alegações de nulidade da quebra de sigilo fiscal, da atipicidade das condutas e ilegalidades na dosimetria da pena.
+Requer o acolhimento dos embargos com efeitos infringentes para que seja anulada a ação ou reduzida a pena.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LAVAGEM DE DINHEIRO EM CONTEXTO DE QUADRILHA OU BANDO. OMISSÕES. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se fazem presentes nenhum dos citados defeitos; ao contrário, todas as teses foram enfrentadas de forma exauriente na decisão monocrática de e-STJ fls. 5.233/5.244 e no acórdão de e-STJ fls. 5.385/5.396, mostrando-se claramente o propósito de rediscussão do mérito dos referidos julgados, inviável na via eleita .
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
