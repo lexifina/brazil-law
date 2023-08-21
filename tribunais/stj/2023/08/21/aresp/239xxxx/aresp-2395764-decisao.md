@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JOSE IZIDORIO NETO e OUTROS em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Alagoas, assim ementado (fls. 294-295, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE CIVIL EM RAZÃO DE DANOS CAUSADOS EM MORADIAS LOCALIZADAS NO BAIRRO DO PINHEIRO. MÉRITO RECURSAL. AJUIZAMENTO PELO MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS E DA DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS DA AÇÃO CIVIL PÚBLICA - ACP DE Nº 0803836-61.2019.4.05.8000, A QUAL SE ENCONTRA EM TRÂMITE NA JUSTIÇA FEDERAL DESTE ESTADO. ENTENDIMENTO SEGUNDO O QUAL AJUIZADA AÇÃO COLETIVA ATINENTE À MACRO-LIDE GERADORA DE PROCESSOS MULTITUDINÁRIOS, SUSPENDEM-SE AS AÇÕES INDIVIDUAIS, NO AGUARDO DO JULGAMENTO DA AÇÃO COLETIVA. PRECEDENTES DO STF, STJ E DESTA CORTE DE JUSTIÇA. NECESSIDADE DE SOBRESTAMENTO DO PROCESSO ORIGINÁRIO ATÉ O JULGAMENTO FINAL DA ACP. MANUTENÇÃO DA DECISÃO DO JUÍZO DE PRIMEIRO GRAU. RECURSO CONHECIDO E NÃOPROVIDO. UNANIMIDADE.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 355-362, e-STJ).
+Nas razões de recurso especial (fls. 476-485 e-STJ), alegaram os insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) ao art. 1.022, §, II do CPC, ante a negativa de prestação jurisdicional; (ii) art. 337, §§1º, 2º e 3º do CPC c/c art. 81 e 104 do CDC e art. 313, §4º, do CPC, sustentando, em suma, que não há falar em sobrestamento da ação, especialmente em razão de sua discordância, haja vista que a suspensão depende de pedido expresso. Destacaram que a existência de ação coletiva não induz a imediata suspensão das ações individuais nem a ocorrência de litispendência. Aduziram que o prosseguimento das ações individuais não causará nenhum prejuízo.
+Contrarrazões às fls. 501-503, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7 e 83 do STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 522-526 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 720-744 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.
+De início, afasta-se a afronta ao art. 1022 do CPC/15, porquanto em suas razões recursais, o recorrente limitou-se a apontar a existência de omissões sobre questões relevantes que deveria ter se pronunciado o Tribunal, sem indicar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, o que atrai a incidência da Súmula 284 do STF.
+Assim, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, neste aspecto, incidindo no óbice previsto na Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF e 211 DO STJ. MORA CONTRATUAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INADIMPLEMENTO. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Ao Superior Tribunal de Justiça não cabe se manifestar sobre supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Considera-se deficiente a fundamentação recursal que alega negativa de prestação jurisdicional, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro da decisão agravada.
+3. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu.
+ ..
+11. Agravo interno a que se nega provimento.
+(AgInt no REsp 1836510/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. RECUSA DE ATENDIMENTO EM SITUAÇÃO DE EMERGÊNCIA. NECESSIDADE DE CUMPRIMENTO DE CARÊNCIA. ABUSIVIDADE. OMISSÃO DE DOENÇA PREEXISTENTE. FRAUDE. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ.
+1. Apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+2. De acordo com a jurisprudência desta Corte, é abusiva a negativa de cobertura para tratamento de emergência ou urgência do segurado sob o argumento de necessidade de cumprimento do período de carência.
+3. "Não se limita a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado. Precedentes." (AgInt no AgInt no AREsp 1458340/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019) 4. O Tribunal de origem, amparado no acervo fático-probatório, concluiu que o quadro de saúde da beneficiária era de conhecimento da operadora do plano de saúde, não havendo omissão quanto à doença preexistente. Desse modo, insindicável a conclusão do Tribunal por esta Corte Superior, ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1571523/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)  grifou-se
+Desta forma, considerando que a recorrente não indicou de maneira clara a omissão e negativa de prestação jurisdicional arguidas, aplica-se o teor da Súmula 284/STF.
+2. No que se refere ao pleito de inviabilidade de suspensão da ação individual em razão da ação civil publica, também não merece prosperar a irresignação.
+Verifica-se que o acórdão recorrido não merece reparos, pois está alinhado com as teses fixadas no Tema 675 do Supremo Tribunal Federal, em sede de repercussão geral, e no Tema 60 deste STJ, em regime de repetitivos, segundo as quais as ações individuais são suspensas, no aguardo do julgamento de ação coletiva atinente à macro-lide geradora de processos multitudinários.
+Confiram-se precedentes nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. SUSPENSÃO DA AÇÃO INDIVIDUAL. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. 3. AGRAVO INTERNO DESPROVIDO.
+1. No que concerne à alegada violação do art. 1.022 do Código de Processo Civil de 2015, observa-se que não houve a indicação pormenorizada dos pontos supostamente omitidos pela Corte de origem, apresentando-se a fundamentação do recurso genérica, a ensejar a incidência da Súmula 284/STF.
+2. Constata-se que o acórdão recorrido encontra-se em perfeita harmonia com as teses fixadas no Tema 675/STF, no âmbito de repercussão geral, e no Tema 60/STJ, em regime de repetitivos, segundo as quais as ações individuais são suspensas, no aguardo do julgamento de ação coletiva atinente à macrolide geradora de processos multitudinários.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.260.238/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO AMBIENTAL MINERAL. AÇÃO CIVIL PÚBLICA. SUSPENSÃO DA AÇÃO INDIVIDUAL. ACÓRDÃO RECORRIDO QUE SE ENCONTRA EM SINTONIA COM A ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, ajuizada a ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais no aguardo do julgamento da ação coletiva, conforme determinado pelo Tribunal a quo.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.105.000/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Inafastável o óbice da Súmula 83 do STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
