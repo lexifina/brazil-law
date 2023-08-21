@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  LEONORA  OLIVEIRA  DA  SILVA  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento,  em  virtude  da  ausência  de  vício  na  prestação  jurisdicional  e  da  aplicação  da  Súmula  nº  7/STJ  (fls.  480/483,  e-STJ).
+Nas  presentes  razões,  a  agravante  sustenta  que  o  referido  óbice  não  se  aplica  à  espécie  e  que  os  arts.  373,  I  e  II,  560  e  561  do  Código  de  Processo  Civil  e  1.196,  1.210,  1.219,  1.220  ,  1.228  e  1.238  do  Código  Civil  foram  violados.
+Aduz,  ainda,  que  houve  negativa  de  prestação  jurisdicional.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Impugnação  às  fls.  499/508  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  REIVINDICATÓRIA.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  USUCAPIÃO.  BENFEITORIAS.  REEXAME  FÁTICO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  acerca  da  usucapião  e  benfeitorias  encontra  óbice  na  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  tocante  ao  art.  1.022,  I  e  II,  do  CPC,  não  se  vislumbram  as  apontadas  omissão  e  contradição.
+A  agravante  defende  que  o  tribunal  estadual  não  prequestionou  os  arts.  373,  I  e  II,  560  e  561  do  Código  d  e  Processo  Civil,  e  1.196,  1.210,  1.219,  1.220,  1.228,  1.238  e  1.283,  parágrafo  único,  do  Código  Civil.
+No entanto,  cabe  ao  julgador  apreciar  os  fatos  e  as  provas  da  demanda  segundo  seu  livre  convencimento,  declarando,  ainda  que  de  forma  sucinta,  os  fundamentos  que  o  levaram  a  solucionar  a  lide.
+Extrai-se do  acórdão  local  que  o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  como  se  vê  do  seguinte  trecho:
+"(..)
+Mas  a  prova  dos  autos  não  permite  sustentar  a  tese  das  rés  quanto  ao  período  aquisitivo,  o  que  impede  o  reconhecimento  da  exceção  de  usucapião.
+Extrai-se  dos  documentos  de  fls.  08/09,  240  e  241,  que  o  imóvel  objeto  da  ação  é  proveniente  de  herança  deixada  por  ocasião  do  falecimento  de  Aymoré  Simas  em  17/12/2001  (fl.  241),  sendo  que  a  sentença  homologatória  do  plano  de  partilha  foi  proferida  no  processo  nº  008/1.05.0043266-8  em  24/05/2007,  com  trânsito  em  julgado  em  20/07/2007,  e  registrada  na  matrícula  do  imóvel  em  02/10/2007  (fls.  08/09).
+O  contrato  de  locação  referido  pelas  rés  em  sede  de  contestação  foi  firmado  em  31/07/1984  entre  Aymoré  e  Carlos  e,  na  cláusula  quinta,  estabelece  que  o  imóvel  é  "locado,  exclusivamente  para  uso  residencial  do  locatário  e  seus  familiares".  Na  cláusula  primeira  fixa  o  prazo  de  locação  para  o  período  de  01/08/1984  a  31/07/1985,  podendo  ser  prorrogado  por  prazo  indeterminado  se  não  houve  oposição  do  locador  (§3º  da  cláusula  segunda).
+Em  sede  de  contestação  e  nas  razões  do  recurso,  as  rés,  ora  apelantes,  sustentam  que  a  relação  locatícia  encerrou  no  final  da  década  de  90  e  que  permaneceram  no  bem,  sem  oposição,  até  agosto  de  2010.  Mas  isso  não  se  sustenta  diante  dos  documentos  de  fls.  193,  226/227  e  237/239  que  indicam  o  pagamento  de  locativos  pelo  menos  até  05/10/2002.
+Assim,  mesmo  que  se  considerasse  o  período  em  que  as  rés  permaneceram  no  bem  sem  o  pagamento  de  locativos  e  sem  a  oposição  dos  proprietários,  este  é  inferior  a  dez  anos,  considerando  a  notificação  para  desocupação  recebida  em  22/10/2010  (fls.  12/13).
+E,  não  reconhecida  a  exceção  de  usucapião,  a  posse  das  rés  é  injusta,  pois  foram  notificadas  para  a  desocupação  e  não  o  fizeram.  Além  disso,  a  parte  autora  da  ação  reivindicatória  comprova  a  titularidade  do  domínio  do  bem  imóvel.
+Quanto  à  retenção  e  indenização  das  benfeitorias,  vale  referir  parte  da  fundamentação  da  sentença  que  bem  analisou  o  caso  concreto  dos  autos,  especialmente  considerando  que  as  rés  residiram  no  bem,  sem  a  devida  contraprestação  aos  proprietários,  desde  outubro  de  2002:
+Por  derradeiro,  não  há  que  se  falar  em  direito  de  retenção  e  nem  em  indenização  por  benfeitorias,  pois,  embora  demonstrada  a  realização  de  algumas  benfeitorias  (testemunhas  e  laudo  pericial),  o  contrato  de  locação  acostado  às  fls.  51/54,  em  sua  cláusula  undécima,  expressamente  estabelece  que  qualquer  obra  e/ou  benfeitoria  somente  poderia(m)  ser  realizada(s)  mediante  prévio  e  expresso  consentimento  do  locador  e  a  parte  ré  não  logrou  comprovar  a  solicitação  de  autorização  e  nem  o  prévio  e  escrito  consentimento  do  locador;  bem  como  dispõe  que  o(a)  locatário(a)  não  tem  direito  à  indenização  por  quaisquer  benfeitorias  e/ou  obras:
+(..)
+Não  bastasse  isso,  entendo  que  nem  as  supostas  benfeitoras  necessárias  sejam  passíveis  de  indenização,  pois  a  prova  pericial  apurou  que  as  benfeitorias  foram  realizadas  após  o  ajuizamento  da  presente  Ação  (fls.  151  e  171),  ou  seja,  quando  já  litigiosa  a  coisa,  e  não  restou  devidamente  comprovada  a  necessidade  das  reformas  apontadas  (perícia  feita  com  base  no  relato  das  rés,  fl.  171  -  "Considerando  verdadeiras  as  informações  prestadas  pelas  mesmas..";  fl.  172  -  "Portanto,  se  o  piso  estava  realmente  "afundando"..")  e  nem  as  despesas  com  tais  benfeitorias,  o  que,  s.m.j.,  descaracteriza  o  enquadramento  das  benfeitorias  como  necessárias.  Isto  sem  contar  com  eventual  compensação  por  aluguéis  impagos.
+Diante  dessas  considerações,  mantida  a  sentença,  não  há  razão  para  alterar  os  ônus  sucumbenciais"  (e-STJ  fls.  364/367).
+Desse  modo,  o  não  acolhimento  das  teses  ventiladas  pela  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+Ademais,  não  é  possível  ao  Superior  Tribunal  de  Justiça  apreciar  o  entendimento  exarado  pelo  aresto  local,  porquanto  teria  que,  necessariamente,  rever  o  contexto  fático-probatório  dos  autos,  procedimento  inviável  nesta  via  extraordinária,  consoante  disposto  na  Súmula  nº  7/STJ.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
