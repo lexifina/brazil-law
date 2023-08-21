@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por APARECIDA HELENA NASCIMENTO RIBEIRO (APARECIDA) contra decisão da Presidência desta Corte, assim redigida:
+Cuida-se de recurso especial, apresentado por APARECIDA HELENA NASCIMENTO RIBEIRO, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de APARECIDA HELENA NASCIMENTO RIBEIRO, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.) Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se. (e-STJ, fls. 485/486)
+Nas razões do presente agravo interno, APARECIDA alegou que (1) o especial foi interposto com base na alínea c não havendo a necessidade de indicação de dispositivo legal.
+A impugnação foi apresentada (e-STJ, fls. 502/514).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PRESIDÊNCIA. NÃO CONHECIMENTO. LOTEAMENTO. AÇÃO DE COBRANÇA DE DESPESAS ASSOCIATIVAS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE DE ANÁLISE. NÃO PROVIMENTO.
+1. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula nº 284/STF.
+2. Mesmo nos recursos especiais interpostos com base na alínea c do permissivo constitucional, exigida a indicação do dispositivo legal sobre o qual dada a interpretação divergente.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O presente agravo interno não merece prosperar.
+As razões expostas na petição ora em análise não justificam a alteração do julgamento proferido na decisão agravada.
+O recurso especial foi interposto contra acórdão assim ementado:
+LOTEAMENTO - Ação de cobrança de despesas associativas - Sentença de procedência sob o fundamento de que a ré se beneficiou das benfeitorias realizadas pela associação autora e que aderiu tacitamente à associação visto que pagou as taxas no ano de 2018 - Apelo desta aduzindo que não é obrigada a se associar visto que adquiriu o lote antes da constituição da associação autora, invocando o Tema 492 do STF - Descabimento - Na condição de proprietária de terreno, a ré tem o dever de contribuir para manutenção da infraestrutura do loteamento, que dispõe de serviços de limpeza, jardins, água, portaria e segurança, sob pena de enriquecimento ilícito - Aplicação do Tema 492, aprovado pelo C.
+Supremo Tribunal Federal - Pagamentos realizados imediatamente antes das parcelas vencidas que configuram intenção de se associar - Conduta contrária que implica ofensa ao princípio da boa-fé, regra básica do direito - Recurso desprovido. (e-STJ, fl. 419)
+(1) Fundamentação deficiente
+Ausente a necessária fundamentação adequada.
+Da atenta leitura dos autos, verifica-se que a parte recorrente, efetivamente, não indicou o(s) dispositivo(s) de lei que teria(m) sido violado(s), não havendo, portanto, a necessária demonstração das razões de reforma do acórdão recorrido. Dessa forma, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se o seguinte julgado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. ACORDO REFERENDADO PELA DEFENSORIA PÚBLICA. AUSÊNCIA DE HOMOLOGAÇÃO JUDICIAL. ARREPENDIMENTO UNILATERAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REQUISITOS DO TÍTULO EXECUTIVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DO DEVER ALIMENTAR. FALTA DE PREQUESTIONAMENTO. FALTA DE PERTINÊNCIA TEMÁTICA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+2. A jurisprudência desta Corte compreende que "o acordo referendado pela Defensoria Pública estadual, além de se configurar como título executivo, pode ser executado sob pena de prisão civil" (REsp n. 1.117.639/MG, Relator Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 20/5/2010, DJe de 21/2/2011).
+3. Além disso, "é pacífica a jurisprudência desta Corte no sentido de que, em regra, é descabido o arrependimento e a rescisão unilateral da transação, ainda que antes da homologação judicial" (AgInt no REsp n. 1.926.701/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/9/2021, DJe de 15/10/2021).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem concluiu que estão presentes os pressupostos do título executivo. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+7. É firme a orientação do STJ de que a impertinência temática do dispositivo legal apontado como ofendido resulta na deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF.
+8. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.051.086/MA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+Acrescente-se que, mesmo nos recursos especiais interpostos com base na alínea c do permissivo constitucional, exigida a indicação do dispositivo legal sobre o qual dada a interpretação divergente. Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Está pacificado nesta Corte Superior que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa.
+Precedentes.
+1.1. É inviável o acolhimento da tese da ausência de responsabilidade civil da agravante, pois, para tanto, seria imprescindível o revolvimento do acervo fático-probatório, providência vedada a esta Corte Superior ante o óbice da Súmula 7/STJ.
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+3. A falta de indicação, pela parte recorrente, de quais dispositivos legais teriam sido objeto de interpretação divergente pelo acórdão recorrido implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.291.017/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
