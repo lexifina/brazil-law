@@ -1,0 +1,10 @@
+DECISÃO
+A defesa aponta que o paciente sofre constrangimento ilegal por ato do Coordenador da Unidade Prisional da Região Noroeste do Estado de São Paulo - Valparaíso - SP, porquanto aquele faria jus à transferência para estabelecimento prisional mais próximo de sua família.
+Requer, em liminar, a "transferência imediata  do paciente  para a Penitenciária de Registro-SP" e, ao final, "a concessão definitiva da ordem, confirmando-se a decisão liminar" (ambos à fl. 8).
+Antes de apreciar o pleito liminar, solicitei ao Magistrado da execução informações acerca do alegado na impetração, que foram prestadas à fl. 250, oportunidade na qual se esclareceu o que segue (grifei):
+O paciente, atualmente, cumpre pena em regime fechado, referente a três execuções que possui a cumprir, com término de penas previsto para 21/01/2024, e requereu a progressão de regime, porém os autos físicos, digitalizados em dezembro de 2022, só foram saneados e redistribuídos a este DEECRIM em 28/07/2023.
+Diante disso, esse Juízo, nesta data, deferiu a remição de penas ao sentenciado, determinou a atualização do cálculo e requisitou o expediente de praxe, em dez dias, a fim de analisar o pedido de progressão de regime do paciente.
+Quanto ao pedido de aproximação familiar, a última petição protocolada pelo impetrante neste DEECRIM data de 11/02/2022, que gerou o Pedido de Providências nº 1000059-30.2022.8.26.0509 de competência da Corregedoria dos Presídios, de modo que este Juízo não tem maiores informações a respeito da tramitação administrativa do pleito, razão pelo qual determinei a intimação da defesa para requerer o desarquivamento daqueles autos a fim de que o Diretor da unidade seja instado a prestar esclarecimentos sobre o pedido do sentenciado.
+Verifico que a questão objeto deste writ não foi objeto de análise pelo Tribunal estadual, no acórdão apontado como ato coator, circunstância que evidencia a impossibilidade de sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
