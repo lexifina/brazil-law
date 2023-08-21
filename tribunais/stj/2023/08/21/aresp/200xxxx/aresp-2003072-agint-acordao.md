@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO DARCI RODRIGUES DE OLIVEIRA (JOÃO) contra decisão de relatoria do Ministro Presidente desta Corte, que conheceu do agravo para não conhecer do recurso especial, pela incidência das Súmulas nºs 284 do STF e 211 do STJ.
+Nas razões do presente inconformismo, JOÃO insistiu nos argumentos deduzidos no apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. TRANSFERÊNCIA DE VALORES DA CONTA POUPANÇA PARA A CONTA CORRENTE. PAGAMENTO DE DÍVIDA ORIUNDA DE CHEQUE ESPECIAL. AUSÊNCIA DE ILÍCITO PRATICADO PELO BANCO RÉU. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada violação ao art. 833, X, do CPC, no que concerne à impossibilidade de desconto de valores depositados na conta poupança, está dissociada dos fundamentos utilizados no aresto impugnado, que consignou ter restado comprovado, nos autos, que a quantia debitada da conta poupança do recorrente foi destinada ao pagamento de uma dívida, que havia sido objeto de negociação entre as partes. Aplicável, no ponto, o óbice da Súmula nº 284 do STF.
+2. A controvérsia relacionada à violação do art. 42-A do CDC, quanto à falta de informação clara e objetiva acerca do débito, ressente do necessário prequestionamento, pois tal preceito legal não foi objeto de apreciação pelo Tribunal estadual, pressuposto inafastável ao conhecimento do apelo nobre.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido
+VOTO
+O inconformismo agora manejado não merece provimento, por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Trata-se, na origem, de ação indenizatória ajuizada por JOÃO contra a CAIXA ECONÔMICA FEDERAL (CAIXA), alegando ter sido transferida, sem autorização, a quantia de R$ 2.268,36 da sua conta poupança para cobrir suposto débito na conta corrente. Afirmou, ainda, que recebeu diversos cartões de crédito sem solicitação e que um deles teria sido clonado, gerando abalo de ordem moral.
+A r. sentença julgou a ação improcedente, sendo confirmada posteriormente pelo TRF4, nos seguintes termos:
+Examinando os autos e as alegações das partes, fico convencido do acerto da sentença improcedência, proferida pelo juiz federal Oscar Valente que transcrevo e adoto como razão de decidir (..)
+Restou esclarecido, através das provas dos autos, que o valor retirado da conta poupança do autor ocorreu devido a renegociação de dívida (OUT4 a 7, ev. 19). Logo, mostra-se correta a retirada dos valores.
+Em relação aos seis cartões enviados ao autor pela CEF, esses sequer foram desbloqueados, não geraram dívida, nem mesmo cobrança alguma para o autor, de forma que o envio não lhe causou prejuízos materiais ou morais.
+Portanto, o que foi trazido nas razões de recurso não me parece suficiente para alterar o que foi decidido, mantendo o resultado do processo e não vendo motivo para reforma da sentença.
+Conforme acertadamente aduzido na decisão recorrida, a alegada violação dos arts. 833, X, do CPC e 39, III, do CDC, quanto, respectivamente, à impossibilidade de desconto de valores depositados na conta poupança e do envio de cartões de crédito sem solicitação, está dissociada dos fundamentos utilizados no aresto impugnado, que consignou ter restado comprovado, nos autos, que a quantia debitada da conta poupança de JOÃO foi destinada ao pagamento de uma dívida, que havia sido objeto de negociação entre as partes.
+Aplicável, portanto, o óbice da Súmula nº 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no acórdão, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Com relação à suposta violação ao art. 42-A do CDC, quanto à falta de informação clara e objetiva acerca do débito, verifica-se que tal preceito legal não foi objeto de apreciação pelo Tribunal estadual, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Ressalta-se que, muito embora ventilada nas razões dos embargos de declaração, a falta de manifestação no acórdão superveniente persistiu. Contudo, até para efeito de prequestionamento ficto exige-se, além da anterior oposição dos aclaratórios, a indicação de violação do artigo 1.022 do CPC, para que se possibilite ao órgão julgador verificar a existência do vicio no acórdão recorrido. Nesse passo, JOÃO incorre também no óbice da Sumula nº 211 do STJ.
+Por fim, no que tange à alegada existência de dano moral, em razão da clonagem do cartão de crédito, verifica-se que o recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, sendo que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Assim, também por esse enfoque, perdeu força o conhecimento do apelo nobre por se mostrar refratário à Súmula nº 284/STF.
+Nesse sentido: É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019).
+Nessa toada, como JOÃO não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
