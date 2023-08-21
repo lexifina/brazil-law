@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por PEDRO DE ALENCAR MATOS BEVILACQUA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. RECUSA EM CUSTEAR MEDICAMENTO PARA TRATAMENTO DE LEUCEMIA. SENTENÇA DE PROCEDÊNCIA. DANOS MORAIS DE SEIS MIL REAIS. RECURSO DA OPERADORA. MANUTENÇÃO DO JULGADO. INCONFORMISMO DO PLANO DE SAÚDE. DESPROVIMENTO DO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 489, § 1º, IV, do CPC, no que concerne à nulidade do acórdão recorrido por falta de fundamentação, uma vez que não enfrentou os argumentos deduzidos pelos recorrentes e, com isso, impossibilitou o exercício do contraditório e da ampla defesa, trazendo a seguinte argumentação:
+1. Como se verifica, data máxima vênia, o V. Acordão recorrido deixou de enfrentar todas as matérias suscitadas em sede de recurso, uma vez que não fundamentou uma linha sequer sobre a ofensa ao princípio do contraditório e da ampla defesa que foram evidenciadas nos autos.
+ ..
+4. Os fatos omitidos pelos Eméritos Julgadores, são de extrema relevância para modificar a conclusão do V. acórdão, pois não é razoável considerar como prova capaz de extinguir o direito da autora, imagens juntadas de forma parcial e manipuladas de forma unilateral pela empresa recorrida.
+ ..
+14. Sem a analise destas questões, acredita-se que o julgamento esta incompleto e a parte recorrente ficou prejudicada, eis que não houve confronto dos argumentos trazidos pelos recorrentes.
+ ..
+18. Por isso, que as imagens juntadas nas petições devem ser precedidas da juntada do seu original, pois do contrário, impossibilitam o exército do contraditório e ampla defesa.
+19. Diante do exposto, requer o provimento deste recurso, para declarar nulo o V. Acórdão recorrido, uma vez que ele se baseou em prova não idônea, que fere a ampla defesa e contraditório. (fls. 536/539).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houv e o prequestionamento do dispositivo de lei federal apontado como violado, uma vez que não houve o devido e necessário debate a respeito deste dispositivo no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1/9/2022; REsp n. 1.666.862/CE, relator Ministro Francisco Falcão, relator para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8/9/2022; AgRg no AREsp n. 2.089.384/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2022; AgInt no AREsp n. 2.101.047/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; AgInt no AREsp n. 2.033.678/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022; AgInt no AREsp n. 1.812.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/6/2022; AgInt no AREsp n. 743.795/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/4/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
