@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULO CEZAR SILVA DA ROSA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente encontra-se preso preventivamente sob a imputação da suposta prática do crime previsto no artigo 155, § 4º, inciso IV, do Código Penal Brasileiro.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 105):
+HABEAS CORPUS. FURTO QUALIFICADO. GRAVIDADE E COMPLEXIDADE DA AÇÃO DELITIVA. PRISÃO PREVENTIVA MANTIDA. A custódia cautelar se faz necessária pela complexidade da ação delitiva, considerando que o feito envolve possível associação criminosa que praticava diversos delitos de natureza patrimonial. Nesse contexto, eventual adoção de medida menos gravosa seria insuficiente a garantir a ordem pública e a conveniência da instrução. ORDEM DENEGADA.
+Na presente oportunidade, a impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a presença de condições pessoais favoráveis ao paciente, como primariedade, bons antecedentes e residência fixa no distrito da culpa.
+Argumenta, ainda, a existência de indevido excesso de prazo para a formação da culpa, estando o paciente encarcerado há mais de 101 dias, sem que haja qualquer perspectiva para o encerramento da ação penal.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a imediata expedição do respectivo alvará de soltura.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também foi impetrado o RHC n. 185.131/RS, igualmente em favor do ora paciente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar.
+Ademais, em decisão proferida em 8/8/2023, este Relator negou provimento ao referido recurso, não vislumbrando constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+Assim, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi" (AgRg no HC n. 773.624/PI, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
