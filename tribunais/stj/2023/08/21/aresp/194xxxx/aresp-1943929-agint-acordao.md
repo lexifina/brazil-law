@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por HASPA CORRETORA DE CÂMBIO E VALORES S.A. e HASPA HABITAÇÃO SÃO PAULO IMOBILIÁRIA S.A. (HASPA e outro) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DE IMÓVEL ADQUIRIDO POR TERCEIRO DE BOA-FÉ. DESCONSTITUIÇÃO DO ATO DE CONSTRIÇÃO. ILEGITIMIDADE PASSIVA. DEVEDOR QUE DEU CAUSA AO ATO DE CONSTRIÇÃO. PRECEDENTE DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fls. 507/510).
+Nas razões do presente inconformismo, HASPA e outro defenderam que a penhora que recaiu sobre o imóvel objeto dos embargos de terceiro foi pleiteada pelo credor, o ESPÓLIO DE FRANCISCO MELO ALVES, e não pelos recorrentes, devedores. Alegaram que não detêm legitimidade para figurar no polo passivo dos embargos de terceiro, pois não aufeririam qualquer vantagem com o ato de constrição, devendo a ação ser julgada extinta, sem resolução de mérito, em relação a eles.
+Foram apresentadas contraminutas (e-STJ, fls. 530/532 e fls. 536/555).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DE IMÓVEL ADQUIRIDO POR TERCEIRO DE BOA-FÉ. EMBARGOS DE TERCEIRO. DESCONSTITUIÇÃO DO ATO DE CONSTRIÇÃO. LEGITIMIDADE PASSIVA DA PARTE EXECUTADA NOS EMBARGOS DE TERCEIRO. DEVEDOR QUE DEU CAUSA AO ATO DE CONSTRIÇÃO. PRECEDENTE DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese, a parte executada no processo principal deve integrar o polo passivo dos embargos de terceiro, pois, mesmo ciente da penhora do imóvel, realizou a sua alienação e não informou ao juizo. Portanto, contribuiu para a constrição equivocada do bem.
+1.1 De acordo com a jurisprudência do STJ, "Devem integrar o pólo passivo da ação de embargos de terceiro todos aqueles que, de algum modo, se favoreceram do ato constritivo, situação na qual se insere o executado, quando parte dele a iniciativa de indicar à penhora o bem objeto da lide" (REsp n. 739.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 5/11/2009, DJe 16/11/2009). Nessa toada, se o executado detém legitimidade passiva quando parte dele a iniciativa de indicar à penhora o bem objeto da lide, evidentemente também a detém quando aliena o bem já penhorado a terceiro.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento, por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Consoante já afirmado, é cediço que os embargos de terceiro, em regra, devem ser propostos contra o autor da ação em que se originou a constrição, no caso, o ESPÓLIO DE FRANCISCO ALVES DE MELLO (ESPÓLIO), que figura como exequente nos autos do Processo n.º 0045956-23.1989.8.19.0001.
+Não obstante, a jurisprudência dessa Corte Superior entende que também é possível que o devedor faça parte do polo passivo dos embargos de terceiro, em especial quando a indevida constrição ocorreu por sua culpa.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. EMBARGOS DE TERCEIRO. LEGITIMIDADE PASSIVA. PRECEDENTE DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Devem integrar o pólo passivo da ação de embargos de terceiro todos aqueles que, de algum modo, se favoreceram do ato constritivo, situação na qual se insere o executado, quando parte dele a iniciativa de indicar à penhora o bem objeto da lide" (REsp n. 739.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 5/11/2009, DJe 16/11/2009).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.340.660 / SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 7/10/2019)
+NELSON NERY JUNIOR e ROSA MARIA DE ANDRADE NERY, comentando o art. 677, § 4º do CPC, lecionam:
+São réus na ação de embargos de terceiro as partes no processo principal (de conhecimento ou de execução), bem como aqueles que se beneficiaram ou deram causa ao ato de constrição. Dada a natureza desconstitutiva dos embargos de terceiro (..), o litisconsórcio passivo nessa ação é necessário-unitário (CPC 116), pois a desconstituição do ato judicial se dará em face de todas as partes do processo principal (..)
+(Código de Processo Civil Comentado. 19 ed - São Paulo: Thomson Reuters Brasil, 2020, pag. 1.582 - grifei).
+No caso em concreto, HASPA e outro contribuíram para o desfecho do caso, ao alienarem o imóvel em 2010, mesmo cientes de que o bem encontrava-se penhorado em favor do ESPÓLIO desde 2008. Tal conduta, portanto, deu causa à constrição indevida, devendo os recorrentes responder pelas consequências advindas da negociação.
+Como destacado na r. decisão recorrida, tal fato constou expressamente no v. acórdão, ao reconhecer que:
+(..) a Haspa Habitação São Paulo Imobiliária S/A alienou ao Embargante, em outubro de 2010 (index 00012/18), imóvel de cuja penhora fora intimada em junho de 2008 (index 00065/67). Portanto, conquanto não tenham indicado o bem à penhora e não lhes aproveite a constrição questionada,configurada a legitimidade do 2º, 3º e 5º Embargados (Haspa Corretora de Câmbio e Valores S/A, Espólio de Cleto Campelo Meireles e Haspa Habitação São Paulo Imobiliária S/A) para figurarem no polo passivo, face à realização de alienação de bem que sabiam estar onerado na ação de prestação de contas em face deles ajuizada, devendo, portanto, responder pelas consequências advindas da negociação (e-STJ, fl. 256).
+Em que pese o esforço argumentativo de HASPA e outro, o fato de não terem indicado o imóvel à penhora não importa em sua automática ilegitimidade passiva, já que, como ressaltado na r. decisão recorrida, "se o executado detém legitimidade passiva quando parte dele a iniciativa de indicar à penhora o bem objeto da lide, evidentemente também o é quando aliena bem penhorado a terceiro".
+Desse modo, a interpretação conferida pelo Tribunal de Justiça do Estado do Rio de Janeiro ao art. 677, § 4º, do CPC mostra-se coerente com a doutrina e a jurisprudência do STJ.
+Assim, como HASPA e outro não demonstraram o equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
