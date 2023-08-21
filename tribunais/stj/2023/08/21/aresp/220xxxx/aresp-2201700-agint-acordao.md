@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO - Relator:
+Trata-se de agravo interno, interposto por WEBERT RODRIGUES BARBUTO CORREA, contra decisão monocrática desta relatoria (e-STJ, fls. 569-574), a qual conheceu do agravo interposto por MOROCO PARTICIPAÇÕES E COMÉRCIO LTDA para conhecer parcialmente do recurso especial e, nessa extensão, conceder provimento a fim de determinar a retenção da cláusula penal no percentual de 25% dos valores pagos pelo adquirente.
+A parte agravante, em suas razões recursais (e-STJ, fls. 578-594), sustenta, em síntese, a necessidade de alteração do percentual de retenção de 25% para 10%, em razão da desistência da compra e venda.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 598-604.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. RESCISÃO DO CONTRATO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.723.519/SP, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel, por desistência do comprador, anterior à Lei 13.786/2018, deve prevalecer o percentual de 25% de retenção, tal como definido no julgamento dos EAg 1.138.183/PE, por ser montante adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato (REsp 1.723.519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019).
+2. No caso dos autos, a parte agravante não apresentou argumentos capazes de infirmar a decisão agravada.
+3. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO - Relator:
+Na hipótese, a decisão agravada acolheu o recurso especial fundamentado na alínea "a" do permissivo constitucional, para determinar fosse aplicado o entendimento da Segunda Seção do STJ, que, por ocasião do julgamento do REsp 1.723.519/SP, consignou que, "na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor, tal como definido no julgamento dos EAg 1.138.183/PE (DJe de 4.10.2012), por ser esse percentual adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato" (AgInt nos EDcl no AREsp 2.078.578/SP, Relatora Ministra Nancy Andrighi, julgado em 27/3/2023, DJe de 29/3/2023).
+Como se verifica nos seguintes precedentes:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. INOVAÇÃO RECURSAL. DESCABIMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AO ARTS. 11, 489 E 1.022 DO CPC/2015. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. INICIATIVA DO COMPRADOR. RETENÇÃO. ARRAS CONFIRMATÓRIAS. RESTITUIÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+3. Inexiste afronta aos arts. 11, 489 e 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+5. No caso concreto, o Tribunal de origem concluiu pela (i) presença dos requisitos para a concessão dos benefícios da justiça gratuita, (ii) existência de quitação parcial do débito, (iii) ausência de ocupação do imóvel, (iv) validade da cláusula que prevê a retenção das arras e (v) existência de sucumbência recíproca. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial
+6. "A Segunda Seção do STJ, no julgamento do REsp n. 1.723.519/SP (28.8.2019), de relatoria da Ministra ISABEL GALLOTTI, firmou o entendimento no sentido de que, nos contratos firmados antes da Lei n. 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção, definido anteriormente no julgamento dos EAg n. 1.138.183/PE, por ser adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato" (AgInt nos EDcl no AgInt no AREsp 1822832/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe 03/03/2022)
+7. Segundo a jurisprudência do STJ, "não é possível a retenção das arras confirmatórias" (AgInt no REsp n. 1.879.101/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/9/2020, DJe 1º/10/2020).
+8. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.923.246/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESILIÇÃO DE PROMESSA DE COMPRA E VENDA COM RESTITUIÇÃO DE VALORES. VENDA DE UNIDADES AUTÔNOMAS. EXTINÇÃO DO VÍNCULO CONTRATUAL. INICIATIVA DO CONSUMIDOR. RETENÇÃO. POSSIBILIDADE. PERCENTUAL DE 25%. NATUREZA INDENIZATÓRIA E COMINATÓRIA. ABRANGE OS VALORES QUE DEVEM SER RESSARCIDOS. INCONFORMISMO QUANTO À INCIDÊNCIA DAS SÚMULAS 5, 7 E 568/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de resilição de promessa de compra e venda com restituição de valores.
+2. A insurgência da agravante quanto à incidência das Súmulas 5, 7 e 568/STJ, sem a devida demonstração da ausência de aplicação à hipótese, obsta o provimento do agravo interno por ela manejado.
+3. Segundo a orientação da Segunda Seção, nos contratos firmados antes da Lei 13.786/2018, o percentual de retenção pela extinção do vínculo contratual de compra e venda de imóveis por culpa do consumidor é de 25% (vinte e cinco por cento) das parcelas pagas, adequado e suficiente para indenizar o construtor pelas despesas gerais e pelo rompimento unilateral ou pelo inadimplemento do consumidor, independentemente das circunstâncias de cada hipótese concreta. Precedente.
+4. Referido percentual possui natureza indenizatória e cominatória, de forma que abrange, portanto, de uma só vez, todos os valores que devem ser ressarcidos ao vendedor pela extinção do contrato por culpa do consumidor e, ainda, reforça a garantia de que o pacto deve ser cumprido em sua integralidade.
+5. Agravo interno no recurso especial não provido."
+(AgInt no REsp n. 2.020.138/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022 - sem grifo no original).
+Dessa forma, a decisão agravada está em harmonia com o entendimento pacífico desta Corte de Justiça. Nesse contexto, não se divisando no agravo interno argumentos capazes de desconstituir a decisão atacada, é de rigor a sua manutenção por seus próprios fundamentos.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
