@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Cuida-se de agravo interno manejado por PRATTI COMERCIO DE BICICLETAS E ACESSORIOS LTDA contra decisão da Presidência do STJ que não conheceu do recurso em razão da incidência da Súmula n. 284 do STF.
+A agravante insurge-se contra a decisão agravada alegando a não incidência da Súmula n. 284 do STF e argumentando que o contribuinte não pode ser penalizado pela demora da votação do projeto de lei e respectiva sanção presidencial que resultou na Lei complementar n. 190/2022, editada para regulamentar a cobrança do DIFAL-ICMS pelos Estados. Aduz, outrossim, que a decisão contraria a Lei do mandado de segurança que lhe garante o direito de ter apreciado seu direito líquido e certo. Pugna, também, pela não fixação de honorários advocatícios em razão do art. 25 da lei n. 12.016/2009.
+Requer seja conhecido e provido o recurso para reformar a decisão agravada reconhecendo como correto o recolhimento do ICMS sem a inclusão do DIFAL na comercialização de mercadorias destinadas à consumidor final não contribuinte de ICMS durante todo o ano de 2022.
+Impugnação às fls. 508-512 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIFAL-ICMS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NO ÂMBITO DA LEI COMPLEMENTAR N. 190/2022. INCIDÊNCIA DA SÚMULA N. 284 DO STF. QUESTÃO DECIDIDA NA ORIGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL.
+1. O presente feito discute a aplicação do princípio da anterioridade no âmbito da Lei Complementar n. 190/2022, editada para viabilizar a cobrança do DIFAL-ICMS.
+2. Seja em razão da incidência da Súmula n. 284 do STJ, seja em razão do cunho eminentemente constitucional da controvérsia relativa à aplicação da anterioridade anual prevista no art. 150, III, "b", da Constituição Federal, seja em razão da impossibilidade de interpretação do quanto decidido pelo STF no RE 1.287.019 (Tema 1.093 da repercussão geral), não é possível a esta Corte, em sede de recurso especial, infirmar o acórdão recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+3. Agravo interno não provido.
+VOTO
+A agravante não trouxe nenhum argumento capaz de infirmar a decisão agravada, a qual merece ser mantida.
+O presente feito discute a aplicação do princípio da anterioridade no âmbito da Lei Complementar n. 190/2022, editada para viabilizar a cobrança do DIFAL-ICMS.
+Além da incidência da Súmula n. 284 do STF, o recurso especial não comportaria conhecimento, também, porque o acórdão recorrido decidiu a controvérsia com fundamento eminentemente constitucional. Confira-se:
+(..)
+Outrossim, com a edição da LC nº 190/2022, o que se denota, com base sobretudo no que decidiu o eg. Supremo Tribunal Federal quando do recebimento, em maio/2022, da ADI nº7066 (conjuntamente com as ADIs 7070, 7075 e 7078), é que ditas normativas estaduais passaram ater eficácia plena, sendo passíveis de aplicação imediata, sem a necessidade de observância ao princípio da anterioridade (seja a nonagesimal, seja a de exercício).
+Isso porque, nos dizeres do il. Ministro Alexandre de Moraes, relator das referidas ADIs, "a LC 190/2022 não modificou a hipótese de incidência, tampouco da base de cálculo, mas apenas a destinação do produto da arrecadação, por meio de técnica fiscal que atribuiu a capacidade tributária ativa a outro ente político - o que, de fato, dependeu de regulamentação por lei complementar - mas cuja eficácia pode ocorrer no mesmo exercício, pois não corresponde a instituição nem majoração de tributo" (sic).
+Em suma, conclui o STF, ainda que em cognição sumária, no sentido deque: "O Princípio da anterioridade previsto no art. 150, III, "b", da CF, protege o contribuinte contra intromissões e avanços do Fisco sobre o patrimônio privado, o que não ocorre no caso em debate, pois trata-se um tributo já existente (diferencial de alíquota de ICMS), sobre fato gerador antes já tributado (operações interestaduais destinadas a consumidor não contribuinte), por alíquota (final) inalterada, a ser pago pelo mesmo contribuinte, sem aumento do produto final arrecadado. Em momento algum houve agravamento da situação do contribuinte a exigir a incidência da garantia constitucional prevista no referido artigo 150, III, "b" da Constituição Federal, uma vez que, a nova norma jurídica não o prejudica, ou sequer o surpreende, como ocorre com a alteração na sujeição ativa do tributo promovida pela LC 190/2022 (EC87/2015)." (sic).
+Daí, então, é que, não havendo a instituição e/ou majoração do DIFAL-ICMS devido nas operações interestaduais de mercadorias destinadas a consumidor final não contribuinte do imposto pela LC nº 190/2022, descabe cogitar de afronta ao princípio da anterioridade, inexistindo, no caso, direito líquido e certo apto a legitimar a concessão da ordem.
+(..)
+Dessa forma, seja em razão da incidência da Súmula n. 284 do STJ, seja em razão do cunho eminentemente constitucional da controvérsia relativa à aplicação da anterioridade anual prevista no art. 150, III, "b", da Constituição Federal, seja em razão da impossibilidade de interpretação do quanto decidido pelo STF no RE 1.287.019 (Tema 1.093 da repercussão geral), não é possível a esta Corte, em sede de recurso especial, infirmar o acórdão recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS-DIFAL. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. ACÓRDÃO RECORRIDO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+1. Discute-se nos autos a exclusão do ICMS-DIFAL da base de cálculo do PIS/COFINS.
+2. Hipótese em que a questão foi dirimida pelo Tribunal de origem com base em fundamentos eminentemente constitucionais, a impedir a revisão da tese em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Agravo interno improvido. (AgInt no REsp 2.019.681/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 16/02/2023) (Grifei)
+Por fim, cumpre registrar que a decisão agravada determinou a majoração de honorários advocatícios, a título de sucumbência recursal (§ 11 do art. 85 do CPC), apenas se já houvesse prévia fixação de honorários pelas instâncias ordinárias, o que não ocorreu, tendo em vista que se trata de mandado de segurança onde não cabe a fixação de verba honorária.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
