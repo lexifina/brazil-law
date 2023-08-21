@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por WALLACE NAZARETH GONCALVES com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos condenação do recorrente às penas de 02 (dois) anos e 10 (dez) meses de reclusão, em regime aberto, e 20 (vinte) dias-multa, como incurso no artigo 155, §1º e §4º, I e IV do Código Penal. O Tribunal de origem negou provimento ao recurso e, de ofício, por maioria, afastou a causa de aumento de pena do repouso noturno (fls. 435-446). Os embargos infringentes e, posteriormente, os de declaração foram rejeitados (fls. 469-474 e 469-474).
+Nas razões do recurso especial, a parte recorrente sustenta a violação dos artigos 158, 167, 171, todos do CPP e 155, §4º, I, do CP, pois imprescindível a realização de perícia para configuração da qualificadora de rompimento de obstáculo, o que não foi feito. Afirma que "No caso dos autos, era plenamente possível a realização do exame de corpo de delito, não tendo sido demonstrada qualquer justificativa apta ao seu afastamento" (fl. 492).
+Pretende, ao final, o provimento do recurso especial para que seja afastada a qualificadora de rompimento de obstáculo.
+Apresentadas as contrarrazões (fls. 496-499), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial (fls. 518-521).
+É o relatório. DECIDO.
+A (im)prescindibilidade do laudo pericial para qualificar o crime constitui o cerne do recurso.
+Quanto ao tema o Tribunal de origem assim dispôs (fls. 395-396):
+"A vítima Diego Bahia, em ambas as oportunidades que foi ouvido, afirmou que ao chegar para trabalhar se deparou com a fechadura da porta arrombada (fls. 14/15 e 190 -doc. único). O policial Vanderlei Silva, confirmou as informações trazidas pela vítima, asseverando que: "que ao chegar na sua loja, deparou-se com a tranca da porta da frente arrombada" (fls. 18/19 e 188 -doc. único).
+ ..
+A jurisprudência do E. Superior Tribunal de Justiça atenta a possibilidade de substituição da perícia por outros meios de prova, quando sua realização não for possível e desde que haja justificativa plausível, como desaparecimento de vestígios ou circunstâncias que não permitem a confecção do laudo.
+ ..
+Dessa forma, em se tratando de um estabelecimento comercial, é razoável que a vítima tenha se mobilizado para que, de forma urgente, reparasse o dano causado em sua porta de entrada, sendo que a prova testemunhal não deixou dúvidas acerca do rompimento de obstáculo na prática delitiva."
+Com efeito, o entendimento exposto no v. acórdão de origem está de acordo com a jurisprudência desta Corte Superior, a qual é assente no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo ser supletivamente suprido por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) os vestígios deixados desaparecerem; ou (c) as circunstâncias do crime não permitirem a confecção do laudo.
+Assim sendo, a Corte de origem entendeu que o desaparecimento dos vestígios foi justificado pela necessidade da vítima em reparar, de forma urgente, o dano causado na porta de entrada do estabelecimento comercial, de modo a configurar a excepcional possibilidade de a prova técnica ser suprida pelos demais elementos de provas existentes nos autos - depoimentos colhidos.
+No mesmo sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. APRESENTAÇÃO DE JUSTIFICATIVA PLAUSÍVEL. COMPROVAÇÃO POR OUTROS MEIOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto. Precedente.
+2. No caso em exame a Corte de origem justificou a ausência de perícia no fato de que a vítima efetuou o reparo da porta violada, dando causa, assim, ao desaparecimento dos vestígios do arrombamento em sua residência.
+3. Desse modo, verifica-se a existência de justificativa plausível para a ausência da perícia, devendo a qualificadora ser reconhecida com fundamento na declaração da vítima e de testemunhas.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.074.222/MA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2022).
+A propósito:
+"Firme nesta Corte o entendimento de que "excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial  .. "(AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021)" (AgRg no HC n. 691.823/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 30/9/2021). Na hipótese, a qualificadora foi reconhecida com base em prova oral, pelos depoimentos colhidos em ambas as fases processuais, e pela confissão do próprio réu" (AgRg no REsp n. 1.985.419/MT, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 1/12/2022).
+E mais: AgRg no AgRg no AREsp n. 2.346.932/SE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; AgRg no REsp n. 1.895.487/DF, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022.
+Dessa feita, estando o v. acórdão prolatado pelo Tribunal a quo em conformidade com o atual entendimento desta Corte de Justiça, incide, no caso o enunciado da Súmula nº 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. INEXISTÊNCIA DE EXAME PERICIAL. DESAPARECIMENTO DOS VESTÍGIOS. NÃO REALIZAÇÃO DA PERÍCIA JUSTIFICADA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. EXCEPCIONALIDADE. SÚMULA 568/STJ. RECURSO ESPECIAL DESPROVIDO.
