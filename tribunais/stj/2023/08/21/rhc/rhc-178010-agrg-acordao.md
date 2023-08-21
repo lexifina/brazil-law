@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Estacio Alves da Silveira contra decisão de minha Relatoria, que negou provimento ao recurso. Esta, a ementa da decisão (fl. 304):
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO CULPOSO E LESÃO CORPORAL. DIREÇÃO DE VEÍCULO AUTOMOTOR. ALEGAÇÃO DE EXCESSO NA DOSIMETRIA. NÃO OCORRÊNCIA. PENA-BASE FIXADA COM RAZOABILIDADE. VETORIAL CIRCUNSTÂNCIAS D O CRIME DEVIDAMENTE JUSTIFICADA. CONCRETOS FUNDAMENTOS. AUSÊNCIA DE REFORMA PARA PIOR. REMANEJAMENTO DO FUNDAMENTO PARA OUTRA VETORIAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO RECORRENTE.
+Recurso em habeas corpus improvido.
+Alega o agravante que a Magistrada entendeu como neutra a vetorial das circunstâncias do crime; porém, valorou de forma negativa o motivo do crime, apresentando equivocada fundamentação.
+Sustenta que não existe espaço para um remanejamento de fundamentação dada a uma vetorial, de motivos para a vetorial circunstâncias, e que, ao entender que a vetorial deveria ser afastada, o correto seria isso, e não o seu remanejamento.
+Afirma que deve ser afastada essa valoração para não incorrer em reformatio in pejus.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO CULPOSO E LESÃO CORPORAL. DIREÇÃO DE VEÍCULO AUTOMOTOR. ALEGAÇÃO DE PREJUÍZO AO RECORRENTE. NÃO OCORRÊNCIA. POSSIBILIDADE DO JULGADOR DE FAZER UMA NOVA VALORAÇÃO DOS FUNDAMENTOS TRAZIDOS NA SENTENÇA, AINDA QUE SEJA RECURSO EXCLUSIVO DA DEFESA. AUSÊNCIA DE REFORMA PARA PIOR. REMANEJAMENTO DO FUNDAMENTO PARA OUTRA VETORIAL. POSSIBILIDADE.
+1. Não houve o acréscimo de novos fundamentos, mas, sim, o remanejamento da mesma motivação que havia sido colocada na sentença, o que é possível.
+2. Agravo regimental improvido.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos. Ao contrário do que afirma o agravante, não se trata aqui de um erro material ocorrido na sentença e que deveria ser corrigido com o afastamento de uma vetorial. Também não houve reformatio in pejus. Com a interposição do recurso de apelação, toda a matéria passa a ser analisada pelo Tribunal, ainda que o recurso seja exclusivo da defesa. O julgador pode valorar os fatos trazidos da forma que entender, pelo seu livre convencimento, desde que não ocorra prejuízo ao acusado, e, na hipótese, não há prejuízo. O Julgador apenas moveu a valoração negativa feita quanto aos motivos do crime para a vetorial circunstâncias do crime. Não houve o acréscimo de novos fundamentos, mas, sim, o remanejamento da mesma motivação que havia sido colocada na sentença, o que é possível. Nesse sentido:
+ ..
+A vedação contida no princípio ne reformatio in pejus diz respeito, em verdade, ao agravamento da situação do réu em recurso exclusivo da defesa, sem que impeça o colegiado encarregado da revisão do julgado de utilizar a sua própria fundamentação, respaldo, inclusive, pelo princípio tantum devolutum quantum apelatum. Dessa forma, não obstante haja mudança nos fundamentos empregados pelo Tribunal de origem na hipótese, por ocasião de julgamento do apelo defensivo, a pena foi mantida no mesmo patamar pelo Colegiado quanto à pena-base e à majorante inserta no artigo 40, inciso V, da Lei n. 11.343/2006, não havendo, pois, se falar em configuração de reformatio in pejus.
+ ..
+(AgRg nos EDcl nos EDcl no AREsp 1012698/RS, Ministro Felix Fischer, Quinta Turma, DJe 28/2/2018)
+Quando o Magistrado entendeu, pelos motivos do crime, que seria inconcebível que alguém conduzisse a direção de veículo automotor sob o efeito de álcool em BR, em velocidade incompatível, inclusive fazendo "ziguezague", o Julgador local fez menção nesse ponto às circunstâncias do crime, ou seja, a conduta praticada foi tida como negativa. Sobre as consequências do delito, houve idônea motivação para o aumento da pena-base, pois, além da morte de uma das vítimas, o Magistrado também deixou expresso a respeito da amputação de uma das pernas de uma outra vítima, sendo assim justificada a exasperação da pena-base. Verifica-se que não há falar em genéricos argumentos, mas, sim, elementos concretos aptos a aumentar a pena-base, e a alteração do fundamento relativo aos motivos para as circunstâncias do crime não trouxe qualquer prejuízo ao recorrente. Também não há ilegalidade na aplicação do concurso formal, tendo em vista o número de vítimas e o número de delitos praticados.
+Como mencionado, em relação ao pedido de reconhecimento da substituição da pena privativa de liberdade por restritiva de direitos, as razões da defesa demandam o reexame fático dos autos, já que a instância ordinária entendeu que as circunstâncias do crime impedem a substituição.
+Ante o exposto, nego provimento ao agravo regimental.
