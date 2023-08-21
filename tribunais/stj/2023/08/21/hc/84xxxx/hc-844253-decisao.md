@@ -1,0 +1,23 @@
+DECISÃO
+ALEXANDRE HENRIQUE VERISSIMO DE OLIVEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0007986-24.2023.8.26.0996.
+Nesta Corte, a defesa sustenta que a conduta imputada ao paciente não constitui falta grave, prevista nos arts. 50 a 52 da Lei de Execuções Penais, devendo ser tipificada como infração de natureza média.
+Requer, por isso, o restabelecimento da decisão proferida pelo Juízo da VEC que reconheceu a infração disciplinar de natureza média ou a redução da fração de perda dos dias remidos.
+O Ministério Público Federal se manifestou pela denegação da ordem (fls. 81-84).
+Decido.
+Extrai-se dos autos que, no dia 25/11/2022, o paciente, não acatou a ordem de sair do quadro de sentenciados cadastrados como faxineiros do pavilhão, razão pela qual foi instaurado procedimento administrativo disciplinar em seu desfavor para apuração de infração disciplinar.
+Encerrado o referido procedimento, o Magistrado da execução homologou a prática de falta disciplinar de natureza média, prevista no art. 45, I e X, da Resolução SAP n. 144 de 29/6/2010, e aplicou a pena de repreensão.
+O Tribunal a quo cassou o decisum supra para reconhecer a prática de falta disciplinar de natureza grave pelo reeducando e aplicar os consectários legais, sob os seguintes fundamentos (fls. 68-72, grifei):
+Não restam dúvidas sobre a conduta do reeducando, que se recusou a ocupar a nova cela que lhe fora designada. Resta, então, a quaestio que toca a subsunção dessa conduta isto é, se se trata de falta disciplinar de natureza média, ou grave.
+Quanto a esse ponto, e evidentemente respeitado o entendimento trazido pelo d. Juízo a quo, forçoso concluir que se trata de falta disciplinar de natureza grave.
+Os autos indicam que, por razões que tocam a administração dos presos e o trabalho por eles desempenhado, o agravado seria realocado. Ele, todavia, recusou-se a ir à nova cela, afirmando que desejava ser transferido de pavilhão.
+Destaca-se, de início (e como bem ressaltou o parecer da d. Procuradoria de Justiça), que a desobediência do agravado não é justificada pelo intento de se ver transferido de pavilhão. Se esse era seu desejo, deveria buscá-lo pelos meios previstos, e não através da recusa em obedecer a ordens recebidas.
+Em seguida, verifica-se que a ordem fornecida não foi arbitrária, mas tinha fundamento concreto.
+Há que se concluir, então, que se tratou de efetiva desobediência a ordem legal recebida de funcionário. Tal desobediência, prossegue-se, não se traduziu em mera conduta inconveniente. O comportamento do reeducando, sob outra ótica, indica que buscava decidir, por conta própria, onde habitaria no cumprimento de sua pena, conduta que possui potencial para subverter a ordem e a disciplina do local.
+ ..
+Todavia, posto que a recusa não se deu de modo agressivo e que da conduta do réu não surgiram outras consequências mais graves, suficiente a perda de um sexto dos dias remidos ou a remir. Desaconselhado menor rigor pela já citada subversão à ordem e disciplina.
+A conduta imputada ao paciente é prevista como falta grave no art. 50, VI, c/c. o art. 39, II, ambos da LEP e, portanto, não há falar em ofensa ao princípio da legalidade. De acordo com a moldura fática do aresto, não se pode cogitar a absolvição ou desclassificação da falta disciplinar. A insubordinação externada pelo recluso prejudica a boa ordem, a segurança e a disciplina na unidade prisional. Justamente por observar o princípio da proporcionalidade, o legislador qualificou o comportamento como falta grave.
+Ademais, a análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda a reconstrução histórica dos fatos e o reexame de provas para ser enfrentado, o que é vedado na ação mandamental e de cognição estreita do writ.
+Deveras: "O afastament o ou desclassificação da falta grave praticada pelo apenado (art. 50, VI, c.c art. 39, V, ambos da Lei de Execução Penal - LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus" (AgRg nos EDcl no HC n. 771.463/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 12/6/2023).
+Quanto ao quantum de perda dos dias remidos, verifico que a tese não foi objeto de análise pelo Tribunal estadual no acórdão impugnado, o que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
