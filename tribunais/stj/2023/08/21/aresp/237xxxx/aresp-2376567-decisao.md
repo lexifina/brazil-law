@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por BRASKEM S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 781-782):
+RECURSO DE AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. COLISÃO COM VEÍCULO DE TRANSPORTE DE CARGA. ÓBITO DO CONDUTOR DE CARRO DE PASSEIO. HOMOLOGAÇÃO DE PEDIDO DE DESISTÊNCIA CONTRA UM DOS CORRÉUS. POSSIBILIDADE. LITISCONSÓRCIO PASSIVO FACULTATIVO. ALTERAÇÃO DA CAUSA DE PEDIR. NÃO OCORRÊNCIA. CONSUMIDOR POR EQUIPARAÇÃO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. AGRAVO DE INSTRUMENTO IMPROVIDO.
+I - O cerne da inconformidade em apreço reside no alegado desacerto da decisão de origem que, nos autos da ação indenizatória por acidente de trânsito de nº 0214282-03.2007.8.05.0001, homologou o pedido de desistência da parte autora quanto ao prosseguimento da demanda em face da corré MLS TRANSPORTES (ID 13009785 - pág. 51/53 pdf).
+II - Cuidam os autos de ação indenizatória, decorrente de acidente de trânsito, em que houve a colisão de veículo de propriedade da MLSTRANSPORTES, dirigido pelo Sr. Neijair Valentim Rafael, em sede de transporte de mercadorias à BRASKEM S/A (à época, POLITENO), com o veículo conduzidos pelo Sr. Nailton de Paula de Moura, ocasionando o seu óbito (ID 13009616 - pág. 02/28 pdf).
+III - No que tange à aventada nulidade da decisão agravada por violação aos princípios da isonomia e imparcialidade, por suposto aconselhamento das partes e por ter o julgador monocrático supostamente sugerido a ausência de interesse das partes no prosseguimento do feito junto à MLS, em verdade, o magistrado de primeiro grau agiu de acordo com o dever que lhe é conferido pelo ordenamento jurídico pátrio para o exercício da função jurisdicional, intimando as partes para viabilizar os meios de citação do corréu, não havendo que se afirmar que tais pronunciamentos constituem aconselhamento, conforme preconiza o inciso II, do art. 145 do CPC.
+IV - Em mesma linha de intelecção, não merece prosperar a alegação deque se trata de decisão extra petita, porque proferida com base em fundamento não invocado pela parte agravada, haja vista que o Juízo a quo, nada mais fez do que cotejar os elementos expressamente expostos na petição inicial e interpretar esta em seu conjunto, circunstância que repele a tese de que o julgado teria excedido os limites da lide.
+V - Sobre a alegada inaplicabilidade do Código de Defesa do Consumidor e necessidade de redistribuição imediata dos autos a uma Vara Cível, é de notório conhecimento que o terceiro que intervém numa relação de consumo, mormente vítima de evento danoso, equipara-se a consumidor. Inteligência dos artigos 2º, 12 e 17 do CDC.
+VI - Acerca da suscitada vedação à modificação da causa de pedir após a citação, o pedido de desistência não se confunde, em absoluto, com modificação da causa de pedir, permanecendo esta a mesma, mormente considerando se tratar de devedores solidários.
+VII - Diante do pedido de desistência dos autores em face da MLS (ID13009785 - pág. 51/53 pdf) - que não chegou a ser citada, o Juízo a quo, com acerto, concluiu pela aplicação do art. 485, §4º do CPC, homologando o pleito.
+VIII - Uma vez declarada a responsabilidade solidária da MLS, da BRASKEM e do Sr. Neijair Valentim Rafael, pelo Juízo a quo, em sede de decisão saneadora (ID 13009785 - pág. 5/10), é certo que a parte autora pode demandar contra qualquer dos acionados, uma vez se tratar de litisconsórcio facultativo. Precedentes.
+IX - Agravo de Instrumento improvido, para manter a decisão que homologou o pedido de desistência da parte autora quanto ao prosseguimento da demanda em face da corré MLS TRANSPORTES.
+Rejeitados os embargos de declaração opostos (fls. 836-854).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489, §1º, IV e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, o recorrente aduz que o acórdão contrariou as disposições contidas nos arts. 2º, parágrafo único, 12 e 17 do Código de Defesa do Consumidor; e 62, 64, §1º, do CPC. Suscita, em síntese, inaplicabilidade do Código de Defesa do Consumidor ao argumento de que não existe relação de consumo.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 899-904).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1030-1035), o que ensejou a interposiç ão do presente agravo.
+Apresentada contraminuta do agravo (fls. 1058-1064).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, não há que falar em violação dos arts. 489 e 1.022 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem abordou, de forma suficiente e clara, a questão da caracterização de relação de consumo por equiparação a ensejar a aplicação do Código de Defesa do Consumidor. In verbis (fls. 790-792):
+Sobre a alegada inaplicabilidade do Código de Defesa do Consumidor e necessidade de redistribuição imediata dos autos a uma Vara Cível, sem razão o agravante.
+Isto porque é de notório conhecimento que o terceiro que intervém numa relação de consumo equipara-se a consumidor, conforme preceitua o parágrafo único do artigo 2º do CDC, in verbis:
+Art. 2º Consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final.
+Parágrafo único. Equipara-se a consumidor a coletividade de pessoas, ainda que indetermináveis, que haja intervindo nas relações de consumo.
+Nessa mesma linha de intelecção, também as vítimas de evento danoso, nos termos dos artigos 12 e 17 do Diploma Consumerista:
+Art. 12. O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.
+( )
+Art. 17. Para os efeitos desta Seção, equiparam-se aos consumidores todas as vítimas do evento.
+Logo, considerando que o Sr. Nailton de Paula de Moura veio a óbito após ser vitimado por acidente de trânsito provocado pela MSL - empresa que transportava carga a serviço da POLITENO/BRASKEN, guarda com estas relação de consumo por equiparação, questão pacificada pela jurisprudência pátria, a saber:
+ ..
+Portanto, plenamente incidente o Código de Defesa do Consumidor, o que obsta a remessa do feito a Vara Cível desta Capital.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ressalte-se, ainda, que, conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+No mérito, maior sorte não assiste ao recorrente.
+Com efeito, importante salientar que, a revisão da conclusão a que chegou o órgão julgador, no sentido de reconhecer a inexistência de relação de consumo e inaplicabilidade das normas do Código de Defesa do Consumidor, demandaria análise de provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, encontram-se sob a proteção dos ditames do Código de Defesa do Consumidor aqueles que, embora não tenham participado diretamente da relação de consumo, sejam vítimas de evento danoso decorrente dessa relação, como consumidores por equiparação. Incidência da Súmula 83 do STJ.
+2. Rever o entendimento do Tribunal de origem, com o intuito de reconhecer a ausência da condição de consumidora da parte e, consequentemente, afastar a aplicação das normas consumeristas, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.984.514/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CÓDIGO DE DEFESA DO CONSUMIDOR. REEXAME DE PROVAS. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A reapreciação da conclusão do aresto impugnado, quanto à não incidência do CDC na espécie ante a inexistência de vulnerabilidade ou hipossuficiência, encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 465.362/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/10/2015, DJe de 19/10/2015.)
+Ademais, a jurisprudência desta Corte é no sentido de que "Em acidente de trânsito envolvendo fornecedor de serviço de transporte, o terceiro vitimado em decorrência dessa relação de consumo deve ser considerado consumidor por equiparação". Precedentes: REsp n. 1.125.276/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2012, DJe de 7/3/2012.
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 568/STJ: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No mais, fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas n. 7 e 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de hon orários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
