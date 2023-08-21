@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (SUL AMÉRICA) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. COBERTURA DE VÍCIOS CONSTRUTIVOS. ACÓRDÃO QUE CONTRARIA O ENTENDIMENTO DA TERCEIRA TURMA DESTA CORTE SUPERIOR. RECURSO ESPECIAL PROVIDO. (e-STJ, fl. 1.911)
+Nas razões do presente inconformismo, SUL AMÉRICA combate a decisão agravada afirmando que (1) o vício de construção constitui risco desconhecido, pelo qual  ..  não pode ser responsabilizada (e-STJ, fl. 1.935).
+Foi apresentada impugnação (e-STJ, fls. 1.959/1.961, 1.963/2.095 e 2.099/2.104).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. SEGURO HABITACIONAL. SFH. VÍCIOS CONSTRUTIVOS. COBERTURA. OBRIGAÇÃO. ACÓRDÃO EM DESACORDO COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ADEQUAÇÃO DO JULGAMENTO. NÃO PROVIMENTO.
+1. Estando o acórdão recorrido em descompasso com a jurisprudência sedimentada nesta Corte, necessária a reforma do julgado para dar provimento ao especial, a fim de determinar o retorno nos autos ao Tribunal de origem para que prossiga no julgamento, à luz do entendimento deste Superior Tribunal.
+2. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O presente agravo interno não merece prosperar.
+As razões expostas na petição ora em análise não justificam a alteração do julgamento proferido na decisão agravada.
+Tendo sido constatada a presença do vício construtivo pela Corte estadual, foi dado provimento ao recurso especial, porque a cobertura securitária deve abranger os sinistros ocorridos durante a sua vigência, no caso de danos progressivos, inclusive os vícios de construção - vícios ocultos (e-STJ, fl. 1.917).
+Não há o que se modificar.
+O entendimento adotado no acórdão proferido no Tribunal de origem foi decidido em desarmonia com a jurisprudência desta Corte acarretando, portanto, ofensa aos dispositivos legais apontados no especial, o que se verifica do seguinte trecho:
+Tem-se que o TJSP, analisando o conjunto fático-probatório, concluiu pela existência de vícios construtivos nos imóveis. Ressaltou, entretanto, que a cobertura securitária por vícios de construção não é amparada pelo contrato estabelecido entre as partes. Assim, afastou a indenização securitária pleiteada por não estar coberta pela apólice.
+Destaca-se o trecho do acórdão recorrido:
+A cláusula 3.2 do Contrato (fls. 53) é cristalina quanto à exclusão de vícios endógenos da cobertura securitária. O Laudo Pericial (fls. 737/758) concluiu que os danos do imóvel em. questão se originaram em decorrência da má qualidade dos materiais e da mão de obra empregada na construção, circunstâncias que não são abarcadas pelo contrato firmado entre as partes.
+A cláusula de exclusão é jurídica, amparada pelo Código Civil e não reflete abusividade de nenhuma sorte. Os vícios construtivos estão excluídos da b cobertura e a Apelante não detém nenhuma responsabilidade pelo ocorrido, não podendo dela ser exigida indenização - o que não foi pactuado, não pode ser demandado, e, ROGATA VENIA, muito menos deferido.
+Apesar de tratar-se de PACTO DE ADESÃO, não se vê configurada nenhuma das hipóteses de abusividade previstas no Código de Defesa do Consumidor. As cláusulas são cristalinas quanto à exclusão da cobertura de danos endógenos.
+(..)
+Imperioso considerar que o contrato de seguro está calcado em complexas regras e equações atuariais para preservação de seu equilíbrio financeiro, uma vez excluído o risco por danos endógenos, é certo afirmar que a Requerente não pagou por este, e, sendo assim, não detém direito a essa cobertura.
+Assim, e alfim, a decisão de Primeiro Grau não se sustenta; julgou que os danos não estavam cobertos  mas mesmo assim deferiu, ilegalmente, a indenização - além do que, a boa-fé da seguradora;
+manifesta, não foi considerada. (e-STJ, fls. 1.744/1.745 e 1.745)
+Esta eg. Terceira Turma do Superior Tribunal de Justiça, ao julgar o REsp 1.717.112/RN, na sessão de julgamento realizada aos 25/9/2018, analisando controvérsia semelhante à dos presentes autos, pacificou o entendimento de que, uma vez constatada a existência de vícios estruturais acobertados pelo seguro habitacional e coexistentes à vigência do contrato, devem ser os segurados devidamente indenizados pelos prejuízos sofridos, nos moldes estabelecidos na apólice.  ..  (e-STJ, fls. 1.913/1.914).
+Correto o entendimento adotado.
+A Segunda Seção desta Corte já assentou que os vícios estruturais devem ser necessariamente cobertos pelo seguro habitacional.
+Confira-se:
+RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. IMÓVEL ADQUIRIDO PELO SFH. ADESÃO AO SEGURO HABITACIONAL OBRIGATÓRIO. RESPONSABILIDADE DA SEGURADORA. VÍCIOS DE CONSTRUÇÃO (VÍCIOS OCULTOS). BOA-FÉ OBJETIVA. FUNÇÃO SOCIAL DO CONTRATO. JULGAMENTO: CPC/15.
+1. Ação de indenização securitária proposta em 11/03/2011, de que foi extraído o presente recurso especial, interposto em 12/07/2018 e concluso ao gabinete em 16/04/2019.
+2. O propósito recursal é decidir se os prejuízos resultantes de sinistros relacionados a vícios estruturais de construção estão acobertados pelo seguro habitacional obrigatório, vinculado a crédito imobiliário concedido para aquisição de imóvel pelo Sistema Financeiro da Habitação - SFH.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 211/STJ).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+5. Em virtude da mutualidade ínsita ao contrato de seguro, o risco coberto é previamente delimitado e, por conseguinte, limitada é também a obrigação da seguradora de indenizar; mas o exame dessa limitação não pode perder de vista a própria causa do contrato de seguro, que é a garantia do interesse legítimo do segurado.
+6. Assim como tem o segurado o dever de veracidade nas declarações prestadas, a fim de possibilitar a correta avaliação do risco pelo segurador, a boa-fé objetiva impõe ao segurador, na fase pré- contratual, o dever, dentre outros, de dar informações claras e objetivas sobre o contrato, para permitir que o segurado compreenda, com exatidão, o verdadeiro alcance da garantia contratada, e, nas fases de execução e pós-contratual, o dever de evitar subterfúgios para tentar se eximir de sua responsabilidade com relação aos riscos previamente determinados.
+7. Esse dever de informação do segurador ganha maior importância quando se trata de um contrato de adesão - como, em regra, são os contratos de seguro -, pois se trata de circunstância que, por si só, torna vulnerável a posição do segurado.
+8. A necessidade de se assegurar, na interpretação do contrato, um padrão mínimo de qualidade do consentimento do segurado, implica o reconhecimento da abusividade formal das cláusulas que desrespeitem ou comprometam a sua livre manifestação de vontade, enquanto parte vulnerável.
+9. No âmbito do SFH, o seguro habitacional ganha conformação diferenciada, uma vez que integra a política nacional de habitação, destinada a facilitar a aquisição da casa própria, especialmente pelas classes de menor renda da população, tratando-se, pois, de contrato obrigatório que visa à proteção da família e à salvaguarda do imóvel que garante o respectivo financiamento imobiliário, resguardando, assim, os recursos públicos direcionados à manutenção do sistema.
+10. A interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio.
+11. Os vícios estruturais de construção provocam, por si mesmos, a atuação de forças anormais sobre a edificação, na medida em que, se é fragilizado o seu alicerce, qualquer esforço sobre ele - que seria naturalmente suportado acaso a estrutura estivesse íntegra - é potencializado, do ponto de vista das suas consequências, porque apto a ocasionar danos não esperados na situação de normalidade de fruição do bem.
+12. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp 1.804.965/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 1º/6/2020)
+Dessa forma, pela explícita comprovação da dissonância entre a conclusão adotada no acórdão recorrido e a jurisprudência sedimentada nesta Corte e, consequentemente, da necessidade de adequação do julgado ao entendimento deste Superior Tribunal de Justiça, confirma-se o provimento do especial para, reconhecendo a existência de cobertura securitária na hipótese vertente, determinar o retorno dos autos ao TJSP a fim de que prossiga no julgamento da causa como entender de direito (e-STJ, fls. 1.917/1.918).
+Portanto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
