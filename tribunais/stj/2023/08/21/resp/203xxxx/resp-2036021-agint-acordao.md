@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE DESEMPENHO. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. ÔNUS DA SUCUMBÊNCIA EM AÇÃO CIVIL PÚBLICA. DUPLO REGIME.
+1. Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Aplica-se o entendimento da Súmula 85 do STJ.
+2. O Superior Tribunal de Justiça adotou a orientação de que a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide REsp 1.573.197; Rel. Ministra Assusete Magalhães, DJe 30.3.2017; REsp 1.208.930, Rel. Ministro Og Fernandes, DJe 28.9.2016; EDcl no REsp 1.538.956, Rel. Ministro Humberto Martins, DJe 18.8.2016).
+3. Com relação à citada ofensa aos arts. 17 e 18 da Lei 7.347/1985, o acórdão recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça de que o ônus de sucumbência, na Ação Civil Pública, rege-se por duplo regime de modo que, quando vencida a parte autora, incidem as disposições especiais dos arts. 17 e 18 da Lei 7.347/1985; contudo, quando houver sucumbência, em razão da procedência da demanda, deve-se aplicar subsidiariamente o CPC.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão das fls. 472-477, e-STJ, que conheceu em parte do Recurso Especial para, nessa parte, negar-lhe provimento. Cosideraram-se os seguintes fundamentos: a) falta de competência do STJ para apreciar, em Recurso Especial, a violação de norma constitucional; b) deficiência de fundamentação do tópico da violação do art. 1.022 do CPC; c) conformidade do acórdão proferido pelo Tribunal de origem em relação à prescrição; d) ausência de previsão legal para distinção do pagamento de Gratificações de Desempenho para aposentados e pensionistas com proventos integrais e proporcionais, e e) conformidade do acórdão recorrido quanto aos honorários advocatícios em Ação Civil Pública.
+A agravante sustenta, em suma, que o caso é de reconhecimento da prescrição de fundo de direito, pois ".. o pleito posto em julgamento implica revisão dos atos administrativos quais foram perfectibilizados, em muitos casos há mais de cinco anos do ajuizamento da presente demanda, tendo em vista que as Gratificações foram instituídas, a partir de DEZ/2004 (por meio da meio da Lei nº 11.046/2004), em muitos casos caracterizada está a prescrição do fundo de direito, ou seja, de revisar esses atos de aposentadoria/pensão, consoante disposto no artigo 1º do Decreto nº 20.910/32" (fl. 488, e-STJ).
+Defende ainda a possibilidade de pagamento proporcional da Gratificação por Desempenho aos inativos com proventos proporcionais. Aduz ainda que ".. a decisão ora impugnada contraria o entendimento do STJ de que em ações coletivas, não é cabível a condenação do autor em honorários advocatícios sucumbenciais na forma do art. 18 da Lei 7.347/1985. O referido entendimento deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da Ação Civil Pública -, quanto para o réu, em obediência ao princípio da simetria" (fl. 492, e-STJ).
+Postula a reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Impugnação ao Agravo apresentada à fls. 499-518, e-STJ.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.036.021 - SC (2022/0342373-8)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+AGENCIA NACIONAL DE MINERACAO
+AGRAVADO
+:
+SINTRAFESC SINDICATO DOS TRAB NO SERV PUB FED NO EST SC
+OUTRO NOME
+:
+SINDICATO DOS TRABALHADORES NO SERVIÇO PÚBLICO FEDERAL NO ESTADO DE SANTA CATARINA - SINTRAFESC
+ADVOGADOS
+:
+LUIS FERNANDO SILVA - SC009582
+MARCIO LOCKS FILHO - SC011208
+RAFAEL DOS SANTOS - SC021951
+PAULA PAZ - SC035979
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE DESEMPENHO. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. ÔNUS DA SUCUMBÊNCIA EM AÇÃO CIVIL PÚBLICA. DUPLO REGIME.
+1. Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Aplica-se o entendimento da Súmula 85 do STJ.
+2. O Superior Tribunal de Justiça adotou a orientação de que a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide REsp 1.573.197; Rel. Ministra Assusete Magalhães, DJe 30.3.2017; REsp 1.208.930, Rel. Ministro Og Fernandes, DJe 28.9.2016; EDcl no REsp 1.538.956, Rel. Ministro Humberto Martins, DJe 18.8.2016).
+3. Com relação à citada ofensa aos arts. 17 e 18 da Lei 7.347/1985, o acórdão recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça de que o ônus de sucumbência, na Ação Civil Pública, rege-se por duplo regime de modo que, quando vencida a parte autora, incidem as disposições especiais dos arts. 17 e 18 da Lei 7.347/1985; contudo, quando houver sucumbência, em razão da procedência da demanda, deve-se aplicar subsidiariamente o CPC.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 28.06.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, o aresto recorrido não destoa da orientação deste Tribunal Superior de que, nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Sobre o tema:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO (PAM). LEI ESTADUAL N. 10.395/95. ANÁLISE DE LEI ESTADUAL. SÚMULA 280/STF. IMPOSSIBILIDADE. PRESCRIÇÃO. SÚMULA 85/STJ. RECURSO ESPECIAL IMPROVIDO.
+1. O recorrente, a pretexto de alegar ausência de interesse de agir na demanda, com base no art. 267, IV, do CPC, acabou pleiteando o revolvimento da legislação local que tratou da Parcela Autônoma dos vencimentos básicos dos professores (Leis Estaduais ns. 10.395/1995, 11.662/2001 e 12.961/2008), o que gera a inadmissibilidade do recurso especial, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+2. O acórdão recorrido está em sintonia com o entendimento jurisprudencial do Superior Tribunal de Justiça, no sentido de que não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por configurar-se relação de trato sucessivo, conforme disposto na Súmula 85/STJ. Precedentes.
+Agravo regimental improvido. (AgRg no REsp 1.313.229/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/5/2012).
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. LEI ESTADUAL Nº 10.395/95. AUSÊNCIA DE PREQUESTIONAMENTO DE PRECEITOS FEDERAIS. SÚMULAS 282/STF E 211/STJ. VIOLAÇÃO DO ART. 535, II, CPC NÃO CONFIGURADA. PRESCRIÇÃO. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA Nº 85/STJ.
+1. Em se tratando de relação de trato sucessivo, o indeferimento do pedido pela Administração é o termo a quo para o cômputo do prazo quinquenal. Em não havendo negativa expressa, o entendimento jurisprudencial é no sentido de que nas hipóteses em que a Administração, por omissão, não paga benefícios aos servidores, a prescrição não atinge o próprio fundo de direito, mas tão somente as parcelas vencidas a mais de cinco anos da propositura da ação, nos termos da Súmula 85/STJ.
+2. Agravo regimental não provido. (AgRg no REsp 1.302.524/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 25/4/2012).
+Em relação ao pagamento de gratificações aos aposentados e pensionistas com proventos proporcionais, o Colegiado a quo consignou (fls. 288-289, e-STJ):
+A controvérsia cinge-se a averiguar se as gratificações de desempenho instituídas através da Lei 11.046/2004, alterada pela Lei nº11.907/2009 - no caso, a Gratificação de Desempenho de Atividades de Recursos Minerais - GDARM, a Gratificação de Desempenho de Atividades de Produção Mineral - GDAPM, a Gratificação de Desempenho de Atividades Administrativas do DNPM - GDADNPM e a Gratificação de Desempenho de Atividades Administrativas do Plano Especial de Cargos do DNPM - GDAP DNPM, recebidas pelos servidores aposentados e pensionistas ora substituídos, cujos proventos são proporcionais ao tempo de contribuição, devem seguir o parâmetro de proporcionalidade da aposentadoria e da pensão ou podem ser pagas de forma integral.
+O E. STJ sedimentou entendimento no sentido de que, tendo em vista a ausência de previsão constitucional, a proporcionalidade dos proventos de aposentadoria e de pensão não repercute no pagamento da gratificação de desempenho, quando a lei de regência não autorizar tal distinção entre os servidores aposentados e os pensionistas com proventos integrais e proporcionais: (..)
+Desse modo, o órgão julgador está alinhado ao entendimento do STJ de que, "em razão da ausência de critério legal a definir tal discrepância, não pode haver diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da Gratificação de Desempenho" (AgInt no REsp 1.566.115/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 3.3.2020). Na mesma linha: AgInt no REsp 1.609.787/RS, Rel. Ministro Francisco Falcão, DJe 10.11.2017; REsp 1.714.383/RS, Rel. Ministro Herman Benjamin, DJe 2.8.2018; AgRg no REsp 1.542.252/RS, Rel. Ministro Humberto Martins, DJe 16.9.2015; e AgInt no REsp 1.544.877/RS, Rel. Ministro Napoleão Nunes Maia Filho, DJe 22.9.2016.
+A propósito, mutatis mutandis:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. GDATA. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTE DO STJ.
+1. O Tribunal a quo, ao dirimir a querela nos autos, afastou-se da jurisprudência desta Corte Superior, para a qual "a Lei 10.404/2002, ao estabelecer a forma em que a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) passaria a integrar os proventos dos servidores inativos, não fez qualquer distinção entre os que se aposentaram integral ou proporcionalmente ao tempo de contribuição. Logo, diante da inexistência de previsão legal, não prospera a redução da vantagem" (REsp 1714383/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2018, DJe 02/08/2018).
+2. Recurso especial provido.
+(REsp 1.856.706/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/6/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GDATA. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. ART. 186 DA LEI 8.112/1990. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A Lei 10.404/2002, ao estabelecer a forma em que a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) passaria a integrar os proventos dos servidores inativos, não fez qualquer distinção entre os que se aposentaram integral ou proporcionalmente ao tempo de contribuição. Logo, diante da inexistência de previsão legal, não prospera a redução da vantagem pretendida pelo INSS. Precedentes do STJ: AgInt no REsp 1.544.877/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22.9.2016; AgRg no REsp 1.542.252/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16.9.2015.
+(..)
+5. Recurso Especial não conhecido.
+(REsp 1.714.383/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/8/2018)
+Com relação à citada ofensa aos arts. 17 e 18 da Lei 7.347/1985, mais uma vez dessume-se que o decisum recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça.
+Nessa senda:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. FUNDAMENTO GENÉRICO. SÚMULA 284/STF. AÇÃO CIVIL PÚBLICA. CONDENAÇÃO EM VERBA DE SUCUMBÊNCIA. POSSIBILIDADE. APLICAÇÃO DA SÚMULA 83/STJ.
+1. A alegada ofensa ao art. 535 do CPC foi apresentada de forma genérica pela recorrente, tendo em vista que não demonstrou, de maneira clara e específica, a ocorrência de omissão no julgado, atraindo, assim, o enunciado da Súmula 284 da Suprema Corte.
+2. Na forma da jurisprudência do STJ, "o ônus de sucumbência, na ação civil pública, rege-se por duplo regime, tendo em vista uma interpretação sistemática dos dispositivos da Lei n. 7.347/85: quando vencida a parte autora, aplicam-se as disposições especiais dos artigos 17 e 18 da Lei n. 7.347/85, a fim de evitar que os legitimados ativos se desestimulem na defesa de interesses difusos coletivos; quando houver sucumbência recíproca, deve-se aplicar subsidiariamente o art. 20 do CPC, "na medida em que, à míngua de regra especial, emprega-se a lex generalis, in casu, o Código de Processo Civil." (REsp 845.339/TO, Rel. Ministro Luiz Fux, Primeira Turma, DJ 15/10/2007). Aplicação da orientação fixada pela Súmula 83/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 623.257/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/6/2015)
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA AJUIZADA PELA DEFENSORIA PÚBLICA PARA ASSEGURAR TRATAMENTO MÉDICO A CIDADÃO CARENTE. CONDENAÇÃO EM VERBA DE SUCUMBÊNCIA. POSSIBILIDADE. ARTIGOS DE LEI TIDOS POR VIOLADOS QUE NÃO TÊM FORÇA NORMATIVA APTA À REFORMA DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. VIOLAÇÃO DO ART. 20, § 4º, DO CPC NÃO VERIFICADA. VERBA HONORÁRIA NÃO IRRISÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental no recurso especial em que se discute a impossibilidade de arbitramento de honorários de sucumbência em ações civis públicas; bem como a exorbitância do valor fixado pelo Tribunal de origem.
+2. À luz da Súmula n. 284 do STF, não se conhece de recurso especial na parte em que se alega violação a dispositivos de lei federal que não contêm comando normativo suficiente à conclusão do acórdão recorrido. Nessa linha, não se conhece do recurso especial, quanto às alegadas violações dos arts. 17 e 18 da Lei n. 7.347/1985.
+3. De toda sorte, vale citar o entendimento do STJ, no sentido de que "o ônus de sucumbência, na ação civil pública, rege-se por duplo regime, tendo em vista uma interpretação sistemática dos dispositivos da Lei n. 7.347/85: quando vencida a parte autora, aplicam-se as disposições especiais dos artigos 17 e 18, da Lei n. 7.347/85, a fim de evitar que os legitimados ativos se desestimulem na defesa de interesses difusos coletivos; quando houver sucumbência recíproca, deve-se aplicar subsidiariamente o art. 20, do CPC, "na medida em que, à míngua de regra especial, emprega-se a lex generalis, in casu, o Código de Processo Civil." Precedente: REsp 845339/TO (Rel. Ministro Luiz Fux, Primeira Turma, DJ 15.10.2007)" (AgRg nos EDcl no REsp 1.268.922/SC, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 17/9/2013, DJe 2/10/2013).
+4. Com relação ao art. 20, § 4º, do CPC, o recurso especial também não merece conhecimento, porquanto, não havendo desproporcionalidade no montante arbitrado, essa via recursal não é própria à discussão. A esse respeito: AgRg no REsp 1.419.151/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/2/2014, DJe 7/3/2014.
+Agravo regimental improvido.
+(AgRg no REsp 1.455.414/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/8/2014)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
