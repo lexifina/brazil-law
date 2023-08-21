@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial, interposto por BANCO SANTANDER S/A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 27, e-STJ):
+AGRAVO DE INSTRUMENTO. Execução de Título Extrajudicial. Contratos Bancários. Decisão determinando o desbloqueio de valores. Ausência de comprovação de penhorabilidade dos valores constritos. Verbas rescisórias. Expressão salário que, para fins de impenhorabilidade, abrange todos os créditos decorrentes da atividade profissional. A penhora se deu sobre valor correspondente aos proventos de salário, mantidos em conta corrente de um mês para o outro, inferiores a quarenta salários-mínimos. Interpretação sistemática e teleológica do disposto no art.833,incisosIVe X, e §2º,do CPC/2015. Impenhorabilidade. De rigor o desbloqueio do montante penhorado em conta do Executado. Decisão mantida. Teses recursais que demandam a dilação probatória na Origem. Decisão mantida. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 53/57, e-STJ).
+Em suas razões de recurso especial, o Recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 833 e 835, I, do CPC/15. Sustenta, em síntese, que deve ser admitida a penhora dos valores na conta bancária da parte recorrida, pois "a documentação probatória apresentada é insuficiente para determinar o desbloqueio total do montante." (fl. 37, e-STJ).
+Após a apresentação das contrarrazões (fls. 61/69, e-STJ), e após decisão de admissão do recurso especial (fls. 70/72, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local consignou (fls. 28/30, e-STJ):
+Inexiste nos Autos comprovação de que os valores recebidos pela Agravante a título de verbas rescisórias (fls. 202/203: termo de rescisão do Contrato de Trabalho) não são para sua subsistência.  ..  Ora, são impenhoráveis as quantias depositadas em poupança (ou conta corrente), até o limite de 40 (quarenta) salários-mínimos, nos termos da interpretação sistemática e teleológica do disposto no art. 833, incisos IV e X, e §2º,do CPC/2015.  ..  Assim, era mesmo de rigor o desbloqueio das quantias em conta corrente da Agravada.
+Com efeito, conforme entendimento desta Corte, é impenhorável a quantia de até quarenta salários mínimos poupada em conta-corrente, como no caso dos autos, em que os valores penhorados decorrem de verbas rescisórias.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. A jurisprudência desta Corte Superior entende que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, sendo ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.117/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+DIREITO CIVIL E PROCESSUAL CIVIL. PENHORA DE VERBAS RESCISÓRIAS DE CARÁTER SALARIAL. VIOLAÇÃO DO ARTIGO 649, IV DO CPC. IMPENHORABILIDADE DE CONTA-SALÁRIO. NECESSIDADE DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. É inadmissível a penhora dos valores recebidos a título de verba rescisória de contrato de trabalho e depositados em conta corrente destinada ao recebimento de remuneração salarial (conta salário), ainda que tais verbas estejam aplicadas em fundos de investimentos, no próprio banco, para melhor aproveitamento do depósito.
+2. Ademais, o Tribunal a quo concluiu, com base nas provas dos autos, que a natureza dos valores penhorados é salarial. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do Superior Tribunal de Justiça.
+Recurso especial não conhecido.
+(REsp n. 978.689/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/8/2009, DJe de 24/8/2009.)
+Ademais, para acolher a pretensão recursal sob a alegação de que "a documentação probatória apresentada é insuficiente para determinar o desbloqueio total do montante." (fl. 37, e-STJ), seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita.
+Assim, aplicáveis os óbices das Súmulas 7 e 83/STJ.
+2. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes: AgRg no AREsp 646.141/ES, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10.3.2015, DJe 13.3.2015; REsp n. 765.505/SC; Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7.3.2006, DJ 20.3.2006; REsp 1011849/RS, Relator o Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 23.6.2009, DJe 3.8.2009.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e nego-lhe provimento.
+Publique-se. Intimem-se.
