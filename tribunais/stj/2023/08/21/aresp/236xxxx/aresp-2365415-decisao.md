@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA no qual se insurgira contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Discute-se nos autos indenização por dano material e moral decorrente de má prestação de serviços médicos/hospitalares ajuizada por Adriana Salete Neves Rodrigues, ora agravada, em face da agravante, ente dotado de personalidade jurídica de direito privado.
+Noto, portanto, que a insurgência recursal envolve questão jurídica regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput, § 2º, II e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para redistribuição do feito a uma das turmas que compõem a Segunda Seção, nos termos do art. 9º, caput e § 2º, II e XIV do Regimento Interno desta Corte.
+Publique-se. Intimações necessárias.
