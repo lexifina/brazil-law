@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REQUERIMENTO NO CURSO DO PROCESSO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. RAZÕES DO RECURSO DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Civil Pública, ajuizada pelo Ministério Público do Estado de São Paulo, objetivando a condenação do réu pela prática de ato de improbidade administrativa.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "não há nenhum documento a comprovar, de forma idônea e cabal, que o apelante esteja em situação econômica que lhe impeça de arcar com as despesas processuais, sem comprometer o exercício de sua atividade. Sequer foi apresentada a declaração exigida pela lei, não cumprindo requisito essencial para a concessão da gratuidade". Tal entendimento, firmado pelo Tribunal a quo, no sentido da ausência de cumprimento dos requisitos necessários à concessão do benefício, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Os fundamentos adotados pela Corte de origem, acerca da ausência de demonstração da alteração da condição sócio-econômica, não foram objeto de impugnação específica, no Recurso Especial, cujas razões estão dissociadas do fundamento do acórdão recorrido, devendo incidir, nesse ponto, os óbices das Súmulas 283 e 284/STF.
+V. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão proferida pelo Presidente do STJ, que conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência das Súmulas 7/STJ e 284/STF.
+Opostos Embargos de Declaração, restaram eles rejeitados.
+Inconformada, sustenta a parte agravante que "o Tribunal a quo além de indeferir a gratuidade, também não aplicou as normas alternativas para o recolhimento. Também a apreciação do Recursos Especial não necessita de revolvimento de provas nos autos, o que afasta a incidência da Súmula 7/STJ. No decisum que se guerreia está presente no relatório do Tribunal as referências econômicas que foi apresentado pedido de gratuidade processual e compõe os fundamentos do acórdão guerreado".
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 2.117.553 - SP (2022/0125349-4)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+EVILASIO CAVALCANTE DE FARIAS
+ADVOGADOS
+:
+CARLOS EDUARDO DE TOLEDO - SP319415
+SERGIO LAZARO FERREIRA - SP339163
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REQUERIMENTO NO CURSO DO PROCESSO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. RAZÕES DO RECURSO DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação Civil Pública, ajuizada pelo Ministério Público do Estado de São Paulo, objetivando a condenação do réu pela prática de ato de improbidade administrativa.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "não há nenhum documento a comprovar, de forma idônea e cabal, que o apelante esteja em situação econômica que lhe impeça de arcar com as despesas processuais, sem comprometer o exercício de sua atividade. Sequer foi apresentada a declaração exigida pela lei, não cumprindo requisito essencial para a concessão da gratuidade". Tal entendimento, firmado pelo Tribunal a quo, no sentido da ausência de cumprimento dos requisitos necessários à concessão do benefício, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Os fundamentos adotados pela Corte de origem, acerca da ausência de demonstração da alteração da condição sócio-econômica, não foram objeto de impugnação específica, no Recurso Especial, cujas razões estão dissociadas do fundamento do acórdão recorrido, devendo incidir, nesse ponto, os óbices das Súmulas 283 e 284/STF.
+V. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Ação Civil Pública, ajuizada pelo Ministério Público do Estado de São Paulo, objetivando a condenação do réu pela prática de ato de improbidade administrativa.
+O Tribunal de origem manteve a decisão que indeferira o pedido de assistência judiciária gratuita, sob o fundamento de que "o benefício somente foi requerido em recurso de apelação, após a ação ser julgada parcialmente procedente, sem demonstrar a modificação superveniente na sua situação econômica, a justificar o pedido".
+Nas razões do Recurso Especial, a parte agravante aponta violação aos arts. 98 e 99, §§ 2º e 7º do CPC/2015, pois "o V. Acórdão não indica qualquer elemento de evidência da falta dos pressupostos para a concessão da gratuidade processual. Dada a situação financeira e econômica, já considerada no v. acórdão guerreado, que não necessita de revolvimento de provas, requer o Recorrente a concessão da gratuidade processual, PROVENDO o recurso para reformar o v. acórdão guerreado, visto que não possui renda para custear o processo sem prejuízo ao próprio sustento e de sua família".
+Com efeito, como destacou a decisão ora agravada, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "não há nenhum documento a comprovar, de forma idônea e cabal, que o apelante esteja em situação econômica que lhe impeça de arcar com as despesas processuais, sem comprometer o exercício de sua atividade. Sequer foi apresentada a declaração exigida pela lei, não cumprindo requisito essencial para a concessão da gratuidade".
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. REESTRUTURAÇÃO DA CARREIRA. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+2. É de se reconhecer a incidência, na hipótese, da Súmula nº 83 do STJ, pois o Tribunal a quo decidiu em consonância com a jurisprudência desta Corte.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.858.814/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2020).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie os óbices das Súmulas 282 e 356 do STF.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam da entidade bancária.
+5. O STJ tem o entendimento de que "a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+6. Agravo interno desprovido" (STJ, AgInt no REsp 1.880.769/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/12/2020).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECRETAÇAO DE PRISÃO. RETRATAÇAO DA VÍTIMA. ABSOLVIÇÃO. TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO FÁTICO DA CAUSA, ENTENDEU NÃO TER OCORRIDO ERRO JUDICIÁRIO, AFASTANDO A RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Hipótese em que o Tribunal de origem consignou que "o conjunto probatório produzido permite concluir que o Estado, ao decretar a prisão do autor, agiu com os elementos que estavam à sua disposição, como prova testemunhal e demais elementos da materialidade e índicos suficientes da autoria, em decisão devidamente fundamentada, guardando pertinência com a legislação aplicável. A segregação realizada se encontrava respaldada no sistema jurídico, face à confirmação, em segundo grau, da sentença penal condenatória (fls. 105/111). De outra banda, a absolvição do demandante aconteceu em face da retratação da vítima que, posteriormente, veio a reconhecer que teria se equivocado no momento do reconhecimento de ser Rogério o autor do fato delituoso" (fl. 352, e-STJ).
+2. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo Interno não provido" (STJ, AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020).
+Ademais, a parte recorrente adotou razões recursais dissociadas da fundamentação do acórdão objurgado, deixando de impugnar, especificamente, o fundamento relativo à necessidade de comprovação da alteração da condição sócio-econômica, pelo que incidem, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Com efeito, à luz do princípio da dialeticidade, não basta a parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento, proferido pelo Tribunal de origem, merece ser modificado.
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PROSSEGUIMENTO ANTE O INDEFERIMENTO DO PEDIDO DE PARCELAMENTO. REQUISITOS DO PARCELAMENTO. IMPROPRIEDADE DA VIA ELEITA. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS DO ACÓRDÃO DE ORIGEM INATACADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. OCORRÊNCIA DE PARCELAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A Corte de origem não analisou, nem sequer implicitamente, os diapositivos apontados como violados. Isso porque entendeu pela impropriedade da via eleita. Incidência da Súmula 211/STJ.
+2. Os argumentos do Tribunal a quo acerca da impropriedade da via eleita, já que "o feito executivo não é foro adequado para a discussões como a trazida pelo agravante, seja acerca da consideração dos prejuízos anteriores, seja a respeito da forma como deverá se dar o parcelamento", não foi objeto de impugnação nas razões do recurso especial. Limitou-se o recorrente a afirmar que satisfez todas as exigências legais para o deferimento do parcelamento. Incidência das Súmulas 283 e 284/STF.
+3. Não há como aferir eventual violação do dispositivo citado por violado sem que se reexamine o conjunto probatório dos presentes autos, porquanto a Corte estadual concluiu que não se perfectibilizou o parcelamento motivo pelo qual deu prosseguimento ao pleito executivo. Incidência da Súmula 7/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.383.667/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/06/2015).
+"TRIBUTÁRIO. RAZÕES GENÉRICAS. IMPOSSIBILIDADE. COMPREENSÃO. OMISSÃO. SÚMULA 284/STF. SUPRESSÃO DE INSTÂNCIA. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. Não se pode conhecer da alegada ofensa ao art. 535 do CPC, porquanto as razões do recurso são genéricas e não indicam objetivamente de que forma teria havido omissão e qual a relevância do ponto, em tese omitido, para o deslinde da controvérsia. Aplica-se, por analogia, o óbice da Súmula 284/STF.
+2. O Tribunal local, soberano na análise das provas e dos fatos, consignou: "A falta de cumprimento da determinação judicial torna intransponível o obstáculo processual rumo ao mérito. Em vista disso, não é dado trazer à este juízo a suposta regularização com documento novo acostado no recurso, sob pena de supressão de instância. "
+3. Verifica-se que o Recurso Especial não impugnou toda a fundamentação do acórdão, principalmente o fato de a profissão da autora não estar vinculada ao Conselho Profissional de Enfermagem, o que encontra óbice na Súmula 283 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de afronta a dispositivos constitucionais.
+4. Recurso Especial não conhecido" (STJ, REsp 1.519.711/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. AJUDA DE CUSTO ALUGUEL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. PRÊMIO DE PRODUTIVIDADE. NATUREZA SALARIAL. INCIDÊNCIA. PRECEDENTES. AUXÍLIO CRECHE/BABÁ/DEFICIENTE. QUESTÃO ATRELADA AO REEXAME DE PROVA.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A jurisprudência dessa Corte reconhece o seu caráter salarial, e a consequente incidência de contribuição previdenciária sobre a verba denominada "prêmio de produtividade".
+4. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+5. Agravo regimental não provido" (STJ, AgRg no AREsp 655.644/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/05/2015).
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
