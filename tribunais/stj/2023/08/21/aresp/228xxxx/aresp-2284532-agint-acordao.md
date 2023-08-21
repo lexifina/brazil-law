@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município do Rio de Janeiro desafiando decisão de fls. 1.149/1.152, que deu provimento ao recurso especial manejado por B&T Serviços Financeiros Ltda., para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão considerada como omitida.
+Em suas razões, o agravante sustenta que "os embargos de declaração possuem a finalidade de sanar omissões, obscuridades e contradições na decisão recorrida. No caso em tela, entretanto, verificou-se o objetivo da agravante de convolar os declaratórios em um recurso de ampla cognição, o que é incompatível com o rol taxativo de hipóteses previsto no artigo 1.022, do CPC. Nesse sentido, é pacífico na jurisprudência que a oposição dos aclaratórios não se presta a modificar o mérito da decisão quando há mero inconformismo da parte." (fl. 1.161).
+Ressalta ser "Inadequada a invocação do art. 90, § 4º do CPC, eis que a recorrente é autora da demanda e não ré, não havendo que se cogitar de reconhecimento do pedido ou cumprimento da prestação postulado pela autora. Em verdade, é uma persistente confusão pela autora entre a execução fiscal e a presente ação anulatória (em que é autora). Desse modo, não merece acolhida a tese de violação ao artigo 1.022, do CPC, devendo ser mantida a decisão que inadmitiu o recurso especial." (fls. 1.162/1.163).
+A parte agravada apresentou impugnação (fls. 1.175/1.192).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC CONFIGURADA.
+1. Na forma da jurisprudência desta Corte , "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021).
+2. Caso concreto em que, a despeito da oposição de embargos declaratórios, o Tribunal de origem quedou silente sobre argumentação relevante ao deslinde da controvérsia, rejeitando os pertinentes aclaratórios da parte ora agravada, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida, pois a parte agravante não apresenta razões suficientes para desconstituir os fundamentos adotados pela decisão ora impugnada.
+Como antes destacado, a irresignação comporta guarida quanto à alegada violação a art.1.022, II, do CPC/2015.
+No tocante à redução dos honorários advocatícios pela metade, nos termos do art. 90, § 4, do CPC, e à aplicação do art. 10 do Decreto n. 47.419/2020, a parte ora recorrente opôs embargos de declaração, nos quais sustentou que o decisum teria incorrido em negativa de prestação jurisdicional, nos seguintes termos (fls. 973/974):
+6. A partir da análise do acórdão embargado, é possível observar que o fundamento utilizado para manter a condenação da Embargante em honorários advocatícios foio art. 8º do Decreto nº 44.640/2018, que regulamentou a Lei Municipal nº 6.365/2018.
+7. Quanto ao ponto, embora se trate da mesma redação, salienta-se que o dispositivo aplicável à hipótese seria o art. 10 do Decreto nº 47.419/2020, que determina que "o contribuinte que aderir aos benefícios regulamentados nesta Seção deverá, no mesmo ato, quitar ou parcelar os honorários advocatícios devidos em decorrência do ajuizamento da execução fiscal ou da realização do protesto da certidão de dívida ativa".
+8. Entretanto, a decisão deixou de observar que o caso em análise refere-se à ação anulatória, não tendo sido ajuizada execução fiscal pelo Município visando à cobrança do tributo, de maneira que a disposição em questão não se enquadra na hipótese em exame, acarretando, por consequência, a impossibilidade de fixação da sucumbência em desfavor da Embargante.
+ ..
+14. Por fim, caso permaneça o entendimento exposto no r. acórdão embargado, na linha de que seria inaplicável à hipótese o princípio da equidade previsto no Código de Processo Civil, salienta-se que a decisão restou omissa em relação à manutenção do entendimento proferido em sentença acerca do percentual mínimo a ser aplicado em cada faixa fixada no art.
+85, §3º, CPC, e quanto à redução da verba de sucumbência pela metade, nos termos do art. 90, §4º, do CPC, sendo necessário o expresso esclarecimento sobre o ponto para se evitar dúvidas no momento da execução do julgado, incluindo-se, inclusive, no dispositivo da decisão proferida por essa Câmara.
+Todavia, a Corte origem assim se pronunciou sobre a existência da alegada omissão em sede de embargos declaratórios (fls. 998/999):
+As alegações trazidas pela Embargante não merecem prosperar, uma vez que as questões trazidas foram devidamente apreciadas.
+ ..
+Em relação ao art. 489, II e III, bem como seu parágrafo primeiro, inciso IV, do CPC deve-se registrar que:
+A decisão foi fundamentada com base nas questões de fato e de direito constantes nos autos (inciso II);
+Foram resolvidas as questões principais apresentadas pela parte, conforme leitura do dispositivo (inciso III);
+Foram enfrentados todos os argumentos deduzidos no processo, não tendo a Embargante, em suas razões recursais, trazido qualquer outro que, em tese, pudesse infirmar a conclusão adotada (§1º, inciso IV).
+Ademais, segundo abalizada doutrina, "havendo cumulação de fundamentos e apenas um deles for suficiente para o acolhimento do pedido(no caso de cumulação de causas de pedir, isto é, de concurso próprio de direitos) ou para o seu não acolhimento (no caso de não cumulação de "causae excipiendi", ou seja, causa de defesa), bastará que o julgador analise o motivo suficiente em suas razões de decidir. Tendo-o por demonstrado, não precisará analisar os outros fundamentos, haja vista que já lhe será possível conferir à parte (autoria ou ré, a depender do caso) os efeitos pretendidos. (..) É desnecessário, como visto, que o órgão jurisdicional analise todos os fundamentos do pedido ou da defesa, se já estiver convencido de um deles e ele for suficiente para fazer alcançar a conclusão desejada." (Comentários de Fredie Didier Jr., Rafael Alexandria de Oliveira e Paula Sarno Braga,in Comentários ao Novo Código de Processo Civil, coordenado por Antonio do Passo Cabral e Ronaldo Cramer, pg. 714/715, Editora Forense).
+Isto posto, em razão da inexistência de omissão/obscuridade, nego provimento ao recurso, de caráter nitidamente infringente.
+Assim, reitera-se que, da leitura dos excertos acima referidos, verifica-se que o Tribunal de origem não apreciou a questões suscitadas oportunamente. Em outras palavras, a Corte a quo quedou silente sobre as aludidas argumentações, rejeitando os pertinentes aclaratórios da parte ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito, confiram-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. APELO NOBRE. TEMPESTIVIDADE COMPROVADA. EMBARGOS DO DEVEDOR. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO NCPC. OMISSÃO CONFIGURADA. VÍCIO NÃO SANADO NA ORIGEM. NECESSÁRIO RETORNO DOS AUTOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É tempestivo o recurso especial interposto dentro do prazo previsto no art. 1003, § 5º, do NCPC.
+3. A existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC, sendo necessária a remessa dos autos à Corte estadual para sanar o vício apontado.
+4. Agravo interno em recurso especial não provido.
+(AgInt no REsp n. 1.857.281/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. IMPROBIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno provido, para conhecer do Agravo e dar provimento ao Recurso Especial do Ministério Público do Estado de Minas Gerais.
+(AgInt no AREsp 612.758/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/12/2020, DJe 18/12/2020)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto
