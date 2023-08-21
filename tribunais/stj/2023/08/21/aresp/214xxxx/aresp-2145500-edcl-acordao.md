@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: João Dias Nunes opõe embargos de declaração ao acórdão de fls. 423/426, por meio do qual se decidiu ser "inviável o agravo em recurso especial que deixa de atacar, de modo específico, a totalidade dos fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial" (fl. 423). Discorre, para tanto, citando julgados desta Corte, sobre a impossibilidade de aplicação retroativa da Lei 13.021/14, inobservada pelo acórdão embargado.
+Pleiteia o recorrente, ao final, "sejam recebidos e providos os presentes embargos declaratórios para que a decisão embargada seja reformada em consonância com o paradigma oriundo do E. STJ (Embargos de Declaração em RESP Nº 1.243.994 -MG, 2011/0056048-2) a fim de que as disposições do Art. 6ºda LINDB sejam aplicadas ao caso em comento, na medida em que a relação jurídica definida sob o manto da Lei pretérita, atrai para si os preceitos constitucionais do Direito Adquirido e da Coisa Julgada, os quais, sem um resquício de dúvida, são preponderantes a lei posteriormente editada" (fl. 436).
+Não houve contrarrazões (fls. 445).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS. RECURSO NÃO CONHECIDO.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. É firme a jurisprudência do STJ no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017).
+3. No caso concreto, a leitura da petição recursal revela, com segurança, a ausência de indicação de qualquer dos vícios previstos no art. 1.022 do CPC/15, limitando-se o embargante, portanto, a questionar o acerto da decisão vergastada.
+4. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: O recurso integrativo nem sequer ultrapassa a barreira da admissibilidade recursal.
+De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+No caso concreto, a leitura da petição recursal revela, com segurança, a ausência de indicação de qualquer dos vícios previstos no art. 1.022 do CPC/15. Limita-se o embargante, portanto, a questionar o acerto da decisão vergastada, sem nem mesmo indicar, em tese, algum dos típicos vícios previstos na lei processual autorizadores do manejo do recurso horizontal.
+Como é sabido, a existência ou não do vício constitui o mérito do recurso. S ua indicação concreta na petição recursal , por sua vez, é requisito de admissibilidade. Confira-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. É firme a jurisprudência desta Corte Superior no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017).
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AgInt no AREsp n. 1.989.401/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE INDICAÇÃO DE QUAISQUER DOS VÍCIOS ELENCADOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL. EMBARGOS DE D ECLARAÇÃO NÃO CONHECIDOS.
+1. "Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017)." (EDcl no AgRg no AREsp n. 2.142.317/SP, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 11/4/2023, DJe de 17/4/2023, grifei.).
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp n. 2.308.616/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/5/2023, DJe de 30/5/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. No caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo"), situação que acarreta o não conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no AREsp n. 1.774.101/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/10/2021, DJe de 22/10/2021.)
+Registre-se, finalmente, que a petição do recurso ora julgado (fls. 433/437) repete, em todos os termos, o recurso antes oposto desafiando a decisão da Presidência desta Corte (fls. 380/384), ocasião na qual, inclusive, o recorrente foi advertido sobre a aplicação da multa prevista no § 2º do art. 1.026 do CPC, o que ora se reitera, sem prejuízo da sujeição às sanções de litigância de má-fé, notadamente diante da existência de tese firmada pelo Supremo Tribunal Federal acerca do assunto (Tema 1.049).
+ANTE O EXPOSTO, não conheço dos embargos de declaração.
+É como voto.
