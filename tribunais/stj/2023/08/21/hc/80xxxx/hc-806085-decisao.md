@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FABIANO DA CUNHA PAULO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal 0018585-87.2015.8.19.0061).
+O paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão em regime fechado, além do pagamento de 680 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+O recurso de apelação interposto pela defesa foi desprovido pelo Tribunal de origem. Opostos embargos de declaração, foram parcialmente acolhidos para redimensionar a pena para 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, mantido o regime fechado.
+A impetrante alega: a) existência de "denúncia anônima informando a ocorrência de tráfico ilícito de entorpecentes em frente a um bar" (e-STJ fl. 5); b) o paciente "teria empreendido fuga ao perceber a presença dos agentes da lei (..) após breve perseguição, os policiais militares teriam logrado êxito em alcançá-lo, mas nada ilícito foi encontrado em seu poder" (e-STJ fl. 5); c) "os policiais alteraram a versão apresentada no momento da prisão em flagrante quando foram ouvidos em juízo" (e-STJ fl. 8); d) "não foram apontados outros elementos, além da mera evasão do paciente, a sugerir a ocorrência de flagrante delito, o que torna ilícita a realização da busca pessoal" (e-STJ fl. 8); e) "os agentes da lei foram uníssonos em informar que nada foi encontrado na posse do ora paciente, tendo sido o material entorpecente encontrado no chão" (e-STJ fl. 8); f) "a mera fuga do agente ao se deparar com policiais militares, por si só, não se perfaz como motivação suficiente e idônea para justificar sua abordagem pessoal, como exige o art. 244 do Código de Processo Penal" (e-STJ fl. 9); e g) "ante a ausência de provas lícitas e independentes capazes de atestar a materialidade do crime, não há lastro probatório para a condenação, sendo imperiosa a absolvição do paciente" (e-STJ fl.11).
+Requer deferimento da ordem "para reconhecer a ilicitude da prova oriunda de busca pessoal infundada, com a consequente absolvição do paciente (e-STJ fl. 11).
+Informações prestadas às e-STJ fls. 128-135.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus ou pelo indeferimento da ordem (e-STJ fls. 137-145).
+É o relatório.
+A defesa impetrou habeas corpus perante o Tribunal de origem que não se manifestou a respeito da tese apresentada  ilicitude da busca pessoal  que não foi submetida a prévio exame do magistrado processante.
+A propósito, confira-se (e-STJ fl. 116):
+Nos termos do art. 619, do Código de Processo Penal, são cabíveis os embargos de declaração quando houver no acórdão embargado ambiguidade, contradição, obscuridade ou omissão.
+Cabe ao julgador decidir as questões de direito deduzidas, indicando os motivos que formaram o seu convencimento.
+In casu, a decisão recorrida encontra-se fundamentada, estando explicitas os motivos que levaram o Colegiado a desprover o apelo defensivo, razão pela qual não se constata nenhuma omissão a ser sanada.
+Cumpre ressaltar que a defesa, em sua peça recursal, não arguiu a ilicitude da busca e apreensão. Não se descuida do amplo efeito devolutivo de que é dotada a apelação defensiva. Contudo, não é lógico que o Colegiado se manifeste em relação a matéria não impugnada. Por óbvio, acaso evidenciada alguma ilegalidade, a questão seria devidamente apreciada.
+Em suas razões, a defesa deixou de impugnar especificamente a ausência de manifestação do mandamus pelo Tribunal de origem e limitou-se a reiterar a tese meritória relativa à ilicitude da busca pessoal, que tampouco pode ser conhecida por esta Corte, para não incorrer em supressão de instância.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA DOMICILIAR NÃO AUTORIZADA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. INVIABILIDADE. RÉU FORAGIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O tema vertido no presente recurso, relativamente à nulidade pela busca domiciliar, não foi examinado no acórdão do habeas corpus impetrado na origem, que dele sequer conheceu, de modo que não é possível abordá-lo em sede recursal mandamental, sob pena de indevida supressão de instância.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no RHC 167.179/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+AGRAVO REGIMENTAL NA DECISÃO LIMINAR NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO QUE CONHECEU PARCIALMENTE DO RECURSO E NEGOU O PEDIDO LIMINAR NA PARTE CONHECIDA. MÉRITO. PLEITO DE NULIDADE DO INGRESSO DOMICILIAR. DEBATE E REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO REALIZADO NO ACÓRDÃO. INDEVIDA SUPRESSÃO DE INSTÂNCIA POR MERA REITERAÇÃO DE PEDIDOS DESDE A ORIGEM. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, não foi constatada nenhuma flagrante ilegalidade de plano, pois, conforme já esclarecido na decisão agravada, a nulidade aventada no presente recurso ordinário sequer foi debatida na origem, tendo em vista que não passou de mera reiteração de pedidos realizada no eg. Tribunal a quo - o que foi expressamente consignado, à fl. 1212, em razão do anterior HC n. 2193735-32.2021.8.26.0000/TJSP.
+III - Nesse sentido, é firme o posicionamento d esta Corte Superior de que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+IV - Tudo o que, ao fim, enseja reconhecer a indevida supressão de instância, o que impede a apreciação da questão da nulidade diretamente nesta Corte Superior.
+V - Acerca da indevida supressão de instância, mesmo em matéria de ordem pública, "em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância (..) As questões de ordem pública, para estarem sujeitas à jurisdição do Superior Tribunal de Justiça na via do remédio heroico, também devem ultrapassar a formalidade processual acima. Precedentes" (AgRg no HC n. 521.849/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/8/2020).
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC 163.494/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 3/5/2022, DJe de 9/5/2022).
+Ante o exposto, com fundamento no art. 34, XXVIII, a, do Regimento Interno deste Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
