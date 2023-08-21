@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+Na origem, trata-se de mandado de segurança em que se postula afastar a exigência de autorização do síndico da massa falida como condição para ingresso no parcelamento tributário previsto na Lei n. 11.941/2009, compelindo-se a autoridade impetrada á análise dos demais requisitos formais e a consequente consolidação dos débitos. Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+O recurso especial foi interposto contra acórdão proferido pelo Tribunal Regional Federal da Terceira Região, assim ementado:
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO.
+- A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+- Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+- Agravo interno desprovido.
+Na petição de agravo interno, a parte agravante apresenta, resumidamente, as seguintes alegações:
+ ..
+Nesse ponto, data venia, não assiste razão a r. decisão recorrida. Isto porque, o Agravante demonstrou com precisão em seu Recurso Especial, que o julgamento de lavra do Tribunal Regional Federal 3ª Região, negou vigência ao artigo 1.022, do Código de Processo Civil, na medida em que não obstante tenha interposto Embargos de Declaração, ainda assim v. acórdão recorrido deixou de se pronunciar quanto a sua responsabilidade pessoal pelo débito tributário.
+Ora, essa questão é o núcleo do recurso de Agravo interposto no Tribunal Regional Federal, pois, com seu conhecimento, infalivelmente, o Agravante estará autorizado na adesão do parcelamento cuja previsão se encontra no parágrafo 2º do art. 1º da Lei n. 11.941/2009.
+As razões do Recurso Especial interposto ao fundamento da negativa de vigência ao artigo 1.022 do Código de Processo Civil, em hipótese alguma se apresenta de forma genérica e nem muito menos sem desenvolver argumentos a fim de demonstrar a omissão do v. acórdão recorrido.
+Aliás, o Recurso Especial interposto chega até ser repetitivo, quando se verifica que nele, o único fundamento para negativa da prestação jurisdicional pelo Tribunal "a quo", é pela omissão da questão nuclear requerida em sede de Recurso de Agravo Interno nesse Colegiado, na qual o Agravante é reconhecidamente responsável pelo crédito tributário pela aplicação do artigo 135 Código Tributário Nacional e que razão disso, independentemente da dissolução ou não da sociedade falida, não está obrigado na autorização do síndico da massa para o ingresso do débito tributário no parcelamento previsto pelo parágrafo 2º do art. 1º da Lei n. 11.941/2009.
+ ..
+O Agravante também não concorda com esse fundamento da r. decisão recorrida, posto que seu Recurso Especial delimitou precisamente a divergência, possibilitado o confronto interpretativo do v. acórdão recorrido com o paradigma que apresentou do Superior Tribunal de Justiça.
+ ..
+Em que pese o entendimento da r. decisão recorrida, o Recurso Especial interposto encontra-se lastreado exclusivamente em matéria de direito, dispensando de qualquer tipo de análise probatória, não havendo, portanto, o óbice representado pela Súmula 7 do STJ.
+De fato, o Recurso Especial se restringe na interpretação da legislação federal, uma vez que apresenta o confronto interpretativo das decisões à luz do artigo 135 do Código Tribunal Nacional, que autoriza o ingresso do responsável pelo débito tributário ao parcelamento da Lei 11.941/09, sem a necessária autorização da pessoa jurídica.
+ ..
+O Recurso Especial interposto combateu todos os fundamentos do v. acórdão recorrido, demonstrando a responsabilidade pessoal do Agravante pelo débito tributário, que independe da autorização do síndico da massa falida para sua adesão no parcelamento da Lei nº 11.941/09, nada importando, para tanto, a dissolução ou não da sociedade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PARCELAMENTO TRIBUTÁRIO. LEI N. 11.941/2009. AUTORIZAÇÃO DO SÍNDICO DA MASSA FALIDA. NESTA CORTE NÃO SE CONHECEU DO RECURSO ESPECIAL. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+II - Na origem, trata-se de mandado de segurança em que se postula afastar a exigência de autorização do síndico da massa falida como condição para ingresso no parcelamento tributário previsto na Lei n. 11.941/2009, compelindo-se a autoridade impetrada á análise dos demais requisitos formais e a consequente consolidação dos débitos.
+III - Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+IV - Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+V - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação, a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+VI I - Agravo interno improvido.
+VOTO
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC DE 1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DO TERMO DE TRANSAÇÃO HOMOLOGADO PELO JUIZ. DOCUMENTO EMITIDOS PELO SIAPE. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a assertiva de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se na hipótese o óbice da Súmula 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1492093/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/08/2020, DJe 13/08/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. IPI. SAÍDA DO ESTABELECIMENTO DO CONTRIBUINTE. AUSÊNCIA. MERO DESLOCAMENTO DO PRODUTO PARA PRESTAÇÃO DE SERVIÇOS. NÃO INCIDÊNCIA.
+(..)
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+(..)
+8. Recurso especial conhecido em parte e desprovido.
+(REsp 1402138/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/05/2020, DJe 22/05/2020.)
+Por outro lado, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação, a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
