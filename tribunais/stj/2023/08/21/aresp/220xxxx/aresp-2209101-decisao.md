@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por VINICIUS SOARES DE MELO contra decisão que deixou de admitir a subida do apelo nobre fundado no art. 105, inciso III, alínea a, da Constituição da República, proposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas na Apelação Criminal n. 0700592-30.2020.8.02.0047.
+Consta nos autos que o Agravante, e outro Corréu, foram condenados a 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 777 (setecentos e setenta e sete) dias-multa (fls. 394-396), pelo delito do art. 33 da Lei de Drogas, majorado nos termos do art. 40, inciso VI, do mesmo diploma legal; a 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão e 913 (novecentos e treze) dias-multa, pelo delito de associação para o tráfico de drogas (fls. 396-397);  caracterizados pela apreensão de 705g (setecentos e cinco gramas) de maconha, além de 12g (doze gramas) de cocaína; três armas de fogo, calibre .38; onze cartuchos para arma calibre .38; uma arma de fogo calibre .32; um cartucho de arma de fogo calibre .32; quatro balanças de precisão; um cortador de drogas e invólucros para armazenamento de entorpecentes (fls. 385 e 516 e 520)  ; e a 2 (dois) anos de reclusão e a 10 (dez) dias-multa pelo crime de porte ilegal de arma de fogo de uso permitido (fls. 397-398). Reconhecido o concurso material de crimes, as punições finais ficaram sedimentadas em 14 (quatorze) anos, 7 (sete) meses e 20 (vinte) dias de reclusão, em regime fechado, e 1.700 (mil e setecentos) dias-multa (fl. 398).
+A Corte de justiça local deu parcial provimento ao apelo defensivo para reduzir a pena de multa, do delito de associação para o tráfico de drogas, ao montante de 784 (setecentos e oitenta e quatro) dias-multa (fl. 521).
+Nas razões do apelo nobre, a Defesa aponta violação ao art. 42 da Lei de Drogas, alegando, em suma, que a pouco expressiva quantidade de drogas apreendidas não é justificativa concreta para apoiar a elevação da pena-base (fls. 531-535).
+O apelo nobre não foi admitido (fls. 583-584).
+Foi interposto agravo às fls. 593-601.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo (fls. 640-643).
+É o relatório. Decido.
+Com efeito, no tocante à fixação da pena-base acima do mínimo legal, orienta-se esta Corte Superior de Justiça no sentido de que, nos termos do art. 42 da Lei n. 11.343/2006, " a  quantidade, a natureza e a diversidade de entorpecentes constituem fatores preponderantes para a fixação das penas relacionadas ao tráfico ilícito de entorpecentes" (HC 456.638/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/08/2018, DJe 30/08/2018).
+No caso, o Juízo sentenciante elevou a pena-base nestes termos (fl. 395):
+"A natureza e quantidade da droga revelam que o acusado comercializava uma das drogas mais nocivas a saúde humana, apesar de não ser em elevada quantidade, deve ser valorada de forma negativa."
+A Corte de justiça de origem manteve a elevação da pena-base com apoio nestas razões (fl. 520, grifei):
+"Dosimetria da pena do réu Vinícius:
+Na sentença proferida, o juízo a quo negativou, na primeira fase do cálculo do delito de tráfico de drogas, duas circunstâncias judiciais referentes à natureza e quantidade de drogas. Sendo assim, fixou-se a pena-base em 06 anos e 08 meses de reclusão.
+Primeiro, necessário esclarecer que, a despeito de o auto de apreensão ter declarado o recolhimento de 0,705 g de maconha e 0,012 g de cocaína, trata-se, na verdade, de quantidade mensurada em quilogramas, havendo erro material na digitação da quantia encontrada.
+As demais informações constantes no processo demonstram o equívoco, visto que somente em poder do acusado Vinicius foram apreendidos 23 g de maconha, como ele afirmara, bem como foram enviados 9,9 g de maconha e 1,16 g de cocaína para perícia.
+Assim, registre-se que as quantias efetivamente recolhidas a título de material entorpecente foram 705 g de maconha e 12 g de cocaína.
+Foi apreendida substância de natureza bastante nociva, levando-se em consideração que a cocaína se trata de entorpecente com alto poder de causar dependência química e diversos outros danos ao usuário, conforme laudo pericial acostado ao processo.
+No mais, além da natureza variada das substâncias, a quantidade apreendida, apesar de não ser alta, não é insignificante, tratando-se, repise-se, de 705 g de maconha e 12 g de cocaína, razão pela qual as vetoriais previstas no art. 42 da Lei 11.343/06 merecer ser conservadas de forma negativa.
+Assim, a pena-base de 6 anos e 8 meses merece ser conservada."
+Dessa forma, observa-se que a quantidade e a natureza das drogas, no caso, expressam sim a necessidade de exasperação das penas-bases na forma adotada pelas instâncias de origem. Nesse sentido, colaciono os seguintes precedentes:
+" ..
+III - Na presente hipótese, verifica-se a maior reprovabilidade da conduta dos pacientes, em razão da quantidade e variedade das drogas apreendidas (100g de maconha, 16g de cocaína e 10g de crack - fls. 619-620), bem como pela natureza de duas delas (cocaína e crack), não evidenciando nenhuma ilegalidade manifesta na exasperação das penas-base em 6 (seis) anos de reclusão para ambos os pacientes (fl. 632 e fl. 1138).
+IV - Vale dizer, uma vez que foram apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal, reduzir a reprimenda-base.
+Agravo regimental desprovido." (AgRg no HC n. 784.101/SC, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 8/5/2023, DJe de 12/5/2023, grifei.)
+" ..
+1. Na espécie, ao prover a apelação ministerial, a Corte local, além de manter a valoração negativa dos maus antecedentes do Réu - ponto não questionado na via especial -, sopesou também a quantidade de drogas apreendidas e a natureza mais deletéria de uma delas (cocaína) para exasperar a pena-base na primeira fase da dosimetria, o que está em consonância com o entendimento desta Corte Superior. O fato de tal circunstância não ter sido valorada na sentença não é argumento idôneo para afastá-la.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 2.048.769/SP, relatora Ministra LAURITA VAZ , Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023, grifei.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DELITO DE TRÁFICO DE DROGAS MAJORADO E DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PENA-BASE. EXASPERAÇÃO. ADEQUAÇÃO. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
