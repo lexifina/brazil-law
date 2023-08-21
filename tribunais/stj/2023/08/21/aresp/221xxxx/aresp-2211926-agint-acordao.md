@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  de  SISTEMA FÁCIL, INCORPORADORA IMOBILIÁRIA - ALVORADA III - SPE LTDA. contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do recurso  especial  em  virtude  da  incidência  da  Súmula  nº  284/STF.
+Nas  presentes  razões,  a agravante  defende, em síntese, que inexiste deficiência na fundamentação recursal, "haja vista (..) terem apontado especificamente os entendimentos violados, tendo apresentado junto ao seu recurso decisões divergentes, de processos idênticos" (fl. 777 e-STJ).
+Não houve impugnação  (fls. 786/787  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284/STF.
+1.  Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da Súmula nº 284/STF.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação não  merece  prosperar.
+De  fato,  verifica-se  que  o  recurso  apresenta  deficiência  de  fundamentação,  tendo  em  vista  que as razões do recurso especial não indicaram especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, restando evidenciada a deficiência de fundamentação recursal.
+A propósito:
+"PROCESSUAL CIVIL. CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA N. 284/STF.
+I - Na origem, trata-se de ação indenizatória ajuizada contra ENEL Distribuição Goiás, objetivando condenação da ré em danos morais e materiais. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada.
+II - Mediante análise do recurso de CELG Distribuição S.A. - CELG D, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+III - Portanto, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+IV - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+V - Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF." (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020).
+VI - Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+VII - Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+VIII - Agravo interno improvido" (AgInt no AREsp 2.173.205/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 9/11/2022, DJe de 11/11/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS. VALOR. ERRO MÉDICO. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+3. Agravo interno não provido" (AgInt no AREsp 1.374.956/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/8/2019, DJe 14/8/2019).
+Desse  modo,  inadmissível  o  recurso  especial  que  não  indica  com  precisão  o  dispositivo  de  lei  federal  supostamente  violado  ou  deixa  de  especificar  de  que  forma  ele  teria  sido  contrariado  pelo  acórdão  recorrido,  nos  termos  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
