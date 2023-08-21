@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BLENDPAPER SECURITY PAPEIS ESPECIAIS S.A., contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial que interpusera, em virtude de sua intempestividade e da incidência da Súmula 115/STJ.
+Em suas razões, a agravante defende a tempestividade de seu agravo em recurso especial, sustentando, em síntese, i) a nulidade da intimação para saneamento de óbices (comprovante de pagamento da guia de recolhimento e ausência de procuração e/ou cadeia completa de substabelecimento conferindo poderes ao (s) subscritor (es) do recurso especial e do agravo em recurso especial) e ii) a tempestividade do agravo em recurso especial, haja vista a desnecessidade de comprovação de feriado local no ato da interposição do recurso.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno e pela reforma da decisão agravada.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INTEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INEXISTENTE. ART. 220 DO CPC/2015. SUSPENSÃO DO PRAZO PROCESSUAL.
+1. Ação indenizatória.
+2. É intempestivo o agravo em recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação da decisão de inadmissibilidade proferida na origem.
+3. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local ou a suspensão do expediente forense no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. Considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local ou a suspensão do expediente forense quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+5. Nos termos do art. 220 do CPC/2015, para fins de aferição de tempestividade, suspende-se o curso do prazo processual no período de 20 de dezembro a 20 de janeiro, inclusive, o que não impede que publicações sejam realizadas, não sendo possível considerar esse período como dia não útil. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial da agravante, nos termos da seguinte fundamentação:
+"Mediante análise do recurso de BLENDPAPER SECURITY PAPEIS ESPECIAIS S.A., a parte recorrente foi intimada da decisão agravada em 13/12/2022, sendo o agravo somente interposto em 07/02/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ademais, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Fábio Carneiro Cunha.
+Além disso, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ." (fls. 119/120, e-STJ).
+O agravo em recurso especial, de fato, é inadmissível por ser intempestivo. A decisão agravada foi considerada publicada no Diário de Justiça Eletrônico no dia 13/12/2022, primeiro dia útil após sua disponibilização (e-STJ fl. 86), terça-feira. Exauriu-se, pois, o prazo legal para sua interposição em 06/02/2023, segunda-feira. No entanto, a petição do recurso foi protocolizada, tão somente, em 07/02/2023, terça-feira (e-STJ fl. 88), ou seja, fora do prazo legal de 15 (quinze) dias úteis.
+A Corte Especial deste Tribunal, no julgamento do AREsp n. 137.141/SE (Relator Min. Antonio Carlos Ferreira, DJe de 15.10.2012), acompanhando a orientação firmada pelo Supremo Tribunal Federal no AgRg no RE n. 626.358/MG (Relator Min. Cezar Peluso, DJe de 23.8.2012), modificou seu entendimento, concluindo que a comprovação da tempestividade do recurso especial em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem pode ocorrer posteriormente, em agravo regimental.
+No entanto, tal entendimento é aplicável às hipóteses em que os recursos sejam interpostos contra julgados proferidos sob a égide do Código de Processo Civil de 1973, o que não é caso dos presentes autos, cujo agravo em recurso especial foi manejado após intimação dos agravantes em 13/12/2022, quando já em vigor o novo Diploma Processual.
+Desse modo, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. A ocorrência de feriado local, paralisação ou interrupção do expediente forense deve ser comprovada no ato de interposição do recurso, sob pena de preclusão consumativa.
+Cumpre salientar, ainda, que, nos termos do art. 220 do CPC/2015, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 20 de dezembro a 20 de janeiro, inclusive, o que não impede que publicações sejam realizadas, não sendo possível considerar esse período como dia não útil (AgInt no AgInt no AgInt no REsp 1.814.553/RN, 2ª Turma, DJe de 4/6/2020; AgInt no AREsp 1.535.246/SE, 4ª Turma, DJe de 17/3/2020; e AgInt no AREsp 1.468.810/GO, 3ª Turma, DJe de 10/9/2019).
+Assim, considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante, quando de sua interposição, de comprovar a suspensão do expediente forense tendo em vista feriado local, não há como ser afastada a intempestividade do recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
