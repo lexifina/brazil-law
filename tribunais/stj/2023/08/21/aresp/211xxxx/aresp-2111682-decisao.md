@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por GE TRANSPORTES FERROVIARIOS S.A. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS - CONTRATO DE EMPREITADA - PAGAMENTO DOS TRIBUTOS - RESPONSABILIDADE DA CONTRATADA - NOTIFICAÇÃO FISCAL DA CONTRATANTE - RECOLHIMENTO A MENOR DE ISS - DEFESA ADMINISTRATIVA - SUSPENSÃO DA EXIGIBILIDADE - PAGAMENTO PELA CONTRATANTE ANTES DA DECISÃO DO RECURSO - INCERTEZA SE O VALOR ERA EFETIVAMENTE DEVIDO - COBRANÇA INDEVIDA. A despeito de previsão contratual de que a contratada seria a responsável pelo recolhimento do ISS, é indevida a exigência de pagamento pela contratada de valores impugnados na via administrativa, cuja exigibilidade estava suspensa " (fls. 465 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 493-498 e-STJ).
+No recurso especial, a recorrente alega violação dos arts. 389 e 421 do Código Civil e 492 do Código de Processo Civil, sob o argumento de que o contrato firmado entre as partes estabeleceu a responsabilidade da recorrida pelo cumprimento das obrigações impostas, incluindo as obrigações da legislação brasileira.
+Afirma que a recorrida deixou de efetuar o recolhimento do adicional do Imposto sobre Serviços de Qualquer Natureza, fato que levou a recorrente a quitar o valor do tributo que não era de sua responsabilidade. Assim, deve ser ressarcida pela quantia paga, acrescida de juros de correção monetária.
+Ressalta que apesar de se tratar de um descumprimento contratual, a prestação jurisdicional adentrou para a legislação tributária que não é objeto da lide, dando ensejo à manutenção de julgamento impreciso, além de afastar-se da matéria trazida à juízo.
+Postula, ao final, a reforma do acórdão recorrido para reconhecer o pedido de indenização formulado na origem no valor de R$ 549.770,51 (quinhentos e quarenta e nove mil, setecentos e setenta reais e cinquenta e um centavos)
+Apresentadas as contrarrazões (fls. 524-541 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 389 e 421 do Código Civil, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Por outro lado, o acórdão estadual ao dirimir a controvérsia e afastar a pretensão da recorrente quanto ao pedido de indenização ajuizado na origem , fundamentou o seguinte:
+"(..)
+Considerando sua autuação por débito de ISS relativo à obra de responsabilidade da PAINEIRA e, valendo-se das disposições contratuais, a GE reteve R$ 109.821,91 de crédito da apelada para pagamento da importância lhe cobrada pelo Fisco, exigindo o restante do valor judicialmente.
+Ocorre que a dívida tributária ora exigida era passível de contestação perante o Fisco, tanto que a GE apresentou defesa na via administrativa, impugnando o termo de notificação fiscal, que também abrangia débitos de ISSQN relativos a serviços prestados por outras empresas.
+Contudo, antes da apreciação da defesa, a GE optou por desistir do recurso parcialmente, especificamente no ponto em que se discutia o débito atribuído a recolhimento de ISS a menor pela PAINEIRA, pagando a integralidade do valor cobrado, R$ 659.592,42.
+Como se observa, a autora pagou os valores antes de declarada definitivamente a sua exigibilidade, não se podendo afirmar com juízo de certeza de que o imposto era efetivamente devido, de forma que incabível cobrar da apelada valores referentes a ISS que não se sabe ao certo se realmente eram exigíveis.
+Com efeito, a autora pagou o débito por sua conta e risco, pois já havia impugnado a autuação, o que suspendeu a exigibilidade do crédito tributário, e, sem justo motivo, optou por não dar continuidade ao processo.
+Neste ponto, verifica-se que a ré se propôs a assumir a defesa e ofereceu garantia por meio de carta fiança, recusada pela autora, sem razão plausível.
+A autora solicitou da ré carta fiança para que não desistisse da defesa, tendo a PAINEIRA atendido à solicitação, apresentando carta fiança do Banco Pottencial.
+Todavia, após a apresentação da carta fiança, a autora se recusou a aceitá-la, sob o argumento de que o banco não era de "primeira linha", o que não se mostra razoável pois nada indica que a instituição financeira ou a ré não arcariam com os custos por eventual reconhecimento do recolhimento a menor do ISS.
+Por sua vez, a obra era acompanhada pela GE, que verificava todas as obrigações contratuais assumidas pela PAINEIRA, exigindo comprovantes de regularidade dos recolhimentos específicos da empreitada, liberando a ordem de compra somente após a aprovação documental.
+A PAINEIRA enviava regularmente as notas ficais para a GE para conferência e em nenhum momento a autora questionou a forma de recolhimento do ISS, a despeito de sua obrigação de análise documental, o que evidencia não ter a GE constatado recolhimento errado do ISS durante a execução do contrato.
+Diante de tais circunstâncias, ou seja, suspensão da exigibilidade do crédito tributário em virtude de impugnação administrativa, extinta por culpa da GE, e inexistência de questionamento anterior por parte da GE, que somente liberava a ordem de pagamento após análise documental, impõe-se a manutenção da sentença de improcedência do pedido" (fls. 473-474 e-STJ - grifou-se).
+Dessa forma, rever o entendimento do acórdão impugnado demandaria o reexame do contexto fático-probatório, procedimento inadmissível no âmbito de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 165, 458 E 535 DO CPC. INEXISTÊNCIA. ARGUMENTOS DO RECURSO ESPECIAL CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INIDÊNCIA DA SÚMULA 7 DO STJ.
+1. (..)
+2. Com base nos elementos circunstanciais da demanda, a corte local entendeu que os devedores não têm direito ao alongamento da dívida em decorrência de ação dolosa, o que, para ser desconstituído, impõe reexame de matéria fático-probatória da lide, vedado nesta sede (Súmula 7 do STJ). Precedente.
+3. Agravo regimental a que se nega provimento"
+(AgRg no Ag 930.113/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/10/2011, DJe 13/10/2011 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recuso especial.
+Na origem, os honorários sucumbenciais foram fixados em 13% (treze por cento) sobre o valor da causa (R$ 549.770,51 - quinhentos e quarenta e nove mil, setecentos e setenta reais e cinquenta e um centavos), os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
