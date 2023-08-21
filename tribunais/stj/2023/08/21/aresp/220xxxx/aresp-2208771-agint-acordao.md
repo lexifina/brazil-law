@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO SISTEMA S/A em face da decisão de fls. 1270-1272, da lavra deste signatário que, com amparo no artigo 932 do CPC c/c a súmula 568/STJ, conheceu em parte do reclamo e, na extensão, negou-lhe provimento.
+O apelo extremo, manejado com amparo no artigo 105, inciso III, alínea "a" da Constituição Federal desafiou acórdão proferido em agravo de instrumento pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. PRÉVIA NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA. EXTENSÃO DA FASE COGNITIVA. PRAZO PRESCRICIONAL SEQUER INICIADO. DECISÃO MANTIDA. RECURSO DESPROVIDO. 1. Mantém-se a decisão proferida nos autos, eis que não ocorreu a prescrição da pretensão executiva, posto que a fase de liquidação de sentença sequer foi concluída, sendo esta entendida como extensão da fase cognitiva, de modo que o prazo prescricional para promover a execução ou o cumprimento de sentença somente passa a fluir após o término da liquidação. 2. Recurso não provido.
+Opostos aclaratórios, foram esses rejeitados pelo acórdão de fls. 1058-1064.
+Nas razões do recurso especial (fls. 1067-1088), alegou a financeira violação aos artigos 5º, incisos XXXV e XXXVI e art. 105, III, alínea "a" da CRFB/88, arts.189, 192, 193, 202 e incisos, 204, 205 e art. 206, § 5º, II, todos do CC/02 e art. 1.013, § 4º do CPC/15.
+Sustentou, em síntese: a) "impossibilidade de concessão de prazo aberto, inespecífico e perpétuo para procedimento de liquidação de sentença, sobretudo quando a mora decorre de artimanha ou equívoco do credor ao insistir por quatorze anos em litigar contra parte sabidamente ilegítima"; b) "o acórdão que fixou a verba honorária objeto da liquidação transitou em julgado em 12/04/2004, de modo que a pretensão aduzida na liquidação, proposta em 17/12/2019, após o decurso de 15 (quinze) anos, 8 (oito) meses e 5 (cinco dias), ou 5.727 (cinco mil e setecentos e vinte e sete) dias, estava evidentemente perdida, notadamente se considerarmos que o maior prazo prescricional previsto no novo Código Civil é de 10 (dez) anos."
+Contrarrazões às fls. 1214-1225.
+Inadmitido o recurso na origem, adveio agravo visando destrancar a insurgência.
+Na decisão de fls. 1270-1272, não se conheceu das apontadas violações a dispositivos constitucionais e, no mérito, negou-se provimento ao reclamo porquanto o lapso prescricional da ação de execução só tem início quando finda a liquidação.
+Irresignada, a financeira opôs aclaratórios (fls. 1274-1282) aduzindo, em síntese, a existência de erro material e premissa equivocada ante o fato de ter a liquidação de sentença sido movida em face de parte ilegítima e transcorrido mais de 15 anos para a estabilização subjetiva da lide.
+Impugnação às fls. 1288-1292.
+Na decisão de fls. 1296-1298, os embargos de declaração foram rejeitados.
+Seguiu-se a interposição de agravo interno (fls. 1302-1310), no qual a financeira, em suma, afirma inviável que após a liquidação de sentença ter sido movida em face de parte ilegítima e transcorrido mais de 15 anos para a estabilização subjetiva da lide veja a ser cobrada por dívida prescrita.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. O prazo de prescrição da pretensão executiva (para desencadear a fase de cumprimento de sentença), quanto ao capítulo decisório que necessite da definição do quantum debeatur, apenas tem início com o fim da liquidação. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Incidência da Súmula 83/ STJ.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida.
+1. Inocorrente a alegada prescrição na espécie, porquanto a jurisprudência desta Corte é firme no sentido de que o lapso prescricional da ação de execução só tem início quando finda a liquidação.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO. LIQUIDAÇÃO DE SENTENÇA. NÃO OCORRÊNCIA DE PRESCRIÇÃO. ALEGAÇÃO DE DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. A posição firmada no acórdão combatido se encontra em consonância com o entendimento firmado pela Primeira Seção no julgamento dos EREsp 1.426.968/MG, no qual se estabeleceu que: "Se o título judicial estabelecido no processo de conhecimento não firmara o quantum debeatur, somente efetivada a liquidação da sentença é que se poderá falar em inércia do credor em propor a execução, independentemente de tratar-se de liquidação por artigos, por arbitramento ou por cálculos". Precedentes.(.. ) 4. Agravo interno a que se nega provimento." (Aglnt no REsp 1878241/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2021, DJe 30/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊCIA. 2. PRESCRIÇÃO INTERCORRENTE. LIQUIDAÇÃO DE SENTENÇA. INCIDENTE FINAL DA FASE DE CONHECIMENTO. TERMO INICIAL NÃO" NICIADO. SÚMULA 83/STJ.3. INTIMAÇÃO PESSOAL DO CREDOR. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI. SÚMULA N. 284 DO STF . 4. MULTA. NÃO INCIDÊNCIA . 5. AGRAVO INTERNO DESPROVIDO (..) 2. O prazo de prescrição da pretensão executiva (para desencadear a fase de cumprimento de sentença), quanto ao capítulo decisório que necessite da definição do quantum debeatur, apenas tem início com o fim da liquidação. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Súmula 83/ STJ. (..)" (Aglnt no AREsp 1639408/ ES , Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021).
+E ainda: AgInt no AREsp 1.475.587/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe 25/11/2020; AgInt no AREsp 1.703.370/MA, Rel. Min. Herman Benjamin, Segunda Turma, DJe 01/12/2020; e AgInt no AREsp 1.414.432/MA, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 27/06/2019.
+Não passou despercebido a este órgão julgador o fato de ter havido o direcionamento equivocado de execução prévia e liquidação contra parte ilegítima, tampouco o decurso de muitos anos desde o trânsito em julgado do título executivo.
+Contudo, tendo em vista que sequer houve a conclusão da fase de liquidação de sentença, porquanto considerada extensão da fase cognitiva, o prazo prescricional para promover a execução ou o cumprimento de sentença somente passa a fluir após o término da liquidação, tendo a Corte local analisado a questão nos exatos termos da compreensão desta Corte Superior, motivo pelo qual aplicável o óbice da súmula 83/STJ.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
