@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALVARO LUIS CAVANUS com fulcro no art. 105, inciso III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS DE TERCEIRO. PENHORA BEM IMÓVEL. COPROPRIETÁRIOS. POSSIBILIDADE. PRECEDENTES. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA. DA ANÁLISE DO CONJUNTO PROBATÓRIO APRESENTADO PELAS PARTES CONCLUI-SE PELA ABSOLUTA DESNECESSIDADE DA PROVA TESTEMUNHAL. ADEMAIS, O JULGADOR É O DESTINATÁRIO DA PROVA E É A ELE QUE CABE A DECISÃO SOBRE A UTILIDADE DAS PROVAS REQUERIDAS, PODENDO, ASSIM, DISPENSAR OU INDEFERIR AS QUE SE MOSTREM MERAMENTE PROTELATÓRIAS OU INÚTEIS PARA A FORMAÇÃO DO SEU CONVENCIMENTO, COMO DISPÕE O ARTIGO 370 DO CPC. NO CASO EM APREÇO, MÉRITO . RESTOU PENHORADO BEM IMÓVEL DA EXECUTADA NA AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL E DEMAIS COPROPRIETÁRIOS, INCLUSIVE EMBARGANTE. INTELIGÊNCIA DO ARTIGO 843 DO CPC: "TRATANDO-SE DE PENHORA DE BEM INDIVISÍVEL, O EQUIVALENTE À QUOTA-PARTE DO COPROPRIETÁRIO OU DO CÔNJUGE ALHEIO À EXECUÇÃO RECAIRÁ SOBRE O PRODUTO DA ALIENAÇÃO DO BEM". É IMPERIOSA A DEMONSTRAÇÃO INEQUÍVOCA DE QUE O IMÓVEL SOBRE O QUAL RECAIU A PENHORA SEJA ÚNICO (DE SIMPLES PROVIDÊNCIA A CARGO DO EMBARGANTE) E DE USO EXCLUSIVO DA FAMÍLIA, OU SEJA, COM FINS DE MORADIA, O QUE INOCORREU APESAR DOS DOCUMENTOS JUNTADOS. PRECEDENTES. APELAÇÃO DESPROVIDA" (fl. 324, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 353/358, e-STJ).
+No especial, o recorrente aponta violação dos arts. 1º, 7º, 8º, 10, 373, I, 489, II e IV, § 1º, 1.022, II, e 1.025 do CPC, argumentando, em síntese:
+(i) haver omissão no acórdão recorrido; e
+(ii) o cerceamento de defesa em virtude do indeferimento da produção da prova testemunhal requerida.
+Apresentadas contrarrazões (fls. 393/397, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De início, no tocante à violação dos arts. 489, II e IV, § 1º, 1.022, II, e 1.025 do CPC, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, determinação da realização de provas é uma faculdade do magistrado, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias. Dessa forma, o juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. PERDA DO ÔNIBUS PELA PASSAGEIRA. TRANSPORTE INTRAESTADUAL. FATOS ALEGADOS APENAS EM RÉPLICA. CERCEAMENTO DE DEFESA INOCORRÊNCIA PROVA DOCUMENTAL PRODUZIDA ILIDIU NECESSIDADE DE PROVA TESTEMUNHAL PRETENDIDA. SÚMULA 7/STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. O exame da pretensão recursal de reforma do v. acórdão recorrido - sobre a suficiência da prova documental, alegação de fatos novos em réplica, desnecessidade de dilação probatória para a oitiva de prova testemunhal - exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, o que é vedado em sede de recurso especial, nos termos dos enunciados de Súmula 7 do STJ.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Agravo Interno não provido" (AgInt no AREsp 1.387.149/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MORAL E MATERIAL. PROVA PERICIAL E TESTEMUNHAL. INDEFERIMENTO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INDENIZAÇÃO. PREJUÍZOS. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O nosso sistema processual Civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. É firme a jurisprudência desta Corte Superior no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não da produção de prova pericial e testemunhal, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em recurso especial, a teor da Súmula nº 7/STJ.
+(..)
+6. Agravo interno não provido" (AgInt no AREsp 1.488.982/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 20% (vinte por cento) em favor do advogado do recorrido, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
