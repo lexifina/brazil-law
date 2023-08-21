@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA (COHAB CTB) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. COBRANÇA DE DÉBITOS CONDOMINIAIS. EMBARGOS DE TERCEIRO. (1) VIOLAÇÃO DOS ARTS. 489 E 1022 DO NCPC. NÃO OCORRÊNCIA. (2) PENHORA DE IMÓVEL DA PROMITENTE VENDEDORA NA FASE DE CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE. NATUREZA PROPTER REM DA OBRIGAÇÃO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. RECURSO NÃO PROVIDO.
+Nas razões do presente inconformismo, indicou (1) omissão do acórdão recorrido sobre a ocorrência de ofensa à coisa julgada, ao devido processo legal e à estabilidade da demanda; e (2) a ilegitimidade do promitente vendedor para responder pelos débitos condominiais no período em que o promitente comprador ocupou o imóvel, notadamente por não ter participado da fase de conhecimento da ação de cobrança.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA DE DÉBITOS CONDOMINIAIS. EMBARGOS DE TERCEIRO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. PENHORA DE IMÓVEL DA PROMITENTE VENDEDORA NA FASE DE CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE. NATUREZA PROPTER REM DA OBRIGAÇÃO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando a novo julgamento da causa.
+2. Consoante a orientação jurisprudencial desta Corte, "em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo" (REsp 1.829.663/SP, Relª. Ministra NANCY ANDRIGHI, Terceira Turma, j. 5/11/2019, DJe 7/11/2019). Incidência da Súmula n.º 568 do STJ.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+(1) Da violação dos arts. 489, § 1º, VI, e 1.022, II, do NCPC
+Nas razões do recurso especial, COHAB CTB sustentou, preliminarmente, omissão do julgado sobre a ocorrência de ofensa à coisa julgada, ao devido processo legal e à estabilidade da demanda.
+Contudo, sem razão.
+Sobre o tema, ao julgar o recurso de apelação da ora insurgente, o TJPR assim se pronunciou:
+Conforme entendimento firmado pelo Superior Tribunal de Justiça, a Ação de Cobrança fora adequadamente ajuizada em 07/05/2001, em face dos promissários compradores, então possuidores do bem, conforme se denota da matrícula do imóvel à época.
+Posteriormente, constituiu-se o título executivo judicial em face dos promissários compradores, consistente em acordo judicial homologado e não cumprido, o qual foi objeto de execução e gerou a constrição questionada no presente Embargos de Terceiros, registrada em 23/03/2007.
+A retomada do bem pela ora apelante sequer consta da matrícula do imóvel por si apresentada.
+Neste passo, importante ressaltar que a dívida que originou o dito título executivo e consequente penhora são as taxas condominiais da unidade penhorada, as quais têm caráter propter rem, isto é, a obrigação está vinculada à titularidade de um direito real, a propriedade, no presente caso.
+Desta feita, quando a apelante decidiu reaver o bem em questão, mediante o cancelamento do contrato de promessa de compra e venda, esta se equipara à figura do adquirente, o qual se responsabiliza por todos os débitos condominiais inadimplidos.
+O art. 1.345 do Código Civil assim dispõe: "O adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multas e juros moratórios".
+ ..
+Ainda, importante apontar que o fato de a apelante não ter participado do processo em que se originou a penhora não fere os princípios constitucionais da ampla defesa, contraditório e devido processo legal, vez que no momento do cancelamento do contrato de promessa de compra e venda, a apelante retomou a propriedade do imóvel com todas as despesas condominiais inadimplidas sendo desnecessária sua participação no polo passivo da ação de cobrança para que esta seja válida, justamente por não estar na posse no imóvel naquele momento, somente reavendo-o em momento posterior, com todos os ônus que recaem sobre o bem, por se tratar de obrigação propter rem Pela mesma razão, não há que se falar em afronta à estabilidade da demanda ou ofensa ao limite subjetivo da coisa julgada da ação de cobrança, vez que, como dito, em razão de sua natureza, o débito condominial recai sobre o bem, o que não se confunde com a inclusão de terceiro no polo passivo do cumprimento de sentença (e-STJ, fls. 944/946).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do NCPC, o que busca COHAB CTB é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada ofensa à lei processual.
+(2) Da responsabilidade pelos débitos condominiais
+Por sua vez, a ora insurgente defendeu a sua ilegitimidade como promitente vendedora para responder pelos débitos condominiais no período em que o promitente comprador ocupou o imóvel, notadamente por não ter participado da fase de conhecimento da ação de cobrança.
+No caso em análise, ao que se depreende da leitura dos fundamentos transcritos no tópico anterior, consignou o Tribunal estadual que se trata de cancelamento de promessa de compra e venda, de modo que os débitos anteriores, ainda que oriundos de período em que o promissário comprador esteve na posse do imóvel, são de responsabilidade do atual proprietário em razão da reaquisição do imóvel em discussão, em razão da natureza propter rem dos débitos condominiais, a teor do disposto no art. 1.345 do CC/02: "O adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multas e juros moratórios".
+Com isso, os fundamentos adotados pelo acórdão recorrido estão em consonância com o atual entendimento jurisprudencial desta Corte, que reconhece que, "em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo" (REsp 1.829.663/SP, Relª. Ministra NANCY ANDRIGHI, Terceira Turma, j. 5/11/2019, DJe 7/11/2019).
+Nesse sentido, em casos análogos:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS AJUIZADA EM FACE DO PROMISSÁRIO COMPRADOR. PENHORA FASE DE CUMPRIMENTO DE SENTENÇA SOBRE IMÓVEL DA PROMITENTE VENDEDORA, ALHEIA AO PROCESSO. RETOMADA DO IMÓVEL PELA PROMITENTE VENDEDORA. DÉBITOS CONDOMINIAIS. NATUREZA DA OBRIGAÇÃO. PROPTER REM. APLICAÇÃO, POR ANALOGIA, DOS ARTS. 1.345 DO CÓDIGO CIVIL E ART. 109, § 3º DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. PRECEDENTES. SÚMULA 568 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir, cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes.
+Precedentes.
+2. "Em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo" (REsp 1.829.663/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/11/2019, DJe de 7/11/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.943.709/PR, Relª. Min. MARIA ISABEL GALLOTTI, Quarta Turma, j. 4/4/2022, DJe 7/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. PENHORA DO IMÓVEL GERADOR DOS DÉBITOS CONDOMINIAIS NO BOJO DE AÇÃO DE COBRANÇA NA QUAL A PROPRIETÁRIA DO BEM NÃO FIGUROU COMO PARTE. POSSIBILIDADE. OBRIGAÇÃO PROPTER REM. SÚMULA 568/STJ.
+1. Cuida-se, na origem, de ação de cobrança de cotas condominiais, em fase de cumprimento de sentença.
+2. A jurisprudência do STJ é no sentido de que, em se tratando a dívida de condomínio de obrigação propter rem, em razão do que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, ainda que não tenha participado da fase de conhecimento.
+3. Sob o enfoque do direito material, aplica-se a regra do art. 1.345 do CC/02, segundo o qual "o adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multa e juros moratórios". Por outro lado, no plano processual, a penhora do imóvel e a inclusão da proprietária no polo passivo da lide é viável ante o disposto no art. 109, § 3º, do CPC/15, no sentido de que os efeitos da sentença proferida entre as partes originárias se estendem ao adquirente ou cessionário. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.851.742/PR, Relª. Ministra NANCY ANDRIGHI, Terceira Turma, j. 29/6/2020, DJe 1º/7/2020.)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS, NA
+FASE EXECUTIVA. DESPESAS CONDOMINIAIS. NATUREZA PROPTER REM. CONSTRIÇÃO DO IMÓVEL GERADOR DA DÍVIDA. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A atual orientação desta Corte tem se firmado no sentido de que, sendo propter rem a natureza do débito condominial, por ele responde o proprietário, ainda que não tenha figurado no polo passivo da ação.
+2. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no REsp 1.769.544/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020.)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
