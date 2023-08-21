@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCOS JOSÉ DE BARR OS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (fls. 231):
+PROCESSUAL CIVIL - REEXAME NECESSÁRIO - FAZENDA PÚBLICA. Sentença que condena o INSS ao pagamento de auxílio-acidente desde a citação. Sentença ilíquida. Reexame necessário que se considera interposto. Inteligência do Súmula 490 do STJ.
+PROCESSUAL CIVIL - RECURSO DO INSS - DESERÇÃO. Inocorrência. A autarquia federal não está obrigada a efetuar o prévio recolhimento do porte de remessa e retorno. Inteligência do artigo 27 do CPC e da Súmula 483 do STJ.
+ACIDENTÁRIO - AUXÍLIO-ACIDENTE. Perícia que reconhece categoricamente a existência de lesão incapacitante decorrente de LER/DORT, bem como nexo causal. Benefício devido.
+ACIDENTÁRIO - AUXÍLIO-DOENÇA. Termo "a quo" de pagamento do benefício. Consoante novo entendimento do E. Superior Tribunal de Justiça, na ausência de prévia postulação administrativa, a fixação do termo inicial deve recair na data da citação, nos moldes do art. 219 do CPC.
+PROCESSUAL CIVIL - AÇÃO ACIDENTARIA - HONORÁRIOS ADVOCATÍCIOS. Incidência sobre os prestações vencidas até a prolação da sentença, no patamar de 15%. Inteligência da Súmula 111 do STJ. Entendimento jurisprudencial consolidado.
+PROCESSUAL CIVIL E ACIDENTÁRIO - JUROS E CORREÇÃO MONETÁRIA. Juros e correção monetária que obedecem ao disposto no artigo 1º-F, da Lei 9.494/1997, com a redação m conferida pela Lei 11.960/2009, ao menos até que proceda o Supremo Tribunal Federal ao julgamento do RE 870.947/SE, com repercussão geral reconhecida. Ressalva-se o direito do autor a eventuais diferenças resultantes do julgamento da repercussão geral.
+PROCESSUAL CIVIL - PRECATÓRIOS - JUROS E CORREÇÃO MONETÁRIA. A forma de cálculo do precatório é matéria atinente ao processo de execução, não cabendo sua
+Embargos de declaração rejeitados
+Em razões de recurso especial, sustenta ofensa aos artigos 10 da Lei n. 9.711/1998, 20 da Lei n. 8.880/1994 e 41-A da Lei n. 8.231/91, na redação da Lei n. 11.430/2006, aduzindo argumentação à necessidade de " ..  afastar a TR da CORREÇÃO MONETÁRIA das PRESTAÇÕES ATRASADAS do AUXÍLIO-ACIDENTE do obreiro, autos que se encontram ainda na fase de conhecimento, bem como por se cuida de matéria que foge ao âmbito da repercussão geral, que está sendo debatida face a Lei n. 9494/1997 no C. SUPREMO TRIBUNAL FEDERAL, por não se tratar de DÉBITO FAZENDÁRIO, mas DÉBITO PREVIDENCIÁRIO, com LEIS FEDERAIS ESPECIAIS, PRÓPRIAS, que não afetarão o presente feito aquele v. julgamento, como medida de lídima e cristalina justiça" (fl. 308).
+Sem contrarrazões.
+Despacho para reexame de matéria repetitiva (fl. 353).
+Acórdão da 17ª Câmara e Direito Público do Tribunal de Justiça de São Paulo, em juízo de retratação, cuja ementa segue:
+ACIDENTE DO TRABALHO Incidência da Lei 11.960/2009 Reexame da matéria, nos termos do art. 1.040, II, do Código de Processo Civil REPERCUSSÂO GERAL RE nº 870.947/SE (tema 810) RECURSO ESPECIAL REPETITIVO nº 1.492.221/PR (Tema 905) Decisão parcialmente modificada.
+Juízo positivo de admissibilidade às fls. 418-419.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Cinge-se a controvérsia recursal na definição dos indicadores para a correção monetária.
+Na espécie, o Tribunal a quo fixou a compreensão de que "Os juros de mora, contados a partir da citação, devem incidir globalmente até tal marco processual e, após, decrescentemente, mês a mês, submetendo-se, assim como a correção monetária, incidente desde o vencimento de cada parcela, ao artigo 1º-F, da Lei 9.494/1997, com a redação conferida pela Lei 11.960/2009" (fl. 239).
+Ocorre, porém, que reanalisando o caso, nos termos do artigo 1.030, II, do CPC/2015, o Tribunal de origem proferiu novo julgamento, assim manifestando-se "A atualização monetária das parcelas em atraso observará os critérios da Lei nº 8.213/91 e suas alterações posteriores. Após a vigência da Lei 11.960/2009, aplica-se o IPCA-E no lugar da TR, diante do posicionamento do E. STF no julgamento da Repercussão Geral no 810 (RE nº 870.947/SE)" (fls. 356-357):
+O ora recorrente, contudo, deixou de se manifestar para ratificar ou complementar as razões recursais. Falta à parte, portanto, interesse recursal no ponto.
+Sendo assim, incide na espécie, por analogia, a Súmula 579/STJ, segundo a qual apenas seria desnecessária a ratificação do Recurso Especial interposto na pendência de julgamento dos Embargos de Declaração, quando inalterado o resultado primeiro.
+Como houve alteração do julgamento pelo Tribunal de origem, a ratificação do Apelo nobre anteriormente interposto ou a complementação das razões recursais eram medidas de rigor, sob pena de não conhecimento do Recurso Especial, aplicando-se as Súmulas 283/STF e 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ e 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ. APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040  seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015) , e o recurso versar sobre outras questões, caberá ao presidente ou ao vice- presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido
+(AgInt no REsp 1.903.067/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 16/3/2021).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. ARESTO QUE APRESENTAFUNDAMENTAÇÃOCONSTITUCIONALE INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Nos termos do art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi reapreciado e modificado, sob nova fundamentação.
+2. Caso concreto em que seria necessária a ratificação do recurso especial, providência não observada. Incidência da Súmula 579/STJ.
+3. Não é possível conhecer do recurso especial na hipótese em que o Tribunal de origem, ao decidir a questão posta a julgamento, ampara-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e o recorrente não interpõe o competente recurso extraordinário. Incidência, à espécie, da Súmula 126/STJ.
+4. Agravo interno a que se nega provimento
+(AgInt no REsp 1.878.497/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/2/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido(AgInt no AREsp 828.379/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 25/8/2017).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO DE NATUREZA PREVIDENCIÁRIA. PRESTAÇÕES VENCIDAS. CORREÇÃO MONETÁRIA. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
