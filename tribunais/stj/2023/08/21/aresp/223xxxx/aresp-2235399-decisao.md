@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 26, e-STJ):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO POR ARBITRAMENTO. DECISÃO AGRAVADA QUE, AO HOMOLOGAR OS CÁLCULOS DO LAUDO PERICIAL, REFERENTES AOS REEMBOLSOS DEVIDOS PELA OPERADORA DO PLANO DE SAÚDE, CONDENOU O AUTOR LIQUIDANTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, NO PERCENTUAL DE 10% DO VALOR ARBITRADO. INADMISSIBILIDADE. LIQUIDAÇÃO POR ARBITRAMENTO QUE CONSTITUI MERA FASE PROCEDIMENTAL DO PROCESSO E, VIA DE REGRA, NÃO ENSEJA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. ENTENDIMENTO QUE VEM SENDO ADOTADO PELO C. STJ EM CASOS ANÁLOGOS. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS QUE SE JUSTIFICA, QUANDO DA LIQUIDAÇÃO, APENAS QUANDO A LIQUIDAÇÃO SE REVISTA DE NÍTIDO CUNHO LITIGIOSO, NÃO SENDO ESTA A HIPÓTESE DOS AUTOS. REQUERENTE, ALIÁS, QUE MANIFESTOU EXPRESSA CONCORDÂNCIA COM OS CÁLCULOS DO PERITO JUDICIAL. DECISÃO REFORMADA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 379/383, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 85, § 2º e 1.022, II, do Código de Processo Civil de 2015.
+Sustenta, de início, que o Tribunal de origem teria sido omisso, por não ter analisado todas as questões suscitadas.
+Argumenta, também, ser possível a fixação de honorários advocatícios na fase de liquidação de sentença.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 443, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, quanto às alegações de ofensa ao art. 1.022, II, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+Com relação ao pedido de arbitramento de honorários advocatícios na fase de liquidação, assim se manifestou o Tribunal de origem (fls. 27/30, e-STJ):
+2. Cuida-se de recurso de agravo de instrumento interposto contra decisão que, em ação indenizatória por danos materiais ora em fase de liquidação por arbitramento, homologou os cálculos apresentados no laudo pericial e condenou o autor liquidante ao pagamento de honorários advocatícios no percentual de 10% do valor liquidado.
+Assiste razão ao recorrente, ressalvado o entendimento exarado pelo douto magistrado de origem.
+Na liquidação, a definição da obrigação já se encontra no título executivo, embora a sua plena quantificação dependa ainda dos atos processuais que serão praticados quando da liquidação. Dá-se, por assim dizer, uma extensão da atividade cognitiva do magistrado, como pondera DANIEL AMORIM ASSUMPÇÃO NEVES (in "Manual de direito processual civil", 8ª ed., 2016, Juspodium: Salvador, p. 777), ao aduzir que, "excepcionalmente, a atividade cognitiva é divida em duas fases: na primeira há a fixação do an debeatur, e, na segunda, do quantum debeatur." Nessa perspectiva, a liquidação por arbitramento se reveste da natureza jurídica de mera fase procedimental.
+E o C. Superior Tribunal de Justiça vem admitindo a fixação de honorários sucumbenciais em sede de liquidação de sentença por arbitramento apenas em hipóteses em que se revelar nítido o seu caráter contencioso, o que não se verifica na espécie. Note-se que o autor inclusive concordou expressamente com as conclusões do laudo pericial, não lhe apresentando qualquer resistência (fl. 229 dos autos originários).
+(..)
+Ainda, aliás, que se considerassem devidos, por hipótese, honorários sucumbenciais, em regra haveriam de ser eles pagos pelo vencido, e não pelo liquidante. Esse é o entendimento que vem sendo exarado pelo C. STJ no que atine ao adiantamento dos honorários pericias na liquidação por arbitramento (STJ Resp n. 1.274.466/SC, 2ª S., Rel. Min. Paulo de Tarso Sanseverino, j. em 14.05.2014). Como comenta, a respeito, DANIEL AMORIM ASSUMPÇÃO NEVES (in "Manual de direito processual civil", 8ª ed., 2016, Juspodium: Salvador, p. 793), "na liquidação, (..) já se parte da premissa de que o vencedor é o liquidante." De rigor, assim, a reforma da decisão agravada, inexistindo qualquer fundamento para a condenação do autor liquidante ao pagamento de honorários advocatícios sucumbenciais à ré, por haver promovido como seria de rigor a liquidação por arbitramento do título executivo judicial.
+Observo que o entendimento firmado pelo TJSP está em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que a fixação de honorários sucumbenciais na fase de liquidação de sentença não é a regra, mas sim uma exceção, a ser verificada quando, nessa fase, estiver configurada uma litigiosidade entre as partes capaz de prolongar a atuação contenciosa dos patronos das partes.
+A propósito, cito os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. LIQUIDAÇÃO DE SENTENÇA. CUNHO LITIGIOSO. ACÓRDÃO RECORRIDO E ENTENDIMENTO DESTA CORTE. CONSONÂNCIA. LIQUIDEZ DA DÍVIDA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ
+(..)
+2. Não são devidos honorários advocatícios em liquidação de sentença, podendo essa verba ser arbitrada, em caráter excepcional, quando o processo assumir nítido cunho litigioso. Precedente.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da liquidez do débito encontra o óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1419045/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/9/2019, DJe 12/9/2019)
+AGRAVO INTERNO NOS EMBAGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. MAJORAÇÃO DOS HONORÁRIOS. POSSIBILIDADE. NECESSIDADE DE SE DISTINGUIR A VERBA HONORÁRIA DA LIQUIDAÇÃO DE SENTENÇA DAQUELA EVENTUALMENTE ARBITRADA NO CUMPRIMENTO DE SENTENÇA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é pacífica em entender pela possibilidade de fixação de honorários sucumbenciais na fase de liquidação de sentença quando esta assume nítido caráter contencioso. Contudo, não se pode confundir eventuais honorários a serem fixados na fase de cumprimento de sentença com a verba possível de ser arbitrada/majorada na liquidação de sentença, como pretendem os agravantes na presente hipótese.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1420633/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/2/2021, DJe 12/2/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PARCERIA PECUÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. SÚMULA Nº 7/STJ. LIQUIDAÇÃO. CUNHO LITIGIOSO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca da ventilada violação da coisa julgada demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. É possível a fixação de honorários advocatícios, em caráter excepcional, nos casos em que a fase de liquidação de sentença assumir nítido cunho litigioso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.781.672/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+Ademais, a alteração da premissa firmada pelo TJSP, de inexistência de litigiosidade, exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
