@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Embargos de Declaração nos quais alega, além da omissão, ocorrência de fato novo - "intimação da União Federal para, imediatamente, manifestar-se sobre os efeitos da coisa julgada favorável a Embargante conferida pelo do MS nº 0005718-06.2011.4.03.6100, que prejudica por completo o seu pedido de conversão em renda dos valores depositados judicialmente relativos aos juros de mora reduzidos pela Lei nº 11.491/09" (fl. 4.364e).
+Na pendência de julgamento dos Declaratórios (fls. 4.353/5.038e), sobrevieram as petições 00999516/2021, 00514510/2022, 00705603/2023, nas quais a embargante reitera a necessidade da manifestação da Fazenda Nacional, quanto a prejudicialidade da questão, em razão do "decidido nestes autos e a extinção do débito objeto desta demanda atestada nos autos do MS nº 0005718-06.2011.4.03.6100" (fl. 5.054e).
+A seu turno, proferi despacho, requerendo "a intimação da Procuradoria da Fazenda Nacional para "se manifestar nos presentes autos, em razão da relação de prejudicialidade entre o quanto decidido nestes autos e a extinção do débito objeto desta demanda atestada nos autos do MS nº 0005718- 06.2011.4.03.6100"." (fl. 5.060e).
+Em petição, a fl. 5.066e (00797059/2023), a União concordou com a alegação da parte embargante, nos seguintes termos:
+"A UNIÃO (FAZENDA NACIONAL) vem, respeitosamente, em resposta ao despacho de Vossa Excelência, concordar com a alegação da parte acerca da existência de relação de prejudicialidade entre o quanto decidido nestes autos e a extinção do débito objeto desta demanda atestada nos autos do MS nº 0005718-06.2011.4.03.6100.
+De fato, no mandado de segurança retromencionado, relativo ao PAF n. 10880.036378/88-70, houve a extinção do débito, com a alocação dos depósitos judiciais e posterior utilização de prejuízos fiscais para abatimento dos juros.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, acolho os Embargos Declaratórios, com efeitos modificativos, para julgar prejudicado, por perda de objeto, o presente apelo .
+Prejudicada as demais petições citadas (00999516/2021, 00514510/2022, 00705603/2023).
+I.
