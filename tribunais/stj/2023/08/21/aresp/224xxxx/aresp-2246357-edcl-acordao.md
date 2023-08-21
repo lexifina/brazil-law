@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 695):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo. Incidência da Súmula 284/STF.
+3. Agravo interno não provido.
+O embargante sustenta que o acórdão contém vício de omissão, ao argumento de que "não analisa o principal fundamento do ente agravante para demonstrar a não incidência do óbice da Súmula 284 do STF ao caso, qual seja, de que as razões recursais demonstram, de forma adequada e efetiva, o desacerto do acórdão proferido pelo Tribunal local, e impugna especificamente os fundamentos do aresto recorrido, não havendo incidência do óbice da Súmula 284 do STF" (fl. 708).
+Assim, requer seja o presente recurso conhecido e acolhido, sanando o vício de julgamento, e, por consequência, sejam aplicados os efeitos infringentes para conhecer o agravo interno e, no mérito, reconsiderar a decisão monocrática anteriormente proferida, a fim de possibilitar o conhecimento do agravo e o exame do recurso especial do ente federativo.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que a Corte de Origem rejeitou a tese de prescrição ao fundamento de que o termo inicial para execução do Acórdão é a data do trânsito em julgado perante este Tribunal de Justiça, apontando na fundamentação que (fls. 696-697):
+ ..  Iniciada a Execução do Acórdão, as partes entabularam acordo (Evento 01 - PET362 e OUT363), o qual foi devidamente homologado na forma convencionada (Evento 01 - DEC365). Em petição acostada nos eventos 14 e15, a ASSOCIAÇÃO DOS SUBTENENTES E SARGENTOS DA POLÍCIA EBOMBEIROS MILITARES DO ESTADO DO TOCANTINS - ASSPMETO comunicou que o Estado do Tocantins não estava cumprindo o acordo entabulado pelas partes, pugnando pelo prosseguimento da execução.
+Em decisão acostada ao evento 65, proferida pelo então Presidente deste Tribunal de Justiça na data de 21/11/2018, o Desembargador EURÍPEDES LAMOUNIER, determinou que os atos executórios fossem praticados, de forma individual, ou seja, por impulso e petição de cada exequente beneficiado pelo acordo homologado, observando-se as normas de regência atinentes à execução contra a Fazenda Pública, em que cada pedido tenha sua própria distribuição, tramitando em apartado e recebendo número próprio, devidamente relacionado aos autos principais.
+Após o tramite processual, em que pese a tentativa de acordo e cumprimento do Acórdão, adveio nova decisão na data de 12/05/2020 (evento127), a qual chamou o feito à ordem a fim de tornar sem efeito as manifestações exaradas naqueles autos a partir do despacho encartado no evento 72, e em consonância com a referida decisão encartada no evento 65, indeferiu o pedido de cumprimento de sentença nos autos, devendo os atos executivos ser praticados, via advogado, de forma individual, a fim de que cada exequente individualize seu crédito e comprove sua legitimidade para postular os valores respectivos, observando os ditames estabelecidos no art.534 do CPC, com a apresentação da memória discriminada dos cálculos, sob pena de indeferimento da petição de execução.
+Por fim, registro que o prazo para a manifestação da Associação transcorreu in albis na data de 16/06/2021 (evento 163)e o feito foi baixado definitivamente em 02/07/2021 (evento 164).
+Com efeito, entendo que o prazo prescricional de 5 anos não se operou, tendo em vista que o termo inicial para execução do Acórdão é a datado trânsito em julgado perante este Tribunal de Justiça. (fls. 447-448) (grifei).
+Desse modo, a decisão ora embargada fez incidir o óbice da Súmula 284/STF, uma vez que a tese de prescrição associada ao argumento de que em 17 de março de 2004 a parte agravada poderia ter manejado a execução individual do acórdão coletivo, não tem correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
