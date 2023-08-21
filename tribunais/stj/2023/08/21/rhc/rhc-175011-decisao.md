@@ -1,0 +1,6 @@
+DECISÃO
+Tendo em vista a superveniência da sentença condenatória, em 8/5/2023, está caracterizada a perda do objeto desta interposição, a qual se voltava contra as provas obtidas por meio de invasão de domicílio. O édito condenatório reconheceu a validade da apreensão de entorpecentes feita no estabelecimento comercial e declarou a nulidade das provas obtidas por meio do ingresso na casa do acusado.
+Embora o impetrante afirme, às fls. 258-259, que o édito condenatório não prejudica integralmente a análise do recurso em habeas corpus, notadamente o pedido de soltura, verifico que as razões de pedir da interposição são fundadas, tão somente, na tese de invasão de domicílio - a qual já foi acolhida pelo Juízo de origem. É dizer, a defesa não questionou, no presente recurso, a apreensão de drogas ocorrida no estabelecimento comercial, tampouco se insurge contra a inidoneidade dos fundamentos da prisão cautelar.
+Ressalto, ainda, que o exame da legalidade da apreensão das drogas no estabelecimento comercial se deu com maior profundidade na sentença em relação ao decreto prisional, o que desafia nova análise pelo Tribunal a quo sobre as circunstâncias consideradas válidas pelo Juízo de primeira instância.
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se e intimem-se.
