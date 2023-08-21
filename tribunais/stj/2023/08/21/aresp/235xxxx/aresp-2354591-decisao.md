@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO. AÇÃO DE OUTORGA DE ESCRITURA. DÉBITO DO ADQUIRENTE. MORA COMPROVADA. QUITAÇÃO DAS PARCELAS. NÃO APRESENTAÇÃO PELO DEVEDOR. EVENTUAL PRESCRIÇÃO DO DÉBITO. IRRELEVÂNCIA. PEDIDO IMPROCEDENTE. RECONVENÇÃO. RESCISÃO DO CONTRATO. POSSIBILIDADE. DEVOLUÇÃO DOS VALORES QUITADOS PELO ADQUIRENTE. MATÉRIA INOVADORA. Sem a prova do cumprimento da obrigação pelo adquirente não se pode deferir o pedido de outorga da escritura, sobretudo se o adquirente foi notificado da mora e permaneceu inerte, como aqui ocorreu. Se existe pedido reconvencional para se deferir a rescisão do contrato ante a mora comprovada do adquirente, deve ser julgada procedente a reconvenção. Se o débito do adquirente se encontra prescrito, isso não afasta as consequências da sua mora para efeito de se declarar a rescisão do contrato. A devolução de eventuais valores pagos pelo adquirente e autor da ação, sequer será analisada quando tal discussão só foi apresentada em grau de recurso" (fl. 627 e-STJ)
+Opostos embargos de declaração, foram rejeitados.
+Os agravantes apontam, além de divergência jurisprudencial, violação aos arts. 206, § 5º, do Código Civil, sustentando a possibilidade de outorga da escritura pública do imóvel descrito ante a quitação das parcelas devidas, visto que ocorreu a prescrição do direito de cobrança a elas relativo.
+Sem c  ontrarrazões.
+Juízo de admissibilidade proferido às fls. 745/747 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece prosperar.
+Com efeito, a adjudicação compulsória possui como pressuposto a quitação do preço relativo do bem imóvel pelo comprador, não sendo possível considerar cumprido este requisito pela ocorrência da prescrição das parcelas ao contrato de compra e venda.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPUGNAÇÃO ESPECÍFICA CONSTATADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DÉBITO PRESCRITO.
+RECONHECIMENTO DE QUITAÇÃO. INVIABILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016).
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).
+3. O Tribunal de Justiça julgou improcedente o pedido da parte autora, sob o fundamento de que "não há falar-se em outorga de escritura pública de imóvel mediante ação de adjudicação compulsória quando não provada a quitação integral do preço ajustado, sendo irrelevante o fato de o débito já se encontrar prescrito". Decisão em consonância com o entendimento desta Corte Superior. Aplicação da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial" (AgInt no AREsp n. 1.816.356/ES, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 20/9/2022.)
+Verifica-se, portanto, que o acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, razão pela qual incide à espécie a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artig o, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
