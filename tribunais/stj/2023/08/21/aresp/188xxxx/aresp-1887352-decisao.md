@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ALEIDA CARVALHO ZÓCOLI DE ANDRADE - ESPÓLIO, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/12/2020.
+Concluso ao gabinete em: 02/05/2023.
+Ação: monitória, ajuizada por ESTEIO RURAL LTDA., em face da agravante e de PAULO ROBERTO RIBEIRO SOARES.
+Sentença: acolheu parcialmente os embargos monitórios e julgou parcialmente procedente o pedido para constituir de pleno direito o título judicial e condenar Paulo Roberto Ribeiro Soares e os sucessores da Sra. Aleida Carvalho Zoccoli de Andrade e a pagarem à autora o valor de R$ 130.346,70, corrigida nos termos do contrato, com exclusão da incidência dos juros moratórios de 6% ao ano. Fixou os honorários advocatícios em 10% sobre o valor da condenação.
+Acórdão: conheceu parcialmente da apelação interposta pela agravante e, na parte conhecida, negou provimento, nos termos da seguinte ementa:
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL  APELAÇÃO CÍVEL  AÇÃO MONITORIA  NÃO CONHECIMENTO DE PARTE DO RECURSO - AUSÊNCIA DE PRESSUPOSTO EXTRÍNSECO DE ADMISSIBILIDADE, REFERENTE À REGULARIDADE FORMAL  INOVAÇÃO RECURSAL  CÉDULA DE PRODUTO RURAL  ALEGAÇÃO DE PAGAMENTO INTEGRAL DA DIVIDA - PROVA  AUSÊNCIA  SALDO REMANASCENTE ADIMPLEMENTO  INOCORRÊNCIA  PEDIDO MONITORIO PROCEDENTE - SENTENÇA MANTIDA  RECURSO NÃO PROVIDO.
+- Quando pleito versado no Apelo não constar da inicial, o resultado é o seu não conhecimento, pois é vedado inovar em sede recursal, sob pena de violação ao princípio do duplo grau de jurisdição, além de causar surpresa ao litigante adverso.
+- Pelas regras ordinárias de distribuição do ônus da prova, cabe ao autor a demonstração dos fatos constitutivos de seu direito, nos termos do que dispõe o art. 373, inciso I, do Código de Processo Civil vigente, e, ao réu, de situação obstativa do direito alegado por aquele, segundo o inciso II, do mesmo dispositivo legal.
+- Comprovando o autor a existência da dívida, a responsabilidade do réu pelo pagamento e não tendo este, de sua vez, demonstrado a inexigibilidade da cobrança, a quitação ou o desacerto dos valores indicados por aquele, impõe-se a manutenção da sentença, que julgou procedente o pedido inicial.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 291/295):
+Encontram-se expostos, no julgado, de modo claro e objetivo, os motivos que levaram a Turma a negar provimento ao Apelo dos ora " embargantes, ao entendimento de que devedores do montante apontado na sentença:
+(..)
+Estão explicitadas as razões de convencimento dos magistrados, para chegar ao veredicto, não havendo falar-se também em decisão extra petita, pois pautada pelos argumentos e pedidos manifestados pelas partes e nas provas que vieram aos autos.
+(..)
+Quanto à alegação de que a parte não conhecida do recurso comportaria enfrentamento ex officio, tenho por descabida, vez que se trata, como se vê do julgado, de encargo contratual, mais precisamente de multa, e tendo sido veiculada apenas neste grau recursal, não era o caso de ser analisada, não se mostrando omisso o julgado.
+Aliás, além de não estar caracterizado vício de omissão que autoriza o manejo de aclaratórios, silenciou-se a parte sobre a suposta cogência da matéria, quando intimada (fls. 190, 192 e 196) - operando-se a preclusão  vindo a fazê-lo somente depois de proferida decisão que lhe foi desfavorável.
+Recurso especial: alega violação dos arts. 141, 278, parágrafo único, 489, §1º, II, 492, 700, §2º, I, II, e III, 1.013, §1º e §2º, 1.022, II, 1.046, do CPC/15 e do art. 52, §1º, do CDC.
+Afirma haver omissão quanto "a questão da aplicação do regime jurídico do CPC/15 ao caso dos autos e do art. 700, §2º, II, II, e III e, ainda, a questão referente ao julgamento extra petita" (e-STJ, fl. 308).
+Defende a nulidade do julgado, visto que a sentença teria sido proferida na vigência do CPC/15 e o acórdão teria sido fundamentado nas normas do CPC/73.
+Aduz que não haveria inovação recursal na alegação de ilegalidade da multa, a qual deveria ser reduzida, além de tratar-se de matéria de ordem pública, relativa aos consectários da condenação, não sujeita à preclusão.
+Assevera que não teriam sido cumpridos os requisitos autorizadores da ação monitória, bem como que a sentença seria extra petita, por inexistir pedido de correção do débito nos termos do contrato.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da pretensão veiculada no procedimento monitório e das provas constantes dos autos, para concluir pela constituição do título executivo, nos termos constantes da sentença, bem como acerca da alegação de que haveria descumprimento da regra estabelecida no art. 700, §2º, I, do CPC/15 e consequente julgamento extra petita, considerada a divergência de valores entre a petição inicial e aqueles constantes na memória de cálculo apresentada (e-STJ, fls. 269/275 e 279/280), de maneira que os embargos de declaração opostos pela agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 278, parágrafo único, e 1.046, do CPC/15, do art. 52, §1º, do CDC, dos argumentos invocados pelo recorrente em seu recurso especial de que a tese de ilegalidade da multa teria sido levantada nos embargos pelo litisconsorte passivo, bem como dos argumentos de que a sentença seria extra petita, por inexistir pedido de correção do débito nos termos do contrato, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Ressalto, por oportuno, que os argumentos de que a sentença seria extra petita, por inexistir pedido de correção do débito nos termos do contrato foram mencionados pela primeira vez nos próprios embargos de declaração, da mesma forma que o art. 278, parágrafo único, o art. 52, §1º, do CDC, e os argumentos de que a tese de ilegalidade da multa teria sido levantada nos embargos pelo litisconsorte passivo foram mencionados apenas no presente recurso especial, caracterizando verdadeira inovação das teses de defesa, de modo que não era dado ao TJ/MG analisar a controvérsia tendo em vista tais normas. Nesse sentido: AgInt nos EDcl no AREsp n. 1.645.494/DF, 4ª Turma, DJe de 26/8/2022; REsp n. 1.996.197/SP, 3ª Turma, DJe de 12/8/2022; AgInt no AREsp n. 2.040.404/SC, 3ª Turma, DJe de 10/8/2022; EDcl no REsp n. 1.800.265/MS, 3ª Turma, DJe de 24/6/2022.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/MG de acerca do não conhecimento da questão relativa ao pleito de revisão contratual acerca da multa, por tratar-se de encargo contratual (e-STJ, fls. 267/268 e 295). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da constituição do título executivo e da impossibilidade de conhecimento da questão relativa ao pleito de revisão contratual acerca da multa, por tratar-se de encargo contratual, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10,5% do valor da condenação (e-STJ, fls. 215 e 275) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação monitória.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
