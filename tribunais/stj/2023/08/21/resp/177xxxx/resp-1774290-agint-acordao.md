@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pelo Município de Belo Horizonte desafiando decisão que não conheceu do recurso especial (fls. 568/570), sob os seguintes fundamentos: (I) aplicação do obstáculo da Súmula 283/STF, pois o apelo raro não atacou fundamento basilar do acórdão recorrido; e (II) a verificação da efetiva notificação da revisão do lançamento impõe, necessariamente, exame dos fatos e da prova dos autos, o que refoge ao âmbito do recurso especial, atraindo a incidência da Súmula 7/STJ.
+A parte agravante sustenta, em suma: (I) "o fundamento de proteção à confiança do contribuinte, utilizado no v. acórdão, não é independente e suficiente para manter, sozinho, o aresto recorrido" (fl. 596); e (II) a não incidência do obstáculo da Súmula 7/STJ e a necessidade de majoração verba honorária, porque foi fixada de forma irrisória.
+Aberta vista à parte embargada, Companhia Brasileira de Distribuição apresentou impugnação às fls. 611/619, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSO CIVIL. FUNDAMENTO INATACADO. SÚMULA 283/STF. REVISÃO DE LANÇAMENTO. NOTIFICAÇÃO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O apelo nobre não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, a necessidade de observância do contraditório para o aperfeiçoamento do ato administrativo de revisão de lançamento, esbarrando, pois, no obstáculo da Súmula 283/STF.
+2. Não se mostra possível em recurso especial verificar a existência de prova da comunicação do contribuinte a respeito da revisão de lançamento, porquanto tal providência exige novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial manejado pelo Município de Belo Horizonte tendo os apelos nobres se insurgido contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 274):
+Apelação - Embargos à execução fiscal - Lançamento do IPTU - Revisão de ofício - Possibilidade - Notificação ao contribuinte - Ausência - Nulidade da CDA - apelação à qual se dá provimento.
+1. É possível a revisão do lançamento, de ofício, pela autoridade administrativa, nos termos do art. 145, III e 149 do Código Tributário Nacional.
+2. Se a revisão é apta a ensejar lançamento complementar e cobrança da diferença, imprescindível a regular notificação do contribuinte acerca do novo lançamento, sob pena de violação aos princípios do contraditório e da ampla defesa.
+Opostos embargos declaratórios, foram parcialmente acolhidos, nestes termos (fls. 285/290):
+Embargos de declaração - Omissão - Ocorrência - Acolhimento parcial sem efeito infringente.
+Cabível o acolhimento dos embargos de declaração, sem efeito infringente, quando verificada omissão no acórdão em relação ao à inversão dos ônus de sucumbência.
+A parte recorrente aponta violação ao art. 145 do CTN. Sustenta, em resumo, que a remessa do carnê de pagamento do IPTU é ato suficiente para ocorrer a notificação do lançamento tributário. Afirma que "o entendimento firmado na oportunidade do julgamento do Recurso Especial nº 1.111.124/PR não faz qualquer diferenciação entre o lançamento originário realizado no início de cada exercício e aquele outro realizado de ofício pela Administração Tributária, nos termos do art. 149 do CTN, razão pela qual deve ser aplicado tal entendimento a quaisquer lançamentos relativos ao IPTU" (fl. 295).
+Remetidos os autos ao Tribunal de origem para fins do disposto nos arts.
+1.030, I, b, II, do CPC (fls. 475/478), ficou mantido o acórdão (fls. 562/563).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação do acórdão recorrido (fls. 276/278):
+Assevera que a alteração do lançamento do exercício de 2006 se deve à apuração de baixa parcial o processo de edificação do imóvel desde o exercício de 2005, o que fez com que o lançamento realizado em janeiro de 2006 não correspondesse à situação fática existente no imóvel.
+Com efeito, não se tem dúvida sobre a possibilidade de revisão, de ofício, do lançamento pela autoridade administrativa, nos exatos termos dos art. 145, III e 149 do Código Tributário Nacional. Eis o que sucedeu no caso, diante da baixa parcial do processo de edificação do imóvel desde 2005.
+Contudo, diante da alteração do lançamento, salutar era a notificação do sujeito passivo, para oportunizar o contraditório e o devido aperfeiçoamento do ato.
+Isto porque vigoram os princípios da presunção de definitividade do lançamento e da proteção à confiança. É que o contribuinte deposita real confiança quanto à correção do procedimento lançado e realizado pela autoridade administrativa. Tal decorre da própria presunção de veracidade, legalidade e legitimidade da atuação do poder público na constituição do crédito tributário. Portanto, qualquer alteração naquele lançamento tido como legítimo, deve ser notificada ao sujeito passivo, para que possa pagar a diferença apontada ou impugnar o lançamento.
+ ..
+Apesar de o apelado afirmar em sua impugnação que o embargante foi devidamente comunicado, não se tem prova nos autos desta notificação, o que torna nula a CDA executada de número 14671983119198.
+Frise-se que o caso é de revisão de lançamento, logo, não basta o envio do carnê de IPTU para o contribuinte nos idos de 2006 como forma de comprovar a notificação do novo lançamento. Neste contexto, apesar de a conclusão deste acórdão atingir o mesmo fim pretendido pelo recorrente (nulidade por falta de notificação), registro que não se aplica o precedente invocado e julgado pelo rito dos recursos repetitivos (REsp 1.111.124/PR), dado que a situação posta é absolutamente diversa da discutida nestes autos.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "vigoram os princípios da presunção de definitividade do lançamento e da proteção à confiança. É que o contribuinte deposita real confiança quanto à correção do procedimento lançado e realizado pela autoridade administrativa. Tal decorre da própria presunção de veracidade, legalidade e legitimidade da atuação do poder público na constituição do crédito tributário" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Além disso, a alteração das conclusões adotadas pela Corte de origem acerca da comprovação da notificação do lançamento por revisão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IPTU. REVISÃO DE LANÇAMENTO. AUSÊNCIA DE NOTIFICAÇÃO. REVISÃO DAS CONCLUSÕES FIRMADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Caso em que a Corte local, ao julgar a demanda, concluiu que o ato de revisão do lançamento do IPTU pela Administração é possível, mas deve ser objeto de notificação ao contribuinte, facultando-lhe recolher o tributo ou exercer o direito de defesa, sem a qual passível de anulação. Consignou de forma expressa que "comprovado que do lançamento por revisão, efetuado pelo Fisco, não consta a notificação ao contribuinte a fim de estabelecer o contraditório, e que não foram observadas as regras para o lançamento administrativo, tal conduz à nulidade do ato administrativo em face do descumprimento do previsto em lei." (fl. 379).
+2. Qualquer alteração em sentido contrário ao afirmado pelo Tribunal a quo encontra óbice no enunciado da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 42.791/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/03/2012, DJe 03/04/2012)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+Conforme antes consignado, verifica-se que, de fato, o apelo raro, ao sustentar que a remessa do carnê de pagamento de IPTU é ato suficiente para atestar a notificação do lançamento, não logrou refutar alicerce basilar do acórdão a quo, consistente na necessidade de observância do contraditório para o aperfeiçoamento do ato administrativo de revisão de lançamento, fato não provado nos autos. Assim, inafastável o obstáculo da Súmula 283/STF.
+Por fim, a Corte local se ancorou precipuamente nos elementos probatórios do feito para concluir pela inexistência de prova da comunicação a o contribuinte a respeito da revisão de lançamento.
+Nesse panorama, verifica-se que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pela similaridade com o caso dos autos, convém reproduzir, mais uma vez, o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IPTU. REVISÃO DE LANÇAMENTO. AUSÊNCIA DE NOTIFICAÇÃO. REVISÃO DAS CONCLUSÕES FIRMADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Caso em que a Corte local, ao julgar a demanda, concluiu que o ato de revisão do lançamento do IPTU pela Administração é possível, mas deve ser objeto de notificação ao contribuinte, facultando-lhe recolher o tributo ou exercer o direito de defesa, sem a qual passível de anulação. Consignou de forma expressa que "comprovado que do lançamento por revisão, efetuado pelo Fisco, não consta a notificação ao contribuinte a fim de estabelecer o contraditório, e que não foram observadas as regras para o lançamento administrativo, tal conduz à nulidade do ato administrativo em face do descumprimento do previsto em lei." (fl. 379).
+2. Qualquer alteração em sentido contrário ao afirmado pelo Tribunal a quo encontra óbice no enunciado da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 42.791/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/04/2012)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno do Município de Belo Horizonte.
+É o voto.
