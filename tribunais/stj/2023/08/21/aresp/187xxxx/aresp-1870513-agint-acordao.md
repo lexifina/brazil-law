@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto pela Fazenda do Estado de São Paulo contra decisão monocrática que conheceu do agravo e deu provimento ao recurso especial, para restabelecer a multa diária imposta pela sentença de primeiro grau, sob o fundamento de que a jurisprudência firmada no âmbito do Recurso Especial repetitivo 1.474.665/RS (Tema 98/STJ) admite a possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros.
+Irresignada, a parte agravante sustenta que "Não se discute se é cabível, ou não, a multa diária aos entes públicos. O Tribunal "a quo" apenas decidiu que - naquele momento - em que NÃO HÁ descumprimento de decisão judicial, incabível aplicar multa diária, rever tal entendimento - com redobradas vênias - esbarra na Súmula 7/STJ" (fl. 240).
+O recurso foi impugnado às fls. 247/251.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. TEMA 98 DO STJ. INAPLICABILIDADE DA SÚMULA 7/STJ. MULTA DIÁRIA CONDICIONADA AO PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE.
+1. O enfrentamento meritório da controvérsia de fundo não afronta a Súmula 7/STJ, porquanto os julgados proferidos pelo Tribunal a quo, na hipótese, estabelecem moldura fática imutável, a partir da qual possível se faz extrair nova e diversa consequência jurídica (revaloração jurídica) por parte deste Tribunal Superior.
+2. A Primeira Seção desta Corte, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 26/4/2017, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, firmou a seguinte tese jurídica (Tema 98): "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. "Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível" (AgInt no REsp n. 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 23/9/2022).
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+De início, cumpre frisar que o enfrentamento meritório da controvérsia de fundo não afronta a Súmula 7/STJ, porquanto os julgados proferidos pelo Tribunal a quo, na hipótese, estabelecem moldura fática imutável, a partir da qual possível se faz extrair nova e diversa consequência jurídica (revaloração jurídica) por parte deste Tribunal Superior.
+Assim, a discussão posta no caso se limita a confirmar, ou modificar, a qualificação jurídica que o Sodalício de origem emprestou a fatos incontroversos, o que não inviabiliza a cognição do apelo especial, nos termos da jurisprudência desta Corte, como dão conta os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO EXTRA PETITA. OCORRÊNCIA. INAPLICABILIDADE DA SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que há julgamento extra petita não só quando se concede prestação jurisdicional diferente da postulada, mas também quando o deferimento do pedido apresentado se dá com base em fundamento não invocado como causa de pedir.
+2. Não há que se falar em incidência da Súmula 7/STJ, para modificar a conclusão delineada no aresto impugnado, em relação ao julgamento extra petita, porquanto prescindível o reexame do conjunto de fatos e provas dos autos, sendo necessária tão somente a revaloração jurídica na hipótese.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo a imposição ser analisada caso a caso.
+4. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.796.079/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. LICITAÇÃO. PROGRAMA MINHA CASA MINHA VIDA. ACÓRDÃO NÃO UNÂNIME. JULGAMENTO CONCLUÍDO NA VIGÊNCIA DO CPC/2015. REGRA TÉCNICA DO ART. 942 DO CPC/15. DESCABIMENTO. ENUNCIADO N. 2/STJ. PRECEDENTES. PROGRAMA COM NÍTIDO CARÁTER SOCIAL. FRACIONAMENTO DO OBJETO. LIMITES DE ORDEM TÉCNICA E ECONÔMICA. EQUIPAMENTOS PÚBLICOS. RECURSOS FINANCEIROS DO DISTRITO FEDERAL. VENDA DAS UNIDADES. LEGISLAÇÃO PRÓPRIA. RIGORISMO DA LEI DE LICITAÇÕES AFASTADO. PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA PRESERVADOS.
+ ..
+IV - Para o julgamento do recurso especial não é necessário o revolvimento da matéria fático-probatória produzida no curso da demanda, porque é possível, no caso, a eventual revaloração jurídica do quadro fático delineado no acórdão recorrido para se concluir pela reforma ou não do resultado do julgamento realizado pela primeira e confirmado pela segunda instância. Afasta-se, por isso, a incidência do óbice descrito na Súmula 7 do Superior Tribunal de Justiça. Precedentes: AgInt no REsp 1.453.412/SC, Rel. Min. Og Fernandes, Segunda Turma, julgado em 2/5/2017, DJe 8/5/2017; AgInt no AResp 557.471/GO, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 28/11/2017, DJe 5/12/2017.
+ ..
+X - Recurso especial provido.
+(REsp n. 1.687.381/DF, relator Ministro Francisco Falcão, Segunda Turma,
+julgado em 17/4/2018, DJe de 23/4/2018.)
+Há mais. A aplicação de tese jurídica veiculada em recurso especial repetitivo não demanda o reexame de matéria fática.
+A propósito, conforme asseverado pela decisão agravada, a Primeira Seção deste Tribunal Superior, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 26/4/2017, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, firmou a seguinte tese jurídica (Tema 98): "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros". No referido precedente ainda restou consignado que a incidência desse ônus deve ocorrer "a partir da ciência do obrigado e da sua negativa de adimplir a obrigação voluntariamente".
+Com arrimo nas premissas fixadas no mencionado recurso especial repetitivo, esta Primeira Turma, no julgamento do AgInt no REsp n. 1.990.344/CE (relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 23/9/2022), estabeleceu que: "Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível".
+Pela clareza dos fundamentos do voto do eminente Ministro Gurgel de Faria, impõe-se a transcrição do seguinte excerto do citado acórdão:
+Com efeito, ao contrário do entendimento alcançado pelo Tribunal de origem, não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes.
+Tal requisito poderia, inclusive, ser considerado contraditório com o próprio instituto processual, notadamente em demanda relativa à saúde, em que, comumente, a demora na prestação de atendimento adequado leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível.
+Além disso, se o ente político cumpre a ordem judicial, ainda que haja fixação de astreintes, por óbvio, não haverá o que ser executado nesse sentido.
+Nesse passo, não há qualquer justificativa para se afastar a possibilidade de fixação de astreintes na demanda em apreço.
+Destarte, a decisão agravada merece subsistir.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
