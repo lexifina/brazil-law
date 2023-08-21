@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JASÉ FERREIRA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ, fls. 428-444):
+"APELAÇÃO CRIMINAL. DIREITO PENAL MILITAR. MATERIALIDADE E AUTORIA COMPROVADAS. APELO DESPROVIDO.
+1) A prática do crime previsto no art. 202 do CPM teve a materialidade e a autoria devidamente comprovadas, por prova testemunhal e pericial, atestando o estado de embriaguez de policial militar durante o serviço.
+2) Não se sustenta a tese da defesa de que a bebida alcoólica somente foi consumida no dia anterior ao serviço, conciliada com Diazepan, remédio receitado por dentista, que pode ter intensificado os sintomas de tontura e sonolência que foram presenciados pelas testemunhas, quando o teste do etilômetro, somado à presença de odor etílico, constatada pelo laudo do IML, são provas técnicas suficientes para afastar a tese de que o álcool tenha sido consumido somente no dia anterior.
+3) Havendo provas suficientes de autoria e materialidade, a condenação pela conduta prevista no art. 202 do CPM é medida que se impõe.
+4) Apelo conhecido e desprovido".
+Em suas razões recursais, a parte recorrente aponta violação dos art. 439, "b" e "e", do Código de Processo Penal Militar. Aduz para tanto, em síntese, que as instâncias ordinárias deixaram de valorar a prova testemunhal, a qual apontava dúvida acerca da possível embriaguez do recorrente. Desse modo, destaca inexistir prova apta a sustentar a condenação.
+Com contrarrazões (e-STJ, fls. 466-468), o recurso especial foi inadmitido na origem (e-STJ, fls. 471-472), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 502-507 ).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Sobre a tese absolutória, vale destacar o seguinte trecho do julgado:
+"A materialidade e autoria do delito estão comprovadas pelo APF nº 9/2021; pelo teste de etilômetro (ID 103669552, p. 20); pelo LECD nº 31369/21 - Embriaguez (ID 103669552, p. 22/23), bem como pela prova oral produzida.
+Os interrogatórios produzidos em juízo e descritos na r. sentença confirmam os fatos narrados na denúncia, que ora transcrevo e adoto como razões de decidir (ID 41294773):
+ .. .
+Os depoimentos supracitados demonstram que o acusado estava embriagado no período em que ainda estava trabalhando junto ao 28º BPM. O comportamento do acusado foi descrito como cambaleante, sem saber onde tinha deixado o próprio carro, com desorientação, odor etílico, conduzindo o veículo na contramão, com tontura e sonolência. O fato é corroborado pelo resultado do teste etílico, que indicou a presença de 0,97 miligrama de álcool por litro de ar alveolar (ID 103669552, p. 20).
+A presença de sinais clínicos embriaguez também foi constatada pelo laudo de exame de corpo de delito realizado pelo IML, que descreveu como sintoma a marcha titubeante, o equilíbrio estático alterado, a memória alterada, o pensamento reticente, a coordenação motora alterada, a elocução arrastada, a presença de hálito etílico, além de conjuntivas hiperemiadas (ID 103669552, fls. 22-23).
+Não se sustenta a tese da defesa de que a bebida alcoólica somente foi consumida no dia anterior ao serviço, conciliada com Diazepan, remédio receitado por dentista, que pode ter intensificado os sintomas de tontura e sonolência que foram presenciados pelas testemunhas. O teste do etilômetro somado à presença de odor etílico constatada pelo laudo do IML são provas técnicas suficientes para afastar a tese de que o álcool somente foi consumido no dia anterior.
+ .. .
+As provas produzidas são suficientes para comprovar que o serviço militar no 28 BPM tinha a duração entre 15h e 23h e a embriaguez foi constatada às 21h30, o que demonstra que o acusado se apresentou embriagado ao serviço ou se embriagou em serviço, amoldando-se a conduta ao previsto no art. 202 do Código Penal Militar. Portanto, a condenação pelo art. 202 do CPM é medida que se impõe" (e-STJ, fls. 432-435 - sem destaque no original).
+Na hipótese em apreço, as instâncias ordinárias demonstraram a coesão e harmonia das provas dos autos para atestar a materialidade e autoria do delito. Além disso, concluíram que os elementos probatórios colhidos, laudos periciais e prova testemunhal, indicam com clareza que o recorrente se apresentou embriagado ao serviço ou se embriagou em serviço. Desse modo, o afastamento dessas conclusões demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MILITAR. EMBRIAGUEZ EM SERVIÇO. ART. 202 DO CPM. CONDENAÇÃO CONFIRMADA EM SEDE DE APELAÇÃO. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE EM RECURSO ESPECIAL. SUM. N. 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que o acusado praticou o delito previsto no art. 202 do Código Penal Militar, chegar a entendimento diverso, nesta oportunidade, proclamando a absolvição, implica exame aprofundado de provas, vedado em recurso especial, conforme a Súmula n. 7/STJ.
+2. Agravo regimental a que se nega provimento".
+(AgRg no AREsp n. 993.809/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2017, DJe de 26/4/2017.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
