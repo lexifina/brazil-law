@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO CEARÁ com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim ementado:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. VALOR DA CONDENAÇÃO OU DO PROVEITO ECONÔMICO INFERIOR AO LIMITE DO ART. 496, § 3º, INCISO II, DO CPC. NÃO CONHECIMENTO DA REMESSA NECESSÁRIA. PRECEDENTES DO STJ E TJCE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA SENTENÇA RECORRIDA. REPRODUÇÃO IPSIS LITTERIS DOS ARGUMENTOS DEDUZIDOS NA PEÇA DE DEFESA. INOBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. NÃO PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO. APELAÇÃO NÃO CONHECIDA. SENTENÇA MANTIDA.
+1. Dispensa-se a remessa de ofício quando, a despeito da iliquidez do julgado, a condenação ou o proveito econômico obtido na causa puder ser aferido mediante meros cálculos aritméticos e, por conseguinte, for inferior ao teto previsto no § 3º do art. 496 do CPC. No presente caso, há elementos suficientes e seguros para mensurar que o proveito econômico auferido pela parte autora é bastante inferior ao valor de alçada de 500 (quinhentos) salários- mínimos elencado no inciso II do § 3º do art. 496 do CPC.
+2. O recurso não pode ser visto como um mero pedido de reapreciação da matéria sob julgamento, sendo necessário que a parte insurgente indique, de forma fundamentada e precisa, o error in procedendo ou error in judicando capazes de justificar a alteração ou anulação da sentença hostilizada e, por conseguinte, devolver a matéria à reapreciação pelo órgão julgador competente, sob pena de não conhecimento do recurso.
+3. Cotejando a contestação, a sentença e as razões de apelação, constata-se que o recorrente, olvidando impugnar os fundamentos utilizados pelo magistrado sentenciante, se limitou a reproduzir, ipsis litteris, todos os termos da peça de defesa.
+4. Embora se saiba que a mera reprodução de peças anteriores nas razões da apelação não enseje, por si só, afronta ao princípio da dialeticidade, in casu, a parte não especificou os motivos pelos quais o Juízo não teria aplicado corretamente o direito ao caso, vulnerando, assim, o contido no art. 1.010, II e III, do CPC. Precedentes do STJ e do TJCE.
+5. Remessa Necessária não conhecida e Recurso não conhecido. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violado o art. 1.010, II e III, do CPC/2015. Sustenta, em síntese, que não houve ofensa ao princípio da dialeticidade recursal na interposição da apelação.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Tenho que assiste razão ao recorrente.
+Analisando a sentença proferida às fls. 192-203 é possível perceber que houve afastamento da tese preliminar da prescrição nos seguintes termos:
+DA PRELIMINAR DE PRESCRIÇÃO DA PRETENSÃO AUTORAL (PRESCRIÇÃO DO FUNDO DE DIREITO):
+A parte demandada, em sede de preliminar ao mérito, alegou a prescrição da pretensão deduzida na exordial pelo autor. Expos que a demanda não giraria em torno de um direito já reconhecido, situação consolidada, ou hipótese de trat o sucessivo, mas que visa em torno do reconhecimento de uma nova situação jurídica.
+Quanto a esta alegação preliminar, cumpre observar que os Entes Públicos mantêm diversas relações jurídicas, de variadas formas, e que algumas destas contêm vínculos que se prolongam no tempo. A relação jurídica entre a Fazenda Pública e seus servidores é um típico exemplo disto.
+Sobre esta temática da prescrição em face do Poder Público diante da existência de um a relação jurídica de trato sucessivo, fixou o Superior Tribunal de Justiça o seguinte entendimento, disposto em enunciado de sua súmula de jurisprudência:
+(..)
+Por tais razões, rejeito a preliminar de prescrição arguida pela parte demandada. Passo a examinar o mérito da presente demanda.
+Por meio da apelação de fls. 213-236, o recorrente novamente utiliza da tese da prescrição do fundo de direito, rebatendo os fundamentos utilizados pela sentença. Contudo, o Tribunal de origem não conheceu do recurso de apelação, em razão de ofensa a dialeticidade recursal, contrariando a jurisprudência desta Corte Superior no sentido de que a repetição de peças anteriores não ofende o princípio da dialeticidade quando puderem ser extraídas do recurso as razões e a intenção de reforma da decisão recorrida, como se verifica no caso dos autos.
+Nesse sentido, destaca-se os precedentes:
+PROCESSUAL CIVIL. APELAÇÃO. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. A jurisprudência do STJ reconhece que não há ofensa ao princípio da dialeticidade quando a apelação contém fundamentos capazes de refutar a sentença, como constatado, in casu.
+2. Caso em que a apelante/agravada se desincumbiu do ônus de explicitar os motivos pelos quais a sentença devia ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.224.941/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/6/2023, DJe de 30/6/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. REITERAÇÃO DOS ARGUMENTOS DA PETIÇÃO INICIAL. PRINCÍPIO DA DIALETICIDADE RECURSAL. RAZÕES APTAS A DEMONSTRAR OS MOTIVOS DA IRRESIGNAÇÃO COM A DECISÃO QUE SE PRETENDE MODIFICAR. AGRAVO INTERNO DO ESTADO DO PARANÁ A QUE SE NEGA PROVIMENTO.
+1. O entendimento proferido pela instância ordinária está contrário à orientação desta Corte Superior de que a repetição de peças anteriores nas razões de apelação não ofende o princípio da dialeticidade quando puderem ser extraídas do recurso as razões e a intenção de reforma da sentença (AgInt no AgInt no AREsp 790.415/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe 27/11/2020).
+2. Agravo interno do ESTADO DO PARANÁ a que se nega provimento.
+(AgInt no REsp n. 1.809.430/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO DE APELAÇÃO. REPETIÇÃO DOS TERMOS DA PETIÇÃO INICIAL OU DA CONTESTAÇÃO. IMPUGNAÇÃO SUFICIENTE AOS FUNDAMENTOS DA SENTENÇA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Esta Corte tem firme posicionamento segundo o qual a mera repetição dos termos da petição inicial ou da contestação, no recurso de apelação, não é fator suficiente a ensejar o não conhecimento do recurso por ofensa ao princípio da dialeticidade, devendo haver, contudo, a impugnação suficiente dos fundamentos da sentença, como ocorreu no caso dos autos.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido.
+(AgInt no AgInt no REsp n. 2.014.740/TO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, co m fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a ofensa ao princípio da dialeticidade recursal determinando o retorno dos autos à origem para julgamento da apelação interposta pelo Estado do Ceará, como entender de direito.
+Publique-se. Intimem-se.
