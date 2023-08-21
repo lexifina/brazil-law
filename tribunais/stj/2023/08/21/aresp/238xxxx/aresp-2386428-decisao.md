@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Execução Fiscal Auto de Infeção do exercício de 2012 Sentença que acolheu a exceção de pré-executividade apresentada, e extinguiu a execução, ante o reconhecimento da nulidade da COA. Insurgência da municipalidade exerce Pretensão de reforma. Acolhimento. Caso concreto em que, decisão proferida em primeira instância, a exequente requereu a substituição do título. Possibilidade de substituição nos termos do art. 2, §8º, da LEF. CDA substituta que, em conjunto com os documentos que a acompanham permitem o exercício da ampla defesa. Extinção afastada. Recurso provido
+Embargos de declaração opostos foram rejeitados
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos artigos 2º e 3º da Lei nº 6.830/80; 783 e 893 do CPC/2015, sob o argumento que da inexigibilidade e nulidade da CDA, tendo em vista que "os requisitos essenciais e legais para emissão da CDA não restaram preenchidos, contudo, o E. Tribunal mesmo constando e entendo pela ausência daqueles , deixou de declarar a nulidade do título executivo para determinar a remessa dos autos à Municipalidade para sanar os vícios" (fl. 124).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso.
+O recurso foi inadmitido pela decisão de fls. 142/143, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Segue trecho do acórdão de origem (fls. 91-96 e-STJ):
+Por sua vez, a CDA de fl. 32 atende aos requisitos dos artigos 202 do CTN e art. 2% § 5º da LEF, uma vez que aponta se tratar de Infração do exercício de 2012, com indicação precisa do auto de infração lavrado (310112). Não houve substituição do sujeito passivo ou alteração do lançamento.
+Ademais, a CDA substitutiva veio acompanhada de cópia respectivo auto de infração (fl. 30) onde consta expressamente a legislação local, pertinente (Lei Municipal 5416/O8), bem como do AR de intimação da infratora (fs. 31), a comprovar que a mesma tinha conhecimento da lavratura do AI, bem da imposição da penalidade e seus fundamentos.
+Há, ainda, a explicitação da quantia principal e daquelas decorrentes da atualização monetária e demais acréscimos, acompanhadas das respectivas fundamentações.
+Por fim, consta do título o nome do executado, data de vencimento, a data de inscrição da dívida e o endereço para realização da citação, tudo a possibilidade a ampla defesa do executado.
+ ..
+No caso concreto, verifica-se que, antes de proferida a r. decisão agravada, a municipalidade requereu a substituição do título executivo (fls. 22/32).
+ ..
+Assim, por qualquer ângulo que se analise, não é possível se concluir pela nulidade do título executivo extrajudicial, como pleiteia a embargante.
+A conclusão, portanto, é de que eventuais vícios existentes no título original foram sanados pela CDA substituta, que não contém vícios capazes de macular a execução fiscal.
+(grifos acrescidos)
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+A corroborar esse entendimento:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. SUJEIÇÃO PASSIVA. LEGITIMIDADE ATIVA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE. ACÓRDÃO COMBATIDO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. (..) 3. Havendo fundamentos do acórdão recorrido não impugnados (a inoponibilidade ao fisco dos ajustes particulares; a necessidade de anuência do credor para que terceiro assuma a dívida tributária), atrai-se a incidência do óbice das Súmulas 283 e 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp 1568526/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 23/03/2021 - grifo nosso)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADO CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. PRINCÍPIO DA PERSUASÃO RACIONAL. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO. (..) IV. Segundo a jurisprudência do STJ, "é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia)" (STJ, AgRg no REsp 1.554.761/RO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/03/2016). (..) VI. Agravo interno improvido. (AgInt no AREsp 1802174/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 26/04/2021, DJe 28/04/2021 - grifo nosso).
+Ademais, a verificação acerca da existência dos requisitos essenciais que devem constar da certidão de dívida ativa, a fim de que fiquem demonstradas a certeza e liquidez do título, demanda o revolvimento do suporte fático-probatório carreado aos autos, o que é inviável em sede de recurso especial, tendo em vista o óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO ACERCA DOS REQUISITOS DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. ALEGADA ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido. (AgRg no AREsp 207.967/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 12.9.2012).
+Por fim, conforme análise das razões do recurso especial, o apelo especial não apresentou violação ao art. 1022 do CPC/2015 e a fundamentação pertinente acerca ausência de prestação jurisdicional por parte do Tribunal a quo.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. DISCUSSÃO ACERCA DA REGULARIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
