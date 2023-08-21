@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DANIEL DA COSTA SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que: a) o paciente foi condenado à pena definitiva de 4 anos e 2 meses de reclusão, em regime inicial semiaberto; b) o Juízo da execução determinou a expedição de mandado de prisão em desfavor do paciente para cumprir pena em regime semiaberto, após a confirmação, pela Secretaria da Administração Penitenciária, da existência de vaga disponível para cumprimento da pena em estabelecimento penal semiaberto, entendendo desnecessária a prévia intimação do paciente a respeito; c) a defesa formulou pedido de progressão de regime, pendente de apreciação, mas, diante da prática de falta grave, o regime semiaberto foi sustado cautelarmente.
+O Tribunal a quo indeferiu liminarmente o writ por entender que o recurso adequado seria o agravo em execução e porque não vislumbrava ilegalidade patente a ensejar a concessão da ordem, de ofício.
+Alega o impetrante que o paciente atingiu o direito a progressão de regime desde o dia 29/4/2020; no entanto, não lhe foi dada a oportunidade de formular seu pleito junto ao MM. Juízo da execução, tanto pela ausência de sua prévia intimação em desobediência à Resolução n. 474/2022 do CNJ, quanto pelo fato de que seus advogados constituídos não foram cadastrados nos autos da execução por algum lapso da Secretaria do Juízo.
+Aduz, ainda, que, "nos termos da legislação vigente e orientação do CNJ, o paciente deveria ter sido intimado a cumprir a pena, ocasião em que poderia ter pleiteado a sua progressão ao regime menos gravoso e estaria hoje em liberdade, cumprindo medidas restritivas diversas da prisão". Conclui que se revelam "ilegais tanto a r. decisão que determinou a prisão do paciente sem sua prévia oitiva, quanto a omissão da MM. Juíza da DEECRIM 4ª RAJ em decidir a respeito dos pedidos de liberdade e progressão de regime já formulados nos autos da execução" (e-STJ fl. 8).
+Requer, liminarmente e no mérito, a expedição de mandado de soltura em favor do paciente.
+Indeferido o pedido de liminar (e-STJ fls. 63/64) e prestadas as informações solicitadas (e-STJ fls. 70/106); o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 110/111).
+É o relatório.
+Decido.
+Das informações obtidas no site do Tribunal estadual, verifica-se que o paciente praticou falta grave e foi regredido ao regime fechado em 26/7/2023.
+Dessa forma, caracterizada a alteração fática do presente caso, de singular importância, eventuais consectários do atual status do apenado deverão ser analisados, inicialmente, em primeiro grau, pois seu enfrentamento nesta ocasião implicaria indevida supressão de instância.
+Diante do exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
