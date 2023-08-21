@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSÓRCIO URB TOPO ENGENHARIA EPC contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 467):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. HIPÓTESE DE INCOMPETÊNCIA DO JUÍZO RECUPERACIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante pretende a reforma da decisão agravada. Para tanto, aduz que "considerando que os créditos submetidos aos efeitos da recuperação judicial são aqueles praticados pelo devedor em momento anterior ao pedido de Recuperação, resta evidente que os créditos buscados pela Agravado foram alcançados por negócio jurídico praticado no ano de 2014, muito antes ao pedido de Recuperação Judicial, que aconteceu somente no ano de 2019, logo, o crédito da Agravada deve obrigatoriamente ser submetido ao plano de Recuperação" (e-STJ, fl. 477).
+Desse modo, entende pela inaplicabilidade da Súmula 7/STJ, isso porque não seria o caso de reexame de provas, mas da revalidação destas, assim como observância da sentença e do acórdão dos autos.
+Aduz ainda que o não conhecimento do recurso especial por inovação recursal não deve prosperar, isso porque não tinha como propor o pedido de soerguimento, perante o juízo inferior, porquanto não existia a recuperação judicial.
+Defende também o afastamento do óbice da Súmula 283/STF, uma vez que houve impugnação específica em relação a vulneração dos arts. 49 e 59 da Lei n. 11.101/2005.
+A impugnação não foi apresentada, conforme certidão de fl. 486 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. HIPÓTESE DE INCOMPETÊNCIA DO JUÍZO RECUPERACIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. 3. AGRAVO INTERNO IMPROVIDO.
+1. Na hipótese, a modificação do entendimento alcançado pelo acordão estadual (acerca da incompetência do juízo recuperacional para processar os cumprimentos de sentença e as execuções, isso porque os créditos a serem submetidos a ele são aqueles decorrentes da atividade de empresário antes do pedido de recuperação judicial) demandaria o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação da Súmula 7 do Superior Tribunal de Justiça.
+1.1. A orientação jurisprudencial que vigora no Superior Tribunal de Justiça é no sentido de que "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 2.095.057/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pela parte agravante, conforme asseverado na decisão de fls. 467-470 (e-STJ), observa-se que o acórdão recorrido rejeitou a preliminar de competência do Juízo onde tramita a recuperação judicial, com base nos seguintes fundamentos (e-STJ, fl. 381):
+Os créditos constituídos depois de o devedor ter ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+Portanto, a sentença do juízo a quo é de16/03/2020, enquanto que a decretação da Recuperação Judicial foi em 19 de junho de 2019, ou seja, a execução é posterior a decretação afastando-se a preliminar arguida.
+Dessa forma, REJEITO esta preliminar.
+No julgamento dos embargos de declaração, o TJMG esclareceu que (e-STJ, fls. 410-411):
+COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL
+Data máxima vênia a preliminar arguida a esse título nos autos nos autos de origem foi rejeitada não havendo qualquer omissão a respeito, pois restou declinado que os créditos constituídos depois de o devedor ter ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+Portanto, a sentença do juízo a quo é de 16/03/2020, enquanto que a decretação da Recuperação Judicial foi em 19 de junho de 2019, ou seja, a execução é posterior a decretação afastando-se a preliminar arguida.
+O juízo da recuperação judicial não detém a competência para processar e julgar todos os cumprimentos de sentença e execuções contra a recuperanda, sendo sua competência afeta a execução de atos constritivos do seu patrimônio.
+Apesar de posicionamentos judiciais de que incumbe ao juízo da recuperação à definição da natureza dos créditos, tenho que pode o Juízo Cível reconhecer a natureza extraconcursal do crédito, uma vez que há parâmetros objetivos, assentes na jurisprudência do STJ para a definição da sujeição ou não do crédito ao juízo universal.
+Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+Sendo assim, não há que se falar em incompetência do juízo de origem para a matéria.
+A partir dos trechos acima transcritos, verifica-se que o acórdão consignou que o juízo recuperacional não tem competência para processar os cumprimentos de sentença e as execuções, isso porque os créditos a serem submetidos a ele são aqueles decorrentes da atividade de empresário antes do pedido de recuperação judicial.
+Nesse contexto, é inafastável o óbice da Súmula 7/STJ, uma vez que, mostra-se invi ável, por meio do julgamento do recurso especial, que o Superior Tribunal de Justiça altere o posicionamento adotado pela instância ordinária, pois, para tanto, seria necessário o revolvimento dos fatos e das provas acostadas aos autos, o que não se mostra possível nessa fase recursal.
+Além disso, impende esclarecer que segundo orientação jurisprudencial desta Corte Superior, não cabe, em recurso especial, a análise de possíveis equívocos na valoração da prova, exceto quando ocorrer falha na aplicação das regras referentes à instrução probatória, o que não é o caso dos autos. Nesse sentido: AgInt no AREsp 1.316.722/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/4/2021, DJe 16/4/2021.
+Ademais, no que se refere a data da constituição do crédito o aresto recorrido asseverou que "trata-se o pedido de inovação recursal, visto que analisando detidamente a petição inicial não consta o referido pedido. Registre-se que a inovação recursal, pois é vedada pelo ordenamento jurídico, porque nela há inserção no recurso de questão não discutida em 1º grau, com afronta aos limites da lide (CPC, arts. 329 e 336) ou à regra do art. 1.014 do CPC" (e-STJ, fl. 411).
+Observa-se que, de fato, tais fundamentos não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seria in re ipsa impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido. (AgInt no REsp n. 1.970.022/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - sem grifo no original)
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
