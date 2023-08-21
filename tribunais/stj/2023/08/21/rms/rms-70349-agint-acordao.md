@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Sheila Mendes de Oliveira Sodré (fls. 289-292 e-STJ), em face de decisão singular da Presidência desta Corte de fls. 265-266 e-STJ e 284-286 e-STJ, em que esta não conheceu do recurso em razão da não realização do recolhimento do preparo de forma correta, já que seria ilegível o documento/comprovante de pagamento apresentado por ela.
+Em razões de agravo interno (fls. 289-292 e-STJ), a parte agravante alega que "desde 2006, com o advento da Lei n. 11.383/06, a advogada necessita, tão somente, declarar, seja em petição inicial ou intercorrente, que as fotocópias apresentadas nos autos são verdadeiras, o que ocorreu no caso concreto. Com isso, haverá a presunção de que tal afirmativa é verdadeira" (fl. 290 e-STJ).
+Afirma ainda que houve o devido pagamento da custa judicial pela parte agravante no ato da interposição do recurso, "como faz prova nos autos documentos acostados às fls. 195, 260 e 275, não podendo a recorrente ser penalizada pela incúria do banco emissor dos comprovantes quanto ao "não consta o respectivo número de código de barras completo e coincidente com a guia de fls. 194"" (fl. 290 e-STJ).
+Argumenta, assim, que deve prevalecer a boa-fé da advogada que está subscrevendo esta peça, devendo ser reconhecido como correto o comprovante de pagamento juntado.
+A parte agravada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidões de fls. 295-296 e-STJ.
+O Ministério Público Federal apresentou parecer às fls. 302-304 e-STJ, pugnando pelo não provimento do recurso, em razão da ausência de documentos adequados que comprovariam o pagamento.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. DECISÃO DA PRESIDÊNCIA. DIREITO PROCESSUAL CIVIL. PREPARO RECURSAL. NÃO CABIMENTO. DOCUMENTOS ILEGÍVEIS. DESERÇÃO. NÃO PAGAMENTO DAS CUSTAS EM DOBRO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça entende que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. Apesar de intimada para reparar o vício, a parte continuou juntando documentos ilegíveis no processo e ainda sem o recolhimento em dobro devido, o que obsta o conhecimento do recurso por incidência da Súmula n. 187/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece prosperar o recurso da parte agravante, devendo ser mantida a decisão singular da Presidência que não conheceu do recurso, em razão do reconhecimento da deserção.
+No caso, na linha da jurisprudência do STJ, aplicável ao caso concreto, a decisão agravada considerou deserto o recurso ordinário em mandado de segurança de fls. 188-195 e-STJ, eis que, apesar de juntadas as guias de recolhimento devidamente preenchidas, os respectivos comprovantes de pagamento encontram-se ilegíveis, impossibilitando a verificação da regularidade do preparo.
+De fato, seja no ato da interposição de seu recurso ordinário às fls. 192-195 e-STJ, ou ainda posteriormente à intimação da Presidência, às fls. 260-263 e-STJ, a parte agravante juntou documentos ilegíveis do preparo.
+Apenas em sede de embargos de declaração da decisão da Presidência (fls. 268-277 e-STJ) é que a parte agravante juntou documento legível, mas sem o recolhimento em dobro como deveria.
+Com efeito, a jurisprudência desta Corte Superior está consolidada no sentido de que a cópia das guias (GRU) e dos comprovantes de pagamento do preparo constituem peças essenciais à formação do recurso, sendo que somente com esses documentos torna-se possível verificar a sua regularidade.
+Assim, os recursos interpostos devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL. AUSÊNCIA DO CÓDIGO DE BARRAS NA GUIA DE RECOLHIMENTO DAS CUSTAS. INTIMAÇÃO PARA SANAR O VÍCIO, EM CINCO DIAS. NÃO ATENDIMENTO, NO PRAZO. DESERÇÃO. SÚMULA 187/STJ. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça entende que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. No caso em exame, o Recurso Especial não foi instruído com a guia de custas com o correspondente código de barras e, a despeito de intimada, no Tribunal de origem, para sanar o vício, a parte apenas alegou que o comprovante apresentado é suficiente.
+3. Outrossim, verifica-se que o Recurso é manifestamente intempestivo. A parte recorrente foi intimada do acórdão recorrido em 18.2.2022, sendo o Recurso em Mandado de Segurança interposto somente em 15.3.2022.
+(..) (AgInt no RMS n. 68.922/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO INCOMPLETO. INTIMAÇÃO. ART. 1.007, § 4º, DO CPC. DESATENDIMENTO. DESERÇÃO. INTEMPESTIVIDADE RECURSAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça consolidou entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017).
+2. Apesar de intimada, na forma do § 4º do art. 1.007 do CPC, para reparar o vício, a parte manteve-se inerte, o que obsta o conhecimento do recurso por incidência da Súmula n. 187/STJ.
+3. A Corte Especial do STJ deu interpretação definitiva ao art. 1.003, § 6º, do CPC/2015, para asseverar que, "sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso" (REsp n. 1.813.684/SP, Relator para Acórdão Ministro Luis Felipe Salomão, julgado em 2/10/2019, DJe 18/11/2019).
+4. Conforme assentado nos julgamentos do REsp n. 1.813.684/SP e de sua Questão de Ordem, a Corte Especial explicitou que a possibilidade de comprovação do feriado local, no caso de recurso interposto até 18/11/2019, "é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais" (QO no REsp n. 1.813.684/SP, Relatora Ministra Nancy Andrighi, julgado em 3/2/2020, DJe 28/2/2020).
+(..) 6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.127.924/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. AUSÊNCIA DE PREPARO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. VÍCIO INSANÁVEL. SÚMULA 187/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 08/09/2017, que julgou Recurso Especial, interposto em face de acórdão publicado na vigência do CPC/73.
+II. No caso, o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73. Aplicação do Enunciado Administrativo 2/2016, do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+III. Consoante pacífica jurisprudência desta Corte, firmada à luz do CPC/73, no ato de sua interposição o Recurso Especial deve estar acompanhado das guias do preparo, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível - o que não ocorreu, in casu -, sob pena de deserção, nos termos do art. 511, caput, do CPC/73.
+(..) VI. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.981.895/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+Ressalto ainda que o STJ já pacificou que é dever do recorrente comprovar no instante da interposição do recurso que os pressupostos de admissibilidade foram atendidos, sob pena de preclusão consumativa (AgRg no Ag 1.311.840/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12.11.2010).
+Assim, a juntada de cópias ilegíveis dos comprovantes de recolhimento impossibilitam a aferição da regularidade formal do recurso.
+Mesmo que não fosse esse o caso, a decisão da Presidência ainda inicialmente oportunizou à parte agravante a realizar o recolhimento do preparo em dobro, conforme fl. 258 e-STJ, o que, contudo, não foi feito.
+Diz-se isso porque a parte agravante continuou juntando aos autos documentos ilegíveis, conforme se nota de fl. 261 e-STJ, e ainda sem o recolhimento em dobro do preparo, mesmo às fls. 268-277 e-STJ, o que obsta o conhecimento do recurso por incidência da Súmula n. 187 do STJ.
+Por isso, deve ser mantida a decisão agravada por seus próprios fundamentos.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
