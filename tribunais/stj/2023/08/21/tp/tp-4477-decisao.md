@@ -1,0 +1,17 @@
+DECISÃO
+Joaquim Basílio apresenta pedido de reconsideração em face da decisão de fls. 283/284, por meio da qual indeferi a inicial e julguei extinto o processo ao fundamento de que o recurso especial ao qual pretende seja conferido efeito suspensivo não havia sequer sido interposto, impossibilitando, assim, a análise, por esta Corte de qualquer pretensão cautelar, bem como pelo fato de que a análise da questão posta nos autos não prescinde do reexame de conteúdo fático, fazendo incidir a Súmula 7 desta Corte, afastando o fumus boni iuris da pretensão.
+Noticia a interposição do recurso especial (fls. 428/460), que não foi admitido pelo Tribunal de origem (fls. 370/373), decisão em face da qual interpôs agravo (fls. 375/373), e informa que os atos expropriatórios estão marcados para ter início no dia 14.8.2023.
+Reforça os argumentos trazidos na inicial, no sentido de ser "inconteste a presença dos requisitos autorizadores do "FUMUS BONI JURIS E PERICULUM IN MORA"", no caso em tela os elementos que evidenciam através de coisa julgada que reconheceu o excesso de penhora do apartamento nº 143 da matrícula 155.737, do 4º C. R. I. da Capital de São Paulo, tendo o autor oferecido bem imóvel e créditos privilegiados de execução de honorários em falência (VASP) e em cumprimento de sentença para garantia do juízo e substituição da referida penhora".
+Assim postos os fatos, verifico, conforme já constou da decisão de fls. 283/284, que o ora peticionante pretende a concessão de efeito suspensivo a acórdão proferido pela 25ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (fls. 229/231):
+CUMPRIMENTO DE SENTENÇA. CRÉDITOS CONDOMINIAIS. ALEGAÇÃO DE TRÂNSITO EM JULGADO E PRETENSÃO DE SUBSTITUIÇÃO DA PENHORA NÃO ATENDIDA. INOCORRÊNCIA. DÉBITO NÃO LIQUIDADO OPORTUNAMENTE. AMPLIAÇÃO DA CONSTRIÇÃO. POSSIBILIDADE. QUESTÃO RELACIONADA À SUBSTITUIÇÃO JÁ DECIDA. TEMA PRECLUSO.
+Recurso parcialmente conhecido e improvido.
+Eis os fundamentos adotados pelos Tribunal de origem ao proferir o acórdão recorrido:
+Cuida-se de cumprimento de sentença proferida em ação de cobrança de débitos condominiais.
+Acolho a preliminar de não conhecimento arguida pela parte contrária.
+De fato, a decisão de fl. 197 dos autos principais (traslado à fl. 204 dos autos principais digitalizados) indeferiu o pedido de substituição de bens proposto pelo executado, porque não havia observado a ordem de preferência.
+Não consta que o agravante tenha se insurgido contra tal decisório, operando, portanto, preclusão.
+Inocorrente também a questão relacionada ao trânsito em julgado, porque a substituição deferida estava, evidentemente, condicionada a uma rápida liquidação do débito que, todavia, não ocorreu. Não há trânsito em julgado que impeça a ampliação da penhora caso os bens constritos não sejam suficientes para satisfazer o crédito.
+Desse modo, fica claro que a revisão das premissas adotadas pelo Tribunal de origem demandaria, necessariamente, o reexame de conteúdo fático, fazendo incidir a Súmula 7 desta Corte, afastando o fumus boni iuris da pretensão, o que, por si só, já é suficiente para o indeferimento liminar do pedido.
+Em face do exposto, não acolho o pedido de reconsideração, mantendo o indeferimento da petição inicial e julgando extinto o processo, nos termos do art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça.
+Julgo prejudicado o agravo interno de fls. 347/363.
+Intimem-se.
