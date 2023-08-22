@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por MARIA JOSE BELMINO MATOS contra ato omissivo do MINISTRO DA DEFESA, consubstanciado no não pagamento da parcela correspondente aos valores retroativos previstos na Portaria MJ n. 2.406, de 15 de dezembro de 2005, que declarou seu falecido marido anistiado político post mortem (e-STJ fl. 30).
+A impetrante alega que a referida portaria concedeu reparação econômica de caráter indenizatório em prestação mensal, permanente e continuada, no valor correspondente à graduação de Primeiro-Sargento das Forças Armadas, bem como seus efeitos financeiros retroativos.
+Sustenta que a autoridade apontada como coatora, até o presente momento, não realizou o pagamento dos valores pretéritos -, embora haja previsão legal de 60 dias para o cumprimento do ato em comento, nos termos do art. 12, § 4º, 18, parágrafo único da Lei n. 10.559/2002.
+Ao final, pleiteia a concessão da ordem para que seja determinado à autoridade coatora que proceda ao cumprimento do disposto na Portaria anistiadora, efetuando o pagamento da quantia retroativa nela fixada.
+As Informações não foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 55/61).
+Passo a decidir.
+Da análise dos autos, verifica-se a ilegitimidade ativa da impetrante.
+Com efeito, a Portaria anistiadora foi assim redigida (e-STJ fl. 30):
+PORTARIA Nº 2.406, DE 15 DE dezembro DE 2005
+O MINISTRO DE ESTADO DA JUSTIÇA, no uso de suas atribuições legais, com fulcro no artigo 10 da Lei nº 10.559, de 13 de novembro de 2002. publicada no Diário Oficial de 14 de novembro de 2002 e considerando o resultado do julgamento proferido pela Terceira Câmara da Comissão de Anistia na sessão realizada no dia 28 de setembro de 2005, no Requerimento de Anistia nº 2003.01.20310, resolve: Declarar FRANCISCO ALDENIR LOPES MATOS anistiado "post mortem", reconhecendo o direito às promoções a graduação de Segundo-Sargento com os proventos da graduação
+de Primeiro-Sargento e as respectivas vantagens, e conceder em favor de MARIA JOSE BELMINO MATOS, e demais dependentes econômicos, se houver, a reparação econômica e prestado mensal, permanente e continuada no valor de R$ 2.953,56 (dois mil, novecentos e cinquenta e três reais e cinquenta e seis centavos), com efeitos financeiros retroativos da data do julgamento em 28.09.2005 a 13.02.1998, totalizando 91 (noventa e um) meses e 15 (quinze) dias, perfazendo um total de RS 292.648,57 (duzentos e noventa e dois mil, seiscentos e quarenta e oito reais e cinquenta e sete centavos), nos termos do artigo 1º, incisos I e II, da Lei nº 10.559 de 14 de novembro de 2002.
+Vê-se que a r eparação econômica foi concedida em favor da ora impetrante e "demais dependentes econômicos, se houver". Não obstante, não há nos autos a comprovação de que não exista m outros dependentes econômicos do falecido anistiado, sendo certo que não há nenhuma anotação na certidão de óbito (e-STJ fl. 31) e não foi juntada a documentação referente ao inventário.
+Assim, não sendo possível identificar a inexistência de outros dependentes econômicos, mostra-se inviável o reconhecimento de que a impetrante é a única legitimada a pleitear o valor total dos efeitos financeiros retroativos.
+Nesse sentido, mutatis mutandis:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. DECLARAÇÃO POSTMORTEM. EFEITOS FINANCEIROS RETROATIVOS. PERÍODO POSTERIOR À DATA DOÓBITO. LEGITIMIDADE ATIVA DA ÚNICA DEPENDENTE ECONÔMICA: A VIÚVA.LITISCONSÓRCIO COM OS FILHOS DO CASAL. DESNECESSIDADE. OMISSÃO DAAUTORIDADE IMPETRADA. ATO OMISSIVO QUE SE RENOVA CONTINUAMENTE. VIAPROCESSUAL ADEQUADA. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. CABIMENTO.SEGURANÇA CONCEDIDA.
+1. Concedida a anistia política post mortem, as parcelas retroativas concernentes à reparação econômica vencidas após o óbito do anistiado político não chegam a integrar seu patrimônio jurídico; por conseguinte, não são transferíveis aos seus herdeiros e sucessores legais, mas àqueles considerados dependentes econômicos nos termos da Lei 10.559/02.
+2. No caso, o ex-militar faleceu em 2/8/95, tendo sido concedida a anistia em 16/4/03, conforme Portaria/MJ 649, de 14/5/03, com o pagamento de reparação econômica retroativo a 15/5/97.
+3. Sendo a impetrante, viúva do anistiado político, sua única dependente econômica para fins de percepção da reparação econômica, conforme certidão expedida pela Subdiretoria de Inativos e Pensionistas do Comando da Aeronáutica, tem ela legitimidade para figurar no polo ativo do presente mandado de segurança.
+(..)
+12. Segurança concedida. (MS 17.371/DF, Relator Ministro ARNALDO ESTEVESLIMA, Primeira Seção, DJe 1º/08/2012).
+Ainda, no mesmo sentido: MS 21092/DF e MS 22362/DF, ambos da relatoria do em. Ministro BENEDITO GONÇALVES, DJe 12/08/2016, e 29/04/2016, respectivamente; MS 21709/DF, Relator Ministro SÉRGIO KUKINA, DJe 11/12/2015; e MS 21450/DF, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 29/10/2015.
+Registre-se, ademais, que, em sede de mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória. Nesse sentido: AgRg no RMS 48.579/MS, rel. Min. OLINDO MENEZES  convocado, Primeira Turma, DJe 04/02/2016.
+Ante o exposto, DENEGO a ordem nos termos do art. 6º, § 5º, da Lei n. 12.016/2009, c/c o art. 34, XIX, do RISTJ.
+Sem honorários advocatícios (art. 25 da Lei n. 12.016/2009).
+Intimem-se. Publique-se.
