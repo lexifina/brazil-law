@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Sentença: rejeitou a impugnação e julgou extinto o processo,nos termos do art. 924, II, do Código de Processo Civil.
+Acórdão: negou provimento ao recurso interposto pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - Depósito realizado como garantia do juízo - Ausênci a de razão no quanto sustentado em sede de impugnação - Possibilidade de considerar o montante depositado como pagamento - Depósito serve não apenas para garantir à execução, como também para, oportunamente, servir como meio de pagamento Preliminar rejeitada.
+APELAÇÃO - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - SUSPENSÃO DO PROCESSO - Descabimento - Entendimento pacificado pelo STJ em análise de recurso repetitivo - Suspensão determinada no REsp 1.438.263 - Perda de eficácia, ante a desafetação de tal recurso do rito dos recursos repetitivos.
+RETENÇÃO DO LEVANTAMENTO DE VALORES OU PRESTAÇÃO DE CAUÇÃO - Descabimento - No curso do processo foram feitas as verificações pertinentes, analisaram-se as defesas do agravante trazidas em sua impugnação e nenhuma delas restou acolhida, nada mais havendo para se desenvolver no processo que levasse a retenção de valores ou exigência de caução.
+Recurso desprovido.
+Recurso especial: alega violação dos arts. 95, 97 e 98 da Lei nº 8.078/90, 219, 487, 502 a 508, do CPC, bem como dissídio jurisprudencial. Sustenta, em síntese, a necessidade de prévia liquidação, a ilegitimidade do não associado, a prescrição e insurge-se contra o termo inicial dos juros moratórios, os juros remuneratórios e os índices de correção monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: ausência de cabimento de Resp contra violação de norma constitucional, Súmula 282/STJ (quanto à necessidade de prévia liquidação, ao termo inicial dos juros moratórios, aos juros remuneratórios, aos índices de correção monetária, à legitimidade do não associado e ao prazo prescricional) e ausência de comprovação do dissídio jurisprudencial.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos referidos fundamentos.
+Ressalte-se que, na hipótese em que se pretende impugnar, o fundamento relativo à ausência de prequestionamento, deve o agravante demonstrar que o Tribunal a quo emitiu juízo de valor acerca da temática federal suscitada na via Especial, o que não se verifica.
+Em relação ao fundamento relativo à divergência não comprovada é necessário que a parte agravante demonstre, de maneira inequívoca, os elementos indispensáveis à demonstração da divergência, requisitos constantes dos arts. 541, parágrafo único, do CPC/73 e 255, § 1º, do RISTJ, o que também não se verifica no recurso, uma vez que o agravante não realizou o devido cotejo com comprovação da similitude fática.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
