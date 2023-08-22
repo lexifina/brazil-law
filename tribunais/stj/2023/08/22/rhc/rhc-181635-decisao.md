@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por HERIK NEIMANN contra acórdão de lavra do Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o recorrente foi denunciado pela suposta prática do crime de posse irregular de arma de fogo de uso permitido,
+Inconformada, a defesa impetrou habeas corpus, cuja ordem foi denegada pelo Tribunal de origem.
+No presente recurso, a defesa pugna pelo reconhecimento da nulidade da busca domiciliar e da revista pessoal levadas a efeito contra o recorrente.
+É, em síntese, o relatório. Decido.
+O recurso está prejudicado.
+Em consulta ao sítio eletrônico do Tribunal de origem constatei que foi prolatada sentença absolutória em favor do recorrente, com o reconhecimento da nulidade perseguida neste processo, nos termos do seguinte excerto:
+Assim, a localização de arma de fogo no endereço situado à Rua do Ibitirati, nº 120 não pode ser considerada prova válida eis que, ainda que tivesse sido autorizada pelo réu (conforme afirmado pelos Policiais em Juízo), a residência em questão não lhe pertencia, de modo que a suposta autorização não teria o condão de tornar lícita a busca. Ainda que a residência em questão pertencesse ao réu, os Policiais não juntaram aos autos qualquer documento que comprovasse a autorização para realização de buscas no local. Registre-se, por oportuno, que a abordagem inicial não se deu nas imediações da residência do réu, de modo que não há que se falar que os Policiais vislumbraram, de fora da casa, o cometimento do crime. Também não havia fundadas razões para o ingresso na residência do acusado, destacando-se que a abordagem inicial se deu em razão de suspeita de veículo oriundo de crime, enquanto que a justificativa para o ingresso na residência do réu foi pela posse ilegal de arma de fogo (supostamente confessada pelo denunciado durante sua abordagem). No mais, sequer houve a realização de diligências prévias que permitissem os Policiais concluir pela ocorrência de crime na residência do réu. Oportuno destacar que a denúncia anônima que motivou a abordagem em nada se relacionava com o porte ou a posse irregular de arma de fogo, tampouco guardava prévia relação com o réu, mas sim com o veículo.
+Tal o contexto, julgo prejudicado o presente recurso ordinário .
+Publique-se. Intimem-se.
