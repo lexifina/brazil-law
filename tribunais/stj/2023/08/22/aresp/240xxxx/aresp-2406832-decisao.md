@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 231 do STJ e 284/STF.
+Sustenta a defesa que "houve um excesso na a aplicação do quantum, pois, o "remédio" aplicado ao paciente foi em dosagem maior do que o necessário" (fl. 389).
+Alega que "o crime não chegou a se consumar, restando em sua forma tentada, pois a vitima recuperou o bem, não tendo nenhum prejuízo" (fl. 394).
+Requer o provimento do recurso, a fim de desclassificar o delito imputado na denuncia, "para o previsto no art. 157, caput c/c art. 14, II, todos do Código Penal, com a aplicação do redutor da atenuante prevista no art. 65, III, "d", do CP, bem como a modificação do regime prisional" (fl. 339).
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+O recorrente foi condenado, pelo juízo de primeiro grau, como incurso no art. 157, § 2º, II, c.c. art. 71, ambos do Código Penal, à pena de de 6 anos, 2 meses e 20 dias de reclusão, a ser cumprida inicialmente em regime semiaberto, além do pagamento de 15 dias-multa. Interposta apelação pela defesa, restou improvida.
+Acerca da dosimetria, colhe-se do acórdão recorrido que a pena-base foi fixada no mínimo legal, de modo que não se verifica, na primeira fase do cálculo, interesse recursal.
+Na segunda fase da dosimetria, ainda que presente a atenuante da confissão espontânea, o Tribunal de origem deixou de proceder à redução da pena, em razão da Súmula 231/STJ (fl. 370).
+Com efeito, a Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+O entendimento da Corte de origem encontra-se em consonância com a jurisprudência desta Corte, no sentido de que "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022).
+No que se refere ao pleito de reconhecimento da forma tentada, extrai-se do acórdão recorrido a seguinte fundamentação (fl. 366):
+ ..  ainda que o apelante e o corréu tenham sido detidos pouco tempo após o cometimento do crime, ambos concorreram para subtrair os pertences das vítimas, evadindo-se do local. Em assim sendo, por força da teoria da amotio ou apprehensio, houve a inversão da posse da res furtiva e, consequentemente, a consumação do crime de roubo, sobretudo levando-se em consideração que os acusados acabaram presos em flagrante estando na posse dos bens roubados.
+O entendimento do acórdão recorrido harmoniza-se com a jurisprudência desta Corte, no sentido de que, "A teor da Súmula 582/STJ, tem-se a consumação do crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada" (AgRg no AREsp n. 1.589.938/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/2/2020, DJe de 27/2/2020.). Incidência da Súmula 83/STJ.
+Por fim, tratando-se de réu primário, ausentes circunstâncias judiciais desfavoráveis e mantida a pena definitiva em 6 anos, 2 meses e 20 dias de reclusão, o regime inicial semiaberto decorre da própria literalidade do art. 33, § 2º, b, do CP. Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REVISÃO DO PATAMAR DE REDUÇÃO PELO TRÁFICO PRIVILEGIADO. FUNDAMENTAÇÃO CONCRETA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME PRISIONAL SEMIABERTO. COMANDO DO ART. 33, § 2º, "B", DO CÓDIGO PENAL - CP. SUBSTITUIÇÃO DA PENA. ART. 44, I, DO CP. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Considerando que foi imposta a pena de 04 (quatro) anos e 02 (dois) meses de reclusão, o estabelecimento do regime inicial semiaberto exprime a literalidade do art. 33, § 2º, "b", do CP: "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto"; não havendo falar em ilegalidade.
+ ..  4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.124.392/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/10/2022, DJe de 17/10/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
