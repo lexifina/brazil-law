@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que fixou a competência de Juízo estadual para processar e julgar a demanda originária, na qual se pleiteia o fornecimento de medicamento registrado na Agência Nacional de Vigilância Sanitária - Anvisa, mas não padronizado no Sistema Único de Saúde - SUS.
+Após a concessão de tutela provisória determinando a suspensão do feito principal, noticiou-se o anterior trânsito em julgado da demanda.
+Instada a se manifestar, a parte recorrente do recurso extraordinário não se opôs à homologação da desistência da ação na origem.
+É o relatório.
+Diante da manifestação da parte recorrente, forçoso reconhecer a superveniente ausência de interesse recursal.
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do RISTJ, julgo prejudicado o recurso extraordinário.
+Publique-se. Intimem-se.
