@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do MUNICÍPIO DE SOROCABA, no qual se insurgira contra acórdão proferido pelo TJSP assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO INDIVIDUAL DE SENTENÇA DE AÇÃO COLETIVA - PRESCRIÇÃO - Decisão que acolheu a impugnação municipal - Reforma - O ajuizamento da ação coletiva interrompe a prescrição para o recebimento de valores ou parcelas em atraso - Prescrição deve abranger o quinquídio anterior à propositura da ação coletiva e, não, do cumprimento individual - Inexistência de ações coletiva e individual concomitantes - Impugnação rejeitada - Decisão reformada. Recurso provido.
+Nas razões do seu recurso especial (fls. 40/54), a parte agravante sustenta violação dos arts. 1º e 3º do Decreto 20.910/1932, 524 e 535 do CPC, argumentando, para tanto, o seguinte:
+ ..  embora pacífica a jurisprudência quanto à interrupção da prescrição ante o ajuizamento de ação coletiva, "a referida interrupção prescricional diz respeito somente ao prazo para ajuizamento da ação individual. No que diz respeito às parcelas vencidas, o entendimento é no sentido de que a prescrição quinquenal tem como marco inicial a data do ajuizamento da ação individual" (fl. 46).
+Subsidiariamente, requer que seja dado provimento ao presente recurso com a anulação do acórdão, diante da impossibilidade de homologação dos cálculos conforme as impugnações apresentadas e não apreciadas.
+Contrarrazões não apresentadas, conforme certidão de fl. 59.
+Sobreveio o juízo de admissibilidade negativo (fl. 82), razão pela qual se interpôs o presente agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação merece prosperar.
+Com efeito, o entendimento desta Corte é o de que a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual.
+Nesse sentido, cito os seguintes precedentes:
+RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. REVISÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PRESCRIÇÃO QUINQUENAL A CONTAR DA AÇÃO INDIVIDUAL.
+1. O acórdão recorrido deu provimento à pretensão autoral, fundamentado no entendimento proferido pelo Supremo Tribunal Federal, no julgamento do RE 564.354, ao reconhecer que não ofende o ato jurídico perfeito a aplicação imediata dos arts. 14 da Emenda Constitucional n. 20/1998 e 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto estabelecido antes da vigência dessas normas. Esse fundamento, eminentemente constitucional, impede a análise em recurso especial.
+2. Tratando-se de ação de conhecimento individual e autônoma, em relação à ação civil pública ajuizada pelo Ministério Público Federal - MPF em momento anterior, com mesmo objeto, o termo inicial da prescrição quinquenal é a data da propositura da ação individual. Precedentes.
+4. Recurso especial do INSS parcialmente conhecido e, nessa extensão, provido (REsp 1.748.485/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/12/2018, DJe de 10/12/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO QUINQUENAL DE AÇÃO INDIVIDUAL A CONTAR DO AJUIZAMENTO DA AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE.
+1. Hipótese em que o Tribunal local consignou: "inexiste vício quanto a interrupção da prescrição a partir do ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183, em 05/05/2011, com fixação do termo a quo do prazo prescricional no quinquênio anterior, e não no quinquênio que antecede ao ajuizamento da presente ação. Isto porque a propositura da ação civil pública tem o condão de promover a cessação da inércia, desde que a Autarquia tenha sido devidamente citada" (fl. 207, e-STJ).
+2. O Superior Tribunal de Justiça possui o entendimento de que "a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1642625/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2017, DJe 12/6/2017).
+3. Recurso Especial provido. (REsp 1.722.592/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2018, DJe de 23/11/2018).
+Fica p rejudicado o pedido subsidiário.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de reconhecer a prescrição quinquenal a contar do ajuizamento da ação individual.
+Publique-se. Intimações necessárias.
