@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Matheus Fernandes da Silva Martinelli - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul (Apelação n. 0007963-93.2017.8.12.0021), não comporta processamento.
+Com efeito, busca a impetração a desclassificação da conduta de tráfico de drogas atribuída ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Três Lagoas/MS, para posse de drogas para consumo pessoal, ao argumento de que o paciente possuía a droga para seu consumo pessoal, ao certo que, pelo conjunto probatório constante nos autos, não há nenhuma prova nos autos de que a droga apreendida tivesse destino de comércio. O acusado esclareceu que a quantidade total de droga encontrada no apartamento daria para no máximo 15 dias, visto que não só ele, mas seu pai e alguns primos também consumiam maconha (fl. 8).
+Ocorre que, além de a via eleita ser inadequada para a revisão da condenação imposta e mantida pelas instâncias ordinárias, a quantidade de droga apreendida (210 g de maconha) não é compatível com a condição de usuário, além de que as alegações formuladas na impetração demandam o reexame fático das provas produzidas na instrução criminal, inviável na via estreita do writ.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. VIA ELEITA INADEQUADA. DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA POSSE DESTINADA AO CONSUMO PESSOAL. QUANTIDADE INCOMPATÍVEL COM A CONDIÇÃO DE USUÁRIO (210 G DE MACONHA). ALEGAÇÕES, ADEMAIS, QUE DEMANDAM REEXAME DE PROVAS. INVIABILIDADE N A VIA ELEITA.
+Inicial indeferida liminarmente.
