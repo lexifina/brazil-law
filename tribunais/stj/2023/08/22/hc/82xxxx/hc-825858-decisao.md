@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO BATISTA DA SILVA contra acórdão da 2ª Câmara Criminal do Tribunal de Justiça de Goiás, na Apelação n. 0153115-85, assim ementado:
+Homicídio qualificado. Condenação júri. Pena aplicada: 12 anos de reclusão, regime inicial fechado. Recurso da defesa alegando decisão contrária à prova dos autos e redução da pena aplicada. (1) O acervo probatório colhido nos autos dá suporte à opção dos jurados pela condenação do apelante. (2) Respeitando o limite imposto na primeira condenação, pois está vinculado à regra proibitiva de julgamento in pejus, a pena deve ser redimensionada para 8 anos e 8 meses de reclusão. (3) Recurso conhecido e provido. (e-STJ, fl. 1281)
+Em suas razões, o impetrante alega a irretroatividade da Lei n. 11.596/2007.
+Pugna, liminarmente e no mérito, pela extinção da punibilidade.
+O pedido liminar foi indeferido (e-STJ, fl. 1302).
+Foram prestadas informações (e-STJ, fl. 1307-1309 e 1314-1319).
+O Ministério Público opinou pela concessão da ordem (e-STJ, fls. 1322-1330).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consta nos autos que o paciente foi denunciado como incurso nas sanções do art. 121, § 2º, inciso III, do Código Penal. A denúncia foi recebida em 18/10/2000 e o paciente foi pronunciado em 20/5/2003, tendo sido condenado à pena de 8 anos e 8 meses de reclusão, nos termos da inicial acusatória, em sentença condenatória prolatada em 9/2/2009.
+Declarada a nulidade do processo e novamente submetido a julgamento, o paciente foi condenado, em 9/4/2013, à pena de 5 anos e 6 meses de reclusão pela prática do delito descrito no art. 129, § 3º, do Código Penal.
+Em 12/12/2013, a 2ª Câmara Criminal do Tribunal de Justiça de Goiás anulou novamente o julgamento. Posteriormente, em 15/10/2017, o paciente foi condenado à pena de 13 anos e 6 meses de reclusão. Referido julgamento foi cassado pelo TJ-GO em 3/10/2019. Em 30/9/2022, o paciente foi condenado à 12 anos de reclusão. Em 2/5/2023 a pena foi redimensionada para 8 anos e 8 meses de reclusão, em grau de apelação.
+Quanto às alegações do impetrante, cumpre registrar que a Terceira Seção desta Corte, no julgamento de recurso especial repetitivo, fixou a tese de que " o  acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta." (Tema repetitivo 1100).
+Acerca da irretroatividade da Lei n. 11.896/2007, na mesma ocasião foi firmada a compreensão de que " ..  a interpretação dada ao inciso IV do art. 117 do Código Penal, na redação da Lei n. 11.596/2007 - ou seja, a de que o acórdão que confirma a sentença condenatória sempre interrompe a prescrição -, somente se aplica aos crimes praticados após a alteração legislativa. Sendo anterior o delito, aplica-se o entendimento vigente à época, a saber, o marco interruptivo da prescrição é apenas a sentença condenatória recorrível".
+Na espécie, o crime foi cometido no dia 1º/1/2000 (e-STJ fl. 13), bem antes da entrada em vigor da Lei n. 11.596/2007, de modo que o último marco interruptivo a ser considerado é a sentença condenatória.
+Esclarecidas essas premissas, passo à análise da pretensão de extinção da punibilidade do réu pela prescrição.
+Conforme a dicção do art. 117 do Código Penal, a pronúncia (II) e a publicação da sentença condenatória (IV) são causas interruptivas da prescrição.
+In casu, a denúncia, como dito, foi recebida em 18/10/2000 e o paciente foi pronunciado em 20/5/2003.
+Conforme explicitado, o processo foi anulado reiteradas vezes pelo Tribunal de Justiça de Goiás, razão pela qual a sentença condenatória definitiva foi proferida somente em 30/9/2022 (e-STJ fl. 1.316), na qual foi imposta ao réu a pena de 12 anos de reclusão.
+Em grau de apelação, o Tribunal de Justiça redimensionou a pena do paciente para 8 anos e 8 meses de reclusão. Não obstante a redução da pena, o prazo prescricional permaneceu em 16 anos, nos termos do art. 109, inciso II, do Código Penal.
+Considerando os marcos interruptivos acima referidos, observa-se que foi ultrapassado o prazo de 16 anos entre a pronúncia e a sentença condenatória.
+Nesse contexto, imperioso o reconhecimento da prescrição da pretensão punitiva estatal do ora paciente, nos autos da Ação Penal n. 153115.85.2000.8.09.0011, nos termos dos arts. 109, inciso II, 117, incisos II e IV, ambos do Código Penal.
+Diante do exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para declarar a extinção da punibilidade do paciente, nos autos da Ação Penal n. 153115.85.2000.8.09.0011, pelo advento da prescrição.
+Publique-se. Intime-se.
