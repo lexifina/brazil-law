@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MOHAMED ALI KHALIL e SAFAA SALAH EL KHATIB KHALIL à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 503, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PEDIDO DE GRATUIDADE DE JUSTIÇA INDEFERIDO NA ORIGEM. CUSTAS E PREPARO NÃO RECOLHIDOS, APESAR DE INTIMAÇÃO. DESERÇÃO CONFIGURADA. APELAÇÃO NÃO CONHECIDA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO DO ESTADO DE HIPOSSUFICIÊNCIA ECONÔMICA. REEXAME DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO ACERCA DO PREENCHIMENTO DOS REQUISITOS PARA CONCESSÃO DA BENESSE PLEITEADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (fls. 510-515, e-STJ), sustentam os embargantes a existência de omissão na decisão embargada, por ausência de fixação dos honorários recursais, em razão de o recurso da parte adversa ter sido desprovido, nos termos do art. 85, § 11, do CPC/2015.
+Sem impugnação, conforme certificado à fl. 520 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo apenas cabíveis quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, sejam detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, quando a correção dos vícios constatados forem aptos a modificar, de algum modo, o decisum prolatado.
+Na hipótese dos autos, os insurgentes alegam a existência de omissão por não terem sido arbitrados honorários sucumbenciais no julgamento do agravo em recurso especial, no qual a parte adversa teve seu recurso desprovido.
+Acerca do tema, a jurisprudência jurisprudência desta Corte é no sentido do cabimento dos honorários recursais de sucumbência quando presentes as seguintes situações: decisão recorrida publicada a partir de 18.3.2016, momento em que entrou em vigor o novo Código de Processo Civil; recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+A propósito, confira-se:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. SERVIDORES PÚBLICOS. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS DECLARATÓRIOS ACOLHIDOS.
+1. O objeto do recurso especial não é a majoração da verba honorária, mas sim a fixação dos honorários recursais nos termos do §11 do art. 85 do
+CPC/2015.
+2. O Superior Tribunal de Justiça consagrou o entendimento de que apenas é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18.3.2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e (c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso (AgInt nos EDcl no AREsp 1303109/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 1º/3/2021, DJe 11/3/2021; EDcl no AREsp 1545645/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/10/2020, DJe 25/11/2020).
+3. Acolhem-se os embargos das partes, com determinação de baixa dos autos à origem para que seja fixada a verba honorária recursal de acordo com o art. 85, § 11, do CPC/2015.
+(EDcl no AgInt no AREsp n. 1.594.671/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+In casu, o recurso interposto perante o Superior Tribunal de Justiça é regido pelo CPC/2015, pois impugna acórdão publicado em 6/10/2022 (fl. 428, e-STJ) e o recurso especial da parte ora embargada não foi conhecido, devendo ser aplicado o referido dispositivo legal.
+Além disso, há nos autos a informação de que houve condenação, na origem, ao pagamento de honorários advocatícios (fl. 256 ).
+Presentes, portanto, os requisitos para a majoração da verba.
+Dessa forma, com razão os embargantes, pois houve o desprovimento do recurso da parte adversa, contudo, sem arbitramento de honorários recursais, conforme determina o art. 85, § 11, do CPC/2015.
+Diante do exposto, acolho os embargos de declaração para sanar a omissão apontada, determinando, nos termos do art. 85, § 11, do CPC/2015, a majoração dos honorários em favor dos advogados dos recorridos, ora embargantes, em 2% sobre o valor da causa.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. ART. 85, § 11, DO CPC/2015. EMBARGOS ACOLHIDOS.
