@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FONTANELLA LOGÍSTICA & TRANSPORTE LTDA. e OUTROS, com base nas alíneas "a" e "c" do permissivo constitucional, mediante o qual se impugna acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 90):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. FALTA DE ANÁLISE DA PLAUSIBILIDADE DO DIREITO INVOCADO.
+Para que os Embargos à Execução Fiscal sejam recebidos com efeito suspensivo, a execução deve estar integralmente garantida e o juiz verificar a presença de fundamentos que autorize a concessão da tutela provisória, nos termos do art. 919, §1º, do CPC, aplicado às execuções fiscais, conforme decidiu o STJ no RESP 1.272.727/PE, representativo de controvérsia.
+Na hipótese, embora a garantia apresentada seja suficiente para garantir a dívida, a decisão agravada não se manifestou sobre os requisitos necessários para a concessão da tutela provisória, nos termos do art. 919, do CPC, não demonstrando o perigo de dano e o risco ao resultado útil do processo. Faz-se necessária, portanto, a análise, pelo juízo de primeiro grau, dos elementos fáticos e jurídicos que demonstrem a plausibilidade do direito invocado pelo embargante.
+Embargos de declaração rejeitados (e-STJ fl. 124/127).
+Em seu recurso especial, a parte indica a existência de dissenso pretoriano e violação dos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, do CPC/2015.
+Aduz, em síntese, que, "ao contrário do entendimento exteriorizado no v. acórdão recorrido, verifica-se que a análise feita pelo MM. Juiz de primeira instância deu forma atenta e acurada no que se refere aos requisitos exigidos para a concessão de efeito suspensivo, uma vez que o mesmo (sic) se pronunciou expressamente acerca do tema, reconhecendo como presentes todos os requisitos elencados pelas Recorrentes ao deferimento de sua concessão pormenorizadamente elencados em sua petição inicial, (..)" (e-STJ fl. 155).
+Impugnação às e-STJ fls. 186/196.
+Recurso especial admitido (e-STJ fls. 199/200).
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento interposto contra decisão interlocutória que, em sede de execução fiscal, deferiu o pedido de suspensão do curso da execução fiscal.
+Agravo de instrumento provido, para anular a decisão de primeira instância, ao argumento de que não teria havido análise pelo juízo da execução do requisito da urgência na concessão da medida.
+A irresignação não merece prosperar.
+Cinge-se a controvérsia recursal a determinar se a decisão atacada por agravo de instrumento estaria, ou não, devidamente fundamentada.
+Assim restou lançado, no que interessa, o voto condutor do acórdão recorrido (e-STJ fls. 92/93):
+Para que os Embargos à Execução Fiscal sejam recebidos com efeito suspensivo, a execução deve estar integralmente garantida e o juiz verificara presença de fundamentos que autorize a concessão da tutela provisória, nos termos do art. 919, §1º, do CPC, aplicado às execuções fiscais, conforme decidiu o STJ no RESP 1.272.727/PE, representativo de controvérsia.
+Na hipótese, embora a garantia apresentada seja suficiente para garantir a dívida, a decisão agravada não se manifestou sobre os requisitos necessários para a concessão da tutela provisória, nos termos do art. 919, do CPC, não demonstrando o perigo de dano e o risco ao resultado útil do processo.
+Faz-se necessária, portanto, a análise, pelo juízo de primeiro grau, dos elementos fáticos e jurídicos que demonstrem a plausibilidade do direito invocado pelo embargante.
+Já a referida decisão de primeira instância, alvo do agravo de instrumento, foi assim plasmada, conforme reprodução feita pela própria parte recorrente (e-STJ fls. 149/150):
+"Em garantia do juízo, havia um conjunto de bens penhorados que somados representavam o valor de R$35.573.749,85 (trinta e cinco milhões, quinhentos e setenta e três mil setecentos e quarenta e nove reais e oitenta e cinco centavos). Os embargos foram suspensos até a avaliação do imóvel penhorado de matrícula nº 42.639, do 2º CRI de Rio Claro/SP.
+Devidamente cumprida a carta precatória expedida nos autos da execução, o imóvel em questão foi avaliado em 29.675.000,00 (Vinte e nove milhões e seiscentos e setenta e cinco mil reais), conforme consta no processo 5000487-26.2021.4.04.7201/SC, evento 166, PRECATORIA5 (fl. 416 -pg. 216).
+Assim, a execução fiscal está integralmente garantida, perfazendo o valor total de R$ 65.248.749,85 (processo 5000487-26.2021.4.04.7201/SC, evento 12, SISBAJUD1, processo 5000487-26.2021.4.04.7201/SC, evento 101, OFIC1, processo 5000487-26.2021.4.04.7201/SC, evento 151, AUTOPENHORADEPOSIT2 e processo 5000487-26.2021.4.04.7201/SC, evento 166, PRECATORIA5).
+Não bastasse isso, para o efeito suspensivo é imprescindível a demonstração dos requisitos para a concessão da tutela provisória (art. 919, §1º, do CPC), bem como requerimento para tal fim.
+In casu, o(a) embargante requereu efeito suspensivo aos presentes embargos e discorreu acerca do atendimento dos requisitos necessários para a concessão da tutela provisória, nos termos do art. 919, do CPC, demonstrando o perigo de dano e o risco ao resultado útil do processo.
+Assim, RECEBO os presentes embargos com atribuição de efeito suspensivo." (grifei).
+Conforme se observa, o juízo da execução limitou-se a afirmar que o "embargante requereu efeito suspensivo aos presentes embargos e discorreu acerca do atendimento dos requisitos necessários para a concessão da tutela provisória, nos termos do art. 919, do CPC, demonstrando o perigo de dano e o risco ao resultado útil do processo" (e-STJ fl. 150). No entanto, descurou de indicar, minimamente, quais fatos específicos apoiariam a necessidade da concessão urgente da medida, de modo a caracterizar o necessário perigo de dano e o risco iminente ao resultado útil do processo.
+Vale dizer que a indicação específica desses elementos de prova, ainda que sucinta, é absolutamente imprescindível, sob pena de m acular a lisura formal da decisão, por falta de fundamentação.
+Nesse diapasão:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. OMISSÃO NÃO CARACTERIZADA. ARTIGOS 17, §§ 7º, 8º E 9º, DA LEI N. 8.429/1992. RECEBIMENTO DA INICIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE.
+1. Constado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação dos artigos 458, inciso II, e 535 do CPC.
+2. A jurisprudência desta Corte é no sentido de que "o exame das questões aduzidas no contraditório preliminar, que antecede o recebimento da petição inicial da ação civil de improbidade (§§ 8º e 9º do art. 17), assume relevância ímpar, à medida em que o magistrado, convencido da inexistência do ato de improbidade, da improcedência da ação ou da inadequação da via eleita, pode, inclusive, rejeitar a ação (§ 8º, art. 17), ensejando a extinção do processo." (REsp 901.049/MG, Rel. Min. Luiz Fux, Primeira Turma, DJe 18/02/2009).
+3. No caso, verifica-se a nulidade da decisão que recebeu a inicial da ação civil pública, tendo em vista a total ausência de fundamentação, na medida em que limitou-se a dizer "de acordo com os documentos, recebo a inicial, cite-se", deixando de apreciar, ainda que sucintamente, os argumentos aduzidos pelo ora recorrente em sua defesa prévia.
+4. Agravo regimental provido.
+(AgRg no REsp 1.423.599/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/05/2014, DJe de 16/05/2014).
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Sem honorários recursais sucumbenciais, pois se cuida, na origem, de agravo de instrumento.
+Publique-se. Intimem-se.
