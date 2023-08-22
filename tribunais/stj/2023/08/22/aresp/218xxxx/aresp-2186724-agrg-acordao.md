@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SAMUEL SILVA PEREIRA JÚNIOR contra a decisão de fls. 826-830, que conheceu do agravo para não conhecer do recurso especial.
+Consta dos autos que o Agravante foi condenado à pena de 3 (três) anos de reclusão, em regime aberto, mais o pagamento de 10 (dez) dias-multa, pela prática do crime previsto no art. 180, § 1.º, do Código Penal. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 596-604).
+Os embargos de declaração opostos foram rejeitados (fls. 631-634).
+Nas razões do recurso especial, o Recorrente alega ofensa aos arts. 171, § 5.º, do Código Penal e 564, inciso III, alínea a, do Código de Processo Penal, "tendo em vista que o avanço legislativo introduzido pela Lei 13.964/2019, de exigir representação para o início da Ação Penal do crime de estelionato, deve se aplicar aos demais crimes patrimoniais que não envolvam violência ou grave ameaça, hipótese dos autos" (fl. 695).
+Sustenta contrariedade aos arts. 180, § 1.º, do Código Penal e 386, inciso VII, do Código de Processo Penal, pois "é inadmissível dar valor às falas de UMA testemunha em detrimento aos depoimentos de outras SEIS pessoas, os quais são uníssonos em apontar que o recorrente (i) sempre trabalhou em sua fazenda e (ii) não é comerciante de veículos" (fl. 707).
+Argumenta que a Corte de origem "esqueceu que o crime de receptação qualificada exige prova firme da condição de comerciante do acusado. Ou seja, é imprescindível a demonstração de que o réu pratica reiterados atos de compra e venda de produtos de procedência ilícita no exercício de atividade comercial, o que não ocorreu in casu" (fl. 695).
+Aduz que "o acórdão recorrido não conseguiu apontar provas firmes, suficientes e hábeis para um decreto condenatório" (fl. 705).
+Foram apresentadas contrarrazões (fls. 745-749). Inadmitido o recurso especial (fls. 758-760), interpôs-se o presente agravo (fls. 767-782), contraminutado às fls. 800-802.
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo (fls. 821-824).
+A decisão de fls. 826-830 conheceu do agravo para não conhecer do recurso especial.
+Neste agravo regimental, a Defesa se insurge contra a aplicação das Súmulas n. 283 do Supremo Tribunal Federal e n. 7 desta Corte Superior.
+Aduz que "a regra do art. 100 do Código Penal foi devidamente confrontada por Samuel" (fl. 837).
+Afirma que a análise das teses defensivas "depende, unicamente, de revaloração jurídica e leitura das peças processuais, o que não esbarra na Súmula 07 do c. STJ" (fl. 838).
+Requer a remessa dos autos para a apreciação da Sexta Turma. Caso mantida a decisão impugnada, pugna pela concessão de habeas corpus de ofício.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. RECEPTAÇÃO QUALIFICADA. NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. SÚMULA N. 283/STF. PLEITO ABSOLUTÓRIO OU DE EXCLUSÃO DA QUALIFICADORA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente a impugnação de todos os fundamentos do acórdão proferido pelo Tribunal de origem, no que diz respeito à alegada necessidade de representação para o início da ação penal, tem aplicação a Súmula n. 283 do Supremo Tribunal Federal.
+2. A Corte de origem reconheceu, a partir do exame aprofundado de todo o conjunto fático-probatório dos autos, a existência de provas suficientes para a condenação do Recorrente pela prática do crime de receptação qualificada. Para se acolher o pleito absolutório ou de afastamento da qualificadora do art. 180, § 1.º, do Código Penal, seria necessário o revolvimento fático-probatório, o que é incabível nessa via, nos termos da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação não prospera.
+Em relação à alegação de que seria necessária a representação para o início da ação penal do crime de receptação, reitero que, nas razões recursais, o Recorrente não impugnou, especificamente, o seguinte fundamento apresentado pelo Tribunal de origem para afastar o pleito defensivo: "A adoção do entendimento sustentado pelo 1º apelante viola expressa disposição de lei, pois a ação penal somente deixa de ser pública incondicionada diante de expressa disposição legal em sentido contrário (CP, artigo 100), o que não é o caso do crime de receptação" (fl. 598; sem grifos no original). Incide, nesse ponto, o disposto na Súmula n. 283 do Supremo Tribunal Federal.
+De outra parte, o Tribunal de origem manteve a condenação do Agravante nos seguintes termos (fls. 600-603; grifos diversos do original):
+"Quanto à autoria, o indivíduo flagrado com o veículo revelou tê-lo adquirido do codenunciado O. dos R. (fl. 25/26 e 209), e este, por sua vez, apontou R.M.L. como sendo o responsável pela venda, sabendo apenas se tratar do proprietário de um supermercado em Itutinga/MG (fI. 24). De posse dessa informação, a Polícia Civil identificou R.M.L. (2 1 apelante), que admitiu a aquisição do bem junto ao codenunciado S.S.P.J. (fI. 36136v e 31 5/31 5v), embora tenha alegado boa-fé.
+Nos crimes de receptação, o elemento subjetivo do tipo pode ser extraído de evidências circundantes, já que é impossível adentrar intelecto do agente. Sob tal enfoque, geralmente, a análise do modo de agir do indivíduo permite aferir se ele tinha conhecimento da procedência criminosa do bem adquirido.
+No caso, é bastante sugestiva a postura do apelante de adquirir o veículo sem ter interesse de conferir se a placa correspondia à numeração correta do chassi.
+Da simples consulta dos dados da placa GYQ-2799, junto ao sistema do DETRAN, extrai-se a informação de que ela correspondia a um veículo de chassi nº 9BD27807032390372 (fI. 11 e 32), ao passo que o chassi da caminhonete em questão era 91BD27807032368902, conforme consta no laudo de vistoria.
+O mesmo descompasso seria rapidamente identificado se R.M.L. realizasse a pesquisa do RENAVAM, pois o número 811078531, mencionado no CRLV entregue na negociação (fl. 12) está vinculado, segundo o próprio sistema do DETRAN, ao chassi 9BD27807032390372, que não é o do veículo objeto da apontada compra e venda.
+Além disso, o ambiente de informalidade da negociação contrasta com a alegada boa-fé.
+R.M.L. sugeriu que não se preocupou em aferir a fundo a procedência do bem, porque não sabia de fatos desabonadores do vendedor S.S.P.J. e porque "já conhecia  S.S.P.J  há quinze anos, conhecendo inclusive a família do mesmo" (fI. 315).
+No entanto, ele mesmo tratou de se contradizer, pois mencionou que "consultou antes a situação do veículo e não havia qualquer ônus ou impedimento" ( fl. 315v). Todavia, se realmente tivesse feito tal consulta, seja pela placa, seja pelo RENAVAN, saberia que a numeração do chassi não correspondia àquela do veículo que estava recebendo do vendedor, como visto ut supra.
+Além disso, não condiz com a alegada "boa-fé" o fato de não ter se interessado em obter o documento de transferência com S.S.P.J. ou sequer exigir recibo do valor "em torno de R$ 17.000,00" (fI. 36), supostamente entregue, em espécie, no ato de aquisição do bem (fl. 42).
+ ..
+Por sua vez, S.S.P.J. negou a autoria delitiva e disse ter sido gratuitamente incriminado por R.M. L., de quem é "inimigo declarado" e com quem nunca negociou a compra e venda de veículos (fl. 39140).
+De fato, há sinais de desavença entre ambos, conforme por R.M.L. no termo de acareação: "que começou a desavença depois de problemas envolvendo o irmão do declarante de nome Ronaldo e a esposa Renisa, a qual é irmã de Samuel" (fl. 43).
+Mas, além de não ser possível aferir se a desavença se iniciou após o presente crime, nada evidencia que isso levaria R.M.L. a improvisar uma falsa acusação contra S.S.P.J., ao ser confrontado pela Polícia Civil sobre a origem da caminhonete. Obviamente, R.M.L. poderia alegar os mais diversos fatos em sua autodefesa, mas a "estratégia" de delatar um desafeto seria ilógica, pois, certamente, o indivíduo não confirmaria seu álibi, o que, antes de beneficiá-lo, apenas o prejudicaria.
+Além disso, ao contrário do que o 1º apelante tenta convencer, a delação não está isolada nos autos.
+Primeiro, porque a testemunha Hugo Tavares Brigo confirmou que, anteriormente, R.M.L. já havia lhe contado que havia comprado caminhonetes de S.S.P.J. (fI. 83).
+Segundo, porque a testemunha Antônio Gabriel Andrade confirmou que o 1º apelante "tem o costume de comprar e vender carro em Itutinga;  S.S.P.J  tem o costume de trocar bastante de carro.." (fl. 263), o que, inclusive, confirma a habitualidade exigida para a incidência da modalidade qualificada da receptação, ainda que, aparentemente, esse fato não fosse de conhecimento geral, pois outras testemunhas não souberam relatá-lo, dizendo que ele apenas trabalhava com fazenda e venda de gado (fI. 236, 264, 265, 266, 267 e 268).
+Terceiro, porque, apesar de S.S.P.J. ser penalmente primário (fl. 90), policiais ouvidos nos autos confirmam que R.M.L. e S.S.P.J. já são conhecidos no meio policial, sendo que ambos já vinham sendo investigados por receptação de veículos e furto de gado (fl. 187 e 188).
+Nessa ordem de ideias, é irrelevante que os compradores subsequentes do veículo Fiat/Strada não tenham mencionado o nome de S.S.P.J., pois, na cadeia de negociação do bem, eles relataram apenas aqueles atos posteriores à venda de R.M.L. para O. dos R. e não os atos anteriores.
+Assim, sob todos os ângulos, a r. sentença fustigada não merece censura, havendo, a meu ver, certeza jurídica quanto ao cometimento do delito e sua respectiva autoria."
+Como se vê, a Corte de origem reconheceu, a partir do exame aprofundado de todo o conjunto fático-probatório dos autos, a existência de provas suficientes para a condenação do Recorrente pela prática do crime de receptação qualificada (destacou, em especial, o depoimento prestado por R. M. L., bem como assinalou que ele foi corroborado pelos testemunhos de outras pessoas - Hugo Tavares e Antônio Gabriel).
+Assim, reafirmo que, para se acolher o pleito absolutório ou de afastamento da qualificadora do art. 180, § 1.º, do Código Penal, seria necessário o revolvimento fático-probatório, o que é incabível nessa via, nos termos da Súmula n. 7/STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME FECHADO. FUNDAMENTADO. GRAVIDADE CONCRETA DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da alegada violação dos dispositivos infraconstitucionais aduzidos pelo agravante, para decidir pela desclassificação do delito de receptação qualificada, demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental não provido." (AgRg no AREsp n. 1.960.736/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. VIOLAÇÃO AO ART. 619 DO CPP. INOCORRÊNCIA. DOLO EVENTUAL. RECONHECIDO PELO TRIBUNAL DE ORIGEM. DESCONSTITUIÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+ ..
+III - Observa-se que a pretensão do recorrente, em desclassificar a receptação para a modalidade simples enseja, necessariamente, o reexame do conjunto fático-probatório, vedado na via eleita ante o óbice da Súmula 7/STJ.
+Agravo regimental desprovido." (AgRg no AREsp n. 2.065.014/MG, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA (ART. 180, § 1º, DO CP). VIOLAÇÃO AO ART. 619 DO CPP. NÃO OCORRÊNCIA. PEDIDO DE ABSOLVIÇÃO OU, SUCESSIVAMENTE, DE DESCLASSIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+ ..
+2. A Corte de origem decidiu, a partir dos elementos de prova carreados aos autos originários, que os agravantes tinham ciência da origem ilícita dos animais que receberam em seu estabelecimento comercial (frigorífico) para abate. O pleito de absolvição ou desclassificação do crime demandaria o reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial.
+ ..
+5. Agravo regimental desprovido." (AgRg no AREsp n. 1.239.066/RS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/4/2021, DJe de 27/4/2021; sem grifos no original.)
+Outrossim, cabe registrar a impossibilidade de acolhimento do pleito de concessão de habeas corpus, de ofício, já que não se presta como meio para que o Recorrente suplante requisitos de admissibilidade recursal.
+Desse modo, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PR OVIMENTO ao agravo regimental.
+É o voto.
