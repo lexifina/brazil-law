@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O julgado deu provimento em parte ao recurso de agravo de instrumento do recorrente nos termos da seguinte ementa (fls. 165-166):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA RURAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL PROVISÓRIO DE SENTENÇA COLETIVA DE AÇÃO CIVIL PÚBLICA.
+- NÃO CONHECIMENTO PARCIAL DO RECURSO. Inviável o conhecimento das alegações referentes à existência de litisconsórcio passivo com a União e o Banco Central, necessidade de chamamento ao processo desses entes e incompetência absoluta da Justiça Estadual para processar o cumprimento de sentença, pois as referidas preliminares foram afastadas por decisão proferida pelo magistrado de primeiro grau, da qual o banco interpôs o Agravo de Instrumento nº 70080045271,que restou desprovido, estando pendente de julgamento o Recurso Especial nº1.818.465-RS. Recurso não conhecido, nos pontos.
+- EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA. Não cabe a extinção e sequer a suspensão do presente cumprimento individual provisório de sentença coletiva da Ação Civil Pública nº 0008465-28.1994.4.01.3400-DF, haja vista que o STF, por maioria de votos, negou provimento ao Recurso Extraordinário nº 1.101.937-SP (Tema 1075) em 08.04.2021, restando revogada a decisão proferida pela Vice-Presidência do STJ, que havia atribuído efeito suspensivo ao Recurso Extraordinário interposto pelo Banco do Brasil S. A. em face do REsp 1.319.232-DF,até o julgamento do RE 1.101.937-SP. Afastada a preliminar.
+-LIQUIDAÇÃO DE SENTENÇA. Desnecessária a liquidação de sentença por artigos ou arbitramento, pois o valor da condenação pode ser apurado por meio de cálculo aritmético, na forma do art. 509, § 2º, do CPC. Rejeitada a preliminar.
+- ATUALIZAÇÃO MONETÁRIA. O título judicial em cumprimento, referiu que devem ser "corrigidos monetariamente os valores a contar do pagamento a maior pelos índices aplicáveis aos débitos judiciais ..". Assim, tratando-se de cumprimento provisório de sentença coletiva promovido na Justiça Estadual, deve incidir o IGP-M Foro, índice que melhor reflete a desvalorização da moeda. Recurso parcialmente provido, no ponto.
+- PERCENTUAIS DOS JUROS DE MORA. Os juros de mora devem incidir no percentual de 0,5% ao mês durante a vigência do CC/1916 e no percentual de 1% ao mês a partir da vigência do atual Código Civil, não sendo aplicável ao caso o art. 1º-F da Lei nº 9.494/97, que versa sobre a taxa de juros de mora em condenações impostas à Fazenda Pública, ressalvada a eventual adequação desses índices quando a execução se tornar definitiva, se houver sua modificação pelo STF, em sede de Recurso Extraordinário, do que definido no REsp nº 1.319.232-DF. Recurso desprovido, no ponto.
+- PREQUESTIONAMENTO. O prequestionamento de normas constitucionais e infraconstitucionais fica implicitamente atendido nas razões de decidir do acórdão, dispensando manifestação individual acerca de cada dispositivo legal suscitado.
+AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E, NESSAEXTENSÃO, PARCIALMENTE PROVIDO, AFASTADAS ASPRELIMINARES. UNÂNIME.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega que o acórdão estadual contrariou as disposições contidas nos seguintes artigos:
+a) 114 do CPC - litisconsórcio passivo necessário entre Banco do Brasil, União e Banco Central do Brasil - chamamento ao processo;
+b) 516, I e II do CPC - competência exclusiva da Justiça Federal para processar e julgar as ações de liquidação e cumprimento individual de sentença coletiva;
+c) 45 do CPC - interesse da União - necessidade de remessa dos autos à Justiça Federal;
+d) 509, § 4º do CPC - inaplicabilidade dos juros remuneratórios;
+509, II - necessidade de liquidação;
+Apresentadas as contrarrazões (fls. 228-250), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 253-257).
+É, no essencial, o relatório.
+O recurso especial não merece prosperar.
+Cuida-se, na origem, de impugnação ao cumprimento individual provisório de sentença coletiva de ação civil pública em que se discute a restituição das diferenças resultantes da aplicação de índice incorreto ao saldo devedor relativo à Cédula de Crédito Rural, referente ao período do plano Collor I (no mês de março de 1990).
+Inicialmente, quanto às alegações referentes à existência de litisconsórcio passivo com a União e o Banco Central, necessidade de chamamento ao processo desses entes e incompetência absoluta da Justiça estadual, o presente recurso não merece conhecimento.
+Nos termos da jurisprudência desta corte, "não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF" (AgInt no AREsp n. 884.057/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+No caso dos autos, o Tribunal de origem deixou de se manifestar sob as alegações do recorrente por estarem sendo analisadas em outro processo (fl. 159):
+Inviável o conhecimento das alegações referentes à existência de litisconsórcio passivo com a União e o Banco Central, necessidade de chamamento ao processo desses entese incompetência absoluta da Justiça Estadual para processar o cumprimento de sentença, pois as referidas preliminares foram afastadas por decisão proferida pelo magistrado de primeiro grau(evento 2, DESP17), da qual o banco interpôs o Agravo de Instrumento nº 70080045271, que restou desprovido, estando a questão ainda pendente de julgamento no Recurso Especial nº 1.818.465-RS. Recurso não conhecido, nos pontos.
+Contudo, o ora recorrente não rebateu tal fundamento, limitando-se a repetir as razões do agravo de instrumento. Logo, incide a Súmula n. 283/STF.
+Quanto à alegação de necessidade de prévia liquidação de sentença, observa-se que não há interesse proce ssual porquanto já houve prévia liquidação - Agravo de Instrumento n. 70080045123 (CNJ: 0369724-81.2018.8.21.7000).
+A propósito, a ementa do referido julgado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA RURAL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA DE AÇÃO CIVIL PÚBLICA. PERÍCIA. DESNECESSIDADE.
+Desnecessária a produção de prova pericial neste caso, pois a apuração do quantum debeatur pode ser feita por simples cálculo aritmético, na forma do art. 509, § 2º, do CPC.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Ressalta-se que contra o referido acórdão houve interposição de recurso especial que foi inadmitido na origem, ocasionando a interposição do AREsp n. 1.543.826/RS, que não foi conhecido com trânsito em julgado certificado em 2/12/2019.
+Por fim, quanto aos juros de mora e remuneratórios, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica quais dispositivos de leis federais foram contrariados pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula n. 284/STF.
+Ademais, o Tribunal de origem nem sequer se manifestou acerca dos juros remuneratórios, o que acarreta o não conhecimento do recurso também pela incidência da Súmula n. 211 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
