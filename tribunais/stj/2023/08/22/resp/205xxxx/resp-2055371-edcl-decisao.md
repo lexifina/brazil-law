@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NEWTON GERALDO MACHADO à decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fls. 953-958):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ARBITRAMENTO POR APRECIAÇÃO EQUITATIVA PELO ART. 85, § 8º, DO CPC/2015, EM CASO DE ELEVADO VALOR DA CAUSA. DESCABIMENTO. APLICAÇÃO DA REGRA GERAL DO ART. 85, § 2º, DO CPC/2015. REFORMA DO ACÓRDÃO QUE SE IMPÕE. RECURSO ESPECIAL DE NEWTON GERALDO MACHADO PROVIDO.
+Em suas razões (e-STJ, fls. 963-965), o embargante aduz haver omissão na decisão embargada, argumentando, em resumo, que, diante do estabelecimento da verba honorária em 10% (dez por cento) sobre o valor atualizado da causa, não houve a inclusão dos honorários recursais fixados por ocasião do julgamento da apelação pelo TJMG, bem como no âmbito do recurso especial.
+Não houve impugnação.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Precedentes.
+3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.825.577/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2021, DJe 26/8/2021.)
+No caso em estudo, o recurso especial interposto pelo ora embargante foi conhecido e provido, nos termos da decisão de fls. 953-958 (e-STJ), a fim de, reformando o acórdão recorrido, afastar a adoção do critério de equidade no arbitramento da verba honorária e estabelecer os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa, nos limites § 2º do art. 85 do CPC/2015.
+De acordo com princípio da substitutividade dos recursos, previsto no art. 1.008 do novo CPC/2015, o julgamento proferido pelo Tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
+Ilustrativamente:
+RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE ACORDO. DESCUMPRIMENTO. CRÉDITO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA DE MARCA DETERMINADA PELO STJ. EFEITO SUBSTITUTIVO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.008 DO CPC/15. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Execução proposta em 15/4/2008. Recurso especial interposto em 22/10/2019. Autos encaminhados à Relatora em 19/10/2020.
+2. O propósito recursal consiste em definir se o aresto que deu provimento a recurso especial interposto contra acórdão que havia mantido decisão indeferitória de pedido de penhora de marca possui como efeito o cancelamento de prévia anotação administrativa de levantamento da constrição.
+3. Conforme estabelecido na norma veiculada pelo art. 1.008 do CPC/15, o julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
+4. No particular, a pretensão que constitui o objeto do presente recurso especial - cancelamento de anotação de levantamento de penhora - somente foi deduzida quando do retorno dos autos ao juízo de origem, após o julgamento do REsp 1.761.023/SP, onde se reconheceu a possibilidade de constrição da marca. Desse modo, tal cancelamento não pode ser considerado efeito automático decorrente do julgamento do recurso precitado.
+5. Ademais, a eficácia substitutiva dos acórdãos proferidos pelo STJ, que reconhecem a ocorrência de erro de julgamento (error in judicando), não tem o condão de repristinar a decisão do juízo de primeiro grau. A decisão originária somente volta a vigorar quando aquela que a reformou é invalidada (error in procedendo) pelo acórdão posterior.
+6. A divergência jurisprudencial deve ser comprovada mediante o cotejo analíticos entre acórdãos que tenham versado sobre situações fáticas idênticas, circunstância não verificada no particular.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(REsp 1.913.033/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 25/6/2021)
+No caso em estudo, o provimento o recurso especial, que alterou o critério de fixação da honorários advocatícios de sucumbência, operou efeito substitutivo, sobrepondo-se ao acórdão proferido pelo Tribunal de origem naqueles pontos objeto de impugnação, não havendo, por conseguinte, falar em inclusão de honorários recursais devidos e reconhecidos por aquela Corte.
+Outrossim, em relação ao arbitramento dos honorários recursais no âmbito do recurso especial (art. 85, § 11, do CPC/2015), a irresignação não merece prosperar.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, relator Ministro Antônio Carlos Ferreira, Segunda Seção, julgado 9/8/2017, DJe 19/10/2017 - sem grifo no original).
+Desse modo, afigura-se descabida a majoração da verba honorária em favor do advogado da parte ora embargante, uma vez que não foram preenchidos os requisitos cumulativos fixados no precedente acima mencionado, porquanto, conforme enfatizado, o recurso especial foi provido.
+Nessas circunstâncias, são inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015, porque não há omissão a ser desfeita no julgamento monocrático, mas apenas a pretensão de rejulgamento da causa em razão do inconformismo da parte com o resultado, o que torna inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
