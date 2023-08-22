@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por ABC SECURITIZADORA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 566):
+Duplicata. Ação declaratória. Cancelamento da relação subjacente, com a devolução das mercadorias. Cessão. Inexistência de comprovação sobre aceite do título. Sujeição da corré ABC Securitizadora às exceções pessoais ligadas à relação jurídica subjacente. Necessidade de ressalva dos direitos cambiais da corré ABC Securitizadora em relação à cedente da cártula. Ação procedente em parte. Recurso parcialmente provido.
+Embargos de declaração rejeitados (fls. 588-593).
+No recurso especial, alega a recorrente, preliminarmente, ofensa ao art. 1.022, incisos I, II, e III, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido. Aduz que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Alega, ainda, afronta aos arts. 7º, 13, 15, II, da Lei n. 5.474/1968 e 293 do Código Civil, ao defender a exigibilidade da duplicata em questão, porquanto, ultrapassado o prazo legal de dez dias, está preclusa a oportunidade de devolução da duplicata e, com o protesto formalizado e a prova do recebimento da mercadoria, é devida a cobrança da duplicata. Aduz que a Corte de origem entendeu que seria viável a recusa de aceite extemporânea, que foram cumpridos os três requisitos para a cobrança da duplicata e que o protesto é válido e eficaz.
+Suscita, outrossim, divergência jurisprudencial.
+Contrarrazões ao recurso especial (fls. 658-667).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 674-677), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo (fl. 694).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das demais alegações da recorrente, considerando que a Corte de origem, ao entender pela inexigibilidade do título que não poderia ter sido levado a protesto, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 573-574):
+Restou demonstrado nos autos que a duplicata em questão não poderia ter sido enviada a protesto, ante o cancelamento da transação que lhe deu origem.
+A nota de devolução dos produtos está datada de 02/04/2018 (fl. 21), ao passo que o título foi protocolado junto ao cartório de protestos em 18/04/2018 (fl. 17), com data limite para pagamento em 24/04/2018.
+Conforme documento de fls. 17, constata-se que o título encaminhado a protesto é duplicata mercantil por indicação, ou seja, não há comprovação de aceite da autora.
+E sem o aceite, inexiste qualquer vinculação, de natureza cambial, do sacado em relação ao título.
+Isto quer dizer que, em se tratando de duplicata sem aceite, inviável a aplicação do princípio cambial relativo à inoponibilidade de exceções pessoais em face ao terceiro de boa-fé, no caso de circulação do título.
+Em tais circunstâncias, o endossatário e portador do título está sujeito às exceções de caráter pessoal ligadas ao negócio de direito material arguido pelo sacado.
+Na espécie, como visto, não se justificava o envio da cártula a protesto, vez que a relação comercial foi desfeita.
+Assim, em se tratando de título causal, não mais subsistindo o negócio jurídico subjacente, deve sera colhida a pretensão de declaração de inexigibilidade do título, que não poderia ter sido levada a protesto.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES DECLARATÓRIAS DE INEXIGIBILIDADE DE TÍTULOS DE CRÉDITO. PREMISSAS FIXADAS NO ACÓRDÃO RECORRIDO ACERCA DA AUSÊNCIA DE RESPONSABILIDADE DA RECORRIDA PELOS PAGAMENTOS IMPUTADOS PELA RECORRENTE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS CELEBRADO COM TERCEIRO. ALEGAÇÃO DE MÁ-FÉ DA RECORRIDA E CELEBRAÇÃO TÁCITA DE CONTRATO ENTRE AS PARTES. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.474.737/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/9/2020, DJe de 2/10/2020.)
+Por fim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EMBARGOS INFRINGENTES. APELAÇÃO. FUNDAMENTOS. ACRÉSCIMOS. RESPOSTA DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVAS. VALORAÇÃO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TESTEMUNHA. DEPOIMENTO COMO INFORMANTE. VALOR. SÚMULA Nº 7/STJ. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. CABIMENTO. FECHAMENTO DO NEGÓCIO. RESPONSABILIDADE. AVALIAÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reprodução dos fundamentos expostos no voto da relatora da apelação, por si só, não implica em deficiência de fundamentação, considerando que o tribunal de origem dirimiu as questões postas de forma a alcançar solução unânime à controvérsia.
+3. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, que preceitua caber ao julgador dirigir a instrução probatória através da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+4. Tendo o tribunal de origem formado o seu convencimento nos elementos de provas disponíveis dos autos e indicado os motivos para tanto, a intervenção desta Corte quanto à valoração probatória encontra óbice na Súmula nº 7/STJ.
+5. Não se traduz em nulidade valorar o depoimento de testemunha presumidamente interessada no desfecho da demanda como se prestado por informante, devendo o magistrado lhes atribuir o valor que possam merecer.
+6. Na hipótese, acolher a tese recursal, de que os depoimentos não deveriam ter sido deferidos porque restou incontroverso o interesse dos informantes no litígio, demandaria o revolvimento de fatos e provas dos autos por esta Corte, o que atrai o óbice da Súmula nº 7/STJ.
+7. A comissão de corretagem por intermediação imobiliária é devida se os trabalhos de aproximação realizados pelo corretor resultarem no resultado útil pretendido, qual seja no consenso das partes quanto aos elementos essenciais do negócio.
+8. No caso, rever o entendimento da Corte local, a partir da tese de que o recorrido não foi o responsável pelo fechamento do negócio, exigiria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+9. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+10. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+11. Agravo interno não provido.
+(AgInt no REsp n. 1.973.116/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
