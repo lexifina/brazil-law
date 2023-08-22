@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ANDREA LÚCIA RUIS DE CAMPOS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ, fl. 112):
+EMENTA - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - VERBA HONORÁRIA - RESERVA DE MONTANTE PARA PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS - IMPOSSIBILIDADE NO CASO EM QUESTÃO - PENHORA NO ROSTO DOS AUTOS, LEVADAS A EFEITO ANTES DO PEDIDO DE RESERVA DE VALORES E APRESENTAÇÃO DO CONTRATO EM QUESTÃO - DECISÃO REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Por ocasião do julgamento dos embargos de declaração opostos pela parte adversa, houve reforma do acórdão nos seguintes termos (e-STJ fls. 153):
+EMENTA - EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO - CONTRADIÇÃO EXISTENTE - DECISÃO DE 1º GRAU RESTAURADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 157-198), a recorrente indicou violação aos arts. 1022, I, II e III, do CPC e 22, § 4º, da Lei nº 8.906/1994.
+Sustentou que "o acórdão ora contestado que conheceu dos embargos de declaração e os acolheu em parte, infringiu o referido princípio e os próprios termos do art. 1022, do CPC" (e-STJ fl. 167)
+No mérito, defendeu que "a reserva de valor para pagamento de honorários advocatícios contratados (art. 22, § 4º, do EOAB) não tem incidência na hipótese de não estar disponível o valor da execução em favor do contratante dos honorários, por ter sido seu valor total objeto de penhora no rosto dos autos" (e-STJ fl.170)
+Acresceu que "não pode ser instaurado procedimento de concurso de preferência de credores e nem reserva de honorários, como autorizado no acórdão ora invectivado, devido à impossibilidade de reserva ou de levantamento de honorários advocatícios do valor penhorado no rosto dos autos anteriormente, o qual estava indisponível por ocasião da penhora anotado no rosto dos autos em favor da recorrente, a qual abrangeu a totalidade dos valores" (e-STJ fl. 175)
+Foram apresentadas contrarrazões (e-STJ, fl.246-259).
+O processamento do apelo especial não foi admitido pelo Tribunal de origem, levando o insurgente a interpor o presente agravo (e-STJ fls. 269-280).
+Brevemente relatado, decido.
+De início, no tocante à alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, constata-se a total ausência de discriminação dos pontos omissos, obscuros, contraditórios ou a ocorrência de erro material, incidindo, no caso, o óbice da Súmula n. 284 do Supremo Tribunal Federal.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE INDICAÇÃO DOS PONTOS CONSIDERADOS OMISSOS. SÚMULA Nº 284 DO STF, POR ANALOGIA. ALEGAÇÃO DA INEXISTÊNCIA DE ATO ILÍCITO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO PELO ACÓRDÃO RECORRIDO. POSSIBILIDADE. REEXAME DOS CRITÉRIOS DE FIXAÇÃO . SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada violação dos arts. 489 e 1.022 do NCPC não foi demonstrada com clareza, mediante a indicação dos pontos considerados omissos que pudessem levar a um diferente resultado do julgamento, atraindo a incidência da Súmula nº 284 do STF, por analogia.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 1712507/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Conforme entendimento assentado no âmbito do Superior Tribunal de Justiça, o contrato de honorários juntado depois da expedição do precatório ou da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. PEDIDO POSTERIOR DE RESERVA DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. DECISÃO MANTIDA.
+1. O contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte. Incidência da Sú mula n. 83/STJ.
+2. A desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial. Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. DESTAQUE DE HONORÁRIOS CONTRATUAIS. PENHORA NO ROSTO DOS AUTOS. OBSERVÂNCIA DA ORDEM CRONOLÓGICA. PRECEDENTES.
+1. A Corte recorrida houve por bem obstar o destaque da verba honorária diante da penhora realizada no rosto dos autos quanto ao crédito principal, sob o argumento de que a penhora torna indisponível o levantamento dos honorários contratuais, os quais estarão sujeitos ao concurso de credores.
+2. Contudo, conforme a jurisprudência deste Sodalício, se o pedido de destaque dos honorários advocatícios foi formulado em momento anterior à penhora, não há falar em impossibilidade de reserva, devendo tal cronologia ser observada na análise do pedido, providência não verificada na espécie.
+3. Dessarte, em observância à celeridade processual, de rigor que os autos retornem à instância de origem, para que seja analisado o pedido de destaque de honorários a partir do entendimento deste Superior Tribunal de Justiça exposto acima, conforme o momento em que ocorreu o pedido de reserva da verba honorária, se antes ou após a formalização da penhora no rosto dos autos.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no REsp n. 1.987.170/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a aplicação da Súmula 284/STF, não incidindo, portanto, o óbice da Súmula 182/STJ. Reconsiderada a decisão singular da Presidência.
+2. Na forma da jurisprudência do STJ, "a reserva de honorários advocatícios contratuais tem lugar na hipótese de existência de crédito livre e desembaraçado em favor do executado, de forma que, efetivamente, na hipótese dos autos, os patronos do recorrido deveriam ter apresentado o pedido de reserva de honorários antes da formalização da penhora" (AgInt no REsp 1896168/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/11/2021, DJe 25/11/2021). Incidência da Súmula 83 do STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência de fls. 798-799, e-STJ. Agravo em recurso especial desprovido.
+(AgInt no AREsp n. 2.027.308/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. NULIDADE. NÃO OCORRÊNCIA. AÇÃO DE RESTITUIÇÃO DE PARCELAS PAGAS. FASE DE CUMPRIMENTO DE SENTENÇA. PEDIDO DO AUTOR DE RESERVA DO VALOR CORRESPONDENTE AOS HONORÁRIOS CONTRATUAIS. NÃO CABIMENTO. EXISTÊNCIA DE PENHORA ANTERIOR NO ROSTO DOS AUTOS.
+1. Preliminarmente, assiste razão ao recorrente quanto ao erro material suscitado. De fato, verifica-se que houve apresentação de contrarrazões ao recurso especial às fls. 399/417. No entanto, o reconhecimento do erro material apontado não possui o condão de alterar o resultado do julgamento monocrático.
+2. Há entendimento no âmbito do Superior Tribunal de Justiça, no sentido de que a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, a declaração de nulidade dos atos processuais exige a demonstração de prejuízo à parte, o que não ocorreu na presente hipótese.
+4. A reserva de honorários advocatícios contratuais tem lugar na hipótese de existência de crédito livre e desembaraçado em favor do executado, de forma que, efetivamente, na hipótese dos autos, os patronos do recorrido deveriam ter apresentado o pedido de reserva de honorários antes da formalização da penhora.
+5. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.896.168/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. PAGAMENTO DIRETO NOS PRÓPRIOS AUTOS. JUNTADA DO CONTRATO. INTEMPESTIVIDADE.
+1. Nos termos do art. 22, § 4º, da Lei 8.906/1994, a juntada do contrato de honorários antes da expedição do precatório assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.
+2. Hipótese em que o contrato foi juntado após penhora no rosto dos autos, não ensejando a incidência do disposto no citado dispositivo legal, pois o crédito já penhorado para satisfazer direito de terceiro.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.427.331/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/2/2018, DJe de 8/3/2018.)
+Na hipótese dos autos, ao apreciar a questão suscitada, o Tribunal de origem asseverou que (e-STJ, fls. 154-155):
+A penhora no rosto dos autos, efetivada em favor de Andrea, é de 14.05.2013 (f. 356). Enquanto o contrato de honorários, dos advogados com a Takigawa, é datado de 26.03.2014, com aditivo de 29.10.18 (fls. 1813-1815), com juntada nos autos em 28.09.21(fls. 1809-1812).
+Veaj-se, portanto, que existe a penhora no rosto dos autos em favor de uma parte (Andrea) e o contrato de honorários em favor de outra (advogados da Takigawa).
+Quanto ao pedido de reserva dos honorários, dispõe o art. 22, §4º, da Lei nº 8.906/1994:"Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou".
+Ora, de fato os embargantes, advogados da Takigawa, apresentaram o contrato de honorários nos autos de origem.
+Assim, tendo satisfeito o disposto no transcrito no artigo acima, fazem jus à reserva de valores destinados ao pagamento de honorários contratuais. Cabível, assim, a reserva de honorários e, como existe penhora no rosto dos autos em favor da exequente Andrea correta a decisão de 1º Grau, ao determinar o concurso de credores.
+Da análise dos trechos das decisões proferidas pela Corte originária, percebe-se que o TJMS entendeu que a juntada do contrato de honorários após a penhora no rosto dos autos em favor de terceiro, assegura ao advogado o direito ao recebimento por dedução da quantia.
+No entanto, forçoso reconhecer que o entendimento esposado pelo Tribunal estadual está em dissonância com a jurisprudência do STJ, motivo pelo qual merece reparo.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, afim de determinar o afastamento da reserva de honorários advocatícios contratuais nos presentes autos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. RESERVA DE HONORÁRIOS. IMPOSSIBILIDADE. ANTERIOR PENHORA NO ROSTO DOS AUTOS. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
