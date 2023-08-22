@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por RADIO AURI VERDE DE BAURU LTDA contra acórdão proferido pelo TJSP assim ementado:
+APELAÇÃO CÍVEL EXECUÇÃO FISCAL Município de Bauru Cobrança de multa administrativa - Extinção Reconhecimento da nulidade do título executivo por ausência de indicação do fundamento legal da cobrança Vício que, embora constatado, pode ser corrigido, com substituição da CDA Inteligência do artigo 203 do Código Tributário Nacional, art. 2º, §8º da Lei 6.830/80e da Súmula nº 392 do C. Superior Tribunal de Justiça Sentença anulada, cabendo ao D. Juízo intimar o Município para correção e substituição do título executivo - RECURSO PROVIDO.
+A parte recorrente alega violação dos arts. 489 e 1.022 do CPC/2015 e art. 2º, §8º da Lei n 6.830/1980, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, a existência de omissão no acórdão ao desconsiderar as alegações formuladas no sentido de ser necessária a juntada nos autos do processo administrativo e da impossibilidade se alterar o fundamento legal da CDA que instrui a execução por mera substituição do título.
+No mérito, defende ser a nulidade do título executivo não passível de correção (ausência de fundamentação legal tanto do fundamento legal do crédito quanto da forma de calcular juros e correção), tendo a jurisprudência se firmado no sentido de ser incompatível com esta nulidade a possibilidade de saneamento por substituição.
+O recurso especial foi admitido após a promoção de juízo de conformação aos precedentes repetitivos, declarando-se que o acórdão não contraria a jurisprudência.
+Passo a decidir.
+O apelo nobre tem origem em execução fiscal de crédito de natureza não tributária.
+No primeiro grau de jurisdição, acolheu-se exceção de pré-executividade para declarar-se nula a CDA que não indica os fundamentos legais do crédito e da forma de calculo dos juros e correção, extinguindo-se a execução.
+O Tribunal bandeirante, apesar de reconhecer a ausência de indicação da fundamentação legal do crédito, deu provimento à apelação da edilidade para declarar que é possível a correção do vício indicado na CDA, autorizando-se a substituição do título executivo.
+Alegou ainda que o vício não oferece prejuízo à defesa, havendo indicação do processo administrativo.
+Opostos embargos de declaração, foram eles rejeitados.
+Após a interposição do recurso especial, o acórdão foi submetido ao juízo de conformação, sendo mantidas as conclusões.
+Novo recurso especial foi interposto contra este acórdão de conformação.
+Pois bem.
+Inicialmente, deixo consignado que a análise se dará acerca do primeiro recurso especial interposto, devendo a segunda interposição ser considerada como mera ratificação do apelo nobre.
+Aventada a ofensa ao art. 1.022 do CPC/2015 e reconhecida a ausência de manifestação no acórdão sobre todos os temas suscitados nos embargos de declaração opostos na origem, tenho por fictamente prequestionada a matéria, nos termos do art. 1.025 do CPC/2015, razão pela qual sobre ela decidir a seguir.
+A orientação firmada a muito nesta Corte Superior é no sentido de ser autorizada a substituição da CDA para correção apenas de erro material ou formal não sendo possível a substituição para correção de erros que decorram do próprio lançamento ou da inscrição.
+Com efeito, a Primeira Seção do Superior Tribunal de Justiça possui pacífica compreensão segundo a qual se o equívoco presente no título executivo remete ao fundamento legal, impõe-se a declaração de nulidade do título executivo e a feitura de novo lançamento, caso não superado o prazo decadencial (REsp 1.045.472/BA, relator Ministro Luiz Fux, Primeira Seção, julgado em 25/11/2009, DJe de 18/12/2009).
+Nesse sentido: REsp n. 1.873.394/PE, de minha relatoria, Primeira Turma, julgado em 6/10/2022, DJe de 11/11/2022; AgInt no AgInt no AREsp n. 1.742.874/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/03/2023, DJe de 16/03/2023; AREsp n. 1.588.954/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 03/03/2020, DJe de 19/05/2020.
+Ademais, ainda que admitida, a emenda ou substituição tem como limitador temporal a decisão de primeiro grau que aprecie a questão, não sendo possível a correção da certidão após sua prolação, nos termos do texto do art. 2º, §8º, da LEF e da interpretação explicitada no enunciado da Súmula 392 do STJ.
+Na hipótese dos autos, as instâncias ordinárias foram unânimes em afirmar que o título executivo não se encontrava acompanhado da indicação do fundamento legal do crédito, bem como da indicação do fundamento legal para o cálculo dos juros e correção. O Tribunal a quo acabou por considerar esta falha um mero erro formal para, reformando a sentença extintiva, autorizar a substituição do título executivo, entendimento que não tem sustentação na jurisprudência consolidada nesta Corte Superior.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para RESTABELECER a sentença de extinção da execução, inclusive no tocante à distribuição dos ônus sucumbenciais.
+Publique-se. Intimem-se.
