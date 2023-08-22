@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO SAFRA S.A. contra decisão que inadmitiu recurso especial (e-STJ, fls. 153-155) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 74):
+AGRAVO DE INSTRUMENTO Decisão que acolheu a impugnação à penhora Irresignação do exequente Alegação de cerceamento de defesa Inocorrência Mandado de constatação que se afigurava despiciendo Executados que demonstraram que se trata de imóvel residencial Bem de família Inteligência do art. 1º da Lei nº 8.009/90 Decisão mantida Recurso desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 120):
+EMBARGOS DE DECLARAÇÃO Omissão Inexistência do vício elencado no art. 1.022, inc. II, do Código de Processo Civil Caráter nitidamente infringente - Embargos rejeitados.
+Nas razões do recurso especial, o recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 369, 370, parágrafo único, 384, 405, 408, parágrafo único, 427 e 1.022, II, do CPC/2015; e 1º da Lei 8.009/1990.
+Apontou omissão no aresto recorrido, afirmando que o Tribunal de origem deixou de se manifestar a respeito do cerceamento de defesa com a negativa de expedição de mandado de constatação necessário para afastar a proteção do bem de família ao imóvel penhorado; acerca da suficiência da Ata Notarial expedida para atestar que os recorridos não residem no imóvel; e que as declarações dos vizinhos não são provas idôneas para comprovar que os agravados residem no bem.
+Defendeu ter ocorrido cerceamento de defesa com o indeferimento do pedido de expedição de mandado de constatação.
+Sustentou que o imóvel constrito não pode ser caracterizado como bem de família. Aduziu ter apresentado Ata Notarial atestando que os recorridos possuem residência em outro local.
+Destacou que os documentos apresentados pelos agravados não demonstram o direito à proteção conferida pela Lei 8.009/1990.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 153-155).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 158-177).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a primeira tese defendida pelo recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta extensa fundamentação quando reconhece a inexistência de cerceamento de defesa e a comprovação de que o bem penhorado goza da garantia conferida pela Lei 8.009/1990.
+Portanto, inexiste violação ao art. 1.022 do CPC/2015.
+Quanto à afronta ao direito de defesa do recorrente com o indeferimento do pedido de expedição de mandado de constatação, o Tribunal de origem assim se manifestou (e-STJ, fls. 75-76):
+Por proêmio, afasta-se a preliminar de cerceamento de defesa.
+O agravante pretende a expedição de mandado de constatação, a fim de que o Oficial de Justiça ateste se o imóvel penhorado é realmente utilizado pelos agravados e família como residência.
+Apesar de ser diligência auxiliar para a instrução da causa, não se trata de prova necessária ou essencial para a apreciação da impugnação à penhora.
+ ..
+No caso em comento, as provas colacionadas aos autos eram suficientes ao deslinde da controvérsia, de modo que não há que se falar em cerceamento de defesa.
+Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se comprovada suficientemente nos autos por outros elementos.
+É preciso frisar que a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. DECISÃO MOTIVADA. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RESPONSABILIDADE CIVIL. CONFIGURAÇÃO. PRESSUPOSTOS. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NOVA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a produção de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Rever a convicção da corte de origem de prescindibilidade da produção de provas requerida demanda reexame fático-probatório, o que é vedado em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+4. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.244.039/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. INOVAÇÃO RECURSAL. PRECLUSÃO. REPRODUÇÃO DE ENTREVISTA SEM AUTORIZAÇÃO. ASSOCIAÇÃO DA IMAGEM A FINS ILÍCITOS. DANO À IMAGEM. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIADE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LUCROS CESSANTES. SÚMULA 7/STJ.
+1. O argumento relativo ao impedimento e à suspeição do Desembargador relator do acórdão recorrido n ão foi suscitado no recurso especial, mas tão somente no presente agravo interno, de modo que configura verdadeira inovação recursal. Não só, nos termos do art. 146 do CPC/2015 a parte deve alegar o impedimento ou a suspeição no prazo de 15 (quinze) dias a contar do conhecimento do fato. Não tendo sido observado tal lapso temporal, operou-se a preclusão.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, sob pena de violação da competência do STF.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Precedentes.
+4. Para alterar a conclusão lançada no acórdão recorrido, no sentido de que ficou comprovado que as recorridas deixaram de ser contratadas em razão da repercussão negativa do programa, demandaria o revolvimento do acervo fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, no que concerne à alegação de exorbitância do montante arbitrado a título de indenização por danos morais, impede o conhecimento do recurso especial quanto ao ponto.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.009.202/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+In casu, o Tribunal estadual negou o pedido de expedição do documento supramencionado por atestar suficientes as provas acostadas nos autos para fins de demonstração das alegações das partes acerca do imóvel penhorado.
+Ademais, rever o posicionamento adotado pelo Tribunal a quo, acerca da prescindibilidade da prova requerida pelo agravante, esbarra na Súmula 7/STJ.
+No que tange à penhora do bem, a Corte local apre sentou os seguintes fundamentos (e-STJ, fls. 75-77):
+Compulsando os autos de origem, verifico que às fls. 400/401 foi deferida a penhora dos imóveis descritos nas matrículas nº 8204 do CRI de Birigui SP (fls. 381/388) e de nº 92.367 do CRI de Araçatuba SP (fls. 389/397), em nome de Angela Cristina de Oliveira Cordeiro e Fabio Luciano Cordeiro.
+Em sede de impugnação à penhora (fls. 404/416), os executados alegaram que o imóvel de matrícula nº 8204 do CRI de Birigui SP se trata de bem de família e que não mais possuem qualquer outro imóvel em seu nome. Além disso, anexaram diversos documentos a corroborar tal alegação.
+Sobreveio, então, decisão de fls. 593/594, ora recorrida, que acolheu a impugnação à penhora.
+Tecidas essas considerações, o recurso não comporta provimento.
+ ..
+Deveras, os executados apresentaram correspondências anteriores e contemporâneas ao ajuizamento da execução (fls. 527/533) e contas de água e luz que indicam consumo, ainda que não elevado, no local. O endereço no qual foram citados e que foi declinado quando da emissão da cédula de crédito bancário (fl. 20) é o mesmo do imóvel penhorado.
+Além disso, foram anexadas declarações de três vizinhos, que residem na mesma rua, afirmando que os executados moram no local há mais de 6 anos (fls. 483/440). Por outro lado, como bem observou o douto juízo a quo, o conteúdo da ata notarial de fls. 584/586 contém informações lançadas pelo tabelião que decorrem da visita ao imóvel num único dia, com indagação sobre os supostos moradores a uma única vizinha, de modo que não é apto a elidir as robustas provas constantes nos autos que evidenciam que os executados utilizam o local como moradia.
+Por sua vez, o exequente não se desincumbiu do ônus de apontar a existência de outro bem em nome dos agravados com a mesma finalidade.
+Ressalta-se, ademais,queno bojo do processo nº 2192756-70.2021.8.26.0000, entre as mesmas partes, foi reconhecido que o imóvel em questão constitui bem de família.
+Destarte, evidenciado que a os executados no imóvel em questão, sobre este deve incidir a proteção prevista no art. 1º da Lei nº 8.009/90, a qual somente não seria aplicável nas hipóteses expressamente contempladas pelo art. 3º do mesmo diploma legal, dentre as quais não se insere a desta execução.
+Do excerto acima transcrito, depreende-se que o Tribunal originário, após detido exame dos fatos e provas acostadas aos autos, concluiu que o imóvel penhorado constitui bem de família passível de justificar sua proteção pela Lei 8.009/1990.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, c onheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA NÃO CONSTATADO. REEXAME. SÚMULA 7/STJ. EXECUÇÃO. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. PROTEÇÃO CONFERIDA PELA LEI 8.009/1990. IMPENHORABILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
