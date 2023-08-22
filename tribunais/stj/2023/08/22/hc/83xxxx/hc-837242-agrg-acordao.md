@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ RICARDO TEIXEIRA CARSOLA contra decisão da Vice-Presidência deste Superior Tribunal de Justiça que indeferiu liminarmente o habeas corpus, uma vez que "a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento esta Corte Superior, sob pena de indevida supressão de instância" (e-STJ fls. 185/187).
+Consta dos autos que o paciente foi condenado às penas de 1 mês de detenção no regime aberto e pagamento de 20 dias-multa, como incurso no art. 330, caput, do Código Penal, tendo a pena privativa de liberdade sido substituída por prestação de serviços comunitários.
+No habeas corpus impetrado na Corte de origem, a defesa sustentou que o acórdão da Turma Recursal que confirmou a sentença condenatória careceria de fundamentação idônea, violando o art. 93, IX, da Constituição Federal. A defesa alegou ainda que o paciente "(i). não foi intimado pessoalmente no juízo cível para cumprimento da ordem supostamente descumprida, o que deu azo à instauração de processo criminal de desobediência; (ii). ausência de fundamentação do acordão da autoridade coatora ante as provas juntadas; (iii). reconhecimento expresso da perda do objeto da ação penal pelo próprio ministério público e (iv). condenação à pena indevida e aplicada de maneira desproporcional)" (e-STJ fl. 195). O writ não foi conhecido (e-STJ fls. 176/182).
+Impetrado habeas corpus nesta Corte Superior, o writ foi indeferido liminarmente (e-STJ fls. 185/187).
+Neste regimental, sustenta a defesa que "não há falar em supressão de instância, de modo que não é apenas possível, mas devida a apreciação deste writ pelo tribunal, pois da incúria da autoridade coatora em não vislumbrar tais ilegalidades, apesar de patentes, não justificando os porquês do seu entendimento, ela própria acabou por praticar ilegalidade, de onde exsurge o direito do paciente, ora agravante, em socorrer-se deste E. Tribunal para que seja concedida a ordem de habeas corpus aqui pleiteada." (e-STJ fl. 195).
+Renova, no mérito, a argumentação lançada no habeas corpus.
+Requer, ao final, seja reconsiderada a decisão agravada para conceder a ordem pleiteada ou que o regimental seja levado à apreciação do colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE DESOBEDIÊNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO CONDENATÓRIO, FALTA DE JUSTA CAUSA E PERDA DE OBJETO DA AÇÃO PENAL. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Como é de conhecimento, matéria não apreciada pelo Tribunal de origem não pode ser examinada por esta Corte Superior, sob pena de incorrer em indevida supressão de instância. Precedentes.
+2. No caso, as teses apresentadas na impetração (ausência de fundamentação do decreto condenatório, falta de justa causa para a ação penal e perda de objeto da ação penal) não foram objeto de exame no Tribunal de origem, o que impede o conhecimento do tema diretamente neste Superior Tribunal de Justiça.
+3. Agravo regimental improvido.
+VOTO
+De fato, observa-se que as matérias objeto do habeas corpus impetrado nesta Corte Superior não foram examinadas pelo Tribunal de origem (e-STJ fls. 176/182), o que impede este Superior Tribunal de Justiça de conhecer dos temas, sob pena de indevida supressão de instância.
+Como cediço, " n ão compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
