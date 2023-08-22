@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ CARLOS GAMARRA AMARO contra decisão monocrática de minha relatoria que conheceu do agravo para dar parcial provimento ao recurso especial e restabelecer a sentença que julgou improcedentes os pedidos (fls. 485-490).
+O embargante alega que "não foi debatida expressamente no acórdão a questão de que o tema tratado no ponto sobre o pagamento da cirurgia realizada de forma emergencial, que deveria ser usado a tabela do plano de saúde, cito artigo 12, inciso VI, da lei 9.656/98." (fl. 502).
+Requer a reforma da decisão embargada.
+A embargada, instada a manifestar-se, apresentou impugnação às fls. 512-513.
+É, no essencial, o relatório.
+Assiste razão ao embargante quanto à apontada omissão quanto à observância do requisito do prequestionamento, especificamente, no caso, do art. 12, inciso VI, da Lei n. 9.656/98.
+De fato, verifica-se que, embora tenha a Corte de origem, tratado a questão à luz do art. 12 da Lei n. 9.656/98, deixou de explicitar seu entendimento acerca da limitação do reembolso nos moldes do inciso VI do artigo 12 da Lei n. 9.656/98.
+Entretanto, o recorrente alegou, nas razões do recurso especial, a violação do art. 1.022 do CPC (fls. 367-369) que, erroneamente, foi afastada na decisão embargada.
+Diante desse contexto, é o caso de acolher os presentes aclaratórios, com efeitos infringentes, a fim de tornar sem efeito a decisão embargada e dar parcial provimento ao recurso especial da UNIMED para determinar o retorno dos autos ao Tribunal de origem, a fim de que se manifeste acerca da matéria omissa.
+Cabe salientar que, da análise das razões de apelação, verifica-se que, ao contrário do decidido pelo Tribunal a quo, a matéria foi devidamente arguida às fls. 206-207, como se pode depreender do seguinte excerto:
+Mais: em verificando o caráter de EMERGÊNCIA do caso, não há como justificar a negativa de cobertura INTEGRAL dos procedimentos, por não terem sido realizadas na rede credenciada, conforme artigo 1, 12, inciso VI e 35-C da lei 9.656/98:
+Art. 1º Submetem-se às disposições desta Lei as pessoas jurídicas de direito privado que operam planos de assistência à saúde, sem prejuízo do cumprimento da legislação específica que rege a sua atividade, adotando -se, para fins de aplicação das normas aqui estabelecidas, as seguintes definições:
+"Art. 12. São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura definidas no plano -referência de que trata o art. 10, segundo as seguintes exigências mínimas:"
+VI - reembolso, em todos os tipos de produtos de que tratam o inciso I e o § 10 do art. 10 desta Lei, nos limites das obrigações contratuais, das despesas efetuadas pelo beneficiário com assistência à saúde, em casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras, de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, pagáveis no prazo máximo de trinta dias após a entrega da documentação adequada;
+Art. 35-C. É obrigatória a cobertura do atendimento nos casos:
+I - de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado assistente; em declaração do médico
+22. Além da legislação acima mencionada, vale trazer ã baila o que nosso colendo Tribunal de Justiça do Estado do Rio Grande do Sul já entende que procedimentos de EMERGÊNCIA devem ser cobertos e reembolsados na integralidade pelos planos de saúde.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, a fim de tornar sem efeito a decisão embargada e dar parcial provimento ao recurso especial da UNIMED para determinar o retorno dos autos ao Tribunal de origem para que se manifeste acerca da matéria arguida nos aclaratórios de fls. 330-337.
+Publique-se. Intimem-se.
