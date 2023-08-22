@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE DA HABILITAÇÃO DE HERDEIROS. PRESCRIÇÃO QUINQUENAL. INAPLICÁVEL AOS SUCESSORES. HABILITAÇÃO A QUALQUER TEMPO.
+1. Nos termos da Súmula n. 150 do Supremo Tribunal Federal, a prescrição da execução ocorre no mesmo prazo da pretensão. Em se tratando de título judicial constituído contra a Fazenda Pública, a pretensão executiva prescreve no prazo de 5 (cinco) anos, contando-se do trânsito em julgado da sentença proferida na ação de conhecimento, prazo que corre contra o credor em favor do qual se formou o título executivo, e sua morte posterior à consumação da prescrição não transfere qualquer direito decorrente desse título aos seus sucessores.
+2. Havendo morte da parte no curso do processo, deve o processo ser suspenso para habilitação de herdeiros, não fluindo a prescrição da pretensão executiva em razão da ausência de intimação dos sucessores para habilitação nos autos.
+3. Constitui entendimento consolidado do e. STJ que a suspensão do processo por óbito da parte exequente suspende também o curso do prazo prescricional da pretensão executiva, observando-se que, por não existir previsão legal de prazo para a habilitação dos sucessores, não se pode presumir lapso máximo para a suspensão. Precedentes. (AC 0032307- 34.2013.4.01.3800 / MG, Rel. JUIZ FEDERAL RAFAEL PAULO SOARES PINTO, PRIMEIRA TURMA, e-DJF1 p.164 de 23/10/2015).
+4. Agravo de instrumento desprovido (fls. 340/341).
+Os embargos de declaração opostos foram rejeitados (fls. 377/392).
+Em suas razões recursais, a parte recorrente sustenta a violação dos arts. 489, II, § 1º, III e 1.022 do CPC/2015 e 396 do CC/2002. Alega, para tanto: (a) a existência de negativa de prestação jurisdicional; e (b) que, estando o processo suspenso com a morte de uma das partes, não incidem juros entre a data do evento morte e o requerimento de habilitação dos sucessores.
+A parte adversa apresentou contrarrazões (fls. 411/418).
+É o relatório.
+A parte recorrente pretende a anulação do acórdão proferido pelo Tribunal de origem em embargos de declaração ao argumento de que remanesce omisso o julgamento da controvérsia.
+Analisando os autos, verifico que a parte recorrente requereu a manifestação expressa do órgão julgador a respeito da seguinte questão: "estando o processo suspenso com a morte de uma das partes, não devem incidir juros de mora no período em que suspenso o feito, visto ser a efetiva desídia do sucessor a obstar o regular processamento do feito" (fl. 402).
+Evidencio que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+Cito os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+(..)
+2. "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada" (REsp 1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010).
+3. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl no AgRg nos EDcl no REsp 1.556.587/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/3/2017.)
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que o Tribunal de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimações necessárias.
