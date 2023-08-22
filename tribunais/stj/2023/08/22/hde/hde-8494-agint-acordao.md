@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/08/2023 a 22/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com a Sra. Ministra Relatora.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de agravo interno interposto por DOMINGOS BORGES DA SILVA contra decisão proferida por esta Presidência, que indeferiu o pedido de homologação de decisões estrangeiras, nestes termos (fls. 210-211):
+Trata-se de pedido, formulado por DOMINGOS BORGES DA SILVA, de homologação de títulos estrangeiros oriundos da Justiça norte-americana.
+Expõe o requerente que promove, no Brasil, "duas ações populares em que questiona os Contratos de Aberturas de Créditos e de Financiamentos Externos, pactuados pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), com as Repúblicas de Cuba e Venezuela, por entender que foram ilegais e lesivos ao patrimônio público" (fl. 3).
+Noticia que a empresa ora requerida  Construtora Norberto Odebrecht S. A.  firmou Acordo Judicial ("Plea Agreement") perante as autoridades judiciais norte-americanas, no bojo do qual, segundo se alega, houve confirmação das supostas ilicitudes que são objeto das ações populares em trâmite na Justiça brasileira.
+Afirma que "como no Brasil, os acordos judiciais firmados por autoridades judiciais norte-americanas possuem os mesmos efeitos de sentença judicial" (fl. 9).
+Pretende, pois, por meio do presente expediente, ver homologado referido documento estrangeiro ("Plea Agreement"), além de decisões oriundas da Justiça norte-americana a ele correlatas, para, então, utilizá-los como prova nas ações que tramitam em solo nacional.
+Pois bem.
+O requerente carece de interesse de agir, seja porque não figurou como parte no processo estrangeiro, seja porque não há qualquer notícia de eventual negativa, pelas autoridades judiciais brasileiras, de utilização dos referidos documentos estrangeiros, devidamente traduzidos, como prova nas ações populares que tramitam na Justiça Federal.
+Pelo exposto, indefiro o pedido de homologação, por ausência de interesse de agir.
+Publique-se.
+Afirma a parte agravante que "somente essa egrégia Corte Superior, tida como Tribunal da Cidadania, à luz do Art. 105, inciso I, alínea "i", da Carta Magna de 1988, tem competência para homologar as sentenças estrangeiras, objetos desta demanda, a fim de possibilitar suas utilizações como provas em sede de ações populares e, tolher esse direito do cidadão é não permitir que se utilize de todos os meios de provas em direito admitidas, para provar ilicitudes praticadas em detrimento do patrimônio público brasileiro" (fls. 214-215).
+E continua: "Contudo, proferida a decisão inaugural ora agravada, essa Relatoria retira do Requerente o direito à obtenção documentos lícitos, para serem utilizados em sede de Ação Popular, na qual o peticionante figura como substituto processual do povo brasileiro, que possui legitimidade e o direito de deferimento da necessária homologação de sentença estrangeira" (fl. 215).
+Sublinha que, nos termos do art. 109, X, da Constituição Federal, aos juízes federais somente compete a execução de sentenças estrangeiras após a homologação pelo Superior Tribunal de Justiça.
+Pontua, por fim, que não há no ordenamento jurídico brasileiro a exigência de que o interessado na homologação de decisões estrangeiras necessariamente tenha integrado o polo ativo ou passivo da ação judicial que tramitou no exterior.
+Pleiteia , pois, a reforma da decisão combatida, com o processamento do presente feito e, ao final, a homologação dos títulos estrangeiros, como requerido na inicial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. INDEFERIDA A HOMOLOGAÇÃO POR AUSÊNCIA DE INTERESSE DE AGIR. REQUERENTE QUE NÃO FIGUROU COMO PARTE NO PROCESSO ESTRANGEIRO. PRETENSÃO DE UTILIZAÇÃO DE DOCUMENTOS ESTRANGEIROS COMO PROVA EM PROCESSOS QUE TRAMITAM NO BRASIL. DESNECESSIDADE DE PRÉVIA HOMOLOGAÇÃO. AGRAVO NÃO PROVIDO.
+1. O requerente carece de interesse de agir, seja porque não figurou como parte no processo alienígena, seja porque não se exige a prévia homologação de documentos estrangeiros em relação aos quais apenas se pretende a juntada, como prova, em feitos que tramitam perante a Justiça brasileira.
+2. In casu, aliás, não há qualquer notícia de eventual negativa, pelas autoridades judiciais brasileiras, de utilização dos referidos documentos estrangeiros, devidamente traduzidos, como prova nas ações populares em curso na Justiça Federal.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não prospera.
+Conforme pontuado no decisum combatido, o requerente carece de interesse de agir, seja porque não figurou como parte no processo estrangeiro, seja porque não há qualquer notícia de eventual negativa, pelas autoridades judiciais brasileiras, de utilização dos referidos documentos estrangeiros, devidamente traduzidos, como prova nas ações populares que tramitam na Justiça Federal.
+De fato, como alegado pelo recorrente, para a execução de decisões estrangeiras pela Justiça Federal exige-se a prévia homologação por esta Corte Superior, na forma dos arts. 105, I, i, e 109, X, da Constituição Federal.
+A hipótese dos autos, todavia, é diversa, na medida em que se pretende a homologação de documentos estrangeiros apenas para posterior utilização como prova em processos que tramitam perante a Justiça brasileira.
+Ocorre que, para tal finalidade, não se exige a prévia homologação desses documentos pelo Superior Tribunal de Justiça. Com efeito, o art. 192, parágrafo único, do Código de Processo Civil expressamente permite a juntada aos autos de documentos redigidos em língua estrangeira, desde que acompanhado de versão para a língua portuguesa tramitada por via diplomática ou pela autoridade central, ou firmada por tradutor juramentado.
+Até mesmo nos processos penais, vale ressaltar, a lei permite que as partes apresentem documentos em qualquer fase do processo (CPP, art. 231), sendo que "os documentos em língua estrangeira, sem prejuízo de sua juntada imediata, serão, se necessário, traduzidos por tradutor público, ou, na falta, por pessoa idônea nomeada pela autoridade" (CPP, art. 236).
+A jurisprudência desta Corte e, também, do Supremo Tribunal Federal caminham nessa mesma esteira de intelecção  chegando inclusive a assentar que se não for absolutamente necessária para a compreensão do documento estrangeiro, até mesmo a tradução pode ser dispensada, não se lhe podendo negar eficácia de prova (STF, Inq n. 4.146/DF, rel. Min. Teori Zavascki, Tribunal Pleno, DJe de 5/10/2016; STJ, AgInt no REsp n. 1.328.809/DF, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 5/5/2017; STJ, AgRg no AREsp n. 153.005/RN, rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe de 16/4/2013; STJ, AgRg no REsp n. 1.316.392/SC, rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 28/5/2012; STJ, REsp n. 924.992/PR, rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe de 26/5/2011).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
