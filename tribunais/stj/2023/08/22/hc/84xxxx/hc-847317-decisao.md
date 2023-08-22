@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcelo Lucio de Moura Melo Cruz - condenado como incurso no crime de tráfico de drogas - contra ato coator do Tribunal de Justiça de São Paulo (Ação Penal n. 1500971-34.2022.8.26.0617), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta pelo Juízo de Direito da 4ª Vara Criminal da comarca de São José dos Campos/SP e alterada pelo Tribunal estadual, ao argumento de que a quantia de droga apreendida (91 porções de crack, subproduto da cocaína, 5 porções de maconha e 164 porções de cocaína) não é alta a ponto de impedir a redução máxima da pena, quem dirá a redução em metade (fl. 7).
+Ocorre que, além de ser inviável a utilização da via eleita como espécie de "segunda apelação criminal", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, não cabe a este Superior Tribunal, tão longe que se encontra das partes, dos fatos e da ação penal de conhecimento, interferir na escolha do percentual de redução em razão da minorante, já que existe fundamentação idônea para a modulação realizada pelas instâncias ordinárias, consistente na quantidade, variedade e potencial destrutivo das drogas apreendidas (maconha, crack e cocaína).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PRETENSÃO DE REVISÃO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. MINORANTE (ART. 33, § 4º, DA LEI N. 11.343/2006). QUANTIDADE, NATUREZA E QUANTIDADE DE DROGAS APREENDIDAS UTILIZADAS PARA MODULAR O REDUTOR EM PERCENTUAL MÍNIMO. INTERVENÇÃO DESTE SUPERIOR TRIBUNAL. IMPOSSIBILIDADE. DISCRICIONARIEDADE REGRADA DEVIDAMENTE OBSERVADA DE FORMA FUNDAMENTADA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
