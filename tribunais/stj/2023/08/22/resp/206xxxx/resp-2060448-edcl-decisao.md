@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SUZANA VANSOLINI SOLDADO contra decisão monocrática proferida por este signatário, que deu provimento ao recurso especial, nos termos da seguinte ementa (fl. 841, e-STJ):
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TAXATIVIDADE, EM REGRA, DO ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE SUPLEMENTAR. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA OBSERVÃNCIA DOS PARÂMETROS OBJETIVOS ESTABELECIDOS NO PRECEDENTE DA SEGUNDA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL PROVIDO.
+Em suas razões (fls. 847-849, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado quanto à petição de fls. 831/832, que versa sobre a Resolução Normativa - RN nº 571, de 08 de fevereiro de 2023, que acrescentou o medicamento Dupilumabe, cujo fornecimento é pleiteado nos autos, ao rol de procedimento e eventos em saúde da ANS para tratamento de dermatite atópica grave em pacientes adultos.
+Regularmente intimada, a embargada não apresentou manifestação nos autos (e-STJ, fl. 854).
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado.
+Na espécie, a embargante aponta omissão da decisão acerca da Resolução Normativa - RN nº 571, publicada antes da apreciação do recurso especial, e que incluiu o fármaco Dupilumabe para tratamento de dermatite atópica grave no rol de procedimentos e eventos em saúde da ANS.
+Consoante alegado pela própria embargante, a referida Resolução Normativa foi publicada em 08 de fevereiro de 2023, após a publicação do acórdão recorrido. Com efeito, ela não integra a moldura fática do referido acórdão, a qual este Superior Tribunal de Justiça está adstrito.
+À vista disso, a decisão embargada deu provimento ao recurso especial da parte ora embargada, determinando o retorno dos autos ao tribunal de origem, a fim de que sejam observados os requisitos estabelecidos pela Segunda Seção do Superior Tribunal de Justiça, no julgamento dos EREsps n. 1.886.929/SP e 1.889.704/SP, bem como a alteração do art. 10 da Lei 9.656/1998 pela Lei 14.454/2022. Isso porque o reexame de cláusulas contratuais, fatos e provas é vedado nesta instância.
+A propósito, confira-se o trecho da referida decisão (e-STJ, fl. 843-844):
+Todavia, constata-se que, no caso em análise, o julgamento da instância ordinária não avançou para aferir o preenchimento dos requisitos acima elencados, limitando-se a reputar abusiva a limitação por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico, concluindo pelo caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Desse modo, considerando a impossibilidade do reexame das cláusulas contratuais e dos demais substratos fático-probatórios, em virtude dos óbices das Súmulas 5 e 7/STJ, necessário que os autos retornem à instância originária, de modo a possibilitar o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior. Importa consignar que, na pendência do julgamento do presente recurso, sobreveio a Lei 14.454/2022, alterando o art. 10 da Lei 9.656/1998 quanto à natureza do rol da ANS.
+ ..
+Assim, tendo em vista a retroatividade mínima da lei, havendo discussão nos autos acerca de tratamento de caráter continuado, caberá ao Juízo de origem observar os critérios estipulados na mencionada norma.
+Desse modo, a superveniência da referida resolução deverá ser considerada pelo tribunal de origem no reexame das questões fáticas a partir dos elementos estabelecidos pela Segunda Seção do Superior Tribunal de Justiça e da nova legislação em vigor.
+Sendo assim, caberá ao Tribunal de Justiça de São Paulo atentar para a inclusão do medicamento no rol da ANS ao reapreciar o processo, sem nenhum prejuízo para a parte embargante.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
