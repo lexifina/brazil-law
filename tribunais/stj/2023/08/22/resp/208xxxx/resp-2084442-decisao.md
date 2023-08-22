@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SEMAX SEGURANÇA MÁXIMA LTDA. com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fl. 543):
+APELAÇÃO CÍVEL - AÇÃO REGRESSIVA DE RESSARCIMENTO - LEGITIMIDADE ATIVA E PASSIVA - REJEIÇÃO - SISTEMA DE MONITOAMENTO ELETRÔNICO - AUSÊNCIA DE FALHA NA QUALIDADE E PRESTAÇÃO DE SERVIÇO - ISENÇÃO DE RESPONSABILIDADE - COMPROVADA. Para ser considerado legitimado é necessário que a parte esteja em determinada situação jurídica que lhe autorize a participar de um processo em que se discuta determinada relação jurídica de direito material, bastando que, inicialmente, seja demonstrada que a relação processual litigiosa se trave entre o possível titular do direito pretendido e o sujeito que estaria obrigado a suportar os efeitos oriundos de uma sentença que julgue procedente o pedido inicial. Quanto àilegitimidade ativa, a sub-rogação alegada está prevista no artigo 786 do Código Civil, que preleciona: "Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano". Não havendo falha do sistema de monitoramento e sua potencial inadequação diante da modalidade específica de ação criminosa não denota a falha na prestação de serviços. Reputa-se satisfeita a função social do contrato de vigilância apenas pelo registro da ação violadora e sua eficiente comunicação.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 581-587).
+Em suas razões recursais (e-STJ, fls. 590-599), sustenta a parte recorrente a existência de violação ao art. 85, §§2º e 11º, do CPC/15, alegando que, de forma indevida, foram fixados honorários na instância recursal em seu desfavor, mesmo tendo não tendo sucumbido em 1ª instância, pois a ação fora julgada totalmente improcedente.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Contrarrazões apresentadas às fls. 634-646 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 650-653 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso merece prosperar.
+1. Com efeito, o Tribunal de origem condenou a parte ora recorrente ao pagamento de honorários sucumbenciais no importe de 10% sobre o valor da causa, nos seguintes termos (e-STJ, fl. 550):
+Em consequência, condenamos as partes nas custas e despesas processuais na porcentagem de 50% (cinquenta por cento) para cada.
+Condenamos em honorário a parte autora/1º apelante, em 15% (quinze por cento) e a parte ré/apelante adesiva em 10% (dez por cento) do valor da causa, conforme determina o artigo 85, §2º e §11, do Código de Processo Civil.
+Compulsando os autos, extrai-se da sentença que apenas a parte autora foi condenada ao pagamento de honorários, ante o julgamento de total improcedência dos pedidos formulados em sua petição inicial.
+Confira-se (e-STJ, fl. 455):
+Ante o exposto, não restando configurada falha na prestação de serviços ou ato ilícito cometido e, consequentemente, a responsabilidade da Requerida sobre os danos indenizados pela parte autora, RESOLVE-SE O MÉRITO E JULGAM-SE IMPROCEDENTES OS PEDIDOS formulados nesta ação. Condena-se a parte autora ao pagamento das custas e despesas processuais, bem como honorários advocatícios, fixados em 10% (dez por cento) do valor da causa, nos termos do artigo 85, § 2º, do Estatuto Processual Civil.
+Nesse contexto, com razão a parte recorrente.
+De início, cumpre salientar que esta Corte Superior fixou entendimento no sentido de que é necessário o preenchimento simultâneo de três requisitos para majoração dos honorários recursais:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+(..)
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+(..)
+(AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017)
+Ademais, a jurisprudência é firme no sentido de que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais" (AREsp 1.050.334/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/4/2017).
+A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022 do CPC/2015, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. No caso concreto, não se constata o vício alegado pela parte embargante uma vez que pretende a fixação honorários de sucumbência em desfavor do agravado em virtude da negativa de provimento ao agravo interno interposto e de ausência de fixação nas instâncias ordinárias.
+3. No entanto, esta Corte orienta-se no sentido de que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais" (AREsp 1.050.334/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/4/2017).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.953.597/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. INSURGÊNCIA CONTRA O CÔMPUTO DOS HONORÁRIOS RECURSAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se trata de violação do art. 85, § 11, do CPC, como defende o recorrente, e sim de mera interpretação equivocada da decisão proferida por esta Corte, que determinou a majoração dos honorários em 15% sobre o valor já arbitrado.
+2.1. Os honorários recursais não têm autonomia da sucumbência fixada na origem e representam apenas um acréscimo ao ônus estabelecido previamente, de modo que o valor já arbitrado serve como base de cálculo sobre o qual incidirão os 15% da majoração.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.134.979/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+Assim, considerando que em sede de primeiro grau a ora recorrente sagrou-se vencedora, não era mesmo cabível a majoração determinada pelo Tribunal de origem sem que houvesse prévia condenação aos honorários de sucumbência. Merece reforma, portanto, o acórdão recorrido, tão somente a fim de se afastar a condenação da ora recorrente ao pagamento de honorários advocatícios.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou provimento ao recurso especial a fim de que seja afastada a condenação da parte ora recorrente ao pagamento de honorários advocatícios de sucumbência.
+Publique-se.
+Intimem-se.
