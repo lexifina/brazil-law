@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES PAGOS A TÍTULO DE TUTELA ANTECIPADA REVOGADA. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. PRAZO TRIENAL IMPLEMENTADO.
+1) Trata-se de agravo de instrumento interposto em face da decisão que rejeitou a impugnação à penhora oferecida pelo agravante.
+2) A parte agravante efetivamente não ofereceu o incidente de impugnação à fase de cumprimento de sentença no momento adequado, o que importaria no não conhecimento do recurso, não fosse a arguição de prescrição, a qual, consabido, trata-se de matéria de ordem pública que pode ser arguida a qualquer tempo e em qualquer grau de jurisdição - inclusive, reconhecida de ofício, não havendo que se falar em preclusão.
+3) Consoante entendimento jurisprudencial majoritário, a pretensão de restituição de valores pagos em decorrência de tutela antecipada revogada prescreve em três anos a contar do trânsito em julgado da decisão revogatória.
+4) No caso em apreço, os documentos que instruem o presente instrumento demonstram que o acórdão que deu provimento ao Recurso Especial interposto pela fundação e julgou improcedente a ação revisional de benefício previdenciário transitou em julgado em 11.11.2014, enquanto que o pedido de restituição formulado pela entidade agravante foi protocolado em 27.04.2018.
+5) Assim, considerando que entre a data do trânsito em julgado do acórdão que revogou a tutela e o protocolo do pedido de restituição transcorreu mais que três anos, a pretensão ressarcitória restou fulminada pela prescrição prevista no art. 206, §3º, inc. IV, do CPC.
+PRELIMINAR CONTRARRECURSAL REJEITADA. AGRAVO DE INSTRUMENTO PROVIDO" (fl. 227, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 272/280, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, 1.022, I, § 2º, II, do Código de Processo Civil, 75 da Lei Complementar nº 109/2001 e 2º, § 1º, da Lei de Introdução às normas do Direito Brasileiro.
+Argumenta, em síntese, a inaplicabilidade do prazo prescricional trienal às demandas que buscam a restituição de valores acrescidos ao benefício previdenciário complementar em virtude de tutela antecipada deferida e posteriormente revogada, devendo ser aplicado o prazo prescricional quinquenal.
+Apresentadas contrarrazões às fls. 378/392 (e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar.
+De início, no tocante à violação dos arts. 489, § 1º, IV, e 1.022, I, § 2º, II, do CPC, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Entretanto, quanto ao mérito merece provimento o recurso especial.
+Acerca do tema, a Segunda Seção do Superior Tribunal de Justiça consolidou entendimento no sentido da aplicação do prazo prescricional decenal às demandas que buscam a restituição dos valores recebidos por beneficiário em decorrência de tutela antecipada posteriormente revogada.
+Confira-se:
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. BENEFÍCIOS PREVIDENCIÁRIOS COMPLEMENTARES. DECISÃO LIMINAR. REVOGAÇÃO. RESTITUIÇÃO. POSSIBILIDADE. EXECUÇÃO NOS MEUS AUTOS. POSSIBILIDADE. PRAZO PRESCRICIONAL DECENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO QUE CONFIRMA A REVOGAÇÃO DA LIMINAR. NÃO OCORRÊNCIA DA PRESCRIÇÃO.
+1- Recurso especial interposto em 1/4/2021 e concluso ao gabinete em 27/5/2021.
+2- O propósito recursal consiste em definir: a) se os valores de benefícios previdenciários complementares recebidos por força de decisão liminar posteriormente revogada devem ser restituídos; b) se é possível proceder à execução, nos próprios autos, objetivando a restituição de valores despendidos a título de decisão liminar posteriormente revogada; c) o fundamento da pretensão à restituição dos valores despendidos a título de decisão liminar e o prazo prescricional a que está submetida; d) o termo inicial do referido prazo; e f) o índice de correção monetária incidente sobre os valores a serem restituídos.
+3- Em sessão de julgamento realizada em 25/10/2022, diante da divergência instaurada no âmbito da Terceira Turma acerca do prazo prescricional, afetou-se o julgamento do presente recurso à Segunda Seção.
+4- Esta Corte Superior perfilha o entendimento de que "os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, ante a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa" (REsp 1555853/RS, TERCEIRA TURMA, julgado em 10/11/2015, DJe 16/11/2015).
+5- É possível proceder à execução, nos próprios autos, objetivando o ressarcimento de valores despendidos a título de tutela provisória, posteriormente revogada, sendo desnecessário, portanto, o ajuizamento de ação autônoma para pleitear a devolução do numerário. Precedentes.
+6- Muito embora a decisão que deferiu a tutela de urgência possa ser encarada como causa imediata dos referidos pagamentos, é imperioso observar que, a rigor, a verdadeira causa, isto é, a causa mediata do recebimento da complementação de aposentadoria é o próprio contrato de previdência privada entabulado entre recorrente e recorrida, motivo pelo qual não há que se falar, na espécie, em enriquecimento sem causa.
+7- É de 10 anos o prazo prescricional aplicável à pretensão de restituição de valores de benefícios previdenciários complementares recebidos por força de decisão liminar posteriormente revogada, tendo em vista não se tratar de hipótese de enriquecimento sem causa, de prescrição intercorrente ou de responsabilidade civil.
+8- Na específica hipótese dos autos, que cinge controvérsia acerca da revogação de decisão liminar, o termo a quo do prazo prescricional é a data do trânsito em julgado do provimento jurisdicional em que se confirma a revogação da liminar, pois este é o momento em que o credor toma conhecimento de seu direito à restituição, pois não mais será possível a reversão do aresto que revogou a decisão precária.
+9- Na espécie, tendo em vista que o trânsito em julgado ocorreu em 31/3/2016 e que o cumprimento de sentença voltado à restituição dos valores recebidos por força de decisão precária foi proposto em 13/3/2020, é imperioso concluir que não houve o decurso do prazo prescricional decenal previsto no art. 205, do CC/02.
+10- Recurso especial não provido" (REsp 1.939.455/DF, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 26/4/2023, DJe de 9/6/2023 - grifou-se).
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DO AGRAVANTE .
+1. Nos termos da jurisprudência deste STJ, é devida a restituição de parcelas incorporadas aos proventos de complementação de aposentadoria por força de antecipação de tutela posteriormente revogada.
+2. Conforme entendimento recentemente firmado pela Segunda Seção desta Corte (REsp 1.939.455/DF), a pretensão de repetição sujeita-se ao prazo prescricional decenal.
+3. Agravo interno desprovido" (AgInt no REsp 1.940.179/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023).
+Ademais, registra-se que,
+"(..) segundo a teoria da "actio nata", conforme destacado pelo juízo de primeiro grau e reconhecido pela jurisprudência do Superior Tribunal de Justiça, a pretensão de cobrança do credor nasce com a ciência inequívoca da lesão e de sua extensão pelo titular do direito violado" (REsp 1919523/DF, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/06/2022, DJe 23/06/2022).
+Conforme consta do acórdão recorrido, o trânsito em julgado ocorreu em 11/11/2014 e o pedido de restituição dos valores recebidos por força da decisão precária foi protocolado em 27/04/2018. Portanto, é imperioso concluir que não houve o decurso do prazo prescricional decenal previsto no art. 205 do Código Civil.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a prescrição reconhecida na origem.
+Publique-se.
+Intimem-se.
