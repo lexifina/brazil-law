@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Alessandro Pires de Oliveira - cumprindo pena privativa de liberdade em razão de condenação pelos crimes de tráfico de drogas e roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0003681-94.2023.8.26.0996), não comporta processamento.
+Com efeito, busca a impetração o restabelecimento da decisão que concedeu a progressão de regime prisional ao paciente (PEC n. 0003791-44.2015.8.26.0521), ao argumento de que é de rigor a nulidade da decisão, pois o magistrado deverá fundamentar a necessidade de exame criminológico de acordo com o caso em concreto, conforme a Súmula Vinculante 26 do STF e na Súmula 439 do STJ (fl. 5).
+Ressalte-se que este Superior Tribunal sumulou o entendimento de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+Logo, tendo o Tribunal de origem se referido ao fato de que o agravado praticou crimes graves consistentes no tráfico ilícito drogas (equiparado a hediondo) e roubo majorado (crime cometido mediante violência ou grave ameaça), cujo término das penas está previsto para 5.5.2026 (fl. 11), além de ostentar falta disciplinar de natureza grave ocorrida em 22.6.2021, revelando tratar-se de pessoa portadora de personalidade violenta e corrompida pelo submundo do crime, pelo que entende imprescindível seja o mesmo submetido a exame criminológico para a correta aferição da presença do requisito subjetivo (fls. 28/29), não se verifica o constrangimento alegado na inicial.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE PELA PRÁTICA DOS CRIMES DE TRÁFICO DE DROGAS E ROUBO MAJORADO. SÚMULA 439/STJ. INCIDÊNCIA. APENADO QUE OSTENTA INFRAÇÕES DISCIPLINARES DE NATUREZA GRAVE E MÉDIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
