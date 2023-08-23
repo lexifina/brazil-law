@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de CASAALTA CONSTRUÇÕES LTDA. (outro nome: Casaalta Construções Ltda. Em Recuperação Judicial) contra a decisão que inadmitiu recurso especial. O apelo extremo, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, visa reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SISTEMA FINANCEIRO DE HABITAÇÃO. ATRASO NA ENTREGA DA OBRA. RESCISÃO. GRATUIDADE DE JUSTIÇA. IRDR 25. RESPONSABILIDADE SOLIDÁRIA DAS RÉS. DANO MORAL. MAJORAÇÃO.
+1. A teor do disposto nos art. 98 e 99 do CPC, autodeclarada na petição inicial a hipossuficiência ipso facto resta ela ordinariamente acolhida. Todavia, como a presunção de veracidade da declaração de hipossuficiência é juris tantum, pode ser infirmada pela parte adversa ou pela prova constante dos autos que convença ao Juiz acerca da capacidade econômica da parte requerente.
+2. Ademais, conforme entendimento consolidado no IRDR25, o benefício deve ser concedido independente de qualquer análise probatória para o requerente que possui rendimentos mensais que não ultrapassem o valor do maior benefício do Regime Geral de Previdência Social. Todavia, no caso de rendimentos acima deste patamar, a insuficiência não se presume e a concessão do benefício dependerá da prova da existência de outros gastos.
+3. No caso, os rendimentos da parte requerente não ultrapassam o valor do maior benefício do Regime Geral de Previdência Social, de modo que faz jus ao benefício da assistência judiciária gratuita.
+4. A CEF tem responsabilidade solidária junto com a construtora quanto ao atraso, pois a empresa financiadora deveria proceder à fiscalização do prazo de execução da obra. Demonstrada a infringência contratual, é devida a rescisão dos contratos de promessa de compra e vendado imóvel e o contrato de financiamento habitacional, com condenação das rés na restituição da integralidade dos valores adimplidos pela parte autora.
+5. A responsabilidade solidária limita-se às despesas realizadas pelo mutuário (tais como gastos com pagamento de ITBI, verbas cartorárias), ao pagamento dos danos materiais, consistentes no ressarcimento dos alugueis, bem como ao pagamento a título de danos morais e devolução de juros de obra.
+6. O atraso na entrega da obra, evidenciado nos autos, sem dúvida alguma gerou no autor sofrimento, transtorno e inquietações caracterizadores do dano moral, sendo suficiente para ensejar a obrigação de reparar o dano extrapatrimonial.
+7. No que diz respeito ao quantum indenizatório, não há parâmetros legais definidos para a fixação de indenização decorrente de dano extrapatrimonial. Mesmo porque não se trata de reparação efetiva, mas de uma simples compensação, já que é imensurável monetariamente o abalo psicológico sofrido pelo lesado.
+8. Majorada a quantia fixada a título de dano moral" (fls. 425/427 e-STJ).
+Nas razões do especial, a recorrente aponta a violação do art. 186 e 927 do Código Civil, além de divergência jurisprudencial, afirmando que não houve ato ilícito cometido, logo, não pode ser condenada ao pagamento de danos morais. Acrescenta que o atraso na entrega do imóvel não é suficiente, por si só, para lesionar lesão à paz ou integridade emocional ou moral.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso merece prosperar.
+Tem razão a recorrente no que tange à não configuração dos danos morais porque a condenação se deu em virtude, tão-somente, do atraso na entrega de imóvel adquirido pelo recorrido.
+Esta Corte já decidiu que o simples inadimplemento contratual não enseja abalo extrapatrimonial.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL.ATRASO NA ENTREGA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. A demora na entrega do imóvel, em regra, constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar.
+3. Agravo interno não provido."
+(AgInt no REsp 1.715.842/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 19/11/2018, DJe 21/11/2018)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDEDO CPC/73. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO.PARCIAL PROCEDÊNCIA. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA.RESPONSABILIDADE DA CONSTRUTORA. AUSÊNCIA DE EXCLUDENTE. LUCROS CESSANTESDEVIDOS. CUMULAÇÃO COM MULTA. POSSIBILIDADE. EQUIPARAÇÃO DE MULTAS. VALOREXAGERADO PARA O COMPRADOR. DESEQUILÍBRIO CONTRATUAL. FUNDAMENTOINATACADO. SÚMULA Nº 283 DO STF. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIAEXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. RECENTE ENTENDIMENTO DESTACORTE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. É inaplicável o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Inexiste ofensa ao art. 535 do CPC/73 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes.
+3. Consoante a orientação firmada nesta Corte, é possível a cumulação da multa, de caráter moratório, eventualmente estipulada no contrato de promessa de compra e venda, com eventuais lucros cessantes decorrentes das perdas e danos, cuja finalidade é compensatória, o que evidencia a natureza distinta dos institutos. Precedentes.
+4. A Corte de origem procedeu à equiparação da multa contratual por constatar que a penalidade estipulada em contrato no caso de inadimplência do comprador era muito superior à estipulada para o descumprimento da obrigação da vendedora, entendendo pela desproporcionalidade no presente caso. Ocorre que tal fundamento, suficiente para manter a decisão, não foi impugnado nas razões do apelo nobre, incidindo, no ponto, o óbice daSúmula nº 283 do STF.
+5. A moderna jurisprudência firmada no âmbito da Terceira Turma desta Corte é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes compradores.
+6. No caso concreto, a fundamentação do dano moral está justificada somente da frustração da expectativa da autora, que se privou do uso do imóvel pelo tempo em que perdurou o atraso na entrega da obra, sem tecer nota adicional ao mero atraso que pudesse, além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral.
+7. Agravo regimental parcialmente provido a fim de excluir a condenação por dano moral."
+(AgRg no AREsp 847.358/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2017, DJe 1º/06/2017)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIALCOMPROVADO. INADIMPLEMENTO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DEIMÓVEL. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. DANO MORAL NÃO CONFIGURADO.
+1.- Dissídio jurisprudencial comprovado.
+2.- "O inadimplemento de contrato, por si só, não acarreta dano moral, que pressupõe ofensa anormal à personalidade. É certo que a inobservância de cláusulas contratuais pode gerar frustração na parte inocente, mas não se apresenta como suficiente para produzir dano na esfera íntima do indivíduo, até porque o descumprimento de obrigações contratuais não é de todo imprevisível." (REsp 876.527/RJ).
+3.- Agravo improvido."
+(AgRg no AREsp 287.870/SE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/5/2013, DJe 05/06/2013)
+No caso dos autos, o Tribunal local fundamenta a existência de dano moral unicamente no atraso na entrega do imóvel. Entendeu que
+"(..) O atraso na entrega da obra, evidenciado nos autos, sem dúvida alguma gerou no autor sofrimento, transtorno e inquietações caracterizadores do dano moral, sendo suficiente para ensejar a obrigação de reparar o dano extrapatrimonial" (e-STJ fl. 1.442).
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para afastar da condenação a indenização por danos morais.
+Em razão da sucumbência recíproca, os ônus sucumbenciais fixados na origem devem ser divididos na proporção de 50% (cinquenta por cento) para os autores e 50% (cinquenta por cento) para a ré.
+Publique-se.
+Intimem-se.
