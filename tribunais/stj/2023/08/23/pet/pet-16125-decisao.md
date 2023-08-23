@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de petição apresentada por Souad Georges Abou Saada Nucci.
+Na petição, afirma que (e-STJ fl. 5/6):
+AGRAVANTE: MAURICIO NUCCI, AGRAVANTE : SOUAD GEORGES ABOU SAADA NUCCI E OUTROS, já qualificados nos autos supra, por seu advogado infra assinado, vem muito respeitosamente à presença de Vossa Excelência, tempestivamente, a fim de COMUNICAR QUE: Considerando o transito em julgado da decisão mediante a qual a Exceção de Suspeição n. 251/DF E Considerando o transito em julgado da decisão mediante a qual a Exceção de Suspeição n. 250/DF, os autos atrás não transitaram em julgado, decisões do Doutor Ministro Falcão, após essas respeitáveis decisões, como não cabia recurso, foi apresentado tempestivamente o mandado de segurança e Distribuído para o Doutor Ministro MAURO CAMPBELL MARQUES, MANDADO DE SEGURANCA Nº 29446 - DF (2023/0195152-4) RELATOR : MINISTRO MAURO CAMPBELL MARQUES, até a presente data o que esta valendo é o respeitoso despacho a seguir: "protraio a decisão liminar. Intimem-se as autoridades coatoras para prestar informações, no prazo legal, na forma do art. 7º, I, da Lei n. 12.016/2009. Intime-se o órgão de representação judicial da pessoa jurídica interessada (União) para manifestar interesse em ingressar no feito, na forma do art. 7º, II, da Lei n. 12.016/2009. Após, vista ao Ministério Público Federal para exarar parecer, observado o art. 12 da Lei n. 12.016/09. Intimem-se. Publique-se COM URGENCIA.
+Após, realizou o seguinte requerimento (e-STJ fl. 8):
+Após o exposto, requer a Vossa Excelência Doutora Presidente: a) Caso tenha alguma duvida abrir os autos mandado de segurança 29446 - DF (2023/0195152-4) RELATOR MINISTRO MAURO CAMPBELL. As peças principais estão juntadas;
+É o relatório. Passo a decidir.
+O art. 330 do CPC/2015 apresenta hipóteses para o indeferimento da inicial. Entre essas, a petição inepta está mencionada. Será considerada inepta a petição que: lhe falta pedido ou causa de pedir. (art. 330, § 1º, do CPC/2015). Manifestamente, a petição inicial não apresenta causa de pedir clara e nem um pedido claro, preciso.
+Frisa-se, ademais, que eventual pedido de juntada de documentos, a princípio, pode ser realizado nos autos do processo a que esses documentos se referem.
+Ante o exposto, indefiro a petição.
+Publique-se. Intimem-se.
