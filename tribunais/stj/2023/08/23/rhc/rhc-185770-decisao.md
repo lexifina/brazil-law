@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto em favor de MAURÍCIO LEITE ALVES, impugnando decisão liminar proferida por Desembargador do Tribunal de Justiça do Estado do Piauí, em julgamento do HC n. 0751753-74.2023.8.18.0000.
+Consta dos autos que, em decisão proferida em 26/11/2022 no bojo da Execução Penal n. 0701079-94.2022.8.18.0140, o Juiz de Direito da Vara das Execuções Penais da Comarca de Teresina/PI indeferiu pedido de transferência do Paciente para estabelecimento prisional na comarca de Petrolina - PE, perto de seus familiares (e-STJ, fl. 21).
+Contra a decisão, a defesa impetrou habeas corpus, perante a Corte de origem, mas o Relator indeferiu a liminar (e-STJ fls. 38/43).
+Neste recurso (e-STJ, fls. 47/58),  a  defesa  sustenta que o recorrente tem direito a cumprir a pena perto de seus familiares, os quais se encontram na cidade de Petrolina-PE, onde inclusive pode conseguir novas propostas de emprego para retornar à sociedade voltado às atividades lícitas.
+Aponta, também, violação da Súmula Vinculante n. 56, que prescreve: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+Diante  disso,  requer,  liminarmente , seja suspenso o cumprimento da pena na Casa de Detenção Provisória Cap. Carlos José Gomes de Assis, a fim de que o recorrente seja transferido para a Comarca de Petrolina/PE.
+No mérito, pede a confirmação da liminar e, de forma subsidiária, que ele possa cumprir a pena, excepcionalmente, em regime menos gravoso, como o semiaberto ou a prisão domiciliar, até o surgimento de vaga em estabelecimento adequado para o cumprimento da pena.
+É  o  relatório.  Decido.
+Observo, inicialmente, que o art. 30 da Lei 8.038/90 é expresso ao afirmar que o recurso ordinário em habeas corpus somente é cabível diante de julgados proferidos por TRFs e Tribunais de Justiça que tenham examinado o mérito da controvérsia.
+Eis o exato teor da norma:
+Art. 30 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de Habeas Corpus, proferidas pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, será interposto no prazo de cinco dias, com as razões do pedido de reforma. (Vide Lei n º 13.105, de 2015) (Vigência)
+De se lembrar, ainda, que a jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado.
+Nesse sentido, entre outros, os seguintes precedentes:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. PEDIDO AJUIZADO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE JULGAMENTO COLEGIADO. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FURTO QUALIFICADO. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. COMPATIBILIZAÇÃO COM A MANUTENÇÃO DA CUSTÓDIA PREVENTIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECEIO DE CONTAMINAÇÃO PELO COVID-19. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO JUÍZO DE PRIMEIRO GRAU. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de apelar em liberdade foi indeferido em decisão monocrática do desembargador relator da apelação interposta em favor do apenado, inexistindo provocação ao colegiado para se manifestar acerca do tema. A competência do Superior Tribunal de Justiça - STJ, portanto, não foi inaugurada para apreciar a questão. Precedentes.
+2. Ainda que assim não fosse, não há constrangimento ilegal na manutenção da prisão preventiva quando fixado o regime semiaberto para início de cumprimento da reprimenda, tendo em vista que ambos foram compatibilizados por determinação do magistrado sentenciante.
+3. Cabe lembrar que o surgimento de fato novo, no caso a alegação de receio de contaminação pelo vírus COVID-19 e o maior risco suportado pelo paciente, deve inicialmente ser submetida ao Juízo ordinário, não devendo ser analisado diretamente nesta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC 567.540/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020) - negritei.
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL A QUO. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO DESPROVIDO.
+1. O habeas corpus foi impetrado contra decisão singular do Desembargador Relator que, em decisão terminativa, não conheceu do habeas corpus originário. Como não se trata de decisão liminar, diversamente do que alega o Agravante, não é hipótese de cabimento do entendimento consolidado na Súmula n.º 691 do Supremo Tribunal Federal ou de sua eventual superação.
+2. Não foi conhecido o habeas corpus, pois, manejado contra decisão monocrática do Desembargador Relator, não houve a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado e, portanto, não ocorreu o exaurimento da instância ordinária.
+3. Agravo desprovido.
+(AgRg no HC 579.342/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 16/06/2020) - negritei.
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NÃO ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. COMPETÊNCIA DO STJ NÃO INAUGURADA. EXTINÇÃO DA PUNIBILIDADE PELO IMPLEMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECURSO DE APELAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO NÃO PROVIDO.
+1. O não esgotamento da instância ordinária impede a inauguração da competência desta Corte Superior. No caso, a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por este Superior Tribunal.
+2. Não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+3. "A Corte Especial deste Sodalício, por ocasião do julgamento da APn 688/RO, relatora para o acórdão a Ministra Maria Thereza de Assis Moura, DJe 4/4/2013, entendeu que a extinção da punibilidade do agente, pelo reconhecimento da prescrição da pretensão punitiva, anula os efeitos penais e extrapenais da condenação, seja na modalidade intercorrente seja na modalidade retroativa, afastando o interesse recursal que objetive a absolvição. Precedentes STJ e STF" (AgRg no AREsp 1.073.627/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+4. O entendimento consolidado, à luz da essência do instituto do writ, apregoa que não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+5. Agravo não provido.
+(AgRg no HC 520.919/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/08/2019, DJe 20/08/2019) - negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. PECULATO. DISPENSA DE LICITAÇÃO. WRIT CONTRA DECISÃO MONOCRÁTICA. INCOMPETÊNCIA DESTE TRIBUNAL SUPERIOR. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, pois está em consonância com a jurisprudência desta Corte Superior.
+2. Não se mostra cabível a impetração do writ contra decisão monocrática que indefere liminarmente o mandamus de origem, em razão de ser necessária a interposição de recurso para submissão do respectivo decisum ao colegiado competente, de modo a exaurir a instância antecedente, nos temos do art. 105, II, a, da Constituição Federal.
+3. Agravo regimental improvido.
+(AgRg no HC 509.051/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/06/2019, DJe 13/06/2019) - negritei.
+Idêntico raciocínio se aplica aos recursos ordinários em habeas corpus, uma vez que o art. 105, II, alínea "a", da Constituição Federal expressamente prevê:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+(..)
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+Seja dizer, também no caso dos recursos ordinários a competência desta Corte somente se inaugura após o exame do mérito da controvérsia por órgão colegiado de segunda instância.
+Entretanto, no caso concreto, o recorrente se volta contra decisão de Desembargador Relator que indeferiu a liminar pleiteada no bojo de habeas corpus impetrado na origem.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Na espécie, o Juízo das Execuções Criminais indeferiu o pedido de transferência do executado, tendo em vista a ausência de vaga para recebimento do apenado em presídio da comarca de Petrolina, bem como de Salgueiro (e-STJ, fl. 21).
+O eminente Desembargador da Corte de origem, por sua vez, por ocasião do indeferimento da liminar postulada no writ lá impetrado, consignou, essencialmente (e-STJ fls. 40/43):
+ ..
+.. não se vislumbram os requisitos necessários à concessão da medida de urgência vindicada.
+o entendimento consolidado das cortes superiores é no sentido de que "a transferência ou permanência do preso em estabelecimento prisional situado próximo ao local onde reside sua família não é direito absoluto do reeducando, nada obstante o que consta do art. 226 da Constituição Federal, facultando-se a transferência para local de residência do sentenciado ou de seus familiares tão somente se constatada a existência de vagas, mediante prévia autorização."
+ ..
+No caso dos autos, a decisão que indeferiu o pleito do Paciente não se encontra desprovido de fundamentação, porquanto apresentou elementos idôneos, pois salientou que "Ás fls. 109 foi juntado ofício oriundo da Comarca de Petrolina - PE, informando a ausência de vaga para recebimento do reeducando naquela comarca, bem como no Presídio de Salgueiro - PE." Portanto, a decisão proferida pelo magistrado de piso está em consonância com o entendimento dos Tribunais Superiores, não se vislumbrando, em uma cognição sumária, qualquer flagrante ilegalidade, no presente caso, passível de ser sanada pela via mandamental do habeas corpus.
+No que diz respeito ao pedido subsidiário de concessão de prisão domiciliar, em regime menos gravoso, até o surgimento de vaga em estabelecimento penal adequado para o cumprimento da pena, também não merece prosperar o pleito do Impetrante.
+O apenado foi condenado à pena de 08 (oito) anos e 02 (dois) meses, cumprindo pena em regime fechado, o qual é incompatível com a substituição da prisão por domiciliar.
+Portanto, considerando que o Paciente não se encaixa nos requisitos acima exigidos, não há que se falar em substituição da prisão por domiciliar no presente caso.
+Por conseguinte, em face do caso concreto que aqui se cuida, não resta suficientemente demonstrado, num primeiro momento, o elemento da impetração que indica a notória existência do constrangimento ilegal, nem mesmo a probabilidade do dano irreparável, pressupostos essenciais à concessão da liminar vindicada.
+Em face do exposto, inexistentes os requisitos autorizadores da concessão da liminar, DENEGO o pedido vindicado, ao tempo em que DETERMINO à COORDENADORIA JUDICIÁRIA CRIMINAL que proceda com a NOTIFICAÇÃO da autoridade apontada como coatora para apresentar as informações de praxe.
+Após, remetam-se os autos ao Ministério Público para apresentação de parecer opinativo.
+(negritei)
+Da leitura da decisão indeferitória de liminar, constata-se que se encontra devidamente fundamentada e amparada em jurisprudência desta Corte sobre os temas nela abordados, pelo que não se vislumbra nenhum tipo de teratologia apto a justificar uma indevida supressão de instância, no caso concreto.
+Por certo, todas as questões suscitadas pela defesa do recorrente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso.
+Dê-se ciência desta decisão ao Tribunal de Justiça e ao Juízo de execução.
+Intimem-se.
