@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por INFINITI PLUS EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL à decisão de fls. 267/268, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Inicialmente, conforme verifica-se em fl.60, frente a constatação de que não havia procuração juntada aos autos, a Agravante foi intimada para regularizar a sua representação processual, nos termos do art. 76 do Código de Processo Civil, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso, vejamos:
+ ..
+Posteriormente, em fls. 64-69, a presente Agravante, ora Embargante, realizou a conduta supracitada, regularizando sua representação processual, para o regular andamento do feito.
+ ..
+Contudo, consoante verificado na decisão embargada, a Exma. Ministra Relatora entendeu por bem em não conhecer do presente recurso, sob a justificativa de irregularidade processual, quanto a juntada de cadeia de procurações, nos termos da Súmula n. 115/STJ, vejamos:
+ ..
+Entretanto, Exma. Ministra Relatora, cumpre esclarecer que em fls.66-69, a Agravante, ora Embargante, realizou a regularização de sua representação processual, em tempo hábil, nos termos da decisão proferida em fl.60.
+Dessa forma, é certo que a irregularidade apontada fora sanada, em tempo hábil e, em todos os termos do art. 76 do Código de Processo Civil, conforme requerido em fl.60 (fls. 277/279).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo, Dra. Camila Crespi Castro e do recurso especial, Dra. Maressa Renata Demarchi Bataglini.
+Registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de representação e, apesar disso, não houve a regularização, uma vez que as procurações juntadas às fls. 261/263 não são suficientes para completar a cadeia de representação, uma vez que não conferem poderes às subscritoras do agravo e do recurso especial.
+É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula n. 115 do STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Os recursos dirigidos à instância superior desacompanhados de procuração ou em que a cadeia de substabelecimentos mostra-se incompleta são inexistentes, à luz do disposto na Súmula 115 do STJ.
+1.1. Na hipótese, embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu, no prazo assinalado, à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do recurso.
+1.2. Esta Corte Superior entende que não se faz necessária a intimação pessoal da parte no caso de falhas na procuração constante dos autos ou defeito na cadeia de substabelecimentos. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 2255121/SP, Ministro Relator MARCO BUZZI, QUARTA TURMA, julgado em 24/04/2023, DJe 02/05/2023)
+Observe-se que não basta, na petição de regularização, que a parte traga nova procuração, de advogados diversos dos subscritores anteriores, ratificando o ato processual pretérito. Essa providência é insuficiente, uma vez que trata de ratificação desconexa com os atos anteriores.
+É vital perceber que a ratificação não é propriamente a realização de um novo ato, ignorando-se o ato que já foi praticado. Ratificar significa confirmar, reafirmar o que foi dito.
+Dessa forma, a abertura de prazo para regularização da representação do subscritor do recurso, nesta instância especial, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, bem como nos ditames da interpretação conjunta do Enunciado da Súmula n. 115/STJ, tem razão de ser no sentido de que a ratificação possível, nos termos da intimação para trazer aos autos a procuração dos subscritores anteriores, é uma complementação, uma reiteração de uma vontade já manifestada, uma confirmação do ato anteriormente praticado.
+A possibilidade de saneamento, da correção de um defeito, não pode ignorar o ato já praticado, mas, ao contrário, tem que oportunizar a ratificação desse ato. Nesse sentido, a intimação para regularização é expressa no sentido de que se traga aos autos a procuração dos subscritores originais, uma vez que o marco processual, que se leva em consideração para fins de verificação de regularidade da representação processual, é o momento da interposição do recurso.
+Desse modo, a regularização da representação processual que se considera válida deve guardar pertinência com o subscritores originários, não bastando a mera ratificação por outros procuradores.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
