@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ELTON DOUGLAS DA SILVA ARAUJO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que o ora paciente foi preso em flagrante, em 30/06/2022, e teve a prisão convertida em preventiva, em 01/07/2022, pela suposta prática do crime previsto no art. 33, da Lei 11.343/2006 - "apreendidos em poder do paciente 22,993 (vinte e duas gramas e novecentos e noventa e três miligramas da substância conhecida por cocaína)"- fl. 96. Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo por meio do qual buscava a revogação da prisão preventiva em razão do excesso de prazo para a formação da culpa. O Tribunal de origem manteve a prisão e denegou a ordem em acórdão, de fls. 19-26, asseverando que:
+"Nesse contexto, compreendo inexistir desproporcionalidade ou violação ao princípio da razoável duração do processo. Além disso, embora seja tecnic amente primário, o paciente responde por outro processo criminal relativo a crime de tráfico de drogas (nº 4578-80.2017.8.17.0480), o que justifica a manutenção da sua segregação cautelar, diante da reiteração delitiva em crime de mesma natureza"- fl. 22
+Daí o presente mandamus no qual a Defesa alega a existência de constrangimento ilegal consubstanciado no excesso de prazo na formação da culpa, aduzindo que: "o paciente se encontra preso há 200 (duzentos) dias" - fl. 12.
+Requer, assim, a revogação da prisão preventiva.
+A liminar foi indeferida às fls.91-92.
+Juntada de petição às fls.110-117.
+As informações foram prestadas às fls. 95-99 e 118-121 dando conta de que foi designada audiência de instrução e julgamento para o dia 12/06/2023.O Ministério Público Federal, às fls. 103-108, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES (ART. 33, CAPUT, LEI  11.343/2006). PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA POR EXCESSO DE PRAZO. NÃO OCORRÊNCIA. TRÂMITE REGULAR DO PROCESSO. CONCESSÃO DA ORDEM DE OFÍCIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUANTIDADE DE DROGA APREENDIDA, QUE EMBORA RELEVANTE, NÃO SE MOSTRA ESPECIALMENTE ELEVADA A PONTO DE JUSTIFICAR A CUSTÓDIA PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS. SUFICIÊNCIA E ADEQUAÇÃO. PARECER PELA CONCESSÃO DA ORDEM DE OFÍCIO" - fls. 103-108.
+É o relatório. Decido.
+In casu, a alegação de excesso de prazo para a formação da culpa encontra-se superada uma vez que, segundo informações do juízo a quo, verifica-se que já foram apresentadas as alegações finais.
+A propósito:
+"A tese de excesso de prazo está prejudicada pela notícia de que as partes já apresentaram alegações finais, atraindo a incidência do enunciado n. 52 da Súmula do Superior Tribunal de Justiça." (AgRg nos EDcl no HC n. 601.214/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 15/10/2020.)
+Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ilustrativamente:
+"Prejudicada a análise quanto à alegação de excesso de prazo na formação da culpa, pois, conforme se depreende das informações prestadas, a defesa do agravante já havia apresentado as alegações finais e o Ministério Público juntou as suas alegações finais em 5/5/2021, o que atrai ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, a qual prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". (AgRg no RHC n. 169.330/RJ, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 24/3/2023.)
+Nesse mesmo sentido: (AgRg no HC n. 796.125/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Tur ma, DJe de 6/3/2023); (AgRg no HC n. 756.005/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023); (AgRg no HC n. 712.721/RJ, Quinta Turma relator Ministro Joel Ilan Paciornik, DJe de 2/3/2022).
+Ante o exposto, não conheço d o presente habeas corpus.
+Publique-se. Intime-se.
