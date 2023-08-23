@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO GABRIEL DOS SANTOS SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2144981-88.2023.8.26.0000.
+Consta dos autos que, após representação da Autoridade Policial, foi decretada a prisão preventiva do Paciente, pronunciado em 30/05/2023 como incurso no art. 121, § 2.º, incisos II e IV, c.c. o art. 29, caput, do Código Penal, ocasião em que lhe foi negado o direito a recorrer em liberdade (fls. 28-47).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem (fls. 21-27).
+Neste writ, sustenta, em síntese, que não mais subsistem os requisitos autorizadores da prisão preventiva, assim como carece de fundamentação idônea a decisão que a manteve.
+Pugna pela nulidade do processo originário, pois, conforme alega, a Acusação "por conta própria fez o ADITAMENTO  da denúncia , o qual causou na defesa dúvida quanto ao real teor da acusação" (fl. 08).
+Tece considerações sobre a necessidade de afastamento das qualificadoras.
+Requer, liminarmente e no mérito, o decote das qualificadoras "e/ou retorno dos autos a origem para ser feito o correto ADITAMENTO a denúncia" (fl. 19). Pleiteia, ainda, a concessão de liberdade ao Paciente, mediante expedição de alvará de soltura.
+É o relatório. Decido.
+De saída, quanto às teses de nulidade do aditamento à denúncia e afastamento de qualificadoras, observo que as questões suscitadas não foram apreciadas pelo Tribunal a quo, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020.)
+No mais, no que diz respeito à insurgência em torno da prisão preventiva, não é possível analisar a pretensão deduzida, na medida em que os autos foram mal instruídos.
+Com efeito, o Impetrante não juntou a cópia da decisão que, originariamente, decretou a prisão preventiva do Paciente, peça necessária à devida compreensão da controvérsia.
+Em verdade, além do acórdão impugnado, constam apenas cópia dos antecedentes criminais (fls. 70-73), da denúncia (fls. 74-76), do mandado de prisão temporária (fls. 91-93), decretada em 04/07/2022, e da sentença de pronúncia, na qual foi mantida a prisão preventiva - decretada em outro momento processual.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TESES DE NULIDADE DO ADITAMENTO À DENÚNCIA E AFASTAMENTO DE QUALIFICADORAS. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE D A CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
