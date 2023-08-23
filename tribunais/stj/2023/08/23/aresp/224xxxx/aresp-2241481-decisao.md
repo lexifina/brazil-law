@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE VALORES ATE 40 SALARIOS MINIMOS. SUMULA 108 DESTE REGIONAL.
+É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude.
+Embargos de declaração rejeitados.
+No recurso especial obstaculizado, a parte recorrente apontou violação do 1.022, II, do CPC, porque, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questões relevantes ao deslinde da controvérsia.
+Defendeu, ainda, ofensa aos arts. 789, 797, 835, I e 854, §§ 3º, I e 5º, do CPC/2015 e aos arts. 7º, II, 9º, 10 e 11 da Lei n. 6.830/1980, uma vez que o juízo da execução já afastou antecipadamente a possibilidade de penhora de valores inferiores a 40 salários mínimos.
+Aduz que eventual impenhorabilidade de valores deve ser comprovada pelo executado posteriormente, oportunidade em que o juízo da execução poderá fazer a liberação da quantia então penhorada.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no agravo em recurso especial.
+Passo a decidir.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal a quo apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Quanto ao mais, cumpre observar que, na vigência do antigo estatuto processual, o art. 649 já previa a proteção da segurança alimentar e de provimentos do devedor e de sua família.
+Após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidade das poupanças até 40 salários mínimos, também previsto no atual instituto processual (art. 833, X, do CPC/2015), sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Registre-se, por oportuno que, apesar de a legislação processual fazer menção de valor em caderneta de poupança, o quantum pode estar depositado em outros tipos de contas ou investimentos, como conta corrente e fundos de investimentos.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido. (AgInt no AREsp 1853515/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021).
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido. (AgInt no REsp 1897212/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2021, DJe 01/07/2021).
+N esse passo, tem-se entendido que a previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário.
+Em casos semelhantes, esta Casa de Justiça tem compreendido que o disposto no art. 854, § 3º, I, do CPC/2015 não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários mínimos são presumidamente impenhoráveis.
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. MULTAS E DEMAIS SANÇÕES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que determinou a liberação de bloqueio de conta poupança de devedor. No Tribunal a quo, negou-se provimento ao recurso.
+II - Quanto à suposta afronta ao art. 854, §3º, I, do CPC/2015, verifica-se que a decisão proferida pelo Tribunal de origem, de que os valores inferiores a 40 salários-mínimos são impenhoráveis, vai ao encontro da jurisprudência do Superior Tribunal de Justiça. Confira-se: AgInt no AREsp 1.706.667/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/11/2020, DJe 17/11/2020.
+III - Agravo interno improvido.(AgInt no AREsp n. 2.054.335/RS, Relator Ministro FRANCISCO FALCÃO,SEGUNDA TURMA, julgado em 27/6/2022, DJe de 29/6/2022.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPENHORABILIDADE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. ALCANCE.
+1. De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2. O disposto no art. 854, § 3º, I, do CPC/2015, não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários-mínimos são presumidamente impenhoráveis.
+3. Agravo interno desprovido.(AgInt no AREsp n. 2.147.240/SC, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/9/2022, DJe de 3/10/2022).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
