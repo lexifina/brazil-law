@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por SILVIA REGINA RODRIGUES contra decisão do Tribunal de Justiça do Estado do Maranhão, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 326):
+EMENTA: APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. MARCO INTERRUPTIVO. AJUIZAMENTO DA AÇÃO DE EXECUÇÃO COLETIVA. PRAZO QUE COMEÇA A CORRER PELA METADE. INTELIGÊNCIA DO ARTIGO 9º DO DECRETO Nº 20.910/32 E SÚMULAS 150 E 383 DO STF. PRESCRIÇÃO. OCORRÊNCIA. RECURSO DESPROVIDO.
+- O presente recurso trata da ocorrência ou não da prescrição da pretensão executória individual de sentença coletiva oriunda da Ação de Cobrança nº 14.440/2000 ajuizada pelo SINPROESEMMA.
+- Conforme recente entendimento firmado pela Corte Especial do STJ, nos termos das Súmulas 150 e 383 do STF, "  o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos." (STJ. EREsp 1121138/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/05/2019, DJe 18/06/2019).
+- In casu, a ação de conhecimento ajuizada pelo Sindicato transitou em julgado em 01.08.2011. A execução coletiva foi promovida em 28.05.2012 e seu último ato ocorreu em 16.12.201 3 com a publicação da homologação dos parâmetros dos cálculos a serem utilizados pela Contadoria Judicial, recomeçando a correr o prazo prescricional a partir dessa data, por dois anos e meio, resguardado o prazo mínimo de 5 (cinco) anos, que findou em 01.08.2016. Entretanto, a execução individual somente fora ajuizada em 19.07.2018, restando fulminada sua pretensão pela prescrição, razão pela qual a manutenção da sentença é medida que se impõe, mas pelos fundamentos aqui expostos.
+- Apelação conhecida e desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 383/403).
+No especial obstaculizado, a parte recorrente apontou violação do art. 189 do Código Civil, insurgindo-se contra o reconhecimento da prescrição no caso dos autos.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Ausente contraminuta (e-STJ fls. 455).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que toca à alegada contrariedade ao art. 189 do Código Civil, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, em relação à tese recursal respeitante ao supracitado dispositivo, percebe-se que não diz respeito diretamente à questão jurídica efetivamente decidida pelo acórdão recorrido, o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na Súmula 284 do STF.
+Pondere-se, nesse aspecto, que o Tribunal de Justiça manteve o reconhecimento da prescrição pela aplicação das normas previstas no Decreto n. 20.910/1932.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
