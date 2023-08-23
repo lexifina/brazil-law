@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Gustavo Henrique de Moraes Tega, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1530261-34.2021.8.26.0228).
+Narram os autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática de tráfico de drogas. Na oportunidade, foi mantida a prisão cautelar.
+Neste mandamus, o impetrante alega, em apertada síntese, a nulidade do flagrante em decorrência da violação de domicílio, destacando que os policiais, após receberem denúncia anônima de tráfico de drogas, foram até a residência do paciente e o abordaram, contudo, em momento algum, o acusado demonstrou voluntariedade do consentimento necessário para que os policiais ingressassem no ambiente, ao contrário, menciona que foi coagido.
+Assere que o paciente teria tolerado a investida policial com medo de ser ainda mais agredido, não tendo oferecido resistência e sem outra alternativa viável para se proteger dos castrenses (fl. 4).
+Aduz que os policiais foram capazes de falsificar documento público, e, com apoio do próprio Delegado, apresentaram em juízo, tudo com a única intenção de justificar a invasão domiciliar e prejudicar o acusado. Não resta outra saída para buscar a justiça do que o presente writ (fl. 7).
+Requer, inclusive em liminar, a concessão da ordem a fim de anular todas as provas decorrentes da invasão domiciliar e declarar inocência de Gustavo Henrique de Moraes Tega, em razão da Teoria dos Frutos da Árvore Envenenada (fl. 12).
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Alcides Martins, pelo não conhecimento do habeas corpus (fls. 92/96).
+É o relatório.
+In casu, a ordem não comporta concessão.
+Quanto à tese de nulidade das provas em razão da violação de domicílio, vejamos, no ponto, o que disse o Tribunal de Justiça (fls. 62/64 - grifo nosso):
+ ..
+O apelante foi processado porque, em 16 de dezembro de 2021, tinha em depósito e guardava, para fins de venda e entrega ao consumo de terceiros, 25 (vinte e cinco) sacos plásticos em vasos com plantas arbustivas (entre 45 a 120 cm de comprimento) constituídas por raiz, caule, folhas, folíolos, inflorescências e frutos, pesando, aproximadamente, 542 g (quinhentos e quarenta e duas gramas); 1 (um) invólucro plástico do tipo "filme" retorcido encerrando porção de fragmentos vegetais ressequidos constituídos de folhas, folíolos, inflorescências caules e frutos na forma de "tablete" pesando, aproximadamente, 287,2 g (duzentas e oitenta e sete gramas e duas decigramas); 1 (um) frasco vítreo fechado por tampa própria contendo fragmentos vegetais ressequidos constituídos de folhas, folíolos, inflorescências caules e frutos pesando, aproximadamente, 133,5 g (cento e trinta e três gramas e cinco decigramas); 1 (um) invólucro plástico fechado por adesivo próprio encerrando material sólido particulado marrom com grânulos pesando, aproximadamente, 16,4 g (dezesseis gramas e quatro decigramas); 1 (um) invólucro plástico encerrando porção de material com aspecto de origem vegetal, de formato esférico, coloração amarronzada e com diâmetro médio de aproximadamente 3,0mm (três milímetros), pesando, aproximadamente, 13,4 g (treze gramas e decigramas) e 1 (um) invólucro plástico encerrando porção de fragmentos vegetais não compactados e constituídos principalmente de inflorescências, pesando aproximadamente 23,8 g (vinte e três gramas e oito decigramas); totalizando massa de 992,5 g (novecentos e noventa e dois gramas e cinco decigramas) de maconha, o que fazia sem autorização e em desacordo com determinação legal ou regulamentar.
+ ..
+Quanto à invasão de domicílio, registrou a r. sentença que o texto constitucional preceitua que: "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial" (art. 5º, inciso XI, da CF).
+No caso dos autos, os policiais civis, sempre que inquiridos, detalharam a dinâmica da diligência que realizaram e revelaram a fundada suspeita que justificou terem ingressado no imóvel referido na denúncia.
+Afirmaram, em uníssono, que receberam denúncias a respeito da ocorrência de tráfico de drogas no local dos fatos, com indicação exata do endereço, onde haveria o cultivo de maconha.
+Dirigiram-se ao local apontado e lá foram atendidos pelo genitor do acusado Francisco Carlos Tega. Quando lhe informaram o motivo da diligência, ele prontamente franqueou o acesso ao imóvel.
+A testemunha Francisco, quando inquirido em solo policial, disse: "Autorizei aos policiais civis a entrarem em minha casa porque não havia nada de errado.  ..  Não sabia que meu filho vendia droga e muito menos que isso ocorria no fundo da minha casa.." (fl. 21), fato que foi ratificado com os depoimentos colhidos em Juízo.
+Ora, onde há ilegalidade
+ ..
+Assim, diante da anuência do proprietário do imóvel, Francisco Carlos Tega, pai de Gustavo, ora paciente, para a entrada dos milicianos em sua casa não há falar em violação de domicílio.
+A propósito, esta Corte Superior possui entendimento no sentido de exigir autorização judicial ou o consentimento do morador ou proprietário para incursão policial domiciliar (AgRg no HC n. 709.308/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2022 - grifo nosso).
+Ainda, nesse sentido: AgRg no RESP n. 1.988.099/SE, Ministro Reynaldo Sores da Fonseca, Quinta Turma, DJe 22/8/2022); e RHC n. 81.339/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/5/2017.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. AUTORIZAÇÃO DO PROPRIETÁRIO DO IMÓVEL (PAI DO RÉU). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
