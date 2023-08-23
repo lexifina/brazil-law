@@ -1,0 +1,10 @@
+DECISÃO
+ Trata-se  de  embargos  de  declaração  opostos  por ANTONIO LUIZ MERLIN, DENISE DEMETRIO KOWALSKI, LUIZ GUSTAVO TREVISAN, LUIZ SIMAO STASZCZAK, PAULO ANDRE DE CAMARGO BELTRAO, ROSELY ANTUNES DE SOUZA, RUI FRANCISCO MARTINS MARCAL e VOLMIR SABBI  contra  decisão  de  minha  lavra,  proferida  às  e-STJ  fls.  1.201/1.205,  em  que  conheci  em parte do  recurso  especial  e, nessa extensão, neguei-lhe provimento  em  virtude  da  não caracterização de negativa de prestação jurisdicional e da incidência  da  Súmula  83  do  STJ.
+Aduz  a  parte  embargante , aos os argumentos obscuridade e omissão, que " ..  ha" jurisprude ncia nesta Corte Superior reconhecendo a incide ncia do reajuste de 3,17% sobre as gratificac o es, criadas em momento posterior a janeiro de 1995", , bem como que " ..  nada mencionou quanto ao percentual dos juros de mora e a coisa julgada  .. " (e-STJ fl. 1.209).
+Passo  a  decidir.
+Nos  termos  do  art.  1.022  do  CPC/2015,  os  embargos  de  declaração  têm  por  escopo  sanar  decisão  judicial  eivada  de  obscuridade,  contradição,  omissão  ou  erro  material.
+In  casu,  não  ocorreu  nenhum  dos  vícios  supracitados.
+Com  efeito,  a  decisão  embargada  foi  clara , no pertinente à suposta obscuridade,  ao  entender pela incidência da Súmula 83 do STJ, uma vez que "esta Corte Superior entende pela não incidência do reajuste de 3,17% sobre as gratificações criadas em momento posterior a janeiro/1995, data de instituição do índice, caso daquelas criadas pela Lei n. 9.640/1998" (e-STJ fl. 1.204).
+Em relação à alegada omissão, o decisum ora contestado relatou que o apelo nobre teve seguimento negado quanto às matérias abrangidas pelos Temas 176 e 905 do STJ, razão pela qual deixou-se de analisar à irresignação recursal respeitante à correção monetária e aos juros de mora (já que cabível, quanto ao ponto, agravo interno na origem). Assim, indevida qualquer incursão em tópico obstado em razão da sistemática dos recursos repetitivos.
+Ante  o  exposto,  REJEITO  os  embargos  de  declaração.
+Publique-se.  Intimem-se.
