@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE RORAIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRA A FAZENDA PÚBLICA. PRINCÍPIO DA DIALETICIDADE. PRELIMINAR DE NÃO CONHECIMENTO AFASTADA EM QUORUM QUALIFICADO. MÉRITO. NOTAS FISCAIS. ATESTADO PELO SERVIDOR DE SAÚDE ESTADUAL QUE RECEBEU O MATERIAL. EMISSÃO DE NOTA DE EMPENHO E DECLARAÇÃO DE EXECUÇÃO DO CONTRATO. COMPROVAÇÃO DA PRESTAÇÃO DO SERVIÇO. DEVER DE PAGAR. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 61, 62 e 63, todos da Lei 4.320/1964. Sustenta que o pagamento só poderá ser realizado após sua regular liquidação, trazendo a seguinte argumentação:
+Assim, o pagamento à empresa credora é devido após a sua regular liquidação, visto que a despesa pública passa por três etapas: o empenho, a liquidação e o pagamento.
+A liquidação tem como finalidade certificar se de fato houve o cumprimento da obrigação por parte do contratado, ao qual foi pactuado entre as partes.
+Analisa-se o mesmo modo a origem e o objeto do processo licitatório, o valor exato a ser pago, assim como o credor a quem se deve pagar visando à extinção da obrigação:
+ ..
+Assim como afirmado acima, a liquidação tem por finalidade a verificação objetiva do cumprimento contratual.
+ ..
+Fundamental que se diferencie a emissão de empenho com liquidação, já que é vedada a realização de despesa em prévio empenho, conforme art. 60 da Lei 4320 de 1964.
+Assim, a sua emissão é apenas uma das etapas que antecedem a contratação em si.
+Decorre disso mencionar o que traduz o art. 62 da mesma lei que o pagamento só será efetuado quando ordenado APÓS sua regular liquidação.
+ ..
+A presunção de certeza e liquidez do título executivo jamais poderá prevalecer frente à prevalência do interesse público sobre o interesse particular e a consequente presunção de legitimidade dos atos da Administração Pública.
+A referida presunção de legitimidade somente pode ser elidida por meio de uma decisão judicial com trânsito em julgado que viesse a condenar o Estado no pagamento da quantia supostamente representada no título.
+Ora, tamanho é o cuidado que se deve ter ao lidar com a dívida pública que, além disso, as decisões judiciais devem sempre passar por uma revisão obrigatória - o reexame necessário previsto no art. 496, I, do Código de Processo Civil.
+Um mero título extrajudicial não tem o condão de substituir todo um procedimento que a Constituição Federal impõe que seja observado quando da condenação da Fazenda Pública.
+Portanto, diante do exposto, tendo em vista a não comprovação dos fatos alegados, é que o acórdão proferido merece ser reformado em sua integralidade, julgando improcedentes os pedidos constantes da inicial (fls. 3.558-3.563).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+D essarte, a inicial da execução de título judicial foi instruída com a Nota de Empenho 20601.0001.17.00742-9, referente ao Processo nº 020601.003730/15-88(EP nº 1.6 dos autos nº 081448880.2020.8.23.0010), atestado de capacidade técnica declarando que a apelada executou todo o objeto do Contrato nº096/2017, Processo nº 020601.03730/15-88 (EP nº 1.41 dos autos nº 0814488-80.2020.8.23.0010) e notas fiscais com rubrica dos servidores estaduais da saúde que receberam o material hospitalar, dentre eles o médico responsável pela cirurgia ortopédica onde se utilizou o material.
+Dessa forma, a afirmação, feita na apelação, de que a apelada "não comprovou que o serviço foi realizado, à medida que não existe nos autos provas de que as notas fiscais contidas na ação originária, foram devidamente atestadas pela fiscal do contrato, haja vista a ausência de numeração das páginas não sendo possível verificar a relação entre os documentos", necessitando da "certidão definitiva da entrega do serviço", não se coaduna com a realidade porque, como bem apontado em sentença, está comprovada a execução do contrato a partir do atesto lançado nas notas e respectiva nota de empenho e atestado de execução do contrato (fl. 3.532).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
