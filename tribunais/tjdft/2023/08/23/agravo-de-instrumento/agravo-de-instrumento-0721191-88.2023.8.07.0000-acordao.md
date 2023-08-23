@@ -1,0 +1,281 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0721191-88.2023.8.07.0000AGRAVANTE(S)CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL - NOVACAP e PROCURADORIA GERAL DO DISTRITO FEDERALAGRAVADO(S)CLEONILDA PEREIRA BRAGARelatorDesembargador JOAO EGMONT
+ Acórdão Nº1748402
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NOVACAP. EMPRESA PÚBLICA. PESSOA JURÍDICA DE DIREITO PRIVADO. EQUIPARAÇÃO COM A FAZENDA PÚBLICA. IMPOSSIBILIDADE. RITO DOS PRECATÓRIOS. INAPLICABILIDADE. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. AGRAVO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+
+1. Agravo de instrumento, com pedido de efeito suspensivo, interposto em face de decisão proferida no curso do cumprimento de sentença que indeferiu o pedido de sobrestamento do feito. 1.1. Nesta sede recursal, a parte agravante requer a reforma da decisão recorrida de modo a atender o pedido de sobrestamento do andamento processual, impedindo que sejam efetivados atos que visem a expropriação de numerários nas contas da NOVACAP, em razão deles serem absolutamente impenhoráveis e por se submeterem ao regime dos precatórios. 1.2. Agravo interno interposto em face da decisão que indeferiu o pedido de efeito suspensivo, no qual o agravante reitera os pedidos de sobrestamento do processo na origem, concessão do efeito suspensivo até o julgamento da ADPF 949 ou ainda a extensão das prerrogativas de Fazenda Pública quanto ao regime constitucional de precatórios.
+
+2. O regime especial de pagamento pela via dos precatórios é instituído como uma prerrogativa em favor da Fazenda Pública (Federal, Estadual, Distrital ou Municipal) quando condenada por sentença judicial transitada em julgado a pagar quantia devida, com disciplina geral no artigo 100 da Constituição Federal. 2.1. A NOVACAP é integrante da Administração Pública Indireta Distrital com natureza jurídica de constituição como empresa pública, dotada da personalidade jurídica de direito privado, tendo por objeto “(...) a execução de obras e serviços de urbanização e construção civil de interesse do Distrito Federal, diretamente, ou por contrato com entidade públicas ou privadas” (artigo 1º da Lei nº. 5.861/72). 2.2. Nesse contexto, não se submetem ao regime de precatório as empresas públicas dotadas de personalidade jurídica de direito privado com patrimônio próprio e autonomia administrativa que exerçam atividade econômica sem monopólio e com finalidade de lucro (STF. 1ª Turma. RE 892727/DF, rel. orig. Min. Alexandre de Morais, red. p/ o ac. Min. Rosa Weber, julgado em 7/8/2018), hipótese no qual está inserida a NOVACAP. 2.3. Precedente: “(...) 2. A Novacap constitui empresa pública integrante da administração indireta do Distrito Federal, possuindo personalidade jurídica de direito privado, ainda que receba recursos públicos, de modo que não se equipara à Fazenda Pública e não faz jus aos benefícios e privilégios que são inerentes a essa, o que inclui o regime de precatórios.” (07314761420218070000, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, DJE: 8/2/2022). 2.4. Assim, entende-se não ser aplicável à agravante o regime de precatório, o qual é aplicável tão somente à Fazenda Pública em sentido estrito, razão pela qual deve ser mantida a decisão agravada.
+
+3. Cumpre anotar que não há falar em prevenção para julgamento de todos os agravos interpostos contra as decisões interlocutórias proferidas em cumprimentos individuais distintos e relativos à sentença coletiva (0046026-37.2003.8.07.0016) que tramitam na origem, tampouco reclama entendimento unificado.
+
+4. Não prospera o pleito de condenação da agravante por litigância de má-fé, haja vista que não restou caracterizada a tentativa de alteração da verdade dos fatos com a finalidade de obtenção de proveito indevido. 4.1. Precedente: “(...) 1.  Não ficou caracterizada a tentativa de alteração da verdade dos fatos com a finalidade de obtenção de proveito indevido, razão pela qual incabível a aplicação da multa por litigância de má-fé. 2. De fato, embora a agravada tenha efetuado diversas impugnações nos autos de origem, tal fato, por si só, não permite concluir que tal inconformismo teve a finalidade de resistir injustificadamente ao andamento do processo, ou proceder de modo temerário, não cabendo, assim, a multa prevista no artigo 81 do código de Processo Civil.” (07153473120218070000, Relator: Flávio Fernando Almeida Da Fonseca, 8ª Turma Cível, publicado no DJE: 8/9/2021).
+
+5. Agravo de instrumento improvido. 5.1. Agravo interno prejudicado.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOAO EGMONT - Relator, ALVARO CIARLINI - 1º Vogal e RENATO RODOVALHO SCUSSEL - 2º Vogal, sob a Presidência do Senhor Desembargador JOAO EGMONT, em proferir a seguinte decisão: AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO. MAIORIA. VENCIDO O EMINENTE 1º VOGAL. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Agosto de 2023
+
+Desembargador JOAO EGMONTPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento contra a decisão proferida pelo Juízo da Vara de Meio Ambiente, Desenvolvimento Urbano e Fundiário do DF nos autos do cumprimento de sentença (0715930-25.2022.8.07.0018) movido por CLEONILDA PEREIRA BRAGA em face da CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL. – NOVACAP.
+
+A decisão agravada indeferiu o pedido suspensão do feito em razão do ajuizamento da ADPF n. 949/DF, nos seguintes termos (ID 157588317):
+
+“1) Relativamente a questão do sobrestamento da marcha processual decorrente do ajuizamento da ADPF-DF 949, não me parece a melhor solução, mesmo porque a NOVACAP é uma empresa pública com personalidade jurídica privada, não se submetendo ao regime da Fazenda Pública.
+
+O processo de conhecimento foi ajuizado há duas décadas e a suspensão da execução nesse momento processual implica em maior prejuízo às partes em razão da morosidade que já atingiu enormemente o exercício do direito pelos postulantes.
+
+Não é crível interromper o andamento do processo exatamente no momento em que a parte mais se aproxima de garantir um direito há muito postergado.
+
+Ademais, a questão tratada na ADPF-DF 949, se resume basicamente quanto ao pedido de se inserir a executada nos privilégios do regime jurídico da Fazenda Pública, especialmente quanto a execução via precatório, o que, a priori, não impede o prosseguimento dessa execução que se encontra ainda no início do procedimento.
+
+Destaco que a ADPF sequer foi recebida, porquanto se encontra na fase de aditamento da inicial, não havendo deferimento de qualquer liminar determinando a suspensão de eventuais execuções em desfavor da executada.
+
+Logo, não se mostra razoável a suspensão do presente feito, enquanto perdurar a ADPF.
+
+Enfim, esse Egrégio Tribunal de Justiça já se manifestou sobre a matéria:
+
+JUIZADO ESPECIAL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. DANOS EM VEÍCULO. QUEDA DE ÁRVORE EM ESTACIONAMENTO PÚBLICO. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA NOVACAP REJEITADA. RESPONSABILIDADE CIVIL POR ATO OMISSIVO. DEVER DA NOVACAP DE REALIZAR PODAS EM ÁRVORES NO DF. TEORIA DO RISCO ADMINISTRATIVO. OMISSÃO ESPECÍFICA. NEXO CAUSAL DEMONSTRADO. DANO MATERIAL COMPROVADO. OBRIGAÇÃO DE INDENIZAR CARACTERIZADA. JUROS DE MORA. NOVACAP. EMPRESA PÚBLICA COM PERSONALIDADE JURÍDICA DE DIREITO PRIVADO. INAPLICABILIDADE DA REGRA DO ART. 1º-F DA LEI Nº 9.494/97. RECURSO CONHECIDO, PRELIMINAR REJEITADA E, NO MÉRITO, PARCIALMENTE PROVIDO.
+
+1. Preliminar de ilegitimidade passiva da NOVACAP: Conforme jurisprudência desta 1ª Turma Recursal dos Juizados do DF, compete à Companhia Urbanizadora da Nova Capital do Brasil - NOVACAP a realização dos serviços de conservação das vias públicas do Distrito Federal, devendo executar obras e serviços, incluindo pode e retirada de árvores em áreas verdes, vias ou logradouros públicos e privados, diretamente ou por meio de contrato com entidades públicas ou privadas, nos termos do art. 1º da Lei 5.861/72 e do Decreto Distrital nº 14.783/93. Precedente: (Acórdão n.917308, 0701201-44.2015.8.07.0016, Relator: FABIO EDUARDO MARQUES, PRIMEIRA TURMA RECURSAL, Data de Julgamento: 03/02/2016, Publicado no DJE: 18/02/2016).
+
+2. Portanto, sendo a NOVACAP uma empresa pública integrante da administração indireta do Distrito Federal (art. 3º, inciso IV, alínea "e", do Decreto Distrital 32.716/2011), tendo sua personalidade jurídica regida pela Lei Federal nº 5.861/72, cabe a ela, mesmo sem provocação, velar pela manutenção dos logradouros públicos e, quando necessário, deve atuar preventivamente, efetuando a poda e retirada de árvores que ameacem a segurança de pessoas e bens. Precedente: (TJDFT, APC 2010.01.1.004231-8, Rel. Desembargadora Vera Andrighi, 6ª Turma Cível). Destarte, a referida empresa é legitima para figurar no polo passivo da ação, motivo pelo qual se rejeita a preliminar.
+
+3. Mérito: As árvores plantadas ou existentes nas vias públicas integram o patrimônio urbanístico da cidade. Assim, compete às autoridades municipais a sua fiscalização e conservação, cuidando dos cortes oportunos para evitar que a queda de galhos, ou da própria árvore, possa causar danos aos particulares. Aquele que detém a guarda de uma árvore assume a responsabilidade pelos danos por ela provocados, salvo caso fortuito ou força maior.
+
+4. O serviço de arborização e manutenção de vias públicas é atribuição do Distrito Federal, que, por descentralização, distribuiu a competência à NOVACAP, nos termos do art. 1º da Lei nº 5.861/72, bem como do artigo 65 do Regimento Interno da Companhia Urbanizadora da Nova Capital do Brasil, que estabelece a competência da Seção de Manutenção de Arborização para executar diretamente os trabalhos de poda e erradicação de árvores.
+
+5. Dessa feita, tem-se que a responsabilidade do ente da administração pública indireta decorre da falta do serviço, do funcionamento defeituoso, ineficiente, insatisfatório, da precariedade do serviço prestado capaz de causar dano ao administrado. Assim, no caso, deve a NOVACAP ser responsabilizada pelos danos decorrentes de queda da árvore em veículo parado em estacionamento público, restando caracterizada sua omissão e também a falha no dever de fiscalizar a situação que possa causar risco à população.
+
+6. Demonstrados o dano e o nexo causal, decorrente da omissão específica do Estado no dever de agir, a teor do que preconiza a teoria do risco administrativo (CF, art. 37, § 6º), impõe-se a condenação do ente da administração pública indireta no dever de indenizar os danos materiais sofridos pelo usuário, em razão da ausência de conservação e poda da árvore que caiu sobre o veículo do recorrido.
+
+7. A parte autora comprovou o dano por meio de fotos esclarecedoras (ID nº 442184), que tornaram verossímil o vínculo etiológico entre os danos e a queda da árvore. Não havendo prova excludente da responsabilidade estatal, merece ser mantida a sentença que reconheceu a falta de serviço e julgou procedente o pedido de indenização dos danos causados ao veículo do autor. Ressalta-se que é irrelevante a comprovação de que o veículo seja segurado ou não, uma vez que tal fato não afasta a responsabilidade da empresa pública pelos danos causados.
+
+8. Quanto ao valor do dano material, é compatível com os valores estampados nos documentos juntados aos autos, sobretudo o orçamento de ID nº 442169 (menor orçamento - R$ 16.605,00) e o recibo do guincho (ID nº 442162 pág. 1 no valor de R$ 350,00). Portanto, também não merece reparo a sentença em relação ao valor da indenização, fixada em R$ 16.955,00.
+
+9. Com relação à aplicação dos juros de mora de 1% a.m. e correção monetária, ambos a contar do efetivo prejuízo (12/06/2015), tem-se que o recorrente tem parcial razão.
+
+10. Aplicação de juros de mora para a NOVACAP: Primeiramente, em relação aos juros de mora, tem-se a NOVACAP é empresa pública, com natureza jurídica de direito privado, não se inserindo, portanto, no conceito de Fazenda Pública. A definição de Fazenda Pública abrange as pessoas jurídicas de direito público, ou seja, os entes da federação (União, Estado e Municípios) e as autarquias e fundações públicas (pessoas jurídicas de direito público interno), sendo excluídas as sociedades de economia mista e as empresas públicas, que mesmo sendo compostas por recursos públicos, são pessoas jurídicas de direito privado, não gozando das prerrogativas referentes aos entes da Fazenda Pública.
+
+11. Por esse motivo, não é aplicável à NOVACAP a norma inscrita no artigo 1º-F da Lei nº 9.494/97, devendo ser mantida a determinação de aplicação de juros de mora no patamar de 1% ao mês, nos termos do art. 406 do Código Civil c/c art. 161, parágrafo único, do Código Tributário Nacional.
+
+12.  Início da incidência dos juros de mora: De acordo com reiterada jurisprudência do STJ e do TJDFT, a incidência dos juros moratórios se dá a partir da citação, tendo em vista a inteligência do parágrafo único do art. 397 do Código Civil c/c art. 405 do mesmo diploma legal. Assim em observância ao artigo 927 do novo CPC, e como já decidido pelo STJ em sede de Recurso Repetitivo, no julgamento do Resp 1110547/PE, os juros de mora incidem a partir da citação. Assim, merece ser reformada a sentença, estabelecendo que os juros de mora serão devidos a partir da citação.
+
+13. Diante do exposto, conheço do recurso, rejeito a preliminar de ilegitimidade passiva e, no mérito, DOU-LHE PARCIAL PROVIMENTO, somente para estabelecer que o valor da condenação ao pagamento de danos materiais (R$ 16.955,00), deve ser corrigido monetariamente a contar da data do efetivo prejuízo (12/06/2015) e acrescido de juros de mora de 1% (um por cento) ao mês, a partir da citação.
+
+14. Sem custas e honorários, ante a ausência de recorrente integralmente vencido. 15. A súmula de julgamento servirá como acórdão, conforme regra do art. 46 da Lei dos Juizados Especiais Estaduais Cíveis e ainda por força do artigo 103, §2º do Regimento Interno das Turmas Recursais do Distrito Federal, publicado em 16/03/2016.  (Acórdão 932361, 07190312320158070016, Relator: ROBSON BARBOSA DE AZEVEDO, PRIMEIRA TURMA RECURSAL, data de julgamento: 5/4/2016, publicado no DJE: 12/4/2016. Pág.: Sem Página Cadastrada.)
+
+Desta forma, indefiro o pedido de sobrestamento da marcha processual.
+
+2) Quanto ao pedido de revogação de justiça gratuita deferida ao autor. Mantenho a gratuidade deferida a parte autora, tendo em vista que o requerido não comprovou que a parte beneficiária tem condições financeiras para arcar com as custas processuais.
+
+Ciência ao Ministério Público”.
+
+A agravante requer a concessão de efeito suspensivo ao recurso para que seja determinada a suspensão dos efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso com a definitiva anulação ou reforma da decisão (ID 47286800).
+
+Relata a agravante que a parte agravada instaurou cumprimento de sentença, pugnando o pagamento do valor de R$ 7.565,33, referente a fração ideal de 0,03940%.
+
+Defende a necessidade de sobrestamento do feito, em razão do iminente dano ao erário, com oneração de valores à Companhia, devido as especificidades desiguais inerentes ao cumprimento de sentença (art. 523 x art. 535 do CPC) como constrição de valores e aplicação de multa de 10%.
+
+Colaciona julgados de recursos interpostos pela Companhia em que foram concedidos efeitos suspensivos e pugna pela “unificação” do entendimento do TJDFT, para que seja concedido efeito suspensivo em todos os processos oriundos de desapropriação que tramitam na Vara do Meio Ambiente, visando a segurança jurídica das decisões.
+
+Afirma que a decisão agravada não considerou as peculiaridades do caso, ao passo que não determinou o pagamento do débito por meio de rpv/precatório, uma vez que a agravante, como empresa pública é totalmente dependente financeiramente do Tesouro Distrital.
+
+Informa que é uma Empresa Pública integrante da Administração Indireta do Distrito Federal, tem por objetivo a execução de obras e serviços de urbanização e construção civil de interesse do DF, sem fins primários de lucro e de maneira não concorrencial com entidades do setor privado, motivo pelo qual se estende a Companhia agravante, as regras especiais que regem o processo de execução contra a Fazenda Pública, visto que o bloqueio de valores atinge os cofres públicos em função de sua dependência orçamentária e financeira do GDF.
+
+Informa que o Governador do Distrito Federal, visando conferir à NOVACAP o tratamento conferido pelo art. 100 da Constituição Federal às condenações judiciais da Fazenda Pública (regime de precatórios), propôs Arguição de Descumprimento de Preceito Fundamental, em tramite no STF sob o n. ADPF 949.
+
+Assim, entende que o processo deve ser sobrestado a fim de obstar a efetivação de atos que visem a expropriação de numerários nas contas da agravante, em razão de serem absolutamente impenhoráveis e da empresa submeter-se ao regime dos precatórios, nos termos do art. 100 da Constituição Federal e do §1º do art. 910 do Código de Processo Civil brasileiro.
+
+Por meio da decisão de ID 47361807, foi indeferido o pedido de efeito suspensivo.
+
+Em face de tal decisão, foi interposto agravo interno pela NOVACAP, no qual a agravante reitera os pedidos de sobrestamento do processo na origem, concessão de efeito suspensivo até o julgamento da ADPF 949 ou ainda a extensão das prerrogativas de Fazenda Pública quanto ao regime constitucional de precatórios (ID 48299103).
+
+Em sede de contrarrazões, a agravada requer seja declinada a competência ao Des. Renato Rodovalho Scussel prevento, e, no mérito, sejam improvidos o Agravo de Instrumento e o Agravo Interno da NOVACAP eis que intempestiva a impugnação interposta no primeiro grau ou, se conhecida, seja rejeitada, condenando-se a agravante nas penas por litigância de má-fé por agir de forma temerária e faltar com a verdade dos fatos (ID 48392896).
+
+Manifestação do Ministério Público pelo conhecimento e desprovimento do recurso interposto (ID 48753254).
+
+É o relatório.
+
+Peço dia para julgamento.
+
+VOTOS
+
+O Senhor Desembargador JOAO EGMONT - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Observa-se, desde logo, que o agravo interno interposto contra a decisão que indeferiu o pedido de efeito suspensivo está prejudicado, porquanto o agravo de instrumento se encontra em condições de julgamento de mérito.
+
+Trata-se de agravo de instrumento contra a decisão proferida pelo Juízo da Vara de Meio Ambiente, Desenvolvimento Urbano e Fundiário do DF nos autos do cumprimento de sentença (0715930-25.2022.8.07.0018) movido por CLEONILDA PEREIRA BRAGA em face da CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL. – NOVACAP.
+
+A decisão agravada indeferiu o pedido suspensão do feito em razão do ajuizamento da ADPF n. 949/DF, nos seguintes termos (ID 157588317):
+
+“1) Relativamente a questão do sobrestamento da marcha processual decorrente do ajuizamento da ADPF-DF 949, não me parece a melhor solução, mesmo porque a NOVACAP é uma empresa pública com personalidade jurídica privada, não se submetendo ao regime da Fazenda Pública.
+
+O processo de conhecimento foi ajuizado há duas décadas e a suspensão da execução nesse momento processual implica em maior prejuízo às partes em razão da morosidade que já atingiu enormemente o exercício do direito pelos postulantes.
+
+Não é crível interromper o andamento do processo exatamente no momento em que a parte mais se aproxima de garantir um direito há muito postergado.
+
+Ademais, a questão tratada na ADPF-DF 949, se resume basicamente quanto ao pedido de se inserir a executada nos privilégios do regime jurídico da Fazenda Pública, especialmente quanto a execução via precatório, o que, a priori, não impede o prosseguimento dessa execução que se encontra ainda no início do procedimento.
+
+Destaco que a ADPF sequer foi recebida, porquanto se encontra na fase de aditamento da inicial, não havendo deferimento de qualquer liminar determinando a suspensão de eventuais execuções em desfavor da executada.
+
+Logo, não se mostra razoável a suspensão do presente feito, enquanto perdurar a ADPF.
+
+Enfim, esse Egrégio Tribunal de Justiça já se manifestou sobre a matéria:
+
+JUIZADO ESPECIAL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. DANOS EM VEÍCULO. QUEDA DE ÁRVORE EM ESTACIONAMENTO PÚBLICO. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA NOVACAP REJEITADA. RESPONSABILIDADE CIVIL POR ATO OMISSIVO. DEVER DA NOVACAP DE REALIZAR PODAS EM ÁRVORES NO DF. TEORIA DO RISCO ADMINISTRATIVO. OMISSÃO ESPECÍFICA. NEXO CAUSAL DEMONSTRADO. DANO MATERIAL COMPROVADO. OBRIGAÇÃO DE INDENIZAR CARACTERIZADA. JUROS DE MORA. NOVACAP. EMPRESA PÚBLICA COM PERSONALIDADE JURÍDICA DE DIREITO PRIVADO. INAPLICABILIDADE DA REGRA DO ART. 1º-F DA LEI Nº 9.494/97. RECURSO CONHECIDO, PRELIMINAR REJEITADA E, NO MÉRITO, PARCIALMENTE PROVIDO.
+
+1. Preliminar de ilegitimidade passiva da NOVACAP: Conforme jurisprudência desta 1ª Turma Recursal dos Juizados do DF, compete à Companhia Urbanizadora da Nova Capital do Brasil - NOVACAP a realização dos serviços de conservação das vias públicas do Distrito Federal, devendo executar obras e serviços, incluindo pode e retirada de árvores em áreas verdes, vias ou logradouros públicos e privados, diretamente ou por meio de contrato com entidades públicas ou privadas, nos termos do art. 1º da Lei 5.861/72 e do Decreto Distrital nº 14.783/93. Precedente: (Acórdão n.917308, 0701201-44.2015.8.07.0016, Relator: FABIO EDUARDO MARQUES, PRIMEIRA TURMA RECURSAL, Data de Julgamento: 03/02/2016, Publicado no DJE: 18/02/2016).
+
+2. Portanto, sendo a NOVACAP uma empresa pública integrante da administração indireta do Distrito Federal (art. 3º, inciso IV, alínea "e", do Decreto Distrital 32.716/2011), tendo sua personalidade jurídica regida pela Lei Federal nº 5.861/72, cabe a ela, mesmo sem provocação, velar pela manutenção dos logradouros públicos e, quando necessário, deve atuar preventivamente, efetuando a poda e retirada de árvores que ameacem a segurança de pessoas e bens. Precedente: (TJDFT, APC 2010.01.1.004231-8, Rel. Desembargadora Vera Andrighi, 6ª Turma Cível). Destarte, a referida empresa é legitima para figurar no polo passivo da ação, motivo pelo qual se rejeita a preliminar.
+
+3. Mérito: As árvores plantadas ou existentes nas vias públicas integram o patrimônio urbanístico da cidade. Assim, compete às autoridades municipais a sua fiscalização e conservação, cuidando dos cortes oportunos para evitar que a queda de galhos, ou da própria árvore, possa causar danos aos particulares. Aquele que detém a guarda de uma árvore assume a responsabilidade pelos danos por ela provocados, salvo caso fortuito ou força maior.
+
+4. O serviço de arborização e manutenção de vias públicas é atribuição do Distrito Federal, que, por descentralização, distribuiu a competência à NOVACAP, nos termos do art. 1º da Lei nº 5.861/72, bem como do artigo 65 do Regimento Interno da Companhia Urbanizadora da Nova Capital do Brasil, que estabelece a competência da Seção de Manutenção de Arborização para executar diretamente os trabalhos de poda e erradicação de árvores.
+
+5. Dessa feita, tem-se que a responsabilidade do ente da administração pública indireta decorre da falta do serviço, do funcionamento defeituoso, ineficiente, insatisfatório, da precariedade do serviço prestado capaz de causar dano ao administrado. Assim, no caso, deve a NOVACAP ser responsabilizada pelos danos decorrentes de queda da árvore em veículo parado em estacionamento público, restando caracterizada sua omissão e também a falha no dever de fiscalizar a situação que possa causar risco à população.
+
+6. Demonstrados o dano e o nexo causal, decorrente da omissão específica do Estado no dever de agir, a teor do que preconiza a teoria do risco administrativo (CF, art. 37, § 6º), impõe-se a condenação do ente da administração pública indireta no dever de indenizar os danos materiais sofridos pelo usuário, em razão da ausência de conservação e poda da árvore que caiu sobre o veículo do recorrido.
+
+7. A parte autora comprovou o dano por meio de fotos esclarecedoras (ID nº 442184), que tornaram verossímil o vínculo etiológico entre os danos e a queda da árvore. Não havendo prova excludente da responsabilidade estatal, merece ser mantida a sentença que reconheceu a falta de serviço e julgou procedente o pedido de indenização dos danos causados ao veículo do autor. Ressalta-se que é irrelevante a comprovação de que o veículo seja segurado ou não, uma vez que tal fato não afasta a responsabilidade da empresa pública pelos danos causados.
+
+8. Quanto ao valor do dano material, é compatível com os valores estampados nos documentos juntados aos autos, sobretudo o orçamento de ID nº 442169 (menor orçamento - R$ 16.605,00) e o recibo do guincho (ID nº 442162 pág. 1 no valor de R$ 350,00). Portanto, também não merece reparo a sentença em relação ao valor da indenização, fixada em R$ 16.955,00.
+
+9. Com relação à aplicação dos juros de mora de 1% a.m. e correção monetária, ambos a contar do efetivo prejuízo (12/06/2015), tem-se que o recorrente tem parcial razão.
+
+10. Aplicação de juros de mora para a NOVACAP: Primeiramente, em relação aos juros de mora, tem-se a NOVACAP é empresa pública, com natureza jurídica de direito privado, não se inserindo, portanto, no conceito de Fazenda Pública. A definição de Fazenda Pública abrange as pessoas jurídicas de direito público, ou seja, os entes da federação (União, Estado e Municípios) e as autarquias e fundações públicas (pessoas jurídicas de direito público interno), sendo excluídas as sociedades de economia mista e as empresas públicas, que mesmo sendo compostas por recursos públicos, são pessoas jurídicas de direito privado, não gozando das prerrogativas referentes aos entes da Fazenda Pública.
+
+11. Por esse motivo, não é aplicável à NOVACAP a norma inscrita no artigo 1º-F da Lei nº 9.494/97, devendo ser mantida a determinação de aplicação de juros de mora no patamar de 1% ao mês, nos termos do art. 406 do Código Civil c/c art. 161, parágrafo único, do Código Tributário Nacional.
+
+12.  Início da incidência dos juros de mora: De acordo com reiterada jurisprudência do STJ e do TJDFT, a incidência dos juros moratórios se dá a partir da citação, tendo em vista a inteligência do parágrafo único do art. 397 do Código Civil c/c art. 405 do mesmo diploma legal. Assim em observância ao artigo 927 do novo CPC, e como já decidido pelo STJ em sede de Recurso Repetitivo, no julgamento do Resp 1110547/PE, os juros de mora incidem a partir da citação. Assim, merece ser reformada a sentença, estabelecendo que os juros de mora serão devidos a partir da citação.
+
+13. Diante do exposto, conheço do recurso, rejeito a preliminar de ilegitimidade passiva e, no mérito, DOU-LHE PARCIAL PROVIMENTO, somente para estabelecer que o valor da condenação ao pagamento de danos materiais (R$ 16.955,00), deve ser corrigido monetariamente a contar da data do efetivo prejuízo (12/06/2015) e acrescido de juros de mora de 1% (um por cento) ao mês, a partir da citação.
+
+14. Sem custas e honorários, ante a ausência de recorrente integralmente vencido. 15. A súmula de julgamento servirá como acórdão, conforme regra do art. 46 da Lei dos Juizados Especiais Estaduais Cíveis e ainda por força do artigo 103, §2º do Regimento Interno das Turmas Recursais do Distrito Federal, publicado em 16/03/2016.  (Acórdão 932361, 07190312320158070016, Relator: ROBSON BARBOSA DE AZEVEDO, PRIMEIRA TURMA RECURSAL, data de julgamento: 5/4/2016, publicado no DJE: 12/4/2016. Pág.: Sem Página Cadastrada.)
+
+Desta forma, indefiro o pedido de sobrestamento da marcha processual.
+
+2) Quanto ao pedido de revogação de justiça gratuita deferida ao autor. Mantenho a gratuidade deferida a parte autora, tendo em vista que o requerido não comprovou que a parte beneficiária tem condições financeiras para arcar com as custas processuais.
+
+Ciência ao Ministério Público”.
+
+Relata a agravante que a parte agravada instaurou cumprimento de sentença, pugnando o pagamento do valor de R$ 7.565,33, referente a fração ideal de 0,03940%.
+
+Defende a necessidade de sobrestamento do feito, em razão do iminente dano ao erário, com oneração de valores à Companhia, devido as especificidades desiguais inerentes ao cumprimento de sentença (art. 523 x art. 535 do CPC) como constrição de valores e aplicação de multa de 10%.
+
+Colaciona julgados de recursos interpostos pela Companhia em que foram concedidos efeitos suspensivos e pugna pela “unificação” do entendimento do TJDFT, para que seja concedido efeito suspensivo em todos os processos oriundos de desapropriação que tramitam na Vara do Meio Ambiente, visando a segurança jurídica das decisões.
+
+Afirma que a decisão agravada não considerou as peculiaridades do caso, ao passo que não determinou o pagamento do débito por meio de rpv/precatório, uma vez que a agravante, como empresa pública é totalmente dependente financeiramente do Tesouro Distrital.
+
+Informa que é uma Empresa Pública integrante da Administração Indireta do Distrito Federal, tem por objetivo a execução de obras e serviços de urbanização e construção civil de interesse do DF, sem fins primários de lucro e de maneira não concorrencial com entidades do setor privado, motivo pelo qual se estende a Companhia agravante, as regras especiais que regem o processo de execução contra a Fazenda Pública, visto que o bloqueio de valores atinge os cofres públicos em função de sua dependência orçamentária e financeira do GDF.
+
+Informa que o Governador do Distrito Federal, visando conferir à NOVACAP o tratamento conferido pelo art. 100 da Constituição Federal às condenações judiciais da Fazenda Pública (regime de precatórios), propôs Arguição de Descumprimento de Preceito Fundamental, em tramite no STF sob o n. ADPF 949.
+
+Assim, entende que o processo deve ser sobrestado a fim de obstar a efetivação de atos que visem a expropriação de numerários nas contas da agravante, em razão de serem absolutamente impenhoráveis e da empresa submeter-se ao regime dos precatórios, nos termos do art. 100 da Constituição Federal e do §1º do art. 910 do Código de Processo Civil brasileiro.
+
+Requer a concessão de efeito suspensivo ao recurso para que seja determinada a suspensão dos efeitos da decisão agravada. No mérito pugna pelo provimento do recurso com a definitiva anulação ou reforma da decisão (ID 47286800).
+
+O cerne da presente controvérsia reside em saber se são ou não aplicáveis à agravante, CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL – NOVACAP, os benefícios da Fazenda Pública, especialmente o pagamento de dívidas por meio de precatório.
+
+Os autos de origem se referem ao cumprimento de sentença (autos 0715930-25.2022.8.07.0018), proposto pela agravada em face da agravante, objetivando a persecução de valores indenizatórios decorrentes da ação de desapropriação de imóvel de sua propriedade, no valor de R$ 7.565,33, referente a fração ideal de 0,03940%.
+
+No caso dos autos, não há probabilidade do direito para a concessão do efeito suspensivo ao recurso, relativo à pretensão para que seja sobrestada a execução até o julgamento da APDF nº 949, no qual se discute a possibilidade atribuir à agravante o pagamento de seus débitos pelo regime de precatórios.
+
+O regime especial de pagamento pela via dos precatórios é instituído como uma prerrogativa em favor da Fazenda Pública (Federal, Estadual, Distrital ou Municipal) quando condenada por sentença judicial transitada em julgado a pagar quantia devida, com disciplina geral no artigo 100 da Constituição Federal.
+
+A Companhia Urbanizadora da Nova Capital (NOVACAP) é integrante da Administração Pública Indireta Distrital com natureza jurídica de constituição como empresa pública, dotada da personalidade jurídica de direito privado, tendo por objeto “(...) a execução de obras e serviços de urbanização e construção civil de interesse do Distrito Federal, diretamente, ou por contrato com entidade públicas ou privadas” (artigo 1º da Lei nº. 5.861/72).
+
+Nesse contexto, não se submetem ao regime de precatório as empresas públicas dotadas de personalidade jurídica de direito privado com patrimônio próprio e autonomia administrativa que exerçam atividade econômica sem monopólio e com finalidade de lucro (STF. 1ª Turma. RE 892727/DF, rel. orig. Min. Alexandre de Morais, red. p/ o ac. Min. Rosa Weber, julgado em 7/8/2018), hipótese no qual está inserida a NOVACAP.
+
+Esse também é o entendimento desta Corte. Veja-se:
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NOVACAP. DÍVIDA. PAGAMENTO. PRECATÓRIO. FAZENDA PÚBLICA. BENEFÍCIOS. APLICAÇÃO. IMPOSSIBILIDADE. EMPRESA PÚBLICA. PERSONALIDADE JURÍDICA. DIREITO PRIVADO. RECURSO DESPROVIDO.
+
+1. Verifica-se que a executada/agravante, COMPANHIA URBANIZADORA DA NOVA CAPITAL DO BRASIL - NOVACAP, foi constituída, nos termos da Lei nº 5.861/1972, sob a forma de empresa pública do Distrito Federal. 1.1. Desse modo, tem-se que a agravante integra a administração indireta desse ente federativo e possui personalidade jurídica própria de direito privado, o que inequivocadamente impede, ainda que a agravante receba recursos públicos, que lhe sejam reconhecidos os benefícios próprios da Fazenda Pública, dentre eles o pagamento de dívidas por meio de precatório.
+
+2. Recurso conhecido e desprovido”. (07020049420238070000, Relator: Gislene Pinheiro, 7ª Turma Cível, DJE: 4/4/2023.)
+
+“DIREITO PROCESSUAL CIVIL.  AGRAVO DE INSTRUMENTO.  CUMPRIMENTO DE SENTENÇA.  IMPUGNAÇÃO.  VIOLAÇÃO À COISA JULGADA. INOCORRÊNCIA.  NOVACAP.  EQUIPARAÇÃO COM REGIME JURÍDICO PRÓPRIO DA FAZENDA PÚBLICA.  IMPOSSIBILIDADE.  EMPRESA PÚBLICA. PESSOA JURÍDICA DE DIREITO PRIVADO.  PRECATÓRIO. INAPLICABILIDADE.  INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS NO CUMPRIMENTO DE SENTENÇA.  VALIDADE.  PENHORA DE IMÓVEL.  RECUSA DO CREDOR.  ORDEM DE PREFERÊNCIA LEGAL. DECISÃO MANTIDA.
+
+(...) 2.  A Companhia Urbanizadora da Nova Capital do Brasil - NOVACAP -, segundo o entendimento jurisprudencial desta Corte de Justiça, e nos termos da Lei nº 5.861/1972, configura empresa pública integrante da administração indireta do Distrito Federal e, bem por isso, possui personalidade jurídica de direito privado. Daí que, sob a ótica processual, não lhe são estendidos os benefícios legais próprios da Fazenda Pública. Precedentes.
+
+3 - Por não se lhe impor as normas próprias das pessoas jurídicas de direito público, a NOVACAP, no que pertine ao pagamento das suas dívidas, não segue o rito constitucional de precatórios (Constituição Federal, artigo 100), mas sim aquele estabelecido pelo Código de Processo Civil (artigo 523 e seguintes), inclusive quanto à ordem preferencial da penhora (CPC, art. 835 c/c art. 513, caput), bem como a multa do art. 523, § 1º, do CPC e incidência de honorários advocatícios na fase de cumprimento de sentença.
+
+4 - Nos termos do art. 835, I, do CPC, o dinheiro encontra-se na ordem de preferência de penhora. Destarte, a observância da ordem legal de preferência, nos moldes do que afirmado na decisão agravada, encontra eco na jurisprudência desta Corte de Justiça, mormente levando-se em conta a recusa devidamente justificada da credora em aceitar a penhora do bem imóvel indicado pela Executada, ora Agravante. Agravo de Instrumento desprovido”.
+
+(07106321420198070000, Relator: Angelo Passareli, 5ª Turma Cível, DJE: 17/10/2019.).
+
+“DIREITO CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE VALORES. BACENJUD. NOVACAP. IMPUGNAÇÃO À PENHORA. PAGAMENTO VIA PRECATÓRIO. IMPOSSIBILIDADE. VALORES CONSTRITOS.  IMPENHORABILIDADE.  NÃO COMPROVAÇÃO.
+
+1. As sociedades de economia mista e as empresas públicas, como é o caso da NOVACAP, são pessoas jurídicas de direito privado e, mesmo que recebam recursos públicos, não gozam das prerrogativas inerentes à Fazenda Pública (composta pelas pessoas jurídicas de direito público interno), como pagamento via expedição de precatórios.
+
+2. Não há falar-se em impenhorabilidade dos valores constritos das contas bancárias da empresa agravante, em face da ausência de prova suficiente da natureza vinculada dos valores depositados nas contas bloqueadas ou que estes se subsumam às hipóteses de impenhorabilidade estabelecidas no artigo 833 do Código de Processo Civil.
+
+3. Revela-se impossível a sustação dos atos expropriatórios quando já ocorreu a negociação em bolsa de todas as ações atingidas pelo bloqueio, via BACENJUD e parte dos valores transferidos já foram devidamente sacados pelo agravado.
+
+4. Recurso conhecido e desprovido”.
+
+(07257027120198070000, Relator: Maria de Lourdes Abreu, 3ª Turma Cível, DJE: 5/5/2020.).
+
+Assim, descabida a pretensão de sobrestamento da execução, por não ser aplicável à agravante o regime de precatório, mas tão somente à Fazenda Pública em sentido estrito, razão pela qual deve ser mantida a decisão agravada.
+
+Cumpre anotar que não há falar em prevenção para julgamento de todos os agravos interpostos contra as decisões interlocutórias proferidas em cumprimentos individuais distintos e relativos a referida sentença coletiva (0046026-37.2003.8.07.0016) que tramitam na origem, tampouco reclama entendimento unificado.
+
+Por fim, não prospera o pleito de condenação da agravante por litigância de má-fé, haja vista que não restou caracterizada a tentativa de alteração da verdade dos fatos com a finalidade de obtenção de proveito indevido.
+
+Acerca do tema, colaciona-se o seguinte julgado:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. NOVACAP. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. MULTA. NÃO APLICAÇÃO. DECISÃO DE PRIMEIRO GRAU MANTIDA. 1.  Não ficou caracterizada a tentativa de alteração da verdade dos fatos com a finalidade de obtenção de proveito indevido, razão pela qual incabível a aplicação da multa por litigância de má-fé. 2. De fato, embora a agravada tenha efetuado diversas impugnações nos autos de origem, tal fato, por si só, não permite concluir que tal inconformismo teve a finalidade de resistir injustificadamente ao andamento do processo, ou proceder de modo temerário, não cabendo, assim, a multa prevista no artigo 81 do código de Processo Civil. 3.  Agravo de Instrumento conhecido e não provido.” (07153473120218070000, Relator: Flávio Fernando Almeida Da Fonseca, 8ª Turma Cível, publicado no DJE: 8/9/2021).
+
+Destarte, deve ser mantida a decisão impugnada.
+
+Ante o exposto, NEGO PROVIMENTO ao agravo.  JULGO PREJUDICADO o agravo interno.
+
+É como voto.
+
+O Senhor Desembargador ALVARO CIARLINI - 1º Vogal p{text-align: justify;}Eminentes Pares,
+
+          É importante anotar, no caso em deslinde, que a recorrida tem natureza de empresa pública. Além disso, presta serviços públicos com exclusividade, sem propósito lucrativo.
+          Diante desse contexto, a natureza jurídica da recorrida ajusta-se de forma nítida aos requisitos estabelecidos pelo precedente fixado pelo Excelso Supremo Tribunal Federal, sendo inegável, ademais, que o Distrito Federal é proprietário de 51% do capital da referida entidade (art. 3º, inc. III, da Lei nº 5861/1972. Por essa razão, a ora recorrente deve ser necessariamente submetida ao regime de pagamento via precatórios.
+          A respeito do tema examine-se a seguinte ementa de julgado promanada deste Egrégio Tribunal de Justiça:
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. RITO. CUMPRIMENTO DE SENTENÇA. METRÔ-DF. PRECATÓRIO. FAZENDA PÚBLICA.
+1. Aplica-se a execução pelo rito dos precatórios à COMPANHIA DO METROPOLITANO DO DISTRITO FEDERAL, apesar de ser pessoa jurídica de direito privado, em face de se tratar de empresa pública de atuação econômica restrita a prestação de serviços público essencial, sem fins lucrativos.
+2. Recurso conhecido e improvido.
+(Acórdão 1134044, 07139937320188070000, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 24/10/2018, publicado no DJE: 6/11/2018)” (Ressalvam-se os grifos)
+
+          Convém ressaltar, ainda, que o Excelso Supremo Tribunal Federal já decidiu a respeito da específica condição ostentada pelo METRÔ–DF ao dar provimento à reclamação pela referida entidade, tendo afirmado justamente o descumprimento do já mencionado precedente fixado pela Suprema Corte, senão vejamos:
+
+“No julgamento do referido paradigma, esta Corte se manifestou no sentido da inaplicabilidade, às sociedades de economia mista que desenvolvem atividade econômica em regime concorrencial, do regime de precatórios previsto no art. 100 da Constituição da República. A contrario sensu, aplica-se o regime de precatórios para aquelas empresas públicas e sociedades de economia mista que prestam serviços públicos essenciais, não atuam em concorrência, e não têm finalidade lucrativa. Confira-se:
+Ementa: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. COMPANHIA ESTADUAL DE SANEAMENTO BÁSICO. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. EXECUÇÃO PELO REGIME DE PRECATÓRIOS.
+1. Embora, em regra, as empresas estatais estejam submetidas ao regime das pessoas jurídicas de direito privado, a jurisprudência do Supremo Tribunal Federal é no sentido de que “entidade que presta serviços públicos essenciais de saneamento básico, sem que tenha ficado demonstrado nos autos se tratar de sociedade de economia mista ou empresa pública que competiria com pessoas jurídicas privadas ou que teria por objetivo primordial acumular patrimônio e distribuir lucros. Nessa hipótese, aplica-se o regime de precatórios” (RE 592.004, Rel. Min. Joaquim Barbosa).
+2. É aplicável às companhias estaduais de saneamento básico o regime de pagamento por precatório (art. 100 da Constituição), nas hipóteses em que o capital social seja majoritariamente público e o serviço seja prestado em regime de exclusividade e sem intuito de lucro. 3. Provimento do agravo regimental e do recurso extraordinário.
+(RE 627242 AgR, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ROBERTO BARROSO, Primeira Turma, julgado em 02/05/2017, PROCESSO ELETRÔNICO DJe-110 DIVULG 24-05-2017 PUBLIC 25-05-2017)
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO EM REGIME NÃO CONCORRENCIAL: APLICABILIDADE DO REGIME DE PRECATÓRIO. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO.”
+(ARE 698.357-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 4/10/12).
+In casu, em análise perfunctória dos autos, e sem prejuízo de um exame mais apurado quando do recebimento das informações, os elementos apresentados dão conta de que a empresa pública/reclamante [Companhia do Metropolitano do Distrito Federal Metro DF] consiste em empresa pública prestadora de serviço público, já que sua finalidade principal é a de prestação do serviço de transporte coletivo sobre trilhos no Distrito
+Federal. Verifica-se, pois, a presença do fumus boni iuris. O periculum in mora, ao seu turno, evidencia-se pelas informações trazidas nos autos quanto à possibilidade da realização da penhora do valor de aproximadamente quarenta milhões de reais, com potenciais prejuízos à continuidade da prestação de serviço público essencial.
+Ex positis, com fundamento no art. 989, II, do Código de Processo Civil de 2015, defiro a liminar para suspender o andamento do processo n° 0004266-05.2016.8.07.0000, em trâmite no TJDFT e de onde provém o processo executório autuado sob o n° 0702299-87.2017.8.07.0018, que tramita na 4ª Vara da Fazenda Pública do Distrito Federal.” (Ressalvam-se os grifos)
+
+          Assim, parece-me, com a devida licença, que a mesma ratio decidendi deve ser também aplicada ao caso na NOVACAP, pelas razões acima já delineadas.
+          Diante dos fundamentos expostos, com a mais reverente vênia ao entendimento adotado pelo Eminente Relator, permito-me divergir e, ao dar provimento ao recurso, determino que o cumprimento de sentença, no presente caso, observe o rito dos precatórios.
+          É como voto.
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 2º Vogal Com o relator
+
+DECISÃO
+
+AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO. MAIORIA. VENCIDO O EMINENTE 1º VOGAL.
