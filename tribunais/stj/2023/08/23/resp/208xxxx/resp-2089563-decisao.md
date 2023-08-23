@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por MFM SHOPPING METROPOLITANO COMÉRCIO DO VESTUÁRIO E PRESENTES LTDA. e FERNANDA GONÇALVES RIBEIRO LAGE, com fundamento no art. 105, III, a , da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, em apelação, assim ementado (fl. 911):
+Ação de resolução contratual - Contrato de franquia - Existência de cláusula compromissória, livre, expressa e regularmente acordada (LArb, art. 4º, § 2º) - Obrigatoriedade de uso da arbitragem para solução de conflitos recíprocos - Eventual nulidade contratual deve ser submetida à análise do próprio árbitro - Competência do juízo arbitral - Sentença de extinção mantida - Demais argumentos prejudicados, devendo a impugnação ser feita pelas vias e no palco adequados - Precedentes - Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 76, parágrafo único, da Lei n. 11.101/2005, indicando ausência da intimação da Administradora Judicial para representar a Massa Falida; arts. 4º, 8º e 20 da Lei n. 9.307/1996, suscitando a nulidade da cláusula compromissória por constar de típico contrato de adesão e não cumprir os requisitos; arts. 393, 474 e 478 do CC, defendendo a resolução do contrato por força maior.
+Narra que teve deferido pedido de autofalência com nomeação de administrador judicial para representar juridicamente a massa falida, razão pela qual deve o administrador ser intimado para manifestar-se no processo
+Afirma que, no contrato de franquia celebrado entre as partes, a cláusula compromissória arbitral é ineficaz, haja vista o abuso de posição (contratual) dominante e abuso de poder econômico.
+Impugna a aplicação do "princípio da competência-competência para se atribuir a própria competência do Juízo Arbitral sobre a existência, validade e eficácia do procedimento arbitral, visto que sua atuação não estaria autorizada para temáticas que estão fora do contrato de franquia, sobre pena de usurpação da competência exclusiva do Poder Judiciário" (fl. 940).
+Pretende a incidência das normas do Código de Defesa do Consumidor.
+Subsidiariamente, sustenta que a incidência da força maior causada pela pandemia da covid-19 acarretou a onerosidade excessiva do contrato, culminando na resolução contratual.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 958-979, e o recurso especial foi admitido na origem (fl. 980).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 915-920):
+Extrai-se do processado que o contrato de franquia celebrado entre partes previu de forma expressa cláusula compromissória estipulada, nos seguintes termos:
+ ..
+Por sua vez, o Termo de Declaração e Aceite da Cláusula Compromissória de Arbitragem, está assim redigido:
+ ..
+Ora, no contrato celebrado estão presentes os pressupostos de validade (CC, art. 104), já que as partes são capazes, o objeto é lícito e a forma não é defesa em lei.
+Nele não se verifica qualquer defeito (vício do consentimento ou social) capaz de gerar sua anulação.
+É o que basta para revelar a validade do contrato celebrado livremente pelas partes em atenção ao princípio da autonomia da vontade e em relação ao qual vige, também, o pacta sunt servanda.
+Disso decorre, então, que as partes estavam/estão obrigadas a submeter à arbitragem da Câmara de Mediação da CMed-ABPI os litígios que poderiam/podem surgir em decorrência do contrato celebrado entre elas.
+Quanto à alegação de abuso na instituição da cláusula compromissória (Lei 9.307/96, art. 4º, §2º), a jurisprudência do C. Superior Tribunal de Justiça orienta que a pretensão de invalidação de cláusula compromissória arbitral deve ser apreciada, primeiramente, pelo próprio árbitro e não diretamente pelo Poder Judiciário.
+ ..
+Assim, existindo cláusula de arbitragem, não se admite o ajuizamento de ação de conhecimento perante o Poder Judiciário. O que se permite é tão somente que, até a instauração do juízo arbitral, e com o objetivo de garantir a utilidade e a eficácia do provimento final, as partes requeiram tutelas de urgência ao Poder Judiciário (Carmona, Carlos Alberto; Arbitragem e processo: um comentário à Lei n 9.307/96, São Paulo: Ed. Atlas, 2ª ed.; 2004).
+ ..
+Por derradeiro, resta prejudicada a análise das demais questões veiculadas, as quais deverão ser impugnadas pelas vias e no palco adequados.
+No tocante à competência do juízo arbitral, verifica-se que o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência do STJ de que, como regra, a celebração de cláusula compromissória implica a derrogação da jurisdição estatal, impondo ao árbitro o poder-dever de decidir as questões decorrentes do contrato e, inclusive, decidir acerca da própria existência, validade e eficácia da cláusula compromissória (regra kompetenz-kompetenz).
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARBITRAGEM. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. INEXISTÊNCIA. CLÁUSULA COMPROMISSÓRIA. EMBARGOS DO DEVEDOR. MÉRITO. COMPETÊNCIA DO JUÍZO ARBITRAL. OBSERVÂNCIA. PRINCÍPIO DO KOMPETENZ-KOMPETENZ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A hipótese dos autos não se amolda aos precedentes que versam acerca de confissão de dívida por meio de contrato e título executivo extrajudicial líquido, certo e exigível.
+3. Contrato com expressa cláusula compromissória, atraindo a arbitragem para a solução das controvérsias resultantes de qualquer disputa ou reivindicação decorrente do contrato, o que impossibilita que as partes recorram ao Poder Judiciário para solucionar contenda relativa ao seu cumprimento.
+4. Ao árbitro incumbe o poder-dever de decidir as questões decorrentes do contrato, além da própria existência, validade e eficácia da cláusula compromissória 5. Agravo interno não provido. (AgInt no AREsp n. 425.955/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/2/2019, DJe de 1/3/2019.)
+RECURSO ESPECIAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE MÚTUO. PREVISÃO DE CLÁUSULA ARBITRAL. EXECUÇÃO JUDICIAL DO TÍTULO. IMPUGNAÇÃO DE QUESTÕES REFERENTES À EXISTÊNCIA DO PRÓPRIO TÍTULO. SUSPENSÃO DA EXECUÇÃO ATÉ DECISÃO DO JUÍZO ARBITRAL ACERCA DA MATÉRIA IMPUGNADA.
+1. A cláusula arbitral, uma vez contratada pelas partes, goza de força vinculante de caráter obrigatório, definindo o Juízo Arbitral como competente para dirimir conflitos relativos a direitos patrimoniais, disponíveis, derrogando-se, nessa medida, a jurisdição estatal.
+2. Todavia, a existência de cláusula compromissória não obsta a execução de título extrajudicial no Juízo Estatal quando for certo, líquido e exigível, uma vez que os árbitros não possuem poder coercitivo direto, necessário à determinação de atos executivos.
+3. Na ação de execução lastreada em contrato com cláusula arbitral, apresentada impugnação pelo executado, o Juízo Estatal estará materialmente limitado a apreciar a defesa, não sendo de sua competência a resolução de questões que digam respeito ao próprio título ou às obrigações nele consignadas.
+4. Nos casos em que a impugnação disser respeito à existência, constituição ou extinção do crédito objeto do título executivo ou às obrigações nele consignadas, sendo incompetente o Juízo Estatal para sua apreciação, revela-se inviável o prosseguimento da execução, dada a imperativa necessidade de solução pelo Juízo Arbitral de questão de mérito que antecede à continuidade da ação instaurada.
+5. O art. 313, V, a, do CPC orienta que, quando um acontecimento voluntário, ou não, acarretar a paralisação da marcha dos atos processuais e a paralisação temporária for suficiente à garantia de retorno regular do feito, por razões de ordem lógica, o processo deve ser suspenso, e não extinto.
+6. Entre a ação de execução e outra ação que se oponha aos atos executivos ou possa comprometê-los, há evidente laço de conexão, a determinar, em nome da segurança jurídica e da economia processual, a reunião dos processos. A suspensão acontecerá nos casos em que não for possível a reunião dos processos, seja porque se encontram em graus de jurisdição distintos, seja porque o juízo não é competente para ambos os feitos, até mesmo por serem diversas as jurisdições.
+7. No caso concreto, a execução do título extrajudicial com cláusula arbitral deve ser suspensa e nesse estado permanecerá até que ultimado o procedimento arbitral, que decidirá pela validade ou não do Termo de Cessão do Crédito exequendo, essencial à higidez do próprio título.
+8. Recurso especial a que se nega provimento. (REsp n. 1.949.566/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/9/2021, DJe de 19/10/2021.)
+Incide, pois, a Súmula n. 83 do STJ.
+Ademais, para adotar conclusões diversas das assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial em face do óbice da Súmula n. 7 do STJ.
+Por conseguinte, ficam prejudicadas as demais questões suscitadas.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
