@@ -1,0 +1,12 @@
+DECISÃO
+Vieram-me conclusos os autos para exame das alegações formuladas nos embargos de declaração de fls. 52-54 (e-STJ), apresentados por Bradesco Saúde S/A.
+Bem compreendido o pedido formulado pela embargante, o que se pretende é o reconhecimento da nulidade não só das intimações de fls. 34 e 39 (e-STJ), como também da decisão de fls. 46-47 (e-STJ), por intermédio da qual foi julgado prejudicado o agravo interno de fls. 21-29 (e-STJ) à consideração de que, por não ter havido resposta aos despachos intimatórios, estaria caracterizada a perda superveniente do interesse recursal.
+A alegada nulidade decorreria do fato de não ter sido atendido o pedido, expressamente formulado na petição do agravo interno (e-STJ, fl. 29), de que, daquele momento em diante, as intimações dirigidas à parte Bradesco Saúde S/A fossem feitas exclusivamente em nome dos advogados Dárcio José da Mota (OAB/SP n. 67.669) e Inaldo Bezerra Silva Júnior (OAB/SP n. 132.994).
+Brevemente relatado, decido.
+A alegada nulidade está realmente caracterizada.
+É fora de qualquer dúvida que, na petição do agravo interno, a reclamante expressamente solicitou que as subsequentes intimações fossem feitas, exclusivamente, em nome dos advogados Dárcio e Inaldo (e-STJ, fl. 29).
+Esse pedido, contudo, não foi notado por esta relatoria ao determinar as sucessivas intimações da reclamante para que se manifestasse sobre a manutenção do interesse no julgamento do agravo interno, tampouco foi observado na decisão de fls. 46-47 (e-STJ), que deu por prejudicado referido agravo em razão de a agravante não ter se manifestado na forma solicitada.
+O prejuízo causado à defesa da embargante é evidente: o fato de as intimações para reafirmação do interesse recursal não terem sido feitas em nome dos advogados Dárcio e Inaldo, conforme solicitado, acabou por inviabilizar que esse intento fosse de alguma forma expressado, o que serviu de base para que o agravo fosse julgado prejudicado na suposição de ter ocorrido a perda superveniente do interesse.
+Ante o exposto, acolho os embargos para reconhecer a nulidade das intimações de fls. 34 e 39 (e-STJ) e, por via de consequência, tornar sem efeito não só a decisão de fls. 46-47 (e-STJ), como também a certidão de trânsito em julgado de fl. 50 (e-STJ), ficando restabelecida a tramitação deste processo para que seja oportunamente julgado o agravo interno de fls. 20-29 (e-STJ), dada a inequívoca reafirmação do interesse recursal consignada na petição dos declaratórios.
+À Coordenadoria, para as providências.
+Publique-se.
