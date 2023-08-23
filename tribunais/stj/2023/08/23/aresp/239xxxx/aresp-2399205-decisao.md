@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por A C S N e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. ESCRITURA PÚBLICA DE COMPRA E VENDA. REGISTRO. DOMÍNIO. COMPROVAÇÃO. RECURSO DESPROVIDO.
+Quanto à controvérsia, os recorrentes alegam violação do art. 1.228 do CC, no que concerne à improcedência da ação reivindicatória, eis que não restou configurada a posse injusta dos recorrentes, trazendo a seguinte argumentação:
+Cuida-se o presente recurso para revalorando a prova dos autos que constam dos termos do julgado pelo Tribunal de origem colacionado nas inteiras no tópico 6, julgar se os recorrentes  ..  e  ..  este representado pelos seus genitores, estavam de MÁ-FÉ no imóvel em litígio.
+Se esse Tribunal da Cidadania com o seu poder de sobreposição revalorando a prova e aplicando o direito, entender que os recorrentes estavam de BOA-FÉ, o presente recurso deverá ser conhecido e provido, julgando improcedente a ação reivindicatória, tendo em vista que faltou um requisito do art. 1.228 do CPC, qual seja, a posse injusta dos recorrentes.
+ ..
+No referido processo de 2009 nº  .. , destacado pelo Tribunal de Origem, que tramitou na 3º Vara Cível da Comarca de Porto Velho, teve como autor  ..  (que foi ouvido no presente processo como informante pois tem interesse direto no deslinde em favor da Recorrida  .. ) e a Recorrente  .. , tendo como objeto da causa de pedir a reintegração do imóvel residencial, localizado na  ..  em Porto Velho.
+Em 2011, quando a recorrida  ..  estava na posse do imóvel de forma precária, por força de uma liminar de reintegração de posse em favor de quem lhe vendeu a posse do imóvel com documento falso Senhor  .. , a Prefeitura Municipal de Porto Velho lhe cadastrou como proprietária do imóvel.
+Ocorre que os pedidos de  .. , foram julgados improcedentes, pois não apresentou o contrato original de compra e venda para perícia, ou seja, a favor da ora Recorrente  ..  (ID Num. 17304860), em 25 de fevereiro de 2015.
+No referido processo destacado pelo Tribunal de origem, processo nº  .. , foi expedido o mandado de reintegração de posse em favor da recorrente  .. , sendo reintegrada no seu imóvel em 04 de agosto de 2016 (ID Num. 17305015).
+Assim, tornou-se inexistente a relação jurídica entre  ..  e  .. , acerca da transferência de titularidade do imóvel, e com isso, em relação ao demais da cadeia possessórias, ou seja, de  ..  para  ..  (ID Num. 17303737) e de  ..  para a RECORRIDA  ..  (ID Num. 17305130).
+Excelência, verifica-se que a Ação Reivindicatória, foi distribuída no dia 23/10/2018, ou seja, tanto a recorrente  .. , quanto o recorrente  .. , já estavam com a posse JUSTA do imóvel, senão, vejamos a ordem cronológica dos fatos:
+ ..
+Desta feita, justifica-se, portanto, no presente feito, não caber ação reivindicatória contra o possuidor que está na posse da coisa de BOA-FÉ, pois no presente caso, a recorrente  ..  foi reintegrada no seu imóvel por meio de ação judicial com trânsito em julgado no processo número  .. , que tramitou na 3ª Vara Cível da Comarca de Porto Velho, o recorrente  ..  com seus genitores estão no imóvel até a presente data de boa-fé porque compraram de  .. , assim, as posses diretas têm causas jurídicas que as justificam, ou seja, não são injustas nem para efeito possessório, nem para efeito petitório, senão, vejamos a Jurisprudência deste c. STJ (fls. 610-613).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Diante disso, tem-se caracterizada a posse injusta dos apelantes, uma vez que no trâmite da ação possessória já citada neste voto,  ..  tinha conhecimento da propriedade da apelada e ainda assim, decidiu vender o imóvel, pago pelo avô de  .. , conforme seu representante legal afirmou na audiência.
+Ressalta-se que, na ação reivindicatória, busca-se com ela assegurar que o adquirente que já teve a posse do bem, mas que está impedido, injustamente, de exercê-la de quem a detém.
+Por consequência, demonstrada a posse injusta exercida pelos apelantes, visto que ingressaram no imóvel com conhecimento de que ali havia litígio, evidente se faz o direito da requerente reavê-lo.
+ ..
+No caso em exame, ficaram claramente demonstrados todos os requisitos exigidos da ação reivindicatória, ou seja, a prova do domínio (12339982 - Pág. 1); individualização da coisa (12339982 - Pág. 1) e a posse injusta (depoimento do representante do requerido  ..  - Id 12340327 - Pág. 2). Logo, sem razão a pretensão dos apelantes (fls. 526-527).
+Em sede de embargos de declaração, o Tribunal estabeleceu:
+De acordo com trecho do voto, foi reconhecida a posse injusta dos embargantes/apelante, ao passo que  ..  já tinha conhecimento da propriedade:
+ ..
+Portanto, ficou esclarecido nos autos que os apelantes tinham conhecimento do registro do imóvel em nome de  ..  (fl. 570).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
