@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  BANCO DO ESTADO DO RIO GRANDE DO SUL S.A., fundamentado  no  artigo  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  proferido  pelo  Tribunal de Justiça do Estado do Rio Grande do Sul assim  ementado:
+"APELAÇÃO CÍVEL. CANCELAMENTO DE HIPOTECA. NÃO SE PODE EXIGIR DO TERCEIRO DE BOA-FÉ, QUE QUITOU INTEGRALMENTE O PREÇO DO IMÓVEL, QUE GARANTA COM BEM DE SUA PROPRIEDADE O PAGAMENTO DE DÍVIDA CONTRAÍDA PELA CONSTRUTORA COM O AGENTE FINANCEIRO PARA VIABILIZAR O EMPREENDIMENTO. APLICAÇÃO DA SÚMULA 308 DO STJ. A JURISPRUDÊNCIA MAJORITÁRIA DO TJRS NÃO DIFERENCIA A NATUREZA DO IMÓVEL, SE RESIDENCIAL OU COMERCIAL, PARA FINS DE APLICAÇÃO DA SÚMULA Nº 308 DO STJ. CANCELAMENTO DA HIPOTECA CONFIRMADO. O BANCO DEVE ARCAR COM OS ÔNUS SUCUMBENCIAIS, POR TER OFERECIDO RESISTÊNCIA À PRETENSÃO DO AUTOR, ACOLHIDA. APELAÇÃO DESPROVIDA"  (fl.  317, e-STJ ).
+Os embargos de declaração opostos foram rejeitados (fls. 347/351, e-STJ).
+No  recurso  especial ,  além  da  divergência  jurisprudencial,  o  recorrente  alega  a violação  dos arts. 1.419, 1.474, 1.499, I, do Código Civil, argumentando, em síntese, a inaplicabilidade da Súmula nº 308/STJ às demandas de cancelamento de gravame hipotecário firmado em garantia de financiamento de imóvel comercial.
+Contrarrazões apresentadas às fls. 399/407 (e-STJ).
+O recurso foi admitido na origem.
+É  o  relatório.
+DECIDO.
+A  irresignação  merece  prosperar.
+De  fato,  em  casos  semelhantes,  esta  Corte  Superior  concluiu  não  ser  aplicável  o  teor  da  Súmula  nº  308/STJ  ("A  hipoteca  firmada  entre  a  construtora  e  o  agente  financeiro,  anterior  ou  posterior  à  celebração  da  promessa  de  compra  e  venda,  não  tem  eficácia  perante  os  adquirentes  do  imóvel.")  aos  casos  envolvendo  contratos  de  aquisição  de  imóveis  não  submetidos  ao  Sistema  Financeiro  de  Habitação  -  SFH.
+Desse  modo,  mesmo  que  comprovada  a  boa-fé  do  terceiro  adquirente,  isso  não  é  suficiente  para  ilidir  a  hipoteca  firmada  como  garantia  ao  financiamento  imobiliário  de  caráter  comercial.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  C/C  INDENIZAÇÃO  POR  DANOS  MORAIS.  1.  HIPOTECA  CONSTITUÍDA  PELA  CONSTRUTORA  SOBRE  UNIDADE  OBJETO  DE  PROMESSA  DE  COMPRA  E  VENDA.  IMÓVEL  COMERCIAL.  NÃO  APLICAÇÃO  DO  DISPOSTO  NA  SÚMULA  N.  308/STJ.  2.  INTERPRETAÇÃO  LÓGICO-SISTEMÁTICA.  DECISÃO  ULTRA  PETITA  NÃO  CONFIGURADA.  3.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  jurisprudência  desta  Casa  orienta  que  o  entendimento  cristalizado  na  Súmula  308/STJ  aplica-se  exclusivamente  às  hipotecas  que  recaiam  sobre  imóveis  residenciais,  afastando-se,  por  conseguinte,  a  incidência  do  respectivo  verbete  sumular  quando  a  citada  garantia  recair  sobre  imóvel  comercial,  como  no  caso  dos  autos.
+1.1.  De  fato,  "mesmo  que  comprovada  a  boa-fé  do  terceiro  adquirente,  tal  não  é  bastante  para  afastar  a  hipoteca  firmada  como  garantia  ao  financiamento  imobiliário  de  caráter  comercial,  como  é  a  situação  dos  autos.  Precedentes"  (AgInt  no  AgInt  no  REsp  1.682.434/PR,  Rel.  Ministro  Lázaro  Guimarães,  Desembargador  Convocado  do  TRF  5ª  Região,  Quarta  Turma,  julgado  em  28/11/2017,  DJe  4/12/2017).
+2.  Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  não  há  falar  em  julgamento  ultra  ou  extra  petita  quando  o  julgador,  mediante  interpretação  lógico-sistemática,  examina  a  petição  apresentada  pelo  insurgente  como  um  todo.
+3.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AgInt  no  REsp  nº  1.844.770/DF,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  8/2/2021,  DJe  12/2/2021).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EMBARGOS  DE  TERCEIRO.  COMPROMISSO  DE  COMPRA  E  VENDA  DE  IMÓVEL  COMERCIAL.  HIPOTECA  FIRMADA  ENTRE  A  CONSTRUTORA  E  O  AGENTE  FINANCEIRO.  VALIDADE.  INAPLICABILIDADE  DA  SÚMULA  308/STJ.  PREQUESTIONAMENTO.  AUSÊNCIA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Consoante  entendimento  desta  Corte  Superior,  a  Súmula  308/STJ  não  se  aplica  aos  contratos  de  aquisição  de  imóveis  comerciais,  incidindo  apenas  nos  contratos  submetidos  ao  Sistema  Financeira  de  Habitação  -  SFH,  em  que  a  hipoteca  recai  sobre  imóvel  residencial.
+2.  É  válida  a  hipoteca  outorgada  pela  construtora  ao  agente  financiador  quando  firmada  anteriormente  à  celebração  da  promessa  de  compra  e  venda  de  imóvel  comercial.  Precedentes.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  nº  1.702.163/PR,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  15/10/2019,  DJe  6/11/2019).
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  julgar  improcedentes  os  pedidos  formulados  na  petição  inicial.
+Condeno  a  parte  recorrida  a  arcar  com  as  custas  processuais  e  os  honorários  advocatícios,  estes  fixados  em  10%  (dez  por  cento)  sobre  o  valor  da  causa,  devidamente  atualizado,  nos  termos  do  a rt.  85,  §  2º,  do  CPC/2015.
+Publique-se.
+Intimem-se.
