@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JOSÉ SALIM HAGGI NETO contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão que não conheceu do recurso em razão da deserção (fls. 1.042-1.047)
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.124-1.128).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, XXXV, e 93, IX, da CF.
+Sustenta que houve negativa de prestação jurisdiciona porque, no seu entender, as decisões não foram devidamente motivadas, a despeito da oposição dos aclaratórios, bem como não foi observado o princípio da inafastabilidade da jurisdição.
+Defende que a deserção aplicada nos autos esta equivocada porque o preparo foi realizado corretamente, inclusive com o recolhimento em dobro das custas de preparo.
+Invoca a aplicação retroativa de disposições mais benéficas constantes da Lei de Improbidade Administrativa, notadamente a comunicação entre as instâncias civis e criminais, na hipótese de absolvição criminal confirmada por decisão colegiada em ação que se investigue os mesmos fatos.
+Noticia que, na hipótese, teria sido absolvido por decisão colegiada.
+Aduz a necessidade de dolo específico para a condenação pela prática de ato ímprobo, a atipicidade da conduta ante a nova redação do art. 11 da LIA e a impossibilidade de aplicação da pena de suspensão dos direitos políticos nas condutas previstas no referido artigo.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no julgado recorrido, que negou provimento ao agravo interno, mantendo-se a decisão que não conheceu do agravo em recurso especial por deserção. Veja-se, a propósito, a seguinte transcrição (fls. 1.044-1.047):
+O inconformismo não alcança êxito.
+Conforme a decisão agravada, mediante análise dos autos, o comprovante de recolhimento das custas juntado à fl. 936 não é valido, uma vez que não se reveste das formalidades de um comprovante emitido pela instituição financeira. Registrou-se que não basta a mera transcrição de dados, como consta à fl. 936, sendo necessário o documento original.
+A decisão agravada assertivamente afirmou que "não há dúvidas de que o comprovante de pagamento via internet banking tenha validade, porém, a parte não pode tirar um print da tela, como no caso, mas sim, colacionar o comprovante efetivo fornecido pelo banco, em formato de "PDF" ou de "arquivo de imagem". Observou-se também que o referido documento não contém a sequência numérica do código de barras"(fl. 941).
+Assim, no caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso em razão da não comprovação integral do recolhimento das verbas que compõem o preparo.
+A jurisprudência desta Corte é firme no sentido de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento do preparo devidamente preenchidas e dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+A propósito:
+ ..
+Ocorre que a jurisprudência deste Tribunal Superior assevera que é deserto o recurso na hipótese em que a parte recorrente, após intimada a regularizar o preparo, não o faz devidamente, aplicando-se a Súmula n. 187/STJ. Nesse sentido:
+ ..
+Assinale-se que a ausência da juntada da guia de recolhimento impossibilita a aferição da correspondência do código de barras da guia com o que consta no comprovante de pagamento, configurando irregularidade no preparo do recurso especial, a ensejar o reconhecimento da deserção recursal.
+A propósito:
+ ..
+Ante o exposto, nego provimento ao agravo interno.
+Com efeito, verificada a ocorrência de prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III).
+No mais, conforme orientação vinculante do STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que nele se busque debater o mérito.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Esse é o entendimento fixado pela Suprema Corte no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181/STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acolhimento da irresignação pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido a esta Corte Superior.
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não prospera.
+Esclarecida a solução do recurso, passa-se à necessária manifestação a respeito dos impactos sobre o presente caso da decisão vinculante exarada pelo Supremo Tribunal Federal no julgamento proferido no Tema n. 1.199, sob o regime da repercussão geral.
+Quanto à aplicação da Lei n. 14.230/2021, a Suprema Corte firmou as seguintes teses no julgamento do Tema n. 1.199, sob o regime da repercussão geral:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa - é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente;
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei.
+Como se observa, o STF consignou a necessidade da configuração do elemento subjetivo doloso para a caracterização dos atos de improbidade administrativa em geral, destacando que as condenações ainda não transitadas em julgado, com base na prática de condutas culposas ou sem afirmação expressa do dolo, sejam reapreciadas pelas instâncias de origem, a fim de que haja a identificação ou não de dolo do agente.
+No caso dos autos, porém, o órgão julgador concluiu pela existência de conduta dolosa do agente, consoante se observa da seguinte transcrição (fls. 714-715):
+Sendo certo que mesmo o dolo genérico basta para caracterizar o ato ímprobo, não se pode olvidar que no caso concreto a sentença condenatória pode prosperar com relação ao apelante em razão da manifesta demonstração da presença de dolo específico.
+Isso porque, houve a manutenção dos casos de nepotismo mesmo após a comunicação de ilegalidade pelo Ministério Público, conforme comprova evento 1.3, através do Of.. n º 022/2009, no qual constou esclarecimento jurídico em relação ao caso de nepotismo verificado, com a recomendação de exoneração de Raffaello Frascati do cargo público em comissão de chefe de gabinete daquele Município.
+ ..
+Assim, é clara a presença de vontade consciente e dirigida do Apelante em violar os princípios da boa gestão, mantendo a nomeação concomitantemente de Francisco Hideo Kuribayashi Júnior, de Michael Bernardeli Kuribayashi, filho deste e da esposa Denize Pereira de Campos Kuribayashi, no período de 01/02/2008 a 31/12/2012.
+É incontroverso nos autos que o Apelante tomou conhecimento da ilegalidade das contratações por meio da mencionada Recomendação Administrativa elaborada pelo Ministério Público, cujas orientações conscientemente decidiu ignorar.
+Logo, como não se trata de condenação por ato improbidade administrativa culposo praticado anteriormente à vigência das novas disposições da Lei de Improbidade Administrativa, é desnecessária a adoção de qualquer providência destinada ao reexame do elemento subjetivo da conduta.
+Destaque-se que não há nenhuma determinação do STF, nos exatos termos do Tema de repercussão geral n. 1.199, no sentido de aplicar retroativamente as disposições da nova LIA, seja para exigir a configuração de dolo específico nas condenações por ato de improbidade já realizadas, seja quanto à necessidade de se observar a taxatividade das condutas elencadas no art. 11 da referida lei, ou quanto às penalidades aplicáveis.
+A propósito, assim já decidiu a Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. IMPROBIDADE ADMINISTRATIVA. DOLO RECONHECIDO. IMPACTOS DAS NOVAS DISPOSIÇÕES DA LEI DE IMPROBIDADE. AUSÊNCIA. REDISCUSSÃO DAS QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS, EM PARTE, SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Faz-se necessária manifestação desta Corte a respeito dos impactos da decisão vinculante exarada pelo Supremo Tribunal Federal sobre a presente demanda, especialmente em razão da superveniência do julgamento proferido no Tema n. 1.199, sob o regime da repercussão geral.
+3. No tocante à aplicação da Lei n. 14.230/2021, o Pretório Excelso firmou teses segundo as quais (i) é necessária a comprovação de responsabilidade subjetiva dolosa na tipificação dos atos de improbidade administrativa; (ii) a revogação da modalidade culposa de improbidade administrativa é, em regra, irretroativa; (iii) no caso de atos culposos praticados na vigência do texto anterior, porém sem condenação transitada em julgado, seve ser feita nova análise do elemento subjetivo; (iv) O novo regime prescricional não retroage, aplicando-se os novos marcos temporais apenas após aa publicação da nova lei.
+4. Inexistindo retroatividade das premissas jurídicas relativas ao marco prescritivo, não há possibilidade de modificação da conclusão na solução conferida ao presente caso.
+5. Quanto à tipicidade da conduta, o acórdão recorrido manteve as conclusões da instância ordinária pela existência de dolo do agente, não se tratando de condenação por ato ímprobo culposo capaz de ensejar o reexame do elemento subjetivo da conduta.
+6. Não há determinação do STF para aplicação retroativa do art. 17, § 10-F, II, da LIA, tampouco no que concerne à indicada taxatividade das condutas elencadas no art. 11 da referida norma.
+7. Quanto à apontada inaplicabilidade do Tema n. 339/STF, a pretensão aclaratória não prospera, ficando manifesto o intuito de rediscussão das questões já foram apreciadas pelo aresto embargado.
+8. O mérito da irresignação recursal dirigida ao Superior Tribunal de Justiça não foi apreciado em relação à suscitada intransmissibilidade da multa aos herdeiros, ponto sobre o qual o órgão colegiado não conheceu do recurso especial ante a incidência da Súmula n. 283/STF, o que impôs a negativa de seguimento ao recurso extraordinário, em razão da incidência da tese contida no Tema n. 181/STF.
+9. Hígido o acórdão embargado também em relação à negativa de seguimento derivada da incidência da conclusão constante dos Temas n. 660 e 895 do STF.
+10. Embargos de declaração acolhidos em parte, sem efeitos infringentes.
+(EDcl no AgInt no RE nos EDcl no AgInt no AREsp n. 1.564.776/MG, de minha relatoria, Corte Especial, julgado em 25/4/2023, DJe de 2/5/2023.)
+E ainda: AgInt no RE nos EDcl no AgInt nos EDcl no AREsp n. 1.771.958 SP, DJe de 3/7/2023.
+Por fim, registre-se que o Minis tro Alexandre de Moraes, em 27/12/2022, deferiu parcialmente a medida cautelar pleiteada nos autos da ADI n. 7.236, para, no que ora interessa, suspender a eficácia do art. 21, § 4º, da Lei n. 8.429/1992, o qual trata da comunicação de todos os fundamentos da absolvição criminal em ação de improbidade administrativa que discuta os mesmos fatos.
+Assim, a superveniência da Lei n. 14.230/2021, nos termos do que foi decidido pelo Supremo Tribunal Federal, não tem o condão de modificar o resultado da presente demanda.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. SUPERVENIÊNCIA DA LEI N. 14.230/2021. TEMA N. 1.199/STF. CONDUTA DOLOSA. IRRETROATIVIDADE. AUSÊNCIA DE IMPACTO NO CASO CONCRETO. SEGUIMENTO NEGADO.
