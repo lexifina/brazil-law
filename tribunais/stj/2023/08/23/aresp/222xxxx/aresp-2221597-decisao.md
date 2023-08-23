@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED DE PIRACICABA SOCIEDADE COOPERATIVA DE SERVIÇOS MEDICOS contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 282 do STF, da ausência de violação do art. 489 do CPC e da falta de demonstração de ofensa aos arts. 51, IV e § 1º, II, do CDC e 4º, III, da Lei n. 9.961/2000.
+Alega a agravante que trouxe à baila, tanto na contestação como em suas razões de apelação, discussão acerca do art. 10, caput e § 4º, da Lei n. 9.656/1998, estando a matéria prequestionada.
+Aduz que, nas razões de seu recurso especial, ficou evidenciada a afronta aos arts. 10, § 4º, da Lei n. 9.656/1998, 4º, III, da Lei n. 9.961/2000, e 2º da Resolução Normativa n. 439/2018 da ANS.
+Requer o provimento do agravo para que se dê seguimento ao recurso especial.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência da Súmula n. 282 do STF, ante a ausência de prequestionamento acerca da matéria ventilada no art. 10, caput e § 4º, da Lei n. 9.656/1998, na ausência de violação do art. 489 do CPC e na falta de demonstração de ofensa aos arts. 51, IV e § 1º, II, do CDC e 4º, III, da Lei n. 9.961/2000.
+Entretanto, a parte agravante, no presente agravo em recurso especial, deixou de impugnar satisfatoriamente tais fundamentos.
+Com efeito, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis : "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual co ncessão de gratuidade de justiça.
+Publique-se. Intimem-se.
