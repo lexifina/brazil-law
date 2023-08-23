@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de simples petição após a certificação do trânsito em julgado neste STJ em 20/10/2022 (fl. 66), relatando fatos novos e realizando pedido inédito.
+Na presente peça, em suma, busca a Defesa nova ordem, tendo em vista que "Ad inition, e antes de adentrarmos ao "cerne" da questão (Jurídica) posta em debate, IMPERIOSO REGISTRAR que os Atos do Desembargador, ora Excepto, estão (ou pelo menos "deveriam" estar..) sob "Correição" conforme DETERMINADO pelo Conselho Nacional de Justiça por causa das ".. violações dos DIREITOS e GARANTIAS deste Advogado..", (..) o Desembargador, ora Excepto (..) está respondendo Processos (Criminais / Administrativos), movidos por este Advogado, ora Excipiente, acusado de (CRIME..) ABUSO de (suas..) Autoridade/ Advocacia Administrativa, para com as partes em litigio; Desta forma, vem a presença de Vossa Excia, suscitar questão de Ordem Pública (em Incidente Processual..) para ver "Declarada" a SUSPEIÇÃO do Desembargador condutor do Feito (..), para que produza efeitos legais" (fls. 68-69).
+Requer "a SUSPEIÇÃO, do Desembargador condutor do Feito (..) seja "Declarado" a NULIDADE do Feito (..) seja pelas TORTURAS sofridas (..) seja pelos ABUSOS e Advocacia Administrativa (..) Seja "Oficiado" o Supremo Tribunal Federal(..) ;Seja "Oficiado" o Conselho Nacional de Justiça (..); Insiste também, em ver Notificado" a Ordem dos Advogados do Brasil (..) Seja "Oficiado" a Corte Interamericana de Direitos Humanos (..); Seja "Oficiado" o Tribunal Penal Internacional (..)" (fls. 69-70).
+É o breve relatório. Decido.
+Arquivado o feito, pois não insurgido em tempo, exaurida está a jurisdição desta Corte Superior, de modo que a Defesa deve agora buscar o seu direito na via adequada, sob instrução e dialética pertinentes e em face da autoridade competente.
+Por estas razões, indefiro o pedido.
+Esgotada, pois, a jurisdição desta Corte Superior, arquivem-se os autos imediatamente.
+Publique-se. Intime-se.
