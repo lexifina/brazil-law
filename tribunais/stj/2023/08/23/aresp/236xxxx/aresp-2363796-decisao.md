@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por JADE GARDENIA DE ALMEIDA contra decisão que não admitiu recurso especial fundamentado nas alíneas a e c do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim ementado (e-STJ fls. 329-330):
+PENAL E PROCESSUAL PENAL. CRIME DE ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DO RECURSO, QUANTO AO PLEITO DE JUSTIÇA GRATUITA, SUSCITADA DE OFÍCIO PELO RELATOR. ACATAMENTO. PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DO APELO, POR AUSÊNCIA DE INTERESSE RECURSAL, SUSCITADA PELA PROCURADORIA DE JUSTIÇA. PRETENSÃO DE ACOLHIMENTO. MÉRITO. ABSOLVIÇÃO. IMPOSSIBILIDADE. FARTO CONJUNTO PROBATÓRIO A DAR SUPORTE À CONDENAÇÃO. PALAVRA DA VÍTIMA E PROVAS DOCUMENTAIS. PEDIDO DE REDUÇÃO DA PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL (CIRCUNSTÂNCIAS DO CRIME) VALORADA DE FORMA INIDÔNEA. DIMINUIÇÃO DA REPRIMENDA QUE SE IMPÕE. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+A agravante foi condenada à pena de 1 anos e 6 meses de reclusão no regime aberto, além do pagamento de 15 dias-multa, pela prática do crime previsto no art. 171, caput, do Código Penal.
+O Tribunal de origem conheceu parcialmente e deu parcial provimento ao apelo da defesa para redimensionar a pena para 1 ano de reclusão no regime aberto, além do pagamento de 10 dias-multa (e-STJ fls. 329-337).
+Nas razões do recurso especial, alega violação dos arts. 171 do CP e 386, III, VI e VII, do Código de Processo Penal, pois: a) "verifica-se que não subsistem provas cabais que indiquem que a ré tinha por objetivo concretizar os elementos contidos no art. 171 do Código Penal" (e-STJ fls. 351-352); b) "a divergência reside, essencialmente, na presença ou não de dolo na conduta da apelante, consistente em saber e querer a realização do tipo objetivo dos delitos descritos na denúncia" (e-STJ fl. 354); e c) "não havendo o dolo específico da defendente quanto à obtenção de vantagem definida no tipo penal, não pode proceder a condenação ora perpetrada" (e-STJ fl. 356).
+Contrarrazões apresentadas à e-STJ fl. 359.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 373-385).
+Parecer do Ministério Público Federal pelo conhecimento do agravo e desprovimento do recurso especial (e-STJ fls. 410-413).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever a fundamentação utilizada pelo Tribunal estadual acerca da manutenção da condenação da recorrente (e-STJ fls. 331-336):
+Consoante relatado, a apelante busca a absolvição pelo crime de estelionato (art. 171, caput, do Código Penal).
+Ocorre que, após analisar detidamente todo o conteúdo probatório coligido nos autos, valorando-o conforme convicção própria, não consigo enxergar outra conclusão senão a adotada pelo Juízo de primeiro grau, visto que foram produzidas provas suficientes para a condenação. Explico melhor.
+Consta da denúncia que (Id. 13724040):
+ ..
+Neste contexto, convém destacar as provas da materialidade do crime. Em específico, as peças do inquérito policial (Id. 13724031 e ss); os comprovantes de pagamentos de Id. 13724031- fls. 07/08 e o boletim de ocorrência (Id. 13724060), bem como pelas provas orais colhidas na delegacia e em juízo.
+Por outro lado, no que diz respeito à caracterização da autoria delitiva, as provas são amplas. Dentre elas, prevalece às declarações da vítima Igor Tadeu de Araújo Alves prestadas na seara judicial (mídias audiovisuais de Id. 13725309, Id. 13725310 e Id. 13725311).
+ ..
+Destaco que as declarações do ofendido foram confirmadas integralmente pelas demais provas anexadas ao processo (comprovantes de pagamentos de Id. 13724031- fls. 07/08 e pelo boletim de ocorrência de Id. 13724060).
+Reforçando os argumentos supracitados transcrevo trechos da decisão combatida (Id. 13725323):
+"Vê-se pelos depoimentos judiciais que a acusada Jade Gardênia tenta emplacar a versão de descontrole financeiro de seu negócio, afirmando que o fato ocorrido entre ela e a vítima se trata na verdade de um inadimplemento contratual, cuja demanda poderia ser resolvida no Juízo Cível, evitando-se com isso sua responsabilização penal.
+Ocorre que nenhuma das provas constantes nos autos corrobora as afirmações da ré. Ao revés, demonstram que a mesma entabulou o negócio com dolo de obter vantagem indevida, uma vez que desde logo não pretendia entregar o celular oferecido a venda.
+Enquanto a acusada Jade Gardênia de Almeida afirma que a vítima não conseguiu retirar o celular no prazo pactuado, a vítima Igor Tadeu de Araújo Alves narrou que a acusada se comprometeu a remeter a mercadoria tão logo o comprador efetuasse o pagamento do valor restante, o que de fato foi solicitado pela acusada como condição para o envio. Ressalte-se que a vítima relatou que a acusada chegou inclusive a lhe enviar a foto do celular vendido, afirmando que este já teria chegado do fornecedor, momento em que solicitou a outra metade do pagamento, o que de fato foi feito.
+Frise-se que a acusada jamais enviou o celular a vítima e quando cobrada, afirmou a esta que o aparelho teria vindo com defeito, momento em que forneceu um tempo maior para troca, o que revela uma clara tentativa de ganhar tempo e continuar a ludibriar a vítima. A acusada também restou inerte quando a vítima lhe solicitou o reembolso; antes porém, não se distanciando no modus operandi da fraude perpetrada, solicitou mais prazo para devolução da quantia.
+A não ser a foto do aparelho que foi enviada a vítima, conforme esta narrou, não há nenhuma outra prova de que este celular tenha de fato sido pedido ao fornecedor, já que a acusada se quer juntou aos autos nota fiscal ou recibo que comprove a compra realizada.
+Não se negue que o ônus probatório quanto aos fatos narrados na denúncia é do Ministério Público, no entanto, não é crível que a acusada de posse de documentos que poderiam demonstrar a licitude de sua negociação, acabe por não juntá-los sob o qualquer pretexto. Some-se a isso, a contradição entre os depoimentos prestados pela acusada em sede policial e em audiência judicial, uma vez que na esfera administrativa afirmou que a não entregado aparelho celular a vítima se deu pelo fato de não ter recebido o aparelho do fornecedor.
+Dessa forma, a materialidade e autoria do delito de estelionato restaram perfeitamente demonstradas, já que restou comprovado que a ré, mediante fraude (venda de aparelho celular pela internet que sabidamente não iria ser entregue), obteve para si vantagem ilícita (pagamentos realizados em seu favor), em prejuízo alheio, ou seja, da vítima Igor Tadeu de Araújo Alves. (..)".
+Sendo assim, comprovada a obtenção de vantagem ilícita, o prejuízo causado à vítima e o uso de fraude para obter esse proveito, não há dúvidas que a recorrente cometeu o crime de estelionato, razão pela qual a manutenção da sentença é medida que se impõe.
+ ..
+Desse modo, provadas a materialidade e a autoria do crime de estelionato (art. 171, caput, do Código Penal) é inadmissível a absolvição pretendida.
+O Colegiado a quo consignou não haver dúvida acerca da autoria do crime de estelionato, porquanto provada nos autos "a obtenção de vantagem ilícita, o prejuízo causado à vítima e o uso de fraude para obter esse proveito" (e-STJ fl. 335).
+A reforma do julgado não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório , providência incabível em recurso especial, obstada pela Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. OFENSA À CONSTITUIÇÃO FEDERAL. VIA INADEQUADA. DOLO. ABSOLVIÇÃO. SÚM. 7/STJ. VIOLAÇÃO AO ESTATUTO DO IDOSO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO DESPROVIDO.
+ ..
+2. Concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que o recorrente praticou o delito de estelionato, chegar a entendimento diverso, proclamando a absolvição, implica em exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súm. n. 7/STJ.
+3. A alegada violação ao art. 34 da Lei n. 10.741/2003 não foi objeto de análise pelas instâncias ordinárias, atraindo a incidência das Súmulas 282 e 356 do STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.975.220/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ESTELIONATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUTORIA E MATERIALIDADE DO DELITO. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE DE REVISÃO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. SÚMULA N. 283 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Evidenciadas a autoria e a materialidade do tipo penal de estelionato pela análise das provas e fatos da causa, não cabe reexaminá-las em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+3. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula n. 283 do STF).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1.744.184/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
