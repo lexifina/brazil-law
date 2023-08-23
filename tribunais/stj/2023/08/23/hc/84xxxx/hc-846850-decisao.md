@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  originariamente  no  Supremo  Tribunal  Federal ,  em  causa própria, por LEONARDO CARVAJAL GARCIA PELATI contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0048416-20.2014.8.26.0050, que indeferiu o provimento urgente.
+Consta dos autos que o Paciente foi absolvido, em primeiro grau de jurisdição, da imputação pela prática do delito previsto no art. 180 do Código Penal, nos termos do art. 386, inciso VII, do Código de Processo Penal.
+Irresignado, o Ministério Público interpôs recurso de apelação, o qual se encontra pendente de julgamento. Seguiu-se pedido de medida liminar apresentado pelo Réu "para que fosse extinto imediatamente o processo" (fl. 1), sob a alegação de prescrição da pretensão punitiva.
+O pleito liminar foi indeferido pelo Desembargador Relator (fl. 30).
+Daí o presente writ, em que o Impetrante aduz que, transcorrido mais de 8 (oito) anos do recebido da denúncia, e considerada a pena em abstrato, bem como a menoridade relativa do Paciente ao tempo do suposto delito, "o caso encontra-se prescrito" (fl. 3).
+Requer, liminarmente e no mérito, o "trancamento/extinção do processo de origem, além de decretação de sigilo de todas as informações públicas do Paciente no processo de origem, mormente a retirada do seu nome da pesquisa do distribuidor e de outros meios de pesquisa públicos" (fls. 5-6).
+À  fl.  33,  a  Presidente  do  Supremo  Tribunal  Federal  Ministra  Rosa  Weber  declinou  da  competência  para  o  Superior  Tribunal  de  Justiça,  por  faltar  "pronunciamento judicial exarado por quaisquer das autoridades elencadas no rol do art. 102, I, e e i, da Lei Maior".
+É  o  relatório.  Decido.
+O  writ  não  merece  trânsito,  ante  a  caracterização  de  litispendência.
+Conforme  relatei,  no  presente  writ  a  Defesa  impugna  a decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0048416-20.2014.8.26.0050, que indeferiu o provimento urgente  -  assim  como  no  writ  a nterior  impetrado  nesta  Corte,  qual  seja,  o  HC  n.  846.793/SP.
+Ocorre  que  não  podem  ser  analisados  habeas  corpus  nos  quais  se  verifica  litispendência,  constatada  exatamente  quando  há  igualdade  de  partes,  de  objeto  e  de  causa  petendi  .
+Assim,  concluo  ser  inadmissível  este  feito,  porquanto  "não  pode  ser  conhecida  a  impetração  que  veicula  mera  reiteração  d e  pedido  já  formulado  em  writ  anteriormente  impetrado  nesta  Corte"  (AgRg  no  HC  286.354/AC,  Rel.  Ministra  LAURITA  VAZ,  QUINTA  TURMA,  julgado  em  15/05/2014,  DJe  23/05/2014).  No  mesmo  sentido,  v.g.:  HC  519.170/RS,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  15/10/2019,  DJe  21/10/2019;  EDcl  no  AgRg  no  HC  532.973/RS,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  10/10/2019,  DJe  15/10/2019.
+Ante  o  exposto,  INDEFIRO  LIMINARMENTE  a  petição  inicial,  com  fundamento  no  art.  34,  inciso  XX,  c.c.  o  art.  210,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  .
+Publique-se.  Intimem-se.
+EMENTA
+  HABEAS  CORPUS.  REITERAÇÃO  DE  TESE.  IDENTIDADE  DE  PARTES,  DE  OBJETO  E  DE  CAUSA  PETENDI.  PRETENSÃO  DEFENSIVA  JÁ  FORMULADA  EM  WRIT  ANTERIORMENTE  IMPETRADO  NESTA  CORTE.  LITISPENDÊNCIA  CONFIGURADA.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.
