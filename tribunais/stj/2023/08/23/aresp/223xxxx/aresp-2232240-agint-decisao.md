@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por TÊXTIL TECNICOR LTDA. contra a decisão proferida pela Presidência desta Corte Superior que, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo em recurso especial para não conhecer do recurso especial apresentado pelo contribuinte, decisum que foi mantido mesmo após a oposição de aclaratórios pelo particular.
+Em seu agravo interno, o contribuinte pugnou pela reconsideração da decisão agravada, sustentando, em síntese, que é devida a exclusão da Contribuição Previdenciária sobre a Receita Bruta (CPRB) das bases de cálculo do PIS e da COFINS.
+É o relatório. Decido.
+De fato, mediante a análise dos autos, percebe-se que a questão suscitada pelo contribuinte em seu recurso especial não possui natureza constitucional, ante o entendimento fixado pelo STF na apreciação do Tema n. 111/STF (É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS), fator que torna necessária a reconsideração da decisão agravada.
+De igual forma, considerando que o contribuinte atendeu aos pressupostos de admissibilidade do agravo em recurso especial, passo ao exame do próprio recurso especial interposto pelo particular.
+Nesse ponto, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que é legítima a inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS. In verbis:
+TRIBUTÁRIO. CPRB. BASE DE CÁLCULO DO PIS E DA COFINS. INCLUSÃO. LEGALIDADE.
+1. "É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS" (RE 1.244.117 RG, Rel. Dias Toffoli, Tribunal Pleno, DJe 25/2/2021 - Tema 1.111/STF).
+2. As duas Turmas que compõem a Primeira Seção deste STJ firmaram a compreensão pela legalidade da inclusão dos valores relativos à contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS.
+3. Precedentes: AgInt no REsp n. 1.968.225/SP, relator Ministro Gurgel de Faria, DJe de 1/7/2022; AgInt nos EDcl no REsp 1.934.023/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/02/2022; e AgInt nos EDcl no REsp 1.930.043/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15/12/2021.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.934.022/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA INCIDENTE SOBRE A RECEITA BRUTA (CPRB). INCLUSÃO NA BASE DE CÁLCULO DO PIS E COFINS. CABIMENTO. PRECEDENTES.
+1. O STF firmou entendimento de que "É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS" (RE 1.244.117-RG, relator Ministro Dias Toffoli, Tribunal Pleno, DJe 25/2/2021 - Tema n. 1.111/STF), o que reforça a competência do STJ à análise do tema em debate.
+2. É firme entendimento de que é legítima a inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.839.038/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. INCLUSÃO DOS VALORES REFERENTES À CPRB. LEGALIDADE. CONCEITO DE RECEITA BRUTA. TOTALIDADE DAS RECEITAS. MATÉRIA PACÍFICA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A alegação genérica de violação do art. 1.022 do CPC/2015, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. É legal a inclusão dos valores gastos com o recolhimento da CPRB nas bases de cálculo da contribuição ao PIS e da COFINS, pois integram a receita bruta. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.929.686/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ante o exposto, dou provimento ao agravo interno, apenas para reconsiderar a decisão agravada, e, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial do contribuinte.
+Publique-se. Intimem-se.
