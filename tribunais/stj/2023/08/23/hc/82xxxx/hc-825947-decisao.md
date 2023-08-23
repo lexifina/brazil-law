@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RHUAN PRA LUCAS contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA nos autos da apelação n. 5002863-07.2020.8.24.0030.
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão e 666 dias-multa, em regime inicial semiaberto, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 104-123).
+No julgamento da apelação, o eg. Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 696-706).
+Na hipótese, a defesa aponta constrangimento ilegal na primeira fase da dosimetria, uma vez que a pena-base foi fixada acima do mínimo legal sem fundamentação concreta.
+Declara, ainda, a possibilidade de aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, em favor do paciente.
+Requer, assim, o redimensionamento da reprimenda.
+Informações prestadas às fls. 1300-1308 e 1309-1384.
+O Ministério Público Federal, às fls. 1388-1395, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração o redimensionamento da reprimenda do paciente, na primeira fase da dosimetria, com a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+Nesse sentido: AgRg no HC n. 770.047/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/12/2022; AgRg no HC n. 773.880/SP, Quinta Turma, de minha relatoria, DJe de 16/12/2022 e AgRg no HC n. 748.011/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2022.
+Na presente hipótese, verifica-se a maior reprovabilidade da conduta do paciente, em razão da quantidade da droga apreendida ("aproximadamente 2 kg de maconha" - fl. 104), bem como pelo "o modus operandi do tráfico realizado pelo acusado, o qual sabia que a droga seria trazida do litoral catarinense para distribuí-la na cidade de Imaruí" - fl. 121, não evidenciando nenhuma ilegalidade manifesta na exasperação da pena-base acima do mínimo legal.
+Vale dizer, uma vez que foram apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Primeira Turma, Relª. Minª. Rosa Weber, DJe de 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+Por outro lado, quanto a possibilidade de aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, verifico que melhor sorte socorre ao paciente.
+Ressalta-se que "a Quinta Turma desta Corte Superior, nos autos do HC n. 664.284/ES, Rel. Ministro RIBEIRO DANTAS, Julgamento em 21/9/2021, DJe 24/9/2021, passou a adotar o entendimento de que inquéritos policiais e ações penais em curso não podem justificar o afastamento do tráfico privilegiado, uniformizando o posicionamento de ambas as Turmas sobre o tema" (AgRg no HC n. 772.739/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 4/11/2022, grifei).
+Nesse sentido: AgRg no AgRg no HC n. 764.458/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 26/4/2023; AgRg no HC n. 785.084/RS, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 20/4/2023 e AgRg no AREsp n. 2.124.395/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/2/2023.
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado, tão somente, no fato de o paciente possuir ações penais em andamento (fl. 703).
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, no seu patamar máximo.
+Evidenciado, no ponto, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 6 anos e 8 meses de reclusão e 666 dias-multa (fl. 121).
+Na segunda fase, a reprimenda permanece inalterada.
+Na terceira fase, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 2 anos, 2 meses e 20 dias de reclusão e 222 dias-multa.
+Observa-se, que a pena-base foi fixada acima do mínimo legal, pois considerada a quantidade de droga apreendida. Desse modo, embora relevante a quantidade de entorpecentes ( "aproximadamente 2 kg de maconha"- fl. 104), em razão da vedação de bis in idem, observo ser cabível o benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para redimensionar a reprimenda do paciente em 2 anos, 2 meses e 20 dias de reclusão e 222 dias-multa, mantidos os demais termos da condenação.
+P. e I.
