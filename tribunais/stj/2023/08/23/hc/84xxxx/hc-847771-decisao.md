@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEOVAN VIEIRA DE OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado do Acre (HC n. 1001699-39.2022.8.01.0000). Eis a ementa do julgado (e-STJ fls. 269):
+Habeas Corpus. Tráfico de drogas. Associação para o tráfico de drogas. Sentença condenatória transitada em julgado.Nulidade processual. Inexistência de flagrante ilegalidade. Via inadequada. Não conhecimento. de ofício.
+- A legislação tem previsão expressa quanto ao Recurso cabível para atacar Sentença condenatória definitiva prolatada em sede de Ação Penal, não sendo possível tal discussão em Habeas Corpus, impondo-se o seu não conhecimento.
+- Os precedentes oriundos do Supremo Tribunal Federal e do Superior Tribunal de Justiça "orientam no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que,configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem da ordem de ofício".
+- Habeas Corpus não conhecido.
+No presente habeas corpus, a defesa sustenta a nulidade da ação penal, pois o paciente não teria sido intimado para comparecer na audiência de instrução e julgamento, bem como não fora intimado da sentença penal condenatória.
+Requer, liminarmente e no mérito, seja reconhecida a nulidade da ação penal por ausência de intimação do paciente, devendo ser designada nova audiência de instrução e julgamento.
+É o relatório. Decido.
+Da leitura do acórdão impugnado (e-STJ fls. 269/283), observa-se que o tema apresentado na presente impetração não foi explicitamente examinado pela Corte de origem, o que impede este Superior Tribunal de Justiça de conhecer da matéria, sob pena de indevida supressão de instância.
+Como cediço, " n ão compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ademais, das informações prestadas pelo Juízo de primeiro grau ao Tribunal de origem, observa-se que o paciente estava foragido no momento da audiência de instrução e julgamento, o que afasta o apontado constrangimento ilegal. Veja-se (e-STJ fls. 276/277):
+16. Importante destacar que a audiência ocorreu em 19/11/2014, a sentença proferida em 24/11/2014 e o mandado de prisão cumprido nos autos n. 0006996-22.2014.8.01.001 somente no dia 04 de março de2015.
+17. O ofício da autoridade policial, datado de 26/11/2014 (fls. 170), informa que ainda não tinham conseguido localizar o réu para cumprimento do mandado de prisão.
+Desse modo, observa-se que o paciente não comparecer à audiência de instrução e julgamento pois estava foragido.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
