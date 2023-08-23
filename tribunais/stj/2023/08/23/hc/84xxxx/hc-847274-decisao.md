@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANTONIO BARBOSA DE LIMA JUNIOR contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2146973-84.2023.8.26.0000, da Comarca de Guarujá.
+Consta nos autos que o Paciente foi preso em flagrante, quando supostamente praticava os delitos previstos no art. 148, § 2.º, do Código Penal (quatro vezes). A medida precautelar foi convertida prisão preventiva no dia 16/03/2023 (fls. 39-46).
+Posteriormente, na denúncia narrou-se a prática das seguintes condutas (fl. 48; original sem grifos):
+" ..  no dia 15 de março de 2023, por volta das 15h20min, na Rua Olympia Sampaio, nº 8, Parque Enseada, nesta Comarca de Guarujá/SP, JENIFER BARBOSA DA SILVA, qualificada na pesquisa da receita federal em anexo, ANTONIO BARBOSA DE LIMA JUNIOR, qualificado à fl. 19, ÉVERTON DOS SANTOS CUNHA, qualificado à fl. 20, e LUIZ HENRIQUE SANTOS SOUZA, qualificado à fl. 21, agindo em concurso e com perfeita unidade de desígnios entre si e com ao menos outros quatro indivíduos ainda não identificados, privaram de suas liberdades, mediante sequestro e cárcere privado, Marlon Cácio de Oliveira, Marcelo Max de Oliveira, Messias Valdinei Guimarães e Pedro Henrique de Oliveira Souza, resultando para as vítimas, em razão de maus- tratos e da natureza da detenção, grave sofrimento moral.
+ .. ".
+No writ originário, a Defesa requereu a "revogação da prisão preventiva do paciente, sob o argumento de nulidade no reconhecimento pessoal realizado na fase policial" (fl. 20). A ordem foi denegada pela Corte local (fls. 52-56).
+Na inicial deste feito, o Impetrante reitera a alegação de que o reconhecimento pessoal do Paciente violou o art. 226 do Código de Processo Penal.
+Requer, liminarmente e no mérito, seja relaxada a prisão em flagrante.
+É  o  relatório do necessário.
+  Decido.
+O  pedido  é  incognoscível.
+Na decisão em que analisou a defesa preliminar, o Juiz de primeiro grau designou a audiência de instrução e julgamento para 28/06/2023 (fl. 55). Pressupõe-se, dessa forma, que a causa esteja concluída em primeiro grau. Todavia, na petição inicial não há quaisquer referências ao ato designado, motivo pelo qual faltam na hipótese documentos e esclarecimentos essenciais ao correto exame da controvérsia.
+E, como se sabe, a devida narração e a "adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Por isso, em conclusão, as alegações de mérito não podem ser conhecidas, porque a Defesa não se desincumbiu do seu ônus de instruir devidamente os autos e narrar adequadamente a controvérsia.
+No mesmo sentido: STJ, RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ante  o  exposto,  INDEFIRO  LIMINARMENTE  a  petição  inicial,  com  fundamento  nos  arts.  34,  inciso  XX,  e  210,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Publique-se.  Intimem-se.
+
+EMENTA
+HABEAS  CORPUS.  INSTRUÇÃO E NARRATIVA DA INICIAL DEFICIENTES. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À DEVIDA ANÁLISE DA CONTROVÉRSIA.  PETIÇÃO  INICIAL  LIMINARMENTE  INDEFERIDA
