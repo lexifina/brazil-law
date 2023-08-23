@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CEREALISTA RC EIRELI, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/02/2023.
+Concluso ao gabinete em: 12/07/2023.
+Ação: de anulação de negócio jurídico cumulada com pedido de cancelamento de averbação ajuizada por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS URUBICI em face da agravante.
+Sentença: julgou procedentes os pedidos formulados na inicial.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. "AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C PEDIDO DE CANCELAMENTO DA AVERBAÇÃO". TOGADA A QUO QUE JULGA PROCEDENTES OS PEDIDOS DEDUZIDOS NA EXORDIAL PARA DECRETAR A RESCISÃO DO SEGUNDO TERMO ADITIVO DA CÉDULA DE CRÉDITO BANCÁRIO FIRMADA ENTRE AS CONTENDORAS E DETERMINAR O CANCELAMENTO DA ANOTAÇÃO OPERADA ÀS MARGENS DA MATRÍCULADO IMÓVEL. INCONFORMISMO DA RÉ.
+DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM 13-2-22. INCIDÊNCIA DO CPC/15.
+PRELIMINAR DE CARÊNCIA DE INTERESSE DE AGIR. VERBERAÇÃO DE QUE O PEDIDO DE NULIDADE DO TERMO ADITIVO NÃO ENCONTRA AMPARO NO ART. 166 DO CC/02. VERSÃO DESCORTINADA. LITIGANTES QUE CELEBRARAM O "SEGUNDO TERMO ADITIVO À CÉDULADE CRÉDITO BANCÁRIO N. 34512-9 (CONTROLE SISBR 411067)", ONDE FICOU ESTIPULADO QUE A RÉ REALIZARIA O PAGAMENTO DE UMA ENTRADA, O QUE NÃO ACONTECEU. DEBATE SOBRE O DESFAZIMENTO DO NEGÓCIO JURÍDICO QUE NÃO SE VERIFICOU, COMO PROPÕE A RECORRENTE, A PARTIR DAS CONDIÇÕES LEGAIS DE VALIDADE, MAS SOB O ASPECTO DA NULIDADE A PARTIR DA NOÇÃO DE INEFICÁCIA DO NEGÓCIO JURÍDICO E SEUS EFEITOS EM RAZÃO DA INADIMPLÊNCIA INCONTROVERSA DA DEVEDORA. SENTENÇA MANTIDA.
+PREFACIAL DE NULIDADE DA SENTENÇA SOB A PONDERAÇÃO DE QUE O PRONUNCIAMENTO JUDICIAL FOI EXTRA PETITA. TESE INACOLHIDA. ARGUMENTAÇÃO NO SENTIDO DE QUE O PEDIDO FORMULADO NA PEÇA VESTIBULAR RESTRINGE-SE À ANULABILIDADE DO NEGÓCIO JURÍDICO, E NÃO A DECLARAÇÃO DE INEFICÁCIA DO MESMO PELA INADIMPLÊNCIA DA PARCELA DE ENTRADA. IMBRÓGLIO INSTALADO NO FEITO QUE, EM QUE PESE A DISCORDÂNCIA TEÓRICA, RESIDE SIM NA DECLARAÇÃO DA INEFICÁCIA DO NEGÓCIO JURÍDICO CELEBRADO ENTRE AS PARTES PELO SEU INADIMPLEMENTO, COM O CONSEQUENTE CANCELAMENTO DO REGISTRO DA ALIENAÇÃO FIDUCIÁRIA ÀS MARGENS DA MATRÍCULA DO IMÓVEL. PEDIDO AMPLO QUE CONTEMPLA A DECRETAÇÃO DA INEFICÁCIA. POSSIBILIDADE DE O ESTADO-JUIZ DE ORIGEM DESBORDAR-SE DOS SEUS LIMITES OBJETIVOS, SEM QUE ISSO IMPLIQUE NENHUMA OFENSA À REGRA D ACONGRUÊNCIA. DECISÃO IMPUGNADA QUE ESTÁ CONCEDENDO MENOS DO QUE O QUE FOI, EM TESE, PLEITEADO. DECISÃO PRESERVADA. RECURSO IMPROVIDO. (e-STJ fl. 216)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 166 e 171 do CC; 141, 485, VI, e 492 do CPC, bem como dissídio jurisprudencial.
+Insurge-se contra o acordão recorrido, na medida em que teria prolatado julgamento extra petita. Argumenta que o Juízo a quo teria reconhecido o inadimplemento contratual e, por conseguinte, concedido a rescisão do negócio jurídico em questionamento. Segundo a recorrente, deixou de reconhecer a anulabilidade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Relevância de questão de direito federal infraconstitucional
+O art. 105, § 2º, da CF/88 exige que a relevância seja demonstrada "nos termos da lei". Nesse contexto, o Pleno do STJ aprovou, em 19/10/2022, o Enunciado Administrativo nº 8, segundo o qual "a indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+Logo, como ainda nem sobreveio a referida lei regulamentadora, não se exige, também por esse motivo, a demonstração da relevância da questão de direito federal na hipótese em julgamento.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 166 e 171 do CC, bem assim os arts. 141, 485, VI, e 492 do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamentos não impugnados
+A agravante não impugnou pontualmente os fundamentos utilizados pelo TJ/SC:
+Narra a Autora que as Contendoras celebraram o "Segundo Termo Aditivo à Cédula de Crédito Bancário nº 34512-9 (Controle SISBR 411067)", onde ficou estipulado que a Ré realizaria o pagamento de uma entrada no valor de R$ 100.000,00 (cem mil reais), o que não aconteceu, razão pela qual clama pela ineficácia do negócio jurídico e o retorno da situação aos status quo ante.
+Com efeito, verifico que no caso vertente a discussão sobre a nulidade do negócio jurídico não se deu, como propõe a Recorrente, a partir das condições legais de validade - o que demandaria o exame dos requisitos do art. 166 do CC/02 - mas sob a ótica da nulidade a partir da noção de ineficácia do negócio jurídico, ou seja, da não produção dos efeitos do ajuste entre as Partes face a inadimplência da parcela de entrada.
+Dito isso, não prospera a alegação da Apelante que carece a Requerente de interesse processual por não ter mencionado na exordial qualquer requisito mínimo para se postular a anulabilidade do negócio jurídico do art. 166 do CC/02, pois, repiso para enfatizar, não se discute o plano da validade, mas fatores relacionados a suspensão e resolução de direitos e deveres, bem como as consequências do negócio em relação às partes e terceiros.
+ ..
+In casu, a Recorrente argumentou, em apertada síntese, que a sentença é nula em decorrência do vício extra petita, porque o pedido formulado pela Autora restringe-se à anulabilidade do negócio jurídico, e não a declaração de ineficácia do mesmo pela inadimplência da parcela de entrada.
+Entretanto, essa discordância teórica não afasta a realidade do feito, que consoante adiantado no item anterior deste julgamento, reside na declaração da ineficácia do negócio jurídico celebrado entre as Partes pelo seu inadimplemento, com o consequente cancelamento do registro da alienação fiduciária às margens da matrícula dobem.
+O pedido formulado na origem é amplo e contempla, sim, a decretação da ineficácia do negócio jurídico pelo inadimplemento da parcela de entrada.
+Deveras, há situações em que é lícito ao Estado-Juiz desbordar-se dos seus limites objetivos, sem que isso implique nenhuma ofensa à regra da congruência.
+No caso vertente, a sentença que julga procedentes os pedidos formulados pela Autora para decretar a rescisão do "Segundo Termo Aditivo da Cédula de Crédito Bancário n. 34512-9", celebrado entre as Partes, e como consequência o retorno das partes ao status quo ante não pode ser considerada extra petita.
+A rigor, a Magistrada está concedendo menos do que o que foi pleiteado - pediu-se, em tese, a nulidade e ela concedeu a mera declaração de ineficácia. (e-STJ fls. 220/221, grifo nosso )
+Destarte, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% sobre o valor da causa para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM PEDIDO DE CANCELAMENTO DE AVERBAÇÃO. RELEVÂNCIA DE QUESTÃO DE DIREITO FEDERAL INFRACONSTITUCIONAL. ENUNCIADO ADMINISTRATIVO 8 DO STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de anulação de negócio jurídico cumulada com pedido de cancelamento de averbação.
+2. O Pleno do STJ aprovou, em 19/10/2022, o Enunciado Administrativo nº 8, segundo o qual "a indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
