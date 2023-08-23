@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de FRANCISCO DE JESUS COSTA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal n. 2159615-89.2023.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática do crime de homicídio qualificado tentado, às penas de 9 anos, 7 meses e 6 dias de reclusão. O recurso de apelação interposto pela defesa restou desprovido, conforme acórdão de fls. 25/31.
+Posteriormente, a defesa ajuizou revisão criminal perante o Tribunal de origem, a qual foi julgada improcedentes nos termos da seguinte ementa:
+"Revisão Criminal. Homicídio qualificado por razões de condição do sexo feminino, recurso que dificultou a defesada vítima e motivo torpe. Pleito objetivando a redução do patamar de aumento realizado na segunda etapa da dosimetria. Impossibilidade. Pedido já analisado, inclusive, em sede de apelação. Escorreita a elevação, na segunda fase da dosimetria, em 1/5, pela utilização das qualificadoras do motivo torpe e emprego de recurso que dificultou a defesa da vítima como circunstâncias agravantes (art. 61, inciso II, "a" e "c", do Código Penal). Regime adequadamente fixado. Improcedente" (fl. 53).
+No presente writ, a defesa sustenta que a elevação de 1/5 na pena intermediária é desproporcional, entendendo ser devido o aumento na fração de 1/6.
+Requer, em liminar e no mérito, a redução da pena imposta ao paciente.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+Em que pese impugnar acórdão proferido em sede de revisão criminal, constata-se que a pena imposta ao paciente no âmbito da apelação n. 0000324-31.2016.8.26.0001 já foi objeto de análise e decisão por esta Corte Superior no julgamento do HC n. 825.293/SP, o qual foi indeferido liminarmente por decisão monocrática lavrada em 24/5/2023, com trânsito em julgado em 31/5/2023, restando consignado que inexiste constrangimento ilegal no aumento da pena em 1/5 na segunda fase da dosimetria.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO COM TRÂNSITO EM JULGADO. IMPETRAÇÃO DEFICIENTEMENTE INSTRUÍDA E SUBSTITUTIVA DE REVISÃO CRIMINAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA DESDE A ORIGEM. FLAGRANTE ILEGALIDADE NÃO CONSTATADA IN CASU. MERA REITERAÇÃO DE PEDIDOS. TESE DE PRESCRIÇÃO AFASTADA NO RECURSO CONEXO. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PEDIDO DE SUSTENTAÇÃO ORAL INVIÁVEL. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, não constatada nenhuma flagrante ilegalidade, seja pela instrução inadequada desta ação mandamental seja pela impossibilidade de se buscar uma revisão criminal em indevida supressão de instância e por meio de um writ.
+III - A jurisprudência desta eg. Corte Superior é firme no sentido de que "o exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federa" (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+IV - É ônus do impetrante instruir a inicial do habeas corpus, conforme preceitua esta eg. Corte Superior e o col. Supremo Tribunal Federal. In verbis: "Constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Tóffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski)" (AgRg no HC n. 130.240, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/12/2015).
+V - Outrossim, a questão da prescrição, além de consistir em inovação tardia de pedidos, não passou de mera reiteração de pedidos no REsp n. 1.924.931/SP, o qual já foi julgado por esta. eg. Corte, que devidamente afastou sua ocorrência, em 14/9/2021. Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+VI - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+VII - Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo.
+Agravo regimental desprovido.
+(AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
