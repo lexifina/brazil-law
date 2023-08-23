@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Leonardo Antonio Domingos Jesus das Neves, em que se aponta como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais, que denegou o Habeas Corpus n. 1.0000.23.139339-8/000 lá impetrado.
+Neste writ, sustenta-se a ausência de justa causa para a violação de domicílio.
+Destaca-se que o ingresso dos policiais militares na residência do paciente foi apoiado nas seguintes circunstâncias: (i) recebimento de denúncias anônimas, (ii) ser conhecido no meio policial, e (iii) ter fugido ao avistar a aproximação dos agentes (fl. 6).
+Requer-se seja concedida a ordem de habeas corpus, a fim de que seja declarada a nulidade das provas, com a consequente absolvição, confirmando-se em consequência, a medida liminar (fl. 8).
+É o relatório.
+No caso, está presente a plausibilidade jurídica do pedido.
+Ao tratar do tema, o Juízo de piso trouxe as seguintes considerações (fls. 49/50):
+ ..
+Na ocasião dos fatos, após várias denúncias de que o denunciado estava traficando drogas em sua residência, a Polícia Militar realizou diligências no local, quando,então, ao avistar os policiais, o mesmo evadiu-se, tomando rumo ignorado.
+Consta, ainda, que, na ocasião, a polícia adentrou na residência do denunciado, onde foram encontradas 32 (trinta e duas) buchas de uma substância análoga a maconha, 35 (trinta e cinco) pedras de substância análoga a crack, 29 (vinte e nove) microtubos de uma substância análoga a cocaína. 13 (treze) tubos grandes de uma substância análoga cocaína, I (um) aparelho celular Samsung cor prata, I (um)aparelho celular Alcatel, I (um) pedaço de uma substância prensada análoga a maconha, I (uma) caixa de cor preta de metal, I (uma) máscara R$ 760,00 (setecentos e sessenta) reais, 1 (um) caderno e I (uma) carteira de identidade em nome do denunciado."
+O Tribunal de Justiça, no julgamento do habeas corpus, ao afastar a ausência de justa causa para a invasão de domicílio, destacou que (fls. 70/71):
+ ..
+Por fim, suscita a Defesa ainda a invalidade da prova produzida em sede inquisitiva, ao argumento de que foi obtida meio ilícito, já que a busca e apreensão realizada no interior da residência do paciente ocorreu sem autorização judicial para entrar no domicílio.
+Não há que se falar em ilegalidade na abordagem do paciente, uma vez que, conforme afirmado pelos policiais o paciente foi visto em atitude suspeita, empreendendo fuga pulando os muros de sua residência. Ora, diferentemente do que alega a Defesa, entendo que em observância ao art. 144, § 5º, da CF/88, a atuação da Polícia Militar atendeu ao dispositivo constitucional, configurada como policiamento ostensivo e em atendimento à preservação da ordem pública.
+Por se tratar de uma diligência inerente à atividade policial e efetuada de uma maneira pontual, revelou-se prescindível a autorização judicial, cuja ausência não acarretou qualquer nulidade ao processo. Desta forma, não prospera o argumento de que teria havido violação de domicílio, ante a atuação dos milicianos, que têm como função
+Pois bem, o ingresso em domicílio sem consentimento do morador possui quatro exceções, nos termos do art. 5º, XI, da Constituição Federal: flagrante delito, desastre, prestação de socorro ou determinação judicial. Até pouco tempo, o entendimento dominante nesta Corte era no sentido de ser dispensável o mandado de busca e apreensão quando se trata de flagrante da prática do crime permanente, como o tráfico ilícito de entorpecentes ou a posse ou o porte ilegal de arma de fogo, pois, nesses casos, o estado de flagrância permanece enquanto não cessada a prática do delito (AgRg no REsp n. 1.637.287/SP, Ministro Jorge Mussi, Quinta Turma, DJe 10/5/2017).
+No entanto, em julgados mais recentes, a jurisprudência aperfeiçoou seu entendimento para considerar não caracterizadas as fundadas razões, art. 240, § 1º, do Código de Processo Penal, a fuga diante de viatura policial e de denúncias anônimas.
+Em suporte: REsp n. 1.558.004/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2017; RHC n. 89.853/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/3/2020; e HC n. 612.579/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2020.
+Prevalece o entendimento de que a simples existência de denúncia anônima, desacompanhada de outros elementos preliminares indicativos da prática de crime, não configura fundadas razões e, portanto, não legitima o ingresso de policiais no domicílio indicado.
+Essa foi a direção tomada pelo Superior Tribunal de Justiça nos julgamentos do HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021; e do HC n. 628.371/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/3/2021.
+Além disso, também não se considera fundada razão para ingresso em domicílio a apreensão de drogas em poder de alguém em via pública (HC n. 668.886/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 6/5/2022).
+No presente caso, verifico estar caracterizada flagrante ilegalidade, pois o domicílio acessado pelos policiais foi objeto de diligência a partir de denúncia anônima acrescentada da atitude suspeita do paciente, que empreendeu fuga pulando os muros de sua residência. Ausente comprovação da voluntariedade da anuência para que os policiais ingressassem no recinto, faz-se necessário reputar nula a prova em que ancorada a condenação.
+Ante o exposto, concedo liminarmente a ordem para reconhecer a ausência de justa causa para a invasão de domicílio, reputando como ilegais as provas lá obtidas; e absolver o paciente da imputação delituosa (art. 386, II, do Código de Processo Penal) referente à Ação Penal n. 0017619-02.2020.8.13.0390, em trâmite na 1ª Vara Cível, Criminal e da Infância e da Juventude da comarca de Machado/MG.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL FORA DAS HIPÓTESES LEGAIS. INVIOLABILIDADE DOMICILIAR. ART. 5º, IX, DA CF. INGRESSO FORA DAS AUTORIZAÇÕES LEGAIS CARACTERIZADO.
+Ordem concedida liminarmente nos termos do dispositivo.
