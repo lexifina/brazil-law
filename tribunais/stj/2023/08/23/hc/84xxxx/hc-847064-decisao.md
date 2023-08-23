@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PEDRO HENRIQUE BRANDAO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal 1.0433.14.004346-7/001).
+O paciente foi condenado à pena de 5 anos de reclusão em regime fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+A apelação interposta pela defesa foi desprovida.
+A defesa alega: a) é de direito o redimensionamento da pena-base, por indevida valoração das circunstâncias judicias previstas no art. 59 do CP; b) "a única condenação definitiva ostentada por Pedro Henrique diz respeito a fato posterior ao tratado nos autos da ação penal" (e-STJ fl. 7); c) preenchimento dos requisitos para a aplicação da minorante prevista no art. 33, § 4º, da Lei 11.343/2006; d) "a consideração equivocada dos "maus anteced entes" do paciente foi o único óbice ao reconhecimento do tráfico privilegiado" (e-STJ fl. 8); e) "a aplicação da minorante também deve ser estendida ao paciente, nos termos do art. 580 do CPP" (e-STJ fl. 9); f) condições judiciais favoráveis à fixação do regime aberto, caso mantida a pena; e g) ser caso de substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, liminar e definitivamente, deferimento da ordem para redimensionar a dosimetria, fixar regime aberto e substituir a pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+As matérias relativas à aplicabilidade do art. 33, § 4º, da Lei de Drogas, redimensionamento da pena, fixação de regime aberto e substituição da pena privativa de liberdade não foram apreciadas no acórdão impugnado em relação ao paciente.
+Além disso, sequer há comprovação de requerimento dirigido à Corte de origem com pedido de extensão de direito deferido ao corréu (art. 580 do CPP). Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer dos temas .
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO UNIPESSOAL DO RELATOR. AUSÊNCIA DE ILEGALIDADE. PEDIDO D E APLICAÇÃO DO TRÁFICO PRIVILEGIADO E FIXAÇÃO DO REGIME INICIAL SEMIABERTO. TEMAS NÃO ABORDADOS PELO ARESTO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. PLEITO DE CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. MOTIVOS ENSEJADORES DA PRISÃO PREVENTIVA PRESENTES POR OCASIÃO DA SENTENÇA CONDENATÓRIA. ELEMENTOS CONCRETOS A JUSTIFICAR A SEGREGAÇÃO CAUTELAR CONFIRMADOS PELO TRIBUNAL DE ORIGEM. DESVALOR DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. ALEGAÇÃO DE EXCESSO DE PRAZO NÃO TRATADA NO ARESTO OBJURGADO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS DO PACIENTE. INSUFICIENTES PARA A REVOGAÇÃO DA CUSTÓDIA PROVISÓRIA. FUNDAMENTOS DA PRISÃO PREVENTIVA A AFASTAR A APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVA À PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+II - Pedido de aplicação do tráfico privilegiado e de fixação do regime inicial semiaberto. Observa-se que as referidas teses não foram enfrentadas pela eg. Corte de origem. Pontue-se: mesmo que no corpo do acórdão recorrido haja transcrição da sentença condenatória, trecho que faz menção as referidas teses, de fato, o aresto impugnado não tratou efetivamente dos temas; isto é, não houve cognição por parte da Corte local sobre as aludidas teses.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre os referidos temas expostos na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017.
+(..)
+Agravo regimental desprovido.
+(AgRg no RHC 159.631/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. OPERAÇÃO "OS INTOCÁVEIS". ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. INTEGRAÇÃO À ORGANIZAÇÃO CRIMINOSA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. PRISÃO DOMICILIAR. NÃO CABIMENTO. EXTENSÃO DOS EFEITOS DA LIBERDADE CONCEDIDA AO CORRÉU E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. RECURSO IMPROVIDO.
+(..)
+8. Inviável a análise dos pedidos de extensão da liberdade concedida ao corréu e de excesso de prazo, tendo em vista que a Corte de origem não se pronunciou a respeito de tais temas.
+9. Recurso parcialmente conhecido e, nessa extensão, improvido.
+(RHC 154.168/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022)
+Ante o exposto, no s termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
