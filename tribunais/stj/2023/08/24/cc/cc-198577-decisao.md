@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito de negativo de competência suscitado pelo Juízo Federal da 2ª Vara de Uruguaiana - SJRS em desfavor do Juízo de Direito do Juizado Especial Cível de São Francisco de Assis - RS, extraído dos autos da ação ajuizada, originariamente, contra o Estado do Rio Grande do Sul, objetivando o fornecimento dos medicamentos ABERGOLINA 0,5 MG, BRINZOLAMIDA 10 MG/ML  TIMOLOL, MAL. 5 MG/ML (COLIRIO) e LATANOPROSTA 0,05 MG/ML SOL. OFTALMICA FR. 2,5ML para tratamento de Neoplasia Benigna da Glândula Hipófise (CID 10 - D 35.2) e Glaucoma (CID 10 - H 40).
+A inicial foi distribuída no Juízo Estadual, que determinou a inclusão da União no polo passivo e declinou da competência para processar e julgar a pretensão em favor da Justiça Federal por se tratar de ação em que se postula medicamento oncológico.
+O Juízo federal, por seu turno, suscitou o presente conflito, ao entendimento de que, na hipótese, tem-se demanda judicial relativa a medicamentos não incorporados, que, como tal, d eve ser processada e julgada pelo Juízo ao qual foi direcionada pelo cidadão, nos termos do decidido no julgamento da tutela provisória incidental no Tema 1234/STF. Destacou que "a hipótese se enquadra no disposto no item (ii) aplica-se, inclusive, para tratamentos não padronizados pel o SUS para a doença que acomete aparte autora - ainda que o sejam para outros CIDs"
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo a Justiça Federal a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
