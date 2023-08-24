@@ -1,0 +1,48 @@
+DECISÃO
+MATHEUS SENSULINI LEME alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500136-31.2019.8.26.0559.
+Neste mandamus, a defesa sustenta que, "independentemente da pena aplicada, imperiosa é a substituição da pena privativa de liberdade por restritiva de direitos" (fl. 8).
+Destaca, então, que o crime pelo qual o réu foi condenado é culposo, o acusado é primário e não ostenta antecedentes criminais e entende que não houve fundamentação idônea para a valoração negativa das circunstâncias e das consequências do delito.
+Assenta que o insurgente corre o risco de ser dispensado de seu emprego e que "muito provavelmente permanecerá preso injustamente em regime fechado, até que lhe seja oportunizada a vaga em regime semiaberto" (fl. 18).
+Pleiteia a substituição da pena privativa de liberdade por pena restritiva de direitos, nos moldes do art. 312-A, do Código de Trânsito Brasileiro ou alternativamente, pelas previstas no artigo 44, do Código Penal.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Decido.
+Segundo os autos, o paciente foi condenado a 6 anos e 8 meses de reclusão, em regime semiaberto, por incursão no art. 302, § 3º, da Lei n. 9.503/1997. Na ocasião, o Magistrado de primeiro grau fixou a pena-base em 5 anos e 10 meses de reclusão, ao assim avaliar contra o réu a sua culpabilidade (fl. 78, destaquei):
+Culpabilidade: é mais elevada, porquanto o acusado assumiu a direção de veículo automotor na saída de um evento festivo que ocorria na cidade, saindo, após haver ingerido bebida alcoólica, na direção de veículo automotor e em meio à aglomeração de pessoas que estavam no local e que se dirigiam para suas casas, o que denota maior reprovabilidade em sua conduta, a exigir sanção maior, adequada, razoável e proporcional;
+O referido Juízo ainda assentou o seguinte (fl. 79):
+Em razão da quantidade de pena cominada, superior a quatro anos, o réu não faz jus à substituição da pena privativa de liberdade por restritivas de direitos (art. 44 do CP). Da mesma forma, e pelos mesmos motivos, não faz jus à suspensão condicional da pena (art. 77 do CP).
+O Tribunal a quo negou provimento ao apelo defensivo e, no tocante aos assuntos em discussão, manifestou o que se segue (fls. 126-128, destaquei):
+Em relação à pena-base, era mesmo de rigor a sua fixação acima do mínimo legal, posto que a culpabilidade do réu, no caso em tela, excede os padrões considerados normais à espécie delitiva, uma vez que assumiu a direção de veículo automotor, embriagado, em meio a um evento festivo que ocorria na cidade, ou seja, em um contexto de aglomeração de pessoas que transitavam pelas ruas retornando para suas casas, o que significa que colocou toda uma coletividade em risco, exacerbando os limites da imprudência. Diferentemente do que argumenta a defesa, o fato de ser o apelante réu primário ou ter emprego e residência fixa não tem o condão de fixar sua pena-base no piso, devido à mencionada circunstância judicial negativa que foi corretamente ponderada, posto que aumentou a reprovabilidade da conduta delitiva. Acrescente-se, uma vez mais, que não procede a afirmação segundo a qual o comportamento da vítima teria influído diretamente em seu óbito.
+ ..
+Deixo de aplicar a conversão da pena privativa de liberdade em pena de multa ou restritiva de direitos, em que pese o pleito defensivo. De fato, como aponta a defesa, sendo o crime culposo o fato de a reprimenda exceder os 04 (quatro) anos não é fator impeditivo. Contudo, as circunstâncias judiciais extremamente gravosas do caso em tela e a culpabilidade exacerbada do réu, que provocou a morte da vítima após ter assumido a direção de veículo automotor em estado de embriaguez, e ainda fugiu do local após o acidente sem prestar socorro, indicam que a substituição não é suficiente para o caso concreto, e vedam o benefício a MATHEUS, nos termos do art. 44, III, do CP.
+É imperioso salientar que, para a substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do Código Penal, in verbis:
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Em que pese aos argumentos defensivos, é idônea a motivação invocada para a valoração negativa da culpabilidade do réu, tendo em vista que ele, com sua conduta, colocou em risco toda a coletividade, pois praticou o delito em contexto de aglomeração de pessoas em virtude de festa na cidade e fugiu do local do acidente, sem prestar socorro à vítima.
+A propósito:
+ ..
+4. No caso, foi justificada a negativação das circunstâncias judiciais da culpabilidade e das circunstâncias do crime, porquanto demonstrada a maior reprovabilidade da conduta em razão de o réu ter assumido a direção do veículo sem o pleno domínio dos sentidos, devido à ingestão de bebida alcóolica, bem como considerando o fato de o acusado ter se evadido do local do acidente sem prestar socorro às vítimas. Precedentes.
+5. De mais a mais, "a jurisprudência desta Corte Superior não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa de circunstâncias judiciais, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias e quantificar a pena, observadas as peculiaridades do caso concreto" (AgRg no HC n. 575.279/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/6/2020).
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 1.965.389/SC, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 25/2/2022)
+Nesse contexto, não há correções a se fazer no acórdão impugnado, pois a negativa à substituição pretendida se deu de acordo com a jurisprudência do STJ.
+Vejam-se:
+ ..
+III - O regime adequado à hipótese é o inicial semiaberto, nos termos do art. 33, §§ 2º e 3º, do CP, uma vez que, a despeito do montante final da pena autorizar o regime aberto, depreende-se da dosimetria realizada que o paciente detém circunstâncias judiciais desfavoráveis. Igualmente, por esse motivo, não há que se falar em substituição da pena corporal por restritiva de direitos, nos termos do art. 44, inciso I, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 728.581/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 15/8/2022)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. CORRUPÇÃO ATIVA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENAS-BASE ACIMA DO MÍNIMO LEGAL. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO DAS PENAS CORPORAIS POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ART. 44, III, DO CÓDIGO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 44, III, do Código Penal condiciona a substituição da pena privativa de liberdade por restritiva de direitos ao cumprimento de requisito subjetivo relacionado às circunstâncias judiciais previstas no art. 59 daquele diploma legal.
+2. Não se mostra socialmente recomendável nem suficiente à repressão e prevenção do crime a substituição de pena privativa de liberdade por privativa de direitos se a pena-base é fixada acima do mínimo legal em razão do reconhecimento de circunstâncias judiciais negativas e se imposto o regime semiaberto para início do cumprimento de reprimenda estabelecida em patamar inferior a 4 anos.
+3. Agravo regimental desprovido.
+(AgRg no Ag no REsp n. 1.705.197/RJ, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 7/6/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO DA DIREÇÃO DE VEÍCULO AUTOMOTOR. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. CABIMENTO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mostra-se devida a imposição do regime inicial mais gravoso, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal quando verificado que o agravante teve a pena-base estabelecida acima do mínimo legal.
+2. Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal).
+3. Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.058.790/MS, Rel. Ministro Rogerio Schietti, 5ª T., DJe 9/8/2018)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
