@@ -1,0 +1,37 @@
+DECISÃO
+MARIO SERGIO DE OLIVEIRA REAIS, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0003772-76.2011.8.26.0586.
+Depreende-se dos autos que o réu foi condenado a 12 anos e 9 meses de reclusão, em regime fechado, mais 31 dias-multa, pela prática do crime previsto no art. 157, § 2º, I, II e V, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Neste habeas corpus, alega a impetrante que o emprego de violência é ínsito ao roubo e que não justifica a exasperação da pena-base em patamar superior ao dobro do mínimo previsto em lei.
+Sustenta que o aumento em patamar mais gravoso que o mínimo legal na terceira fase foi fundamentado apenas na quantidade de majorantes do roubo configuradas.
+Aduz que foi imposto regime inicial mais gravoso que o devido, mediante fundamentação inidônea.
+Pede seja diminuída a pena-base e a fração de aumento na terceira fase, bem como seja determinado cumprimento inicial da reprimenda em modalidade mais branda.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+A sentença foi proferida nestes termos:
+Com efeito, as vítimas Gustavo Juliana e Sirlene prestaram declarações harmônicas no sentido de que os três réus denunciados foram os assaltantes. Elas contaram que estavam em uma festa com várias pessoas quando ouviram um disparo, o qual, segundo Sirlene, foi efetuado pelo réu Ewerton. Depois três assaltantes anunciaram o roubo e levaram todas as pessoas até a sala. Gustavo foi levado ao local após receber coronhadas do assaltante que posteriormente foi reconhecido pelas três vítimas como sendo Mário Sérgio. Com relação a esse réu, por sinal, ele foi apontado pelas vítimas como sendo o mais agressivo, sendo que foi ele quem utilizou uma faca para furar uma poltrona por diversas vezes, com o fim de intimidá-las, bem como, ao final, quando todas as vítimas foram colocadas no quarto, jogou álcool na cama e ameaçou atear fogo. Elas também contaram que todos os bens foram subtraídos e colocados no veículo Fiat Stilo de Gustavo, sendo que depois de trancadas as vítimas no quarto eles empreenderam fuga do local.
+ ..
+Na fixação da pena-base, baseada no artigo 59 do CP, deve ser considerada como circunstância judicial, em desfavor dos réus, a intimidação em relação às vítimas. Consoante se inferiu das provas coligidas aos autos, os réus já chegaram disparando uma arma de fogo e permaneceram durante todo o tempo apontando as armas de fogo para as vítimas. Ademais o réu Mário Sérgio não só enfiou a faca em uma poltrona diversas vezes, como ainda, no final, quando prendeu as vítimas em um quarto, jogou álcool na cama e ameaçou atear fogo nela. Não se pode desprezar, ainda, as coronhadas desferidas contra as vitimas Gustavo e Luiz Armando, sendo que ao menos a primeira desferida pelo mesmo réu Mário Sérgio. Por tudo isso, fixo a pena-base dos réus Ewenon e Luis em 7 anos de reclusão e do réu Mário Sérgio, o mais violento de todos, em 9 anos de reclusão.
+ ..
+Na terceira fase de aplicação da pena devem ser consideradas as causas de aumento previstas nos incisos I, II e V do par. 2º do artigo 157 do CP. Como são três as causas, o aumento deve ser de 5/12.
+Nesses termos a pena privativa de liberdade dos réus Ewerton e Luis consolida-se em 9 anos e 11 meses de reclusão e a do réu Mário Sérgio em 12 anos e 9 meses de reclusão. Consideradas as penas impostas, o regime inicial de cumprimento deve ser o fechado.
+(fls. 21-23, grifei)
+O acórdão atacado asseriu o seguinte:
+As penas foram corretamente fixadas. O aumento sobre as bases é de ser mantido ante o intenso dolo empregado na empreitada criminosa, circunstâncias e consequências do delito. Em seguida, acrescentou-se 5/12 face as três qualificadoras citadas, totalizando nove anos para EWERTON e LUIS e doze reclusão para MARIO SERGIO.
+O aumento de cinco doze avos (5/12) relativo à presença de três qualificadoras do roubo deve ser mantido, posto que atende tal majoração a maior periculosidade dos agentes e a impossibilidade de qualquer tipo de resistência por parte da vitima, que permaneceu totalmente inferiorizada durante o sucesso.
+ ..
+O regime prisional fechado deve imperar em se tratando de delito de roubo qualificado.
+(fls. 34-38, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Como se observa, as instâncias ordinárias ressaltaram elementos concretos dos autos para exasperar a pena-base em 5 anos pela prática de roubo, em total de 9 anos de reclusão.
+Além dos disparos de arma de fogo, uma das vítimas foi agredida com coronhadas. As demais ficaram sob mira do armamento bélico durante toda a conduta, o que é mais grave, por expor a maior risco o bem jurídico tutelado.
+Ainda no que tange à intimidação, depois de já haverem sido subjugados os ofendidos, o paciente procedeu a golpear uma poltrona com faca e a jogar álcool com ameaças de incendiar móvel no quarto onde tiveram sua liberdade restringida.
+Com efeito, a conduta do agente destoa do que comumente se observa nesse tipo de crime e vai além da reprovabilidade ínsita à grave ameaça e violência prevista para o roubo.
+Portanto, a fundamentação utilizada pelas instâncias ordinárias justifica a fixação da pena-base em 9 anos de reclusão.
+Relativamente à terceira fase, não verifico ilegalidade na exasperação da pena na razão de 5/12 na terceira fase da dosimetria, quando apontados dados fáticos suficientes a indicar os contornos incomuns do roubo e a periculosidade exacerbada do réu - na espécie, disparos efetivos de arma de fogo, concurso de 3 agentes e emprego de violência efetiva contra uma das vítimas.
+Não se trata de referência à simples gravidade abstrata das majorantes do roubo, em afronta à Súmula n. 443 do STJ, mas sim de fundamentação com base em elementos concretos, idôneos, a fim de justificar a fração de aumento no patamar de 3/8 na terceira fase da dosimetria.
+Com efeito, "As circunstâncias concretas do delito denotam a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena, considerando o modus operandi do crime  ..  No caso dos autos, o disparo de arma de fogo realizado durante a empreitada criminosa demonstra a proporcionalidade do incremento de 3/8" (AgRg no HC n. 694.123/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 29/11/2021.)
+Por conseguinte, não há reparo a fazer no cálculo da terceira fase da dosimetria, em que corretamente foi aplicada fração de aumento acima do mínimo legal, mediante fundamentação idônea.
+Quanto ao regime, a jurisprudência desta Corte Superior firmou que, "Estabelecida a pena definitiva em patamar superior a 8 anos, o regime inicial fechado é o adequado para o início do cumprimento da pena, nos termos do art. 33, § 2º, "a", do Código Penal" (HC n. 393.501/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/10/2017, destaquei).
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
