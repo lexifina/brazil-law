@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus , com pedido liminar, impetrado por LUIZ BEZERRA NETO - preso cautelarmente em 16/6/2022 pela suposta prática de tentativa de feminicídio - contra acórdão do Tribunal de Justiça do Estado do Piauí (HC n. 0754919-17.2023.8.18.0000).
+No writ originário, a defesa afirmou a ausência de fundamentos válidos para a prisão preventiva, como também, o excesso de prazo para o processamento do recurso em sentido estrito. O Tribunal de origem votou pela prejudicialidade do writ em relação à ilegalidade da decisão decretou a prisão preventiva, diante da superveniência de sentença de pronúncia e pela denegação no que tange ao excesso de prazo no processamento do recurso (e-STJ fls. 168/181).
+Na presente oportunidade, a defesa reafirma que a decisão que decretou a prisão preventiva do recorrente é inidônea, "não apontando elementos concretos a indicar o periculum libertatis do agente, mas sim somente receios abstratos, o que afronta o disposto no art. 93, IX da Constituição Federal e Arts. 312, §2º e 315, §2º do CPP" (e-STJ fl. 186).
+Sustenta o excesso de prazo no processamento do recurso em sentido estrito, tendo em vista que foi interposto em 30/1/2023 e, até a presente data, mais de 06 meses, não foi recebido, tampouco a defesa fora intimada para apresentar as razões de recurso.
+Por fim, alega, também, que "Não há contemporaneidade, fatos novos e contemporâneos ao decreto prisional, a possibilitar a prisão preventiva (art. 312, §2º do CPP), tendo em vista se tratar de feito criminal que apura fatos de fevereiro de 2021 e somente em junho de 2022, em processo no qual até então o paciente respondeu em liberdade, sem qualquer fato novo posterior à sua soltura sem medidas cautelares no mesmo feito, restou decretada a prisão" (e-STJ fl. 187).
+Assim, pede, em liminar e no mérito, a revogação da prisão preventiva, ou a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+É o relatório. Decido.
+De plano, verifico que, nesta Corte, também, houve a impetração do HC n. 845.424/PI, em favor da ora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmo fundamentos ora apresentados e apontando o mesmo ato coator (HC n. 0754919-17.2023.8.18.0000), sendo a liminar indeferida em 15/8/2023 .
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Intimem-se.
