@@ -1,0 +1,2 @@
+Altera o art. 14 da Lei nº 11.947, de 16 de junho de 2009, para incluir grupos formais e informais de mulheres da agricultura familiar entre aqueles com prioridade na aquisição de gêneros alimentícios no âmbito do Programa Nacional de Alimentação Escolar (PNAE) e para estabelecer que pelo menos 50% (cinquenta por cento) da venda da família será feita no nome da mulher.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
