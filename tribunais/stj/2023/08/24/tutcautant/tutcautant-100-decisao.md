@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Trata-se de Pedido de Tutela Provisória de Urgência apresentada por ASSOCIACAO PRESERVA SAO PAULO com fundamento no art. 1.029, § 5º, III, do Código de Processo Civil de 2015, na qual requer a atribuição de efeito suspensivo ao recurso especial, inadmitido na origem em razão do óbice da Súmula n. 735 do Supremo Tribunal Federal (fls. 914/917e).
+Sustenta que "o mencionado interesse econômico protegido, deriva de descumprimento de obrigação propter rem a aviltar a indisponibilidade do interesse público vertido da prevalência legal de restrições urbanístico-ambientais (REsp302906/SP, na Exegese do art.26, inc.VII, Lei n.6.766/1979), e portanto, a subtrair do direito ambiental adquirido à fruição da função ecológica da propriedade de imóveis que são pertencentes ao traçado do referido bairro-jardim, e constam envolvidos nas licenças municipais de questionadas ilegalidades."
+Defende que, somente após a realização da perícia de Geologia será possível o exame jurisdicional da legalidade das licenças e atos administrativos pelo juízo.
+Com isso, entende que o tribunal de origem divergiu do entendimento exposto por esta Corte em causas de natureza ambiental segundo o qual é possível o exame jurisdicional do pedido de tutela de urgência, bem como para o destrancamento de recurso especial e, até mesmo, o restabelecimento de liminar com deferimento de pedido de tutela provisória em favor do meio ambiente, estando evidenciado a probabilidade do direito.
+Quanto ao perigo de dano, assinala a conjugação do princípio da precaução, como dever de impedir danos ao meio ambiente, tendo em vista a dificuldade, se não impossibilidade, de retorno aos status quo caso concretizada a degradação.
+Requer, assim, a atribuição de efeito suspensivo ao recurso especial, a fim de sobrestar os efeitos do acórdão que afastou a tutela de urgência proferida nos autos da ACP n. 1025660- 82.2021.8.26.0053 - 11ª VFP/SP.
+Feito o breve relato, decido.
+Nos termos do art. 288, § 2º, do Regimento Interno desta Corte, o Relator está autorizado a apreciar, monocraticamente, a liminar e a própria tutela de urgência.
+A concessão de tutela provisória de urgência, na nova ordem processual, encontra-se regulada no art. 300 do Código de Processo Civil, in verbis:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+§ 1o Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2o A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3o A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+No caso em exame, verifico que o Requerente formula pedido de tutela provisória a fim de que seja atribuído efeito suspensivo ao Recurso Especial e, por conseguinte, suspenso os efeitos do acórdão que afastou a tutela de urgência proferida nos autos da ACP n. 1025660- 82.2021.8.26.0053 - 11ª VFP/SP.
+Conforme relatado pelo Requerente, o recurso especial por ele interposto foi inadmitido pelo Tribunal de Justiça do Estado de São Paulo e, portanto, seria incumbência sua, além da demonstração do perigo de dano ou do risco ao resultado útil do processo, a comprovação da probabilidade do direito.
+Em se tratando de recurso especial inadmitido, a plausibilidade do direito vindicado se traduz tanto na necessidade de demonstração da possibilidade de conhecimento e provimento do recurso especial, quanto na apresentação de argumentos relativos ao manejo e a possibilidade de êxito do agravo em recurso especial.
+In casu, embora tenha reiterado a tese vertida no recurso especial, o Requerente sequer apresentou argumentos atinentes à possibilidade de conhecimento do agravo em recurso especial e à plausibilidade tendente a permitir o seu provimento.
+Assim, sem que haja argumentação relativa à inaplicabilidade do óbice invocado, pelo Tribunal de origem para inadmitir o recurso especial, resta impossibilitada a análise, de forma ampla, da probabilidade do direito.
+De outra parte, não vislumbro a presença de periculum in mora, uma vez que se impõe seja o risco objetivo e que reste configurada a sua probabilidade, sendo insuficientes meras conjecturas.
+Diante do exposto, em juízo perfunctório, entendo não demonstrada a verossimilhança das alegações, consubstanciada na elevada probabilidade de êxito referente ao direito vindicado, bem como no perigo da demora.
+Posto isso, nos termos do arts. 34, XVIII, combinado com o 288, § 2º, do Regimento Interno desta Corte, INDEFIRO O PEDIDO DE TUTELA DE URGÊNCIA.
+Publique-se. Intime-se.
