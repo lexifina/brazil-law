@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JURACY FRANCISCO MENDES COSTA NETO contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado (e-STJ fl. 603-604):
+APELAÇÃO CRIMINAL DEFENSIVA. DIREITO PENAL E PROCESSUAL PENAL. APELANTE CONDENADO NAS PENAS DO ART. 302 DO CTB.
+1. REFORMA DA DOSIMETRIA DA PENA. PENA-BASE NO MÍNIMO LEGAL. AFASTAMENTO DA GRAVANTE DO ART. 298, I, DO CTB. INACOLHIMENTO. CULPABILIDADE. ELEVADO GRAU DE REPROVABILIDADE DA CONDUTA. CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI DO AGENTE QUE AUTORIZA A EXASPERAÇÃO DA BASILAR. CONSEQUÊNCIAS DO CRIME. REPERCUSSÕES DO DELITO QUE FOGEM À NORMALIDADE E TRANSCENDEM O RESULTADO TÍPICO PRODUZIDO. UTILIZAÇÃO DE FUNDAMENTAÇÃO IDÔNEA NA ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS. PENA-BASE QUE DEVE SE MANTER ACIMA DO MÍNIMO. AGRAVANTE DELINEADA NA DENÚNCIA. RECORRENTE QUE VINHA EM ALTA VELOCIDADE, EM VIA PÚBLICA, NA CONTRAMÃO DE DIREÇÃO. APELANTE QUE OFERECEU POTENCIAL RISCO DE DANO NÃO SÓ À VÍTIMA, MAS À TESTEMUNHA HELDER E DEMAIS TRANSEUNTES. OFENSA AO PRINCÍPIO DO CONTRADITÓRIO E AMPLA DEFESA NÃO CONFIGURADA. AGRAVANTE QUE SE MANTÉM.
+2. REDUÇÃO OU SUBSTITUIÇÃO DA PRESTAÇÃO PECUNIÁRIA. IMPOSSIBILIDADE. PENA RESTRITIVA DE DIREITO NA MODALIDADE PECÚNIA QUE SE ADEQUA AO CASO CONCRETO. AUSÊNCIA DE ELEMENTOS QUE POSSAM SUBSIDIAR O AFERIMENTO DA REAL SITUAÇÃO ECONÔMICA DO APELANTE. VALOR E AS CONDIÇÕES DE PARCELAMENTO DO PAGAMENTO DA PECÚNIA QUE DEVEM SER AVALIADAS PELO JUÍZO DA EXECUÇÃO, POR POSSUIR MAIORES CONDIÇÕES DE AVERIGUAR A RENDA E AS CONDIÇÕES FINANCEIRAS DO APELANTE.
+3. GRATUIDADE DA JUSTIÇA. NÃO CONHECIMENTO. MATÉRIA QUE DEVE SER ANALISADA PELO JUÍZO DAS EXECUÇÕES PENAIS. PRECEDENTES DO STJ E DESTE ÓRGÃO JULGADOR.
+4. PREQUESTIONAMENTO. DESNECESSIDADE DE MENCIONAR, EXPRESSAMENTE, CADA DISPOSITIVO. REQUISITO DO PREQUESTIONAMENTO QUE SE SATISFAZ, NESTE JULGAMENTO, COM A EXISTÊNCIA DE PRONUNCIAMENTO SOBRE AS MATÉRIAS QUE SE PRETENDE SUBMETER AO CRIVO DA INSTÂNCIA EXTRAORDINÁRIA. PRECEDENTES.
+RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, IMPROVIDO.
+O agravante foi condenado à pena de 4 anos de detenção no regime aberto, substituída por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e pagamento de R$ 30.000,00 à filha da vítima, bem como determinada a suspensão da habilitação para dirigir veículo automotor pelo período de 4 anos, pela prática do crime previsto no art. 302, caput, c/c o art. 298, I, do Código de Trânsito Brasileiro.
+O Tribunal de origem conheceu parcialmente do apelo da defesa e, nessa parte, negou-lhe provimento (e-STJ fls. 602-609).
+Nas razões do recurso especial, alega violação do art. 298, I, do CTB, pois: a) utilizada fundamentação inidônea para manter a referida circunstância agravante; e b) "a denúncia, ao contrário do que entendeu o acórdão recorrido, não narrou a agravante genérica prevista no art. 298, I, do CTB" (e-STJ fl. 646).
+Contrarrazões apresentadas às e-STJ fls. 654-659.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 667-674).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 699-702.
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever a fundamentação utilizada pelo Tribunal estadual acerca da manutenção da agravante questionada (e-STJ fl. 624):
+Prosseguindo, na segunda fase da dosimetria, ausentes atenuantes, foi reconhecida a agravante do art. 298, I, do CTB, eis que "ficou comprovado que o réu causou dano potencial a uma outra pessoa (Helder), que vinha conduzindo a moto na frente de Valney e quase foi atingido pelo réu. Se isso não bastasse, o réu causou grave dano patrimonial a terceiros (à vítima). José Marcos relatou que o réu nunca se manifestou ou ofereceu ajuda. Disse, ainda, que Valeny tinha mais ou menos 32 anos à época dos fatos e trabalhava com móveis".
+(..).
+A defesa reclama que a aplicação da referida agravante foi arbitrária, pois não teria sido arguida/debatida na instrução processual e, por isso, deve ser afastada, em observância ao Princípio do Contraditório e Ampla Defesa.
+Apesar disso, equivocada se mostra a tese defen siva.
+Da oitiva da testemunha ocular, Helder, observa-se que, de fato, o apelante não só expôs a vítima, como colocou a referida testemunha em potencial risco, pois quase o atingiu e, mais, a sua conduta de invadir a contramão de uma via pública, em alta velocidade, termina por gerar perigo a outros transeuntes.
+Tome-se nota, ainda, que tal agravante está delineada na denúncia, não havendo que se falar em ofensa ao princípio do contraditório e ampla defesa, inexistindo, destarte, ilegalidade no agravamento, devendo apena intermediária ser mantida em 4 (quatro) anos.
+A reforma do julgado não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório, medida obstada pela Súmula 7/STJ.
+Colhe-se da jurisprudência:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. SURSIS PROCESSUAL. MATÉRIA APRECIADA NO RHC 139.639/SP. REITERAÇÃO DE PEDIDO. PRESCINDIBILIDADE DA PERÍCIA. MATERIALIDADE DELITIVA COMPROVADA. CULPA EXCLUSIVA DA VÍTIMA. NÃO OCORRÊNCIA. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. COMPORTAMENTO DA VÍTIMA. VALORAÇÃO POSITIVA. PRESTAÇÃO PECUNIÁRIA. VALOR MAJORADO PELO TRIBUNAL A QUO. PRETENSÃO DE REDUÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SUM. 7/STJ. INCIDÊNCIA DA AGRAVANTE PREVISTA NO ARTIGO 298, INCISO I, DO CTB. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. A incidência da agravante prevista no art. 298, I, do CTB ocorreu em razão do dano potencial para duas ou mais pessoas, uma vez que o acusado conduziu seu veículo com excesso de velocidade em trecho repleto de curvas, colocando em risco não apenas as vítimas, mas também os ocupantes de seu próprio carro.
+7. A alteração do julgado, para o fim de redução da pena de prestação pecuniária, demandaria nova análise do material fático-probatório, providência inviável em sede de recurso especial.
+8. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 2.245.282/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/4/2023, DJe de 18/4/2023).
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
