@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por CARMEN SILVIA FONTENELLE DE MENDONÇA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"DIREITO PROCESSUAL CIVIL E CIVIL. APELAÇÃO. EMBARGOS DE TERCEIRO. COBRANÇA DE CONDOMÍNIO. OBRIGAÇÃO. PROPTER REM. PENHORA IMÓVEL. POSSIBILIDADE. Com base na disciplina prevista no artigo 1.345, do Código Civil, e à luz do entendimento jurisprudencial do Superior Tribunal de Justiça, a obrigação de pagamento dos débitos condominiais, que ostentam natureza propter rem, pode alcançar os titulares do imóvel que não participaram da fase de conhecimento da ação de cobrança, de modo que o bem pode ser penhorado para pagamento de dívidas condominiais, não sendo relevante a titularidade da propriedade do referido imóvel à época da inadimplência" (e-STJ fl. 224).
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.345 do Código Civil, ao fundamento de que a responsabilidade pelo pagamento do débito condominial é do promitente comprador, e
+(ii) arts. 502, 503, 507 e 508 do Código de Processo Civil, haja visto o desrespeito à coisa julgada formalizada no processo de cobrança movido pelo condomínio contra a recorrente.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O tribunal de origem assim se pronunciou sobre a responsabilidade pelo pagamento da taxa de condomínio e a coisa julgada:
+"(..)
+Assim, as despesas condominiais constituem obrigação propter rem, que surgem em razão do direito real de propriedade e que, como regra, independem da efetiva posse do bem.
+Em que pesem as alegações da apelante de que não deixou de ser a proprietária do bem e de que a dívida foi contraída por promitente comprador do imóvel que exerceu a posse pelo período que originou o débito, as despesas condominiais constituem obrigação atribuível ao imóvel. Aderem à coisa e não à pessoa que contraiu, podendo o condomínio buscar a quitação do débito com a penhora do próprio imóvel que o originou.
+Desse modo, ainda que a apelante tenha realizado negócio de compra e venda que não se aperfeiçoou, o próprio imóvel pode responder pelas dívidas oriundas do exercício da propriedade, tendo em vista a natureza da obrigação ora vindicada, ressalvado o seu direito de regresso contra o responsável pelo inadimplemento das taxas.
+(..)
+Ademais, tal como esclarecido na sentença combatida, não há, no caso em análise, a alegada violação à coisa julgada. O Processo nº 2013 01 1 148338-6 foi proposto pelo Condomínio apelado em desfavor da apelante, para a cobrança de despesas condominais inadimplidas no período em que o imóvel já havia sido objeto do contrato de promessa de compra e venda celebrado entre a apelante e Gilberto Amado da Silva. O pedido de cobrança nessa demanda foi julgado improcedente (ID 33184500), ao fundamento de que o Condomínio tinha ciência da existência do contrato de promessa de compra e venda, sendo de responsabilidade do promissário comprador o pagamento das despesas condominiais.
+Assim, de fato, decidiu-se, por sentença transitada em julgado, que a embargante, ora apelante, não responde pessoalmente pela dívida condominial referente ao período no qual o promitente comprador esteve na posse do imóvel.
+Por outro lado, depois da sentença proferida naquela ação, a promessa de compra e venda foi rescindida, restituindo-se a posse do imóvel à embargante. E a decisão que determinou a penhora do imóvel foi proferida em cumprimento de sentença de demanda movida em desfavor do promitente comprador, Gilberto Amado da Silva. A penhora decorre do fato de que a dívida recai sobre o imóvel e não sobre o patrimônio pessoal da embargante.
+Percebe-se, portanto, que, em que pese ser inusitada a situação, não há ofensa à coisa julgada material. De fato, a embargante não possui dívida de caráter pessoal com o condomínio, mas o imóvel do qual é proprietária atualmente responde pelas dívidas decorrentes da posse nele exercida" (e-STJ fls. 234/237).
+A conclusão esposada pelo tribunal estadual está em harmonia com a jurisprudência mais recente desta Corte Superior, desafiando a incidência da Súmula nº 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+À propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSENTE.
+1. Embargos de terceiro.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo.
+Súmula 568/STJ.
+6. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a agravante COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA é a proprietária do imóvel objeto desta ação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Agravo interno não provido" (AgInt no REsp 2.006.920/PR, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. COBRANÇA. DÍVIDA CONDOMINIAL. CUMPRIMENTO DE SENTENÇA. PERÍODO DE POSSE. PROMISSÁRIO COMPRADOR. PROMITENTE VENDEDOR. EMBARGOS DE TERCEIRO. OFENSA À COISA JULGADA E À VINCULAÇÃO AO TÍTULO EXECUTIVO. NÃO OCORRÊNCIA. OBRIGAÇÃO PROPTER REM. PENHORA DO IMÓVEL. POSSIBILIDADE.
+1. A dívida condominial tem natureza de obrigação propter rem, podendo, pois, ser demandada de quem exerce a relação jurídica de direito material com a coisa, o que permite a penhora do imóvel mesmo que o proprietário não tenha participado da fase de conhecimento e não conste no título executivo, resguardado o eventual direito de regresso. Precedentes.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO" (AgInt no REsp 1.962.085/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO DE COTAS CONDOMINIAIS. VENDEDORA. RETOMADA DO IMÓVEL. LEGITIMIDADE PASSIVA AD CAUSAM. OBRIGAÇÃO PROPTER REM. DÍVIDA. RESPONSABILIDADE. FUNDAMENTAÇÃO. IMPUGNAÇÃO. AUSÊNCIA. ARRAZOADO. DEFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente, e o recurso não abrange todos eles.
+4. A retomada do imóvel pelo promitente vendedor implica sua legitimidade para responder pelas dívidas condominiais, sem prejuízo de eventual direito de regresso contra o promissário comprador.
+Precedentes.
+5. Agravo interno não provido" (AgInt no REsp 1.973.355/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/9/2022, DJe de 12/9/2022 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa (R$ 432.513,50 - quatrocentos e trinta e dois mil, quinhentos e treze reais e cinquenta centavos), atualizado, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
