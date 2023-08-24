@@ -1,0 +1,28 @@
+DECISÃO
+Na origem trata-se de ação ajuizada pelo rito comum, em que a parte autora requer a condenação do INSS a conceder-lhe o benefício de pensão por morte em razão do falecimento de seu filho, desde a data do requerimento administrativo. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$166.559,87.
+O recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS. VÍNCULO DE DEPENDÊNCIA ECONÔMICA DOS GENITORES COM O FILHO SEGURADO.
+1. A concessão do benefício de pensão por morte depende do preenchimento dos seguintes requisitos: a) a ocorrência do evento morte; b) a condição de dependente de quem objetiva a pensão; c) a demonstração da qualidade de segurado do de cujus por ocasião do óbito. O benefício independe de carência e é regido pela legislação vigente à época do óbito
+2. A dependência econômica dos genitores em relação aos filhos não é presumida, devendo ser comprovada, a teor do disposto no artigo 16, inciso II c/c § 4º, da Lei nº 8.213/91. Para auferir o quadro de dependência econômica, não se exige que esta seja plena ou comprovada apenas documentalmente, como tampouco um início de prova material, mas deve ser lastreada em evidências concretas de aportes regulares e significativos ao sustento da parte-requerente, consubstanciando-se em mais do que simples ajuda financeira aos pais.
+3. Ausente a prova do preenchimento de todos os requisitos legais, não é possível a concessão do benefício à parte autora.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A Lei 8.213/1991, que dispõe sobre os benefícios da Previdência Social, preceitua em seu art. 74 ser devida pensão por morte aos dependentes do segurado falecido, não sendo exigido o cumprimento de carência (art. 26, I).
+Assim, a concessão do benefício de pensão por morte depende do preenchimento dos seguintes requisitos: a) a ocorrência do evento morte; b) a condição de dependente de quem objetiva a pensão; c) a demonstração da qualidade de segurado do de cujus por ocasião do óbito.
+Além disso, rege-se o benefício pela legislação vigente à época do falecimento.
+ ..
+O dependente, assim considerado na legislação previdenciária, pode valer-se de amplo espectro probatório de sua condição, seja para comprovar a relação de parentesco, seja para comprovar a dependência econômica. Esta pode ser parcial, devendo, contudo, representar um auxílio substancial, permanente e necessário, cuja falta acarretaria desequilíbrio dos meios de subsistência do dependente (Enunciado. 13 do Conselho de Recursos da Previdência Social - CRPS).
+Dependência do filho maior inválido ou que tenha deficiência intelectual ou mental ou deficiência grave.
+O reconhecimento da condição de dependente de filho inválido em relação a seus genitores exige a comprovação da dependência econômica à época do óbito do instituidor da pensão, pois a presunção estabelecida no artigo 16, § 4º, da Lei 8.213/91, não é absoluta, admitindo prova em sentido contrário.
+Assim, a comprovação de dependência do filho inválido tem presunção relativa, admitindo prova em contrário.
+ ..
+Saliente-se que para auferir o quadro de dependência econômica, não se exige que esta seja plena ou comprovada apenas documentalmente, mas deve ser lastreada em evidências concretas de aportes regulares e significativos ao sustento da parte-requerente, consubstanciando-se em mais do que simples ajuda financeira aos pais.
+Por fim, como bem explanado pela sentença, mesmo que se considere o afastamento do autor do trabalho por um período para dar assistência ao filho, tal fato apenas demonstra a dependência do filho do ente em relação aos cuidados dos genitores, mas não a efetiva dependência econômica do pai em relação ao filho.
+Registre-se que a dependência econômica a ensejar a concessão de pensão por morte não precisa ser exclusiva, mas deve ser vital à manutenção da genitora, o que não se evidenciou no caso concreto.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
