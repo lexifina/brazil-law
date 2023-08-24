@@ -1,0 +1,16 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE CORUMBÁ - SJ/MS suscita conflito de competência, no âmbito de investigação criminal pela suposta prática de tráfico de drogas, diante do JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE CORUMBÁ - MS.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para eventual adoção de medidas judiciais no âmbito de investigação pela suposta prática de tráfico de drogas, notadamente diante da discussão sobre a ocorrência ou não da transnacionalidade do delito.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara Criminal de Corumbá - MS, ora suscitado (fls. 181-187).
+Decido.
+De início, convém salientar que a competência da Justiça Federal, ao se tratar do crime relacionado com o tráfico de drogas, cinge-se à hipótese prevista no art. 70 da Lei n. 11.343/2006, ou seja, é necessário que esteja caracterizada a transnacionalidade delitiva.
+Nesse sentido, é pacífica a jurisprudência desta Corte. Ilustrativamente: CC n. 148.197/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 8/11/2016; AgRg no CC n. 182.182/MS, Rel. Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe 27/09/2021, entre outros.
+A discussão neste conflito, portanto, cinge-se justamente a saber se houve, no caso, a caracterização da transnacionalidade no tráfico de drogas, de modo a atrair a competência federal. No particular, estou de acordo com o Juízo suscitante quando assinalou, o seguinte (fls. 175-176, destaquei):
+ ..
+Em que pese os argumentos trazidos pelo juízo declinante, entendo pela incompetência deste foro para processamento do feito. Isto porque, para deslocamento da competência, é necessária a presença de elementos concretos da transnacionalidade do delito, aptos a atraírem a competência constitucional deste juízo (art. 109, inciso V, da CF) conforme entendimento sedimentado na jurisprudência
+ ..
+Portanto, tendo em vista que a droga foi apreendida em sede de comercialização interna nesta urbe, sendo o único indício de transnacionalidade o depoimento do custodiado, assiste razão ao MPF ao afirmar que "não há nos autos elementos concretos e suficientes que indiquem a transnacionalidade do crime, sendo precipitado o deslocamento da competência para a Justiça Federal sem a devida comprovação".
+Deveras, até o momento das investigações, não há sólidos elementos que apontem para a transnacionalidade delitiva que seja apta a justificar a competência federal, malgrado haja o depoimento de um dos acusados que afirma haver adquirido a droga na Bolívia.
+Evidentemente que é possível, com o aprofundar das investigações ou mesmo durante a instrução criminal, que fique devidamente caracterizado , com base em elementos concretos, que o crime foi transnacional, situação que poderia ensejar nova modificação da competência. Entretanto, tal possibilidade não impede, neste momento, a fixação da competência estadual para eventual adoção de medidas judicias que se façam necessárias.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Corumbá - MS, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
