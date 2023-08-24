@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de JEAN CARLOS PINHEIRO DA SILVA, por meio do qual se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO  (HC 0002473-57.2023.8.08.0000).
+O pacie nte foi preso preventivamente pela suposta prática dos crimes dos arts. 33 da Lei 11.343/2006 e 16, § 1º, IV, da Lei 10.826/2003.
+A defesa alega: a) necessidade de mitigação da Súmula 691/STF; b) ausência de fundamentação suficiente a justificar a prisão preventiva; c) condições pessoais favoráveis; d) crime praticado sem violência ou grave ameaça e reduzida quantidade de droga apreendida; e) desproporcionalidade da custódia frente ao regime a ser imposto em eventual condenação; e f) possibilidade de substituição da prisão por medidas cautelares diversas.
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 206 e 208):
+Em que pesem as alegações do impetrante, constato, em sede de cognição sumária, a gravidade concreta da conduta justificadora da manutenção da prisão preventiva para o resguardo da ordem pública, já que o paciente, além de ter dispensado drogas variadas e de alto poder nocivo, embora em quantidade não tão expressiva, portava uma arma de fogo com numeração raspada e exercia o tráfico em concurso de agentes com mais duas pessoas. Neste sentido:
+ ..
+Nessa toada, estando presentes os requisitos da prisão preventiva, é irrelevante que o acusado ostente condições subjetivas favoráveis, sendo certo que a alegada desproporcionalidade da prisão cautelar pelo fato de o acusado vir eventualmente a ser beneficiado com a redutora do tráfico privilegiado circunstância que escapa a este momento processual, já que a concreta aplicação da pena, em caso de condenação, compete ao magistrado de primeiro grau por ocasião da prolação da sentença. Neste sentido: STJ, AgRg no HC n. 805.262/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/6/2023, DJe de 15/6/2023.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
