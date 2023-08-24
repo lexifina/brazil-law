@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TETOMETAL CONSTRUÇÕES LTDA. contra decisão monocrática do Ministro Paulo de Tarso Sanseverino, que deu provimento ao especial da embargante para reconhecer que os juros de mora devem observar a incidência da SELIC, sem cumulação de outros índices a título de correção monetária (fls. 368-372).
+Nas razões dos aclaratórios, a embargante aduz que a decisão foi omissa quanto à readequação dos honorários, visto que, com o provimento do apelo nobre, foi vencedora no mérito de seus embargos à ação monitória.
+É, no essencial, o relatório.
+Da detida análise dos autos, infere-se que a embargada, Soluções em Aço Usiminas S.A., ajuizou ação monitória para obter título judicial no qual se reconhecesse a ora embargante, Tetometal Construções Ltda., como devedora de valores decorrentes de faturas inadimplidas provenientes do fornecimento de equipamentos (Bobina Grossa LTQ 6,30X1200 ASTM-A-1018-SS36/USI-CIVIL-300).
+Citada, a empresa ré apresentou embargos monitórios suscitando, essencialmente, excesso de execução, sob a alegação de que os consectários legais incidentes sobre o valor do crédito principal deixaram de observar os índices legais.
+Ato contínuo, adveio sentença que rejeitou a tese de incorreção dos consectários legais, mantendo os índices apontados pela autora da ação, entendimento esse mantido na Corte estadual, o qual só veio a ser modificado com o provimento do recurso especial da empresa ré/embargante. Vejamos (fl. 372):
+As conclusões da Corte a quo não encontram, portanto, respaldo na jurisprudência desta Corte, merecendo reforma o acórdão recorrido, para que os juros de mora sejam calculados de acordo com a taxa de juros pela SELIC, a contar da vigência do CC/02, não cumulada com correção monetária, na linha dos julgados supracitados.
+Ante o exposto, dou provimento ao recurso especial para fixar a taxa de juros moratórios com base na taxa SELIC, nos termos da fundamentação.
+Com efeito, em casos análogos, a jurisprudência do STJ já consignou que, "No caso de procedência dos embargos monitórios, os honorários advocatícios devem ser calculados sobre o proveito econômico obtido, ou seja, a diferença entre o valor cobrado e aquele que se verificou ser efetivamente devido" (REsp n. 730.861/DF, relator Ministro Castro Filho, Terceira Turma, DJ de 13/11/2006, p. 252).
+A titulo de reforço:
+11. Na hipótese de acolhimento parcial dos embargos monitórios, os honorários advocatícios são fixados em percentual sobre o valor do proveito econômico obtido, servindo a diferença entre o valor inicialmente cobrado e aquele que se reconhece ser efetivamente devido somente para fins de distribuição da sucumbência.
+(REsp n. 1.803.803/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/11/2021.)
+Assim, com razão a embargante quando aduz que a decisão fora omissa quanto ao redimensionamento da verba honorária.
+Ante o exposto, acolho os embargos de declaração para:
+I) fixar nos autos da ação monitória em favor da autora da ação/embargada (Soluções em Aço Usiminas S.A.) honorários, nos termos do art. 85, §§ 2º e 3º, do CPC, no patamar de 10% sobre o valor do principal acrescidos de correção monetária e juros de mora com base na Taxa SELIC, vedada a cumulação, conforme provimento dado ao recurso especial às fls. 368-372; e
+II) fixar nos autos dos embargos monitórios em favor da ré da ação monitória/embargante (Tetometal Construções Ltda. ) honorários, nos termos do art. 85, §§ 2º e 3º, do CPC, no patamar de 10% sobre o proveito econômico obtido, ou seja, a diferença entre o valor cobrado e aquele que se apurar como efetivamente devido.
+Publique-se. Intimem-se.
