@@ -1,10 +1,18 @@
 Art. 75. Aplica-se a multa de R$ 15.000,00 (quinze mil reais) ao transportador, de passageiros ou de carga, em viagem doméstica ou internacional que transportar mercadoria sujeita a pena de perdimento:
 I - sem identificação do proprietário ou possuidor; ou
 II - ainda que identificado o proprietário ou possuidor, as características ou a quantidade dos volumes transportados evidenciarem tratar-se de mercadoria sujeita à referida pena.
-§ 1º Na hipótese de transporte rodoviário, o veículo será retido, na forma estabelecida pela Secretaria da Receita Federal, até o recolhimento da multa ou o deferimento do recurso a que se refere o § 3º.
+§ 1º Na hipótese de transporte rodoviário, o veículo será retido, na forma estabelecida pela Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda, até o recolhimento da multa ou o deferimento da impugnação ou do recurso.
 § 2º A retenção prevista no § 1º será efetuada ainda que o infrator não seja o proprietário do veículo, cabendo a este adotar as ações necessárias contra o primeiro para se ressarcir dos prejuízos eventualmente incorridos.
-§ 3º Caberá recurso, com efeito exclusivamente devolutivo, a ser apresentado no prazo de 20 (vinte) dias da ciência da retenção a que se refere o § 1º, ao titular da unidade da Secretaria da Receita Federal responsável pela retenção, que o apreciará em instância única.
-§ 4º Decorrido o prazo de 45 (quarenta e cinco) dias da aplicação da multa, ou da ciência do indeferimento do recurso, e não recolhida a multa prevista, o veículo será considerado abandonado, caracterizando dano ao Erário e ensejando a aplicação da pena de perdimento, observado o rito estabelecido no Decreto-Lei nº 1.455, de 7 de abril de 1976.
+§ 3º Caberá impugnação, a ser apresentada no prazo de 20 (vinte) dias, contado da data da ciência da multa a que se refere o caput deste artigo.
+§ 3º-A. Apresentada a impugnação na forma prevista no § 3º deste artigo, o processo será encaminhado para julgamento em primeira instância.
+§ 3º-B. O veículo de que trata o § 1º deste artigo permanecerá retido até ser proferida a decisão final.
+§ 3º-C. Se o autuado não apresentar impugnação no prazo previsto no § 3º deste artigo, será considerado revel.
+§ 3º-D. Na hipótese de decisão de primeira instância desfavorável ao autuado, caberá interposição de recurso à segunda instância no prazo de 20 (vinte) dias, contado da data da ciência do autuado.
+§ 3º-E. São definitivas as decisões:
+I - de primeira instância, quando decorrido o prazo previsto no § 3º-D sem que haja interposição de recurso; e
+II - de segunda instância.
+§ 3º-F. O Ministro de Estado da Fazenda regulamentará o rito administrativo de aplicação e as competências de julgamento da multa de que trata este artigo.
+§ 4º Decorrido o prazo de 45 (quarenta e cinco) dias, contado da data da aplicação da multa, ou da data da ciência da decisão desfavorável definitiva na esfera administrativa, e não recolhida a multa prevista, fica caracterizado o dano ao erário, hipótese em que a multa será convertida em pena de perdimento do veículo.
 § 5º A multa a ser aplicada será de R$ 30.000,00 (trinta mil reais) na hipótese de:
 I - reincidência da infração prevista no caput, envolvendo o mesmo veículo transportador; ou
 II - modificações da estrutura ou das características do veículo, com a finalidade de efetuar o transporte de mercadorias ou permitir a sua ocultação.
