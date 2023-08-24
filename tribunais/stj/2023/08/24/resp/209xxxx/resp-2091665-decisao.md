@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por WANIA FERREIRA DE ASSIS (WANIA), com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, da relatoria do Desembargador ROBSON VIEIRA TEIXEIRA DE FREITAS, assim ementado:
+APELAÇÃO CÍVEL. AGRAVO INTERNO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DA MORA. CARTA REGISTRADA COM AVISO DE RECEBIMENTO. ENCAMINHAMENTO AO ENDEREÇO CONSTANTE DO CONTRATO. RETORNO SEM RECEBIMENTO. ENDEREÇO INSUFICIENTE. INFORMAÇÃO FORNECIDA PELO PRÓPRIO DEVEDOR. SENTENÇA MANTIDA.1. A mora decorre do simples vencimento do prazo para pagamento, mas a sua comprovação poderá ser demonstrada por meio de carta registrada com aviso de recebimento (art. 2º, § 2º, do Decreto-Lei nº 911/69, com redação dada pela Lei nº 13.043/14).2. Constatado que a notificação foi enviada ao endereço da devedora, o não recebimento da correspondência em razão da insuficiência do endereço, da ausência ou desconhecimento do destinatário no local indicado pela própria contratante não impede o reconhecimento da constituição em mora para efeito do disposto no §2º do art. 2º do Decreto-lei nº 911/69.3. No presente caso, a ausência de recebimento da correspondência decorreu da postura da Ré, que não informou seu endereço corretamente ao credor fiduciário ou, ainda, não conferiu a exatidão dos dados constantes do contrato firmado por ocasião da negociação, em evidente violação aos princípios da probidade e da boa-fé, nos termos do art. 422 do CC/02. Precedentes. 4. A despeito do pagamento das parcelas em atraso, a Apelante não cumpriu com a determinação do §2º do artigo 3º do Decreto-Lei nº 911/69, segundo a qual "o devedor fiduciante poderá pagar a integralidade da dívida pendente, segundo os valores apresentados pelo credor fiduciário na inicial, hipótese na qual o bem lhe será restituído livre do ônus" (Redação dada pela Lei 10.931, de 2004). 5. Apelação conhecida e não provida. Agravo Interno prejudicado (e-STJ, fl. 247).
+Nas razões do presente recurso, WANIA alegou a violação aos arts. 2º, §2º, e 3º do Decreto-lei nº 911/1969, ao sustentar que, para a eficácia da busca e apreensão, é exigido que a notificação da mora deva ser recebida por alguém, mesmo que por terceiro, e, no caso, a notificação retornou sem qualquer assinatura, ou seja, não foi concretizada. Mencionou julgados em apoio à sua tese.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da notificação
+Sobre o encaminhamento de notificação ao endereço do devedor, os julgadores assim esclareceram:
+A controvérsia cinge-se a examinar a regularidade da constituição em mora da devedora.
+Conforme se extrai dos autos, a liminar de busca e apreensão do veículo foi deferida (ID 40701784), tendo havido a apreensão do bem (ID 40701791).
+Ressalte-se que a correspondência encaminhada à Ré/Apelante, para constituição em mora, retornou com a informação de "não existe o número/desconhecido".
+ ..
+No caso em exame, verifica-se que a ausência de recebimento da correspondência não pode ser imputada ao banco, uma vez que esse, atendendo às normas legais, enviou correspondência ao endereço constante do contrato (ID 40701778).
+Realmente, não se pode exigir do credor o dever de realizar outras tentativas para comprovara constituição em mora da parte Ré, além daquela disposta em lei, qual seja, o encaminhamento da notificação ao endereço do devedor indicado no contrato.
+Diante desse cenário e constatado que a notificação foi enviada ao endereço da devedora, o não recebimento da correspondência em razão da informação de endereço insuficiente do destinatário não impede o reconhecimento da constituição em mora para efeito do disposto no §2º do art. 2º do Decreto-lei nº 911/69.
+ ..
+No presente feito, a ausência de recebimento da correspondência decorreu da postura da Ré, que não informou seu endereço corretamente ao credor fiduciário ou, ainda, não conferiu a exatidão dos dados constantes do contrato firmado por ocasião da negociação, em evidente violação aos princípios da probidade e da boa-fé, nos termos do art. 422 do CC/02 (e-STJ, fls. 249/251).
+Sobre o tema, esta Corte firmou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, assim firmando o tema nº 1132, julgado em sede de recurso repetitivo em 9/8/2023.
+Assim, nada há a alterar no acórdão recorrido, julgado nos termos do entendimento desta Corte em relação ao tema.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AÇÃO DE BUSCA E APREENSÃO. MORA. COMPROVAÇÃO. ENVIO DA NOTIFICAÇÃO AO ENDEREÇO DO CONTRATO. REPETITIVO TEMA Nº 1132. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
