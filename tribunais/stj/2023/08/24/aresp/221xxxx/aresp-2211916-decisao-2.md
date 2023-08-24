@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO MAURÍCIO OTTONI WANDERLEY DE ARAÚJO PINHO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Apelação Cível. Ação de cobrança. Honorários advocatícios. Inequívoca prestação de serviços. Demanda proposta contra pessoa física contratante que, ao ser citada, argui sua ilegitimidade passiva e aponta como responsável a sociedade de advogados para a qual o autor efetivamente prestava seus serviços. Inclusão da sociedade no polo passivo a pedido do autor. Sentença de procedência do pedido apenas em relação ao primeiro réu. Apelo de ambas as partes. Primeiro réu que reitera sua tese de ilegitimidade passiva ad causam e segunda ré que pretende a condenação do autor ao pagamento de verba honorária de acordo com os parâmetros do artigo 85, § 2º, do CPC/15. Apelo adesivo do autor para condenar a segunda ré solidariamente ao pagamento da dívida, afastando, assim, sua condenação ao pagamento dos ônus da sucumbência. Sentença que merece pequeno retoque.
+1. Em absolutamente nenhum dos documentos trazidos pelo autor, e não impugnados pelo primeiro réu, faz-se menção à sociedade de advogados, sendo inequívoco que o negócio jurídico de prestação de serviços advocatícios foi firmado entre o autor e o primeiro réu. Preliminar de ilegitimidade passiva que se rejeita.
+2. Autor que, ao ser provocado pelo primeiro réu, usou de sua faculdade para requerer ao juízo a inclusão da sociedade de advogados no polo passivo da demanda, oque fez por sua conta e risco.
+3. Improcedência do pedido em relação à segunda ré que impõe a condenação da parte sucumbente ao pagamento de honorários advocatícios, observados os parâmetros do artigo 85, §§ 2º e 6º, do CPC/15. Verba honorária que se arbitra em 10% do valor atribuído à causa.
+4. Apelo da segunda ré provido e recursos do autor e do primeiro réu aos quais se nega provimento." (fls. 296/297, e-STJ).
+No especial, o recorrente aponta, além de divergência jurisprudencial, violação do artigo 49-A do Código Civil. Aduz, em síntese, a sua ilegitimidade passiva.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Acerca da alegada ilegitimidade do recorrente, o tri bunal local, amparado nas premissas fáticas dos autos, concluiu que:
+"(..) em absolutamente nenhum dos documentos trazidos pelo autor, e não impugnados pelos réus, fez-se menção à sociedade de advogados, sendo inequívoco que o negócio jurídico de prestação de serviços advocatícios foi firmado entre o autor e o primeiro réu, pessoa física e seu amigo pessoal.
+A corroborar essa conclusão, pontue-se que a sociedade ré foi constituída apenas em 2011(fl. 129), embora a contratação do autor para prestar seus serviços especializados tenha ocorrido dois anos antes, mais precisamente, em janeiro de 2009,ou seja, quando sequer existia a pessoa jurídica.
+Assim, o primeiro réu é parte legítima para figurar no polo passivo dessa demanda e, mais, é confessadamente responsável pelo débito com o autor, conforme se extrai de inúmeras correspondências eletrônicas trocadas diretamente com o autor e, repise-se, não impugnadas oportunamente" (e-STJ fl. 300)
+Portanto, a revisão do entendimento do acórdão impugnado demandaria o reexame do contexto fático-probatório, procedimento inadmissível no âmbito de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA CONFIGURADA. ALTERAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. VALOR DA INDENIZAÇÃO. QUANTIA FIXADA DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Reverter o entendimento do Tribunal local, para acolher a pretensão recursal quanto à ilegitimidade passiva, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis, acarretaria, necessariamente, novo exame das provas constante dos autos, providência defesa em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. O valor fixado a título de indenização por danos morais pelas instâncias ordinárias, nos termos da jurisprudência deste Tribunal, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, os quais não se evidenciam no presente caso, de modo que a sua revisão também encontra óbice na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento"
+(AgInt no AREsp n. 2.218.364/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.)
+Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do CPC, majoro em 2% (dois por cento) a verba honorária atribuída ao recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
