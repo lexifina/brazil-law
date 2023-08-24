@@ -1,0 +1,2 @@
+Acrescenta art. 1.815-A à Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para determinar, nos casos de indignidade, que o trânsito em julgado da sentença penal condenatória acarretará a exclusão imediata do herdeiro ou legatário indigno.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
