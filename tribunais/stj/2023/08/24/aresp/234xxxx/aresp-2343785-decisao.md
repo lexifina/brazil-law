@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA COMPLEMENTAR FECHADA. FUNCEF. AÇÃO DE REVISÃO DE BENEFÍCIOS. GRATUIDADE. ATO INCOMPATÍVEL. OBRIGAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO APENAS DAS PARCELAS QUE ANTECEDEM O QUINQUÊNIO DO AJUIZAMENTO DA AÇÃO. DISTINÇÃO ENTRE PERCENTUAL AUFERIDO POR HOMENS E MULHERES NA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. OFENSA AO PRINCÍPIO DA ISONOMIA. STF. REPERCUSSÃO GERAL. RE Nº 639.138. TEMA Nº 452.
+O recolhimento do preparo de recurso interposto realizado simultaneamente com pedido de gratuidade de justiça é ato incompatível com o interesse do recorrente em relação à concessão do benefício, não podendo, se tem condições financeiras para arcar com o preparo do recurso, usufruir dos benefícios em questão.
+O pagamento de benefício previdenciário complementar constitui obrigação de trato sucessivo, razão pela qual a prescrição não alcança o fundo de direito, mas apenas as prestações que antecederam o quinquênio precedente à propositura da ação.
+O princípio da isonomia não pode ser entendido apenas em sua vertente formal, que se limita a preconizar a igualdade de todos os indivíduos perante a lei, devendo ser compreendido também em sua concepção material, segundo a qual as desigualdades verificadas no caso concreto devem ser levadas em conta na aplicação do Direito, que deve visar à mitigação de tais discrepâncias, tratando de forma distinta os desiguais.
+Assegurando a Constituição Federal a aposentadoria da mulher com idade mínima inferior a do homem, o estabelecimento de percentuais diferentes na complementação auferida em razão do sexo é medida desarrazoada tendente a neutralizar os efeitos da garantia constitucional de idade diferenciada para a aposentação e, portanto, intolerável, sob pena de violação ao princípio da isonomia" (fl. 604 e-STJ).
+Nas razões do recurso especial (fls. 662/685 e-STJ), o recorrente alega que o acórdão recorrido violou o art. 178, II, do CC, bem como quanto ao Tema 943 do STJ.
+Sustenta que, para que haja condenação, é necessário modificar o contrato pactuado entre as partes, o que atrai o instituto da decadência.
+Argumenta que é patente a decadência do direito pleiteado, dado que a parte não exerceu no prazo legal seu direito potestativo para buscar desconstituir/alterar o negócio celebrado.
+Aduz ser cabível a aplicação do Tema 943/STJ, uma vez quea autora migrou de plano e renunciou aos planos anteriores.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem afastou a preliminar de decadência e prescrição, com base nos seguintes argumentos:
+"Diferentemente do aduzido pela apelante, o caso concreto não se enquadra em hipótese de decadência, nem tampouco se subsome ao entendimento firmado no REsp 1.201.529/RS, ressaltando-se que tal recurso especial não foi apreciado sob o rito dos recursos repetitivos, conforme se passa a explanar.
+(..) Dos trechos supracitados do julgamento do REsp nº 1.201.259, depreende-se que a situação fática é diferente da ora tratada, porque naquele recurso especial se discutia a anulação da relação jurídica estabelecida entre a entidade de previdência privada e o trabalhador. Ocorre que, no presente caso, a autora limita o pedido ao recálculo do benefício, extirpando-se a desigualdade dos percentuais previstos para os trabalhadores do sexo masculino e feminino. A autora não almeja, com isso, a desconstituição do contrato em si, apenas a adequação da cláusula ao princípio constitucional da isonomia. Portanto, não há se falar em decadência do direito autoral.
+No que tange à prejudicial de prescrição, como bem assentado na r. sentença e nos trechos acima colacionados do julgado do E. STJ, por se tratar de prestação de trato continuado, incide a prescrição quinquenal das parcelas anteriores ao ajuizamento da demanda.
+Na hipótese em comento, a própria autora requereu o recálculo das parcelas referentes ao quinquídio anterior ao protocolo do pedido inicial, não havendo, por essa razão, prescrição a ser reconhecida" (fls. 608/609, e-STJ).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% sobre o valor da condenação, os quais deverão ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
