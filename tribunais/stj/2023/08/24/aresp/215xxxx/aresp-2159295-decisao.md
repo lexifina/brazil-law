@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interposto por WILSON ANKIRES ANDRADE DE OLIVEIRA E NEUZA MITSUE FURUTANI DE OLIVEIRA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PREJUDICIAL DE PRESCRIÇÃO AFASTADA - PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA - EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO - UTILIZAÇÃO DA TABELA PRICE NÃO IMPLICA EM CAPITALIZAÇÃO MENSAL DOS JUROS - APLICAÇÃO DO CET PACTUADA - MAJORAÇÃO DA TAXA DE JUROS EM CASO DE DESLIGAMENTO DO MUTUÁRIO DA CAIXA DE PREVIDÊNCIA - POSSIBILIDADE - REDUÇÃO DA MULTA MORATÓRIA SOMENTE EM CONTRATOS CELEBRADOS APÓS A VIGÊNCIA DA LEI N. 9.298 /96 - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Nas hipóteses em que o pagamento do débito foi pactuado de forma parcelada, o termo inicial da prescrição é contado da data do vencimento da última prestação pactuada, independentemente de haver no contrato cláusula de vencimento antecipado por força de inadimplemento.
+Rejeita-se a preliminar de cerceamento de defesa se a prova pericial que foi deferida não foi produzida por desídia da parte requerente que se quedou inerte sem apresentar os seus quesitos e assistente técnico no prazo determinado pela Magistrada "a quo" .
+A aplicação da Tabela Price constitui forma de amortização do saldo devedor, de forma a possibilitar que as parcelas sejam fixadas em valores iguais e quitado o valor de financiamento ao final do prazo convencionado, razão pela qual a sua utilização não significa capitalização de juros.
+É lícita a aplicação do Coeficiente de Equalização de Taxas (CET) quando expressamente pactuado e inexistindo demonstração de abusividade.
+A majoração da taxa de juros de 6% (seis por cento) para 8% (oito por cento) ao ano, por ocasião do desligamento do mutuário dos quadros da PREVI, não é ilegal.
+A multa moratória fixada em 10% somente comporta redução para 2% (dois por cento) nos contratos celebrados após a vigência da LEI N. 9.298/96" (fls. 681-682 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 710-726 e-STJ).
+No recurso especial, os recorrentes alegam violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 189, 206, § 5º, I e 474 do Código Civil - sob o argumento de que ocorreu a prescrição para a cobrança do débito, visto que o contrato contém cláusula resolutiva expressa. Defende que o inadimplemento enseja o vencimento antecipado da dívida e somente a partir desse momento é que a parte recorrida poderia propor a execução.
+(ii) arts. 1.022, II, Parágrafo Único, II; 435, 464, § 1º do CPC - devido a existência de cerceamento de defesa pelo indeferimento de prova pericial;
+(iii) 1.022, II, Parágrafo Único, do Código de Processo Civil
+Apresentadas as contrarrazões (fls. 743-751 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à alegada ofensa ao art. 1.022 do CPC/2015, observa-se a deficiência de fundamentação do recurso, visto que os recorrentes não demonstraram de forma clara e precisa em quais pontos o acórdão ora atacado teria sido contraditório, omisso ou obscuro, configurando, nesse aspecto, a deficiência da fundamentação recursal.
+Incide, por analogia, o óbice da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" .
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ART. 489 DO CPC/2015. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 1.021, § 3º, DO CPC/2015. FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura a deficiência de fundamentação do recurso especial a atrair a incidência da Súmula nº 284/STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. Agravo interno não provido" (AgInt no AREsp 1395429/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019 grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada ofensa ao art. 1.022 do CPC/2015 não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+2. No presente caso, as conclusões do Tribunal de origem em relação ao cumprimento da obrigação pelo executado não podem ser revistas por esta Corte Superior, pois demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. O v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo interno não provido."
+(AgInt no AREsp 1.242.437/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/4/2018, DJe 2/5/2018).
+No que diz respeito à prescrição, o tribunal de origem afastou a pretensão dos recorrentes sob os seguintes fundamentos:
+"(..)
+Pois bem. Em que pese à cláusula com previsão de vencimento antecipado da dívida (cláusula vigésima), certo é que tão somente gera o direito da credora em cobrá-la, de sorte que o transcurso do lapso prescricional só tem início na data do vencimento original do contrato, vale dizer, 01/03/2012.
+Vale dizer que a circunstância de o credor poder exigir a dívida por inteiro, por conta da existência de cláusula resolutiva expressa, não tem o condão de interferir no prazo prescricional, que deve ser contado da data do vencimento contratualmente estabelecido, já que, nesses casos, a opção de aplicação de referida cláusula, que autoriza a antecipação do cálculo da dívida, é do credor e não do devedor, que não se beneficia dela" (fl. 685 e-STJ - grifos do original).
+Com efeito, observa-se que a decisão do tribunal de origem encontra-se em harmonia com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que o vencimento antecipado da dívida livremente pactuado entre as partes não modifica o início da fluência do prazo prescricional, prevalecendo, para tal fim, o termo ordinariamente indicado no contrato, que, no caso do mútuo imobiliário, é o dia do vencimento da última parcela.
+Sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COBRANÇA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO. JUROS MORATÓRIOS. TERMO INICIAL. VENCIMENTO. MORA EX RE. ART. 397 DO CÓDIGO CIVIL. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever a conclusão do acórdão recorrido quanto à inadimplência e ao valor devido implicaria o reexame de cláusulas contratuais e do contexto fático-probatório, procedimentos inadmissíveis em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+3. A mora ex re independe de qualquer ato do credor, como interpelação ou citação, porquanto decorre do próprio inadimplemento de obrigação positiva, líquida e com termo implementado. Precedentes.
+4. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso, é o dia do vencimento da última parcela.
+5. Agravo interno não provido" (AgInt no AREsp 1.260.865/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 1º/10/2018, DJe 4/10/2018 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC DE 1973. CONTRATO DE MÚTUO HABITACIONAL GARANTIDO POR HIPOTECA. TÍTULO EXECUTIVO EXTRAJUDICIAL. CARACTERIZAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DO ACÓRDÃO DA ORIGEM, SÚMULA 283/STF. PRESCRIÇÃO. TERMO INICIAL. CLÁUSULA QUE PREVÊ O VENCIMENTO ANTECIPADO DA DÍVIDA NA HIPÓTESE DE INADIMPLEMENTO. DISPOSIÇÃO CONTRATUAL QUE NÃO ALTERA O TERMO A QUO, QUE CONTINUA SENDO A DATA DO VENCIMENTO DA ÚLTIMA PARCELA DO CONTRATO. JUROS REMUNERATÓRIOS. RAZOABILIDADE E PROPORCIONALIDADE. INEXISTÊNCIA DE CAPITALIZAÇÃO DE JUROS. MULTA CONTRATUAL REDUZIDA NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO IMPROVIDO.
+(..)
+5. A jurisprudência desta Corte de Justiça tem reiterado o entendimento de que o vencimento antecipado do contrato por inadimplemento do devedor não altera o termo inicial da prescrição, o qual deve ser contado do término da avença nos termos em que estipulado.
+6. Agravo interno a que se nega provimento" (AgInt no REsp 1.356.274/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2017, DJe 06/04/2017).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 83/STJ.
+Por outro lado, nota-se que o acórdão atacado afastou o alegado cerceamento de defesa, ressaltando que:
+"(..)
+Inicialmente, destaca-se que fora deferida a realização de perícia, com nomeação do perito do juízo e de determinação e intimação das partes para apresentação de quesitos, sob pena de preclusão.
+No entanto, observa-se que os apelantes não se manifestaram, mesmo após serem intimados, inclusive sob a expressa advertência de que se não apresentassem os quesitos, a produção da prova pericial ficaria prejudicada, o direito de produzir a referida prova foi atingido pela preclusão lógica, ante a conduta processual superveniente que denota desinteresse na sua realização (ID 113304678 - Pág. 5).
+Desse modo, o julgamento antecipado da lide, sem oportunizar a produção da prova, não caracteriza cerceamento de defesa" (fl. 687 e-STJ).
+Dessa maneira, modificar a conclusão do Tribunal de origem, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial, tendo em vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. 3. IDONEIDADE DOS DOCUMENTOS INDISPENSÁVEIS À EMISSÃO DO MANDADO INJUNTIVO. SÚMULA 7 DO STJ. 4. DOCUMENTOS NECESSÁRIOS À PROPOSITURA DA AÇÃO. SÚMULA 7 DO STJ. 5. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO AFASTADA PELO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. 6. AGRAVO INTERNO IMPROVIDO.
+1. O destinatário final das provas produzidas é o juiz, a quem cabe avaliar sua suficiência e necessidade, sendo firme na jurisprudência desta Corte que compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa.
+1.1. O Tribunal local, atento ao acervo fático-probatório dos autos, considerou dispensável a produção de prova pericial e testemunhal, uma vez que a prova documental se mostrou suficiente para o desate da controvérsia, destacando ainda a impropriedade do pedido relativo à prova pericial.
+1.2. Diante do quadro delineado na instância a quo, não se vislumbra nenhuma ilegalidade, pois a valoração de provas foi solvida diante do acervo produzido nos autos, e sua reapreciação acerca da imprescindibilidade da prova testemunhal ou pericial, por certo, esbarraria no óbice da Súmula 7/STJ.
+2. (..)
+2.1. Desse modo, o acolhimento do inconformismo demanda revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+3. O aresto impugnado atestou que foram juntados documentos aptos à pretensão do autor da ação monitória. A par disso, "para o acolhimento do apelo extremo, no sentido de afirmar se são suficientes  ou não  os documentos que instruíram a ação monitória, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, enseja em rediscussão da matéria fático-probatória, atraindo o óbice da Súmula 7 do STJ" (REsp 1229296/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/11/2016, DJe 18/11/2016).
+4. Alegação de falta de documento indispensável à propositura da ação monitória (arts. 283 e 284 do CPC/1973). Necessidade de alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido. Medida vedada nos termos do enunciado da Súmula 7 do STJ.
+5. Violação do art. 467 do CC. O Tribunal local asseverou que a ora recorrente não logrou êxito em demonstrar o direito alegado em juízo e, pelo contrário, há prova de que o serviço foi prestado pela parte ex adversa, razão pela qual não há se falar em exceção do contrato não cumprido.
+6. Agravo interno improvido"
+(AgInt no AREsp 1.066.305/RO, Rel. MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa (R$123.670,12 - cento e vinte e três mil, seiscentos e setenta reais e doze centavos), os quais devem ser majorados para 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Proce sso Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
