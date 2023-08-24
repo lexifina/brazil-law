@@ -1,0 +1,20 @@
+DECISÃO
+LUIS GUSTAVO CERQUEIRA, acusado por receptação, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Indeferida a liminar (fls. 43-44) e prestadas as informações (fls. 50-52), foram os autos ao Ministério Público Federal, que opinou pelo não conhecimento da ordem, mas caso conhecida, por sua denegação, notadamente porque a decisão constritiva encontra-se devidamente fundamentada na reiteração delitiva (fls. 64-67).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão que decretou a prisão preventiva do acusado, a seguinte passagem (fls. 18-19, destaquei):
+ ..
+Verifica-se, ainda, que a certidão de fls. 118/124 aponta que esse acusado foi condenado em caráter definitivo por delitos anteriores (processos n. 1500345-34.2019.8.26.0580, n. 1500084-11.2021.8.26.0415 e n. 1500228-82.2021.8.26.0415), ao passo que a certidão de fls.
+137/140 indica que o acusado Luís Gustavo também foi condenado em caráter definitivo por crime anterior (Processo n. 00010758-67.2018.8.26.0047), sendo que, em relação a ambos, não decorreu o prazo depurador, situação que atrai o disposto no inciso II da mesma disposição normativa.
+ ..
+Por outro lado, apesar de seu caráter excepcional, a prisão cautelar mostra-se necessária para a garantia da ordem pública e devido ao perigo gerado pelo estado de liberdade dos denunciados, haja vista a gravidade concreta do delito de furto praticado à luz do dia e mediante escalada, bem como em face da reincidência de ambos.
+O acórdão impugnado, por sua vez, também assinalou (fl. 27, grifei):
+ ..
+Ressalte-se que o paciente é reincidente, ostentando condenações por roubo e associação para o tráfico de drogas, demonstrando possuir conduta antissocial, de modo a justificar a manutenção de sua custódia, nos termos do art. 312 do Código de Processo Penal.
+Como se observa, a despeito do crime praticado não envolver violência ou grave ameaça a pessoa, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou, além das circunstâncias nas quais ele foi cometido, que o paciente ostenta condenações por outros delitos, como roubo e tráfico de drogas. Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, também, afasta a possibilidade de concessão de medidas cautelares alternativas.
+No particular, precisas as ponderações do Ministério Público Federal, quando assinalou (fl. 66): "Frisa-se que o periculum libertatis está evidenciado na hipótese em testilha, uma vez que o paciente "é reincidente, ostentando condenações por roubo e associação para o tráfico de drogas", estando configurado o risco de reiteração delitiva, conforme restou destacado no v. acórdão rechaçado".
+Nessa direção, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
