@@ -1,0 +1,3 @@
+Art. 15-A. Poderá ser autorizada a instalação de lojas francas para a venda de mercadoria nacional ou estrangeira contra pagamento em moeda nacional ou estrangeira.
+§ 1º A autorização mencionada no caput deste artigo poderá ser concedida às sedes de Municípios caracterizados como cidades gêmeas de cidades estrangeiras na linha de fronteira do Brasil, a critério da autoridade competente.
+§ 2º A venda de mercadoria nas lojas francas previstas neste artigo somente será autorizada à pessoa física, obedecidos, no que couberem, as regras previstas no art. 15 e demais requisitos e condições estabelecidos pela autoridade competente.
