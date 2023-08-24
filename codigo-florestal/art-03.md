@@ -31,6 +31,7 @@ g) pesquisa científica relativa a recursos ambientais, respeitados outros requi
 h) coleta de produtos não madeireiros para fins de subsistência e produção de mudas, como sementes, castanhas e frutos, respeitada a legislação específica de acesso a recursos genéticos;
 i) plantio de espécies nativas produtoras de frutos, sementes, castanhas e outros produtos vegetais, desde que não implique supressão da vegetação existente nem prejudique a função ambiental da área;
 j) exploração agroflorestal e manejo florestal sustentável, comunitário e familiar, incluindo a extração de produtos florestais não madeireiros, desde que não descaracterizem a cobertura vegetal nativa existente nem prejudiquem a função ambiental da área;
+j-A) atividades com o objetivo de recompor a vegetação nativa no entorno de nascentes ou outras áreas degradadas, conforme norma expedida pelo órgão competente do Sistema Nacional do Meio Ambiente (Sisnama);
 k) outras ações ou atividades similares, reconhecidas como eventuais e de baixo impacto ambiental em ato do Conselho Nacional do Meio Ambiente - CONAMA ou dos Conselhos Estaduais de Meio Ambiente;
 XI - (VETADO);
 XII - vereda: fitofisionomia de savana, encontrada em solos hidromórficos, usualmente com a palmeira arbórea Mauritia flexuosa - buriti emergente, sem formar dossel, em meio a agrupamentos de espécies arbustivo-herbáceas;.
