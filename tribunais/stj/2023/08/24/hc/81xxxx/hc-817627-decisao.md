@@ -1,0 +1,7 @@
+DECISÃO
+SUELEN DOS SANTOS ARAUJO alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0014260-61.2023.8.16.0000.
+Em consulta à página eletrônica da Corte local, o gabinete verificou que, em 13/7/2023, foi proferida sentença condenatória na ação penal de origem, oportunidade em que o Juízo singular rejeitou a tese de nulidade do feito por violação de domicílio e concedeu à paciente o direito de recorrer em liberdade. Contra esse decisum, a defesa interpôs recurso de apelação, pendente de julgamento.
+Verifica-se portanto, a superveniente perda do objeto deste habeas corpus, que pretende o trancamento do processo pela nulidade da prisão em flagrante da ré e a revogação de sua prisão cautelar. Destaco que, com a prolação da sentença condenatória, o Juízo singular realizou novo exame da tese de nulidade suscitada pela defesa, matéria que será submetida a apreciação pelo Tribunal a quo, no julgamento da apelação.
+Consoante jurisprudência desta Corte Superior: "a prolação de sentença torna prejudicada a análise das teses suscitadas nesta impetração, pois como o decreto condenatório rejeitou tais questões e os fundamentos ali consignados não foram apreciados pela Corte estadual, é prudente que a matéria seja primeiramente submetida a este órgão jurisdicional, para que não se incorra em supressão de instância" (AgRg no HC n. 611.851/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/4/2021).
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
