@@ -1,0 +1,2 @@
+Dispõe sobre a faculdade de concessão, como garantia de operações de crédito, do direito de resgate assegurado aos participantes de planos de previdência complementar aberta, aos segurados de seguros de pessoas, aos cotistas de Fundo de Aposentadoria Programada Individual (Fapi) e aos titulares de títulos de capitalização.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
