@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos arts. 489 e 1.022 do CPC/1973 e incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 248-249):
+CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. INDENIZAÇÃO AO DETENTOR DA POSSE. SENTENÇA DE PROCEDÊNCIA. LEVANTAMENTO DOVALOR INTEGRAL DO DEPÓSITO. IRRESIGNAÇÃO DOEXPROPRIANTE. APELAÇÃO CÍVEL. ALEGAÇÃO DEQUE O EXPROPRIADO NÃO É O PROPRIETÁRIO DOIMÓVEL. PRETENSÃO PARA LIMITAR EM 60%(SESSENTA POR CENTO) O VALOR DA INDENIZAÇÃO. DISTINÇÃO DO VALOR DAS INDENIZAÇÕES DEVIDASAOS POSSUIDORES E AOS PROPRIETÁRIOS QUENÃO SE MOSTRA RAZOÁVEL. DIREITO À JUSTAINDENIZAÇÃO. INTELIGÊNCIA DO ARTIGO 5º, INCISOXXIV, DA CONSTITUIÇÃO FEDERAL E DECRETO-LEI Nº3.365/1941. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO APELO.
+1. O art. 5º, inciso XXIV, da Constituição Federal e o Decreto-Lei nº 3.365/41, dispõem sobre as possibilidades e condições de desapropriação por utilidade pública, autorizam a desapropriação, desde que presentes os seus requisitos concernentes à necessidade pública, sendo indiscutível a possibilidade de indenização a quem detém apenas a posse do imóvel a ser expropriado, de acordo com o julgamento do Superior Tribunal de Justiça.
+2. Precedentes do STJ (REsp 1717208/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em24/04/2018, DJe 19/11/2018) e TJRN (Agravo de Instrumento nº 0804298-09.20149.8.20.0000, Rel. Desembargador Amaury Moura Sobrinho, 3ª CâmaraCível, j. 22/10/2019; AC nº 0828202-61.2017.8.20.5001,Rel.ª Desembargadora Judite Nunes, 2ª Câmara Cível, j.19/02/2020).
+3. Apelo conhecido e desprovido.
+Embargos de declaração rejeitados (fls. 288-295).
+No recurso especial o recorrente alega violação dos arts. 489, § 1º, IV e 1.022, II, do CPC/2015, ao argumento de que o Tribunal de origem "se limitou a indicar precedentes que tratam da possibilidade de indenização do possuidor e não enfrentou o argumento principal da Apelação, o de que tal indenização deveria abranger apenas 60% (sessenta por cento) do valor da terra nua acrescido das benfeitorias" (fls. 310-311).
+Quanto à questão de fundo, sustenta, além de dissídio jurisprudencial, ofensa ao Decreto-Lei 3.365/1941, ao fundamento de que não se pode arguir a irrazoabilidade da distinção entre possuidor e proprietário, razão pela qual somente seria cabível a liberação de 60% (sessenta por cento) do valor avaliado da terra nua, mais 100% (cem por cento) das benfeitorias, levando em conta a condição de possuidores dos expropriados.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+De início, afasta-se a alegada violação dos arts. 489, § 1º, IV e 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que a questão relativa ao percentual da indenização a ser levantado foi devidamente enfrentado, na seguinte dicção (fls. 253-254):
+10. Portanto, in casu, deve preponderar o direito constitucional da justa indenização, possibilitando a determinação de indenização integral do valor oferecido pelo Estado do Rio Grande do Norte, incidindo na espécie o disposto no § 2º do art. 33 da Lei nº 2.254/1941. Vejamos:
+"Art. 33. O depósito do preço fixado por sentença, à disposição do juiz da causa, é considerado pagamento prévio da indenização.
+ ..
+§ 2º Na hipótese deste artigo, o expropriado poderá levantar 100% (cem por cento) do depósito de que trata o art. 33 deste Decreto-Lei". (Incluído pela Lei nº 13.465, de 2017)".
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC/2015.
+Ademais, o recorrente não individualizou qual dispositivo do Decreto-Lei 3.365/1941 se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
