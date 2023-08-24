@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO ITAÚ CONSIGNADO S/A contra acórdão prolatado, por unanimidade, pela Décima Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, em sede de apelação, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 6/4/2023.
+Concluso ao gabinete em: 28/7/2023.
+Ação: declaratória de inexistência de dívida cumulada com compensatória por danos morais, pedido de inversão do ônus da prova e repetição do indébito em dobro ajuizada por MARIA DO ROSÁRIO ALVES, em face do agravante.
+Sentença: julgou improcedentes os pedidos formulados pela agravada.
+Acórdão: deu parcial provimento à apelação de MARIA DO ROSÁRIO ALVES, nos termos da seguinte ementa (e-STJ fl. 215):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - EMPRÉSTIMO CONSIGNADO - DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO - CONTRATANTE ANALFABETA - ASSINATURA "A ROGO" - INSTRUMENTO PÚBLICO DE PROCURAÇÃO - AUSÊNCIA - INOBSERVÂNCIA DA FORMA PRESCRITA EM LEI - NEGÓCIO JURÍDICO NULO - DESCONTOS INDEVIDOS - REPETIÇÃO EM DOBRO DO INDÉBITO - DANOS MORAIS CONFIGURADOS - RECURSO PARCIALMENTE PROVIDO. - É nulo o contrato celebrado com analfabeto, quando não formalizado por instrumento público ou por instrumento particular assinado a rogo por intermédio de procurador constituído por instrumento público - inteligência dos artigos 37, § 1º, da Lei 6.015/73 c/c art. 104, III e art. 166, IV, do Código Civil. - Diante do inequívoco desconto indevido, de valores no benefício de INSS da parte autora, em virtude de contrato nulo realizado em nome de pessoa analfabeta, configurada está a má-fé da Instituição financeira autorizando a repetição em dobro dos valores debitados. - Os descontos sofridos pela autora, em seu benefício, de valores referentes a contrato não autorizado, caracteriza falha na prestação de serviços, e, inegavelmente, causa-lhe aflição, restando manifesta a configuração de dano moral. - O numerário deve proporcionar à vítima satisfação na justa medida do abalo sofrido, produzindo, no ofensor, impacto bastante para dissuadi-lo de igual procedimento, forçando-o a adotar uma cautela maior, diante de situações como a descrita nestes autos.
+Embargos de declaração: opostos por BANCO ITAÚ CONSIGNADO S/A, foram rejeitados.
+Recurso especial: alega, além do dissídio jurisprudencial, violação aos artigos 1.022, II, e 1.025, II, do CPC/2015; e 186 e 595 do CC/2002.
+Além de negativa de prestação jurisdicional, aduz ter havido omissões na decisão recorrida, relativamente a questões relevantes para o deslinde da causa.
+Sustenta que, para a configuração do direito compensatório, é necessária a constatação do abalo moral, o que não se verificou na espécie, uma vez que a parte recorrida recebeu os valores do empréstimo.
+Afirma, ainda, que quando qualquer das partes não souber ler e nem escrever em um contrato de prestação de serviço, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de requisito de regularidade formal.
+Verifico a ausência de requisito de regularidade formal, a evidenciar ser manifestamente incabível o recurso especial interposto, porquanto este ataca decisão monocrática (e-STJ fls. 260/262) contra a qual caberia agravo regimental perante o Colegiado local, em obediência à previsão do artigo 1.021, § 2º, do CPC/2015. Desse modo, não restou exaurida a instância ordinária.
+Com efeito, a teor do disposto no artigo 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, " ..  julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios  .. ".
+Nesse sentido, os seguintes precedentes desta Corte Superior: AgInt nos EAREsp n. 1.732.139/MA, Corte Especial, DJe de 1º/2/2022; AgInt no AREsp n. 2.149.403/CE, Terceira Turma, DJe de 28/6/2023; AgInt no AREsp n. 2.188.284/PE, Terceira Turma, DJe de 15/2/2023; AgInt no AREsp n. 2.105.073/SE, Quarta Turma, DJe de 11/4/2023; e AgInt no AREsp n. 2.225.405/MT, Quarta Turma, DJe de 11/4/2023.
+Desse modo, aplicável, por analogia, o óbice da Súmula n. 281/STF.
+Forte nessas razões, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da condenação (e-STJ fls. 215/236) para 20% (vinte por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM COMPENSATÓRIA POR DANOS MORAIS, PEDIDO DE INVERSÃO DO ÔNUS DA PROVA E REPETIÇÃO DO INDÉBITO EM DOBRO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA N. 281/STF.
+1. Ação declaratória de inexistência de dívida cumulada com compensatória por danos morais, pedido de inversão do ônus da prova e repetição do indébito em dobro.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, revela-se inadmissível o processamento de recurso especial interposto contra decisão monocrática, porquanto um dos pressupostos para sua admissibilidade é o exaurimento das instâncias ordinárias. Incidência, por analogia, da Súmula n. 281 do Supremo Tribunal Federal. Precedentes.
+3. Recurso especial não conhecido.
