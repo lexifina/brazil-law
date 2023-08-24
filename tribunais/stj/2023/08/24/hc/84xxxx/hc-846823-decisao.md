@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENATO MARTINS SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim relatado (fl. 424):
+Trata-se de habeas corpus, com pedido de liminar, impetrado pelo advogado Gustavo Carretero Nunes, em favor de Renato Martins Souza, objetivando o relaxamento da prisão do paciente, sob a alegação de excesso de prazo para o término da instrução criminal ou a revogação da prisão preventiva.
+Relata o impetrante que "a Justiça Pública denúncia Renato Martins Souza e outro, como incursos no artigo 33, caput, da Lei nº 11.343/2006." (sic).
+Informa que "não se trata de um simples atraso, de uma ou duas semanas o atraso já ultrapassou meses, por pura inércia do Poder Público em dar marcha célere a tramitação processual", tanto mais porque "Renato Martins Souza, ora paciente, encontra-se preso ilegalmente desde 11.11.2021."(sic).
+Afirma que "o Estado não logrou em terminar a instrução processual no prazo estabelecido em lei, sem que a defesa tenha em momento algum dado a causa a tal atraso, ao contrário, sempre cooperou, o constrangimento ilegal pelo qual atravessa o paciente é inquestionável", restando, assim, "caracterizado o constrangimento ilegal pelo excesso de prazo no término da instrução processual." (sic).
+Alega estarem ausentes os requisitos do artigo 312 do Código de Processo Penal, não sendo razoável "o paciente aguardar 540 (data da prisão até a redesignação da audiência) dias para sua audiência de julgamento."(sic).
+Deste modo, requer, liminarmente, a "concessão da medida liminar, para relaxar a prisão por sua ilegalidade" ou, subsidiariamente, "a revogação da prisão, para aguardar a instrução em liberdade (..) com ou sem medidas cautelares diversas da prisão, ao roldo art. 319, CPP" (sic), sendo que, ao final, conceda "de forma definitiva, a ordem do presente writ." (sic fls. 01/04).
+Indeferida a liminar (fls. 313/314) e prestadas as informações pela autoridade indicada coatora (fls. 319/321), a douta Procuradoria Geral de Justiça opinou pela prejudicialidade de parte da impetração e, no restante, pela denegação da ordem (fls. 324/327)."
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão e 583 dias-multa, no regime fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+No presente wri t, sustenta o impetrante, em síntese, que o "paciente encontra-se preso em prisão preventiva em local inadequado há 642 dias, o que de fato não demonstra um prazo razoável e sim totalmente desproporcional" (fl. 4-5).
+Afirma que a prisão deve ser vista "como o último instrumento para a "resolução do conflito", apenas quando as demais medidas falharam em preservar os bens jurídicos tidos como mais importantes pela sociedade" (fl. 5) e que há ausência de fundamentação para a manutenção da prisão preventiva, bem como a medida extrema se baseia em elementos genéricos.
+Alega ser possível a aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente seja posto em liberdade. Caso haja entendimento diverso, postula, a conversão da prisão em medida cautelar diversa do cárcere.
+Colhe-se da decisão da Corte de origem, no que interessa (fls. 341-343):
+" ..
+Trata-se de paciente preso em flagrante e posteriormente denunciado como incurso no artigo 33, caput, da Lei nº 11.343/06, porque, "no dia 11 de novembro de 2021, por volta de 21:37 horas, na Rua Alfredo Argemiro do Nascimento, n.º 100, Jardim Freitas Júnior, nesta cidade e comarca de Taboão da Serra/SP, RENATO MARTINS SOUZA, qualificado a fls.09/10 e RODRIGO RODRIGUES VENTURA, qualificada a fls. 12/13, agindo em concurso e com unidade de desígnios entre si, traziam consigo, para entrega a consumo de terceiros, aproximadamente 83,5g (oitenta e três gramas e cinco decigramas) de cocaína, acondicionados em 121 (cento e vinte e uma) porções individuais; aproximadamente 4,8g (quatro gramas e oito decigramas) de cocaína na forma de crack, acondicionados em 26 (vinte e seis) porções individuais; e aproximadamente 27,6g (vinte e sete gramas e seis decigramas), de Cannabis Sativa L (maconha), acondicionados em 08 (oito) porções individuais; conforme Auto de Exibição e Apreensão de fls. 15/16 e Laudo de constatação de fls. 20/23, sem autorização ou em desacordo com determinação legal ou regulamentar." (sic fls. 125/128).
+O processo foi desmembrado em relação ao corréu Rodrigo (fls. 247/249).
+O presente habeas corpus está prejudicado.
+Isso porque, em consulta ao e-SAJ (Sistema de Automação Judiciária), verifica-se que o d. juízo de primeiro grau proferiu sentença, em 05/05/2023, condenando o paciente como incurso no artigo 33, caput, da Lei nº 11.343/2006, ao cumprimento de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, no valor unitário mínimo, negado o direito de recorrer em liberdade (fls. 338/349).
+Inconformado, o paciente interpôs recurso de apelação, em 12/05/2023 (fls. 370/379), que está em processamento.
+Assim, foi modificado o título da custódia cautelar, que, agora, decorre de sentença condenatória, não havendo falar, também, em excesso de prazo, conforme dispõe a Súmula nº 52 do Superior Tribunal de Justiça ("Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo").
+ ..
+Ante o exposto, julga-se prejudicada a impetração.
+Como se vê, o Tribunal de origem consignou que "foi modificado o título da custódia cautelar, que, agora, decorre de sentença condenatória" (fl. 342).
+No caso, verifica-se que as alegações deste habeas corpus não foram objeto de análise da Corte a quo. Assim, não tendo sido o pleito de revogação da prisão examinado pelo Tribunal de Justiça de São Paulo, fica impedido este Superior Tribunal de fazê-lo, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. A questão suscitada neste habeas corpus - nulidade do feito por violação de domicílio - não foi formulada pela defesa em alegações finais, perante o Juízo de primeiro grau, nem nas razões do recurso de apelação interposto.
+2. Logo, não houve prévio debate do tema pelas instâncias ordinárias, tampouco a delimitação das premissas fáticas referentes à atuação policial no caso, o que inviabiliza a análise pretendida neste habeas corpus.
+3. Por se tratar de questão diretamente ligada aos fatos e aos elementos concretos que ensejaram a entrada no domicílio do paciente, é necessário que haja o prévio debate (prévia apreciação) pelas instâncias ordinárias, as quais possuem amplo espectro cognitivo que permitiria, por isso mesmo, imiscuir-se no próprio contexto fático, providência essencial para o deslinde da controvérsia.
+4. Em casos semelhantes, este órgão colegiado já entendeu que estava impossibilitado o exame da ilegalidade suscitada em razão da indevida supressão de instância. Precedentes.
+5. Agravo não provido. (AgRg no HC n. 813.183/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
