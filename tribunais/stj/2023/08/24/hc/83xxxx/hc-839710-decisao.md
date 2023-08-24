@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 112):
+Habeas corpus - Alegação de demora no julgamento do pedido de progressão de regime - Descabimento - Providência incabível em sede de HC - Impossibilidade de supressão de instância - Remédio heroico inadequado - Entendimentos do E. Superior Tribunal de Justiça e do E. Supremo Tribunal Federal - Descabimento de concessão da ordem de ofício - Autos aguardando exame de criminológico, e não somente informação sobre processo diverso, requerida apenas para análise de eventual necessidade de unificação de penas - Ordem não conhecida.
+Narram os autos que a paciente requereu às instâncias de origem que fosse imediatamente julgado o pedido de progressão ao regime semiaberto, tendo sido indeferido o pleito.
+Sustenta a defesa, em suma, que o Tribunal de origem "deixou de conhecer do habeas corpus impetrado em Segundo Grau, eis que a paciente, mesmo reunindo todos os requisitos para a apreciação do pedido progressão ao regime semiaberto, está sendo obrigada, pelo Juízo de Primeiro Grau, a aguardar o trânsito em julgado e a expedição de guia de recolhimento referente à Ação Penal nº 006274- 62.2019.8.26.0050, em curso na 11ª Vara Criminal Central da Capital (SP)" (fl. 4).
+Aduz que a paciente "possui o inequívoco direito subjetivo de ver seu pleito apreciado, uma vez devidamente instruído, sem que se exija o cumprimento de requisito inexistente na legislação - a ausência de ações penais ainda não transitadas em julgado - para a análise do pedido de regime semiaberto" (fl. 6).
+Afirma que "a ilegalidade se manifesta na medida em que a resolução definitiva do processo-crime pendente contra a paciente não se afigura, na legislação pátria, como requisito necessário para o julgamento de pedido de progressão ao regime semiaberto, a teor do previsto no artigo 112 da Lei de Execução Penal" (fl. 7).
+Requer a concessão da ordem, a fim de "ver cassado o ato coator e, consequentemente, determinado o imediato julgamento do pedido de progressão ao regime semiaberto, junto ao Juízo de origem, independentemente do resultado da ação penal ainda em curso" (fl. 11).
+Sem pedido liminar.
+Prestadas as informações, o Ministério Público Federal opina pelo não conhecimento do writ.
+O acórdão recorrido está assim fundamentado (fls. 115-116):
+Por fim, ao contrário do alegado pela impetrante, o pedido de progressão está pendente de julgamento essencialmente em razão da determinação de exame criminológico, tendo a requisição de informações sobre o outro processo em face da sentenciada, conforme expressamente consignado na decisão de fls. 276/277 dos autos principais, se dado para o fim de se avaliar eventual necessidade de unificação de penas.
+Assim, embora a outra ação penal na qual a Paciente é ré possa não influenciar nos requisitos para a progressão de regime no presente processo, certo é que o julgamento do pedido do benefício não está pendente em razão do pedido de informações referentes ao mencionado processo, mas, sim, devido à regular determinação de exame criminológico, cujo procedimento está em andamento.
+Assim, inclusive porque não se verifica manifesta ilegalidade a ponto de justificar deferimento de ordem de ofício, de rigor o não conhecimento do Habeas Corpus, que não se presta ao exame aprofundado de matéria de Execução Penal.
+Diante de todo o exposto, pelo meu voto, NÃO SE CONHECE DA IMPETRAÇÃO.
+Como se pode observar, o Tribunal de origem não conheceu do writ impetrado na origem, ao fundamento de que "certo é que o julgamento do pedido do benefício não está pendente em razão do pedido de informações referentes ao mencionado processo, mas, sim, devido à regular determinação de exame criminológico, cujo procedimento está em andamento".
+Assim sendo, ao contrário do alegado pela defesa, a demora na apreciação do benefício se dá em razão da realização de exame pericial, não se verificando ilegalidade manifesta passível de ser reconhecida nesta seara.
+Vale destacar que, consoante as informações prestadas pelo Juízo de 1º grau (fl. 200), a paciente se encontra em liberdade, o que afasta a urgência na análise do pleito ou o deferimento da ordem , de ofício.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
