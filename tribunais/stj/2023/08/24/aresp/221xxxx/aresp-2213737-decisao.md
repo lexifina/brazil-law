@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por EDIMAR DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 186):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - INSCRIÇÃO NOS CADASTROS DE INADIMPLENTES - ORIGEM DO DÉBITO - COMPROVADA - EXERCÍCIO REGULAR DE DIREITO - 1. É entendimento consolidado do SEI de que a própria inclusão ou manutenção equivocada configura o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos. 2. Comprovada a origem do débito em discussão, a negativação do nome do devedor se deu no exercício regular de direito do credor.
+Rejeitados os embargos de declaração opostos (fls. 210-219).
+No recurso especial, o recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 186, 187 e 927 do CC, 6º, III, e 14 do CDC e no art. 373, II, do CPC, ao passo que aponta divergência jurisprudencial com arestos de outros tribunais.
+Sustenta, em síntese, que, "quando a parte ré, ora recorrida, reconhece que não houve culpa do autor pelo atraso, "que se deu por ausência de repasse "pela fonte pagadora - INSS - dos valores descontados em beneficio previdenciário, cabia tão somente a ela notificar o autor, ora recorrente, sobre os atrasos e propiciar-lhe outros meios de saldar o débito em atraso. O que não restou demonstrado nos autos. Ônus que lhe cabia. Dessa forma, há violação dos dispositivos legais que disciplinam a responsabillização civil por ato ilícito diante da negativação indevida - artigos. 186 a 188, e 927 do CC, já que, no caso em tela, não é possível se falar em exercício regular de direito" (fls. 229-230).
+Sem contrarrazões ao recurso especial (fl . 271).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 273-275), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 291).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso não merece conhecimento.
+O Superior Tribunal de Justiça tem entendimento pacífico de que o dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes, prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato (AgInt no AREsp n. 1.745.021/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/3/2021, DJe de 29/4/2021).
+Contudo, no caso dos autos, o Tribunal de origem expressamente consignou que a inscrição do nome do recorrente em cadastro de inadimplentes não ocorreu de forma irregular, porquanto, comprovada a existência de débito. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 189-191):
+Com efeito, a reparação pelos danos morais sofridos, em se tratando de negativação indevida, na esteira dos julgados do Superior Tribunal de Justiça, é devida in re ipsa.
+ ..
+Corroborando o acima prelecionado, no caso do dano moral in re ipsa, não é necessária a apresentação de provas que demonstrem a ofensa á moral da vítima. O próprio fato já se configura como dano. Uma das hipóteses ocorre quando o prejuízo deriva da inserção, indevida, do nome em cadastro de inadimplentes.
+Na petição inicial, afirmou a autora que é indevida a negativação do seu nome, uma vez que não reconhece o débito que gerou a inscrição nos cadastros restritivos de crédito.
+Por outro lado, a fim de se desincumbir do seu ônus, a ré cuidou de apresentar em juízo a documentação junto à contestação, de onde é possível extrair todas as informações pessoais da parte autora, além de contrato assinado com o valor da dívida inscrita, conforme fls. 39 e seguintes.
+Deve-se mencionar que a parte autora não nega a existência de relação jurídica entre as partes. Ademais é possível verificar que a própria parte autora afirmou que houve suspensão de seu benefício previdenciário.
+Portanto, levando em conta a ausência de margem consignável, cabia à parte autora quitar a parcela por outros meios, o que não foi demonstrado in casu.
+Portanto, tem-se que, após a comprovação da origem da inscrição dita como indevida, a parte ré cumpriu com seu ônus probatório.
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à existência do débito, exige o reexame de fatos e provas, o que é vedado em recurso especial pelo óbice da Súmula n. 7/STJ.
+Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INDENIZATÓRIA. INSCRIÇÃO REGULAR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, consignou não ter ficado comprovado o fato constitutivo do direito da parte autora, no que tange ao pleito de indenização por dano moral por inscrição indevida nos cadastros restritivos de crédito, pois "a negativação foi considerada válida e regular por r. decisão judicial com trânsito em julgado".
+3. A alteração do contexto fático delineado pelo acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.598.925/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/5/2020, DJe de 25/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CESSÃO DE CRÉDITO E QUITAÇÃO QUE NÃO INCLUIU O CONTRATO DO QUAL DECORREU A INSCRIÇÃO IMPUGNADA. MANUTENÇÃO DO NOME DA PARTE NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO DE FORMA REGULAR. ALTERAÇÃO DA CAUSA DE PEDIR POR FATO OCORRIDO POSTERIORMENTE AO AJUIZAMENTO DA AÇÃO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando os documentos acostados aos autos, concluiu que a dívida que gerou a inscrição impugnada não foi cedida pelo banco recorrido, portanto, não foi paga no acordo firmado pela autora com o cessionário, sendo lícito o registro em cadastro de inadimplentes. A alteração das premissas fáticas delineadas pelo acórdão recorrido demandaria a reanálise do contexto fático-probatório dos autos, providência, todavia, incabível em sede de recurso especial, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes da inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da lide.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.437.753/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2019, DJe de 9/10/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
