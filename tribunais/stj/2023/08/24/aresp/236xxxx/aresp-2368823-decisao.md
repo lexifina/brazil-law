@@ -1,0 +1,44 @@
+DECISÃO
+  Trata-se  de  agravo  em  recurso  especial  interposto  por  KERRY ANNE VIANA FERREIRA (ou KERRY FERREIRA)  contra  decisão  que  inadmitiu  recurso  especial  com  fundamento  na s  Súmulas  n.  7  e 83 do  STJ.
+Alega  a  agravante  que  os  pressupostos  de  admissibilidade  do  recurso  especial  foram  atendidos.
+  O  recurso  especial,  fundado  no  art.  105,  III,  a  e  c,  da  Constituição  Federal,  foi  interposto  contra  acórdão  do Tribunal de Justiça do Estado de Minas Gerais  (Apelação  Cível  n.  1.0000.21.244982-1/001)  assim  ementado  (fl.  385):
+
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE SERVIÇOS EDUCACIONAIS - JUROS MORATÓRIOS - INCIDÊNCIA CONFORME PACTUADO ENTRE AS PARTES - COBRANÇA DO DÉBITO JÁ ATUALIZADO - CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS -TERMO A QUO. A obrigação decorrente de contrato de prestação de serviços escolares é positiva, líquida e a termo certo, verificando-se a mora do contratante a partir do efetivo inadimplemento de cada mensalidade escolar, devendo ser este o termo a quo para incidência dos encargos moratórios previstos no contrato. Verificando-se, entretanto, que o valor declinado na inicial representa o débito principal já acrescido de juros de mora, correção monetária e multa, é devida, apenas, a atualização do débito cobrado a partir do ajuizamento da ação, atualizado mediante planilha juntada à inicial, e a incidência de juros de mora desde a citação (responsabilidade contratual), pois, o contrário, importaria em bis in idem, o que não se admite.
+
+Os  embargos  de  declaração  opostos  foram  acolhidos sem efeitos modificativos  (fls.  417-421).
+No  recurso  especial ,  o  recorrente  aponta  violação  dos  arts. 371 e 489, § 3º, do Código de Processo Civil, alegando negativa de prestação jurisdicional, sob o argumento de que a Corte de origem "ao interpretar o termo relativo à fixação do consectário legal, correção monetária, não observou a boa-fé" (fl. 442).
+Aduz ainda dissídio jurisprudencial.
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não  merece  prosperar.
+Por  ocasião  do  julgamento  do recuso de apelação,  o  Tribunal  de  origem  analisou  as  questões  e  assim  decidiu  (fls.  387-389):
+Com efeito, vencida e não paga a mensalidade escolar, o devedor fica de pleno direito constituído em mora, devendo, desde então, arcar com os encargos dela decorrentes.
+Na mesma esteira, os juros moratórios também devem incidir sobre o valor principal da dívida desde o inadimplemento da obrigação.
+A se entender de modo diverso, estaríamos permitindo o enriquecimento injustificado do devedor, em detrimento não apenas da Instituição de Ensino, mas também dos demais universitários, que pontualmente cumprem com suas obrigações.
+Quanto à incidência de correção monetária e juros moratórios nos casos de obrigação positiva e líquida, com vencimento certo, é o entendimento do C. Superior Tribunal de Justiça, recentemente pacificado no julgamento dos Embargos de Divergência em Recurso Especial, EResp 1.250.382, nos termos da seguinte ementa:
+ ..
+No caso em comento, considera-se que o prejuízo da autora, se deu a partir do não pagamento, no vencimento, das mensalidades devidas pela ré.
+No tocante à alegada contrariedade ao art. 489, § 3º, do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No que se refere à aplicabilidade dos juros moratórios, no presente caso, o Tribunal de origem consignou que "devem incidir sobre o valor principal da dívida desde o inadimplemento da obrigação" (fl. 388).
+Nesse contexto, o acórdão recorrido encontra amparo na jurisprudência firmada pelo STJ de que o início da fluência dos juros de mora é a partir do dia do vencimento da obrigação líquida e certa, por decorrer da relação de direito material.
+A propósito:
+PROCESSUAL CIVIL. OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. DEFICIÊNCIA NAS RAZÕES DO ESPECIAL. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO COMO VIOLADO. SÚMULA 284/STF. COBRANÇA DA DÍVIDA POR MEIO DE AÇÃO MONITÓRIA. MANUTENÇÃO DO INÍCIO DE FLUÊNCIA DOS JUROS DE MORA CONFORME A DATA DO VENCIMENTO ESTABELECIDO NA RELAÇÃO JURÍDICA DE DIREITO MATERIAL. AÇÃO MONITÓRIA DECORRENTE DE CÉDULA DE CRÉDITO COMERCIAL PRESCRITA E COM VENCIMENTO NA VIGÊNCIA DO CC/1916. PRAZO DE PRESCRIÇÃO. CINCO ANOS. INÍCIO DA CONTAGEM A PARTIR DA VIGÊNCIA DO CC/2002. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA NA ESPÉCIE. AUSÊNCIA DE INÉRCIA DO CREDORA.
+1. Devidamente decidida a causa, não há falar em omissão no acórdão do Tribunal de origem.
+2. São deficientes as razões do especial se não indicam, clara e precisamente, qual ou quais dispositivos de lei federal teriam sido violados.
+3. "O fato de a dívida líquida e com vencimento certo haver sido cobrada por meio de ação monitória não interfere na data de início da fluência dos juros de mora, a qual recai no dia do vencimento, conforme estabelecido pela relação de direito material"(EREsp n. 1.250.382/RS, Relator Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 2/4/2014, DJe 8/4/2014).
+4. O prazo de prescrição é de cinco anos para ação monitória, decorrente de cédula de crédito comercial prescrita e com vencimento na vigência do CC/1916. Conta-se a prescrição do início de vigência do CC/2002.
+5. Constando do acórdão do Tribunal de Justiça ter havido tentativas, várias, de citar o devedor, ora recorrente, sem êxito, não houve inércia da credora e portanto não existe prescrição intercorrente.
+6. Agravo interno não provido. (AgInt no REsp n. 1.564.161/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO COM OPÇÃO DE COMPRA. AÇÃO DE COBRANÇA. FIANÇA. LEGITIMIDADE PASSIVA. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. DÍVIDA LÍQUIDA E CERTA. JUROS DE MORA. VENCIMENTO DE CADA PARCELA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, acolher a tese pleiteada pela parte agravante, acerca da ilegitimidade passiva das partes, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que, em se tratando de dívida líquida e certa, os juros de mora incidem a partir do vencimento de cada parcela da obrigação.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.875.083/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Incide no presente caso a Súmula n. 83 do STJ.
+Ante  o  exposto,  conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos  termos  do  §  11  do  art.  85  do  CPC,  majoro,  em  favor  da  parte  ora  recorrida,  os  honorários  advocatícios  de  12%,  percentual  arbitrado  na  instância  de  origem,  para  15%  sobre  o  valor  atualizado  da  causa .
+  Publique-se.  Intimem-se.
