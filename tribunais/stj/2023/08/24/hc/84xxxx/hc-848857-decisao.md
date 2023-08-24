@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se e habeas corpus, com pedido liminar, impetrado em favor de DAVID GUILHERME TOVO - condenado em primeiro grau à pena total de 33 anos, 10 meses e 12 dias de reclusão, no regime inicial fechado, pelos crimes de tráfico de drogas e associação para o tráfico - apontando como autoridade coatora o Tribunal Regional Federal da 4ª Região.
+Em suas razões, a defesa alega ter interposto recurso de apelação contra a sentença condenatória, contudo, a Corte revisora não teria procedido à revisão da necessidade da prisão preventiva do réu, no prazo previsto no art. 316 do Código de Processo Penal, razão pela qual pede, em liminar e no mérito, a concessão da liberdade provisória em favor do paciente, mediante o cumprimento de outras cautelares, com a expedição do alvará de soltura.
+É o relatório, decido.
+Não há como prosseguir a irresig nação.
+Isso porque o writ foi deficitariamente instrução. Com efeito, a defesa não apresentou documentação no sentido de que tenha recorrido da sentença.
+Ainda que assim não fosse, vale ressaltar que o prazo do art. 316 do CPP não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade, devendo, conforme definido pelo STF, "o juízo competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos". (ADI 6581/DF e ADI 6582/DF, Rel. Ministro Edson Fachin, Rel. p/ acórdão Ministro Alexandre de Moraes, Plenário, julgados em 8/3/2022).
+No caso, do mesmo modo, não há comprovação de que a defesa tenha postulado a revisão da prisão junto ao Tribunal de apelação.
+Com efeito, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
