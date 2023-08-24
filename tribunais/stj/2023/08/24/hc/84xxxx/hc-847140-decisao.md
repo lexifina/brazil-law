@@ -1,0 +1,22 @@
+DECISÃO
+WILLIAM ASSIS DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501077-35.2019.8.26.0347.
+A defesa aduz, em síntese, que foi inidônea a fundamentação usada para majorar a pena-base, razão pela qual requer a sua redução.
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+O Juízo singular - em fundamentação chancelada pela Corte estadual - apresentou os seguintes argumentos para exasperar a pena-base da paciente (fl. 27, grifei):
+Por fim, a natureza e a quantidade da droga extrapolam o normal para o tipo, pelo que se justifica o aumento preponderante da pena em razão destes elementos, à luz do que determina o art. 42 da Lei n. 11.343/2006. Isso porque o réu guardava e trazia consigo, para fins de entrega a consumo de terceiros, venda e tráfico, 15,03g (quinze gramas e três centigramas) de maconha, bem como 3,88g (três gramas e oitenta e oito centigramas) de cocaína, sendo certo que esta é droga com elevado potencial lesivo.
+Assim, elevo a pena do réu e fixo a pena-base em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a quantidade e a natureza da droga apreendida constituam, de fato, circunstâncias preponderantes a serem sopesadas na dosimetria da pena, considero que a quantidade de substâncias apreendidas em poder da paciente - aproximadamente 15 g de maconha e 3 g de cocaína - foi muito pequena, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque, em regra, o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado pela Terceira Seção desta Corte por ocasião do julgamento dos EREsp n. 1.544.057/RJ (Rel. Ministro Reynaldo Soares da Fonseca, DJe 9/11/2016).
+Por consequência, a pena-base deve retornar ao mínimo legal.
+II. Nova dosimetria
+Em razão da modificação efetivada anteriormente, deve ser realizada nova dosimetria da pena.
+Na primeira fase, a reprimenda-base fica estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa.
+Na segunda etapa, incide a agravante da reincidência, que acarreta aumento de 1/6 e eleva a sanção a 6 anos de reclusão e 600 dias-multa.
+Na terceira fase, foi reconhecida a causa de aumento do art. 40, III, da Lei n. 11.343/2006, na fração de 1/6, de modo que a reprimenda definitiva deve ser fixada em 7 anos de reclusão e 700 dias-multa, mantidos os demais termos da condenação, não impugnados neste writ.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de fixar a pena-base no mínimo legal e, por consequência, reduzir a sanção da paciente a 7 anos de reclusão e 700 dias-multa, mantidos os demais termos da condenação.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
