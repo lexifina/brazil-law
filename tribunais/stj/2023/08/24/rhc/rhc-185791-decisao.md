@@ -1,0 +1,16 @@
+DECISÃO
+GILSON ANTONIO DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2159311-90.2023.8.26.0000, em que foi mantida a expedição de mandado de prisão sem prévia intimação do paciente para dar início ao cumprimento da pena.
+Asseriu a defesa, perante a Corte de origem, que "foi determinada a expedição de mandado de prisão em regime semiaberto sem intimação do sentenciado para dar início ao cumprimento da pena e a despeito da inexistência de vaga no regime intermediário".
+Na hipótese, apontou o Tribunal local que, "tendo ocorrido o trânsito em julgado da condenação em 20.06.2022, evidentemente não se aplicam as regras mencionadas pela Defesa, eis que tais normativas se restringem às hipóteses de trânsito em julgado posterior a 12.09.2022, conforme o item 5 do Comunicado CG 628/2022", concluindo "nada  haver  de irregular nos atos praticados pelo MM. Juiz a quo ao determinar a expedição do mandado de prisão".
+Todavia, nos termos da jurisprudência do Superior Tribunal de Justiça, " t ratando-se de paciente condenado  ..  em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada" (HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 11/11/2022, destaquei).
+Nesse mesmo sentido, o Parquet estadual oficiou pela concessão da ordem, nos seguintes termos:
+ ..
+Assim, considerando que o paciente respondeu ao processo em liberdade e foi condenado ao cumprimento de pena no regime inicial semiaberto, bem como a demora para início da execução que não pode ser imputada ao apenado, mais adequado que o Juízo impetrado adote as medidas cabíveis para disponibilização de vaga em estabelecimento prisional adequado ao regime intermediário, com posterior intimação do paciente para dar início ao cumprimento da pena, conforme disposto no artigo 23 da Resolução n. 417/2021-CNJ.
+Frisa-se que até o presente momento não consta que o Juízo impetrado tenha cumprido a liminar deferida nestes autos a fim de que fosse providenciada vaga para o paciente em estabelecimento adequado ao cumprimento de pena no regime semiaberto.
+Nesses termos, o parecer é pela concessão da ordem requerida em favor de Gilson Antônio dos Santos, confirmando a liminar de fls. 65/67.
+São Paulo, 11 de julho de 2023.
+DAVID CURY JÚNIOR
+Procurador de Justiça. (fl .42)
+Portanto, considerando-se que o próprio Ministério Público estadual assere que, "até o presente momento, não consta que o Juízo impetrado tenha cumprido a liminar deferida nestes autos a fim de que fosse providenciada vaga para o paciente em estabelecimento adequado ao cumprimento de pena no regime semiaberto", forçoso concluir que os elementos dos autos atestam a plausibilidade do direito tido por violado.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, dou provimento ao recurso, in limine, para, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, determinar o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo da Execução Penal que proceda à intimação do apenado para dar início ao cumprimento de sua pena.
+Publique-se e intime-se.
