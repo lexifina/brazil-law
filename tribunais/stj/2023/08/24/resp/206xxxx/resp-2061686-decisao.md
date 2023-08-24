@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJPR, assim ementado (fl. 2.945-2.950):
+JUÍZO DE RETRATAÇÃO EM AGRAVO DE INSTRUMENTO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS PARA GARANTIR HIPOTÉTICA MULTA CIVIL. IMPOSSIBILIDADE. VEDAÇÃO EXPRESSA DO ART. 16, § 10º, DA LEI Nº 8.429/92. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 489, § 1º, VI, e 1.022, I e II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa ao art. 7º da Lei n. 8.429/1992, com a redação original, em razão do não deferimento da indisponibilidade de bens em relação à multa civil.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 3.109-3.110.
+Parecer do Ministério Público Federal, às fls. 3.131-3.136, pelo não provimento do recurso especial.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão merece prosperar.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Quanto à matéria de fundo, recentemente, a Primeira Turma do STJ, por maioria, no julgamento do AREsp n. 2.031.414/MG, Rel. Min. Gurgel de Faria, realizado em 9/5/2023, seguindo a divergência apresentada pela Min. Regina Helena Costa, firmou orientação no sentido de conferir interpretação restritiva às hipóteses de aplicação retroativa da NLIA, adstrita aos atos ímprobos culposos não transitados em julgado (Tema 1.199 do STF).
+Na ocasião, a Min. Regina Helena Costa consignou que:
+Ademais, ressalvada intelecção contrária, infere-se das teses destacadas que o precedente qualificado oriundo do Tema n. 1.199 da repercussão geral diz com aspectos de natureza substantiva da atual disciplina da Improbidade Administrativa, notadamente o animus do agente e a prescrição da pretensão punitiva, em cotejo com as garantias fundamentais da retroatividade da lei penal mais benéfica e da segurança jurídica, cristalizadas no art. 5º, XL e XXXVI, da Constituição da República.
+É dizer, diante do semblante jurídico adjetivo dos §§ 1º e 2º do art. 21 da Lei n. 8.429/1992, incluídos pela Lei n. 14.230/2021, há de prevalecer o disposto no art. 14 do Código de Processo Civil de 2015, segundo o qual "a norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada".
+Nessa mesma linha de percepção, a Primeira Turma desta Corte, por unanimidade, no julgamento da PET no AgInt nos EDcl no AREsp n. 1.877.917/RS, Rel. Min. Benedito Gonçalves, em 23/5/2023, indeferiu o pedido de aplicação retroativa da NLIA a recurso que não ultrapassou o juízo de admissibilidade e cuja matéria de fundo também era distinta da definida no referido Tema 1.199/STF - na hipótese tratava-se de indisponibilidade de bens, assim como no caso dos autos.
+Destarte, à luz da teoria dos atos processuais isolados, tem-se que a norma de caráter processual atinge o processo no estágio em que ele se encontra. Logo, tendo em vista que já decretada a medida de indisponibilidade de bens quando da entrada em vigor da nova Lei, não há
+se falar em sua aplicação ao caso vertente.
+Nessa linha de percepção, vide: REsp n. 2.033.308, Ministro Benedito Gonçalves, DJe de 26/5/2023; AREsp n. 2.225.951, Rel. Min. Herman Benjamin, DJe de 2/3/2023.
+Com efeito, tem-se que o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte firmada anteriormente à entrada em vigor da NLIA, segundo a qual é possível a inclusão do valor de eventual multa civil na medida de indisponibilidade de bens decretada na ação de improbidade administrativa, inclusive naquelas demandas ajuizadas com esteio na alegada prática de conduta prevista no art. 11 da Lei 8.429/1992, tipificador da ofensa aos princípios nucleares administrativos (REsp n. 1.862.792/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 25/8/2021, DJe de 3/9/2021; REsp n. 1.862.797/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 25/8/2021, DJe de 3/9/2021).
+Dessa forma, no caso vertente, há de incid ir a exegese do art. 7º da Lei n. 8.429/1992 em sua redação original.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento, conforme fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. INDISPONIBILIDADE DE BENS. INAPLICABIL DADE RETROATIVA DA LEI N. 14.230/2021. CONHEÇO PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DOU-LHE PROVIMENTO.
