@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAURICIO SILVA BORGES DA CONCEICAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 363):
+TRÁFICO DE DROGAS RECURSO DO MINISTÉRIO PÚBLICO READEQUAÇÃO DA PENA: aumento da pena-base, reconhecimento da agravante da calamidade pública. FIXAÇÃO DE REGIME FECHADO Apelo provido.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses, no regime inicial semiaberto, além do pagamento de 583 dias-multa, como incurso no artigo 33, caput, da Lei n. 11.343/06.
+Em sede de apelação, o Tribunal de origem redimensionou a pena para 7 anos, 9 meses e 10 dias de reclusão, no regime fechado, além do pagamento de 777 dias-multa.
+Sustenta o impetrante, em síntese, a necessidade de afastamento da agravante do artigo 61, inciso II, alínea "j", do Código Penal (prática do delito durante o estado de calamidade pública gerado pela pandemia do coronavírus). Afirma que a referida agravante pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática da traficância, o que não teria ocorrido no caso.
+Requer, liminarmente e no mérito, que seja afastada a agravante, com a consequente diminuição da pena.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal se manifestou pela concessão da ordem.
+A respeito da controvérsia, assim consta do acórdão impugnado (fls. 364/365):
+Em relação à agravante da calamidade pública, também é caso de reconhecê-la.
+A lei não estabelece nenhuma outra condição para a incidência da agravante do art. 61, II, j, do Código Penal, que não a simples prática do delito em ocasião de calamidade pública, sendo certa tal situação, juridicamente declarada, na época dos fatos, não havendo necessidade de se demonstrar sua relevância para a prática do delito. Ademais, a pandemia de Covid-19 afeta todo o planeta, e gera uma séria crise econômica e necessidade de concentração de esforços do Estado em seu combate, só por isso já se exigindo mais responsabilidade dos cidadãos, não vindo a praticar delitos ou, por outro lado, punindo com mais rigor quem não os pratica. Isso sem mencionar a questão de saúde pública, devendo as pessoas evitarem sair às ruas desnecessariamente,quanto mais ainda para a prática de fatos ilícitos, o que denota significativo comprometimento de personalidade.
+Durante esse período o efetivo policial se apresenta mais reduzido e as baixas por contaminação tornam o momento propício à intensificação da prática de crimes por conta da menor fiscalização por parte das autoridades.
+Assim, na segunda fase a pena deve ser aumentada em 1/3 considerando as duas agravantes 07 anos, 09 meses e 10 dias de reclusão e pagamento de 777 dias-multa.
+Na derradeira etapa, afastado o redutor em razão da reincidência.
+Quanto ao regime de cumprimento de pena, o fechado se mostra o adequado, em atenção às circunstâncias especialmente gravosas. Cuida-se de tráfico, repita-se, de considerável quantidade e variedade de drogas com alta potencialidade lesiva e o réu é reincidente.
+Como evidenciado, a pena do paciente foi agravada na segunda fase da dosimetria considerando que "A lei não estabelece nenhuma outra condição para a incidência da agravante do art. 61, II, j, do Código Penal, que não a simples prática do delito em ocasião de calamidade pública, sendo certa tal situação, juridicamente declarada, na época dos fatos, não havendo necessidade de se demonstrar sua relevância para a prática do delito".
+O entendimento está em desacordo com a jurisprudência desta Corte, firme no sentido de que "decota-se a agravante de calamidade pública, porque "a incidência da agravante do art. 61, inciso II, alínea "j", do Código Penal - prática do delito durante estado de calamidade pública gerado pela pandemia do coronavírus - exige nexo entre tal circunstância e a conduta do agente" (AgRg no HC n. 717.298/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/2/2022, DJe 2/3/2022), o que não se verifica na hipótese dos autos.
+Assim, mantenho a pena-base em 5 anos e 10 meses de reclusão, e 583 dias-multa, conforme fixado na origem.
+Na segunda fase, incide a agravante da reincidência, devendo a pena ser aumentada em 1/6, restando estabelecida em 6 anos, 9 meses e 20 dias, mais 680 dias-multa, que fica assim definitivamente fixada em razão da ausência de causas de aumento ou de diminuição. Mantenho, no mais, os demais termos da condenação.
+Ante o exposto, concedo o habeas corpus para fixar a pena do paciente em 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa, mantidos os demais termos da condenação.
+Comunique-se.
+Publique-se.
+Intimem-se.
