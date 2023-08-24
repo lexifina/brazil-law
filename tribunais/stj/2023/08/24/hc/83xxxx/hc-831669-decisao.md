@@ -1,0 +1,22 @@
+DECISÃO
+RAFAEL ALISSON GONÇALVES DOS ANJOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2101856-70.2023.8.26.0000.
+A defesa pretende, em liminar e no mérito, a revogação da prisão preventiva decretada em desfavor do paciente.
+Deferida a liminar, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Depreende-se dos autos que, em 1º/4/2023, o paciente foi preso em flagrante pela suposta prática do crime descrito no art. 33 da Lei n. 11.343/2006.
+A prisão preventiva foi decretada pelo Juízo da Custódia com base na seguinte fundamentação (fls. 19-20):
+O caso é de conversão da prisão em flagrante em prisão preventiva. O laudo de constatação indica que a(s) substância(s) apreendida(s), descrita(s) no auto de exibição e apreensão, é(são)entorpecente(s) (Portaria nº 344/1998, SVS/MS), do que decorre a materialidade do delito de tráfico de drogas (art. 33, Lei nº 11.343/06), para o qual se prevê pena privativa de liberdade máxima superior a 4 (quatro) anos. Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, que apontam para o envolvimento do(a)(s)custodiado(a)(s)na atividade de comercialização dessas substâncias entorpecentes. Verifico, também, que o(a)(s)custodiado é reincidente, estando preenchido também o requisito previsto no art. 313, II, do CPP. Ademais, a quantidade de droga apreendida é considerável, tratando-se de 12 pedras de crack, pesando 1,5g, não se podendo asseverar neste momento que tal entorpecente seria destinado unicamente ao consumo pessoal.
+Impetrado habeas corpus perante o Tribunal a quo, a ordem foi denegada nos termos a seguir (fl. 21):
+HABEAS CORPUS Tráfico de drogas Pleito de revogação da prisão preventiva Impossibilidade Decisão suficientemente fundamentada Inteligência dos artigos312 e 313, I, do CPP - Presentes os requisitos ensejadores da decretação da medida - Inaplicabilidade de quaisquer das medidas cautelares previstas no art. 319, do Código de Processo Penal Inexistência de constrangimento ilegal - Ordem denegada.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu.
+Apoiado nessa premissa, constato que não se mostram suficientes as razões invocadas nas instâncias ordinárias para embasar a ordem de prisão da ora requerente.
+Depreende-se dos autos que foram apreendidos apenas 1,5 g de crack com o paciente.
+Embora, por um lado, o decisum impugnado pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade do paciente - o que se mostraria consentâneo com a sólida jurisprudência desta Corte, notadamente com o que tenho externado em outros casos (v. g., RHC n. 61.356/MG, DJe 6/11/2015) -, não há como perder de vista, por outro lado, que o Magistrado de primeiro grau mencionou a recidiva criminosa.
+Tais circunstâncias, na compreensão do Juiz de primeiro grau, evidenciariam a necessidade de manutenção da custódia cautelar para assegurar a aplicação da lei penal e evitar a reiteração delitiva.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído à acusada - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, considero ser suficiente e adequada a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+À vista do exposto, confirmo a liminar, a fim de conceder a ordem de habeas corpus para substituir a prisão preventiva decretada em desfavor do paciente pelas seguintes medidas cautelares, sem prejuízo de imposição de outras providências que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas:
+a) comparecimento periódico em juízo, sempre que for intimada para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades (art. 319, I, do CPP);
+b) proibição de ausentar-se da comarca sem autorização judicial (art. 319, IV, do CPP);
+c) monitoração eletrônica (art. 319, IX, do CPP).
+Publique-se e intimem-se.
