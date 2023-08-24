@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 393-405):
+"RECURSO EM SENTIDO ESTRITO - SENTENÇA DESCLASSIFICATÓRIA - IRRESIGNAÇÃO DO MINISTÉRIO PÚBLICO - PRONÚNCIA - IMPOSSIBILIDADE - AUSÊNCIA DE INDÍCIOS DA PRESENÇA DO ANIMUS NECANDI.".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 446-453).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 14, II, e 121, § 2º, I e VI, e § 2º-A, I, do CP; 413, caput e § 1º, do CPP; e 1.022 do CPC. Aduz para tanto, em síntese, que: (I) o Tribunal local não teria se pronunciado sobre os argumentos indicados nos aclaratórios; e (II) "os elementos probatórios citados no próprio aresto recorrido, bem como aqueles trazidos nas razões dos embargos de declaração ministeriais, demonstram que há, sim, indícios suficientes de que o réu iniciou a execução do crime de homicídio qualificado que lhe foi imputado, o qual somente não se consumou por circunstância alheias à sua vontade, o que enseja na obrigatoriedade da pronúncia" (e-STJ, fl. 463).
+Com contrarrazões (e-STJ, fls. 476-477), o recurso especial foi inadmitido na origem (e-STJ, fls. 479-482), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 510-513).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não supera o juízo de admissibilidade.
+Inicialmente, não conheço da alegada violação do art. 1.022 do CPC, porque a parte recorrente não indicou quais seriam os pontos sobre os quais o Tribunal local deveria ter se manifestado, limitando-se a apontar, genericamente, a existência de supostas omissões no aresto recorrido. Tal circunstância configura grave deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF, como mostram os julgados a seguir:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. ART. 16 DA LEI N.º 10.826/2003. VIOLAÇÃO DO ART. 619 DO CPP. SÚMULA 284/STF. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. ATIPICIDADE. NÃO CONFIGURAÇÃO. DELITO DE PERIGO ABSTRATO. PRESCINDIBILIDADE DO EXAME PERICIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à alegada violação do art. 619 do CPP, o acusado faz argumentações genéricas, deixando de especificar quais teses o acórdão recorrido deixou de analisar. Assim, incide a Súmula n. 284/STF, já que as razões recursais, no ponto, são deficientes e impedem a exata compreensão da controvérsia.
+ ..
+5. Agravo regimental não provido".
+(AgRg no AREsp 1647247/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/05/2020, DJe 13/05/2020; grifei)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL E PROCESSO PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OPERAÇÃO OURO VERDE. EVASÃO DE DIVISAS. VIOLAÇÃO DO ART. 619 DO CPP. RECORRENTE QUE NÃO APONTA AS OMISSÕES. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. NORMA PENAL EM BRANCO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. NULIDADES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A alegação genérica de que o Tribunal a quo eximiu-se de fazer menção explícita aos dispositivos suscitados, sem a indicação clara e precisa dos pontos supostamente omissos, não permite o exame da alegada violação ao art. 619 do Código de Processo Penal. Incidência da Súmula n.º 284/STF.
+ ..
+8. Agravo regimental desprovido".
+(AgRg no REsp 1493636/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/09/2019, DJe 17/09/2019; grifei)
+Sobre a pretendida pronúncia do acusado, a Corte de origem constatou que as provas apresentadas não são suficientes para indicar o animus necandi em sua conduta. É o que se colhe do acórdão recorrido (e-STJ, fls. 404-405):
+"Conforme se depreende dos autos, sobretudo pelo relato do Recorrido, da própria vítima e pelas circunstâncias fáticas, caso ele desejasse mesmo matar a vítima, teria feito. Assim, o animus necandi do acusado não restou suficientemente demonstrado a ponto de embasar a decisão de pronúncia.
+A meu ver, apesar da gravidade do ato de ameaçar a vítima com uma faca e lhe desferir um golpe, o conjunto probatório não demonstra a intenção de matar do Recorrido. Ao contrário, sugere o desejo do acusado de assustar a vítima e sobre ela se impor, sobretudo em razão da insatisfação com o fim do relacionamento.
+Além disso, restou demonstrado que, até a chegada da polícia, o acusado permaneceu conversando com a vitima, apontando-lhe a faca, mas sem agredi-la, não se olvidando que ele, estando frente a frente com a vítima, poderia tê-la golpeado por várias vezes, caso realmente pretendesse matá-la.
+Tal circunstância já demonstra, por si só, que o Recorrido não desejava matar a vítima, eis que, sendo mais forte do que ela e estando munido de uma faca, poderia tê-la matado, o que afasta, portanto, o animus necandi.
+Registra-se, ademais, que, logo que os policiais chegaram, o Recorrido entregou a faca e não ofereceu resistência à prisão.
+Constata-se, ainda, que o órgão acusatório, apesar das extensas razões recursais, não trouxe, nesse momento processual, elementos capazes de demonstrar, de forma irrefutável, a intenção de matar por parte do Recorrido.
+Por tais motivos e analisando as lesões sofridas pela vítima, por meio do laudo de exame de corpo de delito complementar de fl. 46, mantenho a desclassificação do delito imputado ao Recorrido, nos exatos termos da sentença".
+Assim, a inversão do julgado - para avaliar profundamente os elementos de prova que, na ótica do Parquet, demonstrariam o dolo homicida - demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"PENAL. PROCESSO PENAL. PRONÚNCIA. FILTRO PROCESSUAL. PROCEDIMENTO DO JÚRI. DESCLASSIFICAÇÃO DO FATO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE SUBSTRATO PROBATÓRIO MÍNIMO DO INTENTO HOMICIDA. REVERSÃO. SÚMULA 7 DO STJ.
+ ..
+3. Concluindo o Tribunal de origem, ao desclassificar o fato e afastar a competência do Júri, que "a vítima sofreu pequena lesão que não lhe causou perigo de morte", não havendo nos autos "outros elementos concretos que pudessem amparar a suposição de que os réus teriam agido com animus necandi, não há substrato probatório mínimo de que esses tenham agido com dolo homicida", a pretendida reversão do julgado exigiria incursão fático-probatória, o que encontra óbice na Súmula 7/STJ.
+4. Agravo regimental improvido".
+(AgRg no REsp n. 1.959.755/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. DECISÃO DE IMPRONÚNCIA. ALEGADA PRESENÇA DE PROVAS DA MATERIALIDADE DO CRIME. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se, ao final da primeira fase do procedimento escalonado do juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, bem como verificar se, por ocasião da decisão de pronúncia, eventual qualificadora se mostra improcedente ou descabida. Incidência do enunciado 7 da Súmula deste STJ" (AgRg no AREsp n. 636.030/BA, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/3/2016, DJe de 9/3/2016).
+2. No caso, a Corte originária não só afastou a existência do dolo eventual na espécie como também entendeu que as circunstâncias objetivas que serviram como justa causa para a pronúncia da agravada, quais sejam, o excesso de velocidade e o avanço do sinal vermelho, não se mostraram comprovadas pelas provas orais e pela perícia técnica, que teve por inconclusiva. Concluiu o Tribunal a quo, portanto, que os elementos de prova constantes do autos não eram suficientes para sustentar a pronúncia da agravada. A mudança dessa conclusão exigiria o reexame das provas, o que é vedado nesta instância extraordinária, a teor do disposto nas Súmulas n. 7/STJ e 279/STF.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.474.204/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2020, DJe de 8/9/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
