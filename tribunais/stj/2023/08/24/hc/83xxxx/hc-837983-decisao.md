@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DARLAN BISPO DOS SANTOS contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o paciente teve o pedido de indulto indeferido pelo Juízo da execução por não preencher os requisitos do Decreto Presidencial n. 11.302/22.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 10-17, com a seguinte ementa:
+HABEAS CORPUS - EXECUÇÃO PENAL -VIA IMPRÓPRIA - NÃO CONHECIMENTO DA IMPETRAÇÃO. As matérias relacionadas à execução de pena devem ser objeto de recurso de Agravo em Execução Penal, conforme art. 197 da Lei de Execução Penal, não se admitindo a utilização de Habeas Corpus como substitutivo do recurso próprio. V. V. HABEAS CORPUS - EXECUÇÃO PENAL-INDULTO - VIA IMPRÓPRIA - EXCEPCIONALIDADE - CONTROLE DE CONSTITUCIONALIDADE FEITA PELO JUIZO DE PRIMEIRO GRAU - NÃO CABIMENTO (ADI 7330) - FLAGRANTE ILEGALIDADE - HABEAS CORPUS CONCEDIDO DE OFÍCIO 1. Conforme entendimento firmado pela 1ª Turma do STF, não se admite habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração. Ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício. 2. O instituto do indulto possui a característica de perdão coletivo, de competência privativa e discricionária do presidente da República, é previsto expressamente no artigo 84, XII da Constituição Federal. 3. A Ação Direta de Inconstitucionalidade (ADI) 7330, no deferimento de liminar aborda trecho de Decreto 11.302, de 22 de dezembro de 2022 refere-se ao art. 6º, caput e parágrafo único, e do art. 7º, § 3º, do Decreto Presidencial 11.302/2022 que concedeu indulto natalino, não ao objeto do writ. Necessidade de análise dos requisitos pela autoridade coatora. 4. Ordem concedida de ofício.
+No presente writ, a defesa sustenta que o paciente faz jus ao indulto, uma vez que preenche os requisitos do Decreto Presidencial n. 11.302/22.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente tenha sua pena indultada nos termos do Decreto de Indulto de 2022.
+O pedido liminar foi indeferido (fls. 66-67).
+As informações foram prestadas às fls. 73-99.
+O Ministério Público Federal, às fls. 103-110, manifestou-se nos termos da seguinte ementa:
+Habeas Corpus substitutivo de recurso próprio. Execução Penal. - Indulto natalino. Decreto-lei 11.302/2022. Precedente. Interpretação sistêmica dos artigos 5º e 11. Requisitos. Necessária manifestação do juízo de execução. - Promoção pelo não conhecimento do writ ou, caso conhecido, pelo retorno dos autos ao juízo de execução para manifestação.
+É o breve relatório.
+Decido.
+A defesa sustenta que o paciente faz jus ao indulto uma vez que preenche os requisitos do Decreto Presidencial n. 11.302/22.
+No que se refere ao tema, consta do acórdão impugnado (fls. 12-13):
+Cabe-me, inicialmente, ressaltar que prevalece na jurisprudência entendimento no sentido de que não se admite a impetração do Habeas Corpus, quando utilizado em substituição ao recurso adequado, o que autoriza o não conhecimento do writ, excepcionados casos em que se constate flagrante ilegalidade, a fim de que a concessão da ordem seja realizada de ofício.
+Este entendimento visa preservar a utilidade e eficácia do remédio constitucional referido, destinado a proteger a liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, bem como assegurar a utilização da via correta do Agravo em Execução Penal, conforme fixado em norma própria (art. 197 da Lei de Execução Penal), que possui, inclusive, caráter mais amplo. Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+ ..
+Por conseguinte, o Habeas Corpus, em substituição do recurso próprio, só poderá ser analisado se constatada, de plano, manifesta ilegalidade que implique ofensa ao direito de liberdade do paciente, o que não se verifica no presente caso, em que, da consulta dos autos principais (4400118-16.2022.8.13.0394), não foi interposto o recurso de agravo a tempo e modo.
+Com tais considerações, não sendo a via do Habeas Corpus o instrumento jurídico próprio, bem como não vislumbrando nenhum constrangimento ilegal a ser sanado, mormente a não interposição do recurso cabível, NÃO CONHEÇO DA ORDEM IMPETRADA.
+Por sua vez, na manifestação do voto do vogal, consta (fls. 14-17) :
+Coloco-me de acordo com o voto da em. Desa. Relatora, mas peço vênia apara apresentar manifestação.
+Tenho me posicionado no sentido de que as questões relacionadas à execução penal, com amparo ao princípio da unirrecorribilidade das decisões, devem ser decididas pelo recurso aplicável, qual seja, o agravo em execução. Mas, também entendo que esse princípio não tem caráter absoluto.
+Na constituição brasileira, o indulto aplica-se aos condenados que preencham os requisitos objetivos e subjetivos estabelecidos e disciplinados pela norma presidencial, não se olvidando os termos do art. 5º, XLIII.
+Com efeito, a análise do decreto de indulto delimita ao delimitar o escopo do instituto, permite análise de plano.
+O requerimento de concessão do indulto já foi analisado pelo Juízo de origem que decidiu pela sua inconstitucionalidade, porém, tal assunto já foi, inclusive objeto de analise pelo STF.
+Na decisão monocrática:
+O artigo 5º, do Decreto nº 11.302/2022, ao dispensar, para a concessão do indulto, de quaisquer requisitos e basear-se tão somente na pena máxima abstratamente prevista para a infração penal objeto da condenação, criou um verdadeiro abolitio criminis para os tipos penais. E como é sabido, uma lei só pode ser modificada ou revogada por outra lei, salvo nos casos de leis temporárias (artigo 2º, LINDB).
+Ademais, em situações de urgência, o Presidente da República pode valer-se de medida provisória para revogar uma lei, mas jamais por decreto.
+Nesse sentido, ante a usurpação da competência privativa do congresso nacional (artigo 22, I, CF/88) e violação ao princípio da separação dos poderes (artigo 2º, CF/88), manifesta a inconstitucionalidade do artigo 5º, do Decreto nº 11.302/2022, a qual declaro, em sede de controle difuso de constitucionalidade.
+Por essas razões, indefiro o pedido de indulto formulado em favor do(a) condenado(a) DARLAN BISPO DOS SANTOS -doc. de ordem 03.
+Não há de se falar em inconstitucionalidade do referido indulto. Historicamente (BANDEIRA FILHO, 1878, p. 21. 92 FERREIRA, 2011, p. 62. 93 BRASIL. Constituição-1891), o instituto possui a característica de perdão coletivo, de competência privativa e discricionária do presidente da República, é previsto expressamente no artigo 84, XII da Constituição Federal ( art. 107, II do Código Penal, Súmula 631 do STJ(BONACCORSI, Daniela. As provas no processo penal moderno. D"Plácido, 2014, p. 100; PACELLI; CALLEGARI, Manual de Direito Penal -Parte Geral. 3ª edição. Atlas, 2017. p. 568)
+Não desconheço o questionamento da ADI 7330, quanto à inconstitucionalidade de trechos do decreto de indulto referene à 2022, porém, essa não abrange o art. 5º, objeto do writ A Ação Direta de Inconstitucionalidade (ADI) 7330, no deferimento de liminar suspende trecho de Decreto 11.302, de 22 de dezembro de 2022 no conteúdo que se refere à sua concessão de indulto a policiais militares condenados pelo massacre do Carandiru, referindo-se ao art. 6º, caput e parágrafo único, e do art. 7º, § 3º, do Decreto Presidencial 11.302/2022 que concedeu indulto natalino (STF, MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 7.330 DISTRITO FEDERAL):
+ ..
+Nestes pontos é que se fulcram as objeções que o Decreto 11.302/22 tem sofrido e a fundamentação da ADI 7.330: a inobservância dos limites materiais constitucionalmente previstos, dado que desde a Lei 8.930/94 o homicídio doloso qualificado foi incluído no rol de crimes hediondos da Lei 8.072/90 que trata especificamente da matéria.
+Ademais, há ampla aplicabilidade do indulto nos trechos não suspensos:
+ ..
+Não obstante, verifica-se do presente writ que a natureza do crime e o quantum da pena - cinco anos e quatro meses de reclusão, pela prática do crime de tráfico de drogas, não parecem se aplicar ao art. 5º do mencionado decreto: "Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+Com essas considerações, coloco-me de acordo com a I. Relatora.
+O D ecreto presidencial n. 11.302/2022 dispõe que será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Como se vê, o Tribunal de origem bem exarou que o paciente não preenche os requisitos exigidos pelo Decreto Presidencial nº 11.302/2022, para concessão do indulto, pois a pena final foi superior a 5 anos.
+Desse modo, não se verifica, pois, ilegalidade a justificar a intervenção desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE SUPERAÇÃO DO ÓBICE DA SÚMULA N. 691 DO STF. INDULTO. DECRETO N. 11.302/2022. NÃO PREENCHIMENTO DO REQUISITO RELATIVO À PENA MÁXIMA EM ABSTRATO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+2. Em verdade, o habeas corpus não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade da paciente. Somente em tal hipótese a jurisprudência, tanto do Superior Tribunal de Justiça quanto do Supremo Tribunal Federal, admite o excepcional afastamento do rigor da Súmula n. 691 do STF.
+3. O art. 5º do Decreto n. 11.302/2022 prevê que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+4. Portanto, se a paciente foi condenada pelo crime de furto qualificado, cuja pena máxima em abstrato é de 8 anos, evidencia-se o não preenchimento do requisito previsto no caput do art. 5º do Decreto n. 11.302/2022.
+5. Agravo regimental não provido.
+(AgRg no HC n. 822.644/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
