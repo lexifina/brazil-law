@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Eneias Martins de Souza - atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (Habeas Corpus n. 2205640-63.2023.8.26.0000) que manteve a prisão preventiva do paciente (decretada, em 2/11/2022, pela prática, em tese, de crimes de tráfico de drogas, por 36 vezes, e associação para o mesmo fim, no âmbito da denominada Operação Dise 47) -, não comporta processamento.
+Com efeito, busca a impetração o relaxamento da segregação cautelar imposta pelo Juízo de Direito da Vara Criminal da comarca de Tupã/SP, nos Autos n. 1501366-63.2022.8.26.0637, ao argumento de que a prisão cautelar já se prolonga há 9 meses, e até o presente momento não foram localizados todos os acusados para citação, não havendo previsão para início da instrução, causando constrangimento ilegal ao paciente (fl. 3).
+Ocorre que, além de se tratar de feito complexo (com 20 denunciados e vários fatos delituosos a apurar), em consulta à página eletrônica do Tribunal de Justiça de São Paulo, não se verifica desídia do Juízo de conhecimento no impulsionamento do feito, que, inclusive, foi desmembrado em relação ao paciente e aos demais acusados que respondem à ação penal custodiados (no dia 9/8/2023).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM (OPERAÇÃO DISE 47). PRISÃO PREVENTIVA. EXCESSO DE PRAZO. FEITO COMPLEXO (20 ACUSADOS E VÁRIOS FATOS DELITUOSOS A APURAR). AUSÊNCIA DE DESÍDIA DO JUÍZO DE CONHECIMENTO E EXISTÊNCIA DE PROVIDÊNCIA DESTINADA A EVITAR O ALEGADO CONSTRANGIMENTO. DESMEMBRAMENTO DA AÇÃO PENAL EM RELAÇÃO AOS ACUSADOS QUE RESPONDEM À AÇÃO PENAL CUSTODIADOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
