@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da 2ª Vara do Trabalho de Tangará da Serra - MT (suscitante) e o Juízo de Direito da 4ª Vara Cível de Fazenda Pública de Tangará da Serra - MT (suscitado), nos autos de tutela de urgência, em caráter liminar, contra o Município de Tangará da Serra - MT, a fim de que não se proceda a devolução do valor descontado no mês de março/2017 aos servidores e funcionários públicos de Tangará da Serra/MT, e realize o repasse de tais valores às entidades sindicais autoras (Sindicato dos Servidores Públicos Municipais de Tangará da Serra - SSERP e outros).
+É o relatório. Passo a decidir.
+Registre-se inicialmente que o presente processo atrai a incidência do Enunciado Administrativo n. 4/STJ, segundo o qual: "Nos feitos de competência cível originária e recursal do STJ, os atos processuais que vierem a ser praticados por julgadores, partes, Ministério Público, procuradores, serventuários e auxiliares da Justiça, a partir de 18 de março de 2016, deverão observar os novos procedimentos trazidos pelo CPC/2015, sem prejuízo do disposto em legislação processual especial".
+Dispensa-se a oitiva do Ministério Público Federal, em prestígio aos princípios da celeridade e da economia processual, além do caso dos autos estar fora das hipóteses previstas no artigo 178 do CPC/2015.
+A questão aqui posta cinge-se em definir a quem compete processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - ação proposta para discutir contribuição sindical obrigatória de servidores públicos.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça firma-se no sentido de que compete à Justiça comum estadual o processamento e julgamento de ações propostas para discutir contribuição sindical obrigatória de servidores públicos. Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL. SERVIDORES PÚBLICOS MUNICIPAIS ESTATUTÁRIOS. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. ACOLHIMENTO.
+1. Recurso extraordinário interposto contra acórdão da Primeira Seção, em que se declarou a competência da Justiça do Trabalho para julgar ação que versa sobre cobrança de contribuição sindical de servidores públicos com vínculo estatutário.
+2. O Supremo Tribunal Federal, no julgamento do RE 1.089.282/AM, realizado sob a sistemática da repercussão geral, firmou o entendimento de que "compete à Justiça comum processar e julgar demandas em que se discute o recolhimento e o repasse de contribuição sindical de servidores públicos regidos pelo regime estatutário".
+3. Juízo de retratação acolhido para conhecer do conflito de competência e declarar competente o Juízo de Direito da Vara Criminal e das Fazendas Públicas de Caçu - GO, suscitado, para julgar a demanda no que se refere à contribuição sindical dos servidores públicos municipais estatutários.
+(CC 143.263/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 26/05/2021, DJe 29/06/2021 - grifou-se)
+No mesmo sentido, destaca-se o seguinte julgado monocrático: AgInt no CC n. 183.336/RS, Ministra Regina Helena Costa, DJe de 09/06/2022.
+Posto isso, nos termos do artigo 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito da 4ª Vara Cível de Tangará da Serra - MT (suscitado).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONTRIBUIÇÃO SINDICAL. SERVIDORES PÚBLICOS MUNICIPAIS ESTATUTÁRIOS. REPERCUSSÃO GERAL. TEMA 994/STF. COMPETÊNCIA DO JUÍZO SUSCITADO.
