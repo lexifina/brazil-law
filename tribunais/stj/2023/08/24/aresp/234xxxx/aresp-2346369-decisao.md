@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por OSVALDO MOREIRA DA CRUZ contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos:
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - LIQUIDAÇÃO DE SENTENÇA - ILEGITIMIDADE PASSIVA - Ocorrência - Extrato do banco do Brasil - Execução de título referente à ação civil pública diversa - Extinção da ação como medida de rigor Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 334-317).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta, ainda, afronta aos arts. 317 e 801, também, do CPC, ao defender que demonstrou ser erro material o fato de ter, equivocadamente, juntado aos autos título executivo diverso do objeto da ação, mas que toda a fundamentação e cálculos levados aos autos basearam-se no título executivo correto. Aduz que o erro material poderia ser sanado, mas não lhe foi oportunizado prazo para a correção.
+Foram oferecidas contrarrazões ao recurso especial (fls. 354-366).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 376-378), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 393).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender pelo não cabimento do prosseguimento da execução, considerando a ausência do respectivo título executivo, e que, também, incabível a juntada do título naquele momento processual, firmou entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 307-308):
+Analisado os autos originais, de plano, constatou-se que, muito embora o recorrido tenha requerido a execução do título referente à Ação Civil Pública nº 0403263-60.1993.8.26.0053, com trâmite pela 6ª Vara da Fazenda Pública da Capital, o extrato juntado a fls. 26/29 (autos principais) cuida de conta poupança vinculada ao Banco do Brasil S. A., e não ao Banco Nossa Caixa S. A.
+Assim, o cumprimento de sentença requerido refere-se, em verdade, à decisão prolatada na Ação Civil Pública que teve trâmite no Distrito Federal, Brasília(autos nº 16.798-9/98), e não à decisão que tem servido de base para todos os poupadores que tem requerido o cumprimento de sentença pertinente à Ação Civil Pública nº 0403263-60.1993.8.26.0053, com trâmite pela 6ª Vara da Fazenda Pública da Capital, esta última, sim, vinculada ao Banco Nossa Caixa S. A.
+Então, havendo elementos materiais que deixam evidenciado que, no caso, não se trata de conta poupança mantida na Nossa Caixa, Nosso Banco, e referindo-se a sentença sob cumprimento apenas e tão somente a contas poupança de indicada Instituição Financeira, descabido prosseguir-se com a execução.
+Apenas por amor ao argumento, registre-se ser totalmente descabida a juntada do título de fls. 217/304, neste momento.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
