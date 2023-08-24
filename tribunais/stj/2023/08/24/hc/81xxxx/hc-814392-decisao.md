@@ -1,0 +1,34 @@
+DECISÃO
+CLAUDIOMIRO SOUZA RODRIGUES alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Revisão Criminal n.5001323-09.2023.8.24.0000).
+Neste writ, a defesa pleiteia o reconhecimento do privilégio no furto, sob o argumento de que o réu preenche todos os requisitos para a concessão da benesse, especialmente a primariedade e o pequeno valor da res furtiva.
+Indeferida a liminar (fls. 398-399) e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pela concessão da ordem (fls. 408-411).
+Decido.
+Consta dos autos que o paciente foi condenado, como incurso no art. 155, § 4º, I e IV, do Código Penal, à pena de dois anos de reclusão, em regime aberto, mais multa.
+A Corte estadual, por ocasião do julgamento da revisão criminal ajuizada pela defesa, afastou a pretendida aplicação do privilégio no furto, pelos seguintes argumentos (fls. 13-14, grifei):
+Contudo, embora seja tecnicamente primário, o revisionando não faz jus ao benefício, pois não restou demonstrado que a res furtiva possui valor inferior a um salário mínimo vigente à época dos fatos.
+A defesa junta na inicial um link de pesquisa realizada em página online de anúncios, a fim de demonstrar que o aparelho de DVD Philips é comercializado no valor de R$ 150,00 (cento e cinquenta reais) e o televisor LCD32"" H Buster vale R$ 350,00 (trezentos e cinquenta reais).
+Ocorre que a pesquisa realizada pela defesa técnica reflete valores atuais de aparelhos eletrônicos furtados há mais de 7 (sete) anos, ou seja, ignora que atualmente o aparelho DVD possui apenas valor histórico e o televisor certamente é de tecnologia obsoleta.
+Entretanto, à época que os bens foram objeto de cobiça pelo revisionando ainda possuíam valor comercial agregado, o que permite concluir facilmente que a pesquisa realizada pela defesa não reflete o valor dos bens na época dos fatos.
+O Decreto n. 8.618/2015 previa que o valor do salário mínimo era de R$ 880,00 (oitocentos e oitenta reais) quando da perpetração do crime. Deste modo, ainda que à mingua do termo de avaliação, os bens não podem ser considerados de "pequeno valor".
+Neste ponto, acertadamente manifestou a Procuradoria Geral de Justiça ao pontuar que "é certo que não se tem o preço exato dos aparelhos eletrônicos, mas considerar que é ínfimo é desarrazoado e os valores apresentados pela Defesa (Aparelho DVD Philips: R$ 150,00; Televisor LCD 32" H Buster: R$ 350,00), notadamente em relação ao televisor, não é compatível com o costumeiro, ainda mais no ano de 2016, quando foi perpetrado o crime e o bem tinha valor bem superior" (evento 13).
+De mais a mais, a jurisprudência de ambas as Turmas que compõe a Terceira Sessão do Superior Tribunal de Justiça é firme no sentido que "ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido (AgRg no AREsp 1846296/MA, Rel. Ministra LAURITA VAZ, SEXTATURMA, julgado em 5/10/2021, DJe 11/10/2021)". (AgRg no AREsp n.2.027.519/MA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe20/5/2022).
+De acordo com o art. 155, § 2º, do Código Penal, o reconhecimento do furto privilegiado depende do preenchimento dos critérios legais então elencados: ser o criminoso primário e de pequeno valor a coisa furtada. Nesta hipótese, o juiz deverá substituir a pena de reclusão pela de detenção, diminuí-la de 1 a 2/3, ou aplicar somente a pena de multa.
+Assim, para o reconhecimento do privilégio legal - direito subjetivo do réu -, a norma penal exige, de forma literal, a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada que, na linha do entendimento pacificado no Superior Tribunal de Justiça, não deve ultrapassar o valor de um salário-mínimo, vigente à época dos fatos.
+Nesse sentido:
+ ..
+1. A jurisprudência desta Corte Superior se encontra firmada no sentido de que o reconhecimento do privilégio legal é um direito subjetivo do réu, cujo deferimento exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada, que deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos (AgRg no REsp n. 1.486.001/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/5/2015).
+3. Agravo regimental improvido. (AgRg no HC n. 371.301/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017)
+No caso, a Corte estadual salientou que não ficou comprovado o valor da res furtiva, razão pela qual afastou a concessão do privilégio, diante da ausência do requisito objetivo do pequeno valor.
+O acórdão estadual está em consonância com a jurisprudência desta Corte Superior que, sobre o tema, já decidiu:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. RECONHECIMENTO DO PRIVILÉGIO. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DA RES FURTIVAE. ÓBICE AO RECONHECIMENTO DO BENEFÍCIO. PEQUENO VALOR DOS BENS NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. Não há se falar em privilégio, considerando a falta de laudo de avaliação dos bens furtados. Com efeito, nos termos da jurisprudência desta Corte, "ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido" (AgRg no AREsp 1846296/MA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/10/2021, DJe 11/10/2021).
+ ..
+4. Agravo desprovido.
+(AgRg no AgRg no HC n. 749.319/SC, relator Ministro Ribeiro Dantas, 5ª T., DJe de 13/9/2022.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES TENTADO. FURTO PRIVILEGIADO. MAUS ANTECEDENTES. ART. 28 DA LEI DE DROGAS. AFASTADOS. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DA RES. IMPOSSÍVEL PRESUMIR O VALOR. PRIVILÉGIO NÃO RECONHECIDO. RECURSO IMPROVIDO.
+1. Esta Corte superior entende que " a usente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2.º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido" (AgRg no AREsp n. 1.846.296/MA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021).
+ ..
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.906.309/MG, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 18/8/2022.)
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
