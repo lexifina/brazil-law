@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO. MATÉRIA DEVIDAMENTE ENFRENTADA.
+I - Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+II -No caso, a pretexto de sanar uma suposta omissão, o embargante objetiva o reexame da matéria já exaustivamente discutida, em razão de mero inconformismo. Tal pretensão, entretanto, é inadmissível na via dos embargos de declaração, conforme entendimento consolidado no Superior Tribunal de Justiça. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCOS PAULO MOREIRA DA SILVA contra acórdão da Quinta Turma que negou provimento ao agravo regimental (fls. 2.931-2.934), consoante ementa de fls. 2.931.
+O embargante sustenta, em síntese, que o acórdão recorrido é omisso, na medida em que não teria analisado os argumentos relativos à incidência da Súmula n. 83, STJ. Alega, nesse sentido, que abriu tópico específico no agravo em recurso especial para impugnar o referido enunciado de súmula e, embora não tenha mencionado nem refutado pormenorizadamente os precedentes utilizados pelo Tribunal de origem para inadmitir o apelo nobre, teria enfrentado todas as questões apontadas como paradigmáticas. Por fim, requer o provimento dos embargos de declaração a fim de que o vício apontado seja sanado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO. MATÉRIA DEVIDAMENTE ENFRENTADA.
+I - Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+II -No caso, a pretexto de sanar uma suposta omissão, o embargante objetiva o reexame da matéria já exaustivamente discutida, em razão de mero inconformismo. Tal pretensão, entretanto, é inadmissível na via dos embargos de declaração, conforme entendimento consolidado no Superior Tribunal de Justiça. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+No presente caso, todavia, não se verifica a omissão apontada ou qualquer dos vícios que permitem o manejo dos aclaratórios. Isso porque, ao contrário do que alega o recorrente, esta Turma analisou efetivamente os argumentos relativos à incidência da Súmula n. 83, STJ, e consignou no acórdão embargado os motivos pelos quais a impugnação expedida no agravo em recurso especial foi insuficiente. Veja-se (fls. 2933-2934):
+" ..  Verifica-se da decisão que o agravante deixou de infirmar especificamente todos os fundamentos utilizados pela Corte de origem para inadmitir o recurso especial. Embora tenha feito menção a alguns dos óbices indicados, não houve a impugnação efetiva, concreta e pormenorizada de cada um deles nas razões do agravo, limitando-se o agravante a refutar genericamente sua incidência e a renovar a discussão a respeito do mérito do apelo nobre.
+ ..
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1.962.016/SC, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 11/4/2022).
+ ..
+Destaque-se que o entendimento desta Corte é firme no sentido de que a Súmula n. 83 aplica-se não somente aos recursos especiais interpostos com base na alínea c mas também aos fundamentados na alínea a do permissivo constitucional."
+De fato, observa-se nas razões do agravo que o recorrente, além de não ter sequer mencionado os precedentes utilizados pelo Tribunal de origem para aplicar a Súmula n. 83, STJ, também não apresentou argumentos para afastar o referido óbice. Nesse ponto, houve, tão somente, a reiteração do mérito do recurso especial.
+Assim, verifica-se que, a pretexto de sanar uma suposta omissão, o embargante objetiva o reexame da matéria já exaustivamente discutida, em razão de mero inconformismo. Tal pretensão, entretanto, é inadmissível na via dos embargos de declaração, conforme entendimento consolidado desta Corte:
+" ..  1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.  .. " (EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+ ..  2. Não é possível o reexame da matéria já apreciada, na via dos declaratórios, que não se prestam para modificar o julgado, em vista do inconformismo do embargante.  .. " (EDcl no HC n. 717.216/SP, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT , DJe de 26/5/2023).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
