@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo apresentado por APARECIDA CLARA RAMOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DESCONTO EM FOLHA - EMPRÉSTIMO CONSIGNADO - LEGALIDADE DO CONTRATO - PARTE AUTORA PLEITEIA A RENÚNCIA DA DEMANDA - ADMISSÃO DA LEGALIDADE DO CONTRATO E DESC ONTOS - HOMOLOGAÇÃO E APLICAÇÃO DA PENA DE LITIGÂNCIA DE MÁ-FÉ - ALTERAÇÃO DA VERDADE DOS FATOS - COMPROVADA - ART. 80, INCISO II, DO CPC - PROVA INEQUÍVOCA - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 79, 80, II e 81, do CPC, no que concerne à necessidade de afastar a sua condenação por litigância de má-fé, haja vista a ausência de comprovação de que alterou a verdade dos fatos com ânimo doloso, trazendo a seguinte argumentação:
+7.1.1 DISPOSITIVOS CONTRARIADOS:
+-art. 79, do CPC; -art. 80, II, do CPC; -art. 81 do CPC
+O recorrente sustenta a contrariedade, pelas seguintes razões:
+-que não litiga de má-fé quem se utiliza de processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito;
+-que o litigante de má-fé é aquele que busca vantagem fácil, alterando a verdade dos fatos com ânimo doloso;
+-que em julgamentos de casos idênticos, houve o afastamento da má-fé, em razão da ausência de prova do ânimo doloso;
+ ..
+O recorrente foi condenado ao pagamento de multa por litigância de má-fé, com base no art. 80, II, do CPC: "alterar a verdade dos fatos;".
+Entretanto, não litiga de má-fé quem se utiliza do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito. Na realidade, o litigante de má-fé é aquele que busca vantagem fácil, alterando a verdade dos fatos com ânimo doloso.
+A maneira como a recorrente alegou os fatos na petição inicial é suficiente para afastar o ânimo doloso, até porque, se trata de pessoa idosa, indígena e de pouco instrução, circunstâncias que dão credibilidade a afirmação de que demandou porque não se recordava da contratação e do recebimento do crédito.
+ ..
+Portanto, para a condenação por litigância de má-fé é indispensável a comprovação irrefutável do elemento subjetivo (dolo ou culpa grave) do elemento objetivo (prejuízo causado à parte), não se admitindo a aplicação da multa pelo exercício do direito de ação, garantido pelo art. 5º, XXXV, da CF.
+Diante da ausência de comprovação de que o recorrente tenha alterado a verdade dos fatos, com intuito de induzir o juízo em erro, e causar prejuízo à recorrida, não há que se falar em condenação por litigância de má-fé (fls. 445-447).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, a recorrente alega divergência jurisprudencial do art. 80, II, do CPC, com relação ao mesmo tema da primeira controvérsia, trazendo a seguinte argumentação:
+O Tribunal de Justiça do Paraná manteve a sentença que julgou improcedente o pedido de declaração de inexistência de débito e condenou o recorrente ao pagamento de multa por litigância de má-fé, porque comprovou-se a existência do contrato e a disponibilização do crédito.
+Os Tribunais de Justiça do Rio Grande do Sul e de São Paulo, mantiveram as sentenças que julgaram improcedentes os pedidos de declaração de inexistência de débito, mas afastaram o pagamento de multa por litigância de má-fé, mesmo diante da comprovação da existência do contrato e a disponibilização do crédito, por conta da ausência de prova do dolo.
+ ..
+Assim sendo, demonstrado de forma analítica que o acórdão recorrido, tendo a mesma base fática, concluiu de modo diverso desta Colenda Corte, dos Tribunais de Justiça do Rio Grande do Sul e de São Paulo, quanto à aplicação do art. 80, do CPC, ou seja, da necessária comprovação do dolo para condenação nas penas de litigância de má-fé, enquanto que o acordão recorrido lastreou-se apenas no fato de ter sido ""reconhecida" a existência e validade do contrato, seja, exercício do direito de ação (fls. 448-452).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Aparecida Clara Ramos ajuizou a presente demanda pretendendo a declaração de ilegalidade de dois empréstimos consignados com o Banco Itaú Unibanco S/A: a) nº 0005109317720150225, no valor de R$ 1.290,00, com início em 03/2015, parcela mensal de R$ 36,72; b) nº 0021278325220170802, no valor de R$ 4.791,57, com início em 08/2017, parcela mensal de R$ 137,31 (mov. 1.1).
+Ainda, pleiteou a condenação do réu ao pagamento de indenização por danos morais no valor de R$ 50.000,00 (mov. 1.1).
+Após a apresentação da contestação, em que a instituição financeira comprovou a efetiva contratação dos financiamentos, a autora pleiteou a renúncia da presente demanda.
+Desse modo, a condenação da autora por litigância de má-fé deve ser mantida, apesar dos argumentos recursais, uma vez que voluntariamente omitiu a incontroversa relação havida com Instituição Financeira, da qual derivou o contrato de empréstimo e descontos.
+ ..
+Sabe-se que a litigância de má-fé não se presume, devendo ser devidamente comprovada nos autos.
+Nesse caso, contudo, a parte demandante omitiu informação essencial e necessária ao deslinde do feito, alterando a verdade dos fatos, pois ao contrário do que foi por ela alegada, a contratação questionada ocorreu através de cartão magnético e senha pessoal, de forma que o valor correspondente foi efetivamente recebido pela apelante.
+ ..
+Portanto, não há como ignorar distorção do princípio da boa-fé processual e da verdade dos fatos, já que a autora promoveu uma demanda contra a instituição financeira, questionando a validade de um contrato que sabia ser legítimo.
+Ou seja, a parte autora litigou de má-fé ao alterar a verdade dos fatos, alegando nunca ter contratado a parte demandada, ao passo que restou claro que tinha conhecimento do empréstimo contratado e legitimidade dos descontos. Ademais, após a apresentação da contestação e demonstrada a origem lícita do débito, a parte renunciou à demanda (fls. 406-408).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Quanto à segunda controvérsia, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
