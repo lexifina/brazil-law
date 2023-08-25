@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de MARCOS ALAN SILVA NEVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que, por meio da Décima Quinta Câmara de Direito Criminal, em 18/4/2022, deu parcial provimento aos recursos da acusação e da defesa para condenar o ora paciente (e outra pessoa) como incurso no art. 157, § 2º, II e V, e § 2º-A, I, por duas vezes, c/c o art. 70 do Código Penal, ao cumprimento de 14 anos, 11 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 62 dias-multa, no valor unitário mínimo (Apelação Criminal n. 1528623-83.2019.8.26.0050).
+Agora, após o trânsito em julgado da condenação, o impetrante vem alegar que o paciente cumpre pena em patamares elevados e excessivos, de acordo com a Lei, o Direito e a Justiça, fazendo-se necessária a atenção do Poder Judiciário ao caso em apreço (fl. 6).
+Requer, em liminar e no mérito, a concessão da ordem para retificar a pena imposta, procedendo às devidas reduções a que tem direito, além da retificação do regime inicial de cumprimento das penas (fl. 7).
+Estes autos foram a mim distribuídos por prevenção do HC n. 654.706/SP.
+É o relatório.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, em regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, o reexame da sua aplicação é admitido, excepcionalmente, nas hipóteses, por exemplo, de manifesta violação dos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, nos casos de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica. Sobre o tema, entre outros, o AgRg no HC n. 483.133/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/9/2019; e o AgRg no HC n. 577.396/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/4/2021.
+No caso, o impetrante nem sequer indicou de que maneira a Corte estadual teria inobservado qualquer dispositivo de lei ou deixado de motivar seu entendimento, tampouco demonstrou eventual erro no cálculo da pena do paciente. O impetrante pecou pela deficiente exposição do alegado constrangimento ilegal, limitando-se a afirmar ser excessiva a reprimenda.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. DUPLO ROUBO CIRCUNSTANCIADO COM EMPREGO DE ARMA DE FOGO. DOSIMETRIA DA PENA. FALTA DE DEMONSTRAÇÃO DO ALEGADO CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
