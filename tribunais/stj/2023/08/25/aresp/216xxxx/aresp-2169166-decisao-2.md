@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCELO RICARDO DE LIMA e outros (MARCELO e outros) contra decisão que negou seguimento ao apelo nobre que interpuseram.
+Foi apresentada contraminuta pelo BANCO DO BRASIL (BANCO) (e-STJ fls. 2.056/2.068).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegaram violação aos arts. 372, 398 e 400, todos do CPC e 6º, VIII, 47 e 51, IV, todos do CDC, ao sustentarem que (1) diante da inércia dos fornecedores em não apresentar o compromisso particular de compra e venda para aquisição do imóvel perante a Cantareira, que continha o prazo inicial de 11/2015 e da falta de contestação das provas que juntaram aos autos, deve ser considerado o prazo mais favorável ao consumidor para todos os recorrentes; (2) além da multa compensatória, é devido o pagamento das multas moratória e por rescisão contratual, em prol do equilíbrio contratual na hipótese; e (3) comprovaram a divergência jurisprudencial quanto a violação dos arts. 157, §1º e 170, ambos do CC e a necessidade da majoração dos danos morais.
+(1) Do prazo aplicado (2) Dos valores devidos
+Nas razões de seu recurso, MARCELO e outros afirmaram a violação dos arts. 372, 398 e 400, todos do CPC e 6º, VIII, 47 e 51, IV, todos do CDC, sustentando, em síntese, que a inércia dos fornecedores em apresentar o contrato bem como a falta de impugnação dos documentos que apresentaram nos autos, lhe garantem a interpretação mais favorável do contrato em vistas do equilíbrio contratual.
+Contudo, o Tribunal estadual não se pronunciou sobre os argumentos referentes a violação dos arts. 372 e 398, ambos do CPC e 6º, VIII, 47 e 51, IV, todos do CDC, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento e da ausência de violação do disposto no art. 1.022 do CPC, não há como serem analisadas aludidas teses trazidas no recurso especial, em razão da Súmula 211 do STJ.
+Quanto ao art. 400 do CPC, o TJPR declarou expressamente que:
+Ainda que, por força do dispositivo supracitado, deva o juiz admitir como verdadeiros os fatos que a parte pretendia provar por meio de documentos em poder dos requeridos quando estas provas não forem apresentadas (como os contratos, no presente caso), tal norma, per se, não implica, necessariamente, o provimento do pedido, mormente porque, como já exposto, pode ser caso de prova negativa ou, então, pode inexistir previsão legal a amparar o pleito. (e-STJ fls. 1.737/1.738)
+Inobstante, verifica-se que não há qualquer razão para se adotar aquele instrumento (mov. 1.40) como prova emprestada. Afinal, ainda que as corrés não tenham impugnado, de maneira específica, aquele documento, verifica-se que a instituição financeira ré trouxe, em sua contestação, o contrato de compra e venda de todos os autores (mov. 67.2; 67.3; 67.5; e 67.6).
+Assim, não há como se adotar aquele contrato (apócrifo, na medida em que não há nome do comprador ou valor doimóvel) em detrimento dos instrumentos que foram efetivamente firmados pelos ora requerentes. (e-STJ fl. 1.752)
+Da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Finalmente, o Tribunal estadual, ao decidir sobre o prazo de entrega, com base nos contratos firmados entre as partes, consignou que "todos os contratos preveem, de maneira inteligível e clara, o prazo para a construção do imóvel" (e-STJ fl. 1.749) e "havendo a fixação de duplo prazo para a conclusão das obras, o que se mostra evidentemente ambíguo, necessária a observância daquela mais favorável aos aderentes ou, no caso, consumidores" (e-STJ fl. 1.749).
+Já quanto a alegação de necessidade de pagamento das multas moratória e por rescisão contratual, o v. acórdão recorrido entendeu, em um primeiro momento, pela possibilidade de aplicação daquela, em virtude da sua expressa previsão em caso de inadimplência e da sua inversão, por se tratar de contrato de adesão, assim como a impossibilidade de sua cumulação com os lucros cessantes.
+Contudo, logo em seguida, ponderou que apesar da possibilidade da incidência da multa moratória, no presente caso ela não poderia ser aplicada na medida em que a r. sentença deferiu os lucros cessantes, que não podem ser com ela cumulados e que não foram objeto do recurso de apelação, ao consignar que:
+E, analisando-se estes instrumentos, verifica-se que há previsão expressa de multa moratória em caso de inadimplemento do financiamento (item "condições de financiamento")-, no percentual de 2% (dois por cento):
+ ..
+Nessa linha, destaca-se que o c. Superior Tribunal de Justiça, quando do julgamento do REsp nº 1614721/DF, entendeu pela possibilidade de aplicação da cláusula penal de forma inversa:
+ ..
+Assim, levando-se em consideração que o instrumento contratual é de adesão e imputa apenas aos consumidores a multa pelo inadimplemento contratual, necessária é a inversão da cláusula que prevê a multa moratória, tendo em vista o inadimplemento das corrés para com a entrega do imóvel.
+Esta, contudo, não é passível de cumulação com os lucros cessantes, já reconhecidos por sentença e que não foram objeto de recurso por parte das corrés. Desse modo, não sendo os lucros cessantes objeto de insurgência, não há como se deferir a inversão da cláusula penal moratória (e-STJ, fls. 152/153)
+Assim, rever essas conclusões demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(3) Da divergência jurisprudencial
+Por fim, MARCELO e outros afirmaram dissídio jurisprudencial pois o acórdão recorrido "dá interpretação diversa ao §1º do Art. 157 e 170, ambos do Código Civil" (e-STJ fl. 2.015) e juntam dois paradigmas no apelo especial.
+Além disso, fundamentaram a necessidade da majoração do dano moral na interpretação equivocada do art. 988 do Código Civil.
+Do exame do recurso especial, verifica-se que MARCELO e outros não cumpriram a tarefa no tocante ao dissídio interpretativo viabilizador do recurso especial, que não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se, notadamente, a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do CPC, e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+Por fim, comparando as alegações trazidas por MARCELO e outro e o dispositivo legal apontado como fundamento para a majoração do dano moral, se percebe que este não possui conteúdo normativo apto a amparar a tese agora defendida.
+Em assim sendo, quanto ao ponto, porque inviabilizada a compreensão da controvérsia, o recurso também não pode ser conhecido em virtude da deficiência na sua fundamentação.
+Incide, outrossim, a Súmula nº 284 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de MARCELO e outros , limitados a 20%, nos termos do art. 85, §11, do CPC, e observada a justiça gratuita deferida nos autos.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E ENTREGA DE COISA CERTA C.C. REPARAÇÃO DE DANOS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E COTEJO ANALÍTICO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
