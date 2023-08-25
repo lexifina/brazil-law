@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto em favor de ELIETE DAMASCMO CAMPOS CAPISTRANO, contra acórdão proferido pelo e. Tribunal de Justiça do Estado do Ceará, no julgamento do HC n. 0640608-80.2022.8.06.0000.
+Depreende-se dos autos que a recorrente foi condenada, em primeira instância, pela prática do delito tipificado no art. 121, § 2º, incisos I e IV c/c art. 14, inciso II c/c art. 29, todos do Código Penal, à pena de 6 (seis) anos e 6 (seis) meses de reclusão, a ser cumprida inicialmente em regime semiaberto. (fls. 22-37).
+Inconformada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem, consoante voto condutor do v. acórdão de fls. 397-405.
+Dai o presente recurso ordinário, onde a recorrente aponta constrangimento ilegal na negativa de reconhecimento da prescrição da pretensão executória.
+Para tanto, sustenta que "este Superior Tribunal de Justiça, em sede do Agravo Regimental no Habeas Corpus nº 603.139/SP, pontuou que "deve-se manter como marco interruptivo para a aferição da prescrição da pretensão executória o trânsito em julgado para a acusação, pois trata-se de interpretação da atual redação do art. 117, IV, do CP, modificado pela Lei n. 11.596/2007, e a lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores"" (fl. 415).
+Aduz, ainda, que " .. atualmente, prevalece o entendimento no sentido de que o prazo de prescrição da pretensão executória tem início com o trânsito em julgado para a acusação e não quando a decisão transita em julgado para ambas as partes." (fl. 418).
+Requer, assim, o provimento ao presente recurso ordinário para reconhecer a prescrição da pretensão executória da pena imposta à recorrente.
+Não houve pedido liminar.
+O Ministério Público Federal, às fls. 428-43, manifestou-se pelo não provimento do recurso ordinário.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração o reconhecimento da prescrição da pretensão executória da pena.
+O entendimento jurisprudencial desta Corte a respeito da contagem de prazo da prescrição da pretensão executória sofreu alterações. Até recentemente, esta Corte entendia que o termo inicial da contagem do prazo era o do trânsito em julgado para a acusação, conforme expressamente estabelecido no art. 112, inciso I, do Código Penal. No entanto, a Terceira Seção, ao julgar o AgRg no REsp n. 1.983.259/PR, em, 26 de outubro de 2022, modificou sua compreensão sobre o tema, alinhando-se ao posicionamento já manifestado pelo Supremo Tribunal Federal, no sentido de que a prescrição da pretensão executória tem como marco inicial o trânsito em julgado para ambas as partes, tendo em vista que, somente a partir desse momento processual, é possível se falar em possibilidade de execução da pena.
+Nesse mesmo sentido: (EDcl no AgRg no HC n. 764.111/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/3/2023, DJe de 20/3/2023); (AgRg no REsp n. 1.999.878/RS, de minha relatoria, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022); (AgRg no AREsp n. 2.174.685/PB, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 7/3/2023, DJe de 15/3/2023).
+Na hipótese, a paciente foi condenada pela prática do delito tipificado no art. 121, §2º, incisos I e IV c/c art. 14, inciso II, c/c art. 29, todos do Código Penal, à pena de 06 (seis) anos e 06 (seis) meses de reclusão, a ser cumprida inicialmente em regime semiaberto. Nos termos do art. 109, inciso III, o prazo prescricional é de 12 (doze) anos.
+A sentença a sentença transitou em julgado para ambas as partes no dia 10/06/2014, sendo esta data a ser considerada para o cômputo inicial do prazo prescricional. Assim, entre o trânsito em julgado da condenação (10/06/2014) e o início do cumprimento da pena (03/08/2022), decorreram 08 (oito anos) e 1 (um) mês, logo prazo menor do que 12 (doze) anos.
+Nesse compasso, não se verifica a ocorrência do instituto da prescrição da pretensão executória no presente caso.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
