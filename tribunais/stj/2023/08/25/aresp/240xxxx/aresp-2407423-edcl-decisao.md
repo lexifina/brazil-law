@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADALBERTO ALVES DA SILVA à decisão de fls. 288/289, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que em seu Agravo em Recurso Especial, o Embargante traz como fundamentação de seu pedido o fato de que apresentou recurso dentro do prazo informado pelo sistema PJE do tribunal de origem.
+O Acórdão teve sua publicação no dia 13/01/2023, iniciando sua contagem de prazo dia 24/01/2023, tendo o sistema PJE trazido aos advogados como prazo limite para interposição de recurso, o dia 15/06/2023. Ou seja, o Autor apresentou recurso dentro do prazo informado pelo tribunal como limite:
+ ..
+Tal informação não foi citada na Decisão que fundamentou o não conhecimento do recurso, ao contrário, houve a citação de que não existiu juntada de documento que comprovasse feriado, situação que não foi alegada pelo recorrente.
+Inclusive, essa corte possui diversas decisões que firmam o entendimento que o erro em sistema eletrônico de tribunal na indicação do término do prazo recursal é apto a configurar justa causa, prevista no artigo 223, parágrafo 1º do Código de Processo Civil, para afastar a intempestividade do recurso. Nesse sentido o AgInt no AgInt nos EDcl no REsp 1927537 RJ 2021/0075989-0, de 30/05/2022, Relator Ministro Sérgio Kukina; também o EREsp 0019238-21.2016.8.11.0015 MT 2019/0085169-5, de 18/11/2020, Relator Ministro Mauro Campbell Marques; e ainda o EAREsp 1759860 PI 2020/0240127-7, datado de 16/03/2022, Relatora Ministra Laurita Vaz (fl. 293).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020).
+No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco, pois, além de ter trazido apenas "prints" na petição do agravo (fl. 267) e, agora, nestes aclaratórios (fl. 293), não há como vinculá-los ao processo, por sequer possuírem número de origem, assim como não é possível aferir se os mesmos foram realmente extraídos do sistema eletrônico do Tribunal de origem.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
