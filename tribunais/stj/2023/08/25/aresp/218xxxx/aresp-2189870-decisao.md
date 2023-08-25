@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA AMÉLIA DA SILVA LYRIO E OUTRO (MARIA AMÉLIA e outro) contra decisão que negou seguimento ao seu apelo nobre.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, MARIA AMÉLIA e outro alegaram a violação dos arts. 489, 927 e 1.022 do CPC, 39, V, XIII e 51, IV do CDC; 15 da Lei nº. 9.656/98; e 15 do Estatuto do Idoso, ao sustentarem, (1) negativa de prestação jurisdicional, na medida em que o acórdão impugnado "não aferiu se firam observadas as normas expedidas pelos órgãos governamentais reguladores, notadamente, a variação acumulada entre a sétima e décima faixas que não pode ser superior à variação cumulado entre a primeira e sétima faixa."; e (2) que houve abusividade nos reajustes praticados pela UNIMED.
+Pois bem !
+(1) Da negativa de prestação jurisdicional
+Não se verifica, no caso, a alegada assertiva, porquanto a Corte capixaba apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Afasta-se, portanto, a prefacial.
+(2) Dos reajustes
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo 1.568.244/RJ (DJe de 19/12/2016), firmou entendimento no sentido de que é válida cláusula em contrato de plano de saúde que prevê reajuste de mensalidade fundado na mudança de faixa etária do beneficiário, desde que: (i) haja previsão contratual; (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores; e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso (Tema 952/STJ).
+No caso dos autos, o Tribunal de origem consignou o seguinte:
+Anota-se que, sem os reajustes anuais, a primeira faixa etária do contrato coletivo corresponde à mensalidade de R$ 42,12 (quarenta e dois reais e doze centavos), e a última faixa etária, na qual se encontravam os apelantes quando aderiam ao plano, corresponde à mensalidade de R$ 246,29 (duzentos e quarenta e seis reais e vinte e nove centavos), cujo valor não ultrapassa seis vezes o valor da primeira faixa etária  fl. 60.
+Sobre a variação acumulada, prevista no Art. 3º, II, da Resolução Normativa nº 63/2003 da ANS, somando-se o percentual aplicado entre a primeira e á sétima faixas (96,43% - noventa e seis inteiros e quarenta e três centésimos por cento), e o percentual aplicado entre a sétima e a décima faixas (133,68% - cento e trinta e três inteiros e sessenta e oito centésimos por cento), previstos na tabela de fl. 63, encontra-se o valor do percentual de reajuste cobrado a maior de 37,25% (trinta e sete inteiros e vinte e cinco centésimos por cento), que deveria ser subtraído do último percentual de reajuste aplicado (79,46% - setenta e nove inteiros e quarenta e seis centésimos por cento), de modo que o último reajuste etário deveria ser de 42,21% (quarenta e dois inteiros e vinte e um centésimo por cento).
+Ocorre que os apelantes não estavam vinculados ao referido plano anteriormente, e não sofreram referido reajuste aumento de, mensalidade que poderia onerar o seu contrato e ser discriminatório em razão da idade, sobretudo no apontado no percentual a maior de 37,25 (trinta e sete inteiros e vinte cinco centésimos por cento) - que poderia ser considerado abusivo para os usuários que estavam na faixa etária anterior - pois aderiram ao valor da mensalidade correspondente a última faixa etária em 2007, quando migraram pra o referido plano, de modo que, com base nele, mostra-se contraditório arguirem onerosidade excessiva ou discriminação, ou mesmo violação à boa-fé objetiva, a justificar não poder mais adimplir as mensalidades (e-STJ, fl. 354, sem destaques no original.).
+A revisão das conclusões estaduais - acerca da ausência de abusividade nos reajustes realizados nas mensalidades do plano de saúde - demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial ante os óbices das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MANUTENÇÃO NO PLANO DE SAÚDE. ART. 31 DA LEI N. 9.656/1998. APOSENTADA. POSSIBILIDADE. MESMAS CONDIÇÕES E COBERTURAS VIGENTES DURANTE O CONTRATO DE TRABALHO. REAJUSTE DAS MENSALIDADES. POSSIBILIDADE. ABUSIVIDADE NÃO CONFIGURADA. REAJUSTE EM RAZÃO DA IMPLEMENTAÇÃO DE FAIXA ETÁRIA. LEGALIDADE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ABUSIVIDADE AFASTADA NO CASO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+Precedentes.
+2. A revisão das conclusões estaduais - acerca da ausência de abusividade nos reajustes realizados nas mensalidades do plano de saúde - demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial ante os óbices das Súmulas 5 e 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.804.732/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023. - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR FAIXA ETÁRIA. ABUSIVIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. É possível a majoração das mensalidades do plano de saúde em virtude da faixa etária, a partir de estudos técnico-atuariais, para buscar a preservação da situação financeira da operadora do plano.
+O reajuste deve observar critérios objetivos de forma proporcional e razoável, além de obrigatoriamente respeitar as normas da Agência Nacional de Saúde Suplementar (ANS ) e o Estatuto do Idoso.
+2. Na hipótese, rever o entendimento do acórdão impugnado no que diz respeito ao caráter abusivo das cláusulas contratuais de reajuste por faixa etária implicaria o reexame do contrato e do contexto fático-probatório dos autos, providências vedadas em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.183.984/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023. - destacou-se)
+AGRAVO IN TERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, II, E 371 DO CPC. NÃO OCORRÊNCIA. PLANO DE SAÚDE. REAJUSTE DE FAIXA ETÁRIA. DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489, 371 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Carece de interesse recursal a discussão a respeito violação dos arts. 141 e 492 do CPC se, o vício de extra petita foi corrigida na instância ordinária, em julgamento dos embargos de declaração.
+3. É lícita a cláusula de contratos de plano de saúde que estabelece reajuste em razão da mudança de faixa etária do usuário, devendo o magistrado, diante do caso concreto, verificar eventual abusividade do reajuste efetivamente aplicado.
+4. Afastada pelo tribunal de origem, com base na análise do contrato de plano de saúde e das provas, a abusividade do percentual aplicado para reajuste a título da mudança de faixa etária, a revisão da questão pelo STJ é inviável por incidência das Súmulas n. 5 e 7.
+5. O magistrado, destinatário final da prova, não está vinculado ao laudo pericial juntado, podendo formar sua convicção de acordo com outros elementos ou fatos provados nos autos.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.235.360/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023. - destacou-se.).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de UNIMED, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. REAJUSTE POR FAIXA ETÁRIA. ABUSIVIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
