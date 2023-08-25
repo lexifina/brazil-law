@@ -1,0 +1,85 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra acórdão proferido pela 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO C/C OBRIGAÇÃO DE FAZER. PRELIMINAR DE INÉPCIA DO RECURSO REJEITADA. MÉRITO. DEMANDA PROPOSTA CONTRA O ESTADO DE GOIÁS. DEMANDA PROPOSTA NA CIRCUNSCRIÇÃO JUDICIÁRIA DE BRASÍLIA POR FORÇA DE CLÁUSULA E ELEIÇÃO DE FORO. VIOLAÇÃO DO PACTO FEDERATIVO. HIPÓTESE DE COMPETÊNCIA ABSOLUTA. INEFICÁCIA DA CLÁUSULA DE ELEIÇÃO DE FORO.
+
+    1. Princípio da dialeticidade. O recurso que não ataca especificamente os fundamentos da decisão impugnada impõe indesejada dificuldade de exercício pleno à defesa, porque obstaculiza sobremaneira a resposta, malferindo princípios processuais e constitucionais relacionados ao contraditório e ampla defesa.
+
+    1.1. Tem-se por inviabilizado o reconhecimento da inépcia do agravo de instrumento, quando observado que a parte recorrente impugnou satisfatoriamente as decisões hostilizadas, em observância ao artigo 1.016, incisos II e III, do Código de Processo Civil.
+
+    2. Em conformidade com a norma inserta no artigo 62 do Código de Processo Civil, a competência determinada em razão da matéria, da pessoa ou da função é inderrogável por convenção das partes.
+
+    3. De acordo com parágrafo único do artigo 52 do Código de Processo Civil, se o Estado ou o Distrito Federal for o demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado.
+
+    3.1. Não se encontrando caracterizados quaisquer das hipóteses previstas no parágrafo único do artigo 52 do Código de Processo Civil, aptas a justificar a opção das partes contratantes pela Circunscrição Judiciária de Brasília-DF, para dirimir eventuais conflitos envolvendo o negócio jurídico celebrado, tem-se por ineficaz a cláusula de eleição de foro.
+
+    3.2. Tratando-se de demanda que tem por objeto a declaração de nulidade de ato administrativo emanado do Estado de Goiás, bem como a imposição de obrigação de fazer ao réu, consubstanciada no ressarcimento de valores, deve de reconhecida a competência absoluta de uma das Varas da Fazenda Pública do aludido Estado.
+
+    4. Preliminar rejeitada. Agravo de instrumento conhecido e não provido.”
+
+    Sustentam os recorrentes violação dos artigos 22, inciso I, e 125 da Constituição Federal.
+
+    Decido.
+
+    A irresignação não merece prosperar, haja vista que os recorrentes não apresentaram tópico de repercussão geral da matéria devidamente fundamentada nos aspectos econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa frente às questões constitucionais invocadas no recurso extraordinário.
+
+    Com efeito, é dever da parte recorrente demonstrar de forma devidamente fundamentada, expressa e clara as circunstâncias que poderiam configurar a relevância das questões constitucionais suscitadas no recurso extraordinário, o que não ocorreu no caso em tela.
+
+    A mera afirmação genérica de existência de repercussão geral, desacompanhada de robusta fundamentação da relevância econômica, política, social ou jurídica da questão constitucional, não é suficiente para o conhecimento do recurso extraordinário, nos termos do art. 102, § 3º, da Constituição Federal e do art. 1.035 do CPC/2015. Nesse sentido:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. INDIVIDUALIZAÇÃO DA PENA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 2. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 3. Agravo interno conhecido e não provido” (ARE nº 1.321.091/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/5/21 - grifo nosso).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. DISCUSSÃO DE ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 339). SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a transcendência dos interesses subjetivos da causa, para que seja atendido o requisito previsto no art. 102, § 3°, da CF e no art. 1.035 do CPC, o que não foi observado pela parte recorrente. III - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 - ARE 748.371-RG/MT). IV - No julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a orientação no sentido de que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique, de forma clara, as razões de seu convencimento. V - Agravo regimental a que se nega provimento.” (ARE nº 1.263.035/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 22/5/20).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 33 DA LEI 11.343/2006 E ARTIGO 12 DA LEI 10.826/2003. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C/C ARTIGO 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA CRIMINAL. INEXISTÊNCIA DE REPERCUSSÃO PRESUMIDA. PRECEDENTES. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LIII E LVII, E 129, I, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO JUIZ NATURAL, DA PRESUNÇÃO DE INOCÊNCIA E DO SISTEMA ACUSATÓRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. ALEGADA OFENSA AO SISTEMA ACUSATÓRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.264.183/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 26/5/20).
+
+    Ainda que superado esse óbice, verifica-se que o Tribunal de origem não divergiu do entendimento firmado pelo Plenário desta Suprema Corte no julgamento das ADIs nºs 5.492/DF e 5.737/DF.
+
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento conjunto das ADIs nºs 5.492/DF e 5.737/DF, firmou entendimento no sentido de atribuir interpretação conforme a Constituição ao artigo 52, parágrafo único, do CPC, para restringir a competência do foro de domicílio do autor às comarcas inseridas nos limites territoriais do Estado-membro ou do Distrito Federal que figure como réu.
+
+    Na ocasião, restou fixada a seguinte tese:
+
+    “É inconstitucional a regra de competência que permita que os entes subnacionais sejam demandados perante qualquer comarca do país, devendo a fixação do foro restringir-se aos seus respectivos limites territoriais”.
+
+    Transcrevo, por oportuno, a seguinte passagem do voto vencedor proferido pelo Ministro Roberto Barroso nesse referido julgamento, que bem elucida a questão:
+
+    “3. A divergência apresentada reside na interpretação do art. 52, parágrafo único, e do art. 46, § 5º, do CPC, normas questionadas em ambas as ações diretas. Os dispositivos, respectivamente, fixam a competência do domicílio do autor, nas ações contra os Estados-membros e o Distrito Federal, e do executado, nas execuções fiscais ajuizadas pelos entes públicos. Os autores sustentam que não é possível equiparar a situação dos Estados e do Distrito Federal à da União nesse ponto, porque os entes subnacionais desempenham sua atividade nos seus limites territoriais, sem que tenham uma carreira estruturada em todo o país para a sua representação judicial. Diante disso, entendem violados o contraditório e a prerrogativa de auto-organização de tais entes e apontam a abertura de um flanco para o abuso do direito processual. No que tange ao art. 46, § 5º, do CPC, acrescentam um aspecto de possível guerra fiscal, além da maior dificuldade na recuperação de créditos dos entes subnacionais.
+
+    4. Em contraposição, os interessados e alguns amici curiae argumentam que a medida favorece o acesso à justiça do particular. Afirmam que, quanto à matéria, o Código estabelece mecanismos que possibilitam a atuação a contento das procuradorias. Defendem que as regras não extrapolam a competência federal para legislar sobre processo civil (CF/1988, art. 22, I). Nesse sentido, pedem a preservação da norma impugnada. Essa posição foi acolhida no voto do Ministro relator.
+
+    5. Todavia, tenho que os dispositivos impugnados merecem interpretação conforme a Constituição e concluo nesse sentido por alguns motivos.
+
+    6. Em primeiro lugar, a atribuição dada à União para legislar sobre processo civil não pode servir de base para que se promova um desequilíbrio federativo e administrativo em detrimento dos demais entes. A CF/1988, em seus arts. 109, §§ 1º e 2º, aponta a possibilidade de a União ser demandada em todo o país. No RE 627.709, ao apreciar o tema 374 da repercussão geral, o STF entendeu que essa previsão também é aplicável para autarquias federais, em julgado que restou assim ementado:
+
+    (...)
+
+    7. Analisando as razões de decidir que integram o precedente mencionado, nota-se que o posicionamento se pautou na ideia de que, tal como a União, as suas autarquias possuem representação em todo o território nacional, por meio da Procuradoria Geral Federal (PGF). A mesma ratio decidendi, todavia, não pode ser estendida aos demais entes, já que as Procuradorias-Gerais dos Estados, do Distrito Federal e dos Municípios não atuam por todo o país. Tampouco há obrigação constitucional, genérica ou específica, de que os entes regionais estruturem seu serviço público além de seus limites territoriais.
+
+    8. É certo que a prática eletrônica de atos processuais facilita a atuação à distância, mas essa possibilidade não elimina os problemas federativos decorrentes da norma impugnada. Não se pode, em tal contexto, desconsiderar a ideia de que a Justiça estadual é um componente da auto-organização do Estado-membro (CF/1988, art. 25, caput, e art. 125). A autonomia federativa resta violada ao se permitir que temas como a validade de atos normativos estaduais ou distritais, o provimento de cargos por concurso público, as relações dos respectivos entes subnacionais com seus servidores, ativos ou inativos, e outras pretensões ligadas a fatos locais sejam decididos, de forma tendencialmente definitiva, por magistrado vinculados a outra unidade federativa.
+
+    9. É importante frisar que tal raciocínio não questiona a independência dos magistrados ou a unidade do Poder Judiciário nacional. Todavia, é preciso que as atribuições exercidas pelos órgãos judicantes estejam em conformidade com a forma federativa do Estado brasileiro. Em questões que interfiram significativamente na gestão pública, a discussão não pode ser simplesmente alijada do Judiciário local.
+
+    10. Em segundo lugar, a previsão questionada também traz efeito prejudicial ao avanço dos precedentes e dificulta a formação de soluções uniformes para a solução de questões locais por meio de incidente de resolução de demanda repetitiva (IRDR). Isso porque, ainda que determinada controvérsia de interesse local fosse resolvida por essa via no âmbito do Tribunal de Justiça do Estado federativo afetado, o precedente obrigatório e qualificado firmado no incidente poderia ser desconsiderado se ação sobre o mesmo tema fosse proposta perante a Justiça Estadual do domicílio do autor, conforme a sua conveniência. Aqui não se presume, de forma alguma, que haja má-fé do requerente, mas se constata uma possibilidade sistemicamente indesejada de escolha de foro para litigar, em detrimento da segurança jurídica e da eficiência da prestação jurisdicional, elementos que inspiram o fortalecimento do sistema de precedentes.
+
+    11. Ressalto, por fim, que o efeito negativo ligado ao federalismo está presente não apenas em questões judiciais, mas também em matérias administrativas no âmbito dos tribunais. Nesse ponto, destaco, especialmente, a gestão dos precatórios e das requisições de pequeno valor. Essas são atribuições que implicam grave interferência no orçamento público e que não podem ficar sujeitas, sem base constitucional expressa, a autoridades vinculadas a outros Estados da Federação. Os próprios direitos dos credores, especialmente os ligados à não preterição, ficariam em iminente risco com a pulverização de requisitórios por outros Tribunais de Justiça ao redor do país.
+
+    12. Razões similares a essas também infirmam a validade de uma interpretação ampla do art. 46, § 5º, do CPC, sobre o foro da execução fiscal. Nesse caso, há ainda o agravante de que a disposição impugnada dificulta a recuperação de ativos em um procedimento que já apresenta baixo índice de eficiência. Não se pode esquecer, nesse contexto, que o exercício concreto e efetivo da competência tributária e a exigência dos valores devidos têm importante função socioeconômica para as finanças dos entes subnacionais, aspecto que também integra a autonomia federativa (CF/1988, art. 18, caput).
+
+    13. Por todas essas razões, acolho o pedido subsidiário e julgo parcialmente procedente a pretensão autoral, para atribuir interpretação conforme a Constituição ao art. 52, parágrafo único, do CPC, de modo a restringir a competência do foro de domicílio do autor às comarcas inseridas nos limites territoriais do Estado-membro ou do Distrito Federal que figure como réu; e ao art. 46, § 5º, do CPC, para restringir sua aplicação aos limites do território de cada ente subnacional ou ao local de ocorrência do fato gerador.”
+
+    Aplicando essa orientação, anotem-se as seguintes decisões monocráticas que tratam especificamente do tema em questão: ARE nº 1.435.969/DF, Relator o Ministro Gilmar Mendes, DJe de 25/05/2032; e ARE nº 1.423.165/DF, Relator o Ministro Alexandre de Moraes, DJe de 11/05/2023.
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração de verba honorária, tendo em vista a ausência de fixação pela Corte de origem.
+
+    Publique-se.
+
+    Brasília, 25 de agosto de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
