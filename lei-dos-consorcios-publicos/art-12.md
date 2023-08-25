@@ -1,2 +1,2 @@
-Art. 12. A alteração ou a extinção de contrato de consórcio público dependerá de instrumento aprovado pela assembléia geral, ratificado mediante lei por todos os entes consorciados.
+Art. 12. A extinção de contrato de consórcio público dependerá de instrumento aprovado pela assembleia geral, ratificado mediante lei por todos os entes consorciados.
 § 2º Até que haja decisão que indique os responsáveis por cada obrigação, os entes consorciados responderão solidariamente pelas obrigações remanescentes, garantindo o direito de regresso em face dos entes beneficiados ou dos que deram causa à obrigação.
