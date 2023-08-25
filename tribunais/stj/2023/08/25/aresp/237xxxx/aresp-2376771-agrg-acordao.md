@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Erivaldo do Nascimento Martins interpõe agravo regimental contra a decisão de fls. 629/632, de minha lavra, cuja ementa transcrevo:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORA. RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. EXCLUSÃO. IMPOSSIBILIDADE. PRETENSÃO QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Sustenta a Defensoria Pública, em suma, que a análise do recurso especial não induz, obrigatoriamente, ao revolvimento do conjunto fático probatório (fl. 639); que, no caso, ficou demonstrada a manifesta improcedência da qualificadora no fato incontroverso de que a vítima resistiu aos ataques (fl. 640), tratando-se, apenas, de revaloração jurídica, devendo ser afastado, portanto, o óbice da Súmula 7/STJ (fl. 641).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORA. RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. EXCLUSÃO. IMPOSSIBILIDADE. PRETENSÃO QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ.
+1. Na hipótese, o Tribunal de origem, ao ratificar a decisão de pronúncia, entendeu pela presença de indícios de autoria, os quais se sobressaíram, principalmente, da prova oral colhida em Juízo, sob o crivo do contraditório e da ampla defesa. Assim, a pretensão em desconstituir o referido entendimento depende de análise do acervo fático-probatório do processo, providência obstada pela Súmula 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+A bem da verdade, as razões do regimental apenas evidenciam a sua utilização como forma de expressar insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Consta do acórdão impugnado (fl. 563 - grifo nosso):
+ ..  No mesmo sentido, quanto à qualificadora referente à suposta utilização de recurso que impossibilitou ou dificultou a defesa da vítima, à par do descrito na denúncia, o d. magistrado a quo reconhecer sua incidência "uma vez que os golpes foram aplicados pelo réu às costas da vítima" sic ID 124724870 - Pág. 208.
+Todavia, ainda que a i. defesa insista em fazer prevalecer a tese de que a vítima é quem teria investido contra o réu, não vislumbro ocorrência de circunstância que resulte na manifesta improcedência do tipo penal derivado em questão, porquanto tal escusa não se revela absoluta nos autos.
+Além do mais, os meandros trazidos aos autos pela prova testemunhal judicializada sugerem a possibilidade de procedência da qualificadora em comento, sob o fundamento de que a dinâmica dos fatos, aparentemente, evidencia a surpresa na abordagem da vítima, e é crível que tenha sido alvejada nas costas enquanto tentando se afastar do réu, ao que se alia as múltiplas regiões em que fora lesionada, o que demonstra ser possível ter o acusado ERIVALDO agido de modo a dificultar ou impossibilitar a defesa dos ofendidos.
+Dessarte, a análise exauriente quanto à efetiva presença dos mencionados tipos penais derivados compete ao Conselho de Sentença, incumbindo aos jurados a interpretação dos elementos probatórios com razoabilidade e a emissão de juízo pleno de valor acerca da conduta imputada ao réu, segundo suas íntimas convicções, ex vi STJ - AgRg no REsp 1913444/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 18/05/2021, DJe 24/05/2021.
+Diante disso, reputo inadmissível o decote das qualificadoras previstas no art. 121, §2.º, inc. II e IV, do Código Penal.  ..
+É assente neste Superior Tribunal de Justiça que as qualificadoras do crime de homicídio só podem ser excluídas da decisão de pronúncia se forem manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Confira-se:
+ ..  I. ""Segundo entendimento estabelecido nesta eg. Corte Superior de Justiça, "somente se mostra possível a exclusão de qualificadora quando esta for manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri." (AgRg no AREsp n. 789.389/SE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/8/2018)" (AgRg no REsp n. 1.925.486/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023).
+ ..
+V. Assim, a qualificadora não se mostra manifestamente incabível, mormente em se tratando de decisão de pronúncia, devendo, ao menos nessa fase processual de admissibilidade da acusação, ser comunicada à corré - seja ela coautora ou partícipe -, postergando-se a análise da sua incidência (ou não), quando do julgamento realizado pelo Conselho de Sentença, afastando-se, desse modo, eventual usurpação de competência do Tribunal do Júri.
+VI. Agravo regimental provido. Mantida a sentença de pronúncia (Processo nº 0013114-53.2015.8.26.0269 - 2ª Vara Criminal de Itapetinga/SP).
+(AgRg no AREsp n. 2.019.202/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 24/4/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. DEMONSTRADA EM TESE. IMPOSSIBILIDADE. SOBERANIA DOS VEREDITOS. AGRAVO DESPROVIDO.
+1. Cumpre ressaltar que "esta Corte pacificou o entendimento segundo o qual só podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes, uma vez que não se pode usurpar do Tribunal do Júri o pleno exame dos fatos da causa. Precedentes." (AgRg no AREsp 830.308/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 26/6/2017). No caso, demonstrou-se, de forma fundamentada, com base em elementos colhidos na instrução probatória, as razões pelas quais o ora agravante foi pronunciado, não se afigurando, assim, possível a exclusão da qualificadora, sob pena de afronta à soberania do Tribunal do Júri.
+2. Agravo desprovido.
+(AgRg no HC n. 775.652/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/3/2023)
+No caso, da transcrição acima, verifica-se que as instâncias ordinárias concluíram que a qualificadora em questão não se revela manifestamente improcedente e encontra respaldo nas provas coligidas em juízo, mormente a prova testemunhal.
+Evidentemente que, para se concluir de forma diversa do entendimento consignado pelas instâncias ordinárias, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial.
+Nesse sentido, destaco:
+PROCESSO PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. EXCLUSÃO DE QUALIFICADORAS. RECURSO ESPECIAL INADMITIDO NA ORIGEM. SÚMULAS 7 E 83 DO STJ. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. DECISÃO MANTIDA.
+I - A jurisprudência do Superior Tribunal de Justiça admite a exclusão de qualificadoras do crime de homicídio, em sede de pronúncia, quando destituídas de amparo legal ou manifestamente improcedentes. Todavia, durante a pronúncia, não deve o Poder Judiciário valorar as provas para rever a imputação efetuada pelo Ministério Público, sob pena de usurpar a competência do Tribunal do Júri. Precedentes.
+II - Na hipótese dos autos, o Tribunal de origem manteve a sentença de pronúncia por considerar que o crime teria sido supostamente cometido em razão de vingança. Ao contrário do alegado pela defesa, não se trata de imputação manifestamente improcedente ou sem amparo legal, pois a vingança pode, ou não, configurar a torpeza descrita na lei penal, a depender das particularidades do caso concreto. Precedentes.
+III - Outrossim, sequer foi delineado na decisão recorrida que a vítima, de fato, foi a responsável pela morte do pai do réu, e sim mera suspeita deste em relação àquela. A definição da matéria requer, portanto, valoração de fatos e provas, o que só pode ser feito pelo Conselho de Sentença.
+IV - A manutenção da qualificadora atinente ao recurso que dificultou ou tornou impossível a defesa da vítima foi devidamente justificada pelo Tribunal de origem, de modo que só seria possível se chegar a conclusão distinta por meio do reexame de fatos e provas, o que é inviável na estreita via do recurso especial. Incidência da Súmula nº 7, STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.219.274/SC, Ministro Mess od Azulay Neto, Quinta Turma, DJe 3/7/2023)
+Logo, em face da ausência de qualquer elemento capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+Ante o exposto, nego provimento ao agravo regimental.
