@@ -1,0 +1,12 @@
+DECISÃO
+Mediante as petições de fls. 632-645 e 646-663, a ASSOCIAÇÃO DOS SERVIDORES DA REFORMA AGRÁRIA EM BRASÍLIA - ASSERA - BR requer habilitação de (a) ESPÓLIO de TEÓFILO NUNES DE OLIVEIRA, representado por sua inventariante, VERONICA NUNES DE OLIVEIRA, e (b) LILIAN UCHOA CHAVES PADULA, MARCUS UCHOA CHAVES e SERGIO UCHOA CHAVES em razão do falecimento de WILTON DE OLIVEIRA CHAVES para possibilitar a expedição das requisições de pagamento.
+Foram acostados aos autos procurações, documentos pessoais, contrato de honorários advocatícios, escritura pública de inventário e partilha e certidão de óbito.
+É o relatório. Decido.
+A habilitação dos herdeiros tem o sentido de garantir a continuidade do processo, não tendo ligação direta e necessária com a questão relativa à definição dos quinhões hereditários e à divisão dos bens do de cujus, que deve ser discutido no juízo do inventário.
+É possível, em tese, que se admita a habilitação de herdeiros que, ao final, não receberão os bens objeto do processo, mas estarão regularmente aptos a dar prosseguimento ao feito.
+Por isso é que o fato de se admitir a habilitação não implica autorização para levantar valores nos autos, tendo em vista que, para tanto, é imprescindível a apresentação da certidão de inventariança ou do formal/certidão de partilha, nos termos do art. 655 do CPC, ou da escritura pública de inventário e partilha, prevista na Lei n. 11.441/2007 c/c com o art. 610, § 1º, do CPC. Em qualquer caso (inventário judicial ou administrativo), o documento deve relacionar o crédito que se pretende levantar.
+No caso dos autos, tendo havido a comprovação de que os interessados são herdeiros dos substituídos falecidos, não há óbice ao deferimento do pedido.
+Ante o exposto, defiro a habilitação pretendida e determino a expedição das requisições de pagamento pendentes em favor do espólio de TEÓFILO NUNES DE OLIVEIRA e WILTON DE OLIVEIRA CHAVES, com destaque de honorários advocatícios.
+O levantamento da quantia pelos herdeiros fica condicionado à partilha ou sobrepartilha do crédito, devendo ser comprovada no bojo das requisições de pagamento que serão expedidas (art. 3º, §§ 6º e 7º da Instrução Normativa STJ/GP n. 3/2014, com redação dada pela Instrução Normativa STJ/GP n. 17/2019).
+Retifique-se a autuação para (a) acrescentar o complemento ESPÓLIO ao lado do nome de TEÓFILO NUNES DE OLIVEIRA e WILTON DE OLIVEIRA CHAVES e (b) incluir VERONICA NUNES DE OLIVEIRA, LILIAN UCHOA CHAVES PADULA, MARCUS UCHOA CHAVES e SERGIO UCHOA CHAVES como interessados.
+Publique-se. Intimem-se.
