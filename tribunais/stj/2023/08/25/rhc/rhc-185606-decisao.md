@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANDRE LUIS FERREIRA DE ALBUQUERQUE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2153910-13.2023.8.26.0000.
+Consta nos autos que o Recorrente foi preso em flagrante, em 02/03/2023, posteriormente convertida a prisão em preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 1.995g de crack.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu o processamento do writ.
+Nas razões recursais, a Defesa sustenta a ilicitude das provas decorrentes da busca pessoal alegadamente realizada sem fundadas suspeitas.
+Alega que não houve fundamentação idônea para a decretação da prisão preventiva do Recorrente.
+Aduz a possibilidade de substituição da prisão preventiva por medidas cautelares diversas.
+Requer, liminarmente, a suspensão do andamento da ação penal e a expedição de alvará de soltura em favor do Recorrente, e, no mérito, pleiteia o trancamento da ação penal, com a consequente revogação da custódia preventiva.
+Liminar indeferida (fls. 398-399).
+Foram prestadas informações às fls. 401-404.
+O Ministério Público Federal manifestou-se às fls. 409-413, opinando pela prejudicialidade do recurso.
+É o relatório. Decido.
+Nas informações que presta a esta Corte, o Juízo de origem esclarece que "sobreveio sentença proferida em 10 de agosto de 2023, condenando o paciente como incurso nas penas do artigo 33, caput, da Lei nº 11.343/06, à pena de reclusão de 05 anos e 10 meses, e regime inicial fechado, e 583 dias-multa, diária mínima; bem como o corréu Anderson também incurso no artigo 33, caput, da Lei 11.343/06, à pena de reclusão de 05 anos, em regime inicial fechado, e 500 dias-multa, diária-mínima" (fl. 403).
+Na sentença, a nulidade arguida nesta impetração foi rejeitada.
+Desse modo, está prejudicada a análise da matéria, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, as alegações da Defesa. A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE TRANCAMENTO DE AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. WRIT PREJUDICADO.
+1. Não há que se falar em ausência de fundamentação na decisão ora agravada, na qual foi acolhido o parecer ministerial e aplicada a jurisprudência desta Corte, devendo assim ser mantida.
+2. Parecer ministerial acolhido, no sentido de ser Aplicável ao caso, por analogia, a Súmula 648/STJ - "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus"" -, tendo em vista que na sentença condenatória foram analisados de forma exauriente os pleitos relativo à ausência de indícios de autoria delitiva e às preliminares de ilicitude nas buscas pessoal e domiciliar. Desse modo, o feito encontra-se prejudicado pela perda de seu objeto, ante a superveniência de novo título judicial.
+3. A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de provas (AgRg no HC n. 663.708/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 31/8/2021).
+4. Agravo regimental improvido." (AgRg no HC n. 698.351/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/12/2021, DJe 17/12/2021, sem grifos no original.)
+Observo, ainda, que, na sentença, o Juízo de primeira instância negou ao Apenado o direito de recorrer em liberdade, valendo-se de fundamentação diversa daquela utilizada para a conversão da prisão em flagrante em preventiva, in verbis:
+"Os réus encontram-se no cárcere e assim deverão continuar caso desejem recorrer desta sentença. É que suas situações profissionais no momento da prisão (Anderson produtor de eventos fls. 10; André porteiro de edifícios fls. 233) e estado civil (Anderson - convivente fls. 111 ou casado; André - convivente) não os prendem ao distrito da culpa. Ademais, André é multirreincidente, o que indica que vem reiterando as atividades criminosas. Quanto a Anderson, permaneceu preso durante toda a instrução e agora, condenado, não há motivação para a concessão da liberdade provisória. Assim, a prisão preventiva é necessária para garantir a ordem pública. Recomendem-se os réus junto às instituições penais que se encontram, servindo-se esta sentença, por cópia digitalizada, como ofício."
+Assim, há novo título a respaldar a custódia cautelar do Recorrente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que somente poderá ser submetido a esta Corte após analisado pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, na qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis:
+"Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta." (sem grifos no original.)
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior adiantar-se em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. REALIDADE JURÍDICO-PROCESSUAL ALTERADA. PREJUDICIALIDADE DA QUESTÃO SUSCITADA NO RHC. PRECEDENTES.
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIO R, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO NO ACÓRDÃO IMPUGNADO. IMPOSSIBILIDADE DE APRECIAÇÃO. RECURSO PREJUDICADO.
