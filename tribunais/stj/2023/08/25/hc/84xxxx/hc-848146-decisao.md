@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de MARCELA ALMEIDA , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (HC 2216780-94.2023.8.26.0000).
+A paciente está presa preventivamente pela suposta prática do crime de tráfico de drogas.
+A defesa alega: a) flagrante ilegalidade apta a afastar o óbice previsto na Súmula 691 do Supremo Tribunal Federal; b) ausência dos requisitos autorizadores da medida extrema previstos no art. 312 do Código de Processo Penal; c) inexistência de elementos concretos que permitam concluir que a paciente, solta, trará perigo à ordem pública ou à instrução criminal; d) "a gravidade concreta da conduta é reduzida, porquanto a natureza da droga não é especialmente gravosa, bem como é pequena a quantidade de entorpecente apreendida" (e-STJ fl. 5); e) gravidade abstrata do crime, por si só, não autoriza a decretação da prisão preventiva; f) desproporcionalidade da prisão preventiva, pois, em caso de eventual condenação, a paciente cumprirá pena em regime prisional menos gravoso ou terá sua sanção substituída por restritiva de direitos; e g) direito à prisão domiciliar, pois "a paciente está grávida de cinco meses e possui uma filha de 4 anos de idade que depende dos seus cuidados maternos" (e-STJ fl. 8).
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva. Subsidiariamente pretende a concessão de prisão domiciliar.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 17-18):
+A providência liminar em habeas corpus é medida excepcional, razão pela qual está reservada para os casos em que avulta flagrante constrangimento ilegal.
+E essa não é a hipótese dos autos.
+A análise de elementos que possam ou não demonstrar os requisitos autorizadores da manutenção da prisão cautelar, revela-se inadequada à esfera de cognição sumária, salvo apreciação fática que represente aberração técnico-jurídica do magistrado, que não é o caso em apreço.
+Vê-se que a Autoridade apontada como coatora, numa análise preambular, bem justificou a necessidade da prisão da paciente, ou seja, não há carência na fundamentação da decisão, de modo que inviável a concessão da liminar (fls. 46/48 dos autos originários).
+De outra parte, não há notícias de que os filhos da paciente estejam desamparados, não se vislumbrando a necessidade de imediata concessão da prisão domiciliar. Assim, tudo está a recomendar que os motivos que embasaram a decisão de primeiro grau sejam submetidos a escrutínio pelo órgão colegiado, após regular tramitação do feito.
+Diante do exposto, não constatada qualquer ilegalidade, tampouco ausência de fundamentação idônea na decisão atacada, indefiro a liminar requerida.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
