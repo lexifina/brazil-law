@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MULTI FORMATO DISTRIBUIDORA SOCIEDADE ANONIMA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 02/05/2023.
+Concluso ao gabinete em: 22/08/2023.
+Ação: de Cumprimento de Preceito Legal c/c Pedido de Liminar c/c Perdas e Danos movida por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD, contra a agravante, alegando falta de recolhimento mensal de valores em retribuição aos direitos autorais.
+Decisão interlocutória: rejeitou prejudicial de mérito de prescrição suscitada pela agravante, em sua contestação, ainda determinando que ela apresente "croqui e o projeto de construção" de suas "unidades filiais", acolhendo pedido nesse sentido do agravado.
+Acórdão: deu parcial provimento ao agravo de instrumento da agravante, "reformando parcialmente a decisão agravada, reconhecer a prescrição do direito do autor à cobrança da mensalidade vencida em dezembro/2017, bem como para indeferir o pedido de exibição de documentos deduzido pelo mesmo autor na inicial" (e-STJ fl. 378), nos termos da ementa:
+"EMENTA: AGRAVO DE INSTRUMENTO -AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL C/C PERDAS E DANOS -PREJUDICIAL DE MÉRITO DE PRESCRIÇÃO -MOMENTO DE APRECIAÇÃO -DESPACHO SANEADOR -POSSIBILIDADE -DEMORA NO RECOLHIMENTO DAS CUSTAS PROCESSUAISINICIAIS-PRESCRIÇÃO PARCIALMENTE CONFIGURADA -PRETENSÃO DE EXIBIÇÃO DE DOCUMENTOS NÃO COMUNS ÀS PARTES -IMPOSSIBILIDADE. A prescrição, pelo seu nítido caráter de prejudicialidade, pode e deve ser examinada, preferencialmente, quando do saneamento do processo, inexistindo dispositivo legal que impeça sua apreciação nesse momento processual. O prazo prescricional para cobrança de direitos autorais é de 3 anos, nos termos do art. 206, § 3º, inciso V, do Código Civil. Tendo o recolhimento das custas iniciais pela parte autora sido feito depois de decorrido o prazo prescricional para cobrança de parte das mensalidades cobradas, o reconhecimento da prescrição do direito de cobrança dessa parte das mensalidades é medida que se impõe. Tratando-se de documentos não comuns às partes, descabida a pretensão de exibição incidental desses documentos." (e-STJ fl. 370)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 240, § 2º, e 1.022 do CPC. Além de negativa de prestação jurisdicional, sustenta que foi extrapolado o prazo inserto no § 2º do art. 240 do CPC, de modo que o efeito retroativo do despacho que ordena a citação não pode ocorrer à data de distribuição do feito. Aduz que não se pode falar em retroatividade dos efeitos do despacho que ordena a citação à data do recolhimento das custas iniciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+Não obstante apontar violação do art. 1.022 do CPC/15, a ausência de expressa indicação de obscuridade, omissão, contradição ou erro material nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Aplica-se, na hipótese, a Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à distribuição do feito ter ocorrido em 16/12/2020, com recolhimento das custas iniciais em 27/01/2021; e que, após isso, a demora para o despacho que ordenou a citação em 18/02/2021 ter ocorrido por questões inerentes ao Poder Judiciário (e-STJ fl. 376), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Uma vez firmadas as premissas fáticas delineadas no acórdão, apesar de não ser possível falar em retroação dos efeitos do despacho que ordena a citação à data do recolhimento das custas iniciais, levando-se em consideração os arts. 219 e 220 do CPC, os efeitos deveriam retroagir à efetiva data da distribuição do feito, pois a parte agravada tomou, dentro do prazo de 10 dias úteis, as providências necessárias para viabilizar a citação.
+Ocorre que deve ser mantido o acórdão recorrido em vista do princípio da proibição de se reformar uma decisão ou acórdão de modo a piorar a situação da parte que tenha recorrido, já que o TJ/MG reconheceu como marco retroativo da interrupção data posterior, beneficiando o agravante.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DE CUMPRIMENTO DE PRECEITO LEGAL C/C PEDIDO DE LIMINAR C/C PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO INDICAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de Cumprimento de Preceito Legal c/c Pedido de Liminar c/c Perdas e Danos.
+2. A ausência de expressa indicação de obscuridade, omissão, contradição ou erro material nas razões recursais enseja o não conhecimento do recurso especial.
+3. Modificar a conclusão do Tribunal de origem implica reexame de fatos e provas.
+4. Agravo conhecido. Recurso especial não conhecido.
