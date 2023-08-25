@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOAO MARCOS BENTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Pa ciente teve a prisão preventiva decretada, pela suposta prática do delito de tráfico de drogas, em razão da apreensão de 06 invólucros de maconha, pesando 14,53 gramas e 10 invólucros de cocaína, na forma de "crack", pesando 5,99 gramas. No ponto, ressaltou o Juízo de primeiro grau que "o custodiado é reincidente específico (vide fls. 30 e seguintes)" (fl. 107).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem que manteve a prisão cautelar diante da insistência do Paciente na senda criminosa, pois ostenta reincidência e maus antecedentes; conforme acórdão de fls. 162-177.
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente diante da ausência de fundamentação para a prisão cautelar.
+Aponta a existência de ilegalidade pois não existiria provas de que o Paciente se encontrava no local traficando, bem como que ele teve contra si executado flagrante forjado.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 180-181.
+As informações foram prestadas às fls. 186-216. O Ministério Público Federal em parecer, às fls. 220-223, manifestou-se pela denegação do writ:
+"Penal. Habeas corpus. Tráfico de drogas. Prisão pre-ventiva. Requisitos do art. 312 do CPP. Observância. Reiteração delitiva. Alegação de irregularidade da abordagem policial. Necessidade de análise do material fático-probatório. Antecipação de mérito. Inviabilidade. Inexistência de flagrante ilegalidade. Parecer pela denegação do writ" (fl. 220).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada para a garantia da ordem pública, diante da existência circunstâncias ensejadoras da segregação cautelar, notadamente em razão do fundado receio de reiteração criminosa, pois ele ostenta reincidência e maus antecedentes.
+Nesse sentido, conforme a jurisprudência desta Corte, o receio de reiteração criminosa justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023; AgRg no HC n. 766.549/BA, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 27/4/2023; AgRg no HC n. 716.341/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 24/2/2022 e AgRg no HC n. 737.777/SC, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 10/6/2022 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Por fim, no que concerne à aventada ilegalidade do flagrante, mormente no ponto em que sustenta que teria ocorrido flagrante forjado, tenho que matéria não foi debatida pela Corte local, o que obsta o pronunciamento desta Corte, sob pena de indevida supressão de instância:
+"o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC 725.396/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe 06/04/2022-grifei).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de habeas corpus.
+Ante o exposto, denego a ordem.
+P. I.
