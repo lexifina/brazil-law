@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de MATHEUS DE SOUZA LIMA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela prática, em tese, do crime previsto no art. 33 da Lei 11.343/2006. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão do paciente para garantia da ordem pública ao argumento de que: - completou 18 anos de idade recentemente e já respondeu por atos infracionais análogos ao tráfico de drogas, quando era menor de idade - fl. 88, e denegou a ordem, em acórdão de fls. 86-90.
+Postula a defesa, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente em razão da alegada ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que a quantidade de droga apreendida é ínfima.
+A liminar foi indeferida às fls. 93-94.
+As informações foram prestadas às fls. 105-115. O Ministério Público Federal, às fls. 119-121, manifestou-se em parecer que restou assim ementado:
+"Direito Penal e Processual Penal. Habeas Corpus Tráfico de drogas (4,24g de cocaína). Prisão preventiva. Reiteração delitiva. Segregação cautelar necessária à garantia da ordem pública. Precedentes do STJ. Decisão fundamentada. - Requer-se a denegação da ordem" - fl. 119.
+É o relatório. Decido.
+In casu, consta do decreto prisional que o paciente completou recentemente 18 anos e já tiveram julgadas procedentes em seu desfavor duas ações socieducativas (nº 0000104-43.2020.8.26.0599 e 1500538-83.2020.8.26.0137), ambas por atos análogos ao tráfico de entorpecentes- fl. 64.
+A propósito:
+"Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
