@@ -1,0 +1,74 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5003160-44.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: AINALINE DA SILVA MARTINS e outros
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003160-44.2022.8.08.0012
+
+Recorrente: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+
+Recorrido:
+AINALINE DA SILVA MARTINS
+e
+JACINTHO ALMONFREI
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. MEDIÇÃO DO CONSUMO DE ENERGIA. AUSÊNCIA DE ENTREGA DO TALÃO DE ENERGIA. COBRANÇA MANIFESTAMENTE ACIMA DO HABITUAL. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. PRELIMINAR DE ILEGITIMIDADE DAS PARTES. ALÉM DA EFETIVA PARTICIPAÇÃO DO TITULAR DA FATURA NOS AUTOS, A PRIMEIRA RECORRIDA APRESENTOU CONTRATO DE LOCAÇÃO, O QUE A TORNA LEGÍTIMA PARA PLEITEAR O DIREITO. PRELIMINAR AFASTADA. NO MÉRITO CONFIRMAM-SE AS RAZÕES DE DECIDIR DO MM. JUÍZO DA ORIGEM. NÃO SE VÊ RAZÃO PARA COBRANÇA DO DÉBITO EM QUESTÃO NAS PROPORÇÕES FATURADAS. VISTO A RECORRENTE SUSTENTAR NÃO HAVER IRREGULARIDADES NO RELÓGIO, TORNA-SE INADMISSÍVEL REALIZAR FATURAMENTO POR MEIO DE MÉDIAS E NÃO POR AFERIÇÃO REGULAR, COMO É COMUM. FATO É QUE A MEDIÇÃO POR MÉDIA DE CONSUMO SÓ É ADMISSÍVEL EM CASOS DE IMPEDIMENTO DE LEITURA POR MOTIVO RELEVANTE, O QUE NÃO FICOU COMPROVADO. SOMA-SE A ISSO, O FATO DE A RECORRENTE NÃO COMPROVAR O MOTIVO DO AUMENTO EXACERBADO NAS FATURAS DISCUTIDAS, UMA VEZ QUE A MÉDIA MANTERIA OS VALORES APROXIMADOS DOS ÚLTIMOS 12 MESES. AINDA, A INÉRCIA DA RECORRENTE AO SOLUCIONAR O PROBLEMA DA RECORRIDA DESDE A VERIFICAÇÃO DE SUPOSTA FUGA DE ENERGIA PELOS SEUS AGENTES OU AS PRIMEIRAS SOLICITAÇÕES, DEMONSTRA CLARA E EVIDENTE FALHA NA PRESTAÇÃO DE SERVIÇOS E DESÍDIA DA RECORRENTE COM O CONSUMIDOR. DESSA MANEIRA, O DANO MORAL ENCONTRA-SE CONFIGURADO. ACERCA DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS, POR SINAL, ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. PORTANTO, NÃO É CASO DE EXCLUSÃO, TAMPOUCO REDUÇÃO DA CONDENAÇÃO, DEVENDO SER MANTIDA A VERBA INDENIZATÓRIA NO IMPORTE DE R$ 1.000,00 (UM MIL REAIS) PARA CADA RECORRIDO, POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DE RAZOABILIDADE E PROPORCIONALIDADE.
+
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95.
+
+CONDENAÇÃO DA PARTE RÉ/RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% SOBRE O VALOR DA CONDENAÇÃO E, NÃO HAVENDO, SOB O VALOR CORRIGIDO DA CAUSA.
+
+VOTOS
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO
+para
+manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
