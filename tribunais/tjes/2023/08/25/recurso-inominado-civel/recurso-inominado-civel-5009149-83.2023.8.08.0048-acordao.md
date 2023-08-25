@@ -1,0 +1,75 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5009149-83.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO INTER S.A.
+RECORRIDO: CAROLINA DE OLIVEIRA MEIRELLES PACHECO
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5009149-83.2023.8.08.0048
+
+Recorrente:
+BANCO INTER S.A.
+
+Recorrido:
+CAROLINA DE OLIVEIRA MEIRELLES PACHECO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. CARTÃO DE CRÉDITO. COMPRAS NÃO AUTORIZADAS. FRAUDE. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. A CONTROVÉRSIA VERSA SOBRE COMPRAS NÃO AUTORIZADAS NO CARTÃO DE CRÉDITO DA AUTORA. A SENTENÇA OBJURGADA ACOLHEU, EM PARTE, OS PEDIDOS AUTORAIS, DE MODO QUE A RÉ INTERPÔS RECURSO INOMINADO COM O INTUITO DE DESAFIÁ-LA. CONFIRMAM-SE AS RAZÕES DE DECIDIR DO MM. JUÍZO DA ORIGEM, ESPECIFICAMENTE QUANTO À RESPONSABILIDADE DA RÉ. APESAR DAS ALEGAÇÕES DA PARTE RECORRENTE DE QUE AS COMPRAS OCORRERAM POR UTILIZAÇÃO DO CARTÃO FÍSICO, POR MEIO DE APROXIMAÇÃO, TAIS FATOS NÃO FORAM DEMONSTRADOS, NA MEDIDA EM QUE CONSTA NOS AUTOS APENAS
+PRINTS
+DE TELAS ESPECIALMENTE APRESENTADOS PELA PRÓPRIA RECORRIDA EM EXORDIAL. ISTO, POR SI SÓ, NÃO É CAPAZ DE COMPROVAR QUE AS COMPRAS FORAM REALIZADAS PELA AUTORA, ATÉ PORQUE SÃO DOCUMENTOS EMITIDOS EXCLUSIVAMENTE PELA PRÓPRIA INSTITUIÇÃO RÉ. EVIDENCIADA, NESSES TERMOS, A NÃO DEMONSTRAÇÃO PELA PARTE RECORRENTE DO ÔNUS PROBATÓRIO QUE LHE CABIA QUANTO À EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR (CPC, ART. 373, INCISO II). E MAIS, A PARTIR DA CONSTATAÇÃO DA OCORRÊNCIA DE FRAUDE NAS COMPRAS, TEM-SE POR DEVIDA A RESTITUIÇÃO DO VALOR PAGO PELA AUTORA (R$ 3.000,00) EM DOBRO, DADA ATENÇÃO AO ART. 42, PARÁGRAFO ÚNICO DO CDC. NO DANO MORAL, A INÉRCIA DA RECORRENTE AO SOLUCIONAR O PROBLEMA DA RECORRIDA DESDE A NOTIFICAÇÃO DE OCORRÊNCIA DE FRAUDE À ABERTURA DE DIVERSAS CONTESTAÇÕES, DEMONSTRA CLARA E EVIDENTE FALHA NA PRESTAÇÃO DE SERVIÇOS E DESÍDIA DA RECORRENTE COM O CONSUMIDOR. DESSA MANEIRA, O DANO EXTRAPATRIMONIAL ENCONTRA-SE CONFIGURADO. ACERCA DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS NO IMPORTE DE R$ 2.000,00 (DOIS MIL REAIS), POR SINAL, ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. PORTANTO, NÃO É CASO DE EXCLUSÃO, TAMPOUCO REDUÇÃO DA CONDENAÇÃO, DEVENDO SER SUSTENTADA.
+
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95.
+
+CONDENAÇÃO DA PARTE RÉ/RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% SOBRE O VALOR DA CONDENAÇÃO E, NÃO HAVENDO, SOB O VALOR CORRIGIDO DA CAUSA.
+
+VOTOS
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO
+para
+manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
