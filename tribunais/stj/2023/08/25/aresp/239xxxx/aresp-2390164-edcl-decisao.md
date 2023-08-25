@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO DONIZETE RUFATO, à decisão de fls. 478/479, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Data máxima vênia, o recurso interposto não é intempestivo, justificamos:
+No intervalo do prazo recursal em outubro/2022 houve dois feriados, sendo na data de 12/10 (dia de Nossa Senhora Aparecida) e 28/10 (dia do Servidor Público);
+Ambas as datas são nacionais e não operam os prazos processuais.
+Dessa forma, considerando as aludidas datas, temos que o recurso interposto está dentro do prazo, e portanto, merece acolhida.
+A imagem abaixo clarifica a contagem: (fl. 482).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, veja que houve a disponibilização da decisão do acórdão recorrido em 5/10/2022, considerando-se publicada em 6/10/2022 (fl. 431). Excluindo-se o dia 6/10/2022 (primeiro dia), inicia-se a contagem no dia 7/10/2022, até o dia 11/10/2022. Exclui-se da contagem o dia 12/10/2022, uma vez que se trata de feriado nacional, que não necessita ser comprovado. Após, a contagem é reiniciada no dia 13/10/2022, finalizando o prazo no dia 28/10/2022, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 28/10/2022, sendo que o recurso especial foi interposto somente em 31/10/2022, fora do prazo.
+No que se refere à alegação de que o dia do servidor público é feriado nacional, ressalta-se que a jurisprudência do Superior Tribunal de Justiça é no sentido de que o dia 28 de outubro não se trata de feriado nacional, devendo ser comprovada a suspensão do expediente forense no momento da interposição do recurso. Nesse sentido, AgInt no AREsp 1336242/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 11/11/2019; e AgInt no AREsp 1472900/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/10/2019.
+Cumpre ainda esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
