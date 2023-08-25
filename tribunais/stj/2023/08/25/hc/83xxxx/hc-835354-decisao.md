@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROGER WUILLIAN MELO GOUVEIA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação n. 0010345-21.2021.8.16.0017).
+Depreende-se dos autos que o réu foi denunciado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006), em razão da posse de quase 200g (duzentos gramas) de cocaína (e-STJ fl. 36). Em primeiro grau, foi absolvido.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso do Ministério Público estadual para condenar o paciente a 10 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, pelo referido delito. Eis a ementa (e-STJ fl. 18):
+APELAÇÃO CRIME - TRÁFICO DE DROGAS (L. 11.343/06, ART. 33, ) - CAPUT ABSOLVIÇÃO - RECURSO DO MINISTÉRIO PÚBLICO. PEDIDO DE CONDENAÇÃO NOS TERMOS DA DENÚNCIA - ALEGAÇÃO DE SUFICIÊNCIA DE PROVAS A JUSTIFICAR O DECRETO CONDENATÓRIO - PROCEDÊNCIA - SUFICIENTE COMPROVAÇÃO DA MATERIALIDADE DO TRÁFICO E DA AUTORIA DOS FATOS PELO RÉU - VALIDADE DOS DEPOIMENTOS DOS POLICIAIS - EXISTÊNCIA DE ELEMENTOS SUFICIENTES NOS AUTOS A EVIDENCIAR A PRÁTICA DA CONDUTA DESCRITA NO ARTIGO 33 DA LEI DE DROGAS - SENTENÇA REFORMADA. PEDIDO DE PERDIMENTO, EM FAVOR DA UNIÃO, DOS BENS (DOIS TELEFONES CELULARES E UMA MOTOCICLETA HONDA/BIZ) E VALORES (R$1.355,00) APREENDIDOS NOS AUTOS - PARCIAL PROCEDÊNCIA: PERDIMENTO DO DINHEIRO EM FAVOR DA UNIÃO - NÃO COMPROVAÇÃO DE ORIGEM LÍCITA; NÃO DEMONSTRAÇÃO DO EMPREGO DOS ELETRÔNICOS NO ILÍCITO NEM DE SUA AQUISIÇÃO COM PRODUTO DO CRIME - MANUTENÇÃO DA DEVOLUÇÃO DOS CELULARES; PERDIMENTO DA MOTOCICLETA EM FAVOR DA UNIÃO - INTELIGÊNCIA DO ARTIGO 62 DA LEI 11.343/06 - VEÍCULO UTILIZADA PARA TRANSPORTAR ENTORPECENTE - BASTA A UTILIZAÇÃO DO BEM NA PRÁTICA DO TRÁFICO DE ENTORPECENTES, INCLUSIVE NO TRANSPORTE DA DROGA, PARA AUTORIZAR A SUA APREENSÃO E O SEU PERDIMENTO - ORIENTAÇÃO DO E. SUPREMO TRIBUNAL FEDERAL EM SEDE DE REPERCUSSÃO GERAL (RE 638491). RECURSO PARCIALMENTE PROVIDO.
+Neste writ, sustentou a defesa ser indevido o aumento da pena-base em razão da quantidade de drogas, bem como da pena intermediária por reincidência relativa a processo no qual foi o paciente absolvido.
+Requereu, assim, o redimensionamento da pena.
+Liminar indeferida (e-STJ fls. 65/66).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 101/108).
+É o relatório. Decido.
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado em 11/7/2022, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Ocorre que, da leitura do acórdão aqui impugnado, vislumbro ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+Para delimitar a controvérsia, transcrevo o seguinte excerto do acórdão proferido pela Corte de origem (e-STJ fl. 29):
+(1) Pena base - Circunstâncias judiciais (art. 59 do CP c/c art. 42 da L. 11.343/06):
+Salienta-se inicialmente que artigo 42 da Lei nº 11.343/06 prevê que na primeira fase da dosimetria da pena "a natureza e a quantidade da substância ou do produto, a personalidade e a conduta devem ser consideradas e, aliás, preponderam sobre as demais circunstâncias judiciais social do agente" previstas no artigo 59 do Código Penal.
+Culpabilidade do réu: normal à espécie, o que não justifica elevação da pena base.
+Antecedentes do réu: a certidão de mov. 211.2 revela que, ao tempo dos fatos, o réu possuía três condenações definitivas (nas ações penais nº 0016436-74.2014.8.16.0017, nº 0025243-49.2015.8.16.0017 e nº 0002067-02.2019.8.16.0017), das quais as duas primeiras serão utilizadas para avaliar negativamente os antecedentes do réu, e a última será utilizada na segunda fase, para fins de reincidência.
+Conduta Social e Personalidade do réu: não há elementos nos autos para aferi-las e, portanto, devem ser interpretadas em favor do réu, de modo que não ensejam elevação da pena base.
+Motivos do crime: inerentes ao tipo penal, de modo que não ensejam elevação da pena base.
+Circunstâncias do crime: normais à espécie, o que não justifica elevação da pena base.
+Consequências do crime: normais à espécie, de modo que não ensejam elevação da pena base.
+Comportamento da vítima: não se aplica ao crime em questão.
+Natureza da droga: é desfavorável ao réu, tendo em vista que uma delas é cocaína, substância que possui alto potencial de lesividade ao bem jurídico tutelado pela legislação .  5  Quantidade da droga: é desfavorável ao réu, tendo em vista que houve a apreensão de 199g (cento e noventa e nove gramas), quantidade que não pode ser desconsiderada e autoriza a elevação da pena base .
+ 6  Ante a avaliação negativa da quantidade e da natureza da droga e dos antecedentes do réu, a pena base deve ser fixada em 08 (oito) anos e 09 (nove) meses de reclusão e 875 (oitocentos e setenta e cinco) dias-multa .
+ 7  (2) Segunda fase - Atenuantes e/ou agravantes:
+Atenuantes: não há.
+Agravantes: em razão da condenação anterior nos autos nº 0002067-02.2019.8.16.0017 (certidão de antecedentes de mov. 211.2), incide em desfavor do apelado a agravante prevista no artigo 61, inciso I, do Código Penal, a ensejar a elevação da sua reprimenda em 1/6 (um sexto) sobre a pena base.
+Desse modo, a pena intermediária resulta em 10 (dez) anos, 02 (dois) meses e 15 (quinze) dias de reclusão e 1.020 (mil e vinte) dias-multa. (Grifei.)
+Pena-base
+Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não constitui demasia enfatizar, no particular, que, "como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela" (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015, p. 808).
+A jurisprudência desta Casa é pacífica nesse sentido, senão vejamos:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ATENUANTE DA MENORIDADE. PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ENUNCIADO N. 231 DO STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CAUSA DE AUMENTO PELA TRANSNACIONALIDADE DO DELITO. BIS IN IDEM. INOCORRÊNCIA. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS REQUISITOS DO ART. 44, I, DO CÓDIGO PENAL - CP. REPRIMENDA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+- A fixação da pena-base em patamar acima do mínimo legal foi devidamente fundamentada pelas instâncias ordinárias que, a teor do art. 42 da Lei n. 11.343/2006, consideraram, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga apreendida (3,5kg de cocaína).
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 487.774/SP, relator Ministro ERICSON MARANHO (Desembargador convocado do TJSP), SEXTA TURMA, julgado em 6/8/2015, DJe 28/8/2015, grifei.)
+Na hipótese, contudo, conquanto a pena-base tenha sido estabelecida acima do mínimo em consideração à natureza e à quantidade do entorpecente apreendido, em observância ao disposto no art. 42 da Lei n. 11.343./2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de drogas apreendidas - 200g (duzentos gramas de cocaína), quantidade que, conquanto relevante, não se revela expressiva o suficiente a justificar a exasperação da pena no patamar escolhido.
+Diante desse cenário, mantido o aumento pelos maus antecedentes, entendo que deve ser redimensionada a reprimenda básica do paciente para 7 anos e 6 meses de reclusão, além de 750 dias-multa.
+Reincidência
+Assiste razão à defesa, na medida em que o paciente, anteriormente ao julgamento do recurso de apelação na origem, fora agraciado com a concessão da ordem nos autos do HC n. 707.576/PR, de relatoria do Ministro Reynaldo Soares da Fonseca, no qual sua Excelência, reconhecendo a nulidade por indevida invasão de domicílio, absolveu o paciente da prática do delito de tráfico de drogas pelo qual havia sido condenado nos autos do Processo n. 0002067-02.2019.8.16.0017.
+Dessarte, deve ser afastado o aumento da pena referente à reincidência do paciente.
+Nova dosimetria do paciente
+Tendo em vista os termos acima delineados e mantidos os demais termos do apenamento, fica a nova pena do paciente consolidada em 7 anos e 6 meses de reclusão, além de 750 dias-multa.
+Ante o exposto, não conheço do writ, mas concedo a ordem de ofício para redimensionar a pena do paciente, nos termos acima delineados.
+Publique-se. Intimem-se.
