@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 298):
+OBRIGAÇÃO DE FAZER. Apelação interposta pela autora. Deserção. Gratuidade indeferida. Devidamente intimada para comprovar o recolhimento do preparo recursal, a apelante quedou-se inerte. Recurso deserto.
+OBRIGAÇÃO DE FAZER. Apelação interposta por terceiro(ASABB) para postular majoração dos honorários advocatícios. Ilegitimidade recursal. Possibilidade de legitimação extraordinária de Associação na defesa do direito de seus associados. Art. 5º, XXI, CF. Todavia, deve-se comprovar que os advogados titulares das verbas sucumbenciais originadas na demanda são a ela associados. No caso em concreto, ausente demonstração desta condição. Orientação do STJ e precedentes desta Corte. RECURSOS DA AUTORA E DA ASSOCIAÇÃO NÃO CONHECIDOS.
+Opostos embargos de declaração, foram rejeitados, conforme se verifica da ementa abaixo transcrita (e-STJ, fl.329):
+EMBARGOS DE DECLARAÇÃO. Ausência de imputação de vícios que possam ser extirpados por meio de embargos de declaração. Tentativa de se rediscutir a matéria envolvendo a ilegitimidade recursal da Associação em representar os interesses da advogada titular das verbas sucumbenciais. Prova de associação só trazida com os embargos de declaração. Documento disponível à embargante antes da interposição do recurso e não juntado aos autos. Finalidade de infirmar a conclusão do aresto, ao invés de sanar vícios. Interpretação do art. 435 e p.único do CPC. RECURSO REJEITADO.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 85, § 2º, § 6º, §14, 996, parágrafo único, do Código de Processo Civil; ao art. 46, III, do Código Civil; e aos arts. 21, 22 da Lei n. 8.906/1994.
+Alega ser detentora de legitimidade processual para pleitear a majoração dos honorários advocatícios de sucumbência devidos aos seus associados, já que atua como substituta processual dos advogados do Banco do Brasil S. A..
+Aduz que o recurso de apelação interposto pela entidade não foi conhecido em razão de sua ilegitimidade, motivo pelo qual "opôs embargos de declaração com o intuito de sanar a contradição contida na assertiva de que a ASABB não comprovou a filiação, sendo que não lhe oportunizada tal possibilidade nos autos" (e-STJ, fl. 310).
+Afirma que "os embargos foram instruídos com a ficha associativa da Dra. Damaris de Siqueira Simioli, condutora da ação original. Todavia, o recurso foi rejeitado" (e-STJ, fl. 310).
+Contrarrazões não foram apresentadas.
+No caso, a Corte de origem concluiu, com base nos elementos fáticos dos autos, que a recorrente não demonstrou a sua legitimidade para postular em juízo em nome dos advogados do Banco do Brasil. Assim se manifestou o acórdão recorrido (e-STJ, fls. 300/305):
+Passo à análise do recurso interposto pela Associação dos Advogados do Banco do Brasil ASABB.
+Referida associação interpôs o presente recurso postulando a majoração dos honorários advocatícios de sucumbência fixados na r. sentença de improcedência na ação de obrigação de fazer proposta por Luciana Puia Moro Zanin ME em face de Banco do Brasil S/A.
+Entrementes, verifica-se ausência de legitimidade da Associação para interpor esta apelação. A ASABB não integrou o polo ativo passivo da demanda (cujo réu foi o Banco do Brasil S/A) e, também, não ingressou na relação processual como assistente ou terceiro interessado.
+Não se desconhece a possibilidade de legitimação extraordinária das associações na defesa do direito de seus associados a teor do que dispõe o 5º, XXI, da CF/88,in verbis: "XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente".
+Contudo, o instituto da substituição processual exige a comprovação específica atinente à filiação dos associados para que a associação possa pleitear seus direitos. Por conseguinte, para se reconheça a legitimidade da associação, como no caso em concreto, esta deve demonstrar que os advogados que atuaram na causa (verdadeiros titulares da verba honorária) são a ela associados.
+O Superior Tribunal de Justiça, no julgamento do AgRg no REsp nº 1.514.660/MS perfilhou a seguinte orientação sobre o tema:
+(..)
+In casu, a embargante interpôs o presente recurso, para fim de prequestionamento, requerendo que a manifestação expressa acerca da não aplicação dos §§ 2 º , 6 º e 11, do artigo 85 do Código de Processo Civil. Na hipótese, não se discute a possibilidade de legitimação extraordinária da associação, consoante disposto no seu estatuto (art. 2º, letra a, fls. 9), contudo, a embargante Associação dos Advogados do Banco do Brasil ASABB não é parte legitima para interpor o presente recurso, visto que não comprovou que os D. Patronos titulares das verbas sucumbenciais fixadas na decisão embargada estão à ela associados.
+(..)
+In casu, todavia, a recorrente não carreou os autos com qualquer elemento concreto a comprovar que os advogados titulares dos honorários são realmente seus associados, ônus que lhe incumbia e do qual não se descurou.
+Anote-se que o recurso está instruído apenas com cópias do estatuto social, regulamento da ASABB e ata de posse de seus diretores (fls.216/228).
+Sublinhe-se que não há comprovação que os advogados que atuaram no feito de origem são seus associados.
+Neste passo, patente sua ilegitimidade recursal para representar os interesses dos advogados titulares das verbas sucumbenciais.
+Sobre o tema, entendimento desta Corte, inclusive desta Câmara:
+(..)
+Ex positis, pelo meu voto, NÃO SE CONHECE dos recursos interpostos pela autora e pela Associação dos Advogados do Banco do Brasil - ASABB.
+Verifico que modificar a conclusão adotada na origem, no sentido de que a associação não comprovou legitimidade para recorrer quanto aos honorários advocatícios de sucumbência, porquanto não demonstrou que os advogados que atuaram no feito são seus associados, demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
