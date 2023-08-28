@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 455):
+DECLARATORIA DE INEXISTÊNCIA DE DÉBITO c.c INDENIZATÓRIA - PLANO DE SAÚDE - INSCRIÇÃO DE NOME EM CADASTROS DE INADIMPLENTES. Não demonstrada a legitimidade da cobrança e a responsabilidade da autora pelo pagamento da dívida, é indevido o apontamento de seu nome nos órgãos de proteção ao crédito - Danos morais in re ipsa. Presumem-se os danos morais em caso de inscrição indevida nos cadastros de inadimplentes, pois esta é lesiva e apta a abalar a imagem do cidadão perante a comunidade - Indenização fixada em R$ 5.000,00 (cinco mil reais), consoante as condições econômicas e sociais das partes, a intensidade do dano, e ainda os princípios da razoabilidade e proporcionalidade - Sentença parcialmente reformada - Recurso da autora provido e desprovido o da ré.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º, 2º, 104, I, 116, 188, I, 391, 475, 928, 944, 1.634, VII, 1.690 e 1.747, do Código Civil.
+Defende a legalidade da cobrança, "considerando que a autora atingiu a maioridade e à época da contratação era absolutamente incapaz, e que em 2018 assumiu a responsabilidade financeira de seu contrato, não há nenhuma ilegalidade em dirigir a dívida à autora, pois o direito era dela, o serviço era dela, a titular era ela" (e-STJ, fl. 469).
+Afirma que a "operadora apenas estava no exercício regular do seu direito (artigo 188, I, CC) em negativar o nome da titular do contrato, pois a autora ficou inadimplente, não efetuou o pagamento mesmo após se tornar plenamente capaz aos atos da vida civil, sendo legal a restrição realizada pela Ré, considerando ainda que a autora era maior de idade" (e-STJ, fl. 470).
+Argumenta que inexiste dano moral indenizável, porquanto além de a conduta adotada pela operadora de plano de saúde ser legítima e a dívida existente, a autora não demonstrou que a inclusão de seu nome no órgão de restrição ao crédito causou abalo de ordem moral.
+Requer a redução da quantia fixada a título de indenização por danos morais, visto que o montante arbitrado de R$ 5.000,00 (cinco mil reais) é desproporcional.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local reconheceu o dever de indenizar da operadora do plano de saúde em razão da inscrição indevida do nome da parte autora em cadastro de inadimplentes, visto que a cobrança efetuada não era legítima. Assim se manifestou o acórdão recorrido (e-STJ, fls. 456/460):
+A ação proposta para declarar a inexistência de débito, condenando-se a requerida ao pagamento de indenização por danos morais foi julgada parcialmente procedente, dando margem aos apelos em exame.
+In casu, restou incontroverso nos autos que a autora teve seu nome negativado por dívida atinente a contrato de assistência à saúde, celebrado por seu genitor, porquanto era menor ao tempo dos fatos.
+Consoante observou o d. Magistrado sentenciante:
+"Na época da inadimplência todas as despesas eram faturadas em nome do contratante, o genitor da autora, descabendo a cobrança contra a beneficiária que não assinou o contrato, máxime diante da inexistência de eventual aditivo contratual.
+Não prospera a tese de que a autora fez uso dos serviços, pois a prova documental que foi juntada aos autos demonstra a prestação de serviços apenas em 2015, muito antes da data em que a autora completou dezoito anos.
+Aliás, conforme dito, não era mesmo viável a utilização dos serviços pela autora após completar a maioridade, o que ocorreu em 2018, já que, conforme afirmado pela ré, o contrato foi rescindido em 2016", fls. 393.
+Além disso, destaca-se que o contrato foi celebrado em setembro de 2015, submetendo-se aos ditames dos artigos 1.690, 1.691 e 1.634 do Código Civil:
+"Art. 1.690. Compete aos pais, e na falta de um deles ao outro, com exclusividade, representar os filhos menores de dezesseis anos, bem como assisti-los até completarem a maioridade ou serem emancipados.
+Parágrafo único. Os pais devem decidir em comum as questões relativas aos filhos e a seus bens; havendo divergência, poderá qualquer deles recorrer ao juiz para a solução necessária.
+Art. 1.691. Não podem os pais alienar, ou gravar de ônus real os imóveis dos filhos, nem contrair, em nome deles, obrigações que ultrapassem os limites da simples administração, salvo por necessidade ou evidente interesse da prole, mediante prévia autorização do juiz.
+Parágrafo único. Podem pleitear a declaração de nulidade dos atos previstos neste artigo:
+I - os filhos;
+II - os herdeiros;
+III - o representante legal.
+Art. 1.634. Compete a ambos os pais, qualquer que seja a sua situação conjugal, o pleno exercício do poder familiar, que consiste em, quanto aos filhos: (..) VII - representá-los judicial e extrajudicialmente até os 16 (dezesseis) anos, nos atos da vida civil, e assisti-los, após essa idade, nos atos em que forem partes, suprindo-lhes o consentimento;"
+Desta forma, não há como sustentar a legitimidade da cobrança, atinente a obrigação contraida em nome do menor sem a presença de ambos os genitores.
+Assim sendo, embora a ré negue o dever de indenizar, é certo que, na hipótese dos autos, responde de forma objetiva, segundo a teoria do risco da atividade (arts.186, 927, par. único do CC e ainda, arts. 14 e 17 do CDC) e tem o dever de ressarcir, independentemente de culpa, os prejuízos de ordem moral suportados pela autora.
+Com efeito, havendo a inscrição indevida de nome perante os órgãos de proteção ao crédito, o dano moral é presumido, uma vez que é fato notório que os registros negativos em nome de quem quer que seja causam abalo de crédito e de privação da confiabilidade perante a comunidade em que o ofendido desenvolve suas atividades.
+A respeito do tema, colaciona-se, por oportuno, o escólio de Sérgio Cavalieri Filho: "O dano moral existe in re ipsa; deriva inexoravelmente do próprio fato ofensivo, de tal modo que, provada a ofensa, ipso facto está demonstrado o dano moral à guisa de uma presunção natural, uma presunção hominis ou facti, que decorre das regras da experiência comum. " Em relação ao quantum indenizatório, embora seja tormentosa a questão de sua fixação, há certos parâmetros consagrados pela doutrina e pela jurisprudência, como as condições econômicas e sociais das partes e a intensidade do dano, que devem ser observados na busca da reparação, oferecendo conforto psicológico à vítima e, ao mesmo tempo, sancionando o causador do fato, a fim de que evite a reincidência.
+Também devem ser atendidos os princípios da proporcionalidade e razoabilidade. Eis um precedente esclarecedor:
+"Na afixação do dano moral, uma vez que a dor verdadeiramente não tem preço, deve-se ponderar sobre as condições socioculturais e econômicas dos envolvidos, grau de culpa, trauma causado e outros fatores, como o de servir de desestímulo à prática de novo ilícito e de compensação amenizadora, de modo que a quantia arbitrada não seja tão irrisória que nada represente e nem tampouco exagerada, que implique em sacrifício demasiado para uma parte e locupletamento para a outra".
+Diante desse contexto e observados os critérios supracitados, conclui-se que o montante de R$ 5.000,00 (cinco mil reais) repara de forma justa a lesada e se adapta aos precedentes desta C. Câmara.
+Essa verba ficará sujeita à correção monetária a partir do arbitramento, computando-se juros de mora legais a partir da citação.
+Por derradeiro, em observância ao disposto no art. 85, §11 do CPC, a ré responderá pelas verbas de sucumbência, mormente por honorários advocatícios de 20% (vinte por cento) sobre a condenação.
+Diante do exposto, dá-se provimento ao apelo da autora e nega-se provimento ao da ré.
+No tocante à alegada violação aos arts. 1º, 2º, 104, I, 116, 188, I, 391, 475, 928, 1.634, VII, 1.690 e 1.747, sustenta a recorrente a ausência de danos morais, uma vez que a inscrição da parte autora no cadastro de inadimplentes decorreu de exercício regular de um direito, não configurando ato ilícito.
+Com efeito, alterar a conclusão adotada pelo Tribunal local, para afastar a responsabilidade da recorrente pela inscrição da recorrida no cadastro de inadimplentes, demandaria o reexame do conjunto fático probatório dos autos, bem como a análise das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. Está pacificado nesta Corte Superior que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa. Precedentes.
+2. É inviável o acolhimento da tese da ausência de responsabilidade civil da agravante, pois, para tanto, seria imprescindível o revolvimento do acervo fático-probatório, providência vedada a esta Corte Superior ante o óbice da Súmula 7/STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 1941278/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/02/2022, DJe 09/03/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL. CABIMENTO. IN RE IPSA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravoem recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. O Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu que houve cobrança abusiva por parte da recorrente e decorrente inscrição indevida nos cadastros de inadimplentes.
+3. Infirmar as conclusões do julgado demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1933139/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 17/12/2021)
+Quanto ao valor indenizatório arbitrado, o entendimento pacificado no Superior Tribunal de Justiça é no sentido de que o montante estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+A Corte local, ao analisar as circunstâncias do caso concreto, condenou a parte recorrente ao pagamento de indenização por danos morais no importe de R$ 5.000,00 (cinco mil reais), quantia que seria suficiente e razoável para reparar o dano sofrido pela parte autora.
+Assim, o valor arbitrado pelo Tribunal estadual está dentro dos padrões da razoabilidade e proporcionalidade, conforme o analisado em razão das circunstâncias dos autos, não se mostrando desproporcional à lesão, de modo a ensejar sua alteração em grau de recurso especial.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Sem majoração de honorários advocatícios recursais, porquanto fixados em seu percentual máximo.
+Intimem-se.
