@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por FÁBIO JORGE BATISTA PINTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 610-624):
+Franquia - Ação inibitória e indenizatória - Decreto de parcial procedência - Mútua imputação de descumprimento de deveres obrigacionais - Ausência de reconvenção - Cabimento de pronunciamento apenas acerca do pedido e causa de pedir constantes na peça inaugural - Questões preliminares de cerceamento de defesa e inépcia de petição inicial rejeitadas - Regularidade da apresentação de documentos com o ajuizamento da réplica, aplicado o art. 435 do CPC/2015 - Cláusula de não concorrência prevista no Contrato de Franquia - Violação - Demonstração da atuação de ex-franqueado no mesmo ramo de atividade e no mesmo logradouro - Reconhecimento da prática de ato ilícito - Ordem judicial deferida com o fim de que o réu encerre a atividade concorrente - Alegada cumulação de multas - Inexistência - Sentença mantida - Recurso desprovido.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (fls. 644-673).
+No recurso especial, o recorrente alega, no mérito, ofensa aos arts. 355, 369, 370 e 373 do CPC, sustentando que, no presente caso, o Tribunal de origem teria incidido em cerceamento de defesa em razão do julgamento antecipado da lide e pelo indeferimento de produção de prova oral.
+O recorrido ofereceu contrarrazões ao recurso especial (fls. 648-696).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 697-698), o que ensejou a interposição do presente agravo.
+O agravado apresentou contraminuta do agravo (fls. 720-740).
+No STJ, o agravo em recurso especial foi inadmitido por ser intempestivo (fls. 744-745).
+Sobreveio nova decisão reconhecendo a tempestividade do recurso e determinando o processamento e julgamento do agravo em recurso especial (fls. 822-824).
+É, no essencial, o relatório.
+De início, não merece conhecimento o apelo nobre quanto à suscitada violação do arts. 355, 369, 370 e 373 do CPC, relativos a eventual cerceamento de defesa nas instâncias ordinárias.
+Ocorre que, da análise do acórdão recorrido, verifica-se que o Tribunal de origem decidiu a lide com base no conjunto fático-probatório carreado aos autos, entendendo que as provas existentes eram suficientes ao deslinde da controvérsia, bem como não haveria que se falar em cerceamento de defesa.
+Por oportuno, destaco trechos da decisão recorrida (fls. 619-620):
+Ademais, como o enfatizado na sentença, o requerido não apresentou prova documental do alegado "repasse a terceiro" e, de fato, não é crível a celebração de um "trespasse de estabelecimento comercial" sem qualquer mínimo elemento documental, seja um instrumento particular, uma declaração de quem eventualmente tenha assumido o ponto, um recibo de pagamento ou qualquer outro documento para justificar eventual colheita de testemunhos, como sugerido nas razões recursais, ausente, até mesmo, a indicação do nome com quem foi celebrado este novo negócio jurídico, assim como a data do aventado "repasse".
+Da mesma forma, o recorrente sequer indica qual espécie de exame pericial poderia colaborar para contrapor as provas apresentadas pela autora, sendo apresentadas proposições genéricas e sem o condão de justificar atos instrutórios.
+O conjunto de elementos já reunidos nos autos não se coaduna, então, tendo em conta o princípio da persuação racional, com a necessidade da designação de audiência ou a realização de uma perícia (STJ, AgInt no AREsp 1096303/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/08/2017, DJe 29/08/2017).
+Persiste, portanto, enquadramento efetivo junto ao artigo 355, inciso I do CPC de 2015, restando descaracterizados o proposto cerceamento de defesa e a nulidade processual
+ ..
+Nesse sentido, rever as conclusões do Tribunal de origem acerca do suscitado cerceamento de defesa pelo julgamento antecipado da lide e pelo indeferimento de produção de outras provas demandaria reanálise do conjunto fático-probatório, inviável em recurso especial em razão do óbice da Súmula n. 7/STJ.
+Cito precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COLISÃO DE VEÍCULOS. ABANDONO DE CAUSA. NÃO OCORRÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283 DO STF. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova oral e pericial esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.
+3. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.796.605/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/3/2021, DJe de 23/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade de produção de prova pericial. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2. Infirmar as conclusões do acórdão demandaria a revisão das cláusulas contratuais e do quadro fático delineado nos autos, o que não é cabível em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.642.425/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/11/2020, DJe de 23/11/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem -se.
