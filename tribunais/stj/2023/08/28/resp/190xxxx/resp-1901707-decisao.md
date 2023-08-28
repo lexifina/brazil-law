@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  em  face  de  acórdão  com  a  seguinte  ementa:
+AGRAVO  INTERNO.  AÇÃO  RESCISÓRIA.  INDEFERIMENTO  DE  LIMINAR.  PERICULUM  IN  MORA.  AÇÃO  DE  EXONERAÇÃO  DE  ALIMENTOS.  QUESTÃO  PREVIDENCIÁRIA  DECIDIDA  PELA  JUSTIÇA  FEDERAL.  RECURSO  PROVIDO.
+A  decisão  do  Tribunal  de  Justiça  que  excluiu  da  autora  o  direito  a  dividir  a  pensão  por  morte  parece  ofender  a  coisa  julgada  material,  e,  por  conseguinte,  há  relevância  jurídica  na  argumentação  desenvolvida  na  inicial.
+V.  V.  Deve  ser  mantida  a  decisão  do  Relator  que,  em  ação  rescisória  interposta  contra  acórdão  proferido  em  ação  de  exoneração  de  alimentos,  indeferiu  a  liminar  sob  o  fundamento  de  ausência  do  periculum  in  mora,  porquanto  a  questão  relativa  a  pensão  previdenciária  devida  pela  Polícia  Rodoviária  Federal  já  restou  examinada  e  decidida  no  âmbito  da  Justiça  Federal.
+Alega-se  violação  dos  artigos  1.022  e  966,  IV  e  V,  do  Código  de  Processo  Civil  sob,  o  argumento  de  que  o  acórdão  local  é  omisso  e  que  é  o  caso  de  se  julgar  procedente  a  ação  rescisória.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Não  é  omissa, nem  carece  de  fundamentação  a  decisão  judicial  que,  embora  decida  em  sentido  contrário  aos  interesses  da  parte,  examina  suficientemente  as  questões  que  lhe  foram  propostas,  adotando  entendimento  que  ao  órgão  julgador  parecia  adequado  à  solução  da  controvérsia.
+Assim:
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  REGULAR  PRESTAÇÃO  JURISDICIONAL.  INÉPCIA  DA  INICIAL.  HONORÁRIOS.  COMPENSAÇÃO.
+1.  Ausência  de  violação  dos  artigos  489  e  1.022  do  Código  de  Processo  Civil,  pois,  embora  rejeitados  os  embargos  de  declaração,  a  matéria  em  exame  foi  devidamente  enfrentada  pelo  Tribunal  de  origem,  que  emitiu  pronunciamento  de  forma  fundamentada.
+2.  Inviabilidade  de  acolher  a  alegação  de  inépcia  da  inicial,  pois  a  convicção  formada  pela  Corte  local  decorreu  dos  elementos  existentes  nos  autos,  os  quais  não  são  possíveis  de  ser  reexaminados  nesta  via  especial.  Incidência  da  Súmula  7/STJ.
+3.  Fixada  a  compensação  de  honorários  na  vigência  do  CPC/1973,  deve  ser  mantida  já  que  acolhida  até  então  pelo  ordenamento  jurídico,  conforme  elucidado  no  enunciado  da  Súmula  n.  306/STJ,  tendo  em  vista  que  a  sucumbência  é  regida  pela  lei  vigente  à  data  da  deliberação  que  a  impõe  ou  modifica.
+4.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  1131853/RS,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  8/2/2018,  DJe  16/2/2018)
+O  Tribunal  local,  no  mais,  decidiu  apenas  a  respeito  do  pedido  liminar,  deferindo-lhe  pela  divergência  inaugurada  pelo  primeiro  vogal,  que  o  fez  nos  seguintes  termos:
+"Sendo  assim,  a  decisão  do  Tribunal  de  Justiça  que  excluiu  da  autora  o  direito  a  dividir  a  pensão  por  morte  parece  ofender  a  coisa  julgada  material,  e,  por  conseguinte,  há  relevância  jurídica  na  argumentação  desenvolvida  na  inicial.  Percebe-se,  ainda,  que  o  periculum  in  mora  encontra-se  presente  na  medida  em  que,  se  se  aguardar  o  tempo  necessário  para  o  julgamento  desta  ação  rescisória,  a  autora  poderá  ficar  desprovida  de  meios  materiais  para  a  sua  subsistência  em  razão  do  caráter  alimentar  da  pensão  por  morte.
+É  necessário  afirmar,  ainda,  que  conforme  é  possível  extrair  da  prova  documental  anexada  aos  autos,  a  autora,  ora  agravante,  foi,  definitivamente  excluída  do  rateio  da  pensão  consoante  por  ato  da  Superintendência  Regional  em  Minas  Gerais  da  Polícia  Rodoviária  Federal  comunicado  ao  Juiz  da  2ª  Vara  de  Família  da  comarca  de  Araxá.
+Fundado  nessas  razões  e  na  forma  autorizada  pelo  art.  969,  CPC,  dou provimento ao  agravo  para  conceder  a  tutela  provisória  à  agravante  e  sobrestar  os  efeitos  do  acórdão  rescindendo  no  qual  este  declarou-se  que  a  ora  agravante  não  possui  nenhum  direito  previdenciário.
+Em  consequência,  deverá  a  Superintendência  Regional  em  Minas  Gerais  da  Polícia  Rodoviária  Federal  ser  notificada  desta  decisão  para  restabelecer  o  pagamento  da  pensão  por  morte  na  forma  definida  pela  Justiça  Federal"  (e-STJ,  fl.  2.119).
+Inequívoca,  portanto,  a  incidência  dos  verbetes  n.  7  da  Súmula  desta  Casa  e  735  do  Supremo  Tribunal  Federal.
+Em  face  do  exposto,  nego  provimento  ao  recurso  especial.
+Intimem-se.
