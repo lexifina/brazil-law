@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO DA PRÁTICA DO CRIME DESCRITO NO ART. 35 DA LEI DE DROGAS. PRÁTICA DA ASSOCIAÇÃO PARA O TRÁFICO ATESTADA PELA CORTE DE ORIGEM. ACOLHIMENTO DA TESE DEFENSIVA A RECLAMAR REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a jurisprudência desta Corte Superior possui entendimento no sentido de que "para a configuração do delito de associação para o tráfico de drogas, é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35, da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário" (HC n. 434.972/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018).
+III - Na presente hipótese, do v. acórdão de origem, pode-se extrair a atividade criminosa em associação, bem como há a devida descrição e comprovação da estabilidade e permanência, que ensejaram a condenação do paciente pelo delito previsto no art. 35 da Lei n. 11.343/2006.
+IV - De mais a mais, se as instâncias de origem entenderam, de forma fundamentada, mediante valoração do acervo probatório produzido nos autos, configurada a tipicidade delitiva, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARINILSON CARNEIRO DA SILVA contra decisão que denegou a ordem de habeas corpus (fls. 1477-1479).
+Depreende-se dos autos que o agravante foi condenado à pena de 9 anos e 6 meses de reclusão e 1.430 dias-multa, em regime inicial fechado, como incurso nos arts. 33, caput e 35, caput, ambos da Lei n. 11.343/2006 (fls. 827-839).
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo (fls. 1095-1124).
+No respectivo writ impetrado nesta Corte, a defesa requereu a concessão da ordem, para absolver o paciente do crime previsto no art. 35, caput, da Lei de Drogas.
+O habeas corpus foi denegado (fls. 1477-1479).
+Nas razões recursais, o agravante renova o pedido referente à necessidade de absolvição do paciente do crime de associação para o tráfico.
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO DA PRÁTICA DO CRIME DESCRITO NO ART. 35 DA LEI DE DROGAS. PRÁTICA DA ASSOCIAÇÃO PARA O TRÁFICO ATESTADA PELA CORTE DE ORIGEM. ACOLHIMENTO DA TESE DEFENSIVA A RECLAMAR REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a jurisprudência desta Corte Superior possui entendimento no sentido de que "para a configuração do delito de associação para o tráfico de drogas, é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35, da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário" (HC n. 434.972/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018).
+III - Na presente hipótese, do v. acórdão de origem, pode-se extrair a atividade criminosa em associação, bem como há a devida descrição e comprovação da estabilidade e permanência, que ensejaram a condenação do paciente pelo delito previsto no art. 35 da Lei n. 11.343/2006.
+IV - De mais a mais, se as instâncias de origem entenderam, de forma fundamentada, mediante valoração do acervo probatório produzido nos autos, configurada a tipicidade delitiva, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Precedentes.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Segundo o relatório, almeja a parte agravante a absolvição do agravante do crime de associação para o tráfico de drogas.
+Cumpre registrar que a jurisprudência desta Corte Superior possui entendimento no sentido de que "para a configuração do delito de associação para o tráfico de drogas, é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35, da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário" (HC n. 434.972/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018).
+A propósito: RCD no HC n. 593.840/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 16/09/2020 e AgRg no AREsp n. 1.676.091/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe 31/08/2020.
+In casu, pode-se extrair a atividade criminosa em associação, bem como há a devida descrição e comprovação da estabilidade e permanência, que ensejaram a condenação do agravante pelo delito previsto no art. 35 da Lei n. 11.343/2006.
+Com efeito, como bem salientado pela sentença condenatória, "não restam dúvidas de que os réus mantinham uma rede organizada de tráfico de drogas, pois o fornecimento de grande quantidade da droga era feito pelo acoimado Marinilson Carneiro da Silva (Nilson), ao tempo em que Alisson Gustavo Araújo Macedo (Lato) adquiria do primeiro a aludida substância, tudo isto, para comercializa-la nesta Capital, notadamente com o suporte de Tiago Siqueira da Silva (galego), o qual fazia a distribuição da droga individualizada, bem como arrecadava o dinheiro do respectivo comércio ilícito de entorpecentes" (fl. 833).
+Consignando, ainda, que "a comunicabilidade delituosa residia no fato de que cada um dos denunciados desempenhava um papel distinto na comercialização da droga nesta Capital, caracterizando uma nítida divisão de tarefas (associação para o tráfico), pois, enquanto Marinilson Carneiro da Silva (traficante fornecedor) fornecia a droga para Alisson Gustavo Araújo Macedo (traficante comerciante), Tiago Siqueira da Silva (traficante transportador) recebia a droga individualizada e a distribuía na circunscrição do tráfico, vindo em seguida a arrecadar o dinheiro do respectivo comércio ilícito de entorpecentes perante os seus respectivos consumidores" (fl. 833).
+Nessa ordem de ideias, a Corte Estadual, "considerando estarem comprovadas na presente hipótese a estabilidade, a permanência e a vontade dos acusados de se associarem para realizar o tráfico de drogas" (fl. 1106), manteve a condenação do réu.
+Assim, uma vez demonstrado o ânimo associativo entre os agentes, consubstanciado no firme acorde de vontades para a prática do crime de tráfico de drogas, inexiste a flagante ilegalidade apontada pela defesa.
+De mais a mais, se as instâncias de origem entenderam, de forma fundamentada, mediante valoração do acervo probatório produzido nos autos, configurada a tipicidade deli tiva, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Nesse sentido: AgRg no HC n. 726.142/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2022 e AgRg no AREsp n. 2.094.319/MG, Sexta Turma, Re. Min. Rogerio Schietti Cruz, DJe de 10/6/2022.
+Desta feita, observa-se que a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
