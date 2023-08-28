@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de nulidade de cláusula contratual cumulada com compensação por danos morais e indenização por danos materiais, na qual alega abusividade na cobrança de reajuste de mensalidade de plano de saúde.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por GEAP AUTOGESTAO EM SAUDE, contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial.
+Ação: de nulidade de cláusula contratual cumulada com compensação por danos morais e indenização por danos materiais, ajuizada por MARIA AMELIA SIQUEIRA MACHADO, em face da agravante, na qual alega abusividade na cobrança de reajuste de mensalidade de plano de saúde.
+Decisão de Admissibilidade do TJ/CE: inadmitiu o recurso especial, considerando: Súmula 7/STJ, ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF, Súmula 283/STF, ausência de prequestionamento e Súmula 518/STJ.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela parte agravante em razão da incidência da Súmula 182 do STJ, face a ausência de impugnação dos seguintes óbices: Súmula 7/STJ, ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF e Súmula 518/STJ.
+Agravo interno: a parte agravante alega que rebateu todos fundamentos da decisão denegatória de processamento do recurso e requer a sua reconsideração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de nulidade de cláusula contratual cumulada com compensação por danos morais e indenização por danos materiais, na qual alega abusividade na cobrança de reajuste de mensalidade de plano de saúde.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por GEAP AUTOGESTAO EM SAUDE, contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182 do STJ, face a ausência de impugnação dos seguintes óbices: Súmula 7/STJ, ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF e Súmula 518/STJ.
+Da análise das razões do agravo em recurso especial, verifica-se que, de fato, a parte agravante não sustentou a inaplicabilidade da Súmula 7/STJ de forma consistente, limitando-se a alegar, de maneira genérica, que se pretendia a aplicação do direito à hipótese, sem demonstrar quais os pressupostos fáticos necessários ao julgamento da causa estavam delineados no acórdão recorrido. Outrossim, cumpre ressaltar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos.
+Ademais, quanto à incidência da Súmula 284 do STF, por ausência de indicação do artigo de lei federal tido por violado, bem como quanto à incidência da Súmula 518/STJ, a parte agravante não apresentou qualquer argumentação apta a impugnar os referidos óbices.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Assim, cabia à agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os
+fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
