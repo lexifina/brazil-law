@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO LIMINARMENTE. FURTO QUALIFICADO E CORRUPÇÃO DE MENOR. CONTEXTO FÁTICO ÚNICO. CONCURSO FORMAL. RECONHECIMENTO. PENA REDIMENSIONADA. REEXAME PROBATÓRIO. DESNECESSIDADE. ILEGALIDADE MANIFESTA NA DECISÃO MONOCRÁTICA. AUSÊNCIA. MANUTENÇÃO QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que concedeu liminarmente a ordem, reconhecendo o concurso formal, uma vez que o delito de corrupção de menor se deu em razão da prática do furto qualificado, pois a agravada, mediante uma só ação, praticou dois ilícitos penais, não restando comprovada autonomia de desígnios. Precedente.
+2. Ademais, prescinde de incursão probatória o reconhecimento do concurso formal, especialmente quando as instâncias ordinárias aplicaram o concurso material sem a devida fundamentação da existência de condutas distintas e desígnios autônomos. Precedente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 542.070/2023), tempestivo, interposto pelo Ministério Público Federal contra decisão de lavra deste Relator (fls. 93/94), que concedeu liminarmente a ordem, a seguir ementada:
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO E CORRUPÇÃO DE MENOR. CONTEXTO FÁTICO ÚNICO. CONCURSO FORMAL. RECONHECIMENTO. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
+Pretende o agravante, em síntese, a reforma da decisão hostilizada para restabelecer sentença condenatória, no ponto em que reconhece o concurso formal entre os crimes imputados à ré (fl. 101), ao argumento de que a decisão monocrática aprecia a prova e altera o resultado do julgamento do Tribunal a quo, apreciando o acervo probatório, para dizer que o desígnio do réu era diverso daquele consignado na via ordinária (fl. 100).
+Em sua impugnação, a agravada aponta desnecessidade de revolvimento de fatos e provas, pois a corrupção se deu exatamente pela concretização do crime patrimonial. Caso tivesse (eventual) convite de participação sido feito, sem aceitação do menor, sequer haveria crimes, ficando na esfera da cogitatio, não punível na legislação pátria (fl. 119).
+A seu turno, o Ministério Público do Rio de Janeiro se manifestou pelo desprovimento do agravo, assentando que o crime de corrupção de menores foi praticado no mesmo contexto fático e momento da prática do crime de furto, sendo certo que não restou demonstrada a autonomia de condutas, ou a precedência de uma em relação à outra (fl. 129).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO LIMINARMENTE. FURTO QUALIFICADO E CORRUPÇÃO DE MENOR. CONTEXTO FÁTICO ÚNICO. CONCURSO FORMAL. RECONHECIMENTO. PENA REDIMENSIONADA. REEXAME PROBATÓRIO. DESNECESSIDADE. ILEGALIDADE MANIFESTA NA DECISÃO MONOCRÁTICA. AUSÊNCIA. MANUTENÇÃO QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que concedeu liminarmente a ordem, reconhecendo o concurso formal, uma vez que o delito de corrupção de menor se deu em razão da prática do furto qualificado, pois a agravada, mediante uma só ação, praticou dois ilícitos penais, não restando comprovada autonomia de desígnios. Precedente.
+2. Ademais, prescinde de incursão probatória o reconhecimento do concurso formal, especialmente quando as instâncias ordinárias aplicaram o concurso material sem a devida fundamentação da existência de condutas distintas e desígnios autônomos. Precedente.
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão repreendida - que reconheceu o concurso formal entre os delitos de corrupção de menor e furto qualificado e redimensionou a pena para 2 anos e 4 meses de reclusão, e 11 dias-multa (referente à condenação proferida na Ação Penal n. 0278136-92.2018.8.19.0001, da 27ª Vara Criminal da comarca do Rio de Janeiro/RJ) - não comporta reparos.
+Inicialmente, porque o delito de corrupção do menor se deu em razão da prática do furto qualificado, pois a agravante, mediante uma só ação, praticou dois ilícitos penais, não restando comprovada autonomia de desígnios, nos termos da denúncia: no dia 24/11/2018, por volta das 20h30min, no interior do centro comercial BARRASHOPPING, localizado na Avenida das Américas, n. 4.666, Barra da Tijuca, nesta cidade, a denunciada, agindo de forma livre e consciente, em comunhão de ações e desígnios com o adolescente  .. , de 14 anos de idade, subtraiu para si e seu comparsa os seguintes itens de propriedade do estabelecimento comercial LOJAS AMERICANAS (fl. 13).
+Nesse sentido: a partir da leitura da denúncia, constata-se ser inequívoco que a corrupção do menor se deu em razão da prática do delito patrimonial, devendo ser reconhecida a existência de concurso formal entre os referidos crimes (REsp n. 1.967.713/SC, Ministra Laurita Vaz, Sexta Turma, DJe 27/6/2022).
+Ademais, prescinde de incursão probatória o reconhecimento do concurso formal, especialmente quando as instâncias ordinárias aplicaram o concurso material sem a devida fundamentação da existência de condutas distintas e desígnios autônomos. Confira-se: AgRg no REsp n. 2.051.458/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/6/2023.
+Em razão disso, nego provimento ao agravo regimental.
