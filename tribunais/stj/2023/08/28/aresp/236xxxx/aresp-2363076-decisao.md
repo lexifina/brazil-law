@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. Decisão que reconsiderou a anterior e atribuiu o custeio da prova pericial ao banco embargado. Irresignação. Reconsideração que se procedeu de ofício, em malferição à preclusão temporal e aos princípios da segurança jurídica e da paridade de tratamento entre as partes. Aplicabilidade do art. 7º, do CPC. Imprescindibilidade de desenvolvimento ordenado, coerente e regular do processo, assegurando a certeza e a estabilidade das situações processuais, sob pena de retrocessos e contra marchas desnecessárias. Ademais, não se desconhece que o encargo probatório de demonstrar a regularidade da contratação é dirigido à parte que produziu o documento, no caso, o banco. Inteligência do art. 429, II, do CPC. Todavia, a inversão do ônus da prova e responsabilidade pelo custeio dos salários periciais não se confundem. Incumbe à parte que requereu a prova o adiantamento dos salários periciais. Inteligência do artigo 95 do CPC. Prova pericial requerida pela autora que, sendo beneficiária da gratuidade judiciária, será arcada pelo Fundo de Assistência Judiciária, conforme previsto no § 3º do artigo 95 do CPC. RECURSO PROVIDO" (fl. 614 e-STJ)
+A agravante aponta violação aos arts. 411 e 429, inciso II, do Código de Processo Civil, sustentando que é do consumidor o ônus de provar a falsidade da assinatura aposta em contrato, mormente quando as firmas foram reconhecidas por tabelião de notas.
+Contrarrazões às fls. 643/649 e-STJ.
+Juízo negativo de admissibilidade proferido às fls. 650/651 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece prosperar.
+O acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, firmada no julgamento do REsp 1.846.649/MA, Rel. Ministro MARCO AURÉLIO BELIZZE, Segunda Seção, DJe de 9/12/2021, sob o rito dos recursos repetitivos, no sentido de que "na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade (CPC, arts. 6º, 369 e 429, II)", que poderá ocorrer mediante perícia grafotécnica ou outro meio de prova.
+Aplica-se, portanto, a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
