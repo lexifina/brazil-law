@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL COM REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182/STJ E DO ARTIGO 1.021, § 1º, DO CPC/2015. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. CABIMENTO.
+1. Ação de revisão contratual com repetição de indébito.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015 e da Súmula n. 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.
+RELATÓRIO
+MINISTRA NANC Y ANDRIGHI: Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão singular, desta relatoria (e-STJ fls. 596/599).
+Não foram opostos embargos de declaração.
+Impugnação às fls. 613/623 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 4º do artigo 1.021 do CPC/2015.
+Ação: revisão contratual com repetição de indébito ajuizada por REGINALDO DE SÁ GOUVEIA, em face da agravante.
+Sentença: julgou procedentes os pedidos formulados pelo agravado.
+Acórdão: deu parcial provimento à apelação de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, nos termos da seguinte ementa (e-STJ fls. 291/292):
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO - CONTRATO DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA - CONTRATO DE FINANCIAMENTO HABITACIONAL FIRMADO COM A PREVI (CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL) - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR À HIPÓTESE DOS AUTOS - NÍTIDA RELAÇÃO DE CONSUMO - TEORIA SOCIAL DO CONTRATO - PRECEDENTES - POSSIBILIDADE DE REVISÃO DE CLÁUSULAS ABUSIVAS - MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. PRECEDENTES DO STJ - CAPITALIZAÇÃO MENSAL E JUROS PACTUADA NO CONTRATO DE FINANCIAMENTO, FIRMADO EM 1992 - POSSIBILIDADE DA CAPITALIZAÇÃO MENSAL UNICAMENTE PARA CONTRATOS FIRMADOS APÓS A EDIÇÃO DA MP Nº 1.963-17/00, REEDITADA COMO MP Nº 2.170-36/01 (SÚMULA 539 DO STJ) - CAPITALIZAÇÃO ANUAL PERMITIDA - ART. 591 DO NCC E ART. 4º DO DECRETO Nº 22.626/33 - RESTITUIÇÃO DO INDÉBITO CABÍVEL - SUCUMBÊNCIA MÍNIMA DO AUTOR (ART. 86, PARAGRAFO ÚNICO DO CPC) - DESPESAS E HONORÁRIOS A CARGO DA PREVI - MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL, PARA MAIS 2%, TOTALIZANDO 12% DO VALOR DO PROVEITO ECONÔMICO AUFERIDO COM A DEMANDA, A SER APURADO EM FASE DE LIQUIDAÇÃO. - RECURSO CONHECIDO E PROVIDO EM PARTE - À UNANIMIDADE.
+I - Incide a legislação consumerista aos contratos de mútuo envolvendo entidade previdenciária e associado, na senda do que dispõe o artigo 3º, § 2º do CDC.
+II - Nos contratos celebrados por instituições integrantes do Sistema Financeiro Nacional, posteriormente à edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada. Na hipótese dos autos, porém, o contrato foi firmado antes da edição da citada MP, havendo que prevalecer a capitalização anual, conforme precedentes do STJ.
+III - Restituição do Indébito Cabível. Recurso conhecido e provido em parte. À unanimidade.
+Embargos de declaração: opostos por REGINALDO DE SÁ GOUVEIA, foram acolhidos para alterar o " ..  decidido quanto à capitalização anual de juros, deixando de aplicá-la ao caso em análise, afastando-a dos cálculos das parcelas, pois inexistente previsão contratual expressa, em observância ao entendimento exposto no recurso repetitivo nº 1.388.972/SC (TEMA 953 STJ), e por consequência, passa a constar o dispositivo do apelo no seguinte sentido: "Por todo o exposto, conheço do recurso de Apelação Cível para NEGAR-LHE PROVIMENTO, mantendo em todos os termos a sentença fustigada"." (e-STJ fl. 585).
+Recurso especial: alegou, além do dissídio jurisprudencial, violação aos artigos 370, 371, 421, 470, II, e 1.013, § 3º, do CPC/2015; 940 do CC/2002; e 42, parágrafo único, do CDC; à Lei n. 4.595/1964 e à Súmula n. 596/STF.
+Decisão monocrática: CONHECEU do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHECEU do recurso especial, em razão da incidência das Súmulas n. 5, 7 e 518 do STJ e, por analogia, 284/STF.
+Agravo interno: limita-se a repisar as alegações do recurso especial e do agravo em recurso especial, bem como requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL COM REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182/STJ E DO ARTIGO 1.021, § 1º, DO CPC/2015. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. CABIMENTO.
+1. Ação de revisão contratual com repetição de indébito.
+2. Nos termos do artigo 1.021, § 1º, do CPC/2015 e da Súmula n. 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.
+VOTO
+MINISTRA NANCY ANDRIGHI (Relatora): Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a a aplicação dos verbetes sumulares n. 5, 7 e 518 do STJ e, por analogia, 284/STF não foram combatidas nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC/2015 (correspondentes aos artigos 544, § 4º, I, e 545 do CPC/1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos EAREsp n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão (DJe de 30/11/2018).
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga esta Corte Superior a conhecer de todos os fundamentos do recurso especial.
+Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial e, ainda, sendo unânime o julgamento, aplica-se multa de 5% (cinco por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC/2015.
