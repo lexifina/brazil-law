@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. APENADA GESTANTE. PRISÃO DOMICILIAR CONCEDIDA NA ORIGEM. PERDA DO OBJETO DA IMPETRAÇÃO. AGRAVO PREJUDICADO. OBSCURIDADE NO JULGADO. INEXISTÊNCIA. ALEGAÇÃO DE EVENTUAL CONSTRANGIMENTO FUTURO. EVENTUAL NOVA DECISÃO NA ORIGEM QUE DEVE SER SUBMETIDA À PRÉVIA ANÁLISE DO TRIBUNAL ESTADUAL. VEDAÇÃO À SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. O acórdão atacado deu provimento ao recurso ministerial "a fim de cassar a decisão que deferiu a prisão domiciliar e determinar que a apenada retorne ao sistema prisional". Todavia o julgado deixou expressamente ressalvado que "É evidente que, havendo alteração do quadro fático a recomendá-lo, o Juízo a quo - ou até mesmo este Tribunal, caso instado a se manifestar - poderá avaliar a pertinência de concessão da benesse em momento superveniente".
+3. Utilizando a ressalva prevista e diante da alteração no quadro fático da paciente, o Ju zo das Execuções proferiu nova decisão resconhecendo a prática de falta grave, mantendo a paciente em prisão domiciliar e determinando a realização de estudo social requerido pelo Ministério Público e Defensoria, restante totalmente superadas as questões anteriores.
+4. Eventual discordância da Defensoria com o novo provimento, que sequer foi proferido, deverá ser submetido à prévia análise do Tribunal de origem, vedada a supressão de instância.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela Defensoria Pública da União em face do acórdão de fls. 378/380 assim resumido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. APENADA GESTANTE. PRISÃO DOMICILIAR CONCEDIDA NA ORIGEM. PERDA DO OBJETO DA IMPETRAÇÃO. AGRAVO PREJUDICADO.
+1. Em consulta ao SEEU - Sistema Eletrônico de Execução Unificado verificou-se que em 30 de setembro de 2022 foi proferida decisão reconhecendo a prática de falta grave, contudo foi mantida a prisão domiciliar anteriormente concedida à apenada em função de sua condição de gestante. Desse modo, constata-se a perda superveniente do objeto do recurso, no qual se pretendia a concessão de prisão domiciliar.
+2. Agravo prejudicado."
+No presente feito, sustenta a Defensoria que "não resta superada a decisão proferida pelo e. TJSC, objeto do presente writ. Em verdade, após a realização do mencionado "estudo social" decidirá o magistrado se, nos termos do quanto consignadopelo e. TJSC, houve "alteração do quadro fático"a recomendar a concessão da prisão domiciliar vindicada. Em não sendo constatada a referida "alteração do quadro fático", resta mantida a decisão proferida pela Corte estadual, que afastou a prisão domiciliar e determinou que a apenada retorne ao sistema prisional" (fls. 386/387).
+Argumenta que somente se "mantido o quadrofático analisado pelo e. TJSC, é de se deferira prisão domiciliar vindicada, não havendo que se falar, portanto, em prejuízo da impetração - donde resulta a obscuridade ora apontada. Em verdade, apenas se, após a realização do estudo determinado pelo juízo da execução, vier a ser deferida a domiciliar, seria viável se falar em prejuízo da impetração" (fl. 387).
+Requer, assim, que "pelo conhecimento e provimento dos presentes embargos, a fim de que, concedendo-lhes efeitos infringentes, seja apreciado o mérito doagravo regimental manejado pela defesa" (fls. 387).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. APENADA GESTANTE. PRISÃO DOMICILIAR CONCEDIDA NA ORIGEM. PERDA DO OBJETO DA IMPETRAÇÃO. AGRAVO PREJUDICADO. OBSCURIDADE NO JULGADO. INEXISTÊNCIA. ALEGAÇÃO DE EVENTUAL CONSTRANGIMENTO FUTURO. EVENTUAL NOVA DECISÃO NA ORIGEM QUE DEVE SER SUBMETIDA À PRÉVIA ANÁLISE DO TRIBUNAL ESTADUAL. VEDAÇÃO À SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. O acórdão atacado deu provimento ao recurso ministerial "a fim de cassar a decisão que deferiu a prisão domiciliar e determinar que a apenada retorne ao sistema prisional". Todavia o julgado deixou expressamente ressalvado que "É evidente que, havendo alteração do quadro fático a recomendá-lo, o Juízo a quo - ou até mesmo este Tribunal, caso instado a se manifestar - poderá avaliar a pertinência de concessão da benesse em momento superveniente".
+3. Utilizando a ressalva prevista e diante da alteração no quadro fático da paciente, o Ju zo das Execuções proferiu nova decisão resconhecendo a prática de falta grave, mantendo a paciente em prisão domiciliar e determinando a realização de estudo social requerido pelo Ministério Público e Defensoria, restante totalmente superadas as questões anteriores.
+4. Eventual discordância da Defensoria com o novo provimento, que sequer foi proferido, deverá ser submetido à prévia análise do Tribunal de origem, vedada a supressão de instância.
+5. Embargos de declaração rejeitados.
+VOTO
+Inexiste a alegada obscuridade.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, pressupostos não caracterizados na hipótese dos autos.
+O pedido originário da impetração foi "para conceder, LIMINAR e definitivamente para conceder a ordem do Habeas Corpus em favor de THALISSA SOARES DA COSTA para conceder prisão domiciliar à paciente" (fl. 15).
+O acórdão atacado deu provimento ao recurso ministerial "a fim de cassar a decisão que deferiu a prisão domiciliar e determinar que a apenada retorne ao sistema prisional" (fl. 342).
+Todavia o julgado deixou expressamente ressalvado que "É evidente que, havendo alteração do quadro fático a recomendá-lo, o Juízo a quo - ou até mesmo este Tribunal, caso instado a se manifestar - poderá avaliar a pertinência de concessão da benesse em momento superveniente" (fl. 342).
+Foi valendo-se da ressalva acima mencionada que o Juízo das Execuções proferiu nova decisão que, no que interessa, disse:
+"Do corpo do acórdão, extrai-se ainda que o Tribunal de Justiça consignou que em " ..  havendo a quo alteração do quadro fático a recomendá-lo, o Juízo- ou até mesmo este Tribunal, caso instado a "se manifestar - poderá avaliar a pertinência de concessão da benesse em momento superveniente.
+O Ministério Público manifestou-se nos seguintes termos: " ..  considerando o teor do acórdão c)proferido no Agravo em Execução Penal n. 5027437-02.2022.8.24.0038, , antes de seu cumprimentorequer a urgente para constatar as condições familiares atuais da realização de estudo/relatório social" (seq. 77). apenada, em especial de seus filhos.
+A Defensoria Pública requereu "" (seq. 79). a realização de estudo socialAssim, antes de determinar o cumprimento do aresto da egrégia Corte catarinense, diante do consignado , atenda-se ao pleito Ministerial e proceda-se ao estudo social, no acórdão suprapara constatar as . condições familiares atuais da apenada, em especial de seus filhos. razo de 30 dias.
+Após, vista ao Ministério Público." (fl. 388)
+Como visto, já foi proferida pelo Ju zo das Execuções nova decisão diante da alteração no quadro fático da paciente, restante totalmente superadas as questões anteriores.
+Em que pese a manifestação da Defensoria da União, eventual novo provimento proferido pelo Juízo das Execuções decorrerá de nova situação processual em que houver o reconhecimento da prática de falta grave pela paciente e a realização do estudo social requerido pelo Ministério Público e pela Defensoria Pública Estadual, caracterizando novo título judicial.
+Eventual discordância da Defensoria com o novo provimento que se quer foi proferido deverá ser submetida à prévia análise do Tribunal de origem, vedada a supressão de instância.
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
