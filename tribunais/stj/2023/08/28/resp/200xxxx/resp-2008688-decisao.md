@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DANIELA CORONATE, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a rescisão de compromisso de compra e venda de bem imóvel.
+O julgado deu provimento ao recurso de apelação da recorrida nos termos da seguinte ementa (fl. 212):
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA PRESCRIÇÃO AFASTAMENTO PRAZO DECENAL JULGAMENTO DAS DEMAIS QUESTÕES COM FUNDAMENTO NO DISPOSTO NO ARTIGO 1.013, § 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL - INDENIZAÇÃO POR FRUIÇÃO DO IMÓVEL APÓS A CONSOLIDAÇÃO DA PROPRIEDADE EM FAVOR DA CONSTRUTORA POSSIBILIDADE AFASTAMENTO DO CRITÉRIO ESTABELECIDO EM CONTRATO PORQUE ABUSIVO APLICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL A RESPEITO DA TAXA DE FRUIÇÃO CRITÉRIO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE SENTENÇA MODIFICADA RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 251-255).
+No presente recurso especial, a recorrente alega que o acórdão estadual contrariou a disposição contida no art. 203, §3º, IV e V, do Código Civil e no art. 37-A da Lei n. 9.514/1997, ao passo que aponta divergência jurisprudencial com arestos de outros tribunais e desta corte.
+Sustenta, outrossim, que a decisão proferida no acordão viola diretamente disposição de lei federal, uma vez que a demanda tem como fundamento evitar o enriquecimento sem justa causa pela recorrente, devendo incidir o art. 206, §3º, inciso IV, do Código Civil, que trata da prescrição trienal da pretensão de ressarcimento de enriquecimento sem causa (fl. 223).
+Apresentadas as contrarrazões (fls. 260-265), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 266-267).
+É, no essencial, o relatório.
+O Tribunal de Justiça do Estado de São Paulo, ao julgar a ação de indenização proposta pela recorrida, afastou a prescrição trienal prevista no art. 203, § 3º, IV e V, do Código Civil para incidir a prescrição decenal prevista no art. 205 do Código Civil, sob o argumento de tratar-se de dano derivado de relação contratual.
+A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que deve ser aplicada a regra geral de prescrição decenal, conforme art. 205 do Código Civil de 2002, às hipóteses de responsabilidade civil decorrente de descumprimento de contrato de compra e venda.
+Nesse sentido, cito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. PONTO COMERCIAL. RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. CITAÇÃO. DEMORA. MECANISMOS DO PODER JUDICIÁRIO. SÚMULA Nº 106/STJ. CULPA DO DEMANDANTE. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LUCROS CESSANTES. RESPONSABILIDADE CIVIL CONTRATUAL. PRAZO PRESCRICIONAL. ART. 205 DO CÓDIGO CIVIL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola os arts. 1.022, I e II, e 489, § 1º, IV, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. A demora na citação por motivos inerentes aos mecanismos do Poder Judiciário não ampara o reconhecimento da prescrição, conforme o disposto na Súmula nº 106/STJ.
+4. Na hipótese, rever as premissas adotadas pelo tribunal de origem que, a partir das circunstâncias fático-probatórias dos autos, concluiu que não restou caracterizada a desídia ou a inércia do demandante, encontra o óbice da Súmula nº 7/STJ.
+5. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que deve ser aplicada a regra geral de prescrição decenal, conforme art. 205 do Código Civil de 2002, às hipóteses de responsabilidade civil decorrente de descumprimento de contrato de compra e venda.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.534.743/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. ATRASO NA ENTREGA DO IMÓVEL. PRAZO PRESCRICIONAL DECENAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+7. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+8. É aplicável o prazo prescricional decenal previsto no artigo 205 do Código Civil às demandas fundadas em responsabilidade civil decorrentes de inadimplemento contratual. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+9. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.962.563/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO DA LEGISLAÇÃO FEDERAL VIOLADO. SÚMULA 284/STF. RESCISÃO CONTRATUAL. DECADÊNCIA. PRAZO DECENAL NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. CONTRATO DE PROMESSA DE COMPRA E VENDA. DESCUMPRIMENTO. UTILIZAÇÃO DO BEM. TAXA DE FRUIÇÃO. FIXAÇÃO. PRESCRIÇÃO. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA. DATA DA CONDENAÇÃO. INCORREÇÃO NO CÁLCULO DO VALOR. FALTA DE IMPUGNAÇÃO. SÚMULA 283/STF. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+2. O entendimento jurisprudencial vigente no STJ manifesta-se no sentido de que, nas demandas envolvendo rescisão contratual, a prescrição obedece ao prazo decenal do art. 205 do CC/2002.
+3. Concluindo o Tribunal local que a relação jurídica estabelecida entre as partes possui natureza contratual e pessoal e que o prazo prescricional decenal não foi implementado, fica o STJ impedido de rever o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4. Em virtude de o entendimento do acórdão recorrido encontrar-se em harmonia com a jurisprudência deste Tribunal Superior, bem como pela aplicação do enunciado da Súmula 7/STJ, não é possível a apreciação da divergência jurisprudencial apontada.
+5. Segundo orientação deste Superior Tribunal, não há falar em julgamento fora dos limites da demanda quando o julgador, mediante interpretação lógico-sistemática, examina a pretensão deduzida em juízo como um todo.
+6. Atestando a instância originária, mediante análise fático-probatória, que a apreciação da ação considerou todos os pedidos incluídos na exordial, descabe a esta Corte Superior a modificação da conclusão, em virtude da incidência da Súmula 7/STJ.
+7. Aplicado o princípio da actio nata, o transcurso do lapso temporal só tem início com o inequívoco conhecimento da parte acerca do direito violado.
+8. Considerando que os fundamentos do acórdão recorrido não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+9. Reconhecido pelo Tribunal estadual que os insurgentes deixaram de impugnar a questão referente ao equívoco no cálculo da indenização por perdas e danos, ficada vedada a esta Corte a modificação da conclusão acolhida, já que esbarra na Súmula 7/STJ.
+10. Agravo interno desprovido.
+(AgInt no REsp n. 1.862.512/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+No presente caso, como se trata, de fato, de responsabilidade civil decorrente de inadimplemento contratual o prazo prescricional é o decenal, previsto no art. 205 do Código Civil.
+Quanto ao mérito, afirma a recorrente que a taxa de fruição deve incidir a partir de 18/03/2013, data que fez a averbação do termo de quitação, e não do início da inadimplência.
+Quanto ao ponto, assim decidiu o Tribunal a quo (fls. 214 - 215):
+Pois bem. A escritura foi lavrada com pacto adjeto de alienação fiduciária em garantia e a adquirente deixou de honrar com as parcelas a que se comprometeu, de forma que a autora retomou a posse do bem em 02/10/2014.
+Ora, busca a apelante, por meio da presente ação obter o ressarcimento relativo ao período em que a apelada usufruiu do imóvel indevidamente.
+Tem razão a esse respeito, embora não adotados os critérios previstos em contrato (Cláusula IX, alínea "a", fls. 25).
+Explico: sendo incontroverso o inadimplemento das parcelas devidas pela aquisição do imóvel, é devido o pagamento pelo seu uso gratuito, sob pena de enriquecimento sem causa dos adquirentes, devendo-se adotar o critério costumeiramente aplicado por esta Corte de Justiça em casos análogos, fixando-se os danos materiais(fruição) em percentual mensal de 0,5% do valor atualizado do contrato, durante o período de efetiva fruição do imóvel a partir do inadimplemento até a restituição da posse em favor da vendedora, a ser apurado em liquidação por arbitramento. (grifo nosso)
+Desse modo, o entendimento da Corte bandeirante está alinhada com a jurisprudência desta Corte Superior.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. TAXA DE FRUIÇÃO. CABIMENTO. INDENIZAÇÃO DEVIDA POR TODO O PERÍODO DE OCUPAÇÃO DO BEM, DESDE A IMISSÃO NA POSSE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça assenta que, nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.996.109/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. INADIMPLEMENTO DO PROMISSÁRIO COMPRADOR. PAGAMENTO DE ALUGUEL PELO USO DO IMÓVEL. OBRIGAÇÃO DEVIDA POR TODO O PERÍODO DE OCUPAÇÃO. CONSECTÁRIO LÓGICO DO RETORNO AO ESTADO ANTERIOR. PRECEDENTES DA CORTE.
+1. Decretada a resolução do contrato de compra e venda de imóvel, com a restituição das parcelas pagas pelo comprador, o retorno das partes ao estado anterior implica o pagamento de indenização pelo tempo em que o comprador ocupou o bem, desde a data em que a posse lhe foi transferida. Precedentes.
+2. A pretensão de que apenas fosse indenizada a posse do imóvel a partir do momento em que o comprador se tornou inadimplente ensejaria enriquecimento ilícito do ocupante, uma vez que as prestações pagas serão devolvidas como efeito da própria rescisão.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.909.532/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Portanto, a taxa de fruição é devida desde a data em que a posse foi transferida até a efetiva entrega do bem.
+Ante o expo sto, nego provimento ao recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
