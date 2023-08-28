@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA EM CONTINUIDADE DELITIVA. VALOR DE R$ 979.335,58, LANÇADO EM DÍVIDA ATIVA EM 21/12/2009. AFASTAMENTO DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 12, I, DA LEI N. 8.137/1990. POSSIBILIDADE. ALEGAÇÃO DA ACUSAÇÃO DE ESTAR LANÇADO ERRADO O VALOR DA DÍVIDA. MANTIDA A DECISÃO PROFERIDA NOS TERMOS DO PARECER SOBRE O VALOR DA DÍVIDA DE R$ 979.335,58. APONTADA OMISSÃO SOBRE A DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE NA PENA-BASE FIXADA. DESNECESSÁRIA A INTERVENÇÃO DESTA CORTE SUPERIOR.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de recurso de embargos de declaração em embargos de declaração em agravo regimental em habeas corpus opostos pelo Ministério Público de Santa Catarina contra o julgamento de embargos de declaração, pela Sexta Turma desta Corte Superior. A ementa do acórdão foi redigida no seguinte teor (fl. 180):
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA EM CONTINUIDADE DELITIVA. VALOR DE R$ 979.335,58, LANÇADO EM DÍVIDA ATIVA EM 21/12/2009. PEDIDO DA DEFESA DE AFASTAMENTO DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 12, I, DA LEI N. 8.137/1990. POSSIBILIDADE. ALEGAÇÃO DA ACUSAÇÃO DE ESTAR LANÇADO ERRADO O VALOR DA DÍVIDA. MANTIDA A DECISÃO, PROFERIDA NOS TERMOS DO PARECER SOBRE O VALOR DA DÍVIDA DE R$ 979.335,58. Embargos de declaração rejeitados.
+Alega o Ministério Público Estadual que o acórdão é omisso, pois foi solicitado que, caso mantida a decisão, deveria ser readequada a pena-base, com a utilização do valor do dano a título de consequências do crime, na primeira fase da dosimetria.
+Requer, diante disso, seja sanada a omissão.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA EM CONTINUIDADE DELITIVA. VALOR DE R$ 979.335,58, LANÇADO EM DÍVIDA ATIVA EM 21/12/2009. AFASTAMENTO DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 12, I, DA LEI N. 8.137/1990. POSSIBILIDADE. ALEGAÇÃO DA ACUSAÇÃO DE ESTAR LANÇADO ERRADO O VALOR DA DÍVIDA. MANTIDA A DECISÃO PROFERIDA NOS TERMOS DO PARECER SOBRE O VALOR DA DÍVIDA DE R$ 979.335,58. APONTADA OMISSÃO SOBRE A DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE NA PENA-BASE FIXADA. DESNECESSÁRIA A INTERVENÇÃO DESTA CORTE SUPERIOR.
+Embargos de declaração rejeitados.
+VOTO
+Ainda que a acusação alegue como um pedido subsidiário, de que deve ser alterada a pena-base fixada, o julgado deve ser mantido por seus próprios fundamentos. Verifica-se na sentença que a dosimetria foi feita com idônea fundamentação, com a fixação da pena-base no piso mínimo de 2 anos de reclusão, senão vejamos (fl. 37):
+ ..
+Da análise do art. 59 do CP observo que a culpabilidade, ou seja, o juizo de reprovabilidade, foi normal à espécie; registra antecedentes (fls. 450-456); conduta social e personalidade, desconhecidas; as circunstâncias, os motivos e as consequências, são próprias do tipo; a vitima, neste caso os cofres públicos, em nada contribuiu para o evento.
+ ..
+Na segunda fase, não foram reconhecidas atenuantes ou agravantes.
+Na terceira fase, na sentença, foi aplicada a majorante prevista no art. 12, I, da Lei n. 8.137/90.
+Posteriormente, em sede de habeas corpus, esta majorante foi afastada, por decisão deste Relator, nos seguintes termos:
+Na primeira fase da dosimetria, a pena-base foi fixada no piso mínimo de 2 anos de reclusão e, com o afastamento do aumento previsto no art. 12, I, da Lei n. 8.137/1990, aplica-se apenas a fração de 2/3 pelo crime continuado. Nesses termos, a pena se torna definitiva em 3 anos e 4 meses de reclusão, e 15 dias-multa. Possível o abrandamento do regime, por ser o paciente primário e sem antecedentes e por ser a pena inferior a 4 anos de reclusão.
+Agora, o embargante requer a elevação da pena-base, relativo às consequências do crime, já que a causa de aumento foi afastada. Razão não lhe assiste.
+Como mencionado, o paciente responde à ação penal por ter sido acusado, na qualidade de administrador da Ademar Móveis e Eletrodomésticos, de apropriar-se de crédito de ICMS não permitido pela legislação tributária, relativo à aquisição de serviços de comunicação e de energia elétrica, por 51 vezes, no período de julho/2003 a setembro/2007. O corréu Antonio Franceschina foi absolvido, e o réu, incurso no art. 1º, I, II e V, da Lei n. 8.137/1990, sendo-lhe aplicado o art. 12, I, da mesma lei, que aumenta a pena de 1/3 até 1/2, caso a conduta delitiva acarrete grave dano à coletividade. Ainda que a acusação agora alegue que a dívida ultrapassa o valor lançado nos autos, mantenho a decisão e adoto como fundamentos parte do parecer ministerial, no sentido de que há de se considerar que, nos termos da denúncia, a quantia suprimida alcança R$ 979.335,58, lançada em dívida ativa em 21/12/2009.
+O fato de o paciente ter sido beneficiado com o afastamento da majorante não significa, por si só, que deva ser negativada a vetorial relativa à consequência do crime. Ademais, esta Corte deve incidir para alterar a dosimetria apenas quando flagrante a ilegalidade, o que não ocorre na hipótese dos autos.
+Ante o exposto, rejeito os embargos de declaração.
