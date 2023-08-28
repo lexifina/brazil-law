@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INDICAÇÃO DE BENS À PENHORA - INTIMAÇÃO DO DEVEDOR - POSSIBILIDADE - PREVISÃO LEGAL - ART. 772 DO CPC - PRINCÍPIO DA COOPERAÇÃO - DECISÃO MANTIDA -RECURSO NÃO PROVIDO.
+- Havendo dificuldades na localização de bens penhoráveis, deve o Magistrado deferir o pedido do exequente para intimar o devedor a fim de indicar bens exequíveis.
+- O art. 772 do CPC, autoriza a intimação do devedor a qualquer tempo, para indicar bens à penhora, podendo sua inércia configurar ato atentatório à dignidade da justiça.
+- Pelo princípio da cooperação consagrado no art. 6º do CPC, cabe a todos os sujeitos do processo colaborar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+- Decisão mantida.
+- Recurso não provido.
+Alegou-se, no especial, violação dos artigos 772, III, e 774, V, do Código de Processo Civil sob o argumento de que a imputação prevista no último dispositivo legal indicado depende do esgotamento das diligência pelo credor em localizar bens penhoráveis do devedor.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local manteve a decisão do juízo de primeiro grau que determinou ao executado a indicação de bens passíveis de penhora, sob pena de multa por ato atentatório à dignidade da justiça.
+Assim o fez sob o fundamento de que o credor não localizou bens passíveis de penhora (e-STJ, fl. 465) e que "a possibilidade de cominação de multa para a hipótese de descumprimento da determinação contida no decisum combatido também encontra previsão no art. 774, parágrafo único, do CPC. Sendo assim, não há que se falar no seu cancelamento, sobretudo, se considerar-se que a astreinte foi fixada à luz da razoabilidade, atendendo-se, inclusive, as peculiaridades do caso" (e-STJ, fl. 467).
+Reexaminar o fundamento de que o credor envidou esforços suficientes, mas infrutíferos, para a localização de bens do devedor é intento que encontra as disposições do verbete n. 7 da Súmula desta Casa.
+A conclusão, outrossim, de que é possível a imputação de multa por ato atentatório à dignidade da justiça encontra respaldo na legislação, como já entendia esta Corte desde o revogado Código de Processo Civil.
+Veja-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CONFLITO ENTRE DECISÕES JUDICIAIS TRANSITADAS EM JULGADO. PREVALÊNCIA DA SEGUNDA DECISÃO. PRECEDENTE DA CORTE ESPECIAL. JUROS MORATÓRIOS LEGAIS. CÓDIGO CIVIL DE 1916 E DE 2002. CORREÇÃO MONETÁRIA. IGP-M. HONORÁRIOS ADVOCATÍCIOS. CUMPRIMENTO DE SENTENÇA. MULTA POR NÃO CUMPRIMENTO VOLUNTÁRIO. ART. 475-J DO CPC/73.
+1. Na linha da jurisprudência desta Casa (EAREsp n. 600.811/SP, da Corte Especial), no conflito entre decisões judiciais que não foram desconstituídas por ação rescisória, prevalecerá aquela que por último foi proferida e transitou em julgado.
+2. No caso dos autos, duas decisões foram sucessivamente prolatadas na fase de liquidação de sentença com conteúdo antagônico, ambas transitadas em julgado: enquanto a primeira fixou juros moratórios de 1% ao mês, a segunda determinou a incidência dos juros moratórios legais, de 1º de agosto de 2000 até a data do pagamento.
+3. Nessa ordem, aplicando-se à hipótese o referido precedente vinculante da Corte Especial, a segunda decisão, proferida por último, é a que definirá os juros moratórios: os juros legais.
+4. Na vigência do Código Civil de 1916, os juros de mora legais sujeitavam-se à regra do art. 1.062, que fixava a taxa de 6% ao ano.
+Com o advento do Código Civil de 2002, a matéria passou a ser disciplinada pelo art. 406, a prever a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional.
+5. Este Superior Tribunal entende que os juros de mora devem ser aplicados no patamar de 0,5% ao mês, na forma do art. 1.062 do Código Civil de 1916, até a entrada em vigor do Código Civil de 2002, quando, nos termos do art. 406, passarão a ser calculados com base na taxa Selic, por ser a taxa dos juros moratórios a que se refere este último dispositivo legal.
+6. Em relação ao índice de correção monetária, as decisões referidas foram coincidentes. Assim, o IGP-M fixado na primeira decisão que homologou os laudos periciais manteve-se como índice de correção monetária naquela prolatada posteriormente, que se limitou a preservar os termos da decisão antecessora "quanto ao que já tivesse sido disposto".
+7. Na espécie, o índice do IGP-M atualizará os valores apenas até a data em que o Código Civil de 1916 estava em vigor - 11 de janeiro de 2003 -, porquanto, a partir de então, a atualização do valor devido será regida pelo disposto no art. 406 do Código Civil de 2002, que prevê a incidência da taxa Selic, a contemplar correção monetária e juros moratórios.
+8. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC/73, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp n. 940.274/MS).
+9. A mesma vontade legislativa serviu de inspiração à disciplina do art. 475-J do CPC/73, que previu multa de 10% em caso de não cumprimento voluntário da sentença no prazo de 15 dias, e do art. 600, IV, do mesmo diploma legal, preceito que considerou ato atentatório à dignidade da justiça a ausência de indicação, pelo executado, dos bens sujeitos à penhora e o local em que estes seriam encontrados.
+10. Recurso especial parcialmente provido, a fim de determinar a incidência de juros moratórios legais sobre os haveres da recorrida, calculados à taxa de 6% (seis por cento) ao ano até 11 de janeiro de 2003 e, após essa data, com base na taxa Selic a que se refere o art. 406 do Código Civil de 2002, assim como para definir, no tocante à correção monetária, a incidência do IGP-M tão somente até 11 de janeiro de 2003.
+(REsp n. 1.949.262/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2023, DJe de 4/5/2023.)
+Inequívoca, pois, a incidência do enunciado n. 83 da Súmula desta Corte.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
