@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 335/337) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015.1. Em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou as seguintes teses jurídicas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.2. Este Tribunal Superior possui o entendimento de ser desnecessário aguardar o trânsito em julgado para a aplicação do precedente firmado em recurso repetitivo ou em repercussão geral.3. Agravo interno não provido.
+O embargante sustenta, em suma, que:
+O agravo interno apresentado pelo ente público (fls. 291/294-e-STJ) trouxe dois pedidos: (a) o reexame da controvérsia sob a ótica dos dispositivos constitucionais empregados no processo de construção decisória da tese jurídica objeto do Tema 1076, deste c. Superior Tribunal de Justiça e (b) o sobrestamento ou a devolução dos autos ao Tribunal de origem até que a matéria seja resolvida em definitivo, seja neste e. Tribunal Superior, seja perante o c. Supremo Tribunal Federal.
+2. A decisão embargada, em sua parte final, não conheceu do agravo interno, concluiu ser inviável analisar as questões constitucionais, ainda que para fins de prequestionamento, não conhecendo do recurso.
+3. A despeito de tais colocações, fato é que, recentemente, o Senhor Ministro Vice-Presidente desta c. Corte, ao analisar o recurso extraordinário interposto no âmbito do REsp 1.817.489/SP, entendeu por bem sobrestá-lo até final julgamento dos RE"s 1.412.073 e 1.412.074, acima mencionados, demonstrando a razoabilidade da medida diante da ausência de perenidade da decisão tomada no Tema 1076:
+Requer sejam acolhidos os embargos.
+Impugnação às fls. 342/344.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Os embargos de declaração têm a finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. O objetivo dos embargos não pode ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois o julgado recorrido apresenta fundamento suficiente, exauriente e específico. Confira-se:
+Na espécie, foi dado provimento ao recurso especial do ora agravado, em virtude de o entendimento da Corte de origem estar em dissonância com as teses jurídicas firmadas no julgamento de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes - Tema 1.076).
+Nesse contexto, recorre a agravante, alegando que "o julgamento do Tema 1076/STJ ainda não fora finalizado, em razão da interposição de recursos extraordinários pelo ESTADO DE SÃO PAULO nos feitos representativos, os quais inclusive já foram admitidos pelo STF".
+Ocorre que esta Corte Superior, seguindo orientação do Supremo Tribunal Federal, possui o entendimento de ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em sede de recurso repetitivo ou de repercussão geral. A respeito:
+(..)
+Destaque-se, por fim, que não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional, ainda que para fins de prequestionamento.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Os embargos de declaração não servem para que se adequem os fundamentos do acórdão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
