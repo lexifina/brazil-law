@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 1304-1305):
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PREVIDÊNCIA PRIVADA. PREVI.CORREÇÃO MONETÁRIA DE BENEFÍCIOS. RESTRIÇÃO DO OBJETO DA DEMANDA EM GRAU RECURSAL. NECESSIDADE DE OBSERVÂNCIA DOS LIMITES DO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. COISA JULGADA. INPC. PRESCRIÇÃO. JUROS DE MORA. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE DOLO. DECISÃO REFORMADA.
+1 - Mostrando as peças processuais que, na fase de conhecimento, a condenação se estabeleceu em torno da correção monetária do valor do benefício pago pela entidade de previdência complementar, não pode a Devedora, em Liquidação de Sentença, querer esquivar-se da obrigação de pagar transportando a discussão do Feito para o tema da reserva matemática formada e para o da necessidade de compensação com contribuições ilíquidas alegadamente devidas pelo Exequente, sob pena de violação à coisa julgada.
+2 - É impossível o reconhecimento, em Liquidação de Sentença, de prescrição já alegada na fase de conhecimento e em relação à qual à Recorrente não obteve pronunciamento favorável, sob pena de ofensa à coisa julgada.
+3 - No Recurso Especial nº 1.177.973/DF, submetido à sistemática dos recursos repetitivos, o STJ decidiu que "a atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda". A despeito de a tese cuidar da restituição da reserva de poupança formada, o entendimento quanto ao índice de correção monetária aplicável não deve ser diverso relativamente à correção aplicável no pagamento dos benefícios, porque, de todo modo, a conclusão jurisprudencial é de que o índice que melhor traduz a perda do poder aquisitivo da moeda é o INPC.
+4 - Não tendo o perito levando em consideração a redução do objeto da demanda operada pelo próprio Autor/Agravado ao levar a discussão ao âmbito do Superior Tribunal de Justiça, mostra-se necessário orefazimento dos cálculos para que seja observado apenas o período quanto ao qual o Credor obteve decisão judicial favorável.
+5 - Ainda que inexistente deliberação sobre os juros de mora na Ação de Conhecimento, aplica-se o art. 293 do Código de Processo Civil de 1973, vigente à época do julgamento, segundo o qual "os pedidos são interpretados restritivamente, compreendendo-se, entretanto, no principal os juros legais". E, nos termos do art. 219 do CPC/73 e do art. 405 do Código Civil, o termo inicial dos juros é a data da citação da Ré.
+6 - Verificando-se que a Recorrente tem razão em algumas de suas alegações, de forma que a discussão processual travada consiste em exercício absolutamente regular do contraditório, bem como que não há demonstração de dolo da Agravante, afasta-se a pretensão de condenação em penalidade por litigância de má-fé deduzida em contrarrazões.
+Agravo de Instrumento parcialmente provido.
+Rejeitados os embargos de declaração opostos (fls. 1393-1401).
+No recurso especial, a recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 502,503 e 507 do CPC.
+Sustenta, em síntese, que "Não pode o Recorrido, na fase de liquidação apresentar pedido diverso do que ficou fixado como limite instransponível da lide pela coisa julgada, qual seja, a aplicação do IPC." (fl. 1370).
+Aduz, ainda, violação dos arts. 884 e seguintes do CC.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1450-1461).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1505-1506), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1560-1565).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Cuida-se, na origem, de liquidação de sentença por arbitramento relativa a condenação em ação de recomposição de perdas inflacionárias nos benefícios de previdência privada do ora recorrido no período de setembro de 1989 a agosto de 1996.
+Quanto à questão do índice de correção monetária a ser observado em liquidação de sentença, o acórdão recorrido expressamente consignou que (fls. 1.312-1.313):
+Em relação à escolha do índice de correção monetária, melhor sorte não assiste à Agravante.
+Ora, no julgado exequendo, o Superior Tribunal de Justiça determinou que "deverão ser aplicados os índices que melhor reflitam a desvalorização da moeda à época, a serem definidos em liquidação de sentença" (Doc. Num. 22837092 - Pág. 4 do Feito nº 0727433-36.2018.8.07.0001).
+Acerca da correção monetária, verifico que, no Recurso Especial nº 1.177.973/DF, submetido à sistemática dos recursos repetitivos, o STJ decidiu:
+"(i) É devida a restituição da denominada reserva de poupança a ex-participantes de plano de benefícios de previdência privada, devendo ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários (Súmula 289/STJ);
+(ii) A atualização monetária das contribuições devolvidas pela entidade de previdência privada ao associado deve ser calculada pelo IPC, por ser o índice que melhor traduz a perda do poder aquisitivo da moeda;
+(iii) A Súmula 252/STJ, por ser específica para a correção de saldos do FGTS, não tem aplicação nas demandas que envolvem previdência privada." (destaquei)
+A despeito de a tese cuidar da restituição da reserva de poupança formada, o que não é o caso destes autos, o entendimento a respeito do índice de correção monetária aplicável não deve ser diverso, porque, de todo modo, a conclusão jurisprudencial é de que o índice que melhor traduz a perda do poder aquisitivo da moeda é o INPC.
+Ademais, não pode ser acatado argumento da Recorrente de que, quanto à aplicação do INPC no período de 09/1993 a 08/1996, a perícia extrapolou os limites do pedido inicial formulado na Ação de Prestação de Contas originária.
+Com efeito, o que delimita a execução é o dispositivo do acórdão exequendo, no qual o STJ expressamente determinou que "deverão ser aplicados os índices que melhor reflitam a desvalorização da moeda à época, a serem definidos em liquidação de sentença" (Doc. Num. 22837092 - Pág. 4 do Feito nº 0727433-36.2018.8.07.0001 - destaquei).
+Correta, portanto, a decisão agravada na parte em que estabeleceu o índice de correção monetária.
+Como se vê, o Tribunal de origem, amparado no conjunto fático - probatórios dos autos, assentou que os cálculos ficaram adstritos ao que ficou assentado no título executivo. Desse modo, a revisão desse entendimento para verificar eventual inobservância da coisa julgada, demandaria o reexame das provas dos autos, o que encontra óbice na Súmula n. 7/STJ.
+No mesmo sentido: AREsp n. 1.864.322, Ministro Luis Felipe Salomão, DJe de 01/07/2021; AREsp n. 1.904.189, Ministro Luis Felipe Salomão, DJe de 04/11/2021; AREsp n. 2.119.691, Ministra Maria Isabel Gallotti, DJe de 10/08/2022; AREsp n. 2.269.714, Ministro Paulo de Tarso Sanseverino, DJe de 23/03/2023.
+Ademais, esta Corte Superior tem entendimento no sentido de que utiliza- se o INPC como índice de correção monetária de débitos judiciais em liquidação de sentença, consoante se infere do seguinte julgado :
+Processual civil e civil. Execução. Embargos do devedor. Honorários de advogado. Atualização monetária. Índices a serem adotados. Juros moratórios legais. Capitalização. Impossibilidade.
+- A jurisprudência do STJ pacificou-se no sentido de que a atualização monetária dos débitos judiciais deve ser feita de acordo com os seguintes índices: IPC-IBGE, no período de março de 1989 a fevereiro de 1991, INPC-IBGE de março de 1991 a junho de 1994, IPC-r/IBGE de julho de 1994 a junho de 1995 e INPC-IBGE, a partir de julho de 1995.
+- Não se admite a capitalização anual dos juros moratórios legais porque não há previsão legal específica.
+Recurso especial parcialmente conhecido e provido.
+(REsp n. 775.383/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2006, DJ de 30/10/2006, p. 301.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
