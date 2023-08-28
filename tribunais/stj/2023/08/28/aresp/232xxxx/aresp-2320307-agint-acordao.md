@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE GUIA DE RECOLHIMENTO DAS CUSTAS DEVIDAS AO STJ. INTIMAÇÃO PARA REGULARIZAÇÃO. INÉRCIA DA PARTE. PREPARO. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO. DESERÇÃO CONFIGURADA.
+1. Os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção. Precedentes.
+2. Intimada a parte para providenciar a regularização do preparo e ficando inerte, irremediável a decretação de deserção do recurso.
+3. A jurisprudência deste Superior Tribunal de Justiça consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção, sendo inviável a posterior retificação.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por GABIPLASTIC COMERCIO DE SUCATA LTDA, JOSE CARLOS DA SILVA e PAULO RICARDO DA SILVA contra decisão unipessoal, proferida pela Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial que interpuseram, e que foi assim fundamentada:
+"Cuida-se de agravo interposto por JOSE CARLOS DA SILVA e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de JOSE CARLOS DA SILVA e OUTROS, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento; no entanto, de forma simples.
+Outrossim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo.
+A parte, embora regularmente intimada para sanar referido vício, nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, não regularizou, limitando-se a apresentar à fl. 283 guia com a indicação incorreta do "tipo de ação ou recurso escolhido".
+Veja-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www. stj. jus. br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019, e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se." (e-STJ Fls. 289/290)
+Nas razões do presente recurso, os agravantes afirmam que seu recurso especial atendeu a todos os requisitos de admissibilidade exigidos, asseverando que a irregularidade apresentada trata-se de erro escusável, de modo que a decisão agravada deve ser reformada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE GUIA DE RECOLHIMENTO DAS CUSTAS DEVIDAS AO STJ. INTIMAÇÃO PARA REGULARIZAÇÃO. INÉRCIA DA PARTE. PREPARO. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO. DESERÇÃO CONFIGURADA.
+1. Os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção. Precedentes.
+2. Intimada a parte para providenciar a regularização do preparo e ficando inerte, irremediável a decretação de deserção do recurso.
+3. A jurisprudência deste Superior Tribunal de Justiça consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção, sendo inviável a posterior retificação.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do recurso especial dos agravantes, nos termos da seguinte fundamentação:
+"Cuida-se de agravo interposto por JOSE CARLOS DA SILVA e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de JOSE CARLOS DA SILVA e OUTROS, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento; no entanto, de forma simples.
+Outrossim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo.
+A parte, embora regularmente intimada para sanar referido vício, nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, não regularizou, limitando-se a apresentar à fl. 283 guia com a indicação incorreta do "tipo de ação ou recurso escolhido".
+Veja-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www. stj. jus. br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019, e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se." (e-STJ Fls. 289/290)
+Nos termos da jurisprudência do STJ, os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção (AgInt no AREsp 1.650.747/SP, 3ª Turma, DJe de 7/10/2020; e AgInt no REsp 1.870.574/MG, 4ª Turma, DJe de 22/9/2020).
+Outrossim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, não regularizou, limitando-se a apresentar à fl. 283 guia com a indicação incorreta do "tipo de ação ou recurso escolhido".
+Consoante consignado na decisão impugnada, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www. stj. jus. br), de acordo com o tipo de ação ou recurso escolhido.
+Como se pode observar, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do "tipo de ação ou recurso escolhido", ou seja, ao invés de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa. Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 916.926/MS, Primeira Turma, DJe de 21/11/2019 e AgInt no AREsp 1435121/PE, Terceira Turma, DJe de 26/9/2019.
+A decisão agravada, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
