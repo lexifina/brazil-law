@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATIFICAÇÃO. PRESCRIÇÃO. OCORRÊNCIA. ANÁLISE DE LEGISLAÇÃO LOCAL. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. Não há como examinar a alegada prescrição, tal como colocada a questão pelo recorrente e enfrentada pelo Tribunal de origem, sem passar pela análise da forma como o próprio direito do recorrido foi tratado pela legislação estadual de regência, pretensão insuscetível de ser apreciada em sede de recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado de Minas Gerais desafiando decisão que negou provimento ao agravo em recurso especial, sob o fundamento de que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, a análise de dispositivos de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+A parte agravante, em suas razões, sustenta não ser caso de incidência do referido óbice sumular, sob a alegação de que "não há como deferir a pretensão inicial buscada nesta ação em razão da ocorrência da prescrição quinquenal, trazida no art. 1º do Decreto nº 20.910, de 1932. Cumpre dizer que não se faz necessária a negativa administrativa (aqui entendido como um indeferimento por parte da autoridade administrativa no sentido de se negar expressamente o suposto direito buscado pela Agravada) para que reste configurado o termo a quo da prescrição do findo de direito trazida no art. 1º do Decreto n 20.910, de 1932, até porque, para tanto, haveria que existir um "requerimento administrativo" por parte da Agravada. A negativa administrativa in casu deu-se com a fixação dos proventos de aposentadoria da Agravada, que ocorreu em 1996, sem incluir na base de cálculo a gratificação RET. Neste sentido, in casu, tendo sido a ação de origem ajuizada em 2013, inegável a ocorrência da prescrição do "fundo de direito", nos termos do artigo 1º do Decreto 20.910, de 1932. Ressalta-se, ainda, que o que se busca nesta ação é o reconhecimento do próprio "direito", postulado pela Autora, ora Agravada, diga-se, negado pela Administração por força do princípio da legalidade." (fls. 295/296)
+As razões do recurso foram impugnadas, às fls. 301/308.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATIFICAÇÃO. PRESCRIÇÃO. OCORRÊNCIA. ANÁLISE DE LEGISLAÇÃO LOCAL. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. Não há como examinar a alegada prescrição, tal como colocada a questão pelo recorrente e enfrentada pelo Tribunal de origem, sem passar pela análise da forma como o próprio direito do recorrido foi tratado pela legislação estadual de regência, pretensão insuscetível de ser apreciada em sede de recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). Precedentes.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Conforme asseverado no decisum, o Tribunal de origem afastou a ocorrência da prescrição do fundo de direito, com base na seguinte fundamentação (fls. 146/149):
+Em sua peça contestatória, defende o requerido que a pretensão autoral se encontra fulminada pela prescrição, na medida em que o ato supostamente lesivo ao seu direito, qual seja, a supressão do pagamento da gratificação RET, nasceu quando do ato de sua aposentadoria, ocorrida em 1996, razão pela qual requereu fosse decretada a extinção do processo, sem resolução do mérito.
+Sem razão, contudo.
+Isto porque se tem, in casu, uma relação obrigacional de trato sucessivo, que se renova, portanto, mês a mês, razão pela qual se aplica ao caso o disposto no verbete nº 85, da Súmula do Superior Tribunal de Justiça, segundo o qual "nas relações jurídicas de trato sucessivo em que a Fazenda Púbica figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação." Com efeito, a incidência da prescrição no caso em estudo fará apenas com que os valores eventualmente devidos pelo requerido tenham como marco inicial o período de cinco anos anteriores ao ajuizamento da demanda, qual seja, a data de 25109/2008.
+Correta, portanto, a sentença, no ponto em que rejeita a preliminar de extinção do feito, sem resolução do mérito, por ocorrência de prescrição de fundo do direito postulado pela autora.
+Pois bem, a gratificação por Regime Especial de Trabalho - RET está prevista pelo artigo 145, caput, da Lei estadual n. 7.109/1977, que contém o Estatuto do pessoal do magistério público do Estado de Minas Gerais, e dá outras providências, in verbis:
+(..)
+Por sua vez, a Lei estadual n. 9.346/1 986, que cria classes e cargos no Quadro Permanente a que se refere o Decreto nº16.409, de 10 de julho de 1974, reestrutura a Secretaria de Estado da Educação e dá outras providências, em seu artigo 12 assim estabelece:
+(..)
+Já a Lei estadual n. 11.05011993, que cria a Autarquia Imprensa Oficial do Estado de Minas Gerais - IO-MG -, altera estrutura orgânica de Secretarias de Estado e dá outras providências, em seu artigo 72, assim estabeleceu:
+(..)
+Pois bem, confrontando-se as disposições legais aplicáveis à espécie com a situação da autora, evidenciada pelos documentos juntados aos autos e aqui mencionados, não restam dúvidas quanto à existência do direito por ela vindicado.
+Vale dizer, como afirmado na peça vestibular, e não desconstituído pelo requerido, a autora laborou em regime especial de trabalho por um período total equivalente a 1.325 (um mil, trezentos e vinte e cinco) dias, como demonstra a documentação colacionada, período este em que lhe fora assegurado o direito à percepção da aludida gratificação.
+E mais, quando da edição da Lei estadual n. 9.34611986, a autora se encontrava laborando em regime especial de 40horas, fazendo, à época, jus à percepção da gratificação, o que lhe assegurou, portanto, conforme previsto, o direito ao aludido recebimento até a implementação do tempo para aposentadoria.
+E como visto, o pagamento da gratificação em questão se encerrou quando da passagem da autora para a inatividade, em flagrante violação ao direito expressamente assegurado, nos termos das Leis estaduais n.
+9.346/1986 e 11.050/1993.
+Neste sentido, aliás, o entendimento colhido na jurisprudência des ta Corte, em acórdão proferido nos autos de nº 1.0024.14.057055-71001, sob a relatoria da e. Desembargadora Ana Paula Caixeta. Confira-se:
+(..)
+Sendo assim, abre mão de reparos a sentença que reconhece o direito da autora de ter incorporados aos seus proventos de aposentadoria o pagamento, de forma proporcional, da gratificação por Regime Especial de Trabalho - RET, bem como o recebimento dos valores devidos e não pagos, posteriores á data de 2510912008, acrescidos de correção monetária, pelos índices do IPCA, desde a data em que seriam devidas as parcelas, e juros de mora equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, a partir da citação.
+Nesse contexto, está correta a decisão ao verificar que não há como examinar a alegada prescrição, tal como colocada a questão pelo recorrente e enfrentada pelo Tribunal de origem, sem passar pela análise da forma como o próprio direito do recorrido foi tratado pela legislação estadual de regência, pretensão insuscetível de ser apreciada em sede de recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.")
+A propósito, confiram-se:
+ADMINISTRATIVO. PROCESSO CIVIL E CONSTITUCIONAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/73. SÚMULA 284/STF. PRESCRIÇÃO. SÚMULA 280/STF.
+1. Inviável o apelo especial quanto à alegação de ofensa ao art. 535 do CPC/73 se as razões expendidas no recurso forem genéricas, constituindo simples remissão aos embargos de declaração opostos na origem, sem particularizar os pontos em que o acórdão teria sido omisso, contraditório ou obscuro. Incidência da Súmula 284/STF.
+2. A questão acerca da prescrição teve como premissa a análise de legislação local, especificamente as Leis n. 8.690/2003 e n. 8.691/2003, o impede seu exame nesta via recursal ante o óbice da Súmula 280/STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 863.518/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO DEMONSTRADA. PRESCRIÇÃO. SÚMULA 280/STF.
+1. Verifica-se não ter ocorrido ofensa ao art. 535, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O exame da controvérsia, tal como postulado nas razões recursais, exigiria a análise de dispositivos de legislação local (art. 40 da Lei n.º 10.366/90), providência insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.") 3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 815.522/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
