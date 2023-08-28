@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 1824/1828) opostos contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015. AGRAVO INTERNO NÃO PROVIDO.1. A Corte Especial do STJ, na assentada de 16/3/2022, no âmbito do REsp 1.850.512/SP, e outros, em sede de recurso especial repetitivo (Tema 1.076), firmou as seguintes teses: 1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. 2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.2. Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§ 2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.3. Agravo interno não provido.
+O embargante sustenta, em suma, que o v. acórdão embargado foi omisso quanto ao a análise da disciplina relacionada à fixação da verba honorária de sucumbência à luz dos princípios da razoabilidade e da proporcionalidade, com o fim de viabilizar a interposição do recurso extraordinário.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Consta do v. acórdão embargado o seguinte:
+Cinge-se a controvérsia, na origem, de apelação interposta contra sentença que julgou procedente ação declaratória de débito fiscal, afastando a decadência e/ou prescrição dos débitos dos processos administrativos em questão. O Tribunal de origem ao analisar a questão controvertida deu provimento ao apelo e fixou a verba honorária do patamar de R$ 250. ooo,00 (duzentos e cinquenta mil reais), conforme o estabelecido no art. 85, §8º, do CPC/2015.
+Com efeito, o posicionamento adotado pela Corte de origem, quanto a disciplina relacionada ao critério para a definição da verba honorária, destoa do posicionamento deste Superior Tribunal de Justiça que por meio do procedimento dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes) julgados pela Corte Especial, em 16/3/2022, firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca da necessidade de readequação do julgado proferido pelo Tribunal de origem à Tese 1.076/STJ firmada no âmbito desta Corte Superior de Justiça.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
