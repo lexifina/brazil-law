@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DECLARATÓRIA. ADICIONAL DE INSALUBRIDADE EM GRAU MÁXIMO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, C, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de ação declaratória proposta pela parte agravada, em desfavor do Município de Sorocaba, objetivando a concessão de adicional de insalubridade em grau máximo.
+III. A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, c, da CF/88 -, dos dispositivos de lei federal que teriam sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020; AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020; AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+IV. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão proferida pela Presidência do STJ, que conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência da Súmula 284/STF.
+Inconformada, sustenta a parte agravante:
+"DA NECESSIDADE DE REFORMA DE V. DECISÃO.
+"Data maxima venia", mas não merece prosperar o não conhecimento do Recurso Especial sob o fundamento de que a parte recorrente deixou de indicar precisamente o dispositivo de legislação federal que teria sido violado.
+Isto porque o Recurso Especial foi interposto com base no art. 105, inciso III, alínea "c", da CRFB, diante da interpretação divergente conferida pelo v. acórdão recorrida em relação ao entendimento já consagrado por este C. STJ, e não propriamente com base no art. 105, III, "a", da CF por eventual violação a artigo de lei federal.
+E, quanto a isto, não há qualquer obrigação legal ou constitucional de que o Recurso Especial interposto com base no art. 105, inciso III, alínea "c", da CRFB demonstre qual a norma legal violada.
+De fato, havendo duas hipóteses Constitucionais diferentes de cabimento do Recurso Especial, a interpretação mais consentânea é que cada uma tenha seus requisitos de admissibilidade próprios. Tanto assim que o Código de Processo Civil traz em seu art. 1.029, § 1º o detalhamento dos requisitos para a interposição do Resp e RE fundados em dissídio jurisprudencial, não trazendo a necessidade de indicação do artigo de lei violado.
+Logo, com a devida vênia, não poderia a v. decisão Monocrática inadmitir o Recurso por ausência de indicação do dispositivo de lei violado, já que a interposição do recurso se deu por divergência jurisprudencial, e não propriamente por violação a artigo de lei.
+E, neste sentido, as razões recursais do Recurso Especial foram claras e expressas ao trazer os fundamentos indicadores do alegado dissídio jurisprudencial. Neste sentido, foi devidamente apontada a interpretação divergente dada pela Corte a quo em relação ao entendimento fixado por este Superior Tribunal de Justiça em situação idêntica nos autos do RESP 1755087 / RS, pois neste esta colenda Corte Superior assentou que o laudo que reconhece o exercício de atividades insalubres não tem efeitos retroativos, ao contrário, é o termo a quo para a percepção do adicional de insalubridade.
+É importante ressaltar, Nobres Julgadores, que este C. Superior Tribunal de Justiça, já decidiu pela aplicação do entendimento consagrado no PUIL 413/RS também em demandas julgadas perante os Tribunais de Justiça dos Estados, como se observa no julgamento do Resp 1.954.410 que contou com a seguinte ementa:
+(..)
+O REsp n. 1.954.410 em questão foi interposto também com base no art. 105, III, "c", da CF, sem indicação expressa de texto de lei violado e foi processado de forma regular por este C. STJ.
+Assim, mostra-se um contrassenso inadmitir o presente Recurso Especial do Município de Sorocaba, sendo que este C. STJ já julgou recurso da mesma natureza.
+Portanto, com a devida vênia, não deveria o Recurso Especial ser obstado pela Súmula nº 284/STF, pois não houve qualquer deficiência na sua interposição, que observou todos os requisitos legais e constitucionais para seu correto processamento, sendo de rigor, portanto, a admissão do presente recurso" (fls. 353/359e).
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.372.375 - SP (2023/0175988-0)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+MUNICÍPIO DE SOROCABA
+ADVOGADO
+:
+MATHEUS DE CAMPOS MIRANDA - SP421223
+AGRAVADO
+:
+MARIA ALICE SILVA BORGES DA GAMA
+ADVOGADO
+:
+DANIEL HENRIQUE MOTA DA COSTA - SP238982
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DECLARATÓRIA. ADICIONAL DE INSALUBRIDADE EM GRAU MÁXIMO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, C, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de ação declaratória proposta pela parte agravada, em desfavor do Município de Sorocaba, objetivando a concessão de adicional de insalubridade em grau máximo.
+III. A falta de particularização, no Recurso Especial - interposto, no caso, com fundamento no art. 105, III, c, da CF/88 -, dos dispositivos de lei federal que teriam sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020; AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020; AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Ação Declaratória proposta pela parte agravada, em desfavor do Município de Sorocaba, objetivando a concessão de adicional de insalubridade em grau máximo.
+O Juízo de 1º Grau julgou parcialmente procedente a pretensão autoral (fls. 228/235e).
+O Tribunal de origem reformou parcialmente a sentença, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. SERVIDORA PÚBLICA MUNICIPAL. Trabalhadora ocupante do cargo de Técnico de enfermagem. Pretensão de majoração da gratificação de insalubridade ao grau máximo. Laudo pericial que aponta para a existência de condições insalubres de trabalho em grau máximo. Demonstrada a permanência de exposição a riscos ocupacionais que ensejam a percepção da vantagem pecuniária almejada. Recurso da autora provido" (fls. 275/282e).
+Nas razões do Recurso Especial, a parte agravante alega que "clarividente é a interpretação divergente dada pela Corte "a quo" ao entendimento fixado por este Superior Tribunal de Justiça em situação idêntica nos autos do RESP 1755087 / RS, pois neste esta colenda Corte Superior assentou que o laudo que reconhece o exercício de atividades insalubres não tem efeitos retroativos, ao contrário, é o termo "a quo" para a percepção do adicional de insalubridade" (fls. 302/310e).
+Sem razão, contudo.
+Com efeito, o conhecimento do Recurso Especial - interposto, no caso, com fundamento no art. 105, III, c, da CF/88 - exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido objeto de interpretação divergente, pelo acórdão recorrido, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+No caso, todavia, ao contrário do que ora se afirma, observa-se que a parte ora agravante, nas razões do apelo extremo, não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura teriam sido objeto de interpretação divergente, pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial, fazendo incidir, no caso, a Súmula 284/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. RESPONSABILIDADE CIVIL. DANO MORAL. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 927 do CC. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. 4. AGRAVO INTERNO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, acerca da existência de provas que evidenciassem o direito do insurgente, incorrerá em reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+4. Agravo interno improvido" (STJ, AgInt no AREsp 1.656.469/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MILITAR. ALIENAÇÃO MENTAL. INVALIDEZ. REFORMA. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. O TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA INEXISTÊNCIA DO DEVER DE INDENIZAR. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A via estreita do Recurso Especial exige demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF.
+(..)
+3 Agravo Interno não provido" (STJ, AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283 DO STF. DISPOSITIVO DE LEI FEDERAL VIOLADO. INDICAÇÃO. AUSÊNCIA. SÚMULA 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. INOCORRÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+2. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido.
+3. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+4. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, Relator Min. ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+5. A divergência jurisprudencial deve ser demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, nos termos dos arts. 255, § 1º, do RISTJ e 541, parágrafo único, do CPC/1973, o que não ocorre na situação sub examine.
+6. Agravo interno desprovido" (STJ, AgInt no AREsp 1.632.513/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/10/2020).
+"ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido" (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+Com efeito, segundo a jurisprudência do STJ, "o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (STJ, AgInt no AREsp 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 30/9/2019).
+Registre-se, por oportuno, que "a existência de dispositivos legais citados ao longo das ementas de acórdãos paradigmas colacionados na petição de recurso especial não afasta a necessidade de o recorrente indicar de forma específica, em seu próprio arrazoado recursal, qual seria o dispositivo legal tido por violado ou objeto da divergência interpretativa" (STJ, AgInt nos EDcl no REsp 1526780/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/11/2016).
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
