@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. RESPONSÁVEL PELA DISTRIBUIÇÃO DAS DROGAS. FAMA DE "MATADOR". AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Paulo Roberto Barbosa Santos contra decisão de minha relatoria, na qual indeferi liminarmente o writ, à vista dos fundamentos sintetizados na seguinte ementa (fl. 158):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. RESPONSÁVEL PELA DISTRIBUIÇÃO DAS DROGAS. FAMA DE "MATADOR". AUSÊNCIA DE CONTEMPORANEIDADE. MANDADO DE PRISÃO NÃO CUMPRIDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
+Neste recurso, pugna-se pela reconsideração da decisão agravada; para tanto, repisam-se os fundamentos apresentados no writ originário, para que seja revogada a prisão preventiva do agravante, com a ex pedição do respectivo alvará de soltura; subsidiariamente, que seja substituída a prisã o preventiva pelas medidas cautelares previstas no art. 319 do Código de Processo Penal (fl. 175).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. RESPONSÁVEL PELA DISTRIBUIÇÃO DAS DROGAS. FAMA DE "MATADOR". AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúnes os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+Isso porque, conforme destaquei na decisão impugnada, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+In casu, o periculum libertatis encontra-se evidenciado no fato de o paciente ser conhecido na estrutura organizacional como soldado que comercializa drogas, além de "matador", envolvido com grupo criminoso responsável não apenas pelo tráfico de drogas, mas, também, pelo comércio ilegal de arma de fogo e roubos, elementos hábeis a recomendar a manutenção da custódia preventiva.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. "OPERAÇÃO CAÇA POEIRA". PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a necessidade da medida constritiva "para fragilizar a própria estrutura organizacional da qual o réu, em tese, fazia parte e, dessa forma, cessar a prática de novas infrações penais".
+3. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. No que tange à alegação de ausência de contemporaneidade - porque as investigações começaram em 2018 e a prisão foi decretada em 2022 -, a Corte local, ao afastar a tese, destacou "a complexidade do caso em comento, quando se vê a quantidade de integrantes reconhecidos da organização criminosa, mais de 20 identificados conforme exposto na denúncia e em seu aditamento, bem como, os esforços empreendidos pela força policial para colher elementos informativos".
+5. O acórdão impugnado salientou ter sido "necessária uma investigação que se estendeu por mais de 2 anos, com a utilização de conhecimento técnico para a extração de dados de aparelho celular, corroborando com a identificação dos integrantes, a forma de organização, a divisão de tarefas, com o modo de operação e com o grau de periculosidade da facção". Ressaltou "o fato de o paciente e os demais denunciados estarem recolhidos em unidade prisional não foi suficiente para barrar a atuação criminosa da organização, já que, conforme exposto na decisão que negou a revogação da prisão preventiva, os integrantes da organização ameaçaram testemunhas sigilosas do processo por meio das redes sociais".
+6. Quanto ao pedido de prisão domiciliar, o acórdão, corretamente, destacou que o paciente "inform ara , em sede de audiência de custódia do processo 0200062-96.2022.8.06.0081, que a genitora do menor está cuidando atualmente do referido infante", afastando, assim, o pedido de substituição da prisão preventiva pela domiciliar (fl. 175).
+7. Agravo regimental não provido.
+(AgRg no HC n. 763.153/CE, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022)
+Ante o exposto, nego provimento ao agravo regimental.
