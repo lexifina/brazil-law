@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+3. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por VIAÇÃO VILA RICA LIMITADA contra acórdão da Primeira Turma do STJ assim ementado (fls. 1.562/1.563):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TRANSPORTE PÚBLICO COLETIVO. AGRAVO INTERNO DA EMPRESA PERMISSIONÁRIA: PERMISSÃO NÃO PRECEDIDA DE LICITAÇÃO. PRORROGAÇÃO DO CONTRATO NA VIGÊNCIA DA CF/1988. NULIDADE DECLARADA PELA SENTENÇA E MANTIDA PELO ACÓRDÃO RECORRIDO. A INDENIZAÇÃO DOS INVESTI MENTOS REALIZADOS PELA CONTRATADA ACRESCIDA PELA CORTE LOCAL NÃO SE MOSTRA CABÍVEL. DECISÃO AINDA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA ORA AGRAVANTE PARA EXCLUIR A VERBA HONORÁRIA. AGRAVO REGIMENTAL DA EMPRESA PERMISSIONÁRIA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ARTS. 480, 481 E 482 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CERCEAMENTO DE DEFESA. ARTS. 130, 330 DO CPC. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA 7/STJ. ART. 42, § 2o. DA LEI 8.987/1995. INTERPRETAÇÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DO MPF: AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO UTILIZADO NA DECISÃO PARA AFASTAR A CONDENAÇÃO DA VERBA HONORÁRIA. Superior Tribunal de Justiça APLICAÇÃO DA SÚMULA 284/STF. AGRAVO INTERNO DA EMPRESA PERMISSIONÁRIA A QUE SE NEGA PROVIMENTO E RECURSO INTERNO DO MPF NÃO CONHECIDO.
+1. A Empresa Permissionária, em sua peça recursal, não trouxe elementos jurídicos aptos a infirmar os fundamentos da decisão agravada, em relação à ausência de violação do art. 535, II do CPC/1973, ao não cumprimento do requisito do prequestionamento dos arts. 480 a 482 do CPC/1973, à não ofensa à Súmula Vinculante 10/STF, precedentes: AgInt no REsp. 1.484.380/RS, Rel. Min. HERMAN BENJAMIN, DJe 28/09/2016 e AgRg no REsp. 1.470.351/RS, Rel. Min. GURGEL DE FARIA, DJe 29.6.2016), e à incidência da Súmula 7/STJ ao alegado cerceamento de defesa pelo indeferimento fundado da produção de determinada prova, conforme os julgados deste STJ: AgInt no AREsp. 878.916/MG, Rel. Min. HERMAN BENJAMIN, DJe 14.10.2016 e AgRg no AREsp. 167.058/SE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 2.6.2016.
+2. Se o acórdão recorrido determinou que o prazo máximo para a realização do procedimento licitatório é de 1 ano após o seu trânsito em julgado, nada impede que a Autarquia Estadual o faça antes, obviamente, por sua conta e risco, em caso de reversão do julgado.
+3. Conforme a jurisprudência prevalente no STJ, o art. 42, § 2o. da Lei 8.987/1995 não se aplica às hipóteses de permissão, apenas nos casos de concessão. Nesse sentido: AgRg no REsp. 1.358.747/RJ, Rel. Min. OG FERNANDES, DJe 30.9.2015, dentre muitos outros.
+4. Quanto ao Recurso do MPF, a este se aplica a Súmula 284/STF, porquanto não foi atacado o fundamento do princípio da simetria utilizado para o afastamento da verba sucumbencial a que a Empresa Permissionária foi condenada pela Corte de origem, único utilizado, conforme o precedente: REsp. 1.330.841/SP, Rel. Min. ELIANA CALMON, DJe 14.8.2013.
+5. Agravo Interno da Empresa Permissionária a que se nega provimento e Recurso Interno do MPF não conhecido.
+A parte embargante alega que o acórdão foi omisso quanto à alegada impossibilidade de provimento do recurso especial do Departamento de Transportes do Estado do Rio de Janeiro para excluir seu direito superveniente a eventual indenização, senão vejamos (fl. 1.591):
+ ..  no agravo interno, a ora embargante demonstrou que o DETRO/RJ requereu no seu recurso especial apenas e tão somente que a realização das licitações das linhas de ônibus não ficasse condicionada ao prévio pagamento de eventual indenização à Viação Vila Rica Ltda., o que é distinto de pedido de exclusão de pagamento de eventual indenização.
+Aponta, ainda, omissão quanto ao exame do prequestionamento do art. 42, § 2º, da Lei 8.987/1995, pois teria demonstrado no agravo interno o trecho do acórdão recorrido que comprovava o debate da matéria.
+Impugnação às fls. 1.606/1.607 e 1.609/1.616.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+3. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+4. Embargos de declaração rejeitados.
+VOTO
+Segundo estabelece o art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+No caso em questão, não verifico a existência de nenhum daqueles vícios.
+É importante observar que consta expressamente no acórdão recorrido que houve a condenação do Departamento de Transportes do Estado do Rio de Janeiro ao pagamento de indenização à empresa permissionária (fl. 1.581), condenação essa que foi incluída pelo Tribunal de Justiça por ocasião do julgamento das apelações, tendo a Turma julgadora desta Corte de Justiça decidido pela manutenção do provimento do recurso especial a fim de restabelecer a sentença quanto ao ponto (fl. 1.476).
+Esclareço, ainda, que consta expressamente do acórdão embargado ser inaplicável o art. 42, § 2º, da Lei 8.987/1995 às permissões de serviço publico, como no caso dos autos, o que logicamente afasta a suposta omissão no exame do prequestionamento desse dispositivo legal.
+Ponderando esses elementos, constato que a insurgência da parte embargante não está relacionada à eventual deficiência de fundamentação do julgado, mas sim à interpretação que lhe foi desfavorável, o que denota o caráter meramente infringente. Por essa razão, é inviável o acolhimento da insurgência na cognição restrita dos embargos de declaração.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 535, incs. I e II, do CPC, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. As alegadas omissões tratam, em verdade, de fundamentos trazidos pelo recorrente, os quais foram rejeitados pelo acórdão, na medida em que se decidiu integralmente a controvérsia, de maneira sólida e fundamentada.
+3. A parte embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração.
+4. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+5. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp n. 592.756/PR, relator Ministro OG FERNANDES, Corte Especial, DJe 18/12/2015.)
+Finalmente , sopesando a boa-fé objetiva, não considero estes primeiros aclaratórios com o manifestamente protelatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
