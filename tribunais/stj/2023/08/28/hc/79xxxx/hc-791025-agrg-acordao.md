@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELO TRIBUNAL. IMPOSSIBILIDADE. CONDENAÇÃO, ADEMAIS, FUNDADA EM OUTRAS PROVAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se denega a ordem, quando evidenciado que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação, inexiste constrangimento ilegal manifesto à liberdade de locomoção.
+2. Hipótese em que a sentença não se encontra fundamentada exclusivamente no reconhecimento do paciente pelas vítimas, mas em todo um contexto construído com base no fato de que, na casa da namorada do acusado, teriam sido encontradas, além de joias produto do crime e da peruca supostamente utilizada pelo imputado na empreitada criminosa, elementos suficientes para denotar a autoria e materialidade do crime.
+3. A pretensão do agravante de que se alcance conclusão inversa do acórdão hostilizado demanda reexame de provas, inviável na via estreita do writ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Herminio Castilho de Campos contra decisão da minha lavra, na qual, monocraticamente, deneguei a ordem impetrada em seu favor, assim ementada (fl. 1082):
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. NULIDADE DO RECONHECIMENTO PESSOAL. CONDENAÇÃO FUNDADA EM OUTRAS PROVAS. PRODUTO DO CRIME E SUPOSTO DISFARCE UTILIZADO NA EMPREITADA CRIMINOSA ENCONTRADO COM A NAMORADA DO ACUSADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+Alega o agravante, em síntese, que não restou comprovado nos autos se as joias encontradas na residência da ex-namorada do paciente eram fruto do 1ºou do 2ºroubo havido na Joalheria. Além disso, restou comprovado no processo que o segundo roubo foi praticado por outras pessoas(vide sentença proferida pela 5ª Vara Criminal juntada aos autos). Quanto ao fundamento da peruca apreendida na residência da Sra. Márcia, restou COMPROVADO ao longo da instrução processual que, a tal peruca, na verdade, não se tratava de uma peruca, mas sim de um APLIQUE DE CABELO DO TIPO TIC-TAC, o qual era de propriedade da filha da Sra. Márcia, da Juliana, a qual em Juízo confirmou ser de sua propriedade o aplique. No dia da apreensão, a testemunha Juliana, inclusive, avisou para os policiais que o aplique era dela e mesmo assim eles o levaram (fl. 1090).
+Postula, então, a reconsideração da r. decisão agravada ou, em assim não entendendo, que seja o presente recurso distribuído para uma das turmas deste Superior Tribunal de Justiça, oportunidade em que, sorteada uma das turmas para julgamento, requer provimento do presente agravo, a fim de que seja devidamente conhecido e provido o recurso interposto para reestabelecer a sentença absolutória, por ser medida da mais lídima JUSTIÇA (fl. 1091).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELO TRIBUNAL. IMPOSSIBILIDADE. CONDENAÇÃO, ADEMAIS, FUNDADA EM OUTRAS PROVAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se denega a ordem, quando evidenciado que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação, inexiste constrangimento ilegal manifesto à liberdade de locomoção.
+2. Hipótese em que a sentença não se encontra fundamentada exclusivamente no reconhecimento do paciente pelas vítimas, mas em todo um contexto construído com base no fato de que, na casa da namorada do acusado, teriam sido encontradas, além de joias produto do crime e da peruca supostamente utilizada pelo imputado na empreitada criminosa, elementos suficientes para denotar a autoria e materialidade do crime.
+3. A pretensão do agravante de que se alcance conclusão inversa do acórdão hostilizado demanda reexame de provas, inviável na via estreita do writ.
+4. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, não há como reformar a decisão repreendida.
+Primeiro, porque habeas corpus foi indevidamente utilizado como espécie de "segunda apelação criminal", buscando revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Depois, porque, da atenta análise do acórdão repreendido, que modificou a sentença absolutória para condenar o paciente como incurso no crime atribuído na denúncia, observa-se que a decisão não se encontra fundamentada exclusivamente no reconhecimento do paciente pelas vítimas, mas em todo um contexto construído com base no fato de que, na casa da namorada do acusado, teriam sido encontradas, além de joias produto do crime e da peruca supostamente utilizada pelo imputado na empreitada criminosa, elementos suficientes para denotar a autoria e materialidade do crime. No mesmo sentido: AgRg no AREsp n. 2.296.322/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/5/2023.
+Por fim, a pretensão do agravante de que se alcance conclusão inversa do acórdão hostilizado demanda reexame de provas, inviável na via estreita do writ.
+Em face do exposto, nego provimento ao agravo regimental.
