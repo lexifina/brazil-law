@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA. INEXISTÊNCIA DE TÍTULO HÁBIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. O Tribunal de origem reconheceu, "no presente caso, a inexistência de título hábil para eventual execução da obrigação de pagar, nos termos do artigo 534 e 535, do Código de Processo Civil, cabendo à parte exequente, após o devido cumprimento da obrigação de fazer, formular requerimento de cumprimento da obrigação de pagar" (fl. 274).
+3. E ntendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMAURI UENO e OUTROS contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO (fl. 464).
+A parte agravante insiste na tese de negativa de prestação jurisdicional, pois "o pedido inicial dos Exequentes era justamente o de ver cumprida a obrigação de fazer, com o devido apostilamento, nos termos do título executivo" (fl. 470). Alega que houve o necessário prequestionamento, devendo ser repelida a aplicação da Súmula 211 do STJ. Sustenta, por fim, que o deslinde da controvérsia não depende do reexame de fatos e provas, o que afasta a incidência da Súmula 7 do STJ.
+Requer a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Sem impugnação conforme a certidão de fl. 484.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA. INEXISTÊNCIA DE TÍTULO HÁBIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. O Tribunal de origem reconheceu, "no presente caso, a inexistência de título hábil para eventual execução da obrigação de pagar, nos termos do artigo 534 e 535, do Código de Processo Civil, cabendo à parte exequente, após o devido cumprimento da obrigação de fazer, formular requerimento de cumprimento da obrigação de pagar" (fl. 274).
+3. E ntendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste, ainda que por outro fundamento.
+Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+A propósito, cito trecho do voto condutor do aresto que analisa a questão supostamente omitida:
+"Para fins de liquidação de sentença, primeiramente, seria necessário o cumprimento da obrigação de fazer, consistente na implantação do benefício, a qual não foi cumprida, não sendo possível dizer, por tal razão, que a execução se pauta em título líquido e certo para fins executivos para os mencionados autores.
+(..)
+Portanto, não se mostra possível iniciar a obrigação de pagar se ainda não há o apostilamento do título, tendo em vista que os cálculos devem ser realizados adotando-se como termo inicial a data correspondente ao lustro anterior ao ajuizamento da demanda e, como termo final, o apostilamento, sem o qual o torna-se inexequível (fls. 271/272).
+Logo, não há que se falar em violação dos arts. 489 e 1.022 do CPC.
+Ainda, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+(..) primeiramente, seria necessário o cumprimento da obrigação de fazer, consistente na implantação do benefício, a qual não foi cumprida, não sendo possível dizer, por tal razão, que a execução se pauta em título líquido e certo para fins executivos para os mencionados autores.
+Da documentação juntada nos autos, mais precisamente dos comprovantes de rendimentos dos apelantes, além da cópia do Diário Oficial do Estado de São Paulo, se verifica que em nenhum momento que a ora apelada tenha providenciado o apostilamento em seus respectivos prontuários, com a consequente implantação nas folhas de pagamentos.
+(..)
+Destarte, como outrora mencionado, não concluída a obrigação de apostilar com o efetivo pagamento das vantagens nos termos da decisão judicial, não há definição do termo ad quem para os cálculos, tornando o título inexigível, porquanto incompreensível o fracionamento da execução de quantia certa.
+Assim, mister se faz proceder ao apostilamento da vantagem reconhecida em Juízo, de modo que o adicional de tempo de serviço seja computado sobre os vencimentos integrais, conforme o determinado do acórdão transitado em julgado, para, então, iniciar a execução com a apresentação dos cálculos.
+Portanto, de rigor observar, no presente caso, a inexistência de título hábil para eventual execução da obrigação de pagar, nos termos do artigo 534 e 535, do Código de Processo Civil, cabendo à parte exequente, após o devido cumprimento da obrigação de fazer, formular requerimento de cumprimento da obrigação de pagar (fls. 271 e 274).
+O Tribunal de origem reconheceu, "no presente caso, a inexistência de título hábil para eventual execução da obrigação de pagar, nos termos do artigo 534 e 535, do Código de Processo Civil, cabendo à parte exequente, após o devido cumprimento da obrigação de fazer, formular requerimento de cumprimento da obrigação de pagar" (fl. 274).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
