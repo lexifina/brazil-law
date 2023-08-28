@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FEMINICÍDIO. SENTENÇA DE PRONÚNCIA. NULIDADE DAS PROVAS TÉCNICAS REALIZADAS E QUEBRA DA CADEIA DE CUSTÓDIA. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO DO PACIENTE PELO TRIBUNAL DO JÚRI. PRECLUSÃO DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. As teses de nulidade das provas técnicas realizadas e do laudo de genética forense, bem como da quebra da cadeia de custódia, não foram analisadas pelo Tribunal de origem, o que impede o exame direto por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+3. Ademais, com a condenação do paciente pelo Tribunal do Júri, está preclusa a análise de eventuais nulidades suscitadas pela defesa.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de minha lavra, na qual não conheci do habeas corpus, porquanto as teses suscitadas pela defesa não foram enfrentadas pelo Tribunal de origem.
+O agravante insiste nas teses de nulidade das provas técnicas e da quebra da cadeia de custódia, as quais, segundo alega, foram analisadas pela Corte de origem, não havendo falar, pois, em supressão de instância.
+Aduz que o entendimento desta Corte Superior é no sentido de admitir a análise de nulidades da sentença de pronúncia após a condenação pelo Tribunal do Júri.
+Requer, assim, o provimento do agravo.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FEMINICÍDIO. SENTENÇA DE PRONÚNCIA. NULIDADE DAS PROVAS TÉCNICAS REALIZADAS E QUEBRA DA CADEIA DE CUSTÓDIA. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO DO PACIENTE PELO TRIBUNAL DO JÚRI. PRECLUSÃO DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. As teses de nulidade das provas técnicas realizadas e do laudo de genética forense, bem como da quebra da cadeia de custódia, não foram analisadas pelo Tribunal de origem, o que impede o exame direto por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+3. Ademais, com a condenação do paciente pelo Tribunal do Júri, está preclusa a análise de eventuais nulidades suscitadas pela defesa.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Como visto, a tese de nulidade das provas técnicas realizadas e do laudo de genética forense, considerando o consumo total do material genético, impossibilitando, assim, a contraprova, bem como da quebra da cadeia de custódia, não foram analisadas pelo Tribunal de origem, o que impede o exame direto por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+Nessa esteira:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA MAJORADA. DECISÃO DE PRONÚNCIA. NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. EXAME PREJUDICADO. PENDÊNCIA DE JULGAMENTO DO RECURSO DE APELAÇÃO DEFENSIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Ademais, após a decisão de pronúncia, o agravante foi submetido a julgamento pelo Conselho de Sentença, o que resultou na sua condenação, tal como referido na denúncia. Nesse caso, a superveniência do édito condenatório torna prejudicada a pretensão de exame de eventual nulidade na decisão de pronúncia.
+3. Por fim, como bem consignado no parecer ministerial, "após consulta aos autos na origem, verificou-se que a matéria ventilada nesta sede também foi arguida nas razões da apelação já interposta pela defesa do ora paciente" (e-STJ fl. 2974). Dessarte, na linha da jurisprudência sedimentada desta Corte, " ..  a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, relator Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 11/3/2020, DJe 3/4/2020) 4. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 696.237/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+Ademais, diferente do alegado pela defesa, o entendimento desta Corte Superior de preclusão da análise de eventuais nulidades na sentença de pronúncia, após o julgamento do réu pelo Tribunal do Júri, adotado na decisão agravada, mantém-se inalterado. É o que se pode inferir do recente precedente, sintetizado na seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. RECURSO PROVIDO PARA RECONHECER VIOLAÇÃO DO ART. 482, PARÁGRAFO ÚNICO, DO CPP. NULIDADE DA QUESITAÇÃO RECONHECIDA. CONTAMINAÇÃO DA DECISÃO DE PRONÚNCIA. INOCORRÊNCIA. PRONÚNCIA PRECLUSA. QUESITAÇÃO POSTERIOR. 3. EXTENSÃO AOS CORRÉUS. IMPOSSIBILIDADE. DECISÃO DE CARÁTER PESSOAL. 4. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. No que concerne à alegada contaminação da decisão de pronúncia pela nulidade reconhecida na quesitação, tem-se que não há qualquer obscuridade a ser sanada. O acórdão recorrido reconheceu a anulação do júri por defeito na quesitação, ou seja, referiu-se exclusivamente ao momento da votação, que é posterior à decisão de pronúncia, não podendo retroagir os efeitos da nulidade reconhecida.
+De fato, a decisão que reconheceu a nulidade da votação tem efeito ex nunc, não havendo que se falar em retroatividade a fim de comprometer outras fases antecedentes do procedimento do júri, já preclusas. Nesse contexto, a decisão de pronúncia se mantém hígida, não havendo se falar em nulidade.
+- Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a superveniência de julgamento pelo Tribunal do Júri torna prejudicada a apreciação de eventual nulidade na decisão de pronúncia. Precedentes: AgRg no AREsp n. 1.933.513/AP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/10/2021, DJe de 13/10/2021; AgRg no HC 592.476/CE, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/12/2020, DJe 18/12/2020; AgRg no HC 585.574/RJ, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 08/09/2020, DJe 14/09/2020.
+3. Não se pode falar, igualmente, em extensão dos efeitos da nulidade da quesitação aos corréus, por ter sido esta de caráter pessoal. De fato, a mácula verificada na quesitação tem relação unicamente com o ora recorrente, motivo pelo qual não há justificativa fática nem jurídica para estender a decisão dos autos aos corréus.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no AREsp n. 1.883.043/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
