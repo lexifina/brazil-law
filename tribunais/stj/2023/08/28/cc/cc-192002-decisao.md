@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por COMING INDÚSTRIA E COMÉRCIO DE COUROS LTDA. (em recuperação judicial) em que estão envolvidos os Juízos de Direito da 3ª Vara Cível da Comarca de Trindade (GO) e da 43ª Vara Cível do Foro Central de São Paulo (SP).
+Alega a suscitante que está em recuperação judicial, deferida pelo Juízo de Direito da 3ª Vara Cível de Trindade (fls. 19-23); contudo, a despeito disso, o Juízo da 43ª Vara Cível do Foro Central de São Paulo determinou o prosseguimento da execução por quantia certa em seu desfavor (fls. 181-196).
+Foi deferida liminar e determinada a suspensão do Processo n. 0008742-39.2022.8.26.0100, designando-se o Juízo de Direito da 3ª Vara Cível de Trindade para resolver as medidas urgentes.
+Informações prestadas às fls. 481-482 e 545-562.
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para se declarar competente o Juízo de Direito da 3ª Vara Cível da Comarca de Trindade (fls. 564-567).
+É o relatório. Decido.
+O entendimento da Segunda Seção desta Corte é no sentido de ser o juízo em que se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA - ARREMATAÇÃO - REPASSE DO PRODUTO DA VENDA AO JUÍZO COMPETENTE. PRECEDENTES.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente conflito de competência, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. É iterativo o entendimento do STJ, no sentido de que "compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento." (ut. CC 155.496/RJ, Rel. Min. Marco Aurélio Bellizze, DJe de 06/04/2020) Precedentes.
+3. Agravo interno desprovido. (AgInt nos EDcl no CC n. 168.556/PR, relator Ministro Marco Buzzi, Segunda Seção, julgado em 28/9/2021, DJe de 1º/10/2021.)
+Ademais, vale destacar que, ainda que o crédito tenha caráter extraconcursal, incumbe ao juízo em que se processa a recuperação judicial, ciente de tal circunstância, analisar a melhor forma para o pagamento, deliberar sobre os atos expropriatórios, sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição e a solidez do fluxo de caixa da empresa em recuperação.
+A esse respeito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. CONSTRIÇÃO INDIRETA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO
+JUDICIAL.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. Declarada a incompetência do Juízo laboral para prosseguir com a execução e reconhecida a competência do Juízo da recuperação, caso seja de seu interesse, incumbe ao credor-exequente diligenciar junto a este, no intento de satisfazer e viabilizar sua pretensão executória.
+4. Agravo interno não provido. (Pet no CC n. 175.484/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14/4/2021, DJe de 20/4/2021.)
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITO CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA OS ATOS DE CONSTRIÇÃO. DECISÃO MANTIDA.
+1. A competência para o pagamento dos débitos de sociedade empresária ao longo do processo de recuperação é do juízo em que se processa o pedido de recuperação, tendo em vista que a manutenção da possibilidade de juízos diversos procederem à constrição dos ativos da sociedade nos planos previstos no Plano de Recuperação poderia comprometer o soerguimento da empresa. Precedentes desta Corte.
+2. Agravo interno a que se nega provimento. (AgInt no CC n. 167.402/GO, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 5/5/2020, DJe de 8/5/2020.)
+Por essas razões, conclui-se que, ainda que eventualmente o crédito em comento não se submeta aos efeitos do plano de recuperação judicial da suscitante, o Juízo da recuperação é o que, na forma da lei, deverá analisar a melhor forma de pagamento desse crédito, não cabendo a outro juízo determinar atos de constrição do patrimônio da suscitante de forma genérica, sob pena de inviabilizar, por completo, o soerguimento da empresa.
+Ante o exposto, confirmo a liminar para reconhecer a existência do conflito e declarar a competência do Juízo de Direito da 3ª Vara Cível da Comarca de Trindade (GO) para exercer o controle dos atos de constrição judicial incidentes sobre os bens da empresa recuperanda.
+Dê-se ciência aos Juízos suscitados.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. CONSTRIÇÃO DE BEM INTEGRANTE DO PATRIMÔNIO DA EMPRESA RECUPERANDA POR JUÍZO DIVERSO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA VERIFICAÇÃO DA MELHOR FORMA DE PAGAMENTO SEM PREJUÍZO PARA O PLANO DE RECUPERAÇÃO JUDICIAL. PRECEDENTES. CONFLITO CONHECIDO.
