@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se  de  Embargos  de  Declaração  opostos  por  CLÊNIA  ANTUNES  DE  ANDRADE  contra  decisão  que  rejeitou  anteriores  declaratórios  manejados  contra  decisão  monocrática  de  minha  lavra,  a  qual,  com  fundamento  nos  arts.  932,  III  e  IV,  do  Código  de  Processo  Civil  de  2015  e  34,  XVIII,  a  e  b,  e  255,  I  e  II,  do  RISTJ,  conheceu  em  parte  do  Recurso  Especial,  e,  nessa  extensão,  negou-lhe  provimento,  ante  a  ausência  de  vício  no  acórdão  recorrido  e  na  incidência  do  óbice  da  Súmula  n.  7/STJ.
+Insiste  o  Embargante  na  existência  de  obscuridade  e  omissão,  ao  argumento  de  que  seu  Recurso  Especial  não  teve  o  mérito  apreciado,  ressaltando  haver  consistente  amparo  legal  assegurando  a  pensão  almejada.
+Impugnação  às  fls.  942/948e.
+Feito  breve  relato,  decido.
+Por  primeiro,  consoante  o  decidido  pelo  Plenário  desta  Corte,  na  sessão  realizada  em  09.03.2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  Assim  sendo,  in  casu,  aplica-se  o  Código  de  Processo  Civil  de  2015.
+Nos termos do disposto nos arts. 1.003, § 5º, e 1.023 do CPCP/2015, o prazo para oposição de Embargos de Declaração é de 5 (cinco) dias e para interposição dos demais recursos de 15 (quinze) dias.
+Observo que a decisão monocrática de fls. 875/886e foi disponibilizada no Diário de Justiça Eletrônico/STJ em 16.3.2023 e considerada publicada em 17.3.2023  (fl.  887e),  iniciando-se  o  curso  do  prazo  para  interposição  de  recursos no primeiro dia-útil subsequente, qual seja,  20 .3.2023.
+O termo final para o manejo de aclaratórios contra a citada decisão ocorreu em 27.3.2023 (segunda-feira), tendo sido, em 31.3.2023 (sexta-feira), opostos os Embargos de Declaração de fls. 893/900e.
+Em tal cenário, não obstante a decisão mediante a qual os primeiros aclaratórios restaram rejeitados (fls. 913/916e) tenha sido disponibilizada no Diário de Justiça Eletrônico/STJ em 12.5.2023 e considerada publicada em 15.5.2023  (fl.  917e),  de rigor o reconhecimento da intempestividade do recurso de fls. 921/934e, porquanto a jurisprudência desta Corte é pacífica no sentido de que  a  oposição  de  embargos  de  declaração intempestivos  não  interrompem  o  prazo  para  a  interposição  de recursos futuros.
+Nesse sentido, precedente da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DOS ANTERIORES DECLARATÓRIOS. NÃO INTERRUPÇÃO DO PRAZO. RECURSO NÃO CONHECIDO.
+1. Tendo em vista que os anteriores embargos de declaração foram considerados intempestivos, não houve interrupção da fluência do prazo para interposição de qualquer outro recurso, inclusive os presentes declaratórios, sobrevindo, assim, o trânsito em julgado do feito.
+2. Nos termos da jurisprudência desta Corte de Justiça, não há como examinar as questões meritórias, ainda que de ordem pública, invocadas em sede de recurso intempestivo, porquanto ausente pressuposto extrínseco de admissibilidade do pleito recursal.
+3. Embargos declaratórios não conhecidos. Remessa imediata dos autos à Primeira Seção para análise dos embargos de divergência no âmbito de sua competência regimental.
+(EDcl nos EDcl no AgInt nos EDcl nos EAREsp n. 46.650/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 11/5/2021, DJe de 17/5/2021, destaque meu).
+Registre-se, outrossim, que o reconhecimento do trânsito em julgado não está sujeito a preclusão, consoante extrai-se do seguinte julgado:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. PRAZO RECURSAL. INTERRUPÇÃO. NÃO OCORRÊNCIA. TRÂNSITO EM JULGADO. ACOLHIMENTO DO RECURSO DECLARATÓRIO PELO JULGADOR. IRRELEVÂNCIA. PRECLUSÃO. INEXISTÊNCIA. RECURSO ESPECIAL DESPROVIDO.
+1. Os embargos de declaração, quando intempestivos, não interrompem o prazo para a interposição de outros recursos. Precedentes do STJ.
+2. No caso concreto, embora extemporâneo o recurso declaratório, o juiz de primeiro grau dele conheceu e deu-lhe provimento, fazendo-o, todavia, após o trânsito em julgado da sentença embargada, pois o julgamento ocorreu quando ultrapassado o prazo para a interposição de apelação.
+2.1. Ao tempo em que praticados os atos processuais, vigia a redação originária do art. 269 do CPC/1973 - antes, portanto, das alterações introduzidas pela Lei Federal n. 11.232/2002 - quando também o julgamento de mérito dos pedidos implicava a extinção do processo.
+2.2. Definitivamente extinto o processo, não mais cabe ao magistrado praticar atos processuais.
+3. "A intempestividade é questão de ordem pública e não está submetida à preclusão, uma vez que a extemporaneidade do recurso faz ocorrer o trânsito em julgado e torna imutável o comando judicial" (RMS 51.457/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 16/10/2017). Além disso, " o  trânsito em julgado não necessita de nenhum ato judicial, bastando o transcurso do prazo recursal. Assim, em qualquer momento processual, pode ser reconhecida a sua ocorrência" (AgRg na RCDESP no Ag 1294866/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/02/2013, DJe 06/03/2013).
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.121.966/PR, relatora Ministra Maria Isabel Gallotti, relator para acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/8/2021, DJe de 14/9/2021, destaques meus).
+Na espécie, considerando que, em 17.3.2023 foi publicada a decisão monocrática de fls. 875/886e, bem como que não houve recurso apto para impugná-la até 13.04.2023, ante a intempestividade apontada, o t rânsito em julgado restou caracterizado.
+Posto isso,  NÃO  CONHEÇO  dos  Embargos  de  Declaração de fls. 921/934e.
+Publique-se ,  intimem-se e certifique-se o trânsito em julgado.
