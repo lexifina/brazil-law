@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 544/546 e-STJ.
+A parte sustenta que o acórdão estadual é omisso, e que a Súmula n. 7/STJ não constitui obstáculo ao conhecimento do recurso especial.
+Impugnação às fls. 573/593 e-STJ.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 1.934.952 - SP (2021/0124471-0)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+ELCIO PASQUALUCCI
+ADVOGADOS
+:
+PEDRO LANNA RIBEIRO - SP204809
+GUILHERME HEITICH FERRAZZA - SP335577
+AGRAVADO
+:
+FUNDO DE RECUPERACAO DE ATIVOS - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS
+ADVOGADOS
+:
+WILLIAM CARMONA MAYA - SP257198
+FABIANA MENDES DE CASTRO - SP332046
+JULIANA FULGENCIO BOTELHO GUIMARAES - SP368439
+INTERES.
+:
+ROBERTO LAZZARI DA SILVA
+ADVOGADO
+:
+GUILHERME HEITICH FERRAZZA - SP335577
+INTERES.
+:
+UNICONTROL INTERNATIONAL LTDA.
+ADVOGADOS
+:
+MARCELO HAJAJ MERLINO - SP173974
+ALESSANDRA RUBIA DE OLIVEIRA MAGALHAES - SP194912
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada julgou recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA QUE REJEITOU A ALEGAÇÃO DE IMPENHORABILIDADE DE FRAÇÕES IDEAIS DE IMÓVEL. REFORMA PARCIAL DA R. DECISÃO RECORRIDA PARA RECONHECER A IMPENHORABILIDADE DE PARTE DA UNIDADE Nº 63 DO "CONDOMÍNIO VILLA VERDE", REFERENTE AO IMÓVEL DE MATRÍCULA Nº 85 DO CRI DA COMARCA DE SÃO ROQUE/SP.
+APRESENTAÇÃO DE DOCUMENTOS QUE CORROBORAM A ALEGAÇÃO DO AGRAVANTE DE QUE PARTE DA REFERIDA UNIDADE É UTILIZADA PARA A MORADIA DA SUA ENTIDADE FAMILIAR, NOS TERMOS DO ART. 1º,"CAPUT", DA LEI Nº 8.009/1990. CONSTATAÇÃO DE QUE O EXECUTADO TEM A TITULARIDADE DAS UNIDADES Nº 62, 63, 64 E 69 DO CONDOMÍNIO, CUJAS FRAÇÕES IDEAIS EQUIVALEM A MAIS DE 15.000 METROS QUADRADOS.
+PRESERVAÇÃO DE ÁREA SUFICIENTE PARA A MORADIADA FAMÍLIA DO RECORRENTE, CORRESPONDENTE A 500 METROS QUADRADOS, LEVANDO-SE EM CONSIDERAÇÃO AS SUAS PRÓPRIAS INFORMAÇÕES.
+RECURSO PROVIDO EM PARTE.
+A parte recorrente, ora agravante, sustentou negativa de vigência aos arts. 1º, parágrafo único, da Lei n. 8.009/1990, 805 e 1.022 do Código de Processo Civil, além de dissídio jurisprudencial.
+Afirma que o imóvel em discussão não pode ser penhorado, pois serve de moradia à família, existindo outros imóveis em seu nome sobre os quais pode recair a execução. Argumenta que o imóvel é indivisível, motivo por que a impenhorabilidade também recai sobre as futuras unidades 62, 63, 64 e 69 da Matrícula n.º 85 do RGI de São Roque-SP.
+Quanto à alegada omissão, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Quanto à possibilidade de penhora de parte divisível do bem de família, o acórdão guarda harmonia com a jurisprudência do STJ, de que são exemplo os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. BEM DE FAMÍLIA. IMPENHORABILIDADE.
+ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. POSSIBILIDADE DE DESMEMBRAMENTO DO IMÓVEL. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "É possível a penhora de fração ideal de bem de família, nas hipóteses legais, desde que possível o desmembramento do imóvel sem sua descaracterização" (AgInt no REsp 1.663.895/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2019, DJe de 7/10/2019)" (AgInt no AREsp 1.704.667/SP, Rel.
+Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe de 13/04/2021).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela inviabilidade da penhora de parcela de imóvel, considerado bem de família, uma vez que "(..) sua divisão acarretaria em diminuição considerável do valor e em prejuízo do uso a que se destina. Isso porque, não seria possível o uso independente da área de lazer por um terceiro que viesse a adquirir essa parte do bem". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.348.093/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/5/2022, DJe de 14/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. IMÓVEL INDIVISÍVEL. IMPENHORABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Recurso especial interposto contra o acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça assenta a possibilidade de penhora de fração ideal de bem de família nas hipóteses legais, desde que o imóvel possa ser desmembrado sem ser descaracterizado.
+3. Na hipótese, rever a conclusão firmada pelas instâncias ordinárias, acerca da indivisibilidade e da impenhorabilidade do bem de família, demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial em virtude do disposto n a Súmula nº 7/STJ.
+4. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Precedente.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.655.356/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/4/2021, DJe de 26/4/2021.)
+Relativamente à possibilidade de desmembramento do imóvel, a Corte de origem assim se pronunciou:
+O agravante sustenta que "(..) as unidades nº 62, 63, 64 e 69,objetos da penhora pretendida, compõem um único imóvel (junto à unidade 63 da Alameda Flamboyants), sobre o qual está edificada a casa onde reside o Agravante Élcio, sua esposa (Tânia) e 2 (dois) filhos menores. O único motivo de a matrícula ainda corresponder em frações ideais da matrícula n.º 85 do RGI de São Roque é o fato de incorporador (empresa já falida) não ter nos últimos 20 anos providenciado as individualizações." e que"(..) embora as 4 (quatro) unidades possuam área total de 15.000m , posto que se trata de um "condomínio rural", a área edificada corresponde a tão somente pouco mais de 300 metros quadrados." (fls. 12).
+O art. 1º,caput, da Lei nº 8.009/1990, dispõe que "O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.".
+No caso em discussão, o recorrente apresentou diversos documentos que corroboram a sua alegação de que parte das frações ideais penhoradas se destina à moradia da sua entidade familiar:1) carnês de IPTU do exercício de 2014 e de 2019 (fls. 156/157 e 228/229);2) contas de consumo de energia elétrica do período entre novembro de 2016 e outubro de 2017, e setembro de 2018 e agosto de 2019 (fls. 159/170 e 230/241);3)declarações de imposto de renda do exercício de 2017 em que o agravante e a sua esposa mencionam como seus endereços o mesmo do imóvel objeto de penhora (fls. 171/175);4) ata notarial (fls. 190/191); e, 5) termo de assinatura de caixa postal, firmado em 25 de setembro de 2019 (fls. 246/247).
+No entanto, a impenhorabilidade deve se restringir à parte da futura unidade nº 63, correspondente a somente 500 metros quadrados, preservando-se, dessa maneira, a área em que se situa o prédio residencial, de acordo com informações do próprio agravante (fls. 275).
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
