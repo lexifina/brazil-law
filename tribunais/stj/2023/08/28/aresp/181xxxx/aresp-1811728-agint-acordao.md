@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. CPC/73. CONTRATO ADMINISTRATIVO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. MAJORAÇÃO DE ALÍQUOTA DE TRIBUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS E NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal de origem, com base na prova pericial e na interpretação de cláusulas contratuais, concluiu que a majoração de alíquota de tributo incidente sobre o valor dos serviços contratados ensejou o desequilíbrio econômico-financeiro do contrato. Assim, a revisão das conclusões adotadas pela Corte local encontra óbice nas Súmulas 5 e 7 do STJ, dada a necessidade de reexame de matéria fático-probatória e análise de cláusulas contratuais.
+2. Agravo interno não provido .
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Distrito Federal contra decisão de fls. 1.924/1.926, que negou provimento ao agravo em recurso especial, ante a incidência do óbice contido na Súmula 7/STJ.
+A parte agravante sustenta que o aumento das alíquotas do PIS e da CONFINS configura fato previsível e que, para as agravadas, não representou encargos insuportáveis, situação fática que está delineada no acórdão recorrido.
+Aponta acórdão proferido no AgInt no REsp n. 1.623.217/DF para, na sequência, aduzir que "qualificado e relevantíssimo precedente acima proclama o "entendimento da Segunda Turma que, se houve aditivos contratuais posteriores ao aumento na carga tributária, não se cogita de imprevisibilidade" e que "não há que se falar em aplicação do art. 65, inc. II, alínea "d", da Lei n. 8.666/93, uma vez que não há imprevisibilidade do fato e de suas consequências" (fl. 1.936).
+Na linha do julgado indicado, conclui que "Não há que se falar, portanto, em aplicação do art. 65, inc. II, alínea "d", da Lei n. 8.666/93, uma vez que não há imprevisibilidade do fato e de suas consequências, pois, para tanto, é necessário que a situação seja futura, nunca atual ou pretérita. Assim, no caso dos autos eventual reequilíbrio contratual, se cabível, estaria limitado às faturas correspondentes aos serviços prestados após a prorrogação da vigência original do contrato".
+As empresas agravadas apresentaram impugnação às fls. 1.941/1.947.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. CPC/73. CONTRATO ADMINISTRATIVO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. MAJORAÇÃO DE ALÍQUOTA DE TRIBUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS E NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal de origem, com base na prova pericial e na interpretação de cláusulas contratuais, concluiu que a majoração de alíquota de tributo incidente sobre o valor dos serviços contratados ensejou o desequilíbrio econômico-financeiro do contrato. Assim, a revisão das conclusões adotadas pela Corte local encontra óbice nas Súmulas 5 e 7 do STJ, dada a necessidade de reexame de matéria fático-probatória e análise de cláusulas contratuais.
+2. Agravo interno não provido .
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos apresentados, a decisão atacada merece ser mantida.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Está em debate a possibilidade de readequação de contrato de consultoria para apoio ao gerenciamento de execução de programa de saneamento básico, ante a majoração das alíquotas de PIS e CONFINS estabelecida nas Leis 10.637/2002 e 10.833/2003.
+Nas razões do recurso especial, defendeu-se que o termo aditivo ao contrato, o qual acresceu aos valores devidos 24,92%, foi realizado após as alterações legislativas, afastando o argumento de desequilíbrio econômico por fato imprevisível.
+Ao examinar a questão, o Tribunal de Justiça do Distrito Federal e dos Territórios afastou a possibilidade de o aditivo contratual ter contemplado a majoração de tributos, com os seguintes fundamentos (fls. 1.347/1.348):
+Perceba que o momento do aumento da alíquota dos impostos se deu quando o contrato já estava em vigor. Conforme explicitado acima pelo Sr. Perito, houve a majoração dos custos empresariais estabelecidos para o Contrato 127/2001-SO, porquanto os autores se submetem à sistemática da não-cumulatividade em virtude da tributação baseada no lucro real, sem o aproveitamento de créditos, já que há vedação legal, para o uso (art. 3º, § 2º da Lei 10.833/2003).
+Perceba ainda que o contrato em questão sofreu vários aditamentos, não havendo nenhuma menção sobre a elevação da carga tributária.
+Não perfilo do entendimento do requerente, no qual alega que a elevação da carga tributária do PIS/COFINS foi absorvida por aludido termo aditivo, pois não há qualquer menção da elevação da carga tributária.
+Ademais, perceba que os termos aditivos tinham como base o artigo 65, inciso I, alínea "b", c/c § 1º do mesmo artigo. Assim transcrevo:
+ ..
+Note-se que é uma prerrogativa da Administração Pública, na qual tem a liberalidade de alterar unilateralmente o contrato firmado, desde que tenha como objetivo o aumento ou redução de até 25% da obra contratada nos mesmos termos da proposta inicial.
+Veja, portanto, que o objeto do termo aditivo nada tem a ver com a recomposição do equilíbrio econômico financeiro do contrato em relação ao aumento da carga tributária.
+Sendo assim, fica comprovada a necessidade de se restabelecer a equação econômico-financeira do contrato, como bem dispõe o §5º do art. 65 da Lei.8666/93.
+Estabelecida a premissa, nas instâncias ordinárias, de que a elevação da carga tributária não foi absorvida pelo aditivo contratual celebrado, o argumento de que inexiste necessidade de restaurar o equilíbrio econômico-financeiro, ou de sua limitação, tal como defendido, exige desta Corte não só o exame do contrato administrativo, mas também desconstituição das conclusões da perícia realizada, providência que encontra óbice na Súmula 7/STJ.
+Em igual sentido, destaca-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. ART. 535 DO CPC/73. OFENSA NÃO CONSTATADA. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. MAJORAÇÃO DE ALÍQUOTA DE TRIBUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS E NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7, AMBAS DO STJ. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE DE ANÁLISE, NA ESPÉCIE.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Não há dissídio pretoriano a respeito da interpretação do art. 535 do CPC/73, na medida em que a verificação de ocorrência ou não dos vícios elencados nesse dispositivo legal depende das circunstâncias particulares do caso concreto, inexistindo divergência de teses.
+3. O Tribunal de origem, com base nas prova pericial e na interpretação de cláusulas contratuais, concluiu que a majoração de alíquota de tributo incidente sobre o valor dos serviços contratados ensejaram o desequilíbrio econômico-financeiro do contrato. Assim, a revisão das conclusões adotadas pela Corte local encontra óbice nas Súmulas 5 e 7, ambas do STJ, dada a necessidade de reexame de matéria fático-probatória e análise de cláusulas contratuais.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.177.255/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/6/2018, DJe de 14/6/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
