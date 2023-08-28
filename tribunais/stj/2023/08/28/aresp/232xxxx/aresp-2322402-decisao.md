@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL PARA FINS DE REFORMA AGRÁRIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. LEVANTAMENTO DE VALORES A MAIOR. PEDIDO DE RESTITUIÇÃO. INVERSÃO DOS POLOS DA EXECUÇÃO. FORMULAÇÃO NOS PRÓPRIOS AUTOS. IMPOSSIBILIDADE. VIABILIDADE EM AÇÃO PROPRIA DE REPETIÇÃO. PROVIMENTO DO AGRAVO DE INSTRUMENTO.
+I - "Engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito". Precedente.
+II - Mesmo que se afaste a premissa da preclusão, há orientação do Superior Tribunal de Justiça/STJ, de que, uma vez efetuado o pagamento do precatório, descabe, no bojo da execução, a cobrança de suposto crédito decorrente de pagamento feito a maior.
+III - Deverá a recorrido valer-se de ação própria de repetição para reaver o valor levantado a maior pelo exequente.
+IV - Agravo de instrumento provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 776 do CPC e 884 do CC, defendendo a tese de que nos próprios autos da execução pode reaver o ressarcimento do dano sofrido consistente no pagamento do precatório a maior, reconhecido na decisão agravada que assegura a possibilidade de ajuizamento de ação autônoma de cobrança.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 4164/4165, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+Engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito". Precedente.
+Mesmo que se afaste a premissa da preclusão, há orientação do Superior Tribunal de Justiça/STJ, de que, uma vez efetuado o pagamento do precatório, descabe, no bojo da execução, a cobrança de suposto crédito decorrente de pagamento feito a maior.
+Deverá a recorrido valer-se de ação própria de repetição para reaver o valor levantado a maior pelo exequente.
+Constata-se que o acórdão não merece reforma, porquanto está em consonância com o entendimento deste STJ, já que "a orientação do Superior Tribunal de Justiça de que, "engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito" (REsp 698.517/SP, Relator Ministro Luiz Fux, Primeira Turma, DJ 13/2/2006).
+No mesmo sentido, colecionam-se:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. PRETENSÃO DA FAZENDA DE COBRAR EVENTUAL CRÉDITO A SEU FAVOR NO BOJO DA AÇÃO DE EXECUÇÃO MOVIDA CONTRA SI. IMPOSSIBILIDADE. AUSÊNCIA DE TÍTULO EXECUTIVO QUE AMPARE A PRETENSÃO. UTILIZAÇÃO DA VIA ORDINÁRIA. PRECEDENTES DO STJ.
+1. O entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que, "Engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito" (REsp 698.517/SP, Relator Ministro Luiz Fux, Primeira Turma, DJ 13/2/2006).
+2. Recurso Especial não provido.
+(REsp n. 1.661.947/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2017, DJe de 9/10/2017.)
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DA FAZENDA DE COBRAR EVENTUAL CRÉDITO A SEU FAVOR NO BOJO DA AÇÃO DE EXECUÇÃO MOVIDA CONTRA SI. IMPOSSIBILIDADE. AUSÊNCIA DE TÍTULO EXECUTIVO QUE AMPARE A SUA PRETENSÃO. UTILIZAÇÃO DA VIA ORDINÁRIA. PRECEDENTES DO STJ.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Aliás, conquanto aponte violação ao art. 535 do CPC, não especificou de que forma houve omissão, contradição ou obscuridade no acórdão objurgado, o que atrai o disposto na Súmula 284/STF.
+2. Outrossim, nota-se que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que "Engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito" (REsp 698.517/SP, Relator Ministro Luiz Fux, Primeira Turma, DJ 13/2/2006).
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 895.750/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/4/2017, DJe de 24/4/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO POR UTILIZAÇÃO PÚBLICA. PRECATÓRIO EXPEDIDO E INTEGRALMENTE PAGO. PRETENSÃO DA FAZENDA DE COBRAR EVENTUAL CRÉDITO A SEU FAVOR NO BOJO DA AÇÃO DE EXECUÇÃO MOVIDA CONTRA SI. IMPOSSIBILIDADE. AUSÊNCIA DE TÍTULO EXECUTIVO QUE AMPARE A SUA PRETENSÃO. UTILIZAÇÃO DA VIA ORDINÁRIA.
+1. "Engendrado o pagamento da dívida por meio de precatório, revela-se inviável, nos próprios autos reabrir a discussão acerca dos cálculos, reservando-se à Fazenda, em ação de repetição, reaver o que pagou indevidamente, pretensão impossível de ser exercida na fase administrativa do implemento do débito" (REsp 698.517/SP, Relator Ministro Luiz Fux, Primeira Turma, DJ 13/2/2006).
+2. O eventual valor pago a maior pela Fazenda paulistana não ostenta a liquidez e certeza impressa por título executivo judicial (ou até mesmo extrajudicial), razão pela qual é descabida, no bojo da execução movida contra si, a cobrança de suposto crédito a seu favor, sob pela de subversão do sistema processual brasileiro. Por isso, deve o agravante se valer da via ordinária.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 161.758/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/4/2013, DJe de 24/4/2013.)
+Diante do exposto, com fundamento no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. PRETENSÃO DA FAZENDA DE COBRAR EVENTUAL CRÉDITO A SEU FAVOR NO BOJO DA AÇÃO DE EXECUÇÃO MOVIDA CONTRA SI. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
