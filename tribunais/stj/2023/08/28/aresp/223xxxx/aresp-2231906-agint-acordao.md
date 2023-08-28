@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROGRESSÃO FUNCIONAL VERTICAL. SERVIDOR PÚBLICO DO PODER JUDICIÁRIO DO ESTADO DE ALAGOAS. TERMO INICIAL DOS JUROS MORATÓRIOS. DATA DO INADIMPLEMENTO DO DÉBITO. PRECEDENTES. ACÓRDÃO ESTADUAL CONCLUINDO PELA LIQUIDEZ DA OBRIGAÇÃO A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A alteração das co nclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE ALAGOAS contra decisão proferida pela Presidência do Superior Tribunal de Justiça (fls. 629/631) que não conheceu do agravo diante da incidência da Súmula 7/STJ.
+Em suas razões, a parte agravante sustenta que "os elementos contidos no próprio acórdão são suficientes para identificar que a obrigação é ilíquida, nos termos da jurisprudência desse c. STJ. É que o próprio acórdão deixa claro (fato incontroverso) que a demanda versa sobre progressão funcional de servidor público, hipótese na qual a jurisprudência dessa corte entende que se trata de obrigação ilíquida" (fl. 634).
+Com impugnação (fls. 643/664 ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROGRESSÃO FUNCIONAL VERTICAL. SERVIDOR PÚBLICO DO PODER JUDICIÁRIO DO ESTADO DE ALAGOAS. TERMO INICIAL DOS JUROS MORATÓRIOS. DATA DO INADIMPLEMENTO DO DÉBITO. PRECEDENTES. ACÓRDÃO ESTADUAL CONCLUINDO PELA LIQUIDEZ DA OBRIGAÇÃO A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A alteração das co nclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2 . Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+Quanto ao termo inicial de incidência, o caso dos autos tem sido considerado como obrigação líquida, pois dependente de meros cálculos aritméticos, de modo que os juros devem incidir desde o inadimplemento da obrigação (vencimento), como fez a sentença, por força do que prescreve o art. 397 do Código Civil:
+Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.
+À vista disso, verifica-se que o termo inicial da correção monetária e dos juros moratórios, no caso concreto, deve ser a data do indevido inadimplemento de cada uma das parcelas remuneratórias, também não merecendo reforma a sentença quanto a esse ponto (fls. 616/617).
+O Tribunal de origem reconheceu que "a obrigação é líquida, pois dependente de meros cálculos aritméticos, de modo que os juros devem incidir desde o inadimplemento da obrigação (vencimento)". Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. DELEGADO DE POLÍCIA CIVIL. REENQUADRAMENTO. JUROS DE MORA. OBRIGAÇÃO LÍQUIDA. TERMO INICIAL. DATA DO INADIMPLEMENTO DO DÉBITO. PRECEDENTES. ACÓRDÃO ESTADUAL CONCLUINDO PELA LIQUIDEZ DA OBRIGAÇÃO A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O entendimento perfilhado pelo Tribunal de origem encontra-se em harmonia com a jurisprudência desta Corte, firme no sentido de que "o termo inicial de incidência de juros moratórios decorre da liquidez da obrigação. Sendo líquida a obrigação, os juros de mora incidem a partir do vencimento da obrigação, nos exatos termos do art. 397, caput, do CC/2002; se for ilíquida, o termo inicial será a data da citação judicial, consoante o teor do art. 397, parágrafo único, do CC/2002 c/c o art. 219, caput, do CPC. Precedentes: EREsp 964.685/SP, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 6.11.2009; e AgInt no AREsp 1.840.804/AL, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 09/08/2021.
+3. Ademais, a alteração das conclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 2.006.274/AM, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMPREITADA. JUROS DE MORA. TERMO INICIAL. DATA DO VENCIMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com a Jurisprudência desta Corte, que possui firme o entendimento o sentido de que, em se tratando de obrigação líquida e com termo certo para ser adimplida, os juros de mora devem incidir a partir do vencimento da obrigação, conforme preceitua o art. 397 do CC/2002. Incidência a Súmula 83/STJ.
+2. A Corte local afastou a ocorrência da prescrição com base nos elementos fatico-probatórios dos autos. Rever o entendimento do acórdão recorrido não é possível em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.871.462/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
