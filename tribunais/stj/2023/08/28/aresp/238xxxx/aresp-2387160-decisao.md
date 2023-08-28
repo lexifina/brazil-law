@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por JOSIMAR DA SILVA DE OLIVEIRA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 513):
+RECEPTAÇÃO DOLOSA. Condenação Prova da materialidade e da autoria do delito Condenação mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 524/530), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente negativa de vigência ao art. 33, § 2º, alínea "c", do Código Penal, ao argumento de que "é admissível a adoção do regime aberto aos reincidentes e com maus antecedentes, quando as demais circunstâncias forem favoráveis e melhor se coadunar as circunstâncias da conduta criminosa" (e-STJ, fl. 528).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ, fl. 573).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O agravante foi condenado à pena 1 ano e 3 meses de reclusão, no regime semiaberto, e 12 dias-multa, como incurso no art. 180, caput, do Código Penal, sendo negado provimento ao recurso de apelação.
+A jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na reincidência ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+É o que preconiza a 440 a Súmula do STJ, segundo a qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são as Súmulas 718 e 719 do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, consta da sentença que, "Em que pese o montante da pena privativa de liberdade acima fixado ser inferior a 04 anos, bem como o fato de o réu não ser reincidente (artigo 33, § 2ª, alínea "c" do Código Penal), fixo o REGIME SEMIABERTO para o início do cumprimento da reprimenda pelo fato das circunstâncias judiciais lhe serem desfavoráveis (art. 33, § 3º, do Código Penal)" (e-STJ fls. 438/439), entendimento que se coaduna com a orientação jurisprudencial desta Corte.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante" .
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
