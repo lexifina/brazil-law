@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por NORTPLAST INDÚSTRIA E COMÉRCIO LTDA. e JOSÉ MARIA RABELO LEITE (ESPÓLIO), com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Segunda Câmara Cível do Tribunal de Justiça do Estado de Sergipe (e-STJ, fl. 149):
+PROCESSUAL CIVIL  AGRAVO INTERNO NÃO CONHECIMENTO DO AGRAVO DE INSTRUMENTO MANIFESTAMENTE INTEMPESTIVO  DECISÃO MONOCRÁTICA  ALEGAÇÃO DOS AGRAVANTES DE QUE SEGUIRAM O PRAZO INDICADO NA CERTIDÃO CARTORÁRIA LANÇADA NOS AUTOS DO PROCESSO DE ORIGEM  NÃO ACOLHIMENTO  CERTIDÃO LANÇADA PARA CONTROLE INTERNO, CABENDO AO REPRESENTANTE DAS PARTES A VERIFICAÇÃO DO PRAZO ADEQUADO PARA INTERPOSIÇÃO DO RECURSO  INTEMPESTIVIDADE MANTIDA  DECISÃO MONOCRÁTICA INALTERADA  RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 156-186), os recorrentes apontaram violação aos arts. 197 e 233, §§ 1º e 2º, do CPC/2015.
+Alegaram, em síntese, além da ocorrência de dissídio jurisprudencial, que as informações relativas ao processo de origem publicadas no site do Tribunal deixaram de ser de controle interno da secretaria, de modo que passaram a ter efeitos jurídicos vinculantes, por gozarem legalmente de presunção de veracidade e confiabilidade para os operadores do direito e jurisdicionados, sendo informações oficiais.
+Aduziram a justa causa, porquanto a certidão de andamento processual era oficial.
+Apresentadas as contrarrazões (e-STJ, fls. 255-270).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 7 deste Superior Tribunal (e-STJ, fls. 273-277), o que ensejou a interposição do presente agravo (e-STJ, fls. 283-300).
+Brevemente relatado, decido.
+Depreende-se da leitura dos autos que os recorrentes interpuseram agravo de instrumento em contrariedade à decisão que, nos autos de execução de título extrajudicial movidos contra eles, não acolheu os embargos de declaração.
+Em decisão monocrática, o recurso não foi conhecido ante a constatação de sua intempestividade.
+Em julgamento do agravo interno, o órgão fracionário ratificou o entendimento adotado pela relatora quando do julgamento da decisão monocrática. Além disso, rechaçou a alegação de justa causa exposta pelos recorrentes.
+Veja-se (e-STJ, fls. 151-153):
+Examinando as razões recursais, não vislumbro motivos para alterar o entendimento já exposto quando da prolação da decisão monocrática ora combatida. Vejamos.
+Em que pese ter sido lançada nos autos do processo de origem certidão cartorária certificando suposto encerramento do prazo em 06/12/2021, o comando citado não foi específico no tocante a tratar-se de prazo para interposição de recurso.
+Desta forma, apesar de haver entendimento do Egrégio Superior Tribunal de Justiça no sentido de que informação equivocada no site do Tribunal, relativa a encerramento do prazo recursal, gera justa causa para a tempestividade do recurso, tal entendimento não deve ser aplicado neste caso. Explico.
+Na citada certidão, à informação constante do andamento processual é meramente informativa, tratando-se de um controle interno da secretaria, razão pela qual não pode ser utilizada para prorrogação ou devolução do prazo recursal.
+Pois bem, não é atribuição do cartório, no sistema do TJSE, a indicação de prazo para advogado interpor recurso, devendo este pautar-se de acordo com a disponibilização do Diário de Justiça, de modo que a observância do prazo é uma incumbência inerente ao exercício da advocacia.
+Eis o entendimento do Superior Tribunal de Justiça:
+ ..
+Assim, sendo de responsabilidade exclusiva do patrono das partes peticionantes acompanhar o decurso do prazo para interposição do recurso cabível, não procede a alegação de indução a erro em razão de informação de controle interno lançada no sistema pela secretaria.
+Portanto, sendo o prazo para a interposição do Agravo de Instrumento de 15 (quinze) dias, a contar da data em que decisão interlocutória do magistrado é publicada, o lapso temporal de que dispunha os recorrentes expirou em 03/12/2021 (sexta-feira), haja vista ser o termo inicial do prazo o dia 12/11/2021, tendo o Agravo sido protocolado apenas em 06/12/2021, mostrando-se evidente a intempestividade do recurso.
+Consoante jurisprudência firmada neste Egrégio Superior Tribunal, "é atribuição inerente ao exercício da advocacia a observância dos prazos processuais para a oportuna apresentação dos requerimentos dirigidos ao juízo, de modo que a contagem do período legal é de inteira responsabilidade do advogado" (AgInt no AREsp 1315679/SE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/6/2019, DJe 25/6/2019).
+Outrossim, os dados processuais disponibilizados pela internet são meramente informativos, de modo que eventuais equívocos em relação ao andamento processual não configuram justa causa. Além disso, o erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser cabalmente demonstrado para que se configure a justa causa.
+Ilustrativamente (sem grifos no original):
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, C/C COMPENSAÇÃO DE DANOS MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de obrigação de fazer c/c pedido de compensação por danos morais.
+2. É intempestivo o agravo em recurso especial que interposto fora do prazo recursal de quinze dias úteis.
+3. A Corte Especial do STJ firmou o entendimento de que o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente. Precedentes.
+4. Entretanto, também conforme o entendimento deste Tribunal Superior, para a prorrogação do prazo é necessária a configuração da justa causa, que deve ser demonstrada de maneira efetiva.
+Precedentes.
+5. Este Tribunal Superior também já reconheceu que apenas o "print" do sistema não é servil à efetiva demonstração da justa causa: AgInt no AREsp 1.640.644/MT, Primeira Turma, julgado em 31/08/2020, DJe 08/09/2020.
+6. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local ou a suspensão do expediente forense no ato de interposição do recurso, o que impossibilita a regularização posterior.
+7. A parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo. Precedentes.
+8. Considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local ou a suspensão do expediente forense quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+9. Agravo interno no agravo em recuso especial não provido.
+(AgInt no AREsp n. 2.243.987/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. APELO NOBRE. PANDEMIA DA COVID-19. SUSPENSÃO DOS PRAZOS. RESOLUÇÕES DO CNJ NºS 313, 314 E 318/2020. TRIBUNAL DE ORIGEM. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO. ATO DA INTERPOSIÇÃO. NECESSIDADE. SISTEMA ELETRÔNICO. ERRO NO PRAZO. COMPROVAÇÃO. AUSÊNCIA. JUNTADA POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, nos termos dos arts. 1.003, § 5º, e 219 do Código de Processo Civil de 2015.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o art. 1.003, § 6º, do Código de Processo Civil de 2015. Precedente da Corte Especial.
+4. Em virtude da pandemia do novo coronavírus (Covid-19), o Conselho Nacional de Justiça editou a Resolução nº 313, de 19/3/2020, que determinou a suspensão dos prazos processuais, a partir de sua publicação até o dia 30/4/2020, voltando a correr no dia 4/5/2020.
+5. A Resolução CNJ nº 318, de 7/5/2020, prorrogou a vigência das Resoluções nºs 313 e 314 até o dia 31 de maio de 2020, mantendo a fluência dos prazos desde 4/5/2020 e permitindo a suspensão, caso autoridade estadual determinasse medidas restritivas (lockdown), ou a pedido do próprio Tribunal, suspensão que seria válida somente para aquela unidade da federação.
+6. Na hipótese, o recorrente não comprovou, no ato de interposição do recurso especial, que houve determinação local de prorrogação da suspensão dos prazos além do período previsto nas resoluções do CNJ.
+7. Não se aplica a modulação de efeitos adotada no REsp nº 1.813.684/SP aos recursos interpostos após a data da publicação do acórdão, ocorrida em 18/11/2019.
+8. O erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso, o que não ocorreu no caso dos autos.
+9. Não é possível a juntada posterior do documento que corrigiria a irregularidade, ante a ocorrência da preclusão consumativa.
+10. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.034.914/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE REQUERIDA.
+1. De acordo com a jurisprudência desta Corte, os dados processuais disponibilizados pela internet são meramente informativos, de modo que eventuais omissões ou equívocos em relação ao andamento processual não configuram justa causa para devolução de prazos processuais, devendo o patrono da parte acompanhar as publicações oficiais. Precedentes.
+1.1. No caso em tela, o andamento processual acostado aos autos não constitui documento apto a infirmar a certidão acostada aos autos e, assim, comprovar a alegada tempestividade do reclamo.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.639.605/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/8/2020, DJe de 4/9/2020.)
+Nesse contexto, tendo o Tribunal local, mediante a análise das provas dos autos, não constado a justa causa apta a ensejar a devolução do prazo para a interposição do recurso, não pode esta Corte Superior proceder ao revolvimento do acervo fático-probatório a fim de adotar conclusão diversa sobre a intempestividade do recurso de agravo de instrumento manejado na origem.
+Assim, dada a natureza excepcional do recurso especial, o qual é vocacionado à tutela do direito infraconstitucional federal, o acolhimento da pretensão recursal é providência inviável. Incide, portanto, o enunciado da Súmula n. 7/STJ.
+Registra-se, ainda, ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Por fim, a análise de divergência jurisprudencial, alegada com fundamento na alínea c do permissivo constitucional, fica prejudicada quando a tese sustentada no reclamo especial esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido (sem grifos no original):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO QUANTO À ANÁLISE DO DISSÍDIO JURISPRUDENCIAL. SUPRIMENTO DO VÍCIO. RECURSO ESPECIAL NÃO CONHECIDO PELA ALÍNEA "A". DIVERGÊNCIA PREJUDICADA. MANUTENÇÃO DO RESULTADO DO JULGAMENTO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição, omissão ou erro material, de maneira a permitir o exato conhecimento do teor do julgado.
+2. É pacífico o entendimento desta Corte Superior no sentido de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo lei federal apontado como violado ou à tese jurídica.
+3. Embargos de declaração acolhidos, sem efeitos infringentes, para suprir a omissão apontada, mantendo-se o resultado do julgamento.
+(EDcl no AgInt no AREsp n. 1.459.125/PE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. 1. INTEMPESTIVIDADE. 2. CERTIDÃO DE ANDAMENTO DO PROCESSO. 3. ALEGAÇÃO DE JUSTA CAUSA. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 4. EXAME DE DISSENSO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
