@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTE RNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE QUITAÇÃO DE DÉBITOS. ALIENAÇÃO FIDUCIÁRIA. IMÓVEL. SEGURO. INVALIDEZ. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+1. Ação de quitação de débitos .
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Agravo interno desprovido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CARLOS AUGUSTO CHAVES SANCHES contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de quitação de débitos ajuizada pelo agravante em face de CAIXA ECONÔMICA FEDERAL - CEF, visando o reconhecimento da quitação do contrato de alienação fiduciária de imóvel por seu seguro correlato.
+Sentença: julgou improcedente a demanda.
+Acórdão: negou provimento à apelação do agravante, nos termos da seguinte ementa:
+"ADMINISTRATIVO. SFH. CONTRATO DE SEGURO IMOBILIÁRIO. CEF. CAIXA SEGURADORA S/A. ILEGITIMIDADE PASSIVA AD CAUSAM. PRESCRIÇÃO. NÃO OCORRÊNCIA. INCAPACIDADE RELATIVA. INVALIDEZ PERMANENTE NÃO CONFIGURADA. APELAÇÃO IMPROVIDA.
+1 -CUIDA-SE DE APELAÇÃO INTERPOSTA POR CARLOS AUGUSTO CHAVES SANCHES QUE OBJETIVA A REFORMA DA SENTENÇA PROFERIDA PELA 3ª VARA CÍVEL DO RIO DE JANEIRO, NOS AUTOS DA AÇÃO ORDINÁRIA AJUIZADA EM FACE DA CAIXA ECONÔMICA FEDERAL E DA CAIXA SEGURADORA S/A, PARA RECONHECER A INVALIDEZ PERMANENTE COM A QUITAÇÃO TOTAL DOS VALORES DEVIDOS.
+2 -O APELANTE CELEBROU COM A MECÂNICA LAGOINHA LTDA, COMO VENDEDORA, E COM A CAIXA ECONÔMICA FEDERAL, NA QUALIDADE DE CREDORA FIDUCIÁRIA, UM CONTRATO DE ESCRITURA DE VENDA E COMPRA DE IMÓVEL RESIDENCIAL, MÚTUO COM ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL EM GARANTIA -CARTA DE CRÉDITO SBPE, FORA DO SFH -NO ÂMBITO DO SISTEMA DE FINANCIAMENTO IMOBILIÁRIO -SFI, NO VALOR DE R$ 700.000,00 (SETECENTOS MIL REAIS), REALIZADO EM 27 DE AGOSTO DE 2010, PARA AQUISIÇÃO DE UM IMÓVEL SITUADO À RUA ANTONIO VIRZI (ANTIGA RUA PROJETADA "A"), Nº 115, NA FREGUESIA DE JACAREPAGUÁ, RJ.
+3 -NO QUE CONCERNE À ILEGITIMIDADE PASSIVA DA CEF, CABE ESCLARECER QUE O CONTRATO DE SEGURO É REALIZADO ENTRE A CEF E A SEGURADORA. OS MUTUÁRIOS, EM REGRA, NÃO CELEBRAM CONTRATO COM A SEGURADORA, ATUANDO A CEF, NA QUALIDADE DE AGENTE FINANCEIRO, A RESPONSABILIDADE PERANTE O MUTUÁRIO.
+4 -EM RELAÇÃO À ALEGAÇÃO DE PRESCRIÇÃO, DE QUE O PRAZO APLICÁVEL À PRETENSÃO DOS MUTUÁRIOS PARA A COBERTURA SECURITÁRIADA APÓLICE HABITACIONAL PARA O RISCO DE INVALIDEZ É DE UM ANO OU DE TRÊS ANOS, NÃO PROSPERA. O ART. 206, §1º, II, B, DO CÓDIGO CIVIL ESTABELECE O PRAZO ANUAL DE PRESCRIÇÃO, TENDO COMO DESTINATÁRIO FINAL O SEGURADO, QUE NO CASO É O AGENTE FINANCEIRO, QUE TERÁ SEU DIREITO SATISFEITO NA HIPÓTESE DE INCIDÊNCIA DE ALGUM SINISTRO, POIS EM RELAÇÃO AO MUTUÁRIO A INCIDÊNCIA É PERMANENTE ENQUANTO ELE PAGA AS PRESTAÇÕES DO MÚTUO, PODENDO COMUNICAR O SINISTRO A QUALQUER TEMPO.
+5 -DA ANÁLISE PROBATÓRIA ACOSTADA AOS AUTOS, VERIFICA-SE QUE A PARTE AUTORA, ORA APELANTE, NÃO POSSUI INCAPACIDADE PERMANENTE QUE O IMPEÇA DE LABORAR, VISTO QUE O MESMO JUNTA AOS AUTOS DOCUMENTO COMPROBATÓRIO DE QUE ATUALMENTE É SERVIDOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. ADEMAIS, MERECE DESTAQUE NÃO SÓ O FATO DE QUE O APELANTE ATUALMENTE EXERCE ATIVIDADE LABORANDO NO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, BEM COMO QUE O MESMO QUANDO DO INGRESSO NA REFERIDA CARREIRA NO TRIBUNAL FLUMINENSE (ANO DE 2009 -CF. EVENTO 7 -OUT4) JÁ POSSUÍA A PATOLOGIA ALEGADA, UMA VEZ QUE SE REFERE A ACIDENTE DE TRABALHO SOFRIDO EM 1996, QUE OCASIONOU A CEGUEIRA EM UM OLHO.
+6 -O ARGUMENTO ACIMA, POR SI SÓ, JÁ ENSEJARIA A IMPROCEDÊNCIA DO PEDIDO AUTORAL. CONTUDO, SOMA-SE A ISTO O FATO DE QUE A ALEGADA INVALIDEZ PERMANENTE, O QUE NÃO RESTOU DEMONSTRADA, TENDO EM VISTA QUE O APELANTE EXERCE ATUALMENTE SUAS FUNÇÕES REGULARMENTE NO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, O EVENTO QUE ENSEJOU A DEFICIÊNCIA ALEGADA NA EXORDIAL OCORREU EM 1996, ISTO É, MUITOS ANOS ANTES DA ASSINATURA DO CONTRATO DE FINANCIAMENTO IMOBILIÁRIO, OCORRIDO EM 27/08/2010, MOTIVO PELO QUAL NÃO SE AMOLDA AOS TERMOS DA CLÁUSULA VIGÉSIMA PRIMEIRA DO CONTRATO, VISTO QUE O ACONTECIMENTO SE DEU ANTERIORMENTE A ASSINATURA DO CONTRATO.
+7 -APELAÇÃO IMPROVIDA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS DE 10% (DEZ POR CENTO) PARA 12% (DOZE POR CENTO) DO VALOR DA CAUSA, ATUALIZADO"
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 54, §4º, do CDC, bem como dissídio jurisprudencial. Alega negativa de prestação jurisdicional quanto à tese da necessidade de prévia juntada do contrato de seguro a fim de verificar a regularidade de eventual cláusula limitativa de cobertura. Sustenta a invalidade da cláusula contratual que não permitiu a quitação do contrato de alienação fiduciária pela não caracterização do sinistro indicado, não redigida de forma destacada.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial em virtude de não se verificar a negativa de prestação jurisdicional apontada, ante a incidência da Súmula 283/STF, bem como da Súmula 7/STJ, além de não ter sido devidamente demonstrado o dissídio jurisprudencial alegado.
+Agravo interno: o agravante reitera as razões recursais quanto a ocorrência de erro material/ premissa fática relativa tanto à falta de juntada do instrumento contratual, quanto ao incidente ter ocasionado outras questões de saúde, além da visão. Renova a fundamentação recursal quanto a necessidade de apresentação do contrato para a aferição da ilegalidade de cláusula excludente de cobertura. Sustenta a inaplicabilidade da Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTE RNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE QUITAÇÃO DE DÉBITOS. ALIENAÇÃO FIDUCIÁRIA. IMÓVEL. SEGURO. INVALIDEZ. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+1. Ação de quitação de débitos .
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Agravo interno desprovido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, nos seguintes termos (e-STJ fls. 992/996):
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da previsão contratual da não cobertura de sinistro ocorrido antes da assinatura do contrato de financiamento imobiliário, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamento não impugnado
+A negativa de cobertura securitária teve dois fundamentos: 1) a inexistência de invalidez, tendo em vista que o agravante é servidor ativo do TJRJ, afora a prova pericial produzida; e 2) o sinistro relativo à incapacidade visual do agravante teria ocorrido em momento anterior à assinatura do contrato, o que afastaria sua cobertura.
+A parte agravante, contudo, suscita a invalidade da cláusula contratual que afasta a cobertura por sinistro ocorrido antes da celebração do contrato, nada dizendo, contudo, a respeito da inexistência da incapacidade em si.
+Assim, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de incapacidade do segurado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a inexistência de incapacidade, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Da análise das razões deduzidas neste agravo interno, verifica-se que a parte agravante aduz a inaplicabilidade da Súmulas 7/STJ, além de afirmar a efetiva ocorrência de negativa de prestação jurisdicional.
+Assim, deixou de impugnar, de forma específica e consistente, a incidência da Súmula 283/STF na apontada ofensa ao art. 54 do CDC relativa à invalidade de cláusula contratual.
+Ressalte-se o entendimento da Corte Especial deste Tribunal (EREsp 1424404/SP, Corte Especial, DJe 17/11/2021), de que "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", bem como de que seria "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial".
+Assim, passo a análise dos capítulos autônomos impugnados.
+Quanto à alegada negativa de prestação jurisdicional, a parte agravante alega a ocorrência de erro material/ premissa fática relativa tanto à falta de juntada do instrumento contratual, quanto ao incidente ter ocasionado outras questões de saúde, além da visão. Verifica-se, contudo, que a Corte de origem deu integral solução à controvérsia, analisando a inexistência da alegada incapacidade laborativa, seja porque a parte está em exercício ativo em cargo público, seja em razão das conclusões periciais apresentadas, bem como examinou o momento da ocorrência do sinistro que teria ocasionado a incapacidade ser anteior à assinatura do contrato de seguro.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional alguma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
