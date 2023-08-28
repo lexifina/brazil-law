@@ -1,0 +1,343 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 8
+
+28/08/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.434.295
+DISTRITO FEDERAL
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: EMPRESA
+BRASILEIRA
+DE
+CORREIOS
+TELÉGRAFOS - ECT
+: RAFAEL ARAUJO VIEIRA
+: RACHEL MACHADO LOUREIRO
+: ELUZIENE LACERDA LIMA
+: AYRTON FIORESI SANTANNA
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+E
+
+EMENTA
+DIREITO DO TRABALHO. CUMULAÇÃO DO ADICIONAL DE
+ATIVIDADE DE DISTRIBUIÇÃO E/OU COLETA EXTERNA (AADC)
+COM O ADICIONAL DE PERICULOSIDADE. VERIFICAÇÃO DOS
+REQUISITOS. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS
+CONTRATUAIS. SÚMULA Nº 454 DO STF. AUSÊNCIA DE QUESTÃO
+CONSTITUCIONAL. OFENSA REFLEXA NÃO VIABILIZA O APELO
+EXTREMO.
+REELABORAÇÃO
+DA
+MOLDURA
+FÁTICA.
+PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA.
+AGRAVO NÃO PROVIDO.
+1. As razões do agravo interno não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada, mormente no que se
+refere ao óbice das Súmulas nº 279 e 454 do STF.
+2. A controvérsia, conforme já asseverado na decisão guerreada, não
+alcança estatura constitucional. Não há falar em afronta aos preceitos
+constitucionais indicados nas razões recursais. Compreensão diversa
+demandaria a análise da legislação infraconstitucional encampada na
+decisão da Corte de origem, bem como o revolvimento do quadro fático
+delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição,
+insuscetível, como tal, de viabilizar o conhecimento do recurso
+extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FE87-85B1-C7DC-445D e senha 0251-A1A3-1EED-BC95
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 8
+
+ARE 1434295 AGR / DF
+nos termos da jurisprudência desta Suprema Corte.
+3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso,
+majorará os honorários fixados anteriormente levando em conta o trabalho
+adicional realizado em grau recursal, observando, conforme o caso, o disposto nos
+§§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários
+devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos
+nos §§ 2º e 3º para a fase de conhecimento”.
+4. Agravo interno conhecido e não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal em conhecer do agravo e negar-lhe
+provimento, nos termos do voto da Relatora e por unanimidade de votos,
+em sessão virtual do Pleno de 18 a 25 de agosto de 2023, na conformidade
+da ata do julgamento.
+Brasília, 28 de agosto de 2023.
+Ministra Rosa Weber
+Presidente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FE87-85B1-C7DC-445D e senha 0251-A1A3-1EED-BC95
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 8
+
+28/08/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.434.295
+DISTRITO FEDERAL
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: EMPRESA
+BRASILEIRA
+DE
+CORREIOS
+TELÉGRAFOS - ECT
+: RAFAEL ARAUJO VIEIRA
+: RACHEL MACHADO LOUREIRO
+: ELUZIENE LACERDA LIMA
+: AYRTON FIORESI SANTANNA
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+E
+
+RELATÓRIO
+A Senhora Ministra Rosa Weber (Presidente): Trata-se de agravo
+interno manejado contra decisão da Presidência desta Suprema Corte
+pela qual negado seguimento ao recurso, ao fundamento de que “para
+dissentir do que decidido pelo Tribunal a quo, necessária seria a análise de
+cláusulas de contrato de trabalho ou de negociação coletiva trabalhista, bem como
+o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das
+Súmulas 279 e 454 desta Corte”.
+A parte agravante ataca a decisão impugnada ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Afirma que o recurso extraordinário reúne todos os requisitos para sua
+admissão. Insurge-se contra a aplicação das Súmulas nº 279 e 454 do STF.
+Reitera as razões do apelo extremo. Requer o provimento do agravo
+(0fd64876).
+O Tribunal de origem julgou a controvérsia em decisão cuja ementa
+reproduzo:
+“AGRAVO EM RECURSO DE REVISTA. ACÓRDÃO
+REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº
+13.467/2017.
+CUMULAÇÃO DO ADICIONAL DE ATIVIDADE DE
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EB0B-644E-ED79-ACC9 e senha 05D0-39CC-7466-7166
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 8
+
+ARE 1434295 AGR / DF
+DISTRIBUIÇÃO E/OU COLETA EXTERNA (AADC) COM O
+ADICIONAL DE PERICULOSIDADE PREVISTO NO §4º DO
+ART. 193 DA CLT. POSSIBILIDADE. TEMA Nº 15 DA TABELA
+DE
+RECURSOS
+DE
+REVISTA
+REPETITIVOS.
+CONHECIMENTO E NÃO PROVIMENTO. I. A Subseção I
+Especializada em Dissídios Individuais do TST, ao julgar o
+Incidente de Recursos de Revista Repetitivos nos autos do
+processo n° 1757-68.2015.5.06.0371, fixou a seguinte tese:
+‘Diante das naturezas jurídicas diversas do Adicional de
+Atividade de Distribuição e/ou Coleta Externa - AADC previsto
+no PCCS/2008 da ECT e do Adicional de Periculosidade
+estatuído pelo § 4° do art. 193 da CLT, define-se que, para os
+empregados da ECT que se enquadram nas hipóteses de
+pagamento dos referidos adicionais, o AADC e o adicional de
+periculosidade, percebido por carteiro motorizado que faz uso
+de motocicleta, podem ser recebidos cumulativamente’. II.
+Assim, a possibilidade de percepção cumulativa, por parte do
+empregado da Empresa Brasileira de Correios e Telégrafos que
+desempenha a função de carteiro motorizado, do Adicional de
+Atividade de Distribuição e/ou Coleta Externa – AADC com o
+adicional de periculosidade previsto no § 4º do art. 193 da CLT,
+não comporta mais debate. III. Fundamentos da decisão
+agravada não desconstituídos. IV. Agravo de que se conhece e a
+que se nega provimento, com aplicação da multa de 5% sobre o
+valor da causa atualizado, em favor da parte Agravada, com
+fundamento no art. 1.021, § 4º, do CPC/2015.”
+
+A Secretaria Judiciária deixou de abrir vista à parte contrária por
+estar sem representação nos autos (186e86d3).
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EB0B-644E-ED79-ACC9 e senha 05D0-39CC-7466-7166
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 8
+
+28/08/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.434.295
+DISTRITO FEDERAL
+VOTO
+A Senhora Ministra Rosa Weber (Presidente): Preenchidos os
+pressupostos genéricos, conheço do agravo interno e passo ao exame do
+mérito.
+Negado seguimento ao recurso ao fundamento de que “para dissentir
+do que decidido pelo Tribunal a quo, necessária seria a análise de cláusulas de
+contrato de trabalho ou de negociação coletiva trabalhista, bem como o reexame
+do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279
+e 454 desta Corte”.
+Irrepreensível a decisão agravada.
+Consoante consignado no decisum impugnado, verifico que a
+alegada ofensa aos postulados constitucionais invocados somente poderia
+ser constatada a partir do prévio reexame da interpretação conferida pelo
+Tribunal de origem a cláusulas contratuais, o que é vedado a esta
+instância extraordinária, conforme a Súmula nº 454/STF: “simples
+interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+Constato, ainda, que o Tribunal de origem, na espécie, lastreou-se na
+prova produzida para firmar seu convencimento, razão pela qual a
+aferição da ocorrência de eventual afronta aos preceitos constitucionais
+invocados no apelo extremo exigiria o revolvimento do quadro fático
+delineado, procedimento vedado em sede extraordinária. Aplicação da
+Súmula nº 279/STF: “para simples reexame de prova não cabe recurso
+extraordinário”.
+Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior,
+nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse
+sentido:
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+DO
+TRABALHO.
+CONVENÇÃO
+COLETIVA.
+ACORDO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AE76-E372-7A7F-D0B4 e senha 650C-0A07-2522-4740
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 8
+
+ARE 1434295 AGR / DF
+COLETIVO. CONFRONTO. FATOS E PROVAS. CLÁUSULAS
+CONTRATUAIS.
+REEXAME.
+IMPOSSIBILIDADE.
+ENUNCIADOS 279 E 454 DA SÚMULA DO SUPREMO
+TRIBUNAL FEDERAL. PRECEDENTES. 1. O recurso
+extraordinário é instrumento de impugnação de decisão judicial
+inadequado para a valoração e exame minucioso do acervo
+fático-probatório engendrado nos autos, bem como para a
+análise de matéria infraconstitucional e de cláusulas
+contratuais. Precedentes: RE 1.238.165-AgR, Primeira Turma,
+Rel. Min. Roberto Barroso, DJe de 13/2/2020; RE 1.170.253-ED,
+Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/2/19;
+ARE 1.055.350-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe
+de 22/09/2017. 2. Agravo interno desprovido, com imposição de
+multa de 5% (cinco por cento) do valor atualizado da causa
+(artigo 1.021, § 4º, do CPC), caso seja unânime a votação” (ARE
+1300444 AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno,
+DJe 25.3.2021).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM
+10.12.2018. RECEBIMENTO CUMULADO DE ADICIONAIS
+DE PENOSIDADE E DE PERICULOSIDADE. ANÁLISE DA
+LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO
+FÁTICO-PROBATÓRIO. RECURSO NEGADO. 1. Nos termos
+da orientação firmada nesta Corte, é inviável o processamento
+do apelo extremo quando sua análise demanda o reexame da
+legislação aplicável à espécie. 2. É firme a jurisprudência do
+Supremo Tribunal Federal no sentido de que o debate nesses
+termos, quanto à validade de normas coletivas restritivas de
+direitos fundamentais, exige análise de cláusula contratual
+coletiva, o que é vedado, neste momento processual, pela
+Súmula 454, desta Corte. 2. Agravo regimental a que se nega
+provimento” (ARE 1143004 AgR, Rel. Min. Edson Fachin, 2ª
+Turma, DJe 28.6.2019).
+
+Honorários advocatícios majorados em 10% (dez por cento), em
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AE76-E372-7A7F-D0B4 e senha 650C-0A07-2522-4740
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 7 de 8
+
+ARE 1434295 AGR / DF
+desfavor da parte recorrente, caso fixada a verba honorária na origem,
+observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC, bem
+como a eventual concessão do benefício da gratuidade da Justiça.
+Agravo interno conhecido e não provido.
+É como voto.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AE76-E372-7A7F-D0B4 e senha 650C-0A07-2522-4740
+
+Supremo Tribunal Federal
+Extrato de Ata - 28/08/2023
+
+Inteiro Teor do Acórdão - Página 8 de 8
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.434.295
+PROCED. : DISTRITO FEDERAL
+RELATORA : MINISTRA PRESIDENTE
+AGTE.(S) : EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT
+ADV.(A/S) : RAFAEL ARAUJO VIEIRA (29481/DF)
+ADV.(A/S) : RACHEL MACHADO LOUREIRO (109004/RJ)
+ADV.(A/S) : ELUZIENE LACERDA LIMA (21491/DF)
+AGDO.(A/S) : AYRTON FIORESI SANTANNA
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+Decisão: O Tribunal, por unanimidade, conheceu do agravo e
+negou-lhe provimento, nos termos do voto da Relatora, Ministra
+Rosa Weber (Presidente). Plenário, Sessão Virtual de 18.8.2023 a
+25.8.2023.
+Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes,
+Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson
+Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e
+Cristiano Zanin.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 84AA-8C31-5E4B-C05D e senha A78D-7ABF-8D54-5102
