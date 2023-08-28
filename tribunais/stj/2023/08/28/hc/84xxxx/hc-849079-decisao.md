@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EVERTON OLIVEIRA DO NASCIMENTO em face de decisão monocrática proferida por Desembargador do Tribunal de Justiça do Estado de Sergipe.
+O impetrante alega, em resumo, nulidade pela busca pessoal e veicular perpetrada sem fundadas razões.
+Requer, assim, seja trancada a ação penal por ausência de justa causa.
+É o relatório.
+Decido.
+Trata-se de habeas corpus impetrado contra decisão de Desembargador Relator que, no âmbito de writ impetrado perante o Tribunal de origem, não conheceu do mandamus, por entender que "não houve manifestação do Juízo de 1º grau sobre as alegações trazidas na presente impetração. O Impetrante não trouxe qualquer decisão que comprove ter suscitado tais questões no 1º grau de jurisdição." (e-STJ, fl. 254).
+A jurisprudência desta Casa se formou no sentido de não ser cabível a impetração do writ contra decisão que indefere liminar, aplicando-se o enunciado da Súmula 691/STF, salvo em caso de manifesta ilegalidade, em que um distinguishing justificaria a concessão da ordem de ofício. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO QUE INDEFERE LIMINAR NA ORIGEM. ENUNCIADO Nº 691 DA SÚMULA DO STF. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. QUANTIDADE RELEVANTE DE ENTORPECENTES - 361,5G DE MACONHA. REGISTROS CRIMINAIS. NECESSIDADE DE EXAME MAIS APROFUNDADO DA MATÉRIA. AUSÊNCIA DE ILEGALIDADE NO INDEFERIMENTO DA LIMINAR. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+ ..
+(AgRg no HC 674.470/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021; grifou-se).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências).  ..
+(AgRg no HC 672.068/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021; grifou-se).
+O mesmo raciocínio vale para a presente situação, na qual a decisão monocrática questionada desafiava agravo regimental perante o órgão de origem. Cito precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+3. Pedido de reconsideração de fls. 51-57 não conhecido. Agravo regimental de fls. 43-48 desprovido. (AgRg no HC n. 743.582/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME MILITAR. ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO IN LIMINE. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. NÃO EXAURIMENTO DE INSTÂNCIA. PEDIDO DE EXTENSÃO DE BENEFÍCIO CONCEDIDO PELO TRIBUNAL DE ORIGEM. INCOMPETÊNCIA DESTA CORTE SUPERIOR. AUSÊNCIA DE TERATOLOGIA. OMISSÃO NÃO CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, o que não se verifica na espécie.
+2. Não cabe habeas corpus contra decisão monocrática de desembargador relator, porquanto ausente manifestação colegiada do órgão de origem, pendente o esgotamento da instância a quo.
+3. Ademais, " n os termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não" (AgRg no HC n. 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019).
+4. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+5. Embargos de declaração rejeitados. (EDcl no AgRg no HC n. 707.767/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+Não é só. Os temas suscitados no presente habeas corpus não foram apreciados pela decisão combatida (e-STJ, fls. 250-254), o que impede sejam analisados por esta Corte, sob pena de indevida supressão de instância. Nesse sentido:
+PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CONTINUIDADE DELITIVA. CONTRADIÇÃO NÃO CONFIGURADA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+ ..
+2. Na hipótese, deixou-se de apreciar o mérito do habeas corpus, no ponto relativo ao pleito de reconhecimento da continuidade delitiva, uma vez que a Corte local não examinou a controvérsia, impedindo o pronunciamento deste Superior Tribunal de Justiça acerca do tema, sob pena de indevida supressão de instância.
+ ..
+4. Embargos de declaração rejeitados. (EDcl no HC 588.703/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021; grifou-se).
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE EXTORSÃO. SUPRESSÃO DE INSTÂNCIA. RELATIVIZAÇÃO INVIÁVEL. NÃO CONFIGURADA FLAGRANTE ILEGALIDADE. CONTINUIDADE DELITIVA. REVISÃO. REANÁLISE FÁTICO-PROBATÓRIA DOS AUTOS. INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..
+7. Agravo regimental desprovido. (AgRg no HC 644.182/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 07/12/2021, DJe 14/12/2021; grifou-se).
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
