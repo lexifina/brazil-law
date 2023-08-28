@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL FINANCIADO. INADIMPLEMENTO. RETOMADA DO BEM PELA VENDEDORA (CREDORA HIPOTECÁRIA). DÉBITOS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. AÇÃO DE COBRANÇA MOVIDA PELO CONDOMÍNIO. NÃO PARTICIPAÇÃO DA COOPERATIVA VENDEDORA. PENHORA DA COISA EM CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. Mesmo sendo retomado o imóvel financiado pela promitente-vendedora e credora hipotecária, e ainda que não tenha esta participado da ação de cobrança movida pelo Condomínio edilício contra o promitente-comprador inadimplente, pode o bem ser penhorado em cumprimento de sentença, dada a natureza propter rem dos débitos condominiais, os quais sempre acompanham o imóvel.
+2. Embora, em regra, o promitente-comprador do imóvel seja responsável pelos débitos de condomínio contemporâneos ao período de sua posse, na hipótese, tendo havido a retomada do imóvel pela promitente-vendedora, responde esta por aquele passivo (despesas condominiais), ressalvado o seu direito de regresso. Precedentes das duas Turmas que compõem a Segunda Seção.
+3. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA - COHAB-CT contra decisão monocrática (fls. 361-366) que negou provimento ao recurso especial da agravante.
+Afirma que este Tribunal não admite execução contra terceiro que não participou de processo cognitivo e não integrou o título executivo judicial.
+Aduz que a decisão agravada, ao concluir de forma diferente, encontra-se equivocada, de modo que não há jurisprudência dominante que justifique julgamento monocrático.
+Não foram apresentadas contrarrazões (fl. 381).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.951.505 - PR (2021/0243051-6)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA
+ADVOGADOS
+:
+DANIEL BRENNEISEN MACIEL - PR040660
+SAMIR BRAZ ABDALLA - PR031374
+RAFAEL FERNANDO PORTELA - PR054780
+FÁBIO COCHMANSKI DO NASCIMENTO - PR052647
+CLEVERSON TUOTO BENTHIEN - PR045001
+AGRAVADO
+:
+CONDOMINIO I DO CONJUNTO MORADIAS SAO JOAO DEL REY IV
+ADVOGADO
+:
+KIRILA KOSLOSK - PR052592
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL FINANCIADO. INADIMPLEMENTO. RETOMADA DO BEM PELA VENDEDORA (CREDORA HIPOTECÁRIA). DÉBITOS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. AÇÃO DE COBRANÇA MOVIDA PELO CONDOMÍNIO. NÃO PARTICIPAÇÃO DA COOPERATIVA VENDEDORA. PENHORA DA COISA EM CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. Mesmo sendo retomado o imóvel financiado pela promitente-vendedora e credora hipotecária, e ainda que não tenha esta participado da ação de cobrança movida pelo Condomínio edilício contra o promitente-comprador inadimplente, pode o bem ser penhorado em cumprimento de sentença, dada a natureza propter rem dos débitos condominiais, os quais sempre acompanham o imóvel.
+2. Embora, em regra, o promitente-comprador do imóvel seja responsável pelos débitos de condomínio contemporâneos ao período de sua posse, na hipótese, tendo havido a retomada do imóvel pela promitente-vendedora, responde esta por aquele passivo (despesas condominiais), ressalvado o seu direito de regresso. Precedentes das duas Turmas que compõem a Segunda Seção.
+3. Agravo interno desprovido.
+VOTO
+MINISTRO RAUL ARAÚJO (Relator):
+A súplica não merece acolhida.
+Conforme já consignado na decisão agravada, sendo o imóvel de propriedade da COHAB-CT, ora recorrente, como ela mesma afirma, porque fora o bem retomado do comprador inadimplente, é ela, a cooperativa, responsável pelos débitos condominiais, ainda que anteriores à retomada do bem, porquanto são despesas de condomínio contemporâneas à posse do comprador inadimplente (natureza propter rem).
+Em tal contexto, a penhora do imóvel, em cumprimento de sentença, é hígida, ainda que não tenha a cooperativa participado do processo de conhecimento, ficando ressalvado, contudo, o seu direito de regresso contra o promitente-comprador (devedor).
+O acórdão do Tribunal de origem não merece retificação ao consignar (fls. 185-187):
+(..)
+No caso concreto, importa ressaltar que a Cohab-CT, conforme a matrícula atualizada do imóvel (mov.1.4/Embargos), jamais deixou de ser a sua proprietária, tendo, apenas, o prometido à venda.
+Malgrado trate-se de questão controvertida na jurisprudência, as 8ª, 9ª e 10ª Câmaras Cíveis deste Tribunal tem decidido pela possibilidade de penhora sobre o imóvel, ainda que esteja registrado em nome de terceiro que não integrou a relação processual, pois a dívida condominial possui natureza propter rem, de modo que é o próprio imóvel que responderá por eventual despesa condominial em atraso.
+(..)
+Assim, considerando que a natureza da obrigação de pagamento das taxas condominiais é propter rem, imperiosa a manutenção da r. sentença que reconheceu a validade da penhora formalizada nos autos principais.
+Esse é, de fato, o entendimento dominante nesta Corte, conforme se dessume a seguir:
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COBRANÇA PROMOVIDA PELO CONDOMÍNIO CONTRA O PROMISSÁRIO COMPRADOR. REAQUISIÇÃO DO BEM PELO PROMITENTE VENDEDOR, QUE, CIENTE DOS DÉBITOS CONDOMINIAIS QUE PASSARIAM A SER DE SUA RESPONSABILIDADE, BEM COMO DA RESPECTIVA AÇÃO, REMANESCE INERTE, POR MAIS DE SEIS ANOS, SOMENTE INTERVINDO NO FEITO PARA ALEGAR NULIDADE DA CONSTRIÇÃO JUDICIAL. PROCEDER PROCESSUAL REPETIDO EM OUTRAS SETE AÇÕES CONTRA O MESMO CONDOMÍNIO. PREJUÍZO MANIFESTO DA ENTIDADE CONDOMINIAL. VERIFICAÇÃO. PENHORA SOBRE A UNIDADE IMOBILIÁRIA, POSSIBILIDADE, EXCEPCIONALMENTE. RECURSO ESPECIAL IMPROVIDO.
+1. As cotas condominiais, concebidas como obrigações propter rem, consubstanciam uma prestação, um dever proveniente da própria coisa, atribuído a quem detenha, ou venha a deter, a titularidade do correspondente direito real. Trata-se, pois, de obrigação imposta a quem ostente a qualidade de proprietário de bem ou possua a titularidade de um direito real sobre aquele. Por consectário, eventual alteração subjetiva desse direito, decorrente da alienação do imóvel impõe ao seu "novo" titular, imediata e automaticamente, a assunção da obrigação pelas cotas condominiais (as vincendas, mas também as vencidas, ressalta-se), independente de manifestação de vontade nesse sentido. Reconhecida, assim, a responsabilidade do "novo" adquirente ou titular de direito real sobre a coisa, este poderá, naturalmente, ser demandado em ação destinada a cobrar os correspondentes débitos, inclusive, os pretéritos, caso em que se preserva seu direito de regresso contra o vendedor (anterior proprietário ou titular de direito real sobre o imóvel).
+2. No caso dos autos, em que pese tenha havido, há muito, a retomada do bem por parte da promitente vendedora, com pleno conhecimento acerca da existência de ação executiva contra o promissário comprador, e, por consectário, dos débitos condominiais (que passariam a ser de sua responsabilidade, preservado, obviamente, o direito de regresso), optou por remanescer inerte, sem intervir no feito para a defesa de seus direitos. Somente após considerável lapso (aproximadamente 6 anos - de 2007 a 2013), por ocasião da designação da hasta pública do bem penhorado, a ora insurgente ingressou no feito, apenas para requerer a nulidade do processo, justamente sob o argumento de que a execução não poderia recair sobre a unidade imobiliária de sua propriedade, sem que tivesse participado da ação de conhecimento. Nesse contexto, de todo inviável reconhecer suposta nulidade, cuja causa, se vício houvesse, teria sido propiciada pela própria suscitante. Aliás, segundo noticiado pelo Tribunal de origem, o censurável proceder processual da parte insurgente, repetiu-se, de modo idêntico, em outras sete demandas, envolvendo unidades imobiliárias no mesmo condomínio recorrido (assentando-se, inclusive, a inadimplência contumaz relativa às correlatas despesas condominiais). O prejuízo à coletividade, representada pelo condomínio, é manifesto.
+3. O promitente vendedor, em regra, não pode ser responsabilizado pelos débitos condominiais posteriores à alienação, contemporâneos à posse do promissário comprador, pois, ao alienar o bem, tem a intenção de justamente despir-se do direito real sobre o bem. Diversa, todavia, é a situação em que o promitente vendedor (independente da causa) objetiva readquirir - e, de fato, vem a reaver - a titularidade de direito real sobre o bem imóvel anteriormente alienado. Nesse caso, deve, sim, o promitente vendedor responder pelos débitos condominiais contemporâneos à posse do posterior titular (compromissário comprador), sem prejuízo de seu direito de regresso, pois, em virtude da reaquisição do bem, sua condição de proprietário e/ou titular de direito real sobre a coisa, na verdade, nunca se rompeu.
+4. Assim delineada a responsabilidade do promitente vendedor, na particular hipótese dos autos, tem-se por descabida a pretensão de infirmar a determinação de penhora sobre a unidade imobiliária, pois, além de a recorrente ser, no plano material, efetivamente responsável pelos débitos objeto da execução, deliberadamente deixou de intervir no feito, embora soubesse, há muito (por mais de seis anos), da existência de tais dívidas (que a ela seriam revertidas em virtude da reaquisição do bem - 2007), assim como da respectiva ação. Inviável, pois, a utilização das regras de processo com o propósito de frustrar o adimplemento de obrigações condominiais que, em última análise, são de sua própria responsabilidade, conclusão que se robustece, a considerar que a conduta processual adotada pela insurgente repetiu-se em mais sete ações contra o mesmo condomínio, tal como assentado pelo Tribunal de origem.
+5. O fato de a obrigação perseguida ter natureza propter rem, não limita, por si, que os atos constritivos venham a recair, necessariamente, sobre a unidade imobiliária dela advinda. Aliás, bem acertado, no ponto, o condicionamento da sustação da hasta pública ao depósito do valor exequendo, cuja suficiência e idoneidade seriam avaliadas pelo juízo da execução. Entretanto, em casos como o dos autos, tem-se que a coletividade representada pelo condomínio, cujas unidades residenciais dele são indissociáveis, não pode ser privada do recebimento das correspondentes quotas-partes destinadas a sua manutenção, em virtude de contratações, a toda evidência, temerárias, levadas a efeito pela empresa recorrente em mais de uma oportunidade, mantendo-se, em cada qual, reprovável comportamento processual. Em situações extremadas como a ora tratada, outra providência não resta, senão a excepcional constrição judicial da própria unidade, cuja defesa a recorrente (responsável no plano material, ressalta-se), por sua iniciativa, optou por renunciar ou fazê-la tardiamente.
+6. Recurso especial improvido.
+(REsp n. 1.440.780/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2015, DJe de 27/3/2015)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TAXAS CONDOMINIAIS. AÇÃO DE COBRANÇA. LEGITIMIDADE PASSIVA. DÉBITOS CONDOMINIAIS POSTERIORES À IMISSÃO NA POSSE.
+1. A promitente vendedora, sem prejuízo de seu direito de regresso, pode ser responsabilizada pelos débitos condominiais posteriores à alienação e contemporâneos à posse do promissário comprador, quando ocorrer a reaquisição da titularidade do direito real sobre o bem imóvel anteriormente alienado. Isto porque, "em virtude da reaquisição do bem, sua condição de proprietário e/ou titular de direito real sobre a coisa, na verdade, nunca se rompeu (REsp 1.440.780/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17.3.2015, DJe 27.3.2015).
+2. Agravo interno a que se nega provimento.
+(AgRg no REsp n. 1.288.250/PR, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/5/2016, DJe de 20/5/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGANTE.
+1. Em regra, o promitente vendedor não pode ser responsabilizado pelos débitos condominiais posteriores à alienação, contemporâneos à posse do promissário comprador, pois, ao alienar o imóvel, tem a intenção de desvincular-se do direito real sobre o bem. Entretanto, quando o promitente vendedor obtém a retomada do bem anteriormente alienado, em virtude da reaquisição, sua condição de proprietário e/ou titular de direito real sobre a coisa não se rompe, razão porque o adquirente de imóvel em condomínio responde pelas cotas condominiais em atraso, ainda que anteriores à aquisição, ressalvado o seu direito de regresso contra o antigo proprietário/possuidor. Precedentes.
+2. Na hipótese, a insurgente (promitente vendedora) readquiriu a titularidade do direito real sobre o bem imóvel anteriormente alienado, motivo pelo qual deve responder pelos débitos do condomínio, ainda que não tenha figurado como parte na ação de conhecimento no âmbito da qual formado o título executivo judicial, pois nos termos do art. 568, inc. III, do Código de Processo Civil/73, aplicável à hipótese, a alienação ou cessão do imóvel ou direito litigioso alcança o novo devedor que assumiu a obrigação. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.288.890/PR, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/11/2020, DJe de 18/12/2020)
+AGRAVO INTERNO. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. REEXAME DE CLÁUSULAS CONTRATUAIS E DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. LEGITIMIDADE PASSIVA AD CAUSAM DO PROMITENTE VENDEDOR QUANDO CANCELADO O CONTRATO DE COMPRA E VENDA. HONORÁRIOS DE SUCUMBÊNCIA.
+1. É vedada, no âmbito desta Corte, a reapreciação de cláusulas contratuais e do suporte fático-probatório dos autos. Incidência das Súmulas 5 e 7/STJ.
+2. Nos termos da jurisprudência firmada nesta Corte, o promitente vendedor, sem prejuízo do seu direito de regresso, pode ser responsabilizado pelos débitos condominiais posteriores à alienação e contemporâneos à posse do promissário comprador, se readquirir a titularidade do direito real sobre o bem imóvel anteriormente alienado.
+3. Nos termos do art. 86 do CPC, "Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.635.939/PR, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/8/2020, DJe de 29/9/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo. Afinal, se o débito condominial possui caráter ambulatório, não faz sentido impedir que, no âmbito processual, o proprietário possa figurar no polo passivo do cumprimento de sentença. Súmula 568/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.950.381/PR, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/12/2021, DJe de 9/12/2021)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS AJUIZADA EM FACE DO PROMISSÁRIO COMPRADOR. PENHORA FASE DE CUMPRIMENTO DE SENTENÇA SOBRE IMÓVEL DA PROMITENTE VENDEDORA, ALHEIA AO PROCESSO. RETOMADA DO IMÓVEL PELA PROMITENTE VENDEDORA. DÉBITOS CONDOMINIAIS. NATUREZA DA OBRIGAÇÃO. PROPTER REM. APLICAÇÃO, POR ANALOGIA, DOS ARTS. 1.345 DO CÓDIGO CIVIL E ART. 109, § 3º DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. PRECEDENTES. SÚMULA 568 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir, cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes. Precedentes.
+2. "Em se tratando a dívida de condomínio de obrigação propter rem e partindo-se da premissa de que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, da qual não figurou no polo passivo" (REsp 1.829.663/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/11/2019, DJe de 7/11/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.943.709/PR, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/4/2022, DJe de 7/4/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
