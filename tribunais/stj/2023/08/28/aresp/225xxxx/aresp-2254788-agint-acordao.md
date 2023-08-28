@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO REALIZADO FORA DA REDE CREDENCIADA. REEMBOLSO. CLÁUSULA LIMITATIVA. NULIDADE. DEVER DE INFORMAÇÃO E BOA-FÉ CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. O Tribunal a quo concluiu, no caso, que a cláusula contratual que prevê a limitação do reembolso das despesas médico-hospitalares e honorários médicos não esclarece de forma objetiva e compreensível seus critérios para cálculo e que, por isso, viola o dever de informação ao consumidor e a boa-fé contratual.
+2. A falta de impugnação, nas razões do recurso especial, ao argumento do acórdão recorrido impede o conhecimento do apelo nobre. Incidência da Súmula n. 283/STF.
+3. A análise das circunstâncias fático-probatórias da causa é vedada no âmbito desta Corte, conforme os enunciados das Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (fls. 818-820).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 733):
+APELAÇÃO. Plano de saúde. Ação de reembolso de despesas médicas. Sentença de improcedência. Inconformismo do autor. Diagnóstico de Degeneração Macular Relacionado à Idade (DMRI) e indicação de tratamento com 3 doses de antiangiogênicos "intra vitreo". Reembolso irrisório pela ré. Cláusula de reembolso de difícil compreensão, que deve ser afastada. Tabela de honorários médicos que não foi apresentada quando da contratação do plano. Sentença reformada. Recurso a que se dá provimento.
+Rejeitados os embargos de declaração opostos (fls. 746-750).
+Alega a agravante prescindibilidade de revisão das provas e cláusulas do contrato de plano de saúde, o que afastaria a incidência dos enunciados 5 e 7 da Súmula do STJ. Ratifica as razões do especial, no sentido de que os limites dos valores reembolsáveis contratados devem ser observados . Aduz que sua condenação ao custeio integral de despesas com tratamento realizado fora da rede credenciada fere o disposto no artigo 12, VI, da Lei n. 9.656/98.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 834-842).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO REALIZADO FORA DA REDE CREDENCIADA. REEMBOLSO. CLÁUSULA LIMITATIVA. NULIDADE. DEVER DE INFORMAÇÃO E BOA-FÉ CONTRATUAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. O Tribunal a quo concluiu, no caso, que a cláusula contratual que prevê a limitação do reembolso das despesas médico-hospitalares e honorários médicos não esclarece de forma objetiva e compreensível seus critérios para cálculo e que, por isso, viola o dever de informação ao consumidor e a boa-fé contratual.
+2. A falta de impugnação, nas razões do recurso especial, ao argumento do acórdão recorrido impede o conhecimento do apelo nobre. Incidência da Súmula n. 283/STF.
+3. A análise das circunstâncias fático-probatórias da causa é vedada no âmbito desta Corte, conforme os enunciados das Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não prospera.
+A controvérsia dos presentes autos refere-se à validade da cláusula que limitava o reembolso das despesas de saúde.
+Conforme bem salientado na decisão agravada, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, decidiu a controvérsia concernente ao custeio do tratamento à vista de cláusulas limitativas, conforme excerto a seguir transcrito (fls. 735-738):
+Em que pesem as alegações da ré quanto à existência de expressa previsão de cálculos para reembolso de tais despesas, bem como o fundamento da r. sentença de que "a cláusula de reembolso que exige cálculo aritmético para se conhecer o valor de reembolso não pode ser classificada como abusiva ou contrária ao disposto no Código de Defesa do Consumidor", verifica-se que os termos para a efetivação dos cálculos são de difícil compreensão e não demonstram percentuais ou o modo de realização dos referidos cálculos, não havendo sequer, quando da contratação do plano, a apresentação da aludida Tabela de Reembolso para apreciação do autor.
+Na conformidade com a cláusula "19.1" do contrato de cobertura de assistência médica e hospitalar fls. 18/61 e 220/263), o reembolso é feito usando-se um fator multiplicador definido no plano escolhido, aplicado sobre os valores previstos na Tabela Amil de Reembolso nos limites e condições estabelecidas no plano contratado, resultando no reembolso por um quantitativo em URA (Unidade de Reembolso Amil). Além do fato de que o autor não teve prévio acesso à citada Tabela Amil de Reembolso, tem-se que a cláusula contratual em questão revela-se obscura e não permite apuração do valor pelo consumidor, não tendo sido observado pela ré o dever de informação que lhe incumbe, razão pela qual dúvida não há de que o reembolso deve ser integral.
+ ..
+Logo, é de rigor o reembolso integral do valor despendido para realização da cirurgia, de forma que deverá a ré restituir ao autor o valor da diferença entre o montante das despesas do tratamento médico, de R$10.500,00 e do reembolso efetivado, de R$236,39, resultando no valor de R$10.263,61, a ser atualizado monetariamente desde os desembolsos pelo autor e acrescido de juros de mora, de 1% ao mês, desde a citação.
+Observa-se, portanto, que o Tribunal a quo firmou seu convencimento a partir da conclusão de que a cláusula contratual que prevê a limitação do reembolso das despesas médico-hospitalares e honorários médicos não esclarece de forma objetiva e compreensível seus critérios para cálculo, o que, no caso concreto, acaba por violar o dever de informação ao consumidor e a boa-fé contratual.
+Com efeito, verifica-se que o entendimento a que chegou o Tribunal de origem, ao determinar o reembolso suplementar da parte agravada, decorreu da interpretação das cláusulas do contrato firmado entre as partes, bem como da análise das circunstâncias fático-probatórias da causa, questões cujo reexame é vedado em âmbito desta Corte, conforme os Enunciados 5 e 7 da Súmula de Jurisprudência deste Tribunal.
+Ademais, da análise das razões do recurso especial, verifica-se que a recorrente limita-se a suscitar violação do art. 12, VI, da Lei n. 9.656/98 - que prevê que o custeio se dará nos limites do contrato -, e deixa de impugnar o fundamento do acórdão recorrido no sentido de que "além do fato de que o autor não teve prévio acesso à citada Tabela Amil de Reembolso, tem-se que a cláusula contratual em questão revela-se obscura e não permite apuração do valor pelo consumidor, não tendo sido observado pela ré o dever de informação que lhe incumbe, razão pela qual dúvida não há de que o reembolso deve ser integral" (fl. 736), o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
