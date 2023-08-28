@@ -1,0 +1,2 @@
+Define o valor do salário mínimo a partir de 1º de maio de 2023; estabelece a política de valorização permanente do salário mínimo a vigorar a partir de 1º de janeiro de 2024; e altera os valores da tabela mensal do Imposto sobre a Renda da Pessoa Física de que trata o art. 1º da Lei nº 11.482, de 31 de maio de 2007, e os valores de dedução previstos no art. 4º da Lei nº 9.250, de 26 de dezembro de 1995.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
