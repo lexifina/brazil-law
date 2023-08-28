@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento quanto ao fato de o particular não se enquadrar no conceito de empresa para fins de contribuição do salário-educação, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+2 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela FAZENDA NACIONAL contra decisão de minha lavra, constante às e-STJ fls. 234/240, em que conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, para afastar alegada violação do art. 1.022, II, do CPC/2015 e ante a incidências das Súmulas 7 e 83 do STJ.
+Em resumo, agravante sustenta que o julgado proferido pelo Tribunal de origem foi omisso ao deixar de esclarecer sobre a matéria posta em debate nos aclaratórios.
+Impugnação apresentada às e-STJ fls. 255/262.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento quanto ao fato de o particular não se enquadrar no conceito de empresa para fins de contribuição do salário-educação, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+2 . Agravo interno desprovido.
+VOTO
+Verifico que os argumentos recursais não são aptos a desconstituir a decisão ora agravada.
+Cuidam os autos, na origem, de mandado de segurança no qual se pleiteia a declaração de inexistência de relação jurídico-tributária referente à contribuição ao salário-educação.
+Em primeiro grau de jurisdição, o Juízo da Vara denegou a segurança e extinguiu o feito sem resolução de mérito, nos termos do art. 6º, § 5º, da Lei n. 12.016/2009.
+A impetrante, ora recorrida, interpôs recurso de apelação, que foi provido pelo Tribunal Regional. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 132/135):
+Apelação interposta contra sentença que denegou a segurança, através da qual o impetrante pretendia a declaração de inexistência de relação jurídico-tributária que obrigasse o impetrante, enquanto produtor rural pessoa física sem CNPJ, ao recolhimento da contribuição social do salário-educação. Sem condenação em honorários advocatícios. Sustenta JOSÉ JAILSON SALDANHA OLIVEIRA nas razões de seu recurso de apelação, em síntese, que é produtor rural pessoa física, não podendo ser considerado sujeito passivo da contribuição social do salário-educação. Depreende-se dos autos e constata-se que:
+a) Trata-se de mandado de segurança impetrado por JOSÉ JAILSON SALDANHA OLIVEIRA em face de ato praticado pelo DELEGADO DA RECEITA FEDERAL DO BRASIL EM FORTALEZA/CE, através da qual pretende obter provimento jurisdicional de declaração de inexigibilidade da contribuição do salário-educação em relação aos empregados vinculados ao Impetrante enquanto no exercício da atividade agropecuária na condição de produtor rural pessoa física, bem como do direito à repetição do indébito dos créditos tributários não prescritos oriundos dos recolhimentos indevidos, corrigidos monetariamente pela taxa SELIC. b) Alega, em síntese, que é produtor rural pessoa física, desenvolvendo atividade de comercialização de frutas por meio do seu CPF.
+c) Emprega em sua atividade funcionários (pessoas físicas) e, portanto, recolhe as contribuições destinadas ao financiamento da seguridade social a cargo dos empregadores e aquelas descontadas de seus empregados, bem como as contribuições a terceiros, incidentes sobre a folha de salários e destinadas aduas entidades diferentes, quais sejam, o FNDE - Fundo Nacional de Desenvolvimento da Educação e o INCRA - Instituto Nacional de Colonização e Reforma Agrária.
+d) Contudo, é ilegalmente considerado sujeito passivo da contribuição salário-educação, uma vez que é produtor rural pessoa física.
+e) O cerne da demanda repousa na legalidade ou não da exigência da contribuição do salário-educação. O STJ firmou o entendimento de que a contribuição do salário-educação é devida pelo produtor rural pessoa física que possui registro no CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação. Precedente: STJ, AgInt no AREsp 821.906/SP, Rel. Min. Gurgel de Faria, DJe 04/02/2019.
+O apelante anexou à inicial documentos que demonstram a condição de produtor rural, atividade exercida como pessoa física, não existindo indícios de que possua registro no CNPJ.
+A jurisprudência pátria é uníssona quanto à viabilidade da utilização do presente remédio constitucional para fins de compensação tributária. Posicionamento já sedimentado pela Súmula 213 do STJ:
+O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária. No tocante à apresentação de prova pré-constituída em ações como esta, há de se adotar o entendimento firmado pela Primeira Seção do STJ, no sentido de se delimitar em quais situações será necessária a comprovação dos recolhimentos indevidos para fins de compensação, as quais não correspondem ao caso dos autos. Nesse sentido: TRF5, 2ª T., PJE 0001540-42.2009.4.05.8100, rel. Des. Federal Paulo Cordeiro, julg. em31/08/2019.
+Cabível a restituição dos valores recolhidos indevidamente a partir do quinquênio que antecedeu à propositura da ação. Na repetição do indébito, deve ser aplicada a Taxa Selic, como índice de correção monetária e de juros de mora, não podendo ser cumulada com qualquer outro índice.
+Apelação provida.
+É como voto.
+Pois bem.
+Como bem assentado na decisão agravada, quanto à alegada nulidade do acórdão regional por negativa de prestação jurisdicional, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento quanto ao fato de o particular não se enquadrar no conceito de empresa para fins de contribuição do salário-educação, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
