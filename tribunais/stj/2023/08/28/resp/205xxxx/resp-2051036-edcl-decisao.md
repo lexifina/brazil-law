@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Angela Antonia Gonçalves contra decisão, assim ementada (fl. 517):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO QUE VISA O FORNECIMENTO DE MEDICAMENTOS PELO PODER PÚBLICO. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIOS DE EQUIDADE. ART. 85, § 8º, DO CPC/2015. RECURSO ESPECIAL PROVIDO.
+A parte embargante sustenta que a decisão embargada contém contradição, reiterando os argumentos de mérito no sentido de que a fixação de honorários por equidade revela-se medida excepcional, razão pela qual, no caso, deve ser obedecidos os critérios estabelecidos no art. 85, §§ 2º e 3º, do CPC/2015, em conformidade com o Tema n. 1076/STJ.
+Com impugnação.
+É o relatório.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada resolveu a controvérsia ao assentar que a Corte de origem, em juízo de adequação, aplicou ao caso o Tema n. 1076/STJ, afastando a fixação dos honorários por apreciação equitativa.
+Com efeito, conforme asseverado na decisão embargada, o entendimento firmado no caso pela Corte de origem destoa da vasta jurisprudência do Superior Tribunal de Justiça quanto ao tema em questão, tendo em vista que a obrigação de fazer imposta ao Estado, filiada ao fornecimento de medicamentos para tratamento contra enfermidades, objetiva preservar a vida/saúde, consubstanciadas em garantias constitucionalmente previstas, cujo valores se mostram inestimáveis, o que justifica a fixação de honorários por equidade, a teor do § 8º, do art. 85, do CPC/15 (AgInt nos EDcl no AREsp n. 2.100.231/MT, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 30/9/2022); (EDcl nos EDcl no AgInt no REsp n. 1.807.735/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 7/12/2022).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Além do mais, nos termos da jurisprudência desta Corte Superior, "a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, não sendo admissível o manejo do recurso integrativo para correção de eventual desconformidade entre o provimento jurisdicional embargado e a prova dos autos, ato normativo, ou acórdão proferido pelo Tribunal de origem ou em outro processo" (EDcl no REsp n. 1.797.365/RS, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ante o exposto, rejeito os embargos de declaração
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
