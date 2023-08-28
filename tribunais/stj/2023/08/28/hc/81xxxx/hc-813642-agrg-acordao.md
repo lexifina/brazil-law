@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Sebastião Reis Júnior.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. INDÍCIOS SUFICIENTES. AGRAVO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que o "trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC n. 784.442/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+2. Havendo indícios da existência dos crimes imputados ao agravante, visto que o paciente foi apreendido conduzindo veículo que teria sido objeto de furto anterior e com sinal identificador adulterado, estando pendente ainda a solução de maiores aprofundamentos sobre os fatos e as provas a eles relacionadas, revela-se prem aturo o trancamento do inquérito policial por ausência de justa causa.
+3. Não constatada situação de investigação por fatos impossíveis de enquadramento típico, como no caso dos autos, é descabida a pretensão de trancamento do inquérito policial.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de fls. 153-157, que denegou o habeas corpus.
+Colhe-se dos autos que o agravante estava sendo investigado pelos crimes de receptação e adulteração de sinal identificador de veículo automotor, previstos nos arts. 180 e 311 do Código Penal.
+No presente agravo, sustenta que, "conforme cabalmente demonstrado no presente feito, trata-se de caso excepcional haja visto que o ora Paciente/Agravante estava exercendo sua função laboral no momento da abordagem pela Polícia Rodoviária Federal, em um veículo fornecido pela empresa, munido de Ordem de Serviço, ou seja, atribuir ao mesmo toda e exclusiva responsabilidade de verificar a procedência do material de trabalho (veículo) submetendo-o a toda instrução penal, bem como seu indiciamento em sede policial, com todas as provas de sua inocência é tornar a vida de um cidadão honesto e trabalhador em algo irracional, dada as circunstâncias dos fatos". (fl. 163).
+Requer a reconsideração da decisão agravada ou a submissão do recurso à Turma para provimento, no sentido de determinar o trancamento do inquérito policial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. INDÍCIOS SUFICIENTES. AGRAVO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que o "trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC n. 784.442/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+2. Havendo indícios da existência dos crimes imputados ao agravante, visto que o paciente foi apreendido conduzindo veículo que teria sido objeto de furto anterior e com sinal identificador adulterado, estando pendente ainda a solução de maiores aprofundamentos sobre os fatos e as provas a eles relacionadas, revela-se prem aturo o trancamento do inquérito policial por ausência de justa causa.
+3. Não constatada situação de investigação por fatos impossíveis de enquadramento típico, como no caso dos autos, é descabida a pretensão de trancamento do inquérito policial.
+4. Agravo regimental desprovido.
+VOTO
+Conforme relatado, busca o agravante a reconsideração da decisão que denegou o habeas corpus, a fim de que seja determinado o trancamento do inquérito policial, sob o argumento de que o agravante estava exercendo sua função laboral no momento da prisão em flagrante e estava a serviço da empresa em que trabalha, não sendo de sua responsabilidade a procedência do veículo que utilizava.
+A decisão agravada está assim fundamentada (fl. 155):
+O trancamento do inquérito policial por meio do habeas corpus é medida excepcional, somente passível de adoção quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade. Apenas ao final da investigação, será possível concluir se as condutas investigadas configuram ou não crimes e todas as circunstâncias pertinentes.
+Como se vê, o Tribunal de origem entendeu ser "necessária profunda investigação acerca dos fatos ocorridos e da procedência do veículo, o que inviabiliza a pretensão dos impetrantes no sentido de trancamento do inquérito policial" (fl. 121).
+No caso, o paciente foi apreendido conduzindo veículo que teria sido objeto de furto anterior e com sinal identificador adulterado, de modo que para se chegar à conclusão diversa, no sentido de que o veículo não pertencia ao paciente, pois estava trabalhando apenas como entregador para a empresa de seu tio, demanda revolvimento fático-probatório dos autos, incabível nesta via, ademais, os impetrantes não trouxeram quaisquer provas das alegações ora trazidas .
+Não vislumbro motivo para conclusão diversa.
+Com efeito, é pacífica a jurisprudência desta Corte no sentido de que o "trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC n. 784.442/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+No caso dos autos, verifica-se que o paciente foi apreendido conduzindo veículo que teria sido objeto de furto anterior e com sinal identificador adulterado.
+Desse modo, havendo indícios da existência dos crimes imputados ao agravante, estando pendente ainda a solução de maiores aprofundamentos sobre os fatos e as provas a eles relacionadas, revela-se prematuro o trancamento do inquérito policial por ausência de justa causa.
+Assim, não constatada situação de investigação por fatos impossíveis de enquadramento típico, como no caso dos autos, é descabida a pretensão de trancamento do inquérito policial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
