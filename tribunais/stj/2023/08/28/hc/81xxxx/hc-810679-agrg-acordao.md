@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ALEGADA DESARRAZOADA DELONGA NO ENCERRAMENTO DO FEITO. NÃO OCORRÊNCIA. PRAZO DE TRAMITAÇÃO DO PROCESSO CONDIZENTE COM AS PECULIARIDADES DO CASO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+2. Na hipótese, o feito prossegue em consonância com as peculiaridades do caso, devendo ser destacado que se cuida de ação penal relativa a vários réus, tendo a instrução sido, inclusive, encerrada, a atrair a incidência da Súmula n. 52 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CLEYDSON MAXIMINO DA SILVA agrava da decisão de fls. 145-146, em que indeferi liminarmente o habeas corpus para manter hígida sua prisão preventiva.
+Para tanto, assere que "o réu se encontra custodiado preventivamente há 02 (dois) anos e 07 (sete) mesessem que a primeira fase do júri tenha chegado ao fim, não obstante as 14 tentativas de audiência de instrução e julgamento" (fl. 158).
+Requer, assim, "em não havendo retratação da decisão ora combatida, a submissão do presente feito a julgamento pela Turma deste egrégio Tribunal, para que seja concedida a ordem de habeas corpus pleiteada" (fl. 162).
+AgRg no HABEAS CORPUS Nº 810.679 - PE (2023/0092337-0)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ALEGADA DESARRAZOADA DELONGA NO ENCERRAMENTO DO FEITO. NÃO OCORRÊNCIA. PRAZO DE TRAMITAÇÃO DO PROCESSO CONDIZENTE COM AS PECULIARIDADES DO CASO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+2. Na hipótese, o feito prossegue em consonância com as peculiaridades do caso, devendo ser destacado que se cuida de ação penal relativa a vários réus, tendo a instrução sido, inclusive, encerrada, a atrair a incidência da Súmula n. 52 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, depreende-se dos autos que "o paciente foi preso no dia 7/10/2020, por suposto cometimento das infrações dispostas no art. 121, § 2º, IV do CPB" (fl. 67).
+Asseriu a defesa, perante a Corte de origem, que "ultrapassados mais de 2 anos da data do fato e da prisão, ainda sequer se encerrou a instrução processual. Destacou a impetrante para a exigência de reavaliação da medida a cada 90 (noventa) dias, nos termos legais. Assim, caracterizado o constrangimento ilegal pelo excesso de prazo, incumbe colocar em liberdade o acusado, ora paciente, relaxando sua prisão, de modo a garantir o direito fundamental à duração razoável do processo" (fl. 67).
+A esse respeito, urge consignar que, consoante a jurisprudência do Superior Tribunal de Justiça, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no RHC n. 176.959/CE, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 18/5/2023.)
+Todavia, no que tange ao suposto excesso de prazo, consoante salientado pela Corte de origem, "até o momento, inexiste atraso desproporcional no andamento do feito, sendo certo que a denúncia foi recebida em 29/09/2020, ocasião em que o Juízo decretou a prisão preventiva do paciente. Trata-se de um feito com pluralidade de acusados, quatro (4), além de vários pedidos de revogação da preventiva. Ainda, foram designadas audiências de instrução e julgamento nas datas de 22/12/2020, 21/01/2021 e 16/03/2021 e 08/02/2023.  ..  não há que se apontar excesso de prazo, observado o trâmite processual acima relatado. A jurisprudência tem elencado situações específicas que justificam - diante do princípio da razoabilidade e da proporcionalidade - o atraso da celeridade processual" (fls. 86-87, grifei).
+A despeito do prolongado andamento do feito, em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que foi realizado o interrogatório dos réus, tendo sido aberto prazo para apresentação de alegações finais.
+Dessa forma, fica afastada, por hora, a alegação de excesso de prazo, pois não foi demonstrada demora irrazoável e injustificada para o término da instrução criminal. Os recentes andamentos processuais demonstram que as instâncias ordinárias vêm impulsionando o prosseguimento do processo, o que ocorre em consonância com a complexidade do feito, o qual, consoante a exordial acusatória, cuida de ação penal relativa a vários réus, tendo a instrução sido, inclusive, encerrada, a atrair a incidência da Súmula n. 52 do STJ.
+À vista do exposto, nego provimento ao recurso, com recomendação de revisão da custódia cautelar e celeridade no trâmite processual.
