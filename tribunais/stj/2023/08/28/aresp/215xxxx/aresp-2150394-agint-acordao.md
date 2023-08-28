@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AG RAVO INTERNO NO AGRAVO EM RECURSO EPSCIAL. RECURSO INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE CARACTERIZADA.
+É intempestivo o agravo interno interposto fora do prazo legal de 15 dias úteis previsto nos arts. 219, 1.003, § 5º, e 1.070 do atual Código de Processo Civil.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PETROBRAS TRANSPORTE S.A. - TRANSPETRO contra decisão monocrática de minha relatoria, no exercício da Presidência do STJ, que não conheceu do agravo em recurso especial em razão da Súmula n. 182/STJ (fls. 5.961-5.963).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 5.757-5.758):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. CONTRATO DE EMPREITADA POR PREÇO UNITÁRIO AJUIZADA EM FACE DA TRANSPETRO. ALEGAÇÃO DE AUSÊNCIA DE PAGAMENTO DE SERVIÇOS EFETIVAMENTE PRESTADOS. CITAÇÃO FEITA PELO PORTAL ELETRÔNICO, COM CERTIDÃO DE CITAÇÃO TÁCITA EM 19/06/2018. REVELIA DECRETADA. INGRESSO DA RÉ NOS AUTOS, APÓS A PRODUÇÃO DA PROVA PERICIAL, ALEGANDO A NULIDADE DA CITAÇÃO FEITA PELO PORTAL ELETRÔNICO, POSTO QUE O SEU CADASTRO NO SISTCADPJ SOMENTE FOI REALIZADO EM 01/07/20. CERTIDÃO DO CARTÓRIO DO JUÍZO DE ORIGEM, CERTIFICANDO QUE, EM CONSULTA AO SISTCADPJ, A INCLUSÃO DA RÉ SE DEU EM 05/06/2016. SENTENÇA PROLATADA, REJEITANDO A ALEGAÇÃO DA NULIDADE DA CITAÇÃO E JULGANDO PARCIALMENTE O PEDIDO FORMULADO NA INICIAL. O SISTEMA SISTCADPJ FOI IMPLEMENTADO NO ÂMBITO DESTE TRIBUNAL, ATRAVÉS DO ATO NORMATIVO CONJUNTO DE Nº 102/2016, COM VISTAS A DAR CUMPRIMENTO AO DISPOSTO NOS ARTIGOS 2º, 5º, 9º E 18 DA LEI Nº 11419/2006 (LEI DE INFORMATIZAÇÃO DO PROCESSO JUDICIAL) E AO DISPOSTO NO ART. 246, PARÁGRAFOS 1º E 2º DO CPC/15, QUE TORNOU OBRIGATÓRIO O CADASTRO NO REFERIDO SISTEMA PARA TODAS AS PESSOAS JURÍDICAS PÚBLICAS E PRIVADAS, EXCETUANDO APENAS AS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE, DISPONDO O ART. 1051 DO CPC, O PRAZO DE 30 DIAS PARA A EFETIVAÇÃO DO REFERIDO CADASTRO. NOS TERMOS DOS ARTIGOS 1º, § 6º E NO ART. 2º, DO REFERIDO ATO, A EMPRESA SOMENTE ESTÁ APTA A RECEBER CITAÇÃO E INTIMAÇÃO ELETRÔNICA, A PARTIR DA REALIZAÇÃO DO CADASTRO FEITO ATRAVÉS DE CERTIFICADO DIGITAL DA PESSOA JURÍDICA. A DGTEC DESTE TRIBUNAL INFORMOU A RÉ, ATRAVÉS DE OFICIO-RESPOSTAAO E-MAIL ENCAMINHADO POR SUA PATRONA, QUE A SUA INCLUSÃO NO CADASTRO DO SISTCADPJ SE DEU EFETIVAMENTE EM 01/07/2020, COM O CERTIFICADO DIGITAL DA EMPRESA. INFORMOU AINDA QUE A DIVERGÊNCIA DE DATAS OCORREU PORQUE O SISTEMA EXIBIA, NAQUELA OCASIÃO, A DATA DA INCLUSÃO DA RÉ NA TABELA "PESSOAJURÍDICA" PELO TRIBUNAL INDEPENDENTE DE CADASTRO DA EMPRESA, TENDO RECEBIDO O E-MAIL COMO PEDIDO DE MELHORIA PARA CORRIGIR A DIVERGÊNCIA EXISTENTE NO SISTEMA. DIVERGÊNCIA JÁ CORRIGIDA NO SISTEMA POSTO QUE A CONSULTA ATUALDEMONSTRA QUE A DATA DA INCLUSÃO DA RÉ SE DEU EM 01/07/20. A RÉ SOMENTE PROCEDEU AO CADASTRO NO REFERIDO SISTEMA, EM RAZÃO DO DETERMINADO NOS AVISOS 43/20 E 53/20 DA PRESIDÊNCIA DESTE TRIBUNAL, QUE FIXOU COMO DATA LIMITE O DIA 01/07/20. APESAR DA DEMORA DA RÉ EM PROCEDER À INCLUSÃO NO CADASTRO, O ARTIGO 246 E O ART. 1051 DO CPC NÃO ESTIPULAM NENHUM TIPO DE SANÇÃO EM RAZÃO DO DESCUMPRIMENTO DA REFERIDA DETERMINAÇÃO LEGAL, NÃO CABENDO, PORTANTO, AO INTÉRPRETE ESTIPULAR SANÇÕES NÃO PREVISTAS PELO LEGISLADOR. NÃO HÁ COMO SE TER COMO VÁLIDA A CITAÇÃO ABSOLUTAMENTE NULA REALIZADA NESTES AUTOS. GARANTIA DOS DIREITOS FUNDAMENTAIS À AMPLA DEFESA E AO CONTRADITÓRIO PREVISTOS NO ART. 5º, LV, QUE SE IMPÕE. FALTA DE PRESSUPOSTO DE VALIDADE DO PROCESSO. ART. 239 DO CPC. AUSÊNCIA DE FORMAÇÃO DA RELAÇÃO PROCESSUAL. CITAÇÃO NULA. NULIDADE ABSOLUTA, QUE TAMBÉM ATINGE AOS ATOS SUBSEQUENTES. ARTIGOS 280 E 281 DO CPC. COMPARECIMENTO ESPONTÂNEO DA RÉ, QUE SUPRE A FALTA DE CITAÇÃO, NA FORMA DO DISPOSTO NO ART. 239, § 1º, DO CPC. REABERTURA DE PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO QUE SE IMPÕE. SENTENÇA ANULADA. PROVIMENTO DO RECURSO DA RÉ (1ª APELANTE). PREJUDICADO O RECURSO DA AUTORA (2ª APELANTE).
+Os embargos de declaração opostos foram conhecidos e parcialmente providos, com efeitos infringentes, nos termos da seguinte ementa (fl. 5.822):
+EMBARGOS DE DECLARAÇÃO. OCORRÊNCIA DE CONTRADIÇÃO NO JULGADO QUANTO AO DISPOSTO NO ART. 239, § 1º, DO CPC. O PRAZO PARA APRESENTAÇÃO DE DEFESA TÉCNICA SE INICIOU NA DATA DO COMPARECIMENTO ESPONTÂNEO DA RÉ NOS AUTOS, NA FASE DE CONHECIMENTO, COM JUNTADA DE PROCURAÇÃO COM PODERES ESPECIAIS, INCLUSIVE, RECEBER CITAÇÃO. NULIDADE DE CITAÇÃO SUPRIDA. AUSÊNCIA DE APRESENTAÇÃO DE CONTESTAÇÃO. PRAZO QUE TRANSCORREU IN ALBIS. PRECLUSÃO. NÃO HÁ DE SE FALAR EM DEVOLUÇÃO DE PRAZO PARA A PRÁTICA DO REFERIDO ATO. POSSIBILIDADE DE PRODUÇÃO DE PROVAS PELA RÉ, TENDO EM VISTA QUE INGRESSOU NOS AUTOS ANTES DO TÉRMINO DA FASE INSTRUTÓRIA. ALEGAÇÃO DE ADOÇÃO DE PREMISSA FÁTICA EQUIVOCADA NO TOCANTE À NULIDADE DA CITAÇÃO QUE SE TRAZUZ EM MERO INCOFORMISMO COM A RATIO DECIDENDI DO JULGADO. ART. 1022, INCISOS I DO CPC. PROVIMENTO PARCIAL DOS EMBARGOS, COM ATRIBUIÇÃO DE EFEITO INFRINGENTE.
+Nas razões do agravo interno, alega a agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Sustenta, outrossim, que "impugnou, minuciosamente, em sua petição de Agravo em Recurso Especial, todos os fundamentos pelos quais o Recurso Especial restou inadmitido pela Corte de Origem. De fato, conforme se depreende dos autos, ao impugnar a decisão monocrática obstativa de seguimento ao Recurso Especial, a Agravante demonstrou que não incide, na espécie, o óbice da Súmula 7 do Superior Tribunal de Justiça" (fl. 12).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 19-35).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AG RAVO INTERNO NO AGRAVO EM RECURSO EPSCIAL. RECURSO INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE CARACTERIZADA.
+É intempestivo o agravo interno interposto fora do prazo legal de 15 dias úteis previsto nos arts. 219, 1.003, § 5º, e 1.070 do atual Código de Processo Civil.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece conhecimento por ser intempestivo.
+Verifica-se que a decisão recorrida foi publicada em 4/8/2022 (fl. 5.964). Assim, o prazo para a interposição de eventual recurso iniciou-se no dia 08.08.2022, com término em 29/8/2022, conforme certidão de fl. 16 do expediente avulso.
+Contudo, o agravo interno foi protocolado somente no dia 30/8/2022 (fls. 2-15, expediente avulso), ou seja, fora do prazo legal de 15 (quinze) dias, nos termos do art. 1.021, c/c o art. 1.070 do Código de Processo Civil.
+É patente, portanto, a intempestividade do recurso.
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO.
+1. A petição de agravo interno somente foi protocolizada após o transcurso do prazo recursal, circunstância que impõe o não conhecimento do recurso ante a intempestividade.
+2. Cabe à parte comprovar, no momento da interposição do recurso, a ocorrência de suspensão dos prazos processuais em decorrência de feriados locais, recesso forense ou ponto facultativo, entre outros motivos, a fim de demonstrar a tempestividade recursal. A possibilidade de comprovação do feriado local posteriormente restringe-se à segunda-feira de carnaval, não se aplicando aos demais feriados (AREsp 1.481.810-SP, Corte Especial).
+3. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.499.016/MG, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 23/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. É intempestivo o agravo interno interposto fora do prazo de quinze dias úteis previsto nos artigos 219, 1.003, § 5º, e 1.070 do atual Código de Processo Civil.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.163.550/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. AGRAVO INTERNO INTEMPESTIVO. RECURSO NÃO CONHECIDO.
+1. In casu, a decisão agravada foi publicada no dia 07 de dezembro de 2022 (235 e-STJ) e o agravo interno somente foi interposto no dia 07 de fevereiro de 2023 (271 e-STJ).
+2. O recurso de agravo interno, portanto, foi interposto após o decurso do prazo legal (quinze dias úteis) previsto no art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do CPC/2015, impondo-se o reconhecimento de sua intempestividade.
+3. Agravo interno não conhecido.
+(AgInt no AgInt nos EDcl no AREsp n. 2.118.093/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
