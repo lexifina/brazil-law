@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 126):
+APELAÇÃO DEFENSIVA - Roubo - Pleito objetivando a desclassificação para estelionato ou a redução da pena - Materialidade e autoria demonstradas - Cabível o afastamento da exasperação da pena-base em razão do emprego de arma de fogo - Apelo parcialmente provido.
+O recorrente foi condenado à pena de 4 anos e 8 meses da reclusão, em regime inicial semiaberto, e 11 dias-multa, como incurso no art. 157, caput, do Código Penal. Interposta apelação pela defesa, foi parcialmente provida para reduzir a pena a 4 anos de reclusão, em regime semiaberto, e 10 dias-multa.
+No recurso especial, sustenta a defesa violação do art. 33, § 2º, c, e § 3º do CP, aduzindo ausência de fundamentação concreta para a fixação do regime inicial mais gravoso.
+Requer o provimento do recurso, a fim de fixar o regime aberto para início do cumprimento da pena.
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Acerca do regime prisional, extrai-se do acórdão recorrido (fls. 128-129):
+Quanto à regência carcerária, mantém-se a fixação do regime semiaberto, com fulcro no art. 33, § 3º, do Código Penal, mostrando-se o regime adequado para a reprovação da conduta criminosa, bem como em razão do estado de intranquilidade e insegurança que tal delito traz à sociedade.
+Assim, inexiste qualquer ilegalidade em se fixar regime mais gravoso para início do cumprimento da pena privativa de liberdade, não causando ofensa às Súmulas 718 e 719 do STF e 440 do STJ, uma vez que os fatos e circunstâncias do caso em concreto não recomendam a adoção de regime prisional mais brando, sobretudo para não criar afrouxamento excessivo e intolerável estímulo criminoso, fazendo crescer a sensação de impunidade.
+Conforme orientação consolidada no âmbito desta Corte, na esteira dos enunciados das Súmulas 440/STJ e 718 e 719 do STF, "é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime" (AgRg no REsp n. 2.070.061/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+No caso, tratando-se de acusado primário, ausentes circunstâncias judiciais desfavoráveis e considerado o quantum da pena - 4 anos de reclusão -, mostra-se cabível o regime aberto para início do desconto da pena, uma vez que, conforme se dessume da fundamentação do acórdão, não foi adotado fundamento concreto para a fixação do regime prisional mais gravoso.
+Confira-se a respeito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DECISÃO MONOCRÁTICA. ROUBO MAJORADO. REGIME ABERTO. ADEQUADO. PENA INFERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.(SÚMULA N. 440 DO STJ E SÚMULAS 718 E 719 DO STF). SUPERAÇÃO DO ENUNCIADO DA SÚMULA 691 DO STF. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL VERIFICADO. REGIME ANTERIOR FUNDADO NA GRAVIDADE ABSTRATA DO CRIME. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No Superior Tribunal de Justiça, é assente o entendimento de que a fixação de regime mais gravoso do que o indicado para a pena imposta ao réu deve ocorrer com fundamentação específica, que considere a existência de circunstâncias judiciais desfavoráveis do art. 59 do Código Penal ou outro dado concreto que demonstre a extrapolação da normalidade do tipo.
+III - O enunciado da Súmula n. 440 do STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravida abstrata do delito". Em igual sentido, as Súmulas n. 718 e 719 do STF.
+IV - O réu é primário e inexistem circunstâncias judiciais desfavoráveis, tendo a pena-base sido fixada no mínimo legal. Verifica-se também que foi fixado o regime inicial mais gravoso para o cumprimento da pena com base apenas na gravidade abstrata do delito, fundamento que se mostra insuficiente.
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 713.364/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022, DJe de 16/12/2022.)
+Ante o exposto, dou provimento ao recurso especial para fixar o regime aberto.
+Publique-se.
+Intimem-se.
