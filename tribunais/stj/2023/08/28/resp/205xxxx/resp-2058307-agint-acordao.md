@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. PREPARO. IRREGULARIDADE NO RECOLHIMENTO. INTIMAÇÃO PARA SANAR O DEFEITO. FALTA DE REGULARIZAÇÃO. CÓDIGO DE BARRAS. NÚMERO. AUSÊNCIA. MANUTENÇÃO DA DECISÃO PROFERIDA PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO.
+1. A falta de correspondência entre a sequência da numeração do código de barras constante da guia de recolhimento e do comprovante de pagamento, bem como a não indicação do número do processo a que se refere, impossibilita a aferição do correto recolhimento das custas devidas. Incidência da Súmula n. 187/STJ.
+2. Tendo sido deferido prazo para o recorrente comprovar o correto recolhimento do preparo, à luz do art. 1.007, § 7º, do CPC/2015, e permanecendo algum vício que importe em deserção, não cabe nova oportunidade para regularização, sob pena de incentivo ao abuso processual, devendo a parte agir com diligência no cumprimento de seus deveres (AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF-5ª Região, Quarta Turma, julgado em 14/11/2017, DJe 21/11/2017).
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO HENRIQUE AVELAR COSTA contra decisão monocrática proferida pela Presidência desta Corte que não conheceu do recurso, tendo em vista a incidência do óbice da Súmula n. 187/STJ (e-STJ, fls. 1.042-1.043).
+Em suas razões (e-STJ, fls. 1.059-1.061), o agravante assevera que os documentos colacionados aos autos autorizam a concluir pelo efetivo pagamento no momento da interposição do apelo especial.
+Sustenta que, "muito embora haja, de fato, jurisprudência do STJ neste sentido, no caso em epígrafe, o preparo foi devidamente realizado pelo recorrente, conforme guia anexada à fl. 1025, comprovante de pagamento anexado à fl. 1026 e comprovante complementar detalhado anexado às fls. 1049/1051, tendo o valor das custas sido creditado a tempo e modo devidos na conta do STJ, fato este incontroverso, restando cumprida, portanto, a previsão contida na Súmula n. 187 do STJ " (e-STJ, fl. 1.060).
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 1.068-1.074 e 1.077-1.086), com pedido de majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. PREPARO. IRREGULARIDADE NO RECOLHIMENTO. INTIMAÇÃO PARA SANAR O DEFEITO. FALTA DE REGULARIZAÇÃO. CÓDIGO DE BARRAS. NÚMERO. AUSÊNCIA. MANUTENÇÃO DA DECISÃO PROFERIDA PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO.
+1. A falta de correspondência entre a sequência da numeração do código de barras constante da guia de recolhimento e do comprovante de pagamento, bem como a não indicação do número do processo a que se refere, impossibilita a aferição do correto recolhimento das custas devidas. Incidência da Súmula n. 187/STJ.
+2. Tendo sido deferido prazo para o recorrente comprovar o correto recolhimento do preparo, à luz do art. 1.007, § 7º, do CPC/2015, e permanecendo algum vício que importe em deserção, não cabe nova oportunidade para regularização, sob pena de incentivo ao abuso processual, devendo a parte agir com diligência no cumprimento de seus deveres (AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF-5ª Região, Quarta Turma, julgado em 14/11/2017, DJe 21/11/2017).
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Com efeito, em que pese às alegações deduzidas pelo agravante, a Presidência desta Corte não conheceu do agravo, com base nos seguintes fundamentos (e-STJ, fls. 1.042-1.043):
+Mediante análise do recurso de MARCELO HENRIQUE AVELAR COSTA, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a apresentar à fl. 1025 a guia de recolhimento das custas do STJ acompanhada de um comprovante de pagamento sem o código de barras (fl. 1026).
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Na hipótese dos autos, foi certificado pelo Tribunal de origem que, embora o insurgente "tenha anexado o comprovante de pagamento e sua respectiva guia atinente à verba devida a este egrégio Tribunal de Justiça, não anexou a guia e o comprovante do preparo referente ao Superior Tribunal de Justiça, no ato da interposição de seu recurso" (e-STJ, fl. 1.022), razão pela qual foi determinada a intimação do insurgente para, no prazo de 5 (cinco) dias, sanar a irregularidade, oportunidade em que deveria anexar aos autos o comprovante de pagamento das custas referentes ao STJ, com sua respectiva guia.
+Intimada a parte recorrente para regularizar o preparo, foi aberto prazo para manifestação, não tendo o agravante sanado a irregularidade, configurando-se a deserção. Isso porque juntou a guia de recolhimento das custas do Superior Tribunal de Justiça acompanhada de um comprovante de pagamento sem o código de barras (e-STJ, fl. 1026).
+Assim, não saneado o defeito constatado no preparo do apelo excepcional, após a intimação do recorrente, impositivo o não conhecimento do recurso especial.
+É prudente destacar que o Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (AgRg no AREsp 619.794/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/10/2015).
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ. AGRAVO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+3. Documento sem a sequência numérica do código de barras ou com o código de barras ilegível não é apto para comprovar o pagamento das custas devidas ao STJ, tendo em vista a impossibilidade de comparação com os dados constantes da guia de recolhimento apresentada.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.231.055/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. PREPARO. RECOLHIMENTO. COMPROVAÇÃO. DEFICIÊNCIA. GUIA DE RECOLHIMENTO E COMPROVANTE DE PAGAMENTO. CÓDIGO DE BARRAS. CORRESPONDÊNCIA. AUSÊNCIA. PARTE. INTIMAÇÃO. SANEAMENTO. PRAZO DETERMINADO. NÃO ATENDIMENTO. DESERÇÃO CARACTERIZADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devida e tempestivamente (art. 1.007, § 4º, do CPC/2015).
+3. A falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o deserto.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.809.670/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/11/2021, DJe de 22/11/2021.)
+Registre-se, oportunamente, que, tendo sido deferido prazo para o recorrente comprovar o correto recolhimento do preparo, à luz do art. 1.007, § 7º, do CPC/2015, e permanecendo algum vício que importe em deserção, não cabe nova oportunidade para regularização, sob pena de incentivo ao abuso processual, devendo a parte agir com diligência no cumprimento de seus deveres (AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF-5ª Região, Quarta Turma, julgado em 14/11/2017, DJe 21/11/2017).
+Desse modo, uma vez que as ponderações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Quanto ao pleito da parte agravada, vale salientar ser inviável a majoração dos honorários advocatícios em desfavor do agravante, tendo em vista a ausência de preenchimento dos requisitos necessários para o incremento da verba honorária.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
