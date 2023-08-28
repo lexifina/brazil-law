@@ -1,0 +1,72 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000010-11.2023.8.08.9101
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA e outros
+RECORRIDO: DANIEL MORAES CORONEL PALMA e outros
+RELATOR(A):FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR.
+FELIPE LEITÃO GOMES
+– RELATOR
+
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+
+Concedo a gratuidade da justiça à parte recorrente, ora autor, visto que preenchidos os requisitos legais.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS. COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. (1). DA LIDE.
+EM RESUMO, O REQUERENTE PLEITEIA INDENIZAÇÃO POR INVALIDEZ PERMANENTE EM RAZÃO DE ACIDENTE MOTOCICLÍSTICO DATADO EM 10/06/2015 E DANOS MORAIS.
+(2). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido da inicial, para condenar a requerida ao pagamento, em favor do autor, da quantia de R$ 1.417,50 (mil quatrocentos e dezessete reais e cinquenta centavos), com juros moratórios a contar da citação e correção monetária, do requerimento administrativo”.
+(3). RECURSO DA PARTE AUTORA.
+PUGNA PELA REFORMA DA R. SENTENÇA, PARA QUE A RÉ SEJA CONDENADA AO PAGAMENTO DE 100% DE DEBILIDADE PERMANENTE RESIDUAL DO MEMBRO INFERIOR DIREITO.
+(5). RECURSO DA PARTE REQUERIDA.
+ALEGAÇÃO DE EXISTÊNCIA DE COISA JULGADA MATERIAL. REQUER SEJA DADO PROVIMENTO AO RECURSO INTERPOSTO PARA JULGAR EXTINTO O PROCESSO, NOS TERMOS DO ART. 485, INCISO V, DO CPC. EM ULTRAPASSADO, ROGA PELA READEQUAÇÃO DA CONDENAÇÃO PARA O VALOR DE R$ 945,00 E NÃO R$ 1.417,50, ADEQUANDO AOS PERCENTUAIS CONFORME LAUDO PERICIAL E PARÂMETROS INDENIZATÓRIOS DA LEI 11.945/09.
+(4). DA QUESTÃO PROCESSUAL.
+AÇÕES IDÊNTICAS
+.
+LITISPENDÊNCIA
+.
+EXTINÇÃO DO FEITO SEM JULGADO DE MÉRITO
+.
+RECURSO PREJUDICADO
+.
+O ART. 337, §§§ 1º, 2º E 3º, DO CPC APONTA AS HIPÓTESES ONDE HAVERÁ A LITISPENDÊNCIA. NO CASO EM TELA, EM CONSULTA AO SISTEMA PJe, VERIFICA-SE A IDENTIDADE ENTRE PARTES, MESMO PEDIDO E CAUSA DE PEDIR ENTRE A PRESENTE DEMANDA E O PROCESSO N.º 5000317-38.2019.8.08.0004. AMBAS AÇÕES FORAM DISTRIBUÍDAS EM 21/08/2019. DESSARTE, CONSIDERANDO QUE O SUPRADITO PROCESSO TAMBÉM ENCONTRA-SE EM FASE RECURSAL, ESTANDO SOB A RELATORIA DO DR.º THIAGO ALBANI OLIVEIRA GALVEAS, SENDO INCLUSIVE INCLUÍDO EM PAUTA PARA JULGAMENTO, IMPERIOSA SE FAZ
+IN CASU
+A EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ART. 485, INCISO V, DO CPC. ANTE O EXPOSTO, DIANTE DO RECONHECIMENTO DA EXISTÊNCIA DE LITISPENDÊNCIA, PREJUDICADAS AS DEMAIS ALEGAÇÕES RECURSAIS.
+PRELIMINAR DE LITISPENDÊNCIA ACOLHIDA. (5). (5.1).
+RECURSO DA PARTE RÉ CONHECIDO E PROVIDO
+. (5.2).
+RECURSO DA PARTE AUTORA CONHECIDO E IMPROVIDO
+. (6). SENTENÇA REFORMADA PARA
+EXTINGUIR O PROCEDIMENTO
+, NA FORMA DO ART. 485, VI DO CPC. (7). POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENAÇÃO DA PARTE AUTORA, ORA RECORRENTE, AO PAGAMENTO DAS CUSTAS PROCESSUAIS, BEM COMO HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE R$ 1.000,00, NA FORMA DO ART. 85, §8º, DO CPC,
+PORÉM, SUSPENDO A EXIGIBILIDADE EM RAZÃO DA CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. (8).
+SEM CUSTAS RECURSAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS À SEGURADORA RECORRENTE, PORQUANTO ESTA SAGROU-SE VENCEDORA EM SEU PLEITO.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
