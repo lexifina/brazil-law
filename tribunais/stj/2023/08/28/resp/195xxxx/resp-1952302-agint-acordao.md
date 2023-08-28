@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. Não enfrentado pelo Tribunal a quo o conteúdo do dispositivo de lei federal tido por violado, mesmo depois de provocado pela via dos embargos de declaração, há manifesta falta de prequestionamento a atrair a incidência da Súmula 282 do STF.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Infirmar o entendimento alcançado pela Corte de origem, a fim de acolher a tese suscitada pelo recorrente, demandaria o reexame do conjunto fático-probatório dos autos, inviável na via de recurso especial (Súmula 7 do STJ).
+4. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+5. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA TEREZA MILKEN e OUTROS para desafiar decisão de minha relatoria, proferida às e-STJ fls. 857/865, que conheceu parcialmente do recurso especial, e nessa extensão, negou-lhe provimento, por ausência de prequestionamento, inexistência de negativa de prestação jurisdicional, bem como incidência das Súmulas 7 e 83, do STJ.
+Nas suas razões, a parte agravante reafirma a existência de negativa de prestação jurisdicional, que houve prequestionamento da matéria, bem como que não incidem os óbice sumulares indicados no decisum agravado.
+Sem impugnação (e-STJ fl. 890).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. Não enfrentado pelo Tribunal a quo o conteúdo do dispositivo de lei federal tido por violado, mesmo depois de provocado pela via dos embargos de declaração, há manifesta falta de prequestionamento a atrair a incidência da Súmula 282 do STF.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Infirmar o entendimento alcançado pela Corte de origem, a fim de acolher a tese suscitada pelo recorrente, demandaria o reexame do conjunto fático-probatório dos autos, inviável na via de recurso especial (Súmula 7 do STJ).
+4. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+5. Agravo desprovido.
+VOTO
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Feita essa consideração, observo, de início, no que se refere aos arts. 1.536, § 2º, do Código Civil de 1916 e 405 do Código Civil, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto à alegada ofensa do art. 1.022, do CPC/2015, inexiste omissão no aresto recorrido, que solucionou adequadamente a controvérsia, utilizando-se de fundamento suficiente e esclarecedor, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal.
+Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. IMPOSTO DE RENDA SOBRE RENDIMENTOS DE FUNDO DE RENDA FIXA DE CAPITAL ESTRANGEIRO. LEGALIDADE DA MAJORAÇÃO DE ALÍQUOTA PELA LEI 9.245/1995. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Rejeita-se a alegada preliminar de nulidade do acórdão de origem por negativa de prestação jurisdicional, porquanto não restaram evidenciadas quaisquer omissões, obscuridades ou contradições no aresto recorrido, que solucionou adequadamente a controvérsia utilizando-se de fundamento suficiente e esclarecedor; os Embargos Declaratórios, embora sejam um importante instrumento de aperfeiçoamento da prestação jurisdicional, não se prestam para forçar o Tribunal a se manifestar sobre uma questão jurídica sob uma determinada ótica, se já se optou por outra igualmente válida e pertinente.
+ ..
+5. Agravo Regimental desprovido. (AgRg no AREsp 163.417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014) (AgInt no REsp 1.382.087/SP, Rel. Ministro NAPOLEÃO NUNES MAIA PRIMEIRA TURMA, DJe 29/09/2014)
+Extrai-se do acórdão recorrido (e-STJ fls. 777/779):
+ ..
+16. Relativamente à base de cálculo, conforme artigo 28 da Lei nº 8.880/94, o reajuste de 3,17% deve incidir sobre todas as parcelas de natureza permanente que compõem a remuneração dos servidores, considerando que todas elas sofreram redução em seu valor na ocasião de conversão de cruzeiros em URV, o que gerou o referido índice, e não apenas sobre seu vencimento básico, in verbis:
+ ..
+17. Porém, quanto às rubricas DAS e FG, o reajuste deverá incidir sobre as mesmas até fevereiro de 1995, tendo em vista o advento da Lei nº 9.030/95 que reajustou seus valores em percentual superior ao índice de 3,17%, a partir de 1º de março de 1995, trazendo novas tabelas de classificação e remuneração sobre tais rubricas.
+18. Ressalva-se, contudo, que referida restrição não interferirá na continuidade do pagamento da diferença sobre o vencimento básico e outras rubricas, tendo em vista que a referida lei não trata de revisão geral das remunerações.
+ ..
+22. Com razão o apelante quanto aos juros de mora.
+23. Cotejando a sentença com o v. Acórdão proferido pela 2 º Turma desta e.
+Corte, é possível verificar que, de fato, a sentença fixou a incidência de juros de mora a partir do trânsito em julgado, enquanto o acórdão determinou a aplicação do referido consectário a partir da citação, mesmo sem qualquer recurso da parte autora.
+24. Posta a questão nestes termos, não é cabível alteração no julgado que venha a imputar à Autarquia Previdenciária sucumbência maior em relação àquela fixada pelo juízo de primeiro grau.
+25. Com isso, verifica-se claramente que, ao estender a condenação fixada na sentença, sem qualquer recurso hábil à impulsão jurisdicional, o acórdão atacado laborou em equívoco.
+26. Oportuno registrar que a jurisprudência majoritária perfilha entendimento no sentido de que há violação literal de dispositivo legal nos casos em que o julgado, em sede de apelação e/ou remessa oficial agravar a situação do recorrente, causando reformatio in pejus.
+Conforme dito no decisum agravado, portanto, não há que se falar em negativa de prestação jurisdicional.
+Quanto ao mais, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ademais, a jurisprudência desta Corte Superior entende que a Lei n. 9.030/95 "não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira" (AgRg no REsp 1278356/PR, rel. Ministra DIVA MALERBI, desembargadora convocada do TRF da 3ª região, SEGUNDA TURMA, julgado em 02/08/2016, DJe 10/08/2016).
+Há muito este Tribunal também estabeleceu que "o pagamento do reajuste de 3,17% está limitado à data da reestruturação ou reorganização da carreira, nos termos do art. 10 da Medida Provisória n. 2.225-45/2001" (REsp 1.371.750/PE, Relator Ministro OG FERNANDES, Primeira Seção, DJe 10/04/2015).
+Ainda, assentou que a Lei n. 9.030/1995 "não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira" (AgRg no REsp 1.278.356/PR, rel. Ministra DIVA MALERBI, desembargadora convocada do TRF da 3ª Região, Segunda Turma, julgado em 02/08/2016, DJe 10/08/2016).
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. LEI 9.030/1995. REESTRUTURAÇÃO DA CARREIRA. NÃO OCORRÊNCIA. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. OMISSÃO NÃO CONFIGURADA.
+1. Hipótese em que foi dado provimento ao recurso dos insurgentes, uma vez que está pacificado no Superior Tribunal de Justiça o entendimento de que o termo final do pagamento dos valores devidos a título de reajuste de 3,17% se opera ou na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001, ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, consoante previsão do art. 9º da mencionada medida provisória. A Lei 9.030/1995, que apenas fixou "a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia ou assessoramento", conforme pacífico entendimento desta Corte, não teve, entretanto, o condão de reestruturar ou reorganizar as carreiras. Neste passo, a entrada em vigor dessa lei não constituiu termo final para a incidência do resíduo de 3,17%.
+2. Acolhida a pretensão externada no Recurso Especial, foram invertidos os ônus sucumbenciais e majorados os honorários advocatícios, anteriormente fixados, em 8% (oito por cento), conforme o art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça. Assim, ao contrário do alegado pelos agravantes, não há falar em omissão no julgado. A propósito: EDcl no AgInt no REsp 1.631.906/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 4.5.2020.
+3. Agravo Interno não provido. (AgInt nos EDcl no REsp 1.856.120/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/02/2021, DJe 17/02/2021).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RESÍDUO DE 3,17%. LIMITAÇÃO. REESTRUTURAÇÃO OU REORGANIZAÇÃO DA CARREIRA. LEI N. 9.030/95. REAJUSTE DE FUNÇÕES E GRATIFICAÇÃO. TERMO FINAL. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, o resíduo de 3,17% limita-se à data em que houve a reestruturação ou reorganização da carreira, nos termos do art.
+10 da Medida Provisória 2.225-45/2001 ou em 1º/1/2002, para as carreiras que não foram reestruturadas, nem reorganizadas até a referida norma.
+2. A Lei 9.030/95 não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira. Precedentes: AgRg nos EDcl no REsp 1.523.151/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015; AgRg no REsp 1.577.678/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/5/2016.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.278.356/PR, Rel. Ministra DIVA MALERBI, DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 02/08/2016, DJe 10/08/2016).
+Conclui-se, portanto, que, embora a Lei n. 9.030/1995 não possa ser considerada como norma ensejadora de reestruturação da carreira, é pacífico o entendimento de que ela promoveu a alteração da remuneração de cargos em comissão de natureza especial e funções comissionadas.
+Assim, escorreito o Tribunal de origem ao consignar que, "quanto às rubricas DAS e FG, o reajuste deverá incidir sobre as mesmas até fevereiro de 1995, tendo em vista o advento da Lei n. 9.030/1995 que reajustou seus valores em percentual superior ao índice de 3,17%, a partir de 1º de março de 1995, trazendo novas tabelas de classificação e remuneração sobre tais rubricas" (e-STJ fls. 1.370/1.371).
+Por tal razão, nos termos da decisão atacada, incide na hipótese a Súmula 83 do STJ.
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
