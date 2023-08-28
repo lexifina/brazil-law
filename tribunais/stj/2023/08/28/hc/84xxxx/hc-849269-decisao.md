@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DOUGLAS CÉSAR BUENO PITONDO contra acórdão da 4ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 2155718-53.2023.8.26.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante, acusado da suposta prática do delito tipificado no art. 121, § 2º, incisos I e IV c/c 14, inciso II do Código Penal. A custódia foi convertida em preventiva.
+Buscando a revogação da custódia, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 15/22):
+PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISOS I E IV,C. C. O ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL). REVOGAÇÃO DA PRISÃO PREVENTIVA. ORDEM DENEGADA.
+1. Pleito de revogação da prisão preventiva Impossibilidade - Indícios suficientes de autoria e materialidade delitiva - Crime grave, equiparado a hediondo - Necessidade da segregação para garantia da ordem pública e aplicação da lei penal.
+2. Execução do crime, a indicar periculosidade que se traduzem ato suscetível de prejuízo ao meio social e à própria credibilidade da justiça, a exigir a manutenção da segregação cautelar.
+3. Condições pessoais favoráveis que, por si só, não afastam a necessidade da prisão provisória. Inexistência de constrangimento ilegal. Ordem denegada.
+No presente writ, a defesa alega que o paciente é primário, de bons antecedentes, trabalhador e pai de família, e que contribuiu com a instrução criminal, inclusive confessando o delito. Afirma que ele teria "agido em razão do ímpeto momentâneo que lhe atingiu" (e-STJ fl. 4). Sustenta não estar demonstrado o periculum libertatis. Reitera que o fato consistiu em evento isolado em sua vida, decorrente da descoberta de relação extraconjugal mantida entre a vítima e sua esposa.
+Requer, em liminar e no mérito, a expedição de alvará de soltura, inclusive mediante aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+O writ não comporta conhecimento, por estar insuficientemente instruído. A defesa não juntou aos autos cópia da decisão que converteu a prisão em flagrante em preventiva, decreto que contém as razões originárias da prisão e ao qual se refere a decisão de pronúncia ao apontar que a segregação é necessária já que a situação "permanece inalterada" (e-STJ fl. 36).
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " ..  a jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 182.788, Rel. Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " ..  em sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 772.017/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
