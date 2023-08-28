@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+JHONATAS HENRIQUE ALVES agrava regimentalmente contra decisão de minha Relatoria, na qual indeferi liminarmente o habeas corpus, ante a incidência do enunciado 691, da Súmula do Supremo Tribunal Federal.
+Afirma a defesa do agravante, contudo em que pese o teor da Sumula 692, há casos que seu rigor pode ser abrandado, enfim, em determinadas situações concretas poderá ser afastada em razão de patente constrangimento ilegal, ou para evitar a manutenção de situação que seja manifestamente contrária à jurisprudência do Supremo Tribunal Federal (e-STJ, fl. 1.623).
+Ademais, assevera que a revisão criminal é o meio adequado para combater sentenças condenatórias transitadas em julgado quando a decisão estiver contaminada por erro judiciário ou injustiça, conforme se demonstrou no presente caso, pois a condenação foi proferida sem uma defesa adequada, pois o apesar de ser defensor dativo, a defesa foi insuficiente ou deficiente, não questionando as testemunhas sobre os argumentos apresentados pelo revisionando em seu interrogatório, pois se tivesse realizado isso, certamente o Paciente não seria condenado pelo suposto crime previsto no artigo 155, § 4º, II do Código Penal, sendo que o correto enquadramento legal seria por ter infringido o art. 171 "caput" do Código Penal (ambas à e-STJ, fl. 1.627).
+Além disso, alega que a decisão atacada que que indeferiu o liminar, fulminou os princípios constitucionais da ampla defesa, violando lei, pois A DOSIMETRIA DE PENA, para a fixação da pena-base, mediante a valoração dos vetores judiciais previstos no art. 59 do Código Penal, tem como norte o princípio constitucional da proporcionalidade (e-STJ, fls. 1.630/1.631).
+Pugna, por isso, pela reconsideração do decisum ou pela submissão do feito ao órgão Colegiado, para determinar o regular prosseguimento do writ, sendo a ordem concedida para determinar que o paciente possa aguardar em liberdade o julgamento da revisão criminal, expedindo o respectivo contramandado de prisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO LIMINAR EM REVISÃO CRIMINAL. FURTO QUALIFICADO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pedido liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade . Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal. Precedentes.
+2. No caso, a Corte estadual, por ocasião do julgamento do recurso de apelação, analisou detidamente a dosimetria da pena do paciente e manteve a exasperação de sua pena-base ante o deslocamento de uma qualificadora para a primeira fase e por considerar as severas consequências do delito, em razão do montante subtraído, que ultrapassou um milhão e trezentos mil reais, o que denota culpabilidade exacerbada, e extrapola, e muito, a gravidade inerente ao tipo penal (e-STJ, fl. 21).
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar minha decisão, cuja conclusão mantenho por seus próprios fundamentos.
+Isso porque é assente a jurisprudência do Superior Tribunal de Justiça no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula 691 do Supremo Tribunal Federal, salvo se demonstrada flagrante ilegalidade, o que não verifiquei na hipótese dos autos, haja vista que a Corte estadual, por ocasião do julgamento do recurso de apelação, analisou detidamente a dosimetria da pena do paciente e manteve a exasperação de sua pena-base ante o deslocamento de uma qualificadora para a primeira fase e por considerar as severas consequências do delito, em razão do montante subtraído, que ultrapassou um milhão e trezentos mil reais, o que denota culpabilidade exacerbada, e extrapola, e muito, a gravidade inerente ao tipo penal (e-STJ, fl. 21).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado n. 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese.
+Agravo regimental desprovido (AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 9/6/2015, DJe 19/6/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT. AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado (AgRg no HC n.º 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/5/2015, DJe 26/5/2015).
+Desse modo, entendi, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
