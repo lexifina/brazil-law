@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DOUGLAS VICTOR ROSENI DE OLIVEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - Agravo de Execução Penal n. 8000074-71.2023.8.24.0064.
+Colhe-se dos autos que, em razão do indeferimento do pedido de concessão de saída temporária ao paciente, a defesa interpôs agravo em execução, ao qual o Tribunal de Justiça negou provimento, em acórdão assim ementado (e-STJ fl. 64):
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU O PEDIDO DE SAÍDA TEMPORÁRIA AO FUNDAMENTO DE NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. RECLAMO DA DEFESA. NÃO ACOLHIMENTO. HISTÓRICO CARCERÁRIO DESABONADOR, INCLUSIVE COM REGISTRO DE DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS, QUANDO DO GOZO DO MESMO BENEFÍCIO. RECURSO DESPROVIDO.
+No presente habeas corpus, sustenta a defesa, em síntese, incoerência na decisão que deferiu a progressão ao regime semiaberto, mas indeferiu as saídas temporárias em favor do paciente. Argumenta que "não há fundamento idôneo para se considerar que o Paciente preenche o mérito necessário a um direito (progressão) e não ao outro(saída temporária), tendo como base a mesma situação fático-jurídica retratada nos autos do processo de execução penal" (e-STJ fl. 12).
+Diz, ainda, que, desde o ano de 2019, ele possui comportamento carcerário avaliado como "bom", obtendo apenas uma avaliação regular em 16/10/2021. Além disso, não praticou nenhuma falta grave desde o ano de 2018.
+Requer, ao final, seja reconhecida a satisfação do requisito subjetivo para a concessão das saídas temporárias, em datas a serem acordadas no Juízo da execução.
+Prestadas as informações (e-STJ fls. 104/110 e 114/124), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 128):
+EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. SAÍDAS TEMPORÁRIAS. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO DE FALTAS DISCIPLINARES. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE A JUSTIFICAR OCONHECIMENTO EXCEPCIONAL DO MANDAMUS.
+Parecer pelo não conhecimento ou denegação do writ.
+É  o  relatório.
+Decido.
+Sem razão o impetrante.
+Na hipótese, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa e, assim, manteve a decisão de primeiro grau que indeferiu o pedido de saída temporária ao paciente, não obstante tenha concedido a progressão ao regime semiaberto. Veja os fundamentos (e-STJ fls. 28/29):
+No caso em tela, a condenação é referente a crimes comuns. Assim, para preencher o requisito objetivo é necessário que o apenado tenha cumprido 1/6 (um sexto) da pena, quanto aos crimes comuns referentes a condenações pretéritas ao pacote anticrime, e 20% (vinte por cento), no que é referente às condenações por ilícitos de caráter comum posteriores à aludida lei, visto ser o apenado reincidente em crimes cometidos sem violência à pessoa ou grave ameaça.
+Infere-se dos cálculos do SEEU que o apenado atingiu o requisito objetivo para progressão de regime em 12.12.2022.
+Quanto ao requisito subjetivo, nada consta nos autos que desabone a conduta do apenado nos últimos meses, sendo que possui bom comportamento carcerário, conforme Boletim Penal Informativo (seq. 186.1 - p. 2-5) e parecer favorável da Comissão Técnica de Classificação (seq. 186.1 - p. 6), razão pela qual faz jus ao benefício.
+Desta forma, o apenado preenche todos os requisitos previstos para a progressão de regime.
+ ..
+B) Da Saída Temporária
+No caso, o apenado é reincidente e resgatou, conforme cálculos do SEEU, mais de 1/4 da pena, cumprindo o requisito objetivo do art. 123, II, da LEP.
+Entretanto, quanto ao requisito subjetivo, embora o boletim penal informativo (seq. 186.1, p. 2-5) ateste o bom comportamento carcerário - o que justificou a concessão da progressão de regime -, verifica-se que o apenado, ao menos por ora, não faz jus à concessão de saídas temporárias, pois registra inúmeras faltas disciplinares de natureza grave e média bem como parecer Desfavorável à concessão da benesse (seq. 186.1, p. 6).
+Assim, o apenado não preenche o requisito subjetivo para concessão do aludido benefício  ..
+É consabido que a execução penal, além de objetivar a efetivação e a implementação da condenação penal imposta ao sentenciado, busca também propiciar condições para a harmônica integração social daquele que sofre a ação punitiva estatal.
+Cumpre registrar que a análise do pedido de concessão do benefício da saída temporária atrai a normatividade do art. 123 da Lei n. 7.210/1984, que assim dispõe:
+Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos:
+I - comportamento adequado;
+II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente;
+III - compatibilidade do benefício com os objetivos da pena.
+A benesse em questão representa medida que visa à ressocialização do preso. Contudo, para fazer jus ao referido benefício, o apenado deve necessariamente cumprir todos os requisitos previstos no art. 123 da LEP, não preenchidos, conforme consignado pelas instâncias ordinárias - registra inúmeras faltas disciplinares de natureza grave e média, bem como parecer desfavorável à concessão da benesse.
+Ademais, é firme o posicionamento do Superior Tribunal de Justiça de ser inviável, em habeas corpus, desconstituir a conclusão sobre o não preenchimento do requisito subjetivo e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento esse incompatível com os estreitos limites da via eleita.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO DE SAÍDA TEMPORÁRIA. HISTÓRICO CARCERÁRIO CONTURBADO. APENADO QUE COMETEU FALTA GRAVE QUANDO DO ANTERIOR GOZO DE SAÍDA TEMPORÁRIA. AUSÊNCIA DE REQUISITO SUBJETIVO. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias indeferiram o benefício com fundamento no histórico carcerário conturbado do apenado, especialmente diante da prática falta grave relativamente recente, consistente em fuga quando do anterior gozo de saída temporária. Ressaltou-se ainda a existência de parecer desfavorável da unidade prisional à concessão da benesse.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+3. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao requisito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 734.258/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Finalmente, vale destacar que " a  progressão ao regime semiaberto não traz como consequência automática o deferimento da benesse relativa às saídas temporárias, a qual necessita que o apenado satisfaça requisitos específicos, elencados no art. 123 da Lei de Execução Penal"  (AgRg no HC n. 635.075/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/3/2021, DJe de 22/3/2021).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REVISÃO DO ENTENDIMENTO ADOTADO PELAS INSTÂNCIAS DE ORIGEM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA ESTREITA VIA DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para fins de concessão do benefício de saída temporária, o art. 123 da Lei de Execução Penal exige o comportamento adequado do condenado, o cumprimento de 1/6 da pena, para o réu primário, e de 1/4, caso seja reincidente, bem como a compatibilidade do benefício com os objetivos da pena.
+2. Na hipótese, as instâncias de origem negaram o pedido de saída temporária em face da ausência do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na longa pena a cumprir, mas também no fato de que, após a concessão do livramento condicional, o apenado cometeu novo crime, e ainda ostenta registro em sua execução de duas evasões, nas quais também voltou a delinquir.
+3. Esta Corte Superior pacificou entendimento segundo o qual o apenado ter progredido ao regime semiaberto não lhe assegura o direito à saída temporária ou à visitação periódica ao lar, devendo ser analisado o cumprimento do requisito subjetivo para a concessão dos benefícios.
+4. Nessa linha de raciocínio, estando consignada a ausência do requisito subjetivo para a aquisição das benesses, impõe-se a aplicação da jurisprudência firmada por ambas as Turmas da Terceira Seção desta Corte Superior no sentido de que o afastamento das conclusões adotadas pelas instâncias de origem, quanto ao não cumprimento do requisito subjetivo para a obtenção da VPL ou do TEM, enseja o inevitável reexame fático-probatório, inadmissível na via estreita do habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 797.831/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA PARA VISITAÇÃO AO LAR. REGIME SEMIABERTO. DIREITO SUBJETIVO. INEXISTÊNCIA. INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. DESPROVIMENTO DO AGRAVO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede seu formal conhecimento.
+2. Esta Corte Superior entende que a saída temporária para visitação ao lar não constitui direito subjetivo dos apenados inseridos no regime semiaberto, devendo ser avaliada pelo Juízo Executório com base no cumprimento dos requisitos objetivos e subjetivos estabelecidos pelo art. 123 da LEP, entre os quais compatibilidade com os objetivos da pena. Precedentes.
+3. Ressaltou o Tribunal local que se trata "de apenado reincidente na prática de crimes hediondos que além de não retornar para a unidade prisional por ocasião do término do benefício anterior da saída temporária ainda cometeu outro delito, no qual restou definitivamente condenado. Tal panorama demonstra que o agravante ainda não desenvolveu senso de autodisciplina compatível com o benefício pleiteado, além de infirmar a presunção de que, em liberdade, não voltaria a delinquir (art. 83, inciso III, e p. único do CP)." (fl. 98).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 761.864/RJ, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
