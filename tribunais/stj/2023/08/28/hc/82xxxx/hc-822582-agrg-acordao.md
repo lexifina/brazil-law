@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE DENEGOU O HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. AGRAVANTE REINCIDENTE . INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - In casu, consta do decreto prisional que: "Lucas Ponik já foi definitivamente condenado por crime de tráfico de drogas, tratando-se de réu reincidente"- fl. 24. Conforme pacífica jurisprudência desta Corte,"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023).
+III - Conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública, AgRg no HC n. 777.490/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022.
+IV - Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS OCTAVIO PONIK contra decisão de fls. 391-393, a qual foi denegado o habeas corpus.
+Depreende-se dos autos que o agravante foi preso em flagrante e teve a prisão convertida em preventiva pela prática, em tese, do crime previsto no art. 155, § 4º, do Código Penal - furto "de 300 metros de trilhos, pesando 15 toneladas, avaliados em RS 300.000,00"- fl. 23. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão do agravante pelos mesmos fundamentos da prisão preventiva - risco de reiteração delitiva - e conheceram parcialmente do writ e, na parte conhecida, denegou a ordem em acórdão de fls. 30-38.
+Ressai das alegações aventadas pelo agravante, a pretensão de que seja efetivado o juízo de retratação reiterando os motivos alegados no writ sustentando que: "a reincidência por si só não é capaz de fundamentar um decreto prisional"- fl. 400. Pondera a possibilidade da aplicação de medidas cautelares diversas da prisão, aduzindo que não é reincidente específico e que ostenta condições pessoais favoráveis.
+Com essas considerações, pugna pela reconsideração ou que o presente recurso seja submetido ao julgamento pelo Colegiado.
+Por manter a decisão ora agravada, trago o feito ao colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE DENEGOU O HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. AGRAVANTE REINCIDENTE . INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - In casu, consta do decreto prisional que: "Lucas Ponik já foi definitivamente condenado por crime de tráfico de drogas, tratando-se de réu reincidente"- fl. 24. Conforme pacífica jurisprudência desta Corte,"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023).
+III - Conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública, AgRg no HC n. 777.490/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022.
+IV - Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Agravo regimental desprovido.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+In casu, consta do decreto prisional que: "Lucas Ponik já foi definitivamente condenado por crime de tráfico de drogas, tratando-se de réu reincidente" - fl. 24. Conforme pacífica jurisprudência desta Corte,
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública, AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022.
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"Esta Corte Superior de Justiça possui entendimento sedimentado de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 516.786/RS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo - Desembargador convocado do TJ/PE, DJe de 22/10/2019).
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
