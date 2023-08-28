@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS CONTRA PENA DE MULTA. AUSÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE AMBULATORIAL. SÚMULA N.º 693/STF. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO AGRAVADA MANTIDA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Não houve a interposição de agravo regimental, ou outro recurso cabível na origem, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, assim, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator.
+III - Esta Corte de Justiça já se manifestou no sentido de que, mesmo a nulidade absoluta não pode ser declarada em supressão de instância.
+IV - A via eleita não se presta à discussão do cabimento ou não de multa aplicada, pois a mesma não se confunde ou coloca em risco o direito de locomoção do impetrante, neste sentido o verbete sumular 693/STF.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HELTON MOREIRA GONÇALVES, contra decisão monocrática de fls. 19-24, que indeferiu liminarmente o presente habeas corpus.
+Nas razões de agravo, a Defesa sustenta equívoco da decisão agravada, aduzindo que estaria sofrendo constrangimento ilegal e tanto o regimento interno do STF, quanto do STJ fazem menção à concessão da ordem no curso de qualquer processo quando alguém sofre ou está na iminência de sofrer coação ilegal.
+Alega ser o caso de mitigação do óbice previsto no art. 34, XX, do Regimento Interno desta Corte.
+Afirma que existem entendimentos desta Corte no sentido de afastar tal preceito em situações excepcionais que traduzam em cerceamento da liberdade de locomoção.
+Na sequência, repisa os mesmos argumentos vertidos na petição inicial do habeas corpus.
+Requer, ao final, seja exercido o juízo de retratação ou submetido o agravo ao Colegiado para julgamento e provimento, a fim de que seja concedida a ordem de habeas corpus, nos moldes pugnados na inicial.
+Pedido de sustentação oral às fls. 54-55.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS CONTRA PENA DE MULTA. AUSÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE AMBULATORIAL. SÚMULA N.º 693/STF. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO AGRAVADA MANTIDA.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Não houve a interposição de agravo regimental, ou outro recurso cabível na origem, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, assim, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator.
+III - Esta Corte de Justiça já se manifestou no sentido de que, mesmo a nulidade absoluta não pode ser declarada em supressão de instância.
+IV - A via eleita não se presta à discussão do cabimento ou não de multa aplicada, pois a mesma não se confunde ou coloca em risco o direito de locomoção do impetrante, neste sentido o verbete sumular 693/STF.
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Pretende a Defesa, em síntese, o provimento do agravo regimental de modo a ver reformada a decisão monocrática, concedendo-se a ordem para afastar a incidência da multa aplicada, notadamente porque homologado o pedido de desistência do recurso.
+Em que pesem os argumentos defensivos, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior de Justiça.
+Com efeito, da decisão impugnada decidiu de forma devidamente fundamentada ao indeferir liminarmente o mandamus, ainda considerando a impossibilidade de manejo do writ em condenação exclusiva de multa, não havendo que se falar em constrangimento ilegal passível da concessão da ordem, ainda que de ofício.
+In casu, inviável o conhecimento do presente habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por Desembargador do Tribunal de origem.
+Observa-se que não houve a interposição de agravo regimental, ou outro recurso cabível na origem, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, I, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição.
+Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus.
+Sobre o tema, destaco os seguintes precedentes: AgRg no HC n. 811.127/RJ, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 26/5/2023; e AgRg no HC n. 819.693/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/5/2023.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta" (AgRg no HC n. 813.772/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que nem mesmo a nulidade absoluta pode ser declarada em supressão de instância, verbis: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023).
+Ademais, ainda que assim não fosse, a via eleita não se presta à discussão do cabimento ou não de multa aplicada, pois a mesma não se confunde ou coloca em risco o direito de locomoção do impetrante, neste sentido o verbete sumular 693/STF:
+"Não cabe habeas corpus contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada."
+No mesmo sentido é o entendimento desta Corte, de que "o entendimento pacificado no âmbito dos Tribunais Pátrios é no sentido de que o pedido exclusivamente relativo à pena de multa não pode ser veiculado pela via do writ, que é o remédio constitucional próprio para cessar ou evitar constrangimento ilegal apenas ao direito ambulatorial. Incidência da Súmula 693/STF" (AgRg no HC n. 546.275/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 13/03/2020).
+Nesse sentido, os seguintes julgados: AgRg no RHC n. 163.808/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/5/2022; AgRg no HC n. 546.275/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 13/3/2020.
+Considerando, assim, que no presente agravo regimental não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, deve haver a manutenção do ato judicial por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É o voto.
