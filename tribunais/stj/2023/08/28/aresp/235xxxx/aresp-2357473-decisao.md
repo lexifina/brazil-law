@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Decisão que rejeitou a impugnação à penhora de imóvel, ante o entendimento de que incidente a hipótese de exceção à impenhorabilidade, prevista no art. 3º, inc. V, da Lei nº 8.009/90. Irresignação. Cabimento.
+Impenhorabilidade de bem de família. Penhora efetivada sobre pequena propriedade rural, trabalhada em regime de economia familiar. Impenhorabilidade prevista no artigo 5º, inciso XXVI, da Constituição Federal. Entendimento consolidado pelo E. Supremo Tribunal Federal, por ocasião do julgamento do ARE nº 1.038.507/PR, que: "a garantia da impenhorabilidade é indisponível, assegurada como direito fundamental do grupo familiar, e não cede ante gravação do bem com hipoteca". Precedente desta C. Câmara de Direito Privado. Determinado o levantamento da penhora. Decisão reformada. RECURSO PROVIDO.
+A parte agravante sustenta a violação do art. 3º, V, da Lei nº 8.009/1990.
+O inconformismo, todavia, não merece ser conhecido, eis que o acórdão recorrido erigiu o entendimento em prol da impenhorabilidade do imóvel que corresponde à pequena propriedade rural, trabalhada em regime de economia familiar, conforme prescreve o art. 5º, XXVI, da Constituição Federal. Obviamente, o questionamento em relação às exceções da impenhorabilidade do bem de família não infirmam a conclusão do julgado recorrido, incidindo, quanto ao ponto, o óbice das Súmulas n. 283 e 284 do STF.
+Necessário, ainda, ressaltar que a conclusão do Tribunal revisor - de que a propriedade é efetivamente utilizada no regime de economia familiar - foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
