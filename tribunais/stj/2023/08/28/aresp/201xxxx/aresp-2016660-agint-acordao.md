@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489, §1º, IV E 1.022 DO CPC. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. VERIFICAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem acerca da ocorrência de ofensa à coisa julgada, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Aterfi - Administradora de Terminais Rodoviários LTDA desafiando decisão que negou provimento a agravo em recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa aos artigos 489, §1º, IV, e 1.022 do CPC; e (II) a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional e à não aplicação ao caso de reexame de provas dos autos, sob a alegação de que "trata-se, portanto, de se aferir se houve - ou não - violação aos mencionados dispositivos legais, porque se os aplicou em caso em que não eram aplicáveis, o que, com o devido respeito, não implica - repita-se - no revolvimento de matéria fático-probatória. Em suma, ao proceder a liquidação da sentença, querer que ela seja examinada em seu conjunto para fins de apontar a extensão do seu comando condenatório não ofende a coisa julgada, diferentemente do que concluiu o tribunal local, eis que se trata de interpretar o que foi jugado para que o resultado da liquidação seja aquele determinado na sentença liquidanda." (fl. 402)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489, §1º, IV E 1.022 DO CPC. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. VERIFICAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem acerca da ocorrência de ofensa à coisa julgada, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na decisão alvejada, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016)
+Quanto ao mais, está correta a decisão ao verificar que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ " (AgInt no AREsp n. 770.444/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 15/3/2019).
+A esse respeito, citam-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS À EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE A RETRIBUIÇÃO ADICIONAL VARIÁVEL - RAV E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TRIBUTÁRIA - GDAT. CERCEAMENTO DE DEFESA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. COISA JULGADA. NECESSÁRIA AFERIÇÃO DOS LIMITES DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. PRETENSÃO DE REDUÇÃO DA VERBA HONORÁRIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+ ..
+3. No que tange à alegada coisa julgada, in casu, o exame da controvérsia exige obrigatoriamente o reexame do arcabouço probatório do feito, sobretudo o cotejo entre as decisões judiciais proferidas na fase de conhecimento e o decidido no acórdão recorrido, que é vedado na via estreita do recurso especial, por força do óbice da Súmula 7/STJ. Precedentes.
+ ..
+6. Agravo regimental não provido.
+(AgRg no REsp 1.506.438/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/3/2015, DJe 23/3/2015)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. DOIS RECURSOS INTERPOSTOS CONTRA UMA ÚNICA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DO SEGUNDO AGRAVO INTERNO DE FLS. 587/594. AFRONTA AO ART. 535 DO CPC/73. INOCORRÊNCIA. COISA JULGADA. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Mister consignar que "é assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016" (AgInt no AREsp 1.097.778/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/10/2017).
+2. Caso concreto em que a parte ora agravante interpôs dois agravos internos contra a mesma decisão, sendo inviável o conhecimento do segundo recurso de fls. 587/594.
+3. Não se verifica ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+4. Conforme já consignado na decisão agravada, em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 784.774/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 13/04/2018)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. INTERPRETAÇÃO DE TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA 7/STJ.
+I - É possível interpretar o conteúdo do título executivo judicial sem que isto implique em ofensa a coisa julgada, devendo-se inclusive, conjugar a parte dispositiva com a fundamentação. Precedente.
+II - Rever a interpretação dada pelo e. Tribunal a quo ao conteúdo do título executivo judicial implica em revolver matéria fático probatória, procedimento vedado pela súmula 7 desta e. Corte Superior.
+Agravo regimental desprovido.
+(AgRg no REsp 1.015.470/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/6/2008, DJe 4/8/2008)
+Confiram-se, ainda, no mesmo sentido: REsp 1.431.610/GO, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/2/2019; AgRg no AREsp 755.581/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 29/2/2016; e AgInt no AREsp 1.161.225/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 24/4/2018.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
