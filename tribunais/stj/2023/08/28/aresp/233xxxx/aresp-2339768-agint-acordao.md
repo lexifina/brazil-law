@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PENHORA DE BENS MÓVEIS. AGRAVO DE INSTRUMENTO. INDÍCIOS DA EXISTÊNCIA DE BENS DE ALTO VALOR, CUJA ANÁLISE FICOU A CARGO DO OFICIAL DE JUSTIÇA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem - com base nas fotos e declarações do oficial de justiça, pelo indício da existência de bens de alto valor - esbarra no óbice da Súmula 7/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+RELATÓRIO
+João Silva Filho interpôs recurso especial contra os acórdãos de fls. 127-140 e 164-176 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de Goiás, assim ementados:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. PENHORA DE BENS MÓVEIS SITUADOS NO BEM DE FAMÍLIA. POSSIBILIDADE. O art. 2º, caput, da Lei nº 8.009/90 e o art. 833, inciso II, do CPC estabelecem a possibilidade de penhora dos bens móveis em duplicidade, de elevado valor, adornos suntuosos e obras de arte porventura existentes no bem de família pertencente ao devedor. Recurso conhecido e desprovido.
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO. 1. Os embargos de declaração, ainda que opostos com o fim de prequestionamento, se submetem às regras do art. 1.022 do CPC e, portanto, devem vir embasados em uma das hipóteses da referida norma. 2 - Devem ser rejeitados os aclaratórios quando evidenciado o intuito do embargante de reanálise do julgamento que lhe foi desfavorável, ante a inexistência dos vícios apontados, notadamente a omissão, tendo em vista que o acórdão enfrentou todas as questões em conformidade com o conjunto probatório existente nos autos e a legislação pertinente. 3. Em relação ao prequestionamento, o julgador não está obrigado a analisar todas as teses suscitadas pelas partes e nem a manifestar-se expressamente sobre os dispositivos enumerados, mormente quando há a apreciação das matérias de forma clara, precisa e fundamentada, suficiente para decidir a discussão, sem olvidar que a simples oposição de aclaratórios é bastante para prequestionar a matéria, independentemente do seu acolhimento, conforme regra preconizada no art. 1.025 do CPC. Embargos de Declaração conhecidos e rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 180-194), apontou o insurgente a existência de violação dos arts. 833, II, do CPC/2015 e 1º, parágrafo único, da Lei 8.009/1990. Sustentou, em síntese, a impenhorabilidade dos bens móveis, porquanto inexistentes bens de alto valor.
+Foram apresentadas contrarrazões às fls. 204-208 (e-STJ).
+A Corte de origem deixou de admitir o recurso, sob o argumento de incidência da Súmula 83/STJ.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 250-252 (e-STJ), esta relatoria conheceu do agravo para não conhecer do recurso especial.
+Daí sobreveio este agravo interno (e-STJ, fls. 256-280), no qual defende o agravante a não incidência da Súmula 7/STJ.
+Impugnação às fls. 284-293 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PENHORA DE BENS MÓVEIS. AGRAVO DE INSTRUMENTO. INDÍCIOS DA EXISTÊNCIA DE BENS DE ALTO VALOR, CUJA ANÁLISE FICOU A CARGO DO OFICIAL DE JUSTIÇA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem - com base nas fotos e declarações do oficial de justiça, pelo indício da existência de bens de alto valor - esbarra no óbice da Súmula 7/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do recurso especial, tendo em vista a incidência da Súmula 7/STJ.
+Veja-se às fls. 251-252 (e-STJ):
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem concluiu, com base em imagens da residência e declarações do oficial de justiça, pela possibilidade de haver bens de alto valor no imóvel, os quais seriam penhoráveis, deixando a cargo do oficial de justiça a análise dos bens. Veja-se à fl. 137 (e-STJ):Como se vê, ambos os diplomas legais estabelecem, de forma expressa, que os bens móveis que guarnecem a residência são impenhoráveis, salvo os de elevado valor, em duplicidade, os adornos suntuosos ou os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida. No caso dos autos, não verifico mácula na decisão do Juiz de primeiro grau em determinar a penhora dos bens móveis existentes na casa do recorrente, pois o fato de o imóvel residencial constituir bem de família não obsta a penhora de bens suntuosos ou de elevado valor que porventura existam no local. Frise-se que o pedido de penhora dos bens móveis formulado pelo exequente/agravado teve por fundamento as imagens e declarações expedidas pela oficial de justiça (evento 141), que ao visitar o local constatou que o imóvel é grande, inclusive com piscina, e possui vários móveis, dentre eles adornos que possivelmente podem ultrapassar as necessidades médias comuns da família. Sendo assim, não vejo ilegalidade na eventual penhora de bens móveis de elevado valor, ou existentes em duplicidade, pertencentes ao agravante para pagamento do débito, conforme permite a lei de regência, inclusive com a ressalva feita pelo Magistrado a quo de que "caberá ao oficial de justiça identificar os bens passíveis de constrição". Dessa forma, a revisão de tal conclusão esbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório dos autos (análise das imagens e do relato do oficial de justiça). Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Na presente insurgência, defende o agravante a não incidência da referida súmula, argumentando que o acolhimento da sua tese prescinde do reexame de matéria fática.
+Sem razão o agravante, pois impossível a revisão da conclusão a que chegou a Corte de origem, pelo indício de haver bens de alto valor no interior da residência, sem uma nova incursão no conjunto probatório dos autos (fotos e declarações do oficial de justiça).
+Dessa forma, prevalece o fundamento da decisão agravada, por insuficiência das razões recursais.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
