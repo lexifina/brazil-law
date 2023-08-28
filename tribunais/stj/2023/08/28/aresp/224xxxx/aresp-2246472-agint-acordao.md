@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE.
+1. É intempestivo o recurso protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do Código de Processo Civil.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROBINSON SILVA ALEXANDRE e OUTRA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso em virtude da intempestividade do agravo.
+Nas presentes razões, os agravantes alegam, em síntese, que "(..) o recurso foi apresentado dentro do prazo lançado pelo Sistema Projudi, do próprio Tribunal de Justiça do Estado do Paraná, o que inclusive foi certificado nos autos" (fl. 888 e-STJ).
+Ao final, requerem a reconsideração da decisão atacada ou a submissão do feito ao crivo do colegiado.
+Sem contrarrazões (fl. 894 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE.
+1. É intempestivo o recurso protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do Código de Processo Civil.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Nos termos do artigo 219, caput, do Código de Processo Civil, a contagem dos prazos processuais será realizada somente nos dias úteis e, nos termos do artigo 1.003, § 5º, também do CPC, todos os recursos devem ser interpostos no prazo de 15 (quinze) dias, exceto os embargos de declaração.
+No caso concreto, verifica-se que a parte recorrente foi intimada da decisão agravada em 2/9/2022, sendo o agravo somente interposto em 27/9/2022, ou seja, intempestivamente.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp nº 1.813.684/SP, firmou entendimento no sentido de que, na vigência do Código de Processo Civil, a comprovação da tempestividade recursal deve ser realizada no ato de interposição do recurso, não se aplicando as disposições previstas nos artigos 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. RESP Nº 1.813.684/SP. SEGUNDA-FEIRA DE CARNAVAL. MODULAÇÃO DE EFEITOS. FERIADOS DIVERSOS. SUSPENSÕES DE EXPEDIENTE E RECESSOS LOCAIS. NÃO ABRANGÊNCIA.
+DOCUMENTO IDÔNEO. NECESSIDADE.
+1. É intempestivo o recurso protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC/2015.
+2. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do REsp nº 1.813.684/SP e da questão de ordem que o seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do respectivo recurso (rel. p/ acórdão Ministro Luis Felipe Salomão, julgado em 2/10/2019, DJe 18/11/2019), devendo ser observada, exclusivamente em relação ao feriado da segunda-feira de Carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC/2015, a fim de que a interpretação consolidada quanto ao tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida aos 18/11/2019.
+3. A jurisprudência desta Corte firmou entendimento no sentido de que a existência de feriado local, paralisação ou interrupção de expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo tribunal de origem, que comprove o período no qual ocorreu eventual suspensão de prazos. Precedentes.
+4. Agravo interno não provido" (AgInt no AREsp 2.135.418/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. ALEGADO EQUÍVOCO DO SISTEMA ELETRÔNICO DO TRIBUNAL DE ORIGEM (PROJUDI). JUSTA CAUSA. DEMONSTRAÇÃO. NECESSIDADE. AUSÊNCIA DE COMPROVAÇÃO, POR DOCUMENTO IDÔNEO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, a decisão ora agravada reconheceu a intempestividade do Recurso Especial, porquanto a parte agravante fora intimada do acórdão recorrido em 06/08/2021, sexta-feira, sendo o Recurso Especial interposto somente em 21/09/2021, terça-feira, após o transcurso do prazo recursal de 15 dias úteis - contado em dobro, no caso.
+III. No presente Agravo interno, a parte agravante alega que o sistema PROJUDI disponibiliza os prazos automaticamente e que há presunção de veracidade de todas as informações veiculadas por todos os sistemas dos Tribunais de Justiça do país, de modo que penalizar o advogado que confia em tais informações vai de encontro ao princípio da ampla defesa e da boa-fé.
+IV. Com efeito, não se desconhece o entendimento da Corte Especial do STJ,
+no sentido de que o equívoco na indicação do término do prazo recursal contido no sistema eletrônico do Tribunal de origem não pode ser imputado ao recorrente, quando se verificar a boa-fé da parte prejudicada. Contudo, no caso, a parte agravante não trouxe nenhum documento idôneo, apto a comprovar o alegado equívoco, não bastando um mero print do sistema, que não há sequer o número de origem, tampouco identificação do sítio eletrônico do qual foi retirado. No mesmo sentido: STJ, AgInt nos EDcl no AREsp 2.023.192/MA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/10/2022; AgInt no AREsp 2.141.673/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 14/11/2022; AgInt no AREsp 2.165.688/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 14/12/2022; AgInt no REsp 1.915.567/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 30/11/2022.
+V. Ao que se tem, portanto, o recurso não pode ser conhecido, ante sua manifesta intempestividade, de vez que protocolado após o prazo legal de 30 (trinta) dias úteis.
+VI. Agravo interno improvido" (AgInt no AREsp 2.152.155/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 6/3/2023, DJe de 15/3/2023).
+"ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. ACOLHIMENTO. COMPROVAÇÃO DE FERIADO LOCAL. INOCORRÊNCIA. MANUTENÇÃO DA INTEMPESTIVIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Assiste razão à embargante no que diz respeito à ocorrência de erro material no julgado ora embargado, na parte em que diz tratar-se de comprovação do feriado de Corpus Christi, uma vez que a intempestividade decorreu do fato de que a parte foi intimada pessoalmente da decisão agravada em 5/4/2022, sendo que o agravo em recurso especial somente foi interposto em 20/5/2022, englobando, portanto, os feriados da Semana Santa e de Tiradentes.
+3. Não obstante, tal constatação não elide o fundamento de que, no caso dos autos, não restou comprovada a suspensão do expediente forense no Tribunal de origem no momento da interposição recursal, a atrair a impossibilidade de conhecimento da impugnação.
+4. A afirmação de que a tempestividade do agravo em recurso especial foi baseada no sistema PROJUDI - esta fundamentada apenas pela imagem da tela do sistema - não tem o condão de isentar a parte de seu ônus processual.
+5. Embargos de declaração acolhidos, sem efeitos modificativos, apenas
+para sanar erro material" (EDcl no AgInt no AREsp 2.185.348/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/5/2023, DJe de 5/5/2023-grifou-se).
+"CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. GREVE DOS CAMINHONEIROS E CORPUS CHRISTI. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INEXISTÊNCIA. CONTAGEM DO PRAZO PELO SISTEMA PROJUDI. FATO QUE NÃO ISENTA A PARTE DO SEU ÔNUS DE DEMONSTRAR A SUSPENSÃO
+DOS PRAZOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não foi comprovado, no ato da interposição do recurso, nos termos do art. 1003, 6º, do NCPC, a suspensão do expediente nas repartições judiciárias do Estado do Paraná nos dias 28, 29 e 30 de maio de 2018 (greve dos caminhoneiros).
+2. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal local, o que não ocorreu na hipótese.
+3. A afirmação de que a tempestividade do recurso especial foi baseada no sistema PROJUDI não tem o condão de isentar a parte de seu ônus processual para se afastar a intempestividade do recurso.
+4. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.389.973/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023-grifou-se).
+Nesse contexto, não tendo sido demonstrada a tempestividade do recurso no momento de sua interposição, e tendo a parte deixado de comprovar eventual suspensão do expediente forense no âmbito da Corte local, não há como se afastar a intempestividade do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
