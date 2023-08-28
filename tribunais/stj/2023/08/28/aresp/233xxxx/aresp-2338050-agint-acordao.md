@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGR AVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CLARION S/A AGROINDUSTRIAL - EM RECUPERAÇÃO JUDICIAL (e-STJ, fls. 237/244) contra decisão da Presidência (e-STJ, fls. 230/232) que não conheceu do agravo em recurso especial que interpôs.
+Ação: Incidente de Impugnação ao Valor da Causa, suscitado por CLARION S/A AGROINDUSTRIAL - EM RECUPERAÇÃO JUDICIAL, em face de MARIA APARECIDA CATULÉ DE SOUZA.
+Decisão interlocutória: julgou improcedente a impugnação ao valor da causa e indeferiu o pedido de assistência judiciária gratuita.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"RECURSO DE AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO VALOR DA CAUSA - INDEFERIMENTO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA - PESSOA JURÍDICA EM RECUPERAÇÃO JUDICIAL - AUSÊNCIA DE DEMONSTRAÇÃO DA HIPOSSUFICIÊNCIA - DECISÃO MANTIDA - RECURSO NÃO PROVIDO. I - A obtenção da assistência judiciária não está adstrita apenas à afirmação da própria hipossuficiência, mas sim, também varia conforme o livre convencimento motivado do julgador e, no caso das pessoas jurídicas, da comprovação cabal do estado de necessidade, apontando as dificuldades financeiras por que passa, a ponto de impedir que efetue o pagamento das custas processuais.
+II - O juiz não está vinculado à simples alegação de hipossuficiência da parte para a concessão da gratuidade da justiça; havendo nos autos, ao menos indícios que demonstrem que a parte não preenche os requisitos necessários para ser beneficiada com a gratuidade da justiça, o magistrado deverá indeferi-la. III - A simples decretação de falência da agravante não é suficiente para presumir seu estado de miserabilidade, tendo em vista que o pedido deve vir instruído com elementos suficientes a demonstrar a impossibilidade de arcar com os encargos processuais, o que inocorreu, ou seja, a agravante deixou de colacionar aos autos documentos probante de sua hipossuficiência como: balancete patrimonial, etc."(e-STJ, fls. 122/123)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: Alegou ofensa aos arts. 1.022, 98 e 99 do CPC/2015, sustentando omissão do julgado e falta de apreciação correta da real situação do agravante, o que levou ao indeferimento da gratuidade de justiça pleiteado. Pugnou pela concessão do referido benefício.
+Decisão agravada: não conheceu do agravo em razão da incidência da Súmula 182/STJ, ante a falta de impugnação à Súmula 7/STJ, aplicada pelo juízo de admissibilidade
+Agravo interno: em suas razões a agravante alega ter preenchido todos os requisitos para a interposição do recurso; diz que não pretende o reexame probatório dos autos, arguindo, no mais, os mesmos argumentos já expendidos em defesa de sua tese.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGR AVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte gravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada falta de impugnação às Súmulas 7 do STJ e 284/STF, aplicadas pelo juízo de admissibilidade
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada, fundamentada no sentido de que "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF (não houve a prévia oposição de embargos de declaração com a finalidade de provocar o órgão colegiado a se manifestar sobre o ponto eventualmente omisso - arts. 489 e 1.022, CPC) e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos."(e-STJ fl. 230), o que, de fato, não foi feito, pois nas suas razões de agravo em recurso especial, a parte agravante trouxe apenas argumentos genéricos para combater a Súmula 7/STJ aplicada pelo juízo de admissibilidade em razão da ausência da intenção de reexaminar os fatos e provas que levaram a Corte a quo a negar provimento ao seu agravo, nada arguindo acerca da Súmula 284/STF.
+Ressalte-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a revaloração ou a correta aplicação da legislação que entende violada
+Deve também ser demonstrada a efetiva desnecessidade do reexame e da interpretação de cláusulas contratuais, na hipótese em que o Tribunal de origem declara que "(..) constou do aresto impugnado que "não há prova da precariedade econômica da agravante que justifique a concessão da benesse requerida, ou melhor, da impossibilidade dela de suportar as custas processuais eventualmente exigidas ao longo do processo". No entanto, para rever a conclusão adotada no acórdão recorrido sobre a ausência de comprovação da condição de hipossuficiência da recorrente para arcar com as custas processuais, imprescindível o reexame do quadro fático-probatório dos auto" (e-STJ fl. 208), o que não foi feito
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
