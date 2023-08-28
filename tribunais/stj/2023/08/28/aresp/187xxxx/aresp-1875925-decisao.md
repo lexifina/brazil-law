@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TARCIZIO LOCAÇÕES PATRIMONIAIS (TARCIZIO) contra decisão que negou seguimento ao apelo nobre que interpôs.
+Foi apresentada contraminuta (e-STJ fls. 939/945).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea "a", da CF, TARCIZIO alegou violação aos arts. 76, § 2º, I, 932, parágrafo único, 1.026, §2º, todos do CPC, 35 e 36, ambos da Lei nº 8.245/1991 e ao enunciado da Súmula nº 335 desta Corte, ao sustentar que (1) a intempestividade da regularização processual de DCLESTE COMERCIO E SERVICOS DE MAQUINAS, VEICULOS E EQUIPAMENTOS LTDA. (DCLESTE), na origem, enseja o não conhecimento da apelação que interpôs; (2) como a cláusula 6ª do contrato de locação firmado entre as partes prevê que as benfeitorias ficariam fazendo parte integrante do imóvel, ficou caracteriza renúncia ao direito de indenização; (3) as benfeitorias realizadas pela DCLESTE, no imóvel, não são passíveis de indenização por se mostrarem volutptuárias; e, (4) deve ser afastada a multa do art. 1.026, §2º do CPC, pela ausência de caráter protelatório dos seus segundos embargos de declaração.
+(1) Da representação processual da agravada
+TARCIZIO aduz violação aos arts. 76, §2º, I e 932, parágrafo único do CPC pois intimada para sanar sua representação processual, a Recorrida o fez de forma extemporânea (e-STJ fl. 916).
+Por essa razão, defende o não conhecimento da apelação interposta por DCLESTE.
+Sobre o tema, o TJES esclareceu que:
+Em 24/07/2018, após o transcurso do prazo supramencionado, a embargada regularizou sua representação processual (fls. 715-716), juntando aos autos o substabelecimento que outorga ao advogado que subscreveu o recurso de apelação poderes para representá-la.
+Todavia, a irregularidade da representação processual constitui vício sanável e o prazo concedido para a regularização é dilatório e não peremptório, razão pela qual a regularização extemporânea não acarreta prejuízo às partes, devendo ser aceita nos casos em que o vício é sanado antes da prolação da decisão que reconhece a preclusão.
+(..)
+Ressalte-se que o vício foi sanado pela embargada antes mesmo da conclusão do processo após a sua intimação, não havendo razões para o reconhecimento da preclusão temporal, tão pouco a inadmissibilidade do recurso por irregularidade formal, pois na data em que o relatório processual foi lançado (08/08/2016), a representação processual já estava regularizada. (e-STJ fls. 888/889)
+Esta Corte Superior possui jurisprudência consolidada de que o prazo fixado pelas instâncias ordinárias para a correção do defeito na representação postulatória tem natureza dilatória, diligência podendo ser prorrogado ou, ainda, a ser cumprida mesmo após o termo final, desde que não tenha, até então, sido reconhecido os efeitos preclusão. (AgInt no ARESP 1.236.883/DF, 3ª Turma, Relatora Ministra Nancy Andrighi, DJe de 16/08/2018).
+No mesmo sentido: REsp 264.101/RJ, 4ª Turma, Relator Ministro Luis Felipe Salomão, DJe de 6/4/2009.
+Além disso, os precedentes trazidos por TARCIZIO no seu apelo, às e-STJ fls. 925/926, referem-se a situações distintas da dos autos, quando as partes são intimadas a regularizar a representação processual e não cumprem a determinação judicial, o que, como visto, não ocorreu na hipótese em julgamento.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ quanto ao tema.
+(2) Da renúncia ao direito de indenização e (3) Das benfeitorias voluptuárias
+TARCIZIO ainda sustentou a impossibilidade da indenização das benfeitorias pois além da renúncia ao direito tendo em vista o contrato de locação, em sua cláusula 6ª, estipular que elas ficariam fazendo parte integrante do imóvel, elas possuem natureza de voluptuárias.
+Indicou que o aresto impugnado violou os arts. 35 e 36 da Lei nº 8.245/1991, além do enunciado da Súmula nº 335 deste STJ.
+A alegação de ofensa do enunciado da Súmula nº 335 desta Corte não merece prosperar na medida em que nos termos da Súmula nº 518 também deste Superior Tribunal de Justiça, para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de verbete sumular, tendo em vista que enunciado de Súmula não se insere no conceito de lei federal.
+Dessa forma, quanto ao ponto, o recurso não pode ser conhecido.
+Já sobre o tema central da controvérsia, o acórdão recorrido entendeu, fundamentado nas provas colhidas e no contrato firmado entre as partes, que além de não existir renúncia do direito de indenização, que as benfeitorias seriam úteis, ao consignar que:
+Destarte, não havendo no contrato de locação nenhuma disposição expressa afirmando a renúncia da embargante ao direito de indenização pelas benfeitorias realizadas no imóvel, deverá ser ressarcida pela embargada.
+A realização das obras é fato incontroverso nos autos, pois reconhecido pelo representante legal da embargada em depoimento prestado em Juízo (fls. 487), e está comprovada pelos documentos de fls. 207-218.
+Tratando-se de benfeitorias úteis, na forma como conceitua o art. 96, §2º do Código Civil, tendo em vista que se destinaram a aumentar o uso habitual do imóvel para que a embargante pudesse nele exercer suas atividades empresariais, o direito à indenização está condicionado à autorização do proprietário, consoante o disposto no citado art. 35, da Lei nº 8.245/1991.
+Os depoimentos do atual representante legal da embargada e da arquiteta contratada para elaborar o projeto de reforma do imóvel (fls. 487 e 493), comprovam que as benfeitoras foram realizadas com a autorização verbal do Sr. Tarcizo Coelho Coutinho, que era que o representante legal da embargada no que período em ele a obra foi executada, bem como foi quem indicou a arquiteta e supervisionou a execução da obra. (grifou-se)(e-STJ fls. 860/861)
+Dessa forma, rever as conclusões quanto à inexistência da renúncia da agravada quanto à indenização das benfeitorias e a natureza desta, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto aos pontos.
+(4) Da aplicação da multa do art. 1.026, §2º do CPC
+Por fim, da análise dos autos se verifica que TARCIZIO opôs seus primeiros embargos de declaração contra o acórdão recorrido, que foram rejeitados e, em seguida, opôs novos aclaratórios que foram rejeitados com imposição de multa de 1% sobre o valor da causa.
+Ao fundamentar a aplicação da multa, o Tribunal estadual assim se manifestou:
+Constata-se, por fim, que é nítido o caráter meramente protelatório do presente recurso, pois a pretensão da embargante é o reexame de questões que já foram analisadas por esta Colenda Câmara em duas oportunidades, o que não se admite pela via estreita dos embargos de declaração, que não se presta a adequar o acórdão ao entendimento da parte. (e-STJ fl. 910)
+De acordo com a jurisprudência desta Corte, é correta a aplicação da penalidade prevista no art. 1.026, § 2º, do CPC, quando ficar evidenciado o caráter manifestamente protelatório dos embargos de declaração tendo em vista a demonstração de que as questões tratadas foram devidamente fundamentadas na decisão novamente embargada.
+A propósito: REsp 1.943.628/DF, Terceira Turma, Relatora Ministra NANCY ANDRIGHI, DJe de 03/11/2021 e AgInt nos EDcl nos EDcl no REsp 1.744.970/SP, Terceira Turma, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe 10/03/2021.
+Na hipótese, as questões suscitadas em sede de embargos declaratórios já haviam sido examinadas pelo TJES, circunstância que evidencia seu caráter meramente protelatório.
+Desta forma, como o acórdão recorrido está em consonância com a jurisprudência do STJ, também incide a Súmula nº 568 do STJ quanto ao tema.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do apelo nobre e, nessa extensão, a ele NEGAR PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de TARCIZIO, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. PRAZO DE NATUREZA DILATÓRIA. POSSIBILIDADE DE REGULARIZAÇÃO APÓS O PRAZO E ANTES DO RECONHECIMENTO DA PRECLUSÃO. PRECEDENTES. VIOLAÇÃO DE SÚMULA QUE NÃO SE INSERE NO CONCEITO DE LEI FEDERAL. IMPEDIMENTO. AFASTAMENTO DA INDENIZAÇÃO PELAS BENFEITORIAS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO, ALÉM DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N.º 5 E 7 DO STJ. SEGUNDOS EMBARGOS DE DECLARAÇÃO REJEITADOS. INTÚITO PROTELATÓRIO. RECONHECIDO. MULTA MANTIDA. PRECEDENTES . AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
