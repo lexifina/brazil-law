@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por RAIMUNDO DE SOUZA SILVA e COMERCIO DE PETROLEO R S SILVA LTDA. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA nos termos da seguinte ementa (fl. 184):
+AGRAVO INTERNO EM FACE DE DECISÃO QUE JULGOU PREJUDICADO O AGRAVO DE INSTRUMENTO EM RAZÃO DA PERDA DO OBJETO RECURSAL. DECISÃO SUPERVENIENTE PROFERIDA PELO JUÍZO A QUO NOS AUTOS DA AÇÃO PRINCIPAL. PERDA DO OBJETO CONFIGURADA.
+1. A partir da análise minuciosa dos autos foi possível observar que. diante da nova decisão proferida pelo juízo a (fito a respeito do pedido de levantamento dos valores bloqueados, restou suprimida a decisão que ensejou a interposição do agravo de instrumento.
+2. Acertada, portanto, foi a decisão da relatora no sentido de julgar prejudicado o agravo de instrumento que deu origem a estes autos, em virtude da perda do objeto do recurso.
+Agravo interno não provido.
+Rejeitados os embargos de declaração opostos (fls. 212-217).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos artigos:
+a) 489, § 1º, e 1.022 do Código de Processo Civil, sustentando que "o presente tópico apenas se mostra necessário para a rara hipótese desta corte entender pela inexistência de prequestionamento" (fl. 233);
+b) 1.018, § 1º, do Código de Processo Civil, alegando que "o erro de julgamento que levou à violação deste dispositivo de lei reside no fato de que o Tribunal a quo, mesmo com a evidencia de que a nova decisão manteve o bloqueio e não o contrário e que dizia respeito a rejeição de pretensão da outra parte, julgou prejudicado o recurso por suposta perda de objeto" (fl. 230); e
+c) 492 do Código de Processo Civil, asseverando que "a nova decisão afirmou que manteve o bloqueio dos valores das contas dos Recorrentes à título de antecipação dos efeitos da tutela final para garantia de eventual condenação. Contudo, da leitura da exordial, constata-se que não houve pedido desta natureza, sendo a nova decisão, claramente, extra petita" (fl. 232).
+Oferecidas contrarrazões (fls. 244-250), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 271-274), o que ensejou a interposição do presente agravo (fls. 277-284).
+Apresentadas contraminutas do agravo (fls. 293-296).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se pode conhecer da apontada violação dos arts. 489, § 1º, e 1.022 do Código de Processo Civil. Isso porque a parte recorrente não demonstrou especificamente quais seriam os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Assim, incide, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No que se refere aos demais dispositivos, o Tribunal de origem concluiu que está configurada a perda de objeto, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fl. 187):
+Dessa forma, foi proferida nova decisão pela relatora, às fls.117/119, em razão do supra citado julgamento, determinando como prejudicado o agravo de instrumento de fls. 02/13 e o agravo interno 104/107, em virtude da perda de objeto de corrente de decisão, posteriormente prolatada nos autos do processo principal de n.º 0019671-75.2005.8.05.0080.
+Irresignado, o Comércio interpôs o presente agravo interno aduzindo que a decisão publicada pelo juízo a quo em 07/12/17 não abarcou todas as matérias aventadas pelo agravante em seu recurso e, por consequência, não acarretou na perda do objeto do agravo de instrumento.
+A partir da análise minuciosa dos autos foi possível observar que, diante da nova decisão proferida pelo juízo a quo, a respeito do pedido de levantamento dos valores bloqueados, restou suprimida a decisão que ensejou a interposição do agravo de instrumento.
+Acertada, portanto, foi a decisão da relatora no sentido de julgar prejudicado o agravo de instrumento que deu origem a estes autos, em razão da perda do objeto do recurso
+Assim, a ocorrência de uma decisão superveniente ensejaria a interposição de um outro agravo de instrumento, posto que descabido utilizar os autos deste agravo para a discussão de um novo julgamento que suprimiu os efeitos de uma decisão anterior que versou sobre a mesma matéria.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado e m 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
