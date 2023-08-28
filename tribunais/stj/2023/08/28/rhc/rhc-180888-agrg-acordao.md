@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. DIREITO PENAL. OPERAÇÃO DERROCADA. TRÁFICO DE ENTORPECENTES. ORGANIZAÇÃO CRIMINOSA. CORRÉU BENEFICIADO COM REVOGAÇÃO DA PRISÃO PREVENTIVA. IDENTIDADE DE SITUAÇÃO FÁTICO-PROCESSUAL NÃO VERIFICADA. FUNDAMENTAÇÃO A QUO SUFICIENTE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do art. 580 do Código de Processo Penal, o que não se observa no caso, ou seja, frise-se que a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais) - (AgRg no HC n. 780.474/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/12/2022).
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Israel Pires Soares - preso porque condenado como incurso nas sanções do art. 2º, caput, § 2º, da Lei n. 12.850/2013, art. 33, caput, da Lei n. 11.343/2006, às penas de 15 anos de reclusão e 600 dias-multa, à razão de 1/30 do salário mínimo vigente à data do fato, em regime inicial fechado (fl. 261) - contra decisão da minha lavra que negou provimento ao seu recurso em habeas corpus (fls. 311/314).
+Esta, a ementa do decisum impugnado (fl. 311):
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. OPERAÇÃO DERROCADA. TRÁFICO DE ENTORPECENTES. ORGANIZAÇÃO CRIMINOSA. CORRÉU BENEFICIADO COM REVOGAÇÃO DA PRISÃO PREVENTIVA. IDENTIDADE DE SITUAÇÃO FÁTICO-PROCESSUAL NÃO VERIFICADA. FUNDAMENTAÇÃO A QUO SUFICIENTE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Recurso em habeas corpus improvido.
+Alega a parte agravante, em suma, constrangimento ilegal na manutenção de sua prisão preventiva, ao argumento de que a manutenção da prisão preventiva se faz ilegal, pois, sob sua ótica, não estão presentes os pressupostos e requisitos da segregação cautelar. Pondera que a gravidade abstrata do delito não basta para embasar a segregação. Adita que não há qualquer fato novo e contemporâneo que denote a necessidade da prisão. Faz considerações sobre suas condições pessoais favoráveis. Por fim, defende a extensão, ao recorrente, de decisão que concedeu a liberdade provisória a corréu (fls. 276/289).
+Pede o provimento deste agravo regimental, nos termos do recurso em habeas corpus interposto.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. DIREITO PENAL. OPERAÇÃO DERROCADA. TRÁFICO DE ENTORPECENTES. ORGANIZAÇÃO CRIMINOSA. CORRÉU BENEFICIADO COM REVOGAÇÃO DA PRISÃO PREVENTIVA. IDENTIDADE DE SITUAÇÃO FÁTICO-PROCESSUAL NÃO VERIFICADA. FUNDAMENTAÇÃO A QUO SUFICIENTE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do art. 580 do Código de Processo Penal, o que não se observa no caso, ou seja, frise-se que a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais) - (AgRg no HC n. 780.474/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/12/2022).
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+Da atenta leitura dos autos, ficaram devidamente demonstrados os indícios de autoria e a materialidade delitiva, bem como delineada a gravidade concreta do delito (na denúncia, o ora agravante , funcionário de confiança dos chefes do grupo criminoso, foi um dos executores mais ativos da fraude licitatória, muitas vezes orientando verbalmente o setor de licitações sobre os caminhos a seguir para viabilizar o contrato fraudulento - fls. 47/48), revelada pelo modus operandi empregado (o mero fato de haver o réu atuado como advogado e, nessa qualidade, oferecido parecer em procedimento licitatório, por si só, não retira da sua atuação a possibilidade de haver concorrido para a prática delituosa tal como imputado na denúncia, evidenciando seu possível comprometimento na forma de agir - fl. 1.399), o que caracteriza fumus commissi delicti (fls. 38/44).
+Melhor esclarecendo, registro que o recorrente, segundo a denúncia, agiu efetivamente para cometer o suposto ilícito, ou seja, cuidou de atestar a regularidade jurídica do procedimento fraudulento e orientou, por vezes verbalmente, o setor de licitações sobre os caminhos a seguir para viabilizar o contrato, in verbis (fls. 47/48):
+ ..  Apurou-se que MADELLA "orientou" verbalmente MELLETO a processar a licitação sob a modalidade "pregão com registro de preço." Depois, novamente "orientou" MELETTO, também verbalmente, a "julgar" o recurso de fachada interposto pela empresa "Som Petrô", dos denunciados GIL e JORGE. No entanto, quem assinou a decisão de julgamento - "por pura confiança" - foi a Pregoeira DENISE CHOTTI. ..
+Logo, em princípio, não merece reforma o acórdão impugnado.
+Ilustrativamente: RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/4/2019.
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
