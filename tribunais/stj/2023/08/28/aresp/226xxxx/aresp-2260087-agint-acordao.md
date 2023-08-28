@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. ATIVIDADE LABORAL. CONDIÇÕES ESPECIAIS. ELETRICIDADE. F ALTA DE COMPROVAÇÃO NOS AUTOS. AUSÊNCIA DE LAUDO OU DE PPP. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. O Tribunal a quo, com base no conjunto probatório, decidiu que não existe nenhuma comprovação, nos autos, de que o exercício da atividade laboral se deu sob condições especiais, pois não apresentados laudo técnico ou PPP.
+2. A instância ordinária decidiu em sintonia com a jurisprudência desta Corte, no sentido de que o reconhecimento do exercício de trabalho em condições insalubres, perigosas ou penosas pressupõe a devida comprovação nos autos, e rever tal entendimento encontra óbice na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por LOURIVAL APARECIDO DE AZEVEDO contra decisão monocrática de minha lavra, às fls. 606/611, que negou provimento ao agravo, concluindo pela incidência da Súmula 7/STJ, diante da impossibilidade de revisar o entendimento do Tribunal de origem no sentido de que não ficou comprovado o exercício da atividade laboral sob condições especiais.
+Neste agravo interno, sustenta a parte recorrente que não há falar em incidência da Súmula 7/STJ, pois a análise de sua demanda dependeria unicamente da correta valoração probatória.
+Aduz, ainda, que a controvérsia se cinge ".. à possibilidade do reconhecimento da especialidade da atividade com exposição a agente periculoso -eletricidade-, bem como o pronunciamento acerca do enquadramento de atividade especial em período posterior à emissão do PPP." (fl. 616)
+Defende, também, que, ".. na atividade exercida pelo agravante, havia risco iminente de explosão e de choque por eletricidade, deste modo, a atividade independe de habitualidade, pois basta uma explosão ou um choque para que o recorrente pudesse vir à óbito." (fl. 617).
+Sem impugnação (fl. 626).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. ATIVIDADE LABORAL. CONDIÇÕES ESPECIAIS. ELETRICIDADE. F ALTA DE COMPROVAÇÃO NOS AUTOS. AUSÊNCIA DE LAUDO OU DE PPP. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. O Tribunal a quo, com base no conjunto probatório, decidiu que não existe nenhuma comprovação, nos autos, de que o exercício da atividade laboral se deu sob condições especiais, pois não apresentados laudo técnico ou PPP.
+2. A instância ordinária decidiu em sintonia com a jurisprudência desta Corte, no sentido de que o reconhecimento do exercício de trabalho em condições insalubres, perigosas ou penosas pressupõe a devida comprovação nos autos, e rever tal entendimento encontra óbice na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De início, ressalto que a tese que defende a necessidade de ".. pronunciamento acerca do enquadramento de atividade especial em período posterior à emissão do PPP." bem como a que alega que, na ".. atividade exercida pelo agravante, havia risco iminente de explosão e de choque por eletricidade, deste modo, a atividade independe de habitualidade, pois basta uma explosão ou um choque para que o recorrente pudesse vir à óbito" não podem ser conhecidas no presente momento processual, pois foram agitadas somente no agravo interno em análise, caracterizando indevida inovação recursal.
+No que remanesce, a parte requereu, nas razões do recurso raro, o reconhecimento como especial "os períodos de 02.08.1982 a 01.08.2000 (Centrosul S. A. Eletrificação) e 26.10.2000 a 04.07.2011 (Start Engenharia Eletrecidade Ltda), sendo implantada a aposentadoria especial desde a DER (04.07.2011), com o pagamento das diferenças devidas desde então" (fl. 581).
+Nos autos, foram reconhecidos como especiais os períodos de 2/8/82 a 5/3/97 e de 26/10/00 a 24/2/11.
+Com relação aos lapsos de 6/3/97 a 10/12/97 e de 25/2/2011 a 4/7/2011, a despeito da supressão do agente nocivo eletricidade, pelo Decreto 2.172/1997, é possível o reconhecimento da especialidade da atividade submetida a tal agente perigoso, desde que comprovada a exposição do Trabalhador de forma permanente, não ocasional, nem intermitente.
+Nesse sentido:
+RECURSO ESPECIAL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. ATIVIDADE ESPECIAL. AGENTE ELETRICIDADE. SUPRESSÃO PELO DECRETO 2.172/1997 (ANEXO IV). ARTS. 57 E 58 DA LEI 8.213/1991. ROL DE ATIVIDADES E AGENTES NOCIVOS. CARÁTER EXEMPLIFICATIVO. AGENTES PREJUDICIAIS NÃO PREVISTOS. REQUISITOS PARA CARACTERIZAÇÃO. SUPORTE TÉCNICO MÉDICO E JURÍDICO. EXPOSIÇÃO PERMANENTE, NÃO OCASIONAL NEM INTERMITENTE (ART. 57, § 3º, DA LEI 8.213/1991).
+1. Trata-se de Recurso Especial interposto pela autarquia previdenciária com o escopo de prevalecer a tese de que a supressão do agente eletricidade do rol de agentes nocivos pelo Decreto 2.172/1997 (Anexo IV) culmina na impossibilidade de configuração como tempo especial (arts. 57 e 58 da Lei 8.213/1991) de tal hipótese a partir da vigência do citado ato normativo.
+2. À luz da interpretação sistemática, as normas regulamentadoras que estabelecem os casos de agentes e atividades nocivos à saúde do trabalhador são exemplificativas, podendo ser tido como distinto o labor que a técnica médica e a legislação correlata considerarem como prejudiciais ao obreiro, desde que o trabalho seja permanente, não ocasional, nem intermitente, em condições especiais (art. 57, § 3º, da Lei 8.213/1991). Precedentes do STJ.
+3. No caso concreto, o Tribunal de origem embasou-se em elementos técnicos (laudo pericial) e na legislação trabalhista para reputar como especial o trabalho exercido pelo recorrido, por consequência da exposição habitual à eletricidade, o que está de acordo com o entendimento fixado pelo STJ.
+4. Recurso Especial não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp n. 1.306.113/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 14/11/2012, DJe de 7/3/2013)
+Contudo, na espécie, o Tribunal a quo, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir, no que interessa (fls. 166/168):
+Assim, em situações excepcionais, entende-se ser prescindível a medição no mesmo local em que exercidas as atividades laborais. No entanto, não ficou comprovada a especialidade do labor no período de 22/3/92 a 4/4/92-- pois a parte autora recebeu auxílio - doença previdenciário (fls. 73) -- e nem no período de 6/3/97 a 1º/8/00, à míngua de laudo técnico ou PPP.
+ ..
+Outrossim, conforme acima demonstrado, o PPP forneceu os elementos necessários para o reconhecimento do caráter especial da atividade exercida pelo autor, bem como indicou o nome e a qualificação dos profissionais responsáveis pelos registros ambientais e pela monitoração biológica durante todo o período. No entanto, não ficou comprovada a especialidade do labor no período de 25/2/11 a 4/7/11, à míngua de laudo técnico ou PPP.
+Como se percebe, a instância a quo, com base no acervo de provas, firmou compreensão no sentido de que não houve comprovação do exercício de atividade laboral em condições insalubres, perigosas ou penosas, de forma que a a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do conteúdo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL. ATIVIDADE DE TRATORISTA. ENQUADRAMENTO POR ANALOGIA. POSSIBILIDADE. ROL DE ATIVIDADES ESPECIAIS MERAMENTE EXEMPLIFICATIVO. JURISPRUDÊNCIA ASSENTADA DO STJ. RECURSO ESPECIAL REPETITIVO 1.306.113/SC. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. A jurisprudência do STJ orienta-se no sentido de que o rol de atividades consideradas prejudiciais à saúde ou à integridade física descritas pelos Decretos 53.831/1964, 83.080/1979 e 2.172/1997 é meramente exemplificativo, e não taxativo, sendo admissível, portanto, que atividades não elencadas no referido rol, sejam reconhecidas como especiais, desde que, tal situação seja devidamente demonstrada no caso concreto.
+2. In casu, o Tribunal a quo, especado nos elementos fáticos coligidos aos autos, concluiu pela especialidade da atividade de tratorista, porquanto comprovada, por meio de formulários DSS-8030, a sua especialidade.
+3. Recurso especial conhecido mas não provido.
+(REsp 1.369.269/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/03/2015, DJe 23/3/2015)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
