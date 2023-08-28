@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/08/2023 a 28/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptas a demonstrar a divergência jurisprudencial sustentada pela parte agravante, violam o art. 1.029, §1º do CPC/2015.
+4. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: rescisão contratual cumulada com devolução de quantias pagas, ajuizada por MARIA LUIZA DE QUEIROZ DOS SANTOS, em face de CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA.
+Sentença: julgou parcialmente procedentes os pedidos, para o fim de declarar rescindido o contrato de promessa de compra e venda celebrado entre as partes, sendo licita a retenção em favor da agravante de 10% sobre o valor adimplido pela agravada, e declarar nula a taxa de retenção de 2% a título das despesas com publicidade, bem como para imputar à agravada o pagamentos dos impostos inerentes ao imóvel, desde a data da aquisição até data da decisão liminar destes autos (data rescisão), além de determinar que a agravante efetue a devolução dos valores pagos pela agravada, após as devidas retenções. Considerando a sucumbência recíproca determinou que as custas e os honorários de sucumbência fossem custeados na forma pro-rata, sendo que, estes últimos, foram fixados em 10% sobre o valor da restituição.
+Acórdão: deu parcial provimento à Apelação interposta pela agravante, tão somente para modificar o termo inicial dos juros moratórios.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta a inaplicabilidade do óbice sumular apontado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptas a demonstrar a divergência jurisprudencial sustentada pela parte agravante, violam o art. 1.029, §1º do CPC/2015.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que é notória a total impugnação da decisão que inadmitiu o Recurso Especial e isso porque foram impugnados em momento oportuno todos os fundamentos que embasaram a inadmissão do Recurso Especial interposto.
+Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular como apontado, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incide o óbice sumular 7 desta Corte, além do fato de não estar caracterizada a presença do dissídio jurisprudencial.
+No que tange à incidência da Súmula 7 desta Corte ao caso, a Corte local consignou que é possível a transferência da comissão de corretagem ao consumidor, com 02 (duas) condições: i) é preciso que a cláusula seja clara quanto a assunção da obrigação pelo comprador; ii) é preciso que o contrato esclareça qual é o valor da unidade autônoma, destacando, com transparência, os valores da comissão de corretagem.
+Também, entendeu a Corte local que tais condições não se fazem presentes e o contrato fala sobre a comissão de corretagem apenas na cláusula VII, que trata sobre as consequências de sua rescisão.
+Além disso, registrou a Corte local que o que chama a atenção no contrato é o fato de a comissão de corretagem ter sido fixada em valores flutuantes ("7% sobre o preço corrigido do imóvel, segundo os índices previstos neste contrato, à época da rescisão").
+Ao final, sustentou a Corte local que, da forma como a cláusula foi redigida, não é possível saber qual foi o valor da unidade autônoma, quais valores foram destacados ao corretor imobiliário e se houve, de fato, transferência de valores ao profissional responsável pela intermediação do negócio, bem como que a parte agravante não identificou quem foi o prestador de serviços, muito menos comprovou o seu pagamento.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a parte agravante não apena mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+Por fim, no tocan te à presença do dissídio jurisprudencial, malgrado o inconformismo da parte agravante, é de se observar que razão também não lhe assiste, pois, em que pese a argumentação apresentada nas razões do recurso especial, restou evidente que a parte agravante deixou de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: REsp 1.622.498/DF, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.905.340/RJ, 4ª Turma, DJe 16/03/2023; AgInt no REsp 1.975.965/PE, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.999.599/SP, 1ª Turma, DJe 10/03/2023; AgInt nos EDcl no AREsp 1.732.159/SP, 4ª Turma, DJe 10/03/2023; AgRg no AREsp 2.196.188/SC, 5ª Turma, DJe 06/03/2023.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
