@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de CRISTOFER LOPES DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL (Agravo de Execução Penal n. 51089423120238217000) - fl. 112:
+AGRAVO EM EXECUÇÃO. INDULTO. INDEFERIMENTO. DECISÃO ORIGINÁRIA MANTIDA. DE ACORDO COM O PARÁGRAFO ÚNICO DO ART. 11 DO DECRETO N. 11.302/2022, NÃO SERÁ CONCEDIDO INDULTO NATALINO CORRESPONDENTE A CRIME NÃO IMPEDITIVO ENQUANTO A PESSOA CONDENADA NÃO CUMPRIR A PENA PELO CRIME IMPEDITIVO DO BENEFÍCIO, NA HIPÓTESE DE HAVER CONCURSO COM OS CRIMES A QUE SE REFERE O ART. 7º, RESSALVADA A CONCESSÃO FUNDAMENTADA NO INCISO III DO CAPUT DO ART. 1º. POR SUA VEZ, O INCISO I DO ART. 7º ESTABELECE QUE O INDULTO NATALINO CONCEDIDO NOS TERMOS DO DISPOSTO NO DECRETO NÃO ABRANGE OS CRIMES CONSIDERADOS HEDIONDOS OU A ELES EQUIPARADOS. AGRAVO IMPROVIDO.
+Alega o impetrante, em síntese (fl. 11):
+ ..  os delitos que se postula a aplicação do indulto são de processos em que não há concurso com crimes impeditivos. Assim, não há que se falar em não aplicação do indulto em razão do acusado responder a crime por tráfico de drogas em processo autônomo.
+Ademais, em caso de dúvida quanto à interpretação da norma há de se aplicar a interpretação mais favorável ao acusado, sob pena de o Judiciário agir como legislador, invadindo a competência do Legislativo.
+Fora isso, tal entendimento (de que se considera apenas concurso de crimes em um processo único) é reforçado pelo art. 5º do Decreto, que preceitua "Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal".
+Resta claro, portanto, que há de se considerar o concurso de crimes em processo único, e não em relação a todos os processos que o acusado responde.
+Requer a concessão da ordem para deferir o indulto natalino, uma vez que foram preenchidos os requisitos do Decreto Presidencial n. 11.302, de 22/12/2022.
+É o relatório.
+Do exame dos autos não verifico a ilegalidade apontada.
+O Tribunal estadual indeferiu o pedido de indulto em perfeita observância aos requisitos previstos no Decreto Presidencial n. 11.302/2022, que, no parágrafo único do art. 11, dispõe expressamente que não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º, destacando que o indulto natalino concedido nos termos do disposto no Decreto não abrange os crimes considerados hediondos ou a eles equiparados (fl. 111).
+Por outro lado, ressaltou o acórdão impugnado que, dos processos criminais listados no Sistema Eletrônico de Execução Unificado (SEEU), consta condenação criminal pelo art. 33, caput, da Lei de Drogas, possuindo o apenado outras condenações, as quais correspondem a crimes impeditivos, quais sejam, roubo e tráfico de drogas, o que contraria flagrantemente o parágrafo único do art. 11 do Decreto n. 11.302/2022.
+Nesse contexto, as instâncias originárias indeferiram o benefício pleiteado, porque não preenchidos os requisitos previstos no Decreto Presidencial n. 11.302/2022, não tendo as razões trazidas na impetração demonstrado qualquer ilegalidade na fundamentação do acórdão impugnado.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. INDULTO NATALINO. INDEFERIMENTO. DECISÃO ORIGINÁRIA MANTIDA. DECRETO N. 11.302/2022. REQUISITOS NÃO PREENCHIDOS. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Writ indeferido liminarmente.
