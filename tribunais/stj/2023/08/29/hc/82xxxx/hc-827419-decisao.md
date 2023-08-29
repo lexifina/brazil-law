@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JEFERSON DA SILVA RIBEIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela prática, em tese, do crime previsto no art. 33 da Lei 11.343/2006 - apreensão de 10(dez) pinos de cocaína, no total de 9,5 gramas - fl. 66. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão em razão do paciente ser -" reincidente específico"- fl. 68 e denegou a ordem, em acórdão de fls. 64-70.
+Postula a defesa, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente em razão da alegada ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Salienta, ainda, que o paciente é usuário e que a quantidade de droga apreendida é infima.
+A liminar foi indeferida às fls. 103-104.
+As informações foram prestadas às fls. 110-114.
+O Ministério Público Federal, às fls. 129-135, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REINCIDÊNCIA ESPECÍFICA. CONDENAÇÃO TRANSITADA EM JULGADO. FUNDAMENTAÇÃO IDÔNEA. DESCLASSIFICAÇÃO. PORTE DE DROGAS PARA USO PESSOAL. DILAÇÃO PROBATÓRIA. RECOMENDAÇÃO  62/CNJ. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Habeas corpus substitutivo. Não conhecimento. - A prisão preventiva é medida cautelar de constrição da liberdade do indivíduo por razões de necessidade e adequação, com esteio na existência do fu mus comissi delicti e do periculum libertatis, respeitados os requisitos e os pressupostos estabelecidos nos arts. 312 e 313 do Código de Processo Penal.
+- Diversamente do que alegado pela defesa, a prisão preventiva foi decretada para assegurar a ordem pública com lastro em elementos concretos que denotam a periculosidade do paciente, não apenas lastreada na quantidade de entorpecentes apreendidos, mas também em razão de ter sido apontada sua reincidência especifica.
+- A tese da defesa relativa à desclassificação do crime de tráfico para o crime de porte de drogas para uso pessoal é incabível, na estreita via do habeas corpus, por demandar o reexame do conjunto fático-probatório dos autos.
+- E inviável o exame de questões que não foram devidamente analisadas no Tribunal de origem, sob pena de indevida supressão de instância.
+- Condições pessoais favoráveis não têm o condão de, por si sós, revogarem a prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da medida extrema.
+- Parecer pelo não conhecimento do habeas corpus"-129-130.
+É o relatório. Decido.
+In casu, extrai-se da decisão que decretou a segregação cautelar que o paciente é reincidente específico- fls. 62-63.
+A propósito:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei )
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+A tese da defesa quanto ao paciente ser usuário não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido:
+"O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no RHC n. 162.760/SP, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 27/5/2022.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
