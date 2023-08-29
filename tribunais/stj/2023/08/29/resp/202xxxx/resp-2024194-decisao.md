@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por OSCAR SIDNEY SANTOS DE MATTOS contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o recorrente foi condenado, em primeiro grau de jurisdição, como incurso nas sanções do delito previsto no art. 33, caput, da Lei n. 11.343/2006, e art. 12, caput, da Lei n. 10.826/03, e art. 180, do Código Penal, à pena de 08 (oito) anos de reclusão, em regime inicial semiaberto, além do pagamento de 620 (seiscentos e vinte) dias-multa, o que foi mantido pelo Tribunal de origem (fls. 511-550 e fls. 663-685).
+No recurso especial (fls. 692-702), interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, a parte aponta violação ao artigo 33, § 4º, da Lei n. 11.343/06, uma vez que não haveria nos autos provas suficientes que indicassem a dedicação à atividade criminosa do réu.
+Apresentadas as contrarrazões (fls. 705-714), o Tribunal de origem admitiu o recurso especial e determinou a remessa dos autos ao Superior Tribunal de Justiça (fls. 720-722).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 735-742).
+É o relatório. DECIDO.
+A controvérsia consiste na análise acercar do reconhecimento da causa de diminuição da pena prevista no art. 33, §4º da Lei n. 11.343/2006.
+O Tribunal de origem não aplicou a referida causa especial de diminuição da pena inserta no art. 33, § 4º, da Lei 11.343/06, nos termos da seguinte fundamentação (fls. 682-684, grifei):
+"Quanto à causa de diminuição do parágrafo 4º, do art. 33, da Lei 11.343/2006, pleiteou o recorrente a sua aplicação, ao argumento de que o apelante é primário, possui bons antecedentes e não restou comprovado que faça parte de alguma organização criminosa ou se dedique a atividades criminosas.
+Ao afastar a aplicabilidade do benefício, assim fundamentou a douta magistrada singular:
+"Para aplicação da causa de diminuição prevista no art. 33, § 4º da Lei de Drogas, deveriam preencher de forma cumulativa, os seguintes requisitos: a) primariedade; b) bons antecedentes; c) não dedicação a atividades criminosas; d) não integrar organização criminosa. No caso dos autos, verifica-se que os Réus não preenchem o requisito "c" e "d", pois se dedicam à atividade criminosa, qual seja, o tráfico de drogas, e integram organização criminosa, tendo sido inclusive deflagrada grande operação no Litoral Paranaense para apuração de crime de associação em que também constam como Acusados. Além disso, as informações dos autos mostram que OSCAR é conhecido de longa data dos Policiais, o que indica que se dedicava à atividade criminosa. "
+De fato, no que se refere à causa de diminuição do art. 33, §4º, da Lei 11.343/06, nota-se que o acusado não faz jus por não preencher, cumulativamente, os requisitos necessários: primariedade, bons antecedentes, não se dedicar às atividades criminosas e nem integrar atividade criminosa.
+ ..
+Ressalte-se que, as ações penais em andamento, a despeito de n ão poder agravar a pena-base (Súmula 444 do STJ), pode afastar a concessão da benesse em comento, como acertadamente ponderou a magistrada de origem.
+O Superior Tribunal de Justiça possui recente precedente, no sentido de que a existência de inquéritos policiais pode ser sopesada em desfavor do acusado, impedindo a aplicação da redutora do §4º do artigo 33 da Lei de Drogas. Confira-se:
+ ..
+Assim, descabida a pretensão de reconhecimento da figura do tráfico privilegiado, ante o não preenchimento dos requisitos legais necessários."
+A Terceira Seção do Superior Tribunal de Justiça, recentemente, em decisão unânime, no julgamento do EAREsp n. 1.852.098/AM, DJe 03/11/2021, de relatoria do Ministro Joel Ilan Paciornik, chancelou o entendimento no sentido de se considerar " ..  inidôneo o afastamento da referida causa de diminuição de pena com base apenas em ações penais em andamento, em atenção ao princípio constitucional da presunção de não culpabilidade".
+Assim, verifico que assiste razão à parte recorrente, pois, nos termos da fundamentação acima, a jurisprudência deste Superior Tribunal, uniformizando o entendimento entre as Quinta e Sexta Turmas, passou a entender que inquéritos e ações penais em curso, por si, não podem ensejar o afastamento da causa especial de diminuição de pena.
+Revisito, portanto, a dosimetria da pena.
+Na primeira fase, mantenho a pena-base fixada na sentença em 06 (seis) anos de reclusão, e 600 (seiscentos) dias-multa. Na segunda fase, mantenho a pena intermediária a mesma da primeira fase porquanto ausente agravante ou atenuante. Na terceira fase, aplica a causa de diminuição prevista no art. 33, §4º, da Lei de Drogas, e diminuo a pena em 2/3, restando a pena definitiva para o crime de tráfico de drogas fixada em 02 (dois) anos de reclusão, em regime aberto, e pagamento de 200 (duzentos) dias-multa.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. DEDICAÇÃO A ATIVIDADE CRIMINOSA. AÇÃO PENAL EM CURSO. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
