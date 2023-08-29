@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO FEDERAL DA 7A VARA DO JUIZADO ESPECIAL DE SÃO PAULO - SJ/SP, suscitante, e o JUÍZO DE DIREITO DA 1A VARA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA E ACIDENTE DE TRABALHO DO FORO CENTRAL DE SÃO PAULO, suscitado.
+O Juízo suscitado declinou de sua competência pois "tratando-se de medicamento de alto custo, sem registro na Anvisa e sem incorporação pela Conitec, a União Federal deve necessariamente integrar o polo passivo da demanda" (fls. 108/110e).
+O Juízo suscitante assevera o seguinte:
+"Desnecessária a inclusão da União no polo passivo pois trata-se de medicamento não patronizado, podendo tramitar na Justiça Estadual.
+Foi fixada pelo C. STF a tese de repercussão geral (Tema 500), determinando que as ações, objetivando o fornecimento de medicamento, por intermédio do poder público, sem registro na Anvisa, deverão ser propostas em face da união; (..) 4. As ações que demandem fornecimento de medicamentos sem registro na ANVISA deverão necessariamente ser propostas em face da União.
+No entanto, a tese abrange somente os medicamentos não registrados pela Anvisa o que difere dos medicamentos não incorporados pelo SUS, podendo as ações neste caso serem propostas em face de qualquer um dos entes" (fls. 142/143e).
+De início, cumpre destacar que a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda) .
+O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada) (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).
+Sobre o tema, é sabido que nas ações em que se pleiteia o fornecimento gratuito de medicamentos, a presença da União no polo passivo da demanda só é obrigatória nas hipóteses em que tais medicamentos não possuem registro na Anvisa, o que é o caso dos autos.
+A propósito, "cumpre salientar que, no julgamento do RE n. 657.718/MG (Tema n. 500/STF, de Repercussão Geral), a Corte Suprema estabeleceu a obrigatoriedade de ajuizamento da ação contra a União quando se pleitear o fornecimento de medicamentos sem registro na Anvisa" (STJ, AgInt no CC n. 186.394/SC, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 19/8/2022).
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DA 7A VARA DO JUIZADO ESPECIAL DE SÃO PAULO - SJ/SP , para o processamento do feito.
+I.
+EMENTA
