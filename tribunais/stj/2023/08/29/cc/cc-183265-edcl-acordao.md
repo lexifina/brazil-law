@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/08/2023 a 29/08/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BUNGE ALIMENTOS S.A. à decisão da Segunda Seção desta Corte que não proveu seu agravo interno.
+Em suas razões, a embargante sustenta que houve omissão na decisão embargada, pois se omitiu quanto ao acórdão proferido pelo TJSP nos autos do Agravo de Instrumento n. 2158448-08.2021.8.26.0000 (fls. 1.119-1.127), sendo certo que a conexão fora textualmente reconhecida pelo Tribunal estadual.
+Afirma que "o Ministro Relator considerou não ter sido adequadamente demonstrada a presença dos requisitos autorizadores para concessão da tutela de urgência e indeferiu o pedido para que fosse definido, liminarmente, o D. Juízo da 38ª Vara Cível do Foro Central de São Paulo como competente para processar e julgar as aludidas ações conexas, especialmente acerca das medidas urgentes", bem como que "não conheceu do Conflito de Competência, por entender inexistir comprovação da controvérsia em torno do processamento conjunto das demandas ajuizadas em foros diversos, e julgou prejudicado o pedido de reconsideração da liminar". De igual forma, "a D. Turma Julgadora negou provimento ao recurso, por unanimidade, por entender, novamente, que não teria havido comprovação sobre a disputa em torno do processamento conjunto entre as demandas ajuizadas em foros distintos" (fl. 1.291).
+Aduz que "a observação do referido acórdão é imprescindível para se constatar inequivocamente, que ambos os Tribunais suscitados reconhecem sua competência para processar e julgar demandas envolvendo os mesmos contratos e manifestam entendimento divergente acerca da reunião das demandas" (fl. 1.293).
+Reitera que "o Tribunal de Justiça de São Paulo emitiu, sim, opinião conclusiva acerca da conexão entre as demandas em questão, não se limitando à analisar a competência do ponto de vista da cláusula de eleição de foro. Este acórdão, todavia, não foi considerado, sequer mencionado, em momento algum no decisum embargado" (fl. 1.296).
+Requer o acolhimento dos embargos de declaração para, "atribuindo-se o excepcional efeito infringente, reconhecer a omissão ora apontada (não apreciação do acórdão de fls. 1119/1127), alterando-se a conclusão a que chegou, para conhecer o Conflito de Competência suscitado pela Bunge e, ao final, definir o Tribunal de Justiça do Estado de São Paulo e D. Juízo da 38ª Vara Cível do Foro Central de São Paulo como competentes para processar e julgar as conexas Ação de Execução nº 1025216-05.2021.8.26.0100 e Embargos à Execução relacionados e Ação Declaratória nº 0804728-06.2021.8.12.0002 e recursos relacionados" (fl. 1.299).
+As contrarrazões aos embargos foram apresentadas às fls. 1.309-1.315.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No caso, a decisão embargada examinou expressamente a questão, conforme se vê da ementa a seguir (fl. 1.278, destaquei):
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. SUPOSTA DIVERGÊNCIA EM TORNO DO PROCESSAMENTO CONJUNTO ENTRE DEMANDAS. CONEXÃO. AUSÊNCIA DE MANIFESTAÇÃO EXPRESSA PELOS JUÍZOS SOBRE O MÉRITO DA REUNIÃO. CONFLITO DE COMPETÊNCIA NÃO EVIDENCIADO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Para a caracterização de conflito de competência, é necessário que haja a manifestação de dois juízos, ambos declarando-se competentes ou incompetentes, ou ainda que entre eles surja controvérsia acerca da reunião ou separação de processos.
+2. No caso, o TJSP limitou-se a analisar a competência no contexto da ação executória lá ajuizada, a partir da validade da cláusula de eleição de foro na localidade. O TJMS, por sua vez, limitou-se a afastar a ocorrência de conexão entre a ação declaratória lá ajuizada e a execução em trâmite na Justiça Bandeirante, para manter o processamento daquela ação no foro de ajuizamento. Desse modo, inexistente manifestação expressa pelos juízos supostamente em conflito acerca da conexão, não há como analisar o tema de modo originário no presente conflito, sob pena de utilizar o incidente como sucedâneo recursal, o que é vedado.
+3. Agravo interno não provido.
+Verifica-se, em verdade, uma clara pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, motivada pela mera insatisfação com o resultado da demanda, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014).
+Ademais, a insatisfação com o mérito da decisão dada pelos Juízos envolvidos deverá ser enfrentada na via dos recursos próprios, não sendo o conflito de competência meio válido para tanto.
+A propósito, segundo orientação firmada pela a Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
