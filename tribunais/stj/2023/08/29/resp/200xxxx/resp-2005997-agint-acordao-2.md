@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno da ANTAQ, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Paulo Sérgio Domingues (Presidente), Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pela AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS - ANTAQ, contra decisão de minha lavra, em que não foi conhecido o agravo em recurso especial, visto que não impugnados especificamente os fundamentos da decisão agravada, no caso, a Súmula 7 desta Corte (e-STJ fls. 11.085/11.106).
+Sustenta a parte agravante, em suma, que rebateu "todos os fundamentos da decisão que inadmitira o Agravo em Recurso Especial, em especial o óbice da Súmula 7 do STJ"; em razão disso, não haveria razões genéricas (e-STJ fls. 11.132/11.142).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 11.367/11.395.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, de acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+Na hipótese dos autos, a agravante não atacou, de forma específica e adequada, os fundamentos do juízo de prelibação negativo proferido pelo Tribunal de origem, que inadmitiu o recurso especial em face da incidência da Súmula 7 desta Corte.
+É que, em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+A esse respeito:
+PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE HÍBRIDA. REQUISITOS NÃO CUMPRIDOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. IMPUGNAÇÃO ESPECÍFICA NÃO COMPROVADA. ALEGAÇÕES GENÉRICAS. ART. 932, III, DO CPC.
+1. A insurgente apresenta argumentação genérica para tentar afastar o óbice previsto na Súmula 7 do STJ, utilizado pelo Tribunal a quo para negar seguimento ao recurso.
+2. Em momento algum, indica os fatos incontroversos admitidos no acórdão recorrido sobre os quais pretende que seja feita nova valoração jurídica. Ao contrário, transcreve excerto do agravo em recurso especial no qual pugna pelo revolvimento do acervo fático-probatório utilizado pelo Tribunal a quo para reconhecer a inexistência dos requisitos para a obtenção do benefício previdenciário pleiteado.
+3. O que pretende o recorrente é desconstituir a conclusão a que chegou a Corte local, por meio da análise do material probatório colacionado aos autos, circunstância que atrai a incidência da Súmula 7 do STJ.
+4. Não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+5. Agravo conhecido, para não se conhecer do recurso especial. (AREsp 1280316/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/05/2019, DJe 28/05/2019) (Grifos acrescidos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. APELO RARO INADMITIDO SOB O FUNDAMENTO, DENTRE OUTROS, DE QUE A VERIFICAÇÃO DA RESPONSABILIDADE PELA DEMORA NA CITAÇÃO DEMANDA REEXAME DE PROVAS. IMPUGNAÇÃO GENÉRICA A ESSE FUNDAMENTO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DO MUNICÍPIO DO RIO DE JANEIRO/RJ DESPROVIDO.
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+3. Agravo Regimental da Municipalidade desprovido. (AgRg no AREsp 97.169/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/05/2013, DJe 13/05/2013).
+In casu, a autarquia federal não se desincumbiu desse ônus, pois, para rebater aquele óbice sumular, limitou-se a tecer os seguintes argumentos (e-STJ fls. 10.903/10.904):
+Observa-se, portanto, que, de acordo com a decisão agravada, para a reforma do acórdão proferido pelo Tribunal seria necessário o reexame do conteúdo probatório, com vistas à revisão das seguintes conclusões extraídas do voto vencedor: (i) que o imóvel a que alude a ação não se localiza dentro da área das instalações do porto; e (ii) que o imóvel em questão se destina à exploração de suas atividades.
+Ocorre que, para a reforma do julgado, não há necessidade de reexame de fatos ou provas, não incidindo, portanto, o enunciado contido na Súmula 7/STJ.
+A obrigatoriedade de reversão do imóvel à União, neste caso, decorre do disposto nos dispositivos legais apontados no recurso especial, quais sejam: artigo 99, inciso II e artigo 100 do Código Civil; artigo 17, inciso I, alínea "a", da Lei n. 8.666/93 e artigo 27, incisos XVI e XXIII, da Lei n. 10.23312001.
+Conforme assentado no voto vencido proferido pela Desembargadora Selene de Almeida, é juridicamente irrelevante a finalidade do imóvel ou sua localização. Isso porque, conforme disposto no Convênio n. 07/97, por meio do qual a União delegou ao Estado do Amazonas a exploração do Porto Organizado de Manaus, "os bens adquiridos durante a vigência do convênio para a exploração do porto delegado, ficarão afetos ao patrimônio respectivo e reverterão à União ao término no referido convênio, independentemente de indenização". (Cláusula Oitava, §2v).
+Vale dizer, a reversão do bem à União pressupõe que o bem tenha sido adquirido durante a vigência do convênio, e que, portanto, trata-se de bem imóvel pertencente a uma autoridade com finalidade portuária - fato incontroverso nos autos - sendo irrelevante, para esse fim, revolver provas ligadas à localização ou destinação do bem.
+Por essa razão, por não se tratar de hipótese de aplicação do disposto na Súmula 7/STJ, é de se impor o conhecimento e provimento do recurso especial pela alínea "a" do artigo 105, inciso III da Constituição Federal.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO Ao agravo interno.
+É como voto.
