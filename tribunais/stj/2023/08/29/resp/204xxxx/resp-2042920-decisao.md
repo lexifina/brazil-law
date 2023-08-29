@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIZANGELA MARIA DE MIRANDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - LEI MUNICIPAL - LEGITIMIDADE DO CONTRATO TEMPORÁRIO - FGTS INDEVIDO - SENTENÇA DE PROCEDÊNCIA - REFORMADA - RECURSO CONHECIDO E PROVIDO.
+1 - A parte autora laborou para o Município de agosto/2018 a dezembro/2020 mediante contrato.
+2 - A Lei Municipal nº. 1.259, de 20/12/2012, que regulamenta as contratações temporárias, dispõe em seu artigo 3º, que as contratações serão feitas por tempo determinado e poderão ser prorrogadas desde que o prazo total não ultrapasse quatro anos.
+3 - Desse modo, uma vez que no caso em comento, a prestação de serviço se deu por dois anos e quatro meses, nos termos da legislação municipal, não há falar em contrato nulo e, por cconseguinte, indevido o FGTS reclamado.
+4 - Uma vez que a contratação temporária é amparada pela Lei Federal nº. 8.745/93, respaldada pelo inciso IX do artigo 37 da Carta Magna e que no caso em comento, não fora ultrapassado o prazo total de quatro anos, previsto no artigo 3º da Lei Municipal nº. 1.259/12, impositiva a reforma da sentença para julgar improcedente a demanda.
+5 - Recurso conhecido e provido para reformar a sentença, julgando improcedente a demanda, com inversão do ônus da sucumbência e fixação de honorários advocatícios em R$ 1.000,00 (um mil reais), com exigibilidade suspensa em razão do beneplácito da justiça gratuita (fl. 171).
+Em suas razões recursais, a parte recorrente sustenta, além de dissídio jurisprudencial, a violação do art. 19-A da Lei 8.036/1990. Alega, em síntese, que é assegurado o direito aos depósitos do FGTS aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância da regra constitucional de concurso público.
+Não foram apresentadas contrarrazões de acordo com a certidão de fl. 202.
+É o relatório.
+Cuida-se de demanda na qual a parte autora, ora recorrente, pleiteia que o contrato de trabalho pactuado com o recorrido seja declarado nulo, com a consequente condenação do ente estatal ao pagamento do saldo de FGTS referente a todo o período.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação a dispositivo de lei federal, é incabível o recurso especial, pois interposto contra acórdão com fundamento eminentemente constitucional.
+Realmente, observo que o Tribunal de origem afastou a pretensão autoral fundamentado na interpretação do inciso IX do art. 37 da Constituição Federal.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, é descabida a sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido. (AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaques no original.)
+Da leitura do acórdão recorrido, constato, também, que o mérito recursal foi decidido à luz da interpretação da Lei M unicipal 1.259/2012.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário"). A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
