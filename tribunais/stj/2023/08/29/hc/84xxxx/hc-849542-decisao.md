@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Williams Jose Silvino da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, ante o acórdão proferido no Agravo de Execução Penal n. 0008822-49.2023.8.26.0041.
+Narram os autos que o Juízo da Vara de Execução Penal indeferiu o pedido de detração feito pelo ora paciente, tendo a decisão sido mantida pelo Tribunal paulista no julgamento do respectivo recurso de agravo.
+No presente mandamus, a Defensoria Pública argumenta, em síntese, que, embora não expressamente previsto em lei, o cumprimento das medidas cautelares diversas da prisão, em especial o recolhimento domiciliar noturno e nos dias de folga, comprometem o status libertatis do réu e, por esse motivo, devem ser computadas na pena privativa de liberdade a cumprir (fl. 5), sendo esta, aliás, a orientação firmada no julgamento do Tema Repetitivo 1.155 (fl. 5).
+Requer a concessão liminar da ordem para determinar que seja detraído da pena do paciente o tempo que cumpriu recolhimento domiciliar noturno, por ser medida de direito (fl. 7).
+É o relatório.
+É manifesto o constrangimento ilegal suportado pelo paciente, o que autoriza a concessão da ordem in limine.
+Colhe-se dos autos que a Corte de origem manteve a decisão que negou o pleito de detração do tempo cumprido pelo paciente em relação às medidas cautelares diversas da prisão (recolhimento domiciliar no período noturno), sob estes fundamentos (fls. 67/74 - grifo nosso):
+ ..
+O agravante foi condenado à pena de 6 (seis) anos de reclusão, em regime inicial fechado, pela prática do delito de tráfico de drogas (fls. 34/35).
+O delito foi praticado pelo agravante em 3/6/2021, sendo que na ocasião, a prisão em flagrante foi convertida em preventiva. Em 14/9/2021, concedido o benefício da liberdade provisória, foi expedido alvará de soltura em seu favor, mediante, dentre outras condições, "recolhimento domiciliar noturno" (sic, fls. 18/19), vindo o reeducando a ser posteriormente condenado e, com o trânsito em julgado da condenação, expedido e cumprido o respectivo mandado de prisão em 9/3/2023 (fls. 27).
+Diante de tais fatos, a Defensoria Pública, por sua vez, requereu a aplicação da detração em relação ao período em que o reeducando permaneceu cumprindo as medidas cautelares diversas da prisão, o que foi indeferido, sob os seguintes fundamentos:
+"Não obstante os argumentos defensivos, INDEFIRO o pedido de detração formulado, por expressa ausência de previsão legal, conforme, inclusive, já decidiu recentemente o E. Supremo Tribunal Federal: "AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. DETRAÇÃO. PERÍODO DE RECOLHIMENTO DOMICILIAR. CÔMPUTO EM HORAS. AUSÊNCIA DE PREVISÃO LEGAL. JURISPRUDÊNCIA DESTA SUPREMA CORTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. 1. Inadmissível, como regra, o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. A orientação jurisprudencial desta Suprema Corte é no sentido de que a detração da pena privativa de liberdade não abrange o cumprimento de medidas cautelares diversas da prisão por falta de previsão legal. Precedentes. 3. Agravo regimental conhecido e não provido" (HC n. 205740,AgR - Relatora ROSA WEBER - Primeira Turma - julgado em 22/4/2022 destacou-se). Com efeito, expressamente determina do art. 42 do Código Penal que "computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior". Na espécie, foi concedida ao executado liberdade provisória com medidas cautelares, as quais, evidentemente, não se equiparam à prisão provisória, administrativa ou internação, ainda que haja o dever de recolhimento no período noturno, o que impossibilita, pois, a detração da pena, nos exatos termos da legislação pátria" (sic fls. 51/52).
+Ressalvado o entendimento contrário, o agravo não merece provimento.
+Dispõe o art. 42 do Código Penal:
+"Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior".
+Verifica-se, pois, que a detração requerida pelo agravante, relativa ao tempo de cumprimento de medida cautelar (recolhimento domiciliar noturno), não encontra suporte na legislação penal, que menciona, expressamente, tão somente o tempo de prisão (provisória ou administrativa) ou de internação.
+Importante ressaltar que a medida cautelar de recolhimento domiciliar noturno e em dias de folga (CPP, art. 319, V) não se confunde com a prisão domiciliar (CPP, artigo 317), modalidade de custódia provisória e que, portanto, comporta detração.
+Confira-se a lição de Fernando Capez:
+ ..
+Não é outro o entendimento dos Tribunais Superiores:
+ ..
+Desta feita, nada a reparar em relação ao decisum agravado.
+Ante o exposto, nega-se provimento ao recurso.
+Tal entendimento, no entanto, destoa da orientação sedimentada na Terceira Seção desta Corte, no sentido da possibilidade de detração do tempo de cumprimento da medida cautelar de recolhimento domiciliar noturno, mediante conversão das horas de recolhimento compulsório em dias. Com efeito, esta foi a tese firmada no julgamento do Tema Repetitivo n. 1.155:
+1) O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+2) O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+3) As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada.
+Ante o exposto, concedo liminarmente a ordem para determinar ao Juízo da execução que considere o tempo de recolhimento domiciliar noturno para fins de detração da pena, mediante observância do seguinte parâmetro: a soma das horas de recolhimento domiciliar compulsório deverá ser convertida em dias para contagem da detração e, se no cômputo total remanescer período menor que 24h, essa fração de dia deverá ser desprezada (Autos n. 0006914-54.2023.8.26.0041, do DEECRIM 1ª RAJ).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual .
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. DETRAÇÃO DO TEMPO DE CUMPRIMENTO DE MEDIDA CAUTELAR ALTERNATIVA, CONSISTENTE EM RECOLHIMENTO DOMICILIAR NOTURNO. VIABILIDADE. PACÍFICA JURISPRUDÊNCIA DO STJ. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
