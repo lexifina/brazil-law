@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEJANDRA ZARZURI FLORES, MARCELINO ILLANES AGUAYO e JAIME CORIA QUISPE contra decisão da minha relatoria, às fls. 53/61, em que concedi a ordem de ofício para restabelecer a sentença condenatória de fls. 11/17 relativamente aos ora pacientes.
+Nos presentes aclaratórios (fls. 66/68), a Defesa aponta omissão no referido acórdão, relativo ao regime de cumprimento de pena. Afirma que a decisão monocrática não apreciou questão trazida acerca do regime. Entende que deve ser aplicado o semiaberto para desconto inicial da pena.
+Pugna pelo conhecimento e acolhimento dos embargos de declaração para afastar a omissão apontada, com efeitos infringentes.
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de omissão, obscuridade, ambiguidade ou contrariedade do decisum.
+Na espécie, a decisão embargada não ostenta a omissão apontada.
+No caso, como visto, restabelecida a sentença de primeiro grau em seus termos. Nesse contexto, restabelecido também o re gime de cumprimento de pena. Na linha da decisão condenatória de fls. 11/17, no que pertine ao regime de cumprimento de pena, diante das circunstâncias judiciais valoradas negativamente, assim como do quantum de pena estabelecido (4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, além de 485 (quatrocentos e oitenta cinco) dias-multa, no mínimo legal, por infração ao art. 33, §4º, c. c artigo 40,inciso V (entre Estados da Federação), ambos da Lei Federal n. 11.343/06), correta a fixação do regime fechado.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35 DA LEI Nº 11.343/06. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. REGIME MAIS GRAVOSO. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. As instâncias ordinárias exasperaram a reprimenda, tendo em vista que a associação envolvia considerável quantia em dinheiro (R$ 3.000 a R$ 4.000, por dia - e-STJ fls. 203) e movimentava elevada quantidade de droga, tudo a desbordar do ordinário do tipo, aumentando a reprovabilidade da conduta.
+3. É firme o entendimento deste Superior Tribunal de Justiça no sentido de que, em observância ao princípio da presunção da inocência, a existência de inquéritos policiais e/ou ações penais em andamento não constitui fundamentação idônea para afastar a pena-base do mínimo legal, seja a título de maus antecedentes, conduta social negativa ou personalidade. Incidência da Súmula 444/STJ. No presente caso, possuindo o acusado condenação transitada em julgado, não há qualquer ilegalidade no reconhecimento do desvalor dos antecedentes.
+4. Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça.
+5. Assim, não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) (AgRg no HC n. 603.620/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 9/10/2020).
+6. Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (ut, AgRg no AgRg nos EDcl no AREsp n. 1.617.439/PR, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 28/9/2020). Precedentes.
+7. Diante disso, a exasperação superior às referidas frações, para cada circunstância, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial.
+8. No ponto, ressalta-se que o réu não tem direito subjetivo à utilização das referidas frações, não sendo tais parâmetros obrigatórios, porque o que se exige das instâncias ordinárias é a fundamentação adequada e a proporcionalidade na exasperação da pena.
+9. No presente caso, decidiu-se pela legalidade no aumento da pena-base em 1/2, pelas circunstâncias do delito, e 1/6, pelos maus antecedentes, o que se mostra proporcional e razoável ao caso.
+10. Em atenção ao art. 33, § 2º, alínea "b", do CP, embora estabelecida a pena definitiva do acusado em 5 anos de reclusão, houve a consideração de circunstâncias judiciais negativas na exasperação da pena-base, fundamento a justificar a manutenção de regime prisional mais gravoso, no caso, o fechado.
+11. Agravo regimental não provido.
+(AgRg no AREsp n. 2.338.824/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Observa-se que a Defesa pretende, em verdade, a modificação do julgado anterior, com a rediscussão da conclusão outrora exarada, o que não se coaduna com a medida integrativa.
+Ressalte-se, ademais, que o julgador não é obrigado rebater, um a um, todos os argumentos apresentados pelas partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento. Ilustrativamente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+4. Ainda que assim não fosse, não se vislumbra ofensa aos arts. 315 e 619, ambos do Código de Processo Penal, na medida em que o inconformismo da defesa no que concerne à analise das provas produzidas foi devidamente apreciado pelo Tribunal a quo.
+5. Lado outro, o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte, como ocorrido no caso em concreto.
+6. Pertinente registrar, outrossim, que o magistrado deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso; porém não está obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir (ut, AgRg nos EDcl no AREsp n. 1.127.961/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 8/3/2018).
+7. Assim, não procede a alegação de ofensa ao art. 619 do CPP, porquanto o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional. Precedentes.
+ ..
+10. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.027.738/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe de 13/5/2022).
+Ante o exposto, com fulcro no art. 264, § 2º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
