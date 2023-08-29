@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por PICCIN MÁQUINAS AGRÍCOLAS LTDA. contra decisão que conheceu do agravo para não conhecer do recurso especial, majorando os honorários sucumbenciais de 10% para 12% sobre o valor atualizado da causa (e-STJ, fls. 712-717).
+Em suas razões, a parte embargante sustenta que há obscuridade na decisão embargada, na medida em que a decisão embargada majorou os honorários advocatícios devidos ao procurador da parte recorrida de 10% para 12% sobre o valor atualizado da causa e que, entretanto, em virtude da sucumbência recíproca, na análise do acórdão recorrido, não houve condenação em honorários advocatícios em prol do referido procurador (e-STJ, fls. 719-722).
+A parte embargada apresentou impugnação (e-STJ, fls. 240-247).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (art. 1.022 do CPC/2015), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão no julgado.
+Isso porque o entendimento desta Corte é de que "a sucumbência recíproca, por si só, não afasta a condenação em honorários advocatícios de sucumbência, tampouco impede a sua majoração em sede recursal com base no art. 85, § 11, do Código de Processo Civil de 2015" (AgInt no AREsp n. 1.479.481/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 1/2/2022).
+Ressalte-se que embora não haja óbice à majoração de honorários em sede recursal quando houver a sucumbência recíproca, a jurisprudência do STJ preconiza que devem ser observados concomitantemente os seguintes requisitos: a) decisão publicada a partir de 18/3/2016; b) recurso não conhecido integralmente ou desprovido; e c) condenação em honorários advocatícios desde a origem do processo.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. APLICAÇÃO DA SÚMULA 283 DO STF. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ARTIGO 85, § 11, DO CPC DE 2015. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA DE ÓBICE.
+1. Não há falar em violação do art. 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. À falta de contrariedade, permanecem incólumes os motivos expendidos pelo acórdão recorrido, suficientes por si sós à manutenção do julgado. Súmula 283/STF.
+3. "A sucumbência recíproca, por si só, não afasta a condenação em honorários advocatícios de sucumbência, tampouco impede a sua majoração em sede recursal com base no art. 85, § 11, do Código de Processo Civil de 2015." (AgInt no AREsp 1495369/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2020, DJe 16/10/2020) 4. Em que pese não existir óbice à majoração de honorários em sede recursal quando está caracterizada a sucumbência recíproca, a jurisprudência desta Corte Superior preconiza a necessidade da presença concomitante dos seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no processo em que interposto o recurso.
+5. No caso, o Tribunal de origem, ao não conhecer da apelação, registrou a impossibilidade de alteração da verba honorária em virtude da sucumbência recíproca, dissentindo do posicionamento desta Corte Superior, mormente tendo em vista o preenchimento dos requisitos supracitados.
+6. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 1.479.481/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 1/2/2022.)
+Desta forma, estando presente os referidos requisitos não há que se falar um obscuridade no decisum embargado.
+Assim, não há falar em negativa de prestação jurisdicional.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO DESPORTIVO. LEI PELÉ. ATLETA PROFISSIONAL DE FUTEBOL. TRANSFERÊNCIA. DIREITOS FEDERATIVOS. DIREITOS ECONÔMICOS. RECURSO NÃO PROVIDO. DISPOSITIVO. OMISSÃO. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS RECURSAIS.
+1. São devidos honorários sucumbenciais recursais nas hipóteses em que o recurso especial não obteve provimento, o acórdão recorrido foi publicado na vigência do Código de Processo Civil de 2015, a verba sucumbencial foi fixada desde a origem e não ultrapassados os limites estabelecidos nos §§ 2º e 3º do art. 85 do Código de Processo Civil para a fase de conhecimento.
+2. A majoração dos honorários advocatícios recursais é cabível, ainda que reconhecida a sucumbência recíproca pela Corte de origem, exclusivamente da parcela fixada em favor da parte recorrida em recurso especial.
+3. Na hipótese, o acórdão embargado f oi omisso ao não mencionar na parte dispositiva a incidência de honorários sucumbenciais recursais, nos termos do art. 85, § 11, do Código de Processo Civil.
+4. Embargos de declaração acolhidos para majorar os honorários sucumbenciais recursais arbitrados pela Corte local.
+Portanto, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
