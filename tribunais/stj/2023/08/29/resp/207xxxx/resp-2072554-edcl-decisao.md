@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CAR LOS ALBERTO WANDALSEN MENDONÇA e outros contra a decisão de fls. 977/982, desta relatoria, que deu provimento ao recurso especial da parte embargada, afastando a responsabilidade da parte exequente, ora embargada, pelo pagamento de honorários advocatícios; e consequentemente, condenou a parte executada em tal rubrica, no percentual de 10% sobre o valor atualizado da execução, nos termos do art. 85, § 2º, do CPC/2015.
+A parte embargante sustenta, em síntese: a) omissão quanto ao argumento apresentado em suas contrarrazões sobre a inadmissibilidade do recurso especial diante da ausência de indicação do dispositivo tido por violado; e b) que a condenação nos ônus sucumbenciais imposta deve ser afastada uma vez que milita sob o pálio da justiça gratuita.
+Devidamente intimada, a parte embargada não apresentou impugnação (e-STJ, fls. 1.000)
+É o relatório. Decido.
+Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+Conforme entendimento pacificado nesta Corte, "quando o relator inicia a análise do mérito do recurso especial, implicitamente deve-se considerar ultrapassadas as preliminares de ordem formal" (AgRg no Ag 1.276.352/RS, Ministra Laurita Vaz, Quinta Turma, DJe de 18.10.2010), razão pela qual não há falar, em princípio, em omissão. A propósito:
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO RELATIVA A PRESSUPOSTO DE ADMISSIBILIDADE DO RECURSO ESPECIAL SUSCITADO EM CONTRARRAZÕES. INCIDÊNCIA DA SÚMULA 7/STJ E AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA. DESNECESSIDADE. EMBARGOS REJEITADOS. APLICAÇÃO DE MULTA.
+A este STJ cabe o exercício do segundo juízo de admissibilidade do recurso especial, podendo este ser realizado de forma implícita, sem necessidade de exposição de motivos. O exame de mérito do apelo nobre já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito a esse respeito.
+Embargos de declaração rejeitados.
+(EDcl no REsp 705.148/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.4.2011)
+CIVIL E PROCESSUAL. EMBARGOS DE DECLARAÇÃO EM FACE DE DECISÃO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. EMBARGOS À EXECUÇÃO. CHEQUES PÓS-DATADOS. PRESCRIÇÃO. OBSERVÂNCIA DA DATA CONSIGNADA NAS CÁRTULAS. SATISFAÇÃO DOS REQUISITOS FORMAIS DO APELO. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+1. O acolhimento da pretensão reformatória deduzida no recurso especial implica, ainda que implicitamente, o afastamento dos óbices processuais contrários, levantados em contrarrazões. Precedentes.
+(..)
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.302.287/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15.8.2014.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. 1. VÍCIO DE JULGAMENTO ACERCA DOS REQUISITOS DE ADMISSIBILIDADE RECURSAL. INEXISTÊNCIA. ENFRENTAMENTO DO MÉRITO RECURSAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELO TRIBUNAL DE ORIGEM E MATÉRIA EXCLUSIVAMENTE DE DIREITO. RECONHECIMENTO. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Constata-se que a recorrente, a pretexto de omissão, aduz que o julgado impugnado, ao conhecer do recurso especial, teria ignorado a ausência de impugnação específica do fundamento efetivamente adotado pelo aresto recorrido e a incidência do enunciado n. 7 da Súmula do STJ, questões relacionadas à admissão do recurso especial da parte adversa, devidamente veiculadas em contrarrazões. Todavia, a apreciação do mérito do recurso especial decorre, naturalmente, do implícito reconhecimento de que todos os requisitos de admissibilidade recursal foram observados, não se fazendo presente, propriamente, omissão, contradição ou obscuridade, mas apenas inconformismo com o desfecho dado à causa por esta Turma julgadora, o que refoge, a toda evidência, do perfil integrativo dos embargos de declaração.
+1.1 Não bastasse a prescindibilidade de manifestação acerca dos óbices aventados, dado o enfrentamento do mérito recursal, tais questionamentos afiguram-se, em si, absolutamente impertinentes à realidade dos autos.
+2. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.758.746/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 21.2.2019.)
+Portanto, uma vez examinado e decidido o mérito do recurso especial, tem-se por atendidos, por consequência, os requisitos extrínsecos e intrínsecos de sua admissibilidade, não se verificando, portanto, nenhuma omissão.
+Quanto ao mais, o beneficiário da assistência jurídica gratuita, se vencido na demanda, não é isento da condenação nos ônus da sucumbência, devendo arcar com as despesas realizadas pela parte contrária.
+Porém o pagamento desses encargos não serão exigíveis na hipótese de prejuízo do próprio sustento ou da família, ficando prescrita a obrigação se no prazo de cinco anos, contados da sentença, não puder ter sido satisfeita (Lei nº 1.060/50, art. 12).
+Por essa razão, impõe-se a modificação da parte dispositiva da decisão embargada (e-STJ fls. 977/982), para que passe a ter a seguinte redação:
+"Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de: a) afastar a responsabilidade da parte exequente, ora recorrente, pelo pagamento de honorários advocatícios; e b) consequentemente, condenar a parte executada em tal rubrica, no percentual de 10% sobre o valor atualizado da execução, nos termos do art. 85, § 2º, do CPC/2015, cuja exigibilidade, no entanto, ficará suspensa, na forma do art. 98, § 3º, do CPC/2015.
+Ante o exposto, acolho os embargos de declaração, em parte, para sanar a omissão apontada, nos termos acima.
+Publique-se.
+EMENTA
