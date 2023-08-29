@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial, interposto por PREVENT SENIOR PRIVATE OPERADORA DE SAÚDE LTDA, contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 291):
+PLANO DE SAÚDE - PACIENTE PORTADOR DE ADENOCARCINOMA DE RETO MÉDIO (CID - C 18) - PRESCRIÇÃO DO MEDICAMENTO LONSURF (TAS-102) EM RAZÃO DE EVOLUÇÃO DA DOENÇA - FÁRMACO DE USO DOMICILIAR MINISTRADO POR VIA ORAL - RECUSA INJUSTIFICADA, SOB O FUNDAMENTO DE QUE HÁ EXCLUSÃO CONTRATUAL PARA MEDICAMENTOS NÃO LISTADOS NO ROL DA ANS - ABUSIVIDADE - INTELIGÊNCIA DOS ARTS. 47 E 51, § 1º, II, DO CDC - A OBRIGAÇÃO DE COBERTURA À DOENÇA SE ESTENDE AO RESPECTIVO TRATAMENTO, AÍ INCLUÍDO O MEDICAMENTO PRESCRITO- TJSP, SÚMULA 102- NECESSIDADE DE SUPERVISÃO DE PROFISSIONAL DE SAÚDE PARA MINISTRAR O MEDICAMENTO - RESTRIÇÃO AO FORNECIMENTO DE FÁRMACO DE USO DOMICILIAR QUE NÃO SE APLICA AOS ANTINEOPLÁSICOS (LEI 9.656/98, ART.
+10, INCISO I, "C", E ART. 12, INCISO II, "G") - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Nas razões do recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitutivo, a parte recorrente alega violação ao art. 10, I e § 4º, da Lei n. 9.656/98, bem como dissídio jurisprudencial, sustentando, em síntese, a ausência de cobertura contratual para o custeio de medicamento e/ou tratamento não previsto no rol da ANS, "não sendo ele exemplificativo, já que, constitui relevante garantia do consumidor para propiciar direito à saúde com preços acessíveis" (fl. 331).
+É o relatório. Decido.
+No caso ora em exame, o Tribunal de origem concluiu que a operadora é obrigada a custear o tratamento indicado pelo médico assistente, como se infere no trecho do v. acórdão (fls. 293-297):
+A documentação médica juntada aos autos, notadamente o relatório médico de fls. 37 indica que o tratamento convencional não surtiu o efeito esperado com outros fármacos utilizados em sessões de quimioterapia e radioterapia.
+Da mesma forma, as posteriores intervenções cirúrgicas.
+Diante disso, o médico do apelado recomendou a continuidade da quimioterapia com o fármaco Lonsurf TAS-102.
+A ré, no entanto, recusa-se a fornecer o remédio, porque, segundo ela, o contrato não prevê cobertura no rol de procedimentos obrigatórios da ANS acrescentando que a junta médica do plano de saúde recomendaria outra linha de tratamento.
+Razão não lhe assiste, todavia.
+Considerando que o contrato de prestação de serviços de saúde não exclui a cobertura do tratamento da doença, acertada a determinação contida na r. sentença para que a ré custeie o tratamento necessitado pelo autor com o medicamento prescrito.
+Tratando-se de um quadro que não se reverteu com a utilização de outros medicamentos, quimioterapia, radioterapia, cirurgia e considerando a progressão da doença, incabível a negativa, em face do relatório médico que altera a condução do tratamento.
+Assim, existindo previsão contratual de cobertura da doença e tendo sido indicado pelo médico responsável o tratamento com a utilização do medicamento Lonsurf TAS-102, SC:2,0; 35mg/m , 03 comprimidos de 20 mg via oral de 12/12 horas por 5 dias seguido de 03 comprimidos de 20 mg via oral de 12/12 por mais 5 dias, a recusa em custear o referido medicamento, sob o fundamento de exclusão contratual, fere a própria natureza do contrato, em afronta ao disposto no art. 51, § 1º, II, do CDC, assim como o disposto na Lei nº 9.656/98.
+Se assim é, e ainda levando em conta o entendimento consolidado do Superior Tribunal de Justiça de que se o plano de saúde não afasta a cobertura da doença, não se pode recusar a arcar com o custo do respectivo medicamento (REsp 519.940-SP, rel. Min. Carlos Alberto Menezes Direito, j. 17.06.2003), imperioso reconhecer que a apelante não pode imiscuir-se no tratamento.
+Dando respaldo ao presente entendimento, a orientação consagrada na Súmula 102 deste Egrégio Tribunal de Justiça do Estado de São Paulo dispõe: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+(..)
+De outra parte, a exclusão de cobertura de fármacos de uso domiciliar não alcança os antineoplásicos (Lei 9.656/98, art. 10, inciso VI).
+De arremate, o art. 12, inciso I, alínea "c" e inciso II, alínea "g", determina às operadoras de planos de saúde a cobertura obrigatória de medicamentos antineoplásicos de uso domiciliar.
+Ainda que seja ministrado por via oral, trata-se de medicamento associado ao tratamento quimioterápico, cuja obrigatoriedade de custeio está prevista na Súmula 95 desta Corte: "Havendo expressa indicação médica, não prevalece a negativa de cobertura de custeio ou fornecimento de medicamentos associados a tratamento quimioterápico".
+Cumpre ressaltar que o plano de saúde não se pode imiscuir no tratamento prescrito pelo médico.
+Com efeito, nos termos da jurisprudência desta Corte, a taxatividade do rol da ANS é desimportante para a análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução.
+No mesmo sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1.Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à existência de ofensa a direitos da personalidade em razão do ilícito em questão, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 1.909.215/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA DEMANDADA.
+1. No âmbito do REsp 1.733.013/PR, esta Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo.
+1.1. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+2. Agravo interno desprovido."
+(AgInt no REsp 1949270/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/02/2022, DJe 24/02/2022 - sem grifo no original).
+Ressalta-se que no caso de fornecimento de medicamento para tratamento de câncer, é assente que a jurisprudência desta Corte se firmou no sentido de que o fornecimento é obrigatório.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento." (AgInt no REsp 1941905/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe 03/12/2021 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO. TRATAMENTO DE CÂNCER. RECUSA INDEVIDA. DANO MORAL CONFIGURADO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal. 2. Nos termos da jurisprudência deste Tribunal Superior, as operadoras de AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO. TRATAMENTO DE CÂNCER. RECUSA INDEVIDA. DANO MORAL CONFIGURADO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Nos termos da jurisprudência deste Tribunal Superior, as operadoras de plano de saúde devem fornecer medicamento para tratamento oncológico. Precedentes.
+3.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ)
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.959.910/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022. - sem grifo no original)
+Diante do exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% para 16% sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
