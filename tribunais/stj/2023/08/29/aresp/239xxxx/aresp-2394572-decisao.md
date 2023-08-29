@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Caixa de Previdência dos Funcionários do Banco do Brasil - Previ, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 412-413):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. EMBARGOS À EXECUÇÃO.FINANCIAMENTO PARA AQUISIÇÃO DE BEM IMÓVEL. CERCEAMENTODE DEFESA. NÃO OCORRÊNCIA. PRESCRIÇÃO. CONTAGEM DO LAPSOTEMPORAL A PARTIR DO VENCIMENTO DA ÚLTIMA PRESTAÇÃO.
+1. Cerceamento de defesa: a matéria versada nos autos, relativa à adequação das cláusulaspactuadas, é eminentemente de direito, descabe a pretendida dilação probatória para o fim de,pretensamente, comprovar as irregularidades supostamente praticadas pela entidade deprevidência exequente.
+2. Prescrição. Vencimento antecipado: conforme entendimento consolidado desta Corte, aprevisão contratual a respeito do vencimentoantecipado da dívida, embora autorize o credorexigir o pagamento da integralidade da quantia a que faz jus, não altera o termo inicial para acontagem da prescrição, o qual tem lugar apenas após o vencimento da última prestação.
+3. Coeficiente de Equalização de Taxas (CET): ilegalidade da cláusula por abusividade.Coeficientes não possuem contraprestação, sendo estipulados em absoluto proveito da requerida.
+4. Capitalização de juros: a capitalização mensal de juros remuneratórios é vedada noscontratos de financiamento imobiliário firmados anteriormente à Lei nº 9.514/1997.
+5. Tabela Price:hipótese em que o contrato pactuado entre os litigantes adotou, de formaexpressa, o sistema de amortização francês, denominado de Tabela Price, inexistindo qualquerilegalidade no ponto. Precedentes da Corte.
+6. Multa contratual: a limitação da multa contratual em 2%, nos termos do artigo 52, §1º, doCDC, só é cabível nos contratos firmados após a vigência da Lei nº 9.298/96.
+7. Seguro contra danos físicos ao imóvel. Obrigatoriedade de contratação junto à BBCorretora: caracterizada a hipótese do artigo 39, inciso I, do CDC, deve ser reconhecidaa abusividade da cláusula e afastada a sua cobrança, com o devido abatimento sobre o saldodevedor.
+8. Descaracterização da mora e compensação e/ou repetição de valores: necessidade deexplicitação da sentença no tocante aos temas, haja vista a ausência de referência a taiscominações no dispositivo sentencial.
+9. Ônus sucumbenciais: verba honorária devida ao patrono da parte consumidora majorada,mantendo-se, porém, os mesmos critérios definidos na origem para sua fixação (artigo 85, §§2º e8º, do CPC/2015), haja vista a ausência de impugnação específica.
+APELAÇÃO INTERPOSTA PELA ENTIDADE DE PREVIDÊNCIADESPROVIDA. APELAÇÃO INTERPOSTA PELA PARTECONSUMIDORA PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 440-444).
+Em suas razões de recurso especial (e-STJ, fls. 451-469), a agravante apontou a ocorrência de divergência jurisprudencial e de violação aos art. 3º do CDC e 1.022, inciso II, do CPC/2015.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois, quanto à validade da cláusula CET, não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia.
+Defendeu a inaplicabilidade das normas consumeristas ao caso, uma vez que a parte é entidade fechada de previdência complementar, de forma a não incidir as regras do CDC, à luz da jurisprudência do STJ.
+Sem contrarrazões (e-STJ, fl. 497).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Sem contraminuta (e-STJ, fl. 536).
+Brevemente relatado, decido.
+De início, quanto à alegada omissão, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito, segue trecho do acórdão recorrido que examinou a legalidade da cláusula que prevê a CET, com fundamentação adequada, ainda que em sentido oposto ao pretendido pela ora agravante (e-STJ, fl. 416):
+Há previsão de correção dos juros através de "coeficiente de Equalização de Taxas"(cláusula décima segunda).
+As partes estabeleceram a aplicação do coeficiente de equalização de taxas - CETdestinado a prevenir e/ou corrigir eventuais diferenças decorrentes da utilização de índices nãouniformes para a correção do saldo devedor e das prestações respectivas de amortização, diante danão similitude de dos períodos de incidência.
+Ora, há verdadeira sobreposição de taxas, pois aplicação de rubricas com a mesmafinalidade, afigurando-se uma nítida onerosidade excessiva ao devedor, devendo, portanto, serexpurgado do cálculo. Acrescento que a previsão de índice de correção monetária sobre o débito visa recompor a desvalorização monetária do período, sendo abusiva a utilização de juros sobre juros, na forma explicitada.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+ ..
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+No mérito, verifica-se que o Tribunal de origem declarou a abusividade da cláusula que previu a contratação de seguro contra fogo e outros riscos pautada na premissa de incidência das normas do CDC ao caso em apreço, afastando sua incidência ao fundamento da configuração de venda casada, nos seguintes termos (e-STJ, fls. 419-420):
+No que tange à contratação de seguro, observa-se que a cláusula décima sexta daavença e a cláusula vigésima primeira do regulamento aplicável que regraria empréstimosconcedidos pela PREVI exigia a contratação de tal garantia contra fogo e outros riscos,obrigatoriamente, junto à BB - Corretora de Seguros e Administradora de Bens (fls. 17 e 40).
+Ora, deve-se destacar que, em virtude de não se aplicarem as regras previstas doSistema Financeiro de Habitação ao presente caso, inexiste qualquer previsão que obrigue a contratação de seguro por parte do devedor, ainda mais junto a instituição específica, parceira daentidade de previdência. Isto é, sob a ótica do CDC, houve uma verdadeira imposição da cláusula,obrigando a celebração de determinado negócio jurídico acessório.
+Assim, caracteriza-se a "venda casada", que é rechaçada pela legislação consumerista.Esta Corte adota tal entendimento:
+A Segunda Seção desta Corte Superior consolidou o entendimento de que "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula 563/STJ).
+Assim, mesmo no caso de mútuo feneratício celebrado por entidade de previdência privada fechada, não são aplicáveis as disposições do CDC, mas sim a legislação aplicável à matéria, como a Lei de Usura e o Código Civil.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE MÚTUO. ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Código de Defesa do Consumidor não incide nos contratos previdenciários celebrados com entidades fechadas, mesmo em se tratando de contrato de mútuo. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.797.836/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 13/3/2020.)
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. MÚTUO FENERATÍCIO REALIZADO POR ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. RETORNO DOS AUTOS À ORIGEM PARA NOVA ANÁLISE DO RECURSO DE APELAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As regras do Código de Defesa do Consumidor não se aplicam às relações de direito civil envolvendo participantes e/ou beneficiários e entidades fechadas de previdência complementar.
+3. Nos termos da Súmula 563 do STJ: O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+4. Retorno dos autos à origem para reapreciação do recurso de apelação.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.714.807/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4/6/2020.)
+Observa-se, portanto, que o Tribunal estadual julgou o tópico referente à validade da cláusula que prevê a necessidade de contratação de seguro em desconformidade com o entendimento desta Corte, devendo ser alterado no ponto.
+No entanto, considerando que a alegação da parte agravada de abusividade da referida cláusula em razão do valor da apólice ser o do saldo devedor (e-STJ, fls. 325-326) não foi examinada pelo Tribunal a quo, determino o retorno dos autos à origem para que o Tribunal local proceda a novo julgamento, em conformidade com o entendimento desta Corte.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinar o afastamento das normas previstas no Código de Defesa do Consumidor ao caso em apreço, retornando os autos ao Tribunal de origem para que proceda a novo julgamento da demanda, em conformidade com o entendimento desta Corte Superior.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. FINANCIAMENTO IMOBILIÁRIO. 1. VIOLAÇÃO AO ART. 1.022 DO CP/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO. 2. CONTRATAÇÃO DE SEGURO. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. CONTRATO DE MÚTUO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. 3. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
