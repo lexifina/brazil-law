@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, suscitado por ALNUTRI ALIMENTOS LTDA e HIKARI INDÚSTRIA E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL em face do d. Juízo de Direito da 1ª Vara Regional de Competência Empresarial e de Conflitos Relacionados à Arbitragem de São Paulo/SP e do d. Juízo 8ª Vara do Trabalho de São Paulo/SP.
+Sustenta a suscitante que encontra-se submetida a regime de recuperação judicial extrajudicial perante o d. Juízo de Direito da 1ª Vara Regional de Competência Empresarial e de Conflitos Relacionados à Arbitragem de São Paulo/SP (fls. 17/21) e que o d. Juízo do Trabalho suscitado "muniu-se de competência que não lhe pertencia e determinou a constrição de ativos da Suscitante que segue em cenário recuperacional" (na fl. 12).
+Afirma, nesse passo, que o conflito positivo de competência está caracterizado, porque compete ao Juízo da Recuperação Judicial estabelecer, em harmonia com o plano de soerguimento, a forma como serão satisfeitos os créditos requeridos em face de empresas em recuperação.
+Requer, em sede de liminar, a suspensão da decisão do d. Juízo exequente suscitado e, no mérito, seja declarada a competência do d. Juízo da Recuperação Judicial.
+É o relatório.
+Passo a decidir.
+Ao disciplinar a recuperação extrajudicial, a Lei nº11.101/2005 previu que o respectivo pedido, ao contrário do pedido de recuperação judicial, não gera a suspensão das ações e das execuções individuais dos credores que não tenham subscrito o plano, bem como que a sujeição dos créditos de natureza trabalhista, caso dos autos, exige negociação coletiva com o sindicato da respectiva categoria profissional.
+Confira-se, a propósito, a redação do art. 161 da assinalada Lei:
+"Art. 161. O devedor que preencher os requisitos do art. 48 desta Lei poderá propor e negociar com credores plano de recuperação extrajudicial.
+§ 1º Estão sujeitos à recuperação extrajudicial todos os créditos existentes na data do pedido, exceto os créditos de natureza tributária e aqueles previstos no § 3º do art. 49 e no inciso II do caput do art. 86 desta Lei, e a sujeição dos créditos de natureza trabalhista e por acidentes de trabalho exige negociação coletiva com o sindicato da respectiva categoria profissional.
+2º O plano não poderá contemplar o pagamento antecipado de dívidas nem tratamento desfavorável aos credores que a ele não estejam sujeitos.
+§ 3º O devedor não poderá requerer a homologação de plano extrajudicial, se estiver pendente pedido de recuperação judicial ou se houver obtido recuperação judicial ou homologação de outro plano de recuperação extrajudicial há menos de 2 (dois) anos.
+§ 4º O pedido de homologação do plano de recuperação extrajudicial não acarretará suspensão de direitos, ações ou execuções, nem a impossibilidade do pedido de decretação de falência pelos credores não sujeitos ao plano de recuperação extrajudicial.
+§ 5º Após a distribuição do pedido de homologação, os credores não poderão desistir da adesão ao plano, salvo com a anuência expressa dos demais signatários.
+§ 6º A sentença de homologação do plano de recuperação extrajudicial constituirá título executivo judicial, nos termos do art. 584, inciso III do caput, da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.
+Atento a isso, o d. Juízo recuperacional fez constar da decisão que deferiu o processamento do pedido em evidência a ressalva "de que o pedido de recuperação extrajudicial não gera a suspensão de direitos, ações e execuções individuais dos credores que não tenham subscrito o plano", nos seguintes termos:
+"No que alude à suspensão de direitos, ações e execuções no sistema de recuperação extrajudicial, confira-se expressa disposição do § 4º, do art. 161 da Lei nº11.101/2005, in verbis:
+"Art. 161. O devedor que preencher os requisitos do art. 48 desta Lei
+poderá propor e negociar com credores plano de recuperação extrajudicial.
+(..) §4º. O pedido de homologação do plano de recuperação extrajudicial não acarretará suspensão de direitos, ações ou execuções, nem a impossibilidade do pedido de decretação de falência pelos credores não sujeitos ao plano de recuperação extrajudicial".
+Com efeito, explicita a normal legal que o pedido de recuperação extrajudicial não gera a suspensão de direitos, ações e execuções individuais dos credores que não tenham subscrito o plano, sendo certo que somente a homologação do plano provocará a suspensão ou extinção das aludidas ações, mas tão somente em relação aos credores sujeitos ao plano homologado, de modo que todos os demais credores não sujeitos ao plano poderão exercer seus direitos regularmente como se recuperação extrajudicial não existisse, podendo, inclusive, pleitear a decretação de falência do devedor.
+Assim, contrario sensu, determino a suspensão, pelo prazo de 180 dias úteis, das ações e execuções contra a recuperanda ou qualquer outro procedimento relacionado aos créditos abrangidos no presente feito, inclusive pedidos de falência em andamento" (nas fls. 38/39).
+Assim, não resta caracterizado o presente conflito de competência, porquanto não está comprovado que a) o d. Juízo recuperacional determinou a suspensão de toda e qualquer execução contra as recuperandas e que, cumulativamente, b) os créditos de natureza trabalhista foram submetidos aos efeitos da recuperação extrajudicial mediante negociação coletiva com o sindicato da respectiva categoria profissional.
+Em vista do exposto, não conheço do conflito de competência.
+Publique-se.
+EMENTA
