@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra a decisão proferida pelo Ministro Napoleão Nunes Maia Filho assim ementada:
+DIREITO SANCIONADOR. RECURSO ESPECIAL. ACP POR IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO COM DISPENSA DE LICITAÇÃO. CONDENAÇÃO ADVINDA DAS INSTÂNCIAS ORDINÁRIAS. ÔNUS DO ACUSADOR DE COMPROVAR O FATO CONSTITUTIVO DO DIREITO (RESP. 1.314.122/MG, REL. MIN. BENEDITO GONÇALVES, DJE 09.04.2014), QUALIFICADO, NA ESPÉCIE, POR AUSÊNCIA DE NOTÓRIA ESPECIALIZAÇÃO DO PROFISSIONAL. ADEMAIS, O VALOR DE CONTRATAÇÃO NÃO SUPEROU O LIMITE DA DISPENSA DE LICITAÇÃO PREVISTO NO ART. 24, II DA LEI 8.666/1993. ILEGALIDADE QUALIFICADA NÃO IDENTIFICADA. PARECER DO MPF PELO DESPROVIMENTO DO RECURSO. APELO RARO DOS IMPLICADOS PROVIDO, EM ORDEM A JULGAR IMPROCEDENTE A PRETENSÃO DA ACP (fl. 691).
+É o sucinto relatório.
+A questão debatida nos autos - definir se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário (in re ipsa) - encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento, sob o rito dos recursos repetitivos, dos REsps 1.912.668/GO e 1.914.458/PI, da relatoria do Ministro Humberto Martins (Tema 1.096).
+Diante do exposto, reconsidero a decisão de fls. 691/706 e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão em questão, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
