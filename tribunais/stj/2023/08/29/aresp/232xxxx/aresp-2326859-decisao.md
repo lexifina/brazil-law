@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO ITAUCARD S.A. contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO.
+Acolhimento da pretensão inaugural, tornando definitiva a liminar de busca e apreensão. ALIENAÇÃO FIDUCIÁRIA.
+MORA. Não comprovação, nos termos do art. 2º, §2º, do Decreto-Lei nº 911/1969. Notificação não recebida pelo devedor ou por terceiro no endereço declinado no contrato.
+Motivo: "AUSENTE". Não presentes os requisitos legais para a busca e apreensão, a ação deve ser julgada IMPROCEDENTE. DEVOLUÇÃO DA RES. Cassada a liminar, caberá à instituição financeira promover a devolução do automóvel apreendido, devendo o D. Magistrado a quo tomar as medidas coercitivas para tanto. MULTA. A apelada responderá pelo pagamento da multa de 50% do valor originariamente financiado, nos termos do art. 3º, § 6º do Decreto-Lei nº 911/69. SUCUMBÊNCIA. Inversão.
+RECURSO PROVIDO."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 2º, §§ 2º e 3º do Decreto-Lei 911/1969; 113 e 422 do CC; e 319, 320 e 1.022, II, do CPC/2015, defendendo, além de negativa de prestação jurisdicional, a regular constituição em mora do devedor, com base na notificação extrajudicial enviada ao endereço indicado no contrato, mas devolvida pelo motivo "ausente". Asseverou que "não pode ser imputado ao credor fiduciário a desídia do devedor em informar endereço onde não poderia se encontrado".
+Contrarrazões apresentadas às fls. 175-186 (e-STJ).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+A Segunda Seção do Superior Tribunal de Justiça, por ocasião do julgamento dos REsps 1.951.662/RS e 1.951.888/RS em 9/8/2023, definiu a seguinte tese para o Tema 1.132 dos Recursos Repetitivos, acórdão pendente de publicação:
+"Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiro."
+No caso dos autos, o Tribunal de origem extinguiu a ação de busca e apreensão, com fundamento na ausência de constituição em mora do devedor, porquanto a notificação extrajudicial enviada por carta ao endereço constante do contrato não foi entregue, devido à ausência do destinatário.
+Desse modo, constatada a divergência entre o acórdão recorrido e o atual entendimento qualificado desta Corte Superior, é impositivo o provimento do recurso especial.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de declarar a constituição em mora da parte agravada, determinando o retorno dos autos ao Tribunal de origem para o prosseguimento do julgamento das razões recursais de apelação remanescentes.
+Publique-se.
+EMENTA
