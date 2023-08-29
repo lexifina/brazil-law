@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICÍPIO DE SOROCABA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AÇÃO RESCISÓRIA  PRETENSÃO DE DESCONSTITUIÇÃO DE V. ACÓRDÃO QUE RECONHECEU O DIREITO DE OCUPANTES DE CARGOS COMISSIONADOS AO PERCEBIMENTO DA GRATIFICAÇÃO DE FUNÇÃO INSTITU DA PELAS LEIS MUNICIPAIS 4.471/94 E 4.472/94  ARTIGO 485, INCISOS V E IX, DO CÓDIGO DE PROCESSO CIVIL -IMPOSSIBILIDADE. 1. Matéria preliminar afastada. 2. No mérito, a ação rescisória não pode ser utilizada como sucedâneo de recurso. 3. Inocorrência de violação flagrante e direta do v. aresto rescindendo com relação às normas jurídicas indicadas na petição inicial. 4. Inocorrência de erro de fato. 5. Litigância de má-fé da parte autora não caracterizada. 6. Ação rescisória julgada improcedente, condenando a parte autora ao pagamento dos ônus sucumbenciais" (fl. 2.495e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, , da Constituição Federal, a parte ora agravante aponta violação aos arts. 485, V e IX, do CPC/73, assim como ao art. 2º da LINDB.
+Para tanto, sustenta:
+"Em que pesem os claros termos legais, o v. acórdão rescindendo desprezou esta inarredável interpretação, pelo que incorreu em violação contra  iteram da norma. Assim, o julgado rescindendo afrontou as disposições do artigo 20, da Lei de Introdução ao Código Civil, ao prover pedido de pagamento de verba de" gratificação instituída pelas Leis Municipais 4.472/94 e 4.471/94.
+Dessarte, a ação rescisória foi ajuizada com fundamento nos termos do artigo 485, inc. V, do Código de Processo Civil, por violação a literal disposição de lei.
+(..)
+Ao firmar esse entendimento, o C. Tribunal de Justiça do Estado de São. Paulo declarou o sentido da Lei 4.472/94, assentando que seu escopo foi conceder verba de gratificação a funcionários, porém seus efeitos cessaram com a edição da. Lei 4.816/95, que trouxe nova reformulação nos vencimentos dos servidores.
+Desta forma, como o v. acórdão rescindendo firmou decisão em sentido diverso do fixado pela jurisprudência dominante, caracterizada está a violação literal de norma.
+(..)
+Ficou demonstrado nos autos que o v. julgado desprezou a mens legis que afirmava expressamente que o propósito da Lei 4.816195 foi reformular toda a sistemática dada pela Lei 4.472194.
+Há que se consignar que a prova da errônea exegese da norma feita pelo D. Julgador não ocorreu apenas buscando a mens legis. O Município ainda o fez demonstrar mediante outros métodos de interpretação, quais sejam: o teleológico e o da repercussão concreta de seus efeitos.
+Esta situação caracteriza erro contra literam porque o v. acórdão rescindendo transgrediu princípio geral de direito (artigo 2º, da LICC), desprezando a aplicação de outros métodos de interpretação que se mostravam mais eficazes para traduzir a norma e aplicá-la ao caso concreto" (fls. 2516/2520e).
+Por fim, requer o provimento do Recurso.
+Contrarrazões a fls. 2552/2566e.
+Inadmitido o Recurso Especial (fls. 2616/2617e), foi interposto o presente Agravo (fls. 2628/2636e).
+Contraminuta a fls. 2649/2657e.
+Conheço do Agravo, porém o Recurso Especial não merece conhecimento.
+Na origem, trata-se de Ação Rescisória ajuizada pela parte ora recorrente, em que sustentou que "o v. acórdão rescindendo, proferido pela Egrégia 4a Câmara de Direito Público, Relator o Eminente Desembargador Viana Santos, violou a literalidade da Lei Municipal nº 4.816/95 e, também, do artigo 2º, § 10, da LINDB, porquanto não reconheceu a revogação tácita com relação às Leis Municipais nº 4.471/94 e 4.472/94; b) inconstitucionalidade das Leis Municipais 4.471/94 e 4.472/94, por ofensa aos artigos 37, XIV e 115, XVI, respectivamente, da Constituição Federal e Estadual; c) apenas tem direito à gratificação os servidores municipais de carreira que, no período de 1995 a 2001, exerceram cargo em comissão, nomeados pelo Chefe do Poder Executivo" (fls. 2.495/2.496e).
+A ação foi julgada improcedente.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, observa-se que o art. 2º da LINDB ostenta comando genérico ("Art. 2º. Não se destinando à vigência temporária, a lei terá vigor até que outra a modifique ou revogue"), insuficiente para infirmar as conclusões do acórdão regional, carecendo, portanto, de fundamentação o apelo nobre, a atrair a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com efeito, segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Nesse sentido: STJ, AREsp 1.859.714/RS, Rel. Min. HUMBERTO MARTINS, DJe de 11/06/2021; AREsp 1.852.567/RJ, Rel. Min. HUMBERTO MARTINS, DJe de 11/06/2021, AREsp 1.850.315/RS, Rel. Min. HUMBERTO MARTINS, DJe de 11/06/2021, entre outros.
+No mais, observa-se que a questão foi decidida pelo Tribunal de origem mediante análise de legislação local, qual seja, Leis Municipais 4.471/94, 4.472/94 e 4.816/95. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 4.994/95. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no AREsp 1.170.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
+ EMENTA
