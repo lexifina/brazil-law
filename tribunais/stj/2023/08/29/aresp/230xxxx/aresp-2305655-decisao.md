@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSVALDO LACERDA CAVALCANTI contra a decisão proferida no âmbito do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal em razão de sua intempestividade.
+Depreende-se dos autos que o agravante foi condenado à pena de 1 ano, 4 meses e 24 dias de reclusão, em regime inicial semiaberto, por incursão no art. 155, caput, do Código Penal, porque, "no dia 24 de dezembro de 2018, no período da noite, na Avenida do Contorno, 677, apto. 2C, Areão, nesta cidade e comarca de Taubaté, subtraiu para si coisa alheia móvel, consistente em uma bicicleta da marca Sundown, aro 26, cor branca, pertencente à vítima Orlando Rosa Júnior, avaliada em R$ 200,00" (e-STJ fl. 222).
+A Corte de origem negou provimento ao apelo defensivo, em acórdão assim ementado (e-STJ fl. 289):
+FURTO - RECURSO DEFENSIVO: PENA - PLEITEADA A FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL - MAUS ANTECEDENTES CONSISTENTES EM CONDENAÇÃO ANTERIOR PELO DELITO DO ART. 28, DA LEI 11.343/06 - INFRAÇÃO DE MENOR POTENCIAL OFENSIVO SEM COMINAÇÃO DE PENA PRIVATIVA DE LIBERDADE - OBSERVÂNCIA DO PRINCÍPIO DA PROPORCIONALIDADE -AFASTADO O REFERIDO REGISTRO CRIMINAL COMO VETOR NEGATIVO NA DOSIMETRIA - APONTAMENTOS CRIMINAIS SOBRESSALENTES, TODAVIA, QUE JUSTIFICAM A MANUTENÇÃO DOS MAUS ANTECEDENTES E DAS FRAÇÕES DE AUMENTO DEFINIDAS EM PRIMEIRO GRAU - RECURSO IMPROVIDO.
+Nas razões do recurso especial, sustenta a Defensoria Pública estadual, em síntese, violação ao art. 617 do Código de Processo Penal, ao argumento de que, em recurso exclusivo da defesa, a Corte estadual suplementou os fundamentos da sentença e negativou circunstância judicial não desabonada em primeiro grau, agindo, portanto, em reformatio in pejus.
+Contrarrazões às e-STJ fls. 322/330.
+Inadmitido o apelo extremo em razão de sua intempestividade (e-STJ fl. 333), o recurso subiu a esta Corte por meio do presente agravo.
+Contraminuta às e-STJ fls. 345/346.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 361):
+PROCESSO PENAL. AGRAVO INTEMPESTIVO.
+1. "Em matéria criminal, é extemporâneo o agravo de instrumento interposto fora do prazo de 5 dias previstos no art. 28 da Lei 8.038/90."
+2. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que não se aplicam as regras introduzidas pelo Novo Código de Processo Civil, referentes à contagem dos prazos em dias úteis e ao prazo de 15 dias, ao agravo que impugna decisão monocrática em matéria penal e processual penal nos Tribunais Superiores.
+- Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Por oportuno, cumpre transcrever os seguintes trechos da decisão que inadmitiu o recurso especial, in verbis (e-STJ fl. 333; grifei):
+O reclamo é extemporâneo.
+Consoante se depreende de fls. 306, foi aberta vista à Defensoria Pública, através do portal eletrônico, para ciência do aresto aos 06 de abril de 2022 e, diante da não leitura, o prazo para interposição iniciou-se em 17 de abril de 2022, nos termos do artigo 5º, § 3º, da Lei nº 11.419/06, e não como certificado às fls. 309. Já o recurso foi protocolado apenas em 17 de maio de 2022 (fls. 310/318).
+Dessa forma, verifico que o inconformismo foi apresentado após decorrido o prazo legal, conforme o § 5º, do artigo 1.003, e artigo 186, § 1º, ambos do Código de Processo Civil, além dos artigos 5º, § 5º, da Lei nº 1.060/50, 128, I, da Lei Complementar nº 80/94, 5º, § 3º, da Lei nº 11.419/06.
+Ante o exposto, não preenchido requisito exigido, NÃO ADMITO o recurso especial. Procedidas as anotações de praxe, devolvam-se os autos à origem, a qual deverá providenciar a regularização da certidão de fls. 309, nos termos acima mencionados.
+Compulsando os autos, verifico que o acórdão recorrido foi considerado como transitado em julgado, diante do transcurso do prazo in albis para as partes recorrerem em 25/5/2022 (certidão de e-STJ fl. 319). Intimada eletronicamente a Defensoria Pública em 7/4/2024 (quinta-feira - e-STJ fl. 303), tendo o dia subsequente (sexta-feira - 8/4/2022) como dies a quo, teria findado o prazo em dobro para recorrer em 2/5/2022 (segunda-feira), primeiro dia útil após o dia final (1º/5/2022 - domingo). Todavia, o recurso especial foi protocolado apenas em 17/5/2022 (terça feira - e-STJ fl. 310), após escoado o prazo legal.
+Sem adentrar na questão da intimação ficta da Defensoria Pública, que não leu a intimação eletrônica do dia 6/4/2022, como mencionado na decisão acima; da análise dos autos, observo que o próprio agravo em recurso especial é intempestivo. Isto, porque, conforme certidão de e-STJ fl. 334, a decisão de inadmissibilidade do recurso especial foi disponibilizada em 8/9/2022 (quinta-feira) e considerada publicada em 9/9/2022 (sexta-feira), de modo que o início do prazo para o agravo se deu em 12/9/2022 (segunda-feira) e findou em 21/9/2022 (quarta-feira), tendo sido protocolado somente em 23/9/2022 (e-STJ fl. 338), ou seja, após o dobro do quinquídio legal.
+Assim, mesmo que não se analise a (in)tempestividade do recurso especial em razão da intimação ficta, o caso é de não conhecimento do próprio agravo em recurso especial, diante de seu protocolo extemporâneo.
+Ante o exposto, acolhendo o parecer do Parquet Federal, nego conhecimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
