@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/08/2023 a 29/08/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ENERGIA ELÉTRICA. EMBARGOS DE DIVERGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 315/STJ.
+I - Na origem, trata-se de ação ordinária, objetivando a cobrança de fatura de energia elétrica. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para deferir ao apelante os benefícios da gratuidade da justiça.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão agravada. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça: AgInt nos EDcl nos EDv nos EREsp 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020. Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que indeferiu liminarmente embargos de divergência interpostos contra acórdão, em razão de divergência com julgamento proferido pela Segunda Turma deste Superior Tribunal de Justiça, assim resumido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Lá no julgamento da ação originária, a agravante já combateu a abstenção do juízo a quo de apreciar fato notório (CPC art. 374 I), porquanto a empresa de luz concordou de que não se tratava de faturas de consumo de energia elétrica e que tais "faturas" foram extraídas de ação judicial já em curso.
+A relutância da agravante invoca do direito constitucional de que todos sejam tratados de igual forma (CF art. 5º caput), reforçado pela Lei Consumerista que protege o consumidor hipossuficiente, como in casu.
+Enquanto a agravante se subsistiu do conceito constitucional da ampla defesa e do contraditório, e que, ainda, se trata de matéria de ordem pública, os julgamentos, como um todo, se desvencilharam da obrigação constitucional de oferecer ao cidadão o livre acesso ao judiciário, que, diga-se, na forma do artigo 37, da Constituição Federal.
+Então, se por um lado, os julgamentos não identificaram "quaisquer resquícios" por parte da agravante (CPC art. 373, II), o mesmo tratamento não foi dado à concessionária de luz, que não hesitou em concordar que as "faturas" cobradas na presente ação não se tratam da efetiva prestação de serviço e as quais já são alvos de ação judicial em curso.
+Portanto, indubitavelmente, está-se diante da imparcialidade das partes e de tratamento desigual.
+Contudo, a agravante, incansavelmente, vem relutando pela desigualdade que lhe fora imposta.
+Mas, não é que a agravante reivindica a reapreciação do histórico das respectivas "provas" encartadas pela concessionária, porque isso já restou superado eis que a empresa de luz comutou a respeito de não se tratar de efetiva prestação de serviço de energia elétrica.
+O que de fato se extrai do contexto é que não constam decisões a respeito da inviabilidade do curso da ação principal enraizada de vício insanável, ou melhor, da ausência de prova efetiva de que a empresa de luz está cobrando por serviços prestados.
+Por conta disso, vênia, repisando, não foi dada à agravante o mesmo tratamento acerca das condições da ação e isso interferiu negativamente no curso processual, porque admitiu-se prova inexistente.
+Pensando nesse sentido, ausente decisão sobre a patente existência de matéria de ordem pública, é perfeitamente cabível se admitir a ausência de prestação jurisdicional, consequentemente, violação do art. 1.022, II, do CPC, e art. 93, X, da Constituição Federal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ENERGIA ELÉTRICA. EMBARGOS DE DIVERGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 315/STJ.
+I - Na origem, trata-se de ação ordinária, objetivando a cobrança de fatura de energia elétrica. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para deferir ao apelante os benefícios da gratuidade da justiça.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão agravada. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça: AgInt nos EDcl nos EDv nos EREsp 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020. Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação específica dos fundamentos da decisão agravada. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
