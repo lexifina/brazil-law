@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE GOIÂNIA contra decisão monocrática de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SEGURO-GARANTIA. POSSIBILIDADE. LEI 13.043/2014. SÚMULA 83/STJ. AGRAVO EM RECURSO ESPECIAL DA MUNICIPALIDADE A QUE SE NEGA PROVIMENTO. (fl. 448).
+Em suas razões, a parte agravante alega que não há equivalência entre o seguro-garantia e o depósito em dinheiro, não podendo o executado valer-se do seguro-garantia para garantir a execução fiscal e suspender a exigibilidade do crédito, em detrimento da ordem legal de preferência de garantias prevista no art. 11 da Lei 6.830/80. Aduz ser possível a recusa, pelo exequente, do pedido de substituição da penhora quando não observada a ordem legal, tendo em vista inexistir a preponderância em abstrato do princípio da menor onerosidade para o devedor sobre o da efetividade da execução.
+Requer,  desse modo, a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+É o relatório.
+A questão debatida nos autos, qual seja, "Definir se a oferta de seguro-garantia ou de fiança bancária tem o condão de suspender a exigibilidade de crédito não tributário ", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos Recursos Especiais 2.037.317/RJ, 2.007.865/SP, 2.037.787/RJ, 2.050.751/RJ, de relatoria do Ministro Herman Benjamin, sob o rito dos recursos repetitivos (Tema 1.203/STJ).
+Pelo exposto, reconsidero a decisão de fls. 448/452, julgo prejudicado o agravo interno de fls. 456/469, e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
