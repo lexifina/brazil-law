@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por BANCO DO BRASIL SA contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 61):
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA C/C CANCELAMENTO DE HIPOTECA. RECURSO DO RÉU. 1) IMÓVEL DADO EM GARANTIA HIPOTECÁRIA PELA CONSTRUTORA À INSTITUIÇÃO FINANCEIRA. QUITAÇÃO DO PREÇO DO BEM POR PARTE DO CONSUMIDOR. HIPOTECA SEM EFICÁCIA PERANTE O COMPRADOR DO IMÓVEL. INTELIGÊNCIA DA SÚMULA 308, DO STJ.
+O Superior Tribunal de Justiça, em voto do então Ministro Carlos Alberto Menezes Direito, no REsp n. 296.453, julgou ser "nula, por abusiva (CDC, art. 51, inc. VIII), a cláusula- mandato inserida no instrumento de compromisso de compra e venda, segundo a qual o promissário-comprador autoriza a construtora (promitente-vendedor) a instituir, em favor de terceiro (agente financeiro), hipoteca sobre o imóvel." Ainda, consoante a Súmula 308, do Superior Tribunal de Justiça, "a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel".
+2) PLEITOS SUCESSIVOS DE SUSPENSÃO DOS EFEITOS DA HIPOTECA, PRESTAÇÃO DE CAUÇÃO E SUBSTITUIÇÃO DA GARANTIA. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO NOS PONTOS.
+INTERLOCUTÓRIA MANTIDA.
+3) HONORÁRIOS RECURSAIS. DESCABIMENTO NA HIPÓTESE. RECLAMO DERIVADO DE DECISÓRIO SEM FIXAÇÃO DA VERBA.
+RECURSO CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 318-324.
+Nas razões do recurso especial (fls. 347-378), a parte recorrente alega ofensa aos arts. 1.022 do CPC/2015, à Lei n.13.097/2015, ao art. 1.475 da Lei nº 10.406/2002 e ao artigo 31-a, § 3º, da lei 4.591/64. Sustenta, em síntese, que: a) o acórdão estadual padece de omissão; e b) "em se tratando de contrato bancário firmado com a finalidade de fomentar a atividade comercial exercida pela construtora, o Banco figura na condição de cedente do crédito ou emprestador do dinheiro, e, de outro lado, construtora, como tomadora do crédito ou dinheiro emprestado. Portanto, inaplicável ao caso a Súmula 308 do STJ, por conta do disposto na Lei 13.097/2015, já que o Recorrido tinha pleno conhecimento da possibilidade de a incorporadora contratar financiamentos, o que lhe permitiria antever eventual gravame hipotecário".
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, motivo pelo qual deve ser rejeitada a alegada violação ao art. 1.022 do CPC/2015.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/05/2019, DJe 22/05/2019)
+Com efeito, sem razão à recorrente em relação à alegada ofensa à Lei n.13.097/2015, ao art. 1.475 da Lei nº 10.406/2002 e ao artigo 31-a, § 3º, da lei 4.591/64, pois a jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGISTRO DE ESCRITURAS DE COMPRA E VENDA. TERCEIROS INTERESSADOS. PRÁTICA DE ATO ATENTATÓRIO POR PARTE DA AGRAVADA. AUSÊNCIA. POSTERGAÇÃO DA MEDIDA DE URGÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ. APLICAÇÃO.
+(..)
+2. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl nos EDcl no AREsp 1633400/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2021, DJe 09/06/2021)
+Ademais, a pretensão de alterar o entendimento firmado pelo Tribunal de origem, no tocante ao preenchimento dos requisitos da tutela provisória demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
