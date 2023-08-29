@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDILSON SILVA MARTINS JÚNIOR, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 371):
+AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS. Compromisso de compra e vendade imóvel. Pretensão baseada na mora da promitente vendedora para entrega das chaves e da documentação necessária para obtenção de financiamento. Sentença de procedência em parte para condenar a ré a devolver ao autor os valores cobrados a título de juros e encargos acrescidos do saldo financiado a partir de 01.12.2008 até 31.03.2009. Data da distribuição da ação: 19/02/2009. Valor da causa: R$ 10.000,00.
+Apela o autor sustentando necessidade de fixar a data de 10.02.08, prevista para entrega das chaves, como limite inicial para correção monetária e encargos; compensação de danos morais; e majoração dos honorários advocatícios.
+Apela a ré sustentando nulidade da sentença por ser "ultra petita" quanto à condenação em restituir valores decorrentes de correção monetária; encargos impostos por disposição contratual; e inversão dos ônus da sucumbência.
+Inadmissibilidade do recurso do autor e descabimento do reclamo da ré.
+Recurso do autor. Apelação interposta antes do julgamento dos embargos de declaração. Interrupção do prazo recursal, reiniciado com a publicação da decisão integrativa. Inconformismo não reiterado. Intempestividade do apelo. Precedente desta Câmara. Recurso não conhecido.
+Recurso da ré. Inocorrente decisão ultra petita. Determinação de ressarcimento se coaduna com o pedido para que a ré responda pelos juros e encargos sobre o financiamento durante o período de sua mora. Inexistência de discussão sobre encargos contratuais. Mora da ré que impõe sua responsabilização sobre dispêndios do autor decorrentes de sua conduta desidiosa. Sucumbência resultante do princípio da causalidade, com reconhecimento da maior parte dos pedidos no curso da lide e acolhimento parcial do restante.
+Sentença confirmada. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados (fl. 459):
+EMBARGOS DE DECLARAÇÃO. FINS INFRINGENTES. PREQUESTIONAMENTO.
+Inadmissibilidade. Não merece acolhimento o recurso cujo objetivo é a modificação da decisão expressada no acórdão. Ausência de violação aos art. 460 do CPC; 421 e 422 do CC; e art. 5º, XXXV e LV, da CF; e art. 506, II, 508 e 513 do CPC.
+Embargos rejeitados.
+Afirma o recorrente que há violação do art. 5º, LV e XXXV, da Constituição Federal, porque não teria o Tribunal de Justiça observado que houve um aditamento à apelação interposta.
+Diz também que existe, além de dissídio pretoriano, violação dos arts. 506, II, 508 e 513, todos do CPC/1973, ao argumento de que equivocou-se o Tribunal de origem ao entender pela necessidade de ratificação da apelação que foi interposta antes de julgados os embargos de declaração opostos em face da sentença.
+Foram apresentadas contrarrazões (fls. 565-568).
+O recurso foi admitido na origem (fls. 570-572).
+É o relatório. Decido.
+De início, não se conhece de violação a dispositivos constitucionais, pois não é alegação própria do recurso especial, mas de recurso extraordinário.
+No mais, merece o recurso provimento.
+Com efeito, na espécie, a sentença julgou parcialmente procedente a demanda e, após os embargos de declaração, foram apenas especificadas datas, mas sem alteração da conclusão do julgamento, ou seja, continuou a sentença de procedência parcial do pedido.
+Em tal contexto, o acórdão recorrido, ao não conhecer a apelação do ora recorrente, por falta de ratificação, após o julgamento dos declaratórios em face da sentença, encontra-se em dissonância com o entendimento pacificado desta Corte sobre a questão:
+QUESTÃO DE ORDEM. RECURSO ESPECIAL. PROCESSO CIVIL. CORTE ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA. DESNECESSIDADE DE RATIFICAÇÃO. INSTRUMENTALISMO PROCESSUAL. CONHECIMENTO DO RECURSO. INTERPRETAÇÃO DA SÚMULA 418 DO STJ QUE PRIVILEGIA O MÉRITO DO RECURSO E O AMPLO ACESSO À JUSTIÇA.
+1. Os embargos de declaração consistem em recurso de índole particular, cabível contra qualquer decisão judicial, cujo objetivo é a declaração do verdadeiro sentido de provimento eivado de obscuridade, contradição ou omissão (artigo 535 do CPC), não possuindo a finalidade de reforma ou anulação do julgado, sendo afeto à alteração consistente em seu esclarecimento, integralizando-o.
+2. Os aclaratórios devolvem ao juízo prolator da decisão o conhecimento da impugnação que se pretende aclarar. Ademais, a sua oposição interrompe o prazo para interposição de outros recursos cabíveis em face da mesma decisão, nos termos do art. 538 do CPC.
+3. Segundo dispõe a Súmula 418 do STJ "é inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação".
+4. Diante da divergência jurisprudencial na exegese do enunciado, considerando-se a interpretação teleológica e a hermenêutica processual, sempre em busca de conferir concretude aos princípios da justiça e do bem comum, é mais razoável e consentâneo com os ditames atuais o entendimento que busca privilegiar o mérito do recurso, o acesso à Justiça (CF, art. 5º, XXXV), dando prevalência à solução do direito material em litígio, atendendo a melhor dogmática na apreciação dos requisitos de admissibilidade recursais, afastando o formalismo interpretativo para conferir efetividade aos princípios constitucionais responsáveis pelos valores mais caros à sociedade.
+5. De fato, não se pode conferir tratamento desigual a situações iguais, e o pior, utilizando-se como discrímen o formalismo processual desmesurado e incompatível com a garantia constitucional da jurisdição adequada. Na dúvida, deve-se dar prevalência à interpretação que visa à definição do thema decidendum, até porque o processo deve servir de meio para a realização da justiça.
+6. Assim, a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior.
+7. Questão de ordem aprovada para o fim de reconhecer a tempestividade do recurso de apelação interposto no processo de origem.
+(REsp n. 1.129.215/DF, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 16/9/2015, DJe de 3/11/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SÚMULA 418/STJ. NOVA INTERPRETAÇÃO DADA PELA CORTE ESPECIAL.
+1. "A única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior." (REsp 1.129.215/DF, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 3.11.2015).
+2. O acórdão embargado foi contrário a essa compreensão ao consignar que "a apelação interposta pela recorrida é extemporânea, uma vez que inexistente ratificação de sua apreciação dentro do prazo recursal subsequente à publicação da decisão dos embargos declaratórios".
+3. O entendimento atual da Corte Especial afasta, pois, a tese de intempestividade absoluta do recurso e estabelece que somente deverá ocorrer ratificação do recurso quando os Embargos de Declaração forem providos para alterar a conclusão do julgamento.
+4. Considerando que o escopo dos Embargos de Divergência restringe-se a fazer prevalecer a jurisprudência dominante do STJ e que não há elementos fáticos no acórdão embargado que indiquem eventual alteração da conclusão da sentença por força da decisão dos Embargos de Declaração, devem os autos retornar à Turma para que examine a pretensão do Recurso Especial relativo à intempestividade do Recurso de Apelação à luz do novo entendimento da Corte Especial (REsp 1.129.215/DF, Rel. Ministro Luis Felipe Salomão, DJe 03/11/2015).
+5. Embargos de Divergência providos.
+(EREsp n. 1.303.643/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 2/3/2016, DJe de 19/5/2016)
+Não era necessário, portanto, no caso concreto, que houvesse ratificação da apelação interposta pelo autor da demanda.
+Ante o exposto, dou provimento ao recurso especial para determinar ao Tribunal de Justiça que julgue a apelação, conforme entender de direito.
+Publique-se.
+EMENTA
