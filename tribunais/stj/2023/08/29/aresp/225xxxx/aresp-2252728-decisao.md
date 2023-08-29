@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a TOTAL LINHAS AEREAS S/A insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. AGRAVO RETIDO. REMESSA OFICIAL. NÃO CONHECIMENTO. TRIBUTÁRIO. COFINS. IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. ART. 8º, § 21, DA LEI Nº 10.865/04.
+1. A teor do disposto no § 1º do art. 523 do CPC/73, não se conhece do agravo retido quando a parte não requerer expressamente, nas razões ou na resposta da apelação, a sua apreciação pelo Tribunal.
+2. A teor do disposto no § 2º do art. 475 do CPC/73, não se conhece da remessa oficial quando o direito controvertido for de valor inferior a 60 (sessenta) salários mínimos.
+3. Não há confundir isenção fiscal com alíquota zero. Embora do ponto de vista prático gerem o mesmo resultado econômico, ou seja, o não recolhimento ou a não exigência da exação, do ponto de vista teórico-conceitual, são instituto absolutamente distintos. Enquanto a alíquota zero traduz incidência do tributo que, entretanto, por ter o legislador eleito zero como alíquota resulta em inexistência de conteúdo econômico/valorativo a beneficiar a pretensão, a isenção, por derivar de comando normativo específico, possui regramento mais rígido e sua revogação pelo ente tributante exige norma específica.
+4. Tratando-se de adicional de alíquota, este deve ser acrescido àquela prevista na legislação, sendo desnecessária a revogação da alíquota zero para a sua incidência.
+5. Sentença reformada (fl. 181).
+Nas razões de seu recurso especial, a parte ora agravante aponta violação do art. 8º, § 12, da Lei 10.865/2004 ao defender a inexigibilidade do acréscimo de 1% a título de COFINS nas operações de importação e nacionalização de produtos que tiveram a alíquota reduzida a zero por expressa previsão legal.
+A parte ora agravada apresentou as contrarrazões (fls. 212/247).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+O Tribunal de origem deu provimento ao recurso de apelação da Fazenda Nacional para reconhecer a higidez da cobrança do adicional de alíquota, fundamentando que:
+ ..  a alíquota "zero" não equivale à isenção. Ao contrário, essa alíquota traduz incidência do tributo que, entretanto, por ter o legislador eleito zero como alíquota resulta em inexistência de conteúdo econômico/valorativo a beneficiar a pretensão. Deriva de opção de política tributária do ente tributante que, em determinado momento, diante de circunstâncias econômicas específicas, pode decidir por incentivar determinado ramo da economia. A isenção, ao contrário, por derivar de comando normativo específico, possui regramento mais rígido e sua revogação pelo ente tributante exige norma específica.
+Portanto, tratando-se de adicional de alíquota, este deve ser acrescido àquela prevista na legislação, mesmo que esta esteja reduzida "a zero", como é o caso em questão (fl. 179).
+A conclusão adotada está em consonância com a jurisprudência do STJ de que "não há incompatibilidade alguma entre a instituição de adicional de 1% e a existência de norma anterior que estabelece alíquota zero para determinado bem" (AgInt no REsp n. 1.899.384/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/6/2021, DJe de 1º/7/2021.)
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ADCIONAL DE 1% (UM POR CENTO). ART. 8º, § 21, DA LEI N. 10.865/2004. AQUISIÇÃO DE AERONAVES E PEÇAS DE AERONAVES. LEGITIMIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n.10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima" (AgInt nos EREsp n. 1.896.233/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 30/8/2022, DJe de 1/9/2022.).
+3. Nos termos da Súmula n. 168/STJ, "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+4. Agravo interno não provido. (AgInt nos EREsp n. 1.897.526/MG, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 16/11/2022, DJe de 21/11/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
+EMENTA
