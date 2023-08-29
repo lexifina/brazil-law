@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interno interposto por EVIDENCE PREVIDÊNCIA S.A. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, tend o em vista a ausência de impugnação específica do fundamento adotado pelo Tribunal local concernente à incidência da Súmula n. 7 deste Tribunal.
+Nas razões recursais (e-STJ, fls. 928-939), a parte agravante afirma ter alegado, de modo específico, a inaplicabilidade ao caso das súmulas supracitadas, justificando-se, assim, a superação do entendimento manifestado pela Presidência desta Corte Superior.
+Em nova análise, verifico haver plausibilidade nas razões recursais quanto à impugnação realizada, motivo pelo qual, com fulcro no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 922-924 (e-STJ) e passo a novo exame do recurso.
+O presente recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a recorrente visa à reforma do acórdão proferido pela Trigésima Sexta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 807):
+Previdência privada. Ação revisional com pedido subsidiário de resolução do contrato. Demanda ajuizada após quase 23 anos de contribuição, em data próxima da concessão da renda, marcada para julho de 2024. Excessiva desvantagem ao consumidor. Inadmissibilidade. Inexistência de onerosidade excessiva que autorize a denúncia do plano. Risco da atividade. Recurso desprovido.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fl. 835):
+Embargos de declaração. Omissão, contradição ou obscuridade do acórdão não configuradas. Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 850-880), a recorrente apontou violação aos arts. 5º, LV, e 93, IX, da Constituição Federal; aos arts. 355, 369, 370, 371, 489, § 1º, IV, e 1.022 do CPC/2015; aos arts. 317 e 478 do Código Civil; ao art. 68 da Lei Complementar n. 109/2001; e aos arts. 4º e 6º do Código de Defesa do Consumidor.
+Alegou, em síntese, que a demanda fora julgada antecipadamente sem atender aos requisitos legais, à revelia das demais determinações legais ao julgador no que tange à análise das provas, fundamentada quanto ao deferimento das provas requeridas.
+Asseverou que a realização da perícia atuarial é necessária para a demonstração da impossibilidade de continuidade do plano de benefícios, como originalmente pactuado, em razão da onerosidade excessiva imposta à autora não apenas por alterações econômicas, demográficas e tábua biométrica defasada.
+Aduziu violação ao exercício da ampla defesa perpetrados pela instância ordinária pois, não obstante o pedido expresso de produção da prova, não houve análise do pedido por meio de decisão fundamentada.
+Argumentou a negativa de vigência do art. 1.022 do CPC/2015, porquanto houvera tão somente a confirmação da decisão que negou provimento à apelação.
+No mérito, alega que a recorrida se encontra na fase de diferimento, de forma que é autorizado à recorrente pleitear a repactuação ou a resolução contratual, uma vez que, por não ter alcançado a data de saída, não existe direito adquirido à permanência.
+Defender que "para além das mudanças ocorridas no cenário demográfico e econômico do país, foram mudanças regulatórias que impactaram sobremaneira a gestão do plano de benefícios, colocando a recorrente em situação de desvantagem e obrigando-a a constituir provisão com critérios totalmente inadequados" (e-STJ, fls. 872-873).
+Não foram apresentadas as contrarrazões (e-STJ, fl. 884).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 885-888), o que ensejou a interposição do presente agravo (e-STJ, fls. 891-914).
+Brevemente relatado, decido.
+De início, são cabíveis os embargos de declaração somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Na hipótese dos autos, aduz o recorrente que, quando do julgamento dos embargos de declaração, a Trigésima Sexta Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve-se silente quanto às questões suscitadas nos embargos oposto, in casu, o cerceamento de defesa ante o indeferimento do pedido de produção de prova.
+Tal circunstância impõe o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.810/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Ante o exposto, conheço do agravo, mediante juízo de reconsideração, para dar provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Prejudicada a análise das demais questões.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. PREVIDÊNCIA PRIVADA. APELAÇÃO CÍVEL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. OMISSÃO. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
