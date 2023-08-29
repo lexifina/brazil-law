@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por NELSON MOREIRA DE LIMA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná proferido nos autos de ação de prestação de contas e assim ementado (fls. 1.302-1.303):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA EM APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. IMPUGNAÇÃO INTEMPESTIVA ÀS CONTAS. PRECLUSÃO. ACOLHIMENTO DAS CONTAS PRESTADAS PELO RÉU. INTERPOSIÇÃO VIA FAC-SÍMILE. TRANSMISSÃO INCOMPLETA.
+1. Cabe ao autor, ao se manifestar sobre as contas prestadas pela instituição financeira, impugná-las tempestiva e fundamentadamente, detalhando os lançamentos a débito e crédito que não considera legítimos, com a indicação de datas, códigos e valores, sendo ônus seu demonstrar, além disso, mesmo que por amostragem, a cobrança de juros e a capitalização deles em desacordo com a lei e/ou o contrato, pois não se admite impugnação intempestiva ou genérica.
+2. A interposição de petição via fac-símile somente pode ser reputada válida se o ato for transmitido de forma completa e regular.
+3. Em sede de agravo interno (art.557, §1º do CPC), cabe ao agravante tentar demonstrar que o caso concreto não admitia a decisão isolada.
+RECURSO CONHECIDO E DESPROVIDO.
+Os dois embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, o recorrente sustenta violados os arts. 130, 131, 915, § 3º, e 917 do CPC de 1973 e 3º, 5º, 6º e 7º do CPC de 2015.
+Alega que, nada obstante a intempestividade da impugnação às contas apresentadas, "o magistrado não está obrigado a acolher as contas da instituição de crédito de plano", pois, "em virtude dos poderes que lhe confere o art. 130 do CPC/73,  ..  pode, determinar a realização de perícia nos autos", já que é "o destinatário das provas, nos termos do art. 131 do CPC/73" (fl. 1.444) .
+Aduz que, "no julgamento das contas, nos termos do art. 915 do CPC/73, incumbe ao magistrado verificar a necessidade de produzir as provas, pois como diz o artigo em seu parágrafo terceiro, as contas serão: "julgadas segundo o prudente arbítrio do juiz" (fl. 1.444).
+Pondera que não foi conferido tratamento paritário às partes, visto que a intempestividade na apresentação das contas pela instituição financeira foi superada e a intempestividade na apresentação da impugnação às contas não, o que resulta em violação do art. 7º do CPC de 2015.
+Afirma que buscou o prequestionamento dos dispositivos via declaratórios, que foram indevidamente rejeitados.
+A parte recorrida ofereceu impugnação às fls. 1.464-1.470.
+Admitido o apelo extremo (fls. 1.482-1.484), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido .
+O recurso tem origem em ação de prestação de contas na sua segunda fase.
+O Juízo singular considerou boas as contas apresentadas pelo requerido, ao fundamento de que fora a única a observar a forma mercantil preconizada pelo art. 917 do CPC.
+A decisão foi mantida em apelação, mas por fundamento diverso, pois o Tribunal a quo considerou preclusa a oportunidade para impugnação das contas apresentadas pela instituição financeira em razão de sua intempestividade, o que atrairia o mesmo efeito da revelia. Registrou que a impugnação enviada por fac-símile somente poderia ser reputada válida se o ato tivesse sido transmitido de forma completa e regular, o que não ocorrera.
+Após a rejeição de dois embargos de declaração, sobreveio a interposição do presente recurso especial, em que se apontam como violados os arts. 130, 131, 915, § 3º, e 917 do CPC de 1973 e 3º, 5º, 6º e 7º do CPC de 2015, além de dissídio pretoriano.
+O recurso especial não logra ultrapassar o juízo de admissibilidade.
+No que tange aos arts. 130 e 131 do CPC de 1973 e 3º, 5º, 6º e 7º do CPC de 2015, não se conhece do recurso especial por falta de prequestionamento, porquanto o acórdão recorrido não emitiu juízo de valor sobre os referidos dispositivos legais. Observe-se que, conquanto tais dispositivos tenham sido invocados em embargos de declaração, o Tribunal a quo não se manifestou a respeito, e o recurso especial não trouxe alegação de negativa de prestação jurisdicional (arts. 535 do CPC de 1973 e 1.022 do CPC de 2015). Incidem na espécie, pois, as Súmulas n. 282 do STF e 211 do STJ.
+No que tange ao art. 7º do CPC de 2015, vale salientar que o recorrente somente suscitou a violação do dispositivo nos segundos embargos de declaração.
+Em relação aos arts. 915, § 3º, e 917 do CPC de 1973, o Tribunal de origem concluiu que a intempestividade da impugnação às contas apresentadas pela instituição financeira enseja o acolhimento destas, porquanto: (a) o silêncio do autor é interpretado como anuência, nos termos do art. 302 do CPC de 1973; (b) a intempestividade da apresentação acarreta os mesmos efeitos da revelia; e (c) operou-se a preclusão temporal.
+Entretanto, a despeito do teor dos fundamentos desenvolvidos pelo acórdão impugnado, a parte ora recorrente, em suas razões recursais, restringiu-se a defender a impossibilidade de acolhimento das contas apresentadas pelo réu automaticamente quando intempestiva a impugnação destas, ao argumento de que nada impede o magistrado de analisar a regularidade das contas segundo seu prudente arbítrio.
+Verifica-se, portanto, que as razões recursais apresentadas deixam de infirmar, especificamente, todos os fundamentos do acórdão recorrido, bem como são insuficientes para demonstrar o desacerto do julgado combatido.
+Desse modo, a subsistência de fundamentos não atacados, aptos a manter a conclusão do acórdão recorrido, impede a admissão da pretensão recursal, conforme o entendimento cristalizado na Súmula n. 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Da mesma forma, o recurso também não prospera pela alínea "c" do permissivo constitucional, uma vez que o recorrente não se desincumbiu da demonstração da divergência, mediante o cotejo analítico dos arestos confrontados.
+Ante o exposto, não conheço do recurso especial .
+Nos termos do § 11 do art. 85 do CPC de 2015, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
