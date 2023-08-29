@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+I - AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE RECEBIMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA FIXADOS NA SENTENÇA. CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. DEVOLUÇÃO DA MATÉRIA AO TRIBUNAL.
+II - DECISÃO QUE TRANSITOU EM JULGADO. RECEBIMENTO DAS VERBAS SUCUMBENCIAIS QUE FICAM CONDICIONADAS AO DISPOSTO NO ARTIGO 98, §3º, DO CPC.
+III - RECURSO NÃO PROVIDO (fl. 25).
+Os embargos de declaração opostos foram rejeitados (fls. 43/48).
+Nas razões recursais, a parte recorrente sustenta violação dos arts. 98, § 3º, 489 e 1.022 do CPC/2015. Alega, para tanto, omissão sobre pontos essenciais ao deslinde da controvérsia, em especial acerca do fato de que o deferimento de gratuidade da justiça tem efeito ex nunc. Afirma, também, que a execução da verba honorária fixada em primeira instância não se submete à condição suspensiva de exigibilidade prevista no diploma processual, visto que foi deferida apenas em apelação, não possuindo efeitos retroativos.
+Devidamente intimada, a parte re corrida apresentou as contrarrazões (fls. 70/77).
+É o relatório.
+Inicialmente, entendo não estar configurada a violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Ressalto que o julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+É o que se observa do trecho extraído do voto condutor do acórdão recorrido (fls. 44/46):
+ ..  O embargante sustentou, em síntese, que a concessão da assistência judiciária gratuita pode ocorrer em qualquer momento processual, mas não tem efeitos retroativos, não estando as verbas anteriores a concessão condicionadas ao disposto no artigo 98, § 3º, do Código de Processo Civil (mov. 1.1 destes autos).
+Sem razão.
+Da análise dos autos, denota-se que o Recurso de Apelação n. 0000550- 57.2019.8.16.0050 foi conhecido e parcialmente provido, tão somente, para deferir o benefício da assistência judiciária gratuita (mov. 23.1 daqueles autos), nos seguintes termos:
+ ..  O recorrente requer a concessão da assistência judiciária gratuita, tendo juntado aos autos comprovante de proventos de aposentadoria, com valor líquido de menos de R$ 3.000,00 (três mil reais), o qual é inferior ao salário mínimo constitucional, o qual, segundo o Dieese, em dezembro de 2020, equivale a R$ 5.304,90 (cinco mil, trezentos e quatro reais e noventa centavos).
+Assim, demonstrada a hipossuficiência, defiro os benefícios da assistência judiciária gratuita e, dispensado o preparo, conheço do recurso interposto.
+Cinge-se a controvérsia a respeito da aplicação do princípio da causalidade.
+Pois bem. Da análise do presente caso, tenho que a r. sentença não merece reparo, pois a apelante não realizou a averbação da dissolução conjugal ocorrida em 2011 perante o Cartório de Registro de Imóveis, dando ensejo à anotação de indisponibilidade de bens em 2018, de vez que o mesmo ainda constava em nome do executado José Douglas Pinilha Montoya, dando causa, portanto, à constrição indevida.
+Com isso, ante ao princípio da causalidade, deve arcar com o ônus de sucumbência, nos termos da Súmula 303 do STJ:
+"Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+Quanto à alegação de que houve impugnação em relação a parte do pedido em que se alegou a nulidade dos atos constritivos e necessidade de citação prévia do espólio, entendo que não merece acolhimento porque, o Estado reconheceu o pedido de levantamento da constrição. A outra questão sequer foi enfrentada em sentença, diante da homologação do reconhecimento do pedido.
+Por essas razões, dou parcial provimento ao recurso, apenas para deferir os benefícios da assistência judiciária gratuita.
+Constata-se, assim, que restou reformada a decisão proferida pelo juízo a que inferiu a assistência judiciária gratuita e deferiu, tão somente, o parcelamento das quo custas processuais em 4 parcelas, nos termos do artigo 98, § 6º, do Código de Processo Civil (mov. 21.1 dos autos originários).
+Como bem ressaltado pelo ilustre relator, Desembargador Jorge de Oliveira Vargas, no julgamento do Agravo de Instrumento n. 0054498-93.2021.8.16.0000, a questão foi devolvida a este Tribunal para análise, sendo dispensado o preparo, conforme dispõe o artigo 1007, § 1º do Código de Processo Civil. Veja-se:
+ ..  O recurso foi interposto tempestivamente estando dispensado de preparo nos termos do artigo 1007, §1º do Código de Processo Civil, e não merece prosperar porque o deferimento da assistência judiciária gratuita ocorreu no julgamento do recurso de apelação, sendo que a questão foi devolvida ao Tribunal, que após a análise da documentação acostada aos autos, entendeu pela demonstração da hipossuficiência da parte ora agravada.
+Referido acórdão transitou em julgado, portanto, com acerto decidiu o juízo a quo, eis que com a concessão da gratuidade, referidas verbas ficam condicionadas ao disposto no artigo 98, § 3º, do CPC. Por essas razões, nego provimento ao recurso.
+ ..  Desse modo, a concessão, em sede de apelação, estende-se aos autos originários, estando correto o condicionamento das verbas ao disposto no artigo 98, § 3º, do Código de Processo Civil.
+Quanto ao mais assiste razão à parte recorrente.
+O entendimento assentado pelo Tribunal de origem destoa da jurisprudência consolidada nesta Corte Superior de Justiça no sentido de que a concessão de gratuidade da justiça, apesar da possibilidade de ocorrer a qualquer tempo, não tem efeitos ex tunc, de forma que não pode retroagir para suspender a exigibilidade de honorários fixados em momento anterior à concessão. A propósito:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. JUSTIÇA GRATUITA. PEDIDO DE GRATUIDADE DE JUSTIÇA DEFERIDO NO RECURSO DE APELAÇÃO. BENEFÍCIO QUE NÃO POSSUI EFEITOS RETROATIVOS. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.076. JULGAMENTO REPETITIVO (RESP 1.850.512/SP).
+
+2. O entendimento do acórdão recorrido está de acordo com o do STJ, no sentido de que o benefício da assistência judiciária gratuita, conquanto possa ser requerido a qualquer tempo, tem efeitos ex nunc, ou seja, não retroage para alcançar encargos processuais anteriores. A propósito: AgRg nos EREsp 1.502.212/SC, rel. Ministro Raul Araújo, Corte Especial, DJe de 14.6.2019; AgInt nos EAREsp 909.157/BA, rel. Ministra Laurita Vaz, Corte Especial, DJe de 26.5.2020; AgInt no AREsp 1.847.714/SE, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.3.2022; e AgInt no REsp 1.914.869/DF, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28.9.2022.
+
+5. Agravo Interno não provido. (AgInt no AREsp 2218626/PR, Segunda Turma, Rel. Ministro HERMAN BENJAMIN, DJe 04/04/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DESISTÊNCIA PARCIAL DO FEITO EXECUTIVO. CONDENAÇÃO DO DESISTENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SUBSEQUENTE PLEITO DE CONCESSÃO DA GRATUIDADE DE JUSTIÇA. EFEITO RETROATIVO DO BENEFÍCIO. INVIABILIDADE. AGRAVO IMPROVIDO.
+1. O pleito de gratuidade de justiça pode ser requerido a qualquer tempo, desde que a ação esteja em curso. Contudo, sua concessão não possui efeito retroativo para o fim de suspender a exigibilidade de eventuais honorários arbitrados anteriormente ao requerimento do benefício.
+2. Agravo interno improvido. (AgInt na ExeMS 12614/DF, Primeira Seção, Rel. Ministro BENEDITO GONÇALVES, DJe 27/11/2020.)
+Ante o exposto, dou parcial provimento ao recurso especial para determinar que o benefício de gratuidade da justiça produza efeitos a partir da data de sua concessão.
+Publique-se. Intimações necessárias.
+EMENTA
