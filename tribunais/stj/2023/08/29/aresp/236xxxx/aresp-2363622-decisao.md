@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por CLEISER ALMEIDA GOMES DOS SANTOS FILHO, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 443):
+"APELAÇÃO, DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. APELAÇÃO DA EMPRESA TRANSPORTES DALÇOQUIO LTDA. INTEMPESTIVA. REPARAÇÃO CIVIL. ACIDENTE DE TRÂNSITO. PRESCRIÇÃO TRIENAL. TERMO A QUO. EVENTO DANOSO. DECURSO DO PRAZO DE 3 ANOS EM 2010. AÇÃO PORPOSTA EM 2012. RECONHECIMENTO DA PREJUDICIAL. APELAÇÃO PROVIDA, SENTENÇA REFORMADA.
+Nos termos do art. 206, §3, V, do CC/02, prescreve em três anos, a pretensão de reparação civil.
+Tratando-se de pedido de reparação civil, consistente em danos morais e materiais, decorrentes de acidente de trânsito o prazo prescricional flui a partir do ato ilícito, ou seja, do atropelamento.
+Atropelamento de pedestre por automóvel - Prescrição da pretensão da autora - Ocorrência - Prazo trienal, previsto no art. 206, §3º, V, do CC, cujo termo inicial se dá com o evento danoso - ..Ação extinta.. (sic)."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 539-557).
+A parte recorrente alegou, nas razões do recurso especial (e-STJ, fls. 560-564), a violação dos arts. 198 c/c 3º do Código Civil de 2002; e 1.003 e 1.009 do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o recurso de apelação foi protocolado intempestivamente e que o acórdão recorrido não observou a regra de que o prazo prescricional não corrente contra menor incapaz.
+Foram apresentadas contrarrazões (e-STJ, fls. 651-662).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a deficiência de fundamentação, incidindo a Súmula n. 284/STF (e-STJ, fls. 676-677).
+É o relatório. Decido.
+Preliminarmente, no tocante aos arts. 198 c/c 3º do Código Civil de 2002, constata-se que o conteúdo normativo dos dispositivos invocados no recurso especial não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Caberia à recorrente, na hipótese, alegar violação do art. 1.022 do CPC/2015, providência, todavia, da qual não se desincumbiu.
+Dessa forma, o apelo nobre esbarra no óbice da Súmula n. 211/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Derruir as conclusões do Tribunal de piso no tocante à legitimidade passiva e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+1.1. A orientação jurisprudencial desta Casa é no sentido de que é solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de consumo, o que atrai a incidência do teor da Súmula 83/STJ 2.Nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos à manutenção do arresto recorrido , e a constatação de razões dissociadas do recurso em relação ao acórdão impugnado atraem a incidência das Súmulas 283 e 284 do STF.
+3. "Importa consignar que esta Corte Superior perfilha o entendimento de que as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no REsp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, obrigatória a incidência da Súmula 211 do STJ.
+5. O acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição. Precedentes.
+6. Relativamente ao percentual de retençãp, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.113.574/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022 - sem grifo no original).
+Em relação a intempestividade alegada, o acórdão recorrido assim se manifestou (e-STJ, fls. 445-446):
+Tempestivos e presentes os demais pressupostos de admissibilidade, conheço do recurso da BRADESCO AUTO RÉ COMPANHIA DE SEGUROS. No entanto, quanto ao recurso da empresa TRANSPORTES DALÇOQUIO LTDA. este não pode ser conhecido ante a sua manifesta intempestividade.
+A regra do artigo 1.003, §5º, do Código de Processo Civil, dispõe que a Apelação será interposta no prazo de quinze dias. Tal regra limita um dos pressupostos de admissibilidade dos recursos que é a tempestividade. Compulsando os autos, constato que a sentença foi prolatada em 17/09/2018, tendo iniciado, portanto, o prazo legal de 15 (quinze) dias para interposição do recurso, no primeiro dia útil seguinte, qual seja 18/09/2018, com previsão de termo final em 08/10/2018 (segunda-feira).
+Ocorre que, ao verificar pela data do protocolo judicial à fl. 308, a Apelação foi interposta apenas em 11/10/2018. Destarte, interposto o recurso fora do prazo, verifica-se a ausência da tempestividade, um dos "pressupostos recursais", o que implica no não conhecimento do Apelo interposto pela TRANSPORTES DALÇOQUIO LTDA. (Sem grifo no original).
+A  despeito  de  toda  a  argumentação  sobre  a ocorrência de intempestividade do recurso especial,  a parte  recorrente  não  demonstrou  de  que  forma  o  Tribunal  de  origem  teria  violado  os  dispositivos  apontados.
+Dessa  forma,  há  de  se  concluir  que  as  razões  recursais  são  dissociadas  do  conteúdo  do  acórdão  recorrido  e  não  têm  o  poder  de  infirmá-lo,  porquanto  os  fundamentos  autônomos  e  suficientes  à  manutenção  do  aresto,  no  ponto,  mantiveram-se  inatacados  e  incólumes  nas  razões  do  recurso  especial,  convocando,  na  hipótese,  a  incidência  das  Súmulas  n.  283  e  284  do  STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI STJ, conheço do agravo para não conhecer do recurso especial.
+Publiq ue-se.
+EMENTA
