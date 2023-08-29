@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ANGÊLA MARIA DE SOUZA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO REIVINDICATÓRIA. IMÓVEL URBANO. PROVA INEQUÍVOCA DA TITULARIDADE DO DOMÍNIO PELOS AUTORES. HIPÓTESE EM QUE OS MESMOS CONSTAM COMO TITULARES NO REGISTRO IMOBILIÁRIO. DEMANDADA QUE DETÉM COMPROMISSO DE COMPRA E VENDA PARTICULAR NÃO REGISTRADO, QUE GERA UM DIREITO DE CRÉDITO CONTRA O VENDEDOR DO BEM.
+INTELIGÊNCIA DO ART. 1245 DO CC. PROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO." (fl. 1.013)
+A recorrente aponta ofensa aos arts. 485 do CPC/15 e 1.228 do Código Civil, sustentando, em síntese, (a) ilegitimidade ativa para o ajuizamento da ação reivindicatória, tendo em vista que, apesar de a autora ter invocado a condição de proprietária do imóvel, confessou que vendeu o bem para terceiros e (b) a posse da recorrente é justa, pois fundada na celebração de compromisso de compra e venda com o então proprietário da coisa.
+Contrarrazões às fls. 1.062/1.064.
+É o relatório.
+Segundo constou do aresto recorrido, "restou incontroversa nos autos a existência dos pressupostos legais da reivindicatória, quais sejam, a propriedade do imóvel por parte da autora (fls. 11)" (fl. 1.015).
+Demonstrada, portanto, a propriedade do imóvel pela autora, deve-se rejeitar a tese de ilegitimidade ativa, tendo em vista que "A reivindicatória é ação real, que compete ao senhor da coisa para havê-la do poder de terceiro que injustamente a detenha. Tem por causa o domínio e se dirige ao possuidor atual, de boa ou má-fé, bastando à legitimidade ativa que o autor se diga proprietário do bem" (RO n. 10/DF, relator Ministro Castro Filho, Terceira Turma, julgado em 3/6/2003, DJ de 25/8/2003, p. 294.).
+Ademais, "A admissibilidade da ação reivindicatória exige a presença de três requisitos: a prova da titularidade do domínio pelo autor, a individualização da coisa e a posse injusta do réu." (REsp n. 1.003.305/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/11/2010, DJe de 24/11/2010.).
+Por fim, tratando-se a demanda de ação real, é inviável que a ré alegue como fato impeditivo do direito da autora o exercício de posse justa, pois, no juízo petitório, não se discute a posse das partes.
+Diante disso e tendo em vista ser incontroverso que o compromisso de compra e venda, celebrado pela recorrente, não foi submetido a registro, ela carece de direito real de aquisição, devendo ser assegurado o domínio da coisa a quem consta do registro imobiliário como legítimo proprietário.
+Anota-se, a propósito, que "A propriedade imobiliária transfere-se, entre vivos, mediante registro do título translativo no Registro de Imóveis. O direito real à aquisição do imóvel, no caso de promessa de compra e venda, sem cláusula de arrependimento, somente se adquire com o registro" (REsp n. 431.432/SP, relator Ministro Fernando Gonçalves, Quarta Turma, julgado em 14/12/2004, DJ de 27/6/2005, p. 396.).
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de 11% para 12% do valor da causa, observado o benefício da gratuidade da justiça.
+Publique-se.
+EMENTA
