@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo interposto por GALANTE IMÓVEIS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, alínea "a" , da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 218-223):
+Ação de cobrança - Comissão de Corretagem - Sentença de improcedência - Apelo da imobiliária que intermediou o negócio -- Conjunto probatório apto a demonstrar a ausência de trabalho de intermediação - Serviço não efetivado, não houve resultado útil alcançado - Remuneração indevida - Sentença mantida - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados pelo Tribunal de origem (fls. 233-236).
+No recurso especial, o recorrente alega, preliminarmente, violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, porquanto, apesar da oposição de embargos de declaração, o Tribunal de origem não teria se manifestado sobre pontos essenciais ao deslinde da controvérsia.
+No mérito, aduz que o acórdão recorrido violou o art. 725 do Código Civil, sustentando que houve a efetiva intermediação em negociação imobiliária pela aproximação das partes, concretizando o contrato celebrado e que, em razão disso, faria jus ao recebimento de comissão de corretagem.
+O recorrido não ofereceu contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 260-262), o que ensejou a interposição do presente agravo.
+O agravado não apresentou contraminuta ao agravo.
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou as questões levadas ao seu conhecimento, quais sejam, a contradição entre o depoimento da promitente compradora e informações acostadas em outros documentos, como o e-mail e a minuta de contrato.
+A propósito, destaco trechos da decisão que julgou os embargos de declaração (fls. 234-236):
+Não se vislumbram no julgado embargado os vícios apontados pela recorrente.
+No voto condutor do acórdão ora embargado ficou consignado expressamente que :
+O conjunto probatório dos autos demonstra que não houve o trabalho de intermediação realizado pela imobiliária-apelante.
+As correspondências eletrônicas (p. 43/44 e 60/65) são claras em confirmar a versão da parte ré, a rescisão de comum acordo do contrato de prestação de corretagem celebrado entre as partes (p. 8/9) se deu em razão da falta de visitas ao imóvel (p.43). Há menção de que, até dezembro de 212, não havia retorno da imobiliária autora sobre a cliente Fernanda Ferreira.
+O e-mail datado de 24 de novembro de 2012em que se discute provável minuta de contrato não especifica a qual promitente comprador se refere.
+ ..
+Os temas questionados - o depoimento da promitente compradora, as correspondências eletrônicas entre as partes e a enlagada confissão da parte ré de que a autora aproximou - interessados receberam detida, clara e fundamenta análise.
+A embargante demonstra mero inconformismo com a decisão que não atendeu aos seus anseios, utilizando-se deste recurso para o enfrentamento do que foi decidido de modo inapropriado, revelando propósito infringente apenas para buscar rediscutir o que já foi julgado
+Enfim, nestes embargos declaratórios não se verifica razão nenhuma para alteração ou complementação do julgado colegiado, nem mesmo para fins de prequestionamento.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional.
+A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional".
+Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021. (EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+Ademais, no mérito, também não merece conhecimento o apelo nobre quanto à suscitada violação do art. 725 do Código Civil, em especial quanto à alegação de que faria jus à comissão de corretagem pela execução do contrato através da aproximação das partes.
+Ocorre que as razões decisórias estão amparadas em fatos e provas, tendo sido consignado pelo Tribunal a quo que não houve a efetiva prestação do serviço de intermediação apta a ensejar a obrigatoriedade de pagamento de comissão.
+Por oportuno, reproduzo os principais trechos da decisão combatida que denotam tal entendimento (fls. 221-222):
+O conjunto probatório dos autos demonstra que não houve o trabalho de intermediação realizado pela imobiliária-apelante.
+As correspondências eletrônicas (p. 43/44 e 60/65) são claras em confirmar a versão da parte ré, a rescisão de comum acordo do contrato de prestação de corretagem celebrado entre as partes (p. 8/9) se deu em razão da falta de visitas ao imóvel (p.43). Há menção de que, até dezembro de 212, não havia retorno da imobiliária autora sobre a cliente Fernanda Ferreira.
+O e-mail datado de 24 de novembro de 2012 em que se discute provável minuta de contrato não especifica a qual promitente comprador se refere.
+O que interessa é que, ouvida a promitente compradora em juízo, Larissa de Souza Vilela, declarou que uma imobiliária, não sabendo informar se a autora, limitou-se a mostrar o imóvel, mas quando da proposta verbal, informou que o bem não estava mais à venda. Em outro momento visitando o edifício, o porteiro informou que havia um apartamento à venda e surpresa percebeu que se tratava do mesmo imóvel que havia visitado. Informou que a compra e venda celebrada com o réu se deu sem intermediação e que o abatimento no preço se deu em razão do período, aproximadamente um ano, que o réu permaneceu no imóvel após a celebração do negócio.
+Rejeitada a contradita, não há elementos objetivos que abalam a credibilidade do depoimento da testemunha.
+Registra-se que não houve a demonstração de indício de que a autora promoveu a aproximação entre os interessados, ou seja, da efetiva intermediação e do resultado útil.
+O contrato de corretagem não é de meio, é de resultado, e, se o negócio não se concluir, não haverá comissão de corretagem.
+Em suma, a sentença deu ao caso solução razoável, justa e jurídica e deve, por isso, ser mantida.
+ ..
+Nesse sentido, considerando que rever as conclusões do Tribunal de origem acerca da efetiva prestação ou não dos serviços de intermediação imobiliária e do direito à percepção à comissão de corretagem demandaria nova incursão no conjunto fático-probatório e em disposições contratuais, as razões recursais esbarram no óbice das Súmulas n. 5/STJ e 7/STJ.
+Cito precedentes:
+AGRAVO REGIMENTAL. COMISSÃO DE CORRETAGEM. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITO LEGAIS DITOS VIOLADOS. DISSÍDIO PRETORIANO NÃO CONFIGURADO. ACÓRDÃO QUE CONCLUIU PELA AUSÊNCIA DO DIREITO À COMISSÃO DE CORRETAGEM COM APOIO NO SUBSTRATO FÁTICO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é possível o acesso às instâncias superiores se não ocorreu o prequestionamento dos preceitos legais ditos violados. No caso, têm aplicação as Súmulas 282 e 356 do STF.
+2. O exame da insurgência quanto aos artigos 725 e 728 do Código Civil, demandaria o revolvimento da matéria fática na qual se apoiou o Tribunal de origem para decidir, pois, como visto, o direito à remuneração foi negado no entendimento de que a conclusão do negócio se deu pela exclusiva atuação de terceiros. Tem aplicação o enunciado n. 7 da súmula do STJ.
+3. À demonstração do dissídio pretoriano é necessário que o recorrente proceda ao confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Agravo regimental não provido.
+(AgRg no Ag n. 1.399.146/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/9/2012, DJe de 3/10/2012.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. PAGAMENTO. IMPOSSIBILIDADE. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, a modificação do entendimento adotado pelo órgão colegiado a fim de se aferir a prestação do serviço, a intermediação e suas consequências, implicaria a interpretação de cláusula contratual e a análise de fatos e provas, procedimentos inviáveis em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.982.136/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS MORAIS CONFIGURADOS DE FORMA EXCEPCIONAL. OFENSA A DIREITOS DA PERSONALIDADE QUE EXASPERAM MERO DISSABOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. COBRANÇA DE COMISSÃO DE CORRETAGEM. AUSÊNCIA DE PREVISÃO NO CONTRATO. SÚMULA 5/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a ocorrência de danos morais na espécie, tendo em vista que a demora na entrega do imóvel adquirido na planta, excepcionalmente neste caso, gerou significativa e anormal violação do direito da personalidade do promitente-comprador, em razão de transtornos que ocasionaram angústia, apreensão, intranquilidade e dificuldades.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Na hipótese, o eg. Tribunal estadual, com arrimo nas peculiaridades do caso concreto, concluiu pela inexistência de previsão no contrato quanto à cobrança de comissão de corretagem, assim como o valor não fora transcrito na cláusula descritiva do montante devido, não sendo possível a retenção dos valores pagos a título de comissão de corretagem. Para modificar esse entendimento, seria necessário analisar as cláusulas contratuais, providência incompatível com o recurso especial, a teor da Súmula 5/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.042.494/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Pub lique-se. Intimem-se.
+ EMENTA
