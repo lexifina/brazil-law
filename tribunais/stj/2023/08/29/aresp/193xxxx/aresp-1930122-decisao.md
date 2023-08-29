@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. EPI EFICAZ.
+- O uso de equipamentos de proteção individual (EPIS), nas atividades desenvolvidas não afasta a insalubridade.
+- Agravo interno do INSS não provido.
+Os embargos de declaração opostos pela autarquia foram rejeitados com aplicação de multa de 2% (dois por cento) sobre o valor atribuído à causa, devidamente corrigido, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO DO INSS REJEITADOS. NÃO CABIMENTO NA HIPÓTESE.
+1. Nenhum dos argumentos trazidos no recurso oposto condiz com os preceitos do artigo 1022 do Novo Código de Processo Civil.
+2. Embargos de declaração do INSS rejeitados.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+A Corte de origem bem analisou a controvérsia e reafirmou seus fundamentos no acórdão dos embargos declaratórios nos seguintes termos, in verbis (fls. 458-459):
+Sustenta o embargante, em síntese, que o julgado é contraditório, omisso e obscuro. Repete os argumentos expostos nas razões dos recursos anteriormente manejados. I nsurge-se com referência ao fato da decisão haver reconhecido como especial atividade(s), em que pese constar no PPP o fornecimento de EPI eficaz, bem como que viola a prévia fonte de custeio, prevista no art. 195, § 5º, da CF e artigo 125, da Lei 8213/91 e o estabelecido no julgamento do ARE n. 664.335
+No entanto, foi expressamente fundamentado no acórdão impugnado que:
+DO USO DE EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+Quanto ao uso de equipamentos de proteção individual (EPIS), nas atividades desenvolvidas no presente feito, sua utilização não afasta a insalubridade. Ainda que minimize seus efeitos, não é capaz de neutralizá-lo totalmente. Nesse sentido, veja-se a Súmula nº 9 da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais, segundo a qual "O uso de Equipamento de Proteção Individual (EPI), ainda que elimine a insalubridade, no caso de exposição a ruído, não descaracteriza o serviço especial prestado".
+Da prévia fonte de custeio.
+Coloca como condição para a concessão da benesse, o recolhimento das contribuições. Ressalte-se que o recolhimento das contribuições previdenciárias do empregado é de responsabilidade do empregador, nos termos do art. 30, I, da Lei n.º 8.213/91, não podendo aquele ser penalizado na hipótese de seu eventual pagamento a menor.
+Cabe dizer também que não há vinculação do reconhecimento da atividade especial e do ato de concessão do benefício ao pagamento de encargo tributário.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, não é cabível a imposição da multa prevista no art. 1.026 do CPC/2015, porquanto é iterativa a jurisprudência no sentido de ser indevida a imposição de multa nos primeiros embargos de declaração do acórdão objurgado, máxime quando se busca o prequestionamento de dispositivos infraconstitucionais. Incidência da Súmula 98/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. OCORRÊNCIA. NÃO APLICAÇÃO DO ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.336.026/PE. TEMA 880. MODULAÇÃO DOS EFEITOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - Inaplicabilidade à hipótese do entendimento firmado pela Primeira Seção desta Corte, em precedente submetido ao rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 880).
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração no tocante às alegadas omissões e contradição.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 em razão do mero improvimento dos Embargos de Declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 1301935/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/11/2019, DJe 29/11/2019)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REMOÇÃO DE INVENTARIANTE. OMISSÃO. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÃO RELATIVA AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1026, § 2º, DO NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal Estadual não se manifestou sobre ponto que pode influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornarem para que o tema seja analisado e solvido.
+3. É descabida a multa fixada quando opostos embargos declaratórios logo na primeira oportunidade, não podendo ser considerados protelatórios, diante do nítido caráter de prequestionamento.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1464934/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2 020, DJe 19/02/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial apenas para determinar a exclusão da multa processual.
+Publique-se. Intimem-se.
+ EMENTA
