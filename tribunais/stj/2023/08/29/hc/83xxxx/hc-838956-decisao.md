@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Bruno de Almeida Castro Sant Ana, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que negou provimento ao Agravo em Execução n. 5001059-19.2022.8.19.0500, nos termos da seguinte ementa (fl. 115):
+AGRAVO DE EXECUÇÃO PENAL. Irresignação defensiva buscando a reforma da decisão que indeferiu a aplicação da continuidade delitiva. Parecer da Procuradoria de Justiça pelo conhecimento e não provimento do recurso. Na hipótese, o apenado encontra-se em execução de pena pela prática de cinco delitos de roubo. Inviável a pretensão defensiva buscando a incidência do artigo 71 do Código Penal. A despeito do similar modus operandi e da proximidade temporal e geográfica entre os delitos patrimoniais, não evidenciada uma pluralidade de ações interconectadas por nexo circunstancial. Hipótese de condutas autônomas e isoladas, denotando a atuação habitual e profissional do agravante, ou seja, mera reiteração criminosa, não incidindo a continuidade delitiva. Aplicável, in casu,o entendimento do Superior Tribunal de Justiça,o qual aduz que "para o reconhecimento da continuidade delitiva, exige-se, além da comprovação dos requisitos objetivos, a unidade de desígnios (..) a conduta posterior deve constituir um desdobramento da anterior (Precedentes)"(AgRg no HC 406572/MS). RECURSO CONHECIDO E DESPROVIDO.
+Aqui, a defesa alega que, seja pela teoria puramente objetiva, seja pela teoria mista (objetiva-subjetivo), não há como se deixar de reconhecer a existência da continuidade delitiva. As condutas de roubo ocorreram, embora em dias distintos, dentro de um pequeno intervalo de tempo, sempre na mesma rodovia, sempre em uma das cabines de cobrança de pedágio, sempre em concurso com o mesmo parceiro, sempre embarcados em uma motocicleta, evidenciando, pelas condições de tempo, lugar, maneira de execução, uma única unidade de jurídica e de desígnios (fl. 8).
+Afirma que há um liame psicológico que sugere uma sequência entre os crimes, possivelmente obra de um único plano, fazendo com que os fatos retratem um exemplo clássico de delictum continuatum, pois aqui se cuida de uma sucessão circunstancial de crimes praticados com unidade de desígnios. (fl. 9).
+Requer, assim, a concessão da ordem, reconhecendo-se a continuidade delitiva entre os cinco crimes perpetrados pelo paciente, na forma do art. 71 do Código Penal (fl. 12).
+Informações prestadas (fls. 195/213), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 217/221).
+É o relatório.
+O Tribunal a quo manteve a decisão do Juízo da execução e afirmou que (fl. 116):
+ ..
+Na hipótese, os 5 roubos majorados, embora tenham sido praticados no mesmo local, qual seja, cabines de cobrança de pedágio da Rodovia Presidente Dutra, no bairro de São Miguel, na comarca de Seropédica, foram em datas absolutamente distintas e longínquas, isto é, 12/1/2017, 18/2/2017, 7/3/2017, 15/4/2017 e 24/4/2017.
+Conclui-se, portanto, que o ora agravante não desejava, antes do primeiro crime, praticar uma sequência de roubos majorados, mediante o mesmo modus operandi.
+Portanto, comprovada a ausência de unidade de desígnios, não constituindo o primeiro delito forma de facilitação da execução do segundo, não há que se falarem nexo de causalidade entre as referidas condutas criminosas.
+Trata-se de cinco atos criminosos totalmente distintos, oriundos de desígnios autônomos, não cabendo, portanto, falar-se em continuidade delitiva, já que a hipótese dos autos é de inegável concurso material de delitos, que constitui uma reiteração criminosa.
+Nesse sentido, é o entendimento do Superior Tribunal de Justiça e deste E. Tribunal de Justiça, in verbis:
+ ..
+De fato, a jurisprudência do Superior Tribunal de Justiça exige, além dos requisitos objetivos, liame subjetivo entre as condutas para reconhecer a continuidade delitiva, inferência extraída do art. 71 do Código Penal.
+Nesse sentido: AgRg no HC n. 659.946/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/6/2021; e AgRg no HC n. 734.409/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 31/5/2022.
+Com efeito, a inversão da conclusão a que chegou o Tribunal a quo implicaria, necessariamente, a incursão do conjunto fático-probatório, pois a instância ordinária, soberana na análise das circunstâncias fáticas da causa, concluiu não estarem presentes os requisitos .
+De acordo com a jurisprudência deste Superior Tribunal, é incabível, nos estreitos limites do remédio constitucional, maior aprofundamento na apreciação de fatos e provas constantes dos autos para a verificação do preenchimento das circunstâncias exigidas para o reconhecimento da ficção jurídica do crime continuado. (HC n. 132.550/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/12/2016, DJe 2/2/2017).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DA CONTINUIDADE DELITIVA. ART. 71 DO CP. EXIGÊNCIA DE LIAME SUBJETIVO ENTRE AS CONDUTAS. PRECEDENTES. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Ordem denegada.
