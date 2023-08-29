@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO RESIDENCIAL DONA LEOPOLDINA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado (e-STJ, fl. 440) :
+"APELAÇÃO CÍVEL. CONDOMÍNIO. AÇÃO DE COBRANÇA. JUROS DEMORA. CASO EXCEPCIONAL EM QUE OS JUROS DE MORA PREVISTOSNA CONVENÇÃO DE CONDOMÍNIO SÃO DEMASIADO SUPERIORES AOSJ UROS LEGAIS. LIMITAÇÃO. PRECEDENTE DESTE TRIBUNAL. CORREÇÃO MONETÁRIA PELO IGP-M, QUE É O ÍNDICE PREVISTO NA CONVENÇÃO E, ADEMAIS, O ÍNDICE ADOTADO POR ESTE TRIBUNAL. OS DEPÓSITOS PARCIAIS EFETUADOS AO LONGO DA AÇÃO FORAM LEVANTADOS PELA PARTE CREDORA NO CURSO DA DEMANDA,CARACTERIZANDO PORTANTO AMORTIZAÇÃO PARCIAL DO DÉBITO QUE DEVE SER CORRETAMENTE COMPUTADA NO CÁLCULO DO SALDO DEVEDOR. DESPROVIDO O APELO, NO PONTO. APELO PROVIDO EM PARTE."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 463-475).
+Em suas razões recursais (e-STJ, fls. 483-507), a parte recorrente aponta ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015; e 1.336, §1º, do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, a ausência de prestação jurisdicional e de fundamentação; e que, nos termos do art. 1.336, §1º, do CC/2002, há previsão da convenção de condomínio que o condômino que não pagar a sua contribuição ficará sujeito aos juros moratórios convencionados em 5% ao mês, sendo assim é possível a cobrança de juros moratórios superiores a 1% ao mês, desde que expressamente prefixados na convenção condominial, como no presente caso.
+Foram apresentadas contrarrazões (e-STJ, fls. 516-531).
+O recurso recebeu crivo positivo de admissibilidade na origem.
+É o relatório. Decido.
+Com efeito, segundo a orientação aqui firmada, "após o art. 1.336, § 1º, do CC/2002, é possível à convenção de condomínio a fixação de juros moratórios acima de 1% ao mês, em caso de inadimplemento das obrigações condominiais, sendo impossível a redução de tais juros com base na lei de usura, regulatória dos contratos de mútuo e inaplicável à convenção que possui a natureza de estatuto normativo ou institucional, e não de contrato" (AgInt no AgInt no AREsp n. 1.041.312/SP, Relator Ministro Marco Aurélio Bellizze, DJe de 14/6/2018).
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. JUÍZO DE RETRATAÇÃO. INCOMPETÊNCIA DO JULGADOR MONOCRÁTICO PARA RECONSIDERAR DECISÃO PROFERIDA PELA PRESIDÊNCIA DO STJ. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. VERIFICAÇÃO. SÚMULA 7/STJ. NÃO INCIDÊNCIA. REDUÇÃO DOS JUROS MORATÓRIOS PREVISTOS PELA CONVENÇÃO CONDOMINIAL MEDIANTE A APLICAÇÃO DA LEI DE USURA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O relator do agravo interno pode reconsiderar a decisão monocrática agravada proferida pela Presidência do STJ em razão da redistribuição do processo observando as regras de competência interna e de ser-lhe permitido decidir o recurso quando amparado em jurisprudência dominante (Súmula 568/STJ). Ainda que assim não fosse, eventual mácula constante na decisão monocrática fica superada, mediante a apreciação da matéria pelo órgão colegiado no âmbito do agravo interno.
+2. O prequestionamento é configurado pela análise da matéria relativa à redução dos juros moratórios estabelecidos pela convenção condominial pelo Tribunal de origem. 3. O reexame fático-probatório é dispensável quando constante do acórdão recorrido todos os elementos necessários para a decisão.
+4. Após art. 1.336, § 1º, do CC/2002, é possível à convenção de condomínio a fixação de juros moratórios acima de 1% ao mês, em caso de inadimplemento das obrigações condominiais, sendo impossível a redução de tais juros com base na lei de usura, regulatória dos contratos de mútuo e inaplicável à convenção que possui a natureza de estatuto normativo ou institucional, e não de contrato.
+Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.041.312/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2018, DJe de 14/6/2018 - sem grifo no original).
+O Tribunal de origem, ao julgar a apelação, afastou os juros de mora convencionados nos seguintes termos (e-STJ, fls. 428-436);
+Com efeito, nos termos do § 1º do art. 1.336 do CC, o condômino que não pagar asua contribuição ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os deum por cento ao mês e multa de até dois por cento sobre o débito.
+Assim, de regra, possível a cobrança de juros moratórios superiores a 1% ao mês,desde que expressamente prefixados na convenção condominial.
+Inobstante isso, há que se atentar para os percentuais estipulados, não havendojustificativa para adoção de percentuais muito superiores aos juros legais, a título de mora, queproporcionariam enriquecimento ilícito do condomínio.
+(..)
+No caso, entendo que não se justifica a aplicação de juros de 5% ao mês, comparáveisa juros remuneratórios em operações onerosas conduzidas por instituição financeiras (ou seja, feitasno intuito de obtenção de lucro). A penalidade moratória não se confunde com oportunidade delucratividade para o Condomínio. (Sem grifo no original).
+Observa-se, portanto, que o acórdão recorrido julgou em desconformidade com o entendimento desta Corte..
+Ante o exposto, com fulcro nos fundamentos acima aduzidos, dou provimento ao recurso especial a fim de sejam aplicados os juros de mora previstos na convenção condominial.
+Publique-se.
+EMENTA
