@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FELIX AUGUSTO MARINHO DOS SANTOS BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500128-84.2021.8.26.0591).
+Depreende-se dos autos que o réu foi condenado a 6 anos e 8 meses de reclusão, no regime inicialmente fechado, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 42/57).
+Daí o presente writ, no qual sustenta a defesa que "a aplicação de fração superior a 1/6 em razão da reincidência deve ser devidamente fundamentada" (e-STJ fl. 4). Requer, liminarmente e no mérito, a readequação da fração aplicada em relação à agravante da reincidência.
+Liminar indeferida (e-STJ fls. 75/76).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício (e-STJ fls. 191/198).
+É o relatório.
+Decido.
+O habeas corpus merece concessão.
+Acerca do tema, deve-se frisar que o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena em razão da incidência das agravantes e das atenuantes genéricas.
+Assim, a exasperação ou diminuição da reprimenda em razão da incidência de circunstância agravante ou atenuante deve respeitar, em regra, a fração de 1/6, salvo situações excepcionais, devidamente justificadas.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. 1) VALORAÇÃO NEGATIVA DA CULPABILIDADE. JUSTIFICATIVA IDÔNEA. 2) AGRAVANTE DECORRENTE DA QUALIFICADORA DO PERIGO COMUM. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. 3) AUSÊNCIA DE ERRO OU FLAGRANTE ILEGALIDADE. PENA APLICADA DIANTE DAS PECULIARIDADES DO CASO CONCRETO. REVISÃO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Esta Corte tem entendido que "em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta" (AgRg no REsp 1822454/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/9/2019).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.842.007/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021, grifei.)
+Nesse contexto, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado" (AgRg no HC n. 543.365/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+É o que também se depreende do julgamento do REsp n. 1.931.145/SP, no qual a Terceira Seção desta Corte assim decidiu:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS E DIREÇÃO DE VEÍCULO SEM HABILITAÇÃO. ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 309 DA LEI N. 9.503/1997, NA FORMA DO ART. 69 DO CP. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. QUEBRA DA CADEIA DE CUSTÓDIA. INEXISTÊNCIA DE IRREGULARIDADE. ALEGAÇÃO DESPROVIDA DE SUSTENTAÇÃO PROBATÓRIA. VALIDADE DOS ATOS PRATICADOS. CONDENAÇÃO COM BASE EM OUTRAS PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. DESCABIMENTO. RÉU MULTIRREINCIDENTE.
+1. Na hipótese dos autos, o Tribunal de origem expressamente afirmou não ter vislumbrado nenhuma evidência concreta de mácula às provas dos autos, inexistindo qualquer sustentação probatória na alegação da defesa; ressaltou a validade dos atos praticados, tendo-se evidenciado apenas um mero erro material, o qual não se revelou apto a tornar nula a prova produzida, tendo ainda destacado que a defesa, no momento oportuno, sequer impugnou a perícia realizada, sendo certo haver nos autos outras provas da prática delitiva. Dessa maneira, não há como acolher o pleito defensivo, nos moldes postulados, sem o necessário revolvimento fático-probatório, vedado nos termos da Súmula n. 7/STJ.
+2. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+3. No caso em exame, não se mostra possível proceder à compensação integral entre a reincidência e a confissão espontânea, tendo em vista que o recorrente possui múltiplas condenações definitivas, o que, nos termos da jurisprudência desta Corte Superior de Justiça, permite a preponderância da circunstância agravante.
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+(REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022, grifei.)
+Assim sendo, vislumbro o constrangimento ilegal sustentado, na medida em que a pena do paciente foi exasperada na fração de 1/3, na segunda fase da dosimetria, em razão de ser sua reincidência específica (e-STJ fl. 56), o que não se admite.
+Dessarte, mantidos os demais termos do apenamento e aplicada a fração de 1/6 a título de reincidência, ainda que específica, fica a reprimenda do paciente agora estabelecida em 5 anos e 10 meses de reclusão, além de 583 dias-multa.
+Ante o exposto, concedo a ordem, nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
