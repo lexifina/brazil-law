@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por MARIA HELENA MENDES PAULOS contra decisão proferida por esta Relatori a (fls. 475/482), que conheceu do agravo para dar parcial provimento ao recurso especial interposto por PETROBRAS DISTRIBUIDORA S.A., com o fim de determinar que os aluguéis previstos no contrato de sublocação sejam devidos até a data da efetiva rescisão contratual determinada pelo juízo de primeiro grau.
+Nas razões dos embargos, a recorrente aponta a concordância com os termos da decisão monocrática proferida alhures, ressaltando, todavia, que merece reparo apenas a parte final, no que diz respeito à inversão da sucumbência. Isso porque buscava, como corré, tão somente o reconhecimento da extinção da fiança que prestou no contrato de locação.
+Em outras palavras, sustenta que a decisão proferida apenas veio confirmar a extinção da obrigação da fiança dada em garantia, ocorrida em período anterior a cobrança dos aluguéis mencionados na demanda, não havendo, portanto, sucumbência em seu desfavor.
+Devidamente intimada, a parte embargada apresentou impugnação. (e-STJ, fls. 490-492)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso concreto, verifica-se que a decisão proferida anteriormente deu parcial provimento ao recurso especial interposto por PETROBRAS DISTRIBUIDORA S.A., com o fim de determinar que os aluguéis previstos no contrato de sublocação sejam devidos até a data da efetiva rescisão contratual determinada pelo juízo de primeiro grau.
+Quanto ao ponto de interesse nos presentes embargos de declaração - exoneração da fiança em favor da ora embargante -, impende consignar que a decisão ora embargada asseverou o seguinte:
+"No que tange à exoneração da fiança, defende a recorrente que o instrumento contratual firmado entre as partes previa que, no caso de alterações societárias, não caberia exoneração da fiança e, ainda que fosse possível, o fiador permaneceria responsável por 120 dias após a notificação e a indicação de novos fiadores que a substituíssem, nos termos da Lei do Inquilinato.
+Não obstante, a Corte de origem asseverou que não foi em virtude de alteração societária da sublocatária afiançada que teria ocorrido a exoneração da fiança, mas sim pela própria notificação à recorrente.
+Com efeito, compulsando os autos, é possível observar, às fls. 258-259, que a fiadora notificou a ora recorrente acerca da exoneração da fiança em 11/6/2002.
+Assim, no ano de 2002, a fiadora deixou de garantir o contrato de sublocação.
+Ademais, conforme demonstram as informações contidas nos autos do processo, a mora no cumprimento do contrato de sublocação apenas ocorreu a partir de outubro de 2004, momento em que há muito estava extinta a obrigação contratual decorrente da fiança.
+Dessa forma, não é o caso de defender-se a impossibilidade de exoneração automática da fiança pela alteração do quadro societário da sublocatária, mas sim de efetiva exoneração mediante a notificação ao locador, nos moldes do entendimento perfilhado por esta Corte Superior (..)" (fl. 480).
+Dessa forma, em virtude do entendimento acima aduzido, a ora embargante sustenta que a decisão proferida apenas veio confirmar a extinção da obrigação da fiança dada em garantia, ocorrida em período anterior a cobrança dos aluguéis mencionados na demanda, não havendo, portanto, sucumbência em seu desfavor.
+Em verdade, em consequência do provimento parcial do recurso especial, os ônus sucumbenciais foram alterados, de modo que a parte outrora agravada ficou responsável pelo importe de 70%; ao passo que a ora embargada, 30% do montante fixado na sentença.
+Conforme de clareza hialina, como se reconheceu a extinção da fiança em período anterior a cobrança dos aluguéis, é elementar que a sucumbência diz respeito apenas às partes PETROBRAS DISTRIBUIDORA S.A. e AUTOPOSTO PORTAL DE SALESÓPOLIS LTDA., e não à fiadora, consoante reconhecido desde a sentença.
+Nesse sentido, é evidente, pois, a ausência de omissão, obscuridade e contradição, apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
