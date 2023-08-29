@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Petição n. 00824237/2023 em que o Conselho Federal da Ordem dos Advogados do Brasil - CFOAB requer a sua admissão no presente feito, na condição de amicus curiae, sustentando haver interesse institucional porque envolve discussão acerca de prerrogativa de advogado (recebimento de honorários advocatícios de sucumbência).
+Sustenta que (fls. 1.251-1.252):
+ ..  "a despeito do Tema 1.076 ter sido decidido em sede de Recurso Especial Repetitivo, tem-se observado resistência por parte de alguns julgadores no que se refere à aplicação da decisão emanada pelo STJ, Tribunal constitucionalmente competente para interpretar e pacificar a aplicação da lei federal o que se revela extremamente preocupante, na medida em que algumas decisões proferidas após o julgamento do tema não se embasam em qualquer distinguishing ou fundamento previsto no ordenamento jurídico para afastar a aplicação da norma interpretada pelo STJ.
+Ocorre que, na contramão do que prevê o §3º do art. 85 e o Tema 1.076 deste e. Superior Tribunal de Justiça, tem-se aplicado o §8º do mesmo diploma legal, de forma indiscriminada, como se este fosse a regra e não a exceção legal.
+Cumpre mencionar, ainda, que se mostra temerária a flexibilização de norma legal já referendada por precedente vinculante.
+Se todo e qualquer tema envolvendo fixação de honorários de sucumbência puder ser revisto e flexibilizado com a frequência que tem ocorrido, há grave ameaça à segurança jurídica, que é justamente o que se visa preservar com a fixação de teses vinculantes pelos Tribunais Superiores.
+Nesse sentido, esta Entidade roga a esta Corte Superior que, em respeito ao princípio da segurança jurídica, ainda que os julgadores possuam entendimento pessoal divergente do que fora decidido pela Corte Especial, seja fielmente observado o cumprimento do Tema 1.076.
+O requerente ressalta, ainda, que a sanção superveniente da Lei 14.365/2022, que incluiu o §8º-A ao art. 85 do CPC/2015, deve respeitar os parâmetros impostos pelo novel comando legislativo, assegurando "uma justa fixação dos honorários advocatícios sucumbenciais" (1.252).
+É o relatório. Decido.
+De acordo com as decisões recentes este Tribunal Superior, nos recursos especiais em que se discutem honorários advocatícios de sucumbência, não há situação ensejadora da participação da Ordem dos Advogados do Brasil, na condição de amicus curiae. A propósito, entre outros, confiram os seguintes julgados: PET no REsp 1.734.957/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 23/6/2022; AgInt no AREsp 1.375.946/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe de 27/11/2020 e AgInt nos EAREsp 1.293.032/SC, Rel. Min. Laurita Vaz, Corte Especial, DJe de 26/5/2020; PET no REsp n. 2.065.648/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 09/08/2023.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intime-se.
+EMENTA
