@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por VITOR DE ASSIS VASQUES contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, apresentado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000062-84.2017.8.26.0603.
+Consta nos autos que o Agravante foi condenado como incurso no art. 33, caput, da Lei n 11.343/06, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa (fls. 535-552).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 620-629).
+A Defesa impetrou habeas corpus nesta Corte Superior (HC n. 542.940/SP), oportunidade na qual a Sexta Turma concedeu a ordem em favor do Agravante, a fim de "declarar a nulidade das provas obtidas no celular sem autorização judicial" (fl. 725).
+Em seguida, a Corte de origem promoveu novo julgamento da apelação defensiva, decidindo pela manutenção da condenação com amparo em outras provas (fls. 775-783).
+Nas razões do recurso especial, o Agravante aponta ofensa aos arts. 155, 381, 385 e 573 do Código de Processo Penal, sob argumento de que, em razão da ordem proferida por esta Corte Superior no HC n. 542.940/SP, com o desentranhamento de provas declaradas ilícitas, os autos deveriam ser remetidos ao Juízo de origem, a fim de que fosse prolatada nova sentença, assegurando-se ao Agravante o pleno exercício do direito ao contraditório.
+Pleiteia, assim, "seja modificado o v. acórdão recorrido para que seja determinado novo julgamento a ser iniciado no juízo de primeiro grau, com a prolação sentença, garantindo-se o contraditório com a manifestação prévia da defesa" (fl. 801-810).
+O recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmula n. 7/STJ e 284/STF (fls. 855-856).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 900-901).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, motivo pelo qual passo à análise do recurso especial.
+A Sexta Turma desta Corte Superior, no julgamento do HC n. 542.940/SP, sob a relatoria do Ministro NEFI CORDEIRO, concedeu a ordem de habeas corpus em favor do Recorrente, nos termos do seguinte dispositivo:
+"Ante o exposto, voto por dar provimento ao agravo regimental para declarar a nulidade das provas obtidas no celular sem autorização judicial, cujo produto deve ser desentranhado dos autos, cassando os atos de natureza decisória das instâncias de origem, a fim de que se realize novo julgamento." (Fl. 737, sem grifos no original).
+Conforme o dispositivo do julgado acima transcrito, está claro que esta Corte Superior não decretou a nulidade apenas do acórdão que julgou a primeira apelação, mas igualmente do atos decisórios proferidos em primeira instância.
+De fato, por ser inequívoco que a sentença constitui ato decisório e que ela foi cassada por esta Corte Superior, revela-se imprescindível a r enovação deste ato processual, nos termos do art. 573 do Código de Processo Penal, sob pena de haver o julgamento de apelação sem que exista nos autos sentença juridicamente válida.
+Ademais, em hipóteses semelhantes, nos quais há a alteração do conjunto fático-probatório em decorrência da exclusão de prova ilícitas, a jurisprudência do Superior Tribunal de Justiça compreende ser necessária a prolação de nova sentença, a fim de assegurar o pleno exercício da ampla defesa e do contraditório diante do novo cenário probatório.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PENAL. ROUBO MAJORADO. TESE DE NULIDADE DE PROVA EMPRESTADA. SUPRESSÃO DE INSTÂNCIA. RECONHECIMENTO FOTOGRÁFICO. NÃO CONFIRMAÇÃO EM JUÍZO. INOBSERVÂNCIA DO DISPOSTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL. NECESSIDADE DE EXCLUSÃO DA PROVA E PROLAÇÃO DE NOVA SENTENÇA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+4. Agravo regimental parcialmente provido, para declarar a ilicitude do reconhecimento fotográfico e determinar o retorno dos autos ao Juízo sentenciante para que, uma vez extirpada tal prova dos autos, seja proferida nova sentença, a qual não poderá levá-la em consideração, nem mesmo de forma suplementar." (AgRg nos EDcl no HC n. 683.105/SC, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 8/8/2023, DJe de 18/8/2023, sem grifos no original.)
+"PENAL. PROCESSO PENAL. CRIME DE TRÁFICO. INVASÃO DE DOMICÍLIO. CRIME PERMANENTE. JUSTA CAUSA NA ADOÇÃO DA MEDIDA. ELEMENTOS CONCRETOS QUE INDIQUEM FLAGRANTE DELITO. NÃO VERIFICAÇÃO. CONSENTIMENTO DO RÉU PARA INGRESSO NO DOMICÍLIO. IMPRESCINDIBILIDADE. INEXISTÊNCIA. NULIDADE DAS PROVAS RECONHECIDA. PLEITO DE REFAZIMENTO DA DOSIMETRIA PREJUDICADO.
+ ..
+5. Habeas corpus concedido para reconhecer a ilicitude das provas obtidas, anulando-as, bem como a condenação, devendo ser proferida nova sentença com base nos demais elementos de prova produzidos nos autos." (HC n. 672.393/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/9/2021, DJe de 17/9/2021, sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de cassar o acórdão estadual e determinar a remessa dos autos o Juízo de origem, o qual deverá, após a exclusão da prova declarada ilícita e a reabertura do prazo para alegações finais, proferir nova sentença, conforme entender de direito.
+Comunique-se, com urgência, ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PROVAS DECLARADAS ILÍCITAS POR ESTA CORTE SUPERIOR. NOVO JULGAMENTO. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. NOVA SENTENÇA. NECESSIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
