@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por MATHILDE SAIKALI BEDRAN - ESPÓLIO contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 280):
+- REVOGAÇÃO DE DOAÇÃO - Doadora que teve conhecimento dos fatos reputados como indignos praticados pelo donatário, tanto que ajuizou ação visando a anulação da venda de bem imóvel no ano de 2.010 - Ajuizamento da presente ação em fevereiro de 2.012, além do prazo decadencial de um ano a que se refere o artigo 559 do Código Civil - Decadência corretamente reconhecida - Sentença mantida - Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fl. 295):
+EMBARGOS DE DECLARAÇÃO - Ausentes quaisquer das hipóteses do art. 535 do CPC - Acórdão devidamente fundamentado - Caráter Infringente - lnadmissibilidade - Embargos rejeitados.
+A recorrente não se conforma com o acórdão, alegando que o termo inicial do prazo decadencial de um ano para propor ação de nulidade de doação, por ingratidão, conta-se a partir do julgamento definitivo, ou seja, do acórdão da apelação que confirmou sentença recohecendo nula a venda de um imóvel que era de propriedade da recorrente, sem o seu consentimento.
+O bem era sua única fonte de renda, pois vivia com os alugueres dele resultantes, contudo seu sobrinho, a quem fez doação, em momento anterior, de outros dois imóveis, teria alienado o imóvel que estava alugado, fazendo com que perdesse sua subsistência.
+Esse, portanto, é o ato de ingratidão e seu conhecimento, como consta do art. 559 do CC, tido como violado, somente teria ocorrido a partir do julgamento da ação que declarou nula a indigitada venda, ou, na melhor das hipóteses, a partir do trânsito em julgado.
+Diz que, tendo sido a apelação julgada em 2011, não há falar em decadência, pois a presente demanda de nulidade da doação foi ajuizada dentro do prazo de um ano, em 2012.
+Foram apresentadas contrarrazões (fls. 317-323).
+O especial não foi admitido na origem por falta de demonstração de violação de lei federal e por incidência da Súmula 7/STJ (fls. 328-329).
+É o relatório. Decido.
+As razões do agravo (fls. 322-346) impugnam os fundamentos da decisão que não admitiu o especial, recurso que passa a ser analisado.
+Colhe-se do acórdão recorrido (fls. 281-283):
+O recurso não comporta provimento, bem reconhecida a decadência do direito da autora de revogar a doação porela praticada.
+O artigo 559 do Código Civil não deixa dúvida de que a revogação da doação deverá ser pleiteada dentro de um ano, a contar de quando chegue ao conhecimento do doador o fato que a autorizar, e de ter sido o donatário o seu autor.
+Ora, do próprio relato da inicial, não há dúvidade que a autora, doadora, obteve conhecimento dos atos de ingratidão praticados pelo apelado, no mais tardar, em fevereiro de 2.010, imputando a ele a prática de ter se apropriado de imóvel que lhe pertencia, bem como de não lhe ter repassado os valores relativos ao aluguel desse imóvel, tanto que naquela data ajuizou ação visando a nulidade da venda daquele bem.
+lnsiste a autora que seria necessário aguardar o trânsito em julgado da ação anulatória mencionada para que o lapso decadencial passasse a fluir. Nenhuma razão lhe assiste em tal argumento. O prazo decadencial conta-se do conhecimento pela doadora do fato praticado pelo donatário como de ingratidão e não de eventual trânsito em julgado de ação promovida para anular a venda com extrapolação de poderes pelos mandatários. Se naquela época já tinha conhecimento a doadora do fato que julgava ter sido praticado em ingratidão, deveria ter ajuizado a ação dentro do prazo estipulado em lei e não depois. O artigo mencionado fala em conhecimento do doador de fato praticado pelo donatário que revele ingratidão e não do conhecimento judicial em outra dmeanda da existência dessa conduta. Conhecido o fato pelo doador, a ação deve ser ajuizada no interregno de um ano e não além como aqui foi proposta.
+(..)
+A decadência, portanto, corretamente reconhecida, não comportando nenhum reparo a r. sentença recorrida.
+Não há nada a reparar na transcrita fundamentação, porquanto o art. 559 do CC é muito claro ao dispor que a revogação da doação, por ingratidão, "deverá ser pleiteada dentro de um ano, a contar de quando chegue ao conhecimento do doador o fato que a autorizar, e de ter sido o donatário o seu autor."
+Não há necessidade de nenhuma interpretação do regramento, que é expresso no sentido de que o momento em que o doador tem conhecimento do ato de ingratidão é o termo inicial para o prazo decadencial de um ano.
+O Tribunal de origem, como visto, afirma, categoricamente, que a ora recorrente teria tido conhecimento do ato de ingratidão em 2010, mas o ajuizamento da ação de nulidade da doação somente ocorreu após o prazo de um ano, denotando que caducou o direito.
+Nesse sentido, fixou a sentença (fl. 240):
+Ao contrério do alegado pela autora em sua réplica, não é necessário que a demanda mencionada proposta em face do réu não seja mais passível de discussâo (trânsito em julgado), porquanto a lei exige o mero conhecimento pelo doador dos atos de ingratidão. Percebe-se que, no mínimo em 2010, a autora já tinha conhecimento dos supostos atos de ingratidâo praticados pelo réu, tanto que em tal data a autora o processou. Tendo em vista que a presente ação foi proposta em 06/02/2012, inequivocamente a pretensâo da autora decaiu.
+Não havendo, pois, de se interpretar o dispositivo legal, a irresignação tem como alvo a definição da data em que teria chegado ao conhecimento da recorrente o ato de ingratidão, o que foi constatado pelo Tribunal de origem com base nos aspectos fáticos. Chegar a uma conclusão diversa demanda revolvimento de provas, vedado pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
