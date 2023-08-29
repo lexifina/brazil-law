@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por HERCULANO VIEIRA DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO INTERPOSIÇÃO CONTRA DECISÃO QUE INDEFERIU PEDIDO DE CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. AGRAVANTE QUE NÃO DEMONSTROU CONDIÇÃO DE HIPOSSUFÍCIÊNCIA ECOUÔMICA. DECISÃO MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne ao reconhecimento do direito do recorrente ao benefício da gratuidade de justiça, uma vez que ficou comprovada sua hipossuficiência econômica, trazendo a seguinte argumentação:
+Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, o Recorrente faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de seu sustento e de sua família.
+ ..
+Nesta senda, ainda foi colacionado aos autos declaração de hipossuficiência, sendo que esta possui presunção de veracidade, juris tantum, porém esta somente poderá ser negada de plano pelo Juiz, se houver fundadas razões para tanto.
+De tal forma, não há que se falar que o Recorrente não comprovou o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Juízo a quo para indeferimento.
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do artigo 99 do Código de Processo Civil, é de que de ofício será deferida a assistência judiciária. Ademais, vale mais uma vez lembrar que o pedido de tal benefício, pode ser intentado a qualquer tempo, nos termos do § 1º do artigo 99 do Código de Processo Civil.
+Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária ao Recorrente, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades.
+(fls. 101/104).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Em que pese o disposto no § 3º do artigo 99 do Código de Processo Civil, a simples declaração de pobreza não vincula a concessão dos benefícios da justiça gratuita, e gera apenas uma presunção relativa de incapacidade da parte para o custeio processual.
+Sendo assim, era indispensável que a afirmação estivesse corroborada com inequívoca demonstração de frágil situação econômica, a ponto de ser considerado o benefício da justiça gratuita.
+Uma vez não comprovado pelo agravante o preenchimento dos requisitos para concessão do benefício, com base nos documentos juntados aos autos há que subsistir o indeferimento do pleito.
+Note-se, não há como se obter uma conclusão segura a respeito do estado financeiro do agravante, na medida em que não angariou aos autos a prova necessária para a comprovação da suposta hipossuficiência.
+Não há sequer como concluir que o agravante está desempregado, como alega, na medida em que carteira de trabalho foi juntada de forma incompleta, conforme fls. 69/71. Não foram apresentadas as páginas anteriores à página 12, as quais também contêm informações trabalhistas.
+Por sua vez, o outro documento juntado, consistente no extrato bancário de fls. 63/68, isoladamente não se revela apto para a prova da incapacidade financeira, tendo em vista a po ssibilidade de o agravante possuir outras contas, mantidas em instituições bancárias distintas.
+Além disso, não foi colacionada a declaração do imposto de renda, documento de entrega obrigatória à Receita Federal, exceto nas hipóteses disciplinadas pela lei, sem que o agravante tenha comprovado que, eventualmente, esteja inserido nessas hipóteses de dispensa legal.
+Desta forma, inexiste prova da hipossuficiência econômica, reiterando-se que não há, na sistemática introduzida pelo Código de Processo Civil/2015, a alegada dispensa de comprovação dos requisitos para a obtenção dos benefícios. Daí porque se rejeita a tese de que a justiça gratuita deve ser concedida mediante simples afirmação da parte (fls. 78/79).
+Tal o contexto , incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
