@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ESPÓLIO DE SANTO VERRI em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná.
+O feito, inicialmente, foi processado nesta Corte ainda no ano de 2017, quando emitida, em seu bojo, a decisão à fl. 702/704, negando conhecimento ao agravo em recurso especial, pois interposto na mesma petição do agravo em recurso extraordinário.
+Interposto o agravo interno (fls. 708/711), em que a parte defendeu a admissibilidade do recurso, sobreveio a decisão às fls. 736/743, por meio da qual o Em. Ministro Luís Felipe Salomão, em aparente reconsideração da decisão inicial e atendendo à ordem emitida pelo Supremo Tribunal Federal, nos autos do RE n. 632.212, determinou a suspensão e o retorno do feito ao eg. TJPR, a fim de se promover a autocomposição das partes, no prazo máximo de 24 meses.
+O feito, então, foi remetido à Corte Estadual, mas devolvido a esta Corte Superior pela decisão às fls. 748/749, a fim de se proceder ao julgamento do agravo em recurso especial interposto por ESPÓLIO DE SANTO VERRI.
+É o relatório.
+Apesar de a decisão da Presidência do STJ às fls. 702/704 ter sido reconsiderada pelo relator (natural) do feito, quando da sua distribuição, mostrou-se correta a inadmissão do agravo em recurso especial, tendo em vista que foi interposto na mesma petição do agravo em recurso extraordinário, procedimento vedado pela jurisprudência desta Corte Superior. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO, EM ÚNICA PETIÇÃO, DOS RECURSOS ESPECIAL E EXTRAORDINÁRIO. IRREGULARIDADE FORMAL. INTERPRETAÇÃO SISTEMÁTICA. AGRAVO NÃO PROVIDO.
+1. A interposição, em petição única, dos recursos especial e extraordinário viola o disposto no art. 1029 do CPC, não preenchendo os requisitos formais para a admissibilidade recursal, o que afasta a incidência do princípio da fungibilidade recursal.
+2. A disposição contida no art. 1031 do CPC, segundo a qual, Na hipótese de interposição conjunta de recurso extraordinário e recurso especial, os autos serão remetidos ao Superior Tribunal de Justiça, não significa a possibilidade de interposição dos referidos recursos em petição única, porque tal proceder significaria a interpretação desarmônica das normas previstas no Código de Processo Civil.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.286.080/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTERPOSIÇÃO, EM ÚNICA PETIÇÃO, DE RECURSO ESPECIAL E EXTRAORDINÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A interposição, em única petição, das razões do recurso especial e extraordinário viola o disposto no art. 1.029, § 6º, do CPC/2015, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas".
+2. Trata-se, portanto, de irregularidade formal, haja vista o não preenchimento dos requisitos de admissibilidade do recurso.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.521.587/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/2/2020, DJe de 14/2/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO CUMULADAS EM UMA ÚNICA PETIÇÃO. ARTS. 541 DO CPC/73 E 26 DA LEI 8.038/90, ENTÃO VIGENTES. DESCUMPRIMENTO. AUSÊNCIA DE REGULARIDADE FORMAL. RECURSO ESPECIAL NÃO CONHECIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática, publicada em 16/05/2016, que, por sua vez, julgara Recurso Especial e o respectivo Agravo, interpostos, respectivamente, contra acórdão e decisão publicados na vigência do CPC/73. Incidência do Enunciado Administrativo 2/2016, aprovado pelo Pleno do STJ em 09/03/2016 ("Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+II. No caso, o recorrente cumulou, em uma única peça, as razões do Recurso Especial e do Recurso Extraordinário, em desconformidade com o disposto nos arts. 541 do CPC/73 e 26 da Lei 8.038/90, vigentes quando da publicação do acórdão de 2º Grau e da decisão que inadmitiu o Especial.
+III. Ausente a regularidade formal, exigida pelos arts. 541 do CPC/73 e 26 da Lei 8.038/90, então vigentes, não merece censura a decisão que conheceu do Agravo, para não conhecer do Recurso Especial. Nesse sentido: STJ, AgRg no AREsp 398.176/SP, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, DJe de 29/08/2014; AgRg no REsp 1.151.399/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 10/02/2010; AgRg no REsp 745.601/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2009.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 907.262/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/11/2016, DJe de 22/11/2016.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
