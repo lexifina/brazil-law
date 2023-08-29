@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RICARDO JORGE MEDEIROS TENORIO à decisão monocrática desta relatoria de fls. 455-457 (e-STJ), que rejeitou seus embargos declaratórios anteriormente opostos.
+Em suas razões recursais, a parte embargante alega erro material da decisão embargada, consistente na adoção de premissa fática equivocada para a fixação dos honorários advocatícios sucumbenciais, devidos pelo acolhimento de exceção de pré-executividade, em 10% sobre o valor atualizado da causa, majorados para 11% em decisão proferida simultaneamente, que não conheceu do recurso da parte embargada.
+Aponta que, ao contrário do fundamentado na decisão embargada, a identidade entre o valor da causa, o débito executado e o proveito econômico ocorre apenas no momento da propositura da ação, pois o débito, do qual há liberação, não é estanque no tempo, mas se submete aos critérios de atualização previstos pelo título executivo.
+Assevera não pretender a alteração do valor da causa, mas a utilização do proveito econômico obtido no processo (valor da dívida atualizado) como base de cálculo dos honorários advocatícios, que é critério preponderante, conforme previsto no art. 85, § 2º, do CPC/2015, nos termos da tese firmada para o Tema 1.076 dos Recursos Repetitivos.
+Impugnação apresentada às fls. 467-471 (e-STJ).
+É o relatório. Decido.
+Assiste razão à parte embargante.
+Com efeito, no julgamento anterior, por equívoco, foi adotada como premissa a ocorrência de identidade entre o valor da causa da execução, o débito exequendo e o proveito econômico obtido, para fixar os honorários advocatícios em 10% sobre o valor atualizado da causa, em decorrência do acolhimento da exceção de pré-executividade, que implicou exclusão do cliente da parte embargante do polo passivo de execução do valor histórico de R$ 3.526.693,66 (três milhões, quinhentos e vinte e seis mil, seiscentos e noventa e três reais e sessenta e seis centavos).
+Entretanto, o débito exequendo continua a ser atualizado até sua satisfação ou, no caso, até a extinção da ação em relação à parte, sendo este o valor exequendo afastado correspondente ao proveito econômico obtido, critério precedente na ordem de gradação estabelecida pelo §2º do art. 85 do CPC/2015, conforme já fundamentado na decisão monocrática integrada pela anterior decisão de rejeição dos embargos de declaração.
+Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, a fim de constar como base de cálculo dos honorários advocatícios sucumbenciais devidos pela parte exequente, ora embargada, o proveito econômico obtido pela parte então executada, consistente no valor do débito exequendo atualizado até a data de sua exclusão da ação.
+Publique-se.
+EMENTA
