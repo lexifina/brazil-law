@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo manifestado em face da decisão que negou seguimento ao recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+PRELIMINAR. NULIDADE DE SENTENÇA.
+As questões trazidas à discussão foram dirimidas pelo juízo de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Não ocorre negativa de prestação jurisdicional quando o magistrado examina, de forma fundamentada, as questões que lhe foram submetidas, ainda que tenha decidido em sentido contrário à pretensão da parte.
+Preliminar rejeitada.
+CERCEAMENTO DE DEFESA.
+Nas ações revisionais, ordinariamente, a questão ventilada nos autos é exclusivamente de direito, reclamando tão somente a produção de provas documentais.
+Alegação de cerceamento de defesa afastada, tendo em vista que trata a presente demanda de ação revisional de contratos e, em decorrência disso, os elementos juntados são suficientes ao exame da controvérsia.
+NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. ART.
+489, §1º, INC. IV DO CPC. INOCORRÊNCIA.
+A sentença recorrida enfrentou pormenorizadamente os verdadeiros pontos controvertidos da lide, bem como todos os pedidos postos na inicial, concluindo apenas de forma diversa da pretendida pela parte recorrente, não havendo falar em ausência de fundamentação da sentença.
+PRESCRIÇÃO TRIENAL. INOCORRÊNCIA.
+A pretensão de revisão de cláusulas contratuais presentes desde a assinatura do contrato prescreve no prazo de dez anos, sob o amparo do art. 205 do Código Civil de 2002, cujo termo inicial se dá na data em que firmada a avença.
+Registra-se, por oportuno, que a existência de eventuais valores a serem compensados às partes em decorrência da revisão operada não tem o condão de alterar a natureza do prazo prescricional de fundo, decenal, incidente nas hipóteses de direito pessoal.
+PACTA SUNT SERVANDA. CONTRATAÇÃO DE ALTO RISCO.
+O Código de Defesa do Consumidor, através do art. 6º, inciso V, consagrou o princípio da função social dos contratos, relativizando o rigor do "Pacta Sunt Servanda" e permitindo ao consumidor a revisão do contrato não apenas por onerosidade excessiva derivada de fato superveniente, mas por abuso presente à contratação.
+O argumento de que o elevadíssimo risco de inadimplemento na contratação obriga a recorrente a enfrentar riscos maximizados na realização de seus créditos, não elide nem neutraliza a evidência de que está cobrando taxas superiores à média mensal aferida pelo BACEN. E isso a enquadra nos precedentes do STJ que consideram a ultrapassagem daquela média como indicativa da abusividade na cobrança dos encargos do empréstimo.
+A financeira que realiza empréstimos para clientes de "alto risco", assume as consequências respectivas, que não podem ser repassadas justamente para o tomador do crédito.
+EMPRÉSTIMO CONSIGNADO GAÚCHO O argumento de que a concorrência alegadamente privilegiada do Banrisul, na concessão de empréstimos consignados, obriga a recorrente a enfrentar riscos maximizados na realização de seus créditos, não elide nem neutraliza a evidência de que está cobrando taxas superiores à média mensal aferida pelo Bacen. E isso a enquadra nos precedentes do STJ que consideram a ultrapassagem daquela média como indicativa da abusividade na cobrança dos encargos do empréstimo.
+Por outro lado, não se pode afastar o pressuposto de que a recorrente, a ser verdade a alegação de que enfrenta aquela concorrência privilegiada, assumiu os riscos respectivos, que não podem ser repassados, parece óbvio, justamente para o tomador do crédito.
+Exame dos recursos, sob o enfoque do Recurso Repetitivo nº 1.061.530/RS.
+CONTRATOS FINDOS. POSSIBILIDADE DE REVISÃO.
+A possibilidade de revisão judicial de contratos findos, seja pelo pagamento, seja pela novação contratual, encontra-se sedimentada na jurisprudência brasileira, encontrando guarida a partir da exegese da Súmula nº 36 deste Tribunal e 286 do Superior Tribunal de Justiça.
+IMPUGNAÇÃO DO CÁLCULO A quantificação do valor incontroverso é estimativa sobre a pretensão do autor que, obviamente deverá ser readequada a partir da revisão operada.
+LIMITAÇÃO DOS JUROS. TAXA DO BACEN.
+O argumento de que as taxas foram livremente pactuadas, não elide nem neutraliza a evidência de que está cobrando taxas superiores à média mensal aferida pelo BACEN. E isso a enquadra nos precedentes do STJ que consideram a ultrapassagem daquela média como indicativa da abusividade na cobrança dos encargos do empréstimo.
+O paradigma do STJ, estabelece um critério único e objetivo a ser observado no exame da abusividade da cláusula de pactuação dos juros remuneratórios em todos os contratos de empréstimo.
+Por esse prisma, não se pode criticar a eleição dessa taxa média como referencial pelo STJ, eis que, a priori, não se vislumbra, por ora, outra mais adequada para operar como padrão.
+Exame dos recursos, sob o enfoque do Recurso Repetitivo nº 1.061.530/RS.
+JUROS REMUNERATÓRIOS A limitação dos juros remuneratórios nos contratos submetidos ao Sistema Financeiro Nacional depende da comprovação da abusividade, verificada caso a caso a partir da taxa média de mercado registrada pelo BACEN à época da contratação e conforme a natureza do crédito alcançado, não se caracterizando somente pelo fato da pactuação ser em percentual superior a 12% ao ano.
+Verificado que os encargos praticados no contrato ultrapassam a taxa média de mercado divulgada pelo Banco Central, cabível a sua limitação ao percentual registrado no período.
+DESCARACTERIZAÇÃO DA MORA.
+Constatada abusividade contratual nos encargos da normalidade, resta descaracterizada a mora.
+REPETIÇÃO DO INDÉBITO.
+O pagamento resultante de cláusula contratual, declarada nula em sede judicial deve ser devolvido de modo simples, e não em dobro.
+No caso de ser apurado eventual excesso, poderá ser compensado com o restante da dívida, ou, se a obrigação restar quitada, a sua devolução, de forma simples.
+Sobre o eventual saldo a ser compensado/repetido, visto que este colegiado, de forma unânime, não aplica a taxa SELIC para correção monetária, mantém-se a sentença no ponto.
+MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+O trabalho exercido pelo advogado não se restringe a peticionar, englobando diversas outras atividades e, sobretudo, responsabilidades. Assim, devem-se fixar os honorários advocatícios de forma razoável, de forma que não fira a dignidade da profissão.
+Honorários advocatícios mantidos.
+APELO DESPROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 489, § 1º, IV, VI, 927, III, 1.022, II, do NCPC, 51, IV e § 1º, III, do CDC, bem como divergência jurisprudencial, alegando isto: (I) negativa de prestação jurisdicional e falta de fundamentação; (II) inexistência de caráter abusivo dos juros remuneratórios.
+Requer, preliminarmente, a suspensão do processo ou a decretação do benefício da assistência judiciária gratuita, porquanto teve decretada sua liquidação extrajudicial.
+É o relatório. Decido.
+De início, no que diz respeito aos pleitos de suspensão processual e de concessão da justiça gratuita ante a decretação de liquidação extrajudicial, tem-se que não compete a esta Corte decretar a suspensão do processo. Ademais, para a decretação da assistência judiciária gratuita a pessoa jurídica, não é suficiente a decretação da liquidação extrajudicial, sendo necessário comprovar a precariedade da situação financeira, o que não ficou comprovado no caso.
+Nessa linha de entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO, NA HIPÓTESE. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica, ainda que em regime de liquidação extrajudicial, recuperação judicial ou sem fins lucrativos, somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.070.186/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Nos termos da orientação jurisprudencial firmada por este Superior Tribunal de Justiça, ainda que em regime de liquidação extrajudicial, recuperação judicial ou sem fins lucrativos, a pessoa jurídica deve comprovar sua situação de hipossuficiência financeira, para fazer jus aos benefícios da assistência judiciária gratuita. Incidência da Súmula 83/STJ.
+2. Incide no óbice contido na Súmula 7/STJ a pretensão voltada para superar as premissas sobre as quais se apoiou a Corte de origem, a fim de aferir o efetivo preenchimento dos requisitos necessários para o deferimento do pedido da referida benesse processual.
+3. Sendo evidente a alteração proposital e maliciosa de ementa de julgado deste Superior Tribunal de Justiça, com o nítido propósito de induzir este Colegiado em erro, há de incidir sobre a espécie a penalidade de litigância de má-fé, nos termos do art. 80, II, III e V, e 81, do CPC/15.
+4. Agravo interno desprovido, com imposição de multa por litigância de má-fé."
+(AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022 - sem grifo no original).
+Não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a
+controvérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+Quanto aos juros remuneratórios, cabe averiguar se o tão só fato destes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie no período de celebração do pacto indica a existência de abusividade.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da abusividade dos juros remuneratórios (REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009), a e. Min Relatora consignou, no que toca ao parâmetro a ser considerado para se inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+..
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, a conclusão de abusividade, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal qual entendeu o Eg. Tribunal de origem.
+Dessa feita, para considerar abusivos os juros remuneratórios praticados é imprescindível que se proceda a demonstração cabal de sua abusividade, em cada caso específico. Acerca do tema, mostra-se oportuna, ainda, a transcrição de trecho de voto proferido pelo saudoso e. Ministro Carlos Alberto Menezes Direito, (REsp 271214/RS, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro CARLOS ALBERTO MENEZES DIREITO, SEGUNDA SEÇÃO, julgado em 12/03/2003, DJ 04/08/2003, p. 216), em que, após realizar explanação bastante elucidativa acerca dos fatores implicados no cálculo da taxa de juros praticada, conclui que:
+"Com efeito, a limitação da taxa de juros em face de suposta abusividade somente teria razão diante de uma demonstração cabal da excessividade do lucro da intermediação financeira, da margem do banco, um dos componentes do spread bancário, ou de desequilíbrio contratual.
+A manutenção da taxa de juros prevista no contrato até o vencimento da dívida, portanto, à luz da realidade da época da celebração do mesmo, em princípio, não merece alterada à conta do conceito de abusividade. Somente poderia ser afastada mediante comprovação de lucros excessivos e desequilíbrio contratual, o que, no caso, não ocorreu."
+Firmadas tais premissas, tem-se que o Eg. Tribunal de origem, ao considerar abusivos os juros remuneratórios pactuados apenas em razão de excederem a taxa média do mercado, destoou do entendimento desta Eg. Corte, de forma que, ante a ausência de comprovação cabal da abusividade, deve ser mantida, in casu, a taxa de juros remuneratórios acordada.
+Diante do exposto, conheço do agravo e dou parcial provimento ao recurso especial para permitir a cobrança dos juros remuneratórios com base na taxa contratada.
+Publique-se.
+EMENTA
