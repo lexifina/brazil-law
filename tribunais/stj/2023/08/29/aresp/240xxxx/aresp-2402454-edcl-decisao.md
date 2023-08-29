@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS LEANDRO FERREIRA BATISTA à decisão de fls. 470/472, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No presente caso, o veículo voltou a concessionária várias vezes para realização dos mesmos reparos, passando mais de 30 dias somente no primeiro reparo, ferindo assim o Art. 18 do CDC, contrariando e negando vigência a lei federal, nitidamente violando o Art. 105, III, "a" da CF/88.
+Não obstante, a jurisprudência do Superior Tribunal de Justiça (STJ) pacificou entendimento, entendendo como configurado o dano moral, quando o consumidor de veículo zero-quilômetro necessita retornar à concessionária por diversas vezes para reparar defeitos apresentados no veículo adquirido." AgInt no AREsp 1844433/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/09/2021, DJe 15/10/2021, deste modo, a r. Decisão/Sentença Recorrida, deu a lei entendimento diverso de outros tribunais, violando o Art. 105, III, "c" da CF/88.
+Não obstante, se o veículo voltou a concessionaria várias vezes, para realização dos memos reparos, em que pese o livre convencimento do juiz, resta saber, se a mera alegação da parte em uma ordem de serviço, produzida unilateralmente, sem a devida comprovação técnica/pericial, desnecessita de comprovação pericial para comprovar uma suposta adulteração de combustível, sem com isso, ferir o ônus probatório de quem alega, nos termos do Art. 373, II do CPC/15, contrariando e negando vigência a lei federal, nitidamente violando o Art. 105, III, "a" da CF/88.
+ ..
+Não obstante, se o veículo voltou a concessionaria várias vezes, para realização dos memos reparos, em que pese o livre convencimento do juiz, resta saber, se a mera alegação da parte em uma ordem de serviço, produzida unilateralmente, sem a devida comprovação técnica/pericial, desnecessita de comprovação pericial para comprovar uma suposta adulteração de combustível, sem com isso, ferir o ônus probatório de quem alega, nos termos do Art. 373, II do CPC/15, contrariando e negando vigência a lei federal, nitidamente violando o Art. 105, III, "a" da CF/88
+ ..
+Deste modo, a cobrança indevida de serviços em garantia aplicou diversamente os dispostos federais do Art. 18 e 42 do CDC, destarte, a r.
+Decisão/Sentença Recorrida, contrariou e negou vigência a lei federal, dando entendimento diverso de outros tribunais, violando o Art. 105, III, "a e c" da CF/88.
+ ..
+Com a máxima vênia, a r. Decisão ora embargada resta em contradição com o Recurso Especial, isso porque, no próprio relatório, a Douta Relatora indica o Art. 105 III da CF/88 como violado, conforme foi indicado na petição (Fls. 382 a 397)
+ ..
+Vejamos ainda que, o Embargante omitiu apenas alínea "c" do Art. 105, III, da CF/88 como violada, todavia, conforme entendimento do próprio STJ, a omissão da alínea, não enseja a incidência da SÚMULA 284 do STF, sendo considerada mera irregularidade, quando a fundamentação apresentada no recurso especial permite a exata compreensão da controvérsia (fls. 479/488).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise dos autos, não se denota das razões recursais a demonstração inequívoca da hipótese de seu cabimento, razão pela qual não há qualquer vício a ser superado nestes aclaratórios, sendo certo que incide, conforme já fundamentado, o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
