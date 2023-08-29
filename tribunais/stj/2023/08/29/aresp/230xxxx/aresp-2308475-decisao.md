@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de BANCO SANTANDER (BRASIL) S.A. contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+"REVISIONAL. CONTRATOS BANCÁRIOS. CAPITALIZAÇÃO MENSAL DE JUROS. AUSÊNCIA DE PRÉVIA E EXPRESSA PACTUAÇÃO. MULTA CONTRATUAL. LIMITAÇÃO EM 2%.
+1. É permitida a capitalização mensal de juros nos contratos bancários firmados após a edição da MP nº 2.170/2001, desde que clara e expressamente pactuada (Súmula 539 do STJ). Ademais, a teor do disposto na Súmula 541 do STJ "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+2. No caso, de uma análise acurada dos termos contratuais acima transcritos, verifica-se que não foi prevista de forma clara e expressa a cobrança de juros capitalizados mensalmente. Logo, deve ser mantida a sentença no ponto em que determinou o afastamento da capitalização mensal de juros.
+3. A limitação da multa contratual em 2%, nos termos do art. 52, § 1º do CDC, alterado pela Lei n.º 9.298, de 01/08/1996, aplica-se tão somente aos contratos bancários firmados após a vigência da referida alteração legislativa. Logo, a limitação da multa contratual em 2% sobre o valor do débito aplica-se somente à nota de crédito comercial nº 011.970.00166.
+4. Em atendimento ao princípio da sucumbência, as rés devem ser condenada, pro rata, ao pagamento de honorários advocatícios sucumbenciais fixados em 10% sobre o valor do proveito econômico obtido pela parte autora com a revisão contratual. Por sua sucumbência, a parte autora deve ser condenada a pagar honorários de 10% calculado sobre a diferença entre o valor da causa e o proveito econômico obtido com a revisão contratual, a teor do disposto nos artigos 85, §§ 2º e 14 e 86 do Novo CPC." (e-STJ fl. 1757)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.1792/1796)
+Nas razões do recurso especial, o agravante alega violação do artigo 5º, da Medida Provisória Nº 2.170/01 e divergência jurisprudencial, sustentando, em síntese, que é possível a capitalização mensal de juros no contrato nº 051.0001475-8, pois o contrato revisado é posterior a 31 de março de 2000 e prevê taxa mensal de 4,50% e anual de 69,58%, sendo esta última superior à 12 vezes a mensal.
+É o relatório. Decido.
+O Tribunal de origem, no que diz respeito à alegação de que é possível a capitalização mensal de juros no contrato nº 051.0001475-8, expressamente consignou o seguinte:
+"Inicialmente, importa referir que embora tenha sidos anexado aos autos a nota de crédito comercial nº 051.0001475-8, o contrato de arrendamento mercantil nº 96/7917, o contrato de arrendamento mercantil nº 097.10.08990-4 e o contrato de abertura de crédito - Cheque Especial nº 5768/94, vinculado a conta corrente nº 011.060.0152303-4, de titularidade de Eduardo Carneiro Lobnigg, a sentença restringiu a revisão contratual, senão vejamos:
+(..)
+Logo, serão objeto de revisão somente os seguintes contratos:
+a) contrato de abertura de crédito em "conta especial empresa" nº 011.085.0140695-3, no valor de R$ 4.000,00, firmado em 20/09/1994, com prazo de 180 dias e taxa de juros fixada de 10% ao mês;
+b) nota de crédito comercial nº 011.970.00166, firmado em 17/06/1997, no valor de R$ 25.599,90, para pagamento em 10 parcelas mensais e sucessivas, com primeiro pagamento em 17/07/1997, com juros remuneratórios de 4,5% ao mês e de 69,58 % ao ano, acrescido de correção monetária pela TR;
+c) contrato de arrendamento mercantil nº 94/6505, no valor de R$ 14.925,41, firmado em 31/10/1994, para pagamento em 24 parcelas mensais e consecutivas, com correção monetária pela TR e juros remuneratórios de 4,06% ao mês:" (e-STJ fl. 1760/1761)
+Como visto, não houve análise, pela Corte de origem, do contrato contrato nº 051.0001475-8, mas apenas do contrato de abertura de crédito em "conta especial empresa" nº 011.085.0140695-3, da nota de crédito comercial nº 011.970.00166 e do contrato de arrendamento mercantil nº 94/6505.
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro em 1% sobre o valor do proveito econômico obtido pela parte autora com a revisão contratual os honorários advocatícios devidos pela parte recorrente aos patronos recorridos.
+Publique-se.
+EMENTA
