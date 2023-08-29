@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR MATHEUS LOPES DE ARAÚ JO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja ementa é a seguinte (e-STJ fls. 9.197):
+EMENTA: PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, §2º, I E IV, DO CÓDIGO PENAL). PRETENSA ANULAÇÃO DA DECISÃO DO JÚRI POR SUPOSTA CONTRARIEDADE À S PROVAS PRODUZIDAS NOS AUTOS. INSUBSISTÊNCIA. TESE ACUSATÓRIA ACOLHIDA PELO CONSELHO DE SENTENÇA. ALICERCE NO ACERVO PROBATÓRIO. EXISTÊNCIA DE ELEMENTOS CAPAZES DE SUPEDANEAR A DECISÃO DO CONSELHO DE SENTENÇA. PRIMAZIA DA SOBERANIA DO JÚRI. PRECEDENTES DO STJ E DESTA CORTE. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 564, III, do CPP. Sustenta a sustenta a ausência de provas judicializadas hábeis a amparar a decisão dos jurados.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+A quebra da soberania dos veredictos é apenas admitida em hipóteses excepcionais, em que a decisão do Júri for manifestamente dissociada do contexto probatório, hipótese em que o Tribunal de Justiça está autorizado a determinar novo julgamento.
+E, como é cediço, diz-se manifestamente contrária à prova dos autos a decisão que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório.
+Na espécie, a Corte de origem, ao decidir pela manutenção da condenação do acusado pelo delito do artigo 121, §2º, incisos I e I V, do Código Penal, consignou (e-STJ, fls. 9.198/9.199):
+No caso, diferente do que sustenta a defesa, a decisão dos jurados acolheu a tese da acusação, alicerçada no conjunto probatório., a materialidade do delito restou devidamente comprovada pelo Boletim de Ocorrência
+In casu (ID nº 16157938), laudo de exame necroscópico de ID nº 16157939, Relatório Técnico de Extração e Análise (ID nº 16157939 - págs. 43 - 50) e pelos depoimentos colhidos na fase policial e durante a instrução processual, com destaque para a confissão do acusado Magno da Silva Leones.
+Quanto à autoria, o corréu Magno da Silva Leones confessou que o crime de homicídio foi praticado por ele em conjunto com Igor Matheus Lopes de Araújo, ora apelante, a mando de Sebastião Fernando Teixeira Júnior (Id 16162074).
+Nesse sentido, constata-se que: i) Sebastião Fernando Teixeira Júnior devia a vítima cerca de R$40.000,00 (quarenta mil reais); ii) a vítima era agiota, sendo particularmente conhecido por fazer cobranças através de meios grosseiros, o que levou o acusado Igor Matheus Lopes de Araújo a ser contratado por Sebastião para assassiná-lo; e iii) o corréu Magno da Silva Leones, falecido, detalhou o ocorrido, confessando que foi responsável por pilotar a motocicleta enquanto Igor atiraria no ofendido.
+Desta feita, não é porque o Conselho de Sentença não agasalhou as alegações defensivas que se pode concluir pelo julgamento contrário às provas dos autos. Isto porque, no presente caso, a livre convicção íntima dos jurados se formou através de provas produzidas sob o manto do devido processo legal, da ampla defesa e do contraditório.
+Como visto, o Tribunal local, soberano na análise do conjunto fático-probatório, concluiu que a decisão dos jurados não se encontrou manifestamente contrária à prova dos autos, tendo eles optado pela tese da acusação.
+Assim, para alterar a conclusão a que chegaram as instâncias ordinárias e acolher a pretensão absolutória da parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
