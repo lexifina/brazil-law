@@ -1,0 +1,19 @@
+DECISÃO:
+    1. Trata-se de recurso extraordinário com agravo interposto com fundamento no art. 102, III, a, da CF/1988 contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    FEPASA. Complementação de aposentadoria. Empregado admitido após a vigência da Lei n° 10.410/71 e da Lei n° 200/74. Inexistência do direito. Precedentes. Existência de invocados paradigmas. Irrelevância. Atos inquinados de nulidade e passíveis de invalidação. Sentença de improcedência mantida. Recurso improvido.
+    2. O acórdão recorrido foi objeto de embargos de declaração, rejeitados na origem.
+    3. O recorrente alega contrariedade ao disposto nos artigos 3º, IV, 5º, caput e 7º, XXX, XXXI, XXXII, XXXIII, XXXI todos da Constituição Federal.
+    4. O recurso foi inadmitido na origem nos seguintes termos (e-doc 5, fls. 221):
+    No entanto, o recurso não merece trânsito.
+    Com efeito, os dispositivos da Lei Maior tidos como violados não foram apreciados pelo acórdão hostilizado de modo explícito como vem sendo exigido, faltando, assim, o requisito do prequestionamento a despeito da oposição de embargos de declaração. Incidente, portanto, a Súmula 282 do Colendo Supremo Tribunal Federal.
+     Ainda que assim não fosse, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Colendo Supremo Tribunal Federal, adotada pela Corte Superior (...).
+    5. É o relatório. Passo à decisão.
+    6. A repercussão geral da matéria constitucional discutida no recurso extraordinário é um dos seus requisitos de admissibilidade (art. 102, § 3º, da CF, e art. 1.035, § 2º, do CPC). Exige-se que a parte recorrente demonstre a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos do processo (art. 1.035, § 1º, do CPC). Para tanto, a jurisprudência é firme no sentido de que não basta a simples descrição do instituto (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    7. Recentemente, a Emenda Regimental nº 54, de 1º de julho de 2020, introduziu o § 1º no art. 326 do RI/STF para autorizar que o Relator negue a existência de repercussão geral com eficácia apenas para o caso concreto[1]. Significa dizer que o Relator poderá, monocraticamente, deixar de conhecer do recurso por ausência de repercussão geral. Todavia, tal decisão não impedirá que novos casos sobre a mesma matéria sejam remetidos a esta Corte, que poderá, inclusive, chegar a conclusão diversa.
+    8. No caso em apreço, a parte recorrente não apresentou fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o princípio da isonomia em relação à aplicação da lei estadual. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    8. De toda sorte, ainda que tivesse sido preenchido o requisito da repercussão geral, o recurso extraordinário não poderia ser conhecido, pois contraria o enunciado da Súmula 280/STF e da Súmula 282/STF, conforme assentado pelo Tribunal de origem.
+    9. Diante do exposto, com fundamento no art. 102, § 3º, da CF/1988; no art. 1.035, §§ 1º e 2º, do CPC; e nos arts. 21, § 1º, e 326, § 1º, do RI/STF, nego seguimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, assim como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+    Brasília, 29 de agosto de 2023.
+Ministro LUÍS ROBERTO BARROSO
+Relator
