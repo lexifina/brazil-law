@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, ajuizado em favor de CARLOS CESAR BARBOSA DOS PASSOS contra decisão monocrática proferida por Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, que indeferiu a liminar na Revisão Criminal n. 202300142508.
+Consta dos autos que o Tribunal de origem, na apreciação da Apelação Criminal nº 202000315904, deu provimento ao recurso ministerial a fim de anular o julgamento realizado pelo Tribunal do Júri, que havia absolvido o réu com base no quesito genérico.
+A Defesa alega que não cabe apelo contra decisão do Tribunal do Júri que absolve o réu com base no quesito genérico, haja vista a soberania dos veredictos.
+Requer, liminarmente, a suspensão do novo Júri designado para 23/11/2023 e, no mérito, a cassação do acórdão e restabelecimento da absolvição pelo Tribunal do Júri.
+É o relatório. DECIDO.
+Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente. A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691/STF).
+De fato, embora a segregação em geral seja tema de extrema relevância, das alegações da Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente e em indevida supressão de instância.
+No caso concreto, não houve deliberação colegiada pela autoridade impetrada acerca da impossibilidade de anulação da absolvição efetuada pelo Tribunal do Júri.
+Assim, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a essa questão (AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023).
+Outrossim, não se vislumbra flagrante teratologia na decisão ora questionada, lastreada nos seguintes fundamentos (fls. 1.329):
+Como se depreende do voto alhures transcrito, a Câmara Criminal entendeu que o julgamento pelo Tribunal do Júri contrariou as provas dos autos, em razão do fato de a defesa, em momento algum, ter negado a autoria delitiva, limitando-se a requerer a condenação por homicídio simples, afastando as qualificadoras imputadas ao réu pela acusação. Não obstante a tese da defesa, o Júri, ao responder o quesito genérico sobre a absolvição, absolveu o réu.
+A meu ver, a princípio, não vislumbro a fumaça do bom direito, por entender que tal conclusão não viola a Soberania dos Veredictos, haja vista que mesmo a decisão do Tribunal do Júri precisa estar coerente com o acervo probatório. Nesse sentido trilha a jurisprudência do Superior Tribunal de Justiça, in verbis:
+(..)
+Outrossim, consigno que não obstante tal discussão seja objeto de Repercussão Geral (Tema nº 1087) perante o Supremo Tribunal Federal, não houve a determinação de suspensão dos processos e, muito menos, o julgamento de mérito, razão pela qual acompanho o entendimento do Superior Tribunal de Justiça. Nesse toar, concluo ausente a fumaça do bom direito e, por conseguinte, INDEFIRO a medida liminar pleiteada.
+Por fim, impende salientar que, em se tratando de pedido eminentemente satisfativo, o mero indeferimento de liminar não se mostra teratológico (AgRg no HC n. 798.705/RJ, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
