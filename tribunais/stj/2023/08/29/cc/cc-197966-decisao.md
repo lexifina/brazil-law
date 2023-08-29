@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por ADS SEGURANÇA PRIVADA LTDA. - EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DA 2ª VARA DO TRABALHO DE MOSSORÓ - RN e do JUÍZO DA 23ª VARA CÍVEL DE NATAL - RN.
+Ação em trâmite no Juízo Cível: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: execução trabalhista, movida por GILDEMBERGSON MONTEIRO DE SOUZA em face da suscitante.
+Conflito de competência: alega, em síntese, que o juízo da recuperação judicial é o único competente para decidir sobre atos de execução, constrição ou expropriação do patrimônio da recuperanda. Pleiteia, liminarmente, sejam tornados sem efeito "os atos de constrição dos bens essenciais, com a consequente liberação dos valores que foram eventualmente retiradas da posse da recuperanda, proibindo que outros atos de mesma natureza sejam determinados em ações individuais que porventura venham a ser propostas, designando o D. JUÍZO DA 23ª VARA CÍVEL DE NATAL/RN, para dirimir e deliberar em caráter provisório sobre as questões consideradas urgentes até o julgamento do presente conflito de competência" (e-STJ, fls. 13/14).
+Tutela antecipada: deferida parcialmente, às fls. 55/56, e-STJ.
+Parecer do MPF: manifestou-se pela declaração da competência do juízo da recuperação.
+RELATADO O PROCESSO, DECIDE-SE.
+Depreende-se dos autos que o processo de recuperação judicial da empresa ADS SEGURANÇA PRIVADA LTDA. está em regular andamento perante o Juízo de Direito da 23ª Vara Cível de Natal/RN. De outro lado, observa-se que o Juízo trabalhista autorizou o bloqueio de bens e valores da suscitante para pagamento do débito trabalhista.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE NATAL/RN para a realização de qualquer ato processual que implique em constrição do patrimônio da empresa suscitante, nos autos da Reclamação Trabalhista n. 0000083-38.2021.5.21.0012, promovida por Gildembergson Monteiro de Souza, em trâmite no Juízo da 2ª Vara do Trabalho de Mossoró/RN.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE NATAL/RN.
