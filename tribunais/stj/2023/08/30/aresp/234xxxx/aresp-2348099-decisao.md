@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial com fundamento na incidência das Súmulas n. 7, n. 282 e n. 356/STF.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação do art. 59 do CP, aduzindo a ausência de fundamentação idônea para a exasperação da pena-base, bem como do art. 33, § 4º, da Lei n. 11.343/2006, por não ter sido aplicada a minorante do tráfico privilegiado, requerendo o provimento do recurso para obter o redimensionamento da pena.
+Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento deste agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser examinado o mérito.
+Consta dos autos que o agravante foi condenado a 6 anos e 8 meses de reclusão, em regime semiaberto, e ao pagamento de 680 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, pena que foi mantida pelo Tribunal de origem, nos seguintes termos (fls. 297-298):
+ .. .3. Do redimensionamento da pena-base ao patamar mínimo.
+Aponta a defesa exasperação imotivada da dosimetria referente ao crime de tráfico de drogas, pugnando pelo redimensionamento da pena imposta.
+Razão não lhe assiste.
+Abaixo segue trecho da sentença recorrida em que demonstra que o Magistrado Singular considerou como desfavoráveis os vetores: circunstâncias do crime, natureza e quantidade da droga:
+"Circunstâncias do crime: desfavoráveis. O réu praticou odelito dentre de embarcação cheia de passageiros, transportando a droga de forma camuflada, já que envolta por café, a fim de dificultar a ação policial, fato esse que merece ser reconhecido como maior reprimenda estatal.
+(..)
+É de se observar, ademais, que a circunstância referente à natureza e à quantidade de substância entorpecente objeto da presente ação deve ser considerada desfavorável à ré na fixação da pena base, nos termos do que dispõe o art. 42, da lei nº 11.343/06, eis que, houve apreensão de razoável quantidade de substâncias entorpecentes aproximadamente 1Kg de maconha, fato esse ensejador de maior potencialidade lesiva ao seio social."
+Assim o Magistrado ao valorá-los desfavoráveis, fixou a pena-base em 08 (oito) anos de reclusão e pagamento de 900 (novecentos) dias-multa.
+Nessa esteira, a majoração da pena-base foi embasada nas circunstâncias judiciais, concretas e muito bem dosadas pelo Juízo de 1º grau, que estabeleceu a reprimenda em 03 (três) anos acima do mínimo legal, portanto, de modo necessário e adequado à reprovação e prevenção do crime, não cabendo ser feito nenhum reparo. Nesse sentido:
+ ..
+Nesse passo, entendo que a pena se encontra bem dosada, proporcional ao delito e à situação do recorrente, não merecendo reformas.
+Ante o exposto, CONHEÇO do presente recurso e NEGO-LHE PROVIMENTO, mantendo inalterada a sentença de primeiro grau. .. .
+No caso, as instâncias de origem fixaram a pena-base em 8 anos de reclusão, com a indicação de elementos concretos para valorar negativamente as circunstâncias do delito, pois o "réu praticou odelito dentre de embarcação cheia de passageiros, transportando a droga de forma camuflada, já que envolta por café, a fim de dificultar a ação policial, fato esse que merece ser reconhecido como maior reprimenda estatal.", bem como a quantidade e a natureza da droga apreendida, tratando-se de 1 kg de maconha.
+Quanto à pena-base, conforme jurisprudência pacífica desta eg. Corte Superior, "a aplicação da pena, na primeira fase, não se submete a critério matemático, devendo ser fixada à luz do princípio da discricionariedade motivada do juiz. Precedentes" (AgRg no REsp n. 1.785.739/PA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 28/06/2019). A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. MAJORAÇÃO EM PATAMAR ADEQUADO ÀS CIRCUNSTÂNCIAS DO CASO CONCRETO. DROGAS QUE ERAM TRANSPORTADAS PARA OUTROS MUNICÍPIOS. MAIOR REPROVABILIDADE DA CONDUTA. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. A conduta de transportar e comercializar drogas para outros municípios, ultrapassando os limites de Bastos/SP, demonstra reprovabilidade mais elevada, justificando o aumento da pena-base em metade.
+2. "A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada a elementos concretos" (AgInt no HC 352.885/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 9/6/2016), como na hipótese dos autos.
+3. Agravo regimental desprovido. (AgRg no HC n. 796.087/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Além disso, considerando-se o princípio do livre convencimento motivado do Magistrado, a exaperação em 3 anos, em razão da valoração negativa de 2 circunstâncias judiciais, com a indicação de elementos concretos, não se revela manifestamente desproporcional em relação à pena em abstrato do delito previsto no art. 33, caput, da Lei n. 11.343/2006, de 5 a 15 anos de reclusão.
+Com efeito, o critério não se mostra desarrazoado e não destoa da jurisprudência desta Corte, no sentido de que, na basilar, "tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade". (AgRg no AREsp n. 2.240.340/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/6/2023, DJe 14/6/2023).
+Estando o acórdão recorrido em consonância com a jurisprudência desta Corte, tem incidência a súmula n. 83/STJ.
+Ressalte-se, por fim, que a questão referente à aplicação da minorante do tráfico privilegiado não foi suscitada nas razões do recurso de apelação, nem apreciada pelo Tribunal de origem, o que atrai a incidência das súmulas n. 282 e 356 do STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
