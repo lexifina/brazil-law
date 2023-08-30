@@ -1,0 +1,103 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0711762-97.2023.8.07.0000EMBARGANTE(S)DISTRITO FEDERALEMBARGADO(S)VICENTE DA TRINDADE FERNANDESRelatorDesembargador LEONARDO ROSCOE BESSA
+ Acórdão Nº1752393
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. OMISSÃO. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL (CPC). REEXAME DA MATÉRIA. IMPOSSIBILIDADE. ARGUMENTOS DO EMBARGANTE. ENFRENTAMENTO NO ACÓRDÃO. LEI DISTRITAL 6.618/2020. INAPLICABILIDADE DO TEMA 792 DA REPERCUSSÃO GERAL. PARCELA INCONTROVERSA. PAGAMENTO. REQUISIÇÃO DE PEQUENO VALOR – RPV. VALOR DA EXECUÇÃO INFERIOR AO TETO DE 20 SALÁRIOS MÍNIMOS. POSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. INOBSERVÂNCIA AO PRECEDENTE VINCULANTE. INOCORRÊNCIA. ALTERAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. DEMONSTRAÇÃO. MERO INCONFORMISMO. INTEGRAÇÃO DO JULGADO. INVIABILIDADE. RECURSO AOS TRIBUNAIS SUPERIORES. NECESSIDADE.
+
+1. Cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual o juiz deveria se pronunciar, de ofício ou a requerimento, e para corrigir erro material (art. 1.022 do Código de Processo Civil – CPC).
+
+2. A norma processual deixa claro que os embargos de declaração não se destinam à obtenção de reexame da matéria analisada no julgado embargado. Sua finalidade é de aclarar ou integrar a decisão e não provocar nova manifestação de caráter substitutivo, modificativo ou infringente.
+
+3. Não há que se falar em omissão do julgamento, pois os argumentos da embargante (impossibilidade de pagamento da parcela incontroversa da execução contra a Fazenda Publica por meio de RPV) foram enfrentados expressamente no acórdão.
+
+4. Da simples leitura do acórdão, a dívida executada não ultrapassa o teto de 20 salários mínimos previsto na Lei 6.618/2020, aplicável às sentenças transitadas em julgado pela não incidência do Tema 792 da Repercussão Geral. Se o valor total do crédito pode ser pago mediante RPV, dispensado o precatório, o pagamento da parcela incontroversa, com maior razão, deve ser pago também por esse meio, nos termos do Tema 28 da Repercussão Geral.
+
+5. Tampouco houve inobservância ao art. 87, da ADCT, ambos da Constituição Federal - CF. O limite constitucional transitório de quarenta salários mínimos não se aplica ao Distrito Federal, que há muito possui legislação específica quanto ao limite de precatórios.
+
+6. Também não há que se falar em violação à garantia da coisa julgada, prevista nos art. 5º XXXVI, da CF e no art. 6º da Lei de Introdução às Normas do Direito Brasileiro – LINDB, nem em desrespeito a precedentes vinculantes ou aos arts.1º e 927, III, do CPC. Como demonstrado, o Supremo Tribunal Federal - STF alterou sua jurisprudência para afastar a aplicabilidade do Tema 792 da Repercussão Geral para a Lei Distrital 6.618/2020, pelo fato de que a discussão específica tratava de norma distrital revogada (Lei Distrital 3.624/2005). O acórdão simplesmente aderiu a esse entendimento.
+
+7. O fato de existir precedente recente em sentido contrário, conforme entendimento anterior, não implica a alteração do julgamento, até porque não tem caráter vinculante. Logo, eventuais divergências e oscilações jurisprudenciais sobre o tema deverão ser dirimidas pelo próprio STF.
+
+8. O mero inconformismo da parte não autoriza a integração do julgado (Teses nº 1 e 2 da Edição nº 189 do informativo “Jurisprudência em Teses”). A reforma do acórdão depende do recurso cabível para essa finalidade, direcionado aos tribunais superiores.
+
+9. Embargos de declaração conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONARDO ROSCOE BESSA - Relator, ARQUIBALDO CARNEIRO - 1º Vogal e VERA ANDRIGHI - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 08 de Setembro de 2023
+
+Desembargador LEONARDO ROSCOE BESSAPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de embargos de declaração, com pedido de efeitos modificativos, opostos por DISTRITO FEDERAL contra acórdão proferido pela Sexta Turma Cível (ID 48468815), que deu provimento ao agravo de instrumento para determinar expedição de Requisição de Pequeno Valor – RPV para o pagamento de parcela incontroversa em cumprimento de sentença contra a Fazenda Pública.
+
+O acórdão restou assim ementado:
+
+“AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. SUSPENSÃO DO PROCESSO ATÉ O TRÂNSITO EM JULGADO DE OUTRO RECURSO. PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA COM RELAÇÃO À PARTE INCONTROVERSA. POSSIBILIDADE. OBSERVÂNCIA DO REGIME DE PAGAMENTO REFERENTE À IMPORTÂNCIA TOTAL EXECUTADA. TEMA DE REPERCUSSÃO GERAL 28. LEI DISTRITAL 6.618/2020. LIMITE DAS OBRIGAÇÕES DE PEQUENO VALOR PARA A FAZENDA PÚBLICA DO DISTRITO FEDERAL. 20 SALÁRIOS MÍNIMOS. VALIDADE. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. DISTINGUISHING. MAJORAÇÃO DO LIMITE DE EXPEDIÇÃO DE RPV PELA LEI VIGENTE. AMPLIAÇÃO DE DIREITOS. EXECUÇÕES EM CURSO. INCIDÊNCIA. SENTENÇAS TRANSITADAS EM JULGADO ANTES DA VIGÊNCIA DA LEI. NATUREZA MATERIAL E PROCESSUAL DA LEI. IRRELEVÂNCIA. PRECEDENTES RECENTES DO SUPREMO TRIBUNAL FEDERAL. VALOR TOTAL DA EXECUÇÃO INFERIOR AO LIMITE LEGAL. PARCELA INCONTROVERSA. PAGAMENTO IMEDIATO POR MEIO DE RPV. POSSIBILIDADE. 1. O Supremo Tribunal de Federal – STF, ao julgar o Tema de Repercussão Geral 28, firmou a seguinte tese: “Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor”. 2. Embora possível o prosseguimento do cumprimento de sentença com relação à parte incontroversa do crédito, para fins de determinação do regime de pagamento a ser adotado – precatório ou requisição de pequeno valor (RPV) – deve ser observado o valor total da execução, inclusive a parte controvertida. 3. Até recentemente, considerava-se o teto previsto na lei vigente à época do trânsito em julgado da sentença (Tema de Repercussão Geral 792). No caso, como o título judicial foi constituído em 11/03/2020, data em que estava em vigor a redação original da Lei Distrital 3.624/2005, deveria ser considerado o limite de 10 salários mínimos. Contudo, em julgamentos recentes de recursos extraordinários e reclamações, o STF consolidou o entendimento de que o Tema 792 da Repercussão Geral não deve ser aplicado como fundamento de declaração da inconstitucionalidade da Lei Distrital 6.618/2020, ou para afastar o direito ao pagamento dos créditos abaixo do limite legal de 20 salários mínimos, mesmo com relação às sentenças transitadas em julgado antes da sua vigência. 4. O elemento de distinção (distinguishing) decorre do fato de que a norma vigente ampliou o direito ao recebimento imediato de valores a serem pagos pelo Distrito Federal, situação oposta à da Lei Distrital 3.624/2005, objeto do referido tema de repercussão geral. Logo, se não há limitação de direitos adquiridos dos particulares por parte do Estado, não há que se falar em declaração de inconstitucionalidade – a natureza mista das normas que regulamentam os precatórios e as RPVs (material e processual), é de aplicabilidade imediata aos cumprimentos de sentença ainda em curso. 5. Na hipótese, tanto o valor incontroverso quanto a importância total executada estão abaixo do teto de 20 salários mínimos para expedição de RPV, nos termos da Lei Distrital 6.618/2020. Por consequência, se o valor integral da execução está dentro do limite de 20 salários mínimos, não há qualquer óbice ao pagamento imediato da parcela incontroversa por meio de RPV, independentemente da existência de trânsito em julgado em outros processos ou recursos que tratem da aplicabilidade dos índices de atualização monetária, conforme disposto no Tema 28 da Repercussão Geral. 6. Recurso conhecido e provido.”
+
+O embargante sustenta omissão no acórdão (ID 49017235). Alega que: 1) o Supremo Tribunal Federal – STF não consolidou o entendimento da inaplicabilidade do Tema 792 na hipótese, conforme precedente recente; 2) a Lei Distrital 6.618/2020 não deve ser aplicada retroativamente, em razão do princípio tempus regit actum, com base na data do trânsito em julgado da decisão exequenda; 3) o acórdão violou os art. 5º, XXXVI e 87, da ADCT, ambos da Constituição Federal, o art. 6º da Lei de Introdução às normas do Direito Brasileiro, e os arts.1º e 927, III, do CPC.
+
+Ao final, requer o acolhimento dos embargos de declaração para sanar os vícios apontados e determinar que o pagamento da parcela incontroversa deve ser feito mediante precatório.
+
+Contrarrazões apresentadas (ID 49542002).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - Relator1. CONHECIMENTO
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+2. MÉRITO
+
+Cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual o juiz deveria se pronunciar, de ofício ou a requerimento, e para corrigir erro material (art. 1.022 do Código de Processo Civil – CPC).
+
+A norma processual deixa claro que os embargos de declaração não se destinam à obtenção de reexame da matéria analisada no julgado embargado. Sua finalidade é de aclarar ou integrar a decisão e não provocar nova manifestação de caráter substitutivo, modificativo ou infringente.
+
+No mérito, inexiste omissão no julgamento, pois os argumentos do embargante foram integralmente esclarecidos no acórdão:
+
+“(...) O Supremo Tribunal de Federal – STF, ao julgar o Tema de Repercussão Geral 28, firmou a seguinte tese: “Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor”. Embora possível o prosseguimento do cumprimento de sentença com relação à parte incontroversa do crédito, para fins de determinação do regime de pagamento a ser adotado – precatório ou requisição de pequeno valor (RPV) – deve ser observado o valor total da execução (inclusive a parte controvertida). O recurso merece provimento. Para a definição do regime de pagamento da parcela incontroversa, deve-se observar o valor total da execução, diante da expressa vedação constitucional ao fracionamento de precatórios, ressalvadas as parcelas de créditos superpreferenciais até o limite do triplo das obrigações das Fazendas Públicas definidas em leis como de pequeno valor (CF, art. 100, §§ 2º e 3º). Até recentemente, considerava-se o teto previsto na lei vigente à época do trânsito em julgado da sentença (Tema de Repercussão Geral 792). No caso, como o título judicial foi constituído em 11/03/2020 (ID (ID 101304084 - p. 2 dos autos originários), data em que estava em vigor a redação original da Lei Distrital 3.624/2005, deveria ser considerado o limite de 10 salários mínimos. Todavia, em julgamentos recentes de recursos extraordinários e reclamações, o STF consolidou o entendimento de que o Tema 792 da Repercussão Geral não deve ser aplicado como fundamento de declaração da inconstitucionalidade da Lei Distrital 6.618/2020, ou para afastar o direito ao pagamento dos créditos abaixo do limite legal de 20 salários mínimos, mesmo com relação às sentenças transitadas em julgado antes da sua vigência. O elemento de distinção (distinguishing) decorre do fato de que a norma vigente ampliou o direito ao recebimento imediato de valores a serem pagos pelo Distrito Federal, situação oposta à da Lei Distrital 3.624/2005, objeto do referido tema de repercussão geral. Logo, se não há limitação de direitos adquiridos dos particulares por parte do Estado, não há que se falar em declaração de inconstitucionalidade – a natureza mista das normas que regulamentam os precatórios e as RPVs (material e processual), é de aplicabilidade imediata aos cumprimentos de sentença ainda em curso. Assim, nos termos da lei distrital vigente, o teto de 20 salários mínimos deve ser observado para fins de expedição de RPV. Ilustrativamente, são os precedentes recentes do STF: “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO INDEVIDA DA TESE FIRMADA NO TEMA 792-RG. OCORRÊNCIA. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. No Tema 792-RG, discutiu-se as consequências da Lei Distrital 3.624/2005, que reduzira o teto referente à Requisição de Pequeno Valor para débito igual ou inferior a 10 (dez) salários mínimos. O debate ocorreu, portanto, sob a perspectiva do direito adquirido à incidência do Regime de RPV nos casos transitados em julgado anteriormente ao surgimento da norma distrital que reduzisse o valor, em face do princípio da segurança jurídica. 2. A Repercussão Geral – Tema 792 – aceita por essa SUPREMA CORTE apontou a discussão específica da redução do valor: “Possibilidade de aplicação da Lei Distrital 3.624/2005, que reduziu para 10 salários mínimos o teto para expedição de requisição de pequeno valor, às execuções em curso”. 3. A tese fixada no TEMA 792 não se aplica à presente hipótese, onde se discutem as consequências da Lei Distrital 6.618/2020, que aumentou o teto para a expedição de Requisição de Pequeno Valor para 20 (vinte) salários mínimos. Observa-se, desse modo, contextos fático e jurídico absolutamente distintos entre o paradigma de controle e o caso em análise, especialmente porque se referem a diplomas legais diferentes. 4. Recurso de Agravo a que se nega provimento. (Rcl 51830 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 10/10/2022, PROCESSO ELETRÔNICO DJe-s/n DIVULG 14-04-2023 PUBLIC 17-04-2023)” “DIREITO PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM RECLAMAÇÃO. ALEGADA MÁ APLICAÇÃO DO TEMA 792-RG. OBSERVÂNCIA DO DECIDIDO PELA PRIMEIRA TURMA. EMBARGOS ACOLHIDOS. 1. Nos termos do art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial com a finalidade de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material. 2. No julgamento dos agravos interpostos nas Rcls 54.470, 55.038, 55.043, 56.217, pela Primeira Turma desta Corte, prevaleceu o entendimento de que a tese fixada no Tema 792 da repercussão geral não se aplica a hipóteses onde se discutem as consequências da Lei Distrital nº 6.618/2020, que aumentou o teto para a expedição de Requisição de Pequeno Valor (RPV) para 20 (vinte) salários mínimos. 3. O princípio da colegialidade impõe a observância das decisões tomadas pela Turma, de modo que se passa a adotar o entendimento firmado no referido julgamento, embora tenha ficado vencido naquela ocasião. 4. Embargos de declaração acolhidos, com efeito modificativo, para julgar procedente a reclamação. (Rcl 52551 AgR-ED, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 20/03/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20-03-2023  PUBLIC 21-03-2023)” (...) Na hipótese, tanto o valor incontroverso quanto a importância total executada estão abaixo do teto de 20 salários mínimos para expedição de RPV (IDs 105620077 e 100827065 dos autos originários), nos termos da Lei Distrital 6.618/2020. Por consequência, se o valor integral da execução está dentro do limite de 20 salários mínimos, não há qualquer óbice ao pagamento imediato da parcela incontroversa por meio de RPV, independentemente da existência de trânsito em julgado em outros processos ou recursos que tratem da aplicabilidade dos índices de atualização monetária, conforme disposto no Tema 28 da Repercussão Geral. (...)” – grifou-se
+
+Da simples leitura do acórdão, a dívida executada não ultrapassa o teto de 20 salários mínimos previsto na Lei 6.618/2020, aplicável às sentenças transitadas em julgado pela não incidência do Tema 792 da Repercussão Geral. Se o valor total do crédito pode ser pago mediante RPV, dispensado o precatório, o pagamento da parcela incontroversa, com maior razão, deve ser pago também por esse meio, nos termos do Tema 28 da Repercussão Geral.
+
+Tampouco houve inobservância ao art. 87, da ADCT, ambos da Constituição Federal - CF. O limite constitucional transitório de quarenta salários mínimos não se aplica ao Distrito Federal, que há muito possui legislação específica quanto ao limite de precatórios. A propósito, a majoração do teto do RPV é tese desfavorável ao embargante, pois amplia a possibilidade de sua expedição, objeto justamente do acórdão.
+
+Também não há que se falar em violação à garantia da coisa julgada, prevista nos art. 5º XXXVI, da CF e no art. 6º da Lei de Introdução às Normas do Direito Brasileiro – LINDB, nem em desrespeito a precedentes vinculantes ou aos arts.1º e 927, III, do CPC.
+
+Como demonstrado, o Supremo Tribunal Federal - STF alterou sua jurisprudência para afastar a aplicabilidade do Tema 792 da Repercussão Geral para a Lei Distrital 6.618/2020, pelo fato de que a discussão específica tratava de norma distrital revogada (Lei Distrital 3.624/2005). O acórdão simplesmente aderiu a esse entendimento.
+
+O fato de existir precedente recente em sentido contrário, conforme entendimento anterior, não implica a alteração do julgamento, até porque não tem caráter vinculante. Logo, eventuais divergências e oscilações jurisprudenciais sobre o tema deverão ser dirimidas pelo próprio STF.
+
+O mero inconformismo das partes não autoriza a integração do julgado. A reforma do acórdão deve ser pleiteada por meio do recurso cabível para essa finalidade, direcionado aos tribunais superiores.
+
+Nesse exato sentido é a jurisprudência pacífica do Superior Tribunal de Justiça - STJ, de acordo com os itens 1 e 2 da Edição nº 189 do informativo “Jurisprudência em Teses”:
+
+“1) Os embargos de declaração não podem ser utilizados para adequar a decisão ao entendimento da parte embargante, acolher pretensões que refletem mero inconformismo ou rediscutir matéria já decidida. Acórdãos EDcl no AgRg no AREsp 1862327/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 EDcl no AgRg no AREsp 1946653/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 EDcl no AgRg no AREsp 1989773/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 EDcl no AgRg no AREsp 2012291/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 AgRg no AREsp 2035697/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 AgInt no AREsp 1954353/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022” – grifou-se
+
+“2) A contradição que autoriza a oposição de embargos de declaração é a interna, caraterizada pela existência de proposições inconciliáveis entre si. Acórdãos: EDcl no AgRg no REsp 1954864/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022 EDcl no AgInt no AREsp 1520414/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022 EDcl nos EDcl no REsp 1881707/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022 EDcl no AgInt nos EDcl nos EAREsp 1666120/MT, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 22/02/2022, DJe 24/02/2022 EDcl no AgInt no AREsp 1930439/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022 AgInt no AREsp 1929622/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022” – grifou-se
+
+Por tais razões, não há que se falar em omissão, contradição ou qualquer outro vício a ser sanado.
+
+3. DISPOSITIVO
+
+CONHEÇO do recurso e, no mérito, REJEITO os embargos de declaração.
+
+É como voto.
+O Senhor Desembargador ARQUIBALDO CARNEIRO - 1º Vogal p{text-align: justify;}Eminentes pares,
+Também não vislumbro omissão, contradição ou obscuridade no v. aresto embargado.
+Assim, acompanho o douto Relator.
+É como voto.
+A Senhora Desembargadora VERA ANDRIGHI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
