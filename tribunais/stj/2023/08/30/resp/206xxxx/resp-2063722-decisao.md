@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial, interposto por GAFISA S/A, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Compromisso de compra e venda de imóvel - Açãodeclaratória c. c. revisão de cláusulas contratuais e indenização pordanos material e moral, com pedido de tutela de urgência julgadaparcialmente procedente - Insurgência da ré - Cabimento parcial - Atraso na entrega do Imóvel por culpa exclusiva da empresarequerida, já considerada válida a prorrogação do prazo por mais180 (cento e oitenta) dias - Alegação de óbices criados pelaausência de mão de obra qualificada, insumos para construção do empreendimento e restrições em razão da pandemia queimpediram a apelante de proceder a entrega das chaves no prazoprevisto que não justifica a demora - Inteligência da Súmula nº 161 TJ/SP - Lucros cessantes - Cabimento - Impossibilidade de fruição do Imóvel que acarretou prejuízos materiais - Inteligênciada Súmula nº 162 TJ/SP - Multa moratória contratual - Nãocabimento - Impossibilidade de cumulação com lucros cessantes - Entendimento pacificado pelo Superior Tribunal de Justiça no Tema 970 - Possibilidade de imposição, contudo, da multacompensatória - Taxa condominial e IPTU que são de responsabilidade do comprador após a efetiva entrega das chaves - Precedentes jurisprudenciais - Sentença parcialmente reformada - Apelo parcialmente provido.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 475-481.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 5º, XXXVI, da Constituição Federal de 1988 e 6º da Lei de Introdução ao Código Civil. Sustenta, em síntese, que: a) o contrato deve ser mantido por ser ato jurídico perfeito; e b) os lucros cessantes devem ser minorados para 0,3% do valor do imóvel.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De início, observa-se que a análise das violações de ordem constitucional referentes à violação ao art. 5º, XXXVI, da CF é alheia à competência do STJ, em sede de recurso especial, sob pena de supressão de competência do próprio STF. Nesse sentido, confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REGULARIZAÇÃO DO DOMÍNIO DO IMÓVEL. OFENSA AO ART. 195 DA LEI Nº 6.015/1973. SÚMULAS 283 DO STF, 5 E 7 DO STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO RAZOÁVEL. AGRAVO NÃO PROVIDO.
+1. Embora seja dever de todo magistrado velar a Constituição, para que se evite supressão de competência do egrégio STF, não se admite apreciação, em sede de recurso especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+(..)
+11. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada."
+(AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017 - g. n.)
+Outrossim, "A jurisprudência do STJ firmou-se no sentido da impossibilidade dos princípios contidos no artigo 6º da LINDB serem analisados em sede de recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária." (AgInt no REsp n. 2.042.388/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. VIOLAÇÃO AO ART. 6º DA LINDB. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. 2. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 3. PRETENSÃO DE REEMBOLSO DE VALORES GASTOS COM HONORÁRIOS ADVOCATÍCIOS. INDEFERIMENTO. OBEDIÊNCIA A REGRA ESTATUTÁRIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. É pacífico o entendimento da Terceira Turma deste Superior Tribunal acerca da inviabilidade do conhecimento do recurso especial por violação do art. 6º da LINDB, uma vez que o princípio do direito adquirido, contido na Lei de Introdução às Norma do Direito Brasileiro, apesar de previsto em norma infraconstitucional, é instituto de natureza eminentemente constitucional.
+2. A apontada violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+3. A modificação do entendimento alcançado pelo acordão estadual (acerca da exclusão do benefício de reembolso com honorários advocatícios por não preencher os requisitos indicados na norma estatuária) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.119.988/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Quanto aos lucros cessantes, melhor sorte não socorre à recorrente, tendo em vista que não há indicação de qual ou quais dispositivos de lei federal foram violados, o que enseja a incidência da Súmula 284/STF. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO C/C PEDIDO DE RESTITUIÇÃO DE VALORES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. A conclusão a que chegou o Tribunal de origem, relativa à natureza das arras dispostas no contrato, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmulas 5 e 7 do STJ.
+2. Esta Corte entende não haver enriquecimento sem causa por parte do promitente comprador desistente no caso de terreno não edificado, pois este não pode residir no imóvel, devendo ser afastada, nessas hipóteses, a cobrança da taxa de ocupação do bem. Incidência da Súmula 83/STJ.
+3. A falta de indicação pela recorrente de qual dispositivo legal teria sido violado ou objeto de interpretação divergente implica deficiência na fundamentação do recurso especial, a atrair a aplicação da Súmula 284/STF. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.067.543/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Por fim, não merece acolhimento a alegada divergência jurisprudencial, pois "A divergência entre julgados do mesmo Tribunal não enseja recurso especial." (Súmula N. 13 do STJ).
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, não conheço do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 15% para 16% sobre o valor da condenação.
+Publique-se.
+EMENTA
