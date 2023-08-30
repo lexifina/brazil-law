@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 6ª Vara de Fazenda Pública de Brasília/DF, como suscitante, e o Juizado Especial Cível e Criminal Adjunto à Vara Federal de Barreiras/BA, o suscitado, nos autos de ação movida por Jonas Regis de Azevedo contra a União, com pleito de reconhecimento de isenção tributária de imposto de renda e de repetição de indébito.
+Segundo entendeu o juízo suscitado, à luz do art. 157, I, da CF/88, pertencem aos estados e ao DF "o produto da arrecadação do imposto da União sobre a renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem" (fl. 12), caso dos autos, porquanto a parte autora é servidor do TJDFT. Nesse viés, invocando jurisprudência nesse sentido e a Súmula 447/STJ, decidiu por reconhecer a incompetência da Justiça Federal e, em consectário, determinar a remessa do feito à justiça do Distrito Federal.
+Para o juízo suscitante, em sentido contrário, "não há interesse direto do Distrito Federal no feito, tendo em vista que o Ente Federado responsável pelo destaque do imposto de renda retido na fonte dos servidores do Tribunal de Justiça do Distrito Federal e Territórios é a União" (fl. 5). Assim, seria inaplicável a regra do art. 157, I, da CF/88 ao caso sub judice, por se tratar de servidor da União.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, o tema posto a desate é conhecido da jurisprudência desta Corte, cuja compreensão se firmou no sentido de ser inaplicável ao caso dos servidores do TJDFT o entendimento consolidado na Súmula 447/STJ, uma vez que são remunerados pela União, nos termos do art. 21, XIII, da CF/88. A peculiaridade do Distrito Federal, quanto aos servidores do Poder Judiciário, impõe a aplicação de entendimento diverso daquele externado pela jurisprudência do STJ para os demais entes federativos estaduais.
+Em caso similar, o eminente Ministro Paulo Sérgio Domingues, em data recente, assim tratou do tema:
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 7A VARA DA FAZENDA PÚBLICA DE BRASÍLIA-DF, o suscitante, e o TRIBUNAL REGIONAL FEDERAL DA 1A REGIÃO, o suscitado, nos autos da ação de conhecimento movida por Marcelo Dantas de Araujo Maia em desfavor da União, objetivando o reconhecimento do direito de isenção de imposto de renda e redução dos valores de contribuição previdenciária, bem como a restituição dos valores indevidamente retidos.
+(..)
+A teor do disposto no art. 21, XIII, da Constituição da República, compete à União organizar e manter o Poder Judiciário do Distrito Federal e dos Territórios, motivo pelo qual não incide a regra de repartição de receitas tributárias prevista no art. 157, I, da CF sobre o imposto de renda devido por servidor público integrante do quadro do TJDFT, o que afasta a Súmula 447/STJ.
+(..)
+Logo, considerando que a Justiça do Distrito Federal e dos Territórios tem a sua estrutura e o seu pessoal remunerados por recursos provenientes da União, e não do Distrito Federal, o autor, servidor do TJDFT, não integra a estrutura do ente distrital, mas sim do Poder Judiciário da União e, por conseguinte, há interesse desse ente federativo para integrar o polo passivo da demanda, competindo à Justiça Federal apreciar e julgar a ação em que se questiona a incidência do imposto de renda e contribuição previdenciária incidente sobre os vencimentos.
+(..)
+(CC n. 181.713, Ministro Paulo Sérgio Domingues, DJe de 04/04/2023).
+Noutro feito, também envolvendo servidor do TJDFT, o ilustre Ministro Francisco Falcão decidiu de modo similar, como revelam os seguintes excertos do julgado:
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 16ª VARA CÍVEL DE BRASÍLIA (DF) em face do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, nos autos da ação de restituição de indébito tributário ajuizada, originalmente, na Seção Judiciária de Alagoas, pelo Espólio de Leonardo Santos de Oliveira em face da União Federal e pela qual a parte autora pretendia a condenação da Fazenda Nacional à restituição do indébito relativo aos descontos indevidos dos proventos do de cujus a título de Imposto de Renda retido na fonte.
+(..)
+É competência da União organizar e manter o Poder Judiciário do Distrito Federal e dos Territórios (CF, art. 21, XIII), portanto, sobre o imposto de renda devido por servidor do TJDFT, e retido na fonte, não incide a regra de repartição de receitas tributárias prevista no art. 157, I, da CF, o que afasta a Súmula nº 447/STJ.
+(..)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito para declarar competente o Juízo suscitado, ou seja, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+(CC n. 180.955, Ministro Francisco Falcão, DJe de 23/03/2022).
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda o Juizado Especial Cível e Criminal Adjunto à Vara Federal de Barreiras/BA , ora suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
