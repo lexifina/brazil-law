@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PAULO LAMARQUES ALVES SILVINO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA no julgamento do HC n. 00807356-19.2023.8.15.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA, ASSEGURAR APLICAÇÃO DALEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. IRRESIGNAÇÃO. 1. INSURGÊNCIA CONTRA OS FUNDAMENTOS DO DECRETO PREVENTIVO. NÃOCAMPANA REALIZADA PELA POLÍCIA. ATITUDE SUSPEITA. ACOLHIMENTO. ABORDAGEM. APREENSÃO DE 1.582G (MIL, QUINHENTOS E OITENTA E DOIS GRAMAS) DE COCAÍNA, BALANÇA DE PRECISÃO E R$ 1.152,00 (MIL, CENTO E CINQUENTA E DOIS) REAIS. PRISÃO PREVENTIVA DECRETADA PARA GARANTIADA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E ASSEGURARAPLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO NA PERICULOSIDADE DOAGENTE E NA GRAVIDADE CONCRETA DO DELITO. OBEDIÊNCIA AOS DITAMESDO ART. 312 DO CPP. 2. AFIRMAÇÃO DE EXISTÊNCIA DE CONDIÇÕES PESSOAS FAVORÁVEIS DO ACUSADO. IRRELEVÂNCIA. CONJUNTURA QUE NÃO OUTORGA O DIREITO SUBJETIVO À LIBERDADE PROVISÓRIA. 3. DENEGADA A ORDEM.
+1. Policiais realizavam campana, devido a denúncias de ser o paciente envolvido no tráfico de drogas na cidade de Bayeux-PB, por encontrar em atitude suspeita, abordou o beneficiário, que estava na posse de 1.582g (mil, quinhentos e oitenta e dois gramas) de cocaína,. balança de precisão e R$ 1.152,00 (mil, cento e cinquenta e dois reais).
+- A magistrada a quo justificou a segregação com base nos indícios de autoria e da materialidade do crime previsto no 33 da Lei n 11.343/06, devendo, neste sentido, considerar ao. periculosidade concreta do paciente devido à gravidade do delito em tese cometido- Do STJ: "A necessidade da prisão ficou demonstrada diante da grande quantidade de substância entorpecente apreendida (2 kg de maconha), circunstância apta a denotar potencialidade lesiva da infração e periculosidade social do acusado, autorizando sua". (AgRg no HC n. 765.121/GO, relator Ministro João Batista Moreira manutenção no cárcere(Desembargador Convocado do TRF1), Quinta Turma, julgado em 23/3/2023, DJe de28/3/2023.).
+2. Do STJ: ""não são impeditivas à decretação da condições subjetivas favoráveis ao paciente prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação"(AgRg no HC 597.051/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTATURMA, julgado em 22/9/2020, DJe 28/9/2020)". (AgRg no RHC n. 169.252/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 15/9/2022).
+3. DENEGADA A ORDEM" (fls. 91/92).
+No presente recurso, a defesa alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Pondera que, em caso de condenação, será fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante a fixação de medidas diversas da prisão.
+Indeferida a liminar (fls. 130/132) e prestadas as informações (fls. 138/146), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 150/153).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, das informações obtidas na página eletrônica do Tribunal de origem, verificou-se que, em 4/8/2023, nos autos da Ação Penal n. 0801501-37.2023.8.15.0751 ,  foi proferida sentença em que foi fixado o regime semiaberto, revogando-se a prisão preventiva, com a expedição de alvará de soltura em favor do ora recorrente.
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da interposição do reclamo.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
