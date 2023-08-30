@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de PABLO VINICIUS ALVES DE ALMEIDA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Nesta Corte, o impetrante alega, em suma, ausência de fundamentos concretos para a custódia preventiva.
+Ressalta que a quantidade de entorpecentes apreendidos não seria fundamento para a segregação cautelar.
+Requer a concessão da ordem para que seja revogada a prisão preventiva, com ou sem a fixação de medidas cautelares diversas.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Na hipótese, a prisão preventiva foi assim decretada (e-STJ, fls. 98-99, grifos do original):
+" ..  os PMs deram busca no automotor e localizaram 4 (quatro) tabletes de maconha, com peso total de 2.996,00 kg (dois quilogramas, novecentos e noventa e seis gramas).
+ ..  além de ter sido apontado como narcotraficante transportador de drogas, o autuado foi preso exatamente enquanto transporta grande quantidade de droga, em seu próprio veiculo, na qualidade de motorista de aplicativo, atividade inicialmente lícita e que servira como um manto para a ilicitude por trás de suas viagens.
+Além do que, extrai-se que o flagranteado teria admitido informalmente que aquele era o seu terceiro transporte intermunicipal de droga, pelo qual auferiria R$ 500,00 (quinhentos reais), sendo um forte indicativo: (i) do substancial rendimento dessa atividade criminosa; (ii) e de que PABLO VINICIUS esteja envolvido em uma cadeia maior de dispensação de substâncias, encontrando estímulos no meio social para esta prática, tanto que realizou a mesma conduta por mais de uma vez.
+Ressalto, por importante que o autuado se recusou indicar a pessoa a quem iria entregar a droga ou mesmo, aquela que de quem havia recebido o entorpecente em Carmo do Cajuru/MG e muito menos informou quem o havia contratado.
+Tais elementos concretos indicam risco para a ordem pública e evidenciam a periculosidade do flagranteado, que sobrepujam sobre as condições pessoais, não autorizando a primariedade, por si, a desconstituição da custódia cautelar, quando presentes outros elementos que a justifiquem."
+Ao denegar a ordem de habeas corpus originária, a Corte local consignou (e-STJ, fl. 24):
+"Ademais, é sabido que o tráfico de entorpecentes trata-se de um crime grave e fomentador de diversos outros delitos, mormente os contra o patrimônio e a vida, produzindo uma sensação de insegurança, gerando violência e intranquilidade ao meio social, reforçando a necessidade de manutenção da segregação do Paciente como forma de garantir a ordem pública.
+Tais circunstâncias, aliadas à quantidadede drogas apreendidas - quatro (04) "tabletes" de "maconha", com massa total de dois quilogramas, novecentos e noventa e seis gramas (2,996 Kg) (Exame Preliminar de Drogas de Abuso às f. 06/08 - doc. de ordem 3) -, evidenciam a gravidade concreta do crime supostamente praticado pelo Paciente, revelando sua periculosidade e reforçando a necessidade de manutenção de sua segregação como forma de garantir a ordem pública."
+A teor do art. 312 do Código de Processo Penal, havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso, verifica-se que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, porquanto foram apreendidos com o paciente quase 3 quilos de maconha.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP. No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Pelo mesmo motivo acima delineado, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Além disso, o fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
