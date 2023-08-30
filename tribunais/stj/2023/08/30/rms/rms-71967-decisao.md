@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por JOÃO MENDES DA COSTA NETO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança foi instruído apenas com o comprovante de pagamento das custas judiciais, sem as guias de recolhimento do preparo.
+A parte, embora regularmente intimada para sanar referido vício, nos termos do despacho de fl. 224 (e-STJ), quedou-se inerte (e-STJ fl. 228).
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no AREsp n. 1.921.239/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2022, DJe de 6/4/2022.
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 22/11/2022, sendo o recurso em mandado de segurança interposto somente em 09/02/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no AREsp 1.740.116/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 16/12/2020.)
+Não se desconhece o direito à suspensão dos prazos para advogada parturiente, no entanto os dias 24 e 28 de novembro de 2023 e os dias 2, 5 e 9 de dezembro de 2023 não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Quanto ao pedido liminar, sua admissibilidade está intrinsecamente vinculada à possibilidade de êxito do recurso em mandado de segurança. Considerando o não conhecimento do presente recurso, julgo prejudicado o pedido liminar.
+Publique-se. Intimem-se.
