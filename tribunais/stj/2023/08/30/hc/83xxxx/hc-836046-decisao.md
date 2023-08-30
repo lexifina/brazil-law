@@ -1,0 +1,14 @@
+DECISÃO
+DIOGO VINICIUS CARDOSO, condenado por roubo circunstanciado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que de parcial provimento ao recurso de apelação defensivo, mas manteve o regime fechado para o início do cumprimento da pena, o qual pretende a defesa seja substituído pelo semiaberto.
+Indeferida a liminar (fls. 196-197) e prestadas as infromações (fls. 203-205, foram os autos ao Ministério Público Federal, que se manifestou pela deengação da ordem, ao argumento de que a immposição do regime fechado se deu de forma fundamentada, notadamente diante da circunstâncias judiciais desfavoráveis (fls. 210-214).
+Decido.
+Extrai-se dos autos que o paciente foi condenado, em primeira instância, pela prática do crime do art. 157, § 2º, II, do Código Penal, ao cumprimento de 7 anos de reclusão e 16 dias-multa. A pena foi reduzida em grau de apelação para 6 anos, 3 meses e 18 dias de reclusão, em regime fechado, além do pagamento de 15 dias-multa. O regime mais gravoso foi estabelecido nestes termos:
+ ..
+Não obstante a reestruturação da pena e, considerando que dentre as circunstâncias judiciais elencadas pelo art. 59 do CP uma delas é desfavorável, incabível a fixação de regime diverso do fechado, nos termos do art. 33, § 3º do Código Penal.
+O Tribunal de origem, ao tratar da circunstância judicial desfavorável, ainda consignou o seguinte: "ao analisar o "modus operandi" adotado pelo apelante, que cometeu o delito durante a madrugada, contra vítimas que estavam dormindo em sua residência, o d. Sentenciante, acertadamente aferiu uma maior reprovabilidade da conduta, justificando, assim, a valoração negativa da circunstância judicial "culpabilidade"" (fl. 183).
+Como se observa, a regime mais gravoso imposto se lastreou não só na circunstância judicial desfavorável, devidamente registrada pelo decisum imppugnado, mas também no quadro fático delineado pelo Tribunal de origem, o qual se mostra suficiente para justificar a adoção do fechado, notadamente diante do modus operandi empregado.
+De fato, uma vez fixada pena superior a 4 anos de reclusão e "sendo desfavoráveis as circunstâncias judiciais, o regime fechado é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, "a", do CP" (AgRg no HC n. 711.617/SP, Rel. Ministro Ribeiro Dantas, DJe 14/2/2022).
+Além disso, " p ara a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena" (AgRg no HC n. 482.345/SP, Rel. Ministro Rogerio Schietti, DJe 23/9/2019), tal como se deu na espécie.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
