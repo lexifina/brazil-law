@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MENEZULLO ALIMENTOS EIRELI (EMPRESA DE PEQUENO PORTE) contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 280 do STF e 211 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n. 0029809-69.2019.8.19.0000) assim ementado (fl. 175):
+AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. ENTREGA DE LOJA EM SHOPPING CENTER. MULTA. PERÍCIA. Agravantes condenadas a entregar loja em shopping center, equipada e com a documentação regular. Discussão travada nos autos quanto ao cumprimento ou não da obrigação, motivo pelo qual foi realizada perícia ainda pendente de esclarecimentos no Juízo de origem. Fixação da multa, na decisão agravada, que foi prematura. Somente após decididas as questões da perícia e da documentação da loja, poderá ser analisado o cabimento da multa e, se for o caso, a sua quantificação. Recurso provido para afastar, por ora, a fixação de multa.
+Dos embargos de declaração opostos não se conheceu (fls. 205-208).
+No recurso especial, a ora agravante aduz ofensa aos arts. 4º e 5º, § 5º, da Lei n. 11.419/2006 e 270 e 272 do Código de Processo Civil, defendendo a intimação eletrônica em detrimento da publicação no Diário Oficial.
+Aduz ainda dissídio jurisprudencial.
+Requer  o  conhecimento  e  o  provimento  do  recurso para que seja anulado o acórdão que não conheceu os embargos de declaração por intempestividade.
+As contrarrazões não foram apresentadas (fl. 308).
+É  o  relatório.  Decido.
+O  recurso  merece  prosperar.
+No presente caso, no julgamento dos embargos de declaração, o Tribunal de origem assim decidiu (fls. 207-208):
+O recurso não deve ser conhecido, uma vez que ausente um dos seus pressupostos de admissibilidade, qual seja, a tempestividade.
+Isso porque a embargante foi intimada da decisão recorrida em 14/02/2020, através do Diário da Justiça Eletrônico do Rio de Janeiro (indexador 195) e só opôs os presentes aclaratórios em 05/03/2020, depois de transcorrido o prazo recursal de cinco dias previsto no artigo 1023 do Código de Processo Civil.
+Cumpre, ainda, ressaltar que de acordo com o Aviso TJ nº 04/2020, no âmbito do 2º grau de jurisdição, o DJERJ é o meio oficial de divulgação dos atos processuais do Tribunal de Justiça do Estado do Rio de Janeiro e a publicação para fins de intimação, à exceção dos casos em que a lei exija vista ou intimação pessoal, substitui qualquer outro meio de publicação oficial, bem como a intimação via portal.
+A decisão da Corte de origem não tem amparo na jurisprudência do STJ de que prevalece a intimação eletrônica sobre a publicação no Diário da Justiça.
+A propósito:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial. (EAREsp n. 1.663.952/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/5/2021, DJe de 9/6/2021.)
+No mesmo sentido, os seguintes precedentes: EAREsp n. 1.505.088/RJ, relator Ministro Raul Araújo, Segunda Seção, julgado em 26/4/2023, DJe de 3/5/2023; AgInt nos EDcl no AREsp n. 1.488.552/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2023, DJe de 2/5/2023; e AgInt no REsp n. 1.962.383/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de determinar o retorno do processo ao Tribunal de origem para que aprecie os embargos de declaração opostos pela recorrente.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se.  Intimem-se.
+EMENTA
