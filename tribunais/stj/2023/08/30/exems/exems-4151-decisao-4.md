@@ -1,0 +1,8 @@
+DECISÃO
+Decisão proferida na execução de registro nº 2016/0174802-5, oriunda do mesmo título judicial, homologou o acordo entabulado entre o SINDICATO NACIONAL DOS AUDITORES FISCAIS DA RECEITA FEDERAL DO BRASIL e a UNIÃO, condicionando a expedição das requisições de pagamento à apresentação do Termo de Declaração Individual e dos dados exigidos pela legislação para instrução d o ofício requisitório.
+Mediante as petições de fls. 1516-1524 e 1527-1560, a UNIÃO apresenta planilhas de valores devidos, documento pessoal e Termo de Declaração Individual (assinado dentro do prazo indicado) de CARLOS HENRIQUE FERREIRA REZENDE, CARLOS NEVES PINHEIRO, CARLOS ROBERTO BISPO, CARLOS ROBERTO BRANDÃO, CARLOS ROBERTO GONÇALVES e CARLOS PEREIRA DE ARAÚJO, com autorização de destaque de honorários, para possibilitar a expedição das respectivas requisições de pagamento.
+Em relação a CARLOS NEVES PINHEIRO e CARLOS ROBERTO BISPO, acosta, também, Declaração e Termo de Renúncia Individual aos valores que excederem 60 (sessenta) salários mínimos para que o crédito seja pago por meio de RPV.
+Ante o exposto, tendo em vista o cumprimento das condições estabelecidas na decisão que homologou o acordo entre as partes, determino a expedição das requisições de pagamento em favor dos interessados acima nominados, com destaque de honorários advocatícios, observados os instrumentos contratuais acostados aos autos e o valor apurado pela UNIÃO.
+No tocante a CARLOS NEVES PINHEIRO e CARLOS ROBERTO BISPO, homologo a renúncia expressamente manifestada à fl. 1534 e 1540 para determinar que as respectivas requisições sejam expedidas na modalidade RPV.
+Publique-se. Intimem-se.
+EMENTA
