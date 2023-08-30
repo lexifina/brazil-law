@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AUTO POSTO MASTER EIRELI (outro nome: AUTO POSTO MASTER LTDA), com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado (fls. 389):
+CIVIL. PROCESSO CIVIL. APELAÇÃO. AGRAVO RETIDO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NECESSIGAGE GE AMPLA DILAÇÃO PROBATÓRIA. DÚVIDA QUANTO A LEGALIGADADE E BOA FÉ DA AQUISIÇÃO DO MESMO IMÓVEL POR DUAS PESSOAS JURÍDICAS DIVERSAS. ESCASSEZ DE ELEMENTOS PARA A SOLUÇÃO DA CONTROVÉRSIA. NECESSIDADE DE RETORNO DOS AUTOS A VARA DE ORIGEM PARA PRODUÇÃO DE PROVAS. AGRAVO RETIDO PROVIDO. APELAÇÃO PREJUDICADA.
+1. Deve ser cassada a sentença proferida em julgamento antecipado da lide, quando a dilação probatória se revela indispensável ao esclarecimento da verdade real.
+2. No presente caso, os autos devem retornar à Vara de Origem para elucidar a cadeia dominial e produzir provas no intuito de esclarecer qual das partes adquiriu legitimamente o imóvel.
+3. Agravo retido provido. Apelação prejudicada.
+Os dois embargos de declaração opostos pela recorrente foram rejeitados (fls. 1.142-1.147 e 1.173-1.179).
+Nas razões de seu recurso especial (fls. 1.282-1.305), a recorrente alega que "a decisão, ora Recorrida, conflita nitidamente com os termos da previsão constitucional abaixo minudenciada, uma vez que decidiu em evidente violação da previsão assegurada nos artigos 114 e 115, I, do NCPC, que já estava assegurada no artigo 47, do CPC/73" (fl. 1.289).
+A propósito, consigna que (fl. 1294):
+ ..  o presente recurso especial alicerça-se na imperiosa apreciação da demonstrada falta de integração de litisconsorte passivo necessário nos Embargos de Terceiro, in casu, o ora recorrente, no que provocou a violação direta e frontal de texto de Lei Federal.
+Dessa maneira, emerge de forma cristalina a vulneração aos artigos 114 e 115, I, do NCPC (antes 47 do CPC/1973), pois, malgrado sobressaia dos autos, através de declaração da própria recorrida, conforme noticiado às fls. 79, quinto parágrafo (no bojo do Recurso de Apelação outrora manejado pela Recorrida Construtora Capital S/A.), que o bem em disputa foi adjudicado pelo ora Recorrente, não consta dos autos o necessário chamamento deste para compor a lide e exercer o lídimo direito ao pleno exercício do contraditório, na qualidade de litisconsorte passivo necessário.
+Apresentadas as contrarrazões (fls. 1.318-1.327), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 1.331-1.334), o que ensejou a interposição de agravo (fls. 1338-1354).
+Apresentada contraminuta do agravo (fls. 1.359-1.368), houve posterior manifestação do Ministro Paulo de Tarso Sanseverino para determinar a conversão dos autos em recurso especial (fls. 1.378-1.379).
+É, no essencial, o relatório.
+Ao julgar a questão da formação do litisconsórcio passivo necessário, destacou a origem no julgamento dos primeiros aclaratórios (fls. 1.146-1.147):
+Deduzido tempestivamente, resta asseverar que a petição de embargos prende-se essencialmente a matérias que não podem ser suscitadas por intermédio desta via recursal, absolutamente inadequada para tanto.
+Isso porque, apesar do Embargante reclamar a condição de litisconsorte passivo necessário, observa-se que no momento do ajuizamento da ação por parte da Construtora Capital, o bem objeto deste litígio ainda não havia sido adjudicado em favor do Auto Posto Master.
+Desta forma, não há como sustentar-se nulidade na citação, pois no momento em que fora recebida a ação no juízo a quo o Embargante ainda não havia adjudicado o imóvel.
+Demais disso, cumpre-me consignar que com o cassação da sentença, será novamente apreciada a oposição interposta pelo Embargante, assegurando-lhe ampla dilação probatória, de forma que não haverá prejuízo algum ao seu direito de defesa.
+No julgamento dos segundos embargos, reforçou a Corte a quo (fl. 1.178):
+Nesse sentido, os embargos não podem ser acolhidos quando destinados apenas a rediscutir a matéria apreciada na decisão embargada, sendo imprescindível que o embargante aponte a existência de omissão, obscuridade e contradição, o que, no entanto, não ocorreu.
+Isso porque não há erro material algum a ser corrigido, porquanto os autos dão conta de que os Embargos de Terceiro da Construtora Capital foram protocolados no dia 26/11/2009, conforme se observa na certidão inserida às fls. 29.
+Desta forma, na data do protocolo dos Embargos de Terceiro conclui-se que o Auto Posto Máster ainda não havia adjudicado o bem, fato que somente viria a acontecer em 11 de janeiro de 2010.
+Assim, naquela assentada parece-me natural que o Auto Posto Máster ainda não ostentava a condição de litisconsorte passiva necessário.
+Neste contexto, o acolhimento da tese de que ocorrera nulidade em razão da ausência de formação do litisconsórcio passivo necessário, em contraposição à conclusão da origem de que o litisconsórcio decorreu de fato superveniente ao ajuizamento, demandaria reexame do acervo fático dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Neste sentido:
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para afastar a conclusão de que a matéria referente ao litisconsórcio passivo necessário está preclusa, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+(AgInt no AREsp n. 2.113.784/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/6/2023.)
+Ademais, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar a existência de litisconsórcio passivo necessário e deixa de impugnar o fundamento do acordão recorrido no sentido de ausência de prejuízo, pois a cassação da sentença abrirá oportunidade para seu exercício do direito de defesa, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+6. Nas razões do Recurso Especial, verifica-se que não houve a impugnação particularizada de fundamento basilar que ampara o acórdão hostilizado, ou seja, de que a questão relacionada à distribuição do ônus da prova cabe ao juízo de primeiro grau, ante a declaração de nulidade da sentença. Eventual julgamento pelo órgão colegiado configura julgamento extra petita, esbarrando-se, pois, por analogia, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+(AREsp n. 1.520.689/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/5/2020.)
+2. A ausência de impugnação direta, inequívoca e efetiva ao fundamento do acórdão recorrido - ilegalidade da exclusão do ora recorrido do quadro de credenciados, por falta de um processo regular, em que pudesse exercer seu direito de defesa, consoante dispõe o estatuto da recorrente -, por si só suficiente para a mantença do acórdão, atrai a incidência, por analogia, da Súmula 283/STF.
+(AgRg no AREsp n. 335.279/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 19/12/2014.)
+3.- Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido quanto à ausência de prejuízo ao direito de defesa do Recorrente, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+(AgRg nos EDcl no REsp n. 1.163.582/SP, relator Ministro Sidnei Beneti, Terceira Turma, DJe de 15/5/2014.)
+Ante o exposto, não conheço do recurso especial de Auto Posto Master EIRELI (outro nome: Auto Posto Master Ltda.).
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+ EMENTA
