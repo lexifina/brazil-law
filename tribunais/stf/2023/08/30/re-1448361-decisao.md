@@ -1,0 +1,64 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DIREITO FINANCEIRO. MUNICÍPIO INSCRITO NO CADASTRO DE INADIMPLENTES. AUSÊNCIA DE REPASSE DO RELATÓRIO DE GESTÃO FISCAL PELA CÂMARA MUNICIPAL. SEPARAÇÃO DOS PODERES. AUTONOMIA FINANCEIRA. PRINCÍPIO DA INTRANSCENDÊNCIA DAS SANÇÕES FINANCEIRAS: TEMA 743 DA REPERCUSSÃO GERAL. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+Relatório
+
+    1. Recurso extraordinário interposto pelo Município de Jaqueira com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quinta Região:
+
+    “TRIBUTÁRIO. MUNICÍPIO DE JAQUEIRA/PE. FALTA DE ENCAMINHAMENTO DO RELATÓRIO DE GESTÃO FISCAL – RGF (SICONF). SUSPENSÃO DA INSCRIÇÃO NO CAUC. IMPOSSIBILIDADE. IMPROVIMENTO. 1. Trata-se de apelação interposta pelo Município de Jaqueira – PE em face de sentença que julgou improcedente o pedido de exclusão do CAUC em razão de não ser responsável pelo registro de inadimplência. Honorários advocatícios fixados em R$ 1.000,00 (valor da causa: R$ 1.000,00). 2. Em suas razões recursais, o apelante sustenta a impossibilidade de o Poder Executivo Municipal sofrer sanções em razão da inércia do Poder Legislativo em enviar o relatório de gestão fiscal. Destaca que o TRF5 vem reconhecendo o direito à exclusão de Municípios do CAUC, quando a inserção se dá em razão do não cumprimento de deveres por parte do Legislativo. Pugna pela suspensão da inscrição no CAUC. 3. No caso, o Município requer a suspensão das restrições cadastrais no CAUC/SIAFI, a fim de que tenha acesso à celebração de convênios para transferência voluntária de recursos federais.
+
+    4. A Instrução Normativa STN nº 02/2012, que disciplinou a coleta e o fornecimento de informações acerca de requisitos fiscais dos Estados, do Distrito Federal e dos municípios para a realização de transferências voluntárias, revogou a I. N. STN nº 01/2005, que tratava da realização de transferências voluntárias da União no âmbito do CAUC, e instituiu o Serviço Auxiliar de Informações para Transferências Voluntárias. 5. A União enfatiza que: ‘Esse Serviço Auxiliar é um serviço informatizado, de atualização diária, que tem por objetivo exclusivo simplificar a verificação do atendimento, pelos entes da Federação, de 13 dos 22 requisitos fiscais para a transferência voluntária de recursos da União, não se configurando como um cadastro de inadimplentes. A consulta a esse novo serviço não é sequer obrigatória, uma vez que a escolha da forma de comprovação do cumprimento das exigências constitucionais e legais para conveniar cabe exclusivamente ao ente da Federação interessado, podendo se dar pela via documental ou, alternativamente, por meio do Serviço Auxiliar, conforme determinam as últimas Leis de Diretrizes Orçamentárias’ (Id. 22386759). 6. O documento do CAUC acostado aos autos demonstra que o Município possui irregularidade no item 3.1.2 - Encaminhamento do Relatório de Gestão Fiscal ao SICONFI (Id. 21855391). 7. A Segunda Turma possui entendimento no sentido de que ‘cabe ao ente federativo o encaminhamento do Relatório de Gestão Fiscal – RGF (SICONF), de modo que não há que se falar em suspensão da inscrição do Município no Cadastro Único de Exigências para Transferências Voluntárias para Estados e Municípios – CAUC’ (TRF5, PROCESSO: 08001696020214058303, APELAÇÃO CÍVEL, RELATOR DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, SEGUNDA TURMA, JULGAMENTO: 12/04/2022). 8. Honorários recursais fixados em R$ 200,00 (duzentos reais).
+9. Apelação improvida” (fls. 2-3, e-doc. 10).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 14).
+
+    2. O Município de Jaqueira alega ter o Tribunal de origem contrariado o art. 2º e o inc. XLV do art. 5º da Constituição da República.
+
+    Relata que “a Municipalidade Recorrente foi inscrita no cadastro restritivo CAUC cujo apontamento atacado na ação em evidência, se referencia ao item 3.1.2 – Encaminhamento do Relatório de Gestão Fiscal ao SICONFI, conforme extrato anexo aos autos” (fl. 4, e-doc. 16).
+
+    Assinala que “a razão de ser da inclusão no CAUC se dá em razão de pendência da Câmara Municipal de Vereadores, conforme se constata do extrato detalhado emitido acostado aos autos do sistema CAUC que comprova essa realidade. Diante do cenário e pela necessidade de regularizar-se a situação é que se buscou a proteção jurisdicional para suspensão da inadimplência” (fl. 4,
+e-doc. 16).
+
+    Ressalta que “a Câmara Municipal, em face da independência, autonomia administrativa e financeira que a Constituição Federal lhe atribui, referendada pela Lei Orgânica do Município, controla o pagamento da contribuição previdenciária sobre a folha de pagamento de seus membros e servidores, para tanto dispondo de orçamento próprio e possui a obrigação de encaminhar no devido tempo e modo o Relatório de Gestão Fiscal, não cabendo ao Município qualquer interferência” (fl. 10, e-doc. 16).
+
+    Corrobora que “deve prevalecer o Princípio da Intranscendência Subjetiva das Sanções, previsto no art. 5º, inciso XLV da Constituição Federal de 1988, o qual consagra a impossibilidade de sanções e restrições de ordem jurídica superarem a dimensão estritamente pessoal do infrator” (fl. 10, e-doc. 16).
+
+    Pede “o conhecimento do presente recurso extraordinário, face ao preenchimento dos requisitos intrínsecos e extrínsecos; no mérito, o seu provimento, para fins de reformar-se o acórdão recorrido, uma vez que o mesmo afrontou disposições expressas previstas nos artigos 2º e 5º XLV da Constituição Federal, de modo a julgar procedente a ação, determinando a União que proceda com a suspensão da inscrição do Município de Jaqueira/PE no Cadastro Único de Exigências para Transferências Voluntárias para Estados e Municípios – CAUC, em relação à pendência consubstanciada no item 3.1.2 – Encaminhamento do Relatório de Gestão Fiscal ao SICONFI por parte da Câmara Municipal de Vereadores de Jaqueira, em nome do princípio da intranscendência subjetiva das sanções, na linha do que restou decidido por esse Excelso Tribunal, quando do julgamento do Recurso Extraordinário 770.149/PE, sob os auspícios da repercussão geral, conforme retratado na gama de precedentes da Suprema Corte referenciados no presente apelo extremo” (fl. 17, e-doc. 16).
+
+    3. Foram apresentadas contrarrazões ao recurso em 17.4.2023
+(e-doc. 18).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica assiste ao recorrente.
+
+    5. Na sentença de primeiro grau, confirmada pelo Tribunal de origem, o juiz sentenciante assinalou que, "conforme se observa do extrato do CAUC, id. 4058307.21855391, o Município requerente foi inscrito em razão de inadimplência registrada no '3º quadrimestre de 2021', atribuída a 'câmara de Vereadores de Jaqueira – PE’" (fl. 2, e-doc. 4).
+
+    Essa situação jurídica analisada nas instâncias ordinárias demonstra que a inscrição no CAUC decorreu da inércia do Poder Legislativo, pois não houve o repasse do relatório de gestão fiscal pela Câmara Municipal, não sendo possível, em face do princípio da intranscendência, a atribuição de responsabilidade ao Poder Executivo municipal.
+
+    No julgamento do Recurso Extraordinário n. 770.149-RG, Tema 743, Redator para o acórdão o Ministro Edson Fachin, este Supremo Tribunal fixou a tese de ser “possível ao Município obter certidão positiva de débitos com efeito de negativa quando a Câmara Municipal do mesmo ente possui débitos com a Fazenda Nacional, tendo em conta o princípio da intranscendência subjetiva das sanções financeiras”. O acórdão tem a seguinte ementa:
+
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 743. DIREITO FINANCEIRO. SEPARAÇÃO DOS PODERES. AUTONOMIA FINANCEIRA. INSCRIÇÃO CADASTROS DE INADIMPLENTES. PRINCÍPIO DA INSTRANSCENDÊNCIA DE SANÇÕES. 1. A autonomia financeira dos Poderes veda limitação de despesas por outro Poder conforme decisão proferida na ADI n.2238, DJe 15 set. 2020. 3. A jurisprudência da Corte está orientada no sentido de que a imposição de sanções ao Executivo estadual em virtude de pendências dos Poderes Legislativo e Judiciário locais constitui violação do princípio da intranscendência, na medida em que o Governo do Estado não tem competência para intervir na esfera orgânica daquelas instituições, que dispõem de plena autonomia institucional a elas outorgadas por efeito de expressa determinação constitucional. Precedentes. (RE 1.254.102 - AgR, de minha relatoria, Segunda Turma, DJe 17 jun. 2020; RE 1263840 AgR, Relator Min. Marco Aurélio, Primeira Turma, DJe 14 ago. 2020; RE 1263645 AgR, Relator Min. Ricardo Lewandowski, Segunda Turma, DJe 06 ago. 2020; RE 1214919 AgR-segundo, Relator Min. Roberto Barroso, Primeira Turma, DJe 11.10.19).
+3. Tese fixada em repercussão geral (Tema n.743): ‘É possível ao Município obter certidão positiva de débitos com efeito de negativa quando a Câmara Municipal do mesmo ente possui débitos com a Fazenda Nacional, tendo em conta o princípio da intranscendência subjetiva das sanções financeiras.’ 4. Recurso Extraordinário a que se nega provimento” (DJe 2.10.2020).
+
+    Na linha desse paradigma de repercussão geral, este Supremo Tribunal firmou jurisprudência de que a imposição de sanções ao Executivo estadual ou municipal, por pendência do Poder Legislativo local, constitui ofensa ao princípio da intranscendência, pois o Poder Executivo não tem competência para intervir na organização e na atuação de outro Poder, que dispõe de plena autonomia institucional por expressa determinação constitucional. Confiram-se, por exemplo, estes julgados:
+
+    “DIREITO TRIBUTÁRIO E FINANCEIRO. VERBAS DO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). BLOQUEIO. DÉBITOS ORIUNDOS DO LEGISLATIVO. INTRANSCENDÊNCIA DAS SANÇÕES. 1. O Supremo Tribunal Federal, ao apreciar o Tema 743 da sistemática da repercussão geral, decidiu que a imposição de sanções ao Executivo, em virtude de pendências dos Poderes Legislativo e Judiciário locais, constitui violação do princípio da intranscendência. Isso porque aquele Poder não tem competência para intervir na esfera orgânica dessas instituições, as quais possuem plena autonomia institucional. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento” (RE n. 1.309.040-AgR-segundo, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 12.8.2022).
+
+    “Agravo interno na ação cível originária. 2. Direito Constitucional e Administrativo. 3. Realização de operação de crédito. Sanções em virtude de irregularidades com gasto de pessoal praticadas por órgãos e poderes autônomos. 4. Princípio da intranscendência das sanções. Insubsistência da medida restritiva ao Poder que não possui ingerência administrativa sobre o órgão descumpridor. Jurisprudência pacífica. 5. Matéria submetida à repercussão geral. Tema 743. Precedentes. 6. Argumentos insuficientes para alterar a decisão agravada. 7. Agravo interno desprovido. 8. Majoração dos honorários advocatícios a cargo da União (art. 85, § 11, do CPC). 9. Multa. Em caso de votação unânime, aplica-se a multa prevista no art. 1.021,
+§ 4º, do CPC, no percentual de 5% sobre o valor atualizado da causa” (ACO n. 3.327-AgR, Relator o Ministro Gilmar Mendes, Plenário, DJe 17.6.2021).
+
+    Nesse sentido, ainda, as seguintes decisões monocráticas: RE n. 1.323.340/PE, de minha relatoria, DJe 7.7.2021; RE n. 1.421.526/PE, Relator o Ministro Edson Fachin, DJe 4.8.2023; RE n. 1.428.381/ PE, Relator o Ministro Roberto Barroso, DJe 26.4.2023; RE n. 791.540/PB, Relator o Ministro Nunes Marques, DJe 8.3.2023; e RE n. 1.406.116/PE, Relator o Ministro Alexandre de Moraes, DJe 20.10.2022.
+
+    A conclusão adotada no acórdão recorrido divergiu da orientação jurisprudencial firmada por este Supremo Tribunal, pois, no caso em exame, trata-se de pendência fiscal do Poder Legislativo local, causando inadimplência federal com a imposição de sanções e restrições de ordem jurídica que impossibilitem o repasse de verbas federais ou a celebração de acordos de cooperação, convênios e operações de crédito ou de garantias, necessários à execução de políticas públicas ou à prestação de serviços públicos essenciais à coletividade.
+
+    6. Pelo exposto, dou provimento ao presente recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) para cassar o acórdão recorrido e determinar, em conformidade com a jurisprudência deste Supremo Tribunal, a remessa dos autos ao Tribunal de origem para adequação ao Tema 743 da repercussão geral.
+
+    Publique-se.
+
+    Brasília, 30 de agosto de 2023.
+
+    Ministra CÁRMEN LÚCIA
+
+    Relatora
