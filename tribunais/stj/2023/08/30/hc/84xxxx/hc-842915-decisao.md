@@ -1,0 +1,26 @@
+DECISÃO
+HYAGO VYTOR DO NASCIMENTO FERREIRA PINTO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500388-37.2022.8.26.0621).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 e 1 ano de detenção, mais multa, pela prática do crime previsto no art. 12 da Lei n. 10.826/2003.
+Nas razões da impetração, a defesa sustenta que o paciente preenche os requisitos legais para a aplicação da causa de diminuição de pena, pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei n. 11.343/2006.
+Acolhido o pleito, pugna pela fixação de regime menos gravoso e pela substituição da sanção por restritiva de direitos.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 45-49).
+Decido.
+I. Causa de diminuição de pena pelo tráfico privilegiado
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+O Juízo sentenciante, assim fundamentou a negativa de aplicação do benefício (fl. 2 0, destaquei): "Inaplicável a causa especial de diminuição do art. 33 § 4º da Lei 11.343/2006, porque, diante da quantidade de dinheiro encontrada, aliada a existência de munição apta ao disparo e as notícias de posição de liderança do acusado, demonstram não se tratar de pessoa com envolvimento esporádico na atividade criminosa".
+A Corte estadual, ao julgar o recurso de apelação, acrescentou (fls. 32-33, destaquei):
+Inviável a aplicação do redutor, como pretende a combativa defesa.
+De certo que ao "marinheiro de primeira viagem", não seria confiada tal quantidade de drogas, que, ademais, para serem comercializadas, também dependeriam de certa dedicação e empenho por parte do acusado, atingindo considerável número de usuários, sem falar na expressiva quantia em dinheiro cuja origem lícita não se comprovou.
+Não se pode olvidar, visa a lei, dentre outros objetivos, atingir, com tal redução, o traficante não habitual, que acaba de se inserir no universo do crime, cuja quantidade, variedade e natureza da droga localizada em seu poder se apresentar capaz de atingir apenas pequeno número de pessoas, e com menor grau de devastação, punindo, em contrapartida, com maior rigor, aqueles que representam maior risco à sociedade, pelas razões inversas.
+Assim, as particularidades do caso ema nálise, citadas acima, não autorizam a diminuição da reprimenda, sob pena de afastar-se o julgador do verdadeiro escopo legal.
+No caso, observo que as instâncias originárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos aptos a evidenciar a dedicação habitual do paciente ao comércio espúrio, fundada na quantidade expressiva em dinheiro apreendida (R$ 6.519,00), conjugada com as circunstâncias do delito - com a apreensão de embalagens para fracionamento do entorpecente, além de 14 cartuchos de munição -, os quais em conjunto indicam a dedicação a atividades ilícitas.
+Vale ressaltar que, de acordo com a jurisprudência deste Superior Tribunal, "Podem ser considerados como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições - especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando, de modo fundamentado, ficar evidenciado o envolvimento do agente com organização criminosa" (AgRg no HC n. 749.116/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 28/10/2022).
+Assim, porque concretamente fundamentada a impossibilidade de incidência da referida minorante, não identifico constrangimento ilegal, nesse sentido, já me manifestei em outras oportunidades (AgRg no HC n. 797.753/RS, 6ª T., DJe 18/5/2023.)
+Ademais, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que se dedicaria o acusado a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+II. Regime e substituição
+Por fim, fixada pena superior a 4 anos de reclusão e infrutífera a tese recursal, permanece inalterado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b" e § 3º do CP; bem como a impossibilidade de sua substituição, nos termos do art. 44, I, do CP.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
