@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo ESTADO DE MINAS GERAIS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS , assim ementado:
+"REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - DIFERENÇAS DE URV - SERVIDORES DO PODER JUDICIÁRIO ESTADUAL - JUROS DE MORA INCIDENTES - RECONHECIMENTO PARCIAL DA PROCEDÊNCIA DO PEDIDO - INCIDÊNCIA DE IMPOSTO DE RENDA E CONTRIBUIÇÃO PREVIDENCIÁRIA.
+- Havendo o reconhecimento, por parte da Administração, de que os juros de mora, incidentes sobre a parcela remuneratória denominada diferença de URV, estavam sendo calculados de forma equivocada, deve ser atendida a pretensão do autor, em razão do reconhecimento da procedência do pedido.
+- Devido à natureza remuneratória, incide imposto de renda e contribuição previdenciária sobre os juros de mora relativos ao pagamento de diferenças de URV" (fl. 579e).
+Opostos Embargos de Declaração, pelo ente público (fls. 586/588e), em 2º Grau, restaram parcialmente acolhidos, com efeitos infringentes, para julgar improcedente a demanda (fls. 600/608e).
+Opostos novos Embargos de Declaração, pelos autores (fls. 611/614e), foram eles acolhidos, para restabelecer a sentença de parcial procedência da demanda (fls. 624/631e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, o ente público apontou, além do dissídio jurisprudencial, violação aos arts. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, e 1.211 do CPC/73, sustentando serem devidos os juros de mora previstos no supracitado art. 1º-F da Lei 9.494/97, a partir de 30/06/2009, data de início da vigência da Lei 11.960/2009.
+Contrarrazões a fls. 694/704e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 937/938e).
+A irresignação merece prosperar.
+Na origem, trata-se de ação ordinária, ajuizada em 19/11/2010, visando a cobrança de parcela remuneratória denominada diferença de URV (11,98%), acrescida de juros de mora de 1% ao mês.
+O Juízo de 1º Grau julgou parcialmente procedente a demanda, para condenar o réu ao pagamento de juros de mora de 1% ao mês, de abril de 1994 a agosto de 2001, e, a partir de setembro de 2001, de 0,5% ao mês, na forma não capitalizada, sobre a parcela remuneratória denominada diferença de URV (11,98%).
+O Tribunal de origem, após idas e vindas, acabou por manter a sentença de parcial procedência da demanda.
+Daí a interposição do presente Recurso Especial.
+Na forma da jurisprudência firmada pelo STJ, sob o rito dos recursos repetitivos, a partir de 30/06/2009, imperiosa a incidência dos juros de mora previstos no art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, nas condenações impostas à Fazenda Pública referentes a diferenças remuneratórias devidas a servidores públicos, visto que, no ponto (juros moratórios sobre débitos não tributários), a regra não sofreu os efeitos do julgamento da ADI 4357/DF.
+Com efeito, a Primeira Seção do STJ, ao julgar, sob o rito dos recursos repetitivos, o REsp 1.495.144/RS, deixou assentado que "as condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E" (STJ, REsp 1.495.144/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de determinar, a partir de 30/06/2009, a incidência dos juros de mora pre vistos no art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, nas condenações impostas à Fazenda Pública referentes a diferenças remuneratórias devidas aos servidores públicos autores da demanda.
+I.
+EMENTA
