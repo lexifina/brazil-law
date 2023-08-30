@@ -1,0 +1,89 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. TENTATIVA. ARTIGO 121, § 2º, II E IV, C/C ARTIGO 14, II, AMBOS DO CÓDIGO PENAL. PRONÚNCIA. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LVII, DA CONSTITUIÇÃO FEDERAL. PRESUNÇÃO DE INOCÊNCIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO NA FORMA TENTADA (ART. 121, 82º, II E IV, C/C ART. 14, HI, AMBOS DO CP). PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE LESÕES CORPORAIS. INACOLHIMENTO. IMPOSSIBILIDADE DE SE FORMAR UMA CONVICÇÃO ABSOLUTA, NOS LIMITES COGNITIVOS DESSA FASE PROCESSUAL, A RESPEITO DAS SITUAÇÕES FÁTICAS. DIVERGÊNCIA A SER SANADA PELO CONSELHO DE SENTENÇA. PLEITO DE AFASTAMENTO DAS QUALIFICADORAS: MOTIVO FUTIL E USO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. INACOLHIMENTO. MATERIALIDADE E INDÍCIOS DE AUTORIA DELITIVA SUFICIENTES PARA A PROLAÇÃO DA DECISÃO DE PRONÚNCIA. CONJUNTO PROBATÓRIO APTO, NESTA FASE PROCESSUAL, A RESPALDAR A ACUSAÇÃO DE DELITO DOLOSO CONTRA A VIDA. SUBMISSÃO DA MATÉRIA AO TRIBUNAL DO JÚRI. RECURSO CONHECIDO E IMPROVIDO.
+
+    I - Cuida-se de Recurso em Sentido Estrito interposto por Michel Almeida de Oliveira Veras, insurgindo-se contra a decisão proferida pelo MM. Juiz de Direito da 1º Vara Criminal da Comarca de Jacobina/BA, que o pronunciou como incurso nas sanções penais do art. 121, § 2º, incisos II e IV, c/c art. 14, inciso II, ambos do Código Penal.
+
+    II - Extrai-se da exordial acusatória (fls. 60/61), in verbis: ‘que no dia 30 de junho de 2012, por volta das 23h, na Rua Presidente Vargas, no município de Caém-BA, o ora denunciado, com intenção de matar, desferiu dois golpes de faca peixeira contra Hugo Oliveira Piauhy Segundo, que o atingiram na região torácica, não tendo consumado o homicídio em virtude da intervenção de populares e do atendimento médico dispensado à vítima. Consta dos autos que ao sair de uma festa no Clube Social da cidade de Caém-BA, a vítima observou que o veiculo que o denunciado conduzia estava obstruindo a passagem dos demais automóveis. Nesse momento, a vítima se dirigiu até o denunciado e pediu-lhe que obstruísse o tráfego, o que desagradou o denunciado e seus colegas que passaram a agredir fisicamente a vítima, tendo esta revidado em defesa. A partir desse momento, o denunciado retornou ao seu carro, oportunidade em que pegou uma faca peixeira e desferiu dois golpes na região torácica da vítima, conforme laudo de fl. 27, não tendo prosseguido nas agressões porque houve a intervenção de populares.’
+
+    III - A defesa pugna pela desclassificação da conduta para o crime de lesão corporal (art. 129 do Código Penal) requerendo, ainda, o afastamento das qualificadoras.
+
+    IV - Não merece reparo o decisio objurgado. Transcreve-se trecho da decisão de pronúncia (ID. 13193716 — Págs. 01/02) ‘(...JA análise, por ocasião da sentença de pronúncia, há que se limitar aos aspectos externos da conduta delitiva sob pena de substituir-se o julgador singular ao colegiado constitucionalmente competente para suficientemente comprovada, tendo em vista o laudo pericial de fls. 92. Os indícios de autoria despontam, sobretudo, do depoimento das testemunhas em Juízo e do interrogatório do réu. [...J Assinalo que o principio a ser aplicado, nesta fase processual, é o in dubio pro societate, pelo qual na existência de dúvida deve a questão ser submetida ao tribunal do júri. [...JO nobre defensor do acusado pugna pela desclassificação e, subsidiariamente, requer o afastamento das qualificadoras. Ora, não merece acolhida a tese defensiva, uma vez que estou convencido da existência dos requisitos elencados no art. 413 do Código de Processo Penal. Se para a impronúncia/desclassificação faz-se imprescindível a certeza de que não há indícios suficientes de autoria ou de que não se tratou de crime doloso contra a vida, para a pronúncia basta a dúvida, cabendo ao Conselho de Sentença dirimir a questão. O mesmo entendimento é aplicável para a pretensão da desclassificação, ou seja, havendo dúvida razoável, a decisão final cabe aos jurados. [...J Quanto às qualificadoras constante da persecução penal, como se sabe, a jurisprudência dominante é no sentido de que as qualificadoras só devem ser afastadas da pronúncia se forem improcedentes ou não tiverem algum apoio na prova coligida. (...)”
+
+    V — Como é cediço, a pronúncia é decisão de natureza mista não terminativa, consistente em um mero juízo de admissibilidade da acusação de crime doloso contra a vida. Justamente por isso, basta, para a sua prolação, a probabilidade de procedência do quanto pretendido pelo dominus litis, o que, de acordo com o art. 413 do CPP, ocorrerá sempre que a autoridade judicial competente convencer-se da materialidade do fato e da existência de indícios suficientes de autoria ou de participação.
+
+    VI — Na hipótese vertente, o convencimento sobre a materialidade e os indícios de autoria delitiva decorre, como bem destacado na decisão vergastada, do Laudo Pericial da arma supostamente empregada no crime (fls. 90/91), do Laudo de Exame de Lesões Corporais (fl. 92), e das provas testemunhais colhidas tanto em juízo como na fase inquisitorial, sendo suficientes para configurar os elementos autorizadores da pronúncia, nos termos do art. 413 do CPP.
+
+    VII - A testemunha LEOBALDO LOPES CHAGAS, narrou em Juízo, (sic): ‘Quando saiu da festa o réu estava com a faca na mão, e não viu os golpes; quando percebeu que a vítima era conhecida, por isso se aproximou e prestou socorro; que a vítima tinha um ferimento na parte alta das costas e outro no braço; que viu a faca de cabo branco que foi usada; acompanhou somente até o hospital; que a vítima estava sangrando muito; que quando viu a vítima ela estava em pé; durante o percurso de Caem até Jacobina a vítima estava consciente e conversava pouco.‘ (mídia audiovisual fl. 18 dos autos físicos). Corroborando ao quanto exposto, a testemunha DEIVISSON PEREIRA SAMPAIO asseverou mediante contraditório judicial, in verbis: ‘Estava no local da festa, que estava engarrafado; viu a vítima correndo e o acusado atrás com a faca na mão, tendo a vítima caído e o acusado desferiu um golpe com a faca que "cravou" nas costas da vítima; que a vítima não estava armada; que tinham outras pessoas correndo atrás da vítima; Que o carro do réu estava impedindo e obstruindo o trânsito na saída da festa; tinham vários homens correndo atrás da vítima, mas apenas o réu agrediu a vítima com uma faca; Que não sabe informar se o réu já se envolveu com outras confusões. (...)’ (mídia audiovisual fl. 18 dos autos físicos)
+
+    VIII - Nesse contexto, tem-se que não merece acolhida o pleito defensivo de desclassificação do crime de homicídio qualificado tentado (art. 121, $ 2º, incisos II e IV, c/c art. 14, inciso II, ambos do Código Penal) para o de lesão corporal. Isso porque, ao analisar as provas, percebe-se que a intenção única de lesionar, até o presente momento, não se mostrou estreme de dúvida, pelo que não se revela passível de reforma a decisão da instância primeva que submeteu a análise do mérito ao Plenário do Júri, remanescendo controvérsias a respeito do animus do agente, mormente pelo teor dos depoimentos coligidos, bem como pelo local e gravidade das lesões (golpes de faca, tipo peixeira, na região torácica).
+
+    IX — Com efeito, a prova dos autos não apontou, de forma inequívoca ou indene de dúvidas, que Michel Almeida de Oliveira Veras não agiu com animus necandi, em face da vítima, razão pela qual deve a matéria ser submetida ao Tribunal Popular.
+
+    X — Como se sabe, diferentemente das sentenças terminativas, onde impera o princípio do ‘in dubio pro reo’, nas decisões de pronúncia, estando presentes os indícios de materialidade e autoria, predomina o princípio do ‘in dubio pro societate’, uma vez que a Constituição, nos crimes dolosos contra a vida, determinou a competência da sociedade para julgar tais delitos através do Tribunal do Júri, razão pela qual só poderia o juízo sumariante suprimir tal competência quando restasse inequívoco que o agente buscou, tão só, lesionar a vítima, o que não ocorre no caso presente.
+
+    XI - Destaque-se que a pronúncia do Recorrente não significa a formação de um juízo de convicção plena sobre a sua responsabilidade penal, mas, tão somente, nos expressos termos do art. 413, do CPP, que o Magistrado se convenceu da materialidade do fato e da existência de indícios suficientes de autoria ou de participação. Trata-se, pois, de mera admissibilidade da acusação e remessa ao juízo natural da causa, o Tribunal do Júri. Assim sendo, os elementos probatórios coligidos aos autos não permitem concluir, com a certeza que a desclassificação exige, na medida em que há outra versão sustentada pelo Ministério Público, que encontra ressonância jurídica nos autos, o que permite a pronúncia do Recorrente.
+
+    XII - De todo o exposto, é de se constatar que o contexto probatório até então coligido comprova a materialidade do fato e fornece indícios suficientes a corroborar a tese apresentada pelo Ministério Público, pelo que caberá aos jurados a análise percuciente dos elementos de convicção carreados, por ocasião do julgamento pelo Tribunal do Júri, a escolha pela narrativa que lhe pareça mais verossímil, sendo vedado a este Tribunal de Justiça subtrair-lhe a competência, de forma cabal e prematura.
+
+    XIII — Firmadas tais premissas, passa-se à análise das qualificadoras. Ainda no contexto do Recurso Defensivo, pleiteou-se o afastamento das qualificadoras previstas no art. 121, §2°, II e IV, do Código Penal, o que não merece acolhimento. Nesta primeira fase do procedimento escalonado do Júri, há indícios no sentido de que o motivo foi fútil e de que o acusado, em tese, utilizou meio que dificultou a defesa da vítima, constando do Laudo Pericial de fl. 133/134, bem como dos depoimentos testemunhais, que a vítima foi atingida por diversos golpes de faca na região torácica, quando já se encontrava caída no chão, após uma discussão de trânsito com o Recorrente.
+
+    XIV — De mais a mais, os depoimentos das testemunhas, já transcritos acima, fazem referência à desavença entre o Pronunciado e a vítima a motivar o delito, cabendo mencionar, inclusive, o interrogatório do recorrente (fl. 248 — mídia audiovisual fl. 18 dos autos físicos). Faz-se importante registrar que a jurisprudência do STJ é firme no sentido de que a exclusão da qualificadora na pronúncia é medida excepcional, adotada somente quando esta for manifestamente infundada, o que não é o caso dos autos.
+
+    XV - Por tais razões, devem as qualificadoras insertas no art. 121, § 2º, II e IV, do Código Penal ser submetidas à apreciação do Conselho de Sentença, juízo constitucional dos crimes dolosos contra a vida. Nesse contexto, em que pese os argumentos formulados pela defesa, deve-se aguardar a deflagração do iudiccium causae, em que a ação penal será submetida ao órgão jurisdicional natural para decidir sobre o mérito, nos termos do art. 5º, XXXVIII, da Constituição Federal.
+
+    XVI — Parecer da douta Procuradoria de Justiça pelo conhecimento e improvimento do recurso.
+
+    XVII - RECURSO CONHECIDO E IMPROVIDO.”
+
+    Não foram opostos embargos de declaração.
+
+    Nas razões do apelo extremo, o recorrente sustenta a repercussão geral da controvérsia e, no mérito, aponta violação ao artigo 5º, LVII, da Constituição Federal, alegando, em síntese, que “durante a instrução processual não emergiu indícios mínimos, que apontassem a existência mínima de dolo para a prática do delito de homicídio, não havendo um único indício que corrobore a ocorrência do animus necandi, estando claro, por outro lado, que o Réu optou por não desferir golpes fatais, evitando os órgão vitais da vítima, para consubstanciar o seu intento de lesioná-la e não a matar”.
+
+    Ademais, aduz, subsidiariamente, quanto às qualificadoras, que “a tese defendida pelo Ministério Público não se sustenta”.
+
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que a matéria apresentada possui índole infraconstitucional e que o acórdão recorrido está em consonância com a jurisprudência desta Suprema Corte.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Em primeiro lugar, verifica-se que, para divergir do entendimento do Tribunal a quo, seria necessária a análise da legislação infraconstitucional aplicável à espécie (Código de Processo Penal), inviável em sede extraordinária.
+
+    Em segundo lugar, a alegação de que não há “indícios mínimos de materialidade quanto ao referido delito”, por demandar a análise aprofundada do conjunto fático-probatório dos autos, não pode ser revista por esta Suprema Corte, em face da incidência da Súmula 279 do STF, que dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+
+    Com efeito, essa pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, em face do óbice imposto pela Súmula 279 do STF. Nesse sentido, aliás é a jurisprudência desta Corte:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Homicídio qualificado. Art. 121, § 2º, incisos I e IV, do Código Penal. Sentença de pronúncia. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Precedentes. 7. Agravo regimental não provido”. (ARE 1.242.008-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 11/03/2020)
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRARDINÁRIO COM AGRAVO. CRIME DE HOMICÍDIO TENTADO. DECISÃO DE PRONÚNCIA. PEDIDO DE ABSOLVIÇÃO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se o ARE 1.328.483-AgR, Rel. Min. Luiz Fux. 2. Agravo a que se nega provimento”. (ARE 1.394.785-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 06/10/2022)
+
+    Por oportuno, vale destacar lição de Roberto Rosas sobre a Súmula 279 do STF:
+
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+
+    A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+
+    Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+
+    A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+    Ademais, verifica-se que o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, no sentido de só permitir o afastamento das qualificadoras da sentença de pronúncia no caso de manifesta improcedência. Nesse sentido:
+
+    “Habeas corpus. 2. Homicídio qualificado. Utilização de recurso que impossibilitou a defesa da vítima. 3. Pretensão de afastamento da qualificadora admitida na pronúncia. 4. Impossibilidade. Decisão fundamentada. 5. As qualificadoras do crime de homicídio só podem ser afastadas pela sentença de pronúncia quando totalmente divorciadas do conjunto fático-probatório dos autos, sob pena de usurpar-se a competência do juiz natural da causa, ou seja, o Tribunal do Júri. Precedentes. 6. Ordem denegada”.  (HC 125.433, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 26/3/2015)
+
+    Consectariamente, forçoso é concluir que, à luz do entendimento jurisprudencial desta Corte, o recurso extraordinário a que se refere o presente agravo revela-se inadmissível.
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 30 de agosto de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
