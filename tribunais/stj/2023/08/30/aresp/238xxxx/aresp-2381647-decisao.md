@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VILA DAS TULIPAS EMPREENDIMENTOS E PARTICIPACOES SPE LTDA., contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por CLEITON DIONNE DUARTE PEREIRA, em face da agravante, decorrente de depreciação de imóvel adquirido na planta pelo agravado, em virtude de alterações no projeto feitas sem a anuência do compra dor.
+Sentença: julgou procedente o pedido, para condenar a agravante ao pagamento de R$ 34.550,92 (trinta e quatro mil quinhentos e cinquenta reais e noventa e dois centavos) a título de indenização por danos materiais, e de R$ 10.000,00 (dez mil reais) para compensar os danos morais sofridos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Ação de indenização por dano material e moral. Sentença de parcial procedência. Inconformismo da ré. Alegações de cerceamento de defesa e de julgamento ultra petita, afastadas. Dano material. Comprovação. Laudo pericial atestou a desvalorização do imóvel. Valor adequadamente fixado. Dano moral. Cabimento. Angústia e desconforto pela limitação da área de lazer e falta de informação ao comprador da alteração do projeto. Precedente. Sucumbência mantida. Súmula nº 326 STJ. Incabível atribuir à parte vencedora onus da sucumbência em razão de o pedido de dano moral ter sido acolhido aquém do valor pretendido. Honorários majorados. RECURSO NÃO PROVIDO.
+Recurso especial: alega violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade: inadmitiu o recurso especial, com os seguintes fundamentos: i) ausência de violação de dispositivos legais; ii) incidência do óbice da Súmula 7/STJ; e iii) ausência de comprovação do dissídio jurisprudencial.
+Agravo em recurso especial: reprisa parte da argumentação trazida nos recurso anteriores e sustenta, genericamente, a inaplicabilidade do óbice da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que a agravante se limitou a trazer alegações genéricas, mas não impugnou, de maneira consistente e específica, cada um dos óbices invocados na decisão denegatória de processamento do recurso especial, mormente no que se refere à incidência do óbice da Súmula 7/STJ e ao fundamento no sentido de que o dissídio jurisprudencial não teria sido comprovado, com o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor da condenação (e-STJ fl. 383) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
