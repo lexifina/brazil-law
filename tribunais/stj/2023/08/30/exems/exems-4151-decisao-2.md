@@ -1,0 +1,8 @@
+DECISÃO
+Decisão proferida na execução de registro nº 2016/0174802-5, oriunda do mesmo título judicial, homologou o acordo entabulado entre o SINDICATO NACIONAL DOS AUDITORES FISCAIS DA RECEITA FEDERAL DO BRASIL e a UNIÃO, condicionando a expedição das requisições de pagamento à apresentação do Termo de Declaração Individual e dos dados exigidos pela legislação para instrução do ofício requisitório.
+Mediante as petições de fls. 1153-1174, 1175-1195 e 1198-1205, a UNIÃO apresenta planilhas de valores devidos, documento pessoal e Termo de Declaração Individual (assinado dentro do prazo indicado) de LISZT DE MIRANDA ALVARENGA, LISETE APARECIDA SASSI DOS SANTOS, LUCAS DE GOIS CAMPOS, LISE MARIA MIRANDA DA SILVA, LORIVAL GOMES VELOSO, LORIVAL POSSETI e LISELOTE MAGNUSSON, com autorização de destaque de honorários, para possibilitar a expedição das respectivas requisições de pagamento.
+Em relação a LISZT DE MIRANDA ALVARENGA, acosta, também, Declaração e Termo de Renúncia Individual aos valores que excederem 60 (sessenta) salários mínimos para que o crédito seja pago por meio de RPV.
+Ante o exposto, tendo em vista o cumprimento das condições estabelecidas na decisão que homologou o acordo entre as partes, determino a expedição das requisições de pagamento em favor dos interessados acima nominados, com destaque de honorários advocatícios, observados os instrumentos contratuais acostados aos autos e o valor apurado pela UNIÃO.
+No tocante a LISZT DE MIRANDA ALVARENGA, homologo a renúncia expressamente manifestada à fl. 1158 para determinar que a respectiva requisição seja expedida na modalidade RPV.
+Publique-se. Intimem-se.
+EMENTA
