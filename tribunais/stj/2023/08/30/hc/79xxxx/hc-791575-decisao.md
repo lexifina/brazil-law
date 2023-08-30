@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+EMENTA: DIREITO PENAL. RECURSO EM SENTIDO ESTRITO DA DEFESA. PRONÚNCIA. HOMICÍDIO QUALIFICADO. PLEITO DE SUBTRAÇÃO DAS QUALIFICADORAS DOS INCISOS II e IV, DO §2 0 , DO ART. 121 DO CP. IMPROCEDÊNCIA. FATOS DEVIDAMENTE NARRADOS NA DENÚNCIA, COM DECISÃO FUNDAMENTADA DE ACOLHIMENTO. RECURSO CONHECIDO, MAS IMPROVIDO. Em se tratando de pronuncia, a exclusão de qualificadora somente deve ocorrer quando ela for manifestamente improcedente, sob pena de se invadir a competência do Tribunal do Júri. Tem-se que no presente caso, o suposto motivo fútil, e o recurso que dificultou a defesa da vitima encontram fundamentação suficiente nos autos ; pela dinâmica delitiva, que apresenta o contexto de uma suposta execução de homicídio, após discussão de somenos importância entre os envolvidos, mediante golpe de faca peixeira, desferido em região fatal do corpo (jugular), embora a vítima estivesse indo embora do local dos fatos e desarmada. Decisão que deve ser mantida, pois devidamente motivada, dentro da profundidade que a fase do procedimento lhe permite. Recurso improvido.
+O paciente foi pronunciado pela prática, em tese, do crime previsto no art. 121, § 2º, II e IV, do Código Penal, encontrando-se preso preventivamente.
+Alega a defesa, em síntese, que não há "prova judicial capaz de justificar uma pronúncia, e ante a existência exclusivamente de testemunhas por ouvir dizer, afigura-se ilegal a decisão de pronúncia confirmada pelo juízo recursal apontado como coator" (fl. 8).
+Acrescenta que "A valoração dos depoimentos acostados aos autos levam à conclusão de que a motivação não foi fútil e, também, não houve utilização de recurso que dificultou a defesa da vítima" (fl. 8).
+Requer, liminarmente e no mérito, a impronúncia do paciente ou a anulação da decisão de pronúncia com o decote das qualificadoras ou, liminarmente, a suspensão do trâmite da ação penal até o julgamento do presente writ.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento.
+É o relatório.
+Decido.
+No caso, consigne-se que foi proferida sentença condenatória (fl. 347), razão pela qual fica prejudicado o exa me da matéria relativa ao afastamento das qualificadoras do motivo fútil e d e utilização de recurso que dificultou a defesa da vítima reconhecidas na pronúncia, bem como à negativa de autoria. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCESSO DE LINGUAGEM E AUSÊNCIA DE SUBSTRATO DAS QUALIFICADORAS. IMPOSSIBILIDADE DE EXCLUSÃO DAS QUALIFICADORAS, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte é firme no sentido de que somente devem ser excluídas da decisão de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri, como no caso dos autos.
+2. Esta Sexta Turma é firme na compreensão de que a superveniência de sentença condenatória esvazia a alegação de nulidade da pronúncia, seja por excesso de linguagem ou por ausência de fundamentação das qualificadoras na decisão de pronúncia.
+3. Agravo regimental desprovido (AgRg no HC 429.228/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/02/2019, DJe 12/03/2019).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS . HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE NULIDADE DA DECISÃO DE PRONÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPETRAÇÃO PREJUDICADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Como explanado na decisão agravada, após as informações prestadas pelo Juízo de Direito de primeiro grau, verifica-se a prolação de sentença condenatória pelo Tribunal Popular, impondo ao ora paciente à pena 08 (oito) anos e 03 (três) meses de reclusão, pela prática do crime previsto no art. 121, §2º, incisos I e IV c/c artigo 14, II do Código Penal. Consoante entendimento desta Corte, a superveniência de sentença penal condenatória pelo Tribunal do Júri prejudica o exame de eventual nulidade da sentença de pronúncia. Precedentes.
+2. Agravo regimental improvido (AgRg no HC 299.105/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/03/2019, DJe 25/03/2019).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
