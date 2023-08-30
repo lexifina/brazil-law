@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXANDRE GONCALVES INACIO, contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"Roubo Majorado - Nulidade não configurada - Elementos de prova que demonstram autoria e materialidade delitiva - Conjunto probatório suficiente para manter a condenação - Causas de aumento autenticadas (concurso de agentes e emprego de arma de fogo) - Concurso formal não configurado - Basal reconduzida ao mais raso patamar - Pena reajustada - Regime fechado que melhor se ajusta à hipótese - Recursos parcialmente providos." (e-STJ, fl. 267)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 312).
+A defesa aponta negativa de vigência aos arts. 68 e 157, §2º, do Código Penal, sob o argumento de que o acréscimo de 3/8 na derradeira etapa dos cálculos da pena se deu com base exclusivamente no número de majorantes do delito de roubo.
+Alega, também, contrariedade aos arts. 33, §2º e §3º, e 59, todos do Código Penal, sustentando que a fixação de regime inicial fechado fundou-se na gravidade em abstrato do delito.
+Requer, em síntese, seja a pena do recorrente aumentada no patamar mínimo de 1/3, independentemente do número de causas de aumento, conforme súmula 443 do STJ, bem como abrandado o regime inicial de cumprimento da pena (e-STJ, fls. 326-333).
+Foram apresentadas as contrarrazões (e-STJ, fls. 338-345).
+O recurso foi inadmitido (e-STJ, fls. 348-349). Daí este agravo (e-STJ, fls. 355-368).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para conhecer do recurso especial e dar-lhe parcial provimento, para restabelecer o regime inicial semiaberto (e-STJ, fls. 388-392).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o réu foi condenado, em primeira instância, como incurso no art. 157, §2º, I e II, do Código Penal, às penas de 06 anos e 08 meses de reclusão, no regime fechado.
+A. Corte Paulista, por sua vez, deu parcial provimento I) ao recurso ministerial para reconhecer a causa de aumento de emprego de arma de fogo e para recrudescer o regime; e II) ao apelo defensivo para reduzir a pena-base, impondo ao réu a pena definitiva de 05 anos e 06 meses de reclusão, e 13 dias-multa.
+No tocante ao acréscimo da reprimenda, na fração de 3/8, na terceira etapa da dosimetria da pena, colhe-se do aresto impugnado:
+"Na derradeira etapa, diante das duas causas de aumento (concurso de agentes e emprego de arma de fogo), assiste razão ao Ministério Público ao disputar o incremento da pena na fração de 3/8 (três oitavos), em consonância com entendimento jurisprudencial a respeito: "no crime de roubo, sendo cinco as qualificadoras previstas no § 2º do artigo 157 do Código Penal, a majoração da pena deve obedecer ao seguinte critério: 1/3, se presente uma causa; 3/8, se presentes duas causas 5/12, se presentes três; 7/16, se quatro e de 1/2, se presentes as cinco causas especiais de aumento." (RJDTACrim 63/64).
+De fato, a conduta do salteador, presentes dois motivos para o aumento, indica desajuste de conduta peculiar e extrapola o perigo a que exposta a objetividade jurídica da norma ordinariamente, de modo que negar a graduação afrontaria aos Princípio da Isonomia e da Individualização da Pena.
+Mais a mais, o quantum não deriva unicamente da concorrência das majorantes, mas das circunstâncias como se deram os fatos. O roubo, afinal, foi levado a efeito na via pública, por cinco agentes armados, que agiram com patente oportunismo ao abordarem os vitimados quando chegavam em casa, já tarde da noite. Ademais, durante a ação, o réu ainda sugeriu que seu comparsa atirasse no ofendido. E, quando abandonavam o locus delicti, efetuaram um disparo para o alto. Inegável, nesse aspecto, que condutas que tais; como agora analisadas in concreto, sugerem maior ousadia, ao tempo em que reservam aos praticantes maior resguardo a eventuais irresignações. Implicam, outrossim, maior perigo aos que objetivados pelo malfeito, e o desate ocorrente não desprestigia a conclusão a que se chega." (e-STJ, fl. 274-275, grifou-se)
+Quanto ao ponto, cumpre registrar que, de acordo com a Súmula 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+No caso, verifica-se que o Tribunal a quo, não obstante tenha feito menção ao método matemático utilizado naquela Corte, observou a orientação sumulada por este Superior Tribunal de Justiça, haja vista que, ao fixar a fração de aumento em 3/8 (três oitavos), o fez ancorado em circunstâncias concretas que indicam a maior reprovabilidade da conduta, tendo destacado no acórdão que o delito foi cometido por cinco agentes armados, em via pública, tendo havido, inclusive, o disparo de uma arma de fogo.
+A corroborar esse entendimento:
+" ..
+I - É admissível, na terceira fase da dosimetria da pena, a exasperação da reprimenda acima do patamar mínimo desde que apresentada fundamentação concreta, baseada em dados extraídos dos autos, não se revelando legítimo invocar-se para tanto, tão somente, a quantidade de majorantes para o delito de roubo. Tal entendimento já foi, inclusive, sumulado no âmbito desta Corte, nos termos do enunciado n. 443 da Súmula/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera
+indicação do número de majorantes".
+II - In casu, não assiste razão ao recorrente, porquanto houve, de fato, a devida fundamentação pelas instâncias ordinárias ao estabelecerem a fração
+de 1/2 (metade) na terceira fase da dosimetria, não se amparando, portanto, tão somente no número de majorantes para elevar a pena do réu e, sim, nas circunstâncias fáticas em que o crime foi praticado: em concurso de 4 (quatro) agentes que, com arma de fogo em punho, renderam a vítima e colocaram-na no porta-malas do carro, libertando-a apenas quase 1 (uma) hora depois, em um canavial. Agravo regimental desprovido."
+(AgRg no AREsp 1227129/AL, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+" ..
+1. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+2. O Tribunal de origem apontou dado fático suficiente a indicar a gravidade concreta do crime - na espécie, o concurso de pelo menos três agentes.
+3. A proibição de reforma para pior garante ao recorrente, na espécie ora versada, o direito de não ter sua situação agravada, direta ou indiretamente. Não obsta, entretanto, que o Tribunal, para dizer o direito - ao exercer, portanto, sua soberana função de juris dictio -, encontre motivação própria, respeitadas, insisto, a imputação deduzida pelo órgão de acusação, a extensão cognitiva da sentença impugnada e os limites da pena imposta no juízo de origem.
+4. Agravo regimental não provido."
+(AgRg no AREsp 876.132/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/05/2016, Dje 06/06/2016).
+Noutro giro, em relação ao regime, o acórdão recorrido assim se manifestou:
+"Por fim, considerados o desvalor da conduta, a substancial intranquilidade gerada no meio social pelo crime de roubo - duplamente agravado - e a periculosidade do agente, descabe, conforme reza o artigo 33, § 3º, do Código Penal, a fixação de regime que não o fechado ao início do cumprimento da corporal.
+Mais a mais, o espírito desafiador do malfeitor, que o habilita a atuar em plena via pública, valendo-se de arma de fogo para intimar seus alvos e de expressiva superioridade numérica, identifica o desassombro do praticante e maior destemor, e não pode ser olvidado nesse momento da qualificação do regime.
+Assim, inviável a aplicação do início de cumprimento de pena em regime diverso do fechado, por flagrante insuficiência retributiva ao malfeito. Nesse sentido o entendimento desta E. Corte:
+(..)
+A própria negativa de autoria, a despeito de representar manifestação constitucionalmente assegurada, não lhe retira a pecha da dissimulação e o distancia do aguardado senso de contrição." (e-STJ, fls. 275-276)
+Da leitura do trecho transcrito, observa-se que não foram apresentados fundamentos concretos para a fixação do regime mais gravoso do que aquele previsto para o tipo penal que, no caso, é o semiaberto.
+Com efeito, consoante se extrai do acórdão objurgado, o réu é primário e a pena-base foi fixada no patamar mínimo legal de 04 anos (e-STJ, fl. 274).
+Nesse contexto, de acordo com o art. 33, § 2º, "b", do Código Penal, o regime carcerário deve ser o semiaberto.
+A corroborar esse entendimento:
+" ..
+I - A fixação do regime inicial deve se dar nos termos do art. 33, §§ 2º e 3º, do Código Penal, de modo que, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+II - No caso, o recorrente é primário, a pena-base foi fixada no mínimo legal - foram consideradas como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal - e, por fim, ausente motivação idônea para legitimar o agravamento do regime de cumprimento das penas. Assim, o regime aberto mostra-se mais adequado, nos termos do art. 33, § 2º, alínea c, do Código Penal.
+III - O Tribunal de origem manteve a negativa de substituição da pena privativa de liberdade por restritivas de direitos, com apoio em circunstância do caso concreto, sendo, inviável, em sede de recurso especial, entender de modo diverso, dada a necessidade de reexame de elementos fático - probatórios, conforme assentado pela Súmula 7 desta Corte.
+Agravo regimental parcialmente provido, para conhecer, em parte, do recurso especial e, na parte conhecida, dar-lhe parcial provimento para fixar o regime inicial aberto para o início de cumprimento de pena."
+(AgRg no REsp n. 1.916.597/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023.)
+" ..
+I - Firmou-se nesta Corte o entendimento no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, porquanto é contraditório o estabelecimento de pena-base no mínimo e de regime mais severo, com base em circunstâncias não consideradas inicialmente.
+II - O regime inicial fechado foi fixado apenas com base em elementos que se amoldam à descrição do delito e na gravidade abstrata - crime cometido com grave ameaça e que traz desassossego à sociedade -, fundamentos que são insuficientes para a determinação do regime mais gravoso, sobretudo porque o réu é primário, detentor de bons antecedentes e a pena-base foi fixada no mínimo legal.
+Súmulas 718 e 719 do STF e 440 do STJ.
+III - Uma vez atendidos os requisitos constantes do art. 33, § 2º, alínea b, e § 3º, c/c o art. 59 do CP - ausência de reincidência, condenação por um período superior a 4 (quatro) anos e não excedente a 8 (oito) e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o réu cumprir a pena privativa de liberdade no regime prisional semiaberto.
+Agravo regimental desprovido."
+(AgRg no REsp n. 1.821.857/SP, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 17/10/2019, DJe de 25/10/2019.)
+Diante do exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim estabelecer o regime inicial semiaberto para o resgate da reprimenda, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
