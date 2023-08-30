@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ ANTONIO SIRIANI, MESCAFÉ COMÉRCIO DE CAFÉ LTDA e CAFÉ CAPARAÓ LTDA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2208914-35.2023.8.26.0000.
+Consta dos autos que, em 10/01/2017, foi instaurado Inquérito Policial n. 0003291-67.2017.8.26.0050, perante a 2ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores para apurar suposta existência de organização criminosa composta pelos pacientes e outros investigados para fraudar a empresa COFCO BRASIL S/A. A referida empresa é atuante no ramo de agronegócio, mais especificamente na compra de café produzido na cidade de Manhuaçu/MG, e teria sido vítima de fraude interna, envolvendo o seu setor financeiro e empresas fornecedoras, resultando em um prejuízo econômico superior à 50 milhões de reais.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi indeferida liminarmente em relação aos pacientes pessoas jurídicas MESCAFÉ COMÉRCIO DE CAFÉ LTDA e CAFÉ CAPARÓ LTDA. No entanto, em relação ao paciente Luiz Antônio Siriani, foi indeferida a liminar e determinado o prosseguimento do feito.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que "manter os bloqueios judiciais, bem como o referido inquérito policial por um período tão longo sem que ninguém tenha sido indiciado ou sem que tenha sido oferecido a denúncia é ferir o princípio da presunção da inonência" (fl. 10).
+Defende que "as pacientes MESCAFÉ COMÉRCIO DE CAFÉ LTDA e CAFÉ CAPARAÓ LTDA-em se tratando de persecução penal para a apuração da prática, em tese, de delitos de ordem tributária, falsidade, fraude e supostos crimes contra a administração pública -se confundem com as pessoas físicas de seus sócios (eventuais sujeitos ativos na infração penal) e, no mesmo contexto, todos acabam se enquadrando no largo conceito de pacientes para fins de proteção da garantia constitucional do habeas corpus que, inclusive, pode ser concedido de ofício pelos órgãos do Poder Judiciário" (fl. 13).
+Reclama que "embora o prazo para conclusão de Inquérito policial, em caso de investigados em liberdade, possa ser prorrogado a depender da complexidade das investigações, o mesmo não pode ser prorrogado indefinidamente, sendo que o prazo de MAIS DE 06 ANOS se mostra, por demais excessivo, ofendendo o Princípio da Razoável Duração do Processo, cláusula pétrea instituída expressamente na Constituição Federal pela Emenda Constitucional nº 45/2004, portanto, a condição de investigado/indiciado do paciente não pode se perpetuar por inércia das autoridades que atuam na persecução criminal" (fls. 18/19).
+Requer, assim, liminarmente e no mérito, o trancamento do referido inquérito policial e a declaração de nulidade de todas as medidas cautelares decretadas no seu curso.
+É, no essencial, o relatório. Decido.
+De início, vale registrar que em relação aos pacientes MESCAFÉ COMÉRCIO DE CAFÉ LTDA e CAFÉ CAPARAÓ LTDA, o tribunal de origem indeferiu liminarmente o habeas corpus.
+Assim, a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior em razão da ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/3/2022, DJe de 11/3/2022.)
+Quanto ao paciente LUIZ ANTONIO SIRIANI, constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não visualizo manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
