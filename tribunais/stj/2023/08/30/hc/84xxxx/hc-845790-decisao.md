@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PATRICIA PEREIRA DA SILVA SOARES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.147468-5/000).
+Consta dos autos que a paciente foi presa temporariamente pela suposta prática das condutas descritas nos arts. 33 e 35 da Lei n. 11.343/2006, tendo a sua prisão sido convertida em preventiva.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 34):
+HABEAS CORPUS - TRÁFICO DE DROGAS - TRANCAMENTO DA AÇÃO PENAL - AUSÊNCIA DE JUSTA CAUSA - NEGATIVA DE AUTORIA - MATÉRIA DE MÉRITO - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - IMPOSSIBILIDADE - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - NÃO VIOLAÇÃO - PRISÃO DOMICILIAR - INVIABILIDADE - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Na estreita via do habeas corpus, em que a cognição é sumária, somente se cogita o trancamento da ação penal em situações excepcionais, quando demonstrada, de plano, a absoluta falta de prova, a atipicidade da conduta ou a ocorrência de causa extintiva da punibilidade. Em sede de Habeas Corpus não é possível a análise da conduta delituosa atribuída a paciente. Isso porque se trata de matéria de mérito, demandando análise detida, podendo repercutir no desfecho da demanda criminal, mas não sobre a conveniência de se prender a pacie nte. Atendido ao menos um dos pressupostos do art. 312 do CPP, qual seja a garantia da ordem pública, bem como um dos requisitos instrumentais do art. 313 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. A presença de condições subjetivas favoráveis a paciente não obsta a segregação cautelar quando presentes os fundamentos para justificar sua manutenção. Considerando que a prisão preventiva não se ancora em certeza de culpa, mas sim em indícios, não se verifica a violação ao princípio da presunção de inocência. Inviável a concessão da prisão domiciliar à genitora, considerando que a paciente expôs os filhos a um ambiente em que ocorria intenso tráfico de drogas, exercendo influência negativa sobre a formação das crianças, além de colocar em risco sua integridade.
+Neste writ, sustenta a defesa a ilegalidade da decisão que converteu a prisão temporária da paciente em preventiva, pois o juízo teria utilizado conclusões vagas e abstratas para fundamentar a medida extrema.
+Alega que ela faz jus à prisão domiciliar, tendo em vista que possui três filhos menores, dois deles não contam nem com doze anos de idade.
+Aduz que militam em favor dela condições pessoais favoráveis e defende a suficiência da imposição de medidas diversas do cárcere.
+Busca, inclusive liminarmente, a concessão da prisão domiciliar à paciente.
+Liminar indeferida às e-STJ fls. 64/66.
+Prestadas as informações, o Ministério Público Federal opinou pela prejudicialidade do writ (STJ fls. 103/105).
+É o relatório.
+Decido.
+Pois bem. Informações enviadas pelo Juízo de primeiro grau noticiam a revogação da prisão preventiva da paciente, expedido o competente alvará de soltura.
+Assim, fica sem objeto este writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, j ulgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
