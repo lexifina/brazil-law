@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+Nas razões do especial, aponta o recorrente a violação do art. 155 do CP.
+Sustenta ser cabível a incidência do princípio da insignificância, diante da subtração de barras de alumínio, avaliadas em R$ 25,00, sendo devidamente recuperado em sua integralidade.
+Requer o provimento do recurso especial, a fim de que seja absolvido.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+No que tange à atipicidade material, o acórdão recorrido está assim fundamentado:
+E, por mais que a Defesa insista em argumentar que a prática do crime de furto não é materialmente típica, não se verifica a incidência dos requisitos autorizadores da aplicação do principio da insignificância, embora a res furtiva se resuma a 3 kg de alumínio avaliados em aproximadamente R$ 25.
+O Supremo Tribunal Federal consolidou entendimento no sentido de que a aplicação do aludido princípio deve-se observar quatro balizas: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; d) a inexpressividade da lesão jurídica provocada (exemplificando: HC 122.418/DF e HC 122.537/RJ).
+Ainda, para que seja possível a sua aplicação, deve-se considerar também as circunstâncias do fato e o resultado produzido, bem como as características pessoais do agente (STJ: REsp 1.218.765-MG, rel. Min. Gilson Dipp,5 Turma, j. 22.03.2011).
+In casu, foi amplamente demonstrado que, embora apenas o Apelante tenha sido abordado, a conduta delitiva foi praticada em concurso de pessoas, circunstância que impede a aplicação do Princípio da Insignificância.
+ ..
+Portanto, evidenciada a ausência dos requisitos para a aplicação do princípio da insignificância, incabível o acolhimento do pleito absolutório formulado pela Defesa.
+Acerca da matéria, sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+No caso, verifica-se a subtração de barras de alumínio avaliadas em R$ 25,00, o que corresponde a 2,62% do salário mínimo vigente ao tempo dos fatos, sendo cabível a incidência do princípio da insignificância, tendo em vista ausência de interesse social na onerosa intervenção estatal, sobretudo porque não foi apontado no julgado a existência de reiteração delitiva, bem como porque houve a restituição integral dos bens. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO TENTADO. RÉU TECNICAMENTE PRIMÁRIO. BEM AVALIADO EM VALOR INFERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. INEXPRESSIVA REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme entendimento jurisprudencial, a aplicação do princípio da insignificância demanda a verificação da presença concomitante dos seguintes vetores: (a) a mínima ofensividade da conduta do agente; (b) a nenhuma periculosidade social da ação; (c) o reduzidíssimo grau de reprovabilidade do comportamento; e (d) a inexpressividade da lesão jurídica provocada.
+2. No caso dos autos, trata-se de agente tecnicamente primário, conforme se extrai da certidão de antecedentes criminais (fl. 55). Ademais, analisando as circunstâncias do caso concreto, em que se apura a prática do crime de furto tentado, verifica-se que a res furtiva, além de possuir valor inexpressivo, R$ 60,00 (sessenta reais), inferior a 10 % (dez por cento) do salário mínimo vigente à época dos fatos, foi restituída integralmente à vítima, além de não descrita qualificadora na peça acusatória, o que demonstra a excepecionalidade da medida.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp 1666936/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/05/2020, DJe 25/05/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. SITUAÇÃO EXCEPCIONAL. MEDIDA SOCIALMENTE RECOMENDÁVEL. ATIPICIDADE MATERIAL. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Plenário do Supremo Tribunal Federal, ao examinar, conjuntamente, o HC n. 123.108/MG, Rel. Min. Roberto Barroso; o HC n. 123.533/SP, Rel. Min. Roberto Barroso e o HC n. 123.734/MG, Rel. Min. Roberto Barroso, definiu que a incidência do princípio da insignificância deve ser feita caso a caso (Informativo nº. 793/STF).
+III - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS (Rel. Ministro Reynaldo Soares da Fonseca, julgado em 11/11/2015, DJe 10/12/2015), estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável.
+IV - In casu, denota-se a inexpressividade da lesão jurídica provocada, uma vez que, além da reduzida expressividade do valor dos itens subtraídos (R$ 65,00), que não equivale a mais de dez por cento do salário mínimo vigente à época dos fatos, os itens - 03 (três) pacotes de lâminas de barbear da marca BIC e 02 (dois) frascos de shampoo da marca Clear - foram restituídos ao estabelecimento comercial, cujo aporte econômico, em razão do furto, não se restou maculado, conjuntura a qual admite a aplicação do princípio da insignificância. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 519.452/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de absolver o acusado, com base no art. 386, III, do CP.
+Publique-se.
+Intimem-se.
+EMENTA
