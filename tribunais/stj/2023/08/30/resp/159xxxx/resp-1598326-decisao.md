@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A. com amparo nas alíneas a e c do art. 105, III, da Constituição Federal, contra acórdão da 27ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo assim ementado (fl. 217):
+Apelação Cível. Ação de Busca e Apreensão com Pedido Liminar. Contrato de financiamento de veículo com cláusula de alienação fiduciária em garantia. Discussão acerca de novo entendimento do C. STJ, quanto à necessidade de pagamento da integralidade do débito para se considerar purgada a mora. Réu que efetuou o depósito integral da dívida, purgando a mora. Preclusão que não se verifica, em virtude de entendimento anterior ao decisum do Tribunal ad quem. Observância aos ditames da segurança jurídica e da coisa julgada. Impossibilidade prática da retomada do bem, visto que fora alienado, ainda que sub judice. Obrigação de fazer convertida em pecúnia. Decisão mantida. RECURSO DESPROVIDO, COM OBSERVAÇÃO.
+Opostos embargos de declaração pelo recorrido, apontando omissão quanto às verbas de sucumbência, foram acolhidos para suprir a omissão, porém mantendo-se o resultado originário.
+A parte recorrente sustenta que o acórdão impugnado nega vigência ao § 6º do art. 3º do DL n. 911/1969 ao determinar a devolução de todo o montante efetivamente desembolsado pelo financiamento, em vez de condenar o credor ao pagamento da multa prevista no referido dispositivo legal.
+Suscita também divergência jurisprudencial, indicando como paradigma acórdão prolatado pelo Tribunal de Justiça do Paraná.
+A parte recorrida apresentou contrarrazões às fls. 271-279, seguindo-se juízo positivo de admissibilidade na origem.
+É o relatório. Decido.
+O recurso não logra conhecimento pela alínea a do permissivo constitucional, tendo em vista a deficiência de sua fundamentação.
+Veja-se que a parte recorrente se insurge contra o critério adotado pelo Tribunal de origem para a recomposição das perdas e danos sofridos pelo devedor fiduciante em razão da revogação da liminar deferida, cumulada com a impossibilidade de restituição do veículo objeto da garantia fiduciária.
+Todavia, o dispositivo apontado como violado - § 6º do art. 3º do DL n. 911/1969 - trata de uma penalidade imposta ao credor fiduciário em decorrência da abusividade de sua conduta ao alijar o devedor da posse do bem e o alienar a terceiro, impedindo o fiduciante de adquirir, futuramente, a propriedade plena. São institutos distintos, tanto que o § 7º do mesmo artigo mencionado estipula que a multa prevista no § 6º não exclui a responsabilidade do credor fiduciário por perdas e danos.
+A deficiência das razões recursais atrai a incidência, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+O recurso especial também não merece conhecimento pela alínea c do permissivo constitucional, pois a parte recorrente não se desincumbiu do necessário cotejo analítico entre os arestos, limitando-se a transcrever a ementa do acórdão paradigma. Assim, ausente a demonstração da divergência nos termos legais e regimentais, não merece trânsito o recurso especial amparado em dissenso pretoriano.
+Ante o exposto, não conheço do recurso especial.
+Deixo de aplicar os honorários recursais nos termos do art. 85, § 11, do CPC de 2015, visto que a decisão recorrida foi publicada ainda na vigência do CPC de 1973.
+Publique-se. Intimem-se.
+EMENTA
