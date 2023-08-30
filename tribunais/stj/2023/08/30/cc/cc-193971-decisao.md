@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de conflito de competência em que é suscitante LIFE IMAGEM - DIAGNÓSTICO POR IMAGEM CLÍNICA E PARTICIPAÇÕES LTDA. - em recuperação judicial (LIFE IMAGEM), em que aponta como suscitados o JUÍZO DA 6ª VARA EMPRESARIAL DA COMARCA DA CAPITAL DO RIO DE JANEIRO/RJ (JUÍZO DA RECUPERAÇÃO JUDICIAL) e o JUÍZO DA 48ª VARA DO TRABALHO DO RIO DE JANEIRO/RJ (JUÍZO TRABALHISTA).
+De acordo com os autos a suscitante apresentou ao juízo universal plano de recuperação, cujo processamento foi autorizado.
+Na Justiça do Trabalho, RICARDO LEÃO E SOUZA JUNIOR (RICARDO) propôs reclamação trabalhista que foi julgada procedente, tendo o Juízo laboral iniciado o processo de execução, sem atentar para a novação do crédito trabalhista no processo recuperacional.
+Aduziu que o referido credor trabalhista não poderia pretender receber seu crédito de forma diversa ao plano da recuperação judicial apresentado, desconsiderando seu cumprimento e a competência do juízo universal.
+Asseverou que a competência para a execução de créditos trabalhistas é do juízo da recuperação judicial e que o encerramento do processo recuperacional não torna ineficaz ou sem efeito o que foi decidido pelo juízo do soerguimento.
+Daí o presente conflito, no qual LIFE IMAGEM pleiteou a suspensão dos atos expropriatórios promovidos pelo juízo laboral, assim como o reconhecimento da competência do juízo universal para deliberar sobre os atos de execução dos créditos trabalhistas.
+O pedido de concessão da medida liminar foi deferido para suspender, até a definitiva solução do presente conflito, os atos executórios promovidos na reclamação trabalhista pelo JUÍZO DA 48ª VARA DO TRABALHO DO RIO DE JANEIRO/RJ (e-STJ, fls. 172/175).
+Contra essa decisão foram opostos embargos de declaração pelo reclamante trabalhista, RICARDO (e-STJ, fls. 182/270).
+Solicitadas informações foram elas prestadas às e-STJ, fls. 179/181 e 282/286.
+O Ministério Público Federal opinou pelo não conhecimento do conflito (e-STJ, fls. 291/295).
+É o relatório.
+DECIDO.
+Conheço do conflito com fundamento no artigo 105, I, "d", da Constituição da República, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos.
+A recuperação judicial da empresa suscitante, LIFE IMAGEM, tramitou perante o Juízo de Direito da 6ª Vara Empresarial do Rio de Janeiro/RJ, com trânsito em julgado aos 13/7/2022.
+RICARDO LEÃO E SOUZA JUNIOR, credor trabalhista, após o trânsito em julgado do processo de soerguimento, pleiteou o pagamento de débito remanescente do plano de recuperação judicial perante a Justiça do Trabalho, o que foi deferido.
+Daí o presente conflito, no qual a LIFE IMAGEM requereu a suspensão dos atos expropriatórios promovidos pelo juízo laboral, assim como o reconhecimento da competência do juízo universal para deliberar sobre os atos de execução dos créditos trabalhistas, para que o valor devido ao credor RICARDO seja aquele fixado na recuperação judicial da empresa suscitante.
+Segundo as informações prestadas pelo juízo do soerguimento, todos os credores da empresa recuperanda foram pagos, nos termos do plano de recuperação judicial.
+Quanto ao credor trabalhista RICARDO, o juízo recuperacional informou que os créditos a ele devidos já foram adimplidos:
+Em atenção ao tema tratado no conflito de competência, em que figuram como suscitante LIFE IMAGEM - DIAGNOSTICO POR IMAGEM, CLINICA MEDICA E PARTICIPACOES LTDA e suscitados este Juízo da 6ª Vara Empresarial da Capital do Rio de Janeiro e o Juízo da 48ª Vara do Trabalho do Rio de Janeiro-RJ, tendo como interessado RICARDO LEAO E SOUZA JUNIOR, venho prestar as informações.
+Esclareço que a Recuperação Judicial da suscitante foi encerrada por sentença datada de 29/04/2019, transitada em julgado.
+O tema apresentado já foi apreciado recentemente por este Juízo e recebeu a seguinte decisão, em 12/12/2022:
+"Index 6875 - Assiste razão à Recuperanda. De fato, incontestável que, nos termos da lei, ocorrera a novação do crédito trabalhista em questão, sendo certo, ainda, que referido credor Ricardo Leão e Souza Junior já recebera o que lhe era devido e qualquer outro movimento contrário fere de morte não só a lei como o próprio espírito concursal por ela estabelecido, sem falar na insegurança jurídica que causa, em verdadeira afronta à Carta Magna, artigo 5º, caput.
+Dessa forma, ressaltando o teor do art. 9º, II, LRF, especificamente no que se refere à atualização do crédito e à forma de pagamento disposta no PRJ aprovado e homologado, tem-se por evidente a afronta ao art. 49, caput da referida Lei Recuperacional (11.101/2005) e ao Tema 1.051 do STJ, razão por que defiro o pleito da Recuperanda.
+OFICIE-SE, urgente, ao Douto Juízo da 48º Vara do Trabalho, onde tramita a Reclamação Trabalhista nº 0010635-19.2015.5.0.0048, informando-lhe que o crédito do Sr. Ricardo Leão e Souza Junior deve ser adimplido na forma do PRJ aprovado e homologado, sendo este crédito atualizado somente até a data do pedido de recuperação judicial (01/06/2015), em observância à novação prevista no art. 59 da LRF."
+Sendo estas as informações que me cumpria prestar, aproveito a oportunidade para renovar a V.Exa. protestos de estima e distinta consideração.
+Maria Cristina de Brito Lima
+Juíza de Direito (e-STJ, fls. 179/180)
+A jurisprudência do STJ, com base em uma interpretação extensiva das normas que delineiam o conflito de competência (art. 66 do NCPC), tem, em hipóteses excepcionais, reconhecido e admitido o incidente quando observada a potencialidade ou o risco de que sejam proferidas decisões conflitantes pelas autoridades judiciárias.
+Eis alguns precedentes nesse sentido:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. FINANCIAMENTO IMOBILIÁRIO. SFH. AÇÃO DE ANULAÇÃO DE ATO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO. AÇÕES DE IMISSÃO E MANUTENÇÃO DE POSSE PROPOSTAS PERANTE A JUSTIÇA ESTADUAL E FEDERAL. POSSIBILIDADE DE DECISÕES CONFLITANTES. INTERPRETAÇÃO EXTENSIVA DO ART. 115 DO CPC. CONEXÃO. PREJUDICIALIDADE. SUSPENSÃO.
+1. A mera potencialidade ou risco de que sejam proferidas decisões conflitantes é suficiente para caracterizar o conflito de competência, consoante interpretação extensiva conferida por esta Corte ao disposto no artigo 115 do Código de Processo Civil.
+2. Os fundamentos das duas causas não se identificam, em que pese possa ser alegada a conexão, pois há que se reconhecer a existência de um vínculo substancial entre as duas demandas.
+3. Segundo o disposto no art. 109 da CF/88, a Justiça Federal é absolutamente competente para julgar ação em que a União, entidade autárquica ou empresa pública federal tenham interesse na condição de autoras, rés, assistentes ou oponentes. Inexistente essa condição, a reunião de ações para julgamento conjunto não é possível, pois a competência absoluta é improrrogável.
+4. Há que se reconhecer a existência de uma relação de prejudicialidade entre as demandas, autorizando a suspensão prevista no art. 265, IV, "a", do CPC.
+5. Agravo regimental provido.
+(AgRg no CC 112.956/MS, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, j. 25/4/2012, DJe 2/5/2012)
+AGRAVO REGIMENTAL. CONFLITO POSITIVO DE COMPETÊNCIA. ART. 115 DO CPC. INTERPRETAÇÃO. CONEXÃO ENTRE AÇÕES. SENTENÇA PROFERIDA EM UM DOS FEITOS. SÚMULA 235/STJ.
+1. Em virtude da interpretação extensiva conferida por esta Corte ao disposto no artigo 115 do CPC, a mera potencialidade ou risco de que sejam proferidas decisões conflitantes é suficiente para caracterizar o conflito de competência.
+2. "Existindo conexão entre duas ações que tramitam perante juízos diversos, configurada pela identidade do objeto ou da causa de pedir, impõe-se a reunião dos processos, a fim de evitar julgamentos incompatíveis entre si. Não se justifica, porém, a reunião quando um dos processos já se encontra sentenciado, pois neste esgotou-se a função jurisdicional do magistrado anteriormente prevento.
+Incidência da Súmula n. 235/STJ" (CC 47.611-SP, Rel. Min. Teori Albino Zavascki, DJU de 02.05.05).
+3. Agravo regimental não provido.
+(AgRg no CC 66.507/DF, Rel. Ministro CASTRO MEIRA, Primeira Seção, j. 23/4/2008, DJe 12/5/2008)
+Diante das particularidades do caso, o fato de a recuperação judicial já estar encerrada não se revela impeditivo para o conhecimento do conflito de competência.
+Enquanto pender de pagamento dívida trabalhista anterior ao processamento da recuperação judicial, permanecerá competente o juízo universal, mesmo após o encerramento do processo de recuperação, para fazer valer a decisão que aprovou o plano recuperacional, com a consequente novação dos créditos, nos termos do art. 59 da Lei nº 11.101/2005
+Art. 59. O plano de recuperação judicial implica novação dos créditos anteriores ao pedido, e obriga o devedor e todos os credores a ele sujeitos, sem prejuízo das garantias, observado o disposto no § 1º do art. 50 desta Lei.
+A partir da aprovação do plano de recuperação judicial não se pode mais desconsiderar sua existência, validade e eficácia, de modo que devem ser respeitadas todas as normas que o regulam. Assim, a aprovação implica novação dos créditos anteriores ao pedido, obrigando o devedor e todos os credores a ele sujeitos.
+Portanto, uma vez incluído o débito trabalhista no plano recuperacional, o alegado descumprimento desse dever não deve autorizar de modo automático a continuação do processo executivo perante a Justiça do Trabalho.
+Em vez disso, a questão deve ser levada a conhecimento do juízo da recuperação, a quem compete, com exclusividade: (1) apurar se o descumprimento efetivamente ocorreu; e (2) fixar as consequências desse descumprimento, podendo chegar à falência do devedor.
+Ressalte-se que aprovado o plano de recuperação judicial os credores concursais não terão o direito de receber o valor integral após o encerramento da recuperação, devendo se submeter às condições aprovadas pelo concurso de credores no plano de recuperação, em observância ao princípio da par conditio creditorum, que impõe o tratamento igualitário aos credores da recuperanda. Confira-se:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido.
+(REsp nº 1.655.705/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022 - sem destaque no original)
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZO CÍVEL E JUÍZO TRABALHISTA. PLANO DE RECUPERAÇÃO JUDICIAL APROVADO. PAGAMENTO DAS VERBAS TRABALHISTAS FIXADO EM UM ANO. ALEGADO DESCUMPRIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. A jurisprudência do STJ é pacífica em considerar que o juízo da recuperação judicial detém a competência para dirimir todas as questões relacionadas, direta ou indiretamente, com esse procedimento, salvo hipóteses excepcionais. Precedentes.
+2. Usualmente o STJ tem autorizado que o juízo trabalhista promova atos de execução não obstante a existência de pedido de recuperação judicial, apenas em hipóteses em que houver falha inerente à apresentação ou aprovação do plano.
+3. A partir da aprovação tempestiva do plano de recuperação judicial, não se pode desconsiderar sua existência, validade e eficácia. Ela implica "novação dos créditos anteriores ao pedido", obrigando "o devedor e todos os credores a ele sujeitos" (art. 59 da Lei de Falências - LF). O descumprimento de qualquer obrigação contida no plano implica a convolação da recuperação em falência (art. 61, §1º, LF).
+4. Se o devedor assume, de modo expresso, no plano de recuperação, o dever de adimplir em um ano dos débitos trabalhistas (art. 54 da LF), o alegado descumprimento desse dever deve ser levado a conhecimento do juízo da recuperação a quem compete, com exclusividade: (i) apurar se o descumprimento efetivamente ocorreu;
+(ii) fixar as consequências desse descumprimento, podendo chegar à falência do devedor.
+5. Conflito conhecido para o fim de declarar a competência do juízo da recuperação judicial.
+(CC 112.716/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Segunda Seção, j. 9/2/2011, DJe 20/5/2011 - sem destaque no original)
+Em suma, todas as questões atinentes ao cumprimento do plano de recuperação aprovado devem ser submetidas ao juízo da recuperação judicial.
+Nessas condições, CONHEÇO do conflito e declaro competente o JUÍZO DA 6ª VARA EMPRESARIAL DA COMARCA DA CAPITAL DO RIO DE JANEIRO/RJ para apurar se o pagamento do débito trabalhista foi efetivamente realizado nos termos do plano de recuperação judicial e, em caso negativo, adotar a providência que reputar adequada.
+Em consequência, JULGO PREJUDICADOS os embargos de declaração opostos às e-STJ, fls. 182/270.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. RECLAMAÇÃO TRABALHISTA. DÉBITO INCLUÍDO NO PLANO DE RECUPERAÇÃO JUDICIAL. NOVAÇÃO DO CRÉDITO ANTERIOR. SUJEIÇÃO AO JUÍZO UNIVERSAL. CONFLITO CONHECIDO PARA DETERMINAR A COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
