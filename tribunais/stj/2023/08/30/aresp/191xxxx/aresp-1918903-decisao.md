@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARLA ARCANJO DO CARMO (CARLA) contra decisão que negou seguimento ao apelo nobre que interpôs.
+Foi apresentada contraminuta (e-STJ fls. 362/366).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CARLA alegou violação aos arts. 489, §1º, IV, 1.022, II do CPC; 104, II, 113, 186, 476, 884, 927, todos do CC, ao sustentar (1) a necessidade de retorno dos autos ao Tribunal estadual para que sejam afastadas as omissões e contradições existentes no acórdão recorrido; (2) ausência de comprovação quanto a legitimidade da LUZIA DAS GRAÇAS RODRIGUES (LUZIA) em outorgar a escritura do imóvel objeto da lide; (3) possível fraude na alienação do mesmo bem em debate a terceiro; (4) provável enriquecimento ilícito de LUZIA pois mesmo que efetue o pagamento das parcelas atrasadas pode não receber a escritura do imóvel, e pela falta de atualização monetária sobre o valor que indicou em sua reconvenção que será abatido do crédito de LUZIA; (5) ser devida a reparação com o que dispendeu com despesas cartorárias para averiguar a falsidade das alegações de LUZIA quanto à propriedade do imóvel; e (6) ser devida a condenação de LUZIA em lhe indenizar os danos morais que sofreu.
+(1) Da negativa de prestação jurisdicional (violação dos arts. 489 e 1.022 do CPC)
+CARLA alegou violação aos arts. 489, §1º, IV, e 1.022, II, ambos do CPC pois defende que o acórdão recorrido foi (i) omisso, ao não se manifestar sobre o cerceamento de defesa diante da ausência da fase probatória e (ii) contraditório, por considerar sua obrigação de pagar sem analisar a alegada "possível fraude" (e-STJ fl. 254) em razão da impossibilidade de LUZIA lhe outorgar a propriedade do imóvel em debate.
+Todavia, de omissão não se pode falar pois o TJSP, expressamente, entendeu que não houve cerceamento de defesa tendo em vista a desnecessidade de reabertura da fase probatória que não alteraria a farta prova existente nos autos, a saber:
+De proêmio, concessa vênia das razões recursais, não há que se falar em nulidade da r. sentença por cerceamento de defesa, sendo desnecessária a reabertura da fase probatória com oitiva de testemunhas e expedição de ofício à Prefeitura Municipal de Itapevi, que não terá o condão de alterar a farta prova documental existente nos autos (e-STJ, fls. 234/235).
+Ainda foi pontuado pelo Tribunal Estadual, quanto à contradição indicada, que:
+De conseguinte, cumpria à compromissária-compradora, ora ré/apelante, tomar as devidas cautelas no momento da celebração do compromisso de compra e venda e solicitar junto ao Cartório de Registro de Imóveis competente a cópia da certidão imobiliária e facilmente verificar quem eram os proprietários do bem.
+No caso concreto, o quê se pode aferir é que, somente após o ajuizamento da presente ação (setembro/2014) é que a compromissária-compradora pediu a cópia da certidão imobiliária junto ao Cartório de Registro de Imóveis de Itapevi e Cotia (novembro/2014 fls.77/79).
+Logo, restou caracterizada a venda a non domino, negócio jurídico que por si só não é nulo, apenas não ostenta eficácia prática para a transmissão dominial, porém válido no plano pessoal, de modo que correta a condenação da ré ao pagamento das parcelas ajustadas no compromisso de compra e venda. (e-STJ fl. 236)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, as alegadas violações.
+(2) Da ausência de legitimidade de LUZIA, (3) Da alegada fraude na alienação do bem e (4) Do enriquecimento ilícito
+Em suas razões recursais CARLA argumentou ser falsa a declaração de LUZIA no contrato de compra e venda de ser legítima dona do imóvel, e também que sua inadimplência se justificaria pelo risco de perda do imóvel por possível alienação dele a terceiros, com fraude (e-STJ fl. 255).
+Aduziu, ainda, que a condenação na forma que foi, acabou por gerar o enriquecimento ilícito da Autora, vedado pelo art. 884 do Código Civil (e-STJ fl. 262).
+Fundamentou seu apelo nas violações dos arts. 104, II, 113, 186, 476 e 884 do CC.
+Do exame dos autos, verifica-se que o TJSP não se pronunciou sobre a violação dos dispositivos legais indicados, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Em virtude da falta de prequestionamento, não há como ser analisada as aludidas teses trazidas no recurso especial pela incidência da Súmula nº 211 do STJ.
+Ademais, o acórdão foi fundamentado na possibilidade da venda a non domino, e no fato de que não há na reconvenção pedido de declaração de nulidade do compromisso de compra e venda (e-STJ fl. 246), argumentos não impugnados por CARLA.
+Nesta toada, o conhecimento das questões fica igualmente prejudicado pela aplicação, por analogia, da Súmula nº 283 do STF.
+(5) Da reparação dos danos materiais e (6) Do dano moral
+Finalmente, CARLA insurgiu-se contra a falta de condenação de LUZIA em lhe ressarcir as despesas que deu causa por não ter comprovado sua legitimidade para vender o imóvel que adquiriu em lhe indenizar o dano moral que sofreu.
+Todavia, o TJSP não se pronunciou sobre a violação dos arts. 186 e 927 do CC indicados como violados, apesar da oposição dos necessários embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada as aludidas teses trazidas no recurso especial pela incidência da Súmula nº 211 do STJ.
+Além disso, o TJSP concluiu pela validade do compromisso de compra e venda sub judice, cabível inclusive, a condenação ao pagamento dos consectários como correção monetária desde o desembolso e juros de mora em razão do convencionado na cláusula VI (multa de mora fls. 11), e que não estão caracterizados os requisitos necessários para a indenização por danos morais (e-STJ fl. 237) na hipótese.
+Deste modo, rever as conclusões do aresto impugnado quanto à validade do contrato firmado entre as partes e ausência da configuração do dano moral, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas nº 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do apelo nobre e, nessa extensão, a ele NEGAR PROVIMENTO .
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de CARLA, limitados a 20%, nos termos do art. 85, § 11, do CPC, observada a justiça gratuita deferida nos autos.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C.C. INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DO DEVIDO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO E INTEPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N.º 5 e 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NESSÃO EXTENSÃO NÃO PROVIDO.
