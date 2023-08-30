@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado pela Defensoria Pública em favor de THIAGO DOS SANTOS BENEDITO MORAES e MARLON GONÇALVES ALVES, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento da apelação criminal n. 0189151-16.2019.8.19.0001.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, respectivamente, às penas de 3 anos e 6 meses de reclusão, em regime semiaberto, mais pagamento de 816 dias-multa, e 3 anos de reclusão, em regime aberto, mais pagamento de 700 dias-multa, pela prática do crime descrito no art. 35, caput, da Lei da n. 11.343/06.
+Inconformado, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do v. acórdão de fls. 78-90.
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal na negativa de absolvição ou desclassificação da conduta imputada ao paciente, alegando ausência de estabilidade e permanência para tipificação do crime de associação para o tráfico.
+Requer, assim, a concessão da ordem para "a. ABSOLVER os Pacientes do delito de associação para o tráfico de drogas, ante a ausência dos requisitos de estabilidade e de permanência; b. Alternativamente, ABSOLVER os Pacientes do delito de associação para o tráfico de drogas, ante a falta de descrição da conduta do tipo do art. 37 da Lei de Drogas, o que ofenderia o princípio da correlação; c. Subsidiariamente, DESCLASSIFICAR as condutas imputadas aos Pacientes para o delito do art. 37 da Lei de Drogas" (fl. 15).
+Não houve pedido liminar.
+Informações prestadas às fls. 140-141.
+O Ministério Público Federal, às fls. 147-151, manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a absolvição ou a desclassificação da conduta imputada para prevista no artigo 37 da Lei de Drogas.
+Cumpre ressaltar que o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita, em especial diante da fundamentação expendida pelas instâncias de origem, no sentido de que os paciente integravam a organização criminosa "Comando Vermelho", exercendo a função de "radinho", em outras palavras, com a incumbência de avisar a outros traficantes sobre a movimentação policial no local através de um rádio transmissor (s-STJ. fl. 82).
+Destacou o acórdão recorrido ainda, que " ..  policiais militares verificaram a movimenta- ção de possíveis criminosos no interior da Comunidade Barreira do Vasco, tendo parte da guarnição adentrado na comunidade e parte permanecido na entrada, sendo certo que assim que ingressaram foram recebidos a tiros pelos criminosos." (fl. 82, grifei).
+Salientando, também, que " ..  os policiais que permaneceram na entrada da comunidade visualizaram o apelante Marlon correndo e se desfazendo de um objeto, arremessando no interior de uma vila. Ato contínuo, abor- daram o recorrente Marlon e no local onde ele havia arremessado o objeto foi apreendido um rádio comunicador. Ao mesmo tempo, os policiais que ingressaram no interior da comunidade avistaram o recorrente Thiago e o nacional João Ever- ton da Silva e, em revista pessoal, arrecadaram na posse do acusado Thiago um rádio comunicador." (fl. 83, grifei).
+Nesse sentido: AgRg no HC n. 747.296/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/8/2022; AgRg no HC n. 747.174/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 27/6/2022 e AgRg no HC n. 693.572/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/2/2022.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
+EMENTA
