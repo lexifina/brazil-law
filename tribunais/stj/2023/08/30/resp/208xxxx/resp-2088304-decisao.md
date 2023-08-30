@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRIMORDIALE FOMENTO MERCANTIL LTDA. (PRIMORDIALE), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, da relatoria do Desembargador José Camacho Santos, assim ementado:
+APELAÇÃO CÍVEL. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. PRELIMINAR EM CONTRARRAZÕES DO RECURSO, AVENTANDO OFENSA À DIALETICIDADE, PORQUE AS RAZÕES RECURSAIS NÃO OPERARIA EFETIVA IMPUGNAÇÃO. CONHECIMENTO DO RECURSO, REJEITANDO-SE ESSA OBJEÇÃO. CESSÃO FACTORING DE CRÉDITOS REPRESENTADOS POR DUPLICATAS MERCANTIS. MERCADORIA ENTREGUE PELO SACADOR, FORA DO PRAZO, RECUSADA PELO SACADO POR ESTA RAZÃO. DUPLICATAS QUE, ANTES DA ENTREGA DA MERCADORIA, FORAM OBJETO DE CESSÃO DE CRÉDITO, VIA OPERAÇÃO DE . CESSIONÁRIO QUE FACTORING COMUNICARA A OPERAÇÃO AO CEDIDO, ALCANÇANDO SUA CONFIRMAÇÃO. VÍCIO POSTERIOR À NOTIFICAÇÃO DA CESSÃO DE CRÉDITO. POSSIBILIDADE DE EXCEÇÃO OBJETIVA. CABÍVEL A ARGUIÇÃO. DECLARAÇÃO DE INEXISTÊNCIA E DE INEXIGIBILIDADE DO TÍTULO DE CRÉDITO, OPERADAS EM JUÍZO. DIREITO CAMBIÁRIO NÃO APLICÁVEL À ESPÉCIE. SENTENÇA MANTIDA. RECURSO CONHECIDO, MAS NÃO PROVIDO. (e-STJ, fl. 1408).
+Nas razões do presente recurso, PRIMORDIALE alegou a violação aos arts. 290 e 294 do CC, ao sustentar que o momento para ELTROFIO afirmar que as duplicatas não tinham causa, de que as mercadorias não haviam sido recebidas e que não concordava com a cessão do crédito foi oportunizado na consulta acerca da procedência dos títulos, momento em que foi confirmada a regularidade dos títulos, com a concordância da cessão do crédito. Assim, entende que não tendo a ELETROFIO oposto ao cessionário as exceções que lhe competiam no momento que teve conhecimento da cessão de crédito, fica ela obrigada ao pagamento das duplicatas.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da duplicata
+A questão relacionada à cessão das duplicatas foi assim analisada na origem:
+Embora a PRIMORDIALE defenda que a ELETROFIO não possa opor exceções em face dela, porque quando notificada do negócio, confirmara a procedência dos títulos, sem ressalvas, o certo é que a notificação da parte cedida, acerca da cessão, não tem o condão de implicar alegação sobre regularidade, procedência e legitimidade das duplicatas, mas, só, pontuar ciência acerca da cessão, o que a sujeita aos efeitos do negócio.
+Ora, a notificação como essa vincula cedido e cessionário, impedindo o pagamento ao credor primitivo (e cedente). Assim, é nesse momento que as exceções pessoais (como sobre anulabilidades decorrentes de vício de consentimento ou defeito decorrente da incapacidade relativa), devem ser arguidas, e sob apena de perda dessa faculdade.
+Porém, insta salientar que, a parte apelada PRIMORDIALE (cessionária) opusera exceções (não pessoais), ou seja, objetivas sobre a essência da relação obrigacional (o perecimento, sem culpada parte devedora, vícios da coisa, contrato não cumprido, garantia da evicção), as quais podem ser opostas, mesmo depois da notificação sobre a cessão.
+ ..
+Por isso, a invalidade do título, exceção objetiva referente ao negócio jurídico, pode ser oposta ao cessionário, e mesmo depois da cessão do crédito respectivo.
+Assim, não se pode admitir que o aceite por comunicação, como ocorrera, no caso (art. 7º, § 1º, da Lei n. 5.474 - Lei das Duplicatas)teria tido o alcance de sobrestar a defesa pela parte devedora ELETROFIO, já que a questão não envolvia endosso cambial, e, sim, cessão civil, a exemplo do já realçado, e isso tudo em razão de o contrato ser de , sujeito a regras próprias, da cessão, factoring diversas das do Direito cambial.
+Nota-se, mais que, na data do encaminhamento do e-mail à ELETROFIO (em1.3.16 - mov.90.4), os postes não haviam sido entregues, mesmo porque o prazo final para isso era dia 11.3.16, fato que justifica a resposta de que os títulos estavam confirmados, o que não poderia ser diferente, porque, até o momento, não havia como suspeitar-se de que haveria atraso na entrega, e, por isso, tal não poderia (como não se pôde) ser alegado na ocasião.
+E, como se vê, a exceção objetiva deduzida pela ELETROFIO, referente ao atraso que levara à invalidade do título, não poderia ter sido alegada no momento da notificação sobre a cessão, além do que, por se tratam de exceções objetivas, nada impediria sua alegação judicialmente. (e-STJ, fls. 1416/1419).
+Com efeito, é nesse sentido o entendimento desta Corte em relação ao tema. Confiram-se:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. COMPRA E VENDA DE MÓVEIS PLANEJADOS. CHEQUE. CESSÃO DE CRÉDITO. INOPONIBILIDADE DE EXCEÇÕES PESSOAIS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incide o princípio da inoponibilidade das exceções pessoais quando o principal instrumento entabulado entre as partes consiste em uma cessão de crédito.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.977.268/SP, de minha relatoria, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PRELIMINAR. ART. 535 DO CPC/1973. OMISSÃO. INOCORRÊNCIA. MERO INCONFORMISMO COM A SOLUÇÃO JURÍDICA ADOTADA. MÉRITO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. DUPLICATA. CESSÃO DE CRÉDITO. NECESSIDADE DE NOTIFICAÇÃO DO DEVEDOR. DÍVIDA PAGA ANTES DA CESSÃO. 1 - Inviável o alegado malferimento do artigo 535 do CPC/73 quando o inconformismo recursal revela-se, em verdade, como mera pretensão de rejulgamento da causa, tão-somente, porque a solução jurídica adotada pelo Tribunal local foi desfavorável ao interesse da parte.
+2 - A cessão de crédito é ineficaz em relação ao devedor, enquanto não lhe for notificada. Aplicação do art. 290 do CC/2002.
+3 - Inaplicabilidade do princípio da inoponibilidade das exceções pessoais, previsto nos artigos 14 e 17 da Lei Uniforme de Genebra (Decreto 57.663/66), e nos artigos 15, 17, § 1º, 20 e 25 da Lei do Cheque (Lei n. 7357/85), quando o principal instrumento negocial celebrado entre as partes é um contrato de cessão de crédito.
+4 - Precedentes específicos desta Corte.
+5 - Agravo interno acolhido para negar provimento ao recurso especial por outro fundamento.
+(AgInt no REsp n. 1.691.890/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017.)
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ELETROFIO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. CESSÃO DE CRÉDITO. DUPLICATA. EXCEÇÕ ES PESSOAIS. POSSIBILIDADE. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
