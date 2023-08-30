@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, interposto por BRUNO COMÉRCIA DE CIMENTO LTDA., com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 422, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA COM EMBARGOS MONITÓRIOS - CHEQUE - SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO MONITÓRIO E DE PROCEDÊNCIA DOS EMBARGOS -CERCEAMENTO DE DEFESA - INOCORRÊNCIA - DESNECESSIDADE - DE PRODUÇÃO DE PROVA ORAL - PROVA PERICIAL SUFICIENTE PARA O DESLINDE DO FEITO - MÉRITO - CHEQUES QUE APRESENTAM ADULTERAÇÃO NA INDICAÇÃO DE MELHOR DATA PARA APRESENTAÇÃO - COMPROVAÇÃO DA ADULTERAÇÃO MEDIANTE LAUDO PERICIAL - CHEQUES QUE PERDEM A CARTULARIDADE - HONORÁRIOS RECURSAIS - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 463/469, e-STJ).
+Em suas razões de recurso especial, a Recorrente aponta ofensa aos artigos 80, 369, 489, § 1º, IV, 700, 1022, II, e parágrafo único, II, do CPC/15, 212, III, 227, parágrafo único, do CC/02. Sustenta, em síntese: (i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre o cerceamento de defesa em confronto com o objeto da perícia, afastamento da condenação por litigância de má-fé e prova documental produzida, assim como contradição no que respeita à análise do laudo pericial; (ii) a perícia não tratou da existência da compra e venda, com a entrega da mercadoria, o que poderia ter sido comprovado por meio da prova oral pleiteada; (iii) a ação monitória está lastreada nas notas fiscais, o que seria suficiente para o regular processamento da demanda; (iv) a multa por litigância de má-fé deve ser afastada.
+Após a apresentação das contrarrazões (fls. 516/519, e-STJ), e após decisão de admissão do recurso especial (fls. 516/519, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. O recorrente aduziu nas razões dos embargos de declaração opostos na origem "a ação monitória está lastreada em notas fiscais e cheques emitidos pela devedora(mov. 1.1 a 1.14) e nenhuma consideração foi feita em relação às notas fiscais, que conjuntamente com os cheques constituem prova escrita sem eficácia de título executivo e corroboram a existência de relação de compra e venda mercantil." (fl. 436, e-STJ).
+A partir desses trechos, exsurge a compreensão de que o Tribunal de origem deixou de apreciar a controvérsia sobre as notas fiscais como prova escrita apta a lastrear a ação monitória, porquanto apenas consignou "Ainda, da alegação de que nenhuma consideração foi feita em relação às notas fiscais, que conjuntamente com os cheques constituem prova escrita sem eficácia de título executivo e corroboram a existência de relação de compra e venda mercantil, é de se destacar que houve menção genérica acerca do assunto no corpo da apelação." (fl. 468, e-STJ). .
+É certo que o julgador não precisa responder a todas as alegações das partes. Todavia, deve se pronunciar sobre temas essenciais ao deslinde da controvérsia, indicando as razões que lhe formaram a convicção. Desse modo, cabia à Corte Estadual apreciar a matéria oportunamente suscitada, notadamente considerando-se a relevância do pronunciamento, pois tal questão poderia ensejar a alteração da conclusão adotada.
+Assim, "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC/73, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada" (REsp n. 1.187.583/RS, Relator o o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010).
+No mesmo sentido:
+PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NECESSÁRIO PREQUESTIONAMENTO DE MATÉRIA LEGAL OPORTUNAMENTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. REJEIÇÃO DO RECURSO DECLARATÓRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. NULIDADE DO ACÓRDÃO. DECISÃO MANTIDA.
+1. Resta violado o art. 535 do CPC/73 quando o Tribunal local rejeita embargos de declaração que visam à análise de tese jurídica e ao prequestionamento de matéria legal oportunamente suscitada, por si suficiente para a modificação do julgado.
+2. Não supre o requisito do prequestionamento a análise da questão federal exclusivamente pelo magistrado de primeiro grau.
+3. No caso concreto, o reconhecimento da violação do art. 535 do CPC/73 prescinde do revolvimento do contexto fático-probatório, não evidenciando as hipóteses de que tratam as Súmulas n. 5 e 7 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 546.594/SC, Relator o o Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/02/2015, DJe 19/02/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADMINISTRAÇÃO E GESTÃO DE FUNDO DE INVESTIMENTO.MAXIDESVALORIZAÇÃO DO REAL. MUDANÇA DA POLÍTICA CAMBIAL.RESPONSABILIDADE. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CARACTERIZADA.
+1. Necessidade de esclarecimentos pelo acórdão recorrido, devidamente suscitados em embargos de declaração, sobre questões relevantes para a solução da causa.
+2. Presente um dos vícios elencados no art. 535 do CPC, devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+3. Agravo interno e recurso especial providos.
+(AgRg no REsp 1217027/RJ, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2016, DJe 22/06/2016)
+Configurada , portanto, a ofensa ao art. 1022 do CPC/15.
+Ficam prejudicadas as demais alegações.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento a fim de anular o acórdão referente aos embargos de declaração e determinar que Tribunal de origem proceda a novo julgamento dos aclaratórios, pronunciando-se sobre as notas fiscais, conforme entender de direito.
+Publique-se. Intimem-se.
+EMENTA
