@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MASSAO SONODA com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 46):
+Cumprimento de se sentença. Débito locatício. Penhora dos direitos aquisitivos de imóvel oferecido em caução no contrato. Cabimento. Prestação de caução real que implicitamente importa em renúncia à impenhorabilidade do bem. Situação que se equipara à ressalva do inciso VII do artigo 3º da Lei nº 8.009/90. Recurso improvido.
+Não foram opostos embargos de declaração.
+Em suas razões recursais (e-STJ, fls. 52-71), sustenta a parte recorrente a existência de divergência jurisprudencial e violação ao art. art. 3º, VII, da Lei nº 8.009/90, defendendo que a exceção concernente à fiança concedida em contrato de locação, não deve ser estendida, isto é,
+interpretada de forma ampliativa, para abarcar casos de bem de família oferecidos em caução. Requereu, por fim, a reforma do acórdão recorrido a fim de se reconhecer a impenhorabilidade do bem de família, apesar de ter sido oferecida como caução real em contrato de locação comercial.
+Contrarrazões apresentadas às fls. 77-84 (e-STJ)
+Admitido o processamento do recurso na origem, consoante decisão de fls. 85-86 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso merece prosperar em parte.
+1. Com efeito, o Tribunal de origem, ao apreciar a controvérsia, entendeu ser possível a constrição do imóvel no caso ora em tela, tendo em vista ser possível estender a exceção à impenhorabilidade do bem de família aos casos em que o imóvel é oferecido em caução.
+Confira-se (e-STJ, fl. 47-48):
+O agravante prestou caução no contrato de locação e a tal título indicou para responder pelo débito o imóvel escrito na cláusula 13.3 (fls.325 do processo de origem), cujos direitos aquisitivos foram agora penhorados na fase de cumprimento de sentença (fls. 298 daquele processo).
+Ora, apesar de não se tratar de fiança, aquela figura a ela se equiparava para os fins do artigo 3º, inciso VII, da Lei nº 8.009/90.
+Realmente, não teria sentido autorizar a constrição de imóvel residencial do fiador, cuja responsabilidade é pessoal, e impedir tal medida quanto a imóvel que fora caucionado especificamente para esse fim.
+Com efeito, ao nomear o imóvel para responder pelo débito o caucionante implicitamente abre mão da imunidade conferida ao bem de família e, em contrapartida, impede que a penhora venha a recair em algum outro bem de seu patrimônio, como poderia ocorrer se de fiança se cuidasse.
+(..)
+Logo, caso era mesmo de se admitir o cabimento da constrição dos direitos aquisitivos ao imóvel oferecido em caução, constatação em nada abalada pelo fato de que anterior acórdão reconheceu a impenhorabilidade daquele bem em autos de execução diversa fundada em cédula de crédito bancário, isto é, propositura que versava sobre tema de direito diverso.
+Todavia, o referido entendimento destoa da jurisprudência deste Tribunal Superior, firmada no sentido de que "Em se tratando de caução oferecida em contrato de locação, não se aplica a exceção prevista no art. 3º, VII, da Lei 8.009/90. Caso o legislador desejasse afastar da regra da impenhorabilidade o imóvel residencial oferecido em caução o teria feito, assim como o fez no caso do imóvel dado em garantia hipotecária (art. 3º, V, da Lei 8.009/90)" (REsp 1873594/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/03/2021, DJe 04/03/2021).
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. LOCAÇÃO. 1. ALEGAÇÃO DE FATO NOVO SOMENTE NAS RAZÕES DE AGRAVO INTERNO. IMPOSSIBILIDADE. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. INAPLICABILIDADE DO DISPOSTO NO ART. 1.025 DO CPC. 3. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. BEM DE FAMÍLIA. IMPOSSIBILIDADE DE EXCUSSÃO DA GARANTIA. PRECEDENTES. 5. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 6. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 7. AGRAVO INTERNO IMPROVIDO.
+1. Acerca do alegado fato novo noticiado pelo agravante com a juntada de documento na interposição do agravo interno, para além de tratar-se de inadmissível inovação recursal, tampouco seria dado a este Tribunal deliberar, em primeira mão, sobre o seu conteúdo, haja vista envolver discussão sobre matéria probatória, o que lhe é vedado na via recursal especial, conforme assentado na Súmula n. 7/STJ.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+3. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+4. De fato, "em se tratando de caução oferecida em contrato de locação, não se aplica a exceção prevista no art. 3º, VII, da Lei 8.009/90. Caso o legislador desejasse afastar da regra da impenhorabilidade o imóvel residencial oferecido em caução o teria feito, assim como o fez no caso do imóvel dado em garantia hipotecária (art. 3º, V, da Lei 8.009/90)" (REsp 1.873.594/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 2/3/2021, DJe 4/3/2021).
+5. N o caso, infirmar as conclusões alcançadas pelo acordão recorrido, acerca do reconhecimento do imóvel como bem de família e, portanto, impenhorável, exige a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, consoante as Súmulas 5 e 7 desta Corte.
+6. Consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+7. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC. NÃO OCORRÊNCIA. CONTRATO DE LOCAÇÃO. BEM DE FAMÍLIA DADO EM CAUÇÃO. PENHORA. INVIABILIDADE. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. É inviável admitir a penhora de bem de família dado como caução em contrato de locação. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.212.496/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA. EXECUÇÃO. LOCAÇÃO. CAUÇÃO. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE.
+1. Em caso de caução prestada em contrato de locação, não é admissível a penhora do imóvel residencial familiar. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.922.940/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Dessa forma, a caução levada a registro, embora constitua garantia real, não encontra previsão em qualquer das exceções legais, devendo prevalecer a impenhorabilidade do imóvel, quando se tratar de bem de família. Em outros termos, tendo em vista que a caução não se enquadra nas exceções previstas no art. 3º da Lei nº 8.009/1990 e que o oferecimento do bem em garantia não implica em renúncia à proteção legal, constata-se que o acórdão estadual diverge do entendimento firmado por esta Corte Superior.
+Contudo, verifica-se inviável, nessa oportunidade, reconhecer, de plano, a alegada impenhorabilidade, pois os requisitos para qu e o imóvel seja considerado bem de família não foram objeto de averiguação, sendo inviável proceder-se à aplicação do direito à espécie no âmbito desta Corte Superior por demandar, na hipótese dos autos, o exame de fatos e provas, cuja análise compete, sob pena de supressão de instância, ao Tribunal de origem.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou parcial provimento ao recurso especial a fim de determinar o retorno dos autos à Corte a quo para que, à luz da proteção conferida ao bem de família pela Lei nº 8.009/1990, proceda ao reexame do agravo de instrumento, analisando se o imóvel penhorado, no caso concreto, preenche os requisitos para se caracterizar como tal.
+Publique-se.
+Intimem-se.
+EMENTA
