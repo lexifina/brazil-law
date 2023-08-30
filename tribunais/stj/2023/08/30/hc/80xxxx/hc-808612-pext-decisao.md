@@ -1,0 +1,12 @@
+DECISÃO
+ALBERTO DE SOUZA NOBRE NETO postula a extensão dos efeitos a decisão proferida nos autos do HC n. 808.612/SP, que reduziu a pena imposta a Bruno Eduardo da Silva, considerando que a requerente está em situação processual idêntica à do paciente do citado writ.
+É o relatório. Decido.
+Nos termos do art. 580 do CPP, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais) (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998). Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fática-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+Neste caso, constata-se que tanto o paciente quanto o ora requerente foram denunciados e posteriormente condenados pelos crimes de tráfico e associação para o tráfico de drogas. Cada um recebeu pena de 10 (dez) anos, 3 (três) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais 1496 (mil quatrocentos e noventa e seis) dias-multa.
+Embora existam diferenças entre as situações fático-processuais dos réus, constata-se que, naquilo que interessa à espécie, há semelhanças que permitem a extensão dos efeitos, sobretudo para fins de celeridade e economia processual.
+Ao que se tem dos autos, tanto o paciente do habeas corpus quanto o ora requerente confessaram a participação no delito, mas essa circunstância deixou de ser levada em consideração no cálculo da pena.
+Foi por reconhecer a atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal, que se reduziu a pena imposta ao paciente e é por essa mesma razão que se atenua a sanção imposta ao requerente, que passa a ser de 5 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa pelo crime de tráfico de drogas e 3 (três) anos e 6 (seis) meses de reclusão, mais 816 (oitocentos e dezesseis) dias-multa pelo crime de associação para o tráfico, mantido o regime inicial fechado e demais termos da sentença condenatória.
+Diante disso, defiro o pedido de extensão para reduzir a pena imposta à ao requerente nos termos acima descritos.
+Intimem-se.
+EMENTA
