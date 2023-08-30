@@ -1,0 +1,20 @@
+DECISÃO
+MARCOS DE OLIVEIRA SALES alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça a quo (Apelação n. 0061803-10.2022.8.19.0001).
+Neste habeas corpus, a defesa pretende, liminarmente e no mérito, o decote da majorante do emprego de arma de fogo, ante a ausência de apreensão e prova pericial para a sua comprovação.
+Decido.
+O writ comporta pronta solução, porquanto existe entendimento do colegiado sobre a questão jurídica controvertida.
+O paciente foi condenado por incursão no art. 157, §2º, II e §2-A, inciso I, c/c artigo 14, II, do Código Penal. Incidiu a causa de aumento relativa ao emprego de arma de fogo porque, apesar da impossibilidade de apreensão do revólver (o ofendido reagiu e o réu conseguiu fugir), seu emprego restou comprovado, indene de dúvidas, "através do conjunto probatório", mais precisamente a partir da "declaração prestada pela vítima". O ofendido "afirmou ter sido surpreendido pelo acusado que desembarcou do veículo Logan com um revólver em punho e quando abriu aporta do automóvel da vítima, este desembarcou de seu carro desferindo disparos contra o roubador que, mesmo após ter sido atingido efetuou dois disparos contra o declarante" (fl. 13, grifei).
+Conforme delineado no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova, situação ocorrida nos autos.
+Deveras: "Não apreendida a arma de fogo e não periciado o seu potencial vulnerante, é possível a comprovação dessa majorante mediante prova oral, inclusive o depoimento da vítima. Precedentes da Corte" (AgRg no HC n. 719.988/SP, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022)
+Não sendo possível o exame da arma de fogo utilizada no roubo (no caso, o réu fugiu levando com ele o artefato), outras provas podem suprir a falta da perícia. O acórdão recorrido não é ilegal, pois citou prova testemunhal, categórica, que excluiu a possibilidade de dúvida quanto à causa de aumento.
+Deveras, "Nos moldes da orientação firmada pela Terceira Seção desta Corte, para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova" (AgRg no AREsp n. 2.100.469/RN, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 23/6/2023).
+Aplicável ao caso a compreensão de que:
+ ..  VI - A Terceira Seção desta Corte, quando do julgamento do EREsp n. 961.863/RS, submetido à sistemática dos recursos repetitivos, firmou o entendimento no sentido de que, para a incidência da causa especial de aumento prevista no art. 157, § 2º, inciso I, do Código Penal, é dispensável a apreensão e realização de perícia no respectivo objeto, desde que existentes outros meios que comprovem a utilização da arma de fogo na prática delituosa
+VII - No presente caso, o eg. Tribunal de origem se lastreou na prova oral colhida em juízo, ao concluir pela aptidão da arma de fogo utilizada no crime de roubo, conforme o seguinte trecho do v. acórdão combatido: "o emprego da arma de fogo foi detalhado pela vítima, a qual a descreveu como sendo um revólver de cano fino, longo e prateado." Com efeito, restando comprovado o uso da arma de fogo por outros meios de prova, mostra-se adequada a incidência da causa de aumento prevista no art. 157, § 2º, inciso I, do Código Penal, sendo prescindível sua apreensão e perícia para
+atestar o seu potencial lesivo.
+Agravo regimental desprovido.
+(AgRg no HC n. 698.887/SP, Rel. Ministro Jesuíno Rissato (Desembargor convocado do TJDFT), 5ª T., DJe 15/2/2022).
+Assim, não se identifica ilegalidade na incidência da referida majorante, uma vez que o acórdão está em consonância com a jurisprudência do STJ sobre o tema.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
