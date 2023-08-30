@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de dois agravos em recurso especial: um interposto por INCORPORADORA SANTA LUZIA LTDA. contra a decisão que negou seguimento ao recurso especial, com fundamento no art. 1.030, I, b, do Código de Processo Civil, em razão da incidência ao caso do Tema n. 577 do STJ; e outro interposto por ANTONIO GOMES DE ALMEIDA contra decisão que inadmitiu o recurso especial em razão da não demonstração da alegada vulneração do art. 85, § 11, do CPC e da incidência da Súmula n. 7 do STJ.
+Julgo conjuntamente os recursos.
+I - Agravo em recurso especial de INCORPORADORA SANTA LUZIA LTDA
+A Corte local, ao realizar o juízo de admissibilidade, utilizou-se de fundamento para obstar o trânsito do recurso especial relacionado à sistemática dos recursos repetitivos (art. 1.030, I, b, do CPC), concluiu que o aresto recorrido está em consonância com o entendimento firmado no julgamento do REsp. n. 1.300.418/SC (Tema n. 577 do STJ).
+Conforme previsão do CPC/2015 (art. 1.030, § 2º), contra decisão que nega seguimento ao recurso especial com fundamento no art. 1.030, I, b, do CPC cabe agravo interno perante o próprio Tribunal recorrido, a quem compete decidir sobre a alegação de equívoco na aplicação de precedente do STJ exarado no regime de julgamento de recursos repetitivos.
+A propósito:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO INTERNO. AGRAVO EM RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO. DECISÃO QUE NEGOU SEGUIMENTO A RECURSO EXTRAORDINÁRIO (ART. 1.030, I, DO CPC). MANIFESTO DESCABIMENTO DO AGRAVO EM RECURSO EXTRAORDINÁRIO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. Nos termos do art. 1.030, § 2º, do Código de Processo Civil, só é cabível agravo interno contra a decisão que nega seguimento a recurso extraordinário sob a sistemática da repercussão geral.
+2. A interposição de agravo em recurso extraordinário em tal caso configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade, nos termos da jurisprudência pacífica.
+3. Pedido de reconsideração recebido como agravo interno, ao qual se nega provimento, com certificação do trânsito em julgado e baixa imediata dos autos após a publicação, condenada a parte agravante ao pagamento da multa prevista no art. 1.021, § 4º, do CPC. (RCD no ARE no RE no AREsp n. 2.157.027/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023.)
+Vejam-se ainda: AgInt no AREsp n. 2.200.316/AP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgInt no AREsp n. 2.224.055/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgInt no REsp n. 2.031.322/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.
+II - Agravo em recurso especial de ANTONIO GOMES DE ALMEIDA
+O agravo em recurso especial é intempestivo.
+A tempestividade do recurso especial e do agravo em recurso especial deve ser comprovada no momento de sua interposição (art. 1.003, § 6º, do CPC), cujo prazo é de 15 dias úteis (art. 1.003, § 5º, c/c o art. 219, caput, do CPC).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. JUSTA CAUSA NÃO COMPROVADA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. Nos termos da jurisprudência do STJ, a parte interessada deve requerer e comprovar a justa causa no prazo legal para a prática do ato ou até 5 (cinco) dias após cessado o impedimento, sob pena de preclusão.
+3. "Este Colegiado também já reconheceu que apenas o print do sistema não é servil à efetiva demonstração da justa causa: AgInt no AREsp 1.640.644/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020." (AgInt nos EDcl no RMS 65.016/MA, Rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, julgado em 31/05/2021, DJe 04/06/2021)
+4. Agravo interno não provido. (AgInt no AREsp n. 2.009.242/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Confiram-se ainda: AgInt no AREsp n. 2.038.080/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt no AREsp n. 1.711.267/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020; AgInt nos EDcl no REsp n. 1.970.652/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022; e AgInt no AREsp n. 2.105.192/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022.
+No caso, a parte agravante foi intimada da decisão agravada na sexta-feira, dia 17/12/2021 (fl. 218); o prazo deu início no primeiro dia útil seguinte, ou seja, em 21/1/2022 (sexta-feira), em virtude da suspensão do art. 220 do CPC, encerrando-se em 10/2/2022 (quinta-feira). O agravo em recurso especial, contudo, foi interposto somente em 11/2/2022.
+III - Conclusão
+Ante o exposto não conheço dos agravos em recurso especial interpostos por INCORPORADORA SANTA LUZIA LTDA. e por ANTONIO GOMES DE ALMEIDA.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado na origem, os honorários advocatícios , observada a distribuição do ônus da sucumbência fixada pela instância ordinária, com ressalva de eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
