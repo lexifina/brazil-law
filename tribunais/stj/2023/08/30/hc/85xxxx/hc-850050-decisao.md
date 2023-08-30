@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de NADIALI ALVES DA SILVA, condenada por tráfico de drogas, à pena de 5 anos de reclusão, inicialmente, no regime semiaberto, e ao pagamento de 500 dias-multa (Processo n. 002/2.16.0002762-2 ou 0006204-39.2016.8.21.0002, da Vara Criminal da comarca de Alegrete/RS).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que, em 18/6/2019, negou provimento aos apelos da paciente, do corréu e do Ministério Público (fls. 39/54).
+Alega-se, em síntese, que ações penais em curso, ou até mesmo a quantidade de droga apreendida, por si só, não constitui fundamento idôneo para afastar a causa de diminuição, prevista no art. 33, § 4º, da Lei 11.343/06 (fl. 7).
+Menciona-se que a paciente permaneceu presa preventivamente pelo período de 1º/9/2016 até 2/12/2016.
+Requer-se a concessão da ordem para reconhecer e aplicar a privilegiadora do §4º do artigo 33 da Lei 11.343/2006, em grau máximo, substituindo a pena privativa de liberdade por restritiva de direitos, considerando a detração da pena do período de prisão preventiva (fl. 12).
+Os autos foram a mim distribuídos por prevenção de Turma.
+Este writ não tem cabimento.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Veja-se que, pelo que consta do AREsp n. 1.600.693/RS, a condenação da paciente transitou em julgado logo depois do julgamento da apelação, isto é, em 19/7/2019, ante a intempestividade de seu recurso especial.
+Segundo, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto o exame do ponto suscitado está a exigir ampla análise de fatos e provas, o que é totalmente inadmissível na via eleita. O Tribunal estadual, ao discorrer sobre o crime do art. 35 da Lei n. 11.343/2006, expôs a dedicação dos réus à traficância, afastando, apenas, a comprovação do vínculo associativo estável.
+Terceiro, eventual mudança ou modificação na orientação jurisprudencial, mesmo que favorável ao condenado, não autoriza o uso da revisão criminal, conforme firme entendimento desta Corte e do Supremo Tribunal Federal (AgRg nos EDcl na RvCr n. 5.544/DF, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 17/8/2022).
+Em outras palavras, o novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao Réu, não autoriza, por si só, a revisão do édito condenatório. Precedentes. (AgRg no HC n. 811.636/SC, Ministra Laurita Vaz, Sexta Turma, DJe 26/5/2023). Na mesma linha, entre outros, AgRg no HC n. 731.937/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/5/2022.
+Quarto, não é dado a este Superior Tribunal cuidar de questão não debatida/decidida pela instância antecedente, no caso, para tratar da eventual detração da pena da paciente.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. TRÁFICO DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. INAPLICABILIDADE. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
