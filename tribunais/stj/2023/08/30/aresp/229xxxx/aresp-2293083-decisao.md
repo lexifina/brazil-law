@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por JEFERSON PEQUENO DOS SANTOS contra decisão do Tribunal de Justiça do Estado de Sergipe que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manifestado contra o acórdão prolatado na Apelação Criminal n. 202100309844.
+Consta nos autos que o Agravante foi condenado a 4 (quatro) anos, 4 (quatro) meses e 2 (dois) dias de reclusão, em regime inicial semiaberto, e 434 (quatrocentos e trinta e quatro) dias-multa (fls. 586-587), como incurso no art. 33, caput, da Lei n. 11.343/2006, caracterizado pela apreensão de 2,300kg (dois quilos e trezentos gramas) de maconha (fls. 583 e 734).
+A Corte de justiça de origem deu parcial provimento ao apelo da Acusação para decotar o redutor da pena, redimensionando as punições aos patamares de 5 (cinco) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime semiaberto, e 555 (quinhentos e cinquenta e cincos) dias-multa (fls. 732-735).
+Nas razões do apelo nobre, a Defesa aponta violação ao art. 33, § 4.º, da Lei n. 11.343/2003, alegando, em suma, que o redutor da pena foi afastado com apoio em fundamentação ilegal, pois não foram indicados quaisquer elementos concretos a comprovar a dedicação do Agravante a atividades criminosas (fls. 757-769).
+As contrarrazões foram apresentadas (fls. 773-783).
+O Recurso especial não foi admitido na origem (fls. 786-794).
+Interposto o agravo em recurso especial (fls. 801-818), a Acusação apresentou contraminuta (fls. 822-828).
+O Ministério Público Federal manifestou-se às fls. 842-844, opinando pelo provimento do recurso especial.
+É o relatório. Decido.
+São condições par a a aplicação da causa de diminuição de pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+O Tribunal de origem afastou a causa de diminuição prevista no § 4.º do art. 33 da Lei n. 11.343/2006 com apoio na seguinte fundamentação (fl. 734; grifos diversos do original):
+" No caso dos autos, apesar de constatada a primariedade do réu e ausência de antecedentes criminais, extraio das circunstâncias do caso concreto que o réu dedicava-se às atividades delituosas, pois, se fosse neófito na narcotraficância, dificilmente traria consigo a significativa quantidade o que evidencia que o apelado já vinha se de entorpecentes apreendida em seu poder (2.308,0 gramas de maconha), dedicando àquela atividade, até porque um iniciante nem mesmo teria como dispor de uma logística que lhe permitisse ter acesso à referida quantidade de entorpecentes.
+Outrossim, para a aquisição de tamanha quantidade de entorpecentes é necessário que o agente para o qual este apelado prestou "o serviço" já possua um mercado consumidor grande o suficiente para gerar meio de aquisição das drogas, o que não se consegue da noite para o dia, muito menos sendo um traficante supostamente iniciante, pois o entorpecente se destinava ao réu - Marcelo Ferreira Moura reincidente específico, conforme consta em sede de Apelação Criminal nº 202000336449 - que iria comercializá-lo.
+Note-se que a quantidade de maconha apreendida possui reflexo econômico relevante, é apta a indicar concretamente a participação do apelante em atividades ilícitas, bem como possui notável impacto negativo na saúde pública, tendo em vista que tal quantidade poderia alcançar uma quantidade inestimável de usuários.
+Portanto, a meu ver, as circunstâncias que circundam o delito são hábeis a denotar a dedicação do apelado à atividade criminosa, o que torna inaplicável a minorante prevista no artigo 33, § 4º, da Lei 11.343/2006."
+Como se vê, a causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006 foi afastada não somente com base na quantidade expressiva de droga, mas também pelas circunstâncias específicas do caso que levaram à conclusão de o Agente, para o qual o Agravante destinaria a droga, além de possuir relevante mercado consumidor de entorpecente, é reincidente específico no crime de tráfico de drogas.
+E da leitura das razões do apelo nobre, é possível verificar que a Defesa não cuidou de refutar, de forma específica e individualizada, essa razão de decidir, tendo se restringido a asseverar, de forma genérica, que o redutor da pena foi afastado com apoio em fundamentação ilegal, pois não foram indicados quaisquer elementos concretos a comprovar a dedicação do Agravante a atividades criminosas (fls. 757-769).
+Assim, à míngua de impugnação precisa e individualizada de todos os fundamentos declinados pela Corte de justiça de origem para decotar o redutor da pena, o óbice da Súmula n. 283/STF mostra-se insuperável.
+A propósito:
+" ..
+1. O Tribunal de origem afastou a nulidade do reconhecimento fotográfico, asseverando que não houve reconhecimento fotográfico em relação ao recorrente, tendo sido condenado com base em outras provas produzidas nos autos. Incidente o verbete n. 283 do STF, pois não impugnado o referido fundamento do acórdão recorrido. Concluiu o juízo a quo pela presença de elementos informativos e probatórios suficientes, por si sós, a sustentarem a condenação do recorrente.
+ ..
+4. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 2.157.615/MG, relator Ministro JOEL ILAN PACIORNIK , Quinta Turma, julgado em 21/3/2023, DJe de 23/3/2023.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. REDUTOR DA PENA. ALEGADA INIDONEIDADE DO FUNDAMENTO DECLINADO PARA DECOTÁ-LO. ÓBICE DA SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
