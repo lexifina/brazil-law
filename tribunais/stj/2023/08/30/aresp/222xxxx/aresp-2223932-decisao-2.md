@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por BUNGE FERTILIZANTES S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 1.571):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. Preliminar contrarrecursal de não conhecimento do recurso por ofensa ao princípio da dialeticidade afastada. Recurso da parte autora que atende aos requisitos do art. 1.010 do CPC.
+2. A ação civil pública n. 98.1002702-8/RS não beneficia a vítima do dano no que diz respeito à prescrição, porquanto debateu exclusivamente a cessação do dano, não a responsabilidade pelo dano ambiental.
+3. Já a ação civil pública n. 2000.71.01.001891-1/RS, que trata efetivamente da responsabilidade civil por dano ambiental, ainda não transitou em julgado, razão pela qual não há falar em implementação do prazo prescricionaI. Precedentes.
+PRELIMINAR CONTRARRECURSAL REJEITADA. RECURSO DESCONSTITUÍDA. PROVIDO. SENTENÇA.
+Rejeitados os embargos de declaração opostos (fls. 1.806-1.812).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos arts. 189, 200 e 202 do Código Civil, 104 do CDC, 313, V, "a", do CPC.
+Sustenta, em síntese, que o ajuizamento de ação coletiva não é causa de interrupção do prazo prescricional para propositura de ação individual. Afirma, ainda, que o autor possuía plena ciência da ação coletiva em curso, configurando abdicação dos efeitos da ação civil pública e afastamento do seu efeito interruptivo, ressaltando, também, que inexistia qualquer relação ou dependência entre o objeto da ação coletiva e a presente demanda.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2.568-2.596), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento.
+E, a propósito do contexto recursal, destacou a origem (fls. 1.810-1.811):
+Na hipótese em apreço, entretanto, não vislumbro qualquer lacuna no aresto recorrido que justifique o acolhimento dos presentes embargos, porquanto, como se confere do teor do julgamento, restaram devidamente analisadas as questões trazidas ao exame do Tribunal e explicitadas as razões de convencimento do colegiado.
+Como asseverado no aresto recorrido, a hipótese em liça trata do pedido indenizatório decorrente do derramamento de ácido sulfúrico pelo navio Bahamas no Porto de Rio Grande e consequente prejuízo alegado pelos pescadores da região, tendo a sentença declarado a prescrição trienal em razão do trânsito em julgado da ação civil pública n. 98.1002702-8/RS, ocorrido em 06-06-2011, que tramitou na justiça Federal.
+Sucede que, na esteira do consignado pelo colegiado, na ação civil pública n. 98.1002702-8/RS foi discutida exclusivamente a cessação do dano, não a responsabilidade pelo dano ambiental. Assim, tal demanda não beneficia a vítima do dano no que diz respeito à prescrição. E a ação civil pública n. 2000.71.01.001891-1/RS, que trata efetivamente da responsabilidade civil por dano ambiental, ainda não transitou em julgado, razão pela qual não há falar em implementação do prazo prescricional.
+Ainda, muito embora a parte autora não dependesse do ajuizamento da ação civil pública para propositura da sua ação individual, o fato é que houve o ajuizamento da demanda (da ACP) e que tem como causa de pedir justamente o acidente ambiental ocorrido com o Navio Bahamas, em 1998.
+Por certo, assim, que a ação coletiva poderá revelar questões importantes para fins de apuração das responsabilidades, de modo que, para evitar a repetição de ações, comungo do entendimento de que há interrupção da prescrição das ações individuais, enquanto pendente de julgamento a ação coletiva que trata do mesmo acidente ambiental.
+As questões aventadas nos autos, destarte, foram apreciadas por este Colegiado e a conclusão adotada pelo acórdão proferido está devidamente fundamentada e motivada, ausente qualquer vício que implique nulidade do julgado.
+O fundamento se mostra suficiente a afastar eventual nulidade de fundamentação ou omissão no aresto acerca da devida correspondência entre as ações e interrupção da prescrição em face do ajuizamento da ação coletiva a discutir a responsabilidade pelo derramamento de ácido sulfúrico do Navio Bahamas no Porto de Rio Grande em agosto de 1998.
+No tocante à força interruptiva da prescrição das pretensões individuais em face da demanda coletiva, o Tribunal local pontuou (fls. 1.574-1.580 ):
+Isso porque na ação civil pública n. 98.1002702-8/RS foi discutida exclusivamente a cessação do dano, não a responsabilidade pelo dano ambiental. Assim, tal demanda não beneficia a vítima do dano no que diz respeito à prescrição.
+Por seu turno, a ação civil pública n. 2000.71.01.001891-1/RS, que trata efetivamente da responsabilidade civil por dano ambiental, ainda não transitou em julgado, razão pela qual não há falar em implementação do prazo prescricional. Em situações idênticas, assim decidiu o Tribunal:
+ ..
+Com efeito, a causa versa sobre indenização por danos morais e materiais decorrentes de danos ambientais, os quais foram causados por derramamento de insumo químico no Porto de Rio Grande, impossibilitando da atividade comercial de pesca por parte dos autores.
+Portanto, o prazo prescricional para esta espécie de relação jurídica é o trienal, de acordo com o regramento atual quanto à matéria, estabelecido no art. 206, § 3º , inciso V, da legislação civil vigente, pois a ação em exame versa sobre responsabilidade civil.
+Com relação ao prazo prescricional que deve ser considerado no caso sub judice, em se tratando de pretensão indenizatória em razão de danos ocasionados no ano de 1998, portanto, anteriormente ao novo Código Civil de 2002, o prazo prescricional para esta espécie de relação jurídica era o vintenário, conforme alude o art. 177 do Código Civil de 1916.
+Entretanto, não transcorrendo mais da metade do prazo prescricional previsto na lei civil anterior, quando da entrada em vigor da nova legislação civilista, o prazo a ser aplicado é o do novel Código Civil, nos termos do art. 2.028 deste diploma legal.
+Desse modo, o lapso prescricional aplicável é o trienal, de acordo com o regramento atual quanto à matéria em discussão, estabelecido no art. 206, § 3º, inciso V, da legislação civil vigente, pois a ação em exame versa sobre reparação civil.
+Enfatiza-se que não há que falar em fato ou ato novo reconhecido pelo novo estatuto civil, mas simplesmente em igual suporte fático, cujo prazo para o exercício da ação foi modificado de acordo com as novas regras estabelecidas para o instituto da prescrição.
+Portanto, se o legislador optou por regular de forma específica a matéria objeto do litígio, estabelecendo um prazo mais curto de prescrição, este começará a contar da data da nova lei, exceto quando já transcorridos mais da metade do tempo estabelecido na lei revogada, por força do estatuído no art. 2.028 do Código Civil.
+É oportuno sinalar que, em regra, o termo inicial de contagem da prescrição é a entrada em vigor do Código Civil de 2002, ou seja, 11 de janeiro de 2003.
+Todavia, deve-se levar em consideração que o ajuizamento de ação civil pública para o fim de responsabilizar os causadores de danos decorrentes do mesmo evento danoso, em proteção aos direitos difusos, interrompe o prazo prescricional para apresentação de demanda judicial acerca de interesse individual homogêneo.
+In casu, deve ser afastado o reconhecimento da prescrição, pois a ação civil pública que trata da responsabilização civil dos agentes causadores dos danos ambientais em tela, tombada sob o n.º 2000.71.01.0018981-1/RS (5006075-38.2012.4.04.7101), que tramita na Justiça Federal, ainda não transitou em julgado, encontrando-se em fase recursal perante o egrégio Superior Tribunal de justiça.
+Desse modo, o prazo prescricional da pretensão individual de reparação ainda não foi implementado, devendo ser reformada a decisão de primeiro grau que determinou a extinção da demanda, para o fim de afastar o reconhecimento da prescrição no caso em tela e determinar o retorno dos autos à origem para regular processamento do feito.
+O fundamento evidenciado é no sentido da interrupção da prescrição em face da propositura de ação civil pública lastreada nos mesmos fundamentos da demanda individual, conclusão que, de acordo com a jurisprudência deste Superior Tribunal, revela-se escorreita.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PESCADOR ARTESANAL. ACIDENTE AMBIENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. INTERRUPÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA SOBRE O MESMO FATO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de compensação por danos morais, ajuizada por pescador artesanal em razão do dano ambiental decorrente de derramamento de ácido sulfúrico pelo navio Bahamas, que estava atracado no porto de Rio Grande/RS.(..)
+3. Consoante a jurisprudência firmada pelo STJ, a citação válida em ação coletiva, mesmo que versando sobre direitos difusos, configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual. Precedentes.
+4. Agravo não provido.(AgInt no AREsp n. 2.185.740/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO VÁLIDA. AÇÃO CIVIL PÚBLICA. DANOS AMBIENTAIS. AÇÃO DE INDENIZAÇÃO. IDENTIDADE DE CAUSA DE PEDIR. NAVIO BAHAMAS. DERRAMAMENTO DE ÁCIDO SULFÚFICO. PREJUÍZO AOS PESCADORES PROFISSIONAIS. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.(..)
+3. A citação válida na ação coletiva por danos ambientais interrompe o prazo prescricional da ação indenizatória individual se coincidentes a causa de pedir das demandas.(..)
+7. Agravo interno desprovido.(AgInt no AREsp n. 2.036.247/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+É patente, pois, a propriedade do reconhecimento da atração da Súmula n. 83/STJ.
+A verificação, ademais, de dissonância entre os elementos identificadores da ação, notadamente, da causa de pedir exigiria o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+As conclusões aqui expostas alcançam, ademais, o sustentado dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
