@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que proveu parcialmente o recurso da defesa, "ao efeito de conceder o benefício da assistência judiciária gratuita ao apelante, suspendendo a exigibilidade das custas processuais que lhe foram impostas, e provimento ao apelo ministerial, ao efeito de reconhecer a causa de aumento prevista no artigo 155, § 1º, do Código Penal, e exasperar a privativa de liberdade para 02 (dois) anos e 08 (oito) meses de reclusão, mantidas as demais disposições sentenciais".
+Sustenta o recorrente violação do art.155, § 4º, II, do Código Penal e arts. 158, 159, 160, 167, 171 e 564, III, "b", todos do Código de Processo Penal.
+Alega o decote da qualificadora da escalada, ante a falta de exame pericial, bem como inexistente motivação idônea para a dispensa do laudo direto.
+Busca o afastamento da majorante do repouso noturno, em razão da incompatibilidade com o furto qualificado.
+Re quer o provimento do recurso, a fim de que seja redimensionada a pena.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Quanto ao afastamento da qualificadora do furto, o acórdão recorrido está assim fundamentado:
+Passo ao exame do pedido subsidiário de afastamento da qualificadora decorrente do cometimento do delito mediante escalada.
+Melhor sorte não lhe assiste, visto que inexistente dúvida acerca da perpetração do ilícito subtrativo mediante escalada, não apenas pela prova oral colhida quando da oitiva de Leonardo Augusto Bronca e Joseane Souza, mas também em razão do auto de constatação indireto de furto qualificado (fl. 80), pelo qual evidenciado que ANDERSON LUIS DE SOUZA PLETSCH escalou mezanino de aproximadamente 3,5m (três metros e meio) de altura em relação ao solo, a partir de onde logrou acessar o interior do estabelecimento comercial.
+Tanto denota a utilização de via anormal à prática delitiva e o esforço incomum empregado pelo agente, de modo que potencializado o poder de ofensa ao bem jurídico tutelado, circunstância que determina o recrudescimento da respectiva punição e impõe o reconhecimento da qualificadora disposta no inciso II do § 4º do artigo 155 do Código Penal.
+Prevalece nesta Corte o entendimento de que a incidência da qualificadora prevista no art. 155, § 4º, II, do Código Penal requer, de fato, a realização de exame de corpo de delito direto, o qual pode, contudo, ser suprido por outros meios de prova caso o delito não deixe vestígios, esses tenham desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que, como visto, não é o caso dos autos.
+Nesse contexto, ainda que a presença da circunstância qualificadora esteja em consonância com a prova testemunhal colhida nos autos, mostra-se imprescindível a realização de perícia, nos termos do art. 158 do Código de Processo Penal. A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO MINISTERIAL. MANUTENÇÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. IMPRESCINDIBILIDADE.
+I - A jurisprudência deste Tribunal Superior é pacífica no sentido de que o exame de corpo de delito é imprescindível para a caracterização da qualificadora do rompimento de obstáculo, sendo admitido o exame de forma indireta apenas nas hipóteses de não existirem vestígios ou em caso de desaparecimento deles.
+II - Tendo as instâncias ordinárias optado deliberadamente por desconsiderar a imprescindibilidade do exame pericial para caracterização da qualificadora do rompimento de obstáculo no crime de furto, imperioso reconhecer o confronto com a jurisprudência desta Corte. Agravo regimental não provido (AgRg no AREsp 1134043/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/11/2017, DJe 01/12/2017.)
+HABEAS CORPUS. FURTO QUALIFICADO PELA ESCALADA. COMPROVAÇÃO POR CONFISSÃO E PROVA TESTEMUNHAL. IMPOSSIBILIDADE. EXAME PERICIAL. IMPRESCINDIBILIDADE. AFASTAMENTO DA QUALIFICADORA. ORDEM CONCEDIDA.
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Não tendo sido mencionada nenhuma das situações que dispensam a confecção do laudo pericial, a qualificadora da escalada deve ser afastada.
+3. Habeas Corpus concedido para afastar a qualificadora disposta no inciso II do § 4º do art. 155 do Código Penal.
+(HC 557.197/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020)SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020.)
+Por sua vez, como bem apontado no parecer ministerial:
+Ainda que a presença da aludida circunstância qualificadora esteja em consonância com o elemento probatório produzido durante a investigação policial e instrução processual, mostra-se imprescindível a realização de exame de corpo de delito direto, nos termos dos arts. 158 e 171 do Código de Processo Penal, providência não adotada no caso sob análise.
+Assim, não tendo sido apontado qualquer fundamento capaz de justificar a não realização do exame de corpo de delito de forma direta, impõe-se o afastamento da qualificadora.
+Considerando o afastamento da qualificadora do delito, fica prejudicado a alegada violação do art. 155, § 1º, do CP, porquanto inexistente a incompatibilidade entre a aludida causa de aumento com o furto simples.
+Procede-se, portanto, o redimensionamento da pena.
+Considerando a ausência de circunstância judicial desfavorável na origem, fixa-se a pena-base no mínimo legal, a qual permanece inalterada na segunda fase, diante da falta de agravante e atenuante. Na terceira fase, preserva-se a fração de 1/3 pela causa de aumento do repouso noturno, tornando-se definitiva a reprimenda em 1 ano e 4 meses de reclusão e 13 dias-multa, mantido o regime aberto e a conversão da pena privativa de liberdade por penas restritivas de direitos.
+Ante o e xposto, dou provimento ao recurso especial para reduzir a pena para 1 ano e 4 meses de reclusão e 13 dias-multa, no regime aberto, mantidas as demais cominações da condenação.
+Publique-se.
+Intimem-se.
+EMENTA
