@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ALEX ALVES DA SILVA contra decisão da Presidência do Superior Tribunal de Justiça, que não conheceu do recurso pelo óbice da Súmula n. 284/STF (fls. 248-249).
+Nas razões do regimental, a Defesa sustenta, em suma, ter sim indicado os artigos de lei violados, devendo, por isso, ser superado o óbice da Súmula n. 284/STF (fls. 255-258).
+Requer, assim, a reconsideração da decisão agravada ou o provimento do regimental pelo colegiado (fls. 258-259).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 269-275).
+É o relatório. Decido.
+Com razão o Agravante. De fato, às fls. 165 e 173 do apelo nobre, a Defesa apontou os artigos de lei violados, devendo ser afastado o óbice da Súmula n. 284/STF.
+Passo, por conseguinte, à apreciação do mérito do apelo nobre.
+Consta nos autos que a denúncia ofertada em face do ora Agravante, pelo delito do art. 155, caput, do  Código Penal, foi rejeitada pelo Juízo de primeiro grau (fls. 9-11).
+A Corte de justiça de origem deu provimento à apelação do Parquet para afastar a rejeição da denúncia e determinar o prosseguimento da ação penal (fls. 140-144).
+Nas razões do apelo nobre, a Defesa aponta violação aos arts. 155, caput, do  Código Penal e ao 395, inciso III, do Código de Processo Penal, aduzindo, em síntese, que o valor avaliado da bicicleta furtada é de, aproximadamente, R$ 150,00 (cento e cinquenta reais), indicando, assim, reduzido grau de reprovabilidade da conduta (fls. 170-172).
+Contrarrazões às fls. 180-190. O recurso especial não foi admitido (fls. 196-198). Foi interposto agravo (fls. 207-216).
+Cumpre registrar que a aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta, buscando identificar a necessidade ou não da utilização do direito penal como resposta estatal.
+Diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas os bens jurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade. É certo, porém, que o pequeno valor da vantagem patrimonial ilícita não se traduz, automaticamente, no reconhecimento do crime de bagatela.
+Além disso, é preciso observar também as circunstâncias que permeiam o delito, pois, ainda que o valor da coisa seja reduzido, tais elementos podem afastar os vetores atinentes ao reduzidíssimo grau da reprovabilidade da conduta ou à baixa periculosidade social da ação, obstando o reconhecimento da insignificância.
+Nesse sentido, tem decidido o Supremo Tribunal Federal:
+"HABEAS CORPUS. DIREITO PENAL. FURTO QUALIFICADO. ÍNFIMO VALOR DA RES FURTIVA. ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. 1. A pertinência do princípio da insignificância deve ser avaliada, em casos de pequenos furtos, considerando não só o valor do bem subtraído, mas igualmente outros aspectos relevantes da conduta imputada. 2. Não tem pertinência o princípio da insignificância em crime de furto qualificado cometido mediante rompimento de obstáculo. Precedentes. 3. Ordem denegada." (HC 121760, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 14/10/2014, PUBLIC 03-11-2014; sem grifos no original.)
+No caso em exame, não constato a atipicidade material da conduta, porquanto foi comprovada a acentuada reprovabilidade do comportamento do Agravante, considerando que ele responde a outra ação penal pelo mesmo delito, além de o valor da bicicleta furtada equivaler a 20% (vinte por cento) do valor do salário mínimo vigente à época da prática delitiva, circunstâncias que demonstram sua propensão à prática de crimes dessa natureza.
+A Corte de origem superou a rejeição da denúncia nestes termos (fls. 140-144, grifei):
+"Vê-se que o magistrado de origem, ao analisar a aplicabilidade do princípio da insignificância e rejeitar a denúncia, concluiu que o fato não afetou economicamente o proprietário do bem, sendo irrelevante do ponto de vista econômico.
+No entanto, a jurisprudência do STJ, ainda que de maneira meramente indicativa e não vinculante, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial, já que pequeno valor não se consubstanciaria em valor ínfimo:
+ ..
+No caso concreto, o bem subtraído (uma bicicleta) restou avaliado em R$ 150,00, o que perfaz, aproximadamente, 20% (vinte por cento) do salário-mínimo atual.
+Inobstante, sua aplicabilidade não fica restrita apenas ao valor do bem subtraído, devendo ser verificados a mínima ofensividade da conduta do agente; ausência de periculosidade social da ação; reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+ ..
+De acordo com as informações constantes dos autos de Inquérito Policial nº 00024768920208272715 (evento 14), o recorrido responde aos autos de Ação Penal nº 00159200820198272722, também pela prática de crime de furto, mas na modalidade qualificada pelo concurso de pessoas.
+É interesse do Estado punir infratores contumazes, para desestimular a criminalidade, ainda que o crime praticado seja de pouca gravidade, porque o fato de se admitir a incidência do princípio da insignificância, em casos como tais, o infrator poderá fazer destes delitos o seu meio de vida.
+Desta feita, a conduta do recorrido resta consideravelmente reprovável, não havendo indicativo para aplicação do princípio da insignificância, ainda que seja delito de pouca gravidade, pois o princípio da insignificância só tem sentido quando aplicado em casos isolados de desvio de conduta não reprovável, não ofensiva e inexpressiva, atributos que a conduta relatada não contém.
+Além disso, o STF tomou firme posição, no sentido de que a verificação da lesividade mínima deve levar em conta, além do valor do bem subtraído, as circunstâncias de cunho subjetivo, especialmente a vida pregressa do agente. Nessa vertente:
+ ..
+Assim, com razão o órgão apelante no sentido de que incabível o reconhecimento da insignificância para a rejeição da denúncia."
+Cito os seguintes julgados desta Corte Superior de Justiça, proferidos em casos análogos:
+" ..
+1. O Agravante possui 10 (dez) condenações definitivas por crime de furto, sendo reincidente e portador de maus antecedentes, tendo praticado o delito de que cuida o presente recurso durante o cumprimento da pena em regime aberto, sob sistema de prisão domiciliar. O bem furtado, embora seja um frasco de perfume, foi avaliado em R$ 139,90 (cento e trinta e nove reais e noventa centavos), valor equivalente a 13% (treze) por cento do salário-mínimo vigente na prática do fato. Tais circunstâncias evidenciam a habitualidade delitiva e a inexistência de reduzido grau de reprovabilidade, afastando o cabimento da aplicação do princípio da insignificância.
+ ..
+4. Agravo regimental desprovido." (AgRg no AREsp n. 2.011.324/DF, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022, grifei.)
+" ..
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois o valor da res ultrapassa 10% do salário mínimo vigente à época dos fatos e consta dos autos que o paciente possui maus antecedentes e é reincidente, circunstâncias que demonstram a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido.
+ ..
+5. Ordem denegada." (HC n. 615.801/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022, grifei.)
+" ..
+II - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável.
+III - Outrossim, "apesar de não configurar reincidência, a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância" (AgRg no HC n. 578.039/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 04/09/2020).
+IV - No presente caso, afere-se do v. acórdão impugnado que na hipótese, o princípio da insignificância foi afastado, em razão da vida pregressa do paciente, ao fundamento de que possui comportamento reiterado na prática de crimes patrimoniais, destacando para tanto, que "Douglas responde a outras sete ações penais em andamento, sendo cinco delas pelo suposto cometimento do crime de furto (autos n. 5011461-54.2019.8.24.0039; 0003201-73.2019.8.24.0039; 0004364-88.2019.8.24.0039; 5010117-67.2021.8.24.0039; 5015244-83.2021.8.24.0039), e as demais pela prática, em tese, do delito de roubo (autos n. 5009850-61.2022.8.24.0039; 5010892-19.2020.8.24.0039)" (fl. 283).
+Assim, não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais.
+ ..
+Agravo regimental desprovido." (AgRg no HC n. 811.161/SC, relator Ministro MESSOD AZULAY NETO , Quinta Turma, julgado em 14/8/2023, DJe de 23/8/2023, grifei.)
+Ante o exposto, CONHEÇO E DOU PROVIMENTO ao agravo regimental para reconsiderar a decisão de fls. 248-249 e, assim, CONHECER do agravo e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO DA PRESIDÊNCIA DE NÃO CONHECIMENTO DO AGRAVO PELO ÓBICE DA SÚMULA N. 284/STF. RECONSIDERAÇÃO. DELITO DE FURTO SIMPLES. SUPERAÇÃO DA REJEIÇÃO DA DENÚNCIA PELA CORTE DE JUSTIÇA LOCAL. PLEITO DE RECONHECIMENTO DA ATIPICIDADE MATERIAL DA CONDUTA. IMPOSSIBILIDADE. VALOR DO BEM SUPERIOR A 10 (DEZ) POR CENTO DO SALÁRIO MÍNIMO E CONTUMÁCIA DELITIVA. AGRAVO REGIMENTAL PROVIDO PARA, RECONSIDERANDO A DECISÃO AGRAVADA, CONHECER DO AGRAVO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
