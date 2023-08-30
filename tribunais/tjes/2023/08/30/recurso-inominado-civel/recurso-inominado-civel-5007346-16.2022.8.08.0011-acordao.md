@@ -1,0 +1,87 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007346-16.2022.8.08.0011
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: MARIA DAS GRACAS MELO MANCINI
+
+RECORRIDO: INSTITUTO DE PREVIDENCIA DO MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM
+
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº 5007346-16.2022.8.08.0011
+
+RECORRENTE: MARIA DAS GRACAS MELO MANCINI
+
+RECORRIDO: INSTITUTO DE PREVIDENCIA DO MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente as benesses da gratuidade da Justiça.
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. INAPLICABILIDADE DOS EFEITOS DA REVELIA AO RÉU, ENTIDADE AUTÁRQUICA MUNICIPAL (ART. 345, II, DO CPC). APOSENTADORIA POR INVALIDEZ. AUTORA PORTADORA DE TRANSTORNO AFETIVO BIPOLAR. DOCUMENTOS ANEXOS AOS AUTOS QUE NÃO PERMITEM A AFIRMAÇÃO CATEGÓRICA DA IMPOSSIBILIDADE DE READAPTAÇÃO, PARA EXERCÍCIO DO CARGO EM CIRCUNSTÂNCIAS DIVERSAS. NECESSIDADE DE PERÍCIA POR JUNTA MÉDICA DO INSTITUTO DE PREVIDÊNCIA DEMANDADO. LAUDO MÉDICO OFICIAL QUE REPELE A ADEQUAÇÃO DA APOSENTADORIA E RECOMENDA A READAPTAÇÃO PARA FUNÇÕES DESPROVIDAS DE CONTATO DIRETO COM PÚBLICO OU PACIENTES, EM SETORES ADMINISTRATIVOS. PROVAS BASTANTES PARA O JULGAMENTO SEGURO DA LIDE. CERCEAMENTO DE DEFESA INOCORRENTE. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS. DEFERIMENTO PELA ADMINISTRAÇÃO PÚBLICA, POSTERIOR AO RECURSO, DA APOSENTADORIA COLIMADA, COM EFEITOS A PARTIR DE 31/03/2023. PERDA DO OBJETO NO TOCANTE À IMPLANTAÇÃO DO BENEFÍCIO. PRETENSÃO DE QUE SEJA DETERMINADO, EM GRAU DE RECURSO, A RETROAÇÃO DA APOSENTADORIA A 12/05/2021, DATA DO LAUDO DE ID 4472029. IMPOSSIBILIDADE DE ATENDIMENTO DE TAL POSTULAÇÃO, EIS QUE AMPLIA O PRÓPRIO PEDIDO EXORDIAL, QUE VEIO A LUME EM 27/06/2022, O QUAL PRETENDIA O DEFERIMENTO LIMINAR E EM DEFINITIVO, PORÉM, COM EFEITOS EX NUNC. EXISTÊNCIA, ADEMAIS, DO JÁ CITADO LAUDO MÉDICO POSTERIOR, CONSIDERADO PELA SENTENÇA RECORRIDA, QUE CONTRARIAVA TAL POSTULAÇÃO. SUPERVENIÊNCIA DA REAVALIAÇÃO ADMINISTRATIVA DO ESTADO DA OBREIRA QUE NÃO IMPLICA NECESSARIAMENTE A CONFISSÃO SOBRE A PREEXISTÊNCIA DA CAPACIDADE DEFINITIVA EM PERÍODO ANTERIOR AO DO ATO DE CONCESSÃO. RECURSO PREJUDICADO EM PARTE E, NO RESTANTE, CONHECIDO E IMPROVIDO. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95). SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+VOTOS
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
