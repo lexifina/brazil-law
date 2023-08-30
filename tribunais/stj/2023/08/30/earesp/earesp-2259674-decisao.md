@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por HAWES TRANSPORTADORA LTDA., NARA APARECIDA WESTPHAL e HAMILTON WESTPHAL contra acórdão da Terceira Turma assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO EXECUTIVA DE TÍTULO EXTRAJUDICIAL. PETIÇÃO INICIAL. INDEFERIMENTO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO. EQUIDADE.
+1. A controvérsia dos autos reside em verificar, dentre outras questões, se os honorários sucumbenciais devem ser estipulados por equidade ou com base no § 2º do artigo 85 do Código de Processo Civil no caso em que a execução é extinta sem resolver o mérito.
+2. A jurisprudência do Superior Tribunal de Justiça adota orientação no sentido de que os honorários advocatícios devem ser fixados por equidade nas hipóteses em que extinção da execução não importar na declaração de inexistência ou de excesso da dívida perseguida. Precedentes.
+3. Agravo interno não provido.
+Sustenta a parte divergência com o AREsp n. 1.792.997/MS, da Quarta Turma, que teria decidido no sentido de que, estando ausente o cunho condenatório e sendo inestimável o proveito econômico, é cabível a condenação em honorários advocatícios.
+Também afirma que o acórdão recorrido dissentiu do entendimento fixado no Tema 1.076 do STJ, bem como do julgado da Segunda Seção no REsp n. 1.746.072/SP, embora não tenha apontado tal julgado como paradigma divergente.
+É o relatório. Decido.
+Os embargos de divergência não reúnem condições de admissibilidade, tendo em vista a incidência da Súmula n. 168 do STJ como óbice ao seu trânsito.
+Os recentes julgados oriundos da Quarta Turma são uniformes com o entendimento do julgado ora recorrido. Observe-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DESISTÊNCIA. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC/2015. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, conforme disposto no § 8º do art. 85 do CPC/2015. Precedentes.
+2. Na hipótese, a extinção da execução provisória decorreu de homologação do pedido de desistência da exequente, por ter reconhecido o equívoco de executar, naquele momento, sentença a qual fora anulada pelo Tribunal de Justiça para novo julgamento. Como a dívida não foi declarada extinta ou inexistente, nem seu valor foi reduzido, não ficando inviabilizada a cobrança futura do débito, o proveito econômico deve ser considerado inestimável, impondo-se o arbitramento dos honorários de sucumbência por apreciação equitativa, nos termos do art. 85, § 8º, do CPC/2015.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.416.180/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXTINÇÃO DO PROCESSO. VIA INADEQUADA. PROVEITO INESTIMÁVEL. HONORÁRIOS POR EQUIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 11, 489, 1.013, § 1º, e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. De acordo com a jurisprudência desta Corte, "se a própria dívida foi declarada extinta ou inexistente ou seu valor foi reduzido, vislumbra-se nítido proveito econômico auferido pelo executado. Por outro lado, caso a extinção da execução apenas impeça a cobrança por essa via, mas não inviabilize a cobrança do débito pelas vias ordinárias, o proveito econômico auferido pelo devedor deve ser considerado inestimável" (REsp 1.875.161/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/5/2021, DJe 31/5/2021).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.275.424/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ou seja, considerando-se inestimável o proveito econômico auferido pelo executado, a hipótese é de fixação dos honorários por equidade.
+Portanto, aplica-se à espécie a Súmula n. 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal de firmou no mesmo sentido do acórdão embargado".
+Observa-se também que não há verdadeira divergência entre os julgados, uma vez que tanto o acórdão recorrido quanto o paradigma adotaram a posição de que a fixação dos honorários por apreciação equitativa tem cabimento nas hipóteses de extinção da execução que não impeça nova cobrança do débito, porquanto o proveito econômico auferido em tais casos é considerado inestimável.
+Ante o exposto, não conheço dos embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
