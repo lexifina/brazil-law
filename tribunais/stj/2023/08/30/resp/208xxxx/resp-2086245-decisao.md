@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LUCIMAR PEREIRA PARDIN e MARIANA PARDIN MENIS contra acórdão prolatado, por unanimidade, pela 8ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de apelação, assim ementado (fl. 305e):
+PREVIDENCIÁRIO. RECONHECIMENTO DE TEMPO DE SERVIÇO RURAL. ATIVIDADE ESPECIAL. RUÍDO. AGENTES QUÍMICOS. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CORREÇÃO MONETÁRIA.
+I- Tratando-se de comprovação de tempo de serviço, é indispensável a existência de início razoável de prova material da atividade rural, contemporânea à época dos fatos, corroborada por coerente e robusta prova testemunhal.
+II- O Colendo Superior Tribunal de Justiça pacificou o entendimento no sentido de que é possível o reconhecimento de tempo de serviço rural anterior ao documento mais antigo acostado aos autos como início de prova material, desde que amparado por prova testemunhal idônea.
+III- No caso concreto, o acervo probatório permite o reconhecimento da atividade rural no período pleiteado, exceto para fins de carência.
+IV- No que se refere à conversão do tempo de serviço especial em comum, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+V- Em se tratando do agente nocivo ruído, a atividade deve ser considerada especial se exposta a ruídos ruído acima de 80dB, nos termos do Decreto nº 53.831/64. No entanto, após 5/3/97, o limite foi elevado para dB 90, conforme Decreto nº 2.172. A partir de 19/11/03 o referido limite foi reduzido para 85 dB nos termos do Decreto nº 4.882/03.
+VI- No tocante a agentes químicos, impende salientar que a constatação dos mesmos deve ser realizada mediante qualitativa e não quantitativa, bastando a exposição do segurado aos referidos agentes avaliação para configurar a especialidade do labor.
+VII- A documentação apresentada permite o reconhecimento da atividade especial no período pleiteado.
+VIII- No tocante à aposentadoria por tempo de contribuição, a parte autora cumpriu os requisitos legais necessários à obtenção do benefício.
+IX- Com relação aos índices de atualização monetária, devem ser observados os posicionamentos firmados na Repercussão Geral no Recurso Extraordinário nº 870.947 ( ) e no Recurso Especial Tema 810 Repetitivo nº 1.492.221 ( ), adotando-se, dessa forma, o IPCA-E nos processos relativos a Tema 905 benefício assistencial e o INPC nos feitos previdenciários.
+X- Apelação do INSS parcialmente provida.
+Opostos embargos de declaração, foram rejeitados (fls. 352/358e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 493 do Código de Processo Civil, alegando-se, em síntese, que no caso se trata de desdobramento da pretensão inicial, na medida em que o benefício de pensão por morte é decorrência da aposentadoria, de modo que não parece razoável entender pela impossibilidade de conversão da aposentadoria em pensão por morte, tal como concluiu o Tribunal de Origem.
+Assim deve ser admitida a conversão da aposentadoria em pensão por morte, virtude do falecimento no curso da ação, a contar da data do óbito do segurado instituidor, uma vez que tal situação não importa em alteração do pedido e da causa de pedir.
+Sem contrarrazões, o recurso foi admitido (fls. 453/454e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No que diz respeito à controvérsia, o Tribunal manifestou-se nos seguintes termos (fl. 302e):
+Não merece prosperar o pedido de conversão da aposentadoria por tempo de contribuição em pensão por morte, tendo em vista que, na presente demanda, não está sendo discutido o direito dos sucessores do falecido à pensão por morte e que não é possível a alteração do pedido e da causa de pedir após o saneamento do feito, nos termos do art. 329 do CPC.
+Observo que o acórdão recorrido contraria a orientação desta Corte, segundo a qual é possível a conversão de aposentadoria em pensão por morte no curso do processo de execução, tendo ocorrido o óbito do segurado após a prolação da sentença, o que viabiliza a execução das parcelas vencidas após o óbito do nos mesmos autos, sem que tal ato importe em julgamento extra ou ultra petita, ou ofensa à coisa julgada, observada a regra do art. 493 do Código de Processo Civil.
+Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. PEDIDO DE CONVERSÃO EM PENSÃO POR MORTE APÓS A MORTE DO SEGURADO NO CURSO DO PROCESSO. JULGAMENTO EXTRA OU ULTRA PETITA. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É firme a jurisprudência do Superior Tribunal de Justiça de que, em matéria previdenciária, é necessário flexibilizar a análise do pedido contido na petição inicial, não se entendendo como julgamento extra ou ultra petita a concessão de benefício diverso do requerido na inicial.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.984.820/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 74 DA LEI N. 8.213/91. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. HABILITAÇÃO DOS SUCESSORES. AUSÊNCIA DE INTERESSE RECURSAL. CONVERSÃO DA APOSENTADORIA RURAL POR IDADE EM PENSÃO POR MORTE. ÓBITO DO SEGURADO NO CURSO DO PROCESSO DE EXECUÇÃO. INEXISTÊNCIA DE JULGAMENTO EXTRA OU ULTRA PETITA. NÃO CARACTERIZAÇÃO DE OFENSA À COISA JULGADA.
+(..)
+IV - Possibilidade de conversão de aposentadoria rural por idade em pensão por morte no curso do processo de execução, tendo ocorrido o óbito do segurado após a prolação da sentença, sem que tal ato importe em julgamento extra ou ultra petita. Não caracterização de ofensa à coisa julgada. Observância do princípio da primazia da realidade dos fatos no processo civil previdenciário, objetivando a efetivação dos direitos fundamentais de proteção social. Aplicação da regra do art. 462 do Código de Processo Civil, ante a superveniência do direito do cônjuge em perceber a pensão por morte com o óbito do segurado, preenchidos os requisitos legais.
+V - Recurso especial improvido.
+(REsp 1.320.820/MS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 17/05/2016).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. CONVERSÃO DE APOSENTADORIA ESPECIAL EM PENSÃO POR MORTE. ATO DE CONVERSÃO DEFERIDO NO PROCESSO DE EXECUÇÃO. ÓBITO DO SEGURADO APÓS PROLAÇÃO DA SENTENÇA DE PROCEDÊNCIA. JULGAMENTO EXTRA OU ULTRA PETITA. NÃO CONFIGURAÇÃO. PRECEDENTES DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. O STJ tem entendimento consolidado de que, em matéria previdenciária, deve flexibilizar-se a análise do pedido contido na petição inicial, não entendendo como julgamento extra ou ultra petita a concessão de benefício diverso do requerido na inicial, desde que o autor preencha os requisitos legais do benefício deferido.
+2. Reconhecido o direito à aposentadoria especial ao segurado do INSS, que vem a falecer no curso do processo, mostra-se viável a conversão do benefício em pensão por morte, a ser paga a dependente do de cujus, na fase de cumprimento de sentença. Assim, não está caracterizada a violação dos artigos 128 e 468 do CPC.
+3. Recurso especial conhecido e não provido.
+(REsp 1.426.034/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/06/2014, DJe 11/06/2014).
+PREVIDENCIÁRIO. CONVERSÃO DE APOSENTADORIA POR INVALIDEZ EM PENSÃO POR MORTE. ÓBITO DA PARTE AUTORA. POSSIBILIDADE. JULGAMENTO ULTRA PETITA. INOCORRÊNCIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE.
+1. Comprovados os requisitos para a aposentadoria por invalidez e sobrevindo o óbito da parte autora no curso do processo, possível a conversão desse benefício em pensão por morte, não caracterizando julgamento ultra petita, por ser este benefício consequência daquele.
+2. É pacífico o entendimento neste Sodalício de que desnecessária a prévia postulação administrativa de benefício previdenciário para ingresso na via judicial.
+3. Recurso especial provido.
+(REsp 1.108.079/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/10/2011, DJe 03/11/2011).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para permitir a conversão da aposentadoria em pensão por morte e a execução das parcelas vencidas após o óbito do segurado nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
