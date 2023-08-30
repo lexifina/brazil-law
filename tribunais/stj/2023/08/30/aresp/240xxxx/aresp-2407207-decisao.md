@@ -1,0 +1,86 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por MERCI FERREIRA MENDES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/4/2023.
+Concluso ao gabinete em: 14/8/2023.
+Ação: de indenização por danos materiais e compensação por danos morais, movida pela agravante em face de PORTOSEG S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO, em virtude do pagamento de boleto fraudado.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. BOLETO FRAUDADO. Falha na prestação do serviço. Contexto probatório a indicar a atuação de falsários com livre acesso aos dados da cliente, em especial as últimas compras realizadas, com coincidência de datas, valores e números de parcelas. Culpa exclusiva da vítima não caracterizada. Boleto com o mesmo logo da instituição financeira, a dar credibilidade aos fatos. Teoria do risco. Fortuito interno. Serviço defeituoso. Insegurança do sistema de guarda dos dados patenteada. DANO MORAL. Inocorrência. Situação desagradável que, no entanto, não é apta a gerar dano indenizável. HONORÁRIOS CONTRATUAIS. Ressarcimento indevido. Pactuação particular. SUCUMBÊNCIA. Recíproca. Sentença reformada em parte. Apelação parcialmente provida. (e-STJ Fl. 213)
+Embargos de declaração: opostos pela agravante, foram acolhidos nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. Fixação do termo inicial da correção monetária e dos juros de mora do valor a ser devolvido pelo réu. HONORÁRIOS CONTRATUAIS. Ressarcimento indevido. Contratação que obriga somente os seus participantes. DANO MORAL. Inocorrência nos termos do julgado. Embargos acolhidos em parte para suprir a omissão apontada. (e-STJ Fl. 234)
+Recurso especial: alega violação dos arts. 186, 187, 389, 395, 405, 844, 927 e 944 do CC/02; 6º, VII, da Lei n. 8.078/90 (CDC), bem como dissídio jurisprudencial.
+Refere que houve vazamento de dados da instituição financeira a terceiros, o que ensejou a emissão do boleto fraudado e o seu pagamento, restando configurada a responsabilidade da agravada por falha na prestação de serviços.
+Sustenta, assim, a existência de danos morais de natureza in re ipsa na espécie, devendo ocorrer a sua compensação.
+Aduz a necessidade de restituição dos honorários contratuais, à luz do princípio da reparação integral, por culpa exclusiva da recorrida.
+Aponta, ainda, que os juros de mora atinentes à restituição do valor do boleto pago em duplicidade incidem desde o evento danoso, em atenção à Súmula 54/STJ, por se tratar de hipótese de responsabilidade civil extracontratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Nesse sentido: EDcl no REsp 1.726.563/SP, 2ª Seção, DJe 27/9/2019; REsp 1.979.120/SP, 3ª Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, 4ª Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, 4ª Turma, DJe 8/4/2022.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 389 do CC/02 (termo inicial dos juros de mora), o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da interposição de embargos de declaração, não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto aos danos morais presumidos (natureza in re ipsa), mormente em decorrência do vazamento de dados pessoais e prática de ilícito contra o consumidor, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 211/STJ.
+Saliente-se, outrossim, que a agravante não alegou eventual negativa de prestação jurisdicional (art. 1.022 do CPC) em suas razões recursais, restando inviável a análise do referido tema nesta seara recursal.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+De outra parte, não obstante a insurgência da agravante acerca do reconhecimento dos danos morais sofridos e da necessidade de sua compensação, bem como da possibilidade de restituição de honorários contratuais, consta do acórdão recorrido:
+(..) A responsabilidade da apelada é objetiva, de acordo com o preceituado pelo artigo 14 do diploma consumerista.
+A ocorrência de fraude é incontroversa, assim como é inequívoca a responsabilidade a ré, por permitir a emissão de boleto com todos os dados da autora, em tese vinculado ao contrato de cartão de crédito e livre acesso às informações de suas últimas compras, datas e valores, informações sigilosas e internas, as quais terceiros jamais poderiam ter acesso, vez que trazem credibilidade ao acesso a empresa-credora, de atendimento regular e legítimo por parte de seus funcionários ao consumidor.
+(..)
+Não há se falar em culpa exclusiva por parte da cliente, única justificativa pertinente a excluir a responsabilidade da ré.
+Houve falha no serviço prestado pela financeira. O pagamento foi realizado com base na boa-fé da cliente e deve ser considerado para fins de quitação do financiamento, com o consequente abatimento ou devolução do valor pago novamente, posteriormente, inclusive com os encargos ali incidentes.
+Destarte, reconhece-se a ocorrência de fortuito interno, vez que o ocorrido se encontra ligado à organização inerente à atividade da própria instituição financeira, que é a única responsável pelos danos, ainda que advindos da ação de terceiros fraudadores, pois não afasta o nexo de causalidade.
+De rigor, portanto, o reconhecimento da quitação da fatura com vencimento em 23/08/2021 e devolução do numerário.
+O pedido de condenação em dano moral, entretanto, não encontra respaldo. A situação vivida pela autora embora possa se traduzir em circunstância desagradável, geradora de desconforto, não caracteriza dano moral.
+O dano moral é reflexo da dor, vexame, sofrimento ou humilhação. Foge à normalidade e interfere intensamente no comportamento psicológico do indivíduo, de modo a lhe causar irremediável aflição, angústia e desequilíbrio em seu bem-estar.
+Mero aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porque corriqueiros e inerentes à vida em sociedade. Fazem parte da normalidade do dia a dia, no trabalho, no trânsito, entre amigos e até no ambiente familiar.
+Situações efêmeras que não rompem o equilíbrio psicológico do indivíduo, como é o caso, não justificam um pedido de indenização.
+Entendimento diverso implicaria em indevida banalização do dano moral, a ensejar o ajuizamento de ações judiciais em busca de indenizações pelos mais triviais aborrecimentos.
+No tocante ao pedido de ressarcimento de honorários contratuais, a pretensão não merece acolhimento, pois decorre de avença estritamente particular, razão pela qual não podem ser exigidos da parte sucumbente, que não participou da avença.
+(..) (e-STJ Fls. 215/217)
+E complementou-se, em sede de aclaratórios:
+(..) O acórdão acolheu o pedido de reconhecimento da quitação da fatura com vencimento em 23/08/2021 e dever de devolução do numerário pago em duplicidade, mas sem, no entanto, fixar a data para incidência de juros de mora e correção monetária ou apreciar o pedido de ressarcimento dos honorários contratuais.
+Destarte, corrijo a omissão apontada para constar que a correção monetária é devida a partir do desembolso nos termos da tabela de atualização de débitos judiciais do Tribunal de Justiça, e os juros de mora a partir da citação, por se tratar de responsabilidade civil contratual.
+No tocante ao pedido de ressarcimento de honorários contratuais, a pretensão não merece acolhimento, pois decorre de avença estritamente particular, razão pela qual não podem ser exigidos da parte sucumbente, que não participou da avença. (..) (e-STJ Fl. 235)
+Alterar o decidido no acórdão impugnado, assim, no que se refere à impossibilidade de compensação de danos morais, a par da restituição dos honorários contratados e, ainda, da própria natureza da relação jurídica entabulada entre as partes, a definir o termo inicial dos juros moratórios, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Consigne-se, a propósito, que o entendimento firmado encontra-se alinhado à jurisprudência desta Corte, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. De acordo com a jurisprudência desta Corte Superior, "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias" (Súmula 479/STJ). Incidência da Súmula 83 do STJ.
+3. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência do dever de indenizar por danos morais na hipótese, a inexistência de falha na prestação do serviço bancário ou a culpa exclusiva da vítima, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas aos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.264.690/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMULADA. DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. INEXISTÊNCIA. DANO EXTRAPATRIMONIAL. DEMONSTRAÇÃO. AUSÊNCIA. ORIGEM. REVERSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes.
+2. Na hipótese, rever o entendimento firmado pelo tribunal de origem acerca da ausência de dano moral indenizável pela inexistência de contrato de empréstimo bancário, demandaria a incursão nos aspectos fático-probatórios dos autos, procedimento inadmissível em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.149.415/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes". (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.).
+1.1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+1.2. Encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial, tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.291.548/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023, grifo nosso.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. MANUTENÇÃO INDEVIDA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. PERÍODO EXÍGUO. VALOR FIXADO. RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESTITUIÇÃO. IMPOSSIBILIDADE. SUSPENSÃO EM RAZÃO DE PROCESSO REPETITIVO EM TRÂMITE NO STJ. DESNECESSIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+2. A Segunda Seção do STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+3. A suspensão determinada pelo art. 543-C do CPC aos processos que cuidam de matéria repetitiva orienta-se às causas que ainda não ascenderam aos tribunais superiores.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 810.591/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/2/2016, DJe de 15/2/2016, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE DE COBRANÇA EM CASO DE AUTUAÇÃO EM JUÍZO. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegação de negativa de prestação jurisdicional não ficou configurada, tendo em vista que o Tribunal de origem se manifestou, no julgamento da apelação, sobre os pontos principais da demanda - inclusive quanto à impossibilidade da pretendida inclusão dos honorários, ainda que tenha decidido em sentido contrário à pretensão da recorrente. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A Segunda Seção do Superior Tribunal de Justiça já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. Precedente: EREsp 1.155.527/MG, Relator o Ministro Sidnei Beneti, Segunda Seção, julgado em 13/6/2012, DJe 28/6/2012.
+3. Agravo interno improvido. (AgInt no AgInt nos EDcl no AREsp n. 2.016.940/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022, grifo nosso.)
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, consubstanciado no reconhecimento da compensação por danos morais na hipótese dos autos, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente à agravante (e-STJ Fl. 220) para 12% sobre o valor atualizado da causa, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284 do STF.
+4. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido para não conhecer do recurso especial.
