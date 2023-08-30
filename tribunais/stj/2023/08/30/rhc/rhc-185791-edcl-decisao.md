@@ -1,0 +1,12 @@
+DECISÃO
+GILSON ANTONIO DOS SANTOS opõe embargos de declaração contra a decisão em que, com fulcro no art. 34, XX, do RISTJ, deu provimento ao recurso, in limine, para, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, determinar o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo da Execução Penal que proceda à intimação do apenado para dar início ao cumprimento de sua pena.
+A defesa noticia que, "entre o lapso temporal decorrido, o recorrente foi preso por força do mandado de prisão em dia 15 de agosto de 2023".
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação da defesa não é com o decisum ora embargado, mas com a superveniência da prisão do embargante apesar do provimento do recurso para determinar o recolhimento do mandado de prisão expedido.
+Forçoso salientar que a decisão ora embargada ressaltou não haver necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva não é expedida, motivo pelo qual invocou a manifestação do Ministério Público estadual, ao consignar que, "até o presente momento, não consta que o Juízo impetrado tenha cumprido a liminar deferida nestes autos a fim de que fosse providenciada vaga para o paciente em estabelecimento adequado ao cumprimento de pena no regime semiaberto".
+Portanto, se o ofício do Juiz de primeira instância noticia que "foi dado cumprimento ao mandado de prisão em 15/08/2023 e expedida guia de recolhimento definitiva em nome do sentenciado, salientando que o paciente se encontra preso e recolhido junto ao Centro de Progressão Penitenciária de Franco da Rocha (estabelecimento prisional adequado ao regime semiaberto)", cocnluo que o objetivo da decisão ora embargada foi atingido.
+À vista do exposto, rejeito os embargos.
+Publique-se e intime-se.
+EMENTA
