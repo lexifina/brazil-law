@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 36):
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO. LICENÇAS-PRÊMIO NÃO GOZADAS. CONVERSÃO EM PECÚNIA. FÉRIAS PROPORCIONAIS.
+Este TRF-4 tem entendido reiteradamente que todas as verbas de caráter permanente que compõem a remuneração do servidor devem compor a base de cálculo da conversão da licença-prêmio. Incluem-se, ainda que observada a proporcionalidade quando for o caso, as férias e respectivo terço constitucional, a gratificação natalina, o adicional de insalubridade, o adicional noturno, o auxílio-alimentação e o abono de permanência.
+Opostos embargos declaratórios, foram rejeitados (fls. 68/74).
+A parte recorrente aponta violação aos arts. 1.022, I e II do CPC, 41 e 87 da Lei nº 8.112/90. Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação de que a Corte de origem teria se mantido omissa quanto a pontos essenciais ao deslinde do feito.
+Aduz que "incorre em equívoco a decisão ao incluir a parcela de 1/12 de férias na base de cálculo da remuneração, porquanto não se traduz em acréscimo remuneratório nos vencimentos, adquiridos mês a mês, como ocorre com a gratificação natalina ou o terço de férias, estes considerados no cálculo objeto da impugnação vertida pelo ente público. (..) a conta exequenda merece ser retificada no que tange à inclusão de parcela de 1/12 de férias, inexistindo fundamento legal para tanto, tampouco previsão no título executivo." (fls. 86/87)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese de decisão ultra/extra petita, assim como de necessidade de exclusão do adicional de insalubridade da base de cálculo, por ser vantagem pecuniária não permanente.
+Contudo, o Tribunal de origem qued ou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
+EMENTA
