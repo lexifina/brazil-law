@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODOBENS INCORPORADORA IMOBILIARIA 363 SPE LTDA (RODOBENS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Desembargador BENEDITO ANTONIO OKUNO, assim ementado:
+AÇÃO DE RESCISÃO CONTRATUAL - Compromisso de compra e venda de imóvel - Cláusula de alienação fiduciária - Hipótese em que a ré não comprovou que constituiu a autora em mora, visando a consolidação da propriedade em seu nome- Aplicação do art. 53,caput, do CDC - Inaplicabilidade da Lei nº 9.514/1997 a casos em que o comprador solicitou a rescisão do contrato antes de ser constituído em mora - Precedentes jurisprudenciais - Compradora que deu causa à rescisão do contrato - Restituição dos valores pagos - Possibilidade - Súmula 543 do STJ - Retenção de 20% do valor pago, conforme postulado na inicial - Admissibilidade - Montante proporcional e razoável para cobrir as despesas pagas pela vendedora - Precedentes jurisprudenciais - Sentença mantida - RECURSO NÃO PROVIDO. (e-STJ, fl. 350).
+Os embargos de declaração de RODOBENS foram rejeitados (e-STJ, fls. 394/396).
+Nas razões do presente recurso, RODOBENS alegou a violação aos arts. 26 e 27 da Lei nº 9.514/1997, alegando que, havendo alienação fiduciária do imóvel, não é aplicável ao caso o CDC, não se podendo falar em rescisão do contrato, bem como não há que se falar em devolução de qualquer quantia aos compradores do imóvel. Indica julgado em apoio a sua tese.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da rescisão contratual
+A respeito do tema, os julgadores assim se posicionaram:
+No caso em comento, verifica-se que o autor quitou as mensalidades contratuais até o ajuizamento da ação, portanto, encontrava-se adimplentecom sua obrigação, e obteve a tutela para suspensão da exigibilidade das prestaçõesvincendas conforme fls. 42/43.
+Logo, não há nos autos qualquer comprovação de que a autor tivesse sido constituído em mora pela requerida, visando a propriedade do imóvel em seu nome quando buscou a rescisão contratual.
+ ..
+E, mesmo configurada a iniciativa do autor na rescisão, é possível a restituição de valores que ela pagou, conforme a Súmula 543 do STJ  ..  (e-STJ, fls. 352/353).
+Com efeito, é nesse sentido o entendimento desta Corte em relação ao tema, anotem-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. "A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" (REsp 1.723.519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe de 02/10/2019).
+ ..
+(AgInt nos EDcl no AREsp n. 2.044.223/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido.
+(REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019.)
+Incidência da Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ADRIANA e outro, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. IMÓVEL. COMPRA E VENDA. RESCISÃO CONTRATUAL. PEDIDO DO COMPRADOR. DEVOLUÇÃO DE PARCELAS PAGAS. NEGADO PROVIMENTO AO RECURSO ESPECIAL.
