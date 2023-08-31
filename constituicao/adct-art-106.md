@@ -1,1 +1,0 @@
-Art. 106. Fica instituído o Novo Regime Fiscal no âmbito dos Orçamentos Fiscal e da Seguridade Social da União, que vigorará por vinte exercícios financeiros, nos termos dos arts. 107 a 114 deste Ato das Disposições Constitucionais Transitórias.
