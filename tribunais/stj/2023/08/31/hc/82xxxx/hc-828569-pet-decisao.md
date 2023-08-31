@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de petição apresentada por FRANCIENE DOS SANTOS SOARES (e-STJ fls. 818/866) por meio da qual a defesa junta novos documentos referentes ao processo de origem e requer que "seja marcado a sessão de julgamento para a data mais breve possível" (e-STJ fl. 818)
+Consta dos autos que a paciente, ora peticionante, encontra-se presa preventivamente sob a imputação da suposta prática do crime de latrocínio. Extrai-se, ainda, que a defesa impetrou habeas corpus perante a Corte de origem, a qual, todavia, denegou a ordem ao writ.
+No âmbito desta Corte Superior, a defesa, por meio da inicial mandamental, busca a revogação da prisão preventiva imposta à paciente, alegando a ausência de indícios mínimos de autoria e o cabimento da prisão domiciliar, uma vez que a acusada supostamente se enquadra em hipótese legal por ser mãe de menor de 12 anos de idade.
+Em decisão proferida em 7/6/2023, este Relator concedeu a ordem, de ofício, para determinar que o Tribunal a quo aprecie a existência de eventual constrangimento ilegal perpetrado em desfavor da paciente. (e-STJ fl. 144).
+Aviado o pedido de reconsideração pela defesa, a qual buscava a imediata concessão da prisão domiciliar em favor da paciente, o pleito foi indeferido (e-STJ fls. 176/177).
+É o relatório. Decido.
+Como visto, não obstante já proferida a decisão de concessão da ordem na presente impetração, com determinação de que o Tribunal de origem profira nova decisão avaliando a existência ou não do constrangimento ilegal (na medida em que tal avaliação se mostrou inexistente no ato apontado coator), a defesa insiste em buscar, no mandamus em exame, o deferimento da ordem de revogação da prisão preventiva e/ou concessão da prisão domiciliar, o que não se mostra cabível, seja porque já houve, no entendimento deste Relator, a prestação jurisdicional adequada ao caso, seja porque o exame da questão diretamente por esta Corte implicaria, em tese, indevida supressão de instância.
+Ademais, verifica-se que o Tribunal de origem, em observância à referida determinação, proferiu novo acórdão, assinado no último dia 22/8/2023, ocasião em que o colegiado novamente denegou a ordem vindicada na impetração originária, situação esta que, em princípio, enseja a perda de objeto do presente writ, notadamente diante da suposta prolação de novos fundamentos relativos à manutenção da prisão preventiva.
+Nesse contexto, entendo que não há interesse processual que justifique o prosseguimento deste feito. Fica prejudicada a Petição Pet 00658481/2023 (e-STJ fl. 477) que possui o mesmo objetivo do presente requerimento.
+Ante o exposto, não conheço da petição.
+Intimem-se.
+EMENTA
