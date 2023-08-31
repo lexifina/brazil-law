@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fls. 1.447/1.449):
+APELAÇÃO. DIREITO PREVIDENCIÁRIO. PRELIMINARES. INTERESSE RECURSAL. TERMO INICIAL DA RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. TETO CONTRIBUTIVO. COMPENSAÇÃO DOS VALORES. ENRIQUECIMENTO ILÍCITO. ILEGITIMIDADE PASSIVA. INCOMPETÊNCIA ABSOLUTA. COISA JULGADA. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. MÉRITO. RESPONSABILIDADE DO BANCO DO BRASIL PELA RESERVA MATEMÁTICA. BENEFÍCIOS ESPECIAIS. QUEDA REMUNERATÓRIA. MOMENTO DA RECOMPOSIÇÃO. ENRIQUECIMENTO ILÍCITO. PRESSUPOSTOS DA RESPONSABILIDADE CIVIL. COMPENSAÇÃO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. RECURSO DA AUTORA CONHECIDO E NÃO PROVIDO. RECURSO DO BANCO PARCIALMENTE CONHECIDO E NÃO PROVIDO. RECURSO DA ENTIDADE DE PREVIDÊNCIA PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+1. Inexiste interesse em recorrer contra a obrigação de recompor a integralidade da reserva matemática se a condenação distribuiu o ônus entre o patrocinador e o participante.
+2. Inexiste interesse em questionar a necessidade de aplicação do teto contributivo se a sentença sequer permitiu a extrapolação dos limites estabelecidos pelo regulamento do plano.
+3. O patrocinador não tem interesse em recorrer para que se fixe o termo inicial da recomposição da reserva matemática quando não indica o prejuízo sofrido com a sentença.
+4. O patrocinador não tem interesse em requerer a compensação se a sentença determinou o abatimento do montante pago na Justiça do Trabalho.
+5. A Justiça Comum é competente para julgar as ações de revisão de benefício previdenciário por reflexos de horas extras não pagas ajuizadas até 08.08.2018.
+6. O Banco do Brasil S.A. é parte legítima para responder pela integralização de reserva matemática decorrente de reflexos de horas extras não pagas.
+7. A pretensão para exigir a complementação da aposentadoria surge no momento em que a decisão proferida na reclamação trabalhista, reconhecendo o direito à percepção de horas extras, transita em julgado.
+8. A prescrição atinge apenas as prestações vencidas antes do quinquênio anterior a propositura da ação.
+9. A modulação de efeitos operada no recurso especial n. 1.312.736/RS admitiu a inclusão excepcional dos reflexos de verbas remuneratórias nos cálculos da renda mensal inicial, condicionada à previsão regulamentar e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso.
+10. Incumbe tanto ao participante quanto ao patrocinador a recomposição prévia e integral das reservas matemáticas, na proporção de metade dos valores devidos.
+11. O caráter temporário dos benefícios especiais impede a repercussão das horas extras.
+12. A faculdade de preservação de um salário de participação no caso de perda parcial de remuneração mensal é incompatível com a modulação de efeitos feita no recurso especial n. 1.312.736/RS.
+13. A determinação de perícia atuarial na fase de liquidação por arbitramento atende à condição de recomposição prévia e integral das reservas matemáticas, dentro das limitações inerentes à excepcionalidade da modulação de efeitos.
+14. O não pagamento das horas extras configura ato ilícito do empregador e provoca dano concreto ao participante de regime complementar de previdência.
+15. Inexiste enriquecimento ilícito, mas mero cumprimento do regulamento, quando a revisão do benefício é condicionada à recomposição da reserva matemática e à realização de perícia atuarial.
+16. A necessidade de apuração dos valores que devem ser vertidos à Previ não afasta a possibilidade de compensação de valores, tal qual previsto nos artigos 368 e 369 do Código Civil. Precedentes.
+17. A modulação de efeitos realizada no recurso especial n. 1.312.736/RS inclui o direito de receber as diferenças passadas.
+18. A sentença condenará o vencido a pagar as despesas que o vencedor antecipou e honorários ao advogado do vencedor.
+19. Nos termos do artigo 85, § 11 do CPC, o Tribunal deve majorar os honorários fixados na sentença, inexistindo qualquer ressalva que indique que o provimento do recurso afasta a majoração dos honorários.
+19.1. Honorários advocatícios majorados.
+20. Apelação do Banco do Brasil S.A. parcialmente conhecida e, nesta extensão, desprovida. Apelação da Caixa de Previdência dos Funcionários do Banco do Brasil parcialmente conhecida e, nesta extensão, parcialmente provida. Apelação da autora conhecida e não provida.
+Os embargos de declaração da autora foram parcialmente acolhidos, sem efeitos infringentes, e os do BANCO DO BRASIL S.A. foram rejeitados (e-STJ fls.1.640/1.654).
+Nas razões recursais (e-STJ fls. 1.677/1.699), fundamentadas no art. 105, III, "a", da CF, o recorrente alega violação dos arts. 11 da CLT, 206, § 3º, V, CC e 927, III, 1.022 e 1.040, III, do CPC/2015, sustentando: (a) negativa de prestação jurisdicional, (b) prescrição bienal ou trienal da pretensão, e (c) desrespeito aos termos dos precedentes firmados pelo STJ no julgamento dos REsps n. 1.312.736 (tema 955) e 1.370.191 (tema 936), sob o argumento de ser descabida a interpretação extensiva do entendimento desta Corte para incluir o patrocinador na lide e condená-lo a recompor a reserva matemática.
+Foram oferecidas contrarrazões (e-STJ fls. 1.746/1.770).
+O recurso foi admitido na origem (e-STJ fls. 1.789/1.791 ).
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que co ntrariamente aos interesses do recorrente. Assim, não incorreu em omissão, contradição ou obscuridade. Desse modo, quanto à alegada afronta ao art. 1.022, parágrafo único, I e II, do CPC/2015, não assiste razão à parte.
+Além disso, não se admite alegação genérica de afronta ao art. 1.022 do CPC/2015, cabendo à parte recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada, o que atrai a Súmula n. 284/STF.
+A Suprema Corte, ao examinar a competência da Justiça do Trabalho ou da Justiça comum para processar e julgar ação trabalhista ajuizada contra o empregador, na qual se pretenda o reconhecimento de verbas de natureza trabalhista e seus reflexos em contribuições previdenciárias para a entidade de previdência privada a ele vinculada, fixou, em repercussão geral, a seguinte tese (Tema n. 1.166/STF): "Compete à Justiça do Trabalho processar e julgar causa s ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para entidade de previdência privada a ele vinculada."
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO - DECISÃO MONOCRÁTICA RECONHECENDO A INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM. INSURGÊNCIA DA DEMANDADA.
+1. Demanda originária ajuizada em face da CEF e FUNCEF, buscando o reconhecimento da natureza salarial da verba CTVA, com a recomposição da reserva matemática e revisão do benefício de previdência complementar.
+2. Nos termos da jurisprudência deste STJ, a causa apresenta cumulação de pretensões de naturezas distintas, havendo a necessidade de prévio julgamento da controvérsia trabalhista.
+3. Julgado da Segunda Seção desta Corte Superior no sentido da competência do Juízo do Trabalho para conhecer do pedido inicialmente, decidindo-o nos limites da sua jurisdição.
+4. Aplicação da tese firmada pelo STF no sentido de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166 - RE 1.265.564-SC).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.136.653/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. 1. OFENSA AO ART. 489 DO CPC/2015 NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. PEDIDO PREJUDICADO NESSE PONTO. INCIDÊNCIA DA SÚMULA 83/STJ. 4. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. 5. AGRAVO INTERNO DESPROVIDO.
+1. Da análise do acórdão recorrido, verifica-se que todas as questões suficientes ao deslinde da controvérsia foram efetivamente analisadas pelo Tribunal de origem, não havendo falar em violação ao art. 489 do Código de Processo Civil de 2015.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Em relação à legitimidade do Banco do Brasil S.A., esta Corte Superior possui entendimento no sentido de que, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+3.1. Além disso, na hipótese, impende pontuar que a Justiça comum não é competente para apreciar o pedido de recompensação da reserva matemática apresentado contra o ex-empregador. Esse é o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 1.265.564/SC, sob o rito dos recursos repetitivos - Tema n. 1.166/STF.
+3.2. Ademais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.778.938/SP - Tema n. 1.021/STJ, ampliando o entendimento firmado no REsp n. 1.312.736/RS, apontou de forma expressa, na modulação de efeitos, que a recomposição prévia deve ser realizada integralmente pelo participante.
+4. Com efeito, "a prescrição da demanda de revisão do benefício de previdência privada, quando discutido o cálculo de seu valor inicial, não atinge o próprio fundo de direito, mas apenas as diferenças não reclamadas de datas prévias aos 5 (cinco) anos imediatamente anteriores à propositura da ação" (AgRg no AREsp 351.805/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/3/2018, DJe 2/4/2018).
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.924.345/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Assim, deve ser reconhecida a incompetência da Justiça comum para o exame da demanda ajuizada contra o recorrente.
+Fica prejudicado o exame das demais questões alegadas.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial para julgar extinto o processo em relação ao BANCO DO BRASIL S.A., sem resolução do mérito.
+C ondeno a parte autora ao pagamento das custas processuais e dos honorários advoca tícios em favor do corréu excluído, os quais fixo em 10% (dez por cento) sobre o valor da causa.
+Publique-se e intimem-se.
+EMENTA
