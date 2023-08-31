@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO BMG S.A, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/05/2023.
+Concluso ao gabinete em: 14/08/2023.
+Ação: declaratória de inexistência de crédito c/c repetição de indébito e compensação por danos morais ajuizada por MARCELO DE MELLO DO NASCIMENTO em face da agravante, ante a cobrança relativa à crédito não contratado.
+Sentença: julgou procedente a demanda para declarar inexistente o contrato de crédito e condenar a agravante no ressarcimento em dobro, do valor indevidamente descontado, bem como na compensação por danos morais no valor de R$ 5.000,00.
+Acórdão: conheceu em parte do recurso da agravante e negou-lhe provimento, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR E DIREITO PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. DESCONTOS EM CONTA CORRENTE, DECORRENTES DE CARTÃO DE CRÉDITO CONSIGNADO NÃO RECONHECIDO PELO AUTOR. PRETENSÃO DECLARATÓRIA DE INEXISTÊNCIA DO NEGÓCIO JURÍDICO, CUMULADA COM INDENIZATÓRIA DE DANOS MATERIAIS E MORAIS. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO CÍVEL INTERPOSTA PELA INSTITUIÇÃO FINANCEIRA RÉ, VISANDO À REFORMA INTEGRAL DO JULGADO.
+1) O juízo de admissibilidade de um recurso está subordinado ao preenchimento de seus requisitos, dentre os quais, de caráter extrínseco (aqueles referentes ao modo de exercício do direito de recorrer), está a sua regularidade formal.
+2) No caso concreto, o Autor ajuizou a presente demanda, alegando ter sido surpreendido com descontos em seu contracheque referente a cartão de crédito consignado por ele desconhecido, pelo que requereu a declaração de inexistência do negócio jurídico, bem assim a condenação do Réu a restituir, em dobro, os valores indevidamente descontados de seus vencimentos e, ainda, ao pagamento de indenização a título de dano moral. 2.1) A instituição financeira Ré, por seu turno, defendeu a regular contratação do plástico, motivo pelo qual não há que se falar em restituição de valores e, tampouco, em dano moral.
+3) O d. magistrado sentenciante julgou procedentes os pedidos autorais, apoiando-se na prova pericial produzida em juízo, sob o crivo do contraditório, que concluiu que a parte Ré não comprovou que o negócio jurídico tenha sido celebrado pelo Autor e, tampouco, que tenha ele recebido os valores que supostamente lhe teriam sido disponibilizados.
+4) A instituição financeira Ré, em suas razões recursais, não reservou uma linha sequer o para impugnar especificamente os fundamentos da sentença, tendo se limitado a afirmar a comprovação da contratação, bem assim a disponibilização de valores ao Autor, motivo pelo qual seriam incabíveis as indenizações por ele pretendidas e, por outro lado, cabível a compensação de valores.
+5) Violação ao princípio da dialeticidade, o qual preconiza que, em matéria recursal, deverá o recorrente não só discorrer o porquê pretende o reexame da decisão, como, e por óbvio, alinhar seu questionamento ao que foi efetivamente decidido no julgado combatido. A inobservância de tal princípio impõe o não conhecimento do recurso. Inteligência do artigo 1.010, incisos II e III, do Código de Processo Civil. Precedentes.
+6) Nada obstante isso, impõe-se o conhecimento parcial do presente recurso, na medida em que o Recorrente impugna a condenação à devolução, em dobro, dos valores descontados dos vencimentos do Autor.
+7) A Corte Especial do e. Superior Tribunal de Justiça, no julgamento do EAREsp 676.608, firmou a tese segundo a qual a devolução em dobro do valor cobrado indevidamente do consumidor será cabível sempre que houver conduta contrária à boa-fé objetiva, independentemente da comprovação de má-fé ou culpa. Sendo, pois, indevida cobrança, a restituição dos respectivos valores deverá ser em dobro.
+8) RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO NÃO PROVIDO.
+Recurso especial: alega violação dos arts. 27 e 42, parágrafo único do CDC, 206, 186, 421, 421-A, 422 e 927 do CC. Além da prescrição da pretensão de impugnação da contratação de crédito, sustenta a validade da contratação celebrada entre as partes. Aduz que não estão presentes os requisitos para a responsabilidade civil da agravante, pois ausente ato ilícito e nexo de causalidade. Insurge-se contra o valor fixado a título de compensação por danos morais, ante o caráter exorbitante.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto ao não conhecimento do recurso de apelação relativo à caracterização da responsabilidade civil da agravante, a parte recorrente não relaciona qualquer fundamentação quanto ao tema, estando as razões recursais, dissociadas do decidido no acórdão recorrido, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 27 e 42, parágrafo único do CDC, 206, 186, 421, 421-A, 422 e 927 do CC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, o disposto nos arts. 27 e 42, parágrafo único do CDC, 206, 186, 421, 421-A, 422 e 927 do CC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 377) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CRÉDITO C/C REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação declaratória de inexistência de crédito c/c repetição de indébito e compensação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Agravo conhecido. Recurso especial não conhecido.
