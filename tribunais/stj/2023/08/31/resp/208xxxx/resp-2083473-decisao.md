@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRESSA REGINA DEBACCO com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná na Apelação Crime n. 0014162-81.2017.8.16.0034.
+Consta dos autos que a Recorrente foi condenada a 5 (cinco) anos e 10 (dez) meses de reclusão, em regime semiaberto, e 500 (quinhentos) dias-multa (fls. 165-170), pelo crime do art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei de Drogas, configurado pela apreensão de 45g (quarenta e cinco gramas) de maconha, escondidos em sua vagina (fls. 162 e 166).
+A Corte de origem negou provimento ao apelo defensivo (fls. 262-270).
+Os embargos de declara ção defensivos foram rejeitados (fls. 300-302).
+Nas razões do apelo nobre, a Defesa aponta violação ao art. 17 do Código Penal, alegando, em síntese, a ineficácia absoluta do meio usado pela Agravante para introduzir drogas no estabelecimento prisional, pois foi submetida à minuciosa inspeção por meio de body scan ou scanner corporal, caracterizando, assim, crime impossível (fls. 325-331); e pleiteia, ainda, o reconhecimento do redutor da pena, asseverando, em suma, que eventuais condenações definitivas em seu desfavor, por fatos delitivos posteriores, não servem para configurar seu envolvimento com atividades criminosas (fls. 331-333).
+Foram apresentadas contrarrazões (fls. 337-344). O apelo nobre foi admitido (fls. 346-347).
+O Ministério Público Federal apresentou parecer, opinando pelo parcial provimento do recurso especial (fls. 359-362).
+É o relatório. Decido.
+A Corte de origem superou a alegação de crime impossível com apoio nestas razões (fls. 264-268; sem grifos no original):
+"a) do pleito absolutório
+A defesa de Andressa Regina Debacco pretende a sua absolvição sob a tese que de não existirem nos autos provas suficientes para que seja mantida a condenação pelo tráfico de drogas, apontando também que se trata de crime impossível - nos termos do art. 17, do Código Penal, diante da absoluta ineficácia do meio empregue para cometer o crime.
+Sem razão à apelante
+ ..
+Não restam dúvidas, portanto, acerca da materialidade e autoria delitivas em relação à ré.
+Cumpre notar que o delito de tráfico de drogas consuma-se com a prática de qualquer dos núcleos do tipo, dentre eles trazer consigo do artigo 33 da Lei Antitóxicos, o tráfico já fica plenamente configurado, sendo desnecessária a comprovação da efetiva venda do entorpecente, ou mesmo de sua destinação a fins comerciais, uma vez que a intenção da norma é evitar a circulação e a distribuição de substâncias de uso proscrito, o que decorre, em última análise, da classificação do tráfico como crime de perigo abstrato, tendente à proteção da saúde pública.
+Restou caracterizada a conduta perpetrada pela acusada como típica e se adequa perfeitamente ao previsto no artigo 33, caput, da Lei n.º 11.343/2006, tendo em vista que a apelante portava consigo, durante a revista na triagem realizada na penitenciaria, aproximadamente 45 gramas de maconha.
+Impende gizar que a tese aventada pela defesa, no sentido de que se trata de crime impossível pela absoluta ineficácia do meio empregue, tem-se que tal alegação não merece guarida. Isso porque os sistemas de vigilância, inclusive com aparelhos de scanner, não inibem completamente o ingresso de pessoas com drogas, celulares e outros objetos no interior da cadeia.
+Assim, tem-se que o meio escolhido pela acusada não se despontou categoricamente ineficaz, pois se mostrou apto à consumação do delito, que somente não se exauriu em razão de ter sido submetida a revista íntima por profissional que constatou a posse pela apelante de 45 gramas de maconha, em claro objetivo de entregar a droga a terceiros.
+ ..
+Assim, pelas narrativas dos agentes de segurança pública que atuaram no caso, houve apreensão de quantidade significativa de entorpecentes na posse da apelante, assim como as em observância das circunstâncias fáticas que permeiam todo o caso em análise, restara demonstrada a prática de traficância pela apelante."
+Ao decidir nesses termos, a Corte de justiça local o fez na mais absoluta harmonia com a jurisprudência deste Superior Tribunal de Justiça, sedimentada no sentido de que " ..  ao trazer o entorpecente consigo, - independentemente de conseguir ou não adentrar com ele no sistema prisional - o recorrente já havia praticado uma das condutas típicas previstas no art. 33 da Lei 11.343/2006." (AgRg no REsp n. 1.934.035/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/09/2022, DJe 04/10/2022.).
+Ainda a propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS CONSUMADO. TENTATIVA DE INGRESSO EM ESTABELECIMENTO PRISIONAL PORTANDO ENTORPECENTES NO INTERIOR DAS CAVIDADES NATURAIS. TESE DEFENSIVA DE CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. PRECEDENTES. OFENSA AOS ARTS. 317 E 318, V, DO CPP. NÃO OCORRÊNCIA. REGIMENTAL. MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ ENFRENTADA NA DECISÃO AGRAVADA.
+1. A agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão ora combatida, em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental improvido." (AgRg no AREsp n. 1.659.418/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/08/2020, DJe 02/09/2020, sem grifos no original.)
+Além disso, " a  revista íntima no estabelecimento prisional, por se tratar de atividade humana, sujeita a falhas, não impede, de forma absoluta, a consumação do delito de tráfico de drogas, ou seja, a entrada do entorpecente no estabelecimento prisional, sendo, portanto, típica a conduta praticada pela recorrente. Precedentes." (HC n. 381.593/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/05/2017, DJe 19/05/2017.).
+No mais, a Corte de Justiça local negou o redutor da pena nestes termos (fls. 269-270, sem grifos no original):
+"No caso em apreço, certo é que a apelante não realizaria a comercialização individual da droga, mas a entrega do produto para terceiro.
+Assim, ante ao conjunto probatório acostado ao caderno processual, o qual evidencia a autoria e materialidade da conduta descrita na denúncia, não há como se reconhecer a causa de diminuição da pena pleiteada, tendo em vista que restou evidenciada a dedicação a atividades criminosas, não havendo reparos a serem realizados na sentença."
+Como se vê, o Tribunal de justiça local concluiu, do conjunto probatório, a dedicação da Agravante a atividades criminosas em razão de ela entregar entorpecentes para terceiro comercializá-lo dentro do sistema prisional. Nas razões do apelo nobre, a Defesa não refutou essa razão de decidir, tendo se restringido a asseverar, em suma, que eventuais condenações definitivas em seu desfavor, por fatos delitivos posteriores, não servem para configurar seu envolvimento com atividades criminosas (fls. 331-333).
+Assim, à míngua de impugnação precisa e concreta do fundamento declinado pela Corte de justiça de origem para decotar o redutor da pena, o óbice da Súmula n. 283/STF mostra-se insuperável.
+A propósito:
+" ..
+1. O Tribunal de origem afastou a nulidade do reconhecimento fotográfico, asseverando que não houve reconhecimento fotográfico em relação ao recorrente, tendo sido condenado com base em outras provas produzidas nos autos. Incidente o verbete n. 283 do STF, pois não impugnado o referido fundamento do acórdão recorrido. Concluiu o juízo a quo pela presença de elementos informativos e probatórios suficientes, por si sós, a sustentarem a condenação do recorrente.
+ ..
+4. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 2.157.615/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/03/2023, DJe 23/03/2023.)
+Ante o exposto, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. DELITO DO ART. 33, CAPUT, C.C. O ART. 40, INCISO III, AMBOS DA LEI DE DROGAS. ALEGADO CRIME IMPOSSÍVEL. INOCORRÊNCIA. PLEITO DE RECONHECIMENTO DO REDUTOR DA PENA. ÓBICE DA SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
