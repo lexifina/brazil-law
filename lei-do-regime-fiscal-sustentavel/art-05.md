@@ -1,0 +1,13 @@
+Art. 5º A variação real dos limites de despesa primária de que trata o art. 3º desta Lei Complementar será cumulativa e ficará limitada, em relação à variação real da receita primária, apurada na forma do § 2º deste artigo, às seguintes proporções:
+I - 70% (setenta por cento), caso a meta de resultado primário apurada no exercício anterior ao da elaboração da lei orçamentária anual tenha sido cumprida, observados os intervalos de tolerância de que trata o inciso IV do § 5º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal); ou
+II - 50% (cinquenta por cento), caso a meta de resultado primário apurada no exercício anterior ao da elaboração da lei orçamentária anual não tenha sido cumprida, observados os intervalos de tolerância de que trata o inciso IV do § 5º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).
+§ 1º O crescimento real dos limites da despesa primária, nos casos previstos nos incisos I e II do caput deste artigo, não será inferior a 0,6% a.a. (seis décimos por cento ao ano) nem superior a 2,5% a.a. (dois inteiros e cinco décimos por cento ao ano).
+§ 2º Para os fins do disposto neste artigo, será considerada a receita, na forma a ser regulamentada em ato do Ministro de Estado da Fazenda, resultante da receita primária total do Governo Central, deduzidos os seguintes itens:
+I - receitas primárias de concessões e permissões;
+II - receitas primárias de dividendos e participações;
+III - receitas primárias de exploração de recursos naturais;
+IV - receitas primárias de que trata o parágrafo único do art. 121 do Ato das Disposições Constitucionais Transitórias;
+V - receitas de programas especiais de recuperação fiscal, destinados a promover a regularização de créditos perante a União, criados a partir da publicação desta Lei Complementar; e
+VI - transferências legais e constitucionais por repartição de receitas primárias, descontadas as decorrentes das receitas de que tratam os incisos I a V deste parágrafo.
+§ 3º Será considerada cumprida a meta se o resultado primário do Governo Central apurado pelo Banco Central do Brasil for superior ao limite inferior do intervalo de tolerância de que trata o inciso IV do § 5º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), da meta estabelecida para o respectivo exercício, em valores nominais.
+§ 4º A variação real da receita a que se refere o § 2º deste artigo considerará os valores acumulados no período de 12 (doze) meses encerrado em junho do exercício anterior ao que se refere a lei orçamentária anual, descontados da variação acumulada do IPCA, publicado pelo IBGE, ou de outro índice que vier a substituí-lo, apurada no mesmo período.

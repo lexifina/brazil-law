@@ -1,0 +1,3 @@
+Art. 12. Para o exercício financeiro de 2023, os limites individualizados para as despesas primárias e demais operações que afetam o resultado primário, bem como suas respectivas exceções, corresponderão àqueles vigentes no momento da publicação da Lei nº 14.535, de 17 de janeiro de 2023, relativas ao respectivo Poder ou órgão.
+§ 1º É vedada a abertura de crédito suplementar ou especial que exceda ao limite total autorizado de despesa primária sujeita aos limites de que trata este artigo.
+§ 2º Para fins de verificação do cumprimento dos limites de que trata este artigo, serão consideradas as despesas primárias pagas, incluídos os restos a pagar pagos e as demais operações que afetem o resultado primário no exercício.
