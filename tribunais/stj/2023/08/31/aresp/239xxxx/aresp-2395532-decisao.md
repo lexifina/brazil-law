@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANTÔNIO CLÁUDIO GOMES FIGUEIREDO, MARLIS MARIA PINTO FIGUEIREDO - ESPÓLIO e SUCOS DO BRASIL S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/05/2023.
+Concluso ao gabinete em: 22/08/2023.
+Ação: execução por quantia certa contra devedor solvente, ajuizada por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ARM - NÃO PADRONIZADO, em face de ANTÔNIO CLÁUDIO GOMES FIGUEIREDO, MARLIS MARIA PINTO FIGUEIREDO - ESPÓLIO e SUCOS DO BRASIL S/A.
+Decisão interlocutória: deferiu o requerimento formulado pelo agravado para determinar a penhora sobre os imóveis matriculados sob nº 14.583 e 43.560 no 3º Registro de Imóveis de Fortaleza/CE.
+Acórdão: julgou prejudicado o agravo interno interposto pelos agravantes, nos termos da seguinte ementa:
+"Agravo Interno. Agravo de Instrumento. Decisão monocrática do relator que concede parcialmente o efeito suspensivo ao recurso. Julgamento do Agravo de Instrumento pelo colegiado. Análise prejudicada. O julgamento do agravo de instrumento pelo Colegiado torna prejudicado o exame do agravo interno, que buscava a modificação da decisão unipessoal do Relator, que havia concedido efeito suspensivo parcial ao recurso. Recurso prejudicado." (e-STJ fl. 142)
+Recurso especial: alegam violação do art. 1º, Lei 8.009/90, sustentando que: i) as matrículas são unificadas e no imóvel reside o recorrente Antônio Cláudio, viúvo da recorrente Marlis, de modo que o bem é dotado de impenhorabilidade, nos termos da Lei nº 8.009/90; e, ii) a Corte local julgou o Agravo de Instrumento e não reconheceu a natureza familiar do bem, sustentando que existem outros imóveis para a moradia do recorrente em questão; e, iii) o fato de o bem de família estar disponível para venda ou locação não descaracteriza a impenhorabilidade do imóvel, tendo em vista que o anúncio apenas está sendo feito para possibilitar o aluguel ou a compra de outro local para moradia do recorrente Antônio Cláudio, detentor de idade avançada, que necessita de cuidadores e de maior segurança em sua residência; e, iv) foi demonstrado que os recorrentes residem no imóvel, conforme as contas de água e de energia anexadas ao processo, que servem como comprovante de endereço, assim como as cobranças de IPTU.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 187/STJ
+Após a interposição do recurso especial, a Corte local proferiu o seguinte despacho:
+"Intime-se a parte recorrente, nos termos do artigo 1.007, § 2º, do Código de Processo Civil, para que, no prazo de 5 (cinco) dias, comprove nos autos a complementação do preparo do recurso, sob pena de deserção.
+Para tanto, deve ser recolhida a importância de R$ 59,31 (cinquenta e nove reais e trinta e um centavos) ao Fundo da Justiça - FUNJUS, referente às custas do Tribunal de Justiça do Estado do Paraná, conforme Lei Estadual nº 20.948, de 23/12/2021.
+Insta salientar que a juntada da guia e do respectivo comprovante de pagamento, no qual conste o código de barras de forma visível e legível, são imprescindíveis para fins de comprovação do efetivo recolhimento do preparo.
+Diligências necessárias." (e-STJ fl. 213)
+Ao exercer o juízo prévio de admissibilidade, a Corte local consignou que os recorrentes foram intimados para complementar o preparo do presente recurso, conforme determinado no despacho de mov. 15.1.
+Todavia, a complementação do preparo não se deu validamente. Em que pese o recolhimento correto no valor de R$ 59,31 (cinquenta e nove reais e trinta e um centavos), o fato é que a parte utilizou a guia GRU-COBRANÇA para efetuar o pagamento, quando deveria tê-lo feito por meio da guia FUNJUS, prevista na Legislação Estadual, eis que as custas judiciais eram destinadas ao Tribunal de Justiça do Estado do Paraná.
+Desta forma, como os recorrentes não procederam à complementação na forma determinada, nos termos do artigo 1.007, § 2º, do Código de Processo Civil, declarou a deserção do Recurso Especial e acabou por inadmiti-lo.
+Em suas razões de agravo em recurso especial, os recorrentes alegam que a decisão de mov. 22.1 declarou deserto o Recurso Especial interposto pelos recorrentes sob a justificativa de que não foram recolhidas a importância de R$ 59,31 (cinquenta e nove reais e trinta e um centavos) ao FUNJUS, referente às custas do Tribunal de Justiça do Estado do Paraná, não obstante tenha havido o recolhimento ao Superior Tribunal de Justiça (STJ).
+Nesse sentido, aduzem que não podem deixar de reconhecer o erro cometido no recolhimento das custas, visto que ao invés de as mesmas terem sido direcionadas ao FUNJUS, foram recolhidas ao STJ por engano, mas entendem também que a Corte local poderia ter designado prazo para novo recolhimento ao observar que a complementação feita não foi destinada ao Tribunal adequado, ao invés de ter declarado de prontidão a deserção do recurso, penalidade extremamente onerosa aos recorrentes, que buscaram cumprir a determinação do despacho em tempo hábil.
+Malgrado o inconformismo, razão não assiste aos agravantes, uma vez que esta Corte possui o entendimento de que se considera deserto o recurso quando a parte, mesmo após intimada a regularizar o preparo, não o faz devidamente.
+No caso, o comportamento dos agravantes atraiu a incidência da Súmula 187 desta Corte ao caso.
+Nesse sentido: AgInt no AREsp 1.669.029/PR, 3ª Turma, DJe 31/05/2023; AgInt no REsp 2.034.651/PE, 2ª Turma, DJe 23/05/2023; AgInt no AREsp 2.266.625/TO, 1ª Turma, DJe 18/05/2023; AgInt no REsp 2.021.517/SP, 4ª Turma, DJe 29/03/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO. REGULARIZAÇÃO INDEVIDA. DESERÇÃO CARACTERIZADA.
+1. Ação de execução por quantia certa contra devedor solvente.
+2. Segundo o entendimento desta Corte, a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem.
+3. Considerando o fato de que o recurso especial não foi devida e oportunamente preparado, incide, na espécie, o disposto na Súmula 187 desta Corte, o que leva à deserção do recurso.
+4. Agravo conhecido. Recurso especial não conhecido.
