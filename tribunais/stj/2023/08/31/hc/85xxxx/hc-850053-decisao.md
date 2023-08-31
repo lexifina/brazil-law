@@ -1,0 +1,24 @@
+DECISÃO
+JUAREZ SARAIVA VIEIRA NETO alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia no HC n. 0807627-33.2023.8.22.0000, que manteve a constrição cautelar do acusado pela suposta prática de homicídio duplamente qualificado.
+A defesa sustenta que a prisão preventiva carece de fundamentação idônea, uma vez que ausentes os requisitos autorizadores da medida, previstos no art. 312 do Código de Processo Penal. Por tal razão, requer, liminarmente e no mérito, a revogação da prisão.
+Decido.
+O mandamus comporta pronta solução, uma vez que o pleito defensivo destoa da jurisprudência desta Corte Superior.
+O Juízo de primeiro grau, ao decretar a prisão preventiva da paciente pela suposta prática de homicídio duplamente qualificado, ofereceu os seguintes argumentos (fls. 108-110, grifei):
+Sustenta a Autoridade Policial que a vítima EDUARDO FRADE CANAVERDE, estava sentado em uma cadeira plástica junto à grade frontal do estabelecimento na qualidade de cliente, e que o filho do suposto autor do crime, senhor RENAN SILVA VIEIRA que mora ao lado do estabelecimento, se encontrava na frente de sua casa encostado a uma coluna na varanda frontal do estabelecimento. E que repentinamente o suposto autor do crime, cujo o mesmo é seu genitor, passou repentinamente munido de uma faca, onde surpreendeu a vítima, desferindo vários golpes contra o ofendido.
+Consta que o senhor ao ver as agressões, segurou seu RENAN SILVA VIEIRA, genitor, e fez com que ele soltasse a faca, em seguida parou um carro que passava no local e socorreu a vítima a UPA Leste. E que o EDUARDO FRADE CANAVERDE suposto autor do crime tomou rumo ignorado.
+ ..
+Gize-se que a Autoridade juntou ao presente Inquérito sob o nº 117/2022/1ªDERCV, fotografias tiradas no local do crime (e do cadáver da vítima apresentando pelo menos 02 perfurações), as quais foram desferidas pelo suposto infrator, o ora representado, que fugiu do local do crime, JUAREZ SARAIVA VIEIRA NETO tomando rumo ignorado, permanecendo em local incerto e não sabido até a presente data.
+Quanto ao periculum libertatis, entendo que tal requisito resta, de igual modo, presente e expressa-se na garantia da ordem pública e conveniência da instrução criminal.
+No caso, trata-se, em tese, de crime de homicídio, o que torna presente o requisito da garantia da ordem pública, pelo fato da gravidade concretados fatos, bem como à sua particular execução.
+ ..
+Diante deste quadro, a prisão preventiva justifica-se para a garantia da ordem pública, considerando a gravidade do delito a ele imputado, bem como para assegurar a instrução criminal.
+O Tribunal a quo manteve a prisão, "em razão da gravidade concreta do crime praticado em que a vítima foi morta através de diversos golpes de faca, à sangue frio, os quais atingiram o braço, tórax e mão da vítima, em razão de brigas anteriores por entorpecentes. A vítima encontrava-se sentada e foi pega de surpresa pelo paciente" (fl. 15, destaquei).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão da ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, ao indicar a gravidade concreta da conduta, evidenciada pelo modus operandi - o acusado executou a vítima à facadas.
+A esse teor: "O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado" (HC n. 417.217/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/12/2017).
+Além disso, o Juízo monocrático ressaltou, acertadamente, a necessidade de assegurar a aplicação da lei penal, uma vez que o acusado fugiu do local do crime e permaneceu em local incerto e não sabido até que fosse preso, em abril de 2023, aproximadamente quatro meses após o fato.
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura. Precedentes" (AgRg no HC n. 800.656/PR, relator Ministro Ribeiro Dantas, 5ª T., DJe de 29/6/2023).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
