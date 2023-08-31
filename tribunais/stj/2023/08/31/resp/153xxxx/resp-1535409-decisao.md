@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 6ª Região (e-STJ fls. 120/124).
+Passo a decidir.
+A pretensão recursal não pode ser conhecida, ante a sua intempestividade.
+Segundo se colhe dos autos, verifica-se que o recurso especial foi protocolizado no Tribunal de origem - em 02/09/2013 (e-STJ fl. 154) - quando o prazo de 15 dias úteis já se havia expirado, tendo em vista que a intimação do acórdão que apreciou a apelação ocorreu em 30/08/2012 (e-STJ fl. 137).
+O Tribunal de origem deixou de conhecer dos embargos de declaração da autarquia em virtude de sua intempestividade, conforme se vê da ementa a seguir (e-STJ fl. 151):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. NÃOCONHECIMENTO.
+1. Nos termos do art. 535 do CPC, são cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou quando for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal, bem assim para corrigir erro material no julgado.
+2. O prazo para a oposição dos aclaratórios é de 5 (cinco) dias, conforme previsão do art. 536 doCPC. Por outro lado, nos termos do artigo 10 da Lei 9.469/97, aplica-se às autarquias e fundações públicas o prazo em dobro para recorrer (art. 188 do CPC).
+3. A contagem do prazo tem inicio no primeiro dia útil seguinte à remessa dos autos à Procuradoria Regional Federal da 1 a Região, que in casu, ocorreu no dia 30.08.2012, quinta feira. O aprazo recursal iniciou-se, portanto, em 31.08.2012, sexta feira e teve seu termo final no dia 10.09.2012, segunda feira, posto que o último dia do prazo caiu no domingo, dia 09.09.2012.
+4. Verificado que a petição dos embargos declaratórios foi protocolizada somente no dia 11.09.2012, forçoso reconhecer sua intempestividade.5. Embargos de declaração não conhecidos.
+Como é cediço, a oposição de embargos de declaração intempestivos não interrompe o prazo recursal. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE VERIFICADA. INTERRUPÇÃO DO PRAZO RECURSAL PELA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO DA PARTE CONTRÁRIA. INTELIGÊNCIA DO ART. 1.036 DO CPC. CONVERSÃO DOS EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO. REINÍCIO DA CONTAGEM DO PRAZO RECURSAL. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO DE FLS. 604/614. PROVIMENTO NEGADO.
+1. Rejeito a preliminar de intempestividade apontada na impugnação, pois a oposição de anteriores embargos de declaração interrompe o prazo para interposição de novos recursos, ainda que seja manifesto o propósito de rejulgamento.
+2. Esse efeito automático previsto no art. 1.026 do Código de Processo Civil, apenas passível de ser afastado pela intempestividade na apresentação do recurso, beneficia também a parte contrária, que poderá aguardar a integração decorrente do julgamento dos aclaratórios para reinício da contagem do prazo do recurso previsto em lei.
+3. Em homenagem ao princípio da fungibilidade recursal, o novo Código de Processo Civil, no art. 1.024, § 3º, previu o recebimento dos embargos de declaração, que contenham nítido pedido de efeitos infringentes, como agravo interno, desde que opostos contra decisão monocrática, a fim de submetê-la à apreciação do órgão colegiado.
+4. Mesmo nessa hipótese de conversão dos aclaratórios em recurso interno, o efeito interruptivo da contagem do prazo recursal mantém-se até o pronunciamento, pelo julgador, da adoção da regra prevista no art. 1.024 § 3º do CPC, evitando, dessa forma, a insegurança jurídica e o prejuízo da parte contrária que confiou na restituição integral do prazo para a interposição do recurso cabível após a apreciação do recurso integrativo.
+5. Somente a partir da publicação da decisão de recebimento dos embargos de declaração como agravo interno, cessa o efeito interruptivo previsto no art. 1.026 do CPC, e, por conseguinte, tem início novamente a contagem do prazo para interposição de outros recursos pelos litigantes.
+6. O Tribunal de origem reconheceu que tinha havido pagamento do crédito tributário. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+7. Agravo interno de fls. 604/614 a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.506.109/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), uma vez que a parte recorrente permanece vencedora na causa.
+Publique-se. Intimem-se.
+ EMENTA
