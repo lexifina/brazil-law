@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por JOSÉ CLAUDIO DOS SANTOS PINHEIRO e PATRICIA DA VEIGA PINHEIRO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 787):
+Apelação. Contrato de compra e venda. Imóvel com transação e pacto de alienação fiduciária em garantia. Ação de revisão de contrato de financiamento celebrado diretamente com a construtora com pedido de consignação em pagamento de valores incontroversos. Cerceamento de defesa. Não configuração. Laudo pericial, seguido de sentença. Manifestação dos autores a respeito da questão e em outras oportunidades, como consignado na sentença. Abusividade das cláusulas contratuais. Não configuração. Tabela Price. Cabimento. Aplicação do sistema Price que não configura, por si só, anatocismo. Majoração da verba honorária. Aplicação do § 11 do artigo 85 do CPC de 2015. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 951-959).
+Nas razões do recurso especial (e-STJ fls. 798-845), além de dissídio jurisprudencial, os recorrentes indicaram violação aos arts. 1.022, I e II, 7º, 9º, 10, 364, §2º e 477 do Código de Processo Civil.
+Sustentaram negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de que o julgado não se pronunciou sobre o cerceamento de defesa, consistente na ausência de oportunidade de manifestação dos recorrentes sobre o último cálculo pericial.
+Afirmaram, em síntese, violação aos princípios do contraditório, da ampla defesa e decisão surpresa, pois não teriam sido intimados para manifestação sobre o laudo pericial que fundamentou a sentença.
+Foram apresentadas contrarrazões (e-STJ, fls. 963-990).
+O processamento do apelo especial não foi admitido pelo Tribunal de origem, levando os insurgentes a interpor o presente agravo (e-STJ fls. 991-993).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A pretensão recursal não merece prosperar.
+Na hipótese dos autos, não há falar em contrariedade ao art. 1.022 do CPC/2015, tendo o acórdão manifestado, de forma clara e suficiente, acerca da questão suscitada nos autos, de modo que, embora rejeitados os embargos de declaração opostos, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022 do CPC/2015.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTIGOS 11, 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. RESPONSABILIDADE CIVIL DOS ALIENANTES POR DÉBITO TRABALHISTA. HONORÁRIOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. VERBETES SUMULARES N. 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 11, 489 e 1.022 do estatuto processual civil de 2015.
+2. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (verbetes sumulares n. 5 e 7 do Superior Tribunal de Justiça).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.703.972/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls.789-795, e-STJ, sem grifo no original):
+O julgamento antecipado da lide não implicou cerceamento de defesa, porquanto cabe ao juiz o poder-dever de impedir a produção de prova inútil ao deslinde da causa. Todas as questões apresentadas foram devidamente analisadas e embasadas mediante laudos apresentados anteriormente, inclusive com as ponderações feitas pelos apelantes, inferindo-se que não havia necessidade de se abrir para novas manifestações das partes, tampouco de outras provas periciais para sua verificação, tratando as teses defendidas pela apelante, de matéria de direito e, como tal, o julgamento antecipado era de rigor.
+Já decidiu o Supremo Tribunal Federal que a necessidade da produção de prova há de ficar evidenciada para que o julgamento antecipado da lide implique cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do Magistrado (RE nº 101.171-8/SP, Rel. Min. FRANCISCOREZEK).
+ ..
+Vale ressaltar que houve manifestação dos autores/apelantes a respeito da questão em outras oportunidades, como constou na sentença.
+No caso em tela, o MM. Juiz originário entendeu suficientes para fundamentar sua decisão os elementos já existentes nos autos, não se havendo falar em cerceamento de defesa.
+ ..
+No tocante ao mérito, a r. sentença apelada deve ser mantida por seus próprios e jurídicos fundamentos, os quais ficam adotados como razão de decidir pelo não provimento do recurso.
+ ..
+Depreende-se dos documentos acostados aos autos que em 28/09/2010 os apelantes pactuaram Escritura Pública de Contrato de Compra e Venda de Imóvel com Transação e Pacto de Alienação Fiduciária em Garantia, a fim de adquirir imóvel para fins de moradia (fls. 216/222).
+ ..
+Os apelantes optaram pelo pacto de alienação fiduciária em28/09/2010, e como garantia integral da dívida, ante da impossibilidade de pagamento à vista do preço do bem, alienaram fiduciariamente o imóvel, nos termos do art. 22 e seguintes da Lei9.514/97, conforme consignado na própria matrícula a fls. 59/60.
+Importa notar que os apelantes, de livre e espontânea vontade, concordaram com o preço do imóvel de R$635.345,50, para pagamento da quantia de R$510.963,61 em 150 parcelas mensais, bem como das anuais, inclusive dos índices de atualização e reajustes das parcelas, com acréscimo de juros de 12% ao ano, calculados pela Tabela Price, como se verifica da escritura pública de compra e venda de imóvel (item 1.4 e 1.5,fls. 53), não se podendo afirmar que os apelantes desconheciam as condições pelas quais o imóvel foi negociado, como querem fazer crer nestes autos.
+Destaca-se que a simples utilização da tabela Price não acarreta a incidência de juros sobre juros, capitalizados, pois com o pagamento de cada parcela há redução progressiva dos juros e diminuição da dívida, portanto válida sua aplicação para a correção do saldo devedor contratado.
+ ..
+Portanto, demonstrado que não houve aplicação de capitalização de juros, deixo de tecer maiores considerações sobre a aplicação das Súmulas 93 do STJ e 121 do STF.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, não havendo falar em omissão, contradição, obscuridade ou ausência de fundamentação, mas sim em julgamento adverso ao pretendido pela parte recorrente.
+Inexiste, portanto, vícios no acórdão recorrido para os fins de aferição de violação do art. 1.022 do CPC.
+Ademais, reverter a conclusão do Tribunal local - para assim acolher a pretensão recursal nos moldes em que pretendido - demandaria o revolvimento do acervo fático-probatório dos autos o que é vedado no âmbito do recurso especial, dado o óbice da Súmula 7 do Superior Tribunal de Justiça.
+No que concerne ao recurso interposto com base na alínea "c" do permissivo constitucional, além do óbice imposto pela Súmula 7/STJ, a parte recorrente não demonstrou o dissídio na forma como o exigem os arts. 1.029 do CPC e 255 do RISTJ, pois ausente o cotejo analítico, razão por que não conheço do especial com fundamento na alínea "c" do permissivo constitucional.
+Ante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da causa, observada a eventual e anterior concessão da gratuidade judiciária.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRADITÓRIO. DECISÃO SURPRESA E CERCEAMENTO DE DEFESA. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATORIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
