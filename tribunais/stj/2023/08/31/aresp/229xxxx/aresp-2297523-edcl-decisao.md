@@ -1,0 +1,16 @@
+DECISÃO
+Cuidam-se de embargos de declaração opostos por Deise Araújo Cupertino em face da decisão de fls. 452/463 que conheceu do seu agravo para conhecer em parte do recurso especial e, nesta extensão, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negou-lhe provimento.
+A embargante, após breve síntese processual, sustenta que há deficiência na fundamentação da decisão objurgada diante da omissão na análise da alegação de que a "suposta notitia criminis não imputou a pessoa certa e determinada a prática de um ilícito criminal, bem como não houve a comunicação de crime, tendo em vista que no local dos fatos não foram encontrados entorpecentes, sendo, portanto, noticiado fato atípico, cuja ocorrência não possuía qualquer infringência à legislação criminal" (fl. 473).
+Asseverou, ademais, que não há de se falar na aplicação do óbice da Súmula n. 7 do STJ à espécie, eis que a tese de desclassificação não exige o revolvimento do acervo fático-probatório, mas tão somente o restabelecimento da situação já reconhecida pelo Juízo de primeira instância.
+Pugnou, dessarte, pelo acolhimento dos aclaratórios para que seja sanada a omissão aventada.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do CPC.
+In casu, adianta-se que não há vício a ser sanado, porquanto inexiste omissão no decisum embargado.
+Nesse ponto, conforme já consignado na decisão embargada (fl. 459) , o Tribunal de origem condenou a ora embargante pela prática do crime capitulado no art. 339, § 1º, do CP, ao fundamento de que a acusada dolosamente serviu-se do anonimato para noticiar falsamente à autoridade policial o cometimento do delito de tráfico de drogas, que sabia não existir, atribuindo a autoria à sua ex-cônjuge. A corte paulista registrou, ademais, que tal comunicação realizada pela ré ocasionou a prisão da vítima e a instauração do inquérito policial n. 1500253-64.2019.8.26.0545.
+Destarte, vislumbra-se que a decisão examinou em detalhes o núcleo do recurso especial, apresentando fundamentos suficientes e claros para refutar, direta ou implicitamente, todas as alegações deduzidas pela defesa, sobretudo quanto à aplicação do óbice da Súmula n. 7 do STJ em relação à tese desclassificatória diante da imprescindibilidade do reexame dos fatos e provas carreados aos autos.
+Nessa medida, diante da inexistência de omissão na fundamentação do decisum recorrido, eis que expostas de forma congruente as razões pelas quais o seu agravo em recurso especial foi conhecido para conhecer parcialmente do apelo nobre e, nesta extensão, desprovido, está-se diante de mera irresignação com o resultado do julgamento. Nesse ponto, consigna-se que a embargante pretende, a toda evidência, atribuir efeitos infringentes aos aclaratórios, a fim de substituir o entendimento exarado na decisão embargado, o que é inconcebível em sede de embargos de declaração.
+Ante o exposto, com fundamento no art. 264, § 1º, do RISTJ, rejeito os presentes aclaratórios.
+Publique-se.
+Intimem-se.
+ EMENTA
