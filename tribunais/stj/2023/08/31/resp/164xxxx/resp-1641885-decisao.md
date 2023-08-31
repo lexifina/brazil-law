@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por LUCAS SILVA JARDIM e outros, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PROGRESSÃO HORIZONTAL INSTITUÍDA PELA LEI N. 10.961/92 E REGULAMENTADA PELO DECRETO N. 36.033/94 - LIMITAÇÃO TEMPORAL PARA A INCORPORAÇÃO DAS DIFERENÇAS - REESTRUTURAÇÃO DA CARREIRA - IMA - LE115.303/2004 - DECRETO 44.215/2006 - OFENSA À COISA JULGADA - NÃO CONFIGURAÇÃO - EXCESSO DE EXECUÇÃO CARACTERIZADO - LIMITES DA CONDENAÇÃO - CRITÉRIOS DEFINIDOS NO TÍTULO EXECUTIVO - HONORÁRIOS - VERBA FIXADA NA AÇÃO PRINCIPAL E EM EMBARGOS À EXECUÇÃO - COMPENSAÇÃO - POSSIBILIDADE - RECURSO A QUE SE NEGA PROVIMENTO.
+Somente se submete à coisa julgada a disposição jurídica concreta e individualizada estabelecida no dispositivo da sentença. Limitando-se o dispositivo da sentença executada ao reconhecimento da obrigação, a fixação de termo final para o seu cumprimento em sede de embargos à execução não ocasiona o malferimento da coisa julgada. Faz-se necessária a limitação temporal do adimplemento da obrigação, pertinente à recomposição dos vencimentos dos servidores estaduais vinculados ao IMA, em regra, ao advento da Lei Estadual nº 15.303/04, que, ao implementar o novo regime jurídico, definiu distintos critérios para a concessão do benefício da progressão horizontal. Adotada pelo IMA a data de 01/01/2006 - data da vigência do Decreto n. 44.215 - como momento final do pagamento dos valores devidos, há de ser o referido termo observado, face aos limites objetivos da demanda, em conformidade com o disposto no art. 460, do Código de Processo Civil.
+A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de compensação dos honorários fixados na ação principal com aqueles de igual natureza fixados em favor do ente público, em sede de embargos à execução" (fl. 446e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 458/459e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NÃO CONFIGURADAS. REEXAME DA MATÉRIA. DESCABIMENTO.
+- De acordo com as hipóteses do artigo 535 do CPC os embargos de declaração são cabíveis quando houver na sentença ou no acórdão obscuridade, contradição ou omissão.
+- Não restando caracterizada qualquer omissão no v. acórdão, tendo a decisão embargada examinado amplamente a matéria trazida no recurso, deve o embargo de declaração ser rejeitado, pois a via eleita não é adequada para reexame da decisão colegiada" (fl. 464e).
+O recurso não comporta conhecimento.
+No caso, verifica-se que a petição de recurso especial interposta a fls. 472/476e encontra-se de forma incompleta, não constando as págs. 98 e 99 dos autos originais.
+A certidão de validação do Tribunal de Justiça do Estado de Minas Gerais (fl. 515e) menciona que as peças eletrônicas indexadas correspondem aos respectivos originais constantes dos autos físicos.
+Na forma da jurisprudência desta Corte, "cumpre à parte recorrente o dever de zelar pela correção na formação e na instrução do seu recurso, cuidando para entregar a petição e documentos em sua integralidade, pena de a incompletude sobretudo na parte dos requerimentos finais comprometer a compreensão da controvérsia" (STJ, AgRg no REsp 1.429.580/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 11/06/2014).
+Ressalte-se, ainda que, "a jurisprudência do Superior Tribunal de Justiça consolidou entendimento de que é ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo insuficiente a alegação de erro na digitalização quando desacompanhada de certidão comprobatória do tribunal de origem" (STJ, AgInt no AREsp 992.767/MS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/06/2017).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DA PARTE EM FISCALIZAR A DIGITALIZAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante entendimento do STJ "a mera alegação de erro de digitalização sem a certidão comprobatória oriunda do Tribunal de origem não é apta a afastar o não conhecimento do recurso por falha em sua instrução" (AgInt no AREsp 929.452/MT, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2018, DJe 18/12/2018).
+2. No caso, a petição de recurso especial apresenta-se incompleta, não constando as págs. 10 a 13, além de estar ilegível a pág. 9. E a certidão de validação (e-STJ. fl. 380), menciona que as peças eletrônicas indexadas correspondem aos respectivos originais constantes dos autos físicos.
+3. Inviável análise mais aprofundada acerca do mérito do recurso especial, diante da deficiente instrução do feito.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg nos EDcl no REsp 1.988.858/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 04/10/2022).
+"SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESERÇÃO. RECURSO ESPECIAL NÃO CONHECIDO. SÚMULA N. 187/STJ. INCIDÊNCIA. FALHA NA DIGITALIZAÇÃO. AUSÊNCIA DE COMPROVAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - A eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido" (STJ, AgInt nos EDcl no AREsp 1.990.938/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 08/06/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. APELO EXTREMO. PETIÇÃO INCOMPLETA. INADMISSIBILIDADE. VÍCIO INSANÁVEL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É da responsabilidade do recorrente o envio eletrônico das petições, não podendo ser conhecido o recurso enviado de forma incompleta.
+3. A ausência de cópia do inteiro teor da petição do recurso especial interposto constitui vício insanável.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 1.835.438/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 05/05/2022).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
+EMENTA
