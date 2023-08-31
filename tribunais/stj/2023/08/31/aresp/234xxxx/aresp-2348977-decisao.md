@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão que inadmitiu recurso especial com respaldo na alínea "a" do permissivo constitucional e, também, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 58):
+AGRAVO DE INSTRUMENTO. SEÇÃO SINDICAL DO SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR - ANDES. APLICAÇÃO DO ART. 8º, III, CF/88. DESNECESSIDADE DE JUNTADA DE LISTA DOS FILIADOS E RESPECTIVAS AUTORIZAÇÕES.
+1. Trata-se de agravo de instrumento interposto em face de decisão que determinou a apresentação da listagem dos associados da parte autora e respectivas autorizações, na forma do art. 2º-A da Lei nº 9.494/97, sob pena de extinção do feito sem exame do mérito.
+2. Cinge-se a controvérsia em perquerir se a parte autora - SEÇÃO SINDICAL DOS DOCENTES DA UNIRIO - possui natureza jurídica de sindicato, a fim de aferir a necessidade ou não de autorização expressa dos seus filiados para a propositura da demanda originária.
+3. Embora o juízo a quo tenha considerado que a Autora é uma associação privada, observa-se dos seus atos constitutivos que a parte deixou de ser uma associação, tendo se transformado em uma seção sindical, integrante do Sindicato Nacional dos Docentes das Instituições de Ensino Superior - ANDES.
+4. A jurisprudência desta E. Corte já reconheceu que as seções sindicais do Sindicato Nacional dos Docentes das Instituições de Ensino Superior - ANDES, como é o caso da Agravante, não constituem associações, mas parcelas regionais do referido sindicato, de modo que possuem natureza sindical.
+Precedentes.
+5. Sendo assim, impõe-se reconhecer a ampla legitimidade extraordinária da parte autora, nos termos do art. 8º, III, da CF/88, a fim de atuar na qualidade de substituto processual, sendo desnecessária a autorização expressa dos seus filiados para tanto, conforme já reconhecido pelo STF em sede de repercussão geral. Precedente: STF, RE 883642 RG/AL, Tribunal Pleno, Rel. Min. RICARDO LEWANDOWSKI, DJe 25/06/2015.
+6. Agravo de instrumento provido para reformar a decisão agravada, afastando a necessidade de juntada da lista dos substituídos e respectivas autorizações.
+Embargos de declaração rejeitados (e-STJ fls. 101/108).
+Seguiu-se a oposição de novos aclaratórios, também desprovidos, com a aplicação de multa de 1% sobre o valor da causa (e-STJ fls. 151/156).
+Nas suas razões, a parte recorrente aponta violação dos arts. 485, § 3º, 489, § 1º, 1.022, II, 1.025, 1.026, II, e 2º-A da Lei n. 9.494/1997.
+Aduz que o acórdão não analisou a questão relevante e imprescindível levantada pela União de que a autora não é sindicato nacional, mas tão somente associação privada.
+Segue afirmando que "apenas o sindicato, regularmente constituído, e que exiba o devido registro no Ministério do Trabalho possui personalidade jurídica de natureza sindical e, revestido desta qualidade, está legitimado para defender os direitos e interesses de uma dada categoria de trabalhadores em juízo, inclusive como substituto processual" (e-STJ fl. 172).
+Pugna, ao final, pela exclusão da multa processual imposta.
+Contrarrazões às e-STJ fls. 203/227.
+Juízo negativo de admissibilidade pelo Tribunal de origem às e-STJ fls. 256/258
+Passo a decidir.
+Na origem, trata-se de agravo de instrumento interposto pela SECAO SINDICAL DOS DOCENTES DA UNIRIO contra decisão que "determinou a apresentação da listagem dos associados da parte autora e respectivas autorizações, na forma do art. 2º-A da Lei nº 9.494/97, sob pena de extinção do feito sem exame do mérito" (e-STJ fl. 54).
+A Corte regional deu provimento ao recurso para reformar a decisão agravada, "afastando a necessidade de juntada da lista dos substituídos e respectivas autorizações" (e-STJ fl. 57).
+Não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados.
+(EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No mérito, a jurisprudência deste Tribunal, secundada na orientação do STF, entende que o sindicato, na qualidade de substituto processual, detém legitimidade para atuar judicialmente na defesa dos interesses da categoria que representa, independente de autorização expressa ou relação nominal, a qual só é exigida das associações, porque atuam na condição de representantes (STF, RE 573.232).
+Nesse sentido: REsp 1.666.086/RJ, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017; AgInt no REsp 1.625.650/PE, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 04/04/2017, DJe 24/04/2017; AgInt no REsp 1.555.259/CE, rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/10/2016, DJe 09/11/2016.
+Além disso, para o STF:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+I - Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+(RE 883642 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 18/06/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-124 DIVULG 25-06-2015 PUBLIC 26-06-2015)
+Esta mesma Corte, em atenção aos precedentes acima expostos, e mais especificamente em relação à controvérsia em exame, entende que, por ser prescindível a autorização dos substituídos e por não haver nenhuma limitação subjetiva na decisão exequenda, deve-se reconhecer a legitimidade dos servidores independentemente da listagem nominal apresentada na ação coletiva (AgInt no REsp 1.925.738/RS, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 09/08/2021, DJe 25/08/2021).
+No caso dos autos, destacou o aresto recorrido (e-STJ fls. 54 e seguintes):
+A hipótese dos autos originários versa sobre ação ordinária ajuizada pela Associação dos Docentes da Universidade Federal do Estado do Rio de Janeiro - ADUNIRIO-SSIND - Seção Sindical do ANDES - Sindicato Nacional, visando afastar as inovações trazidas pela EC nº 103/19 a título de majoração da base de cálculo das contribuições devidas por aposentados e por pensionistas e instituição de contribuição extraordinária.
+Ao receber a inicial, o juízo a quo entendeu que a parte autora fora constituída sob a forma de associação, razão pela qual atuaria na qualidade de representante processual e não substituto processual, mostrando-se indispensável a autorização expressa de seus associados, decisão ora agravada.
+Em razões recursais, a Agravante defende a sua natureza sindical, razão pela qual estaria atuando na qualidade de substituto processual, não sendo necessária a apresentação de lista e ou autorização dos substituídos.
+Cinge-se, portanto, a controvérsia em perquerir se a parte autora - SEÇÃO SINDICAL DOS DOCENTES DA UNIRIO - possui natureza jurídica de sindicato, a fim de aferir a necessidade ou não de autorização expressa dos seus filiados para a propositura da demanda originária.
+Embora o juízo a quo tenha considerado que a Autora é uma associação privada, observa-se dos atos constitutivos anexados no evento 01, OUT3, dos autos originários, que a parte deixou de ser uma associação, tendo se transformado em uma seção sindical, integrante do Sindicato Nacional dos Docentes das Instituições de Ensino Superior - ANDES.
+Assim, dispõe o art. 1º do Regimento Geral da ora Agravante:
+(..)
+Ressalte-se que a jurisprudência desta E. Corte já reconheceu que as seções sindicais do Sindicato Nacional dos Docentes das Instituições de Ensino Superior - ANDES, como é o caso da Agravante, não constituem associações, mas parcelas regionais do referido sindicato, de modo que possuem natureza sindical.
+(..)
+Assim, uma vez estabelecida a natureza sindical da parte autora, impõe-se reconhecer a sua ampla legitimidade extraordinária, nos termos do art. 8º, III, da CF/88, a fim de atuar na qualidade de substituto processual, sendo desnecessária a autorização expressa dos seus filiados para tanto, conforme já reconhecido pelo STF em sede de repercussão geral.
+Nesse passo, o aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-se na hipótese a Súmula 83 do STJ.
+Ademais, verifica-se no acórdão recorrido, por meio do excerto anteriormente transcrito, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos e na interpretação dos seus atos constitutivos, cuja revisão é inviável no âmbito do recurso especial, ante os óbices estampados nas Súmulas 5 e 7 do STJ.
+De igual modo, melhor sorte não assiste à agravante quanto à multa com fundamento no art. 1.026, § 2º, do CPC/2015, porquanto os embargos declaratórios insistiram sobre matéria já apreciada no julgamento da apelação. Nesse contexto, vale citar:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. ACLARATÓRIOS. CARÁTER PROTELATÓRIO A ENSEJAR A APLICAÇÃO DA MULTA DO ART. 1026, §2º, DO CPC/15.
+1. O acórdão embargado, de forma clara e fundamentada, assentou pela impossibilidade de conhecimento do Recurso pelo óbice da Súmula 7 do STJ: "Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que estão presentes os requisitos para aplicação da multa pelo atraso na prestação das informações aduaneiras. Nesse sentido, transcrevo o seguinte trecho do acórdão: "De fato, o descumprimento do prazo para prestar as informações sobre a carga objeto do transporte internacional prejudica o controle do comércio exterior por parte da Administração, razão pela qual é tipificada como infração à legislação tributária e prevista a pena de multa no valor de R$ 5.000,00 (cinco mil reais - para cada obrigação descumprida), o que se mostra plenamente justificado e razoável na hipótese em tela" (fl. 332, e-STJ). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ)".
+2. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. A reiteração dos argumentos já repelidos em acórdão anteriores configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, §2º, do CPC/15. Precedentes do STJ. Ante o entendimento do tema no STJ, incide, no particular, a Súmula 568/STJ.
+4. Embargos de Declaração rejeitados com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp 1.945.410/SP, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2022, DJe de 13/12/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de execução de título extrajudicial
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A reiteração dos argumentos já repelidos em acórdão anteriores configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, §2º, do CPC/15. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 2.023.487/DF, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022).
+A parte recorrente reiterou as mesmas razões dos primeiros aclaratórios, não se verificando questões omissas ou contraditórias relevantes ao deslinde da controvérsia, tampouco o intuito de prequestionar qualquer dispositivo de lei federal - o que, em tese, poderia resultar no afastamento da multa.
+Desse modo, inafastável a multa aplicada com base no art. 1.026, § 2º, do CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
