@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por DANYLO FELIX DA SILVA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no julgamento do HC n. 1.0000.22.115357-0/000.
+Consta dos autos que o Recorrente foi preso em flagrante no dia 16/05/2022, posteriormente a prisão foi convertida em preventiva (fls. 16-17), pela prática, em tese, dos delitos previstos no art. 33, caput, da Lei 11.343/2006, sendo apreendida "54 (cinquenta e quatro) pedras de crack, pesando 15,87g (quinze gramas e oitenta e sete centigramas); 29 (vinte e nove) porções de cocaína, pesando 17,30g  dezessete gramas e trinta centigramas (documento de ordem nº 02 - fl. 42/43) , R$ 570,00 (quinhentos e setenta reais - sendo três notas falsas de R$ 100,00), celular e embalagens plásticas utilizadas para embalagem de entorpecentes" (fl. 139).
+A Defesa impetrou prévio habeas corpus perante a Corte estadual, que denegou a ordem (fls. 135-145).
+Nas suas razões, a Defensoria Pública alega, em suma, ausência de fundamentação idônea do decreto prisional. Salienta, ainda, as condições favoráveis do Acusado, aduzindo ser possível a substituição do cárcere por medidas cautelares menos gravosas.
+Requer o provimento do presente recurso ordinário em habeas corpus para que o Recorrente possa aguardar o julgamento do processo-crime em liberdade.
+É o relatório. Decido .
+Consoante informações prestadas pela 2.ª Vara Criminal e de Execuções Penais da Comarca de Três Corações/MG (fls. 175-534), verifica-se que, em 07/10/2022, nos autos da Ação Penal n. 0008660-35.2022.8.13.0693, foi proferida sentença condenatória, em que o Juízo de origem julgou procedente a pretensão punitiva para condenar o Recorrente à pena de 01 (um) ano e 08 (oito) meses de reclusão, mais o pagamento de 166 (cento e sessenta e seis) dias-multa, a ser cumprida no regime aberto. A pena corporal do Sentenciado foi substituída por duas penas restritivas de direito. Na oportunidade, o Juízo concedeu ao Acusado o direito de recorrer em liberdade e determinou a expedição de alvará de soltura em seu favor, sendo cumprido na mesma data.
+Desse modo, evidencia-se a perda superveniente do interesse do presente recurso ordinário em habeas corpus.
+Ante o exposto, JULGO PREJUDICADO o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS . INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA DE INTERESSE PROCESSUAL. RECURSO PREJUDICADO.
