@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela URBANO AGROINDUSTRIAL LTDA. contra decisão em que determinei a devolução dos autos ao tribunal de origem, para que promova o juízo de conformação com o acórdão proferido no recurso repetitivo REsp 1.138.695/SC, cujo tema referente à incidência do IR e da CSLL sobre a taxa Selic aplicada no levantamento de depósitos judiciais (Tema 504) está sob exame deste Superior Tribunal de Justiça em sede de juízo de retratação em razão de julgamento definitivo pelo Supremo Tribunal Federal em sede de repercussão geral do RE 1.063.187/SC (Tema 962).
+A parte embargante alega que, "ainda que as instâncias anteriores tenham adentrado na discussão a respeito da incidência de IRPJ e de CSLL sobre a SELIC originada de depósitos judiciais revertidos em favor do contribuinte, não há dúvidas de que essas decisões foram ultra petita, na medida em que a embargante jamais formulou qualquer pedido sobre a matéria" (e-STJ fl. 181).
+Sem impugnação.
+Passo a decidir.
+No caso, não se verifica o vício apontado, pois a decisão embargada está clara no sentido de que "o tema referente à incidência do IR e da CSLL sobre a taxa Selic aplicada no levantamento de depósitos judiciais (Tema 504) está sob exame do Superior Tribunal de Justiça em sede de juízo de retratação no REsp 1.138.695/SC, em razão de julgamento definitivo pelo Supremo Tribunal Federal em sede de repercussão geral do RE 1.063.187/SC (Tema 962)" (e-STJ fl. 680). Desse modo, foi determinado o retorno dos autos à origem.
+De outra parte, não foi trazido em seu recurso especial a discussão a respeito da incidência de IRPJ e de CSLL sobre a SELIC originada de depósitos judiciais revertidos em favor do contribuinte ser matéria ultra petita, de modo que essa alegação consubstancia inovação recursal incabível em embargos de declaração.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
