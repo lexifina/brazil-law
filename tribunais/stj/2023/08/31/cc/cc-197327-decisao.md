@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado entre o JUÍZO DE DIREITO DO TERCEIRO JUIZADO ESPECIAL DE VITÓRIA - SJ/ES, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL, ÓRFÃOS E SUCESSÕES DE CARIACICA/ES, suscitado, nos autos da ação de concessão de auxílio-acidente ajuizada por WALACE CHAVES CARDOSO contra o Instituto Nacional de Previdência Social - INSS (e-STJ fls. 02/08).
+O Juízo suscitado declinou da competência em razão de "constar no polo passivo desta demanda Entidade Autárquica Federal, qual seja, o INSS  INSTITUTO NACIONAL DO SEGURO SOCIAL" (e-STJ fl. 11).
+Por sua vez, o Juízo Federal suscitou o conflito porque "na petição inicial o autor alegou ter sofrido acidente de trabalho" (e-STJ fl. 12).
+O Ministério Público Federal opinou pela competência do Juízo estadual (e-STJ fls. 18/20).
+Passo a decidir.
+A dicção do art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Considerado isso, é cediço que a competência da Justiça Federal é definida em razão do interesse da União ou de suas entidades autárquicas ou empresas públicas federais, seja na condição de autoras, rés, assistentes ou oponentes, à exceção das demandas de natureza especializada, tais como as de falência, acidente de trabalho e as sujeitas às Justiças Eleitoral e do Trabalho, ex vi do art. 109, I, da Carta Magna.
+Outrossim, a competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir, e não se confunde com o reconhecimento do direito material em si.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARA CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIA ESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DA PETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada). Precedentes: CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg no CC 75.100-RJ, 1ª Seção, Min. Teori Albino Zavascki, DJ de 19.11.2007; CC 87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessão de benefícios previdenciários (e não de natureza acidentária). Nos termos como proposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, a suscitada.
+(CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 28/03/2012, DJe 03/04/2012) (Grifos acrescidos).
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO PREVIDENCIÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A competência em razão da matéria é definida pela análise da natureza jurídica da questão controvertida, em juízo, necessariamente, anterior a qualquer outro juízo sobre a causa.
+2. Ausente na petição inicial a indicação de que o benefício pleiteado seja oriundo de acidente de trabalho, firmada está a competência da Justiça Federal para o exame do feito. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 154.140/PA, relator Ministro Og Fernandes, Primeira Seção, julgado em 26/9/2018, DJe de 3/10/2018.)
+No presente caso, cuida-se de ação que postula a concessão de auxílio-acidente decorrente de acidente de trabalho, como se lê (e-STJ fls. 02/03):
+O Autor é empregado na empresa Comercial e Transportes Sedde Ltda, contratado em 16 de novembro de 2019, para trabalhar na função de operador de PA carregadeira.
+Ocorre que no dia 20 de julho de 2020, precisou realizar a troca da peça de uma máquina durante sua atividade laborai, quando a mesma explodiu, atingindo o polegar de sua mão direita, ocasionando a amputação parcial do mesmo.
+Em decorrência do referido acidente, o Autor precisou ser submetido a procedimento cirúrgico, recebendo beneficio previdenciário de Auxílio Doença, sob nº 706.868.112-4, com DIB em 20/07/2020 e DCB em 18/08/2020.
+Destaca-se que o benefício foi concedido com espécie 31, com o qual o Autor não concorda, tendo em vista que deveria ter sido concedido com espécie 91, eis que decorrente de acidente de trabalho, conforme CAT emitida pela própria empresa, ora anexa.
+Porém, o fato é que as sequelas são irreversíveis decorrentes da amputação de membro (dedo da mão direita), o que prejudica sobremaneira o trabalho do Autor, que se trata de trabalho predominantemente manual, que exige plenas capacidades para manuseio de máquinas.
+Assim, evidente que em decorrência deste fato o Autor encontra limitações definitivas para o desenvolvimento de suas atividades laborais, restando impossível o exercício da atividade laborai como antes desenvolvia.
+Portanto, conforme estabelece o artigo 86 da LBPS, havendo redução da capacidade para o trabalho, a concessão do auxilio-acidente em data imediatamente posterior à cessação do auxilio-doença deveria ter ocorrido de forma automática pela via administrativa. Porém, tendo o INSS apenas cessado o auxilio-doença, é pertinente o ajuizamento da presente demanda, para ver a Ré condenada ao pagamento do beneficio de Auxilio Acidente desde a data da cessação do beneficio NB 706.868.112-4, com DCB em 18/08/2020.
+Como é cediço, de acordo com a Súmula 15 do STJ e a Súmula 501 do STF, compete à Justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho.
+Confira-se:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA, DECORRENTES DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. TRABALHADOR AUTÔNOMO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na linha dos precedentes desta Corte, "compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF e da Súmula 15 do STJ" (STJ, AgRg no CC 122.703/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/06/2013)
+II. É da Justiça Estadual a competência para o julgamento de litígios decorrentes de acidente de trabalho (Súmulas 15/STJ e 501/STF).
+III.  .. .
+IV. Agravo Regimental improvido. (AgRg no CC 134.819/SP, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 23/09/2015, DJe 05/10/2015) (Grifos acrescidos).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do presente conflito para declarar c ompetente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL, ÓRFÃOS E SUCESSÕES DE CARIACICA/ES.
+Publique-se e Intimem-se.
+EMENTA
