@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por DENYS MOURA VENANCIO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento da Apelação Criminal n. 0702682-16.2022.8.07.0010.
+Consta nos autos que o Recorrente foi condenado como incurso no art. 14, caput, da Lei n. 10.826/03, às penas de 2 (dois) anos de reclusão, em regime inicial semiaberto, e 10 (dez) dias-multa (fls. 157-163).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 264-276).
+Nas razões do recurso especial, aponta-se a existência de divergência jurisprudencial e de ofensa ao art. 8.º, §§ 1.º e 2.º, da Lei n. 10.629/21, sob o argumento de que "é atípica a conduta de colecionador, com registro para a prática desportiva e guia de tráfego, que se dirigia ao clube de tiros sem portar consigo a guia de trânsito da arma de fogo" (fl. 284).
+Contrarrazões às fls. 295-298.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fl. 313).
+É o relatório. Decido.
+De início, observo que, embora o recurso especial tenha sido interposto também com fundamento na alínea c do permissivo constitucional, o Recorrente não demonstrou a existência de divergência jurisprudencial nos moldes exigidos pelos art. 1.029, § 1º, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do Regimento Interno desta Corte.
+O Recorrente limitou-se a transcrever ementas ao longo da petição recursal, porém a efetiva demonstração do dissídio jurisprudencial exige "além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas" (AgInt no AREsp n. 2.103.280/GO, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 19/12/2022).
+Quanto à alegação de ofensa ao art. 8.º, §§ 1.º e 2.º, da Lei n. 10.629/21, constata-se que o referido dispositivo normativo não foi discutido no acórdão estadual. Além disso, a Defesa não opôs embargos de declaração para viabilizar o exame da matéria. Desse modo, está ausente o prequestionamento do tema, o que atrai o óbice das Súmulas n. 282 e 356/STF.
+Por fim, em que pese a alegação defensiva no sentido de que o Recorrente estava no trajeto para o clube de tiro, a Corte distrital expressamente concluiu que "o acusado foi flagrado com a arma de fogo fora do trajeto de deslocamento entre o local de guarda do acervo e os locais de competição e/ou treinamento" e que ele "foi abordado em situação diversa, de madrugada e fora do horário de funcionamento do Clube de Tiro" (fl. 269).
+Nesse contexto, para se dissentir da conclusão alcançada pela instância ordinária e aferir qual seria o destino do trajeto do Recorrente, seria necessário aprofundado reexame de provas, o que encontra óbice na Súmula n. 7/STJ.
+Nesse sentido:
+"PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE DE ARMA. PLEITO DE ABSOLVIÇÃO. NÃO OBSERVÂNCIA DA GUIA DE TRÂNSITO. ARMA MUNICIADA E FORA DA ROTA ESTABELECIDA. FUNDAMENTO SUFICIENTE INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação específica a um dos fundamentos do acórdão recorrido atrai a incidência da Súmula 283 do STF, por analogia.
+2. A análise da pretensão recursal de que o transporte da arma estaria de acordo com as hipóteses autorizadas pela guia de tráfego demandaria o reexame do conjunto fático-probatório dos autos, o que não se viabiliza em recurso especial, a teor da Súmula n. 7/STJ.
+3. Agravo regimental improvido." (AgRg no AREsp n. 976.712/MG, Relator Ministro NEFI CORDEIRO , Sexta Turma, julgado em 6/12/2016, DJe de 16/12/2016, sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. PORTE ILEGAL DE ARMA DE FOGO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DISPOSITIVOS LEGAIS NÃO DISCUTIDOS NO ACÓRDÃO RECORRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
