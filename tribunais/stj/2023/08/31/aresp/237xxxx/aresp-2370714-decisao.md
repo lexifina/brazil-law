@@ -1,0 +1,68 @@
+DECISÃO
+  Trata-se  de  agravo  interposto  pelo  MUNICÍPIO  DE  SALVADOR  contra  decisão  do  Tribunal  de  Justiça  do  Estado  da  Bahia,  que  não  admitiu  recurso  especial,  fundado  na  alínea  "a"  do  permissivo  constitucional,  o  qual  desafia  acórdão  assim  ementado  (e-STJ  fl.  576):
+DIREITO  TRIBUTÁRIO  E  PROCESSUAL  CIVIL.  APELAÇÃO.  AÇÃO  DE  EXECUÇÃO  FISCAL.  TL.  DEPÓSITO  JUDICIAL  REALIZADO  EM  AÇÃO  ANULATÓRIA.  SUSPENSÃO  DA  EXIGIBILIDADE  DO  CRÉDITO  TRIBUTÁRIO.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE  ACOLHIDA.  EXTINÇÃO  DA  EXECUÇÃO  FISCAL.  HONORÁRIOS  ADVOCATÍCIOS.  CABIMENTO.  RECURSO  CONHECIDO  E  IMPROVIDO.  SENTENÇA  MANTIDA.
+Os  embargos  de  declaração  opostos  foram  rejeitados (e-STJ  fls.  603/609).
+No  especial  obstaculizado  (e-STJ  fls. 613/620), o recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, ao argumento de que o Tribunal de origem teria sido omisso em analisar as questões postas nos embargos de declaração.
+No ponto, diz que (e-STJ fls. 616/617):
+o Tribunal a quo deixou de se pronunciar sobre ponto específico e relevante da demanda, capaz de infirmar a conclusão adotada no acórdão, a saber; a existência de erro de fato ante o reconhecimento da suspensão do crédito tributário por meio do depósito realizado na ação mandamental nº 0555453-17.2014.8.05.0001, anterior ao ajuizamento da presente demanda.
+11. Não obstante, da análise minuciosa daqueles autos, verifica-se que o depósito se relaciona apenas ao crédito de IPTU, e, ainda, não fora realizado em sua integralidade, mas sim com base no lançamento do exercício de 2013 acrescido de atualização monetária.
+12. Neste sentido, fica nítido que os objetos das ações são completamente distintos, inexistindo, portanto, causa suspensiva por meio do depósito nos termos do art. 151 do CTN.13. Cumpre aqui esclarecer que INEXISTE depósito realizado nos autos do processo nº 05604044- 94.2016.8.05.0001, mas sim, a vinculação do depósito existente na ação mandamental nº 0555453- 17.2014.8.05.0001, presente na conta judicial nº 2200107340456.
+14. Acrescento, ainda, que a decisão interlocutória, bem como sentença, prolatada na Ação Anulatória tombada sob o nº 05604044-94.2016.8.05.0001, junto as fls. 349 a 353, fora precisa ao conceder o pedido de tutela provisória EXCLUSIVAMENTE ao crédito de IPTU discutido nos autos.
+15. Com efeito, reside no acórdão erro material consistente no fato de ter reconhecido a existência de causa suspensiva da exigibilidade do crédito onde inequivocamente ela não existe, tendo, venia concessa, ampliado a suspensão deferida apenas na Ação Anulatória pata o presente feito.
+Aponta, ainda, transgressão ao art. 85, §10, do CPC/2015, pois entende violado o princípio da causalidade, "diante da inexistência de causa suspensiva da exigibilidade do crédito resta plenamente legal e legítimo o ajuizamento da execução fiscal pela Municipalidade, razão pela qual não pode a mesma ser condenada na verba honorária" (e-STJ fl. 619).
+As  contrarrazões  foram  oferecidas  às  e-STJ  fls.  635/643.
+O  recurso  não  foi  admitido  em  razão  da  ausência  de  vício  de  integração  e  da  incidência  da  Súmula  83  do  STJ  (e-STJ  fls.  646/647 ).
+No  agravo  em  recurso  especial ,  o  Município  impugna  os  fundamentos  da  decisão  agravada  e  reitera  as  razões  do  recurso.
+A  contraminuta  foi  apresentada.
+Passo  a  decidir.
+O  recurso  especial  tem  origem  em  exceção de pré-executividade  decidida  da  seguinte  forma  em  primeiro  grau  de  jurisdição  (e-STJ  fl.  532):
+Desta forma, é nítido que o débito executado, TL, encontrava-se com sua exigibilidade suspensa, em momento anterior à instauração do feito executivo, 30/09/2017, razão pela qual, imperioso se torna a sua extinção.
+Ante o exposto, DEFIRO o pedido de fls. 07 a 11, para EXTINGUIR esta Execução, com fulcro no artigo 485, IV, do CPC. CONDENO o Município do Salvador ao pagamento dos honorários advocatícios, estes à razão de 10% (dez por cento) do valor da causa, devidamente atualizado.
+P. R. I.
+Ao negar provimento ao  recurso  de  apelação,  a  Corte  de  origem  apoiou-se  nos  seguintes  fundamentos  (e-STJ  fls.  578/581):
+Encontram-se  presentes  os  pressupostos  de  admissibilidade  recursal,  razão  pela  qual  o  conheço.
+Depreende-se  que  as  razões  recursais  aduzidas  não  merecem  prosperar.
+Da  análise  dos  autos,  observa-se  que  o  Município  de  Salvador  ajuizou  Ação  de  Execução  fiscal  contra  LIMIAR  INDUSTRIA  E  COMERCIO  DE  ALIMENTOS  LTDA  para  cobrança  da  quantia  de  R$1.581,77  (um  mil  e  quinhentos  e  oitenta  e  um  reais  e  setenta  e  sete  centavos),  proveniente  de  Taxa  de  Coleta  de  Resíduos  Sólidos  Domiciliares  e  encargos  legais,  do  exercício  de  2014,  corrigidos  até  esta  data,  referente  à  Inscrição  nº  000485162-5.
+Inicialmente,  cumpre  destacar  que  a  suspensão  da  exigibilidade  do  crédito  tributário  encontra-se  taxativamente  prevista  no  art.  151  do  CTN,  o  qual  condiciona  a  referida  medida  ao  depósito  judicial  no  montante  integral  do  valor  devido  do  tributo,  in  verbis:
+Art.  151.  Suspendem  a  exigibilidade  do  crédito  tributário:
+I-  moratória;
+II  -  o  depósito  do  seu  montante  integral;
+(..)
+Parágrafo  único.  O  disposto  neste  artigo  não  dispensa  o  cumprimento  das  obrigações  assessórios  dependentes  da  obrigação  principal  cujo  crédito  seja  suspenso,  ou  dela  consequentes.
+O  Superior  Tribunal  de  Justiça  pacificou  entendimento  no  enunciado  número  112  de  sua  Súmula  que  "o  depósito  somente  suspende  a  exigibilidade  do  crédito  tributário  se  for  integral  e  em  dinheiro".
+Desta  forma,  constata-se  que  o  rol  de  possibilidades  de  suspensão  da  exigibilidade  do  crédito  fiscal  é  taxativo,  desautorizando  o  judiciário  a  inovar  neste  aspecto.
+No  mesmo  sentido:
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  SUSPENSÃO  DA  EXIGIBILIDADE  DO  CRÉDITO  TRIBUTÁRIO  MEDIANTE  OFERECIMENTO  DE  CAUÇÃO  EM  BENS.  INVIABILIDADE.
+SÚMULA  112/STJ.  1.  Conforme  já  disposto  no  decisum  combatido,  é  firme  a  jurisprudência  do  STJ  no  sentido  de  que,  para  que  seja  suspensa  a  exigibilidade  de  créditos  tributários,  o  depósito  deve  ser  feito  na  sua  integralidade  e  em  dinheiro,  consoante  o  disposto  no  artigo  151,  1,  do  CTN  e  a  inteligência  da  Súmula  112/STJ:  "O  depósito  somente  suspende  a  exigibilidade  do  crédito  tributário  se  for  integral  e  em  dinheiro".  2.  Agravo  Regimental  não  provido.  (STJ,  Relator:  Ministro  HERMAN  BENJAMIN,  Data  de  Julgamento:  05/09/2013,  T2  -  SEGUNDA  TURMA).
+ ..
+Neste  diapasão,  verifica-se  que  a  executada  demonstrou  cabalmente  ter  atendido  às  prescrições  do  art.  151,  Il,  do  CTN  e  Súmula  nº  112,  do  STJ,  restando  claro  que,  ante  a  suspensão  da  exigibilidade  do  crédito  tributário,  em  razão  de  depósito  judicial,  relativo  à  Ação  Anulatória  nº  0564044-94.2016,  em  trâmite  na  2º  Vara  de  Fazenda  Pública,  a  propositura  da  Execução  Fiscal  mostra-se  descabida  (fls.12  a  478).
+Acresça-se,  ainda,  conforme  entendimento  já  consolidado  pelo  STJ,  na  Súmula  de  nº  393,  in  verbis:  "A  exceção  de  pré-executividade  é  admissível  na  execução  fiscal  relativamente  às  matérias  conhecíveis  de  ofício  que  não  demandem  dilação  probatória."
+ ..
+Tem-se,  então,  que  a  Exceção  de  Pré-Executividade  revela-se  um  incidente  processual  de  caráter  excepcional,  construído  pela  doutrina  e  jurisprudência  e  cuja  finalidade  é  a  de  impedir  o  prosseguimento  de  execução  que  não  atenda  aos  requisitos  legais  necessários.
+Neste  sentido,  concede-se  ao  devedor  o  poder  de  nela  arguir  matérias  de  ordem  pública,  as  quais  podem  ser  analisadas  de  ofício  pelo  juiz,  como  as  relativas  às  condições  da  ação  e  à  nulidade  do  título  exequendo,  exigindo-se  a  prova  pré-constituída  do  direito  alegado.
+In  caso,  a  recorrida  logrou  êxito  em  comprovar  documentalmente  a  veracidade  de  suas  alegações,  no  que  pertine  à  efetiva  suspensão  da  exigibilidade  do  crédito  tributário,  referente  à  TL  do  exercício  de  2014,  da  inscrição  em  tela.
+Logo,  observa-se  que  procedeu  corretamente  o  juízo  a  quo,  quando  pontuou  que:  "..é  nítido  que  o  débito  executado,  TL,  encontrava-se  com  sua  exigibilidade  suspensa,  em  momento  anterior  à  instauração  do  feito  executivo,  30/09/2017,  razão  pela  qual,  imperioso  se  torna  a  sua  extinção  "(sic.  fls.  531).
+Deste  modo,  distribuída  a  presente  execução  fiscal  em  13/09/2017,  quando  já  suspenso  o  crédito  tributário,  agiu  corretamente  o  Juízo  a  quo  ao  acolher  a  exceção  de  pré-  executividade  e  extinguir  o  processo.
+No  que  tange  ao  valor  dos  honorários,  concluo  que  o  montante  arbitrado  pelo  juízo  a  quo  mostra-se  adequado,  em  razão  do  trabalho  do  causídico  e  a  natureza  da  causa.
+Além  disto,  consoante  entendimento  já  pacificado  pelo  Superior  Tribunal  de  Justiça,  inclusive,  em  sede  de  Recurso  Especial  Repetitivo  (REsp.  nº  1.185.036/PE),  se  extinta  a  cobrança  do  crédito  tributário  pelo  acolhimento  da  Exceção  de  Pré-Executividade,  os  honorários  advocatícios  tornam-se  cabíveis  pelo  ajuizamento  indevido  da  Execução  Fiscal.
+Na  oportunidade:
+PROCESSUAL  CIVIL.  EXECUÇÃO  FISCAL.  EXCEÇÃO  DE  PRÉ-  EXECUTIVIDADE.  FAZENDA  PÚBLICA  SUCUMBENTE.  CONDENAÇÃO  EM  HONORÁRIOS  ADVOCATÍCIOS.
+POSSIBILIDADE.
+1.  É  possível  a  condenação  da  Fazenda  Pública  ao  pagamento  de  honorários  advocatícios  em  decorrência  da  extinção  da  Execução  Fiscal  pelo  acolhimento  de  Exceção  de  Pré-Executividade.
+Recurso  Especial  parcialmente  conhecido  e,  nessa  parte,  provido.
+Acórdão  sujeito  ao  regime  do  art.  543-C  do  CPC  e  ao  art.  8º  da  Resolução  STJ  8/2008.
+(REsp  1185036/PE,  Rel.  Ministro  HERMAN  BENJAMIN,  PRIMEIRA  SEÇÃO,  julgado  em  (08/09/2010,  DJe  01/10/2010).
+Ante  ao  exposto,  VOTO  NO  SENTIDO  DE  NEGAR  PROVIMENTO  ao  Recurso  de  Apelação,  mantendo-se  a  sentença  em  sua  integralidade.
+Pois  bem.
+O  recurso  não  merece  prosperar.
+Inicialmente,  destaco  que  não  há  violação  do  art.  489, § 1º, IV, e 1.022, II,  do  CPC/2015,  quando  o  órgão  julgador,  de  forma  clara  e  coerente,  externa  fundamentação  adequada  e  suficiente  à  conclusão  do  acórdão  recorrido.
+Da  leitura  das  razões  transcritas,  constata-se  que  o  Tribunal  de  origem  apresentou  as  razões  pelas  quais  entendeu  que a parte executada teria demonstrado ter atendido às prescrições do art. 151, II, do CTN e Súmula 112, do STJ, evidenciando a suspensão da exigibilidade do crédito tributário em questão.
+Desse  modo,  não  se  vislumbra  nenhuma  deficiência  na  fundamentação  contida  no  julgado  recorrido,  sendo  possível  observar  que  o  Tribunal  apreciou  integralmente  a  controvérsia,  apontando  as  razões  de  seu  convencimento,  não  se  podendo  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  omissão  na  prestação  jurisdicional.
+Em verdade, o exame das razões elencadas na peça recursal do Município revela que o intento do recorrente, a pretexto de existência de omissão e erro de fato na origem, é a revisão do juízo de convicção do órgão julgador acerca da suspensão da exigibilidade do crédito, pretensão essa de natureza exclusivamente infringente, de inviável acolhimento na estreita via do recurso integrativo bem como no recurso especial a pretexto de violação do art. 1.022 do CPC/2015.
+No ponto, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Como consequência disso, a pretensão recursal atinente aos honorários não comporta acolhimento pois ""é possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade" (tema decidido no REsp 1.185.036/PE, repetitivo, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 1º/10/2010)" (AgInt no REsp n. 1.845.936/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 31/05/2021, DJe de 02/06/2021.).
+Incide in casu, portanto, a Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/08/2016, DJe 30/0 8/2016).
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a"  e  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  CONHECER  PARCIALMENTE  do  recurso  especial  e,  nessa  extensão,  NEGAR-LHE  PROVIMENTO.
+Majoro,  em  desfavor  da  parte  recorrente,  em  10%  (dez  por  cento)  o  valor  já  arbitrado  (na  origem),  nos  termos  do  art.  85,  §  11,  do  CPC/2015,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo,  bem  como  os  termos  do  art.  98,  §  3º,  do  mesmo  diploma  legal.
+Publique-se.  Intimem-se.
+EMENTA
