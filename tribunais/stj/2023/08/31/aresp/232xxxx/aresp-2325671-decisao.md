@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC) interposto por SANTO ANTÔNIO ENERGIA S/A em face da decisão acostada à fl. 3.571, e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 3.468-3.475, e-STJ, proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Processo Civil. Ação indenizatória pessoal em face de Usina Hidrelétrica. Lapso temporal prescritivo nessas espécies de ação. Trienal. Aplicação do art. 206, § 3º, do C. C. Impossibilidade de aplicação do art.1º-C da Lei nº 9494/1997. Ocorrência do fenômeno. Decretação da prescrição com extinção do processo com mérito.
+As ações pessoais de reparação de danos movida contra Usina hidrelétricas, tendo como causa de pedir efeitos da barragem construída, são pretensões comuns capituladas e enquadradas no art. 206, § 3º, V, do Código Civil, sendo incabível a aplicação do art. 1º-C da Lei nº 9494/1997, prescrevendo, portanto, em 3 anos, de tal modo que, ocorrendo o referido lapso temporal, deve ser extinta a ação com exame de mérito.
+O termo inicial do prazo prescricional, para ação de reparação de danos decorrentes da proliferação dos mosquitos (mansonia), dá-se quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão. Aplicação da Teoria da Actio Nata.
+Opostos embargos declaratórios (fls. 3.488-3.491, e-STJ), restaram desacolhidos na origem (fls. 3.524-3.527, e-STJ).
+Nas razões de recurso especial (fls. 3.541-3.547, e-STJ), alegou a insurgente que o acórdão recorrido violou os artigos 489, § 1º, IV, e 1.022, II, do CPC, sustentando a existência de omissão no acórdão quanto à inocorrência de prescrição em relação ao autor menor de idade, pois "sequer era nascido por ocasião do evento danoso, deixando, portanto, de ser parte legítima para a ação em curso" (fl. 3.543, e-STJ).
+Sem contrarrazões.
+Em juízo prévio de admissibilidade (fl. 3.571, e-STJ), a Corte de origem inadmitiu o apelo nobre ante a inexistência de negativa de prestação jurisdicional.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), às fls. 3.587-3.600, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta não apresentada.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar em parte.
+1. Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia, ou deixa de sanar outro vício previsto no artigo 1.022 do CPC.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. ART. 1.022 DO CPC. VIOLAÇÃO.
+1. Configura-se a violação do artigo 1.022 do Código de Processo Civil quando o Tribunal de origem, a despeito da oposição de embargos de declaração, deixa de examinar questão relevante para o deslinde da controvérsia.
+2. "Nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, é imperioso o retorno do feito à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ." (AgInt nos EDcl no REsp 1754743/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2019, DJe 12/12/2019) 3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1831870/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como
+entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp 1754832/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+No caso, a insurgente alega a existência de omissão no acórdão recorrido que teria deixado de se pronunciar sobre à inocorrência de prescrição em relação ao autor menor de idade, pois "sequer era nascido por ocasião do evento danoso, deixando, portanto, de ser parte legítima para a ação em curso" (fl. 3.543, e-STJ).
+Ao julgar os embargos de declaração, embora o Tribunal local tenha afirmado que "em momento algum, nem mesmo em contestação, a embargante trouxe aos autos referidos argumentos, tanto que foi de ofício que esta Corte não reconheceu a prescrição contra a menor" (fl. 3.536, e-STJ), deixou de apreciar a a tese apresentada.
+A manifestação acerca do ponto suscitado, ainda que para não conhecer ou rechaçar o reclamo, de forma fundamentada é necessária para a correta prestação jurisdicional - inclusive para possibilitar eventual acesso às instâncias superiores, se for o caso.
+Ademais, ainda que a questão tenha sido apontada apenas por ocasião dos embargos de declaração, por se tratar de questão de ordem pública - que, gize-se, surgiu apenas com o julgamento proferido pela Corte de origem -, deveria ter sido apreciada no julgamento dos aclaratórios.
+Em semelhante sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. LIMINAR ANTERIORMENTE DEFERIDA. PRECLUSÃO. MATÉRIA DE ORDEM PÚBLICA. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.  ..
+2. "As matérias de ordem pública, conhecíveis de ofício pelas instâncias ordinárias, ainda que suscitadas apenas em embargos de declaração, devem ser examinadas pelo Tribunal de origem, sob pena de omissão" (AgInt no AREsp 660.837/CE, Relator Ministro LUIS FELIPE SALOMÃO, Relator para o Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/3/2017, DJe 16/5/2017).  ..
+4. Agravo interno a que se nega provimento. (AgInt no AgInt no REsp 1278235/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/11/2020, DJe 02/12/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO E REVISÃO DE CLÁUSULAS CONTRATUAIS. DECADÊNCIA. MATÉRIA DE ORDEM PÚBLICA. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca de tema que não pode ser examinado, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre a decadência alegada nos embargos de declaração, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente.
+2. "A jurisprudência firmou-se no sentido de que as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em embargos de declaração, não estando sujeitas a preclusão" (AgRg no AREsp 686.634/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe de 09/08/2016)
+3. Agravo interno provido para conhecer do agravo a fim de dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de embargos declaratórios na origem, para que outro seja proferido e, assim, sanado o vício constatado. (AgInt nos EDcl no AREsp 1552050/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2020, DJe 15/06/2020)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. MATÉRIAS DE ORDEM PÚBLICA. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.  ..
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. Esta Corte de Justiça possui o pacífico entendimento de que as questões cognoscíveis de ofício na instância ordinária devem ser analisadas na origem, independentemente de serem suscitadas pelas partes. Logo, o não enfrentamento pelo Tribunal local de questões de ordem pública ventiladas nos embargos de declaração, essenciais para a solução do litígio, implicou a efetiva violação do art. 1.022 do NCPC.  ..
+5. Agravo interno não provido, com imposição de multa. (AgInt no REsp 1673723/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019)
+Imperioso, portanto, o reconhecimento da violação 1.022 do CPC/15.
+2 . Do exposto, com amparo no artigo 932 do CPC c/c a súmula 568/STJ, conhece-se do agravo e, de plano, dá-se parcial provimento ao recurso especial para cassar o acórdão proferido em sede de embargos de declaração (fls. 3524-3527, e-STJ), determinando que outro seja proferido, sanando-se a omissão apontada.
+Prejudicada, por ora, a análise do agravo de fls. 3587-3600, e-STJ, interposto pela parte adversa.
+Publique-se.
+Intimem-se.
+EMENTA
