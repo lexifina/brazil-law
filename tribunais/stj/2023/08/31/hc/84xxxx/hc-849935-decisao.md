@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDO LINCOLN DE GODOY MORONI contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1503534-87.2020.8.26.0320).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 1 ano, 10 meses e 5 dias de detenção, em regime inicial semiaberto, 23 dias-multa, e advertência sobre os efeitos das drogas, pela prática dos crimes previstos nos arts. 331 do Código Penal, por duas vezes, em continuidade delitiva, 163, parágrafo único, inc. III, do Código Penal, 311 do Código de Trânsito Brasileiro, e 28, inciso I, da Lei n. 11.343/06, todos em concurso material (e-STJ fls. 13/27).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para afastar a pena de multa em relação aos crimes de desacato (e-STJ fls. 28/44). Segue a ementa do acórdão:
+1-) Apelação criminal. Desacato, dano qualificado, direção perigosa e porte de entorpecente. Parcial provimento do recurso defensivo para afastar a pena de multa quanto aos delitos de desacato.
+2-) Materialidade delitiva e autoria estão comprovadas pela prova oral, documentos existentes nos autos e perícia, inviabilizando o acolhimento do pleito absolutório.
+3-) A pena foi dosada de maneira proporcional e razoável, sendo necessário apenas o afastamento da multa com relação ao desacato (art. 331, CP),porque não cominada no preceito secundário do tipo penal. Na primeira fase, as penas-base ficaram no mínimo legal, pelas circunstâncias judiciais favoráveis, ou seja, em seis (6) meses de detenção (para cada delito de desacato); seis (6) meses de detenção e dez (10) dias-multa (dano qualificado); e seis (6) meses de detenção(direção perigosa). Na segunda fase, pela reincidência, houve acréscimo de 1/6, tendo-se: em sete (7) meses de detenção (para cada delito de desacato); sete (7) meses de detenção e onze (11) dias-multa (dano qualificado); e sete (7) meses de detenção(direção perigosa). Na terceira fase, não há causas de diminuição e de aumento. Reconheceu-se, acertadamente, a continuidade delitiva entre os crimes de desacato, praticados em lugar e tempo próximos, bem como similar método de execução, sendo a pena de um deles aumentada de 1/6, tendo-se oito (8) meses e cinco (5) dias de detenção. Pelo cúmulo material, alcançou-se um (1) ano, dez (10) meses de detenção e cinco (5) dias de detenção e onze (11) dias-multa. Para o delito do art. 28 da Lei de Drogas, aplicou-se a pena de advertência sobre os efeitos das drogas, o que se mostrou razoável, pois, a despeito da reincidência, a quantidade era mínima, duas porções individuais de cocaína).
+4-) O regime inicial semiaberto foi corretamente fixado, pela reincidência e circunstâncias dos delitos.
+5-)Não se substitui a pena corporal ou se concede o "sursis", pois ausentes os seus pressupostos.
+6-) Recurso livre. Determinada a expedição de mandado de prisão após o trânsito em julgado da condenação.
+Em consulta ao Sistema Justiça, constato que a defesa interpôs recurso especial, que não foi admitido na origem, bem como agravo em recurso especial, o qual não foi conhecido no âmbito desta Corte (AREsp n. 2.369.241/SP).
+Verifico, outrossim, que a defesa impetrou outros três habeas corpus em favor do paciente: HC 839.042/SP, HC 839.577/SP e 842.617/SP.
+No presente mandamus (e-STJ fls. 3/12), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois não substituiu a sua pena privativa de liberdade por restritivas de direitos. Aduz que a reincidência do paciente não é específica, sendo viável a substituição, conforme a permissiva regra do § 3º do art. 44 do Código Penal.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que a pena privativa de liberdade seja substituída por restritivas de direitos.
+É o relatório. Decido.
+A irresignação manifestada no presente habeas corpus constitui parte do objeto do HC n. 839.042/SP, sob a minha relatoria, anteriormente impetrado em favor do paciente, cujo pedido liminar foi indeferido.
+Assim, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, revelando-se incabível nova impetração, na esteira do disposto no art. 210 do Regimento Interno do STJ, in verbis (grifei): Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO PELO CONCURSO DE PESSOAS, MOTIVO FÚTIL E EMPREGO DE MEIO CRUEL. PRONÚNCIA. NULIDADES PROCESSUAIS. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO TIDO POR COATOR. SUPRESSÃO DE INSTÂNCIA.
+1. Nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, o relator indeferirá liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos.
+ ..
+4. Agravo regimental desprovido (AgRg no HC n. 517.821/SP, Quinta Turma, DJe 4/9/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+II - "Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte" (AgRg no HC n. 478.216/RJ, Quinta Turma, Relator Ministro RIBEIRO DANTAS, DJe 19/02/2019).
+III - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Agravo regimental desprovido (AgRg no HC n. 509.639/SP, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 4/6/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Traslade-se, para estes autos, cópia da decisão liminar proferida no HC n. 839.042/SP.
+Intimem-se.
+EMENTA
