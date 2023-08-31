@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da CF, contra acórdão do TJPR assim ementado (e-STJ fl. 394):
+APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE CÂMBIO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA - RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE - EXTINÇÃO TOTAL DO PROCESSO. APELAÇÃO - INSURGÊNCIA DO EXEQUENTE CONTRA A SENTENÇA CÍVEL 01 EXTINTIVA - INSUBSISTÊNCIA - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - INCIDÊNCIA DO PRAZO QUINQUENAL - INTELIGÊNCIA DO ART. 206, § 5º, I DO CÓDIGO CIVIL - PROCESSO PARALISADO POR INÉRCIA DO EXEQUENTE, POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO (STF, SÚMULA 150) - BANCO EXEQUENTE QUE DEIXOU DE MOVIMENTAR O PROCESSO POR MAIS DE 7 (SETE) ANOS, DANDO CAUSA À EXTINÇÃO DA AÇÃO EXECUTIVA - - PLEITO PARA FIXAÇÃO DE HONORÁRIOS APELAÇÃO CÍVEL 02 ADVOCATÍCIOS EM FAVOR DO PROCURADOR DA EXECUTADA PELO PRINCÍPIO DA SUCUMBÊNCIA - IMPOSSIBILIDADE - APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE - AUSÊNCIA DE RESPONSABILIDADE DO BANCO EXEQUENTE PELO ÔNUS SUCUMBENCIAL, UMA VEZ QUE A IMPLEMENTAÇÃO DA PRESCRIÇÃO INTERCORRENTE DECORREU DA INEXISTÊNCIA DE PATRIMÔNIO CONSTRI TÁVEL EM NOME DA EXECUTADA - PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA - SENTENÇA CONFIRMADA INTEGRALMENTE. RECURSOS DE APELAÇÃO 01 E 02 CÍVEL CONHECIDOS E DESPROVIDOS.
+Nas razões apresentadas (e-STJ fls. 436/460), o recorrente alega ofensa ao art. 85, §2º, do CPC/2015, sustentando, em síntese, que o exequente deve arcar com o pagamento dos ônus sucumbenciais, pois ofereceu resistência à decretação da prescrição intercorrente, a qual se deu em decorrência da desídia da instituição financeira.
+Foram apresentadas contrarrazões (e-STJ fls. 468/473).
+O recurso especial foi admitido na origem (e-STJ fls. 476/479).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, de acordo com a jurisprudência da Segunda Seção do STJ, "a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente" (AgInt nos EDcl nos EAREsp n. 957.460/PR, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/2/2020, DJe 20/2/2020). Na mesma linha:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA . PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. REDISTRIBUIÇÃO. ÔNUS SUCUMBENCIAIS. PROVIMENTO PARCIAL. RECURSO ESPECIAL. CONSEQUÊNCIA LÓGIGA. DECISÃO MANTIDA.
+1. "O entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ, é no sentido de que em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e ce rta" (AgInt no AgInt no AREsp n. 2.037.941/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/9/2022, DJe de 30/9/2022).
+2. "A redistribuição dos ônus sucumbenciais, com a alteração dos honorários advocatícios sucumbenciais fixados na origem, é mera consequência lógica do provimento parcial do recurso e do decaimento da autora em parte de seu pedido" (AgInt no AgInt no AREsp n. 1.997.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2022, DJe de 24/10/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.109.395/SP, de minha relatoria, Quarta Turma, julgado em 22/5/2023, DJe de 29/5/2023.)
+O entendimento do Tribunal de origem está em consonância com a pacífica jurisprudência desta Corte Superior, motivo por que não merece reforma o aresto impugnado. Inafastável a Súmula n. 83/STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
