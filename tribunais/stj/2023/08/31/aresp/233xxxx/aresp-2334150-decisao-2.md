@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, cuida-se de ação indenizatória ajuizada pelo consumidor, com o objetivo de reparar danos de ordem material e moral suportados em razão da recusa do plano de saúde em realizar cobertura de procedimento cirúrgico, ao fundamento de que não houve observância do prazo de carência.
+Nesta sede, trata-se de agravo interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LTDA contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO - Plano de saúde - Ação de obrigação de fazer cumulada com pedido de indenização por danos morais. Autor acometido por crise de apendicite. Necessidade de internação para a realização de cirurgia de urgência. Recusa de cobertura, sob a justificativa de carência contratual. Ação julgada parcialmente procedente. Insurgência da ré. Desacolhimento. Negativa abusiva diante das normas e princípios do CDC. Tratamento de urgência. Prazo de carência limitado a 24 horas, nos termos do artigo 12, inciso V, alínea "c", da Lei 9.656/98. Precedentes da Câmara. Danos morais não configurados. Mero inadimplemento contratual impassível de gerar o dever de indenizar. Sentença reformada em parte. Sucumbência recíproca. Recurso provido em parte" (fl. 422 e-STJ)
+A agravante aponta, além de divergência jurisprudencial, violação ao art. 42 do Código de Defesa do Consumidor, ao art. 407 do Código Civil e art. 10, § 4º, e 12, incisos I e II, da Lei 9.656/98.
+Sustenta, de início, a necessidade de revogação da assistência judiciária gratuita concedida na origem, tendo em vista que a parte agravada possui condições de arcar com as custas processuais.
+Defende, no mérito, a possibilidade de recusa da cobertura do procedimento cirúrgico ora em análise, uma vez que o consumidor não teria cumprido o prazo de carência de 180 dias, previsto contratualmente.
+C  ontrarrazões às fls. 458/470 e-STJ.
+Juízo negativo de admissibilidade proferido às fls. 554/557 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece prosperar.
+De início, a revisão da conclusão adotada pelo Tribunal de origem quanto a impossibilidade da parte arcar com as custas processuais, por demandar o reexame do contexto fático-probatório dos autos, esbarra no óbice da Súmula 7/STJ.
+No mérito, a jurisprudência deste Superior Tribunal de Justiça é no sentido de que "a cláusula do prazo de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde não prevalece quando se revela circunstância excepcional, constituída por necessidade de tratamento necessário em caso de emergência ou de urgência" (AgInt no AREsp 1153702/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 3/12/2018, DJe 5/12/2018).
+No caso dos autos, foi expressamente consignado que o autor necessitou de atendimento em caráter emergencial, de modo que por estar em consonância com o entendimento deste STJ, não merece reforma o acórdão recorrido. Aplica-se a Súmula 83/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. "Nos termos da jurisprudência desta Corte Superior, é abusiva a limitação de utilização do plano de saúde no período de carência nos casos de urgência e emergência. Incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça." (AgInt no AgInt no AREsp 1925187/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2022, DJe 21/02/2022)
+2. Segundo a jurisprudência desta Corte, o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis . Precedentes.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula 284/STF.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.233.251/CE, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 1/6/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
