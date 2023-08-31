@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pela FAZENDA NACIONAL, em face de decisão de minha lavra que deu parcial provimento a seu Recurso Especial, para reconhecer a incidência da contribuição previdenciária, a cargo do empregado, sobre o terço constitucional de férias (Tema 985/STF).
+Alega o embargante omissão quanto a inversão dos ônus da sucumbência.
+Cumpre ressaltar que, em 26/6/2023, nos autos do RE 1.072.485/PR - Tema 985/STF, o Ministro André Mendonça proferiu decisão deferindo "os pedidos principais contidos nas Petições STF nº 31.548/2022, nº 73.166/2022 e nº 54.423/2023, com a finalidade de decretar a suspensão, em todo o território nacional, dos feitos judiciais e administrativos pendentes, individuais ou coletivos, que versem sobre a questão presente no Tema nº 985 do ementário da Repercussão Geral, nos termos do art. 1.035, § 5º, do CPC". Na referida decisão, apontou, ainda, ser "oportuno determinar a suspensão de tramitação de todos os processos potencialmente atingidos pela possível modulação de efeitos a ser operada nos embargos de declaração pendentes de julgamento no Plenário presencial" (STF, RE 1.072.485/PR, Rel. Ministro ANDRÉ MENDONÇA, DJE de 27/6/2023).
+Considerando tal fato superveniente, a decisão ora embargada foi reconsiderada com a determinação da devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o processo permaneça suspenso até a publicação do acórdão dos EDcl no Recurso Extraordinário - RE 1.072.485/PR (Tema 985/STF) -, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Por consequência, julgo prejudicado os Embargos de Declaração opostos pela FAZENDA NACIONAL.
+I.
+EMENTA
