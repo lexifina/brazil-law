@@ -1,0 +1,16 @@
+DECISÃO
+RAFAEL BORGES RODRIGUES alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Revisão Criminal n. 2142626-08.2023.8.26.0000).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, mais multa, em regime inicial fechado e advertência pela prática dos crimes previstos nos arts. 28 e 33, caput, da Lei n. 11.343/2006, além de 1 ano de detenção, em regime aberto, pela prática do delito descrito no art. 12, caput, da Lei n. 10.826/2003.
+A defesa sustenta a ocorrência de constrangimento ilegal, uma vez que o acórdão do Tribunal de origem, ao não conhecer do pedido de revisão criminal, violou o § 4º do art. 33 da Lei n. 11.343/2006, pois o acusado preenche todos os requisitos para a aplicação do redutor da forma privilegiada, como ficou reconhecido na sentença condenatória de primeira instância.
+Aduz que, sendo o crime de menor gravidade, cometido sem violência e grave ameaça, e contando o réu com condições pessoais favoráveis, é possível ser fixado o regime inicial aberto e substituída a reprimenda por restritivas de direitos. Ressalta, ainda, que foi apreendida maconha, droga de natureza mais branda.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 118-120).
+Decido.
+Em consulta ao sistema informatizado desta Corte Superior, observo a anterior interposição, em favor do ora paciente, do REsp n. 1.961.308/SP. Neste feito, a defesa sustentou a violação dos arts. 33, § 2º, "c", 44 e 59, do CP; 33, § 4º, da Lei n. 11.343/2006; 12, caput, da Lei n. 10.826/2003, e requereu, em síntese: a) a absolvição no tocante ao delito previsto no Estatuto do Desarmamento, pela atipicidade da conduta (posse de munição); b) a aplicação da minorante descrita naquele dispositivo da Lei de Drogas; c) a fixação de regime inicial mais brando; d) a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Em decisão proferida em 28/10/2021, neguei provimento ao apelo especial, por não identificar violação aos dispositivos mencionados pela defesa.
+Na sequência, houve a impetração do Habeas Corpus n. 828.818/SP, em que indeferi liminarmente o writ em 6/6/2023, por se tratar de mera reiteração de pedidos já apreciados.
+O Tribunal de origem, não conheceu do pedido de revisão criminal feito pelo impetrante (Proc. n. 1500266-83.2019.8.26.0603), conforme acórdão de fls. 7-15, assim ementado:
+Revisão Criminal Tráfico ilícito de entorpecentes e posse ilegal de munições - Absolvição do delito previsto no Estatuto do Desarmamento e alteração da dosimetria penal, quanto ao tráfico - Impossibilidade, diante de os pedidos não se enquadrarem no rol taxativo do artigo 621, do CPP - Reiteração de teses já analisadas definitivamente pelo acórdão revisando e convalidadas, em sede de Recurso Especial - Reconhecimento - Pedido revisional não conhecido.
+Logo, a pretensão formulada nesta impetração - aplicação da minorante, abrandamento do regime e substituição da pena privativa de liberdade por restritivas de direitos - é mera reiteração de pedidos já apreciados por esta relatoria, o que impede seu conhecimento.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
