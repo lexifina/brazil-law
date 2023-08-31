@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS contra decisão que não admitiu recurso especial. O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR - MORTE DO SEGURADO - PAGAMENTO DE PECÚLIO E RECUSA IMOTIVADA NO PAGAMENTO DE SUPLEMENTAÇÃO DE PENSÃO POR MORTE - AÇÃO PROCEDENTE, RECONHECENDO O PREENCHIMENTO DOS REQUISITOS, ESPECIALMENTE A COMPROVAÇÃO DE INSCRIÇÃO DA AUTORA COMO BENEFICIÁRIA DO PARTICIPANTE FALECIDO - APELAÇÃO GENÉRICA, ADUZINDO NECESSIDADE DE APORTES PARA INSCRIÇÃO E CUSTEIO DO BENEFÍCIO RECONHECIDO EM FAVOR DA AUTORA - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E APONTAMENTO DE EQUÍVOCOS COMETIDOS NA FUNDAMENTAÇÃO DA SENTENÇA - PRETENSÃO RECURSAL REJEITADA.
+RECURSO DESPROVIDO" (fl. 421, e-STJ).
+Nas razões do especial (fls. 471/492 e-STJ), a recorrente alega que o acórdão violou os arts. 21 da Lei Complementar nº 109/2001, 3º, § único e 6º, da Lei Complementar nº 108/2001.
+Sustenta que o de cujus optou pela não inclusão da recorrida como sua beneficiária, não havendo, portanto, a contribuição por parte da falecida para gerar a reserva matemática que custearia o futuro benefício de suplementação de pensão.
+Argumenta que, para que a recorrida fizesse jus aos benefícios pleiteados, seria necessário que o participante falecido tivesse feito as contribuições correlatas a Previdência Social, nos termos das Leis nºs 8.212/91 e 8.213/91, e, paralelamente, tenha contribuído ao Plano de Benefício Suplementar, nos termos do Regulamento da Petros.
+Aduz que, sem a recomposição de reserva matemática pela parte recorrente e pela Patrocinadora, a PETROS não terá como custear o benefício de caráter vitalício, razão pela qual é imprescindível o prévio custeio pelas partes.
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A pretensão recursal não merece ser acolhida.
+O tribunal de origem concluiu a controvérsia com base nos seguintes fundamentos:
+"Pois bem, no caso a autora, ora apelada, recebeu pecúlio por morte do ex-marido, de quem já era separada, mas ainda dependia economicamente, mas não obteve êxito em obter reinclusão no plano de assistência médica, tampouco na implantação de benefício de suplementação de pensão por morte, mesmo comprovando que já estaria inscrita previamente como beneficiária do participante do plano de previdência, gerido pela ora apelante.
+Em razão disso, ingressou com a presente ação declaratória e, após comprovar os fatos articulados na petição inicial, o magistrado reconheceu-lhe o direito ao benefício de suplementação de pensão por morte, mas afastou pedido relacionado ao plano de assistência médica.
+Nesta perspectiva, o recurso interposto pela ré não merece provimento, valendo destacar que a maior parte sequer impugna a pretensão acolhida na sentença, e na parte em que aborda questão efetivamente relevante ao julgamento do litígio, o faz de forma absolutamente genérica e até mesmo contraditória
+Aliás, após extenuante leitura e exercício interpretativo, verifica-se que a apelante pretende a improcedência da ação alegando genericamente que o participante não teria inscrito a autora como sua beneficiária, deixando, por conseguinte, de aportar valores necessários à concessão do respectivo benefício de pensão por morte, desconsiderando completamente que a pretensão foi acolhida exatamente sob o fundamento de que a requerente comprovou efetivamente já estar inscrita como beneficiária do participante antes de sua morte, fato que ensejou o reconhecimento do direito ao recebimento do benefício de suplementação de pensão por morte do ex-companheiro.
+Nestas circunstâncias, considerando que a apelante deixou de indicar especificamente o equívoco cometido pelo magistrado de primeiro grau, que acolheu a pretensão exatamente em razão de haver prova no sentido de que a autora já havia sido efetivamente inscrita como beneficiária do participante/falecido, inviável, pois, o pedido de reforma da sentença" (fls. 423/424 e-STJ - grifou-se).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria a interpretação de cláusula contratual e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% sobre o valor da causa, os quais deverão ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
