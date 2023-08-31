@@ -1,0 +1,15 @@
+DECISÃO
+FRANCISLEI MARCELINO DE OLIVEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.23.077746-8/000.
+A defesa busca afastar do histórico prisional do paciente a anotação de prática de falta grave e, em consequência, a retificação do lapso temporal para a obtenção de livramento condicional.
+Indeferida a liminar (fls. 816-817) e prestadas as informações (fls. 823-1.123, 1.124-1.134 e 1.135-1.145), os autos foram ao Ministério Público Federal, que opinou pela denegação da ordem (fls. 1.149-1.154).
+Memoriais da defesa, às fls. 1.156-1.163.
+Decido.
+O habeas corpus é substitutivo de agravo em execução, também interposto na origem e ainda não julgado pela instância a quo. Não está inaugurada a competência desta Corte, nos termos do art. 105, da CF, para exame do incidente antes do esgotamento da instância ordinária.
+Deveras: "O exame pelo Superior Tribunal de Justiça de matéria ainda não apreciada pelo Juiz ou pelo Tribunal de origem, enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+Inexiste ilegalidade no acórdão. O writ originário deixou de ser conhecido, justificadamente, pois "a defesa do paciente já aviou o competente Agravo em Execução contra a decisão combatida neste writ" e, pois, "há que se observar o princípio da unirrecorribilidade que prevê o cabimento de um único recurso para cada decisão judicial, vedando, desta forma, a interposição de dois recursos objetivando a discussão da mesma questão" (fl. 16).
+O manejo do habeas corpus não dispensa a racionalidade no uso dos instrumentos postos à disposição da parte, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada e correta se vê comprometido com o concomitante emprego de dois meios de impugnação com igual pretensão, contra o mesmo ato judicial.
+Sob essa perspectiva, já interposto o agravo em execução contra a decisão do Juiz da VEC, a impetração de habeas corpus perante idêntico órgão julgador, para igual pretensão de reforma do julgado, não deve ser admitida. O exame da questão idêntica formulada pela defesa deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. A utilização de habeas corpus para resolver incidentes da execução penal é de caráter subsidiário; somente será possível se não veiculado o recurso próprio.
+Destaque-se que, demonstradas a plausibilidade jurídica do pedido e o perigo da demora da prestação jurisdicional, a defesa poderá pleitear, no bojo do agravo em execução, em antecipação de tutela, a concessão urgente da pretensão recursal.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
