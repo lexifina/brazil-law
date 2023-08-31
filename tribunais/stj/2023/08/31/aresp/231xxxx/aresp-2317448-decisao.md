@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DA PARAÍBA contra decisão do Tribunal de Justiça desse ente federativo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 71):
+DIREITO TRIBUTÁRIO. Ação de execução fiscal. Cobrança de Taxa de Coleta de Resíduos. Imóvel público estadual situado no Município de João Pessoa. Legalidade da cobrança. Desconstituição da sentença. Provimento do apelo.
+- A dívida objeto da execução é referente aos exercícios de 2012 a 2015, ou seja, muito tempo após a promulgação da LC n. 41/2006, na qual é fundada.
+- A simples remissão no título executivo à Lei Complementar Municipal n. 16/98, já revogada, é passível de correção. Porém, percebe-se que sequer foi dada oportunidade ao exequente para que substituísse os títulos executivos.
+- Provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 96/102).
+No especial obstaculizado (e-STJ fls. 111/125), o recorrente aponta violação do art. 1.022 do CPC, bem como do art. 2º, § 5º, da Lei n. 6.830/1980 e do art. 202 do CTN.
+Alega que "não restaram considerados pelo Tribunal Local as informações trazidas nos Embargos Declaratórios, não sendo sanadas as omissões, restando contrariado o art. 1.022 do CPC" (e-STJ fl. 120).
+Além disso, defende que,"mesmo o fato gerador sendo posterior ao ano de 2006, as CDAs restam nulas, pois estão com vício de fundamentação, foram geradas com base em Lei que não previa a incidência da TCR em relação a prédios" (e-STJ fl. 120). No ponto, esclarece que " ..  as CDAs objetos da execução fiscal têm como fundamento a LC n. 16/1998, que não inclui prédios públicos, e, consoante determina a regra de aplicação legislativa prevista no art. 144 do CTN, a legislação local que regula o caso produziu efeitos até o advento da Lei Complementar Municipal n. 41/2006 (e esta nova lei só incide no fato gerador de 1º de janeiro de 2008)" (e-STJ fl. 123).
+As contrarrazões não foram oferecidas.
+O recurso não foi admitido em razão da incidência da Súmula 280 do STJ (e-STJ fls. 138/141).
+No agravo em recurso especial (e-STJ fls. 144/150), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem anulou a sentença que, acolhendo exceção de pré-executividade, extinguiu a execução fiscal com fundamento no art. 487, I, do CPC/2015. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 73/75):
+A controvérsia recursal reside na sentença que acolheu a Exceção de Pré-executividade e extinguiu o processo de execução fundado em Certidão de Dívida Ativa fundamentada na Lei Complementar Municipal nº 16/98.
+Em análise aos autos, é possível constatar que, de fato, as Certidões de Dívida Ativa de nº 2013/109166, 2014/129974, 2015/000375 e 2016/146875 (ID nº 9236596, pág. 2-5) fazem menção à referida lei ao fundamentar a origem e natureza da dívida "consoante o artigo 1º c/c o artigo 5º ambos da Lei Complementar n.º 16/98".
+Contudo, verifica-se, na mesma certidão, que consta como fundamento legal da dívida, e respectivos acréscimos, a Lei Complementar n.º 53/2008, que está plenamente em vigor. Ademais, a dívida objeto da execução é referente aos exercícios de 2012-2015, ou seja, muito tempo após a promulgação da LC n. 41/2006, na qual é fundada.
+Ademais, deve-se levar em consideração a Súmula nº 392 do STJ, que afastou a declaração de nulidade das Certidões de Dívidas Ativas por formalismos exagerados, possibilitando, em caso de constatação de vício formal, a sua substituição até a prolação de sentença.
+Sendo assim, a simples remissão no título executivo à Lei Complementar Municipal nº 16/98, já revogada, é passível de correção. Porém, percebe-se que sequer foi dada oportunidade ao exequente para que substituísse os títulos executivos.
+Por sua vez, esta Egrégia Corte de Justiça sumulou entendimento no sentido de que é plena e legítima a incidência do TCR sobre prédios públicos a partir da Lei Complementar Municipal nº 41/2006, tendo em vista que ela passou a permitir a cobrança do tributo independente da destinação do bem (Súmula nº 46 do TJPB).
+Esse entendimento tem sido aplicado nos julgados deste tribunal, senão vejamos:
+ ..
+A Lei Complementar Municipal nº 41/2006, ao revogar a Lei Complementar Municipal nº 16/1998, ampliou a incidência da TCR - Taxa de Coleta de Resíduos a partir de 2007, portanto, considerando que a execução fiscal em apreço se refere à TCR dos exercícios de 2012 a 2015, revela-se legal a sua cobrança.
+Pois bem.
+Inicialmente, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/2015, pois o STJ tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as alegações ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões e sua relevância ao deslinde da controvérsia. Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1.245.152/PE, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 08/10/2018, REsp 1.627.076/SP, relator Ministra REGINA HELENA COSTA, Primeira Turma, DJe 14/08/2018, AgInt no AREsp 1.134.984/MG, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 06/03/2018 e AgInt no REsp 1.720.264/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 21/09/2018.
+Com relação à nulidade das certidões de dívida ativa (CDAs) defendida pelo recorrente, do excerto acima transcrito é possível verificar que o acolhimento da pretensão, ainda que sustentada com base em suposta violação da Lei federal - art. 2º, § 5º, da Lei n. 6.830/1980 e do art. 202 do CTN -, exige, necessariamente, a interpretação da legislação local considerada pelo acórdão recorrido, o que é inviável pela via do recurso especial, nos termos da Súmula 280 do STF.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS EM AÇÕES CONEXAS. INCLUSÃO. VERIFICAÇÃO. ANÁLISE DE LEI LOCAL OU DO ACORDO. IMPOSSIBILIDADE. ÔNUS SUCUMBENCIAIS. DISTRIBUIÇÃO. REEXAME DE MATÉRIA FÁTICA. JUÍZO DE EQUIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A verba de sucumbência devida nas execuções fiscais é independente daquela a ser arbitrada em ações conexas, como embargos do devedor ou ações anulatórias. Precedentes.
+2. Cuidando de adesão a parcelamento tributário, a questão relativa à inclusão dos honorários devidos em ações conexas à execução fiscal dependerá do que vier a ser disciplinado na legislação de regência do benefício fiscal.
+3. Hipótese em que está consignado no acórdão recorrido que o parcelamento não incluiu os honorários advocatícios devidos nos embargos à execução fiscal, de modo que a revisão dessa premissa pressupõe o reexame da lei local de regência e/ou dos termos ajustados, o que é inviável na instância especial. Inteligência das Súmulas 280 do STF e 5 do STJ, respectivamente.
+4. "A revisão do acórdão recorrido quanto à distribuição dos ônus sucumbenciais, com o propósito de verificar a proporção de decaimento de cada uma das partes, pressupõe o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ" (AgInt no REsp 1.222.914/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 30/03/2017).
+5. As teses relativas à aplicação do juízo de equidade previsto no art. 85, § 8º, do CPC/2015 e à suposta exorbitância da quantia arbitrada não foram efetivamente analisadas no acórdão recorrido, carecendo o recurso especial, nesse pontos, do requisito do prequestionamento, nos termos da Súmula 282 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.474.450/GO, de minha relatoria, Primeira Turma, julgado em 17 /10/2019, DJe de 11/11/2019.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos d o art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
