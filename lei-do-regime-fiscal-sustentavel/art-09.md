@@ -1,0 +1,6 @@
+Art. 9º Caso o resultado primário do Governo Central apurado exceda ao limite superior do intervalo de tolerância de que trata o inciso IV do § 5º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), o Poder Executivo federal poderá ampliar as dotações orçamentárias, em valor equivalente a até 70% (setenta por cento) do montante excedente, por meio de crédito adicional:
+I - para investimentos, prioritariamente para obras inacabadas ou em andamento, nos termos do § 12 do art. 165 da Constituição Federal e do art. 45 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal);
+II - para inversões financeiras previstas no inciso II do § 1º do art. 10 desta Lei Complementar.
+§ 1º O disposto no caput deste artigo não se aplica quando for apurado déficit no resultado primário.
+§ 2º A ampliação das dotações orçamentárias de que trata o caput deste artigo não será contabilizada no valor mínimo de que trata o art. 10 desta Lei Complementar.
+§ 3º A ampliação das dotações orçamentárias de que trata o caput deste artigo não poderá ultrapassar, em qualquer hipótese, o montante de até 0,25 p.p. (vinte e cinco centésimos ponto percentual) do PIB do exercício anterior.
