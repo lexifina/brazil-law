@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento em sede de execução. Na decisão, afastou-se a prescrição suscitada pelo executado. No Tribunal a quo a decisão foi mantida. O valor da causa foi fixado em R$ 3. 228, 85 (três mil, duzentos e vinte e oito reais e oitenta e cinco centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE MULTA BASEADA EM CERTIDÃO EXPEDIDA PELO TCE. EXCEÇÃO DE EXECUTIVIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. 1. PARA QUE SEJA POSSÍVEL RECONHECER A PRESCRIÇÃO EM PROCEDIMENTO ADMINISTRATIVO, É IMPRESCINDÍVEL ALEGAÇÃO E PROVA DE QUE FICOU PARADO DURANTE MAIS DE CINCO ANOS POR INÉRCIA DO PODER PÚBLICO. 2. NÃO HÁ PRESCRIÇÃO NO PERÍODO POSTERIOR AO PROCEDIMENTO ADMINISTRATIVO E ANTERIOR AO INGRESSO DA EXECUÇÃO, SE DECORRERAM MENOS DE TRÊS MESES. 3. NÃO HÁ PRESCRIÇÃO INTERCORRENTE NO PROCESSO, UMA VEZ QUE A EXECUÇÃO FOI SUSPENSA POR FORÇA DE EFEITO SUSPENSIVO CONCEDIDO EM EMBARGOS DE TERCEIRO. 4. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Pode-se aplicar a mesma orientação ao procedimento administrativo, todavia impõe-se prova de que ficou parado por inércia -no caso, inércia do TCE -, durante mais de cinco anos, e isso sequer foi invocado pelo executado/excipiente, ora agravante.
+(..)
+Também não há falar em prescrição no interregno do trânsito em julgado administrativo, ocorrido em 10-1-2007, até o ajuizamento da execução, ocorrido em 4-4-2007, pois decorreram menos de três meses.
+(..)
+Melhor sorte não cabe ao agravante no que se refere à prescrição intercorrente, isto é, por paralisação do processo durante mais de cinco anos por inércia do exequente, uma vez que a execução foi suspensa por força de efeito em embargos de terceiros, cuja decisão só transitou em julgado em 7-6-2017.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 1º do Decreto n. 20.910/32; 1º da Lei n. 9.873/99), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
