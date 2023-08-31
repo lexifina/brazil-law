@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por ERIBERTO SANTOS PEREIRA DOS ANJOS contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 33, caput, e 35, caput, ambos da Lei nº 11.343/06, às penas de 19 anos e 01 mês de reclusão, em regime inicial fechado, e 2.452 dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao reclamo, para reduzir as reprimendas impostas para 13 anos, 07 meses e 06 dias de reclusão e 1.840 dias-multa, nos termos do acórdão com a seguinte ementa:
+APELAÇÃO CRIMINAL  TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO  PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA IMPOSSIBILIDADE  Inviável a absolvição se as circunstâncias que envolvem os fatos e a quantidade de drogas evidenciam a prática do tráfico de entorpecentes pelo réu. Não se pode negar valor aos depoimentos dos policiais quando eles são essencialmente harmônicos e não se vislumbra nenhuma razão para incriminarem injustamente o réu. Existência de provas do caráter estável e duradouro da prática criminosa, bem caracterizando o delito do artigo 35, "caput", da Lei nº 11.343/06. Recurso parcialmente provido, somente para reduzir as penas.
+No presente writ, o impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base dos delitos.
+Requer, ao final, a concessão da ordem, para reduzir as sanções.
+As informações foram prestadas às fls. 23-84.
+O Ministério Público Federal, às fls. 86-90, manifestou-se nos termos da seguinte ementa:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. ART.33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. PACIENTE INTEGRANTE DE ORCRIM. HABITUALIDADE CRIMINOSA. PRECEDENTE DO STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. NÃO CONHECIMENTO OU, SUPERADA A PRELIMINAR, DENEGAÇÃO DAORDEM.
+É o breve relatório.
+Decido.
+O impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base dos delitos.
+No tocante à aplicação da sanção, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No presente caso, o Tribunal de origem, de forma motivada e de acordo com o caso concreto, atento as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, considerou os maus antecedentes criminais desfavoráveis ao paciente, pois registra duas condenações, bem como a grande quantidade de entorpecentes apreendidos, vale dizer, 03 tijolos de maconha, pesando 1.015,59g, 1.166,39g e 837,85g.
+A existência de condenações anteriores, transitadas em julgado, pode justificar validamente a elevação da pena-base, no tocante aos maus antecedentes.
+Igualmente, a expressiva quantidade de droga apreendida constitui fundamentação idônea a justificar a elevação da pena-base, uma vez que o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, nos termos do artigo 42 da Lei 11.343/2006.
+Quanto ao critério numérico de aumento para cada circunstância judicial negativa, in casu, não há desproporção no aumento da pena-base de cada delito, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06, ausente, portanto, notória ilegalidade a justificar a concessão da ordem pleiteada.
+A propósito: "Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. " (AgRg no AREsp n. 2.240.104/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
+EMENTA
