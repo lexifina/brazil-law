@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BENEDITO ALVES DE ARRUDA (BENEDITO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 490/507).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BENEDITO alegou a violação dos arts. 39, I, do CDC, 85 e 86 do CPC e 23 da Lei n.º 8.906/94 ao sustentar que (1) é abusiva a capitalização diária de juros; (2) a contratação do seguro foi impositiva e arbitrária, não obstante a existência de apólice, uma vez que não foi dada opção ao consumidor, além de constar como única beneficária a própria instituição financeira, que integra o mesmo grupo da companhia de seguros, em flagrante venda casada; (3) o banco deve arcar com parte das custas processuais, ainda que proporcionalmente; (4) ficou configurada a existência de dissídio jurisprudencial.
+(1) Da capitalização diária de juros
+Em suas razões recursais BENEDITO postulou o afastamento da capitalização diária dos juros.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGADA FALTA DE COMPROVAÇÃO DOS DANOS E DO NEXO CAUSAL E REDUÇÃO DO VALOR DOS DANOS MORAIS. SÚMULAS 284 DO STF E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Considerando que o recurso especial tem como escopo a defesa da higidez do direito objetivo e a unificação da jurisprudência em matéria infraconstitucional, é imprescindível que a parte recorrente indique precisamente os dispositivos legais supostamente violados pela instância de origem.
+2. Analisando o recurso especial da parte ora agravante, nota-se que não houve indicação clara e precisa dos artigos de lei que teriam sido contrariados, o que atrai o óbice da Súmula 284/STF.
+3. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.751.590/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 31/5/2021, DJe de 7/6/2021, sem destaque no original.)
+Assim, quanto a esse ponto, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Além disso, a incidência da Súmula nº 284 do STF, pela ausência de apontamento do dispositivo violado, também obsta o conhecimento do recurso especial quanto ao dissídio, na medida em que é indispensável que o recorrente indique o artigo de lei sobre o qual haveria interpretação divergente entre tribunais. Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. MORA CONTRATUAL. DESCARACTERIZAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. LUCROS CESSANTES. PRESUNÇÃO DOS PREJUÍZOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. INCC. APLICAÇÃO DURANTE A MORA CONTRATUAL DAS VENDEDORAS. IMPOSSIBILIDADE. CONSONÂNCIA ENTRE O ARESTO IMPUGNADO E A JURISPRUDÊNCIA DESTA CASA. SÚMULA N. 83/STJ. DANOS MORAIS. EXCLUSÃO. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. De acordo com a jurisprudência do STJ, "há presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves" (AgInt no REsp n. 1.792.742/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/8/2019, DJe 30/8/2019), o que foi observado pela Corte local.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Conforme o entendimento desta Corte Superior, "não se aplica o INCC para correção do saldo devedor após o transcurso da data limite para entrega da obra" (AgInt nos EDcl no REsp n. 1.962.573/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/3/2022, DJe de 23/3/2022), entendimento aplicado pelo Tribunal a quo. Caso de aplicação da Súmula n. 83/STJ.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+7. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 e 283 do STF e 83 do STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.992.358/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022, sem destaque no original.)
+(2) Do seguro
+BENEDITO sustentou que a contratação do seguro foi impositiva e arbitrária, uma vez que não foi dada opção ao consumidor, além de constar como única beneficária a própria instituição financeira, que integra o mesmo grupo da companhia de seguros, em flagrante venda casada;
+A Corte estadual, quanto ao tema, assim se pronunciou:
+No que tange à contratação do seguro de proteção financeira, pelo que se vê dos autos, o Apelado aderiu a esse serviço de livre manifestação de vontade, tendo desembolsado a quantia de R$ 700,00 (setecentos reais) para esse mister, o que não se revela abusiva.
+Dito de outro modo, especificamente quanto ao seguro do crédito, na espécie, inexistem elementos concretos e indenes de dúvidas de que o mutuário tenha sido obrigado a contratar o seguro ou que sua vontade tenha sido viciada,sendo vedado ao julgador fazer presunções acercada propalada coação (e-STJ, fls. 375).
+Observa-se, portanto, que a controvérsia dos autos foi julgada em conformidade com tese firmada pelo STJ nos Recursos Especiais Repetitivos nºs 1.639.259/SP e 1.639.320/SP.
+Desse modo, uma vez verificada a conformidade do acórdão recorrido com a jurisprudência do STJ, inafastável a incidência da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos pela alínea a como pela alínea c do permissivo constitucional.
+Ademais, afirmar que o valor cobrado a titulo de tarifa de seguro prestamista é abusivo exige desta Corte nova análise de contrato e incursão na seara fático probatória, atividade, como já afirmado acima, obstadas nesta Corte com base nas súmulas nºs 5 e 7/STJ.
+(3) Da redistribuição dos ônus sucumbenciais
+É inviável a revisão acerca da proporção de sucumbência cabível aos litigantes.
+Nos termos a jurisprudência desta Corte, a apreciação do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula n.º 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. DANO MORAL. NÃO CONFIGURAÇÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONTEXTO FÁTICO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão firmada pelo tribunal de origem acerca da falta de demonstração da ocorrência de abalo moral passível de indenização demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.915.778/SP, relator Ministro Ricardo VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 13/12/2021, DJe de 16/12/2021, sem destaque no original.)
+É de destacar, ainda, que a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nesta extensão, NEGAR-LHE provimento.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC, por já terem sido fixados no patamar máximo permitido pela lei.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR E PROCESSO CIVIL CONTRATO BANCÁRIO. FINANCIAMENTO DE VEÍCULO. 1. CAPITALIZAÇÃO DIÁRIA DE JUROS. ILEGALIDADE. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. 2. SEGURO. JULGADO EM CONFORMIDADE COM PROCEDIMENTOS REPETITIVOS. RESP"S 1.639.259/SP E 1.639.320/SP. ALEGAÇÃO DE ABUSIVIDADE. REVISÃO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. 3. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO DE FATOS E PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE OS ÓBICES SUMULARES. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
