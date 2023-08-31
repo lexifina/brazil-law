@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente encontra-se "preso desde 4.5.2023, por suposta prática do delito previsto no art. 33, "caput", da Lei nº 11.343/06 e art. 307, do Código Penal" (fl. 17).
+Argumentam os impetrantes, em suma, com a ilicitude da prisão em flagrante - revista pessoal - em decorrência da conduta perpetrada por guardas civis municipais, requerendo, liminarmente, a revogação da prisão preventiva, e, no mérito, o reconhecimento da ilicitude das provas.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Na origem, em 4/7/2023, o réu, ora paciente, foi condenado a "05 (cinco) anos e 10 (dez) meses de reclusão em regime inicial fechado; 03 (três) meses e 15 (quinze) dias de detenção em regime inicial semiaberto; além do pagamento de multa de 583 (quinhentos e oitenta e três) dias-multa, fixada a unidade no mínimo legal, por infração ao artigo 33, caput, da Lei nº 11.343/06; e no artigo 307, do Código Penal; ambos com incidência da circunstância agravante prevista no artigo 61, inciso I e em concurso material de delitos, na forma do artigo 69, ambos do Código Penal" (fl. 109), conforme se vê do documento de fls. 93-110.
+O presente mandamus encontra-se prejudicado, haja vista " a  superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos" (AgRg no HC n. 789.240/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 29/5/2023, DJe de 1/6/2023). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA QUE CONCEDEU O DIREITO DE RECORRER EM LIBERDADE. QUESTÃO SUPERADA. VIOLAÇÃO DE DOMICÍLIO AFASTADA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO DEVE SER ENFRENTADA PREVIAMENTE PELA CORTE A QUO. AGRAVO PREJUDICADO.
+1. Em data posterior à decisão agravada, foi proferida sentença condenando a ré às penas de 5 anos de reclusão, em regime inicial semiaberto, e pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo sido concedido o direito de recorrer em liberdade. Dessa forma, não mais persistindo a segregação ora debatida, vislumbra-se a perda de objeto pretendido.
+2. No que se refere à alegada ilicitude das provas, o pleito também se encontra prejudicado, tendo em vista que foi analisado pelo Magistrado sentenciante, que, analisando as provas juntadas durante a instrução criminal - dentre elas, autorização de busca domiciliar assinada por moradores do imóvel -, entendeu não ter ocorrido violação ao domicílio da paciente.
+3. É certo que os elementos de convicção utilizados pelo Juízo de primeiro grau adotados na sentença condenatória a fim de afastar a violação de domicílio devem ser levados à apreciação do Tribunal de origem, antes de serem analisados por esta Corte Superior.
+4. Agravo Regimental prejudicado. (AgRg no HC n. 765.589/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
