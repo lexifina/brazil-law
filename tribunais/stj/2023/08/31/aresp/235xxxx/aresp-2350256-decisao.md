@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de TL PORTFOLIO CONSULTORIA LTDA. que objetiva admissão de recurso especial interposto com fundamento no art. 105, inciso III, alínea "a" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 347):
+PROCESSO CIVIL E ADMINISTRATIVO. REGISTRO EM CONSELHO PROFISSIONAL. ATIVIDADE BÁSICA DA EMPRESA. LEI Nº 6.839/80. ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL, EXCETO CONSULTORIA TÉCNICA ESPECÍFICA. PARTICIPAÇÃO EM OUTRAS SOCIEDADES, EXCETO HOLDINGS. NECESSIDADE DEREGISTRO NO CONSELHO REGIONAL DE ADMINISTRAÇÃO. APELAÇÃO DESPROVIDA.
+1. A questão debatida nos presentes autos refere-se à obrigatoriedade de inscrição da autora junto ao Conselho Regional de Administração do Estado de São Paulo - CRA/SP.
+2. O registro em órgão de fiscalização profissional tem por pressuposto a atividade básica exercida pela empresa ou a natureza dos serviços prestados, a teor do disposto no artigo 1º da Lei nº 6.839/80.
+4. No caso em apreço, verifica-se que as atividades básicas desempenhadas pela autora consistem na consultoria em gestão empresarial, exceto consultoria técnica específica, participação em outras sociedades, exceto holdings (cópia da ficha cadastral da empresa na JUCESP, ID de n.º 259316573, páginas 01-02; Contrato de constituição da sociedade, alteração promovida em 22/10/2014, ID de n.º 259316897, páginas 03-09), as quais, segundo a jurisprudência, são privativas de Administrador, sujeitando-se a empresa que as explora ao registro junto ao Conselho Regional de Administração. Precedentes deste E. Tribunal.
+5. Desse modo, a sentença deve ser mantida tal como lançada, reconhecendo-se a obrigatoriedade de inscrição da autora no Conselho Regional de Administração do Estado de São Paulo - CRA/SP.
+6. Majoração dos honorários advocatícios em 2 % (dois por cento) do valor fixado na sentença, nos termos do disposto nos §§ 2º e 11 do art. 85 do Código de Processo Civil.
+7. Apelação desprovida.
+Não foram opostos embargos de declaração.
+No especial, a parte indica violação dos arts. 1º, 2º e 15º da Lei n. 4.769/1965.
+Sustenta, em resumo, que "nenhuma das atividades desenvolvidas pela Recorrente, ainda que indiretamente, se relacionam à quaisquer atividades relacionadas ao conceito de administração. Dai que, independentemente do fato de, no momento do cadastro do CNPJ ter constando CNAE secundário que apontado no v. acórdão ora recorrido, tal não se refere à realidade material comprovada nos presentes autos, em que emerge, de maneira inequívoca que, em momento algum a Recorrente atua empresarialmente na área de técnica de administração. O que caracteriza a contrariedade aos artigos 1º, 2º e 15º da Lei 4.769/65, importando na necessária reforma do v. acórdão ora recorrido" (e-STJ fl. 384).
+Contrarrazões apresentadas às e-STJ fls. 393/402.
+O recurso especial não foi admitido na origem (e-STJ fls. 404/405), ensejando a interposição de agravo.
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de ação ordinária ajuizada por TL PORTFOLIO CONSULTORIA LTDA. contra CONSELHO REGIONAL DE ADMINISTRACAO DE SÃO PAULO, em que objetiva a declaração de inexigibilidade do pagamento da anuidade e da inscrição no CRA/SP.
+No primeiro grau de jurisdição, os pedidos formulados na inicial foram julgados improcedentes.
+A ora agravante interpôs recurso de apelação, o qual foi desprovido pelo Tribunal de origem, com base nos seguintes fundamentos (e-STJ fl. 345):
+Os presentes autos refere-se à obrigatoriedade de inscrição de pessoa jurídica junto ao Conselho Regional de Administração do Estado de São Paulo - CRA/SP. O registro em órgão de fiscalização profissional tem por pressuposto a atividade básica exercida pela empresa ou a natureza dos serviços prestados, a teor do disposto no artigo 1º da Lei nº 6.839/80, in verbis:
+"Art. 1º - O registro de empresas e a anotação dos profissionais legalmente habilitados, delas encarregados, serão obrigatórios nas entidades competentes para a fiscalização do exercício das diversas profissões, em razão da atividade básica ou em relação àquela pela qual prestem serviços a terceiros."
+No caso em apreço, verifica-se que as atividades básicas desempenhadas pela autora consistem na consultoria em gestão empresarial, exceto consultoria técnica específica, participação em outras sociedades, exceto holdings (cópia da ficha cadastral da empresa na JUCESP, ID de n.º 259316573, páginas 01-02; Contrato de constituição da sociedade, alteração promovida em 22/10/2014, ID de n.º 259316897, páginas 03-09), as quais, segundo a jurisprudência, são privativas de Administrador, sujeitando-se a empresa que as explora ao registro junto ao Conselho Regional de Administração.
+Pois bem.
+O recurso especial não pode ser conhecido.
+O Tribunal de origem, soberano na análise do aspecto fático-probatório, assentou o entendimento de que a atividade principal exercida pela autora - consultoria em gestão empresarial - dá causa à inscrição nos quadros do Conselho de Fiscalização Profissional.
+Nesse contexto, a desconstituição de tal posição, na forma pretendida, demandaria o revolvimento do arcabouço probatório, providência inviável na via do recurso especial, em função do óbice da Súmula 7 desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONSELHO REGIONAL DE ADMINISTRAÇÃO. INEXISTÊNCIA DE EXERCÍCIO DA ATIVIDADE DE ADMINISTRADOR. EMPRESA NÃO REGISTRADA NO ÓRGÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O critério legal de obrigatoriedade de registro no Conselho profissional é determinado pela atividade básica da empresa ou pela natureza dos serviços prestados.
+2. O Tribunal de origem, ao analisar o objeto social descrito no estatuto da empresa, reconheceu expressamente que suas atividades - "serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras" - não estariam sujeitas a registro no CRA. Assim, tal decisão, que levou em consideração o suporte fático-probatório dos autos, não pode ser revista pelo Superior Tribunal de Justiça, ante a vedação de sua Súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido nessa parte não provido. (REsp 1655430/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
