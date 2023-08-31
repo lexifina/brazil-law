@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo EMBRAFRIO ARMAZÉNS GERAIS FRIGORÍFICOS LTDA. contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+CONTRIBUIÇÃO AO PIS E COFINS. FATURAMENTO/RECEITA AUFERIDO PELAS CONCESSIONÁRIAS/DISTRIBUIDORAS DE ENERGIA ELÉTRICA. EXCLUSÃO DO ICMS. ILEGITIMIDADE ATIVA DO CONSUMIDOR FINAL.
+O consumidor final da energia elétrica não tem legitimidade para postular a exclusão do ICMS da base de cálculo da contribuição ao PIS e da COFINS incidentes sobre o faturamento/receita auferido pelas concessionárias/distribuidoras de energia elétrica.
+Nas razões de recurso especial, a contribuinte indica ofensa ao art. 166 do CTN, 7º, II e 9º, §§ 2º, 3ºe 4º, da Lei 8.987/95. Alega, em resumo, a legitimidade ativa do consumidor final para requerer repetição de indébito de tributo indireto em contratos de energia elétrica.
+Contrarrazões apresentadas às e-STJ fls. 211/213.
+A decisão a quo inadmitiu o recurso especial ante a incidência da Súmula 83 do STJ, fundamento com o qual não concorda a parte agravante.
+Contraminuta às fls. 290/297.
+O Ministério Público Federal apresentou manifestação no sentido do conhecimento do agravo para não conhecer do recurso especial.
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança, em que objetiva garantir à impetrante, na qualidade de consumidor final, o direito ao pagamento do repasse de PIS/COFINS incidentes sobre a fatura de energia elétrica sem a inclusão do ICMS na sua base de cálculo.
+No primeiro grau de jurisdição, foi denegada a segurança pleiteada ante o acolhimento da preliminar de ilegitimidade ativa.
+A impetrante interpôs recurso de apelação, o qual foi desprovido pelo Tribunal de origem, ao fundamento de que "a impetrante não é sujeito passivo da relação jurídico-tributária, uma vez que a condição de contribuinte é ocupada pelas concessionárias/distribuidoras de energia elétrica, que auferem a receita tributável e recolhem as contribuições. Nem tampouco a impetrante é eleita pela legislação como terceiro responsável. Por outro lado, a mera repercussão econômica suportada pelo consumidor da energia elétrica (caso da impetrante) não lhe confere legitimidade para postular a restituição de valores atinentes a PIS e COFINS recolhidos pelas concessionárias/distribuidoras de energia elétrica" (e-STJ fls. 130/131).
+Pois bem.
+Não assiste razão à recorrente.
+O acórdão recorrido está em conformidade com a jurisprudência da Primeira Seção que, no julgamento do REsp n. 903.394/AL, sob a sistemática do art. 543-C do CPC/1973, concluiu que os contribuintes de fato, a despeito de suportarem a exação sob a forma de substituição tributária, não detêm legitimidade para ajuizar ações que visem a discutir a exigência fiscal de recolhimento de tributos incidentes sobre o faturamento (Finsocial, PIS e COFINS).
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. CONTAS DE ENERGIA ELÉTRICA. ILEGITIMIDADE ATIVA DO CONSUMIDOR ENQUANTO CONTRIBUINTE DE FATO. PRECEDENTE REPRESENTATIVO DA CONTROVÉRSIA. AUSÊNCIA DE IDENTIDADE FÁTICA ENTRE OS CASOS CONFRONTADOS. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO.
+1. A Primeira Seção, no julgamento do REsp n. 903.394/AL, sob a sistemática do art. 543-C do CPC/1973, reajustou seu entendimento para concluir que os contribuintes de fato, a despeito de suportarem a exação sob a forma de substituição tributária, não detêm legitimidade para ajuizar ações que visem a discutir a exigência fiscal de recolhimento de tributos incidentes sobre o faturamento (Finsocial, Pis e Cofins).
+2. O recurso especial não enseja conhecimento no que diz respeito ao dissídio jurisprudencial proposto, pois o REsp n. 1.299.303/SC, apresentado como paradigma, trata da legitimação excepcional do contribuinte de fato para os casos em que "se busca afastar, no tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e não utilizada", o que não se enquadra ao objeto da presente lide.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.932.893/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/3/2022, DJe de 5/4/2022.).
+TRIBUTÁRIO E PROCESSUAL CIVIL. REPETIÇÃO DE INDÉBITO. SUBSTITUIÇÃO TRIBUTÁRIA. ICMS. ARTIGO 166 DO CTN. ILEGITIMIDADE ATIVA AD CAUSAM DO RESPONSÁVEL TRIBUTÁRIO, QUANDO NÃO COMPROVADO QUE SUPORTOU O ENCARGO FINANCEIRO DO TRIBUTO. ENTENDIMENTO JURISPRUDENCIAL PACÍFICO DO STJ.
+1. Discute-se a inclusão do ICMS na base de cálculo do PIS e da Cofins, tema que não divide interesses entre concessionária de energia elétrica e consumidor final.
+2. À luz do art. 166 do Código Tributário Nacional - CTN, o Superior Tribunal de Justiça firmou entendimento jurisprudencial segundo o qual o responsável tributário, recolhedor, em tese, do crédito tributário por substituição processual, só tem legitimidade ativa ad causam para a ação de repetição de indébito, quando comprovar ter pago o tributo. Fora as hipótese do art. 166 do CTN, o responsável tributário não detém legitimidade para pleitear, em nome próprio, a restituição do tributo que recolheu. A respeito: EDcl no AgRg no REsp 1.418.303/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/6/2014; AgRg no REsp 1.418.207/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/5/2014; AgRg no REsp 1.437.789/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/5/2014.
+3. Agravo Interno não provido.
+(AgInt no AgInt no REsp 1.932.473/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2021, DJe de 10/12/2021.).
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
