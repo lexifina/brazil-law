@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por HELIO SILVA PARENTE em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE - IMÓVEIS PENHORADOS - AVALIAÇÃO - LAUDO PERICIAL JUDICIAL - IMPUGNAÇÃO APRESENTADA - HOMOLOGAÇÃO - FUNDAMENTAÇÃO SATISFATÓRIA - IRRESIGNAÇÃO DO EXECUTADO - MERA ALEGAÇÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+No caso, ao contrário do que alega o executado, em momento algum o v. acórdão proferido nos autos do RAI n. 1009462-49.2021.8.11.0000 reconheceu a necessidade do envio dos autos à contadoria judicial para apurar o saldo devedor correto, mas apenas e tão somente, a necessidade da nulidade do decisum, a fim de possibilitar que a magistrada fundamentasse a sua decisão adequadamente, o que ocorreu de forma satisfatória na espécie.
+Muito embora não haja adstrição do juiz ao laudo pericial (art. 479, CPC), é recomendável que ocorrendo divergência entre a perícia oficial e a irresignação da parte adversa, deva prevalecer aquela, por estar o expert subordinado à lei e devidamente compromissado, garantindo a imparcialidade necessária à prestação jurisdicional.
+Sendo homologado o cálculo elaborado por perito judicial, não há que se falar na rejeição do laudo e nem na designação de nova perícia, tendo como base apenas as alegações do executado quanto a diferença dos valores apurados, mormente pelo fato do modo adotado pelo expert se dar na forma exigida pela espécie, não justificando a repetição da prova." (fls. 526-527).
+Os embargos de declaração foram rejeitados (fls. 619-632).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 873, II, e 1.022, II, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese, (a) a negativa de prestação jurisdicional e (b) a necessidade de ser realizada nova avaliação dos imóveis penhorados, em razão da majoração do valor de tais bens.
+Apresentadas contrarrazões ao apelo nobre (fls. 723-727).
+É o relatório.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da parte recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O eg. Tribunal de origem consigna que "a realização de nova perícia afrontaria os princípios da economia e celeridade processual em razão da patente desnecessidade." (fl. 533).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a desnecessidade de realização de nova perícia para avaliar o valor dos bens penhorados, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
