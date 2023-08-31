@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SAFRA S.A., com base nas alíneas a e c do permissivo constitucional, contra acórdão proferido Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 47):
+Agravo de instrumento. Execução de título extrajudicial. Decisão judicial que indeferiu a penhora sobre parte da verba referente a benefício previdenciário. 1. O valor referente a benefício previdenciário é, em regra, impenhorável (artigo 833, IV, do Código de Processo Civil). 2. Tirante as hipóteses previstas em lei em que expressamente se excetua a regra (artigo 833, par. 2º, do Código de Processo Civil), pode-se afastar a impenhorabilidade diante de particularidades do caso, desde que preservada fração para garantir a dignidade da pessoa do devedor e de sua família. Faz-se, nesta situação, que é excepcional, um sopesamento dos interesses em jogo, à luz do princípio da proporcionalidade, de sorte a tutelar, de um lado, a eficácia do processo (satisfação do direito do credor), e, de outro, a dignidade da pessoa humana. 3. Não demonstrado, no caso em tela, uma situação excepcional a justificar a contrição. Recurso desprovido.
+Nas razões do recurso, o recorrente alega divergência jurisprudencial e violação ao art. 833, § 2º, do CPC/2015.
+Sustenta a possibilidade de penhora dos proventos do devedor para saldar débito decorrente de honorários advocatícios. Afirma que tais valores possuem natureza alimentar.
+Defende que a constrição não prejudica a subsistência do recorrido.
+Sendo assim, requer o provimento do presente recurso especial.
+Decisão de admissibilidade às fls. 74-75 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos às decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da penhora da remuneração do recorrido, o Tribunal de origem assim se manifestou (e-STJ, fls. 48-51):
+3. Trata-se de execução de título extrajudicial movida pelo agravante com base na cédula de crédito bancário, em que figuram como executados Foothills Indústria e Comércio Ltda (devedor principal) e Fausto de Toledo Ribas (avalista).
+ ..
+Vale dizer, tirante as hipóteses previstas em lei em que expressamente se excetua a regra (artigo 833, par. 2º, do Código de Processo Civil), pode-se afastar a impenhorabilidade diante de particularidades do caso, desde que preservada fração para garantir a dignidade da pessoa do devedor e de sua família. Faz-se, nesta situação, que é excepcional, um sopesamento dos interesses em jogo, à luz do princípio da proporcionalidade, de sorte a tutelar, de um lado, a eficáciado processo (satisfação do direito do credor), e, de outro, a dignidade da pessoa humana.
+ ..
+No entanto, no caso em tela, não se tem um quadro que permita relativizar a impenhorabilidade do benefício previdenciário, tendo em vista que o agravante não trouxe aos autos documentos suficientes a indicar se estar diante de uma situação excepcional em que se admite a penhora de parte de seu benefício previdenciário, sem comprometimento de dignidade da pessoa do devedor e de sua família.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu que, não obstante haja previsão jurisprudencial reconhecendo a possibilidade de penhora dos proventos do devedor para saldar dívida, no caso em exame, o recorrente não apresentou provas aptas a justificar situação excepcional que justifique a permisão de constrição da remuneração do recorrido sem comprometer sua subsistência.
+Todavia, analisando os argumentos expostos nas razões do recurso especial, constata-se que o insurgente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso excepcional.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, não conheço do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. PENHORA DOS PROVENTOS DO DEVEDOR. AUSÊNCIA DE COMPROVAÇÃO DA MANUTENÇÃO DA SUBSISTÊNCIA DO EXECUTADO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
