@@ -1,0 +1,34 @@
+DECISÃO
+EDSON VIEIRA FERNANDES agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Tocantins proferido no Recurso em Sentido Estrito n. 0005514-86.2022.8.27.2700.
+No especial, o insurgente aponta violação do art. 155 do CPP. Requer a despronúncia do acusado.
+O especial foi inadmitido na origem por incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+Nas razões do agravo, a defesa argumenta, em síntese, que não pretende a reapreciação fática do conjunto probatório.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+I. Pressupostos de conhecimento do AREsp
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, motivos pelos quais comporta conhecimento.
+II. Admissibilidade do recurso especial
+O especial também satisfaz os requisitos de admissibilidade, fundamento pelo qual conheço do recurso e passo à análise da impugnação.
+III. Contextualização
+O acusado foi pronunciada pela suposta prática do crime descrito no art. 121, § 2º, I e IV, do Código Penal, in verbis (fl. 570):
+DA MATERIALIDADE
+A materialidade delitiva restou comprovada por meio dos Laudosconstantes no Inquérito Policial, a saber: Laudo Necroscópico (Evento 7 -LAUDO1), Laudo de Confronto Balístico (Evento 02 e 37), Laudo de Vistoria emLocal de Homicídio (Evento 24 - LAUDO 3) e Laudo Confronto Balístico deProjéteis (Evento 37 - LAUDO/1).
+DOS INDÍCIOS DE AUTORIA
+Verifica-se que os indícios de autoria delitiva ficaram comprovados.  ..
+Pois bem, analisando os autos de IP apenso, verifico que, em tese, a arma na qual foi supostamente apreendida com o acusado foi à mesma utilizada no crime ora aqui discutido, conforme informações do evento 9. Assim, reforçando a tese já aqui citada, o STJ entende que é possível admitir a pronúncia do acusado com base em indícios derivados do inquérito policial, sem que isso represente afronta ao art. 155 do CPP ( HC n. 402.042/RS, Rel. Ministro Felix Fischer, 5ª T.,DJe 30/10/2017). Diante do exposto, considerando as provas colacionadas aos autos, reputo existirem indícios suficientes de autoria em desfavor do réu EDSONVIEIRA FERNANDES, razão pela qual, em não havendo provas contundentes acerca da inocência, o que resultaria na absolvição sumária, e comprovada a materialidade, a pronúncia do acusado e a apreciação pelo Conselho de Sentença é medida que se impõe.
+A decisão foi mantida pelo Tribunal a quo. Veja-se (fls. 1.032-1.033):
+A materialidade delitiva restou consubstanciada nos laudos constantes no Inquérito Policial, a saber: "Laudo necroscópico (Evento 7 -LAUDO/1, INQUÉRITO POLICIAL Nº 0008342-28.2018.8.27.2722), laudo de confronto balístico (7 Evento 02 e 37 - LAUDO/1, INQUÉRITO POLICIAL Nº0008342-28.2018.8.27.2722), laudo de vistoria em local de homicídio (8Evento 24 - LAUDO/3, INQUÉRITO POLICIAL Nº 0008342-28.2018.8.27.2722) e laudo confronto balística de projéteis (Evento 37 - LAUDO/1, INQUÉRITOPOLICIAL Nº 0008342-28.2018.8.27.2722). No tocante à autoria, os indícios apontam suficientemente para a pessoa do Requerente, na medida em que foi "a arma na qual foi supostamente apreendida com o acusado foi a mesma utilizada no crime ora aqui discutido, conforme informações do evento 9". Foi o que esclareceu o nobre Magistrado ao pronunciar o acusado. (fl. 07 - ev. 01). Tais indícios foram extraídos do Inquérito Policial, e isso não afastada pessoa do acusado as imputações, pois a pretensa alegação de ausência de provas acerca da autoria delitiva só se justificaria nesta fase processual, caso a pronúncia do réu fosse manifestamente injusta, o que não se verifica na espécie. Assim, compete ao Colendo Tribunal do Júri o exame aprofundado dates e de negativa de autoria, mediante análise do conjunto probatório.
+IV. Manutenção da decisão de pronúncia
+A Constituição Federal determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os delitos a eles conexos, conferindo-lhe a soberania de seus veredictos.
+Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+Assim, tem essa fase inicial do procedimento bifásico do Tribunal do Júri o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. O juízo da acusação (judicium accusationis) funciona como um filtro pelo qual apenas passam as acusações fundadas, viáveis, plausíveis e idôneas a serem objeto de decisão pelo juízo da causa (judicium causae).
+Na hipótese, verifico que, três meses após a ocorrência dos fatos descritos nestes autos, o acusado foi preso em flagrante depois de praticar, em tese, quatro homicídios com o mesmo modus operandi que vitimou Daniel, qual seja, "duas pessoas em uma moto com características adulteradas que se aproximavam das vítimas e disparavam contra ela".
+Na ocasião, foi apreendido em poder do recorrente um revólver calibre .38. Realizado o confronto balístico, "o resultado do exame pericial comprovou que a arma apreendida em posse do acusado expeliu os projéteis retirados da vítima": "Em conformidade com as características dos projéteis vistoriados e dos elementos analisados e encontrados através do MICROCOMPARADOR BALÍSTICO DA MARCA LEICA FS M, o perito afirma que os projéteis questionados calibre .38SPL examinados retirados do cadáver de DANIEL PEREIRA DOS SANTOS, foram disparados pelo cano da arma de fogo, apresentada, sendo um revólver da marca ROSSI, CALIBRE 38, com numeração raspada" (fls. 695-696).
+Frise, por oportuno, que a defesa poderia haver impugnado o referido laudo em juízo, inclusive com a indicação de assistentes técnicos, mas não o fez.
+Há, portanto, duas versões nos autos relacionadas à autoria delitiva.
+Não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a pronúncia encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame.
+Com efeito, incumbe aos jurados, no exercício da sua soberana função constitucional, cotejar as provas produzidas e decidir acerca da existência de autoria e materialidade delitivas, bem como da presença das quialificadoras, nos termos do art. 5º, XXXVIII, "d", da CF.
+V. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
