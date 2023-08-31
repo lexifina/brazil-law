@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NILMA NERES DOS SANTOS SILVA contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ, fl. 194):
+AGRAVO INTERNO. PROCESSO CIVIL. APELAÇÃO. NÃO CONHECIMENTO. DIALETICIDADE. AUSÊNCIA.
+1. O princípio da dialeticidade impõe que os fundamentos de fato e de direito expostos na apelação se contraponham ao fundamento adotado pela decisão recorrida.
+2. A ausência de impugnação específica ao fundamento basilar da sentença, impõe o não conhecimento do recurso.
+3. Agravo interno desprovido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 218-229).
+Nas razões do especial (e-STJ, fls. 232-242), a parte recorrente sustentou violação aos artigos 489, § 1º, inciso IV, e 1.022, inciso II, ambos do Código de Processo Civil, apontando que o acórdão impugnado deixou de analisar a tese jurídica da parte insurgente, relacionada à impossibilidade de se vedar a produção de prova testemunhal pleiteada pelo consumidor a fim de se elidir a presunção advinda de cláusula contratual padrão, bem como a existência de enriquecimento sem causa.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 251-252, e-STJ), o que ensejou o manejo do presente agravo (fls. 255-258 , e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. A apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura, haja vista o Tribunal estadual ter fundamentado de modo suficientemente claro as razões pelas quais não conheceu do recurso de apelação - e, consequentemente, porque não houve apreciação do mérito. Assim constou do acórdão (fl. 222-223, e-STJ):
+Verifico que não há omissão a ser sanada no acórdão embargado.
+A análise dos autos em desconformidade com o pretendido pela parte não caracteriza omissão.
+O Colegiado analisou o agravo interno interposto e concluiu que a apelação não impugnou os fundamentos da sentença e as razões do agravo interno se caracterizaram uma tentativa de complementação da apelação, o que não é permitido. Confira-se:
+Destaque-se que é vedada a complementação das razões de apelação, de modo que os novos fundamentos apresentados em agravo interno não podem ser acolhidos para fins de aferição da dialeticidade da apelação. A agravante não formulou devidamente a sua defesa em momento oportuno e deve sofrer as consequências decorrentes da interposição de recurso que não impugnou os fundamentos da sentença.
+O direito da parte à interposição de recursos e submissão da matéria ao duplo grau de jurisdição não é irrestrito e ilimitado, de maneira que encontra limites nos requisitos exigidos para a admissibilidade dos recursos interpostos, dentre eles, a dialeticidade.
+O apontado pela embargante sequer se trata de omissão, mas sim da expressão de seu inconformismo quanto ao resultado do julgamento que lhe foi desfavorável.
+A discordância da embargante quanto à compreensão adotada no acórdão embargado não caracteriza omissão, contradição ou obscuridade, mas sim o intento de rediscussão do julgado pela via inadequada.
+O acórdão se pronunciou sobre todas as questões relevantes, de forma clara e objetiva, porém em contrariedade aos seus interesses.
+A insatisfação da embargante com o resultado do julgamento deve ser objeto dos recursos previstos para essa finalidade, o que não é o caso dos embargos de declaração.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão - situação facilmente constatável no presente caso -, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 1.022 do CPC/15.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO. 1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. 2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO. 1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos. (..) 3. Agravo interno desprovido. (AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
