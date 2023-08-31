@@ -1,0 +1,14 @@
+DECISÃO
+FABIANA SOUZA GARCIA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro no Agravo em Execução n. 5008711-87.2022.8.19.0500.
+Extrai-se dos autos que, após trânsito em julgado de condenação no regime semiaberto, foi expedido contra a ora paciente mandado de prisão para o início do cumprimento da pena.
+Nas razões desta impetração, a defesa pugna pelo recolhimento do referido mandado, com a intimação pessoal, nos termos do art. 23 da Resolução n. 417 do CNJ. Afirma que a apenada já cumpriu 31% da pena, que faz jus à progressão ao regime aberto, mostrando-se desnecessária e desproporcional a medida.
+Requer, assim, seja determinada "a intimação pessoal da Paciente para dar o início do cumprimento da pena, recomendando que o Juízo da Execução observe o possível direito de progressão para o regime aberto, antes de determinar o encarceramento da Paciente" (fl. 7).
+Decido.
+Não se verifica a ilegalidade aventada. Infere-se dos autos que "a ora agravante foi condenada pela prática do crime de furto, a uma reprimenda totalizada em 01 (um) ano, 04 (quatro) meses e 24 (vinte e quatro) dias-multa, em regime semiaberto; com o trânsito em julgado, aos 16/07/2020" (fl. 36). A prisão preventiva foi substituída por prisão domiciliar monitorada, desde 2018.
+O acórdão ora vergastado, ainda que esclareceu que "com o trânsito em julgado da sentença condenatória, aos 16/07/2020, a ilustre Magistrada da VEP determinou a expedição do competente mandado de prisão, em desfavor da ora agravante, para que iniciasse o cumprimento da sua reprimenda, no regime semiaberto" (fl. 36).
+Concluiu, então, a Corte local que "a expedição de mandado de prisão, para cumprimento da pena, decorre do trânsito em julgado, cabendo ressaltar, há quase 03 (três) anos, sem que a ora agravante tivesse comparecido espontaneamente para iniciar o cumprimento da pena" (fl. 37).
+Além disso, não se verifica ilegalidade patente, a ensejar a concessão de ordem de ofício, pois, em termos análogos, "nos termos da jurisprudência desta Corte Superior, não há necessidade de prévia oitiva do reeducando para a regressão cautelar de regime prisional. Precedentes" (AgRg no HC n. 778.102/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022).
+Para dar início à execução, faz-se necessária a prisão da apenada, que, ciente da ação penal (participou do processo de conhecimento e obteve a liberdade provisória), se esquiva de cumprir a pena. Sem essa providência, nem sequer é possível realizar audiência de justificação, uma vez que o regime aberto e o semiaberto não comportam a expedição de mandado de prisão (Resolução n. 474, de 9/9/2022, do CNJ), apenas nova intimação para se apresentar ao Juiz da VEC (art. 23 da Resolução nº 417 de 20/09/2021).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
