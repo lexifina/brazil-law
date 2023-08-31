@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravos interpostos por TRANSLAGUNA ARMAZENAGEM E TRANSPORTES EIRELI e pela FAZENDA NACIONAL, em que impugnam decisões de inadmissão dos respectivos recursos especiais manejados contra acórdão assim ementado (e-STJ fl. 160):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕESPREVIDENCIÁRIAS. PATRONAL. SAT/RAT. TERCEIROS. TEMA 20. RE565. ABONO DE FALTAS POR ATESTADO MÉDICO. 160. REPETIÇÃODO INDÉBITO PELA VIA DA RESTITUIÇÃO.1. No julgamento do RE 565.160 - Tema 20, o STF não esclareceu quais parcelas deveriam ser excluídas da base de cálculo da contribuição previdenciária patronal porque isso é matéria de natureza infraconstitucional.
+2. Como compete ao STJ a interpretação da legislação federal, a legitimidade da incidência da contribuição previdenciária patronal deve ser analisada em conformidade com a jurisprudência daquela Corte.
+3. Incide contribuição previdenciária sobre faltas justificadas/atestados médicos.
+4. O entendimento acima delineado aplica-se às contribuições ao SAT/RAT e Terceiros, uma vez que a base de cálculo destas também é a mesma.
+A empresa, em seu recurso especial, indica violação do art. 22, I, da Lei n. 8.212/1991 e alega que não incide contribuição previdenciária patronal e contribuições devidas a terceiros sobre abono de faltas por atestado médico.
+A Fazenda Nacional, por sua vez, aponta ofensa aos arts. 489, § 1º, 535 e 1.022, II, do CPC/2015, 10 da Lei Complementar n. 101/2000, 67 da Lei n. 4.320/1964 e 66 da Lei n. 8.383/1991.
+Sustenta a nulidade do acórdão recorrido por negativa de prestação jurisdicional e, no mérito, defende que "a restituição administrativa de créditos reconhecidos judicialmente constitui-se assim, com o devido respeito, verdadeira burla ao sistema e à ordem dos precatórios" (e-STJ fl. 243).
+Passo a decidir.
+O Supremo Tribunal Federal, nos autos do RE 1.420.891 (Tema 1.262), relatora a Ministra Presidente Rosa Weber, em julgamento submetido ao rito da da repercussão geral, adotou a seguinte tese jurídica: "Não se mostra admissível a restituição administrativa do indébito na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal."
+Encontrando-se o tema afetado à repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
