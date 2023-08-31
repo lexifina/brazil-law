@@ -1,0 +1,126 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000786-85.2022.8.08.0002
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: APPLE COMPUTER BRASIL LTDA
+RECORRIDO: VINICIUS PAVESI LOPES
+RELATOR(A):
+PAULO ABIGUENEM ABIB
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+PRESSUPOSTOS DE ADMISSIBILIDADE
+
+Tem-se Recurso Inominado contra sentença. O Recurso é cabível e tempestivo. Preenchidos os pressupostos de admissibilidade, recebo o recurso no regular efeito previsto no art. 43 da Lei 9.099/95.
+
+RELATÓRIO
+
+Cuida-se de ação ajuizada por VINICIUS PAVESI LOPES em face de APPLE COMPUTER BRASIL LTDA, por meio da qual alega, em síntese, ter adquirido um telefone celular IPHONE 13, no valor de R$ 5.300,00, em junho de 2022, fabricado pela Requerida, o qual veio desacompanhado de carregador USB-C necessário para carregar o produto, pretendendo, em virtude disso, a condenação da Requerida ao fornecimento do referido acessório, além de indenização por danos morais.
+
+A r. Sentença JULGOU PROCEDENTES os pedidos autorais, para condenar a Requerida, ora Recorrente, (i) a fornecer carregador compatível com o aparelho adquirido pela Requerente, sob pena de multa diária; e (ii) a pagar indenização por danos morais, no valor de R$ 2.000,00.
+
+Irresignada, a Recorrente apresentou Recurso Inominado pretendendo a reforma da r. Sentença, sob alegação de (i) ilegitimidade ativa
+ad causam
+, ante a ausência de nota fiscal; (ii) inexistência de venda casada ou prática abusiva, pois, em suma, o carregador não é essencial ao funcionamento do celular, que pode ser carregado de outras formas, sendo lícito ao consumidor, ainda, adquirir carregador de outros fabricantes; (iii) não configuração de danos morais.
+
+Verifica-se que foram apresentadas as contrarrazões recursais, rebatendo a irresignação recursal.
+
+É o breve relatório. Passo a decidir.
+
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Inicialmente, a parte Recorrente pugna pela atribuição de efeito suspensivo ao recurso, sob a alegação de risco de danos irreversíveis, no caso de ser obrigada ao fornecimento do item pretendido pelo Requerente.
+
+Não vislumbro, todavia, a comprovação do prejuízo de dano irreparável alegado, notadamente em vista da invejável saúde e solidez financeira da ora Recorrente e da responsabilidade do exequente pela execução provisória em caso de reforma da sentença (art. 520, I e II, do CPC), inexistindo, assim, razões para excepcionar a regra prevista no artigo 43 da Lei 9.099/95, motivo pelo qual recebo o
+recurso apenas em seu efeito devolutivo.
+
+Ato contínuo, alega a Recorrente preliminar de ilegitimidade ativa
+ad causam
+, ante a ausência de nota fiscal que comprove a aquisição do produto pelo Requerente.
+
+Conquanto a nota fiscal seja, em tese, o documento comprobatório da aquisição do telefone celular junto à Requerida, entendo que, com base na teoria da asserção, é possível vislumbrar a pertinência subjetiva do ora Recorrido à demanda, uma vez que afirma ter adquirido o produto no site da Recorrente, fato este que poderia ter sido facilmente elidido pela Recorrente, por meio do registro que possui das compras realizadas diretamente em seu sítio eletrônico.
+
+Assim, ante a ausência da produção da referida prova pela parte que dispõe de meios mais fáceis e acessíveis para tanto, e em homenagem à teoria da asserção
+
+e ao direito de acesso à justiça facilitado ao consumidor, sujeito vulnerável e dotado de menor disponibilidade de meios de prova (art. 4º, I c/c 6º, VIII, do CDC),
+rejeito a preliminar de ilegitimidade ativa
+ad causam
+.
+
+No
+mérito
+, analisando detidamente a irresignação recursal e o acervo fático-probatório dos autos, entendo que a r. Sentença merece reforma.
+
+De início, saliento que a relação jurídica estabelecida entre as partes configura relação de consumo, sendo o Requerente consumidor-destinatário final (art. 2º, do CDC) e a Requerida fornecedora de produto (art. 3º, caput e §1º do CDC), tendo por objeto telefone celular IPHONE 13 (produto) o que atrai a incidência do Código de Defesa do Consumidor à resolução da controvérsia.
+
+Nesse sentido, cumpre destacar que o sistema de responsabilidade civil adotado pelo CDC é de natureza objetiva, fundando-se na teoria do risco da atividade, o que implica dizer que, uma vez demonstrada a existência de dano e o nexo de causalidade, impõe-se ao fornecedor o dever de indenizar, independentemente de exame sobre o elemento subjetivo (CDC, art. 6º, VI e arts. 12 a 25).
+
+Cinge-se a presente controvérsia a perquirir o direito do Requerente, na condição de consumidor, de exigir da Requerida, ora Recorrente, o fornecimento de carregador empregado no carregamento do produto adquirido (IPHONE 13).
+
+Como é de conhecimento geral, a Requerida passou a vender seus novos aparelhos celulares acompanhados tão somente de cabo de recarga com a entrada
+lightning
+(que encaixa no aparelho), motivo pelo qual o Requerente, ora Recorrido, ajuizou ação afirmando a ocorrência de venda casada, pugnando pela condenação da Requerida à entrega de carregador compatível com o aparelho, bem como indenização por danos morais.
+
+Pois bem. Nos termos do art. 39, I, do CDC, venda casada é "condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos".
+
+No mesmo sentido, o artigo 36, § 3º, XVIII, da Lei n.º 12.529/11, conceitua tal prática como "subordinar a venda de um bem à aquisição de outro ou à utilização de um serviço, ou subordinar a prestação de um serviço à utilização de outro ou à aquisição de um bem".
+
+Diante do exposto, importa dizer que o conector USB-C não foi criado pela empresa Recorrente, e sequer é plug exclusivo dos seus produtos. Trata-se apenas de uma nova versão da entrada USB, que é, inclusive, utilizada por outros fabricantes em outros aparelhos.
+
+Observo, a partir de uma simples busca na internet, que há diversas ofertas de carregadores com entradas USB-C, de 20W, por variados preços, vendidos tanto pela Requerida quanto por outros fabricantes, o que significa dizer que o consumidor não está obrigado a adquirir produto de fabricação exclusiva da requerida para carregar a bateria do aparelho celular.
+
+Ademais, é possível conectar o cabo à entrada USB-C de um computador ou utilizar carregadores sem fio de qualquer marca, estando assegurada a liberdade de escolha por parte do consumidor.
+
+Há que se destacar, ainda, que diversos outros aparelhos são vendidos apenas com cabo de recarga, com conector USB A ou USB C e sem o adaptador de tomada; um exemplo é o aparelho de leitura Kindle, que é vendido apenas com cabo de recarga com conector do tipo USB A, desde o ano de 2012.
+
+Em casos como o presente, portanto, fica a critério do consumidor adquirir o adaptador de tomada da marca que desejar, ou mesmo utilizar algum que já possua, o que se mostra usual, diante da grande quantidade de dispositivos que utilizam carregadores com conexão USB.
+
+Em conclusão, considerando que não se mostra imprescindível para utilização do aparelho que o consumidor adquira um carregador de tomada fabricado ou comercializado exclusivamente pela ré, não resta caracterizada a venda casada alegada pelo Recorrido.
+
+Por fim, também importa dizer não ter ficado demonstrado falha no dever de informação, por parte da Requerida, acerca do produto adquirido pelo Requerente.
+
+Em consulta ao sítio eletrônico da Requerida, onde o Requerente adquiriu o produto, observo que há informação ostensiva sobre o conteúdo da caixa, que abrange apenas o telefone celular e o cabo
+lightning
+(
+https://www.apple.com/br/shop/buy-iphone/iphone-13
+)
+
+Vê-se também que a embalagem em que é vendido o aparelho celular menciona expressamente que o adaptador de tomada e os fones de ouvido são vendidos separadamente, como o próprio Recorrido reconhece, em sua petição inicial.
+
+Dessa forma, é notório que o consumidor estava ciente do produto que estava adquirindo, sendo lícito ao fornecedor vender o produto sem itens acessórios, que podem, inclusive, ser comprados, por opção do consumidor, com outros fabricantes.
+
+Nesse contexto, não incorrendo a Requerida em venda casada ou prática abusiva, e tampouco se inferindo falha no dever de informação, não há razões para sua condenação ao fornecimento do item pretendido ou mesmo ao pagamento de indenização por danos morais, diante também da ausência de dano e nexo causal.
+
+Do exposto,
+
+conheço
+
+o Recurso Inominado interposto e, no mérito, dou-lhe provimento, para reformar a r. Sentença e julgar improcedente a pretensão autoral. Sem custas e honorários, ante o provimento do recurso (art. 55, da Lei 9.099/95).
+
+RAFAEL DE OLIVEIRA LIMA
+
+Juiz Leigo
+
+O Sr. Juiz de Direito Relator Dr. PAULO ABIGUENEM ABIB
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO a minuta
+de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
