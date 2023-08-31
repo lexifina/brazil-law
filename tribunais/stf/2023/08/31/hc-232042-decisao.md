@@ -1,0 +1,127 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE ROUBO MAJORADO E DE EXTORSÃO. ARTIGOS 157, § 2º, I, II E V, E 158, § 1º, DO CÓDIGO PENAL. PRETENSÃO DE REDISCUSSÃO DOS CRITÉRIOS DE DOSIMETRIA DA PENA. FUNDAMENTAÇÃO IDÔNEA PELAS INSTÂNCIAS ORDINÁRIAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º do RISTF.
+
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça nos autos do HC nº 778.386, assim ementado:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISUALIZADA. RECURSO NÃO CONHECIDO.
+
+    1. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+
+    2. Hipótese em que o Agravante não impugnou o fundamento, consignado na decisão agravada, quanto à incognoscibilidade do habeas corpus impetrado durante o prazo para a interposição do recurso cabível com superveniente trânsito em julgado da condenação originária.
+
+    3. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, ‘[n]a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada’.
+
+    4. Manifesta ilegalidade não configurada. Descabimento de concessão de ordem ex officio.
+
+    5. Incabível o pleito de afastamento do concurso formal de extorsões, pois ‘[n]ão se conhece de pedido formulado pela parte de forma solta, sem a correspondente fundamentação jurídica’ (HC n. 607.602/PE, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021).
+
+    6. Se praticada a subtração patrimonial, mediante violência ou grave ameaça, o autor ainda constrange a vítima a fornecer o cartão bancário e a senha deste, ficam configurados, respectivamente, os delitos de roubo e extorsão em concurso material, razão pela qual não há se falar em crime único. Precedentes. Para acolher a tese defensiva de que a Ré não ‘tinha pleno conhecimento e a intenção de violar patrimônios distintos (dolo específico)’ seria imprescindível incursionar verticalmente no acervo probatório, providência de todo incompatível com a estreita via de habeas corpus.
+
+    7. Consoante remansosa jurisprudência deste Sodalício, não há continuidade delitiva entre roubo e extorsão, tendo em vista que se tratam de crimes de espécie diferentes.
+
+    8. A premeditação do delito e o trauma causado à vítima – que não se confunde o mero abalo passageiro –, são fatores hábeis a justificar a exasperação da pena-base. As circunstâncias do crime revelaram-se extremamente gravosas, porquanto a ofendida foi subjugada e interceptada por meio de palavras e xingamentos quando se encontrava no interior do seu veículo em plena via pública e à luz do dia. O modus operandi empregado pelos agentes desborda sobremaneira do comum. A vítima foi submetida a verdadeiro terror psicológico: ‘foi ameaça pelo acusado, que dizia que iria amarrá-la e torturá-la’ e a Agravante também teria dito que ‘iria 'quebrar a cara' da vítima, pois não havia conseguido efetuar o saque’. Em dado momento ‘os réus discutiram se iriam matar a vítima, mas acabaram por liberá-la em uma favela’. Tais peculiaridades, de fato, reclamam apenamento mais rigoroso, não havendo se falar em circunstâncias próprias dos tipos penais.
+
+    9. No caso, foram três as majorantes que incidiram na derradeira etapa da dosimetria (concurso de pessoas, restrição à liberdade da vítima e emprego de arma de fogo), tendo, as instâncias ordinárias, elevado a pena em 5/12 (cinco doze avos), considerando, além da extrema gravidade do delito, o longo tempo de restrição à liberdade da vítima (mais de uma hora), o que justifica a aplicação de fração de aumento superior à mínima.
+
+    10. Agravo regimental não conhecido.”
+
+    Colhe-se dos autos que a paciente foi condenada à pena de 13 (treze) anos e 09 (nove) meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos artigos 157, § 2º, I, II e V, e 158, § 1º, do Código Penal.
+
+    Em sede de apelação, o Tribunal de origem deu provimento ao recurso do Ministério Público para “reconhecer dois delitos de extorsão, em concurso formal (por duas vezes, na forma do artigo 70, do Código Penal), e fixar a pena de 14 (quatorze) anos, 10 (dez) meses e 10 (dez) dias de reclusão, mais o pagamento de 34 (trinta e quatro) dias-multa, mantida, no mais, a r. sentença, por seus jurídicos fundamentos”.
+
+    Irresignada, a defesa manejou habeas corpus, o qual não foi conhecido pelo Superior Tribunal de Justiça.
+
+    Ato contínuo, foi interposto agravo regimental, cujo provimento foi negado nos termos da ementa supratranscrita.
+
+    No presente mandamus, a defesa aponta constrangimento ilegal consubstanciado na dosimetria da pena.
+
+    Argumenta que “a menção genérica às circunstâncias judiciais desfavoráveis sem fundamentação concreta não caracteriza fundamento idôneo para aumentar as penas-base, pois necessário comprovar, de maneira objetiva, a reprovabilidade que extrapola a margem de risco social coberto pelo tipo penal”.
+
+    Ainda, aduz que “na terceira fase de aplicação das penas, o aumento deve se dar na fração mínima legal de 1/3 (um terço), que se apresenta como adequada, razoável e suficiente, bem como porque conforme jurisprudência sedimentada do C. STJ, a mera presença de mais de uma majorante no crime de roubo não é justificativa idônea para a exasperação da sanção em patamar acima do mínimo previsto, não havendo, no caso concreto, peculiaridades que justifiquem a necessidade de acréscimo maior”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Diante do exposto, requer seja CONHECIDO O PRESENTE WRIT, uma vez verificado o constrangimento ilegal experimentado pelos Pacientes, com a CONCESSÃO ORDEM DE HABEAS CORPUS, para que sejam reduzidas as absurdas penas aplicadas à Paciente, nos termos acima expostos.”
+
+    É o relatório. DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] Quanto à pena-base, o Juízo Sentenciante declinou a seguinte fundamentação, mantida, integralmente, pela Corte local, in verbis (fls. 89-90; grifos diversos do original):
+
+    [...]
+
+    Com efeito, não há manifesta ilegalidade no incremento da sanção basilar.
+
+    Ao analisar as circunstâncias do delito, o Magistrado processante destacou que o grande planejamento da empreitada delitiva (premeditação), e, de fato, consoante jurisprudência desta Corte, ‘[a] premeditação ressalta a maior gravidade do modus operandi, sendo razão ordinariamente aceita para elevação da reprimenda’ (AgRg no HC 697.666/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/02/2022, DJe 25/02/2022; se grifos no original).
+
+    Com idêntica conclusão, confira-se: AgRg no HC n. 734.586/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no AREsp n. 1.791.358/MS, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021; AgRg no AREsp n. 1.707.860/TO, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 22/6/2021, DJe de 30/6/2021 e AgRg no AREsp n. 1.356.423/TO, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/6/2019, DJe de 28/6/2019, v.g.
+
+    Frise-se, ainda, que o ‘trauma causado à vítima, que não se confunde com mero abalo passageiro, também é elemento hábil a justificar a avaliação negativa do vetor consequências do crime’ (AgRg no HC n. 785.572/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023).
+
+    No mesmo diapasão: AgRg no REsp n. 1.979.499/MT, relator Ministro JESUÍNO RISSATO – Desembargador Convocado do TJDFT –, Quinta Turma, julgado em 19/4/2022, DJe de 3/5/2022; AgRg no HC n. 682.459/SC, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021.
+
+    No caso, o Magistrado de Primeiro Grau entendeu como gravosas as consequências, ressaltando que a ‘vítima [...] descreveu o trauma sofrido e as alterações emocionais e na sua sensação de segurança, bem como de sua família, em decorrência da enorme violência a que foi submetida’. Portanto, trata-se de fator hábil a legitimar o aumento da básica.
+
+    Ademais, as circunstâncias do crime revelaram-se extremamente gravosas, porquanto a ofendida foi subjugada e interceptada por meio de palavras e xingamentos quando se encontrava no interior do seu veículo em plena via pública e à luz do dia. A propósito:
+
+    [...]
+
+    Não há como olvidar, ainda, que o modus operandi empregado pelos agentes desborda sobremaneira do comum. A vítima foi submetida a verdadeiro terror psicológico; ‘foi ameaça pelo acusado, que dizia que iria amarrá-la e torturá-la’ (fl. 83); a Agravante também teria dito que ‘iria 'quebrar a cara' da vítima, pois não havia conseguido efetuar o saque’ (ibidem ). Outrossim, em dado momento ‘os réus discutiram se iriam matar a vítima, mas acabaram por liberá-la em uma favela’ (fl. 84). Tais peculiaridades, de fato, reclamam apenamento mais rigoroso, não havendo se falar em circunstâncias ‘próprias dos tipos penais’ como argumenta a zelosa Defesa.
+
+    De outro vértice, destaco que o parágrafo único do art. 68 do Código Penal (‘[n]o concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua’) confere ao juiz, no caso de concurso de causas de aumento previstas na parte especial, a faculdade – e não o dever – de fazer incidir a causa que mais aumente a pena, excluindo as demais.
+
+    Com efeito, conforme magistério jurisprudencial do Supremo Tribunal Federal, ‘a previsão legal do art. 68, parágrafo único, do Código Penal, estabelece, sob o ângulo literal, apenas uma 'possibilidade de atuação nesse sentido'. O argumento de que se cuida de um dever carece de fundamento textual, bem como não ostenta qualquer plausibilidade sistemática ou teleológica, sobretudo porque é evidente o maior desvalor da ação daquele agente cuja conduta se amolda a mais de uma causa de aumento de pena, a denotar a necessidade de reprimenda mais vigorosa’ (HC 110.960, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/08/2014, DJe 23/09/2014).
+
+    No entanto, se o Magistrado sentenciante concluir tratar-se de hipótese de incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos que evidenciem o maior grau de reprovação da conduta e, em consequência, a necessidade de sanção mais rigorosa (AgRg no HC 679.706/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/11/2021, DJe 12/11/2021 e AgRg no HC 698.440/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/10/2021, DJe 25/10/2021; v.g.).
+
+    In casu, foram três as majorantes que incidiram na derradeira etapa da dosimetria (concurso de pessoas, restrição à liberdade da vítima e emprego de arma de fogo), tendo as instâncias ordinárias elevado a pena em 5/12 (cinco doze avos), considerando, além da extrema gravidade do delito, o longo tempo de restrição à liberdade da vítima (mais de uma hora).
+
+    O referido aumento não se mostra desarrazoado. Com efeito, consoante pacífica jurisprudência desta Corte ‘[o] número de agentes, quando superior ao mínimo para a configuração do concurso de agentes, assim como a longa duração da restrição da liberdade da vítima, servem como fundamento para que o aumento da pena se dê em fração superior à mínima prevista na lei, sendo, portanto, fundamento apto a manter a incidência cumulativa das causas de aumento referentes à comparsaria, ao emprego de arma de fogo e à restrição da liberdade da vítima’ (AgRg no HC n. 705.554/MS, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022). Com igual conclusão: AgRg no HC n. 552.421/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 1/6/2021, DJe de 9/6/2021; AgRg no HC n. 676.447/SC, relator Ministro OLINDO MENEZES, Desembargador Convocado do TRF 1.ª Região, Sexta Turma, julgado em 16/11/2021, DJe 19/11/2021; AgRg no REsp n. 1.922.634/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/09/2021, DJe 17/09/2021.
+
+    Para aplicar pena mais gravosa na última etapa da dosimetria, a Jurisdição Ordinária parece não ter feito mera remissão ao número de majorantes, o que seria vedado pela Súmula n. 443/STJ. Tampouco valeu-se apenas de elementos inerentes ao tipo e corriqueiros em crimes dessa natureza, mas sim indicou, concretamente, as peculiaridades do caso que tornaram imperiosa a sanção mais rigorosa.
+
+    Cabe destacar que, ‘[a] teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais’ (AgRg no HC n. 644.572/SP, relator Ministro NEFI CORDEIRO , Sexta Turma, julgado em 09/03/2021, DJe 15/03/2021; sem grifos no original). Portanto, havendo motivação suficiente para a aplicação cumulada de causas de aumento de pena previstas na Parte Especial do Código Penal, não observo a presença de manifesta ilegalidade a reclamar a concessão da ordem ex officio.
+
+    Não acolhido o pedido principal, fica prejudicado o exame do pedido sucessivo (abrandamento do regime inicial), formulado apenas como decorrência de eventual redução da reprimenda para patamar inferior a oito anos de reclusão.
+
+    Assim, considerando-se, notadamente, que o agravo não impugna, especificamente, todos os fundamentos consignados na decisão recorrida e, ainda, a ausência de flagrante ilegalidade no caso em comento, entendo que deve ser mantido incólume o decisum impugnado.
+
+    Ante o exposto, NÃO CONHEÇO do recurso.”
+
+    Deveras, como se depreende da fundamentação da decisão do juízo a quo, a dosimetria da pena foi realizada com base em fatos e elementos existentes no caso in concreto.
+
+    Na hipótese sub examine, o juízo valorou as circunstâncias relativas ao contexto delitivo apresentando fatos concretos a embasar a conclusão, tendo o Tribunal a quo destacado que “as circunstâncias do crime revelaram-se extremamente gravosas”, além de apontar “o grande planejamento da empreitada delitiva”, as “gravosas as consequências” e “o modus operandi empregado pelos agentes desborda sobremaneira do comum”. Ainda, a Corte Superior consignou que “foram três as majorantes que incidiram na derradeira etapa da dosimetria (concurso de pessoas, restrição à liberdade da vítima e emprego de arma de fogo), tendo as instâncias ordinárias elevado a pena em 5/12 (cinco doze avos), considerando, além da extrema gravidade do delito, o longo tempo de restrição à liberdade da vítima (mais de uma hora)”.
+
+    Com efeito, consigno que o Supremo Tribunal Federal fixou entendimento no sentido de que “a dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do habeas corpus, por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC 114.650, Primeira Turma, Rel. Min. Luiz Fux, DJe de 14/08/2013). Nesse sentido, o seguinte julgado:
+
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA DA PENA. 1. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (HC 109.956, Rel. Min. Marco Aurélio; e HC 104.045, Rel.ª Min.ª Rosa Weber). 2. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (RHC119.605-AgR, Rel. da minha relatoria; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Rel.ª Min.ª Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). 3. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence). 4. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que, “Se instâncias ordinárias concluíram que o ora agravante se dedicava à atividade criminosa para negar a incidência da causa especial de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, para se chegar a conclusão diversa, necessário seria o reexame de fatos e provas, o qual o habeas corpus não comporta. Não há que se falar em bis in idem, pois, embora haja simples referência à quantidade de droga apreendida, ela não foi um fator preponderante na negativa de aplicação da causa especial de redução de pena prevista no art. 33, § 4º, da Lei 11.343/06, já que se entendeu, em razão das circunstâncias em que foi praticado o delito, que o agravante se dedicava à atividade criminosa, o que, por si só, obsta a incidência do redutor de pena pretendido” (HC 136.177-AgR, Rel. Min. Dias Toffoli). 5. Agravo regimental a que se nega provimento. (HC 141.167-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/6/2017)
+
+    Outrossim, cumpre ressaltar que esta Corte sufraga o entendimento de que o habeas corpus é a via inadequada para um juízo de ponderação sobre a suficiência das circunstâncias judiciais valoradas pelas instâncias antecedentes para majorar a pena-base. Nessa linha, in verbis:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. INVIABILIDADE DE REEXAME DOS FUNDAMENTOS APONTADOS PELO JUIZ NATURAL DA CAUSA A PARTIR DO SISTEMA TRIFÁSICO. PENA-BASE ADEQUADA E PROPORCIONAL AO CASO EM APREÇO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A orientação jurisprudencial desta Suprema Corte firmou-se no sentido de que somente em situações excepcionais é admissível o reexame dos fundamentos da dosimetria da pena fixada pelo juiz natural da causa a partir do sistema trifásico, sendo certo que o quantum de pena-base fixado (3 anos de reclusão) ao crime em questão, num intervalo de 2 a 8 anos, encontra-se proporcional ao caso em apreço. II – É assente que não se pode utilizar “o habeas corpus para realizar novo juízo de reprovabilidade, ponderando, em concreto, qual seria a pena adequada ao fato pelo qual condenado o Paciente”. (HC 94.655/MT, Rel. Min. Cármen Lúcia). Precedentes. III – Agravo regimental a que se nega provimento. (RHC 219.891-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 21/10/2022)
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE ORGANIZAÇÃO CRIMINOSA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PLEITO DE ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DOSIMETRIA. FUNDAMENTAÇÃO CONCRETA. BIS IN IDEM. INOCORRÊNCIA. RESULTADO DOSIMETRÍCO PROPORCIONAL. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. A orientação jurisprudencial desta Corte é sentido de que, para acolher a tese de absolvição, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. 4. Exasperação da pena-base estabelecida dentro da margem de discricionariedade permitida ao julgador e cuja resultante não teve desfecho flagrantemente desproporcional. 5. Na linha da jurisprudência desta Suprema Corte, é a ponderação das circunstâncias elementares do tipo de forma simultânea à dosagem da pena-base que configura ofensa ao princípio do non bis in idem . Precedentes. 6. Inviável, como regra, a reavaliação das premissas fáticas ou a glosa de modelos de fixação da pena empregados pelos órgãos julgadores, ligados a aspectos discricionários da atividade dosimétrica. Precedentes. 7. Agravo regimental conhecido e não provido. (HC 218.217-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 20/9/2022)
+
+    Demais disso, há que se reconhecer que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, sujeita à revisão apenas em casos de flagrante teratologia, ilegalidade ou abuso de poder. Nesse sentido o HC nº 132.475, de relatoria da Min. Rosa Weber, Primeira Turma, DJe de 23/8/2016:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE. AFASTAMENTO DA MINORANTE DO ARTIGO 33, § 4º, DA LEI 11.343/2006. 1. Contra a denegação de habeas corpus por Tribunal Superior prevê a Constituição Federal remédio jurídico expresso, o recurso ordinário. Diante da dicção do art. 102, II, a, da Constituição da República, a impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional. 2. A jurisprudência deste Supremo Tribunal Federal no sentido de que “não se conhece de habeas corpus em que se reitera a pretensão veiculada em writ anteriormente impetrado” (HC 112.645/TO, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012). 3. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Pertinente à dosimetria da pena, encontra-se a aplicação da causa de diminuição da pena objeto do § 4º do art. 33 da Lei 11.343/2006. 4. Na hipótese, adequada a exasperação da pena-base acima do mínimo legal dada 'a expressiva quantidade de droga apreendida – 57 kg de maconha'. 5. A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. 6. Agravo regimental conhecido e não provido.
+
+    Impende consignar, por fim, que não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º do RISTF.
+
+    Publique-se.
+
+    Brasília, 31 de agosto de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
