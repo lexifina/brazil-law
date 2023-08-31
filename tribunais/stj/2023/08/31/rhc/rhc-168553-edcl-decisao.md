@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEONARDO FAGUNDES FERREIRA contra decisão de minha lavra, fls. 160/169, na qual neguei provimento ao presente recurso em habeas corpus, com fundamento no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça - STJ.
+Nos presentes aclaratórios, o embargante aponta omissão na decisão, uma vez que teria deixado de se pronunciar sobre a inconstitucionalidade do tipo penal por falta de apreciação do juízo recorrido, evitando-se incorrer em supressão de instância. Entretanto, as teses foram levadas aos juízos anteriores, porém só não foram examinadas.
+Assim, requer sejam examinadas as alegações de "a) inconstitucionalidade da Lei n. 8.137/90; b) violação dos princípios da reserva legal, da legalidade estrita, da fragmentariedade e do promotor natural; c) desproporcionalidade da pena em abstrato cominada ao tipo penal; d) nulidade do título que constituiu o crédito tributário; e) inadequação típica da conduta imputada ao recorrente" (fl. 175).
+Aponta, ainda, omissão quanto à competência em razão do local da infração, sustentando que "a Comarca de Teófilo Otoni não é competente para julgar um crime material cujo resultado só possa ter ocorrido em Gov. Valadares, porque é lá que fica a agência fiscal de fiscalização tributária onde tramitou o PAF e vítima da sonegação" (fl. 176).
+Aponta, por fim, omissão quanto à individualização das condutas e dos crimes praticados quanto à qualidade, quantidade e tempo.
+Pugna pelo acolhimento dos embargos para sanar as omissões apontadas.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso dos autos, a decisão embargada não ostenta nenhum dos aludidos vícios, tendo sido clara no sentido de que a análise das teses de "a) inconstitucionalidade da Lei n. 8.137/90; b) violação dos princípios da reserva legal, da legalidade estrita, da fragmentariedade e do Juiz natural; c) desproporcionalidade da pena em abstrato cominada ao tipo penal; d) nulidade do título que constituiu o crédito tributário; e) inadequação típica da conduta imputada ao recorrente e f) prescrição da pretensão punitiva estatal" importa em indevida supressão de instância, uma vez que não foram apreciadas pelo Tribunal de origem.
+Ademais, as demais teses apontadas como omissas nos presentes aclaratórios - competência em razão do local e individualização das condutas e dos crimes praticados - , também não foram apreciadas pelo Tribunal a quo, ficando esta Corte Superior impedida de manifestar sobre as teses, sob pena de incidir em indevida supressão de instância. As matérias devem ser arguidas no momento oportuno e perante o juízo competente, no seio do indispensável contraditório.
+Ressalta-se que não se deve olvidar que o juiz não está obrigado a responder todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar o seu decisório, nem se obriga a ater-se aos fundamentos indicados por elas e, tampouco a responder um a um todos os seus argumentos.
+Assim, o que se verifica, in casu, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. LOCAÇÃO. FIANÇA. INEXISTÊNCIA DE VÍCIO A SER SANADO. FUNDAMENTAÇÃO SUFICIENTE. INCONFORMISMO COM O RESULTADO DO JULGAMENTO. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional. Na hipótese em apreço, está evidenciado o intuito dos embargantes em rediscutir a matéria já integralmente decidida pelo aresto embargado, o que não se admite nos estreitos limites do art. 535 do Código Processo Civil - CPC.
+Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 954.305/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 14/06/2016).
+Ante o exposto, com fundamento no art. 264, §1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intime -se.
+EMENTA
