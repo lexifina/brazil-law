@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAFAEL VINICIUS DA SILVA com fundamento no art. 105, inciso III, alíneas a, da Constituição da República, contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais prolatado no julgamento da Apelação Criminal n. 1.0000.22.059347-9/001.
+Consta dos autos que o Agravante foi condena do, como incurso no art. 33, caput, da Lei n. 11.343/06, a 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e 777 (setecentos e setenta e sete) dias-multa (fls. 214-215), pela apreensão de 31,56g (trinta e um gramas e cinquenta e seis centigramas) de maconha; e 8,80g (oito gramas e oitenta centigramas) de cocaína; sacolas plásticas; R$ 1290,00 (mil e duzentos e noventa reais) e uma balança de precisão (fls. 204, 210 e 323).
+O Tribunal de origem negou provimento à apelação defensiva (fls. 311-328).
+No recurso especial, a Defesa aponta violação aos arts. 157, § 1.º, e 245, ambos do Código de Processo Penal (fl. 348), alegando condenação com suporte em provas ilegais porque obtidas mediante violação de domicílio (fls. 348-357).
+As contrarrazões foram apresentadas às fls. 362-366.
+O recurso especial foi admitido pelo Tribunal de origem (fls. 369-374).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 390-391).
+É o relatório. Decido.
+O Tribunal de justiça de origem superou a tese de violação de domicílio nestes termos (fls. 312-314, grifei):
+"PRELIMINAR
+- Nulidade do processo - Prova Ilícita (Violação de Domicílio)
+Requer a Defesa a Nulidade das provas obtidas na busca realizada na residência do Apelante, durante o Flagrante, com a consequente extinção do feito, sem resolução de mérito.
+Aduz, nesse sentido, a ocorrência de Violação de Domicílio, haja vista a ausência de justa causa para o ingresso no imóvel pelos Militares, assim como a inexistência de comprovação de autorização para entrada na residência. Argumenta, ainda, não estar configurada situação de flagrância.
+Razão não lhe assiste
+A garantia constitucional à inviolabilidade domiciliar, prevista no art. 5º, inciso XI, da Constituição Federal, é excetuada em caso de Flagrante Delito, desastre, para prestar socorro ou, durante o dia, por determinação judicial.
+Com efeito, nos termos do art. 302 do Código de Processo Penal, considera-se em Flagrante Delito aquele que (i) está cometendo a infração penal, (ii) acaba de cometê-la, (iii) é perseguido, logo após a conduta delitiva, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração e (iv) é encontrado, logo depois da prática delitiva, com instrumentos, armas, objetos ou papéis que faça, presumir ser ele autor da infração.
+O Apelante foi condenado, em primeira instância, por ter perpetrado o Crime de Tráfico de Drogas (art. 33 da Lei nº 11.343/06), o qual é considerado crime permanente, porquanto a consumação se protrai no tempo. Assim, é considerado Flagrante Delito todo o período transcorrido enquanto não cessa a conduta delitiva, conforme art. 303 do Código de Processo Penal.
+In casu, infere-se do APFD (doc. 03) que, em razão de "denúncias" anônimas relatando a prática do Tráfico de Drogas, por pessoa de nome Rafael, em residência localizada no Beco da Sorte, nº 02, na Cidade de Mesquita, Policiais se deslocaram para o local, para verificar a veracidade das informações.
+Ao se aproximarem, Militares visualizaram o Apelante Rafael Vinicius da Silva embarcando na motocicleta de Edson de Souza Júnior, ocasião em que Policiais emitiram ordem de parada, a qual foi desobedecida, tendo Edson e Rafael iniciado tentativa de fuga.
+Durante a perseguição, Policiais visualizaram o Apelante dispensar dois invólucros plásticos, os quais, ao serem apreendidos, verificou-se que continham substâncias entorpecentes.
+Assim, após a abordagem do Apelante e de Edson, com a autorização da genitora do Réu, Policiais realizaram buscas na residência de Rafael, ocasião em que localizaram réplicas de arma de fogo, sacolas de plástico, balança e a quantia de R$1.290,00 (APFD e Boletim de Ocorrência, doc. 03).
+Destaca-se, portanto, que, no caso, a genitora do Apelante, residente do imóvel, autorizou as diligências realizadas pela Polícia. Dessa forma, conforme entendimento deste Tribunal, a entrada dos Militares na residência particular, com o consentimento do morador, não constitui invasão de domicílio (Precedentes: TJMG, Apelação Criminal 1.0024.18.116020-1/003, Relator: Dorgal Borges de Andrada, 4ª Câmara Criminal, julgado em: 19.08.2020).
+Pontua-se que a não realização de registro audiovisual ou escrito da autorização para entrada dos Policiais à residência, por si só, não constitui ilegalidade, considerando-se, mormente, a ausência de previsão legal e o fato de que, no presente caso, da análise do APFD (doc. 03), encontrava- se presente a justa causa para ingresso na residência (Precedente: TJMG, Apelação Criminal 1.0024.20.140239-3/001, Relator: Des. Fortuna Grion, 3ª Câmara Criminal, julgado em 05.10.2021).
+Ainda que não o fosse, observa-se que subsistiam fundadas suspeitas aptas a justificar o ingresso dos Policiais Militares no local, consubstanciadas na apreensão de entorpecentes dispensados pelo Apelante, durante tentativa de fuga, afastando, o reconhecimento da ocorrência de Violação de Domicílio, por estar presente a Justa Causa.
+Nesse sentido, ao procederem à busca domiciliar, os Policiais Militares o fizeram dentro de excepcional autorização constitucional, prescindível, portanto, o mandado judicial.
+Vale registrar que, havendo fundadas suspeitas acerca da ocorrência do crime de tráfico de drogas no imóvel, não há nulidade na ação dos Policiais de adentrarem em domicilio particular sem a expedição de Mandado de Busca e Apreensão, a fim de cessar a prática criminosa e apreender os objetos necessários às investigações.
+Por tais fundamentos, rejeita-se a preliminar."
+Como se vê, a Corte de justiça estadual afastou a alegada violação de domicílio com esteio na tese de que o estado de flagrância excepciona a garantia contida no art. 5º, XI, Constituição Federal.
+Havendo fundamentação infraconstitucional e constitucional no acórdão recorrido, cabia à Defesa interpor recurso extraordinário. À míngua do extraordinário, a incidência da Súmula n. 126/STJ mostra-se insuperável ao conhecimento do apelo nobre:
+"É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nesse sentido, cito os seguintes julgados:
+" ..
+2. Constatado que o acórdão proferido na origem assentou-se expressamente em fundamento constitucional (art. 243, parágrafo único, da CF), não tendo o recorrente interposto o indispensável recurso extraordinário, incide o intransponível óbice da Súmula 126 do STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+3. "Tendo as instâncias de origem concluído pela utilização do automóvel e do imóvel para fins de tráfico de entorpecentes e, assim, determinado a expropriação, seria inviável esta Corte Superior concluir em sentido contrário, pois demandaria maior incursão no suporte fático-probatório delineado nos autos, providência incabível na seara do recurso especial, nos termos da Súmula n. 7/STJ" (AgRg no REsp n. 1.952.366/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/10/2021, DJe de 8/10/2021).
+4. Agravo regimental improvido." (AgRg no AREsp n. 2.093.309/MG, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 23/08/2022, DJe 26/08/2022, sem grifos no original.)
+" ..
+1. A fundamentação utilizada pelo Tribunal de origem para determinar o perdimento do bem pautou-se em tese firmada pelo Supremo Tribunal Federal, em sede de repercussão geral (RE n. 638.491), notadamente sob a ótica do disposto no art. 243, parágrafo único, da Constituição Federal. Em consequência, não tendo sido interposto simultaneamente recurso extraordinário para desate da controvérsia constitucional, mostra-se despicienda a análise da suposta violação da norma infraconstitucional, incidindo, no caso, a Súmula 126/STJ. Precedentes.
+ ..
+3. Agravo regimental improvido." (A gRg no AREsp n. 2.084.682/SC, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 28/06/2022, DJe 30/06/2022, sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. FUNDAMENTOS INFRACONSTITUCIONAL E CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA N. 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
