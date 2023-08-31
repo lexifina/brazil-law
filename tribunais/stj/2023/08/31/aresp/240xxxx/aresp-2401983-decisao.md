@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especi al (fls. 1.047-1.051) interposto por B&T CORRETORA DE CÂMBIO LTDA contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Distrito Federal e Territórios (TJDFT) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional em face de v. acórdão assim ementado (fls. 815-816):
+"APELAÇÃO CÍVEL. CONTRATO DE ENCOMENDA DE MOEDA ESTRANGEIRA. PRELIMINAR DE ILEGITIMIDADE PASSIVA. NÃO CONHECIMENTO. CORRESPONDENTE E CORRETORA DE CÂMBIO. VIGÊNCIA DE CONVÊNIO. RESPONSABILIDADE SOLIDÁRIA. JUROS DE MORA. AUSÊNCIA DE CONVENÇÃO. ARTIGO 406, CC. SELIC. SENTENÇA PARCIALMENTE REFORMADA.
+1. Impõe-se o não conhecimento de preliminar de ilegitimidade passiva em razão de preclusão, porquanto previamente apreciada a matéria em sede de agravo de instrumento.
+2. Todos aqueles que de algum modo participaram da cadeia de produção e
+fornecimento do produto ou serviço, consoante inteligência dos artigos 7º, parágrafo único e 18 do CDC, respondem solidariamente pela reparação dos danos ao consumidor.
+3. A corretora de câmbio, instituição contratante de correspondente no país, responde solidariamente pelo inadimplemento contratual da correspondente cambiária, a teor do CDC e da Resolução nº 3.954/2011 do Banco Central, durante a vigência do convênio firmado entre as empresas, observada a data da realização do negócio jurídico.
+4. O artigo 406 do Código Civil dispõe sobre os juros moratórios nas hipóteses de ausência de convenção, convenção sem taxa estipulada ou quando provenientes de determinação de lei.
+5. O Superior Tribunal de Justiça, em julgamento sob a sistemática dos recursos repetitivos (temas 99 e 112), firmou entendimento no sentido de que a taxa de juros moratórios a que se refere o artigo 406, do Código Civil, corresponde à Taxa SELIC.
+6. Recursos parcialmente conhecidos e, na parte conhecida, parcialmente providos."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 812-913).
+Nas razões do apelo nobre (fls. 914-923), B&T CORRETORA DE CÂMBIO LTDA aponta violação aos arts. 104, II e 663 do Código Civil, afirmando, em síntese, que "(..) a compra de moeda estrangeira com promessa de entrega futura é negócio jurídico nulo de pleno direito, de modo que não caberia a ora Recorrente ser responsabilizada por qualquer inadimplemento levado a efeito por empresas que sabidamente agiam apenas em nome próprio e apenas em benefício próprio" (fls. 918 - destaques no original).
+Alega, também, que "(..) apenas as empresas diretamente envolvidas no negócio (IEX e J&B) serem responsabilizadas por qualquer inadimplemento, nos termos da parte final do art. 663 do CC. De certo, a referida norma põe de forma expressa que, nada obstante a existência de mandato, o mandatário ficará pessoalmente obrigado se agir no seu próprio nome, o que se amolda perfeitamente ao caso" (fls. 919 - destaques no original).
+Aduz, ainda, que "(..) ao se verificar a total ausência de participação da B&T Corretora no negócio em comento, não deveria ela jamais ser obrigada a pagar por um inadimplemento levada a cabo por empresas que não mais atuavam como suas correspondentes e que, portanto, agiram em nome próprio e apenas em benefício próprio" (fls. 921).
+Intimado, JOÃO MARCOS WAQUIM CARVALHO apresentou contrarrazões (fls. 984-991), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 997-998), motivando o agravo em recurso especial (fls. 1.047-1.051) em testilha.
+Também foi oferecida contraminuta (fls. 1.056-1.062), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+No caso, o eg. TJDFT, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu que, a ora Agravante, entre outras demandadas, "(..) na qualidade de contratantes cambiárias possuíam inteira responsabilidade pelo atendimento prestado aos consumidores por meio sua correspondente contratada, observados os respectivos prazos de vigência contratual"; condenando-as solidariamente a restituir o valor de R$ 24.906,50 ao ora Agravado. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão distrital (fls. 817-834):
+"Cuida-se de apelações interpostas pelas rés B&T CORRETORA DE CÂMBIO LTDA  ora agravante . e UNIÃO ALTERNATIVA CORRETORA DE CÂMBIO LTDA. em face da sentença (Id 36633114), integrada por embargos de declaração rejeitados (Id 36633126) proferida nos autos da presente ação de restituição de valores proposta por JOÃO MARCOS WAQUIM CARVALHO, que julgou parcialmente procedente o pedido para condenar as rés, solidariamente, a restituir ao autor a quantia de R$ 24.906,50, com correção monetária a partir do desembolso e juros de mora a partir da citação, limitando a respectiva responsabilidade das ora apelantes à vigência dos contratos firmados com as rés IEX AGÊNCIA DE VIAGENS LTDA. e J&B VIAGENS E TURISMO LTDA, ou seja, 02/10/2012 a 22/01/2020 (B&T) e 17/02/2020 a 08/04/2020 (UNIÃO).
+(..)
+Apela também a ré B&T CORRETORA DE CÂMBIO LTDA. (Id 36633136).
+Argumenta que as empresas IEX e J&B tinham inequívoca ciência de que agiram de forma contrária aos termos do contrato de correspondente e à legislação cambiária pertinente, o que afastaria qualquer imputação de responsabilidade solidária à Apelante.
+(..)
+A matéria alçada ao debate repousa na verificação de eventual (não) responsabilização das Corretoras apelantes.
+Ressalte-se, inicialmente, que, ao contrário do defendido pelas apelantes, a relação jurídica estabelecida entre as partes se caracteriza como de consumo, submetendo-se às normas de Código de Defesa do Consumidor, a teor dos seus artigos 2º e 3º.
+Nesse contexto, a norma consumerista prevê a responsabilidade solidária de todos aqueles que de algum modo participaram da cadeia de produção e/ou fornecimento do produto ou serviço, consoante inteligência dos artigos 7º, parágrafo único, e 18.
+Inclusive, se extrai dos contratos de correspondente cambial firmado com a IEX, respectivamente com a B&T e União, que:
+(..)
+Da análise do contexto fático-probatório, depreende-se que o negócio jurídico objeto da lide consistiu em "Encomenda de Moeda Estrangeira" para entrega futura firmado nas datas de 25/10/2019, 05/12/2019, 04/01/2020 e 20/02/2020, pelo autor diretamente com a empresa IEX AGÊNCIA DE VIAGENS E TURISMO LTDA. (ID 36632057, p. 1/5). Todavia, houve o inadimplemento da obrigação.
+Compulsando os autos, verifica-se que nas datas de efetivação dos negócios estavam em vigência o "Contrato de Prestação de Serviços de Correspondente no País" (Id 36633003) e o "Contrato de Convênio de Correspondente Cambiário" (Id 36633032), firmados, respectivamente, entre a IEX AGÊNCIA DE VIAGENS E TURISMO LTDA., CNPJ 16.745.130/0001-93, situada no Terraço Shopping, e as corretoras rés B&T e UNIÃO.
+As Corretoras constituem instituições autorizadas pelo Banco Central a realizar operações cambiárias, enquanto a empresa IEX a casa de câmbio contratada/correspondente que atuava por conta e sob as diretrizes daquelas.
+Importante assinalar que a IEX AGÊNCIA DE VIAGENS E TURISMO LTDA., CNPJ 16.745.130/0001-93, atuou como correspondente cambial das apelantes B&T e UNIÃO, respectivamente, entre 02/10/2012 e 22/01/2020 (B&T) e entre 17/02/2020 a 08/04/2020, conforme se depreende das respostas encaminhadas pelo Banco Central nos documentos de Id 36632961, p. 7 e 40.
+E apesar de sustentar a B&T a rescisão do contrato em 10/12/2019, cuja comprovação sequer consta dos autos, com amparo nos registros do Bacen, o contrato teve vigência até 22/01/2020.
+(..)
+Dessa forma, evidencia-se a obrigação solidária das rés B&T e UNIÃO, posto que na qualidade de contratantes cambiárias possuíam inteira responsabilidade pelo atendimento prestado aos consumidores por meio sua correspondente contratada, observados os respectivos prazos de vigência contratual.
+Ademais, diversamente do sustentado pelas apelantes, é indevido impor ao consumidor as alegações de que a correspondente IEX não observou o contrato estipulado com as empresas B&T e UNIÃO, sobretudo as regras específicas que regem o mercado de câmbio, incorrendo em ilegalidades, tendo em vista que era dever das contratantes realizar permanentemente fiscalizações com o objetivo de controlar/monitorar a atividade de atendimento ao público realizada por intermédio da correspondente, consoante os artigos 4º e 14 da aludida resolução do Bacen, bem como os termos do próprio contrato de correspondência. Vejamos:
+(..)
+Ante o exposto, CONHEÇO PARCIALMENTE DOS RECURSOS e, na parte conhecida, DOU PARCIAL PROVIMENTO aos apelos de ambos as rés-apelantes apenas para determinar que os juros de mora observem a taxa SELIC, vedada sua cumulação com correção monetária."
+(g. n.)
+Nesse cenário, a pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, demandaria a reinterpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
