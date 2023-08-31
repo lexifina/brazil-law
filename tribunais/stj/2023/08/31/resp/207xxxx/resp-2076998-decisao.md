@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 1ª Região, publicado na vigência do CPC/73, assim ementado:
+"PREVIDENCIÁRIO E CONSTITUCIONAL. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL. INEXISTÊNCIA. REMESSA TIDA POR INTERPOSTA.
+1. De início, tenho por interposta a remessa oficial, já que inaplicável à espécie a regra inserta no § 2º do art. 475 do CPC, porquanto de valor incerto a condenação contida no comando sentencial.
+2. Para a concessão do benefício de aposentadoria por idade de trabalhador rural é necessário o implemento do requisito etário bem como comprovação do efetivo exercício de atividade rural, individualmente ou em regime de economia familiar, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, por tempo igual ao número de meses de contribuição correspondentes à carência do beneficio pretendido (art. 39, I e art. 48, ambos da Lei n º 8.213/91).
+3. No caso, tendo o marido da autora exercido atividade remunerada urbana pelo período de carência, fica descaracterizada a condição de segurada especial que o legislador buscou amparar.
+4. Considerando-se a hipossuficiência da segurada e o fato de ter recebido de boa-fé acréscimo no seu beneficio por decisão judicial, fundamentada e, à época, confortada em solida jurisprudência, mostra-se inadequado o desconto das parcelas percebidas, especialmente ante o caráter alimentar dessas verbas.
+5. Apelação e remessa oficial, tida por interposta, providas" (fl. 173e).
+Opostos Embargos de Declaração, pelo INSS, foram rejeitados (fls. 210/214e).
+Sustenta o recorrente, em apertada síntese, que o Tribunal de origem, ao dispensar a parte autora de devolver ao Erário os valores recebidos indevidamente, por força de antecipação dos efeitos da tutela, violou os arts. 273, § 3º e 811, I e III, do CPC/73.
+Assevera que "no caso das tutelas antecipadas, a lei processual impõe, com toda a clareza, a reversibilidade do provimento antecipado como pré-requisito à sua concessão, algo que torna ainda mais escandalosa a consequência do argumento da decisão recorrida, que acaba por fomentar a antecipação de tutela inconsequente, por mero instinto assistencialista" (fl. 231e).
+Por fim, "requer seja conhecido e provido o presente recurso especial, por violação aos dispositivos legais mencionados, a fim de reformar o aresto de 2º grau, para permitir a cobrança administrativa dos valores indevidamente recebidos pela parte autora por força de tutela antecipada posteriormente revogada" (fl. 235e).
+Sem contrarrazões , o Recurso Especial foi admitido, na origem.
+Assiste razão ao recorrente.
+Com efeito, a questão atrelada à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS, em virtude de decisão judicial precária, que venha a ser posteriormente revogada, foi objeto de análise no REsp 1.401.560/MT, sob o rito dos julgamentos repetitivos, tendo sido firmada a seguinte tese:
+"A reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+Posteriormente, foi proposta a revisão da referida tese, na Pet 12.482/DF, mas concluiu-se pela reafirmação do entendimento, nesses termos:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".
+Registre-se que o STF, ao analisar o Tema 799/STF, afastou o reconhecimento de repercussão geral da matéria ora em análise. Prevalece, portanto, nesses casos, a tese firmada pelo STJ no julgamento do Tema 692/STJ, posteriormente reafirmada, quando do exame da Pet 12.482/DF.
+Do exame dos autos, verifica-se que o Tribunal a quo, embora tenha dado provimento à remessa oficial e à Apelação do INSS, dispensou a parte autora da repetição das parcelas recebidas por força da antecipação dos efeitos da tutela, dissentindo, assim, do firme entendimento desta Corte a respeito da matéria.
+Ante o exposto, conheço e dou provimento ao Recurso Especial, para possibilitar ao INSS, ora recorrente, a cobrança dos valores indevidamente recebidos pela parte autora, por força de antecipação dos efeitos da tutela, posteriormente revogada, consoante a jurisprudência desta Corte, firmada no julgamento do Tema 692/STJ e reafirmada no exame da Pet 12.482/DF.
+I.
+EMENTA
