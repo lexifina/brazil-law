@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por CEZAR SALDANHA SOUZA JÚNIOR, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU E TCL. CUMPRIMENTO DE SENTENÇA. ADESÃO AO PROGRAMA RECUPERA POA. HONORÁRIOS ADVOCATÍCIOS. INEXIGIBILIDADE OU REDUÇÃO. IMPOSSIBILIDADE. PRECLUSÃO. COISA JULGADA.
+De acordo com o art. 507 do CPC, é vedado às partes discutir questões já decididas nos autos, a cujo respeito se operou a preclusão. Inaplicabilidade do art. 14, § 1º e § 2º da Lei Complementar nº 911/2021 do Município de Porto Alegre aos processos judiciais em que proferida sentença, com trânsito em julgado. Impossibilidade de suspensão da exigibilidade ou redução do quantum fixado à título de honorários advocatícios em sede de cumprimento de sentença. Precedentes do STJ e desta Corte.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+No apelo raro, o recorrente, apontando violação dos arts. 156, III, e 171 do CTN, dos arts. 139, II e V, 200 e 1.022 do CPC e dos arts. 20 e 21, 23 e 24 da LINDB, sustentou, em resumo, que: (i) o acórdão recorrido é nulo, porquanto não sanados os vícios de fundamentação suscitados nos embargos de declaração; (ii) a adesão ao programa de recuperação fiscal configura transação para a extinção do crédito, inclusive dos honorários advocatícios devidos nos embargos à execução fiscal, cujos efeitos devem ser reconhecidos na espécie, porquanto realizada antes do trânsito em julgado da sentença que fixara a verba honorária.
+Sem contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial por entender inexistente a alegada infringência do art. 1022 do CPC/2015 e incidentes os óbices da Súmula 211 do STJ e das Súmulas 280 e 283 do STF; fundamentação com a qual não concorda o agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+Na origem, cuidam os autos de agravo de instrumento manejado contra decisão do juízo de primeiro grau que, em sede de cumprimento de sentença, intimou o recorrente para pagar os honorários advocatícios fixados na sentença de improcedência dos embargos à execução fiscal.
+O TJRS negou provimento ao recurso, vindo a manter a decisão agravada, com a seguinte motivação:
+Adianto ser caso de desprovimento do recurso.
+De acordo com o art. 14, §1º, da Lei Complementar nº 911/2021 do Município de Porto Alegre, "serão devidos honorários advocatícios nos casos previstos no caput deste artigo, bem como no caso de pagamento à vista, equivalentes a 5% (cinco por cento) do valor parcelado ou pago, ou o que estiver fixados judicialmente, o que for menor, e serão pagos proporcionalmente, em cada parcela".
+O parágrafo 2º do referido diploma legal acrescenta, ainda, que "Os honorários advocatícios envolvendo as ações autônomas diversas da execução fiscal e embargos à execução serão devidos e quitados na forma da legislação processual", fazendo crer que a redução disposta no §1º se aplica não apenas às execuções fiscais como também os embargos de devedor.
+Em que pese o diploma legal prever a redução do percentual fixado à título de honorários advocatícios, não há como aplicar tal preceito aos processos judiciais, nos quais já foi proferida sentença, com trânsito em julgado.
+O acordo firmado entre o Fisco e o contribuinte, na esfera administrativa, não invalida o processo judicial, tampouco os atos já praticados. Dessa maneira, a sentença proferida, com trânsito em julgado, permanece hígida, devendo ser cumprida pelas partes em seus exatos termos, conforme disposto no art. 503 do CPC, in verbis:
+A decisão que julgar total ou parcialmente o mérito tem força de lei nos limites da questão principal expressamente decidida.
+Na espécie, trata-se de ação transitada em julgada, na qual houve a interposição de recurso de Apelação nº 5050289-23.2019.8.21.0001 que em seguida foi requerida a desistência do julgamento, em razão da adesão ao programa de recuperação fiscal "RecuperaPOA". À vista disso, manteve-se intacta a sentença que julgou improcedente os embargos à execução fiscal, fixando honorários advocatícios em prol do Procurador do Município, em 15% sobre o montante atualizado da execução.
+Confira-se o dispositivo da decisão que, diante da desistência do apelo, transitou em julgado:
+À vista do exposto, JULGO IMPROCEDENTE o pedido formulado nos embargos e, em conseqüência, CONDENO o(a)(s) embargante a pagar as despesas processuais (execução e embargos) e os honorários advocatícios da parte adversa, os quais, observados os parâmetros do art. 85, §2º, incisos I a IV, e §§3º e 4º, do NCPC, fixo em 15% sobre o montante atualizado da execução.
+Publique-se.
+Registre-se.
+Intime(m)-se.
+Sobrevindo recurso de apelação, às contrarrazões pela parte contrária, posteriormente intimando-se a parte apelante para manifestação em 15 dias (art. 1009, §2º, do NCPC), somente então devendo ser encaminhados os autos à superior instância (art. 1010, §3º, do NCPC).
+Em caso de apelação adesiva, INTIME-SE o apelante para apresentar as respectivas contrarrazões, nos termos do art. 1010, §2º, do NCPC, prosseguindo-se na forma sobredita.
+Transitada em julgado, certifique-se por cópia na execução, dê-se baixa nos embargos, mantendo-se apensados.
+Não obstante, o art. 507 do CPC, é claro ao dispor que "É vedado à parte rediscutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão".
+Igualmente, mostra-se inviável o redimensionamento da verba honorária sucumbencial fixada em sentença transitada em julgada, pois sobre o tema operou-se a preclusão consumativa. Vale destacar que o percentual fixado na origem está em consonância ao disposto no art. 85, §2º e §3º, I, do CPC, não havendo qualquer ilegalidade a ser declarada.
+Destarte, mantenho a decisão agravada por seus próprios fundamentos.
+Pelo exposto, voto por negar provimento ao agravo de instrumento.
+Pois bem.
+Inicialmente, inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A esse respeito, vide: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1.901.723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1.813.698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1.860.227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+Feita essa consideração, verifica-se que, na hipótese, não há falar em negativa de prestação jurisdicional, pois a fundamentação contida no julgado a quo é clara ao expressar a compreensão de que, a despeito das disposições contidas na legislação local de regência do programa de recuperação aderido, a verba honorária estabelecida na sentença extintiva dos embargos à execução fiscal é devida em face da autoridade da coisa julgada, acrescentando que o "acordo" firmado na esfera administrativa não invalida os atos já praticados no processo judicial.
+No que tange ao juízo de reforma, melhor sorte não socorre ao recorrente.
+Isso porque, primeiro, o acórdão recorrido guarda conformidade com a orientação jurisprudencial desta Corte Superior, conforme se verifica dos seguintes arestos:
+CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. ADESÃO AO PARCELAMENTO DA LEI N. 11.941/09. EXCLUSÃO DE HONORÁRIOS. PREVISÃO DA LEI N. 13.043/14. SENTENÇA TRANSITADA EM JULGADO. OCORRÊNCIA DE COISA JULGADA.
+ ..
+II - A condenação da recorrente aos honorários transitou em julgado, tornando irrelevante a desistência da ação em face da adesão ao parcelamento, nos termos da Lei n. 11.941/2009, para a aplicação do benefício inserto no artigo 38 da Lei n. 13.043/2014, uma vez que revisitar o tema na fase de cumprimento de sentença é impossível ante o óbice da coisa julgada. Precedentes: REsp n. 1.586.369/SP, Rel. Min. Herman Benjamin, Dje de 25/5/2016 e AgRg no REsp n. 1.337.994/SC, Rel. Min. Herman Benjamin, DJe de 31/10/2012.
+ ..
+(REsp n. 1.624.311/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/12/2016, DJe de 7/3/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PEDIDO DE ADIAMENTO DE AUDIÊNCIA INDEFERIDO. ARTIGO 565 DO CPC. ARTIGO 535, II, DO CPC. OMISSÃO. NÃO CONFIGURADA. ADESÃO AO REFIS. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. COISA JULGADA. OCORRÊNCIA.
+ ..
+4. A discussão sobre a pertinência ou não da fixação em honorários de advogado condenados no âmbito de embargos à execução fiscal com trânsito em julgado, não tem espaço no âmbito de embargos à execução por título judicial relativo a esses honorários, porquanto acobertado pela coisa julgada.
+ ..
+(AgRg no REsp n. 1.052.698/SC, relator Ministro Luiz Fux, Primeira Turma, julgado em 12/5/2009, DJe de 3/6/2009.).
+Cumpre salientar que o pedido de modificação da verba honorária estabelecida na sentença em face da adesão ao programa de recuperação fiscal deveria ter sido postulado ainda na fase de conhecimento, quando da manifestação de desistência da apelação, sendo inviável o conhecimento dessa pretensão na fase de cumprimento, porquanto desafia a autoridade da coisa julgada, impugnável, apenas, pela via da ação rescisória.
+Incide, pois, o óbice de conhecimento estampado na Súmula 83 do STJ
+A par disso, os apontados arts. 156, III, e 171 do CTN, arts. 139, II e V, 200 do CPC/2015 e arts. 20 e 21, 23 e 24 da LINDB não tem comando normativo apto à modificação do acórdão recorrido. Os arts. 156, III, e 171 do CTN cuidam de extinção por transação de crédito tributário, o que não é o caso dos autos, que versa sobre honorários advocatícios. Inaplicáveis, também, os arts. 139, II e V, e 200 do CPC/2015 e os 20 e 21, 23 e 24 da LINDB, pois o acórdão recorrido nada decidiu sobre o estímulo judicial à realização de acordos, a efetividade deles, nem tampouco se utilizou de valores jurídicos abstratos, invalidou ou revisou ato administrativo, deu nova interpretação sobre norma de conteúdo indeterminado; mas, repita-se, apenas observou a autoridade da coisa julgada formada no título judicial exequendo.
+Tem-se, assim, que é deficiente a irresignação recursal em relação a tais dispositivos legais, consoante a Súmula 284 do STF.
+Por fim, constata-se que, em verdade, o principal intuito do recorrente de fazer valer suposto direito à exoneração ou à redução de honorários advocatícios previsto na legislação municipal de regência do imposto, cujo exame é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ) .
+Publique-se. Intimem-se.
+EMENTA
