@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por USINA CARAPEBUS S.A. - EM RECUPERAÇÃO JUDICIAL contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região.
+Defende a parte, preliminarmente, negativa de prestação jurisdicional e violação do art. 1022 do CPC.
+No mérito propriamente dito, afirma, em resumo, que houve violação dos arts. 11 e 371 do CPC; arts. 176 a 178; 10, 141 e 276, todos do CPC; e do art. 286 do CC/2002, ao argumento principal de que a matéria foi decidida com fundamento em documentos que não se encontram nos autos.
+Passo a decidir.
+O apelo especial é recurso de fundamentação técnica e vinculada, pelo que compete à parte, ao alegar violação do art. 1.022 do CPC, indicar o inciso especificamente contrariado.
+Esta Corte tem entendido que "incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material" (AgInt no AREsp n. 1.766.826/RS, rel. Ministro Manoel Erhardt - Desembargador convocado do TRF da 5ª Região, Primeira Turma, julgado em 26/04/2021, DJe de 30/04/2021). No mesmo sentido: AgInt no AREsp n. 2.017.243/CE, rel. Ministro Francisco Falcão, Segunda Turma, julgado em 30/05/2022, DJe de 02/06/2022.
+No caso, a recorrente afirmou ter ocorrido ofensa ao art. 1.022 do CPC/2015, mas deixou de especificar em qual inciso se enquadraria o vício de natureza processual eventualmente cometido pelo acórdão recorrido, o que traduz deficiência de fundamentação, a atrair, por analogia, o óbice da Súmula 284 do STF, à luz da orientação que vem se formando sobre o tema, acima indicada.
+No mérito propriamente dito, nenhum dos artigos tidos por violados foi prequestionado na origem, pelo que aplico a Súmula 211 do STJ e 282 do STF em relação a eles.
+Ainda que assim não fosse, o fundamento central da recorrente é de que o acórdão impugnado decidiu a lide levando em conta a informação a respeito de documentos que não estariam inseridos nos autos.
+Acontece que a confirmação dessa informação pressupõe, claramente, a revisão dos documentos que estão no processo, justamente para saber se, de fato, a decisão tomada se baseou apenas neles ou em outras provas estranhas aos autos.
+Tal providência não pode ser adotada nesta instância recursal, porque esbarra no óbice da Súmula 7 do STJ.
+Por fim, ressalte-se que, "na forma da jurisprudência desta Corte, é possível que, nas decisões judiciais, seja utilizada a técnica de fundamentação referencial ou per relationem. Conf ira-se, a propósito: STJ, AgInt no REsp 1.814.110/PE, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe de 17/10/2019; AgInt no AREsp 1.420.569/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14/02/2020" (AgInt no REsp n. 1.690.982/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de de 18/12/2020).
+No mesmo sentido: AgInt no AREsp n. 2.214.887/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/06/2023, DJe de 23/06/2023; AgRg no REsp n. 2.062.215/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/06/2023, DJe de 29/06/2023; REsp n. 2.050.338/MA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/03/2023, DJe de 05/06/2023.
+Isto é, a técnica empregada na origem está alinhada à jurisprudência pacífica desta Corte, notadamente porque o julgado foi complementado com elementos próprios de convicção do órgão julgador, ainda que em termos sucintos.
+Aplica-se ao caso, portanto, a Súmula 83 do STJ nesse ponto.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
