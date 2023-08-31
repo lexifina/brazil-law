@@ -1,0 +1,35 @@
+DECISÃO
+Vistos
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 11ª Vara Cível de Maceió/AL em face do Juízo Federal da 6ª Vara do Juizado Especial de Alagoas, nos autos do Pedido de Alvará judicial para saque do valores retidos em conta vinculado do Fundo de Garantia por Tempo de Serviço - FGTS ajuizado por Antônio Faustino dos Santos em face da Caixa Econômica Federal.
+Distribuído perante o Juízo Federal, o qual declinou da competência para processar e julgar o presente alvará, dado que procedimento de jurisdição voluntária (fls. 12/14e).
+O Juízo estadual suscitante afirma ser incompetente, uma vez que, no presente alvará judicial, apesar procedimento de jurisdição voluntária, há litígio, porquanto a Caixa Econômica Federal recusa a proceder a liberação dos valores (fl. 15e):
+Analisando os autos, verifica-se que, embora a parte demandante tenha batizado a demanda de "ação de alvará", não se trata de procedimento de jurisdição voluntária, mas sim contenciosa, sendo certo que uma ação é identificada pelas partes, causa de pedir e pedido, afigurando-se irrelevante o nome que se dê à ação.
+No caso em tela, a parte autora declina fatos que evidenciam a existência de litígio com a demandada, na medida em que alega que a Caixa E. Federal "cometeu uma ilegalidade e arbitrariedade ao recusar-se a pagar - lhe o saldo do FGTS", sendo que, ao final, pugnou pela citação da parte ré para contestar a ação, sob pena de revelia e confissão.
+Ora, não resta a menor dúvida de que o procedimento a ser seguido é o de jurisdição contenciosa, o que afasta a competência deste juizo, pois a Caixa Econômica Federal, como empresa pública federal, é interessada na condição de ré. Portanto, a Justiça Federal é a competente para processar e julgar a causa, nos precisos termos do art. 109, l, da CF.
+Diante do exposto, com fulcro nos arts. 115 e 118, ambos do CPC, suscito o conflito negativo de competência, determinando a remessa dos autos para o E. Superior Tribunal de Justiça, por força do art. 105, I, "d", da CF.
+É o relatório. Decido.
+Nos termos do art. 955, parágrafo único, incisos I e II, do CPC/2015, o relator poderá julgar de plano o conflito de competência quando sua decisão se fundar em súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou em tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
+Por sua vez, o art. 34, XXII, do RISTJ, dispõe que: "são atribuições do relator decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+No caso, em se tratando de procedimento de jurisdição voluntária (alvará judicial), a competência para seu processamento e julgamento, em regra, é da Justiça Estadual nos termos da Súmula 161 do STJ, in verbis: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta."
+De outro lado, destaco o que dispõe a Súmula 82 do STJ: "Compete à Justiça Federal, excluídas as reclamações trabalhistas, processar e julgar os feitos relativos à movimentação do FGTS."
+Entretanto, segundo a jurisprudência desta Corte de Justiça, para configurar a competência da Justiça Federal, mister se faz a existência de conflito de interesses manifestado por qualquer um dos entes públicos elencados no art. 109, I, da Constituição Federal, seja na condição de autor, réu, assistente ou opoente, situação inexistente na espécie.
+Assim, considerando que a ação não tem natureza contenciosa e não afeta, em princípio, interesse da União ou da Caixa Econômica Federal, forçoso reconhecer que compete à Justiça Estadual o processamento e o julgamento do pedido formulado pelo ora interessado.
+Entretanto, no caso, há resistência da Caixa Econômica Federal ao pedido (fl. 15e).
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE VERBAS DO FGTS. RESISTÊNCIA DA CEF. JURISDIÇÃO CONTENCIOSA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A jurisprudência da Primeira Seção do STJ firmou-se no sentido de que, sendo, em regra, de jurisdição voluntária a natureza dos feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a FGTS, PIS/PASEP, seguro-desemprego e benefícios previdenciários, a competência para julgá-los é da Justiça Estadual.
+2. Por outro lado, havendo resistência da CEF, competente para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+3. In casu, verifico que houve obstáculo por parte da Caixa Econômica Federal quanto ao levantamento do FGTS requerido pelo autor, o que evidencia a competência da Justiça Federal para o julgamento da demanda, nos termos do art. 109, I, da Constituição da República.
+4. Constatada a competência de um terceiro Juízo, estranho aos autos, admite-se-lhe a remessa do feito.
+5. Conflito conhecido para declarar competente a Justiça Federal de Santos/SP, apesar de não integrar o presente conflito.
+(CC 105.206/SP, Relator Ministro HERMAN BENJAMIN, Órgão Julgador S1 - PRIMEIRA SEÇÃO, DJe 28/08/2009.).
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUIZADO ESPECIAL. ALVARÁ LIBERATÓRIO. LEVANTAMENTO DE VALORES DEPOSITADOS NO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. PEDIDO FUNDADO NA LEI 6.858/80. MORTE DO TITULAR DA CONTA. INCIDÊNCIA DA SÚMULA 161/STJ. COMPETENTE A JUSTIÇA COMUM ESTADUAL.
+1. Em se tratando de pedido de expedição de alvará judicial requerido nos termos da Lei 6.858/80, ou seja, em decorrência do falecimento do titular da conta, inexiste lide a ser solucionada. Cuida-se, na verdade, de medida de jurisdição voluntária com vistas à mera autorização judicial para o levantamento, pelos sucessores do de cujus, de valores incontestes depositados em conta de titularidade de pessoa falecida "independente de inventário ou arrolamento".
+2. Desse modo, a Caixa Econômica Federal não é parte integrante da relação processual, mas mera destinatária do alvará judicial, razão por que deve ser afastada a competência da Justiça federal.
+3. Incide, à espécie, o enunciado 161 da súmula do STJ, segundo o qual: "É da competência da Justiça estadual autorizar o levantamento dos valores relativos ao PIS/Pasep e FGTS, em decorrência do falecimento do titular da conta".
+4. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara de Cotia.
+(CC 102.854/SP, Relator Ministro BENEDITO GONÇALVES, Órgão Julgador S1 - PRIMEIRA SEÇÃO, DJe 23/03/2009).
+Posto isso, nos termos do art. 34, XXII, do RISTJ, conheço do conflito para declarar competente o Juízo suscitado, o Juízo Federal da 6ª Vara do Juizado Especial de Alagoas.
+Após as formalidades legais, arquivem-se os autos.
+Publique-se. Intime m-se. Comunique -se.
+EMENTA
