@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o especial porque não demonstrada a ofensa aos artigos arrolados nas razões do recurso (e-STJ fls. 429/433).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 361):
+Apelação cível. Embargos à execução. Cerceamento de defesa afastado. Inaplicável o Código de Defesa do Consumidor ao caso. A embargante busca por via transversa a declaração da rescisão do contrato firmado com a embargada, que, por certo, deve ser deduzida pelas vias ordinárias, e não em processo de execução. Nos embargos as hipóteses de defesa estão limitadas ao disposto no artigo 917, parágrafos e incisos do Código de Processo Civil. Observa-se, ainda, que não consta dos autos, ao menos indícios da alegação de exceção do contrato não cumprido, ou ainda, início de prova com relação à inexistência dos serviços prestados às pessoas beneficiadas como atendimento relacionado na nota fiscal juntada. A execução é líquida, certa e exigível. Apelo desprovido.
+Os embargos de declaração foram acolhidos (e-STJ fl. 413):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. Omissão quanto ao artigo 85, § 11, do CPC. A majoração dos honorários advocatícios previamente fixados acontece nos casos em que não se conhece ou se nega provimento ao recurso, desde que o advogado do recorrido tenha desempenhado algum tipo de trabalho ulterior à decisão recorrida. Assim, considerando as contrarrazões apresentadas, honorários advocatícios majorados para 20% sobre o valor da condenação. EMBARGOS ACOLHIDOS.
+No recurso especial (e-STJ fls. 367/380), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 2º do CDC, 476 do CC e 917, VI, do CPC, por considerar que deveria ter sido aplicada no caso a Teoria Finalista Mista para reconhecer a parte como consumidora, tendo em vista que "O serviço prestado pela recorrida (assistência à saúde) não guarda qualquer tipo de conexão - quer seja direta, ou indireta -, com as atividades econômicas desenvolvidas pela recorrente" (e-STJ fl. 377), mas sim assistência médica a seus colaboradores.
+No agravo (e-STJ fls. 436/449), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 455/462 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia na origem diz respeito à tese de exceção do contrato não cumprido no curso da embargos à execução promovida pela operadora contra a estipulante, tendo esta alegado que "os usuários enfrentaram problemas na fruição do Plano, tendo em vista que diversos deles não conseguiram agendar atendimentos em determinadas especialidades" (e-STJ fl. 2).
+Os embargos foram julgados improcedentes, em sentença mantida pela Corte local.
+O Tribunal de origem entendeu que, "se inexecução parcial do contrato existiu, isso se deu em relação a terceiros beneficiários estranhos àqueles que se beneficiaram da prestação dos serviços médicos, e que ora compôs o débito reclamado" (e-STJ fl. 364).
+Bem se vê que a Corte estadual, com base na "nota fiscal de fls. 41 e documentos de fls. 42/6 que instruíram os autos de execução" (e-STJ fl. 364), concluiu que o alegado inadimplemento não diria respeito aos serviços médicos que compõem o valor exequendo.
+Assim, modificar o entendimento do acórdão impugnado, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, especificamente dos documentos que instruíram a inicial e da relação de atendimentos não realizados, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Observe-se que a inversão do ônus da prova não socorreria a empresa recorrente, pois a prova documental juntada aos autos foi suficiente para levar o Tribunal de origem à conclusão de que o inadimplemento se deu em relação a beneficiários "estranhos àqueles que se beneficiaram da prestação dos serviços" (e-STJ fl. 364).
+Ademais, a empresa recorrente não especificou qual produção probatória estaria apta a modificar as conclusões do acórdão recorrido, se o ônus probatório fosse atribuído à operadora.
+Em caso semelhante, esta Corte Superior decidiu que "a questão relativa à inversão do ônus da prova é impertinente na espécie, e, assim, irrelevante à decisão da causa" (AgInt no REsp n. 1.549.466/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2023, DJe de 21/3/2023).
+Esclareça-se, de todo modo, que a aplicação do CDC ao caso seria, em tese, possível, uma vez que o plano de saúde em questão conta com menos de 30 usuários (v. e-STJ fl. 61).
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARATÓRIA DE INEXIGIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. CONTRATO DE PLANO DE SAÚDE COLETIVO EMPRESARIAL. RELAÇÃO JURÍDICA ENTRE ESTIPULANTE E OPERADORA. NÃO INCIDÊNCIA DO CDC. GRANDE EVASÃO DE BENEFICIÁRIOS ATIVOS. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. CLÁUSULA DE "COBRANÇA MÍNIMA". FATOR DE ONEROSIDADE EXCESSIVA. RESILIÇÃO CONTRATUAL. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. JULGAMENTO: CPC/2015.
+1.  ..
+3. A demanda entre empregador e a operadora do plano de saúde coletivo não se rege pelo CDC, ressalvada a hipótese em que o contrato conta com menos de 30 (trinta) beneficiários, situação que revela a condição de vulnerabilidade do estipulante. Precedentes.
+4.  ..
+9. Recurso especial conhecido em parte e, nessa extensão, desprovido, com majoração de honorários.
+(REsp n. 1.830.065/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/11/2020, DJe de 19/11/2020)
+O óbice da Súmula n. 7/STJ, contudo, tornou prejudicada a discussão acerca da aplicabilidade do CDC, pois, na fundamentação do acórdão recorrido, foi levado em consideração que a "inexecução parcial do contrato existiu" (e-STJ fl. 364), e, mesmo assim, a conclusão pela improcedência dos embargos à execução foi mantida. É dizer que não há utilidade em se inverter o ônus probatório para se produzir uma prova que foi, inclusive, considerada pelo acórdão recorrido em sua fundamentação.
+Por fim, esclareça-se que o T ribunal de origem, embora afirmando que as "alegações devem ficar adstritas ao disposto no artigo 917, parágrafos e incisos do Código de Processo Civil", acabou enfrentando a alegada exceção do contrato não cumprido, nos termos da fundamentação acima transcrita, não havendo falar, portanto, em violação do referido dispositivo legal.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
