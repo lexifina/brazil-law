@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por CAIXA ECONOMICA FEDERAL em face da decisão que em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo nobre (art. 105, III, alínea "a", CF) desafiou acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 552, e-STJ):
+E INSTRUMENTO. SFH. COBERTURA SECURITÁRIA. FCVS. CAIXA ECONÔMICAFEDERAL. INTERVENÇÃO.
+1 - Para configuração do interesse jurídico da CEF em figurar no polo passivo da ação de consignação relativa a imóvel financiado pelo regime do SFH é necessário que o contrato tenha sido celebrado entre 02.12.1988 e 29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais -FCVS (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA (EDcl nos EDcl no REsp1.091.363-SC).
+2 - No caso vertente, da análise do documento ID 111337, evidencia-se que o contrato em questão foi firmado fora do período adrede mencionado.
+3- Assim, é de rigor a manutenção da decisão recorrida que declinou da competência e determinou a remessa dos autos à Justiça Estadual.
+3 - Agravo de instrumento improvido
+Embargos de declaração rejeitados (fls. 594/603, e-STJ).
+Nas razões de recurso especial (fls. 616/626, e-STJ), a agravante aponta ofensa aos artigos 14 da Lei nº 4.380/64, artigos 2º, inc. I e artigo 6º do Decreto-Lei2406/88, artigo 1º, incisos I e II da Lei 12.409/2011, art. 1.022 e incisos, arts 17, 113, I, 119 e 124 do CPC vigente e artigos 3º, 46, inc. I, 50 e 54 do Código de Processo Civil anterior,
+Sustente, em suma, que deve necessariamente intervir nas demandas envolvendo o SH/SFH, na qualidade de administradora do FCVS.
+Sem contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o reclamo (fls. 735/739, e-STJ), dando ensejo à interposição do presente agravo (fls. 741/745, e-STJ), por meio do qual a agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Sem contraminuta.
+É o relatório.
+Decido.
+A pretensão não merece acolhimento.
+1. A agravante sustenta que o contrato de financiamento celebrado pela parte agravante foi firmado no âmbito do Sistema Financeiro de Habitação - SFH, no qual as apólices de seguro passaram a ser integralmente sustentadas pelo fundo FCVS, administrado pela Caixa Econômica Federal, de forma que deve ser reconhecido o seu interesse na lide e a consequente competência da Justiça Federal para processar e julgar a ação.
+Na hipótese, contudo, observa-se que a Corte de origem entendeu que não há comprovação de que as apólices são garantidas pelo FCVS, afastando o interesse da Caixa Econômica Federal na lide, com o consequente reconhecimento de incompetência da Justiça Federal para processar e julgar a ação originária.
+Por oportuno, transcreve-se trecho do acórdão hostilizado (fl. 547, e-STJ):
+Pois bem. No que tange ao interesse jurídico da CEF em figurar no polo passivo da ação de cumprimento de contrato, relativo a imóvel financiado pelo regime do SFH, sob o pálio ou não do FCVS- Fundo de Compensação de Variações Salariais, há decisão consolidada pela Segunda Seção do E. Superior Tribunal de Justiça, no julgamento dos EDcl nos EDcl no REsp 1.091.363-SC, no sentido de que, para que tal ocorra, deve-se comprovar documentalmente, não apenas a existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo deso no estado em que se encontrar, Equalização de Sinistralidade de Apólice - FESA, colhendo o processem anulação de nenhum ato processual anterior, in verbis:
+Nesse contexto, o acolhimento da pretensão recursal exigiria o reexame de provas e a interpretação do contrato firmado entre as partes, providencias que esbarram nos óbices das Súmulas 5 e 7 do STJ.
+No mesmos sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO PELO PROGRAMA MINHA CASA MINHA VIDA (PMCMV). ATUAÇÃO DA CEF. MERO AGENTE FINANCEIRO (SÚMULAS 5 E 7/STJ). DESCABIMENTO DA TESE DA NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO E DE ATRAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. AUSÊNCIA DE PRORROGAÇÃO DO PRAZO DE ENTREGA. INEXISTÊNCIA DE EXCLUDENTES DE ILICITUDES. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. Consoante o acórdão estadual, a Caixa Econômica Federal (CEF) teria agido no contrato como agente financeiro, ou seja, como mera credora fiduciária, sendo desnecessária a sua participação nos autos por completa ausência de interesse, pois em discussão atos que não condizem com a sua responsabilidade. Essas conclusões foram fundadas na apreciação de fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ.  ..  (AgInt no AREsp n. 1.494.052/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/3/2021, DJe de 6/4/2021.)
+PROCESSUAL CIVIL. SFH. SEGURO. CAIXA ECONÔMICA FEDERAL. INTERESSE JURÍDICO NÃO DEMONSTRADO. ILEGITIMIDADE. JUSTIÇA ESTADUAL. PLEITO DE REEXAME. ÓBICE DA SÚMULA 7/STJ. DECISÃO CONFORME JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Segundo o acórdão recorrido, não ficou comprovado o interesse jurídico da CEF no presente caso. Competência da Justiça Federal afastada. Pretensão de reexame de provas. Óbice da Súmula 7/STJ. 2. O acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça, tendo em vista que a Caixa Econômica Federal não demonstrou o interesse jurídico capaz de autorizar seu ingresso na lide securitária (Súmula 83/STJ). 3. Agravo interno não provido. (AgInt no AREsp n. 990.388/PB, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2016, DJe de 2/2/2017.)
+De rigor, portanto, a incidência das Súmulas 5 e 7 do STJ.
+2 . Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de hono rários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
