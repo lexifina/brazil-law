@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por EMPRESA DE SEGURANÇA INFINITY EIRELI, em face de decisão que não admitiu recurso especial (fls. 625-627, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 583-590, e-STJ):
+PROCESSUALCIVIL. PREPARO. Recurso adesivo. Pretensão cingida à alteração do termo inicial dos juros de mora. Preparo que deve ser calculado com base no benefício econômico visado. Recolhimento suficiente. Preliminar de deserção repelida. NOTA FISCAL. Ação monitória. Documento acompanhado de relatório descritivo. Prova escrita sem eficácia de título executivo suficiente para o manejo da pretensão monitória. O que interessa, na monitória, é a possibilidade de formação da convicção do julgador a respeito de um crédito, e não a adequação formal da prova apresentada a um modelo pré-definido. Orientação do STJ. Hipótese em que a existência da relação jurídica entre as partes não foi impugnada. Cessão de crédito obtida pelo acesso à plataforma, via login e senha, fato não negado pela defesa. Dever de pagar reconhecido. Apelação desprovida. CONTRATO. Cessão de crédito. Emissão de notas fiscais com data de vencimento certa. O inadimplemento de obrigação positiva e líquida no seu termo constitui de pleno direito em mora o devedor. Hipótese de mora ex re, a atrair o adágio "dies interpellat pro homine". Art. 397 do CC. Recurso adesivo provido.
+Nas razões do recurso especial (fls. 592-606, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 700 do CPC/2015, pois não há prova válida a legitimar o uso da ação monitória;
+Contrarrazões às fls. 618-620, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; b) incidiria ao caso o enunciado nº 7 da Súmula do STJ; e c) não restou comprovado o dissídio jurisprudencial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da leitura do acórdão recorrido, nota-se que o Tribunal local, à luz das particularidades da causa, consignou que a documentação acostada pela parte recorrida constituiria prova escrita sem eficácia de título executivo suficiente para o manejo de ação monitória. Veja-se (fls. 586-588, e-STJ):
+Segundo a causa de pedir, ela cedeu créditos, decorrentes de contratos referentes aos produtos Ticket Restaurante e Alimentação Eletrônicos. Quando a parceira cadastrada solicita a inserção de créditos, por meio do uso de login e senha, a autora emite a respectivas notas fiscais, a conceder os créditos solicitados.
+Essas notas fiscais, então, caracterizam prova escrita sem eficácia de título executivo3, documentos suficientes, portanto, a autorizar o procedimento monitório, pois indicam a alta a probabilidade do crédito que se invoca, elemento importante segundo orienta o STJ:
+(..)
+Veja-se que a ação não está instruída somente com as notas fiscais de fls. 80/118. Cada qual veio acompanhada de relatório de detalhes do pedido, a conter o nome de cada funcionário da embargante, com CPF, matrícula e valor do benefício (fls. 119/420).
+A relação jurídica não foi impugnada de forma específica, tampouco se negou, de modo direto e categórico, que as pessoas elencadas nos relatórios eram funcionários da embargante.
+Diante desses elementos, não basta à embargante invocar a ausência de prova da entrega do serviço ou da mercadoria ou a não aposição de aceite, porquanto tais teses mostram-se genéricas e não contrastam a cessão do crédito, por meio do acesso eletrônico a ela disponibilizado, via login e senha.
+Nesse cenário, o acolhimento da pretensão recursal demandaria a revisão de tal premissa. Para tanto, todavia, seria imprescindível o revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos das Súmulas 5 e 7 do STJ. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO AGRAVANTE.
+1. A jurisprudência deste STJ é assente no sentido de que o devedor solidário responde pela totalidade da dívida, podendo o credor escolher contra quem pretende litigar. Incidência da Súmula 83 do STJ.
+2. Derruir as conclusões a que chegou o Tribunal de origem que concluiu pela presença das provas a amparar a monitória, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+3. Nos termos da jurisprudência desta Corte , ainda que o débito seja cobrado por meio de ação monitória, se a obrigação for positiva e líquida e com vencimento certo, devem os juros de mora fluir a partir da data do inadimplemento - a do respectivo vencimento -, nos termos em que definido na relação de direito material. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.170.689/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+2. Por fim, consigna-se que o reconhecimento do óbice contido na Súmula 7/STJ prejudica a análise da alegação de dissídio jurisprudencial, na medida em que as conclusões supostamente díspares entre Tribunais de Justiça não decorreriam de entendimentos conflitantes sobre uma questão legal, mas, sim, de distinções baseadas em fatos, provas ou circunstâncias inerentes a cada caso.
+No ponto, relevante a menção aos seguintes precedentes: AgRg no AREsp 833.843/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/11/2018, DJe 06/12/2018; REsp 1738928/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/02/2019, DJe 14/02/2019; AgInt no AREsp 1344970/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019; e AgInt no AREsp 1386774/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019.
+3 . Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
