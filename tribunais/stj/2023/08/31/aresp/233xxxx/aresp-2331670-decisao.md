@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo da MAKRO ATACADISTA S.A da decisão que inadmitiu recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 217/218):
+TRIBUTÁRIO - DIREITO PROCESSUAL CIVIL - AGRAVO INTERNO -ART. 1021, CPC - ARGUMENTOS QUE NÃO MODIFICAM A FUNDAMENTAÇÃO E A CONCLUSÃO EXARADAS NA DECISÃO MONOCRÁTICA - ILEGITIMIDADE DA PARTE PARA A DEFESA DE DIREITO ALHEIO - PRECLUSÃO RELATIVA À MATÉRIA ANTERIORMENTE SUSCITADA EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE - NEGADO PROVIMENTO AO AGRAVO INTERNO.
+1. Argumentos apresentados no agravo não abalaram a fundamentação e a conclusão exaradas por este Relator, adotando-as como razão de decidir deste agravo.
+2. Como bem fundamentado pelo Juízo a quo, a embargante não tem legitimidade para defender direito alheio em nome próprio, nos termos do art. 18 do CPC. Precedente deste Relator.
+3. De igual forma, a alegação de que foi efetuado o pagamento do débito em cobro já foi analisada em exceção de pré-executividade, definitivamente julgada, o que obsta sua rediscussão, ante a eficácia preclusiva da coisa julgada. Precedentes do Superior Tribunal de Justiça.
+4. Relativamente à alegada nulidade da CDA em razão da intimação do aviso de cobrança dos tributos que deram origem à execução não ter sido dirigida à embargante, mas à empresa sucedida, a jurisprudência do Superior Tribunal de Justiça se pacificou com o julgamento dos Embargos de Divergência nº 1.695.790/SP, de Relatoria do Ministro Gurgel de Faria, no sentido de que a execução pode ser direcionada à sociedade incorporada sem necessidade de alteração do ato de lançamento para emissão de nova Certidão de Dívida Ativa.
+5. Em que pese a afirmação da embargante de que União tinha conhecimento da incorporação da executada, não há nos autos prova inequívoca da comunicação da embargada acerca da incorporação da sociedade, aos órgãos cadastrais competentes antes da notificação do lançamento, situação em que a sucessão empresarial não se equipara à identificação errônea do sujeito passivo, o que também há restou decidido pelo C. STJ.
+6. Conforme anotado pelo Juízo a quo ao julgar a exceção de pré-executividade, evidencia-se que, diversamente do alegado pela parte, houve pronunciamento expresso acerca da alegação de pagamento formulada pela executada, que, apesar de não se conformar com o resultado não interpôs o recurso cabível na oportunidade, do que decorreu a preclusão da matéria invocada. Absolutamente pertinentes os julgados do Superior Tribunal de Justiça colacionados na decisão impugnada, acercada matéria.
+7. Registro que no caso de inexistentes novos argumentos, não está obrigado o julgador a trazer novos fundamentos para a decisão atacada, conforme já se manifestou esta Sexta Turma.
+8. Negado provimento ao agravo interno.
+No recurso especial, a parte alega, em síntese, violação dos arts. 502, 1.022, 1.025 e 1.026, §2º, do CPC/2015, bem como do art. 16 da Lei n. 6.830/1980. Argui:
+(i) deve ser afastada a multa do art. 1.026 do CPC/2015 aplicada;
+(ii) entende que não há coisa julgada material, "uma vez que as provas apresentadas pela recorrente JAMAIS foram analisadas em sede de Exceção de Pré-Executividade, o que impede o reconhecimento de preclusão consumativa de algo que não foi objeto de decisão" (e-STJ fl. 298);
+(iii) " ..  a presente Execução Fiscal deve ser extinta com o cancelamento da cobrança dela objeto ou, no máximo, mantida a exigência da diferença existente entre o valor declarado na DIPJ/93 e o efetivamente recolhido relativamente ao período de dezembro/92, já que devidamente comprovados os recolhimentos efetuados pela Recorrente à época dos respectivos vencimentos, reformando-se a r. sentença monocrática que não apreciou os documentos e argumentos expendidos pela Recorrente que fatalmente levam à conclusão acima demonstrada" (e-STJ fl. 302).
+Contrarrazões apresentadas às e-STJ fls. 336/339.
+O recurso especial foi inadmitido na origem (e-STJ fls. 353/359).
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de embargos à execução fiscal em que MAKRO ATACADISTA S.A. pretende, em síntese, a desconstituição do título que embasa a execução fiscal e o reconhecimento da ilegitimidade passiva dos sócios.
+A sentença julgou extinta a ação em relação às alegações de pagamento e ilegitimidade passiva e julgou improcedentes os embargos à execução e extingo o feito, com resolução de mérito, no que diz respeito à nulidade da certidão de dívida ativa.
+O Tribunal a quo negou provimento ao agravo de instrumento.
+Os embargos de declaração apresentados foram rejeitados, com aplicação de multa.
+Pois bem.
+No que se refere à alegada violação do art. 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI - desembargadora convocada do TRF da 3ª Região - Segunda Turma, DJe 15/04/2016).
+No que tange à suposta violação da coisa julgada, verifica-se que o Tribunal de origem, com base nos fatos e provas dos autos, consignou que "a alegação de que foi efetuado o pagamento do débito em dobro já foi analisada em exceção de pré-executividade, definitivamente julgada, o que obsta sua rediscussão, ante a eficácia preclusiva da coisa julgada" (e-STJ fl. 213).
+Assim, a inversão do julgado de modo a acolher a tese defendida no recurso especial demandaria necessariamente o revolvimento do mesmo conjunto fático-probatório, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RENDIMENTOS RECEBIDOS ACUMULADAMENTE. REGIME DE TRIBUTAÇÃO. COISA JULGADA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. DISPOSITIVOS DE LEI FEDERAL. APTIDÃO PARA INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO. AUSÊNCIA.
+1. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ).
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+3. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284 do STF).
+4. Em sede de recurso repetitivo, esta Corte Superior firmou o entendimento segundo o qual o imposto de renda incidente sobre os rendimentos recebidos acumuladamente deve ser calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos (REsp 1.118.429/SP, Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 14/05/2010).
+5. Ao consignar expressamente que o regime de tributação fixado para o caso concreto estava abrangido pelo manto da coisa julgada, o Tribunal regional o fez fundado no contexto fático e probatório carreado aos autos, sendo inviável a alteração desta conclusão no caso concreto em razão do óbice da Súmula 7 do STJ.
+6. Os arts. 111 e 176 do CTN não possuem comando normativo capaz de infirmar a conclusão adotada na origem.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.282.112/RS, de minha relatoria, Primeira Turma, julgado em 12/8/2019, DJe de 20/8/2019.).
+Contudo, quanto à aplicação da multa do art. 1.026, § 2º, do CPC/2015, ressalte-se que, nos termos da Súmula 98 do STJ, não tem caráter procrastinatório os embargos de declaração opostos com a finalidade de preencher o requisito de prequestionamento, tal como ocorrido na hipótese, de modo que se impõe o afastamento da multa aplicada na origem. Sobre o tema:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CAUTELAR. NATUREZA JURÍDICA DE INCIDENTE PROCESSUAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. AFASTAMENTO. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA. ART. 1.026, §2º, DO CPC/15. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+III - É firme o posicionamento desta Corte segundo o qual a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.859.544/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 10/05/2021, DJe 12/05/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE DA CONCESSIONÁRIA. VAZAMENTO DE GÁS CLORO TÓXICO. QUALIFICAÇÃO DO PERITO. SÚMULA 7/STJ. EXORBITÂNCIA DA CONDENAÇÃO. SÚMULA 284/STF. COMPLEMENTAÇÃO. TARDIA DAS RAZÕES. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL E PRECLUSÃO CONSUMATIVA. CONDUTA DA VÍTIMA. RAZOABILIDADE DA REPARAÇÃO. INSURGÊNCIA QUANTO AO QUE NÃO SE DECIDIU. SÚMULA 182/STJ. PENSÃO. PREJUÍZO PERMANENTE, AINDA QUE NÃO ABSOLUTO, À CAPACIDADE LABORATIVA. VALOR EMBASADO NO SALÁRIO MÍNIMO. ASPECTO FÁTICO. JUROS. TERMO INICIAL. DANO EXTRACONTRATUAL. SÚMULA 54/STJ. ÍNDICE. TEMAS 810/STF E 905/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. SÚMULA 98/STJ.
+ ..
+6. Tendo o próprio acórdão reconhecido o intuito meramente prequestionador dos aclaratórios opostos na origem, incide a Súmula 98/STJ (Embargos de declaração manifestados com notório propósito de prequestionamento não têm
+caráter protelatório).
+7. Agravo interno conhecido em parte e, nessa extensão, provido em parte, apenas para afastar a multa por oposição de embargos protelatórios.
+(AgInt no REsp 1.824.032/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/03/2021, DJe 25/03/2021).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de afastar a condenação da parte recorrente ao pagamento de multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
