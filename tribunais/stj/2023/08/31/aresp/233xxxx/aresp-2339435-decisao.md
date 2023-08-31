@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por MAKROQUÍMICA - PRODUTOS QUÍMICOS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO MONITÓRIA COM EMBARGOS MONITÓRIOS - SENTENÇA DE PARCIAL PROCEDÊNCIA DA AÇÃO MONITÓRIA E DE IMPROCEDÊNCIA DOS EMBARGOS - INSURGÊNCIA DA RÉ/EMBARGANTE - PRELIMINAR DE NULIDADE DA SENTENÇA POR SER ULTRA PETITA - NÃO ACOLHIMENTO - MÉRITO - ALEGAÇÃO DE QUE AS MERCADORIAS CONTRATADAS NÃO FORAM ENTREGUES - NÃO ACOLHIMENTO - RESPONSABILIDADE PELO TRANSPORTE DAS MERCADORIAS QUE RECAÍA SOBRE O COMPRADOR - COMPROVANTES DE PAGAMENTO JUNTADOS EM SEDE DE EMBARGOS MONITÓRIOS QUE SE REFEREM A PARCELAS NÃO COBRADAS DA AÇÃO MONITÓRIA - HONORÁRIOS RECURSAIS - SENTENÇA MANTIDA - RECURSO DESPROVIDO" (fl. 301, e-STJ).
+No especial, o recorrente aponta violação dos artigos 141 e 492, do CPC, requerendo a nulidade do acórdão recorrido, considerando que a decisão extrapolou o próprio pedido formulado na lide, caracterizando-se como julgamento extra ou ultra petita.
+Por fim alega ofensa ao artigo 700 do CPC, aduzindo que não houve a necessária comprovação do direito creditório pressuposto em ação monitória.
+Apresentadas contrarrazões às fls. 333/349,e-STJ, foi inadmitido o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, verifica-se que o Tribunal de origem afastou a alegada nulidade por julgamento extra ou ultra petita nos seguintes termos:
+"(..)
+Primeiramente, rejeita-se a preliminar de nulidade da sentença por ser , uma vez que o valor da ultra petita condenação imposta na sentença (R$ 131.395,68) é inferior, inclusive, ao pleiteado pela autora ora apelada na exordial (R$ 137.965,46). Nesse âmbito, destaca-se que o valor da condenação é referente ao débito cobrado na ação monitória, e não a parcelas já adimplidas" (fl. 302, e-STJ).
+Como se observa, a decisão recorrida está em conformidade com a jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO INTERNO NA AÇÃO RESCISÓRIA - COMPETÊNCIA DO STJ - DEMONSTRAÇÃO - AÇÃO DE RESOLUÇÃO CONTRATUAL C/C PERDAS E DANOS JULGADA PROCEDENTE PELAS INSTÂNCIAS ORDINÁRIAS - DELIBERAÇÃO MANTIDA PELA EG. TERCEIRA TURMA - DECISÃO UNIPESSOAL QUE INDEFERIU A PETIÇÃO INICIAL - INSURGÊNCIA DA AUTORA.
+1. A decisão proferida no AREsp 1.267.013/PA de maneira efetiva analisou a controvérsia acerca da existência, ou não, de julgamento com natureza extra petita (artigos 128 e 460, do CPC), de modo a concluir pelo afastamento da alegação de violação aos supracitados dispositivos legais, de modo a evidenciar a competência deste STJ para o exame da presente ação rescisória.
+2. Na hipótese dos autos, a decisão ora questionada foi expressa e categórica no sentido de que "o julgamento não se mostra fora do pedido quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, ainda que não expressamente formulados pela parte." Na mesma linha de cognição , são os seguintes julgados: AgInt no AREsp 1385116/SP, Rel. Min. Gurgel de Faria, DJe de 16/06/2021; AgInt no AREsp 1969062/SP, Desta Relatoria, DJe de 31/03/2022; AgInt no AgInt no AREsp 1910187/RO, Rel. Min. Antonio Carlos Ferreira, DJe de 18/03/2022; AgInt no REsp 1312009/SP, Rel. Min. Luis Felipe Salomão, DJe de 18/03/2022; AgInt no REsp 1662811/TO, Rel. Min. Maria Isabel Gallotti, DJe de 17/03/2022; AgInt no AREsp 1878578/MS, Rel. Min. Raul Araújo, DJe de 24/02/2022.
+3. Agravo interno desprovido" (AgInt na AR n. 7.234/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 30/5/2023, DJe de 1/6/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. SUBSISTÊNCIA DIGNA. JULGAMENTO ALÉM O PEDIDO. INOCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A impenhorabilidade da verba de natureza salarial ou remuneratória é restrita à parcela suficiente à preservação da dignidade do devedor e de sua família.
+2. Não há julgamento extra, infra ou ultra petita quando o órgão julgador decide, a partir de uma interpretação lógico-sistemática dos pedidos, dentro dos limites objetivos da pretensão inicial, respeitando o princípio da congruência (AgInt no REsp n. 1.329.383/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+3 . Agravo interno desprovido" (AgInt nos EDcl no AREsp n. 2.149.395/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL  AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. A jurisprudência do STJ é firme no sentido de que o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido, compreendido como aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos". Precedentes.
+3. Conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, A aplicação do princípio da fungibilidade recursal é cabível na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser contra a decisão judicial a qual se pretende impugnar (AgInt no AREsp 1632625/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/03/2021, DJe 12/03/2021). Precedentes.
+4. Agravo interno desprovido" (AgInt nos EDcl nos EDcl no REsp 1.256.556/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/04/2022, DJe 06/04/2022 - grifou-se).
+"AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. JULGAMENTO "EXTRA PETITA". NÃO OCORÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO RECURSAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO A OBRIGAÇÃO DE FAZER COM ASTREINTES. AUSÊNCIA DE INTIMAÇÃO PESSOAL. INEXIGIBILIDADE DAS ASTREINTES TANTO NA VIGÊNCIA DO CPC/1973 QUANTO NA DO CPC/2015. SÚMULA 410/STJ. PRECEDENTE DA CORTE ESPECIAL.
+1. Polêmica central referente à exigibilidade de astreintes cominadas sem intimação pessoal do devedor.
+2. Inocorrência de decisão "extra petita" no julgamento do recurso especial, pois os pedidos são interpretados de forma lógico- sistemática, abrangendo não só aqueles formalmente deduzidos no capítulo próprio, mas também aqueles extraídos do corpo da petição inicial/recursal, conforme se deduz da pretensão da parte.
+3. Caso concreto em que houve pedido expresso de exclusão das astreintes no corpo da petição recursal, não havendo falar em julgamento "extra petita".
+4. Nos termos da Súmula 410/STJ: "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+5. Subsistência da referida súmula na vigência do CPC/2015, conforme precedente da Corte Especial.
+6. Caso concreto em que o devedor não foi intimado pessoalmente da cominação das astreintes, sendo inexigível o respetivo valor.
+7. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1819506/SP, Rel.
+Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021 - grifou-se).
+Por fim, no que se refere à ofensa ao artigo 700 do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento a o recurso especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para 18% (dezoito por cento) em favor do advogado do recorrido, observada assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
