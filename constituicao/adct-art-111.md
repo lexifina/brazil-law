@@ -1,1 +1,0 @@
-Art. 111. A partir do exercício financeiro de 2018, até o exercício financeiro de 2022, a aprovação e a execução previstas nos §§ 9º e 11 do art. 166 da Constituição Federal corresponderão ao montante de execução obrigatória para o exercício de 2017, corrigido na forma estabelecida no inciso II do § 1º do art. 107 deste Ato das Disposições Constitucionais Transitórias.
