@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus, sem pedido liminar, interposto por JORGE LUIZ ROLIM FILHO contra acórdão proferido nestes autos pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, lá tombados como HC n. 1604190-61.2022.8.12.0000.
+Consta  nos  autos  que  o  Recorrente "responde à ação penal conduzida pelo Ministério Público Estadual, pela suposta prática dos delitos previstos no art. 330 (desobediência), art. 331 (desacato) e art. 329 (resistência), todos do Código Penal" (fl. 558).
+Do que se pode entender das confusas razões  recursais, alega-se que não há justa causa, por não haver sequer indícios de autoria.
+Ao  final,  requer-se (fl. 596; sic):
+"a) Que haja o recebimento do presente recurso, no seu efeito devolutivo e suspensivo, para tornar sem efeito o acórdão recorrido, concedendo a ordem para fazer cessar a coação ilegal que o paciente está submetido, com a expedição imediata de alvará de trancamento da ação penal.
+b) Seja o Recorrido intimado para se manifestar, querendo;
+c) Seja dado total provimento ao presente recurso para que seja anulada a decisão que para que seja proferida nova decisão;
+e) Seja determinada a redistribuição dos ônus sucumbenciais."
+Foram prestadas informações.
+Parecer do Ministério Público Federal às fls. 631-638, pelo desprovimento.
+É  o  relato  do  necessário.  Decido.
+A  pretensão  originária  não pode ser examinada.
+O  Relator  na  origem,  no  voto  unânime  condutor  do  acórdão  ora  Recorrido,  não conheceu da impetração sob o fundamento de que o pedido formulado na inicial destes autos consistia "em mera reiteração do Habeas Corpus nº 1602507-86.2022.8.12.0000, impetrado em 06/06/2022, julgado em 23/06/2022, publicado no Diário de Justiça nº 4978, em 27/06/2022, que denegou a ordem de habeas corpus" (fl. 559).
+  Tal  ponderação,  todavia,  não  foi  infirmada  na  presente  via de impugnação,  pois  o  Recorrente,  em  vez  de  narrar  se  houve  error  in  procedendo  e  ressaltar  fundamentadamente  a  possibilidade  de  que  o  mérito  d a  controvérsia  fosse  analisado  pela  Corte  local,  limitou-se  a  deduzir  alegações  sobre  o  fundo  da  controvérsia  não  examinada  no  ato  ora  impugnado  -  o  que  é  processualmente  inadequado,  por  consistir  em  supressão  de  instância.
+Em  outras  palavras ,  em  vez  de  buscar  que  o  Superior  Tribunal  de  Justiça  analisasse,  per  saltum,  a  pretensão  defensiva,  deveria  ter  desenvolvido  fundamentação  vinculada  ao  pedido  para  que  o  Tribunal  estadual  o  fizesse.
+Tem-se,  portanto,  que  a  pretensão  defensiva  ora  formulada  está  dissociada  do  motivos  declinados  no  decisum  ora  recorrido.  Em  outras  palavras,  as  razões  recursais,  de  fato,  não  infirmam  os  fundamentos  declinados  pelo  Tribunal  de  origem.  Consequentemente,  a  pretensão  do  Recorrente  não  pode  ser  conhecida,  devendo,  na  hipótese,  ser  aplicada  a  determinação  do  art.  932,  inciso  III,  do  Código  de  Processo  Civil,  in  verbis  (sem  grifos  no  original):
+"Art.  932.  Incumbe  ao  relator:
+I  -  dirigir  e  ordenar  o  processo  no  tribunal,  inclusive  em  relação  à  produção  de  prova,  bem  como,  quando  for  o  caso,  homologar  auto  composição  das  partes;
+II  -  apreciar  o  pedido  de  tutela  provisória  nos  recursos  e  nos  processos  de  competência  originária  do  tribunal;
+III  -  não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida;
+ .. ."
+No  ponto,  cito  os  seguintes  precedentes,  mutatis  mutandis:
+"RECURSO  ORDINÁRIO  EM  MANDADO  DE  SEGURANÇA.  RAZÕES  DISSOCIADAS  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  AUSÊNCIA  DE  DIALETICIDADE.  INCIDÊNCIA  DAS  SÚMULAS  283  E  284  DO  STF.
+1.  A  Corte  Regional,  ao  julgar  o  Mandado  de  Segurança,  denegou  a  ordem  por  entender  que  não  há  necessidade  que  justifique  a  impetração  do  mandamus  quando  já  alcançado,  administrativamente,  o  objeto  da  pretensão.
+2.  Não  obstante  as  razões  explicitadas  pela  instância  a  quo,  ao  interpor  o  recurso,  a  recorrente  não  impugnou  o  fundamento  acima  mencionado  no  tocante  à  desnecessária  impetração  do  Mandado  de  Segurança  tendo  em  vista  que  a  sua  pretensão  já  havia  sido  alcançada  pela  via  administrativa.
+3.  Ao  proceder  dessa  forma,  não  observou  a  recorrente  as  diretrizes  fixadas  pelo  princípio  da  dialeticidade,  dentre  as  quais  se  destacar  a  indispensável  pertinência  temática  entre  as  razões  de  decidir  e  os  fundamentos  fornecidos  pelo  recurso  para  justificar  o  pedido  de  reforma  ou  de  nulidade  do  julgado.  Incidência,  por  analogia,  das  Súmulas  283  e  284  do  STF.
+4.  Recurso  em  Mandado  de  Segurança  não  conhecido."  (STJ,  RMS  54.537/MG,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  10/10/2017,  DJe  18/10/2017.)
+"AGRAVO  REGIMENTAL  NO  RECURSO  ORDINÁRIO  CONSTITUCIONAL  EM  HABEAS  CORPUS.  RAZÕES  DO  RECURSO  ORDINÁRIO  DISSOCIADAS  DA  MOTIVAÇÃO  DO  ACÓRDÃO  DO  TRIBUNAL  DE  ORIGEM.  NÃO  CONHECIMENTO  DO  RECURSO  NA  HIPÓTESE  DE  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA:  ATRIBUIÇÃO  MONOCRÁTICA  DO  RELATOR.  ART.  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  DECISÃO  SINGULAR  DE  NÃO  CONHECIMENTO  DO  ORDINÁRIO  QUE  DEVE  SER  MANTIDA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Se  as  razões  do  recurso  ordinário  em  habeas  corpus  não  infirmam  as  conclusões  do  Tribunal  de  origem  -  ou  seja,  estão  dissociadas  dos  fundamentos  do  decisum  de  segundo  grau  -  há  violação  do  princípio  da  dialeticidade.
+2.  Nos  termos  do  art.  932,  inciso  III,  do  Código  de  Processo  Civil,  é  atribuição  monocrática  do  Relator  "não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+3.  Agravo  regimental  desprovido."  (STJ,  AgRg  no  RHC  147.841/PB,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  15/06/2021,  DJe  25/06/2021.)
+
+Em  conclusão,  impõe-se  reconhecer  a  incognoscibilidade  deste recurso ,  em  razão  da  impossibilidade,  no  caso,  de  esta  Corte  manifestar-se  sobre  o  fundo  da  controvérsia  per  saltum.
+No  mais, para que não se alegue omissão, à fl. 640, o Recorrente protoco lou petição na qual alega que "conforme entendimento do SUPERIOR TRIBUNAL FEDERAL a prescrição do crime de desacato, conforme julgado anexo, prescreve em 3 (três) anos, para tanto anexa ao presente julgado do STF onde externa seu ponto de vista nesse sentido" (sic) e, ao final, formula incidentalmente pedido originário no sentido de que "seja para tanto, no presente caso reconhecida a prescrição" (sic).
+Ocorre que, "ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC 666.908/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+Reproduzo, a propósito, as seguintes ementas do Superior Tribunal de Justiça, mutatis mutandis:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  .. . INÉPCIA DA DENÚNCIA E PRESCRIÇÃO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1.  .. .
+4. As teses referentes à inépcia da denúncia, bem como ao instituto da prescrição em relação à imputação de violação ao art. 214, parágrafo único, do Código Penal, não foram objeto de apreciação pelo Tribunal de origem, ficando esta Corte impedida de apreciar os temas sob pena de incidir em indesejada supressão de instância. Ademais, quanto ao instituto da prescrição, apesar de se tratar de matéri a de ordem pública, deve ser analisada pela Corte estadual, conforme o entendimento desta egrégia Quinta Turma.
+5. Agravo regimental desprovido." (AgRg no HC 712.721/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS NÃO CONHECIDO. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. DESCABIMENTO. PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. FALTA DE ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NECESSIDADE DE PRÉVIA APRECIAÇÃO DO TEMA NA ORIGEM. EXIGÊNCIA INCLUSIVE QUANTO ÀS MATÉRIAS DE ORDEM PÚBLICA. PONTO SUSCITADO TAMBÉM EM WRIT E EM RECURSO ESPECIAL CONTRA O ACÓRDÃO DA APELAÇÃO.
+Agravo regimental não conhecido." (AgRg no RHC 150.463/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/10/2021, DJe 19/10/2021; sem grifos no original.)
+Ante  o  exposto,  NÃO CONHEÇO do recurso.
+Publique-se.  Intimem-se.
+
+EMENTA
+  RECURSO  ORDINÁRIO  CONSTITUCIONAL  EM  HABEAS  CORPUS.  PRETENSÃO  RECURSAL  INCOGNOSCÍVEL.  RAZÕES  RECURSAIS  DISSOCIADAS  DA  MOTIVAÇÃO  DO  ACÓRDÃO  A  QUO.  NÃO  CONHECIMENTO  DO  RECURSO  NA  HIPÓTESE  DE  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ATRIBUIÇÃO  MONOCRÁTICA  DO  RELATOR.  ART.  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  IMPOSSIBILIDADE  DE  ANÁLISE  DA  CONTROVÉRSIA  PER  SALTUM  PELO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  PEDIDO INCIDENTAL DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A MATÉRIA PER SALTUM, AINDA QUE SE TRATE DE QUESTÃO DE ORDEM PÚBLICA. RECURSO NÃO CONHECIDO.
