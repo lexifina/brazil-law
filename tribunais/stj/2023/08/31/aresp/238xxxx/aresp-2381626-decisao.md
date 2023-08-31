@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por UNIMED DE SOROCABA COOPERATIVA DE TRABALHO MÉDICO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/09/2022.
+Concluso ao gabinete em: 17/07/2023.
+Ação: de compensação por danos morais, ajuizada por ALINE APARECIDA FERREIRA RAMALHO, em face da agravante, em razão de alegado erro médico.
+Sentença: julgou parcialmente procedente o pedido para condenar a recorrente e UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO a pagarem, de forma solidária, a quantia de R$ 250.000,00.
+Acórdão: negou provimento à apelação interposta pela agravante, e deu provimento à apelação da agravada, para alteração do ônus sucumbencial, nos termos da seguinte ementa:
+Ação de indenização por danos morais. Erro médico. Prova pericial. Desnecessidade de realização de nova perícia e substituição do Perito nomeado. Perícia que alcançou seu objetivo. Ademais, o Juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados no processo (CPC, art. 479), inclusive por meio do exame do conteúdo do próprio laudo pericial. Pretendida responsabilização do plano de saúde por danos morais, em virtude do óbito do feto. Responsabilidade objetiva, nos termos do artigo 14, "caput", do CDC, por inadequação dos serviços prestados pelos prepostos. Situação que permite a aplicação da teoria da perda de uma chance. Critério a serem pregado para a quantificação da compensação pela perda da oportunidade que não se confunde com a indenização cabível para as hipóteses em que a responsabilidade do dano é integralmente imputada ao Réu. Danos morais configurados e bem fixados em R$ 250.000,00. Sucumbência atribuída com exclusividade às Rés. Inteligência da Súmula 326 do C. STJ. Sentença de parcial procedência reformada em parte. Honorários sucumbenciais majorados para 12% do valor da condenação (art. 85, § 11, do CPC). Recurso da Ré não provido e provido o recurso da Autora.
+Recurso especial: alega violação dos arts. 7º, 369 e 370 do CPC; e 186, 188, I, 884 e 927 do CC, bem como dissídio jurisprudencial. Afirma o cerceamento de defesa em razão da ausência de indicação de perito com especialização em ginecologia e obstetrícia. Afirma que não cometeu ato ilícito e sustenta o enriquecimento sem causa da agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 7º, 369 e 370 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamento não impugnado
+Ainda que assim não fosse, a agravante não impugnou o seguinte fundamento utilizado pelo TJ/SP (e-STJ fl. 770):
+De início, não se vislumbra que assista razão à Ré, no que diz respeito à necessidade de substituição do Perito, para realização de nova perícia, porquanto, pelo que se verifica do processo, o Juízo a quo se mostrou atento e diligente quanto à perícia realizada e determinou fossem prestados esclarecimento pelo "expert". Ademais, deve ser ainda observado o fato de que "o juiz não está adstrito ao laudo pericial podendo, inclusive, caso seja o seu convencimento, pronunciar-se de forma totalmente contrária, em confronto com as demais provas dos autos" (CPC, art. 479),inclusive por meio da análise do próprio conteúdo da prova pericial realizada, sem se vincular à conclusão do perito.
+Cumpre esclarecer ainda que, conforme já decidiu esse Tribunal: "A perícia realizada com observância aos princípios legais e técnicos com conclusão desfavorável a uma das partes não enseja a realização de nova prova pericial, pois não configurada a imprestabilidade da mesma" (2º TACSP, Ap.491.977-00/1, Rel. VIEIRA DE MORAES, RT 749/318).
+Ademais, verifica-se que o i. Perito foi nomeado em decisão saneadora (págs. 285/286), nomeação essa que não restou impugnada pela Ré, no momento oportuno. Apenas após a conclusão pericial de forma desfavorável a ela é que se insurgiu quanto à sua especialização profissional (pág. 290). A perícia foi realizada e os esclarecimentos prestados, conforme pleiteado pela Ré. Novo pedido de esclarecimentos e de substituição do perito foi indeferido (págs. 531 e 536), sem que tenha sido apresentado qualquer recurso a respeito, considerado que o mero inconformismo com o trabalho e a conclusão técnica não tem o condão de desqualificar o laudo apresentado.
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere a existência de defeito na prestação dos serviços, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do pedido de revisão do valor da compensação por danos morais.
+Ao julgar o recurso de apelação interposto pela parte agravante, o TJ/SP fixou o valor da compensação por danos morais em R$ 250.000,00 reais em razão da falha na prestação dos serviços da agravante que ocasionou a perda de uma chance de vida ao feto da agravada.
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exorbitante, o que não está caracterizado neste processo.
+Nesse sentido: AgInt no AREsp n. 1.626.727/RJ, Quarta Turma, DJe de 2/5/2023, e AgInt no REsp n. 1.993.864/SP, Terceira Turma, DJe de 27/4/2023; AgInt no AREsp n. 2.080.410/SP, Segunda Turma, DJe de 19/12/2022; AgInt no AREsp n. 2.028.678/SP, Terceira Turma, DJe de 28/10/2022; AgInt no AREsp n. 1.905.023/RJ, Segunda Turma, DJe de 5/9/2022; AgInt no AREsp n. 2.059.086/RJ, Quarta Turma, DJe de 27/6/2022.
+Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (constatação de falha na prestação dos serviços médico-hospitalares), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 779) para 13% (treze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DANO MORAL. REVISÃO DO VALOR. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. DISSÍDIO PREJUDICADO.
+1. Ação de compensação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial não conhecido.
