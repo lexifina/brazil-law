@@ -1,0 +1,13 @@
+DECISÃO
+NAYARA LIMA ALCANTARA acoima de ilegal o acórdão proferido pelo Tribunal a quo.
+A defesa pretende o trancamento do processo - denunciada pelo crime de fraude à licitação -, sob o argumento de falta de provas idôneas para demonstrar a justa causa.
+Sustenta que houve "a propositura de uma denúncia para cada licitação fraudada", bem como o "idêntico acervo probatório que dá esteio a instauração das ações penais 326-52.2019.8.06.0130 (paciente absolvida sem recurso da acusação) e 332-93.2018.8.06.0130 (a qual se pretende trancar neste HC)".
+Afirma que a recorrente "não solicitou, não autorizou, não contratou, não utilizou, não recebeu e nem pagou absolutamente nada. sua ação revestiu-se em retratar um fato verídico, uma prestação de serviços".
+Ressalta que "não se pode olvidar que foram celebrados dois acordos de colaboração premiada no âmbito da "Operação Salles", foram realizados inúmeros depoimentos, foram apreendidos diversos documentos, foram realizadas várias interceptações telefônicas e nada, absolutamente nada, surgiu que possa incriminar a paciente".
+Pleiteia "seja dado integral provimento para o trancamento da ação penal".
+O acórdão ora impugnado, após salientar que "a peça acusatória também foi devidamente instruída com  ..  quebra de sigilo bancário e fiscal (Processo nº 6382-38.2018.8.06.0130), bem como a interceptação telefônica de integrantes do grupo criminoso investigado(Processo nº 6514-95.2018.8.06.0130)", consigna que "os fatos imputados à paciente na Ação Penal de nº 0000332-93.2018.8.06.0130, na qual restou absolvida, embora semelhantes aos atribuídos na Ação Penal de nº 0000326-52.2019.8.06.0130, referiam-se à Dispensa de Licitação de nº 7/2013011401GAB, relativa a 03 (três) pagamentos efetuados à empresa Lucas e Sales Locação de Veículos Ltda., pelo aluguel de um carro de luxo, enquanto o processo objeto do presente writ (Ação Penal de nº 0000326-52.2019.8.06.0130) refere-se à Dispensa de Licitação de nº 7/2013012502ADM, a qual trata de pagamentos efetuados para a locação de um veículo tipo Fiat Uno, quatro portas, com ar condicionado".
+Assim, ao avaliar a tese defensiva - de inexistência de elementos que indiquem a autoria -, verifico que a pretensão do impetrante esbarra na estreitíssima via do habeas corpus, consequência do escopo precípuo de afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente não comporta dilação probatória.
+Daí porque a necessidade de exame de provas para a análise do pleito ora formulado impede o conhecimento deste writ.
+À vista do exposto, indefiro liminarmente este recurso, nos termos do art. 210, c/c o art. 246, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
