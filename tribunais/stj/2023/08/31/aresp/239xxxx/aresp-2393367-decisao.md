@@ -1,0 +1,38 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que rejeitou exceção de pré-executividade. No Tribunal a quo a decisão foi mantida. O valor da causa foi fixado em R$ 1.006.220,80 (Um milhão e seis mil, duzentos e vinte reais e oitenta centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SUSPENSÃO DA EXECUÇÃO. IMPOSSIBILIDADE. HIPÓTESE DOS AUTOS QUE NÃO SE IDENTIFICA COM O PARADIGMA AFETADO PARA JULGAMENTO PELO RITO DOS RECURSOS REPETITIVOS. REDIRECIONAMENTO. SÓCIO COM PODERES DE ADMINISTRAÇÃO. CDA QUE ATENDE AOS REQUISITOS DA LEF. PRESUNÇÃO DE CERTEZA. LIQUIDEZ E EXIGIBILIDADE DO TÍTULO NÃO AFASTADA. RECURSO DESPROVIDO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1. O Superior Tribunal de Justiça no REsp nº 1.377.019/SP, a teor do artigo 1.037, inciso II, do CPC/2015, suspendeu em todo o território nacional os processos em que se discute a possibilidade de redirecionamento da execução fiscal contra o sócio que exercia a gerência da empresa devedora à época do fato tributário, e dela regularmente se afastou, sem dar causa à dissolução irregular. Descabido, portanto, o pedido de suspensão do processo sob tal premissa, haja vista que o sócio agravante detinha poderes de administração desde a constituição da pessoa jurídica até o momento em que verificados os indícios de dissolução irregular.
+2. Nesse viés, a responsabilidade dos sócios advém da dissolução irregular da empresa, fato que configura infração à lei, nos termos do artigo 135, inciso III, do Código Tributário Nacional. Referido dispositivo legal não exige que o descumprimento de lei seja relativo ao fato gerador. Conforme a ficha cadastral da JUCESP, o sócio cuja inclusão no polo passivo se pretende era administrador da sociedade desde a sua constituição, o que autoriza a responsabilização pessoal pelos débitos da pessoa jurídica irregularmente dissolvida.
+3. A petição inicial e as CDAs atendem aos requisitos específicos da Lei de Execução Fiscal. Explicitação de modo hábil não só a origem da dívida, mas também da forma de calcular encargos de juros, correção e multa. A indicação da legislação pertinente se mostra suficiente para atendimento do art. 2º, §5º, da Lei de Execuções Fiscais, pois indica de modo hábil a forma de calcular o crédito, o qual decorre das disposições legais tributárias específicas, bastando sua citação no corpo da CDA, razão pela qual "é desnecessária a apresentação do demonstrativo de cálculo, em execução fiscal" (REsp1138202/ES, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 09/12/2009, na sistemática dos recursos repetitivos, DJe 01/02/2010).
+4. Agravo de instrumento desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A controvérsia trazida nos autos é relativa à possibilidade de redirecionamento da execução fiscal contra o sócio que exercia a gerência da sociedade empresária devedora, e à alegação de nulidade da CDA.
+(..)
+Ocorre que, na hipótese dos autos, os sócios contra os quais se pleiteia o redirecionamento da execução fiscal exerciam a gerência da sociedade desde a sua constituição, isto é, tanto à época do fato gerador quanto à data da ocorrência dos supostos indícios de dissolução irregular.
+Com efeito, as Certidões de Dívida Ativa referem-se a tributos e multas vencidos entre 2013 e 2015, constituída por declaração da executada (ID 133447458,p. 8-46). Da análise da ficha da JUCESP, vê-se que o aludido sócio ingressou no quadro societário em 1985, permanecendo inalterada tal situação, ao menos, até outubro de 2018, quando formulado o pedido de redirecionamento do feito (ID133447458, p. 59).
+Nesse cenário, não havendo identidade entre a hipótese dos autos e a matéria pendente de julgamento no Superior Tribunal de Justiça, visto que os sócios respondiam pela empresa em ambos os períodos concernentes à controvérsia, eventual decisão de mérito proferida nos Recursos Especiais nº 1.377.019/SP e1.643.944/SP, sob o rito dos recursos repetitivos, não confrontará o quanto decidido no feito executivo acerca da responsabilidade tributária para fins de redirecionamento.
+(..)
+Segundo entendimento firmado no julgamento do REsp nº 1.371.128/RS, pelo rito dos recursos repetitivos, o descumprimento desses deveres caracteriza infração à lei, ensejando a possibilidade de responsabilização pelos débitos tributários da pessoa jurídica, nos termos do artigo 135, inciso III, do Código Tributário Nacional.
+Veja-se:
+(..)
+(REsp 1371128/RS, Relator Ministro MAURO CAMPBELLMARQUES, Primeira Seção, DJE DATA:17/09/2014)
+(..)
+Prosseguindo, a responsabilidade dos sócios advém da dissolução irregular da empresa, fato que configura infração à lei, nos termos do artigo 135, inciso III, do Código Tributário Nacional. Referido dispositivo legal não exige que o descumprimento de lei seja relativo ao fato gerador. Corroborando o entendimento ora esposado:
+(..)
+(AgInt no AREsp 632520/SC, Relator Ministro HERMANBENJAMIN, STJ - Segunda Turma, DJe 03/03/2017)
+(..)
+(AgInt no REsp 1609232/SC, Relatora Ministra ASSUSETEMAGALHÃES, STJ - Segunda Turma, DJe 15/02/2017)
+(..)
+Ainda à luz de tal julgado, a indicação, na CDA, da legislação pertinente se mostra suficiente para atendimento do art. 2º, §5º, da Lei de Execuções Fiscais, pois explicita de modo hábil não só a origem da dívida, mas também a forma de calcular encargos de juros, correção e multa, sendo hígidos portanto os títulos na espécie.
+(..)
+De fato, "desnecessária a apresentação do demonstrativo de cálculo, em execução fiscal, uma vez que a Lei n.º 6.830/80 dispõe, expressamente, sobre os requisitos essenciais para a instrução da petição inicial e não elenca o demonstrativo de REsp 1138202/ES, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, débito entre eles "julgado em 09/12/2009, DJe 01/02/2010, julgado na sistemática dos recursos repetitivos).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 485, 783 e 803 do CPC/2015 e 134 do CTN, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
