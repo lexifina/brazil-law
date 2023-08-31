@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJMA, assim ementado (fl. 132):
+DIREITO DO CONSUMIDOR. APELAÇÃO. AÇÃO INDENIZATÓRIA. FORNECIMENTO DE ÁGUA. CORTE. AVISO PRÉVIO COMPROVADO. NÃO OCORRÊNCIA DEATO ILÍCITO ENSEJADOR DA OBRIGAÇÃO DE INDENIZAR. APELO CONHECIDO E DESPROVIDO.
+I. Comprova que a concessionário vinha satisfatoriamente avisando acerca da existência de débito anteriores, que poderiam ensejar a suspensão no fornecimento do serviço, deve ser julgado improcedente o pedido de indenização por dano moral. Precedentes;
+II. Ausentes os requisitos configuradores da responsabilidade civil, quais sejam, ato ilícito (art. 186, CC) ou abuso de direito (art. 187, CC), não há que se falar em obrigação de indenizar;
+III. Apelo conhecido e desprovido.
+O recorrente alega, além de dissídio jurisprudencial, violação dos arts. 42 do CDC e 927 do CC/2002, ao argumento de que é cabível a condenação da concessionária de serviço público por danos morais em razão do corte no fornecimento de serviço essencial por conta de débito pretérito, tratando-se de dano moral in re ipsa.
+Com contrarrazões (fls. 163-171).
+Juízo positivo de admissibilidade às fls. 173-176.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão merece prosperar.
+Isso porque, no que se refere aos arts. 42 do CDC e 927 do CC/2002, o Tribunal de origem assim se pronunciou (fls. 133-134, com grifos nossos):
+Ocorre, inicialmente, que, consoante relatado pelo próprio apelante, o corte do fornecimento de água em sua residência se deveu pelo não pagamento da fatura do mês de 05/2017. Esse fato, portanto, é incontroverso.
+A apelada, de seu turno, conforme noticiado por ocasião de sua contestação e com a devida comprovação nos autos, informou que a suspensão do serviço se deu em decorrência de débito no valor de R$ 25,70 (vinte e cinco reais e setenta centavos),referente ao mês 5/2017, e, tão logo efetivado o pagamento, restabeleceu o fornecimento de água, como igualmente demonstrado nos autos.
+Como ressaltado pelo magistrado de 1º grau, "conforme documentos trazidos aos autos pela própria parte autora (faturas quitadas) a parte requerida vinha satisfatoriamente avisando acerca da existência de débitos anteriores, que poderiam ensejar a suspensão no fornecimento do serviço. Esta notificação na fatura mensal é suficiente para notificação da dívida pretérita".
+ ..
+Diante das circunstâncias acima expostas, considero não configurado o ato ilícito nem mesmo abuso de direito por parte da apelada. Não se extrai, da análise atenta dos presentes autos, qualquer conduta da recorrida que tenha extrapolado sequer os limites da boa-fé.
+Extrai-se do acórdão que a concessionária efetuou corte no fornecimento de água em razão de débito pretérito.
+Dessa forma, o entendimento do Tribunal a quo está em dissonância com o posicionamento desta Corte no sentido de que a interrupção de serviço essencial em razão da cobrança de faturas pretéritas enseja dano moral presumido ou in re ipsa.
+Nesse sentido, com grifos nossos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTERRUPÇÃO DO FORNECIMENTO DE ÁGUA EM RAZÃO DE DÉBITOS PRETÉRITOS. DANO MORAL IN RE IPSA. PRECEDENTES DO STJ.
+1. O Tribunal de origem, embora tenha reconhecido que a interrupção do fornecimento de água configura falha na prestação do serviço, entendeu que inexiste o dever de indenizar.
+2. O STJ pacificou o entendimento de que, na hipótese em a concessionária de serviço público interrompe o fornecimento de água como forma de compelir o usuário ao pagamento de débitos pretéritos, é desnecessária a efetiva comprovação dos danos morais, por constituírem dano in re ipsa. Precedentes: AgRg no AREsp 371.875/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 4.4.2016; AgRg no AREsp 493.663/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 14.8.2014.
+3. Os autos devem ser devolvidos à origem, a fim de que o Tribunal a quo prossiga no exame do recurso de Apelação, em especial no tocante ao pedido de majoração do quantum indenizatório.
+4. Recurso Especial provido.
+(REsp n. 1.694.437/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2017, DJe de 19/12/2017.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ÁGUA. VÍCIOS DO ART. 1.022 DO CPC/2105 INEXISTENTES. ARTS. 29, I E 30, I, DA LEI 11.445/2007. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SUSPENSÃO DO FORNECIMENTO EM RAZÃO DE DÉBITOS PRETÉRITOS. TESE DE REFATURAMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada violação dos artigos 489 e 1022 do CPC/2015, porquanto é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que não viola tais dispositivos, o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pela recorrente.
+2. Da análise do voto condutor do acórdão, observa-se que os arts. 29, I e 30, I, da Lei 11.445/2007 e a tese a eles vinculada não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos Embargos de Declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula 211/STJ.
+3. Atinente aos arts. 6º, § 3º, II, da Lei 8.987/95 e 40, V, da Lei 11.445/2007, o STJ pacificou entendimento de que corte de fornecimento de água pressupõe inadimplência de conta regular, relativa ao mês do consumo, sendo inviável, pois, a suspensão do abastecimento em razão de débitos antigos, devendo a companhia utilizar-se dos meios ordinários de cobrança, não se admitindo nenhuma espécie de constrangimento ou ameaça ao consumidor, nos termos do art. 42 do CDC. Incidência da Súmula 83/STJ.
+4. No mais, revisar o entendimento exarado pelo Tribunal a quo demanda o revolvimento do acervo fático-probatório dos autos, o que é inadmissível em Recurso Especial, ante o óbice contido na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp n. 1.663.459/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2017, DJe de 10/5/2017.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA. IMPOSSIBILIDADE DE INTERRUPÇÃO DO FORNECIMENTO POR DÉBITO PRETÉRITO. O DANO É IN RE IPSA, BASTANDO, PARA QUE RESTE CARACTERIZADO A COMPROVAÇÃO DA PRÁTICA DE ATO ILEGAL, IN CASU, A SUSPENSÃO DO FORNECIMENTO DO SERVIÇO POR DÉBITO PRETÉRITO. VERBA INDENIZATÓRIA FIXADA COM RAZOABILIDADE NA SENTENÇA EM R$ 10.000,00 E MANTIDA PELO TRIBUNAL DE ORIGEM. INCABIMENTO DE ALTERAÇÃO. AGRAVO REGIMENTAL DA COMPANHIA ENERGÉTICA DE PERNAMBUCO DESPROVIDO.
+1. Esta Corte pacificou o entendimento de que nos casos, como o presente, em que se caracteriza a exigência de débito pretérito referente ao fornecimento de energia, não deve haver a suspensão do serviço; o corte pressupõe o inadimplemento de dívida atual, relativa ao mês do consumo, sendo inviável a suspensão do abastecimento em razão de débitos antigos.
+2. A suspensão ilegal do fornecimento do serviço dispensa a comprovação de efetivo prejuízo, uma vez que o dano moral, nesses casos, opera-se in re ipsa, em decorrência da ilicitude do ato praticado.
+3. No que tange ao quantum indenizatório, é pacífico nesta Corte o entendimento de que, em sede de Recurso Especial, sua revisão apenas é cabível quando o valor arbitrado nas instâncias originárias for irrisório ou exorbitante. No caso dos autos, o valor dos honorários fixados em R$ 10.000,00, foi arbitrado na sentença tendo por parâmetro a natureza e a extensão do prejuízo, a repercussão do fato, o grau de culpa do ofensor e a condição econômica das partes.
+O Tribunal de origem, por sua vez, manteve a sucumbência por considerar que o Autor foi vítima de atos arbitrários e unilaterais praticados pela CELPE, que acarretaram na suspensão da energia elétrica por mais de 15 dias. Desse modo, a sucumbência não se mostra exorbitante a ponto de excepcionar a aplicação da Súmula 7/STJ.
+4. Agravo Regimental da COMPANHIA ENERGÉTICA DE PERNAMBUCO desprovido.
+(AgRg no AREsp n. 371.875/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/3/2016, DJe de 4/4/2016.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DANO MORAL. FORNECIMENTO DE ÁGUA. INTERRUPÇÃO. CORTE POR DÉBITOS PRETÉRITOS. NEXO DE CAUSALIDADE. SÚMULA 7/STJ. SUSPENSÃO ILÍCITA. DANO IN RE IPSA. SÚMULA 83/STJ.
+1. Inexiste vulneração ao art. 535 do CPC quando o Tribunal de origem rejeita Embargos Declaratórios que veiculavam nítida pretensão de rediscussão do mérito da causa.
+2. No mérito, a pretensão de reforma está assentada sobre premissas fáticas diversas daquelas consignadas pelo Tribunal de origem, que reconheceu a ilicitude na conduta da concessionária ré em efetuar a cobrança de dívida pretérita mediante ameaça de suspensão do fornecimento de água.
+3. O entendimento perfilhado pelo Tribunal de origem quanto à desnecessidade de comprovação dos danos morais - por constituírem dano in re ipsa - está de acordo com a orientação jurisprudencial do Superior Tribunal de Justiça. Incidência da Súmula 83/STJ.
+4. Agravo Regimental não provido.
+(AgRg no AREsp n. 493.663/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/6/2014, DJe de 14/8/2014.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. CORTE POR DÉBITO PRETÉRITO. IMPOSSIBILIDADE. DANO MORAL IN RE IPSA. ALEGAÇÃO DE INADEQUAÇÃO DO QUANTUM INDENIZATÓRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação ao art. 535 do CPC.
+2. Esta Corte Superior pacificou o entendimento de que não é lícito à concessionária interromper o fornecimento do serviço em razão de débito pretérito; o corte de água ou energia pressupõe o inadimplemento de dívida atual, relativa ao mês do consumo, sendo inviável a suspensão do abastecimento em razão de débitos antigos.
+3. A suspensão ilegal do fornecimento do serviço dispensa a comprovação de efetivo prejuízo, uma vez que o dano moral nesses casos opera-se in re ipsa, em decorrência da ilicitude do ato praticado.
+4. Em relação à suposta exorbitância do quantum indenizatório, a concessionária-agravante sequer indicou quais os dispositivos legais que teriam sido contrariados pelo acórdão recorrido, razão pela qual incide, neste ponto, a Súmula 284 do STF.
+5. Ademais, a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa in casu diante da quantia fixada em R$ 5.000,00 (cinco mil reais).
+6. Agravo Regimental da CEDAE desprovido.
+(AgRg no AREsp n. 392.024/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/2/2014, DJe de 10/3/2014.)
+Ressalte-se que, na via do recurso especial, não é possível fixar o quantum indenizatório, sob pena de incursão no acervo fático-probatório dos autos, providência obstada pela Súmula 7/STJ, razão pela qual os autos devem retornar à Corte de origem para essa providência.
+Ante o exposto, dou provimento ao recurso especial para condenar a recorrida ao pagamento de danos morais a serem fixados pelo Tribunal de origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. INTERRUPÇÃO DE SERVIÇO ESSENCIAL DECORRENTE DA COBRANÇA D E FATURA PRETÉRITA. IMPOSSIBILIDADE. DANO MORAL IN RE IPSA . PRECEDENTES. RECURSO PROVIDO.
