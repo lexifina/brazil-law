@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento à Apelação n. 00910149.3/0-0000-000 (fls. 33-48).
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, I, II e V, do Código Penal, às penas de 5 anos e 8 meses de reclusão, no regime fechado, e pagamento de 15 dias-multa.
+Sustenta a defesa a existência de flagrante ilegalidade no aumento da pena na terceira fase no patamar de 5/12, posto que não há fundamentação concreta e idônea, em desrespeito ao teor da Súmula n. 443 do STJ.
+Requer, liminarmente e no mérito, seja concedida a ordem para reduzir o patamar da causa de aumento da pena para o mínimo legal de 1/3.
+A liminar foi indeferida. As informações foram prestadas e o Ministério Público Federal manifestou-se pela concessão da ordem.
+A dosimetria da pena foi assim estabelecida na sentença (fls. 28-29):
+Partindo-se do mínimo legal de 4 anos de reclusão e 10 dias-multa, não vislumbro razões para fixação da pena acima do mínimo legal. Neste particular, observo que a gravidade do crime, que não se discute no caso em tela, não pode ser usado contra o réu e no sentido de ser aumentada a pena-base. Mesmo porque, justamente por se tratar de crime grave, o legislador determinou penas maiores para o mínimo e máximo da pena.
+Na segunda fase de aplicação de pena, observo a presença da atenuante do artigo 65, III, "d", do Código Penal, uma vez que o réu confessou a autoria delitiva do roubo. Constato ainda a presença da agravante da reincidência (certidão de fls.09), nos termos do artigo 63, do CP, uma vez que praticou o presente crime (14.09.04) após ter sido condenado definitivamente por outro crime. Assim, deixo de aumentar ou mesmo diminuir a pena-base acima fixada.
+Na terceira fase de aplicação de pena, aumento a pena em 5/12 em razão das três causas de aumento de pena e chego a uma pena final de 5 anos e 8 meses de reclusão e pagamento de 15 dias-multa, fixados estes no mínimo legal.
+Por sua vez, o Tribunal de origem assim expôs (fl. 47):
+Já no que concerne à possibilidade de diminuição do quantum fixado para a reprimenda, observo que a pena-base foi fixada no mínimo legal e encontra-se devidamente fundamentado o acréscimo de 5/12 em razão das três causas de aumento, logo, nada havendo a ser modificado na respeitável sentença proferida pelo Juízo de primeiro grau.
+Como se vê, consta que, na terceira fase da dosimetria da pena, o julgador fez incidir a fração de 5/12 considerando a existências de três causas de aumento, relacionadas ao concurso de agentes, utilização de arma de fogo e restrição de liberdade. No entanto deixou de expor fundamentação concreta buscando demonstrar o maior grau de reprovabilidade da conduta de modo a justificar o acréscimo pela fração escolhida.
+Logo, não houve a devida motivação no caso específico do paciente, maculando-se, assim, o entendimento pacificado na Súmula 443/STJ, a qual prescreve que o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Cabível, assim, seja fixada a exasperação na fração mínima de 1/3. A respeito:
+PEDIDO DE EXTENSÃO NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO, PRATICADO ANTES DA EDIÇÃO DA LEI N. 13.654/2018. TERCEIRA FASE DA DOSIMETRIA DA PENA. AUMENTO ACIMA DA RAZÃO MÍNIMA PREVISTA NA LEGISLAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. EMPREGO DE MERO CRITÉRIO MATEMÁTICO (OBJETIVO). IMPOSSIBILIDADE. SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUERENTE EM SITUAÇÃO PROCESSUAL IDÊNTICA. REGRA PREVISTA NO ART. 580 DO CÓDIGO DE PROCESSO PENAL QUE SE APLICA, EM RAZÃO DA SIMILITUDE JURÍDICA. PEDIDO DEFERIDO.
+1. Na ausência de motivação factual, com mero emprego de critério matemático para o aumento da pena acima da razão mínima na terceira fase da dosimetria, mostra-se ilegal a dosimetria no ponto, motivo pelo qual deve ser reduzido o quantum relativo ao aumento no crime de roubo ao patamar legal mínimo, de 1/3 (um terço), nos termos do revogado § 2.º, do art. 157, do Código Penal, por se tratar de crime praticado antes da edição da Lei n. 13.654/2018.
+2. Por se tratar de fundamentação objetiva, e por haver identidade fático-processual nas situações jurídicas do ora Requerente e do Corréu, é de rigor a extensão dos efeitos do acórdão proferido por esta Sexta Turma do Superior Tribunal de Justiça, com fundamento no art. 580 do Código de Processo Penal.
+3. Pedido de extensão deferido. (PExt no HC n. 705.113/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL CONSTATADO. CAUSAS DE AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+2. "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+3. Inexistindo fundamentação concreta a respeito dos elementos de fato do caso que justifique a majoração da pena do crime de roubo na fração de 3/8, devido ao uso de arma e ao concurso de agentes, é cabível proceder-se a causa de aumento na fração de 1/3, conforme enunciado da Súmula n. 443 do STJ e do disposto no art. 68, parágrafo único, do CP.
+4. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido. (AgRg no HC n. 662.196/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+Passa-se, assim, à nova dosimetria.
+Nas duas primeiras fases iniciais, a pena foi estabelecida em 4 anos de reclusão e 10 dias-multa.
+Na terceira fase da dosimetria, diante da ausência de indicação de fundamentação concreta, o aumento de 1/3 afigura-se adequado para o crime de roubo, restando a pena definitiva fixada em 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa.
+Mantido o regime inicial fechado em vista da constatada reincidência.
+Ante o exposto, concedo o habeas corpus para reduzir a pena para 5 anos e 4 meses de reclusão e pagamento de 13 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se
+EMENTA
