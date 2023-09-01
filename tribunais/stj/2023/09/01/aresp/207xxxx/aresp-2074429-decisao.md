@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por APUCARANA LEATHER (APUCARANA); UMBERTO BASTOS SACCHELLI NETO (UMBERTO BASTOS); UMBERTO CILIAO SACCHELLI (UMBERTO CILIAO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, APUCARNA e OUTROS alegaram a violação dos arts. 265 do CC, 337, XI, §5º, 485, VI, §3º, 1.022, do CPC, ao sustentar/sustentarem que (1) houve omissão; (2) as pessoas físicas são parte ilegítimas para figurar no polo passivo, pois inexiste contrato vigente à época do inadimplemento que as vincule ao débito; (2) a ilegitimidade é matéria que pode ser conhecida de ofício; (3) não é possível separar a "ausência de responsabilidade" da "ilegitimidade"; (4) a ausência de causa de pedir também é cognoscível de ofício em qualquer grau de jurisdição; (5) a obrigação das pessoas físicas foi limitada ao vencimento da cédula de crédito bancário, que ocorreu em 15.03.2018, não podendo ser presumida a responsabilidade solidária por um débito que ocorreu posteriormente, em 02.10.2019.
+Da ilegitimidade passiva
+Nas razões do seu recurso especial, APUCARANA e OUTROS defenderam que são partes ilegítimas, pois a obrigação das pessoas físicas foi limitada ao vencimento da cédula de crédito bancário, que ocorreu em 15.03.2018, não podendo ser presumida a responsabilidade solidária por um débito que ocorreu posteriormente, em 02.10.2019.
+Mas ainda que adotado o entendimento do Tribunal estadual, que enquadrou a alegação na ausência de responsabilidade das pessoas físicas (causa de pedir), a matéria é de ordem pública e pode ser analisada em qualquer grau de jurisdição, inclusive de ofício.
+Sobre o tema, o Tribunal estadual consignou que não merece ser conhecida a prefacial de ilegitimidade passiva suscitada, pois verifica-se que ela não foi objeto de matéria de defesa na origem. Confira-se:
+Com relação à alegada ilegitimidade passiva dos sócios avalistas,importante frisar que se trata de inovação no curso do processo, eis que não houve qualquer manifestação neste sentido nos embargos monitórios ou sequer no apelo, de modo que somente em segundo grau (Evento 9) houve, mediante petição, a alegação de ilegitimidade passiva (e-STJ, fls. 419)
+Com efeito, a jurisprudência desta Corte, de maneira contrária ao posicionamento adotado pelo Tribunal estadual, segue no sentido de que nas instâncias ordinárias, as questões de ordem pública - tais como prescrição, decadência, condições da ação, pressupostos processuais, consectários legais, incompetência absoluta, impenhorabilidade, etc - não se sujeitam à preclusão pois podem ser apreciadas a qualquer tempo, enquanto não encerrada a jurisdição, ainda que, como no caso, venha a ser alegada na apelação.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. ASSISTÊNCIA SIMPLES. INTERESSE ECONÔMICO E JURÍDICO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, "enquanto não decididas, as questões de ordem pública, como a legitimidade ativa, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva" (AgInt no AREsp n. 2.004.035/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de interesse econômico e jurídico, indeferindo o pedido de assistente simples. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.039.259/MA, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. MATÉRIA DE ORDEM PÚBLICA. SUBMETIDA A PRECLUSÃO CONSUMATIVA. PRECEDENTES.
+1. "Enquanto não decididas, as questões de ordem pública, como a legitimidade ativa, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva" (AgInt no AREsp n. 2.004.035/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.).
+2. No mais, para entender, como quer a parte agravante, que o feito deve tramitar na Justiça do Trabalho por incompetência da Justiça Comum, dado que foi a "sentença proferida em momento posterior à promulgação da EC nº 45/2004" - fl. 1249 não tem como ser analisado sem o devido revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO A QUE SE NEGA PROVIMENTO.
+(AgInt no AREsp n. 2.044.252/ES, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+Ainda que considerada que a alegação está relacionada à causa de pedir, necessário o seu enfrentamento pelo Tribunal estadual.
+Assim, porque em descompasso com a atual jurisprudência desta Corte, merece provimento o presente recurso para o fim de afastar o não conhecimento da alegação de ilegitimidade de parte das pessoas físicas arguida em apelação, por considerá-la inovação recursal, e determinar a devolução dos autos ao Tribunal estadual para novo julgamento da apelação, nos termos da jurisprudência do STJ.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, DOU PROVIMENTO ao recurso especial nos termos da fundamentação supra.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. CÉDULA DE CRÉDITO BANCÁRIO. AÇÃO MONITÓRIA. RESPONSABILIDADE DAS PESSOAS FÍSICAS PARA FIGURAREM NO POLO PASSIVO. LEGITIMIDADE PASSIVA. AUSÊNCIA DE PRECLUSÃO NAS INSTÂNCIAS ORDINÁRIAS. PRECEDENTES DESTA CORTE. NECESSIDADE DE RETORNO DOS AUTOS AO TRIBUNAL ESTADUAL PARA NOVO JULGAMENTO DA APELAÇÃO. RECURSO ESPECIAL PROVIDO.
