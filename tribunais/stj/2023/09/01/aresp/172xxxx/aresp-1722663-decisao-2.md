@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por CIAC CAMINHÕES LTDA., contra decisão que negou seguimento ao recurso especial, porque não demonstrada a ofensa aos dispositivos legais invocados, tampouco a divergência jurisprudencial, e por incidência da Súmula n. 7 do STJ (e-STJ fls. 1.105/1.108).
+O acórdão recorrido está assim ementado (e-STJ fl. 683):
+Apelações. Ação cautelar para obstar consolidação de propriedade de imóveis objeto de garantia de alienação fiduciária. Ação principal intentada para coibir descumprimento de acordo que visava reestruturar operações celebradas por meio de três cédulas de crédito bancário, com substituição de uma das garantias. Liminar concedida. Ação principal julgada parcialmente procedente para declarar existente e válido o acordo, condenando a instituição financeira a se abster de descumpri-lo, ao fundamento de que se deve prestigiar o princípio da boa fé, vedado a instituição financeira agir em descompasso com o quanto ajustado em correspondências eletrônicas e reunião em que se pactuou a reestruturação das operações. Venire contra factum proprium. Vedação à prática de atos contrários à intenção das partes, consistente no ato de manejar medidas extrajudiciais tendentes à consolidação da propriedade fiduciária atinente à garantia contratual, a despeito das tratativas em curso. Violação do principio da boa-fé subjetiva. Sentença de parcial procedência mantida nos termos do art. 252 do RI-TJSP. Apelação adesiva da mutuária, para que se fixasse o valor da dívida conforme seu importe à época da confecção do acordo, bem como honorários.
+Sentença que contemplou o pleito, fixando o valor da dívida como sendo aquele existente ao tempo do acordo que se reconhece válido e existente. Sentença que nesse ponto, e no que concerne aos honorários deve ser mantida. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram acolhidos nos termos da seguinte ementa (e-STJ fl. 713):
+Embargos de declaração. Alegação de contradição no acórdão embargado, do qual deveria ter constado detalhes do acordo que a sentença entendeu por bem validar. Alegaçao de omissão quanto aos honorários cabíveis em sede recursal. Contradição inexistente. Sentença mantida na integra, não cabendo ao Tribunal redefinir ou aclarar os contornos do acordo. Ausência das hipóteses do artigo 1.022 do Código de Processo Civil. Recurso de caráter infringente. Quanto aos honorários, acolhidos os embargos para, em razão do desprovimento do recurso da embargada, majorar a verba honorária para R$ 25.000,00, nos termos do art. 85, § 11 do CPC. EMBARGOS DE DECLARAÇÃO CONHECIDOS E PARCIALMENTE ACOLHIDOS.
+No recurso especial (e-STJ fls. 862/878), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e ofensa ao art. 85, §§ 1º, 2º e 8º, do CPC/2015, sustentando que os honorários advocatícios devem ser fixados entre dez e vinte por cento do valor da causa, não sendo possível o arbitramento por equidade.
+No agravo (e-STJ fls. 1.178/1.190), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.263/ 1.275).
+É o relatório.
+Decido.
+O recurso especial da parte contrária foi provido, em decisão proferida nesta data, para determinar o retorno dos autos à origem para análise de matéria omitida.
+Em tais condições, o presente agravo em recurso especial, que trata apenas da questão referente aos honorários de sucumbência, fica prejudicado.
+Diante do exposto, JULGO PREJUDICADO o agravo.
+Publique-se e intimem-se.
+EMENTA
