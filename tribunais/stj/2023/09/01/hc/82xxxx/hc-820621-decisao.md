@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MATHEUS SANTOS DE SOUSA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 5219380-11.2023.8.09.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 4/4/2023, por ter supostamente praticado o delito tipificado no art. art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA. NEGATIVA DE AUTORIA. VIOLAÇÃO DE DOMICÍLIO. PRISÃO DOMICILIAR. NÃO CONHECIMENTO. FUNDAMENTAÇÃO IDÔNEA. INSUFICIÊNCIA DE CAUTELARES DIVERSAS. SEGREGAÇÃO MANTIDA. 1. Na via estreita do habeas corpus não há como se discutir teses que demandam o exame aprofundado do conjunto fático-probatório, tais como aquelas relativas à negativa de autoria e à ocorrência de violação de domicílio, principalmente porque sequer se iniciou a instrução processual. 2. A ausência de comprovação de que o paciente se insere no grupo em risco (ou tem alguma comorbidade) torna inviável a soltura com base na alegação de risco contaminação pelo coronavírus, mormente considerando o estágio avançado de vacinação e a disponibilidade de doses de reforço para a população no país. 3. A prisão preventiva justificada para garantia de ordem pública, motivada na gravidade concreta (diversidade de drogas e alto poder viciante) e no risco de reiteração delitiva, deve ser mantida, sobretudo porque evidenciada a insuficiência de medidas cautelares alternativas. 4. Condições pessoais favoráveis não têm o condão de garantir, por si sós, a revogação da prisão preventiva, quando evidenciada a necessidade de sua manutenção. 5. Ordem parcialmente conhecida e denegada." (fl. 596).
+No presente writ, o impetrante sustenta a ocorrência de ilegalidade na prisão em flagrante, consubstanciada no ingresso dos policiais militares na residência sem mandado judicial, sem justa causa e sem autorização do morador.
+Ressalta que não foi encontrado nada ilícito na posse do paciente, nem elementos que pudessem indicar a comercialização de entorpecentes. Destaca que a busca pessoal realizada pelos policiais fora baseada em impressões subjetivas dos agentes estatais.
+Nega a prática delitiva, enfatizando que os entorpecentes apreendidos pelos policiais militares, que efetuaram sua prisão em flagrante, não são de sua propriedade.
+Aduz a vulnerabilidade da população carcerária diante da pandemia do corona vírus e da superlotação dos presídios. Afirma que o paciente faz jus ao disposto no art. 318 do Código de Processo Penal - CPP, em razão de ter filhos menores.
+Alega que os agentes estatais obtiveram uma suposta confissão informal do paciente, que sequer foi informado acerca do direito constitucional ao silêncio no momento da abordagem.
+Explana a ausência dos requisitos autorizadores da prisão do art. 312 do Código de Processo Penal e a inidoneidade da fundamentação adotada para decretar a custódia cautelar, porquanto baseada em elementos genéricos.
+Menciona as condições pessoais favoráveis, quais sejam, primariedade, bons antecedentes e residência fixa. Pondera que a liberdade do paciente não oferece risco à ordem pública, à instrução criminal ou aplicação da lei.
+Pugna, em liminar e no mérito, pela revogação da prisão preventiva o aplicação das medidas cautelares diversas do cárcere ou prisão domiciliar.
+Medida liminar indeferida conforme decisão de fls. 607/609.
+Informações prestadas às fls. 618/622 e 626/639.
+Parecer ministerial de fls. 641/642 pela prejudiciliadade da impetração.
+É o relatório.
+Decido.
+De início, o presente writ está prejudicado quanto a prisão preventiva. É que conforme informações colhidas no site do TJ/GO (A.P. n. 5212752-47.2023.8.09.0051), a custódia cautelar do ora paciente foi revogada em decisão de 9/8/2023 .
+No mais, a  irresignação referente à nulidade das provas em razão da ilegalidade da busca pessoal e da invasão de domicílio do paciente não foi examinada pelo Tribunal a quo, de modo que esta Corte Superior está impedida de pronunciar-se sobre a referida matéria, sob pena de atuar em indevida supressão de instância.
+Nessa esteira:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. CORRUPÇÃO ATIVA. INVASÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA FUNDAMENTADA. REITERAÇÃO DELITIVA. QUANTIDADE E NATUREZA DA DROGA.
+1. Não tendo a matéria relativa à invasão domiciliar sido examinada pelo Tribunal de origem, fica obstada a apreciação das questões referentes ao tema por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+2. Consta do decreto fundamentação idônea, indicando a necessidade de garantia da ordem pública, notadamente quando se evidencia a "extensa folha de antecedentes encartada às (fls. 93/110) e certidões às (fls. 82/93)" e a "a quantidade expressiva de droga apreendida para os padrões da região (600g da substância entorpecente popularmente conhecida como maconha, acondicionada em 03 tabletes menores; 130.750g da mesma droga, acondicionada em 213 tabletes, bem como 1.973,6g de cocaína)".
+3. A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública.
+ ..
+7. Agravo regimental improvido.
+(AgRg no HC n. 722.167/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 25/11/2022.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. CRIME DE TRÁFICO DE DROGAS. ALEGADA NULIDADE DO FLAGRANTE. INVASÃO DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR FUNDAMENTADA NA GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte em entendimento consolidado pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula.
+2. Como é de conhecimento, Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC 692.704/SC, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+3. No caso, a tese de nulidade do feito em razão da suposta invasão domiciliar pela polícia não foi submetida e, por consequência, não foi debatida pela Corte local, visto que não constou da inicial do writ originário, de modo que o tema não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+4. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal, vedadas considerações abstratas sobre a gravidade do crime. Precedentes do STF e STJ.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 166.760/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
