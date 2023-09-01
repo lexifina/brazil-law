@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ALVANI ANGELINO MARTINS DA SILVA contra acórdão do Tribunal de Justiça do Estado de Pernambuco proferido nos autos de ação ordinária proposta contra o ESTADO DE PERNAMBUCO cujo objeto é o fornecimento de medicamentos tidos por indispensáveis ao tratamento de sua saúde.
+Decidiu-se, na ocasião, pela incompetência do juízo em razão da suposta indispensabilidade da presença da União no polo passivo decorrente do fato de que os fármacos pleiteados na exordial careceriam de padronização no SUS.
+A parte reclamante alega indevido descumprimento do que foi decidido pelo Superior Tribunal de Justiça nos Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, notadamente quanto à questão de ordem apreciada no dia 8/6/2022, oportunidade em que se determinou que os Juízos estaduais abstivessem-se de declinar da competência em ações que versassem sobre o tema desses conflitos.
+Observando que a decisão declinatória de competência fora proferida anteriormente à questão de ordem do IAC 14/STJ, quando ainda não havia determinação expressa contrária ao ato aqui atacado, indeferi o pedido liminar.
+Ouvido, opinou o Ministério Público Federal pela procedência da reclamação, com o curso dos autos na Justiça estadual.
+É o relatório.
+A reclamação prevista no art. 105, I, f, da Constituição Federal de 1988, bem como no art. 988 do CPC/2015, constitui instrumento processual destinado à preservação da competência do Superior Tribunal de Justiça (inciso I), à garantia da autoridade de suas decisões (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+Em questão de ordem relativa aos Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, debatida na sessão de julgamento do dia 08/06/2022, o Superior Tribunal de Justiça determinou que, "até o julgamento definitivo do incidente de assunção de competência (IAC 14/STJ), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, em atenção ao princípio da segurança jurídica, de modo que o processo deve prosseguir na jurisdição estadual".
+Na espécie, o acórdão reclamado, que determinou a inclusão da União e o consequente deslocamento da competência à Justiça Federal, foi proferido no dia 7/6/2022 (fl. 23), ou seja, antes do julgamento da questão de ordem relativa ao IAC 14/STJ, de modo que não havia, ainda, determinação expressa contrária ao referido julgamento.
+Nesse contexto, julgo improcedente a reclamação.
+Publique-se. Intimem-se.
+EMENTA
