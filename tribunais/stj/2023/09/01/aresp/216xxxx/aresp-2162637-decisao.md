@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBICO DO ESTADO DE SERGIPE, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DAQUELE ESTADO.
+Consoante se extrai dos autos, o agravado CLAUDIANO SILV A DOS SANTOS, preso porque teria praticado os delitos descritos nos arts. 121, § 2º, incisos II e IV do Código Penal; e art. 14 da Lei 10.823/2006, teve a segregação preventiva revogada pelo Juízo de primeiro grau (fls. 47-56), o que motivou a interposição de recurso em sentido estrito, ao qual o Tribunal local negou provimento (fls. 166-173).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação do art. 312 do Código de Processo Penal, por se encontrarem presentes os requisitos necessários à segregação, objetivando restabelecer a custódia preventiva.
+Apresentadas as contrarrazões (fls. 192-216), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n.º 7, STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fls. 217-220).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 226-234).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 248-251).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em virtude da aplicação da Súmulas n.º 7, STJ.
+No caso, o insurgente deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+De fato, com relação ao óbice da Súmula n.º 7, STJ, em síntese, a parte agravante limitou-se a afirmar que (fls. 226-234): "o intuito do recurso manejado pelo Ministério Público é a revaloração dos critérios jurídicos extraídos do Acórdão recorrido, que considerou inexistirem elementos a ensejar a segregação preventiva do acusado".
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Cumpre referir, ademais, ser entendimento desta Corte Superior que, uma vez inadmitido o recurso especial com base na Súmula n.º 7, STJ, não basta a simples assertiva de se tratar de matéria de direito, ou ainda que se cuida de revaloração da prova, pois "o cotejo com a premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020 .
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PRISÃO PREVENTIVA REVOGADA . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
