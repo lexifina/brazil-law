@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.471):
+PROCESSUAL CIVIL. ADMINISTRATIVOS. ORGANIZAÇÃO ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO QUINQUENAL. DECRETO-LEI20.910/1932. EMPRESAS ESTATAIS PRESTADORAS DE SERVIÇOS PÚBLICOS ESSENCIAIS. NÃO DEDICADAS À EXPLORAÇÃO DE ATIVIDADE ECONÔMICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A prescrição quinquenal do Decreto-Lei 20.910/1932 incide sobre as empresas estatais prestadoras de serviços públicos essenciais, não dedicadas à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+A parte recorrente sustenta a ocorrência de violação do art. 84, IV, da Constituição Federal e aduz haver repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.541-1.552.
+É o relatório.
+Verifica-se que a controvérsia cinge-se a saber se a ação indenizatória de reparação de danos causados pela constituição de servidão administrativa sujeita-se à prescrição quinquenal ou ao prazo prescricional de 20 (vinte) anos, em consideração aos ditames procedimentais para a ação de indenização por desapropriação indireta, ante as peculiaridades do reconhecimento do regime jurídico do ente sujeito ao tempo do ônus real de uso. O acórdão recorrido foi assim fundamentado (fls. 1.474 e 1.477):
+A presente demanda diz respe ito a uma servidão administrativa implementada pela COMPANHIA ENERGÉTICA DE PERNAMBUCO (CELPE) no ano de 1992. Atualmente, após processo de privatização ocorrido no início dos anos 2000, trata-se de pessoa jurídica de direito privado. Contudo, à época, encontrava-se sob responsabilidade do governo do Estado por ser uma empresa estatal.
+O tribunal de origem aplicou o regime civilista para determinar o prazo prescricional para reparação dos danos causados por servidão, sob o fundamento de que o Código Civil incidia nas relações jurídicas de Empresas Públicas e Sociedades de Economia Mista.
+No caso, verifico que o acórdão recorrido contrariou entendimento consolidado nesta Corte segundo o qual o regime prescricional do Direito Público incide sobre as empresas estatais (pessoas jurídicas de direito privado) quando prestadoras de serviços públicos essenciais, não dedicadas à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial.
+ ..
+Para melhor resolução da demanda, impõe-se o retorno do autos para cotejo do regime de exploração econômica da empresa estatal ao tempo da instituição da servidão e o entendimento consolidado nesta Corte, assegurando, desta forma, o regime público caso seja reconhecido que se tratava de empresa estatal prestadora de serviços públicos essenciais, não dedicada à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial.
+Nesse cenário, a ação indenizatória de reparação de danos causados pela constituição de servidão administrativa sujeita-se à prescrição quinquenal, consoante previsto no art. 10, parágrafo único, do Decreto-lei 3.365/1941.
+Desse modo, a análise da matéria ventilada depende do exame do art. 10, parágrafo único, do Decreto-Lei n. 3.365/1941, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E DIREITO ADMINISTRATIVO. DESAPROPRIAÇÃO. INDENIZAÇÃO. PRESCRIÇÃO. MARCO INICIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. RECURSO NÃO ADMITIDO.
