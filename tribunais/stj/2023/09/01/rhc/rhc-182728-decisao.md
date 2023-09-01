@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por HUMBERTO SOUZA DOS SANTOS contra decisão do Tribunal de Justiça do Estado de Goiás que denegou a ordem no julgamento do HC n. 5245198-06.2023.8.09.0051.
+O recorrente foi preso em flagrante em 18/4/2023, e convertida a custódia em preventiva, pela suposta prática do crime de furto qualificado porque teria tentado matar uma leitoa para subtraí-la de se u proprietário, não obtendo êxito por circunstâncias alheias à sua vontade (decreto às e-STJ fls. 183/189).
+Contra a prisão, a defesa impetrou habeas corpus no Tribunal de origem, cuja ordem, como antes relatado, foi denegado, nos termos do acórdão de e-STJ fls. 224/233, assim ementado (grifos originais):
+HABEAS CORPUS. FURTO PRATICADO EM CONCURSO DE PESSOAS. SEMOVENTE DOMESTICÁVEL DE REPRODUÇÃO. CRIME FAMÉLICO. INOCORRÊNCIA. VALOR ELEVADO. SOFRIMENTO E VIOLÊNCIA EXACERBADAS IMPOSTAS AO ANIMAL. PRISÃO PREVENTIVA. FUNDAMEN TADA. PREDICADOS PESSOAIS. INEXISTENTES. MEDIDAS ALTERNATIVAS. INSUFICIÊNCIA. MULTIREINCIDENTE. PRISÃO MANTIDA. 1- O Habeas Corpus é ação de natureza constitucional de rito sumaríssimo, que requer prova pré-constituída, de modo que é inviável a análise de matéria que demande dilação probatória. Todavia, o semovente possuía valor elevado. 2- Atendidos os pressupostos do art. 312 do CPP, bem como os requisitos do art. 313 do CPP, conserva-se a prisão preventiva, não havendo que se falar em revogação ou substituição por outra medida, pelo fato destas se revelarem insuficientes. Destaca-se que dois motivos impõem a manutenção da prisão: a exacerbada violência exercida contra o animal e o fato de ter voltado a delinquir menos de três meses após ter uma das penas extintas pelo cumprimento 3- Os atributos subjetivos favoráveis inexistem no caso, e, mesmo que comprovados, não são bastantes para a concessão do habeas corpus quando preenchidos os pressupostos e fundamentos legais da constrição cautelar. ORDEM PARCIALMENTE CONHECIDA E NESSA EXTENSÃO DENEGADA.
+Na presente oportunidade, a Defensoria Pública invoca a aplicação do princípio da insignificância e consequente atipicidade material da conduta, em virtude da caracterização de furto famélico. Aduz, ainda, a possibilidade de aplicação da excludente da ilicitude do estado de necessidade.
+Ressalta que "o fato do paciente ser reincidente não impede a aplicação do princípio da insignificância, que implica o reconhecimento da atipicidade do delito, sem relação com as circunstâncias pessoais do acusado. De acordo com o entendimento do STF, são requisitos para o reconhecimento da insignificância: ausência de periculosidade social da ação, mínima ofensividade da conduta do agente, inexpressividade da lesão jurídica causada e a falta de reprovabilidade da conduta" (e-STJ fl. 244).
+Afirma, ainda, a ausência de fundamentos válidos para o decreto prisional, por carência dos requisitos do art. 312 do Código de Processo Penal e porque o crime não foi cometido com violência ou grave ameaça.
+Suscita, ainda, a desproporcionalidade da prisão e a violação ao princípio da homogeneidade para amparar os seus pedidos, reputando legítima a substituição da prisão por medidas cautelares.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva do paciente, mesmo mediante a imposição de medidas cautelares.
+Indeferido o pedido liminar (e-STJ fls. 264/266) e prestadas as informações (e-STJ fls. 275/279), o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se vencido, no mérito, pela prejudicialidade da ordem, em virtude da absolvição do recorrente (e-STJ fls. 281/282).
+Consulta realizada ao sítio eletrônico do Tribunal de Justiça local revela que o recorrente foi absolvido, com expedição de alvará de soltura e trânsito em julgado certificado no dia 11/8/2023.
+É o relatório. Decido.
+O seguimento do presente recurso ordinário em habeas corpus está prejudicado pela perda superveniente do objeto, uma vez que o paciente foi absolvido e já foi expedido alvará de soltura em seu benefício.
+Nesse sentido:
+ ..
+3. A superveniência de decisão que revogou a prisão preventiva imposta ao recorrente na origem torna prejudicado o pedido aqui formulado relativamente à imposição de segregação cautelar.
+4. Recurso parcialmente conhecido e, nessa extensão, não provido.
+(RHC 103.259/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/04/2019, DJe 03/05/2019, grifo nosso).
+ ..  Encontra-se superada a matéria relativa à prisão cautelar, porque expedido alvará de soltura no processo de origem.  ..
+(RHC 89.620/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/11/2018, DJe 22/11/2018, grifo nosso)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
