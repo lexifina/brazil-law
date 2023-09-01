@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  agravo interposto  por  JONATH ARAUJO DOS SANTOS e ADILSON DA SILVA RANGEL contra a decisão do Tribunal de Justiça do Estado da Bahia que inadmitiu o recurso especial fundamentado  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  da  República,  dirigido contra o acórdão prolatado  no julgamento da  Apelação  Criminal  n. 0531422-59.2016.8.05.0001.
+O Ministério Público Federal opinou pelo não conhecimento do agravo, em razão do óbice da Súmula n. 182/STJ (fls. 459-466).
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+No caso, o Tribunal de origem inadmitiu o apelo nobre pela incidência das Súmulas ns. 7 e 83 do Superior Tribunal de Justiça.
+No que diz respeito à sintonia do julgado recorrido com a jurisprudência o Superior Tribunal de Justiça, fez-se referência, no decisum ora agravado, a precedente relativo ao AgRg no REsp 1.853.865/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/06/2020, DJe 23/06/2020, no qual destacou-se que "praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos." (fl. 395).
+Porém, nas razões do agravo contra a decisão de inadmissão, a Defesa limitou-se a negar genericamente a incidência da Súmula n. 83/STJ, alegando que "não há que se falar que a decisão do Tribunal a quo está em consonância com a jurisprudência desta Egrégia Corte Superior de Justiça" (fl. 403), sem indicar concretamente nenhum julgado desta Corte capaz de demonstrar eventual incorreção do juízo negativo de admissibilidade.
+Conclui-se, dessa forma, que os Agravante não indicaram nenhum precedente do Superior Tribunal de Justiça contemporâneo ou posterior àquele citado na decisão de inadmissão e proferido em situação fática semelhante, que demonstrasse que o acórdão recorrido estaria em desarmonia com a jurisprudência atual desta Corte Superior de Justiça, tampouco demonstrou-se que o precedente indicado na decisão agravada não seria aplicável ao caso dos autos , motivo pelo qual não se desincumbiu do ônus de demonstrar o desacerto da inadmissão do apelo nobre.
+A propósito:
+" ..
+4. É firme o entendimento deste Superior Tribunal no sentido de que, inadmitido o recurso especial com fundamento na incidência da Súmula n. 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu na hipótese dos autos. Precedentes.
+5. In casu, em que pese tenha a parte agravante, nas razões do agravo em recurso especial, incluído um tópico específico para impugnar a incidência do entrave do enunciado n. 83 da Súmula desta Corte Superior (e-STJ fl. 2628/2630), verifico que, no ponto, se limitou a asseverar que não caberia ao Tribunal a quo adentrar no mérito do recurso especial, no exercício de juízo de admissibilidade, não logrando demonstrar, por meio do apontamento de precedentes contemporâneos ou supervenientes aos indicados no decisum que inadmitiu o recurso especial, que a jurisprudência deste Superior Tribunal se consolidou em sentido diverso.
+ ..
+7. Agravo regimental não provido." (AgRg no AREsp 2.147.780/PI, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/09/2022, DJe 04/10/2022; sem grifos no original.)
+Portanto, não houve a observância da dialeticidade recursal, motivo pelo qual carece o agravo de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta de todos os fundamentos utilizados para inadmitir o recurso especial, nos termos da Súmula n. 182 do Superior Tribunal de Justiça;
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido. Ordem concedida de ofício, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, reduzir a reprimenda do agravante para 5 anos e 10 meses de reclusão, no regime inicial semiaberto, mais 583 dias-multa." (AgRg no AREsp 2.036.220/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julga do em 29/03/2022, DJe 1.º/04/2022; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
