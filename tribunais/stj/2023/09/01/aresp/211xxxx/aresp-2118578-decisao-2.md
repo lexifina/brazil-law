@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por MARIANA APARECIDA MARQUES contra decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"1. Arrendamento mercantil Restituição de valores pagos a título de VRG Alegação de venda do bem em leilão a preço vil - Adoção do valor da tabela FIPE - Descabimento - Tabela que não reflete a realidade - Condições da venda do veículo em leilão que não traduzem igualdade de condições com as vendas tradicionais.
+2. Pretendida compensação, pelo réu, de prestações contratuais em aberto acatada pela sentença- Prescrição quinquenal (CC, art. 206, §5º, I) - Ocorrência - Compensação afastada Provimento parcial do apelo." (Fl.254)
+Os embargos de declaração foram rejeitados (fls. 268-275).
+Nas razões do recurso especial, MARIANA APARECIDA MARQUES alega violação dos arts. 891, parágrafo único, e 1.022 do Código de Processo Civil de 2015 e art. 488 do Código Civil de 2002, além de divergência jurisprudencial.
+Sustenta ter havido negativa de prestação jurisdicional por parte do Tribunal a quo, acerca do prequestionamento dos artigos 488 do Código Civil e 891, parágrafo único do CPC.
+Afirma a necessidade de "reconhecimento do preço vil obtido com a alienação do veículo em leilão e, portanto, requer a utilização do valor constante na Tabela FIPE da época da reintegração de posse", para fins de liquidação do crédito, fl. 298.
+Apresentadas contrarrazões ao apelo nobre (fls. 344-348).
+O recurso foi inadmitido na origem. A parte insurgente interpôs agravo, no intento de ver destrancado o seu recurso extremo. Os autos ascenderam a esta eg. Corte.
+É o relatório.
+De início, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à solução da lide, dessa forma, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n. 2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+Ao julgar a matéria, o Tribunal de origem deu parcial provimento à apelação interposta pela ora agravante, para reconhecer a prescrição e afastar a alegação de preço vil, nos termos da seguinte fundamentação:
+"Cuida-se de ação de restituição de valores pagos a título de VRG insurgindo-se a autora contra a parte da sentença que utilizou no cálculo o valor da venda do bem pelo banco arrendante, considerado vil por ser inferior a 50% do valor de mercado do bem, sem justificativas, pugnando pela adoção do preço da tabela FIPE.
+E, ainda, recorre por ter a sentença admitido a compensação com as prestações inadimplidas, alegando a recorrente a prescrição da cobrança destas com fulcro no artigo 206, §5º, I do Código Civil, de sorte que não é possível a respectiva compensação.
+Prospera em parte a irresignação.
+Inicialmente, é despropositado o argumento de que as partes poderiam convencionar o preço da venda em leilão, pois a compra e venda não se deu entre elas, mas entre a ré e terceiros.
+Ademais, eventual comunicação da autora sobre o leilão faria sentido no caso de interesse da antiga arrendatária pela aquisição, do que aqui não se tratava porque sequer mencionado.
+No caso, o veículo foi leiloado em outubro de 2012 por R$7.200,00, conforme nota de venda de fls. 114, embora estivesse avaliado pela tabela FIPE em R$17.858,00 (fls. 51).
+Mas nem por isto há de ser considerado preço vil.
+Ocorre que, em primeiro lugar, a tabela FIPE não reflete a realidade, porque, como cediço, na prática, os veículos não são negociados efetivamente pelos valores nela constantes.
+Ademais, não se espera que o veículo retomado, mantido em pátio até o leilão e lá oferecido em meio a dezenas de outros, quase sempre adquirido com intenção de revenda, seja vendido na mesma média de avaliação das vendas tradicionais; portanto, a avaliação individual do automóvel objeto dos autos jamais poderia ter como ponto de partida o preço indicado na tabela FIPE para ser considerado vil." (Fls. 255-256)
+Do excerto acima transcrito, afere-se que Tribunal de origem alicerçou seu entendimento trazendo os seguintes argumentos: i) a tabela FIPE não reflete a realidade porque, na prática, os veículos não são negociados efetivamente pelos valores nela constantes; ii) não se espera que o veículo retomado, mantido em pátio até o leilão e lá oferecido em meio a dezenas de outros, quase sempre adquirido com intenção de revenda, seja vendido na mesma média de avaliação das vendas tradicionais; iii) a avaliação individual do automóvel objeto dos autos jamais poderia ter como ponto de partida o preço indicado na tabela FIPE para ser considerado vil.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE REQUERIDA. (..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo. Incidência da Súmula 283 do STF. (..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.174.114/SP, Relator MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS. SÚMULA 379/STJ. LEGALIDADE DA COBRANÇA DA TARIFA DE CESTA DE SERVIÇOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO. (..)
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 2.066.687/AL, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 1º.7.2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial interposto por MARIANA APARECIDA MARQUES e, na extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
