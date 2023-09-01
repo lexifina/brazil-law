@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por BANCO DO BRASIL SA contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO. CUMPRIMENTO DE SENTENÇA. SENTENÇA DE EXTINÇÃO DO FEITO, AO FUNDAMENTO DE SATISFAÇÃO DA DÍVIDA EXECUTADA (ARTIGO 924, INCISO II, DO CÓDIGO DE PROCESSO CIVIL).
+RECURSO DO BANCO EXEQUENTE.
+PRETENDIDA CASSAÇÃO DO DECISUM, SOB A ASSERTIVA DE QUE REMANESCE SALDO DEVEDOR. INSUBSISTÊNCIA. PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA CONDICIONADA À INTIMAÇÃO PRÉVIA E ESPECÍFICA DA PARTE EXEQUENTE PARA SE MANIFESTAR ACERCA DA SUFICIÊNCIA DOS VALORES RECEBIDOS E/OU ARRECADADOS NO FEITO. PROVIDÊNCIA LEVADA A EFEITO NO CASO, POR MAIS DE UMA VEZ. COMPROVANTES DE PAGAMENTO DO ACORDO CELEBRADO PARA COLOCAR FIM AO LITÍGIO ANEXADOS AO PROCESSADO PELA PARTE APELADA. HIPÓTESE EM QUE O BANCO APELANTE LIMITOU-SE A ALEGAR A EXISTÊNCIA DE SALDO REMANESCENTE EM SEU FAVOR, SEM NADA PROVAR. MANTENÇA DO DECISUM EXTINTIVO QUE SE IMPÕE.
+TENCIONADA INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA. AUSÊNCIA DE INTERESSE RECURSAL. SENTENÇA QUE JÁ ESTIPULOU QUE SE HOUVER CUSTAS PROCESSUAIS FINAIS, ESTAS SERÃO SUPORTADAS PELO POLO ACIONADO.
+RECURSO CONHECIDO, EM PARTE, E NÃO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 200, 485, III, § 1º, do NCPC, bem como divergência jurisprudencial, argumentando isto: (I) a dívida ainda não se encontra devidamente adimplida, ainda mais sem o expresso consentimento do credor; (II) "(..) não houve declaração de vontade por parte do credor, portanto não há que se falar em constituição, modificação ou extinção de direitos, nos termos do art. 200 do CPC" (e-STJ, fl. 690); (III) impossibilidade de extinção do processo sem a intimação com a expressa advertência acerca da penalidade.
+É o relatório. Passo a decidir.
+A parte recorrente, nas razões do recurso especial, limita-se a afirmar que "(..) a presente casa bancária não se manifestou no presente feito informando a quitação da quantia devida, ao contrário do aludido na sentença pelo D. Magistrado. Na realidade, o apelado não adimpliu o valor devido até a presente data".
+O acórdão recorrido, no entanto, baseou seu entendimento pela presunção da quitação da dívida, sem a necessidade de intimação pessoal, diante da documentação juntada pelo devedor e da intimação do credor na pessoa de seu advogado, verbis:
+Consoante se infere dos autos, as partes realizaram acordo, pelo que o banco exequente foi intimado, em mais de uma oportunidade, para se manisfestar acerca do cumprimento do ajuste, sob pena de extinção do feito expropriatório.
+Ante a inércia da casa bancária, sobreveio a decisão objeto do presente recurso, na qual o magistrado de origem presumiu satisfeita a dívida executada e, consequentemente, decretou a extinção do feito, com fundamento no art. 924, inc. II, da Lei Processual Civil, cujo teor segue in verbis:
+(..)
+Nas razões do inconformismo sub examine, alega o banco apelante, de início, que o juiz sentenciante não poderia ter presumido a quitação do débito com base apenas na ausência de sua manifestação a esse respeito.
+A insurgência, adianta-se, não merece acolhimento neste ponto.
+Afinal de contas, é aceita pela jurisprudência, hodiernamente, a presunção de satisfação da obrigação executada no caso de inércia do exequente quando instado a se manifestar a esse respeito (v.g. Apelação n. 0000660-63.2008.8.24.0068, rel. Des. Guilherme Nunes Born, j. em 10.12.2020), sendo que, nesses casos, faz-se indispensável a intimação prévia e específica do credor para dizer sobre a adequação e a suficiência dos valores recebidos ou arrecadados no feito.
+In casu, como visto, nos atos judiciais precedentes à sentença extintiva, o magistrado de origem assegurou a intimação do exequente, em mais de uma oportunidade, para se manifestar acerca do cumprimento do ajuste, advertindo, ainda, sobre o risco de reconhecimento do adimplemento da obrigação executada.
+Anota-se, de outro giro, que restaram encartados ao processado cópias de documentos anexados pela parte apelada com o escopo de atestar o pagamento do valores acordados para colocar fim ao litígio (confira-se dos documentos de fls. 241 a 257 do evento 186).
+Nesse cenário, ressoa acertada a extinção do feito com base na quitação da dívida, sobretudo porquanto o banco apelante limitou-se a alegar a existência de saldo remanescente em seu favor, sem nada provar. (e-STJ, fl. 622, grifou-se).
+Todavia, nas razões do recurso especial tais fundamentos não foram atacados. Nesse contexto, incide a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+"DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. AÇÃO EXPROPRIATÓRIA. PRETENSÃO. CONEXÃO. AÇÃO REPARATÓRIA. DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. REUNIÃO. POSTERIOR DESAPENSAMENTO. FALTA. IMPUGNAÇÃO. PRECLUSÃO TEMPORAL. FUNDAMENTO INATACADO. AUSÊNCIA. PREQUESTIONAMENTO. INCIDÊNCIA. SÚMULA 07/STJ. DISSÍDIO. FALTA. COTEJO. DECISÃO MONOCRÁTICA. DENEGATÓRIA. SEGUIMENTO. AGRAVO REGIMENTAL. REPRODUÇÃO. RAZÕES. RECURSO ESPECIAL. DISSOCIAÇÃO. FUNDAMENTAÇÃO. INOBSERVÂNCIA. DIALETICIDADE.
+1. Ao recurso especial nega-se seguimento quando não realizado o cotejo analítico necessário para a demonstração do dissídio jurisprudencial, quando não atacado determinado fundamento legal que
+embasa o acórdão da origem, quando não prequestionadas as teses recursais e quando houver a necessidade de revolvimento fático-probatório, tudo isso nos termos das Súmulas 282, 283, 284 e 356, do Supremo Tribunal Federal, e da Súmula 07/STJ.
+2. O subsequente agravo regimental que, em vez de atacar esses fundamentos, limita-se à reprodução do texto do recurso especial e a defender o seu cabimento, ressente-se de regularidade formal face a inobservância do princípio da dialeticidade.
+3. Agravo regimental não conhecido. Multa do art. 557, § 2.º, do CPC, em um por cento sobre o valor da causa."
+(AgRg no REsp 1434100/RJ, 2ª Turma, Rel. o Min. MAURO CAMPBELL MARQUES, DJe de 31/3/2014)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
