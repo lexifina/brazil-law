@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE GOIAS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA. PAGAMENTO DE DIFERENÇAS SALARIAIS. DECISÃO QUE REJEITA A IMPUGNAÇÃO. EXCESSO À EXECUÇÃO. COISA JULGADA. INOCORRÊNCIA. REDISCUSSÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. 1. A condenação judicial que determinou o pagamento aos policiais civis do reajuste de 12,33%, previsto no inciso II do artigo 1º das Leis Estaduais nº 18.419/2014, 18.420/2014 e 18.421/2014, que deveria ter sido pago em novembro de 2015, trouxe reflexos salariais até dezembro de 2018, restando devido o pagamento das diferenças sobre os outros anos, nos termos da execução apresentada. 2. Uma vez transitada em julgado a decisão condenatória, não é possível, em sede de cumprimento de sentença, rediscutir as questões definidas no título executivo, sob pena de ofensa ao instituto da coisa julgada. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO (fl. 67).
+Os embargos de declaração opostos foram rejeitados (fls. 100/107).
+Nas razões do seu recurso especial, a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 1.022, 502, 503, 505, 506 e 507 do Código de Processo Civil.
+Alega que (a) o Tribunal de origem foi omisso quanto à matéria discutida; e que (b) " ..  houve na espécie violação à coisa julgada e consequente limitação do pagamento das diferenças ao período de novembro de 2015 a novembro de 2016 " (fl. 123).
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 138/149). O recurso especial foi admitido na origem.
+É o relatório.
+A irresignação não merece prosperar.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Verifica-se, ademais, que a segunda parcela de reajuste (prevista em 12,33% para novembro de 2015) foi postergada para novembro/2016; a terceira parcela de reajuste (prevista em 12,33% em novembro/2016) foi postergada para novembro/2017; e a quarta parcela do reajuste (prevista em 12,33% em novembro/2017), para novembro/2018.
+Desse modo, observa-se que o déficit salarial causado com a postergação da parcela de reajuste de 12,33%, que deveria ter sido pago em novembro de 2015, somente foi corrigido em dezembro de 2018, gerando prejuízos aos servidores até essa data.
+Logo, vislumbra-se que a condenação judicial que determinou o pagamento do reajuste de 12,33%, previsto no inciso II do artigo 1º das Leis Estaduais n. 18.419/2014, 18.420/2014 e 18.421/2014, que deveria ter sido pago em novembro de 2015, trouxe reflexos salariais até dezembro de 2018, restando devido o pagamento das diferenças sobre os outros anos, nos termos da execução apresentada (fl. 69).
+Da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação das Leis estaduais 18.419/2014, 18.420/2014 e 18.421/201. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, a Súmula 280/STF ("Por ofensa ao direito local não cabe recurso extraordinário"). A propósito:
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO
+PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu,
+na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário."
+2. Agravo Regimental não provido (AgRg no REsp 1,433.745/SC, Rei. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL. Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido (AgRg no AREsp 325.430/PE, Rei. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimações necessárias.
+EMENTA
