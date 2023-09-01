@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado com o objetivo final de modificar provimentos judiciais praticados no bojo do RMS n. 69.948/MG, que tramita no Superior Tribunal de Justiça.
+Após análise preliminar da petição ini cial, proferi despacho com o seguinte teor (fls. 92-93):
+Do exame preliminar da petição inicial, verifica-se que este mandado de segurança foi impetrado supostamente por COPERVALE ALIMENTOS S. A., que seria representada por Alan Henrique Iaccino, indicado como administrador da entidade.
+Entretanto, às fls. 29-32 dos presentes autos, consta Certidão Simplificada emitida pela Junta Comercial de Minas Gerais, em 20/12/2022, segundo a qual o mandato de Alan Henrique Iaccino como presidente da pessoa jurídica se encerrou em 31/12/2018 e na qual se encontra, especialmente, a seguinte anotação (destaques acrescidos):
+EM CUMPRIMENTO À DETERMINAÇÃO JUDICIAL ARQUIVADA SOB O N.º 9241009, 16/03/2022, FICA ANOTADO NO PRONTUÁRIO DA SOCIEDADE EMPRESÁRIA SUPRA, QUE A FALÊNCIA DA COPERVALE ALIMENTOS S. A. SE ENCONTRA EM CURSO NA VARA EMPRESARIAL, DE EXECUÇÕES FISCAIS E DE REGISTROS PÚBLICOS DA COMARCA DE UBERABA/MG E QUE ESTÁ IMPEDIDO O ARQUIVAMENTO DE QUALQUER ATO EM RELAÇÃO À MASSA FALIDA, INCLUSIVE DE UMA SUPOSTA ATA DA ASSEMBLEIA GERAL ORDINÁRIA E EXTRAORDINÁRIA REALIZADA EM 26 DE AGOSTO DE 2021 QUE TERIA DELIBERADO COMO NOVO DIRETOR PRESIDENTE A PESSOA DE ÁLVARO PEREIRA LACCINO, OU SEJA, A MASSA É REPRESENTADA APENAS E TÃO SOMENTE PELA ADMINISTRADORA JUDICIAL, SOB O COMANDO E FISCALIZAÇÃO DO JUÍZO FALIMENTAR E DO MINISTÉRIO PÚBLICO. PROCESSO 0409355-12.2013.8.13.0701.
+A informação é corroborada por documentos acostados à inicial (fls. 27 e 28), nos quais se colhe a informação de que o nome empresarial da entidade na Receita Federal é "COPERVALE ALIMENTOS S/A FALIDA". Depreende-se, assim, que se cuida de massa falida, cuja representação em juízo se dá por meio da administradora judicial designada, le gitimidade ativa que, em princípio, não foi demonstrada nos autos.
+Ante o exposto, na forma dos arts. 75, V, 321 e 319, II, do Código de Processo Civil, intime-se a impetrante para, se quiser, no prazo legal de 15 dias, manifestar-se a respeito de sua legitimidade ativa, de maneira fundamentada e lastreada por documentos atualizados.
+A certidão de fl. 100 espelha o decurso do prazo sem manifestação.
+É o relatório.
+Transcorrido o prazo legal, os autos retornaram conclusos sem manifestação, conforme relatado, impondo-se o indeferimento da petição inicial.
+Ante o exposto, com fundamento nos arts. 330, II, e 485, VI, do Código de Processo Civil e 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, indefiro a petição inicial e extingo o feito sem resolução de mérito.
+Havendo o trânsito em julgado, oficiem-s e às autoridades que figuram nos atos apontados como coatores, o Ministro Relator do RMS n. 69.948/MG e o Ministro Presidente da Quarta Turma deste Superior Tribunal, para atendimento do disposto no § 3º do art. 331 do CPC.
+Publique-se. Intimem-se.
+ EMENTA
