@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Socorro de Maria Oliveira Lopes e outros contra decisão da Vice-Presidência do Tribunal de Justiça do Maranhão que inadmitiu o recurso especial no sentido de afastar a apontada violação do artigo 1.022 do CPC/2015 (fls. 407-410).
+Os agravante em suas razões sustentam que houve, sim, violação do artigo 1.022 do CPC/2015, visto que o Tribunal de origem, não obstante a oposição dos embargos de declaração, ficou omisso "acerca da observância ao artigo 4º do CPC/2015" (fls. 412-416).
+Contraminuta às fls. 418-421.
+É o relatório. Passo a decidir.
+O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Passa-se ao exame do recurso, visto que o agravante impugnou satisfatoriamente os fundamentos de decisão de inadmissibilidade.
+No caso, os autores, ora recorrentes, propuseram ação contra o Estado do Maranhão, objetivando o benefício do abono permanência estabelecido no artigo 40, § 19, da Constituição Federal.
+O Tribunal estadual manteve a sentença, a qual julgou improcedente o pedido de indenização por dano moral, bem como o pedido de abono de permanência apenas em relação à autora Socorro de Maria Oliveira Lopes, por não ter preenchido os requisitos necessários à concessão do benefício, eis que "sua posse no cargo de professora ocorreu em 16.12.1994, só atingindo 25 (vinte e cinco) anos de contribuição em 12.12.2019, data anterior à prolação da sentença (28.01.2019).".
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, é legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da Constituição Federal ao servidor público que opte por permanecer em atividade após o preenchimento dos requisitos para a concessão da aposentadoria voluntária (art. 40, § 4º, da Carta Magna) (Tema 888/STF).
+Ocorre que, no caso, repita-se, a sentença julgou a demanda improcedente apenas em relação à autora Socorro de Maria Oliveira Lopes, visto que, no momento da prolação da sentença (28/01/2019), ainda não havia preenchido os requisitos legais, nem para a aposentadoria especial, e muito menos para para o recebimento do benefício do abono permanência. Noutros termos, até a prolação da sentença, e não no curso da ação, a autora Socorro de Maria Oliveira Lopes não preencheu os requisitos para a concessão da aposentadoria voluntária, e, não tendo direito, assim, ao recebimento do abono permanência. Não há falar, assim, em "inobservância ao artigo 4º do CPC/2015".
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ABONO DE PERMANÊNCIA. PROFESSOR. ART. 40 § 19, CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. AUSÊNCIA.
