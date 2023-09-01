@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado entre o JUÍZO DE DIREITO DA 7ª VARA CÍVEL DE RIBEIRÃO PRETO (SP) e o JUÍZO DE DIREITO DA 5ª VARA CÍVEL DE BRASÍLIA (DF) nos autos da ação de revisão contratual cumulada com pedido de tutela e indenizatória movida por LIVEB URBANISMO LTDA. em desfavor de JOSE ROBERTO DADALTE.
+Ajuizada a ação inicialmente perante o Juízo brasiliense (fls. 15-30) (Processo n. 0729137-11.2023.8.07.0001), o magistrado reputou abusiva a cláusula de eleição de foro, declarando-a ineficaz nos termos da seguinte decisão (fls. 163-165):
+A rigor a cláusula de eleição de foro é válida, sendo um dos critérios admitidos para fixação da competência, conforme estabelecido pelo art. 63 do CPC.
+Todavia, admite-se que a cláusula de eleição de foro seja reputada ineficaz na hipótese em que esta se mostrar abusiva, nos termos do art. 63, § 3º, do CPC.
+Esta ação declaratória de inexistência de débito cumulada com pedido de rescisão contratual possui como objeto o contrato de prestação de serviços de consultoria de implantação GERIC perante a CEF e também implantação PBQP-H (ID 122524798)firmando entre a autora LIVEB URBANISMO LTDA. e a ré JOSE ROBERTO DADALTE ME(ID 165209227) e seu aditivo (ID 165209228); sendo que naquele contrato foi fixado foro de eleição em Brasília/DF (ID 165209227 - Pág. 3, Cláusula Décima Primeira).
+Ocorre que, conforme se depreende da inicial (ID 165208701 - Pág. 15,preâmbulo com qualificação das partes) e do sobredito contrato, as partes possuem domicílio em Ribeirão Preto/SP, onde, inclusive, segundo narrado pela autora, foi lavra do protesto em seu nome (ID 165208701 - Pág. 5, quarto parágrafo), cujo cancelamento foi pleiteado em tutela de urgência (ID 165208701 - Pág. 15, item VI, letra "a").
+Se não bastasse, verifica-se, através das mensagens de ID 165209238, que todas as tratativas para obtenção do GERIC foram realizadas perante a SEH - Ribeirão Preto/SP da CEF.
+Essas circunstâncias evidenciam que inexiste qualquer liame mínimo que vincule a relação jurídica obrigacional discutida no feito à Circunscrição Judiciária de Brasília, seja no que concerne aos efeitos e consequências do (in) adimplemento das obrigações ajustadas entre as partes no contrato de prestação de serviços, seja em relação ao domicílio dos contratantes. Nesse contexto, impõe-se reconhecer a ineficácia da cláusula de eleição de foro em tema, pois inequívoca a sua abusividade por violação do princípio do juiz natural, na medida em que estabelecida de forma aleatória sem qualquer conexão com os elementos da relação jurídica obrigacional e, também, sem qualquer identidade com o local de domicílio dos contratos, onde houve o (in) adimplemento das obrigações previstas no contrato de prestação de serviços celebrado entre as partes; o que, inequivocamente, dificulta a efetivação das decisões judiciais e, por consequência, o acompanhamento das diligências por este Juízo, que, muito provavelmente, necessitará, na fase de conhecimento e, também, em eventual cumprimento de sentença, expedir cartas precatórias que resultarão aumento das despesas e da duração do processo.
+Em situações análogas, o e. TJDFT decidiu que:
+(..)
+Diante do exposto, com fundamento no art. 63, § 3º, do CPC, DECLARO a ineficácia da cláusula de eleição de foro em tema, qual seja, Cláusula Décima Primeira da Pág. 3 do ID 165209227; para, em consequência, determinar a remessa dos autos a uma das varas cíveis da Comarca de Ribeirão Preto/SP, onde está o domicílio da ré.
+Recebidos os autos, o Juízo paulista (Processo n. 0013571-72.2023.8.26.0506) também entendeu que era incompetente para processar e julgar a demanda, suscitando o presente incidente nos termos da decisão transcrita a seguir, no que interessa (fls. 176-183):
+(..)
+Trata-se de ação declaratória de inexistência de débito cumulada com pedido de rescisão de contrato e tutela de urgência para a sustação de protesto ajuizada inicialmente perante a 18ª Vara Cível de Brasília/DF (pág. 149), declinando o MM. Juiz de sua competência, ante a tramitação de ação monitória anterior perante a 5ª Vara Cível daquele foro(processo nº 0722040-57.2023.8.07.0001).
+Encaminhados os autos à 5ª Vara Cível de Brasília/DF, o MM. Juiz proferiu decisão reconhecendo de ofício a nulidade da cláusula de eleição de foro e, por consequência, a sua incompetência, determinando a remessa dos autos à Comarca de Ribeirão de Preto/SP, por ser o foro do domicílio das partes e da lavratura do protesto.
+Paralelamente, na ação monitória (processo apenso nº 0013578-63.2023), reiterou-se a decisão proferida nestes autos, determinando a remessa da ação em conjunto, sem apreciar a conexão dos feitos.
+Salvo melhor interpretação, não há que se falar no reconhecimento de ofício da nulidade da cláusula de eleição de foro pelo juízo suscitado.
+Primeiro, tanto a ação monitória quanto a ação declaratória foram ajuizadas no foro de eleição previsto em contrato; segundo, o contrato pactuado não é de adesão, mas sim de prestação de serviços de consultoria, no qual a cláusula de eleição de foro foi livremente eleita pelas partes (cláusula 11ª,pág. 26).
+Assim, tem-se por válida referida cláusula pactuada, nos termos da Súmula 335/STF, não sendo cabível a decretação da incompetência relativa de ofício, conforme Súmula 33/STJ.
+Sobre o assunto, já entendeu o C. STJ, em julgamento de Conflitos de Competência em casos análogos:
+(..)
+Não há o menor indicativo de hipossuficiência de uma das partes em relação à outra; o contrato é de prestação de serviços de consultoria e não se enquadra no conceito de consumo, sem incidência do Código de Defesa do Consumidor; o processo tramita digitalmente e os atos são praticados virtualmente, sem necessidade da presença física dos litigantes ou de seus procuradores no Fórum do DF.
+Corroborando tal entendimento, o juízo suscitado já havia determinado duas emendas, sem menção à abusividade da cláusula contratual eletiva, bem como a citação na ação monitória pioneira, somente não realizada porque o polo passivo não fora localizado.
+O Ministério Público Federal opinou pela declaração da competência do Juízo suscitado (fls. 199-201).
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Entendo que compete ao Juízo suscitado processar e julgar a demanda.
+Como bem pontuado pelo representante do Ministério Público Federal às fls. 200-201, esta corte possui o entendimento no sentido de que "se mostra válida a eleição de foro pactuada de forma livre entre as partes, salvo nos casos de reconhecida hipossuficiência e de obstrução ao acesso à justiça". Ponderou, ainda, que:
+(..)
+não se mostra abusiva a aludida cláusula de eleição de foro, uma vez que, como bem ponderou o juízo suscitante, inexiste nos autos qualquer indício de hipossuficiência da parte ré (e-STJ. fl. 183). Além disso, não restou demonstrado nenhum prejuízo ou inviabilização do direito de defesa da ré no caso de a ação tramitar no foro eleito elas partes.
+No caso, ao declinar da competência o Juízo suscitante entendeu que "Não há o menor indicativo de hipossuficiência de uma das partes em relação à outra; o contrato é de prestação de serviços de consultoria e não se enquadra no conceito de consumo, sem incidência do Código de Defesa do Consumidor".
+Com efeito, destaco também que, nos termos do entendimento desta corte, "É válida a cláusula de eleição de foro pactuada entre pessoas jurídicas, desde que inexistente vulnerabilidade de uma das partes ou dificuldade de acesso à Justiça" (EDcl no CC 139.782/GO, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 25/11/2015, DJe de 27/11/2015).
+Nessa linha, cito:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. COMPETÊNCIA DO FORO DE ELEIÇÃO. RECURSO DESPROVIDO.
+1. Tendo sido o contrato firmado entre duas pessoas jurídicas, com o escopo de atender às necessidades financeiras de uma delas, não se pode inferir dos autos a hipossuficiência da compromitente cedente. Trata-se de relação mercantil e não consumerista. Ainda que se pudesse mitigar a aplicação de tal regra, no caso, não há razão para o afastamento da cláusula de eleição de foro, ante a ausência de quaisquer elementos que denotem a existência de desigualdade entre os contratantes, ou mesmo evidenciem a dificuldade dos réus em litigar no foro eleito.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC n. 144.124/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/3/2016, DJe de 1º/4/2016.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO INSERTA EM CONTRATO DE ELEVADA EXPRESSÃO ECONÔMICA. VULNERABILIDADE DO CONTRATANTE AFASTADA. VALIDADE DA CLÁUSULA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte admite invalidação de cláusula eletiva de foro em contratos de adesão, mesmo firmados entre pessoas jurídicas, quando verificada a vulnerabilidade de uma das partes. Precedentes.
+2. Em casos como o dos autos, porém, em que o contrato entabulado é de elevada monta, não há como cogitar de vulnerabilidade dos contratantes nem como invalidar, por conseguinte, a cláusula de eleição de foro. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp n. 1.485.381/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/12/2015, DJe de 4/2/2016.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO DE REPARAÇÃO DE DANOS. CONTRATO DE CONCESSÃO COMERCIAL POR ADESÃO. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE.
+1. A cláusula que estipula a eleição de foro em contrato de adesão é válida, salvo se demonstrada a hipossuficiência ou a inviabilização do acesso ao Poder Judiciário.
+2. A superioridade do porte empresarial de uma das empresas contratantes não gera, por si só, a hipossuficiência da outra parte, em especial, nos contratos de concessão empresarial.
+3. As pessoas jurídicas litigantes são suficientemente capazes, sob o enfoque financeiro, jurídico e técnico, para demandarem em comarca que, voluntariamente, contrataram.
+4. Recurso especial provido.
+(REsp n. 1.299.422/MA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/8/2013, DJe de 22/ 8/2013.)
+Portanto, inexistentes os requisitos que poderiam afastar a cláusula de eleição de foro ajustada entre as empresas envolvidas, compete ao Juízo do foro de eleição processar e julgar a demanda.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 5ª VARA CÍVEL DE BRASÍLIA (DF) , o suscitado.
+Comunique-se o teor da presente decisão aos juízos suscitado e suscitante.
+Publique-se. Intimem-se.
+EMENTA
