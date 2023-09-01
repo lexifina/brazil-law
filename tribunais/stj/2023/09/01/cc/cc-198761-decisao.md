@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA 16ª VARA DE JUAZEIRO DO NORTE - SJ/CE, o suscitante, e o JUÍZO FEDERAL DA 6ª VARA DO RIO DE JANEIRO - SJ/RJ, o suscitado.
+O juízo suscitado, após contestação da ANP em que foi alegada incompetência territorial e apresentação de tréplica, declinou da competência ao Juízo da Subseção Judiciária de Juazeiro do Norte - CE, porque o local em que foi lavrado o auto de infração está sobre a jurisdição da referida subseção judiciária, possibilitando à autora maior facilidade para obter a pretendida prestação jurisdicional (e-STJ fls. 30/32).
+O Juízo Federal da 16ª Vara de Juazeiro do Norte - SJ/CE, por sua vez, suscitou o presente conflito, destacando que a competência territorial não pode ser declinada de ofício por ser relativa e o autor optou por promover a demanda onde está localizado o escritório central da parte adversa.
+Asseverou, ainda, que tornar a justiça mais acessível àquele que litiga contra a União não importa, necessariamente, no ajuizamento da demanda no órgão jurisdicional mais próximo, geograficamente, do local em que ocorreu o fato, mas possibilitar o ajuizamento da demanda no foro eleito pela autora, salientando a possibilidade de as partes e seus patronos poderem acompanhar o andamento processual inclusive por dispositivo móvel com acesso à internet sem necessidade de comparecimento físico à vara (e-STJ fls. 3/6).
+O Ministério Público Federal opina pela declaração de competência do juízo suscitado (e-STJ fls. 39/41).
+Passo a decidir.
+A dicção do art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, é cediço que a competência da Justiça Federal é definida em razão do interesse da União ou de suas entidades autárquicas ou empresas públicas federais, seja na condição de autoras, rés, assistentes ou oponentes, à exceção das demandas de natureza especializada, tais como as de falência, acidente de trabalho e as sujeitas às Justiças Eleitoral e do Trabalho, ex vi do art. 109, I, da Carta Magna.
+Outrossim, disciplina o § 2º do mesmo art. 109 da Constituição Federal de 1988 que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+Ao interpretar a aludida norma, o Supremo Tribunal Federal, no Tema 374, assentou sua compreensão pela incidência do disposto no art. 109, § 2º, da CF/1988 também às autarquias federais.
+Nesse sentido:
+EMENTA: CONSTITUCIONAL. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS, INCLUSIVE AO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE. RECURSO CONHECIDO E IMPROVIDO.
+I - A faculdade atribuída ao autor quanto à escolha do foro competente entre os indicados no art. 109, § 2º, da Constituição Federal para julgar as ações propostas contra a União tem por escopo facilitar o acesso ao Poder Judiciário àqueles que se encontram afastados das sedes das autarquias.
+II - Em situação semelhante à da União, as autarquias federais possuem representação em todo o território nacional.
+III - As autarquias federais gozam, de maneira geral, dos mesmos privilégios e vantagens processuais concedidos ao ente político a que pertencem.
+IV - A pretendida fixação do foro competente com base no art. 100, IV, a, do CPC nas ações propostas contra as autarquias federais resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional.
+V - A jurisprudência do Supremo Tribunal Federal tem decidido pela incidência do disposto no art. 109, § 2º, da Constituição Federal às autarquias federais. Precedentes.
+VI - Recurso extraordinário conhecido e improvido. (RE 627.709, rel. Min. Ricardo Lewandowski, j. 20-8-2014, P, DJE de 30-10-2014, Tema 374).
+No caso, a parte autora optou por ajuizar a ação na Seção Judiciária do Estado do Rio de Janeiro, local em que a agência reguladora possui escritório central, sendo este o foro competente para o processamento da ação.
+No mesmo sentido: CC 1357758/SP, relatora Ministra Assu sete Magalhães, DJe 01/07/2015.
+Ante o exposto, com base no art. 34, XII, do RISTJ, CONHEÇO do presente conflito para DECLARAR COMPETENTE para a causa JUÍZO FEDERAL DA 6ª VARA DO RIO DE JANEIRO - SJ/RJ.
+Publique-se. Intimem-se.
+EMENTA
