@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto nos autos de ação ordinária de responsabilidade obrigacional securitária, ajuizada em razão de vícios na construção de imóveis adquiridos segundo as regras do Sistema Financeiro da Habitação - SFH, em que os mutuários buscam indenização por vícios de construção em seus imóveis.
+Tendo em vista que ainda não foi ultimado o julgamento o CC 140.456/RS, pela Corte Especial, ainda remanesce a dúvida acerca da competência interna no âmbito do STJ para processar e julgar os processos que versam sobre o tema supra.
+Diante disso, é mister sobrestar o trâmite processual do presente feito, até que seja definido o CC 140.456/RS.
+Publique-se. Intimem-se.
+EMENTA
