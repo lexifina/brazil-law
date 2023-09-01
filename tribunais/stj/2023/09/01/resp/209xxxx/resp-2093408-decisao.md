@@ -1,0 +1,52 @@
+DECISÃO
+Ailton Rosa Abel ajuizou ação declaratória de inexigibilidade de débito contra a Claro S/A., objetivando seja reconhecida a prescrição das dívidas relativas ao Contrato n. 008/00892794-5, vencidas em 2014 e 2015, no valor total de R$ 244,54 (duzentos e quarenta e quatro reais e cinquenta e quatro centavos).
+Argumenta a parte autora que a Claro S/A inscreveu seu nome no sítio eletrônico do "Serasa Limpa Nome" e "Acordo Certo", cobrando dívidas prescritas, não exigíveis na via judicial, tampouco na extrajudicial, tentando, por esse meio, induzi-lo a pagar o débito.
+Na primeira instância, a ação foi julgada procedente, com a condenação da Claro S/A à proceder a exclusão do nome do autor da plataforma Acordo Certo ou em outra plataforma de acordo/cobrança extrajudicial (fls. 78-82).
+O Tribunal de Justiça do Estado de São Paulo, em grau recursal, deu provimento ao recurso de apelação da Claro S/A, julgando improcedente a ação de declaração de inexigibilidade de débito, decorrente de prescrição, nos termos da seguinte ementa (fl. 162).
+APELAÇÃO PRESTAÇÃO DE SERVIÇOS - DECLARATÓRIA - INEXIGIBILIDADE DE DÉBITO - PRESCRIÇÃO - Anotação do nome da autora na plataforma ACORDO CERTO - Plataforma referida que não gera acesso público, nem retrata cobrança, mas tentativa de obter composição entre devedor e credor de modo a passar constar que a dívida foi quitada - Improcedência decretada - Inversão da sucumbência - Fixação da verba honorária em R$ 1.300,00 - Recurso da ré provido.
+Opostos embargos de declaração por Ailton Rosa Abel, foram eles rejeitados (fls. 180-182).
+Ailton Rosa Abel interpôs recurso especial, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, no qual aponta a afronta aos arts. 189 e 206, §5º, do Código Civil, e ao art. 43, §5º, do Código de Defesa do Consumidor, visto que, em suma, a prescrição da pretensão de cobrança de dívida implicaria, necessariamente, na impossibilidade de cobrança tanto judicial como extrajudicial, mormente quando esta é realizada de forma coercitiva.
+Acrescenta, ainda, da necessidade de aplicação da Lei Geral de Proteção de Dados - LGDP, porquanto a inscrição de nome de consumidor em plataforma de cobrança - Serasa Limpa Nome e Acordo Certo, vai de encontro aos direitos assegurados ao polo ativo na referida LGDP.
+Contrarrazões ao recurso especial apresentadas às fls. 205-212.
+É o relatório. Decido.
+No que trata da alegada afronta aos arts. 189 e 206, §5º, do Código Civil, e ao art. 43, §5º, do CDC, a Corte Estadual, na fundamentação do aresto vergastado, assim firmou seu entendimento (fls. 165-168):
+ .. .
+Ora, resta claro que a dívida está prescrita, porque ultrapassado o prazo prescricional de cinco anos, previsto no artigo 206, §5º, inciso I, do Código Civil.
+Como é de conhecimento, a prescrição leva a inexigibilidade do débito e a perda do direito de ação (artigo 189 do Código Civil), o que impede o credor de promover ação judicial, bem como a negativação do nome do devedor perante os órgãos de proteção ao crédito, de caráter público.
+Contudo, há de se verificar que a anotação na plataforma "Acordo Certo" ou "Serasa Limpa Nome" como ocorreu, não gera acesso público, nem retrata cobrança, mas, sim, tentativa de obtenção de composição entre devedor e credor, de modo a passar constar do sistema que a dívida foi quitada.
+Ou seja, não há repercussão pública, nem se pode conceber a ideia de que a anotação nessa plataforma possa gerar danos ao consumidor, mesmo porque a prescrição extingue a possibilidade de exigir a dívida, mas não extingue sua existência.
+Aliás, não há anotação nos cadastros restritivos, referente ao débito prescrito, nem se comprovou que a credora empreendeu a cobrança do débito por qualquer meio.
+Se houve algum contato da credora, não pode ser considerado ilícito, tendo em conta que a dívida prescrita continua existindo e pode ser liquidada a qualquer tempo, sem direito à repetição (artigo 882 do Código Civil).
+Daí não ser possível socorrer-se a parte autora da via judicial a fim de se reconhecer a inexigibilidade de dívida prescrita.
+ .. .
+Aliás, repita-se, na hipótese, não há comprovação de que a ré haja empregado meios vexatórios ou constrangedores à alegada cobrança da dívida.
+Consequentemente, dá-se provimento ao recurso para julgar improcedente a ação, devendo a autora arcar com as custas e despesas do processo, e verba honorária do patrono da ré, fixada em R$ 1.300,00, nos moldes do art. 85, §§ 2º e 8º, do Código de Processo Civil.
+ .. .
+Consoante se depreende dos excertos reproduzidos do aresto recorrido, a Corte Estadual, com base nos elementos fáticos dos autos, concluiu não ter havido negativação do nome do recorrente em cadastros restritivos de crédito, tampouco ter ele sofrido cobrança vexatória ou constrangedora de débito, esclarecendo, nesse ponto, que as plataformas "Serasa Limpa Nome" e "Acordo Certo" não são bancos de dados em que ocorre negativação do nome do devedor mas, sim, portais de renegociação de débitos, pelo que entendeu descabida a condenação da Claro S/A.
+Nesse passo, para se deduzir de modo diverso do aresto recorrido, entendendo que houve negativação do nome do recorrente, bem assim de que sua inscrição no "Serasa Limpa Nome" ou no "Acordo Certo" implicou em restrição de seu crédito no mercado consumidor, na forma pretendida no apelo nobre, demandaria o reexame do mesmo acervo fático-probatório já analisado, providência impossível em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Ademais, também é entendimento desta Corte Superior que o reconhecimento da prescrição afasta apenas a pretensão do credor de exibir o débito judicialmente, mas não extingue o débito ou o direito subjetivo da cobrança na via judicial.
+Confira-se os seguintes julgados relacionados às questões postas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.791/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTÊNCIA. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido (AgInt no AREsp n. 2.031.345/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido (AgInt no AREsp n. 1.952.666/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PRESCRIÇÃO. OBRIGAÇÃO DE NÃO FAZER. INEXISTÊNCIA DO DÉBITO.NÃO CABIMENTO. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, conforme dispõe a Súmula nº 211 do Superior Tribunal e Justiça.
+3. Se a questão levantada não foi discutida pelo tribunal de origem, e não foi verificada a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015.
+4. O reconhecimento da prescrição afasta apenas a pretensão do credor de exigir o débito judicialmente, mas não extingue o débito ou o direito subjetivo da cobrança na via extrajudicial.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 283 do Supremo Tribunal Federal.
+6. Agravo interno não provido (AgInt no AREsp n. 1.592.662/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020).
+Ante o exposto, com fundamento no art. 255, §4º, I, do RISTJ, não conheço do recurso especial, implicando, ainda, na majoração da verba honorária recursal em mais R$ 200,00 (duzentos reais), perfazendo o total de R$ 1.500,00 (mil e quinhentos reais).
+Publique-se. Intimem-se.
+EMENTA
