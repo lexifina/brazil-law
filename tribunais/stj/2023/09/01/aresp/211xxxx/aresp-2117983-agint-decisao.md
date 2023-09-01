@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por SANTL COMERCIAL ELÉTRICA LTDA. contra decisão de minha lavra, e-STJ fls. 825/826, em que neguei provimento à parte conhecida do recurso especial em face da ausência de vício de integração no julgado de origem e da aplicação da Súmula 283 do STF.
+No agravo interno, a parte recorrente busca a retratação da decisão agravada e a reforma do acórdão recorrido para assegurar o direito da agravante ao aproveitamento (compensação) dos valores (que considera) indevidamente recolhidos a título de ICMS/DIFAL, como crédito em sua escrita fiscal (e-STJ fl. 848).
+Impugnação oferecida às 853/854.
+Passo a decidir.
+É o caso de retratação.
+É que o Supremo Tribunal Federal, nos autos do RE 1.420.691, relatora Ministra Rosa Weber (Presidente), reconheceu a existência de repercussão geral do recurso extraordinário em que se discutia, à luz do artigo 100 da Constituição Federal a possibilidade da restituição administrativa de indébito, reconhecido em processo judicial, sendo dispensável ou não a observância do regime constitucional de precatórios (Tema 1.262).
+No exame da questão, o STF reafirmou a jurisprudência dominante sobre a matéria.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. QUESTÃO JURÍDICA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC. DEVOLUÇÃO DO ESPECIAL PARA SOBRESTAMENTO NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. No caso, a questão referente à matéria de fundo, a saber, legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária, teve reconhecida a sua repercussão geral pelo plenário virtual do Supremo Tribunal Federal nos autos do RE 1.355.870/MG (Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 30/6/2022, PROCESSO ELETRÔNICO DJe-155 DIVULG 04-08-2022 PUBLIC 05-08-2022) - Tema n. 1.153.
+2. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC.
+(EDcl no AgInt no REsp n. 1.942.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022.)
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Nesse mesmo sentido, vide: AREsp 550.883/RS, rel. Ministro Napoleão Nunes Maia Filho, DJ 22/03/2018; REsp 1.434.401/DF, rel. Ministro Og Fernandes, DJ 13/12/2017; AgInt no AREsp 633.332/DF, rel. Ministro Benedito Gonçalves, DJ 11/10/2017.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 825/826, tornando-a sem efeitos, e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão no recurso com repercussão geral , proceda ao juízo de conformação previsto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
