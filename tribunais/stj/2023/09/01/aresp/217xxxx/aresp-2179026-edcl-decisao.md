@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se embargos de declaração opostos por CANAÃ GERAÇÃO DE ENERGIA S/A contra a decisão monocrática proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) que conheceu do agravo para não conhecer do seu recurso especial nos termos da seguinte ementa:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA 126/STJ. VIOLAÇÃO DE DISPOSITIVO LEGAL. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+Nas razões dos embargos, a parte embargante aponta erro de fato em ralação à majoração dos honorários advocatícios em 10% (dez por cento) do valor arbitrado na origem, nos termos do art. 85, § 11, do CPC 2015, com a seguinte argumentação:
+In casu, o que se verifica é que o erro de fato do decisum ora embargado se assenta na falta de percepção quanto a elementos notórios dos autos, haja vista que, trata-se o caso de desapropriação, cujo ordenamento jurídico limita o honorários advocatícios ao teto de 5% (cinco por cento), bastando conferir o §1º do art. 27 do Decreto-Lei nº 3.365/41 (fls. 758).
+Requer que sejam os presentes embargos de declaração acolhidos para restabelecer os honorários de sucumbência no patamar fixado na origem.
+Impugnação apresentada (fls. 765/767).
+É o relatório.
+Sem razão a embargante.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC/2015). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+No caso dos autos, observo que o Juízo de primeiro grau fixou os honorários advocatícios em desfavor da empresa ora embargante em 3% do valor da diferença entre a quantia depositada e a condenação, observando o art. 27, § 1º, do Decreto-Lei 3.365/1941, conforme a seguinte fundamentação:
+Assim, condeno a autora ao pagamento das despesas processuais, incluindo-se aí os honorários do perito e advocatícios, estes fixados em 3% do valor da diferença entre a quantia depositada e a condenação, nos termos do artigo 27, § 1º, do Decreto-Lei n. 3.365/41 (fls. 516).
+Por sua vez, o Tribunal local não modificou os honorários advocatícios fixados anteriormente na sentença, em acórdão assim fundamentado:
+Do exposto, dou provimento parcial ao recurso para determinar a incidência de juros compensatórios de 6%ao ano, devendo a base de cálculo dos juros compensatórios corresponder à diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença, mantendo-se, no mais, a sentença nos mesmos termos.
+Considerando o provimento parcial do recurso, deixo de majorar os honorários de advogados, nos termos do art. 85, § 11, do CPC.
+É como voto (fl. 553).
+A decisão ora embagada majorou os honorários advocatícios, anteriormente fixados, em 10% (dez por cento) do valor arbitrado na origem, nos termos do art. 85, § 11, do CPC 2015, conforme depreende-se do seguinte trecho do decisum:
+Pelo exposto, conheço do agravo de para não conhecer do recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal (fl. 753).
+Como se vê, as instâncias ordinárias arbitraram a verba honorária em 3% (três por cento) do valor da diferença entre a oferta e a indenização fixada, observando, assim, o limite legal previsto para as ações de desapropriação de 5% (cinco por cento), conforme regramento específico disposto no § 1º do art. 27 do Decreto-Lei 3.365/1941. A decisão ora embargada majorou os honorários advocatícios em 10% do valor já arbitrado na origem, nos termos do art. 85, § 11, do CPC.
+Observo que a decisão embargada está de acordo com a orientação do STJ no sentido de que, nas ações de desapropriação, não há impedimento para que os honorários sejam majorados em sede recursal, na forma do art. 85, § 11, do CPC/2015, desde que observado o percentual máximo estabelecido no art. 27, § 1º, do Decreto-Lei 3.365/1941, conforme ocorreu na espécie.
+Portanto, a prestação jurisdicional se exauriu satisfatoriamente, não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, mas apenas a discordância da parte quanto ao conteúdo da decisão embargada, o que não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+Ante exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
