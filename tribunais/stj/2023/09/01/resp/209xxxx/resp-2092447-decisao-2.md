@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GLEICIELE CRISTINA DE OLIVEIRA RUZZON DE JESUS (GLEICIELE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.223/1.233).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, GLEICIELE alegou a violação do art. 46, § 1º, do NCPC, ao sustentar que a condenação da GECON EMPREENDIMENTOS E INCORPORAÇÕES IMOBILIÁRIAS LTDA., ao pagamento de aluguéis pelo período em que a recorrente ficou privada de habitar o seu próprio imóvel, deve se estender até 18/1/2019, em decorrência da presunção de prorrogação por prazo indeterminado do contrato de locação por ela firmado.
+Sobre o tema, ao julgar os embargos de declaração opostos pela ora insurgente, o TJPR assim se pronunciou:
+ .. , no que tange ao período dos aluguéis, verifica-se que, embora o Oficial de Justiça tenha certificado a impossibilidade de intimação da embargante no endereço R: Eracides Martins de Oliveira, 1439, Sarandi/PR, por esta ter se mudado há mais de um ano da localidade à época dos fatos, denota-se que a recorrente somente comprovou os gastos extraordinários a esse título através do contrato de mov. 1.8 dos autos, do período de 03/2015 a 02/2016, não havendo nenhum outro documento nos autos capaz de embasar a pactuação de novo instrumento locatício neste sentido, ônus que lhe competia e ao qual não se desincumbiu (art. 373, inciso I, do CPC).
+A propósito:
+" ..  No que se refere ao pagamento de aluguéis, observa-se que o perito pontuou que o imóvel tornou-se inabitável pelos vandalismos e furtos, que conforme supramencionado, decorreram da abertura no muro e no portão frontal, enquanto a autora evidenciou a necessidade de locação de outro imóvel para sua moradia, elencando nos autos contrato de locação do imóvel situado na Rua Sete, 1438, Residencial São José, Sarandi/PR (mov. 1.8), datado de 01 de março de 2015, estabelecendo o pagamento mensal de R$ 600,00 e prazo de locação até 28.02.2016.
+Todavia, verifica-se que em certidão de mov. 277.1, foi informado por oficial de justiça que não foi possível citar a autora no endereço da R. Eracides Martins de Oliveira, 1439, Sarandi/PR, pois teria se mudado há cerca de 01 ano, ressaltando-se que tal diligência ocorreu em 18.01.2020.
+Referidos elementos evidenciam a não fruição do imóvel adquirido pela autora, sendo possível a fixação de aluguéis.
+Entretanto, há que se ressaltar que, conforme jurisprudência deste E. Tribunal 4 , a restituição do valor efetivamente desembolsado a título de aluguéis não pode ser confundida com lucros cessantes, vez que visa tão somente o ressarcimento dos gastos da ora apelada com aluguel relativo ao período em que não pode usufruir do bem adquirido.
+Assim, observa-se que a recorrida não logrou demonstrar a pactuação de novo contrato de aluguel relativo à sua mudança para o imóvel localizado na R. Eracides Martins de Oliveira, 1439, Sarandi/PR, nem trouxe aos autos provas quanto à continuidade do contrato de locação elencado em mov. 1.8 após a superação do prazo de locação, ônus que lhe competia, a teor do art. 373, I, do CPC.
+Portanto, deve ser mantida a condenação da apelante à restituição dos valores pagos pela autora à título de aluguel, limitada, contudo, aos gastos efetivamente comprovados pelo contrato de mov. 1.8, ou seja, o pagamento de R$ 600,00 mensais, de março de 2015 a fevereiro de 2016" (e-STJ, fls. 1.122/1.123).
+Verifica-se que, no caso, a revisão da conclusão do acórdão recorrido, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Nessas condições, CONHEÇO do agravo de GLEICIELE para NÃO CONHECER o recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO DEMARCATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PAGAMENTO DE ALUGUÉIS PELO PERÍODO EM QUE O AUTOR FICOU PRIVADO DE HABITAR O IMÓVEL. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE GLEICIELE NÃO CONHECIDO.
