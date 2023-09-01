@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEX DA COSTA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, nos autos do HABEAS CORPUS n. 0818464-79.2022.8.15.0000.
+Depreende-se dos autos que o paciente foi inicialmente condenado às penas de 23 anos e 06 meses de reclusão, no regime inicial fechado, por infração ao artigo 121, parágrafo 2º, inciso IV, do Código Penal, conforme a sentença de fls. 37-43.
+A defesa interpôs apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão de fls. 44-49.
+Operado o trânsito em julgado 01/06/2012, a defesa impetrou o HC n. 0818464-79.2022.8.15.0000 perante o Tribunal de Justiça do Estado da Paraíba, que não conheceu do writ e concedeu a ordem de ofício para redimensionar a pena para 19 (dezenove) anos e 07 (sete) meses de reclusão, conforme o acórdão de fls. 14-19.
+No presente writ, o impetrante sustenta sofrer coação ilegal em razão da equivocada e desproporcional dosimetria da pena.
+Requer, ao final, a concessão da liminar e da ordem para que seja redimensionada a pena-base.
+Não foi formulado pedido liminar.
+Informações prestadas (fls. 97-100)
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 102-106).
+É o relatório. DECIDO.
+Conforme relatado, trata-se de habeas corpus substitutivo de recurso próprio, em que a defesa sustenta a existência de flagrante ilegalidade na análise das circunstâncias judiciais do artigo 59 do Código Penal.
+No caso, a condenação sofrida pelo paciente é definitiva, pois, conforme informações prestadas pelo Tribunal de origem (fls. 97-100), verifica-se que o trânsito em julgado da sentença condenatória ocorreu em 01/06/2012, assim como o acórdão que não conheceu o writ, mas concedeu de ofício a ordem para reconhecer a atenuante da menoridade relativa (fls.44-49), transitou em julgado em 30/11/2022.
+O presente writ, porém, foi impetrado somente em 01/03/2023.
+Registro que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação. Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência prevista no artigo 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Nesse sentido: HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJ-e de 6/4/2021; AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJ-e de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020 e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+Saliento que no acórdão impugnado (fls. 16-18), a Corte local foi provocada, pela via do habeas corpus originário, impetrado em face de sentença com trânsito em julgado, a se manifestar sobre a flagrante ilegalidade relacionada ao vetor antecedentes criminais do artigo 59 do Código Penal, tendo restado assim fundamentado:
+ ..
+Assim, não conheço do presente mandamus, por ser sucedâneo de revisão criminal.
+Todavia, para verificar a existência de manifesta ilegalidade ou arbitrariedade, no caso dos autos, necessário transcrever excerto da sentença relativo à impugnação do impetrante. Vejamos.
+Em relação a circunstância judicial dos antecedentes criminais, o magistrado fundamentou da seguinte forma: "O denunciado tem antecedentes criminais, pois, conforme registra a certidão de fls.99/100, já sofreu 2 (duas) condenações penais transitadas em julgado."
+Da análise da certidão de antecedentes criminais (Id. 17038235, Pág. 09/10), consta o processo 001.2009.021.067-3 com trânsito em julgado em 07/02/2011 e o processo 001.2010.021.814-6 com trânsito em julgado em 31/01/2011. O fato apurado no processo 001.2009.021.067-3 ocorreu em 01/10/2009 (Id. 17038241 - Pág. 04/05). Por sua vez, o crime pelo qual o impetrante requer a redução da pena ocorreu em 06/07/2010.
+In casu, o delito praticado em 01/10/2009 com trânsito em julgado anterior a sentença condenatória é fundamento idôneo para negativar a circunstância judicial dos antecedentes criminais.
+ ..
+Verifico, portanto, que a tese acerca da possível ilegalidade na análise das circunstâncias judiciais do artigo 59, do Código Penal, relativas à culpabilidade, conduta social, personalidade e motivos, formulada no presente writ, sequer foi enfrentada pelo acórdão impugnado.
+Com efeito, o debate da questão não foi levado pelo impetrante ao juízo natural da causa, sendo certo que a sua apreciação importaria em indevida supressão de instância.
+Nesse sentido: AgRg no RHC 177764/RJ, Relator Ministro MESSOD AZULAY NETO 5ª Turma, DJ-e: 16/08/2023; AgRg nos EDcl no RHC 160495/PB, Relator Ministro MESSOD AZULAY NETO, 5ª TURMA, DJ-e: 26/06/2023 e EDcl no HC 798282/SP, Relator Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT),6ª Turma, DJ-e: 18/08/2023.
+De todo modo, não vislumbro flagrante ilegalidade apontada pela defesa, que autorize a concessão da ordem de ofício, em relação às circunstâncias judiciais do artigo 59, do Código Penal, a saber: culpabilidade, conduta social, personalidade, motivos e circunstâncias.
+Por outro lado, anoto que, em relação ao vetor antecedentes, o acórdão impugnado enfrentou a questão, tendo fundamentado, a partir de fatos concretamente extraídos dos autos, os motivos da denegação da ordem, nos seguintes termos (fls.16-18):
+ ..
+Em relação a circunstância judicial dos antecedentes criminais, o magistrado fundamentou da seguinte forma: "O denunciado tem antecedentes criminais, pois, conforme registra a certidão de fls.99/100, já sofreu 2 (duas) condenações penais transitadas em julgado."
+Da análise da certidão de antecedentes criminais (Id. 17038235, Pág. 09/10), consta o processo001.2009.021.067-3 com trânsito em julgado em 07/02/2011 e o processo 001.2010.021.814-6 com trânsito em julgado em 31/01/2011. O fato apurado no processo 001.2009.021.067-3 ocorreu em01/10/2009 (Id. 17038241 - Pág. 04/05). Por sua vez, o crime pelo qual o impetrante requer a redução da pena ocorreu em 06/07/2010.
+In casu, o delito praticado em 01/10/2009 com trânsito em julgado anterior a sentença condenatória é fundamento idôneo para negativar a circunstância judicial dos antecedentes criminais.
+ ..
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, sem a fixação de um critério aritmético na escolha da sanção a ser estabelecida na primeira etapa do cálculo dosimétrico. Desse modo, o magistrado, dentro do seu livre convencimento motivado e atrelado às particularidades fáticas do caso concreto e subjetivas do agente, decidirá o quantum de exasperação da pena-base, sendo que tal critério somente é passível de revisão por esta Corte de Justiça no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC n. 549.965/SP, Quinta Turma, Relator Min. Reynaldo Soares da Fonseca, DJe de 27/05/2020).
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, não vislumbro nenhuma ilegalidade que autorize a concessão da ordem, uma vez que as razões decidir do acórdão impugnado indicam que o vetor antecedentes foi devidamente comprovado perante as instâncias originárias.
+Qualquer incursão que escape à moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos limites do habeas corpus, ação constitucional de rito célere e de cognição sumária.
+Nesse sentido: AgRg no HC n. 722.827-SC, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), 5ª Turma, DJe de 26/04/2022; AgRg no HC 790524/SC, Relator Ministro JOEL ILAN PACIORNIK, 5ª Turma, DJ-e 16/08/2023 e AgRg no HC 783509/SP, Relator Ministro JOEL ILAN PACIORNIK, 5ª Turma, DJ-e: 16/08/2023.
+Ante o exposto, conheço parcialmente do writ e, nesta na parte, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
