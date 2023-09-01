@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PERPLAN EMPREENDIMENTOS E URBANIZAÇÃO LTDA. contra a decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido em agravo de instrumento e assim ementado (fl. 257):
+OBRIGAÇÃO DE FAZER - Pretensão deduzida por condomínio em face da construtora em razão da existência de vícios construtivos no empreendimento Determinação de inversão do ônus da prova - Decisão que se mostra acertada, em conta a possibilidade de aplicação do Código de Defesa do Consumidor no presente caso, por atuar o condomínio na defesa dos interesses dos condôminos, bem assim diante da hipossuficiência técnica do condomínio em relação à construtora, no que se refere à matéria em discussão na lide -Precedentes - Agravo de instrumento não provido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 373, I e § 1º, do CPC e 6º, VIII, do CDC. Impugna a distribuição do ônus da prova.
+Afirma que não foram atendidos os requisitos para a inversão do ônus da prova, insurgindo-se contra a hipossuficiência técnica do recorrido.
+Sustenta que cabe ao recorrido o ônus de produzir as provas de fato constitutivo de seu direito.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls. 283-289.
+O recurso especial foi inadmitido na origem (fls. 290-291).
+As contrarrazões ao agravo em recurso especial foram apresentadas às fls. 309-314.
+É o relatório. Decido.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 259-260):
+Trata-se, portanto, de ação ajuizada pelo condomínio na defesa dos interesses dos condôminos, de modo que admissível a equiparação do condomínio ao consumidor e, por consequência, a aplicação do Código de Defesa do Consumidor, conforme precedentes do Superior Tribunal de Justiça e deste Tribunal mencionados na contraminuta.
+Em razão disso, possível a aplicação da regra da inversão do ônus da prova, prevista no artigo 6º, inciso VIII, do Código de Defesa do Consumidor, considerada, inclusive, a hipossuficiência técnica do condomínio em relação à construtora no que se refere à matéria em discussão na lide vícios construtivos evidente que a agravante, na posição de construtora do edifício e das áreas comuns do condomínio, tem melhores condições de demonstrar que as obras foram realizadas de acordo com o projeto aprovado.
+Segue que, de qualquer forma, não se trata, propriamente, de inversão do ônus da prova, tendo em vista que, do exame do processo principal, verifica-se que o agravado produziu as provas que estavam ao seu alcance, no sentido de demonstrar os fatos constitutivos do direito alegado, cabendo à agravante a prova de fato impeditivo, modificativo ou extintivo do direito do agravado.
+Ressalte-se que, além disso, o D. Juízo determinou a realização de perícia técnica para o fim de apurar a realização, ou não, das obras reclamadas pelo agravado, de modo que não se constata prejuízo à agravante em razão da inversão do ônus da prova ou dificuldade de produção das provas de sua incumbência.
+Quanto à alegada ofensa aos arts. 373, I e § 1º, do CPC e 6º, VIII, do CDC, considerando os trechos acima transcritos, verifica-se que o Tribunal local, analisando os elementos de prova dos autos, concluiu pela incidência das normas consumeristas e pela inversão do ônus da prova em favor do condomínio, tendo em vista sua hipossuficiência técnica.
+Desse modo, para adotar conclusões diversas das que foram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial em face do óbice da Súmula n. 7 do STJ.
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. ARTIGO 1.025 DO CPC/2015. APLICAÇÃO. ALEGAÇÕES RELEVANTES. TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA. CARACTERIZAÇÃO. ÔNUS DA PROVA. INVERSÃO. CRITÉRIO DO JUIZ. REVISÃO. IMPOSSIBLIDADE. SÚM ULA Nº 7/STJ.
+ ..
+4. O aresto recorrido está de acordo com a jurisprudência desta Corte no sentido de que a teoria finalista deve ser mitigada nos casos em que a pessoa física ou jurídica, ainda que não seja destinatária final do produto, apresente-se em estado de vulnerabilidade ou hipossuficiência técnica em relação ao fornecedor.
+5. A inversão do ônus da prova fica a critério do juiz , que deve apreciar, a partir do substrato fático-probatório dos autos, a verossimilhança das alegações do consumidor e a sua hipossuficiência, o que não pode ser revisto no recurso especial diante do óbice da Súmula nº 7/STJ.
+6. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias acerca da caracterização da vulnerabilidade da pessoa jurídica , a ensejar a aplicação da teoria finalista mitigada, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial pelo óbice da Súmula nº 7/STJ.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.008.484/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. REPARAÇÃO POR DANOS MATERIAIS E MORAIS. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. FUNDAMENTAÇÃO DEFICIENTE. INEXISTÊNCIA. VEROSSIMILHANÇA DAS ALEGAÇÕES. COMPROVAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. A eg. Corte de origem, com fundamento nas provas documentais trazidas aos autos, determinou a inversão do ônus da prova em razão da demonstração da verossimilhança nas alegações apresentadas pelo consumidor no tocante ao descumprimento do prazo contratual para entrega do imóvel e a existência de vícios construtivos. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Agravo interno improvido. (AgInt no AREsp n. 1.825.464/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+ EMENTA
