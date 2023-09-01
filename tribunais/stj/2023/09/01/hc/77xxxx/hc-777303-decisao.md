@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAOLA DA SILVA CASTILHOS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no HC n. 5135042-57.2022.8.21.7000.
+Narra o Impetrante que a Paciente foi presa em flagrante no dia 16/07/2021, sendo a custódia convertida em preventiva (fls. 21-24), pela suposta prática do crime de tráfico ilícito de drogas, pois surpreendida na posse de "vinte pinos de cocaína de peso não especificado no IP, uma porção de crack, pesando aproximadamente 10 gramas e uma porção de crack pesando aproximadamente 20 gramas" (fl. 27).
+Ao final da instrução, foi condenada às penas 7 (sete) anos de reclusão, em regime fechado, e 550 (quinhentos e cinquenta) dias-multa, como incursa no art. 33, caput, da Lei n. 11.343/2006 (fl. 78), mantida a custódia cautelar pelos mesmos motivos (fls. 78-79).
+Irresignada, a Defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem (fls. 25-35).
+Neste writ, a Defesa sustenta o cabimento de medidas cautelares diversas da prisão, alegando que a Paciente possui residência fixa e que a prisão já atingiu seu caráter pedagógico.
+No mais, defende o direito da Paciente à prisão domiciliar, nos termos do art. 318-A do Código de Processo Penal e da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Ressalta que a Paciente "tem duas filhas menores de 12 anos de idade, que estão aos cuidados da avó, porém a avó não tem mais condições de cuidar das crianças pois é doente do coração e pulmão" (fl. 04).
+Requer, liminarmente e no mérito, a concessão de liberdade provisória à Paciente, ainda que mediante a aplicação de medidas cautelares diversas ou, subsidiariamente, a substituição da custódia em estabelecimento prisional pela modalidade domiciliar.
+O pedido liminar foi indeferido (fls. 41-44).
+Foram prestadas informações às fls. 48-106; 109-134.
+O Ministério Público Federal manifestou-se "pelo não conhecimento da ordem de habeas corpus." (fl. 142).
+É o relatório. Decido.
+Inicialmente, a decretação da prisão preventiva está suficientemente fundamentada, pois embora a quantidade de drogas não seja exacerbada, foi destacado que a Paciente "apresenta condenação definitiva pelo delito de tráfico ilícito de drogas (processo n. 052/2.19.0003572-5), estando na condição de foragida por ocasião de sua prisão" (fl. 27), circunstâncias que justificam a segregação cautelar para garantia da ordem pública e da aplicação da lei penal.
+No mais, não assiste razão à Defesa no que concerne ao alegado direito à prisão domiciliar.
+É certo que o Supremo Tribunal Federal concedeu habeas corpus coletivo (HC n. 143.641/SP, Rel. Ministro RICARDO LEWANDOWSKI) às mulheres presas, gestantes, puérperas e mães de crianças menores de doze anos de idade ou portadoras de necessidades especiais, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos Juízes que não reconhecerem o direito à prisão domiciliar.
+Aliás, a possibilidade de excepcionar a aplicação da prisão domiciliar é ínsita ao juízo de cautelaridade, que deve sempre guardar correspondência com a situação fática sub judice.
+Na hipótese, a reiteração criminosa - existência de condenação definitiva anterior pelo mesmo crime -, aliada à informação de que a Paciente se encontrava foragida do sistema prisional ao tempo dos fatos, configura situação excepcionalíssima apta a impedir a substituição da custódia preventiva.
+A respeito da reiteração delitiva e do descumprimento de medidas anteriormente impostas como fundamento para embasar o indeferimento da prisão domiciliar, cito o seguinte julgado, mutatis mutandis: "Denega-se pedido de prisão domiciliar formulado por mulher quando, beneficiada por medidas cautelares diversas da prisão, comete novo delito similar " (AgRg no HC n. 760.071/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 13/9/2022, DJe de 16/9/2022).
+No mesmo sentido, ilustrativamente:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. VEDAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. NÃO CABIMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ ..
+2. No caso, tem-se que a constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando o fato de a agravante ter outra condenação pelo mesmo crime e, ainda, de já ter sido agraciada com a prisão domiciliar em razão dos filhos menores de 12 anos de idade e ter voltado a delinquir.
+3. É possível ao Magistrado negar o benefício, ainda que preenchidos os requisitos do art. 318-A do Código de Processo Penal. Afinal, essa regra não implica reconhecer que a prisão domiciliar terá incidência irrestrita ou automática. Deve o julgador, como em todo ato restritivo de liberdade, proceder ao exame da conveniência da medida à luz das particularidades do caso concreto (STF: HC n. 157.084/RS, Ministro Alexandre de Moraes, DJe 8/6/2018).
+4. Agravo regimental improvido." (AgRg no RHC n. 166.045/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 9/8/2022, DJe de 15/8/2022; sem grifos no original.)
+Por fim, quanto à tese de revogação ou substituição da prisão preventiva com base na Recomendação n. 62/2020 do Conselho Nacional de Justiça, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+Ante o exposto, CONHEÇO PARCIALMENTE do habeas corpus e, nessa extensão, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS. SUBSTITUIÇÃO PELA MODALIDADE DOMICILIAR. SITUAÇÃO EXCEPCIONALÍSSIMA DEMONSTRADA. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. SUPRESSÃO. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM.
