@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo TERESINHA SAMPAIO OLIVEIRA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação, nos autos de ação de obrigação de fazer c/c indenização.
+O julgado foi assim ementado (fl. 881):
+Ementa: Plano de Saúde Ação de Obrigação de Fazer cc Indenização Autora beneficiária de plano de saúde da Ré Descredenciamento de Clínica que a Autora vinha realizando tratamento para o câncer - Descumprimento ao procedimento regular de descredenciamento Inteligência do artigo 17 da Lei 9.656/98 - Aplicação das normas do Código de Defesa do Consumidor e do princípio da boa-fé objetiva Cobertura devida integralmente pela Ré que não comprovou ter efetuado a substituição por entidade hospitalar equivalente Danos morais não configurados Inexistência de comprovação de ofensa aos direitos de personalidade - Sentença reformada Sucumbência proporcional (art. 86, do CPC) Recurso parcialmente provido.
+Nas razões do recurso, a parte aponta, além de divergência jurisprudencial, a ofensa dos arts. 186 e 927 do Código Civil.
+Alega ser devida a condenação por danos morais, posto que a parte recorrida somente atendeu ao que estava disposto no contrato após determinação judicial, com morosidade e impondo-lhe sofrimento, em razão de estar em estágio terminal de câncer.
+Aduz ainda que houve infringência dos arts. 20, 30, 48 e 51, XIII, do Código de Defesa do Consumidor.
+Argumenta que deve ser aplicada a tese do desvio produtivo do consumidor, pois foram sucessivas as falhas na prestação de serviços ensejando desgastes e perda de tempo.
+Afirma ser direito certo da autora a indenização pelos sofrimentos advindos do comportamento da recorrida, pois a continuidade do tratamento ocorreu somente após a antecipação de tutela.
+Requer seja conferido o direito a danos morais.
+As contrarrazões foram apresentadas às fls. 914-920.
+Admitido o apelo extremo (fls. 922-923), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso merece prosperar.
+O cerne da controvérsia diz respeito ao cabimento de indenização por danos morais decorrentes do descredenciamento das clínicas em que era realizado o tratamento de câncer da parte autora, sem que houvesse notificação prévia e sem a substituição por clínica equivalente. Discute-se então se houve o mero descumprimento contratual.
+Extrai-se dos autos que a parte ora recorrida promoveu o descredenciamento do hospital e da clínica em que a autora da ação realizava seu tratamento para câncer de mama e ofereceu a continuidade do tratamento em clínica indicada, defendendo que não ficou comprovado que esta não atenderia às necessidades da paciente, além de sustentar o não cabimento de indenização por danos morais.
+A jurisprudência do STJ firmou-se no sentido de que o inadimplemento contratual ou a falha na prestação de serviços, por si só, não gera indenização por danos morais, que pressupõe ofensa aos direitos da personalidade. A propósito, nesse sentido, veja-se o julgado:
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. COBERTURA. DESCREDENCIAMENTO DE UNIDADE DE SAÚDE SEM AVISO PRÉVIO AO SEGURADO. DANO MORAL. NÃO CONFIGURAÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. REVISÃO DO JULGADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+1. O entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior, no sentido de que "o inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade" (AgRg no REsp 1.132.821/PR, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe de 29.3.2010). Precedentes do STJ.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+3. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.910.270/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Na espécie, a Corte estadual manteve a sentença quanto à continuidade do tratamento nas clínicas indicadas pela parte autora e anteriormente credenciadas, pois, no caso, não foram cumpridos os requisitos previstos no art. 17 da Lei n. 9. 656/1998, referentes à notificação prévia do usuário do plano de saúde e tampouco houve a substituição por entidade hospitalar equivalente.
+Entretanto, afastou a condenação por danos morais, visto que concluiu que a operadora do plano de saúde pensava estar agindo em conformidade com o contrato, inexistindo provas de negligência do tratamento ou de piora do quadro de saúde, e que não houve a demonstração de ofensa anormal à personalidade da autora. Ressaltou, no entanto, o seguinte (fls. 886- 889, destaquei):
+Ademais, o quadro de saúde da paciente é evidentemente grave, sendo que necessitava de atendimento rápido e eficiente, a fim de não comprometer mais a sua saúde que já se encontrava fragilizada.
+ ..
+A Autora afirma ter ocorrido dano moral em razão do intenso sofrimento por que passou ao tomar conhecimento do descredenciamento da clínica que vinha realizando o tratamento da doença, porém entendo que não estão configurados na hipótese.
+ ..
+Pode se entender que os acontecimentos tenham sido capazes de causar incômodos, perplexidade e aborrecimento, mas não dano de natureza moral. Isto porque não se pode concluir que do fato houve ofensa anormal à personalidade da Autora.
+Entretanto, como se vê, tendo em vista que o Tribunal de Justiça do Estado de São Paulo admitiu os aborrecimentos e incômodos à parte, cujo quadro de saúde era grave e já fragilizado, e que, de acordo com as informações dos autos, foram descumpridos os requisitos previstos no art. 17 da Lei n. 9.656/1998, seja pela falta de notificação prévia ao descredenciamento e de não oferecimento de clínica equivalente para tratamento, é de se concluir ter sido indevida a conduta da recorrida e ultrapassado o mero aborrecimento, exsurgindo daí danos morais indenizáveis.
+Por fim, no que se refere à alegada violação dos arts. 20, 30, 48 e 51, XIII, do Código de Defesa do Consumidor, a deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Ademais, a questão relativa à tese do desvio produtivo do consumidor não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento para restabelecer os danos morais, nos termos da sentença.
+Ônus sucumbenciais em desfavor da parte recorrida, ressalvada, desde já, a eventual concessão de gratuidade de justiça (art. 98, § 3º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
