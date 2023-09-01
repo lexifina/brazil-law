@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de DANILO DE ARAUJO CORREIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n. 0021014-26.2021.8.17.9000.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 121, § 2º, incisos I e VI, c/c art. 14, inciso II, ambos do Código Penal, por duas vezes (homicídios qualificados tentados). Ao receber a denúncia, em 13/2/2017, o Juízo de primeiro grau decretou a prisão preventiva do acusado.
+Em razão das infrutíferas tentativas de citação do réu, os autos foram desmembrados com relação ao acusado e suspenso o prazo prescricional. No dia 30/10/2018, o mandado de prisão foi cumprido.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS. PACIENTE DENUNCIADO E PRESO PREVENTIVAMENTE PELA SUPOSTA PRÁTICA DOCRIMEDE HOMICÍDIODUPLAMENTEQUALIFICADO, NA FORMA TENTADA, DESCRITO NO ARTIGO 121, §2º, INCISOS I E VI, COMBINADO COM ARTIGO 14, INCISO II (DUAS VEZES), NA FORMA DO ARTIGO 69 DO CÓDIGO PENAL. PRETENSÃO DE RELAXAMENTO DA PRISÃO PREVENTIVA,SOB A ALEGAÇÃO DE EXCESSO DE PRAZONA MANUTENÇÃO DE SUA PRISÃO CAUTELAR,OU DE REVOGAÇÃO, QUE NÃO MERECE PROSPERAR. COMO SABIDO, A ANÁLISE DO EXCESSO DE PRAZO DEVE SER FEITA DE ACORDOCOM O PRINCÍPIO DA RAZOABILIDADE, EM ATENÇÃO ÀS PECULIARIEDADES DO CASO CONCRETO, DEVENDO TAMBÉM SER APRECIADA A EXISTÊNCIA DE EVENTUAL INÉRCIA ESTATAL. EXTRAI-SE DAS JUDICIOSAS INFORMAÇÕESA REGULARIDADE DO TRÂMITE DO PROCESSO,TENDO SIDOREALIZADA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO NO DIA 17.10.2022, OCASIÃO EM QUE A DEFESA REQUEREU A REVOGAÇÃO DA PRISÃO PREVENTIVA, SENDO DETERMINADAPELO JUÍZO DE ORIGEMA VISTA DOS AUTOS AO MINISTÉRIO PÚBLICO PARA SE MANIFESTAR ACERCA DO PLEITO DEFENSIVO. APÓS ISSO, O JUÍZO PROFERIRÁDECISÃO ACERCADO PLEITO LIBERTÁRIO, COM O CONSEGUINTE PROSSEGUIMENTO DO FEITO. COMO SABIDO, OS PRAZOS PROCESSUAIS NÃO PODEM SER TRATADOS COMO MERO CÁLCULO ARITMÉTICO, DEVENDO O MAGISTRADO ANALISAR CASO A CASO, CUIDANDO DO SEU REGULAR ANDAMENTO. NOCASO,NÃO FOIVERIFICADO QUALQUER PERÍODO DE PARALISAÇÃO INDEVIDA NA TRAMITAÇÃO DO FEITO, O QUAL SEGUE SUA MARCHA PROCESSUAL DE FORMA REGULAR. ADEMAIS, NÃO HOUVE QUALQUER ALTERAÇÃODA SITUAÇÃO FÁTICA QUE ENSEJOU A DECRETAÇÃO DA CUSTÓDIA CAUTELAR, DE SORTEQUE PERMANECEMHÍGIDOS OS FUNDAMENTOS UTILIZADOS PARA O ENCARCERAMENTO PREVENTIVO. ASSIM, ANTE A HIGIDEZ DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR E A INEXISTÊNCIA DOALEGADO EXCESSO DE PRAZO, A MANUTENÇÃO DA PRISÃO CAUTELAR É MEDIDA QUE SE IMPÕE. ORDEM DENEGADA" (fls. 127/129).
+No presente writ, o impetrante sustenta a existência de excesso de prazo na formação da culpa, destacando que a prisão já dura mais de 4 anos, sem que haja previsão do encerramento da instrução criminal.
+Destaca que os corréus já foram impronunciados e defende a extensão dos efeitos da decisão, nos termos do art. 580 do CPP.
+Alega que o decreto prisional carece de fundamentação idônea e ressalta a ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Salienta as circunstâncias pessoais favoráveis do paciente.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do paciente e o trancamento da ação penal.
+A liminar e o pedido de reconsideração foram indeferidos às fls. 139/140 e 168/169. Informações prestadas às fls. 144/147 e 148/152. O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 156/161.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, das informações obtidas na página eletrônica do Tribunal de origem, constatou-se que, em 16/8/2023, nos autos da Ação Penal n. 0515693-71.2014.8.19.0001, foi proferida sentença de impronúncia, tendo sido expedido alvará de soltura em favor do paciente na mesma data.
+Assim, não há como negar a perda superveniente do objeto deste mandamus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se .
+EMENTA
