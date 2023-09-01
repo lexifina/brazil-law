@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de MARCIO RIBEIRO NASCIMENTO contra acórdão do Tribunal de Justiça do Estado do Pará (Habeas Corpus n. 0809793-94.2022.8.14.0000).
+Consta dos autos que o Juízo da Comarca de Curionópolis/PA determinou a produção antecipada de prova no Processo n. 0001162-58.2013.8.14.0018, no qual se imputa ao paciente a prática, em tese, do delito de tráfico de drogas (art. 33 da Lei n. 11.343/06), conforme decisão de fls. 156/158.
+Irresignada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem em acórdão assim ementado (fls. 14/15):
+"HABEAS CORPUS. TRÁFICO. ART. 33 DA LEI Nº 11.343/2006. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL, COM A DETERMINAÇÃO PARA PRODUÇÃO ANTECIPADA DE PROVAS. AUDIÊNCIA DESIGNADA PARA O DIA 26/10/2022. AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO. VIOLAÇÃO AO ART. 366 DO CPP E A SÚMULA Nº 455 DO STJ. INOCORRÊNCIA. MEDIDA DEVIDAMENTE JUSTIFICADA E NECESSÁRIA. CRIME OCORRIDO NO ANO DE 2013. JUÍZO QUE SE BASEOU NOS ARGUMENTOS DO PEDIDO DO MINISTÉRIO PÚBLICO. URGÊNCIA MOTIVADA NO DECURSO DO TEMPO E NA NECESSIDADE DA EFETIVIDADE JURISDICIONAL, VEZ QUE A PROVA TESTEMUNHAL PODE PERECER COM A PROBABILIDADE DE MUDANÇA DE ENDEREÇO OU FALECIMENTO DAS TESTEMUNHAS. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. A produção antecipada de prova é medida autorizada pelo art. 366 do CPP e que no caso concreto encontra-se justificada pelo risco de perecimento dos testemunhos, tendo em visto o considerável lapso de tempo transcorrido desde os fatos. Ademais, a antecipação da instrução não acarretará qualquer prejuízo ao paciente, pois nada impede a repetição da prova antecipadamente produzida, caso seja necessário.
+2. Observa-se que, de fato, o magistrado singular deixou de descrever os motivos que ensejaram o seu convencimento para o deferimento da medida, tendo apenas corroborado com os fundamentos elencados e apresentados no pedido do Ministério Público. Todavia, não se pode desconsiderar que, ao corroborar com o pleito ministerial, o juízo se valeu dos fundamentos que lá foram discriminados, destacando que a motivação concreta para deferir a antecipação de prova e marcar a referida audiência, está consubstanciada no fato de a prova produzida ser exclusivamente testemunhal, logo, há grande probabilidade de sua perda ou perecimento em razão de mudança de endereço ou falecimento, estando caracterizada, portanto, a urgência na oitiva das testemunhas acerca do fato ocorrido em 05/01/2013.
+3. No caso concreto, a produção antecipada de prova se encontra devidamente justificada, uma vez que o tempo decorrido entre a data do fato e a instrução processual tem o poder de debilitar ou de corroer a capacidade de lembrança das testemunhas. Sua urgência consiste em evitar os nefastos efeitos do tempo sobre a prova, que depende da memória de pessoa, no caso, as declarações das testemunhas, devendo ser a prova preservada.
+4. Ordem denegada, à unanimidade."
+Em suas razões, a Defensoria Pública sustenta que o pedido de produção antecipada de provas foi deferido de forma ilegal, ressaltando que as instâncias ordinárias deixaram de fundamentar a necessidade da medida no caso concreto, inobservando o Enunciado de súmula n. 455/STJ.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora o Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 255/260).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque a impetração traz pedido idêntico ao formulado no RHC n. 173.861/PA, já julgado nesta Corte Superior, e ambos atacam o mesmo acórdão do Tribunal de Justiça do Estado do Pará, proferido no julgamento do Habeas Corpus n. 0809793-94.2022.8.14.0000.
+Assim, diante de inadmissível reiteração de pedidos e violação ao princípio da unirrecorribilidade recursal, fica obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. REITERAÇÃO DO PEDIDO FORMULADO NO FEITO CONEXO HC N. 633.504/SP IMPETRADO ANTERIORMENTE NESTA CORTE. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO DESPROVIDO.
+1. No HC n. 770.945/PI foi formulada idêntica pretensão à veiculada no presente feito, tendo sido parcialmente conhecido e, nessa extensão, denegado. O presente habeas corpus, portanto, consubstancia mera reiteração de writ anterior, em que há identidade de partes, de pedido e de causa petendi.
+2. Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi.
+3. A jurisprudência do Superior Tribunal de Justiça também não admite a tramitação simultânea de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 773.624/PI, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022.)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus .
+Publique-se.
+Intimem -se.
+EMENTA
