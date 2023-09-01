@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BRADESCO SEGUROS S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/11/2018.
+Concluso ao gabinete em: 02/12/2022.
+Ação: de obrigação de fazer, em fase de cumprimento de sentença, ajuizada por WILSON DE OLIVEIRA RIBEIRO, em face da agravante, em razão de negativa de custeio de tratamento "home care".
+Decisão interlocutória: acolheu em parte a impugnação ao cumprimento de sentença apresentado pela agravante, para reduzir o valor da multa cominatória para R$ 1.000,00 por dia de descumprimento de custeio de "home care".
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE ACOLHEU PARCIALMENTE A IMPUGNAÇÃO. RECURSOS SIMULTÂNEOS. EXECUTADO QUE INTERPÔS RECURSO DE APELAÇÃO. RECORRENTE INDUZIDO A ERRO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. RECONSIDERAÇÃO DA DECISÃO QUE INADMITIU O RECURSO. EXEQUENTE QUE INTERPÔS RECURSO DE AGRAVO DE INSTRUMENTO. JULGAMENTO CONCOMITANTE. PRELIMINAR DE NÃO CONHECIMENTO DO AGRAVO DE INSTRUMENTO ANTE A INADEQUAÇÃO DA VIA ELEITA. DECISÃO QUE NÃO EXTINGUIU O CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL É O AGRAVO DE INSTRUMENTO. PRELIMINAR REJEITADA. ASTREINTES. MODIFICAÇÃO A QUALQUER TEMPO. REDUÇÃO DO VALOR QUE ATENDEU AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. DESCUMPRIMENTO DA MEDIDA JUDICIAL POR LONGO PERÍODO. DATA DA INTIMAÇÃO PESSOAL QUE DEVE SER ADOTADA COMO TERMO INICIAL PARA INCIDÊNCIA DA MULTA. INCIDÊNCIA DA MULTA DO ART. 475-J, DO CPC/1973 NAS CONDENAÇÕES QUE NECESSITEM APENAS DE CÁLCULOS ARITMÉTICOS. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. PRELIMINAR REJEITADA. AGRAVO DE INSTRUMENTO  0009713-96.2014.8.05.000 PROVIDO PARCIALMENTE. RECURSO DE  0117693-2008.8.05.0001 CONHECIDO, ANTE A APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE E NÃO PROVIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, I e II, do CPC; 467, § 1º, e 644 do CPC/73; e 248 e 844 do CC. Além de negativa de prestação jurisdicional, sustenta a impossibilidade do cumprimento da obrigação. Assevera que dever-se-ia converter a ação em perdas e danos. Afirma a exorbitância da multa cominatória no patamar total de R$ 1.143.000,00.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos argumentos trazidos pela agravante no que tange à alegada ausência de responsabilidade pelo descumprimento em razão de inexistir empresa prestadora de serviço de "home care" na cidade, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568 do STJ
+A Terceira Turma desta Corte possui entendimento pacificado que a que a razoabilidade e a proporcionalidade das "astreintes" deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor. Na hipótese, foi reduzida a multa cominatória de R$ 5.000,00 para R$ 1.000,00 por dia em razão do descumprimento da obrigação de fazer de fornecer tratamento "home care", estando proporcionais o bem jurídico tutelado e o valor fixado.
+Ademais, a verificação da existência de exorbitância da multa cominatória por descumprimento de decisão judicial não pode ser direcionada apenas à comparação entre a quantia total da penalidade e o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa à parte recalcitrante.
+Nessa linha de raciocínio, mencionam-se, ainda, os seguintes precedentes: AgInt no AREsp n. 2.166.766/RN, Terceira Turma, DJe de 16/2/2023; AgInt no REsp 1942991/PE, Terceira Turma, DJe 15/12/2021; REsp 1934348/CE, Terceira Turma, DJe 25/11/2021; REsp 1840280/BA, Terceira Turma, DJe 09/09/2021; AgInt no AREsp 1479019/SP, Terceira Turma, DJe 13/08/2021 e AgInt no AREsp 1758478/SP, Quarta Turma, DJe 04/06/2021.
+É dizer, outrossim, que, se a única causa para a exorbitância do valor total das astreintes foi o descaso do devedor, não é possível, em regra, reduzi-las.
+Além disso, na hipótese dos autos, o recorrente insurge-se apenas quanto ao valor total fixado, aduzindo sua exorbitância.
+Dessa forma, por mais vultoso que seja o valor total da multa, não se pode perder de vista que o principal a ser discutido não é suposto enriquecimento de uma das partes, mas a coercibilidade das decisões proferidas pelo Poder Judiciário, que se veem atacadas em sua dignidade no momento em que são ignoradas e descumpridas pelos jurisdicionados. Precedentes: REsp 1.748.507/PE, 3ª Turma, DJe 12/08/2019; e REsp 1.840.693/SC, 3ª Turma, DJe 29/5/2020.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere a ausência de responsabilidade pelo descumprimento da ordem judicial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A razoabilidade e a proporcionalidade das "astreintes" deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor. Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
