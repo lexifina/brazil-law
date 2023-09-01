@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. LICENÇA-PRÊMIO. VERBAS DE NATUREZA PERMANENTE.
+BASE DE CÁLCULO.
+O cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, incluindo-se grati cação natalina (proporcional), férias (proporcionais), adicional de um terço de férias, adicional de insalubridade, adicional noturno, auxílio- alimentação, abono de permanência, saúde suplementar e 13º salário, se for o caso.
+Embargos de declaração rejeitados.
+Em suas razões, a parte recorrente aponta violação dos arts. 41,68, caput, 87 § 2º, da Lei n. 8.112/1990, do art. 1º, III, da Lei n. 8.852/1994 e do art. 22, caput, §§ 1º e 3º, da Lei n. 8.460/1992, porquanto o acórdão recorrido afronta o ordenamento jurídico na medida em que admite a inclusão, na base de cálculo da conversão de licenças-prêmio em pecúnia, dos valores percebidos pelo servidor público a título de adicional de insalubridade e auxílio- alimentação.
+Contrarrazões apresentadas.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar em parte.
+Esta Corte entende que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 1º /06/2020). A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. RUBRICAS QUE COMPÕEM A REMUNERAÇÃO DO SERVIDOR. INCLUSÃO. PRECEDENTES.
+A jurisprudência do STJ firmou-se no sentido de que o abono de permanência, a gratificação natalina e o terço de férias, em razão de comporem a remuneração do servidor, integram a base de cálculo para conversão da licença-prêmio em pecúnia.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.109.792/PR, rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 30/11/2022). (Grifos acrescidos).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO APOSENTADO. LICENÇA-PRÊMIO NÃO USUFRUÍDA E NÃO COMPUTADA EM DOBRO PARA FINS DE APOSENTADORIA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. REMUNERAÇÃO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Segundo a jurisprudência desta Corte as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo Recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/6/2020). Em igual sentido: AgInt no AREsp 1.945.228/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/3/2022; REsp 1.795.795/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/10/2019; AgInt no AREsp 475.822/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2018.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.953.350/RS, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 14/11/2022). (Grifos acrescidos).
+Ademais, o Superior Tribunal de Justiça também entende que "as rubricas que compõem a remuneração do Servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, entre elas o auxílio-alimentação, o abono de permanência e a saúde suplementar" (REsp. 1.489.904/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 04/12/2014). Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL APOSENTADO. LICENÇA-PRÊMIO NÃO USUFRUÍDA E NÃO COMPUTADA EM DOBRO PARA FINS DE APOSENTADORIA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. INCÇUSÃO DO AUXÍLIO ALIMENTAÇÃO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É firme no âmbito desta Corte superior o entendimento, segundo o qual o auxílio-alimentação, quando pago em dinheiro, tem natureza remuneratória, constituindo, assim, a base de cálculo base de cálculo da conversão da licença-prêmio em pecúnia. Nesse sentido: AgInt no REsp n. 1.808.938/CE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019, AgInt no AREsp 475.822/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2018; AgInt no REsp n. 1.583.070/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 7/10/2016.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.989.160/RS, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 17/8/2022). (Grifos acrescidos).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. INCLUSÃO DE AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO. POSSIBILIDADE. PRECEDENTES.
+1. A jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, dentre elas o auxílio-alimentação e o abono de permanência.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.989.285/RS, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 18/8/2022). (Grifos acrescidos).
+A hipótese é, então, de incidência da Súmula 83 do STJ.
+Esse posicionamento, contudo, não se aplica ao adicional de insalubridade - que se constitui vantagem pecuniária não permanente - tendo em vista que "o adicional de insalubridade não integra a remuneração do servidor, devendo essa rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia" (STJ, AgInt no AREsp 1.717.278/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 1º/03/2021).
+A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. ADICIONAL DE INSALUBRIDADE QUE NÃO INTEGRA A BASE DE CÁLCULO POR SER VANTAGEM PECUNIÁRIA NÃO PERMANENTE.
+1. Em sede de repercussão geral, o Supremo Tribunal Federal firmou a tese segundo a qual "Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como "terço de férias", "serviços extraordinários", "adicional noturno" e "adicional de insalubridade." (RE 593.068, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO, DJe 21/3/2019).
+2. "O adicional de insalubridade não integra a remuneração do servidor, devendo tal rubrica ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia" (AgInt no AREsp 1.717.278/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/3/2021). 3. Agravo interno não provido" (STJ, AgInt no AREsp 1.734.643/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 22/10/2021).
+Ante o exposto, com base no art. 255, § 4º, II, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para excluir o adicional de insalubridade da base de cálculo da conversão da licença-prêmio em pecúnia .
+Publique-se. Intimem-se.
+ EMENTA
