@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CARLOS DANIEL RIBEIRO ALMEIDA, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no julgamento do Agravo de Execução Penal n. 8000647-38.2023.8.24.0023/SC.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido de retificação da folha de cálculos do paciente, conforme decisão de fls. 25/26 .
+Irresignada, a defesa interpôs agravo no Tribunal de origem, que negou provimento ao recurso, em julgamento assim resumido (fl. 58):
+"AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU PEDIDO DE READEQUAÇÃO DA DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. RECURSO DA DEFESA. PLEITO DE RECONHECIMENTO DO DIA DA PRIMEIRA PRISÃO DO AGRAVANTE. IMPOSSIBILIDADE. RECORRENTE QUE, APÓS SER PRESO EM FLAGRANTE, FOI COLOCADO EM LIBERDADE E, POR OCASIÃO DO PROFERIMENTO DE DECISÃO POR ESTA CORTE DE JUSTIÇA, PRESO NOVAMENTE. DATA DA ÚLTIMA PRISÃO ININTERRUPTA QUE DEVE SER CONSIDERADA COMO MARCO TEMPORAL PARA A OBTENÇÃO DE BENEFÍCIOS RELATIVOS À EXECUÇÃO PENAL. TEMPO DE PRISÃO PROVISÓRIA QUE DEVE SER DETRAÍDO DA REPRIMENDA A SER CUMPRIDA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO."
+Daí o presente writ, no qual a Defesa aduz que a "prova documental que instrui o presente remédio constitucional, bem demonstram o manifesto constrangimento ilegal: necessário fixar a data-base para o cálculo de futuros direitos de execução penal a data em que o Paciente foi preso pela primeira vez" (fl. 10).
+Nestes termos, requer a concessão da ordem, inclusive em sede de liminar.
+É o relatório.
+Decido.
+O pedido comporta julgamento antecipado.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, caso constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque a instância ordinária ressaltou que "a Terceira Seção do Superior Tribunal de Justiça, quando do julgamento do REsp n. 1.557.461/SC, de relatoria do Ministro Rogério Schietti Cruz, em 22.02.2018,alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para a fixação da data-base para a concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave. Partindo dessa premissa, vê-se que o entendimento é no sentido de estabelecer a data da última prisão ininterrupta como marco temporal para a obtenção de benefícios da execução" (fls. 56/57).
+Verifica-se que o entendimento do Tribunal a quo está em consonância com o entendimento das Cortes Superiores a respeito da matéria.
+Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, não se trata de unificação de penas, mas de crime único em que o sentenciado foi preso em flagrante delito no dia 12/7/2014, mas foi solto em 9/1/2015, sendo preso novamente em 19/9/2015.
+2. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para a obtenção de benefícios da execução. É que a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido.
+(AgRg no REsp 1918296/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/04/2021).
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
