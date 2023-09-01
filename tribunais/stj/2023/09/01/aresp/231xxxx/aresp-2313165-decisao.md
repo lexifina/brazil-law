@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JHSF SALVADOR EMPREENDIMENTOS E INCORPORAÇÕES S/A contra decisão exarada pela il. Segunda Vice-Presidência do eg. Tribunal de Justiça do Estado da Bahia (TJ-BA) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão assim ementado (fls. 566):
+"DIREITO PROCESSUAL CIVIL E CÓDIGO DE DEFESA DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA DE IMÓVEL NA PLANTA. CLÁUSULA DE TOLERÂNCIA. AUSÊNCIA DE ABUSIVIDADE. ATRASO NA ENTREGA DO EMPREENDIMENTO. PRAZO DE ENTREGA PREVISTO PARA 30.01.2012. DESCUMPRIMENTO DO PRAZO DE TOLERÂNCIA FIXA DO EM 180 DIAS. CONTRATO DE ADESÃO. POSSIBILIDADE DE MODIFICAÇÃO DA CLÁUSULA ABUSIVA PELO JUIZ. DESEQUILÍBRIO CONTRATUAL. LUCROS CESSANTES CONFIGURADOS. NATUREZA DE ALUGUEL. PERCENTUAL. MINORAÇÃO DE 1% PARA 0,5% AO MÊS SOBRE O VALOR DO IMÓVEL. PRECEDENTES JURISPRUDENCIAIS. DANOS EMERGENTES, A TÍTULO DE ALUGUEL, CUMULADO COM LUCROS CESSANTES. IMPOSSIBILIDADE. CLÁUSULA PENAL MORATORI ACUMULADA COM LUCROS CESSANTES FIXADOS NA SENTENÇA. AFASTAMENTO. TEMA 971 DO STJ. RESP.1.631.485/DF. APLICAÇÃO. COBRANÇA DE IPTU E TAXAS CONDOMINIAIS ANTES DA ENTREGA DAS CHAVES. INCOERÊNCIA. RESTITUIÇÃO DEVIDA. CONGELAMENTO DO SALDO DEVEDOR. IMPOSSIBILIDADE. DESEQUILÍBRIO ECONÔMICO. SUBSTITUIÇÃO DO INCC PELO IPCA. DANO MORAL CONFIGURADO. QUANTUM DE R$10.000,00 (DEZ MIL REAIS). RAZOABILIDADE E PROPORCIONALIDADE. CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO E JUROS DE MORA DE 1% AO MÊS A PARTIR DA CITAÇÃO. PRECEDENTES DOS TRIBUNAIS SUPERIORES. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA PARCIALMENTE REFORMADA."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 627-634).
+Nas razões do apelo nobre (fls. 637-648), JHSF SALVADOR EMPREENDIMENTOS E INCORPORAÇÕES S/A aponta, além de divergência jurisprudencial, violação aos arts. 186 e 927 do Código Civil, ao argumento, entre outros, de que "(..) foi condenada em danos morais no valor de R$10.000,00 (dez mil reais), muito embora não tenha sido provado nos autos qualquer abalo emocional sofrido pela parte Recorrida. Assim, não deve ser aplicado o dano moral automático, ainda mais em valor tão exacerbado, ou seja, só pelos simples fato de condenar e fomentar essa crescente indústria" (fls. 643).
+Não foram apresentadas contrarrazões (vide certidão à fls. 662-663).
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 664-667), motivando o agravo em recurso especial (fls. 670-676) em testilha.
+Intimado, RUI CASTRO NETO ofereceu contraminuta (fls. 679-694), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+Com efeito, compulsando os autos, concluiu pela ocorrência de danos morais sofrido pelo ora Agravado, fixando a respectiva indenização em R$ 10.000,00, considerando o atraso excessivo na entrega do imóvel, como se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 574-590):
+"No caso em testilha, os Autores firmaram contrato de promessa de compra e venda referente à aquisição do apartamento nº 1002, Torre 08, Edifício Orquídea do Condomínio Horto Bela Vista, nesta Capital, com prazo de entrega determinado para o dia 30 de janeiro de 2012, com prazo de tolerância de 180 (cento e oitenta) dias.
+Entretanto, as Recorrentes não cumpriram com a sua obrigação, sendo compelido a pactuar dois aditivos contratuais, postergando a entrega para 30 de novembro de 2012 e 30 de maio de 2013, respectivamente, todavia, até a data da propositura da presente ação, 10.02.2014, não havia sido entregue, portanto, ultrapassou, e muito, o prazo de tolerância, devendo os encargos da inadimplência incidir a partir do descumprimento e não da citação, como entende a Apelante.
+(..)
+Tratando-se de relação de consumo, como já citado anteriormente, deve incidir as normas do Código de Defesa do Consumidor. A cláusula que faculta à construtora o adiamento da entrega da obra por seis meses após o prazo previsto, incluída nos contratos sem qualquer justificativa para tanto, embora, não seja considerada ilegal, configura, entretanto, nítido desequilíbrio contratual, rechaçado pelo Código de Proteção e Defesa do Consumidor. É o que se deduz da inteligência do art. 51, inciso XII do Código de Defesa do Consumidor - CDC.
+(..)
+Com base nessas premissas teóricas acima aventadas, pode-se dizer que, in casu, os danos morais estão configurados, porquanto o atraso na entrega do empreendimento qualifica-se como mora injustificada, eis que ficou claro o atraso pela empresa, gerando sofrimentos de ordem moral que não podem ser enquadrados como dissabores inerentes ao dia- a-dia.
+Realmente, a expectativa frustrada de receber o bem na data aprazada, após investimentos financeiros vultosos, bem como a ausência de justificativa e explicação plausível por parte das fornecedoras acarretam ao consumidor danos extrapatrimoniais indenizáveis, especialmente quando o atraso é excessivamente longo.
+(..)
+Neste contexto, diante das peculiaridades do caso em tela, os danos extrapatrimoniais estão presentes, sendo que a indenização foi fixada acertadamente, em valor equivalente a R$ 10.000,00 (dez mil reais), em decorrência do atraso na entrega do imóvel adquirido, valor este razoável e proporcional ao transtorno sofrido, cumprindo satisfatoriamente as funções da condenação sem representar enriquecimento ilícito, devendo incidir juros de 1% a partir da citação e correção monetária desde o arbitramento, até o seu efetivo pagamento, por se tratar de responsabilidade contratual, consoante jurisprudência do STJ."
+(g. n.)
+Da leitura do excerto ora transcrito, não se verifica ofensa aos referidos dispositivos legais, uma vez que v. acórdão estadual coaduna com a iterativa jurisprudência desta eg. Corte no sentido de que o atraso excessivo na entrega de imóvel pode configurar causa de dano moral indenizável. Nessa linha de intelecção, confiram-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DA OBRA. MORA. TERMO FINAL. SÚMULAS 283 E 284/STF. POSSIBILIDADE DE COMPENSAÇÃO. SÚMULAS 283 E 284/STF. DESPESAS CONDOMINIAIS. PERÍODO ANTERIOR À IMISSÃO NA POSSE. RESPONSABILIDADE DOS PROMISSÁRIOS-VENDEDORES. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. SÚMULA 83 DO STJ. VALOR DA CONDENAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+(..)
+4. No caso dos autos, a fixação do dano moral encontra-se justificada, tendo a Corte estadual destacado que o atraso excessivo na entrega do bem imóvel destinado à moradia, após 12 (doze) meses da data prevista, lesou direito extrapatrimonial dos recorridos.
+5. No caso, não se mostra exorbitante o montante estabelecido pelo Tribunal estadual em R$ 10.000,00 (dez mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, em razão do atraso de mais de 12 (doze) meses na entrega do imóvel em questão.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.060.672/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023 - g. n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+3. O mero atraso na entrega do imóvel, por si, é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a agravada foi exposto ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+6. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+7 Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.976.685/RJ, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022 - g. n.)
+Dessa forma, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. SÚMULAS N. 7 E 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A Súmula n. 83 do STJ tem aplicação aos recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.802.457/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022 - g. n..)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..).
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.080.599/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. AUSÊNCIA DE PEÇA OBRIGATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+(..)
+4. Inadmissível o recurso especial, interposto tanto pela alínea "a", quanto pela alínea "c" do inc. III do art. 105 da Constituição Federal, quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp 904.399/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
