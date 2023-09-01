@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE- CONTRATO DE ARRENDAMENTO MERCANTIL (duas empilhadeiras) - CUMPRIMENTO DE SENTENÇA - ACÓRDÃO PROFERIDO EM AGRAVO DE INSTRUMENTO RECONHECENDO A PRECLUSÃO DO PRAZO PARA APRESENTAR IMPUGNAÇÃO - INDEFERIMENTO DO PEDIDO DE REMESSA DOS AUTOS À CONTADORIA JUDICIAL PARA APURAÇÃO DE EXCESSO NA EXECUÇÃO - INTELIGÊNCIA DO ART. 525, v DO CPC - DIREITO NÃO EXERCIDO - PRECLUSÃO - DECISÃO MANTIDA - NEGADO PROVIMENTO AO RECURSO.
+A parte agravante sustenta a violação dos arts. 524, § 1º, § 2º, e 1.022 do Código de Processo Civil, além de dissídio jurisprudencial.
+Quanto à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+No que se refere aos arts. 524, § 1º, § 2º, do CPC, inviável o inconformismo, eis que - longe de autorizar extemporânea verificação de excesso de execução por iniciativa da parte interessada - as normas conferem prerrogativa ao juiz de conferir as contas apresentadas pelo exequente, diante de evidente excesso no valor apontado como devido no demonstrativo de evolução do débito, situação que não se coaduna com a realidade dos autos, conforme se depreende dos fundamentos do julgado estadual.
+Assim, a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial, fazendo incidir o veto da Súmula n. 284/STF.
+Pelo mesmo motivo, o dissídio jurisprudencial não foi demonstrado nos moldes legais e regimentais, notadamente no que toca à similitude dos substratos fáticos dos julgados confrontados.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
