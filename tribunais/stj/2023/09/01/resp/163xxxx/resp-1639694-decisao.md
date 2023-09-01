@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por EVANICE DOS SANTOS SILVA em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"PROCESSUAL CIVIL E IMOBILIÁRIO. Apelação cível. Conhecimento de uma delas - Ação reivindicatória - Procedência parcial - Promessa de compra e venda de imóvel em duplicidade - Defesa de simulação no primeiro negócio - Não comprovação - Registro público firmado - Prevalência do documento na apuração do direito - Questão bem examinada pelo Magistrado - Manutenção da sentença - Desprovimento.
+- Se a tese recursal de negócio jurídico simulado não foi devidamente evidenciada nos autos, o registro público resta como prova concreta da propriedade do imóvel da parte adversa, inexistindo justificativa para perda de domínio em razão disso.
+- "Na ausência de provas que demonstrem suficientemente ter havido negócio jurídico simulado e não havendo sua declaração judicial, deve ser considerado o registro público que demonstra quem é o real proprietário do imóvel" (TJMG - Apelação Cível 1.0024.07.671451-8/001, Relator(a):
+Des.(a) Antônio Bispo , 15a CÂMARA CÍVEL, julgamento em 16/06/2011, publicação da súmula em 07/07/2011)." (fl. 899)
+A recorrente aponta ofensa ao art. 167, § 1º, I, e § 2º, do Código Civil, 535 do CPC/73, sustentando, em síntese, omissão do Tribunal de origem "com relação a prova contundente da demonstração da simulação com o intuito de prejudicar terceiro" (fl. 947).
+Contrarrazões às fls. 957/959.
+É o relatório.
+Não se evidencia qualquer vício de fundamentação no acórdão recorrido. De forma fundamentada, o Tribunal de origem concluiu que "a sua tese  tese da recorrente  de negócio jurídico simulado não foi devidamente evidenciada nos autos, restando o registro público como prova concreta da propriedade do imóvel da parte adversa" (fl. 905). Ainda se colhe do aresto:
+"A apelante defende hipótese de simulação entre o autor e o primeiro promovido, no entanto, a sua tese de negócio jurídico simulado não foi devidamente evidenciada nos autos, restando o registro público como prova concreta da propriedade do imóvel da parte adversa.
+Cabe registrar que a promessa de compra e venda é uma espécie de contrato preliminar em que o promitente vendedor se obriga a outorgar a escritura definitiva de compra e venda com o promitente comprador, no tempo, modo e lugar definidos no instrumento preliminar.
+Se quando realizou os pagamentos pactuados, o imóvel se encontrava registrado em nome de outrem, a atuação ilícita se deu pelo vendedor, primeiro demandado, que realizou o ato em duplicidade, como bem exposto pelo Magistrado na sentença, não restando configurada a má-fé do autor na negociação.
+Ao que parece, os dois compradores foram lesados pelo vendedor, que negociou indevidamente, em duplicidade, um mesmo bem imóvel, qual seja, o apartamento de nº 103, no Edf. Saint Paul, no Bairro Cabo Branco, nesta Capital.
+Ocorre que o autor registrou o primeiro o imóvel, e mesmo que não tenha exercido seu direito possessório, a circunstância não justifica que tenha perdido o domínio de seu bem." (fl. 905)
+Não se observa, portanto, qualquer omissão do Tribunal de origem, mas tão só decisão contrária à pretendida pela parte.
+Com efeito não é demais anotar os termos da jurisprudência desta Corte Superior, no sentido de que "os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte" (AgRg no REsp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/9/2013).
+Ante o exposto, nega-se provimento ao recurso especial.
+Publique-se.
+EMENTA
