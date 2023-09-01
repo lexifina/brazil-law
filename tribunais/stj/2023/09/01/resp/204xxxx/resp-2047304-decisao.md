@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo HELIECER MARIA DOS SANTOS OLIVEIRA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Sergipe em agravo de instrumento assim ementado (fl. 87):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ESGOTAMENTO DE DIVERSOS MEIOS PARA A SATISFAÇÃO DA DÍVIDA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. POSSIBILIDADE. NECESSIDADE DE BUSCA DO RESULTADO ÚTIL DO PROCESSO. PRECEDENTES. PLEITO DE PENHORA DAS COTAS SUPOSTAMENTE PERTENCENTES A EXECUTADA NA SOCIEDADE EMPRESARIAL "COLÉGIO INOVAÇÃO LTDA.". NECESSIDADE DE MAIORDILAÇÃO PROBATÓRIA, POSTO QUE, ATÉO PRESENTE MOMENTO, NÃO HOUVE A COMPROVAÇÃO DA ALEGADA SITUAÇÃO SOCIETÁRIA.
+I - A suspensão da CNH na hipótese dos autos, não configura dano ou risco potencial direto e imediato à liberdade de locomoção do agravado/devedor.
+II - Já no tocante ao pleito de penhora das cotas pertencentes a executada na sociedade empresarial "Colégio Inovação LTDA.",CNPJ24.031.269/0001-01, verifico que, como bem ressaltou o Douto magistrado a quo, tal pedido depende de comprovação da alegada situação societária, o que não ocorreu até o presente momento.
+II - Recurso conhecido e parcialmente provido, por maioria.
+Os embargos declaratórios opostos foram improvidos (fl. 110).
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial, violação dos arts. 8º e 139, IV, do CPC, impugnando a aplicação de medidas atípicas.
+Narra que, em execução por título extrajudicial, é executada por dívida de contrato de compra e venda de estabelecimento comercial.
+Pondera que, sem se aferir a existência de indícios de que o devedor possua patrimônio expropriável (parâmetro da patrimonialidade), não devem ser aplicada a medida atípica de suspensão da carteira nacional de habilitação.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ sobre a subsidiariedade da medida atípica de suspensão da CNH para a satisfação de crédito devido.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 166-172.
+O recurso especial foi inadmitido na origem (fls. 172-182).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 89-90):
+Compulsando os autos, verifico que o feito executivo fora ajuizado em 2017, tendo sido realizada a pesquisa de bens em cartórios de Aracaju e de valores por meio do Bacenjud, contudo, nada foi encontrado.
+Observo que também foi realizada a pesquisa de bens por meio do sistema Renajud, onde foi encontrado um veículo, porém a penhora não fora efetivamente realizada porque a executada não foi intimada e o citado bem não foi localizado, conforme certidões de fls. 167, 177, 210,224, 242 e 256.
+Diante de tal situação, a recorrente pugnou pela penhora de bens móveis, sendo expedido novo mandado de intimação, mas a recorrida ,novamente, não foi localizada mais uma vez (fls. 242). Ato contínuo, o Juízo de Primeiro Grau determinou a inclusão do nome da recorrente no rol de maus pagadores (fl. 312) do feito, o que também não surtiu efeito.
+É preciso destacar, ainda, que a recorrida não compareceu à audiência de conciliação determinada pelo Juízo de Primeiro Grau, uma vez que, conforme certidão de fls. 350 dos autos, a executada demonstrou desinteresse pela intimação.
+Dessa forma, entendo que o fundamento adotado pela exequente possui relevância, pelas razões que passo a declinar.
+Segundo dispõe o art. 139, IV, do NCPC, o juiz dirigirá o processo, incumbindo-lhe determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária.
+ ..
+Trata-se do princípio da atipicidade das formas executivas que permite ao magistrado aplicar qualquer medida executiva, mesmo que não expressamente consagrada na lei, com o objetivo de efetivar suas decisões, restando possível, assim, a adoção de medidas atípicas, com o escopo de garantir o adimplemento do débito exequendo.
+Entretanto, no meu sentir, deve haver uma cuidadosa análise da situação concreta, vez que em muitos casos tal determinação pode vim a afrontar os princípios da dignidade da pessoa humana, da razoabilidade, da proporcionalidade e da eficiência, devendo tais medidas excepcionais serem deferidas somente quando se verificar a efetiva necessidade, além da utilidade para satisfação do crédito perseguido, objetivando o resultado útil do processo.
+Na hipótese em testilha, resta patente que no decorrer da execução foram adotadas todas as medidas ordinárias conhecidas para essa finalidade, razão pela qual entendo haver robustos indícios de que a executada está se furtando ao pagamento da dívida junto ao credor.
+Nesse contexto, entendo que encontram-se comprovados os requisitos para deferimento de medida excepcional estabelecida no art. 139, IV, do NCPC, qual seja, a suspensão da CNH da executada.
+Ressalto que não vislumbro dano ou risco potencial direto e imediato à liberdade de locomoção da agravada, haja vista que essa movimentação poderá ocorrer livremente por outros meios, que não através da direção de veículo automotor. Também inexiste nos autos qualquer situação fática particular, como, por exemplo, a condução de veículos como fonte de sustento, tendente a impossibilitar a aplicação da medida atípica em espeque.
+No tocante à violação dos arts. 8º e 139, IV, do CPC, o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência pelo STJ de que "a adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade" (REsp n. 1.782.418/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/4/2019, DJe de 26/4/2019).
+Verifica-se que, de acordo com os trechos dos acórdãos ora transcritos, a Corte local adotou a medida coercitiva de suspensão da CNH, após verificar que foram exauridos previamente os meios típicos de satisfação do crédito exequendo, bem como que a medida estava adequada, necessária e razoável para efetivar a tutela do direito do credor em face de devedor que, demonstrando possuir patrimônio apto a saldar o débito em cobrança, int entou frustrar injustificadamente o processo executivo.
+Nesse contexto, tendo em vista que a decisão da Corte de origem encontra amparo na jurisprudência do STJ, aplica-se ao caso a Súmula n. 83 do STJ.
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre à parte recorrente, pois a incidência da Súmula n. 83 do STJ implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido, confira-se o seguinte julgado: AgInt no AREsp n. 1.824.877/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/10/2022, DJe de 3/11/2022.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+ EMENTA
