@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 284/STF e 7/STJ (e-STJ fls. 246/248).
+O acórdão recorrido está assim ementado (e-STJ fl. 102):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - SENTEÇA CONDENATÓRIA - PENHORA - ADJUDICAÇÃO - IMPOSSIBILIDADE. Havendo pluralidade de penhoras sobre o mesmo bem, ao credor que pretende arrematar o bem se impõe o ônus de depositar em dinheiro o preço não inferior ao da avaliação. Inexistindo comprovação da oferta do preço por um dos credores, não há como deferir a adjudicação a seu favor.
+Os embargos de declaração foram rejeitados (e-STJ fls. 164/169).
+Nas razões do recurso especial (e-STJ fls. 175/184), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 876 e 892, § 2º, do CPC/2015. Alegou ser possível a adjudicação do imóvel pelo crédito exequendo, uma vez que muito superior à avaliação do bem. Explicou que "tendo em vista que o crédito da Recorrente perante a Recorrida é muito superior ao valor do bem penhorado, não houve qualquer irregularidade na adjudicação promovida, motivo pelo qual a execução deveria prosseguir em relação ao saldo remanescente, conforme expressamente previsto no §4º do art. 876 do CPC" (e-STJ fl. 179). Acrescentou que o terceiro interessado se manifestou nos autos somente após o pedido de adjudicação, sem sequer comprovar o registro da penhora. Afirmou que "além de o terceiro peticionário não ter comparecido, em tempo hábil, perante a execução nestes autos para "habilitar" o seu crédito e nem no leilão para exercer o seu direito de promover igual arrematação, com seu crédito, esse seu crédito não seria suficiente para alcançar, na ocasião, o valor da avaliação e consequente arrematação" (e-STJ fl. 180). A seu ver, "Ainda que exista real concorrência entre a Recorrente e o terceiro interessado para a adjudicação do imóvel, segundo preleciona o artigo 892, §2º e 876, §6º do CPC, proceder-se-á licitação entre eles, assim, observando que o preço formulado pela Recorrente foi de R$ 240.000,00 e o terceiro interessado se limitou a impugnar o pedido de adjudicação sem sequer oferecer preço pelo imóvel, a Recorrente é vencedora da licitação" (e-STJ fl. 180). Indicou julgado do TJPR, a fim de demonstrar a divergência de entendimentos em relação a existir preferência por ordem de penhora.
+Contrarrazões às fls. 229/238 (e-STJ).
+No agravo (e-STJ fls. 252/259), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 270/277).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 105/106):
+Sabe-se que a adjudicação é uma forma de expropriação do bem do executado, na qual a titularidade do bem penhorado é transferida compulsoriamente para o exequente ou para terceiro.
+Desta forma, conclui-se que a adjudicação do bem penhorado pode ser uma forma de satisfação do crédito executado, no limite do valor da avaliação do bem, justamente, porque a adjudicação do penhorado ocorrerá pelo preço da avaliação. É que diz os artigos 904, II e 876, caput, do CPC:
+ ..
+Neste cenário, analisando cuidadosamente os autos, entendo que a decisão não deverá se reformada, pois, em que pese o esforço argumentativo da agravante, verifico que sequer comprovou ter ofertado ou depositado em Juízo o preço mínimo da avaliação do imóvel penhorado, o que obsta a adjudicação do bem a seu favor, ainda mais, que há notícias de concorrência entre possíveis adjudicatários, como bem salientado pela Juíza de origem.
+Assim, diante da notícia da existência de um terceiro interessado - pluralidade de credores, bem como a inércia da agravante em ofertar o preço da avaliação do bem penhorado, não há como reconhecer seu direito à adjudicação, justamente, porque a adjudicação será deferida para aquele que fizer a maior oferta, devendo ser tomado por base o valor da avaliação.
+ ..
+Logo, não tendo a agravante, apesar de legitimada, ofertado ou depositado o preço não inferior ao da avaliação do bem, não há como reconhecer que detém a preferência na adjudicação.
+A Corte local não se manifestou sobre o conteúdo normativo dos artigos apontados como violados nem sobre as teses de que: (i) é possível a adjudicação pelo crédito exequendo, (ii) o terceiro se manifestou nos autos somente após o pedido de adjudicação, (iii) o terceiro não comprovou o registro da penhora nem que seu crédito seria suficiente para alcançar o valor da avaliação, (iv) como o terceiro não ofereceu o preço, a recorrente seria vencedora na licitação, e (v) não existe preferência em relação à ordem de penhora.
+Tampouco se alegou ofensa ao art. 1.022 do CPC/2015, de modo que, por ausência de prequestionamento, incide a Súmula n. 211/STJ.
+Referido óbice impede o conhecimento do recurso interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
