@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo, interposto contra decisão que inadmitiu o recurso especial, com fundamento na intempestividade.
+No recurso especial, sustenta a defesa violação do arts. 155 e 413 do CPP, argumentando ausência de indícios suficientes de autoria, confirmadas em juízo, motivo pelo qual requer a impronúncia do acusado.
+No presente recurso, pugna pela tempestividade recursal, argumentando que "O Acórdão de não acolhimento dos embargos de declaração foi publicado em 06/02/2023; a intimação para o agravante foi expedida em 08/02/2023, tendo ocorrido leitura automática após o prazo de 10 (dez) dias, em 18/02/2023, conforme previsto na Lei n.º11.419/2006 (Lei do Processo Eletrônico). No entanto, a contagem do prazo para interposição do recurso especial iniciou no sistema em 22/02/2023 (mov. 22 dos autos 0007589-33.2021.8.16.0019) diante da existência de feriado local (carnaval) e suspensão de prazo (em anexo)" (fl. 1116).
+Aduz também que o agravante confinou no sistema do eletrônico do Tribunal de origem, que "efetuou a intimação e calculou o prazo de 15 (quinze) dias para a interposição de recurso, fixando a data final para 09/03/2023" (fl. 1116).
+Requer o provimento do agravo para a admissão e provimento do recurso especial.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+O recurso especial, de fato, é extemporâneo.
+Conforme bem assentado no parecer do MPF (fls. 1157-1158):
+No caso concreto, consoante ressaltou a Vice-Presidência do Tribunal de origem, o recorrente não procedeu à leitura da intimação dentro do prazo de 10 (dez) dias contados, a leitura automática da intimação ocorreu em 18/02/2023, com possível prorrogação para 22/02/2023 (artigo 5º, § 2º, da Lei nº 11.419/06), em virtude da referida suspensão do expediente deste Tribunal na segunda-feira de Carnaval.
+Contudo, não tendo o recorrente realizado a comprovação por meio da juntada do Decreto Judiciário correspondente, findando o prazo em 06/03/2023. Com efeito, o presente recurso é extemporâneo, visto que interposto, tão somente, em 09/03/2023.
+Não obstante a aplicação subsidiária do Código de Processo Civil ao processo penal, a contagem dos prazos processuais deverá ser realizada conforme a regra específica do art. 798 do CPP.
+"A jurisprudência do Superior Tribunal de Justiça considera a intempestividade como vício insanável, não se admitindo, por isso, a concessão de prazo para que a parte comprove a existência de causa de suspensão dos prazos processuais na origem" (AgRg no AREsp n. 1.968.171/AL, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Não basta a menção nas razões recursais da ocorrência de feriado local, sendo necessária a juntada de documentação idônea no ato da interposição do recurso que se pretende que seja conhecido, o que não ocorreu, impossibilitada a regularização posterior, nos termos do § 6º do art. 1.003 do CPC.
+Desse modo, "A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido" (AgRg no AREsp n. 864.072/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017).
+Por fim, cabe ressaltar que, consoante o posicionamento assentado por este Tribunal Superior, "a comprovação da suspensão do expediente, no Tribunal local, deve ser feita oportunamente e mediante documento dotado de fé pública, consistente na juntada de cópia de lei ou de ato administrativo exarado pela Corte de origem, ou por meio de certidão, sendo insuficiente a remissão a links de páginas do site do Tribunal de origem na internet ou mesmo a juntada extemporânea de comprovante de suspensão de prazo" (AgInt nos EDcl no REsp n. 1.893.371/RJ, Rel. Ministro Mauro Campbell Marques, 2ª T, DJe de 11/11/2021)" (EDcl no AgRg no AREsp n. 2.027.729/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 12/5/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
