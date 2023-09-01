@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por RONALDO MOREIRA contra decisão monocrática proferida pelo Presidente da Seção de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial interposto (e-STJ fls. 499/500).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial (e-STJ fls. 532/533):
+Trata-se de agravo em recurso especial, interposto por RONALDO MOREIRA, contra a decisão da Presidência da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (e-fls. 499-500), que não admitiu o nobre apelo em face do acórdão da 3ª Câmara de Direito Criminal daquela Corte que, por sua vez, deu parcial provimento ao Agravo em Execução n.º 0003198-71.2022.8.26.0520, aviado pela defesa, contra a decisão proferida nos autos n.º 0005233-09.2019.8.26.0520, da Vara de Execuções Penais da Comarca de São José dos Campos/SP, para deferir a remição de penas pelo estudo profissionalizante, mantendo inalterado, todavia, o indeferimento do pedido de remição depena pela aprovação no ENEM, nos anos de 2017 e de 2018, ao apenado que já havia concluído o ensino médio antes do início de cumprimento da pena.
+Nos termos da decisão ora agravada, o inconformismo não reúne condições de trânsito, tendo em vista a deficiência na fundamentação recursal, o que atrai a incidência da Súmula 284 do STF, e por demandar, a pretensão recursal, revolvimento de fatos e provas, incidindo a Súmula 07 do STJ (e-fls. 499-500).
+O agravante sustenta, em síntese, o cabimento do recurso especial, arguindo a inaplicabilidade dos referidos óbices sumulares. Afirma que "rebateu todos os argumentos trazidos no v. acórdão recorrido (condutor do v. acórdão recorrido), razão pela qual, não encontramos justificativa para pechá-lo de deficiente em sua fundamentação. De outro norte, não procede a fundamentação trazida na r. decisão ora agravada no sentido que para se chegar a solução contrária à do acórdão recorrido seria necessário o reexame de prova". Pede, ao final, seja provido o presente agravo, com a consequente admissão e o provimento do apelo nobre (e-fls. 503-511).
+Com contraminuta apresentada pelo Ministério Público do Estado de São Paulo (e-fls. 514-518), foram os autos encaminhados a esse Superior Tribunal de Justiça, vindo, na sequência, para parecer, a esta Procuradoria-Geral da República.
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 535/539).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão agravada, conheço do agravo.
+No entanto, o recurso especial não merece guarida.
+Sobre o tema em comento, o Superior Tribunal de Justiça pacificou o entendimento de que a aprovação no Exame Nacional do Ensino Médio (ENEM) não tem o condão de conferir remição ao apenado, que já havia concluído o ensino superior antes de dar início à execução da reprimenda.
+Nesse sentido, confiram-se:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio (ENEM), visto que tal situação destoa do escopo da norma (Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021). Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.985.541/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 126 DA LEP. PLEITO DE RECONHECIMENTO DA REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO). APENADO QUE JÁ HAVIA CONCLUÍDO O ENSINO MÉDIO ANTES DO CUMPRIMENTO DA PENA. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. JURISPRUDÊNCIA DO STJ.
+1. O Tribunal de origem dispôs que, no caso concreto, a aprovação parcial no exame não pode ser utilizada para remição de pena por fundamento diverso daquele esboçado na decisão combatida, isto é, porque o Sr. MATHEUS já possuía Ensino Médio completo antes de ser implantado no sistema carcerário (mov. 1.6).  .. , a admissão em uma disciplina do teste sem o seu fundamento precípuo - adquirir novos conhecimentos durante a execução da pena - seria uma banalização do instituto da remição.  ..  Nessa toada, diante da inexistência de esforço estudantil do apenado  que já possuía Ensino Médio Completo antes de adentrar no sistema prisional , impossível a consideração do referido exame para fins de remição de pena.
+2.  ..  não se verifica a violação do art. 126 da LEP, pois, "tendo o apenado concluído o ensino médio  ..  antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio (ENEM)" (AgRg no AREsp n. 2.083.985/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe de 10/8/2022) (REsp n. 1.913.757/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/2/2023).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 2.048.234/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Aplica-se ao caso, pois, o disposto na Súmula n. 83 desta Corte Superior.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
