@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Maria Adriana de Lima Soares, apontando-se como autoridade coatora o Tribunal de Justiça de Pernambuco no julgamento do HC n. 0000258-25.2023.8.17.9000.
+Consta que a paciente, nos autos da Ação Penal n. 0005341-47.2006.0.17.0810, em trâmite no Juízo da 1ª Vara do Tribunal do Jú ri de Jaboatão dos Guararapes/PE, foi pronunciada e condenada pela prática de homicídio qualificado (art. 121, § 2º, incisos I, III, IV, do Código Penal), ao cumprimento da pena de 15 anos, 4 meses e 15 dias de reclusão, em regime inicial fechado, tendo sido decretada a sua prisão preventiva (fls. 34/39).
+Inconformada, a defesa impetrou prévio habeas corpus no Tribunal de Justiça estadual, que, por unanimidade, denegou a ordem, nos termos do acórdão assim ementado (fl. 68):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO FUNDAMENTADA. REQUISITOS DEMONSTRADOS. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+Neste mandamus, o impetrante sustenta, em breve síntese, a ausência dos requisitos ensejadores da prisão preventiva e a possibilidade de aplicação de medidas cautelares diversas da prisão, ressaltando que a paciente respondeu ao processo todo em liberdade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, ainda que mediante a imposição de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido pela Presidência desta Corte às fls. 781/782 e as informações requeridas foram prestadas às fls. 790/795 e 800/801.
+O Ministério Público Federal, às fls. 812/81 6, opinou pelo não conhecimento do habeas corpus, conforme parecer assim ementado (fl. 812):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NEGATIVA DE APELAR EM LIBERDADE. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE FUGA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+A defesa pretende a revogação da prisão preventiva imposta à paciente, ainda que mediante o estabelecimento de outras medidas cautelares previstas no art. 319 do CPP.
+A Magistrado singular optou por decretar a prisão cautelar da paciente, sob os seguintes fundamentos (fls. 37/38 - grifo nosso):
+No caso dos autos, denoto que os Senhores Jurados entenderam pela autoria delitiva e nesta data a acusada fora condenada pelo homicídio consumado de HAMILTON JOSE DE SANTANA a uma pena superior a quinze anos.
+Para além da previsão legal supra, denoto pressupostos e fundamentos para a custódia cautelar, respaldando o decreto de prisão da acusada.
+Como cediço, as prisões de natureza cautelar somente podem ser impostas - ou mantidas - caso haja a demonstração da efetiva necessidade de restrição ao sagrado direito de liberdade.
+ ..
+Verifico que a acusada está em liberdade, expedindo-se edital para a sua intimação, ante a sua não localização pessoal. Registre-se que o réu solto tem a faculdade de comparecer aos atos processuais, prosseguindo o processo sem a sua presença, quando, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo, consoante art. 367, CPP.
+Pelo que dos autos consta, o então advogado da ré, à fl. 346, comunicou o endereço da acusada, renunciando ao mandato à fl. 349, atestando que a acusada seria assistida pela Defensoria Pública.
+Segundo a certidão do fl. 364, a acusada não foi localizada no endereço informado nos autos, razão pela qual foi expedido edital de intimação da sessão de Julgamento, estando em local incerto.
+Demais disso, consta dos autos Informação de que a acusada foi condenada por outro processo, consoante alhures, com decisão transitada em Julgado.
+Quanto ao direito de recorrer em liberdade, a privação cautelar da liberdade individual reveste-se de caráter excepcional somente devendo ser decretada em situações de absoluta necessidade.
+No caso dos autos, para além da previsão do art. 492, I, CPP, verifico presentes os requisitos ensejadores da custódia cautelar, mormente para garantia da ordem pública e para fins de aplicação da Lei Penal.
+A ideia da garantia da ordem pública não se limita a prevenir a reiteração de fatos criminosos, mas também assegurar o meio social e a própria credibilidade da justiça em face da gravidade do crime e sua repercussão. Ademais, está a acusada em local incerto e não sabido, fazendo-se mister assegurar a aplicação da Lei Penal, restando claro o perigo no estado de liberdade da ré. pelo que é pertinente a custódia cautelar.
+Por oportuno, o Tribunal de origem manteve a prisão preventiva aos seguintes fundamentos (fls. 19/22 - grifo nosso):
+ ..
+O impetrante insiste na ilegalidade na decretação da custódia preventiva da paciente, alegando que o magistrado decretou a prisão da paciente como garantia da ordem pública e da aplicação da lei penal, apesar da falta de contemporaneidade entre a imposição da medida extrema com os fatos que deram ensejo à própria ação penal, além de não ter havido modificação na situação fática ou jurídica da paciente que resguardasse eventual decisão de negar-lhe o direito recorrer em liberdade.
+Ocorre que, conquanto o impetrante confronte a decisão, vê-se, na verdade, que a decisão se encontra suficientemente fundamentada. Conforme informe a autoridade dita coatora, a paciente não foi localizada nos endereços constantes dos autos e foi intimada por edital, porém, não se fez presente ao julgamento. Tal circunstância permite concluir a existência de significativo risco de que a paciente, caso posta em liberdade, busque furtar-se à aplicação da lei penal.
+A alegada falta de justa causa constitui, portanto, mero argumento retórico da defesa, uma vez que o decreto de prisão possui amparo legal suficientemente fundamentado e se observa justa causa para manutenção da prisão, consoante preconiza o art. 312 do CPP.
+ ..
+Inicialmente, registre-se que a prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+No caso em apreço, verifica-se as instâncias originárias fundamentaram adequadamente a prisão preventiva com base em elementos concretos dos autos, por conveniência da instrução criminal e para assegurar a aplicação da lei penal, pois a paciente se encontra em local incerto e não sabido, constando do acórdão que não foi localizada nos endereços constantes dos autos e foi intimada por edital, porém, não se fez presente ao julgamento, consoante pacífico entendimento desta Corte no sentido de que a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal (AgRg no RHC n. 117.337/CE, Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/11/2019).
+Cito, ainda, outros precedentes: AgRg no HC n. 748.113/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/6/2022; AgRg no HC n. 653.422/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/8/2021; e HC n. 653.415/BA, de minha Relatoria, Sexta Turma, DJe 29/6/2021.
+No mesmo sentido a opinião do Subprocurador-Geral Mario Ferreira Leite, em seu parecer (fls. 815/816 - grifo nosso):
+ ..
+Como se vê, a sentença condenatória negou à ré o direito de apelar em liberdade em razão do risco à garantia da ordem pública e para assegurar a aplicação da lei penal, tendo em vista a gravidade concreta e todas as circunstâncias que envolveram o fato criminoso, além de estar a acusada em local incerto e não sabido.
+De fato, a paciente foi condenada perante o Tribunal do Júri pela prática do crime de homicídio, a uma pena de 15 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado, valendo destacar que a ré não foi localizada nos endereços constantes dos autos, razão pela qual foi devidamente intimada por edital, no entanto, não se fez presente ao julgamento.
+Dessa forma, não se trata de prisão cautelar como consequência automática da condenação em primeira instância, na medida em que os seus fundamentos remontam a peculiar gravidade do delito pelo qual a ré foi condenada e também para evitar possível fuga do distrito da culpa.
+ ..
+Assim, não há que se falar em constrangimento ilegal.  ..
+Registre-se, por fim, que é entendimento desta Corte Superior de Justiça que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes.
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, à vista dos precedentes e do parecer, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA CONDENATÓRIA. PENA DE 15 ANOS, 4 MESES E 15 DIAS DE RECLUSÃO. PACIENTE EM LOCAL INCERTO E NÃO SABIDO. NECESSIDADE DA CUSTÓDIA POR CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTOS IDÔNEOS. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
