@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Everton Paulo Cestari, em que se aponta como autoridade coatora a Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo , que deu parcial provimento à Apelação defensiva n. 1500145-79.2022.8.26.0561 para reduzir a pena do paciente a 7 anos, 9 meses e 10 dias de reclusão, para o crime de tráfico, a 1 mês e 10 dias de detenção para o crime de ameaça, e a 17 dias de prisão simples pela contravenção de porte de arma, mantida, no mais, a sentença condenatória.
+Neste writ, sustenta-se ilegalidade na busca veicular; isso porque não haveria justa causa para a apreensão das drogas, tendo em vista que o encontro fortuito da droga não guardava nenhuma relação com o objeto da busca (suposto crime de ameaça), o que implica em sua invalidade, com a consequente contaminação de todo o acervo probatório. Do mesmo modo, em relação ao canivete apreendido, pois, pelo mesmo motivo, não guarda qualquer relação com o fato noticiado aos policiais militares, sendo certo que a serendipidade da prova não enseja sua apreensão e, mais ainda, sua utilização como fundamento do decreto condenatório (fl. 7).
+Requer-se, assim, seja reconhecida a nulidade da apreensão da droga e do canivete do paciente, com a consequente nulidade dos atos consequentes, com a absolvição do recorrente pelo crime de tráfico e pela referida contravenção penal (fl. 7).
+Pugna-se, também, pela concessão liminar da ordem, determinando a suspensão imediata dos efeitos da decisão condenatória objeto deste writ, assim como a expedição de alvará de soltura em favor do paciente Everton Paulo Cestari (fl. 8).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Pois bem, busca a impetração o reconhecimento da nulidade da apreensão da droga e do canivete do paciente, com a consequente nulidade dos atos consequentes, com a sua absolvição pelo crime de tráfico e pela referida contravenção penal, por ausência de justa causa (fl. 7).
+É cediço que a busca veicular é equiparada à busca pessoal, demandando, assim, apenas fundada suspeita de que a pessoa abordada esteja na posse de entorpecentes, arma proibida, objetos ou papéis que constituam corpo de delito (art. 240, § 2º, do Código Penal). Nesse sentido, confiram-se: AgRg no HC n. 783.194/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 15/5/2023, DJe 18/5/2023; e AgRg no RHC n. 175.545/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe 15/5/2023.
+No caso dos autos, a moldura fática delineada é apta a indicar a fundada suspeita indispensável à busca veicular, conforme se infere do acórdão ora impugnado (fls. 371/373):
+ ..  O apelante foi denunciado por tráfico de entorpecentes, ameaça e porte de arma branca porque transportava em sua caminhonete uma porção de 10,98 gramas de crack e um canivete, além de ter ameaçado terceiro no trânsito por motivo fútil.
+Segundo consta, o réu, que não é habilitado, conduzia uma caminhonete VW/Amarok e tentou ultrapassar um veículo GM/Corsa, conduzido pela vítima Leandro Balbino da Silva, porém não obteve êxito porque havia outros veículos estacionados no local. Emparelhou, então, seu veículo, com o da vítima e, apontando o simulacro de arma, pediu para a vítima baixar o vidro e ameaçou: "para, que eu vou te ensinar a dirigir, cuzão, não vai dar passagem pros outros".
+Após dois ou três quarteirões a vítima conseguiu despistar o réu e acionar a polícia militar. Os policiais, além de cientes da ameaça, tinham informações envolvendo o acusado com tráfico ilícito de drogas e o abordaram em um shopping center para o qual o réu se dirigiu.
+Em busca na caminhonete, teriam sido encontrados, além do simulacro de arma, uma porção de crack e um canivete com resquícios do mesmo entorpecente, além de dinheiro nacional e estrangeiro e cheques.
+ ..
+No caso sub judice, vê-se presente a justa causa de forma inequívoca, autorizando a realização da revista veicular ante a inquestionável conduta do acusado, ameaçando a vítima com arma de fogo, pois até então não se sabia tratar-se de simulacro.
+ ..
+Ora, uma vez presente a justa causa para realização da diligência, o que for encontrado de ilícito durante a revista pessoal ou veicular deve ser apreendido, sobretudo em razão do poder de polícia do qual os policiais militares estão imbuídos.
+Note-se que a droga encontrada no interior do veículo, bem como o canivete, resultam de uma abordagem em que a fundada suspeita está descrita de forma objetiva e justificada, razão pela qual não há ilegalidade a ser reconhecida.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. AMEAÇA. PORTE DE ARMA. CONDENAÇÃO. BUSCA VEICULAR. AUSÊNCIA DE JUSTA CAUSA. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Habeas corpus indeferido liminarmente.
