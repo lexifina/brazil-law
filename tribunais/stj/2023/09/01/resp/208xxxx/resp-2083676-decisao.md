@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por GEOPAN PANIFICADORA LTDA. e ELTON DIAS JUNIOR com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2111971-87.2022.8.26.0000), nos autos de ação de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 11):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL Penhora sobre valores em conta bancária Alegação de impenhorabilidade por equivalência à poupança Norma que se restringe à poupança Inaplicabilidade do Art. 833, inciso X, do CPC. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (fls. 15-24), alegam os recorrentes violação do art. 833, X, do CPC.
+Apontam que "após decisão em primeiro grau, o Sr. Elton Dias Junior teve o importe de R$ 5.096,00 bloqueados junto ao Banco Bradesco, e a pessoa jurídica Geopan Panificiadora LTDA., no importe de R$ 7.500,00 junto ao Banco do Brasil, também bloqueados" (fls. 19-20).
+Afirma que, para a configuração da impenhorabilidade, é suficiente a demonstração de que os valores bloqueados são inferiores a 40 salários mínimos, independentemente da natureza da conta em que estão depositados.
+Requer o provimento do recurso para que seja reconhecida a impenhorabilidade dos valores bloqueados nas suas contas bancárias.
+As contrarrazões foram apresentadas às fls. 29-46.
+Admitido o apelo extremo (fls. 47- 48), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que, ressalvados os casos de abuso ou má-fé, são impenhoráveis os valores inferiores a 40 salários mínimos, não importando se depositados em poupança, conta corrente, fundos de investimento, ou outras aplicações, ou ainda guardados em papel-moeda, desde que seja a única reserva monetária em nome do recorrente (AgInt no REsp n. 1.915.851/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022; AgInt no REsp n. 1.494.266/RO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/8/2017, DJe de 30/8/2017; e REsp n. 1.230.060/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 13/8/2014, DJe de 29/8/2014).
+No caso, o Tribunal estadual manteve a penhora dos valores em conta corrente dos recorrentes, porque não houve comprovação de que a referida quantia teria caráter de poupança. Asseverou que caberia à parte ora recorrente comprovar a natureza e origem da quantia bloqueada, porquanto a lei só protege a reserva financeira como forma de preservar o dinheiro para uso futuro. A propósito, confira-se trecho do acórdão recorrido (fls. 11-13, destaquei):
+ ..
+2.- Sem razão os agravantes.
+Nos termos do art. 789 do CPC, o devedor responde com todos os seus bens para o cumprimento de suas obrigações.
+O art. 833 do mesmo diploma legal apresenta exceções à regra, dentre elas, a quantia de até quarenta salários mínimos depositada em caderneta de poupança.
+Tratando-se de exceções, a interpretação deve ser restritiva, sobretudo porque dinheiro em conta bancária figura em primeiro lugar no rol preferencial do art. 835.
+Em suma, analisando os dispositivos legais supramencionados, conclui-se que a vontade do legislador era proteger o pequeno poupador, o que não é o caso dos autos, eis que neste agravo não consta nenhum documento demonstrando que se trata de conta poupança ou que os valores constritos estavam sendo poupados em conta corrente há certo tempo para alguma eventualidade ou aquisição futura.
+Em verdade, se trata tão somente de quantia em conta corrente, patrimônio penhorável.
+Quanto à aplicação extensiva da impenhorabilidade da poupança à outros ativos financeiros, tem entendido este E. Tribunal:
+Agravo de Instrumento. Prestação de Serviços. Execução de Título Extrajudicial. Decisão do d. juízo a quo que rejeitou a arguição de impenhorabilidade de quantia bloqueada em fundo de investimento. Insurgência da executada. Descabimento. A impenhorabilidade deveser tida como hipótese de exceção, posto que a execução, dentre outros princípios, é norteada pelo da utilidade, segundo o qual, a execução deve ser útil ao credor. Destarte, caso se passe a interpretar dispositivos legais relativos à impenhorabilidade de forma extensiva, a execução correrá o risco de perder sua utilidade em relação ao credor e, via de consequência, à atividade jurisdicional executiva, que incide direta e em caráter exclusivo sobre o patrimônio do devedor. Bem por isso, ao fazer menção expressa à caderneta de poupança, o art. 833, inc. X, do CPC, em vigor, indiscutivelmente, excluiu da impenhorabilidade, hipótese marcada pela excepcionalidade, as demais modalidades de investimento, dentre elas o fundo de investimento. Com efeito, considerando que na lei não existem expressões inúteis, forçoso concluir que caso o legislador quisesse estender a impenhorabilidade para demais hipóteses de investimento de baixo risco e rendimento, existentes no mercado, tê-lo-ia feito, máxime o legislador de 2015, certamente atento à inflação, que há anos permeia a realidade brasileira. Como não o fez inadmissível a interpretação extensiva. Recurso Improvido.
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA QUE REJEITOU IMPUGNAÇÃO À PENHORA. MANUTENÇÃO DA R. DECISÃO RECORRIDA QUE DETERMINOU A PENHORA DE VALORES DEPOSITADOS EM FUNDO DE INVESTIMENTO PORQUE A IMPENHORABILIDADE PREVISTA NO ART. 833, X, DO CPC,SE APLICA EXCLUSIVAMENTE ÀS CADERNETAS DE POUPANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A QUANTIA OBJETO DA CONSTRIÇÃO APRESENTA CARÁTER ALIMENTAR. RECURSO IMPROVIDO.
+Podemos afirmar, desta forma, que apenas a caderneta de poupança, em sua forma tradicional, deve ser protegida pelo inciso X do artigo 833 do CPC, não toda e qualquer aplicação financeira.
+Portanto, possível a penhora de valores localizados em conta corrente, deve ser mantida a decisão agravada.
+Embargos de declaração meramente protelatórios ensejarão pena de multa.
+3.- Pelo exposto, nega-se provimento ao recurso.
+No entanto, o referido entendimento diverge da jurisprudência do Superior Tribunal de Justiça acerca da extensão da regra prevista no inciso X do art. 833 do CPC, de maneira que deve ser levantada a penhora recaída sobre as contas em questão, porquanto inferiores a 40 salários mínimos.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para afastar a penhora determinada pelo Juízo de origem.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
