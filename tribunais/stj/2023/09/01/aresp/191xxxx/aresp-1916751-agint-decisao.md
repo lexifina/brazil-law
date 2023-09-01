@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno, interposto por CAIXA ECONÔMICA FEDERAL, contra decisão monocrática, de lavra deste signatário, acostada às fls. 972/929, e-STJ, que negou provimento ao reclamo, sob o fundamento de incidência da Súmula 83/STJ.
+Nas razões do presente agravo interno (fls. 1002/1004, e-STJ), a insurgente alega que a decisão recorrida deve ser revista, pois a questão discutida no recurso especial (violação ao art. 475-M do CPC/73) é matéria distinta do quanto decidido, e que o decisum agravado desconsiderou o efeito suspensivo conferido à impugnação ao cumprimento de sentença.
+Impugnação às fls. 1012/1017, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, em suas razões de recurso especial (fls. 670/678, e-STJ), a recorrente, ora agravante, apontou ofensa aos artigos 475-J e 475-M do CPC/73.
+No apelo nobre, a insurgente alegou que, em momento algum, teve intenção de procrastinar a execução. Afirmou que, intimada para efetuar o pagamento da dívida, realizou, no prazo, o depósito, bem como protocolou impugnação. Sustentou, ainda, que, diante do fato de ter sido conferido efeito suspensivo à impugnação, nos termos do art. 475-M do CPC/73, não poderia haver incidência da multa do art. 475-J do CPC/73.
+Na hipótese, a Corte de origem, ao julgar a demanda, concluiu que o depósito em juízo realizado pela Caixa foi efetuado a título de garantia, e que, portanto, deveria incidir a multa de 10%.
+Veja o teor do acórdão recorrido (fls. 598/599, e-STJ):
+A CEF afirma que efetuou o depósito e que não deve ser acrescida ao débito a multa no percentual de dez por cento.
+O art. 475-J do CPC/1973 dispõe expressamente que, caso o devedor, condenado ao pagamento de quantia certa ou já fixada em liquidação, não o efetue no prazo de 15 dias, o montante da condenação será acrescido de multa no percentual de 10%.
+Note-se que a Caixa foi intimada para cumprimento da obrigação de pagar (art. 475-J do CPC) em 25/05/2015, findando o prazo para pagamento da dívida, sem o acréscimo da multa de 10%, em 09/06/2015.
+É bem verdade que a Caixa efetuou depósito no valor requerido pela parte exequente, com abertura da conta judicial 0548.005.71052-1 em 08/06/2015. No entanto, os valores de R$ 2.194.420,62 e de R$ 1.078.695,55 (totalizando R$ 3.273.116,17) só foram liberados em 07/12/2016 (aproximadamente um ano e seis meses após o depósito) e em 23/01/2018 (aproximadamente dois anos e sete meses após o depósito), respectivamente, ou seja, muito tempo depois de findado o prazo para pagamento.
+Saliente-se que o fato de os valores estarem bloqueados em razão de pedidos de penhoras no rosto dos autos, em razão dos Processos 0801942-26.2014.4.05.8000 e 0805936-57.2017.4.8000, em que a Caixa teria crédito a receber da exequente (todas posteriormente revogadas), não milita em favor da executada, ao revés só demonstra a sua resistência em cumprir voluntariamente com a obrigação de pagar.
+Vê-se, desde o início da execução (na impugnação), que a Caixa alegou que a liquidação deveria ser feita por artigos, e não por cálculo aritmético, afirmando que nenhum valor lhe era devido, pois o título executivo judicial seria inexigível, em virtude de a dívida ser supostamente ilíquida. Sustentou, ainda, que teria créditos com a exequente que deveriam ser objeto de compensação. Requereu que a impugnação fosse recebida no efeito suspensivo, assinalando ter garantido a execução.
+Segundo a jurisprudência do STJ, "o pagamento, constante do art. 475-J do CPC/1973, deve ser interpretado de forma restritiva, considerando-se somente naquelas situações em que o devedor deposita a quantia devida em juízo, sem condicionar o levantamento à discussão do débito em sede de impugnação.
+Se o depósito deu-se a título de garantia do juízo, não há falar em isenção do devedor ao pagamento da multa prevista no referido dispositivo legal". (v. STJ, 4ª T., AINTAREsp 1427717, rel. Min. Raul Araújo, DJ 01/07/2019)
+Assim, o depósito em juízo realizado pela Caixa, a título de garantia, não pode confundir-se com o pagamento voluntário da dívida, pois não implicou a satisfação do bem da vida perseguido nos autos, motivo pelo qual o referido acréscimo legal de 10% deve ser suportado pela Caixa Econômica Federal - CEF.
+1.1. Observa-se, o Tribunal a quo não se manifestou sobre conteúdo do art. 475-M do CPC/73, relacionado à tese de que conferido efeito suspensivo ao procedimento de impugnação ao cumprimento de sentença, não caberia a prática de qualquer ato executório, dentre os quais, a efetivação do pagamento, o que afastaria a incidência da multa do art. 475-J do CPC/73.
+Registre-se, ainda, que, mesmo após a manifestação dos embargos de declaração (fls. 615/621, e-STJ), - no qual a CAIXA sustentou a necessidade de apreciação da repercussão do efeito suspensivo à impugnação, de modo que a multa do art. 475-J do CPC/75 não poderia alcançar a agravante -, o TJPB permaneceu omisso.
+Assim, cabia a CEF alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do CPC/15 (art. 535 do CPC/73) de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Desse modo, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+1.2. Além disso, conforme fundamentado na decisão agravada, "nos termos da jurisprudência desta Corte, o depósito realizado como garantia do juízo, a fim de viabilizar a apresentação de impugnação ao cumprimento de sentença, não afasta a incidência da multa do artigo 475-J do CPC/73" (AgInt no REsp n. 1.616.643/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/9/2020, DJe de 24/9/2020).
+Mantida, no ponto, a aplicação da Súmula 83/STJ.
+1.3. Ademais, para acolhimento das alegações do agravante seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Do exposto, nego provimento ao agravo interno.
+Publique-se. Intimem-se.
+EMENTA
