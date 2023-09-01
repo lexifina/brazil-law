@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento - Recuperação judicial - Decisão recorrida que indeferiu requerimento de declaração de nulidade da assembleia geral de credores realizada em 9 de outubro de 2020 - Inconformismo da credora - Recurso interposto contra decisão diversa - Preclusão temporal configurada - Recurso não conhecido." (e-STJ, fl. 287)
+Nas razões do recurso especial, a agravante alega violação aos arts. 10, 22, inciso I, alínea "a", 49 e 69 da Lei nº 11.101/05 e 6º e 1015 do Código de Processo Civil, sustentando, em síntese, (a) que houve vício de comunicação das informações básicas do processo de recuperação judicial e do crédito relacionado, sendo ferida a razoabilidade e restado prejudicado seu direito de impugnar tempestivamente seu crédito em razão de o Administrador judicial ter entregue a correspondência em endereço diverso, (b) que não foi informada pela recuperanda acerca da recuperação judicial apesar da troca de e-mails, devendo sua conduta ser analisada sob o ponto de vista criminal, (c) que a assembleia deve ser declarada nula e (d) que o rol que prevê o cabimento de agravo de instrumento deve ser interpretado de modo extensivo.
+Contrarrazões às fls. 314/331.
+O recurso especial foi inadmitido em razão da incidência da Súmula 283/STF (e-STJ, fls. 341/342).
+A agravada informou o encerramento da recuperação judicial às fls. 419/431, tendo a agravante se manifestado pelo prosseguimento do julgamento do presente agravo em recurso especial no sentido de apreciação da matéria suscitada (e-STJ, fl. 435/441).
+É o relatório. Passo a decidir.
+Observa-se que o agravo previsto no art. 1.021, § 1º, do Novo Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+Com efeito, o eg. TJSP inadmitiu o recurso especial com espeque incidência da Súmula 283/STF.
+Como sabido, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só reafirmar as razões do recurso especial.
+In casu, verifica-se que o agravante não rebateu, como lhe competia, o fundamento da decisão ora agravada, que é suficiente para manutenção da decisão de admissibilidade.
+Incide, na hipótese, por analogia, o princípio cristalizado na súmula 182 do Superior Tribunal de Justiça, segundo a qual, "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confira-se tal previsão no Regimento Interno do Superior Tribunal de Justiça, in verbis:
+"Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)."
+Nesse panorama, forçoso não conhecer do agravo.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
