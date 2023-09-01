@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por SANDY - EMPREITEIRA DE MÃO DE OBRA LTDA ME contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 717 e-STJ):
+DECLARATÓRIA DE NULIDADE DE DECISÃO JUDICIAL - AÇÃO DE REGRESSO - DÉBITOS TRABALHISTAS - Ausente a interposição de recurso contra a sentença prolatada nos autos do Processo número 1014208-76.2016.8.26.0562 - Ausente o interesse processual para o ajuizamento de ação de querela nullitatis - Inadequação da via eleita - SENTENÇA DE EXTINÇÃO DO PROCESSO, com fulcro no artigo 485, incisos I, V e VI, todos do Código de Processo Civil - Sentença contém omissão (quanto à condenação ao pagamento das custas e despesas processuais) - RECURSO DA AUTORA IMPROVIDO, E DECLARADO (DE OFÍCIO) que a Autora arca com as custas e despesas processuais
+Opostos embargos de declaração (fls. 722-742 e-STJ), esses foram rejeitados (fls. 743-746 e-STJ).
+Em suas razões de recurso especial (fls. 749-792 e-STJ), a recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigos 489, § 1º, inc. IV, § 3º, e 1.022, inc. II, do Código de Processo Civil de 2015, sustentando a existência de omissão e negativa de prestação jurisdicional acerca das matérias suscitadas nos embargos de declaração;
+(ii) artigos 2º, 141 e 492 do CPC/15, aduzindo, em suma, a nulidade da sentença, sob o argumento de foi "citra petita, pois, deixou de analisar e julgar o pedido de periculosidade na reconvenção, onde foi requerido pela recorrente a compensação no valor de R$ 1.057.059,51, mas a decisão de mérito, somente julgou o montante de R$ 986.796,73 sem a inclusão do valor do pedido relativo ao adicional de periculosidade";
+(iii) artigo 1.013, § 1º, inc. II, e § 3º, do CPC/15, asseverando que, "nos casos de sentença citra petita não seria possível a aplicação da teoria da causa madura, seja porque o legislador assim não o permitiu, como também visando valorizar a sentença de 1º grau e o ofício do magistrado que, em primeiro lugar, toma conhecimento da causa"; e
+(iv) art. 85, §§ 2º e 8º, do CPC/15, defendendo que, no caso dos autos, o valor dos honorários advocatícios deve ser fixado com base critério da equidade.
+Contrarrazões às fls. 805-825 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 826-829 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC/15; b) aplicação do disposto do art. 1.030, inc. I, "b", do CPC, quanto à pretensão de fixação dos honorários advocatícios por equidade; e c) quanto aos arts. 141 e 492 do CPC, o acórdão recorrido "desvendou a controvérsia em consonância com as exigências legais, analisando as questões postas e fundamentando sua decisão, dentro dos limites em que proposta a ação".
+Daí o agravo (fls. 832-869 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 872-898 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Primeiramente, com relação à aventada violação ao art. 85, §§ 2º e 8º, do CPC/15, observa-se que foi negado seguimento ao recurso especial, com fundamento no artigo 1.030, inc. I, alínea "b", do CPC/15.
+Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo em recurso especial contra decisão que nega seguimento ao apelo nobre com base na conformidade do acórdão a quo com a jurisprudência do STJ firmada em Recurso Especial Repetitivo.
+2. No que diz respeito à alegada violação aos arts. 489 e 1.022 do CPC/15, observa-se que a parte recorrente alegou genericamente que o acórdão hostilizado os teria afrontado, sem, contudo, demonstrar de forma clara como o decisum teria incorrido em omissão ou ausência de fundamentação, o que atrai, por analogia, o óbice da Súmula 284 do STF.
+Dentre os vários precedentes a respeito, destaca-se: AgInt no AREsp 1200579/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 18/04/2018; e AgInt no AREsp 995.819/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 01/03/2017.
+Gize-se que não basta a mera indicação de (diversos) dispositivos legais que, em tese, não foram apreciados pela Corte local, sendo necessário demonstrar qual as teses omitidas, bem como sua relevância para o desdobramento da causa.
+Incidente, portanto, o óbice da Súmula 284/STF.
+3. De outra parte, sobre a contrariedade aos arts. 2º, 141 e 492 do CPC/15, sob o argumento de nulidade absoluta da sentença, por decisão citra petita, observa-se que o Tribunal de origem afastou a referida tese jurídica, sob os seguintes fundamentos (fls. 718-719 e-STJ):
+O interesse processual decorre da necessidade da tutela jurisdicional, apresentada pela via processual adequada, apta a trazer o resultado útil pretendido pela Autora.
+Cabível o ajuizamento da querela nullitatis quando constatados "vícios maiores, vícios essenciais, que sobrevivem à coisa julgada e afetam sua própria existência.
+O vício alegado pela Autora (na petição inicial) consiste no reconhecimento da decisão citra petita, em razão da suposta ausência de apreciação do pedido relativo ao adicional de insalubridade (sob a alegação de que o acórdão consigna o valor incorreto da reconvenção - sem considerar o adicional de insalubridade).
+Contudo, não se trata de vício insanável, pois a ora Autora poderia ter apresentado o recurso cabível contra o acórdão que consignou o valor incorreto da reconvenção - destacando-se que a Autora interpôs recurso especial, mas não alegou a nulidade da sentença (fls. 786/816 dos autos do Processo número 1014208-76.2016.8.26.0562), de modo que caracterizada a preclusão.
+Ademais, observo que a reconvenção sequer foi conhecida pela decisão de mérito, em razão da ausência de conexão entre a ação principal e a reconvenção (sentença de fls.593/597 e acórdão de íls.702/708 daqueles autos).
+No mais, anoto que não se trata de ação autônoma para o julgamento do pedido supostamente omitido, mas sim de pedido de declaração de nulidade da decisão judicial (sob o fundamento de que é "citra petita").
+Assim, para reverter a conclusão consignada no Tribunal de piso acerca de que tais questões já foram objeto de manifestação em outro processo, seria imprescindível o revolvimento das provas e fatos constantes dos autos, providência esta inviável na via do recurso especial, de acordo com o teor obstativo da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. A pretensão voltada para afastar o reconhecimento, pela Corte de origem, da ocorrência de preclusão consumativa, em razão de a matéria ventilada - prescrição intercorrente - já ter sido objeto de deliberação em processo diverso, encontra óbice no enunciado contido na Súmula 7/STJ.
+2. "Consoante entendimento consolidado das Turmas que compõem a Segunda Seção desta Corte, não flui o prazo da prescrição intercorrente no período em que o processo de execução fica suspenso por ausência de bens penhoráveis. Ademais a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte." (cf. AgRg no AREsp 277.620/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2013, DJe 03/02/2014).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.152.603/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. 2. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. PRECLUSÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa a dispositivos constitucionais, porquanto a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. É inadmissível o recurso especial acerca de questão não prequestionada pelo Tribunal de origem, ainda que seja matéria de ordem pública.
+3. Tendo o Tribunal a quo, com apoio nos elementos de prova, consignado que a questão acerca da liquidez, certeza e exigibilidade do título judicial já foi arguida e decidida em ação anterior, é inviável revisar tal entendimento nesta instância extraordinária, em razão do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.543.397/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/9/2016, DJe de 12/9/2016.)
+4. Por fim, no que tange à suposta ofensa ao art. 1.013, § 1º, inc. II, e § 3º, do CPC/15, incide, na espécie, o óbice da Súmula 211/STJ, ante a ausência de prequestionamento da matéria, porquanto, mesmo após o julgamento dos embargos de declaração, não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu na espécie.
+5. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
