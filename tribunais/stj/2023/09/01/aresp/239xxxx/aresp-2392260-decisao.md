@@ -1,0 +1,41 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que rejeitou exceção de pré-executividade. No Tribunal a quo a decisão foi reformada.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO FISCAL - ISSON - DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE, UMA VEZ QUE A ALEGAÇÃO DE NULIDADE DO LANÇAMENTO DEMANDARIA DILAÇÃO PROBATÓRIA, O QUE É INCOMPATÍVEL COM A VIA ELEITA - PLEITO DE REFORMA DA DECISÃO - CABIMENTO - INADEQUAÇÃO DA VIA ELEITA - AFASTAMENTO - QUESTÃO RELATIVA À NULIDADE DO LANÇAMENTO POR ARBITRAMENTO DE ISSQN SEM PROCESSO ADMINISTRATIVO REGULAR QUE PODE SER OBJETO EXCEÇÃO DE DE PRÉ-EXECUTIVIDADE - MATÉRIA REFERENTE À HIGIDEZ DO TÍTULO EXEQUENDO QUE É COGNOSCÍVEL DE OFÍCIO - QUESTÃO QUE DEMANDA APENAS PROVA DOCUMENTAL, SEM NECESSIDADE DE DILAÇÃO - VIA ELEITA ADEQUADA - NULIDADE DO LANÇAMENTO - ARBITRAMENTO DE OFÍCIO DA BASE DE CÁLCULO DO ISSON - AUSÊNCIA DE PROCESSO ADMINISTRATIVO PARA ARBITRAR O VALOR DEVIDO, COM VIOLAÇÃO AO CONTRADITÓRIO E À AMPLA DEFESA - NULIDADE DO LANÇAMENTO RECONHECIDA - PRECEDENTES DESTE TJ/SP EXECUÇÃO FISCAL EXTINTA - HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO PATRONO DA AGRAVANTE, ANTE O ÊXITO OBTIDO - QUANTIA ARBITRADA NO PATAMAR PERCENTUAL MÍNIMO ART. 85, §3º, II, DO DO CPC - DECISÃO REFORMADA - AGRAVO DE INSTRUMENTO PROVIDO, PARA RECONHECER NULIDADE DO LANÇAMENTO E EXTINGUIR A A AÇÃO DE EXECUÇÃO, COM A CONDENAÇÃO DO AGRAVADO AO PAGAMENTO DE CUSTAS/DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso dos autos, a insurgência na exceção oposta se refere à nulidade do lançamento, uma vez que foi realizado o arbitramento do ISSQN pelo Fisco sem processo administrativo regular.
+Considerando que as alegações da agravante envolvem questão que depende de mera prova documental (demonstração da existência do processo administrativo regular), além do fato de a nulidade da execução por irregularidade das Certidões de Dívida Ativa ser questão cognoscível de ofício, não há óbice ao manejo da exceção de pré-executividade.
+Deste modo, a via da exceção de pré-executividade utilizada se mostra adequada.
+(..)
+Dessa forma, o arbitramento ou estimativa do ISSQN só podeser utilizado em um regime de exceção, devendo ser analisado mediante processoadministrativo-fiscal regular, assegurados o contraditório e a ampla defesa, conformejurisprudência pacífica do E. Superior Tribunal de Justiça, abaixo exposta:
+(..)
+(Recurso Especial nº 1.816.701/SP; Rel. Min. Herman Benjamin;Órgão Julgador: Segunda Turma; Julgado em: 25/06/2.019; Publicado em:01/07/2.019)
+(..)
+No entanto, conforme visto, esse arbitramento não confere ao Fisco o poder automático de estipular algum valor a partir de qualquer critério que venha a eleger razoável, sendo necessária a instauração de processo administrativo regular em que seja assegurado o contraditório e a ampla defesa ao contribuinte.
+E, mesmo diante dessas alegações, o agravado não logrou êxitoem demonstrar a instauração desse procedimento (fls. 52/55 dos autos principais).
+Assim, a ilegalidade do arbitramento do ISSQN é patente com a ausência de processo administrativo-fiscal regular, o que resulta no flagrantedescumprimento do artigo 148 do Código Tributário Nacional (Lei Federal nº 5.172,de 25/10/1.966).
+(..)
+Logo, é o caso de reconhecer a nulidade dos títulos exequendo se extinguir a execução fiscal.
+Por fim, quanto aos honorários advocatícios, entendo que estes são devidos ao patrono da agravante, diante do acolhimento da exceção de pré-executividade, com a consequente extinção da ação de execução fiscal movida pelo agravado em face daquela.
+Nesse sentido, é o entendimento do E. Superior Tribunal de Justiça:
+(..)
+(Agravo Regimental no Recurso Especial nº 1.074.400/RS, Segunda Turma, Rel. Min. Humberto Martins, j. 4/11/2.008, DJe de 21/11/2.008)
+(..)
+(Recurso Especial nº 837.235/DF, Primeira Turma, Rel. Min. Francisco Falcão, j. 4/10/2.007, DJe de 10/12/2.007, pg. 299)
+(..)
+(Recurso Especial nº 1.685.228/SP; Rel. Min. Herman Benjamin; Órgão Julgador: Segunda Turma; Data do Julgamento: 17/10/2.017; Publicação: DJe 23/10/2.017)
+(..)
+Dessa maneira, tendo em vista o êxito logrado pela agravante no tocante à extinção da execução fiscal, os honorários advocatícios devem ser fixados nos termos do artigo 85, parágrafos 2º e 3º, do Código de Processo Civil.
+Contudo, levando-se em consideração a complexidade da causa, o lugar de prestação do serviço e o tempo exigido para o trabalho desempenhado pelo patrono da agravante, arbitro os honorários advocatícios no mínimo de 8% sobre o valor do proveito econômico obtido, que é o valor atualizado da execução extinta (Valor da execução: R$ 862.629,08, em 27/07/2.018), nos termos do artigo 85, parágrafo 3º, inciso II, do Código de Processo Civil, quantia condizente com o serviço prestado pelo advogado da agravante, sem aviltá-lo.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
