@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRANI STROBIO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, o qual não indicou permissivo constitucional, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO. INVIABILIDADE. ARTIGO 100 DA CONSTITUIÇÃO FEDERAL. PARCELAS INCONTROVERSAS. INEXISTÊNCIA.
+Quanto à controvérsia, a parte recorrente alega violação e interpretação divergente dos arts. 512, 520 e 535, § 4º, do CPC, no que concerne à possibilidade de execução provisória contra a Fazenda Pública, mediante a expedição de precatório, de valores incontroversos e atingidos pela eficácia da coisa julgada, trazendo a seguinte argumentação:
+No que tange à possibilidade de execução provisória em face da Fazenda Pública, cabe salientar que antes da Emenda Constitucional nº 30/2000, não havia qualquer polêmica sobre o tema, vez que tal execução era perfeitamente cabível contra a Administração Pública.
+Isto porque, foi esta Emenda que passou a condicionar a expedição do precatório, ao trânsito em julgado da sentença judiciária. Em outras palavras, até então, a expedição do precatório não se condicionava à coisa julgada.
+Todavia, após a Emenda supracitada surgiram divergentes posições sobre o assunto.
+ ..
+Entretanto, com o advento do Novo Código de Processo Civil, a questão foi totalmente dirimida por meio do artigo 535, § 4º, nos seguintes termos:
+ ..
+Ora, não resta qualquer óbice quanto à possibilidade do cumprimento provisório de sentença, não havendo impedimento algum quanto ao prosseguimento da lide.
+O cumprimento provisório de sentença, na forma como pretendida pelo recorrente, como regra geral, também possui expressa previsão legal no Código de Processo Civil, em seu artigo 512, que estabelece:
+ ..
+Ou seja, possui total amparo legal, não havendo óbice quanto a sua continuidade e processamento, inclusive, com a expedição de ofícios da parte incontroversa
+(fls. 739-741).
+Como dito ao norte, além da violação aos dispositivos legais acima apontados, o acórdão recorrido está em divergência com a ilação da 2ª Turma do C. STJ acerca da possibilidade de expedição do precatório parcial em cumprimento de sentença (fl. 743).
+Evidente, pois, a similaridade da situação fática entre o acórdão recorrido e o paradigma apontado.
+Todavia, o fato é que em que pese à similaridade fática apontada, os acórdãos chegaram a conclusões opostas, sendo a divergência manifesta.
+Nessa senda, vale dizer, a interpretação empregada pelo acórdão paradigma é mesmo diametralmente oposta àquela lançada no v. Acórdão recorrido, estando assentada a divergência justamente na  havendo valores incontroversos acobertados pelo trânsito em julgado, admite-se o prosseguimento do cumprimento de sentença com a respectiva expedição de precatório ou RPV , tal como o entendimento do C. STJ, conforme restou demonstrado (fl. 750).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte Superior de Justiça:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. . (AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Ademais, quer pela alegação de dissídio jurisprudencial, quer pela violação de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse se ntido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
