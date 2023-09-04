@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por EUNICE SANTANA DE OLIVEIRA, com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do ilustre Desembargador CARLOS ABRÃO, assim ementado:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - CONTRATO DE EMPRÉSTIMO CONSIGNADO NÃO RECONHECIDO - SENTENÇA PROCEDÊNCIA - RECURSOS.
+1. APELAÇÃO (AUTORA) - SUJEITAM-SE À REAPRECIAÇÃO TÃO SOMENTE AS MATÉRIAS ELENCADAS NAS RAZÕES RECURSAIS, EM RESPEITO AO PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APPELLATUM E EM CONSONÂNCIA COM O ARTIGO 1.013, CAPUT, DO CPC - INAPLICABILIDADE DA SÚMULA Nº 54 DO STJ AO CASO TELADO, EVITANDO-SE INDENIZAÇÃO DESARRAZOADA - VERBA HONORÁRIA ARBITRADA EM CONSONÂNCIA COM OS CRITÉRIOS DO ARTIGO 85, § 2º E INCISOS, DO CPC - RECURSO DESPROVIDO.
+2. APELAÇÃO (BANCO) - RELAÇÃO DE CONSUMO - SÚMULA Nº 297 DO STJ - TRANSFERÊNCIA DO VALOR EMPRESTADO NÃO COMPROVADA - ÔNUS QUE INCUMBIA AO BANCO - ARTIGOS 6º, INCISO VIII, DO CDC E 373, INCISO II, DO CPC - EXTRATOS BANCÁRIOS JUNTADOS PELA AUTORA QUE NÃO INDICAM O DEPÓSITO NA DATA ALEGADA, O QUE AFASTAA REGULARIDADE DOS DESCONTOS - VEROSSIMILHANÇADA TESE AUTORAL - DANO MORAL EVIDENTE - MONTANTE REPARATÓRIO QUE NÃO COMPORTA AJUSTE- ESPECIFICIDADES DO CASO CONCRETO - DEVOLUÇÃO EM DOBRO DAS QUANTIAS DESCONTADAS DE RIGOR - ARTIGO 42, PARÁGRAFO ÚNICO, DO CDC - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+3. RECURSOS CONHECIDOS E DESPROVIDOS.(e-STJ, fls. 219/226).
+Os embargos de declaração opostos por EUNICE foram rejeitados (e-STJ, fls. 240/242).
+Nas razões do presente recurso, EUNICE alegou a violação aos arts. 85, § 11, do CPC, e da Súmula nº 54 do STJ ao sustentar que (1) o patrono da autora foi diligente ao fundamentar as razões de procedência da ação, sendo de rigor a majoração dos honorários advocatícios arbitrados em primeira instância; (2) em caso de dano moral, os juros de mora devem fluir desde o evento danoso, por se tratar de relação extracontratual.
+Foram apresentadas contrarrazões (e-STJ, fls. 246/252).
+É o relatório.
+Decido.
+O recurso merece prosperar em parte.
+(1) Da majoração dos honorários advocatícios
+Importante consignar por fim que, em relação aos honorários recursais, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil, (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente e (c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Ausente um dos requisitos, não deve ocorrer o aumento da verba sucumbencial (AgInt no AREsp n. 1.508.332/PR, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020).
+No caso, o recurso do BANCO BRADESCO FINANCIAMENTOS S/A (BRADESCO) não foi provido pelo Tribunal estadual, razão pela qual era cabível mesmo a majoração em sede de apelação.
+MAJORO em 5% o valor dos honorários advocatícios em favor de EUNICE, levando em consideração o trabalho desenvolvido pelos patronos dos autores, termos do art. 85, § 11, do NCPC.
+(2) Do termo inicial dos juros de mora
+EUNICE afirmou a violação da Súmula nº 54 do STJ/STF, sustentando que os juros de mora, no tocante a indenização por danos morais, devem incidir desde o evento danoso.
+A jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de enunciado sumular, por não se enquadrar no conceito de lei federal, constante da alínea a do inciso III do art. 105 da CF, nos termos da Súmula nº 518 do STJ.
+Confira-se o seguinte precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS INDICADOS. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA N. 518 DO STJ. TERMO A QUO PARA INCIDÊNCIA DA CORREÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. SÚMULA N. 284 DO STF. INOBSERVÂNCIA DA ISONOMIA PROCESSUAL. FALTA DE PREQUESTIONAMENTO. ACIDENTE DE TRÂNSITO. DANOS MATERIAIS. EXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DAN OS MORAIS. VALOR INDENIZATÓRIO. IMPOSSIBILIDADE DE ANÁLISE DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Não cabe ao STJ apreciar violação de súmula em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, consoante dispõe a Súmula n. 518 do STJ.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284 do STF).
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o reconhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211 do STJ.
+5. A análise das razões apresentadas pela recorrente - quanto à inexistência de provas da queda no interior do coletivo que demonstrem o nexo de causalidade a configurar o dano material - demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial (Súmula n. 7 do STJ).
+6. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+7. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso concreto, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.126.119/RJ, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, sem destaque no original.)
+Dessa forma, quanto ao ponto, o recurso não pode ser conhecido.
+Nessas condições, CONHEÇO EM PARTE o recurso especial e, nesta extensão, DOU PROVIMENTO ao recurso.
+Deixo de majorar o valor dos honorários advocatícios em favor de EUNICE, por já terem sido fixados no limite máximo com o aumento decorrente do provimento parcial deste apelo nobre.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO EM APELAÇÃO. POSSIBILIDADE. CASO EM QUE O RECURSO DO BANCO NÃO FOI PROVIDA PELO TRIBUNAL ESTADUAL. INCIDÊNCIA DO ARTIGO 85, § 11, CPC. 2. JUROS MORATÓRIOS. TERMO INICIAL. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA Nº 518 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PROVIDO.
