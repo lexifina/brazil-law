@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAPÁ, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, que inadmitiu o Recurso Especial, manejado em face de acórdão ementado a fl. 2.233e.
+Não foram opostos Embargos de Declaração.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 4º, §§ 2º e 5º, caput e §3º, da Lei 11.419/2006, aos arts. 188, 231, V, 269, caput, 270, caput, 272, caput, do CPC/2015, assim como ao art. 24 da Lei 8.666/93 e ao art. 10, VIII, da Lei 8.429/92.
+Ocorre que parte da matéria recursal  "definir se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário (in re ipsa)"  foi afetada, nesta Corte, para julgamento segundo o rito dos recursos representativos de controvérsia, previsto no art. 1.036 e seguintes do CPC/2015, nos Recursos Especiais 1.912.668/GO e 1.914.458/PI, todos de relatoria do Ministro HUMBERTO MARTINS, sob o Tema 1.096/STJ.
+Conforme previsto no CPC/2015:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;".
+O art. 256-L, incluído pela Emenda Regimental 24/2016, do Regimento Interno do Superior Tribunal de Justiça, por sua vez, determina que:
+"Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ".
+Assim, o atual posicionamento desta Corte é no sentido de que o Recurso Especial que tenha por objeto questão afetada para julgamento segundo o rito dos recursos repetitivos deve ser devolvido ao Tribunal de origem para que, após publicado o acórdão relativo ao Recurso Representativo da Controvérsia, a irresignação seja apreciada na forma do art. 1.040 do CPC/2015.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. VALIDADE DE CLÁUSULA CONTRATUAL DE PLANO DE SAÚDE COLETIVO QUE PREVÊ REAJUSTE POR FAIXA ETÁRIA.
+TEMA 1016 STJ. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO E DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM. DISTINÇÃO NÃO DEMONSTRADA.
+- Da distinção 1. É imperiosa a suspensão do recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016, quando não demonstrada a distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial afetado.
+- Da devolução dos autos à origem 2. É incabível agravo interno para impugnar a ordem de devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de recurso representativo de controvérsia repetitiva, uma vez que essa decisão não gera prejuízo às partes.
+3. A orientação da Corte Especial é a de que fica a critério de cada relator o envio do apelo nobre à instância de origem para sobrestamento ou mesmo o julgamento do recurso, monocraticamente ou no respectivo Colegiado.
+4. Agravo interno conhecido parcialmente e, nessa parte, não provido" (STJ, AgInt no REsp 1.791.598/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 11/09/2019).
+No mesmo palmilhar, ainda, as seguintes decisões monocráticas, todas do STJ: EDcl nos EDcl no REsp 1.823.408/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 23/09/2020; EDcl no AREsp 1.722.284/SP, Rel. Ministra NANCY ANDRIGHI, DJe de 16/11/2020; EDcl no AREsp 1.705.039/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 29/10/2020.
+Registre-se, por fim, que, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+E, versando o recurso interposto sobre outras questões, diversas da examinada no repetitivo, "caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões" (art. 1.041, § 2º, do CPC/2015).
+Ante o exposto, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o presente recurso: (a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
+ EMENTA
