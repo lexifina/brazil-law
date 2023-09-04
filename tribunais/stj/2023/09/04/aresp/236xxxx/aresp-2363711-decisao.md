@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da aplicação da Súmula n. 7 STJ (e-STJ fls. 1.126/1.128).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.101):
+AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO DE DANOS -DECISÃO DEVIDAMENTE FUNDAMENTADA - OMISSÃO SUPRIDA PELOTRIBUNAL - CUMPRIMENTO DE SENTENÇA - MULTA COMINATÓRIAAFASTADA - CUMPRIMENTO DA OBRIGAÇÃO DEPENDIA DE POSTURA COLABORATIVA INEXISTENTE NOS AUTOS - RECURSO DESPROVIDO.
+1. A decisão recorrida não carece de fundamentação, tendo o magistrado singular exposto, de forma clara e suficiente, os motivos que formaram o seu convencimento, não havendo que se falar em violação ao disposto no art. 93, inciso IX, da Constituição Federal.
+2. A matéria relativa à quitação do financiamento do veículo e baixa do gravame junto ao Detran/ES, para fins de extirpar as astreintes fixadas, já foi objeto de análise por este e. Tribunal de Justiça, quando do julgamento do AI nº 0001793-37.2014.8.08.0049, de relatoria do Des. José Paulo Calmon Nogueira da Gama.
+3. Por ocasião do referido julgado, restou assentado que o cumprimento da obrigação imposta por meio de sentença transitada em julgado dependia de postura colaborativa não adotada pelos ora agravantes, inclusive no tocante ao fornecimento dos documentos necessários à quitação do financiamento bancário, circunstância que afasta a incidência de multa cominatória.
+4. Isto porque, embora a agravada tenha promovido a quitação do financiamento bancário e procedido a baixa do respectivo gravame, após (cinco) anos do trânsito em julgado da sentença, tal providencia poderia ter se efetivado em curto prazo caso os agravantes tivessem colaborado para tanto, conforme determinado pelo magistrado singular.
+5. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 1.103/1.122), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes arts. 93, IX, da CF e 523 e 537 do CPC/2015, insurgindo-se contra a determinação de devolução das astreintes impostas.
+Segundo afirma, "retroagir a decisão para determinar a exclusão das Astreintes já levantadas equivale a revogar a um só tempo a autoridade da coisa julgada, a definitividade da preclusão e por via de consequência o direito a um devido processo legal" (e-STJ fl. 1.116).
+Acrescenta que "a alegada falta de colaboração dos Recorrentes para sustentar a decisão de afastar a incidência da astreinte para o cumprimento da obrigação de fazer, se muito, somente poderia ser aplicada após a juntada do Requerimento da Recorrida 01.02.2011 (fls.398) nunca antes" (e-STJ fl. 1.120).
+No agravo (e-STJ fls. 1.129/1.142), afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Com relação ao art. 93, IX, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 1.092).
+Nota-se, pois, que restou assentado que o cumprimento da obrigação imposta por meio de sentença transitada em julgado dependia de postura colaborativa não adotada pelos ora agravantes, inclusive no tocante ao fornecimento dos documentos necessários à quitação do financiamento bancário, circunstância que afasta a incidência de multa cominatória.
+Isto porque, embora a agravada tenha promovido a quitação do financiamento bancário e procedido abaixa do respectivo gravame, após (cinco) anos do trânsito em julgado da sentença, tal providencia poderia ter se efetivado em curto prazo caso os agravantes tivessem colaborado para tanto, conforme determinado pelo magistrado singular.
+A parte recorrente aponta negativa de vigência aos arts. 523 e 537 do CPC/2015, dispositivos legais que disciplinam o seguinte:
+Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+Art. 537. A multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito.
+Entretanto, ao aduzir violação à referida norma, a parte recorrente assevera que "retroagir a decisão para determinar a exclusão das Astreintes já levantadas equivale a revogar a um só tempo a autoridade da coisa julgada, a definitividade da preclusão e por via de consequência o direito a um devido processo legal" (e-STJ fl. 1.116), tese que não guarda qualquer relação com o dispositivo legal tido por afrontado.
+Neste contexto, observa-se que os referidos dispositivos de lei possuem comandos legais dissociados das razões recursais a eles relacionadas, o que impossibilita a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidente, portanto, a Súmula n. 284/STF.
+Além disso, a insurgência recursal, da maneira como apresentadas pela parte recorrente nas razões do especial - impossibiliade de se determinar a exclusão das astreintes levantadas - não foram prequestionadas pelo Tribunal de origem.
+Além do mais, modificar o entendimento do acórdão impugnado quanto à exclusão da multa cominatória, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
