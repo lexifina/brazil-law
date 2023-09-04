@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por RADICLIN EMPREENDIMENTOS MÉDICOS E HOSPITALARES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 224-225):
+APELAÇÃO. MONITÓRIA. INDEFERIDA INICIAL. INEXISTÊNCIA DE QUASE TÍTULO. PRETENSÃO DE RESTITUIÇÃO DE SINAL. EXAME NECESSÁRIO DA RESCISÃO DO CONTRATO. MANDADO MONITÓRIO INVIÁVEL.
+Pretende o autor seja expedido mandado de pagamento em desfavor das rés, eis que adquiriu produtos, com pagamento de 10% do sinal, e os mesmos não foram entregues. Ingressou com ação monitória.
+A sentença indeferiu a inicial e julgou extinto o processo sem apreciação do mérito, condenando o autor nas custas e honorários. Requer a reforma da sentença e afirma que foi deferida no curso da lide sua gratuidade de justiça.
+Ausência de quase título a permitir a ação monitória que possui rito especial.
+ Não entrega de mercadoria no prazo acordado, bem como solidariedade entre as rés que demanda necessidade de observação do contraditório e da ampla defesa, que não são permitidos na ação monitória. Gratuidade de justiça deferida no curso da lide que deve ser observada no que tange a condenação imposta. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 269-274).
+No recurso especial, alega a agravante ofensa aos arts. 1º, 4º, 6º, 8º e 9º, 700, inciso I, e 702, parágrafos, do CPC, ao se insurgir contra o entendimento do Tribunal de origem, em confirmação da sentença, de que, no caso dos autos, os documentos colacionados pela ora recorrente não possuem caráter de quase título a permitir a distribuição da ação monitória.
+Sustenta, em síntese, a documentação é suficiente para embasar a pretensão monitória em questão, pois trata-se de prova escrita sem eficácia de título judicial hábil a demonstrar o negócio jurídico realizado entre as partes, e que o exercício do contraditório e da ampla defesa no rito da ação monitória é devidamente resguardado ao réu, não havendo que se falar em processamento do pleito pelo rito ordinário comum.
+Suscita divergência jurisprudencial com arestos desta corte.
+Não foram oferecidas contrarrazões ao recurso especial (fl. 321).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 323-327), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo (fl. 366).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender pela inexistência de quase título a embasar a ação rescisória no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 230-235):
+A pretensão do apelante não é de obrigação de fazer para receber os produtos adquiridos, o que permitiria a propositura da ação monitória nos termos do artigo 700 do CPC.
+O que deseja é reaver o valor pago pela entrada o que afasta a possibilidade da ação monitória.
+O apelante não possui um documento que lhe garanta sejam os apelados devedores da quantia que pretende receber eis que não existe no momento documentos aptos a formação do título judicial a seu favor.
+Na verdade o que pretende o apelante é o reembolso do que foi pagode entrada, face ao inadimplemento dos réus na entrega de mercadorias.
+(..)
+Apresenta o apelante tese jurídica sobre a validade do documento de proposta e aceitação, ocorre que não se discute na sentença de inépcia da inicial a validade dos documentos apresentados pelo autor, o que ocorre é que não são aptos a embasar a ação monitória.
+De fato, não é necessária prova robusta como é o entendimento do STJ para embasar a ação monitória, entretanto deve ser observado que a dívida a ser constituída no futuro título não pode ser passível de gerar dúvidas ao juízo de que se pode dispensar o contraditório. No presente caso o contraditório se faz necessário.
+Deve ser observado que sobre a entrega ou não de mercadorias na data aprazada, deve ser permitido aos apelados a apresentação de tese defensiva, e a matéria não permite debate em ação monitória, posto que a determinação inicial já é para pagamento.
+Na verdade a pretensão do autor demanda que seja reconhecida a rescisão do pacto, o que extrapola os limites da estrita cognição na monitória. Isto porque para a expedição do mandado inicial, há de se ter nos autos prova segura da dívida de valor buscada, e no caso presente a questão envolve prévio julgamento a respeito da rescisão contratual, donde inviável a expedição do mandado monitório.
+Note-se que nos documentos colacionados é possível identificar a figura da empresa RTS, entretanto o apelante ingressa com ação monitória em face desta e da empresa hoje, MASSA FALIDA DE INDÚSTRIA MECANO CIENTÍFICA S A, portanto, até quanto a questão sobre a responsabilidade solidária das apeladas deve ser preservado o devido contraditório entre as partes, o que afasta a ação monitória que possui rito especial.
+Desta forma, a ação a ser proposta deve ser de rito comum, a fim de permitir aos apelados o princípio do contraditório e da ampla defesa, o que não é permitido na ação monitória que possui rito especial, e o juiz oportunizou ao apelante que fosse emendada à inicial, entretanto, insistiu com o objetivo de manter a ação monitória.
+Os documentos colacionados pelo apelante desta forma não possuem caráter de quase título a permitir a distribuição da ação monitória.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE PARCELAS PAGAS C/C COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. TEMAS 970 E 971. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 568/STJ. DANOS MORAIS RECONHECIDOS. SÚMULA 7 DO STJ.
+1. Ação de rescisão contratual c/c devolução de parcelas pagas c/c compensação por danos morais 2. Modificar a conclusão do Tribunal de origem implica reexame de fatos e provas.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5.A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. No que se refere à inversão da cláusula penal em favor do consumidor, o Tribunal de origem consignou a possibilidade de aplicação da multa estipulada na cláusula contratual, porquanto embora somente haja sua previsão para o consumidor na hipótese de inadimplemento de suas obrigações.
+7. No presente caso, o Tribunal de origem considerou as peculiaridades no caso concreto para concluir que o fato ultrapassou a esfera dos acontecimentos cotidianos, e que restou configurado o dano moral. Dessa forma, não é possível alterar o entendimento do acórdão recorrido pois demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.196.683/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EMBARGOS INFRINGENTES. APELAÇÃO. FUNDAMENTOS. ACRÉSCIMOS. RESPOSTA DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVAS. VALORAÇÃO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TESTEMUNHA. DEPOIMENTO COMO INFORMANTE. VALOR. SÚMULA Nº 7/STJ. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. CABIMENTO. FECHAMENTO DO NEGÓCIO. RESPONSABILIDADE. AVALIAÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reprodução dos fundamentos expostos no voto da relatora da apelação, por si só, não implica em deficiência de fundamentação, considerando que o tribunal de origem dirimiu as questões postas de forma a alcançar solução unânime à controvérsia.
+3. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, que preceitua caber ao julgador dirigir a instrução probatória através da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+4. Tendo o tribunal de origem formado o seu convencimento nos elementos de provas disponíveis dos autos e indicado os motivos para tanto, a intervenção desta Corte quanto à valoração probatória encontra óbice na Súmula nº 7/STJ.
+5. Não se traduz em nulidade valorar o depoimento de testemunha presumidamente interessada no desfecho da demanda como se prestado por informante, devendo o magistrado lhes atribuir o valor que possam merecer.
+6. Na hipótese, acolher a tese recursal, de que os depoimentos não deveriam ter sido deferidos porque restou incontroverso o interesse dos informantes no litígio, demandaria o revolvimento de fatos e provas dos autos por esta Corte, o que atrai o óbice da Súmula nº 7/STJ.
+7. A comissão de corretagem por intermediação imobiliária é devida se os trabalhos de aproximação realizados pelo corretor resultarem no resultado útil pretendido, qual seja no consenso das partes quanto aos elementos essenciais do negócio.
+8. No caso, rever o entendimento da Corte local, a partir da tese de que o recorrido não foi o responsável pelo fechamento do negócio, exigiria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+9. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+10. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+11. Agravo interno não provido.
+(AgInt no REsp n. 1.973.116/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+An te o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
