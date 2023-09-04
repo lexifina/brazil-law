@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  por ESTRUTURAL MOGI CONSTRUTORA LTDA e OUTROS  contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 466):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO APÓS O DESPROVIMENTO DE DECLATÓRIOS OPOSTOS EM FACE DE DECISÃO MONOCRÁTICA. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. INTERPOSIÇÃO DE SEGUNDO RECURSO DE MESMO TEOR. PRECLUSÃO CONSUMATIVA. AGRAVO DA EMPRESA DESPROVIDO CONFORME PARECER MINISTERIAL.
+A parte embargante alega omissão na decisão, porquanto o pedido de audiência de conciliação apresentado às fls. 1.712/1.724 não foi analisado.
+Afirma que há erro material, bem como contradição na decisão embargada, uma vez que na ementa da decisão consta que os embargos de declaração foram opostos contra decisão monocrática, quando na verdade foram opostos contra acórdão em embargos infringentes e acórdão em embargos de declaração.
+Sustenta, outrossim, que há obscuridade e contradição na decisão embargada em razão de o recurso ter sido desprovido com base em parecer ministerial, mas que tal parecer teria entendido que "o recurso de agravo em recurso especial dos embargantes, atende as exigência da impugnação específica, nos termos da norma regimental e merecendo conhecimento (..)" (fl. 1.741).
+Aduz que há violação do art. 1.026 do Código de Processo Civil, tendo em vista que trata-se de "embargos de embargos de declaração interposto contra decisões distintas, inexistindo, preclusão consumativa, como constou de forma obscura e equivocada na r. decisão ora embargada" (fl. 1.745).
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes.
+Foi apresentada impugnação ao recurso às fls. 1.755/1.761.
+  É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Incialmente, quanto ao pedido para a realização de audiência de conciliação, registro que esse pedido foi feito em petição avulsa e será analisado em decisão específica, não incorrendo a decisão embargada em omissão.
+Quanto ao erro material apontado, observo que assiste razão à parte tão somente no que diz respeito ao fato de os embargos de declaração terem sido opostos contra acórdão e não contra decisão monocrática.
+No que concerne à contradição, embora o parecer do Ministério Público tenha entendido que o recurso merecia conhecimento, concluiu o Parquet que no mérito o recurso não merecia prosperar (fls. 1.703/1.706), não havendo contradição na decisão embargada que julgou o recurso desprovido, conforme parecer ministerial.
+Em relação aos demais vícios apontados, a decisão embargada consignou o seguinte (fl. 1.729):
+11. O presente Recurso Especial não pode ser conhecido. Isso, porque, consoante expresso no aresto recorrido, os embargantes dirigiram seu recurso não contra o acórdão prolatado nos primeiros embargos declaratórios, mas, sim, contra a decisão precedente (acórdão que julgou os embargos infringentes), objeto da declaração, matéria essa que já estava preclusa, ao menos para o manejo desse recurso integrativo.
+12. Com efeito, é assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade.13. Isso, porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último". (STJ, EDv no AgInt nos EAREsp 955.088/RS, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 13/9/2018.)
+Constato, portanto, que o inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. O que se vê é uma tentativa de renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. RESPONSABILIDADE CIVIL DA UNIÃO. OMISSÃO. INEXISTÊNCIA. ANISTIA. PERQUIRIÇÃO DA NULIDADE DA PORTARIA INTERMINISTERIAL 122/2000. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp n. 1.608.546/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2020, DJe de 24/11/2020 - sem destaques no original.)
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos infringentes, para corrigir erro material na ementa da decisão de fls. 1.726/1.727 para que se leia "acórdão", em vez de "decisão monocrática".
+Publique-se. Intimem-se.
+EMENTA
