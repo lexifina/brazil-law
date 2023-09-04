@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidente do STJ, proferida às fls. 364-366, que não conheceu do agravo, uma vez que o agravante não impugnou o fundamento da decisão de inadmissibilidade do recurso especial.
+Nas razões do agravo interno, a parte agravante sustenta que, ao contrário do que restou decidido, impugnou o fundamento da decisão agravada, "através dos argumentos lançados em sede de Recurso Especial, restou devidamente demonstrada a violação aos 150, incisos I e IV, da Constituição Federal, bem como o artigo 161, §1º do CTN, e artigo 52, §1º do CDC." (fl. 371).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, em suas razões recursais, o agravante argumenta que, ao contrário do consignado na decisão agravada, impugnou da decisão de inadmissão através dos argumentos lançados em sede de Recurso Especial, restando "devidamente demonstrada a violação aos 150, incisos I e IV, da Constituição Federal, bem como o artigo 161, §1º do CTN, e artigo 52, §1º do CDC" (fl. 371).
+Ocorre que a Vice-Presidência do Tribunal Regional Federal da 3ª Região inadmitiu o recurso especial por entender que o acórdão encontra-se em sintonia com a jurisprudência do Superior Tribunal de Justiça e, além disso, a matéria em debate é de competência do STF, o que afasta, na via especial do apelo especial, a competência do STJ. A propósito, confira (fls. 337-339):
+ ..
+No que concerne à aplicação da taxa SELIC, e alegada contrariedade ao art. 161, §1º, do CTN e ao art. 52, §1º, do CDC, a Corte Superior, no julgamento do REsp 879.844/MG, pela sistemática dos recursos repetitivos (Tema 199 dos Recursos Repetitivos), consolidou o entendimento no sentido de ser legítima a sua utilização como índice de correção monetária e juros de mora dos débitos do contribuinte para com a Fazenda Pública.
+ ..
+Ainda, no tocante às apontadas inconstitucionalidades por ofensa ao art. 150, I, II e IV, da Constituição , o Recurso Especial se revela via inadequada para a impugnação da questão, já que o Superior Federal Tribunal de Justiça tem jurisprudência pacificada no sentido de que o Recurso Especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar pretensas , sob pena, inclusive, de usurpação da competência do Supremo violações da Constituição Federal Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+O agravante, por sua vez, nas suas razões do agravo em recurso especial, sustenta que (fls. 345-349):
+ ..  o venerável acórdão contêm trechos totalmente contrários à legislação vigente e, em sede de Recurso Especial, foram apontadas todas estas divergências. Por tal razão, o recurso especial apresentado não poderia ser inadmitido, principalmente no tocante à temática relacionada à Taxa SELIC e multas, bem como a inconstitucionalidade da contribuição para o SAT.
+Ora, Nobres Julgadores, observa-se que o Egrégio Tribunal deixou de levar em consideração que a Contribuição para o Seguro Acidente de Trabalho realizada pelo Fisco é inconstitucional e omissa.
+Isso porque, a Lei n.º 8.212/91, em seu art. 22, II, não indica quais são os elementos essenciais e necessários para a definição da hipótese de sua incidência, o que fere o princípio da estrita legalidade, contido no art. 150, II da CF e art. 97 do CTN.
+Desse modo, ante a ausência de lei determinando a abrangência das expressões contidas no art. 22, II, da Lei n.º 8.212/91, não é possível o seu recolhimento.
+Excelência, verdade seja, os decretos editados para conceituar as atividades preponderantes, não se limitaram a regulamentar a Lei n.º 8.212/91, mas, na verdade, definiram os sujeitos passivos da SAT, invadindo a competência que é reservada à lei.
+Destarte, somente a lei tem aptidão de fixar os elementos de hipótese de incidência, e, não sendo essa exaustiva, não tem o condão de exercer tal mister, havendo a necessidade da edição de lei para tanto.
+Nobres Julgadores, depreende-se que a estipulação do critério quantitativo por meio de decreto simboliza manifesta ilegalidade, havendo nítida ofensa aos ditames legais e processuais, o que macula a exigibilidade para o recolhimento da contribuição para o Seguro Acidente do Trabalho, com base na Lei n.º 8.212/91, que sequer estabeleceu o conceito de atividade preponderante.
+Isto posto, data vênia, deve-se afastar o entendimento perpetuado no referido acórdão, haja vista não haver lei determinando a abrangência das expressões contidas no art. 22, II, da Lei n.º 8.212/91, não sendo possível a exigência quanto ao recolhimento da contribuição.
+Ademais, restou demonstrado em sede de Recurso Especial, no tocante a (não) aplicação da taxa Selic, que a união se utilizou de fórmulas e critérios que não refletem o valor a ser pago.
+Isso porque, foram incluídos não somente os créditos tributários efetivamente devidos, mas também valores agregados, relativos à atualização monetária e juros - SELIC, bem como multa moratória, elevando, de sobremaneira, e de forma abusiva e ilegal.
+ ..
+Por esses motivos, é imperioso que a multa, quando aplicada ao débito, torna-se abusiva, inconstitucional, devendo ser reduzida a patamares razoáveis e limitados à legalidade.
+Diante das considerações expostas nas razões recursais, no entender da Agravante foram violados os artigos 150, incisos I e IV, da Constituição Federal, bem como o artigo 161, §1º do CTN, e artigo 52, §1º do CDC.
+Desta feita, uma vez que o egrégio Tribunal Regional Federal da 3ª Região, não obstante demonstradas as ofensas mediante o manejo de Recurso Especial, insistiu em não desconsiderar os pleitos suscitados, alternativa não há, senão interpor o presente Agravo em Recurso Especial, a fim de que os dispositivos de lei federal que respaldam o direito dos recorrentes sejam devidamente apreciados.
+Por isso, é incabível a rejeição do recurso especial interposto, sob argumento de que não restou demonstrada nenhuma vulneração. Fato é que a Agravante apontou devidamente as vulnerações legais ocorridas, conforme se observa nas razões de recurso especial apresentadas.
+Assim, evidencia-se que o agravante, de fato, não impugnou o fundamento de que o acórdão recorrido encontra-se em sintonia com a jurisprudência do Superior Tribunal de Justiça e que a matéria em debate é de competência do STF, o que afasta a competência do STJ, descumprindo, assim, ao comando do artigo 932, III, do CPC/2015. Diante disso, correta, portanto, a decisão agravada que não conheceu do agravo em recurso especial, por ausência de impugnação específica aos fundamentos de inadmissibilidade do recurso especial.
+Por fim, registra-se que a impugnação específica aos fundamentos da decisão de inadmissão do recurso especial feita somente em sede de agravo interno, o que não é o caso, não deve ser considerada, porque, além de preclusa a oportunidade, caracteriza indevida inovação recursal.
+Neste sentido: AgInt no AREsp 1.269.651/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/12/2018; AgInt no AREsp 1.160.531/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/03/2019; AgInt no AREsp 1.542.694/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/05/2020; e AgInt nos EDcl no AREsp 1.844.217/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/02/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
