@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRO ROBERTO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos Embargos de Declaração na Apelação Criminal n. 1500638-38.2019.8.26.0407.
+Consta nos autos que o Agravante foi condenado, em primeiro grau de jurisdição, às penas de 4 (quatro) meses de detenção, no regime inicial semiaberto, e 2 (dois) dias-multa como incurso no art. 129, § 9.º, do Código Penal, em continuidade delitiva. Isso porque ofendeu a integridade corporal da ex-companheira, causando-lhe lesões corporais de natureza leve.
+O recurso de apelação do Sentenciado foi desprovido pelo Tribunal estadual.
+Os embargos de declaração opostos ao julgado foram rejeitados.
+Nos autos do AREsp 224.659/SP concedi de ofício habeas corpus a fim de anular o julgamento dos embargos de declaração e, por conseguinte, determinar que fosse proferido pelo Tribunal de origem, porque quando do julgamento do recurso integrativo, não examinou a omissão apontada pela Defesa, qual seja, a de que a condenação baseou-se apenas em provas não judicializadas.
+No dia 23/07/2023, o julgamento foi renovação, sendo os aclaratórios rejeitados em acórdão assim ementado (fls. 20):
+"EMBARGOS DE DECLARAÇÃO - REFAZIMENTO DA DECISÃO POR DETERMINAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - RENOVAÇÃO DA ASSERTIVA DE QUE O PRESENTE RECURSO ORDINÁRIO VEM MANEJADO COMO NÍTIDA TENTATIVA DE REAVIVAR DEBATE SOBRE O MÉRITO - EXPIAÇÃO LANÇADA EM SOLO POLICIAL RATIFICADA EM AUDIÊNCIA, APESAR DO ESFORÇO DOS ENVOLVIDOS NOS FATOS EM TENTAR MINIMIZAR A CONDUTA DO INFRATOR REINCIDENTE E O LIVRAR DO ENCARCERAMENTO - EMBARGOS DE DECLARAÇÃO REJEITADOS."
+Afirma o Impetrante que o acórdão transitou em julgado na data de 13/07/2023, contudo (fl. 7):
+"Mais uma vez o Tribunal de Justiça de São Paulo, quando julga pela segunda vez os Embargos de Declaração, fls. 384/390, não examina as omissões apontadas pela Defesa, qual seja, a de que a condenação se baseou apenas em provas não confirmadas em sede Judicial, sob o crivo do contraditório e do devido processo legal.
+Assim, "dada máxima vênia", a flagrante ilegalidade da decisão permanece, bem como a nulidade deste processo."
+Requer, assim, liminarmente e no mérito, o reconhecimento da nulidade.
+Subsidiariamente busca sobrestar a execução da pena até o julgamento deste writ.
+É o relatório. Decido.
+O HC n. 849.320/SP foi impetrado, em favor do ora Paciente, contra o acórdão que julgou novamente os embargos de declaração defensivos, alegando que a sentença condenatória está amparada tão somente em elementos informativos, contrários aos produzidos na instrução criminal, portanto insuficientes para demonstrar a prática do delito imputado.
+Indeferi liminarmente o HC n. 849.320/SP porque manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte, ressaltando não haver flagrante ilegalidade que imponha a concessão da ordem de ofício, pois para acolher a pretensão absolutória seria necessário incursionar verticalmente no conjunto probatório, providência de todo incompatível com a célere e estreita via eleita.
+Conta essa decisão a Defesa interpôs agravo regimental, pendente de julgamento. Na sequência, impetrou este writ, atacando o mesmo acórdão precipuamente com os mesmos argumentos de que a condenação baseou-se apenas em provas não judicializadas.
+Friso que, ao contrário do que alega o Impetrante, não há vício de fundamentação no julgado impugnado, o qual expressamente afirma que "a prova produzida em solo policial não foi derruída sob o crivo do contraditório" (fl. 22), já que embora a vítima e as testemunhas, filhos dela e do Paciente, tenham tentado minimizar a conduta do agressor na fase judicial, há prova produzida sob o crivo do contraditório suficiente para a condenação.
+Este habeas corpus, assim, é mera reiteração de pedido anterior, apreciado em decisão que ainda não transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus ou recurso ordinário em habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade da impetração, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC n. 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC n. 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM PROCESSO CONEXO (HC N. 849.320/SP). IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
