@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Artur Gomes Brambila contra o acórdão do Tribunal de Justiça de Minas Gerais no julgamento do HC n. 1.0000.23.141056-4/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, convertida em preventiva pelo Juízo da Vara Criminal da comarca de Muriaé/MG, nos Autos do APF n. 5005751-81.2023.8.13.0439, posteriormente apensados nos Autos do Inquérito Policial n. 0006694-86.2023.8.13.0439, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (tráfico de drogas e associação para o mesmo fim), após ser surpreendido, juntamente com outros 5 agentes, mantendo em depósito o total de 195 papelotes de cocaína, pesando 169,06 g; 3 tabletes e 27 buchas de maconha, pesando 88,93 g.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, conforme acórdão acostado às fls. 194/204.
+No presente recurso, a defesa alega a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito.
+Destaca as condições pessoais favoráveis do recorrente.
+Requer que seja concedida a liberdade provisória ao recorrente, mediante condições a serem estabelecidas pelo Juízo singular.
+Sem pedido liminar.
+O Ministério Público Federal, às fls. 241/244, opinou pelo desprovimento do recurso.
+É o relatório.
+Estou de pleno acordo com a opinião manifestada pelo Subprocurador-Geral da República Luciano Mariz Maia, in verbis (fls. 242/244 - grifo nosso):
+ ..
+Não há ilegalidade a justificar o provimento do recurso ordinário.
+Eis a fundamentação do acórdão recorrido, in litteris:
+ ..
+Outrossim, a decisão vergastada apontou os requisitos do artigo 312, do CPP - materialidade e indícios de autoria nas declarações dos policias militares, e ainda a necessidade de resguardar a Ordem Pública devido à conduta do paciente que teria sido apontado como gerente do tráfico naquela localidade, e ainda que estaria associado aos demais para a comercialização de drogas, sendo que durante o cumprimento dos mandados de buscas e apreensões foram apreendias além de drogas, certa quantia em dinheiro, e ainda segundo a MM. Juíza, sua conduta é potencializada pela possibilidade de reiteração delitiva porque é reincidente específico.
+ ..
+Assim, a gravidade concreta ressai dos fatos e é potencializada pela possibilidade de reiteração delitiva.
+A despeito de a quantidade de droga apreendida na posse direta do paciente ter sido pouca - 8,84g de maconha, as circunstâncias fática da prisão denotam a gravidade concreta, pois foi deflagrada uma operação policial com indicativos de que o paciente estaria associado aos demais para o tráfico de drogas, na qualidade de gerente naquela localidade, e para tanto, foram expedidos vários mandados de buscas que ao total apreenderam significativa quantidade de drogas diversas, uma delas de natureza altamente lesiva. Os laudos toxicológicos preliminares atestaram que as drogas se tratam de 135 papelotes de cocaína (111,66 g), 60 papelotes de cocaína (57,40 g), 1 tablete de maconha (8,84 g), 27 buchas de maconha (54,26 g) e 2 tabletes de maconha (25,83 g).
+Ressalte-se que o risco de reiteração criminosa, alicerçado em elementos de convicção que delineiam a gravidade concreta do injusto e a periculosidade do agente, legitimam a decretação da medida de exceção.
+Somando-se ainda o requisito de admissibilidade do artigo 313, inciso I, do Código de Processo Penal, eis que se trata de imputação de crime doloso punido com pena privativa de liberdade superior a 04 anos.
+Neste contexto, denota-se a necessidade da medida de exceção, repito, ante a gravidade concreta dos fatos potencializada pelo estado de perigo gerado pela liberdade do paciente - reincidência. Por conseguinte, as medidas cautelares são insuficientes ao caso.
+ A liás, o STF e STJ têm entendido que a gravidade concreta do delito, evidenciada pelo modus operandi criminoso e a possibilidade de reiteração delitiva são fundamentos idôneos a sustentar a prisão cautelar, ao contrário do que aduz o impetrante. (fls. 197/201 e-STJ)
+Como se vê, o acórdão recorrido demonstrou à saciedade a presença dos pressupostos e requisitos da prisão preventiva.
+As circunstâncias da prática criminosa, em especial, a existência de informação de que o paciente seria o gerente do tráfico de drogas na localidade, a apreensão de consideráveis quantidades de drogas, de naturezas diversas - 135 papelotes de cocaína (111,66 g), 60 papelotes de cocaína (57,40 g), 1 tablete de maconha (8,84 g), 27 buchas de maconha (54,26 g) e 2 tabletes de maconha (25,83 g) -, somadas à reincidência específica, indicando o risco efetivo de reiteração delitiva, justificam a medida cautelar como forma de garantir a ordem pública.
+ ..
+Realmente, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo, ainda, entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Ademais, conforme reiterado entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, 24/5/2022).
+Em casos semelhantes já se manifestou esta Corte Superior, confiram-se: AgRg no RHC n. 175.898/SP, de minha Relatoria, Sexta Turma, DJe 26/5/2023; e AgRg no HC n. 798.508/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/8/2023.
+Nesse contexto, não verifico, portanto, a existência de flagrante ilegalidade no acórdão recorrido.
+Ante o exposto, com base no parecer e nos precedentes, nego provimento ao recurso em habeas corpus.
+Pu blique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTOS IDÔNEOS. CIRCUNSTÂNCIAS DA CONDUTA CRIMINOSA. GERENTE DO TRÁFICO. QUANTIDADE E DIVERSIDADE DE ENTORPECENTES APREENDIDOS (169,06 G DE COCAÍNA E 88,93 G DE MACONHA). RISCO DE REITERAÇÃO DELITIVA. REINCIDENTE ESPECÍFICO. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO.
+Recurso em habeas corpus desprovido.
