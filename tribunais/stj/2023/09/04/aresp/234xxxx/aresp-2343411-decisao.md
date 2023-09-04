@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial de JONAS FERREIRA DA CRUZ (JONAS), pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo (TJSP), relator DONEGÁ MORANDINI, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.
+Insurgência contra a r. decisão que rejeitou a impugnação à penhora de ativos financeiros. Não acolhimento. Ausência de nulidade na decisão que, ao rejeitar a impugnação ao cumprimento de sentença, determina, de ofício, o início de atos executórios. Aplicação do artigo 139, IV, do CPC.
+Determinação da penhora, ademais, que não infringiu a ordem de preferência descrita no artigo 835, do CPC e não causou prejuízo processual ao agravante. Impenhorabilidade de conta poupança. Inadmissibilidade. Relativização da interpretação do artigo 833, X, do CPC. Movimentação que denota a desvirtuação da finalidade da conta poupança, usada de forma análoga à conta corrente, o que viabiliza a constrição de valores nela constantes para atender à intenção do legislador. Compensação de crédito. Impossibilidade.
+Somente podem ser invocados, para fins de compensação, os créditos adquiridos após à prolação da sentença executada. Aplicação do artigo 525, §1º, VII, do CPC.
+DECISÃO MANTIDA. AGRAVO DESPROVIDO. (e-STJ, fl. 32)
+Irresignado, JONAS interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 833, X, e 854 do CPC; e 368 do CC arguindo que (1) não admitida a penhora dos valores inferiores a 40 (quarenta) salários-mínimos depositados em de conta poupança (2) a penhora não poderia ter sido realizada sem que houvesse requerimento expresso dos exequentes (e-STJ, fl. 51) (3) sendo recorridos e recorrente devedores uns dos outros, cabível a compensação e a extinção recíproca de obrigações (e-STJ, fl. 54).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 75/76).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) penhora de valores
+O Tribunal de origem, ao julgar o agravo de instrumento, concluiu ser cabível a penhora, assim se pronunciando:
+ ..  não prospera a alegação de impenhorabilidade de ativos financeiros, por aplicação do artigo 833, X, do CPC, que, in casu, deve ter sua interpretação relativizada.
+Embora a conta bancária bloqueada tenha a denominação de "poupança", a circulação de valores em um curto período de tempo (com a realização de saques e transferências) revela a desnaturação desta função, mediante uso análogo a de uma conta corrente (cf. fls. 201-207 dos autos de origem), o que viabiliza a constrição, pois aplicar a regra de impenhorabilidade desafiaria a intenção precípua do legislador, que objetivou proteger o pequeno poupador. (e-STJ, fl. 34)
+Da atenta leitura do trecho acima transcrito observa-se que a Corte de origem não fez qualquer referência à quantia depositada em conta poupança, limitando-se a interpretar a possibilidade de penhora em razão do tipo de movimentação realizada pelo devedor. Tampouco, foram opostos embargos de declaração para suprir eventual omissão. Esclareça-se que, mesmo as matérias de ordem pública, para que sejam discutidas na via especial, exigem o devido prequestionamento. Incidem, no pontoo, os óbices das Súmulas nºs 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREJUDICIALIDADE EXTERNA. SUSPENSÃO. PRAZO LIMITE. CPC/2015, ART. 313, § 4º. EXTRAPOLAÇÃO. RETOMADA DO CURSO PROCESSUAL. ILEGITIMIDADE. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS N. 282 E 356/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Ultrapassado o prazo previsto no art. 313, § 4º, do CPC/2015 (com equivalência no art. 265, § 5º, do CPC/1973) deve o processo retomar seu curso, ainda que subsista relação de prejudicialidade com outra demanda ainda em trâmite.
+1.1. Com efeito, " n em o art. 265, IV, a, do CPC/73, sequer o art. 313, V, a, do NCPC, se referem sobre suspensão do processo até o julgamento "definitivo" ou o "trânsito em julgado" da questão prejudicial externa, mas tão só ao "julgamento de outra causa (..)", sendo certo que " a  determinada suspensão do processo para o aguardo de julgamento de prejudicialidade externa tem natureza apenas provisória, tanto assim que o Código de Processo Civil anterior (art. 265, § 5º) e também o atual (art. 313, § 4º), foram claros em dizer que na hipótese a suspensão nunca poderá exceder 1 (um) ano, donde resulta certa a desnecessidade de se aguardar o trânsito em julgado da questão dita prejudicial" (REsp n. 1.817.729/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/6/2022, DJe de 23/6/2022).
+2. Sobre a cogitada ilegitimidade ativa, o tema não foi objeto de exame pelo TJ local, carecendo o recurso, no ponto, do necessário prequestionamento (súmulas n. 282 e 356/STF), requisito exigível ainda que se trate de matéria de ordem pública. Precedentes.
+3. O recurso especial não comporta o reexame de elementos fático-probatórios dos autos. Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.359.593/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+(2) necessidade de requerimento expresso (3) compensação
+Ao analisar os citados pontos, o TJSP assim concluiu:
+ ..  rechaça-se a nulidade arguida pelo agravante, pois não se vislumbra qualquer arbitrariedade na decisão que, ao rejeitar a impugnação ao cumprimento de sentença, determina, de ofício, o início dos atos executórios. E foi exatamente o que ocorreu na decisão proferida a fls. 98-99 dos autos de origem.
+A conduta do Magistrado tem supedâneo no artigo 139, IV, do CPC, que dispõe: "O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: (..) IV - Determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária.".
+Ademais, a determinação da penhora de ativos financeiros, por meio do sistema SISBAJUD, obedeceu à ordem de preferência estabelecida no artigo 835, do CPC, não causando prejuízo processual ao agravante, o que confirma a inexistência de nulidade.
+ ..
+Por fim, não assiste razão ao agravante quanto à tese de compensação de crédito, porquanto a hipótese não se subsome ao artigo 525, §1º, VII, do CPC, que preconiza: "Na impugnação, o executado poderá alegar: (..) VII - qualquer causa modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que supervenientes à sentença." Com efeito, não se ignora o crédito do agravante, entretanto, ele decorre de nota promissória datada de 30-01-2014 (cf. fls. 87 dos autos de origem), anterior, portanto, à constituição do título judicial aqui debatido, constituído por sentença datada de 13-11-2018 (cf. fls. 05-28 dos autos eletrônicos), e, por isso, não pode ser invocado com a finalidade de extinguir a obrigação.
+Como corolário lógico, afasta-se a alegação de excesso e execução, que tinha por fundamento a redução do crédito excutido pela aplicação do instituto da compensação. (e-STJ, fls. 33/35)
+Observando-se os trechos acima citados observa-se que a Corte estadual utilizou como fundamento o disposto nos arts. 139, IV, e 525, §1º, VII, do CPC razões não impugnadas no especial, que sequer trouxe arguição de afronta aos citados dispositivos legais.
+Incidente, portanto, o óbice da Súmula nº 283 do STF, a qual determina que É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+Nessas condições, CONHEÇO o agravo para NÃO CONHECER o recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA ONLINE. ALEGAÇÃO DE IMPOSSIBILIDADE EM RAZÃO DO VALOR DEPOSITADO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STJ. DESNECESSIDADE DE REQUERIMENTO EXPRESSO. NÃO CABIMENTO DE COMPENSAÇÃO. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA Nº 283 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
