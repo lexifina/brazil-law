@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  pelo  MINISTÉRIO  PÚBLICO  FEDERAL,  com  fundamento  no  artigo  105,  inciso  III,  alínea  a,  do  permissivo  constitucional.
+Consta  dos  autos  que  o  recorrido  foi  condenado  pela  prática  do  delito  descrito  no  artigo  18  da  Lei  n.  10.826/2003,  à  pena  de  04  (quatro)  anos  de  reclusão,  em  regime  inicial  aberto,  e  de  pagamento  de  10  (dez)  dias-multa.  A pena corporal foi substituída por penas restritivas de direitos  (fls.  410/437).
+O  Tribunal  de  origem,  por  unanimidade,  negou  provimento  ao  recurso  da  Defesa,  mas concedeu a ordem de habeas corpus, de  ofício,  para  desclassificar  a  conduta  do  réu  para  contrabando, fixando a reprimenda em 02 (dois) anos de reclusão, com readequação das penas restritivas de direitos.  (fls.  559/560).
+Nas  razões  do  presente  recurso  especial  (fls.  570/580),  o  Parquet Federal  sustenta  violado  o  art.  18  da  Lei  n.  10.826/2003,  porquanto  "(..)  a  despeito  da  quantidade  de  armas  de  fogo,  acessórios  ou  munição,  o  Superior  Tribunal  de  Justiça  se  posiciona  pela  impossibilidade  de  desclassificação  do  crime  previsto  no  artigo  18  da  Lei  n.  10.826/2003  para  outro  tipo  penal,  em  respeito  ao  princípio  da  especialidade."  (fl.  578).
+Assoma-se  que  "(..)  a  existência  de  norma  específica  regulando  determinada  infração  penal  constitui  circunstância  impeditiva  de  desclassificação  da  conduta  para  outro  tipo  criminal."  (fl.  579).
+O  recurso  foi  admitido  na  origem  (fl.  591).
+O  Ministério  Público  Federal  opinou  pelo  provimento  da  insurgência  (fls.  613/616).
+É  o  relatório.  DECIDO.
+A  controvérsia  consiste  na  aplicação  do  princípio  da  especialidade  quanto  ao  delito  previsto  no  art.  18  do  Estatuto  do  Desarmamento.
+Por  oportuno,  transcrevo  os  fundamentos  lançados  no  acórdão  recorrido  (fls.  553/555,  grifei):
+"Este  Tribunal  vem  entendo  ser  possível,  excepcionalmente,  a  desclassificação  do  crime  do  art.  18  da  Lei  nº  10.826/2003  para  o  delito  previsto  no  art.  334-A  do  Código  Penal  quando  a  quantidade  de  munições  for  considerada  diminuta  e  inexistir  outros  elementos  que  indiquem  maior  potencialidade  lesiva  da  conduta  -  como  a  internalização  de  outros  acessórios,  de  munições  de  diversos  calibres  ou  de  uso  proibido,  acompanhada  de  arma  de  fogo,  entre  outras  circunstâncias  casuísticas.
+ ..
+  No  caso  concreto,  entendo  que  a  importação  de  50  (cinquenta)  munições  calibre  .380  -  de  uso  permitido  e  desacompanhada  de  outros  acessórios  -,  melhor  se  enquadra  no  disposto  artigo  334-A,  §  1º,  inciso  II  do  CP,  que  tem  a  seguinte  redação:
+ ..
+  Nestes  termos,  não  se  pode  falar,  no  caso  concreto,  em  tráfico  de  munições,  impondo-se  a  desclassificação  dos  fatos  narrados  na  denúncia  do  delito  do  art.  18  da  Lei  nº  10.826/2003  para  o  delito  do  art.  334-A,  §  1º,  II  do  CP."
+Incorreto o acórdão recorrido, pois, na linha da jurisprudência desta Corte Superior de Justiça, o Estatuto do Desarmamento é lei específica aplicável ao caso concreto, não sendo possível a desclassificação do crime de importar munição, conforme disposto do art. 18 da Lei n. 10.826/2003, para a conduta de contrabando, prevista no art. 334 do Código Penal, tal qual entendeu o Tribunal de origem.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE MUNIÇÕES. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. NÃO OCORRÊNCIA. CISÃO PROCESSUAL. POSSIBILIDADE. DOSIMETRIA. AUMENTO DO QUANTUM DE REDUÇÃO PELA TENTATIVA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DESCLASSIFICAÇÃO PARA O CRIME DE CONTRABANDO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. É inviável o pleito de desclassificação para o delito de contrabando, pois, independentemente da quantidade de munições apreendidas no caso, a conduta do réu, tal como descrita pelas instâncias ordinárias, insere-se perfeitamente naquela descrita no art. 18 da Lei n. 10.826/2003, de modo que deve prevalecer, em razão da aplicação do princípio da especialidade, na esteira da compreensão firmada por esta Corte.
+5. Agravo regimental não provido." (AgRg no AREsp n. 1.961.566/RS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023, grifei).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE MUNIÇÕES. DESCLASSIFICAÇÃO PARA O CRIME DE CONTRABANDO. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA ESPECIALIDADE. RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a introdução de munições em território nacional, sem autorização da autoridade competente, tem tipificação específica no estatuto do desarmamento, motivo pelo qual descabe a sua desclassificação para o crime de contrabando, em observância à aplicação do princípio da especialidade.
+2. Agravo regimental improvido." (AgRg no REsp n. 1.428.477/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 2/4/2018).
+Dessa forma, estando o acórdão prolatado pelo Tribunal de origem em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n.º 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, parágrafo §4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, para afastar a desclassificação estabelecida no Tribunal de origem.
+Publique-se.  Intime-se.
+EMENTA
+PENAL.  PROCESSO  PENAL.  RECURSO  ESPECIAL.  TRÁFICO  INTERNACIONAL  DE  ARMAS/MUNIÇÕES.  ART.  18  DA  LEI  N.  10.826/2003.  RECURSO  MINISTERIAL.  DESCLASSIFICAÇÃO  DA  CONDUTA  PARA  O  CRIME  DE  CONTRABANDO  PELO  TRIBUNAL  DE  ORIGEM.  IMPOSSIBILIDADE.  APLICAÇÃO  DO  PRINCÍPIO  DA  ESPECIALIDADE.  SÚMULA  N.º 568, STJ.  RECURSO  ESPECIAL  PROVIDO.
