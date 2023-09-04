@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MARIANE JOSAPHAT, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"ADMINISTRATIVO. DIREITO DO ESTRANGEIRO. LEI DE MIGRAÇÃO. TERRITÓRIO NACIONAL. INGRESSO. REUNIÃO FAMILIAR. VISTO. DISPENSA. IMPOSSIBILIDADE. ATO ADMINISTRATIVO. PRERROGATIVA DO PODER EXECUTIVO. DISCRICIONARIEDADE. PRINCÍPIOS DA LEGALIDADE E ISONOMIA.
+1. É vedado ao Poder Judiciário invadir as atribuições e substituir ato próprio do Poder Executivo, responsável pela concessão de visto para entrada e permanência no território nacional de estrangeiros, interferência que só se justificaria em caso de comprovada ilegalidade, que não se verifica no caso dos autos.
+2. A autorização de ingresso de estrangeiros no Brasil, sem a observância do mínimo de exigências que venham a proporcionar a avaliação e decisão por parte das autoridades, como assim previsto tanto na Lei 13445/17 quanto no Dec. 9.199/17, viola o princípio da isonomia, pois permite a burla da fila existente dentre todos aqueles que assim pretendem" (fl. 414e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. arts.1º, 2º, 21 da Lei 9.474/94, assim como 37 da Lei 13.445/2017, sustentando o seguinte:
+"A legislação brasileira, mais uma vez, reforça a possibilidade de visto ou autorização de residência para fins de reunião familiar. De fato, não faz qualquer sentido permitir que um integrante da família tenha a oportunidade de reinício de sua vida no Brasil e, ao mesmo tempo, negar que sua própria família tenha a mesma oportunidade, o que se revela em tortura psicológica.
+Pois bem, conforme relatado, o Haiti é um Estado que sofre não apenas com uma crise econômica, mas também humanitária, o que foi agravado no ano de 2010, em razão de um terremoto, que tornou a situação ainda mais dramática.
+Assim, no ano de 2012,a legislação brasileira criou, por meio da Resolução 97 do Conselho Nacional de Imigração, o visto humanitário:
+(..)
+A legislação brasileira prevê, em sua Lei de Migração (Lei nº 13.445/97), a garantia ao direito à reunião familiar (arts. 3º, inciso VIII e 4º, inciso III). O visto temporário poderá ser concedido aos que desejam a reunião familiar (art. 14, inciso I, alínea i). Além disso, a reunião familiar também permite ao migrante a autorização de residência (art.30 inciso I, alínea i).
+O art. 37 da lei supracitada, que trata da reunião familiar, determina:
+(..)
+Ademais, embora os Estados, no âmbito do Direito Internacional, tenham o poder soberano de regular a entrada de não-nacionais, o Brasil permite a entrada de haitianos em seu território.
+(..)
+Assim, a decisão recorrida deve ser reformada, e autorizar a entrada da requerente no Estado Brasileiro, sem a necessidade de visto neste momento, o que poderá ser providenciado posteriormente (fls. 434/435e).
+Por fim, requer "seja conhecido e provido o presente recurso, com fulcro na alínea "a" do inciso III do artigo 105 da Constituição Federal de 1988, para reformar a decisão do Tribunal a quo e reconhecer a necessidade urgente de autorizar o ingresso, no território brasileiro, por via aérea, sem necessidade de visto, para reunião familiar em prazo razoável" (fl. 436e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 488/489e).
+A irresignação não merece prosperar.
+Quanto aos dispositivos apontados como violados, aplica-se o teor da Súmula 284 do STF, tendo em vista que a parte recorrente não desenvolveu, nas razões do Recurso Especial, argumentos para demonstrar de que modo tais dispositivos foram violados.
+Na forma da jurisprudência desta Corte, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+No mais, a Corte de origem, ao analisar a controvérsia, assim se manifestou:
+"Entretanto, o procedimento para o ingresso de estrangeiros no Brasil, ainda que sob fundamento de acolhida humanitária ou reunião familiar, em caráter temporário, encontra disciplina na Lei nº 13445/17, regulamentada pelo Dec. n. 9.199/17.
+Se por um lado existe um aspecto humanitário que merece a proteção do Estado, por outro existe um procedimento mínimo a ser observado, seja para que atendidos os requisitos exigidos na legislação, seja em respeito a todos aqueles que buscam também o ingresso em território brasileiro.
+E, tratando-se de ato administrativo, não pode ser afastado aquele mínimo de exigências que venham a proporcionar a avaliação e decisão por parte das autoridades, como assim previsto tanto na Lei n. 13445/17 quanto no Dec. n. 9.199/17.
+Em consequência, excetuado caso de flagrante ilegalidade, o que não ocorre, não poderia o Judiciário avançar para invadir as atribuições e substituir ato próprio do Poder Executivo, autorizando o ingresso de estrangeiros no Brasil, seja porque seriam desconsiderados aqueles requisitos mínimos exigidos para a concessão de visto, como já previstos na legislação referida, a ser objeto de consideração pelas autoridades do Poder Executivo, seja porque estaria sendo burlada a fila existente dentre todos aqueles que assim pretendem, com evidente interferência na política migratória brasileira" (fl. 417e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
+EMENTA
