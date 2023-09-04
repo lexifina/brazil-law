@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREPARO. GUIA DE RECOLHIMENTO. AUSÊNCIA DE JUNTADA SIMULTÂNEA COM O COMPROVANTE DE PAGAMENTO DAS CUSTAS RECURSAIS. APRESENTAÇÃO POSTERIOR DA GUIA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante asseverado na decisão agravada da Presidência do Superior Tribunal de Justiça, o STJ consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados, simultaneamente, das Guias de Recolhimento da União (GRU) devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. Na hipótese dos autos, a petição de interposição do recurso especial foi instruída apenas com a prova de quitação, ausente a GRU (fls. 217/218).
+3. Considera-se deserto o recurso especial interposto sem a comprovação do preparo mediante a apresentação conjunta dos comprovantes de pagamento das custas processuais e das respectivas guias de recolhimento da União. Incidência da Súmula 187/STJ.
+4. Ressalto, por fim, que "a jurisprudência assente desta Corte Superior é no sentido de que a intimação para complementação do preparo somente é admitida quando pago o valor de forma insuficiente, e não por ausência das guias de recolhimento, como no caso dos autos, por operada a preclusão consumativa" (AgRg no REsp n. 1.562.615/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/11/2017, DJe de 27/11/2017).
+5. Agravo a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por HERON OLIVEIRA LIMA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu de seu agravo em virtude da incidência da Súmula 187 do Superior Tribunal de Justiça (fls. 256/257).
+A parte agravante alega que "o conhecimento do Agravo Interno é medida que se impõe, a uma porque houve pagamento do preparo dentro do prazo concedido devidamente comprovado pelo comprovante de pagamento acostado, a duas porque o comprovante contém informações suficientes para conferir o real pagamento da guia de preparo recursal e a três porque, ainda que entendesse o Tribunal de origem pelo não recolhimento tempestivo das custas, é dever intimar a parte para realizar o recolhimento em dobro, conforme artigo 1.007, §4º do Código de Processo Civil" (fl. 268).
+Requer,  desse modo, a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+Impugnação apresentada às fls. 278/282.
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREPARO. GUIA DE RECOLHIMENTO. AUSÊNCIA DE JUNTADA SIMULTÂNEA COM O COMPROVANTE DE PAGAMENTO DAS CUSTAS RECURSAIS. APRESENTAÇÃO POSTERIOR DA GUIA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante asseverado na decisão agravada da Presidência do Superior Tribunal de Justiça, o STJ consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados, simultaneamente, das Guias de Recolhimento da União (GRU) devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. Na hipótese dos autos, a petição de interposição do recurso especial foi instruída apenas com a prova de quitação, ausente a GRU (fls. 217/218).
+3. Considera-se deserto o recurso especial interposto sem a comprovação do preparo mediante a apresentação conjunta dos comprovantes de pagamento das custas processuais e das respectivas guias de recolhimento da União. Incidência da Súmula 187/STJ.
+4. Ressalto, por fim, que "a jurisprudência assente desta Corte Superior é no sentido de que a intimação para complementação do preparo somente é admitida quando pago o valor de forma insuficiente, e não por ausência das guias de recolhimento, como no caso dos autos, por operada a preclusão consumativa" (AgRg no REsp n. 1.562.615/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/11/2017, DJe de 27/11/2017).
+5. Agravo a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A decisão ora recorrida não conheceu do agravo devido à incidência da Súmula 187/STJ, pois a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+É dever da parte, quando da interposição do recurso especial, juntar as guias de recolhimento devidamente preenchidas, acompanhadas com os respectivos comprovantes de pagamento, sob pena de deserção e não conhecimento do recurso, nos termos da Súmula 187/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. PAGAMENTO. COMPROVAÇÃO. AUSÊNCIA. DESERÇÃO. PARTE RECORRENTE. RESPONSABILIDADE EXCLUSIVA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser essencial à comprovação do preparo a juntada da guia de recolhimento com o respectivo comprovante de pagamento, no ato da interposição do recurso especial, sob pena de deserção.
+3. A comprovação tempestiva do pagamento do preparo e do cumprimento das determinações legais impostas, no ato da interposição do recurso, é de responsabilidade exclusiva da parte recorrente.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.956.914/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 03/STJ.INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. NÃO ATENDIMENTO INTEGRAL NO PRAZO. INDICAÇÃO EQUIVOCADA DO RECURSO INTERPOSTO. DESERÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o recurso deve estar acompanhado das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+2. Na hipótese dos autos, a petição de recurso ordinário em mandado de segurança foi protocolada sem o recolhimento do preparo. Intimada nesta Corte Superior para realizar o recolhimento em dobro do preparo recursal, tendo em vista o indeferimento da gratuidade de justiça, a parte recorrente deixou de apresentar tempestivamente a guia de recolhimento das custas devidas ao STJ de forma correta.
+3. "A falha na realização do preparo, de responsabilidade exclusiva do recorrente, não pode ser relevada, sob pena de ofensa ao princípio constitucional da isonomia, tendo em vista que a correção na realização desse procedimento é igualmente exigida de todos os recorrentes."
+4. Agravo interno não provido. (AgInt no RMS n. 65.787/MT, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+Não há que se falar em cerceamento de defesa no presente caso, pois foi dada à parte agravante a oportunidade de sanar o vício, com a abertura do prazo de 5 (cinco) dias após o indeferimento do pedido da gratuidade da justiça (fls. 211/212). Porém, o recorrente não cumpriu a exigência, juntando a destempo apenas o comprovante de pagamento sem a guia de recolhimento (fls. 215/218).
+Ressalto, por fim, que "a jurisprudência assente desta Corte Superior é no sentido de que a intimação para complementação do preparo somente é admitida quando pago o valor de forma insuficiente, e não por ausência das guias de recolhimento, como no caso dos autos, por operada a preclusão consumativa" (AgRg no REsp n. 1.562.615/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/11/2017, DJe de 27/11/2017).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
