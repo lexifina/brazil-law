@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ GOMES DE MESQUITA e JANE PANTOLLA DE MESQUITA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 279):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTAS PROMISSORIAS VENCIDAS E NÃO PAGAS. SENTENÇA DE EXTINÇÃO DO FEITO, E, POR CONSEQUÊNCIA, TORNANDO INSUBSISTENTES AS PENHORAS EFETIVADAS NOS AUTOS, ANTE A AUSÊNCIA DE TÍTULO HÁBIL A APARELHAR A EXECUÇÃO. MATÉRIA JÁ DECIDA EM RECURSO DISTRIBUIDO ANTERIORMENTE EM ACORDÃO TRANSITADO EM JULGADO PELA 19ª CC QUE DECIDIU PELA VALIDADE DO TITULO. VIOLAÇÃO DA COISA JULGADA. ERROR IN PROCEDENDO. ANULAÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSO PROVIDO.
+Opostos embargos de declaração, foram acolhidos, sem alteração do mérito (e-STJ, fls. 309-314). Os segundos aclaratórios foram rejeitados (e-STJ, fls. 328-332).
+Nas razões do recurso especial (e-STJ, fls. 334-350), os insurgentes alegaram violação aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC/2015; 75 e 76 da LUG; e 889 do Código Civil.
+Sustentaram, preliminarmente, a ocorrência de negativa de prestação jurisdicional, porque o colegiado de origem não se manifestou sobre as suas alegações concernentes à suposta falta de data de emissão nas notas promissórias discutidas nos autos, o que seria indispensável para a exequibilidade dos referidos títulos.
+No mérito, defenderam, em síntese, a inexequibilidade dos títulos que aparelharam a ação executiva, tendo em vista a ausência do requisito essencial da nota promissória relativo à data de emissão.
+Contrarrazões apresentadas (e-STJ, fls. 360-363).
+O Tribunal estadual não admitiu o recurso especial, o que levou os insurgentes à interposição de agravo.
+Contraminuta às fls. 488-501 (e-STJ).
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem, no que diz respeito aos requisitos das nota promissórias discutidas nos autos para embasar a demanda executiva, assim dispôs (e-STJ, fls. 312-313):
+De fato, verifico que o presente recurso merece, em parte, prosperar, tendo em vista omissão existente no julgado, uma vez que não houve manifestação sobre a alegação de que as notas promissórias que escudam a execução não se revestem dos requisitos necessários à instauração do feito executivo.
+Sabe-se que os elementos essenciais da nota promissória estão elencados no art. 75 da Lei Uniforme de Genebra sobre Nota Promissória e Letra de Câmbio (Decreto nº 57.663/66), a saber:
+Art. 75. A nota promissória contém: 1. denominação "nota promissória" inserta no próprio texto do título e expressa na língua empregada para a redação desse título;
+2. a promessa pura e simples de pagar uma quantia determinada;
+3. a época do pagamento;
+4. a indicação do lugar em que se efetuar o pagamento;
+5. o nome da pessoa a quem ou à ordem de quem deve ser paga;
+6. a indicação da data em que e do lugar onde a nota promissória é passada; 7. a assinatura de quem passa a nota promissória (subscritor).
+Do mesmo modo, o próprio artigo 76 da LUG deixa claro acerca das hipóteses de essencialidade ou não dos requisitos indicados no art. 75, estabelecendo as hipóteses de supressão admitidas na lei.
+Confira-se:
+Art. 76 - O título em que faltar algum dos requisitos indicados no artigo anterior não produzirá efeito como nota promissória, salvo nos casos determinados das alíneas seguintes.
+A nota promissória em que não se indique a época do pagamento será considerada pagável à vista. Na falta de indicação especial, lugar onde o título foi passado considera-se como sendo o lugar do pagamento e, ao mesmo tempo, o lugar do domicílio do subscritor da nota promissória.
+A nota promissória que não contenha indicação do lugar onde foi passada considera-se como tendo-o sido no lugar designado ao lado do nome do subscritor.
+Assim, verifica-se do art. 76 da Lei Uniforme de Genebra que são requisitos não essenciais da nota promissória: a data do vencimento, o lugar do pagamento e o lugar de emissão, cuidando a própria lei de suprimir eventuais omissões contidas no título.
+No caso dos autos, nota-se que o título que embasa a presente execução, anexado aos autos às fls. 13, atende aos requisitos essenciais estabelecidos na legislação.
+A então parte embargante, por sua vez, nas razões dos declaratórios, apontou a ocorrência de omissão no julgado acima referido, ao argumento de que não houve análise pelo colegiado local especificamente quanto à suposta ausência de indicação da data de emissão nas notas promissórias discutidas nos autos, ao argumento de que tal requisito formal é essencial à validade dos títulos (e-STJ, fls. 317-321):
+Demonstrada a tempestividade, cabe visualizar que, embora providos em parte os embargos para sanar, manteve-se inalterado o mérito do julgado ou acórdão pretérito, por entender, em síntese, que a ausência de indicação da data do vencimento, o lugar do pagamento e o lugar da emissão não constituem requisitos essenciais da cambial, por força do art. 76 da Lei Uniforme.
+Entretanto, data venia, tais temas jamais restaram suscitados nos embargos de fls. 284-294, pois o que se alegou foi que as promissórias, que aparelham a execução às fls. 13 e 14, acham-se em desalinho com as disposições contidas na Lei Uniforme de Genebra  arts. 75  item 6 e 76 do Decreto 57.663/66 , bem como da Lei Civil  art. 889 do Código Civil , haja vista não conterem a data de emissão, sendo cediço que a falta de indicação da data de emissão constitui requisito essencial à constituição da nota promissória.
+(..)
+Consequentemente, salta aos olhos que o ataque à inexequibilidade das cambiais pautou-se na deficiência da data de emissão das notas promissórias e não quanto a ausência de emissão do lugar ou data de vencimento, sendo despiciendo realçar quanto a extrema relevância de tal terna para solução da lide, que não foi ainda apreciado, certo, ademais, que sem superá-los com motivação explícita, esta E. Câmara não poderia manter as conclusões alinhadas nos acórdãos de fls. 279-282 e 310-314.
+(..)
+Destarte, requerem os embargantes sejam os presentes embargos recebidos e providos, a fim de que, suprido o ponto omisso ora focado, haja um pronunciamento quanto inexequibilidade das cambiais que aparelham a execução ante a ausência da data de emissão das notas promissórias, para efeito de prequestionamento ou negativa de vigência às disposições contidas na Lei Uniforme de Genebra  arts. 75  item 6 e 76 do Decreto 57.663/66 , bem como da Lei Civil  art. 889 do Código Civil .
+No julgamento dos aclaratórios, o colegiado local, reconhecendo inexistirem vícios no julgado embargado concernentes à matéria, limitou-se a reiterar a conclusão vertida no aresto combatido (e-STJ, fls. 328-332).
+Efetivamente, ao julgar os referidos embargos, constata-se que a Corte de origem não se pronunciou a respeito da alegada ausência de indicação da data de emissão nas notas promissórias discutidas nos autos, hipótese que caracteriza ofensa ao art. 1.022 do CPC/2015.
+Desse modo, tendo em vista que o referido tema foi oportunamente suscitado pela parte recorrente, o Tribunal local deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas. Nesse contexto, a persistência na omissão, diante da rejeição dos embargos de declaração sem apreciação de questões jurídicas relevantes, deu azo à violação do art. 1.022 do CPC/2015.
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação da referida questão alegada pela parte então embargante.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos. Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgInt no AREsp 1.624.710/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 07/06/2021, DJe 09/06/2021)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp n. 1.908.213/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 18/05/2021, DJe 20/05/2021)
+Em face do reconhecimento da apontada nulidade por negativa de prestação jurisdicional, fica prejudicada, por ora, a apreciação das demais teses apresentadas pela parte recorrente.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015..
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. ALEGADA AUSÊNCIA DE DATA DE EMISSÃO NA CÁRTULA. QUESTÃO OPORTUNAMENTE SUSCITADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
