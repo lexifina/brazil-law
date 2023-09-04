@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO. AÇÃO INDENIZATÓRIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Cabível a incidência da Súmula n. 284/STF na hipótese em que não há indicação dos dispositivos legais que seriam objeto de divergência jurisprudencial.
+2. É necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, quando da interposição de recurso especial fundado na alínea c do permissivo constitucional,
+3. Agravo interno desprovido.
+RELATÓRIO
+COVEMA SERVIÇOS COMERCIAIS LTDA. interpõe agravo interno contra a decisão de fls. 171-174, que conheceu do agravo para não conhecer do recurso especial com base na Súmula n. 284 do STF.
+A parte agravante ratifica o conteúdo meritório do recurso. Sustenta que procedeu ao devido cotejo analítico entre os acórdãos tidos por dissidentes no apelo extremo.
+Requer o provimento do presente recurso.
+A parte agravada apresentou impugnação ao referido recurso (fls. 191-195).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO. AÇÃO INDENIZATÓRIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Cabível a incidência da Súmula n. 284/STF na hipótese em que não há indicação dos dispositivos legais que seriam objeto de divergência jurisprudencial.
+2. É necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, quando da interposição de recurso especial fundado na alínea c do permissivo constitucional,
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada, proferida pela Presidenta, ser mantida por seus próprios fundamentos, a saber (fls. 172-174):
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.616.851/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt no AREsp 1.518.371/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/5/2020; AgInt no AREsp 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp 1.023.256/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/4/2020; e AgInt nos EDcl no AREsp 1.510.607/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º/4/2020.
+Ademais, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o paradigma indicado, não bastando, portanto, a mera transcrição de ementas ou votos.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório". (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 05/04/2019.)
+Ainda nesse sentido: "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal". (AgInt no REsp n. 1.903.321/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/03/2021.)
+Confiram-se também os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020; AgInt no AREsp n. 1.568.037/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/05/2020; AgInt no REsp n. 1.886.363/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/04/2021; AgRg no REsp n. 1.857.069/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 05/05/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Conforme restou devidamente assentado, a parte agravante deixou de indicar os dispositivos legais que seriam objeto de divergência jurisprudencial, o que enseja a incidência da Súmula n. 284 do STF.
+Reafirma-se que, para interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição de trechos dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
