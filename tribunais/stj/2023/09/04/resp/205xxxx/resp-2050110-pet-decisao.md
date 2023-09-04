@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de petição de fls. 386/388, apresentada por Paulo Henrique Miguel, em que requer o reconhecimento da prescrição da pretensão punitiva e a consequente declaração de extinção da punibilidade.
+Afirma que a pretensão punitiva já está prescrita, na modalidade retroativa, porquanto transcorrido o prazo de 4 anos (prazo prescricional correspondente para pena inferior a 2 anos) entre a data do fato e a data do recebimento da denúncia.
+Ao final, requer a declaração da extinção da punibilidade pela ocorrência da prescrição.
+Devidamente intimado, o requerido não apresentou manifestação sobre o pedido (fl. 398).
+É o relatório.
+Decido.
+Extrai-se dos autos que, após o provimento do recurso especial do requerente, por decisão de minha relatoria, sua pena foi reduzida a 1 ano e 8 meses de reclusão, e 166 dias-multa (fls. 370/375). Tal decisão não foi objeto de recurso, como se verifica à fl. 383. Dessa forma, o prazo a ser considerado para fins de prescrição no caso é aquele previsto no art. 109, V, do Código Penal, ou seja, 4 anos.
+Cumpre observar que, no caso, não se aplica a atual redação do art. 110, § 1º, do Código Penal, tendo em vista que a Lei n. 12.234/2010, que lhe conferiu o atual texto, entrou em vigor somente em 5/5/2010, ou seja , após a prática do delito em análise, 16/3/2010 (fl. 3). Aplicável, portanto, a prescrição da pretensão punitiva retroativa na espécie.
+Nesse sentido:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. JULGAMENTO PROFERIDO NO AGRG NO HC N. 176.473/RR PELO PLENÁRIO DO STF. DATA DOS FATOS ANTERIOR A LEI 12.234/2010. DECURSO DO PRAZO PRESCRICIONAL ENTRE DATA DOS FATOS E RECEBIMENTO DA DENÚNCIA. PRESCRIÇÃO RETROATIVA RECONHECIDA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Em relação à violação dos artigos 5º, incisos II, LIV, LVII e LXXVIII, 6º, caput e 144, da Constituição Federal, não cabe ao STJ, na via especial, a análise de ofensa de dispositivos constitucionais, ainda que com o objetivo de prequestionamento, visando à interposição do apelo extraordinário, sob pena de haver a usurpação de competência do Supremo Tribunal Federal.
+2. Pacífico era o entendimento desta Corte Superior no sentido de que o acórdão que confirma a condenação, ainda que majore ou reduza a pena, não constitui marco interruptivo da prescrição. Precedentes.
+3. O Plenário do STF, no recente julgamento do AGRG no HC n. 176.473/RR, ocorrido em 27/4/2020, firmou a tese no sentido de que, nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentado a pena anteriormente imposta.
+4. Tendo os últimos fatos ocorridos em janeiro de 2000, antes da entrada em vigor da Lei n. 12.234/2010, aplica-se a antiga redação do art. 110, §1º, do CP, que autoriza a aplicação da prescrição retroativa entre a data do fato e o recebimento da denúncia. Assim, deve ser mantida a ocorrência da prescrição, pois, entre a data dos últimos fatos (janeiro/2000) e o recebimento da denúncia (junho/2009), passaram mais de 4 anos, levando-se em consideração a pena concreta aplicada.
+5. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para declarar que o acórdão confirmatório interrompe a prescrição, mantendo a extinção da punibilidade do envolvido, em razão da ocorrência da prescrição retroativa.
+(EDcl no AgRg no AREsp n. 1.625.691/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/6/2020 - grifo nosso).
+Dessa forma, verifica-se que entre a data do fato, 16/3/2010, e a data do recebimento da denúncia, 26/10/2017 (fls. 162/163), marcos interruptivos aplicáveis ao caso, transcorreu mais de 4 anos. A pretensão punitiva encontra-se, portanto, prescrita.
+Ante o exposto, defiro o pedido para declarar extinta a punibilidade do requerente com relação ao delito processado nestes autos, ante a ocorrência da prescrição da pretensão punitiva na modalidade retroativa.
+Publique-se.
+EMENTA
+PETIÇÃO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MODALIDADE RETROATIVA APLICÁVEL AO CASO. DELITO PRATICADO ANTES DA ENTRADA EM VIGOR DA LEI N. 12.234/2010. PENA INFERIOR A 2 ANOS. PRAZO PRESCRICIONAL TRANSCORRIDO. EXTINÇÃO DA PUNIBILIDADE DECLARADA.
+Pedido deferido para declarar extinta a punibilidade nos termos do dispositivo.
