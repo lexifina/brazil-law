@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por LILLIAM COELHO DE SOUZA LIBERATO SERRA e OUTROS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurgem contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+EMBARGOS INFRINGENTES. DEVOLUÇÃO DE VALORES RECEBIDOS POR FORÇA DE TUTELA ANTECIPADA POSTERIORMENTE REVOGADA. POSSIBILIDADE.
+1. Embora possibilite a fruição imediata do direito material, a tutela antecipada não perde a sua característica de provimento provisório e precário, daí porque a sua futura revogação acarreta a restituição dos valores recebidos em decorrência dela.
+2. "É firme a jurisprudência do STJ no sentido de que os valores indevidamente pagos por força de decisão judicial liminar posteriormente revogada são passíveis de devolução. 2. Agravo regimental a que se nega provimento." (AgRg no AREsp4 0. 007/SC, Rel. Ministro T EORI ALBI NO ZAVASCKI , PRIMEIRA TURMA, julgado em10/04 /2012, DJe 16/04 /2012. ) (fl. 324).
+Os embargos de declaração opostos foram rejeitados (fls. 239/240).
+Em suas razões recursais, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 535, II, do CPC/1973; 5º, caput e incisos XXXVI, XXXIX e XL, 6º da Constituição Federal; 186 do Código Civil; 468 do CPC/1973; 1º e 2º do Decreto 20.910/1932; 54 da Lei 9.784/1999; 161, § 1º e 167 do CTN e 20 §§ 3º e 4º do CPC. Sustenta, em síntese, os seguintes pontos: a) ocorrência de negativa de prestação jurisdicional; b) a impossibilidade de devolução dos valores recebidos por decisão judicial precária, por se tratar de verba alimentar (benefício previdenciário); c) ocorrência da prescrição das parcelas anteriores a 17/7/2004.
+A parte adversa apresentou contrarrazões (fls. 422/439).
+Foi proferida decisão pelo Ministro Napoleão Nunes Maia Filho determinando o retorno dos autos ao Tribunal de origem, para que lá aguardasse o julgamento do Tema Repetitivo 692/STJ (fls. 502/504).
+O Tribunal de origem negou seguimento ao recurso especial quanto ao Tema 692/STJ e determinou a remessa dos autos ao STJ, nos termos do art. 1.041 do CPC, quanto ao remanescente (fl. 518/519).
+É o relatório.
+Inicialmente, registro que a matéria de mérito, relativa à devolução de valores pagos em decorrência de decisão judicial de natureza precária, não será objeto de apreciação em virtude da negativa de seguimento do recurso especial às fls. 518/519, fundada no art. 1.040, I, do CPC/2015 (Tema 692/STJ), contra a qual não houve insurgência.
+A pretensão recursal não merece prosperar.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 535 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+Em relação à prescrição e decadência, o Tribunal de origem assim se manifestou:
+Prescrição e decadência
+Como bem afirmou a embargante, aplica-se, in casu, o prazo prescricional de cinco anos, nos termos do Decreto nº. 20.910/32 e da Lei nº. 9.784/99. Entretanto, a prescrição não passou a fluir da data por ela indicada.
+Tendo em vista o princípio da actio nata (art. 189, CC), o nascedouro da pretensão da embargada não se deu com o pagamento dos proventos, mas com o próprio trânsito em julgado do acórdão que reformou a sentença de primeiro grau. De fato, se a União busca restituir-se ao estado anterior à execução provisória, e tal pretensão não existia antes da decisão do STJ, não há como reconhecer a prévia fluência do prazo prescricional.
+Por isso, a prescrição passou a correr do acórdão denegatório da segurança, pois apenas a partir de então passou a existir o potencial direito da embargada. Assim, considerando que entre o trânsito em julgado daquele decisum (11/12/2006) e o ajuizamento desta ação(16/07/2009) não transcorreu o prazo quinquenal, deixo de reconhecer a prescrição argüida (fl. 199).
+O acórdão recorrido concluiu pela não ocorrência da prescrição, tendo em vista a aplicação do princípio da actio nata, pelo que considerou como termo inicial do prazo o trânsito em julgado do acórdão denegatório da segurança, ou seja, em 11/12/2006.
+A peça recursal, todavia, não se insurge contra esse fundamento, limitando-se a afirmar que seria o caso de aplicação do prazo prescricional quinquenal, devendo ser reconhecida a prescrição dos valores anteriores a 17/7/2004.
+Inafastável, assim, a incidência, por analogia, da Súmula 283/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
