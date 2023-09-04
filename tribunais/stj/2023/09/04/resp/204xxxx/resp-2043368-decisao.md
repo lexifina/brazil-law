@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por JOAQUIM VIEIRA DOS SANTOS FILHO, manejado em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+"PREVIDENCIÁRIO. RMI. MAJORAÇÃO DO TETO DOS SALÁRIOS DE CONTRIBUIÇÃO. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. DECADÊNCIA. INOCORRÊNCIA. EFEITOS RETROATIVOS. POSSIBILIDADE. TERMO INICIAL. ACESSÓRIOS.
+Caso em que se pretende a revisão do benefício de aposentadoria concedida em 02.11.89, a fim de se adequar o valor da renda mensal inicial aos tetos limites introduzidos nas EC 20/98 e EC 41/2003, respectivamente;
+Não se há falar de prazo decadencial, previsto no art. 103, da Lei nº 8.213/91 e/ou prescrição do fundo de direito, pois não se pretende atacar ato "in concreto" praticado administrativamente, mas a majoração do valor do salário de benefício em conformidade com as alterações trazidas pela nova legislação;
+O STF já firmou posicionamento do sentido de que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14, da EC 20/98 e 41/2003 aos benefícios previdenciários limitados ao teto do regime geral da previdência estabelecido antes da vigência dessas normas, de modo que passem a observar ao novo teto constitucional";
+Constatando-se nos autos que a RMI da aposentadoria em questão restou por ser limitada ao teto vigente à época da concessão do benefício, conforme documentação trazida pelo próprio INSS, é devida aplicação dos novos limites previstos nas emendas constitucionais elencadas;
+O termo inicial dos efeitos da condenação deve retroagir aos cinco últimos anos anteriores ao ajuizamento da presente demanda, tal como já reconhecido na sentença;
+A atualização monetária das parcelas em atraso deve ser realizada segundo os critérios estabelecidos no Manual de Cálculos da Justiça Federal e fixados os juros de mora em 0,5% ao mês, a partir da citação;
+Os honorários advocatícios, em casos deste jaez, devem ser fixados no importe de 2.000,00 (dois mil reais), ajustando-se ao disposto no § 4º, do art. 20, do CPC de 1973, vigente à época do ajuizamento da demanda;
+Apelação do INSS e do particular desprovidas e remessa oficial parcialmente provida" (fl. 186e).
+Opostos Embargos de Declaração, pelo INSS, foram eles rejeitados.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta violação ao art. 103, parágrafo único, da Lei 8.213/91, sustentando que "o Superior Tribunal de Justiça, no julgamento do REsp Nº 1.604.455/RN (2016/0149649-2), Ministro Humberto Martins, DJE de 14/06/2016, definiu que, como a Ação Civil Pública nº 0004911-28.2011.4.03.6183 foi proposta em 05.05.2011, restam prescritas as diferenças vencidas anteriormente a 05.05.2006" (fl. 287e).
+Por fim, "requer-se a admissão e processamento do presente recurso, a fim de que a Corte Superior se manifeste, pacificando a controvérsia acima apontada, para cassar o julgado recorrido, nos termos requeridos" (fl. 290e).
+O Recurso especial foi admitido na origem
+A irresignação não merece acolhida.
+A questão relativa à "fixação do termo inicial da prescrição quinquenal, para recebimento de parcelas de benefício previdenciário reconhecidas judicialmente, em ação individual ajuizada para adequação da renda mensal aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003, cujo pedido coincide com aquele anteriormente formulado em ação civil pública" restou decidida pelo STJ, sob o rito dos julgamentos repetitivos, nos Recursos Especiais 1.761.874/SC, 1.766.553/SC e 1.751.667/RS, firmando-se a tese de que, "na ação de conhecimento individual, proposta com o objetivo de adequar a renda mensal do benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003 e cujo pedido coincide com aquele anteriormente formulado em ação civil pública, a interrupção da prescrição quinquenal, para recebimento das parcelas vencidas, ocorre na data de ajuizamento da lide individual, salvo se requerida a sua suspensão, na forma do art. 104 da Lei 8.078/90" (Tema 1.005/STJ).
+Assim, não merece reforma o acórdão recorrido, sob tal aspecto.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
+ EMENTA
