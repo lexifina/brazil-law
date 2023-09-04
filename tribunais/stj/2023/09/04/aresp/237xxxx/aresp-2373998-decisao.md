@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e de demonstração da ofensa aos artigos de lei indicados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 428/430).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 386):
+REEXAME. Interposição contra decisão que afastou decadência. Afastada, pelo STJ, decisão monocrática que não conheceu de agravo de instrumento. Defeito no sistema ar condicionado de empreendimento hoteleiro, em que a requerida tinha ciência dos problemas, se comprometendo a sanar irregularidades. Termo de entrega e recebimento provisório, firmado em 2016, com ressalva quanto a pendência na instalação de ar condicionado. Entremostra- se que não houve entrega definitiva, considerando que parece que o problema não foi solucionado até o ajuizamento da demanda, motivo pelo qual não se pode falar em termo inicial do prazo decadencial. Decisão mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 396/399).
+No recurso especial (e-STJ fls. 401/415), fundamentado no art. 105, III, "a" , da CF, a recorrente aduziu ofensa:
+(i) aos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, e
+(ii) ao art. 618, parágrafo único, do CC/2002, pois a Corte local teria ignorado a consumação do prazo decadencial de 180 (cento e oitenta) dias a contar a da ciência do vício do imóvel, a fim de a adquirente postulasse a rescisão contratual e a restituição das quantias pagas.
+Ao final, requereu a concessão de efeito suspensivo ao recurso.
+Foram apresentadas contrarrazões (e-STJ fls. 420/427).
+No agravo (e-STJ fls. 433/447), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 450/457).
+É o relatório.
+Decido.
+Não assiste razão à recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo deixou claros os motivos pelo quais afastou a decadência sustentada pela empresa recorrente. Confira-se (e-STJ fl. 387):
+Trata-se de agravo contra decisão copiada a fls. 74/77, que, em ação de rescisão contratual com pedido de devolução de valores, afastou a prejudicial de mérito de decadência, considerando que a requerida tinha inequívoca ciência dos problemas nos sistemas de ar condicionado, se comprometendo a sanar referidas irregularidades.
+Inconformada, a agravante alega, em síntese, que há exclusivamente pedido de natureza constitutiva negativa, qual seja, resolução do instrumento de promessa de compra e venda e consequente devolução de valores. Portanto, aplica-se o prazo decadencial de 180 dias previsto no artigo 618, parágrafo único, do Código Civil. O termo inicial do prazo é a ciência do vício pela autora, o que ocorreu em 21/03/2019, quando o assunto foi discutido em Assembleia Geral Ordinária. Assim, o prazo terminou em 18/09/2019, mas a ação somente foi distribuída em 02/12/2019. Ademais, o prazo decadencial não está sujeito a interrupção ou suspensão. Requer a concessão de efeito suspensivo ao recurso e a reforma da decisão, reconhecendo-se a decadência do direito autoral.
+Em que pese a argumentação da agravante, consta que desde a entrega do empreendimento, surgiram vícios que prejudicam o sistema de ar condicionado, problema que era do conhecimento da ré Odebrecht, constando no termo de entrega e recebimento provisório firmado em 21/06/2016 (fls. 130/158 dos autos de origem) ressalva quanto a existência de pendências na instalação do ar condicionado.
+Assim, em relação ao sistema de ar condicionado, entremostra-se que não houve entrega definitiva, considerando que o problema parece não ter sido solucionado até o ajuizamento da demanda, motivo pelo qual não se pode falar em termo inicial do prazo decadencial. Em consequência, correta a decisão do Juízo a quo, que deve ser mantida. Ante o exposto, nega-se provimento ao recurso.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+O TJSP assentou que não decaiu o direito de a parte recorrida postular a rescisão contratual com a restituição das quantias pagas, mesmo a causa de pedir sendo o inadimplemento imputado à empresa recorrente.
+No entanto, conforme o entendimento desta Corte Superior, "aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual. 2. Não havendo na lei regra limitando o tempo para a decadência do direito de promover a resolução do negócio, a ação pode ser proposta enquanto não prescrita a pretensão de crédito que decorre do contrato" (AgInt no REsp n. 1.955.059/SC, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/4/2022, DJe de 3/5/2022).
+E ainda, "prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos na obra. Com a redução do prazo prescricional realizada pelo novo Código Civil, referido prazo passou a ser de 10 (dez) anos. Assim, ocorrendo o evento danoso no prazo previsto no art. 618 do Código Civil, o construtor poderá ser acionado no prazo prescricional acima referido" (AgRg no Ag n. 1.208.663/DF, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/11/2010, DJe 30/11/2010).
+Na mesma linha:
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E COMPENSAÇÃO DE DANOS MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO ADEQUADA. DEFEITOS APARENTES DA OBRA. METRAGEM A MENOR. PRAZO DECADENCIAL. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO À PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL.
+1. O propósito recursal é o afastamento da prejudicial de decadência em relação à pretensão de indenização por vícios de qualidade e quantidade no imóvel adquirido pelos consumidores.
+(..)
+4. Quando, porém, a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se a prazo de prescrição.
+5. À falta de prazo específico no CDC que regule a pretensão de indenização por inadimplemento contratual, deve incidir o prazo geral decenal previsto no art. 205 do CC/02, o qual corresponde ao prazo vintenário de que trata a Súmula 194/STJ, aprovada ainda na vigência do Código Civil de 1916 ("Prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos na obra").
+6. Recurso especial conhecido e provido.
+(REsp n. 1.717.160/DF, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/3/2018, DJe 26/3/2018.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. VÍCIOS DE CONSTRUÇÃO. PRAZO. GARANTIA. PRESCRIÇÃO. PRAZO. DEZ ANOS. CLÁUSULA DE RESERVA DE PLENÁRIO.
+1. "O prazo de cinco (5) anos do art. 1245 do Código Civil, relativo à responsabilidade do construtor pela solidez e segurança da obra efetuada, é de garantia e não de prescrição ou decadência. Apresentados aqueles defeitos no referido período, o construtor poderá ser acionado no prazo prescricional de vinte (20) anos" (REsp 215832/PR, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 06/03/2003, DJ 07/04/2003, p. 289).
+2. Prescreve em vinte anos a ação para obter, do construtor, indenização por defeito da obra, na vigência do Código Civil de 1916, e em 10 anos, na vigência do Código atual, respeitada a regra de transição prevista no art. 2.028 do Código Civil de 2002.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.344.043/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2013, DJe 4/2/2014.)
+Por conseguinte, não há falar em incidência do prazo decadencial do art. 618, parágrafo único, do CC/2002, mas sim na aplicação da prescrição decenal do art. 205 do CC/2002 para a compradora postular a resolução contratual e a restituição dos valores pagos, pois a causa de pedir da demanda é o inadimplemento contratual imputado à recorrente (mau funcionamento do sistema de ar condicionado do imóvel).
+Desprovido o recurso, descabe cogitar de efeito suspensivo.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
