@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 492):
+DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITOS. Pretensão de declaração de inexigibilidade de créditos cobrados do autor por meio de plataforma de negociação intitulada "Serasa Limpa Nome" em razão da prescrição. Inadmissibilidade. Prescrição que atinge o direito de ação, e não o direito subjetivo em si, remanescendo hígidas as dívidas e, por conseguinte, possível a sua cobrança extrajudicial, resguardada a dignidade do devedor. Danos Morais não configurado. Sentença mantida. RECURSONÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 507/519), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos, além de dissídio jurisprudencial:
+(i) art. 189 do CC/2002, alegando que "a prescrição é a perda da pretensão de reparação do direito violado por conta da inércia de seu titular  ..  Com efeito, de rigor sejam declarados inexigíveis os débitos objetos da ação pela prescrição e os recorridos sejam condenados a se absterem de realizar atos de cobrança, judicial ou extrajudicial, e excluírem os apontamentos referentes a eles da plataforma Serasa Limpa Nome" (e-STJ fls. 514/515),
+(ii) art. 14 da Lei n. 8.078/1990, por entender que "o Tribunal a quo manteve a improcedência do pedido de condenação dos recorridos à compensação dos danos morais, sob os fundamentos de que eles não praticaram ato ilícito, já que não foram ilícitas as cobranças extrajudiciais, e de que o recorrente não sofreu dano moral, posto que não houve negativação  ..  no caso em tela, as falhas dos serviços consistem nas cobranças indevidas dos débitos prescritos pelos recorridos e os danos morais decorrem do fato de que eles realizaram as cobranças extrajudiciais, inclusive, com as inscrições de apontamentos na plataforma Serasa Limpa Nome (fatos que são reconhecidos no acórdão - embora tenha se reputado que não são ilegais as cobranças extrajudiciais dos débitos prescritos, o Tribunal reconhece que isso ocorreu)" (e-STJ fl. 517).
+Em suma, são estes os pedidos recursais (e-STJ fl. 519):
+Ante o exposto, requer-se seja conhecido e provido o presente recurso especial, a fim de reformar o acórdão de fls. 491/496 e julgar procedente a ação, no sentido de declarar a inexigibilidade, judicial e extrajudicial, dos débitos descritos na inicial, e condenar os recorridos a excluírem os apontamentos desses débitos do cadastro do Serasa Limpa Nome, para reestabelecimento do SCORE, a se absterem de realizar atos de cobranças dos respectivos débitos, e a compensarem os danos morais, com o pagamento da compensação no valor de R$ 15.000,00.
+Foram oferecidas contrarrazões (e-STJ fls. 594).
+No agravo (e-STJ fls. 637/642), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 702/706).
+É o relató rio.
+Decido.
+A Corte de origem, ao analisar as provas e as particularidades do caso, entendeu que é admitida a cobrança extrajudicial de dívida prescrita e que não procedem os pedidos deduzidos em juízo, mantendo assim a sentença (e-STJ fl. 493):
+Pretende o autor, ora Apelante, a declaração de inexigibilidade de créditos prescritos cobrados pelos Apelados e incluídos na plataforma de renegociação de dívidas intitulada "Serasa Limpa Nome".
+Respeitadas as razões de recurso, os débitos discutidos não estão sendo cobrados judicialmente e nem mesmo foram inseridos nos órgãos de proteção ao crédito, eis que os documentos de fls. 15/28, consistentes em extrato de consulta realizada pelo Apelante na plataforma "Serasa Limpa Nome", acessado mediante login e senha pessoal do devedor, não passam de mera informação sobre débitos prescritos existentes entre as partes, sem publicidade negativa do seu nome.
+Mesmo que a juízo deste Relator seja possível discutira legalidade e a licitude da conduta da Serasa, seja na manutenção de plataforma eletrônica destinada a possibilitar a pesquisa de dívidas prescritas, seja na prestação de serviços de aproximação das partes(credores e devedores de dívidas prescritas), este não é o tema objeto desta relação jurídico processual.
+Ou seja, o nome do ora Apelante nem foi negativado e/ou protestado em razão dos débitos questionados, nem há indícios da alegada cobrança abusiva ou vexatória.
+E, mesmo que houvesse simples cobrança extrajudicial do débito, mesmo que alcançado pela prescrição, não se vislumbraria ato ilícito passível de cominação da obrigação de não fazer pretendida na inicial. A prescrição, na forma do art. 189 do Código Civil, é entendida pela "perda da ação judicial, isto é, à perda do meio de exercer uma pretensão jurídica"1.
+(..)
+A prescrição, então, alcança a pretensão de cobrança judicial do débito (direito de ação), mas não a existência do próprio direito(direito subjetivo), de tal sorte que a impossibilidade do exercício do direito de ação não implica na extinção do direito subjetivo.
+Sendo assim, se é vedado ao credor do crédito prescrito ajuizar ação de cobrança, não lhe é vedado fazer valer o seu direito por outros meios, tal e qual a sua cobrança administrativa ou extrajudicial, o que, a priori, não configura ato ilícito.
+(..)
+Conclui-se, pois, que a dívida prescrita não se extingue, o que se extingue, ou melhor, prescreve, é o direito de ação hábil à sua cobrança judicial.
+Assim, a prescrição não altera a condição de credor dos Apelados, restando preservado o seu direito de cobrar os seus créditos, desde que não o faça judicialmente, posto que prescrito, e sempre respeitando a dignidade do devedor, conforme os limites estabelecidos no art. 42 do CDC.
+Nesse sentido, anotam-se os seguintes precedentes deste Egrégio Tribunal de Justiça: Apelação 1034945-69.2019.8.26.0506,Rel. Thiago de Siqueira, 14ª Câmara de Direito Privado, j. 17/11/2020;Agravo de Instrumento 2233511-44.2018.8.26.0000, Rel. J. B. Franco de Godoi, 23ª Câmara de Direito Privado, DJe 22/01/2019; Apelação1003921-34.2019.8.26.0082, Rel. Melo Colombi, 14ª Câmara de Direito Privado, DJe 01/07/2020.
+Por ser assim, admitida a cobrança extrajudicial de dívida prescrita, improcedem os pedidos deduzidos em juízo, devendo ser mantida a r. sentença tal como prolatada.
+A jurisprudência desta Corte é no sentido de que a prescrição apenas impede a pretensão à reparação, não tornando inexistente a dívida.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPUGNAÇÃO ESPECÍFICA CONSTATADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DÉBITO PRESCRITO. RECONHECIMENTO DE QUITAÇÃO. INVIABILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).
+3. O Tribunal de Justiça julgou improcedente o pedido da parte autora, sob o fundamento de que "não há falar-se em outorga de escritura pública de imóvel mediante ação de adjudicação compulsória quando não provada a quitação integral do preço ajustado, sendo irrelevante o fato de o débito já se encontrar prescrito". Decisão em consonância com o entendimento desta Corte Superior. Aplicação da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.816.356/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 20/9/2022.)
+Dessa forma, a conclusão a que chegou a Corte estadual se mostra em sintonia com a jurisprudência desta Corte, razão pela qual não merece reforma.
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Quanto à possível violação do art. 14 da Lei n. 8.078/1990, não houve pronunciamento do Tribunal a quo sobre a matéria tratada no dispositivo legal, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento.
+Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando o recorrente amparado pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
