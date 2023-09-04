@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIVERGÊNCIA ENTRE O NÚMERO DO CÓDIGO DE BARRAS DA GUIA DAS CUSTAS E O COMPROVANTE DE PAGAMENTO DO PREPARO DO RECURSO ESPECIAL. DESERÇÃO.
+1. Na égide do CPC/2015, é deserto o recurso especial se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015.
+2. Percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+3. Na esteira da jurisprudência do Superior Tribunal de Justiça, "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, não sendo possível a comprovação posterior" (STJ, AgRg no AgRg no AgRg no AREsp 527.024/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª REGIÃO), PRIMEIRA TURMA, DJe de 3/2/2016).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MEDICO contra decisão monocrática de relatoria da Presidência do STJ que não conheceu do recurso especial (fls. 1.011-1.012).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado (fl. 864):
+DIREITO DO CONSUMIDOR E PROCESSUAL:EMENTACIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DEFAZER C/C DANOS MORAIS. NEGATIVA DE COBERTURADE PLANO DE SAÚDE. ALEGAÇÃO DE QUE OPROCEDIMENTO PLEITEADO NÃO SE ENCONTRA NO ROLDA ANS - AGÊNCIA NACIONAL DE SAÚDE. IRRELEVÂNCIA. ROL EXEMPLIFICATIVO. NEGATIVACONSIDERADA ILEGAL. DANO MORAL CONFIGURADO. MODALIDADE . PRECEDENTE DO STJ E DESTAIN RE IPSACORTE DE JUSTIÇA. SENTENÇA MANTIDA. RECURSOCONHECIDO E DESPROVIDO.
+Alega a parte agravante, em síntese, que: " procedeu com o recolhimento tempestivo das custas recursais. Ocorre que em análise perfunctória da guia e comprovante juntados pela recorrente constantes na movimentação nº 909-910, tem -se que contrariamente do que suscita a Secretaria Judiciária o código de barras e o comprovante são equivalentes"; "não há de se falar em deserção do recurso, visto que o recolhimento do preparo ocorreu de forma tempestiva".
+Pugna, por fim, pelo provimento do agravo interno.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 1.056-1.061).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIVERGÊNCIA ENTRE O NÚMERO DO CÓDIGO DE BARRAS DA GUIA DAS CUSTAS E O COMPROVANTE DE PAGAMENTO DO PREPARO DO RECURSO ESPECIAL. DESERÇÃO.
+1. Na égide do CPC/2015, é deserto o recurso especial se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015.
+2. Percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+3. Na esteira da jurisprudência do Superior Tribunal de Justiça, "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, não sendo possível a comprovação posterior" (STJ, AgRg no AgRg no AgRg no AREsp 527.024/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª REGIÃO), PRIMEIRA TURMA, DJe de 3/2/2016).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relat or):
+Inicialmente esclareço que, tratando-se de duas petições de agravo interno e em atendimento aos Princípios da Preclusão Consumativa e da Unirrecorribilidade, apenas a primeira será analisada.
+O recurso não merece prosperar.
+Conforme exposto na decisão agravada, mediante análise do recurso especial, há divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento.
+Do cotejo entre a guia de recolhimento (fl. 909) e o comprovante (fl. 910) é possível verificar a divergência na numeração:
+. 00190.00009.02941.991008.03280.839170.4.90520000022330 (fl. 909);
+. 00190.00009.02941.991008.03281.907174.9.90530000022330 (fl. 910).
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+Com efeito, havendo divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento caracteriza irregularidade no preparo do recurso especial, tornando-o, portanto, deserto, razão pel a qual é inafastável a Súmula n. 187/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. PAGAMENTO EM DOBRO. NÃO CUMPRIMENTO. DESERÇÃO.
+1. Consolidado nesta Corte o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade e devidamente intimados , os recorrentes deixaram de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.185.968/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. IRREGULARIDADE NO PREPARO. DESERÇAO. SÚMULA N. 281/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando indenização por danos morais e materiais. A sentença julgou parcialmente procedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise do recurso, há divergência entre o número constante no código de barras das guias de preparo e seus respectivos comprovantes de pagamento.
+III - Registre-se que o STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp n. 1.449.432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.) IV - Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+V - Ressalte-se que a petição de fls. 692-695, trazida aos autos em razão do despacho oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+VI - Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+VII - Agravo interno improvido.
+(AgInt no AREsp n. 2.182.664/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. PREPARO RECURSAL. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DA GUIA DE RECOLHIMENTO DAS CUSTAS (GRU). DOCUMENTO APRESENTADO QUE NÃO POSSUI O NÚMERO DO CÓDIGO DE BARRAS, CORRESPONDENTE À GUIA DE RECOLHIMENTO DAS CUSTAS. INTIMAÇÃO PARA SANAR O VÍCIO, EM CINCO DIAS. NÃO ATENDIMENTO, NO PRAZO. DESERÇÃO. SÚMULA 187/STJ. RECURSO ESPECIAL INADMITIDO, NA ORIGEM, COM BASE NO ART. 1.030, I, B, DO CPC/2015. PREVISÃO DE AGRAVO INTERNO, NO PRÓPRIO TRIBUNAL DE ORIGEM (ART, 1.030, § 2º, CPC/2015). INTERPOSIÇÃO DE AGRAVO PARA O STJ. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara deserto recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015), não havendo se falar, ainda, em aproveitamento dos atos realizados, porquanto não atendidos sequer os pressupostos processuais do apelo extremo" (STJ, AgInt no REsp 1.694.039/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 18/05/2018).
+No mesmo sentido: STJ, AgInt no AREsp 1.147.348/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 17/05/2018.
+III. No caso, a parte recorrente protocolou o Recurso Especial, na origem, sem o comprovante de pagamento do preparo, de vez que não contém ele a sequência numérica do código de barras. Intimado a regularizar o vício, no prazo de cinco dias, deixou o agravante de fazê-lo tempestivamente.
+IV. Esta Corte já firmou a compreensão de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (STJ, AgRg no AREsp 619.794/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 27/10/2015).
+V. Aplica-se, ao caso, o entendimento consolidado na Súmula 187 desta Corte, no sentido de que "é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+VI. Nos termos do art. 1.030, § 2º, do CPC/2015, não cabe Agravo em Recurso Especial, dirigido ao STJ, contra decisão que, na origem, nega seguimento a Recurso Especial, com fundamento no art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em Recurso Especial representativo da controvérsia. Nesse sentido: STJ, AgInt no AREsp 1.035.517/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; AgInt no AREsp 967.166/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/10/2017; AgInt no AREsp 1.010.292/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/04/2017; AgInt no AREsp 951.728/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 07/02/2017.
+VII. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, por se tratar de erro grosseiro, de vez que, na data da publicação da decisão que não admitira o Recurso Especial, já havia expressa previsão legal para o recurso cabível (art. 1.030, I, b, e § 2º, do CPC/2015), afastando-se, por conseguinte, dúvida objetiva acerca do recurso adequado.
+VIII. Nos termos da jurisprudência do STJ, "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (STJ, AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/08/2016).
+IX. Agravo interno improvido.
+(AgInt no AREsp n. 1.843.749/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
