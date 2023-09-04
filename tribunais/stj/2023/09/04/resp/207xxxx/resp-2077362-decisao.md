@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo ESTADO DE MINAS GERAIS, com base no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO.
+Resumidamente, sobreveio petição de fls. 279/282e, em que a parte recorrente (exequente) informa a ocorrência de quitação da dívida tributária objeto d a controvérsia (PTA 15.000030967-75 - fl. 281e).
+Confiram-se seus termos:
+"ESTADO DE MINAS GERAIS, parte exequente, pelos Procuradores do Estado subscritores desta manifestação, vem, expor e requerer o seguinte:
+Conforme se infere da documentação anexa, os herdeiros do falecido Lúcio Pentagna Guimarães procederam a habilitação de todos os créditos tributário, fato gerador ITCD causa mortis, no Programa de Regularização de Créditos Tributários instituído pela Lei Estadual 22.549/2017e regulamentado pelo Decreto Estadual 47.213/2017.
+Após tramitação do expediente administrativo, foi apresentado pelos herdeiros pedido de pagamento em dinheiro, com os benefícios do PRCT/2017, de todos os créditos tributários com fato gerador causa mortis.
+Este pedido foi acolhido pela Advocacia Geral do Estado, ocasião em que foi procedida a intimação da contribuinte para proceder o pagamento não apenas dos ITCD fato gerador causa mortis, mas também dos créditos tributários referentes ao ITCD doação em que o falecido figurava como responsável.
+Importante ressaltar que esta exigência de regularização de todos os créditos tributários devidos pelo Espólio e pelos herdeiros, decorre da previsão expressa do inciso II do §1º do art.5º do Decreto Estadual 47.213/17.
+Neste cenário foi procedida então a quitação à vista do crédito tributário objeto de execução e discussão neste feito, qual seja, PTA 15.000030967-75.
+Fato é então que a quitação integral do crédito tributário acarreta a inutilidade/desnecessidade da presente execução fiscal, porquanto deixou de existir para o Exequente o interesse em perseguir a cobrança da dívida. Por este motivo, resta inviável, por qualquer ângulo que se lhe aprecie, a manutenção da discussão em relação ao crédito tributário executado neste feito.
+Outrossim, importante frisar que, conforme artigo 493 do CPC: "Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão". Exatamente nesse sentido, entende este colendo STJ que "Ocorrendo fato superveniente ao ajuizamento da causa, influenciador do julgamento, cabe ao juiz tomá-lo em consideração ao decidir (CPC, art. 462)". (STJ -4.ª Turma, Resp 2.923-PR. Nota n. 5 ao art. 462 do Código de Processo Civil e legislação processual em vigor. Theotonio Negrão, 31.ª Ed. 2000)".
+Enfim, diante da quitação integral do débito tributário e dos honorários advocatícios, faz-se necessário a extinção desta execução fiscal, por perda superveniente de objeto.
+Face o exposto, comprovada a quitação integral do crédito executado, requer o Estado de Minas Gerais a extinção da presente execução fiscal, nos termos do art. 924, II, do Código de Processo Civil, bem como do art. 26 da Lei de Execução Fiscal" (fls. 279/280e).
+Desse modo, não subsistindo mais a utilidade e a necessidade do provimento judicial buscado por meio do presente Recurso, nos termos do art. 34, I e XI, do RISTJ, julgo prejudicado o Recurso Especial, por perda superveniente do objeto.
+I.
+EMENTA
