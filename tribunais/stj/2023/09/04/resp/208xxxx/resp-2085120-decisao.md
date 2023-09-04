@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOELMA SANTOS CONCEIÇÃO e outros (JOELMA e outros), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal Baiano, assim ementado:
+EMENTA: AÇÃO INDENIZATÓRIA. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO ADJACENTE. CONSUMIDOR POR EQUIPARAÇÃO. TESE AFASTADA. APLICAÇÃO DA SÚMULA 618 DO STJ AFASTADA. DINAMIZAÇÃO DO ÔNUS DA PROVA, PREVISTA NO ART. 373, I, DOCPC. CABIMENTO. PRECEDENTES DESTE TRIBUNAL. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+1. A situação fática descrita na ação de origem, de fato, não evidencia uma relação de consumo típica a ensejar a aplicação da Sumula 618 do STJ, como utilizada pela magistrada singular.
+2. A equiparação exige a preexistência de uma relação obrigacional de consumo base, stricto sensu, entre determinado fornecedor e consumidor identificado, a qual, uma vez violada ou inadimplida, também espraia efeitos lesivos às pessoas que não participaram da referida relação base, causando-lhes prejuízo, o que não se verificou no caso em tela.
+3. Afasta-se, pois, a aplicação da Súmula 618, do STJ, com base no Código de Defesa do Consumidor, por alegação de hipossuficiência dos autores, sobretudo por se tratar de uma ação objetivando indenização de danos materiais e extrapatrimoniais de supostos prejuízos individuais causados em decorrência da atividade da empresa agravante.
+4. Não há nos autos qualquer comprovação de degradação ambiental, da mesma forma que o pedido inicial não se pauta neste sentido, não havendo que se falar, portanto, em inversão do ônus da prova, sendo o caso de aplicação da dinamização do ônus da prova, prevista no art. 373, I, do CPC, cabendo aos autores, ora agravados, comprovarem os alegados danos e, se houveram, quais efetivamente os atingiram.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO (e-STJ, fls. 440/441).
+Opostos embargos de declaração por VOTORANTIM CIMENTOS S.A. e outros (VOTORANTIM e outros), foram acolhidos, nos termos da seguinte ementa:
+EMENTA. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃOINDENIZATÓRIA. CONTRADIÇÃO VERIFICADA. ÔNUS DA PROVA. APLICAÇÃO DA REGRA GERAL CONSTANTE DO ART. 373, I, DO CPC, E NÃO A DA DINAMIZAÇÃO, PREVISTA NO PARÁGRAFO ÚNICO DO REFERIDO DISPOSITIVO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS. O acórdão combatido, de fato, incorreu em contradição, pois, ao afastar a inversão do ônus da prova e determinar que caberia aos ora embargados comprovarem os alegados danos, aplicou a regra inserta no art. 373, I, que estabelece que cabe ao autor comprovar os fatos constitutivos de seu direito, e não a da dinamização do ônus da prova, prevista no § 1º, do art. 373, do CPC. EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS (e-STJ, fls. 667/668).
+Opostos embargos de declaração por JOELMA e outros, foram rejeitados (e-STJ, fls. 759/779).
+Nas razões do presente recurso, JOELMA e outros alegaram violação do art. 373, §1º, do NCPC e da Súmula nº 618 do STJ, aduzindo que o ônus da prova deve ser distribuído de forma dinâmica, haja vista a hipossuficiência técnica e financeira de JOELMA e outros e a vasta expertise de VOTORANTIM e outras na área de exploração de energia hidrelétrica, bem como a aplicação dos princípios da precaução e do poluidor-pagador na presente demanda indenizatória decorrente da exploração hidroelétrica em Pedra do Cavalo (e-STJ, fls. 502/518).
+Foram apresentadas contrarrazões (e-STJ, fls. 784/794).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da distribuição do ônus da prova
+Nas razões do presente recurso, JOELMA e outros afirmaram a violação do art. 373, §1º, do NCPC e da Súmula nº 618 do STJ, aduzindo que o ônus da prova deve ser distribuído de forma dinâmica, haja vista a hipossuficiência técnica e financeira de JOELMA e outros e a vasta expertise de VOTORANTIM e outras na área de exploração de energia hidrelétrica, bem como a aplicação dos princípios da precaução e do poluidor-pagador na presente demanda indenizatória decorrente da exploração hidroelétrica em Pedra do Cavalo.
+Sobre o tema o Tribunal estadual consignou que (1) o ônus da prova não poderia ser distribuído de forma dinâmica, visto que ausente relação de consumo, não havendo que se falar em consumidor por equiparação; e (2) não houve comprovação do dano ambiental pelos autores, não se aplicando a distribuição dinâmica do ônus da prova previsto no art. 373, §1º, do NCPC, confira-se:
+Da análise dos autos, ao menos nesse juízo de cognição não exauriente, verifico que a situação fática descrita na ação de origem, de fato, não evidencia uma relação de consumo típica a ensejar a aplicação da Sumula 618 do STJ, como utilizada pela magistrada singular.
+Isso porque, não se observa nenhuma relação contratual entre a agravante e os autores da ação indenizatória, ora agravados, tampouco se pode falar em consumidor por equiparação.
+A equiparação exige a preexistência de uma relação obrigacional de consumo base, stricto sensu, entre determinado fornecedor e consumidor identificado, a qual, uma vez violada ou inadimplida, também espraia efeitos lesivos às pessoas que não participaram da referida relação base, causando-lhes prejuízo, o que não se verificou no caso em tela.
+De fato, para que reste caracterizada a relação de consumo por equiparação, é mister, inicialmente, que exista uma relação de consumo típica e que o consumidor, em razão de um vício de consumo, venha a ser diretamente prejudicado.
+Em seguida, é necessário que, em decorrência desse vício, pessoas que não fizeram parte daquele contrato de consumo base sejam atingidas por seus efeitos danosos.
+Ocorre que o possível incidente ambiental que ensejou o ajuizamento da ação indenizatória ocorreu durante o exercício de atividade rotineira da agravante, qual seja, operação da Barragem de Pedra de Cavalo e da Usina Hidroelétrica de Pedra do Cavalo, na captação da força hidráulica das águas para a produção de eletricidade e no sistema de abastecimento.
+ ..
+Sobreleva registrar que as Seções Cíveis Reunidas, na sessão de 05/11/2020, ao apreciarem casos similares, firmaram, à unanimidade, entendimento no mesmo sentido, ou seja, de que inexiste relação de consumo.
+ ..
+Ultrapassadas tais premissas, é que se afasta a aplicação da Súmula 618, do STJ, com base no Código de Defesa do Consumidor, por alegação de hipossuficiência dos autores, sobretudo por se tratar de uma ação objetivando indenização de danos materiais e extrapatrimoniais de supostos prejuízos individuais causados em decorrência da atividade da empresa agravante (e-STJ, fls. 445/448).
+Como se vê do parágrafo primeiro, a dinamização do ônus probatório tem lugar quando o ônus da prova atribuído pela lei a uma das partes torna-se excessivamente difícil ou oneroso, e visa evitar que se imponha ao litigante a produção de prova de fato negativo.
+Nessa senda, da leitura atenta, verifica-se que o acórdão combatido, de fato, incorreu em contradição, pois, ao afastar a inversão do ônus da prova e determinar que caberia aos ora embargados comprovarem os danos alegadamente existentes e declinarem quais efetivamente os atingiram, aplicou a regra inserta no art. 373, I, que estabelece que cabe ao autor comprovar os fatos constitutivos de seu direito, e não a da dinamização do ônus da prova, prevista no § 1º, do art. 373, do CPC (e-STJ, fl. 673).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que é cabível a inversão do ônus da prova em matéria de degradação ambiental, nos termos da Súmula nº 618 do STJ.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A alegação de afronta aos artigos 489 e 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Conforme a jurisprudência desta Corte Superior, "Tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral.
+Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015). Incidência da Súmula 83/STJ.
+4. Nos termos do entendimento pacificado deste Tribunal Superior, encontram-se sob a proteção dos ditames do Código de Defesa do Consumidor aqueles que, embora não tenham participado diretamente da relação de consumo, sejam vítimas de evento danoso decorrente dessa relação, como consumidores por equiparação, o que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno provido para reconsiderar a decisão de fls. 439-440 (e-STJ) e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.959.757/RS, relator Ministro MARCO BUZZI, Quarta Turma, j. em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DANO AMBIENTAL. FALTA DE INTERESSE DE AGIR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CAUSA DE PEDIR FUNDAMENTADA EM DANO AMBIENTAL. PRINCÍPIO DA PRECAUÇÃO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial referente à questão que não foi apreciada pelo Tribunal a quo, por ausência de prequestionamento.
+Incidência das Súmulas n. 282 e 356/STF.
+2. Constata-se dos autos que a causa de pedir da ação inicial foi lastreada na reparação de danos materiais e morais decorrente de dano ambiental.
+3. A jurisprudência desta Corte é no sentido de admitir a inversão do ônus da prova em ação indenizatória decorrente de dano ambiental.
+4. A aferição da existência, ou não, de dano ambiental é inviável no âmbito do recurso especial ante a necessidade de reanálise do conjunto probatório, tendo em vista o enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.114.565/ES, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 6/3/2023, DJe de 13/3/2023.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para admitir a inversão do ônus da prova em favor dos autores.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS AMBIENTAIS. EXPLORAÇÃO HIDROELÉTRICA. PESCADORES. ÔNUS DA PROVA. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 618 DO STJ. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
