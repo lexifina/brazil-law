@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONDOMÍNIO FOREST HILLS contra decisão unipessoal que não conheceu do recurso especial que interpusera, nos termos da seguinte ementa (e-STJ fl. 1743):
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DO INDÉBITO. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação declaratória cumulada com repetição do indébito.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Não se conhece da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+7. Recurso especial não conhecido.
+Em suas razões recursais, afirma a embargante que a decisão embargada teria sido: i) omissa na análise do tópico referente à indivisibilidade da cobrança de água; e ii) obscura e contraditória quando da trata da ausência de prequestionamento, porquanto teria reconhecido que o argumento foi tratado pela Embargante, bem como ressalta que, apesar de o art. 29 não ter sido especificado, a Lei 6.766/79 foi citada pelo Tribunal de origem.
+Alega, ainda, que teria indicado ter havido afronta ao art. 884 do CC.
+No que se refere à divergência jurisprudencial, cita a existência de fato novo, consubstanciado no julgado do recurso especial interposto por outra moradora, que concorreu ao cargo de subsíndica na chapa da embargada.
+Por fim, aduz que não houve qualquer menção na decisão embargada sobre a aplicação do seguinte Destaque do Informativo de Jurisprudência nº 0648 do Superior Tribunal de Justiça: "É valida a estipulação, na escritura de compra e venda, espelhada no contrato-padrão depositado no registro imobiliário, de cláusula que preveja a cobrança, pela administradora do loteamento, das despesas realizadas com obras e serviços de manutenção e/ou infraestrutura" (e-STJ fl. 1751), o que, segundo a embargante, seria a hipótese dos autos.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a decisão embargada foi clara quanto ao STJ não poder examinar as questões trazidas, nas razões recursais, acerca da alegada violação do art. 29 da Lei 6.766, por estar ausente o requisito do prequestionamento (Súmula 211/STJ).
+Além disso, foi clara ao explicitar que, ao defender a inaplicabilidade do Tema 882/STJ e a aplicabilidade da Súmula 260/STJ à hipótese, bem como ao se insurgir contra a restituição de valores aos recorridos, ora embargados, sob o argumento de que, acaso chancelada, configuraria enriquecimento ilícito, a recorrente, ora embargante, entretanto, deixou de indicar, nas razões recursais, os dispositivos de lei federal sobre o quais se teria dado interpretação divergente, o que enseja o não conhecimento do recurso, quanto aos referidos pontos (Súmula 284/STF).
+Em arremate, no que concerne ao dissídio jurisprudencial, salientou que, além de a falta de indicação do dispositivo legal sobre o qual recai a divergência inviabilizar a análise do dissídio, entre os acórdãos trazidos à colação, não houve o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, o que torna inviável a análise da existência do dissídio, pois descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Na verdade, a pretexto de omissão, contradição e obscuridade, verifica-se que a embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. MULTA POR EMBARGOS PROTELATÓRIOS. NÃO INCIDÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
