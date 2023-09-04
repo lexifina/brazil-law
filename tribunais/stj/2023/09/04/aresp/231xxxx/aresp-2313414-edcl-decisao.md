@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BELARMINO FELIPE VIEIRA (BELARMINO), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR E PLANO VERÃO. PRESCRIÇÃO. TERMO INICIAL. TRIBUNAL ESTADUAL QUE CONTRARIOU A JURISPRUDÊNCIA DO STJ. TEMA 919. DATA DO EFETIVO PAGAMENTO. NECESSIDADE DE RETORNO DOS AUTOS A ORIGEM PARA APRECIAÇÃO DA PRESCRIÇÃO COM BASE NO TERMO INICIAL CORRETO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO. (e-STJ, fls. 1458/1463).
+Nas razões do presente inconformismo, BELARMINO defendeu que a decisão foi omissa sobre o fato alegado em sede de contrarrazões, de que o recurso do BANCO acerca da tese de prescrição sequer poderia ser conhecido, por se tratar de inovação em sede recursal.
+Foi apresentada contraminuta (e-STJ, fls. 1.522/1.524).
+É o relatório.
+O recurso não merece acolhida.
+De acordo com a jurisprudência desta Corte, a contradição, ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato, ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Ao contrário do quanto sustentado por BELARMINO, não há que se falar em inovação recursal, no caso, quanto à tese do termo inicial da prescrição, porquanto ela foi suscitada nos embargos de declaração opostos contra o acórdão do TJGO, que analisou a matéria.
+Vale lembrar que a jurisprudência do STJ é no sentido de que "(..) a prescrição é matéria de ordem pública e, portanto, pode ser suscitada a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração, não estando sujeita a preclusão" (AgInt nos EDcl no REsp 1.965.396/RS, Relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+De fato, por se tratar de matéria de ordem pública, cujo conhecimento pode ocorrer de ofício nas instâncias ordinárias, não há nenhum vício procedimental na análise da referida matéria em sede de declaratórios.
+Sobre o tema, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. FUNDAMENTO AUTÔNOMO SURGIDO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 932, III, DO CPC/2015. AGRAVO IMPROVIDO.
+1. Um dos fundamentos autônomos do acórdão que julgou os embargos de declaração - o de que os recorrentes não propuseram execução individual no lustro prescricional subsequente ao trânsito em julgado da ação ação rescisória - não foi objeto de impugnação específica nas razões recursais.
+2. A discussão travada nos autos, até o julgamento do recurso de apelação, limitava-se à questão da coisa julgada. No entanto, ao apreciar os embargos de declaração, o Tribunal de origem ampliou a cognição para acrescentar como fundamento subsidiário a prescrição.
+3. Por se tratar a prescrição de matéria de ordem pública, cujo conhecimento pode ocorrer de ofício nas instâncias ordinárias, não há nenhum vício procedimental na análise da referida matéria em embargos de declaração.
+4. Nesse contexto, tendo sido reconhecida, de ofício, a prescrição pelo Tribunal de origem, caberia aos agravantes a contestação desse fundamento autônomo, sob pena de vê-lo mantido. Assim, mesmo que fosse superado o óbice da coisa julgada, a prescrição estaria mantida como fundamento subsidiário.
+5. Incidência do disposto no art. 932, III, do CPC, segundo o qual não se conhece de recurso que não ataca especificamente os fundamentos da decisão recorrida.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1915599 / PE, Rel. Ministro OG FERNANDES, Segunda Turma, j. 16/8/2021 - sem destaques no original).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. "AÇÃO ESTIMATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS". PARCIAL PROCEDÊNCIA. APELO NOBRE. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. PRAZO DECADENCIAL. SUSPENSÃO. MATÉRIA DE ORDEM PÚBLICA. PRECEDENTES. SÚMULA Nº 83 DO STJ. 1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Incide a Súmula nº 211 do STJ quando os dispositivos de lei invocados no apelo nobre não foram debatidos no acórdão recorrido, apesar de opostos embargos de declaração a fim de suscitar os temas neles contidos na instância a quo. Caberia à parte, nas razões do seu especial, alegar a violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+3. A jurisprudência firmou-se no sentido de que as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em embargos de declaração, não estando sujeitas a preclusão. Incidência da Súmula nº 83 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 686.634/DF, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 4/8/2016, DJe 9/8/2016).
+Observa-se, assim, que não houve nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. PRESCRIÇÃO. TERMO INICIAL. PRETENSÃO QUE DESBORDA DAS HIPÓTESES DE CABIMENTO DOS ACLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
