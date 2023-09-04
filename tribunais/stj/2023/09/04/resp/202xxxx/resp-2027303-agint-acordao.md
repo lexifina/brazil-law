@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. CONTRATO DE CORRETAGEM DE VALORES MOBILIÁRIOS. FALHA NA PRESTAÇÃO DE SERVIÇO. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MARIA JOSÉ LONGHI contra decisão de fls. 476-479, e-STJ, integrada por embargos de declaração rejeitados, que negou provimento ao recurso especial.
+Em suas razões, afirma que não há falar em reexame do conjunto probatório ou de cláusulas contratuais para o deslinde da controvérsia, o que afasta a incidência das Súmulas 5 e 7/STJ.
+Repisa os argumentos do recurso especial, de que a origem desconsiderou, de forma genérica, várias provas juntadas ao processo acerca da suposta falha na prestação de serviço.
+Intimada, a parte agravada apresentou impugnação, se manifestando pela manutenção da decisão atacada (fls. 507-510, e-STJ).
+É o relatório.
+AgInt nos EDcl no RECURSO ESPECIAL Nº 2.027.303 - MG (2022/0292704-2)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+MARIA JOSE LONGHI
+ADVOGADOS
+:
+IGOR PANTUZZA WILDMANN - MG064741
+ELIAS KALLAS FILHO - MG094739
+CAMILA FERNANDES FRAGA - MG143897
+AGRAVADO
+:
+XP INVESTIMENTOS CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S/A
+ADVOGADOS
+:
+ELIANA DA COSTA LOURENÇO - RJ051575
+ALEXANDRE FERREIRA KINGSTON - RJ103458
+VIVIAN SAADIA - RJ167853
+VICTOR MAGNO INDIANI COSTA - RJ240677
+EMENTA
+AGRAVO INTERNO. CONTRATO DE CORRETAGEM DE VALORES MOBILIÁRIOS. FALHA NA PRESTAÇÃO DE SERVIÇO. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+"Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - CORRETORA DE VALORES MOBILIÁRIOS - FALHA NA PRESTAÇÃO DE SERVIÇOS POR INSTABILIDADE DO SISTEMA - ACERVO PROBATÓRIO - REGULARIDADE DO SISTEMA E DAS OPERAÇÕES REALIZADAS PELO USUÁRIO - INEXISTÊNCIA DO DEVER DE INDENIZAR OS PREJUÍZOS FINANCEIROS SUPORTADOS PELO USUÁRIO - Nos termos do que dispõe o art. 14 do Código de Defesa do Consumidor, a responsabilidade civil do fornecedor de serviços é objetiva, de modo que se deve perquirir somente acerca da existência do nexo causal entre o fato imputável ao agente e os danos acarretados à vítima.
+- Deve ser julgada improcedente a pretensão indenizatória do consumidor baseada em suposta instabilidade do sistema da corretora de valores mobiliários, se as provas dos autos atestam que a plataforma estava em pleno funcionamento e os prejuízos financeiros decorreram de comando dado pelo próprio usuário.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões de recurso especial, aponta a recorrente violação dos artigos 371 e 489 do Código de Processo Civil.
+Afirma desacerto do acórdão de origem ao julgar em sentido diverso da prova nos autos, haja vista a demonstração da falha na prestação de serviço de corretagem de ações.
+O recurso foi admitido na origem, nos termos da decisão de fls. 465-467, e- STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que se refere à tese da falha na prestação de serviço, pelo não cumprimento da decisão do investidor nas aplicações em Bolsa de Valores, a Corte estadual, ao analisar as circunstâncias fáticas contidas nos autos, contrato entabulado e o conjunto probatório produzido, assim decidiu (fls. 361-363, e-STJ):
+Por ser uma operação altamente especulativa, pode tanto trazer ganhos acima da média do mercado para operadores com experiência, como também gerar vultosos prejuízos àqueles menos habilitados, do que decorre o nítido alto risco da modalidade de investimento.
+Voltando a análise para o acervo probatório encartado ao feito, concluo que o embate é desequilibrado em favor da ré/apelante.
+A planilha "day trade" contida no evento de n. 44 que descreve todas as operações realizadas pela autora em 14/02/2018, demonstra que, após as 13h, momento em que, supostamente, teria ocorrido instabilidade na plataforma de operações, a requerente inseriu mais de 50 ordens de compra ou venda de ativos na modalidade WDOH18.
+Tal dado permite concluir que não existia obstáculo para que a autora realizasse o cancelamento de ordens anteriormente inseridas, já que, após a suposta falha sistêmica, pode realizar operações semelhantes às questionadas no feito.
+A transcrição da conversa havida no chat de atendimento entre a ré e preposto da corretora corrobora a versão da ré, evidenciando que as operações efetuadas pela autora naquela data ocorreram dentro da normalidade. Além disso, indicam que o prejuízo decorrente das ordens que estavam em aberto em 14/02/2018 ocorreram por comando dado pela própria usuária na plataforma:
+(..)
+O relatório de atividades do sistema da ré (evento n. 09), por meio do qual a autora pretende comprovar que estava acostumada a realizar as operações ora questionadas, bem como as reclamações de outros consumidores ou o e-mail enviado pela corretora ré (eventos n. 13/14 e 18) reconhecendo a instabilidade de seu sistema (em 28/02/2018), todos eles contemporâneos ao evento danoso em exame, não têm o condão de afastar a conclusão ora alcançada.
+As provas analisadas apontam que o eventual prejuízo suportado pela autora em 14/02/2018 decorrente das operações de day trade na plataforma da corretora decorreram de comando dado por ela no sistema, não se vislumbrando qualquer falha na prestação dos serviços da ré em que a autora possa escorar sua pretensão indenizatória.
+O Tribunal de origem se manifestou, ainda, nos embargos de declaração com efeitos integrativos, nos seguintes termos (fl. 418, e-STJ):
+Diferente do que alega a embargante, a análise esmiuçada do conjunto probatório permitiu concluir que não existiu falha sistêmica na plataforma da ré que tivesse impedido o cancelamento das ordens de compra inseridas anteriormente pela autora, não podendo ser atribuído à corretora a responsabilidade pelos prejuízos financeiros suportados.
+A revisão do entendimento de que a corretora cumpriu diligentemente as determinações recebidas do investidor, bem como acerca das provas que formaram a convicção do magistrado, dos elementos capazes de demonstrar o direito contraposto e de demais questões factuais ainda com base na interpretação dos termos pactuados, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do conteúdo contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS MATERIAIS. CONTRATO DE RASTREAMENTO/MONITORAMENTO DE VEÍCULO. FALHA NA PRESTAÇÃO DO SERVIÇO. MULTA PELO INADIMPLEMENTO DEVIDA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.395.087/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2020)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FATO DO SERVIÇO. GRUPO ECONÔMICO. RELAÇÃO DE CONSUMO. PRESTADORA DE SERVIÇO QUE SE APROPRIA DE VALORES REFERENTE A ALUGUÉIS, CONDOMÍNIO E IPTU. OMISSÃO DO ACÓRDÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. FALTA DE PREQUESTIONAMENTO.
+(..)
+3. A reforma do acórdão recorrido no tocante a falha na prestação do serviços evidenciada pelas provas carreadas aos autos e pelo contrato demandaria o revolvimento fático-probatório dos autos e revolvimento das cláusulas contratuais, providência inviável em sede de recurso especial (óbice das Súmulas 5 e 7/STJ).
+4. Quanto ao valor fixado a título de danos morais, no importe de R$ 15.000,00, respectivamente, é pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante.
+5. A admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, exige a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts.
+541 do CPC e 255 do RISTJ), o que não ocorreu na hipótese.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 148.555/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/8/2013, DJe de 21/8/2013.)
+Isso porque, tendo em vista que se está diante de responsabilidade por vício do produto, toda a cadeia de fornecedores responde solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo, na forma do artigo 18, caput e § 6º, do CDC. No caso, sendo a ré a responsável pelo armazenamento, conservação e exposição do produto em suas gôndolas, é igualmente responsável por eventual inadequação deste produto ao fim a que se destina.
+Lembre-se que a causa de pedir do presente feito com relação à Cooperativa Santa Clara é que o produto estava exposto para venda mesmo completamente infestado de carunchos, o que torna inegável a legitimidade do comerciante para responder por eventuais danos causados ao consumidor, porquanto sua a responsabilidade por averiguar, periodicamente, se os produtos perecíveis que vende estão em perfeitas condições, sem qualquer tipo de contaminação. E o que dispõe, expressamente, o inciso III do artigo 13 do CDC.
+Em face do exposto, nego provimento ao recurso especial"
+Reexaminando o caso, verifico que a Corte local relatou que "As provas analisadas apontam que o eventual prejuízo suportado pela autora em 14/02/2018 decorrente das operações de "day trade" na plataforma da corretora decorreram de comando dado por ela no sistema, não se vislumbrando qualquer falha na prestação dos serviços da ré em que a autora possa escorar sua pretensão indenizatória".
+Encontra-se, ainda, no acórdão recorrido a conclusão de que "Diferente do que alega a embargante, a análise esmiuçada do conjunto probatório permitiu concluir que não existiu falha sistêmica na plataforma da ré que tivesse impedido o cancelamento das ordens de compra inseridas anteriormente pela autora, não podendo ser atribuído à corretora a responsabilidade pelos prejuízos financeiros suportados".
+Nesse contexto, inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar a aventada falha na prestação de serviço, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
