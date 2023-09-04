@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por KAUAN FERREIRA DA SILVA ROCHA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consoante se extrai dos autos, o agravante foi condenado como incurso no crime do art. 157, caput, por três vezes, na forma do art. 71, ambos do Código Penal, à pena de 4 (quatro) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, em regime semiaberto, e a 12 (doze) dias-multa. (fls. 182-188). O Tribunal de origem, negou provimento ao apelo da defesa e deu parcial provimento à apelação criminal, redimensionando a reprimenda para 12 (doze) anos de reclusão, em regime fechado (fls. 255-273).
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação do art. 71 do Código Penal, sustentando que os delitos praticados ocorrera m em continuidade delitiva.
+Apresentadas as contrarrazões (fls. 315-317), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula nº 7, STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fls. 320-321).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 323-332).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 357-365).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pelo agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O recorrente aponta que o acórdão recorrido violou art. 71 do Código Penal, pleiteando reconhecimento da continuidade delitiva.
+Não obstante, o acórdão local está fundamentado na ausência de liame subjetivo entre as condutas, nos seguintes termos: "Não há, portanto, como reconhecer a continuidade delitiva ante a ausência de liame subjetivo entre as condutas, uma vez que não se constatou que, por parte do réu, tenha ocorrido um planejamento unitário para a prática dos crimes, de modo a evidenciar que um tenha sido continuação do outro" (fl. 264).
+Da análise dos excertos acima colacionados, verifico que o eg. Tribunal de origem declinou, de forma explícita e, ainda, baseando-se nas provas carreadas aos autos, as razões pelas quais concluiu pela manutenção da sentença condenatória tal como proferida, sem reconhecer a continuidade delitiva.
+Na hipótese, torna-se inviável o conhecimento do pleito referente à ocorrência da continuidade, porquanto a pretensão da Defesa exigiria revolvimento fático-p robatório, incompatível com a via eleita, ao teor da Súmula nº 7, STJ.
+Sendo assim, entender de modo contrário ao estabelecido pelo Tribunal de origem, como pretende o ora recorrente, demandaria o revolvimento, no presente recurso, do material fático probatório dos autos, inviável nesta instância.
+Nesse sentido: AgRg no AREsp 1.727.524/DF, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 10/5/2021 e AgRg no AREsp 1.907.252/DF, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região, DJe de 22/10/2021.
+Tenha-se em conta, a propósito, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. PLEITO DE RECONHECIMENTO DE CONTINUIDADE DELITIVA. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
