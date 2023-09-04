@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO.
+1. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PLANEL PLANEJAMENTOS E CONSTRUCOES ELETRICAS LTDA. contra decisão monocrática da Presidência do STJ que não conheceu do recurso especial em razão de sua intempestividade (fls. 1524-1525).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (fl. 1272):
+EMENTA- RECLAMAÇÃO JUDICIAL- ACÓRDÃO PARADIGMA QUE NÃO DIZ RESPEITO AO CASO ORA POSTO EM ANÁLISE - DECISÃO JUDICIAL DA QUAL CABIA RECURSO PRÓPRIO- IMPOSSIBILIDADE DA UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL - DECISÃO RECLAMADA QUE TRANSITOU EM JULGADO - ART. 988, §5º, INCISO I, DO CPC - RECLAMAÇÃO IMPROCEDENTE. I. O Acórdão paradigma entendeu ser incabível o vencimento cruzado, ou seja, a cobrança, por meio da Cédula de Crédito Comercial, das outras obrigações inadimplidas, ao passo que a execução que ora tramita perante a 14ª Vara Cível desta Comarca, visa o recebimento da própria Cédula de Crédito Comercial, ante seu inadimplemento. II. Assim, a decisão reclamada, ao determinar a intimação do executado para impugnar os cálculos apresentados pelo exequente, sob pena de leiloar os imóveis descritos nas fls. 584/585 do processo principal, não violou a decisão anterior desse Egrégio Tribunal de Justiça Estadual, prolatada nos autos da Apelação Cível n.º 2004.013641-7/0000-00, razão pela qual é de rigor concluir pela improcedência da presente Reclamação. III. É incabível Reclamação quando o Acórdão paradigma trata sobre situação diversa, bem como quando a decisão reclamada podia ter sido impugnada por recurso próprio e, ainda, quando tal decisum tenha transitado em julgado.
+Em suas razões recursais, a parte agravante sustenta que (fls. 1528-1531):
+PLANEL PLANEJAMENTO E CONSTRUÇÕES ELÉTRICAS LTDA, recorrente qualificada nos autos, por seu advogado, vem interpor AGRAVO INTERNO contra a r. decisão de fls. ora aduzindo que o recurso especial é tempestivo, pois entre publicação do julgado do tribunal em 17/02/2022 (certidão, e-STJ Fl.1283) e protocolo do recurso especial em 15/03/2022(e-STJ Fl.1289) ocorreu feriado local em 28/02, 01/03 e 02/03 disciplinados pelo tribunal em sua Portaria nº 16, de 17/01/2022(doc.), apontada/comprovada na interposição, ex-vi
+ ..
+Noutro giro, ante a publicação do julgado do tribunal em 17/02/2022 (certidão, e-STJ Fl.1283), o prazo recursal de 15 dias úteis transcorreria entre a sexta-feira 18/02/2022 e quinta-feira 10/03/2022; contudo, a Portaria nº16, de 17/01/2022(doc.) fundamentou a suspensão de expediente ocorrida na segunda-feira 28/02/2022, na terça-feira 01/03/2022 e na quarta-feira 02/03/2022, o que prorrogou o último dia útil da quinta-feira 10/03/2022 para terça-feira 15/03/2022, protocolo do recurso especial.
+ ..
+Nesse passo, o prazo não pode seguir a partir desse dia 28/02/2022 (segunda-feira de Carnaval), nem do dia 01/03/2022 (terça-feira de Carnaval) e nem do dia 02/03/2022 (quarta-feira de Cinzas) porque não houve expediente nos mesmos, segundo a Portaria nº 16, de 17/01/2022 (doc.) do TJMS.
+Com efeito, 9 dias úteis restantes devem ser contados a partir da quinta-feira dia 03/03/2022e se encerram na terça-feira dia 15/03/2022, data do protocolo do recurso especial.
+As partes agravadas apresentaram impugnação (fls. 1536-1538 e 1544-1550).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO.
+1. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação recursal não merece prosperar.
+Na espécie, a Presidência desta Corte Superior não conheceu do recurso especial em razão de sua intempestividade, conforme se pode observar da leitura do seguinte trecho (fls. 1524-1525):
+Mediante análise do recurso de PLANEL PLANEJAMENTOS E CONSTRUCOES ELETRICAS LTDA, a parte recorrente foi intimada do acórdão recorrido em 17/02/2022, sendo o recurso especial interposto somente em 15/03/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Com efeito, verifica-se que a decisão da Presidência está em plena consonância com a jurisprudência do STJ, uma vez que esta Corte Superior adota o entendimento de que "cabe à parte comprovar, no momento da interposição do recurso, a ocorrência de suspensão dos prazos processuais em decorrência de feriados locais, recesso forense ou ponto facultativo, entre outros motivos, a fim de demonstrar a tempestividade recursal. A possibilidade de comprovação do feriado local posteriormente restringe-se à segunda-feira de carnaval, não se aplicando aos demais feriados (AREsp 1.481.810-SP, Corte Especial)." (AgInt nos EAREsp n. 1.499.016/MG, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 23/5/2023, DJe de 25/5/2023.).
+Nesse sentido, confira-se:
+PROCESSO CIVIL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. SEGUNDA-FEIRA DE CARNAVAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. ABERTURA DE PRAZO. DESCABIMENTO. COMPROVAÇÃO NECESSÁRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. É intempestivo o recurso especial protocolado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC/15.
+3. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da semana santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+4. Não é cabível a intimação prevista no art. 932, parágrafo único, do CPC para oportunizar a comprovação da tempestividade do recurso após sua interposição, uma vez que se trata de vício insanável - art. 1.003, § 6º, c/c o art. 1.029, § 3º, do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.190.764/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023, grifei.)
+Nesse contexto, registre-se que, "no julgamento do REsp 1.813.684/SP, a colenda Corte Especial delimitou que a orientação de comprovação do feriado local no momento da interposição do recurso especial deveria persistir para os feriados e suspensões de expedientes locais em geral, excetuando-se apenas a segunda-feira de carnaval, em relação à qual houve modulação de efeitos do julgado anterior, permitindo-se a comprovação a posteriori, quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial (REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019)." (AgInt nos EAREsp n. 1.661.435/RS, relator Ministro Raul Araújo, Corte Especial, julgado em 10/8/2021, DJe de 20/8/2021.).
+Por fim, destaca-se que "a suspensão dos prazos processuais em decorrência de feriado local deve ser comprovada mediante documento idôneo, sendo insuficiente, para tanto, a mera referência, nas razões do recurso, à existência de norma local ou ato normativo do tribunal de origem ou a juntada de documento não dotado de fé pública. Precedentes." (AgInt no AREsp n. 1.941.708/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.).
+Dessarte, não tendo havido a comprovação de suspensão dos prazos no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, não há como ser afastado o seu decreto de intempestividade.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
