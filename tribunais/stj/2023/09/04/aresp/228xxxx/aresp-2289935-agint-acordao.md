@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO LÍQUIDA. JUROS DE MORA. TERMO INICIAL. INADIMPLEMENTO DA OBRIGAÇÃO.
+1. A jurisprudência predominante neste Superior Tribunal de Justiça orienta-se no sentido que a obrigação em questão é liquida e com vencimento certo, razão pela qual os juros de mora devem incidir a partir do inadimplemento da obrigação. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela UNIVERSIDADE ESTADUAL DE CIENCIAS DA SAUDE DE ALAGOAS - UNCISAL desafiando decisão que negou provimento ao recurso especial, sob o fundamento de estar o acórdão em conformidade com a jurisprudência do STJ quanto ao termo inicial dos juros de mora.
+A parte agravante, em suas razões, repisa seus argumentos quanto à iliquidez da obrigação, sob a alegação de que "se a obrigação era ilíquida quando de seu termo (vencimento da obrigação) e da citação, só vindo a se tornar líquida anos depois quando da prolação do acórdão, é inaplicável o art. 397, caput, do CC e os juros de mora seguem a regra geral dos arts. 405, do CC e 240, do CPC: o momento da citação, nos termos da tese fixada no Tema 611/STJ. Relembre-se que, quando da fixação da tese no Tema 611, o STJ considerou ilíquida obrigação semelhante à pleiteada nestes autos." (fls. 234)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO LÍQUIDA. JUROS DE MORA. TERMO INICIAL. INADIMPLEMENTO DA OBRIGAÇÃO.
+1. A jurisprudência predominante neste Superior Tribunal de Justiça orienta-se no sentido que a obrigação em questão é liquida e com vencimento certo, razão pela qual os juros de mora devem incidir a partir do inadimplemento da obrigação. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Está correto o decisum ao estabelecer que a jurisprudência predominante neste Superior Tribunal de Justiça orienta-se no sentido que a obrigação em questão é liquida e com vencimento certo, razão pela qual os juros de mora devem incidir a partir do inadimplemento da obrigação.
+Nesse mesmo sentido, vejam-se os recentes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. JUROS DE MORA. OBRIGAÇÃO LÍQUIDA. TERMO INICIAL. DATA DO INADIMPLEMENTO DO DÉBITO. ACÓRDÃO ESTADUAL CONCLUIU PELA LIQUIDEZ DA OBRIGAÇÃO A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A questão controvertida cinge-se em definir se a natureza da obrigação é líquida ou ilíquida, a fim de que seja fixado o termo inicial dos juros de mora na hipótese dos autos.
+2. A partir da leitura do acórdão recorrido, revela-se que o entendimento adotado pelo Tribunal de origem se alinha à diretriz desta Corte Superior de que, tratando-se de obrigação líquida e com vencimento certo, os juros de mora devem incidir a partir do inadimplemento da obrigação. Precedentes: AREsp. 1.676.774/AL, Rel. Ministro Herman Benjamin, DJe 5.10.2020; AgInt no AREsp. 1.504.312/AL, Rel. Ministro Benedito Gonçalves, DJe 1o.7.2020; AgInt no AREsp 1.744.752/AL, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, DJe 30/04/2021.
+3. Alterar as conclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes
+4. Agravo interno não provido.
+(AgInt no AREsp 1840804/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 09/08/2021, DJe 12/08/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. JUROS DE MORA. OBRIGAÇÃO LÍQUIDA. TERMO INICIAL. DATA DO INADIMPLEMENTO DO DÉBITO. ACÓRDÃO ESTADUAL CONCLUINDO PELA LIQUIDEZ DA OBRIGAÇÃO A PARTIR DAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. AGRAVO INTERNO DO ESTADO DE ALAGOAS A QUE SE NEGA PROVIMENTO.
+1. A questão controvertida cinge-se em definir se a natureza da obrigação é líquida ou ilíquida, a fim de que seja fixado o termo inicial dos juros de mora na hipótese dos autos.
+2. A leitura do acórdão recorrido revela que o entendimento adotado pelo Tribunal de origem se alinha à diretriz desta Corte Superior de que, tratando-se de obrigação líquida e com vencimento certo, os juros de mora devem incidir a partir do inadimplemento da obrigação. Precedentes: AREsp. 1.676.774/AL, Rel. Min. HERMAN BENJAMIN, DJe 5.10.2020; AgInt no AREsp. 1.504.312/AL, Rel. Min. BENEDITO GONÇALVES, DJe 1o.7.2020; AgInt no AREsp. 304.851/SP, Rel. Min. GURGEL DE FARIA, DJe 3.5.2017; REsp. 1.758.065/AL, Rel. Min. HERMAN BENJAMIN, DJe 27.11.2018; AgInt no AREsp. 1.079.466/RJ, Rel. Min. MARIA ISABEL GALLOTTI, DJe 6.3.2019; AgInt no AgRg no REsp. 1.153.050/AC, Rel. Min. MARCO BUZZI, DJe 4.12.2018.
+3. Ademais, a alteração das conclusões adotadas pela Corte de origem a respeito da liquidez da obrigação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em sede de Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes: AgRg no AREsp. 229.562/RS, Rel. Min. SÉRGIO KUKINA, DJe 27.8.2015; AgRg no REsp. 1.206.435/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 4.11.2014; REsp. 1.695.674/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017.
+4. Agravo Interno do ESTADO DE ALAGOAS a que se nega provimento.
+(AgInt no AREsp 1744752/AL, Rel. MIN. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 26/04/2021, DJe 30/04/2021)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. JUROS DE MORA. CORREÇÃO MONETÁRIA. TERMO INICIAL. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Trata-se, na origem, de ação ordinária em que a autora postula que o adicional de insalubridade seja calculado com base no subsídio que recebe. Na sentença, julgou-se parcialmente procedente o pedido, observado o prazo prescricional de 5 anos. No Tribunal a quo, a sentença foi mantida, ficando consignado que os juros de mora e a correção monetária incidirão desde o inadimplemento. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - É líquida a sentença que contém em si todos os elementos que permitem definir a quantidade de bens da vida a serem prestados, dependendo apenas de cálculos aritméticos apurados mediante critérios constantes do próprio título ou de fontes oficiais públicas e objetivamente conhecidas.
+III - Verifica-se que o acórdão ora recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte Superior, a qual é firme no sentido de que, nas obrigações líquidas, com vencimento certo, os juros de mora e a correção monetária fluem a partir da data do vencimento. Confira-se:
+(AgInt no REsp n. 1.817.462/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 29/10/2019 e AgInt no AREsp n. 1.492.212/AL, Rel. Ministro Napoleão Nunes Maia Filho, primeira turma, julgado em 26/8/2019, DJe 28/8/2019).
+IV - Desta forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V- Agravo interno improvido.
+(AgInt no AREsp 1516727/AL, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/05/2020, DJe 11/05/2020)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
