@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DIBB BAZAR LTDA., contra decisão de fls. 348/352, a qu al negou provimento ao agravo em recurso especial aos seguintes fundamentos: (I) incidência da Súmula 280/STF, pois o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local; e (II) alteração das conclusões adotadas pela Corte de origem, no sentido da obrigatoriedade da emissão de nota fiscal de entrada de mercadoria, demandaria, necessariamente, reexame do acervo probatório dos autos, providência vedada, pela Súmula 7 do STJ.
+A parte embargante aponta omissão no julgado, sustentando, em síntese, que " o objeto do recurso não se refere a qualquer interpretação da lei local, tampouco depende do revolvimento do acervo probatório. Segundo se observa das razões de recurso especial e de agravo, a embargante recorreu ao Tribunal de Justiça porque o Tribunal a quo concluiu que o art. 13, §1º, XIII, "d", da Lei Complementar nº 123/2006, afasta a vedação de exigências de obrigações acessórias contidas no art. 26, § 4º, da mesma norma", pois "o TJRJ está contrariando previsão expressa dos artigos 25 e 26, da Lei Complementar nº 123/2006, em especial o art. 26, §4º"(fl. 358).
+Ao final, pugna pelo provimento dos aclaratórios, com efeitos modificativos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação da parte embargante não prospera.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+A decisão embargada negou provimento ao agravo da parte contribuinte com base na aplicação dos obstáculos das Súmulas 280/STF e 7/STJ, considerando que (I) a Corte local dirimiu a controvérsia tendo por base a legislação estadual (art. 149, I, "b", I, do Capítulo XXXV, do Anexo XIII, da Resolução SEFAZ 720/2014 e art. 62-C, da Lei Estadual 2.657/96), e (II) a revisão das premissas adotadas quanto à obrigatoriedade de emissão de nota fiscal na espécie demanda incursão no suporte fático-probatório dos autos.
+Tem-se, pois, que referido decisum adotou fundamentação mais que suficiente para solucionar a contenda, não havendo, assim, qualquer outro vício a ensejar o cabimento dos aclaratórios.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
