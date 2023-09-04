@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TJRJ assim ementado (e-STJ fls. 667/668):
+APELAÇÃO CÍVEL. DIREITO CIVIL E CONSUMIDOR. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. SENTENÇA DE IMPROCEDÊNCIA. APELO DA PARTE AUTORA. ATRASO NÃO COMPROVADO. PARTE AUTORA QUE TROCOU A UNIDADE ADQUIRIDA NO CURSO DA CONSTRUÇÃO. COM A TROCA DA UNIDADE A SER ADQUIRIDA, FOI CONCRETIZADO O DISTRATO DO CONTRATO DE COMPRA E VENDA ANTERIOR, SENDO REALIZADO NOVO CONTRATO DE COMPRA E VENDA DA NOVA UNIDADE. EM QUE PESE, NO ANTERIOR CONTRATO EXISTIR A PREVISÃO DE ENTREGA DO IMÓVEL EM 30.03.2016, JÁ CONTANDO O PRAZO DE TOLERÂNCIA DE 180 DIAS, NO NOVO CONTRATO RESTOU ENTABULADO PELAS PARTES QUE A ENTREGA DA UNIDADE DO AUTOR SE DARIA EM 31/09/2016, JÁ INCLUÍDO O PRAZO DE TOLERÂNCIA DE 180 DIAS, CONFORME CLÁUSULA 11 DO INSTRUMENTO DE COMPRA E VENDA. TENDO O "HABITE-SE" SIDO EXPEDIDO EM 06 DE JUNHO DE 2016, CONSTATA-SE QUE NÃO HOUVE QUALQUER ATRASO NA ENTREGA DO IMÓVEL, O QUAL PODERIA TER SIDO ENTREGUE ATÉ O DIA 31/09/2016. COMO EFEITO, A ALEGAÇÃO AUTORAL DE QUE A EMPRESA RÉ LHE TERIA INFORMADO QUE OS PRAZOS PARA A CONCLUSÃO DA OBRA NÃO SERIAM ALTERADOS NÃO MERECE GUARITA. COMPULSANDO OS AUTOS, CONSTATA-SE QUE O NOVO CONTRATO FOI PACTUADO EM 22/03/2016, OU SEJA, 08 DIAS ANTES DO TÉRMINO DO PRAZO DO ANTERIOR CONTRATO, PRAZO ESTE QUE SE REVELA BASTANTE REDUZIDO. NESTA SEARA, SE MOSTRA BASTANTE RAZOÁVEL QUE A CONSTRUTORA RÉ TENHA FIXADO NOVO MARCO TEMPORAL PARA A CONCLUSÃO DO EMPREENDIMENTO, EM OBSERVÂNCIA AO EFETIVO ANDAMENTO DAS OBRAS. PRECEDENTES DESTA C. CORTE DE JUSTIÇA. DESPROVIMENTO AO APELO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 789/797).
+Nas razões apresentadas (e-STJ fls. 831/857), os recorrentes apontam ofensa:
+(i) aos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, e
+(ii) aos arts. 322, § 2º, do CPC/2015, 51 e 53 do CDC e 67-A da Lei n. 13.786/2018 e à Súmula n. 543/STJ, pois a Corte local deveria ter decretado, de ofício, a rescisão imotivada do compromisso de compra e venda imobiliária, considerando o conjunto de suas postulações e o princípio da boa-fé. Assim, estaria justificada a retenção de 10% (dez por cento) a 25% (vinte e cinco por cento) dos valores pagos pela empresa recorrida, mesmo inexistindo pedido expresso dos compradores recorrentes nesse sentido.
+Sem contrarrazões (e-STJ fl. 946).
+O recurso foi admitido na origem (e-STJ fls. 948/956).
+É o relatório.
+Decido.
+Não assiste razão aos recorrentes quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses dos recorrentes não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+A tese de violação da Súmula n. 543/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518/STJ).
+O Tribunal de origem não debateu o conteúdo dos arts. 322, § 2º, do CPC/2015, 51 e 53 do CDC e 67-A da Lei n. 13.786/2018, a despeito dos aclaratórios opostos.
+Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+Registre-se ainda que os recorrentes nada alegaram a respeito dos referidos dispositivos na apelação (e-STJ fl. 558/571). Logo, não há omissão no julgado sobre o exame das teses trazidas nos aclaratórios, mas sim inovação recursal da parte recorrente, o que não se admite. A propósito:
+EMBARGOS DE DECLARAÇÃO EM FACE DO ACÓRDÃO QUE JULGOU O AGRAVO INTERNO. PROCESSUAL CIVIL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(..)
+2. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios à inovação recursal, ou ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+3. Embargos de declaração rejeitados, com aplicação da multa prevista no §2º do art. 1026 do Novo Código de Processo Civil.
+(EDcl no AgInt no AREsp n. 917.057/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/5/2019, DJe 4/6/2019.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. ART. 535 DO CPC/73. OMISSÃO INEXISTENTE. ART. 333 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. DISSÍDIO JURISPRUDENCIAL. TRIBUNAL LOCAL QUE RECONHECEU A COMPROVAÇÃO DO DANO MORAL COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REFORMA. SÚMULA Nº 7 DO STJ. VALOR INDENIZATÓRIO. REDUÇÃO. DESNECESSIDADE. VERBA FIXADA COM MODERAÇÃO E RAZOABILIDADE. CLÁUSULA PENAL. CUMULAÇÃO COM LUCROS CESSANTES. POSSIBILIDADE. BIS IN IDEN. INOCORRÊNCIA. DEVOLUÇÃO DE VALORES. FORMA DE ATUALIZAÇÃO. OFENSA AO 406 DO CC/02. FALTA DE PREQUESTIONAMENTO. MATÉRIA NÃO DEDUZIDA NAS RAZÕES DE APELAÇÃO. INOVAÇÃO RECURSAL. SÚMULA Nº 211 DO STJ.
+(..)
+6. A matéria atinente aos índices de correção e juros moratórios (art. 406 do CC/02) não foi objeto de impugnação nas razões da apelação, somente sendo levantada em embargos de declaração e, posteriormente, em recurso especial, tratando-se, inequivocamente, de inovação recursal.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 791.557/AM, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/2/2017, DJe 9/3/2017.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
