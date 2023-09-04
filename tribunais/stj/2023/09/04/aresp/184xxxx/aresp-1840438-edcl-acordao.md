@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. O inconformi smo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Quanto aos arts. 2º, 5º, I e XXXV, 7º, V, 37 e 170 da CF/1988, cumpre assinalar que não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo constitucional, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por SAO PAULO PREVIDENCIA - SPPREV e OUTRO  contra o acórdão da Primeira Turma, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.076/STJ. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO DO RECURSO ESPECIAL REPETITIVO. PROVIMENTO NEGADO.
+1. A Corte Especial, ao julgar o REsp 1.906.618/SP (Tema 1.076), definiu tese segundo a qual "a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados".
+2. Nos termos da jurisprudência do STJ, "não há necessidade de se aguardar o trânsito em julgado do acórdão proferido em precedente uniformizador para que se possa aplicá-lo" (AgInt na Rcl 39.382/RS, relator Ministro Og Fernandes, Primeira Seção, DJe de 14/5/2021).
+3. Agravo interno a que se nega provimento (fl. 449)
+A parte embargante sustenta a existência de omissão, diante da necessidade de sobrestamento dos autos ante a inexistência de trânsito em julgado do Tema 1.076. Tece considerações acerca de violação dos arts. 2º, 5º, I e XXXV, 7º, V, 37 e 170 da CF/1988.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 501/506).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. O inconformi smo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Quanto aos arts. 2º, 5º, I e XXXV, 7º, V, 37 e 170 da CF/1988, cumpre assinalar que não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo constitucional, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+Conforme consignado no acórdão embargado, o STJ possui o entendimento de ser desnecessário aguardar o trânsito em julgado para a aplicação do precedente firmado em recurso repetitivo ou em repercussão geral, nos termos do seguinte excerto:
+O julgamento do Tema 1.076/STJ ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi concluído com o estabelecimento das seguintes teses:
+i) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação, ou (b) do proveito econômico obtido, ou (c) do valor atualizado da causa; e ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Conquanto ainda não tenha transitado em julgado o respectivo acórdão, o STJ tem entendido pela desnecessidade de aguardá-lo para o fim de determinar o juízo de conformação (EDcl no AgInt no AREsp 1.717.878/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5 -, Primeira Turma, DJe 4/5/2022).
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. PIS/COFINS. CREDITAMENTO. MONOFASIA. INCOMPATIBILIDADE. TEMA 1.093/STJ. ARESTO EMBARGADO. CONSONÂNCIA COM A POSIÇÃO CONSOLIDADA NO STJ. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO. SÚMULA 168/STJ.
+1. A Primeira Seção do STJ consolidou o posicionamento de que "É vedada a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre os componentes do custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica (arts. 3º, I, "b" da Lei n. 10.637/2002 e da Lei n. 10.833/2003)" - Tema 1.093/STJ - REsp 1.894.741/RS e REsp 1.895.255/RS, Rel. Min. Mauro Campbell Marques, julgados em 27/4/2022, DJe 5/5/2022.
+2. O acórdão embargado foi proferido em consonância com a atual orientação desta Corte, circunstância que atrai a incidência da Súmula 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Não se faz necessário o sobrestamento dos embargos de divergência até o trânsito em julgado dos recursos representativos da controvérsia no Tema 1.093/STJ, pois "Este Superior Tribunal firmou entendimento de que não há necessidade de se aguardar o trânsito em julgado do acórdão proferido em precedente uniformizador para que se possa aplicá-lo" (AgInt na Rcl n. 39.382/RS, relator Ministro Og Fernandes, Primeira Seção, julgado em 20/4/2021, DJe de 14/5/2021).
+4. Agravo interno não provido. (AgInt nos EREsp n. 1.772.957/PR, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 23/9/2022.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ALEGADA AFRONTA AO ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA 660 DOS RECURSOS REPETITIVOS. NÃO CABIMENTO. DESNECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO.
+1. Este Superior Tribunal firmou entendimento de que não há necessidade de se aguardar o trânsito em julgado do acórdão proferido em precedente uniformizador para que se possa aplicá-lo. Precedentes.
+2. Quanto ao uso da reclamação contra acórdão em agravo interno que mantém decisão de não admissão de recurso especial, com fundamento na observância a entendimento firmado em recurso repetitivo, a Corte Especial decidiu pelo não cabimento desse instrumento processual para esse mister (Rcl 36.476/SP).
+3. Agravo interno a que se nega provimento. (AgInt na Rcl n. 39.382/RS, relator Ministro Og Fernandes, Primeira Seção, DJe de 14/5/2021.) (fls. 452/453).
+Quanto aos arts. 2º, 5º, I e XXXV, 7º, V, 37 e 170 da CF/1988, cumpre assinalar que não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo constitucional, ainda que para fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. De início, quanto o aventado "erro material passível de correção" e do "erro de avaliação do julgador" (fls. 2196/2197), a pretensão do embargante não é direcionada ao simples acerto de equívoco material, mas à própria alteração completa e substancial do julgamento da Primeira Turma, o que não é viável no caso concreto.
+4. Quanto os dois pontos indicados como omissos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+5. Está consolidado o entendime nto de que "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República" (EDcl no REsp 1.725.452/RS, Relatora Ministra Regina Helena Costa, DJe 22/9/2021).
+6. Embargos de declaração rejeitados. (EDcl no REsp n. 1.979.138/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+Constato que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
