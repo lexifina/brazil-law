@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TJRS assim ementado (e-STJ fl. 341):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS E CLÁUSULAS ANÁLOGAS. REPETIÇÃO DO
+INDÉBITO.
+Caracterizada a abusividade em contrato de crédito bancário pela excessiva taxa de juro remuneratório, justifica-se a redução do proveito do credor equivalente à taxa média, conforme a orientação da maioria da Vigésima Câmara. APELAÇÃO CÍVEL DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 363/368).
+Nas razões apresentadas (e-STJ fls. 430/440), o recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, afirmando haver negativa de prestação jurisdicional, pois o Tribunal a quo "restou omisso quanto aos dados utilizados como parâmetro no caso concreto, isso é, qual a modalidade creditícia considerada e a respectiva média de mercado utilizada para realização do cotejo que levou à conclusão de abusividade. Igualmente, deixou de apreciar tese essencial para a resolução da lide, qual seja, a necessidade de observar as orientações do próprio Bacen, no que toca à definição da correta modalidade creditícia a ser utilizada como parâmetro em cotejos que envolvam contratos de aditamento, como os do caso em tela" (e-STJ fl. 433).
+O recurso foi admitido na origem (e-STJ fls. 453/456).
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo deixou claros os motivos pelos quais limitou à media de mercado o percentual dos juros remuneratórios dos contratos celebrados entre as partes, não incorrendo, desse modo, em omissão, contradição ou obscuridade. Confira-se (e-STJ fls. 338/340):
+De um modo geral, os juros remuneratórios dos contratos de crédito bancário, exceto as cédulas de crédito especiais a juros subsidiados para desenvolvimento dos setores mercantil, industrial, agrícola e pecuário, são livres sem ser abusivos, não se limitam em 12% ao ano nem à taxa Selic, como decidiram STF e STJ. Entretanto, quando consolidada a jurisprudência nos tribunais superiores, a dialética processual e a ação da jurisprudência local passou a adotar a orientação de que o juro remuneratório dos contratos de crédito bancário é abusivo ao exceder à taxa média do BACEN.
+(..)
+Nas circunstâncias da causa, as partes firmaram cinco contratos: a) contrato nº 131790454-6, celebrado em 07/06/2018, com taxas de juros remuneratórios de 157,08% ao ano; b) contrato nº 132899102-9, firmado em 03/07/2018, com taxas de juros remuneratórios de 87,44% ao ano; c) contrato sem numeração, pactuado em 17/09/2019, com taxa de juros remuneratórios de 152,49% ao ano; d) contrato sem numeração, assinado em 15/05/2020, com taxas de juros remuneratórios de 76,90% ao ano; e) contrato sem numeração, firmado em 15/05/2020, com taxas de juros de 138,62% ao ano.
+Dos cinco contratos, apenas o "a" se trata de contratação original, sendo os demais ("b", "c", "d" e "e") contratos vinculados à composição de dívidas.
+Assim, no que tange à pretensão revisional, tenho que para os contratos "a" e "b", não resulta configurada qualquer abusividade, visto que a taxa de juros pactuada não superou o dobro da taxa média do BACEN.
+No entanto, no que tange aos três contratos sem numeração, firmados respectivamente em 17-09-2019, 15-05-2020 e 15-05-2020, resta configurada a abusividade.
+Nesse sentido, reafirma-se a sentença quanto aos juros remuneratórios.
+Em conclusão, limita-se o juro remuneratório contratual de 152,49% ao ano do contrato sem numeração pactudo em 17-09-2019, o juro remuneratório contratual de 76,90% ao ano do contrato sem numeração pactuado em 15-05-2020 e o juro remuneratório contratual de 138,62% ao ano do contrato sem numeração pactuado em 15-05-2020 ano à taxa média do período divulgada pelo BACEN, incumbindo às partes projetar tal estipulação judicial no contrato para dar cumprimento do julgado, do que decorrerá crédito a qualquer das partes, ao credor pelo contrato se o devedor deixou de pagar segundo a taxa agora determinada, ou ao devedor pelo contrato, se pagou a mais do que a taxa ora estipulada, do que decorrerá compensação ou repetição, como se demonstrar em liquidação do julgado ou como compuserem as partes, em se tratando de interesse patrimonial disponível.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses do recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
