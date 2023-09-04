@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 1.474/1.479) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fl. 1.464):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ERRO DO RECORRENTE NA VINCULAÇÃO DO RECURSO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia. Além disso, nos termos da Súmula n. 284/STF, não se conhece do especial quando a deficiência em sua fundamentação impedir a compreensão da suposta ofensa ao dispositivo legal invocado, ou quando as razões recursais estiverem dissociadas do que foi decidido no acórdão recorrido.
+2.1. No caso concreto, o recorrente equivocou-se no momento da interposição do recurso contra o acórdão do Tribunal local, protocolizando razões recursais elaboradas para impugnar outro aresto, que, por sua vez, transitou em julgado.
+3. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante afirma que houve, "primeiro, um erro material: não havia duas decisões interlocutórias, mas, sim, uma decisão de primeiro grau - que homologara a perícia contábil e protraíra o termo inicial dos juros de mora - impugnada por dois agravos de instrumento: um, interposto pela credora, ora embargante, contra o termo inicial dos juros de mora; e, o outro, interposto pela devedora, ora embargada, contra o quantum homologado em primeiro grau.  .. . Não obstante, foi uma omissão essencial do acórdão embargado que o levou a concluir que o acórdão que julgou o agravo de instrumento relativo aos juros de mora já transitou em julgado" (e-STJ fl. 1.475).
+Aduz que, "em razão de sua omissão, o acórdão embargado deixou de observar que, apesar do singelo erro de indicação do número do acórdão que julgou os embargos de declaração opostos a cada um dos arestos que julgaram os agravos de instrumento, a confusão argumentativa da secretaria judiciária do Tribunal mineiro não guarda correspondência com a decisão judicial de admissibilidade do recurso proferida nestes autos, que não teve dificuldades para identificar corretamente o verdadeiro acórdão recorrido, que está juntado às fls. 1150/1155 do Apenso 1" (e-STJ fl. 1.476).
+Sustenta que, "embora o recurso especial tenha apontado a numeração correta do acórdão que buscava reformar - com o final "009" -, ao instruir os autos remetidos a esse Superior Tribunal de Justiça, o Tribunal a quo equivocou-se ao juntar ao processo, como acórdão recorrido, o aresto que julgou o outro agravo de instrumento, de nº 1.0079.99.009123-7/008, que fora interposto na origem pela parte ora embargada (cf. fls. 1121/1127)" (e-STJ fl. 1.477).
+Ao final, pede o acolhimento dos aclaratórios, para que sejam supridos os vícios apontados.
+Impugnação apresentada às fls. 1.483/1.491 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+No caso concreto, a parte pleiteia nova análise do recurso anteriormente interposto, repisando as mesmas alegações apresentadas previamente.
+O recurso anterior foi devidamente examinado no acórdão ora embargado, nos seguintes termos (e-STJ fls. 1.469/1.470):
+Em suma, no sistema operacional adotado pelo Tribunal de Justiça de Minas Gerais, a parte tem que vincular seu recurso à decisão ou ao acórdão impugnado. No caso dos autos, foram proferidas duas decisões interlocutórias e, contra cada uma, interpostos agravos de instrumentos e embargos de declaração. Ao protocolizar os recursos especiais, a parte, por equívoco, inverteu as peças recursais, vinculando-as a acórdãos que tratam de matéria distinta.
+Ressalvado meu entendimento a respeito, a jurisprudência desta Corte Superior é no sentido de ser ônus da parte aferir e fiscalizar a correta instrução do recurso interposto.
+Além disso, colhe-se das informações prestadas pelo Tribunal de origem - e pelas cópias de peças processuais do outro recurso, o agravo de instrumento autuado sob o n. 1.0079.99.009123-7/009 - que a recorrente outrossim interpôs recurso especial contra o acórdão ali proferido, inadmitido na origem por decisão contra a qual não se interpôs recurso. Confira-se, a propósito, a informação prestada pela Corte local (e-STJ, fls. 412):
+Informo, ainda, que o acórdão que a parte informa que seria o acórdão recorrido pertence ao Agravo de Instrumento 1.0079.99.009123-7/009 que possui o seguinte número do CNJ: 1698158-26.2019.8.13.0000 e as seguintes ligações:
+- Embargos de declaração: 1.0079.99.009123-7/011 - Recurso Especial: 1.0079.99.009123-7/014 (recurso inadmitido e transitado em julgado em 15/02/2022).
+O aresto proferido naquele feito, que tratou do tema relativo ao termo inicial dos juros, transitou em julgado, restando inviável qualquer exame sobre a matéria. Por sua vez, o acórdão proferido nestes autos, que concluiu pela necessidade de renovação da perícia contábil, não foi impugnado por meio de recurso apto, eis que as razões recursais revelam-se dissociadas da fundamentação exposta pelo Tribunal mineiro.
+Nem mesmo sob o enfoque da possível violação dos arts. 489 e 1.022 do CPC/2015 o recurso poderia ser conhecido, haja vista que as respectivas razões estão dissociadas dos temas efetivamente julgados. No mais, vê-se que a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, especificamente sobre os juros, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Colegiado negou provimento ao agravo interno por dois fundamentos autônomos: (i) não cumprimento do ônus de aferição e fiscalização da correta instrução do feito, em razão de erro no protocolo do recurso especial, admitido pela própria parte recorrente e confirmado pelo Tribunal de origem; e (ii) preclusão quanto ao tema relativo ao termo inicial dos juros, por trânsito em julgado da decisão que inadmitiu o recurso especial. Assim, cada um dos fundamentos é suficiente para manter o resultado do acórdão embargado.
+No mais, o fato de constar no acórdão embargado que houve duas decisões interlocutórias, em vez de uma, não tem aptidão para alterar o resultado do julgamento do agravo interno.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Dessa forma, não se constata nenhuma das hipóteses de cabimento dos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
