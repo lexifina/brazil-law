@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por REGIS APARECIDO BOSQUI E OUTROS com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÕES CÍVEIS. CONTRATO DE COMPRA E VENDA. LOTE EM CONDOMÍNIO RURAL. DESCUMPRIMENTO DE ENCARGOS CONTRATUAIS PELA INCORPORADORA. RESCISÃO CONTRATUAL E RESTITUIÇÃO DAS PARCELAS PAGAS. LUCROS CESSANTES. MERA POSSIBILIDADE. DIFICIL VERIFICAÇÃO E QUANTIFICAÇÃO. IMPROCEDÊNCIA. OMISSÃO DA SENTENÇA DE 1º GRAU. INEXISTÊNCIA. INTELIGÊNCIA DO ART. 489, IV, §1º. O JULGADOR NÃO ESTÁ OBRIGADO A RESPONDER A TODAS AS QUESTÕES SUSCITADAS PELAS PARTES, QUANDO JÁ TENHA ENCONTRADO MOTIVO SUFICIENTE PARA PROFERIR DECISÃO. PRECEDENTES DO STJ. TEORIA DO ADIMPLEMENTO SUBSTANCIAL À DEMANDA. NÃO CABIMENTO. NÃO SE TRATA DE VALORES ÍNFIMOS. APLICAÇÃO DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. IMPROCEDÊNCIA. O INADIMPLEMENTOS DOS COMPRADORES OCORREU APÓS VÁRIAS PARCELAS PAGAS. FALTA DE EMPREENDIMENTO DAS OBRAS DE INFRAESTRUTURA NÃO SE DEU EM DECORRÊNCIA DO NÃO PAGAMENTO. ATRASO. DADA A ATIVIDADE DA INCORPORADORA, PERDAS E DANOS DECORRENTES DA NÃO OBSERVAÇÃO DO VÍNCULO CONTRATUAL NÃO REQUER CULPA. RESPONSABILIDADE OBJETIVA. Recursos conhecidos e não providos." (e-STJ, fl. 1.052)
+Nas razões do recurso especial, a parte recorrente aponta dissidio jurisprudencial no tocante ao cabimento de lucros cessantes em havendo atraso na entrega do imóvel, independentemente da comprovação dos prejuízos ou da destinação do imóvel.
+É o relatório. Decido.
+Quanto ao alegado dissídio jurisprudencial, verifica-se a ausência de similitude fática entre os paradigmas colacionados e o caso dos autos. É que, no presente caso, trata-se da impossibilidade de fixação de lucros cessantes em razão da rescisão do contrato por atraso na entrega da obra de um lote em condomínio rural, com peculiaridades próprias, e, nos precedentes colacionados, não ocorreu a rescisão do contrato de compra e venda por atraso na entrega da obra, mas apenas a compensação pelo atraso na entrega da obra através da fixação dos lucros cessantes. Logo, ausente a similitude fática, requisito indispensável para a configuração do dissídio jurisprudencial. A propósito:
+RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO. NOME EMPRESARIAL. NOME DE DOMÍNIO NA INTERNET. REGISTRO. LEGITIMIDADE. CONTESTAÇÃO. AUSÊNCIA DE MÁ-FÉ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE
+FÁTICA.
+1. A anterioridade do registro no nome empresarial no órgão competente não assegura, por si só, ao seu titular o direito de exigir a abstenção de uso do nome de domínio na rede mundial de computadores (internet) registrado por estabelecimento empresarial que também ostenta direitos acerca do mesmo signo distintivo.
+2. No Brasil, o registro de nomes de domínio na internet é regido pelo princípio "First Come, First Served", segundo o qual é concedido o domínio ao primeiro requerente que satisfizer as exigências para o registro.
+3. A legitimidade do registro do nome do domínio obtido pelo primeiro requerente pode ser contestada pelo titular de signo distintivo similar ou idêntico anteriormente registrado - seja nome empresarial, seja marca.
+4. Tal pleito, contudo, não pode prescindir da demonstração de má-fé, a ser aferida caso a caso, podendo, se configurada, ensejar inclusive o cancelamento ou a transferência do domínio e a responsabilidade por
+eventuais prejuízos.
+5. No caso dos autos, não é possível identificar nenhuma circunstância que constitua sequer indício de má-fé na utilização do nome pelo primeiro requerente do domínio.
+6. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+7. Recurso especial não provido.
+(REsp 594.404/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 11/09/2013);
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. QUANTUM. REVISÃO. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE IMPROCEDENTE. IMPOSIÇÃO DE MULTA. ART. 557, § 2º, DO CPC.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ, e 541, parágrafo único, do CPC).
+2. No caso concreto, a ausência de similitude fática entre os acórdãos paradigmas e o decisum recorrido é manifesta, uma vez que apesar de todos tratarem de indenização por dano moral decorrente de indevida inscrição em órgão de restrição ao crédito cada qual possui peculiaridades subjetivas e contornos fáticos próprios conducentes à fixação do quantum indenizatório.
+Aplicável, por analogia, a Súmula n. 420 desta Corte: "Incabível, em embargos de divergência, discutir o valor de indenização por danos morais".
+3. A interposição de recurso manifestamente inadmissível ou infundado
+autoriza a imposição de multa, com fundamento no art. 557, § 2º, do CPC.
+4. Agravo regimental desprovido, com a condenação da agravante ao pagamento de multa no percentual de 1% (um por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 557, § 2º, do CPC).
+(AgRg no AREsp 151.759/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 04/09/2012)
+Ante o exposto, com arrimo no art. 255, §4º, I, do RI-STJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
