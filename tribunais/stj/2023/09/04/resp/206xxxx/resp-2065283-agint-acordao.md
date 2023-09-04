@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONCURSO PÚBLICO. TESTE PSICOTÉCNICO. CRITÉRIOS DE AVALIAÇÃO DA BANCA EXAMINADORA. ALTERAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste contrariedade aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu conven cimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A revisão do entendimento do aresto hostilizado em relação aos critérios utilizados pela banca examinadora para a avaliação do exame psicotécnico esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FRANCISLANE FERREIRA DA SILVA TELES contra decisão que conheceu em parte do recurso especial e, na parte conhecida, negou-lhe provimento, ante a ausência de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC e a a incidência da Súmula 7 desta Corte.
+A parte agravante alega, em síntese, que "houve violação ao art. 1.022 do CPC, tendo em vista que o Tribunal de origem, ao contrário do entendimento da decisão monocrática, deixou de emitir juízo sobre questões essenciais ao deslinde da controvérsia"(e-STJ fl. 501).
+Quanto à questão de fundo, sustenta, resumidamente, que "ao contrário do entendimento posto na decisão monocrática, não há necessidade de revolvimento do substrato fático-probatório para atingir conclusão jurídica diversa da posta na decisão do Tribunal de origem" (e-STJ fl. 503).
+Impugnação às e-STJ fls. 514/517.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONCURSO PÚBLICO. TESTE PSICOTÉCNICO. CRITÉRIOS DE AVALIAÇÃO DA BANCA EXAMINADORA. ALTERAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste contrariedade aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu conven cimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A revisão do entendimento do aresto hostilizado em relação aos critérios utilizados pela banca examinadora para a avaliação do exame psicotécnico esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar.
+Conforme consignado da decisão recorrida, em relação à alegada negativa de prestação jurisdicional, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMNISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL.DANO MORAL. AÇÃO EXTINTA, SEM APRECIAÇÃO DO MÉRITO. ART. 1022 DO CPC.OMISSÃO NÃO CONFIGURADA. ART. 337 DO CPC. COISA JULGADA. ACÓRDÃO ANCORADONO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA7/STJ.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de Rodovias Integradas do Oeste S.A., na qual o autor pretende obter indenização pelos danos morais e estéticos decorrentes de acidente em rodovia concedida à parte ré, o qual fora causado pela presença de animal no leito trafegável.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. O Tribunal a quo, com base em premissas fáticas, concluiu que apresente ação está fulminada pela eficácia preclusiva da coisa julgada que se formou em demanda anteriormente proposta pelo autor, em razão dos mesmos fatos. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se há ou não identidade entre as ações, exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.924.900/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRATURMA, DJe de 19/4/2022).
+Quanto ao mais, a alteração do acórdão combatido quanto aos critérios utilizados pela banca examinadora para a avaliação do exame psicotécnico da ora recorrente demandaria, necessari amente, o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido, destaco o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. AVALIAÇÃO DE PERFIL PROFISSIOGRÁFICO. VALIDADE. APLICAÇÃO DO CONJUNTO NORMATIVO VIGENTE À ÉPOCA DO EDITAL. AUSÊNCIA DE VEDAÇÃO PARA A REALIZAÇÃO DO PERFIL. EXAME PSICOLÓGICO. REPROVAÇÃO. PREVISÃO LEGAL E EDITALÍCIA. CRITÉRIOS OBJETIVOS E PREVISÃO DE RECORRIBILIDADE. LEGALIDADE RECONHECIDA PELA INSTÂNCIA A QUO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS E NA ANÁLISE DE CLÁUSULAS DO EDITAL DO CERTAME. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+1. A jurisprudência do STJ entende que "a realização do teste psicotécnico relativo ao perfil profissiográfico somente passou a encontrar óbice quando da edição do Decreto Federal 6.944/2009, que expressamente vedou a sua realização. Entretanto, tal disposição foi alterada menos de um ano depois pelo Decreto Federal 7.308/2010. Diante disso, impõe-se concluir que a vedação do teste de avaliação de perfil somente ocorreu para os concurso públicos lançados entre outubro de 2009 e setembro de 2010, período de vigência do Decreto Federal 6.499/2009."
+(EAREsp 236.066/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 11/5/2016, DJe 18/05/2016).
+2. In casu, o Edital é de 2015, inexistindo proibição expressa quanto à realização do teste para aferição de perfil profissiográfico, razão pela qual deve ser considerada válida a sua exigência.
+3. A decisão recorrida adotou entendimento consolidado no STJ, segundo o qual é legítima a previsão de realização de exame psicotécnico em concursos públicos, desde que haja previsão na lei e no edital do certame e objetividade dos critérios adotados, resguardando-se, ainda, o direito de recurso revisional pelo candidato. Precedentes: AgRg no RMS 43.363/AC, Rel. Min. Humberto Martins, Segunda Turma, DJe 13/8/2014; AgRg no Ag 1.193.784/GO, Rel. Min. Marco Aurélio Bellizze, Quinta Turma, DJe 14/5/2014; AgRg no REsp 1.404.261/DF, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18/2/2014.
+4. Outrossim, o Tribunal de origem reconheceu a legalidade do exame psicotécnico com base no contexto fático-probatório dos autos e na análise de cláusulas do edital do certame. Sob esse aspecto, a análise da pretensão veiculada no Recurso Especial incide nos obstáculos das Súmulas 5 e 7/STJ.
+5. Recurso Especial de que não se conhece.
+(REsp n. 1.705.455/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe de 19/12/2017.).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
