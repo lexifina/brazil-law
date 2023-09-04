@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por GETULIO MOURA DE SIQUEIRA contra decisão que negou seguimento ao recurso especial sob o fundamento de incidência da Súmula n. 83/STJ (e-STJ fls. 1.241/1.243).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.021/1.022):
+PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFÍCIO COMPLEMENTAR. HORAS-EXTRAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO. RECURSO REPETITIVO. LEGITIMIDADE PASSIVA DO BANCO DO BRASIL. MODULAÇÃO DOS EFEITOS. BENEFÍCIO PRINCIPAL. LIQUIDAÇÃO DE SENTENÇA. BENEFÍCIO ESPECIAL. NÃO CABIMENTO. PRESERVAÇÃO DO SALÁRIO DE PARTICIPAÇÃO.
+I. O Banco do Brasil S/A é parte legítima para responder a demanda deduzida conjuntamente contra a PREVI, se a causa de pedir recai sobre a sua conduta ilícita e não lhe é direcionado pedido de revisão do benefício previdenciário, mas de pagamento das parcelas necessárias à formação da fonte de custeio necessária à sua efetivação.
+II. O direito de cobrar parcelas de complementação da aposentadoria prescreve no prazo de cinco anos, conforme art. 75 da Lei Complementar n.º 109/2001 e entendimento já sedimentado nas Súmulas n.º 291 e n.º 427 do Superior Tribunal de Justiça.
+III. O STJ firmou orientação, no julgamento do recurso especial representativo de controvérsia n o 1.312.736/RS, que, doravante, não será possível incluir as horas extras reconhecidas pela Justiça do Trabalho no cálculo do benefício complementar já concedido, devendo eventual reparação de danos ser buscada diretamente ao ex-empregador na Justiça do Trabalho. Em atenção à segurança jurídica, no entanto, modulou os efeitos desta decisão para assegurar o direito àqueles que já tivessem judicializado a pretensão revisional, houvesse previsão regulamentar e fosse realizada a recomposição prévia e integral da reserva matemática.
+IV. O beneficiário tem direito de ter suas horas extras consideradas na composição do salário-de-participação, com reflexos no cálculo do benefício. No entanto, é necessária a observância do teto contributivo e das normas regulamentares e a realização de perícia técnica atuarial, em sede de liquidação de sentença, para se apurar o aporte necessário a recomposição da reserva matemática, a ser vertido pelo patrocinador e pelo beneficiário, autorizada a compensação por este último com a entidade.
+V. Reconhecido o direito, a devedora deve responder pelos ônus da sua sucumbência.
+VI. O trabalhador, que sofreu perda parcial da sua remuneração mensal, por não houver recebido as horas extras no tempo em que as prestou, poderá invocar a prerrogativa de preservação do salário-de-participação, prevista no art. 14, IV, da LC 109/2001 e no art. 30 do Regulamento do Plano de Benefícios 1 da PREVI, para manter o equilíbrio do direito acumulado, mas deverá responder pelas contribuições pessoais e patronais por todo o período de interesse.
+VII. De outro lado, não cabe a revisão do Benefício Especial Temporário (BET), porque criado para distribuir superávit verificado no ano de 2010, tratando-se, portanto, de benefício com prazo e recursos limitados, que, por já terem se findado, carecem de fonte de custeio, que sequer pode ser recomposta, dada a sua natureza semelhante a dividendos.
+VIII. Deu-se parcial provimento ao recurso do autor. Negou-se provimento ao recurso do réu.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.083/1.088).
+No especial (e-STJ fls. 1.091/1.099), fundamentado no art. 105, inciso III, alínea "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e ofensa aos arts. 1º, 2º, 9º, 18, 19, 21, 32, 68 da Lei Complementar n. 109/2001 e 3º e 6º da Lei Complementar n. 108/2001 e 186 e 927 do CC/2002, sustentando ser exclusiva do réu BANCO DO BRASIL S.A. a responsabilidade pela recomposição da reserva matemática do autor junto à PREVI.
+No agravo (e-STJ fls. 1.252/1.258), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foram apresentadas contrarrazões e contraminuta (e-STJ fls. 1.268/1.277 e 1.374/1.384).
+É o relatório.
+Decido.
+Tendo em vista o provimento simultâneo do recurso especial interposto pelo BANCO DO BRASIL S.A., com o fim de excluir a instituição financeira patrocinadora da lide, está prejud icada a análise do presente recurso no qual se discute a responsabilidade exclusiva do banco para recompor a reserva matemática.
+Diante do expo sto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
