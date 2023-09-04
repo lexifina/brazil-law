@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 171/176) opostos à decisão desta relatoria que negou provimento ao recurso especial (e-STJ fls. 165/168).
+A parte embargante sustenta que a decisão embargada incorreu em omissão relativamente às seguintes alegações: (i) o acordo foi homologado com base no art. 487, III, "b", do CPC/2015, havendo o trânsito em julgado da decisão homologatória; e (ii) "a credora  ora embargante  efetuou o pagamento no valor de R$ 11.676,00 à título de custas da fase de cumprimento de sentença" (e-STJ fl. 173).
+Impugnação apresentada às fls. 180/182 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando na decisão judicial houver obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Com efeito, a decisão embargada, que negou provimento ao recurso especial, foi expressa em reconhecer que, "tratando-se de acordo celebrado entre credor e devedor nos autos de processo de execução, o entendimento do Tribunal de origem está em consonância com a jurisprudência deste Tribunal Superior, segundo a qual, "na hipótese de descumprimento de acordo celebrado por parte do devedor, o feito retorna ao seu status quo ante, prosseguindo, com lastro, no título executivo originário, e não no acordo celebrado" (AgRg nos EDcl no Ag n. 1.315.999/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/6/2016, DJe de 8/6/2016)" (e-STJ fl. 167, destaquei).
+No mesmo sentido: AgInt no REsp n. 1.432.616/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2017, DJe de 3/8/2017; AgRg no Ag n. 1.409.792/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/9/2015, DJe de 8/9/2015; e REsp n. 1.034.264/DF, relator Ministro Fernando Gonçalves, Quarta Turma, julgado em 11/11/2008, DJe de 11/5/2009.
+Assim, ainda que transitada em julgado a decisão homologatória da transação celebrada na via judicial, há de se observar que, "especificamente no âmbito da execução, se houver ajuste entre as partes, o juiz declarará suspensa a execução durante o prazo concedido pelo exequente para que o executado cumpra voluntariamente a obrigação e, findo o prazo sem cumprimento, o processo retomará o seu curso (art. 922 do CPC/2015)" (REsp n. 2.062.295/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2023, DJe de 14/8/2023 - grifei).
+Assim, a pretensão recursal se volta, em última análise, à rediscussão de matéria devidamente examinada e rejeitada na decisão embargada, o que é incabível nos embargos declaratórios.
+Destaca-se que o julgador não está obrigado a rebater, um a um, os dispositivos e argumentos invocados pelas partes, bastando que os fundamentos utilizados sejam suficientes para embasar a decisão.
+Havendo motivação satisfatória para d irimir o litígio nos moldes da decisão embargada, não se constata nenhuma das hipóteses de cabimento dos declaratórios, não configurando nenhum dos vícios previstos no art. 1.022 do CPC/2015 o fato de a decisão recorrida ser contrária aos interesses da parte embargante.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
