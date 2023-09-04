@@ -1,0 +1,34 @@
+DECISÃO
+GLEISON ANDERSON GARCIA LUCAS alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0045295-86.2022.8.19.0001.
+Nas razões do writ, a defesa postula a absolvição do réu em relação à prática do delito descrito no art. 35 da Lei n. 11.343/2006.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem .
+Decido.
+O Tribunal de origem, ao julgar a apelação criminal defensiva, preservou a condenação do réu pelo crime de associação para o tráfico com base nos argumentos seguintes (fls. 107-108 , grifei):
+Como se vê, é evidente que a hipótese dos autos não configura mera venda ocasional e transitória, mas sim mercancia estável e permanente.
+Não há falar em ausência dos requisitos de estabilidade e permanência, em relação ao crime de associação para o tráfico.
+Cabe relevar que o ânimo associativo, a estabilidade e a permanência, todos necessários à configuração do delito previsto no art. 35 da Lei nº 11.343/06, também se encontram exaustivamente comprovados nos autos.
+É indubitável que o apelante estava inserido no contexto de atividades criminosas da facção criminosa "Comando Vermelho", atuante na Comunidade da Vila Kennedy.
+Tal conclusão é extraída dos depoimentos dos policiais militares inquiridos em Juízo, notadamente no que diz respeito às circunstâncias em que ocorreu a prisão.
+Destarte, pela própria forma violenta como atuam as facções criminosas, seria impossível que o apelante atuasse naquele local sem integrar a quadrilha. Caso contrário, seria certamente morto, diante do fato de conhecimento geral de que traficantes de drogas não são afetos a concorrência.
+Assim, não se pode desconsiderar a efetiva existência de um ajuste permanente entre o apelante e o "Comando Vermelho", a que integra seguramente, caso contrário jamais poderia traficar naquela específica região "governada", submetida, regida e chefiada por aquela violentíssima facção criminosa, que subjuga todos os moradores e transeuntes da região pela força das armas de guerra que ilicitamente seus componentes desfilam à luz do dia em via pública em tripúdio e zombaria do Estado brasileiro e dos cidadãos pacatos e cumpridores da lei.
+Oportuno se toma dizer que a prisão ocorreu em contexto que demonstra tal associação.
+Além disso, não lhe seria confiada expressiva quantidade de droga se não estivesse agregado à respectiva organização criminosa atuante naquela região.
+Forçoso reconhecer, portanto, que existem elementos hábeis para afirmar que o apelante estava, de fato, associado de forma estável e permanente a outros elementos não identificados para o vil comércio de drogas, eis que, além da expressiva quantidade e variedade de drogas arrecadadas, foi preso em local dominado pela facção Comando Vermelho e o material se encontrava identificado como sendo de distribuição desse grupo.
+De se destacar que o material entorpecente embalado e fracionado em sacos plásticos, que sabidamente destinava-se à venda, evidencia a estabilidade do vínculo associativo com a facção criminosa "Comando Vermelho" que controla a venda de drogas no local dos fatos, não sendo possível a venda autônoma em localidade controlada pelo referido grupo criminoso sem dele participar, como bem pontuado pela D. Procuradoria de Justiça.
+Deste modo, restou plenamente comprovada a prática dos delitos de tráfico de entorpecentes e associação para o tráfico, não cabendo aqui a pretendida absolvição.
+Faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, de Rel. Ministro Rogerio Schietti, DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+Nos autos em exame, a Corte estadual, em nenhum momento, fez referência ao vínculo associativo estável e permanente porventura existente entre o réu e os supostos demais traficantes da comunidade; ao contrário, entendeu devida a condenação pela associação tão somente pelo fato de o ora paciente haver sido preso com grande quantidade de drogas em local supostamente dominado por facção criminosa.
+Não foi apontado, portanto, nenhuma menção a vínculo estável porventura existente entre eles, de maneira que tenho como inviável a manutenção da condenação pelo tipo penal descrito no art. 35 da Lei n. 11.343/2006, que, conforme mencionado, também exige a estabilidade da associação.
+Por essas razões, justamente porque constatada a associação meramente eventual para a prática do crime de tráfico de drogas, deve ser provido o recurso nesse ponto, para absolver os agravantes em relação ao crime descrito no art. 35 da Lei n. 11.343/2006.
+Em caso semelhante, este Superior Tribunal também decidiu pela absolvição em relação ao delito previsto no art. 35 da Lei de Drogas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. ESTABILIDADE E PERMANÊNCIA NÃO COMPROVADAS NO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL EXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para a configuração do crime de associação para o tráfico exige-se a demonstração do vínculo de estabilidade e permanência entre duas ou mais pessoas, nos termos do art. 35, caput, da Lei n.º 3.433/2006.
+2. Na hipótese, nem sequer foi ressaltada a existência objetiva de vínculo estável e permanente, sendo que a Corte de origem limitou-se a afirmar que a localidade era dominada por facções criminosas, sendo "impossível que alguém realize o comércio ilícito de entorpecentes sem pertencer a tais organizações espúrias ou aliar-se a seus chefes" (fl. 41).
+3. "A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa." (HC 462.888/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/10/2018, DJe 05/11/2018; sem grifos no original.)
+4. Agravo regimental desprovido.
+(AgRg no HC n. 542.065/RJ, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/6/2020)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de absolver o réu pelo delito de associação para o tráfico .
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
