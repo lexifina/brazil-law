@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 71):
+EXECUÇÃO INDIVIDUAL Extinção do processo Interposição de agravo de instrumento Inadmissibilidade Recurso cabível é apelação Inteligência dos arts. 203, §1º e 1.009, caput, ambos do CPC 2015 Não conhecimento do agravo.
+Rejeitados os embargos de declaração opostos (fls. 94).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou os arts. 203, § 2º, e 1.015, parágrafo único, do CPC. Afirma que (fl. 107):
+É incontroverso que o magistrado denominou seu pronunciamento como decisão, bem como julgou extinto o cumprimento de sentença por equívoco, já que o depósito foi realizado apenas para garantia da execução, contudo, tais fatos não alteram a natureza interlocutória da decisão.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 121-127).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 128-130), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 184-188).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão a respeito do não cabimento do agravo de instrumento contra decisão que expressamente extinguiu a execução.
+E, a propósito do contexto recursal, destacou a origem (fls. 71-72):
+O presente agravo não está em caso de ser conhecido, na conformidade dos fundamentos e com a observação a seguir expostos.
+O ora agravante interpôs agravo de instrumento contra a decisão que extinguiu o processo, nos termos do art. 924, inc. II, do Código de Processo Civil .
+(..)
+Uma vez que a decisão agravada indiscutivelmente pôs fim ao procedimento executivo em trâmite, extinção esta decorrente do art. 924, inc. II, do Código de Processo Civil de 2015, inaceitável que tivesse o agravante interposto contra esta decisão agravo de instrumento.
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação um a decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito: "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1/9/2022).
+No mesmo sentido:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021. (EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+No caso, como visto no trecho citado acima, o Tribunal de origem consignou que houve extinção do cumprimento de sentença. Desse modo, entendeu que seria cabível apelação contra aquela decisão.
+Tal posicionamento está de acordo com a jurisprudência desta Corte. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO INESCUSÁVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. SÚMULA 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. O entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução;
+enquanto o agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.246.535/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE.
+1. A jurisprudência do STJ é uníssona ao afirmar que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação, enquanto aquela julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal.
+2. In casu, o Tribunal de origem estabeleceu que a decisão, além de rejeitar a habilitação de herdeiros, pôs fim ao incidente de Cumprimento de Sentença em virtude da prescrição. Não se trata, pois, de decisão interlocutória, razão pela qual cabível o recurso de Apelação.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 2.032.528/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. DECISÃO EXTINGUINDO O FEITO. RECURSO CABÍVEL. APELAÇÃO.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Segundo a jurisprudência do STJ, "a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser combatida por meio de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal" (REsp 1.803.176/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 09/05/2019, DJe 21/05/2019). Precedentes.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.011.707/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023.)
+Dess arte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+ EMENTA
