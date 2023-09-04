@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do
+Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o art. 535 do CPC/1973, os embargos de declaração é recurso destinado a sanar obscuridade, contradição, omissão ou erro material na decisão ou acórdão.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por José Edilson de Souza Freitas contra acórdão, assim ementado (fls. 2.716-2.720):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR MANTIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a decisão agravada, proferida pela Presidência desta Corte Superior, não conheceu do agravo em recurso especial aos fundamentos de que: a) o recurso especial não foi devida e oportunamente preparado, após a intimação do recorrente para o saneamento do vício, razão por que incide ao caso a Súmula 187/STJ; b) não houve indicação, no recurso especial, dos normativos de lei federal supostamente violados; e c) não é cabível recurso especial sob alegação de violação a dispositivos constitucionais. Ocorre que o agravante não impugnou, especificamente, os fundamentos contidos na decisão agravada, razão por que deve incidir a Súmula 182/STJ.
+3. Agravo interno não conhecido. (AgInt no ARESP n. 2.217.471/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe: 10/5/2023)
+O embargante aponta omissã o no acórdão proferido pelo Tribunal de origem quanto ao fato de que, apesar da previsão consubstanciada no art. 142 da Lei 8.112/1990, o qual estabelece o prazo prescricional de 5 (cinco) anos para a instauração de procedimento administrativo disciplinar, essa regra geral não se aplica ao caso concreto, mas o prazo de 4 (quatro) anos previsto no art. 390 do Decreto n. 59.310/1966 (dispõe sobre o regime jurídico dos Funcionários Policiais Civis do Departamento Federal de Segurança Pública e da Polícia do Distrito Federa).
+Defende assim que o processo administrativo disciplinar originário "foi instaurado após esgotado o prazo prescricional de 4 (quatro) anos, sendo, portanto, impositivo o reconhecimento da prescrição" (fl. 2.735).
+Assevera também que "o segundo fundamento desse aclaratório visa sanar omissão no acórdão vergatado, no tocante à manifesta ausência de justa causa, vez que trata-se de questão de ordem pública, que não só podia ser analisada, como assim deveria" (fl. 2.736).
+Nesse contexto, requer sejam acolhidos os embargos declaratórios, a fim de "declarar a extinção da punibilidade administrativa do embargante em razão da evidente prescrição dos fatos que lhe foram imputados, promovendo-se, em seguida, o arquivamento do PAD 014/2017, ou, ao menos, reconhecer-se e declarar-se a ausência de justa causa para instauração de PAD 014/2017 em desfavor do Embargante, determinando-se o seu trancamento e subsequente arquivamento" (fl. 2.740).
+Sem impugnação (cf. certidão de fl. 2.750).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do
+Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o art. 535 do CPC/1973, os embargos de declaração é recurso destinado a sanar obscuridade, contradição, omissão ou erro material na decisão ou acórdão.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, à unanimidade, o acórdão embargado negou provimento ao agravo interno do embargante, mantendo a decisão anterior que não conheceu do agravo em recurso especial, porquanto não impugnado especificamente os fundamentos da decisão de inadmissibilidade do recurso especial. Confira-se:
+O servidor na origem impetrou mandado de segurança, objetivando que a autoridade impetrada proceda ao trancamento do Procedimento Administrativo Disciplinar nº 014/2017 e anulação de todos os seus atos.
+O acórdão recorrido negou provimento à apelação ao fundamento de que o prazo prescricional para a instauração do processo de natureza disciplinar é de cinco anos contados para as infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão, e que, na espécie, "não faria sentido lógico a autoridade administrativa responsável pelo que dispõe o art. 142 da Lei nº 8.112/90 promover, antes de as informações terem sido tornadas públicas, a instauração do PAD".
+A Vice Presidência do Tribunal de origem inadmitiu o recurso especial nos seguintes termos:
+A discussão trazida em sede recursal encontra óbice na Súmula 7 do Superior Tribunal de Justiça ( "A ), haja vista que, para alterar o pretensão de simples reexame de prova não enseja recurso especial." entendimento do acórdão recorrido, seria preciso revolver todo o substrato fático-probatório dos autos.
+Descabe o recurso quanto à interposição pela alínea "c", uma vez que a jurisprudência é pacífica no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto com base na qual deu solução à causa a Corte de origem. Nesse sentido, v.g., Agint no REsp 1.566.524/MS, Rel. Ministra Maria Izabel Galotti, Terceira Turma, DJe 2/4/2020; Agint no AREsp 1.352.620/SP, Rel. Ministro Marco Bellizze, Terceira Turma, DJe 06/04/2020.
+Dessa forma, as razões da parte recorrente não se afiguram plausíveis de molde a permitir a formulação de juízo positivo de admissibilidade, por não restar demonstrada negativa de vigência ou aplicação inadequada de legislação federal.
+O agravante nas razões do agravo em recurso especial sustentou que as questões seriam "meramente de direito, demonstrando a não obediência aos dispositivos federais".
+Com efeito, esta Corte tem reiteradamente decidido no sentido de que incumbe ao agravante impugnar especificamente todos os fundamentos da decisão de inadmissibilidade, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do recurso especial, sob pena de não conhecimento do agravo de que trata o artigo 1.042 do CPC de 2015 (antigo artigo 544 do CPC de 1973). Nesse sentido: EAREsp 701.404/SC, Rel. Ministro Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.
+No caso, em nova análise, evidencia-se que o agravante não impugnou especificamente todos fundamentos da decisão de inadmissibilidade, estando correta, pois, a decisão agravada que aplicou o óbice da Súmula 182/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
+Sob esse enfoque, ao contrário do sustentado pelo embargante, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada ao assentar que, à luz do artigo 1.021, § 1º, do CPC/2015 e conforme entendimento sedimentado na Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão de inadmissibilidade do recurso especial.
+Quanto aos argumentos trazidos pelo embargante vinculados ao mérito do recurso: i) de que a prescrição de 4 anos previsto no Decreto n. 59.310/1966 deveria se sobrepor ao art. 142 da Lei 8.112/1990; e ii) e "ausência de justa causa para o prosseguimento do PAD 014/2017, ante a manifesta ausência de justa causa", tem-se que os embargados de declaração não merece êxito, visto que o recurso especial sequer ultrapassou a fase de admissibilidade.
+Com efeito, essa Corte tem reiteradamente decidido no sentido de que "mesmo as questões de ordem pública devem passar pelo crivo do prequestionamento" (AgInt no AREsp n. 1.505.743/ PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
