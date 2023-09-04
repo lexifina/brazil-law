@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de embargos declaratórios opostos em face do acórdão assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+A parte embargante insiste na tese segundo a qual a Súmula 7/STJ não constitui obstáculo ao conhecimento do recurso especial.
+Sem impugnação.
+É o relatório.
+EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.012.119 - SP (2021/0343349-0)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+EMBARGANTE
+:
+JOSEPH BRUNO DE SOUSA
+ADVOGADOS
+:
+EDUARDO ALVES FERNANDEZ - SP186051
+RAFAELA ANDRADE SANTOS ALVES - SP361866
+EMBARGADO
+:
+BANCO SANTANDER (BRASIL) S.A.
+ADVOGADOS
+:
+FABIO ANDRE FADIGA - SP139961
+BERNARDO BUOSI - SP227541
+EVANDRO MARDULA - SP258368
+JULIANA CHIMENEZ GRANJEIRO - SP310784
+OLIVIA ROCHA VILELA JUNQUEIRA - SP280070
+PRISCILLA RINALDI LARA - SP264595
+CAROLINE CHIMENEZ GIÃO - SP330102
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O acórdão embargado não ostenta vício algum, sendo pertinente, no particular, a reprodução dos fundamentos constantes do voto:
+A decisão recorrida julgou agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Contrato bancário - Cédula de crédito - Dívida contraída por sociedade empresária - Sócio retirante - Responsabilidade de até 2 anos da averbação da alteração do contrato social no órgão competente - Código Civil artigos 1003, 1032 e 1085 - Alteração contratual averbada no órgão competente - Prova do vínculo - Ônus do credor CPC artigo 373, II - Ausência - Exigibilidade afastada - Dano moral Dever de indenizar que impõe a prova do nexo de causalidade - Artigo 403 do Código Civil - Inexistência da figura da responsabilidade ilimitada Artigos 186 a 188 do Código Civil e artigo 5º, incisos V e X da CF/88 - Peculiaridade do caso - Prova pelo sócio retirante da comunicação ao banco credor de sua exclusão da sociedade - Apresentação de cópia da alteração contratual averbada no órgão competente, de sua exclusão do quadro societário a partir da data da celebração do negócio de compra e venda e bem assim de não mais poder figurar como principal devedor da empresa nos negócios que mantinha ela junto ao banco - Ônus do autor CPC artigo 373, I Ausência - Suspensão imediata do apontamento e não superação da prova relativa à fato constitutivo de direito - Afirmação de violação de direito que por si não é suficiente para se presumir caracterizada a ocorrência de repercussão na esfera moral - Impossibilidade de haver responsabilidade sem nexo causal - Código Civil, artigo 403 Sanção moral afastada - Ação procedente em parte - Sucumbência ajustada com repartição do ônus. Recurso provido em parte.
+A parte recorrente, ora agravante, sustentou que o acórdão estadual é omisso, e que lhe é devida indenização por danos morais em face da negativação do seu nome em cadastros de proteção ao crédito.
+No que tange à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Com pertinência à indenização por danos morais, assim se manifestou a Corte de origem:
+Como se sabe, o dano moral, para o seu reconhecimento, reclama a demonstração e comprovação da consequência de gravidade sujeita a incidência à regra dos artigos 186 e 927, do Código Civil, sendo que, "só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia, desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais em busca de indenizações pelos mais triviais aborrecimentos" (Sérgio Cavalieri Filho, in Programa de Responsabilidade Civil, 2ª ed. Malheiros 1 999). Daí, porque e independente da incidência das regras do CDC o fato é que, não ocorrida a comunicação pelo autor apelado ao réu apelante da sua exclusão da sociedade comercial, bem como da ocorrência da suspensão imediata do apontamento e bem assim também não superada a prova relativa a fato constitutivo de direito (CPC artigo 373, I), se entende sem razão a pretensão de reparação moral, reafirmada a não demonstração pelo autor da ocorrência de ".. dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia, desequilíbrio em seu bem-estar..".
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+Assim, não se verifica a presença do vício da omissão, tendo em vista que, no exame do agravo interno, como na decisão antecedente, houve expressa análise da matéria, perceptível pela leitura do trecho destacado acima, voto condutor que obteve o respaldo da Turma Julgadora, que por unanimidade não encontrou a solução buscada pelo embargante.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
