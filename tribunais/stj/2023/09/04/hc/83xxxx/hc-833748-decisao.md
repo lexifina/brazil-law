@@ -1,0 +1,27 @@
+DECISÃO
+DYLCIFRAN CARREIRO SILVA OLIVEIRA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Maranhão no HC n. 0810545-43.2023.8.10.0000.
+Nesta Corte, a defesa pleiteia a revogação da prisão preventiva do paciente - decorrente suposta prática do crime tipificado no art. 311, § 2º, II, do Código Penal -, uma vez que decretada, de ofício, depois de haver sido requerida a liberdade provisória pelo Ministério Público estadual. Salienta, ainda, a ausência dos requisitos autorizadores da medida extrema.
+Deferida a liminar (fls. 77-79) e prestadas as informações, veio o parecer do Ministério Público Federal (fls. 127-136), que opinou pela denegação da ordem.
+Decido.
+Extrai-se dos autos que o Juízo singular homologou o flagrante e o converteu em prisão preventiva, diante da reiteração delitiva do paciente, pelo "fato de responder a outros processos criminais na cidade de São João dos Patos/MA (proc. nº 0801401-89.2022.8.10.0126; 0800764-41.2022.8.10.0126; 694-62.2019.8.10.0126 e 245-09.2018.8.10.0126)" (fl. 52).
+A Corte estadual manteve a segregação do paciente. O acórdão registrou que foi "decretada a prisão, não de ofício, mas após provocação do órgão ministerial manifestando pela substituição do flagrante por cautelares diversas, e nesse considerar, optado o magistrado processante pela adoção da medida mais gravosa" (fl. 59).
+De acordo com as informações prestadas pelo Juiz de primeiro grau, o feito aguarda a apresentação de defesa prévia.
+A Corte estadual esclareceu não se tratar de "hipótese de prisão decretada de ofício na medida em que pelo representante ministerial opinado pela aplicação de medidas cautelares e nesse particular optado o juízo de origem pela medida mais extrema" (fls. 112-113, grifei).
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Especificamente sobre a ilegalidade pela decretação de ofício da prisão, não verifico a sua ocorrência, diante da informação prestada pelo TJMA de que o Parquet opinou por cautelares alternativas (fls. 112-113), o que supre a ausência do documento necessário à comprovação das alegações defensivas - as eventuais transcrições da audiência, que não foram juntadas aos autos, necessárias ao conhecimento do teor da manifestação ministerial.
+Sobre o tema, observo que o acórdão combatido, ao destacar a possibilidade de adequação, pelo Magistrado singular, da medida aplicável à hipótese, está em consonância com a jurisprudência desta Corte Superior. A propósito:
+ ..
+1. O Magistrado de primeiro grau não agiu de ofício ao converter a prisão em flagrante em custódia preventiva, uma vez que o Ministério Público estadual representou pela aplicação de cautelares ao acusado. Assim, o julgador apenas decidiu sobre a medida adequada e suficiente à espécie, o que afasta a ilegalidade suscitada.
+2. A decretação da prisão provisória foi lastreada em fundamentação idônea, em face do risco concreto de reiteração delitiva, bem delineado na decisão proferida pelo Juízo singular, visto que o réu responde a outras oito ações penais pela suposta prática de crimes contra o patrimônio e estava em liberdade provisória no momento de sua prisão em flagrante.
+3. Agravo não provido.
+(AgRg no HC n. 769.302/SC, relator Ministro Rogerio Schietti Cruz, 6ª T., DJe de 3/4/2023, grifei)
+Quanto aos fundamentos do decreto preventivo, reafirmo que a reiteração delitiva do acusado denota risco à ordem pública. Todavia, entendo que não se mostra bastante, em juízo de proporcionalidade, para manter o paciente sob o rigor da cautela pessoal mais extremada.
+Ao considerar, então, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliar as situações em que perpetrado o suposto crime em questão, reputo cabível a concessão da ordem, com a confirmação da medida de urgência anteriormente deferida.
+À vista do exposto, concedo a ordem para, confirmada a liminar deferida, substituir a prisão preventiva do paciente pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+c) recolhimento domiciliar noturno (das 20h de um dia às 6h do dia seguinte), sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+Alerte-se ao requerente que a violação das medidas cautelares poderá importar o restabelecimento da prisão provisória, a qual também poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Publique-se e intimem-se.
+EMENTA
