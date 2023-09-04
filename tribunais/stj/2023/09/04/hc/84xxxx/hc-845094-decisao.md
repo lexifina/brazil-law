@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão que negou provimento ao recurso de apelação interposto pela defesa (fls. 34-48).
+Os pacientes foram condenados a 6 anos e 8 meses de reclusão, em regime fechado, e 16 dias-multa, como incursos no art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal.
+No presente writ, a impetrante sustenta que, "considerando a quantidade de pena fixada, (06 anos e 08 meses de reclusão), bem como a ausência de circunstâncias judiciais desfavoráveis, constata-se que a decisão impugnada viola as normas abaixo apontadas. Consoante o disposto no § 3º do art. 33 do Código Penal, a determinação do regime inicial deve ser realizada com observância dos critérios previstos no art. 59 do mesmo diploma. Ora, se os próprios Magistrados admitiram expressamente a inexistência de circunstâncias desfavoráveis, não há como estabelecer regime mais severo do que o admitido na lei, no caso, o semiaberto. Preenchido os requisitos do art. 33, § 2º, b (primariedade e quantidade da pena até oito anos), a única forma de fixar regime inicial mais gravoso seria com base nas circunstâncias judiciais, como determina o § 3º do dispositivo acima mencionado." (fl. 6).
+Requer, liminarmente e no mérito, a concessão da ordem a fim de fixar o regime semiaberto para início do cumprimento da pena.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não conhecimento ou denegação da ordem.
+Compulsando os autos, verifica-se que o regime foi fixada mediante os seguintes fundamentos na sentença confirmada em 2º Grau (fl. 32):
+Para início do cumprimento da pena privativa de liberdade imposta, fixo o regime fechado, único que se mostra adequado à consecução das finalidades da sanção penal, mesmo à vista do quantum fixado, considerada a excessiva gravidade da conduta em exame - roubo de carro praticado contra mulher com emprego de arma de fogo - que reclama reação severa, proporcional e seguramente eficaz, desde que conduta daquelas que em práticas reiteradas vem comprometendo sensivelmente a qualidade de vida na cidade ao inculcar sensação de insegurança no meio social.
+Cabe eleição do regime prisional mais gravoso mesmo quando, consideradas apenas para efeito de fixação do montante da reprimenda, não se tenham mostrado desfavoráveis as circunstâncias judiciais, que, de resto, recomendam a segregação plena inicial.
+Como se vê, embora declinados fundamentos concretos para o recrudescimento do regime prisional, na medida em que tais fatores não desbordam da gravidade ínsita ou comum à espécie (roubo majorado pelo emprego de arma), não constituem motivação idônea para justificar o agravamento, em se considerando, ainda, tratar-se de réus primários, cujas penas-bases foram estabelecidas no mínimo legal.
+Ressalte-se, por fim, que o simples fato de se tratar de vítima do sexo feminino não tem o condão por si só de ensejar o regime mais severo.
+Ante o exposto, concedo a ordem para fixar o regime semiaberto para o cumprimento da pena reclusiva imposta aos pacientes .
+Publique-se.
+Intimem-se.
+EMENTA
