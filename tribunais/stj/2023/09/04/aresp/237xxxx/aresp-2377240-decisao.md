@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, para desafiar acórdão assim ementado (e-STJ fl. 450):
+EMENTA: APELAÇÃO CÍVEL // REMESSA NECESSÁRIA - PROCESSO ADMINISTRATIVO DE EXONERAÇÃO - PMMG - ALEGAÇÃO DE OMISSÃO DO CANDITADO QUANTO A REGISTROS DE OCORRÊNCIA NO MOMENTO DE PREENCHIMENTO DO FORMULÁRIO DE INGRESSO NA COORPORAÇÃO - IDONEIDADE MORAL COMPROVADA - ILEGALIDADE DO ATO - CONFIRMAÇÃO DA SENTENÇA.
+- O Estatuto da Polícia Militar de Minas Gerais (Lei nº 5.301/69) e o Edital do certame estabelecem como requisito para ingresso na PMMG a idoneidade moral, cuja comprovação se dará mediante a apresentação de certidões negativas de antecedentes criminais, não podendo o candidato estar indiciado em inquérito comum ou militar ou sendo processado criminalmente por crime doloso.
+- Consoante tese firmada pelo STF em repercussão geral "a simples existência de inquéritos ou processos penais em curso não autoriza a eliminação de candidatos em concursos públicos, o que pressupõe: (i) condenação por órgão colegiado ou definitiva; e (ii) relação de incompatibilidade entre a natureza do crime em questão e as atribuições do cargo concretamente pretendido, a ser demonstrada de forma motivada por decisão da autoridade competente".
+- Malgrado seja reservada à Administração Pública analisar, a qualquer tempo, o requisito da idoneidade moral do candidato, tal circunstancia não autoriza a exoneração do servidor com único fundamento na existência de registros de ocorrência em seu desfavor, sobre os quais sequer há certeza de que o autor tinha conhecimento.
+Rejeitados os aclaratórios (e-STJ fls. 490/492).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 489, II e §1º, IV, e 1.022, I e III, do CPC/2015, sustentando negativa de prestação jurisdicional acerca da alegação de indevido pagamento de indenização por período não laborado.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, II e §1º, IV, e 1.022, I e III, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, entendeu o Tribunal de Justiça o seguinte (e-STJ fls. 455):
+Dito isso, reconhecida a ilegalidade do ato de exoneração, coaduno com o esposado pelo douto juízo de primeiro grau, sendo de todo cabida a condenação do ente público ao pagamento das remunerações que o servidor deixou de receber em razão do desligamento até a data da sua efetiva reintegração.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
