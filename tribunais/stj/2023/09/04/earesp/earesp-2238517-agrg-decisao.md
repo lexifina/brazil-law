@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por AMARILDO PEREIRA DA SILVA, DERLI SOBREIRA CAMPOS, ROSENILTON JOSE DOS SANTOS contra decisão proferida pelo Presidente do Superior Tribunal de Justiça que indeferiu liminarmente os embargos de divergência em razão da ausência de inteiro teor do acórdão paradigma.
+No presente agravo regimental, o agravante alega que, "conforme se observa no documento de seq. 79 (e-STJ Fl. 832/848), o acórdão paradigma, exarado pela 5ª Turma deste STJ, fora devidamente juntado, sendo que seu inteiro teor se fez presente, cumprindo, assim, o que determinam os art. 1.043, § 4º, do CPC e art. 266, § 4º do RISTJ" (e-STJ fl. 862).
+É o relatório.
+Decido.
+Assiste razão ao agravante, motivo pelo qual reconsidero a decisão quanto à ausência de inteiro teor do paradigma, o qual, ao contrário do consignado na decisão agravada, foi juntado às e-STJ fls. 832/848.
+Superada a ocorrência de deserção, passo ao exame dos embargos de divergência.
+Os embargos de divergência foram opostos contra o acórdão de e-STJ fls. 808/815, proferido pela Quinta Turma desta Corte, que negou provimento ao agravo regimental e manteve, com isso, o entendimento de que o reconhecimento de nulidade por inversão da ordem do interrogatório do réu, prevista no art. 400 do CPP, além da demonstração de prejuízo, exige que seja alegada na própria audiência em que ocorrido o alegado vício, com o registro na ata respectiva, sob pena de preclusão.
+Em suas razões, afirma o insurgente, com o objetivo de ver processado e julgados os embargos, que o referido acórdão divergiu da orientação da Sexta Turma, firmada no REsp n. 1.825.622/SP, "que entende haver clara nulidade na inversão da ordem disciplinada no art. 400, do CPP, não havendo falar em necessidade de demonstração de prejuízo, tampouco preclusão do direito" (e-STJ fl. 824).
+Ocorre que, não obstante os argumentos dos embargantes, a questão acerca da correta interpretação do art. 400 do CPP foi pacificada no âmbito desta Corte em consonância com o acordão embargado, no sentido de que, "a Terceira Seção do Superior Tribunal de Justiça (STJ), no julgamento da RvCr n. 563/DF, reafirmou o entendimento de que a nulidade decorrente da inversão da ordem do interrogatório, prevista no artigo 400 do Código de Processo Penal (CPP), está sujeita à preclusão e demanda a demonstração de prejuízo, sendo esta a orientação do Supremo Tribunal Federal" (AgRg nos EDcl no AREsp n. 2.102.636/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+Diante disso, não há que se falar em divergência entre as Turmas que compõem a Terceira Seção.
+Ante o exposto, com base no art. 266-C do RISTJ, dou provimento ao agravo regimental, mas indefiro liminarmente os embargos de divergência, nos termos do art. 266-C do RISTJ.
+Publique-se e intimem-se.
+EMENTA
