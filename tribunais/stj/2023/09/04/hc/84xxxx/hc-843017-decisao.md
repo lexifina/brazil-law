@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça do Acre.
+O paciente "foi condenado pela prática do crime de tráfico de drogas à pena de 06 (seis) anos de reclusão, em regime semiaberto, e pagamento de 500 (quinhentos) dias-multa" (fl. 253).
+Requer a impetrante, liminarmente e no mérito, que seja fixada " ..  a pena-base do ora paciente em consonância com a legislação pertinente à espécie e a jurisprudência solidificada deste Superior Tribunal de Justiça, com o consequente decote da circunstância judicial relativa a natureza e a quantidade da droga apreendida; além do reconhecimento da atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea "d", do Código Penal" (fl. 15).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 262-266):
+ ..  Nesse tópico, a Defesa requer que seja fixada a pena no mínimo legal, contudo, entendo necessário transcrever a sentença proferida, notadamente quanto a parte expositiva, vejamos:
+"(..)
+DIANTE DO EXPOSTO, e por tudo mais que dos autos consta, JULGO PROCEDENTE o pedido condenatório formulado nesta ação penal para CONDENAR o réu Luan Ives Torres de Miranda às penas do art. 33, caput, da Lei nº 11.343/06.
+Passemos à dosimetria e fixação da pena imposta ao réu, ora condenado, quanto ao crime previsto na Lei de Drogas, adotando o critério trifásico de Nelson Hungria, previsto no art. 68 do Código Penal.
+Atento às diretrizes do art. 59, do Código Penal, verifico que restou comprovada a culpabilidade do réu em grau normal à espécie; natureza e quantidade do entorpecente será valorada em desfavor do acusado, eis que foi preso comercializando uma grande quantidade cocaína e crack, conforme se verifica do Laudo Pericial de fls. 124/125 e das fotográficas de fls. 135/138; os antecedentes não são maculados; conduta social e a personalidade não há o que se valorar; os motivos do crime, são os normais para espécie; as circunstâncias normais à espécie; as consequências são as naturais do tipo penal em tela, não havendo o que se considerar; o comportamento da vítima quesito prejudicado, diante do tipo penal em análise, não havendo o que valorar. A situação econômica do réu não há que se valorar.
+Assim sendo, FIXO A PENA BASE em 06 (seis) anos de reclusão.
+Na segunda fase de dosimetria e inexistindo atenuantes e agravantes mantenho a pena em 06 (seis) anos de reclusão.
+Por fim, na terceira fase de dosimetria e inexistindo causas de aumento ou diminuição de pena, mantenho em 06 (seis) anos de reclusão, total que torno concreto e definitivo. (..)
+Quanto à reprimenda imposta, ao exame das balizas judiciais do art. 59 do Código Penal, em consonância com o art. 42 da Lei n.º 11.343/06, verifico que o Juiz sentenciante, fixou a pena-base em 01 (um) ano acima do mínimo legal, resultando a pena em 06 (seis) anos de reclusão.
+Assim sendo, a análise do Magistrado de Primeiro Grau, concernente a fixação da pena-base foi assertiva, uma vez que a aplicação da pena é um ato discricionário do Magistrado, devendo respeitar na primeira fase da dosimetria apenas os limites mínimo e máximo previstos na legislação, podendo aplicar a pena-base acimado mínimo legal quando o réu possuir circunstâncias judiciais desfavoráveis, sendo, no presente caso, com base na quantidade e natureza da droga.
+- Da confissão
+Na segunda fase, alega a Defesa, no bojo de suas argumentações, ter havido a confissão, o que entendo que não ocorreu, haja vista que o Apelado confessou ser usuário e que estava no local comprando drogas da outra pessoa. Em assim sendo, verifico ser necessária a aplicação do entendimento contido na Súmula 630 do STJ, uma vez que é apropriado ao presente caso: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+Assim, o argumento defensivo do Apelante é no sentido de tentar eximir-se da responsabilidade criminal, alegando ser usuário de drogas.
+Portanto, houve a chamada confissão qualificada, na qual o agente agrega à confissão teses defensivas descriminantes ou exculpantes.
+Conforme consubstanciado entendimento jurisprudencial, a confissão qualificada não é suficiente para a aplicação da atenuante prevista no Art. 65, inciso III, alínea "d", do CP, vez que é agregada de elementos que afastariam a tipicidade do crime praticado pelo Réu.
+ ..
+O Superior Tribunal de Justiça - STJ pacificou entendimento de que a atenuante da confissão deve ser reconhecida, em sede de tráfico de drogas, somente quando o agente confessar a efetiva traficância e não a mera posse da droga, o que, repito, não ocorreu no presente caso, portanto, não há que se falar em aplicação da referida atenuante. ..
+Como se vê, a basilar foi majorada em razão da natureza e quantidade dos entorpecentes apreendidos, o que não se mostra proporcional diante do não excessivo montante encontrado com o réu, ora paciente - 9,10g de cocaína e 8,50g de crack (fl. 139) -, devendo a sanção, assim, retornar ao seu mínimo legal (5 anos de reclusão e 500 dias-multa).
+Diante do enunciado da Súmula n. 231/STJ, fica prejudicada a análise da incidência da atenuante da confissão espontânea.
+Na última etapa da dosimetria, em virtude das consequências judiciais favoráveis e, como dito, da irrisória quantidade de drogas apreendidas, além da ausência de motivação específica das instâncias ordinárias sobre o tema, concedo, de ofício, a minorante prevista no art. 33, § 4º, da lei em apreço, no patamar máximo (2/3), totalizando a reprimenda final, 1 ano e 8 meses de reclusão, além de 166 dias-multa.
+Sob a mesma (anterior) fundamentação, arbitra-se o regime inicial aberto, substituindo-se a pena privativa de liberdade por penas restritivas de direitos, a teor do que prescrevem os arts. 33, § 2º, "c", e 44 do Código Penal.
+Ante o exposto, concedo o habeas corpus a LUAN IVES TORRES DE MIRANDA para (re)fixar sua sanção definitiva ao total de 1 ano e 8 meses de reclusão, além de 166 dias-multa, no regime inicial aberto, substituindo-se a pena privativa de liberdade por restritivas de direitos a serem estabelecidas pelo juízo de origem (Processo n. 0007842-29.2020.8.01.0001 - 3ª Vara Criminal de Rio Branco).
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
