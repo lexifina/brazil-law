@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. EMENDA À PETIÇÃO INICIAL. VÍCIO SANÁVEL. NECESSIDADE DE OPOTUNIZAÇÃO ANTES DA EXTINÇÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. PRECEDENTE ESPECÍFICO DA 2ª SEÇÃO DO STJ. REQUISITOS PARA SANEAMENTO DA INICIAL. ENFRENTAMENTO NESTA INSTÂNCIA. INVIABILIDADE, SOB PENA DE SUPRESSÃO DE ISNTÂNCIA.
+1. Ação indenizatória por danos materiais e morais decorrentes dos supostos prejuízos à atividade de pesca artesanal, advindos da construção da usina hidroelétrica de Belo Monte.
+2. Indeferimento da inicial pelo juízo de origem, suprimindo a oportunidade de se sanear os vícios apontados na inicial.
+3. Determinação de retorno dos autos à origem para que seja facultada à parte demandante oportunidade de emendar a inicial, nos termos do art. 321 do CPC/2015, conforme entendimento firmado pela Segunda Seção do STJ no julgamento do REsp n. 2013351/PA, relatora Ministra Nancy Andrighi, DJe 19/9/2022, em processo de idêntica controvérsia.
+4. Inviabilidade de se enfrentar, no julgamento do presente recurso, a controvérsia pertinente aos requisitos para o saneamento da inicial, sob pena de supressão de instância.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS:
+Cuida-se de agravo interno interposto por MANOEL AUGUSTO PANTOJA VASCONCELOS contra decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC. EMENDA À PETIÇÃO INICIAL. VÍCIO SANÁVEL. NECESSIDADE DE OPORTUNIZAÇÃO ANTES DA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO DO STJ. INTUITO PROTELATÓRIO. AUSÊNCIA. AFASTAMENTO DA MULTA.
+1. Ação indenizatória por danos materiais e morais decorrentes dos supostos prejuízos à atividade de pesca artesanal, advindos da construção da usina hidroelétrica de Belo Monte.
+2. Plena aplicabilidade ao caso em julgamento do entendimento firmado pela Segunda Seção do STJ no julgamento do Recurso Especial n.º 2013351/PA, Rel. Ministra Nancy Andrighi, DJe 19/09/2022, em processo idêntico ao ora examinado, que, admitindo o prequestionamento ficto do art. 321 do Código de Processo Civil, reconheceu que o juízo de primeiro grau, constatando a existência de vício sanável na inicial, deveria ter oportunizado à parte autora a sua emenda, antes de extinguir o feito, sem resolução do mérito.
+3. Necessidade de retorno dos autos ao juízo de primeiro grau, a fim de que seja cumprido o disposto no art. 321, do CPC.
+4. Afastamento da multa prevista no art. 1026, §2º, do CPC, aplicada pelo Tribunal a quo no âmbito dos embargos de declaração, em razão do resultado do presente julgamento e considerando os termos do enunciado da Súmula n.º 98/STJ.
+5. RECURSO ESPECIAL PROVIDO.
+Em suas razões, a parte agravante alegou que devem ser definidos desde logo os parâmetros para emenda à inicial na origem, aplicando-se por analogia, a tese definida no Tema n. 436/STJ, em homenagem ao princípio da duração razoável do processo.
+A parte agravada apresentou impugnação e agravo interno, o qual será objeto de voto apartado.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. EMENDA À PETIÇÃO INICIAL. VÍCIO SANÁVEL. NECESSIDADE DE OPOTUNIZAÇÃO ANTES DA EXTINÇÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. PRECEDENTE ESPECÍFICO DA 2ª SEÇÃO DO STJ. REQUISITOS PARA SANEAMENTO DA INICIAL. ENFRENTAMENTO NESTA INSTÂNCIA. INVIABILIDADE, SOB PENA DE SUPRESSÃO DE ISNTÂNCIA.
+1. Ação indenizatória por danos materiais e morais decorrentes dos supostos prejuízos à atividade de pesca artesanal, advindos da construção da usina hidroelétrica de Belo Monte.
+2. Indeferimento da inicial pelo juízo de origem, suprimindo a oportunidade de se sanear os vícios apontados na inicial.
+3. Determinação de retorno dos autos à origem para que seja facultada à parte demandante oportunidade de emendar a inicial, nos termos do art. 321 do CPC/2015, conforme entendimento firmado pela Segunda Seção do STJ no julgamento do REsp n. 2013351/PA, relatora Ministra Nancy Andrighi, DJe 19/9/2022, em processo de idêntica controvérsia.
+4. Inviabilidade de se enfrentar, no julgamento do presente recurso, a controvérsia pertinente aos requisitos para o saneamento da inicial, sob pena de supressão de instância.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS:
+Eminentes colegas, o agravo interno não merece provimento.
+Relembro, inicialmente, que trata-se, na origem, de ação indenizatória por danos materiais e morais ajuizada pela parte recorrente contra NORTE ENERGIA S.A. e CONSÓRCIO CONSTRUTOR BELO MONTE, cuja causa de pedir decorre dos supostos prejuízos a sua atividade de pesca artesanal, advindos da construção da usina hidroelétrica de Belo Monte.
+A ação foi extinta, sem julgamento do mérito, ao fundamento de que não houve comprovação documental, pela parte autora, da sua atividade de pescadora artesanal e do alegado dano sofrido, com a respectiva individualização, entendendo a instâncias ordinária que era necessária a apresentação de carteira emitida pelo Ministério da Pesca e Relatório de atividade pesqueira.
+Pois bem, a única questão de mérito decidida na decisão ora impugnada diz respeito à necessidade de devolução dos autos ao Juízo de origem para que seja oportunizado a parte autora a emenda à inicial.
+Confira-se, a propósito, o seguinte trecho do referido decisum:
+No recurso especial, devolve-se, essencialmente, a esta Corte, as seguintes alegações: negativa de prestação jurisdicional e violação art. 284 do CPC/73, correspondente ao art. 321, do CPC/15, por não ter sido oportunizado à parte autora o direito de emendar a inicial, a fim de que pudesse comprovar a sua legitimidade ativa ad causam.
+Recentemente, estas questões de direito foram submetidas à apreciação da Segunda Seção desta Corte no julgamento do REsp n.º 2013351/PA, da relatoria da e. Ministra Nancy Andrighi, DJe 19/09/2022, que foi afetado àquele colegiado em razão da multiplicidade de recursos especiais que estão chegando ao STJ, oriundos de ações individuais idênticas, ajuizada por pescadores artesanais.
+A Segunda Seção, por unanimidade, deu provimento ao recurso especial, reconhecendo o prequestionamento ficto do art. 321, do Código de Processo Civil e, analisando o mérito, entendeu que o juízo de primeiro grau, tendo constatado a existência de vício sanável na inicial, deveria ter oportunizado ao autor a sua emenda antes de extinguir o feito, sem resolução do mérito.
+Determinou-se, assim, o retorno dos autos ao juízo de 1º grau, a fim que que fosse observado o disposto no art. 321, do CPC.
+A propósito, esta a ementa do julgado:
+PROCESSO CIVIL. COMPETÊNCIA DA SEGUNDA SEÇÃO. PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA DURAÇÃO RAZOÁVEL DO PROCESSO. ARTS. 14, II E 34, IV E XII, AMBOS DO RISTJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC. ADMISSIBILIDADE. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC. ART. 321 DO CPC. EMENDA À INICIAL.
+PRECEDENTES.
+1. Recurso especial submetido a julgamento por parte da Segunda Seção, nos termos dos arts. 14, II e 34, IV e XII, ambos do RISTJ. Observância dos princípios da segurança jurídica e da duração razoável do processo.
+2. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo legal.
+3. O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC. Precedentes.
+4. Provimento jurisdicional deve ser emitido de forma fundamentada, sob pena de ofensa ao art. 11 do CPC e ao art. 93, IX, da CRFB.
+5. Recurso especial conhecido e provido para reformar o acórdão impugnado e determinar o retorno dos autos ao Juízo de 1º Grau, a fim de que seja cumprido o art. 321 do Código de Processo Civil.
+(REsp 2.013.351/PA, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe 19/09/2022).
+ ..
+Ante o exposto, dou provimento ao recurso especial para reconhecer a nulidade do acórdão recorrido e da sentença e determinar a devolução dos autos ao juízo de primeiro grau, a fim de que seja cumprido o disposto no art. 321, do CPC, oportunizando à parte autora a ementa da inicial e especificando as irregularidades a serem corrigidas.
+Como se observa, a determinação de emenda à inicial ainda não foi proferida pelo Juízo a quo, de modo que eventual manifestação antecipada desta Corte Superior acerca do conteúdo desse futuro decisum configuraria flagrante supressão de instância.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. TESE SOBRE QUESTÃO DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. ALEGAÇÃO DE FATO SUPERVENIENTE. INOVAÇÃO RECURSAL. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. HONORÁRIOS RECURSAIS. MAJORAÇÃO EM AGRAVO INTERNO. INVIÁVEL. 5. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à alegada nulidade por afronta a matéria de ordem pública (art. 337, VIII, § 2º, CPC/2015), verifica-se que o tema não foi objeto de análise no acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356 do STF. Segundo a jurisprudência sedimentada do Superior Tribunal de Justiça, mesmo as questões de ordem pública devem ser prequestionadas para serem examinadas em recurso especial.
+2. É vedado, no agravo interno, apreciar questões que não foram objeto de impugnação no recurso especial, bem assim não debatidas pelas instâncias ordinárias, sob pena de supressão de instância e inovação recursal.
+3. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+4. Segundo orientação desta Corte, não haverá a majoração de honorários de sucumbência prevista no art. 85, § 11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração. Precedentes. 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.069.337/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO DE USO DOMICILIAR. COBERTURA EXCEPCIONAL. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. POSSIBILIDADE. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. No caso, entretanto, o recurso especial não pode ser integralmente provido, julgando-se totalmente improcedente a demanda neste Tribunal, sob pena de supressão de instância e de afronta à Súmula n. 7/STJ. Com efeito, em recurso especial, "É indispensável, para que não ocorra supressão de instância, que a tese tenha sido apreciada pela origem" (AgInt no AREsp 1.430.913/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.986.582/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015, o que não ocorreu no presente caso.
+2. "O STJ não pode transbordar daquilo que consta no acórdão recorrido e no recurso especial para julgar matéria não decidida pelas instâncias ordinárias, que não é objeto do recurso especial trazido a julgamento, sob pena de incorrer em (i) violação ao princípio tantum devolutum quantum appellatum, (ii) supressão de instância e (iii) decisão extra petita" (REsp 1081149/RS, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 18/06/2019), não havendo falar-se em omissão.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 1.569.649/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
