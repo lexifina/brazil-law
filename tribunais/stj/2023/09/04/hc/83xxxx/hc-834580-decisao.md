@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 18):
+"Ao relatório da r. sentença de fls. 120/134, acrescenta-se que Linaldo Alexandre da Silva foi condenado a 10 anos, 8 meses e 10dias de reclusão, em regime inicial fechado, e 25 dias-multa, no piso, por infração ao artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, c. c. o artigo 29,"caput", ambos do Código Penal.
+Inconformado, apela.
+Preliminarmente, sustenta nulidade do reconhecimento, por inobservância do artigo 226 do Código de Processo Penal.
+No mérito, pretende a absolvição, por insuficiência probatória. Subsidiariamente, pugna pela desclassificação da conduta para a de receptação. Caso mantida a condenação por roubo, pede o afastamento da causa de aumento pelo emprego de arma de fogo, porquanto não apreendida, e a fixação de regime mais brando.
+Por fim, pleiteia o direito de recorrer em liberdade e o deferimento da justiça gratuita.
+Processado o recurso, a d. Procuradoria Geral de Justiça opinou pelo desprovimento do apelo.
+É, em síntese, o relatório"
+Consta dos autos que o paciente foi condenado à pena de 10 anos, 8 meses e 10 dias de reclusão, em regime inicial fechado, e 25 dias-multa, no piso, por infração ao artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, c. c. o artigo 29, caput, ambos do Código Penal.(fls. 34-48).
+Inconformada, a defesa do paciente interpôs recurso de apelação perante o Tribunal de origem, que foi desprovido (fls. 17-28)
+Neste writ, a defesa sustenta que "NÃO houve o atendimento ao rito legal de reconhecimento de pessoas em sede policial e tampouco em sede judicial" (fl. 5).
+Destaca que as decisões nas duas instâncias valeram-se tão somente da palavra da vítima, em função do reconhecimento viciado por ela realizado.
+Alega que, o reconhecimento feito em sede policial não observou o que determina o artigo 226 do CPP, "sendo certo que o Paciente, como já se mencionado ao início desta impetração, achava-se detido e nada impedia que a autoridade policial, procedesse ao reconhecimento pessoal conforme preconiza a legislação, sendo este o único reconhecimento realizado na fase investigatória, como se pode ver da referência feita no relatório final da autoridade policial" (fl. 8)
+Requer a concessão da ordem para que "seja anulado o Acórdão condenatório, para que outro julgamento se realize pelo Colegiado, em sede de apelação defensiva, no amplo efeito devolutivo desta, com a desconsideração dos reconhecimentos ilegais realizados, cuja nulidade se requer, neste Habeas Corpus, seja declarada" (fl. 16).
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Quanto à nulidade do reconhecimento, o Tribunal de origem assim concluiu (fls. 491-498):
+A materialidade delitiva está consubstanciada, especialmente, no auto de exibição e apreensão (fl. 15).
+A autoria é também inconteste.
+A vítima Elisiário relatou, em juízo, que foi ao local dos fatos para pegar uma carga para transporte. Lá, porém, foi abordado por duas pessoas, que anunciaram o roubo.
+Teve a liberdade restringida por cerca de duas horas.
+Enquanto estava no cativeiro, a seguradora ficou ligando para seu celular, pois o caminhão possuía seguro.
+Os indivíduos o orientaram a dizer que estava tudo bem. Na quinta tentativa, a pessoa responsável pelo seguro disse que sabia que não estava tudo bem e que a polícia estava chegando no local.
+Então, os roubadores pegaram seu cartão e exigiram a senha bancária; sacaram cerca de R$ 10.000,00.
+O réu foi o agente que o transportou até o cativeiro; ele estava conduzindo o VW/Gol. Reconheceu o réu na delegacia. Já foi roubado anteriormente e sabe que deve tentar gravar o máximo possível do rosto do roubador e, por isso, reconheceu sem qualquer dúvida a arcada dentária do acusado.
+Durante o ato de reconhecimento em juízo, solicitou que o acusado exibisse os dentes e tornou a reconhecê-lo como um dos autores do crime, reiterando, inclusive, que os dentes dele lhe chamaram a atenção.
+Na delegacia, apenas o réu foi exibido. Chegou a dar a descrição do roubador para os responsáveis pelo seguro.
+Os policiais Francisco José e Carlos Alberto relataram que, acionados acerca de um roubo, com possível localização do caminhão, rumaram ao local indicado, onde encontraram o acusado na direção daquele veículo. Ele não portava arma de fogo e disse apenas que foi contratado para realizar o transporte do caminhão, negando participação no roubo.
+A vítima o reconheceu na delegacia, sem dúvida. Silente na fase policial, em juízo, o réu disse que não estava conduzindo o veículo VW/Gol e que foi contratado apenas para transportar o caminhão e entregar na cidade de Guarulhos.
+Com efeito. A vítima prestou declarações firmes, ratificando o reconhecimento do acusado em juízo, com destaque à particularidade dos dentes do ora apelante, que lhe chamaram atenção (v. mídia).
+O ofendido, ademais, pontuou já ter sido roubado em oportunidade anterior, estando ciente da importância de, na medida do possível, observar detalhes do roubador.
+Esclareceu que viu o réu na condução do veículo VW/Gol, no qual foi obrigado a adentrar para ser levado ao cativeiro.
+Nem é preciso repisar a importância da palavra da vítima em casos como o aqui perquirido, porquanto é ela que se submete, que tem contato direto com os roubadores, é ameaçada, constrangida, ainda mais quando as declarações estão amparadas e complementadas por prova idônea.
+ ..
+Observe-se que as disposições do artigo 226 do Código de Processo Penal consubstanciam recomendação, para que o reconhecimento ocorra com o menor sugestionamento possível, cuja inobservância acarreta relativa nulidade, dependente de demonstração de prejuízo, conforme preceitua o artigo 563 do Código de Processo Penal, o que não foi feito.
+Ademais, ao valorar a prova, o Magistrado não considera o ato isoladamente, mas em cotejo com os demais elementos probatórios reunidos, inclusive considerando que o acusado foi surpreendido na condução do veículo subtraído, pouco tempo após perpetrado o roubo.
+ ..
+E, no caso dos autos, importa lembrar que o ofendido foi abordado por duas pessoas, havendo um terceiro na condução do VW/Gol. Ao ser exibido o réu (apontado pela vítima como condutor daquele veículo), tratou logo de pedir que mostrasse seus dentes (o que também fez em juízo), confirmando tratar-se de pessoa que participou dos fatos.
+Portanto, ao ver o acusado, teve o cuidado de verificar a presença de particularidade observada na dentição de um dos roubadores, reforçando o reconhecimento.
+Em soma, repita-se, os policiais disseram que o acusado estava na condução do caminhão subtraído. E isso no mesmo dia dos fatos, poucas horas após o anúncio do roubo, que durou certo lapso de tempo, já que a vítima ficou em cativeiro.
+Bem demonstrada a atuação do réu, em coautoria, no crime de roubo, a condenação, nos termos da denúncia, era de rigor, não se cogitando de desclassificação da conduta para a de receptação.
+ ..
+Esta Corte Superior inicialmente entendia que a validade do reconhecimento do autor de infração não está obrigatoriamente vinculada à regra contida no art. 226 do Código de Processo Penal, porquanto tal dispositivo veicula meras recomendações à realização do procedimento, mormente na hipótese em que a condenação se amparou em outras provas colhidas sob o crivo do contraditório.
+Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+Dos elementos probatórios que instruem os autos, verifica-se que a autoria delitiva do crime do art. 157, § 2º, II e V, e § 2º-A, inciso I, c. c. o artigo 29, caput, ambos do Código Penal., não tem como único elemento de prova o reconhecimento pessoal realizado pela vítima na fase investigativa, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial.
+A vítima reconheceu o acusado na delegacia e em juízo e, em especial, consignou que "Já foi roubado anteriormente e sabe que deve tentar gravar o máximo possível do rosto do roubador e, por isso, reconheceu sem qualquer dúvida a arcada dentária do acusado."
+Ressalte-se que ao ser o paciente exibido em juízo, à vítima "tratou logo de pedir que mostrasse seus dentes (o que também fez em juízo), confirmando tratar-se de pessoa que participou dos fatos. Portanto, ao ver o acusado, teve o cuidado de verificar a presença de particularidade observada na dentição de um dos roubadores, reforçando o reconhecimento".
+Além disso, consta do acórdão recorrido que "os policiais disseram que o acusado estava na condução do caminhão subtraído. E isso no mesmo dia dos fatos, poucas horas após o anúncio do roubo, que durou certo lapso de tempo, já que a vítima ficou em cativeiro".
+Nesse context o , não deve ser declarada a nulidade da sentença pela inobservância do procedimento de reconhecimento previsto no art. 226 do Código de Processo Penal, visto que a condenação está amparada em outras provas independentes, uma vez que o réu foi apreendido poucas horas após o delito na posse do caminhão objeto do roubo. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO DO RÉU EM DESCONFORMIDADE COM O PREVISTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL. INOCORRÊNCIA. CONDENAÇÃO FIRMADA EM DEPOIMENTOS FIRMES E COERENTES DAS VÍTIMAS, AS QUAIS NARRARAM COM RIQUEZA DE DETALHES A DINÂMICA CRIMINOSA. AGENTE QUE ESTAVA COM O ROSTO DESCOBERTO NO MOMENTO DA CONDUTA. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE EM UM ANO. PROPORCIONALIDADE. PRESENÇA DE TRÊS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAJORANTE SOBEJANTE. FUNDAMENTAÇÃO IDÔNEA. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A comprovação da autoria delitiva foi embasada nos depoimentos firmes e coerentes das vítimas, as quais reconheceram o Réu na delegacia de polícia e em Juízo, tendo descrito, com riqueza de detalhes, toda a dinâmica criminosa, ressaltando que ele estava com o rosto descoberto, foi o responsável por adentrar no ônibus e ameaçar gravemente os passageiros e o motorista por meio do uso de arma de fogo, enquanto seu comparsa encontrava-se na parte traseira do automóvel subtraindo os pertences das pessoas. Há, ainda, depoimento judicial do policial. Desse modo, não deve ser declarada a nulidade da sentença pela inobservância do procedimento de reconhecimento previsto no art. 226 do Código de Processo Penal.
+ ..
+3. É possível utilizar a majorante sobressalente para o aumento da pena-base. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 666.499/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/3/2023, DJe de 29/3/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE ROUBO MAJORADO. PROVA DE AUTORIA. RECONHECIMENTO FOTOGRÁFICO. NULIDADE. AUTORIA CORROBORADA POR OUTRAS PROVAS COLHIDAS EM JUÍZO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, a Sexta Turma desta Corte Superior, no julgamento do HC 598.886 (Rel. Min. Rogério Schietti Cruz, DJe de 18/12/2020, propôs nova interpretação do art. 226 do CPP, estabelecendo que: "O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa". Tal entendimento foi acolhido pela Quinta Turma desta Corte, no julgamento do Habeas Corpus n. 652.284/SC, de minha relatoria, em sessão de julgamento realizada no dia 27/4/2021.
+2. Na hipótese dos autos, a autoria delitiva referente ao crime de roubo não teve como único elemento de prova o reconhecimento fotográfico feito pela vítima, o que gera distinguishing com relação ao precedente supramencionado.
+3. Eventual desconstituição das conclusões das instâncias antecedentes a respeito da autoria delitiva depende de reexame de fatos e provas, providência inviável na estreita via do recurso especial.
+4. Agravo regimental a que se nega provimento." (AgRg no REsp n. 2.011.519/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Ademais, tendo o Tribunal constatado, com base nas provas colhidas nos autos, que o paciente efetivamente é a autor do fato delituoso, verifica-se que para se entender de forma diversa, necessário seria o revolvimento do acervo fático-probatório acostado aos autos, providência vedada na via estreita do habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
