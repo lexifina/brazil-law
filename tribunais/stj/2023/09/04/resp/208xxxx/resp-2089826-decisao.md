@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 243):
+REEXAME NECESSÁRIO AUXÍLIO-ACIDENTE CUMULAÇÃO COM APOSENTADORIA ESPECIAL - POSSIBILIDADE - PREENCHIMENTO DAS CONDIÇÕES - LESÃO ANTERIOR À LEI Nº 9.528/1997 - DATA CONCESSÃO DO BENEFÍCIO - LAUDO PERICIAL - JUROS DE MORA - ÍNDICE DA CADERNETA DE POUPANÇA - CORREÇÃO MONETÁRIA - INPC - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO NOS TERMOS DO ART. 20, §3 0 , DO CPC - INCIDÊNCIA DA SÚMULA Nº111 DOSTJ
+- Revela-se possível a cumulação de aposentadoria e auxílio-acidente, desde que a doença incapacitante tenha se originado antes da Lei nº 9.528/1 997, não importando, nesse contexto, que o ajuizamento da ação judicial se tenha dado após a vigência da referida norma.
+- Ausente o requerimento administrativo, o termo inicial do benefício deve ser fixado a partir do laudo do perito do Juízo e não da citação.
+- As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.43012006, que incluiu o art. 41-A na Lei 8.213/91, sendo que os juros de mora devem incidir segundo a remuneração oficial da caderneta de poupança.
+- Em casos de sentença condenatória, os honorários de sucumbência devem ser fixados nos termos do ad. 20, §3 1 , do CPC. - A base de cálculo dos honorários advocatícios deve ser restrita às prestações vencidas até a prolação da sentença, nos termos da Súmula nº111 do STJ.
+É o sucinto relatório.
+Mediante análise dos autos, percebe-se que a controvérsia apresentada já foi afetada ao rito dos recursos repetitivos, culminando na seguinte tese, firmada no Tema 555/STJ:
+A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, apta a gerar o direito ao auxílio-acidente, e a concessão da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991, promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, posteriormente convertida na Lei 9.528/1997.
+Ante o exposto, tendo em vista a aparente dissonância entre o acórdão recorrido e a tese firmada neste STJ e a ausência de manifestação do Tribunal de origem em eventual juízo de retratação, não conheço do recurso especial, determinando a devolução dos autos ao Tribunal de origem , com a devida baixa, para que observe os arts. 1.030 e 1.040 do CPC, a fim de:
+a) negar seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ;
+b) encaminhar os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Deve ainda ser observado que, de acordo com o art. 1.041, § 2º, do CPC, se no recurso especial é suscitada alguma controvérsia pendente de julgamento sob o rito dos recursos repetitivos, isso se constitui um óbice à analise das demais questões veiculadas no apelo nobre, pois não há como se proceder a um julgamento parcial da insurgência. Nessas hipóteses, devem os autos permanecer suspensos na origem até a publicação de julgamento do tema afetado, após o qual, se for o caso, serão remetidos a esta Corte para julgamento das demais questões.
+Publique-se. Intimem-se.
+EMENTA
