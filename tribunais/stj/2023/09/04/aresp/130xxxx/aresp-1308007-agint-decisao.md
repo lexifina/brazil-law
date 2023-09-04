@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 1.106/1.113 assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO REGISTRADO NA ANVISA. NÃO OBRIGATORIEDADE DA UNIÃO FIGURAR NO POLO PASSIVO. RESPONSABILIDADE DE QUALQUER DOS ENTES FEDERADOS. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NAO CONHECER DO RECURSO ESPECIAL DO ENTE ESTATAL.
+Em suas razões recursais, a parte agravante defende, em suma, que a responsabilidade pelo fornecimento de medicação que não integra qualquer política pública é da União, não cabendo ao ente estatal o seu fornecimento. Afirma que "muito embora a escolha do polo passivo da ação seja uma faculdade do autor, para o adequado cumprimento da decisão vinculante do STF, vê-se imperiosa a participação da União no polo passivo do feito" (fl. 1.133).
+Requer a  reconsideração  da  decisão  agravada ou  a  apresentação  do  feito  ao órgão colegiado competente.
+Foi apresentada impugnação (fls. 1.155/1.158).
+É o relatório.
+A questão debatida nos autos, qual seja, a "legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde - SUS", teve a repercussão geral reconhecida pelo Supremo Tribunal Federal no Recurso Extraordinário 1.366.243/SC (Tema 1.234). Esse recurso encontra-se pendente de julgamento, havendo determinação da Suprema Corte de suspensão nacional do processamento dos recursos especiais e extraordinários que versem sobre a matéria, nos termos do art. 1.035, § 5º, do CPC/2015.
+Dessa forma, por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares devem aguardar a solução do recurso extraordinário afetado.
+Diante do exposto, reconsidero as decisões de fls. 1.106/1.113 e 1.114/1.119, julgo prejudicado do Agravo Interno de fls. 1.123/1.141, e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão em questão, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
