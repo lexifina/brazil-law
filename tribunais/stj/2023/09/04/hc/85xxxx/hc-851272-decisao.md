@@ -1,0 +1,10 @@
+DECISÃO
+LUCAS CAMARGO LARRATÉA alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargado do Tribunal a quo no Recurso em Sentido Estrito n. 5000534-17.2021.8.21.0015, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "os acusados estão presos há quase 03 (três) anos, pela suposta prática dos delitos de sequestro e cárcere privado (1º fato), tentativa de homicídio (2º fato), receptação (3º fato), porte de arma de fogo de uso restrito (4º fato) e associação criminosa (5º fato)" (fl. 9).
+Ao manter a segregação cautelar, salientou a Corte de origem que, " n o caso em tela, a gravidade dos delitos apurados e a periculosidade dos agentes, já devidamente demonstradas nos autos originários, ensejam a aplicação para medida cautelar pessoal gravosa para assegurar a aplicação da lei penal e a garantia da ordem pública" (fl. 9).
+Com efeito, consoante disposto na decisão de recebimento da denúncia, " q uanto aos pedidos de decretação das prisões preventivas de LUCAS CAMARGO LARRATEA e MARLON VIANNA MACHADO, informo que estas foram decretadas quando da conversão da prisão em flagrante em preventiva (processo n.º 50110572520208210015)" (fl. 21, grifei), entretanto tal decisum não foi colacionado aos autos, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o recorrente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
