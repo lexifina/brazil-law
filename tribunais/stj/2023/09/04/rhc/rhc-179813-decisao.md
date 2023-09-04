@@ -1,0 +1,24 @@
+DECISÃO
+ALEX DA SILVA LOBATO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado do Amapá no HC n. 0000024-67.2023.8.03.0000.
+Nas razões deste mandamus, a defesa postula a concessão da liberdade provisória do paciente ao sustentar constrangimento ilegal diante da alegação de nulidade da decisão que impôs a prisão cautelar, pois haveria sido decretada ex-officio pelo Magistrado.
+Em reforço à pretensa ilegalidade da prisão, aponta o não preenchimento dos requisitos para a manutenção da medida extrema do art. 312 do Código de Processo Penal, bem como a falta de fundamentação concreta do decreto prisional, visto que pautado exclusivamente na gravidade abstrata do delito, em tese, por ele perpetrado, qual seja, tentativa de furto - art. 155, c/c o art. 14, II, ambos do Código Penal.
+O pedido de urgência foi por mim indeferido às fls. 168-169 e, instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso em habeas corpus.
+Decido.
+I. Contextualização
+O postulante foi denunciado por suposta prática de tentativa de furto - art. 155, c/c o art. 14, II, ambos do Código Penal (fl. 189).
+O Juiz de primeiro grau fundamentou a medida cautelar pessoal mais severa em detrimento da liberdade do acusado em 7/1/2023 nos seguintes termos, in verbis (fls. 22-24):
+ ..  consta dos autos que o custodiado estaria dentro do imóvel da vítima com o objetivo de furtar objetos, porém não consumou seu intento, pois foi flagrado pelo dono da residência e tentou empreender fuga, pulando o muro, mas foi capturado e preso  ..  pelo que se vê da certidão criminal do acusado que ele já foi condenado pelo crime de furto com trânsito em julgado da condenação em 21/10/2015, com aplicação da pena de 02 (dois) anos em regime aberto  ..  proferida nos autos da Execução nº 0054729-90.2015.8.03.0001 no ano de 2018  ..  não há informações quanto ao regular cumprimento desta pena, pois a execução penal que tramita na comarca de Macapá foi arquivada. Ademais, observo que em data recente (21/11/2022) o custodiado foi preso em flagrante pela imputação de furto qualificado e foi posto em liberdade com cautelares diversas da prisão, após audiência de custódia, conforme consta do processo nº 0051432-31.2022.8.03.0001. A partir dessas informações, se pode inferir que as cautelares diversas da prisão não são suficientes para deter os atos delitivos praticados pelo acusado de forma reiterada. Diante das circunstâncias em análise, verifica-se a periculosidade concreta do custodiado, de forma que sua liberdade vulnera à ordem pública  .. .
+A Corte local, por unanimidade, denegou a ordem de habeas corpus originário impetrado pela defesa e chancelou os argumentos do mencionado decisum constritivo.
+Por ocasião do julgamento, o órgão fracionário elaborou a ementa nos termos que ora transcrevo (fl. 113):
+PENAL. HABEAS CORPUS. TENTATIVA DE FURTO. PRISÃO PREVENTIVA. AÇÕES PENAIS ANTERIORES. POSSIBILIDADE. PRISÃO EX-OFICCIO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1) A jurisprudência do STJ compreende que a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ.
+2) O Superior Tribunal de Justiça compreende que "não há atuação ex-officio na determinação judicial em sentido diverso do requerimento do Parquet, pois cabe ao magistrado atuar conforme os ditames legais, se provocado, no exercício da jurisdição." Precedentes STJ.
+3) Ordem denegada.
+Relativamente à pretensão da defesa quanto ao reconhecimento de nulidade do decreto preventivo, o Tribunal a quo asseverou (fls. 114-124, grifei):
+ ..  examinando o vídeo da audiência de custódia observo que de fato o Ministério Público requereu a concessão de liberdade provisória, com imposição de cautelares diversas da prisão, em especial o monitoramento eletrônico. Embora tenha enfatizado que o paciente conta com registros criminais anteriores. De ser destacado que a existência de registros criminais anteriores ou de atos infracionais, bem como ações penais pretéritas são elementos suficientes e idôneos para prisão preventiva  ..  observo que de fato requerida pelo MP a imposição de cautelares diversas, logo houve clara manifestação do órgão ministerial quanto à prisão. Que, somadas à existência de registros penais anteriores, demonstra a necessidade de manutenção da prisão preventiva  .. .
+Consoante o teor das informações anexadas aos autos pelo Juízo competente, constata-se que "foi proferida sentença absolutória e foi revogada a prisão do paciente (evento 28). Foi expedido Alvará de Soltura no dia 17/05/2023 (evento 31)" (fl. 189, destaquei).
+Diante de tal cenário, é imperioso reconhecer-se a perda de objeto deste mandamus.
+II. Dispositivo
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
