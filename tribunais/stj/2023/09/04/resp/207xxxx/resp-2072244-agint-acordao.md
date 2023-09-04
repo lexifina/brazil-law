@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL E DIREITO FALIMENTAR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. AGRAVO DE INSTRUMENTO. ESSENCIALIDADE DOS BENS. ALIENAÇÃO FIDUCIÁRIA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MONTREAL LOGÍSTICA E TRANSPORTE RODOVIÁRIOS LTDA. (MONTREAL) contra decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E FALIMENTAR. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. AGRAVO DE INSTRUMENTO. ESSENCIALIDADE DOS BENS. ALIENAÇÃO FIDUCIÁRIA. REVISÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 901).
+Nas razões do presente inconformismo, MONTREAL alegou que (1) foram ofendidos os arts. 47 e 49, § 3º, da Lei nº 11.101/2005; (2) ficou comprovada a divergência jurisprudencial; (3) não é caso de incidência da Súmula nº 7 do STJ; (4) o seu objeto social principal é o transporte rodoviário de cargas, exercido por meio de caminhões, carretas, reboques e semirreboques; (5) os veículos são extremamente essenciais ao desenvolvimento de suas atividades; e (6) não se requereu a prorrogação do stay period, mas somente a manutenção dos bens já reconhecidos como essenciais.
+Houve impugnação ao recurso (e-STJ, fls. 925/933).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO FALIMENTAR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. AGRAVO DE INSTRUMENTO. ESSENCIALIDADE DOS BENS. ALIENAÇÃO FIDUCIÁRIA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Na hipótese, MONTREAL insurgiu-se contra o aresto recorrido, alegando ofensa aos arts. 47 e 49, § 3º, da Lei nº 11.101/2005, além de divergência jurisprudencial. Sustentou que os bens alienados fiduciariamente representam a maior parte dos seus veículos e são essenciais para a manutenção de sua atividade.
+Sobre o tema, a Corte local assim se manifestou:
+Conforme relatado, a Agravante insurge-se em face da decisão que homologou o plano de recuperação judicial aprovado em Assembleia Geral de Credores e manteve os caminhões, reboques, semirreboques e veículos na posse da Agravada.
+ ..
+Pois bem. Ainda que a jurisprudência venha flexibilizando a rigidez da lei, admitindo, em algumas hipóteses, a manutenção de bens essenciais na posse da Recuperanda, certo é que devem ser observados os princípios da razoabilidade e proporcionalidade para a preservação da segurança jurídica das relações negociais e do próprio direito tutelado pela lei de regência, razão pela qual citado benefício não pode virar uma prática corrente, sob pena de subverter a legislação de conteúdo expresso e os próprios instrumentos de garantia real que tanto beneficiam a concessão de crédito.
+No caso, observa-se que o processamento da Recuperação foi deferido há mais 732 (setecentos e trinta e dois) dias e que a parte Agravada sequer comprovou ter formado fluxo de caixa para começar a adimplir as dívidas representadas pelos contratos com alienação fiduciária, mantendo-se neste longo período em uma situação cômoda, em detrimento do direito do credor.
+Nesse panorama, com a conservação da decisão agravada tal como proferida, este Tribunal estará fomentando ou, no mínimo, chancelando indigesto fenômeno financeiro, que já vem sendo percebido pelos olhos mais atentos do mercado, qual seja, a diminuição da concessão do crédito financeiro na praça pela insegurança jurídica que tal exceção vem proporcionando - situação que, com toda certeza, contribuirá negativamente para a economia do Estado.
+Registra-se, ainda, que o rótulo da essencialidade, evidentemente, não pode ser encarado como escudo para tornar automática e absolutamente intocáveis os bens objeto de alienação fiduciária, tanto mais após a aprovação do plano de recuperação judicial (e-STJ, fls. 782 e 785/785 - sem destaques no original).
+Nesse sentido, o Tribunal de Justiça de Mato Grosso, soberano na análise do contexto fático-probatório e observando as particularidades do caso concreto, concluiu que o processamento da recuperação foi deferido há mais de 732 (setecentos e trinta e dois dias) e que MONTREAL sequer comprovou ter formado fluxo de caixa, apesar de estar na posse dos bens alienados fiduciariamente, o que evidenciou estar ela se mantendo em uma situação cômoda durante esse longo período.
+Por isso, conforme se nota, o TJMT assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ilustrativamente, vejam-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCÁRIA. OMISSÃO. AUSÊNCIA. ESSENCIALIDADE DO BEM. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO RECURSAL. DEFICIÊNCIA. SÚMULA N. 284 DO STF. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA N. 283 DO STF. ESSENCIALIDADE. AUSÊNCIA. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. ART. 105, III, "A" E "C", DA CF. FALTA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso, a Corte de origem assentou que, decorrido período superior a dez anos, não pode a parte alegar a essencialidade do bem visando impedir a consolidação da propriedade fiduciária, prevalecendo, na hipótese, as normas que regulamentam essa modalidade contratual em detrimento da tese de que os bens seriam indispensáveis ao desenvolvimento da atividade empresarial. Para rever tal entendimento, acolhendo a pretensão de reconhecer a essencialidade dos bens e impedir a consolidação da propriedade fiduciária, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. É deficiente a fundamentação empregada no recurso que não permite a exata compreensão da matéria.
+5. De acordo com a jurisprudência da Segunda Seção do STJ, "ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, alegadamente garantidas por alienação fiduciária, bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, de minha relatoria, Segunda Seção, julgado em 23/05/2018, DJe 30/05/2018). Incidência da Súmula n. 83 do STJ.
+6. Aplica-se a Súmula n. 283 do STF quando o acordão recorrido assenta em mais de um fundamento e o recurso não abrange todos.
+7. Divergência jurisprudencial não comprovada.
+8. O reexame do conjunto fático-probatório impede que o recurso especial seja admitido tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.031.236/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. RECONHECIMENTO DA ESSENCIALIDADE DOS BENS. COMPETÊNCIA. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. ESSENCIALIDADE NÃO RECONHECIDA PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. MATÉRIA DE PROVA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. A essencialidade dos bens dados em garantia dos créditos deve ser reconhecida pelo juízo da recuperação, que tem melhores condições de dizer dos efeitos que o desapossamento possa causar ao soerguimento da empresa.
+2. No caso, o eg. Tribunal de origem, apreciando o conjunto fático-probatório dos autos, afirmou não haver comprovação acerca da essencialidade dos bens. A alteração das premissas fáticas adotadas no acórdão recorrido, a fim de acolher o argumento de que os referidos bens foram objeto de contrato de parceria agrícola e geram faturamento às recuperandas, demandaria o reexame do contexto fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.932.909/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. 1. EXECUÇÃO DE CRÉDITO EXTRACONCURSAL. CONTROLE REALIZADO PELO JUÍZO DA RECUPERAÇÃO. AFASTADA A ESSENCIALIDADE DO BEM. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 2. AGRAVO DESPROVIDO.
+1. Não se submetem aos efeitos da recuperação judicial do devedor os direitos de crédito cedidos fiduciariamente por ele em garantia de obrigação representada por Cédula de Crédito Bancário existente na data do pedido de recuperação. Contudo, não se concede ao credor um aval para a livre execução da dívida e expropriação dos bens da sociedade em recuperação, cabendo ao Juízo da recuperação, além de certificar a extraconcursalidade do crédito, controlar os atos executivos a fim de constatar a essencialidade do bem excutido.
+1.1. No caso vertente, o acórdão recorrido se alinhou à jurisprudência desta Corte Superior e asseverou que o crédito buscado por Banco Bradesco S.A. é extraconcursal e não causará nenhum prejuízo à consecução do plano de recuperação, notadamente em razão da ausência de essencialidade do bem.
+1.2. Com efeito, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu pela não verificação da essencialidade do bem.
+Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, conforme disposto na Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.830.821/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021)
+Outrossim, quanto ao dissenso interpretativo invocado, cumpre ressaltar que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. VALOR DA INDENIZAÇÃO. QUANTIA FIXADA DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. O valor fixado a título de indenização por danos morais pelas instâncias ordinárias, nos termos da jurisprudência deste Tribunal, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, os quais não se evidenciam no presente caso, de modo que a sua revisão encontra óbice na Súmula 7 do STJ.
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.546.853/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem manteve a impenhorabilidade do bem indicado por entender que os elementos constantes nos autos mostram que se trata de bem de família. Assim, para verificar a adequação e a suficiência dos elementos probatórios apresentados, seria imprescindível o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.555.125/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 17/12/2019, DJe 19/12/2019)
+Assim, como MONTREAL não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
