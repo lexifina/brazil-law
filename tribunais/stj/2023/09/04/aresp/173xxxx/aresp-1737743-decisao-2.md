@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por GRAMADO EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. PRESTAÇÃO DE SERVIÇO. COMPRA E VENDA DE IMÓVEIS. CERCEAMENTO DE DEFESA. PERÍCIA. AUDIÊNCIA. INOCORRÊNCIA.
+1. Não existe cerceamento do direito de defesa quando respeitados o contraditório e a ampla defesa, com a abertura de prazos às partes litigantes para se manifestarem e produzirem provas.
+2. Nos termos dos arts. 370 e 371 do CPC, não há cerceamento do direito de defesa diante da não realização da perícia complementar que se revele desnecessária à aquilatação da matéria discutida, notadamente porque, no caso, foi produzida a prova pericial, com participação das partes, e, inclusive, esclarecimentos ulteriores a respeito das divergências apresentadas contra o laudo confeccionado pelo perito nomeado pelo juízo.
+3. Dispõe parágrafo 3º do artigo 473 do Código de Processo Civil que o perito pode lançar mão de todos os meios necessários para a conclusão do exame pericial, incluindo-se a solicitação direta de documentos às partes, independentemente de determinação judicial.
+4. Caracterizada a falha na prestação do serviço por parte da empresa Recorrente, resta evidenciada a responsabilidade da mesma em pagar a multa contratual convencionada no ajuste respectivo.
+4. Tendo em vista a ocorrência de sucumbência recíproca e considerando o valor elevado das ações (rescisão e reconvenção), devem os honorários advocatícios serem fixados sobre o valor da condenação, conforme o previsto no art. 85, § 2º do CPC.
+RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 1.952-1.962.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 85, § 2º, do Código de Processo Civil de 2015. Sustenta, em síntese, que os honorários advocatícios devidos pela recorrida devem ser fixados com base em 10% do valor atribuída à reconvenção por ela proposta, que foi julgada totalmente improcedente.
+É o relatório Decido.
+A irresignação merece prosperar.
+De acordo com a sentença proferida às fls. 1.795-1.803, a reconvenção proposta por GUARDIÃ ADMINISTRAÇÃO IMOBILIÁRIA LTDA foi julgada improcedente, com fixação de honorários advocatícios em seu desfavor, no patamar de 10% sobre o valor da causa (reconvenção).
+Por sua vez, o Tribunal de origem, dando parcial provimento à apelação interposta por GUARDIÃ ADMINISTRAÇÃO IMOBILIÁRIA LTDA, ora recorrida, assim dirimiu a controvérsia acerca dos honorários advocatícios sucumbenciais:
+No que se refere aos honorários de advogado, fixados em 10% (dez por cento) sobre o valor da causa (R$14.190.000,00) bem como da reconvenção (R$2.145.329,61), verifiquei que os mesmos merecem redução, eis que fixados em desconformidade com o previsto no parágrafo 2º do artigo 85 do Código de Processo Civil.
+"In casu", o arbitramento dos honorários, de fato, não deve ser feita com base no valor da causa, eis que foi fixado valor da condenação (inteligência do §2º do artigo 85 do CPC).
+Corroborando o suso mencionado posicionamento, transcrevo adiante o seguinte julgado:
+(..)
+Nesse linear, revela-se adequada a fixação dos honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação, valor este capaz de remunerar condignamente o labor dos causídicos das partes, devendo o Requerido pagar 70% (setenta por cento) deles ao advogado do Autor e o Autor pagar 30% (trinta por cento) deles ao advogado do Requerido.
+Na confluência do exposto, CONHEÇO da apelação e DOU-LHE PARCIAL PROVIMENTO para, em reforma a sentença singular, fixar os honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação, nos termos do parágrafo 2º do artigo 85 do Código de Processo Civil, mantendo a sentença inalterada em seus demais termos.
+Com efeito, nos termos da jurisprudência desta Corte, "Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes." (AgInt no AREsp 1109022/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019).
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - ACÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. No caso, o Tribunal de origem, após apreciar o acervo probatório dos autos, consignou a inexistência de circunstâncias que revelassem eventual vulnerabilidade ou excessiva dificuldade capaz de ensejar a inversão do ônus da prova. Assim, modificar tal conclusão é vedado em sede de recurso especial ante a incidência da Súmula 7/STJ.
+3. "Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes." (AgInt no AREsp 1109022/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019). Incidência da Súmula 83/STJ.
+3.1.Outrossim, para alterar o valor em que fixados os honorários advocatícios, seria imprescindível derruir as afirmações do acórdão recorrido no ponto, o que demandaria reanálise dos elementos fáticos dos autos, inviável em sede de recurso especial ante o disposto na Súmula 7 desta Corte.
+4. Conforme entendimento pacífico do STJ, a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ. Precedentes.
+5. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.850.435/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.)
+Por sua vez, "o artigo 85, § 2º, do CPC/2015 veicula a regra geral e obrigatória (ordem de preferência) de que os honorários advocatícios devem ser fixados entre 10% e 20%: (i) do valor da condenação; ou (ii) do proveito econômico obtido; ou (iii), não sendo possível mensurar o proveito econômico, do valor atualizado da causa."(AgInt no AREsp n. 1.569.399/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/5/2020, DJe de 21/5/2020.)
+Sendo assim, observa-se que decisão recorrida encontra-se em desacordo com a jurisprudência desta Corte, motivo pelo qual o recurso especial comporta provimento, a fim de fixar os honorários advocatícios sucumbenciais em 10% sobre o valor da causa (reconvenção), nos termos do art. 85, § 2º, do CPC/2015.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de fixar os honorários advocatícios devidos por GUARDIÃ ADMINISTRAÇÃO IMOBILIÁRIA LTDA em 10% sobre o valor atualizado da causa (reconvenção).
+Publique-se.
+EMENTA
