@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial reclama a intepretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos.
+2 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial ante a incidência das Súmulas n. 5 e 7 do STJ.
+Nas razões do presente recurso, a parte agravante sustenta o seguinte (fl.1.296):
+Contudo, cumpre esclarecer que a análise das teses discutidas no Recurso Especial, quais sejam: ausência de má-fé e inexistência de danos morais, NÃO tem como objetivo o reexame de matéria de fatos e provas.
+Nesse sentido, vale ressaltar que o Recurso Especial ora interposto não derivou de qualquer inconformismo em relação à um juízo de valor do Egrégio Tribunal Local sobre os fatos e/ou as provas existentes nos autos. E por uma razão muito simples. Os fatos relatados no presente Recurso são incontroversos nos autos.
+Ademais, como se sabe, o que enseja a interposição de Recurso Especial é a invocação pelo Egrégio Tribunal de Justiça de teses manifestamente equivocadas para fins de julgamento da lide, o que, evidentemente, não encontram respaldo no ordenamento jurídico federal.
+Na realidade, o Recurso Especial interposto pelo BMG versa apenas sobre questões de direito, em que o Acórdão recorrido viola frontalmente os artigos 42 do CDC e nos artigos 186 e 927 do CC e divergindo do entendimento do TJRJ e TJSP. Sendo que o v. Acórdão, ao condenar o BMG ao pagamento de indenização por danos morais e devolução em dobro de valores, em razão de contrato celebrado livremente entre as partes, e que posteriormente foi declarado nulo, viola os citados dispositivos.
+Ressalta-se que na presente demanda não se faz necessário examinar os fatos e provas, sendo que a questão da existência jurídica é incontroversa. A cobrança do BMG deriva de ato legal, que se fez lei entre as partes. Se posteriormente, o Agravado requereu a nulidade do contrato, por entender que as cobranças seriam abusivas, ainda assim, não há que se falar em má-fé, a ensejar indenização, seja por danos morais ou materiais.
+Requer, assim, o provimento do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial reclama a intepretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos.
+2 . Agravo interno desprovido.
+VOTO
+A decisão agravada adotou os fundamentos a seguir (fls. 1.285-1.287):
+O recurso não merece prosperar.
+O Tribunal de origem analisou as questões e decidiu nos seguintes termos (fls. 1.023-1.024):
+Se a falta de informação levou à contratação de serviço cuja dinâmica de cobrança dá origem a uma dívida que, a princípio, só cresce, caracterizado está o desrespeito ao dever de informação (art. 6º, III, do CDC) e a abusividade do acordo na forma do artigo 39, III e IV, do CDC, por valer-se o fornecedor de esclarecimento deficiente na tratativa para entregar produto diverso do negociado/desejado.
+ ..
+Em se apurando valor pago a maior pelo consumidor, este deve ser devolvido em dobro, não havendo que se perquirir a suposta má-fé da instituição, porquanto a restituição em dobro, conforme entendimento recente do Superior Tribunal de Justiça "independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida, revelando-se cabível quando a referida cobrança consubstanciar conduta contrária à boa-fé objetiva". (EAREsp. 676.608/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 21/10/2020, DJe 30/03/2021).
+O dano moral, por fim, deve ser reconhecido, haja vista a ansiedade e confusão causadas pela constante cobrança de uma dívida sem previsão de encerramento, fruto de um erro a que foi levada a consumidora por ocasião da celebração de um contrato que não deveria comprometer sua saúde financeira, não se confundindo essa situação com um dissabor do cotidiano.
+No tocante à alegada contrariedade dos arts. 42, parágrafo único, do Código de Defesa do Consumidor e 186 e 927 do Código Civil (itens a e b), não assiste razão à parte recorrente, porquanto o Tribunal a quo reconheceu a abusividade "do acordo na forma do artigo 39, III e IV, do CDC, por valer-se o fornecedor de esclarecimento deficiente" (fls. 1.023-1.024) e que, uma vez apurado "valor pago a maior pelo consumidor, este deve ser devolvido em dobro, não havendo que se perquirir a suposta má-fé da instituição"  ..  "não se confundindo essa situação com um dissabor do cotidiano" (fl. 1.024).
+Nesse contexto, a adoção de conclusões diversas daquelas a que chegou o acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. LEILÃO EXTRAJUDICIAL. IRRELEVÂNCIA. DIREITO À RESTITUIÇÃO. PERCENTUAL. PARÂMETROS DE RAZOABILIDADE. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O leilão extrajudicial do imóvel não obsta o direito do consumidor de questionar eventual enriquecimento ilícito e receber a devolução de percentual das parcelas pagas.
+3. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias do caso concreto.
+4. Na hipótese, rever a conclusão do aresto atacado acerca do percentual de retenção adotado encontra óbice nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.018.699/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022, destaquei .)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. INICIATIVA DO COMPRADOR. RETENÇÃO. PERCENTUAL. RAZOABILIDADE. ARRAS CONFIRMATÓRIAS. RESTITUIÇÃO. HONORÁRIOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. "Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga" (AgInt nos EDcl no AgInt no AREsp 1701206/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/06/2021, DJe 17/06/2021).
+2. O arrependimento do promitente comprador não importa em perda das arras, se estas forem confirmatórias. Precedentes.
+3. "A aferição do percentual, em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame no âmbito do recurso especial, por envolver aspectos fáticos e probatórios" (AgInt no AREsp n. 1.669.159/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos. (AgInt no AREsp n. 1.812.197/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021.)
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte recorrente, pois a tese arguida em relação à alínea a do permissivo constitucional já foi afastada pela aplicação das Súmulas n. 5 e 7 do STJ, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Presentes tais razões de decidir e considerando a argumentação recursal ora exposta a irresignação não reúne condições de prosperar.
+Conforme devidamente explicitado na decisão ora agravada, o Tribunal de origem, no que se refere a alegada contrariedade dos arts. 42, parágrafo único, do Código de Defesa do Consumidor, 186 e 927 do Código Civil (itens a e b), reconheceu a abusividade "do acordo na forma do artigo 39, III e IV, do CDC, por valer-se o fornecedor de esclarecimento deficiente" (fls. 1.023-1.024) e que, uma vez apurado "valor pago a maior pelo consumidor, este deve ser devolvido em dobro, não havendo que se perquirir a suposta má-fé da instituição"  ..  "não se confundindo essa situação com um dissabor do cotidiano" (fl. 1.024).
+Acertada, pois, a decisão combatida no sentido de que, tendo vista que, para concluir diversamente do acórdão recorrido, demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+Ademais, no tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte recorrente, pois a tese arguida em relação à alínea a do permissivo constitucional já foi afastada pela aplicação das Súmulas n. 5 e 7 do STJ, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
