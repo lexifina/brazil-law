@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - A CÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ESPÓLIO DE PAULO ROBERTO CUNHA, contra acórdão que negou provimento ao agravo interno, nos termos da seguinte ementa (fl. 1950, e-STJ):
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Não há como verificar a conformidade dos cálculos elaborados com o título judicial transitado em julgado, a questão relativa à transferência do crédito securitizado e o alegado enriquecimento sem causa, sem promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo interno desprovido.
+Em suas razões recursais, o embargante aduz que há omissão acerca da alegada divergência jurisprudencial.
+Diante disso, busca o acolhimento dos aclaratórios com o objetivo de modificar o acórdão prolatado por esta Corte.
+Impugnação às fls. 2083/2090, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - A CÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O recurso não prospera.
+1. Sabe-se que os embargos de declaração têm a finalidade de completar, aclarar, esclarecer ou corrigir uma decisão omissa, obscura, contraditória ou que contenha erro material, afirmação que se depreende dos incisos do próprio artigo 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973).
+Não se prestam os embargos de declaração para adequar a decisão ao entendimento do embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida. Dessa forma, verifica-se que não há como serem acolhidos os presentes embargos de declaração porque o agravo interno foi decidido e suficientemente analisado à luz da jurisprudência deste Superior Tribunal Justiça.
+Com efeito, a Corte local ao tratar da alegada repetição de indébito, consignou (fls. 1810/1811, e-STJ):
+"Em relação a primeira tese de omissão no tocante a forma de liquidação da sentença (modo de cálculo que foi determinado no acórdão de apelação),esclareço que, em sede de liquidação de sentença, a perícia de evento 3, arquivo 5, concluiu que o valor da dívida, em 30/11/2005, era de R$ 418.047,45(saldo em favor do banco embargado), calculado da seguinte forma: valor securitizado pelo banco R$ 818.358,45; valor securitizado a maior R$ 400.311,00, o que subtraindo encontra-se o valor citado em destaque. Desse valor, deve-se abater o montante de R$ 397.054,25, relativos à dação em pagamento efetuada em 12/08/1996 (reconhecida pelo embargado), restando ainda um saldo de R$ 20.993,20, em favor do bando recorrido. Assim, demonstra-se que não há se falar em repetição de indébito, pelo motivo de que não houve valor pago a maior, quando compensados os valores apurados e securitizados. Em relação a segunda tese de omissão (violação da coisa julgada material), observo que a fase de cumprimento de sentença deve se limitar aquilo que foi decidido na sentença. A coisa julgada torna certa e imutável, tornando-se inadmissível estabelecer outros parâmetros em relação a repetição de indébito, sob pena de afronta à coisa julgada e, ainda, aos princípios do contraditório e da ampla defesa. In casu, não houve nenhuma violação da coisa julgada material, posto que no julgamento do recurso de apelação foi asseverada a necessidade de instauração de liquidação de sentença com o desiderato de se verificar se o embargante teria efetivamente saldo a seu favor, condicionando-se a esta hipótese a repetição de indébito (acórdão de evento 3, arquivo 4, p. 232/245), o que não se verificou, por isso, não houve a condenação do recorrido na repetição de indébito.".
+Nesse contexto, constou do acórdão embargado (fls. 1955/1957, e-STJ):
+ ..  diante dos excertos supracitados do acórdão recorrido (fls. 1810/1811, e-STJ), não há como verificar a conformidade dos cálculos elaborados com o título judicial transitado em julgado, a questão relativa à transferência do crédito securitizado e o alegado enriquecimento sem causa, sem promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.  ..  Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes: AgRg no AREsp 646.141/ES, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10.3.2015, DJe 13.3.2015; REsp n. 765.505/SC; Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7.3.2006, DJ 20.3.2006; REsp 1011849/RS, Relator o Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 23.6.2009, DJe 3.8.2009.
+Ausente, portanto, a apontada omissão, não se revelam os embargos de declaração como a via adequada à revisão do julgado, em manifesta pretensão infringente. Com efeito, a jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/15.
+Nesse sentido, colhe-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil de 1973, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp n. 993.078/SP, Relator o Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou de caráter protelatório poderá ensejar, conforme o caso, a aplicação de multa (arts. 1.021, § 4º e/ou 1.026, § 2º, CPC/15)
+2. Em face do exposto, rejeito os embargos de declaração.
+É como voto.
