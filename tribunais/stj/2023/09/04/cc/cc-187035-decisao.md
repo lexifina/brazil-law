@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na reclamação trabalhista ajuizada por Berenice Maia Carvalho e outros em face da União, objetivando o restabelecimento de vantagem pessoal nominalmente identificada - VPNI que foi suspensa em decorrência de reestruturação no regime remuneratório dos servidores da Receita Federal do Brasil, por intermédio da Lei n. 10.910/2004.
+Distribuído o feito perante a 3ª Vara do Trabalho de Rio Branco/AC este declinou da competência para a justiça comum federal.
+Por sua vez, o Juízo Federal da 1ª Vara Cível e Criminal de Rio Branco - SJ/AC, entendendo que a parte autora busca o cumprimento de sentença de título judicial formado perante a justiça laboral, suscitou o presente conflito de competência.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+O art. 516, II, do CPC/2015, a competência para processar o cumprimento da sentença é do Juízo que decidiu a causa no primeiro grau de jurisdição:
+Art. 516. O cumprimento da sentença efetuar-se-á perante:
+(..)
+II - o juízo que decidiu a causa no primeiro grau de jurisdição;
+Portanto, há previsão expressa no sentido de considerar o juízo competente para o cumprimento de sentença aquele que decidiu a causa no primeiro grau de jurisdição.
+Ressalte-se que o presente caso refere-se à demanda já julgada, cujo o conflito de competência somente foi suscitado na fase de cumprimento de sentença.
+Outro não é o entendimento do Superior Tribunal de Justiça, confira-se:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA X JUSTIÇA COMUM. CESSÃO DE CRÉDITO TRABALHISTA, RECONHECIDO EM SENTENÇA TRANSITADA EM JULGADO. DISCUSSÃO QUANTO À COMPETÊNCIA PARA PROCESSAR E JULGAR CUMPRIMENTO DE SENTENÇA TRABALHISTA (NO CASO, JÁ INICIADA, INCLUSIVE), CUJO CRÉDITO ALI RECONHECIDO É CEDIDO A TERCEIRO. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+1. Incumbe à Justiça do Trabalho a competência para conhecer e julgar a pretensão executiva (ou de cobrança) de crédito trabalhista recon hecido em sentença, independentemente de sua cessão a terceiro.
+2. Merece ponderação, em conjunto com a matéria posta, a compreensão adotada pelo Supremo Tribunal Federal, que, ao cuidar do Tema 361/STF (transmudação da natureza de precatório alimentar em normal em virtude de cessão do direito nele estampado), definiu que a cessão de crédito não implica a alteração da sua natureza (alimentar). Sem olvidar que a matéria ali discutida referiu-se à subsistência, em favor do cessionário, do privilégio inerente ao precatório alimentar - nada se referindo à competência - tem-se, em atenção ao princípio hermenêutico ubi eadem ratio ibi eadem jus (onde há a mesma razão aplica-se o mesmo direito), que seus fundamentos afiguram-se in totum aplicáveis à discussão aqui travada. Isso porque o fundamento precípuo que costuma embasar o deslocamento da competência da Justiça trabalhista para a Justiça comum seria a insubsistência de sua natureza trabalhista, provocada pela cessão a terceira pessoa.
+2.1 Em favor da coerência do sistema jurídico, relevante anotar, ainda, que a Lei n. 14.112/2020 revogou o § 4º do art. 83 da Lei n. 11.101/2005 (que estabelecia o rebaixamento do crédito trabalhista cedido à qualidade de quirografário) e incluiu o § 5º, com a seguinte redação: para fins do disposto nesta lei, os créditos cedidos a qualquer título manterão sua natureza e classificação.
+3. Em atenção ao princípio da perpetuatio jurisdictionis, adotado no art. 43 do Código de Processo Civil, a efetivação da cessão de crédito trabalhista, reconhecido em sentença transitado em julgado, promove apenas a substituição processual da parte exequente, sem nenhuma repercussão na competência material da Justiça laboral, definida quando da distribuição do feito, haja vista que o conteúdo trabalhista do crédito remanesce incólume.
+4. A hipótese é expressamente regulada pelo Código de Processo Civil - aplicável subsidiária e supletivamente ao processo trabalhista - no inciso III do art. 778, ao estabelecer ser dado ao cessionário, quando o direito resultante do título executivo lhe for transferido por ato entre vivos, promover a execução forçada ou nela prosseguir, em sucessão processual ao exequente originário, inexistindo qualquer repercussão nas regras de competência. O dispositivo legal em comento, inclusive, dispensa a concordância da parte executada.
+5. Afigura-se inderrogável pela vontade das partes a competência funcional da Justiça trabalhista, única competente para processar e julgar o cumprimento de sentença por ela proferida, sendo, a esse propósito, irrelevante a alteração da titularidade do crédito nela reconhecido.
+6. Conflito conhecido para declarar a competência da Justiça trabalhista.
+(CC n. 162.902/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 2/3/2023, DJe de 8/3/2023.)
+Ante o exposto, com base no art. 955, parágrafo único, inciso I, do CPC/15, conheço do presente conflito para decla rar competente para a causa o Juízo da 3ª Vara do Trabalho de Rio Branco/AC, para onde o feite deve ser remetido.
+Publique-se. Intimem-se.
+EMENTA
