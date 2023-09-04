@@ -1,0 +1,57 @@
+DECISÃO
+Trata- se de ação de indenização por danos materiais e morais ajuizada por GUSTAVO HENRIQUE DA SILVA (GUSTAVO) contra NEON PAGAMENTOS S. A. (NEON), por falha na prestação de serviços.
+Em primeiro grau, o pedido foi julgado parcialmente procedente, para reconhecer a falha na prestação de serviços, condenando NEON ao ressarcimento pelos danos materiais e afastado o direito a indenização por danos morais (e-STJ, fls. 146/149).
+As partes apelaram, mas o Tribunal de Justiça do Estado de São Paulo desproveu os apelos, em acórdão a seguir ementado (e-STJ, fls. 275/278) :
+Ação indenizatória de danos materiais e morais - roubo de aparelho celular - transações realizadas via aplicativo disponibilizado pela instituição financeira - autor que tentou acionar a ré para que bloqueasse o uso do aplicativo - atendimento realizado apenas pelo "chat" - transações realizadas que fogem ao perfil do consumidor, além de superarem o limite a ele disponibilizado - responsabilidade objetiva do fornecedor do serviço - Súmula nº 479 do Superior Tribunal de Justiça - art. 14, "caput" do Código de Defesa do Consumidor - dever de reparação dos danos materiais - dano moral não configurado - ação julgada parcialmente procedente- sentença mantida - recursos improvidos.
+Inconformado, GUSTAVO interpôs este recurso especial, com fundamento no art. 105, III, a e c, da CF, apontando, a par de dissídio jurisprudencial, violação dos arts. 186 e 927 do CC e do art. 6º, VI, do CDC, ao sustentar, em síntese, que a falha na prestação dos serviços oferecidos por NEON acarretou em saques irregulares em sua conta bancária, ultrapassando a barreira do mero aborrecimento e autorizando o reconhecimento da ocorrência de dano moral, no caso, in re ipsa (e-STJ, fls. 281/293).
+Foram apresentadas contrarrazões (e-STJ, fls. 306/311).
+O apelo nobre foi admitido na origem (e-STJ, fls. 312/314).
+É o relatório.
+DECIDO.
+A irresignação comporta acolhimento.
+O ato ilícito reconhecido no acórdão recorrido foi a realização de saques de valores da conta corrente de GUSTAVO, através do aplicativo fornecido por NEON, por terceiros, mediante a utilização de meios fraudulentos.
+Sobre a questão, o Tribunal bandeirante consignou que (e-STJ, fls. 277/279):
+É de se observar que, ainda que se cogitasse que o bloqueio da linha e aparelho telefônico pudesse ter evitado as transferências realizadas pelo terceiro, não se pode afastar o dever da ré de conferir segurança ao serviço de movimentação bancária por aplicativo em aparelho celular.
+Ainda, o fato de o boletim de ocorrência ter sido lavrado um dia após o roubo também não exime o dever do fornecedor do serviço de disponibilizar meios efetivos de contato com seus clientes em momentos emergenciais, como o vivenciado pelo autor.
+Com efeito, do que se extrai dos autos, o aparelho telefônico foi subtraído do autor mediante grave ameaça, tendo o terceiro conseguido acessar os dados bancários do autor por meio do aplicativo nele disponível, único meio disponibilizado pelo réu para contato com seus consumidores.
+A ausência de outros meios para contato impossibilitou que o autor acionasse o réu imediatamente após o roubo, permitindo, assim, que as transações fossem realizadas pelo terceiro.
+As conversas carreadas pelo autor com a inicial demonstram as inúmeras tentativas de contato com o réu, denotando que o atendimento impessoal, realizado apenas por meio de "chats", impossibilitou uma ação tempestiva do requerido, apta a impedir que as transações indevidas fossem realizadas.
+Com efeito, não se mostra razoável exigir o boletim de ocorrência para adoção das medidas com o fim de suspender, de forma tempestiva, as transações realizadas, cabendo salientar que é de amplo conhecimento das instituições financeiras a astúcia e agilidade dos criminosos.
+Ademais, afirma o autor que as transações realizadas fogem ao seu perfil e, ainda, superam o limite a ele concedido, o que demonstra a desídia da instituição financeira em relação às transferências realizadas por meio de sua plataforma.
+Por essas razões, o dever de reparação dos danos materiais foi devidamente reconhecido.
+Todavia, a despeito da evidente falha na prestação do serviço, os fatos narrados pelo autor não denotam um profundo abalo emocional apto a ensejar o alegado dano, senão mero dissabor, daqueles corriqueiros na vida cotidiana.
+Isto porque, se se busca uma indenização por dano moral, devem seus reflexos negativos perante a sociedade ser provados, e não apenas presumidos.
+Ressalte-se, a propósito, que não é devida indenização por danos morais em razão de transtornos, perturbações ou aborrecimentos que as pessoas sofrem no seu dia a dia, frequentes na vida de qualquer indivíduo, que não demonstrou ter sofrido qualquer abalo psicológico, ou alteração do seu comportamento habitual, em razão desses contratempos.
+(..)
+A esse passo, a indenização por danos morais é indevida.
+Como se vê, o TJSP reconheceu a ocorrência de falha na prestação de serviços por parte de NEON, quanto a desídia em relação às transferências bancárias realizadas indevidamente por meio de sua plataforma digital, bem como, em razão do não oferecimento adequado de meios de contato com o consumidor, de forma a impedir a realização dos saques irregulares da conta bancária de GUSTAVO.
+Contudo, quanto ao reconhecimento dos danos morais acometidos ao autor, o entendimento da Corte paulista se afastou da orientação do STJ, no sentido de que o abalo moral decorrente do defeito na prestação de serviço pela falta da segurança legitimamente esperada pelo consumidor.
+Conforme anotado na sentença de primeiro grau, GUSTAVO teve subtraído de sua conta corrente, via operações indevidas feitas na internet por terceiro, o montante de R$ 15.200,00 (quinze mil e duzentos reais).
+Trata-se, na realidade, de dano in re ipsa, não se fazendo necessária a prova do prejuízo, pois decorre ele do próprio fato danoso.
+Pacificou-se nesta Corte Superior o entendimento segundo o qual o dano moral é in re ipsa, ou seja, dispensa a comprovação acerca da real experimentação do prejuízo não patrimonial por parte de quem o alega, bastando, para tanto, que se demonstre a ocorrência do ato ilícito em si (REsp. 299.532/SP e REsp. 786.239/SP).
+A propósito, confiram-se:
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. SAQUES FRAUDULENTOS. OMISSÃO ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVAS. NÃO OCORRÊNCIA. DANOS MORAIS. JURISPRUDÊNCIA FIRMADA. ÔNUS DA SUCUMBÊNCIA. AUTOR VENCEDOR NA MAIOR PARTE DOS PEDIDOS. EMBARGOS REJEITADOS.
+1. Não ocorrentes as hipóteses insertas no art. 535 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, em que se objetiva rediscutir a causa.
+2. A matéria relativa à necessidade de produção de prova foi efetivamente analisada no acórdão embargado, não se podendo falar em omissão.
+3. Nos termos da jurisprudência desta Corte, é devida indenização por danos morais no caso de fraude bancária, como no caso em que, tendo sido efetuados saques em conta de cliente falecido, recusa-se a instituição financeira, procurada por diversas vezes, a repor o valor para fins de pagamento aos herdeiros e ao inventariante.
+4. Conforme se verifica na inicial, o embargado fez três pedidos, tendo sido perdedor apenas no referente aos lucros cessantes, razão pela qual o ônus da sucumbência foi atribuído integralmente ao embargante.
+5. Embargos de declaração rejeitados"
+(EDcl no AgRg no REsp 1.378.791/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 10/8/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. VALORES INDEVIDAMENTE SACADOS DE CONTA CORRENTE, VIA INTERNET, DE FORMA FRAUDULENTA POR TERCEIRO. DEFEITO NA PRESTAÇÃO DE SERVIÇO. FALHA NA SEGURANÇA LEGITIMAMENTE ESPERADA PELO CORRENTISTA. OBRIGAÇÃO DE INDENIZAR. DANO MORAL IN RE IPSA. PRECEDENTES. PENA PRIVADA. INAPLICÁVEL. REPETIÇÃO NA FORMA SIMPLES. ENGANO JUSTIFICÁVEL. ARTIGO 42, PARÁGRAFO ÚNICO, DO CDC.
+RESTABELECIMENTO DA SENTENÇA. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.138.861/RS, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 3/5/2012, DJe de 10/5/2012)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SAQUES IRREGULARES EFETUADOS EM CONTA CORRENTE. DANOS MATERIAIS RECONHECIDOS. DANOS MORAIS. OCORRÊNCIA. VALOR INDENIZATÓRIO DEVIDO.
+FIXAÇÃO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DOS ELEMENTOS PROBATÓRIOS. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+1. Tendo o Tribunal a quo examinado, fundamentadamente, todas as questões suscitadas pelo recorrente, tanto em sede de apelação como em embargos (fls.141/144, 167/169), não há falar na ocorrência de omissão e, pois, de ofensa ao art. 535, II, do CPC.
+2. No pleito em questão, os saques irregulares efetuados na conta corrente do autor acarretaram situação evidente de constrangimento para o correntista (que, como reconhece, expressamente, o Tribunal "perdeu quase todo o seu dinheiro que tinha em sua conta corrente"), caracterizando, por isso, ato ilícito, passível de indenização a título de danos morais. Segundo precedentes desta Corte, em casos como este, o dever de indenizar prescinde da demonstração objetiva do abalo moral sofrido, exigindo-se como prova apenas o fato ensejador do dano, ou seja, os saques indevidos por culpa da instituição ora recorrida: "a exigência de prova do dano moral se satisfaz com a comprovação do fato que gerou a dor, o sofrimento, sentimentos íntimos que o ensejam". Precedentes.
+3. Com o fito de assegurar ao lesado justa reparação, sem incorrer em enriquecimento ilícito, fixo o valor indenizatório por danos morais em R$3.000,00 (três mil reais).
+4. A pretensão do recorrente no sentido de que seja reconhecida a litigância de má-fé implicaria o revolvimento de elementos probatórios analisados nas instâncias ordinárias, e sobre os quais o Tribunal a quo fundamentou sua decisão. Incidência da Súmula 07, desta Corte.
+5. Recurso parcialmente conhecido e, nesta parte, provido.
+(REsp 797.689/MT, Rel. Ministro JORGE SCARTEZZINI, Quarta Turma, julgado em 15/08/2006, DJ 11/09/2006, p. 305 - sem destaque no original)
+Logo, merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Nesse ponto, divergiu o aresto recorrido do entendimento sedimentado nesta Corte Superior, merecendo, portanto, neste tópico, reforma o acórdão impugnado.
+Assim, merece reforma o aresto recorrido, a fim de reconhecer o direito a indenização por danos morais que, em observância à proporcionalidade e razoabilidade, fixo em R$ 5.000,00 (cinco mil reais), valor este que deverá ser atualizado monetariamente a partir desta data (Súmula 362/STJ) e acrescido de juros de mora desde a citação (Nesse sentido: AREsp n. 1.077.224, Ministro Marco Buzzi, DJe de 14/11/2017).
+Nessas condições, DOU PROVIMENTO ao recurso especial, nos termos acima expostos.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇOS. SAQUES IRREGULARES DA CONTA BANCÁRIA DO AUTOR, POR MEIO DE APLICATIVO FORNECIDO PELA INSTITUIÇÃO FINANCEIRA. RECONHECIMENTO NA ORIGEM. DANO MORAL AFASTADO. IMPOSSIBILIDADE. REPARAÇÃO MORAL CABÍVEL. PRECEDENTES. FIXAÇÃO EM R$ 5.000,00 (QUINZE MIL REAIS). ACRESCIDOS DE CORREÇÃO MONETÁRIA CONTADOS A PARTIR DA DATA DESSA DECISÃO (SÚMULA 362, STJ E DE JUROS DE MORA CONTADOS DA DATA DA CITAÇÃO. RECURSO ESPECIAL PROVIDO.
