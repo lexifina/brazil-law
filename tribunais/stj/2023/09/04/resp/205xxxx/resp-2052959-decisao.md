@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela VOAR AVIATION TÁXI AÉREO E MANUTENÇÃO LTDA. e OUTRO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, mediante o qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 336):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PARCELAMENTO. LEI Nº 11.941/09. DEPÓSITO RECURSAL. APROVEITAMENTO. CONVERSÃO EM RENDA DA UNIÃO. APELAÇÃO DESPROVIDA.
+1. Trata-se de recurso de apelação interposto em face da sentença que denegou a ordem em autos demandado de segurança, no bojo do qual se busca tutela jurisdicional que assegure a utilização de crédito decorrente de depósito recursal, efetuado no bojo do processo administrativo nº 10831.010098/2001- 73, apenas para antecipar parcelas do principal de débito relativo a IPI, bem como aproveitar saldo de prejuízo fiscal para liquidação de multa e juros de mora, resguardando-se, ainda, o direito de restituir o crédito remanescente devidamente corrigido pela taxa Selic. Subsidiariamente, requereu-se a restituição integral do referido depósito recursal devidamente corrigido e a reversão da conversão em renda, bem como a retificação da consolidação do parcelamento instituído pela Lei nº 11.941/09.
+2. A hipótese dos autos amolda-se à previsão do art. 10, caput, da Lei nº 11.941/09, nos termos do qual: "Os depósitos existentes vinculados aos débitos a serem pagos ou parcelados nos termos desta Lei serão automaticamente convertidos em renda da União, após aplicação das reduções para pagamento a vista ou parcelamento".
+3. A adesão a parcelamento de débitos fiscais é facultativa, ficando o contribuinte submetido às regras que o regem.
+4. Não se pode acolher a alegação de que somente a apelante poderia indicar o destino do crédito que possuía perante o Fisco. A forma de aproveitamento de créditos é estabelecida pela lei que disciplina o parcelamento, o que foi devidamente observado no caso dos autos.
+5. Apelação desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 443/458).
+Em suas razões de recurso especial, o particular aponta a existência de dissenso pretoriano e violação dos arts. 489, § 1º, e 1.022 do CPC/2015 e dos arts. 1º, § 7º, e 10 da Lei n. 11.941/2009.
+Argumenta, preliminarmente, que o acórdão recorrido padeceria de omissão, pois o Tribunal de origem teria deixado de examinar dispositivos legais aplicáveis à espécie.
+No mérito, aduz ser "totalmente equivocado o entendimento do acórdão recorrido de que o procedimento adotado pela Receita Federal do Brasil estaria conforme o art. 10 da Lei n. 11.941/2009, uma vez que restou demonstrado que a conversão em renda somente poderia ser realizada após a aplicação dos percentuais de redução de multa e juros previstos para o pagamento à vista, bem como que deveria ser garantido ao contribuinte o direito de quitar os valores de multa e juros reduzidos com a utilização de prejuízo fiscal/base negativa de CSLL." (e-STJ fl. 487).
+Contrarrazões às e-STJ fls. 519/524.
+Recurso especial admitido (e-STJ fls. 526/529).
+A irresignação merec e prosperar.
+A controvérsia recursal consiste em saber se, uma vez manifestada desistência de recurso administrativo, o depósito recursal correspondente deve ser imediatamente convertido em renda da União ou se seria possível, antes, a utilização de prejuízo fiscal e de base negativa de CSLL para quitar parte da dívida, inclusive com a aplicação dos redutores de juros e multas previstos na Lei n. 11.941/2009.
+Pois bem.
+Pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que não há empecilho legal ao aproveitamento de prejuízo fiscal e de base negativa de CSLL, inclusive com a aplicação dos redutores de juros e multas, para quitar dívida garantida por depósito judicial ou administrativo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ADESÃO A PARCELAMENTO. LIQUIDAÇÃO DE JUROS DE MORA COM PREJUÍZO FISCAL. POSSIBILIDADE. PREVISÃO EXPRESSA NO ART. 1º, § 7º, DA LEI N. 11.491/2009, INSTITUIDORA DO BENEFÍCIO FISCAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É firme a orientação desta Corte segundo a qual a empresa contribuinte, ao aderir ao programa de parcelamento instituído pela Lei n. 11.941/2009, pode quitar a parcela do débito tributário referente aos juros de mora utilizando os créditos decorrentes de prejuízo fiscal, a teor do disposto no art. 1º, § 7º, da apontada norma.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1.983.319/SP, Rel. Ministra REGINA HELENA COSTA, SEGUNDA TURMA, julgado em 16/05/2022, DJe de 19/05/2022).
+Ante o exposto: com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para autorizar a liquidação das multas e dos juros em comento com o aproveitamento de prejuízos fiscais e base de cálculo negativa de CSLL, observando-se os redutores de multa e juros estabelecidos na Lei n. 11.491/2009.
+Sem honorários, pois se cuida, na origem, de mandado de segurança.
+EMENTA
