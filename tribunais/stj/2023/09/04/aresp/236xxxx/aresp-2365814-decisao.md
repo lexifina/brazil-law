@@ -1,0 +1,36 @@
+DECISÃO
+UELITON RIBEIRO DUARTE agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas (Apelação Criminal n. 0601931-61.2021.8.04.4400).
+Consta dos autos que o ora agravante foi condenado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, mais 250 dias-multa, em regime aberto.
+Nas razões do recurso especial, a defesa aponta a violação do art. 33, § 4º, da Lei n. 11.343/2006 e arts. 59 e 68 do CP, sob a tese de ausência de fundamentos idôneos para aplicação da minorante em fração diversa da máxima legalmente estipulada, em razão da dupla valoração da quantidade de entorpecentes, na primeira e terceira fases da dosimetria, implicando bis in idem.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com fulcro nos óbices processuais das Súmulas n. 7 e 83 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 473-474).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+II. Causa de diminuição de pena pelo tráfico privilegiado
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena, devem ser orientadoras do cálculo da minorante as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+No caso em análise, o Tribunal de origem reduziu a reprimenda na proporção de 1/2, nos seguintes termos (fl. 396):
+Na terceira fase, inexistem causas de aumento. Todavia, incide a minorante prevista no artigo 33, § 4º, da Lei nº 11.343/06, a qual, considerando a circunstância judicial valorada negativamente (natureza e quantidade da droga), entendo que melhor se adequa ao caso a fração de 1/2, razão pela qual torno a pena definitiva em 2 (dois) anos e 6 (seis) meses de reclusão, acrescida de 250 dias-multa, a qual deverá ser cumprida no regime aberto.
+Conforme se constata pela análise do acórdão, a aplicação da fração menos benéfica pelas instâncias originárias se deu com base na quantidade de entorpecentes apreendidos.
+Registro que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Consequentemente, uma vez que a quantidade de entorpecentes já foi valorada na primeira fase da dosimetria e ausentes circunstâncias concretas que evidenciem a necessidade de fração menos benéfica, deve ser aplicado o patamar de redução em 2/3.
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via estreita do habeas corpus. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Como consectário, realizo nova dosimetria.
+III. Nova dosimetria
+Na primeira fase, as instâncias ordinárias valoraram negativamente a quantidade de entorpecentes e fixaram a reprimenda-base em 5 anos e 7 meses de reclusão, mais 562 dias-multa, o que não comporta reparos.
+Na segunda etapa, relembro a aplicação da atenuante da menoridade relativa, com redução da pena intermediária para 5 anos de reclusão.
+Na terceira fase, diminuo a sanção em 2/3, em virtude da minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006, e torno a pena definitiva em 1 ano e 8 meses de reclusão e 166 dias-multa.
+IV. Regime e substituição
+Como consectário da redução efetivada na pena do acusado, deve ser feito o ajuste no regime inicial do seu cumprimento. Uma vez que ele foi condenado a pena inferior a 4 anos, era tecnicamente primário ao tempo do delito e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+VI. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial e fixar: a) a fração de 2/3 para a minorante do art. 33, § 4º, da Lei n. 11.343/2006; b) a pena em 1 ano e 8 meses de reclusão, mais 166 dias-multa, em regime aberto; c) substituir a sanção por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
