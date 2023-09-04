@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 228):
+ACIDENTÁRIA - EVENTO TÍPICO - LESÕES NO MEMBRO SUPERIOR DIREITO - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Incontroverso o acidente de trabalho e reconhecido pela perícia médica o prejuízo funcional, de cunho parcial e permanente, decorrente das sequelas dele advindas, de rigor a concessão do auxílio-acidente com início, no caso concreto, a partir do requerimento administrativo. Os valores em atraso serão corrigidos monetariamente e acrescidos de juros de mora. A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+Apelação do INSS desprovida; sentença mantida em sede do reexame necessário com observações.
+Embargos de declaração do INSS e da parte autora rejeitados (e-STJ fls. 248/251 e fls. 259/262).
+Em suas razões, o INSS aponta violação dos arts. 23 e 86 da Lei n. 8.213/1991 e dos arts. 1.039, 1.040 e 1.041 do CPC/2015, argumentando, em suma, que o feito deve ser suspenso em razão da ausência do trânsito em julgado da decisão acerca do T ema 862 desta Corte, pois "contra os acórdãos proferidos nos processos representativos da controvérsia foram interpostos Embargos de Declaração que, a par de apontarem omissões essenciais para a aplicabilidade da tese, suscitam também questões de natureza constitucional, prequestionando-as, a serem objeto de eventual recurso extraordinário, o que afasta a possibilidade de aplicação da tese firmada pelo STF no presente momento" (e-STJ fl. 270).
+Alega, ainda, violação do art. 927, IV, do CPC/2015, argumentando que o Tribunal local deixou de observar o decidido no Tema 905 acerca da correção monetária das parcelas devidas do benefício previdenciário a partir do laudo pericial, de modo que o índice a ser aplicado deve ser o INPC, e não o IPCA-E.
+Contrarrazões apresentadas (e-STJ fl. 283).
+Em juízo de retratação acerca da correção monetária, o Tribunal de origem decidiu pela manutenção do IPCA-E a partir da data do requerimento administrativo, em acórdão que obteve a seguinte ementa (e-STJ fl. 289):
+ACIDENTÁRIA - BENEFÍCIO DEFERIDO - NO CASO CONCRETO AS PARCELAS DO AUXÍLIO-ACIDENTE, DEVIDAS A PARTIR DA DATA DO REQUERIMENTO ADMINISTRATIVO, SERÃO CORRIGIDAS MONETARIAMENTE PELO IPCA-E - TEMAS 862 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 810 DO SUPREMO TRIBUNAL FEDERAL.
+Acórdão mantido.
+O apelo nobre foi admitido apenas com relação à insurgência quanto à correção monetária (e-STJ fls. 297/299).
+Passo a decidir.
+O acórdão do TJ/SP tem se baseado na repercussão geral do STF para fixar o IPCA-E como índice da correção monetária de benefício regido pela Lei n. 8.213/1991 no período posterior à entrada em vigor da Lei n. 11.960/2009, declarada inconstitucional no tocante à atualização monetária.
+Ocorre que o julgado em repercussão geral (RE 870.947/SE-RG) não tratou de benefício previdenciário, mas sim assistencial, mostrando-se, por isso, inaplicável ao caso concreto.
+Com efeito, no julgamento do Tema 905 do STJ (Recursos Especiais 1.495.146/MG, 1.492.221/PR e 1.495.144/RS), a Primeira Seção firmou a compreensão de que, em se tratando de causas previdenciárias, as condenações impostas à Fazenda Pública, para efeito de correção monetária, sujeitam-se à incidência do INPC a partir da vigência do art. 41-A da Lei n. 8.213/1991, com a redação incluída pela Lei n. 11.430/2006.
+Impende ressaltar que o INPC deve incidir inclusive no período posterior à entrada em vigor da Lei n. 11.960/2009, de acordo com os julgados repetitivos. E nos períodos anteriores à entrada em vigor da Lei n. 11.430/2006, incidem os índices previstos no Manual de Cálculos da Justiça Federal.
+Desse modo, uma vez que, em seu apelo nobre, a autarquia postulou que a correção monetária observasse o INPC, e não o IPCA-E, o recurso comporta parcial conhecimento e, nesse parte, acolhimento, devido à prejudicialidade da insurgência acerca do termo inicial do benefício.
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial da autarquia e, nessa exten são, DOU-LHE PROVIMENTO, a fim de reconhecer a incidência do INPC na correção monetária a partir da concessão do benefício de auxílio-acidente, nos termos do julgado repetitivo (Tema 905/STJ).
+Publique-se. Intimem-se.
+EMENTA
