@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/08/2023 a 04/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a aleg ada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALICE LOURES BRANDÃO DE RESENDE e OUTROS contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL (fl. 630).
+A parte agravante insiste na negativa de prestação jurisdicional. Alega que "a r. decisão utilizou os mesmos termos para justificar que há uma obscuridade nas provas apresentadas, o que tange a indicação de padrão e símbolo de cada um dos servidores no momento da conversão da URV. Entretanto, se trata de uma contradição pois foi largamente esclarecido nos Embargos Declaratórios e no Recurso Especial que tais padrões e símbolos foram apresentados comprovando tal fato constitutivo de direito" (fl. 641).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão julgador competente.
+Com impugnação às fls. 647/650.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a aleg ada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A parte agravante sustenta que o acórdão recorrido é omisso e contraditório ao mencionar a ausência de documentos informando símbolos dos vencimentos dos autores, quando, na verdade, houve a inserção desses documentos nos autos.
+Nos termos do acórdão recorrido, o Tribunal de origem concluiu que a parte autora, ora agravante, não se desincumbiu do ônus de provar o direito alegado, pois, apesar de instada, não trouxe aos autos a indicação de padrão e símbolo de cada um dos servidores, conforme se extrai do seguinte excerto:
+Na hipótese dos autos, a parte autora/apelante argumentou que na conversão da moeda teve perdas, pois o pagamento dos vencimentos/proventos/pensões ocorria no quinto dia útil do mês subsequente ao da obrigação, enquanto para a conversão pela URV era utilizado índice do dia trinta do mês da obrigação, gerando diferença no percentual de 21,697%.
+Cumpre ressaltar que a análise do suposto decesso remuneratório por ocasião da conversão da moeda de Cruzeiros Reais para a Unidade Real de Valor - URV, somente é possível por meio da respectiva prova pericial.
+No caso concreto, não houve prova do efetivo prejuízo alegado pelos autores, pois não ficou claro a indicação de padrão e símbolo de cada um dos servidores no momento da conversão em URV. Nesse diapasão, cumpria aos autores, ora apelantes provarem a existência do fato constitutivo de seus direitos, conforme preceitua o art. 373, inciso 1, do CPC, ônus do qual não se desincumbiram. A prova da existência concreta dos prejuízos incumbia aos recorrentes, pois tal é pressuposto para reajustar/repor os vencimentos/proventos/pensões desses.
+Isso porque, por se tratar de prova constitutiva de direito, foi oportunizado, por meio do despacho de fls. 484/492, para que os autores trouxessem aos autos a indicação de padrão e símbolo de cada um dos servidores autores no momento da conversão em comparação ao resultado da referida prova, que no caso, era facilmente obtida por meio dos contracheques.
+Ocorre que a parte autora não trouxe tais documentos, limitando-se a juntar aos autos, planilhas de cálculo, sem indicar quais os padrões e símbolos dos autores no momento da conversão e sem informar quais as datas dos pagamentos do servidor, o que impede a verificação do alegado prejuízo pelos autores. Ademais, os documentos comprobatórios juntados pelo Estado de Minas Gerais referente aos cargos dos autores e símbolo da carreira não correspondem ao momento específico da conversão, o que impossibilita a comparação ao resultado da prova pericial emprestada e a análise de um possível prejuízo.
+(..)
+Assim, tem-se que a parte autora não comprovou a tempo e modo nos autos os prejuízos alegados, uma vez que limitou-se a apresentar os documentos referentes á prova pericial emprestada, em momento ulterior a sentença, mais especificamente, em sede recursal, sendo que tais documentos eram de sua ciência desde o momento em que foi requerida a prova pericial emprestada produzida na 2a Vara da Fazenda Pública Estadual e Autarquias de Belo Horizonte (fls. 514/515).
+Sendo assim, inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
