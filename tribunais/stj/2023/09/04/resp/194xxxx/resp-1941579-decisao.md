@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ Fl. 783/784):
+"APELAÇÃO CÍVEL. PREVIDENCIÁRIO. REPETIÇÃO DE INDÉBITO. MAJORAÇÃO DO PERCENTUAL DE CONTRIBUIÇÃO DE 11% (ONZE POR CENTO) PARA 14,9% (QUATORZE VÍRGULA NOVE POR CENTO). PRETENSÃO DE RESTITUIÇÃO DOS VALORES, DESCONTADOS A MAIOR. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DE AMBAS AS PARTES. INEXISTÊNCIA DE REQUERIMENTO PARA A APRECIAÇÃO DO AGRAVO RETIDO, INTERPOSTO PELA AUTORA, O QUAL NÃO SE CONHECE. INTELIGÊNCIA DO ART. 523, § 1º, DO CPC/73. ENTIDADE DE PREVIDÊNCIA DE CARÁTER FECHADO. RELAÇÃO DE CONSUMO QUE NÃO SE VERIFICA. AUSÊNCIA DE CONCORDÂNCIA EXPRESSA, FIRMADA POR TODOS OS AUTORES. CARÁTER FACULTATIVO DA ADESÃO. TERMO DE REPACTUAÇÃO, FIRMADO PELO 2º, 3º E 4º AUTORES. INEXISTÊNCIA DE ACEITAÇÃO TÁCITA. DIREITO DO 1º AUTOR AO RESTABELECIMENTO DO PERCENTUAL ORIGINÁRIO, BEM COMO, À DEVOLUÇÃO DOS VALORES, PAGOS A MAIOR. NÃO CONHECIMENTO DO AGRAVO RETIDO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DOS RECURSOS" (fl. 549 e-STJ).
+Em suas razões, a recorrente aponta ofensa aos artigos 1º e 17 da Lei Complementar 109/2021, além do 178 e 205 do Código Civil.
+Alega, em síntese, que,
+"(..) considerando a necessária observância do binômio "contribuição-benefício" (..), não resta dúvida acerca da impossibilidade da concessão de qualquer tipo de prestação pela entidade de previdência sem o necessário e prévio custeio" (fl. 724 e-STJ).
+Sustenta "que as alterações no regulamento ocorreram em 1991, e a presente ação foi distribuída em 19/12/2013, não há dúvida de que se passaram mais de 22 (vinte e dois) anos desde as alterações" (fl. 727 e-STJ), o que enseja o reconhecimento da decadência.
+Assim,
+"na pior das hipóteses, mesmo levando em consideração o maior prazo prescricional existente no código civil, que é o prazo de dez anos previsto no art. 205, não resta outra opção a não ser reconhecer que a pretensão autoral se encontra absolutamente prescrita, visto que se passaram mais de 22 (vinte e dois) anos desde as alterações" (fl. 727 e-STJ).
+Sem contrarrazões (fl. 817 e-STJ).
+É o relatório.
+DECIDO.
+O recurso especial merece provimento.
+De início, cumpre observar que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão, além do que não há necessidade de reapreciação do conjunto fático-probatório dos autos e a matéria recursal encontra-se bem delineada e prequestionada.
+Cinge-se a demanda acerca de pretensão de repetição de indébito, sob alegação de ilegítima alteração unilateral do regulamento do plano de benefícios de previdência privada (arts. 41 e 60 do Plano Petros), ocorrida no ano de 1991, relacionada com a majoração da alíquota de contribuição dos participantes de 11% para 14,9%, tendo em vista que, considerado a natureza facultativa da opção, não houve oferta de outros planos nem a adesão da parte autora.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça, ao apreciar casos idênticos ao dos autos, firmou orientação no sentido de que a pretensão que tem como pressuposto a anulação, por vício de consentimento, de contrato ou transação extrajudicial, está sujeita ao prazo decadencial de 4 (quatro) anos, previsto no art. art. 178, § 9º, V, "b", Código Civil de 1916, vigente à época dos fatos, correspondente ao art. 178, inc. II, do CC/2002.
+A propósito, confiram-se os seguintes julgados: REsp nº 1.201.529/RS (Rel. p/ acórdão Ministra Maria Isabel Gallotti, Segunda Seção, DJe de 1º/6/2015), AgInt no REsp nº 1.838.142/RJ (Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020), AgInt no AgInt no AREsp nº 864.469/RJ (Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/9/2019), AgInt no AgInt no AREsp nº 858.426/RJ (Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/4/2018), AgInt no AgInt nos EDcl no REsp nº 1.042.830/RJ (Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1º/8/2017), AgInt no REsp nº 1.686.592/RJ (Rel. Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, DJe de 4/12/2017).
+No caso, considerando que a ação, voltada contra a alteração do regulamento do plano de previdência privada ocorrida 1991, somente foi proposta em 2013, configurada a decadência, nos termos da orientação acima referida.
+Ante o exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos iniciais também com relação ao Sr. Reinaldo Oliveira Fonseca, nos termos do art. 487, II, do Código de Processo Civil de 2015.
+Custas processuais e honorários advocatícios na forma da sentença (fls. 398/402 e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO PETROS. DEMANDA EM QUE SE POSTULA A REDUÇÃO DO PERCENTUAL DE CONTRIBUIÇÃO E RESTITUIÇÃO DAS DIFERENÇAS ADIMPLIDAS. MUDANÇA NO REGULAMENTO OCORRIDA EM 1991. VÍCIO DE CONSENTIMENTO. PRETENSÃO DE ANULAÇÃO. DECADÊNCIA DO DIREITO. PRECEDENTES ESPECÍFICOS.
+RECURSO ESPECIAL PROVIDO.
