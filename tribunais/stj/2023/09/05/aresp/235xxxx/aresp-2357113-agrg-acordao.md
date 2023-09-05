@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO.  PRETENSÃO ABSOLUTÓRIA.  INVERSÃO  DO  JULGADO.  REEXAME  DE  FATOS  E  PROVAS.  PROVIDÊNCIA  INCÁBÍVEL  EM  SEDE  ESPECIAL.  SÚMULA  7/STJ.  IMPOSIÇÃO  DO  REGIME  INICIAL  FECHADO.  FUNDAMENTAÇÃO  IDÔNEA.  RÉU REINCIDENTE. PRESENÇA  DE  CIRCUNSTÃNCIA  JUDICIAL  NEGATIVA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso em sede especial, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+2.  Inexiste  ilegalidade  na  fixação  do  regime  inicial  fechado  quando  há  exasperação  da  pena-base  em  virtude  de  circunstância  judicial  desfavorável, o réu é reincidente  e  a  condenação  excede  4  anos  de  reclusão.
+3.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  REINER JEAN CANDIDO DE JESUS,,  contra  decisão  monocrática,  da  minha  lavra,  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial.
+No  presente  agravo,  o  recorrente  aponta violação ao princípio da colegialidade. Alega  que  a  análise  da  irresignação  não  demanda  reexame  de  fatos  e  provas.
+A defesa reitera  as  alegações  anteriormente  expendidas sustentando a absolvição do recorrente  e, subsidiariamente, busca  o  abrandamento  do  regime  prisional.
+Pugna,  assim,  pelo  provimento  do  presente  agravo.
+É  o  relatório.
+EMENTA
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO.  PRETENSÃO ABSOLUTÓRIA.  INVERSÃO  DO  JULGADO.  REEXAME  DE  FATOS  E  PROVAS.  PROVIDÊNCIA  INCÁBÍVEL  EM  SEDE  ESPECIAL.  SÚMULA  7/STJ.  IMPOSIÇÃO  DO  REGIME  INICIAL  FECHADO.  FUNDAMENTAÇÃO  IDÔNEA.  RÉU REINCIDENTE. PRESENÇA  DE  CIRCUNSTÃNCIA  JUDICIAL  NEGATIVA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso em sede especial, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+2.  Inexiste  ilegalidade  na  fixação  do  regime  inicial  fechado  quando  há  exasperação  da  pena-base  em  virtude  de  circunstância  judicial  desfavorável, o réu é reincidente  e  a  condenação  excede  4  anos  de  reclusão.
+3.  Agravo  regimental  não  provido.
+VOTO
+O agravo regimental não merece acolhida.
+De plano , destaco que não há óbice ao julgamento monocrático nas hipóteses autorizadas pelo Regimento Interno do Superior Tribunal de Justiça e pelo art. 932 do Código de Processo Civil, os quais admitem interpretação extensiva para monocraticamente dar ou negar provimento a recurso contra decisão contrária ou em consonância com jurisprudência dominante. Relevante registrar, outrossim, que os temas decididos monocraticamente sempre poderão ser levados ao Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+Nesse contexto, "a decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 28/3/2019).
+No que tange à alegação de prejuízo à defesa ante a impossibilidade de sustentação oral, vale esclarecer que o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022, não faz alusão ao recurso apreciado (agravo em recurso especial).
+Reza o referido dispositivo legal que poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de Relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações:
+I - recurso de apelação;
+II - recurso ordinário;
+III - recurso especial;
+IV - recurso extraordinário;
+V - embargos de divergência;
+VI - ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária.
+Precedentes: AgRg no AgRg no AREsp n. 2.247.269/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp n. 2.240.935/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 23/2/2023; AgRg no AREsp n. 2.086.375/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023; EDcl no AgRg no AREsp n. 2.210.477/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe de 19/12/2022.
+No mais, dessume-se  das  razões  recursais  que  a  parte  agravante  não  trouxe  elementos  suficientes  para  infirmar  a  decisão  agravada.
+Conforme  consignado  na  decisão  agravada,  o Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  RECONHECIMENTO  DA  MINORANTE  DO  TRÁFICO  PRIVILEGIADO.  IMPOSSIBILIDADE.  FUNDAMENTAÇÃO  IDÔNEA  PARA  O  AFASTAMENTO  DO  PRIVILÉGIO.  SÚMULA  N.  7  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Na  hipótese  dos  autos,  o  Tribunal  de  origem  afastou  a  incidência  da  minorante  do  tráfico  privilegiado,  porquanto  os  elementos  concretos  do  caso  conduziram  à  conclusão  de  que  o  agravante  dedicava-se  à  atividade  criminosa,  em  razão  da  elevada  quantidade  e  variedade  de  drogas  encontradas  na  posse  do  acusado,  forma  de  acondicionamento  e  local  de  apreensão  dos  entorpecentes  ("boca  de  fumo"),  bem  ainda,  apreensão  de  petrechos  para  comercialização  das  substâncias  ilícitas  e  cadernos  de  anotações  a  respeito.
+2.  Esse  entendimento  está  em  consonância  com  a  orientação  jurisprudencial  desta  Corte  no  sentido  de  que  elementos  tais  quais  petrechos  e  anotações  típicos  de  tráfico,  balança  de  precisão,  ponto  habitual  de  venda,  forma  de  acondicionamento  da  droga,  entre  outros,  somados  à  quantidade  e  à  variedade  de  entorpecentes,  são  idôneos  para  afastar  a  benesse  do  tráfico  privilegiado,  pois  indicam  a  dedicação  do  acusado  a  atividades  ilícitas.  Precedentes.
+3.  A  modificação  deste  entendimento  demandaria  necessariamente  revolvimento  fático-probatório,  vedado  pela  Súmula  n.  7  do  Superior  Tribunal  de  Justiça  -  STJ.
+4  .  Agravo  regimental  desprovido.
+(AgRg  no  AREsp  n.  2.181.966/MS,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  7/3/2023,  DJe  de  10/3/2023.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  DOSIMETRIA.  CAUSA  DE  DIMINUIÇÃO.  QUANTIDADE  DE  DROGA  E  PETRECHOS.  CIRCUNSTÂNCIAS  CONCRETAS  QUE  EVIDENCIAM  A  DEDICAÇÃO  DO  AGRAVANTE  A  ATIVIDADES  CRIMINOSAS.  IMPOSSIBILIDADE.  REVOLVIMENTO  PROBATÓRIO.
+1.  De  acordo  com  o  art.  33,  §  4º,  da  Lei  de  Drogas,  o  agente  poderá  ser  beneficiado  com  a  redução  de  1/6  (um  sexto)  a  2/3  (dois  terços)  da  pena,  desde  que  seja  primário,  portador  de  bons  antecedentes,  não  se  dedique  a  atividades  criminosas  nem  integre  organização  criminosa.
+2.  Não  há  constrangimento  ilegal  na  negativa  da  benesse  pelo  Tribunal  de  origem,  ao  fundamento  de  que  a  quantidade  e  diversidade  de  entorpecentes,  a  balança  de  precisão,  as  embalagens  plásticas  e  a  porção  de  ácido  bórico  para  reprocessar  e  embalar  a  droga  para  colocar  em  circulação  evidenciaram  que  o  paciente  (ora  agravante)  não  se  tratava  de  mero  traficante  ocasional.  Precedentes.
+3.  Por  outro  lado,  a  desconstituição  dos  fundamentos  adotados  pelas  instâncias  ordinárias  demandaria  ampla  incursão  no  acervo  fático-probatório  dos  autos,  tarefa  para  a  qual  não  se  presta  o  habeas  corpus.
+4.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  HC  n.  768.309/MT,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  6/3/2023,  DJe  de  9/3/2023.)
+No  que  se  refere  ao  regime  prisional,  o  Supremo  Tribunal  Federal,  no  julgamento  do  HC  n.  111.840/ES,  assentou  que  inexiste  a  obrigatoriedade  do  regime  inicial  fechado  para  os  condenados  por  crimes  hediondos  e  equiparados,  determinando,  também  nesses  casos,  a  observância  do  disposto  no  art.  33,  §§  2º  e  3º,  do  Código  Penal.
+Todavia,  na  situação  em  apreço,  foi  fixado  o  regime  inicial  fechado  com  lastro  na  existência  de  circunstância  judicial  desfavorável - maus antecedentes - e na reincidência do réu,  fundamento  idôneo  e  suficiente  para  o  recrudescimento,  a  teor  do  disposto  no  art.  33,  §§  2º  e  3º,  do  Código  Penal.
+Dessa  forma,  não  tendo  o  agravante  apresentado  argumentos  aptos  a  reverter  o  entendimento  assentado  na  decisão  monocrática,  esta  se  mantém  por  seus  próprios  e  jurídicos  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  meu  voto.
