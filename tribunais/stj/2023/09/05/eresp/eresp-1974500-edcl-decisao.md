@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos contra decisão deste Relator que não conheceu dos embargos de divergência do ora embargante.
+Em suas razões, o embargante alega que a decisão padece de obscuridade, pois a "coisa julgada pode ser suscitada a qualquer tempo na fase de conhecimento (artigo 485, §3º do CPC), inclusive porque hipótese de ação rescisória". Com isso, requer "o provimento dos presentes Embargos de Declaração a fim de que seja sanado o vício apontado e apreciada a alegação de preclusão/coisa julgada acerca do termo inicial da prescrição no presente feito, independentemente do prequestionamento ou do enfrentamento da questão na origem, na esteira dos precedentes desta Corte, inclusive para fins delimitação do contexto jurídico necessário ao manejo do recurso competente".
+Devidamente intimada, a parte embargada apresentou impugnação.
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis, em regra, para provocar novo julgamento da lide.
+In casu, inexiste o vício apontado nos declaratórios.
+No decisum ora embargado, ficou consignado, de forma clara e fundamentada, que os embargos de divergência não poderiam ser conhecidos, relativamente aos paradigmas de competência da Corte Especial (AgInt no AREsp 1.061.148/RS e AgInt no AREsp 877.213/SP), com base nos seguintes fundamentos:
+(i) "a parte embargante não fez a demonstração da divergência, na forma exigida pelos arts. 266, § 4º, do RISTJ, c/c o art. 1.043, § 4º, e 1.044 do CPC de 2015, pois deixou de realizar o confronto dos arestos, de modo a evidenciar o alegado dissenso das teses jurídicas, adotadas, alegadamente, em situações de evidente similitude fática. Limitou-se a transcrever as ementas dos acórdãos paradigmas, o que, nos termos da jurisprudência do Superior Tribunal de Justiça, não é suficiente para a comprovação do dissídio jurisprudencial";
+(ii) não há similitude fático-jurídica entre os acórdãos confrontados, porquanto, "o acórdão ora embargado, a colenda Terceira Turma confirmou decisão que decidira a respeito do termo a quo do prazo prescricional e afirmou que o tema da prescrição não está sujeito à preclusão, por ser matéria de ordem pública, podendo ser "suscitado a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração". Por sua vez, nos referidos acórdãos paradigmas das colendas Primeira e Segunda Turmas, debateu-se acerca da existência de decisão anterior que julgara o tema da prescrição, o que, diante da existência de coisa julgada, impedia o novo exame do referido tema. A discussão nos paradigmas, portanto, deu-se no âmbito da coisa julgada. Tal questão, contudo, não foi objeto de debate e decisão no aresto ora impugnado, no qual não houve exame a respeito da existência, ou não, de decisão anterior sobre o o tema da prescrição a impedir nova apreciação da questão no recurso especial";
+(iii) "o tema da coisa julgada não foi nem sequer objeto de debate e decisão no aresto ora embargado e, portanto, não foi devidamente prequestionado, o que obsta a apreciação da questão no presente recurso uniformizador".
+Por essa razão, diante do não conhecimento do recurso, não foram examinados os pleitos de mérito trazidos na petição de embargos de divergência.
+Vê-se, pois, que não houve obscuridade na decisão embargada, mas apenas julgamento contrário à pretensão do recorrente.
+Nos termos da jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Nesse sentido podem ser mencionados os seguintes julgados:
+CIVIL E PROCESSUAL. ACÓRDÃO ESTADUAL. NULIDADE NÃO CONFIGURADA. ACIDENTE. CONDUÇÃO DO CONJUNTO POR PREPOSTO DA DONA DO "CAVALO-MECÂNICO". "SEMI-REBOQUE". RESPONSABILIDADE DO PROPRIETÁRIO DESTE INEXISTENTE.
+I. Não padece de nulidade o acórdão estadual que enfrenta suficientemente as questões essenciais ao deslinde da controvérsia, apenas que trazendo entendimento contrário aos interesses da parte irresignada.
+(..)
+IV. Recurso especial conhecido em parte e provido.
+(REsp 494.372/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 04/03/2010, DJe 29/03/2010)
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+(..)
+7. Recurso Especial não conhecido.
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+EMENTA
