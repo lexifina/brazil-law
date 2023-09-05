@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por EXPEDITO ALVES PEREIRA DE MIRANDA contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim ementado (e-STJ fl. 530):
+PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - ROUBO MAJORADO - ART. 157, §§2º, II, e 2º-A, inciso I, DO CÓDIGO PENAL E RECEPTAÇÃO - ART. 180, CAPUT, DO MESMO CÓDIGO - ABSOLVIÇÃO - IMPOSSIBILIDADE - EXCLUSÃO DA MAJORANTE PREVISTA NO ART. 157, §2º-A, I, DO CÓDIGO PENAL (EMPREGO DE ARMA DE FOGO) - IMPOSSIBILIDADE - AFASTAMENTO OU REDUÇÃO DA PENA DE MULTA - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO.
+1 - As provas carreadas aos autos mostram-se seguras, coesas e convincentes, indicando indubitavelmente que o crime fora perpetrado pelo apelante. Assim, mostra-se impossível prosperar o pedido de absolvição com base no princípio in dubio pro reo.
+2 - Cabe ao imputado demonstrar a ausência de potencial lesivo da arma utilizada na prática delitiva. Ademais, o Superior Tribunal de Justiça também consolidou o entendimento no sentido de que se mostra desnecessária a apreensão da arma de fogo para fins de incidência da majorante prevista no art. 157, §2º, I, do Código Penal, desde que existam outros elementos de prova que evidenciem a sua utilização na prática delitiva - como na hipótese, em que a vítima do crime de roubo majorado afirma, em juízo, que o apelante fazia uso desse artefato. Precedentes.
+3. A jurisprudência pátria firmou o entendimento no sentido da impossibilidade de exclusão da pena de multa, por se tratar de obrigação legalmente imposta. Precedentes.
+4. A teor do art. 50, caput, do Código Penal, admite-se o parcelamento da pena de multa, mas somente após o trânsito em julgado da sentença condenatória, a requerimento do condenado e conforme as circunstâncias.
+5. Ademais, trata-se de matéria afeita ao Juízo da Execução Penal, nos termos do art. 169 da Lei nº 7.210/84
+6 - Recurso conhecido e improvido, à unanimidade.
+O agravante foi condenado à pena de 9 anos, 10 meses e 20 dias de reclusão no regime fechado, além do pagamento de 31 dias-multa, pela prática dos crimes previstos nos arts. 157, §§ 2º, II, e 2º-A, I, e 180, caput, do Código Penal.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 530-547).
+Nas razões do recurso especial, alega violação do art. 68, parágrafo único, do Código Penal, pois: a) "o concurso de agentes e a utilização de arma de fogo não são justificativa idônea para aplicar um duplo cômputo das causas de aumento" (e-STJ fl. 556); b) "em caso de concurso de causas de aumento de pena, a princípio o juiz aplicará só a causa que mais aumente a pena, a menos que haja fundamento extraordinário para o cômputo das duas ou mais majorantes" (e-STJ fl. 557); e c) "no caso dos autos, o aumento em cascata não foi justificado, posto que nas hipóteses de concurso de causas de majoração da pena prevista na parte especial do Código Penal, a incidência deve se restringir a apenas uma delas, prevalecendo aquela que importe o maior aumento, consoante preleciona o parágrafo único do artigo 68 do Código Penal" (e-STJ fl. 559).
+Contrarrazões apresentadas às e-STJ fls. 563-571.
+O Tribunal a quo inadmitiu o apelo especial por incidência das Súmulas 518/STJ e 282 e 284/STF, fundamentos contra os quais se insurge a parte agravante (e-STJ fls. 579-586).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 601-602).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à alegada ofensa ao art. 68, parágrafo único, do Código Penal, ao argumento de que não haveria fundamento para aplicação cumulativa dos aumentos pelas majorantes de concurso de agentes e emprego de arma de fogo, na terceira fase dosimétrica, verifica-se que a questão não foi apreciada pelo Tribunal de origem no acórdão recorrido.
+O Superior Tribunal de Justiça orienta que "o prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento" (AgRg no REsp 1.939.244/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+No mesmo sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APELO NÃO CONHECIDO PELA DIVERGÊNCIA. COTEJO ANALÍTICO NÃO REALIZADO. NULIDADE DAS PROVAS. MATÉRIA NÃO PREQUESTIONADA. INSUFICIÊNCIA DE PROVAS. SÚMULA 7/STJ. DOSIMETRIA DA PENA. INEXISTÊNCIA DE ILEGALIDADE. APLICAÇÃO DA CAUSA DE AUMENTO JÁ APRECIADA EM HABEAS CORPUS. RESTITUIÇÃO DE BENS APREENDIDOS. ORIGEM ILÍCITA DOS VALORES E UTILIZAÇÃO DOS BENS PARA PRÁTICA DELITIVA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se revela cognoscível a interposição do apelo nobre com base na alínea "c", do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas. Precedentes.
+2. Se o Tribunal de Justiça não analisou a questão da nulidade das provas, asseverando que a matéria foi indevidamente inaugurada pela defesa em sede de embargos de declaração, não está preenchido o requisito do prequestionamento. Súmulas 282/STF e 211/STJ.
+ ..
+6. Agravo regimental não provido.
+(AgRg no AREsp 1486412/RS. Quinta Turma. Rel. Ministro Ribeiro Dantas. Dje de 06/04/2021)
+N ão tendo sido a matéria em apreço debatida na instância ordinária, mostra-se inviável o seu exame nesta via especial ante o óbice da Súmula 282 do STF.
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
