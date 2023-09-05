@@ -1,0 +1,64 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001352-50.2021.8.08.0008
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: GENI RODRIGUES DE OLIVEIRA AGUIAR
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA DE URGÊNCIA. A AUTORA ALEGA, EM SÍNTESE
+, QUE NO DIA 27/10/2020, FOI REALIZADA INSPEÇÃO NO SEU MEDIDOR SENDO ESTE RECOLHIDO PARA FINS DE REALIZAÇÃO DE PERÍCIA TÉCNICA. NO MESMO ATO FORA SUBSTITUÍDO POR OUTRO. RELATA QUE A REQUERIDA NUNCA ENVIOU QUALQUER NOTIFICAÇÃO PARA O ACOMPANHAMENTO DA PERÍCIA DO MEDIDOR. O FORNECIMENTO DE ENERGIA FORA SUSPENSO E AUTORA FORA INFORMADA QUE SÓ TERIA O FORNECIMENTO DE RESTABELECIDO APÓS O PAGAMENTO DE R$40.729,47 (QUARENTA MIL SETECENTOS E VINTE E NOVE REAIS E QUARENTA E SETE CENTAVOS). ARGUI QUE A REQUERIDA NÃO APLICOU O ART. 130 DA RESOLUÇÃO NORMATIVA DE Nº. 414 DE 09/09/2010 NA AFERIÇÃO DO CÁLCULO. A SENTENÇA DE PISO JULGOU PROCEDENTE A DEMANDA PARA:
+“DECLARAR a nulidade do Termo de Ocorrência e Inspeção – TOI discutido nos autos (nº 10185512), bem como dos cálculos de recuperação de consumo que dele advieram, devendo a requerida CANCELAR a dívida respectiva de seus apontamentos.”
+RECURSO INOMINADO DA REQUERIDA EM QUE PUGNA, PRELIMINARMENTE, PELA DECLARAÇÃO DE INCOMPETÊNCIA DO JUIZADO ANTE A NECESSIDADE DE PERÍCIA TÉCNICA, E, NO MÉRITO, PARA QUE A SENTENÇA DE PISO SEJA PARCIALMENTE REFORMADA A FIM DE QUE SEJA RECONHECIDA A VALIDADE DO TOI E DO DÉBITO DELE DECORRENTE.
+RECURSO CONHECIDO E IMPROVIDO.
+
+PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO AFASTADA, POSTO QUE O JUIZ É O DESTINATÁRIO DA PROVA, SENDO DESNECESSÁRIA A DILAÇÃO PROBATÓRIA, MORMENTE PARA PERÍCIA TÉCNICA, QUANDO SE PERCEBE QUE A PROVA DAS ALEGAÇÕES DAS PARTES PODE SER FEITA POR OUTROS MEIOS, ESPECIALMENTE DOCUMENTAL E TESTEMUNHAL, NOS TERMOS DO ART. 32, LJE. PASSO ÀS QUESTÕES DE MÉRITO. SENTENÇA
+A QUO
+DEVIDAMENTE FUNDAMENTADA. PROCEDIMENTO UNILATERAL REALIZADO PELA CONCESSIONÁRIA. PROVAS SISTÊMICAS E TOTALMENTE UNILATERAIS PRODUZIDAS PELA REQUERIDA. INEXIGIBILIDADE DA COBRANÇA DO TOI DISCUTIDO NOS AUTOS. IRREGULARIDADE DA LAVRATURA DO TOI. EXEGESE DO §7o, ART. 129, DA RESOLUÇÃO 414/2010 DA ANEEL. A REQUERENTE NÃO ESTAVA PRESENTE NA DATA DA EMISSÃO DO TOI, TAMBÉM NÃO RESTOU PROVADO NOS AUTOS QUE A AUTORA TENHA SIDO NOTIFICADA ACERCA DO ATO PARA GARANTIA DO CONTRADITÓRIO E AMPLA DEFESA. NÃO HÁ AR DEVIDAMENTE ASSINADO DO ENVIO DA NOTIFICAÇÃO. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
