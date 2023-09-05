@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por COLUMBIA TRISTAR BUENA VISTA FILMES DO BRASIL e OUTRAS, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 530):
+TRIBUTÁRIO. REMESSA DE VALORES AO EXTERIOR DECORRENTES DA EXPLORAÇÃO DE OBRAS AUDIOVISUAIS. INCIDÊNCIA DE IMPOSTO DE RENDA À ALIQUOTA DE 25%. ART. 13 DA LEI Nº 8.685/93, QUE ALTEROU O DECRETO-LEI Nº 1.089/70.
+1. Incide imposto de renda à alíquota de 25% sobre a remessa de valores ao exterior decorrentes da exploração de obras audiovisuais estrangeiras, nos moldes do art. 13 da Lei nº 8.685/93, que alterou o Decreto-lei nº 1.089/70.
+2. Diante da evolução da legislação que disciplina a matéria e da necessidade de incremento da atividade audiovisual, são inaplicáveis os dispositivos do art. 28 da Lei nº 9.249/95, visto que ao se referir ao art. 77 da Lei nº 3.470/58, limitava a tributação somente à exploração de películas cinematográficas.
+3. Inaplicável à espécie, também, o art. 72 da Lei nº 9.430/96, porquanto os rendimentos da exploração de obras audiovisuais não possuem natureza jurídica de royalties.
+Os embargos declaratórios opostos foram acolhidos sem efeitos infringentes, nos termos da seguinte ementa (fl. 546):
+EMBARGOS DE DECLARAÇÃO - ERRO MATERIAL - OCORRÊNCIA - OMISSÃO - AUSENTE - PRÉ-QUESTIONAMENTO.
+1. Constatado erro material, passa o parágrafo impugnado constante de fls. 4 verso do voto a ter a seguinte redação:
+Da interpretação dos dispositivos em comento conclui-se não se aplicar à espécie o art. 28 da Lei nº 9.249/95, visto estar a matéria especificamente regida pela legislação que disciplina a tributação incidente sobre quaisquer obras audiovisuais, contidas no art. 13 do Decreto-lei nº 1.089/70, alterada pela Lei nº 8.685/93, não se limitando aos dispositivos insertos no art. 77 da Lei nº 3.470/58 que dispunha somente sobre a exploração de películas cinematográficas.
+2. Ausentes os vícios do art. 535 do CPC, merecem ser rejeitados os embargos de declaração.
+3. Inadmissível a modificação do julgado por meio de embargos de declaração, atribuindo-se-lhes, indevidamente, efeitos infringentes.
+4. Não é obrigatório o pronunciamento do magistrado sobre todos os tópicos alegados, mas sim que a decisão esteja devida e suficientemente fundamentada, como no caso.
+5. Embargos de declaração acolhidos em parte somente para sanar erro material.
+As partes recorrentes apontam, além de dissídio jurisprudencial, violação aos arts.165, 458, II, 535, I e II, do CPC, 7º e 97, IV, do CTN, 7º, VI, da Lei 9.610/98.
+Sustentam, em resumo: (I) omissão no julgado embargado uma vez que, sendo a Lei 8.685/93 (apontada como aplicável à matéria em debate) antecedente à Lei 9.249/95, não poderia o art. 706 do Decreto 3.000/99 ser considerado com legislação superveniente para efeito de revogar o art. 28 da Lei 9.249/95, por se tratar de mero decreto e por versar sobre prestação de serviço e não sobre cessão de direito autoral (fl. 599); (II) a aplicação da alíquota de 15% em razão do disposto no art. 28 da Lei 9.249/95, porquanto "norma superveniente à legislação eleita pelo Tribunal a quo e ainda mais específica do que a Lei 8.685/93, eis que trata especificamente de películas cinematográficas (filmes), justamente o objeto de licenciamento da Recorrentes" (fl. 601).
+Contrarrazões apresentadas às fls. 666/668.
+Parecer do Ministério Público Federal às fls. 731/735.
+Petição juntada às fls. 801/802, informando a existência de fato novo qual seja "O recém aprovado RIR (Decreto nº 9580/2018, art. 764) acolheu a legislação que trata das remessas decorrentes de direito de exploração de obras visuais, tal qual postulado na presente demanda, estabelecendo alíquota de 15% para as remessas sub judice".
+A União, às fls. 808/809, manifesta-se no sentido de que "a redução de alíquota de imposto de renda não pode incidir sobre os fatos geradores ocorridos anteriormente à vigência da lei, sob pena de ofender os princípios da anterioridade e irretroatividade da lei tributária".
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega omissão no tocante ao disposto no art. 28 da Lei 9.249/95, norma de enquadramento específico e superveniente à legislação aplicada pelo Tribunal a quo, a saber: Lei 8.685/93.
+Contudo, a Corte de origem apesar de ter reconhecido a existência de erro material no julgado dos aclaratórios, quedou silente sobre tal argumentação e acolheu os pertinentes aclaratórios do ora agravante sem efeitos infringentes, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos declaratórios.
+Publique-se.
+EMENTA
