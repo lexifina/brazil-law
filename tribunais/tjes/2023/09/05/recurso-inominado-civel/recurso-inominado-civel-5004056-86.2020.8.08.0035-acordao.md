@@ -1,0 +1,52 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004056-86.2020.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LUIZ GERALDO DIAS DA SILVA
+RECORRIDO: GOL LINHAS AEREAS S.A.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIAGEM AÉREA. PROTOCOLO DE COVID. DANO MORAL NÃO CONFIGURADO. DANO MATERIAL NÃO CONFIGURADO. NARRA A AUTORA QUE VISANDO A COMEMORAÇÃO DE SEU ANIVERSÁRIO ADQUIRIU PASSAGEM AÉREA DA RÉ, VITÓRIA X FOZ DO IGUAÇU IDA 11/09/2020 E VOLTA 14/09/2020, JUNTO A INTERMEDIADORES. OCORRE QUE O VOO FOI CANCELADO SEM EXPLICAÇÃO OU JUSTO MOTIVO, INFORMANDO QUE O VOO PODERIA SER REMARCADO PARA OUTRA DATA OU PODERIA SER SOLICITADO O REEMBOLSO DOS VALORES PAGOS. FOI TENTADA A RESOLUÇÃO JUNTO A EMPRESA AFIRMANDO QUE SE TRATAVA DE VIAGEM DE ANIVERSÁRIO NA QUAL JÁ HAVIA ADQUIRIDO O HOTEL, PASSEIO E SERVIÇOS ALÉM DE TER CONTRATADO UM FUNCIONÁRIO PARA REALIZAR SUAS TAREFAS PROFISSIONAIS, SEM SUCESSO. A VIAGEM OFERECIDA FOI DISPONIBILIZADA COM IDA PARA 25/09/2020 E RETORNO EM 30/09/2020 O QUE IMPEDIA O DESFRUTE DOS SERVIÇOS CONTRATADOS. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO RESTITUIÇÃO DE R$1.584,00 E DANOS MORAIS NO VALOR DE R$5.000,00. SENTENÇA DE PISO JULGOU IMPROCEDENTES OS PEDIDOS DA INICIAL. RECURSO INOMINADO BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS DA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA DEVIDAMENTE FUNDAMENTADA COM A PROVA DOS AUTOS. VOO NÃO REALIZADO EM CONFORMIDADE COM OS PROTOCOLOS DE COVID E DIPLOMAS LEGAIS. INEXISTÊNCIA DE RESPONSABILIDADE DA RECORRIDA QUANTOS AOS VALORES DEMONSTRADOS. DANO MORAL NÃO CONFIGURADO.
+SENTENÇA
+MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENAÇÃO DA PARTE RECORRENTE/AUTORA AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
