@@ -1,0 +1,86 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5012179-20.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JULIANA SILVA DOS SANTOS
+RECORRIDO: SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5012179-20.2022.8.08.0030
+
+Recorrente:
+JULIANA SILVA DOS SANTOS
+
+Recorrido:
+SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE LINHARES
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte autora os benefícios da assistência judiciária gratuita
+.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CRIMINAL E FAZENDA PÚBLICA. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. ABASTECIMENTO DE ÁGUA POTÁVEL. SUSPENSÃO DO SERVIÇO. PARTE AUTORA ALEGA QUE TEVE O FORNECIMENTO DE ÁGUA SUSPENSO POR 07 DIAS, CAUSANDO-LHE DIVERSOS CONSTRANGIMENTOS. A RÉ SUSTENTA QUE A ÁREA DA RESIDÊNCIA DA AUTORA NÃO FOI AFETADA PELO ROMPIMENTO DA REDE ADUTORA QUE OCASIONOU A SUSPENSÃO DE ABASTECIMENTO DE ÁGUA EM ALGUNS BAIRROS DA CIDADE DE LINHARES. SENTENÇA DE PRIMEIRO GRAU JULGOU IMPROCEDENTE O PEDIDO DA PARTE AUTORA, SOB O ARGUMENTO DE AUSÊNCIA DE COMPROVAÇÃO DE QUE HOUVE FALHA NA PRESTAÇÃO DE SERVIÇO, POR PARTE DA RÉ, NO BAIRRO
+RESIDENCIAL RIO DOCE
+. OS
+DOCUMENTOS ACOSTADOS AOS AUTOS DEMONSTRAM QUE A FALTA DE ÁGUA OCORREU NO BAIRRO
+
+AVISO
+. ANALISANDO OS AUTOS, VERIFICA-SE QUE SEQUER HOUVE RECLAMAÇÃO REGISTRADA ACERCA DE FALTA D'ÁGUA NO BAIRRO RESIDENCIAL RIO DOCE NO MESMO PERÍODO NOTICIADO. ACERTO DO ATO SENTENCIAL.
+DISPENSA DA PRODUÇÃO DE PROVA ORAL QUE, NO CASO CONCRETO, NÃO ENSEJA CERCEAMENTO DE DEFESA. PROVA INÓCUA, CUJA PRESCINDIBILIDADE FOI ADEQUADAMENTE SOPESADA PELO JUÍZO A QUO, NA FORMA DO ART. 5º, DA LEI Nº 9.099/95. EVIDÊNCIAS DE QUE O RESIDENCIAL RIO DOCE, EM QUE A PARTE RECORRENTE TEM SEU DOMICÍLIO, SEQUER ERA ABASTECIDO PELA MESMA REDE AFETADA PELO EVENTO DESCRITO NA INICIAL.
+
+SENTENÇA DE IMPROCEDÊNCIA. MANUTENÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA ORAL POSTULADA QUE SERIA INDIFERENTE PARA A SOLUÇÃO DA LIDE.
+
+RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 10% SOBRE O VALOR DA CAUSA.
+SUSPENDO
+, ENTRETANTO, A EXIGIBILIDADE DE TAIS VERBAS, POIS A PARTE CONDENADA ENCONTRA-SE AMPARADA PELA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+
+É como voto.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO,
+nos termos do voto do Relator
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
