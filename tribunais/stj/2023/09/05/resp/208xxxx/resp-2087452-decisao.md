@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONTRATO TEMPORÁRIO. ART. 9º, III, DA LEI N. 8.745/93. CONSTITUCIONALIDADE. RE 635.648/CE.
+NOVA CONTRATAÇÃO NO ÂMBITO DE ENTE PÚBLICO DISTINTO. POSSIBILIDADE.
+RESP 1.694.298/RJ.
+Remessa Necessária e Apelação interposta pela UNIVERSIDADE FEDERAL DA PARAÍBA - UFPB 1. em face da Sentença que concedeu a Segurança, determinando que a Autarquia providenciasse a imediata contratação do Impetrante para o Cargo/Função de Professor Substituto, sem a exigência do decurso de tempo previsto no artigo 9º, inciso III, da Lei n. 8.745/1993.
+Aduz o Impetrante que foi aprovado em Processo Seletivo simplificado regido pelo Edital n. 2.
+06/2022-PROGEP-DSP, concorrendo a uma, das duas vagas, para a área de circuitos elétricos e dispositivos eletrônicos, junto ao Departamento de Engenharia Elétrica da Universidade Federal da Paraíba; todavia, não pode ser contratado, em virtude de ter mantido vínculo temporário com o IFPB nos últimos 24 (vinte e quatro) meses.
+Defende que a jurisprudência é pacífica no sentido de considerar inaplicável o art. 9º, inciso III, da Lei 3. n. 8.745/1993, nos casos em que o Servidor temporário pleiteia vaga em Instituição distinta da que originou a primeira contratação, uma vez que não se caracteriza a renovação da contratação.
+O Plenário do Supremo Tribunal Federal, em 14.06.2017, nos autos do RE 635.648/CE, com
+4. Repercussão Geral reconhecida, manifestou-se pela constitucionalidade da "quarentena" de 24 meses, prevista na Lei n. 8.745/93, para recontratação de Servidores temporários no âmbito da Administração Pública Federal, fixando-se a Tese de que "É compatível com a Constituição Federal a previsão legal que exige o transcurso de 24 meses, contados do término do contrato, antes de nova admissão de professor temporário anteriormente contratado." A vedação do art. 9º, III, da Lei n. 8.745/93 busca evitar a recontratação do Servidor, pelo mesmo
+5. Órgão, com o intuito de impedir a sua perpetuação na função pública em razão de um suposto tratamento privilegiado que lhe possa ser conferido pela Administração.
+6. Na hipótese, contudo, o Impetrante foi Professor do Instituto Federal da Paraíba e pretende ser contratado como Professor da UFPB, Ente Público diverso, não representando violação ao que decidido na Repercussão Geral RE 635.648 do STF.
+A jurisprudência do STJ e deste Tribunal tem entendido que a vedação legal não incide na hipótese em que a nova contratação ocorre em Entidade diversa da anterior, tendo em vista que, neste caso, não se trata de renovação da contratação. Precedentes: (STJ - REsp 1.694.298/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2017, DJe 23/10/2017; TRF5 - Processo 0800507-28.2021.4.05.8402, Apelação/Remessa Necessária, Rel. Desembargador Federal Rogério de Meneses Fialho Moreira, 3ª Turma, Julgamento: 07/04/2022; e TRF5 - Processo 0807285-20.2021.4.05.8400, Apelação Cível, Rel. Desembargador Federal Rubens de Mendonça Canuto Neto, 4ª Turma, Julgamento: 15/03/2022).
+Apelação e Remessa Necessária improvidas.
+Em suas razões de recurso especial, a parte recorrente aponta a ofensa do art. 9º, III, da Lei n. 8.745/1993, porquanto a vedação é do contrato temporário, sendo irrelevante se é ou não por pessoa jurídica diversa.
+Sem contrarrazões.
+Passo a decidir.
+A jurisprudência desta Corte firmou o entendimento de que "não admite a celebração de novo contrato temporário antes de decorridos 24 meses do encerramento do anterior, vedação que não alcança a hipótese em apreço, tendo em vista que se trata de novel vínculo firmado com órgão público diverso". (AgInt AREsp 1.739.870/DF, Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe 18/08/2021).
+Nesse sentido:
+ADMINISTRATIVO. RECURSO ESPECIAL. OFENSA AO ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. CONTRATAÇÃO TEMPORÁRIA. INTERSTÍCIO MÍNIMO. NOVA CONTRATAÇÃO. PRECEDENTE VINCULANTE DO STF. DISTINÇÃO. NOVA INSTITUIÇÃO CONTRATANTE. JURISPRUDÊNCIA DO STJ.
+1. Não há a ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A Corte a quo rejeitou expressamente a tese de que a contratação seria ilegal. Ele entendeu não ter havido ofensa ao art. 9º, III, da Lei 8.745/1993 e que estaria de acordo com a jurisprudência do STF.
+3. Ao decidir a controvérsia, o Tribunal Regional anotou: "Na espécie, verifica-se que o impetrante manteve vínculo temporário anterior com o Instituto Federal de Educação do Mato Grosso - IFMT, pretendendo ser contratado como professor substituto pela Universidade Federal de Alagoas - UFAL . Como se trata de instituições de ensino diversas, não há óbice à aludida contratação, consoante vem, inclusive, reiteradamente decidindo o próprio STF (cf. RE 1120059, Rel. Min. EDSON FACHIN, j. 30/05/2018, DJe-110 DIVULG 04/06/2018 PUBLIC 05/06/2018)".
+4. A irresignação não prospera, porque o aresto vergastado decidiu em conformidade com a jurisprudência do STJ que a vedação do art. 9º, III, da Lei 8.745/1993, quanto à celebração de novo contrato temporário antes de decorridos 24 meses do encerramento do anterior, não incide na hipótese de contratação firmada com órgão público diverso. Na mesma linha: REsp 1.919.817/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 3.5.2021; AgInt no REsp 1.770.730/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 6.12.2019.
+5. Recurso Especial não provido. (REsp 2.055.298/AL, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 28/06/2023).
+De aplicar, portanto, ao caso dos autos a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
