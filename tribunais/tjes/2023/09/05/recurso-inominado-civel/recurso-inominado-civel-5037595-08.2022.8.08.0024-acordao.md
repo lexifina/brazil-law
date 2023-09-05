@@ -1,0 +1,75 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5037595-08.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+RECORRIDO: ANNELISE LESKEWSCZ NUNES DE CASTRO
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5037595-08.2022.8.08.0024
+
+Recorrente:
+UNIMED VITORIA COOPERATIVA DE TRABALHO MÉDICO
+
+Recorrido:
+ANNELISE LESKEWSCZ NUNES DE CASTRO
+
+RELATOR: DR. SALOMÃO A. Z. SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. PLANO DE SAÚDE. TRATAMENTO DE ENXAQUECA COM O MEDICAMENTO AJOVY POR INDICAÇÃO MÉDICA. NEGATIVA PELO PLANO DE SAÚDE BASEADA NA AUSÊNCIA DE PREVISÃO CONTRATUAL. LIMINAR DEFERIDA E CONFIRMADA EM SENTENÇA PARA CONDENAR A UNIMED AO FORNECIMENTO DO MEDICAMENTO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS JULGADO IMPROCEDENTE. RECURSO COM ALEGAÇÃO DE PRELIMINAR DE INCOMPETÊNCIA POR NECESSIDADE DE PERÍCIA QUE SE REJEITA, CONSIDERANDO-SE SUFICIENTE A INDICAÇÃO MÉDICA PARA ATESTAR A NECESSIDADE DO MEDICAMENTO, AINDA MAIS QUANDO SE OBSERVA QUE A RECORRENTE NÃO FUNDAMENTOU A NEGATIVA NA EXISTÊNCIA DE TRATAMENTO ALTERNATIVO, NEM NA INEFICÁCIA DO MEDICAMENTO PLEITEADO, MAS NA AUSÊNCIA DE PREVISÃO CONTRATUAL. MEDICAMENTO QUE NÃO CONSTA NA RESOLUÇÃO 465 DA ANS, CUJO ROL FOI CONSIDERADO TAXATIVO COM EXCEÇÕES PELO STJ. SITUAÇÃO DA RECORRIDA QUE PODE SER ENQUADRADO COMO EXCEÇÃO, POIS PREENCHE OS REQUISITOS PARA TANTO. NO CASO CONCRETO, E CONFORME LAUDO ID 5060956, A RECORRIDA ESGOTOU TODAS AS POSSIBILIDADES TERAPÊUTICAS, SENDO QUE OS PROCEDIMENTOS PREVISTOS NO ROL DA ANS FORAM INEFICAZES. EMBORA NO MESMO LAUDO A MÉDICA QUE A ACOMPANHA TENHA MENCIONADO SUCESSO COM A UTILIZAÇÃO DO MEDICAMENTO PASURTA, TAL MEDICAMENTO TAMBÉM NÃO CONSTA DO ROL DA ANS, SENDO DITO NO MESMO LAUDO QUE O MEDICAMENTO AJOVY TERIA EFEITO SEMELHANTE, FUNDAMENTANDO SUA INDICAÇÃO. PORTANTO, A EXISTÊNCIA DE MEDICAÇÃO ALTERNATIVA, MAS QUE TAMBÉM NÃO CONSTA DO ROL DA ANS, NÃO INVIABILIZA A DETERMINAÇÃO DA COBERTURA PELO PLANO DE SAÚDE DO MEDICAMENTO AJOVY. ALEGAÇÃO DE USO DOMICILIAR DO MEDICAMENTO QUE SE REJEITA, POIS A PRÓPRIA MÉDICA ASSISTENTE AFIRMA, QUANDO DO INDEFERIMENTO DO PEDIDO ADMINISTRATIVO, QUE O MEDICAMENTO AJOVY É DE USO AMBULATORIAL (ID 5061092), ALÉM DE TER SIDO PRESCRITO QUE A APLICAÇÃO DA MEDICAÇÃO DEVE SER FEITA AMBULATORIALMENTE. PELO EXPOSTO, CONHEÇO DO RECURSO PARA NO MÉRITO LHE NEGAR PROVIMENTO, MANTENDO A SENTENÇA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO E TEMA 451, DA REPERCUSSÃO GERAL DO STF. CONDENO A RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E DE HONORÁRIOS DE SUCUMBÊNCIA NO IMPORTE DE 10% (DEZ POR CENTO) DO VALOR DA CONDENAÇÃO.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+Na sequência, assim se manifestaram os demais Julgadores:
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+- Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO
+- Acompanho o Relator.
+
+DECISÃO
+
+Como consta da ata a decisão foi a seguinte: por unanimidade de votos, CONHECER do recurso inominado e no mérito lhe NEGAR PROVIMENTO, tudo nos termos do voto do Relator.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
