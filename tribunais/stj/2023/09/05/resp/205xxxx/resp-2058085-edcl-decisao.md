@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 995):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO. ART. 142 DO CTN. DIREITO AO CREDITAMENTO DE ICMS. NO CASO CONCRETO. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. ART. 150, §4º, DO CTN. DECADÊNCIA. CREDITAMENTO INDEVIDO. HIPÓTESE EM QUE NÃO HOUVE PAGAMENTO A MENOR, MAS AUSÊNCIA DE PAGAMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ SOBRE O TEMA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+A embargante alega que "(..), o acórdão foi omisso e contraditório quanto ao fato que o objetivo de discussão desta ação desde a lavratura do auto de infração, decorre de creditamento, tido como indevido, do imposto incidente sobre a energia elétrica consumida nos setores de industrialização do estabelecimento." (fl. 1002). Acrescenta que nunca foi objeto de discussão a ausência de pagamento do imposto, sendo que "(..), em se tratando de ICMS, o creditamento do montante pago na etapa anterior possui verdadeira natureza de pagamento, pois justamente porque houve pagamento é que este pode ser descontado do montante devido na etapa seguinte." (fl. 1003).
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há omissão e contradição no julgado porque a discussão, desde a lavratura do auto de infração, tem por objeto o creditamento, tido como indevido, do imposto incidente sobre a energia elétrica consumida nos setores de industrialização do estabelecimento, sendo que nunca foi objeto de discussão a ausência de pagamento do imposto.
+Ocorre que razão não lhe assiste.
+Conforme entendimento desta Corte, verifica-se omissão no julgado quando o julgador deixa de analisar tese relevante ao deslinde da controvérsia ou de explicitar de forma adequada e fundamentada as razões do seu convencimento. Outrossim, "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado" (REsp 1.250.367/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJe de 22/08/2013).
+Nesse diapasão, não há falar em omissão ou contradição na decisão embargada, que foi clara, fundamentada e coerente ao julgar o recurso, registrando que, na espécie, restou assentado expressamente no acórdão recorrido que não houve pagamento a menor do tributo, mas ausência de pagamento.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
