@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CESBE S.A. ENGENHARIA E EMPREENDIMENTOS contra decisão por mim proferida às e-STJ fls. 418/422, em que conheci do agravo para não conhecer do recurso especial, ante a incidência da Súmula 7 do STJ.
+A embargante aponta omissão no julgado ao desconsiderar o teor do acórdão proferido nos embargos declaratórios de e-STJ fls. 317/326.
+Afirma que o trecho utilizado na decisão ora embargada para fundamentar a aplicação da Súmula do 7 STJ, parte de premissa errônea, porque reproduz a redação do primeiro acórdão do Tribunal de origem, o qual continha vícios de integração.
+Diz que a fundamentação posta nos aclaratórios proferidos pelo Tribunal de origem é relevante, visto que "à luz do princípio da causalidade, o contribuinte que a tempo de evitar a execução fiscal protocola documento apto a afastar a cobrança, não pode ser penalizado com o não ressarcimento das verbas sucumbenciais, se a Fazenda Pública, mesmo assim ajuíza ação fiscal e vem a sucumbir" (e-STJ fl. 428)
+Sem apresentação de impugnação.
+Passo a decidir.
+Nos termos do art. 1022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, assiste razão ao embargante quanto à apontada omissão, vício que passo a sanar.
+Com efeito, em decisão por mim proferida às e-STJ fl. 301/306 determinei o retorno dos autos à Corte de origem para reapreciação dos embargos de declaração e saneamento de vício de integração quanto à questão de que pedido de revisão, que originou o cancelamento do crédito tributário, teria sido formulado pela parte recorrente antes do ajuizamento da execução fiscal, fato que influenciaria a aplicação do princípio da causalidade para fins de arbitramento dos honorários sucumbenciais.
+Ocorre que o Tribunal a quo, ao reapreciar os embargos declaratórios, manteve os mesmos fundamentos do voto condutor proferido às e-STJ fls. 216/221, esclarecendo que "em que pese o cancelamento do débito não tenha se dado por ato de ofício do Fisco, como declarado, mas a requerimento da contribuinte na esfera administrativa, o referido pedido de revisão foi apresentado após a inscrição em dívida ativa e o despacho decisório da RFB, que reconheceu a nulidade do débito, foi também proferido após o ajuizamento da execução fiscal" (e-STJ fl. 325).
+Além disso, ponderou que "o pedido de revisão do débito após a inscrição em dívida ativa não constitui hipótese de suspensão da exigibilidade do crédito tributário" (e-STJ fl. 325).
+E , por fim, concluiu que "por tais razões, não sendo exigível do Fisco conduta diversa diante das declarações dos obrigados tributários e da inscrição do débito em dívida ativa, não foi indevido o ajuizamento da execução fiscal, mantendo-se o afastamento da responsabilidade da União pelos ônus sucumbenciais e, por conseguinte, a condenação em honorários de advogado e a prejudicialidade do recurso adesivo" (e-STJ fl. 325).
+Nesse panorama, mantém-se a decisão embargada quanto à incidência da Súmula 7 do STJ, uma vez que não cabe a esta Corte Superior rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade, por implicar o revolvimento do contexto fático-probatório.
+Ante o exposto, ACOLHO os embargos de declaração, sem efeitos modificativos, apenas para sanar a omissão apontada, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
