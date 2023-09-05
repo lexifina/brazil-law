@@ -1,0 +1,61 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000367-03.2022.8.08.0055
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MULTIMARCAS ADMINISTRADORA DE CONSORCIOS LTDA
+RECORRIDO: JOSE MARIA MARQUES FERREIRA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO.
+AÇÃO DE RESSARCIMENTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONSÓRCIO. RESTITUIÇÃO APÓS 30 DIAS DO FIM DO GRUPO. NARRA O AUTOR QUE EM 14/07/2017 ADERIU AO CONSÓRCIO DA RÉ, TENDO COMO OBJETO O CRÉDITO NO VALOR DE R$74.490,00. O CONSÓRCIO POSSUI COMO ESPÉCIE UM VEÍCULO, MODELO HONDA CIVIC 2.0 CÓD. 1124, COM DURAÇÃO DO GRUPO DE 80 E DURAÇÃO DO PLANO DE 76, GRUPO N.º 995, SENDO QUE O REQUERENTE ENTROU NO GRUPO DURANTE A 5º ASSEMBLEIA DE ADESÃO. A PARCELA INICIAL FOI DE R$1.089,42, COM ADESÃO DE R$1.489,80. FORAM PAGOS ATÉ O INÍCIO DA AÇÃO O VALOR DE R$8.059,73. OCORRE QUE EM MARÇO/2020 EM RAZÃO DA PENDÊNCIA DE COVID-19 NÃO CONSEGUIU MANTER O CONTRATO, SOLICITANDO A DESISTÊNCIA. APÓS SOLICITAR A DESISTÊNCIA FOI INFORMADO DE QUE A RESTITUIÇÃO DO VALOR QUE HAVIA PAGO SÓ PODERIA SER PAGO APÓS O FIM DO CONSÓRCIO, O QUE DIVERGIA DA INTENÇÃO DO DEMANDANTE QUE ACREDITA QUE O REEMBOLSO IMEDIATO É DIREITO DO CONSUMIDOR. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) CONDENAÇÃO DA RÉ NO PAGAMENTO DE R$ 8.059,73 COM CORREÇÃO MONETÁRIA E JUROS DESDE A DATA DO EVENTO DANOSO OU SUBSIDIARIAMENTE QUE A CORREÇÃO SE DÊ DESDE 10/03/2020 NO PRAZO DE FIM DO CONSÓRCIO E B) CONDENAÇÃO DA RÉ EM DANOS MORAIS NO VALOR DE R$20.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL PARA DETERMINAR QUE A RÉ PROCEDA COM A DEVOLUÇÃO IMEDIATA DA QUANTIA PAGA PELO AUTOR E JULGANDO IMPROCEDENTE O PEDIDO DE DANO MORAL. RECURSO INOMINADO ALEGANDO INCOMPETÊNCIA DO JUIZADO ESPECIAL EM RAZÃO DO VALOR DA CAUSA E BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTE O PEDIDO DE RESTITUIÇÃO IMEDIATA DOS VALORES PARA QUE SEJA DISPOSTO O PRAZO DE 30 DIAS A CONTAR DO ENCERRAMENTO DO GRUPO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. DEIXO DE ANALISAR A PRELIMINAR UMA VEZ QUE DEVIDAMENTE AFASTADA EM SENTENÇA. QUANTO À RESTITUIÇÃO, MERECE PROSPERAR O PLEITO RECURSAL. CONSÓRCIO É UMA OPERAÇÃO DE CAPTAÇÃO DE RECURSOS EM GRUPO FECHADO. PRAZO DA RESTITUIÇÃO.
+Sobre a questão, estabelece o Tema Repetitivo n° 312, STJ: “
+É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano
+.” (REsp 1119300/RS).
+O PRAZO DE RESTITUIÇÃO DOS VALORES PAGO NO CONSÓRCIO DEVE OCORRER ATÉ 30 DIAS DO ENCERRAMENTO DO GRUPO. PRECEDENTES DO TJES NO SENTIDO DA APLICAÇÃO DA TESE DO REPETITIVO AOS CASOS POSTERIORES À VIGÊNCIA DA LEI 11.795/2008, CONFORME APELAÇÃO CÍVEL, 0036490-57.2017.8.08.0024 (024170320998 -
+RELATORA: DES. ELIANA JUNQUEIRA MUNHOS FERREIRA, ÓRGÃO JULGADOR: TERCEIRA CÂMARA CÍVEL , DATA DE JULGAMENTO: 19/10/2021, DATA DA PUBLICAÇÃO NO DIÁRIO: 29/10/2021
+) MERECENDO O SEGUINTE DESTAQUE: “[...] De fato, se a rescisão do contrato de consórcio se deu por culpa exclusiva da administradora do consórcio, a requerente faz jus à devolução imediata e integral da quantia que havia sido paga, a fim de retornar à situação jurídica anterior à celebração do pacto.
+Ao passo que, se o negócio jurídico foi desfeito EM RAZÃO DA DESISTÊNCIA VOLUNTÁRIA DO DEMANDANTE, O VALOR QUE HAVIA SIDO QUITADO DEVERÁ SER RESTITUÍDO SOMENTE APÓS 30 (TRINTA) DIAS DO ENCERRAMENTO do grupo integrado pela demandante e com a incidência GABIGAde descontos provenientes de encargos contratuais, no escopo de evitar prejuízo para os demais membros do grupo do consórcio [...]”
+. APLICAÇÃO DO ENUNCIADO Nº 25 DO PLENÁRIO DAS TURMAS RECURSAIS DO ES
+(É DEVIDA A RESTITUIÇÃO DE VALORES VERTIDOS POR CONSORCIADO DESISTENTE AO GRUPO DE CONSÓRCIO, MAS NÃO DE IMEDIATO, E SIM EM ATÉ TRINTA DIAS A CONTAR DO PRAZO PREVISTO CONTRATUALMENTE PARA O ENCERRAMENTO DO PLANO. SUPERADO O IRDR No 22/2015.)
+.
+SENTENÇA REFORMADA PARA DETERMINAR QUE A RESTITUIÇÃO DOS VALORES SE DÊ NO PRAZO DE 30 DIAS APÓS FINDO O GRUPO DE CONSÓRCIO, MOMENTO NO QUAL PODERÁ INCIDIR OS JUROS. NO RESTANTE,
+
+SENTENÇA
+MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
