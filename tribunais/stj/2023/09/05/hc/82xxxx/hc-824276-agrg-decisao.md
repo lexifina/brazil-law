@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por KELEN FERNANDA CARDOSO e outros contra decisão monocrática da lavra da Ministra MARIA THEREZA DE ASSIS MOURA, Presidente deste Tribunal, de fls. 774-776.
+Por intermédio do aludido decisum, foi indeferido liminarmente o processamento da petição inicial pois "a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior em razão da ausência de exaurimento de instância" (fl. 775).
+Em suas razões, os Agravantes pedem que tal decisum seja revisto, pois entende que, diversamente do que foi ali consignado, " o  fato de a decisão do Tribunal imediatamente inferior ser monocrática não impede o conhecimento do HC por parte deste STJ" (fl. 792).
+Argumentam que "verificado constrangimento ilegal, não há razão jurídica séria e defensável para retardar a cessação do ato coator, aguardando o "exaurimento" do tema nas instâncias ordinárias" (fl. 792).
+Com suporte nessas alegações, pugnam pela reconsideração da decisão agravada ou, caso assim não se entenda, a apreciação do agravo regimental pela Sexta Turma do Superior Tribunal de Justiça, com o provimento do recurso e a concessão da ordem pleiteada.
+É o relatório.
+Decido.
+Preliminarmente, pontuo que, de acordo com consulta ao site do Tribunal de origem, no dia 26/07/2023, foi proferida decisão de mérito pelo Colegiado daquela Corte nos autos do aludido Processo de Conflito de Competência originário - " p or unanimidade conheceram do conflito e julgaram competente o MM. Juízo da 20Vara Criminal do Foro Central Criminal da Barra Fundada Comarca de São Paulo, ora Suscitado, de conformidade com o voto do relator, que integra este acórdão" -, fato que demonstra a perda superveniente do objeto da presente impetração.
+Nesse sentido, mutatis mutandis: " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+No mesmo sentido, v.g.: AgRg no HC n. 741.479/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/05/2022, DJe 26/05/2022; AgRg no HC n. 677.543/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 09/11/2021, DJe 16/11/2021; AgRg no HC n. 569.783/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/06/2020, DJe 23/06/2020.
+Ante o exposto, JULGO PREJUDICADO o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR NA ORIGEM. SUPERVENIENTE JULGAMENTO DE MÉRITO DO PROCESSO ORIGINÁRIO PELO COLEGIADO DO TRIBUNAL A QUO. PERDA DO OBJETO. AGRAVO PREJUDICADO .
