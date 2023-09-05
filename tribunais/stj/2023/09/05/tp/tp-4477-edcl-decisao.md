@@ -1,0 +1,17 @@
+DECISÃO
+Joaquim Basílio opõe embargos de declaração em face da decisão de fls. 468/469 por meio da qual indeferi a inicial, julgando extinto o processo.
+Aduz haver erro na decisão embargada, dado não ser o caso de incidência da Súmula 7 desta Corte, tendo em vista não se tratar de análise de matéria fático-probatória, mas, sim, de questão meramente de direito.
+Alega que "há prova inequívoca e verossimilhança das alegações fáticas -fumus boni iuris, consubstanciada na elevada probabilidade de êxito, pressupostos de relevância dos fundamentos invocados e a probabilidade de Ineficácia da medida caso não deferida a providência tutelar, de trato eminentemente de direito, ou seja, desobedeceu à coisa julgada e a garantia da autoridade das decisões do Tribunal (AI nº 2109582-13.2014.8.26.0000, de 18/09/2014, TRANSITADO EM JULGADO EM 10/10/2014, interposto pelo próprio Condomínio/Réu, art. 520 do CPC), entre as mesmas e julgado pela própria Col. 25ª Câmara de Direito Privado "a quo", o perigo de lesão grave e de difícil reparação ao direito da parte -periculum in mora (Periculum in mora da tutela cautela consiste no risco ou perigo iminente ao próprio direito material e à efetividade do processo "perigo de infrutuosidade - pericolo da infruttuosità"), podendo resultar ineficaz a concessão, a final, da medida, há de ser concedido a tutela de urgência para a suspensão imediata da execu ção/cumprimento de sentença e expropriação, ANULANDO O V. ACÓRDÃO E QUE OBEDEÇA A COISA JULGADA QUE JÁ RECONHECEU O EXCESSO DE PENHORA E AVALIAÇÃO DO IMÓVEL".
+Não foi aberta vista para impugnação aos embargos de declaração, tendo em vista que a parte embargada está sem representação nos autos (certidão de fl. 485).
+Assim posta a questão, verifico não assistir razão ao embargante, dado que não se trata, simplesmente, de análise de questão de direito, o que fica claro da fundamentação da decisão no Tribunal de origem transcrita na decisão embargada, da qual destaco a seguinte passagem:
+Eis os fundamentos adotados pelos Tribunal de origem ao proferir o acórdão recorrido:
+Cuida-se de cumprimento de sentença proferida em ação de cobrança de débitos condominiais.
+Acolho a preliminar de não conhecimento arguida pela parte contrária.
+De fato, a decisão de fl. 197 dos autos principais (traslado à fl. 204 dos autos principais digitalizados) indeferiu o pedido de substituição de bens proposto pelo executado, porque não havia observado a ordem de preferência.
+Não consta que o agravante tenha se insurgido contra tal decisório, operando, portanto, preclusão.
+Inocorrente também a questão relacionada ao trânsito em julgado, porque a substituição deferida estava, evidentemente, condicionada a uma rápida liquidação do débito que, todavia, não ocorreu. Não há trânsito em julgado que impeça a ampliação da penhora caso os bens constritos não sejam suficientes para satisfazer o crédito.
+Desse modo, fica claro que a revisão das premissas adotadas pelo Tribunal de origem demandaria, necessariamente, o reexame de conteúdo fático, fazendo incidir a Súmula 7 desta Corte, afastando o fumus boni iuris da pretensão, o que, por si só, já é suficiente para o indeferimento liminar do pedido.
+O que se verifica, na verdade, é que o embargante procura tentar reverter o entendimento adotado na decisão embargada que foi clara e precisa em seus fundamentos.
+Verifico, assim, não existir erro material, contradição ou omissão na decisão recorrida.
+Em face do exposto, rejeito os embargos de declaração.
+EMENTA
