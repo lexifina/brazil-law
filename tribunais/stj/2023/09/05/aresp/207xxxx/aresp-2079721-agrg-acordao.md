@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. AUSÊNCIA DE INTERESSE DE AGIR. VALOR DA CAUSA. QUESTÃO NÃO EXAMINADA PELO TRIBUNAL LOCAL, APESAR DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO DESPROVIDO.
+1. No caso, a matéria ventilada no presente recurso - ausência de interesse de agir na execução de multa ante o valor fixado - não foi objeto de apreciação pelo Tribunal de origem, não preenchendo, portanto, o requisito do prequestionamento, ainda que se trate de matéria de ordem pública.
+2. Desse modo, aplica-se a Súmula n. 211 do STJ, no sentido de que é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial.
+O agravante sustenta, em síntese, que não incide o óbice da Súmula n. 211 do STJ, porquanto é o caso de reconhecimento da ilegalidade de ofício, uma vez que, "se o tribunal de apelação julga os recursos criminais com ampla cognoscibilidade, não se restringindo às questões postas por apelante(s) e apelado(s), não é moralmente aceitável não conhecer de teses que foram apresentadas explicitamente vertendo matéria de ordem pública, ainda que em sede de embargos de declaração, sob pena de violação ao princípio constitucional da ampla defesa." (fls. 271-272.)
+Requer o provimento do agravo regimental para "o acolhimento do presente agravo para determinar ao retorno dos autos ao tribunal de origem para que analise a tese da defesa quanto à ausência de interesse de agir na execução da pena de multa, ou para conhecer do recurso especial dando-se lhe provimento, por ser medida de direito e JUSTIÇA!" (fl. 272).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. AUSÊNCIA DE INTERESSE DE AGIR. VALOR DA CAUSA. QUESTÃO NÃO EXAMINADA PELO TRIBUNAL LOCAL, APESAR DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO DESPROVIDO.
+1. No caso, a matéria ventilada no presente recurso - ausência de interesse de agir na execução de multa ante o valor fixado - não foi objeto de apreciação pelo Tribunal de origem, não preenchendo, portanto, o requisito do prequestionamento, ainda que se trate de matéria de ordem pública.
+2. Desse modo, aplica-se a Súmula n. 211 do STJ, no sentido de que é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Agravo regimental desprovido.
+VOTO
+A decisão que ora se questiona foi fundamentada nos seguintes termos (fls. 261-262):
+Consta do acórdão proferido pelo Tribunal em sede de embargos de declaração (fls. 596-602):
+2. O embargante alegou omissão indireta no acórdão, porque este não teria afastado a incidência dos dispositivos legais previstos no art. 14, §3º, II da LRF, art. 1º da Lei 6.830/80 e art. 485, VI do CPC.
+De fato, isso não foi objeto da decisão, uma vez que as referidas teses não integraram as contrarrazões recursais, nada obstante ofertadas pela Defensoria Pública do Estado de Santa Catarina, tampouco as razões ofertadas pelo Ministério Público de Santa Catarina.
+É verdade que a matéria de ordem pública, como, por exemplo, atinente à dosimetria da pena, pode ser objeto de apreciação de ofício - o que, aliás, é feito como regra por este Relator . Entretanto, inexistindo provocação, não se pode exigir que o órgão julgador exponha, além das razões que justificam seu posicionamento, aquelas pelas quais ele deixou de atuar de ofício, muito menos que rebata teses jurídicas não trazidas pela defesa. Certo é que o embargos declaratórios não servem como uma segunda apelação, sob alegação de omissão indireta. Por isso, com respaldo jurisprudencial, entendo não ser omisso o acórdão:
+ ..
+3. No tocante ao pleito de prequestionamento, ressalto ser desnecessária a menção expressa do dispositivo legal ou constitucional supostamente violado. Basta que a decisão tenha tratado a respeito da questão federal ou constitucional, como foi no caso sob exame. Nesse sentido:
+ ..
+Ademais, conforme o art. 1.025 do CPC c/c art. 3º do CPP, para  ns de prequestionamento, "a simples provocação do tema, por meio de recurso integrativo, torna prequestionada a matéria, ainda que não haja o Tribunal debatido o tema de forma expressa" (STJ, EDcl no AgRg no REsp n. 1443522, Min. Rogerio Schietti Cruz, j.
+18.10.2016).
+4. À vista do exposto, voto por conhecer parcialmente dos embargos de declaração e, nessa extensão, rejeitá-los.
+Como se vê, o Tribunal de origem considerou que as teses defensivas não foram ventiladas nas contrarrazões recursais, somente sendo al egadas em sede de embargos de declaração, o que configuraria inovação recursal.
+Desse modo, aplica-se a Súmula 211 do STJ, no sentido de que "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO ART. 619 CPP. AUSENTE. DOSIMETRIA. MINORANTE. QUANTIDADE DE DROGAS. NE BIS IN IDEM. INEXISTENTE. DEDICAÇÃO. ALTERAR. REVOLVIMENTO DE FATOS E PROVAS. REGIME. MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Em relação à alegada ofensa ao art. 619 do Código de Processo Penal, para admissão do recurso especial com base em tal dispositivo, a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores. No caso, houve inovação recursal da defesa em sede de embargos de declaração, não havendo falar em omissão ou obscuridade da decisão. Assim, incide na espécie o verbete da Súmula 211 do STJ, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+3. Segundo entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do ARE 666.334/MG (Rel.
+Ministro GILMAR MENDES, DJ 6/5/2014), está vedada a aferição concomitante da natureza e da quantidade da droga, na primeira e na terceira fase da dosimetria, para modular o índice de redução, sob pena de ofensa ao princípio do ne bis in idem. A hipótese dos autos é diversa, na medida em que não houve modulação do índice de redução, mas sim o afastamento do referido redutor, considerando outras circunstâncias que denotaram a dedicação do recorrente ao tráfico.
+4. Para modificar o entendimento adotado nas instâncias inferiores da dedicação em atividade criminosa e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ.
+5. Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+6. Embora o recorrente seja primário e a pena reclusiva tenha sido fixada em 5 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da aferição desfavorável de circunstâncias judiciais (quantidade do entorpecente - 787,3g de cocaína), nos termos dos art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+7. Agravo regimental não provido.
+(AgRg no REsp n. 1.992.294/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 3/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não vislumbro motivo para conclusão diversa.
+Com efeito, conforme se observa, tanto da cópia do acórdão que julgou as apelações (fls. 96-108), como da cópia do acórdão que julgou os embargos de declaração (fls. 128-129), as questões trazidas no recurso especial não foram objeto de análise por parte do colegiado local, não preenchendo, portanto, o requisito do prequestionamento, ainda que se trate de matéria de ordem pública.
+Desse modo, aplica-se a Súmula n. 211 do STJ, no sentido de que é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
