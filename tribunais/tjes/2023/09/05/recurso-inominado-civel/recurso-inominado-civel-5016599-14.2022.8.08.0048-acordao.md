@@ -1,0 +1,60 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5016599-14.2022.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DEYVID ADEMIR RIO BRANCO FAVARO
+RECORRIDO: ASSOCIACAO FAMILIAR DOS TRABALHADORES RURAIS DE CORREGO SIMAO e outros
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer em parte o recurso, e, nesta parte, negar-lhe provimento, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ADUZ A PARTE AUTORA, EM SÍNTESE, SER ASSOCIADA DA PARTE REQUERIDA, TENDO ADERIDO A CONTRATO PARA PROTEÇÃO DE SEU VEÍCULO. AFIRMA TER SE ENVOLVIDO NUM ACIDENTE DE TRÂNSITO NO DIA 16/08/2020, O QUE PROVOCOU AVARIAS NO VEÍCULO. QUITOU A FRANQUIA PARA SER INICIADO O CONSERTO DO AUTOMÓVEL. CONTUDO, COMO O VEÍCULO NÃO ERA REPARADO, ALUGOU OUTRO PARA CONTINUAR A TRABALHAR COMO MOTORISTA DE APLICATIVO. AFIRMA TER PROPOSTO AÇÃO ANTERIOR PARA QUE OS RÉUS PROVIDENCIASSEM O CONSERTO DO BEM E REPARASSEM MORALMENTE O AUTOR. ALUGOU O VEÍCULO POR 14 (QUATORZE) MESES NO VALOR TOTAL DE R$25.200,00 (VINTE E CINCO MIL E DUZENTOS REAIS). A SENTENÇA DE PISO JULGOU IMPROCEDENTE O PLEITO AUTORAL. RECURSO INOMINADO DA PARTE AUTORA PUGNANDO PELA PROCEDÊNCIA DO PLEITO COM A JUNTADA DE NOVOS DOCUMENTOS.
+RECURSO CONHECIDO E IMPROVIDO
+. NA FASE RECURSAL SOMENTE SE ADMITE A JUNTADA DE DOCUMENTOS NOVOS OU QUANDO PROVADO O JUSTO IMPEDIMENTO PARA SUA OPORTUNA APRESENTAÇÃO OU SE REFERIR A FATO POSTERIOR À SENTENÇA, O QUE NÃO É O CASO DOS AUTOS. INTELIGÊNCIA DO ART. 435 DO CPC. NÃO HOUVE JUSTIFICATIVA PARA JUNTADA TARDIA DOS DOCUMENTOS. DEIXOU DE FAZER PROVAS DE SUAS ALEGAÇÕES. CABE A PARTE AUTORA COMPROVAR MINIMAMENTE OS FATOS CONSTITUTIVOS DO DIREITO PLEITEADO, NA FORMA DO ARTIGO 373, I, DO CÓDIGO DE PROCESSO CIVIL, O QUE NÃO OCORREU NO CASO EM TELA. EM QUE PESE ESTAR QUALIFICADO COMO MOTORISTA, NÃO SE PODERIA IMAGINAR OS POSSÍVEIS VÍNCULOS COM PLATAFORMAS E APLICATIVOS. ADEMAIS, NÃO HOUVE JUNTADA DE DOCUMENTOS QUE COMPROVEM DEPENDER DESSE VÍNCULO PARA SEU SUSTENTO. ASSIM, POR NÃO RESTAR COMPROVADO O EFETIVO PREJUÍZO POR CULPA DOS DEMANDADOS A IMPROCEDÊNCIA QUE SE IMPÕE.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
