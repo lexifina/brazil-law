@@ -1,0 +1,70 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000384-35.2021.8.08.0003
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BP PROMOTORA DE VENDAS LTDA.
+RECORRIDO: MARIA DO CARMO GALVAO BRAVIN
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. EMPRÉSTIMO CONSIGNADO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COM PEDIDO DE LIMINAR “INAUDITA ALTERA PARTE”. A AUTORA RECEBE APOSENTADORIA POR IDADE E ALEGA NUNCA TER REALIZADO QUALQUER TIPO DE CONTRATAÇÃO COM A REQUERIDA, CONTUDO FORA SURPREENDIDA COM DESCONTOS EM SEU BENEFÍCIO NO VALOR DE R$ 385,00 (TREZENTOS E OITENTA E CINCO REAIS) DECORRENTE DE UM EMPRÉSTIMO CONSIGNADO NO VALOR DE R$15.768,63 (QUINZE MIL, SETECENTOS E SESSENTA E OITO REAIS E SESSENTA E TRÊS CENTAVOS), COM A COMPENSAÇÃO DA PRIMEIRA PARCELA PREVISTA PARA O MÊS 07 DO ANO DE 2021 E A ÚLTIMA COM O VENCIMENTO PREVISTO PARA O MÊS 06 DO ANO DE 2028. A REQUERIDA ADUZIU SEREM LEGÍTIMAS AS COBRANÇAS, POIS FORA OBJETO DE CONTRATAÇÃO PELA AUTORA E EM CASO DE OCORRÊNCIA DE POSSÍVEL FRAUDE ARGUIU SER TAMBÉM VÍTIMA COMO A AUTORA. A SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA:
+“
+confirmar a tutela antecipada concedida no ID 8807065 e declarar nulo o contrato nº 817168899, condenando a ré a restituir à autora, de forma simples, todos os valores indevidamente descontados, corrigidos pelo índice da CGJ/ES, desde a data de cada desconto, com juros de 1% (um por cento) ao mês, a contar da citação, bem como ao pagamento de indenização por danos morais no importe de R$ 5.000,00 (cinco mil reais), nos quais incidirão juros e correção monetária a partir da data do arbitramento até o pagamento, ao tempo em que JULGO EXTINTO o processo, com resolução do mérito, nos termos do art. 487, I do CPC/2015.”
+RECURSO INOMINADO DO REQUERIDO EM QUE REQUER A REFORMA INTEGRAL DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS
+OU, EVENTUALMENTE, A DEVOLUÇÃO DO VALOR DEPOSITADO EM FAVOR DA AUTORA E A REDUÇÃO DO
+QUANTUM
+FIXADO A TÍTULO DE DANOS MORAIS
+.
+RECURSO CONHECIDO E IMPROVIDO.
+A INSTITUIÇÃO FINANCEIRA NÃO CONSEGUIU DEMONSTRAR A REGULARIDADE DA CONTRATAÇÃO. O REQUERIDO NÃO COLACIONOU AOS AUTOS A CÓPIA DO CONTRATO ASSINADO PELA PARTE AUTORA, NEM OUTRO MEIO DE PROVA CAPAZ DE ELUCIDAR A CONTRATAÇÃO. CONFORME VISUALIZADO NOS AUTOS A AUTORA É PESSOA IDOSA, SIMPLES, RECEBIA APENAS UM SALÁRIO MÍNIMO, SENDO SURPREENDIDA COM A CONTRATAÇÃO DO EMPRÉSTIMO CONSIGNADO E DESCONTOS EM SEU BENEFÍCIO. AS INSTITUIÇÕES BANCÁRIAS RESPONDEM OBJETIVAMENTE PELOS DANOS CAUSADOS POR FRAUDES OU DELITOS PRATICADOS POR TERCEIROS. A AUTORA FORA PRIVADA DE PARTE DE SEUS RECURSOS FINANCEIROS POR MESES. ADEMAIS, O REQUERIDO SEQUER COMPROVOU A TRANSFERÊNCIA PARA CONTA BANCÁRIA DE TITULARIDADE DA AUTORA DO VALOR DO EMPRÉSTIMO TOMADO.
+É DEVER DOS FORNECEDORES DE SERVIÇOS REDOBRAR A VIGILÂNCIA NO SENTIDO DE IMPEDIR A PROLIFERAÇÃO DE GOLPES, ADOTANDO MECANISMOS DE PROTEÇÃO, JÁ QUE É ALVO DESTE TIPO DE FRAUDE. FATO QUE SE INSERE NO RISCO DA ATIVIDADE.
+ASSIM, É IRRETOCÁVEL A SENTENÇA DE PISO QUE DECLAROU NULO O CONTRATO DE EMPRÉSTIMO CONSIGNADO PARA QUE SE VOLTE AO
+STATUS QUO ANTE
+, ALÉM DA
+OCORRÊNCIA DOS DANOS MORAIS
+IN RE IPSA
+, POIS DECORREM DA PRÓPRIA SITUAÇÃO FÁTICA APRESENTADA NOS AUTOS COM A SUPRESSÃO DE VALOR CONSIDERÁVEL MENSALMENTE DO BENEFÍCIO DA AUTORA. DANOS MORAIS ARBITRADOS CONFORME RAZOABILIDADE.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
