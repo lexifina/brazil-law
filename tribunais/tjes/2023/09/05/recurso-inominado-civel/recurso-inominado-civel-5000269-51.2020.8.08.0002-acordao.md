@@ -1,0 +1,77 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000269-51.2020.8.08.0002
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DACASA FINANCEIRA S/A - SOCIEDADE DE CREDITO FINANCIAME
+RECORRIDO: SONIA MARIA MARTINS DE SOUZA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5000269-51.2020.8.08.0002
+
+Recorrente: DACASA FINANCEIRA S/A – SOCIEDADE DE CREDITO FINANCIAME
+
+Recorrido: SONIA MARIA MARTINS DE SOUZA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à parte recorrente as benesses da gratuidade da Justiça, na forma do art. 98, do CPC, haja vista a sua condição de instituição financeira em liquidação extrajudicial.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. INSTITUIÇÃO BANCÁRIA. NEGATIVAÇÃO INDEVIDA. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C DANOS MORAIS. RELATA A AUTORA QUE FOI SURPREENDIDA EM FEVEREIRO DE 2020 COM UMA NEGATIVAÇÃO POR DÍVIDA COM A REQUERIDA. MESMO ALEGANDO QUE OS VALORES COBRADOS NÃO ERAM DEVIDOS, FEZ ACORDO E PAGOU AS DUAS PARCELAS PARA RETIRADA DO NOME NEGATIVADO. CONTUDO, NO MÊS DE ABRIL A AUTORA CONTINUAVA NEGATIVADA DE FORMA INDEVIDA. AO ENTRAR EM CONTATO NOVAMENTE A RÉ ALEGOU QUE A RECORRIDA AINDA POSSUÍA DÍVIDA, JUNTO AO CARTÃO DA DACASA, PARTE AUTORA NEGA TER FEITO PEDIDO DO CARTÃO E ATÉ MESMO DE TÊ-LO USADO. TENTATIVA DE SOLUÇÃO ADMINISTRATIVA COM A REQUERIDA E VIA PROCON. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, DECLARANDO INEXISTENTE O DÉBITO, DETERMINANDO A PARTE REQUERIDA A PROMOVER A BAIXA DO NOME DA AUTORA, E CONDENANDO AO PAGAMENTO DE R$10.000,00 (DEZ MIL REAIS) A TÍTULO DE DANOS MORAIS. SENTENÇA A QUO PROLATADA AO FUNDAMENTO DE QUE A PARTE AUTORA FEZ A COMPROVAÇÃO DO PAGAMENTO ANTECIPADO. REQUERIDA ARGUMENTA QUE O PROBLEMA FORA GERADO POR NÃO REALIZAÇÃO AUTOMÁTICA DA BAIXA NA PARCELA PAGA ANTECIPADAMENTE. FALHA INTERNA QUE NÃO PODE SER IMPUTADA À CONSUMIDORA ADIMPLENTE. NÃO COMPROVAÇÃO, ADEMAIS, DE QUE O CARTÃO FORA FORNECIDO MEDIANTE PEDIDO DA PARTE AUTORA. RECURSO DA PARTE REQUERIDA PEDINDO A REFORMA DA SENTENÇA, JULGANDO IMPROCEDENTES OS PEDIDOS INICIAIS, OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. RECURSO CONHECIDO E IMPROVIDO.
+QUANTUM
+INDENIZATÓRIO CONDIZENTE COM AS CIRCUNSTÂNCIAS VIVENCIADAS PELA PARTE AUTORA, DUPLAMENTE PREJUDICADA PELO DESCONTROLE DA FORNECEDORA. OBEDIÊNCIA AO PRINCÍPIO DA PROPORCIONALIDADE. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95). SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Como consta da ata, a decisão foi a seguinte: por unanimidade de votos,
+CONHECER
+do recurso inominado interposto e a ele
+NEGAR PROVIMENTO,
+nos termos do voto do Relator. Sem custas e honorários.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
