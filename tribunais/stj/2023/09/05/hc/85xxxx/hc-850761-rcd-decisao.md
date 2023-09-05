@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  pedido  de  reconsideração  da  decisão  de  fls.  380-382 ,  por intermédio da qual indeferi liminarmente a petição inicial.
+Alega e requer a Defesa o que se segue (fl. 386; sic):
+"FLAVIO TAVARES DA SILVA, já qualificado nos autos, por seu procurador infra-assinado, vem perante V. Exa. em cumprimento ao Evento nº 17 de, expor e requerer o que segui:
+1. Em relação aos Hrs n. 811.498/PE e 818.286/PE, Rel. Ministra LAURITA VAZ. cumpre salientar que , como já explicitado que os referidos arquivos em vários trechos, ilegíveis (vide fls. 240-243; fl. 283; fl. 362), não constam ilegíveis para este patrono, tão somente após o protocolo neste Órgão e que e tais arquivos se corrompem por algum motivo que este desconhece.
+2. Registre-se que tal fato foi comunicado via email na data de 26/04/2023, Printscreen em anexo ao email gabinete.laurita.vaz@stj.jus.br, inclusive com o envio dos arquivos legíveis, porém este patrono não obteve nenhum retorno, o que fez com que se novamente impetra-se o terceiro habeas Corpus em favor do paciente
+3. Quanto a Tipificação do caso em epigrafe se trata do artigo 14 da Lei 14.826/2003, de fato por equivoco não foi colocado na Inicial do writ, o que registro meu pedido de escusa
+4. Sendo assim neste ato junto novamente fls. 240-243; fl. 283; fl. 362, sendo que foi extraído de outro processo, as peças da sentença e acordão, requer que seja apreciado a demanda em questão."
+No ato que se presente ver reconsiderado, consignei que a Defesa novamente acostou aos autos cópias da sentença, do acórdão do julgamento da apelação, dos embargos de declaração e do ato ora impugnado, em vários trechos, ilegíveis (vide fls. 240-243; fl. 283; fl. 362).
+Ocorre  que,  às  fls.  388-405,  o  Requerente  acostou  mais  uma  vez  cópias ilegíveis, valendo referir que, "nos termos da jurisprudência do Superior Tribunal de Justiça, constitui dever do usuário do sistema de peticionamento eletrônico diligenciar pela correta transmissão dos documentos enviados, sob pena de arcar com os ônus de eventual protocolização incompleta (AgInt no AREsp 1377677/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)" (STJ, AgInt no AREsp n. 2.013.231/RS, relator Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 7/2/2023, DJe de 10/2/2023).
+Ademais, não requereu a expedição de certidão da Coordenadoria de Atendimento Judicial que comprovassem eventuais falhas técnicas ou a alegação de que os arquivos não estão sendo encaminhados de forma corrompida (mutatis mutandis, STJ, AgRg nos EDcl no RHC n. 63.762/RS, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/8/2016, DJe de 29/8/2016) - valendo no mais referir que o e-mail institucional de meu Gabinete não substitui o peticionamento eletrônico.
+Reitere-se o alerta de fl. 381, parte final, por derradeiro. Não mais será admitido o protocolo de documentos corrompidos nesta Corte após as ínumeras advertências já proferidas ao Impetrante.
+Ante  o  exposto,  INDEFIRO  o  pedido  de  reconsideração.
+Publique-se.  Intim em-se.
+EMENTA
+ PEDIDO  DE  RECONSIDERAÇÃO  DA  DECISÃO  QUE  NÃO  CONHECEU  DO  HABEAS  CORPUS.  HIPÓTESE  NA  QUAL  PERMANECE  ILEGÍVEL  DOCUMENTAÇÃO  ESSENCIAL  À  ANÁLISE  DA  CONTROVÉRSIA.  PEDIDO  INDEFERIDO.
