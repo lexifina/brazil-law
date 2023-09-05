@@ -1,0 +1,71 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5035719-18.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: NATALINA PINHEIRO DOS SANTOS
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5035719-18.2022.8.08.0024
+
+Recorrente: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+
+Recorrido: NATALINA PINHEIRO DOS SANTOS
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. NEGATIVAÇÃO INDEVIDA. AÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INEXIGIBILIDADE DO DÉBITO, EXCLUSÃO DE NEGATIVAÇÃO E DANOS MORAIS. RELATA A AUTORA QUE FOI SURPREENDIDA COM A INCLUSÃO DE SEU CPF NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO POR SUPOSTA DÍVIDA DE CONSUMO DE ENERGIA ELÉTRICA NO VALOR DE R$ 20.146,52 (VINTE MIL CENTO E QUARENTA E SEIS REAIS E CINQUENTA E DOIS CENTAVOS). SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS AUTORAIS PARA RETIRAR O REGISTRO DO CPF DA AUTORA DOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO, ALÉM DE DECLARAR INEXISTENTE A RELAÇÃO DA AUTORA COM OS RELÓGIOS OBJETO DA LIDE, EM CONSEQUÊNCIA, SUSPENDER AS COBRANÇAS DECORRENTES DE SUA UTILIZAÇÃO. AINDA, CONDENOU A RECORRENTE AO PAGAMENTO DE R$ 8.000,00 (OITO MIL REAIS) A TÍTULO DE DANOS MORAIS. RECORRENTE QUE NÃO SE PRESTOU EM COMPROVAR A RELAÇÃO COMERCIAL DA RECORRIDA COM O CONSUMO GUERREADO. NENHUM DOCUMENTO SUBSCRITO PELA RECORRIDA. À LUZ DO ART. 373, §2º, DO CPC, A PARTE RECORRIDA NÃO PODERIA SER COMPELIDA À PROVA DE FATO NEGATIVO. CABERIA A CREDORA EVIDENCIAR O FATO POSITIVO CORRESPONDENTE, ISTO É, A PORTABILIDADE DO CONSUMO. NESSE VIÉS, ENUNCIA À JURISPRUDÊNCIA: “
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 535, II, DO CPC. NÃO-OCORRÊNCIA. PROVA DE FATO NEGATIVO. INVERSÃO DO ÔNUS DA PROVA EM FAVOR DO AUTOR. POSSIBILIDADE. AGRAVO IMPROVIDO. [...] 2. NA COLISÃO DE UM FATO NEGATIVO COM UM FATO POSITIVO, QUEM AFIRMA UM FATO POSITIVO TEM DE PROVÁ-LO, COM PREFERÊNCIA A QUEM AFIRMA UM FATO NEGATIVO. [...]
+” (AGRG NO AG 1181737/MG, REL. MINISTRO ARNALDO ESTEVES LIMA, QUINTA TURMA, JULGADO EM 03/11/2009, DJE 30/11/2009). ÔNUS DA PROVA DO CREDOR, QUE DELE NÃO SE DESINCUMBIU, QUEDANDO-SE SATISFEITO COM
+PRINTS
+DE TELAS UNILATERAIS EXISTENTES NOS AUTOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, 2ª PARTE, DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso
+,
+NEGANDO-LHE PROVIMENTO
+para
+manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
