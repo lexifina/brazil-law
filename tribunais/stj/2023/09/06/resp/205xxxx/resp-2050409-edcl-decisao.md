@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração de fls. 365/375 opostos por JEANN TADEU BUZELIN LISBOA em face de decisão de minha lavra, às fls. 357/360, em que julguei prejudicado o recurso especial, por se tratar de reiteração de pedido já analisado nos autos do HC n. 762.195/MG.
+Nos presentes aclaratórios, a defesa alega que os pedidos defensivos não foram apreciados nos autos do HC n. 762.195/MG, uma vez que a impetração sequer foi conhecida por este Relator.
+Requer seja reconsiderada a decisão embargada para conhecer e dar provimento ao recurso especial.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme o art. 1.022, III, do Código de Processo Civil - CPC/2015.
+No caso em análise, contudo, não se vislumbra qualquer vício a justificar o manejo dos aclaratórios.
+A defesa aduz que "os argumentos defensivos não foram apreciados no Habeas Corpus que sequer foi conhecido", razão pela qual não deveria ter sido julgado prejudicado o apelo nobre.
+Sem razão o embargante.
+Embora tenha constado, no dispositivo, o não conhecimento da impetração, fato é que foram efetivamente apreciados os pedidos defensivos veiculados no HC n. 762.195/MG - cujo objeto é o mesmo do presente recurso -, a fim de verificar ser o caso de concessão da ordem de ofício. Senão, vejamos:
+"Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+O Tribunal de origem manteve a condenação do paciente pela prática do crime de tráfico de drogas a 5 anos e 10 meses de reclusão, no regime inicial semiaberto, por estar na posse de 1.606,0 g de crack, acondicionadas no assoalho do banco do passageiro do veículo Fiat/Idea, em circunstâncias indicativas da dedicação do réu à atividade criminosa, uma vez que é motorista do aplicativo Uber, que utilizava sua atividade lícita para fazer entrega de entorpecentes com o veículo, conforme se verifica no seguinte trecho do acórdão impugnado:
+"Ora, imperioso salientar que a causa especial de diminuição de pena contida no § 4º do art. 33 da Lei 11.343/2006 é apenas aplicável às situações em que o réu é primário, portador de bons antecedentes e quando inexiste prova de que se dedica a atividades criminosas ou integra organização criminosa.
+Sabe-se que apesar de a Lei n. 11.343/06 dar um tratamento mais rigoroso ao crime de tráfico de drogas, não se pode tratar igualmente circunstâncias distintas, não sendo justo, pois, apenar do mesmo modo um traficante contumaz e um iniciante, já que a pena deve refletir as peculiaridades e especificidades da conduta ilícita praticada.
+Neste diapasão, a minorante prevista no §4º do art. 33 da referida lei possibilita ao magistrado aplicar a pena que entender suficiente e necessária para a reprovação e prevenção do crime, mitigando ou não a reprimenda, com fundamento na realidade prática factual.
+É cediço, ainda, que a referida norma destina-se a um grupo restrito de traficantes, os quais somente serão beneficiados no afã de se evitar que entrem definitivamente para o mundo da criminalidade.
+Assim, a pena será reduzida pela causa especial de diminuição do § 4º apenas para os iniciantes, que ainda não se dedicam à narcotraficância de maneira reiterada, ou a tem como meio de vida, o que, de acordo com as evidências dos autos, não é o caso do embargante.
+Isso porque, por mais que nos alinhemos a jurisprudência dos Tribunais superiores no sentido de que a quantidade e natureza das drogas apreendidas, por si só, não pode ser fundamento apto a inviabilizar a concessão da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/06, certo é, que, no caso, existem outras circunstâncias que demonstram a dedicação do réu a atividades ilícitas.
+Ocorre que o embargante se trata de motorista de transporte de passageiros via aplicativo, conforme ele próprio alega (mídia de fl. 67) e atestam os documentos juntados às fls. 11/14 do Apenso 2, sendo que policiais civis alegaram que ele seria "nacional envolvido na guarda e entrega de entorpecentes, mais especificamente, CRACK," (fl.02), conforme relatou o policial condutor Yuri Philipe Motta dos Santos, o qual, sob o contraditório confirmou suas declarações inquisitivas (11"29" da mídia de fl. 67). O fato de o réu já ser conhecido pela entrega de entorpecentes em meio ao exercício de uma atividade de transporte habitualmente desenvolvida por ele, já se trata de um indicativo de dedicação a atividades criminosas.
+Além disso, as testemunhas policiais também noticiaram (fls. 02/03 e mídia de fl. 67), que o embargante fora alvo de denúncias anônimas que informaram sobre uma transação de drogas que seria realizada por ele, declinando, inclusive, parte da placa de seu veículo, tendo sido com base em tais informações que ele fora flagrado na prática do delito de tráfico de drogas."
+O entendimento do acórdão não destoa da orientação jurisprudencial desta Corte. Confiram-se, nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. NÃO APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. UTILIZAÇÃO DE OUTRO CRITÉRIO QUE NÃO APENAS A QUANTIDADE DE DROGA APREENDIDA. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. FUNDAMENTAÇÃO VÁLIDA. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas.
+2. Hipótese em que foi afastada a aplicação da minorante do tráfico privilegiado não somente pela quantidade de droga apreendida, mas também em virtude do "minucioso planejamento, com acompanhamento da viagem através do celular" e das informações da Polícia Federal no sentido de que a investigação evidenciou que o Agravante vinha se dedicando ao tráfico há algum tempo, utilizando o mesmo veículo no qual a droga foi apreendida, denotando a sua dedicação à atividade criminosa.
+3. Não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 745.960/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.)
+(..).
+Além disso, o acolhimento da tese da defesa de que o paciente não se dedicava a atividades criminosas demandaria o revolvimento de matéria fática, o que é vedado em habeas corpus. Nesse sentido, o seguinte julgado: (..).
+Dessa forma, inexiste flagrante constrangimento ilegal a autorizar a concessão da ordem de ofício" (fls. 368/372).
+Destarte, houve a efetiva apreciação da tese defensiva ora reiterada em apelo nobre - pleito de aplicação, na hipótese, da causa de diminuição do tráfico privilegiado - sendo inevitável o reconhecimento da prejudicialidade.
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PLEITOS CONSTANTES DO APELO NOBRE APRECIADOS NO HABEAS CORPUS N. 631807. PERDA DO OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A apreciação, em sede de habeas corpus, dos pedidos declinados no recurso especial, torna o conhecimento do apelo nobre prejudicado.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.961.521/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
