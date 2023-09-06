@@ -1,0 +1,26 @@
+DECISÃO
+VITOR HENRIQUE SANTOS DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500341-93.2023.8.26.0535).
+Consta dos autos que o paciente foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a redução da pena-base.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz sentenciante fixou a pena-base acima do mínimo legal "diante da quantidade, variedade e natureza do entorpecente aprendido (92 porções de maconha, com massa líquida de 160 gramas, 57 porções de cocaína, com massa líquida de 37,9 gramas e 40 porções de crack, com massa líquida de 9,9 gramas), sendo parte de alto grau de nocividade, justificável o aumento das penas, nos termos do artigo 42 da Lei de Tóxicos" (fls. 16-17, grifei).
+O Tribunal de origem manteve a dosimetria da reprimenda pelos seguintes fundamentos (fl. 46):
+Na primeira fase, a base foi aumentada em 1/6 (um sexto), em razão da quantidade e variedade de drogas apreendidas, o que reputo correto.
+Restou demonstrado que, com o acusado, foram localizadas diversas drogas: o princípio ativo da droga extraída da planta Cannabis sativa L (droga popularmente conhecida como "maconha"), cocaína em pó e cocaína na forma de "crack". As quantidades também eram expressivas, a saber: 160g (cento e sessenta gramas) da primeira droga, 37,9g (trinta e sete gramas e noventa centigramas) da segunda e 9,9g (nove gramas e noventa centigramas) da terceira, de acordo com o laudo de constatação de fls. 19/21 e de exame químico-toxicológico de fls. 42/44.
+Era mesmo o caso, assim, de serem exasperadas as penas nesta etapa inicial, nos termos do artigo 42 da Lei nº 11.343/06, que prevê: "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Pelos trechos transcritos, observo que a instância de origem fixou a pena-base acima do mínimo legal por entender desfavoráveis a quantidade, a variedade e a natureza da droga apreendida.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora tais elementos constituam, de fato, circunstâncias preponderantes a serem sopesadas na dosimetria da pena, considero que as quantidades de substâncias apreendidas em poder do paciente - 160 g de maconha, 37,9 g de cocaína e 9,9 g de crack - não foram expressivas, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas a natureza para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Diante de tais considerações, deve a ordem ser concedida, a fim de reduzir a pena-base do paciente ao mínimo legal.
+II. Nova dosimetria
+Deve, portanto, ser realizada a nova dosimetria da sanção.
+Estabelecida a pena-base no mínimo legal, na segunda etapa, presente a atenuante da confissão e a agravante da reincidência específica, mantenho o aumento em 1/6, o que totaliza 5 anos e 10 meses de reclusão e 583 dias-multa, montante que torno definitivo à míngua de causas de aumento e de diminuição. Fica mantido o regime fechado em razão do quantum da reprimenda e da reincidência.
+III. Dispositivo
+À vista do exposto, concedo a ordem para reduzir a pena-base imposta ao mínimo legal e, por conseguinte, impor ao réu a reprimenda de 5 anos e 10 meses de reclusão e 583 dias-multa.
+Comunique-se o inteiro teor desta decisão às instâncias de origem para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
