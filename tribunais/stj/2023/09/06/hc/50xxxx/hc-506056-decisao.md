@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ISRAEL FERNANDES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0015716-05.2009.8.26.0050).
+Consta dos autos ter sido o paciente condenado à pena de 18 anos, 5 meses e 22 dias de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 40 dias-multa, pela prática dos crimes de roubo majorado (duas vezes, em concurso formal) e de associação criminosa.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo do paciente, nos termos da seguinte ementa (e-STJ fl. 13):
+Apelação. Crimes de roubo majorado, e formação de quadrilha. Autoria e materialidade comprovadas. Reconhecimento da menoridade relativa dos corréus à época dos fatos, com a consequente atenuação. Possibilidade com relação ao corréu ALEXANDRE. Afastamento da majorante do emprego de arma. Impossibilidade. Crimes praticados em concurso formal e não em crime único, pois atingidos patrimônios distintos. Provimento parcial ao recurso do corréu ALEXANDRE. Não provimento aos demais recursos.
+Opostos embargos de declaração, foram acolhidos para reduzir a reprimenda do acusado para 15 anos, 4 meses e 10 dias de reclusão. Eis a ementa do aludido julgado (e-STJ fl. 25):
+Embargos de Declaração. Omissão. Bis in idem não configurado. Corréu menor na data dos fatos. Reconhecimento da atenuante. Provimento parcial aos embargos.
+No presente writ, sustentou a impetrante que "o paciente ISRAEL já foi anteriormente condenado pelo crime de formação de quadrilha armada (ou associação criminosa), condenações estas, referentes a crimes de roubo ocorridos em curto lapso temporal. Não somente uma, mas três são as condenações pelo mesmo crime, cometido pelos mesmos agentes. Não é demais anotar, que o crime de associação criminosa se consuma no momento associativo e, no presente caso, tal vínculo associativo não se interrompeu desde os fatos apurados no processo 050.08.089307-4/00 (controle 1777/2008 - 31ª Vara Criminal da Barra Funda) e os relativos ao presente feito" (e-STJ fl. 7).
+Pontua que "a própria tipificação do delito de quadrilha pressupõe o propósito do cometimento reiterado de crimes. E, embora exista a possibilidade jurídica de imputar ao agente que faz parte de várias associações ilícitas, delitos diversos de quadrilha, não é esse o caso dos autos. Todas as denúncias imputam ao paciente o crime de formação de quadrilha, considerada a mesma base fática consistente na prática habitual de crimes de roubo, realizados com o mesmo modus operandi, os mesmos corréus, o que configura bis in idem" (e-STJ fl. 8).
+Busca, inclusive liminarmente, seja o paciente absolvido do crime de formação de quadrilha, por nítida ocorrência de bis in idem (e-STJ fl. 9).
+Liminar indeferida (e-STJ fls. 345/347).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fl. 379).
+É o relatório.
+Decido.
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado em 23/3/2014, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local anos após o seu trânsito em julgado.
+Anote-se, ademais, que o Tribunal de origem nem sequer apreciou devidamente a controvérsia, uma vez que tão somente consignou que seria "infundada a alegação de "bis in idem" porque as certidões constantes nos autos serviram para demonstrar o grau de organização dos Réus para a prática de crimes patrimoniais em fatos e situações diversas  " (e-STJ fls. 25/26), o que também impediria o conhecimento do writ pela inviabilidade de revolvimento do material fático-probatório dos autos nesta seara.
+Anote-se, por fim, que houve ajuizamento de revisão criminal pela defesa na origem (Processo n. 0014357-19.2022.8.26.0000), ainda pendente de apreciação, de maneira que, em princípio, pode-se considerar que a análise da quaestio por esta Corte implicaria indevida supressão de instância.
+Ante tais considerações, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
