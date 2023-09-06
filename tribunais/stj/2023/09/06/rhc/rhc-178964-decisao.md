@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SILVIO BENEDITO JUNIOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do HC n. 1.0000.23.034539-9/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, convertida em prisão preventiva, pela suposta pr ática do delito tipificado no art. 155 § 4º, I do Código Penal (furto qualificado), praticado em 31/1/2023.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - FURTO QUALIFICADO - REQUISITOS DA CUSTÓDIA CAUTELAR - OBSERVÂNCIA - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA - NEGATIVA DE AUTORIA - QUESTÃO DE MÉRITO DA AÇÃO PENAL DE ORIGEM - ILEGALIDADE DO FLAGRANTE - HIPÓTESE DO ART. 302, IV, DO CPP - INOCORRÊNCIA.
+1- Não se há falar em generalidade quando a decisão que decretara a prisão preventiva ventilada analisar detalhadamente as circunstâncias que cercarem o caso em foco, destacando, assim, a presença dos requisitos informadores da custódia cautelar em comento.
+2- As questões de autoria serão dirimidas na ação de origem, oportunizado o contraditório e mediante ampla dilação probatória, vez que constituem mérito da própria persecução.
+3 - Nos casos em que o paciente é localizado na posse dos objetos materiais do crime, bem como se valendo de bens os quais deixam entrever a sua participação no delito em questão, não se há falar em ilegalidade do flagrante havido, tendo em conta a subsunção à hipótese do art. 302, IV, do CPP" (fl. 76).
+No presente recurso, a defesa aponta ilegalidade na homologação da prisão pois houve irregularidades no flagrante, tendo em vista que o suposto furto ocorreu na madrugada do dia 31/1/2023, todavia o recorrente não foi preso logo após o fato.
+Destaca que o condutor descreve que não participou das diligências, não havendo necessidade da conversão da prisão em flagrante em preventiva, em virtude da ausência dos requisitos ensejadores da prisão preventiva. Mesmo assim, a autoridade coatora homologou a prisão em flagrante e converteu a mesma em preventiva na audiência de custódia.
+Aduz que tanto a fundamentação da decisão que converteu a prisão em flagrante como também a fundamentação do indeferimento do pedido de revogação da prisão preventiva é genérica.
+Alega suficiência de aplicação de medidas cautelares diversas da prisão (art. 319 do Código de Processo Penal - CPP).
+Sustenta ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP.
+Requer, assim, a expedição de alvará de soltura em favor do recorrente.
+O pedido de liminar foi indeferido às fls. 152/154, as informações devidamente prestadas às fls. 157/159 e 163/165; e o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 170/175).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente recurso, a revogação da custódia cautelar do recorrente.
+Inicialmente, quanto aos motivos para a manutenção da prisão preventiva, de acordo com andamento processual obtido na página eletrônica do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que, em 24/7/2023, foi proferida sentença condenando o recorrente pela prática do delito previsto no art. 155, § §4º, incisos I e IV, do Código Penal, às penas de 4 (quatro) anos, 11 (onze) meses e 15 (quinze) dias de reclusão e 162 (cento e sessenta e dois) dias-multa, em regime inicial fechado, negado o direito de recorrer em liberdade (Ação Penal n. 0000526-98.2023.8.13.0720).
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tomar prejudicado o writ/recurso em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do recorrente, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"No caso em questão, observo que o réu respondeu a todo o processo preso, e permanecem inalteradas até o presente momento os motivos que ensejaram a aplicação da cautelar, como garantia da ordem pública, e por haver sérios indicativos de que sua soltura do réu revela alto risco de novas práticas criminosas, conforme revela a CAC juntada ao feito. Assim, estando presentes os elementos contidos nos artigos 312 e 313, I e II, do C.P.P, NEGO ao réu o direito de recorrer em liberdade."
+Confira-se o julgado desta Corte no mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.
+(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Noutra parte, no que se refere à ilegalidade apontada pela defesa referente ao flagrante, o entendimento desta Corte Superior é no sentido de que homologado o flagrante e convertido em prisão preventiva, resta superada qualquer ilegalidade, em razão de constituir novo título judicial apto a embasar a custódia do paciente.
+Ademais, como bem destacou a Corte estadual "nos termos do art. 302, IV, do CPP, quando o indivíduo for encontrado, logo depois da ação, com objetos que façam presumir ser ele autor da infração, poderá ser decretada a prisão em flagrante, cenário este que se observa no caso em testilha, valendo ressaltar que os policiais localizaram na posse do paciente não só o automóvel o qual fora utilizado para realização do furto, como também utensílios subtraídos na oportunidade." (fl. 79).
+Assim, não há se falar em constrangimento ilegal a ser reparado.
+No mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. WRIT NÃO CONHECIDO. RECOMENDAÇÃO CNJ N. 62/2020. SUPRESSÃO DE INSTÂNCIA. NÃO REALIZAÇÃO DE EXAME DE CORPO DE DELITO. AUSÊNCIA DE EFETIVA PARTICIPAÇÃO DA DEFENSORIA PÚBLICA NA AUDIÊNCIA DE CUSTÓDIA. CONVERSÃO DO FLAGRANTE EM PREVENTIVA. INEXISTÊNCIA DE PREJUÍZO. NULIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA POPORCIONALIDADE. NÃO VERIFICAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe ao STJ manifestar-se acerca do preenchimento dos requisitos da Recomendação CNJ n. 62/2020 se não houve pronunciamento das instâncias ordinárias acerca do tema, sob pena de indevida supressão de instância.
+2. Eventual reconhecimento de ilegalidades na prisão em flagrante fica superado com a decretação da prisão preventiva.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC 594.217/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 26/04/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DE DESRESPEITO À SÚMULA VINCULANTE Nº 11/STF. FUNDAMENTAÇÃO NA ORIGEM SUFICIENTE PRISÃO. NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA NO PRAZO LEGAL. QUESTÃO SUPERADA PELA DECRETAÇÃO DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE CONSIDERÁVEL QUANTIDADE DE COCAÍNA, CRACK E MACONHA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COVID-19. RÉU NÃO INSERIDO NO GRUPO DE RISCO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado (Súmula Vinculante nº 11/STF).
+3. Na espécie, o Juízo de origem foi enfático ao afirmar que o uso de algemas tem como escopo, diante da realidade (sala de audiências muito pequena, com redução da segurança dos trabalhos), resguardar a integridade física de todas as pessoas que trabalham no ambiente, mostrando-se suficiente a fundamentação para demonstrar a necessidade de utilização do artefato.
+4. Não se ignora que a alteração promovida pela Lei nº 13.964/19 ao art. 310 do Código de Processo Penal fixou o prazo máximo de 24 horas da prisão para a realização da formalidade, sob pena de tornar a segregação ilegal. Entretanto, a nova redação do § 4º do referido artigo ressalva a possibilidade de que, constatada a ilegalidade da custódia, seja imediatamente decretada nova prisão.
+5. Assim, mostra-se superada pela superveniência de conversão da prisão em preventiva, uma vez tratar-se de novo título a amparar a custódia.
+ ..
+11. Agravo regimental desprovido.
+(AgRg no HC 590.807/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 28/09/2020).
+Ante o exposto, nos termos do art. 34, XX, c/c o art. 202 c/c o art. 246, todos do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
