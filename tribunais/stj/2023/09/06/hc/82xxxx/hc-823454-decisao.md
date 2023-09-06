@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública estadual favor de ILCKMAR RODRIGUES DOS SANTOS, MARCUS VINICIUS DA SILVA PINHEIRO, JONATHAN MESSIAS RIBEIRO DOS SANTOS E TIAGO VALADARES PEREIRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1501646-68.2020.8.26.0616.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, como incursos nas iras do art. 157, § 2º, II, e art. 157, § 2º, II, c. c. o art. 14, II, na forma do art. 71, parágrafo único, todos do Código Penal, às penas de: i) no que toca a Marcus Vinícius, Tiago Valadares, Wilckmar Rodigues, 08 (oito) anos de reclusão, em regime inicial fechado, mais o pagamento de 19 (dezenove) dias-multa; e ii) no que se refere a Jonathan Messias, 10 (dez) anos de reclusão, em regime inicial fechado, mais o pagamento de 30 (trinta) dias-multa (fl. 251).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que deu provimento aos recursos, a fim de reconhecer a majorante do emprego de arma de fogo e aplicar a redução máxima prevista pela tentativa, de modo a redimensionar as reprimendas de Wilckmar Rodrigues, Marcus Vinicius e Thiago Valadares em 10 (dez) anos de reclusão, em regime inicial fechado, mais o pagamento de 24 (vinte e quatro) dias-multa, e de Jonathan Messias em 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 27 (vinte e sete) dias-multa, consoante voto condutor do v. acórdão de fls. 253-267.
+Opostos aclaratórios, foram acolhidos para reconhecer o concurso material, motivo pelo qual redimensionou as sanções em: i) no que toca a Wilckmar Rodrigues, Marcus Vinicius e Tiago Valadares, 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, mais o pagamento de 21 (vinte e um) dias-multa); e ii) no que se refere a Jonathan Messias, 10 (dez) anos, 04 (quatro) meses e 13 (treze) dias de reclusão, mais o pagamento de 24 (vinte e quatro) dias-multa (fls. 268-271).
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois incide na espécie a figura do crime continuado próprio, e não impróprio.
+Sustenta que a lei permite a incidência do crime continuado impróprio quando foram reputadas negativas as circunstâncias judiciais, situação que não se verifica em caso.
+Aduz que a fração de aumento a ser aplicada é de 1/6 (um sexto), uma vez que foram praticados apenas 02 (dois delitos), consoante a normatividade do art. 71, caput, do Código Penal - crime continuado próprio - e a jurisprudência Pátria.
+Subsequentemente, assere ser possível a fixação do modo inicial intermediário, tendo em vista o apenamento dos pacientes no patamar inferior a 08 (oito) anos.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 233-235).
+Informações prestadas às fls. 243-277.
+O Ministério Público Federal, às fls. 281-284, manifestou-se pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Na presente impetração, a defesa busca afastar a regra da continuidade delitiva imprópria e aplicar o regramento pertinente ao crime continuado próprio, de modo que o aumento da reprimenda seja no percentual de 1/6 (um sexto).
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for n ecessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade.
+Com efeito, os pacientes foram condenados pela prática de dois crimes de roubo - um consumado e outro tentado - contra vítimas diferentes, em continuidade delitiva imprópria, parágrafo único do art. 71 do Código Penal (fls. 245-252).
+De outro lado, ao analisar o ato apontado como coator, não verifico a existência de discussão quanto à incidência continuidade delitiva própria - caput do art. 71 do Código Penal -, em vez do crime continuado impróprio - parágrafo único do mesmo diploma legal.
+Nessa senda, a tese defensiva de ser aplicável o comando normativo do caput do art. 71 do Código Penal, sob o pálio de que as circunstâncias judiciais terem sido consideradas favoráveis, não foi objeto de análise da Corte originária.
+Saliente-se que a menção feita no acórdão impugnado sobre a continuidade delitiva não cotejou a situação fático-jurídico dos pacientes com a tese jurídica suscitada na exordial.
+Desta feita, não é possível que esta Corte especial avalie a pertinência, ou não, da irresignação, sem que isso implique transpor a competência cognitiva da instância a quo e, em última análise, incorrer em verticalização indevida da prova.
+Portanto, o exame da tese exposta na exordial - necessidade de aplicação da continuidade delitiva própria, com aumento da sanção em 1/6 (um sexto), haja vista a fixação das circunstâncias judiciais favoráveis -, além de ensejar supressão de instância, demanda reexame de provas, o que não é compatível com o habeas corpus. A propósito: AgRg no HC n. 799.522/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/5/2023.
+Assim, mantido o quantum de pena aplicado resta prejudicado o pedido de abrandamento de regime, haja vista a normatividade do art. 33, § 2º, "a", do Código Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
