@@ -1,0 +1,14 @@
+DECISÃO
+YVIS AUGUSTO PEREIRA, condenado por lesão corporal, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pela Turma Recursal de São José do Rio Preto - SP, que negou provimento ao recurso de apelação e, com isso, manteve o regime semiaberto para o cumprimento de pena, o qual pretende seja modificado.
+Entretanto, observo que a esta Corte falece competência para a análise do pedido, visto que o acórdão foi proferido por Turma C riminal de Colégio Recursal, a qual não se encontra abarcada pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. No particular, merece o registro que o STF, sobre o tema, já decidiu o seguinte:
+ ..  ressalto que a Súmula 690/STF não mais prevalece a partir do julgamento pelo Pleno do HC 86834/SP, relatado pelo Rel. Ministro Marco Aurélio (DJ em 9.3.2007), no qual foi consolidado o entendimento de que compete ao Tribunal de Justiça ou ao Tribunal Regional Federal, conforme o caso, julgar habeas corpus impetrado contra ato praticado por integrantes de Turmas Recursais de Juizado Especial.
+(ARE 676.275 AgR, Rel. Ministro Gilmar Mendes, 2ª T, , DJe de 1º/8/2012)
+Nesse sentido também é a pacífica orientação desta Corte: " a s Turmas Recursais de Juizados Especiais não se qualificam como "Tribunal", não estando, assim, abrangidas pela previsão contida no art. 105, I, "c", da Constituição Federal, o que impede a inauguração da competência do Superior Tribunal de Justiça para apreciar habeas corpus impetrado contra suas decisões" (HC n. 223.550/SP, Rel. Ministro Marco Aurélio Bellizze, DJe 10/05/2012).
+E ainda:
+1. Não é possível conhecer do mérito da presente impetração.
+Conforme verificado, trata-se de mandamus impetrado contra decisão proferida por Juízes de Direito que compõem a Turma Recursal Cível e Criminal do Colégio Recursal de Jaboticabal/SP. Como é cediço, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ. 2. Conforme entendimento há muito sedimentado pelo Supremo Tribunal Federal, o habeas corpus contra as decisões de turmas recursais deve ser impetrado perante o Tribunal de Justiça, uma vez que os Juízes que compõem as Turmas Recursais estão subordinados ao respectivo Tribunal. Assim, apenas após o exame da alegada ilegalidade pelo respectivo Tribunal de origem, é que se tornará possível o manejo de mandamus perante esta Corte.
+3. Agravo regimental improvido. (AgRg no HC n. 421.161/SP, Rel. Ministro Reynaldo Soares da Fonseca, DJe 13/11/2017)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
