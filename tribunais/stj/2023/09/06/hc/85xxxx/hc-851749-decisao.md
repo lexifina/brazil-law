@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de BRUNO ALYSON LEITE DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 10 meses de reclusão, em regime fechado, mais pagamento de 593 dias-multa, como incurso nos arts. 33, caput, c.c o 40, VI, da Lei n. 11.343/2006 e 180, caput, do Código Penal.
+Em sede recursal, o Tribunal de origem deu provimento ao apelo defensivo para fixar o regime semiaberto.
+Neste habeas corpus, alega o impetrante que a quantidade e natureza dos entorpecentes apreendidos não constituem elementos idôneos para afastar o redutor do tráfico privilegiado, sobretudo por ser o paciente primário, de bons antecedentes, não haver comprovação da habitualidade delitiva nem do envolvimento com grupo criminoso.
+Requer, assim, a incidência da minorante do art. 33, § 4º, da Lei de Drogas na fração máxima, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem manteve o redutor do tráfico privilegiado afastado com base nos seguintes fundamentos:
+"Na terceira fase, majorou-se, com acerto, a reprimenda em 1/6, em razão de ter sido o crime praticado em concurso com o adolescente W. de O. da S., nos termos do artigo 40, inciso VI da Lei 11.343/06.
+Ademais, não se computou a causa de diminuição de pena prevista no § 4º do artigo 33 da Lei de Drogas "em razão da quantidade e variedade da droga apreendida, bem como pelos apetrechos apreendidos no local dos fatos, o que demonstram que o réu se dedica à atividade criminosa (fl. 234)" Acertada a decisão do d. Magistrado, já que para efeito de aplicação da referida minorante, o condenado deve preencher, cumulativamente, os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a pena ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+ ..
+Conforme se depreende das provas dos autos, o réu mantinha em depósito para posterior entrega a terceiros quantidade exorbitante de entorpecentes, consistentes em 02 grandes porções de cocaína, com peso líquido de 548,9g, 68 porções de cocaína com peso líquido de 39,7g, e um tijolo de crack, com peso líquido de 903,8g.
+Não bastasse, foram apreendidos, junto dos entorpecentes, invólucros para armazenamento de drogas, 08 balanças de precisão, e facas para corte e separação de substâncias, todos esses classificados como petrechos tipicamente encontrados em refinarias de entorpecentes.
+Sendo assim, embora o réu seja primário e com bons antecedentes, as circunstâncias concretas do crime, como quantidade de drogas apreendidas e modus operandi, especialmente a estruturação do local de apreensão típica de uma refinaria de entorpecentes, bem como a declaração do adolescente de que havia sido contratado pelo réu para embalar as drogas, revelam sua dedicação à atividade criminosa.
+A minorante do tráfico privilegiado, que tem por finalidade beneficiar o pequeno traficante, ainda não envolvido em maior profundidade com o mundo criminoso, não pode ser aplicada ao réu, pelas razões acima expostas. Nesse contexto, conferir ao réu o mesmo benefício que se costuma conceder a outros agentes condenados por tráfico de pequenas porções de drogas caracterizaria flagrante ofensa ao princípio da proporcionalidade.
+ ..
+Assim, a pena definitiva do tráfico deve permanecer em 05 anos e 10 meses de reclusão e 583 dias-multa" (e-STJ, fls. 45-48)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na hipótese, o Tribunal a quo manteve afastado o redutor por entender que as circunstâncias do delito e as provas colhidas em juízo denotam a habitualidade delitiva do paciente no tráfico de drogas, pois, além 2 porções grandes de cocaína (548,9g), outras 68 porções da mesma substância (39,7g) e 1 tijolo de crack (903,8g), foram apreendidos invólucros para armazenar as drogas, 8 balanças de precisão e facas para corte e separação das substâncias.
+Portanto, assentado pelas instâncias ordinárias, soberanas na análise dos fatos, que o paciente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. ELEVADA QUANTIDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+1. Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Este Superior Tribunal tem decidido que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1052340/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2017, DJe 11/5/2017);
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. INTERROGATÓRIO. INÍCIO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PROCEDIMENTO ESPECIAL DA LEI N. 11.343/2006. ILEGALIDADE. AUSÊNCIA. PENA-BASE. REDUÇÃO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROVIDÊNCIAS INÓCUAS. SÚMULA N. 231/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS.
+AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Estabelecida a sanção em patamar superior a 4 anos e não excedente a 8 anos de reclusão, o modo inicial semiaberto é o adequado para o início do cumprimento da pena reclusiva, sendo incabível a substituição da pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33, § 2º, "b", e 44, I, do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
