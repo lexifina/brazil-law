@@ -1,0 +1,22 @@
+DECISÃO
+MOACIR SANTOS CASAGRANDE DA SILVA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 9000132-30.2023.8.26.0637.
+O impetrante pretende seja concedida ao paciente a progressão ao regime aberto, ao argumento de que não teria sido apresentada fundamentação idônea para a negativa do benefício.
+A liminar foi indeferida.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem, consoante parecer assim ementado (fl. 90):
+Habeas Corpus substitutivo de recurso próprio. Execução penal.
+- Progressão de regime. Determinação de feitura de exame criminológico. Ausência de fundamentação idônea. Constrangimento ilegal constatado na espécie.
+- Promoção pelo não conhecimento do writ, mas pela concessão da ordem, nos termos deste parecer.
+Decido.
+Infere-se dos autos que o Tribunal estadual cassou a progressão de regime outrora deferida ao apenado, nos termos seguintes (fls. 78-83, destaquei):
+In casu, verificam-se motivos concretos e idôneos à negativa da benesse, alguns dos quais, incidentais à própria execução penal (a obstar qualquer alegação de "bis in idem" ou de incremento sancionatório pautado exclusivamente no crime pelo qual o reeducando foi condenado).
+No caso concreto, tem-se que o sentenciado, reincidente, foi condenado pela prática de crimes graves, a saber: tráfico de drogas (crime equiparado a hediondo) e associação para o tráfico, com longa pena a cumprir e término previsto para 18/12/2028 (fls. 05/09), a demonstrar personalidade voltada para o crime e desajustada ao convivio social, necessitando, assim, de maior assimilação da terapêutica penal. Possui, também, histórico prisional conturbado, haja vista ostentar o registro de uma falta disciplinar de natureza grave consistente em subversão à ordem e disciplina (fls. 07).
+Isso tudo, ao menos por ora, reclama especial cautela na concessão da ampla benesse em questão, certo que as particularidades do caso justificam a realização do exame criminológico.
+ ..
+Assim, em atenção às circunstâncias do caso concreto, de rigor a realização de prévio exame criminológico, para fins de apreciação do pedido de progressão de regime prisional, em conformidade com os entendimentos doutrinário e jurisprudencial acima mencionados.
+Constata-se, assim, que o Tribunal a quo indeferiu o benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, pois o sentenciado cometeu crimes graves e possui longa pena a cumprir. Esses fundamentos, contudo, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+A esse respeito, não olvido que a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+Entretanto, a permanência do apenado em regime semiaberto, já havendo atingindo o lapso para progressão ao semiaberto, demonstra-se desarrazoada, a macular as pedras de toque da execução penal - a saber, a legalidade e a individualização da pena - encartadas no texto constitucional em seu artigo 5º, incisos II e XLVI, respectivamente.
+Ainda que apontada a existência de falta disciplinar, é imperioso consignar que a infração é longeva. Com efeito, a única falta grave praticada data de 13/9/2017; ou seja, foi cometida há mais 3 anos - período superior, inclusive, ao próprio prazo prescricional para apuração da conduta - de modo que não guarda contemporaneidade com a avaliação hodierna do requisito subjetivo, assim como ressaltado no precedente acima.
+À vista do exposto, conce do o habeas corpus para determinar a imediata inclusão do apenado no regime aberto.
+Publique-se e intimem-se.
+EMENTA
