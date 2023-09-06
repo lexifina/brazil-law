@@ -1,0 +1,34 @@
+DECISÃO
+LUCIANO PINHEIRO KOCH interpõe recurso especial com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 70084693100.
+Consta dos autos que o recorrido foi condenado a 6 anos e 5 meses de reclusão, em regime semiaberto, mais multa, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 180 do Código Penal.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 33, § 4º, da Lei n. 11.343/2006 e 33, § 2º, "b", e § 3º, do Código Penal, por entender ser de rigor o reconhecimento do privilégio no tráfico, a adequação do regime de cumprimento da pena e a substituição da pena privativa de liberdade por restritivas de direitos.
+Contrarrazões às fls. 1.673-1.678 e decisão de admissibilidade às fls. 1.720-1.770.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+I. A minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Sobre a incidência do privilégio no tráfico de drogas, o Juiz sentenciante afastou seu reconhecimento consoante fundamentos a seguir transcritos (fl. 1.018, destaquei):
+Inviável o reconhecimento da causa especial de redução de pena prevista no art. 33, § 4 2 , da Lei n 2 11.343/06, diante da expressiva quantidade e variedade de entorpecentes apreendidos, o que evidencia que ela se dedica as atividades criminosas.
+A decisão foi mantida em apelação, conforme abaixo aduzido (fls. 1.460-1.461, grifei):
+Da mesma forma, vai mantida a decisão no tocante ao pedido de incidência da minorante do art.33, §4º da Lei de Drogas, tendo em vista que as circunstâncias do caso em tela não autorizam sua concessão, uma vez que, ainda que não tenha sido comprovada a associação criminosa, foi possível constatar uma dedicação dos acusados ao mundo do tráfico, sem olvidar o histórico criminal do réu Hamilton, possuidor de mais de uma sentença condenatória transitada em julgado após o fato em tela, observada a considerável quantidade de droga apreendida no local.
+Apenas para não pairar dúvidas, mantenho a sanção basilar dos acusados Luciano e Luciele, por entender que a exasperação promovida na origem, apesar de ser abaixo dos parâmetros estabelecidos normalmente em meus julgados, se mostra adequada ao caso em tela, devendo esta ser mantida, para ambos, em 05 anos e 05 meses.
+No caso, conforme visto, o Tribunal de origem considerou indevida a aplicação do redutor com fundamento na apreensão de considerável quantidade de droga. Tal circunstância levou a Corte de origem à conclusão de que o réu dedicar-se-ia a atividades criminosas, especialmente ao narcotráfico.
+Contudo, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidade da droga apreendida foi sopesada para, isoladamente, levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciada a violação legal.
+Ante a ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve o recurso ser provido nesse ponto, a fim de aplicar, em favor do acusado, o referido benefício.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Assim, deve ser o recurso provido, a fim de aplicar a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar de 1/6. Ressalto que estou fixando a redução mínima prevista em lei em razão da apreensão, em conjunto com as drogas, de 1 balança de precisão, 1 caderno de anotações, 1 rádio comunicador, 2 coletes balísticos.
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via recursal. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Nova dosimetria
+Realizo, portanto, nova dosimetria.
+Na primeira fase, a reprimenda-base foi estabelecida em 5 anos e 5 meses de reclusão e 550 dias-multa. Na segunda fase, ausentes agravantes e atenuantes. Na terceira etapa, ausentes causas de aumento, reduzo a reprimenda em 1/6, em decorrência da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas, o que torna a pena do acusado definitivamente estabelecida em 4 anos, 6 meses e 5 dias de reclusão e pagamento de 458 dias-multa.
+Considerado o concurso material, as penas somadas perfazem 5 anos, 6 meses e 5 dias de reclusão e 468 dias-multa.
+III . Dispositivo
+À vista do exposto, dou parcial provimento ao recurso, a fim de reconhecer a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6. Redimensiono, assi m, e a reprimenda do réu para 5 anos, 6 meses e 5 dias de reclusão e 468 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Em tempo, corrija-se a autuação para fazer constar o nome do recorrente por extenso, tendo em vista que, na espécie, não há motivo legal para a ocultação da sua identidade.
+Publique-se e intimem-se.
+EMENTA
