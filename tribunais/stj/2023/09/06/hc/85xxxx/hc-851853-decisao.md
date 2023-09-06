@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GILSON FERREIRA DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Consta dos autos que o paciente foi condenado à pena de 22 anos e 2 meses de reclusão, em regime fechado, mais pagamento de 1.449 dias-multa, como incurso nos artigos 2º, §º 3º, da Lei 12.850/13, 33, caput, c/c 40, V, e 33, caput, da Lei 11.343/06, do CP, em concurso material (art. 69 do CP)
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Nesta Corte, o impetrante alega cerceamento de defesa uma vez que não foi disponibilizado à parte o acesso as mídias das interceptações telefônicas que embasaram a condenação.
+Pontua que, embora se afirme "que o acesso às mídias fora concedido pelo Magistrado, a efetiva entrega das mídias nunca ocorreu, bem como não há nos autos qualquer registrado ou certidão do cartório para corroborar com as argumentações da acusação."
+Requer a nulidade da condenação.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+No habeas corpus originário, o Desembargador Relator afastou a tese de cerceamento de defesa nos seguintes termos:
+Tem-se, assim, que a impetração pretende, em suma, a reapreciaçãoda alegada nulidade decorrente de suposto cerceamento de defesa pelo não acesso ao conteúdo de escutas telefônicas (mídias).
+A ordem, contudo, deve ser denegada por duas razões: uma porque a matéria, como visto, já foi julgada e transitou em julgado, desafiando, assim, recurso próprio. Depois, porque, segundo se depreende das informações prestadas, o Juízo apontado como coator (f. 510/512) esclarece que foi deferido ao paciente o acesso aos autos 0000833-43.2016.8.12.0003, no qual consta a interceptação telefônica e que, em 20/11/2022, foi determinado ao cartório que providenciasse outro meio para o acesso pretendido, diante da alegação de que os CDs extraídos anteriormente estariam corrompidos.
+Não há notícias se o paciente já colheu os dados disponibilizados. Outrossim, é de salutar importância ressaltar que o Habeas Corpus configura ação de natureza constitucional, cujo objetivo é sanar coação ou ameaça ao direito de locomoção, restringindo-se às hipóteses de ilegalidade evidente e incontroversa, relativas a matéria de direito, cuja constatação não dependa de qualquer análise probatória.
+No acórdão que julgou a apelação defensiva, já em 2018, o Tribunal de origem assentou que foi dado o acesso integral dos autos às defesas.
+Da preliminar de nulidade. Cerceamento de defesa. Gilson e Rodrigo, também em sede de preliminar, pretendem a nulidade de toda a instrução criminal, por cerceamento de defesa, por falta de acesso ao inteiro teor das interceptações telefônicas e demais documentos referentes à busca e apreensão (autos nº 0000833-43.2016.8.12.0003 e nº 0000841-20.2016.8.12.0003), queacabaram por servir como fundamento ao oferecimento da denúncia. Os recorrentes alegam que, ante a falta de transcrição dasinterceptações, a sentença está fundamentada apenas em trechos isolados das conversas,que nada de concreto provam. Ademais, por constar da denúncia trechos da interceptação telefônica, alegam que seria necessária a elaboração de laudo pericial, o que não consta destes autos.
+Logo, não se identifica de imediato o vício absoluto apontado pela defesa. Ao contrário, para se chegar a conclusão diversa, no sentindo de desconstituir as afirmações feitas pelas instâncias ordinárias seria necessário o revolvimento do material fático probatório, providência inadmissível na via eleita.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
