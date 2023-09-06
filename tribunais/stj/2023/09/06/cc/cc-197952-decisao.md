@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DA 11ª VARA CRIMINAL DA COMARCA DE BELO HORIZONTE - MG E O JUÍZO DA 4ª VARA CRIMINAL DA COMARCA DE GUARULHOS - SP.
+Consta dos autos que foi ofertada queixa-crime pelos crimes de calúnia, difamação e injúria, sob a alegação de que, em novembro de 2021, o querelado teria enviado e-mails e mensagens de whatsapp para terceiros contendo diversas fotos, escritos e referências depreciativas e danosas à honra objetiva e subjetiva do querelante.
+O Juízo suscitado declarou-se incompetente por entender que a competência para processar e julgar o feito é o do Juízo de Belo Horizonte, "local em que a vítima tomou plena ciência das ofensas e, principalmente, da autoria" (e-STJ fl. 1.137).
+O Juízo suscitante, por sua vez, declarou-se igualmente incompetente e suscitou o presente conflito de competência por entender que, "como a infração mais grave (calúnia) é plurilocal e o local de maior número de infrações é indefinido (terceiros indeterminados), a competência deve ser firmada pelo critério da prevenção (art. 78, II, "c", CPP)" (e-STJ fl. 1.335). E, tendo os autos sido distribuídos ao Juízo de Guarulhos/SP, esse seria prevento e, portanto, competente para o processamento e julgamento da queixa-crime.
+O Ministério Público Federal opinou pela competência do Juízo suscitante, onde a vítima tomou conhecimento das ofensas proferidas e também o lugar em que ocorreu o maior número de infrações (e-STJ fls. 1.348/1.352).
+É, em síntese, o relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+A competência no processo penal, de regra, é estabelecida ratione loci, ou seja, em razão do local em que se consuma a infração penal ou, no caso de tentativa, onde se realizar o último ato de execução, nos termos do disposto no art. 70 do Código de Processo Penal.
+In casu, ao que se tem dos autos, as mensagens de conteúdo ofensivo foram enviadas por meio do aplicativo eletrônico whatsapp para terceiros que residem em Belo Horizonte/MG, Vila Velha/ES e Brasília/DF. Por sua vez, a vítima tomou conhecimento da ofensa em Belo Horizonte/MG.
+Os crimes de injúria, calúnia e difamação consumam-se, respectivamente, no momento em que vítima e terceiros tomam conhecimento das ofensas proferidas. A propósito, cita-se: NUCCI, Guilherme de Souza. Código Penal Comentado. 14. ed. rev., atual. e ampl. Rio de Janeiro: Forense, 2014, p. 748 e 753.
+Registre-se que não se aplica, ao presente caso, o entendimento desta Corte de que, no caso de delitos contra a honra praticados por meio da internet, o local da consumação do delito é aquele onde incluído o conteúdo ofensivo na rede mundial de computadores, uma vez que, embora a rede mundial de computadores tenha sido utilizada para o envio das mensagens eletrônicas, a conversa não ficou acessível a outros usuários, tendo ficado restrita ao âmbito privado. A propósito, cita-se o seguinte julgado:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. INJÚRIA. INTERNET. UTILIZAÇÃO DO INSTAGRAM DIRECT. CARÁTER PRIVADO DAS MENSAGENS. INDISPONIBILIDADE PARA ACESSO DE TERCEIROS. CONSUMAÇÃO. LOCAL EM QUE A VÍTIMA TOMOU CIÊNCIA DAS OFENSAS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que no caso de delitos contra a honra praticados por meio da internet, o local da consumação do delito é aquele onde incluído o conteúdo ofensivo na rede mundial de computadores. Contudo, tal entendimento diz respeito aos casos em que a publicação é possível de ser visualizada por terceiros, indistintamente, a partir do momento em que veiculada por seu autor.
+2. No caso dos autos, embora tenha sido utilizada a internet para a suposta prática do crime de injúria, o envio da mensagem de áudio com o conteúdo ofensivo à Vítima ocorreu por meio de aplicativo de troca de mensagens entre usuários em caráter privado, denominado "instagram direct", no qual somente o autor e o destinatário têm acesso ao seu conteúdo, não sendo para visualização por terceiros, após a sua inserção na rede de computadores.
+3. Aplicação do entendimento geral de que o crime de injúria se consuma no local onde a Vítima tomou conhecimento do conteúdo ofensivo, o que, na situação dos autos, ocorreu em Brasília/DF.
+4. Conflito conhecido para declarar competente o Juízo Federal da 12.ª Vara do Juizado Especial Criminal de Brasília - SJ/DF, o Suscitado.
+(CC n. 184.269/PB, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/2/2022, DJe de 15/2/2022.)
+Os Juízos envolvidos no presente conflito não discordam quanto à presença de elementos aptos a caracterizar a conexão subjetiva, objetiva e probatória das condutas investigadas, nos termos do citado art. 76, I, II e III, do CPP.
+Diante disso, incide, no caso, o disposto no art. 78, II, do Código Processual Penal, que determina a seguinte regra para a fixação da competência:
+Il - no concurso de jurisdições da mesma categoria:
+a) preponderará a do lugar da infração, à qual for cominada a pena mais grave;
+b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade;
+c) firmar-se-á a competência pela prevenção, nos outros casos;
+O delito que possui a pena mais grave, no caso, calúnia, teria sido consumado em locais distintos, quais sejam, em Belo Horizonte/MG, Vila Velha/ES e Brasília/DF. Por sua vez, conforme consignado pelo Juízo suscitante, "o local de maior número de infrações é indefinido (terceiros indeterminados)" (e-STJ fl. 1.337).
+Assim, incide o disposto no art. 78, inciso II, c, do Código Processual Penal, que determina que a competência deve ser firmada pelo critério da prevenção, no caso, na Comarca de Guarulhos/SP.
+Ante o exposto, conheço do conflito para declarar competente o Juízo suscitado (JUÍZO DA 4ª VARA CRIMINAL DA COMARCA DE GUARULHOS - SP).
+Publique-se. Comunique-se.
+EMENTA
