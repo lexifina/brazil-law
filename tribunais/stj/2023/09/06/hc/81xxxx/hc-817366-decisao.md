@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Alexandre Carlos dos Santos, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo em Execução Pen al n. 4003989-91.2022.8.16.4321.
+Consta dos autos que o Juízo de Direito da Vara de Execução deferiu ao apenado a harmonização do regime semiaberto, com base no Decreto Estadual n. 12.015/2014.
+Inconformado, o Ministério Público interpôs agravo em execução, que restou assim ementado:
+"AGRAVO EM EXECUÇÃO - INSURGÊNCIA MINISTERIAL - DECISÃO QUE CONCEDEU O REGIME SEMIABERTO HARMONIZADO AO RECORRIDO, COM FUNDAMENTO NO DECRETO ESTADUAL 12.015/2014 - NECESSIDADE DE REFORMA DO DECISUM - NÃO PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO REFERIDO DIPLOMA NORMATIVO - PROGRESSÃO AO REGIME ABERTO PREVISTA SOMENTE PARA 04/07/2029 - AUSÊNCIA DE PROXIMIDADE DO REQUISITO OBJETIVO - APENADO QUE CUMPRE PENA POR CRIMES COMETIDOS MEDIANTE VIOLÊNCIA E GRAVE AMEAÇA À PESSOA -REEDUCANDO QUE NÃO É IDOSO, DEFICIENTE OU PORTADOR DE DOENÇA GRAVE - AGRAVADO QUE PERMANECEU FORAGIDO DO "CPAI" ENTRE AGOSTO DE 2021 E MARÇO DE 2022, EVIDENCIANDO AUSÊNCIA DE BOM COMPORTAMENTO CARCERÁRIO - RECURSO CONHECIDO E PROVIDO, DETERMINANDO O RETORNO DO REEDUCANDO AO REGIME SEMIABERTO, COM COMUNICAÇÃO AO MAGISTRADO." (fl. 18)
+Na presente impetração, a defesa alega que a jurisprudência desta Corte é favorável ao paciente, pois autoriza o cumprimento da pena em regime mais brando quando não houver vaga no regime fixado.
+Busca a manutenção do paciente no regime semiaberto harmonizado.
+Indeferido o pedido liminar às fls. 57/58.
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer de fls. 63/67.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O acordão impugnado assentou:
+"Não é razoável nem proporcional que um indivíduo, condenado a mais de 42 (quarenta e dois) anos de reclusão, pela prática de crimes graves e violentos (roubo e latrocínio), seja agraciado com a harmonização de regime, considerando que não preenche nenhum dos requisitos estabelecidos no Decreto:
+a) para o preenchimento do requisito objetivo para progressão ainda faltam aproximadamente 06 (seis) anos e 06 (seis) meses.
+b) o apenado não ostenta bom comportamento carcerário, inclusive no dia 20/08/2021 foi considerado evadido por não ter retornado de seu beneficio de saída temporária. No dia 30/03/2022, o apenado foi recapturado, ou seja, permaneceu mais de 07 (sete) meses foragido.
+c) o reeducando está devidamente implantado no regime semiaberto.
+d) o agravado não é idoso, deficiente ou portador de doença grave.
+e) os crimes pelos quais cumpre pena foram praticados, em sua maioria, mediante violência e grave ameaça à pessoa (roubo e latrocínio).
+Assim, considerando que não foram preenchidos os requisitos delineados no Decreto Estadual n. 12.015/2014, voto no sentido de conhecer e dar provimento ao recurso ministerial, determinando o retorno do apenado ao regime semiaberto, com comunicação ao Juiz." (fls. 24/26)
+A jurisprudência do Superior Tribunal de Justiça é pacifica em afirmar que para além dos casos previstos na Lei de Execução Penal, quando não há vaga em estabelecimento prisional específico ou adequado ao cumprimento no regime semiaberto, de modo atípico, deve-se estatuir o cumprimento da pena em regime semiaberto harmonizado.
+Vale salientar que a prisão domiciliar com o monitoramento eletrônico se trata de uma benesse característica do regime aberto, sendo concedida em caráter de excepcionalidade quando não houver local adequado ao cumprimento da sanção penal em regime prisional semiaberto frente à impossibilidade do condenado ser prejudicado pela inércia do Estado em propiciar o cumprimento da reprimenda em estabelecimento adequado ao regime imposto.
+Não se trata de um direito automático do apenado quando as unidades prisionais não forem adequadas, tampouco de medida que poderá ser concedida a qualquer um que cumpra pena em regime semiaberto, devendo ser observados requisitos autorizadores para a concessão de tal excepcionalidade.
+O Juiz deve levar em conta vários fatores, entres eles, o tempo que ainda falta para a progressão ao regime aberto, a gravidade do crime cometido e o comportamento do apenado durante o tempo que está recluso, além de priorizar aqueles que já estejam mais próximos de evoluir ao regime aberto.
+No caso em apreço, ao indeferir o pedido, o acordão fundamentou de forma idônea que o paciente não está apto a permanecer no regime harmonizado, levando em conta não só o requisito objetivo, pois ainda resta período considerável até o alcance do lapso temporal necessário para ingresso no regime aberto (6 anos e 6 meses), mas também o requisito subjetivo, uma vez que o apenado não ostenta bom comportamento carcerário, tendo inclusive permanecido foragido por 7 meses, quando agraciado com a saída temporária.
+Desta feita, o deferimento do benefício da prisão domiciliar sob monitoramento eletrônico, com data bem anterior à prevista para o ora agravado progredir para o regime aberto, sem que estejam presentes os requisitos justificadores da excepcionalidade da medida, viola a equidade, na medida em que há outros presos aguardando a benesse já cumprindo pena no regime semiaberto há mais tempo. Vejam-se os precedentes nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. ALEGADA AUSÊNCIA DE VAGAS NO ESTABELECIMENTO PENAL ADEQUADO. CONCESSÃO DE REGIME ABERTO. INVIABILIDADE. FALTA DE OBSERVÂNCIA AOS PARÂMETROS TRAÇADOS NO RE N. 641.320/RS E NO RESP N. 1.710.674/MG. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O tema versado neste habeas corpus foi submetido, pela Terceira Seção desta Corte Superior, à sistemática dos recursos especiais repetitivos - "Tema 993: (Im)possibilidade de concessão da prisão domiciliar, como primeira opção, sem prévia observância dos parâmetros traçados no RE 641.320/RS".
+2. Em outras palavras, foi firmado o entendimento de que a inexistência de vaga em estabelecimento prisional adequado não autoriza a imediata colocação do apenado em prisão domiciliar, sendo imprescindível que tal medida seja precedida de outras providências, tais como a saída antecipada de outros sentenciados no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de ingressar no regime.
+3. No caso em exame, o Agravante está em unidade prisional compatível com o regime intermediário e usufruindo de saídas temporárias, motivo pelo qual não se evidencia o constrangimento ilegal apontado pela Defesa, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+4. Agravo desprovido.
+(AgRg no HC n. 792.765/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA VINCULANTE Nº 56/STF. FALTA DE VAGAS NO ESTABELECIMENTO PRISIONAL. CONCESSÃO DE PRISÃO DOMICILIAR. NECESSIDADE DE OBSERVÂNCIA DOS PARÂMETROS DESCRITOS NO RE 641.320/RS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A falta de vagas em estabelecimento prisional não autoriza a manutenção do preso em regime mais gravoso, devendo-se observar, nessa hipótese, os parâmetros do RE 641.320/RS" (Súmula Vinculante n. 56 do STF).
+2. Segundo apurado pelas instâncias ordinárias, soberanas na análise dos elementos fáticos e probatórios dos autos, não se observa, na espécie, situação excepcional que justifique a concessão da prisão domiciliar, inexistindo, portanto, ilegalidade no acórdão a ser sanada.
+3. Para verificar se as instalações da Casa de Prisão Provisória de Paraíso do Tocantins são ou não inadequadas para os condenados do regime semiaberto, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do recurso especial, nos termos do que dispõe a Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.954.963/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
