@@ -1,0 +1,28 @@
+DECISÃO
+Na origem trata-se de ação ordinária referente à prestação de serviços à municipalidade. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 175.823,49 (Cento e setenta e cinco mil, oitocentos e vinte e três reais e quarenta e nove centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA CONTRATO VERBAL DE PRESTAÇÃO DE SERVIÇOS - PROVA TESTEMUNHAL CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - ÔNUS DA PROVA - AUTOR FATOS CONSTITUTIVOS DO DIREITO ALEGADO NÃO COMPROVADOS RECURSO DESPROVIDO.
+1. No atual Código de Ritos (CPC/15), não se admite mais a prova exclusivamente testemunhal, pois, de acordo o art. 444, esta é admissível quando já houver início de prova escrita.
+2. Caráter subsidiário e complementar da prova testemunhal ao conjunto probatório.
+3. Nesse contexto, a prova testemunhal pretendida pelo Apelante é desnecessária para o deslinde da causa, uma vez que o Recorrente pretende demonstrar a existência do contrato, de forma exclusivamente testemunhal.
+4. Logo, não há falar em cerceamento de defesa.
+5. Não havendo a comprovação, pelo autor, acerca da existência de realização contratual, a improcedência do pedido é medida que se impõe, haja vista que é ônus seu o dever de provar tal prestação de serviço por tratar-se de fato constitutivo de seu direito, a teor do que dispõe o art. 373, I, do CPC.
+6. Recurso de Apelação Desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O ponto central do presente recurso é saber se o Apelado está inadimplente com o Apelante referente a 3 (três) contratos verbais de prestação de serviços.
+(..)
+Nesse norte, a prova testemunhal é de caráter subsidiária e complementar ao conjunto probatório.
+No caso em apreço, não qualquer indício, ainda que mínimo, de prova das relações contratuais descritas na exordial.
+(..)
+Assim, a apresentação de orçamentos não demonstra o efetivo entabulamento contratual ou ainda a própria execução do objeto contratado.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 11, 442 e 445 do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
