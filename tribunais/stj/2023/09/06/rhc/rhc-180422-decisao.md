@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de MICAEL MOREIRA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, pela suposta prática do delito de tráfico de drogas, pois foi apreendido em seu poder 100 gramas de maconha. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem que concluiu que a prisão se encontrava devidamente justificada:
+"presente o risco concreto de reiteração delitiva, vez que responde por outros delitos (porte de arma, homicídio, tráfico e outros), e está em cumprimento de pena, conforme nos autos da Execução nº 0296721-08.2016.8.09.0175 (SEEU), tendo sido progredido para o semiaberto em 11/10/2022" (fl. 86).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a prisão cautelar mantida em desfavor do Recorrente. Argumenta a existência de ilegalidade, pois fora apreendido com o Recorrente a quantia ínfima de 100 g (cem gramas) de Maconha.
+Requer a revogação da prisão preventiva do Recorrente e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 161-162.
+Informações prestadas, às fls. 167-170. O Ministério Público Federal, às fls. 174-181, opinou pelo não provimento do recurso, em parecer ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PRESO QUANDO EM CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- A prisão preventiva é medida cautelar de constrição da liberdade do indivíduo por razões de necessidade e adequação, com esteio na existência do fumus comissi delicti e do periculum libertatis, respeitados os requisitos e os pressupostos estabelecidos nos arts. 312 e 313 do Código de Processo Penal.
+- Verifica-se do acórdão objurgado que o Tribunal de origem considerou a necessidade de garantia da ordem pública, notadamente diante da gravidade concreta do crime (apreensão de 100g de maconha), bem como para evitar a reiteração delitiva, tendo em vista que o recorrente responde por outros delitos (porte de arma, homicídio, tráfico e outros), e está em cumprimento de pena, conforme os autos da Execução nº 0296721-08.2016.8.09.0175 (SEEU), tendo sido progredido para o semiaberto em 11/10/2022, revelando, assim, a habitualidade do recorrente na vida delitiva.
+- Condições pessoais favoráveis não têm o condão de, por si sós, revogarem a prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da medida extrema.
+- Parecer pelo não provimento do recurso ordinário em habeas corpus" (fls. 174-175).
+É o relatório. DECIDO.
+Pretende o Recorrente a revogação da prisão cautelar.
+In casu, a prisão preventiva do Recorrente se encontra fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerado o receio de reiteração criminosa, pois ele responde por outros crimes, a exemplo de porte de arma, homicídio e tráfico, bem como que se encontra em cumprimento de pena, execução nº 0296721-08.2016.8.09.0175 (SEEU), vindo a progredir para o regime semiaberto, em 11/10/2022; circunstâncias que evidenciam um maior desfavor da conduta e a periculosidade do ora Recorrente, justificando a segregação cautelar imposta.
+Conforme a jurisprudência desta Corte, o receio de reiteração criminosa justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 724.320/BA, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 2/12/2022; AgRg no HC n. 650.721/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/4/2021; HC n. 519.609/RS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/10/2019 e HC n. 477.001/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/12/2018 .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. I.
+EMENTA
