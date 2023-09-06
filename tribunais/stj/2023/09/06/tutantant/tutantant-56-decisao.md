@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência formulado por WALTER GOMES FERNANDES - ESPÓLIO com vistas à atribuição de efeito suspensivo a recurso especial ainda pendente do prévio juízo de admissibilidade, no qual se discute a caracterização de bem da família.
+O acórdão recorrido traz a seguinte ementa (fls. 17-18):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPENHORABILIDADE DO BEM DE FAMÍLIA - INDEFERIMENTO PELO JUÍZO A QUO - MANUTENÇÃO DA DECISÃO APÓS NÃO ACOLHIMENTO DE PEDIDO DE RECONSIDERAÇÃO - AUSÊNCIA DE INTERRUPÇÃO DO PRAZO - INTERPOSIÇÃO RECURSAL APÓS TRANSCURSO DO PRAZO LEGAL - RECURSO NÃO CONHECIDO.
+O mero pedido de reconsideração não tem o condão de suspender o prazo recursal, cujo termo inicial deve ser contado a partir da data em que o recorrente teve ciência inequívoca da decisão recorrida.
+Assim, uma vez interposto o agravo há mais de 15 dias do conhecimento inequívoco da decisão recorrida, o recurso é flagrantemente intempestivo, implicando na impossibilidade de conhecimento do recurso.
+Agravo interno prejudicado.
+Segundo o requerente, a plausibilidade do direito estaria consubstanciada em matéria de ordem pública, não sujeita à preclusão, alusiva ao reconhecimento da condição de bem de família do imóvel penhorado nos autos.
+Salienta que tal particularidade da questão sub judice "já demonstra o desacerto da decisão ora guerreada ao julgar pela intempestividade do recurso de agravo de instrumento" (fl. 7).
+Quanto ao periculum in mora, estaria retratado na "iminência de ter seu imóvel levado à hasta pública no Processo n. 1012662-48.2022.8.26.0344, em trâmite perante a 4ª Vara Cível da Comarca de Marília, diante da demora processual do Tribunal de origem, em afronta aos princípios da celeridade e da razoável duração do processo" (fl. 7).
+É o relatório. Decido.
+De acordo com o disposto no art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem, cumulativamente, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+No caso, parece-me, prima facie, que a condição de bem de família do imóvel penhorado nos autos foi afastada pelo magistrado de origem com base no entendimento de que, "no presente caso, os executados não trouxeram aos autos outras provas de que os imóveis sejam utilizados pelas entidades familiares" (fl. 48), juízo de natureza notadamente fático-probatória, insuscetível de revisão na via especial.
+Ademais, é assente no STJ que se opera "a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo se tratando de matéria de ordem pública" (AgInt no AREsp n. 1357734/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019).
+Não fosse apenas isso, verifica-se que a parte requerente não esclareceu, objetivamente, em que consiste o periculum in mora, limitando-se, no ponto, a considerações genéricas sobre os possíveis danos decorrentes da continuidade do rito executivo instaurado na origem.
+A propósito, cumpre esclarecer que o fato de estar em curso cumprimento provisório da sentença não constitui, por si só, fundamento apto à demonstração do periculum in mora, uma vez que o próprio procedimento, marcado pela responsabilidade objetiva do exequente, já é dotado de mecanismos próprios para evitar prejuízos ao devedor. Nesse sentido:
+AGRAVO REGIMENTAL EM MEDIDA CAUTELAR - PRETENSÃO VOLTADA À ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM, A SER REMETIDO A ESTA CORTE NA FORMA DE ARESP - DECISÃO MONOCRÁTICA QUE JULGOU EXTINTA A MEDIDA CAUTELAR - AUSENTES OS REQUISITOS DO FUMUS BONI JURIS E PERICULUM IN MORA - FORTE PROBABILIDADE DE NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL - INSURGÊNCIA RECURSAL DO REQUERENTE.
+ ..
+3. O risco de dano apto a lastrear a medida cautelar (periculum in mora), analisado objetivamente, deve revelar-se real e concreto, não sendo suficiente, para tanto, a mera conjectura de riscos, tal como delineado pelo requerente em suas razões.
+3.1. O possível início do cumprimento provisório da sentença não constitui risco de dano irreparável, porquanto o procedimento da execução provisória possui mecanismos aptos para que o interessado possa se resguardar de possíveis danos.
+4. Ausente a demonstração da plausibilidade do direito invocado e do perigo da demora, requisitos imprescindíveis ao cabimento da medida cautelar, impõe-se a sua extinção in limine.
+5. Agravo regimental desprovido. (AgRg na MC n. 25.558/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe de 31/3/2016.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIO INDEFERIDO. CONSTATAÇÃO, PELA DECISÃO AGRAVADA, DO NÃO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS À CONCESSÃO DA PRESENTE MEDIDA DE URGÊNCIA. VERIFICAÇÃO. SIMPLES INÍCIO DO CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MECANISMOS ESTABELECIDOS NO CÓDIGO DE PROCESSO CIVIL DESTINADOS A EQUALIZAR OS INTERESSES CONTRAPOSTOS. URGÊNCIA DA MEDIDA. NÃO CARACTERIZAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. A lei adjetiva civil, não obstante permita o cumprimento provisório da sentença, estabelece que "o levantamento de depósito em dinheiro e a prática de atos que importem a transferência de posse ou alienação de propriedade ou de outro direito real, ou dos quais possa resultar grave dano ao executado, dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (inciso IV do art. 520 do CPC/2015).
+2. Agravo interno improvido. (AgInt nos EDcl no TP n. 2.189/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/5/2020, DJe de 8/5/2020.)
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se. Intimem-se.
+EMENTA
