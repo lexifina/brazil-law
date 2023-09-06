@@ -1,0 +1,59 @@
+DECISÃO
+  Trata-se  de  agravo  em  recurso  especial  interposto  por  KLEBER CARLOS CARVALHO e PATRÍ CIA APARECIDA COUTINHO NEVES CARVALHO,  contra  decisão  que  inadmitiu  recurso  especial  pela incidência das Súmulas n. 5 e 7 do STJ e 284 do STF.
+Alegam  os  agravantes  que  os  pressupostos  de  admissibilidade  do  recurso  especial  foram  atendidos.
+  O  recurso  especial,  fundado  no  art.  105,  III,  a,  da  Constituição  Federal,  foi  interposto  contra  acórdão  (Apelação  Cível  n.  0805960-98.2015.8.20.5124)  assim  ementado  (fls.  449-450):
+
+APELAÇÕES CÍVEIS NA AÇÃO DE RESCISÃO DE CONTRATO C/C PERDAS E DANOS. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. VALOR DACAUSA QUE CORRESPONDE AO VALOR DO CONTRATO. AUSÊNCIA DE EQUÍVOCO. RESCISÃO DO NEGÓCIO POR INADIMPLEMENTO DOS COMPRADORES. PARCELAS CONSIGNADAS EM CONTACORRENTE EXTRAJUDICIAL. INSUFICIÊNCIA DO DEPÓSITO PARA QUITAÇÃO DO SALDO DEVEDOR IDENTIFICADA POR MEIO DE PERÍCIA JUDICIAL. LEVANTAMENTO DO VALOR DEPOSITADO OBSTADO. INTELIGÊNCIA DO ART 338 DO CÓDIGO CIVIL. PRETENSÃO DE INCIDÊNCIA DO PERCENTUAL DE RETENÇÃO SOBRE AS PARCELAS PAGAS E AS DEPOSITADAS EXTRAJUDICIALMENTE. IMPOSSIBILIDADE. DEPÓSITO EXTRAJUDICIAL IMPUGNADO QUE NÃO POSSUI NATUREZA DE PAGAMENTO. PREVISÃO DO ART. 336 DO CÓDIGOCIVIL. RETENÇÃO DE 20% SOBRE AS PARCELAS PAGAS FIXADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. TAXA DE FRUIÇÃO MENSAL DO IMÓVELQUE DEVE CORRESPONDER AO VALOR DE LOCAÇÃO DE IMÓVEL SIMILAR NO MERCADO IMOBILIÁRIO. PRECEDENTE. DIREITO DE RETENÇÃO E TAXA DE FRUIÇÃO QUE NÃO CONFIGURAM BIS IN IDEM. COBRANÇAS QUE POSSUEM CAUSAS JURÍDICAS DISTINTAS. RESPONSABILIDADE DOS PROMITENTES COMPRADORES PELO PAGAMENTO DAS TAXAS DE IPTU E DE CONDOMÍNIO. PEDIDO NÃO APRESENTADO E NEM DISCUTIDO NA ORIGEM. SUBSTITUIÇÃO DO IGP-M PELO IPCA-E. POSSIBILIDADE. AUSÊNCIA DE ÓBICE CONTRATUAL. RECURSOS CONHECIDOS. DESPROVIMENTO DO RECURSO DOS DEMANDADOS. PROVIMENTO PARCIAL DO APELO DA DEMANDANTE.
+
+No  recurso  especial,  os  agravante s apontam  ofensa  aos  arts.  336 e 338 do CC e 890, § 4º,  do  CPC/1973  sob  a  seguinte alegação :
+a) as penalidades impostas " estão onerosas demais, e a majoração imposta pelo v. acórdão recorrido significa, data venia, clara insensatez e subversão aos preceitos básicos que devem nortear as relações jurídicas" (fl.481);
+b) "se os valores depositados não cumpriram com sua finalidade de evitar onerosidade excessiva do contrato, com a aplicação de juros e multas, não tendo força de pagamento, sem sentido nenhum a retenção dos valores pagos extrajudicialmente" (fl. 482); e
+c) a lei de regência garante o "levantamento do valor pelos recorrentes, conforme previsto no artigo 890, §4º do CPC/73" (fl. 485).
+Requer  ,  assim,  o  conhecimento  e  o  provimento  do  recurso.
+As  contrarrazões  foram  apresentadas  (fls.  490-500).
+É  o  relatório.  Decido.
+O  recurso  não  merece  prosperar.
+No  presente  caso,  o  Tribunal  de  origem  analisou  as  questões  e  assim  decidiu  (fl.  455):
+Não prospera, inclusive, o pedido de KLEBER CARLOS DE CARVALHO e PATRÍCIA APARECIDA COUTINHO NEVES CARVALHO para levantamento da quantia depositada extrajudicialmente em nome da MONTANA CONSTRUÇÕES LTDA, considerando que esta impugnou o pedido, aplicando-se o disposto do art. 338 do Código Civil, cujo teor apregoa que "enquanto o credor não declarar que aceita o depósito, ou não o impugnar, poderá o devedor requerer o levantamento, pagando as respectivas despesas, e subsistindo a obrigação para todas as consequências de direito."
+Melhor sorte não assiste aos apelantes KLEBER CARLOS DE CARVALHO e PATRÍCIA APARECIDA COUTINHO NEVES CARVALHO no pedido de redução do percentual de retenção de 20% para 10% do valor das parcelas pagas, uma vez que os recorrentes não apresentaram fatos ou argumentos capazes de alterar a sentença cujos fundamentos alinham-se com a jurisprudência do STJ. Vejamos:
+ ..
+No tocante à alegação contida no item c,  de  que  a referida lei de regência garante o "levantamento do valor pelos recorrentes, conforme previsto no artigo 890, §4º do CPC/73" (fl. 485),  observa-se  que  os referido  argumento  não  foi  objeto  de  debate  pelo  Tribunal  a  quo  e sequer foram opostos embargos  de  declaração,  de  modo  que  não  houve  o  indispensável  prequestionamento.
+Caso,  pois,  de  aplicação  das  Súmulas  n.  282  e 356 do  STF .
+Ressalte-se  que,  de  acordo  com  a  reiterada  jurisprudência  do  Superior  Tribunal  de  Justiça,  para  que  se  tenha  por  prequestionada  determinada  matéria,  é  necessário  que  a  questão  tenha  sido  objeto  de  debate  à  luz  da  legislação  federal  indicada,  com  a  imprescindível  manifestação  pelo  tribunal  de  origem,  que  deverá  emitir  juízo  de  valor  acerca  dos  dispositivos  legais  ao  decidir  por  sua  aplicação  ou  afastamento  no  caso  concreto,  o  que  não  ocorreu  na  espécie.
+A  propósito:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS  E  MATERIAIS.  TEMA  NÃO  DEBATIDO  PELAS  INSTÂNCIAS  ORDINÁRIAS.  INCIDÊNCIA  DA  SÚMULA  N.º  282  DO  STF.  DIVERGÊNCIA  JURISPRUDENCIAL.  NÃO  DEMONSTRAÇÃO,  NOS  MOLDES  LEGAIS.  AGRAVO  INTERNO  NÃO  PROVIDO.
+ ..
+2.  A  matéria  referente  aos  arts.  884  do  CC/2002  e  503  do  NCPC  não  foi  objeto  de  debate  prévio  nas  instâncias  de  origem.  Ausente,  portanto,  o  devido  prequestionamento  nos  termos  da  Súmula  n.º  282  do  STF,  aplicável  por  analogia.
+ ..
+4.  Agravo  interno  não  provido.  (AgInt  no  AgInt  no  AREsp  n.  2.052.990/GO,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  de  28/9/2022.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  SÚMULA  182  DO  STJ.  NÃO  INCIDÊNCIA.  DECISÃO  DA  PRESIDÊNCIA  RECONSIDERADA.  AGRAVO  DE  INSTRUMENTO.  PERDA  DE  OBJETO.  SUPERVENIENTE  PROLAÇÃO  DE  SENTENÇA  NO  FEITO  ORIGINÁRIO.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356  DO  STF.  FUNDAMENTO  DO  ACÓRDÃO  RECORRIDO  NÃO  IMPUGNADO.  SÚMULAS  283  E  284/STF.  AGRAVO  INTERNO  PROVIDO  PARA  CONHECER  DO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
+ ..
+4.  A  ausência  de  impugnação,  nas  razões  do  recurso  especial,  de  fundamentos  suficientes  à  manutenção  do  acórdão  estadual  atrai  a  incidência,  por  analogia,  das  Súmulas  283  e  284  do  STF.
+5.  Agravo  interno  provido  para  reconsiderar  a  decisão  agravada  e,  em  novo  exame,  conhecer  do  agravo  para  não  conhecer  do  recurso  especial.  (AgInt  no  AREsp  n.  2.028.056/PE,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  DJe  de  22/9/2022.)
+Quanto  à alegação apresentada no item a, de que  as penalidades impostas aos r ecorrentes "estão onerosas demais, e a majoração imposta pelo v. acórdão recorrido significa, data venia, clara insensatez e subversão aos preceitos básicos que devem nortear as relações jurídicas" (fl. 481),  observa-se  que  não foi apresentado qualquer dispositivo tido por violado nesse sentido. Caso,  pois,  de  aplicação  da  Súmula n.  284  do  STF.
+A  propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL. SEGURO HABITACIONAL. SFH. OMISSÃO. AUSÊNCIA. INVERSÃO DO ÔNUS DA PROVA. INAPLICABILIDADE DO CDC AOS CONTRATOS FIRMADOS ANTES DA SUA VIGÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULA Nº 568 DO STJ. NECESSIDADE DA JUNTADA DE CONTRATOS E OUTROS DOCUMENTOS. INVERSÃO DE ENTENDIMENTO. REEXAME DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. VEDAÇÃO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO. FALTA DE COTEJO. APLICAÇÃO DA SÚMULA Nº 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. Sem a indicação de quais os dispositivos legais que porventura foram violados, não há o atendimento dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255 do RISTJ, atraindo a incidência, por analogia, da Súmula nº 284 do STF, o que inviabiliza o exame do apontado dissídio.
+ ..
+7. Agravo interno não provido. (AgInt no REsp n. 1.852.301/SE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO. TRANSPORTE DE CARGA. CONTRATO DE SEGURO. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE OFENSA GENÉRICA AO CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 284 DO STF. DISSÍDIO JURISPRUDENCIAL SEM A INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULAS 284 DO STF E 7 DO STJ. MATÉRIA DE FUNDO DECIDIDA COM BASE NA INTERPRETAÇÃO CONTRATUAL E NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE NOS AUTOS. SÚMULAS 5 E 7 DO STJ.
+ ..
+4. Como é cediço, para a análise da admissibilidade do especial, é imprescindível que a argumentação erigida no recurso demonstre, de plano, mediante concatenação lógica, a violação dos dispositivos de lei federal pelo acórdão recorrido. No caso em apreço, a parte recorrente limitou-se a arguir violação à Lei nº 8.078/90, sem indicar, clara e objetivamente, quais os dispositivos do referido diploma legal foram violados, situação que atrai a incidência, por analogia, da Súmula nº 284 do STF.
+ ..
+8. Agravo interno não provido. (AgInt no AREsp n. 472.715/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/10/2017, DJe de 7/11/2017.)
+Por fim, no  que  se  refere  à  apontada  ofensa aos  arts. 336 e 338  do  Código  Civil (item b) ,  a  Corte  de  origem,  ao  analisar  o  caso,  concluiu  que diante da impugnação relativa à consignação, os autores não detém mais o direito de levantamento dos valores, nos moldes do que estabelece o próprio artigo 338 do Código Civil.
+Todavia, a parte agravante em momento algum rebateu os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado - perda do direito potestativo devido à impugnação apresentada pela parte contrária -, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. BAIXA NA JUNTA COMERCIAL. PERSONALIDADE JURÍDICA. EXTINÇÃO. LEGITIMIDADE PASSIVA. INEXISTÊNCIA. SÚMULAS N. 7 E 83 DO STJ. LIQUIDAÇÃO COMPLETA DA EMPRESA. SÚMULAS N. 282 E 356 DO STF. FUNDAMENTO NÃO OBJETADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+ ..
+4. A subsistência de fundamento jurídico não objetado obsta o conhecimento do recurso especial, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.080.338/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. TRANSCURSO DO PRAZO DECADENCIAL PARA DESCONSTITUIR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+ ..
+4. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido. (AgInt no REsp n. 2.016.002/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante  o  exposto,  nego provimento ao agravo  .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 18% sobre o valor de ambas as causas .
+  Publique-se.  Intimem-se.
+EMENTA
