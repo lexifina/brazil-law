@@ -1,0 +1,30 @@
+DECISÃO
+Na origem trata-se de mandado de segurança contra ato de delegado da RFB referente a créditos de PIS e COFINS. Na sentença denegou-se a segurança. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 200.000,00 (Duzentos mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. PIS/COFINS. NÂO-CUMULATIVIDADE. CREDITAMENTO. CONCEITO DE INSUMOS. ESSENCIALIDADE E RELEVÂNCIA. TEMA 779 DO STJ.
+1. A SISTEMÁTICA DE TRIBUTAÇÃO NÃO-CUMULATIVA DO PIS E DA COFINS, PREVISTA NAS LEIS NQ 10.637/2002 E 10.833/2003, CONFERE AO SUJEITO PASSIVO DO TRIBUTO O APROVEITAMENTO DE DETERMINADOS CRÉDITOS PREVISTOS NA LEGISLAÇÃO, EXCLUÍDOS OS CONTRIBUINTES SUJEITOS À TRIBUTAÇÃO PELO LUCRO PRESUMIDO.
+2. A APLICAÇÃO DO PRINCÍPIO DA NÃO-CUMULATIVIDADE DO PIS E DA COFINS EM RELAÇÃO AOS INSUMOS UTILIZADOS NA FABRICAÇÃO DE BENS E SERVIÇOS NÃO IMPLICA ESTENDER SUA INTERPRETAÇÃO, DE MODO A PERMITIR QUE SEJAM DEDUZIDOS, SEM RESTRIÇÃO, TODOS E QUAISQUER CUSTOS DA EMPRESA DESPENDIDOS NO PROCESSO DE INDUSTRIALIZAÇÃO E COMERCIALIZAÇÃO DO PRODUTO FABRICADO.
+3. O SUPERIOR TRIBUNAL DE JUSTIÇA, EM 22/02/2018, NO JULGAMENTO DO RESP Nº 1.221.170/PR (TEMAS 779 E 780), SOB A SISTEMÁTICA DE RECURSOS REPETITIVOS, DECLAROU, POR MAIORIA DE VOTOS, A ILEGALIDADE DAS INSTRUÇÕES NORMATIVAS 247/2002 E 404/2004 DA RECEITA E CONCLUIU QUE O "CONCEITO DE INSUMO DEVE SER AFERIDO À LUZ DOS CRITÉRIOS DE ESSENCIALIDADE OU RELEVÂNCIA, CONSIDERANDO-SE A IMPRESCINDIBILIDADE OU A IMPORTÂNCIA DE DETERMINADO ITEM, BEM OU SERVIÇO PARA O DESENVOLVIMENTO DA ATIVIDADE ECONÔMICA DESEMPENHADA PELO CONTRIBUINTE".
+4. HIPÓTESE EM QUE, DIANTE DO TEMA 779/STJ E DA ATIVIDADE-FIM DA REQUERENTE, NÃO SE RECONHECE A POSSIBILIDADE DE CREDITAMENTO DE PIS/COFINS DAS DESPESAS COM COMISSÕES PAGAS A REPRESENTANTES COMERCIAIS.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Da leitura dos referidos dispositivos, verifica-se que a autoridade administrativa considera como insumo, para efeitos de creditamento, apenas os elementos aplicados diretamente na fabricação do bem ou na prestação do serviço, ou seja, conceitua insumo lastreado na legislação do IPI, relacionando-o com os bens utilizados diretamente no processo produtivo.
+Orientação do STJ: ilegalidade das INs SRF nº 247/2002 e404/2004 e adoção dos critérios da essencialidade e da relevância
+No julgamento do REsp nº 1.221.170 (Temas 779 e 780), sob a sistemática de recursos repetitivos, o Superior Tribunal de Justiça declarou a ilegalidade das Instruções Normativas nºs 247/2002 e 404/2004 da Receita Federal.
+(..)
+(STJ, REsp nº 1.221.170-PR, Rel. Min. Napoleão Nunes Maia, Primeira Seção, Data do julgamento: 22/02/2018)
+(..)
+De acordo com a tese firmada pela 1ª Seção do STJ, "o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de terminado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte".
+(..)
+Deste modo, em face do Tema 779/STJ e do objeto social da empresa, conclui-se que as verbas elencadas pela impetrante na inicial não se amoldam ao conceito de insumo, porquanto não são elementos essenciais ou relevantes para o desenvolvimento da atividade produtiva da empresa, caracterizando-se como custos operacionais relacionados à comercialização dos seus produtos. Assim sendo, não geram direito a créditos de PIS e COFINS. Neste mesmo sentido, colaciono jurisprudência:
+(..)
+(TRF4, AC 5011387-21.2019.4.04.7110, PRIMEIRA TURMA, Relator FRANCISCO DONIZETE GOMES, juntado aos autos em 24/07/2020)
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
