@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 220):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. INMETRO. APLICAÇÃO DA PENA DE MULTA. AUSÊNCIA DE FUNDAMENTAÇÃO. REDUÇÃO AO MÍNIMO LEGAL.
+Consoante entendimento firmado no âmbito da 1ª Seção deste Regional, para que a pena ultrapasse o patamar mínimo, necessário haver fundamentação adequada da autoridade nos autos do processo administrativo, baseada nos requisitos estabelecidos na legislação de regência.
+Opostos embargos declaratórios, foram rejeitados (fls. 255/259)
+A parte recorrente aponta violação aos seguintes dispositivos de lei:
+(I) arts. 1.022, II, do CPC, ao argumento de que o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia, concernentes "a ausência de impugnação do infrator ao processo administrativo, aos fundamentos explícitos pelos quais a autoridade administrativa se pautou na fixação da multa e a tese de descabimento de invasão do mérito administrativo para reduzir multa fixada dentro os limites fixados na lei cujo valor total da autuação somou R$ 10.800,00 - ou seja, menos de 1% (um por cento) do máximo permitido pela legislação." (fl. 273);
+(II) arts. 3º da Lei n. 9.933/99 e 50, §§ 1º e 3º, da Lei n. 9.784/99, pois a aplicação da sanção pecuniária se ancorou em fundamentação explícita, clara e congruente. Ressalta que a modificação do valor da multa traduziu invasão do mérito administrativo e que o quantum anteriormente fixado se mostrou proporcional à infração praticada;
+e (III) art. 85, § 11, do CPC, sustentando que não é devida a majoração da verba sucumbencial pois "a sentença a quo havia fixado honorários em favor da parte adversa no patamar de 10%" (fl. 280).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, a sobre a alegada ausência de impugnação do infrator ao processo administrativo, verifica-se que o voto condutor do acórdão recorrido transcreveu trecho da sentença de piso, na qual se assentou que "A infratora não apresentou defesa no prazo legal." (fl. 223).
+Quanto à alegação de que a aplicação da sanção foi motivada e de que houve invasão do mérito administrativo, a Corte Regional rejeitou a tese recursal da ANS com base nos seguintes fundamentos (fls. 224/225):
+Indiscutível que a escolha e a dosagem da penalidade enquadram-se no âmbito do poder discricionário da Administração, limitando-se o Judiciário a controlar eventuais desvios. Todavia, a ausência de motivação infirma o ato administrativo. Neste sentido:
+(..)
+Importante assim considerar de modo a conferir validade ao processo administrativo, haja vista não serem raras as decisões genericamente fundamentadas, carecedoras de uma análise individual e de uma abordagem das circunstâncias fáticas que deram azo à autuação.
+(..)
+No entanto, sendo certo o cabimento da multa, a solução mais adequada - ausente motivação - é a redução do montante ao mínimo legal.
+Não ficou configurada, pois, a alegada omissão.
+Quanto ao mais, tampouco assiste razão ao recorrente.
+No caso, a Corte Regional concluiu pela ausência de motivação na aplicação da sanção imposta ao recorrido, promovendo a redução do valor da multa para o mínimo legal.
+Diante desse contexto, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se há o ato administrativo foi devidamente motivado e se o valor da multa se mostra ou não adequado a sancionar a parte recorrida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INMETRO. AUTO DE INFRAÇÃO. DECISÕES ADMINISTRATIVAS. MOTIVAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. MULTA. PRINCÍPIO DA LEGALIDADE, RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. VIOLAÇÃO DE RESOLUÇÃO ADMINISTRATIVA. NORMA INFRALEGAL. ANÁLISE EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, sobre a legalidade, proporcionalidade e razoabilidade do procedimento administrativo que culminou com a imposição da multa. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição, obscuridade ou negativa de prestação jurisdicional.
+2. A revisão da conclusão a que chegou o Tribunal de origem, no sentido de que "não se vislumbra, pois, violação aos princípios da legalidade, razoabilidade ou proporcionalidade, na medida em que, consideradas circunstâncias fáticas do caso concreto, foram respeitados patamares mínimo e máximo estabelecidos na legislação de regência para fixação da multa", demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide no caso a Súmula 7/STJ.
+3. Nos termos da jurisprudência do STJ, o recurso especial não constitui via adequada para a análise, nem sequer reflexa, de eventual ofensa a resoluções, portarias, instruções normativas ou regulamentos de pessoa jurídica, por não estarem tais atos normativos compreendidos na expressão "lei federal" constante da alínea a do inciso III do artigo 105 da Constituição Federal de 1988.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.093.934/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+Por fim, quanto à verba sucumbencial, a Corte de origem assim decidiu (fl. 225):
+Inalterada a distribuição dos ônus da sucumbência.
+Por derradeiro, em razão do §11 do art. 85 do Código de Processo Civil, arbitro os honorários recursais em 10% (dez por cento) sobre o valor da verba honorária fixada em primeiro grau, à qual deverão ser acrescidos.
+Verifica-se que o acórdão recorrido considerou o trabalho adicional em grau recursal e fixou a referida verba em 10% (dez por cento) do valor já arbitrado a esse título na primeira instância.
+Sobre o tema, o Supremo Tribunal Federal já manifestou o entendimento de que "A interposição de recurso sob a égide da nova lei processual possibilita a majoração dos honorários advocatícios (ora fixados em 10% dez por cento sobre o valor da causa), mesmo quando não apresentadas contrarrazões, nos termos do art. 85, § 11, do CPC/2015." (AO 2.063 AgR, relator Ministro Marco Aurélio, relator para acórdão Ministro Luiz Fux, Julgado em 18/5/2014, publicado em 14/9/2017).
+No mesmo sentido, colhe-se aresto desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CORPUS CHRISTI. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. MAJORAÇÃO DE HONORÁRIOS AINDA QUE NÃO APRESENTADAS CONTRARRAZÕES. POSSÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Os feriados nacionais devem estar previstos em lei federal. O dia de Corpus Christi é feriado local.
+2. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+3. Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, não há como
+ser afastado o decreto de intempestividade do recurso.
+4. "Consoante o Enunciado Administrativo nº 7/STJ, nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível a majoração de honorários em sede de recurso, nos termos do artigo 85, § 11, do CPC/15, quando inaugurada nova instância, ainda que não apresentadas contrarrazões, pois se trata se desestímulo à interposição de recursos infundados pela parte vencida" (EDcl no AgInt no REsp 1892201/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 8/10/2021).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.035.803/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/202 2, DJe de 1/7/2022.)
+No caso dos autos, certo é que o acórdão atacado ao majorar a verba sucumbencial em grau recursal, o fez com arr imo no art. 85, § 11, do CPC, com observância dos limites reportados no aludido dispositivo de lei.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento. Levando-se em conta o trabalho adicion al realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
