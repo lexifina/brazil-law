@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos por ETERNIT S/A - EM RECUPERAÇÃO JUDICIAL e OUTROS contra acórdão proferido pela Quarta Turma do STJ.
+Ação: recuperação judicial das embargantes.
+Decisão: homologou o plano de soerguimento sem ressalvas e concedeu a recuperação judicial.
+Acórdão do TJ/SP: deu provimento ao agravo de instrumento interposto pelos embargados, para efetuar alterações no plano recuperacional.
+Embargos de declaração: interpostos pelas embargantes, foram rejeitados.
+Acórdão embargado: negou provimento ao agravo interno interposto pelas embargantes, nos termos da seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. O juiz está autorizado a realizar o controle de legalidade do plano de recuperação judicial, sem adentrar no aspecto da sua viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia geral de credores. Precedentes.
+1.1. No caso, verifica-se que a Corte local não adentrou no aspecto da viabilidade econômica do plano, tendo apenas exercido o controle de sua legalidade, o qual é permitido pela jurisprudência do Superior Tribunal de Justiça em hipóteses como a dos autos, em que há tratamento desigual entre credores da mesma classe.
+2. Agravo interno desprovido.
+Embargos de divergência: apontam divergência entre a conclusão alcançada no acórdão embargado e aquela a que chegou a Terceira Turma quando do julgamento do REsp 1.649.774/SP. Alegam, em síntese, que, ao contrário do entendimento estampado no aresto impugnado, deve ser possibilitado que o plano de recuperação judicial estabeleça um limite máximo para pagamento preferencial dos créditos trabalhistas.
+RELATADO O PROCESSO, DECIDE-SE.
+Como é cediço, os embargos de divergência, nos termos dos arts. 1.043 do CPC/15 e 266 do RISTJ, constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça.
+Por isso, a divergência indicada na via excepcional dos embargos deve ser comprovada mencionando-se, de forma clara e precisa, as circunstâncias que identifiquem ou assemelhem as hipóteses confrontadas, de modo a exigir igual solução jurídica. Só assim os embargos podem cumprir a sua função precípua de solucionar controvérsias estritamente jurídicas sobre as quais divirjam duas ou mais Turmas deste Tribunal (AgInt nos EAREsp 862.496/MG, Corte Especial, DJe de 30/11/2016).
+No particular, contudo, verifica-se que não restou demonstrado o dissídio jurisprudencial, porquanto os acórdãos em questão enfrentaram situações fáticas distintas.
+Com efeito, no acórdão paradigma a controvérsia residia em definir se créditos de honorários advocatícios, para efeito de classificação em recuperação judicial, são ou não considerados créditos trabalhistas (na hipótese de o seu titular ser pessoa jurídica - sociedade de advogados). Além disso, discutia-se o cabimento da limitação da preferência do crédito trabalhista em R$ 2.000.000,00 e, subsidiariamente, a possibilidade de aplicação, em recuperação judicial, do limite previsto no art. 83, I, da Lei 11.101/05 (150 salários-mínimos).
+Já na hipótese dos presentes autos, o Tribunal a quo reconheceu que o plano de soerguimento estabeleceu duas subclasses de credores trabalhistas, tendo por base apenas o valor do crédito. A subclasse dos detentores de crédito superior a R$ 250.000,00 estaria sujeita a aceitar o pagamento do valor que excedesse o limite precitado em ações a serem emitidas pela companhia recuperanda, mediante aumento de capital. A Corte de origem entendeu que a criação de subclasses não se coadunava com o entendimento do STJ acerca do tema. Afirmou que a devedora se aproveitou da forma de aprovação do plano para referida classe (maioria simples dos credores presentes) para impor à minoria detentora de crédito vultoso situação desfavorável em relação aos demais credores, sobretudo atentando-se à circunstância de que os créditos de grande monta são decorrentes de indenizações por doenças causadas pela exposição de trabalhadores aos efeitos nocivos do amianto. Em razão dessa situação é que houve o reconhecimento da violação ao par conditio creditorum e a declaração da ilegalidade de referida condição de pagamento.
+Além disso, a situação retratada no acórdão paradigma previa que o valor que ultrapassasse os R$ 2.000.000,00 seria habilitado como crédito quirografário, enquanto na hipótese destes autos o montante excedente seria pago mediante futura emissão de ações da recuperanda, o que revela, igualmente, serem diversas as bases fáticas de ambos os julgados.
+Disso se infere que a pretensão das embargantes não pode ser acolhida, haja vista a ausência de similitude fática entre as hipóteses confrontadas.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15 e 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. SIMILITUDE FÁTICA. AUSÊNCIA. ACÓRDÃOS PARADIGMA E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA. AUSÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL A SER SANADA.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+2. Tratando os acórdãos confrontados acerca de questões que possuem bases fáticas essencialmente distintas, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+3. Embargos de divergência indeferidos liminarmente.
