@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO ROBERTO PONATH apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5042712-71.2023.824.0000).
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 1º, caput, c/c os §§ 1º, incisos I e II, e 4º, da Lei n. 9.613/1998. O Juízo de primeiro grau não acatou o pedido de reconhecimento de nulidade das provas oriundas de aparelho celular manipulado pela autoridade policial antes de sua submissão a exame técnico.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da ação mandamental, nos termos do acórdão assim ementado (e-STJ fl. 13):
+AGRAVO INTERNO EM HABEASCORPUS (ART. 293 DO REGIMENTOINTERNO DA CORTE). IRRESIGNAÇÃO CONTRA DECISÃOUNIPESSOAL QUE NÃO CONHECEU DO WRIT.
+PRETENSA REFORMA DO DECISUM. INVIABILIDADE. PACIENTEDENUNCIADO PELA PRÁTICA DO CRIME DE LAVAGEM DECAPITAIS, MAJORADO PELA REITERAÇÃO E INTERMÉDIO DEORGANIZAÇÃO CRIMINOSA (LEI 9.613/1998, ART. 1º, CAPUT,COMBINADO COM § 1º, INCISOS I E II, E § 4º, POR TRINTA E SETEVEZES). AVENTADO CONSTRANGIMENTO ILEGAL CONSUBSTANCIADO NO NÃO RECONHECIMENTO DA NULIDADEDAS PROVAS ORIUNDAS DA EXTRAÇÃO DE DADOS DO SEUTELEFONE CELULAR APREENDIDO. DELIBERAÇÃO JUDICIAL QUENÃO RESTRINGE O DIREITO DE IR E VIR DO AGENTE, SEQUERAMEAÇA A LIBERDADE DE LOCOMOÇÃO DESTE. SITUAÇÃO QUENÃO ENSEJA A IMPETRAÇÃO DE HABEASCORPUS. INTELECÇÃODOS ARTS. 330, III, DO CPC, COMBINADO COM ART. 3º DO CPP, E232, CAPUT, DO REGIMENTO INTERNO DA CORTE. PRECEDENTES.
+PRONUNCIAMENTO MANTIDO. RECURSO CONHECIDO EDESPROVIDO.
+Daí o presente writ, no qual a defesa busca o desentranhamento da ação penal de prova eivada de nulidade, para que não seja utilizada pelo magistrado ao formar seu convencimento.
+Pondera que, "se há ilicitude sobre um elemento probatório, este não pode ser utilizado para qualquer motivação judicial em desfavor do réu em um processo criminal", pois impacta em eventual sentença condenatória.
+Requer, liminarmente e no mérito, seja determinado ao Tribunal estadual o enfrentamento da tese aventada pela defesa.
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem não conheceu da impetração, consignando, para tanto, que (e-STJ fl. 13):
+Registradas essas premissas, em que pese o esforço dos recorrentes, o habeas corpus não é de ser conhecido.
+Isso porque, consoante já explanado em ocasião pretérita, o não reconhecimento, pela autoridade dita coatora, da nulidade das provas almejada pelo agravante não reproduz restrição ao seu direito de ir e vir.
+Em situação similar, em que a medida não redunda sequer na ameaça à liberdade de locomoção, já decidiu esta Câmara Criminal pela não admissão e processamento da actio, nos termos do Agravo Interno em Habeas Corpus n. 5021085-45.2022.8.24.0000, de minha relatoria, julgado em 9-6-2022.
+ .. .
+Trata-se, evidentemente, de pronunciamento judicial que não interfere sobre a liberdade do demandado, de maneira que o habeas corpus não é o meio adequado para analisar a sua pretensão, cuja consequência consiste no seu indeferimento, nos moldes do art.330, III, do CPC (carência de interesse-adequação), mediante aplicação por analogia autorizada a teor do art. 3º do CPP  .. .
+Nessas circunstâncias, a ausência de manifestação do Tribunal de Justiça do Estado de Santa Catarina do mérito do pedido formulado na impetração antecedente configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não demanda aprofundado exame de matéria probatória.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. HOMICÍDIO QUALIFICADO TENTADO. PRODUÇÃO ANTECIPADA DE PROVAS. ARTIGO 366 DO CPP. NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO DO WRIT PELA CORTE DE ORIGEM. MANDAMUS SUBSTITUTIVO DE RECURSO PRÓPRIO E INEXISTÊNCIA DE VIOLAÇÃO DIRETA À LIBERDADE DE LOCOMOÇÃO. INEXISTÊNCIA DE APRECIAÇÃO DE EVENTUAL CONSTRANGIMENTO ILEGAL. CONCESSÃO DA ORDEM DE OFÍCIO, APENAS PARA DETERMINAR AO TRIBUNAL ESTADUAL QUE VERIFIQUE A EXISTÊNCIA DE EVENTUAL ILEGALIDADE PERPETRADA EM DESFAVOR DO PACIENTE.
+1. O Superior Tribunal de Justiça, secundando orientação do Supremo Tribunal Federal, não mais admite a utilização do habeas corpus como substituto do recurso próprio, assim também não o fazendo as instâncias ordinárias, de modo a não frustrar a sua finalidade que é a de atuar de forma célere e efetiva no caso de manifesta violência ou coação à liberdade de locomoção do cidadão por ilegalidade ou abuso de poder (art. 5º, LXVIII, da CF).
+2. No entanto, verificada hipótese de impetração de habeas corpus em lugar do instrumento próprio, de rigor o seu não conhecimento, a menos que constatada ilegalidade flagrante, caso em que a ordem pode ser concedida de ofício, como forma de cessar o constrangimento ilegal.
+3. In casu, constata-se que o Tribunal estadual limitou-se ao não conhecimento do writ originário, sem avaliar a existência de eventual ilegalidade perpetrada em desfavor do ora paciente. Muito embora tecnicamente correta a decisão, nos moldes da orientação do STJ e do STF, é indispensável que se afaste por completo a existência de flagrante constrangimento ilegal, sob pena de ofensa ao art. 5º, LXVIII, da CF.
+4. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pelo impetrante, ora paciente, relativa à eventual nulidade da decisão que determinou a medida cautelar de busca e apreensão.
+5. Habeas corpus não conhecido. Contudo, ordem concedida de ofício, para determinar que a Corte a quo aprecie a existência de eventual constrangimento ilegal perpetrado em desfavor do paciente.
+(HC n. 371.104/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2017, DJe de 10/2/2017.)
+Nesse contexto, em se tratando de relevante questão de direito, deve a Corte estadual analisar a matéria suscitada no habeas corpus precedente.
+Ante o exposto, concedo parcialmente a ordem para determinar que o Tribunal de Justiça do Estado de Santa Catarina aprecie o mérito do Habeas Corpus n. 5042712-71.2023.824.0000, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
