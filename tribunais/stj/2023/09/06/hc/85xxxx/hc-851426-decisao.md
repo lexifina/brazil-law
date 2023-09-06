@@ -1,0 +1,25 @@
+DECISÃO
+ALEX VICTOR RIBEIRO LEITE e ALISSON DA CRUZ INACIO alegam sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0015808-03.2020.8.19.0014.
+Consta dos autos que os pacientes foram condenados, em primeiro grau, a 3 anos, 7 meses e 6 dias de reclusão, em regime fechado, mais multa, como incursos nos arts. 35, c/c o art. 40, IV, ambos da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento aos recursos e tornou as reprimendas definitivas em 3 anos e 6 meses, em regime semiaberto, mais multa, para Alex, e a 4 anos e 1 mês de reclusão, em regime semiaberto, mais multa, para Alisson.
+Nas razões do writ, a defesa postula a absolvição dos réus em relação à prática do delito de associação para o tráfico.
+Decido.
+O Tribunal de origem p reservou a condenação dos réus pelo crime de associação para o tráfico com base nos argumentos seguintes (fl. 88, grifei):
+Verifica-se que as provas carreadas aos autos são firmes e seguras no sentido de proclamar o real envolvimento dos denunciados no delito de associação para o tráfico, na medida em que foram presos em flagrante em poder de rádio comunicador e de uma arma de fogo municiada, em conhecido ponto de venda de drogas dominado pela facção ADA.
+O dolo específico, consistente no ânimo associativo, é manifesto diante das circunstâncias fáticas acima delineadas que revelam com clareza o ajuste prévio no sentido da formação de um vínculo associativo de fato, de caráter estável e permanente.
+Faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, de Rel. Ministro Rogerio Schietti, DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+Nos autos em exame, a Corte estadual, em nenhum momento, fez referência ao vínculo associativo estável e permanente porventura existente entre o réu e os supostos demais traficantes da comunidade; ao contrário, entendeu devida a condenação pela associação tão somente pelo fato de o ora paciente haver sido preso com drogas em local supostamente dominado por facção criminosa e por haver sido preso com rádio comunicador e uma arma.
+Não foi apontado, portanto, nenhuma menção a vínculo estável porventura existente entre eles, de maneira que tenho como inviável a manutenção da condenação pelo tipo penal descrito no art. 35 da Lei n. 11.343/2006, que, conforme mencionado, também exige a estabilidade da associação.
+Por essas razões, justamente porque constatada a associação meramente eventual para a prática do crime de tráfico de drogas, deve ser provido o recurso nesse ponto, para absolver os agravantes em relação ao crime descrito no art. 35 da Lei n. 11.343/2006.
+Em caso semelhante, este Superior Tribunal também decidiu pela absolvição em relação ao delito previsto no art. 35 da Lei de Drogas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. ESTABILIDADE E PERMANÊNCIA NÃO COMPROVADAS NO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL EXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para a configuração do crime de associação para o tráfico exige-se a demonstração do vínculo de estabilidade e permanência entre duas ou mais pessoas, nos termos do art. 35, caput, da Lei n.º 3.433/2006.
+2. Na hipótese, nem sequer foi ressaltada a existência objetiva de vínculo estável e permanente, sendo que a Corte de origem limitou-se a afirmar que a localidade era dominada por facções criminosas, sendo "impossível que alguém realize o comércio ilícito de entorpecentes sem pertencer a tais organizações espúrias ou aliar-se a seus chefes" (fl. 41).
+3. "A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa." (HC 462.888/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/10/2018, DJe 05/11/2018; sem grifos no original.)
+4. Agravo regimental desprovido.
+(AgRg no HC n. 542.065/RJ, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/6/2020)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de absolver os réus da prática do delito de associação para o tráfico.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
