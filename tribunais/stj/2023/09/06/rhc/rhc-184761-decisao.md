@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Fabricio Leandro da Si lva contra o acórdão do Tribunal de Justiça da Paraíba, que denegou o Habeas Corpus n. 0805138-18.2023.8.15.0000 (fls. 414/415):
+HABEAS CORPUS. EXCEÇÃO DE SUSPEIÇÃO. ATRASO DE AUDIÊNCIA DEVIDAMENTE JUSTIFICADO. ADIAMENTOS DE AUDIÊNCIAS POR CULPA DA PRÓPRIA DEFESA. NÃO HÁ NENHUM FATO CONCRETO A INDICAR A PERDA DA IMPARCIALIDADE DO MAGISTRADO. EXCESSO DE PRAZO. NÃO CONFIGURADO.
+DENEGAÇÃO DA ORDEM.
+- O atraso da audiência aprazada para o dia 15/02/2023 foi devidamente justificado e dada prévia ciência às partes e aos servidores, pois o magistrado estava substituindo a juíza titular da 2ª Vara Mista da Comarca de Sousa/PB - que estava em gozo de licença maternidade - além de estar presidindo, concomitantemente, audiências nas 3ª e 4ª Varas Mistas daquela Comarca (ID 20305536 e ID 20125919 - Págs. 38/72).
+- A defesa não compareceu, nem de forma virtual, à audiência agendada para o dia seguinte (16/02/2023), obrigando o magistrado a, mais uma vez, adiar o ato, desta vez para o dia 01/03/2023, sendo novamente adiado a pedido da defesa - tudo conforme ID 20305536.
+- Não há nenhum fato concreto a indicar a perda da imparcialidade do magistrado, de forma que a decisão dele deve ser mantida.
+- O Juízo de origem promoveu o regular andamento do feito, o qual, em análise aos autos principais, vê-se que já foi proferida sentença na qual julgou parcialmente procedente a , denúncia e condenou o paciente nas sanções descritas nos arts. 33 e 35, da Lei 11.343/2006 com incidência das causas de aumento previstas no art. 40, incisos V e VI, da Lei 11.343/2006 e art. 310, da Lei nº 9.503/1997, c/c o art. 69 do Código Penal. Na ocasião, o magistrado manteve a prisão preventiva do paciente.
+- A adequação da prisão preventiva ao presente caso, sua proporcionalidade e existência de motivos idôneos, tem-se que não há como afastá-la ou sequer substituí-la por prisão domiciliar ou por outras medidas cautelares não prisionais, nos termos do art. 282, § 6º, do CPP.
+O recorrente foi condenado às penas de 21 anos e 3 meses de reclusão, além do pagamento de 2.563 dias-multa, por infração dos arts. 33 e 35 da Lei n. 11.343/2006, com incidência das causas de aumento previstas no art. 40, V e VI, da Lei n. 11.343/2006, e art. 310 da Lei n. 9.503/1997, c/c o art. 69 do Código Penal.
+Aponta-se no presente recurso ordinário ilegalidade em razão do não conhecimento da exceção de suspeição, sob o fundamento de que houve "equívoco no procedimento", visto que, segundo o Juízo a quo, a arguição deveria ter sido efetivada de forma apartada aos autos principais.
+Afirma-se que os fatos narrados nos autos demonstram a quebra da imparcialidade do Magistrado. Alega-se que, a todo momento, o Magistrado interrompeu o momento de fala do causídico, inclusive em tom sarcástico, perguntando se a sala de audiência era seu escritório ou sua casa e que, em nenhum momento, a defesa pleiteou pela audiência virtual, foi uma decisão própria do Magistrado, de forma a tentar "obrigar" o causídico a realizar o ato naquele momento, por simples "birra" do Magistrado (fls. 452/454).
+Sustenta-se que a exceção de suspeição teria que ser autuada em apartado, nos termos dos arts. 97 e 98 do CPP, o que não ocorreu.
+Postula-se a anulação da condenação criminal albergada no período de 21 (vinte e um) anos por estar imbricada com parcialidade do magistrado, de modo que se revolva os autos para realização de nova instrução criminal e consequentemente, em razão do excesso de prazo na formação da culpa, o relaxamento da prisão provisória decretada em face do paciente (fl. 458).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 466/472).
+É o relatório.
+O inconformismo não prospera.
+Como bem destacou o acórdão impugnado, além de a pretensão do ora recorrente não se encontrar presente nas hipóteses previstas no art. 254 do CPP, não há nenhum fato concreto a indicar a perda da imparcialidade do Magistrado, de forma que a decisão deve ser mantida (fls. 419/420):
+O impetrante alega que a decisão de não conhecimento da exceção de suspeição tratou-se de coação ilegal pelo magistrado de 1º grau, pois este a fundamentou no fato de a defesa não ter peticionado em autos apartados.
+Na mencionada arguição de suspeição (ID 20125919), a defesa afirma não ter participado da audiência realizada no dia 15/02/2023 por não concordar com o início tardio do ato, com fulcro no art. 7º, XX, do Estatuto da Advocacia e da OAB.
+Alegou que, na ocasião, o magistrado (ID 20125919 - Pág. 45):"( ) resolveu mencionar que nomearia um defensor ad hoc/dativo OU determinar a redesignação da audiência de instrução para amanhã (16/02/2023) as 8 h de forma presencial ciente de que o advogado de defesa estaria a aproximados 500 (quinhentos) km de distância, em outro Estado e cerca de 6 (seis) horas de deslocamento", motivo pelo qual o magistrado teria agido de forma parcial.
+Ocorre que, o atraso da audiência aprazada para o dia 15/02/2023 foi devidamente justificado e dada prévia ciência às partes e aos servidores, pois o magistrado estava substituindo a juíza titular da 2ª Vara Mista da Comarca de Sousa/PB - que estava em gozo de licença maternidade - além de estar presidindo, concomitantemente, audiências nas 3ª e 4ª Varas Mistas daquela Comarca (ID 20305536 e ID 20125919 - Págs. 38/72).
+Frise-se que a defesa não compareceu, nem de forma virtual, à audiência agendada para o dia seguinte (16/02/2023), obrigando o magistrado a, mais uma vez, adiar o ato, desta vez para o dia 01/03/2023, sendo novamente adiado a pedido da defesa - tudo conforme ID 20305536.
+Ademais, as causas de suspeição do julgador previstas no art. 254 do CPP são taxativas, não comportando interpretação ampliativa, conforme entendimento do STF.
+Na mesma linha, o parecer do Ministério Público Federal (fls. 470):
+Conforme consta das informações prestadas pelo Magistrado de primeiro grau, o atraso para se dar início à audiência inicialmente designada para o dia 15/02/23 está devidamente justificado nos autos, como segue:
+Designada audiência de Instrução e Julgamento para o dia 15 de fevereiro de 2023, às 11h30min, entretanto, a referida a audiência foi iniciada às 13h08min, atraso este informado as partes integrantes do presente feito, bem como aos servidores desta Unidade, tendo sido a todos dada prévia ciência de que este magistrado, atuando em substituição à MM. Juíza Dra. Caroline Silvestrini Campos Rocha desta 2ª Vara de Sousa, por designação da Presidência do TJPB, haja vista a magistrada titular encontrar-se no gozo de licença maternidade, encontrava- se presidindo audiências previamente agendadas na 4ª Vara desta Comarca, Unidade da qual é juiz titular, bem como na 3ª vara, onde é substituto legal (fl. 380 e-STJ).
+ ..  a defesa do réu, ao que consta, no dia 15/02/23, aguardou até que o Magistrado adentrasse a sala de audiências para ntão se negar a participar da audiência, em razão do atraso para seu início.
+Além disso, conforme conta dos autos, o Juízo de primeiro grau, atendendo ao pedido da defesa do réu, adiou por três vezes a audiência de instrução, sendo que o patrono do réu, em uma das vezes, sequer compareceu à sala virtual para participar do ato.
+É oportuno destacar também que o mero desentendimento entre o juiz e a defesa do acusado, no exercício de suas atribuições, não é elemento suficientemente apto a configurar o impedimento do magistrado.
+Nesse sentido, de acordo com o entendimento jurisprudencial do STF, o rol do artigo 254 do Código de Processo Penal é taxativo e não comporta interpretação extensiva.
+Em consonância com o posicionamento adotado no Tribunal estadual, confiram-se os precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. REPRESENTAÇÃO CRIMINAL. SUSPEIÇÃO. NÃO OCORRÊNCIA. INTEMPESTIVA. DESCONTENTAMENTO COM JULGADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "As causas de impedimento e suspeição de magistrado estão dispostas taxativamente no Código de Processo Penal, não comportando interpretação ampliativa" (AgRg no AREsp 1.881.330/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/9/2021).
+2. Ajuizada exceção de suspeição comente 2 anos após o ato judicial praticado, é intempestiva a irresignação.
+3. Ademais, o fato de um magistrado não acolher alegação de uma das partes não importa em sua suspeição, e alegar tal questão merece rejeição imediata, como no caso em tela.
+4. Por fim, não se admite a utilização da exceção de suspeição como sucedâneo recursal.
+5. Agravo regimental desprovido.
+(AgRg no AgRg no AgRg no AREsp n. 772.761/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/6/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPEDIMENTO/SUSPEIÇÃO DE MAGISTRADO. ROL TAXATIVO. AMPLIAÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. "As causas de impedimento e suspeição de magistrado estão dispostas taxativamente no Código de Processo Penal, não comportando interpretação ampliativa" (AgRg no AREsp 1.881.330/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/9/2021).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 646.746/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/2/2022).
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. EXCEÇÃO DE SUSPEIÇÃO NÃO CONHECIDA. PARCIALIDADE NÃO DEMONSTRADA. MERO DESENTENDIMENTO ENTRE ADVOGADO E MAGISTRADO. SITUAÇÃO NÃO PREVISTA NO ROL TAXATIVO DO ART. 254 DO CPP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso ordinário improvido.
