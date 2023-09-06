@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por MARIA DA SILVA MOURA - preso cautelarmente no dia 1/8/2023 pela suposta prática do crime previsto no artigo 121, § 2º, inciso III combinado com art. 14, inciso II, do CP - contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.174182-8/000 ).
+Inconformada, a defesa impetrou habeas corpus na Corte estadual, alegando, naquela oportunidade, ausência de fundamentos para a prisão preventiva. O Tribunal, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 207):
+EMENTA: HABEAS CORPUS - CRIME DE HOMICÍDIO QUALIFICADO TENTADO - PRISÃO PREVENTIVA - REVOGAÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS CONSTANTES DOS ARTS. 312 E 313 DO CPP - GRAVIDADE CONCRETA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+- Não acarreta constrangimento ilegal a manutenção da prisão preventiva que leva em consideração a necessidade do acautelamento da paciente como forma de garantia da ordem pública, evidenciada por fatos objetivos colhidos no feito originário.
+- Cabível a prisão preventiva quando satisfeitos os requisitos dos artigos 312 e 313 do Código de Processo Penal. - As circunstâncias do delito indicam a gravidade concreta da conduta e, assim, justificam a prisão preventiva para a garantia da ordem pública.
+v.v. 1. A decretação da prisão cautelar feita com base em clamor público ou existência de relação amorosa entra a paciente e a vítima, por si só, não constituem fundamento idôneo para manter a custódia cautelar. 2. Evidenciada a ilegalidade se não apontado qualquer elemento concreto que efetivamente demonstre a presença dos requisitos previstos no art. 312 do Código de Processo Penal, exigidos para embasar toda segregação imposta antes do trânsito em julgado de sentença. 3. Por mais compreensíveis que sejam os reclamos sociais por justiça, não se reveste a prisão cautelar de função punitiva. 4. Ordem concedida.
+Na presente oportunidade, a defesa reafirma a alegação de ausência de fundamentos da decisão que decretou a prisão preventiva, destacando tratar-se de recorrente idosa, com bons antecedentes.
+Diante disso, pede, em liminar e no mérito, a concessão da liberdade provisória ao recorrente, com a aplicação de medidas cautelares previstas no artigo 319 do CPP.
+É o relatório, decido.
+O presente recurso é mera reiteração do HC n. 851.149/MG - apresenta as mesmas partes, causa de pedir e pedido, no qual em decisão monocrática por mim proferida em 31/8/2023, não conheci do habeas corpus.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC 253.038/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), Sexta Turma , julgado em 11/04/2013, DJe 23/04/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao recurso em habeas corpus.
+Intimem-se.
+EMENTA
