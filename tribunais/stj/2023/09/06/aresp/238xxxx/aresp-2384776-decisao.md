@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAERSK LOGISTC & SERVICES BRASIL LTDA. (MAERSK) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, MAERSK alegou a violação dos arts. 355, 357, § 1º, 489, § 1º, IV, e 1.022, II, do NCPC, e 23, III, da Lei n.º 8.245/91, ao sustentar (1) ausência de fundamentação e omissão do acórdão recorrido acerca da necessidade de saneamento do feito, com a fixação dos pontos controvertidos, para possibilitar às partes a especificação de provas sobre as questões de fato relevantes ao julgamento da causa; e (2) que o desgaste decorrente do uso comercial do imóvel afasta a exigibilidade de qualquer tipo de reparação, mormente porque a locatária, ora recorrente, não pôde participar diretamente dos preparativos no período de sua devolução, por ter o imóvel ficado inacessível por fatos que devem ser imputados a terceiros.
+Trata-se de embargos à execução opostos pela ora insurgente contra V MOREL S.A. AGENTES MARÍTIMOS E DESPACHOS, ao argumento de que a cobrança de aluguéis proporcionais ao atraso na entrega das chaves seria indevida, uma vez que a demora foi motivada por conduta da própria embargada.
+Em primeiro grau, o juiz julgou antecipadamente o mérito do pedido, nos termos do art. 355, I, do NCPC, ante a ausência da necessidade de produção de outras provas.
+(1) Da violação dos arts. 489, § 1º, IV, e 1.022, II, do NCPC
+Nas razões do recurso especial, MAERSK indicou, preliminarmente, ausência de fundamentação e omissão do acórdão recorrido acerca da necessidade de saneamento do feito, com a fixação dos pontos controvertidos, para possibilitar às partes a especificação de provas sobre as questões de fato relevantes ao julgamento da causa.
+Contudo, sem razão.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora recorrente, o TJSP assim se pronunciou:
+Por sua vez, a preliminar de nulidade por cerceamento de defesa igualmente não pode ser acolhida.
+Em se tratando de provas necessárias à instrução processual, vigora no ordenamento jurídico positivo o princípio da convicção motivada ou da persuasão racional do juiz.
+Dessa forma, o juiz, destinatário da prova e, em última análise, único legitimado para decidir acerca da suficiência do quadro probatório constante dos autos, entendendo que a matéria controvertida estava suficientemente esclarecida, julgou o mérito.
+Assim, sendo o juiz diretor do processo, cabe a ele decidir sobre a produção de outras provas requeridas pelas partes.
+Na lição de Cândido Rangel Dinamarco, "é necessário que o requerimento de provas seja especificado e justificado. A parte indicará quais meios de prova pretende e quais os pontos de fato a demonstrar mediante cada um deles" (Instituições de Direito Processual Civil, 6ª ed., v. III, Malheiros, p. 578-579).
+No caso, era mesmo desnecessária a oitiva dos representantes legais da embargada e do funcionário responsável pelo envio dos e-mails de fls. 45/50, vez que a parte recorrente não esclareceu minimamente os fatos que pretendia demonstrar por meio da prova mencionada.
+Ademais, a genérica alegação de que a documentação apresentada se encontra incompleta não justifica a intimação da parte contrária para promover a sua complementação, por se tratar de fato constitutivo do direito da embargante, sobretudo porque a recorrente sequer descreveu os termos do suposto ajuste omitido em referida comunicação (e-STJ, fls. 228/229).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do NCPC, o que busca MAERSK é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original.)
+Não se verifica, assim, a apontada ofensa à lei processual.
+(2) Da violação ao art. 23, III, da Lei n.º 8.245/91
+Por sua vez, argumentou que o desgaste decorrente do uso comercial do imóvel afasta a exigibilidade de qualquer tipo de reparação, mormente porque a locatária, ora recorrente, não pôde participar diretamente dos preparativos no período de sua devolução, por ter o imóvel ficado inacessível por fatos que devem ser imputados a terceiros.
+Sobre essa questão, a Corte local assim consignou:
+A cláusula 4.2 do contrato de locação prevê que compete a locatária zelar pela conservação e manutenção interna do imóvel, bem como devolvê-lo nas mesmas condições em que o recebeu, ressalvadas as hipóteses de desgaste natural do bem (fl. 38), em consonância com o disposto no art. 23, III, da Lei nº 8.245/91.
+Como bem decidido pelo juízo de primeiro grau, não houve comprovação de que os serviços de terraplanagem tenham sido uma condição à devolução do imóvel locado. De qualquer modo, dispondo-se a embargante a realizá-lo, na ausência de qualquer tratativa entre as partes no tocante à entrega das chaves, por certo, a efetiva devolução do imóvel apenas se concretizaria após à conclusão dos serviços.
+Ademais, não é crível que a embargante tenha efetuado a terraplanagem dos terrenos mencionados e assumido elevado custo financeiro se tal providência não fosse imprescindível para recompô-los ao estado anterior. Afinal, se tal exigência dita irregular tivesse efetivamente partido da locadora, bastaria a embargante se valer da medida processual cabível e consignar as chaves judicialmente, o que não ocorreu.
+Veja-se, inclusive, que a devolução somente não ocorreu em momento anterior em razão da existência de pedras e contêineres no local, conforme se verifica das fotografias de fl. 46, o que foi reiterado pelo e-mail enviado em 26/12/2013 pelo locador (fl. 47), não havendo falar em fato de terceiro no caso concreto, mas sim em culpa in eligendo da prestadora de serviços contratada pela recorrente.
+Evidente, portanto, que o imóvel não se encontrava livre e desembaraçado na data apontada pela recorrente (12/12/2013), devendo a locatária arcar com o pagamento do aluguel e multa proporcionais devidos até a data da efetiva entrega das chaves (03/01/2014), além das despesas de consumo em aberto (e-STJ, fls. 229/230).
+Desse modo, para ultrapassar a conclusão firmada no aresto combatido seria necessária a interpretação de disposições do contrato de locação firmado entre as partes, bem como o reexame dos fatos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LOCAÇÃO COMERCIAL. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. (2) DA RESTITUIÇÃO DO IMÓVEL. CUMPRIMENTO DO ART. 23, III, DA LEI N.º 8.245/91. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
