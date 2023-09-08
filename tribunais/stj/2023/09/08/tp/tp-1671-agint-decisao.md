@@ -1,0 +1,6 @@
+DECISÃO
+Nesta Corte - uma vez considerados presentes os pressupostos legais necessários para a instauração da competência cautelar do STJ e para a atribuição de efeito suspensivo, em caráter excepcional, ao Recurso Especial até então ainda não interposto -, restou deferida a medida liminar, neste Pedido de Tutela Provisória, para suspender a conversão em renda dos depósitos judiciais, até ulterior deliberação, ensejando a interposição do presente Agravo interno.
+Instadas as partes a manifestarem-se sobre a eventual subsistência de interesse processual no julgamento do mérito do presente Agravo interno, a parte agravada informou a perda superveniente do objeto do feito e requereu sua extinção, sem exame do mérito. O ente público agravante, por sua vez, informou que, "em 27 de fevereiro de 2023, a Fazenda Pública do Estado do Amazonas e o Grupo Natura celebraram acordo para quitação global dos débitos, por meio de adesão ao REFIS. O acordo já foi homologado nas execuções fiscais. Os valores discutidos na presente tutela provisória foram abrangidos pelo acordo, de forma que se requer a extinção do processo por perda do objeto, concordando com o pedido da NATURA COSMÉTICOS S/A".
+Ante o exposto, com fundamento no art. 34 do RISTJ, julgo prejudicado o Pedido de Tutela Provisória e o subsequente Agravo interno.
+I.
+EMENTA
