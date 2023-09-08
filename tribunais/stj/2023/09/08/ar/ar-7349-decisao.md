@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por BERNADETE PEZZI TODESCHI pretendendo rescindir decisão monocrática proferida pelo em. Ministro RICARDO VILLAS BÔAS CUEVA, que deu "provimento ao recurso especial, a fim de reconhecer a decadência e extinguir o feito com resolução de mérito, nos termos do art. 487, II, do Código de Processo Civil de 2015" (na fl. 1.122).
+Afirma a parte autora que "a lide envolvendo a relação jurídica é de trato sucessivo, natureza essa que afasta o instituto da decadência, eis que com a percepção periódica das obrigações, renova-se a cada mês o prazo decadencial para o ajuizamento da ação" (na fl. 7).
+Conclui que, "enfim, não há que ser aplicado o instituto da decadência, devendo a decisão ser revista, com fulcro no que dispõe o artigo 966, V do CPC, uma vez que a decisão proferida foi manifestamente contrária ao ordenamento jurídico, conforme ampla jurisprudência" (na fl. 9).
+Requer a rescisão do julgado para propiciar novo julgamento do recurso especial.
+É o relatório. Decido.
+A ação rescisória não merece trânsito.
+Deveras, a decisão rescindenda deu "provimento ao recurso especial, a fim de reconhecer a decadência e extinguir o feito com resolução de mérito, nos termos do art. 487, II, do Código de Processo Civil de 2015" (na fl. 1.122).
+Considerou, para tanto que "a Segunda Seção desta Corte Superior, ao julgar o REsp nº 1.201.529/RS, entendeu que se aplica o prazo de decadência de 4 anos (art. 178, § 9º, V, "b", do Código Civil/1916; art. 178, II, do Código Civil/2002) quando o participante ou assistido pretender a revisão de benefício previdenciário complementar com base em critérios de plano que não rege mais a relação jurídica mantida entre as partes, visto que seria necessário anular, por vício de consentimento, o contrato ou a transação extrajudicial firmada posteriormente, alteradora das condições inicialmente pactuadas" (na fl. 1.120).
+Assim a ação rescisória não merece acolhimento, porquanto a decisão rescindenda adota acerca da decadência do direito da parte o entendimento pacificado pela eg. Segunda Seção desta Corte no julgamento do REsp nº 1.201.529/RS.
+Confira-se, a propósito a ementa do julgado:
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DE PENSÃO. ÍNDICE DE CONTRIBUIÇÃO. FAIXA ETÁRIA. RENDA MENSAL INICIAL. REVISÃO DO CÁLCULO. NEGÓCIO JURÍDICO. VÍCIO DE CONSENTIMENTO. ANULAÇÃO. DECADÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. Nos termos do art. 75 da LC 109/2001, assim como ocorria sob a égide da legislação anterior (Lei 3.807/60, Decreto 72.771/73 e Lei 8.213/91), a prescrição para reclamar o direito a prestações de benefício previdenciário é parcial, vale dizer, atinge apenas as prestações vencidas em período anterior a cinco anos do ajuizamento da ação.
+3. Hipótese, todavia, em que o autor da ação não se limita a pleitear prestações com base no contrato previdenciário em vigor quando se tornou elegível ao benefício. Pretende alterar a base da relação jurídica entre as partes; modificar o próprio contrato em que assentado equilíbrio atuarial do plano de previdência. Como fundamento para o pedido de revisão do benefício, invoca critérios estabelecidos no contrato celebrado em 1950, o que dependeria da anulação do contrato de 1983, que o substituiu, por vício de consentimento, pretensão sujeita ao prazo de decadência de 4 anos (art. 178, § 9º, V, "b", Código Civil de 1916, vigente à época dos fatos, correspondente ao art. 178, inc. II, do CC/2002).
+4.Recurso especial provido.
+(REsp n. 1.201.529/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 11/3/2015, DJe de 1/6/2015.)
+A título de exemplos mais recentes, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO E DEU PARCIAL PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Nos termos da jurisprudência da Segunda Seção desta Corte Superior, nas demandas voltadas à percepção de diferenças advindas de critérios previstos em plano de previdência privada extinto, sobressai a incidência do prazo decadencial de 4 (quatro) anos para o exercício do direito potestativo de pleitear a anulação de negócio jurídico. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.528.626/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/11/2021, DJe de 25/11/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES. REDUÇÃO DO PERCENTUAL E RESTITUIÇÃO DA DIFERENÇA. VÍCIO DE CONSENTIMENTO. DECADÊNCIA. PRESCRIÇÃO. IMPOSSIBILIDADE DE REVISÃO. CASO DE PARIDADE. INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+1. "A Segunda Seção desta Corte, no julgamento do REsp n. 1.201.529/RS, firmou entendimento segundo o qual a pretensão revisional de benefício de previdência privada que tem como pressuposto necessário a anulação, por vício de consentimento, de contrato ou transação extrajudicial, está sujeita ao prazo decadencial de 4 (quatro) anos, previsto no art. 178, § 9º, V, b, do CC/1916, vigente à época dos fatos. Isso porque seria necessário declarar previamente a nulidade, por vício de consentimento, do ato negocial transigido, com a repristinação do contrato original" (AgInt no AgInt no AREsp 858.426/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 17/04/2018).
+2. No caso, contudo, a recorrente não alegou a decadência, limitando-se a defender a prescrição rechaçada pela Corte local, de modo que, em respeito ao princípio da correlação, o tema não pode ser revisto por esta Corte, ainda que o acórdão esteja em desacordo com a jurisprudência consolidada.
+3. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.530.316/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REPETIÇÃO DE INDÉBITO. 1. ART. 75 DA LC N. 109/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 2. PRETENSÃO DE REDUÇÃO DO PERCENTUAL DE CONTRIBUIÇÃO E RESTITUIÇÃO DA DIFERENÇA. VÍCIO DE CONSENTIMENTO. ANULAÇÃO. DECADÊNCIA DO DIREITO. PRECEDENTES. 3. AGRAVO INTERNO DESPROVIDO.
+1. Não havendo a manifestação do Tribunal de origem sobre os artigos apontados como violados, a despeito da oposição de embargos de declaração, revela-se impossível o conhecimento do recurso especial, em razão da falta de prequestionamento da matéria (Súmula 211/STJ).
+2. Nos termos da jurisprudência desta Corte Superior, está sujeita ao prazo decadencial de 4 (quatro) anos previsto no art. 178, § 9º, V, "b", do CC/1916, vigente à época dos fatos, a pretensão de revisão de benefício de previdência privada que tem como pressuposto a anulação, por vício de consentimento, de contrato ou transação extrajudicial.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.838.142/R J, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/8/2020, DJe de 17/8/2020.)
+Logo, não há se falar em manifesta violação a norma jurídica porque a decisão rescindenda fez incidir ao caso concreto a uníssona jurisprudência desta Corte acerca do tema.
+Ante o exposto, julgo improcedente a ação rescisória.
+Publique-se.
+EMENTA
