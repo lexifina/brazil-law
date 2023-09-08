@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de MARLON WESLEY RODRIGUES DE OLIVEIRA e ARMANDO BERNARDO FILHO contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0006455-91.2018.8.19.0083.
+Consta nos autos que os Pacientes foram condenados às penas de 5 (cinco) anos de reclusão e 1.166 (mil cento e sessenta e seis) dias-multa (MARLON WESLEY) e 4 (quatro) anos, 4 (quatro) meses e 15 (quinze) dias de reclusão e 1.020 (mil e vinte) dias-multa (ARMANDO BERNARDO), como incursos no art. 35, caput, c.c. o art. 40, incisos IV e VI, ambos da Lei n. 11.343/2006. Foi fixado o regime fechado para o início do cumprimento da pena reclusiva.
+Em seguida, o Tribunal de origem negou provimento à apelação defensiva e aos respectivos embargos infringentes.
+Neste writ, a Defensoria Pública sustenta, em suma, a ausência de fundamentação idônea para o aumento da pena na terceira etapa da dosimetria em patamar superior a 1/6 (um sexto).
+Requer, no mérito, "seja concedida a ordem, para, desconstituindo-se no ponto aqui questionado o v. Acórdão, reduzir a fração de aumento das penas do crime de associação para o tráfico, na terceira fase, para 1/6 (um sexto)" (fl. 8).
+Foram prestadas informações às fls. 172-175.
+O Ministério Público Federal manifestou-se às fls. 181-185, opinando pelo não conhecimento ou pela denegação da ordem.
+É o relatório. Decido.
+No caso, em relação à terceira etapa da dosimetria da pena dos Pacientes, o Juízo sentenciante assim se manifestou (fl. 67; sem grifos no original):
+"Incidem, na espécie, as causas de aumento dispostas nos incisos IV e VI do artigo 40 da Lei 11.343/06, já que a associação criminosa da qual participava o réu utilizava armas fogo de alta potencialidade lesiva, tais como fuzis, como meio de intimidação difusa e coletiva, e contava com a participação de adolescentes, que eram recrutados para integrar a associação criminosa e praticar crimes. Diante disso, majoro em 1/4 (um quarto) a pena  .. ."
+O Tribunal estadual manteve o aumento da pena, com a seguinte fundamentação (fl. 157):
+" ..
+Quanto à incidência de ambas as causas não divergiram os votos vencedor e vencido.
+Houve dissonância, todavia, quanto ao percentual de majoração a ser adotado. De fato, o entendimento jurisprudencial firmado pelo C. STJ é no sentido de que "o aumento de pena, em patamar acima do mínimo legal, em razão da incidência das causas de aumento previstas no art. 40 da Lei n.º 11.343/2006, exige fundamentação concreta e idônea, devendo o magistrado indicar circunstâncias fáticas do delito, constantes dos autos, que justifiquem a exasperação da reprimenda em fração superior." (HC n. 451.561/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/2/2019, DJe de 18/2/2019.)
+Na espécie, o voto vencedor do Acórdão embargado trouxe fundamentação adequada para fazer incidir o percentual adotado (1/4), consignando que restou comprovada a utilização de armamento pelos integrantes da facção criminosa, assim como a participação de menores de idade.
+Não há que se cogitar de excesso, pois bem fundamentado o patamar adotado, sendo certo que a dosimetria não resulta de mero cálculo matemático."
+Destaco que o aumento de pena em patamar acima do mínimo legal, em razão da incidência das causas de aumento previstas no art. 40 da Lei n. 11.343/2006 exige fundamentação concreta e idônea, devendo o Magistrado indicar circunstâncias fáticas do delito, constantes dos autos, que justifiquem a exasperação da reprimenda em fração superior.
+Na espécie, o Juízo de primeiro grau aumentou a pena em 1/4 (um quarto), pois "a associação criminosa da qual participava o réu utilizava armas fogo de alta potencialidade lesiva, tais como fuzis, como meio de intimidação difusa e coletiva, e contava com a participação de adolescentes, que eram recrutados para integrar a associação criminosa e praticar crimes". Desse modo, é razoável a majoração da pena em patamar mais severo tendo em vista a fundamentação exposta.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA. FRAÇÃO DA CAUSA DE AUMENTO DE PENA DEVIDAMENTE JUSTIFICADA. REDUTOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. O Tribunal de origem justificou devidamente o aumento da pena em 1/2, na terceira fase da dosimetria, em razão da majorante do art. 40, IV, da Lei n. 11.343/2006, de forma que não há violação do referido dispositivo legal.
+6. Porque mantida a condenação do acusado pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 em seu favor.
+7. Agravo regimental não provido." (AgRg no AREsp n. 2.094.319/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2022, DJe 10/6/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DOS ARTS. 33 C/C 40, INCISOS III E IV; E ARTS. 35, C/C 40, INCISOS III E IV, TODOS DA LEI 11.343/06 E ART. 333, PARÁGRAFO ÚNICO, NA FORMA DO ART. 69, AMBOS DO CÓDIGO PENAL. PROCESSO PENAL. NULIDADES. ALEGAÇÕES. BIS IN IDEM NA APURAÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. NÃO REALIZAÇÃO DA OITIVA DE TESTEMUNHAS DE DEFESA. AUSÊNCIA DO RÉU NO ATO PROCESSUAL. OFENSA À AMPLA DEFESA. ILEGALIDADE. NÃO OCORRÊNCIA. NÃO DEMONSTRAÇÃO DE PREJUÍZO EFETIVO À DEFESA. DOSIMETRIA. PENA-BASE. FUNDAMENTADA VALORAÇÃO GRAVOSA DAS CIRCUNSTÂNCIAS DO CRIME. MAJORANTE DO INC. IV, DO ART. 35, DA LEI 11.343/06. DESNECESSÁRIA APREENSÃO DE ARMA DE FOGO. FRAÇÃO DE AUMENTO. PROPORCIONALIDADE. FUNDAMENTAÇÃO CONCRETA. RECURSO IMPROVIDO.
+ ..
+9. Nos termos da orientação desta Corte, se for empregada fundamentação concreta, é permitido ao julgador fixar a causa de aumento prevista no art. 40, IV da Lei 11.343/2006 em patamar superior ao mínimo de 1/6, como no caso, em que a fração de 1/2 foi estabelecida em razão da considerável potencialidade lesiva do armamento (fuzis e respectivas munições).
+10. Agravo regimental improvido." ( AgRg no HC n. 555.960/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/6/2020, DJe 23/6/2020; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. INCIDÊNCIA DAS CAUSAS DE AUMENTO PREVISTAS NOS INCISOS IV E VI DO ART. 40 DA LEI N. 11.343/2006. FRAÇÃO SUPERIOR A 1/6 (UM SEXTO). FUNDAMENTAÇÃO CONCRETA. ORDEM DENEGADA.
