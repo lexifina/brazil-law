@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, nesses termos ementado:
+CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LICENÇA PRÊMIO NÃO USUFRUÍDA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. A base de cálculo para a conversão da licença-prêmio em pecúnia deve ser a remuneração do servidor à época em que o benefício poderia ser usufruído, nele inclusos adicionais e gratificações.
+Os embargos de declaração opostos não foram providos.
+Sustenta a parte recorrente que o acórdão regional contrariou as disposições dos arts. (a) 1.022, I e II, do CPC, pois, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso; (b) 502, 505, 507 e 535, IV, do CPC e arts. 876 e 884 do CC, sob o fundamento de que a manutenção do abono de permanência na base de cálculo do pagamento de licença-prêmio em pecúnia, não é cabível por ter natureza indenizatória, além de violar a coisa julgada e, portanto, importar em excesso de execução.
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+De fato, a parte ora recorrente reporta que existe um acordo judicial firmado entre as partes, no qual excluiu-se da base de cálculo do pagamento da licença-prêmio em pecúnia a verba intitulada abono de permanência e que sob este acordo recai o manto da coisa julgada.
+Observo que deveria ter havido a manifestação expressa na origem sobre a questão suscitada, o que não ocorreu por falha do Tribunal a quo, o qual não dirimiu, como deveria, a controvérsia nos autos.
+Manifesta a doutrina no sentido de que
+uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012).
+Desse modo, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LICENÇA-PRÊMIO NÃO USUFRUÍDA. BASE DE CÁLCULO. ACORDO JUDICIAL. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
