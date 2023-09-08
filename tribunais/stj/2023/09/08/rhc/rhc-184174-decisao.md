@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JAMESSON DE LIMA ARAÚJO - preso cautelarmente no dia 20/12/2022 e denunciado pela suposta prática do crime de tráfico de drogas - contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado (e-STJ fl. 168):
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. ART. 33, DA LEI 11.343/2006. INSURGÊNCIA CONTRA DECRETAÇÃO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. SEGREGAÇÃO JUSTIFICADA PELA GRANDE QUANTIDADE E VARIEDADE DE DROGAS APREENDIDA. NECESSIDADE DE ASSEGURAR A ORDEM PÚBLICA. HABEAS CORPUS ADMITIDO. ORDEM DENEGADA.
+Nas razões do presente recursos, o recorrente sus tenta, em síntese, a ilegalidade da prisão preventiva decretada sem a presença dos requisitos do art. 312 do CPP, com base apenas na gravidade abstrata do fato, sendo incabível a manutenção da segregação cautelar quando possível a aplicação de outras medidas cautelares diversas da prisão.
+Diante disso, pede, liminarmente e no mérito, a concessão da ordem com o relaxamento da prisão preventiva, convolando-se, ao final, em definitiva a medida.
+A liminar foi indeferida (e-STJ fls. 205/206).
+As informações foram prestadas (e-STJ fls. 213/215) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo desprovimento do recurso (e-STJ fls. 227/235).
+É o relatório, decido.
+Não há mais interesse no julgamento do presente recurso. Isso porque, consoante informações colhidas do site do Tribunal de Justiça do Estado de Alagoas, no dia 31/7/2023 a Ação Penal n. 0700476-75.2022.8.02.0072 foi julgada procedentes e o recorrente condenado à pena a PENA DEFINITIVA em 09 (nove) anos e 02 (dois) meses de reclusão, mantida a prisão preventiva pelos seguintes motivos:
+7 - DIREITO DE RECORRER EM LIBERDADE 53. MANTENHO a prisão preventiva do réu, haja vista a necessidade de salvaguardar a ordem pública, ante as circunstâncias do caso concreto. De fato, estas demonstram a periculosidade em concreto do réu, haja vista a relevante quantidade e variedade das drogas apreendidas, conforme exposto na fundamentação, e tendo em conta, ainda, que o réu é reincidente (0700041-89.2017.8.02.0068), inclusive recentemente foi denunciado pela prática dos delitos de tráfico de drogas, tentativa de homicídio e roubo majorado (0800028-75.2023.8.02.0040), o que demonstra a sua habitualidade criminosa.
+Portanto, trata-se de uma nova situação processual e de novo título judicial a respaldar a prisão preventiva do recorrente, ao destacar que o recorrente é reincidente, visto que há novas razões que não constam do decreto inicial, o qual não foi submetido ao crivo do Tribunal estadual.
+Ante o exposto, com fundamento no art. 34, XVIII, "a" , do RISTJ, julgo prejudicado o presente recurso.
+Intimem-se.
+EMENTA
