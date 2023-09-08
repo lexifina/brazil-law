@@ -1,0 +1,40 @@
+DECISÃO
+ROBSON ALEXANDRE PEREIRA DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 0001521-71.2014.8.26.0589.
+Consta dos autos que o agravante, denunciado pela prática dos delitos de tráfico de drogas e de associação para o tráfico, foi absolvido.
+A defesa aponta, além da divergência jurisprudencial, violação do art. 386 do Código de Processo Penal. Busca a alteração do fundamento de absolvição.
+O reclamo foi inadmitido na origem, o que ensejou o agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento. O recurso especial, contudo, não suplanta integralmente o juízo de prelibação.
+A defesa sustentou haver divergência jurisprudencial. Todavia, não realizou o necessário cotejo analítico entre o decisum impugnado e o paradigma. Assim, o recurso é deficiente de fundamentação, a obstar o seu conhecimento nesse ponto.
+Ilustrativamente: "É entendimento assente neste STJ que a ausência de indicação do artigo e da(s) alínea(s) do dispositivo constitucional que fundamenta o recurso especial, sem que se possa identificar a questão federal em debate, inviabiliza o seu conhecimento (Súmula 284 do STF)" (AgRg no AREsp n. 16.793/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 3/9/2013) e "A demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, tal como ocorreu no presente caso, sendo absolutamente indispensável o cotejo analítico, de sorte a demonstrar a devida similitude fática entre os julgados confrontados" (AgRg no REsp n. 1.971.992/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/3/2023).
+Ademais, os acórdãos apontados como parâmetro do dissídio jurisprudencial foram prolatados em habeas corpus. Conquanto tenha entendimento pessoal diverso, esclareço que:
+ ..  a jurisprudência deste Superior Tribunal de Justiça é pacífica quanto à impossibilidade de acórdão proferido em sede de habeas corpus, mandado de segurança e recurso ordinário servir de paradigma para fins de alegado dissídio jurisprudencial, ainda que se trate de dissídio notório, eis que os remédios constitucionais não guardam o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial.
+ ..
+(AgRg no EREsp n. 998.249/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 21/9/2012, destaquei).
+II. Violação do art. 386 do Código de Processo Penal
+O agravante - denunciado pela prática dos delitos previstos no art. 33, caput, c/c o art. 40, V, e art. 35, todos da Lei n. 11.343/2006 - foi absolvido, com fundamento no art. 386, VII, do Código de Processo Penal.
+Interposta apelação pela defesa, a Corte Estadual deu parcial provimento ao recurso, nesse particular, a fim de "alterar o fundamento da sua absolvição no crime de associação para o tráfico, para o inciso II, e no tráfico para o inciso V, ambos do Código de Processo Penal" (fls. 433) pelos seguintes fundamentos (fl. 432):
+ ..  as testemunhas defensivas forneceram informes que dão respaldo à versão exculpatória, permitindo que a absolvição não seja proclamada por mera insuficiência probatória, mas porque deixa entrever que inexiste prova de que o fato tenha ocorrido (inciso II).
+Pelas mesmas razões, a absolvição de Robson no crime de tráfico deve se dar porque não existe prova de que ele tenha concorrido para a infração pena (inciso V).
+Quanto à tese trazida à discussão, e m princípio, esclareço que, em que pese a possibilidade de interposição de recurso para modificação do fundamento da sentença absolutória não ser uníssona na doutrina, em caso semelhante, esta Corte Superior já decidiu que ""O réu absolvido pode apelar da decisão definitiva absolutória para obter a modificação do fundamento legal de sua absolvição quando preenchidos os necessários pressupostos do recurso que são o interesse e a sucumbência" (LIMA, Roberto Brito de. Aspectos penais: sentença absolutória. DireitoNet, São Paulo, 2005)" (AgRg no REsp n. 1.251.271/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 30/4/2021, grifei).
+Nesse sentido, só haverá interesse ou sucumbência a justificar a interposição de recurso quando houver utilidade prática na providência ou ocorrência de prejuízo na manutenção da decisão tal como proferida.
+Sobre a utilidade prática, poderíamos cogitar acerca da repercussão da decisão nas esferas civil ou administrativa. Entretanto, "A absolvição criminal somente tem repercussão nas instâncias civil e administrativa quando a sentença penal absolutória afasta a existência do fato (art. 386, I, CPP) ou a concorrência do réu para a infração penal (art. 386, IV, CPP)" (REsp n. 1.367.482/SC, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe de 13/10/2014). Nos demais casos, não há impedimento para a futura responsabilização civil e administrativa.
+Assim, mantida a possibilidade de responsabilização civil ou administrativa tanto com a absolvição com base no art. 386, II e V, do Código de Processo Penal ou com fundamento no art. 386, III, do mesmo dispositivo legal, não há utilidade prática na modificação sugerida pela defesa.
+Não desconheço, ainda, que "os incisos I, III e IV e VI, primeira parte, do caput do art. 386 do CPP preveem casos em que a inocência do acusado restou comprovada" e "os incisos II, V e VI, segunda parte, e VII contemplam hipóteses de inexistência ou de insuficiência de provas para a condenação" (BADARÓ, Gustavo Henrique Righi Ivahy. Processo Penal. Rio de Janeiro: Elsevier, 2012, destaquei).
+Contudo, independentemente do fundamento da absolvição, conforme nos ensina o professor Renato Brasileiro de Lima, "ainda que a sentença absolutória tenha sido proferida por juízo absolutamente incompetente, ninguém pode ser processado duas vezes pela mesma imputação por força do princípio do ne bis in idem processual" (LIMA, Renato Brasileiro. Manual de Processo Penal: volume único. 4ª ed. rev., ampl. e atual. Salvador: Ed. JusPodivm, 2016), a afastar também por esse viés a utilidade prática do presente recurso.
+De todo modo, o recorrente não indicou nenhuma utilidade ou prejuízo advindo da decisão da instância de origem, o que torna aplicável, no caso, a Súmula n. 284 do STF, pois "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Desse modo, não demonstrados o prejuízo ou a utilidade prática da decisão e, portanto, não demonstrado o interesse e a sucumbência, não há violação legal a ser reconhecida.
+Por fim, esclareço que a pretendida revisão do julgado demandaria reexame fático-probatório, providência vedada em recurso especial, nos termos da Súmula n. 7 do STJ. Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA. ABSOLVIÇÃO. PLEITO DE ALTERAÇÃO DO FUNDAMENTO. NÃO CABIMENTO. SÚMULA n. 7 DO STJ. EMBARGOS DE DECLARAÇÃO. MERO INCONFORMISMO. AGRAVO DESPROVIDO.
+1. A inicial acusatória que preenche os requisitos insculpidos no art. 41 do Código de Processo Penal não pode ser taxada como inepta por assim permitir o pleno exercício do contraditório e da ampla defesa.
+2. Não é o recurso especial a via adequada a alterar o fundamento da absolvição, pois tal pretensão demanda reexame de contexto fático-probatório, encontrando óbice no enunciado da Súmula n. 7 do Superior Tribunal de Justiça. (AgRg no AREsp n. 819.967/TO, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/9/2017, DJe 19/9/2017).
+3.  ..
+4. Agravo regimental desprovido
+(AgInt no AREsp n. 1.285.884/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T, DJe 2/4/2019).
+III. Dispositivo
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
