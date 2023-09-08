@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - DIREITO AMBIENTAL - AÇÃO CIVIL PÚBLICA AMBIENTAL - SUPRESSÃO DE FLORESTA NATIVA OBJETO DE ESPECIAL PRESERVAÇÃO, NA REGIÃO AMAZÔNICA, SEM AUTORIZAÇÃO OU LICENÇA DO ÓRGÃO AMBIENTAL - CONDENAÇÃO EM OBRIGAÇÃO DE FAZER E NÃO FAZER - RECOMPOSIÇÃO DA ÁREA DEGRADADA - DANO MORAL COLETIVO NÃO EVIDENCIADO - RECURSO DESPROVIDO.
+1 - Se comprovado o nexo causal entre o ato ilícito praticado pela degradação de área objeto de especial proteção - Amazônia Legal, surge o dever de recuperação da aérea afetada.
+2 - A caracterização do dano moral coletivo, em razão de dano ao meio ambiente, exige a demonstração de que a infração ambiental causou repulsa a toda a coletividade e inviabilidade de recuperação do ambiente em prejuízo da comunidade. Em vista de o dano ambiental não ultrapassar o limite do tolerável para a coletividade, deve ser afastada a tese de ocorrência do dano moral coletivo.
+3 - Recurso desprovido.
+Quanto à controvérsia recursal, a parte recorrente alega violação dos artigos 1º, inciso I, da Lei n. 7.347/1985; 4º, inciso VII, e 14, § 1º, da Lei n. 6.938/1981; e 944 do Código Civil, no que concerne ao cabimento de responsabilização do agente pelo dano moral coletivo uma vez que é aferível in re ipsa por força da simples violação ao bem jurídico tutelado, qual seja, o meio ambiente ecologicamente equilibrado, sendo, portanto, o dano moral coletivo presumido. E traz a seguinte argumentação:
+A matéria controvertida neste recurso, refere-se, exclusivamente, à possibilidade de o dano moral coletivo ser aferível in re ipsa.
+Embora tenha sido reconhecido que o recorrido foi o responsável pela queima e consequente destruição ilícita de 5,853 hectares de vegetação nativa, objeto de especial preservação (Floresta Amazônica), o Tribunal local negou condená-lo em danos morais coletivos, em acórdão calcado nos seguintes fundamentos:
+ ..
+O aresto é bastante claro ao reconhecer a prática do ato ilícito ambiental, porém, orientando-se por uma premissa equivocada, concluiu que a falta de irreparabilidade ao meio ambiente afasta a percepção de dano coletivo e a necessidade de compensação social.
+Contudo, o meio ambiente constitui um direito fundamental coletivo qualificado como de Terceira Dimensão e de natureza transindividual por excelência, cujo exercício está condicionado à existência de um grupo determinado ou não de pessoas, sendo que sua concretização beneficia a todos e sua violação igualmente afeta a todos.
+Nessa perspectiva, a responsabilização do agente pela retratação do dano moral coletivo se opera por força da simples violação ao bem jurídico tutelado, qual seja, o meio ambiente ecologicamente equilibrado, de modo a tornar-se desnecessária a prova do prejuízo concreto, pois, como assinalado, é aferível in re ipsa.
+Isso significa que ficando comprovada existência do dano, não é necessário demonstrar concretamente prejuízo a toda coletividade, pois o dano coletivo é presumido.
+ ..
+Assim, ocorrendo o dano ambiental, ressai o dever de repará-lo integralmente, incluindo-se nesse conceito a condenação por danos morais e coletivos, conforme jurisprudência dessa Excelsa Corte Especial, in verbis:
+ ..
+No caso concreto, a agressão a valores imateriais da sociedade restou cabalmente explicitada na conduta ilícita do recorrido que inexoravelmente afetou os valores fundamentais coletivos.
+Uma vez que o acórdão reconheceu que a conduta do infrator ambiental efetivamente provocou danos, para além da recuperação do estrago ambiental provocado, impõe-se avaliar a repercussão do prejuízo em sentido amplo e abrangente do dano moral coletivo como consequência inerente à sua aferição presumida e à função punitiva pedagógica da sanção, estando a pretensão amparada nas disposições contidas dos artigos 4º, inciso VII e 14, §1º da Lei nº 6.938/81, artigo 1º da Lei nº 7.347/85 (fls. 229/233).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
