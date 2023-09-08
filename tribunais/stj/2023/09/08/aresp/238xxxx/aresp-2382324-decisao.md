@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. ATIVIDADE DE MANUTENÇÃO DE TACÓGRAFO. EXERCÍCIO ILEGAL DA PROFISSÃO DE ENGENHEIRO OU ARQUITETO. INEXISTÊNCIA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 7º, "g", 59 e 60, todos da Lei n. 5.194/1966; e 1º da Lei n. 6.839/1980, no que concerne à obrigatoriedade do registro da empresa junto ao CREA, em razão da atividade desenvolvida por ela ser técnica da área de conhecimento científico da Engenharia Mecânica, trazendo a seguinte argumentação:
+É INCONTROVERSO que a Recorrida praticou a atividade de MANUTENÇÃO DE VEÍCULOS E EQUIPAMENTOS.
+As atividades relacionadas são afins a área de fiscalização do Conselho porque são necessários conhecimentos nas áreas de Metrologia, soldagem, Elementos de Máquinas, Eletrotécnica, Resistência dos Materiais, Mecânica dos Fluídos, Máquinas de Fluxo etc.
+Assim, destaca-se a previsão dos art. 7º da Lei 5.194/66:
+ ..
+Portanto, verifica-se que a atividade desenvolvida pela empresa se constitui em uma atividade técnica dentro da área de conhecimento científico da Engenharia Mecânica.
+Nesse sentido, o art. 60 da Lei 5.194/60 estabelece a obrigatoriedade do registro para empresas que tenha alguma seção ligada ao exercício profissional da Engenharia. Vejamos:
+ ..
+Destaca-se, também, o entendimento do SUPERIOR TRIBUNAL DE JUSTIÇA no enunciado 135 de Jurisprudência em Tese:
+ ..
+Ademais, a Lei n.º 6.839/1980 determinou que o registro das empresas nas entidades competentes far-se-á, em caráter compulsório, em função da atividade básica por elas desenvolvidas ou em relação àquela pela qual prestem serviços a terceiros. É o que se constata a partir da leitura de seu artigo 1º, abaixo citado:
+ ..
+Assim, a partir dos artigos 7º, 59 e 60 da Lei nº 5.194/66 mencionados, mostra-se plenamente exigível o registro da empresa perante o CREA-PR, já que as atividades desenvolvidas pela empresa referem-se à área de engenharia.
+Portanto, no caso em apreço, a empresa está obrigada a registrar-se neste Conselho, seja em razão da sua atividade básica, a qual é da Engenharia, seja em razão da prestação de serviços a terceiros, nos termos do supracitado dispositivo legal.
+(fls. 377-378).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, em relação ao art. 59 da Lei n. 5.194/1966, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou o dispositivo de lei fe deral, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial". (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Na mesma linha: "A alegação genérica de ofensa a dispositivo legal desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa de que forma o acórdão recorrido teria transgredido os dispositivos legais relacionados atrai a aplicação da Súmula 284 do STF." (AgInt no AREsp n. 1.849.369/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 10/5/2022.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.826.355/RN, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/8/2020; AgInt no AREsp n. 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp n. 1.617.627/RJ, AgInt no AREsp n. 1.617.627/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg no REsp n. 1.690.449/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/12/2019; AgRg no AREsp n. 1.562.482/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/11/2019; AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 12/8/2022.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Cotejando os artigos 6º, 7º, 8º e 59 da Lei nº 5.194/66 - que regula o exercício das profissões da engenharia - , o artigo 1º da Lei nº 6.839/80 - que trata do registro de empresas e a anotação dos profissionais legalmente habilitados nas entidades competentes para fiscalização do exercício das diversas profissões - , e a atividade básica da empresa conforme contrato social - reparação de veículos -, ou ainda aquela submetida à fiscalização - manutenção de tacógrafos -, não há vinculação com as atividades inerentes à profissão da área da engenharia, não se justificando a necessidade de registro junto ao CREA.
+(fls. 366).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
