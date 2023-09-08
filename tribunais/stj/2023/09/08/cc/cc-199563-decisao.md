@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Criminal de Joinville/SC, o suscitante, e o Juízo de Direito da 8ª Vara Criminal de Curitiba/PR, o suscitado.
+Versam os autos acerca de inquérito policial instaurado para fins de apurar a prática de crime de estelionato perpet rado em detrimento de Marcos Campana.
+Consta dos autos que a vítima, após verificar um anúncio de venda de um veículo Audi Q3. entrou em contato com o aludido vendedor que oferecia o carro com condições atrativas, com alegação de ter sido adquirido através de consórcio, diante disso se interessou pelo aludido veículo seguindo as determinações do vendedor, das quais efetuara um depósito no valor de R$ 120.000,00 na conta corrente n.  .. , tendo como favorecido Alexsandro Alfred Moser, após efetuar o depósito constatou que havia caído em um golpe uma vez que não recebeu o aludido veículo (fl. 24).
+Inicialmente, o inquérito policial foi processado na comarca de São Bernardo do Campo/SP, tendo o Juízo daquela localidade declinado da competência em favor do Juízo da comarca de Curitiba/PR, local da residência da vítima.
+Na comarca de Curitiba/PR, o procedimento foi reautuado sob o n. 0008825-09.2019.8.16.0013 e distribuído ao Juízo da 8ª Vara Criminal local, que declinou da competência em favor do Juízo da comarca de Joinville/SC ao seguinte fundamento (fls. 214/215):
+Compulsando os autos, verifica-se que este Juízo é incompetente para apreciar o presente feito.
+Em que pese o registro do boletim de ocorrência pela Autoridade Policial da Delegacia de Estelionato da Capital e o posterior declínio do feito a este Juízo de Curitiba/PR, a publicação da Lei n. 14.155, em 27 de maio de 2021, trouxe novas alterações legislativas, dentre elas, nova competência para análise e julgamento do delito de estelionato.
+A Lei 14.155/21, recentemente promulgada, acrescentou o § 4º ao artigo 70 do CPP1, estabelecendo que, nos crimes de estelionato praticados mediante depósito, transferência de valores ou emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado, a competência para o processo e julgamento será definida pelo local do domicílio da vítima (forum domicilii). Caso haja pluralidade de vítimas, a competência firmar-se-á, ainda segundo a alteração legislativa, pela prevenção.
+Desse modo sempre prevalecerá o disposto no novo parágrafo do artigo 70, independentemente de qualquer outra circunstância, como o lugar da ação, do resultado, do banco sacado, do prejuízo, da obtenção da vantagem indevida, do lugar da recusa, etc.
+No presente caso, havia a informação de que a vítima provavelmente residia nesta Capital, porém, após detida análise dos autos, verifica-se que não consta em nenhuma peça ou documento o endereço da vítima.
+Em consulta ao sistema INFOSEG, foi constatado que a vítima Marcos Campana reside no Município de Joinville/SC
+Diante do exposto, com base no artigo 70, §4º, do Código Penal, declino a competência para o Juízo Criminal de Joinville/SC, que é o competente para a análise e julgamento do presente feito, com a respectiva baixa dos autos na distribuição neste Foro Central de Curitiba.
+Na comarca de Joinville/SC, o procedimento foi novamente reautuado (Processo n. 5055640-71.2022.8.24.0038/SC) e distribuído ao Juízo da 1ª Vara Criminal local, que suscitou o conflito, nos seguintes termos (fls. 5/6):
+ ..
+A regra, incluída pela Lei n. 14.155/2021, como norma de caráter processual, tem aplicação imediata, devendo ser observada ainda que os fatos tenham sido anteriores à mudança da legislação, notadamente quando ainda não ajuizada ação penal.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+ ..
+No caso dos autos, consoante documentos juntados no ev. 1.1, p.16 e p.18, a vítima residia na Comarca de Curitiba/PR, razão pela qual, inclusive, a Comarca de São Bernardo do Campo/SP declinou da competência em favor daquele Juízo. A 8ª Vara Criminal de Curitiba/PR verificou no sistema INFOSEG que a vítima residia no Município de Joinville/SC e remeteu os autos ao presente Juízo.
+No entanto, em que pese o Juízo declinante sustente que a Comarca de Joinville detêm a competência para análise dos fatos, diante dos documentos que demonstram o domicílio da vítima na cidade de Curitiba (ev. 1.1, p.16 e p.18 ), compreende-se que posterior mudança não é apta a alterar a competência já fixada.
+Com base nesses fundamentos e nos termos do parecer ministerial de ev. 33.1 , SUSCITO CONFLITO NEGATIVO de jurisdição (art. 114, I e II, do CPP).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado (fls. 11/13).
+É o relatório.
+Conforme a redação do art. 70, § 4º, do Código de Processo Penal (inserido pela Lei n. 14.155/2021 - grifo nosso), nos crimes de estelionato perpetrados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima.
+No caso, quando da prática do evento delitivo, a vítima residia na comarca de Curitiba/PR (fl. 30), circunstância que firma a competência do Juízo suscitado para processar o inquérito, sendo desinfluente se o fato foi perpetrado antes ou depois do advento da nova lei:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DENÚNCIA DE PRÁTICA DE ESTELIONATO. TRANSFERÊNCIA BANCÁRIA FRUSTRADA E EMISSÃO DE CHEQUE SEM SUFICIENTE PROVISÃO DE FUNDO. ART. 70, § 4º, DO CPP. COMPETÊNCIA DO DOMICÍLIO DA VÍTIMA. APLICAÇÃO IMEDIATA DA LEI PROCESSUAL AOS PROCESSOS EM CURSO. COMPETÊNCIA DE TERCEIRO JUÍZO. AGRAVO REGMENTAL PARCIALMENTE PROVIDO.
+1. Nos termos do § 4º do art. 70 do Código Penal, acrescentado pela Lei n. 14.155/2021, a competência para o processamento e o julgamento dos crimes de estelionato, quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+2. Conforme orientação jurisprudencial desta Corte Superior, a lei processual tem aplicação imediata, mesmo que os fatos tenham ocorrido antes da lei nova, motivo pelo qual, diante da alteração legislativa que criou hipótese específica de competência no caso de crime de estelionato, deve ser reconhecida a competência do Juízo do domicílio da vítima.
+3. Agravo regimental parcialmente provido para declarar a competência de uma das Varas Criminais da Circunscrição Judiciária do Riacho Fundo/DF, juízo não envolvido no presente conflito.
+(AgRg no CC n. 196.475/SP, Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/6/2023, DJe 21/6/2023 - grifo nosso)
+Pelo exposto, conheço do conflito para declarar a competência do Juízo de Direito da 8ª Vara Criminal de Curitiba/PR, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. ESTELIONATO. TRANSFERÊNCIA DE VALOR. COMPETÊNCIA ESTABELECIDA NA FORMA DO ART. 70, § 4º, DO CPP. LOCAL DO DOMICÍLIO DA VÍTIMA.
+Conflito conhecido para declarar a competência do Juízo de Direito da 8ª Vara Criminal de Curitiba/PR, o suscitado.
