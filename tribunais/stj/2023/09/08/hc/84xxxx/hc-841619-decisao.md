@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Igor Oliveira Frasao, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento do Agravo em Execução Penal n. 0712371-80.2023.8.07.0000.
+Extrai-se dos autos que o Juízo da Vara de Execuções das Penas e Medidas Alternativas - VEPEMA/DF, nos Autos da Execução Penal n. 0401506-02.2018.8.07.0015, ind eferiu o pedido da defesa de indulto com base no Decreto n. 9.246/2017 (fls. 356/357).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que deu provimento parcial ao recurso para determinar ao Juízo da VEPEMA que realizasse a detração da pena, considerando o período de vigência da medida cautelar até o trânsito em julgado definitivo da sentença condenatória, conforme acórdão acostado às fls. 413/421.
+Daí a presente impetração, em que a defesa sustenta, em síntese, que o paciente preenche todos os requisitos necessários à concessão do indulto da pena com fulcro no Decreto n. 9.246/2017, fazendo jus, portanto, à benesse.
+Argumenta que não obstante o Tribunal a quo tenha reconhecido que o período em que o paciente teve a sua liberdade restrita, em razão do cumprimento de medida cautelar de recolhimento noturno, deveria ser contabilizado para fins de detração da pena, asseverou que esse período não poderia ser utilizado para aferimento do requisito temporal exigido para a concessão do indulto.
+Requer, assim, a concessão do indulto da pena ao paciente, com base no Decreto n. 9.246/2017.
+Sem pedido liminar.
+Informações prestadas às fls. 445/451 e 452/475.
+O Ministério Público Federal, às fls. 480/481, opina pela denegação da ordem.
+É o relatório.
+Por oportuno, o acórdão impugnado reconheceu o direito do paciente de detrair da sua pena o período em que foi posto em liberdade provisória, condicionada ao cumprimento de medida alternativa de recolhimento noturno até a data do trânsito em julgado da condenação, e indeferiu o pedido de indulto com base no Decreto n. 9.246/2017, delineando (fls. 17/22 - grifo nosso):
+ ..
+Com efeito, observa-se que a sentença condenatória concedeu ao apenado o direito de recorrer em liberdade, fixou o regime aberto e substituiu a pena privativa de liberdade por restritivas de direitos. Entretanto, nada dispôs sobre a manutenção ou revogação da medida cautelar de recolhimento noturno, de maneira que a falta de decisão fundamentada, quanto à ausência dos motivos autorizadores da medida, não produz efeito automático de revogação, sobretudo, porque as medidas diversas da prisão podem perdurar até o trânsito em julgado da condenação, quando então o apenado iniciará o cumprimento da pena.
+ ..
+Assim, a existência de dúvida razoável quanto ao período de vigência da medida cautelar de recolhimento noturno conduz à interpretação mais benéfica ao apenado, a fim de que a detração da pena se estenda até o trânsito em julgado definitivo da condenação.
+ ..
+Dessa forma, a decisão atacada merece ajuste apenas para estender a detração da pena até a data do trânsito em julgado da sentença.
+ ..
+O Juízo da VEPEMA indeferiu o pleito, ao entendimento de que a prisão cautelar não pode ser utilizada para concessão de indulto, com base no Decreto Presidencial n. 9246/2017, nos termos da orientação da Corte Superior de Justiça (ID 42899443 - p 14).
+Vejamos:
+ ..  Noutro giro, a Defesa postula a concessão de indulto, fundamentando o pedido na utilização do tempo de prisão cautelar como pena cumprida, a fim de preenchimento dos requisitos objetivos para deferimento do benefício. Todavia, o tempo de prisão provisória não pode ser aproveitado como tempo de cumprimento de pena para fins de análise do indulto.  ..
+A Defesa pretende o cômputo do período de prisão provisória, para fins de concessão de indulto. Todavia, a decisão recorrida está em consonância com a orientação pacífica do Superior Tribunal de Justiça, no sentido de que "o período ao qual o Decreto Presidencial se refere, para fins de indulto, é aquele correspondente à prisão pena, não se computando, para o preenchimento do requisito objetivo, o período relativo à detração penal, que se opera diante de constrição por medida cautelar"(AgRg no AREsp n. 1.789.603/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe 19/4/2021)
+ ..
+Com efeito, nos termos do art. 1º, IV, do Decreto n. 9.246/2017, será concedido indulto natalino coletivo às pessoas nacionais e estrangeiras que, até 25 de dezembro de 2017, tenham cumprido um quarto da pena, se homens, e um sexto da pena, se mulheres, na hipótese prevista no § 4º do art. 33 da Lei n. 11.343, de 23 de agosto de 2006, quando a pena privativa de liberdade não for superior a oito anos.
+Por sua vez, depreende-se do art. 42 do CP que, em caso de restrição da liberdade durante o processo de conhecimento, esse período deve ser considerado, para todos os fins, como pena efetivamente cumprida, podendo ser computado para lastrear benefícios da execução penal, inclusive o indulto.
+No caso em apreço, o acórdão impugnado destoa do recente entendimento deste Superior Tribunal, o qual assentou compreensão no sentido de que a partir da leitura do comando normativo insculpido no art. 42 do Código Penal, no inciso I do art. 1º e no inciso I do art. 8º, ambos do Decreto n. 9.246/2017, não se constata nenhum impedimento expresso para que, tal como pleiteado pela Acusada, e autorizado pelo Tribunal a quo, o tempo de prisão provisória anterior seja computado com o fim de aferir o requisito temporal necessário à concessão do indulto em tela, não sendo condizente com o bom direito, nessa hipótese, a interpretação extensiva para restringir a concessão da benesse (REsp n. 1.953.596/GO, Ministra Laurita Vaz, Sexta Turma, julgado em 7/12/2021, DJe 16/12/2021).
+Por oportuno, confiram-se, ainda, os seguintes precedentes no mesmo sentido: AgRg no AREsp n. 1.784.347/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/3/2023; e AgRg no REsp n. 2.035.796/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse toar, considerando-se que o paciente, não reincidente, foi condenado como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por restritiva de direitos e, por ocasião da promulgação do indulto, havia cumprido 7 meses da pena privativa de liberdade - contabilizado o período de detração, nos termos deferido no acórdão do Tribunal de origem -, faz jus ao benefício pretendido.
+Ante o exposto, concedo a ordem de habeas corpus para conceder o indulto da pena imposta ao paciente pela prática do crime de tráfico privilegiado na Execução n. 0401506-02.2018.8.07.0015, do Juízo da Vara de Execuções das Penas e Medidas Alternativas - VEPEMA/DF.
+Comunique-se o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. INDULTO. CONCESSÃO. CÔMPUTO DO PERÍODO DE CUMPRIMENTO DE MEDIDA CAUTELAR DE RECOLHIMENTO NOTURNO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
