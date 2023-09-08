@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO. INDEVIDA CONTRIBUIÇÃO PREVIDENCIÁRIA. TERÇO CONSTITUCIONAL DE FÉRIAS. CONTRIBUIÇÃO SOBRE O AUXÍLIO -DOENÇA. AVISO PRÉVIO INDENIZADO. HORAS EXTRAS. COMPENSAÇÃO.
+1. O empregado afastado por motivo de doença não presta serviço e, por isso, não recebe salário durante os primeiros 15 (quinze) dias de afastamento. A descaracterização da natureza salarial afasta a incidência da contribuição à Seguridade Social.
+2. A Primeira Seção do STJ - Superior Tribunal de Justiça acolheu, por unanimidade, incidente de uniformização, adequando sua jurisprudência ao entendimento firmado pelo STF, segundo o qual não incide contribuição à Seguridade Social sobre o terço de férias constitucional, posição que já vinha sendo aplicada pela Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais.
+3. O aviso prévio indenizado não compõe o salário de contribuição, uma vez que não há trabalho prestado no período, não havendo, por consequência, retribuição remuneratória por labor prestado.
+4. É pacífico no Superior Tribunal de Justiça que incide contribuição previdenciária sobre os adicionais de horas extras, em razão do seu caráter salarial.
+5. Possível a pretensão de compensação, pois a autora comprovou ter recolhido as verbas sobre as quais ora reconheço não incidir a contribuição.
+6. Fica permitida a compensação após o trânsito em julgado, pois a ação foi proposta posteriormente à edição da LC 104/2001, conforme já decidiu o STJ, em regime de Recurso Repetitivo (543-C do CPC).
+7. A discussão quanto ao limite do percentual imposto à compensação prevista no art. 89 da Lei nº 8.212/91, com a redação dada pela Lei nº 9.129/95, restou superada, em razão da revogação dos parágrafos do referido artigo pela MP 449/08, convertida na Leiº 11.941/09, que deve ser aplicada aos casos ainda pendentes de julgamento, nos termos do art. 462 do CPC. Cabe observar, que na hipótese da compensação ter sido realizada antes do trânsito em julgado, seja em razão de medida liminar ou outro remédio judicial, aplica-se, também, neste caso, a legislação vigente. Assim, se as limitações eram previstas em lei à época do encontro de contas, de rigor a sua aplicação. É digno de nota que são distintas as questões relativas à possibilidade de compensação com tributos da mesma espécie, hipótese em que o STJ decidiu pela aplicabilidade da norma legal vigente no ajuizamento da ação, e à aplicabilidade da limitação ora analisada, quando, por óbvio, deve ser aplicada a lei da data de encontro de contas.
+8. A compensação deve ser realizada independentemente da prova de que não ocorreu o repasse da exação ao bem ou serviço, afastando-se o §1º, artigo 89, da Lei nº 8.212/91. Precedente do STJ e desta Corte.
+9. No julgamento do Recurso Especial n. 111.175, sob o regime do art. 543 -C do CPC e da Resolução STJ 08/2008, o Superior Tribunal de Justiça consolidou posicionamento sobre a aplicação da taxa SELIC, a partir de 10 .01.1996, na atualização monetária do indébito tributário, que não pode ser acumulada com qualquer outro índice, seja de juros, seja de atualização monetária.
+10. Apelações da União e da autora a que se nega provimento. Remessa Oficial parcialmente provida, no que toca a critérios para compensação."
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 535, II, do CPC/73, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas, quais sejam:
+Com efeito, os embargos de declaração opostos pela Fazenda Nacional tratam de questões que não foram analisadas pela Turma julgadora, em especial quanto à regra geral é de que a totalidade do recebido pelo empregado constitui a base de cálculo das contribuições. As exceções estão taxativamente previstas no art. 28, § 9º, da Lei 8.212/91.
+No mérito, alega violação aos arts. 22, I e II e 28, § 9º, da Lei 8.212, por entender que incide contribuição previdenciária sobre os valores despendidos a título de terço constitucional de férias.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 14.061/14.070, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+A despeito do que constou do acórdão de fls. 10.522/10.529, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+Com efeito, os embargos de declaração opostos pela Fazenda Nacional tratam de questões que não foram analisadas pela Turma julgadora, em especial quanto à regra geral é de que a totalidade do recebido pelo empregado constitui a base de cálculo das contribuições. As exceções estão taxativamente previstas no art. 28, § 9º, da Lei 8.212/91.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 10.522/10.529, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356/STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração (fls. 10.522/10.529), determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com base no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, e a Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo conhecido para dar provimento ao Recurso especial.
