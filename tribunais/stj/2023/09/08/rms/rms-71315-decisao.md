@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por LUIZ PAULO RODRIGUES E OUTROS com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 739e):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. INTERPOSIÇÃO CONTRA DECISÃO DO RELATOR QUE DENEGOU A ORDEM. EIVA NA DECISÃO AGRAVADA NÃO CONFIGURADA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Nas razões recursais, alega-se, em síntese que o ato impugnado não diz respeito ao encerramento do concurso público, mas sim a não nomeação e posse dos recorrentes dentro do prazo de validade do certame, apesar de preencherem os pressupostos para tanto.
+Defende que o prazo decadencial para impetraçõa da segurança somente ocorre quando do encerramento do prazo de validade do certame. Narra que o concurso público em voga apenas teve o seu prazo de validade devidamente encerrado no dia 31 de maio de 2022, iniciando, portanto, o prazo decadencial de 120 (cento e vinte) dias a partir do dia 01 de junho de 2022.
+Com contrarrazões (fls. 794/796e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 826/829e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Os recorrentes, aprovados em cadastro reserva no concurso público para provimento de cargos de Escrevente Técnico Judiciário do Tribunal de Justiça do Estado de São Paulo, sustentam que em 2.2.2021, o Presidente do Tribunal de Justiça do Estado de São Paulo encerrou indevidamente o prazo de validade do concurso, que se encontrava suspenso até 31.12.2021por força dos Decretos Estaduais n. 64.937/2020 e n. 65.463/2021, em virtude da pandemia da COVID-19.
+O Tribunal reconheceu a decadência do direito à impetração, porquanto o certame foi encerrado em 2.2.2021 e a segurança foi ajuizada em 24.8.2022, em prazo superior a 120 dias.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual expirada a validade do concurso, surge o direito do candidato que se considera preterido de impetrar o mandado de segurança, contando-se a partir desse momento o prazo decadencial.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. AUSÊNCIA DE NOTIFICAÇÃO PESSOAL. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ARTIGO 23 DA LEI N. 12.016/2009. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O prazo decadencial para o aprovado em concurso público impetrar mandado de segurança contra ausência de nomeação, o que, na situação em tela, abrange eventual irregularidade na respectiva convocação, deve ser contado da data de expiração da validade do certame. Quando já expirado o prazo de validade do concurso, não se pode falar em ato omissivo. Os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de um ato concreto. Precedentes.
+3. No caso concreto, mesmo considerando que a validade do concurso se encerrou em 29/06/2014, como defende a recorrente, observa-se que a exordial do mandado de segurança somente foi protocolizada em 18/01/2019, muito além do lapso temporal de 120 (cento e vinte) dias legalmente estabelecido, sendo impositivo o reconhecimento da decadência do direito à impetração.
+4. Agravo interno não provido.
+(AgInt nos EDcl no RMS n. 67.468/MT, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. PRAZO DECADENCIAL QUE TEM INÍCIO COM A EXPIRAÇÃO DA VALIDADE DO CERTAME. DECADÊNCIA DA IMPETRAÇÃO.
+1. Cuida-se de irresignação contra a decisão do Tribunal de origem que reconheceu a decadência do direito de impetração.
+2. O prazo decadencial para o aprovado em concurso público impetrar Mandado de Segurança contra ausência de nomeação deve ser contado da data de expiração da validade do certame. Quando já expirado o prazo de validade do concurso, não se pode falar em ato omissivo. Os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de um ato concreto.
+Precedentes: AgRg no RMS 46.941/SP, Rel. Min. Sérgio Kukina, DJe 27.6.2016; AgRg no MS 22.297/DF, Rel. Min. Assusete Magalhães, DJe 25.4.2016. 3. Acerca do tema, a jurisprudência pacífica do Superior Tribunal de Justiça reconhece que o termo inicial para contagem do prazo decadencial de cento e vinte dias é a data do término do prazo de validade do concurso público, ou seja, no mesmo sentido da decisão recorrida (AgInt no RMS 50.428/MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º.12.2017; AgRg no RMS 48.436/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 19.9.2016).
+4. Recurso Ordinário não conhecido.
+(RMS n. 57.045/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/6/2018, DJe de 23/11/2018.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NEGO PROVIMENTO a o Recurso Ordinário.
+Publique-se e intimem-se.
+EMENTA
