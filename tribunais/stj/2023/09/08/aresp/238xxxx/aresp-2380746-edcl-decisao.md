@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração (petição de fls. 00767789/2023) manejados em expediente avulso pelo ESTADO DE MATO GROSSO DO SUL contra decisão de minha lavra que determinou o sobrestamento do agravo em recurso especial e a remessa dos autos ao Supremo Tribunal Federal para julgamento de questão constitucional prejudicial no âmbito do recurso extraordinário e respectivo agravo.
+O embargante alega erro material e omissão na decisão embargada, tendo em vista que não houve agravo dirigido ao Supremo Tribunal Federal, mas sim agravo interno manejado contra decisão que negou admissibilidade ao recurso extraordinário com base no art. 1.030, I, "a", do CPC, agravo interno que foi julgado com negativa de provimento pelo Tribunal de origem, de modo que não haveria matéria constitucional prejudicial ao recurso especial porque foi resolvida pelo Tribunal a quo.
+Pugna pela aplicação da Súmula n. 126 desta Corte, uma vez que não houve êxito da recorrente em relação à matéria constitucional autônoma.
+Requer o acolhimento dos aclaratórios para sanar os vícios apontados.
+A Coordenadoria de Processamento de Feitos de Direito Público informa às fls. 8 do expediente avulso que os autos foram remetidos ao Supremo Tribunal Federal em 9/8/2023, em cumprimento ao Despacho de e-STJ fls. 2.266-2.267, e que a Excelentíssima Ministra Rosa Weber determinou a baixa dos autos ao Tribunal de Justiça do Estado do Mato Grosso do Sul por não existir recurso a ser apreciado por aquela Corte.
+É o relatório. Passo a decidir.
+Inicialmente registro que os presentes embargos de declaração perderam seu objeto, tendo em vista que a decisão de fls. 2.266-2.267 e-STJ, que determinou a remessa dos autos ao STF e o sobrestamento do agravo em recurso especial, já exauriu seus efeitos, conforme informado pela Coordenadoria de Processamento de Feitos de Direito Público às fls. 8 do expediente avulso.
+O Supremo Tribunal Federal determinou a baixa dos autos ao Tribunal de origem em razão da ausência de recurso a ser apreciado pela Suprema Corte.
+Cabe a este Tribunal Superior requisitar os autos ao Tribunal de Justiça do Estado de Mato Grosso do Sul para julgamento do agravo em recurso especial que fora sobrestado para aguardar manifestação do Supremo Tribunal Federal.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, NÃO CONHEÇO dos embargos de declaração por perda de objeto e DETERMINO, de ofício, seja oficiado o egrégio Tribunal de Justiça de Mato Grosso do Sul para que proceda a devolução dos autos principais a esta Corte para julgamento do agravo em recurso especial.
+Publique-se. Intimem-se. Cumpra-se.
+EMENTA
