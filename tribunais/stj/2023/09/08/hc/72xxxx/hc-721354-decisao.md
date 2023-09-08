@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de SILVIO ALENCAR FAGUNDES no qual se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Apelação n. 5033631-86.2010.4.04.7100/RS).
+Depreende-se dos autos que o ora paciente foi condenado à pena de 2 anos e 8 meses de reclusão, substituída por restritiva de direitos, pela prática do delito previsto no art. 333, parágrafo único, do Código Penal.
+A defesa interpôs recurso de apelação perante a Corte de origem, contudo o pleito foi improvido. O acórdão ficou assim ementado (e-STJ fls. 1.051/1.052):
+PENAL E PROCESSUAL PENAL. CORRUPÇÃO ATIVA E CORRUPÇÃO PASSIVA. POLICIAIS RODOVIÁRIOS FEDERAIS. ARTIGOS 317 E 333 DO CÓDIGO PENAL. NULIDADES. LITISPENDÊNCIA. INEXISTÊNICA. INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. INTERCEPTAÇÃO TELEFÓNICA. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA. PRESTAÇÃO PECUNIÁRIA. CONDIÇÕES FINANCEIRAS DO RÉU. ASSISTÊNCIA JUDICIÁRIA GRATUITA. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ENTENDIMENTO RECENTE DO STF.
+1. Não há litispendência deste feito com a ação penal nº 2008.71.11.001034-9, que apura fatos ocorridos antes dos que os acontecimentos destes autos, bem como em local diverso.
+2. Não é inepta a denúncia que atende aos requisitos do art. 41 do Código de Processo Penal, contendo a exposição dos fatos criminosos, com todas as suas circunstâncias, a qualificação dos acusados e a classificação dos crimes, oportunizando aos réus, portanto, o exercício da ampla defesa e do contraditório.
+3. A interceptação telefônica, autorizada judicialmente e executada em consonância com os ditames previstos na legislação de regência, pode e deve ser admitida como meio de prova da acusação.
+4. O crime de corrupção passiva é de mera conduta e o ato de solicitar a vantagem indevida, por si só, configura a ilegalidade, não dependendo da efetivação do resultado almejado pelo agente.
+5. Comprovadas a materialidade e a autoria dos delitos de corrupção passiva e corrupção passiva praticados pelos réus, por meio de escutas telefônicas e depoimento de testemunhas.
+6. "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (HC 107.409/PE, 1.a Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012), devendo o ser tomado em conta os princípios da necessidade e eficiência, decompostos nos diferentes elementos previstos no art. 59 do Código Penal, principalmente na censurabilidade da conduta.
+7. A pena de prestação pecuniária não deve ser arbitrada em valor excessivo, de modo a tornar o réu insolvente ou irrisório, que sequer seja sentida como sanção, permitindo-se ao magistrado a utilização do conjunto de elementos indicativos de capacidade financeira, tais como a renda mensal declarada, o alto custo da empreitada criminosa e o pagamento anterior de fiança elevada.
+8. A fixação da pena de multa obedece ao sistema bifásico, devendo guardar proporcionalidade com a sanção corporal imposta, tendo-se como parâmetro a menor e maior pena prevista no ordenamento jurídico.
+9. O valor de cada dia-multa deve levar em conta a situação econômica do condenado, podendo ser aumentada até o triplo, caso o máximo previsto se mostre ineficaz, em razão da condição econômica do réu. Inteligência dos arts. 49, § 1º e 60, § 1º, ambos do Código Penal.
+10. Não tendo a pena de multa tarifação expressa no tipo, deve-se tomar como balizadores as penas mínimas e máximas de todo o Código Repressivo.
+11. A questão relativa ao pedido de assistência judiciária gratuita, com isenção do pagamento das custas processuais, deve ser apreciada pelo Juízo da Execução, a quem cabe fixar as condições de adimplemento e autorizar, inclusive, eventual parcelamento do valor devido, conforme lhe faculta a Lei nº 7.210, de 11/07/84, art. 66, V, a, c/c art. 169, §1º.
+12. O Plenário do Supremo Tribunal Federal, no recente julgamento do HC n.
+126.292/SP1, firmou entendimento no sentido de que a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal.
+13. Apelação criminal de ROGÉRIO parcialmente provida e apelações criminais de SÍLVIO, OTACIANO e AFRÂNIO improvidas.
+Daí o presente writ, no qual sustenta a defesa a ocorrência de nulidade, tendo em vista que a condenação foi mantida com base em interceptações telefônicas ilegais.
+Destaca que "as decisões judiciais que autorizaram a referida medida extrema, bem como os ofícios expedidos às operadoras de telefonia e respectivas respostas sobre o período efetivo de monitoramento, além da íntegra dos áudios, únicos documentos capazes de possibilitar a análise da legalidade das interceptações telefônicas realizadas na "Operação Mão Dupla" (Procedimento Criminal n. 2008.71.11.000966-9), NÃO foram trasladadas para os autos da ação penal subjacente a este habeas corpus!" (e-STJ fl. 7).
+Diante dessas considerações, pede o reconhecimento da nulidade ab initio, desde o recebimento da denúncia.
+É, em síntese, o relatório.
+Decido.
+Analisando o acórdão guerreado, verifico que das questões deduzidas na presente impetração não pode conhecer o Superior Tribunal de Justiça, tendo em vista a falta de manifestação do Tribunal de origem sobre elas.
+Desse modo, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que "revela- se inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4ª ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU.
+ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO.
+APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados. (EDcl no HC 230.583/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
