@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 20/21):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM (ARTIGOS 33 E 35, CAPUT, AMBOS DA LEI  11.343/06). CONDENAÇÃO. INCONFORMIDADE DEFENSIVA.
+Inicialmente, ambos os recursos preenchem os requisitos necessários para que sejam conhecidos, não havendo como se falar em intempestividade do apelo da ré.
+No mérito, a defesa pugna pela absolvição da acusada Gleice, alegando que ela não teria envolvimento com o tráfico de drogas e associação para tal fim. Ocorre que, o conjunto probatório demonstra, de forma clara, a atividade ilícita exercida pela ré.
+Quanto ao tráfico, é importante ressaltar que o agente não precisa ser flagrado na prática de ato de comércio com a droga para configurar o narcotráfico, bastando que realize qualquer das condutas elencadas pelo artigo 33, da Lei nº 11.343/06. No presente feito, a ré tinha em depósito e guardava 12 (doze) buchinhas de cocaína pesando aproximadamente 4,1 g, o que serve para evidenciar o tráfico, sendo que os demais elementos demonstram a comercialização de drogas de modo associado entre os réus. Quanto à validade dos depoimentos dos policiais, ratifico que devem ser considerados aptos para sustentar a condenaç ão, sendo que no caso concreto apresentaram depoimentos coesos e coerentes, não havendo qualquer motivo concreto para indicar que tivessem algum interesse em prejudicar aos acusados.
+Ressalto ainda, que não resta qualquer dúvida acerca do envolvimento da ré na prática delitiva, sendo que a tentativa de João Carlos de eximir sua companheira das imputações não encontra amparo nos demais elementos dos autos. Além da apreensão de drogas na residência da ré, enquanto seu companheiro se encontrava preso, as investigações evidenciam que a acusada teria se tornado responsável por receber valores referentes ao tráfico, havendo intensa movimentação de recursos na conta bancária em nome dela. Assim sendo, vai mantida a condenação da acusada como incursa nas sanções do artigo 33 e 35, caput, ambos da Lei nº 11.343/06.
+De outra banda, em relação ao acusado João, a defesa se insurge contra a pena no tocante ao não reconhecimento da atenuante da confissão espontânea do artigo 65, inciso III, alínea d, do CP, quanto ao quinto fato delituoso. Ocorre que, o acusado não admitiu a prática do quinto fato descrito na denúncia, pelo contrário, ele negou a prática do ilícito e ainda salientou que a ré Gleice nem mesmo morava no local em que apreendidas as drogas.
+De outra banda, apesar não haver expresso pleito para reapreciação de todo o conteúdo referente ao apenamento, para que seja observada a devida individualização da pena, tenho que a análise, de ofício, é medida impositiva. Assim, reapreciando as três fases de aplicação da pena, vão redimensionadas as penas de ambos os réus, de modo que a JOÃO CARLOS vai definitivamente imposta a pena de 18 (dezo ito) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, c/c o pagamento de 2150 (dois mil cento e cinqüenta) dias-multa, à razão mínima; e, em relação à ré GLEICE vai imposta a pena de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, c/c o pagamento de 1300 (mil e trezentos) dias-multa, à razão mínima.
+APELAÇÕES DESPROVIDAS.
+DE OFÍCIO, REDUZIDAS AS PENAS DE AMBOS OS RÉUS.
+Consta nos autos a condenação da paciente pela prática dos crimes de tráfico de drogas e associa ção para o tráfico, tipificados nos arts. 33 e 35 da Lei 11.343/2006, às penas de 13 anos e 5 meses de reclusão, em regime fechado, e 1350 dias-multa. Interposto recurso defensivo, houve parcial provimento para diminuir a pena da paciente para 10 anos, 10 meses e 20 dias de reclusão e 1300 dias-multa.
+A defesa alega a ocorrência de constrangimento ilegal, sustentando que deve ser anulada a condenação, porque baseada em provas ilícitas, haja vista a ocorrência de invasão de domicílio.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a ilegalidade.
+É o relatório.
+Decido.
+Em consulta ao sistema processual eletrônico desta Corte Superior verificou-se que este writ é mera reiteração do Habeas Corpus (HC) n. 705.169/SP, que não foi conhecido por decisão proferida em 11/11/2021, haja vista a supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
