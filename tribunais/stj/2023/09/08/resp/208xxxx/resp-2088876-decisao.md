@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA SONIA DE SOUZA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 03/04/2023.
+Concluso ao gabinete em: 08/08/2023.
+Ação: revisional de contrato bancário, ajuizada pela recorrente, em desfavor de BANCO BRADESCO S/A, fundada na abusividade de cláusulas contratuais.
+Sentença: julgou parcialmente procedentes os pedidos para: i) vedar a incidência da multa contratual sobre os juros moratórios; e ii) determinar a compensação de eventuais valores cobrados indevidamente ou a repetição do indébito, na forma simples.
+Acórdão: conheceu em parte e, nesta extensão, deu parcial provimento á apelação interposta pela recorrente, a fim de vedar o emprego da capitalização diárias de juros. O acórdão foi assim ementado:
+APELAÇÃO. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO - CRÉDITO PESSOAL, COM DESCONTOS EFETUADOS EM CONTA CORRENTE, GARANTIDO COM ALIENAÇÃO FIDUCIÁRIA IMOBILIÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+RECURSO DA PARTE AUTORA.
+EXAME DE ADMISSIBILIDADE. POSTULADA CONCESSÃO DA JUSTIÇA GRATUITA. BENEFÍCIO JÁ CONCEDIDO NA ORIGEM. DESNECESSIDADE DA REITERAÇÃO DA PRETENSÃO. APELO NÃO CONHECIDO NESTE PONTO.
+PRELIMINARES. SUSTENTADA INCONSTITUCIONALIDADE DO PROCEDIMENTO EXPROPRIATÓRIO PREVISTO NA LEI N. 9.514/1997, POR OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO. DESCABIMENTO. CONSTITUIÇÃO DA PROPRIEDADE DE MODO EXTRAJUDICIAL QUE NÃO CONSTITUI ÓBICE AO DEVEDOR OU A TERCEIROS DE SE SOCORREREM AO PODER JUDICIÁRIO PARA SALVAGUARDAR SEUS INTERESSES E IMPEDIR EVENTUAIS ILEGALIDADES. PRECEDENTES.
+INVOCADO DESVIO DE FINALIDADE NO EMPREGO DA ALIENAÇÃO FIDUCIÁRIA IMOBILIÁRIA, PORQUANTO NÃO UTILIZADA COM O OBJETIVO DE FINANCIAR IMÓVEL, MAS SIM GARANTIR CÉDULA DE CRÉDITO BANCÁRIO. INSURGÊNCIA NÃO ACOLHIDA. DESNECESSIDADE DE O BEM IMÓVEL GARANTIDOR ESTAR VINCULADO AO SISTEMA FINANCEIRO DE IMÓVEIS. EXEGESE DO ART. 22, § 1º, DA LEI N. 9.514/1997 E DO ART. 51 DA LEI N. 10.931/2004.
+MÉRITO. PRETENDIDA LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. IMPOSSIBILIDADE. AFERIÇÃO DA ABUSIVIDADE QUE DEVE SE PAUTAR PELA MÉDIA PRATICADA PELO MERCADO, ADMITIDA ALGUMA VARIAÇÃO, DESDE QUE NÃO ABUSIVA, A FIM DE NÃO SE DESCONSTITUIR A ESSÊNCIA DO ENCARGO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CÂMARA. TAXAS PACTUADAS QUE, NA HIPÓTESE, NÃO SUPLANTAM 10% (DEZ POR CENTO) DAS MÉDIAS DE MERCADO DIVULGADAS PELO BANCO CENTRAL DO BRASIL PARA O PERÍODO. EXCESSO NÃO CONSTATADO. ENCARGO CONTRATADO QUE DEVE SER MANTIDO.
+REQUERIDO AFASTAMENTO DA CAPITALIZAÇÃO DIÁRIA DOS JUROS. PEDIDO ACOLHIDO. CONTRATO EM DEBATE NA LIDE SEM PREVISÃO DA TAXA DE JUROS REMUNERATÓRIOS DIÁRIA. DEVER DE INFORMAÇÃO NÃO CUMPRIDO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL. ANATOCISMO DIÁRIO VEDADO. SENTENÇA REFORMADA.
+AVENTADA ILEGALIDADE DA CLÁUSULA RESOLUTIVA EXPRESSA PREVENDO O VENCIMENTO ANTECIPADO DA DÍVIDA. DESCABIMENTO. DISPOSIÇÃO CONTRATUAL VÁLIDA, CONFORME PRECEDENTES.
+PRETENDIDA DESCARACTERIZAÇÃO DA MORA. ANÁLISE À LUZ DA SÚMULA N. 66 DESTE TRIBUNAL DE JUSTIÇA, RECENTEMENTE APROVADA PELO GRUPO DE CÂMARAS DE DIREITO COMERCIAL, VAZADA NOS SEGUINTES TERMOS: " A COBRANÇA ABUSIVA DE ENCARGOS NO PERÍODO DE NORMALIDADE CONTRATUAL (JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO) NÃO BASTA PARA A DESCARACTERIZAÇÃO DA MORA QUANDO NÃO EFETUADO O DEPÓSITO DA PARTE INCONTROVERSA DO DÉBITO ". CONSTATAÇÃO DE ABUSIVIDADE DE ENCARGO DA NORMALIDADE - IN CASU , A ILEGALIDADE DA CAPITALIZAÇÃO DE JUROS DIÁRIA, QUE, POR SI SÓ, NÃO DESCARACTERIZA A MORA, ANTE A INEXISTÊNCIA DE DEPÓSITO DO VALOR INCONTROVERSO. RECURSO NÃO PROVIDO NO TÓPICO.
+REQUERIDO REDIMENSIONAMENTO DA DÍVIDA DO CONTRATO, COM APLICAÇÃO ANALÓGICA DA LEI N. 10.820/03, NA MEDIDA EM QUE SE ENQUADRA NA SITUAÇÃO DE SUPERENDIVIDAMENTO. IMPOSSIBILIDADE. REALIDADE DOS AUTOS QUE NÃO SE ADEQUA ÀS PREVISÕES LEGAIS DE LIMITAÇÃO DE PARCELAS CONTRATUAIS. LEI N. 10.820/2003 APLICÁVEL SOMENTE ÀS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO. INCIDÊNCIA DA NORMA INVIÁVEL NAS HIPÓTESES DE DESCONTO EM CONTA CORRENTE, COMO NO CASO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL. POSTULADA PRORROGAÇÃO DO DÉBITO CONTRATUAL, ADEMAIS, QUE PODERÁ ACARRETAR A ETERNIZAÇÃO DO CONTRATO, ANTE AMORTIZAÇÃO NEGATIVA DO DÉBITO RELATIVAMENTE AO VALOR DA PRESTAÇÃO. PRETENSÃO QUE SE MOSTRA DESCABIDA.
+SUCUMBÊNCIA. REDISTRIBUIÇÃO OPERADA, PARA ADAPTAR-SE AO RESULTADO DO PRESENTE JULGAMENTO.
+APELO, EM PARTE, CONHECIDO E PARCIALMENTE PROVIDO (e-STJ fls. 1.040-1.041).
+Recurso especial: aponta a violação do art. 396 do CC/02, bem como dissídio jurisprudencial. Sustenta que a cobrança indevida de encargos contratuais no período da normalidade, tal qual a capitalização de juros, descaracteriza a mora do devedor, sem que haja a necessidade de depósito de valor incontroverso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da descaracterização da mora (Súmula 568/STJ)
+A Segunda Seção desta Corte Superior entende que "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (REsp 1.061.530/RS, Segunda Seção, DJe 10/03/2009).
+Ainda nesse sentido: AgInt no REsp n. 1.914.532/RS, Quarta Turma, DJe de 17/12/2021; AgInt no AREsp n. 1.405.350/RS, Quarta Turma, DJe de 01/07/2021; AgInt no AREsp 1.412.287/RS, Quarta Turma, DJe de 18/09/2019; AgInt no AREsp n. 1.183.999/RS, Terceira Turma, DJe de 29/6/2018; e AgInt no AREsp n. 1.202.187/RS, Terceria Turma, DJe de 24/4/2018.
+Na hipótese, a questão relativa à mora deve ser analisada considerando o entendimento concernente à capitalização diária de juros consignada no acórdão recorrido.
+Quanto ao ponto, o Tribunal de origem, a despeito de ter afastado a capitalização diária de juros no caso concreto, entendeu que a mora não deveria ser descaracterizada, dada a ausência de depósito, por parte da recorrente, da parcela incontroversa do débito (e-STJ fl. 1.047).
+Assim, diante da dissonância com o entendimento sobre o tema nesta Corte Superior, aplica-se a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para descaracterizar a mora da recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. DESCARACTERIZAÇÃO DA MORA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional de contrato bancário, fundada na abusividade de cláusulas contratuais.
+2. O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (capitalização diária) descaracteriza a mora. Precedentes.
+3. Recurso especial conhecido e provido.
