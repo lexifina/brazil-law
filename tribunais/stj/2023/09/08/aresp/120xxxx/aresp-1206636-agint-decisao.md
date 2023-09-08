@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de relatoria do Ministro Napoleão Nunes Maia Filho assim ementada:
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR AJUIZADA POR CIDADÃO EM DESFAVOR DO ENTÃO PREFEITO DO MUNICÍPIO DE TAQUARITINGA/SP, PELA PRÁTICA DE SUPOSTO ATO LESIVO AO ERÁRIO, FRENTE À POSTERGAÇÃO DE PAGAMENTO DE PRECATÓRIOS. PRETENSÃO DO ACIONADO DE REFORMA DO ARESTO CONDENATÓRIO. INOCORRÊNCIA, NA HIPÓTESE, DE ATO ILEGAL E MALEFICENTE DO ENTÃO ALCAIDE E DE LESÃO AOS COFRES PÚBLICOS DA MUNICIPALIDADE. PARECER DO MPF PELO DESPROVIMENTO DO AGRAVO. AGRAVO DO DEMANDADO CONHECIDO E RECURSO ESPECIAL PROVIDO, EM ORDEM A RESTABELECER A SENTENÇA QUE JULGOU IMPROCEDENTE A PRETENSÃO (fl. 1.223).
+A parte agravante sustenta que o provimento do recurso especial, com base na ausência de comprovação de ilegalidade ou má-fé na conduta do prefeito ao efetuar o pagamento dos precatórios municipais a tempo - em que pese ao superávit orçamentário -, ensejando a cobrança com juros e correção monetária, mostra-se impossível de se concluir sem a reanálise da matéria fático-probatória. Caso em que deveria haver a aplicação do óbice da Súmula 7/STJ.
+Defende que o então prefeito violou reiteradamente o art. 100, § 5º, da CF/1988, o que gerou graves danos aos cofres públicos.
+Requer, ao final, a reconsideração da decisão agrava ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa apresentou impugnação (fls. 1.249/1.347).
+É o relatório.
+Melhor compulsando os autos e exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 1.223/1.234) e faço nova apreciação do recurso.
+Trata-se de recurso especial interposto por JOSÉ PAULO DELGADO JÚNIOR, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AÇÃO POPULAR Alegado prejuízo ao erário em virtude da incidência de juros de mora, diante da inércia no pagamento dos precatórios - Existência de superávit orçamentário e financeiro - Recurso provido (fls. 814/829).
+Em suas razões recursais, a parte recorrente, além do dissídio jurisprudencial, aponta violação do art. 535, incisos I e II, do CPC/1973, e dos arts. 1º, 2º e 3º da Lei 4.717/1965. Argumenta para tanto: (a) negativa de prestação jurisdicional; (b) que "os indicadores utilizados como parâmetro para decisão do Colendo TJSP se fundamentam em premissas equivocadas, não evidenciam com a devida razoabilidade, as operações orçamentárias e financeiras que revestiram as contas em comento no período de 2005 a 2008" (fl. 988).
+A parte adversa deixou de apresentar contrarrazões (fl. 1.103).
+Parecer do MPF às fls. 1.218/1.221 opinando pelo não provimento do agravo em recurso especial nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO EM RECURSO ESPECIAL. AÇÃO POPULAR. COMPROVAÇAO DA INADIMPLÊNCIA NOPAGAMENTO DE PRECATÓRIOS. AUSÊNCIA DE VIOLAÇÃOAO ARTIGO 535, DO CPC. IMPOSSIBILIDADE. SÚMULA7/STJ.
+I. Não há que se falar em violação ao artigo 535 do CPC quando os fundamentos utilizados no acórdão recorrido são suficientes para resolver a lide.
+II. Nos termos em que a causa foi decidida, infirmar os fundamentos do acórdão recorrido - para acolher a pretensão do agravante e afastar sua condenação por suposta ausência de dolo ou culpa na sua conduta - demandaria o reexame de matéria fática, o que é vedado, em recurso especial, nos termos da Súmula 7/STJ.
+III. Parecer pelo não provimento do agravo em recurso especial.
+É o relatório.
+A irresignação não merece prosperar.
+Inexiste a alegada violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Saliento que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Ao analisar a controvérsia, a Corte estadual partiu das seguintes premissas (fls. 822/828):
+O recurso merece provimento em relação ao corréu José Paulo Delgado Júnior, ex prefeito municipal.
+(..).
+Com efeito, a prova documental encostada nos autos do processo torna induvidosos os contornos da matéria fática, quais sejam: a) a existência de precatórios não honrados nos exercícios referidos na petição inicial; b) da mesma forma a existência de "superávit" orçamentário naqueles exercícios; c) a documentação de intervenção no município, para a garantia de efetivações dos pagamentos.
+Por outro lado, as escusas deduzidas em contestação e relacionadas à impossibilidade de pagamento, à vista da má gestão das contas públicas em administrações anteriores não são convincentes, mesmo porque a inadimplência das obrigações, verificou-se por vários e sucessivos anos, de modo a motivar diversas intervenções no Município de Taquaritinga, inclusive, no último ano da gestão do corréu.
+Anoto, portanto, que a inércia não pode ser atribuída a gestores outros, na exata medida em que tendo o corréu assumido o comando político-administrativo do Município, a ele competia zelar pelas contas públicas.
+Demais disso, como anotado tem-se como inconsistente as alegações de impossibilidade material de se honrar com as obrigações constitucionais, na exata medida em que a inadimplência não se limitou ao exercício de 2005, mas também em 2006, 2007 e 2008,implicando diversas ordens de intervenção no Município, o que, por si só, já caracteriza a ilicitude da conduta administrativa.
+A tudo isso deve-se acrescer a reprovação das contas do Município pelo Tribunal de Contas do Estado e o reconhecimento de existência de "superávit" orçamentário e financeiro.
+A conduta improba do corréu está, portanto, caracterizada e se traduz no reiterado e dolos o descumprimento do art. 100, §1º da Constituição Federal ,de modo a implicar o pagamento de juros moratórios e, por via de consequência, onerar indevidamente os cofres públicos.
+O pagamento não foi feito, relegando o administrador público a determinação judicial para o momento de sua arbitrária conveniência e ferindo, de modo grave, o Estado de Direito.
+(..)
+Violada a legalidade e a moralidade, resta também malferida a probidade administrativa que é consequência daqueles.
+Acham-se, portanto, presentes os requisitos ensejadores da responsabilização do Agente político, quais sejam, a ilegalidade da conduta perpetrada e lesividade aos cofres públicos, por sua induvidosa oneração com pagamento de juros de mora.
+O Tribunal de origem entendeu que o Município de Taquaritinga foi vítima de nítida conduta ilícita por parte do agente público, cabendo a reparação pelos danos gerados aos cofres públicos.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, reconsidero a decisão de fls. 1.223/1.234 e, em nova apreciação, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimações necessárias.
+EMENTA
