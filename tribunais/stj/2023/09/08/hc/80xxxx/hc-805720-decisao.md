@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONARDO DE SOUZA BIZARELO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, prolatado no julgamento do HC n. 0007213-52.2023.8.19.0000.
+Consta que o Paciente foi preso em flagrante, em 17/01/2023, com posterior conversão da custódia em preventiva, em razão da suposta prática do ilícito tipificado no art. 14 da Lei n. 10.826/2003, pelo qual foi denunciado (fls. 14-17), pois, em tese, foi surpreendido por policiais militares na posse de "um revólver calibre .32, com quatro munições, em sua cintura" (fl. 15).
+A Defesa formulou pedido de revogação da prisão preventiva, que foi indeferido pelo Magistrado singular.
+Inconformada, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 30-36. Eis a ementa do julgado (fls. 30-31):
+"HABEAS CORPUS - PACIENTE DENUNCIADO PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 14 DA LEI Nº 10826/03 - ALEGA O IMPETRANTE A AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA, OBJETIVANDO, DESTA FORMA, A REVOGAÇÃO DA MEDIDA EXTREMA, ACRESCENTANDO QUE O CRIME IMPUTADO AO PACIENTE CARECE DE VIOLÊNCIA OU GRAVE AMEAÇA, ALEGANDO, TAMBÉM, A SUA DESNECESSIDADE, EM CONSONÂNCIA COM O PRINCÍPIO DA HOMOGENEIDADE, AO ARGUMENTO DE QUE, APESAR DE REINCIDENTE, O PACIENTE, EM CASO DE EVENTUAL CONDENAÇÃO CUMPRIRIA A PENA PRIVATIVA DE LIBERDADE EM REGIME MAIS BRANDO - NÃO ACOLHIMENTO - DE PLANO PODE-SE VERIFICAR QUE A DECISÃO COMBATIDA ESTÁ CORRETA E DEVIDAMENTE MOTIVADA, APONTADO OS FUNDAMENTOS DA NECESSIDADE DA CUSTÓDIA CAUTELAR, E AO MENOS, POR ORA, HÁ FORTES INDÍCIOS DO ENVOLVIMENTO DO PACIENTE COM O CRIME DESCRITO NA INICIAL ACUSATÓRIA, ESTANDO O CONTEXTO FÁTICO APTO A AUTORIZAR E RECOMENDAR A MANUTENÇÃO DA CUSTÓDIA PREVENTIVA DO MESMO - PACIENTE REINCIDENTE ESPECÍFICO - OUTROSSIM NÃO HÁ QUE SE FALAR EM EVENTUAL OFENSA AO PRINCIPIO DA HOMOGENEIDADE, JÁ QUE, NO CASO CONCRETO, A PENA APLICADA SOMENTE SERÁ POSSÍVEL SER AFERIDA NO MOMENTO DECISÓRIO, APÓS A REGULAR INSTRUÇÃO PROBATÓRIA, QUANDO O MAGISTRADO SINGULAR DISPORÁ DE ELEMENTOS SUFICIENTES QUE LHE PERMITAM AVALIAR QUAL A PENA E REGIME INICIAL MAIS ADEQUADO SENDO ASSIM, PRESENTES NÃO SÓ OS PRESSUPOSTOS DO ART. 312 DO CPP, COMO TAMBÉM APLICÁVEIS AO CASO CONCRETO OS ARTIGOS. 282, INCISOS I E II, E 313, INCISO II DO MESMO DIPLOMA, REVELA-SE ADEQUADA A MEDIDA CAUTELAR DE PRISÃO EM COMENTO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - JULGADO IMPROCEDENTE O PEDIDO."
+Neste writ, a Parte Impetrante sustenta, em suma, que: (i) o decreto prisional é genérico; (ii) o Paciente possui as condições pessoais favoráveis e não pode permanecer segregado, pois é "absolutamente imprescindível ao bem estar dos filhos menores visto ser o único responsável financeiramente das crianças" (fl. 04); e (iii) a imposição da medida extrema é desproporcional, tendo em vista que, em caso de eventual condenação, a reprimenda a ser imposta será mais branda do que o cárcere.
+Requer, em medida liminar e no mérito, a substituição da prisão preventiva por cautelares diversas.
+Às fls. 39-41, indeferi liminarmente o processamento da impetração por deficiência da instrução.
+Por intermédio da Petição n. 172.483/2023 (fls. 44-63), o ora Paciente pediu reconsideração do decisum supra, pois juntou aos autos cópia do decreto prisional.
+Às fls. 67-70, reconsiderei a decisão de fls. 39-41 e indeferi o pedido liminar, requisitando informações atualizadas dos autos da Ação Penal originária.
+As informações processuais requisitadas foram prestadas às fls. 76-78.
+O Ministério Público Federal opinou pela prejudicialidade da impetração às fls. 82-84.
+É o relatório.
+Decido
+De acordo com as informações processuais prestadas pela instância ordinária (fls 76-77), em 30/03/2023, o Paciente foi condenado à pena de 02 (dois) anos de reclusão, em regime prisional inicial semiaberto, e ao pagamento de 10 (dez) dias-multa, pelo cometimento do crime em tela, não lhe sendo permitido recorrer em liberdade.
+A condenação transitou em julgado em 04/05/20203.
+Desse modo, tratando-se, agora, de execução definitiva da pena, a pretensão ora deduzida está prejudicada.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. EXECUÇÃO PROVISÓRIA DA PENA. PERDA DO OBJETO. SUPERVENIENTE TRÂNSITO EM JULGADO DA CONDENAÇÃO. ALTERAÇÃO DO REGIME PRISIONAL FECHADO. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. PENA INFERIOR A 4 ANOS DE RECLUSÃO. RÉU PRIMÁRIO. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL CONFIGURADO NO PONTO.
+1. Caso em que não há como revogar o mandado de prisão, uma vez que sobreveio o trânsito em julgado da condenação. Superveniente perda do objeto do writ nesse aspecto.
+ .. " (HC 464.906/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/09/2019, DJe 19/09/2019; sem grifos no original.)
+Ante o exposto, em razão da ausência superveniente de interesse processual, JULGO PREJUDICADO o habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS . PENAL E PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ALEGADA ILEGITIMIDADE DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DA CONDENAÇÃO E DO TRÂNSITO EM JULGADO. EXECUÇÃO DEFINITIVA. PERDA DE OBJETO. HABEAS CORPUS PREJUDIC ADO.
