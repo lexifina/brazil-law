@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARCOS KELTON MOREIRA VASCONCELOS contra acórdão do Tribunal de Justiça do Estado de Rondônia proferido no HC n. 0805906-46.2023.8.22.0000.
+Consta dos autos o Acusado foi preso em flagrante no dia 03/06/2023, sendo posteriormente convertida em prisão preventiva (fl. 80), pela prática, em tese, do crime previsto no art. 121, caput, c.c. art. 14, inciso II, do Código Penal.
+A Defesa impetrou habeas corpus, que teve a ordem denegada pelo Tribunal de origem (fls. 204-208). Eis a ementa do acórdão (fls. 207-208):
+"HABEAS CORPUS HOMICÍDIO SIMPLES TENTADO. PRISÃO PREVENTIVA. REQUISITOS LEGAIS. PRESENÇA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES. INSUFICIÊNCIA.
+1. Se há indícios de participação do paciente no crime que lhe foi imputado, não há que se falar em revogação da prisão, sobretudo quando estão presentes os requisitos autorizadores, previstos nos arts. 312, 313 e 315 do CPP.
+2. Mantém-se a segregação cautelar que se encontra fundamentada na garantia da ordem pública, decorrente da gravidade concreta do delito imputado e para evitar a reiteração da prática delitiva.
+3. A aplicação das medidas cautelares diversas da prisão é incabível quando elas não se mostram suficientes para resguardar a ordem pública. Precedentes.
+4. Ordem denegada."
+Nas razões recursais, a Defesa alegou a ausência de fundamentação idônea do decreto prisional, bem como dos requisitos previstos nos art. 312 e 313 do Código de Processo Penal.
+Salientou que o Acusado possui condições pessoais favoráveis, possui trabalho lícito como motorista de caminhão e endereço fixo.
+Afirma ser possível a substituição da prisão cautelar por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Aduz a existência de fragilidade na conduta do Recorrente.
+Re quer, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares diversas, e a expedição de alvará de soltura em favor do Acusado.
+É o relatório. Decido.
+Verifica-se que a presente impetração trata-se de mera reiteração de pedido anterior, formulado no HC n. 836.722/RO, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem a mesma decisão na origem.
+Novamente a parte Impetrante não juntou as peças necessárias à devida compreensão da controvérsia. Com efeito, sequer a cópia do inteiro teor da decisão que converteu a prisão em flagrante em preventiva, que foi realizada por sistema de gravação digital (fl. 80), ficando consignado que "1) A íntegra da decisão será disponibilizada no sistema PJE, na aba audiências" (idem).
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Assim, concluo pela inadmissibilidade do mandamus, pela deficiente instrução ou porque, mutatis mutandis, "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+Ante o exposto, com base nos a rts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 836.722/RO. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
