@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Firmino das Virgens Lima, em que se aponta como autoridade coatora a Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 2171863-87.2023.8.26.0000 lá impetrado, mantendo a decisão do Juízo da 1ª Vara Criminal da comarca de Monte Mor/SP, que decretou a prisão temporária do paciente pela prática do crime do art. 121 do Código Penal.
+Neste writ, sustenta-se constrangimento ilegal na prisão decretada em desfavor do paciente. Destaca-se a ausência de fundamentação concreta a justificar a medida.
+Requer-se, assim, a concessão liminar da ordem para que seja revogada a prisão temporária/preventiva (fl. 20).
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade
+flagrante, demonstrada de plano.
+In casu, verifico, de plano, a inviabilidade do writ.
+Infere-se do decreto de prisão cautelar (fl. 116):
+ ..
+De acordo com os documentos carreados aos autos, há fortes indícios de autoria e materialidade delitiva a vincular o acusado ao gravíssimo delito em testilha, em especial pelas declarações do Guarda Municipal, que afirmou ter visto o averiguado com uma arma em punho, defronte ao local onde a vítima foi morta.
+Outrossim, o averiguado, desde a data dos fatos, se mudou, com sua família, do local em que residiam, estando em local incerto e não sabido. Desta forma, à luz dos elementos de convencimento trazidos pelo Ministério Público, verifico a real necessidade da decretação da prisão temporária do investigado, imprescindível à conclusão das investigações policiais e à garantia da integridade física da vítima, testemunhas e da ordem pública, com fundamento no disposto no artigo 1º, incisos I e III, da Lei nº 7.960/89, máxime em se considerando a natureza e circunstância do delito.
+O Tribunal de Justiça, no julgamento do habeas corpus, destacou (fls. 175/176):
+ ..  Não vislumbro constrangimento ilegal a ser sanado por esta via.
+Com efeito, a decisão que decretou a prisão cautelar do paciente encontra-se bem fundamentada, salientando que "a vítima foi encontrada morta no interior de seu veículo com diversas perfurações de arma de fogo em frente ao endereço do investigado FIRMINO, o qual foi visto no local dos fatos comum a arma em punho, ingressando em sua residência, pelo Guarda Municipal Rhuan Carlos, que estava de folga nas adjacências no momento (fls. 28). Desde a data do fato até o presente momento o averiguado e seus familiares não foram mais vistos em suas casas, e, nos termos na manifestação da D. Autoridade Policial "a oitiva do GCM e a estranha mudança repentina do Investigado com toda a família, norteia uma direção com fito a elucidação do crime, com suposta autoria delitiva de FIRMINO, além do que as oitivas de Diego e de Izabela apontarem haver pendencias financeiras entre a vítima e o filho do suposto autor"".
+Assim, verifica-se que se trata de delito grave, o acusado se encontra em local incerto e não sabido e a r. decisão pautou-se em elementos concretos, tendo o d. Magistrado entendido presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal.
+Desse modo, resta claro que para a determinação da prisão cautelar foram consideradas tanto as particularidades imputadas ao agente, como também sua periculosidade aferida em concreto, tudo a indicar a imprescindibilidade do claustro cautelar e a insuficiência de medidas alternativas previstas no art. 319 do Código de Processo Penal.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Em relação ao periculum libertatis, a gravidade da conduta, bem como a fuga do distrito da culpa demonstram a indispensabilidade da custódia cautelar para garantir a ordem pública e a aplicação da lei penal, não havendo manifesta ilegalidade (AgRg no RHC n. 164.660/SE, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Sexta Turma, DJe 10/2/2023).
+In casu, incabível a pretensão de concessão de liberdade, sobretudo em razão da gravidade concreta do delito (vítima encontrada morta no interior de seu veículo com diversas perfurações de arma de fogo) e pela fuga do local do crime (mudança repentina do acusado com toda a família).
+Ausente constrangimento ilegal a ser sanado nesta via.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO. PRISÃO CAUTELAR. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. GRAVIDADE CONCRETA DA CONDUTA. APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Habeas corpus indeferido liminarmente.
