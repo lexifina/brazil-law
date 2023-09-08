@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CRISTIANO DE SOUZA CARCIRAGUI e RICARDO LUIS SOARES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Infere-se dos autos que os pacientes foram condenados, em 10/11/2022, por infração ao art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado (Cristiano) e 6 anos de reclusão, em regime inicial fechado (Ricardo), sendo-lhes negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, o qual pende de julgamento.
+Na presente impetração, a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo para julgamento do apelo defensivo, destacando que os réus estão presos desde 21/12/2021 e aguardam o julgamento do recurso de apelação "que foi interposto em 21/11/2022 (cf. DOC. 03), mas, em razão do tempo de processamento deste recurso e de outros - cerca 5 meses -, as razões foram apresentadas em 11/4/2023 (cf. DOC. 04)." (e-STJ fl. 4).
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva dos pacientes.
+Indeferida a liminar (e-STJ fls. 79/81) e prestadas as informações 88/91 e 93/95), o Ministério Público Federal manifestou-se pela denegação da ordem, com recomendação para o julgamento célere da apelação (e-STJ fls. 96/99).
+É o relatório. Decido.
+Busca-se, em síntese, no presente mandamus, a revogação da prisão cautelar dos pacientes condenados a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado (Cristiano) e 6 anos de reclusão, em regime inicial fechado (Ricardo), por tráfico de drogas.
+O entendimento desta Corte Superior é no sentido de que, embora a lei processual não estabeleça prazo para o julgamento da apelação, tratando-se de recurso defensivo, a demora injustificada por circunstâncias não atribuíveis à defesa, quando o réu se encontra preso, configura constrangimento ilegal. Nesse sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO CAUTELAR. ROUBO CIRCUNSTANCIADO. USO DE DOCUMENTO FALSO. CORRUPÇÃO DE MENORES. APELAÇÃO DEFENSIVA PENDENTE DE JULGAMENTO HÁ QUASE CINCO ANOS. AUSÊNCIA DE JUSTIFICATIVA. EXCESSO DE PRAZO CONFIGURADO.
+1. Está configurado o excesso de prazo na apreciação da apelação defensiva, a qual aguarda julgamento na Corte de origem desde 14/8/2007, portanto há quase cinco anos, sem a existência de justificativa para o atraso.
+2. Hipótese em que o paciente permanece preso desde 7/9/2006.
+3. Ordem concedida para garantir ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, salvo se por outro motivo não estiver preso e ressalvada a possibilidade de haver nova decretação de prisão, caso ocorra a superveniência de fatos novos e concretos para tanto, ficando ratificada a liminar deferida (HC n. 222.683/CE, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 22/3/2012, DJe 11/4/2012).
+Todavia, o excesso de prazo não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+No presente caso, em 10/11/2022, foi proferida sentença condenando os pacientes a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado (Cristiano) e 6 anos de reclusão, em regime inicial fechado (Ricardo), negado o direito de recorrer em liberdade.
+Em suas informações, o Tribunal a quo esclareceu (e-STJ fl. 94):
+Em atenção à solicitação de Vossa Excelência, tenho a honra de informar que a Apelação Criminal nº 1500571-58.2021.8.26.0551 foi encaminhada nesta data ao Exmo. Des. Revisor para, em seguida, ser encaminhada à Mesa.
+Ressalto, ainda, que a recomendação do C. STJ para a análise da prisão preventiva foi realizada juntamente com a expedição do Relatório do Voto.
+No caso, do andamento processual, verifica-se que o recurso defensivo chegou à Corte a quo em 9/3/2023 e distribuído ao relator em 17/3/2023. As razões recursais foram juntadas em 11/4/2023 e na sequência, o feito foi encaminhado para o Ministério Público, que apresentou o parecer em 15/5/2023, sendo o feito então concluso ao relator.
+Extrai-se, ainda, que o feito foi encaminhado para o revisor em 22/8/2023, que já despachou pedind o dia para julgamento.
+Nesse contexto, considerando os trâmites necessários, não se visualiza desídia que possa ser atribuída ao Judiciário, a justificar o relaxamento da prisão por excesso de prazo.
+Além disso, vale lembrar que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória(HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+Assim, considerando a pena total a que foram condenados os pacientes - 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado (Cristiano) e 6 anos de reclusão, em regime inicial fechado (Ricardo) -, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, os pacientes se encontram impedidos de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+Ante o exposto, denego a ordem. Recomendo, contudo, ao Tribunal de origem que promova maior celeridade ao julgamento do apelo defensivo.
+Intimem-se.
+EMENTA
