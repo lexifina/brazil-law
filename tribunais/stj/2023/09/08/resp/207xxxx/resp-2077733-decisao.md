@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão proferido pelo TJ/SP, assim ementado: (e-STJ fl. 123)
+HONORÁRIOS ADVOCATÍCIOS Insurgência contra a fixação em 10% sobre o valor da causa, até o limite de R$10.000,00 Pedido de extinção do feito nos termos do art. 26 da Lei nº 6.830/80 Excepcionalidade do caso que exig e a aplicação, por analogia, do art. 85, § 8º do NCPC - Recurso não provido.
+Juízo Positivo de Retratação, assim ementado: (e-STJ fl. 202)
+HONORÁRIOS ADVOCATÍCIOS Insurgência contra a fixação em 10% sobre o valor da causa, até o limite de R$10.000,00 Pedido de extinção do feito nos termos do art. 26 da Lei nº 6.830/80 Excepcionalidade do caso que exige a aplicação, por analogia, do art. 85, § 8º do NCPC - Recurso não provido.
+Embargos acolhidos, assim ementado: (e-STJ fl. 221)
+EMBARGOS DE DECLARAÇÃO
+Recebimento para o desfazimento de contradição.
+É o relatório. Passo a decidir.
+No caso em análise, o recorrente defende a tese de que quando a Fazenda Pública for parte e não houver a constatação das hipóteses previstas no art. 85, §8º do CPC/15, a verba sucumbencial não pode ser fixada por equidade, devendo-se observar os limites percentuais previstos no art. 85, §3º do mesmo diploma legal
+Dito isso, anota-se que o Supremo Tribunal Federal, ao analisar o RE 1.412.069/PR, reconheceu a existência de repercussão geral da seguinte questão: "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (Tema 1.255/STF).
+O Superior Tribunal de Justiça, assim como o Supremo Tribunal Federal, versando o recurso sobre temas submetidos ao rito da repercussão geral, tem determinado o retorno dos processos para os Tribunais de origem, para que se aguarde o julgamento do recurso extraordinário representativo da controvérsia. A propósito: EDcl no AgInt no REsp n. 1.996.056/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2022; EDcl no AgInt no REsp n. 1.869.378/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/5/2023, DJe de 25/5/2023; ARE 1.244.038 AgR- segundo-EDv-AgR-ED, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 10/12/2020; ARE 1.144.360 AgR-ED, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 19/2/2019; e ARE 1.181.843 AgR- ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 23/6/2020.
+No mesmo sentido, confiram-se as seguintes decisões: AREsp 2.352.013/SP, Ministro Sérgio Kukina, DJe 15/08/2023; REsp 2.089.637/RS, Ministra Regina Helena Costa, DJe 15/08/2023; REsp 2.088.969/SP, Ministra Regina Helena Costa, DJe 15/08/2023, dentre outros julgados.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015). Por conseguinte, fica prejudicado, no momento, o exame do recurso especial de fls. 133-143.
+Publique-se. Intimem-se.
+EMENTA
