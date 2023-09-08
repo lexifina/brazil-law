@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 66-67):
+HABEAS CORPUS  TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO  PACIENTE QUE JÁ CUMPRIA PRISÃO PREVENTIVA POR OCASIÃO DA CONDENAÇÃO NA AÇÃO PENAL DE ORIGEM - PRISÃO PROVISÓRIA QUE FORA OBJETO DE IMPUGNAÇÃO ANTERIOR, TENDO SIDO RATIFICADA A MEDIDA NOS AUTOS DO HABEAS CORPUS No 202200348142 - ESTA NOVA IMPETRAÇÃO TEVE COMO OBJETO ESPECÍFICO DELIBERAÇÃO CONTIDA NA SENTENÇA EM QUE O MAGISTRADO NEGOU AO RÉU, ORA PACIENTE, PRETENSO DIREITO DE RECORRER EM LIBERDADE, TENDO SIDO RATIFICADA, PELO MAGISTRADO, A PRISÃO PREVENTIVA ORA IMPUGNADA  DECISÃO FUNDAMENTADA A CONTENTO - PERSISTÊNCIA DOS REQUISITOS DO ARTIGO 312 DO CPP DIANTE DA AUSÊNCIA DE QUALQUER ELEMENTO DE COGNIÇÃO NOVO NOS AUTOS QUE IMPLICASSE DELIBERAÇÃO EM SENTIDO CONTRÁRIO, TENDO SIDO DESTACADO PELA MAGISTRADO O FUNDAMENTO VÁLIDO PARA MANUTENAÇÃO PARA SEGREGAÇÃO, EVIDENCIANDO PERICULOSIDADE CONCRETA DO PACIENTE PARA A SOCIEDADE, RESTANDO EXPLICITADO, AINDA, O FUNDADO RECEIO DE QUE, EM LIBERDADE, O PACIENTE PODERIA COMETER NOVO CRIME, RESTANDO DESTACADO O FATO DE QUE O PACIENTE JÁ FIGUROU COMO RÉU EM OUTRAS DUAS AÇÕES PENAIS, HAVENDO UMA DELAS AINDA EM ANDAMENTO PERANTE A PRIMEIRA INSTÂNCIA E OUTRA JÁ JULGADA NA PRIMEIRA INSTÂNCIA, NA QUAL NÃO HOUVE TRÂNSITO EM JULGADO, DIANTE DA EXISTÊNCIA DE RECURSO AINDA PENDENTE DE JULGAMENTO NA INSTÂNCIA SUPERIOR - MANIFESTAÇÃO DA PROCURADORIA DE JUSTIÇA PELA DENEGAÇÃO DA ORDEM - PROPOSIÇÕES DO PARECER JURÍDICO ORA ENCAMPADAS E INCORPORADAS AO PRESENTE ACÓRDÃO COMO RAZÕES DE DECIDIR COMPLEMENTARES AOS FUNDAMENTOS EXPLICITADOS NO VOTO DA RELATORA DESTE WRIT - ORDEM DENEGADA - DECISÃO UNÂNIME.
+Consta dos autos que o paciente foi condenado, como incurso nos arts. 33 da Lei 11.343/2006 e 16, caput, da Lei 10.826/2003, na forma do art. 69 do CP, a 8 anos de reclusão, em regime inicial fechado, e 510 dias-multa, mantendo-se a prisão preventiva.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada.
+Neste writ, alega o impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a manutenção da prisão preventiva do paciente, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Deferida a liminar, prestadas as informações, manifestou-se o MPF pela prejudicialidade do writ.
+Como bem observado pelo MPF, compulsando as informações prestadas, verifica-se que, sobrevindo o julgamento da apelação, foi expedida Guia Definitiva de Execução e autuação de Execução de Pena junto ao Sistema Eletrônico de Execução Unificado - SEEU sob nº 0002140- 14.2016.8.25.0086.
+Nesse contexto, tratando-se de execução definitiva e não mais de prisão cautelar, fica evidenciada a perda superveniente do interesse processual.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
