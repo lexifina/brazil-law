@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FABIO RODRIGUES DO NASCIMENTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal nº 1539270-69.2021.8.26.0050).
+Depreende-se dos autos que o paciente foi sentenciado como incurso no artigo 33, caput, da Lei nº 11.343/06, à pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e pagamento 680 (seiscentos e oitenta) dias-multa, no mínimo legal.
+Interposta apelação defensiva, o Tribunal de origem deu parcial provimento ao recurso para redimensionar a pena imposta ao réu para 05 (cinco) anos e 10 (dez) meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa, no valor mínimo, mantida, no mais, a sentença por seus próprios fundamentos (fl. 28).
+No presente writ, a impetrante alega, em síntese, a nulidade das provas oriundas do flagrante em razão da busca pessoal realizada sem fundadas suspeitas e sem autorização judicial, sendo ilícitas as provas dela derivadas.
+Requer, liminarmente e no mérito, o reconhecimento da nulidade das provas com repercussão na absolvição do paciente.
+A liminar foi indeferida às fls. 41-42.
+As informações foram prestadas às fls. 56-70 e 72-82.
+O Ministério Público Federal lançou o parecer, às fls. 50-53, nos termos da ementa abaixo:
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. BUSCA PESSOAL. NULIDADE. AÇÃO PRECEDIDA DE FUNDADAS SUSPEITAS DE FLAGRANTE DELITO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. Não é cabível habeas corpus substitutivo de recurso quando não constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não se visualiza ilegalidade na busca pessoal realizada por policiais miliares, na hipótese em que, em patrulhamento de rotina o agente é localizado na via pública, em atitude suspeita, uma vez que presente a justa causa para o exercício da função policial.
+3. Parecer pelo não conhecimento do habeas corpus. Se conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+No que tange à suposta nulidade absoluta, configurada pela realização de prisão em flagrante, esta Corte firmou o posicionamento de que, "consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito"." (AgRg no HC n. 748.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+Ademais, via de regra, tratando-se de crime de tráfico ilícito de substância entorpecente, de natureza permanente, a ação se prolonga no tempo, de modo que, enquanto não cessada a permanência, haverá o estado de flagrância, o que possibilita a prisão, ainda que sem mandado.
+A esse respeito: AgRg no HC n. 796.161/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023; AgRg no HC n. 792.243/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023; AgRg no HC n. 770.312/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2022, DJe de 14/12/2022; AgRg no HC n. 758.678/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Feitas estas considerações iniciais, passo ao caso concreto.
+O Tribunal de origem afastou a tese de nulidade da abordagem a teor dos fundamentos abaixo (fls. 25-26):
+Consta dos autos que, nas circunstâncias espaço-temporais descritas na incoativa, Fábio trazia consigo, para fins de fornecimento a terceiros, 31 porções de cocaína, com peso líquido total de 20,4g; 21 porções de "crack", com peso líquido de 7,2g; 17 porções de maconha, com peso líquido total de 40,1g; 02 frascos de lança-perfume, com peso líquido total de 6ml; e uma pílula de ecstasy, com peso líquido de 0,4g, sem autorização e em desacordo com determinação legal ou regulamentar.
+Feito o introito, é de se rechaçar o reclamo de nulidade.
+Policiais militares narraram como se deu a prisão do réu: em patrulhamento de rotina avistaram o réu caminhando, o qual, ao notar a aproximação da viatura, demonstrou nervosismo e atravessou a rua. Diante do comportamento suspeito, ele foi abordado e revistado; em sua posse, localizaram diversas porções de entorpecentes, embaladas de forma pronta para o consumo de terceiros. Interpelado, o réu admitiu a prática delitiva e venderia os narcóticos em uma com unidade próxima ao local da abordagem (cf. gravação audiovisual).
+E daí não se prospecta irregularidade qualquer na atuação policial. A revista ocorrida após o réu sinalizar princípio de fuga com a aproximação da viatura policial, justifica a investida contestada.
+Como se observa, a busca pessoal teve como pressuposto as fundadas suspeitas da prática de crime pelo acusado, demonstrada por sua linguagem corporal percebida pelos policiais treinados para tal percepção, razão pela qual não há ilegalidade flagrante no acórdão recorrido.
+Vale registrar, no tocante às circunstâncias do flagrante, que esta Corte já decidiu que o depoimento policial merece credibilidade em virtude da fé pública inerente ao exercício da função estatal, só podendo ser relativizado diante da existência de indícios que apontem para a incriminação injustificada de investigados por motivos pessoais (AgRg no HC n. 815.812/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/5/2023, DJe de 22/5/2023; AgRg no AREsp n. 2.295.406/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023).
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
