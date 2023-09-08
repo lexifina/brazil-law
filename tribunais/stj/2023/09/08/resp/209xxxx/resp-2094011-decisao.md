@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda do Estado de São Paulo com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 137):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Impugnação rejeitada. Devidos honorários advocatícios. Código de Processo Civil, artigo 85, § 1º. Não incidente a exceção do § 7º, restrita a precatórios, eis que houve impugnação. Superior Tribunal de Justiça, Súmula 519 e Tema 408. Orientação superada pelas referidas disposições legais. Recurso provido para condenação do Estado devedor em honorários advocatícios, nos limites mínimos do artigo 85, §§ 3º e 5º, do Código de Processo Civil, sobre o valor do débito.
+A parte recorrente aponta violação aos arts. 927, IV, do CPC. Sustenta, em síntese, a não incidência de honorários advocatícios quando ocorrer a rejeição das alegações formuladas em impugnação ao cumprimento de sentença.
+Afirma que "a jurisprudência do Superior Tribunal de Justiça é pacífica a esse respeito, tal como se vê da Súmula nº 519 da Corte Superior, in verbis: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios". E tal enunciado segue sendo aplicado na vigência do CPC/2015, inclusive em sede de cumprimento de sentença contra a Fazenda Pública (..)." (fl. 146)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece acolhida.
+Com efeito, a Corte de origem entendeu que a condenação em honorários seria cabível na hipótese de rejeição da impugnação ao cumprimento de sentença, verbis (fl. 138):
+São devidos honorários advocatícios nos cumprimentos de sentença, Código de Processo Civil, artigo 85, § 1º, sem incidência da exceção do § 7º, restrita a precatórios, eis que houve impugnação.
+Superior Tribunal de Justiça, Súmula 519 e Tema 408, orientação superada pelas referidas disposições legais.
+Destarte, DÁ-SE provimento ao recurso para condenação do Estado devedor em honorários advocatícios, nos limites mínimos do artigo 85, §§ 3º e 5º, do Código de Processo Civil, sobre o valor do débito.
+Ocorre que, mesmo em feitos que tramitam sob a égide do atual CPC, é pacífica a jurisprudência desta Corte no sentido de que "a rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários advocatícios, nos termos da Súmula 519/STJ" (AgInt no REsp 1.668.737/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/6/2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HIPÓTESE DE REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. SÚMULA 519/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte, ao julgar o Recurso Especial n. 1.134.186/RS, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, a respeito da condenação ao pagamento de honorários advocatícios em impugnação ao cumprimento de sentença, firmou entendimento segundo o qual: a) são cabíveis em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se"; b) descabida a condenação quando rejeitada a impugnação; e c) devida a verba quando acolhida, ainda que em parte, a impugnação.
+III - Consoante a Súmula 519/STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.864.374/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 14/9/2020)
+Assim, andou mal a Corte de origem ao manter a referida verba honorária, porquanto se baseia em tese que não é aceita pela jurisprudência do STJ, sendo o caso de provimento do apelo nobre, para afastar os honorários fixados em virtude da rejeição à impugnação ao cumprimento de sentença.
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
