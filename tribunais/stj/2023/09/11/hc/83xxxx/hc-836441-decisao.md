@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jhenyffer Winy Souza Oliveira da Silva em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso (Habeas Corpus n. 1011041-61.2023.8.11.0000).
+Extrai-se dos autos que a paciente foi presa em flagrante, em 31/1/2023, convertida a prisão em preventiva, tendo sido concedida prisão domiciliar na mesma oportunidade, pela suposta prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido (Ação Penal n. 1000992-34.2023.8.11.0008, da 3ª Vara de Barra do Bugres).
+Ocorre que a paciente foi novamente presa em flagrante, em 31/3/2023, pela suposta prática dos delitos tipificados no art. 35 da Lei n. 11.343/2006 e art. 136, §3º do Código Penal, ocasião em que, diante do descumprimento das condições do benefício anteriormente concedido, foi re vogada a prisão domiciliar.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão acostado às fls (21/28).
+Sustenta a ausência de fundamentação na decretação da prisão cautelar imposta à pacien te, pois não preenchidos os requisitos do art. 312 do CPP, e excesso de prazo para a formação da culpa, entendendo suficiente a fixação de medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória, ainda que mediante a fixação de medidas cautelares menos gravosas.
+A liminar foi indeferida pelo Vice-Presidente, no exercício da Presidência, Ministro Og Fernandes (fls. 141/143).
+As informações foram prestadas (fls. 149/407, 408/416 e 419/423); foi requerida prioridade de julgamento (fls. 273/277).
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 425/430).
+Em consu lta à ação p enal, o feito encontra-se concluso para a prolação de sentença.
+É o relatório.
+O writ não merece p rosperar.
+Inicialmente, quanto ao alegado excesso de prazo para a formação da culpa, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise da alegação importaria i ndevida supressão de instância, de modo que o mandamus não pode ser conhecido quan to ao ponto.
+Ao que se tem dos autos, a prisão preventiva foi justificada pelo Juízo de origem em razão de que (fl. 35 - grifo nosso ):
+ ..
+2. Nos autos (APF nº 1000331-55.2023.8.11.0008 - Id. 108811027), foi concedida a benesse da PRISÃO DOMICILIAR com o uso de monitoramento eletrônico, em favor da Indiciada em 01/02/2023 (Id. 113606387).
+3. Em 31/03/2023, aportou-se neste Juízo os autos (APF nº 1001174-20.2023.8.11.0008), onde a indiciada teria cometido os fatos delituosos tipificados pelo art. 35 da Lai 11.343/06, art. 136, §3º do Código Penal.
+4. Assim, restou demonstrado que o(a) indiciado(a) descumpriu as condições do benefício anteriormente concedido no APF nº 1000331-55.2023.8.11.0008, devendo desta maneira, este ser revogado.
+ ..
+6. Portanto, a partir do momento em que o(a) indiciado(a) descumpre as condições impostas, obviamente que necessita o caso de providência judicial, não fazendo jus ao benefício anteriormente concedido.
+7. Assim, REVOGO o benefício de "prisão domiciliar com o uso de monitoramento eletrônico" concedido ao Id. 113606387 (APF nº 1000331-55.2023.8.11.0008 - Id. 108811027), para a indiciada JHENYFFER WINY SOUZA OLIVEIRA DA SILVA.
+8. Expeça-se mandado de prisão para o(a) indiciado(a) , perfazendo o seu imediato registro no Banco Nacional de Mandados de Prisão - BNMP do Conselho Nacional de Justiça - CNJ, encaminhando-o para imediato cumprimento
+ ..
+O Tribunal de origem, por sua vez, manteve a decretação da custódia, salientando que (fls. 208/210 - grifo nosso):
+ ..
+A beneficiária foi presa em flagrante delito no dia 31 de janeiro de 2023 (APF n. 1000331-55.2023.8.11.0008), pela suposta prática do delito de tráfico de drogas (artigo 33 da Lei 11.343/06) - "guardar" na residência 16 porções de maconha, pesando aproximadamente 7.390kg (sete quilos trezentos e noventa gramas), 2 porções de cocaína, pesando aproximadamente 190g (cento e noventa gramas), 1 sacola contendo "scank", pesando aproximadamente 280g (duzentos e oitenta gramas), e ainda 2 unidades de ácido bórico.
+Naquela oportunidade, a sua prisão foi convertida em domiciliar, com o uso de tornozeleira eletrônica, com fulcro no artigo 318 do CPP, em razão de ter filho de três anos de idade.
+Em 31 de março de 2023 a favorecida foi presa novamente em flagrante delito (APF n. 1001174-20.2023.8.11.0008), juntamente com Wagner, pois teria praticado crime da mesma natureza, incursando-a na prática dos delitos previstos no artigo 35 da Lei 11.343/06 e no artigo 136, § 3º, do Código Penal - "guardar" na residência 731g (setecentos e trinta e um gramas) de maconha e 10g (dez gramas) de cocaína, e agressão do filho menor.
+Em decorrência disso, em 12 de abril de 2023 foi revogado o benefício da prisão domiciliar anteriormente concedido à paciente, ante o descumprimento das condições estabelecidas, haja vista que reiterou na prática de crime doloso, e decretada a prisão preventiva (autos n. 1000992-34.2023.8.11.0008).
+ ..
+Todavia, com o exame dos autos e da decisão combatida, observo que a pretensão liberatória é totalmente descabida.
+Conforme supramencionado a paciente foi presa em flagrante delito e apenas dois meses depois incorreu, em tese, em nova prática delitiva, pois, ao que se dessume do feito, sua residência e do suspeito Wagner funciona como "boca de fumo" (ponto de comércio de substância entorpecente), de modo que estariam associados para a prática da traficância.
+Importante ressaltar que ela praticou, supostamente, novo delito quando estava em cumprimento de medida mais branda, haja vista que lhe foi concedido o benefício de prisão domiciliar, frise-se ainda que esta medida somente foi concedida justamente em virtude de ter filho menor e, nesta oportunidade, incorreu na prática de crime inclusive contra o filho (artigo 136, § 3º, do CP).
+ ..
+Nesse contexto, observa-se que a decisão impugnada encontra-se fundamentada adequadamente e não há como acolher a pretensão liberatória diante do risco efetivo de renitência criminosa, fator este que legitima a prisão preventiva.
+ ..
+Realmente, há motivação idônea e suficiente a amparar a prisão preventiva, qual seja, o risco concreto de reiteração delitiva, pelo fato de que a paciente estava em cumprimento de prisão do miciliar quando cometeu os novos delitos, somado ao fato de terem sido apreendidas drogas de naturezas diversas e em razoável quantidade - 731 g de maconh a e 10 g de cocaína - além entorpecentes recolhidos na prisão em flagrante anterior - 7,39 kg de maconha, 190 g de cocaína, 280 g de skank e duas unidades de ácido bórico.
+Nesse sentido, seguem precedentes:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. FALTA DE FUNDAMENTAÇÃO DA PRIMEIRA PRISÃO PREVENTIVA, CONTEMPORANEIDADE E FALTA DE CONTRADITÓRIO PRÉVIO. SUPRESSÃO DE INSTÂNCIA. SEGUNDA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO VÁLIDA. PRISÃO DOMICILIAR CUMULADA COM MONITORAMENTO ELETRÔNICO. DESCUMPRIMENTO DE MEDIDAS CAUTELARES. AUSÊNCIA DE ILEGALIDADE.
+1. As matérias postas nos presentes autos (fundamentação da primeira prisão preventiva, contemporaneidade da segunda constrição e contraditório prévio) não foram tratadas pelo Tribunal a quo, de forma que o seu exame perante o Superior Tribunal de Justiça fica inviabilizado, sob pena de ocorrência de indevida supressão de instância.
+2. Substituída a prisão preventiva por prisão domiciliar, aliado ao monitoramento eletrônico, considerando ser a paciente genitora de menores de 12 anos de idade, após a instalação da tornozeleira, sobrevieram dias "sem comunicação, com alerta de fim de bateria. A acusada ignorou os alertas enviados e não foi possível contatá-la pelo telefone de cadastro", de maneira a ser válida nova decretação da segregação extrema, nos termos do art. 312, § 1º.
+3. "O descumprimento reiterado da prisão domiciliar e das medidas cautelares aplicadas cumulativamente caracteriza situação excepcionalíssima, hábil a afastar o entendimento firmado pelo Supremo Tribunal Federal no Habeas Corpus coletivo n. 143.641/SP." (AgRg no HC n. 774.665/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023.) 4. Agravo regimental desprovido.
+(AgRg no RHC n. 176.927/PR, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 24/8/2023 - grifo nosso)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. BENEFÍCIO REVOGADO POR DESCUMPRIMENTO DE MEDIDA CAUTELAR. PROPORCIONALIDADE DA MEDIDA EXTREMA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com o advento da Lei n. 13.257/2016, o art. 318 do Código de Processo Penal passou a permitir ao Juiz a substituição da prisão cautelar pela domiciliar quando o agente for "mulher com filho de até 12 (doze) anos de idade incompletos". Posteriormente, em 20/12/2018, foi publicada a Lei n. 13.769, que incluiu os arts. 318-A e 318-B ao Código de Processo Penal, impondo condições a essa substituição.
+2. Deferida em favor da agravante a substituição por prisão domiciliar no âmbito do HC n. 720.310/PB, de minha relatoria, tendo sido cumulada com monitoramento eletrônico pelo Juízo de 1ª instância, esta última cautelar foi descumprida reiteradamente, sem qualquer justificativa plausível, o que levou à nova decretação da prisão preventiva, dessa vez fundamentada no desatendimento de medida cautelar (312, § 1º, CPP). Precedentes.
+3. Inviável, pois, o restabelecimento do benefício, visto que não se pode corroborar, notadamente em sede de processo penal, abusos de direito e ilegalidades praticadas sob os auspícios do Estado-juiz.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 166.013/PB, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2022- grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES FIXADAS ANTERIORMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. "O descumprimento de medida cautelar anteriormente imposta, quando da concessão da liberdade provisória, é motivo legal para a decretação da prisão preventiva. Inteligência dos artigos 312, parágrafo único e 282, § 4º, ambos do Código de Processo Penal" (HC n. 422.646/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+3. No presente caso, o agravante não foi encontrado nas diligências realizadas pelo oficial de justiça durante a noite e aos finais de semanas, descumprindo a medida cautelar de recolhimento noturno e aos finais de semana, o que enseja a decretação da prisão preventiva para a garantia da aplicação da lei penal e conveniência da instrução criminal.
+4. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 699.265/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não i mpedem a manutenção da prisão cautelar quando devidamente fundament ada; e que é i naplicável medida cautelar alternativa quando as circunstâncias evidenc iam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pelo Subprocurador-Geral da República José Adonis Callou de Araújo Sá (fls. 425/430), o qual tamb ém a doto como razão de decidir.
+Ante o exposto, com base no parecer ministerial e nos precedentes, conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FO GO DE USO PERMITIDO . PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. RISCO REAL DE REI TERAÇÃO DELITIVA. PRISÃO DOMICILIAR. DESCUMPRIMENTO DE CONDIÇÕES. ENVOLVIMENTO EM NOVO DELITO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER MINISTERIAL ACOLHIDO.
+Writ parcialmente conhecido e, nessa parte, ordem denegada.
