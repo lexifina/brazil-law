@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PERDA SUPERVENIENTE DO OBJETO. CONTINÊNCIA. AUSÊNCIA DE INTERESSE DE AGIR. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem ao entender pela inexistência de interesse de agir no caso dos autos, firmou entendimento com base no conjunto probatório dos autos.
+2. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca de fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por C. R. D. PAULI GUINCHOS LTDA. contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante quanto à questão o referente à inexistência de interesse de agir no caso dos autos (fls. 2.722-2.726).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 2.547-2.548):
+APELAÇÃO CIVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DEPRESTAÇÃO DE CONTAS. SEGUNDA FASE. PERDA SUPERVENIENTE DOOBJETO. EXTINÇÃO DA AÇÃO. CONTINÊNCIA. AÇÃO DE COBRANÇA COM RECONVENÇÃO. REVISIONAL DE CONTRATOS BANCÁRIOS. SENTENÇA MANTIDA. I. DO DEVER DE PRESTAR CONTAS. AQUELE QUE ADMINISTRA BENS,NEGÓCIOS OU INTERESSES ALHEIOS DEVE PRESTAR CONTAS. MAS O DIREITO A OBTER AS CONTAS NÃO É ABSOLUTO, DEVENDO O AUTORINDICAR MINIMAMENTE O QUE ENTENDE NECESSÁRIO ESCLARECER. II. IMPOSSIBILIDADE DE DISCUSSÃO DA VALIDADE DAS CLÁUSULAS CONTRATUAIS NO ÂMBITO DAS AÇÕES DE PRESTAÇÃO DE CONTAS, POIS ESTA NÃO TEM NATUREZA REVISIONAL. ADMITIR A POSSIBILIDADE DE REVISÃO CONTRATUAL, EM RITO ESPECIAL DAAÇÃO DE PRESTAÇÃO DE CONTAS, REPRESENTA OFENSA AO CONTRADITÓRIO E AMPLA DEFESA (ENTENDIMENTO DA SEGUNDASEÇÃO DO STJ, FIRMADO NO JULGAMENTO DO RESP 1.497.831/PR, SOBO RITO DOS RECURSOS REPETITIVOS). III. A CONTINÊNCIA OCORRE QUANDO HOUVER ENTRE DUAS OU MAISAÇÕES IDENTIDADE QUANTO ÀS PARTES E À CAUSA DE PEDIR, MAS OPEDIDO DE UMA, POR SER MAIS AMPLO, ABRANGE O DAS DEMAIS(ART. 56 DO CPC/15). NO CASO, A PRESENTE AÇÃO DE PRESTAÇÃO DECONTAS QUE APRESENTA EM SUA SEGUNDA FASE PRETENSÃO REVISIONAL, CARACTERIZA A AUSÊNCIA DE INTERESSE PROCESSUAL, NA MEDIDA EM QUE O OBJETO INICIAL FOI AMPLIADO NAS DEMAIS DEMANDAS EM CURSO. IV. SUCUMBÊNCIA MANTIDA NOS TERMOS DA SENTENÇA, DIANTE DOPRINCÍPIO DA CAUSALIDADE. À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados (fls. 2.572-2.575).
+No presente agravo interno, alega a agravante que improcedente a incidência da Súmula n. 7 do STJ, no caso, porquanto a falta de interesse de agir não está embasada no conjunto probatório, mas na incorreta interpretação de dispositivos legais, quando foi julgada extinta ação de exigir contas por reputar contida (continência) em ações de cobrança.
+Aduz, ainda, que a divergência jurisprudencial foi devidamente demonstrada, a qual também não enseja reexame de fatos.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 2.740-2.742).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PERDA SUPERVENIENTE DO OBJETO. CONTINÊNCIA. AUSÊNCIA DE INTERESSE DE AGIR. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem ao entender pela inexistência de interesse de agir no caso dos autos, firmou entendimento com base no conjunto probatório dos autos.
+2. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca de fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, insurge-se a recorrente contra o entendimento proferido pela Corte de origem que confirmou o entendimento de extinção do feio por falta de interesse de agir quando o objeto da causa, o pedido.
+Consoante relatado, o agravo em recurso especial foi conhecido para se conhecer do recurso especial e negar-lhe provimento, em razão da incidência da Súmula n. 7/STJ, no caso, por demandar a análise de provas a pretensão do ora agravante quanto à inexistência de interesse de agir no caso dos autos.
+Não prospera o presente recurso.
+De início, conforme assentado na decisão agravada, inviável a apreciação das alegações da parte ora agravante, considerando que a Corte de origem, ao entender pela inexistência de interesse de agir no caso dos autos, firmou entendimento com base no conjunto probatório dos autos. Confira-se (fl. 2.544):
+Embora tenha havido decisão anterior, proferida em agravo de instrumento, alertando sobre a conexão das ações em curso (prestação de contas e ações de cobrança e reconheceu ações revisionais), é preciso analisar a questão diante da atual fase da prestação de contas.
+A conexão ocorre quando duas ou mais ações tiverem pedido ou causa de pedir comum, nos termos do CPC:
+Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
+Por outro lado, nos termos do Art. 56 do CPC, a continência ocorre quando houver entre duas ou mais ações identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais.
+No caso, observa-se que as demandas ajuizadas posteriormente apresentam maior abrangência das questões postas na ação de prestação de contas. Evidente que as questões tratadas nas demandas "conexas" dizem sobre as contas, mas ampliam a discussão quanto às condições pactuadas e eventuais ilegalidades.
+Com efeito, o provimento jurisdicional é considerado inútil quando é impossível o resultado almejado.
+Assim, a presente ação de prestação de contas que apresenta em sua segunda fase pretensão revisional, caracteriza a ausência de interesse processual, na medida em que o objeto inicial foi ampliado nas demais demandas em curso.
+Além disso, ine xistirá a falta de interesse processual quando o objeto da causa - o pedido - for juridicamente impossível de forma manifesta, não existindo razões para que se dê prosseguimento ao feito.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. 1. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. 2. AMEAÇA DE CONSTRIÇÃO NÃO RECONHECIDA. AUSÊNCIA DE INTERESSE DE AGIR NA PROPOSITURA DA AÇÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. 3. HONORÁRIOS ADVOCATÍCIOS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. CONDENAÇÃO DE AUTOR. NECESSIDADE. RECURSO ESPECIAL AGRAVO INTERNO NÃO PROVIDO.
+1. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Rever as conclusões quanto ao interesse de agir demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+3. Tendo em vista que o interesse de agir estava ausente desde a propositura da ação, por óbvio que os honorários advocatícios devem ser suportados pelo autor, que deu causa à oposição dos embargos, inclusive com a apresentação de defesa pela parte contrária.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.040.562/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Outrossim, consoante, também assentado na decisão agravada, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
