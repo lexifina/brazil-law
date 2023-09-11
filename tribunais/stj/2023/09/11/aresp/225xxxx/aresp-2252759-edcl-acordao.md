@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. EXISTÊNCIA DE VÍCIO REDIBITÓRIO . ALEGAÇÃO DE CONSUMAÇÃO DO PRAZO DECADENCIAL. CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE DECORREU DA ANÁLISE DOS FATOS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que o Tribunal de origem não incorreu em negativa da prestação jurisdicional, bem como que o acolhimento da tese recursal, de decurso do prazo decadencial por vício oculto, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ODEBRECHT REALIZAÇÕES SP 16 - EMPREENDIMENTO IMOBILIÁRIO S.A. (ODEBRECHT) contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. EXISTÊNCIA DE VÍCIO CONSTRUTIVO. ALEGAÇÃO DE CONSUMAÇÃO DO PRAZO DECADENCIAL. CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE DECORREU DA ANÁLISE DOS FATOS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando a novo julgamento da causa.
+2. No caso, para ultrapassar a conclusão do Tribunal estadual, que afastou a alegação de decurso do prazo decadencial de 180 (cento e oitenta) dias, ou, subsidiariamente, de 1 (um) ano, aplicável à hipótese de rescisão contratual por vícios ocultos, seria necessário o reexame do acervo fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+Nas razões do presente inconformismo, reiterou a alegação de ausência de fundamentação e omissão do Tribunal estadual acerca da consumação do prazo decadencial de um ano, previsto no art. 445, § 1º, do CC, aplicável à hipótese de rescisão contratual por vícios ocultos, cuja contagem se inicia com a ciência da realização do negócio ou do fato que permite o exercício do direito, questão cuja solução independe do reexame de provas.
+Foi apresentada contraminuta (e-STJ, fls. 436/453).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. EXISTÊNCIA DE VÍCIO REDIBITÓRIO . ALEGAÇÃO DE CONSUMAÇÃO DO PRAZO DECADENCIAL. CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE DECORREU DA ANÁLISE DOS FATOS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que o Tribunal de origem não incorreu em negativa da prestação jurisdicional, bem como que o acolhimento da tese recursal, de decurso do prazo decadencial por vício oculto, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+Trata-se de ação de rescisão de promessa de compra e venda de imóvel (unidade hoteleira), cumulada com devolução da integralidade dos valores pagos, em decorrência de defeito no sistema de climatização e refrigeração do edifício.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, ODEBRECHT reiterou a alegação de ausência de fundamentação e omissão do Tribunal estadual acerca da consumação do prazo decadencial de um ano, previsto no art. 445, § 1º, do CC, aplicável à hipótese de rescisão contratual por vícios ocultos, cuja contagem se inicia com a ciência da realização do negócio ou do fato que permite o exercício do direito, questão cuja solução independe do reexame de provas.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que, no caso, o Tribunal de origem não incorreu em negativa da prestação jurisdicional, bem como que o acolhimento da tese recursal, de decurso do prazo decadencial ânuo, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Isso porque, conforme destacado no acórdão ora embargado, a conclusão do TJSP, no sentido de afastar a ocorrência da decadência do direito do adquirente, decorreu da análise de questões fáticas próprias da causa, notadamente, em decorrência dos problemas apresentados no sistema de climatização e ar condicionado do edifício, o que inviabilizou, inclusive, a entrega definitiva do empreendimento. Ademais, por terem as empresas se comprometido a sanar a irregularidade, a parte autora aguardou, de boa-fé, a solução extrajudicial do problema, não sendo razoável, portanto, falar-se em decurso do prazo decadencial.
+Cumpre asseverar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, R el. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 - sem destaques no original)
+Dessa forma, mantém-se a decisão embargada, porque não há motivos para a sua alteração.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
