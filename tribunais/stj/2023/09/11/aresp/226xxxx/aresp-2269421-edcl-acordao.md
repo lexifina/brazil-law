@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPLANTAÇÃO AOS VENCIMENTOS. DIFERENÇA DE CONVERSÃO DE MOEDA EM URV. EXECUÇÃO EXTINTA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. DEFICIÊNCIA DE COTEJO ANALÍTICO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de cumprimento individual de sentença coletiva ajuizada contra o Estado do Maranhão objetivando o pagamento do reajuste de 3,17% sobre os seus vencimentos, a partir da conversão de Cruzeiro para URV.
+II - Na sentença, extinguiu-se o feito, por ocorrência da prescrição. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do apelo especial, por falta de impugnação do fundamento da inexistência de negativa de prestação jurisdicional pela Corte de origem, foram tratados no acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se conhecimento ao agravo em recurso especial interposto por Edwirges de Jesus Durans de Araújo, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Maranhão, cuja ementa foi lançada nestes termos:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. URV SINTSEP. ADESÃO DASERVIDORA À LEI ESTADUAL Nº 9.664/2012 (PGCE). LIMITAÇÃO TEMPORAL. AFRONTAÀ COISA JULGADA. INOCORRÊNCIA. MANUTENÇÃO DA SENTENÇA DE EXTINÇÃO DAEXECUÇÃO POR FUNDAMENTO DIVERSO. AGRAVO INTERNO PROVIDO.
+1. Embora tenha decidido monocraticamente pelo provimento do apelo originário, entendo ser o caso de, colegiadamente, prover o agravo interno para manter a sentença extintiva de primeiro grau, porém, por fundamento diverso.
+2. Há entendimento firmado pela Suprema Corte no RE 561836, com repercussão geral reconhecida, no sentido de que "o término da incorporação dos 11,98%, ou do índice obtido em cada caso, na remuneração deve ocorrer no momento em que a carreira do servidor passa por uma restruturação remuneratória, porquanto não há direito à percepção a daeternum de parcela de remuneração por servidor público" (RE 561836, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em 26/09/2013, DJe 10-02-2014).
+3. In casu, observo a ocorrência da reestruturação da carreira da servidora por meio da promulgação do Plano Geral de Carreiras e Cargos dos Servidores da Administração Direta, Autárquica e Fundacional do Poder Executivo - PGCE, instituído mediante a Lei Estadual no 9.664, de 17/07/2012, e ao qual anuiu expressamente, conforme comprova seu histórico juntado pelo agravante no ID nº 12277968, com efeitos a partir de 01/12/2012.
+4. Nesse sentido, considerando que a parte agravada aderiu à reestruturação da carreira em01 de dezembro de 2012, este é o marco final para o pagamento dos valores retroativos devidos, conforme consignado pelo juízo de base, devendo ser observada, ainda, a prescrição quinquenal com relação à data de ajuizamento da ação coletiva pelo sindicato.
+5. Saliento que o título coletivo formado na ação ajuizada pelo SINTSEP tem, em princípio,aplicação plena a todos os servidores substituídos, os quais, todavia, possuem aspectosindividuais que não podem deixar de ser observados, sendo a adesão ao PGCE um dessesaspectos, que retira do servidor o direito à implantação do percentual de URV e deeventuais valores posteriores à adesão, uma vez que já abarcados pela Lei Estadual nº 9.664/2012.
+6. Agravo interno provido, a fim de negar provimento ao apelo originário e manter a sentença que extinguiu o feito executivo, por fundamento diverso.
+Na origem, trata-se de cumprimento individual de sentença coletiva ajuizada por Edwirges de Jesus Durans de Araújo contra o Estado do Maranhão objetivando o pagamento do reajuste de 3,17% sobre os seus vencimentos, a partir da conversão de Cruzeiro para URV.
+Na sentença, extinguiu-se o feito, por ocorrência da prescrição. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+No recurso especial, Edwirges de Jesus Durans de Araújo aponta dissídio jurisprudencial e alega violação dos arts. 489 § 1º e 1.022 II do CPC, uma vez que deixou de enfrentar matérias relevantes e que, ao discutir a limitação temporal do direito assegurado em ação coletiva, violou a coisa julgada, considerando que a liquidação do título já havia sido efetivada, tornando preclusa a matéria.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do presente agravo."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPLANTAÇÃO AOS VENCIMENTOS. DIFERENÇA DE CONVERSÃO DE MOEDA EM URV. EXECUÇÃO EXTINTA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. DEFICIÊNCIA DE COTEJO ANALÍTICO.
+I - Na origem, trata-se de cumprimento individual de sentença coletiva na qual se reconheceu o direito de implantação aos vencimentos do percentual de diferença em momento da conversão de moeda em Unidade Real de Valor (URV). Na sentença, julgou-se extinta a execução ante o reconhecimento de prescrição quinquenal da pretensão executória. No Tribunal a quo, a sentença foi mantida por fundamento diverso, qual seja a reestruturação remuneratória das carreiras.
+II - Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC e na deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente à deficiência de cotejo analítico.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+O não conhecimento da alínea "c" não impede o conhecimento sobre o objeto fundado na alínea "a", porém a corte superior restou omissa neste ponto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPLANTAÇÃO AOS VENCIMENTOS. DIFERENÇA DE CONVERSÃO DE MOEDA EM URV. EXECUÇÃO EXTINTA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. DEFICIÊNCIA DE COTEJO ANALÍTICO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de cumprimento individual de sentença coletiva ajuizada contra o Estado do Maranhão objetivando o pagamento do reajuste de 3,17% sobre os seus vencimentos, a partir da conversão de Cruzeiro para URV.
+II - Na sentença, extinguiu-se o feito, por ocorrência da prescrição. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do apelo especial, por falta de impugnação do fundamento da inexistência de negativa de prestação jurisdicional pela Corte de origem, foram tratados no acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do apelo especial, por falta de impugnação do fundamento da inexistência de negativa de prestação jurisdicional pela Corte de origem, foram tratados no acórdão recorrido, o que afasta a alegação de omissão, nos termos assim expostos:
+Na sua petição de agravo em recurso especial, por sua vez, a parte agravante somente trouxe alegações genéricas a respeito do óbice. As afirmações encontradas no agravo em recurso especial, quanto à negativa de seguimento relativamente ao óbice referente à deficiência de cotejo analítico, são insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem. Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos. (..)
+Não existindo impugnação à decisão que inadmitiu o recurso especial, correta a aplicação do art. 544, § 4º, I, do Código de Processo Civil de 1973 (atual art. 932, III, do Código de Processo Civil de 2015), para não conhecer do agravo nos próprios autos. Se não se conhece do agravo em recurso especial, não é viável a análise de argumentos relacionados ao mérito do recurso especial.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
