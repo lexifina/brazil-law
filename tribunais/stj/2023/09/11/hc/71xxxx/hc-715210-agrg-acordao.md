@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO. PLEITOS DE ABSOLVIÇÃO E REVISÃO DA DOSIMETRIA. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÕES QUE DEMANDAM REEXAME DE PROVAS. RECURSO QUE SE LIMITA A REITERAR OS ARGUMENTOS DA IMPETRAÇÃO, SEM ATACAR O FUNDAMENTO CENTRAL QUE ENSEJOU O INDEFERIMENTO LIMINAR DA INICIAL. SÚMULA 182/STJ. INCIDÊNCIA. CONHECIMENTO. IMPOSSIBILIDADE.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Edson Camargo contra decisão da minha lavra, na qual deneguei a ordem no writ impetrado em seu favor, assim ementada (fl. 1171):
+PENAL. HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO. PLEITOS DE ABSOLVIÇÃO E REVISÃO DA DOSIMETRIA. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÕES QUE DEMANDAM REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
+Alega a agravante, em síntese, a conclusão resultou em injustiça, pois condenado pelo delito de associação para o tráfico (art. 35, caput, da Lei de Drogas) e com cálculo dosimétrico, no mais, das reprimendas, em descompasso com o entendimento deste e. STJ, o que merece ser redimensionado (fl. 1181).
+Reitera, ademais, a inicial.
+Postula, então, caso não reconsiderada a decisão, a remessa do feito ao julgamento colegiado para CONHECER E PROVER este Agravo Regimental, e, derradeiramente, conceder a ordem para: (i) absolver o agravante da imputação relativa ao art. 35 caput, da Lei 11.346/06 e, sem prejuízo do item retro, (ii) redimensionaras penas fixadas para: a) expurgara fração de 1/6 da primeira fase da dosimetria pertinentemente à vetorial da culpabilidade; b) determinara compensação da atenuante da menoridade relativa com a agravante da reincidência, porquanto perfeitamente cabível a compensação, conforme já decidiu este e. STJ; c) expurgar, quanto à terceira fase, a elevação de metade da pena, com redimensionamento para 1/3, correspondente à soma de 1/6 pela incidência do art. 2º, § 2º da Lei 12.850/2013 e 1/6 pela incidência do art. 2º, § 4º, I, da Lei 12.850/2013, haja vista a ausência de fundamentação concreta apta a transcender à previsão já contida no correspondente dispositivo, conforme já decidiu este e. STJ; d) Quanto à imputação de associação para o tráfico, expurgar a exasperação da pena-base no tocante à quantidade e natureza de drogas, uma vez que parte de suposição abstrata acerca da gravidade das substâncias ilícitas sem que, repita-se, conforme o próprio r. voto condutor admite, tenha ocorrido apreensão de drogas para indicação do quantitativo e natureza dos ilícitos em face do agravante; e) Ainda, quanto à imputação de associação para o tráfico, conforme reconheceu o Ministério Público, inclusive, expurgara majorante de 1/3 da pena, porquanto ausente idônea motivação para tanto, conforme já deliberou este e. STJ, a teor da argumentação vertida nos tópicos desta impetração, por ser medida de direito e de justiça (fls. 1192/1193).
+Contrarrazões do Ministério Público de Santa Catarina (fls. 1211/1218).
+Opinou o Ministério Público Federal pelo desprovimento do agravo regimental, conforme se extrai (fls. 1221/1223):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO E PERTINÊNCIA A ORGANIZAÇÃO CRIMINOSA. PLEITO DE ABSOLVIÇÃO DO PACIENTE OU DE REFORMA DA DOSIMETRIA DA PENA. DENEGAÇÃO MONOCRÁTICA DA ORDEM. IMPOSSIBILIDADE DE UTILIZAR O HABEAS CORPUS COMO SEGUNDA APELAÇÃO. PRECEDENTES DO STJ. REITERAÇÃO DO PARECER 296/JAC/2022. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO AGRAVO REGIMENTAL.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO. PLEITOS DE ABSOLVIÇÃO E REVISÃO DA DOSIMETRIA. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÕES QUE DEMANDAM REEXAME DE PROVAS. RECURSO QUE SE LIMITA A REITERAR OS ARGUMENTOS DA IMPETRAÇÃO, SEM ATACAR O FUNDAMENTO CENTRAL QUE ENSEJOU O INDEFERIMENTO LIMINAR DA INICIAL. SÚMULA 182/STJ. INCIDÊNCIA. CONHECIMENTO. IMPOSSIBILIDADE.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo regimental não comporta conhecimento.
+Isso porque o agravante se limitou a reiterar os argumentos da impetração, sem refutar o argumento central que ensejou o indeferimento liminar da inicial, consistente na impossibilidade de se revisar a condenação imposta e mantida pelas instâncias ordinárias.
+O mandamus não é a via adequada para modificar a conclusão das instâncias ordinárias a respeito da apreciação da prova produzida, pois inviável a utilização da via eleita como uma segunda apelação, devendo ser preservada a convicção do Magistrado, mais próximo dos fatos e da ação penal (Princípio da Confiança no Juiz do Processo).
+Para tanto, existe a via da revisão criminal, fundamentada no art. 621, I, do Código de Processo Penal, que admite a revisão dos processos findos quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos.
+Assim, tem incidência a Súmula 182/STJ.
+Em f ace do exposto, não conheço do agravo regimental.
