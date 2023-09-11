@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Thayna D"Andrea Okiama contra o acórdão de apelação proferido pelo Tribunal de Justiça de São Paulo nos autos da Ação Penal n. 0006640-11.2017.8.26.0297 (fl. 29):
+Apelação criminal - Tráfico ilícito de drogas - Acusada presa em flagrante na posse de cocaína, crack e maconha - Negativa de autoria por parte da acusada foi infirmada pelo relato dos policiais responsáveis por sua detenção - Alegação de que as drogas não lhe pertenciam carece de verossimilhança - As circunstâncias da apreensão e a quantidade de droga, aliadas à notícia de que a ré estava traficando no local, denotam que não é merecedora da causa de diminuição de pena do § 4º do art. 33 da Lei de Drogas - Além disso, a acusada foi denunciada em outra ação penal pelo crime de associação para o tráfico - Pena- base corretamente aumentada em dois anos - Na espécie, tendo em vista a quantidade e variedade de droga apreendida, justifica-se o aumento - Regime inicial fechado - legalidade e compatibilidade evidenciadas - Recurso improvido.
+A defesa aponta, na presente impetração, constrangimento ilegal na condenação da paciente pelo Juízo da 2ª Vara Criminal da comarca de Jales/SP à pena de 7 anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (apreensão de 4,58 g de crack, 11,96 g de cocaína e 68,02 g de maconha).
+Alega, em resumo, que a natureza de uma das drogas apreendidas (crack) ou, ainda, sua quantidade (4,58 g) não podem ser usadas para exasperar a pena em 2/5, sendo totalmente desproporcional (fl. 9).
+Requer, em liminar e no mérito, seja reduzida a pena-base ao mínimo legal ou alterada a fração de aumento aplicada na referida fase da dosimetria da reprimenda.
+Indeferi o pedido de urgência (fls. 49/50).
+Ouvido, o Ministério Público Federal opinou pela concessão da ordem, a fim de reduzir a pena-base (fls. 57/60).
+É o relatório.
+Como o presente writ é sucedâneo de revisão criminal (condenação transitada em julgado no dia 5/2/2019), forçoso seria reconhecer a incompetência desta Corte Superior para o processamento deste pedido.
+No entanto, diviso ilegalidade flagrante, apta a subsidiar a concessão da ordem habeas corpus de ofício.
+O Juízo de origem exasperou a pena-base em razão da natureza e quantidade de droga apreendida (fl. 22 - grifo nosso):
+ ..
+Atendendo às diretrizes do art. 59, caput, do Código Penal, e art. 42 da Lei n. 11.343/2006, fixo a pena-base em 7 anos de reclusão e 700 dias-multa. A fixação acima do patamar mínimo se justifica em razão da natureza de uma das drogas traficadas pela ré, o crack. Trata-se de droga que causa elevado grau de dependência física e psíquica em curto espaço de tempo, que constitui na atualidade uma enorme epidemia social que arruína as famílias de seus usuários, transformando-os em infratores contumazes que, dominados pelo vício, mostram-se a principal causa de insegurança nesta comunidade.
+Consigno que é inviável a majoração da pena-base com fundamento na configuração de maus antecedentes, como pretende o Ministério Público, uma vez que na Folha de Antecedentes da acusada consta apenas o registro de processos criminais em que foi absolvida ou teve julgada extinta sua punibilidade, além de uma condenação recorrível (fls. 142/145 e 191/192).
+ ..
+Sobre o tema, a Corte estadual manteve a elevação na primeira fase da dosimetria, considerando que (fl. 40):
+ ..
+No tocante à fixação da pena, observa-se que o MM. Juiz de primeiro grau fixou a pena-base em 2/5 acima do mínimo legal, ou seja, em 7 anos de reclusão e 700 dias- multa, unidade no piso.
+Correto o incremento na pena-base em função da quantidade, variedade e tipo de droga apreendida (uma porção de cocaína, na forma de "crack", pesando 4,58 g, uma porção de cocaína, pesando 11,96 gramas e um tablete de maconha, pesando 68,02 g), nos termos dos arts. 59 do Código Penal e 42 da Lei 11.343/2006, porquanto a droga, com alto potencial destrutivo, seria capaz de abastecer grande número de usuários.
+ ..
+Tal fundamentação é inidônea. Trata-se de quantidade de substâncias tóxicas que não pode ser considerada expressiva (4,58 g de crack, 11,96 g de cocaína e 68,02 g de maconha) . Injustificada, portanto, a imposição da pena acima do mínimo legal.
+Com efeito, o art. 42 da Lei de Drogas autoriza a fixação da pena-base acima do mínimo legal com fundamento no volume de estupefaciente apreendido, contudo, a pequena quantidade de droga não constitui fundamento idôneo a justificar o incremento da sanção inicial (AgRg no HC n. 442.276/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/9/2018).
+Embora a natureza da substância entorpecente constitua, de fato, circunstância preponderante a ser considerada na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante a cocaína seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o paciente foi muito pequena, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tal circunstância para justificar a exasperação da pena-base (HC n. 601.514/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/3/2021).
+Com efeito, apesar de se tratar de três espécies diferentes de entorpecentes e da gravidade da natureza de dois deles, não é razoável estabelecer que a pena-base mereça aumento em razão da quantidade que não se mostra elevada.
+No que diz respeito ao regime inicial de cumprimento da reprimenda, afastada a circunstância judicial desfavorável, atendendo ao que dispõe o art. 33, § 2º, b, do Código Penal, deve ser fixado o regime inicial semiaberto, sobretudo diante da ausência de outros elementos concretos indicados pela instâncias de origem para agravamento do modo de expiação da pena.
+Ante o exposto, não conheço do writ. De ofício, concedo a ordem de habeas corpus, a fim de fixar a pena-base no mínimo legal, impondo-se à paciente a reprimenda final de 5 anos de reclusão e pagamento de 500 dias-multa, em regime inicial semiaberto, mantendo-se, no mais, os termos da condenação no Processo n. 0006640-11.2017.8.26.0297.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FEITO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. DOSIMETRIA. REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL. QUANTIDADE DE DROGAS APREENDIDAS NÃO ELEVADA. MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
