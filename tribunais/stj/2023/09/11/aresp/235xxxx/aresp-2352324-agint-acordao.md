@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INVALIDEZ CUMULADA COM COMINATÓRIA DE QUITAÇÃO DE PARCELAS DE FINANCIAMENTO DE IMÓVEL E RECEBIMENTO DE PARCELAS INDEVIDAMENTE PAGAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VIOLAÇÃO DE ATO NORMATIVO. DESCABIMENTO.
+1. Ação de declaração de invalidez cumulada com cominatória de quitação de parcelas de financiamento de imóvel e recebimento de parcelas indevidamente pagas.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: declaração de invalidez cumulada com cominatória de quitação de parcelas de financiamento de imóvel e recebimento de parcelas indevidamente pagas, ajuizada por RIVALDO DE SIQUEIRA LINS, em face de COMPANHIA REGIONAL DE HABITAÇÃO DE INTERESSE SOCIAL - CRHIS.
+Sentença: julgou improcedente o pedido e condenou o agravado ao pagamento das custas e dos honorários, os quais foram fixados em R$ 1.500,00, suspensa a exigibilidade por conta da gratuidade deferida.
+Acórdão: negou provimento ao agravo retido interposto pelo agravado, dando parcial provimento à Apelação por ele interposta.
+Embargos de declaração: opostos, por COMPANHIA REGIONAL DE HABITAÇÕES DE INTERESSE SOCIAL - CHRIS, foram rejeitados; opostos, pela agravante, foram parcialmente acolhidos, apenas para constar que a restituição dos valores pagos indevidamente pelo agravado, após o sinistro reconhecido no julgado, é da COMPANHIA REGIONAL DE HABITAÇÕES DE INTERESSE SOCIAL - CHRIS.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que houve a devida impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INVALIDEZ CUMULADA COM COMINATÓRIA DE QUITAÇÃO DE PARCELAS DE FINANCIAMENTO DE IMÓVEL E RECEBIMENTO DE PARCELAS INDEVIDAMENTE PAGAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VIOLAÇÃO DE ATO NORMATIVO. DESCABIMENTO.
+1. Ação de declaração de invalidez cumulada com cominatória de quitação de parcelas de financiamento de imóvel e recebimento de parcelas indevidamente pagas.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que combateu todos os argumentos aforados na decisão vergastada.
+Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incide o óbice sumular 7/STJ, além do fato de não ser cabível a interposição de recurso especial quando ocorre a violação de ato normativo.
+Nesse sentido, quanto à incidência do óbice sumular 7 desta Corte ao caso, consignou a Corte local que é inequívoco que o agravado exerceu, ao longo de toda sua atividade laboral, a profissão de motorista, o que se extrai de sua carteira de trabalho - fls. 45/51, sendo o primeiro deles do ano de 1.986, e o último do ano de 1.999, com dispensa em outubro daquele ano.
+Também, entendeu a Corte local que o laudo de fls. 26/27, que instruiu a ação previdenciária sob nº 2642/03, informou qual era o quadro do agravado, descrevendo as doenças e consignando que eram crônico-degenerativas, de caráter progressivo, incapacitando-o para o trabalho, apontada a necessidade de sua aposentadoria. O exame, realizado já no ano de 2.006, informava que o agravado trabalhou como caminhoneiro até fim de outubro de 1.999, não estando apto a realizar atividades laborais e concluiu que a hipótese era de incapacidade total, definitiva e permanente.
+Além disso, registrou a Corte local que era interessante observar, ainda, que no recurso "ex officio" à primeira decisão judicial, sob nº 00915590-90.2008.4.03.9999/SP, o TRF da 3ª Região já mencionava a afirmação pelo perito de que o agravado estava inapto para o trabalho desde 15.01.2000, descrevendo sua incapacidade como total e permanente, mas com manutenção do benefício de auxílio-doença acolhido em primeiro grau por ausência de recurso do agravado, que havia postulado alternativamente o pleito de aposentadoria por invalidez (fls. 586).
+Ainda, sustentou a Corte local que o documento emitido pela própria COHAB em relação ao seguro de morte e invalidez permanente, apenas se preocupa em descrever que a cobertura se refere a evento ocorrido após a assinatura do contrato.
+No ponto, ressaltou a Corte local que o contrato de financiamento e o adjacente contrato de seguro foram celebrados em novembro/1992, o que evidencia que a invalidez do agravado é posterior ao ajuste.
+Na medida, sopesou a Corte local que o primeiro auxílio-doença foi concedido pelo INSS após 1999, não se tratando, portanto, de invalidez anterior à contratação do seguro.
+Por fim, observou a Corte local que conforme previsão da cláusula 9.3 do contrato de seguro, a data do sinistro é vinculada, não propriamente ao fato, mas sim à sua constatação por perícia, seja junto ao órgão previdenciário, seja perícia médica feita pela seguradora (fls. 90), de modo que não era possível acolher-se o pedido de quitação ou abatimento das prestações a partir de janeiro/2000, mas sim à data da primeira perícia que reconheceu a incapacidade e que subsidiou o reconhecimento do auxílio-doença, sendo ela de junho/2006 (fls. 26/27).
+Assim, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+No mais, mesmo que se entendesse pela superação do óbice sumular como apontado anteriormente, razão não assistiria à parte agravante, uma vez que, em suas razões de recurso especial, alega a violação da Resolução 448 do CCFCVS, nos seguintes termos:
+"No caso dos autos, esta recorrente, por vislumbrar a hipótese "e", do artigo 20 da Resolução 448 do CCFVS, ex. visto que a apólice fora firmada antes 1998, aponta ser evidente a responsabilização do FCVS e da Caixa Econômica Federal no caso dos autos, visto que o contrato foi firmado em 1992." (e-STJ fl. 802).
+No entanto, como é cediço, esta Corte tem entendimento sedimentado de que a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
