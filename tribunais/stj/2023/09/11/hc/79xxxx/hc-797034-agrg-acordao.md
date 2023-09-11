@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. "SEGUNDA APELAÇÃO" TRAVESTIDA DE WRIT. IMPOSSIBILIDADE. INEXISTÊNCIA, ADEMAIS, DO ALEGADO CONSTRANGIMENTO.
+1. Deve ser mantida a decisão monocrática na qual se denega a ordem impetrada, quando evidenciado que a impetração busca revisar a condenação imposta e mantida pelas instâncias ordinárias, em verdadeira apelação travestida de habeas corpus, em especial quando não evidenciada coação ilegal manifesta.
+2. Hipótese em que a sentença condenatória narra que a busca e apreensão domiciliar foi precedida por monitoração do acusado pelo setor de inteligência da polícia, bem como observação prévia antes do ingresso na residência na qual havia intenso fluxo de pessoas, local em que não era praticada somente a venda, mas o próprio consumo do entorpecente. Ademais, alcançar conclusão inversa demandaria reexame de provas.
+3. Inexiste coação ilegal na exasperação da pena-base em 1/5, em razão dos maus antecedentes e da quantidade de droga apreendida (mais de 800g de maconha), pois devidamente justificada.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jose Miguel da Silva Junior contra decisão de minha lavra, em que deneguei o habeas corpus impetrado em seu favor, assim ementada (fl. 70):
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. SEGUNDA APELAÇÃO TRAVESTIDA DE WRIT. IMPOSSIBILIDADE. INEXISTÊNCIA, ADEMAIS, DO ALEGADO CONSTRANGIMENTO.
+Ordem denegada.
+O agravante reitera os argumentos da impetração e alega, em síntese, que não havia standard probatório mínimo que ensejasse a entrada na residência, isso porque NÃO FOI ENCONTRADA NENHUMA DROGA COM O PACIENTE QUANDO DA ABORDAGEM PESSOAL. Não é crível imaginar que, após não ser encontrado nada com o paciente, que ele, espontaneamente confessaria que possuía droga em sua residência, além de levar os policiais ao local (fl. 95), além de que da leitura da sentença percebe-se a utilização pelo Juízo de primeiro grau de argumentos contraditórios, visto que a um momento informava que a conduta era compatível com as elementares do tipo penal, e em outro momento, aumentando a pena, valorando negativamente as circunstâncias judiciais existentes (fl. 101).
+Postula, então, em não havendo retratação da decisão ora combatida, a submissão do presente feito a julgamento pela Turma deste egrégio Tribunal, para que seja concedida a ordem de habeas corpus pleiteada (fl. 103).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. "SEGUNDA APELAÇÃO" TRAVESTIDA DE WRIT. IMPOSSIBILIDADE. INEXISTÊNCIA, ADEMAIS, DO ALEGADO CONSTRANGIMENTO.
+1. Deve ser mantida a decisão monocrática na qual se denega a ordem impetrada, quando evidenciado que a impetração busca revisar a condenação imposta e mantida pelas instâncias ordinárias, em verdadeira apelação travestida de habeas corpus, em especial quando não evidenciada coação ilegal manifesta.
+2. Hipótese em que a sentença condenatória narra que a busca e apreensão domiciliar foi precedida por monitoração do acusado pelo setor de inteligência da polícia, bem como observação prévia antes do ingresso na residência na qual havia intenso fluxo de pessoas, local em que não era praticada somente a venda, mas o próprio consumo do entorpecente. Ademais, alcançar conclusão inversa demandaria reexame de provas.
+3. Inexiste coação ilegal na exasperação da pena-base em 1/5, em razão dos maus antecedentes e da quantidade de droga apreendida (mais de 800g de maconha), pois devidamente justificada.
+4. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão agravada não comporta reparos.
+De início, observo que a via eleita foi indevidamente utilizada como espécie de "segunda apelação", a fim de revisar toda a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Depois, conforme consta da sentença condenatória, os policiais, em uníssono, afirmaram que o Acusado já seria monitorado pelo setor de inteligência policial, no que se desconfiava há tempos do seu envolvimento com o tráfico na localidade. Acrescentam, ainda, que, no dia da abordagem, foi feito um trabalho de observação policial em que se constatou uma movimentação estranha na residência do inculpado, com um anormal fluxo de pessoas. Na tentativa de se justificar, aduz o Réu que a intensa movimentação de pessoas em sua casa se deve ao fato de que ele é envolvido com movimento artístico de rap e sua casa serve de local para reuniões, reconhecendo o JOSÉ MIGUEL, entretanto, que os frequentadores de sua residência lá fazem uso de drogas, o que em nada lhe ajuda (fl. 29).
+Tais elementos indicados configuram fundada suspeita para a busca e apreensão domiciliar, de modo que alcançar conclusão no sentido de que não havia monitoramento prévio do acusado demandaria reexame de provas.
+Sobre a dosimetria da pena, também não verifiquei excepcionalidade capaz de justificar a concessão da ordem, pois da atenta análise da sentença observa-se que a reprimenda foi exasperada em 1/5 em razão da negativação, apenas, de duas circunstâncias judiciais (culpabilidade e antecedentes), razão pela qual não se verifica constrangimento, pois ambas se encontram bem justificadas na existência de condenação definitiva e na quantidade de droga apreendida (mais de 800g de maconha).
+Em face do exposto, nego provimento ao agravo regimental.
