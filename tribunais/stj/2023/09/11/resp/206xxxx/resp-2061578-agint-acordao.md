@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REPETIÇÃO DE INDÉBITO VIA PRECATÓRIO. MANDADO DE SEGURANÇA COMO AÇÃO DE COBRANÇA. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O mandado de segurança não é via adequada para declarar o direito à restituição de indébito por meio de precatório, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por BIANCHINI INDÚSTRIA DE PLÁSTICOS LTDA. contra a decisão monocrática de minha lavra que conheceu do Recurso Especial e lhe negou provimento, fundamentada na jurisprudência desta Corte Superior.
+Sustenta a Agravante, em síntese, o seguinte (fls. 668/669e):
+Entendeu o Tribunal a quo que a concessão do pleito, no que se refere as rubricas anteriores à impetração geraria efeitos patrimoniais, o que não é compatível com a via do Mandado de Segurança.
+Ocorre que não é o caso em tela, pois a simples declaração do direito não gera efeitos patrimoniais.
+Diferentemente do que consta na decisão monocrática, a petição do Mandado de Segurança deixa claro o desejo de RESTITUIR, mencionando todas as formas possíveis no ordenamento jurídico, inclusive a compensação na via administrativa, e não repetir o indébito tributário, conforme consta no seguinte trecho: "h) Em consequência, requer seja liberado em favor da Impetrante a totalidade do montante depositado em juízo, ao longo da tramitação do feito, devidamente atualizado, assim como seja assegurado o direito a apuração de crédito tributário de ICMS, em sua escrita fiscal ou a pleiteá-lo pelo meio administrativo ou via precatório, sobre todo o montante pago indevidamente no período não prescrito, devidamente atualizado nos termos da lei, pela Taxa Selic, bem como seja assegurada a imediata aplicação desta decisão sobre parcelas vincendas" (fl. 40e).
+(..)
+Isso pois só haverá repercussão patrimonial na via administrativa, onde será apurado e compensado os valores referentes aos períodos declarados indevidos por sentença transitada em julgado.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 683/691e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REPETIÇÃO DE INDÉBITO VIA PRECATÓRIO. MANDADO DE SEGURANÇA COMO AÇÃO DE COBRANÇA. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O mandado de segurança não é via adequada para declarar o direito à restituição de indébito por meio de precatório, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+I - DA JURISPRUDÊNCIA APLICADA AO CASO DOS AUTOS
+A Agravante sustenta que a simples declaração do direito não gera efeitos patrimoniais e, por isso, requer a liberação de todo o montante depositado em juízo, ao longo da tramitação do feito, devidamente atualizado.
+A Corte a quo adotou o posicionamento de que o pedido de repetição de indébito, no que diz respeito a valores pretéritos, não pode ser objeto de mandado de segurança, sendo possível apenas utilizar este remédio constitucional como meio adequado para declarar o direito à compensação ou à restituição de tributos, questão que deve ser submetida, posteriormente, à análise administrativa.
+As instâncias ordinárias reconheceram o direito à compensação, salientando que tais pedidos devem ser requeridos na esfera administrativa, sendo incabível a utilização da via do precatória, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus, como segue (fls. 312/313e):
+O pedido de repetição de indébito, relativo a valores pretéritos, não pode ser objeto de mandado de segurança. É fato que a Súmula 213 do STJ admite o MS, como meio adequado apenas para declarar o direito à compensação, caso tenha de recolher o mesmo tributo futuramente, em relação a valores pretéritos, eventualmente exigidos de forma indevida. Tal declaração de direito à compensação se refere a situações em que, por exemplo, reconhecida a inconstitucionalidade do tributo, a consequência é o direito de compensar com valores a serem pagos relativos ao mesmo tributo. O reconhecimento de direito à compensação não implica em análise de como será a compensação, os documentos que deverá apresentar ao fisco ou para convalidar (porque depende de dilação probatória), compensação realizada pelo contribuinte (Súmula 460 do mesmo STJ). Ademais, a declaração do direito à compensação não conduz à restituição de valores.
+Tal compreensão está em sintonia como a orientação consolidada neste Superior Tribunal, segundo a qual o mandado de segurança não é via adequada para declarar o direito à restituição de indébito por meio de precatório, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus.
+Nessa linha: 1ª T., AgInt no REsp 1895331/SP, Rel. Min. Gurgel De Faria, DJe 11/06/2021; 2ª T., AgInt no REsp 1928782/SP, Rel. Min. Og Fernandes, DJe 02/09/2021. 1ª T., AgInt no AgInt nos EDcl no REsp 1.616.074/SC, Rel. Min. Benedito Gonçalves, DJe 15/04/2021; e 2ª T., REsp 1.642.350/SP, Rel. Min. Herman Benjamin, DJe 24/04/2017.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+II - Da multa
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
