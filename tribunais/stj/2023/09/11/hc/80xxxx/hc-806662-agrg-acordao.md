@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO. INVIABILIDADE. REEXAME DE PROVAS.
+1. A condenação do agravante, pela prática do crime de tráfico de entorpecentes, decorreu das circunstâncias da apreensão da substância entorpecente, em sua residência, em quantidade significativa e de forma fracionada, além de balança de precisão e armas de fogo. Rever a conclusão da instância ordinária, a fim de se desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, reclamaria, neste caso, ampla incursão no acervo probatório, incompatível com a estreita via do habeas corpus.
+2. Agravo Regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por GIAN MARCO DE SOUSA SANTOS contra decisão, de minha lavra, em que deneguei o habeas corpus impetrado em seu favor.
+Depreende-se dos autos que o agravante foi condenado, como incurso nos arts. 33 da Lei n. 11.343/2006 e 16, parágrafo único, IV, da Lei n. 10.826/2003, à pena total de 10 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado.
+O Tribunal de origem negou provimento ao recurso de apelação, em acórdão assim ementado (e-STJ fls. 9/10):
+Tráfico de drogas. Desclassificação para uso pessoal. Posse ilegal de arma de fogo com numeração adulterada. Desclassificação. Provas. Depoimento de policiais. Pena-base. Fração. Confissão.1 - A prisão em flagrante do acusado na posse de droga fracionada, arma de fogo e balança de precisão, corroborada pelo depoimento dos policiais, autorizam a condenação pelo crime de tráfico de drogas e posse ilegal de arma de fogo com numeração adulterada.3 - Descabida a desclassificação para o crime do art. 28 ou do art. 33, § 3º, da L. 11.343/06 se as circunstâncias do flagrante -- apreensão de droga em quantidade incompatível com a condição de usuário, na posse do réu, em local conhecido pelo tráfico de drogas --, somadas ao depoimento dos policiais, demonstram que a droga era para difusão ilícita.4 - A ampliação do conceito de arma e munição de uso permitido feita pelos Decs. 9.785/19 e 9.847/19 é irrelevante se a condenação é pela conduta autônoma do art. 16, § único, IV, da L. 10.826/03 - arma de fogo com numeração adulterada.5 - O e. STJ consolidou o entendimento de que o acréscimo na pena-base acima da fração de 1/6 da pena mínima cominada para cada circunstância judicial desfavorável - inclusive para os crimes de tráfico de entorpecentes - exige fundamentação concreta. A utilização de fração um pouco superior, devidamente fundamentada, não comporta alteração.6 - Para incidir a atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes necessário que o acusado admita a traficância, não bastando a mera admissão da posse ou propriedade para uso próprio (súmula 630 do STJ).7 - Apelação não provida.
+A defesa, cuja atuação foi assumida pela Defensoria Pública da União, aduziu, no habeas corpus, a possibilidade de desclassificação da conduta para o crime descrito no art. 28 da Lei n. 11.343/2006.
+Informações prestadas às e-STJ fls. 31/50, 51/55 e 57/175.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração (e-STJ fls. 179/182).
+Contra a decisão denegatória do writ, a defesa interpõe o presente agravo regimental, no qual alega que o exame do pedido de desclassificação da conduta prescinde do revolvimento probatório.
+Neste sentido, afirma que, "em que pese o juiz sentenciante fundamentar a sua decisão na grande quantidade de droga e na balança de precisão apreendidas, todavia, o caso deve ser examinado sob a luz do art. 28, §2º, da Lei de Drogas, que indica como determinar se a droga é destinada para consumo próprio" (e-STJ fl. 195).
+É, em síntese, o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO. INVIABILIDADE. REEXAME DE PROVAS.
+1. A condenação do agravante, pela prática do crime de tráfico de entorpecentes, decorreu das circunstâncias da apreensão da substância entorpecente, em sua residência, em quantidade significativa e de forma fracionada, além de balança de precisão e armas de fogo. Rever a conclusão da instância ordinária, a fim de se desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, reclamaria, neste caso, ampla incursão no acervo probatório, incompatível com a estreita via do habeas corpus.
+2. Agravo Regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não assiste razão à defesa.
+Conforme consignado na decisão ora agravada, a Corte de origem, ao negar provimento ao recurso de apelação da defesa, concluiu pela suficiência do acervo probatório para manter a condenação do agravante como incurso no art. 33 da Lei n. 11.343/2006. Confira-se (e-STJ fls. 12/13, grifei):
+Não há dúvidas de que o apelante cometeu o crime de tráfico de drogas.
+Os depoimentos dos policiais foram corroborados pela apreensão, na residência do apelante, de quantidade significativa de maconha fracionada, armas de fogo, munições e balança de precisão (IDs 26041703/7).
+O apelante afirmou que mantinha em depósito a droga para uso. A alegação é mero exercício de autodefesa, não corroborada por outras provas.
+Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da droga apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente (art. 28, § 2º, L. 11.343/06).
+As declarações dos policiais, harmônicas, demonstram que o apelante mantinha em depósito a droga fracionada para comercializá-la.
+Laudo de perícia criminal confirmou que as onze porções de substância vegetal pardo-esverdeadas, com massa líquida de 140,45g e 116,79g, acondicionadas em plástico, são maconha (ID 26042961, p. 5/13).
+Estudo realizado pelo Instituto de Criminalística do Departamento de Polícia Técnica da Polícia Civil do DF (Informações Pericial n. 710/2009) atestou que "Uma dose típica de maconha e haxixe é de 200 miligramas. Acredita-se que a dose típica de skunk seja semelhante à de maconha e haxixe." A droga apreendida - 257,24g - é suficiente para produzir, aproximadamente, 1.286 doses típicas deste tipo de droga.
+Para consumir o total da droga em seis meses, o réu teria que consumir em torno de 8 doses típicas por dia, o que não é plausível, ainda que seja consumidor contumaz.
+E não se exige contexto específico de traficância - venda - para caracterizar o crime de tráfico de drogas, cujo tipo penal é de ação múltipla.
+Mostra-se suficiente, para tanto, o fato de o réu manter em depósito quantia significativa de entorpecente, que, como demonstrado, é incompatível com o consumo pessoal.
+Decidiu o e. STJ que "o crime de tráfico de drogas é tipo misto alternativo restando consumado quando o agente pratica um dos vários verbos nucleares inserido no artigo 33, caput, da Lei n. 11.343/2006, sendo a venda prescindível ao seu reconhecimento" (HC 382.306/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2017, DJe 10/2/2017).
+As circunstâncias fáticas indicam que o apelante mantinha em depósito as substâncias entorpecentes para fins de difusão ilícita.
+Ressalte-se que o fato de o réu ser usuário de drogas não o impede de exercer de forma concomitante o tráfico. Uma conduta não exclui a outra. Aliás, não raramente a traficância de drogas se torna ocupação econômica habitual do dependente químico, em razão da facilidade para a mantença do vício e do ganho pecuniário necessário para sustentá-lo.
+As condições do flagrante - apreensão de drogas fracionadas em quantidade incompatível com a condição de usuário, balança de precisão e armas de fogo - são suficientes para demonstrar o crime de tráfico de drogas ("ter em depósito entorpecentes para fins de difusão ilícita"). Daí porque descabida a desclassificação para o tipo penal descrito no art. 28 da L. 11.343/06.
+Portanto, vê-se que os fundamentos declinados para a manutenção da condenação são legítimos, não havendo constrangimento ilegal a ser reparado neste writ.
+No caso, a quantidade e a forma como estavam acondicionadas as substâncias entorpecentes apreendidas e a existência de balança de precisão e arma de fogo, nas mesmas circunstâncias, são elementos suficientes para a classificação da conduta como tráfico de entorpecentes.
+No mais, a via estreita do habeas corpus, por não admitir dilação probatória, revela-se inadequada para o pleito ora em exame, não se revelando possível que se proceda a amplo reexame dos elementos probatórios a fim de se alcançar a desclassificação do delito. Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 28 DA LEI DE DROGAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante ao pleito de absolvição e desclassificação do delito de tráfico, cabe ressaltar que o habeas corpus não é a via adequada para apreciar tal pedido, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do habeas corpus caracterizado pelo rito célere e por não admitir dilação probatória.
+2. No caso dos autos, foi consignado que a quantidade considerável da droga apreendida, somada aos depoimentos dos policiais penais, apontam para a intenção do réu de comercializar o entorpecente apreendido dentro do estabelecimento prisional. Portanto, mister se faz a condenação do acusado nas penas do delito de tráfico de drogas, incidindo ainda a majorante do tráfico de drogas cometido em presídio, vez que, repita-se, o entorpecente foi apreendido dentro do estabelecimento penal de regime semiaberto desta cidade, local em que seria disseminado pelo réu.
+3. Assim, as instâncias ordinárias, com base no acervo probatório, firmaram compreensão no sentido da efetiva prática do crime de tráfico ilícito de entorpecentes pelo paciente. Dessa forma, e a inversão do julgado demandaria reexame do acervo fático-probatório, procedimento inviável na sede do mandamus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 824.207/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/6/2023, DJe de 14/6/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
