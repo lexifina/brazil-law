@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GABRIEL CAUAN DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500127-84.2022.8.26.0617.
+Consta nos autos que o Paciente foi condenado às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de "18 porções de crack, subproduto da cocaína, 39 porções de maconha e 54 porções de cocaína" (fl. 8).
+A Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+Neste writ, a Impetrante alega que não houve fundamentação idônea para a fixação do regime fechado para início de cumprimento da pena.
+Requer, liminarmente e no mérito, a fixação do regime inicial semiaberto.
+O pedido liminar foi indeferido pela Vice-Presidência desta Corte (fls. 44-45).
+O Ministério Público Federal manifestou-se às fls. 49-53, opinando pelo não conhecimento do writ, ou, se conhecido, pela denegação da ordem.
+É o relatório. Decido.
+Como se sabe, o Plenário do Supremo Tribunal Federal, ao julgar o HC n. 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento da pena nestes crimes, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal, e as Súmulas n. 440/STJ e 718 e 719/STF.
+Impende salientar, ainda, que a questão acerca do regime prisional ora discutida tem sido apreciada repetidas vezes pelo Superior Tribunal de Justiça, o que culminou na edição da Súmula n. 440, segundo a qual, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, têm sido os reiterados julgados do Supremo Tribunal Federal, cuja jurisprudência está espelhada nos Verbetes Sumulares n. 718 e 719, respectivamente, in verbis:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Ademais, o art. 33, § 2.º, alínea b, do Código Penal, dispõe que "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto".
+No caso, observa-se que o Juízo sentenciante fixou o regime prisional fechado com as seguintes considerações (fls. 18-19):
+"Nos termos do que dispõe a Lei 8.072/90, com redação alterada pela Lei nº 11.464, de 28.03.2007 (DOU 29.03.2007), bem como que o sentenciado se encontrava "batendo ponto" numa biqueira, trabalhando para o vil comércio e na posse de boa quantidade de entorpecente, o regime inicial somente pode ser o fechado.
+E por que é assim
+É assim porque o tráfico de entorpecentes fomenta outros crimes. Infiltra-se na sociedade e é praticado, inclusive, dentro dos presídios.
+Não se trata mais de crime que no passado era praticado de forma individual. Atualmente, tanto o pequeno traficante, quanto o grande, fazem parte de um grande organismo, uma verdadeira indústria, e a retirada dos traficantes das ruas é um dos meios de combate ao crescimento desta indústria.
+Por isso, buscando principalmente a manutenção da ordem pública, o único regime possível é o fechado."
+O Tribunal de origem manteve o regime fechado nos seguintes termos (fl. 39):
+"O regime inicial de cumprimento escolhido foi o fechado, mostrando-se a imposição em consonância com os princípios da necessidade e da suficiência até por conta da quantidade da pena e a hediondez do crime. Aliás, a imposição de regime mais brando não se mostraria como resposta estatal adequada, pois como decidido recentemente, que estabelecida a pena entre 4 e 8 anos de reclusão, considerando a existência de circunstância judicial desfavorável, é lícita e proporcional a fixação do regime inicial fechado para o resgate da pena de reclusão (AgReg no AREsp 1.602.204/TO, rel. Min. Jorge Mussi, DJe 16.3.2020)."
+No entanto, o Paciente é primário, e, ao contrário do que consignado pelo Tribunal de origem, a pena-base foi fixada no patamar mínimo legal, sendo-lhe favorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal, e a reprimenda definitiva foi estabelecida em menos de 8 (oito) anos de reclusão.
+Ressalte-se que, embora as instâncias ordinárias tenham feito referência à quantidade dos entorpecentes encontrados em poder do réu, a quantidade de tais drogas - 39 porções de maconha (145,64g), 18 porções de crack (3,01g) e 54 porções de cocaína (47,54g) - não demonstra, por si só, reprovabilidade suficiente para justificar a fixação de regime mais gravoso do que o legalmente previsto, tanto que sequer utilizada para majorar a pena-base.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REGIME PRISIONAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. DESPROPORCIONALIDADE NA FIXAÇÃO DO REGIME MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do agente, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+2. Na hipótese, não obstante a menção do Tribunal de origem quanto à natureza deletéria de dois dos entorpecentes apreendidos para justificar o regime mais gravoso, deve ser mantida a decisão agravada que concedeu o regime inicial semiaberto, notadamente em função do quantum de pena fixado, da primariedade, dos bons antecedentes e da pequena quantidade de entorpecentes apreendida em poder do agravado, revelando-se desproporcional a fixação do regime fechado para o início de cumprimento da sanção corporal.
+3. Agravo regimental desprovido." (AgRg no HC 311.262/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021.)
+Por esses fundamentos, entendo cabível o regime segundo o quantum da pena aplicada - o semiaberto -, pois a fundamentação lançada pelas instâncias ordinárias para fixar o regime inicial mais gravoso não extrapola o tipo penal do crime de tráfico ilícito de drogas.
+Ante o exposto, CONCEDO a ordem de habeas corpus, para fixar o regime semiaber to para o início do cumprimento da pena.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO INIDÔNEA PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO. CABÍVEL, NO CASO, O REGIME SEMIABERTO. ORDEM DE HABEAS CORPUS CONCEDIDA.
