@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS ARGUMENTOS. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ. AÇÃO DE PRESTAÇÃO DE CONTAS. INOBSERVÂNCIA DO PROCESSAMENTO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não pode ser considerado como deficiência na prestação jurisdicional.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste julgamento extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a petição apresentada pela parte como um todo.
+3. A modificação das conclusões adotadas pelo Tribunal originário acerca da inexistência de julgamento extra petita esbarra no óbice imposto pela Súmula 7/STJ.
+4. Concluindo a Corte local que a ação de prestação de contas não foi proposta com base no processamento determinado em lei, descabe, em julgamento de recurso especial, alterar tal fundamento, uma vez que seria preciso o revolvimento do conjunto fático-probatório dos autos, o que não é possível ante a incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NILTON JOSÉ RITZMANN contra decisão monocrática proferida por esta relatoria (e-STJ, fls. 1.958-1.964), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS ARGUMENTOS. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ. AÇÃO DE PRESTAÇÃO DE CONTAS. INOBSERVÂNCIA DO PROCESSAMENTO. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL DE NILTON JOSÉ RITZMANN E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, o agravante reitera a afronta aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, afirmando que o Tribunal de origem deixou de se manifestar a respeito da ausência de impugnação, pelo banco recorrido, do conteúdo do laudo pericial, bem como não examinou a ofensa aos arts. 9º, 10, 141, 400, 551 e 552 do CPC/2015.
+Sustenta que não incide a Súmula 7/STJ como óbice à análise das teses envolvendo o julgamento extra petita e a violação ao princípio da vedação à decisão surpresa.
+Defende ainda a inaplicabilidade da Súmula 83/STJ, uma vez que o julgamento extra petita caracteriza-se quando o julgador extrapola os limites objetivos da demanda.
+Assevera que a tese firmada no Tema 908/STJ não se aplica ao caso em exame, visto que, no exame do REsp 1.497.831, houve a modificação dos encargos contratuais pelo fato de se constatar a ilegitimidade dos contratados.
+Aduz que, no caso, a exclusão ocorreu pelo fato de o banco agravado não ter apresentado a origem das despesas.
+Destaca que, na exordial, não formulou pedido de revisão dos contratos nem impugnou as contas apresentadas pelo recorrido.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 1.993-2004 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS ARGUMENTOS. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ. AÇÃO DE PRESTAÇÃO DE CONTAS. INOBSERVÂNCIA DO PROCESSAMENTO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não pode ser considerado como deficiência na prestação jurisdicional.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, inexiste julgamento extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a petição apresentada pela parte como um todo.
+3. A modificação das conclusões adotadas pelo Tribunal originário acerca da inexistência de julgamento extra petita esbarra no óbice imposto pela Súmula 7/STJ.
+4. Concluindo a Corte local que a ação de prestação de contas não foi proposta com base no processamento determinado em lei, descabe, em julgamento de recurso especial, alterar tal fundamento, uma vez que seria preciso o revolvimento do conjunto fático-probatório dos autos, o que não é possível ante a incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos do STJ n. 2 e 3, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que o recorrente interpôs recurso especial (e-STJ, fls. 1.750-1.776), com fulcro na alínea a do permissivo constitucional, apontando violação aos arts. 9º, 10, 141, 400, 489, § 1º, IV, 490, 492, 551, 552 e 1.022, I e II, do CPC/2015.
+O Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 1.853-1.870), situação que ensejou a interposição do agravo (e-STJ, fls. 1.873-1.897), do qual, em decisão monocrática, esta relatoria conheceu para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ, fls. 1.958-1.964).
+Irresignado, o agravante interpõe o presente agravo interno.
+Todavia, o inconformismo não merece prosperar.
+No apelo excepcional, o recorrente apontou omissão e deficiência na fundamentação do aresto recorrido, afirmando que a Corte local não se manifestou sobre a conclusão exarada no laudo pericial, a qual extraiu as despesas consideradas não pactuadas pelas partes do cálculo dos valores a serem repassados à instituição financeira recorrida.
+Nos fundamentos expostos na decisão agravada, ficou constatada a ausência de violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015.
+Em relação ao tema, é cumpre ressaltar que, segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não pode ser considerado como deficiência na prestação jurisdicional.
+A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OBJETIVO DE REFORMA DA DECISÃO. INADEQUAÇÃO. TERCEIRO INTERESSADO. EQUIPARAÇÃO AO ASSISTENTE. ASSESSORIEDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. O terceiro possui legitimidade para recorrer de decisão judicial quando não é parte, mas, para tanto, deve ter interesse jurídico no processo e atuará de forma análoga ao assistente.
+3. A assistência simples segue o regime da acessoriedade, cessando se o assistido não recorre. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1909451/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/04/2022, DJe 19/04/2022)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL. OCORRÊNCIA. OMISSÃO. AUSÊNCIA.
+1- Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2- Assiste razão à embargante ante a existência de erro material no acórdão recorrido, pois em seu dispositivo divergência entre o valor dos honorários indicado por extenso e o valor dos honorários indicado em algarismos arábicos, devendo prevalecer o primeiro.
+3- Embargos de declaração parcialmente acolhidos apenas para correção de erro material.
+(EDcl no REsp 1961480/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/03/2022, DJe 07/04/2022)
+Conforme bem assentado no decisum impugnado, o Tribunal de Justiça do Estado de Mato Grosso foi claro e assertivo quando deixou de examinar as conclusões extraídas da realização da prova pericial por atestar a nulidade do laudo técnico apresentado na ação de prestação de contas.
+Confira-se trecho do aresto prolatado pelo Tribunal estadual no julgamento da apelação (e-STJ, fls. 1.680-1.683):
+Ante a divergência entre as partes, o magistrado nomeou perito para conferir as contas prestadas pelo apelado, todavia, o laudo produzido e homologado na sentença considerou inexigíveis diversos lançamentos ante a não demonstração de contratação de algum serviço/tarifa, os quais cita-se a seguir:
+ ..
+Ocorre que da forma como foi sentenciada a lide, fugiu-se ao escopo da Ação de Prestação de Contas, tornando-se verdadeira lide de inexigibilidade de débito, pois determinou-se a restituição de todos os lançamentos "não comprovados".
+Por conseguinte, ante a impossibilidade de se manter a homologação do laudo produzido, pois fugiu do mérito da prestação de contas, e principalmente com o objetivo de busca da verdade real, para evitar prejuízo a qualquer das partes, a sentença deve ser cassada para que as contas apresentadas pelo autor sejam conferidas, para que tão somente seja apurado os lançamentos a débito e crédito e existência de eventual saldo remanescente como consignado no trecho do Tema 908 do STJ, sem que seja declarada a inexigibilidade, pois tanto esse pedido, quanto o de revisão contratual devem ser buscados na via própria.
+Desse modo, apresentando a Corte local os fundamentos necessários ao deslinde da controvérsia, não há falar em afronta aos arts. 489 e 1.022 do CPC/2015.
+Quanto à existência de julgamento extra petita, o Tribunal a quo, ao apreciar tais questões, constatou que não há se falar em julgamento extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a pretensão deduzida em juízo como um todo.
+De fato, esse posicionamento está em sintonia com a orientação jurisprudencial do Superior Tribunal de Justiça, conforme se verifica dos seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTOS NÃO ANALISADOS. OMISSÃO CARACTERIZADA. REEXAME DAS TESES RECURSAIS. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Verificada omissão do acórdão embargado no exame de teses jurídicas deduzidas no especial, é de se acolher os embargos de declaração para completar a prestação jurisdicional.
+1.1. No caso, o julgamento não aprofundou o exame sobre determinados fundamentos que a parte deduziu para amparar a tese central de sua irresignação - não apenas a alegada ausência de responsabilidade civil, mas também a cogitada extrapolação dos limites do pedido, haja vista que na indenização deferida à embargada teria sido incluída a obrigação de ressarcir despesas ordinárias para a manutenção da atividade empresarial, desbordando do quanto fora requerido na petição inicial.
+1.2. Quanto à violação dos arts. 159, 1.059 e 1.060 do CC/1916, o acórdão embargado afirmou a incidência do óbice previsto na Súmula n. 126/STJ, porque não impugnado fundamento contido na sentença - mantida em segundo grau - de que as rés infringiram o princípio constitucional da livre concorrência (CF/1988, art. 170, IV).
+Tem-se, contudo, motivação invocada apenas para reafirmar a responsabilidade civil das rés-embargantes, mas não para o exame da amplitude da condenação, de sorte que, nesse particular, não incide o obstáculo referido.
+2. O recurso especial não comporta o exame de questões que exijam o revolvimento do contexto fático-probatório dos autos.
+2.1. A indenização deferida à autora-embargada foi apurada por meio de perícia judicial, de modo que para se avaliar, item por item, quais são aqueles que têm e os que não têm pertinência com o pedido inicial, faz-se necessário o exame do laudo elaborado pelo expert do juízo, o que é inviável na instância excepcional à luz do disposto na Súmula n. 7/STJ.
+3. "Não se pode reputar de "extra petita" a deliberação judicial que interpreta de forma ampla os pleitos formulados pelas partes, pois o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial/reconvenção" (REsp n. 2.006.681/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/2/2023, DJe de 31/3/2023).
+3.1. No julgamento dos embargos de declaração opostos em segunda instância, o Tribunal local esclareceu que o provimento deferido à demandante guardava estrita relação com os pedidos formulados, pois as despesas abarcadas pela indenização tiveram por escopo a promoção dos produtos fabricados pela demandada, em benefício desta.
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no REsp n. 1.444.827/RJ, relator Ministro Raul Araújo, relator para acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2023, DJe de 5/7/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. TEORIA FINALISTA MITIGADA. VULNERABILIDADE. CARACTERIZAÇÃO. TEORIA DA IMPREVISÃO. SÚMULA Nº 7/STJ. PARCELAS PAGAS. RESTITUIÇÃO INTEGRAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO.
+1. Na hipótese, não há falar em julgamento extra petita porque o órgão julgador não afrontou os limites objetivos da pretensão inicial, tampouco concedeu providência jurisdicional diversa do que foi arrolado como causa de pedir e pedido, tendo sido respeitado o princípio da congruência.
+2. Os pedidos formulados pelas partes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+3. O adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem e apenas possuindo o intuito de investir ou auferir lucro, poderá encontrar abrigo da legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos em mercado imobiliário nem em incorporação, construção e venda de imóveis, sendo evidente a sua vulnerabilidade.
+4. No caso em apreço, a verificação da procedência dos argumentos expendidos no recurso especial, para reconhecer a necessidade de aplicar a teoria da imprevisão ao caso, exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+5. Nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade, inclusive comissão de corretagem.
+6. No caso de ilícito contratual, os juros de mora são devidos a partir da citação.
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.030.625/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Noutro ponto, a conclusão adotada pela instância originária acerca da inexistência de julgamento fora dos limites da demanda, por estar embasada no exame apurado do conjunto fático-probatório dos autos, não pode ser revista na apreciação do recurso especial, ante a incidência da Súmula 7/STJ.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Descabe a esta Corte analisar suposta ofensa à Constituição Federal, em sede de recurso especial, ainda que com intuito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Rever o entendimento do Tribunal de origem, no sentido de aferir a ocorrência de julgamento extra petita, a ofensa ao princípio da boa-fé e ao pacta sunt servanda, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ.
+Precedentes.
+4. A revisão do aresto impugnado exigiria derruir a convicção formada nas instâncias ordinárias sobre a quitação firmada entre as partes. Incidência da Súmula 7 do STJ. Precedentes.
+5. Nos termos da jurisprudência desta Corte, rever a distribuição da sucumbência realizada pelas instâncias ordinárias, a fim de verificar se mínimo ou recíproco o decaimento das partes, encontra óbice na Súmula 7/STJ. Precedentes.
+6. Segundo a jurisprudência do Superior Tribunal de Justiça, a melhor interpretação a ser conferida ao artigo 32, § 4º, da Lei 4.886/65 é a de que a comissão deve ser calculada com base no preço da mercadoria no momento da venda intermediada pelo representante, não cabendo, pois, o abatimento dos tributos que compõem o seu preço. Incidência da Súmula 83 do STJ. Precedentes.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.444.087/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Acerca da validade da ação de prestação de contas, o Tribunal originário atestou que a demanda foi proposta sem a observância do regramento legal.
+Importa ponderar que esse posicionamento foi adotado considerando o Tribunal a quo as circunstâncias fático-probatórias dos autos, situação que impede o Superior Tribunal de Justiça de rever os fundamentos do aresto objurgado sem incorrer em violação ao enunciado da Súmula 7/STJ.
+Por fim, quanto à inaplicabilidade do Tema 908/STJ como impedimento ao prosseguimento da ação de prestação de contas proposta pelo recorrente, em virtude da aplicação da Súmula 7/STJ, esta Corte Superior nem sequer apreciou o mérito da demanda para fins de aplicar a temática inserida no REsp 1.497.831/PR, o qual prevê a impossibilidade de revisão das cláusulas contratuais em ação de prestação de contas.
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
