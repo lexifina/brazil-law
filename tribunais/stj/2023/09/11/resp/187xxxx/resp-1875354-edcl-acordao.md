@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. INCLUSÃO NO POLO PROCESSUAL. COBRANÇA DE HONORÁRIOS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento de sentença ajuizado contra as Centrais Elétricas Brasileiras (Eletrobrás), indeferiu o pedido de ingresso agravante como litisconsorte ativo, objetivando o recebimento separado dos honorários contratuais e dos advocatícios.
+II - No Tribunal a quo, a decisão foi reformada para julgar parcialmente procedente o pedido de habilitação como litisconsorte ativo e reserva dos honorários contratuais. Esta Corte deu provimento ao recurso especial para determinar a exclusão do recorrido do polo ativo do cumprimento da sentença, ressalvado seu direito de cobrar os honorários advocatícios em ação autônoma.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à multa prevista no art. 1.021, § 4º, do CPC/2015, não se aplicam ao caso dos autos, pois o mero inconformismo com a decisão agravada não enseja a necessária imposição da penalidade, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado. Nesse sentido é a jurisprudência desta Corte Superior: (STJ, AgInt nos EREsp n. 1.120.356/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 29/8/2016 e EDcl no AgInt no AREsp n. 949.074/MG, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016).
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especial interposto por Fazendas Ernani Viana S.A. Fevisa, com fundamento no art. 105, III, c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa foi lançada nestes termos:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO DO ADVOGADO. PRECEDENTES. DECISÃO MANTIDA.
+1. Nos termos do art. 23 da Lei 8.906/94, o advogado tem o direito autônomo de executar a sentença no que se refere à verba de sucumbência, visto que esta exclusivamente lhe pertence.
+2. Desse modo, o advogado pode promover a execução da referida verba diretamente, independente de mandato ou autorização do constituinte.
+3. Os antigos advogados, após sua destituição, detém direito autônomo de promover a execução dos honorários fixados em seu favor na ação de conhecimento.
+4. Agravo Regimental a que se nega provimento.
+Na origem, trata-se de agravo de instrumento interposto por Maximiniano Eduardo Andrade Cardoso contra a decisão que, nos autos do cumprimento de sentença ajuizado contra as Centrais Elétricas Brasileiras (Eletrobrás), indeferiu o pedido de ingresso como litisconsorte ativo objetivando o recebimento separado dos honorários contratuais e dos advocatícios.
+No Tribunal a quo, a decisão foi reformada para julgar parcialmente procedente o pedido de habilitação como litisconsorte ativo e reserva dos honorários contratuais. Esta Corte deu provimento ao recurso especial para determinar a exclusão do recorrido do polo ativo do cumprimento da sentença, ressalvado seu direito de cobrar os honorários advocatícios em ação autônoma.
+No recurso especial, Fazendas Ernani Viana S.A. Fevisa aponta divergência jurisprudencial a respeito da interpretação dos arts. 22, § 4º, e 24, §§ 1º e 3º, da Lei n. 8.906/1994.
+Sustenta, em síntese, que o advogado que substabelece sem reserva de poderes terá que pleitear em ação autônoma os seus honorários advocatícios.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, conheço do recurso especial para dar-lhe provimento e determinar a exclusão do recorrido do polo ativo do cumprimento da sentença, ressalvado seu direito de cobrar os honorários advocatícios em ação autônoma."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. INCLUSÃO NO POLO PROCESSUAL. COBRANÇA DE HONORÁRIOS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que indeferiu a inclusão de litisconsorte no processo. No Tribunal a quo, a decisão foi reformada para que se para que se proceda ao regular processamento, nos autos da execução, do pedido de habilitação como litisconsorte ativo e reserva dos honorários contratuais formulado pelo agravante, nos termos do art. 557, § 1ª-A, do CPC. Deu-se provimento ao recurso especial nesta Corte.
+II - Há jurisprudência nesta Corte Superior orientada no sentido de que, nos casos em que houve a revogação do mandato outorgado ao advogado, este não está autorizado a cobrar os honorários advocatícios no autos da execução, mas em uma ação autônoma. Nesse sentido: REsp 1726925/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/06/2018, DJe 15/02/2019; AgInt no AgInt no AREsp 1790469/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021; AgInt nos EDcl no REsp 1.744.530/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 25/6/2019; AgInt no AREsp 991.469/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/05/2017, DJe 25/05/2017). A matéria relacionada à existência de coisa julgada não foi analisada na Corte a quo, nem foi objeto das contrarazões do recurso especial. Assim, falta o necessário prequestionamento da matéria.
+III - Correta, portanto a decisão que deu provimento ao recurso para determinar a exclusão do recorrido do polo ativo do cumprimento da sentença, ressalvado seu direito de cobrar os honorários advocatícios em ação autônoma.
+IV - Agravo interno improvido.
+Opostos novos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+.. o acórdão ora embargado foi omisso em relação à condenação do Agravado ao pagamento da multa prevista no art. 1.021, §4º, do CPC1 , expressamente requerida quando da apresentação das Contrarrazões ao Agravo Interno, o que autoriza a interposição dos presentes Embargos Declaratórios, a fim de que tal vício seja sanado, como já sedimentado nesse Tribunal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INCLUSÃO NO POLO PROCESSUAL. COBRANÇA DE HONORÁRIOS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento de sentença ajuizado contra as Centrais Elétricas Brasileiras (Eletrobrás), indeferiu o pedido de ingresso agravante como litisconsorte ativo, objetivando o recebimento separado dos honorários contratuais e dos advocatícios.
+II - No Tribunal a quo, a decisão foi reformada para julgar parcialmente procedente o pedido de habilitação como litisconsorte ativo e reserva dos honorários contratuais. Esta Corte deu provimento ao recurso especial para determinar a exclusão do recorrido do polo ativo do cumprimento da sentença, ressalvado seu direito de cobrar os honorários advocatícios em ação autônoma.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à multa prevista no art. 1.021, § 4º, do CPC/2015, não se aplicam ao caso dos autos, pois o mero inconformismo com a decisão agravada não enseja a necessária imposição da penalidade, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado. Nesse sentido é a jurisprudência desta Corte Superior: (STJ, AgInt nos EREsp n. 1.120.356/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 29/8/2016 e EDcl no AgInt no AREsp n. 949.074/MG, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016).
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à multa prevista no art. 1.021, § 4º, do CPC/2015, não se aplicam ao caso dos autos, pois o mero inconformismo com a decisão agravada não enseja a necessária imposição da penalidade, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+Nesse sentido é a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(STJ, AgInt nos EREsp 1.120.356/RS, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 29/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. PLEITO DE APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 182/STJ. NÃO OCORRÊNCIA DE MANIFESTA INADMISSIBILIDADE. EMBARGOS REJEITADOS.
+1. A improcedência ou inadmissibilidade reveladora da multa recursal prevista no art. 1.021, § 4º, do CPC/2015 deve ser a de natureza manifesta, qualificada, e não a que decorre simplesmente do não conhecimento ou não provimento do recurso, ainda que unânime.
+2. Inaplicabilidade da sanção processual quando a Turma julgadora não conhece do agravo interno pelo óbice da Súmula 182/STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 949.074/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
