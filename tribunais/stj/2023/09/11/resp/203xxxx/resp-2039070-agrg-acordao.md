@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. DISPOSITIVO APONTADO COMO VIOLADO DISSOCIADO DAS RAZÕES RECURSAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O dispositivo legal apontado como violado (art. 1º, III, do Decreto-lei n. 201/67) não tem qualquer correlação com as teses recursais relativas à inexistência de ilegalidade na concessão de alvará de construção e na emissão da carta de habite-se e à ausência de prática de conduta culposa ou dolosa por parte do recorrente, pois versa sobre tema totalmente diverso, o que torna inviável a compreensão da controvérsia. Incidência da Súmula n. 284 do Supremo Tribunal Federal - STF.
+2. É ônus da parte indicar precisamente o dispositivo legal que entende como violado, bem como suas razões, sob pena de transferir a esta Corte Superior um dever que lhe cabe (identificar e impugnar os pontos em que o aresto indigitado teria infringido direito federal).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO GOMES PEREIRA contra decisão de minha lavra, na qual, com fundamento no art. 932, III, do Código de Processo Civil - CPC, c/c o art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheci do seu recurso especial (fls. 820/827).
+No presente regimental (fls. 854/860), a defesa alega que a indicação do art. 1º, III, do Decreto n. 201/67 foi erro material, sendo que, da leitura das razões do apelo nobre, deflui-se que o dispositivo legal apontado como violado seria o art. 67, caput, da Lei n. 9.605/1998.
+Requer a reconsideração do decisum ou o julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. DISPOSITIVO APONTADO COMO VIOLADO DISSOCIADO DAS RAZÕES RECURSAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O dispositivo legal apontado como violado (art. 1º, III, do Decreto-lei n. 201/67) não tem qualquer correlação com as teses recursais relativas à inexistência de ilegalidade na concessão de alvará de construção e na emissão da carta de habite-se e à ausência de prática de conduta culposa ou dolosa por parte do recorrente, pois versa sobre tema totalmente diverso, o que torna inviável a compreensão da controvérsia. Incidência da Súmula n. 284 do Supremo Tribunal Federal - STF.
+2. É ônus da parte indicar precisamente o dispositivo legal que entende como violado, bem como suas razões, sob pena de transferir a esta Corte Superior um dever que lhe cabe (identificar e impugnar os pontos em que o aresto indigitado teria infringido direito federal).
+3. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, razão pela qual mantenho a decisão monocrática por seus próprios fundamentos.
+A decisão agravada consigna que o dispositivo legal apontado como violado (art. 1º, III, do Decreto-lei n. 201/67) não tem qualquer correlação com as teses recursais relativas à inexistência de ilegalidade na concessão de alvará de construção e na emissão da carta de habite-se e à ausência de prática de conduta culposa ou dolosa por parte do recorrente, pois versa sobre tema totalmente diverso, o que torna inviável a compreensão da controvérsia.
+Desse modo, na espécie, incide o óbice da Súmula n. 284 do Supremo Tribunal Federal - STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ROUBO SIMPLES. PRETENSÃO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. ART. 65, INCISO III, ALÍNEA "D", DO CÓDIGO PENAL. CONFISSÃO PARCIAL NÃO UTILIZADA COMO FUNDAMENTO PARA A CONDENAÇÃO. SÚMULA N. 545/STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, a parte recorrente, nas razões do recurso especial, não demonstrou de forma clara, direta e particularizada como o acórdão recorrido violou os dispositivos de lei federal indicados (arts. 59 e 67, ambos do CP e art. 40, inciso VI, da Lei n. 11.343/2006), além de indicar como supostamente violados dispositivos de lei sem correlação com a controvérsia recursal (aplicação da atenuante da confissão espontânea)e sem comando normativo específico, exigindo a combinação com outros dispositivos legais. Nesse contexto, a pretensão recursal esbarra no óbice da Súmula n. 284/STF, segundo a qual não se conhece de recurso quando a deficiência em sua fundamentação impede a exata compreensão da controvérsia. Precedentes.
+2. Ademais, ainda que superado o mencionado entrave, a pretensão recursal não prosperaria, porquanto, conforme asseverado pelo Tribunal a quo, a confissão parcial não foi utilizada para a formação do convencimento do julgador quanto à prática do delito de roubo, não havendo se falar em reconhecimento da atenuante do art. 65, inciso III, alínea "d", do CP, e, consequentemente, em compensação entre essa e a agravante da reincidência. Inteligência da Súmula n. 545/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.092.605/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022).
+RECURSO ESPECIAL. HOMICÍDIO. SÚMULA N. 284 DO STF. DISPOSITIVO APONTADO COMO VIOLADO DISSOCIADO DAS RAZÕES RECURSAIS. TRIBUNAL DO JÚRI. ART. 593, III, "D", e § 3º, DO CPP. AUSÊNCIA DE PROVAS JUDICIALIZADAS PARA SUSTENTAR A AUTORIA. ELEMENTOS DE INFORMAÇÃO EXCLUSIVAMENTE PRODUZIDOS NO INQUÉRITO POLICIAL. ART. 155 DO CPP VIOLADO. PRONÚNCIA INCABÍVEL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+1. Não há como conhecer do especial em que a parte aponta como violado dispositivo legal com conteúdo normativo dissociado da tese formulada nas razões recursais, por desdobramento da Súmula n. 284 do STF. Na espécie, a defesa indicou a infringência do art. 3º-A do CPP - o qual reforça o princípio acusatório no processo penal -, mas sustentou que a decisão dos jurados não encontra respaldo nos autos, ante a ausência de prova judicializada que comprove a versão do Ministério Público, matéria que não se relaciona à afronta do referido preceito legal. Assim, não há como conhecer integralmente do recurso.
+ ..
+6. Recurso especial parcialmente conhecido e provido, a fim de anular o processo desde a decisão de pronúncia e impronunciar o recorrente.
+(REsp n. 1.932.774/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. CONSELHO DE SENTENÇA. VOTAÇÃO. NULIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF.
+1. Ao suscitar a nulidade do julgamento do Tribunal do Júri por suposta imposição de argumento de autoridade pelo representante do Ministério Público, a defesa considera violado o art. 483, III, do Código de Processo Penal, cujo conteúdo normativo não guarda relação alguma com a tese construída.
+2. Não se conhece do recurso especial quando suas razões não demonstrarem mínima associação com o dispositivo de lei federal tido por contrariado ou negada a sua vigência. Incidência, por analogia, da Súmula n. 284/STF.
+ ..
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.449.193/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/9/2019, DJe de 17/9/2019).
+Cumpre salientar que é ônus da parte indicar precisamente o dispositivo legal que entende como violado, bem como suas razões, sob pena de transferir a esta Corte Superior um dever que lhe cabe (identificar e impugnar os pontos em que o aresto indigitado teria infringido direito federal).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
