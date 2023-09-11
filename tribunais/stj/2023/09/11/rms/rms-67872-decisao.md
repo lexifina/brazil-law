@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se, originariamente, de mandado de segurança impetrado por Colégio Diocesano Santa Luzia, contra ato atribuído ao Secretário Estadual da Fazenda do Rio Grande do Norte, consistente na inclusão dos valores da EUSD e TUST na base de cálculo do ICMS.
+O Tribunal de Justiça do Estado do Rio Grande do Norte denegou a segurança, em aresto assim ementado (fl. 336):
+CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. PRETENSA RETIRADA DO EUSD/TUSD/TUST DA BASE DE CÁLCULO DO ICMS-ENERGIA. IMPOSSIBILIDADE. INDISSOCIABILIDADE DAS FASES DE GERAÇÃO, TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA.
+CUSTO INERENTE A CADA ETAPA QUE COMPÕE O PREÇO FINAL DA OPERAÇÃO E, CONSEQUENTEMENTE, A BASE DE CÁLCULO DO IMPOSTO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL.
+DENEGAÇÃO DA SEGURANÇA EM COM DISSONÂNCIA COM A 17 PROCURADORIA DE JUSTIÇA.
+No recurso ordinário, a parte recorrente sustenta, em síntese, que possui "direito líquido e certo do recorrente quanto a não inclusão na base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias c sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação - ICMS dos valores referentes à EUSD - Encargo de Uso de Sistema de Distribuição e TUST - Tarifa de Uso de Sistema de Transmissão na sua conta mensal de energia elétrica" (fl. 357).
+Aberta vista à parte recorrida, o Estado do Rio Grande do Norte apresentou impugnação às fls. 372/387, postulando o desprovimento do recurso ordinário.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Eitel Santiago de Brito Pereira (fls. 420/422), manifestou-se pela extinção do feito sem resolução do mérito, consoante resume a seguinte ementa (fl. 420):
+DIREITO TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EXCLUSÃO DO EUSD E TUST DA BASE DE CÁLCULO DO ICMS. AÇÃO MANDAMENTAL IMPETRADA CONTRA O SECRETÁRIO DE TRIBUTAÇÃO DO ESTADO. ILEGITIMIDADE PASSIVA. MATÉRIA DE ORDEM PÚBLICA. DESLOCAMENTO DE COMPETÊNCIA. IMPOSSIBILIDADE. PARECER DO MPF PELA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+Como cediço, a autoridade coatora é aquela que "que detém atribuição para adoção das providências tendentes a executar ou corrigir o ato combatido" (RMS 16.708/TO, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 18/04/2005, p. 212).
+Na espécie, o ato atacado foi atribuído ao Secretário de Estado da Fazenda do Rio Grande do Norte, questionando-se na presente ação a inclusão dos valores da EUSD e TUST na base de cálculo do ICMS.
+No entanto, o Secretário de Estado da Fazenda não ostenta legitimidade para figurar no pólo passivo do mandado de segurança, pois não é de sua competência afastar eventual cobrança indevida de tributo.
+Com efeito, a própria Constituição Estadual determina que compete aos Secretários de Estado as funções de assessoramento e supervisão, consoante se observa do art. 66 desse diploma, verbis:
+Art. 66. Os Secretários de Estado são escolhidos dentre brasileiros maiores de vinte e um (21) anos e no exercício dos direitos políticos.
+Parágrafo único. Compete ao Secretário de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:
+I - exercer a orientação, coordenação e supervisão dos órgãos e entidades da administração estadual e referendar os atos e decretos assinados pelo Governador do Estado, na área de sua competência;
+II - expedir instruções para a execução das leis, decretos e regulamentos;
+III - apresentar ao Governador do Estado relatório anual de sua gestão na Secretaria;
+IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas pelo Governador do Estado.
+A propósito, reconhecendo a ilegitimidade do Secretário de Estado da Fazenda para figurar no polo passivo de mandado de segurança no qual se discute a exigibilidade de tributos, confiram-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. ALEGAÇÃO DE COBRANÇA INDEVIDA DE ICMS SOBRE TUST E TUSD AUTORIDADE COATORA. SECRETÁRIO DE ESTADO. ILEGITIMIDADE PASSIVA.
+1. Trata-se, na origem, de Mandado de Segurança impetrado por Indústria de Compensados Sudati Ltda., ora recorrente, tendo como autoridade coatora o Secretário da Fazenda do Estado do Paraná, em virtude de incidência do ICMS sobre os valores cobrados pelo uso do sistema de distribuição e transmissão de energia elétrica.
+2. O Tribunal de origem entendeu que "o Secretário de Estado da Fazenda não possui legitimidade para figurar como autoridade coatora em mandados de segurança nos quais se discute a constituição e cobrança de tributos, isto porque o mesmo apenas orienta os órgãos subordinados a respeito da aplicação da lei no âmbito administrativo, não sendo este que ordena, tampouco pratica o ato de cobrança de tributos, agindo, portanto, apenas de maneira fiscalizatória" (fl. 224, e-STJ).
+3. Com efeito, o Secretário de Estado é o agente político livremente escolhido pelo Governador para auxiliá-lo na elaboração e implantação das políticas fiscais, o que não se confunde com lançamento, cobrança de ICMS ou análise de pedidos de restituição (RMS 29.478/PA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/6/2010).
+4. O STJ tem firme jurisprudência no sentido de que Secretário de Estado não possui legitimidade para figurar no polo passivo de Mandado de Segurança em que se discute incidência de tributos, "na medida em que referida autoridade apenas edita comandos gerais para a fiel execução da lei, não agindo diretamente na execução da lavratura de auto de infração tributária" (RMS 38.129/GO, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2017, DJe 1º/8/2017. Nesse sentido: REsp 1.656.756/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/5/2017; RMS 49.806/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgInt no RMS 51.519/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/12/2016; RMS 43.239/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, Je 11/5/2016; AgRg no RMS 38.355/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/8/2013.
+5. Agravo Interno não provido.
+(AgInt no RMS 64.072/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/11/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. GLOSA DE CRÉDITOS. SECRETÁRIO DE ESTADO DA FAZENDA. ILEGITIMIDADE PASSIVA.
+1. Os recursos em mandado de segurança dirigidos ao Superior Tribunal de Justiça são apreciados em sede de jurisdição ordinária, o que enseja o conhecimento de ofício de questões de ordem pública, entre elas a alusiva às condições da ação, no caso, especificamente, a relacionada com a legitimidade passiva da autoridade apontada como coatora.
+2. O Superior Tribunal de Justiça tem-se pronunciado no sentido de que o Secretário de Fazenda do Estado não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a exigibilidade de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação mandamental.
+3. "A jurisprudência deste STJ compreende não ser possível autorizar a emenda da inicial para correção da autoridade indicada como coatora nas hipóteses em que tal modificação implica em alteração de competência jurisdicional. Isso porque compete originariamente ao Tribunal de Justiça Estadual o julgamento de mandado de segurança contra Secretário de Estado, prerrogativa de foro não extensível ao servidor responsável pelo lançamento tributário" (AgInt no RMS 54.535/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/09/2018).
+4. Agravo interno não provido.
+(AgInt no RMS 53.867/MG, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 03/04/2019)
+Na espécie, o Tribunal Local denegou a segurança, por entender que incidem as "tarifas TUSD/EUSD e TUST na base de cálculo do ICMS" (fl. 341 ).
+Assim, ainda que por fundamento diverso (ilegitimidade da autoridade apontada como coatora para figurar no polo passivo do presente mandamus), deve ser mantido o acórdão recorrido.
+ANTE O EXPOSTO, nego provimento ao recurso ordinário, nos termos da fundamentação.
+Publique-se
+EMENTA
