@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN FERNANDO DA SILVA SANTANA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 54):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO Sentença condenatória Apelo da defesa postulando a absolvição por insuficiência de provas Descabimento - Materialidade e autoria comprovadas Absolvição inviável Dosimetria adequada e bem fundamentada Incabível regime prisional diverso diante das peculiaridades do caso e o princípio da suficiência da pena RECURSO DEFENSIVO NÃO PROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 5 meses e 25 dias de reclusão, a ser cumprida em regime inicial fechado, além do pagamento de 16 dias-multa, fixados no valor unitário mínimo, como incurso no artigo 157, §2º, II e V, na forma do artigo 29, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que foi desprovido.
+Sustenta o impetrante, em síntese, que a condenação foi baseada somente em elementos colhidos na fase de investigação, violando o art. 155 do CPP, pois o único elemento probatório existente nos autos é o fato de uma testemunha, ainda na fase de investigação, ter relatado aos policiais que o paciente teria participado da empreitada criminosa, porém isso não foi ratificado em juízo. Além disso, não houve o reconhecimento pessoal positivo pela vítima.
+Quanto à dosimetria da pena, alega que não foi demonstrado concretamente como os meios utilizados desbordaram do tipo penal, pois "o fato de os agentes terem amordaçado a vitima e amarrado os seus braços, é elemento inerente ao tipo penal previsto no inciso V, § 2º do art. 157 do CPP, pois desta forma ocorreu a restrição da liberdade da vítima" (fl. 16).
+Ainda, afirma que é desproporcional o aumento de 1/6, mostrando-se proporcional a exasperação em 1/8 para cada circunstância judicial valorada negativamente.
+Continua a defesa asseverando que o mero concurso de pessoas em conjunto com o emprego de arma de fogo não é suficiente para o afastamento da súmula 443 do STJ.
+Por fim, sustenta que o regime inicial fechado foi fixado somente em virtude da valoração negativa de uma circunstância judicial.
+Requer, liminarmente e no mérito, que seja reconhecida a nulidade de todo o feito em razão da violação do art. 155 do CPP. Subsidiariamente, requer a diminuição da pena e a fixação do regime semiaberto.
+A liminar foi indeferida (fls. 69-70). Prestadas as informações (fls. 75-123), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 127-130).
+Conforme se verifica nas informações prestadas pelo Tribunal de origem (fl. 76), está em tramitação a "Revisão Criminal nº 2112118-79.2023.8.26.0000 (referente à citada ação penal), a qual, indeferido pelo Relator o pleito liminar, está em fase de apresentação de parecer pela Procuradoria Geral de Justiça."
+Portanto, não concluído o julgamento do pedido revisional pelo Tribunal de origem, entende-se inviável a análise das alegações por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE APELAÇÃO. NÃO CONHECIMENTO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. Nessa linha, a Terceira Seção desta Corte, inclusive, já fixou posicionamento de que não é cabível habeas corpus que possua o mesmo objeto de apelação pendente de julgamento, como no caso (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe de 3/4/2020).
+2. Além disso, o Tribunal de origem não apreciou as matérias constantes na inicial do presente writ, o que impede a análise da controvérsia por esta Corte, sob pena de indevida supressão de instância. Por fim, a deficiente instrução do habeas corpus também impede a exata compreensão da controvérsia trazida no presente writ, uma vez que nem sequer constou dos autos a transcrição dos fundamentos da sentença condenatória.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 789.519/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
