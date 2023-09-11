@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL E FALIMENTAR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DE PLANO. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÕES NEGATIVAS DE DÉBITOS FISCAIS. DESNECESSIDADE. PRECEDENTES DA TERCEIRA E QUARTA TURMAS. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ adotou o entendimento de que a apresentação de certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora, em virtude da incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL (FAZENDA) contra decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E FALIMENTAR. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DE PLANO. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. EXIGÊCNIA DE APRESENTAÇÃO DE CERTIDÕES NEGATIVAS DE DÉBITOS FISCAIS. DESNECESSIDADE. PRECEDENTES. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fl. 816).
+Nas razões do presente inconformismo, a FAZENDA alegou que (1) o recurso especial fazendário não poderia ter sido denegado por decisão monocrática deste relator, porque não ficou configurada nenhuma das hipóteses autorizadoras do art. 932, IV, do NCPC; (2) no julgamento do REsp nº 1.187.404//MT, a Corte Especial desta Corte Superior consignou expressamente que o afastamento da exigência de CND como requisito para a concessão da recuperação judicial decorria da ausência de legislação específica que disciplinasse o parcelamento em recuperação fiscal; (3) diante da superveniência da Lei nº 13.043/2014, que alterou o art. 10-A da Lei nº 10.522/2002, deve-se exigir a comprovação da regularidade fiscal para fins de concessão da recuperação judicial; (4) o Supremo Tribunal Federal, aos 8/9/2020, na Reclamação nº 43.169/SP, deferiu liminar para cassar decisão do STJ que havia dispensado a apresentação de CND num caso de recuperação judicial; e, (5) deve ser reformada a decisão monocrática, por ser manifestamente contra legem (arts. 6º, 57, 58, 68 e 76 da Lei nº 11.101/2005, 187 e 191-A do CTN e 5º, 29 e 31 da Lei nº 6.830/1980).
+Houve impugnação ao recurso (e-STJ, fls. 837/845).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E FALIMENTAR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DE PLANO. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÕES NEGATIVAS DE DÉBITOS FISCAIS. DESNECESSIDADE. PRECEDENTES DA TERCEIRA E QUARTA TURMAS. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ adotou o entendimento de que a apresentação de certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora, em virtude da incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Em primeiro lugar, cumpre registrar que não foi negado recurso especial da FAZENDA, considerando que a Corte local admitiu o processamento de recurso especial interposto pela parte interessada, A. K. F. ROMERO TRANSPORTES LTDA., COMÉRCIO DE COMBUSTÍVEL IPANEMA LTDA., N. M. FELITO & CIA. LTDA., COMÉRCIO DE COMBUSTÍVEIS JACIARA LTDA., IPANEMA DIESEL LTDA., A. C. FELITO EM RECUPERAÇÃO JUDICIAL LTDA., MARA RUBIA FELITO, ROMERO AGRÍCOLA LTDA. e ANDREIA KATIA FELITO ROMERO (A. K. F. e outros), que foi provido por esta relatoria em decisão monocrática amparada na jurisprudência dominante do STJ.
+Nesse sentido, A. K. F. e outros alegaram ofensa aos arts. 57 da Lei nº 11.101/2005 e 191-A do CTN e 1.022, I, do NCPC, além de divergência jurisprudencial. Sustentaram que (1) o aresto recorrido foi contraditório, porque é totalmente incongruente exigir que as empresas em recuperação judicial apresentem certidões negativas de débitos fiscais; e, (2) a jurisprudência do STJ adotou o entendimento no sentido da dispensabilidade de apresentação de certidões de regularidade fiscal.
+Vale pontuar que o Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 808/814).
+Dessa forma, no tocante ao mérito debatido nos presentes autos, concluiu-se que a jurisprudência do STJ adotou o entendimento de que a apresentação de certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora, em virtude da incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação.
+A propósito, seguem os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL, EMPRESARIAL E PROCESSUAL CIVIL. APRESENTAÇÃO DE CERTIDÕES NEGATIVAS DE DÉBITOS TRIBUTÁRIOS PARA O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. REQUISITO NÃO OBRIGATÓRIO. INTERPRETAÇÃO TELEOLÓGICA DOS ARTIGOS 47 E 57 DA LEI 11.101/2005. PRINCÍPIOS DA PRESERVAÇÃO E DA FUNÇÃO SOCIAL DA EMPRESA. FINALIDADE DA RECUPERAÇÃO JUDICIAL. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+RESTABELECIMENTO DA DECISÃO AGRAVADA NA ORIGEM. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.989.920/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONCESSÃO. REGULARIDADE FISCAL. COMPROVAÇÃO. DESNECESSIDADE. DECISÃO MANTIDA.
+1. A decisão monocrática que dá provimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, IV, do CPC/2015 e 255, § 4º, II, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+2. Consoante jurisprudência pacífica do STJ, a "apresentação das certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora, em virtude da incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação" (AgInt no REsp n. 1.998.612/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/9/2022, DJe de 21/9/2022) .
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.807.733/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTES. RECUPERAÇÃO JUDICIAL. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO. DESNECESSIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, a legislação vigente (art. 932 do CPC/2015 e Súmula 568/STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+2. Ainda que assim não fosse, eventual vício ficaria superado, mediante a apreciação da matéria pelo órgão colegiado no âmbito do agravo interno.
+3. A apresentação das certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora, em virtude da incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação. Precedentes.
+4. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.998.612/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITO. APRESENTAÇÃO. OBRIGATORIEDADE. FINALIDADE DO INSTITUTO. INCOMPATIBILIDADE.
+1. A apresentação de certidão negativa de débitos fiscais pelo contribuinte não é condição imposta ao deferimento do seu pedido de recuperação judicial. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.841.841/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS TRIBUTÁRIOS. ART. 57 DA LEI 11.101/05 E ART. 191-A DO CTN. EXIGÊNCIA INCOMPATÍVEL COM A FINALIDADE DO INSTITUTO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA E FUNÇÃO SOCIAL. APLICAÇÃO DO POSTULADO DA PROPORCIONALIDADE. INTERPRETAÇÃO SISTEMÁTICA DA LEI 11.101/05.
+1. Consoante a jurisprudência desta Corte, a apresentação de certidões negativas de débitos tributários não constitui requisito obrigatório para concessão da recuperação judicial do devedor. Isso porque os motivos que fundamentam a exigência da comprovação da regularidade fiscal do devedor (assentados no privilégio do crédito tributário), não tem peso suficiente - sobretudo em função da relevância da função social da empresa e do princípio que objetiva sua preservação - para preponderar sobre o direito do devedor de buscar no processo de soerguimento a superação da crise econômico-financeira que o acomete.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.597.261/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/4/2022, DJe de 18/4/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA AGRAVANTE.
+1. A Corte Especial do STJ decidiu que não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação judicial. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.740.070/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/5/2021, DJe de 4/6/2021)
+Por derradeiro, apenas para afastar dúvidas, vale consignar que a liminar proferida aos 8/9/2020 na Reclamação nº 43.169/SP já foi revogada, considerando que o Ministro Dias Toffoli, em decisão monocrática (DJe 4/12/2020), ao apreciar seu mérito, negou-lhe seguimento, tendo tornado sem efeito a liminar deferida, por entender se tratar de questão eminentemente infraconstitucional, não havendo, ademais, situação caracterizadora de desrespeito à Súmula Vinculante nº 10 e ao art. 97 da CF.
+Dessarte, deve prevalecer, no momento, a jurisprudência dominante das Terceira e Quarta Turmas, que compõem a Segunda Seção, órgão competente para analisar temas relativos à falência e à recuperação judicial.
+Assim, como a FAZENDA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o provimento do recurso especial interposto por A. K. F. e outros.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
