@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. EXAME. DESCABIMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de inventário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Em que pese a oposição de embargos de declaração, a ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AGROPECUARIA PORTO ALEGRE LTDA, ALVERI STREFLING, CURT STREFLING, ATTILA ILGA STREFLING - ESPÓLIO, ROSMARI STREFLING, UDO STREFLING e VANDERLEI STREFLING, contra a decisão unipessoal que, conhecendo de agravo, não conheceu do recurso especial que interpuseram.
+Ação: inventário dos bens deixados por ATTILA ILGA STREFLIN.
+Decisão interlocutória: em razão da reiteração no descumprimento da determinação de apresentação do balanço patrimonial da administração dos bens do espólio pelo herdeiro ALVERI STREFLING (fls. 1145-1147), o juiz ordenou que se oficiasse "a Delegacia de Polícia para instaurar o Inquérito Policial para ocorrência de crime de desobediência, encaminhando-se todos os documentos pertinentes". Aplicou, ainda, "a multa diária de R$ 1.000,00 (mil reais) a qual cessará com a apresentação do referido balanço, se for feito dentro do prazo de 60 (sessenta) dias, contado do trânsito em julgado da decisão" (e-STJ fls. 1216-1217).
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU EMBARGOS DE DECLARAÇÃO DEVIDAMENTE FUNDAMENTADA. INDEFERIDO PEDIDO DE EFEITO SUSPENSIVO RECURSAL. JULGAMENTO DE AGRAVO PRETÉRITO EM DESFAVOR DOS MESMOS AGRAVANTES NÃO TENDO SIDO MODIFICADO O ENTENDIMENTO DESTE TRIBUNAL. AFASTADA CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Estando a decisão agravada devidamente fundamentada em relação a pontos que deveria se pronunciar, entendo que agiu acertadamente o magistrado a quo quando deu andamento na demanda.
+2. Pedido de efeito suspensivo indeferido nos dois agravos interpostos pelas mesmas partes.
+3. Indeferido pedido de condenação em litigância de má-fé.
+3. Agravo de Instrumento conhecido e não provido". (e-STJ fls. 1470-1471)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados (e-STJ fls. 1611-1616).
+Recurso especial: alegou violação dos arts. 11, 76, §1º, II, 269, 272, 274, 275, §2º, 278, 280, 281, 489, incisos II, III e IV, §1º, 1.022, II, todos do Código de Processo Civil e o artigo 93, inciso IX, da Constituição Federal, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentou que: (i) "no caso em comento o magistrado singular fixou claramente que o prosseguimento do feito somente ocorreria após o trânsito em julgado, o que por si só, autoriza o provimento do recurso para efeitos de reforma da decisão recorrida, considerando que com a existência de recursos pendentes de julgamento, forçoso reconhecer que a decisão ainda não é imutável"; (ii) "após a prolação da decisão e antes mesmo da manifestação dos Recorrentes já foi expedido ofício para a Delegacia de Polícia, ainda que ao final da decisão, tenha constado expressamente que tais penalidades incidiriam a partir do trânsito em julgado".
+Prévio juízo de admissibilidade: o TJ/TO inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: a par de conhecer do agravo, não conheceu do recurso especial, conforme a ementa que se segue (e-STJ fl. 1.812):
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC/15. OMISSÃO DO ACÓRDÃO. INOCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVOCONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido".
+Agravo interno: nas razões do presente recurso, os agravantes sustentam que: (i) não foi arguida a violação de súmula; (ii) a decisão agravada carece de fundamentação no que tange à alegação de violação dos arts. 489 e 1.022 do CPC pelo Tribunal de origem; (iii) houve a oposição de embargos de declaração no Tribunal a quo, o que supre a exigência de prequestionamento dos arts. 11, 76, §1º, II, 269, 272, 274, 275, §2º, 278, 280, 281 do CPC; (iv) houve a devida demonstração do dissídio jurisprudencial quanto à negativa de prestação jurisdicional.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. EXAME. DESCABIMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de inventário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Em que pese a oposição de embargos de declaração, a ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada, a par de conhecer do agravo, não conheceu do recurso especial com base nos seguintes fundamentos: (i) inviabilidade de exame de violação de dispositivo constitucional ou súmula na via especial; (ii) ausência de violação dos arts. 489 e 1.022 do CPC; (iii) incidência da Súmula 211/STJ; (iv) ausência de cotejo analítico e comprovação da similitude fática entre os arestos apontados como divergentes.
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que os agravantes não trouxeram qualquer argumento apto à modificação do decisum.
+1. Da violação de dispositivo constitucional
+Inicialmente, observa-se que os agravantes, de fato, apontaram em seu recurso especial a violação do art. 93, inciso IX, da Constituição Federal, cuja análise foge ao âmbito de competência desta Corte, como ressalvado na decisão agravada.
+2. Da ausência de violação dos arts. 489 e 1.022 do CPC
+De outro turno, não prospera a alegação dos agravantes de que a decisão agravada carece de fundamentação no tocante à rejeição da preliminar de negativa de prestação jurisdicional. Ainda que de forma sucinta, a decisão expressamente abordou a questão, concluindo que o acórdão do Tribunal de origem não apresenta quaisquer dos vícios do art. 1.022 do CPC, tendo analisado, devidamente, todos os pontos controvertidos, de modo a esgotar a prestação jurisdicional cabível na hipótese.
+E, realmente, revendo-se os autos, constata-se que o acórdão recorrido, de lavra do TJ/TO, apresenta fundamentação suficiente, isenta de qualquer omissão, ao ter mantido a decisão interlocutória do juiz de piso, que determinou a expedição de ofício à autoridade policial e aplicou multa em desfavor do herdeiro ALVERI STREFLING, em razão do descumprimento de prévia determinação judicial.
+Consoante expressamente decidido no acórdão recorrido, a decisão interlocutória não apresenta qualquer irregularidade, posto que confirmou anterior decisão do Juízo, ante a ausência de concessão de efeito suspensivo nos autos do agravo de instrumento nº 0007964-36.2021.8.27.2700.
+Senão, veja-se o seguinte excerto do aresto:
+"Pois bem! Inicialmente, constato que esta relatoria fora responsável pelo julgamento do Agravo de Instrumento de nº.0007964-36.2021.8.27.2700 -recurso este mencionado no enredo inaugural como sendo questão que estava pendende de apreciação por este tribunal.
+Neste interim, vejamos abaixo o resultado do julgamento do agravo anterior interposto pela mesma parte interessada:
+ ..
+Ora, a meu ver, não há outro caminho que não seja o de confirmar o entendimento já exposto na decisão do evento 2, vez que, pelo que restou apurado neste feito, o juízo de piso prosseguiu corretamente com o andamento da demanda na origem, dado que não houve em nenhum momento, deferimento de efeito suspensivo recursal, nem mesmo nos autos do agravo anterior, ao que, nestas condições, não seria coerente agora mandar recolher o ofício de abertura da investigação.
+Ressalte-se que a interposição de recursos perante as instâncias superiores, sem notícia de concessão de efeito suspensivo, não impede a eficácia da decisão, possibilitando a imediata execução. Inteligência do art. 995 do CPC" (e-STJ fls. 1.431/1.432)".
+Ora, ao assim decidir, é óbvio que o Tribunal de origem repeliu o argumento dos agravantes de que seria necessário aguardar o trânsito em julgado para que houvesse a aplicação das penalidades fixadas pelo juiz a quo, não havendo que se cogitar de qualquer omissão do julgado.
+O aresto, realmente, encontra-se adequadamente fundamentado, com a clara exposição dos motivos que levaram ao desprovimento do agravo de instrumento, em que pese a solução adotada tenha sido na direção contrária àquela defendida pelos ora agravantes. Ressalte-se que a conclusão adotada pelos julgadores encontra amparo em fundamento idôneo, não se podendo atribuir ao acórdão qualquer nulidade apenas em razão da ausência de rejeição expressa da tese defendida pela parte agravante, que ia no sentido contrário àquele adotado no decisum.
+É comezinho o entendimento deste Superior Tribunal de Justiça no sentido de que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente detalhadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.708.568/SP, 2ª Turma, DJe 10/03/2020).
+Daí porque, de fato, não prospera a alegação recursal de violação dos arts. 489 e 1.022 do CPC, como asseverado na decisão agravada, bem como a alegação de suposta divergência jurisprudencial acerca do tema.
+3. Da ausência de prequestionamento
+Outrossim, é fato que o acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos arts. 11, 76, §1º, II, 269, 272, 274, 275, §2º, 278, 280, 281 do CPC, circunstância que efetivamente impede o conhecimento do recurso especial, porquanto não satisfeito o requisito do prequestionamento.
+Por oportuno, importa salientar que, para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020).
+Entretanto, na situação posta em análise, o Tribunal de origem não se debruçou a respeito do conteúdo normativo dos dispositivos legais acima mencionados, o que atrai a incidência da Súmula 211/STJ.
+4. Da conclusão
+Nesses termos, em suma, o recurso especial de fato não comporta conhecimento, devendo ser integralmente mantida a decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
