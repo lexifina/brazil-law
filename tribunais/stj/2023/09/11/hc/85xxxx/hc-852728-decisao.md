@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Sara da Silva Cardoso - presa preventivamente pela prática, em tese, do crime de roubo circunstanciado, desde 22/1/2023 -, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (Habeas Corpus n. 515298-53.2023.8.09.0034), não comporta processamento.
+Com efeito, busca a impetração o relaxamento da segregação cautelar imposta à acusada pelo Juízo de Direito da Vara Criminal da comarca de Corumbá/GO (Autos n. 5188677-92.2023.8.09.0034), ao argumento de excesso de prazo para a formação da culpa. Subsidiariamente, pleiteia a substituição da prisão preventiva em domiciliar, em razão da existência de filha menor.
+Ocorre que, além de não se verificar desídia do Judiciário no impulsionamento do feito, que conta com instrução encerrada e com audiência de instrução e julgamento designada para data próxima (3/10/2023), compulsando os autos, extrai-se que a criança encontra-se sob a guarda da avó materna, inclusive determinada por processo de tutela que tramita perante a Vara de Família da comarca (fls. 36/37), razão pela qual não vislumbro os alegados constrangimentos .
+Por fim, o entendimento majoritário da Sexta Turma do STJ é no sentido de que a ausência de audiência de custódia não enseja nulidade da prisão preventiva em que posteriormente convertida, pois, observadas as outras garantias processuais e constitucionais (AgRg no HC n. 768.421/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/3/2023).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA DO JUÍZO DE PRIMEIRO GRAU. INSTRUÇÃO ENCERRADA. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO MARCADA PARA 3/10/2023. PLEITO DE PRISÃO DOMICILIAR EM RAZÃO DE FILHO MENOR. CRIANÇA SOB A GUARDA DA AVÓ MATERNA DETERMINADA EM PROCESSO QUE TRAMITA PERANTE VARA DE FAMÍLIA DA COMARCA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
