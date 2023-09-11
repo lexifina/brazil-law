@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REPACTUAÇÃO E RESOLUÇÃO CONTRATUAIS. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. O acórdão recorrido analisou motivadamente todas as questões relevantes para a solução da lide, não se podendo atribuir os vícios de omissão, obscuridade, contradição ou erro material à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+2. A compreensão acerca da dispensabilidade da produção de perícia atuarial foi fundada no exame de fatos e provas, não sendo caso de simples qualificação jurídica, de modo que eventual conclusão acerca da existência de cerceamento de defesa esbarraria no enunciado sumular n. 7 do Superior Tribunal de Justiça.
+3. Não há como afastar a convicção estadual, para entender pela ocorrência de fatos imprevisíveis e extraordinários, a ensejarem a repactuação ou rompimento do vínculo contratual, sem proceder previamente à interpretação de cláusulas do contrato e à reanálise fático-probatória da causa, o que encontra óbice na via extraordinária, em razão da previsão contida nas Súmulas n. 5 e 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EVIDENCE PREVIDÊNCIA S.A. contra decisão desta relatoria assim ementada (e-STJ, fl. 1.006):
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ENFRENTAMENTO DA QUESTÃO QUE SE DISSE OMISSA. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REPACTUAÇÃO E RESOLUÇÃO CONTRATUAIS. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a agravante afirma que a tese de ofensa ao art. 1.022 do CPC/2015 foi afastada de forma genérica, não tendo sido observado que o Tribunal de origem não se manifestou acerca de dispositivos da Lei Complementar n. 109/2001, mormente sobre aqueles que tratam da mera expectativa de direito do participante.
+Diz não pretender a interpretação de cláusulas contratuais nem o revolvimento do acervo fático-probatório, o que afastaria os óbices previstos, respectivamente, nos verbetes sumulares n. 5 e 7 desta Corte.
+Impugnação apresentada às fls. 1.029-1.039, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REPACTUAÇÃO E RESOLUÇÃO CONTRATUAIS. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. O acórdão recorrido analisou motivadamente todas as questões relevantes para a solução da lide, não se podendo atribuir os vícios de omissão, obscuridade, contradição ou erro material à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+2. A compreensão acerca da dispensabilidade da produção de perícia atuarial foi fundada no exame de fatos e provas, não sendo caso de simples qualificação jurídica, de modo que eventual conclusão acerca da existência de cerceamento de defesa esbarraria no enunciado sumular n. 7 do Superior Tribunal de Justiça.
+3. Não há como afastar a convicção estadual, para entender pela ocorrência de fatos imprevisíveis e extraordinários, a ensejarem a repactuação ou rompimento do vínculo contratual, sem proceder previamente à interpretação de cláusulas do contrato e à reanálise fático-probatória da causa, o que encontra óbice na via extraordinária, em razão da previsão contida nas Súmulas n. 5 e 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+De início, é importante registrar que inexiste carência de fundamentação no julgado ora agravado, tendo sido devidamente esclarecidas as razões pelas quais esta relatoria concluiu pela ausência de negativa de prestação jurisdicional.
+Com efeito, da leitura das razões do apelo especial, verifica-se que a parte sustenta que o colegiado estadual, apesar de instado, não se manifestou sobre as alegações de que seria permitida a resolução ou revisão contratual em decorrência da: (i) existência de fato imprevisível e extraordinário; e (ii) ausência de direito adquirido da participante à obtenção da aposentadoria.
+No entanto, apesar de rejeitados os embargos de declaração, as matérias em exame foram suficientemente enfrentadas pela segunda instância, que sobre elas emitiu pronunciamento de forma fundamentada.
+Isso porque, ao analisar os temas controvertidos, a Corte a quo rechaçou as pretensões de repactuação e/ou resolução do negócio jurídico, pontuando os motivos pelos quais entendeu inexistir fato imprevisível e salientando que, diante do tempo de duração da relação jurídica firmada entre as partes, haveria legítima expectativa do participante ao cumprimento das obrigações, não podendo a ela se impor o resgate ou a migração de planos, sob pena de colocar o participante em situação de extrema desvantagem em relação à entidade autora.
+Oportunamente, confira-se (e-STJ, fls. 897-899 ):
+Contudo, na esteira dos fundamentos lançados em primeiro grau, não há mesmo como deixar de reconhecer que a modificação do cenário macroeconômico, o aumento da expectativa de vida dos participantes e as alterações impostas pelo órgão regulador constituem situações que são inerentes ao risco da atividade desenvolvida pela apelante, pessoa jurídica de grande porte e, como total, dotada de plena capacidade técnica para avaliar mediante estudos atuariais a viabilidade da celebração de um contrato de longo prazo típico da área de previdência complementar.
+Não se vislumbram, portanto, acontecimentos extraordinários e imprevisíveis capazes de justificar a aplicação da teoria da imprevisão à hipótese, com o consequente rompimento unilateral do contrato.
+Outrossim, não se verifica tenha havido no ajuste desproporcionalidade aferível objetivamente, porquanto é inegável, segundo a própria narrativa na qual se baseia a tese da recorrente, que a administração do plano lhe foi extremante vantajosa durante mais de duas décadas, obtendo melhores retornos a partir dos aportes realizados em razão dos baixos índices de inflação e elevadas taxas dos juros oficiais em detrimento da menor rentabilidade garantida ao participante.
+Ademais, o réu contratou o plano de previdência e vem contribuindo regularmente desde setembro de 1998 com a promessa de resgatar seus recursos em setembro de 2028 mediante correção pelo IGP-M e o pagamento de juros de 6% ao ano sobre o capital investido, não se olvidando constituir a iniciativa de modificação unilateral das cláusulas contratuais evidente afronta aos princípios e normas do sistema legal de proteção aos consumidores, o qual confere preponderância aos seus interesses nas relações com os fornecedores, além de frustrar a legítima expectativa do réu de resgatar seus investimentos segundo as regras vigentes há quase vinte e quatro anos, colocando-o em situação de extrema desvantagem em relação à entidade autora.
+Desse modo, observa-se que o acórdão recorrido analisou motivadamente todas as questões relevantes para a solução da lide, não se podendo atribuir os vícios de omissão, obscuridade, contradição ou erro material à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+Sobre o tema, vejam-se:
+AGRAVO INTERNO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. DESPACHO SEM CARGA DECISÓRIA. IRRECORRIBILIDADE ART. 1.001 DO CÓDIGO DE PROCESSO CIVIL. ADVOGADO RENÚNCIA. NOTIFICAÇÃO MANDANTE. ÔNUS DO PATRONO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.024.287/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+AGRAVO INTERNO. AGRAVO INTERNO. RECURSO ESPECIAL. CARTEL DE CIMENTO. RAZÕES DOS EMBARGOS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. NÃO OBSERVÂNCIA. TERMO INICIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PRINCÍPIO DA ACTIO NATA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. ART. 47 DA LEI N.º 12.529/2011. INVIABILIDADE DE ANÁLISE. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não há que se falar em omissão, negativa de prestação jurisdicional ou ausência de motivação, na medida em que o Tribunal de origem, clara e fundamentadamente, dirimiu as questões que lhe foram submetidas e sobre as quais julgou necessário se pronunciar.
+(..)
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.094.466/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+Outrossim, cumpre destacar que a jurisprudência desta Corte é pacífica no sentido de que ao julgador, como destinatário final da prova, cabe avaliar a efetiva conveniência e necessidade de sua produção, podendo indeferir as diligências inúteis ou protelatórias, o que não configura cerceamento de defesa (AgInt no AREsp n. 1.835.802/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. DANOS MORAIS. PROCEDIMENTO DERMATOLÓGICO. NEGLIGÊNCIA DEMONSTRADA. PROVA PERICIAL. FACULDADE DO MAGISTRADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. VALOR DA INDENIZAÇÃO. REDUÇÃO. NÃO CABIMENTO. RAZOABILIDADE.
+(..)
+2. A determinação para realizar provas é uma faculdade do magistrado, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.918.898/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+No caso em estudo, o Tribunal de Justiça do Estado de São Paulo concluiu pela dispensabilidade da produção de perícia atuarial, sob o fundamento de que a solução do processo envolveria matéria unicamente de direito, consistente na discussão acerca da aplicabilidade da teoria da imprevisão.
+A referida compreensão foi fundada no exame de fatos e provas, não sendo caso de simples qualificação jurídica, de modo que eventual conclusão acerca da existência de cerceamento de defesa esbarraria no enunciado sumular n. 7 do Superior Tribunal de Justiça.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTES DE 16,19%, 26,06% E 84,32%. CONCEDIDOS JUDICIALMENTE EM RECLAMAÇÕES TRABALHISTAS. SUPRESSÃO EM DECORRÊNCIA DE POSTERIOR REESTRUTURAÇÃO REMUNERATÓRIA. ALEGADA OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. APONTADA VIOLAÇÃO AOS ARTS. 643 DA CLT E 313, V, a, do CPC. PREQUESTIONAMENTO. PERTINÊNCIA TEMÁTICA. AUSÊNCIA. SÚMULAS 211/STJ E 284/STF. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. ART. 54 DA LEI 9.784/1999. INAPLICABILIDADE. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. OFENSA À COISA JULGADA. INEXISTÊNCIA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF.
+(..)
+6. Na forma da jurisprudência desta Corte, "cabendo ao julgador determinar as provas que entender pertinentes à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias, em observância aos princípios da livre admissibilidade da prova e do livre convencimento do juiz, rever as conclusões das instâncias ordinárias quanto à ocorrência de cerceamento de defesa demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ" (AR n. 6.870/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe de 4/4/2022). Nesse mesmo sentido: AgInt no AREsp n. 1.406.364/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/10/2019.
+(..)
+9. Agravo interno desprovido.
+(AgInt no REsp n. 1.916.908/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2022, DJe de 14/10/2022.)
+Por fim, é certo que ficou consignado no aresto recorrido que os supostos fatos alegados pela ora insurgente estariam inseridos no risco da atividade econômica por ela desenvolvida, não sendo considerados imprevisíveis e extraordinários.
+Nesse contexto, não há como afastar a convicção estadual, para entender pela ocorrência de fatos imprevisíveis e extraordinários, a ensejarem a repactuação ou rompimento do vínculo contratual, sem proceder previamente à interpretação de cláusulas do contrato e à reanálise fático-probatória da causa, o que encontra óbice na via extraordinária, em virtude da previsão contida nos verbetes n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+A título ilustrativo:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. CONTRATOS BANCÁRIOS. ALEGAÇÃO DE ONEROSIDADE EXCESSIVA. FATOS IMPREVISÍVEIS E EXTRAORDINÁRIOS A ENSEJAR A RESOLUÇÃO CONTRATUAL. NÃO OCORRÊNCIA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.897.876/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
