@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. CONTRATO DEFINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA.
+APLICAÇÃO DO CDC. Aplicam-se as disposições do Código de Defesa do Consumidor às instituições financeiras (Súmula n. 297 do STJ).
+AUSÊNCIA DE INTERESSE RECURSAL. Tendo em vista que não há determinação de descaracterização da mora na sentença recorrida, constata-se a inexistência de interesse recursal do réu em relação ao pedido de reforma do decisum quanto ao ponto. Recurso não conhecido, no tópico.
+JUROS REMUNERATÓRIOS. A abusividade da taxa dos juros remuneratórios em contratos bancários não se configura tão somente por ter sido pactuada acima de 12% ao ano, devendo ser objeto de análise casuística, mediante cotejo entre a taxa média estipulada e divulgada pelo BACEN para a espécie contratual e a correspondente data da contratação. Caso em que não há discrepância significativa entre as taxas de juros contratuais e a de mercado, não constando abusividade.
+TARIFA DE CADASTRO. É possível a cobrança da tarifa de cadastro nos contratos firmados após 30.04.2008, quando expressamente convencionada, podendo ser cobrado no início do relacionamento entre o consumidor e a instituição financeira. Inteligência da Súmula n. 566 do STJ.
+DESCARACTERIZAÇÃO DA MORA. Não sendo verificada abusividade de cláusula contratual compreendida nos encargos da normalidade, fica caracterizada a mora.
+INSCRIÇÃO NOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. Tendo em vista o inadimplemento e configurada a mora, admite-se a inscrição da parte devedora nos cadastros restritivos de crédito.
+VENDA CASADA. INOCORRÊNCIA. Caso em que não ficou comprovado que o consumidor tenha sido obrigado a contratar seguro, quando da celebração de contrato de financiamento com garantia de alienação fiduciária. APELAÇÃO DO AUTOR DESPROVIDA. APELAÇÃO DO RÉU CONHECIDA EM PARTE E, NESSA EXTENSÃO, PROVIDA" (fl. 305/306 e-STJ)
+A agravante aponta divergência jurisprudencial no que tange ao alcance do art. 51, inciso IV, § 1º, inciso III, do Código de Defesa do Consumidor, aos contratos de mútuo, manifestando-se no sentido de que, havendo prática de taxa de juros superior às de mercado, o contrato seria abusivo, de modo a se afastar a mora.
+Sem c  ontrarrazões.
+Juízo negativo de admissibilidade proferido às fls. 365/368 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece prosperar.
+Com efeito, a Segunda Seção deste Superior Tribunal de Justiça, no julgamento do REsp 1.061.530/SP, julgado sob o rito dos recursos repetitivos, de Relatoria da Ministra Nancy Andrighi, assentou que apenas "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto".
+À luz deste julgado, para considerar-se a taxa de juros exorbitante, deve haver análise das circunstância específicas do negócio jurídico firmado entre as partes, tais como o custo de captação dos recursos financeiros envolvidos na operação de crédito, o perfil (risco de crédito) do tomador do empréstimo - adimplente frequente/"bom pagador", inadimplente contumaz/"mau pagador"; tempo de relacionamento com a instituição financeira; montante do crédito contratado; existência ou não de garantia e sua qualidade; prazo do empréstimo; prazo de carência -, o spread da operação de crédito, ou seja, um exame pormenorizado e individualizado.
+Na espécie, o Tribunal de origem adotou entendimento em consonância com a jurisprudência desta Corte, no sentido de que, para o contrato ser considerado abusivo, não basta que a taxa de juros remuneratórios pactuada seja superior à taxa média de mercado divulgada pelo Banco Central.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
