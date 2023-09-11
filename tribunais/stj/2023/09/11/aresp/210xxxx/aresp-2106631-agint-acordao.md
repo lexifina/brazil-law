@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RESCISÃO CONTRATUAL. RESOLUÇÃO POR CULPA DA VENDEDORA. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo Tribunal de origem e não foram opostos embargos de declaração para provocar sua análise.
+2. Considera-se prequestionada a matéria quando tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação do Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial - adimplência do contrato - reclama o reexame dos elementos fático-probatórios dos autos.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA., contra a decisão de fls. 416-419, que negou provimento ao agravo em recurso especial em razão das Súmulas n. 7 e 211 do STJ.
+A parte agravante sustenta que estão prequestionadas todas as disposições legais expressas descritas no recurso e nas contrarrazões recursais.
+Alega, ainda (fl. 427):
+Portanto, resta mais que evidente que atese jurídica acerca dos 25% de retenção, amplamente solidificada no E. STJ, fora amplamente discutida além de ter sido objeto de carga decisória, no respectivo acórdão ora combatido, necessitando de reforma a decisão monocrática ora combatida, neste ponto.
+Por outro lado, no que trata do termo inicial dos juros de mora, cabe indicar a existência de prequestionamento implícito da tese, até por ser matéria de ordem pública, apreciável em qualquer instância de julgamento. Sendo evidente seu prequestionamento implícito.
+Destaca o seguinte (fl. 430):
+Porém, não obstante o livre convencimento do Exmo. Julgador, é perceptível que as razões arguidas pelo Recorrente no recurso especial inadmitido, referem-se única e exclusivamente a questões de direito, acerca da validade do repasse ao consumidor do valor a título de comissão de corretagem, não havendo necessidade de reexame das provas.
+O r. Julgador indica que a convicção do magistrado, ao afastar a aplicação dos 25% de retenção, formou-se sobre às provas, de forma que não haveria possibilidade de dar seguimento ao REsp. Contudo, para reforma do r. acórdão, inexiste necessidade de revolvimento probatório.
+Isso porque, em nenhum momento enfrentamento à existência de cláusula de corretagem. Em verdade, não houve óbice fático em face da tese suscitada, mas apenas uma decisão fundada em uma tese jurídica oposta à invocada pelo agravante, tese em confronto com o acórdão paradigma suscitado na interposição do REsp.
+Requer o provimento do agravo interno.
+Impugnação pela parte agravada às fls. 437-444.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RESCISÃO CONTRATUAL. RESOLUÇÃO POR CULPA DA VENDEDORA. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo Tribunal de origem e não foram opostos embargos de declaração para provocar sua análise.
+2. Considera-se prequestionada a matéria quando tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação do Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial - adimplência do contrato - reclama o reexame dos elementos fático-probatórios dos autos.
+4. Agravo interno desprovido.
+VOTO
+A pretensão recursal não reúne condições de prosperar.
+A decisão agravada adotou os fundamentos abaixo (fls. 416-419):
+A irresignação não prospera.
+3. Desde logo outrossim, observa-se que a matérias relativa aos artigos tidos por violados, qual seja, 489, inciso VI, do Código de Processo Civil, 389 e 402 do Código Civil não foram objeto de análise pelo acórdão recorrido sob o enfoque da retenção de 25% como padrão base e termo inicial dos juros de mora, tampouco foram opostos embargos de declaração para suprir eventual omissão a respeito.
+A inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento (Súmula 211/STJ).
+Por outro lado, o Superior Tribunal de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 1.022 do CPC, o que, no caso, não ocorreu.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+(..)
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+(..)
+06. Recurso especial não provido.(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).  g. n
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA. RECEBIMENTO DA PETIÇÃO INICIAL. VIOLAÇÃO DO ART. 535, II, DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PRESENÇA DE INDÍCIOS DE ATO DE IMPROBIDADE ADMINISTRATIVA EXPRESSAMENTE RECONHECIDOS PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso, nos termos da Súmula 211/STJ.
+3. A questão jurídica sobre a qual o Tribunal de origem não estava obrigado a se manifestar, por não haver sido provocado a tanto em momento oportuno, não pode ensejar ofensa ao artigo 535 do Código de Processo Civil. Além disso, se, a despeito dos embargos de declaração opostos, o Tribunal não se pronuncia sobre determinada questão, porque encontrou fundamentos diversos para o deslinde da controvérsia, inclusive de âmbito constitucional, falta o requisito do prequestionamento, incidindo, assim, a Súmula 211/STJ. Em casos tais, inexiste contradição em afastar a violação do artigo 535 do Código de Processo Civil e, ao mesmo tempo, não conhecer do mérito do recurso por ausência de prequestionamento.
+(..)
+7. Agravo regimental não provido.(AgRg no REsp 1533238/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/12/2015, DJe 14/12/2015)  g. n
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por violados, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Desse modo, incide o Enunciado Sumular nº 211/STJ que orienta ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+4. Quanto á tese de validade da retenção do valor pago pela comissão de corretagem, a Corte de origem entendeu que reconhecida a culpa da vendedora pela resolução do contrato, por atraso na construção do imóvel, devem ser restituídas integralmente as prestações pagas pelos compradores.
+Para analisar a tese da parte recorrente sobre a adimplência do contrato, seria necessário o reexame de provas, inviável na via do apelo extremo.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. COMISSÃO DE CORRETAGEM E TAXA DE INTERVENIÊNCIA. DEVOLUÇÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. Ao afastar a condenação da agravada à restituição dos valores das comissões de corretagem e taxa de interveniência, a Corte local apreciou e decidiu a controvérsia com base nas cláusulas contratuais e no substrato fático-probatório dos autos. Sendo assim, a alteração das conclusões alcançadas na origem esbarraria no óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.(AgInt nos EDcl no AREsp n. 1.856.083/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANO MORAL E MATERIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESTITUIÇÃO INTEGRAL. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA A PARTIR DA CITAÇÃO. SÚMULA 83/STJ. DANO MORAL. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Corte, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+3. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.(AgInt no AREsp n. 1.978.055/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+De fato, o acórdão vergastado, ao propugnar pela tese de impossibilidade de de retenção dos valores pagos formou sua convicção diante das provas e das circunstâncias fáticas presentes nos autos, razão pela qual a análise em mote, na perspectiva aventada pelo presente recurso, implicaria o reexame dos elementos supercitados.
+Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+5. Ante o exposto, nego provimento ao agravo.
+Reitere-se que, relativamente à aventada violação dos arts. 489, VI, do Código de Processo Civil, 389 e 402 do Código Civil, sob o enfoque da retenção de 25% como padrão base e termo inicial dos juros de mora, apontados como supostamente ofendidos, não foram objeto de análise pelo Tribunal de origem, de modo que não houve o indispensável prequestionamento, tampouco foram opostos embargos de declaração.
+Caso, pois, de incidência das Súmulas n. 282 e 356 do STF.
+Segundo a reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Repisa-se que, no tocante à alegação da recorrente sobre a adimplência do contrato, a Corte de origem reconheceu a culpa da vendedora pela resolução do contrato, por atraso na construção do imóvel, e que devem ser restituídas integralmente as prestações pagas pelos compradores, consignando o seguinte (fls. 300-301)
+Reconhecida a culpa da vendedora pela resolução do contrato, devem ser restituídas integralmente as prestações pagas pelos compradores.
+ ..
+Como no caso em questão ficou reconhecida a culpa da vendedora por atraso na construção do imóvel, não há direito de retenção da comissão de corretagem, tributos ou 25% dos valores pagos.
+Assim, c onforme devidamente explicitado na decisão ora agravada, mostra-se inviável o apelo especial, porquanto o acolhimento da tese recursal frente às conclusões expostas no acórdão de origem implicaria, efetivamente, o reexame de elementos fático-probatórios dos autos, medidas que esbarram no óbice das Súmula n. 7 do STJ.
+Nesse contexto, a parte ora recorrente não logrou êxito em apresentar argumentos suficientes para a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto
