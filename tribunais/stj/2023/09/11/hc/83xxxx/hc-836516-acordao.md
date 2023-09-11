@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE COMPARECIMENTO AO PLENÁRIO COM ROUPAS PRÓPRIAS. FÓRUM DE GRANDE MOVIMENTAÇÃO. CONCRETOS FUNDAMENTOS PARA A NEGATIVA. PEDIDO DEFERIDO PARCIALMENTE, NO JUÍZO DE ORIGEM, PARA QUE O PACIENTE NÃO USE ALGEMAS NO DIA DO JULGAMENTO. AUSÊNCIA DE ILEGALIDADE PELO USO DE UNIFORME DO SISTEMA PRISIONAL DURANTE A SESSÃO DO TRIBUNAL DO JÚRI. NECESSIDADE POR SEGURANÇA, DIANTE DO ELEVADO NÚMERO DE PESSOAS QUE LÁ CIRCULAM.
+1. Não se trata de um mero indeferimento do pedido feito pela defesa, sem plausibilidade, por parte da Magistrada, pois houve concreta fundamentação, com a explicação sobre o porquê da negativa, de modo que não há constrangimento ilegal ao paciente.
+2. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de Fernando Alexandre Balarin de Melo Júnior, em que se aponta como autoridade coatora a Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi pronunciado como incurso no art. 121, § 2º, I, II e IV, do Código Penal por ter impelido por motivo torpe e fútil e mediante recurso que dificultou a defesa da vítima, efetuado disparo de arma de fogo contra a vítima, seu genitor, que foi a causa de sua morte.
+O paciente apresentou queixa por querer ir ao plenário do júri trajando roupas próprias, em homenagem ao princípio de plenitude de defesa. O pedido foi indeferido pelo Juízo da 2ª Vara do Júri da Comarca de São Paulo por se tratar de um procedimento de urgência, de cognição sumária e não exauriente (fls. 20/21).
+Em sede de habeas corpus, a Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo denegou a ordem ao fundamento de que os juízes leigos irão julgar os fatos e não a forma de como o réu será apresentado em plenário, com roupas civis ou uniforme prisional, e também que o writ visa proteger o direito de locomoção e não as vestimentas (fls. 22/28).
+No presente writ, a defesa aponta constrangimento ilegal e requer que o paciente possa comparecer no plenário do júri no dia 8/11/23 trajando roupas próprias, pois é inidônea a fundamentação que trata da segurança, já que o Complexo Judiciário Ministro Mário Guimarães - Fórum Criminal da Barra Funda usufrui de ostensivo apoio de soldados e cabos da Polícia Militar do Estado de São Paulo para segurança dos presentes, de modo que não há risco à integridade física de ninguém ou até mesmo de fuga do réu (fls. 3/10).
+Decisão da Presidência indeferindo o pedido de liminar (fls. 32/33).
+Prestadas informações pelo Tribunal de Justiça de São Paulo (fls. 39/42).
+Parecer ministerial opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 108/113).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE COMPARECIMENTO AO PLENÁRIO COM ROUPAS PRÓPRIAS. FÓRUM DE GRANDE MOVIMENTAÇÃO. CONCRETOS FUNDAMENTOS PARA A NEGATIVA. PEDIDO DEFERIDO PARCIALMENTE, NO JUÍZO DE ORIGEM, PARA QUE O PACIENTE NÃO USE ALGEMAS NO DIA DO JULGAMENTO. AUSÊNCIA DE ILEGALIDADE PELO USO DE UNIFORME DO SISTEMA PRISIONAL DURANTE A SESSÃO DO TRIBUNAL DO JÚRI. NECESSIDADE POR SEGURANÇA, DIANTE DO ELEVADO NÚMERO DE PESSOAS QUE LÁ CIRCULAM.
+1. Não se trata de um mero indeferimento do pedido feito pela defesa, sem plausibilidade, por parte da Magistrada, pois houve concreta fundamentação, com a explicação sobre o porquê da negativa, de modo que não há constrangimento ilegal ao paciente.
+2. Ordem denegada.
+VOTO
+No processo conexo, HC n. 764643/SP, o paciente requer a exclusão das qualificadoras. Foi denegada a ordem de habeas corpus e julgado improvido o agravo regimental.
+Conforme verificado nos autos, o Juízo do Foro Central Criminal - 2ª Vara do Júri deferiu o pedido da defesa, em parte, para que o paciente não use algemas no dia do julgamento, nos seguintes termos (fl. 16):
+ ..
+Defiro em parte o requerimento da defesa para que o réu seja apresentado aos Srs. Jurados utilizando as roupas fornecidas pelo CDP e sem a utilização de algemas. Isso porque, consoante orientação, o uso de tais roupas não seria recomendado, considerando o tamanho do fórum e a possibilidade de fuga do réu, confundindo-se com as milhares de pessoas que aqui transitam diariamente (segundo estatísticas, mais de quatro mil pessoas circulam em média por dia nesse Fórum - https://www.anoreg.org.br/site/2018/07/19/tj -sp-forum-criminal-recebe-exposicao-que-divulga-campanha-protesto-do-bem/). Outrossim, consigna-se que o réu responde ao delito de homicídio qualificado e que o plenário, em que é realizado o julgamento, é pequeno e que todos os presentes (advogados, promotor, funcionários, juiza, réu, jurados, plateia) ficam muito próximos uns dos outros. Assim, o réu será apresentado e mantido SEM algemas, mantidos os trajes fornecidos pelo CDP.
+ ..
+Como verificado, em relação às roupas, o entendimento foi de que o paciente poderia ser confundido com qualquer outra pessoa que transita pelo Fórum, e que o Fórum onde será realizado o julgamento é bastante movimentado, ou seja, o uso de tais roupas não seria recomendado, considerando o tamanho do fórum e a possibilidade de fuga do réu, confundindo-se com as milhares de pessoas que aqui transitam diariamente (fl. 25).
+Não se trata de um mero indeferimento do pedido, sem plausibilidade, por parte da Magistrada, pois houve concreta fundamentação, com a explicação sobre o porquê da negativa, de modo que não há constrangimento ilegal ao paciente.
+Ademais, o entendimento desta Corte Superior está no mesmo sentido do acórdão hostilizado, de que o fato de o agravante utilizar roupas providas pelo estabelecimento carcerário durante a sessão do júri não caracteriza constrangimento ilegal apto a ser sanado pela via eleita (AgRg no RHC 162442 / SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/5/2022).
+Ante o exposto, denego a ordem de habeas corpus.
