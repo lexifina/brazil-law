@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE PROCURAÇÃO E CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES AO ADVOGADO SUBSCRITOR DO AGRAVO REGIMENTAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. JUNTADA DE SUBSTABELECIMENTO COM DATA POSTERIOR À INTERPOSIÇÃO DO RECURSO. NÃO SUPRIDO O VÍCIO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos do entendimento desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor do recurso, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo.
+2. Cumpre esclarecer que o substabelecimento juntado aos autos em 28/08/2023 não tem o condão de suprir o vício apontado, na medida em que é datado de 20/08/2023, ou seja, os poderes nele consignados foram outorgados ao subscritor deste agravo regimental em data posterior à interposição do recurso, que ocorreu em 09/08/2023.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NATÁLIA SCIANI NEGREIROS contra a decisão de fls. 2060-2062, que não conheceu do agravo em recurso especial, pela falta de impugnação a todos os fundamentos de inadmissão do apelo nobre.
+Contra a sentença absolutória a Acusação interpôs apelação, que foi provida, por maioria de votos, para condenar a Agravante pela prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/ 2006, à pena de 8 (oito) anos de reclusão, em regime inicial fechado, mais o pagamento de 1.200 (mil e duzentos) dias-multa (fls. 1127-1148).
+Os embargos de declaração opostos não foram conhecidos.
+Nas razões do recurso especial, a Defesa alega ofensa aos arts. 155, 156, 386, inciso VII, e 387, § 2.º, todos do Código de Processo Penal, 33, § 4.º, da Lei n. 11.343/2006, 33, § 2.º, e 59, inciso III, ambos do Código Penal.
+Requer a absolvição da Acusada. Subsidiariamente, pugna pela aplicação da minorante do tráfico privilegiado e pela fixação de regime prisional mais brando.
+Inadmitido o recurso na origem, subiram os autos a esta Corte Superior por meio do agravo de fls. 1953-1961.
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 2050-2058).
+A decisão de fls. 2060-2062 não conheceu do agravo em recurso especial.
+Neste agravo regimental, a Defesa se insurge contra a incidência das Súmulas n. 7 e 83, ambas desta Corte Superior.
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE PROCURAÇÃO E CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES AO ADVOGADO SUBSCRITOR DO AGRAVO REGIMENTAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. JUNTADA DE SUBSTABELECIMENTO COM DATA POSTERIOR À INTERPOSIÇÃO DO RECURSO. NÃO SUPRIDO O VÍCIO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos do entendimento desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor do recurso, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo.
+2. Cumpre esclarecer que o substabelecimento juntado aos autos em 28/08/2023 não tem o condão de suprir o vício apontado, na medida em que é datado de 20/08/2023, ou seja, os poderes nele consignados foram outorgados ao subscritor deste agravo regimental em data posterior à interposição do recurso, que ocorreu em 09/08/2023.
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não deve ser conhecido.
+Nos termos do entendimento desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e/ou respectiva cadeia de substabelecimento outorgando poderes ao subscritor do recurso, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo, nos termos da Súmula n. 115/STJ, in verbis: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. AUSÊNCIA DE PROCURAÇÃO. INCIDÊNCIA DA SÚMULA N. 115 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Observa-se que, mesmo após a intimação para regularização, não foi apresentada procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo em recurso especial (Dr. Bruno Chacon Brandão). Nesse contexto, "É firme o entendimento desta Corte de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula nº 115/STJ" (AgRg no AREsp 1659792/AP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/6/2020, DJe 24/6/2020).
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 1.675.800/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020.)
+"AGRAVO REGIMENTAL EM PETIÇÃO EM EMBARGOS DE DIVERGÊNCIA. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. VERBETE N. 115 DA SÚMULA/STJ. EMBARGOS DE DIVERGÊNCIA QUE IMPUGNAM ACÓRDÃO PROFERIDO EM RECURSO ORDINÁRIO EM HABEAS CORPUS: DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Se o advogado que assinou a petição eletrônica dos embargos de divergência não possui procuração ou substabelecimento nos autos e, embora intimado a regularizar a representação processual, quedou-se inerte, impõe-se a incidência da Súmula 115 do STJ, segundo a qual, Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (AgRg nos EREsp 1509492/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/09/2018, DJe 18/09/2018). No caso concreto, a parte foi intimada a regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, por decisão publicada no DJe de 30/03/2020. Entretanto, somente trouxe procuração aos autos no momento da interposição do regimental, em 22/06/2020.
+ ..
+3. Agravo regimental a que se nega provimento." (AgRg na Pet 13.280/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/08/2020, DJe 28/08/2020.)
+"PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA. REGULARIZAÇÃO NÃO REALIZADA NO PRAZO CONCEDIDO. INCIDÊNCIA DA SÚMULA N. 115/STJ. RECURSO ESPECIAL INEXISTENTE.
+1. "Interposto recurso impugnando decisão publicada na vigência do Código de Processo Civil de 2015, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos artigos 76 e 932 do mesmo Código.  ..  Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, inviável o conhecimento do recurso (Súmula 115 do STJ)" (PET no AREsp n. 1.387.998/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/6/2019, DJe 17/6/2019).
+2. Agravo regimental a que se nega provimento." (AgInt no AREsp 1.256.732/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020.)
+Na hipótese, conforme consignado na certidão de fl. 2146, foi verificada a inexistência, nos autos, de procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor deste agravo regimental, Dr. David Almeida de Paula.
+Devidamente intimada, a Defesa apresentou o substabelecimento de fl. 2153. No entanto, o documento juntado não tem o condão de suprir o vício apontado, na medida em que é datado de 20/08/2023, ou seja, os poderes nele consignados foram outorgados ao Dr. David Almeida de Paula apenas em data posterior à interposição deste regimental, que ocorreu em 09/08/2023 (fl. 2123).
+A propósito:
+" ..
+3. "A jurisprudência desta Corte perfilha entendimento no sentido de que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes" (AgInt no AREsp 1934163/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021).
+4. Agravo regimental improvido." (AgRg nos EDcl no AREsp n. 1.954.166/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022; sem grifos no original.)
+" ..
+3. Na hipótese dos autos, verificando que os aclaratórios (e-STJ fls. 617/624) foram apresentados sem a juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor (assinatura eletrônica) do recurso, a defesa foi devidamente intimada para regularizar o vício de representação processual, no prazo de 5 dias (e-STJ fls. 626/627). E, não obstante a defesa tenha providenciado a juntada do substabelecimento (e-STJ fl. 633), o instrumento de mandato em questão não teve o condão de suprir o vício de representação processual apontado, porquanto datado de 14/3/2022, isto é, conferido em data posterior à apresentação do recurso, que ocorreu em 6/3/2022 (e-STJ fls. 617/623). Assim, era mesmo de rigor o não conhecimento dos embargos de declaração, tal como deliberado no decisum agravado, o que não merece reparos.
+4. Agravo regimental não provido." (PET no RCD nos EDcl no AgRg no AREsp n. 2.035.448/SP, relator Ministro REYNALDO SOARES DA FONSECA , Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
