@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA E SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDÊNCIÁRIA. TESE DE PRESCRIÇÃO PENAL. SÚMULA N. 284 DO STF. IMPOSSIBILIDADE DE ANÁLISE, DE OFÍCIO. ILEGALIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de indicação do dispositivo de lei federal violado ou interpretado de forma divergente no acórdão combatido enseja a aplicação da Súmula n. 284 do STF, pois caracteriza deficiência na fundamentação do recurso especial, a dificultar a compreensão da controvérsia.
+2. Ademais, o agravante deixou de impugnar fundamento suficiente para manutenção do julgado no ponto em que o Tribunal a quo rejeitou a tese de prescrição (Súmula n. 283 do STF).
+3. Os recursos obstam o trânsito em julgado e interferem na contagem de lapsos prescricionais. Devem ser interpostos em consonância com os dispositivos vigentes, destinados a todos, e não se pode, sempre que negativo o juízo de admissibilidade, adentrar no mérito da causa sob o pretexto de que questões de natureza penal são de ordem pública.
+4. Deveras, "a afirmação de que reclamos criminais versam sobre matérias de ordem pública não traduz fórmula que obrigaria as Cortes Superiores a se manifestarem sobre temas em relação aos quais o recurso especial não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 1.889.310/PR, relator Ministro Rogerio Schietti, 6ª T., DJe de 25/4/2022).
+5. Incabível a concessão da ordem, de ofício, ausente patente ilegalidade no aresto combatido.
+6. Agravo regimental não provido.
+RELATÓRIO
+JOSÉ AILTON MACEDO DIAS agrava da decisão proferida pela Presidência desta Corte (fls. 1.633-1.634), a qual, com lastro na Súmula n. 284 do STF, não conheceu do recurso especial interposto pela defesa, haja vista a falta de indicação de dispositivos de lei federal pretensamente violados ou interpretados de forma divergente pelo Tribunal a quo.
+O postulante sustenta "a prescrição do crime previsto no artigo 337-A, do CP" (fl. 1.645). Aduz que em primeiro grau, não houve interrupção do curso da prescrição, pois a sentença reconheceu apenas o crime do art. 168-A do CP. Como são reduzidos de metade os prazos prescricionais e era, na data em que o Tribunal a quo o condenou por incursão no art. 337-A do CP (7/3/2022), maior de 70 anos, está caracterizada a causa extintiva de punibilidade. Assim (fl. 1.647):
+ ..  ainda que se entenda que há uma deficiência nas razões recursais, fato é que, trata-se de prescrição, que segundo o entendimento do c. STF é matéria de ordem publica, e, pode ser arguida em qualquer tempo e grau de jurisdição  ..
+O Ministério Público Federal se manifestou pelo não acolhimento da insurgência.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA E SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDÊNCIÁRIA. TESE DE PRESCRIÇÃO PENAL. SÚMULA N. 284 DO STF. IMPOSSIBILIDADE DE ANÁLISE, DE OFÍCIO. ILEGALIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de indicação do dispositivo de lei federal violado ou interpretado de forma divergente no acórdão combatido enseja a aplicação da Súmula n. 284 do STF, pois caracteriza deficiência na fundamentação do recurso especial, a dificultar a compreensão da controvérsia.
+2. Ademais, o agravante deixou de impugnar fundamento suficiente para manutenção do julgado no ponto em que o Tribunal a quo rejeitou a tese de prescrição (Súmula n. 283 do STF).
+3. Os recursos obstam o trânsito em julgado e interferem na contagem de lapsos prescricionais. Devem ser interpostos em consonância com os dispositivos vigentes, destinados a todos, e não se pode, sempre que negativo o juízo de admissibilidade, adentrar no mérito da causa sob o pretexto de que questões de natureza penal são de ordem pública.
+4. Deveras, "a afirmação de que reclamos criminais versam sobre matérias de ordem pública não traduz fórmula que obrigaria as Cortes Superiores a se manifestarem sobre temas em relação aos quais o recurso especial não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 1.889.310/PR, relator Ministro Rogerio Schietti, 6ª T., DJe de 25/4/2022).
+5. Incabível a concessão da ordem, de ofício, ausente patente ilegalidade no aresto combatido.
+6. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+Mediante análise do recurso especial, verifica-se a sua deficiência e a correta aplicação da Súmula n. 284/STF, uma vez que a parte deixou de indicar os dispositivos de lei federal violados ou interpretados de forma divergente no acórdão combatido.
+Esta Corte já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+O recurso especial também é deficiente porque não impugnou o fundamento do acórdão recorrido.
+O Tribunal rechaçou a tese de prescrição, porque (fls. 1.563-1.564, destaquei):
+ ..  a sentença condenou o embargante pelo crime de apropriação indébita previdenciária (CP, art. 168-A), absolvendo-o da imputação da prática do crime de sonegação de contribuição previdenciária (CP, art.337-A).
+ ..
+Nesse contexto, a sentença condenatória pelo crime do art. 168-A do Código Penal interrompeu a contagem do lapso prescricional também em relação ao crime do art. 337-A do Código Penal, embora tenha o réu sido absolvido. A superveniente reforma da sentença absolutória, para se condenar
+ ..  No caso de conexão material de crimes, objetos do mesmo processo, ainterrupção da prescrição em relação a um deles estende-se aos demais. Assim, ascausas interruptivas da prescrição, cuidando-se de conexão, são comunicáveis entre os delitos (CP, art. 117, § 1º, 2ª parte). Nesse sentido:
+A parte não se manifestou sobre o art. 117, § 1º, segunda parte, do CP e deixou de demonstrar o desacerto do julgado. N ão estamos diante de prescrição não analisada na origem ou que se aperfeiçoou em momento posterior à interposição do recurso especial, mas de impugnação ao acórdão da apelação em reclamo deficiente, que não suplantou requisito de admissibilidade.
+Os recursos devem ser interpostos em consonância com os dispositivos vigentes, destinados a todos, em atenção ao princípio do devido processo legal, não se podendo, sempre que negativo o juízo de admissibilidade, adentrar no mérito da causa sob a singela alegação de que matérias de natureza penal são de ordem pública, cognoscíveis de ofício.
+Deveras, "a afirmação de que reclamos criminais versam sobre matérias de ordem pública não traduz fórmula que obrigaria as Cortes Superiores a se manifestarem sobre temas em relação aos quais o recurso especial não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 1.889.310/PR, relator Ministro Rogerio Schietti, 6ª T., DJe de 25/4/2022).
+Incabíve l a concessão da ordem, de ofício, ausente patente ilegalidade no aresto combatido. pois, também no âmbito desta Corte, "o comando legal do art. 117, § 1º, do Código Penal, revela-se imperativo ao determinar que, em se tratando de crimes conexos, submetidos ao mesmo processo, eventual causa interruptiva que incida quanto a um deles estender-se-á aos demais delitos integrantes da denúncia" (AgRg nos EDcl no REsp n. 1.858.245/RS, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 19/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
