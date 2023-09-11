@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. ANULAÇÃO DE ATO ADMINISTRATIVO. EXCLUSÃO DE AÇÃO AFIRMATIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO CABIMENTO DE RECURSO ESPECIAL. OFENSA A PRINCÍPIO. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação ordinária objetivando anular ato administrativo que excluiu o autor de ação afirmativa. Na sentença o pedido foi julgado procedente em parte. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido.
+II - Quanto á alegada violação dos princípios da razoabilidade e da proporcionalidade, não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+III - Nesse sentido: AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017; AgInt no AREsp n. 1.304.346/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8/4/2019; AgRg no REsp n. 1.135.067/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 9/11/2015.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim resumido:
+REMESSA NECESSÁRIA. APELAÇÃO. PROCESSUAL CIVIL. SISTEMA DE SELEÇÃO UNIFICADA. UNIVERSIDADE FEDERAL FLUMINENSE. POLÍTICA DE AÇÃO AFIRMATIVA. CURSO DE MEDICINA. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DE REQUISITO EDITALÍCIO.
+AUSÊNCIA DE ILEGALIDADE. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+1. Trata-se de Remessa Necessária e Apelação interposta pela Demandada em face da sentença que julgou parcialmente procedentes os pedidos pretendidos pelo Autor, "para condenar a UFF a matricular o autor no seu curso de medicina, ante o seu direito à vaga de ação afirmativa L13." 2. In casu, o Autor se inscreveu no Sistema de Seleção Unificada - SISU utilizando sua nota obtida no Exame Nacional do Ensino Médio - ENEM para concorrer às vagas ofertadas para o curso de Medicina pela política de ação afirmativa L14. Contudo, a Demandada, através da comissão avaliadora da universidade, afirmou que o Autor não atendeu "os requisitos necessários para acesso à política (critérios fenotípicos - item 2.2 do Anexo 1 do Edital SISU - 2017/2)".
+3. Devidamente previsto na regra editalícia que os candidatos seriam avaliados por Comissão própria.
+A não aprovação perante a referida Comissão avaliadora foi um risco assumido pelo Autor desde o ato da inscrição, uma vez que cabe ao candidato se responsabilizar pelas informações declaradas a respeito do seu enquadramento na política de ações afirmativas, incorrendo na aceitação prévia das consequências cabíveis decorrentes de sua eventual reprovação.
+4. Incabível condenar a Demandada UFF a matricular o Autor no seu curso de medicina, em vaga de ação afirmativa L13 pois, em caso de a comissão de avaliação entender pelo não atendimento aos requisitos supracitados, dispõe o edital no seu item 2.2.3 que a matrícula seria cancelada.
+5. Com fulcro no instrumento de convocação, o Autor deve se manter vinculado aos critérios pertinentes à sua inscrição na política de ação afirmativa L14, de modo que qualquer alteração para que seja classificado na L13, viola o Princípio da Vinculação ao Instrumento Convocatório.
+6. Compete ao Poder Judiciário tão somente a verificação de questões em torno da legalidade, o que não se vislumbra no processo em apreço, não podendo, assim, substituir-se à Administração Pública.
+7. Remessa Necessária e Apelação providas.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com a devida vênia, a r. decisão merece ser superada. É que a questão não foi
+decidida sob fundamento eminentemente constitucional. Com efeito, a ratio decidendi constante do acórdão recorrido diz respeito ao art. 1º da Lei nº 12.288/10 e arts. 2º e 50, incs. I e III da Lei nº 9.784/99.
+De outro lado, a ilustração da discussão sob o alcance constitucional foi realizada como mero argumento de passagem, ou seja, obiter dictum, não constituindo fundamento constitucional suficiente para sustentar por si só o acordão regional. Isto é, a referência à disposição constitucional e mera afetação reflexa, sendo argumento puramente acessório.
+ ..
+Observe que, desde a origem, a questão a ser examinada restou devidamente prequestionada. No entanto, apesar de o debate dizer respeito ao art. 1º da Lei nº 12.288/10 e arts. 2º e 50, incs. I e III da Lei nº 9.784/99 e a tese daí decorrente (a prevalência da autodeclaração na verificação da cota e a falta de fundamentação da decisão do indeferimento do ingresso pelo sistema de cotas), foram opostos os aclaratórios justamente para que não pairassem quaisquer dúvidas acerca da discussão (fls. 208).
+Diante disso, mesmo entendendo que esse ponto estava devidamente discutido no acórdão regional, a 4ª Turma Regional do TRF da 4ª Região, por unanimidade, deu parcialmente provimento aos embargos para fins exclusivos de prequestionamento (fl. 226), deixando expressamente consignado tal aspecto.
+Portanto, não há que se falar de falta de prequestionamento e incidência da Súmula 211-STJ, pois o acórdão regional que decidiu os aclaratórios foram providos, nessa parte, deixando explícitos o atendimento ao requisito do prequestionamento no tocante a matéria e disposições de lei federal discutidas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. ANULAÇÃO DE ATO ADMINISTRATIVO. EXCLUSÃO DE AÇÃO AFIRMATIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO CABIMENTO DE RECURSO ESPECIAL. OFENSA A PRINCÍPIO. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação ordinária objetivando anular ato administrativo que excluiu o autor de ação afirmativa. Na sentença o pedido foi julgado procedente em parte. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido.
+II - Quanto á alegada violação dos princípios da razoabilidade e da proporcionalidade, não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+III - Nesse sentido: AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017; AgInt no AREsp n. 1.304.346/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8/4/2019; AgRg no REsp n. 1.135.067/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 9/11/2015.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Quanto à alegada violação dos princípios da razoabilidade e da proporcionalidade, não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017; AgInt no AREsp n. 1.304.346/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8/4/2019; AgRg no REsp n. 1.135.067/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 9/11/2015.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
