@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO QUALIFICADO. POSSE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. SÚMULA N. 691 DO STF. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, a princípio, verifica-se que o decisum apontou dados extraídos do caso concreto aptos a justificar a custódia cautelar, notadamente a mecânica delitiva empregada e a reincidência do réu, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+4. Deve-se, portanto, aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5 . Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANTÔNIO HARLEY DE SOUZA DINIZ contra decisão monocrática, de lavra da Presidência desta Casa, que indeferiu liminarmente o habeas corpus (e-STJ fls. 150/152).
+Em suas razões, sustenta a defesa que "demonstrou na inicial que a decisão guerreada não ostenta fundamentação idônea, na medida que se trata de decisão genérica e abstrata, bem como serve como suporte para justificar qualquer outra decisão judicial restritiva de liberdade, bem como houve violação do Princípio da Homogeneidade" (e-STJ fl. 158).
+Sublinha que, "por mais que o Paciente não seja primário, o crime praticado no passado não foi cometido mediante violência ou grave ameaça. Deveras, o Paciente cumpriu sua pena de forma categórica, o que prova que nunca teve intenção de se furtar da justiça" (e-STJ fl. 159).
+Diante disso, pede "a reconsideração da r. decisão agravada ou, caso assim não entenda, seja o presente recurso distribuído para uma das turmas deste Superior Tribunal de Justiça, oportunidade em que, sorteada uma das turmas para julgamento, requer provimento do presente agravo, a fim de que seja devidamente conhecido e provido o recurso interposto" (e-STJ fl. 163).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO QUALIFICADO. POSSE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. SÚMULA N. 691 DO STF. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, a princípio, verifica-se que o decisum apontou dados extraídos do caso concreto aptos a justificar a custódia cautelar, notadamente a mecânica delitiva empregada e a reincidência do réu, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+4. Deve-se, portanto, aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5 . Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do Supremo Tribunal Federal), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+No caso, consta do decreto constritivo o que se segue (e-STJ fls. 17/19):
+É caso de se converter a prisão em flagrante em prisão preventiva, na forma do art. 310, inc. II, do CPP, em sua atual redação. Existem, nos autos, prova da materialidade dos delitos (receptação qualificada e posse ilegal de munições de uso permitido, em tese), punido, o primeiro, com reclusão (pena máxima superior a 4 anos), havendo indícios suficientes da autoria, conforme exsurge dos elementos colhidos no auto de prisão em flagrante, notadamente os depoimentos dos agentes encarregados das diligências, além dos demais elementos de convicção já referenciados. Embora a conduta praticada, em tese, não tenha sido envidada mediante violência ou grave ameaça, presentes, neste instante, circunstâncias justificadoras da manutenção da custódia, para garantia da ordem pública e para assegurar a aplicação da lei penal. A conduta do autuado, que não comprova exercício de atividade lícita e nem vínculos com o distrito da culpa, é reveladora de audácia e certeza de impunidade, havendo elementos a indicar, ademais, que participe de atividade espúria organizada, em exercício comercial irregular, sendo imperiosa a sua manutenção no cárcere, tanto para garantia da ordem pública, evitando-se o retorno às comercializações de bens oriundos de crimes, como para garantia da efetiva aplicação da lei penal, ao que, ao que tudo indica, poderá furtar-se. Não há como se deferir a liberdade, neste momento, pois necessário resguardar a ordem pública, já que a sociedade se vê constantemente atormentada pela prática de crimes patrimoniais (fomentados justamente por existir cadeia de circulação de bens espúrios), bem como por presente o risco de se frustrar a aplicação da lei penal, já que não há garantias de que, concedida liberdade, não se voltará a delinquir e não se frustrará o regular andamento do feito, subtraindo-se à ação da justiça criminal. Não há possibilidade de aplicação, neste momento, de outras medidas cautelares, pois não há aparato de fiscalização adequado. Noutro vértice, para a especial finalidade de prevenção ao crime e ressocialização à vida social, o(s) custodiado(s) deverá(ão) ser preventivamente preso(s), não se podendo lançar no oblívio que a garantia da ordem pública reclama a manutenção da prisão cautelar. Assim, em sede de cognição sumária, há indicativos de autoria em relação ao custodiado da prática de receptação qualificada, além de posse de munição em quantidade substancial. Ademais, o autuado é reincidente, conforme folha de antecedentes acostada às fls. 52/57 e certidão estadual de distribuições criminais às fls. 58/61.
+A princípio, tenho que o decisum apontou dados extraídos do caso concreto aptos a justificar a prisão preventiva, notadamente diante da reincidência do réu, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+Assim, a questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte Superior impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
