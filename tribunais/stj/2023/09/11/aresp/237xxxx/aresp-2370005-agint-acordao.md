@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO.
+1. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ROBERTO DIAS DA SILVA, contra decisão monocrática da Presidência do STJ que não conheceu do recurso especial em razão de sua intempestividade (fls. 408/409).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 321):
+GRATUIDADE DA JUSTIÇA - DOCUMENTOS QUE INFIRMAM A PRESUNÇÃO QUE EXISTIA EM BENEFÍCIO DO AUTOR - FATOS QUE DEMONSTRAM SITUAÇÃO INCOMPATÍVEL COM A CONDIÇÃO DE PESSOA NECESSITADA EXIGIDA PELA LEI  NÃO PREENCHIMENTO DOS CRITÉRIOS UTILIZADOS PELA DEFENSORIA PÚBLICA PARA ATUAÇÃO EM PROL DOS NECESSITADOS, PARÂMETRO ADOTADO POR ESTE RELATOR - BENEFÍCIO INDEFERIDO. MEDIAÇÃO - CORRETAGEM - VENDA DE IMÓVEL - APROXIMAÇÃO ENTRE AS PARTES NÃO COMPROVADA - NEGÓCIO EFETIVAMENTE CONCRETIZADO SEM A PARTICIPAÇÃO DO AUTOR - CORRETAGEM INDEVIDA - APLICAÇÃO DO ARTIGO 373, I, DO CÓDIGO DE PROCESSO CIVIL AUTOR NÃO PROVOU OS FATOS CONSTITUTIVOS DE SEU DIREITO - CERCEAMENTO DE DEFESA INOCORRENTE - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - LITIGÃNCIA DE MÁ-FÉ NÃO CARACTERIZADA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA MAJORADOS, EM APLICAÇÃO AO DISPOSTO NO ARTIGO 85, §11, DO CÓDIGO DE PROCESSO CIVIL. APELAÇÃO NÃO PROVIDA.
+Em suas razões recursais, a parte agravante sustenta que (fls. 416/417):
+ ..
+além de feriado nacional, também é considerado feriado nos tribunais estaduais, ao contrário do mencionado, na quinta-feira de ENDONÇAS e na SEXTA-FEIRA SANTA não há expediente forense em nenhum tribunal pátrio, seja ele Estadual ou Federal, com consequente suspensão dos prazos, por ser considerado "feriado"; inclusive estando presente no calendário do Poder Judiciário e deste E. Superior Tribunal de Justiça.
+Ora, nobre Julgador, beira o absurdo a exigência de comprovação pelo Recorrente de que havia feriado nacional se o próprio Superior Tribunal de Justiça assim o reconheceu e deixou de dar expediente nos dias do feriado, inclusive na quarta-feira (05 de abril), com a consequente suspensão dos prazos.
+Não é concebível que E. STJ cumpre o feriado, suspende os prazos e, ao mesmo tempo, exige que o Agravante apresente comprovação de que havia feriado estadual no I. Juízo a quo!!
+Desta forma, temos que o acórdão fora disponibilizado no DJE do dia 22 de março de 2.023, tendo sido o Agravante intimado no dia 23 de março de 2.023, com a fluição do prazo a partir do dia 24 de março de 2.023, suspenso pelo feriado de Endoenças e Sexta-Feira Santa em 06 e 07 de abril de 2.023, retomando seu curso em 10 de abril de 2.023 e finalizando como o 15º dia útil em 17 de abril de 2.021, data em que o recurso especial fora protocolizado.
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO.
+1. A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação recursal não merece prosperar.
+Na espécie, a Presidência desta Corte Superior não conheceu do recurso especial em razão de sua intempestividade, conforme se pode observar da leitura do seguinte trecho (fls. 408/409 ):
+Mediante análise do recurso de ROBERTO DIAS DA SILVA, a parte recorrente foi intimada da decisão agravada em 23/03/2023, sendo o agravo somente interposto em 17/04/2023.O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Com efeito, verifica-se que a decisão da Presidência está em plena consonância com a jurisprudência do STJ, uma vez que esta Corte Superior adota o entendimento de que "cabe à parte comprovar, no momento da interposição do recurso, a ocorrência de suspensão dos prazos processuais em decorrência de feriados locais, recesso forense ou ponto facultativo, entre outros motivos, a fim de demonstrar a tempestividade recursal. A possibilidade de comprovação do feriado local posteriormente restringe-se à segunda-feira de carnaval, não se aplicando aos demais feriados (AREsp 1.481.810-SP, Corte Especial)" (AgInt nos EAREsp n. 1.499.016/MG, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 23/5/2023, DJe de 25/5/2023).
+Nesse contexto, destaca-se que "a decisão de admissibilidade ou certidão de tempestividade oriundas do Tribunal local não vinculam o Superior Tribunal de Justiça, tendo em vista que o juízo de admissibilidade do recurso especial está submetido ao duplo controle, cabendo a esta Corte Superior nova apreciação dos pressupostos do apelo a ela remetido" (AgInt no AREsp n. 2.263.949/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+No mais, ressalta-se que "os recursos interpostos perante a instância de origem, mesmo que endereçados ao Superior Tribunal de Justiça, observam o calendário de funcionamento do tribunal local, não se podendo utilizar, para todos os casos, dos feriados e das suspensões previstas em Portarias e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual. Precedentes" (AgInt no AREsp n. 1.548.931/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/8/2020, DJe de 31/8/2020).
+Por fim, registre-se que, "conforme entendimento firmado no Superior Tribunal de Justiça, os dias que antecedem a Sexta-Feira da Paixão não são previstos, em lei federal, como feriados nacionais, sendo, por isso, considerados feriados locais, sujeitos à comprovação no ato de interposição do recurso" (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.626.958/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/2/2022, DJe de 2/3/2022 ).
+Dessarte, não tendo havido a comprovação de suspensão dos prazos no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, não há como ser afastado o seu decreto de intempestividade.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
