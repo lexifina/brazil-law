@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por RONALD OLIVEIRA BRANDAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2192403-59.2023.8.26.0000).
+O recorrente foi condenado à pena de 1 ano e 9 meses de reclusão em regime fechado, além do pagamento de 17 dias-multa, por infração ao art. 180, caput, do Código Penal, negado o direito de recorrer em liberdade.
+O recurso de apelação interposto pela defesa ainda não foi julgado pelo Tribunal de origem (e-STJ fl.42).
+O mandamus impetrado na Corte local não foi conhecido (e-STJ fls. 51-57).
+A defesa alega: a) existência de bis in idem na utilização da reincidência para exasperar a pena-base e, simultaneamente, incidir como circunstância agravante prevista no art. 61, I, do Código Penal, em violação à Súmula 241 do STJ; e b) possibilidade de fixação de regime semiaberto, apesar da reincidência, em observância à Súmula 269 do STJ.
+Requer liminar para revogar a prisão e, definitivamente, provimento do recurso para reformar a dosimetria da pena e fixar o regime semiaberto.
+É o relatório.
+As matérias relativas à dosimetria e ao regime de cumprimento de pena não foram apreciadas no acórdão impugnado. Para não incorrer em supressão de instância, esta Corte não pode conhecer dos temas .
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE DE PROVAS, DA DESCONSTITUIÇÃO DE PATRONO E DA DOSIMETRIA QUE NÃO FORAM CONHECIDAS PELA CORTE DE ORIGEM, POR TEREM SIDO POSTAS TAMBÉM EM APELAÇÃO CRIMINAL DA DEFESA, AINDA PENDENTE DE JULGAMENTO. INVIABILIDADE DE MANIFESTAÇÃO DESTA CORTE SOBRE OS TEMAS: SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA PRISÃO PREVENTIVA EM SENTENÇA CONDENATÓRIA. AUSÊNCIA DE JUNTADA DA PARTE DA SENTENÇA QUE TRATA DE DOSIMETRIA E DOS FUNDAMENTOS PARA NÃO PERMITIR QUE O RÉU RECORRA EM LIBERDADE. INSTRUÇÃO DO FEITO: ÔNUS DA PARTE. RECURSO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA: SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. Não tendo o Tribunal de Justiça deliberado sobre as alegações da defesa referentes à nulidade de provas, à desconstituição de patrono e à dosimetria, é inviável seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+De mais a mais, a jurisprudência do Superior Tribunal de Justiça assentou-se no sentido de que não padece de ilegalidade o acórdão recorrido que deixa de conhecer de habeas corpus, por veicular idêntico tema posto em apelação criminal pendente de julgamento do Tribunal de origem e cujo conhecimento demanda a análise de matéria fático-probatória. Precedente: HC 482.549/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 11/03/2020, DJe 03/04/2020.
+3. Incumbe ao impetrante o dever de demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente, sob pena de não conhecimento do writ.
+Precedentes.
+In casu, a defesa não cuidou de instruir o presente habeas corpus com a cópia integral da sentença condenatória, não tendo sido juntada a parte da sentença que trata da dosimetria e dos fundamentos para a manutenção da prisão preventiva, mas apenas o acórdão que assentou que tanto a reincidência quanto a periculosidade em concreto do réu justificariam lhe fosse negado o direito de recorrer em liberdade.
+À míngua de evidências em contrário, o entendimento adotado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, lhe fosse deferida a liberdade.
+4. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+5. Agravo regimental desprovido.
+(AgRg no HC 706.316/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/12/2021, DJe de 13/12/2021).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno deste Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
