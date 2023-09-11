@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. GRATIFICAÇÃO ESPECÍFICA PREVISTA NA LEI 2.990/1998 REVOGADA PELA LEI 3.586/2001. PROVA NOVA. INEXISTÊNCIA. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Cuida-se, na origem, de Ação Rescisória ajuizada pelo ora recorrente, com fundamento no art. 966 do CPC/2015, em que alega a existência de prova nova, consistente em parecer contábil, que comprova que a gratificação discutida na ação transitada em julgado não foi totalmente integralizada em seus vencimentos.
+2. A Ação Rescisória é medida excepcional, cabível nos limites das hipóteses taxativas de rescindibilidade previstas no art. 966 do CPC/2015, em virtude da proteção constitucional à coisa julgada e do princípio da segurança jurídica.
+3. E ainda, a prova nova apta a aparelhar a Ação Rescisória, fundada no art. 966, VII, do CPC/2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, a lhe assegurar pronunciamento jurisdicional distinto daquele proferido, situação aqui não verificada.
+4. Ademais, nos termos da jurisprudência do STJ, a Ação Rescisória fundada em erro de fato pressupõe que a decisão tenha admitido fato inexistente ou tenha considerado inexistente fato efetivamente ocorrido, mas, em quaisquer dos casos, indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015).
+5. O Tribunal a quo, soberano na análise das circunstâncias fáticas da causa, concluiu que os documentos acostados não constituem prova nova que autorize a rescisão do julgado (fls. 422-424, e-STJ): "É sabido que a decisão que transitou em julgado apenas pode ser rescindida em situações excepcionais elencadas no Código de Processo Civil, de forma taxativa, sob pena de violação do princípio da segurança jurídica e de se caracterizar a ação rescisória como um sucedâneo de recurso. Ocorre que, compulsando os autos, verifica-se que os documentos acostados não constituem prova nova. Isso porque, da simples leitura da petição inicial, o próprio demandante afirma que tais documentos já existiam à época da ação, mas que requeriam conhecimento técnico específico que o demandante ignorava. Ora, justamente para tais casos é que a legislação processual admite que a parte requeira a produção de prova técnica, o que deveria ter sido postulado pelo autor na demanda originária. Se não o fez no momento oportuno, resta preclusa a oportunidade para produzir tal prova. Também não configura prova nova a existência de contracheques de outros servidores, pois já existiam quando da ação originária e naqueles autos é que deveriam ter sido acostados, a fim de comprovar o fato constitutivo do direito do autor. Portanto, percebe-se que, em verdade, o demandante não possui prova nova capaz de lhe assegurar pronunciamento favorável e que não pôde ser utilizada à época, pois todas as provas aqui apresentadas já existiam e poderiam ter sido por ele aproveitadas se tivesse adotado conduta diligente".
+6. Desse modo, modificar as conclusões do acórdão impugnado, quanto à inexistência de provas novas e à ausência dos demais requisitos para a procedência da Ação Rescisória, demanda reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito do STJ, conforme a Súmula 7/STJ.
+7. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão de fls. 900-903, e-STJ, complementada pela de fls. 925-926, e-STJ, que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante refuta o embasamento da decisão, sustentando, em síntese:
+O STJ a partir da jurisprudência indicada, fundamenta e valida às ações rescisórias fincadas no inciso VII do art. 966 do CPC pela valoração que se impõe para análise de um conteúdo probatório, divorciando-se da análise meramente documental, posto que o novo inciso é expresso ao afirmar que pode ser rescindida a ação cuja a qual o autor obtiver, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável.
+Logo: Prova nova não é documento novo, pois deve ser valorada como prova! Frisa-se que para fins rescisórios necessariamente a prova deve ser velha, mas que por algum motivo não pode o autor fazer uso dela.
+Sem impugnação.
+É o relatório.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 2.230.988 - RJ (2022/0330153-9)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+CARLOS ANTONIO SILVA DE ARAUJO
+ADVOGADO
+:
+HUMBERTO ADAMI SANTOS JUNIOR - RJ000830
+AGRAVADO
+:
+ESTADO DO RIO DE JANEIRO
+ADVOGADO
+:
+RODRIGO LIMA E SILVA DE FREITAS
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. GRATIFICAÇÃO ESPECÍFICA PREVISTA NA LEI 2.990/1998 REVOGADA PELA LEI 3.586/2001. PROVA NOVA. INEXISTÊNCIA. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Cuida-se, na origem, de Ação Rescisória ajuizada pelo ora recorrente, com fundamento no art. 966 do CPC/2015, em que alega a existência de prova nova, consistente em parecer contábil, que comprova que a gratificação discutida na ação transitada em julgado não foi totalmente integralizada em seus vencimentos.
+2. A Ação Rescisória é medida excepcional, cabível nos limites das hipóteses taxativas de rescindibilidade previstas no art. 966 do CPC/2015, em virtude da proteção constitucional à coisa julgada e do princípio da segurança jurídica.
+3. E ainda, a prova nova apta a aparelhar a Ação Rescisória, fundada no art. 966, VII, do CPC/2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, a lhe assegurar pronunciamento jurisdicional distinto daquele proferido, situação aqui não verificada.
+4. Ademais, nos termos da jurisprudência do STJ, a Ação Rescisória fundada em erro de fato pressupõe que a decisão tenha admitido fato inexistente ou tenha considerado inexistente fato efetivamente ocorrido, mas, em quaisquer dos casos, indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015).
+5. O Tribunal a quo, soberano na análise das circunstâncias fáticas da causa, concluiu que os documentos acostados não constituem prova nova que autorize a rescisão do julgado (fls. 422-424, e-STJ): "É sabido que a decisão que transitou em julgado apenas pode ser rescindida em situações excepcionais elencadas no Código de Processo Civil, de forma taxativa, sob pena de violação do princípio da segurança jurídica e de se caracterizar a ação rescisória como um sucedâneo de recurso. Ocorre que, compulsando os autos, verifica-se que os documentos acostados não constituem prova nova. Isso porque, da simples leitura da petição inicial, o próprio demandante afirma que tais documentos já existiam à época da ação, mas que requeriam conhecimento técnico específico que o demandante ignorava. Ora, justamente para tais casos é que a legislação processual admite que a parte requeira a produção de prova técnica, o que deveria ter sido postulado pelo autor na demanda originária. Se não o fez no momento oportuno, resta preclusa a oportunidade para produzir tal prova. Também não configura prova nova a existência de contracheques de outros servidores, pois já existiam quando da ação originária e naqueles autos é que deveriam ter sido acostados, a fim de comprovar o fato constitutivo do direito do autor. Portanto, percebe-se que, em verdade, o demandante não possui prova nova capaz de lhe assegurar pronunciamento favorável e que não pôde ser utilizada à época, pois todas as provas aqui apresentadas já existiam e poderiam ter sido por ele aproveitadas se tivesse adotado conduta diligente".
+6. Desse modo, modificar as conclusões do acórdão impugnado, quanto à inexistência de provas novas e à ausência dos demais requisitos para a procedência da Ação Rescisória, demanda reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito do STJ, conforme a Súmula 7/STJ.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.8.2023.
+Não obstante os argumentos expendidos, o inconformismo do agravante não merece guarida.
+Cuida-se, na origem, de Ação Rescisória ajuizada pelo ora recorrente, com fundamento no art. 966 do CPC/2015, em que alega a existência de prova nova, consistente em parecer contábil, que comprova que a gratificação discutida na ação transitada em julgado não foi totalmente integralizada em seus vencimentos.
+O Tribunal a quo, soberano na análise das circunstâncias fáticas da causa, concluiu que os documentos acostados não constituem prova nova que autorize a rescisão do julgado (fls. 422-424, e-STJ, grifei):
+É sabido que a decisão que transitou em julgado apenas pode ser rescindida em situações excepcionais elencadas no Código de Processo Civil, de forma taxativa, sob pena de violação do princípio da segurança jurídica e de se caracterizar a ação rescisória como um sucedâneo de recurso.
+Ocorre que, compulsando os autos, verifica-se que os documentos acostados não constituem prova nova.
+Isso porque, da simples leitura da petição inicial, o próprio demandante afirma que tais documentos já existiam à época da ação, mas que requeriam conhecimento técnico específico que o demandante ignorava.
+Ora, justamente para tais casos é que a legislação processual admite que a parte requeira a produção de prova técnica, o que deveria ter sido postulado pelo autor na demanda originária. Se não o fez no momento oportuno, resta preclusa a oportunidade para produzir tal prova.
+Também não configura prova nova a existência de contracheques de outros servidores, pois já existiam quando da ação originária e naqueles autos é que deveriam ter sido acostados, a fim de comprovar o fato constitutivo do direito do autor.
+Portanto, percebe-se que, em verdade, o demandante não possui prova nova capaz de lhe assegurar pronunciamento favorável e que não pôde ser utilizada à época, pois todas as provas aqui apresentadas já existiam e poderiam ter sido por ele aproveitadas se tivesse adotado conduta diligente.
+Assim, a petição inicial rescisória não conseguiu demonstrar a existência de provas novas que autorizariam a rescisão do julgado.
+Ademais, cumpre ressaltar que não se presta a presente, por seu caráter excepcional, para reexame da prova produzida ou mesmo para rediscutir matéria já tratada e decidida na lide, muito menos para corrigir julgado, que não agradou os anseios da parte.
+(..)
+Portanto, não é possível utilizar-se a ação rescisória como sucedâneo recursal, com o pretexto de rediscutir os fatos e fundamentos da decisão, tendo em vista a necessidade de se preservar a segurança jurídica das decisões acobertadas pelo manto da coisa julgada.
+Desse modo, não se constatando a específica hipótese de cabimento, é a parte autora carecedora de ação, devendo a inicial ser indeferida e o feito julgado extinto, sem resolução do seu mérito.
+Com efeito, a Ação Rescisória é medida excepcional, cabível nos limites das hipóteses taxativas de rescindibilidade previstas no art. 966 do CPC/2015, em virtude da proteção constitucional à coisa julgada e do princípio da segurança jurídica.
+E ainda, a prova nova apta a aparelhar a Ação Rescisória, fundada no art. 966, VII, do CPC/2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, a lhe assegurar um pronunciamento jurisdicional distinto daquele proferido, situação aqui não verificada.
+Ademais, nos termos da jurisprudência do STJ, a Ação Rescisória fundada em erro de fato pressupõe que a decisão tenha admitido fato inexistente ou tenha considerado inexistente fato efetivamente ocorrido, mas, em quaisquer dos casos, indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015).
+Desse modo, descabe ao Superior Tribunal de Justiça, em Recurso Especial, alterar a conclusão da Corte a quo pela não ocorrência de erro de fato e pela inexistência de prova nova, pois, para acatar os argumentos apresentados pelo recorrente em sentido contrário, é necessário revolvimento do conteúdo fático-probatório dos autos, obstado neste momento processual, consoante a Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO RESCISÓRIA (ART. 485, INCS. VII E IX, CÓDIGO DE PROCESSO CIVIL). APOSENTADORIA POR IDADE A RURÍCOLA. ERRO DE FATO E DOCUMENTAÇÃO NOVA: NÃO OCORRÊNCIA E/OU CARACTERIZAÇÃO. DOCUMENTOS NOVOS JUNTADOS AO AUTOS. COMPROVAÇÃO DE ATIVIDADE RURAL PELA AUTORIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte é assente no sentido de que, quando o acórdão rescindendo considera fato não existente ou tem por não existente fato efetivamente ocorrido, desde que sobre esse fato não tenha havido controvérsia ou pronunciamento judicial, trata-se de um erro de percepção e não de um critério interpretativo do juiz.
+III - In casu, rever o entendimento do Tribunal de origem, que não constatou a presença de documentos novos juntados aos autos aptos à comprovação de atividade rural pela parte autora, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.636.816/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/9/2019, DJe de 11/9/2019.)
+Por fim, consigne-se que a incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
