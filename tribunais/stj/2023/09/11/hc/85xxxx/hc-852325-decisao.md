@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rafael Vieira da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0005193-05.2023.8.26.0482).
+Consta dos autos que, em 16/5/2023, o Juízo da 2ª Vara de Execuções Criminais da comarca de Presidente Prudente/SP, no PEC n. 7002076-94.2014.8.26.0224, indeferiu o pedido de progressão de regime formulado pelo paciente (fls. 35/39).
+Irresignada, a defesa interpôs agravo de execução penal, e o Tribunal de Justiça paulista negou provimento ao recurso em 21/8/2023 (fls. 40/49).
+Daí a presente impetração, em que se alega constrangimento ilegal em razão da ausência de fundamentação das decisões vergastadas e pelo fato de o paciente preencher os requisitos necessários para obter a progressão ao regime semiaberto.
+Aduz-se que a última falta grave fora praticada há mais de seis anos e, com a realização de trabalho no âmbito carcerário, não há qualquer dúvida sobre o mérito do cativo (fl. 11).
+Defende-se que a gravidade abstrata dos crimes e a longa pena a cumprir não podem obstar a progressão de regime.
+Sustenta-se que o paciente faz jus, ao menos, a realização do exame criminológico para aferir sua capacidade de obter o benefício.
+Requer-se, liminarmente e no mérito, seja deferido ao paciente a progressão ao regime semiaberto, ainda que condicionado à realização de exame criminológico.
+Os autos vieram a mim conclusos por prevenção de Turma do HC n. 289.712/SP.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto o Tribunal estadual decidiu na linha da firme jurisprudência do Superior Tribunal de Justiça.
+Do acórdão impugnado verifica-se que a fundamentação utilizada para negar ao paciente a progressão ao regime semiaberto teve como base fatos ocorridos durante a execução penal (fls. 42/43 - grifo nosso):
+ ..
+É verdade que a gravidade do crime e a longa pena a cumprir não se constituem, isoladamente, em óbice à progressão prisional. Contudo, não é menos verdade que essas circunstâncias demonstram a necessidade de maior rigor na verificação dos requisitos objetivo e subjetivo. Isso porque é preciso ter certeza que o sentenciado está absorvendo a terapêutica penal antes de ser inserido em regime de menor vigilância, que possibilitará a prática de novos delitos, colocando em risco a sociedade.
+E o atestado de boa conduta carcerária não é suficiente para comprovar o preenchimento desse requisito, porquanto um bom comportamento carcerário não significa ausência de periculosidade.
+O preenchimento do requisito de ordem subjetiva vai muito além disso e se dá a partir de uma análise mais acurada do comportamento do réu durante toda a execução de pena, sendo certo que a ausência de faltas graves também não serve de suporte para a almejada progressão.
+Por outro lado, a análise da folha de antecedentes do sentenciado demonstra que, sempre que o cativo foi beneficiado com a inserção no regime de menor vigilância, tornou a delinquir, ou seja, não conseguiu frear seus instintos e praticou delitos, traindo a confiança nele depositada pelo Estado-Juiz.
+Note-se, a recidiva delitiva sempre demonstra ausência de mérito, sendo certo que ele também praticou 2 faltas disciplinares de natureza grave, como também consta que trabalhou somente durante o período de 24/2/2014 e 16/4/2014, sendo que desde então não mais exerceu qualquer atividade laborterápica e nem estudou (fl. 29), de modo que não emerge dos autos que o sentenciado esteja absorvendo a contento a terapêutica pena que lhe vem sendo dispensada.
+Com efeito, esta Corte pacificou entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal , justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do pleito de concessão de livramento condicional pelo inadimplemento do requisito subjetivo (AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020 - grifo nosso).
+Ademais, segundo o entendimento desta Corte, não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado (HC n. 633.355/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/5/2021).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. FALTAS GRAVES (EVASÃO E PRÁTICA DE DOIS FATOS DEFINIDOS COMO CRIMES DOLOSOS). AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária. Precedentes do STJ.
+2. "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC n. 477.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/3/2019, DJe 25/3/2019).
+3. Sem embargo, tem-se que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+4. Na hipótese em apreço, conforme decidido monocraticamente, o indeferimento da progressão de regime é válido, pois amparado na prática de faltas disciplinares de natureza grave - abandono do cumprimento de regime semiaberto anteriormente concedido (evasão) e prática de dois fatos definidos como crimes dolosos (roubos majorados) - ocorridas no curso da execução que se pretende a concessão do benefício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 494.742/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/6/2019 - grifo nosso)
+In casu, o Tribunal de origem ressaltou o histórico de faltas disciplinares de natureza grave cometidas no curso da execução penal para afastar o preenchimento do requisito subjetivo por parte do ora paciente, não havendo falar, portanto, em qualquer constrangimento ilegal a ser sanado na via eleita.
+De mais a mais, o afastamento dos fundamentos utilizados quanto ao mérito subjetivo do paciente para concluir ter ele demonstrado assimilação à terapêutica penal demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
