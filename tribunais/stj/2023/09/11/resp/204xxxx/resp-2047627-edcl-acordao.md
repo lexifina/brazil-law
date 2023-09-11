@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 503):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTS. 485 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao dispositivo de lei federal, no caso os arts. 485 e 1.022 do CPC/2015, se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial.
+Incide ao caso a Súmula 283/STF.
+4. Agravo interno não provido.
+A parte embargante sustenta que o acórdão contém o vício de omissão, no que pertine à completa apreciação da controvérsia, porquanto, no que se refere a incidência da Súmula 283/STF ao caso, olvidou apreciar por completo as razões de seu agravo interno, limitando-se a repisar o fundamento da decisão então agravada.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Inicialmente, o acórdão embargado resolveu a controvérsia, mantendo hígido o decisum monocrático, que concluiu pela não conhecimento do apelo especial no que se refere a alegada violação ao art. 1º do Decreto 20.910/1932, face a ausência de impugnação de fundamento autônomo adotado pela Corte regional.
+Sustenta o embargante que o referido julgamento foi omisso, pois olvidou apreciar por completo as teses recursais constantes de seu recurso especial e de seu agravo interno, limitando-se a reproduzir o que consignado na decisão então recorrida, o que afronta a previsão do art. 1.021, § 3º, do CPC/2015.
+Para tanto, aduz omissão quanto a seguinte tese recursal, que seria suficiente à impugnação do fundamento adotado pelo acórdão proferido na origem (fls. 451-452):
+ ..
+Com efeito, restou consignado, no recurso especial e no agravo interno, que a própria liminar deferida na Ação Rescisória nº 000033364.2012.4.01.0000 consignou que os seus efeitos somente perdurariam até a "manifestação definitiva do STF acerca da matéria objeto da repercussão geral", tendo desde já o condão de revogar a suspensão da execução da obrigação de pagar, permitindo a imediata retomada do feito.
+Nesses termos, afirmou-se que "O raciocínio defendido pela recorrente é a exata e literal interpretação que se faz do art. 199, I do Código Civil, isto é, "pendendo condição suspensiva, não corre a prescrição". Em complemento, este e. Tribunal adota em outros julgados o entendimento de que "a condição suspensiva, por sua vez, é a que impede que o ato produza efeitos até a realização do referido evento" (AREsp nº 1285037 SP)".
+Por fim, restou consignado, in verbis:
+Impende destacar o julgamento do REsp 1651246/PE, onde o Superior Tribunal de Justiça já se manifestou nesse mesmo sentido em demanda oriunda do mesmo título executivo, declarando a perda automática dos efeitos da decisão precária, sem necessidade de novo pronunciamento do órgão julgador, senão vejamos:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ANTECIPAÇÃO DE TUTELA EM AÇÃO RESCISÓRIA PARA SUSPENDER A OBRIGAÇÃO DE PAGAR DEFERIDA SOB CONDIÇÃO RESOLUTIVA. IMPLEMENTADA A CONDIÇÃO, O PROVIMENTO ANTECIPATÓRIO PERDE SEU EFEITO, DEVENDO PROSSEGUIR A EXECUÇÃO. OFENSA AO ARTIGO 1022 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Na origem, trata-se de Execução individual de sentença coletiva prolatada na 2ª Vara da Seção Judiciária do Distrito Federal. O TRF 5ª Região manteve a extinção da Execução determinada pelo Juiz de primeiro grau, com o fundamento de que o TRF 1ª Região, na Ação Rescisória 0000333-64.2012.4.01.0000, determinou a suspensão da obrigação de pagar decorrente da sentença transitada em julgado proferida na Ação Coletiva 2006.34.00.006627-7/DF, tendo considerado que o simples fato de o STF já ter julgado o RE 677.730/RS não seria suficiente para ter como revogada a decisão liminar, fazendo-se necessário que fosse requerido ao órgão prolator da decisão TRF-1 que a declarasse revogada.
+2. Houvesse o TRF-1, na Ação Rescisória, simplesmente deferido antecipação de tutela para suspender a exigibilidade do acórdão rescindendo, não poderia o TRF5 ignorar esse comando, interpretando que ele estaria prejudicado pelo julgamento do RE 677.730/RS. Todavia, a própria decisão de antecipação de tutela já estabeleceu condição resolutiva de sua eficácia, pois determinou a suspensão da obrigação de pagar "até que haja manifestação definitiva do STF acerca da matéria objeto de repercussão geral". Implementada a condição, com o julgamento pelo STF do RE 677.730, a decisão precária deixou automaticamente de produzir efeitos, sem necessidade de novo pronunciamento do órgão julgador.
+3. Por fim, constata-se que não se configura a ofensa ao art. 1022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+4. Recurso Especial parcialmente provido para determinar o prosseguimento da Execução. (REsp 1651246/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/04/2017, DJe 08/05/2017). Grifos acrescidos.
+Destarte, infere-se que esses marcos temporais são incontroversos e estão bem delimitados nos autos e reconhecidos pelo tribunal de origem, bastando sua análise para concluir que houve decurso de lapso temporal de 7 (sete) anos, superior ao prazo prescricional de 5 (cinco) anos previsto no art. 1o do Decreto 20.910/32 - argumentos estes defendidos pela União no decorrer de todo o processo.
+Dessa forma, a União demonstrou a inaplicabilidade da Súmula 283 do STF no presente caso.
+No entanto, o decisum embargado limitou-se a repetir o julgado constante na decisão monocrática. Os argumentos suscitados no agravo interno não foram objeto de apreciação pelo acórdão embargado, pelo que a oposição destes embargos de declaração se mostra imprescindível, a fim de que haja manifestação expressa acerca dos argumentos acima reiterados, constantes no agravo interno da União.
+ ..
+A despeito do que alega a embargante, observa-se que a tese desenvolvida no agravo interno, no sentido de que "a própria liminar deferida na Ação Rescisória nº 000033364.2012.4.01.0000 consignou que os seus efeitos somente perdurariam até a "manifestação definitiva do STF acerca da matéria objeto da repercussão geral", tendo desde já o condão de revogar a suspensão da execução da obrigação de pagar, permitindo a imediata retomada do feito" não se encontra presente nas razões do recurso especial (fls. 335-351), tratando-se, portanto, de nítida inovação recursal.
+Não há, com isso, que se falar em omissão constante do julgado ora embargado, porque efetivamente decidiu a controvérsia, reiterando que, nas razões do recurso especial, a parte não impugnou o fundamento do acórdão recorrido suficiente a manutenção do julgado, segundo o qual (fl. 123):
+ ..
+Ainda que tenha havido manifestação definitiva do STF (RE nº 677.730-DF) a respeito da matéria de mérito, é preciso que haja, após provocação da parte interessada, tal reconhecimento pelo Juízo que suspendeu a exigibilidade do título, sob pena de descumprimento de ordem judicial com plena validade e eficácia, além de violação do princípio do Juiz Natural. Há disposição expressa no Código Civil, precisamente no art. 199, I , aludindo que não corre a prescrição "pendendo condição suspensiva." 1
+Logo, enquanto não revogada a decisão de suspensão, ou atestada a ciência inequívoca dos beneficiários do título exequendo sobre a ocorrência da condição que suspendeu a exigibilidade de seu direito (no caso, o julgamento do RE nº 677.730/DF), não se deve conceber a fluência do prazo prescricional.
+ ..
+Dessa feita, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
