@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PENSÃO POR MORTE. FILHA INVÁLIDA. INVERSÃO DO JULGADO. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. PROVIMENTO NEGADO.
+1. O Trib unal de origem reconheceu que "o pensionamento é devido não apenas em casos de invalidez total e não havendo por parte do filho capacidade laborativa plena - ou seja, sendo hipótese de invalidez parcial - o pensionamento já se impõe" (fl. 501). Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que é vedado pelo óbice da Súmula 7 do STJ.
+2. A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador reputa desnecessária a produção de prova considerando a existência nos autos de elementos suficientes para a formação de seu convencimento. Infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de prova pericial, tal como busca a parte agravante, esbarraria na Súmula 7/STJ.
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA EMILIA GARCIA DE MAGALHÃES contra a decisão proferida pelo Ministro Manoel Erhardt (Desembargador convocado do TRF da 5ª Região), que negou provimento a seu recurso nos termos da seguinte ementa:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA INVÁLIDA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO (fl. 950).
+A parte agravante afirma que o dissídio jurisprudencial suscitado nas razões do recurso especial não foi analisado.
+Sustenta, além disso, que o deslinde da controvérsia não depende do reexame de fatos e provas, o que afasta a incidência da Súmula 7/STJ.
+Aduz a existência de cerceamento de defesa, bem como alega que, "em havendo previsão legal sobre o direito ao trabalho, não podem os juízos a quo julgarem que se presume a invalidez laboral pela Autora ser pessoa com deficiência. Se o Estatuto da Pessoa com Deficiência prevê o direito ao trabalho, infere-se que a pessoa com deficiência, via de regra, poderá trabalhar, não sendo, assim, inválida" (fl. 970).
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Com impugnação às fls. 977/994.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PENSÃO POR MORTE. FILHA INVÁLIDA. INVERSÃO DO JULGADO. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. PROVIMENTO NEGADO.
+1. O Trib unal de origem reconheceu que "o pensionamento é devido não apenas em casos de invalidez total e não havendo por parte do filho capacidade laborativa plena - ou seja, sendo hipótese de invalidez parcial - o pensionamento já se impõe" (fl. 501). Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que é vedado pelo óbice da Súmula 7 do STJ.
+2. A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador reputa desnecessária a produção de prova considerando a existência nos autos de elementos suficientes para a formação de seu convencimento. Infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de prova pericial, tal como busca a parte agravante, esbarraria na Súmula 7/STJ.
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Nos exa tos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+A prova pericial realizada no processo administrativo, concluiu, às fls. 238, do índex 223, que a autora: "1) Não apresenta invalidez física. Apresenta deficiência física; 2) Não apresenta invalidez mental; 3) Não apresenta invalidez permanente. 4) Não era inválido antes do óbito ocorrido em 26/11/2014; 5) Apresenta capacidade Iaborativa parcial; 6) Sim, tem capacidade mental para gerir sua vida e bens; 7) Não tem patologia prevista em Lei de Isenção de Imposto de Renda.".
+Porém, como reconheceu o decidente, independentemente das doenças que atualmente acometem a autora - hipertensão e diabetes - e do momento em que vieram a se manifestar, é incontroverso que sofreu a amputação traumática do braço direito em virtude de acidente sofrido em 1992, antes da morte de seu pai, e que, por si só, gera a perda de capacidade laborativa (fls. 17/18), ainda que parcial.
+O sistema de valoração das provas em nosso ordenamento jurídico, é o da persuasão racional, segundo o qual, compete ao julgador, no exercício de seu mister, decidir de acordo com o seu livre convencimento, fundamentado e motivado pelas provas dos autos.
+Na condição de destinatário das provas, não está adstrito às conveniências e motivos formulados pelas partes, porquanto é quem deve se convencer da verdade dos fatos, cabendo a ele valorar a necessidade e definir a modalidade e extensão das provas que entender pertinentes, ponderando sobre a qualidade e razoabilidade destas, a fim de dar uma correta e eficaz solução jurídica ao litígio.
+De relevo que o laudo pericial não vincula o juízo sendo, apenas, elemento de seu livre convencimento.
+Assim, como bem assentou o d. sentenciante, do que se extrai da leitura do dispositivo, o pensionamento é devido não apenas em casos de invalidez total e não havendo por parte do filho capacidade laborativa plena - ou seja, sendo hipótese de invalidez parcial - o pensionamento já se impõe (fl. 501).
+O Tribunal de origem reconheceu que "o pensionamento é devido não apenas em casos de invalidez total e não havendo por parte do filho capacidade laborativa plena - ou seja, sendo hipótese de invalidez parcial - o pensionamento já se impõe" (fl. 501). Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso em questão a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ressalto que não configura cerceamento de defesa quando o julgador, entendendo estar substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção. No presente caso, o indeferimento da prova pericial inseriu-se no âmbito do livre convencimento motivado do julgador.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. PRINCÍPIO DA PERSUASÃO RACIONAL. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA. IMPOSSIBILIDADE DE ANÁLISE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC.
+2. No sistema da persuasão racional, adotado pelo art. 371 do CPC, o magistrado é livre para analisar as provas dos autos, formando com base nelas a sua convicção, desde que aponte de forma fundamentada os elementos de seu convencimento. Desse modo, não é possível compelir o julgador a acolher determinada prova, em detrimento de outras, se, pelo exame do arcabouço fático-probatório, ele estiver convencido da verdade dos fatos.
+3. O exame da pretensão recursal de reforma ou invalidação do acórdão recorrido, quanto à alegação de cerceamento de defesa, exige revolvimento e alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em recurso especial nos termos da Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2112127/RJ, relator Ministro Humberto Martins, Segunda Turma, DJe de 16/03/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. REALIZAÇÃO DE NOVA PERÍCIA INDEFERIDA. NECESSIDADE DA DILIGÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Segundo entendimento desta Corte, cabe ao juiz, como destinatário final das provas, avaliar e deferir a produção probatória que considerar necessária à formação do seu convencimento, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias sem que implique em cerceamento de defesa.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 949.561/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 05/12/2017, DJe 12/12/2017.)
+Por outro lado, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de concluir pela necessidade da produção das provas requeridas esbarraria na Súmula 7/STJ.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
