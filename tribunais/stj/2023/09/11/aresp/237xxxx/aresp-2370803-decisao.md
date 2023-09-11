@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"PLANO DE SAÚDE  Tratamento emergencial de antibioticoterapia endovenosa  Negativa de cobertura de despesas médico-hospitalares decorrentes de internação  Abusividade  Prescrição médica específica  Alegação de que próteses e órteses estão excluídas da cobertura contratada  Afastamento  Inexistência de referência a próteses ou órteses nas despesas médico-hospitalares  Recusa injustificada  Contrato que engloba nítida relação de consumo  Fato que impõe a observância das regras do CDC  Inexistência de fundamento para exclusão de cobertura a que tem direito a paciente, apenas pelo fato de também ser atendida em hospital não credenciado para atendimento emergencial  Negativa de cobertura abusiva
+Sentença mantida  Recurso desprovido.
+CERCEAMENTO DE DEFESA  Inocorrência  Julgamento antecipado da lide que se mostrou adequado, diante da instrução suficiente da demanda para o seu julgamento de mérito  Prefacial afastada" (fl. 229 e-STJ)
+Opostos embargos de declaração, foram rejeitados.
+A agravante aponta violação ao art. 3º da Lei 8.078/90, ante a não incidência de normas consumeristas à hipótese, arts. 130 e 330, inciso I, ambos do Código de Processo Civil, em razão do flagrante cerceamento de defesa ocorrido, além da afronta aos arts. 54, parágrafo 4º, 51, inciso IV e 3º, todos do Código de Defesa do Consumidor, isto, porque a negativa exarada pela recorrente referente à cobertura dos materiais e procedimento realizado no hospital Oswaldo Cruz foi pautada na expressa previsão estatutária.
+Juízo de admissibilidade proferido às fls. 361/363 e-STJ.
+O recurso não merece provimento.
+Inicialmente, este Superior Tribunal de Justiça possui jurisprudência no sentido de que "a relação de consumo caracteriza-se pelo objeto contratado, no caso a cobertura médico-hospitalar, sendo desinfluente a natureza jurídica da entidade que presta os serviços, ainda que se diga sem caráter lucrativo, mas que mantém plano de saúde remunerado" (REsp 469.911/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 12.02.2008, DJe 10.03.2008). No mesmo sentido: AgRg no Ag 1.317.109/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25.10.2011, DJe 04.11.2011; e REsp 1.115.588/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 25.08.2009, DJe 16.09.2009.
+Ainda nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. CLÁUSULA LIMITATIVA. CARÁTER ABUSIVO. SÚMULA 302/STJ. AGRAVO IMPROVIDO.
+1. Aplica-se o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão. Incidência da Súmula 469/STJ.
+2. "A relação de consumo caracteriza-se pelo objeto contratado, no caso a cobertura médico-hospitalar, sendo desinfluente a natureza jurídica da entidade que presta os serviços, ainda que se diga sem caráter lucrativo, mas que mantém plano de saúde remunerado" (REsp 469.911/SP, Quarta Turma, Rel. Min. Aldir Passarinho Junior, DJe de 10/3/2008).
+3. "É abusiva a cláusula do contrato de plano de saúde que limita no tempo a internação hospitalar do segurado" (Súmula 302/STJ).
+4. Agravo interno a que se nega provimento" (AgRg no REsp n. 1.162.420/SP, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 10/12/2015.)
+Assim, aplicável à espécie a norma consumerista.
+Prosseguindo, o magistrado, se entender suficientes as provas existentes no processo e reputar dispensável a produção de outras provas, pode julgar antecipadamente o pedido sem que isso implique cerceamento de defesa.
+Ademais, "no sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção" (REsp n. 1.175.616/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 4/3/2011).
+Ilustrativamente:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. USUCAPIÃO. REQUISITOS. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+3. "O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa" (AgInt no AREsp n. 1.600.225/DF, de minha relatoria, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem concluiu pela suficiência das provas apresentadas e pela inexistência de cerceamento de defesa. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+6. Rever a conclusão do acórdão impugnado, quanto à ausência dos requisitos legais para reconhecer a usucapião, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+7. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.702.606/DF, relator Ministro Antonio Carlos Ferreira, QUARTA TURMA, DJe de 2/6/2023.)
+Por fim, no tocante à abusividade na negativa de cobertura, alega a agravante que o contrato prevê expressamente a exclusão de próteses e órteses e que o Hospital Alemão Oswaldo Cruz é credenciado apenas para cirurgias eletivas.
+No que tange ao primeiro argumento, verifica-se que o Tribunal de origem, com base no acervo probatório dos autos, principalmente na relação de despesas médico-hospitalares, concluiu que não houve utilização desses materiais nos procedimentos.
+A respeito do hospital em que realizada a cirurgia, na esteira do entendimento firmado pelo Segunda Seção, "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 17/12/2020).
+Assim, constata do o caráter emergencial no caso, a negativa de cobertura é abusiva.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
