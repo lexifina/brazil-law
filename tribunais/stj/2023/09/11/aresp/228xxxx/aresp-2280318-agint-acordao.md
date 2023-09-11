@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. PRECEDENTES DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do NCPC quando o Tribunal estadual enfrenta todos os aspectos essenciais à resolução da causa, de forma ampla, clara e fundamentada. Ademais, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2 . Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MRV ENGENHARIA E PARTICIPAÇÕES S.A. (MRV) contra decisão monocrática de minha relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATRASO NA FORMALIZAÇÃO DO CONTRATO DE FINANCIAMENTO. CULPA IMPUTADA À INCORPORADORA. INCC. COBRANÇA INDEVIDA. RESTITUIÇÃO NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISSÍDIO NÃO CARACTERIZADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fl. 312).
+Nas razões do presente inconformismo, insiste a agravante nos argumentos anteriormente expostos no recurso especial acerca de violação dos arts. 489, § 1º, IV, 927, III, e 1.022 do CPC, bem como divergência jurisprudencial, no sentido de que (1) houve negativa de prestação jurisdicional com a não observância do acórdão recorrido ao Tema repetitivo 966, firmado por esta Corte, e da existência de erro material sobre os valores decorrentes da utilização do índice setorial (INCC).
+Não foi apresentada contraminuta (e-STJ, fls. 341).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. PRECEDENTES DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do NCPC quando o Tribunal estadual enfrenta todos os aspectos essenciais à resolução da causa, de forma ampla, clara e fundamentada. Ademais, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2 . Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar a conclusão adotada pela decisão recorrida.
+Consoante relatado, MRV alegou, em seu recurso especial, violação dos arts. 489, § 1º, IV, 927, III, e 1.022 do CPC, além de divergência jurisprudencial, ao argumento de que o Tribunal estadual teria deixado de analisar a aplicação da tese repetitiva 966 ao caso e existência de erro material sobre os valores decorrentes da utilização do índice setorial (INCC).
+Contudo, como constou da decisão ora agravada, o TJRN, ao rejeitar os embargos de declaração, salientou que a demora na obtenção de financiamento, pelo adquirente, decorreu da culpa da incorporadora na disponibilização da documentação exigida e, ademais, os valores vão ser apurados em posterior liquidação de sentença, de modo que não há falar em omissão, contradição, obscuridade ou negativa de prestação jurisdicional, mas em inconformismo quanto à conclusão adotada pelos julgadores, como se observa do seguinte trecho:
+Acerca da ilegalidade da cobrança do INCC, o acórdão expressamente consignou:
+Compulsando os autos, de acordo com a previsão contratual, somente os valores das parcelas, para efeito de pagamento, deveriam incidir o Índice Nacional da Construção Civil (INCC) com reajuste mensal a partir da assinatura do contrato até o mês da efetiva quitação, seja com recurso direto do comprador ou na assinatura do contrato de financiamento.
+No presente caso, houve demora na finaliza do instrumento de contrato financeiro, restando saldo remanescente a ser adimplido pelo apelado, em razão da incidência da correção monetária, no tempo decorrido até assinatura do contrato de financiamento.
+Não se pode impor ao consumidor o ônus de pagamento do saldo devedor corrigido pelo INCC, em relação à demora na assinatura do contrato de financiamento, haja vista não constar nos autos provas de que o atraso ocorreu por culpa do consumidor, além disso atribuir um reajuste nesse interstício de tempo implica um desequilíbrio contratual e forte prejuízo financeiro.
+Referido entendimento foi fundamentado em precedentes desta Corte de Justiça, conforme se verifica da simples leitura do acórdão de ID 9034783, bem como está em consonância com o que foi julgado no Tema 996 do Superior Tribunal de Justiça que definiu, quanto ao índice de correção monetária, que "o descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo. IPCA, salvo quando este último for mais gravoso ao consumidor"
+Ora, se o entendimento do STJ fixou o uso do IPCA por ser menos gravoso para o consumidor, correta é a decisão que exclui a cobrança pelo índice do INCC, inexistindo mácula no acórdão de ID 9034783.
+Quanto ao valor devido, considerando que o acórdão de ID 9034783 alterou a sentença, reconhecendo a prescrição da Taxa SATI, novos parâmetros serão utilizados para a restituição dos valores, o que deve ser feito em fase de liquidação/cumprimento da decisão judicial. (e-STJ, fls. 252/253)
+Do excerto, observa-se a inexistência de omissão no julgado, mas inconformismo da parte quanto aos pontos referidos.
+De fato, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA CARÊNCIA DE INFORMAÇÃO ADEQUADA AOS CONSUMIDORES ACERCA DOS TERMOS DA AVENÇA. DESRESPEITO AO TEOR DO ART. 6º, III, DO CDC. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+ ..
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.876.285/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/11/2021, DJe 19/11/2021)
+Ademais, conforme anotado pela decisão agravada, o reconhecimento da culpa da agravante pelo acórdão recorrido, decorrente da demora na obtenção do financiamento, afasta a aplicação do precedente firmado em sede de recurso repe titivo ao caso e, de outro lado, justifica a desoneração do adquirente do pagamento da atualização monetária pelo índice setorial.
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser ele integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
