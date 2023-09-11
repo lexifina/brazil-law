@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/09/2023 a 11/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL PROFISSIONAL DE EMPRESA DO RAMO AGROINDUSTRIAL. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Deveras, trata-se na origem de ação de cobrança da contribuição adicional de vinte por cento em favor ao SENAI, prevista no art. 6º do Decreto-Lei n.º 4.048/42 e posteriores modificações, pela qual a Agravante exige com suporte na notificação de débito n.º 03856/DN supostos débitos com acréscimos de juros selic e multa, do período compreendido de 01/2009 a 06/2013.
+2. Na espécie, a Corte local, diante das peculiaridades fáticas e da prova pericial produzida na origem afirmou que a natureza da atividade econômica perpetrada pela agravada se situa no ramo agrícola (73%), sendo que tal mister compõe a principal fator para classificá-la como um regime agroindustrial específico, de modo a afastar a incidência das contribuições sociais perquiridas pelo SENAI.
+3. Portanto, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado estadual implicaria o reexame do conjunto fático-probatório, permanecendo incólume a aplicação da Súmula 7 deste Tribunal.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo Serviço Nacional de Aprendizagem Industrial, contra decisão monocrática proferida às fls. 7.335/7.337 (e-STJ), cuja ementa assim se estabelece, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL PROFISSIONAL DE EMPRESA DO RAMO AGROINDUSTRIAL. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do Agravo Interno, o agravante pugna pela inaplicabilidade da Súmula 7/STJ, ao reafirmar que a controvérsia do mérito se restringe em saber se a agroindústria de cana de açúcar, a qual possui mescla entre setor primário e secundário, são oponíveis as contribuições especificas do SENAI, haja vista que no presente caso trata de situação excepcional de agroindústria, com atividade considerada mista, rural e industrial, implica no duplo enquadramento da empresa, conforme entendimento pacificado por este E. STJ. Portanto, não há reexame de provas, o que afasta a incidência da Súmula 7 deste Egrégio STJ.
+Contrarrazões ao recurso especial às fls. 7.373/7.390 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL PROFISSIONAL DE EMPRESA DO RAMO AGROINDUSTRIAL. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Deveras, trata-se na origem de ação de cobrança da contribuição adicional de vinte por cento em favor ao SENAI, prevista no art. 6º do Decreto-Lei n.º 4.048/42 e posteriores modificações, pela qual a Agravante exige com suporte na notificação de débito n.º 03856/DN supostos débitos com acréscimos de juros selic e multa, do período compreendido de 01/2009 a 06/2013.
+2. Na espécie, a Corte local, diante das peculiaridades fáticas e da prova pericial produzida na origem afirmou que a natureza da atividade econômica perpetrada pela agravada se situa no ramo agrícola (73%), sendo que tal mister compõe a principal fator para classificá-la como um regime agroindustrial específico, de modo a afastar a incidência das contribuições sociais perquiridas pelo SENAI.
+3. Portanto, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado estadual implicaria o reexame do conjunto fático-probatório, permanecendo incólume a aplicação da Súmula 7 deste Tribunal.
+4. Agravo interno não provido.
+VOTO
+Deveras, trata-se na origem de ação de cobrança da contribuição adicional de vinte por cento em favor ao SENAI, prevista no art. 6º do Decreto-Lei n.º 4.048/42 e posteriores modificações, pela qual a Agravante exige com suporte na notificação de débito n.º 03856/DN supostos débitos com acréscimos de juros selic e multa, do período compreendido de 01/2009 a 06/2013.
+Irresignada, a Agravante interpôs o agravo interno ora respondido, no qual repisando seu agravo anterior, alega que não há necessidade de análise de provas e que cumpriu todos os requisitos de admissibilidade de seu apelo especial, bem como demonstrou a existência de divergência jurisprudencial, devendo a r. decisão agravada ser reformada, a fim de que o recurso seja admitido e provido.
+Com efeito, a tese recursal não merece prosperar.
+Na espécie, a Corte local, diante das peculiaridades fáticas e da prova pericial produzida na origem afirmou que a natureza da atividade econômica perpetrada pela agravada se situa no ramo agrícola (73%), sendo que tal mister compõe a principal fator para classificá-la como um regime agroindustrial específico, de modo a afastar a incidência das contribuições sociais perquiridas pelo SENAI.
+A propósito, o aresto recorrido, assim estabeleceu, in verbis:
+Ora, no caso específico da agroindústria debatida, inegavelmente vocacionada ao processamento de cana-de-açúcar, o que é inclusive reconhecido pelo SENAI, há legislação que estabelece o recolhimento de contribuição específica, voltada ao INCRA e ao FUNRURAL, e que expressamente afasta a aplicabilidade de outras contribuições sociais profissionais. O que a lei preceitua, portanto, é distinção entre o regime das agroindústrias convencionais e aquelas com vocação específica, às quais é deferido regime singular, especial, de acordo com o Decreto-Lei nº 1.146/70, sob o qual estas ficam isentas de pagamento de outras contribuições sociais profissionais, pois entendidas como atividade majoritariamente integrante do setor primário (contribuição tríplice ao SENAR, INCRA e FUNRURAL). Aliás, a própria perícia judicial realizada corrobora tais conclusões, à medida em que atesta serem 73% dos empregados voltados à atividade agrícola, e apenas 27% ao setor de processamento (fls. 6529).
+Portanto, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado estadual implicaria o reexame do conjunto fático-probatório, permanecendo incólume a aplicação da Súmula 7 deste Tribunal.
+A título exemplificativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação indenizatória, decorrente do descumprimento, por hospital público, de ordem judicial para transferência de paciente, com o resultado óbito.
+2. O Tribunal local concluiu pela redução do valor fixado em danos morais, observando a proporcionalidade e a razoabilidade , com base no conjunto fático probatório dos autos e nas particularidades do caso concreto. Com efeito, o acolhimento da pretensão recursal de aumento do valor da indenização demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da Súmula 7/STJ.
+3. No tocante à suscitada divergência jurisprudencial, a parte ora agravante não logrou êxito em demonstrar de forma satisfatória as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.268.169/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
