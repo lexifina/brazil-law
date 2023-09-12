@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por DORALICE RIGOTTO contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 37):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. IRSM DE FEV/94. PRESCRIÇÃO. INOCORRÊNCIA.
+1. Proferida decisão na Ação de Protesto Interruptivo da Prescrição nº 5004822-37.2020.4.04.7100/RS, é possível o prosseguimento da execução individual da sentença proferida na Ação Civil Pública nº 20003.71.00.065522-8, porquanto dentro do prazo prescricional quinquenal visando as parcelas vencidas nos cinco anos anteriores ao ajuizamento da ação coletiva. 2. Forte no entendimento do e. STJ, a jurisprudência restou sedimentada no sentido de que o MPF tem legitimidade para promover o protesto interruptivo da prescrição para a execução individual de título coletivo. 3. Por sua vez, a discussão sobre a impossibilidade de uma segunda interrupção da prescrição, consoante o art. 202 do Código Civil, é matéria que deveria ter sido objeto de discussão no âmbito da Ação de Protesto Interruptivo da Prescrição nº 5004822-37.2020.4.04.7100/RS. Precedentes. 4. Com o trânsito em julgado dessa ação, iniciou-se a fluência de um novo prazo de prescrição - exatamente de acordo com a Súmula n. 150 do e. STF, o que afasta qualquer alegação de que o prazo de extinção da ação originária não estaria sendo interrompido pela segunda vez. Precedentes.
+Embargos de declaração do INSS acolhidos com efeitos modificativos, cuja ementa segue (fl. 76):
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. SENTENÇA EXTINTIVA DE CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL. APELAÇÃO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Configurado o erro grosseiro, inviável o exame da matéria veiculada no agravo de instrumento, quando o recurso cabível era a apelação, por tratar de questão de ordem pública.
+Em razões de recurso especial, sustenta ofensa ao artigo 1.015, II, do CPC/2015 e dissídio jurisprudencial, sob o fundamento de que "as decisões interlocutórias que analisem temas relativos à prescrição e à decadência possuem natureza de mérito e, portanto, são atacáveis por agravo de instrumento, conforme previsto no artigo 1.015, inciso II" (fl. 95).
+Sustenta, por fim, que "o ajuizamento pelo Ministério Público Federal da Ação Cautelar de Protesto Interruptivo da Prescrição nº 5004822- 37.2020.4.04.7100/RS em face do INSS na data de 28/01/2020, interrompeu o prazo prescricional da execução individual de sentença coletiva" (fl. 101).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que diz respeito ao tema do cabimento de agravo de instrumento contra decisões interlocutórias que analisem temas relativos à prescrição e à decadência, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Na espécie, o TRF da 4ª Região inadmitiu o agravo de instrumento como recurso cabível, ao fundamento de que a decisão agravada se enquadra no conceito de sentença, já que se trata de extinção da execução. Assim, a tese da parte não se encontra prequestionada.
+Nesse sentido, já decidiu esse Superior Tribunal de Justiça que "A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF" (AgInt nos EDcl no REsp 1939742/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/06/2022, Dje de 22/06/2022).
+Quanto ao tema da não configuração da prescrição da pretensão executória, não é possível conhecer do recurso especial que apresenta suposta violação do artigo 1.015, II, do CPC/2015, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+APLICABILIDADE DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. PARADIGMAS. DECISÃO MONOCRÁTICA E JULGADO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+3. Não é cabível dissídio jurisprudencial tendo como paradigma decisão monocrática ou julgado oriundo do Supremo Tribunal Federal.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1981818/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/04/2022, Dje de 19/04/2022) (grifei).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 43, I, DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STF. ART. 22 DA LEI 9.249/95. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. ART. 16, V, DA LEI 7.713/95. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283/STF E 284/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. O § 4º do art. 22 da Lei 9.249/95, em coerência com o contexto tratado no caput, se refere à operação que verte o patrimônio da pessoa jurídica aos seus sócios, e não à operação porventura subsequente, de alienação, por parte destes, a terceiros.
+3. É deficiente a argumentação recursal genérica que não ataca os fundamentos do acórdão recorrido e que se sustenta em dispositivo legal que não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+4. Não se conhece do recurso que deixa de atacar especificamente os fundamentos do acórdão recorrido e que, por si sós, respaldam o resultado do julgamento.
+5. No caso, o recurso especial deixou de combater o fundamento segundo o qual o valor da transferência é aquele que os próprios impetrantes informam na Declaração de Rendimentos e que consta na cópia de certidão da escritura, bem como o fundamento de que a hipótese do inciso V art. 16 da Lei 7.713/88 é reservada a  caso de fraude, matéria contudo que refoge completamente ao bojo destes autos . Incidência das Súmulas 283 e 284 do STF.
+6. Agravo interno não provido.
+(AgInt no REsp 1645365/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, Julgado em 23/05/2022, Dje de 26/05/2022) (grifei).
+Ademais, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXTINÇÃO DA EXECUÇÃO. RECURSO CABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA 282/STF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
