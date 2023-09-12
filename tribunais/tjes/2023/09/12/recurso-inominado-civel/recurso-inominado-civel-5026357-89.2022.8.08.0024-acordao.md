@@ -1,0 +1,58 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5026357-89.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ADMINISTRADORA DE CARTAO DE TODOS VITORIA ES LTDA
+RECORRIDO: ARLEN ALMEIDA DE JESUS
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. ADUZ O AUTOR, EM SÍNTESE, QUE ERA USUÁRIO DOS SERVIÇOS DA RÉ, TITULAR DE UM CARTÃO DE BENEFÍCIOS, MAS FOI SURPREENDIDO AO DESCOBRIR QUE FOI FEITA RENOVAÇÃO AUTOMÁTICA DO CONTRATO. NARRA QUE ENTROU EM CONTATO COM A RÉ E PERCEBEU QUE O VALOR DAS COBRANÇAS AUMENTOU, E LHE FOI EXIGIDO O PAGAMENTO DE FATURAS PASSADAS E COMPARECIMENTO PRESENCIAL PARA CANCELAMENTO DO CARTÃO. REQUER INDENIZAÇÃO POR DANOS MORAIS, RESTITUIÇÃO EM DOBRO DOS VALORES COBRADOS INDEVIDAMENTE E O CANCELAMENTO DO CONTRATO. A
+SENTENÇA CONDENOU A REQUERIDA A DEVOLVER À AUTORA OS VALORES COBRADOS INDEVIDAMENTE, BEM COMO R$ 2.000,00 (DOIS MIL REAIS) A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.
+RECURSO INOMINADO DA REQUERIDA EM QUE PUGNA PELA REFORMA DA SENTENÇA PARA JULGAR TOTALMENTE IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. ESCORREITA A SENTENÇA DE PISO QUE ANALISOU DETIDAMENTE OS AUTOS E CONSIDEROU INDEVIDA A RENOVAÇÃO DO CONTRATO COM COBRANÇAS NO CARTÃO DE CRÉDITO DA PARTE AUTORA. A REQUERIDA NÃO APRESENTOU PROVAS DE QUE O AUTOR TIVESSE DADO A SUA ANUÊNCIA PARA NOVA CONTRATAÇÃO, OU TENHA SIDO CIENTIFICADO DA EXISTÊNCIA DE RENOVAÇÃO AUTOMÁTICA. POR FIM, DIFICULTOU O CANCELAMENTO DO SERVIÇO, AO EXIGIR DO AUTOR COMPARECIMENTO PESSOAL, BUROCRACIA ESTA DESARRAZOADA E DISPENSADA NA ADESÃO. EM RELAÇÃO AOS DANOS MORAIS, ESTES ESTÃO CONFIGURADOS DIANTE DA CONDUTA ABUSIVA DA REQUERIDA, APTA A CAUSAR AO CONSUMIDOR INDIGNAÇÃO QUE EXTRAPOLA A ESFERA DO MERO ABORRECIMENTO. A CONDENAÇÃO ATENDE AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+NESSE SENTIDO, MANTENHO INCÓLUME A SENTENÇA DE PISO PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
