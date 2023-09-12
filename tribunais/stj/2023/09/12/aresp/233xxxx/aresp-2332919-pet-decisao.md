@@ -1,0 +1,15 @@
+DECISÃO
+Expediente Avulso referente à petição nº 00768247/2023.
+Trata-se de pedido de nulidade de intimação, em expediente avulso, apresentado por KAINAN KAUE BORGES, contra a decisão de fls. 828-829, que não conheceu do agravo em recurso especial, e a certidão de trânsito em julgado aposta à fl. 834.
+É o relatório. Decido.
+Não assiste razão à parte requerente, ou seja, não existe nulidade na intimação da decisão de fls. 828-829, que não conheceu do agravo em recurso especial em razão da não impugnação dos óbices de inadmissão do recurso especial.
+Veja-se que na petição de agravo em recurso especial houve pedido de intimação exclusiva somente em nome do Dr. Marcelo Vieira de Oliveira, OAB/SP n. 158.024 (fl. 786). Diante desse quadro, a intimação foi realizada de forma correta. Veja-se, nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE NULIDADE DA INTIMAÇÃO DE APENAS UM DOS ADVOGADOS INDICADOS. AUSÊNCIA DE PEDIDO DE PUBLICAÇÃO EXCLUSIVA EM NOME DE AMBOS. SUPOSTA NULIDADE NÃO ARGUIDA NO PRIMEIRO MOMENTO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA CONHECER DO AGRAVO A FIM DE NÃO CONHECER DO RECURSO ESPECIAL DOS PARTICULARES.
+1. Há omissão no julgado, o qual não enfrentou a alegação de intempestividade do recurso especial.
+2. Seja porque não houve pedido expresso de publicação exclusiva sempre em nome de ambos os advogados indicados na petição inicial, seja porque suposta nulidade não foi suscitada em momentos anteriores - a despeito da existência de intimações ocorridas apenas em nome de um dos advogados -, mas somente arguida em sede de agravo em recurso especial, e com a finalidade de impugnar o fundamento do juízo negativo de admissibilidade que reconheceu a intempestividade do apelo extremo, não é possível conhecer de tal argumento, haja vista a ocorrência de preclusão, sendo certo que, nos termos do art. 278 do CPC, "A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão".
+3. Tendo ocorrido a intimação do acórdão na pessoa do Dr. André Corrêa Carvalho Pinelli em 21/3/2022, nos termos do documento de fls. 357 e-STJ, o prazo de 15 dias úteis para interposição do recurso especial iniciou em 22/3/2022 e expirou em 11/4/2022, sendo manifestamente intempestivo o recurso protocolizado apenas em 18/4/2022, após expirado o prazo recursal.
+4. ACOLHO os embargos de declaração, com efeitos infringentes, para conhecer do agravo a fim de NÃO CONHECER do recurso especial dos particulares em razão de intempestividade.
+(EDcl no AgInt no AREsp 2209468 / MG, Rel. Min. MAURO CAMPBELL, S)egunda Turma, DJe 15/06/2023
+Ante o exposto, INDEFIRO o pedido de nulidade.
+Tendo em vista que os autos já foram baixados, determino, após o transcurso do prazo legal, o arquivamento, bem como a remessa de cópia do presente expediente avulso à origem.
+Publique-se. Intimem-se.
