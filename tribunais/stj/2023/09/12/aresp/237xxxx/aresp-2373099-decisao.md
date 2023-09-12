@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por ANTONIO DIONIZIO MATEUS FILHO e OUTRO, fundado no art. 105, III, "a", da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 1145/1148):
+PROCESSO - Exequentes instados a se manifestarem acerca da satisfação do débito - Inércia - Extinção do cumprimento de sentença, com base no art. 294, II, do CPC - Cabimento - Recurso improvido.
+Inconformada, a parte autora interpôs o presente recurso especial, apontando a vulneração aos arts. 485, III, e §1º, 797, 924 e 1.022, todos do Código de Processo Civil, e sustentando os seguintes argumentos: a) violação do artigo 1.022 do CPC/2015, pois o acórdão recorrido não se manifestou sobre fatos e questões relevantes trazidas em sede de embargos de declaração; b) violação do artigo 485, III, e §1º, visto que o acórdão recorrido desrespeitou o rito previsto para a extinção do cumprimento de sentença, sendo necessária a intimação da parte para se manifestar sobre o prosseguimento da ação, sob pena de extinção do processo sem resolução do mérito, em analogia ao comando contido no dispositivo apontado como violado; c) violação do artigo 797, uma vez que a execução deve primar pelo interesse do exequente; d) violação do artigo 924, por não haver, entre as hipóteses de extinção elencadas no citado artigo, nenhuma previsão de extinção por preclusão consumativa/inércia do exequente, como mantido pelo acórdão.
+Por fim, requereu o provimento do recurso, para, com base na alegada violação do artigo 1.022 do CPC/15, anular a decisão recorrida e determinar que o Tribunal a quo se manifeste sobre a matéria contida no recurso.
+Contrarrazões ao recurso especial às fls. 1.159-1.169.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+Não merece guarida o nobre apelo. Inicialmente, acerca da alegada afronta ao artigo 1.022 do CPC/2015, esclarece-se que, muito embora a parte recorrente sustente que, a despeito da oposição de embargos de declaração, deixou o tribunal estadual de realizar a devida prestação jurisdicional, não se manifestando sobre pontos relevantes ventilados no recurso, em verdade, não se observa a alegada oposição dos aclaratórios.
+Da detida análise da ordem dos acontecimentos dos autos, não há qualquer interposição de embargos de declaração após a publicação do acórdão recorrido, motivo pelo qual não se verifica a alegada afronta ao dispositivo apontado.
+O caso sub examine trata, pois, de alegação genérica de violação a artigo de lei federal, o que implica o reconhecimento de deficiência na fundamentação, atraindo, por analogia, o óbice da Súmula n. 284/STF, que assim dispõe, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". A propósito, citam-se precedentes das Turmas Julgadoras do STJ, na parte que interessa:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO DO DISTRITO FEDERAL. CONCURSO PÚBLICO. POSSE EM CARGO DIVERSO DAQUELE EM QUE O CANDIDATO FOI APROVADO. DECRETO N. 21.688/2000. INCONSTITUCIONALIDADE COM EFEITOS EX NUNC. MODULAÇÃO DOS EFEITOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+Contudo, conforme se extrai do julgado, a modulação de efeitos se deu em controle direto de constitucionalidade. Portanto, as alegações do agravo estão dissociadas das razões do acórdão do Tribunal de origem, o que impõe a incidência da Súmula 284 do STF.
+ ..
+3. Agravo regimental não provido."
+(AgRg no REsp 1505350/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/05/2015, DJe 01/06/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS NºS 283 E 284/STF.
+ ..
+3. Estando as razões recursais dissociadas do que restou decidido no acórdão recorrido, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido."
+(AgRg no AREsp 611.266/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 05/06/2015)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FALTA DE PREQUESTIONAMENTO. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+ ..
+2. É inadmissível o especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas n. 283 e 284 do STF.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(EDcl no AREsp 575.744/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/12/2014, DJe 16/12/2014)
+Dessa forma, não é possível a análise da matéria em foco, por incidir, na espécie, o óbice do enunciado previsto na Súmula nº 284 do STF.
+No que diz respeito às teses sobre a violação dos artigos 485, III e §1º, 797 e 924 do CPC, melhor sorte não assiste ao recorrente.
+Sobre o tema, narra o douto Tribunal a quo que os então exequentes foram intimados a se manifestar sobre um depósito realizado, intimação esta que os alertou sobre a presunção de quitação do débito em caso de silêncio. In verbis:
+"Consta dos autos que, em 11 de novembro de 2021, os exequentes foram, devidamente, intimados acerca do depósito efetuado, nos seguintes termos: "Diante do depósito efetuado, manifeste-se a parte credora acerca da quitação de seu crédito, no prazo de 15 dias, sendo que no silêncio, presumir-se-á a quitação, tornando-se conclusos para sentença de extinção."
+Verifica-se que houve expressa advertência de que, no silêncio da parte, a quitação seria presumida e a execução seria extinta.
+Com o decurso do prazo, e certidão do cartório de ausência de manifestação dos requerentes (fls. 1.110), adveio a sentença de extinção da ação.
+Como é possível verificar, a intimação de fls. 1.098 é válida e a certidão do cartório, de fls. 1.110, atesta a inércia da parte.
+Ao deixar de tomar, eventual, providência que lhes incumbia, os demandantes deram ensejo à extinção do processo, como bem decidido pelo D. Magistrado da causa, devendo ficar afastada a alegação de cerceamento de defesa e o pedido de inversão do ônus da sucumbência.
+Sendo assim, a decisão monocrática deve prevalecer tal qual lançada." (fls. 1.098)." g.n (e-STJ, fls. 1146 e 1147).
+Esta Corte possui tese, firmada sob o rito dos recursos repetitivos, ainda na vigência do CPC/73, no sentido de que "a renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita" (Tema 289; REsp 1.143.471/PR, DJe de 22/2/2010).
+Nesta vertente, em reverência ao princípio da não surpresa, espera-se que sejam os exequentes expressamente alertados de que a ausência de manifestação provocará a extinção do feito, como de fato se verifica no caso dos autos.
+Ademais, com base no interesse do exequente, previsto pelo artigo 797 do CPC, tem-se que "o credor, como principal interessado na satisfação integral do débito exequendo, tem o ônus de averiguar se houve ou não o cumprimento da obrigação e realizar a respectiva comunicação ao juízo quando instado a tanto." (REsp 2.070.880/RS, relatora, MINISTRA NANCY ANDRIGHI Terceira Turma, julgado em 22/8/2023, DJe de 24/8/2023 - g.n)
+Assim, diante da expressa advertência sobre a consequência extintiva da inércia dos credores, constante da intimação, e do respectivo silêncio sobre o prosseguimento da ação, a manutenção da extinção do feito, por presunção de satisfação do crédito, nos termos do previsto no artigo 924, II do CPC, é ato decisório que se encontra em consonância com a jurisprudência desta Corte, incidindo, sobre tal, ponto a Súmula 83/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. DEPÓSITO. INTIMAÇÃO ACERCA DO PROSSEGUIMENTO DA EXECUÇÃO, SOB PENA DE EXTINÇÃO. AUSÊNCIA DE MANIFESTAÇÃO. PRESUNÇÃO DE QUITAÇÃO. EXTINÇÃO. ART. 924, II, DO CPC. POSSIBILIDADE.
+1. Ação indenizatória, em fase de cumprimento de sentença, da qual foi extraído o presente recurso especial interposto em 14/02/2023 e concluso ao gabinete em 15/05/2023.
+2. O propósito recursal consiste em definir se, após intimado do depósito e da necessidade de prosseguimento da execução, o silêncio do exequente conduz à presunção de quitação da dívida e à consequente extinção da execução, nos termos do art. 924, II, do CPC/2015.
+3. As hipóteses de extinção da execução estão listadas no art. 924 do CPC/2015, entre as quais está a satisfação da obrigação (inciso II). Trata-se da principal causa de extinção do procedimento executivo, na qual é atingida a finalidade da execução.
+4. Efetuado o depósito, em juízo, pelo executado, é apropriado que o juiz proceda à intimação do exequente, a qual pode ser feita ao seu advogado, para que ele se manifeste sobre o prosseguimento ou a extinção do procedimento de execução, alertando-o de que o silêncio ocasionará a extinção do processo. Essa forma de proceder é mais consentânea com o disposto no art. 10 do CPC/2015, o qual consagra o princípio da não surpresa, e com o princípio da cooperação previsto no art. 6º do CPC/2015. Outrossim, a execução se processa no interesse do exequente (art. 797 do CPC/2015), de modo que o credor, como principal interessado na satisfação integral do débito exequendo, tem o ônus de averiguar se houve ou não o cumprimento da obrigação e realizar a respectiva comunicação ao juízo quando instado a tanto.
+(..)
+6. Recurso especial conhecido e provido.
+(REsp n. 2.070.880/RS, relatora, MINISTRA NANCY ANDRIGHI Terceira Turma, julgado em 22/8/2023, DJe de 24/8/2023.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. HOMOLOGAÇÃO DE ACORDO. SUSPENSÃO DO FEITO. DESCUMPRIMENTO DA AVENÇA PELO DEVEDOR. RETOMADA DA EXECUÇÃO COM BASE NO TÍTULO EXECUTIVO ORIGINÁRIO. AGRAVO IMPROVIDO.
+1. Em se tratando de execução suspensa em razão de acordo celebrado entre as partes, nos termos do art. 792, caput, do CPC de 1973, sem que haja animus novandi, se houver descumprimento deste por parte do devedor, o feito deve ser retomado com base no título executivo originário (CPC/73, art. 792, parágrafo único), não podendo o julgador extinguir em definitivo a execução.
+2. O acórdão proferido pelo Tribunal estadual encontra-se em consonância com o entendimento desta Corte, segundo o qual é necessária a intimação do credor para que seu silêncio possa dar ensejo à presunção de quitação da dívida, autorizando a extinção do processo executivo com base no art. 794, I, do CPC de 1973.
+3. Agravo interno improvido.
+(AgInt no REsp n. 1.432.616/SP, relator MINISTRO MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/6/2017, DJe de 3/8/2017.)
+Nesse diapasão, não merece reforma o acórdão ora recorrido,
+Ante o exposto, nego provimento ao presente recurso.
+Publique-se.
+EMENTA
