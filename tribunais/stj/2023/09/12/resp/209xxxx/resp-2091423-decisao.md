@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por GEDALVA ALEXANDRE MONTES com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 333):
+PLANO DE SAÚDE - CONTRATO INDIVIDUAL - AUMENTO DA MENSALIDADE POR MUDANÇA DE FAIXA ETÁRIA AOS 59 ANOS DE 75,13% - INCOMPATIBILIDADE COM A LEI 9.656/98, O CDC E A RESOLUÇÃO Nº 63/2003, DA ANS - JURISPRUDÊNCIA DO C. STJ, SEDIMENTADA EM SEDE DE RECURSO REPETITIVO (TESE 952) - TESE QUE SE APLICA AOS CONTRATOS INDIVIDUAIS - PERÍCIA ATUARIAL REALIZADA NO CURSO DA DEMANDA CONCLUIU PELA IRREGULARIDADE DO DE SAÚDE - PERÍCIA ATUARIAL NÃO IMPUGNADA NAS RAZÕES DE APELAÇÃO - SUBSTITUIÇÃO DOS ÍNDICES DO CONTRATO POR AQUELES DA ANS - A AUTORA NA INICIAL NÃOPEDIU A DEVOLUÇÃO DAS DIFERENÇAS PAGAS A MAIS - SENTENÇA MODIFICADA - RECURSO PROVIDO EM PARTE.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 341-345), a recorrente aponta violação aos arts. 85, § 8º, e 1.022 do CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional e que a sentença se tornou inexequível no tocante às verbas sucumbenciais nos termos em que proferido o acórdão recorrido.
+Sem contrarrazões (e-STJ, fl. 411).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 414-415).
+Brevemente relatado, decido.
+Primeiramente, cinge-se o recurso sobre a ocorrência de negativa de prestação jurisdicional.
+Acerca do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, desse modo, natureza infringente.
+Todavia, constatado qualquer dos vícios acima mencionados, é determinante que a correção seja efetuada, a fim de que a prestação jurisdicional requerida do Estado seja efetiva.
+Destaca a insurgente que, se a apelação da parte ré foi provida em parte para modificar o capítulo da sentença que condenou na devolução de diferenças pagas a mais e a sentença havia previsto a condenação da demandada ao pagamento dos honorários advocatícios em 15% sobre este valor a ser restituído, o aresto impugnado deveria ter emitido decisão a respeito da sucumbência, mas como não o fez, tornou inviável a sua execução.
+Da leitura atenta ao inteiro teor do acórdão, conquanto esteja bem fundamentada, observa-se, de fato, que a Corte local não sanou a omissão no que tange ao argumento específico da insurgente quanto à verba de sucumbência.
+Cumpre destacar que essa questão foi arguida nos embargos de declaração, porém estes foram rejeitados (e-STJ, fls. 387-389), ao tratar equivocadamente sobre os honorários recursais, situação que diverge da irresignação da recorrente, não havendo, portanto, a necessária completude do julgado para resolução da controvérsia.
+Inarredável, portanto, a conclusão da ocorrência de negativa de prestação jurisdicional, pois, independentemente do acerto ou não da tese invocada, esta deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Fica prejudicada a análise dos demais argumentos recursais, bem como do recurso especial interposto por CENTRO TRASMONTANO DE SAO PAULO , diante da necessidade de novo pronunciamento sobre os embargos de declaração opostos pela ora recorrente perante o Tribunal a quo.
+Ante o exposto, dou provimento ao recurso especial de GEDALVA ALEXANDRE MONTES a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. PREJUDICIALIDADE. RECURSO ESPECIAL DE GEDALVA ALEXANDRE MONTES PROVIDO.
