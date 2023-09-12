@@ -1,0 +1,63 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004303-68.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: NAIZA FROES TRINDADE
+RECORRIDO: MUNICIPIO DE CARIACICA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. AÇÃO DE COBRANÇA. CUIDA-SE DE DEMANDA OBJETIVANDO A CONDENAÇÃO DO MUNICÍPIO NO PAGAMENTO DE SALDO DE FÉRIAS NÃO GOZADAS, PARA ALÉM DE GRATIFICAÇÕES DE PRODUTIVIDADE FISCAL NO ÚLTIMO MÊS DE TRABALHO E ACUMULADA.
+SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS DA AUTORA. RECURSO INOMINADO VISANDO A REFORMA DA SENTENÇA PARA JULGAMENTO PROCEDENTE DA DEMANDA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+EMBORA O MUNICÍPIO RECORRIDO ALEGUE QUE A AUTORA TENHA GOZADO DE 15 DE FÉRIAS ENTRE ABRIL E MAIO/2020, A DOCUMENTAÇÃO JUNTADA AO PROCESSO NÃO DEMONSTRA O GOZO. O PERÍODO QUE O MUNÍCIPIO ALEGA QUE A AUTORA GOZOU DE FÉRIAS NÃO COINCIDE COM AQUELE PREVISTO NO DECRETO MUNICIPAL Nº 66/2020. VALE DIZER, AINDA, QUE NOS CONTRACHEQUES DA AUTORA, NÃO HÁ INDICATIVO DE PAGAMENTO DO TERÇO DAS FÉRIAS EM TAL PERÍODO, DE SORTE A INFIRMAR AS ALEGAÇÕES DA RÉ. DESTA FORMA, DEVIDA A REMUNERAÇÃO DE FÉRIAS PROPORCIONAIS ACRESCIDA DE UM TERÇO SOBRE A FRAÇÃO DE 11/12. QUANTO AO PAGAMENTO DE GRATIFICAÇÃO POR PRODUTIVIDADE EM JANEIRO/2021, OBSERVA-SE QUE LEGISLAÇÃO QUE IMPEDE O RECEBIMENTO POR SERVIDOR EXONERADO SOMENTE ENTROU EM VIGÊNCIA APÓS SUA EXONERAÇÃO. O ART. 16-E FOI ACRESCIDO À LEI 4698/2009 PELA LEI 6121/2021, QUE ENTROU EM VIGOR NO DIA 07/01/2021. DESTA FORMA, À MÍNGUA DE DISPOSIÇÃO LEGAL VIGENTE À ÉPOCA DA EXONERAÇÃO QUE INVIABILIZASSE O RECEBIMENTO, É DEVIDA REFERIDA VERBA. NO QUE TANGE AO SALDO ACUMULADO RELATIVO A EXCEDENTES DE PONTOS AO LIMITE MENSAL, A SOLUÇÃO DADA À LEGISLAÇÃO É QUE “PODERÃO SER UTILIZADOS PARA COMPENSAR EVENTUAIS INSUFICIÊNCIAS DE ATUAÇÃO OCORRIDAS”.
+ISTO POSTO,
+REFORMO A SENTENÇA RECORRIDA
+, COM O FITO DE JULGAR PROCEDENTE O PEDIDO AUTORAL DE CONDENAÇÃO DO MUNICÍPIO REQUERIDO NO PAGAMENTO DAS FÉRIAS PROPORCIONAIS E DO 1/3 DE FÉRIAS, BEM COMO DA GRATIFICAÇÃO DE PRODUTIVIDADE FISCAL, REFERENTE AO MÊS DE JANEIRO/2021, DEVIDAMENTE ATUALIZADOS PELO IPCA DESDE A DATA DO PAGAMENTO DA RESCISÃO (29/01/2021) E ACRESCIDO DE JUROS DE MORA A PARTIR DA CITAÇÃO.
+
+NO RESTANTE, MANTIDA A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+. SEM CONDENAÇÃO EM CUSTAS E HONORÁRIOS.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
