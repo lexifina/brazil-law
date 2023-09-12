@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MOACIR PESTANA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. JULGAMENTO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. ART. 1.011 DO CPC. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS 20/98 E 41/03. AGRAVO DESPROVIDO.
+1. A possibilidade de julgamento do recurso por decisão monocrática está prevista no Art. 1.011 do CPC, nas hipóteses previstas pelo legislador. De outro lado, cumpre ressaltar que eventual nulidade do fica superada com a reapreciação decisum do recurso pelo órgão colegiado na via de agravo interno. Precedentes do STJ.
+2. O E. STF pacificou a interpretação segundo a qual a aplicação do novo valor teto com base nas Emendas Constitucionais 20/98 e 41/03 aos benefícios já concedidos não viola o ato jurídico perfeito, nos casos em que o salário de benefício ou a renda mensal inicial tenha sido limitada ao teto (STF, RE 564.354/SE, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, j. 08/09/2010, DJe 14/02/2011).
+3. A Terceira Seção desta Corte, ao apreciar o mérito do IRDR nº5022820-39.2019.4.03.0000, em que se discutiu a possibilidade de readequação dos benefícios calculados e concedidos antes do advento da CF/88 aos tetos de salários-de-contribuição de R$ 1.200,00 e de R$ 2.400,00, estabelecidos, respectivamente, pelas EC 20/98 e EC 41/03, por maioria de votos, consolidou a orientação de que o menor valor teto (mVT) é um fator intrínseco do cálculo de tais benefícios, os quais somente podem ser objeto de readequação se tiverem sido limitados pelo maior valor teto (MVT).
+4. Não ficou comprovada a limitação do salário de benefício ao maior valor teto vigente na época da concessão, motivo por que inviável a readequação da renda mensal nos moldes em que estabelecido no RE 564.354/SE.
+5. Agravo desprovido.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta que ajuizou ação visando a revisão de seu benefício previdenciário, considerando os novos tetos estabelecidos pelas EC 20/98 e 41/03.
+No Tribunal de origem a pretensão foi obstada ao argumento de que o benefício do autor não teria sofrido limitação pelo "maior valor teto", que é o fator extrínseco ao cálculo do benefício e capaz de alterar o benefício pelos novos tetos.
+Nas razões do especial, o recorrente suscita, inicialmente, a necessidade de sobrestamento do presente processo em razão da afetação da questão controversa neste e. STJ, Tema 1140.
+Alega, ainda, as seguintes teses a saber:
+a) violação aos arts. 11, 489, §1º e 1.022 do CPC/15, porquanto, mesmo ante a oposição de embargos de declaração, não teria sido analisada a tese segundo a qual o menor valor-teto (mVT), também inserido no cálculo da RMI, era limitador a ser considerado para os fins da "revisão do teto", e não somente o MVT.
+b) que o reconhecimento do direito de revisão, nos termos da tese fixada com o julgamento do Tema nº 76/ STF, para benefícios concedidos antes da promulgação da atual CF/88, considera que as figuras do mVT e do MVT figuram como limitadores dos salários de benefício para fins de definição da RMI do benefício.
+Sem contrarrazões, o recurso foi inadmitido à consideração de que a interposição de embargos de declaração, não conhecidos, não interrompem o prazo para interposição do Recurso Especial, não admitindo o recurso.
+Nas razões de agravo, o obreiro aduz que a decisão agravada está contra a jurisprudência deste STJ, porquanto apenas os embargos intempestivos não interrompem o prazo para interposição de outros recursos.
+É o relatório. Decido.
+Assiste razão ao agravante.
+Com efeito, os embargos não foram conhecidos ao argumento de que ausente vícios na decisão agravada que justificassem a interposição dos embargos.
+Entretanto, nos embargos opostos o recorrente apontou omissão quanto à afetação da tese controversa ao Tema 1140, motivo pelo qual o recurso deveria ser sobrestado.
+Nesse sentido, não se mostra incabível a oposição de embargos, motivo pelo qual houve a interrupção do prazo recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Agravo de instrumento interposto contra decisão que, nos autos de ação de obrigação de fazer com pedido de tutela antecipada, concedeu medida liminar determinando a reconstrução de muro limítrofe.
+2. Os embargos de declaração somente não interrompem o prazo para outros recursos quando intempestivos, manifestamente incabíveis ou nos casos em que oferecidos, com pedido de aplicação de efeitos infringentes, sem a indicação, na peça de interposição, de vício próprio de embargabilidade (omissão, contradição, obscuridade ou erro material). Precedente. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.161.927/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Assim, tendo o agravante impugnadoa fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, passo à análise do Recurso Especial.
+Na hipótese dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação visando a revisão de benefício previdenciário em razão dos novos Tetos estabelecidos pelas E C 20/98 e 41/03. A questão controversa dos autos diz respeito a saber se houve limitação no cálculo da RMI do obreiro a justificar a revisão do benefício.
+Ocorre que a Primeira Seção do Superior Tribunal de Justiça em 19/04/2022, nos autos dos Recursos Especiais 1.957.733/RS e 1.958.465/RS, Rel. Ministro GURGEL DE FARIA, submeteu ao rito do recurso especial repetitivo a seguinte tese, correspondente ao Tema 1140:
+"Definir, para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais nºs. 20/1998 e 41/2003, a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão (menor e maior valor-teto)".
+Assim a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão é objeto do tema 1.140.
+Registre-se, que há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundada em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista no art. 1.040 do CPC/2015.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia (Tema 1140/STJ), o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+APLICAÇÃO DOS NOVOS TETOS ESTABELECIDOS PELA EMENDA CONSTITUCIONAL 20/98 E PELA EMENDA CONSTITUCIONAL 41/2003. FORMA DE CÁLCULO. MATÉRIA SUBMETIDA AO RITO DO RECURSO ESPECIAL REPETITIVO. TEMA 1140. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM
