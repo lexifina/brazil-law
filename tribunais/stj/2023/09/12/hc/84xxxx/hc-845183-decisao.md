@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DOUGLAS HENRIQUE PROENÇA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500338-64.2022.8.26.0571).
+Foi o paciente condenado, pelos crimes de tráfico de drogas e estelionato, à pena de 7 anos, 4 meses e 20 dias de reclusão, a ser cumprida inicialmente no regime fechado, mais pagamento de 586 dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+Entretanto, os desembargadores integrantes da Décima Primeira Câmara de Direito Criminal negaram provimento ao recurso.
+No Superior Tribunal de Justiça, sustenta a defesa a existência de constrangimento ilegal decorrente da atuação da Guarda Municipal.
+Diante disso, pede seja declarada a nulidade da prisão em flagrante e das provas dela decorrentes, com a consequente absolvição do réu.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional.
+É o relatório.
+Decido.
+Consoante se observa do relatório, busca a defesa sejam declaradas nulas a provas obtidas durante a prisão em flagrante do réu, tendo em vista a atuação da Guarda Municipal como polícia ostensiva.
+No entanto, verifico que das questões não pode conhecer esta Casa, diante da falta de manifestação do Tribunal de origem sobre os temas.
+O julgamento levado a efeito pelo colegiado local ateve-se à análise dos seguintes assuntos: a) em preliminar, a ocorrência de cerceamento de defesa, diante do indeferimento do pedido de instauração do incidente de dependência químico-toxicológica; b) insuficiência de provas para a condenação; c) desclassificação do tráfico ilícito para porte de drogas para o consumo pessoal e consequente remessa dos autos ao Juizado Especial Criminal; e d) restituição dos bens e valores apreendidos.
+Não houve nenhuma manifestação nas instâncias ordinárias acerca das matérias ventiladas no presente remédio constitucional.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016, p. 2.470).
+No mesmo caminhar:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE RECURSO ESPECIAL. NULIDADE. BUSCA PESSOAL E VIOLAÇÃO DE DOMICÍLIO POR GUARDAS MUNICIPAIS. SUPRESSÃO. DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO PREVISTO NO ART. 28 DA LEI N. 11.343/2006. SÚMULA 7 DO STJ. DOSIMETRIA. PENA-BASE. QUANTIDADE. ANTECEDENTES. PERÍODO DEPURADOR. AGRAVANTE. CALAMIDADE PÚBLICA. TRÁFICO PRIVILEGIADO. PRESENÇA DE ANTECEDENTES. REGIME FECHADO. PENA INFERIOR A OITO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As teses de nulidade das provas obtidas através da busca pessoal por guardas municipais e da violação de domicílio, pela ausência de justa causa, não foram objeto de cognição pelo Tribunal de origem.
+Logo, o enfrentamento de tais questões diretamente por esta Corte de Justiça acarretaria indevida supressão de instância.
+2. No que tange ao pleito de desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas, mas também diante da prova testemunhal e circunstâncias da apreensão.
+3. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+4. A valoração da quantidade e da natureza das drogas não merece correção, pois a apreensão de 11 (onze) porções de "maconha", com 280,52g (duzentos e oitenta gramas e cinquenta e dois decigrama);
+525 (quinhentos e vinte e cinco) porções de "cocaína", com peso aproximado de 712g (setecentos e doze gramas); e 391 (trezentas e noventa e uma) porções de "crack", com peso aproximado de 391g (trezentos e noventa e um gramas), justifica a elevação da pena-base.
+5. O Superior Tribunal de Justiça tem entendimento de que o tempo transcorrido após o cumprimento ou a extinção da pena não impede a análise desfavorável dos antecedentes penais, ao contrário do que se verifica na reincidência (CP, art. 64, I), pois o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal.
+6. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+7. Na hipótese, o agravante ostenta condenação anterior por crime de tráfico de drogas que foi utilizada para a avaliação negativa dos antecedentes penais, o que inviabiliza a incidência da minorante do tráfico privilegiado.
+8. Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal. No caso, embora a pena tenha sido fixada em patamar superior a 4 anos e não excedente a 8 anos, a aferição de circunstância judicial desfavorável (maus antecedentes, além da quantidade e da qualidade das drogas) recomenda a imposição do regime fechado, como posto no acórdão impugnado.
+9. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.269.723/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
