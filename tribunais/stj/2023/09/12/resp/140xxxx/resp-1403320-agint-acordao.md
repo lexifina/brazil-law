@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/09/2023 a 12/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. N EGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.735):
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte agravante alega que o recurso extraordinário merece trânsito, pois está caracterizada a ausência de prestação jurisdicional do acórdão recorrido, afrontando a orientação contida no Tema n. 339/STF.
+Argumenta que não foram sanados os vícios de fundamentação apontados nos embargos declaratórios, os quais demonstram que o acórdão impugnado valeu-se de orientação jurisprudencial inaplicável ao caso.
+De acordo com a recorrente (fl. 1.756):
+Os aclaratórios opostos destacaram que a controvérsia dos autos reside na possibilidade de uma união de associações poder representar o direito do associado final e que o julgado no qual o decisium se alicerça, não guarda similitude com o caso presente. A decisão invocada do STJ, Excelências, é sobre uma Federação Sindicale não sobre uma Federação Associativa, como a parte ora Agravante o é.
+E eis o cerne da questão que inclusive implica o equivocado entendimento de fundamento constitucional, porque a legitimidade ativa constitucional decorre da Constituição, diferente das associações, de fundamento infralegal e cuja negativa de processamento do recurso viola o art. 18 do CPC. Por isso, os declaratórios apontaram ser crucial um julgamento específico para o presente caso, vez que a matéria discutida não é atinente apenas a um pequeno número de representados, de modo que o pensamento a minorar a importância de ações coletivas tem o condão de inflacionar o Poder Judiciário.
+Assim como no caso em discussão, foi questionada a legitimidade ativa de entidade associativa a maior, diferente da invocada no precedente, vê-se, pois, que inexiste o alinhamento jurisprudencial aduzido, pois o caso apontado é diverso. Ademais disso, o embargos opostos também salientaram que, enquanto tese aventada no recurso, quedou silente a decisão quanto à possibilidade de uma associação trabalhista se equiparar a entidade sindical, firmando-se a decisão em associação civil puramente simples.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.795-1.802.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. N EGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no julgado recorrido.
+A argumentação trazida pela agravante revela mera discordância com a solução conferida pelo acórdão recorrido ao tema da legitimidade da entidade associativa, não traduzindo a existência de vício de fundamentação e, muito menos, ausência de prestação jurisdicional.
+O acórdão recorrido concluiu que, na situação em apreço, a parte agravante atua na qualidade de representante processual dos associados, porquanto que o objeto da lide não envolve direitos difusos, daí por que seria necessária a juntada do rol dos representados no âmbito da ação coletiva. Veja-se, a propósito, a seguinte transcrição (fls. 1.641-1.646):
+Com efeito, em que pese o equívoco do Tribunal de origem ao classificar a atuação da recorrente como substituta processual, destaco que foi correto o entendimento do acórdão ao determinar a juntada do rol dos associados que "porventura façam jus ao direito objeto dos autos", visto que a associação figura como representante processual, e não como legitimada extraordinária, pois não busca a defesa de interesses difusos protegidos pelo diploma consumerista, inaplicável à presente ação, em razão da Súmula nº 563/STJ.
+Assim sendo, a legitimação extraordinária prevista no inciso IV do artigo 82 do código consumerista, que autoriza a associação, na qualidade de substituta processual, a ajuizar ação coletiva na defesa de interesses ou direitos dos consumidores independentemente de autorização assemblear, não abrange a pretensão formulada no caso concreto, justamente em razão do entendimento acima perfilhado, de modo que estaria atuando como representante processual.
+ ..
+Saliento, portanto, que, para que seja possível o ajuizamento de ação civil pública, na condição de substituto processual e, assim, seja dispensada a juntada de autorização dos associados, é necessário que a associação, constituída há mais de um ano, "inclua, entre suas finalidades institucionais, a proteção ao patrimônio público e social, ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência, aos direitos de grupos raciais, étnicos ou religiosos ou ao patrimônio artístico, estético, histórico, turístico e paisagístico", conforme disposição contida no artigo 5º, V, da Lei nº 7.347/85.
+No caso em debate, é incontroverso que não se trata de ação civil pública substitutiva, visto que a finalidade institucional da parte autora não inclui nenhuma das previstas pela lei acima destacada, conforme já demonstrado no início deste voto.
+ ..
+Por fim, reitero que a ora agravante sequer apontou quais dispositivos de lei federal entendeu por violados ou sobre quais recairia dissídio jurisprudencial quanto à alegada nulidade por ausência de intimação, de modo a permitir o conhecimento do recurso especial com espeque na alínea "a" ou "c" do inciso III do artigo 105 da Constituição Federal. Nesse contexto, ao contrário do afirmado no presente AgInt, depreende-se que a aplicação do óbice sumular não se deu em razão da não observância do princípio da dialeticidade. Assim sendo, adequada a incidência da Súmula nº 284, do Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Ainda que assim não o fosse, incabível o apelo especial por suposta violação ao artigo 5º, caput, da Constituição Federal, pois não se enquadra no conceito de lei federal e, assim, refoge à competência constitucional fixada a esta Corte, nos termos do art. 105, inciso III, alínea "a".
+Com efeito, verificada a ocorrência de prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III).
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
