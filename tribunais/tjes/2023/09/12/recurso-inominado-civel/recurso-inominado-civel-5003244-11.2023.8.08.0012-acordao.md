@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003244-11.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CASA & VIDEO BRASIL S.A
+RECORRIDO: NEUSA MARIA DE OLIVEIRA ROCHA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, C/C PEDIDO DE DANOS MORAIS E TUTELA DE URGÊNCIA. RELATA A AUTORA, TER SOLICITADO UM CARTÃO DE CRÉDITO NA LOJA REQUERIDA, SOB A PROMESSA DE QUE NÃO HAVERIA COBRANÇAS PARA ALÉM DAS COMPRAS QUE FIZESSE. ADUZ QUE RECEBEU O CARTÃO, MAS NÃO O DESBLOQUEOU, CUIDANDO DE PAGAR AS COBRANÇAS RELATIVAS ÀS COMPRAS FEITAS. AFIRMA QUE LHE FOI DITO QUE O CARTÃO SERIA CANCELADO AUTOMATICAMENTE, MAS SE SURPREENDEU AO TER SEUS DADOS NEGATIVADOS NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. REQUER INDENIZAÇÃO POR DANOS MORAIS, O CANCELAMENTO DAS COBRANÇAS E DO CARTÃO. A SENTENÇA DE PISO JULGOU PROCEDENTES OS PEDIDOS AUTORAIS PARA CANCELAR O CARTÃO DE CRÉDITO E AS COBRANÇAS LANÇADAS, BEM COMO CONDENAR A RÉ NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS ARBITRADOS EM R$ 3.000,00 (TRÊS MIL REAIS). RECURSO INOMINADO DA PARTE REQUERIDA PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA, OU, EVENTUALMENTE REDUÇÃO DO
+QUANTUM
+ARBITRADO.
+RECURSO CONHECIDO E IMPROVIDO.
+
+ESCORREITA A SENTENÇA DE PISO QUE CONSIDEROU INDEVIDAS AS COBRANÇAS QUE CULMINARAM COM A NEGATIVAÇÃO DOS DADOS DA AUTORA. É INCONTROVERSO QUE A AUTORA PAGOU O VALOR INTEGRAL RELATIVO À PRIMEIRA FATURA. A REQUERIDA JUSTIFICA AS COBRANÇAS DOS MESES SUBSEQUENTES INFORMANDO QUE ESTAS SE REFEREM A ENCARGOS MORATÓRIOS. CONTUDO, NOTA-SE QUE NA FATURA SEGUINTE HOUVE COBRANÇA DE APENAS R$ 0,44 A TÍTULO DE ENCARGOS MORATÓRIOS, DE SORTE QUE A MAIOR PARTE DO VALOR COBRADO SE REFERE À RUBRICA “AD”, SOBRE A QUAL NÃO HÁ QUALQUER EXPLICAÇÃO NOS AUTOS. QUANTO AOS DANOS MORAIS ARBITRADOS,
+HÁ APENAS A NECESSIDADE DA OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE NA FIXAÇÃO DO
+QUANTUM.
+
+ASSIM, MANTENHO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+
+CONDENO A RECORRENTE NO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE ARBITRO EM 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
