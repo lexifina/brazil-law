@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Marcos Rodrigo de Castro, autuado em flagrante delito pela prática do crime do art. 33, c/c o art. 40, V, ambos da Lei n. 11.343/2006, em razão do transporte interestadual de 107 kg de maconha.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de Santa Catarina (HC n. 5029082-45.2023.8.24.0000) que manteve a conversão da prisão em flagrante em preventiva no Processo n. 5000718-59.2023.8.24.0066, da Vara Única da comarca de São Lourenço do Oeste/SC.
+Aponta a defesa, em síntese, constrangimento ilegal na segregação cautelar do paciente, diante do excesso de prazo na formação da culpa, da falta de requisitos e ausência de fundamentação da prisão, além da possibilidade de substituição por cautelares alternativas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi por mim indeferida em 30/6/2023 (fls. 334/335).
+Após as informações (fls. 347/351 e 355/364), o Ministério Público Federal, em seu parecer (fls. 369/372), opinou conforme este resumo:
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. RACIONALIZAÇÃO NO USO DO MANDAMUS. PRISÃO CAUTELAR. FUNDAMENTAÇÃO ADEQUADA. GRAVIDADE CONCRETA. EXCESSO PRAZAL NÃO CONFIGURADO. AUSÊNCIA DE DESÍDIA NA CONDUÇÃO DO PROCESSO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Insurge-se a impetrante contra o excesso de prazo na conclusão da instrução processual e contra a fundamentação apresentada na decisão de prisão preventiva.
+Na espécie, contudo, não há ilegalidade passível de ser afastada mediante o deferimento da ordem pretendida.
+Ao decretar a prisão preventiva, disse o Magistrado que a gravidade do crime consubstancia-se na elevada quantidade de droga apreendida (mais de 100 kg de maconha), o que demonstra certo grau de profissionalismo dos envolvidos, sem afastar a possibilidade de se estar diante de ação criminosa organizada, visto que ambos os conduzidos foram unânimes em afirmar que foram procurados para fazer o transporte da droga, porém sem identificar quem seria a pessoa que os procurou  ..  Ainda, embora não haja informação nos autos acerca dos antecedentes criminais dos investigados no seu estado de origem, o próprio conduzido MARCOS afirmou para a Autoridade Policial que possui passagem policial por roubo e receptação, o que demonstra que o mesmo não é iniciante na vida criminosa (fl. 72 - grifo nosso).
+O Tribunal a quo manteve a prisão preventiva, manifestando-se nos seguintes termos (fl. 73 - grifo nosso):
+ ..
+Dessume-se da decisão atacada, a demonstração do liame necessário entre a norma autorizadora e o caso concreto a fim de justificar a medida extrema adotada, diante da gravidade do fato em tese praticado e do perigo gerado pelo estado de liberdade do paciente e do corréu, em razão do flagrante de transporte interestadual de 107 kg de maconha, droga esta oriunda do Paraná e teria como destino o Rio Grande do Sul, contando, inclusive, com serviço de "batedor" (corréu), tudo a indicar não ser o paciente um neófito na atividade ilícita.
+E não obstante a norma processual penal privilegiar as medidas cautelares, é certo que, quando há elementos suficientes para a decretação da prisão preventiva, desnecessária a justificação da não aplicação das mais benéficas
+ ..
+Da leitura dos trechos acima observa-se que a preventiva do paciente foi devidamente fundamentada pelas instâncias ordinárias nas circunstâncias concretas do caso em análise para a garantia da ordem pública, demonstradas pelo expressivo volume de drogas apreendido (107 kg de maconha), drogas essas oriundas do Paraná, que teria como destino o Rio Grande do Sul, contando, inclusive, com serviço de "batedor" - corréu.
+Ademais, a jurisprudência desta Corte Superior entende pela idoneidade da fundamentação que decreta a prisão preventiva com base na gravidade concreta da conduta em razão da substancial quantidade de droga apreendida (AgRg no HC n. 744.782/SP, Ministra Laurita Vaz, Sexta Turma, DJe 21/6/2022).
+Acerca do excesso de prazo, consta do acórdão impugnando que, no caso, há dificuldade por parte da defesa constituída do corréu em cumprir os prazos judiciais, não havendo desídia do juízo, que vem oportunizando ao corréu ser defendido por advogado de sua escolha (fl. 74).
+Ainda, de acordo com as informações prestadas pelo Juízo de origem, no dia 10/5/2023, analisada a necessidade de manutenção da preventiva de Marcos Rodrigo de Castro, considerando o previsto no parágrafo único do art. 316 do Código de Processo Penal  ..  os autos pendem de apresentação de defesa prévia do réu Adevenir Gonçalves Quevedo, para que então a audiência de Instrução e Julgamento seja designada. A título de esclarecimento, o paciente está preso preventivamente a menos de 5 meses, e a análise da manutenção fora realizada a menos de 2 meses (fl. 363).
+Com razão o Ministério Público Federal quando destacou, em seu parecer, que, quanto ao alegado excesso prazal, é consabido que os prazos estipulados pela lei penal para a prática de determinados atos, ou mesmo a amplitude de aplicação do princípio da celeridade processual, não podem ser examinados de forma rígida, impondo-se a análise do caso concreto que, frente às respectivas peculiaridades, poderá autorizar a sua dilação (fl. 357).
+Ante o exposto, acolhendo o parecer, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS INTERESTADUAL (107 KG DE MACONHA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
