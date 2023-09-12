@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por Leandro dos Santos Souto contra o acórdão proferido pelo Tribunal de Justiça da Paraíba que denegou a ordem no HC n. 0814668-46.2023.8.15.0000.
+Consta dos autos que o recorrente foi sentenciado à pena de 14 anos de reclusão pela prática do delito previsto no art. 121, caput, do Código Penal. Na oportunidade, o Magistrado negou o direito de recorrer em liberdade.
+Inconformada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, mantendo a custódia cautelar (fls. 77/84).
+Daí o presente recurso, em que se alega, em síntese, que o Magistrado fundamentou o novo decreto de prisão preventiva com base unicamente no fato de o réu está supostamente foragido, o que não corresponde com a verdade, uma vez que o réu juntou nos autos comprovante de endereço (fl. 112). Defende-se, assim, a ausência de motivação idônea para a decretação da constrição cautelar.
+Requer-se, liminarmente e no mérito, seja concedido o direito de responder ao processo em liberdade.
+É o relatório.
+O recurso não comporta provimento.
+Ao que se tem dos autos, a prisão preventiva foi assim justificada pelo Juízo de origem: considerando que o réu se encontra foragido, evadiu-se para acertar suas contas com a justiça, razão pela qual e em respeito a deliberação condenatória pelo Tribunal do Júri, denego-lhe o direito de apelar em liberdade, devendo ser expedido mandados de prisão para sua captura (fl. 35).
+O Tribunal local, por sua vez, manteve a decretação da custódia, salientando o seguinte (fls. 80/83 - grifo nosso):
+A autoridade coatora apontada prestou informações nos seguintes termos:
+"O paciente foi denunciado em razão da prática do crime de homicídio qualificado ocorrido na Comarca de Soledade, no dia 06 de fevereiro de 2016, que vitimou Francisco Alves Júnior, o qual seria testemunha em um processo que apurava outro homicídio que teria sido praticado pelo réu.
+Em 24 de janeiro de 2017, o réu foi pronunciado, ocasião em que foi mantida sua prisão preventiva. No dia 16 de setembro de 2017, o réu foi submetido a julgamento popular e foi absolvido pelo Conselho de Sentença, tendo sido determinada a expedição de alvará de soltura.
+Em seguida, após provimento de Recurso de Apelação interposto pelo Ministério Público em face da sentença absolutória, a Defesa interpôs vários recursos, não tendo logrado êxito. Após os autos retornarem à Comarca de origem, o feito chegou a ser incluído em pauta duas vezes, e, na última delas, foi retirado de pauta em razão de pedido de desaforamento formulado pelo parquet.
+A prisão preventiva do paciente foi decretada no dia 3 de agosto de 2022, visando a garantir a ordem pública e pela conveniência da instrução criminal, considerando, à época, que havia relato nos autos de que o réu estaria ameaçando testemunhas. Até a presente data, não consta nos autos informações acerca do cumprimento do mandado de prisão, estando o réu em local incerto e não sabido.
+Em 24 de novembro de 2022, foi determinado o desaforamento do julgamento para esta Comarca de Campina Grande.
+Este Juízo recebeu os autos em 16 de fevereiro de 2023, determinando sua inclusão em pauta de julgamento. Em seguida, no dia 25 de maio de 2023, o réu foi submetido a novo julgamento, ocasião em que foi condenado a uma pena privativa de liberdade de 14 anos, em regime inicialmente fechado, tendo sido mantido o decreto de prisão preventiva, com maior razão após sua condenação, e tendo em vista tratar-se de réu foragido, demonstrando, pois, que pretende furtar-se à aplicação da lei.
+A Defesa interpôs recurso de Apelação em face da sentença condenatória e, apresentadas as contrarrazões ministeriais, foram os autos remetidos ao Tribunal de Justiça da Paraíba, onde se encontram desde então."
+ ..
+Manuseando os autos, constato que a manutenção da prisão preventiva do paciente, na sentença condenatória, apesar de sucinta encontra-se fundamentada na garantia da aplicação da lei penal, pelo fato de encontrar-se em lugar incerto e não sabido (foragido).
+Ressalto que, embora o impetrante tenha acostado documentação (Num. 22174616 - Págs. 1/7) com o fim de comprovar que o paciente se encontra morando e trabalhando no estado de Minas Gerais, examinando, os documentos anexados, observo que o registro mais recente é de um contrato de trabalho datado de 10/02/2022 (Num. 22176019 - Pág. 4) com vigor até o encerramento da safra, que não comprova, a atual localização do paciente, o que leva à conclusão de que se encontra foragido, como entendeu a autoridade apontada coatora.
+Desta forma, o sequestro corporal encontra-se devidamente embasado no artigo 312 do Código de Processo Penal, pelo fato de ter se evadido do distrito da culpa, o que constitui notadamente para garantia da aplicação da lei penal, fundamento idôneo para a preservação da custódia, porquanto, nos termos da jurisprudência do Superior Tribunal de Justiça, a fuga do réu é motivação suficiente a embasar a segregação cautelar para assegurar a aplicação da lei penal.
+ ..
+Assim, não há que se falar constrangimento ilegal, não havendo possibilidade de concessão da ordem, vez que, os requisitos da prisão preventiva encontram-se presentes.
+Da análise dos autos não ficou demonstrada a possibilidade de revogação da prisão cautelar, diante da necessidade de se assegurar a aplicação da lei penal em razão de estar o recorrente foragido.
+Ora, a jurisprudência deste Superior Tribunal já se manifestou em outros casos semelhantes no sentido de que a manutenção da prisão preventiva também está justificada como forma de assegurar a aplicação da lei penal. A propósito: RHC n. 120.127/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020; RHC n. 150.940/TO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022; e AgRg no HC n. 810.085/TO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/5/2023.
+Por fim, havendo nos autos elementos hábeis a recomendar a manutenção da sua custódia máxima, não se mostram suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO. SENTENÇA. MANUTENÇÃO DA PRISÃO PREVENTIVA. APLICAÇÃO DA LEI PENAL. RECORRENTE FORAGIDO. FUNDAMENTO IDÔNEO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Recurso improvido.
