@@ -1,0 +1,17 @@
+DECISÃO
+A paciente alega sofrer coação ilegal em face de acórdão do Tribunal a quo (HC n. 1.0000.22.081511-2/000).
+A defesa aponta a violação do art. 117, VI, do CP. Assinala que a interrupção da prescrição pela reincidência somente se opera após o trânsito em julgado de nova sentença condenatória. Caso contrário, seria admitida condição que desapareceria se o réu fosse afinal absolvido.
+O impetrante explica que, "em relação ao processo 5163486-98.2022.8.13.0024", o feito foi "extinto pela perempção na data de 29 de março de 2023" e, "na lide penal 0410530-25.2019.8.13.0024", consta pedido do Ministério Público pela declaração da prescrição da pretensão punitiva estatal. Assim, "restaria somente o feito número 5160508-85.2021.8.13.0024, ainda em sede de investigação" (fls. 20-21), imprestável para interromper a prescrição executória.
+Pede o restabelecimento da decisão de primeiro grau, que reconheceu a extinção de sua punibilidade.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+A paciente foi condenada a dois anos de reclusão, por corrupção ativa, e dois anos de reclusão, por porte de armas. A condenação transitou em julgado para o MP, em 31/8/2015 e para a defesa, em 15/2/2018. A prescrição verifica-se em quatro anos. A sentenciada não havia iniciado o cumprimento da reprimenda, quando, em 4/5/2022, o Juiz da VEC declarou extinta a sua punibilidade e a execução das penas (fls. 97-99).
+O Tribunal de Justiça cassou a decisão, mas o acórdão recorrido é contrário à jurisprudência desta Corte.
+Aplica-se ao caso a interpretação de que, "em havendo a prática de novo crime, a interrupção da prescrição da pretensão executória ocorre na data em que é cometido, e não quando do trânsito em julgado da condenação. 2. O fato de que a interrupção da prescrição ocorre na data da prática do novo crime, não autoriza a se ter como interrompido o prazo prescricional com a mera notícia da prática delitiva ou mesmo a propositura de ação penal, mas é necessário haver condenação definitiva, sob pena de ofensa ao princípio da presunção de inocência" (REsp 1956133/DF, Relatora Ministra Laurita Vaz, 6ª T., DJe de 03/03/2022).
+No caso, a "CAC indica que a sentenciada teria supostamente praticado novos delitos em 11/09/2016, 18/03/2017, 15/02/2019, 28/02/2019 e 09/03/2019" (fl. 97). Todavia, não houve o marco interruptivo do artigo 117, VI, do Código Penal, pois em nenhum dos registros assinalados existiu posterior condenação definitiva.
+O "delito cometido em 11/09/2016 foi extinto pela ocorrência da prescrição; quanto ao delito de 18/03/2017, a denúncia/queixa não foi recebida; quanto ao delito de 15/02/2019, trata-se de termo circunstanciado; quanto ao del ito de 28/02/2019, a punibilidade foi extinta pelo cumprimento da transação penal; e quanto ao delito de 09/03/2019, houve a extinção punibilidade pela ocorrência da decadência/perempção" (fl. 98).
+No aresto estadual, ou nas informações prestadas a esta Corte Superior, não foi especificada pelo Tribunal de Justiça nenhuma outra condenação definitiva contra a paciente.
+Assim, ante o princípio da presunção de inocência, não se pode reconhecer a reincidência. A eficácia desta retroage, mas depende, para tanto, do trânsito em julgado de condenação por novos crimes, inexistente na hipótese.
+À vista do exposto, concedo a ordem para cassar o acórdão recorrido e restabelecer a decisão de primeiro grau, que declarou a pretensão executória (Autos nº. 4402826-87.2019.8.13.0024).
+Publique-se e intimem-se.
+EMENTA
