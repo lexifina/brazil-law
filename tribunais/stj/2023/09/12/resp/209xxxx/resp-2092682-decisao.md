@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRODUTOS ERLAN S/A - EM RECUPERACAO JUDICIAL, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO. EXECUÇÃO FISCAL, ICMS. DESISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE VER AFASTADA A CONDENAÇÃO EM SUCUMBÊNCIA OU. SUBSIDIARIAM ENTE. SEJAM FIXADOS HONORÁRIOS POR EQUIDADE. PEDIDO DE EXTINÇÃO DA EXECUÇÃO APÓS MANIFESTAÇÃO DA EXECUTADA. A DESISTÊNCIA DA AÇÃO NÃO DESONERA DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. PRINCÍPIO DA CAUSALIDADE. INTELIGÊNCIA DO ART. 85 DO CPC. PRECEDENTES. POSSIBILIDADE DE FIXAÇÃO POR EQUIDADE. NOS "CASOS EM QUE O TRABALHO PRESTADO PELO ADVOGADO DA PARTE VENCEDORA TENHA SE MOSTRADO ABSOLUTAMENTE DESINFLUENTE PARA O RESULTADO DO PROCESSO. (..) A REMUNERAÇÃO NÃO DEVE FICAR ATRELADA AOS PERCENTUAIS MÍNIMOS E MÁXIMOS ESTABELECIDOS NO § 3O. DEVENDO SER ARBITRADA POR JUÍZO DE EQUIDADE DO MAGISTRADO, CRITÉRIO QUE. MESMO SENDO RESIDUAL, NA ESPECÍFICA HIPÓTESE DOS AUTOS, ENCONTRA RESPALDO NOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE PREVISTOS NO ART. 8O DO CPC, 2015". ENTENDIMENTO DO E. STJ (RESP 1.795.760/SP). RECURSO PARCIALMENTE PROVIDO.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+É o relatório. Decido.
+Sobre a alegada intempestividade da apelação interposta pela Fazenda Pública verifica-se que a análise da tese do recorrente impõe a revisitação do conjunto probatório dos autos, o que é vedado no âmbito do recurso especial, atraindo o óbice contido na súmula 7/STJ.
+Sobre os honorários, asssite razão ao recorrente.
+Este Superior Tribunal de Justiça, no julgamento do tema 1076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º do CPC/2015, fixação por equidade, para quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Também foi estabelecida uma sequência objetiva na fixação da verba, devendo a fixação ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+Eis as teses consignadas no referido julgamento, in verbis:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Na hipótese dos autos, sendo aferível o proveito econômico, deve ser fixada a verba de honorários advocatícios de acordo com essa base de cálculo, in casu, em patamar mínimo e de acordo com a gradação do §3º do art. 85 do CPC/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restaurar a sentença.
+Publique-se. Intimem-se.
+ EMENTA
