@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por DARIO REPRESENTAÇÕES LTDA., fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 1.590):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - PESSOA JURÍDICA - AJUIZAMENTO DE RECLAMAÇÃO TRABALHISTA POR SÓCIO - PARTES DISTINTAS - INTERRUPÇÃO DA PRESCRIÇÃO - NÃO OCORRÊNCIA - RECURSO PROVIDO. Não há que cogitar em interrupção da prescrição quando a ação anterior, ajuizada perante a Justiça Especializada do Trabalho, envolve parte distinta. Não havendo qualquer causa obstativa do transcurso do prazo, de rigor o reconhecimento da prescrição. Recurso provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 1.649-1.655).
+Nas razões recursais a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 202, I e V, 203 do CC e 240, § 1º, do CPC, sustentando que a prescrição restou interrompida pela ação trabalhista proposta pelo sócio da recorrente que continha pedidos idênticos.
+Assevera que a ação trabalhista proposta anteriormente contempla exatamente os mesmos pedidos postulados na presente demanda.
+Defende que (e-STJ, fl. 1.673) "em relação à identidade das partes, o que se sustenta a parte recorrente é que a citação válida ocorrida no processo trabalhista movido pelo represente comercial, sócio da recorrente, ainda que não reconhecido o vínculo empregatício, configurou causa interruptiva do prazo prescricional para propositura da presente ação movida pela empresa, especialmente porque nesse caso contempla exatamente o mesmo objeto do processo anterior ajuizado pelo sócio".
+Aduz (e-STJ, fl. 1.677-1.678)
+Em que pese a personalidade da pessoa jurídica não se confundir com a da pessoa física que a representa, o que sustenta a parte recorrente é que a citação válida ocorrida no processo movido pelo sócio, julgado extinto sem resolução do mérito pelo não reconhecimento do vínculo empregatício, configurou causa interruptiva do prazo prescricional para propositura da presente ação movida pela sociedade empresária, com mesmo objeto do processo anterior ajuizado pelo sócio, nos termos do art. 202, I e V, do CC.
+Repita-se, ainda que o pedido de reconhecimento de vínculo empregatício tenha sido realizado pela pessoa física perante a Justiça do Trabalho, a qual julgou improcedente o pedido de reconhecimento do vínculo trabalhista, referido fato NÃO afasta a interrupção do prazo prescricional ali ocorrida com a citação, especialmente porque a ação de origem versa sobre a cobrança de direitos advindos da relação de representação comercial existente entre a recorrida e a pessoa jurídica representada por seu sócio, nos termos do artigo 202, I e V, do CC.
+Contrarrazões às fls. 1.738-1.747 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Na situação, o Tribunal de origem extinguiu o processo pela ocorrência da prescrição, entendendo que não houve interrupção do prazo prescricional pelo fato de a empresa recorrente não ter integrado o polo ativo da reclamação trabalhista, nestes termos (e-STJ, fls. 1.593-1.595, sem destaque no original):
+Tal como se extrai da decisão agravada, entendeu o Juízo de origem por acolher a prescrição parcial do direito, sob o entendimento de que a reclamação trabalhista ajuizada pelo sócio da agravada teria interrompido a prescrição.
+A discussão processual, pois, está centrada no debate da ação trabalhista ajuizada por um dos sócios da pessoa jurídica agravada é apta a interromper a prescrição.
+Ao que se infere, a reclamação trabalhista foi ajuizada por JOSÉ ARIMATÉIA LIMA em face de ora agravante ao passo que a ação declaratória c/c cobrança e indenizatória foi proposta pela pessoa jurídica DARIO REPRESENTAÇÕES LTDA.
+Nessa linha, sustenta o agravante que a pessoa jurídica Dario Representações Ltda. ajuizou ação quando ultrapassado o quinquênio após a extinção do contrato de representação comercial que mantinha com a pessoa jurídica Cinpal - Cia. Industrial de Peças para Automóveis.
+Defende, assim, que a interrupção só se opera entra as mesmas partes e, de outro lado, qualquer um dos sócios da empresa é parte ilegítima para postular em nome próprio a cobrança de valores referentes aos serviços prestados pela pessoa jurídica (art. 18, do CPC), não podendo demandar na busca de direito alheio e que a lide em curso no Juízo de origem debate o contrato de representação comercial entre duas pessoas jurídicas.
+Assinala, nesse passo, extrapolado o prazo prescricional de 5 anos estabelecido na Lei 4.886/65.
+Com renovada venia, assiste razão a recorrente.
+É que, de início, para que seja reconhecida a interrupção da prescrição é imprescindível a comprovação da identidade de partes, pedidos e causa de pedir.
+Assim, não pode ser reconhecida como causa de interrupção da prescrição, quando a ação em outro juízo difere das partes e objeto da ação de cobrança.
+A mera comprovação do ajuizamento anterior de ação não basta para que a prescrição seja interrompida.
+A eventual semelhança entre as demandas não é suficiente para reconhecer que houve a interrupção.
+ ..
+Nesse passo, o ajuizamento da demanda deve partir do próprio titular do direito em si, não se configurando a interrupção da prescrição, a propósito, quando a ação posterior é ajuizada por parte diversa, como no caso concreto.
+Daí é que não há cogitar em interrupção da prescrição quando a ação anterior, ajuizada perante a Justiça Especializada do Trabalho, envolve parte distinta.
+Não havendo qualquer causa obstativa do transcurso do prazo, de rigor o reconhecimento da prescrição.
+Com efeito, o entendimento do Tribunal estadual está em consonância com a jurisprudência desta Corte, firmada no sentido de que a citação válida ocorrida em reclamação trabalhista, ajuizada anteriormente, só interrompe o prazo prescricional quando houver identidade de partes e de causa de pedir.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ANTERIOR AJUIZAMENTO DE AÇÃO TRABALHISTA. INTERRUPÇÃO DA PRESCRIÇÃO. IDENTIDADE DE PARTES E DE CAUSA DE PEDIR. NÃO OCORRÊNCIA. SÚMULA Nº 568/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. O entendimento firmado pelas instâncias ordinárias está em consonância com a jurisprudência desta Corte, no sentido de que a citação válida ocorrida em reclamação trabalhista, ajuizada anteriormente, só interrompe o prazo prescricional quando houver identidade de partes e de causa de pedir.
+3. Agravo interno não provido.(AgInt no AREsp 2.140.918/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 18/8/2023, DJe de 21/8/2023).
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE RECONHECIMENTO DE INEXIGIBILIDADE DE DÉBITO. PROTESTO DOS TÍTULOS. ANTERIOR AJUIZAMENTO DE AÇÃO TRABALHISTA. INTERRUPÇÃO DA PRESCRIÇÃO. NÃO OCORRÊNCIA. ERRO MATERIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de reconhecimento de inexigibilidade de débitos fundados em contratos de prestação de serviços firmados entre as partes.
+2. Ação ajuizada em 29/06/2016. Recurso especial concluso ao gabinete em 17/09/2020. Julgamento: CPC/2015.
+3. O propósito recursal é definir i) se o ajuizamento de ação trabalhista pelo representante legal da empresa recorrente impõe a interrupção do prazo prescricional relativo à pretensão de cobrança do débito pela prestação de serviços de auditoria; e ii) se há erro material a ser corrigido no tocante ao valor da causa.
+4. A ratio essendi do art. 202, I, do CC/02 é favorecer o autor que já não mais se encontra na inércia pela proteção de seu direito.
+5. A citação válida ocorrida no bojo de ação trabalhista anteriormente ajuizada tem o condão de interromper o prazo prescricional. Precedente.
+6. Na espécie, contudo, não se constata a identidade de partes e causas de pedir hábeis a caracterizar a ausência de inércia do titular do direito, o que impede, deste modo, a interrupção da prescrição.
+7. Quanto à alegada necessidade de correção de erro material, tem-se que a ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 9. Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários (REsp 1.893.497/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/8/2021, DJe de 19/8/2021).
+AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. DEMANDA ANTERIOR TRABALHISTA. CITAÇÃO. EFEITO INTERRUPTIVO. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE ENTRE AS PARTES OU CAUSA DE PEDIR. RESPONSABILIDADE EXTRACONTRATUAL DE TERCEIRO. AÇÃO PENAL. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO. ART. 200 DO CC. PRAZO TRIENAL.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Inexistindo identidade entre as partes ou as causas de pedir, o ajuizamento de ação trabalhista contra o ex-empregador não possui o condão de interromper o prazo prescricional em face de terceiro, de modo que o termo inicial do prazo prescricional para ajuizamento da ação de indenização por responsabilidade extracontratual é o trânsito em julgado da sentença penal. Precedentes.
+3. Nos termos do artigo 206, § 3º, V, do Código Civil, o prazo prescricional aplicável às hipóteses de responsabilidade civil extracontratual é trienal. . Agravo interno a que se pega provimento" (AgInt no AREsp 1.699.577/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/5/2021, DJe de 27/5/2021).
+Desse modo, encontrando-se o acórdão em consonância com entendimento desta Corte, não há o que se falar em reforma do julgado.
+Ante o exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. PESSOA JURÍDICA. ANTERIOR AJUIZAMENTO DE AÇÃO TRABALHISTA POR SÓCIO. INTERRUPÇÃO DA PRESCRIÇÃO. IDENTIDADE DE PARTES E DE CAUSA DE PEDIR. NÃO OCORRÊNCIA. RECURSO ESPECIAL DESPROVIDO.
