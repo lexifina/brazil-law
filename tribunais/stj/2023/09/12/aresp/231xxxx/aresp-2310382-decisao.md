@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado do Amazonas que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional em face de v. acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE DE PLANO DE SAÚDE QUE PRESTOU O SERVIÇO DE FORMA INADEQUADA. NEGATIVA INDEVIDA DE CONSULTA COM NEUROPEDIATRA. DEMORA INJUSTIFICADA NA LIBERAÇÃO DE EXAME E TERAPIAS. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. VALOR FIXADO PELO JUÍZO DE PISO PROPORCIONAL E RAZOÁVEL. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+Nas razões do apelo nobre, a agravante aponta ofensa aos arts. 371, 489, § 1º, IV, do NCPC, 186, 187, 188, 944, 927, do Código Civil, sustentando, em síntese, isto: (I) "(..) fica claro que a sentença de primeiro grau é totalmente ausente de fundamentação válida, se utiliza de documentos que, ao contrário do que tenta fazer crer, provam que a empresa ré sempre buscou prestar o melhor atendimento ao menor e sempre disponibilizou para o mesmo o que era necessário" (fl. 323); (II) não houve preenchimento dos requisitos que ensejam o dano moral, "vez que não houve violação de direito da parte adversa, nem negativa de atendimento, tão somente, o descumprimento das obrigações legais e contratuais da Operadora" (fl. 324); (III) reduzir o quantum indenizatório.
+É o relatório. Passo a decidir.
+De início, tem-se que o conteúdo normativo do art. 489, § 1º, IV, do NCPC, não foi apreciado pelo eg. TJ-AM configurando ausência de prequestionamento, tampouco foram opostos embargos de declaração para tal fim. Assim sendo, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. Supremo Tribunal Federal. Nessa linha de intelecção, confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 1.837.682/DF, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. (..). PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. NÃO PROVIMENTO.
+(..)
+5. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência das Súmulas n. 282 e 356 do STF.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.261.245/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023 - g. n.)
+Em relação aos danos morais, em que pese a argumentação da recorrente, verifica-se que o reconhecimento da existência de danos morais foi decidida a partir do exame aprofundado das provas produzidas nos autos, e, nesse passo, a modificação das conclusões contidas no v. acórdão recorrido exige o revolvimento de matéria fática, inviável em sede de recurso especial em razão do óbice da Súmula n. 7/STJ.
+Avançando, o recurso tampouco merece conhecimento quanto à suscitada violação ao art. 371, do CPC/15.
+No caso, o eg. TJ-AM, com arrimo no acervo fático-probatório carreado aos autos, assentou que a ora Agravante "(..) apesar de argumentar, em suas razões recursais, que os problemas da parte autora sempre decorreram do fato de não aceitar utilizar a rede credenciada da empresa para seus atendimentos, não há documentação juntada nesse sentido. Oportunamente, desataco que caberia à ré, fornecedora do serviço, uma vez que o autor comprova suas alegações, o ônus de demonstrar fato impeditivo, modificativo ou extintivo do direito da parte autora, nos termos do artigo 333, II, do Código de Processo Civil". Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Por fim, no tocante ao art. 944 do CC/2002, o valor arbitrado a título de danos morais em R$ 30.000,00 (trinta mil reais) foi considerado adequado diante das peculiaridades do caso concreto.
+O Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Com efeito, o valor de R$ 30.000,00 (trinta mil reais), arbitrados a título de danos morais, não é exorbitante ou desproporcional aos danos sofridos pela parte agravada, uma vez que houve descumprimento do contrato de plano de saúde consistente na demora para liberação de terapias, exames e consultas
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACIENTE COM CÂNCER. NECESSIDADE DE INTERNAÇÃO. CARÁTER DE EMERGÊNCIA E URGÊNCIA. PERÍODO DE CARÊNCIA. NEGATIVA DE COBERTURA. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O mero descumprimento contratual não enseja, via de regra, indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 30.000,00 (trinta mil reais) não se mostra exorbitante nem desproporcional aos danos sofridos em decorrência da negativa ilegítima de cobertura de tratamento para câncer em caráter de emergência/urgência, tendo em vista o risco à vida e à saúde da paciente.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.903.519/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022, g.n.).
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
