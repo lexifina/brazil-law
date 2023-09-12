@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de embargos de terceiros referente a penhora indevida de bem em execução fiscal. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi reformada. O valor da causa foi fixado em R$ 148.600,00 (Cento e quarenta e oito mil e seiscentos reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. EMBARGOS DE TERCEIRO. APELAÇÃO CIVIL. FRAUDE À EXECUÇÃO FISCAL. LC 118/2005. FRAUDE À EXECUÇÃO. NÃO-CON FIGURAÇÃO. BEM ADQUIRIDO DIRETAMENTE DA CONSTRUTORA. ATIVO CIRCULANTE.
+1. Em se tratando de imóvel do ativo circulante da empresa executada, atuante no ramo da construção civil, não há se cogitar em alienação em fraude à execução.
+2. Apelação provida.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Embora já tenha me manifestado no sentido de que mesmo a compra de bem do ativo circulante está incluída no entendimento veiculado no REsp 1.141.990, refleti sobre o assunto e me dei conta de que não é assim. Isso porque o bem não fazia parte do ativo imobilizado da vendedora, mas sim do ativo circulante. Na ocasião vários imóveis no mesmo empreendimento estavam sendo negociados. Trata-se de mercadoria adquirida de uma construtora ou incorporadora de imóveis. Nesse caso, não se configura a hipótese prevista no REsp 1.141.990.
+(..)
+No caso, ficou comprovado que a embargante adquiriu um dos muitos apartamentos do empreendimento, firmando contrato de promessa de compra e venda com a construtora (anexos da petição inicial), de modo que não é caso de aplicação do contido no REsp 1.141.990.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação do art. 185 do CTN, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
