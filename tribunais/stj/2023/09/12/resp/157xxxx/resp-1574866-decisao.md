@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO LEGAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONVERSÃO DE TEMPO DE ATIVIDADE ESPECIAL EM COMUM. ENFERMEIRA. POSSIBILIDADE. CONTAGEM RECÍPROCA. CONTAGEM EM DOBRO. ARTS. 94 E 96, INCISO I, DA LEI N.8.213/91. APOSENTADORIA PROPORCIONAL. CONCESSÃO. DATA DO REQUERIMENTO ADMINISTRATIVO.
+1. Hipótese em que a decisão impugnada foi proferida em consonância com o disposto no artigo 557, do Código de Processo Civil.
+2. Assegurada a contagem recíproca do tempo de contribuição na atividade privada, rural e urbana, e do tempo de contribuição ou de serviço na administração pública, hipótese em que os diferentes sistemas de previdência social se compensarão financeiramente, a teor do art. 94, da Lei n. 8.213/91.
+3. Não será admitida a contagem em dobro do tempo de contribuição ou de serviço, nos termos do art. 96, inciso I, da Lei n. 8.213/91.
+4. Impõe-se a reforma parcial da decisão monocrática, tão somente, no que tange ao reconhecimento do período de 14/05/2002 a 24/01/2005, como atividade especial convertida em comum, de maneira que a parte autora faz jus ao benefício de aposentadoria proporcional por tempo de contribuição, a partir da data do requerimento administrativo.
+5. Agravo legal parcialmente provido (fl. 187).
+Os embargos de declaração opostos foram rejeitados (fls. 195/201).
+Nas razões do seu recurso especial (fls. 203/205), a parte recorrente sustenta ter havido violação aos arts. 535, II, do CPC/1973 e 12 da Lei 8.213/1991.
+Alega (i) negativa de prestação jurisdicional e (ii) que "o período laborado como estatutário não pode ser considerado especial para fins de concessão de benefício do RGPS" (fl. 205).
+Sem contrarrazões, o recurso foi admitido na origem (fl. 210).
+No STJ, o Ministro Napoleão Nunes Maia Filho proferiu decisão determinando a devolução dos autos à origem para aguardar o julgamento do Tema 942/STF (fls. 448/451).
+Em novo juízo de admissibilidade, a Vice-Presidência do Tribunal regional, afastando a incidência do Tema 942/STF, admitiu o recurso especial, porquanto "o acórdão recorrido diverge da orientação jurisprudencial da Corte Superior, a dizer sobre a impossibilidade de referida conversão " (fl. 486).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A pretensão recursal merece acolhida pelo art. 535, II, do CPC/1973, pois a parte recorrente, nas razões dos embargos de declaração opostos na origem, suscitou o pronunciamento acerca de suposta omissão contida no acórdão recorrido quanto à "possibilidade ou não de se considerar como especial atividade exercida por estatutário, ante o disposto nos artigos 12, da Lei 8213/91 e a não regulamentação do art. 40, § 4º, II e III, da CF/88" (fl. 192).
+A Corte de origem, instada pela parte ora recorrente, via embargos de declaração, a se pronunciar sobre a questão, limitou-se a rejeitar os embargos declaratórios, de forma genérica, sem se manifestar sobre o ponto omisso, deixando de ser prestada a jurisdição de forma completa e eficaz.
+É o que se depreende da leitura do voto condutor do acórdão de fls. 195/201, in verbis:
+Sustenta o Embargante haver omissões a serem sanadas, nos termos do art. 535, I e II, do Código de Processo Civil.
+Todavia, constato não haver, no caso, qualquer vício a ensejar a declaração do julgado ou sua revisão, mediante embargos de declaração.
+Somente podem ser opostos embargos de declaração quando na decisão atacada houver omissão quanto ao pedido ou obscuridade e/ou contradição em relação à fundamentação exposta, e não quando o julgado não estampa os argumentos invocados pela parte ou quando esta apenas discorda do deslinde da controvérsia.
+Da leitura do acórdão verifica-se que a matéria em discussão foi examinada de forma eficiente, com apreciação da disciplina normativa e da jurisprudência aplicável à hipótese, sendo clara e suficiente a fundamentação adotada, respaldando a conclusão alcançada, não havendo, desse modo, ausência de qualquer pressuposto a ensejar a oposição do presente recurso.
+Ressalte-se que, conforme reiteradamente tem se pronunciado o Egrégio Superior Tribunal de Justiça, o julgador está dispensado de rebater, um a um, os argumentos trazidos pelas partes.
+Por fim, a referência a dispositivos constitucionais ou legais no acórdão embargado não é obrigatória, para fins de prequestionamento, se a questão foi abordada na apreciação do recurso, conforme já pacificado pelo Egrégio Superior Tribunal de Justiça, por estar configurado aí o prequestionamento implícito.
+Pelas razões acima expostas, verifica-se que o pretendido efeito modificativo do julgado somente pode ser obtido em sede de recurso, não se podendo acolher estes embargos de declaração, por não se ajustar a formulação do Embargante aos seus estritos limites (fls. 198/199).
+É oportuno registrar que, para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca das teses de direito suscitadas. Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535, II, do CPC/1973.
+Verificada tal ofensa em recurso especial, impõe-se a anulação do acórdão proferido em embargos de declaração para que seja proferido novo julgamento suprindo a omissão alegada, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, dou provimento ao recurso especial; determino o retorno dos autos à Corte de origem para que, em novo julgamento, o órgão colegiado local manifeste-se sobre a questão jurídica trazida nos embargos de declaração de fls. 192/193, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
