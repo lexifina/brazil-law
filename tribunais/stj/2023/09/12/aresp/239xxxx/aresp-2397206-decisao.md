@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por HILARIO PINTO BORGES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO CONTRA A R. DECISÃO QUE REJEITOU A IMPUGNAÇÂO À ARREMATAÇÃO. AÇÃO DE COBRANÇA CONDOMINIAL. SENTENÇA DE PROCEDÊNCIA. TRÂNSITO EM JULGADO. CUMPRIMENTO DE SENTENÇA. PENHORA IMOBILIÁRIA. AVALIAÇÃO DO BEM EM R$ 175.000,00, EM SETEMBRO/2019. ARREMATAÇÃO POR R$ 216.192,21, EM ABRIL 2022, POUCO ABAIXO DO VALOR ATUALIZADO DA AVALIAÇÃO (R$ 220.000,00). AUSENTE OPORTUNA IMPUGNAÇÂO DO AGRAVANTE AO LAUDO PERICIAL DE AVALIAÇÃO IMOBILIÁRIA, TEM-SE QUE A ALEGAÇÃO DE VALORIZAÇÃO POSTERIOR DO BEM NÃO ULTRAPASSOU O CAMPO DA MERA ASSERTIVA, PORQUANTO DIMINUTA A DIFERENÇA APURADA (R$ 3.807,79), O QUE AFASTA A HIPÓTESE DE ARREMATAÇÃO POR PREÇO VIL, EVIDENCIANDO A DESNECESSIDADE DE REAVALIAÇÃO (ART. 873, INCISO II. DO CPC/15). PRECEDENTE. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO (fl. 451).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 873, II, do CPC, no que concerne à necessidade de nova avaliação de bem em razão de considerável flutuação nos valores dos imóveis, trazendo a seguinte argumentação:
+Deveras, a pretensão em tela é externada com fulcro no artigo 873, II, do CPC (Lei Federal nº. 13.105/2015), uma vez que, com efeito, durante o interregno havido entre a avaliação realizada e o praceamento do bem, tomou-se ciência da informação de que houve considerável flutuação nos valores dos imóveis, o que é corroborado pelo documento anexado, oportunamente, aos autos.
+Assim sendo, com efeito, a realização de neófita avaliação sobre o bem traduz-se em medida salutar, que urge e que se impõe, o que impeliu à impugnação à arrematação ventilada.
+A avaliação que embasou o praceamento do bem ocorreu no ano de 2019, Excelências.
+Contudo, houve significativas alterações nos valores imobiliários, o que, inclusive, foi impactado pela própria e nefasta Pandemia do COVID  19.
+ ..
+Assim sendo, deveras, a situação reclama nova avaliação, sendo que, diante de tal cenário, o não acolhimento de tal pretensão, sob nosso humilde crivo e com todo o respeito a eventual entendimento em sentido contrário, traduzirá ofensa ao comando estampado no bojo do artigo 873, II, da Lei Federal nº. 13.105/2015, que assim preceitua:  ..  (fls. 462/463).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Trata-se de ação de cobrança condominial julgada procedente, com trânsito em julgado, em fase de cumprimento de sentença.
+Deferida a penhora imobiliária, o bem foi avaliado em R$ 175.000,00, em setembro/2019 (fls. 96/116 da origem), e arrematado por R$ 216.192,21, em abril/2022 (fls. 365/366 da origem), pouco abaixo do valor atualizado da avaliação (R$ 220.000,00).
+Neste contexto, sobreveio a rejeição da impugnação do agravante à arrematação, nos seguintes termos:
+ ..
+Com efeito, ausente oportuna impugnação do agravante ao laudo pericial de avaliação imobiliária, tem-se que a alegação de valorização posterior do bem não ultrapassou o campo da mera assertiva, porquanto diminuta a diferença apurada (R$ 3.807,79), o que afasta a hipótese de arrematação por preço vil, evidenciando a desnecessidade de reavaliação (art. 873, inciso II, do CPC/15) (fls. 452/453).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
