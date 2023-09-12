@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AUGUSTO NORA à decisão de fls. 356/357, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Nos termos do artigo 68 do Regimento Interno, os processos afetados ao Tribunal serão distribuídos por classe, ao passo que o art. 69 preleciona: "Far-se-á a distribuição dos feitos da competência do Tribunal mediante sorteio automático, por sistema informatizado, observados os princípios da publicidade e da alternatividade, bem como a instrução normativa prevista no art. 21, XX, deste Regimento." In casu, o agravo em recurso especial foi remetido da Corte de Origem a essa Superior em 21/07/2023, data em que o Poder Judiciário se encontrava em recesso forense, o qual perduraria até 31/07/2023, nos termos do artigo 81, caput, do RI.
+Ocorre que a decisão embargada restou proferida em 14/08/2023, ou seja, pós recesso, de maneira que o presente feito deveria ter sido distribuído a uma das Turmas de Direito Privado, incluindo-se a designação de Ministro(a) Relator(a), a quem cabe analisar a peça recursal. Essa é a praxe e o que determina o Regimento desse Sodalício.
+Assim sendo, necessário o enfrentamento da vexata quaestio para que a douta Ministra se manifeste acerca de sua incompetência jurisdicional para prolação do decisum embargado (fl. 361).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A delegação de competência à Presidência do Superior Tribunal de Justiça para julgamento dos feitos manifestamente inadmissíveis está prevista no Regimento Interno, de acordo com as regras internas de distribuição de competência.
+Nos termos do art. 21-E, V, do RISTJ, entre as atribuições do Presidente antes da distribuição está "não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+Ademais, "não viola o princípio do juiz natural a decisão proferida pela Presidente desta Corte que, no exercício de competência atribuída pelo Regimento Interno e resolução, não conhece de recurso anteriormente à distribuição aos Ministros, porquanto sujeita a posterior controle dos órgãos fracionários deste Tribunal Superior, diante da eventual interposição de agravo interno. Precedentes da 1ª, 2ª e 4ª Turmas desta Corte". (AgInt no AREsp 1228566/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/6/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
