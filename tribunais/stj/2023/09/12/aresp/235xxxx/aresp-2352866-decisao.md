@@ -1,0 +1,26 @@
+DECISÃO
+Na origem trata-se de ação declaratória de inexigibilidade de débito c/c obrigação de fazer, objetivando a transferência das multas, pontuação na carteira de motorista, titularidade do veículo junto ao DETRAN, atribuindo a consequente responsabilidade pelo pagamento do IPVA. Na sentença julgou-se improcedentes os pedidos formulados pelo autor endereçados ao primeiro réu DETRAN/RJ, e procedentes em parte os pedidos formulados pelo autor endereçados ao segundo réu. No Tribunal a quo a sentença foi reformada. O valor da causa foi fixado em R$1.000,00.
+O recurso especial, fundamentado no artigos 105, III, "a", da Constituição da República, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÕES CÍVEIS. VEÍCULO. TRANSFERÊNCIA DE PROPRIEDADE.
+1) Segundo o disposto no artigo 134 do Código de Trânsito Brasileiro, o alienante de veículo deve proceder à transferência junto ao órgão competente no prazo de 30 dias, após o qual, não efetivada a comunicação, passa a responder solidariamente com o adquirente pelas penalidades impostas e suas reincidências até a data da comunicação.
+2) A abrangência dessa responsabilidade tem sido mitigada quando, embora o vendedor não tenha feito a comunicação da transferência ao DETRAN, este consiga comprovar que as infrações ocorreram após a venda do veículo, sendo cometidas, portanto, pelo atual proprietário.
+3) O acervo probatório demonstra que a parte autora alienou, em janeiro de 2014,uma motocicleta para o segundo réu, sendo certo que até a presente data a transferência da propriedade não foi regularizada no Departamento de Trânsito.
+4) Assim, nesta parte não há reparo a ser feito no decisum objurgado, considerando que a referida alienação restou comprovada nos autos, razão pela qual a responsabilidade por multas e pelo IPVA devem ser atribuídas ao comprador. Precedentes da Quinta Câmara Cível.
+5) O adquirente do veículo encontra-se em local incerto e não sabido, conforme certificado nos autos, o que retira a efetividade da determinada sentença de pagamento de multa no caso de não transferência do veículo.
+6) Diante disso, conforme o próprio DETRAN reconhece em seu apelo, a regularização da transferência de propriedade poderá ser realizada com a simples expedição de ofício pelo juízo a quo, com amparo na Portaria 2.803/02, razão pela qual deve ser excluída a condenação do segundo réu ao pagamento de multa.
+7) Primeiro recurso ao qual se nega provimento.
+8) Segundo apelo ao qual se dá provimento.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Segundo o disposto no artigo 134 do Código de Trânsito Brasileiro, o alienante de veículo deve proceder à transferência junto ao órgão competente no prazo de 30 dias, após o qual, não efetivada a comunicação, passa a responder solidariamente com o adquirente pelas penalidades impostas e suas reincidências até a data da comunicação.
+No entanto, a abrangência dessa responsabilidade tem sido mitigada pela jurisprudência quando, embora o vendedor não tenha feito a comunicação da transferência ao DETRAN, este comprove que as infrações ocorreram após a venda do veículo, sendo cometidas, portanto, pelo atual proprietário.
+Assim se entende porque, a par de não ter sido realizada a transferência de propriedade do automóvel autuado, a prova da alienação pode ser feita através de outros meios.
+Assinale-se que tal raciocínio decorre do princípio da individualização da pena, aplicável na seara do Direito Administrativo, segundo o qual não se pode imputar ao antigo proprietário a pontuação e a responsabilidade pelo pagamento das multas referentes às infrações praticadas por outrem. Repare que o mesmo raciocínio se aplica em relação ao IPVA vencido posteriormente à venda do veículo automotor.
+Deste modo, a solidariedade descrita no artigo 134 do Código de Trânsito Brasileiro deve ser mitigada, uma vez que a comunicação de venda não constitui a transferência da titularidade, mas apenas resguarda o antigo proprietário de eventuais infrações causadas pelo adquirente.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
