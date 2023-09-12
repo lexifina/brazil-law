@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça de referida unidade federativa.
+Depreende-se dos autos que o Tribunal local deu provimento à apelação defensiva, para absolver o agravado pela prática do delito tipificado no artigo 14, caput, da Lei n. 10.826/03 (fls. 190-196) e rejeitou os embargos declaratórios (fls. 218-220).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação ao artigo 619 do CPP, diante da negativa da devida prestação jurisdicional acerca da tese de que o porte de arma não ocorreu durante o exercício do cargo de guarda municipal. Afirma que não fora apreciado que há provas testemunhais contundentes de que o acusado não se encontrava no exercício do cargo de guarda municipal antes ou durante a abordagem pelos policiais, o que culminou em erro de fato no julgado.
+Apresentadas as contrarrazões (fls. 369-372), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula nº 7, STJ (fls. 381-385).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 250-262).
+O Ministério Público Federal apresentou parecer pelo provimento do agravo em recurso especial (fls. 302-304).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O cerne do presente recurso é a (in)devida prestação jurisdicional. Sustenta o Parquet que o Tribunal de origem incorreu em omissão acerca da tese de que o porte de arma não ocorreu durante o exercício do cargo de guarda municipal, o que culminou em erro de fato no julgado.
+Todavia, é patente que a referida alegação foi afastada explicitamente, quando a instância a quo apontou "não desconhecer o entendimento do Colendo STJ ao enfrentar casos análogos, vedando o porte de arma de fogo por Guardas Municipais fora do horário do expediente" (fl. 192, grifei).
+Desta forma, verifico que não prospera a alegada afronta ao que dispõe o artigo 619 do CPP, pois o acórdão vergastado enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução, não padecendo de vícios.
+Destaque-se, conforme pacífica jurisprudência desta Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua interposição.
+Em verdade, com os aclaratórios opostos na origem, o recorrente pretendeu, como bem reconheceu a Corte estadual, veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+Sobre o tema: AgRg no REsp n. 1.911.512/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 20/4/2023 e AgRg no REsp n. 2.016.562/RS, Quinta Turma, minha relatoria, DJe de 22/8/2023.
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula nº 568, STJ : "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no artigo 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO NO RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OFENSA AO ART. 619 DO CPP. INOCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DESPROVIDO.
