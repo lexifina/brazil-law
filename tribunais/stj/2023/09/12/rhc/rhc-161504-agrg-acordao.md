@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ILEGALIDADE INEXISTENTE. DECISÃO NOS TERMOS DA JURISPRUDÊNCIA DESTA CORTE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso em comento, não se trata de regressão de regime, mas de reconversão em virtude da unificação por nova condenação, o que se coaduna com a previsão legal do § 5º, do art. 44, do Código Penal. Não houve cerceamento de defesa, uma vez que o apenado foi intimado da decisão, assim como não existe previsão legal de intimação para aplicação dos consectários legais do art. 111, da LEP, não havendo procedimento prévio de contraditório.
+III - A Defesa limitou-se a repisar os fatos e os mesmos argumentos vertidos na inicial e as razões recursais não foram aptas ao afastamento dos fundamentos da decisão agravada, o que atrai o enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUSTAVO MATOSO MEDEIROS, contra decisão monocrática proferida às fls. 272-276, que negou provimento ao recurso ordinário em habeas corpus.
+Nas razões d e agravo, a Defesa repisa os fatos e os mesmos argumentos vertidos na inicial, insistindo na mesma tese de impossibilidade da soma das penas, em especial pela falta de intimação do recorrente quando da conversão da pena restritiva de direito em privativa de liberdade.
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ILEGALIDADE INEXISTENTE. DECISÃO NOS TERMOS DA JURISPRUDÊNCIA DESTA CORTE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso em comento, não se trata de regressão de regime, mas de reconversão em virtude da unificação por nova condenação, o que se coaduna com a previsão legal do § 5º, do art. 44, do Código Penal. Não houve cerceamento de defesa, uma vez que o apenado foi intimado da decisão, assim como não existe previsão legal de intimação para aplicação dos consectários legais do art. 111, da LEP, não havendo procedimento prévio de contraditório.
+III - A Defesa limitou-se a repisar os fatos e os mesmos argumentos vertidos na inicial e as razões recursais não foram aptas ao afastamento dos fundamentos da decisão agravada, o que atrai o enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Pretende a il. Defesa, em síntese, o provimento do agravo regimental de modo a ver reformada a decisão monocrática para que, concedendo-se a ordem, reconhecer a nulidade da decisão que converteu a pena restritiva de direito em privativa da liberdade
+Com efeito, da decisão impugnada colhe-se que analisou de forma devidamente fundamentada todos os pontos apresentados, não havendo falar em constrangimento ilegal, porquanto aquela está em consonância com a legislação e jurisprudência desta Corte, não havendo ilegalidade passível da concessão da ordem.
+Por oportuno, transcrevo a decisão agravada que, no ponto que interessa, verbis (fls. 275-276 ):
+"Inicialmente, cumpre salientar que a Defesa sustenta a necessidade de prévia intimação para audiência de justificação, assim como alega ilegalidade advinda da ausência de intimação do recorrente nos termos do art. 181, §1º, alínea "a", da Lei de Execução Penal, bem como ilegalidade pela ausência de realização de audiência de justificação, nos termos do art. 118, § 2º, da Lei de Execução Penal
+Todavia, no caso em comento, não se trata de regressão de regime, mas de reconversão em virtude da unificação por nova condenação, o que se coaduna como a previsão legal do § 5º, do art. 44, do Código Penal, verbis:
+"Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+ ..
+§ 5º Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior"
+Como bem salientado pelo Tribunal de origem, não há previsão legal para intimação apenas para aplicação dos consectários legais, assim como o Tribunal de origem fez constar que "não prospera o argumento de cerceamento de defesa suscitado, porquanto a certidão acostada ao evento n. 33 dos autos do PEC n. 0001109-23.2019.8.24.0072, demonstra que o paciente foi devidamente intimado da decisão que converteu a pena restritiva de direitos que lhe foi imposta em pena privativa de liberdade" (fl. 138), não havendo que se falar em nulidade, uma vez que o Juiz da execução somente cumpriu o comando insculpido no art. 111 da LEP a respeito da qual, em que pese criativa construção defensiva, inexiste o procedimento prévio de contraditório, ainda mais diante da ciência posterior determinada pela referida autoridade judicial. "
+Com efeito, verifica-se que a decisão agravada concluiu pela legalidade da decisão, a qual deixou claro que no caso em comento, não se trata de regressão de regime, mas de reconversão em virtude da unificação por nova condenação, o que se coaduna como a previsão legal do § 5º, do art. 44, do Código Penal, bem como que não houve cerceamento de defesa uma vez que o apenado foi intimado da decisão, assim como que não existe previsão legal de intimação para aplicação dos consectários legais do art. 111, da LEP, não havendo procedimento prévio de contraditório. Todavia, as razões recursais não foram aptas ao afastamento dos fundamentos da decisão agravada.
+Verifica-se, portanto, que a matéria restou devidamente debatida na decisão recorrida, claro, nos limites da via eleita, de forma que não há falar em possível reversão do antes julgado.
+No mais, tem aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma , Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
