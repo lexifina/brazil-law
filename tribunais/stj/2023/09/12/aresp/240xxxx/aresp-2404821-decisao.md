@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGAÇÃO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO  AÇÃO DE EXECUÇÃO -REQUERIMENTO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA -PEDIDO INDEFERIDO PELO JUIZ A QUO -AUSENTES OS REQUISITOS AUTORIZADORES
+Quanto à controvérsia, a parte recorrente alega violação do art. 50 do CC, no que concerne ao preenchimento dos requisitos legais necessários para a desconsideração da personalidade jurídica, trazendo a seguinte argumentação:
+Em que pese todo o imensurável conhecimento do nobre julga- dor ao caso, a decisão merece reforma, pois não houve apenas meros indícios, mas sim apontamentos de fatos efetivos e graves que levaram ao esvaziamento patrimonial da empresa executada, preenchendo, de forma indubitável, os requisitos necessários e pre- vistos no artigo 50 do Código Civil.
+Os recorridos permaneceram inertes e não apresentaram defesa aos autos, pois sabiam que não haveria meios de negar a veracidade dos fatos apontados pela recorrente.
+Dessa forma, há de ser respeitada e observada o artigo 50 do Có- digo Civil aplicando o ao caso sob análise, haja vista que houve o desvio de finalidade e a confusão patrimonial, caracterizando assim, o abuso de personalidade.
+Como salientado pelo nobre julgador, a possibilidade de ser des- considerada a personalidade jurídica ocorre quando houver provas concretas que carac- terizem abuso, desvio de finalidade ou confusão patrimonial.
+ ..
+Porém, o D. Julgador não levou em consideração todo o contexto relatado pelo recorrente, pois todas as tentativas de buscas por bens passíveis de cons- trição foram inexitosas justamente pelo esvaziamento consciente do patrimônio exis- tente, com a finalidade de fraudar as expectativas creditórias do recorrente. Não se trata de caso isolado, mas sim de atos ilícitos praticados com a finalidade de obstar a execução dos créditos existentes em favor do recorrente (fls. 330/331).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em questão, não há fatos categoricamente firmados que comprovem abuso, desvio de finalidade ou confusão patrimonial. A narrativa de recorrentes de frustradas tentativas de constrição aliada ao encerramento da atividade empresarial de forma irregular não são suficientes para configurar abuso ou desvio de finalidade na atuação dos sócios da empresa, sendo assim, não há falar em desconsideração da personalidade jurídica (fl. 304).
+Assim, i ncide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
