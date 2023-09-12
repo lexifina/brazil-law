@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de HELENO BASTOS DOS SANTOS no qual se insurgira contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+A questão debatida nos autos, qual seja, "definição acerca da incidência, ou não, da Súmula 111/STJ após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios na fase de cumprimento de sentença"  encontra-se  afetada  à  Primeira  Seção  desta  Corte  Superior  aguardando  o  julgamento  final  dos Recursos Especiais 1.883.715/SP, 1.833.722/SP, 1.884.091/SP e 1.880.529/SP,  d e  relatoria  do  Ministro  Sérgio Kukina,  sob  o  rito  dos  recursos  repetitivos  (Tema  1.105/STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256 -L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
