@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Caixa de Previdência dos Funcionários do Banco do Brasil, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 770):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AÇÃO ORDINÁRIA. PERÍCIA ATUARIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REMESSA À CONTADORIA. ALEGAÇÃO DE EXCESSO À EXECUÇÃO. INOBSERVÂNCIA.
+Considerando que os cálculos apresentados pela parte autora estão corretos, não há falar em excesso à execução, sob o fundamento de que a atualização do débito não observou as decisões judiciais.
+Agravo de Instrumento desprovido.
+Esse acórdão foi objeto de embargos de declaração, rejeitados no Tribunal de origem, o que motivou recurso especial para esta Corte, o qual foi provido, no âmbito do AREsp n. 1.247.822/RS, para determinar o suprimento de omissão no julgamento.
+Foi, então, proferido novo acórdão, de cuja ementa colhe-se o seguinte (eSTJ, fls. 841-842):
+EMBARGOS DE DECLARAÇÃO SUBMETIDOS A REJULGAMENTO POR DETERMINAÇÃO DO STJ. PREVIDÊNCIA PRIVADA. FASE DE CUMPRIMENTO DE SENTENÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS INDEVIDAS NO PERÍODO DE SUPERÁVIT DO PLANO. ABRANGÊNCIA DOS DESCONTOS. QUESTÃO PRECLUSÃO. OBSERVÂNCIA DA DECISÃO PROFERIDA EM Al ANTERIOR. INCIDÊNCIA DE JUROS MORATÓRIOS SOBRE AS CONTRIBUIÇÕES DEVIDAS. DESCABIMENTO.
+1) Trata-se de reanalisar, por determinação do STJ, os embargos de declaração opostos em acórdão que negou provimento ao agravo de instrumento nº 70070501895 manejado em face da decisão que determinou não serem devidas contribuições no período de distribuição do superávit (2007 a 2013), devendo ser observado a decisão proferida no AI 70045103132, e que sobre as contribuições devidas não incidiriam juros moratórios por não haver mora dos exequentes.
+2) Os embargos de declaração só se justificam nos motivos típicos previstos na lei processual.
+3) In casu, efetivamente há omissão no acórdão, pois nada foi dito acerca das questões deduzidas pela parte agravante, cingindo-se o julgado a afirmar que o cálculo da parte autora estava correto.
+4) DESCONTOS LEGAIS - CONTRIBUIÇÃO PREVIDENCIÁRIA - Considerando que as contribuições estavam suspensas nos anos de 2007 a 2013, correta a decisão agravada ao decidir que estas não são devidas no aludido período, ainda que sob o argumento da ausência de fonte de custeio. Ressalta-se que, ao contrário do afirmado em razões recursais, não há decisão transitada em julgado determinado o desconto das contribuições no período mencionado, razão pela qual não há que se falar em afronta à coisa julgada.
+5) Relativamente ao alcance dos descontos, não cabe mais discussão a respeito, pois tal questão foi objeto do agravo de instrumento nº 70045103132, já transitado em julgado.
+6) CÁLCULO DOS DESCONTOS PREVIDENCIÁRIOS - Não há mora dos autores/exequentes a justificar a incidência de juros moratórios sobre as contribuições previdenciárias por eles devidas. Os participantes somente não pagaram as contribuições devidas no momento oportuno em razão da atitude da entidade previdenciária que deixou de repassar aos inativos os valores relativos ao auxílio-cesta alimentação. A previsão regulamentar mencionada pela agravante (art. 67 do Plano de Benefícios 01) diz respeito à incidência de juros moratórios nos casos de inadimplemento voluntário por parte do participante, não podendo ser aplicado ao caso em apreço.
+7) Assim, suprimindo as omissões apontadas e reconhecidas pelo STJ, impõe-se negar provimento ao agravo de instrumento no ponto.
+EMBARGADOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+Nas razões do apelo especial, a recorrente indicou afronta aos arts. 1º, 6º, 18, § 3º e 19 da Lei Complementar n. 109/2001; 7º da Lei Complementar n. 108/2001; 502 e 503 do CPC/2015; e 884 e 885 do Código Civil.
+Defendeu a incidência de contribuições previdenciárias inclusive no período superavitário, sob os argumentos de que: (i) haveria decisão transitada em julgado nesse sentido; e (ii) a verba concedida não estaria prevista no custeio do plano, sendo, assim, extraordinária, o que significa que não foi abarcada pela suspensão de cobrança no período superavitário.
+Entendeu, ainda, que deveria haver a incidência de juros de mora sobre as referidas contribuições.
+Contrarrazões às fls. 1.069-1.076 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+A Corte local, ao analisar a controvérsia, entendeu que não haveria decisão transitada em julgado determinando o desconto de contribuições no período superavitário, conforme se depreende do excerto abaixo transcrito (e-STJ, fls. 846-847):
+A parte recorrente defende que são devidas as contribuições mesmo no período de distribuição do superávit, sob pena de gerar um descompasso entre as receitas e os pagamentos, podendo levar o plano à insuficiência de recursos e inviabilizar a própria sobrevivência da entidade. Disse, ainda, que ao não determinar os descontos sobre todas as verbas pra deferidas, restará violado o art. 62 da Lei Complementar nº 109/2001. Mencionou, ainda, os percentuais utilizados para fins de desconto de contribuição previdenciária.
+Considerando que as contribuições estavam suspensas nos anos de 2007 a 2013, correta a decisão agravada ao decidir que estas não são devidas no aludido período, ainda que sob o argumento da ausência de fonte de custeio.
+Ressalta-se que, ao contrário do afirmado em razões recursais, não há decisão transitada em julgado determinado o desconto das contribuições no período mencionado, razão pela qual não há que se falar em afronta à coisa julgada.
+Para derruir a convicção formada, seria indispensável o reexame de fatos e provas, o que se encontra obstado na seara extraordinária, em razão do óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+Quanto à alegação de que tratar-se-iam de contribuições extraordinárias e, portanto, não abrangidas pela suspensão de cobrança no período superavitário, nota-se que, a despeito da oposição dos aclaratórios, não houve pronunciamento do Colegiado estadual sobre o tema, o que revela a ausência de prequestionamento, requisito indispensável ao conhecimento da insurgência.
+Assim, aplica-se, nesse ponto, o enunciado n. 211 da Súmula do STJ, que dispõe ser "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO DE ORIGEM. INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO (SÚMULA 211/STJ). VIOLAÇÃO GENÉRICA DE DISPOSITIVOS LEGAIS (SÚMULA 284/STF). EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. DECISÃO NO JUÍZO ARBITRAL RECONHECENDO SUA INCOMPETÊNCIA. PRINCÍPIO DA KOMPETENZ-KOMPETENZ. AGRAVO INTERNO DESPROVIDO. CONFIRMAÇÃO DA DECISÃO AGRAVADA QUE CONHECE, EM PARTE, DO ESPECIAL E, NA EXTENSÃO, NEGA-LHE PROVIMENTO.
+(..)
+2. Não decididas na origem as matérias referentes aos dispositivos tidos como violados, falta ao recurso especial o necessário prequestionamento. Súmula 211/STJ.
+(..)
+6. Agravo interno desprovido. Recurso especial conhecido em parte e, na extensão conhecida, desprovido.
+(AgInt no REsp n. 2.049.463/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2023, DJe de 29/8/2023.)
+Por fim, constata-se que o Tribunal de origem entendeu "que não há mora dos autores/exequentes a justificar a incidência de juros moratórios sobre as contribuições previdenciárias por eles devidas" (e-STJ, fl. 849).
+Nas razões do apelo especial, contudo, a parte não se insurgiu especificamente contra esse fundamento, limitando-se a alegar genericamente que deveria incidir juros de mora sobre as contribuições devidas, o que atrai a aplicação dos enunciados n. 283 e 284 da Súmula do STF.
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. JUÍZO DE RETRATAÇÃO NA ORIGEM. ALTERAÇÃO DA FUNDATAMENTAÇÃO. RATIFICAÇÃO DAS RAZÕES RECURSAIS. NECESSIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 579/STJ. ART. 927, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FALTA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO SÚMULAS N. 283 E 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.068.751/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. 1. DESCONTO DE CONTRIBUIÇÕES NO PERÍODO SUPERAVITÁRIO. INEXISTÊNCIA DE DECISÃO TRANSITADA EM JULGADO NESSE SENTIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. TESE DE QUE AS CONTRIBUIÇÕES DEVIDAS SERIAM DE ORDEM EXTRAORDINÁRIA, NÃO ABRANGIDAS PELA SUSPENSÃO DE COBRANÇA NO PERÍODO SUPERAVITÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. JUROS MORATÓRIOS. NÃO CABIMENTO. AUSÊNCIA DE MORA. FUNDAMENTO INATACADO. SÚMULAS 283 E 284/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
