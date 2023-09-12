@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5010937-69.2022.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JOSIMAR LUCIDATO
+RECORRIDO: BANCO BMG SA
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO ANULATÓRIA DE CONTRATO C/C INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS C/C PEDIDO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. NECESSIDADE DE PERÍCIA. NARRA O AUTOR QUE EM DEZEMBRO/2019 TOMOU CONHECIMENTO DE QUE A RÉ TERIA REALIZADO UM CONTRATO DE CARTÃO DE CRÉDITO, N.º 13387129, EM SEU NOME, SEM SUA PERMISSÃO, NO VALOR DE R$ 1.464,18, DESCONTOS DE R$ 77,86 E DATA DE INCLUSÃO EM 28/11/2017. OS DESCONTOS COMEÇARAM EM DEZEMBRO/2017 MESMO SEM O CARTÃO DE CRÉDITO SER DESBLOQUEADO, PORÉM, CONSTAM 03 SAQUES NOS VALORES DE R$ 196,73, R$ 101,66 E R$ 425,44. POR CONTA DOS FATOS O REQUERENTE VISITOU O PROCON NO DIA 16/03/2022 PARA TENTAR SOLUCIONAR A QUESTÃO, PORÉM, SEM ÊXITO. ATÉ O INGRESSO EM JUÍZO FORAM DESCONTADOS O TOTAL DE R$ 3.490,89 EM 54 MESES. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) LIMINAR PARA QUE SEJAM INTERROMPIDOS OS DESCONTOS EM SUA CONTA, B) CANCELAMENTO DO CONTRATO DE EMPRÉSTIMO N.º 13387129, C) RESTITUIÇÃO DOS VALORES DESCONTADOS NO VALOR DE R$ 3.490,89 E D) DANOS MORAIS NO VALOR DE R$ 10.374,55. SENTENÇA DE PISO JULGOU EXTINTO O PROCESSO SEM JULGAMENTO DO MÉRITO COM FUNDAMENTO NO ART. 51, II, DA LEI 9.099/95. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA QUE SEJA ANALISADO O MÉRITO PROCESSUAL E JULGADO PROCEDENTES OS PEDIDOS DA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE DEMANDA CONSUMERISTA NA QUAL EM RAZÃO DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA, QUAL SEJA, A ESCOLHA DA PARTE AUTORA EM NÃO APRESENTAR A RÉPLICA HOUVE A EXTINÇÃO DO PROCESSO PELO ENTENDIMENTO DO JUIZ A QUO DE QUE SERIA NECESSÁRIA A PERÍCIA. DESSA FORMA, NÃO É POSSÍVEL O ACOLHIMENTO DA TESE RECURSAL. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
