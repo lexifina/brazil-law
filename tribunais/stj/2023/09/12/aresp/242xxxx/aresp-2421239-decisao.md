@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por OSVALDO ARISTODEMO NEGRINI JUNIOR, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 23/6/2023.
+Concluso ao Gabinete em: 23/8/2023.
+Ação: de cobrança de verbas condominiais, em fase de cumprimento de sentença, ajuizada por CONDOMINIO EDIFICIO LEMOS TORRES em face do agravante.
+Decisão Interlocutória: acolheu parcialmente a impugnação ao laudo pericial apresentado para determinar a sua complementação.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+Agravo de Instrumento. Ação de cobrança de cotas condominiais. Cumprimento de sentença. Penhora de imóvel do executado-Agravante em cujo local está situado o seu escritório de advocacia. Impugnação do laudo pericial de avaliação do imóvel penhorado pelo Agravante. Decisão agravada que afastou a preliminar de violação da garantia de inviolabilidade do escritório de advocacia e dos dados e informações confidenciais relacionados ao exercício da profissão. No mérito, a decisão agravada determinou a complementação da perícia de avaliação do imóvel penhorado. Pedido recursal formulado pelo executado-Agravante para reformar a decisão agravada alegando a inviolabilidade do escritório de advocacia, a nulidade do laudo pericial, a decretação de prova ilícita e a aplicação de litigância de má-fé à credora-Agravada. Argumentos que não prosperam. Decisão mantida. RECURSO DESPROVIDO. (e-STJ Fl. 280)
+Embargos de declaração: opostos pela ora agravante, foram rejeitados.
+Recurso especial: alega ofensa aos arts. 2º, §§ 1º e §3º, e 7º, II, da Lei n. 8.906/1994; 79/81, 489, § 1º, IV, e 1.022, II, do CPC/15; 5º, X, e 93, IX, da CF/88.
+A par da negativa de prestação jurisdicional, sustenta, em suma, a inviolabilidade do escritório de advocacia.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pelo agravante foi inadmitido com fulcro nos seguintes fundamentos: a) impossibilidade de alegação de ofensa a dispositivos constitucionais; b) ausência de negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC); c) quanto aos arts. 7º, II e 2º, §§ 1º e 3º, ambos da L. 8.906/94, e 11 do Pacto de São José da Costa Rica, falta de demonstração da alegada vulneração, a par da incidência da Súmula 7/STJ; e d) no tocante à aplicação de multa por litigância de má-fé, igual incidência da Súmula 7/STJ.
+Entretanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, todos os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, limitou-se a reprisar as suas considerações de mérito, deixando de refutar os fundamentos adotados e de demonstrar o seu desacerto, evidenciando, portanto, a efetiva inaplicabilidade de sua incidência, notadamente quanto à alegação de ofensa a dispositivos constitucionais e à Súmula 7/STJ, tanto aos dispositivos citados quanto à aplicação de multa.
+Saliente-se, ademais, que é imprescindível, para que seja configurada e demonstrada a negativa de prestação jurisdicional (art. 1.022 do CPC/2015), a explanação acerca da relevância da apreciação da questão tida por omissa e do modo em que ela repercutiria no resultado do julgamento.
+Cumpre consignar, ainda, que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando o agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
