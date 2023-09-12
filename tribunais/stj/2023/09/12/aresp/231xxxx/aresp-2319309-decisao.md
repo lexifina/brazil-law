@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por FÁBIO TADEU LEAL FARIA, contra decisão que não admitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional, o qual foi apresentado em face de acórdão proferido pelo Tribunal do Estado de São Paulo, assim ementado (e-STJ, fl. 416-419):
+"SEGURO COLETIVO DE ACIDENTES PESSOAIS - Ação indenizatória, fundada em invalidez permanente causada por acidente, julgada improcedente - Apelação do autor, que pretende a complementação do valor do seguro, abatida a importância recebida da seguradora, administrativamente - Perícia oficial que concluiu pela inexistência de qualquer restrição funcional em razão de acidente - Sentença mantida - Recurso improvido."
+Em suas razões recursais (e-STJ, fls. 421-435), a parte recorrente apontou violação dos arts. 4º, caput, 6º, II, III e IV, 31, e 54 do Código de Defesa do Consumidor; ademais, entende que o processo deve ser suspenso em razão do Tema 1112 do STJ.
+Sustentou, em síntese, que dentro da vigência da apólice, sofreu acidente de trânsito que lhe acarretou invalidez permanente, e quando acionou a seguradora para receber a cobertura contratada recebeu apenas valor parcial. Argumenta que não recebeu informação adequada quanto aos valores que seriam pagos pela apólice contratada.
+Contrarrazões às fls. 438-445.
+Na decisão de admissibilidade (e-STJ, fls. 446-447), a Corte de origem negou seguimento ao recurso especial por entender que incide o óbice da Súmula 282/STF.
+É o relatório.
+Decido.
+Compulsando os autos verifica-se que não houve manifestação da Corte de origem sobre a matéria tratada pelo Tema 1112 do STJ, tampouco sobre os arts. 4º, caput, 6º, II, III, IV, 31, e 54 do Código de Defesa do Consumidor.
+Dessa forma, caracterizada a ausência de prequestionamento atrai a incidência do óbice previsto na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Corroboram esse entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE SERVIÇOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. 2. FALTA DE PREQUESTIONAMENTO DE MATÉRIA OU TESE. SÚMULA 211/STJ. 3. LEGITIMIDADE DOS HERDEIROS PARA RESPONDER POR DÍVIDA DO ESPÓLIO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. APLICAÇÃO DA TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. 5. DECISÃO REALIZADA NOS LIMITES DO EFEITO DEVOLUTIVO DO RECURSO. 6. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em ofensa ao art. 1.022 do CPC/2015.
+2. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356/STF, bem como o enunciado da Súmula 211/STJ.
+3. O Tribunal de origem, ao aplicar a teoria da asserção, consignou, diante do contexto fático-probatório dos autos, que havia elementos suficientes para a manutenção dos ora agravantes no polo passivo da demanda. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+4. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula 283/STF.
+5. A instância ordinária apreciou o pedido em concordância com causa de pedir, dentro dos limites postulados no agravo de instrumento, não havendo falar em decisão extra petita.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.319.550/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023 - sem grifo no original).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO DE TÍTULO DE CRÉDITO. DANO MORAL. VALOR. REEXAME DE PROVAS. SÚMULA N. 7/STJ. MODIFICAÇÃO DA MULTA COMINATÓRIA. READEQUAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.177.442/GO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023 - sem grifo no original).
+"PREVIDÊNCIA PRIVADA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE BENEFÍCIO. OFENSA AO ART. 535 DO CPC/73. NÃO CARACTERIZAÇÃO. REVISÃO DA RENDA MENSAL INICIAL. OBRIGAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO DESPROVIDO.
+1. A despeito da alegação de ofensa ao art. 535, II, do CPC/1973, observa-se que nas razões do recurso especial não foi indicado em que consistiriam os eventuais vícios, tampouco sua relevância para a conclusão do julgamento. A generalidade das alegações atrai a incidência da Súmula 284/STF.
+2. A ausência de emissão de juízo de valor acerca dos dispositivos legais indicados como violados no acórdão recorrido inviabiliza o conhecimento do recurso especial, por ausência de imprescindível prequestionamento (Súmulas 282 e 356 do STF).
+3. "A revisão de aposentadoria complementar fundada em divergência no cálculo da renda mensal inicial com as regras vigentes à época em que o benefício previdenciário se tornou elegível enquadra-se como obrigação de trato sucessivo e submete-se ao prazo de prescrição de 5 (cinco) anos (Súmulas nºs 291 e 427/STJ)" (AgRg no REsp 1.496.785/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/08/2015, DJe de 1º/09/2015).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.124.927/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/4/2023, DJe de 3/5/2023 - sem grifo no original).
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. TAXA DE MANUTENÇÃO. LOTEAMENTO URBANO. TEMA 882/STJ. APLICABILIDADE AOS LOTEAMENTOS INSTITUÍDOS NA FORMA DA LEI Nº 6.766/79. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. ARTS. 141 E 492 DO CPC. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO INDISPENSÁVEL. AUSÊNCIA. SÚMULA 282/STF. EXISTÊNCIA DE CONTRATO PADRÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DEMONSTRAÇÃO DA ANUÊNCIA COM A COBRANÇA OU ADESÃO ASSOCIATIVA. INEXISTÊNCIA. COBRANÇA INDEVIDA. PRECEDENTE.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+2. A ausência de debate no acórdão recorrido quanto a temas suscitados no recurso especial evidencia a falta de prequestionamento. Ademais, mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+3. Rever as conclusões do Tribunal de origem a respeito da inexistência de contrato padrão ou de previsão no contrato de compra e venda depositado no registro imobiliário de menção acerca da existência da associação autora ou de eventual obrigação do compromissário comprador de a ela se associar demandaria o reexame de fatos e provas, vedado pela Súmula 7/STJ.
+3. Às relações jurídicas constituídas antes da entrada em vigor da Lei n.º 13.465/2017 ou de anterior lei municipal disciplinando a questão, é inválida a cobrança de taxa de manutenção de loteamento fechado, por administradora constituída sob a forma de associação, de proprietários de lote não associados ou que a ela não anuíram expressamente.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO."
+(AgInt no REsp n. 2.021.499/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023 - sem grifo no original).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro de 12 % para 13 % os honorários sucumbenciais fixados na origem.
+Publique-se.
+EMENTA
