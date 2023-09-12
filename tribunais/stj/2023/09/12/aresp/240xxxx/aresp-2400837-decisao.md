@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 928):
+Ação de indenização - seguro habitacional obrigatório - imóvel financiado pelo Sistema Financeiro de Habitação - danos decorrentes de vícios de construção. Extinção do processo sem resolução do mérito - ilegitimidade ativa. Inconformismo da parte autora. Acolhimento. A falta de anuência da CDHU não retira a legitimidade ativa do autor para a discussão envolvendo o direito à cobertura securitária, haja vista que eventuais danos existentes no imóvel são por ele suportados e o prêmio do seguro habitacional integra as prestações. Legitimidade do autor para figurar no polo ativo da demanda. Sentença reformada. Recurso de apelação provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 959-962).
+Nas razões do recurso especial (e-STJ, fls. 965-992), a ora agravante apontou violação dos arts. 1º-A da Lei 12.409/2011 e 3º da Lei 13.000/2014, sustentando, em síntese, a presença de interesse da Caixa Econômica F ederal e a consequente competência da Justiça Federal.
+Contrarrazões às fls. 1.000-1.014 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Sobre a controvérsia dos autos, colhe-se a fundamentação do acórdão recorrido, firmado no âmbito dos embargos de declaração (e-STJ, fl. 961):
+Ali consta, expressamente, o que este órgão colegiado constatou como substrato de direito para solucionar a questão debatida basicamente, a preclusão da discussão da matéria sobre a definição de competência da Justiça Comum Estadual vs. Justiça Federal, inclusive sob a ótica da superveniência da lei nova 13.000/2014, visto que ela já fora abordada expressamente em momento anterior nos autos, sem notícia de interposição do recurso cabível ao tempo de sua análise. Igualmente decidiu-se pela preclusão da questão da prescrição, não interposto agravo de instrumento à época contra a decisão saneadora que a julgara.
+No caso vertente, a questão do indeferimento do ingresso da Caixa Econômica Federal e da competência da Justiça Estadual já restaram decididas quando do julgamento do Agravo de Instrumento nº 2013883-58.2015.8.26.
+Ainda que a competência seja matéria de ordem pública, desnecessário novo pronunciamento acerca da questão.
+A leitura mais atenta das razões recursais revela que tal fundamento (ocorrência da preclusão da matéria), autônomo e suficiente para a manutenção do acórdão recorrido, não foi rebatido pela recorrente. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal, que priorizou considerações secundárias , a autorizar a aplicação, no particular, das Súmulas 283 e 284 do STF.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SFH. ALEGAÇÃO DE COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
