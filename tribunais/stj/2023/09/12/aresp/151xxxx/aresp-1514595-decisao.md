@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO FÔNSECA LIMA E OUTRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DECLARATÓRIA DE NULIDADE DE REGISTRO DE IMÓVEL. Sentença de procedência, para declarar nulo o registro R. 04 realizado na matrícula do imóvel referente à venda aos réus. Sentença retificou o valor da causa para R$ 555.000,00, pois não considerado o pedido de danos morais. Sucumbência recíproca.
+Apelam os autores, pugnando pelos danos morais; valor dos honorários dos seus advogados deve ser fixado com base na condenação por danos morais e de acordo com o proveito econômico.
+Apelam os réus, alegando ser caso de suspensão do feito, até que seja julgada ação revocatória referente a um dos imóveis; devem ser declarados titulares de domínio do imóvel da Rua Djalma Dutra nº 26, reconhecendo-se a licitude do negócio jurídico que desencadeou o registro impugnado nesta ação; caso de inversão dos ônus da sucumbência.
+Descabimento dos apelos. Suspensão do feito.
+Insubsistência. Deserção do recurso dos autores, Inocorrência. Recolheram as custas recursais de acordo com o previsto na sentença.
+Bem foi vendido a terceiros, além dos próprios autores, sendo caso de declarar a nulidade da transação do registro no cartório de imóveis. Mantida a sentença. Motivação da sentença adotada como fundamentação do julgamento em segundo grau. Adoção do art. 252 do RITJ.
+Recurso improvidos." (fl. 758)
+Os recorrentes apontam ofensa aos arts. 1.225, 1.245 do Código Civil e 156 do CPC/15, sustentando, em síntese, (a) a propriedade sobre imóveis se transfere pelo registro imobiliário e (b) " d ada a complexidade do caso em tela, era o caso de se constituir perito, nos termos do que determina o Código de Processo Civil vigente, pois nas causas em que a matéria envolvida exigir conhecimentos técnicos ou científicos próprios de determinadas áreas do saber, o magistrado será assistido por perito ou órgão" (fl. 175).
+Contrarrazões às fls. 928/932.
+É o relatório.
+Anota-se, inicialmente, que as razões do apelo especial se mostram deficientes. Ao suscitar a legalidade da alienação escriturada em 28/11/2013, os recorrentes alegam, genericamente, que o ajuste restou "justo e perfeito", sem impugnar, de modo específico, os fundamentos do acórdão recorrido.
+Além disso, o pedido para a produção de prova pericial também está fundado na simples alegação de "complexidade do caso em tela" e de "confusão e (..) erros de interpretação de aplicação das normas legais" (fl. 775), expressões a partir das quais não é possível compreender o efetivo objeto da controvérsia.
+Incide, portanto, o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Ademais, a conclusão das instâncias ordinárias, que declararam nula a alienação do imóvel aos ora recorrentes, está integralmente fundada na apreciação das provas dos autos. Destaca-se da fundamentação do aresto de 2º grau:
+"(..) alegação do réu Marcelo de que teria aceitado a proposta de recompra do imóvel situado na Rua da Constituição, mesmo após a celebração de um "negócio milionário" não parece razoável, caso a permuta realizada entre as partes tivesse de fato se aperfeiçoado. Não há como acreditar que, mesmo com o negócio jurídico perfeito, já que o próprio Réu Marcelo alega ter comprado a integralidade do imóvel da Rua da Constituição, o mesmo tenha aceitado dividir o lucro adquirido com a locação com os Autores, por simples bondade. Pela ordem cronológica dos fatos é possível concluir que, em razão do não aperfeiçoamento da permuta (fls. 279/282), as partes acharam por bem retificar os termos do contrato anterior, estabelecendo novos termos para a permuta que passou a corresponder a 50% (cinquenta por cento) dos imóveis então negociados." (fl. 761)
+Destaca-se, ainda:
+"E pelas inúmeras provas existentes nos autos é possível concluir que a aquisição do imóvel da Rua Djalma Dutra é decorrente da permuta realizada com os Réus. Ou seja, a Sra. Acilda teria transferido aos réus 25% da propriedade do imóvel situado na Rua da Constituição, recebendo em troca 100% do imóvel da Rua Djalma Dutra, camuflado numa suposta compra e venda, quando na realidade se referia ao aperfeiçoamento da permuta realizada em 04 de outubro de 2002." (fl. 762)
+A reforma do aresto, portanto, só seria possível mediante novo exame das provas dos autos, o que, porém, é vedado pela Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de 15% para 16% do valor da causa.
+Publique-se.
+EMENTA
