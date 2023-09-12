@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Sacramento Produções Ltda., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 319):
+APELAÇÃO. Contrato de prestação de serviços e concessão de uso de imagens, som de voz e nome artístico para utilização em campanha publicitária. Sentença de parcial procedência.
+- Rompimento imotivado do contrato. Contratada que não obteve autorização de terceiro, nem analisou o material publicitário antes da celebração do contrato. Conhecimento inequívoco das atividades da apelada. Desagrado com o objeto da campanha publicitária e autorização de terceiro negada. Rescisão.
+- Culpa da apelante pela rescisão ficou bem caracterizada. Multa compensatória devida, como prefixação de perdas e danos. Redução do valor nos termos do art. 413 do Código Civil. Sentença mantida, com majoração da verba honorária.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração em sequência, estes foram parcialmente acolhidos, com efeitos infringentes.
+Nas razões do apelo especial, a recorrente indicou violação aos arts. 85, caput, § 2º, e 86, caput, do CPC/2015; e 413 do CC.
+Asseriu que o valor da multa seria desproporcional, considerando que decorreu apenas nove dias entre a celebração do contrato e a rescisão, além de ter o sinal sido imediatamente devolvido.
+Alegou que o arbitramento dos honorários de sucumbência em favor de seu advogado deveria se dar com base no proveito econômico, e não com esteio na condenação.
+Contrarrazões às fls. 397-402 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+No tocante à multa contratual, observa-se que o Colegiado estadual concluiu que seria adequada a sua redução para o patamar de R$ 45.000,00 (quarenta e cinco mil reais), nos termos da seguinte fundamentação (e-STJ, fls. 323-324):
+II.2. O reconhecimento da culpa da apelante pela rescisão do contrato atrai aplicação da cláusula penal constante do instrumento e que constitui prefixação de perdas e danos decorrentes do inadimplemento.
+O contrato foi celebrado para vigorar por prazo determinado de seis meses e contém previsão de multa compensatória fixada em R$ 90.000,00, correspondente ao valor total da contraprestação devida à apelante. A rescisão, operada pouco mais de um mês depois da celebração, exige aplicação da cláusula penal de expressão condizente com a gravidade das consequências do inadimplemento, segundo relação inversamente proporcional.
+Com acerto e adequada fundamentação, amparado no que dispõe o art. 413 do Código Civil, o juízo singular reduziu o valor da multa compensatória para R$ 45.000,00, expressão condizente com as circunstâncias do caso e cuja incidência dispensa mensuração e comprovação dos prejuízos experimentados pela parte que não deu causa à rescisão.
+A fixação do valor da multa prestou obediência a parâmetros específicos do caso em análise, assim período total previsto de vigência, tempo decorrido até a rescisão, natureza da obrigação, grau de inadimplemento e efeitos que dele decorreram para a apelada, sem descurar da base econômica do contrato.
+Para concluir pela necessidade de uma minoração ainda maior do valor fixado a título de cláusula penal, seria indispensável o revolvimento do acervo fático-probatório, procedimento vedado na via extraordinária, em razão do óbice contido no enunciado n. 7 da Súmula desta Corte de Uniformização.
+Quanto à questão jurídica residual, cabe pontuar que a jurisprudência desta Casa é no sentido de que, na hipótese de sucumbência recíproca, os honorários sucumbenciais devidos ao advogado do autor devem incidir sobre a importância imposta a título de condenação e ao do réu sobre o proveito econômico por este auferido, correspondente à diferença entre o montante postulado na inicial e o que foi efetivamente reconhecido como devido.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. BASE DE CÁLCULO. ART. 85, § 2º, DO CPC/2015. CONDENAÇÃO EM VALOR MENSURÁVEL. PROVEITO ECONÔMICO OBTIDO PELO RÉU IGUALMENTE CALCULÁVEL.
+1. Na vigência do CPC/2015, havendo sucumbência recíproca envolvendo valores mensuráveis, os honorários advocatícios devidos ao advogado do autor devem ser calculados sobre a importância imposta a título de condenação e ao do réu sobre o proveito econômico por este auferido, decorrente da diferença entre a importância postulada na inicial e a que foi efetivamente reconhecida como devida.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.280/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/2/2023, DJe de 22/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. RESTITUIÇÃO. VALORES PAGOS. CONDENAÇÃO. PERCENTUAL. MENOR. PEDIDO. INICIAL. SUCUMBÊNCIA RECÍPROCA. ORIGEM. REDISTRIBUIÇÃO. ÔNUS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AUTORES. BASE DE CÁLCULO. HIPÓTESE. PROVEITO ECONÔMICO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ. Precedentes.
+3. A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o seu § 2º constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+4. Na hipótese, o decaimento dos autores corresponde ao proveito econômico obtido pela ré, que teve reduzido o percentual de ressarcimento dos valores pagos.
+5. No caso, os honorários advocatícios devidos pelos autores em favor dos advogados da parte adversa corresponderá ao percentual de 10% (dez por cento) incidente sobre o proveito econômico obtido, representado pelo resultado da diferença entre o montante pretendido na exordial e o montante efetivamente restituído. Precedente.
+6. Agravo interno provido em parte.
+(AgInt no AREsp n. 1.718.333/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Na espécie, contudo, verifica -se que a Corte local arbitrou a verba honorária devida pela parte autora, em favor do advogado da parte ré, com base no valor da condenação.
+Dessa forma, por estar o acórdão vergastado em dissonância ao entendimento deste Tribunal Superior, de rigor a reforma da decisão, nesse ponto, para alterar a base de cálculo dos honorários sucumbenciais devidos ao advogado da ora insurgente.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento a fim de determinar que seja utilizado, como base de cálculo dos honorários advocatícios devidos pela parte autora, o proveito econômico obtido pela ré.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+,AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS E CONCESSÃO DE USO DE IMAGENS, SOM DE VOZ E NOME ARTÍSTICO PARA UTILIZAÇÃO EM CAMPANHA PUBLICITÁRIA. 1. MULTA CONTRATUAL. PRETENSÃO DE REDUÇÃO EM MONTANTE MAIOR. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. HONORÁRIOS SUCUMBENCIAIS DEVIDOS AO ADVOGADO DA PARTE RÉ. BASE DE CÁLCULO ADEQUADA. PROVEITO ECONÔMICO. REFORMA QUE SE IMPÕE. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
