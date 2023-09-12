@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de ação de cumprimento de sentença. Na sentença julgou-se procedente o pedido . No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 80.133,41 (oitenta mil cento e trinta e três reais e quarenta e um centavos.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO. RESTABELECIMENTODE QUANTITATIVO SALARIAL RETIRADO DOS MILITARES. PRESCRIÇÃO. INOCORRÊNCIA. INCORPORAÇÃO ÀREMUNERAÇÃO. MATÉRIA DE MÉRITO. LIMITES DO TÍTULOJUDICIAL. OBSERVÂNCIA. DECISÃO MANTIDA.1. É de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, o prazo prescricional para a propositura da ação executiva contra a Fazenda Pública, conforme a Súmula150/STF.2. Considerando que o último prazo no mandado de segurança nº698/93 (processo eletrônico n.º 5000002-05.1993.827.0000)transcorreu em 16/06/2021, não decorreu o prazo prescricional de cinco anos em favor da Fazenda Pública, como defende o agravante. 3. Não prospera a alegação de que o reajuste buscado pela parte agravada fora incorporado à sua remuneração, haja vista tratar-se de questão de mérito ultrapassada, pois que a execução deve se ater aos termos do título judicial.4. Recurso conhecido e não provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+(..)
+o prazo para a manifestação da Associação transcorreu in albis na data de 16/06/2021 (evento 163)e o feito foi baixado definitivamente em 02/07/2021 (evento 164). Assim, o prazo prescricional de 5 anos não se operou, tendo em vista que o termo inicial para execução do acórdão é a data do trânsito em julgado perante este Tribunal de Justiça.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
