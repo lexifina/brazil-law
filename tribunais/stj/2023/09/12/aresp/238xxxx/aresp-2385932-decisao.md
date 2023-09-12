@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por CLAYTON CARVALHO SILVEIRA e LEONARDO DOS REIS MEDEIROS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -AVAL PRESTADO POR ANTIGOS MEMBROS DO CONSELHO ADMINISTRATIVO DE COOPERATIVA - EXTINÇÃO - IMPOSSIBILIDADE -ESTATUTO - INOPONIBILIDADE EM RELAÇÃO A TERCEIROS. O fato de aqueles que figuram como avalistas em cédula de crédito bancário não serem mais membros do Conselho de Administração da devedora principal, por si só, não dá ensejo à extinção da garantia prestada, mormente considerando a inexistência de consentimento do credor quanto à exoneração de tal garantia. Disposições estatutárias não ensejam, com relação a terceiros, a modificação da responsabilidade daqueles que assumiram, no título executivo, a condição de avalistas. (TJMG -Agravo de Instrumento-Cv 1.0000.22.071155-0/001, Relator(a): Des.(a) José de Carvalho Barbosa, 13ª CÂMARA CÍVEL, julgamento em 25/08/2022, publicação da súmula em 29/08/2022)" (fl. 350 e-STJ).
+No recurso especial, os recorrentes alegam a violação do artigo 1.154 do Código Civil.
+Sustentam que
+"(..) é fato incontroverso a existência dos referidos dispositivos, bem assim, que os recorrentes não fazem mais parte da diretoria, por conseguinte não são mais responsáveis pelos avais prestados, não possuindo qualquer obrigação ao pagamento da execução, visto que conforme cláusula prevista em estatuto os novos membros assumem todas as obrigações contraídas pelos membros anteriores, inclusive os avais" (fl. 364 e-STJ).
+Alegam ser "evidente que o recorrido tinha pleno conhecimento do teor do estatuto, este registrado em junta comercial desde 10/04/2019" (fl. 364 e-STJ).
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Verifica-se que o Tribunal de origem não se manifestou acerca do conteúdo normativo do art. 1.154 do Código Civil, tampouco foram opostos embargos de declaração para sanar omissão quanto a este ponto. Desse forma, ausente o prequestionamento da matéria, a hipótese atrai a incidência da Súmulas nº 282/STF.
+Ademais, observa-se que a Corte local entendeu que as "disposições estatutárias não ensejam, com relação a terceiros, a modificação da responsabilidade daqueles que assumiram, no título, a condição de avalistas" e que, portanto, "não podem referidas disposições se sobreporem aos contornos formais do título executivo, sendo inoponíveis ao credor" (fl. 356 e-STJ)
+Assim, ainda que superado o óbice, verifica-se que o acórdão recorrido não destoa do entendimento do Superior Tribunal de Justiça no sentido de que a alteração no quadro societário ou, como no caso, no estatuto da cooperativa, não induz à exoneração automática da garantia prestada.
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COBRANÇA DE MULTA CONVENCIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FIADORES. EXONERAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+2. A jurisprudência desta Corte Superior tem entendimento consolidado no sentido de que a retirada dos sócios-fiadores, por si só, não induz à exoneração automática da fiança, impondo-se, além da comunicação da alteração do quadro societário, formulação de pedido de exoneração das garantias.
+3. Para alterar a conclusão alcançada pelo Tribunal de origem, acerca da inocorrência de novação subjetiva, mas mero acréscimo de garantia, seria necessário o reexame do acervo fático-probatório, o que é obstado pela Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno desprovido" (AgInt nos EDcl no AREsp n. 1.801.652/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXONERAÇÃO DE FIANÇA. CONCLUSÃO ESTADUAL NO SENTIDO DA INEXISTÊNCIA DE NOTIFICAÇÃO ACERCA DA DESONERAÇÃO DA FIANÇA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. ALTERAÇÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Na esteira da jurisprudência pacífica do Superior Tribunal de Justiça sobre a questão, a retirada dos sócios-fiadores, per si, não induz à exoneração automática da fiança, impondo-se, além da comunicação da alteração do quadro societário, formulação de pedido de exoneração das garantias, circunstâncias, conforme assentado pela Corte local, não ocorrente na hipótese dos autos. Incidência, no ponto, do enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+2. Há de se reconhecer, por conseguinte, que a pretensão inserta no recurso especial (consistente no preenchimento dos requisitos para a exoneração da fiança, em contrariedade ao que concluiu o Tribunal de origem com esteio nos elementos fático-probatórios e na interpretação das cláusulas contratuais) encontra óbices nos enunciados n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido" (AgInt no REsp n. 1.960.375/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Oportuno registrar que o acolhimento da tese recursal, no sentido de que o recorrido tinha pleno conhecimento do conteúdo do estatuto, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar d os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
