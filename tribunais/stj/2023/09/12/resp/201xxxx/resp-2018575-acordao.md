@@ -1,0 +1,97 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA DE IMÓVEL DE COPROPRIEDADE DA RECORRENTE NÃO CONHECIDA. OPOSIÇÃO DE EMBARGOS DE TERCEIRO. CUMPRIMENTO DE DECISÃO JURISDICIONAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. COMPORTAMENTO CONTRADITÓRIO NÃO CONFIGURADO. DÚVIDA ACERCA DA ANUÊNCIA À DECISÃO IMPUGNADA. PRECLUSÃO LÓGICA AFASTADA.
+1. Ação de despejo por falta de pagamento, em fase de cumprimento de sentença, ajuizada em 26/10/2012, da qual foi extraído o presente recurso especial, interposto em 04/05/2022 e concluso ao gabinete em 16/08/2022.
+2. O propósito recursal é decidir se a oposição de embargos de terceiro antes da interposição de agravo de instrumento contra decisão em que não se conheceu da impugnação à penhora de imóvel de copropriedade da recorrente configura preclusão lógica pela prática de ato incompatível com a vontade de recorrer.
+3. O oferecimento dos embargos de terceiro, em cumprimento à decisão jurisdicional (art. 77, IV, do CPC/2015), não representa conduta espontânea reveladora da aquiescência tácita inequívoca, que, por sua vez, evidencia a prática de ato incompatível com a vontade de dela recorrer.
+4. Havendo dúvida acerca da anuência da recorrente à decisão impugnada - que deve ser inequívoca -, a solução que melhor se amolda à instrumentalidade inerente ao processo civil deve ser no sentido do prosseguimento do julgamento do recurso. Precedentes.
+5. Hipótese em que não há falar em comportamento contraditório da recorrente apto a autorizar o reconhecimento da preclusão lógica.
+6. Recurso especial conhecido e provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos. por unanimidade, conhecer do recurso especial e dar-lhe provimento, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (RELATORA):
+Cuida-se de recurso especial interposto por JAQUELINE WROBLEWSKI, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/PR.
+Ação: de despejo por falta de pagamento ajuizada por ANNA DOMENICA PECORARI em face de PABLO JULIO CARRANZA, em fase de cumprimento de sentença, na qual foi oferecida impugnação à penhora por JAQUELINE WROBLEWSKI.
+Decisão: o Juízo de primeiro grau não conheceu da impugnação oferecida por JAQUELINE, por entender cabíveis os embargos de terceiro, e determinou a sua intimação para regularizar a peça.
+Acórdão: o TJ/PR, à unanimidade, não conheceu do agravo de instrumento interposto por JAQUELINE, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO C/C COBRANÇA. DECISÃO AGRAVADA QUE DETERMINOU QUE AS PRETENSÕES DA AGRAVANTE SEJAM FEITAS EM EMBARGOS DE TERCEIROS. AGRAVANTE QUE OPÔS EMBARGOS DE TERCEIROS, EM CONSONÂNCIA COM A DECISÃO QUE ORA AGRAVA. COMPORTAMENTO CONTRADITÓRIO. RECURSO NÃO CONHECIDO.
+1. A agravante se insurge contra decisão que não analisou sua pretensão, sob o fundamento de que por não ser parte na demanda em questão, deveria opor Embargos de Terceiros. Na sequência, e antes de interpor o presente recurso, a agravante informa que opôs os referidos Embargos, oportunidade em que alega as matérias que pretende serem aqui analisadas, foram submetidas naquela demanda.
+2. O protocolo da ação de embargos de terceiros é incompatível com pretensão exarada neste recurso, tratando-se de comportamento contraditório, eis que cumpriu com o que foi determinado pelo Juízo e agora de tal questão se insurge, deixando claro, portanto, a ocorrência de preclusão lógica.
+Embargos de declaração: opostos por JAQUELINE, foram rejeitados.
+Recurso especial: aponta violação do art. 1000, caput e parágrafo único, do CPC/2015, além de dissídio jurisprudencial.
+Alega que, "ao entender o ajuizamento dos embargos de terceiro como aquiescência tácita com a decisão do juízo de remeter apreciação das nulidades à esta outra via, o v. acórdão violou o artigo 1.000, caput e parágrafo único do CPC, o qual somente entende como aceitação tácita o ato inequivocamente incompatível com a vontade de recorrer", e que "a mera apresentação de outra via de defesa - embargos de terceiro - não pode ser caracterizada como "aceitação tácita"" (fl. 138, e-STJ).
+Sustenta que, "ao ajuizar embargos de terceiro cujo conteúdo abrange diversas matérias - e não somente da nulidade - não é possível extrair aceitação inequívoca pela recorrente da decisão que remeteu a apreciação das nulidades processuais aos embargos de terceiro"; que "apenas seria possível, quando muito, aduzir que a conduta da recorrente foi cautelosa, na medida em que, se não apreciada a questão das nulidades no bojo do cumprimento de sentença, não estaria preclusa sua oportunidade de alegar tais nulidades pela via dos embargos de terceiro, juntamente com todas as demais questões a serem apuradas naquela via"; que "a recorrente não poderia aguardar para ajuizar embargos de terceiro, na medida em que estava penhorado bem sobre o qual entende possuir direitos e possuía matéria diversa de defesa, em acréscimo às nulidades processuais"; bem como que, "ao mesmo tempo, não poderia deixar de trazer as nulidades - já alegadas por simples petição no bojo do cumprimento de sentença - também na via dos embargos de terceiro, sob pena de arriscar que a questão não fosse apreciada nos autos principais e fosse entendida como preclusa naquela via" (fl. 139, e-STJ).
+Afirma que, "no mínimo, há dúvida no caso em tela acerca da aceitação tácita pela recorrente da decisão do primeiro grau, e, por isso dever-se-ia ter prosseguido ao julgamento do agravo de instrumento", acrescentando que, "em verdade, no caso em tela, fica claro não ter havido aceitação de forma alguma da decisão em tela" (fl. 141, e-STJ).
+Juízo prévio de admissibilidade: o TJ/PR admitiu o recurso especial.
+É o relatório.
+RECURSO ESPECIAL Nº 2.018.575 - PR (2022/0246577-5)
+RELATORA
+:
+MINISTRA NANCY ANDRIGHI
+RECORRENTE
+:
+JAQUELINE WROBLEWSKI
+ADVOGADOS
+:
+ÉRICO PRADO KLEIN - PR070041
+ANDRE FELIPE PORTUGAL - PR070096
+DIANA DE SOUZA FERNANDES - PR097643
+BRUNA SCHWEITZER MEDINA - PR108501
+RECORRIDO
+:
+ANNA DOMENICA PECORARI
+ADVOGADOS
+:
+ELIANE DA COSTA MACHADO ZENAMON - PR013889
+DANIEL RODRIGUES MICHAUD - PR050820
+INTERES.
+:
+PABLO JULIO CARRANZA
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA DE IMÓVEL DE COPROPRIEDADE DA RECORRENTE NÃO CONHECIDA. OPOSIÇÃO DE EMBARGOS DE TERCEIRO. CUMPRIMENTO DE DECISÃO JURISDICIONAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. COMPORTAMENTO CONTRADITÓRIO NÃO CONFIGURADO. DÚVIDA ACERCA DA ANUÊNCIA À DECISÃO IMPUGNADA. PRECLUSÃO LÓGICA AFASTADA.
+1. Ação de despejo por falta de pagamento, em fase de cumprimento de sentença, ajuizada em 26/10/2012, da qual foi extraído o presente recurso especial, interposto em 04/05/2022 e concluso ao gabinete em 16/08/2022.
+2. O propósito recursal é decidir se a oposição de embargos de terceiro antes da interposição de agravo de instrumento contra decisão em que não se conheceu da impugnação à penhora de imóvel de copropriedade da recorrente configura preclusão lógica pela prática de ato incompatível com a vontade de recorrer.
+3. O oferecimento dos embargos de terceiro, em cumprimento à decisão jurisdicional (art. 77, IV, do CPC/2015), não representa conduta espontânea reveladora da aquiescência tácita inequívoca, que, por sua vez, evidencia a prática de ato incompatível com a vontade de dela recorrer.
+4. Havendo dúvida acerca da anuência da recorrente à decisão impugnada - que deve ser inequívoca -, a solução que melhor se amolda à instrumentalidade inerente ao processo civil deve ser no sentido do prosseguimento do julgamento do recurso. Precedentes.
+5. Hipótese em que não há falar em comportamento contraditório da recorrente apto a autorizar o reconhecimento da preclusão lógica.
+6. Recurso especial conhecido e provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (RELATORA):
+O propósito recursal é decidir se a oposição de embargos de terceiro antes da interposição de agravo de instrumento contra decisão em que não se conheceu da impugnação à penhora de imóvel de copropriedade da recorrente configura preclusão lógica pela prática de ato incompatível com a vontade de recorrer.
+1. DA PRECLUSÃO LÓGICA
+1. Dispõe o art. 1.000 do CPC/2015 que a parte que aceitar expressa ou tacitamente a decisão não poderá recorrer, considerando-se aceitação tácita a prática, sem nenhuma reserva, de ato incompatível com a vontade de recorrer.
+2. Barbosa Moreira, na vigência do CPC/1973, já dizia que "é tradicional a regra de que a aquiescência tácita se há de inferir de fatos inequívocos (facta concludentia), inconciliáveis com a impugnação da decisão". (Comentários ao código de processo civil. v. 5. 15ª ed. Rio de Janeiro: Forense, 2009, p. 346-347).
+3. Na mesma linha, Zulmar Duarte de Oliveira Jr., ao comentar o art. 1.000 do CPC/2015, leciona:
+1. Aquiescência à decisão. O juízo de admissibilidade dos recursos é composto de elementos negativos, os ditos requisitos de admissibilidade negativos, a saber, a inexistência de fato impeditivo ou extintivo ao poder de recorrer (BARBOSA MOREIRA, José Carlos. O juízo de admissibilidade no sistema dos recursos civis. Disponível em: <http://download.rj.gov.br/documentos/10112/1233166/DLFE-55106.pdf/REVISTA1976.pdf>. Acesso em: 16 fev. 2017).
+O requisito tem estreita relação com a ausência, inclusive superveniente, do interesse recursal. São impeditivos ao exame do recurso a aquiescência, expressa ou tácita, ao decidido. Temos na aquiescência a aceitação, expressa ou tácita, pela parte da decisão proferida. Enquanto na renúncia a parte foca na disponibilidade da via recursal (art. 999), sem considerações sobre a decisão propriamente dita, na aquiescência mira na decisão, prestando adesão ao decidido, sendo o recurso em si atingido secundariamente pelo efeito consequencial. Fato impeditivo é a ausência de fato que deve concorrer com os fatos constitutivos, a fim de que os últimos produzam seus efeitos imanentes. Temos os fatos constitutivos (causas eficientes) e as causas concorrentes (que devem estar presentes para o normal funcionamento do direito), cuja falta constitui propriamente o fato impeditivo. A disposição impeditiva incide no momento do potencial nascimento do fato constitutivo, impedindo sua eficácia. O fato constitutivo do poder interpor o recurso, decisão desfavorável para parte, não produz sua eficácia ante o fato impeditivo contemporâneo (aquiescência à decisão). Pode-se falar de preclusão lógica no particular. A parte está impedida de recorrer, pois realizou ato não compatível com tal poder nascido com a decisão passível de recurso. É a própria expressão do venire contra factum próprio, albergado atualmente no art. 5º do Código (boa-fé objetiva - GAJARDONI, Fernando da Fonseca; DELLORE, Luiz; ROQUE, Andre Vasconcelos; OLIVEIRA JUNIOR, Zulmar Duarte de. Teoria geral do processo: comentários ao CPC de 2015; parte geral. São Paulo: Forense, 2015, p. 30-31), no que a prática de ato em sentido contrário impede a interposição do recurso.
+1.1. Não se deve ter por aquiescência a prática de ato pela parte em atendimento à decisão, já que assim deve pautar sua conduta processual (art. 77, IV). Também quando a parte pratica atos visando evitar sanções, com a expressa ressalva ao descontentamento sobre o decidido e/ou ao interesse na apresentação do respectivo recurso. O depósito do valor da condenação para fins de isenção da multa é típica hipótese em que não ocorre anuência ao decidido, na forma do § 3º do art. 520 do Código. (GAJARDONI, Fernando da F.; DELLORE, Luiz; ROQUE, Andre V.; JR., Zulmar Duarte O. Execução e Recursos - Comentários ao CPC de 2015 - Vol. 3, 2ª edição. São Paulo: Grupo GEN, 2018. E-book. ISBN 9788530981761. Disponível em: https://stj.minhabiblioteca.com.br/#/books/9788530981761/. Acesso em: 03 ago. 2023 - grifou-se).
+4. No particular, extrai-se do acórdão recorrido que JAQUELINE, antes de interpor o agravo de instrumento contra a decisão que não conheceu da impugnação à penhora por ela oferecida, opôs embargos de terceiro. Fê-lo, importante ressaltar, ante a determinação do Juízo de primeiro grau, nestes termos:
+Primeiramente, tratando-se de terceira interessada, sendo o caso da sra. Jaqueline Wroblewski, a impugnação à penhora deve ocorrer por meio de embargos de terceiro, nos termos do artigo 674, do NCPC.
+Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+§ 1º Os embargos podem ser de terceiro proprietário, inclusive fiduciário, ou possuidor. § 2º Considera-se terceiro, para ajuizamento dos embargos:
+I - o cônjuge ou companheiro, quando defende a posse de bens próprios ou de sua meação, ressalvado o disposto no art. 843 ;
+II - o adquirente de bens cuja constrição decorreu de decisão que declara a ineficácia da alienação realizada em fraude à execução;
+III - quem sofre constrição judicial de seus bens por força de desconsideração da personalidade jurídica, de cujo incidente não fez parte;
+IV - o credor com garantia real para obstar expropriação judicial do objeto de direito real de garantia, caso não tenha sido intimado, nos termos legais dos atos expropriatórios respectivos.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPUGNAÇÃO DO TERCEIRO INTERESSADO. Pretendendo o terceiro, proprietário do bem conscrito - defender a sua posse, deverá fazê-lo mediante oposição de embargos de terceiro, na forma do disposto no art. 674 do NCPC, e não por mera petição nos autos da demanda executiva. Embora pudesse se insurgir contra a constrição mediante agravo de instrumento, ester deveria ter sido interposto no prazo de quinze dias da data em que tomou ciência da penhora, o que não ocorreu na espécie. Agrado de Instrumento não conhecido. (TJ-RS - AI: 70072781313 RS, Relator: Voltaire de Lima Moraes, Data de Julgamento: 22/06/2017, Décima Nona Câmara Cível, Data de Publicação: DJe 26/06/2017)
+Com isso, intime-se a terceira interessada para que regularize a peça de mov. 317.1, nos termos acima. (fl. 886, e-STJ - grifou-se)
+5. É dizer, JAQUELINE, observando o dever que lhe impõe o art. 77, IV, do CPC/2015, cumpriu com exatidão a decisão jurisdicional, razão pela qual o seu comportamento de opor os embargos de terceiro não pode ser interpretado como aquiescência tácita inequívoca, inconciliável com a impugnação pela via do agravo de instrumento.
+6. Com efeito, o oferecimento dos embargos de terceiro, nessas circunstâncias, não representa conduta espontânea reveladora da aquiescência tácita inequívoca que, por sua vez, evidencia a prática de ato incompatível com a vontade de recorrer. Não há falar, portanto, em comportamento contraditório de JAQUELINE apto a autorizar o reconhecimento da preclusão lógica.
+7. A propósito, a Terceira Turma, ao examinar situação assemelhada, decidiu que "a apresentação de embargos à execução representou medida necessária a fim de evitar a preclusão do direito de defesa naquela seara, não havendo nenhuma margem para a interpretação dada pelo Tribunal de origem de que o mencionado ato processual configure aceitação tácita da decisão agravada ou eventual desistência do recurso interposto" (REsp 1.655.655/SP, julgado em 25/06/2019, DJe de 01/07/2019).
+8. Ademais, na ocasião do julgamento, registrou o e. Relator, Ministro Villas Bôas Cueva, que, "havendo dúvida acerca da anuência da recorrente à decisão agravada - que deve ser inequívoca -, a solução que melhor se amolda à instrumentalidade inerente ao processo civil deve ser no sentido do prosseguimento do julgamento do recurso".
+9. Diante desse cenário, deve ser reformado o acórdão recorrido, a fim de que o TJ/PR prossiga no julgamento do agravo de instrumento interposto por JAQUELINE.
+2. DISPOSITIVO
+Forte nessas razões, CONHEÇO E DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos ao TJ/PR a fim de que prossiga no julgamento do agravo de instrumento nº 0048006-85.2021.8.16.0000.
+EMENTA
+VOTO-VOGAL
+O EXMO. SR. MINISTRO HUMBERTO MARTINS:
+Cuida-se de recurso especial interposto por JAQUELINE WROBLEWSKI contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Na origem, cuida-se de ação de despejo por falta de pagamento ajuizada por ANNA DOMENICA PECORARI contra PABLO JULIO CARRANZA, em cumprimento de sentença, na qual foi oferecida impugnação à penhora por JAQUELINE WROBLEWSKI. Não foi conhecida a impugnação por entender a primeira instância que são cabíveis os embargos de terceiro, tendo havido determinação de intimação para fins de regularização de peça. Não conhecido o agravo no Tribunal a quo.
+O voto da ministra relatora foi no seguinte sentido:
+RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À PENHORA DE IMÓVEL DE COPROPRIEDADE DA RECORRENTE NÃO CONHECIDA. OPOSIÇÃO DE EMBARGOS DE TERCEIRO. CUMPRIMENTO DE DECISÃO JURISDICIONAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. COMPORTAMENTO CONTRADITÓRIO NÃO CONFIGURADO. DÚVIDA ACERCA DA ANUÊNCIA À DECISÃO IMPUGNADA. PRECLUSÃO LÓGICA AFASTADA. 1. Ação de despejo por falta de pagamento, em fase de cumprimento de sentença, ajuizada em 26/10/2012, da qual foi extraído o presente recurso especial, interposto em 04/05/2022 e concluso ao gabinete em 16/08/2022. 2. O propósito recursal é decidir se a oposição de embargos de terceiro antes da interposição de agravo de instrumento contra decisão em que não se conheceu da impugnação à penhora de imóvel de copropriedade da recorrente configura preclusão lógica pela prática de ato incompatível com a vontade de recorrer. 3. O oferecimento dos embargos de terceiro, em cumprimento à decisão jurisdicional (art. 77, IV, do CPC/2015), não representa conduta espontânea reveladora da aquiescência tácita inequívoca, que, por sua vez, evidencia a prática de ato incompatível com a vontade de dela recorrer. 4. Havendo dúvida acerca da anuência da recorrente à decisão impugnada - que deve ser inequívoca -, a solução que melhor se amolda à instrumentalidade inerente ao processo civil deve ser no sentido do prosseguimento do julgamento do recurso. Precedentes. 5. Hipótese em que não há falar em comportamento contraditório da recorrente apto a autorizar o reconhecimento da preclusão lógica.
+É, no essencial, o relatório.
+Com relação ao mérito recursal, posiciono-me de acordo com raciocínio jurídico da ministra relatora.
+No caso em tela, é acertada a conclusão no sentido de que o oferecimento dos embargos de terceiro, em cumprimento à decisão jurisdicional, não representa conduta espontânea reveladora da aquiescência tácita inequívoca, que evidenciaria a prática de ato incompatível com a vontade de dela recorrer. Assim, diante da dúvida acerca da anuência da recorrente à decisão impugnada, a melhor solução, diante do princípio da instrumentalidade, é o prosseguimento do julgamento do recurso.
+Ante o exposto, de acordo com o voto da ministra relatora, dou provimento ao recurso especial interposto.
+É como penso. É como voto.
