@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Banco Dacoval S.A. contra decisão que não admitiu o recurso especial, com base no art. 105, III, c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 896):
+EXECUÇÃO DE TÍTULO JUDICIAL. DECISÃO QUE INDEFERIU PEDIDO DE EXPEDIÇÃO DE OFÍCIOS ÀS FINTECHS E BANCOS DIGITAIS. ABRANGÊNCIA PELO SISTEMA SISBAJUD. PRECEDENTES. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 908-912).
+Nas razões do recurso especial, o recorrente alegou divergência jurisprudencial com julgados de outros tribunais acerca do entendimento adotado no acórdão recorrido pela desnecessidade da expedição de ofícios às fintechs e bancos digitais, uma vez que as fintechs apresentadas pelo credor, não se encontram vinculadas ao sistema de bloqueios conveniados (Sisbajud).
+Ao final, pugnou pela necessidade de expedição de ofício às denominadas fintechs comprovadamente não abrangidas pelo sistema Sisbajud, conforme informações do Bacen e do CNJ.
+Contrarrazões apresentadas às fls. 946-951 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 953-954).
+Brevemente relatado, decido.
+Com efeito, em que pese aos argumentos apresentados pelo insurgente, verifica-se das razões do apelo especial, que o recorrente não indicou, de forma clara e precisa, nenhum dispositivo da legislação infraconstitucional que teria supostamente sido contrariado ou objeto de interpretação divergente pelo acórdão recorrido, limitando-se a afirmar, de maneira genérica, que o acórdão recorrido divergiu de outros tribunais ao deixar de expedir ofícios às fintechs, circunstância que inviabiliza a compreensão da controvérsia discutida nos autos.
+Cabe ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Nessas condições, conforme a orientação da jurisprudência do Superior Tribunal de Justiça, constata-se a deficiência da argumentação recursal, justificando a incidência da Súmula n. 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TEMPESTIVIDADE. FUNDAMENTAÇÃO DO RECURSO. DEFICIÊNCIA. SÚMULA Nº 284/STF. BEM DE FAMÍLIA. IMPENHORABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DIVERGÊNCIA. NÃO DEMONSTRAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Entende-se por deficientemente fundamentado o recurso especial quando a tese defendida não se encontra amparada por nenhum dispositivo legal ou quando o artigo de lei invocado não guarda pertinência temática. Súmula nº 284/STF.
+3. Na hipótese, acolher a pretensão recursal quanto à impenhorabilidade do bem de família demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+4. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+5. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+6. Agravo interno não provido. (AgInt no AREsp 1.829.180/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/10/2021, DJe de 15/10/2021 - sem grifo no original )
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+2. Agravo interno não provido. (AgInt no AREsp 1.888.693/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/9/2021, DJe de 4/10/2021)
+Ainda nesse contexto, destaca-se que "a citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ROL TAXATIVO. COBERTURA EXCEPCIONAL. POSSIBILIDADE. ANÁLISE DOS CRITÉRIOS. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. LEI N. 14.454/2002. REFORMA DA DECISÃO AGRAVADA. DESCABIMENTO. DECISÃO MANTIDA.
+ ..
+4. Conforme o entendimento desta Corte Superior, "o recurso especial é recurso de fundamentação vinculada, não sendo aplicável o brocardo iura novit curia. Não cabe ao relator, por esforço hermenêutico, extrair da argumentação qual dispositivo teria sido contrariado" (AgInt no AREsp n. 2.088.796/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 14/11/2022, DJe de 17/11/2022).
+ ..
+(AgInt no AREsp n. 1.915.616/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/4/2023, DJe de 28/4/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INEXIGIBILIDADE DE PROTESTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO INTERPRETATIVO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O dissídio jurisprudencial não foi demonstrado, uma vez que não foi indicado nas razões recursais o dispositivo infraconstitucional tido por violado, exigência essa que deve ser cumprida tanto para o recurso especial interposto com base na alínea a quanto para o manejado com fulcro na alínea c do permissivo constitucional, sendo, portanto, imperiosa a incidência da Súmula nº 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.101.387/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
