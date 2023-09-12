@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JULIO ARILDO CONSTANTE contra a decisão que não conheceu do agravo regimental anteriormente interposto em virtude da intempestividade verificada (fl. 2.092).
+A defesa alega, em síntese, que a decisão embargada padece de omissão e obscuridade, "visto que se prestou somente a sustentar que o Agravo Regimental não merece ser conhecido". Ademais, reitera a irresignação contra a decisão de fls. 2.060-2.064, que não conheceu do agravo em recurso especial (fl. 2.102).
+Intimado, o Ministério Público do Estado de Santa Catarina pugna pela rejeição dos embargos (fls. 2.125-2.129).
+É o relatório. DECIDO.
+Os embargos de declaração possuem fundamentação vinculada à presença de contradição, omissão, obscuridade ou erro material do juízo. Todavia, a pretexto de alegar omissão e obscuridade, o embargante pretende, na verdade, rever o teor das decisões contrárias a seus interesses.
+Ao contrário do alegado, a decisão embargada expôs, fundamentadamente, o motivo pelo qual o agravo regimental não foi conhecido. Veja-se (fl. 2.092, grifei):
+"Compulsando os autos, verifico que o termo inicial para a interposição do agravo regimental se deu no dia 24/03/2023 (sexta-feira), de modo que a parte deveria ter protocolizado a petição recursal até o dia 28/03/2023 (terça-feira).
+Todavia, a defesa só interpôs o aludido recurso no dia 29/03/2023, momento em que já havia se operado a preclusão temporal, conforme certidões de fls. 2069 e 2090."
+Logo, não há qualquer omissão ou obscuridade a ser sanada.
+Outrossim, as razões dos embargos contêm matéria que não se enquadra no art. 619 do Código de Processo Penal, pois a defesa argumenta que a decisão que não conheceu do agravo em recurso especial deveria ser reformada. Trata-se de evidente deficiência da fundamentação, consoante precedentes da Corte Especial:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER VÍCIO NO V. ACÓRDÃO. IMPOSSIBILIDADE DE CONHECIMENTO DOS EMBARGOS DE DECLARAÇÃO.
+I - Nos termos do art. 1.022 do Código de Processo Civil, somente são cabíveis embargos declaratórios para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria haver consideração de ofício ou a requerimento ou, ainda, para correção de erro material, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No presente caso, não são apontados vícios no v. acórdão ora embargado, o que obsta o conhecimento desses aclaratórios. Embargos de declaração não conhecidos" (EDcl no AgInt nos EDcl nos EDv nos EREsp n. 1.256.614/SP, Corte Especial, Rel. Min. Felix Fischer, DJe de 13/09/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF. 2. Embargos de declaração não conhecidos" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+Diante do exposto, não conheço dos embargos de declaração, com advertência de que reiterá-los será considerado expediente protelatório sujeito às sanções previstas em lei.
+Publique-se. Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. DISCUSSÃO ACERCA DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DAS HIPÓTESES DO ART. 619, CPP. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS COM ADVERTÊNCIA DE QUE REITERÁ-LOS SERÁ CONSIDERADO EXPEDIENTE PROTELATÓRIO SUJEITO ÀS SANÇÕES PREVISTAS EM LEI.
