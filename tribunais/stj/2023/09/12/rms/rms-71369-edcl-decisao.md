@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração manejados por Gustavo Tucci Nogueira contra a decisão de fls. 2.758/2.762, mediante a qual se declarou, de ofício, a decadência do direito à impetração.
+Segundo o embargante, "o objeto do presente Recurso Ordinário é o a decisão em Acórdão do Tribunal de Justiça do Estado do Paraná, que conheceu do Mandado de Segurança mas aplicou precedente já modificado por este Superior Tribunal de Justiça, momento em que se levantou a ofensa ao art. 257 da LC 14/82 e art. 489 § 1º inciso VI do CPC, dispositivos que não foram analisados na V. decisão monocrática" (fl. 2.772), pelo que haveria julgamento extra petita.
+Acrescenta que "a competência para dar efeitos concretos ao ato do Conselho da Policia Civil é por meio de ato do Governador do Estado do Paraná, por expressa dicção do art. 238 inciso I da LC 14/82" (fl. 2.726) e, por isso, "até o julgamento do Conselho da Polícia Civil pela demissão do autor, não havia qualquer possibilidade de demonstração de prejuízo à defesa, haja vista que o Embargante poderia ser absolvido, ainda porque iria transcorrer toda a instrução na forma dos artigos 243 e seguintes da Lei Complementar Estadual 14/82, conforme pacífico entendimento da jurisprudência" (fl. 2.727), razões pelas quais requer o acolhimento do recurso integrativo com efeitos infringentes.
+Embargos sem contrarrazões, consoante certidão de fls. 2.738.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conforme prescreve o artigo 1.022, II, do CPC, "cabem embargos de declaração contra qualquer decisão judicial para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Ocorre que, na situação em análise, a decadência do direito à impetração foi reconhecida de ofício e, por isso, o feito foi extinto, sem resolução do mérito.
+Nesse contexto, por óbvio, não deveria - nem mesmo poderia - o julgador examinar a questão que o embargante tem por não tratada, pois indissociavelmente ligada ao mérito da causa, acerca do qual, repita-se, não deveria o Relator pronunciar, porquanto extinguiu o feito sem resolução de mérito, de modo a permitir oportuna rediscussão do alegado direito mediante ação própria, perante juízo competente.
+Logo, não há, neste caso, "omissão de ponto ou questão sobre a qual devia se pronunciar o juízo", o que também elide o cabimento do recurso integrativo, nos exatos termos da lei processual civil.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSÃO DE APOSENTADORIA. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM RESP. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO, FRENTE À CONCESSÃO ADMINISTRATIVA DO PEDIDO. ALEGAÇÃO DO VÍCIO DE OMISSÃO. NÃO OCORRÊNCIA.
+1. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o Órgão Julgador deveria se manifestar, por ser fundamental ao pleno desate da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, Rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 03.03.2021).
+2. De fato, a omissão que autoriza a oposição de embargos de declaração remete à falta de enfrentamento de determinado ponto considerado relevante para o correto deslinde da controvérsia, e não se confunde, contudo, com o resultado adverso aos interesses da parte (EDcl no AgInt no RMS 62.689/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 15.12.2021).
+3. Evidentemente, os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado (EDcl nos EDcl no AgInt no AREsp 1.818.294/RJ, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 15.12.2021).
+4. Embargos de declaração da autora rejeitados.
+(EDcl no AgInt no REsp n. 1.492.831/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, DJe de 7/4/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PROCESSO ADMINISTRATIVO SANCIONADOR. INSIDER TRADING. APLICAÇÃO DE MULTA PELA COMISSÃO DE VALORES MOBILIÁRIOS - CVM. INTERPOSIÇÃO DE RECURSO VOLUNTÁRIO AO CONSELHO DE RECURSOS DO SISTEMA FINANCEIRO NACIONAL - CRSFN. ILEGITIMIDADE PASSIVA DA CVM. PRECEDENTES ANÁLOGOS. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. MULTA DO ART. 1.026, § 2º, DO CPC/2015. SÚMULA N. 7/STJ. AGRAVO INTERNO. OMISSÕES E OBSCURIDADE. NÃO OCORRÊNCIA.
+ ..
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VI - Embargos de declaração rejeitados.
+(EDcl no AREsp n. 1.614.577/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/3/2022.)
+Dessarte, certo é que, neste caso, o argumento do embargante denota, em verdade, tão somente o inconformismo com a solução que lhe pareceu desfavorável e que, por isso, busca reverter. A esse propósito, porém, não se presta o recurso integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
