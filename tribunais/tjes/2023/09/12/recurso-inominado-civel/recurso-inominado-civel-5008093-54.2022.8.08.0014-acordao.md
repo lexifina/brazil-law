@@ -1,0 +1,58 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5008093-54.2022.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MERCADOPAGO.COM REPRESENTACOES LTDA.
+RECORRIDO: ANDRA PEREIRA RODRIGUES
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo a gratuidade da justiça à parte recorrente, visto que preenchidos os requisitos legais.
+
+EMENTA: RECURSO INOMINADO. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. CONSUMIDOR. COBRANÇA INDEVIDA. ALEGA A PARTE AUTORA QUE SOFREU COBRANÇAS INDEVIDAS APÓS TERCEIRO FRAUDADOR OBTER ACESSO À SUA CONTA MANTIDA JUNTO À INSTITUIÇÃO RÉ. RELATA QUE EM PROCESSO AJUIZADO ANTERIORMENTE SOB O Nº 5004140-82.2022.8.08.0014, OBTEVE PROVIMENTO JUDICIAL DETERMINANDO O CANCELAMENTO DAS COBRANÇAS E PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. AFIRMA QUE, MESMO CUMPRINDO A DETERMINAÇÃO DE ESTORNO/CANCELAMENTO DA TRANSAÇÃO FRAUDULENTA, A RÉ INSISTE NAS COBRANÇAS RELATIVAS AOS ENCARGOS GERADOS PELO INADIMPLEMENTO DE REFERIDA CONTA. SENTENÇA DE PISO QUE JULGOU PROCEDENTES OS PEDIDOS AUTORAIS PARA CONDENAR A RÉ NO CANCELAMENTO DOS DÉBITOS E INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 2.000,00. RECURSO INOMINADO DA PARTE RÉ PUGNANDO PELA REFORMA DA SENTENÇA PARA QUE JULGADO IMPROCEDENTE O PEDIDO INDENIZATÓRIO OU, SUBSIDIARIAMENTE, MINORADO O VALOR DA CONDENAÇÃO.
+RECURSO CONHECIDO E IMPROVIDO
+. EMBORA A PARTE REQUERIDA AFIRME QUE NÃO REALIZOU AS COBRANÇAS INDEVIDAS QUE LHE FORAM IMPUTADAS, A AUTORA JUNTA À INICIAL CAPTURAS DE TELAS EM QUE É POSSÍVEL VERIFICAR A EXISTÊNCIA DE SALDO NEGATIVO EM SUA CONTA. A RECORRENTE NÃO JUSTIFICA A ORIGEM DO DÉBITO EM QUESTÃO, LIMITANDO-SE A REPETIR, GENERICAMENTE, QUE ESTORNOU O VALOR DA TRANSAÇÃO FRAUDULENTA. NÃO HAVENDO A PARTE RÉ DEMONSTRADO QUE O DÉBITO DECORRE DE OPERAÇÕES LEGÍTIMAS, DEVE PREVALECER A SENTENÇA CONFORME LANÇADA. VALOR INDENIZATÓRIO QUE NÃO COMPORTA REDUÇÃO.
+MONTANTE QUE ATENDE AO PRINCÍPIO DA PROPORCIONALIDADE, SOBRETUDO CONSIDERANDO-SE QUE HOUVE INSCRIÇÃO DOS DADOS DA AUTORA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO E QUE A REQUERIDA É REINCIDENTE NA FALHA DE PRESTAÇÃO DOS SERVIÇOS DISPONIBILIZADOS À AUTORA, MESMO APÓS CONDENAÇÃO JUDICIAL. CARÁTER PUNITIVO E EDUCATIVO DA INDENIZAÇÃO MORAL.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
