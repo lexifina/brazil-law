@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Yuri Lauan Silva - condenado como incurso no crime de tráfico de drogas, negado o direito de recorrer em liberdade - contra acórdão do Tribunal de Justiça de São Paulo (Habeas Corpus n. 2146683-69.2023.8.26.0000), não comporta seguimento.
+Com efeito, busca a recorrente a revogação da prisão cautelar, imposta pelo Juízo de Direito da Vara Criminal da comarca de São João da Boa Vista/SP (Ação Penal n. 1501756-46.2022.8.26.0568) e mantida na sentença que o condenou à pena de 5 anos de reclusão, em regime fechado, e 500 dias-multa, ao argumento de que a vasta documentação acostada pela defesa nos autos faz presumir que não há nenhum risco em os recorrentes quererem furtar-se da resposta estatal no caso de condenação, bem como demonstram que as demais justificativas do art. 312 do Código de Processo Penal, para manter a prisão, não se impõe ao caso, bem como a autoria atinente ao crime de tráfico de ilícitos também não restou comprovada ou ao menos presumida (fl. 95).
+Ocorre que a negativa de recorrer em liberdade, além de compatibilizada com o regime inicial imputado ao recorrente, encontra-se fundamentada na reiteração delitiva do sentenciado, que teria cometido o delito atual quando em gozo de medida alternativa à prisão pela prática de outro delito de tráfico de drogas (fl. 82), elementos que denotam a periculosidade concreta, capaz de justificar a segregação cautelar para a garantia da ordem pública.
+Em face do exposto, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PERICULOSIDADE CONCRETA EVIDENCIADA PELA REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso a que se nega seguimento.
