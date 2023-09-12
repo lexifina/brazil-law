@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PARANATINGA ENERGIA S A à decisão de fls. 724/725, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A decisão ora embargada está correta no que diz respeito aos dias em que a parte agravante foi intimada da decisão que negou seguimento ao seu recurso especial (em 18/05/2023) e em que protocolizou o aludido recurso (em 09/06/2023).
+Disso resulta que o termo inicial do prazo recursal dar-se-ia em 08/06/2023. Sucede, contudo, que o sistema PJe do próprio Tribunal de Justiça do Mato Grosso estipulou como termo final a data de 12/06/2023 (segunda-feira), senão veja-se:
+ ..
+Tal fato ocorreu porque, além do feriado nacional de Corpus Christi, ocorrido no dia 08/06/2023, houve também ponto facultativo naquela Corte de Justiça em 09/06/2023 (previsto na portaria 1292/2022-PRES).
+Tão somente o feriado nacional ocorrido no dia 08/06/2023 já seria suficiente, por si só, para se atestar a tempestividade do agravo interposto.
+Demais disso, ainda houve ponto facultativo naquela Corte de Justiça em 09/06/2023. A tempestividade do agravo é tão flagrante que o próprio Tribunal a quo emitiu certidão acerca da tempestividade do recurso, considerando, na ocasião, a ocorrência de ambos os feriados (fl. 729).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto ao feriado de Corpus Christi, ressalta-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro.
+Como se percebe, o dia de Corpus Christi (Corpo de Cristo) não está previsto em nosso ordenamento jurídico no âmbito nacional. Nesse sentido: AgInt no AREsp 1867014/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/08/2021; AgInt nos EDcl no REsp 1792664/RJ, relator Ministro Luis Felipe Salmão, Quarta Turma, DJe de 01/07/2021.
+Outrossim, não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020).
+No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco, pois, além de ter trazido apenas um "print" na petição (fl. 729), não há como vinculá-lo ao processo, por sequer possui número de origem, assim como não é possível aferir se o mesmo foi realmente extraído do sistema eletrônico do Tribunal de origem.
+Outrossim, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
