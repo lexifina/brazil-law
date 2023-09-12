@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO DOS SERVIDORES DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - ASSECAS contra decisão de lavra do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. EXTENSÃO AOS INATIVOS. ADOÇÃO DOS MESMOS CRITÉRIOS UTILIZADOS PARA OS SERVIDORES DA ATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO (fl. 991).
+Em seus embargos de declarações, sustenta que "a decisão foi OMISSA em registrar a INVERSÃO DOS ÔNUS SUCUMBENCIAIS tendo em vista que a decisão de 1º grau julgou parcialmente procedentes os Embargos à Execução pois rejeitou a TR para correção monetária mas entendeu pela aplicação da proporcionalidade das aposentadorias, condenando apenas a Associação em honorários sucumbenciais de 8% (oito por cento) sobre a diferença (excesso) decotada (fls. 619/622 e-STJ). Perante o TRF-5ª Região, a Apelação da ASSECAS foi improvida para manter a decisão singular pela aplicação da proporcionalidade das aposentadorias não integrais, ocasião em que os honorários foram majorados de 8% para 9% do proveito econômico (fls. 910/913 e-STJ). Agora, já perante o e. STJ, eis que o Recurso Especial da ASSECAS foi provido para afastar o critério das aposentadorias proporcionais, ou seja, a única questão substancial que o DNOCS ainda figurava como vencedor foi integralmente refutada por esse e. STJ, razão pela qual somente a autarquia recorrida deve ser considerada vencida e deve responder exclusivamente pela sucumbência com a inversão do ônus" (fl. 1001).
+Sem contrarrazões (fl. 1008).
+É o relatório.
+A irresignação merece prosperar.
+A modificação da solução jurídica conferida à lide implica a redistribuição da responsabilidade pelo pagamento de honorários advocatícios e custas processuais.
+No presente caso, considerando o provimento do recurso especial da embargante, não houve menção expressa a respeito da redefinição dos ônus sucumbenciais, o que representa evidente da modificação do resultado do julgamento.
+Ante o exposto, acolho os embargos de declaração para determinar que os ônus da sucumbência, fixados no acórdão recorrido (fls. 910/913), recaiam integralmente sobre o DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS.
+Ademais, determino a majoração dos honorários, em desfavor da parte recorrida, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimações necessárias.
+EMENTA
