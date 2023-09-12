@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, III, alínea a da Constituição Federal de 1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado:
+DIREITO PROCESSUAL CIVIL. Condenação do ERJ. Obrigação de Fazer. Diversos credores, sendo certo que cada qual dos litisconsortes titulariza o respectivo crédito. Honorários do sucumbimento com a mesma correspondência per capita. Correta a decisão que finalizou o procedimento com a expedição dos requisitórios. Manutenção da decisão (fl. 63)
+Os embargos de declaração opostos foram rejeitados (fls. 113/117).
+Em seu recurso especial, aponta violação aos arts. 489, §1, IV; e 1.022, II, ambos do Código de Processo Civil, 23, da Lei 8.906/1994; 41, IV, do Código Civil; e 2º, 267, VI, 568, I, 741, III, todos do Código de Processo Civil de 1973.
+Sustenta: (i) negativa de prestação jurisdicional; (ii) "tendo sido a execução proposta em face de ente dotado de personalidade jurídica própria diversa daquele indicado como réu na ação de conhecimento, esta deverá ser anulada ante a patente ilegitimidade passiva, com o consequente cancelamento dos precatórios e das requisições de pequeno valor" (fls. 133/134) e (iii) "sendo inconteste que o crédito relativo à verba honorária supera o limite de 40 (quarenta) salários -mínimos e que este é de titularidade exclusiva do advogado (o qual, repita-se, até a individualizou na planilha de cálculos), não poderá ser fracionada em várias requisições de pequeno valor" (fl. 137).
+Contrarrazões às fls. 212/224.
+É o relatório.
+A irresignação merece prosperar.
+No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão:
+Correta a decisão que determinara a expedição dos RPV"s para o pagamento dos honorários advocatícios.
+Honorários sucumbenciais em correlação com os credores, litisconsórcio ativo, cada qual titularizando o seu respectivo crédito. Perfeitamente possível.
+Outrossim, também não se entrevê nenhum óbice em relação ao fracionamento da execução. Aqui, pagamento dos honorários advocatícios, através da expedição de RPV"s e quanto aos créditos dos litisconsortes, através de precatório judicial.
+Em suma, inexiste razão plausível à reforma que se almeja.
+À conta do acima, nega-se provimento ao recurso (fl. 63/64).
+A parte ora recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre o fato de que (i) "se não há qualquer dúvida de que, efetivamente, o patrono dos autores procedeu à execução do julgado em face de ente diverso daquele que foi o réu na ação de conhecimento, essa Meritíssima Câmara Cível deveria ter apreciado os argumentos relativos à nulidade do referido procedimento haja vista que o executado (o RIOPREVIDÊNCIA), afinal, não dispunha de legitimidade passiva. A situação acima narrada, conduziria à anulação do precatório, haja vista que, não sendo a autarquia previdenciária legitimada no procedimento de execução, este deveria ter sido extinto sem julgamento de mérito, na forma preconizada pelos artigos 267, VI; 568, I; 741, III, todos do Código de Processo Civil de 1973, vigente à época" (fl. 69) e (ii) " independentemente de se tratar de litisconsórcio ativo facultativo, o titular do crédito é o advogado, não havendo cisão, e, consequentemente, sendo o seu pagamento por requisições de pequeno valor incompatíveis com o artigo 100, §8º, da Constituição da República" (fl. 73).
+Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento a ele feito.
+Verifico a existência de omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil, em relação aos argumento de nulidade da execução em razão da ilegitimidade e de impossibilidade de fracionamento da verba honorária cujo valor ultrapassa o limite de 40 salários-mínimos por requisição de pequeno valor.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
+EMENTA
