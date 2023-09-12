@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JHONATHAN VINICIUS CASSIMIRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 2025974-05.2023.8.26.0000.
+Consta nos autos que o Paciente foi condenado às penas de 12 (doze) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 1.250 (mil, duzentos e cinquenta) dias-multa, no mínimo legal, como incurso no art. 33, caput, da Lei n.º 11.343/2006, porquanto trazia consigo, para fins de mercancia ilícita, 34,620g (trinta e quatro gramas e seiscentos e vinte miligramas) de maconha, 11,772g (onze gramas e setecentos e setenta e dois miligramas) de cocaína e 7,230g (sete gramas e duzentos e trinta miligramas) de crack.
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento.
+No julgamento do REsp n. 1.847.330/SP, dei provimento ao recurso especial interposto pela Defesa, para redimensionar as penas para 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial fechado, e 625 (seiscentos e vinte e cinco) dias-multa, em decisão assim ementada:
+"RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (34,620G DE MACONHA, 11,772G DE COCAÍNA E 7,230G DE CRACK) PENA-BASE ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DOS ANTECEDENTES. PROCESSOS CRIMINAIS EM CURSO. SÚMULA N.º 444 DO STJ. FUNDAMENTO INIDÔNEO. QUANTIDADE DE DROGA NÃO EXACERBADA, QUE NÃO JUSTIFICA, POR SI SÓ, A EXASPERAÇÃO DA BASILAR. MULTIRREINCIDÊNCIA. AUMENTO DA PENA NO DOBRO. DESPROPORCIONALIDADE. REDUÇÃO A 1/4 (UM QUARTO). NECESSIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO."
+A Defesa ajuizou revisão criminal, que não foi conhecida pelo Tribunal de origem.
+Neste writ, a Impetrante alega que não houve fundamentação idônea para o afastamento da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei de Drogas, bem como para a fixação do regime fechado para início de cumprimento da pena.
+Requer, liminarmente e no mérito, a concessão da minorante do tráfico privilegiado e a fixação de regime prisional menos gravoso.
+O pedido liminar foi indeferido à fl. 67.
+Foram prestadas informações às fls. 73-132.
+O Ministério Público Federal manifestou-se às fls. 136-140, opinando pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+No que concerne à minorante do tráfico privilegiado, o Tribunal de origem assim se manifestou sobre o tema (fls. 63-64):
+"E à vista da reincidência, não se havia mesmo cogitar da redução trazida pelo § 4º do artigo 33 da Lei de Drogas, a ser destinada ao chamado praticante eventual, algo que não se afina com a hipótese presente onde o acionado ostenta condenação por fato da espécie.
+Nesses termos, consoante já ficou decidido, "a redução da pena em revisão criminal está condicionada ao comprovado erro técnico ou à injustiça explícita do julgado, caracterizadores, sempre, ainda que indiretamente, de violação do texto ou vontade da lei. Inexistindo violação da lei e não demonstrada antecedente nulidade ou ilegalidade, não se pode, não tem cabimento, deferir revisão criminal para rever os critérios de individualização da reprimenda. Apenas decisão contra-legem autoriza redução da pena em sede revisional" (RJDTACRIM 6/250)."
+São condições para que o condenado faça jus à causa de diminuição prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+No caso, o entendimento do Tribunal de origem está em conformidade com a orientação desta Corte "no sentido de que o reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, sendo certo que a utilização de tal vetor concomitantemente na segunda e terceira fase da dosimetria não enseja bis in idem" (AgRg no HC 630.337/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020). No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. REINCIDÊNCIA. ÓBICE LEGAL. BIS IN IDEM NÃO CONFIGURADO.
+1. O entendimento desta Corte Superior é no sentido de que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado, consoante previsto no art. 33, § 4º, da Lei 11.343/2006, inexistindo bis in idem ante a utilização concomitante na segunda e terceira fases da dosimetria. Precedentes.
+2. Agravo regimental desprovido." (AgRg no AREsp 1.810.760/PR, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021; sem grifos no original.)
+Está também justificado o regime inicial fechado, tendo em vista a pena aplicada e a reincidência do Acusado.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. ACUSADO REINCIDENTE. REGIME INICIAL FECHADO. CABIMENTO. ORDEM DENEGADA.
