@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para não conhecer do recurso especial, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. ART. 195, § 7º, DA CF. AUSÊNCIA DE CEBAS. EXTINÇÃO DE EXECUÇÃO FISCAL. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+I. Inviabilizada a apreciação da imunidade tributária prevista no art. 195, § 7º, da Constituição no recurso especial, sob pena de usurpação da competência da Corte Constitucional.
+II. A jurisprudência do STJ é firme no sentido de que não há violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), quando o julgador se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+III. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+IV. A modificação do valor da verba honorária fixado pelas instâncias de origem esbarra no óbice da Súmula n. 7/STJ, salvo em situações excepcionais, quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes.
+V. No caso, os honorários foram fixados em 5% sobre o valor da causa, isto é, em percentual inferior ao mínimo previsto no § 3º do art. 20 do CPC/1973, não se revelando exorbitante.
+VI. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se, na origem, de execução fiscal ajuizada em face do ABRIGO DO SALVADOR e outro em 9 de agosto de 2007, no valor de R$ 9.737.271,45 (nove milhões setecentos e trinta e sete mil duzentos e setenta e um reais e quarenta e cinco centavos).
+Em exceção de pré-executividade, os executados sustentaram a decadência do crédito constituído e a impossibilidade de cobrança em razão da imunidade tributária prevista no art. 195, § 7º, da Constituição.
+O magistrado de primeira instância, na sentença de fls. 238-245, acolheu a exceção de pré-executividade, extinguindo a execução fiscal em virtude da comprovação da imunidade tributária.
+O Tribunal Regional Federal da 1ª Região, por unanimidade, negou provimento ao recurso de apelação da Fazenda Nacional, conforme acórdão assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL - EXECUÇÃO FISCAL EM VARA FEDERAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ENTIDADE RECONHECIDAMENTE DE FINS FILANTRÓPICOS - ISENÇÃO/IMUNIDADE DA CONTRIBUIÇÃO PREVIDENCIÁRIA - CERTIFICADO DE FILANTROPIA (CEBAS) - REQUISITOS PRESENTES - HONORÁRIOS ADVOCATÍCIOS.
+1. Remessa oficial que se tem por interposta, em razão de a sentença ter sido proferida contra ente púiblico em causa cujo valor discutido supera os 60 salários mínimos.
+2. Se o STF já afirmou que a simples ausência de certificado, por si só, não é obstáculo para o gozo da isenção, entendimento esse seguido pelo STJ, no sentido de que o certificado que reconhece a entidade como filantrópica, de utilidade pública, tem efeito ex tunc - por se tratar de ato declaratório -, o direito à isenção, tanto mais quando a entidade possui o certificado filantrópico, não pode ser tolido ante o singelo argumento de que a entidade não teria comunicado ao Fisco seu status.
+3. Demonstrada pela executada ser entidade filantrópica, com apresentação de CEBAS válido por todo o período cobrado; e o fato de o Fisco se apegar só na singela afirmativa de que a empresa não lhe teria comunicado a obtenção do certificado filantrópico, reconhecer a isenção é medida que se impõe, ante a desproporcionalidade resultante da conseqüência do não reconhecimento dessa atividade.
+4. O CPC (art. 20, "caput", e §4º) determina que os honorários advocatícios devidos ao vencedor "serão fixados consoante apreciação equitativa do juiz atendidas as normas das letras "a" a "c" do" §3º ( a  o grau de zelo do profissional;  b  o lugar de prestação do serviço; e  c  a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço).
+5. Apelação e remessa oficial, tida por interposta, não providas. 5. Peças liberadas pelo Relator, em Brasília, 11 de fevereiro de 2014., para publicação do acórdão
+O Tribunal Regional Federal da 1ª Região não acolheu os embargos de declaração opostos pela Fazenda Nacional, em virtude da ausência dos vícios previstos no art. 535 do CPC/1973.
+No recurso especial de fls. 333-346, a Fazenda Nacional alega violação dos arts. 20, §§ 3º e 4º, e 535, ambos do CPC/1973; e do art. 55 da Lei n. 8.212/1991, na redação conferida pela Lei n. 9.732/1998.
+Sustentou que (1) o Tribunal de origem se recuso a sanar as omissões apontadas em embargos de declaração; (2) a exorbitância do percentual fixado a título de honorários advocatícios; e (3) o cancelamento do CEBAS ocorreu em 11 de novembro de 19993 em virtude da inadimplência de prestação de contas de verbas recebidas.
+O recurso especial não foi admitido na origem, tendo em vista a inexistência de violação do art. 535 do CPC/1973, o fundamento do acórdão recorrido fundar-se em matéria constitucional e a necessidade de reexame do conjunto probatório dos autos, esbarrando no óbice da Súmula n. 7 do STJ.
+Foi interposto, assim, agravo em recurso especial pela Fazenda Nacional, com fundamento no art. 1.042 do CPC/2015, contra decisão do Vice-Presidente do Tribunal Regional Federal da 1ª Região que não admitiu recurso especial.
+Defende a agravante que o recurso especial deve ser conhecido, pois o Tribunal a quo não teria se manifestado sobre a falta das condições exigidas pelo art. 55 da Lei n. 8.212, de 1991, para o gozo da imunidade tributária, não havendo, por conseguinte, pretensão de discussão sobre matéria constitucional.
+Ademais, a agravante pugna pelo conhecimento do recurso especial em relação à violação dos §§ 3º e 4º do art. 20 do CPC/1973, porquanto o óbice da Súmula n. 7 é afastado nos casos em que os honorários advocatícios são fixados em patamar irrisório ou exorbitante.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. ART. 195, § 7º, DA CF. AUSÊNCIA DE CEBAS. EXTINÇÃO DE EXECUÇÃO FISCAL. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+I. Inviabilizada a apreciação da imunidade tributária prevista no art. 195, § 7º, da Constituição no recurso especial, sob pena de usurpação da competência da Corte Constitucional.
+II. A jurisprudência do STJ é firme no sentido de que não há violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), quando o julgador se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+III. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+IV. A modificação do valor da verba honorária fixado pelas instâncias de origem esbarra no óbice da Súmula n. 7/STJ, salvo em situações excepcionais, quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes.
+V. No caso, os honorários foram fixados em 5% sobre o valor da causa, isto é, em percentual inferior ao mínimo previsto no § 3º do art. 20 do CPC/1973, não se revelando exorbitante.
+VI. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Verifico que o agravo em recurso especial não encontra em seu caminho nenhum dos óbices do art. 253, parágrafo único, I, do RISTJ. É dizer, o recurso de agravo atende aos requisitos de admissibilidade, não se acha prejudicado e impugnou especificamente todos os fundamentos da decisão de inadmissibilidade do especial.
+Assim, autorizado pelo art. 1.042, §5º, do CPC, promovo o julgamento do agravo conjuntamente com o recurso especial, passando a analisar, doravante, os fundamentos do especial.
+O recurso especial não deve ser conhecido.
+A questão controvertida foi decidida sob fundamento constitucional, transbordando os limites específicos de cognição do recurso especial.
+Nesse sentido, o acórdão recorrido confirmou a sentença, tendo em vista a declaração de inconstitucionalidade do art. 55 da Lei n. 8.212, de 1991, e o preenchimento dos requisitos previstos no art. 14 do CTN, in verbis:
+Confirma-se a bem construída e fundamentada sentença, mais, notadamente, porque escudada em detida análise dos documentos juntados aos autos, fazendo as devidas correlações entre as datas de concessão dos diversos Certificados de Entidade de Fins Filantrópicos e as datas dos débitos originários da NFLD em questão.
+Eis a sentença, cujos fundamentos integram este julgado:
+"Com efeito, a mera ausência de requerimento formal perante o INSS não tem o condão de descaracterizar a imunidade assegurada nos termos do art. 195, §7º, da CF c/c art. 14 do CRN, máxime porque, no caso concreto, resta incontroverso o fato de que, durante todo o período do débito exequendo (competências 12/2000 a 06/2005), a Executada já possuía o Registro de Entidade de Fins Filantrópicos, fornecido pelo Conselho Nacional de Assistência Social, em conformidade com o inc. II do art. 55 da Lei n.º 8.212/1991 (vide fls. 124/126)."
+A executada, portanto, demonstrou ser reconhecida como entidade filantrópica desde 1997 (f. 124/7). Tem, portanto, garantida a manutenção de sua isenção:
+(..)
+Ora, se o STF já afirmou que a simples ausência de certificado, por si só, não é obstáculo para o gozo da isenção, entendimento esse seguido pelo STJ, no sentido de que o certificado que reconhece a entidade como filantrópica, de utilidade pública, tem efeito ex tunc -por se tratar de ato declaratório -, o direito à isenção, tanto mais quando a entidade possui o certificado filantrópico, não pode ser tolido ante o singelo argumento de que a entidade não teria comunicado ao Fisco seu status:
+(..)
+Assim, considerando que o acórdão recorrido confirmou a sentença no sentido de que a ausência de requerimento formal não descaracterizaria a imunidade prevista no art. 195, § 7º, da Constituição em razão da inexistência de tal exigência no art. 14 do CTN, inclusive se valendo de precedentes do Supremo Tribunal Federal, tem-se inviabilizada a apreciação da questão por este tribunal no recurso especial, sob pena de usurpação da competência da Corte Constitucional.
+Nessa senda, calha transcrever a ementa dos seguintes acórdãos:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA.
+SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca - art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020.)
+Ademais, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), quando o julgador se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese (AgInt no REsp n. 1.841.359/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+O Tribunal a quo enfrentou os argumentos indispensáveis à solução do caso, confirmando a imunidade tributária da executada.
+A Fazenda Nacional não demonstrou a existência de obscuridade, contradição, omissão ou erro material, reiterando o argumento de não comprovação dos requisitos de fruição da imunidade nos termos do art. 55 da Lei n. 8.212, de 1991, o que revela o mero inconformismo com o que foi decidido.
+Impõe-se também o não conhecimento do recurso especial em relação à violação dos §§ 3º e 4º do art. 20 do CPC/1973, por demandar o reexame de matéria fática.
+Atualmente, a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados, sendo obrigatória, nesses casos, a observância dos patamares previstos nos §§ 2º ou 3º do art. 85 do CPC/2015.
+Apenas se admitirá o arbitramento de honorários por equidade quando, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo.
+Ocorre que a condenação ao pagamento de honorários advocatícios ocorreu na vigência do CPC/1973, sendo aplicáveis os §§ 3º e 4º do art. 20.
+Dessa forma, consolidou-se, no julgamento do REsp n. 1.155.125, o entendimento no sentido de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+De fato, é assente no STJ que a modificação do valor da verba honorária fixado pelas instâncias de origem esbarra no óbice da Súmula n. 7/STJ e que tal impedimento sumular é relativizado em situações excepcionais, que se configuram quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes, o que não é o caso dos autos.
+No caso, os honorários foram fixados em 5% sobre o valor da causa, isto é, em percentual inferior ao mínimo previsto no § 3º do art. 20 do CPC/1973, inclusive com a manutenção da verba honorária pelo Tribunal de origem.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+É o voto.
