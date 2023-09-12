@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido de tutela antecedente apresentado por METALÚRGICA W A INDÚSTRIA E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL objetivando a atribuição de efeito suspensivo ao recurso especial interposto contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Rejeição - Cumprimento de Sentença Cédula de crédito bancário - Recuperação Judicial Hipótese em que a obrigação dos devedores solidários é autônoma e independe da situação da empresa em recuperação judicial Alegação de quitação da obrigação e excesso de execução - Matéria levantada no incidente que depende de produção de prova - Exceção de pré-executividade que tem cabimento quando houver irregularidade/nulidade do título executivo, que possa ser caracterizada sem necessidade de dilação probatória Decisão mantida - Recurso não provido" (e-STJ fl. 49).
+Aduz a requerente que o recurso especial interposto na origem, bem como seu respectivo agravo, tem chances de prosperar, pois houve negativa de prestação jurisdicional, tendo o Tribunal deixado de se manifestar quanto à quitação do débito que ora vem sendo cobrado.
+Alega, ainda, que há manifesto excesso de execução, pois o saldo remanescente executado se mostra muito superior em relação ao débito original.
+Afirma que o bem do avalista não pode ser leiloado, pois houve, com o plano de recuperação, a supressão da garantias.
+Argumenta que o imóvel do avalista será leiloado por preço vil, pois a avaliação é do ano de 2021 e o Juízo se recusa a atualizá-la.
+Aponta, no especial, dissídio jurisprudencial e violação dos arts. 489, § 1º, VI, 518, 1.022, incisos I, II e III e parágrafo único, inciso II, do Código de Processo Civil, e 844 do Código Civil, e 49, §2º, c/c art. 126, da Lei nº 11.101/2005.
+Requer
+"(..) o deferimento da tutela provisória de urgência para que seja concedido efeito suspensivo ao presente recurso especial e, assim, seja sobrestada a marcha processual do cumprimento de sentença nº 1000272-89.2016.8.26.0624/01 até o julgamento definitivo da controvérsia em exame por esse C. STJ, determinando-se, assim, a suspensão dos efeitos dos v. acórdãos prolatados" (e-STJ fls. 16/17).
+É o relatório.
+DECIDO.
+Não merece prosperar o pedido formulado.
+Consoante o disposto no art. 300, caput, do CPC, "A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Por outro lado, nos termos do art. 1.029, § 5º, I, do CPC, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+Vale ressaltar, a propósito, que este Tribunal Superior, em casos excepcionais, autoriza a concessão de efeito suspensivo a recurso especial ainda que inadmitido na origem, desde que demonstrada, além da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, a viabilidade de reversão do prévio juízo negativo de admissibilidade.
+Na hipótese, defende a requerente que houve negativa de prestação jurisdicional quanto à quitação da dívida. Entretanto, ao menos nesse juízo provisório, o vício não pode ser observado, tendo em vista a manifestação do Tribunal acerca do tema, a saber:
+"No tocante a alegação de quitação da obrigação, o banco apresentou planilha com saldo remanescente, discriminando o abatimento dos pagamentos feitos, e como constou da r. decisão combatida, o administrador judicial não confirmou a quitação da dívida, ou que ocorreu sua inclusão no plano de recuperação judicial.
+Diferentemente do alegado pelos agravantes, o valor ora perseguido pelo agravado não se trata de acessório, e sim, a toda prova, de valores decorrentes de contratos autônomos, e nesse sentido, a afirmação posta neste recurso depende de prova a ser produzida, situação que não pode ser admitida neste momento, posto que o presente instrumento não possui tal característica por não implicar na possibilidade de produção de provas" (e-STJ fl. 51 - grifou-se).
+As alegações de excesso de execução e de venda por preço vil, de seu turno, exigiriam, ao que parece, o revolvimento de provas vedado em recurso especial (Súmula nº 7/STJ).
+Quanto à submissão do credor, ora requerido, à supressão das garantias, os autos não trazem elementos suficientes à concessão da tutela provisória, tendo em vista a jurisprudência desta Corte que exige anuência expressa (efetiva participação na assembleia e aprovação sem ressalvas) quanto ao plano de recuperação, fato que não está demonstrado nos autos. Ao contrário, o requerente defende a tese de que a anuência expressa é desnecessária (e-STJ fl. 5).
+Ressalte-se, por fim, que a requerente, embora mencione a autorização do juízo para a realização do leilão, não fez prova do dano, com demonstração concreta dos atos expropriatórios, até porque, segundo consta da decisão judicial (e-STJ fl. 98), o leilão está autorizado, mas a expedição de carta de arrematação se encontra suspensa por força de decisão em agravo de instrumento prolatado pela Corte de origem.
+Ademais, nos termos do art. 919, § 1º, do CPC, a suspensão da execução exige caução idônea no âmbito dos embargos.
+Assim, ausentes os requisitos da concessão da tutela, o pleito de atribuição de efeito suspensivo não deverá ser acolhido, sem prejuízo de que as alegações do recurso especial sejam apreciadas com maior profundidade quando da análise do agravo interposto .
+Ante o exposto, indefiro o pedido.
+Publique-se.
+Intimem-se.
+EMENTA
