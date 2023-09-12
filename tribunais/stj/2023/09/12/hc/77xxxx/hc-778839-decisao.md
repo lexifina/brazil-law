@@ -1,0 +1,62 @@
+DESPACHO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOSSIMAR MAIA, contra julgado proferido pelo Tribunal de Justiça do Estado de Santa Catarina (AGRAVO DE EXECUÇÃO PENAL n. 5033338-48.2022.8.24.0038/SC).
+Consta dos autos que, ao reconhecer a falta grave cometida pelo reeducando, o Juiz da Execução deixou de declarar a interrupção do cumprimento da pena em cada registro de violação do monitoramento eletrônico (total de 58 violações ao monitoramento eletrônico - fl. 36).
+Recorrida a decisão pelo Ministério Público, o recurso foi julgado nos termos do assim ementado (fls. 291-294):
+""AGRAVO EM EXECUÇÃO PENAL - COMETIMENTO DE FALTA GRAVE EM PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO - RECURSO DO MINISTÉRIO PÚBLICO. PLEITO DE RECONHECIMENTO DA INTERRUPÇÃO DO CUMPRIMENTO DA PENA EM CADA VIOLAÇÃO DO MONITORAMENTO ELETRÔNICO - POSSIBILIDADE - OBSERVÂNCIA AO DISPOSTO NO ART. 6º DA RESOLUÇÃO N.412 DO CNJ - PRECEDENTES - DECISÃO REFORMADA.
+Nos moldes do disposto no art. 6º da Resolução n. 412 do CNJ, o período em que o apenado estiver submetido ao monitoramento eletrônico, por saída antecipada ou em substituição à privação de liberdade em estabelecimento penal, só será considerado como tempo de pena cumprida se houver o regular cumprimento das obrigações impostas no momento da inserção do equipamento eletrônico.
+RECURSO PROVIDO."
+Daí o presente habeas corpus, no qual a defesa afirma que o paciente sofre constrangimento ilegal, ante a inexistência de previsão legal para a interrupção da pena a cada violação do monitoramento eletrônico.
+Assere que ""o Paciente permaneceu monitorado, pois não rompeu sua tornozeleira eletrônica. Ademais, as violações apresentadas durante o uso de monitoramento ensejaram o reconhecimento de falta grave com as punições decorrentes previstas em lei" (fl. 7).
+Explica que "o reconhecimento da interrupção do cumprimento da pena, ensejou a dupla punição do Paciente pelo mesmo fato, em evidente violação ao princípio do ne bis in idem: homologa-se a falta grave com a regressão de regime; para além disso, se reconhece a interrupção do cumprimento da pena - dupla sanção pela prática de um fato, de modo a obstaculizar a obtenção dos direitos do Paciente"" (fl. 8).
+Requer-se, inclusive liminarmente, a concessão de habeas corpus, reconhecendo-se a ilegalidade do acórdão prolatado pelo TJSC, para o fim de negar a interrupção no cumprimento da pena do Paciente. Outrossim, pleiteia, ao final, o restabelecimento da decisão de primeiro grau.
+O Ministério Público Federal, às fls. 359-363, oficiou pela denegação da ordem, em parecer assim ementado:
+""HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS PARA A CONCESSÃO DO BENEFÍCIO. INTERRUPÇÃO DO CUMPRIMENTO DA PENA EM CADA VIOLAÇÃO DO MONITORAMENTO ELETRÔNICO. POSSIBILIDADE. DEVER DO CONDENADO DE CUMPRIR TODAS AS DETERMINAÇÕES INERENTES À EXECUÇÃO DE SUA PENA.
+Parecer pelo não conhecimento da impetração.""
+É relatório. DECIDO.
+Como relatado, busca a defesa tão somente afastar as sanções aplicadas ao apenado, que teve falta grave homologada por violação dos deveres impostos quando em monitoramento eletrônico.
+De início, importante esclarecer que a violação de condições impostas, mesmo sob vigilância de tornozeleira eletrônica, em tese, importa sim em falta grave (art. 50, V, da Lei de Execução Penal:
+"Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+(..)
+V - descumprir, no regime aberto, as condições impostas" (grifei).
+Nesse sentido:
+"De acordo com o art. 50, VI, da LEP, comete falta grave o condenado à pena privativa de liberdade que inobservar as ordens recebidas (art. 39, V, da LEP), como é a hipótese de violação da zona de monitoramento" (AgRg no REsp n. 1.798.047/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/05/2019)" (AgRg no HC n. 523.800/SP, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo, Des. Convocado do TJPE, DJe de 21/10/2019).
+"O Superior Tribunal de Justiça possui o entendimento de ser taxativo o rol de faltas graves previsto no art. 50 da Lei de Execução Penal, não sendo cabível a realização de interpretação extensiva ou complementar a fim de ampliar o alcance das condutas ali previstas. Precedentes. In casu, o paciente, durante o cumprimento de pena em regime aberto mediante o uso de tornozeleira eletrônica, violou o perímetro estabelecido como condição do benefício pelo Juízo da execução. Como houve, ao menos em tese, desrespeito às condições impostas no regime aberto, fato previsto como passível de configurar falta grave, nos termos do art. 50, V, da Lei de Execução Penal, não há falar em constrangimento ilegal decorrente da instauração de processo administrativo disciplinar com a finalidade de apurar a ocorrência desse tipo de infração (..)" (HC n. 481.699/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 19/3/2019).
+No caso dos autos (fl. 37):
+"Na espécie, nota-se que por 58 (cinquenta e oito) vezes/dias o apenado não cumpriu efetivamente com as suas obrigações (evento 14 na origem - SEEU), porquanto violou por 8 (oito) vezes a sua área de inclusão e, ainda, envelopou a tornozeleira eletrônica em 50 (cinquenta) oportunidades distintas, sendo incabível, dessa forma, o cômputo de tais ocorrências como pena devidamente cumprida."
+Sobre a sanção aplicada, ao fim, em razão de a parte paciente ter deixado de cumprir as orientações quanto ao uso do dispositivo de monitoramento eletrônico, foi homologada a falta grave, regredido o regime imposto, declarada a perda de dias remidos e alterada a data-base para fins de futuras progressões de regime (fls. 36-37):
+"(..) reconheceu a falta grave praticada pelo reeducando. Como consequência, determinou a regressão do regime prisional, alterou a data-base para o dia da recaptura, decretou a perda de 1/4 dos dias remidos, deixando, contudo, de declarar a interrupção do cumprimento da pena em cada registro de violação do monitoramento eletrônico, pleito que havia sido formulado pelo Ministério Público em 12.07.2022 (evento 73.1 na origem -SEUU), gerando, portanto, a interposição do presente reclamo.
+(..) a decisão ora combatida merece ser reformada, de modo a determinar que, tal como requerido pelo agravante, seja reconhecida a interrupção do cumprimento da pena na razão de 1 (um) dia para cada registro de violação do dispositivo eletrônico, (..) forçoso apontar que o reconhecimento da interrupção da pena não pode ser confundido com o reconhecimento da falta grave e a consequente aplicação das sanções legalmente previstas (..) ele ainda deve ter o cômputo da sua pena interrompido nos dias de descumprimento das suas obrigações."
+Nesse contexto, explico que, não obstante a homologação da falta grave, a Lei de Execuções Penais ainda prevê as penalidades a serem impostas nos casos de violação das regras do monitoramento eletrônico, verbis:
+"Art. 146-C. O condenado será instruído acerca dos cuidados que deverá adotar com o equipamento eletrônico e dos seguintes deveres:
+I - receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações;
+II - abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça;
+III - (VETADO);
+Parágrafo único. A violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução, ouvidos o Ministério Público e a defesa:
+I - a regressão do regime;
+II - a revogação da autorização de saída temporária;
+(..)
+VI - a revogação da prisão domiciliar;
+VII - advertência, por escrito, para todos os casos em que o juiz da execução decida não aplicar alguma das medidas previstas nos incisos de I a VI deste parágrafo.
+Art. 146-D. A monitoração eletrônica poderá ser revogada:
+I - quando se tornar desnecessária ou inadequada;
+II - se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave" (grifei).
+Merece destaque também, a contrario sensu, que o art. 6º da Resolução n. 412/2021, CNJ, dispõe que:
+"(..) o período durante o qual a pessoa estiver submetida ao monitoramento eletrônico nos casos de saída antecipada ou em substituição à privação de liberdade em estabelecimento penal, com regular cumprimento das condições impostas, será considerado como tempo de cumprimento de pena, assegurando que o período total de sua aplicação não exceda o tempo para cumprimento do requisito objetivo para a progressão de regime".
+Percebe-se, pois, que, em casos de descumprimento das regras do monitoramento eletrônico, a aplicação de sanções é a medida de rigor, de forma que a aplicação de todos os consectários relativos à falta grave se mostram viáveis, nos termos dos julgados abaixo:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE. COMETIMENTO DE NOVO DELITO. DESCUMPRIMENTO DO USO DE TORNOZELEIRA ELETRÔNICA. DATA-BASE. ALTERAÇÃO. REGRESSÃO DE REGIME. PERDA DOS DIAS REMIDOS. FRAÇÃO MÁXIMA. DECISÃO FUNDAMENTADA. PRECEDENTES DO STJ. SÚMULA 83/STJ. INCIDÊNCIA. AGRAVO IMPROVIDO.
+1. Firmou-se, no Superior Tribunal de Justiça, o entendimento de que o cometimento de falta grave pelo apenado implica a alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação de pena, bem como autoriza a regressão de regime e a revogação de até 1/3 dos dias remidos.
+2. Encontrando-se concretamente fundamentada, ante o cometimento de falta grave, a perda dos dias remidos na fração máxima de 1/3, levando em consideração a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do executado e seu tempo de prisão, ausente violação dos arts. 57 e 127 da LEP.
+3. Agravo regimental improvido" (AgRg no REsp n. 1.817.087/TO, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 3/12/2019, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIOLAÇÃO DE ZONA DE MONITORAMENTO. DESCUMPRIMENTO DE ORDEM RECEBIDA. FALTA GRAVE CONFIGURADA.
+1. Consoante o disposto no art. 50, V, da Lei de Execução Penal, o descumprimento das condições impostas é considerada falta grave, sendo causa de regressão do regime prisional, a teor do art. 118, I.
+2. Nos termos da jurisprudência desta Corte Superior, a violação da zona de monitoramento configura falta grave consubstanciada em desobediência de ordem recebida, a ensejar a regressão de regime prisional e a alteração da data-base para nova progressão. Precedentes.
+3. Agravo regimental improvido." (AgRg no HC 673.216/TO, Sexta Turma, Rel. Min. Olindo Menezes, Des. Convocado do TRF1, DJe de 17/12/2021, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DA ZONA DE VIGILÂNCIA. FALTA GRAVE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, o Juízo da Execução Penal, em razão de a Apenada ter deixado de cumprir as orientações quanto ao uso do dispositivo de monitoramento eletrônico (permanência fora da área de inclusão no dia 20/12/2020), homologou a falta grave com fundamento no art. 50, inciso VI, da LEP, regrediu o regime imposto para o fechado, declarou a perda de 1/3 (um terço) dos dias remidos e alterou a data-base para fins de futuras progressões de regime.
+2. Os fundamentos consignados pelas instâncias ordinárias para caracterizar a conduta como falta grave não se mostram desarrazoados ou ilegais, uma vez que o Reeducando em monitoramento eletrônico deve observar as condições e limites estabelecidos para deslocamento. Tal infração, nos termos do art. 50, inciso VI, c.c. o art. 39, inciso V, ambos da Lei de Execução Penal, caracteriza falta de natureza grave. Precedentes.
+3. Agravo regimental desprovido." (AgRg no HC 725.209/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 22/3/2022, grifei).
+Como se observa, a sanção de perda de um dia de pena para cada violação sequer se mostrou desarrazoada, de forma a não se verificar o constrangimento ilegal apontado, tendo em vista que a perda dos dias remidos, em geral, pode ocorrer até 1/3 do total.
+Ante o exposto, denego o habeas corpus, com recomendação de que o Juiz da Execução reveja se o total de 58 dias ultrapassaria a penalidade máxima de 1/3 dos dias a serem remidos - situação em que tal limite deve ser imediatamente readequado.
+Intime-se a origem para cumprimento da recomendação.
+Publique-se. Intime-se.
+ EMENTA
