@@ -1,0 +1,6 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015: "definir se é possível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL (extensão do entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL)" - (REsps. 1.945.110/RS e 1.987.158/SC - Rel. Min. Benedito Gonçalves), com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma.
+Posto isso, DETERMINO a devolução dos autos ao tribunal a quo, com a devida baixa, a fim de que a Corte de origem proceda ao juízo de conformidade, restando, por conseguinte, prejudicado o exame do recurso especial de fls. 2.585/2.598e, bem como do Agravo em Recurso Especial de fls. 2.684/2.698e.
+Publique-se e intimem-se.
+EMENTA
