@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ CARLOS BERBERI (LUIZ) contra decisão que negou seguimento ao apelo nobre que interpôs.
+Foi apresentada contraminuta (e-STJ fls. 347/370).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, LUIZ alegou violação aos arts. 141, 269, §2º, 371, 489, 492, 525, §1º, II e 1.022, I e II, todos do CPC, ao sustentar (1) a necessidade de retorno dos autos ao Tribunal estadual para que sejam afastada as omissões, obscuridades e contradições existentes no acórdão recorrido; (2) sua ilegitimidade para integrar o polo passivo da execução, em relação aos aluguéis vincendos a partir de 29/11/2011, data de sua saída da posse direta e indireta do imóvel; (3) que suportou cerceamento de defesa pois a intimação é um ato solene, pelo qual é cientificada a parte sobre algum ato processual, sendo necessária sua expedição formal para a parte comparecer em juízo (e-STJ fl. 227); e (4) a nulidade da perícia realizada nos autos.
+(1) Da negativa de prestação jurisdicional
+Em seu inconformismo, LUIZ alegou a violação aos arts. 489, §1º, I, II, III e IV, e 1.022, I e II do CPC, defendendo que o acórdão recorrido foi omisso, obscuro e contraditório ao não se manifestar sobre (i) sua ilegitimidade para pagar aluguéis vincendos a recorrida JACQUELINE GUIMBALA BERBERI (JACQUELINE); (ii) a que título continuará obrigado a pagar os aluguéis, se na fase de cumprimento de sentença já não estava mais na posse do bem; (iii) a falta da devida intimação da decisão da homologação da perícia e julgamento da liquidação da sentença; (iv) os fundamentos para considerar a validade da perícia; e (v) a razão pela qual o excesso de execução não pode ser apurado em sede de exceção de pré-executividade.
+Todavia, de omissão não se pode falar pois o TJPR sobre eles foi expresso ao consignar que:
+Assim, malgrado os argumentos esposados pelo agravante, vislumbra-se que o seu procurador foi regularmente intimado de todos os atos processuais praticados, não podendo valer-se de sua desídia para deixar de cumprir a obrigação que lhe foi imposta, mesmo porque a responsabilidade pelo acompanhamento do processo é do próprio advogado.
+ ..
+Desta forma, não há, pelo conteúdo da intimação publicada no Diário da Justiça, como se chegar à conclusão de que o agravante teve cerceado o exercício do direito de defesa e do contraditório, já que a publicação atendeu a todos os requisitos estabelecidos tanto no Código de Processo Civil, quanto no Código de Normas da Corregedoria Geral da Justiça do Estado do Paraná.
+Logo, não há falar-se em cerceamento de defesa.
+O agravante aduz, ainda, que a perícia judicial não poderia ter sido homologada pelo juiz, na medida em que os honorários respectivos terem sido pagos diretamente à perita, comprometendo a sua parcialidade, o procurador do agravante também deixou de ser intimado para acompanhar a perícia.
+Sem razão.
+Isto porque, inobstante o pagamento dos honorários periciais tenha sido realizado de forma direta, é necessário que a parte agravante (quem alega a ocorrência de violação à imparcialidade) demonstre o efetivo prejuízo caso pretenda a decretação de nulidade da perícia realizada, consoante disposto no artigo 282, §1º, do Código de Processo Civil, o 2 que não se verifica.
+Ademais disso, verifica-se dos autos que a própria serventia judicial certificou a inexistência de conta judicial vinculada aos autos, o que certamente prejudicou a realização do depósito das respectivas despesas em Juízo (mov. 1.82).
+Desta forma, ao examinar o trabalho desenvolvido pela perita/avaliadora, sua metodologia e todas as informações angariadas, denota-se que a insurgência recursal guarda tão somente inconformismo para com as conclusões lançadas no laudo de avaliação, o que não é suficiente para alterar a decisão lançada pela eminente magistrada de primeiro grau que homologou os cálculos apresentados.
+É que, repita-se, agindo a avaliadora de forma imparcial e equidistante dos litigantes desprovida de quaisquer interesses econômicos ou jurídicos, o laudo ora confeccionado detém suficiente grau de confiabilidade e deve prevalecer.
+Não há falar-se, portanto, em violação ao princípio da impessoalidade.
+Já no que diz respeito a suposta ocorrência de excesso na execução, cumpre dizer que o colendo Superior Tribunal de Justiça firmou entendimento no sentido de que a exceção de pré-executividade é cabível somente quando a matéria discutida puder ser conhecida de ofício pelo julgador, e em casos que sua análise não dependa de dilação probatória, o que não é ocaso.
+ ..
+Assim, como a controvérsia acerca da ocorrência ou não de excesso na execução depende de produção de provas, mostra-se incabível a análise das arguições do agravante pela via eleita.
+O mesmo ocorre em relação a alegada ilegitimidade do agravante para responder pelos débitos de aluguel devidos após 29/11/2011. Isto porque, e como bem decidiu o juiz da causa "a questão da suposta ilegitimidade da parte excipiente não pode ser agora discutida. É realmente sem sentido que a parte excipiente, intimada nos momentos pertinentes antes da liquidação, tenha se calado diante de tais intimações e, agora, compareça no processo alegando sua ilegitimidade. Ora, há título executivo formado e já liquidado em seu desfavor, sendo manifestamente descabida também esta alegação".
+Ademais disso, a responsabilidade do agravante em relação aos alugueres devidos à agravada já foi amplamente discutida ao longo do processo de conhecimento, não cabendo nova análise da questão neste momento, sob pena de violação a coisa julgada (e-STJ, fls. 113/116)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, as alegadas violações.
+(2) Da ilegitimidade e (3) Do cerceamento de defesa
+LUIZ também aduziu a violação dos arts. 525, §1º, II e 269, §2º do CPC pois, em síntese, não pode ser responsabilizado pelo pagamento dos aluguéis vincendos requeridos por JACQUELINE, e suportou cerceamento de defesa uma vez que o inteiro teor da decisão que encerrou a liquidação da sentença não foi publicado.
+Quanto à sua ilegitimidade, o acórdão recorrido foi fundamentado no fato de que há título executivo formado e já liquidado em desfavor de LUIZ, sendo manifestamente descabida esta alegação (e-STJ fl. 116).
+Destaca-se que, apesar das alegações de LUIZ sobre o TJPR não ter lhe dado ciência do correto e completo teor da decisão interlocutória que pôs fim a fundamental fase de liquidação de sentença (e-STJ fl. 227) e a ocorrência de cerceamento de defesa, o v . acórdão recorrido consignou que:
+A respectiva decisão foi veiculada no Diário de Justiça Eletrônico nº 1882/2016, página 725, em 13/09/2016, publicada em 15/09/2016, com início do prazo em 16/09/2016 (mov. 1.9), como adiante se vê:
+ ..
+Assim, malgrado os argumentos esposados pelo agravante, vislumbra-se que o seu procurador foi regularmente intimado de todos os atos processuais praticados, não podendo valer-se de sua desídia para deixar de cumprir a obrigação que lhe foi imposta, mesmo porque a responsabilidade pelo acompanhamento do processo é do próprio advogado.
+ ..
+Cabe referir, inclusive, que o item 2.13.14, do Código de Normas da Corregedoria-Geral de Justiça do Paraná dispõe que "as decisões e sentenças serão publicadas somente na sua parte dispositiva, suprimindo-se relatório, fundamentação, data, nome do prolator e expressões dispensáveis".
+Desta forma, não há, pelo conteúdo da intimação publicada no Diário da Justiça, como se chegar à conclusão de que o agravante teve cerceado o exercício do direito de defesa e do contraditório, já que a publicação atendeu a todos os requisitos estabelecidos tanto no Código de Processo Civil, quanto no Código de Normas da Corregedoria Geral da Justiça do Estado do Paraná. (e-STJ fls. 113/114)
+Assim, rever as conclusões quanto à aludida ilegitimidade e ao alegado cerceamento de defesa na hipótese, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto aos pontos.
+(4) Da perícia
+Por fim, LUIZ ainda defendeu a nulidade da perícia realizada nos autos porque a perita foi paga diretamente pela parte recorrida sem ordem judicial e sem provas do pagamento (e-STJ fl. 232).
+Em seu apelo, asseverou que os arts. 371, 141, 492 e 489, §1º e 1022, todos do CPC informam "que é necessário que haja a motivação fática a luz das provas produzidas, em princípio todas as provas devem ser analisadas, caso sendo aceita venha a influenciar no julgamento" (e-STJ fl. 231).
+Comparando as alegações trazidas por LUIZ e os dispositivos legais apontados como violados, se percebe que estes não possuem conteúdo normativo apto a amparar a tese agora defendida.
+Em assim sendo, quanto ao ponto, porque inviabilizada a compreensão da controvérsia, o recurso não pode ser conhecido em virtude da deficiência na sua fundamentação.
+Incide, portanto, a Súmula nº 284 do STF, por analogia.
+Ademais, o acórdão esclareceu que além de LUIZ não ter comprovado qualquer prejuízo em relação ao resultado da perícia, ao examinar o trabalho desenvolvido pela perita/avaliadora, sua metodologia e todas as informações angariadas, denota-se que a insurgência recursal guarda tão somente inconformismo para com as conclusões lançadas no laudo de avaliação, o que não é suficiente para alterar a decisão lançada pela eminente magistrada de primeiro grau que homologou os cálculos apresentados (e-STJ fl. 198), argumentos não impugnados por LUIZ.
+Nesta toada, o conhecimento da questão fica prejudicado pela aplicação, por analogia, das Súmulas nºs 283 e 284 do STF.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e, nessa extensão, a ele NEGAR PROVIMENTO.
+Deixo de majorar os honorários porque incabível na espécie. .
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE ALUGUEL C.C. COBRANÇA. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM RECURSO ESPECIAL. SÚMULA N.º 7 DO STJ. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA Nº 283 DO STF AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NESSÃO EXTENSÃO NÃO PROVIDO.
