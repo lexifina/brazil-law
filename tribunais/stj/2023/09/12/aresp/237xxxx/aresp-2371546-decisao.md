@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por IBITURUNA TV POR ASSINATURA LTDA. (IBITURUNA SERVIÇOS DE MANUTENÇÕES E INSTALAÇÕES LTDA - IBITURUNA SERVIÇOS POR ASSINATURA LTDA) contra decisão do Tribunal de Justiça do Estado do Espírito Santo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 448):
+EMENTA: APELAÇÃO CÍVEL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INEXISTÊNCIA. ICMS. PROVEDOR DE INTERNET. APLICAÇÃO DA SÚMULA 334 DO ST1 AFASTADA. CASO DIVERSO EM QUE O CONTRIBUINTE FOI AUTUADO POR UTILIZAR INFRAESTRUTURA "F Í SICA PRÓPRIA PARA O TRÁFEGO DE DADOS. AUSÊNCIA DE DEMONSTRAÇÃO DE PRESTAÇÃO EXCLUSIVA DE SERVI Ç O DE VALOR ADICIONADO. PRESUNÇÃO ATO ADMINISTRATIVO. DE LEGITIMIDADE E VERACIDADE N Ã O ELIDIDA. RECURSO PROVIDO.
+1. - O apelante demonstrou suficientemente sua irresignação e impugnou especificamente os fundamentos da sentença, de modo que não há que se falar em violação ao princípio da dialeticidade recursal. Ademais, conforme entendimento do colendo Superior Tribunal de Justiça "A repetição dos fundamentos da petição inicial ou da contestação não é motivo suficiente para inviabilizar o conhecimento da apelação quando há demonstração inequívoca das razões e intenção de reforma da sentença, conforme ocorre na presente hipótese." (Aglnt no REsp 1411017, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 04-02-2020, DJe 13-02-2020).
+2. - O colendo Superior Tribunal de Justiça consolidou o entendimento, através da edição do verbete sumular n. 334 de que não incide ICMS no serviço dos provedores de acesso à internet, porque não se caracterizam como serviço de telecomunicação, mas de valor adicionado.
+3. - No caso, autuada por disponibilizar sua infraestrutura física para o tráfego de dados - o que configura serviço de telecomunicação - e deixar de recolher parte do ICMS devido, a apelada não logrou comprovar que seja mera provedora de internet ou mesmo esclareceu a natureza dos serviços que oferta.
+4. - Considerando que os atos administrativos são dotados de presunção de veracidade, legalidade e legitimidade, cabia ao interessado produzir provas hábeis a infirmar tal presunção, ônus do qual não se desincumbiu.
+5. - Recurso provido.
+Os embargos de declaração opostos pela ora recorrente foram rejeitados (e-STJ fls. 246/254).
+No especial obstaculizado (e-STJ fls. 257/288), a recorrente aponta violação dos arts. 489, § 1º, IV, 1.013, § 1º, 1.022, II, todos do CPC/2015, dos arts. 142, 145 e 149 do CTN, e dos arts. 60 e 61 da Lei n. 9.472/1997.
+O recurso especial foi inadmitido em razão da ausência de vício de integração no julgado de origem, do não cabimento de apelo raro alegando violação a texto de Súmula e em face da incidência da Súmula 7 do STJ (e-STJ fls. 319/327).
+Agravo apresentado pela ora recorrente.
+Passo a decidir.
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar especificamente os dois últimos fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida (Redação dada pela Emenda Regimental n. 22, de 2016).
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido" (AREsp 212401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
