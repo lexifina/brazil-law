@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 290):
+MANDADO DE SEGURANÇA FARMÁCIA DE MANIPULAÇÃO VEDAÇÃO À MANIPULAÇÃO DE FÓRMULAS CONTENDO DERIVADOS OU FITO FÁRMACOS À BASE DE CANNABIS RESOLUÇÃO RDC - 327/219 DA ANVISA INADMISSIBILIDADE DISTINÇÃO COM AS FARMÁCIAS SEM MANIPULAÇÃO NÃO AMPARADA EM LEI ORDEM CONCEDIDA SENTENÇA CONFIRMADA.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou satisfatoriamente a respeito do litisconsórcio passivo necessário da Anvisa e remessa dos autos à Justiça Federal (fls. 352-353)
+Quanto às questões de fundo, sustenta: (a) ofensa aos artigos 114 e 115, inciso I, do CPC/2015, 2º, incisos II e III, e § 1º, inciso II, 6º, 7º, inciso III, e 8º da Lei n. 9.782/1999, art. 20 do Decreto n. 8.077/2013, 16, 17 e 18 da Lei n. 8.080/1990 e Súmula 150/STJ, sob os argumentos de que trata-se de hipótese de litisconsórcio passivo necessário da Anvisa; (b) ofensa ao artigo 23 da Lei n. 12.016/2009, sob os argumentos de que há decadência do direitos dos recorridos à impetração de mandado de segurança; (c) ofensa aos artigos 4º e 6º da Lei n. 5.991/1973 e 3º da Lei n. 13.021/2014, sob os argumentos de houve equiparação indevida de farmácias sem manipulação às farmácias com manipulação; (d) ofensa aos artigos 20 e 21 do Decreto-Lei n. 4.657/1942, sob os argumentos de que houve invalidação de Resolução sem indicação de suas consequências jurídicas e administrativas.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 373-374.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, a parte recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de omissão no julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito do litisconsórcio passivo necessário da Anvisa e competência da Justiça Federal para processar e julgar o feito (fls. 300-305)
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, inciso II, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
