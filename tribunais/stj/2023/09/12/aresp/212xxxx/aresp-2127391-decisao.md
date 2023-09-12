@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por JOVINO ANTONIO DOS SANTOS e JOANA DE SOUZA SANTOS, com fundamentado no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CÍVEL. CIVIL, PROCESSUAL CIVIL E CONSTITUCIONAL. PRELIMINAR. NULIDADE. SENTENÇA. ERROR IN PROCEDENDO. INOCORRÊNCIA. MÉRITO. AÇÃO DE USUCAPIÃO. PEDIDO RECONVENCIONAL DE IMISSÃO NA POSSE. IMÓVEL URBANO IRREGULAR. FUNÇÃO SOCIAL DA PROPRIEDADE. NÃO ATENDIMENTO. PRESCRIÇÃO AQUISITIVA DO BEM. NÃO OCORRÊNCIA. USO TRANSVERSO DA USUCAPIÃO. REALIDADE FUNDIÁRIA DO DISTRITO FEDERAL. INVIABILIDADE. IMISSÃO DA PROPRIETÁRIA NA POSSE DA COISA.
+1. Não conhecido agravo de instrumento, inexistente incidência de efeito suspensivo em face da decisão agravada, não há falar em erro de procedimento por não ter o juízo singular concedido novo prazo para recolhimento dos honorários periciais, determinação esta que já constava da decisão objeto do recurso.
+2. Dispensa do justo título e de boa-fé não significa que se deva desconsiderar a função social da propriedade conforme art. 5º, XXIII, CRFB/1988. O uso da propriedade deve atender, além dos direitos individuais do proprietário, ao interesse coletivo. 3.1. Necessidade de observar a proteção socioambiental da propriedade, verificando se a área está nos termos de proteção ao meio ambiente e proteção da cidade sustentável.
+4. Contagem de prazo para usucapir deve ocorrer a partir da regularização do imóvel, quando esse passou a atender às exigências de ordenação urbana, estando apto a viabilizar cumprimento da função social da propriedade urbana. Em outras palavras, considerando a data do registro da escritura pública em 2016 (ID21917622), não há como reconhecer a aquisição da propriedade do imóvel por usucapião porque não preenchido o requisito relativo ao tempo (usucapião ordinária - 10 anos; usucapião extraordinária - 15 anos).
+5. Admitir ação de usucapião de gleba de terra particular e irregular, sem matrícula individualizada, pode se mostrar temerário na realidade fundiária do Distrito Federal, ao viabilizar legitimação, por via transversa, de propriedade em áreas não regularizadas.
+6. Viável a imissão na posse de imóvel cuja propriedade encontra-se provada por meio de escritura pública registrada em cartório.
+7. Recurso conhecido, preliminar rejeitada e, na extensão, desprovido.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 1.993-1.999.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 1.022 do CPC/2015 e 1.238 do Código Civil. Sustenta, em síntese, que: a) o acórdão estadual está omisso e contraditório; e b) a ausência de regularidade do imóvel não obsta o reconhecimento da prescrição aquisitiva.
+É o relatório. Decido.
+A irresignação comporta provimento.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-DF analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+O Tribunal de origem, por maioria de votos, não reconheceu a prescrição aquisitiva do imóvel, por entender que somente deve se contar a posse a partir da regularização do bem, como se infere do trecho abaixo transcrito:
+"No mérito, peço venia para divergir.
+O cerne da controvérsia consiste em definir se se pode reconhecer a JOVINO e JOANA (requerentes) usucapião de imóvel particular regularizado e com registro público somente em 2016 (registro 18.516 do 7º Ofício de Registro de Imóveis - ID 21917622 - MC-01, Módulo 69 Condomínio Império dos Nobres, Setor Habitacional Boa Vista, Sobradinho/DF) - e impedir imissão na posse da atual proprietária do bem (URBANIZADORA PARANOAZINHO S/A).
+Registro, de plano, não se aplicar ao caso sob análise o que definido no IRDR 20160020487363, pois a tese ali firmada restringe-se aos imóveis particulares situados no Setor Tradicional de Planaltina (TJDFT. Acórdão n.1141204, 20160020487363IDR, Relator: NÍDIA CORRÊA LIMA Câmara de Uniformização, Data de Julgamento: 29/10/2018, Publicado no DJE: 05/12/2018. Pág.: 393/395).
+Cabimento ou não de ação de usucapião de imóvel particular sem registro público consubstancia, ainda, o TEMA 1.025 do STJ: "Cabimento de ação de usucapião tendo por objeto imóvel particular desprovido de registro, situado no Setor Tradicional de Planaltina-DF e inserido em loteamento que, embora consolidado há décadas, não foi autorizado nem regularizado pela Administração do Distrito Federal".
+Sobreleva notar que, muito embora se trate de outra área (Planaltina), a afetação do tema pelo Superior Tribunal de Justiça revela a celeuma que envolve a matéria: admitir ação de usucapião de gleba de terra particular e irregular, sem matrícula individualizada, pode se mostrar temerário na realidade fundiária do Distrito Federal, ao viabilizar legitimação, por via transversa, de propriedade em áreas não regularizadas.
+Usucapião é forma originária de aquisição de direito de propriedade. O Código Civil assim define usucapião extraordinária e a ordinária:
+(..)
+Quando o legislador dispensa o justo título, a boa-fé na aquisição da propriedade do imóvel por usucapião extraordinária (art. 1.238, caput, CC), não significa que se deva desconsiderar a função social da propriedade conforme art.5º, XXIII, CRFB/1988. O uso da propriedade deve atender, além dos direitos individuais do proprietário, ao interesse coletivo. É preciso observar a proteção socioambiental da propriedade, verificando se a área está nos termos de proteção ao meio ambiente e proteção da cidade sustentável.
+No que concerne à propriedade urbana, especificamente, a Carta Política de 1988 preconiza:
+(..)
+No caso vertente, os lotes existentes no referido Condomínio permaneceram irregulares desde sua origem até a regularização em 2016 (ID21917622). A pretensão de JOVINO e JOANA (requerentes) é de que seja reconhecida propriedade de área que, até 2016, era irregular e sem registro público (ID21917622) por meio de usucapião.
+Ao contrário do que alegam os requerentes, a contagem do prazo para usucapir deve ocorrer da regularização do imóvel, quando esse passou a atender às exigências de ordenação urbana, estando apto a viabilizar cumprimento da função social da propriedade urbana.
+No sentido:
+(..)
+Ou seja: considerando a data do registro da escritura pública em 2016 (ID21917622), não há como reconhecer, no caso, a aquisição da propriedade do imóvel pela usucapião porque não preenchido o requisito relativo ao tempo (usucapião ordinária - 10 anos; usucapião extraordinária - 15 anos).
+Ademais, usucapião não se presta a divisão de imóvel ou a obtenção de registro individualizado de sua parcela ideal. O Superior Tribunal de Justiça já se manifestou a respeito:
+(..)
+Por outro lado, a pretensão de imissão na posse deduzida em reconvenção por URBANIZADORA PARANOAZINHO S/A (requerida) deve ser acolhida, pois provada a propriedade do imóvel em questão por meio de escritura pública registrada no 7º Ofício de Registro de Imóveis do DF sob o n. 18.516 (ID21917622).
+Quanto ao pedido dos requerentes de indenização pelas benfeitorias erigidas no local (ID21917988), nada a prover, haja vista que tal matéria não foi enfrentada pelo juízo de origem (ID21917984). Analisá-la nesta seara implicaria supressão de instância."
+Contudo, nos termos da jurisprudência desta Corte, a ausência de regularização urbanística da área não obsta a aquisição da propriedade de imóvel particular mediante usucapião. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA Nº 126 DO STJ. JUÍZO DE ADMISSIBILIDADE. CARÁTER BIFÁSICO. IRREGULARIDADE URBANÍSTICA. USUCAPIÃO. TERRA PARTICULAR. IMPEDIMENTO. INOCORRÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A invocação da dignidade da pessoa humana, da função social da propriedade e da moradia, de índole manifestamente constitucional, deixou de ser infirmada mediante a interposição de recurso extraordinário, atraindo o teor da Súmula nº 126 do STJ, que obsta o conhecimento do recurso especial nesse ponto.
+3. O juízo de admissibilidade é bifásico, ou seja, o primeiro juízo realizado não tem o condão de vincular a decisão de admissibilidade do STJ, que é soberana em relação àquele.
+4. A ausência de regularização urbanística da área não obsta a aquisição da propriedade de imóvel particular mediante usucapião.
+Precedente.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.899.850/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. LOTEAMENTO IRREGULAR. IMPEDIMENTO. INOCORRÊNCIA. RATIO DECIDENDI NÃO LIMITADA A PLANALTINA/DF. EMENTA. ERRO MATERIAL. SUPRESSÃO . RECONHECIMENTO DA USUCAPIÃO. ELEMENTOS DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. PROTESTO INTERRUPTIVO. CONTRARRAZÕES. NÃO ALEGAÇÃO. PRECLUSÃO. DECISÃO MANTIDA. AGRAVO INTERNO PROVIDO EM PARTE.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No julgamento do REsp nº 1.818.564/DF, interposto contra o acórdão do TJ/DF que julgou IRDR, firmou-se a seguinte tese: É cabível a aquisição de imóveis particulares situados no Setor Tradicional de Planaltina/DF, por usucapião, ainda que pendente o processo de regularização urbanística.
+3. Embora a tese tenha feito expressa menção ao Setor Tradicional de Planaltina/DF, a referida delimitação tem o condão de restringir a eficácia vinculante do precedente aos lotes sitos naquela região, não se afastando, contudo, a possibilidade de que a ratio decidendi adotada no precedente seja aplicada a outros processos.
+4. A existência de erro material na ementa quanto a localização do lote a ser usucapido impõe sua supressão sem que dela resulte alteração no resultado do julgamento.
+5. Embora não retratadas exatamente as mesmas condições, é possível identificar a delimitação do lote ocupado, inexistindo óbice à aplicação do entendimento que norteou o precedente da Segunda Seção, notadamente porque o colegiado local limitou-se a obstar a usucapião pela falta de regularização da área.
+6. O TJDFT consignou que os agravados detêm a posse desde 2003, afastando a prescrição aquisitiva apenas pelo fato de que não seria possível a contagem do tempo antes da regularização do imóvel, de modo que os elementos constantes do acórdão vergastado eram suficientes para se aferir a prescrição aquisitiva diante do entendimento jurisprudencial do STJ.
+7. A alegação de protesto interruptivo, fato impeditivo do direito do autor não trazido em contrarrazões ao apelo nobre, encontra-se acobertada pela preclusão, insuscetível de exame no presente agravo interno.
+8. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+9. Agravo interno provido em parte para supressão de erro material.
+(AgInt nos EDcl no AREsp n. 1.814.300/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Outrossim, quanto os requisitos para a usucapião, a Corte de origem assim se manifestou:
+No que concerne ao requisito atinente ao tempus estabelecido no artigo 1238, parágrafo único, do CC, observa-se que o termo inicial da prescrição aquisitiva ocorreu em 03/06/1995, data em que os autores passaram a ocupar o imóvel com ânimo de donos, consumando-se, pois, em junho de 2010, após 15 anos de posse ininterrupta e sem oposição.
+Por sua vez, examinando a Escritura de Compra e Venda (ID 21917882 - p.66/68), constata-se que a empresa ré, URBANIZADORA PARANOAZINHO S/A adquiriu a propriedade do imóvel usucapiendo somente em 09/04/2013, ou seja, após a consumação do prazo de 15 anos da prescrição aquisitiva em favor dos autores.
+Assim, fixados os parâmetros do julgamento da ação de usucapião, constata-se que a propriedade originária dos autores foi consolidada em junho de 2010, antes, portanto, da compra da área pela ré, que ocorreu em abril de 2013.
+Em vista de todos esses fundamentos, conclui-se que deve ser declarada a propriedade da autora a partir de junho de 2010, restando evidentemente improcedentes os pleitos formulados na reconvenção, em que se requereu a imissão da ré na posse do imóvel e o pagamento de indenização.
+Sendo assim, observa-se que a decisão está em sentido contrário ao da jurisprudência desta Corte, motivo pelo qual o recurso comporta provimento.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de julgar procedente o pedido inicial para reconhecer a usucapião.
+Em face da sucumbência na ação, condeno a recorrida ao pagamento das custas e honorários, que fixo em 10% sobre o valor da causa. Ante a sucumbência também na reconvenção, arcará a ré com as custas e os honorários correspondentes, que fixo em 10% do valor atribuído à causa na demanda reconvencional.
+Publique-se.
+EMENTA
