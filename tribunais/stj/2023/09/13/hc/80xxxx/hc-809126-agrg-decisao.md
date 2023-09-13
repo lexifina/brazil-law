@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental (e-STJ fls. 75/80) interposto por ROGÉRIO SILVA GUINARD contra decisão de minha lavra (e-STJ fls. 62/65), pela qual NÃO CONHECI da impetração.
+No presente agravo regimental, a defesa requer a reconsideração da decisão agravada ou o provimento do recurso pelo Colegiado esta Corte, de forma a ser concedida a ordem, ainda que de ofício, a fim de corrigir o erro aritmético, fixando-se a pena do Paciente no patamar de 01 (um) ano e 06 (seis) meses de reclusão, quanto ao delito de associação criminosa (e-STJ fl. 79).
+Às e-STJ fls. 70/73, a defesa já havia oposto embargos declaratórios contra a mesma decisão ora agravada, formulando, naquela oportunidade, o mesmo pedido.
+É o relatório. Decido.
+Inicialmente, consigno que não é possível o conhecimento do pedido formulado neste agravo regimental, tendo em vista a preclusão consumativa quando da oposição dos embargos declaratórios pela mesma parte, ante o princípio da unirrecorribilidade recursal.
+Acerca do tema, destaco o seguinte precedente, aplicável ao caso, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO EM DUPLICIDADE. NÃO CONHECIMENTO. PRECLUSÃO CONSUMATIVA. UNIRRECORRIBILIDADE DAS DECISÕES. AGRAVO INTERNO. TEMPESTIVIDADE DO RECURSO ESPECIAL NÃO DEMONSTRADA. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO NA INTERPOSIÇÃO DO APELO. INCIDÊNCIA DO ART. 1.003 DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do Agravo Interno de fls. 666-678, e-STJ, interposto em duplicidade, em razão da preclusão consumativa ocorrida com a interposição prévia do recurso de fls. 649-665, e-STJ, e do princípio da unirecorribilidade das decisões.
+2. Acerca da tempestividade do Recurso Especial, não merece prosperar o argumento da parte recorrente, visto que, de fato, o acórdão recorrido foi publicado no DJe no dia 19.9.2019 (fl. 591, e-STJ). Logo, em respeito ao prazo de 15 dias úteis, previsto no art. 1.003, parágrafo 5º, 1.042 do CPC, é intempestivo o presente Recurso Especial, já que interposto no dia 10.10.2019 (fl. 592, e-STJ). 3. Em virtude de determinação expressa no atual Código de Processo Civil, a jurisprudência do STJ é no sentido de que eventual suspensão do prazo recursal decorrente de ausência de expediente ou de recesso forense e feriados locais, entre outros, deve ser comprovada, durante a interposição do recurso, no Tribunal de origem. 4. Na hipótese dos autos, não houve comprovação, por documento idôneo, quando da interposição do Recurso Especial, de que foram suspensos os prazos processuais no Tribunal de origem nas datas apontadas pelo agravante, razão por que não há como alterar a decisão agravada.
+5. Agravo Interno não provido. (AgInt no AREsp 1740116/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020).
+De outro lado, trata-se de reiteração de pedido, já completamente apreciado no julgamento dos embargos declaratórios anteriormente formulados pela defesa, de forma que fica evidente a perda superveniente de objeto da insurreição.
+Ante o exposto, julgo prejudicado este agravo regimental.
+Intimem -se.
+EMENTA
