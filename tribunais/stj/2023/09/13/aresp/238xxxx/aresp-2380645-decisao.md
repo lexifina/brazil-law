@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por Unimed do Estado de São Paulo - Federação Estadual das Cooperativas Médicas - contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos da ação de tutela cautelar requerida em caráter antecedente, indeferiu o pedido para suspender o reajuste a ser aplicado na mensalidade do plano de saúde.
+A Décima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, apreciando aquele agravo, deu-lhe provimento, consoante acórdão assim ementado (e-STJ, fl. 457):
+AGRAVO DE INSTRUMENTO. TUTELA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE. Insurgência contra decisão que indeferiu o pedido de suspensão de reajuste de plano de saúde dos associados da agravante. Reforma cabível. REAJUSTE CONTESTADO DE 118,11%. Justificativa plausível não extraída do contraditório. Demonstração da sinistralidade crescente ou, NO MÍNIMO, acima do esperado necessária a tão expressivo acréscimo. Decisão reformada. RECURSO PROVIDO.
+O agravo de instrumento interposto não foi conhecido, com a seguinte ementa (e-STJ, fl. 519):
+AGRAVO INTERNO. Plano de saúde. Insurgência quanto ao percentual de reajuste. Sinistralidade. Julgamento do agravo de instrumento ocorrido supervenientemente à interposição do ora analisado agravo interno. Perda do objeto. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 11, 17, 330, III, 485, I e VI, e 489, § 1º, IV, do Código de Processo Civil de 2015; 421 do Código Civil; e 20 e 21 da Lei de Introdução às Normas do Direito Brasileiro - LINDB, sob as seguintes assertivas:
+(i) o Tribunal de origem não analisou os argumentos apresentados pela recorrente, vício caracterizador de ausência de fundamentação do julgado;
+(ii) ausência de interesse de agir para a propositura da cautelar de exibição de documentos, haja vista que todas as solicitações de exibições e de envios de documentos feitas pela recorrida, especialmente os referentes ao reajuste por sinistralidade, foram atendidas e disponibilizadas administrativamente;
+(iii) inobservância dos princípios da liberdade de contratar e da força vinculante dos contratos, tendo em conta que foi tolhida de exercer o seu direito, já reconhecido judicialmente, quanto à aplicação das cláusulas que tratam do reajuste por sinistralidade de pacientes cujo prêmio não faz frente as despesas atuais;
+(iv) os efeitos vinculados a determinação judicial não foram levados em consideração, visto que postergado contrato de alta taxa de sinistralidade, com todos os pacientes sob tratamento sem reajuste e observância da necessidade de equilíbrio contratual;
+(v) imprescindibilidade de uniformização da jurisprudência, com a suspensão do julgado que indeferiu o pleito de suspensão do reajuste por sinistralidade a ser aplicado na mensalidade do plano de saúde dos associados da recorrida.
+Contrarrazões às fls. 572-582 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 629-638 (e-STJ).
+Brevemente relatado, decido.
+De início, observa-se que a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso, cumpre reiterar que o acórdão recorrido apreciou de maneira fundamentada a controvérsia dos autos, tendo apenas decidido de forma contrária à pretensão da parte recorrente.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESOLUÇÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS POR INADIMPLEMENTO CONTRATUAL COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS E DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+ ..
+(AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Outrossim, é pacífico o entendimento desta Corte de que, em regra, não cabe recurso especial contra decisão proferida em liminar ou antecipação de tutela, seja para deferi-la, seja para negá-la, na linha do entendimento contido na Súmula n. 735 do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESFAZIMENTO CONTRATUAL C/C INDENIZATÓRIA. PEDIDO DE TUTELA ANTECIPADA. REQUISITOS. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. INOCORRÊNCIA. TEMPESTIVIDADE AFERIDA EM FATOS E PROVAS. REQUISITOS DA LIMINAR. REFORMA DO JULGADO. IMPOSSIBILIDADE DE ANÁLISE DA MEDIDA EM RECURSO ESPECIAL. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. INVIABILIDADE. APRECIAÇÃO DE QUESTÃO DE DECISÃO LIMINAR OU DE TUTELA ANTECIPADA. SÚMULA Nº 735 DO STF. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A teor do que dispõe a Súmula nº 735 do STF, não cabe recurso extraordinário contra acórdão que defere medida liminar. Desse modo, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. 5. Agravo interno não provido.
+(AgRg nos EDcl no AREsp n. 1.698.885/RS, Relator Ministro Moura Ribeiro, Terceira Turma, DJe 23/2/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES. AUSÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. NECESSIDADE. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ E Nº 735/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+3. Na hipótese, rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ .
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.913.785/PE, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 2/3/2022).
+No tocante aos efeitos vinculados a determinação judicial, o Tribunal estadual expressamente consignou que foi devidamente sopesado "in casu, o "consequencialismo", notadamente quando considerado o potencial patrimonial da operadora quando contraposto ao ônus do reajuste aplicado aos seus beneficiários e à levantada suspeita de abusividades (no curso de uma pandemia - frise-se)" fls. 537-538).
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+No que tange aos demais dispositivos tidos por ofendidos, constata-se que não foram objeto de debate pelas instâncias ordinárias, estando ausente, portanto, o requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Ilustrativamente:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INTERDITO PROIBITÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA DECISÃO AGRAVADA. CABIMENTO.
+1. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 desta Corte.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. "Consoante a jurisprudência do STJ, não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no REsp 1748942/CE, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 24/5/2021).
+5. "É pacífico nesta Corte Superior de Justiça que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos pela parte vencida" (AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP, Relator Ministro Jorge Mussi, Corte Especial, DJe 7/12/2020).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.904.155/AP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ademais, mesmo as questões de ordem pública, em regra conhecíveis de ofício pelo Juiz, não dispensam o requisito do prequestionamento para serem debatidas no âmbito do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PEQUENA PROPRIEDADE RURAL. PENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EXIGÍVEL. AUSÊNCIA. SÚMULA 211/STJ. COPROPRIEDADE. ALIENAÇÃO DA INTEGRALIDADE DE IMÓVEL INDIVISÍVEL. POSSIBILIDADE. RESGUARDO DA FRAÇÃO IDEAL DO TERCEIRO. ART. 843 DO CPC. PRECEDENTE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. O Código de Processo Civil de 2015, ao tratar da penhora e alienação judicial de bem indivisível, ampliou o regime anteriormente previsto no CPC/1973, autorizando a alienação judicial do bem indivisível em sua integralidade, em qualquer hipótese de copropriedade, resguardando os direitos do condômino no produto da alienação. Precedentes.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.921.288/SP, relator Ministr o Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Diante do exposto, conheço do ag ravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. TUTELA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. OBSERVÂNCIA DOS EFEITOS VINCULADOS A DETERMINAÇÃO JUDICIAL. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
