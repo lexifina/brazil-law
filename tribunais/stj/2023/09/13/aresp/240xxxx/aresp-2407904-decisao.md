@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por LETÍCIA ROCHA FARIA , em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, cuja ementa é a seguinte (e-STJ fls. 351):
+APELAÇÃO CRIMINAL. CRIME DE HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. SENTENÇA CONDENATÓRIA. ABSOLVIÇÃO. PROVA SUFICIENTE DA IMPUTAÇÃO. PRESERVAÇÃO. PENA. CORREÇÃO. I- A absolvição da imputação contra a processada pelo crime de homicídio culposo na direção de veículo automotor, tipificado pelo art. 302, § 1º, inciso II, do Código de Trânsito Brasileiro, demonstrada a inobservância do dever de cuidado objetivo, agindo com imprudência, atuando sem a devida atenção, a responsabilidade delituosa, razão do decreto adverso. II - Apenamentos corrigidos. APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE.
+Nas razões do recurso especial (e-STJ fls. 358/368), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 13, 59, 65, inciso III, alínea "b", e 66 do CP e 387 do CPP. Sustenta: (i) a absolvição, tendo em vista a culpa exclusiva da vítima; (ii) a redução do valor da indenização; (iii) a atribuição de efeito suspensivo, no tocante à pena da suspensão de dirigir.
+Apresentadas contrarrazões (e-STJ fls. 610/619), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 629/631), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo e, caso conhecido, pelo seu não provimento (e-STJ fls. 681/684).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, a jurisprudência desta Corte considera que quando a arguição de ofensa aos dispositivos de lei federal é genérica, sem demonstração efetiva da contrariedade, como no presente caso, aplica-se, por analogia, o entendimento da Súmula n. 284/STF.
+Ademais, mesmo que superado tal óbice, o recurso não prosperaria.
+Prosseguindo, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação da envolvida pelo delito do artigo 302, §1º, inciso II, do CTB, bem como o valor da indenização em R$ 8.000,00 (e-STJ fls. 344/348).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição por culpa exclusiva da vítima ou, subsidiariamente, pela redução da indenização, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Por fim, no tocante à atribuição de efeito suspensivo à pena da suspensão da habilitação para dirigir, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo Tribunal de origem, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF .
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
