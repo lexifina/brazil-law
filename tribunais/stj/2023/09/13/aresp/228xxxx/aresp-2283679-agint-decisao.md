@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial da parte em vista da ausência de impugnação ao fundamento da decisão de inadmissão do recurso especial na origem (incidência da Súmula 83/STJ).
+A agravante sustenta que "(..) o Agravo em decisão denegatória de Recurso Especial (fls. 317-323 destes autos), discorre de forma ampla sobre a não aplicação da Súmula 83 desta Corte Superior, pois não se trata, in casu, de matéria pacífica perante este Tribunal." (fl. 351). Acrescenta que "O Tribunal recorrido - com decisão mantida pela Ministra Presidente - somente poderia negar seguimento do Recurso interposto caso o acórdão estivesse de acordo com Tema proferido sob regime dos Recursos Repetitivos julgado por esta Corte Superior." (fl. 351), o que não se verifica na hipótese. Afirma que "(..) esta Corte Superior não possui jurisprudência atualizada e firme no sentido de admitir ou não a tributação do IRPJ e da CSLL sobre os juros moratórios recebidos em face de contratos de terceiros.", sendo que "(..) ao realizar pesquisa de jurisprudência, encontrou somente dois julgados, que são exatamente aqueles apontados na negativa de seguimento do Recurso interposto, dos quais, sob nenhum prisma, representam orientação do Tribunal, considerando que foram julgados em 2017 (REsp 1585465, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 03/10/2017 REsp 1585465, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 03/10/2017) e 2019 (AgInt no REsp 1506225, Relator Min. Gurgel de Faria, Primeira Turma, julgado em 07/10/2019)." (fl. 353). Por fim, trata da violação do art. 5º, inc. LV, da CF/1988.
+Sem impugnação.
+Parecer do MPF às fls. 367-371.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que a parte agravante, nas razões do agravo interposto às fls. 317-323, impugnou satisfatoriamente o fundamento da decisão de inadmissão do recurso especial.
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação da decisão de fls. 344-345, conhecer do agravo em recurso especial (art. 259, §6º, do RISTJ, combinado com o §2º do art. 1021 do CPC/2015).
+Após, voltem-me os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
