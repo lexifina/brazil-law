@@ -1,0 +1,94 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0726269-63.2023.8.07.0000AGRAVANTE(S)ALBINO JOSE DOS SANTOSAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador GETÚLIO MORAES OLIVEIRA
+ Acórdão Nº1758072
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PLANO COLLOR. IPC DE MARÇO/90. TEMA 1.1169 DO STJ. DISTINGUISHING. SUSPENSÃO. INAPLICABILIDADE.
+
+1. Consoante julgados deste eg. TJDFT, nas hipóteses em que o cumprimento de sentença já foi precedido de liquidação de sentença, o Tema n. 1.169 afetado no eg. STJ não se aplica.
+
+2. A prescindibilidade ou não da liquidação prévia do julgado para a apresentação da execução não é objeto de controvérsia nos autos, sendo certo que a parte Ré nem mesmo suscitou a matéria quando de sua contestação.
+
+3. Agravo de instrumento conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, GETÚLIO MORAES OLIVEIRA - Relator, ROBSON BARBOSA DE AZEVEDO - 1º Vogal e SANDRA REVES - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON BARBOSA DE AZEVEDO, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Setembro de 2023
+
+Desembargador GETÚLIO MORAES OLIVEIRARelator
+
+RELATÓRIO
+
+Cuida-se de Agravo de Instrumento tirado de r. decisão que, em liquidação individual de sentença coletiva, relativa ao pagamento da diferença do Plano Collor, determinou a suspensão do processo com base no Tema 1169 do STJ, nos seguintes termos:
+
+(...)
+
+No mérito, os embargos não merecem prosperar.
+
+Sobre a alegação de que a decisão é omissa em relação a matéria discutida no Tema 1169, não se vislumbra o vício apontado.
+
+O Superior Tribunal de Justiça afetou os Recursos Especiais n. 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, como paradigmas da controvérsia repetitiva descrita no Tema 1169, no qual se busca: “Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.”
+
+Nesses termos, a Corte de Justiça determinou a suspensão de todos os processos pendentes, individuais ou coletivos, que tramitam no país e discutem a mesma questão.
+
+Assim, ao contrário do alegado, a decisão embargada promoveu o sobrestamento do cumprimento individual de sentença em observância ao tema afetado em recurso repetitivo.
+
+A definição sobre a admissibilidade do cumprimento de sentença em razão da possibilidade, em tese, de definição do valor da dívida a partir de simples cálculos aritméticos, constitui o cerne da questão em debate no STJ. Por isso, não resta configurado o vício de linguagem alegado.
+
+Pelo exposto, NEGA-SE PROVIMENTO aos embargos.
+
+Em suas razões recursais, o Agravante alega a inaplicabilidade da referida Tese ao caso. Sustenta que a questão em foco não foi suscitada pela ré em sua impugnação, estando preclusa. Acrescenta que o quantum debeatur executado foi apurado com base em simples cálculos aritméticos, na forma do art. 509, § 2º, do Código de Processo Civil, não tendo o devedor alegado qualquer dificuldade em exercer o seu direito ao contraditório e à ampla defesa.
+
+Ao final, requer a atribuição de efeito suspensivo ao recurso e, no mérito, o provimento para a reforma a r. decisão.
+
+Sem preparo, pois a parte é beneficiária da Gratuidade de Justiça.
+
+A liminar foi indeferida (ID 48973478).
+
+Contrarrazões apresentadas pela parte Agravada (ID 49404359).
+
+É a suma dos fatos.
+
+VOTOS
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - Relator
+
+Presentes os requisitos de admissibilidade, conheço do recurso.
+
+O MM. Juiz determinou a suspensão do processo da origem, entendendo que o caso estaria afetado ao Tema 1.169 do STJ, no bojo do qual o STJ determinou a suspensão nacional dos processos que versam acerca da seguinte controvérsia: “Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.”
+
+Ocorre que, consoante julgados recentes deste eg. TJDFT, nas hipóteses em que o cumprimento de sentença já foi precedido de liquidação de sentença, como no caso, o Tema afetado no eg. STJ não se aplica.
+
+Confira-se:
+
+Cuida-se de Agravo de Instrumento, interposto pelo BANCO DO BRASIL S/A contra a decisão que indeferiu o pedido de suspensão do feito até o julgamento do Tema repetitivo n. 1.169 pelo STJ.   A decisão agravada foi proferida nos seguintes termos (ID 151095955, dos autos referência):     O julgamento do Resp 1.978.629, sob o rito dos recursos repetitivos, relaciona-se ao tema 1.169, o qual possui a seguinte ementa: ?definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo magistrado com base no cotejo dos elementos concretos trazidos aos autos?.  De fato, no acórdão de afetação, há decisão determinando a suspensão do processamento de todos os processos que versem sobre a mesma matéria, e tramitem no território nacional, com fundamento no art. 1.037, II, do CPC.  Contudo, a situação não se amolda ao presente caso.   Observa-se que não se trata de cumprimento de sentença, e sim a liquidação provisória por arbitramento.  Então, independentemente da tese firma no julgamento repetitivo, ela não afetara os presentes autos. Acaso considere que a liquidação é obrigatória, ela já está sendo realizada nestes autos. Do contrário, houve excesso de zelo, o que não causa prejuízo às partes.  Forte nesses fundamentos, INDEFIRO o pleito de suspensão.
+
+Nas razões recursais, o agravante alega que o julgamento o julgamento do REsp 1.978.629 (Tema 1.169) está versa sobre prévia liquidação do julgado para o cumprimento de sentença condenatória genérica em demanda coletiva, motivo pelo qual defende a existência de correlação com o feito originário.    Afirma que a suspensão do feito visa evitar nulidade e enriquecimento ilícito do exequente.   Ao final, pugna pela concessão de efeito suspensivo e no mérito, a reforma da decisão para determinar a suspensão do processo até o julgamento do mérito do Tema 1.169 pelo c. STJ.  Preparo efetuado.  Recurso não contrariado.   É o relatório.   Presentes os pressupostos de admissibilidade, conheço do recurso porque previsto no art. 1.015, parágrafo único, do CPC.  O artigo 1.019, inciso I, do CPC, autoriza o relator a atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal.  Como relatado, o agravante pretende reformar a decisão que indeferiu o sobrestamento do cumprimento individual de sentença coletiva, a fim de aguardar o julgamento do Tema 1.169 pelo c. STJ.  No caso em comento, cuida-se de cumprimento sentença coletiva proferida na ação civil pública n. 94.008514-1, que condenou, a União, o Banco Central e o Banco do Brasil, ao pagamento das diferenças apuradas do IPC de março de 1990 (84,32%) e o BTN fixado em idêntico período (41,28%), nos empréstimos de agricultores tomados com o Banco do Brasil na modalidade Cédula de Crédito Rural.   O processo originário está em fase de liquidação individual de sentença, tendo o juiz homologado o laudo pericial complementar de ID 127113874 e fixado líquida a condenação no valor de R$45.771,67, nos termos da decisão de ID 139629131.   Nessas circunstâncias, verifica-se que o julgamento do Tema 1.169 pelo STJ não representa imperativo de sobrestamento do feito.   Importa frisar que não se olvida que há determinação de suspensão do processamento de todos os processos que versem sobre a mesma matéria (Tema 1.169), consoante dispõe o art. 1.037, II, do CPC. Todavia, não se verifica plausibilidade no direito alegado pelo agravante, uma vez que o feito originário se encontra em fase de liquidação do julgado.   Ora, a matéria submetida a exame pelo colendo Superior Tribunal de Justiça (Tema n. 1.169), sob o rito dos recursos repetitivos tem como questão: Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.  Nesse sentido, o que se busca delimitar é a prescindibilidade ou imprescindibilidade da prévia liquidação de sentença, nos casos de sentença condenatória genérica em demanda coletiva ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado.  Em que pese se tratar de cumprimento individual de sentença coletiva, não há nos autos de origem qualquer insurgência do devedor acerca da necessidade de liquidação prévia, o que não justifica o sobrestamento do feito sob o fundamento de necessidade de se aguardar o julgamento do Tema 1.169 pela Corte Superior.   Ademais, não há nos autos determinação para levantamento de valores, o que descaracteriza o alegado perigo de dano ou risco ao resultado útil do processo.  Ante o exposto, INDEFIRO o efeito suspensivo.   Intime-se a parte agravada, nos termos do art. 1.019, inciso II, do CPC.  Comunique-se ao Juízo a quo. Ficam dispensadas as informações.   Publique-se. Intimem-se.    Desembargador FABRÍCIO BEZERRA Relator (07110917420238070000AI, 7ª TURMA CÍVEL, 31/03/2023).
+
+Trata-se de agravo de instrumento interposto por BANCO DO BRASIL S/A contra decisão de id. 146455084 (autos principais), integrada pela decisão de id. 151126948 (autos principais), da lavra do d. Juiz da 5ª Vara Cível de Brasília que, nos autos da Liquidação por Arbitramento (processo nº 0738383-36.2020.8.07.0001), indeferiu o pedido formulado pelo banco ora recorrente para que o feito fosse sobrestado em razão da discussão existente no âmbito do REsp 1.978.629 (Tema 1.169/STJ). Em linhas gerais, o agravante sustenta que o tema afetado ao rito dos recursos repetitivos aborda a questão da prévia liquidação do julgado para o cumprimento de sentença condenatória genérica em demanda coletiva, razão pela qual, na sua perspectiva, a decisão a ser ali proferida terá repercussão direta no objeto da presente demanda. Sendo assim, pugna pela concessão do efeito suspensivo ao recurso, e, no mérito, requer a reforma da decisão recorrida. Preparo (id. 44911886). É o relatório. Decido. À primeira vista, verifico ser cabível o agravo de instrumento, na forma do artigo 1.015, parágrafo único, do Código de Processo Civil, bem como estarem presentes os requisitos genéricos dos artigos 1.016 e 1.017 da norma processual. Com efeito, a possibilidade de atribuição de efeito suspensivo ao recurso ou deferimento da antecipação da tutela é concedida ao relator pelo artigo 1.019, inciso I, da norma processual, quando, diante da possibilidade de risco de dano grave ou de difícil reparação, ficar demonstrada a probabilidade de provimento do recurso. A questão discutida nos autos de origem diz respeito à Ação Civil Pública nº 94.008514-1, que condenou, solidariamente, a União, o Banco Central do Brasil e o Banco do Brasil S/A ao pagamento de diferenças apuradas entre o IPC de março de 1990 (84,32%) e o BTN fixado em idêntico período (41,28%), nos empréstimos de agricultores tomados com o Banco do Brasil na modalidade Cédula de Crédito Rural. O processo encontra-se em fase de liquidação provisória e individual de sentença. O d. Juiz de primeiro grau, por meio da decisão agravada, homologou o laudo pericial para julgar líquida a condenação contra o banco requerido, ora agravante, no valor de R$93.861,28. Em sede de embargos de declaração, o pedido de sobrestamento do processo foi apreciado e indeferido, sob o fundamento de que o ?tema 1169 do STJ afeta as ações que tramitam como cumprimento de sentença, sem a devida liquidação prévia.? (id. 151126948 dos autos principais) A questão submetida a julgamento no Tema Repetitivo 1.169 possui os seguintes contornos:   Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.   Convém pontuar que há determinação de suspensão do processamento de todos os processos que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPC/2015. Contudo, em que pese a argumentação do agravante, numa análise inicial, não identifico plausibilidade na tese recursal, uma vez que o processo originário se encontra justamente na fase de liquidação do julgado, o que, em um juízo de cognição sumária, tem o condão de afastar a presente hipótese do alcance da questão submetida ao rito dos recursos repetitivos. Com estas considerações, INDEFIRO O PEDIDO DE EFEITO SUSPENSIVO. Comunique-se ao d. Juiz a quo. Após, intime-se a parte agravada para, querendo, apresentar contrarrazões. Intimem-se. Brasília/DF, 22 de março de 2023. Desembargadora GISLENE PINHEIRO DE OLIVEIRA Relatora (07104179620238070000AI, 7ª TURMA CÍVEL)
+
+Ademais, a prescindibilidade ou não da liquidação prévia do julgado para a apresentação da execução não é objeto de controvérsia nos autos, sendo certo que a parte Ré nem mesmo suscitou a matéria quando de sua contestação.
+
+A propósito:
+
+AGRAVO INTERNO. APELAÇÃO CÍVEL. SUSPENSÃO. TEMA 1.169. INAPLICABILIDADE. AUSÊNCIA DE DIALETICIDADE NO RECURSO DE APELAÇÃO. REJEIÇÃO. MANUTENÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SINDICATO. LEGITIMIDADE ATIVA. PROCURAÇÕES INDIVIDUAIS. DESNECESSIDADE. INDEFERIMENTO DA PETIÇÃO INICIAL. CASSAÇÃO DA SENTENÇA. MANUTENÇÃO. O tema repetitivo 1.169, do Superior Tribunal de Justiça, não se aplica à hipótese dos autos, pois não é objeto de controvérsia a eventual necessidade de liquidação prévia do julgado executado. Não afronta o princípio da dialeticidade o recurso que impugna os fundamentos da decisão e que apresenta argumentos capazes de, em tese, justificar a alteração da sentença combatida. Nos termos do Tema 823, do Supremo Tribunal Federal, o sindicato possui legitimidade ativa para promover a execução individual da sentença coletiva, na qualidade de substituto processual dos filiados, independentemente de autorização.   (Acórdão 1681120, 07093663020228070018, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 22/3/2023, publicado no PJe: 13/4/2023. Pág.: Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA Nº 32.159/97. SUSPENSÃO COM BASE NO TEMA 1.169 DO STJ. AUSENCIA DE SIMILITUDE FÁTICA. INDEFERIMENTO. BENEFÍCIO DE ALIMENTAÇÃO. LIMITES DA COISA JULGADA. OBSERVANCIA AO DECIDIDO NOS AUTOS DO MANDADO DE SEGURANÇA Nº 7.253/1997. CRITÉRIO DE CORREÇÃO MONETÁRIA. TEMA 810 DO STF. RELATIVIZAÇÃO DA COISA JULGADA. NÃO INCIDENCIA DO ART. 535, §8º DO CPC. TEMA 733 DO STF. INAPLICABILIDADE AS DISCUSSÕES RELACIONADAS A CRITÉRIO DE CORREÇÃO MONETÁRIA. OBSERVANCIA A EC 113/2021. TAXA SELIC A PARTIR DE 09/12/2021. LIBERAÇÃO DA QUANTIA INCONTROVERSA. POSSIBILIDADE. DECISÃO PARCIALMENTE REFORMADA. 1. Mostra-se indevida a suspensão do processo com base no entendimento exarado nos Recursos Especiais Repetitivos nº. 1.978.627/RJ, 1.985.037/RJ e 1.985.491/RJ (Tema 1.169), pois em momento algum de sua impugnação nos autos de origem - nem deste recurso - foi suscitada pelo DISTRITO FEDERAL a inviabilidade do título executivo em razão da necessidade de prévio procedimento de liquidação, questão central debatida naqueles precedentes qualificados. Pedido de suspensão rejeitado. [...] (Acórdão 1674112, 07393294020228070000, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 8/3/2023, publicado no DJE: 20/3/2023. Pág.: Sem Página Cadastrada.)
+
+Assim, em razão do distinguishing entre o precedente citado e o caso dos autos, a r. decisão agravada deve ser reformada.
+
+Ante o exposto, DOU PROVIMENTO AO RECURSO para, reformando a r. decisão agravada, afastar a aplicação do Tema 1.169 do STJ ao caso e determinar o regular andamento do processo da origem.
+
+É o voto.
+
+O Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - 1º Vogal Com o relatorA Senhora Desembargadora SANDRA REVES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNANIME.
