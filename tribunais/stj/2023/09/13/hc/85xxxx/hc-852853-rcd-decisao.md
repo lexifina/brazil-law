@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado pela defesa de GLEY GONDIM DA COSTA JÚNIOR contra decisão monocrática que indeferiu a liminar no habeas corpus impetrado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento do Habeas Corpus n. 1.0000.23. n. 1.0000.23, n. 1.0000.23, n 1.0000.23 e n. 1.0000.23.173020-1/000.
+Em suas razões, a defesa postula a reconsideração da decisão monocrática, reiterando os argumentos previamente expostos nas razões do habeas corpus. Destaca que "A não concessão da liminar, abre margem ao juízo a quo, de continuar a perpetrar os atos para agendar o exame de insanidade mental e submeter o paciente contra sua vontade, mesmo a defesa já se manifestado nos autos que o ora paciente NÃO IRÁ FAZER O EXAME, pois não é obrigado" (e-STJ fl. 1063).
+É o relatório. Decido.
+De início, destaca-se que: Os pedidos de reconsideração carecem de qualquer respaldo no regramento processual vigente. Eles não constituem recursos, em sentido estrito, nem mesmo meios de impugnação atípicos. Por isso, não suspendem prazos e tampouco impedem a preclusão (STF. Segunda Turma. Rcl n. 43.007 AgR/DF, Relator Ministro RICARDO LEWANDOWSKI, julgado em 9/2/2021 - Informativo de Jurisprudência n. 1005).
+Na hipótese, em que pesem os argumentos defensivos, não se vislumbra, ao menos em juízo de cognição sumária, manifesta ilegalidade apta a justificar o deferimento da medida de urgência, uma vez que não foram trazidos argumentos novos capazes de infirmar os fundamentos do decisum impugnado, cuja reconsideração se pretende.
+Importa destacar acerca da legitimidade para a instauração do incidente de insanidade mental, que Quando houver dúvida sobre a integridade mental do acusado, o juiz ordenará, de ofício ou a requerimento do Ministério Público, do defensor, do curador, do ascendente, descendente, irmão ou cônjuge do acusado, seja este submetido a exame médico-legal, nos termos do que preceitua o art. 149 do CPP.
+Outrossim, há dúvida acerca da integridade mental do paciente, constando do acórdão proferido pelo Tribunal de origem a informação que o paciente, segundo consta em laudo médico (ordem n. 03), "apresenta um déficit cognitivo leve a moderado e foi diagnosticado com desvio de conduta" (e-STJ fl. 41).
+Ante o exposto, indefiro o pedido de reconsideração.
+Intimem-se.
+EMENTA
