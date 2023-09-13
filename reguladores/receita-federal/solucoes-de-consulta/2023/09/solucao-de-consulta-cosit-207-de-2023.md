@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 207, de 6 de setembro de 2023
+Assunto: Imposto sobre Produtos Industrializados - IPI
+REPARO. EQUIPAMENTO COM DEFEITO DE FABRICAÇÃO. EXECUÇÃO GRATUITA. GARANTIA EM VIGOR DADA PELO FABRICANTE. PARTES E PEÇAS. SUBSTITUIÇÃO. FATO GERADOR. NÃO OCORRÊNCIA. CRÉDITOS. ANULAÇÃO.
+Não se considera industrialização a operação de reparo de equipamentos, nacionalizados e revendidos no Brasil, que tenham apresentado defeito de fabricação, inclusive mediante a substituição de parte e peças, desde que o reparo seja executado de forma gratuita, ainda que por concessionários ou representantes, em virtude de garantia dada pelo fabricante desses equipamentos. Consequentemente, não haverá incidência do IPI por ocasião da saída do equipamento reparado do estabelecimento executor, ainda que na operação tenham sido empregadas partes e peças. Dessa forma, fica o estabelecimento executor do reparo obrigado a anular, mediante estorno na sua escrita fiscal, o crédito do imposto, porventura lançado, quando da entrada, em seu estabelecimento, das partes e peças aplicadas na operação de reparo.
+EQUIPAMENTO COM DEFEITO DE FABRICAÇÃO. SUBSTITUIÇÃO. OUTRO EQUIPAMENTO. FATO GERADOR. OCORRÊNCIA. RETORNO DO PRODUTO DEFEITUOSO. CRÉDITO.
+A operação de saída de um equipamento novo, importado do exterior, para ser entregue em substituição ao que foi enviado para reparo por ter apresentado defeito de fabricação, dentro do prazo da garantia dada pelo fabricante, está sujeita à incidência do IPI, pois não se enquadra na hipótese descrita no inciso XII do art. 5º do Ripi/2010. Nessa operação, o estabelecimento que der saída ao equipamento é equiparado a industrial e fica obrigado ao pagamento do imposto, quando exigível.
+O estabelecimento equiparado a industrial, contribuinte do imposto, que receber, em retorno, equipamento com defeito de fabricação constatado na vigência da garantia dada pelo fabricante, para ser substituído por outro, tem direito ao crédito do IPI no exato valor constante da nota fiscal que originou a venda do equipamento devolvido, desde que cumpridas as exigências expressas no art. 231 do Ripi/2010.
+Dispositivos Legais: Decreto nº 7.212, de 2010 (Ripi/2010), art. 5º, inciso XII, art. 9º, inciso I, art. 35, inciso II, art. 225, art. 254, inciso I, alínea "e" , art. 229 e art. 231; Atos Declaratórios Normativos CST nº 19, de 1975, nº 10, de 1976, e nº 9, de 1983.
+Novo segmento
+[arquivo anexo: SC Cosit nº 207-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador Geral
