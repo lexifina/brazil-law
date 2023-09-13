@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ FERNANDES contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ fl. 533):
+Apelação crime. Denunciação caluniosa (art. 339, caput, do CP). Condenação. irresignação defensiva. Pleito recursal absolutório. Descabimento. Materialidade e autoria plenamente comprovadas pelo conjunto probatório angariado aos autos. Apelante que imputou à delegada de polícia, ora vítima, conduta definida como crime de abuso de autoridade de que sabia ser inocente, dando causa a abertura de procedimento de investigação administrativa. Alegada apreensão de veículo sem prévia ordem judicial, o que não corresponde à realidade. Circunstâncias concretas que evidenciam que o acusado tinha conhecimento da inocência da imputada. Dolo evidenciado. Condenação mantida. Redução, de ofício, da quantidade de dias-multa fixada, a fim de guardar proporcionalidade com a pena corporal. Recurso desprovido, com a readequação, de ofício, do número de dias-multa.
+O recorrente foi condenado à pena de 2 anos de reclusão no regime aberto, além do pagamento de 20 dias-multa, em razão da prática do crime previsto no art. 339 do Código Penal.
+O recurso de apelação interposto pela defesa foi desprovido.
+Nas razões do recurso especial, alega violação dos arts. 18, I, do Código Penal e 386, VII, do Código de Processo Penal, ao argumento de que, "para que se possa falar em configuração do delito de denunciação caluniosa, não é suficiente que os fatos atribuídos ao acusado sejam falsos, sendo imprescindível que o agente tenha pleno conhecimento da inocência do imputado, isto é, que saiba da falsidade da imputação realizada" (e-STJ fl. 567).
+O Tribunal a quo inadmitiu o recurso por considerá-lo intempestivo, fundamento contra o qual se insurge o agravante (e-STJ fls. 605-609).
+Parecer do Ministério Público Federal pelo desprovimento do recurso (e-STJ fls. 639-643).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever o seguinte trecho do acórdão impugnado (e-STJ fls. 536-540):
+A hipótese versada nos autos narra a ocorrência do crime de denunciação caluniosa, vez que o acusado teria dado causa à instauração de investigação administrativa perante a Corregedoria da Polícia Civil, em desfavor da Delegada de Polícia Dra. Rita de Cássia Camargos Lira Weiss, titular da Divisão de Combate a Corrupção (DECCOR) da Polícia Civil em Foz do Iguaçu/PR, imputando à ofendida crime de que sabia ser inocente.
+De conseguinte, o recorrente encaminhou representação ao órgão correicional alegando que a Delegada de Polícia teria apreendido o automóvel Toyota Hilux SW4, placa AZF- 4074, em 13.11.2019 (data da deflagração da Operação WO), sem prévia ordem judicial, o que sabia não ser verdade.
+Nesse contexto, infere-se dos autos que a materialidade encontra-se claramente evidenciada pelo boletim de ocorrência nº 2020/786804 (mov. 13.1), pelo termo circunstanciado (mov. 13.4), pelo despacho proferido nos autos nº 0002319- 64.2019.8.16.0159 (mov. 13.4 fls. 233/235), bem como pelas demais provas produzidas durante a instrução.
+A autoria, por sua vez, também é extraída dos autos.
+(..)
+Assim sendo, extrai-se dos autos que houve requerimento de instauração de investigação administrativa perante a Corregedoria da Polícia Civil, em desfavor da Delegada de Polícia, e esta iniciativa partiu do acusado, havendo enquadramento da conduta praticada em figura típica, pois, das provas acostadas aos autos, evidencia-se a prática do crime de denunciação caluniosa.
+(..)
+Da detida análise dos autos, verifica-se que todas as provas auferidas durante a persecução penal corroboram as alegações da vítima, não havendo nos autos um mínimo indício que ampare a alegação do ora recorrente. Mostra-se consubstanciada a conduta delituosa prevista no caput do artigo 339 do Código Penal, cujo dolo se evidencia da nítida consciência do apelante em distorcer os fatos com o único intuito de prejudicar a vítima em questão, dando azo à deflagração contra ela de procedimento investigativo, mesmo sabendo de sua inocência.
+A respeito, para eximir-se do dolo, o apelante suscitou, como tese defensiva, o desconhecimento da mencionada decisão de busca e apreensão e por essa razão protocolou dois requerimentos de apresentação do documento judicial que autorizava a apreensão do bem. Tais afirmações, no entanto, são carecedoras de qualquer supedâneo no material probatório existente nos autos.
+O Colegiado a quo conclui estar provada a autoria e a materialidade do crime de denunciação caluniosa.
+A reforma do julgado, a fim de absolver o recorrente, não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório, medida obstada pela Súmula 7/STJ.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO. DENUNCIAÇÃO CALUNIOSA TENTADA (ART. 339, CAPUT, C/C O ART. 14, II, AMBOS DO CP). INTERCEPTAÇÕES TELEFÔNICAS. NULIDADES NÃO CONFIGURADAS. REVISÃO DE DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. PLEITO ABSOLUTÓRIO IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PERDA DO CARGO PÚBLICO (DELEGADO DE POLÍCIA) COMO EFEITO DA CONDENAÇÃO POR GRAVIDADE CONCRETA DA CONDUTA. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. ALTERAÇÃO DAS CONCLUSÕES. DESCABIMENTO. SÚMULA 7/STJ. PARECER ACOLHIDO.
+(..).
+14. Concluindo as instâncias de origem a partir da análise do arcabouço probatório existente nos autos acerca da materialidade e autoria pela prática do crime de denunciação caluniosa na forma tentada, a desconstituição do julgado, no intuito de abrigar o pleito defensivo absolutório, não encontra espaço na via eleita, porquanto seria necessário aprofundado revolvimento do contexto fático-probatório, providência incabível em sede de habeas corpus, conforme já assentado pela Súmula 7/STJ.
+15. A mera insatisfação com o resultado da decisão judicial, por si só, não é suficiente para demonstrar deficiência ou ausência de prestação jurisdicional, sobretudo porque já houve ampla dilação probatória, em que foi devidamente aferida a presença de justa causa para a condenação do paciente.
+16. Embargos de declaração acolhidos para anular o anterior julgamento, publicado em 25/11/2020, a fim de possibilitar ao defensor a realização da pretendida sustentação oral.
+17. Ordem denegada.
+(HC 585.748/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. OMISSÃO INEXISTENTE. FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E DENUNCIAÇÃO CALUNIOSA. PREVALÊNCIA DA PROVA PERICIAL. DISCRICIONARIEDADE DO JULGADOR. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. MOTIVAÇÃO IDÔNEA PARA O RECRUDESCIMENTO DA PENA-BASE. OFENSA AO PRINCÍPIO DA CORRELAÇÃO INEXISTENTE. ORIENTAÇÃO JURISPRUDENCIAL MAJORITÁRIA. AGRAVO REGIMENTAL DESPROVIDO.
+(..).
+2. Esta Corte tem se orientado no sentido de que a produção de provas é ato norteado de discricionariedade do julgador e a revisão das conclusões a que chegaram as instâncias ordinárias quanto a sua suficiência esbarra no óbice da Súmula n. 7/STJ.
+(..).
+(AgRg no AREsp 1.507.464/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/3/2020, DJe de 24/3/2020.)
+Conheço d o agravo e não conheço d o recurso especial, nos termos do art. 34, VII, c/c art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
