@@ -11,6 +11,7 @@ IX - Ministério do Desenvolvimento e Assistência Social, Família e Combate à
 X - Ministério dos Direitos Humanos e da Cidadania;
 XI - Ministério da Fazenda;
 XII - Ministério da Educação;
+XII-A - Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte;
 XIII - Ministério do Esporte;
 XIV - Ministério da Gestão e da Inovação em Serviços Públicos;
 XV - Ministério da Igualdade Racial;

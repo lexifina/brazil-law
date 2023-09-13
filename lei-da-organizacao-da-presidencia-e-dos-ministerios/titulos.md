@@ -60,6 +60,8 @@ Seção XII
 Do Ministério da Fazenda
 Seção XIII
 Do Ministério da Educação
+Seção XIII-A
+Do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte
 Seção XIV
 Do Ministério do Esporte
 Seção XV
