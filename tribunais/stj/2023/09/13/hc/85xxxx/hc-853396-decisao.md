@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAQUEL PIRES DE SOUZA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0518.10.018005-9/001).
+Consta do relatório de e-STJ fls. 18/19 que a paciente foi condenada, em primeiro grau de jurisdição, às penas de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, e 161 dias-multa, pela prática do crime previsto no art. 155, § 4º, inciso II, do Código Penal, em continuidade delitiva.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 15/34), em acórdão assim ementado:
+APELAÇÃO CRIMINAL  CRIME DE FURTO QUALIFICADO MEDIANTE FRAUDE  PRELIMINARES  SENTENÇA CITRA PETITA  NÃO ACOLHIMENTO  NULIDADE POR AUSÊNCIA DE PERÍCIA EM DOCUMENTOS  PRECLUSÃO  CERCEAMENTO DE DEFESA  NÃO OCORRÊNCIA  INTEMPESTIVIDADE DA APRESENTAÇÃO DAS ALEGAÇÕES FINAIS  INADMISSIBILIDADE  PRELIMINARES REJEITAS  AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS  CONDENAÇÃO MANTIDA  DECOTE DA QUALIFICADORA DO EMPREGO DE FRAUDE  IMPOSSIBILIDADE  MANUTENÇÃO DA PENA-BASE  CRIME CONTINUADO  OCORRÊNCIA  REDUÇÃO DA PENA DE MULTA  IMPOSSIBILIDADE  RECURSO CONHECIDO E DESPROVIDO.
+I - Não há se falar em sentença citra petita se, ainda que de modo implícito, todas as teses arguidas pela defesa são rebatidas na decisão.
+II - A arguição de nulidade do feito por ausência de perícia nos documentos acostados aos autos, encontra-se preclusa, já que nenhum dos documentos foi contestado quando da juntada.
+III - A ausência de comprovação da imprescindibilidade da oitiva da testemunha, bem como a necessidade de celeridade do feito criminal, são fundamentos idôneos para se negar a oitiva de testemunha residente no exterior.
+IV - A apresentação extemporânea das alegações finais pelo Assistente da Acusação caracteriza mera irregularidade do feito e não a sua nulidade.
+V - Se a prova dos autos, em seu conjunto, aponta para a materialidade e autoria do crime de furto qualificado em desfavor do réu, é de se manter a sentença condenatória recorrida, sendo inviável falar-se em absolvição ou desclassificação.
+VI - Configura-se o furto qualificado pelo emprego de fraude quando o agente, utilizando-se de ardil para burlar o sistema financeiro, mentindo para a vitima, subtrai o bem sem o seu consentimento, impossibilitando a sua desclassificação.
+VII - A presença de circunstância judicial desfavorável já autoriza a fixação da pena-base acima do mínimo legal, desde que devidamente fundamentado, como no caso em tela.
+VIII - A condenação em pena de multa integra o preceito secundário do tipo penal, não havendo possibilidade de decote ou redução em razão de insuficiência financeira já que fixada dentro dos parâmetros legais.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 51/54), o seu recurso especial não foi admitido na origem (e-STJ fls. 80/83) e o subsequente agravo em recurso especial foi conhecido para conhecer do recurso especial apenas em parte e, nessa extensão, negar-lhe provimento (e-STJ fls. 105/122).
+No presente mandamus (e-STJ fls. 3/14), o impetrante sustenta que a paciente sofre constrangimento ilegal, pois as instâncias ordinárias deixaram de reconhecer a atenuante da confissão espontânea. Aponta que, em que pese a fundamentado da decisão colegiada ter se baseado em confissão extrajudicial, o acórdão proferido foi omisso quanto a aplicação da atenuante do art. 65, III, d, do Código Penal (e-STJ fl. 7). Destaca que os Eminentes Julgadores formaram seu convencimento baseado em confissões extrajudiciais juntadas no inquérito, todavia, repetimos, sem aplicar a devida atenuante (e-STJ fl. 12).
+Ao final, formula pedido liminar para que a ação penal seja suspensa até o julgamento definitivo deste writ e, no mérito, pede a concessão da ordem para que a atenuante da confissão espontânea seja reconhecida, redimensionando-se as penas da paciente.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, a tese ora suscitada - aplicação da atenuante da confissão espontânea - não foi objeto de debate pelo Tribunal a quo, que se limitou a enfrentar as teses apresentadas pela defesa em seu recurso de apelação.
+Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DESCLASSIFICAÇÃO DA CONDUTA PARA MERO USUÁRIO. REEXAME DE FATOS. INCABÍVEL NA VIA ELEITA. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. AUMENTO VÁLIDO. BENEFÍCIO DO ART. 33, §4º, DA LEI N. 11.343/06. ATENUANTE DE CONFISSÃO. SUPRESSÃO. SUBSTITUIÇÃO DE PENA. INVIÁVEL. PENA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O acordão combatido não tratou das matérias de aplicação do redutor da pena previsto no § 4º do artigo 33 da Lei n. 11.343/2006 e atenuante da confissão, sendo assim, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 787.900/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO EM CONCURSO MATERIAL. PRETENDIDA ABSOLVIÇÃO PELO CRIME DE ASSOCIAÇÃO. INVIABILIDADE. CONTUNDENTE ACERVO PROBATÓRIO PARA LASTREAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO PELO ART. 35 DA LAD OBSTA A APLICAÇÃO DO REDUTOR. INDICAÇÃO DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA REPRIMENDA. INVIABILIDADE. EXPRESSA DETERMINAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- O pleito relativo ao reconhecimento da atenuante da confissão espontânea não foi submetida à apreciação e, tampouco analisada pela Corte estadual, tratando-se, portanto, de matéria nova somente aventada neste mandamus, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+- Agravo regimental não provido. (AgRg no HC n. 783.595/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
+EMENTA
