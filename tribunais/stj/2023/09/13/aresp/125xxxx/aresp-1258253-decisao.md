@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que negou seguimento ao recurso especial aviado.
+Depreende-se dos autos que o agravado foi condenado, como incurso no art. 33 da Lei n. 11.343/2006, à pena de 5 anos de reclusão, no regime fechado.
+O Tribunal de origem, ao dar provimento ao recurso de apelação da defesa, desclassificou a conduta para o tipo previsto no art. 28 da Lei n. 11.343/2006. O acórdão está assim ementado (e-STJ fl. 239):
+APELAÇÃO CRIMINAL - ASSOCIAÇÃO CRIMINOSA - RECURSOS DEFENSIVOS E MINISTERIAL: INSUFICIÊNCIA PROBATÓRIA ESTABILIDADE E PERMANÊNCIA DA ASSOCIAÇÃO NÃO COMPROVADAS - ABSOLVIÇÃO EM RELAÇÃO A TODOS OS RÉUS - TRÁFICO DE DROGAS (RÉU WALISON LACUNA MARTINS LOUREIRO): DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 28 DA LEI :11.34312006 - NECESSIDADE - VALORAÇÃO DO CONJUNTO PROBATÓRIO - JUIZADO ESPECIAL CRIMINAL.
+Os embargos de declaração que se seguiram foram rejeitados (e-STJ fls. 275/279).
+Foi então interposto o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual se alegou a violação aos arts. 28 e 33 da Lei n. 11.343/2006, e aos arts. 156 e 202 do Código de Processo Penal.
+Sustentou o Parquet que, ao contrário do que decidido, "as provas existentes nos autos são uníssonas em apontar o recorrido como sendo autor do crime de tráfico descrito na denúncia. Assim, não obstante a negativa do recorrido, verifica-se que o contexto probatório e as circunstâncias particulares do presente caso demonstram, de maneira suficiente, a prática do crime de tráfico de drogas, sendo certo que, para a caracterização do delito de tráfico, a lei não exige que o agente seja surpreendido no ato de venda da droga ou do fornecimento da substância entorpecente a terceira pessoa, bastando para sua configuração a posse da droga pelo agente, para fins de comércio " (e-STJ fl. 305).
+O MPF manifestou-se pelo não conhecimento do recurso (e-STJ fls. 392/397).
+É, em síntese, o relatório. Decido.
+O Parquet, ao se manifestar nos autos, emitiu irreprochável parecer, cujos fundamentos seguem a seguir transcritos (e-STJ fls. 394/395):
+O magistrado de primeiro grau ao condenar o agravado ressaltou que: (fl. 143e)
+"A alegação do acusado de que a droga destinava-se ao uso próprio não coaduna com os fatos, sendo inviável dar-lhe crédito.
+Ainda que a quantidade de entorpecente localizada (certa quantidade de cocaína em pó ao lado de" uma pedra maior) e o recipiente em que se encontrava, interior da jaqueta do agente, a qual se encontrava no banheiro da residência pudessem a princípio validar a história do uso, tem-se que também foram encontrados no medidor de luz da residência saquinhos de "chup- chup" com resquícios de substância entorpecente e a justificativa apresentada pelo réu é francamente irreal".
+Ao proceder a desclassificação do delito o Tribunal a quo fundamentou que: (fl. 249e)
+"O increpado, em seu interrogatório, assumiu a propriedade das drogas e disse ser usuário, negando o intuito de venda das substâncias que foram apreendidas. Além disso, o único policial, ouvido em juízo, que se recordou dos fatos, deteve-se, quase que exclusivamente, na suposta "fama" de traficante e homicida do acusado, não havendo qualquer indicação contundente de que a droga encontrada destinava-se ao tráfico. Vale ressaltar, igualmente; que a quantidade de droga apreendida em poder de Walison (pouco mais de vinte e quatro gramas de cocaína), por si só, não serve de indicativo da traficância".
+Ora, ainda que se possa dissentir do acórdão recorrido, o certo é que tal conclusão decorreu da análise do contexto probatório pela Corte de origem, que examinado toda a matéria recebida no efeito devolutivo da apelação, diante de livre convencimento devidamente motivado, entendeu que as provas não foram suficientes para a condenação do acusado, fazendo prevalecer o princípio do in dubio pro reo.
+Assim é que, não há como divisar de forma segura se as drogas eram para tráfico ou consumo pessoal.
+Outrossim, para se concluir de forma diversa a que chegou o v.
+acórdão recorrido, com a condenação do agravado, é necessário o revolvimento do conjunto fático probatório dos autos, o que esbarra no óbice contido no enunciado da Súmula n. 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+De fato, a leitura do voto condutor do acórdão recorrido evidencia não haver provas suficientes de que o agravado tenha praticado o crime de tráfico de entorpecentes, pois a mera apreensão da droga, em quantidade compatível com a de um usuário, e a "fama" pretérita do agravado não são elementos suficientes para a reforma do acórdão que desclassificou a conduta.
+Ademais, rever a conclusão alcançada pela Corte de origem, como proposto nas razões do recurso especial, implicaria o vedado reexame de provas a que se refere a Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
