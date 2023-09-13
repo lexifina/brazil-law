@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interno interposto por IARA BATISTA SANTOS contra a decisão de fls. 334-335 (e-STJ), da Presidência desta Corte, que não conheceu do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, em virtude da aplicação da Súmula 284/STF.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal do Estado de São Paulo assim ementado (fl. 278, e-STJ):
+AGRAVO INTERNO - Assistência - Requisitos Decisão monocrática que indeferiu o benefício e determinou o recolhimento do preparo, sob pena de deserção - Ausência de documentação a demonstrar a mudança da situação financeira após a rejeição da benesse em recurso anterior - Recurso não provido.
+Nas razões do recurso especial (fls. 281-289, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação do art. 99 do Código de Processo Civil de 2015.
+Sustentou, em suma, ter demonstrado sua hipossuficiência financeira apta à concessão do benefício de gratuidade de justiça pleiteado, motivo pelo qual deve ele ser-lhe deferido.
+Em juízo de admissibilidade (fls. 316-318, e-STJ), a corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais; e c) a divergência jurisprudencial não foi demonstrada nos termos exigidos pelo art. 1.029 do CPC2015.
+Irresignada (fls. 321-324, e-STJ), aduziu a agravante que o reclamo merece trânsito, limitando-se a repisar as mesmas razões já apresentadas no recurso especial e a refutar, genericamente, a aplicação da Súmula 7/STJ.
+Sem contraminuta, conforme certificado à fl. 328 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, a Presidência desta Corte, por decisão monocrática, não conheceu do agravo em recurso especial (e-STJ, fls. 334-335), ante a aplicação da Súmula 284/STF, por deficiência na fundamentação do reclamo, dada a ausência de indicação do permissivo legal em que se fundava o recurso especial interposto.
+Neste agravo interno (e-STJ, fls. 339-344), defende a insurgente a inaplicabilidade do óbice apontado para o não conhecimento do agravo em recurso especial, afirmando ter indicado o permissivo legal.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Sem impugnação, conforme certificado às fls. 348-349 (e-STJ).
+Brevemente relatado, decido.
+No caso, observa-se que no recurso especial houve a indicação do permissivo legal que que fundado o recurso manejado, sendo, portanto, descabida a aplicação da Súmula 284/STF, motivo pelo qual passa-se à análise do agravo interposto.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial.
+Incidência da Súmula n. 182 do STJ.
+2. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+3. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+4. Agravo interno não conhecido (AgInt no AREsp n. 2.331.565/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 7/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+2. É assente o entendimento desta Corte Superior de que a impugnação ao óbice da Súmula nº 7/STJ deve ser específica quanto a todas as matérias constantes da decisão agravada.
+3. O Superior Tribunal de Justiça entende ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III, do Código de Processo Civil de 2015).
+4. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+5. Agravo interno não provido (AgInt no AREsp n. 2.047.721/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+No caso, verifica-se que a agravante não atendeu a esse reclamo, pois não refutou todos os óbices de admissibilidade do recurso especial interposto.
+Efetivamente, no tocante à rejeição do recurso especial pela ausência de demonstração da divergência jurisprudencial apontada de acordo com as disposições do art. 1.029 do CPC/2015, verifica-se, de plano, que tal fundamento não foi sequer mencionado nas razões do agravo.
+Dessa forma, a falta de ataque específico ao fundamento da decisão agravada encontra óbice no teor do art. 932, III, do CPC/2015, desatendendo o recorrente o princípio da dialeticidade exigido na esfera recursal.
+Diante do exposto, em juízo de reconsideração, não conheço do agravo em recurso especial, por fundamento diverso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. INAPLICABILIDADE DA SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, POR FUNDAMENTO DIVERSO.
