@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de ADILSON DE OLIVEIRA ROLDAO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, ante o julgamento proferido no dia 12/6/2023 na Apelação Criminal n. 1500476-47.2022.8.26.0210 (fls. 19/35).
+Eis a síntese da impetração, conforme a inicial do writ (fl. 4):
+O paciente foi julgado e condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, impondo-lhe a pena de 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa.
+Inconformado, apelou pleiteando a absolvição em face da fragilidade probatória ou a desclassificação da conduta para o crime de porte de drogas para uso pessoal, com aplicação da pena de advertência.
+Subsidiariamente, a pena mínima com a aplicação do tráfico privilegiado.
+Apresentadas as contrarrazões, a douta Procuradoria Geral de Justiça opinou pelo desprovimento do recurso.
+O acórdão deu parcial provimento ao recurso para afastar a agravante da reincidência, fixando sua pena definitiva em 05 anos e 10 meses de reclusão em 583 dias-multa.
+Ocorre que, de uma análise minuciosa do bojo processual reunido no decorrer da instrução, resta evidente que a conduta imputada ao paciente é equivocada, eis que não traficava drogas naquela ocasião, tratando-se de um mero usuário. No mais, há ainda evidente ilegalidade no acórdão ao afastar o tráfico privilegiando, baseando-se em maus antecedentes de mais de 10 anos, razão pela qual se presta o presente habeas corpus substitutivo de recurso próprio.
+Requer-se, em liminar e no mérito, a concessão da ordem para absolver o paciente do crime previsto no art. 33 da Lei de Drogas, com a consequente desclassificação da conduta para a do art. 28 do mesmo diploma legal. Subsidiariamente, busca-se a reforma na dosimetria, para que seja aplicado o tráfico privilegiado.
+É o relatório.
+Não tem cabimento o presente writ.
+Primeiro, a condenação já transitou em julgado. Portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Segundo, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 701.589/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021).
+Terceiro, o Superior Tribunal de Justiça possui entendimento firme de que, constatada pela instância ordinária a existência de maus antecedentes e/ou de reincidência, afasta-se a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, que exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa (AgRg no HC n. 753.181/SP, Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe 30/9/2022 - grifo nosso). Na mesma linha, entre outros, AgRg no HC n. 733.090/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 23/9/2022.
+Quarto, não houve nenhum debate/decisão na Corte estadual acerca da alegada falta de configuração dos maus antecedentes. Nada se falou no acórdão ora impugnado acerca do eventual transcurso de mais de 10 anos entre a data da extinção da pena estabelecida na condenação anterior e o cometimento do novo crime. É nítido o intento de suprimir instância, o que não é admitido nesta Casa.
+À míngua de existência de manifesta ilegalidade, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. TRÁFICO DE DROGAS. ABSOLVIÇÃO/DESCLASSIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. APLICAÇÃO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA. IMPOSSIBILIDADE. FALTA DE CONFIGURAÇÃO DOS MAUS ANTECEDENTES. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
