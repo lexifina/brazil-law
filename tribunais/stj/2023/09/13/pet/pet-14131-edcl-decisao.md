@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela COOPERATIVA DE PRODUTORES DE CANA DE AÇÚCAR, AÇÚCAR E ÁLCOOL DO ESTADO DE SÃO PAULO contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+TRIBUTÁRIO. PEDIDO DE TUTELA PROVISÓRIA PARA FINS DE CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL ATÉ O JULGAMENTO DA AÇÃO MANDAMENTAL 96.0010487-5. MANDADO DE SEGURANÇA DEFINITIVAMENTE JULGADO PELO STF, NO RE 1.102.679/SP. PEDIDO PREJUDICADO (fl. 151).
+A parte embargante sustenta que a decisão embargada incorreu em erro material e na adoção de premissa fática equivocada, pois a questão debatida não teria sido definitivamente julgada no RE 1.102.679/SP, ainda estando pendente de julgamento o recurso especial que fora sobrestado pelo STJ até o julgamento do RE interposto no mandado de segurança correlato (fls. 156/159).
+Informa a parte embargante que "peticionou na origem requerendo a remessa dos autos do writ correlato a este E. STJ para julgamento do referido recurso especial - REsp 1.704.510" (fl. 159). O recurso especial está concluso ao relator, Ministro Mauro Campbell Marques, que, anteriormente, determinou o sobrestamento do feito até o julgamento do recurso extraordinário pelo Supremo Tribunal Federal.
+Pelo exposto, acolho os embargos de declaração e, em atenção ao que dispõe o art. 71 do RISTJ, encaminho os autos para consulta ao Ministro Mauro Campbell Marques acerca de eventual prevenção.
+EMENTA
