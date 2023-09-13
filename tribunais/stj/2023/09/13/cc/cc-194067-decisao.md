@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência envolvendo os Juízos de Direito da 11ª VARA DA FAZENDA PÚBLICA DE SÃO PAULO (SP) (fls. 1-3) e o de AREADO (MG), visando definir a competência para processar e julgar ação ordinária declaratória para anulação de registro c/c reparação de danos ajuizada por LUIZ FABIANO NASCIMENTO em desfavor da JUNTA COMERCIAL DO ESTADO DE SÃO PAULO.
+O Juízo de Direito da Comarca de Areado, onde a ação foi originariamente distribuída, declinou ex officio da competência e determinou a remessa dos autos a uma das varas de fazenda pública de São Paulo ao fundamento de que a JUCESP é autarquia do Estado de São Paulo, não podendo a Justiça de Minas Gerais interferir na esfera jurídica de outro Estado.
+Distribuído o feito, o Juízo de Direito da 11ª VARA DA FAZENDA PÚBLICA DE SÃO PAULO suscitou o presente conflito, entendendo tratar-se de declinação indevida de competência relativa, uma vez que ausente provocação das partes, o que contraria o entendimento sedimentado na Súmula n. 33 do STJ.
+É o relatório. Decido.
+Inicialmente, com fundamento na orientação contida no art. 955, parágrafo único, I, do CPC e na Súmula n. 568 do STJ, entendo ser caso de julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida.
+Assiste razão ao Juízo suscitante.
+Não obstante os argumentos do Juízo suscitante quanto à pretensa competência em razão da matéria, não há a priori definição legal que estabeleça que, sendo "JUCESP uma autarquia do Estado de São Paulo, não pode a Justiça de Minas Gerais interferir na esfera jurídica de outro Estado", ficando, assim, a controversa aqui definida em relação à competência territorial.
+É cediço que a competência territorial é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juízo onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ já está pacificada no sentido de que, tratando-se competência relativa, o art. 43 do mesmo diploma legal institui, com a finalidade de proteger as partes, regra da estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Nesse sentido, confiram-se, entre tantos, as seguintes decisões: CC n. 150.490/SP, relator Ministro Marco Aurélio Bellizze, DJe de 20/11/2017; CC n. 152.573/PR, relatora Ministra Maria Isabel Gallotti, DJe de 21/11/2017.
+Portanto, sendo relativa a competência para o processamento e julgamento da ação de execução de título extrajudicial, não poderia o Juízo suscitado ter declinado de ofício, nos termos da Súmula n. 33 do STJ (CC n. 182.194/SC, relatora Ministra Nancy Andrighi, DJe de 15/9/2021; CC n. 180.620/DF, relator Ministro Antonio Carlos Ferreira, DJe de 1º/7/2021).
+Ante o exposto, conheço do conflito pa ra declarar a competência do Juiz de Direito da Comarca de Areado (MG), o suscitado.
+Comunique-se aos Juízos suscitante e suscitado a presente decisão.
+Publique-se. Intimem-se.
+EMENTA
