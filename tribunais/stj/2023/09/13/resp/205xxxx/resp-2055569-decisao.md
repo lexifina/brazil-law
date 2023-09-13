@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAFAEL GONÇALVES MIRANDA, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao seu apelo, mantendo sua condenação às penas de 8 meses de reclusão, em regime inicial semiaberto, e pagamento de 3 dias-multa, por infração ao artigo 155, §§ 3º e 4º, incisos II e IV, em combinação com o artigo 14, inciso II, ambos do Código Penal (e-STJ fls. 493/498).
+Nas razões do recurso especial (e-STJ fls. 505/509), alega a parte recorrente violação do artigo 44, §3º, do CPP. Sustenta a possibilidade da substituição da pena privativa de liberdade por restritivas de direitos.
+Apresentadas contrarrazões (e-STJ fls. 513/516), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 519).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do recurso (e-STJ fls. 528/532).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Nessa linha, o art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica.
+Assim, embora estabelecida a pena definitiva para o crime de tentativa de furto de energia elétrica menor que 4 anos (8 meses de reclusão), inaplicável a regra prevista no art. 44, § 3º, do CP, uma vez que, apesar da reincidência não ser específica, deu-se, também, por crime contra o patrimônio (receptação), não se mostrando suficiente ou socialmente recomendável a substituição pleiteada. Precedentes: AgRg no HC n. 775.644/SC, Relator Ministro SEBASTIÃO REIS JÚNIOR , Sexta Turma, julgado em 13/3/2023, DJe de 16/3/202; AgRg no AREsp n. 1.797.430/SP, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/11/2021, DJe de 16/11/2021.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ e na Súmula 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
