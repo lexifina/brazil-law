@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Joao Vitor Caetano Santana, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento à Apelação n. 1500685-11.2022.8.26.0535.
+Conforme consta dos autos o paciente foi sentenciado à pena privativa de liberdade de 6 anos de reclusão, no regime inicial fechado, e pecuniária consistente no pagamento de 600 dias-multa, por ter incorrido no art. 33, caput, da Lei n. 11.343/2006 (fl. 23).
+O Tribunal a quo negou provimento ao apelo defensivo, mantendo a sentença condenatória.
+Aqui, a defesa alega constrangimento ilegal na busca pessoal.
+Afirma que a houve atuação ilegal da guarda municipal e que não havia justa causa para a busca pessoal.
+Aduz que se observa que o voto do condutor do acordão ora impugnado foi que a busca pessoal realizada no paciente ocorreu apenas, com base na alegação genérica de que o paciente estava em 1. local conhecido como ponto de drogas, e 2. Ao avistar os policiais, apresentou grande nervosismo, 3. virando-se e passando a caminhar na direção contrária, o que por si só, não configura fundada suspeita apta a validar a busca pessoal (fl. 9).
+Requer, ao final, seja concedida a ordem para anular o processo e trancar a ação penal, revogando-se os seus efeitos e impedindo-a de seguir em seu curso normal na medida em que arbitrariamente o paciente João Vitor Caetano Santana, está preso sem justa causa e em pleno constrangimento ilegal, nos termos do art. 648, I e VI, do Código de Processo. (fl. 15).
+Liminar indeferida (fls. 53/55).
+Informações prestadas (fls. 63/93), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 173/176).
+É o relatório.
+Quanto à busca pessoal, o Tribunal a quo afirmou que (fls. 27/28 grifo nosso):
+ ..
+De proêmio, verifica-se que a nulidade suscitada não comporta acolhimento. A despeito das alegações do apelante, extrai-se dos depoimentos dos guardas municipais que o réu se encontrava em local conhecido como ponto de venda de drogas e, ao avistar os policiais, apresentou grande nervosismo, virando-se e passando a caminhar na direção contrária. Desta feita, nota-se que o comportamento do réu justificou a abordagem por parte dos guardas civis, os quais, assim como qualquer do povo, estão autorizados a realizar prisão em flagrante delito.
+Nesse sentido, já decidiu o Col. Superior Tribunal de Justiça: "É assente nesta Corte Superior de Justiça a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal" (STJ, HC n. 471.229-SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. em 19/2/2019).
+Fica afastada, portanto, a preliminar aventada.
+Com efeito, no que se refere à busca pessoal, o art. 240, § 2º, do Código de Processo Penal, exige a ocorrência de fundada suspeita para que o procedimento persecutório esteja autorizado e, portanto, válido. Ocorre que a Sexta Turma desta Corte entende que a permissão para a revista pessoal - a qual se equipara à busca veicular - decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, depreende-se do exposto a ausência de justa causa para a atuação dos policiais, visto que não decorreu de parâmetro objetivo, pois baseada apenas no fato de o paciente estar "em local típico de tráfico" e, ao avistar os policiais, apresentou grande nervosismo, virando-se e passando a caminhar na direção contrária.
+Não vislumbro, assim, fundadas razões para realização da abordagem pessoal.
+O Superior Tribunal já decidiu que não satisfazem a exigência legal, por si sós, meras informações de fonte não identificada (denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta (precedente supracitado).
+Em suporte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. BUSCA PESSOAL. ILICITUDE DAS PROVAS. AUSÊNCIA DE FUNDADAS RAZÕES. JUSTA CAUSA NÃO VERIFICADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ABSOLVIÇÃO.
+1. Conforme a jurisprudência desta Corte Superior, considera-se ilícita a busca pessoal e domiciliar executada sem a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. 240 do CPP, bem como a prova dela derivada, não sendo razoável considerar que o nervosismo do acusado ao avistar a autoridade policial, por si só, enquadre-se na excepcionalidade da revista pessoal ocorrida em seguida.
+2. No caso, verifica-se a inexistência de fundadas razões (justa causa) para a busca efetuada, haja vista que a medida invasiva ocorreu apenas em razão de impressões subjetivas dos agentes policiais, apenas relacionadas ao fato de o paciente estar em local conhecido como ponto de comércio de provas e ter empreendido fuga ao avistar a viatura policial, estando ausente a excepcionalidade da revista pessoal ocorrida em seguida.
+3. A descoberta de objetos ilícitos a posteriori não convalida a abordagem policial. Se não havia fundada suspeita de que a pessoa estava na posse de droga ou de objetos ou papéis que constituam corpo de delito, não há como se admitir que a mera descoberta casual de situação de flagrância, posterior à revista do indivíduo, justifique a medida, devendo ser reconhecida a ilegalidade por ilicitude da prova, com a absolvição do paciente da imputação constante na denúncia.
+4. Agravo regimental improvido.
+(AgRg no HC n. 746.027/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, julgado em 18/10/2022, DJe 21/10/2022)
+HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. AUSÊNCIA DE JUSTA CAUSA. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. INEXISTÊNCIA. RESTABELECIMENTO DA DECISÃO DE PRIMEIRO GRAU. REJEIÇÃO DA DENÚNCIA.
+I - A Sexta Turma já firmou entendimento de que "a alegação policial de estar o agente em "atitude suspeita" não autoriza a busca pessoal, em razão de ser lastreada tão somente no tirocínio dos agentes e não ser averiguável judicial mente, redundando em arbítrio não raro com viés racial e classista" (AgRg no HC n. 735.572/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/6/2022).
+II - Na espécie, a busca pessoal ocorreu diante do nervosismo do paciente ao se agachar, "na clara tentativa de passar despercebido e se desvencilhar da abordagem policial", o que não evidencia a necessária justa causa para a referida medida.
+III - Consoante decidido no RE n. 603.616/RO, pelo Supremo Tribunal Federal, não é necessária certeza quanto à prática delitiva para se admitir a entrada em domicílio, bastando que, em compasso com as provas produzidas, seja demonstrada justa causa para a medida, ante a existência de elementos concretos que apontem para situação de flagrância.
+IV - In casu, o ingresso em domicílio justificou-se diante do forte cheiro de drogas no corredor que dá acesso à casa do paciente, circunstância que, desprovida de elementos probatórios mínimos, demonstra apenas impressões subjetivas dos policiais que realizaram tal procedimento, insuficientes, portanto, para justificar a medida.
+V - Habeas corpus concedido para restabelecer a decisão de primeiro grau. Rejeição da denúncia. Trancamento do Inquérito Policial n. 1501906-58.2023.8.26.0320 - 2ª Vara Criminal de Limeira/SP.
+(HC n. 832.823/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 22/8/2023, DJe 25/8/2023)
+Reconhecida a ilicitude das provas obtidas por meio da busca pessoal, bem como as dela derivadas, a sentença deverá ser anulada, absolvendo-se o paciente, por ausência de provas da materialidade do delito.
+Ante o exposto, concedo a ordem para anular a busca pessoal realizada e, em consequência, absolver o paciente da acusação de tráfico de drogas nos autos do Ação Penal n. 1500685-11.2022.8.26.0535.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PROVAS ILÍCITAS. PRISÃO EM FLAGRANTE. BUSCA PESSOAL. AUSÊNCIA DE FUNDADAS RAZÕES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES.
+Ordem concedida nos termos do dispositivo.
