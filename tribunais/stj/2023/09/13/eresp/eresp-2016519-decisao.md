@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão da c. Quarta Turma deste Superior Tribunal de Justiça, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A fundamentação exposta no apelo extremo é suficiente para compreensão da controvérsia, não havendo falar em incidência da Súmula 284/STF na hipótese.
+2. O Tribunal a quo se manifestou acerca da matéria inserta no dispositivo legal apontado como violado, o que se mostra suficiente para atender ao requisito do prequestionamento, sendo desnecessária a menção expressa ao número do artigo de lei. Precedentes.
+3. "O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC." (REsp n. 2.013.351/PA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/9/2022, DJe de 19/9/2022).
+4. Agravo interno desprovido.
+Alega a embargante que o acórdão embargado apresenta divergência em relação ao seguinte precedente:
+PROCESSUAL CIVIL. EMENDA À INICIAL. MODIFICAÇÃO DA CAUSA DE PEDIR E DO PEDIDO, APÓS OFERECIDA A CONTESTAÇÃO. IMPOSSIBILIDADE. DETERMINAÇÃO, EX OFFICIO, DE QUE O AUTOR PROMOVA A CITAÇÃO DO LITISCONSORTE PASSIVO NECESSÁRIO. POSSIBILIDADE. ART. 47 DO CPC/1973. NORMA DE CARÁTER DE ORDEM PÚBLICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ não se admite a emenda da inicial após o oferecimento da contestação quando tal diligência ensejar a modificação do pedido ou da causa de pedir. Isso porque a regra prevista no art. 284 do CPC/1973 deve ser compatibilizada com o disposto no art. 264 do CPC/1973, que impede ao autor, após a citação, modificar o pedido ou a causa de pedir, sem o consentimento do réu; e, em nenhuma hipótese, permite a alteração do pedido ou da causa de pedir após o saneamento do processo.
+2. In casu, a emenda da inicial para possibilitar a inclusão no polo passivo da demanda de litisconsorte necessário não enseja modificação do pedido ou da causa de pedir.
+3. Ademais, é assente o entendimento do STJ de que o litisconsórcio necessário é regido por norma de ordem pública, cabendo ao juiz determinar, de ofício ou a requerimento de qualquer das partes, a integração à lide do litisconsorte passivo.
+4. Nos termos do art. 47 do Código de Processo Civil de 1973 há o litisconsórcio necessário quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes.
+5. O litisconsórcio necessário, à exceção das hipóteses de imposição legal, encontra sua razão de ser na natureza da relação jurídica de direito material deduzida em juízo, que implica produção dos efeitos da decisão de mérito de forma direta na esfera jurídica de todos os integrantes dessa relação.
+6. Agravo Interno não provido.
+(AgInt no REsp 1.593.819/SP, Relator Ministro Herman Benjamin, SEGUNDA TURMA, DJe de 8/11/2016)
+Neste sentido, alega que (fls. 947; 953):
+Conforme exposto, a parte Embargada teve seu recurso especial provido de forma monocrática para reformar o acórdão impugnado e determinar o retorno dos autos ao Juízo de 1º Grau, a fim de que seja cumprido o art. 321 do Código de Processo Civil, tendo sido negado provimento ao agravo interno interposto pela Embargante.
+(..)
+A r. decisão recorrida se baseou no julgamento da Exma. Ministra Nancy Andrighi, Segunda Seção, em 14/9/2022, no Resp n. 2.013.351/PA, em que se permite a emenda da petição inicial após a citação, quando da possibilidade de emenda se dar pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, nos termos do art. 321 do CPC/2015.
+Outrossim, baseou-se o acórdão recorrido na possibilidade excepcional de emenda após a contestação para atender aos princípios da instrumentalidade das formas, da celeridade, da economia e da efetividade processual, porém, ofertar à parte a oportunidade de emendar/corrigir a ação após o saneamento do processo (aplicação do artigo 321, CPC) fere frontalmente o contraditório e a ampla defesa da outra parte.
+Para tanto, deve-se observar o disposto no art. 329, inc. II do CPC, que limita o momento em que deve ser exercido o direito de emenda pelo autor da ação. Não se admite a emenda à inicial após o oferecimento da contestação quando tal diligência ensejar a modificação do pedido ou da causa de pedir, conforme reiterados entendimentos desse C. STJ.
+Ao final, requer o acolhimento dos presentes embargos de divergência, para:
+Demonstrada, pois, a divergência entre o v. aresto embargado e o r. julgado paradigma, requer que sejam acolhidos os presentes embargos, de modo a fazer prevalecer o escólio trazido a confronto, sendo reformado o v. acórdão ora embargado, em ordem para reconhecer a impossibilidade de se proceder com a emenda da petição inicial na origem, após a contestação e saneamento dos autos, ao passo que, notoriamente, haverá a alteração das causas de pedir e pedidos.
+Consequentemente, requer a reforma do acórdão enfrentado para negar provimento ao Recurso Especial interposto pela parte ora embargada.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em comento, verifica-se patente a ausência de similitude fática entre os acórdãos confrontados.
+Com efeito, "para que se configure o dissídio jurisprudencial é indispensável que os julgados confrontados revelem soluções distintas extraídas das mesmas premissas fáticas e jurídicas" (AgRg nos EREsp 1.202.436/RS, Rel. Ministro Teori Albino Zavaski, DJe 10/02/2012).
+O acórdão embargado versa sobre ação de indenização contra Norte Energia S/A, em virtude de alegado dano a pescador, por também alegada diminuição de peixes decorrente da construção da UHE de Belo Monte, concluindo-se pela necessidade de que o magistrado oportunize a emenda da inicial, nos termos do art. 321 do CPC/2015; confira-se o teor do referido preceito legal:
+Art. 321. O juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado.
+Parágrafo Único. Se o autor não cumprir a diligência, o juiz indeferirá a petição inicial.
+Já os acórdãos paradigmas tratam da possibilidade de emenda à inicial, na interpretação aos arts. 264 e 284 do CPC/1973, no sentido de não ser possível a emenda à inical, por iniciativa da parte autora, após o recebimento da contestação, com alteração do pedido ou causa de pedir.
+A questão processual debatida no acórdão recorrido restou adstrita ao artigo 321 do atual Código de Processo Civil, sem adentrar a questão quanto à possibilidade de emenda à inicial quando haja alteração do pedido ou causa de pedir (atual art. 329, II do CPC/2015).
+Desse modo, é inviável o conhecimento dos embargos de divergência quando ausente a similitude fática entre os arestos confrontados. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIVERGÊNCIA SOBRE O QUANTUM FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ART. 20, PARÁGRAFOS 3º E 4º DO CPC/73. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de similitude fática entre os arestos postos em confronto impede a constatação de divergência jurisprudencial.
+(..)
+3. Agravo interno não provido.
+(AgInt nos EREsp 1637051 / MG, 2016/0293812-7, Rel. Min. BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 02/05/2018, DJe 10/05/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VIOLAÇÃO DE DIREITO AUTORAL. COMPETÊNCIA DO DOMICÍLIO DO AUTOR OU DO LOCAL DO FATO. OPÇÃO DO AUTOR. ART. 100, PARÁGRAFO ÚNICO, DO CPC/1973. FALTA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. INADMISSIBILIDADE. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 168/STJ. AGRAVO DESPROVIDO.
+1. Inviável o conhecimento dos embargos de divergência quando ausente a similitude fática entre os arestos confrontados, como na hipótese.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EREsp 1685558 / SP, 2016/0221981-0, Rel. Min. LÁZARO GUIMARÃES- DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, SEGUNDA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018)
+A jurisprudência deste Tribunal Superior há muito pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+A inda que assim não fosse, a questão debatida, restou pacificada no âmbito da Segunda Seção, havendo centenas de decisões já proferidas no mesmo sentido, pelo que aplica-se também à espécie o entendimento sumular n. 168, segundo o qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal de firmou no mesmo sentido do acórdão embargado".
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. USINA HIDRELÉTRICA DE BELO MONTE. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. INOBSERVÂNCIA DA REGRA DO ART. 321 DO CPC/2015. ANULAÇÃO DA SENTENÇA. IRRESIGNAÇÃO DA RÉ/RECORRIDA. DISPOSITIVOS LEGAIS. OFENSA. DEMONSTRAÇÃO. PREQUESTIONAMENTO FICTO. OCORRÊNCIA. EMENDA DA PETIÇÃO INICIAL. POSSIBILIDADE. DECISÃO MANTIDA.
+1. A petição de especial particularizou e demonstrou a interpretação divergente dada ao dispositivo de lei federal indicado no recurso.
+Inaplicável a Súmula n. 284 do STF.
+2. Ausente pronunciamento da origem sobre algum ponto relevante, cabe suscitá-lo novamente em embargos de declaração. Mantida a omissão, o especial deverá demonstrar a violação do art. 1.022, inc.
+II, do CPC e a ocorrência do prequestionamento ficto (art. 1.025 do CPC), o que foi observado pelo recurso.
+3. É possível a emenda da petição inicial após a citação, desde que não se altere o pedido ou a causa de pedir.
+4. "O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC" (REsp n. 2.013.351/PA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/9/2022, DJe de 19/9/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.013.613/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PESCADORES. CONSTRUÇÃO DE USINA HIDRELÉTRICA. AÇÃO EXTINTA SEM RESOLUÇÃO DO MÉRITO. PRINCÍPIOS DA DIALETICIDADE. DURAÇÃO RAZOÁVEL DO PROCESSO. ECONOMIA PROCESSUAL. DEFICIÊNCIA NA INSTRUÇÃO. ART. 284 CPC DE 1973. ART. 321 DO CPC DE 2015. EMENDA À INICIAL. NULIDADE DO ACÓRDÃO E DA SENTENÇA. PROVIDÊNCIAS. FIXAÇÃO PELO JUIZ DA CAUSA.
+1. Comporta decretação de nulidade, com remessa dos autos ao juízo de origem para conferir à parte autora a oportunidade de emenda à inicial, a decisão judicial proferida em ação de indenização por danos materiais e morais que foi extinta sem resolução do mérito, devido à ausência de documento comprobatório da legitimidade ativa ad causam de profissional pesqueiro e à formulação de pedido genérico, sem a individualização dos prejuízos supostamente causados pela construção da Usina Hidrelétrica de Belo Monte.
+2. Não cabe ao Superior Tribunal de Justiça fixar os parâmetros de exigibilidade da emenda à inicial, porquanto incumbe ao juiz da causa verificar se estão preenchidos os requisitos da petição inicial e de sua instrução e, caso contrário, determinar que sejam os vícios sanados (art. 321 do CPC de 2015).
+3. "O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC" (Segunda Seção, REsp n. 2.013.351/PA).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.013.319/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+No mesmo sentido da presente decisão: EREsp 202469, Rel. Ministro Raul Araújo, Data da Publicação 25/04/2023; EREsp 2025898, Rel. Ministra Maria Isabel Gallotti, Data da Publicação 26/04/2023.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência .
+Publique-se. Intimem-se.
+EMENTA
