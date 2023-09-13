@@ -1,0 +1,64 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  ITAÚ  UNIBANCO  S.A.  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  PARANÁ  nos  termos  da  seguinte  ementa  (fl.  60):
+APELAÇÃO  CÍVEL.  AÇÃO  REVISIONAL.  CONTRATO  DECONTA  CORRENTE.  PRESCRIÇÃO.  AJUIZAMENTOPRÉVIO  DE  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  PRAZO  PRESCRICIONAL.  INTERRUPÇÃO.  JUROS  REMUNERATÓRIOS.  EXCESSO  CONSIDERÁVEL.  NÃO  DEMONSTRAÇÃO.  CAPITALIZAÇÃO.  COMPROVAÇÃO.  CONTRATAÇÃO.  AUSÊNCIA.  EXPURGO.  IMPOSIÇÃO.  TAXA  SELIC.  APLICABILIDADE.  ENCARGOS  SUCUMBENCIAIS.  REDISTRIBUIÇÃO.
+1.  O  pleito  de  revisão  contratual  possui  natureza  pessoal,  de  modo  que  prescreve  em  10  (dez)  ou  20  (vinte)  anos,  conforme  a  regra  de  prescrição  vigente  ao  tempo  do  fato  gerador  da  obrigação  (art.  177,do  Código  Civil  de  1916,  ou  art.  205,  do  Código  Civil  em  vigor).
+2.  O  anterior  ajuizamento  de  ação  de  prestação  de  contas,  em  relação  ao  mesmo  contrato,  interrompe  a  prescrição  da  pretensão  revisional.
+3.  Os  juros  remuneratórios  devem  ser  limitados  à  média  de  mercado  divulgada  pelo  Banco  Central  do  Brasil  (BACEN),  apenas  quando  se  constatar  excesso  considerável  nas  taxas  cobradas  pelo  banco.
+4.  Impõe-se  o  expurgo  da  capitalização  de  juros,  quando  comprovada  sua  cobrança  e  ausente  prova  da  contratação.  5.  Em  atenção  ao  entendimento  firmado  pelo  Superior  Tribunal  de  Justiça  em  sede  de  recurso  especial  representativo  de  controvérsia,  aplica-se  a  taxa  Selic  na  atualização  de  valores  devidos  a  título  de  repetição  de  indébito.
+6.  Os  encargos  sucumbenciais  devem  ser  distribuídos  entre  as  partes  na  medida  da  vitória  e  derrota  verificadas  na  demanda.
+7.  Apelação  cível  conhecida  e  parcialmente  provida.
+No  recurso  especial,  a  recorrente  alega  violação  do  art.  202,  I,  do  Código  Civil,  sustentando  que  a  ação  de  prestação  de  contas  não  teria  o  condão  de  interromper  o  prazo  para  propositura  da  ação  revisional.
+Sem  contrarrazões.
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.
+1.302-1.322),  o  que  ensejou  a  interposição  do  presente  agravo.
+Sem  contraminuta  do  agravo.
+É,  no  essencial,  o  relatório.
+Conheço  do  agravo,  pois  preenchidos  os  pressupostos  de  admissibilidade,  e  passo  ao  exame  do  recurso  especial.
+Cinge-se  a  pretensão  recursal  a  apontar  violação  do  art.  202,  I,  do  Código  Civil  (Art.  202.  A  interrupção  da  prescrição,  que  somente  poderá  ocorrer  uma  vez,  dar-se-á:  I  -  por  despacho  do  juiz,  mesmo  incompetente,  que  ordenar  a  citação,  se  o  interessado  a  promover  no  prazo  e  na  forma  da  lei  processual).
+No  que  tange  ao  afastamento  da  prescrição,  o  acórdão  assim  referiu  (fls.  1.254-1.255):
+No  tocante  aos  lançamentos  de  julho/1998  a  10/01/2003,  o  prazo  será  de  10  (dez)anos,  a  contar  da  vigência  do  Código  Civil  de  2002  (11/01/2003),  uma  vez  que  não  transcorrida  mais  da  metade  do  tempo  estabelecido  na  lei  revogada  (art.  205,  do  Código  Civil  de  2002,combinado  com  art.  2.028,  do  mesmo  diploma  legal).
+Quanto  à  movimentação  posterior  a  10/01/2003  (inclusive),  o  prazo  também  será  de  10  (dez)  anos  (art.  205,  do  Código  Civil  de  2002),  porém,  a  contar  de  cada  lançamento.
+Nesse  cenário,  estaria  prescrita  a  pretensão  revisional  anterior  a  06/12/2010,  eis  que  a  revisional  foi  ajuizada  em  07/12/2020.
+Todavia,  no  caso,  houve  a  interrupção  da  prescrição,  em  razão  do  anterior  ajuizamento  da  ação  de  prestação  de  contas  NPU  0003335-51.2008.8.16.0058,  em  ,15/07/2008em  relação  à  mesma  conta  corrente.
+ ..
+Por  conseguinte,  considerados  os  prazos  prescricionais,  seus  termos  iniciais  e  o  marco  interruptivo,  não  há  que  se  falar  em  prescrição.
+A  decisão  se  afigura  correta  e  em  conformidade  com  os  precedentes  desta  c  orte  que  assentam  a  interrupção  da  prescrição  nas  hipóteses  em  que  ajuizada,  anteriormente  à  propositura  da  ação  revisional,  ação  de  prestação  de  contas,  como  na  espécie.
+Em  tais  circunstâncias,  em  razão  da  propositura  da  primeira  ação,  não  resta  configurada  a  inércia  da  parte  e,  consequentemente,  tampouco  o  implemento  do  prazo  extintivo  da  pretensão  revisional.
+E  isso  decorre  naturalmente  do  fato  de  que  o  ajuizamento  da  ação  de  prestação  de  contas  tem  potencial  de  servir  de  procedimento  necessário  e  prévio  apto  a  viabilizar  à  parte  a  obtenção  de  informações  indispensáveis,  e  com  isso  tomar  conhecimento  exato  acerca  dos  créditos  e  débitos  existentes,  decorrentes  dos  encargos  remuneratórios  e  moratórios  vigentes  na  relação  jurídica  travada.
+Assim,  permite-se  que  tome  conhecimento  efetivo  dos  valores  devidos,  e  avalie  a  conveniência  e  oportunidade  do  ajuizamento  de  eventual  ação  revisional  que  discutirá,  ao  fim  e  ao  cabo,  a  extensão  mesma  do  saldo  devedor  ou  credor  apurado  na  prestação  de  contas.
+A  propósito,  cito:
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  REVISIONAL  DE  CONTRATO  BANCÁRIO.  ANTERIOR  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  INTERRUPÇÃO  DA  PRESCRIÇÃO.  SÚMULA  N.  83/STJ.
+1.  Cuida-se  de  agravo  de  instrumento  interposto  contra  decisões  interlocutórias  proferidas  nos  autos  de  ação  revisional  cumulada  com  repetição  de  indébito,  que  afastaram  a  preliminar  de  prescrição  e  inverteram  o  ônus  da  prova  com  fundamento  na  aplicação  do  CDC  ao  caso.
+2.  Nos  termos  da  jurisprudência  desta  Corte,  o  ajuizamento  de  ação  de  prestação  de  contas,  anteriormente  à  propositura  de  ação  revisional,  interrompe  o  prazo  prescricional,  pois  afastada  a  inércia  da  parte.  Incidência  da  Súmula  n.  83/STJ.
+Agravo  interno  improvido.
+(AgInt  no  AREsp  n.  2.210.930/PR,  relator  Ministro  Humberto  Martins,  Terceira  Turma,  julgado  em  28/8/2023,  DJe  de  30/8/2023.)
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  AÇÃO  REVISIONAL.  PRESCRIÇÃO.  INTERRUPÇÃO.  AJUIZAMENTO  ANTERIOR  DE  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  CITAÇÃO  REALIZADA.  SÚMULA  83/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Esta  Corte  Superior  entende  que  "a  citação  válida  promovida  em  anterior  ação  de  prestação  de  contas,  no  prazo  e  na  forma  da  lei  processual,  ainda  que  extinta  sem  resolução  de  mérito,  é  suficiente  para  interromper  a  prescrição  para  o  ajuizamento  de  ação  de  revisão  de  cláusulas  contratuais  referente  ao  mesmo  contrato"  (AgInt  no  AREsp  1.727.721/PR,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  20/4/2021,  DJe  de  28/4/2021).  Incidência  da  Súmula  83  do  STJ.
+2.  Agravo  interno  desprovido.
+(AgInt  no  REsp  n.  2.005.375/PR,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  26/6/2023,  DJe  de  28/6/2023.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL.  INTERRUPÇÃO  DO  TRANSCURSO  DA  PRESCRIÇÃO  PELO  MANEJO  DE  DEMANDA  VISANDO  PRESTAÇÃO  DE  CONTAS.  TESE  DO  JULGADO  ESTADUAL  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  AUSÊNCIA  DE  PRESCRIÇÃO.  SÚMULAS  5  E  7/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Na  mesma  linha  do  julgado  da  segunda  instância,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou  o  entendimento  de  que  a  citação  válida  em  ação  de  prestação  de  contas  anteriormente  ajuizada,  no  prazo  e  na  forma  da  lei  processual,  ainda  que  extinta  sem  resolução  de  mérito,  é  suficiente  para  interromper  a  prescrição.
+Precedentes.  Logo,  esse  ponto  do  acórdão  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  Súmula  83/STJ.
+2.  No  que  tange  à  inexistência  de  implemento  da  prescrição,  observa-se  esse  trecho  do  julgado  foi  fundado  na  apreciação  de  fatos,  provas  e  termos  contratuais  incidência  das  Súmulas  5  e  7/STJ,  que  incidem  sobre  ambas  as  alíneas  do  permissivo  constitucional.
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.045.435/PR,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  9/5/2022,  DJe  de  11/5/2022.)
+DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  REVISIONAL.  PRESCRIÇÃO.  INTERRUPÇÃO.  AJUIZAMENTO  ANTERIOR  DE  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  CITAÇÃO  REALIZADA.  SÚMULA  83/STJ.  OPOSIÇÃO  AO  JULGAMENTO  VIRTUAL.  AUSÊNCIA  DE  ARGUMENTAÇÃO  IDÔNEA.  SÚMULA  83/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Esta  Corte  Superior  entende  que  a  citação  válida  promovida  em  anterior  ação  de  prestação  de  contas,  no  prazo  e  na  forma  da  lei  processual,  ainda  que  extinta  sem  resolução  de  mérito,  é  suficiente  para  interromper  a  prescrição  para  o  ajuizamento  de  ação  de  revisão  de  cláusulas  contratuais  referente  ao  mesmo  contrato  (AgInt  no  AREsp  1.727.721/PR,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  20/04/2021,  DJe  de  28/04/2021).
+2.  Segundo  a  jurisprudência  desta  Corte  Superior,  a  oposição  ao  julgamento  virtual  deve  ser  acompanhada  de  argumentação  idônea  a  bem  evidenciar  efetivo  prejuízo  ao  direito  de  defesa  da  parte,  ônus  do  qual  não  se  desincumbiu  o  ora  agravante  (AgInt  nos  EDcl  no  AREsp  1.869.072/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  22/02/2022,  DJe  de  03/03/2022).
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  1.986.058/PR,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  9/5/2022,  DJe  de  10/6/2022.)
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL.  CITAÇÃO  VÁLIDA.  INTERRUPÇÃO  DA  PRESCRIÇÃO.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  REVISÃO  DO  JULGADO.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  NÃO  PROVIMENTO.
+1.  "A  citação  válida  promovida  em  anterior  ação  de  prestação  de  contas,  no  prazo  e  na  forma  da  lei  processual,  ainda  que  extinta  sem  resolução  de  mérito,  é  suficiente  para  interromper  a  prescrição  para  o  ajuizamento  de  ação  de  revisão  de  cláusulas  contratuais  referente  ao  mesmo  contrato"  (AgInt  no  AREsp  1.727.721/PR,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  20.4.2021,  DJe  de  28.4.2021).
+2.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  (Súmula  n.  7/STJ).
+3.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  AREsp  n.  1.788.348/PR,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  4/4/2022,  DJe  de  7/4/2022.)
+Na  espécie,  à  luz  dos  precedentes  referidos,  não  há  falar  em  violação  do  art.  202,  I,  do  Código  Civil  invocado.
+Dessarte,  estando  o  acórdão  recorrido  em  sintonia  com  o  entendimento  dominante  deste  Tribunal,  aplica-se  ao  caso  o  entendimento  consolidado  na  Súmula  n.  568/STJ:  "o  relator,  monocratica mente  e  no  Superior  Tribunal  de  Justiça,  poderá  dar  ou  negar  provimento  ao  recurso  quando  houver  entendimento  dominante  acerca  do  tema".
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Caso  exista  nos  autos  prévia  fixação  de  honorários  advocatícios  pelas  instâncias  de  origem,  determino  sua  majoração  em  desfavor  da  parte  agravante,  no  importe  de  15%  sobre  o  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal,  bem  como  eventual  concessão  da  gratuidade  da  justiça.
+Publique-se.  Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ANTERIOR AÇÃO DE PRESTAÇÃO DE CONTAS. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. O ajuizamento de ação de prestação de contas, anteriormente à propositura de ação revisional, interrompe o prazo prescricional, pois afastada a inércia da parte. Ausência de violação ao invocado art. 202, I, do Código Civil. Precedentes.
+2. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
