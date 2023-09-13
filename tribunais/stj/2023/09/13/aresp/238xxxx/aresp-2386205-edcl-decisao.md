@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HORIZONTE TÊXTIL LTDA e OUTROS à decisão de fls. 630/631, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No caso em tela, os presentes embargos de declaração se mostram necessários haja vista a omissão desta Relatora, com as devidas vênias, ao proferir a r. decisão de fls. 630 de não conhecimento do Agravo em Recurso Especial de fls. 553-558, por suposta ausência da completa cadeia de substabelecimentos conferindo poderes aos subscritores do recurso especial e do agravo em recurso especial.
+Contudo, em petição de fls. 625/627, os Embargantes informaram que todos os documentos necessários à comprovação dos poderes de representação já se encontram juntados aos autos.
+Especificamente em relação ao Recurso Especial, a petição recursal foi subscrita pelo advogado Bady Elias Cury Neto OAB/MG 64.754, cujos poderes de representação dos Recorrentes lhe foram substabelecidos pelo advogado Bruno José da Castro Andrade, OAB/MG 97.598, vide substabelecimento de fls. E-STJ 177, conforme se vê abaixo:
+ ..
+Já o Agravo em Recurso Especial foi subscrito pelos advogados Marcos Lincoln Padilha dos Santos OAB/MG 97.949 e Lorena Michele Costa Moreira OAB/MG 121.040, cujos poderes de representação dos Recorrentes foram substabelecidos pelo advogado Bady Elias Curi Neto, vide substabelecimento de fls. E- STJ 465-468.
+Veja Exa., que todos os documentos necessários à comprovação dos poderes de representação já se encontram juntados aos autos, não sendo, portanto, necessário sanar qualquer vício de representação, conforme sugerido na certidão de fls. 621 (fls. 635/637).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes aos subscritores do agravo, Dra. Lorena Michele Costa Moreira e do recurso especial, Dr. Bady Elias Curi Neto.
+Observe-se que não há a procuração originária da parte ora embargante, conferindo poderes à José Murilo Procópio de Carvalho, OAB/MG n. 23.356, à Verônica Scarpelli Cabral de Bragança, OAB/MG n. 45.958, Bráulio Cunha Ribeiro, OAB/MG n. 53.438 e demais causídicos que substabeleceram à fl. 183.
+Dessa forma, o instrumento de substabelecimento ao Dr. Bruno José de Castro não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Neste sentido, o AgInt no AREsp n. 2.028.800/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/8/2022; AgInt no AREsp n. 1.946.028/MS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/3/2022; AgInt no REsp n. 1.945.390/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 16/2/2022.
+Ademais, registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de representação e, apesar disso, não houve a regularização.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
