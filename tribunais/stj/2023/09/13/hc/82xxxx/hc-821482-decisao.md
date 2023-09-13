@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de JOAO VITOR SILVA DE ARAUJO contra acórdão do Tribunal de Justiça do Estado de Rondônia (HC n. 0802180-64.2023.8.22.0000).
+Consta dos autos que o paciente foi preso em flagrante e denunciado pela prática, em tese, dos delitos de tráfico de drogas e resistência (art. 33 da Lei n. 11.343/06 e 329, § 1º, do Código Penal - CP).
+Impetrado prévio writ, o Tribunal de origem denegou a ordem, em julgamento assim resumido (fls. 213/214):
+"Habeas corpus. Tráfico de drogas. Trancamento da ação penal.
+Inviabilidade. Inépcia da inicial. Denúncia anônima. Excepcionalidade não demonstrada. Necessário reexame do conjunto fático probatório. Prisão preventiva. Requisitos. Presença. Indícios demonstrados.
+Constrangimento ilegal. Inocorrência. Princípio da Homogeneidade. Violação. Ausência. Legalidade do decreto. Medidas cautelares. Insuficiência. Eventuais condições pessoais favoráveis. Irrelevância. Ordem denegada.
+1. O trancamento da ação penal por ausência de justa causa é medida excepcional, justificando-se quando despontar, fora de dúvida, atipicidade da conduta, causa extintiva da punibilidade ou ausência de indícios de autoria, o que não ocorre no caso sob exame.
+2. Havendo prova da materialidade e indícios de autoria, presentes estão os pressupostos da prisão preventiva, mormente quando a decisão se encontra adequadamente fundamentada em elementos extraídos da situação fática que levaram o magistrado a concluir pela necessidade da prisão.
+3. Eventual desproporcionalidade da prisão preventiva só poderá ser aferida após condenação, visto não caber, na via estreita do habeas corpus, a análise de eventual quantum de pena e o regime a ser aplicado.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa e a periculosidade do paciente, por indicarem que a ordem pública não estaria acautelada com sua soltura.
+5. Eventuais condições pessoais favoráveis, por si sós, não são suficientes a autorizar a concessão de liberdade provisória ou a revogação da prisão preventiva, se presentes seus motivos ensejadores.
+6. Ordem denegada."
+Em suas razões, a Defesa alega nulidades e aduz ser "imprescindível o trancamento da ação penal distribuída nos autos nº 7000018- 56.2023.8.22.0017, uma vez que baseada unicamente em prova obtida por meio ilícito" (fl. 6), com inobservância das regras previstas nos arts. 240, § 2º, e 244 do Código de Processo Penal.
+Subsidiariamente, aduz ausência dos requisitos autorizadores da custódia cautelar.
+Nestes termos, requer a concessão da ordem, liminarmente e no exame de mérito, para trancar a ação penal ou expedir mandado de soltura ao réu, ainda que mediante a imposição de medidas cautelares diversas.
+Indeferido o pedido liminar (fls. 222/224) e prestadas as informações pela autoridade coatora (fls. 232/247 e 248/261), o Ministério Público Federal opinou pela prejudicialidade do mandamus (fl. 265).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque a Corte estadual rejeitou a alegação de nulidade da prisão em flagrante sob o fundamento de "que não observo abuso de poder, ilegalidade flagrante ou teratologia, e o exame da existência de materialidade delitiva ou de indícios de autoria demanda amplo e aprofundado revolvimento fático-probatório, incompatível com a via estreita do remédio heroico, que não admite dilação probatória, reservando-se a sua discussão ao âmbito da instrução processual" (fl. 210).
+O Supremo Tribunal Federal - STF e esta Corte possuem o entendimento de que, tanto na nulidade relativa quanto na absoluta, é imprescindível a demonstração de efetivo prejuízo, em observância ao princípio pas de nullité sans grief. Porém, no caso concreto, a Defesa não cumpriu com essa obrigação nem mesmo na origem.
+No tocante à necessidade de demonstração do prejuízo, confiram-se os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E DENUNCIAÇÃO CALUNIOSA. CONDENAÇÃO. ALEGAÇÃO DEFENSIVA DE OFENSA À SÚMULA VINCULANTE 14 DO STF. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO DE DE ACESSO À MÍDIA DE INTERCEPTAÇÃO TELEFÔNICA. ALEGADA NULIDADE. INEXISTÊNCIA. ART. 563 DO CPP. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. PRINCÍPIO DO PAS DE NULLITÉ SANS GRIEF. PRETENSA NULIDADE OCORRIDA NA INSTRUÇÃO CRIMINAL. ARGUIÇÃO ATÉ AS ALEGAÇÕES FINAIS SOB PENA DE PRECLUSÃO. ART. 571, II, DO CPP. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA PELA JURISPRUDÊNCIA. AGRAVO DESPROVIDO.
+1. Em relação à alegação de ofensa à Súmula vinculante n. 14, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. Na hipótese, em que pese as mídias não estarem anexadas aos autos, a defesa não requereu a sua juntada durante a instrução da ação, o fazendo apenas por ocasião do julgamento da sessão plenária.
+3. O reconhecimento de nulidades no curso do processo penal, seja absoluta ou relativa, reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief).
+4. Assim, razão não assiste à defesa, na medida em que conforme o art. 571, II, do CPP, eventual nulidade ocorrida até o encerramento da fase de instrução deve ser arguída por ocasião das alegações finais, sob pena de preclusão, com a imprescindível demonstração do efetivo prejuízo suportado pela parte, o que inocorreu nos autos, na medida em que havia disponibilidade da íntegra das transcrições e que o acusado havia confessado a prática criminosa.
+5. Cumpre registrar que o prejuízo não pode ser presumido em razão apenas da prolação de sentença condenatória, mas deve ser demonstrado de modo efetivo.
+6. Por fim, o atendimento ao pleito defensivo resultaria em implícita aceitação da chamada "nulidade de algibeira" - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura. Ressalta-se, a propósito, que tal atitude não encontra ressonância no sistema jurídico vigente, pautado no princípio da boa-fé processual, que exige lealdade de todos os agentes processuais, 7. Agravo regimental desprovido.
+(AgRg no HC n. 710.305/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO ATIVA. CRIME FORMAL. EVENTUAIS IRREGULARIDADES NO INQUÉRITO POLICIAL. AUSÊNCIA DE CONTAMINAÇÃO DA AÇÃO PENAL. INFORMAÇÃO SOBRE O DIREITO DE PERMANECER EM SILÊNCIO. NULIDADE RELATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Supostas irregularidades ocorridas na fase de inquérito policial não têm o condão de contaminar a ação penal.
+2. Eventual irregularidade na informação acerca do direito de permanecer em silêncio é causa de nulidade relativa, cujo reconhecimento depende da comprovação do prejuízo, o que não ocorreu no presente caso.
+3. O delito de corrupção ativa, por se tratar de crime formal, prescinde da efetiva obtenção da indevida vantagem para sua consumação.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 703.604/PE, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 13/5/2022.)
+Ademais, as informações juntadas às fls. 234/235 noticiam que o Juízo de primeiro grau "desclassificou a conduta narrada no segundo fato da denúncia (art. 33, caput, da Lei nº 11.343/2006) e condenou o réu como incurso nas penas do art. 28, da Lei nº 11.343/2006. Também absolveu o réu das imputações que lhe foram feitas no primeiro fato da denúncia (art. 329, § 1º, do Código Penal), com fulcro no art. 386, VII, do Código de Processo Penal (ID 90630065). Foi fixada a sanção de advertência em relação ao art. 28, I, da Lei 11.343/2006 e consequentemente revogada a prisão preventiva, determinando a imediata soltura do réu, se este por outro motivo não estiver preso" (fl. 235).
+Desse modo, inexiste atualmente qualquer constrangimento ilegal à liberdade de locomoção do paciente em relação à ação penal de que aqui se cuida, restando evidenciada a perda superveniente do objeto da impetração.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente presente habeas corpus.
+Publique-se.
+Intime -se.
+EMENTA
