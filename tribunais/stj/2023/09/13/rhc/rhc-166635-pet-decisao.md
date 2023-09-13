@@ -1,0 +1,6 @@
+DECISÃO
+LEIDIMAR BERNARDO LOPES peticiona (expediente avulso), às fls. 2-6, reiterando os argumentos expostos no recurso em habeas corpus e, sobretudo, com o objetivo de que seja desconsiderado o trânsito em julgado certificado pela Coordenadoria de Processamento de Feitos, à fl. 283, de modo que o processo não seja arquivado, visto que ainda pendente de julgamento o agravo regimental interposto (fls. 245-254) contra a decisão que indeferiu liminarmente o recurso.
+Com razão em parte o peticionário. O agravo regimental interposto pela defesa contra a decisão que indeferiu liminarmente o recurso em habeas corpus ainda não foi apreciado, de tal sorte que a certidão de fl. 283 deve referir-se, tão somente, à decisão de fls. 278-279, que indeferiu o pedido de reconsideração. Aliás, na própria certidão há referência a essa decisão. Logo, a presente petição não poderia nem sequer ser autuada em expediente avulso.
+Assim, defiro em parte o pedido para que a certidão de fl. 283 não se refira ao julgamento definitivo do recurso em habeas corpus, que ainda pende de julgamento do agravo regimental, mas tão somente à decisão de fls. 278-279, devendo quaisquer outras manifestações da parte serem juntadas regularmente nos próprios autos .
+Publique-se e intime-se.
+EMENTA
