@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por ELDORADO EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL nos termos da seguinte ementa (fl. 339):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIAC/C PERDAS E DANOS - REQUISITOS PARA USUCAPIÃO PREENCHIDOS - DECURSO DO PRAZO DE 10 ANOS, POSSE CONTÍNUA, MANSA E PACÍFICA E ANIMUS DOMINI - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSOCONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 365-368).
+Nas razões do recurso especial (fls. 372-402), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos:
+a) 1.022, II, do Código de Processo Civil, sustentando que houve omissões no acórdão recorrido quanto à tese a seguir relatada; e
+b) 1.238 e 1.243 do Código Civil, alegando que os documentos e as oitivas utilizadas pelo Tribunal a quo não comprovam o preenchimento dos requisitos da usucapião extraordinária .
+Oferecidas contrarrazões (fls. 451-457), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 514-516), o que ensejou a interposição do presente agravo (fls. 522-555).
+Apresentadas contraminutas do agravo (fls. 563-566).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não se configura a apontada violação do art. 1.022, II, do Código de Processo Civil, porquanto, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem as apontadas omissões.
+No que se refere aos demais dispositivos, o Tribunal de origem concluiu que os requisitos para usucapião estão preenchidos, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 342-343):
+Quanto ao mérito em si, veja-se que a ação reivindicatória (art. 1.228do CC) possui como requisitos a) aprova do domínio da coisa reivindicanda; b) a individualização do bem e c) a comprovação da posse injusta do detentor.
+A posse injusta, a que se refere o art. 524, do Código Civil, é a que se insurge contra o exercício do direito de propriedade, estabelecendo uma luta entre ela, ainda que ad interdicta, e o domínio.
+Contudo, compulsando os autos, verifica-se que, pelo menos desde janeiro de 2010, conforme demonstra o documento de f. 76-78, os requeridos já exerciam a posse sobre o imóvel, de forma justa.
+Ademais, é fato incontroverso que os requeridos usufruíram do imóvel, fazendo dele residência, conforme contratos de prestação de serviços de energia elétrica e águas (f. 79-86).
+Nessas condições, considerando que a presente ação foi proposta em 09/07/2020, verifica-se que antes da propositura da presente demanda os requeridos preencheram o lapso temporal para aquisição da propriedade mediante o reconhecimento da usucapião extraordinária, na forma do Art. 1.238, parágrafo único, do CC, em razão da posse do imóvel em que fez moradia por prazo superior a dez anos.
+Nessa toada, percebe-se que a parte autora não se desincumbiu de provar a posse injusta praticada pelos réus, os quais, por sua vez, demonstraram o preenchimento dos requisitos da usucapião.
+Destarte, é de rigor manter a improcedência da ação reivindicatória, pois não preenchidos os requisitos legais necessários.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se: AgInt no AREsp n. 1.935.361/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no AREsp n. 1.817.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 744.998/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt nos EDcl no REsp n. 1.866.814/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Por fim, não se pode conh ecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido: AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgInt no AREsp n. 1.954.459/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023; AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
