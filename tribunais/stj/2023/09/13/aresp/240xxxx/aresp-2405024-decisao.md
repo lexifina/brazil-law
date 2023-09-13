@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fls. 1.196/1.197):
+INSURGÊNCIA DA TRANSPORTADORA RÉ.
+ACIDENTE DE TRÂNSITO. PRETENSÃO RESSACIRTÓRIA A TÍTULO DE DANOS MORAIS. LESÕES DECORRENTES DE QUEDA NO INTERIOR DO ÔNIBUS DE PROPRIEDADE DA TRANSPORTADORA DEMANDADA.
+TESES DE CULPA EXCLUSIVA DA AUTORA E DE INEXISTÊNCIA DE COMPROVAÇÃO DO NEXO CAUSAL ENTRE O ACIDENTE E A LESÃO DA VÍTIMA. QUESTÕES SUSCITADAS SOMENTE NESTE GRAU DE JURISDIÇÃO. INOVAÇÃO RECURSAL EVIDENCIADA. IMPOSSIBILIDADE DE CONHECIMENTO DA MATÉRIA. RISCO DE SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO CONHECIDO NO PONTO.
+PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA EM RAZÃO DO JULGAMENTO ANTECIPADO. NÃO ACOLHIMENTO. PODER DO MAGISTRADO DE INDEFERIR AS DILIGÊNCIAS INÚTEIS OU PROTELATÓRIAS. LESÃO CORPORAL DA AUTORA E NEXO DE CAUSALIDADE ENTRE O DANO E O ACIDENTE SUB JUDICE QUE SÃO INCONTROVERSOS POR NÃO TEREM SIDO IMPUGNADOS A TEMPO E MODO OPORTUNOS. PRODUÇÃO DA PROVA PLEITEADA COM O FIM DE COMPROVAR A TESE DECULPA DE TERCEIRO QUE NÃO ELIDIRIA A RESPONSABILIDADE DA TRANSPORTADORA. AUSÊNCIA DE INDÍCIOS MÍNIMOS A JUSTIFICAR A ALEGADA NECESSIDADE DE DILAÇÃO PROBATÓRIA. PREFACIAL RECHAÇADA.
+ARGUMENTO DE DECISÃO ULTRA PETITA. INACOLHIMENTO. VERBA INDENIZATÓRIA FIXADA PELO JUÍZO A QUO INFERIOR À PLEITEADA NA EXORDIAL. APLICAÇÃO DOS CONSECTÁRIOS LEGAIS QUE TEM O OBJETIVO DE MANTER O VALOR INDENIZATÓRIO ECONOMICAMENTE ATUALIZADO. PROEMIAL AFASTADA.
+RECURSO DA SEGURADORA DEMANDADA.
+POSTULADA A CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. PARCIAL ACOLHIMENTO. CONJUNTO PROBATÓRIO DOCUMENTAL QUE EVIDENCIA A HIPÓTESE DE INSUFICIÊNCIA FINANCEIRA. RELATÓRIOS FISCAIS QUE DEMONSTRAM ELEVADO PREJUÍZO FINANCEIRO DA COMPANHIA. EMPRESA EM FASE DE LIQUIDAÇÃO DECRETADA PELA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS POR MEIO DA PORTARIA N. 6.664/2016. INCIDÊNCIA DO ART. 98, " CAPUT DO CÓDIGO DE PROCESSO CIVIL. E DA SÚMULA 481 DO SUPERIOR TRIBUNAL DE JUSTIÇA. BENESSE QUE DEVE SER CONCEDIDA COM EFEITOS EX NUNC CONTADOS DESDE A DATA DO PROTOCOLO DO APELO. BENEPLÁCITO QUE NÃO SE ESTENDE AOS ATOS JÁ PRATICADOS.
+TESE DE DECISÃO CITRA PETITA. REJEIÇÃO. ARGUMENTO DE OMISSÃO A RESPEITO DO PEDIDO DE SUSPENSÃO DA FLUÊNCIA DE JUROS DE MORA E DE CORREÇÃO MONETÁRIA SOBRE O VALOR DEVIDO. EIVA INOCORRENTE. TEMA QUE SERÁ ABORDADO COM O MÉRITO.
+DAS INSURGÊNCIAS EM COMUM DAS REQUERIDAS.
+PRETENSÃO DE AFASTAMENTO DA RESPONSABILIDADE QUANTO AO INFORTÚNIO. ARGUMENTO DE CULPA EXCLUSIVA DE TERCEIRO. ALEGAÇÃO DE QUE O MUNICÍPIO DEIXOU DE SINALIZAR A EXISTÊNCIA DE LOMBADA FÍSICA NO LOCAL DO ACIDENTE. IRRELEVÂNCIA. INCONTROVERSO NOS AUTOS QUE O MOTORISTA DO ÔNIBUS DA RÉ NÃO REDUZIU A VELOCIDADE AO PASSAR PELO REFERIDO OBSTÁCULO. RESPONSABILIDADE CIVIL OBJETIVA DO TRANSPORTADOR. EVENTUAL CULPA DE TERCEIRO INCAPAZ DE ELIDIR A RESPONSABILIDADE DO TRANSPORTADOR PELOS PREJUÍZOS CAUSADOS AOS SEUS PASSAGEIROS. INTELIGÊNCIA DO ART. 735 DO CÓDIGO CIVIL E DA SÚMULA 187 DO SUPREMO TRIBUNAL FEDERAL. DEVER DE INDENIZAR INARREDÁVEL.
+ALEGADA INOCORRÊNCIA DE ABALO ANÍMICO. REJEIÇÃO. EVENTO LESIVO QUE RESULTOU EM FRATURA VERTEBRAL DA DEMANDANTE. NECESSIDADE DE INTERNAÇÃO HOSPITALAR E DE SUBMISSÃO A TRATAMENTO CIRÚRGICO. DANOS MORAIS CARACTERIZADOS. DEVER DE INDENIZAR CONFIGURADO. PLEITO SUBSIDIÁRIO DE REDUÇÃO DO QUANTUM. INACOLHIMENTO. MONTANTE FIXADO DE ACORDO COM AS PECULIARIDADES DO CASO CONCRETO. ESTREITA OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE E EM ATENÇÃO AO CARÁTER PEDAGÓGICO E COMPENSATÓRIO DA INDENIZAÇÃO. VALOR MANTIDO.
+TESES REMANESCENTES DA SEGURADORA RÉ.
+CONSECTÁRIOS LEGAIS. PEDIDO DE SUSPENSÃO DA INCIDÊNCIA. REJEIÇÃO. POSSIBILIDADE DE APLICAÇÃO DE JUROS DE MORA NA FASE DE CONHECIMENTO. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO A SERANALISADO NO MOMENTO DA HABILITAÇÃO DO CRÉDITO NO QUADRO DE CREDORES. VIABILIDADE DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA. MODIFICAÇÃO DO ART. 18,ALÍNEA "F", DA LEI N. 6.024/1974 PELO DECRETO-LEI N. 1.477/1976.
+ARGUMENTO DE NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NO QUADRO GERAL DE CREDORES. INVIABILIDADE. AÇÃO QUE SE ENCONTRA EM FASE DE CONHECIMENTO. INEXISTÊNCIA DE AFETAÇÃO DO PATRIMÔNIO DA SEGURADORA. PRETENSÃO QUE DEVE SER VEICULADA NA FASE PRÓPRIA.
+TERMO INICIAL DOS JUROS DE MORA SOBRE A INDENIZAÇÃO POR DANOS MORAIS. PRETENSÃO DE QUE SEJA CONTADO A PARTIR DO ARBITRAMENTO. IMPOSSIBILIDADE. INCIDÊNCIA QUE DEVE SE DAR DESDE A DATA DO EVENTO DANOSO. EXEGESE DA SÚMULA 54 DO STJ.
+RECURSO DA PARTE AUTORA.
+OBJEÇÃO EM RELAÇÃO À REVOGAÇÃO DO BENEPLÁCITO DA JUSTIÇA GRATUITA. ACOLHIMENTO. AUSÊNCIA DE SINAIS EXTERIORES DE RIQUEZA. PERSPECTIVA DE RECEBIMENTO DE VERBA INDENIZATÓRIA NOS PRESENTES AUTOS QUE NÃO PODE SER EMPREGADA PARA AFASTAR A HIPOSSUFICIÊNCIA ALEGADA PELA PARTE AUTORA. IMPERATIVA A MANUTENÇÃO DA BENESSE.
+ASSERTIVA DE NÃO RECEBIMENTO DE INDENIZAÇÃO REFERENTE AO SEGURO OBRIGATÓRIO DPVAT E DE QUE NÃO DEVE SER AUTORIZADA A SUA DEDUÇÃO. INSUBSISTÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO EFETIVO RECEBIMENTO DA REFERIDA INDENIZAÇÃO QUE NÃO É ÓBICE AO DEFERIMENTO DO PEDIDO DE DEDUÇÃO DO TOTAL DEVIDO. PARTE RÉ QUE PODERÁ COMPROVAR O REFERIDO PAGAMENTO ATÉ A FASE DE LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA.
+PLEITO DE REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. ACOLHIMENTO. DEMANDA QUE VERSA EXCLUSIVAMENTE SOBRE VERBA INDENIZATÓRIA A TÍTULO DE DANOS MORAIS. CONDENAÇÃO EM MONTANTE INFERIOR AO POSTULADO NA INICIAL QUE NÃOIMPLICA SUCUMBÊNCIA RECÍPROCA. EXEGESE DA SÚMULA 326 DO STJ. CONDENAÇÃO DAS REQUERIDAS AO PAGAMENTO INTEGRAL DAS DESPESAS PROCESSUAIS E DE HONORÁRIOS ADVOCATÍCIOS. INTELIGÊNCIA DO ART. 86, PARÁGRAFO ÚNICO, DO CPC.
+RECURSO DA TRANSPORTADORA RÉ PARCIALMENTE CONHECIDO E DESPROVIDO. APELO DA SEGURADORA DEMANDADA CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DAAUTORA CONHECIDO E PARCIALMENTE PROVIDO.
+O TJSC não conheceu dos embargos de declaração (e-STJ fls. 1.254/1.258).
+Nas razões do recurso especial (e-STJ fls. 1.268/1.280), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 81 e 1.026, § 2º, do CPC/2015, alegando que "ao negar provimento aos embargos opostos por esta Seguradora, a Colenda Câmara aplicou uma multa de 2% do valor corrigido da causa, com fulcro no art. 1.026, § 2º, do CPC  ..  o valor da causa é R$ 80.000,00 (oitenta mil reais), de modo que a multa aplicada perfaz a quantia de R$ 1.600,00 (um mil e seiscentos reais) e (..) se mostra inteiramente desnecessária e desproporcional sua aplicação, data máxima vênia" (e-STJ fl. 1.276),
+(ii) arts. 944 do CC/2002 e 8º do CPC/2015, explicando que "versa o recurso sobre a evidente desproporcionalidade da verba indenizatória arbitrada, não se prestando em momento algum a rediscutir o mérito da demanda. Tão somente serve a demonstrar que o acórdão fere Lei Federal, conforme se demonstrará em linhas posteriores  ..  não é admissível indenização por danos morais desta monta, qual seja, a exorbitante quantia de R$ 25.000,00 (vinte e cinco mil reais). Trata-se de condenação absolutamente desproporcional, inteiramente em desacordo com a legislação vigente" (e-STJ fl. 1.278).
+Em suma, são estes os pedidos recursais (e-STJ fls. 1.279/1.280):
+Seja recebido e dado seguimento ao Recurso Especial, intimando a parte recorrida para apresentar contrarrazões no prazo legal, em homenagem ao princípio do contraditório e, posteriormente, remetam-se os autos ao Colendo Superior Tribunal de Justiça;
+Conheçam o presente Recurso, dando-lhe total provimento, com fulcro na alínea "a"art.105da CF/88, de modo a reformar o acórdão recorrido, posto a clara violação aoartigo81do Código de Processo Civil.
+Foram oferecidas contrarrazões (e-STJ fls. 1.332/1.351).
+No agravo (e-STJ fls. 1.378/1.383), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.402/1.407).
+É o relatório.
+Decido.
+No que tange à fixação dos danos morais, registra-se que as duas Turmas integrantes da Segunda Seção desta Egrégia Corte Superior se valem do método bifásico para seu arbitramento, porquanto o referido método é o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais. Isso porque minimiza eventuais arbitrariedades ao se adotar critérios unicamente subjetivos do julgador, além de afastar eventual tarifação do dano. Leva-se em consideração o interesse jurídico e as particularidades do caso concreto para a definição do quantum indenizatório.
+Ilustrativamente (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ADMINISTRATIVO. ANISTIADO POLÍTICO. PRISÕES EFETUADAS À ÉPOCA DO REGIME MILITAR. INDENIZAÇÃO POR DANOS MORAIS. VALOR FIXADO. PARÂMETROS NÃO DEMONSTRADOS. OMISSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE DE RETORNO DOS AUTOS PARA NOVO JULGAMENTO.
+1. Esta Corte Superior entende que a fixação do valor devido a título de danos morais "deve considerar o método bifásico, sendo este o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais, uma vez que minimiza eventual arbitrariedade ao se adotar critérios unicamente subjetivos do julgador, além de afastar eventual tarifação do dano" (AgInt nos EDcl no REsp n. 1.809.457/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/2/2020, DJe de 3/3/02020).
+ ..
+Agravo interno improvido.
+(AgInt no REsp n. 1.999.918/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CONSUMIDOR. PRODUTO ALIMENTÍCIO. CORPO ESTRANHO. INGESTÃO. PRESCINDÍVEL. DANO MORAL CARACTERIZADO. DANO IN RE IPSA. ATUAL ENTENDIMENTO DA 2ª SEÇÃO DO STJ. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O montante compensatório a título de dano moral deve ser fixado considerando o método bifásico, norteador do arbitramento equitativo exercido pelo juiz, o qual analisa o interesse jurídico lesado e as peculiaridades ocorridas no caso para a definição do valor.
+3. Quantia arbitrada que se mostra incapaz de gerar o enriquecimento ilícito do consumidor e suficiente para punir a empresa pela conduta reprovável.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.517.591/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Ao fixar o valor da indenização, a Corte de origem considerou que (e-STJ fl. 1.206):
+a) a autora é beneficiária da justiça gratuita (evento 2 dos autos de origem);
+b) não há nos autos informações a respeito da capacidade financeira da transportadora ré, e no seu website consta que "o Grupo Forquilhinha é hoje o maior no ramo de transporte urbano do sul catarinense, operando também no serviço rodoviário, através das modalidades de fretamento e viagens especiais" (<http://www. grupo forquilhinha. com. br/a-empresa/historia>);
+c) o caráter pedagógico da compensação, em relação à responsabilidade de preservar a integridade de seus passageiros enquanto realiza a prestação de seus serviços;
+d) o sofrimento da autora por ter a sua vertebra fraturada e necessitado de procedimento cirúrgico;
+e) a existência de cobertura securitária para o evento em questão.
+O TJSC fixou o valor da indenização em R$ 25.000,00 (vinte e cinco mil reais) com base na análise das provas e das particularidades do caso concreto. Assim, a revisão do entendimento adotado demanda a reapreciação do acervo fático-probatório, providência inviável na via especial em razão da incidência do enunciado da Súmula n. 7/STJ.
+No mais, o recurso merece provimento.
+Isso porque, a interposição dos aclaratórios, na Corte de origem, decorreu do exercício do direito de insurgir-se da parte, que se valeu desse meio no intuito de prequestionar matéria relevante para futuro recurso especial. Dessa forma, deve-se afastar a multa aplicada. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 557, § 2º, DO CPC/73. ESGOTAMENTO DE INSTÂNCIA. NECESSIDADE. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. PREQUESTIONAMENTO. SÚMULA 98/STJ. AFASTAMENTO DAS MULTAS APLICADAS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que não é aplicável a multa do artigo 557, § 2º, do CPC/73 quando o agravo interno interposto contra decisão monocrática do relator objetiva o exaurimento da instância ordinária, a fim de possibilitar a interposição de posterior recurso.
+2. É inviável a aplicação da multa do artigo 538, parágrafo único, do CPC/73 se os embargos de declaração foram opostos com o fim de prequestionar a matéria deduzida no apelo especial, e não com o propósito protelatório. Aplicação da Súmula 98/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 166.764/PA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DECLARATÓRIOS. NÃO PROTELATÓRIOS. MULTA. AFASTADA. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. MULTA EXTIRPADA.
+1. Os embargos de declaração que objetivam prequestionar as matérias a serem submetidas às instâncias extraordinárias não se revestem de caráter procrastinatório, devendo ser afastada a multa prevista no art. 538, parágrafo único, do Código de Processo Civil (Súmula n.º 98/STJ).
+2. Não há litigância de má-fé na mera interposição de recursos legalmente previstos no ordenamento jurídico, sem abuso do direito de recorrer e inexistindo descaso com o Poder Judiciário.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1598961/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017.)
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial de NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO, afastando a multa imposta no julgamento dos embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
