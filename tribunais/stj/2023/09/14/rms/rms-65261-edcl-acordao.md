@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RMS. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração é recurso destinado a sanar obscuridade, contradição, omissão ou erro material na decisão ou acórdão.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, decidir rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por Walterlucyanna Almeira de Moraes contra acórdão, assim ementado (fls. 412-415):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULAS 283/STF.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial.
+Incide ao caso a Súmula 283/STF.
+3. Agravo interno não provido. (AgInt nos EDcl no RMS n. 65.261/PB, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe: 29/3/2023)
+A embargante, sob o pretexto de omissão e contradição, argumenta ter impugnado "de forma, específica e fundamentada" todos os fundamentos proferidos pelo Tribunal de origem, não incidindo, na espécie, o óbice da Súmula 283/STF..
+Requer, assim, o acolhimento dos embargos de declaração, para modificar o acórdão, adequando-o na forma requerida" (fl. 426, e-STJ).
+Impugnação às fls. 436-440.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RMS. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2, Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração é recurso destinado a sanar obscuridade, contradição, omissão ou erro material na decisão ou acórdão.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 535, I e II, do CPC/1973, bem como para sanar a ocorrência de erro material.
+No caso, à unanimidade, o acórdão embargado negou provimento ao agravo interno da embargante, mantendo a decisão anterior que não conheceu do recurso em mandado de segurança, porquanto não impugnado especificamente fundamento do acórdão do Tribunal de origem que denegou a segurança. Confira-se:
+Na espécie, a recorrente teve sua inscrição definitiva indeferida no 1º Concurso Público das Serventias Extrajudiciais da Paraíba em razão de possuir certidão criminal positiva.
+O Tribunal estadual denegou a segurança ao fundamento de que, na espécie, "já houve decisão do colegiado desta Corte de Justiça mantendo a condenação pelos crimes de apropriação indébita qualificada e fraude processual, como também não se pode negar que a conduta criminosa praticada pela impetrante, por ocasião do exercício de sua profissão de advogado, é, sem dúvida, incompatível com o exercício do cargo para o qual concorre, qual seja delegatório de serviços notariais e de registro, exigindo-se retidão, lisura e probidade do agente público".
+Ocorre que a recorrente em suas razões limita-se a alegar a existência de precedentes do STJ e do STF no sentido de não ser razoável e proporcional a exclusão de candidato na investigação social pelo fato que não ensejou condenação com sentença transitada em julgado.
+Assim sendo, em nova análise, evidencia-se que a recorrente em suas razões, de fato, não impugnou especificamente fundamento do acórdão recorrido apto, por sí só, a manter a manutenção do acórdão recorrido.
+Diga-se que essa Corte tem reiteradamente decidido no sentido de que a Súmula 283/STF "prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 01/08/2012). No mesmo sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PAD. DEMISSÃO DE ESCRIVÃO DA POLÍCIA CIVIL. INEXISTÊNCIA DE DIALETICIDADE. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. OBSERVÂNCIA DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. REEXAME DO MÉRITO DO ATO ADMINISTRATIVO PELO JUDICIÁRIO. IMPOSSIBILIDADE.
+1. A parte recorrente não infirma o fundamento do aresto vergastado de que "o processo administrativo disciplinar transcorreu de forma regular, com pleno atendimento aos postulados constitucionais do contraditório e da ampla defesa" e de que descabe ao Poder Judiciário adentrar o mérito do ato administrativo. Limita-se a defender que faltam provas para sua demissão. Por isso incide no caso a Súmula 283/STF.
+2. Ademais, ainda que não se evocasse a Súmula 283/STF, a irresignação não prosperaria.
+Ora, o aresto vergastado decidiu, em conformidade com a jurisprudência do STJ, que o controle do Poder Judiciário em relação aos processos administrativos disciplinares, restringe-se ao exame do efetivo respeito aos princípios do contraditório, da ampla defesa e do devido processo legal, sendo vedado adentrar o mérito administrativo.
+3. Além disso, também a título de argumentação, anota-se que cabia à parte ora recorrente carrear provas que demonstrassem a ilegalidade do ato coator. A parte recorrente não trouxe provas pré-constituídas de que a motivação da Administração não condiz com os fatos apurados. O recorrente, além de revisão do mérito do ato administrativo, pretende ingressar na seara fático-probatória dos autos, o que não se admite em Mandado de Segurança.
+4. Recurso Ordininário não conhecido.
+(RMS n. 69.971/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/2/2023, DJe de 28/3/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS MUNICIPAL. REJEIÇÃO DE CONTAS. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO RECURSO ORDINÁRIO. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 283/STF. PROCESSO DE TOMADA DE CONTAS. REPROVAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso ordinário afronta o princípio da dialeticidade e ao disposto no art. 932, III, do Código de Processo Civil pela ausência de impugnação do fundamento com relação à comprovação de irregularidades no procedimento administrativo TC n. 0002728/026/14, referente à análise das contas apresentadas pelo Presidente da Câmara Municipal, no exercício de 2014.
+III - Nas razões do Recurso Especial, tal fundamentação não foi especificamente refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal.
+IV - Diante da regularidade procedimental do processo de Tomada de Contas n. 002728/026/14, que resultou na reprovação das contas da Câmara Municipal de Ipatinga, relativas ao exercício de 2014, não há que se falar em direito líquido e certo.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EDcl no RMS n. 69.611/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Sob esse enfoque, ao contrário do sustentado pela embargante, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo artigo 1.022 do CPC/2015, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada ao assentar que "a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal" (AgInt no RMS n. 69.859/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Quanto ao argumento segundo o qual impugnou, sim, "de forma, específica e fundamentada" todos os fundamentos proferidos pelo Tribunal de origem, evidencia-se que a embargante procura novamente o julgamento da causa, mediante o reexame de matéria já decidida, o que não mostra possível, diante da ausência dos pressupostos estabelecido no art. 1.022 do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
