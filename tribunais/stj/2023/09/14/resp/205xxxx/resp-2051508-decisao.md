@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, à alegação de que houve afronta ao art. 85, § 7º, do Código de Processo Civil.
+A questão debatida nos autos, qual seja, a "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV.", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos Recursos Especiais 2.029.636/SP, 2.029.675/SP, 2.030.855/SP, 2.031.118/SP, de relatoria do Ministro Herman Benjamin, sob o rito dos recursos repetitivos (Tema 1.190/STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
