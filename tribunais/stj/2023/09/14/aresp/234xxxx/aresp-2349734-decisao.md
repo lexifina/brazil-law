@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ÁLVARO MATHEUS DE CASTRO LARA e FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS PCG - BRASIL MULTICARTEIRA (ÁLVARO e outro) contra decisão que negou seguimento ao apelo nobre que interpuseram
+Foi apresentada contraminuta por LUCIANA MARIA MENEGHELLI MORENO (e-STJ fls. 174/180).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea "a", da CF, ÁLVARO e outro alegaram violação aos arts. 2º, 10, 85, §§ 2º e 14, 141, 489, §1º, IV, 492, 502, 932, III, 1.018, §1º, 1.022, I e II, do CPC, e 23 da Lei 8.906/94, ao sustentar (1) a necessidade de retorno dos autos ao Tribunal estadual para que sejam afastadas a omissão e contradição existentes no acórdão recorrido; (2) a prejudicialidade do julgamento do agravo de instrumento pelo juízo de retratação realizado na hipótese; (3) a ocorrência de julgamento extra petita, reformatio in pejus e supressão de instância no exame do agravo de instrumento; (4) o trânsito em julgado da decisão que incluiu o crédito pertencente ao advogado recorrente, pelo valor de R$ 861.252,14 à ser pago no sexto lugar na ordem de preferências (e-STJ fl. 90); e (5) a impossibilidade da limitação a 10% do valor penhorado para o pagamento dos honorários advocatícios.
+(1) Da negativa de prestação jurisdicional (violação aos arts. 489 e 1.022 do CPC)
+ÁLVARO e outro alegaram violação aos arts. 489 e 1.022 do CPC, pois defendem que o TJSP não enfrentou a questão relativa a perda de objeto do agravo de instrumento interposto contra a decisão que não havia incluído seu crédito no quadro de concurso de credores.
+Todavia, de omissão não se pode falar pois o TJSP definiu expressamente que o v. acórdão negou provimento ao agravo de instrumento do embargante, o que implica na manutenção da decisão de origem, mesmo que outra tenha sido proferida em sua substituição, não havendo que se falar em omissão, tampouco reformatio in pejus. (e-STJ fl. 129)
+Além disso, em relação ao tema suspostamente omisso, ainda foi pontuado pelo Tribunal estadual que:
+A decisão de fls. 673/675, exarada em 25/06/2021, acolheu em parte os pedidos formulados pelos interessados, sendo elaborado novo quadro de preferências, onde o crédito do agravante Álvaro Matheus de Castro Lara foi reclassificado, sendo reconhecida a preferência do crédito, em razão de sua natureza alimentar. (e-STJ fl. 73) (grifou-se)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, as alegadas violações.
+(2) Da prejudicialidade do julgamento do agravo de instrumento
+Nas razões do recurso especial, ÁLVARO e outro aduziram a violação dos arts. 932, III e 1.018, §1º do CPC porque a decisão agravada (fls. 19/22) proferida em 05/04/2021, foi substituída pela decisão proferida em sede de retratação (ora fls. 52/54) em 25/06/2021 (e-STJ fl. 85), e por isso o agravo de instrumento não poderia ter sido desprovido, mas sim não conhecido.
+Asseveram que como a decisão agravada foi substituída por outra decisão de primeiro grau (retratação) e, considerando que a segunda decisão não foi objeto do agravo e não poderia ser modificada pelo presente recurso, patente foi a perda de objeto e prejudicialidade (e-STJ fl. 86) do seu agravo de instrumento.
+Contudo, o acórdão recorrido além de declarar que a decisão de fls. 673/675, exarada em 25/06/2021, acolheu em parte os pedidos formulados pelos interessado (e-STJ fl. 73), afirmou que referida decisão foi atacada pelo agravo de instrumento n. 2183357-17.2021.8.26.0000, interposto pela exequente Luciana Maria Mendes Meneghelli (e-STJ fl. 74).
+Comparando as alegações trazidas por ÁLVARO e outro, os dispositivos legais apontados como violados, e a conclusão do TJSP quanto à questão, se percebe que não houve a violação dos arts. 932, III e 1.018, §1º do CPC preconizada.
+O Tribunal estadual está em conformidade com a jurisprudência do STJ no sentido de que "havendo retratação parcial de decisão, o recurso de agravo não ficará prejudicado, sendo cabível que se dê prosseguimento ao seu julgamento" (REsp n. 968.432/MG, Relator Ministro JOÃO OTÁVIO DE NORONHA, 4ª Turma, DJe 5/9/2011).
+Incide, portanto, quanto ao ponto, incide a Súmula 568 do STJ.
+(3) Do julgamento extra petita, da reformatio in pejus e da supressão de instância no exame do agravo de instrumento
+ÁLVARO e outro também apontaram o desrespeito aos arts. 2º, 10, 141, 492 do CPC, pois afirmaram que o valor dos honorários advocatícios a que faziam jus foi reduzido no exame do agravo de instrumento que interpuseram na origem, e por isso o julgamento foi extra petita, provocou a reformatio in pejus e a supressão de instância.
+Quanto à segunda alegação o aresto impugnado firmou que a anotação contida no acórdão não alterou a decisão base (grifou-se) (e-STJ fl. 129), não havendo que se falar em reformatio in pejus.
+Rever aludida conclusão demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Não obstante, o Tribunal estadual não se pronunciou sobre ser o julgamento extra petita e a ocorrência da supressão de instância, bem como sobre a violação aos arts. 2º, 10, 141, 492 do CPC, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada aludidas teses trazidas no recurso especial.
+Dessa forma, quanto aos pontos, incide a Súmula nº 211 do STJ.
+(4) Do trânsito em julgado da decisão que incluiu o crédito em debate no quadro de credores e (5) Da impossibilidade da limitação a 10% do valor penhorado para o pagamento dos honorários advocatícios
+ÁLVARO e outro defenderam, finalmente, que a decisão que incluiu seu crédito de R$ 861.252,14 à ser pago no sexto lugar na ordem de preferências transitou em julgado, e tratando-se de verbas autônomas, a penhora de 50% do imóvel garantiu ambos os créditos de forma individual, ou seja, foi penhorado 50% do imóvel para garantia do crédito principal e foi penhorado 50% do imóvel para garantia do crédito de honorários (e-STJ fl. 92).
+Indicaram como descumpridos os arts. 85, §§2º e 14, 502 do CPC, bem como o art. 23 da Lei 8.906/94 .
+Sobre o assunto, pontuou o TJSP:
+O v. acórdão negou provimento ao agravo de instrumento do embargante, o que implica na manutenção da decisão de origem, mesmo que outra tenha sido proferida em sua substituição, não havendo que se falar em omissão, tampouco reformatio in pejus.
+Ulterior decisão, caso haja descontentamento, deverá ser objeto de novo recurso.
+A anotação contida no acórdão não alterou a decisão de base, é no sentido que o crédito de honorários do embargante respeite os limites da penhora averbada na matrícula, ou seja, 10% sobre 50% do imóvel do executado que, noutras palavras, corresponde a 5% do valor da avaliação.
+Essa observação não altera o quadro de credores, mas, apenas, observa a constrição havida na matrícula. Se não concorda o embargante com a garantia do seu crédito, deveria ter impugnado a decisão que deferiu a penhora e não trazer essa discussão aqui, como pretende, como bem ressaltado na manifestação de págs. 8/10. (e-STJ 129)
+Do exame dos autos, observa-se que os fundamentos quanto à não alteração da decisão base, à observância da constrição havida na matrícula e à falta de impugnação do deferimento da penhora, não foram impugnados, atraindo a incidência da Súmula nº 283 do STF, por analogia.
+Ademais, o TJSP também não se pronunciou sobre a violação aos arts. 85, §§2º e 14, 502 do CPC, e 23 da Lei 8.906/94, apesar da oposição dos necessários embargos de declaração.
+O que, como já referido, prejudica o conhecimento das teses pela incidência da Súmula 211 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do CPC, c/c o art. 253 do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE do apelo nobre e, nessa extensão, a ele NEGAR PROVIMENTO.
+Inaplicável ao caso a majoração de honorários advocatícios, visto se tratar de recurso especial oriundo de julgamento de agravo de instrumento.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PREJUDICIALIDADE DO AGRAVO DE INSTRUMENTO. SÚMULA 568 DO STJ. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AUSÊNCIA DO DEVIDO PREQUESTIONAMENTO. SÚMULA N.º 211 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
