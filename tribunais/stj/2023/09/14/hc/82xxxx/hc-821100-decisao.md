@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO SANDOVAL DE OLIVEIRA MARQUES contra acórdão do Tribunal de Justiça do Estado de São Paulo, prolatado no julgamento do HC n. 2074333-83.2023.8.26.0000.
+Consta que o Paciente foi preso em flagrante, em 11/12/2022, com posterior conversão da custódia em preventiva (fls. 67-69), em razão da suposta prática dos ilícitos tipificados no art. 180, caput, e 330 (desobediência), ambos do Código Penal (fl. 68).
+Em 14/12/2022, o Ministério Público ofereceu denúncia (fls. 21-23), apontando o Paciente como incurso nos crimes do art. 157, § 2.º, inciso II, e § 2.º-A, inciso I, do Código Penal, assim como no art. 180, caput, (duas vezes) da mesma Legislação. A exordial foi recebida em 15/12/2022 (fls. 108-109).
+Em 16/12/2022, o Parquet aditou a denúncia, imputando a BRUNO SANDOVAL o crime do art. 180, caput, por 03 vezes, do Código Penal (fls. 133-135).
+O Magistrado de primeiro grau recebeu a denúncia aditada em 19/12/2022.
+A Defesa, pugnando pela revogação da prisão preventiva ou por sua substituição por medidas cautelares alternativas, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 259-268. Eis a ementa do julgado (fl. 260):
+"Habeas Corpus. Receptação, por três vezes. Liberdade provisória. Inadmissibilidade. Presença de indícios de autoria e prova da existência do crime. Decisão que decretou a custódia, bem assim aquela que a manteve, que se encontram suficientemente fundamentadas. Paciente que, apesar de tecnicamente primário, foi recém beneficiado com transações penais e, mesmo assim, tornou à delinquência ao adquirir/conduzir veículos de origem espúria, tendo, ao que parece, pago pela res com entorpecentes, o que evidencia a propensão do réu à senda criminosa e o efetivo risco de reiteração delitiva. Insuficiência das medidas cautelares diversas da prisão, sendo o encarceramento absolutamente necessário para resguardar a ordem pública. Descabimento de qualquer das benesses excepcionais constantes da Recomendação nº 62 do CNJ. Ausência de constrangimento ilegal. Ordem denegada."
+Contra esse acórdão, a Parte Impetrante, sustenta, em suma, que: (i) não estão presentes na hipótese os requisitos legais autorizadores da prisão preventiva; (ii) o Paciente possui as condições pessoais favoráveis; (iii) "não prospera o argumento utilizado pela autoridade coatora no sentido de que a segregação cautelar do paciente seria necessária finalisticamente para assegurar a aplicação da lei penal, através da apresentação do réu em Juízo e, consequentemente, a submissão ao reconhecimento pessoal por parte da vítima" (fl. 10); e (iv) a adoção da medida extrema é desproporcional, pois, em caso de eventual condenação, a reprimenda a ser imposta será mais branda do que o cárcere.
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares diversas.
+O pedido liminar foi indeferido às fls. 271-276.
+As informações processuais requisitadas foram prestadas às fls. 282-337.
+O Ministério Público Federal opinou pela denegação da ordem às fls. 339-340.
+É o relatório.
+Decido.
+De início, pontuo que, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, pude constatar nos autos da Ação Penal em comento (Ação Penal n. 1501289-39.2022.8.26.0545) que, em 13/06/2023, o Juízo de primeiro grau julgou parcialmente procedente a denúncia ministerial, de modo que condenou o Paciente pelo cometimento do crime previsto no art. 180, caput, por três vezes, na forma do art. 71, ambos do Código Penal à pena de 01 (um) ano, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial aberto, e ao pagamento de 33 (trinta e três) dias-multa. O Magistrado concedeu a BRUNO o direito de recorrer em liberdade.
+Dessarte, tenho que a impetração perdeu objeto.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE CONCEDIDO. PERDA DE OBJETO. HABEAS CORPUS PREJUDICADO.
