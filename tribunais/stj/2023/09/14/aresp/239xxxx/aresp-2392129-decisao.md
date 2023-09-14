@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por TEIXEIRA PRIMA E BUTLER ADVOGADOS, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fls. 25-26):
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS, EM FASE DE CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS FIXADOS EM DESFAVOR DA AUTORA. OPOSIÇÃO DE EMBARGOS À EXECUÇÃO PARA IMPUGNAR O VALOR INDICADO PELO EXEQUENTE. DECISÃO QUE APLICOU O PRINCÍPIO DA FUNGIBILIDADE E RECEBEU A DEFESA COMO IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECURSO DO EXEQUENTE.
+1. Controvérsia que se cinge em verificar se os embargos à execução ofertados pela executada/agravada devem ser recebidos como impugnação ao cumprimento de sentença ou rejeitados liminarmente.
+2. Superior Tribunal de Justiça que assentou entendimento no sentido de ser possível, em casos análogos aos dos autos, a aplicação do princípio da fungibilidade, à luz dos princípios constitucionais da proporcionalidade e razoabilidade, de forma a priorizar o conteúdo em detrimento da forma. Precedentes do STJ.
+3."A oposição de embargos à execução, em vez de impugnação, ao cumprimento de sentença deve ser examinada sob o prisma dos princípios constitucionais da proporcionalidade e razoabilidade. Se a medida eleita pela parte é necessária e pode ser aproveitada, atende ao fim precípuo do processo, que é mero instrumento para a concretização do direito material"(REsp n. 1027019/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 8/2/2011, DJe 2/3/2011).
+4. Possibilidade de aproveitamento da peça processual apresentada pela agravada, considerando a regular impugnação ao valor da execução indicado pelo agravante, motivo pelo qual não merece ser reformado o decisum recorrido, mantendo-se a aplicação do princípio da fungibilidade.
+5. Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 38):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DEOMISSÃONO ACÓRDÃO COMBATIDO.
+1. Os embargos de declaração têm a finalidade de esclarecer obscuridade ou contradição da decisão, supri-la de omissão ou corrigi-la quando houver erro material.
+2. Este recurso é sede imprópria para manifestar o inconformismo com o julgado e obter a sua reforma, porque, salvo as hipóteses específicas estabelecidas nos incisos do artigo 1.022 do Código de Processo Civil, nele não se devolve o exame da matéria.
+3. Desnecessidade de referência a todos os normativos legais ou jurisprudenciais trazidos pelas partes. Precedente: 0022984-42.2012.8.19.0037. Des. Cristina Tereza Gaulia -Julgamento: 12/04/2016 -5ª Câmara Cível.
+4. Embargos de Declaração conhecidos e desprovidos.
+Nas razões do apelo especial (e-STJ, fls. 43-50), a sociedade de advogados insurgente apontou ofensa ao art. 525 do CPC/2015.
+Sustentou que a Corte estadual teria se equivocado ao receber os embargos à execução opostos como impugnação.
+Alegou que o princípio da fungibilidade aplicado ao caso concreto seria manifestamente equivocado, uma vez que não existiria dúvida sobre qual é a via adequada para se opor à execução oriunda de título executivo judicial.
+Argumentou que a utilização dos embargos à execução como via para oposição à execução de título judicial seria erro grosseiro.
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 79-82), levando a insurgente a interpor o presente agravo (e-STJ, fls. 93-100).
+Brevemente relatado, decido.
+A jurisprudência das Turmas de Direito Privado desta Corte Superior se posiciona no sentido de que a oposição de embargos à execução, em vez de impugnação ao cumprimento de sentença, deve ser examinada sob o prisma dos princípios constitucionais da proporcionalidade e razoabilidade.
+O mencionado entendimento se baseia no fundamento de que, se a medida eleita pela parte é necessária e pode ser aproveitada, atende ao fim precípuo do processo, que é mero instrumento para a concretização do direito material.
+Iustrativamente (sem grifos no original):
+PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO CELEBRADO ENTRE AS PARTES. EMBARGOS À EXECUÇÃO. LEI 10.444/02. CABIMENTO. HIPÓTESE EXCEPCIONAL. EFEITO SUSPENSIVO. CONCESSÃO. POSSIBILIDADE.
+1. Em algumas situações excepcionais, não é possível aplicar o regime de execução indireta prevista pelo art. 461 do CPC. Por essa razão, o art. 644 do CPC autoriza a aplicação subsidiária da disciplina tradicionalmente prescrita ao processo de execução por obrigações de fazer ou não fazer (arts. 632 a 643 do CPC).
+2. A oposição de embargos à execução, em vez de impugnação, ao cumprimento de sentença deve ser examinada sob o prisma dos princípios constitucionais da proporcionalidade e razoabilidade. Se a medida eleita pela parte é necessária e pode ser aproveitada, atende ao fim precípuo do processo, que é mero instrumento para a concretização do direito material.
+3. Se os embargos à execução foram admitidos pelo Juízo de primeiro grau e se à época do recebimento o regime processual vigente determinava a paralisação do processo executivo (art. 739, § 1º, do CPC), não há porque negar essa prerrogativa ao devedor.
+4. Tanto o art. 475-M quanto o art. 739-A, § 1º, do CPC, com a redação que lhes foi dada pelas recentes reformas do CPC, admitem a excepcional concessão de efeito suspensivo à impugnação ou aos embargos à execução, "desde que relevantes seus fundamentos e o prosseguimento da execução seja manifestamente suscetível de causar ao executado dano grave ou de difícil reparação".
+5. Recursos especiais a que se nega provimento.
+(REsp 1027019/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 8/2/2011, DJe de 2/3/2011).
+No mesmo sentido (sem grifos no original):
+AGRAVO INTERNO PROCESSO CIVIL. PRINCÍPIO DA INSTRUMENTALIDADE. EMBARGOS À EXECUÇÃO. USO DA IMPUGNAÇÃO. RELEVÂNCIA DO MÉRITO. RESPEITO AO PRAZO DA MEDIDA PROCESSUAL CORRETA. VIABILIDADE. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. EQUIPARAÇÃO À FAZENDA PÚBLICA. PROCEDIMENTO PREVISTO NO ART. 730 DO CPC. PRECATÓRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A oposição de impugnação à execução em vez dos embargos pode ser conhecida, desde que respeitado o prazo da medida adequada e evidenciada a relevância do direito pretenso. Aplica-se no caso o princípio da instrumentalidade. Precedentes.
+2. O regime de precatório somente pode ser aplicado às sociedades de economia mista prestadoras de serviço público primário e em regime de exclusividade. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1922191/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2021, DJe de 3/8/2021).
+Ao dirimir a controvérsia, o Tribunal de Justiça assim se manifestou (e-STJ, fls. 27-28; sem grifos no original):
+Cinge-se a controvérsia em verificar se os embargos à execução ofertados pela executada/agravada (indexador 805) devem ser recebidos como impugnação ao cumprimento de sentença ou rejeitados liminarmente.
+Cuida-se, na origem, de ação de rescisão de contrato de compra e venda c/c indenizatória por danos materiais e morais movida por Rosalia Rios Mariot (executada/agravada) contra Construtora Santa Cecília do Rio de Janeiro LTDA e SPE RIO 2014 Incorporadora e Construtora LTDA, patrocinadas pelos ora agravantes, a qual foi julgada parcialmente procedente, condenando-se ambas as partes ao rateio das despesas processuais e a parte autora/executada ao pagamento de honorários sucumbenciais de 13% sobre o valor dos pedidos sucumbentes (indexadores263, 439 e 686 dos autos originários). Assim, iniciado o cumprimento de sentença pelos patronos dos réus, ora agravantes, no qual requereram o pagamento de R$ 21.911,41 (indexador 717 dos autos originários), a executada foi intimada a efetuar o pagamento ou apresentar defesa (indexador 793 dos autos originários), oportunidade em que apresentou embargos à execução (indexador 805 dos autos originários), com fundamento no art. 917, inciso III, do CPC1.
+(..)
+Nesse aspecto, considerando a possibilidade de aproveitamento da peça processual apresentada pela agravada, tendo em vista a impugnação ao valor da execução indicado pelo agravante, não merece ser reformado o decisum recorrido, mantendo-se a aplicação do princípio da fungibilidade no presente caso.
+Da análise dos trechos do acórdão objurgado, verifica-se que a conclusão adotada pela Corte a quo quanto à possibilidade da oposição de embargos à execução, em vez de impugnação ao cumprimento de sentença, tendo em vista que foi atendido, no caso concreto, o fim precípuo do processo, está em consonância com a jurisprudência deste Tribunal Superior.
+Ademais, necessário asseverar que a jurisprudência apresentada pela insurgente, referente à impossibilidade de aplicação da fungibilidade, trata de situação diversa da discutida nos presentes autos.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OPOSIÇÃO DE EMBARGOS À EXECUÇÃO PARA IMPUGNAR O VALOR INDICADO PELO EXEQUENTE. DECISÃO QUE APLICOU O PRINCÍPIO DA FUNGIBILIDADE E RECEBEU A DEFESA COMO IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
