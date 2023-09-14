@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ALBERTO HENRIQUE OUCHANA, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pela Décima Câmara de Direito Privado do Tribunal de Justiça de São Paulo (e-STJ, fl. 320):
+COISA COMUM. IMÓVEL. ALUGUÉIS DEVIDOS. CABIMENTO. PRELIMINARES RECHAÇADAS, IMPROCEDÊNCIA DA RECONVENÇÃO. RECURSOS NÃO PROVIDOS. Coisa comum. Preliminares rechaçadas. Aluguéis devidos ao condômino que não usa o bem. Manutenção da sentença. Reconvenção improcedente. Patrono da parte que não tem legitimidade para impugnar valor da causa e definição judicial emprestada à lide. Recursos não providos.
+Opostos os embargos de declaração, o Tribunal local rejeitou-lhes, conforme ementa abaixo reproduzida (e-STJ, fl. 330):
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO. REJEIÇÃO DOS ACLARATÓRIOS. Embargos de declaração. Alegação de erros e de omissões. Rejeição. Não há os vícios elencados. A decisão recorrida deixou bem evidenciados os motivos pelos quais negou provimento ao recurso do embargante. A pretensão da recorrente é a de rediscutir o mérito, o que não tem cabimento nesta sede. Prequestionamento. Incidência do art. 1.025,do Código de Processo Civil. Embargos de declaração rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 349-362), o recorrente apontou violações aos arts. 7º, 115, I e II, 373, II, e 1.022, II e III, do CPC/2015; arts. 49-A; 1.219, 1.315 e 1.316, § 1º, do Código Civil.
+Alegou, em síntese, que a copropriedade não o torna responsável pelo pagamento de aluguéis, tendo em vista não possuir a posse do imóvel, mas sim a Porto Royal.
+Aduziu que os acórdãos devem ser anulados, porquanto o recorrido j untou laudos unilaterais, os quais foram impugnados, e a sentença não permitira a produção da prova pericial.
+Argumentou violação ao art. 1.022 do CPC/2015, porquanto os acórdãos negaram o direito do Recorrente à indenização pelas benfeitorias feitas no Imóvel e reconheceram que a posse do Imóvel está e sempre este com Porto Royal, mas deixaram de aplicar as consequências decorrentes do fato de que somente esta última e o Recorrente tem arcado com as despesas de conservação do bem.
+Foram apresentadas as contrarrazões (e-STJ, fls. 373-388).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 7 deste Superior Tribunal (e-STJ, fls. 389-391), o que ensejou a interposição do presente agravo (e-STJ, fls. 394-404).
+Brevemente relatado, decido.
+De início, são cabíveis os embargos de declaração somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Na hipótese dos autos, aduz o recorrente que, quando do julgamento dos embargos de declaração, a Décima Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve-se silente quanto às questões suscitadas nos embargos opostos, in casu, as despesas arcadas unicamente pelo recorrente para a conservação do imóvel e suas consequências.
+Nota-se da leitura do decisum que, não obstante a oposição dos declaratórios para tal finalidade, a Câmara julgadora não enfrentou a questão suscitada pelo recorrente.
+Tal circunstância impõe o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.810/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ARBITRAMENTO DE ALUGUÉIS. APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. OMISSÃO. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
