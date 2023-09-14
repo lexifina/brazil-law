@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDIVANIO BATISTA DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - Apelação Criminal n. 1501501-75.2022.8.26.0540.
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa.
+Isso, porque "trazia consigo, para fins de tráfico, 16 invólucros plásticos de maconha, com massa líquida de 28,92 gramas  vinte e oito gramas e noventa e dois centigramas , 20 invólucros plásticos contendo cocaína, com massa líquida de 13,02 gramas  treze gramas e dois centigramas , 03 invólucros plásticos de maconha, na forma de "skunk", com massa líquida de 0,83 gramas  oitenta e três centigramas , sem autorização ou em desacordo com determinação legal ou regulamentar" (e-STJ fl. 28, grifei).
+O recurso de apelação da defesa foi desprovido pelo Tribunal local, em acórdão sem ementa no original (e-STJ fls. 26/36).
+Daí o presente writ, no qual a impetrante sustenta a presença de constrangimento ilegal em razão da ausência de fundamentação idônea para afastar a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Aduz, nesse sentido, que a quantidade de droga apreendida "(28,92g de maconha, 13,02g de cocaína e 0,83g de Skank), per si, não  justifica  concluir que o PACIENTE se dedicava a atividades criminosas" (e-STJ fl. 13).
+Alega, ainda, a inidoneidade da fixação do regime inicial fechado, notadamente porque todas as circunstâncias judiciais foram consideradas favoráveis, invocando, sobre o tema, as Súmulas n. 718 e 719 do STF e 440 do STJ.
+Requer, liminarmente, o direito de aguardar em liberdade, ou ao menos em regime aberto, o julgamento de mérito do habeas corpus.
+No mérito, busca a aplicação da causa especial de diminuição de pena, o abrandamento do regime inicial e a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 111/113).
+É, em síntese, o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 32/36):
+Passo às reprimendas.
+Inicialmente, sopesadas as diretrizes dos artigos 59 do Código Penal e 42 da Lei de Drogas, a pena-base foi fixada no piso legal, qual seja, 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa.
+Na segunda fase, na ausência de agravantes ou atenuantes, as sanções não sofreram modificação, registrando-se que a confissão espontânea e a menoridade relativa não possuem o condão de reduzir as reprimendas aquém do piso legal, nos termos da Súmula nº 231 do Superior Tribunal de Justiça.
+Na derradeira etapa dosimétrica, revela-se inviável o reconhecimento do tráfico privilegiado, ainda que em seu índice mínimo.
+Ora, o apelante portava expressiva variedade e quantidade e variedade de substâncias entorpecentes, tudo está a evidenciar que não se trata o acusado de "traficante de primeira viagem", mas sim de indivíduo que vinha sistematicamente se dedicando às atividades criminosas.
+Nesse sentido, bem salientou o ilustre Magistrado a quo que "Diante das circunstâncias do delito -preso em flagrante, com considerável quantidade de drogas e três espécies diversas de entorpecentes, notadamente cocaína, em local conhecido como ponto de tráfico, sabidamente dominado por facções criminosas, portanto, sem espaço para "traficantes ocasionais estranhos à organização criminosa", além de não ter comprovado de forma mínima o exercício de atividade lícita- parece- me claro o acentuado envolvimento do acusado no comércio de drogas, ou seja, a não ocasionalidade da conduta."  sic  (fls. 137/138)
+Sobre o tema:
+ ..
+Em seguida, impossível a substituição da reprimenda privativa de liberdade por restritivas de direitos ou a concessão do sursis, haja vista que não preenchidos os requisitos objetivos dos artigos 44, inciso I, e 77, caput, ambos do Código Penal.
+Finalmente, correta a estipulação da modalidade prisional fechada, considerando não só o quantum de pena imposto, mas também a quantidade, diversidade e perniciosidade das substâncias apreendidas e, ainda, por guardar plena sintonia com a gravidade do caso concreto, bem como as seríssimas consequências desse delito, que destrói famílias e subjuga comunidades, além da forte repercussão social do crime em questão.
+Tampouco há que se falar em violação à Súmula nº 440 do Superior Tribunal de Justiça, bem como às Súmulas nº 718 e 719 do Supremo Tribunal Federal, eis que o regime prisional foi estipulado com base na gravidade concreta do delito.
+Como se vê, a dedicação à atividade criminosa foi assentada basicamente na quantidade e na variedade da droga apreendida.
+No ponto, cabe, ainda, a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o recálculo da pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, e mantendo os demais parâmetros adotados na origem, a pena do paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o paciente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do Código Penal, resulta cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Ante o exposto e acolhendo o parecer do Ministério Público Federal, concedo a ordem para reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, e, assim, reduzir a reprimenda para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
