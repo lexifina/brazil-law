@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por FUNDACAO DE SEGURIDADE SOCIAL BRASLIGHT contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. LAUDO PERICIAL QUE OBSERVOU O TÍTULO JUDICIAL EXECUTADO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+A agravante-devedora se insurgiu contra decisão que afastou a tese de excesso de execução, reiterados os cálculos realizados pelo perito judicial. Para tanto, defendeu que o expert aplicou equivocadamente o IPC de forma cumulativa, bem como utilizou todos os índices referentes à Súmula 289, do STJ, quando o título judicial estipulou apenas três. Titulo judicial que determinou a aplicação do IPC até o desligamento do plano de previdência privada. Entendimento de acordo com o Enunciado 298, do STJ. Contador judicial que observou corretamente o pronunciamento transitado em julgado. Ausência de excesso decorrente de equívoco na aplicação dos índices. Manutenção da decisão atacada que se impõe. DESPROVIMENTO DO RECURSO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 502 do CPC; e 3º, III, da LC n. 109/2001, no que concerne à desconsideração do acórdão vergastado de que a decisão transitada em julgado é composta pela sentença e decisão dos respectivos embargos de declaração, concluindo pelo pagamento de um resgate com índice não previsto em normas regulamentares. Apresenta os seguintes argumentos:
+O r. Acordão do Agravo de Instrumento nº 0067299-23.2022.8.19.0000, impugnado, nitidamente desconsiderou que a decisão transitada em julgado é composta pela sentença integrada pela decisão de embargos de declaração.
+ ..
+Contudo, cumpre destacar no caso em tela, resta evidente que essa aferição depende de simples leitura da sentença e da decisão de embargos de declaração posterior a ele lançados nos autos do Processo principal nº 0017407-51.2010.8.19.0038, razão pela qual este juízo de valor não depende de rever fatos e provas.
+Da análise conjugada da sentença e da decisão de embargos de declaração, resta claro que ficou determinada a aplicação da Súmula 289 do STJ com a incidência de apenas três índices de correção, senão vejamos:
+ ..
+Com isso, não restam dúvidas que a decisão transitada em julgado determinou a aplicação de apenas 3 índices de correção, porém a 7ª Câmara de Direito Privado ao julgar o recurso de Agravo de Instrumento não considerou os exatos termos da decisão.
+Assim, nítida a violação a coisa julgada, afrontando-se o artigo 502 do CPC.
+Por consequência, realizar o pagamento da diferença de Resgate ao Recorrido, sem aplicar a forma de atualização determinada na sentença gera uma diferença maior a ser paga ao Recorrido, o que irá impactar diretamente a Reserva Matemática do Plano, de caráter essencialmente mutualista, e assim, toda a coletividade de participantes a ele vinculado será responsável por equacionar qualquer déficit que o Plano fique sujeito.
+Cumpre destacar que o art. 3º, III, da Lei Complementar nº 109/01 ressaltou o princípio do equilíbrio econômico financeiro e atuarial dos planos de benefícios como princípio fundamental aplicável às entidades fechadas de previdência complementar, aos seus gestores e ao Poder Público, em proteção aos próprios participantes desse Sistema Previdenciário. Esse princípio estaria sendo frontalmente violado, caso o pleito do Recorrido prospere, uma vez que seria concedido índice expurgado sem a contrapartida de receitas de cobertura em valor muito superior ao de fato devido.
+Desse modo, ressalte-se também sob o prisma legal, a ausência de amparo na legislação específica da previdência complementar do pleito em tela, ratificando a manifesta necessidade de reforma do Acórdão impugnado (fls. 45-47).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A agravante-devedora se insurgiu contra decisão que afastou a tese de excesso de execução, reiterados os cálculos realizados pelo perito judicial.
+Para tanto, defendeu que o expert aplicou equivocadamente o IPC de forma cumulativa, bem como utilizou todos os índices referentes à Súmula 289, do STJ, quando o título judicial estipulou apenas três.
+Os argumentos não merecem prosperar.
+O título judicial reconheceu como devido o pagamento da diferença referente às contribuições vertidas pelo agravado, com aplicação do IPC até o desligamento do plano de previdência privada
+ ..
+Frise-se que restou reconhecida a necessidade de observância do IPC, para recomposição dos expurgos inflacionários, a fim de atender ao enunciado do Superior Tribunal de Justiça nº 298 que dita que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda".
+Com efeito, os trabalhos foram realizados de acordo com a sentença transitada em julgado, que determinou a aplicação do IPC até o desligamento e os índices do TJRJ após:
+(..) esta Contadoria adotou, como fator de atualização monetária, a variação do IPC e os expurgos que constam do sistema de cálculos da Egrégia Corregedoria Geral da Justiça, não havendo, no entender desta Contadoria, o que ser retificado quanto à correção monetária.
+(..)
+Com efeito, diante da regularidade da exigência, impõe-se a manutenção da decisão atacada (fls. 36-38, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
