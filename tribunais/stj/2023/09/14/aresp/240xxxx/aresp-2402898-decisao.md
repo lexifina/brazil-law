@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE ROBERTO DE SOUZA SANTOS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO USUCAPIÃO ORDINÁRIO AUSÊNCIA DE POSSE MANSA E PACÍFICA AÇÃO DE REINTEGRAÇÃO DE POSSE MOVIDA PELA TITULAR DO DOMÍNIO E QUE AINDA SE ENCONTRA ATIVA FUNDAMENTOS DA SENTENÇA QUE DÃO SUSTENTAÇÃO ÀS RAZÕES DE DECIDIR APLICAÇÃO DO ARTIGO 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1.240 do CC, no que concerne ao preenchimento dos requisitos para o reconhecimento da usucapião do imóvel em discussão, sobretudo a presença de posse mansa e pacífica, trazendo a seguinte argumentação:
+Em que pese o indiscutível saber jurídico desta Colenda Câmara, o respeitável Acórdão (fls.405/412) o R. acórdão viola o artigo 1240 C.C, por não ter observado que desde a distribuição ação possessória movida pela titular dominial Maria do Carmo em face do ora requerente José Roberto e outros (n.0040554-74.2000.8.26.0002 ), até o a fase de cumprimento de sentença (iniciada em 2016) decorreram por mais de 15(quinze) anos, ou 05(cinco) anos entre a propositura da ação e a sentença de improcedência, mesmo estando presentes os requisitos da prescrição aquisitiva prevista artigo 183 da CF.
+Por tanto, estão presentes os requisitos do usucapião extraordinário .
+ ..
+Os recorrentes estão na posse do imóvel descrito na inicial há mais de 20 anos, arcando com os tributos e com as demais despesas relativas ao bem (fls.30/38 e 39/45), tendo estabelecido sua residência, no local(fls.28/29) e fotos atuais (fls.124/129 e 241/245).
+Assim, ponderados que os elementos amealhados no curso da relação processual até o precoce encerramento do juízo de piso, tem-se como demonstrado o exercício de posse com animus domini sobre o imóvel a que se refere à ação e suscetível de induzir a prescrição aquisitiva em relação aos apelantes.
+ ..
+Como comprovam os documentos e fotos juntados nos autos (fls.30/38) e (124/129 e 241/245), todas as melhorias e benfeitorias na área foram realizados mediante os esforços e pequenos investimentos dos Apelantes, para possibilitar minimamente a adequação para uso habitacional.
+Em resumo, para além de um direito de ação dos apelantes, enfrenta-se situação de dever do Estado, a fim de assegurar o direito à moradia digna, pregada pelos artigos 1º, III e 6º da Constituição Federal da República e os compromissos do art. 11 do Pacto Internacional de Direitos Econômicos Sociais e Culturais (PIDESC) e dos demais tratados ratificados pelo Brasil, com o que se reitera a necessidade de reconhecimento da propriedade dos Apelantes e regularização fundiária da área.
+Resta claro, portanto, que os apelantes tem direito a procedência da ação, devendo, ser amparados pelo Estado-Juiz.
+ ..
+Não por outro motivo o próprio é inegável nas fotos fls. 30/38 que o imóvel, antes da posse dos apelantes, estava abandonado, não atendia a sua função social, hoje, os apelantes fazem do local a sua moradia a mais de 20 anos.
+ ..
+A presente demanda revela a posse velha dos Apelantes, cujas condições permitiram que essas famílias construíssem um espaço de moradia e demais realizações vitais ao ser humano, cumprindo, por fim, a função social da propriedade determinadas pela Constituição Federal, o Estatuto da Cidade, a Lei Orgânica e o Plano Diretor do Município de São Paulo, antes inobservada.
+Desta feita, imperativo que se reconheça por esta Egrégia Corte de Justiça a prevalência dos direitos humanos e fundamentais à moradia dos Apelantes em face da propriedade urbana descumpridora de sua função social (fls. 419/421).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ora, diante de tais considerações, fica evidente o acerto no qual incorreu o Juízo a quo, porquanto a parte autora não se desincumbiu do encargo de provar o preenchimento dos requisitos legais, sobretudo quanto a presença de posse mansa e pacífica ônus que lhe competia (fls. 408).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Rever a conclusão do acórdão impugnado, quanto à ausência dos requisitos legais para reconhecer a usucapião, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ." (AgInt no AREsp n. 1.702.606/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
