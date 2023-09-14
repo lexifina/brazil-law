@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Matheus de Jesus Ferreira Caceres, apontando-se como órgão coator o Tribunal de Justiça de São Paulo, que negou provimento ao Agravo de Execução Penal n. 0004017-98.2023.8.26.0026 (fls. 11/19), mantendo a decisão proferida pelo Juízo da Vara de Execuções Criminais da comarca de Bauru/SP (DEECRIM - 3ª RAJ) que indeferiu o pedido de remição de pena relativo às aprovações parciais no Exame Nacional para Certificação de Competência de Jovens e Adultos - ENCCEJA e no ENEM (PEC n. 0000658-77.2022.8.26.0026 - fl. 31).
+Alega-se, em síntese, que o reeducando faz jus à remição proporcional da pena, pois, ainda que o paciente não tenha obtido pontuação mínima necessária em todas as áreas de avaliação, a aprovação parcial no ENEM e no ENCCEJA lhe dá sim direito à remição de pena, proporcional, o que se fundamenta no art. 126, § 1º, inciso I e § 5º da LEP (fl. 7).
+Defende-se que, ao atingir nota satisfatória em 1 matéria no ENEM e em 4 matérias no ENCCEJA, o paciente demonstrou o aproveitamento dos estudos realizados por conta própria durante a execução da pena, não podendo tal conduta ser desconsiderada, uma vez que está diretamente ligada ao caráter ressocializador da pena. Referida interpretação atende ao princípio constitucional da dignidade da pessoa humana, bem como à política criminal na execução da pena, que deve ser voltada à socialização, de forma a estimular instrumentos sancionadores mais humanizados (fl. 8).
+Por fim, requer-se (fl. 9):
+ ..
+Diante do exposto, requer-se a Vossa Excelência:
+1 - Que seja concedida a remição pela aprovação parcial no Exame Nacional do Ensino Médio (ENEM), na proporção de 20 dias, ante a aprovação em 01 matéria;
+2 - A concessão de remição pela aprovação parcial no Exame Nacional para Certificação de Competência de Jovens e Adultos (ENCCEJA), ante a aprovação em 04 matérias;
+3 - Por fim, que as intimações referentes ao presente Writ sejam realizadas exclusivamente em nome do advogado JORGE LUÍS GALLI, OAB/SP 390.632, tal qual permitido pela legislação processual vigente, sob pena de nulidade do ato de comunicação.
+ ..
+É o relatório.
+O presente pedido comporta pronto acolhimento parcial.
+Com efeito, o Magistrado singular indeferiu o pleito de remição de pena, sob estes fundamentos (fls. 31/33 - grifo nosso):
+ ..
+2) Trata-se de pedido de remição de tempo de pena formulado pelo sentenciado pela participação no ENEM. O Ministério Público manifestou-se contrariamente ao pedido. A defesa reiterou o pedido inicial.
+É o relatório.
+Fundamento e decido.
+O pedido é improcedente.
+Conforme se extrai do documento de fls. 137, o sentenciado não atingiu a nota mínima exigida para a aprovação nas disciplinas Ciências da Natureza e suas Tecnologias, Ciências Humanas e suas Tecnologias, Linguagens, Códigos e suas Tecnologias e Matemática e suas Tecnologias, qual seja, 450 pontos, segundo a Portaria INEP n. 179/2014, a qual não foi expressamente revogada pela Portaria n. 458 do Ministério da Educação.
+Nesse sentido é a jurisprudência: "Agravo em Execução Penal. Remição de penas pelo estudo (por conta própria), indeferida - Recurso defensivo - Pleito de concessão do benefício, ante a aprovação (parcial) do agravante em dois dos cinco campos de conhecimento avaliados pelo ENEM - Impossibilidade Ausência de previsão legal nesse sentido. Exigência de efetiva aprovação no exame em tela, expressa no art. 126, da LEP, e na Recomendação nº 44/2013, do Conselho Nacional de Justiça -Precedentes do STJ - Recurso não provido." (TJSP, Agravo de Execução Penal nº 0012811-48.2017.8.26.0502, Relator Desembargador Juvenal Duarte, j.15/03/2018).
+E ainda: "Agravo em Execução Penal. Remição de pena pelo estudo. Exame ENCCEJA. Pedido de remição das penas. Inteligência do art. 126 da Lei de Execução Penal. Recomendação 44 do CNJ. Reeducando reprovado em uma das áreas de conhecimento. Ausência de amparo legal. Agravo improvido" (TJSP; Agravo de Execução Penal 0004237-49.2020.8.26.0496; Relator (a): Damião Cogan; Órgão Julgador: 5ª Câmara de Direito Criminal; Foro de Américo Brasiliense - 1ª Vara; Data do Julgamento: 05/08/2020; Data de Registro: 05/08/2020).
+Ademais, não se ignora o disposto na Resolução nº 391/2021 do CNJ, contudo é certo que não equivale à lei em sentido estrito geral e obrigatória. Em sede de Execução Penal vige o princípio in dubio pro societate, razão pela qual não há que se falar em interpretação extensiva para favorecer participante não aprovado nas áreas do conhecimento no referido exame.
+Por fim, a concessão do pedido resultaria em verdadeira injustiça aos demais sentenciados que também procuram se readaptar à vida em sociedade e que, de fato, foram aprovados.
+Ante o exposto, INDEFIRO o pedido de remição formulado pelo sentenciado.
+ ..
+3) Trata-se de pedido de remição elaborado pelo sentenciado, em razão da sua aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA). O Ministério Público manifestou-se contrariamente ao pedido.
+É o relatório.
+Fundamento e decido.
+O pedido é improcedente.
+Inicialmente, tanto o revogado inciso IV do art. 1º da Recomendação nº. 44/2013 do CNJ, quando o atual art. 3º da Resolução nº. 391/21, também expedida pelo CNJ, exigem, para Para que o sentenciado obtenha a aprovação no ENCCEJA exige-se o mínimo de 100 (cem) pontos em cada uma das áreas do conhecimento, bem como o mínimo de 5 (cinco) pontos na redação.
+Conforme consta no documento de fls. 136, o ENCCEJA de 2022 o sentenciado atingiu a nota mínima necessária nas Ciências da Natureza e suas Tecnologias, Ciências Humanas e suas Tecnologias, Matemática e suas Tecnologias e Redação. No entanto, ele não obteve nota mínima exigida na matéria Linguagens e Códigos e suas Tecnologias .
+Deste modo, observa-se ante as informações que o sentenciado não obteve a pretendida aprovação, visto que não atingiu a nota necessária em duas áreas do conhecimento.
+Observo ainda que não se olvida que a remição da pena em razão do estudo é um direito do preso, todavia, o referido direito deve ser exercido em consonância com as normas estabelecidas para tanto.
+ ..
+O Tribunal a quo manteve o decisum asseverando que a aprovação é condição sine qua non para obter a almejada remição, não bastando a mera participação ou a aprovação em apenas alguma ou algumas áreas de conhecimento. E, conforme se verifica dos documentos às fls. 19 e 20, o agravante não foi aprovado nos citados exames, vez que não obteve as notas mínimas em Linguagens e Códigos e suas Tecnologias (ENCCEJA) e nas disciplinas de Ciências da Natureza e suas Tecnologias, Ciências Humanas e suas Tecnologias, Linguagens, Códigos e suas Tecnologias e Matemática e suas Tecnologias (ENEM) - fl. 16.
+Pois bem. A jurisprudência desta Corte Superior tem se posicionado pela interpretação extensiva do art. 126 da Lei de Execuções Penais, de modo a compatibilizá-lo com as disposições da Recomendação n. 44/2013 do Conselho Nacional de Justiça (revogada pela Resolução n. 391/2021 do mesmo Conselho), com claro intuito de estimular a ressocialização de condenados que busquem a elevação de sua escolaridade.
+Em outras palavras, esta Corte Superior de Justiça firmou entendimento e tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP. De outro lado, a Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM). Verifica-se, portanto, que o objetivo deste conjunto de regras acerca da remição da pena por aproveitamento dos estudos é o de incentivar os apenados aos estudos, bem como sua readaptação ao convívio social (AgRg no HC n. 559.981/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/3/2020).
+Nesse passo, não há dúvida de que o benefício da remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação parcial do paciente no ENCCEJA configura aproveitamento dos estudos realizados durante a execução da pena, conforme acima mencionado.
+Assim, mister reconhecer o esforço do apenado, que logrou a aprovação nos exames reconhecidos pelo Ministério da Educação (REsp n. 1.854.391/DF, Ministra Laurita Vaz, Sexta Turma, DJe 6/10/2020).
+Contudo, uma vez reconhecida a possibilidade de remição da pena pela aprovação parcial no ENCCEJA, incabível a remição pela aprovação no ENEM, nos termos dos seguintes precedentes:
+AGRAVO REGIMENTAL. EXECUÇÃO. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA - NÍVEL MÉDIO - E APROVAÇÃO PARCIAL DO ENEM. DUPLA CONCESSÃO PELO MESMO FATO GERADOR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O paciente teve remida sua pena devido a certificação no ENCCEJA em atividade educacional do Ensino Médio, não podendo ser beneficiado agora devido à aprovação parcial no ENEM.
+2. Ora, a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, em situações como a dos autos, haveria "mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC n. 592.511/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020).
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no HC n. 763.585/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. ENEM. REMIÇÃO JÁ DEFERIDA PELA APROVAÇÃO NO ENCCEJA. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica sobre a impossibilidade de nova remição pela segunda aprovação nas mesmas matérias do ensino fundamental em outro exame, a qual não pode ser duplamente considerada, sob pena d e bis in idem.
+2. No caso, a Corte de origem deixou de conceder a remição pela aprovação parcial no ENEM, em virtude da concessão nas mesmas áreas de conhecimento, no ENCCEJA.
+3. Assim, caso reconhecida a remição nos termos pretendidos pelo Agravante, ocorreria indevida cumulação dos dias já remidos por aprovação no ENCCEJA, o que vai de encontro ao entendimento deste Superior Tribunal de Justiça, por se tratar de duplicidade de benefícios pelo mesmo fato, o que não é admitido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 805.511/MG, Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/5/2023, DJe 22/5/2023)
+Sendo assim, melhor sorte não assiste ao impetrante no que se refere à remição pela aprovação parcial no ENEM.
+Por fim, quanto ao número de dias remidos, a Terceira Seção do Superior Tribunal de Justiça pacificou a questão no julgamento do HC n. 602.425/SC, estabelecendo que a base de cálculo para remição toma como critério a carga horária prevista na Lei de Diretrizes e Bases da Educação (Lei n. 9.394/1996). Assim, quando a Resolução 44/2013 do Conselho Nacional de Justiça menciona as cargas horárias de 1.600h para o ensino fundamental e 1.200h para o ensino médio, já está considerando o percentual de 50%.
+No caso, o reeducando foi aprovado em quatro áreas de conhecimento do ENCCEJA (fl. 33), razão pela qual, conforme a jurisprudência dominante nesta Corte Superior, tem direito à remição de 80 dias de pena.
+Nesse sentido, a propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR ESTUDOS. ART. 126 DA LEI DE EXECUÇÃO PENAL. LEP. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. CNJ. BASE DE CÁLCULO. ARTS. 24, I, E 35 DA LEI 9.394/1996. APROVAÇÃO PARCIAL NO ENSINO MÉDIO. EMBARGOS ACOLHIDOS.
+1. A Terceira Seção desta Corte Superior, no julgamento do HC n. 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 6/4/2021, unificou o entendimento no sentido de que a remição pelo estudo decorrente da aprovação no Exame Nacional de Certificação de Competências de Jovens e Adultos. ENCCEJA, nos termos da Recomendação n. 44/2013, do Conselho Nacional de Justiça - CNJ, deve se dar, em nível médio , na proporção de 20 dias de desconto da pena para a aprovação em cada uma das 5 áreas, e de 26 dias, na hipótese do exame de nível fundamental, somando-se, ainda, 1/3, se houver conclusão certificada do curso, nos termos do § 5º do art. 126 da Lei de Execuções Penais - LEP.
+2. A hipótese dos autos trata de aprovação parcial em uma área de conhecimento do ensino médio.
+3. Embargos de declaração acolhidos, para conceder a ordem, de ofício, e determinar que sejam considerados apenas 20 dias de remição na pena do embargado.
+(EDcl no AgRg no HC n. 600.513/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/8/2021 - grifo nosso)
+Ante o exposto, concedo liminarmente a ordem, em parte, a fim de reconhecer o direito do paciente à remição de 80 dias de pena pela aprovação em quatro das cinco áreas de conhecimento do ENCCEJA.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DE PENA. APROVAÇÃO PARCIAL NO ENCCEJA . INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. PRECEDENTES DESTA CORTE. APROVAÇÃO PARCIAL NO ENEM. DUPLA CONCESSÃO PELO MESMO FATO GERADOR. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente, em parte, nos termos do dispositivo.
