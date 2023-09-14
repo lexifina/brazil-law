@@ -1,0 +1,27 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO EM EXECUÇÃO PENAL -RECURSO DEFENSIVO -TRÁFICO DE DROGAS - AFASTAMENTO DA HEDIONDEZ - IMPOSSIBILIDADE.
+A natureza hedionda do crime de tráfico de drogas descrita no art. 33, caput, da Lei n.º 11.343/06 não foi afastada com o advento do Pacote Anticrime, visto que a hediondez atribuída ao tráfico de drogas encontra respaldo na Constituição Federal. (e-STJ fl. 79)
+A defesa aponta a violação dos arts. 66, I, e 112 da LEP alegando, em síntese, que "O fundamento legal que equiparava o tráfico a hediondo que constava no § 2º do artigo 2º da Lei n. 8.072/1990 foi revogado expressamente (definição das frações de 2/5 e 3/5), se esta revogação implica em beneficiar o réu ou o condenado ela deve retroagir para beneficiá-los": (e-STJ fl. 102).
+Prossegue afirmando que "na falta de norma que classifique ou que equipare o tráfico de entorpecentes e drogas afins à Hediondo deve se entender que a progressão de regime seja realizada na fração do delito comum." (e-STJ fl. 104)
+Contrarrazões às e-STJ fls. 130/134.
+O Tribunal de origem negou seguimento ao recurso especial (e-STJ fls. 139/141).
+Manifestação do Ministério Público Federal pelo não provimento recurso (e-STJ fls. 243/246).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Os elementos existentes nos autos informam que o TJMG negou provimento ao agravo em execução penal interposto pela defesa e manteve a decisão proferida pela Juíza de Direito da Vara de Execuções Penais da Comarca de Ribeirão das Neves/MG, que indeferiu o pleito de retificação do atestado de pena consistente em afastamento da hediondez do crime de tráfico de drogas para progressão de regime.
+O recorrente se insurge contra essa decisão alegando que o crime de tráfico de drogas deixou de ser equiparado a hediondo com as modificações trazidas pelo pacote anticrime.
+Sem razão, porquanto como bem consignou o acórdão estadual, é firme nesta Corte o entendimento de que as alterações providas pela Lei n. 13.964/2019 apenas afastaram o caráter hediondo ou equiparado do tráfico privilegiado previsto no art. 33, § 4º, da Lei n. 11.343/2006, nada dispondo sobre os demais dispositivos da Lei de Drogas. Nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO DA PENA. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE VIOLAÇÃO. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/90 (LEI DOS CRIMES HEDIONDOS) PELA LEI 13.964/2019 (PACOTE ANTICRIME) QUE NÃO AFASTA A CARACTERIZAÇÃO DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/2006) COMO DELITO EQUIPARADO A HEDIONDO. CLASSIFICAÇÃO QUE DECORRE DO ART. 5º, XLIII, DA CONSTITUIÇÃO FEDERAL. RECURSO IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a previsão regimental e a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+2. O entendimento da instância ordinária está em consonância com a jurisprudência desta Corte Superior, pois a Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. O caráter hediondo somente é retirado quando incide a figura do tráfico privilegiado, o que não é o caso dos autos, conforme já decidido há muito tempo pelo Supremo Tribunal Federal no HC 118.533/MS.
+3. Além disso, de acordo com entendimento desta Corte, "a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal" (AgRg no HABEAS CORPUS Nº 729.332 - SP (2022/0072818-5).
+4. Agravo regimental improvido. (AgRg no HC n. 768.071/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT -, Sexta Turma, DJe de 10/3/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. HEDIONDEZ EQUIPARADA.
+1. A Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. O caráter hediondo somente é retirado quando incide a figura do tráfico privilegiado, nos termos do § 5º do art. 112 da Lei 7.910/1984, o que não é o caso dos autos, conforme já decidido pelo Supremo Tribunal Federal no HC 118.533/MS.
+2. Dir-se-á que a previsão do § 5º do art. 112 da Lei 7.210/1984 (LEP), de que "Não se considera hediondo ou equiparado, para fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343, de 23 de agosto de 2006.", antes supõe norma legal que arrole o tráfico de drogas como crime hediondo ou equiparado, premissa que tem sustentabilidade um tanto vulnerável depois que a Lei nº 13.964, de 24/12/2019, revogou o § 2º do art. 2º da Lei 8.092/1990. Mas, de toda forma, essa é a jurisprudência estabilizada do do STJ.
+3. Agravo regimental improvido. (AgRg no HC n. 748.788/SC, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Região -, Sexta Turma, DJe de 28/10/2022 )
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", parte final do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
