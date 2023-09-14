@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de mandado de segurança contra ato de autoridade tributária estadual referente a créditos de ICMS. Na sentença denegou-se a segurança. No Tribunal a quo a sentença foi parcialmente reformada para reconhecer os créditos de ICMS nos termos do RE n. 593.849/MG (Tema 201/STF). O valor da causa foi fixado em R$ 50.000,00 (Cinquenta mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+MANDADO DE SEGURANÇA - ICMS - PRETENSÃO DE OBTER DIREITO AO CRÉDITO DECORRENTE DA DIFERENÇA ENTRE O VALOR DO TRIBUTO RECOLHIDO PREVIAMENTE E AQUELE REALMENTE DEVIDO NO MOMENTO DA VENDA DE VEÍCULOS NOVOS - CABIMENTO - INAPLICABILIDADE DO §3º DO ART. 66-B DA LEI ESTADUAL Nº 6.374/89 - ART. 150. § 7º; DA CF - OBEDIÊNCIA AO QUANTO DECIDIDO NO RE Nº 593.849 MG (TEMA 201) E RESPECTIVA MODULAÇÃO  SUJEIÇÃO A PROCEDIMENTO VERIFICADOR PRÉVIO POR PARTE DA AUTORIDADE FISCAL (INCISO II DO ART. 66-B DA LEI ESTADUAL Nº 6.374/89 - CABIMENTO  PRECEDENTES  SENTENÇA REFORMADA, PARA CONCEDER EM PARTE A SEGURANÇA. APELO PARCIALMENTE PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 593.849-RG/MG (Tema 201/STF), fixou a tese de que "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+(..)
+Em relação ao pedido de que "seja determinado ao Posto Fiscal imediata análise e concessão de visto", evidencia-se a pretensão de não se submeter ao procedimento verificador prévio estabelecido no art. 270, inciso II, do RICMS, o qual regulamenta o art. 66-B, inciso II, da Lei nº Lei Estadual nº 6.374/89 (declarado constitucional pelo Plenário do STF na ADI nº 2.777/SP, j. 19.10.2016), in verbis, respectivamente:
+(..)
+E, no tocante ao pedido de restituição de valores no prazo prescricional, considerando que a demanda foi ajuizada em 07.03.2018, este não procede, já que, como visto, de rigor observar a modulação fixada pelo E. STF, quando decisão proferida no RE nº 593.849/MG (Tema nº 201/STF).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 165 e 168 do CTN e 10 da Lei Complementar n. 87/1996, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Ademais, verifica-se que a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
