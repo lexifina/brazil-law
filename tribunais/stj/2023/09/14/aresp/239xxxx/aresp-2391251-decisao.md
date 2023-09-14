@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por DOUGLAS LEANDRO GIACOMELLI contra decisão que inadmitiu recurso especial (e-STJ, fls. 631-632) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 509):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR.
+PRELIMINAR DE CERCEAMENTO DE DEFESA. NÃO OPORTUNIZAÇÃO DE PRODUÇÃO DE PROVA. NÃO RECONHECIMENTO. JULGAMENTO ANTECIPADO DA LIDE. DEMANDA QUE JÁ SE ENCONTRA INSTRUÍDA COM PROVAS NECESSÁRIAS AO ENFOQUE DA MATÉRIA. POSSIBILIDADE DE JULGAMENTO ANTECIPADO. INCIDÊNCIA DO ART. 355, I, DO CÓDIGO DE PROCESSO CIVIL.
+PEDIDO DE AFASTAMENTO DA ILEGITIMIDADE AD CAUSAM DE UM DOS RÉUS. PLEITO DE RECONHECIMENTO DA RESPONSABILIDADE SOLIDÁRIA. INSUBSISTÊNCIA. VEÍCULO QUE FORA VENDIDO DIAS ANTES DO ACIDENTE PARA O MOTORISTA.
+ALEGAÇÃO DE QUE O PEDESTRE FOI ATROPELADO NA FAIXA DE SEGURANÇA. CROQUI QUE NÃO ELUCIDA O OCORRIDO. EXISTÊNCIA DE MÍDIA DEMONSTRANDO QUE ATROPELAMENTO OCORREU FORA DA FAIXA. AUTOR QUE NÃO TOMOU AS DEVIDAS CAUTELAS E DE INOPINO ATRAVESSOU A RUA. IMPRUDÊNCIA DO RÉU NÃO DEMONSTRADA. INTELIGÊNCIA DO ART. 333, I, DO CPC/73.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 553):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ALEGADA OBSCURIDADE E CONTRADIÇÃO NO ACÓRDÃO. NÃO OCORRÊNCIA. NÍTIDO PROPÓSITO DE REDISCUSSÃO DA MATÉRIA. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL CAPAZES DE AUTORIZAR O ACOLHIMENTO DOS ACLARATÓRIOS E A POSSIBILIDADE DE CONCESSÃO DE EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Nas razões do recurso especial, o recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 355, 369 e 373, I, do CPC/2015.
+Apontou cerceamento de defesa com o indeferimento do pedido de produção de prova testemunhal imprescindível para responsabilizar os agravados pelos danos ocasionados pelo acidente de trânsito .
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 631-632).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 645-649).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca do cerceamento de defesa, o Tribunal estadual assim se manifestou (e-STJ, fl. 511):
+Preliminarmente, o autor/apelante alegou o cerceamento de defesa, pois "não foi oportunizada a produção de provas sobre eventos importantes do acidente" (fl. 06 do Evento 119).
+Sobre tal alegação, cabe observar que esta não prospera, uma vez que o juízo a quo entendeu que o processo já estaria apto para julgamento com as provas apresentadas.
+Isso porque prevê o art. 355, I, do Código de Processo Civil, que "o juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando não houver necessidade de produção de outras provas".
+No caso em tela, a magistrada entendeu que "não há necessidade da produção de outras provas, bastando, para a solução da lide, a documental já anexada (art. 355, I, CPC)" (Evento 90).
+De fato, como se verá, o croqui do acidente e as imagens de câmera externa juntados aos autos são suficientes para o deslinde do feito.
+Do excerto acima transcrito, depreende-se que o Tribunal local entendeu que não seria necessária a produção da prova testemunhal requerida pelo recorrente, visto que os elementos probatórios juntados aos autos são suficientes para demonstrar a culpa exclusiva do agravante pelo evento danoso.
+Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se comprovada suficientemente nos autos por outros elementos.
+É preciso frisar que a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CULPA DO CONDUTOR DO VEÍCULO DEMONSTRADA. PROPRIETÁRIO DO VEÍCULO. RESPONSABILIDADE RECONHECIDA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. DANOS MATERIAIS. SÚMULA 7/STJ. DANOS MORAIS. VALOR RAZOÁVEL. VÍTIMA EM ESTADO VEGETATIVO. PENSÃO VITALÍCIA DEVIDA. CONSTITUIÇÃO DE CAPITAL. NECESSIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. AGRAVO DESPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia, apresentando fundamentação adequada, não há que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova requerida pela parte, quando sopesada pelas instâncias ordinárias sua utilidade, demonstrando-se que o feito se encontrava suficientemente instruído.
+3. "A jurisprudência do STJ firmou-se no sentido de que o proprietário do veículo responde solidariamente pelos danos decorrentes de acidente de trânsito causado por culpa do condutor" (AgInt no REsp 1.301.184/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/06/2016, DJe de 27/06/2016).
+4. A reforma do julgado quanto à comprovação dos danos materiais e ao cabimento de pensão vitalícia, demandaria o reexame do contexto fático-probatório, providência inviável no recurso especial, a teor da Súmula 7 do STJ.
+5. O valor arbitrado pelas instâncias ordinárias a título de indenização por danos morais somente pode ser revisto por esta Corte nas hipóteses em que a condenação se revelar irrisória ou exorbitante. No caso, o valor arbitrado em R$ 150.000,00 (cento e cinquenta mil reais) não é exorbitante nem desproporcional aos danos sofridos pela vítima, que, em razão das gravíssimas consequências do acidente, encontra-se em estado vegetativo permanente, sem possibilidade de recuperação.
+6. Segundo a jurisprudência desta Corte, na ação de indenização, é necessária a constituição de capital ou caução fidejussória para a garantia de pagamento da pensão, independentemente da situação financeira do demandado, a teor da Súmula 313 do STJ.
+7. A jurisprudência do STJ firmou o entendimento de que, em casos de responsabilidade civil extracontratual, os juros moratórios incidem desde o evento danoso, conforme dispõe a Súmula 54 do STJ.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.321.098/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. INOVAÇÃO RECURSAL. PRECLUSÃO. REPRODUÇÃO DE ENTREVISTA SEM AUTORIZAÇÃO. ASSOCIAÇÃO DA IMAGEM A FINS ILÍCITOS. DANO À IMAGEM. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIADE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LUCROS CESSANTES. SÚMULA 7/STJ.
+1. O argumento relativo ao impedimento e à suspeição do Desembargador relator do acórdão recorrido n ão foi suscitado no recurso especial, mas tão somente no presente agravo interno, de modo que configura verdadeira inovação recursal. Não só, nos termos do art. 146 do CPC/2015 a parte deve alegar o impedimento ou a suspeição no prazo de 15 (quinze) dias a contar do conhecimento do fato. Não tendo sido observado tal lapso temporal, operou-se a preclusão.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, sob pena de violação da competência do STF.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Precedentes.
+4. Para alterar a conclusão lançada no acórdão recorrido, no sentido de que ficou comprovado que as recorridas deixaram de ser contratadas em razão da repercussão negativa do programa, demandaria o revolvimento do acervo fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, no que concerne à alegação de exorbitância do montante arbitrado a título de indenização por danos morais, impede o conhecimento do recurso especial quanto ao ponto.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.009.202/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Com efeito, estando o posicionamento adotado pelo Tribunal a quo em harmonia com a jurisprudência do Superior Tribunal de Justiça, aplica-se o disposto na Súmula 83/STJ.
+Ademais, mostra-se vedado ao STJ alterar a conclusão adotada pela Corte local acerca da desnecessidade da prova pleiteada, uma vez que impedido pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
