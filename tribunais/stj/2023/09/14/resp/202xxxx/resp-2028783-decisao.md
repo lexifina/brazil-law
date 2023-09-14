@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. DECISÃO QUE DEFERIU A LIMINAR E DETERMINOU A CITAÇÃO. RECURSO DO AUTOR.
+TERMO INICIAL DO PRAZO PARA PAGAMENTO DA INTEGRALIDADE DA DÍVIDA. PRAZO DE CINCO DIAS APÓS A EXECUÇÃO DA LIMINAR. PRAZO DA CONTESTAÇÃO QUINZE DIAS. DECISÃO QUE OBSERVOU OS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. DECISÃO OBJURGADA EM CONSONÂNCIA COM PRECEDENTES DO STJ E DESTA CORTE.
+RECURSO DESPROVIDO.
+Alegou-se, no especial, violação do artigo 3º, §§ 1º e 2º, do Decreto-Lei 911/69, assim como divergência jurisprudencial. Requer-se "a reforma do acórdão por violação à lei federal nos seguintes termos: seja declarado que os termos iniciais dos prazos de "pagamento da integralidade da dívida" e de contestação são a data de execução da liminar (apreensão do bem) - independentemente da juntada do mandado nos autos e independentemente da citação/intimação do devedor" (fl. 112).
+Pede "a reforma do v. decisum, declarando-se que os ônus decorrentes da sucumbência recaiam integralmente sobre o recorrido/réu, afastando-se assim a condenação do recorrente/autor" (fl. 113).
+Assim delimitada a controvérsia, passo a decidir.
+Observo que o Tribunal de origem não decidiu acerca da temática relacionada aos ônus sucumbenciais, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 282/STF.
+No mais, colhe-se que o Tribunal estadual decidiu que, "Portanto, embora o prazo de cinco dias para o pagamento da integralidade da dívida inicie com a execução da liminar, é necessária a ciência do devedor acerca da apreensão do bem. Vale ressaltar, outrossim, que "o mandado de busca e apreensão/citação veicula, simultaneamente, a comunicação ao devedor acerca da retomada do bem alienado fiduciariamente e sua citação, daí decorrendo dois prazos diversos: (i) de 5 dias, contados da execução da liminar, para o pagamento da dívida (art. 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969, c/c 240 do CPC); e (ii) de 15 dias, a contar da juntada do mandado aos autos, para o oferecimento de resposta" (REsp 1.148.622/DF, rel. Min. Luis Felipe Salomão, Quarta Turma, j. 1-10-2013), de modo que a decisão objurgada está em consonância com a jurisprudência da Corte Superior e deste Tribunal de Justiça" (e- STJ, fls. 88-89).
+Por sua vez, no que tocante ao termo inicial do prazo de 5 (cinco) dias para o pagamento da dívida, esta Corte Superior tem entendimento de que o prazo é constatado a partir da execução da liminar.
+A saber:
+PROCESSO CIVIL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. TERMO A QUO PARA O PAGAMENTO DA DÍVIDA. ART. 3º, §§ 1º e 2º, DO DECRETO-LEI N. 911/1969. DATA DA INTIMAÇÃO CONTIDA NO MANDADO DE BUSCA, APREENSÃO E CITAÇÃO.
+1. O Decreto-Lei n. 911/1969, nos parágrafos 1º e 2º do art 3º, confere ao devedor fiduciário o prazo de 5 dias - a partir da execução da liminar de busca e apreensão - para pagar a integralidade da dívida pendente, nos termos do pedido inicial.
+2. O mandado de busca e apreensão/citação veicula, simultaneamente, a comunicação ao devedor acerca da retomada do bem alienado fiduciariamente e sua citação, daí decorrendo dois prazos diversos: (i) de 5 dias, contados da execução da liminar, para o pagamento da dívida (art. 3º, §§ 1º e 2º, do Decreto- Lei n. 911/1969, c/c 240 do CPC); e (ii) de 15 dias, a contar da juntada do mandado aos autos, para o oferecimento de resposta (art. 297, c/c 241, II, do Código de Processo Civil).
+3. Recurso especial provido.
+(REsp 1148622/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/10/2013, DJe 15/10/2013.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA. CONTRATO GARANTIDO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. PURGAÇÃO DA MORA APÓS A VIGÊNCIA DA LEI 10.931/04. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA. SÚMULA 83 DO STJ.
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Com a nova redação do artigo 3º do Decreto-Lei n.º 911/69, dada pela Lei 10.931/04, não há mais se falar em purgação da mora nas ações de busca e apreensão de bem alienado fiduciariamente, devendo o devedor pagar a integralidade da dívida, no prazo de 5 dias após a execução da liminar, hipótese na qual o bem lhe será restituído livre de ônus.
+3. A perfeita harmonia entre o acórdão recorrido e a jurisprudência dominante desta Corte Superior impõe a aplicação, à hipótese dos autos, do enunciado Nº 83 da Súmula do STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1183477/DF, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 3/5/2011, DJe 10/5/2011.)
+Diante do exposto, dou provimento parcial ao recurso especial apenas para determinar o retorno dos autos ao Tribunal de origem para que aprecie o recurso contra a liminar deferida levando-se em consideração que o termo inicial para o pagamento da dívida na ação de busca e apreensão é a execução da liminar .
+Intimem-se.
+EMENTA
