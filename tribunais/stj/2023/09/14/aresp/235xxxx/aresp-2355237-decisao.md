@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por VERA APARECIDA COLOMBO SIQUEIRA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PENSÃO POR MORTE. CANCELAMENTO ADMINISTRATIVO. FALECIDO NÃOCUMPRIU A CARÊNCIA EXIGIDA PARA A CONCESSÃO DO AUXÍLIO-DOENÇARECEBIDO ATÉ A DATA DO ÓBITO. AUSÊNCIA DA QUALIDADE DE SEGURADO. BENEFÍCIO INDEVIDO. DEVOLUÇÃO DOS VALORES RECEBIDOS. DESCABIMENTO. BOA-FÉ DA AUTORA COMPROVADA.
+- Ocorrido o óbito em 21/10/2012, em atenção ao princípio , previsto na tempus regit actum súmula 340 do Colendo Superior Tribunal de Justiça (STJ), a pensão por morte reger-se-á pela lei vigente na data do falecimento, aplicando-se ao caso as normas dos artigos 16, 26, e 74 a 79, da Lei nº 8.213, de 24/07/1991, com a redação em vigor na data do passamento.
+- Incontroversa a dependência econômica da autora em relação ao falecido.
+- Inexistente, no entanto, a qualidade de segurado do de cujus.
+- O INSS cancelou administrativamente o auxílio-doença recebido pelo falecido, após a datado óbito, mas ainda dentro do prazo decadencial que possui a Administração Pública para rever os atos administrativos, por não cumprimento da carência exigida.
+- O início da incapacidade ocorreu em maio de 2010, sendo que ele havia contribuído apenas de 01/04/2010 a 31/07/2010, não tendo concluído o período de carência para a concessão do auxílio-doença do qual usufruiu de 06/07/2010 a 21/10/2012, data do óbito.
+- Descabe o pleito do INSS de devolução dos valores recebidos pela autora até o cancelamento administrativo da pensão por morte.
+- Do julgamento final do Tema 979 do STJ resultou a seguinte tese: "Com relação aos pagamentos indevidos aos segurados decorrentes de erro administrativo (material ou operacional), não embasado em interpretação errônea ou equivocada da lei pela Administração, são repetíveis, sendo legítimo o desconto no percentual de até 30% (trinta porcento) de valor do benefício pago ao segurado/beneficiário, ressalvada a hipótese em que o segurado, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido."
+- Resulta evidente da análise dos autos a boa-fé da autora no recebimento da pensão por morte até a data do cancelamento administrativo do benefício pelo INSS, em decorrência do reconhecimento do erro administrativo na concessão do auxílio-doença ao falecido.
+- Remessa necessária não conhecida. Apelações da autora e do INSS improvidas.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, a recorrente sustenta violação aos artigos 15, I da Lei 8.213/91 e artigo 21 da Lei de Introdução ao Direito Brasileiro.
+Relata que à época do óbito do seu esposo este recebia o benefício de auxílio-doença, e que a invalidação do benefício concedido ao segurado de boa-fé não impede a aplicação do art. 15, I da Lei 8.213/91, dispositivo que mantém a qualidade de segurado de quem está em gozo de benefício previdenciário, exceto o auxílio-acidente.
+Alega, ainda, que tal questão foi objeto da Turma Nacional de Uniformização que fixou no seu Tema 245 a seguinte interpretação "A invalidação do ato de concessão de benefício previdenciário não impede a aplicação do art. 15, I da Lei 8.213/91 ao segurado de boa-fé".
+Sem contrarrazões, o Tribunal de origem inadmitiu o recurso especial à consideração de a análise do caso demandaria o revolvimento do conteúdo fático-probatório dos autos, o que encontra óbice no teor da Súmula 7/STJ (fls. 385-387).
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+Na hipótese dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação visando o restabelecimento de pensão por morte concedida à recorrente, mas cessada pela administração ante a constatação, dentro do prazo legal, de que o instituidor do benefício não detinha a condição de segurado quando do falecimento, embora recebesse benefício de auxílio-doença por erro da administração.
+A questão controversa dos autos diz respeito em saber se em razão de estar recebendo benefício quando do seu falecimento, ainda que de forma irregular, tal situação enseja a manutenção da qualidade de segurado.
+Para tanto, a recorrente apontou violação aos artigos 15, I da Lei 8.213/91 e 21 da LIDB, apontando, ainda que o entendimento da TNU (Tema 245) é no sentido de que o recebimento de benefício irregular não impede a manutenção da qualidade de segurado.
+Sendo esse o panorama dos autos, tenho que o recurso não ultrapassa o juízo de admissibilidade.
+Isto porque em relação ao art. 15, I, da Lei 8.213/91, referido dispositivo apenas estabelece que é mantida a qualidade de segurado de quem está em gozo de benefício, exceto auxílio-acidente.
+Verifica-se, portanto, que o comando normativo inserto dispositivo em questão não é suficiente a sustentar a tese de insurgência expendida no recurso especial, qual seja, de que mesmo ante a invalidação do ato é mantida a qualidade de segurado.
+Assim, quanto à alegada violação ao referido dispositivo o apelo não merece conhecido a teor da Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. REAJUSTE DE 28,86%. BASE DE CÁLCULO. VENCIMENTO BÁSICO. INCIDÊNCIA SOBRE VANTAGENS. NÃO CABIMENTO. BIS IN IDEM. LEGITIMIDADE ATIVA AD CAUSAM. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO COMO VIOLADO. FUNDAMENTAÇÃO DISSOCIADA DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF.
+ ..
+5. Incide a Súmula n. 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.893.334/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+Já em relação ao artigo 21 da LIDB, esse sim, dispositivo com conteúdo relacionado à modulação dos efeitos da decisão que anula o ato administrativo, e que foi a base para o entendimento do Tema 245 da TNU, não houve o necessário debate na instância ordinária.
+Assim sendo, fica impossibilitado o julgamento do recurso nesses aspectos, por ausência de prequestionamento do dispositivo indicado como violado, nos termos das Súmulas 282/STF e 211/STJ, respectivamente: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada; e inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+Nesse sentido, o seguinte julgado deste Tribunal Superior:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. SANEAMENTO DO ACÓRDÃO EMBARGADO. NECESSIDADE. SERVIDOR PÚBLICO ESTADUAL. DEMISSÃO. ALEGADA DESPROPORCIONALIDADE DA SANÇÃO. OFENSA AO ART. 186 DA LEI 8.112/1990. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. REEXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+ ..
+3. Para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.  ..
+7. Embargos de declaração parcialmente acolhidos para sanar a omissão contida no acórdão embargado, sem efeitos modificativos.
+(EDcl no AgInt no REsp n. 1.862.088/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. CANCELAMENTO ADMINISTRATIVO. FALECIDO QUE NÃO CUMPRIU A CARÊNCIA EXIGIDA PARA A CONCESSÃO DO AUXÍLIO-DOENÇA RECEBIDO ATÉ A DATA DO ÓBITO. ALEGAÇÃO DE MANUTENÇÃO DA CONDIÇÃO DE SEGURADO. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO COMO VIOLADO. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
