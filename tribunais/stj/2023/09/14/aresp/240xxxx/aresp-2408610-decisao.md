@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por COOPERATIVA DE CRÉDITO CREDIGUAÇU - SICOOB CREDIGUAÇU, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 336):
+AÇÃO RESCISÓRIA. Sentença rescindenda que julgou procedente o pedido de declaração de nulidade de cláusula contratual bem como de indenização por danos materiais. Violação manifesta da ordem jurídica e erro de fato não demonstrados. Revelia. Citação via postal, com alegação de que a correspondência foi entregue a estagiário sem poderes para tal fim. Ausência de nulidade. Teoria da aparência. Ação utilizada como substituto recursal. Impossibilidade. Hipóteses que não se ajustam ao disposto art. 966, V e VIII, do CPC. Dicção do art. 330, III, do CPC. Indeferimento da inicial. PROCESSO EXTINTO, SEM RESOLUÇÃO DE MÉRITO.
+Em suas razões de recurso especial (e-STJ, fls. 346-356), a agravante alegou violação aos arts. 1.245 do CC de 2002; e 319, II, 320, 345, 406, 434 e 966, V, VI, VII e VIII, do CPC de 2015; bem como a existência de dissídio jurisprudencial.
+Apontou, em síntese, que houve o preenchimento dos requisitos necessários para o ajuizamento da ação rescisória, ante a existência de erro de fato e a violação à norma jurídica, pois não ocorreu o registro público do casamento da recorrida à margem da matrícula do imóvel expropriado na ação originária.
+Alternativamente, pugnou pelo julgamento do processo, tendo em vista a informação falsa de estado civil, juntamente com a falta de averbação do casamento na matrícula do imóvel.
+Destacou, ademais, a ocorrência de prescrição do direito de reparação.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 362-381).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 558-577).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca do cabimento da ação de rescisão, o TJSP dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 337-339):
+Isso porque a pretensão da demandante não encontra respaldo nas hipóteses previstas no artigo 966 do Código de Processo Civil.
+No presente caso, a autora alega terem sido julgados procedentes os pedidos da ação sem que houvesse prova, através da certidão pública pertinente, do casamento alegado pela ré.
+Todavia, a ação rescisória não é cabível em qualquer circunstância. De maneira geral, é o meio processual adequado para suscitar, apenas e tão somente, nulidades absolutas, o que não se verifica no caso examinado.
+( )
+O que se verifica, assim, é que a presente ação rescisória objetiva figurar como substituto recursal, eis que o suposto"erro de fato" é exatamente a matéria controvertida.
+Tal pretensão foge do escopo da ação rescisória. ( )
+Denota-se que o acórdão recorrido não diverge da jurisprudência desta Corte Superior segundo a qual a ação rescisória não pode ser utilizada como sucedâneo recursal, com vistas a corrigir suposta injustiça na interpretação dos fatos ou para reexame de provas, nem mesmo para corrigir divergência na interpretação do dispositivo legal.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PETIÇÃO INICIAL. INDEFERIMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO. DECISÃO JUDICIAL. RESCISÃO. POSSE E PROPRIEDADE. DEFESA. INADEQUAÇÃO DA VIA ELEITA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o art. 1.022 do Código de Processo Civil de 2015 o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+3. A ação rescisória não é o meio adequado para corrigir suposta injustiça da decisão, apreciar má interpretação dos fatos ou reexaminar as provas produzidas ou complementá-las.
+4. Na hipótese, o recurso questiona a inadimplência dos réus e pretende defender a posse ao argumento de que é o único e legítimo proprietário do imóvel sem indicar a suposta violação de dispositivo de lei federal necessária à rescisão de decisão judicial transitada em julgado.
+5. Agravo interno não provido.(AgInt no AREsp 1.362.768/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2021, DJe 7/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AÇÃO DE INDENIZAÇÃO. HOMICÍDIO PRATICADO NAS DEPENDÊNCIAS DA RECORRENTE EM SAÍDA DE BAILE POR ELA PROMOVIDO. ALEGADA FALTA DE SEGURANÇA NO LOCAL DO EVENTO. RESPONSABILIDADE CIVIL RECONHECIDA. DOCUMENTO NOVO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DOS FATOS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Tem-se, na hipótese, ação rescisória fundada na alegação de documento novo, consistente em Escritura Pública Declaratória, na qual o autor do homicídio, em razão do qual a recorrente foi condenada a indenizar, declara que o crime ocorrera fora de suas dependências e, portanto, seria capaz de lhe assegurar pronunciamento favorável para excluir sua responsabilidade civil.
+2. Esta Corte Superior tem entendimento de que o documento novo apto a aparelhar pedido rescisório há de ser preexistente à decisão rescindenda, mas ignorado pelo interessado ou impossível de obtenção para utilização no processo e capaz, por si só, de assegurar-lhe pronunciamento favorável. No caso, o documento não existia à época da decisão rescindenda, pois foi produzido unilateralmente após o trânsito em julgado da ação rescindenda, não podendo ser considerado documento novo.
+3. O Tribunal de origem, ao julgar improcedente a ação rescisória, consignou que "o conteúdo do aludido documento contraria as demais provas produzidas na ação rescindenda e, inclusive, o próprio Inquérito Policial, segundo os quais o crime ocorreu dentro no pátio da sede da parte autora".
+4. Nos termos da jurisprudência desta Corte, a ação rescisória não é o meio adequado para corrigir suposta injustiça da decisão, apreciar má interpretação dos fatos, ou reexaminar as provas produzidas ou complementá-las.
+5. Agravo interno não provido.(AgInt no AREsp 1.559.722/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/3/2020, DJe 31/3/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. APLICAÇÃO FINANCEIRA DE RISCO. ACORDO CELEBRADO PARA COMPOSIÇÃO DE PREJUÍZO DOS INVESTIDORES. VALIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. JUROS DE MORA. TAXA SELIC. INCIDÊNCIA DA SÚMULA Nº 343 DO STF. AGRAVO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O TJRJ decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte, não havendo falar, por isso, em negativa de prestação jurisdicional.
+3. Conforme a Súmula nº 343 do STF, nos termos da qual não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.471.585/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/12/2019, DJe de 11/12/2019.)
+Ademais, não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ausência de preenchimento dos requisitos para provimento da ação rescisória, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 489 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Rever a conclusão do Tribunal a quo acerca da ausência dos requisitos legais para o ajuizamento da ação rescisória, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, é cabível a fixação de taxa de ocupação em favor do devedor fiduciante, enquanto estiver na posse direta do bem, com fundamento na vedação ao enriquecimento sem causa. Incidência das Súmulas 7 e 83 do STJ.
+4. O acolhimento da pretensão recursal, no sentido de afastar a legitimidade passiva da parte, exigira derruir a convicção formada na instância ordinária, o que atrai a incidência das Súmulas 5 e 7 do STJ. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.721.288/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REDISTRIBUIÇÃO DO PROCESSO. INVIABILIDADE. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. DISPOSIÇÃO DE LEI. VIOLAÇÃO. OFENSA DIRETA. NECESSIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É inviável a redistribuição de processo em fase de agravo interno quando a distribuição do agravo em recurso especial se deu na exata forma do Regimento Interno do Superior Tribunal de Justiça.
+3. Inadmissível o exame de eventual negativa de prestação jurisdicional quando o recurso especial não especifica as supostas omissões ou teses que deveriam ter sido examinadas pelo tribunal de origem. Aplicação da Súmula nº 284/STF.
+4. A ação rescisória fundada no art. 485, V, do Código de Processo Civil de 1973 pressupõe violação frontal e direta de literal disposição de lei, de modo que seja possível extrair a ofensa legal do próprio conteúdo do julgado cuja rescisão se pretende.
+5. Na hipótese, rever a conclusão do aresto impugnado acerca da ocorrência do erro de fato encontra óbice na Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.631.572/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/3/2021, DJe de 9/3/2021.)
+No que concerne ao pleito de reconhecimento da prescrição da ação, constata-se que a agravante não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a tese recursal, providência obrigatória para os reclamos interpostos pela alínea tanto pela alínea a quanto pela c do permissivo constitucional.
+Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Por derradeiro, no que diz respeito à apontada violação aos arts. 1.245 do CC de 2002 e 319, II, 320, 345, 406 e 434 do CPC de 2015, verifica-se que o conteúdo normativo dos referidos dispositivos legais não foi objeto de debate pelo Tribunal de origem. Dessa forma, não tendo sido enfrentada a questão relacionada aos artigos apontados como violados pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem ao caso os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TELEFONIA. PLANO DE EXPANSÃO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. ALEGADA NÃO ENTREGA DE AÇÕES INTEGRALIZADAS. RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO. VINTENÁRIA. TERMO INICIAL. DATA DA LESÃO INDEPENDENTEMENTE DE CIÊNCIA. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO. INCIDÊNCIA SÚMULA 283/STF.
+ ..
+2. Em relação aos artigos 247 e 884 do Código Civil e ao art. 35, §1º, da Lei n. 6.404/76, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Ausente o necessário prequestionamento a atrair a incidência dos óbices contidos nas Súmulas 282 e 356/STF.
+ ..
+8. Agravo interno não provido. (AgInt no REsp 1.922.705/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2021, DJe 29/6/2021)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa exten são, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 83/STJ. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS AUTORIZADORES DA AÇÃO RESCISÓRIA. PRETENSÃO DE REEXAME DOS ELEMENTOS FÁTICOS DA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO ARTIGO TIDO POR VULNERADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. INCIDÊNCIA DA SÚMULA N. 282 E 356 DO STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO .
