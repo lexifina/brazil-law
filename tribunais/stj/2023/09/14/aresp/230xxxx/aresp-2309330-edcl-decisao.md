@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 1.787-1.791, em que neguei provimento ao agravo em recurso especial.
+Em suas razões, a parte embargante aponta contradição na decisão embargada.
+Sustenta que "o Egrégio Tribunal de Justiça do Estado do Paraná ao julgar o presente caso (acórdão de folhas e-STJ FL. 998 a 1006) reconheceu que os Agravados/Embargantes tomaram "ciência da penhora em 02 de Junho de 2014, no momento de efetivar o registro da matrícula, ou, na pior das hipóteses em, 24 de Setembro de 2014, 17 de Agosto de 2016, 13 de Julho de 2018 e 17 de Agosto de 2018", opondo os Embargos de Terceiro apenas em 23 de Agosto de 2018, tendo sido, portando, o conjunto de fatos e provas trazidos a baila e analisado no Tribunal a quo" (fl. 1.796).
+Ressalta que, "à época em que os Agravados/Embargantes tomaram ciência da penhora do bem objeto deste o processo de Execução não se encontrava sequer fase de avaliação, portanto o imóvel fora penhorado para garantir o débito executado caso não fosse possível saldar a dívida através de bloqueio de valores ou veículos de pertencentes aos devedores" (fl. 1.796).
+Alega que, "apesar de constatar que os Agravantes/Embargantes tomaram ciência da penhora anos antes da propositura da presente demanda o Egrégio Tribunal de Justiça do Estado do Paraná não aplicou o entendimento majoritário desta Corte que, em conformidade com as decisões prolatadas no AREsp 1926035/PR, AREsp 2162360/RJ, AREsp 1233065/MS e REsp 2076853, entre outros, DECIDIU QUE O PRAZO DE 05 (CINCO) DIAS PARA OPOSIÇÃO DOS EMBARGOS DE TERCEIRO INICIA-SE A PARTIR DA CIÊNCIA INEQUÍVOCA A RESPEITO DA CONSTRIÇÃO JUDICIAL OCORRIDA NO BOJO EXECUTIVO OU DA DATA DA TURBAÇÃO" (fl. 1.796).
+Defende que a tempestividade é matéria de ordem pública, passível de reconhecimento ex officio, não ensejando a incursão ao conjunto fático-probatório dos autos.
+Contrarrazões aos embargos não apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+A decisão embargada foi expressa em examinar a tese da embargante, tendo o feito na seguinte passagem (fl. 1.789):
+Acerca da questão controvertida, a Corte estadual rechaçou a alegada intempestividade dos embargos de terceiro, considerando que o prazo de cinco dias tem início apenas com a efetivação dos atos de constrição judicial. Eis os fundamentos adotados (fls. 909-910):
+Alega o recorrente a preliminar de intempestividade dos embargos, porque opostos em 23/08/2018 ao passo que os embargantes tiveram ciência da penhora em 02/06/2014, no momento de efetivar o registro da matrícula, ou, na pior das hipóteses em, 24/09/2014, 17/08/2016, 13/ 07/2018 e 17/08/2018.
+O art. 675 do CPC dispõe que:
+"Art. 675. Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença e, no cumprimento de sentença ou no processo de execução, até 5 (cinco) dias depois da adjudicação, da alienação por iniciativa particular ou da arrematação, mas sempre antes da assinatura da respectiva carta."
+Ou seja, o prazo de cinco dias somente inicia no processo de execução após atos de constrição judicial, tais como adjudicação, alienação por iniciativa do particular ou arrematação. Nesse mesmo sentido, inclusive, é a jurisprudência colacionada nas razões do apelo.
+Importa destacar que a jurisprudência do STJ já pacificou o entendimento de que "se o terceiro não tinha conhecimento da execução, o prazo tem início a partir da efetiva turbação da posse." (REsp 739.614 - SP, Rel. Min. que se dá com a imissão do arrematante na posse do bem Isabel Gallotti, julg. 15/03/2021).
+Portanto, como não ocorreu nenhuma das hipóteses acima elencadas, não há que se falar em intempestividade dos embargos, razão pela qual rejeita-se a preliminar. (grifos nossos)
+Em tal contexto, modificar a conclusão do acórdão recorrido demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Como se pode verificar, foi destacado na decisão embargada que o Tribunal local não reconheceu a tese de intempestividade dos embargos de terceiro, arguida pela parte ora embargante, tendo entendido que o prazo de cinco dias somente tem início após o conhecimento, pelo terceiro interessado, dos atos de constrição judicial, tais como adjudicação, alienação por iniciativa do particular ou arrematação. Consignou, ainda, que não ocorreu nenhuma dessas hipóteses.
+Percebe-se, pois, que a embargante maneja os presentes embargos de declaração em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se verificando, na hipótese, nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar a decisão embargada.
+Cabe ressaltar que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJe 28.8.2014.
+E mais, conforme relatado, a parte embargante alega que a decisão embargada é contraditória, por negar provimento ao agravo em recurso especial sem considerar que "o Egrégio Tribunal de Justiça do Estado do Paraná ao julgar o presente caso (acórdão de folhas e-STJ FL. 998 a 1006) reconheceu que os Agravados/Embargantes tomaram "ciência da penhora em 02 de Junho de 2014, no momento de efetivar o registro da matrícula, ou, na pior das hipóteses em, 24 de Setembro de 2014, 17 de Agosto de 2016, 13 de Julho de 2018 e 17 de Agosto de 2018", opondo os Embargos de Terceiro apenas em 23 de Agosto de 2018, tendo sido, portanto, o conjunto de fatos e provas trazidos a baila e analisado no Tribunal a quo".
+Ocorre que o acórdão juntado às fls. 998-1.006 é idêntico ao que foi juntado em duplicidade às fls. 907-915. Por tal razão, contém, obviamente, a mesma fundamentação do excerto supratranscrito.
+Ainda, no acórdão referido pela parte embargante (fls. 998-1.006), diversamente do que alegado, não há nenhuma menção ou reconhecimento pelo Tribunal de origem de que a parte ora embargada tomou ciência da penhora em 2/6/2014, no momento de efetivar o registro da matrícula, ou nas datas de 24/9/2014, 17/8/2016, 13/7/2018 e 17/8/2018.
+Ademais, a alegação de que a própria Corte estadual reconheceu a ciência da penhora não foi sequer veiculada nas razões do recurso especial.
+Desse modo, tal argumentação evidencia o nítido caráter protelatório dos presentes embargos de declaração, circunstância a ensejar a aplicação de multa prevista no § 2º do art. 1.026 do Código de Processo Civil.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO EDILÍCIO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OFENSA À HONRA E AOS DIREITOS DE PERSONALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA DO ART. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A oposição de embargos de declaração manifestamente protelatórios dá ensejo à condenação do embargante ao pagamento de multa (art. 1.026, § 2º, do CPC).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.242.010/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. OBRIGAÇÃO DE A OPERADORA DE PLANO DE SAÚDE CUSTEAR MEDICAMENTO NÃO REGISTRADO NA ANVISA. TEMA 990.
+APLICACAÇÃO DA TÉCNICA DA DISTINÇÃO (DISTINGUISHING) ENTRE A HIPOTESE CONCRETA DOS AUTOS COM A QUESTÃO DECIDIDA EM SEDE DE RECURSO REPETITIVO. MULTA POR EMBARG OS PROTELATÓRIOS. MANUTENÇÃO. JULGAMENTO: CPC/15.
+ ..
+6. É correta a aplicação da penalidade prevista no art. 1.026, § 2º, do CPC/2015 quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos embargos de declaração.
+7. Recurso especial conhecido e desprovido.
+(REsp n. 1.943.628/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2021, DJe de 3/11/2021.)
+Em face do exposto, rejeito os embargos de declaração, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+Intimem-se.
+EMENTA
