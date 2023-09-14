@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por UNIÃO contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 3ª Região, no julgamento de Agravo interno, assim ementado (fl. 362e):
+PROCESSO CIVIL: AGRAVO LEGAL. APELAÇÃO EM MANDADO DE SEGURANÇA MILITAR. MÉDICO FORMADO. I - Observa-se que o artigo 557, caput, do Código de Processo Civil, com a redação dada pela Lei nº 9.756, de 17 de dezembro de 1998, trouxe inovações ao sistema recursal, com a finalidade de permitir maior celeridade tramitação dos feitos, vindo a autorizar o relator, por mera decisão monocrática a negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Da mesma forma, o parágrafo 1º-A do referido artigo prevê que o relator poderá dar provimento ao recurso se a decisão recorrida estiver manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior. Justificada, portanto, a decisão solitária deste Relator.
+II - A Jurisprudência desta Corte entende é não é possível após a dispensa do impetrante de prestar o serviço militar obrigatório, por excesso de contingente, renovar a sua convocação por ter concluído o Curso de Medicina.
+III - Agravo legal não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 499/502e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 5º, 17, §1º, 29, "e", e §4ª, 30 §6º, 40-A e 75 §3º da Lei n. 4.375/64, com as alterações realizadas pela Lei n. 12.336/10; 1º, 4º, 9º e 45 da Lei n. 5.292/67, com as alterações realizadas pela Lei n. 12.336/10, alegando-se, em síntese, que, tendo sido o recorrido convocado quando já vigente a Lei n. 12.336/2010, não há razão para dispensá-lo da obrigação de servir onde a Corporação determinar, ainda que seja portador de Certificado de Dispensa de Incorporação por excesso de contingente.
+Com contrarrazões (fls. 486/517e), o recurso foi admitido (fl. 567/570e).
+O Ministério Público Federal manifestou-se às fls. 584/588e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No que se refere às as alterações realizadas pela Lei n. 12.336/10, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem sob a perspectiva apresentada no recurso especial.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos arts. 5º, 17, §1º, 29, "e", e §4ª, 30 §6º, 40-A e 75 §3º da Lei n. 4.375/64, com as alterações realizadas pela Lei n. 12.336/10; 1º, 4º, 9º e 45 da Lei n. 5.292/67, com as alterações realizadas pela Lei n. 12.336/10.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
