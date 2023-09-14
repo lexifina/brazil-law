@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. WRIT NÃO CONHECIDO NA ORIGEM. NULIDADE DA PRONÚNCIA. PROFUNDO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Agravo regimental improvido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto contra decisão de minha lavra, a qual indeferiu liminarmente o habeas corpus impetrado em favor de Waldisney Batista de Moura. Eis o resumo do decisum ora agravado (fl. 885):
+HABEAS CORPUS. WRIT NÃO CONHECIDO NA ORIGEM. NULIDADE DA PRONÚNCIA. PROFUNDO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Petição inicial indeferida liminarmente.
+Sustenta o agravante, em resumo, que não há necessidade de revolvimento fático-probatório; que a matéria restou enfrentada na origem, tendo o Tribunal estadual decidido de maneira oposta à atribuição jurídica massiva desta Casa (fl. 892); que foi somente após mais de 02 (dois) anos tramitando sem sequer aportar na instância ad quem que a defesa pediu desistência do recurso próprio (RESE) - (fl. 893); e que a prova judicializada da autoria delitiva consistiu apenas em testemunhos indiretos.
+Busca a reforma da decisão hostilizada e a concessão da ordem nos termos em que requerida.
+Intimado, o Ministério Público de Pernambuco apresentou impugnação ao agravo, aduzindo que não foi analisado o mérito do pedido no Tribunal Estadual, uma vez que o Habeas Corpus não foi conhecido, não se analisando a pretensa nulidade da decisão de pronúncia - que é objeto do presente writ impetrado nesse Superior Tribunal de Justiça, apontando o Tribunal de Justiça local como autoridade coatora, existindo, assim, supressão de instância (fl. 930).
+O Ministério Público Federal se manifestou pela negativa de provimento do agravo regimental, expondo que somente por meio do exame aprofundado de provas, incabível na via estreita do habeas corpus, é que seria possível afastar a conclusão do Juízo de primeiro grau quanto à suficiência dos indícios da autoria de delitiva para embasar a pronúncia do ora paciente (fls. 935/936).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. WRIT NÃO CONHECIDO NA ORIGEM. NULIDADE DA PRONÚNCIA. PROFUNDO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Agravo regimental improvido.
+VOTO
+Não merece reparos a decisão ora agravada, devendo ser mantida por seus próprios fundamentos, os quais transcrevo para que integrem este julgado (fls. 885/886 - grifo nosso):
+ ..
+O Tribunal estadual não conheceu do habeas corpus ali ajuizado. Para tanto, entendeu que não se admite habeas corpus substitutivo de recurso próprio, e que o RESE é a via processual mais adequada para impugnar a decisão de pronúncia, pois devolve ao tribunal o conhecimento amplo de toda a matéria versada nos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem as limitações do habeas corpus (fl. 842). Além disso, verificou que, conforme informado pelo próprio impetrante, a defesa desistiu do recurso em sentido estrito contra a decisão de pronúncia, no qual se questiona o mesmo objeto do presente writ (fl. 842), de modo que a extemporânea apresentação do pleito não modifica a sua essência, que é substituir o recurso em sentido estrito interposto, o qual não foi julgado única e exclusivamente por decisão do recorrente - que requereu a desistência do referido recurso (fl. 843). Por fim, ainda destacou que a alegada ausência de provas para pronunciar o paciente é questão que demanda aprofundada análise do conjunto probatório produzido na ação penal originária, providência vedada na via estreita do remédio constitucional do habeas corpus, e que eventuais dúvidas na fase processual da decisão de pronúncia resolvem-se em favor da sociedade (princípio do in dubio pro societate) e deverão ser dirimidas pelo conselho de sentença (fl. 842 - grifo nosso).
+Ora, é consabido que, no âmbito da via eleita, é inadmissível o reexame de fatos e de provas a fim de desconstituir o que foi decidido na sentença de pronúncia, sobretudo quando mencionada a existência de provas produzidas em juízo. Confiram-se, entre tantos, os seguintes julgados: AgRg no HC n. 772.898/SC, de minha relatoria, Sexta Turma, DJe 15/12/2022; AgRg no HC n. 769.601/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/3/2023; e AgRg no HC n. 804.024/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/3/2023.
+Também é inadmissível a pretendida supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Como já disse, a tese ora reiterada não foi objeto de debate e decisão pela Corte local - porque não viabilizada a discussão na via adequada, qual seja, o recurso em sentido estrito -, sendo inadmissível a supressão de instância.
+Vale destacar que, pelo que se extrai dos autos, o recurso em sentido estrito tramitou por dois anos sem aportar na instância ad quem por culpa exclusiva da defesa - a qual, embora intimada por três vezes, não apresentou as respectivas razões, tendo, ao final, requerido a desistência do feito ao argumento de que não havia mais interesse na reforma ou modificações da sentença de pronúncia (fl. 583).
+Pelo exposto, nego provimento ao agravo regimental.
