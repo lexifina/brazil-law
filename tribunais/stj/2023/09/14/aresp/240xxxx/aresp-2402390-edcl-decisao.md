@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDERSON LUIZ PORTO COSTA em face da decisão de fls. 804/805, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Trata-se de Agravo em Recurso Especial interposto contra r. Decisão que não conheceu do recurso especial, oposto por Anderson Luiz Porto Costa, todavia sem análise acerca da questão de direito superveniente suscitada.
+Suscitada alhures, a questão de fato superveniente de direito, vide Petição e-STJ Fl. 690; Petição de Recurso Especial no e-STJ Fl. 710 a 719; Petição de Agravo em Recurso Especial no e-STJ Fl. 771 a 780.
+O pedido, pendente de análise, tem como objeto a suspensão deste processo individual, uma vez ajuizada ação coletiva sobre a mesma matéria.
+ ..
+Excelências, com a devida vênia, ao examinar o teor da Decisão monocrática, não obstante o acerto quanto ao mérito da questão, percebe-se, contudo, a não apreciação da questão de direito superveniente sinalizada pelo Recorrente.
+Na ocasião, esclarecido que a matéria tratada nos autos, é objeto de ação, distribuída em demanda coletiva no dia 04/07/2022 às 16h17, perante a 4ª Vara da Fazenda Pública do DF, PJe n. 0711154-79.2022.8.07.0018 - TJDFT, conforme protocolo juntado no e-STJ Fl.693.
+Portanto, a possibilidade de suspensão processual nos termos ora pleiteados encontra amparo no Art. 104 do CDC, que prevê a suspenção da ação individual quando proposta ação coletiva proposta por comissão da categoria, ajuizada no decorrer da ação individual, vejamos  ..  (fl. 812).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante limita-se a afirmar não foi apreciada questão de direito superveniente, sem, contudo, rebater à incidência da Súmula 284 do Supremo Tribunal Federal decorrente da ausência de indicação expressa dos dispositivos de lei federal, que seriam objeto de divergência ou tidos como violados, óbice pelo qual o recurso especial não foi conhecido. Portanto, não houve a necessária conexão dialética entre a decisão de não conhecimento do seu recurso especial e estes aclaratórios, em total afronta ao princípio da dialeticidade.
+Outrossim, observe-se que o embargante pretende o exame de mérito do recurso especial, na medida em que a mencionada "questão superveniente de direito" foi analisada pelo tribunal de origem e é uma das controvérsias do recurso especial. Esse exame, porém, restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de contradição, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Diante desse desate, julgo prejudicada a concessão do efeito suspensivo.
+Publique-se. Intimem-se.
