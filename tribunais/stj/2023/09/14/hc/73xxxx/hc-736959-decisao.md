@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO WESLEY ALVES DE SOUSA contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no julgamento do HC n. 0621646-09.2022.8.06.0000.
+Consta dos autos que o Paciente está preso provisoriamente desde 27/01/2022 e foi denunciado pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003, em razão da apreensão de 100g de cocaína, 10g de maconha, 2g de crack, uma pistola calibre 22, 29 munições de calibre .12, uma munição de calibre não identificado e 2 carregadores de arma de fogo.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente do writ e, na parte conhecida, denegou a ordem (fls. 65-78).
+Neste writ, o Impetrante sustenta que a entrada forçada dos policiais na residência onde foram encontrados os entorpecentes, a arma e as munições não estava amparada em fundadas razões.
+Aduz que "as versões apresentadas pelos policiais destoam da verdade, tendo em vista que o impetrante teve sua casa arrombada, conforme se denota do portão, bem como, foram ainda ameaçados de morte" (fl. 5).
+Afirma que a prisão cautelar é ilegal, "eis que ocorreu tortura em um dos momentos da prisão em flagrante, o que macula a forma de sua realização, tornando-a nula" (fl. 11). Argumenta que o Paciente "relatou ter tido sua cabeça colocada em saco plástico, sendo sufocado constantemente para que apontasse onde que se encontrava armas e drogas, sendo informado aos policiais que não sabia nem de armas, nem de drogas e que era apenas usuário" (fl. 8).
+Assevera que "não houve nexo ininterrupto entre o momento da prisão e a prática do suposto delito" (fl. 24; sem grifos no original).
+Assinala que " n ão se pode, então, atribuir qualquer valor probatório contra o ora paciente a esta suposta confissão informal - ou foi obtida mediante tortura, ou, no mínimo, com afronta ao direito ao silêncio" (fl. 23).
+Menciona a ausência de indícios suficientes de autoria.
+Alega que não se encontram presentes os requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal e que o decreto prisional carece de fundamentação idônea.
+Sustenta que o Acusado possui condições pessoais favoráveis.
+Pugna, liminarmente, pela soltura do Paciente, com ou sem imposição de medidas cautelares diversas da prisão. No mérito, requer a concessão da ordem para que "seja oficiado o juízo de piso a realizar o desentranhamento das provas obtidas por meio ilícito" (fl. 37) e "para vedar que a suposta confissão informal, que teria sido realizada por ele aos policiais e em sede policial em ocasião de sua prisão, seja utilizada para fundamentar, mesmo que de maneira obiter dictum, sentença contra si, impondo-se que o julgamento seja realizado sem qualquer consideração a isto" (fl. 37), confirmando-se a liminar.
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que foi proferida sentença, em 25/07/2022, na qual o Paciente foi condenado às penas de "8 (oito) anos e 11 (onze) meses e 660 (seiscentos e sessenta) dias-multa", em regime inicial fechado, "como incurso nas penas do art. 33, caput, da Lei n. 11.343/06 e e art. 14 da Lei nº 10.826/03". Na oportunidade, foi apreciada a questão referente à alegada nulidade das provas.
+Desse modo, está prejudicada a análise da matéria, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, as alegações da Defesa. A propósito:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO E FALSIDADE IDEOLÓGICA. NULIDADE. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO POR DEFENSOR DATIVO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. JUÍZO DE COGNIÇÃO MAIS AMPLO. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL.
+1. Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita.
+2. A posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença.
+3. Agravo regimental improvido." (AgRg no RHC 71.840/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018.)
+Observo, ainda, que, na sentença, o Juízo de primeira instância concedeu ao Paciente o direito de recorrer em liberdade.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. PEDIDO PREJUDICADO.
