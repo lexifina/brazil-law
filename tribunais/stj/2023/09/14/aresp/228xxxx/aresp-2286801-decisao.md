@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo de ITAMAR AUGUSTO DOS SANTOS FILHO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0508813-43.2020.8.05.0001.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 157, § 2º-A, I (roubo majorado consumado) e art. 157, § 2º-A, I c/c art. 14, II (roubo majorado tentado), todos do Código Penal - CP, à pena de 9 anos, 11 meses e 5 dias de reclusão, em regime inicial fechado, e 110 dias-multa (fl. 293).
+Recurso de apelação interposto pela defesa foi parcialmente provido para reduzir a pena para 8 anos e 4 meses de reclusão e 21 dias-multa (fl. 438). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO MAJORADO CONSUMADO -ART.157, §2º, Il, e §2º-A, I , DO CP  (TRÊS VEZES) E ROUBO MAJORADO TENTADO - ART.157, §2º, II, e §2º-A, I C/C 14, II, AMBOS DO CP, EM CONCURSO FORMAL (ART. 70, DO, CP). AUTORIA E MATERIALIDADE NÃO QUESTIONADAS. DOSIMETRIA DA PENA. CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA. MAUS ANTECEDENTES. APARTADO. SÚMULA 444 DO STJ. REDUÇÃO DA PENA. CONFISSÃO. SÚMULA 231 DO STJ. ISENÇÃO DE CUSTAS. IMPOSSIBILIDADE. MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fl. 423)
+Em sede de recurso especial (fls. 455/461), a defesa apontou violação aos arts. 14, II e parágrafo único e 50, § 2º, ambos do CP, sustentando a desclassificação do crime de roubo consumado para tentado, a aplicação da fração máxima da diminuição pela tentativa, referente ao crime de roubo tentado, e a isenção do pagamento da pena de multa.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA (fls. 470/479).
+O Tribunal de origem, com fundamento no art. 1030, I, "b", do Código de Processo Civil - CPC, negou seguimento ao recurso especial, quanto à tese do reconhecimento da forma tentada do delito e, quanto às demais teses, inadmitiu com fundamento no óbice da Súmula n. 7/STJ (fls. 484/487).
+Agravo interno interposto pela defesa foi desprovido (fl. 524). O acórdão ficou assim ementado:
+"AGRAVO INTERNO. DIREITO PENAL. IMPUGNAÇÃO DA DECISÃO na parte em QUE NEGOU SEGUIMENTO AORECURSO ESPECIAL. ROUBO. CONSUMAÇÃO DO DELITOCOM A INVERSÃO DA POSSE DA RES FURTIVA. CONSONÂNCIA ENTRE O ENTENDIMENTO FIRMADO PELOSTJ NO RECURSO ESPECIAL Nº 1.499.050/RJ (TEMA 916) E OACÓRDÃO RECORRIDO. SÚMULA 582 DO STJ. RECURSOIMPROVIDO.1. O exame do presente agravo interno deve se restringir a averiguar se há similitude fático jurídica entre o caso tratado nos autos e o paradigma aplicado.2. De acordo com a tese repetitiva, a consumação do crime de roubo ocorre com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica oudesvigiada.3. No presente caso, a Câmara Julgadora entendeu que o Agravante praticou crime de roubo, consumando-se o delito com a subtração e inversão da posse da res furtiva.4. Correta aplicação da tese fixada no REsp nº 1.499.050/RJ (TEMA916) por este Tribunal de Justiça.5. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO" (fl. 512)
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 532/536).
+Contraminuta do Ministério Público (fls. 539/545).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do recurso especial (fls. 611/614).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Acerca da pretensão recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA consignou que (fls. 428/438):
+"No mérito, quanto a desclassificação para a forma tentada, tenho que a cogitação do roubo tentado não tem a menor viabilidade, não sendo possível o reconhecimento da forma tentada.
+Seguindo entendimento sufragado pelo STF, o crime de roubo se consuma quando o agente se torna possuidor da coisa subtraída.
+ ..
+Ademais, convém referir que o Superior Tribunal de Justiça editou a Súmula 582 (julgamento em 14/09/2016, com publicação em 19/09/2016), que estabelece que"consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiado".
+ ..
+Para o delito praticado na modalidade tentada, é aplicável a causa de diminuição da pena decorrente da tentativa o que faço no percentual de 1/3 da pena."
+O entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte que é firme no sentido de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+A propósito:
+RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA. DESNECESSIDADE. RECURSO PROVIDO.
+1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. A jurisprudência pacífica desta Corte Superior e do Supremo Tribunal Federal é de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução).
+3. Recurso especial representativo de controvérsia provido para, reconhecendo que a consumação do crime de roubo independe da posse mansa e pacífica da res furtiva, restabelecer a pena e o regime prisional fixados na sentença.
+(REsp 1499050/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 09/11/2015).
+Referido entendimento foi materializado na edição da Súmula n. 582 desta Corte: "Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Descabe em recurso especial a alteração da fração redutora da tentativa, pois tal providência enseja o revolvimento fático-probatório, vedado pela Súmula n. 7 desta Corte
+Nesse sentido:
+RECURSO ESPECIAL. CRIMES DE DESCAMINHO, CONTRABANDO E TRÁFICO DE ARMAS. INTERCEPTAÇÃO TELEFÔNICA. INVESTIGAÇÃO PRELIMINAR. EXISTÊNCIA. PRORROGAÇÃO DO PRAZO. DECISÃO FUNDAMENTADA. ART. 5º DA LEI 9.296/96. DESMEMBRAMENTO DA AÇÃO. ART. 80 DO CPP. DECISÃO FUNDAMENTAÇÃO. PREJUÍZO. NÃO COMPROVAÇÃO. PAS DE NULLITÉ SANS GRIEF. DOSIMETRIA. TENTATIVA. ITER CRIMINIS. PROXIMIDADE DA CONSUMAÇÃO. FRAÇÃO DE 1/3. POSSIBILIDADE. REVERSÃO DAS PREMISSAS FÁTICAS. SÚMULA 7/STJ. PENA DE MULTA E PRESTAÇÃO PECUNIÁRIA. PROPORCIONALIDADE. SÚMULA 7 DO STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+4. A alteração do julgado, para se concluir de modo diverso quanto ao iter criminis percorrido, e, consequentemente, modificar a fração aplicada para a tentativa, necessitaria do revolvimento de fatos e provas dos autos, o que encontra óbice na Súmula 7/STJ.
+ ..
+7. Recurso especial parcialmente conhecido, e nessa extensão, improvido.
+(REsp 1832207/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 30/06/2020).
+Ademais, "A fração de diminuição de 1/3 decorrente da tentativa é a que mais se adequa à espécie, haja vista o elevado grau de avanço no iter criminis" (AgRg no AREsp n. 2.290.364/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3/5/2023).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento no art. 932, IV, "a", do CPC e Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
