@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por OI S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COBRANÇA - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TELECOMUNICAÇÕES - EFETIVAÇÃO DEMONSTRADA PELA AUTORA - INADIMPLEMENTO DA RÉ - FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DA CREDORA - ÔNUS DE ARGUIÇÃO E DE PROVA DA DEVEDORA - DESCUMPRIMENTO - EXCEPTIO NON ADIMPLETI CONTRACTUS  DESCABIMENTO - INTELIGÊNCIA DO ART. 476, DO CCI02 - JUROS DE MORA E CORREÇÃO MONETÁRIA - TERMO INICIAL - VENCIMENTO DE CADA FATURA  CLÁUSULA PENAL - REDUÇÃO - POSSIBILIDADE  EXEGESE DO DISPOSTO NO ART. 413, DO CÓDIGO CIVIL.
+- É da natureza dos Contratos bilaterais o dever de cumprimento recíproco das obrigações assumidas, não podendo nenhum dos contraentes exigir o implemento da prestação que cabe à contraparte antes de cumprida a que lhe compete, por força do art. 476, do Código Civil.
+- A parte Ré não logrou êxito em comprovar o suposto inadimplemento contratual da Autora, ônus que lhe competia, posto tratar-se de fato impeditivo do direito dessa (art. 373, inciso li, do CPC).
+- No tocante ao termo inicial da correção monetária, deve-se salientar que a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido da sua aplicação ampla, de sorte que deve incidir a atualização desde o vencimento de cada parcela, para coibir o enriquecimento sem causa da Ré.
+- Sendo a mora ex re e líquida, ou apurável por simples cálculo, o termo inicial dos juros moratórios coincide com a data de vencimento de cada obrigação inadimplida.
+- E possível a redução do valor da cláusula penal, em conformidade com o art. 413, do Código Civil.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 413 do CC, no que concerne à nulidade de alteração da multa contratual pactuada entre as partes, em respeito a liberdade contratual e ao princípio do pacta sunt servanda, trazendo a seguinte argumentação:
+6. Ocorre que, como se verá adiante, o entendimento manifestado pelo TJMG
+no que toca à redução da multa contratual pactuada entre as partes enseja violação direta a dispositivos de lei federal, o motiva a interposição do presente recurso especial.
+ ..
+20. Ora, o cerne da questão envolvendo o entendimento da Corte de origem pela possibilidade de redução do valor livremente pactuado pelas partes a título de multa contratual.
+ ..
+22. Isso porque, de forma absolutamente objetiva, as disposições do artigo 413 do Código Civil, sobretudo no que toca a eventual onerosidade das disposições contratuais, deve m ser interpretadas de modo a respeitar a liberdade contratual das partes e do princípio pacta sunt servanda.
+23. Mais bem explicando, em outros termos, a liberdade contratual da partes e preservação do que foi livremente pactuado há de prevalecer e somente deve ceder em hipóteses absolutamente particulares, nas quais há inequívoca vulnerabilidade de um dos contratantes.
+ ..
+27. Esse racional, ainda que deveras objetivo, revela que não poderia a Corte de origem ter desprestigiado a liberdade contratual das partes e limitar os efeitos daquilo que havia sido lícita e livremente pactuado entre elas (fls. 1.491/1.494).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante à muita contratual, entendo que assiste razão parcial à Demandada (fI. 205), pois, embora não seja o caso de afastá-la, impõe-se a sua redução.
+Dispõe o art. 413, do CC13/2002:
+"Ad. 413. A penalidade deve ser reduzida eqüitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.".
+ ..
+A multa contratual, calculada segundo os parâmetros acima transcritos, alcançava, em 16/12/2009, o valor de R$415.315,21 (quatrocentos e quinze mil, trezentos e quinze reais e vinte e um centavos), o que considero, tendo em vista a natureza e a finalidade do negócio jurídico encetado entre as partes, manifestamente excessivo.
+Logo, entendo pela redução da sanção pactuada, que deve ser fixada não em 50% (cinquenta por cento), mas, sim, em 30% (trinta por cento) do valor da assinatura mensal vigente à época, multiplicado pelo número de meses restantes para o término do Contrato (fls. 1350/1352, grifo meu).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "A conclusão de que a multa é manifestamente excessiva não decorre do simples fato de seu valor ser elevado, mas do cotejo entre o seu montante e as circunstâncias da hipótese concreta, de modo que a análise de eventual desproporcionalidade na cláusula penal fixada entre as partes tem caráter excepcional em sede de recurso especial, diante da incidência das Súmulas 5 e7 do STJ." (REsp n. 1.999.836/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
