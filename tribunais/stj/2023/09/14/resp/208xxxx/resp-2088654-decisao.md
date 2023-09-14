@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por VINCO CONSTRUTORA E INCORPORADORA LTDA. em face de acórdão assim ementado (fl. 317):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS - SENTENÇA DE EXTINÇÃO DO FEITO ANTE O RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL - INSURGÊNCIA DA PARTE AUTORA - ALEGADA INTERRUPÇÃO DA PRESCRIÇÃO COM O PAGAMENTO PARCIAL DO DÉBITO - CAUSA INTERRUPTIVA NÃO COMPROVADA - ÔNUS PROBATÓRIO QUE RECAI SOBRE A PARTE INTERESSADA - PRECEDENTES - PRESCRIÇÃO CONFIGURADA - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 341 e 374, III, do Código de Processo Civil/2015, sustentando a ocorrência de pagamento parcial do débito e, portanto, a interrupção da prescrição.
+Afirma que a alegação de pagamento parcial não foi contestada e, portanto, passou a ter presunção de veracidade e não mais depender de prova.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+De início destaco que, nos termos da jurisprudência desta Corte, nem mesmo a revelia importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. IMPROCEDÊNCIA. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS. RESCISÃO CONTRATUAL MOTIVADA POR CONDUTA DA AUTORA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. A revelia não importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas. Precedentes.
+3. O Tribunal de origem, mediante análise dos elementos informativos dos autos, entendeu que a medição apresentada pela autora não correspondia ao serviço executado e que a contratação de outra empresa para finalização dos trabalhos ocorreu por culpa da própria autora, que exigiu preço superior ao praticado no mercado. A modificação de tal entendimento é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4 . Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.985.090/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+Da acurada análise do acórdão recorrido, verifico que o Tribunal de origem consignou que (i) não se vislumbra, dos elementos coligidos aos autos, qualquer prova que indique a ocorrência do pagamento parcial alegado; (ii) o adimplemento parcial do débito não constou do cálculo existente na notificação extrajudicial enviada pela recorrente; e (iii) é inequívoco que o ônus probatório quanto à interrupção da prescrição recai sobre a parte interessada, ante a própria natureza da questão, não sendo razoável exigir do recorrido a prova da inexistência de causa interruptiva do prazo prescricional, de maneira que, não restando comprovada a alegada interrupção do curso da prescrição, deve ser mantido hígido o entendimento esposado na origem pela extinção da pretensão autoral. Confira-se:
+Em que pesem as alegações da parte autora/apelante no sentido de que lhe seria impossível a prova do pagamento parcial alegado, por não dispor do recibo que teria sido entregue ao réu/apelado quando do pagamento, não se vislumbra, dos elementos coligidos aos autos, qualquer adminículo de prova a indicara efetiva ocorrência do referido fato, sendo certo que, como bem observou o douto Magistrado sentenciante, o abatimento do aventado adimplemento parcial do débito não constou do cálculo existente na notificação extrajudicial enviada pela autora/apelante ao réu/apelado (mov. 1.5), datada de 03/10/2016, momento posterior ao alegado pagamento.
+Ademais, é inequívoco que o ônus probatório quanto à interrupção da prescrição recai sobre a parte interessada, ante a própria natureza da questão, não sendo razoável exigir do réu/apelado a prova da inexistência de causa interruptiva do prazo prescricional, de maneira que, não restando comprovada a alegada interrupção do curso da prescrição, deve ser mantido hígido o entendimento esposado na origem pela extinção da pretensão autoral.
+ ..
+Lado outro, tendo em vista que a ocorrência de prescrição constitui matéria cognoscível de ofício pelo Juízo, não prosperam os argumentos no sentido de que, por não ter sido objeto de impugnação específica, restaria incontroversa a alegada causa interruptiva do prazo prescricional.
+Não comportam guarida, destarte, as teses recursais expendidas pela autora/apelante, restando configurada a prescrição da pretensão inicial da demanda e impondo-se, portanto, a manutenção dos termos da sentença apelada  ..  (fls. 320/322)
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela ausência de prova da interrupção da prescrição, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do contrato e do conjunto fático-probatório dos autos, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Consoante entendimento desta Corte "em se tratando de causa interruptiva judicial, a contagem do prazo prescricional reinicia após o último ato do processo, ou seja, o trânsito em julgado". (REsp 1810431/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 6/6/2019) Incidência da Súmula 83/STJ.
+2.1. Para alterar a conclusão da Corte local quanto ao marco inicial de contagem da prescrição, seria necessário promover o reexame do acervo fático probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.151.051/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
