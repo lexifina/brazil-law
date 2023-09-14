@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por GABRIELLA MACHADO DA SILVA VENEGAS contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, no qual impugna acórdão assim ementado (e-STJ, fl. 4.907):
+Agravo interno. formulado contra decisão monocrática que não conheceu do Agravo de Instrumento. Decisão preservada. Recurso inadequado na espécie, pois direcionado em face de sentença. Inaplicabilidade dos princípios da fungibilidade recursal e da instrumentalidade das formas. Erro grosseiro. Inviabilidade igualmente de seu conhecimento parcial, em relação aos honorários sucumbenciais. Recurso não provido.
+Nas razões do especial, a agravante aponta a violação aos arts. 4º, 6º, e 1.015 do CPC/2015.
+Alegou que, apesar de ter interposto agravo de instrumento para impugnar a sentença proferida na segunda fase da ação de prestação de contas, o seu recurso deveria ser conhecido, por aplicação da fungibilidade recursal, haja vista a ausência de prejuízo à parte contrária e a aplicação do princípio da instrumentalidade das formas.
+Argumentou que, ao menos quanto aos honorários advocatícios, que constituem questão autônoma relativa ao mérito, o seu agravo de instrumento mereceria ser conhecido.
+Contrarrazões apresentadas (e-STJ, fls. 4.931-4.933).
+Brevemente relatado, decido.
+Com relação ao recurso cabível para desafiar a sentença proferida na segunda fase da ação de prestação de contas, a jurisprudência desta Corte adota a orientação de que esse recurso é a apelação, e não o agravo de instrumento, sendo incabível a aplicação do princípio da fungibilidade recursal para conhecer do segundo como se fora o primeiro.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE PÕE FIM AO PROCESSO EM SEGUNDA FASE DE PRESTAÇÃO DE CONTAS. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO. DÚVIDA OBJETIVA. INEXISTÊNCIA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. O recurso cabível contra decisão que põe fim ao processo de prestação de contas, em segunda fase, julgando em definitivo as contas e condenando a parte contrária à restituição ao autor, é a apelação, e não o agravo de instrumento, sendo inaplicável o princípio da fungibilidade recursal.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 806.658/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/2/2019, DJe de 15/2/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. FIM DO PROCESSO. RECURSO CABÍVEL. APELAÇÃO. DECISÃO MANTIDA.
+1. Havendo decisão proferida em segunda fase de ação de prestação de contas "pondo fim ao processo (..), caberá apelação nos termos do art. 1.009 do CPC" (REsp n. 1.778.237/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/2/2019, DJe 28/3/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.337.663/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+Assim, as conclusões do Tribunal de origem de que "a presente insurgência se volta contra a r. sentença prolatada e que extinguiu a ação de prestação de contas (págs. 14/16 deste), de modo que deveria ser atacada por meio de recurso de apelação (artigo 1.009 do CPC)" (e-STJ, fl. 4.908), e de "inviabilidade de adoção do princípio da fungibilidade recursal, sem que seja aqui, igualmente, a hipótese de observância do princípio da instrumentalidade das formas, sob pena de subversão de todo sistema processual, até porque havia recurso previsto de forma clara para deduzir as insurgências contra a r. sentença" (e-STJ, fl. 4.909) encontram respaldo na jurisprudência desta Corte, não merecendo o acórdão recorrido reforma no ponto.
+Por sua vez, quanto à pretensão do conhecimento do agravo de instrumento ao menos para o exame da questão relacionada aos honorários de sucumbência, a tese da agravante de que "quanto aos honorários sucumbenciais, mesmo que optasse-se por não recorrer das contas homologadas (objeto principal da origem), por se tratarem de mérito processual, caberia Agravo de Instrumento com arrimo no Artigo 1.015, II do CPC" (e-STJ, fl. 4.922, sem destaque no original), bem como o conteúdo normativo do citado dispositivo infraconstitucional não foram objeto de debate no Tribunal de origem, que se limitou a consignar que "não cabe, igualmente, qualquer discussão acerca da honorária sucumbencial, pois não há como separar sua análise da do mérito da demanda" (e-STJ, fl. 4.909) faltando, assim, o requisito indispensável do prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Ausente o prequestionamento e não opostos embargos de declaração visando obter da Corte de origem pronunciamento a respeito da matéria, incidem os óbices das Súmulas 282 e 356 do STF, a impedir o conhecimento do recurso especial nesse tocante.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+1. Ação de cobrança. Indenização securitária.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial, são inadmitidos, ante os óbices das Súmulas 5 e 7 desta Corte.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte agravada em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. EXTINÇÃO DA AÇÃO. NATUREZA DE SENTENÇA. RECURSO CABÍVEL. APELAÇÃO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES. HONORÁRIOS DE SUCUMBÊNCIA. ALEGAÇÃO. CAPÍTULO AUTÔNOMO. CABIMENTO DO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
