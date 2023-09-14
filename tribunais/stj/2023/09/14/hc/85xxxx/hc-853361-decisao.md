@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de MACIEL LOURENÇO DA SILVA em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas.
+Pretende a impetrante, em síntese, seja reconhecida a nulidade da condenação, porque amparada em prova ilícita, obtida em busca domiciliar oriunda de denúncia anônima.
+É o relatório.
+Decido.
+O habeas corpus não pode ser examinado.
+Correta a decisão impugnada que não conheceu a revisão criminal, ante o não preenchimento dos pressupostos previstos no art. 621 do CPP. Esta Corte tem entendimento firme de que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+Verifico que os fatos narrados ocorreram em 2015, tendo trânsito em julgado a condenação em 2018, de modo que, ante à longa passagem de tempo entre a data dos fatos e a presente impetração, forçoso o reconhecimento da preclusão da pretensão ora manifestada, em homenagem ao princípio da segurança jurídica.
+A seguir os julgados que respaldam esse entendimento:
+REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO PELO RECONHECIMENTO DE REFORMATIO IN PEJUS INDIRETA. INSUBSISTENTE. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. IMPOSSIBILIDADE. REVISÃO CRIMINAL NÃO CONHECIDA.
+1. Não subsiste o pleito pelo reconhecimento de reformatio in pejus indireta, porquanto a sucumbência do Parquet estadual quanto à matéria veiculada no recurso especial ocorreu quando do julgamento e provimento parcial da apelação defensiva.
+2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal, ressalvadas hipóteses excepcionalíssimas de entendimento pacífico e relevante, o que não se vislumbra na espécie.
+3. Revisão criminal não conhecida.
+(RvCr n. 5.620/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/6/2023, DJe de 30/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL EM VIA PÚBLICA. DENÚNCIA ANÔNIMA DEVIDAMENTE CIRCUNSTÂNCIADA. AUSÊNCIA DE ILEGALIDADE. BUSCA DOMICILIAR. MUDANÇA JURISPRUDÊNCIAL DO ENTENDIMENTO ACERCA DA DOCUMENTAÇÃO DA AUTORIZAÇÃO VERBAL DO MORADOR PARA INGRESSO EM CASA ALHEIA. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. MATÉRIA ARGUIDA QUASE 3 ANOS APÓS O TRÂNSITO EM JULGADO. REVISÃO CRIMINAL IMPROCEDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Restou devidamente comprovada a existência de justa causa para a busca pessoal, tendo em vista que os policias estavam em diligência para averiguar a veracidade de notícia crime anônima da prática de crime de tráfico de drogas no local. A informação recebida pelos policiais indicava o prenome e as características físicas do paciente que foi abordado em via pública. Logo, não há falar em nulidade da busca pessoal.
+2. Em alteração jurisprudencial, ambas as Turmas desta Corte Superior responsáveis pelo julgamento de matéria criminal passaram a entender que a autorização verbal do morador, não documentada, não mais serve como justa causa para que os agentes públicos deixem de buscar o suprimento judicial para a busca domiciliar. Nesse sentido, cito o paradigmático HC n. 598.051/SP, de Relatoria do Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021.
+3. A jurisprudência dominante desta Corte é no sentido de que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+4. Os fatos em comento ocorreram em 18/6/2019, tendo a apelação sido julgada em 12/6/2020 e transitado em julgado logo em seguida.
+5. O standard probatório à época exigido pela jurisprudência para validar a incursão policial em casa alheia se satisfazia com a prova oral consistente no depoimento em juízo dos policiais que atuaram na ocorrência. Precedentes. Em momento algum no curso das investigações ou da ação penal foi contestada a versão apresentada pelos militares responsáveis pelo flagrante.
+6. A falta de documentação da autorização do morador para a busca residencial, em que foram apreendidos 40kg de maconha e 5kg de cocaína, somente foi arguida quase três anos após o trânsito em julgado da condenação em sede de revisão criminal que foi julgada improcedente. Desse modo, não há falar em constrangimento ilegal.
+7. Agravo Regimental no habeas corpus desprovido.
+(AgRg no HC n. 814.053/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA. PLEITO DE REDIMENSIONAMENTO DA PENA. MUDANÇA DE ENTENDIMENTO NÃO AUTORIZA O AJUIZAMENTO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica. O verbete n. 444 da Súmula do STJ, editado em 13/5/2010, não autoriza a revisão e alteração da dosimetria fixada à época, na qual o entendimento vigente era perfeitamente possível o agravamento da pena-base com base em inquéritos policiais e ações penais em curso. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 707.839/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
