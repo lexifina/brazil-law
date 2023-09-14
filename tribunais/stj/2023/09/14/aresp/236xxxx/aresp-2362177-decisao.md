@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por VIAÇÃO CAMPO BELO LTDA. já contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 520):
+RESPONSABILIDADE CIVIL  Dano material e imaterial  Atropelamento e morte envolvendo ônibus de concessionária de serviço público  Ação de indenização ajuizada pela companheira e filho  Sentença de improcedência  Apelo dos autores  Configurada a culpa do agente  Responsabilidade do Município e da empresa concessionária  Sentença reformada  Pensão de 2,5 de salários aos autores, sendo 50% à ex-companheira e 50% ao filho até sua maioridade ou até que complete 25 anos, se ainda não concluídos os estudos  Indenização por danos imateriais, arbitrada em R$ 50.000,00  Correção monetária e juros fixados em conformidade com o Código Civil vigente  Sucumbência segundo a súmula nº 326 do STJ  Honorários advocatícios fixados em 10% do valor da condenação  Recurso provido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 31, 165, 332, 333, 334, II e III, 335 e 458 do CPC; 186, 402, 403, 927, 945, 948, II, do Código Civil, bem como violação à Súmula 362/STJ.
+De início, sustenta que restou comprovado nos autos a culpa exclusiva da vítima e que não houve evidência de concurso culposo do condutor do coletivo para o atropelamento que culminou na morte da vítima. Adiante, alega que, pelo acervo fático constante dos autos, restou demonstrado na instrução probatória que o evento foi completamente imprevisível para o preposto da agravante, uma vez que a conduta da vítima deu causa ao evento em questão. Assim, defende que não há falar em responsabilidade ou dever de indenizar por parte da agravante.
+Por outro lado, argumenta ter sido indevida a condenação no pagamento de pensão, pois não houve comprovação que havia dependência econômica da vítima falecida. Nesse ponto, também alega que o valor da pensão não poderia ter superado 30% da efetiva renda comprovada da vítima.
+Ademais, argumenta que o valor da indenização por danos morais alcançou valor que enseja enriquecimento ilícito da parte adversa.
+Por fim, defende que no caso de ser mantida a condenação por danos morais é devida a incidência de juros de mora nos moldes da correção monetária, ou seja, a partir da data da fixação da indenização, nos termos da Súmula no 362 desse Tribunal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+No caso, o Tribunal local concluiu pelo dever de indenizar da concessionária agravante pela seguinte fundamentação (fls. 521/522):
+Versando responsabilidade por dano decorrente de acidente de veículo (atropelamento por õnibus de concessionária de serviço público), a responsabilidade do Estado e da concessionária pode não existir, quando provada culpa exclusiva da vítima.
+Não é o caso dos autos.
+Tem-se que, em matéria de atropelamento, dado a natureza das coisas (potencialidade do veículo automotor e fragilidade da vítima) vigora a presunção de culpa do motorista (Rizzardo, Responsabilidade Civil, Forense, 2009).
+O "croqui" de fls. 109 demonstra que havia espaço e tempo para o condutor do coletivo evitar o atropelamento (atenção, prudência e velocidade compatível).
+Conquanto o motorista do õnibus tenha admitido que a vítima viesse "cambaleando" ao atravessar a via pública, conforme relatório policial (fls. 62), a vistoria feita pela empresa constatou falha grave no freio do veículo (fls. 178).
+Isso não bastasse, há relato de passageiro afirmando que o õnibus trafegava em velocidade "quase não parando nos pontos" e que freou bruscamente (fls. 318).
+A culpa é manifesta.
+Quanto à vítima, não há prova segura da embriaguez. O exame de corpo de delito não fez tal referência (fls. 53/53v).
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por outro lado, observa-se que o Tribunal de origem não examinou as teses a respeito do arbitramento de pensão mensal, seja no aspecto da comprovação da dependência econômica seja a respeito do percentual máximo de 30% da renda auferida da vítima, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Por outro lado, não é cabível na via especial a revisão do montante indenizatório fixado pela instância de origem, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+A parte agravante, contudo, não demonstrou que o valor arbitrado (R$ 50.000,00 - cinquenta mil reais), seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE CICLISTA. ÓBITO DA VÍTIMA. CULPA CONCORRENTE. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DESPROVIDO.
+1. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+2. No caso, não se mostra irrisório ou desproporcional o quantum fixado nas instâncias ordinárias a título de compensação por danos morais inicialmente em R$120.000,00 (cento e vinte mil reais), tendo em conta o sofrimento pela morte prematura do filho/irmão dos recorrentes em acidente de trânsito, e, ato contínuo, reduzidos para R$80.000,00 (oitenta mil reais), em razão da concorrência das culpas no evento danoso, e das capacidades financeiras do causador do dano e da vítima.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.238.607/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.)
+Ademais, não prospera o argumento que visa estabelecer o termo inicial dos juros de mora como a data do arbitramento da indenização pelos danos morais, porque prevalece, em caso de responsabilidade extracontratual, o previsto na Súmula 54/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. HOMICÍDIO PERPETRADO POR POLICIAL MILITAR DURANTE O HORÁRIO DE SERVIÇO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RELAÇÃO EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. SÚMULA 54/STJ.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A jurisprudência deste Superior Tribunal admite, em caráter excepcional, a alteração do quantum arbitrado a título de danos morais, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto.
+3. Em se tratando de responsabilidade civil extracontratual, como na espécie, os juros moratórios incidem desde a data do evento danoso, a teor da Súmula 54/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1525615/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
