@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VINICIUS BENTO MARQUES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1517553-83.2020.8.26.0228). Eis a ementa do acórdão proferido (e-STJ fl. 30):
+APELAÇÃO - roubo, qualificado, concurso dc agentes e uso de arma dc fogo, na pandemia - circunstância agravante genérica. Condenados reconhecidos pela vítima no IP - afirmação deles quanto a ter ocorrido o ato de reconhecimento, mencionado por VINÍCIUS que foram colocados com mais 3 rapazes. Autoria individualizada. Abordados pelos Policiais Militares mais à frente, correspondendo à descrição dos roubadores irradiada pela Rede da Polícia Militar. Encontro com eles dc revólver e do dinheiro roubado. Negativa dos apelantes que não se enquadra em prova trazida. Afirmando origem do dinheiro e destinação do revólver, nada produziram de prova, art. 156, CPP. Policial é testemunha como qualquer pessoa e impugnação a seu depoimento deve ser específica, não genérica pela origem.
+Apelo do MP: exacerbação da pena de RAFAEL e rigor no regime prisional. Situação de fixação da pena que foi bem fundamentada pelo Juízo "a quo". Demonstração de rigor devido. Não cabe o pleito.
+Art. 59, CP, a pena de cada um foi fundamentada. O critério trifásico foi observado em face dos autos. O regime prisional tem previsão legal. NEGADO PROVIMENTO AOS RECURSOS.
+No presente writ, defende-se, em breve síntese, o redimensionamento da dosimetria da reprimenda do paciente com o afastamento do aumento aplicado à pena-base e da agravante da calamidade pública.
+É, em síntese, o relatório.
+De início, verifico que o Tribunal de origem, no exame do recurso de apelação defensiva, não tratou especificamente da matéria relativa à incidência da agravante da calamidade pública. Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca das matéria objeto deste writ, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Tal o contexto, seria o caso de não conhecer do pleito trazido no presente habeas corpus.
+Todavia, identifico, na espécie, flagrante ilegalidade no julgamento realizado pelas instâncias ordinárias.
+Com efeito, o entendimento adotado pelas instâncias ordinárias destoa da jurisprudência desta Corte segundo a qual "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, relator Ministro Felix Fischer, DJe 4/12/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+No caso, a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência de ato normativo, porém, não foi demonstrado que o agente se aproveitou do estado de calamidade pública para a prática do crime apurado nos autos, o que corrobora o respectivo afastamento e o redimensionamento da pena do delito de roubo.
+Sendo assim e seguindo as demais diretrizes das instâncias ordinárias, a pena-base ficou no mínimo legal de 4 anos, na segunda fase, retirada a agravante da calamidade pública, remanesce a da reincidência, alcançando a pena 4 anos, 4 meses e 24 dias de reclusão.
+Na terceira fase, em razão das majorantes de concurso de agentes e uso de arma de fogo, aumentou-se 2/3 a reprimenda, que se torna agora definitiva em 7 anos e 4 meses de reclusão.
+Mantidos os demais termos da condenação.
+À vista de tais pressupostos, não conheço do habeas corpus. Concedo, todavia, a ordem, de ofício, in limine, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
