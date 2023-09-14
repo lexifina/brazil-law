@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Gabriel Rodrigo Quintino de Oliveira contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 208/209):
+RECURSO DE APELAÇÃO AÇÃO DE NULIDADE DE COBRANÇA COM PEDIDO DE RESTABELECIMENTO DE BENEFÍCIO IPREJUN
+Cessação de benefício de pensão por morte em razão do atingimento da idade de 18 (dezoito) anos do beneficiário.
+Pleito de restabelecimento nos termos da Lei nº 8.213/1991 até que completados 21 (vinte e um) anos de idade. Regime próprio de previdência social do Município de Jundiaí.
+Legislação local que estabeleceu que devido pagamento de benefício de pensão por morte aos dependentes (filhos) do instituidor até que completem 18 (dezoito) anos. Exegese do art. 8º, inciso I, da Lei Municipal nº 5.894/2002.
+Competência concorrente para legislar sobre matéria previdenciária, nos termos dos arts. 24, XII e 30, I e II, da Constituição Federal. Ausência de impedimento para as balizas previstas na legislação em espeque. A vedação que trata a Lei Federal nº 9.717/1998 se ressume na concessão de benefícios distintos dos previstos no Regime Geral de Previdência Social de que trata a Lei nº 8.213/1991 o que não se confunde com o regramento específico de cada benefício ofertado. Cessação do benefício de pensão de morte em conformidade com a legislação que o instituiu, observado o termo final ex vi legis. Precedentes deste e. Tribunal de Justiça.
+Reclamo dos valores indevidamente pagos pela autarquia após o termo final. Inviabilidade. Erro administrativo (material ou operacional) da autarquia. Configurada a boa-fé do beneficiário. Entendimento consoante à orientação firmada pelo STJ no julgamento do Tema 979, sob o rito dos recursos seriais. Devolução indevida. Pleito subsidiário do autor acolhido. Reforma parcial da r. sentença.
+RECURSO VOLUNTÁRIO DO AUTOR PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 16, I, da Lei nº 8.213/91. Sustenta, em síntese, que "a Lei 5.894/2002, artigo 8º, inciso I (Regime Próprio de Previdência), dá direito ao filho do segurado falecido, a receber o benefício previdenciário pensão por morte, somente até ele completar os 18 (dezoito) anos de idade, enquanto que a Lei 8.213/91, em seu artigo 16, I (Regime Geral de Previdência), dá direito ao filho do segurado falecido, a receber o benefício previdenciário pensão por morte, até que ele complete os 21 (vinte e um) anos de idade. Assim, o acórdão recorrido ao aplicar a norma contida no inciso I, do artigo 8º, da Lei 5.894/2022 (Regime Próprio de Previdência), que considera a idade máxima de 18 (dezoito) anos, para o recebimento da pensão por morte ao filho do segurado, contrariou o inciso I, artigo 16, da Lei Federal 8.213/91 (Regime Geral de Previdência)." (fl. 223)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, colhe-se do acórdão o seguinte trecho, verbis (fls. 210/212):
+Cifra-se a insurgência acerca da idade limite para a percepção de benefício de pensão por morte por filhos do instituidor à luz da Lei Municipal nº 5.894/2002.
+É cediço que a pensão por morte é regulada pela legislação vigente à época do óbito instituidor do benefício, nos termos do verbete sumular nº 340, do eg Superior Tribunal de Justiça
+(..)
+In casu, verifica-se que o óbito do instituidor Sr. Agnaldo de Oliveira ocorrera em 11/07/2019, portanto, sob a égide da Lei Municipal nº 5.894/2002 a qual dispõe em seu art. 8º, inciso I:
+Artigo 8º - São dependentes do segurado:
+I - o cônjuge, a companheira, o companheiro, os filhos não emancipados de qualquer condição, menores de 18 (dezoito) anos ou inválidos; (Redação dada pela Lei nº 6.386, de 29 de junho de 2004) (grifei)
+Do referido dispositivo, dessume-se não haver a possibilidade de extensão da duração do benefício para dependentes quando ultrapassada a idade limite de 18 (dezoito) anos, ressalvados os dependentes inválidos o que não se verifica in casu.
+(..)
+De caminho, a Lei Federal nº 9.7.17/1998, em seu art. 5º, aduz que os entes federativos, ao estabelecer regimes próprios de previdência social, não podem "conceder benefícios distintos dos previstos no Regime Geral de Previdência Social de que trata a Lei nº 8.213, de de 24 de julho de 1991, salvo disposição em contrário da Constituição Federal". (grifei)
+Da atenta leitura, dessume-se haver vedação à concessão de benefícios diversos dos elencados na Lei nº 8.2.13/1991 por regime de previdência próprio, o que não se confunde com o regramento específico de cada benefício ofertado, sujeito as normas gerais constitucionais, desde que adequadas e atendidas as peculiaridades de seu estatuto funcional e regime contributivo.
+Do contrário, se devida a observância imperativa dos regimes previdenciários instituídos pelos entes estaduais e municipais à legislação federal, no que toca todos os seus aspectos, teríamos verdadeiro regime previdenciário único, a contradizer a autorização constitucional para a legislação concorrente.
+Nesse quadrante, a cessação do benefício de pensão por morte em favor do autor, ao tempo em que completara a idade limite de 18 (dezoito) anos, não se mostra ilegal, tampouco arbitrária.
+Como agudamente apontado pelo douto magistrado a quo, "(..) se a norma legal não prevê outra hipótese de concessão do benefício, não pode o juízo criá-la, nem ampliá-la sob que argumento for, ainda que por analogia ou integração normativa, pois tal seria manifestamente ilegal, ausente amparo jurídico algum para concessão ou ampliação de benefício previdenciário além da hipótese restrita ao texto da lei" (fls. 116).
+Nesse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
