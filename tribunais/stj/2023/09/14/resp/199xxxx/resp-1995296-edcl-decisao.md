@@ -1,0 +1,27 @@
+DECISÃO
+LUCIELE PINHEIRO KOCH opõe embargos de declaração em face de decisão em que conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento e, por conseguinte, mantive inalterada a condenação pela prática dos delitos de tráfico de drogas e receptação.
+Nos aclaratórios, o embargante sustenta haver omissão porquanto não foi apreciada a possibilidade de incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas.
+Requer, portanto, sanado o vício apontado, para que seja aplicada a causa de diminuição do tráfico.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Sob essas premissas, constato que, no caso em análise, o julgado não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes aclaratórios, senão vejamos.
+No caso, não há omissão a ser reconhecida. Não houve pedido da parte de incidência do benefício.
+Entretanto, pela leitura dos autos, observo que a recorrente encontra-se em idêntica situação fático-processual a do réu Luciano Pinheiro Koch, a demonstrar a necessidade da extensão dos efeitos da decisão de fls. 1.811-1.815. Isso porque, o Juiz sentenciante afastou seu reconhecimento consoante fundamentos a seguir transcritos (fl. 1.018, destaquei):
+Inviável o reconhecimento da causa especial de redução de pena prevista no art. 33, § 4 2 , da Lei n 2 11.343/06, diante da expressiva quantidade e variedade de entorpecentes apreendidos, o que evidencia que ela se dedica as atividades criminosas.
+A decisão foi mantida em apelação, conforme abaixo aduzido (fls. 1.460- 1.461, grifei):
+Da mesma forma, vai mantida a decisão no tocante ao pedido de incidência da minorante do art.33, §4º da Lei de Drogas, tendo em vista que as circunstâncias do caso em tela não autorizam sua concessão, uma vez que, ainda que não tenha sido comprovada a associação criminosa, foi possível constatar uma dedicação dos acusados ao mundo do tráfico, sem olvidar o histórico criminal do réu Hamilton, possuidor de mais de uma sentença condenatória transitada em julgado após o fato em tela, observada a considerável quantidade de droga apreendida no local.
+Apenas para não pairar dúvidas, mantenho a sanção basilar dos acusados Luciano e Luciele, por entender que a exasperação promovida na origem, apesar de ser abaixo dos parâmetros estabelecidos normalmente em meus julgados, se mostra adequada ao caso em tela, devendo esta ser mantida, para ambos, em 05 anos e 05 meses.
+Faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..  7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidade da droga apreendida foi sopesada para, isoladamente, levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciada a violação legal.
+Ante a ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve o recurso ser provido nesse ponto, a fim de aplicar, em favor do acusado, o referido benefício.
+Assim, deve ser o recurso provido, a fim de aplicar a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar de 1/6. Ressalto que estou fixando a redução mínima prevista em lei em razão da apreensão, em conjunto com as drogas, de 1 balança de precisão, 1 caderno de anotações, 1 rádio comunicador, 2 coletes balísticos.
+Realizo, portanto, nova dosimetria.
+Na primeira fase, a reprimenda-base foi estabelecida em 5 anos e 5 meses de reclusão e 550 dias-multa. Na segunda fase, ausentes agravantes e atenuantes. Na terceira etapa, ausentes causas de aumento, reduzo a reprimenda em 1/6, em decorrência da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas, o que torna a pena do acusado definitivamente estabelecida em 4 anos, 6 meses e 5 dias de reclusão e pagamento de 458 dias-multa.
+Considerado o concurso material, as penas somadas perfazem 5 anos, 6 meses e 5 dias de reclusão e 468 dias-multa.
+À vista do exposto, rejeito os embargos de declaração, mas estendo os efeitos de decisão de fls. 1.811-1.815, a fim de reconhecer a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 1/6. Redimensiono, assim, e a reprimenda do réu para 5 anos, 6 meses e 5 dias de reclusão e 468 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
