@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - Rejeição da impugnação oposta - Alegação de incompetência absoluta da Justiça estadual para conhecer da matéria - Invocação, ademais, da necessidade de formação de litisconsórcio ativo necessário com a CCEE, a ANEEL e a UNIÃO FEDERAL, diante de seu interesse jurídico - Hipótese em que a matéria ora discutida é de ordem pública, passível de ser conhecida a qualquer tempo e grau de jurisdição, inclusive em sede de cumprimento de sentença (art. 64, § 1º, do Código de Processo Civil) - Aplicação das Súmulas 150 e 254 do Colendo Superior Tribunal de Justiça - Determinação de remessa do feito para a Justiça Federal, competente para apreciar a existência de interesse jurídico que justifique a intervenção da UNIÃO FEDERAL no feito - Recurso provido para essa finalidade.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 489, II, §§ 1º, 2º e 3º, 502, 516, 525 e 1022 do Código de Processo Civil de 2015, além de divergência jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+A par disso, verifico que o acórdão recorrido assenta-se em fundamento eminentemente constitucional, qual seja, a regra de competência definida no art. 109, I, da Constituição Federal.
+A agravante, todavia, não interpôs recurso extraordinário, o que faz incidir a Súmula 126/STJ.
+Ademais, o acórdão recorrido está em conformidade com o disposto na Súmula 150/STJ, segundo a qual "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
