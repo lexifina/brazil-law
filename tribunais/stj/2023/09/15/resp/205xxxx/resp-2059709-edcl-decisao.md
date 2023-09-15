@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DANIELY STEFANY DA SILVA contra a decisão em que neguei provimento ao recurso especial.
+Em suas razões, a parte embargante afirma que "visualiza-se a existência de omissão na decisão embargada, considerando que não foi analisado o fundamento indicado no acórdão de que haveria responsabilidade da CEF, tanto por ter sido adquirido no âmbito do PMCMV, bem como por ter contribuído para que ocorresse o atraso por não adotar as medidas necessárias previstas em contrato para o término da obra, como a substituição da construtora, obrigação que não foi cumprida".
+Aponta que "o Tribunal de origem ao julgar improcedente o pedido de condenação nos lucros cessantes atinentes nos aluguéis que o recorrente deixou de lucrar durante o período de privação injusta do bem pelo atraso na entrega do empreendimento, violou flagrantemente o Art. 402 do Código Civil, ainda mais com o entendimento já consolidado nesta Colenda Corte de que o dano a título de lucros cessantes pela privação de uso do imóvel é presumido".
+Sem contrarrazões aos embargos.
+Assim delimitada a controvérsia, passo a decidir.
+A decisão embargada não ignorou o argumento suscitado pela parte, tendo deixado claro que "a previsão contratual e regulamentar da fiscalização da obra pelo agente financeiro justifica-se em função de seu interesse em que o empréstimo seja utilizado para os fins descritos no contrato de mútuo, sendo de se ressaltar que o imóvel lhe é dado em garantia hipotecária" (REsp n. 897.045/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2012, DJe de 15/4/2013), o que não implica a sua legitimidade para a demanda, como pretende ver reconhecida a parte embargante.
+É evidente, portanto, que não há omissão, contradição, obscuridade ou erro material algum aptos a possibilitar o acolhimento dos presentes embargos de declaração.
+Percebe-se, pois, que a embargante maneja os presentes embargos de declaração em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se verificando, na hipótese, nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil a inquinar a decisão embargada.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJe 28.8.2014.
+Assim, não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
