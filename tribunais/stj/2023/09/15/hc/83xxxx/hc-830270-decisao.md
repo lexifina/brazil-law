@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 9/10):
+APELAÇÃO CRIMINAL. RÉU SOLTO. CRIMES CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS PRIVILEGIADO (LEI 11.343/2006, ART. 33, § 4º). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+PEDIDO DE ABSOLVIÇÃO ANTE A INSUFICIÊNCIA DE PROVAS. DESPROVIMENTO. MATERIALIDADE E AUTORIA COMPROVADAS. APELANTE QUE, APÓS VENDER 1 (UMA) PORÇÃO DE COCAÍNA A UM USUÁRIO, FOI PRESO EM FLAGRANTE AO COMERCIALIZAR 0,5 DE COCAÍNA A OUTRO INDIVÍDUO, EM SEMELHANTES CONDIÇÕES DE TEMPO, LUGAR E MANEIRA DE EXECUÇÃO. IMAGENS DA CAMPANA POLICIAL CONFIRMADAS PELAS PALAVRAS UNÍSSONAS DOS AGENTES PÚBLICOS EM AMBAS AS FASES DA PERSECUÇÃO PENAL. USUÁRIO QUE, NO INQUÉRITO POLICIAL, IDENTIFICOU O APELANTE COMO SENDO O INDIVÍDUO DE QUEM ADQUIRIU A DROGA. VERSÃO DEFENSIVA INSUFICIENTE (CPP, ART. 156). CONDENAÇÃO MANTIDA.
+PEDIDO SUBSIDIÁRIO DE ADEQUAÇÃO DA CAPITULAÇÃO JURÍDICA PARA A PREVISTA NO ART. 28, CAPUT, DA LEI11.343/2006. INVIABILIDADE. AGENTE QUE FOI FLAGRADO NA PRÁTICA DE ATOS TÍPICOS DE VENDA. CONDIÇÃO DE USUÁRIO QUE NÃO AFASTA, POR SI SÓ, A PRÁTICA DO COMÉRCIO ESPÚRIO. CLASSIFICAÇÃO MANTIDA.
+PRETENSO DECOTE DA PENA DE MULTA EM RAZÃO DA DECLARAÇÃO DE INCONSTITUCIONALIDADE. TESE AFASTADA. PRECEITO SECUNDÁRIO QUE, EM HARMONIA COM A PENA PRIVATIVA DE LIBERDADE, ESTABELECEU SANÇÃO PECUNIÁRIA PROPORCIONAL À GRAVIDADE DO DELITO, SEGUNDO CRITÉRIO DE POLÍTICA CRIMINAL ADOTADO PELO LEGISLADOR. AUSÊNCIA DE AFRONTA AOS PRINCÍPIOS DA IGUALDADE, INDIVIDUALIZAÇÃO DA PENA, DIGNIDADE DA PESSOA HUMANA E DA PROPORCIONALIDADE. ADEMAIS, QUANTIDADE DE DIAS-MULTA FIXADO DE ACORDO COM A PENA CORPORAL E VALOR UNITÁRIO NO MÍNIMO LEGAL. VIABILIDADE DE PARCELAMENTO NO JUÍZO DA EXECUÇÃO (LEI 7.210/1984,ART. 169).
+RECURSO CONHECIDO E DESPROVIDO.
+O paciente foi condenado à pena de 1 ano, 11 meses e 10 dias de reclusão, por infração ao art. 33, §4º, da Lei n. 11.343/06. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que foi desprovido. Foram opostos embargos de declaração, que foram rejeitados.
+No presente writ, sustenta a impetrante, em síntese, que "os crimes foram praticados dentro de um mesmo contexto fático e sucessivo. Sendo assim, tratando-se de crime de ação múltipla, praticado dentro de um mesmo contexto fático e sucessivo (conforme reconhecido pela própria magistrada), necessário o afastamento da continuação delitiva e o reconhecimento de crime único" (fl. 6).
+Requer, liminarmente, a suspensão dos efeitos do acórdão recorrido e, no mérito, a concessão da ordem de ofício para reconhecer a existência de crime único, afastando a exasperação da pena relativa à continuidade delitiva.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+Da leitura do acórdão impugnado, verifica-se que a tese de crime único não foi examinada pelo Tribunal de origem. Assim, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/12/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
