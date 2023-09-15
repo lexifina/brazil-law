@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por RITA DE CASSIA SITTA SILVA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação rescisória. Acórdão relativo a agravo interno interposto contra decisão do Relator que indeferiu pedido de gratuidade processual. Decisão atacada que não é de mérito, nem se enquadra nas exceções do art. 966, § 2º, do CPC. Descabimento de rescisória, outrossim, contra decisão proferida em processo pendente, deixando a autora de esclarecer sobre o desfecho do recurso de apelação, não obstante intimada a tanto. Ausência de interesse de agir, na modalidade adequação. Petição inicial indeferida" (fl. 125 e-STJ).
+No recurso especial, a recorrente alega violação do artigo 966, § 2º, do Código de Processo Civil, aduzindo que o indeferimento da inicial da ação rescisória impediu a propositura de nova demanda.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso em apreço, incide o óbice da Súmula nº 284/STF, pois não há a indicação clara e precisa do dispositivo de lei federal tido por violado. De fato, nas razões do recurso especial não se particularizou o inciso sobre o qual recairia a referida ofensa.
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso do art. 966 do CPC, traz em seu texto uma mera introdução ao regramento legal contido nos in cisos, nos parágrafos ou nas alíneas.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE. BURACO EM VIA PÚBLICA. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de ação indenizatória, objetivando o ressarcimento de danos materiais e morais provocados por acidente de veículo em decorrência de buraco na via pública. Na sentença, julgaram-se improcedentes os pedidos. No Tribunal a quo, a sentença foi reformada para condenar a municipalidade por danos materiais em R$ 682,99 (seiscentos e oitenta e dois reais e noventa e nove centavos) e danos morais em R$ 8.000,00 (oito mil reais). Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - No que concerne à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu: "Evidenciada sua responsabilidade por omissão, a Ré só se isentaria dela se provasse não haver irregularidade no leito asfáltico no local do fato. A existência do buraco não foi negada e há fotografia do local".
+III - Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+IV - Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017;
+AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+V - Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+VI - Nesse sentido, esta Corte Superior de Justiça já consignou que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREsp 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015).
+VII - Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgRg no Ag n. 341.240/SP, relator Ministro Massami Uyeda, Quarta Turma, DJ de 6/8/2007, p.
+493; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005, p. 263.
+VIII - Agravo interno improvido."
+(AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/3/2020, DJe de 11/3/2020 - grifou-se).
+Ademais, a jurisprudência do STJ entende ser possível o indeferimento liminar da petição inicial da ação rescisória quando for verificado o seu descabimento de plano (AgInt na AR nº 6.654/DF, rel. Ministro Antonio Carlos Ferreira, Segunda Seção, DJe 26/10/2020), a exemplo da utilização indevida do instrumento como sucedâneo recursal.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. INDEFERIMENTO DE PLANO. POSSIBILIDADE. MULTA CONTRATUAL. NATUREZA JURÍDICA. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É possível indeferir-se liminarmente a petição inicial de ação rescisória quando for verificado o seu descabimento de plano, a exemplo da utilização indevida do instrumento como sucedâneo recursal ou da flagrante inexistência de violação manifesta de norma jurídica.
+3. Na hipótese, rever a conclusão acerca da natureza da cláusula contratual, questão decidida com base no exame das circunstâncias fáticas da causa e na interpretação do contrato, esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.186.603/DF, Relator Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/10/2021 - grifou-se)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AFRONTA A LITERAL DISPOSIÇÃO DE LEI. NÃO OCORRÊNCIA. RESCISÓRIA COMO SUBSTITUTIVO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A ação rescisória não pode ser utilizada como sucedâneo de recurso não interposto pela parte no momento oportuno, tendo lugar apenas nos casos em que a transgressão à lei é flagrante.
+2. "A ação rescisória, fundada no art. 485, V, do CPC/1973, pressupõe violação frontal e direta de literal disposição de lei, sendo certo que a adoção pela decisão rescindenda de uma entre as interpretações cabíveis não enseja a rescisão do decisum" (AgInt no AREsp n. 635.766/AL, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2016, DJe 3/2/2017).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp nº 1.399.696/RS, rel. Ministro ANTONIO CARLOS FERREIRA, DJe 12/3/2021 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
