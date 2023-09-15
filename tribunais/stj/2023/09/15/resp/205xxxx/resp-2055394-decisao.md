@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Elvira Diniz de Oliveira e outros, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, nesses termos ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO JÁ EXPEDIDO. CORREÇÃO MONETÁRIA. ALTERAÇÃO DO ÍNDICE. IMPOSSIBILIDADE.
+1. Não há como rediscutir os parâmetros de atualização do cálculo apresentado em sede de cumprimento de sentença, se referido cálculo se encontra homologado, com precatório expedido, em conformidade com o decisum transitado em julgado.
+2. Agravo de instrumento não provido.
+No especial, os recorrentes sustentam violação do art. 1.022, II, do CPC/2015 (e-STJ fl. ): "caso Vossas Excelências entendam que o Tribunal a quo não se manifestou expressamente sobre a tese suscitada, pugna-se pela declaração da nulidade do acórdão que julgou os declaratórios". Suscitam malversação dos arts. 322, § 1º, e 505, I, ambos do CPC/2015, porquanto os índices de correção monetária não foram determinados à luz do entendimento do STF, em repercussão geral, e do STJ, em recurso especial repetitivo. Alegam a possibilidade de retificação dos índices de correção monetária a qualquer tempo por ser questão de ordem pública em questão de relação jurídica de trato continuado .
+Apresentadas contrarrazões, o Distrito Federal salientou a impossibilidade de modificação de coisa julgada sobre a correção monetária.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+O acórdão a quo suscita que não é possível modificar os índices de correção monetária de uma decisão judicial já transitada. Modificar essa conclusão, necessariamente, depende de revisão do conjunto fático dos autos. Essa tarefa não é possível nos termos da Súm. n. 7/STJ.
+Além disso, o fundamento central do acórdão a quo, em vista do quadro fático delineado, possui natureza eminentemente constitucional, como se observa a seguir:
+De fato, não há como rediscutir os parâmetros de atualização do cálculo apresentado em sede de cumprimento de sentença. Isso porque, se encontra homologado, com precatório expedido, em conformidade com o decisum transitado em julgado.
+Ademais, qualquer rediscussão ao respeito resultaria em ofensa à coisa julgada e à segurança jurídica, prolongando indefinidamente a discussão da matéria.
+Nesse sentido é o entendimento desta egrégia Corte de Justiça, in verbis:
+"ADMINISTRATIVO, CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. TEMA 810 - REPERCUSSÃO GERAL. INAPLICABILIDADE AO CASO EM TELA. PRECATÓRIO JÁ EXPEDIDO. PRECLUSÃO. DECISÃO MANTIDA.
+De acordo com o entendimento estabelecido por esta Corte de Justiça, em casos em que já houve a expedição e até mesmo a satisfação de precatório em observância ao índice previsto no título executivo, há óbice preclusivo à expedição, nos mesmos autos, de precatório complementar ou mesmo de retificação de ordem de pagamento já atendida pela Administração Pública, sob pena de malferimento ao princípio da segurança jurídica. Em tal situação fática peculiar não incide automaticamente o entendimento firmado pelo Supremo Tribunal Federal no bojo do RE 870.947 - Tema 810 da Repercussão Geral. Agravo Interno desprovido" (Acórdão 1386485, 00092391820078070000, Relator: ANGELO PASSARELI, Conselho Especial, data de julgamento: 16/11/2021, publicado no DJE: 1/12/2021. Pág.: Sem Página Cadastrada.)
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO DA CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. RELATIVIZAÇÃO DA COISA JULGADA. PRECATÓRIO EXPEDIDO E LIQUIDADO. RPV EXPEDIDO E LIQUIDADO. CORREÇÃO MONETÁRIA. ALTERAÇÃO ÍNDICE. IMPOSSIBILIDADE.
+1. Este Tribunal firmou orientação no sentido que "a consolidação da coisa julgada não constitui óbice para adoção de entendimento firmado pela sistemática dos recursos repetitivos quando decretada a inconstitucionalidade de determinada norma jurídica, em prestígio à soberania e autoridade do texto constitucional". (Acórdão 1125626, 20160110160302APO, Relator: CESAR LOYOLA, 2ª TURMA CÍVEL, data de julgamento: 19/9/2018, publicado no DJE: 24/9/2018. Pág.: 266/277).
+2. O processo deve seguir uma marcha natural para que, em tempo justo e razoável, seja extinto, com o cumprimento da obrigação principal, sob pena de perdurar ad aeternum.
+3. No caso concreto, não obstante este órgão julgador admitir a possibilidade de relativização da coisa julgada para possibilitar que o título executivo judicial siga entendimento vinculante do Supremo Tribunal Federal (Tema 810) e do STJ (Tema 905), na fase do cumprimento de sentença, in casu, já houve a satisfação do débito, com a expedição dos requisitórios e levantamento de valores pelo credor, motivo pelo qual se depreende que foi extinta a obrigação do Distrito Federal, nos termos do art. 924, II, do CPC.
+4. Ante a satisfação das obrigações por meio de RPV e Precatório já liquidados, correta a extinção da execução e incabível a rediscussão de índice aplicável à atualização da condenação contra a Fazenda Pública.
+5. Recurso conhecido e desprovido. Sentença mantida"
+(Acórdão 1372425, 07041489420178070018, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 30/9/2021. Pág.: Sem Página Cadastrada.)
+Ora, sob esse aspecto, compete ao STF eventual reforma do acórdão recorrido quanto ao ponto, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. A propósito, o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADES. AUSÊNCIA DE OMISSÃO. NORMA INCONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. SUBSTITUIÇÃO DA CDA INVIÁVEL. NOVO LANÇAMENTO. SÚMULAS 392/STJ E 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+ ..
+3. Não obstante tenham sido invocadas normas federais, é notório que se mostra indissociável a análise de suas possíveis violações com a ponderação constitucional conferida pelo STF, a quem compete exclusivamente tal análise, segundo dispõe o art. 102, III, da Carta Maior, razão pela qual não é possível averiguar a tese recursal.
+ ..
+7. Recurso Especial parcialmente conhecido, apenas quanto à preliminar de omissão e, nesse ponto, negado provimento.
+(REsp 1822887/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 11/10/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA. MODIFICAÇÃO DOS CRITÉRIOS DO TÍTULO JUDICIAL. FUNDAMENTO CONSTITUCIONAL. REVISÃO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚM. N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
