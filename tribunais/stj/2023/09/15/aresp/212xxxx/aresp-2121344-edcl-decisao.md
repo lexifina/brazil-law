@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão por meio da qual anulei acórdão dos embargos de declaração recorrido e determinei que outro fosse proferido com exame da aplicabilidade da Convenção de Montreal, nos termos das orientações do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+Em seu recurso, a embargante sustenta existência de omissão, sob o argumento da ausência de observação de precedentes recentes do Supremo Tribunal Federal acerca do mesmo tema, haja vista a Convenção de Montreal não ser aplicável a transporte de carga.
+A parte embargada apresentou impugnação, se manifestando pela manutenção da decisão embargada.
+Assim posta a questão, passo a decidir.
+Não se verifica o vício apontado, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela embargante, circunstância que não eiva o acórdão de nulidade.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+No tocante ao mérito o fundamento da decisão encontra respaldo na orientação emanada do julgamento do EREsp n. 1.289.629/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 20/6/2022, cuja dição é "A controvérsia em exame, atinente à responsabilidade civil decorrente de extravio de mercadoria importada objeto de contrato de transporte celebrado entre a importadora e a companhia aérea, encontra-se disciplinada pela Convenção de Montreal, por força da regra de sobredireito inserta no artigo 178 da Constituição, que preconiza a prevalência dos acordos internacionais subscritos pelo Brasil sobre transporte internacional".
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS MATERIAIS. TRANSPORTE AÉREO INTERNACIONAL. AVARIA DE CARGA. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento jurisprudencial do STJ é no sentido de que a pretensão indenizatória decorrente de danos a cargas ou a mercadorias em transporte aéreo internacional está sujeita aos limites impostos pela Convenção de Montreal, salvo se o expedidor da bagagem houver feito ao transportador uma declaração especial de valor do objeto a ser entregue no lugar de destino, tendo pago uma quantia suplementar, se cabível. Precedentes.
+2. No caso, ao afastar a possibilidade de limitação do valor da indenização em qualquer hipótese, o Tribunal a quo está em desencontro com a jurisprudência do STJ, merecendo provimento o recurso especial, no ponto. Contudo, o acórdão recorrido não tratou sobre a existência de declaração especial do expedidor da bagagem, questão fática imprescindível ao deslinde da controvérsia e que não pode ser examinada nesta instância, razão pela qual, para a melhor solução da controvérsia, faz-se necessário o retorno dos autos para que se analise esse aspecto relevante.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.081.153/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 14/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL. PARTE DE CARGA. EXTRAVIO. AÇÃO REGRESSIVA. SEGURADORA CONTRA O CAUSADOR DO DANO. CONVENÇÕES INTERNACIONAIS (VARSÓVIA E MONTREAL). INCIDÊNCIA. REPERCUSSÃO GERAL. DECLARAÇÃO ESPECIAL DE VALOR. QUANTIA SUPLEMENTAR. INDENIZAÇÃO. ARBITRAMENTO. NECESSIDADE DE VERIFICAÇÃO. REMESSA DOS AUTOS À ORIGEM.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que as normas e os tratados internacionais devem ser aplicados às questões envolvendo transporte internacional, seja este de pessoas ou coisas, especialmente as Convenções de Varsóvia e de Montreal.
+3. É entendimento assente que o valor da indenização por dano material somente não se vinculará ao tabelado quando o passageiro expressamente fizer a declaração especial prevista no art. 22 da Convenção de Varsóvia, o que deverá ser analisado na origem quando da aplicação dos tratados internacionais sob enfoque.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.635.573/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/10/2022)
+Anoto que o apontado vício, além de inexistente, objetiva na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Nos termos do acima exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
