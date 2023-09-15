@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BASF S.A. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação de Execução de Título Extrajudicial. Decisão que deferiu o prosseguimento da execução em relação ao fundo coexecutado, bem como a penhora das ações ordinárias e preferenciais de sua titularidade, com o consequente depósito judicial dos seus respectivos dividendos. Insurgência do coexecutado. Cabimento em parte. PROSSEGUIMENTO DA EXECUÇÃO. Ausência de óbice ao prosseguimento da ação de execução, conforme já decidido por esta C. Câmara no julgamento de agravo de instrumento anterior. Perícia a ser realizada nos autos dos embargos opostos à execução que não retira a certeza e a liquidez do título executivo extrajudicial. Vislumbrado, ademais, o risco de frustração da execução em razão do decurso de tempo até a realização da perícia. Execução que não pode ser considerada, nesse momento, suficientemente garantida pelos bens imóveis da coexecutada JBS, cujo valor real ainda é desconhecido. Prosseguimento da execução corretamente determinado na origem. IMPUGNAÇÃO À PENHORA. Constrição das ações de titularidade do agravante que não configura, nesse momento, excesso de penhora, podendo ser eventualmente reduzida se, afinal, restar demonstrado o excesso, nos termos do art.874, I, do CPC. Onerosidade não comprovada "in casu". Execução que deve se dar no interesse do credor. Decisão reformada apenas no que toca à determinação de depósito judicial dos dividendos. Penhora das ações que já tem o condão de garantir o Juízo, podendo referidas ações ser oportunamente expropriadas pela parte agravada para satisfação da execução, se o caso, não antes, porém, da definição real e exata do valor do débito exequendo. Recurso provido em parte, prejudicado o agravo interno. (e-STJ fl. 992).
+Os embargos de declaração opostos na origem foram rejeitados.
+No recurso especial (e-STJ fls. 1.070-1.104), a recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+a) arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015 - o órgão julgador incorreu em negativa de prestação jurisdicional ao deixar de enfrentar os questionamentos formulados nos embargos de declaração;
+b) arts. 223, 507 e 917, III, do CPC/2015 - o FIP PINHEIROS não pode mais discutir a falta de liquidez da obrigação constante do título exequendo ou eventual excesso de execução, haja vista a preclusão de tais matérias;
+c) arts. 523, 526, § 1º, 702, § 7º, e 776 do CPC/2015 - deve ser reconhecida, na espécie, a existência de valor exequendo incontroverso;
+d) art. 861, I, CPC/2015 - mantida a penhora das ações detidas pelo FIP PINHEIROS na J&F, deve ser também autorizada a expropriação dos respectivos dividendos.
+Apresentadas as contrarrazões (e-STJ fls. 1.339-1.364), o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Verifica-se estarem presentes os pressupostos de admissibilidade do agravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 34, XVI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
