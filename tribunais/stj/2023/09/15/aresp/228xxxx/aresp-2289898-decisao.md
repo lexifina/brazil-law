@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta o recorrente a violação dos arts. 302 c/c art. 298, V, ambos do Código de Trânsito Brasileiro, art. 121, §5º e 107, IX, ambos do Código Penal e 156 do CPP.
+Sustenta a não incidência do perdão judicial, sob o argumento de que "Equivoca-se o acórdão que sobreleva a importância das declarações do réu, quanto ao grande abalo psicológico sofrido, elemento que vai de encontro com as demais provas produzidas, e descuida que incumbe ao acusado fazer prova dos elementos informados, nos termos do artigo 156 do Código de Processo Penal".
+Requer o provimento do recurso especial, a fim de que seja afastado o perdão judicial.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Quanto ao perdão judicial, o acórdão recorrido está assim fundamentado:
+É cediço quê o art. 121, §5º, do CP, prevê que na hipótese de homicídio culposo, o juiz poderá deixar de aplicar a pena, se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária.
+Analisando detidamente os documentos acostados aos autos, constata-se que, em juízo (fls. 106/107), o recorrido afirmou que estava no campo de futebol para retirar as toras de eucaliptos e por volta de 1 3h1 5min, conversou com a testemunha e a vítima, que logo após saiu de seu campo visual.
+Extrai-se que o acusado relatou que ajudou a colocar uma tora na pá-carregadeira e entrou em seu caminhão, tendo tomado as cautelas costumeiras, ou seja, olhou a vizinhança para ver se havia algum obstáculo à sua movimentação, e não vislumbrando nenhum problema, deu marcha-ré no caminhão em velocidade compatível com a manobra, ocasião em que sentiu que o caminhão havia passado por cima de algo, e acreditando que seria um tronco de eucalipto, virou o volante, tirando a parte da frente do obstáculo.
+O recorrido narrou que, ao completar a manobra, ele percebeu que a vítima estava caída e o caminhão havia passado sobre esta, momento em que seu "mundo acabou" e "ficou sem pernas", tendo decido do veículo e pedido ajuda em desespero. O acusado contou que já era motorista profissional há dezenove ou vinte anos, e que é motorista da prefeitura há quinze anos, sendo que nunca se envolveu com problemas de trânsito, afirmando que era muito amigo da vítima e chegaram a trabalhar juntos, e "seu sentimento maior foi a impotência de não poder ajudar um amigo", tendo ficado muito abalado em razão de tal fato, não conseguindo dormir, motivo pelo qual passou a fazer tratamento psiquiátrico, que está dando bom resultado.
+Depreende-se que a testemunha Mauro (f. 104), que é assistente do departamento pessoal da Prefeitura de Capetinga, relatou que o recorrido trabalha há quinze anos para o município, e após o acidente, passa por tratamento psiquiátrico, conforme documento acostado no departamento pessoal da Prefeitura.
+A testemunha José Carlos (f. 102), afirmou que o acusado "desceu desesperado" do caminhão e logo após o acidente, permaneceu no local, tomando as medidas necessárias.
+Diante de tais considerações, o que se extrai do feito é que as provas produzidas sob o crivo do contraditório são suficientes para demonstrar que as consequências do crime geraram intenso sofrimento ao acusado, que necessitou de atendimento psiquiátrico, fato documentado e acompanhado pelo departamento de recursos humanos da prefeitura, da qual ele atua como colaborador há mais de 15 anos.
+ ..
+Registre-se que, o perdão judicial é uma faculdade concedida ao julgador, de modo que não depende apenas da produção de prova técnica, podendo ser concedido quando restar aferido que as consequências da infração atingiram o agente de forma tão grave que não se mostra necessária a imposição de sanção penal.
+Como se vê, foi concedido perdão judicial, com base nas provas produzidas nos autos, especialmente na prova testemunhal.
+Concluiu o Tribunal de origem que "as provas produzidas sob o crivo do contraditório são suficientes para demonstrar que as consequências do crime geraram intenso sofrimento ao acusado, que necessitou de atendimento psiquiátrico, fato documentado e acompanhado pelo departamento de recursos humanos da prefeitura, da qual ele atua como colaborador há mais de 15 anos".
+Desse modo, a revisão das premissas fáticas demandaria o revolvimento do conjunto fático-probatório, providência inadmissível no âmbito do recurso especial, a teor da Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. DELAÇÃO PREMIADA. BUSCA DA VERDADE MATERIAL ACERCA DA ATIVIDADE DELITIVA. ORGANIZAÇÃO CRIMINOSA. PERDÃO JUDICIAL. POSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS DO ARTIGO 13 DA LEI N. 9.807/99. DEBATE VEDADO EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. É cabível o instituto do perdão judicial no tráfico de drogas, desde que preenchidos os requisitos do artigo 13 da Lei n. 9.807/99.
+2. A Corte a quo, após análise das provas constantes dos autos, reconheceu que o agravado preenchia os requisitos legais para a concessão do perdão judicial, considerando que o agente era primário e colaborou efetivamente com a investigação e a instrução processual penal para desbaratar a organização criminosa.
+3. A pretensão de reforma do julgado para se concluir não ser o caso dos autos a hipótese de concessão do perdão judicial implicaria o revolvimento do material fático-probatório, o que é vedado pela Súmula 7 do STJ.
+4 . Agravo regimental desprovido.
+(AgRg no REsp n. 1.450.658/CE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 24/4/2018, DJe de 4/5/2018.)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PLEITO DE RECONHECIMENTO DO PERDÃO JUDICIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO INTERPOSTO COM FULCRO NO ART. 105, III, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE OFENDIDO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE COTEJO ANALÍTICO. INVIABILIDADE DO APELO RARO.
+1. Para a análise da tese recursal, no sentido de que a morte da vítima trouxe-lhe sofrimento insuportável, a atrair o perdão judicial, mostra-se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula 7 desta Corte. Precedentes.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 991.861/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/5/2017, DJe de 11/5/2017.)
+No mesmo sentido, consta do parecer ministerial:
+Como se vê, diante das circunstâncias muito particulares do caso concreto e com base na prova testemunhal e documental produzida, especialmente o depoimento judicial do réu que afirmou ser amigo da vítima, além de documento da prefeitura e de testemunho de funcionário demonstrado que o réu passou por sério tratamento psiquiátrico desde o acidente que ocasionou a morte da vítima, concluíram as instâncias ordinárias que as consequências da infração atingiram de forma tão grave o próprio agente que a sanção se tornou desnecessária, sendo hipótese de concessão de perdão judicial, conforme dispõe o § 5º do art. 121 do CP.
+Nesse contexto, chegar à conclusão diversa, como pretende o recorrente, requer ampla incursão probatória, inadmissível na via eleita, diante da vedação da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
