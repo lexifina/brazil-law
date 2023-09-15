@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS CARVALHO SILVA e RAIMUNDO NONATO FERREIRA MONTEIRO contra decisão do Tribunal de Justiça do Estado do Pará, que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República na Apelação Criminal n. 00124985620178140006.
+Consta dos autos que o Juízo de primeiro grau condenou os Agravantes às penas individuais de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 26 (vinte e seis) dias-multa, no mínimo legal, como incursos no art. 157, § 2.º, incisos I e II, do Código Penal (fls. 179-182).
+Irresignada, a Acusação interpôs apelação, à qual a Corte de origem deu provimento para valorar negativamente as circunstâncias do crime (fls. 794-806).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 59 do Código Penal.
+Alega que as penas-bases foram exacerbadas sem amparo em fundamentação idônea e de forma desproporcional.
+Foram apresentadas contrarrazões (fls. 825-834). O recurso especial não foi admitido (fls. 835-838). Foi interposto agravo (fls. 841-848).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo em recurso especial (fls. 871-873).
+É o relatório.
+Decido.
+O acórdão recorrido, reformando a sentença, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 798-799):
+"A pena base para cada um dos réus foi fixada no mínimo legal, 4 anos de reclusão e 20 dias multa, diante da inexistência de circunstâncias valoradas negativamente pelo MM. Juízo a quo. A circunstância do crime foi considerada normal ao tipo penal.
+ ..  possui razão o ora Apelante, Ministério Público, eis que a referida circunstância, pelas peculiaridades do caso, deve ser valorada negativamente.
+Ressalto que o delito foi praticado em via pública com grande movimentação, parada de ônibus na BR-316. Ademais, foi praticado com requintes de crueldade, uma vez que a vítima foi segurada pelo braço e empurrada ao chão, a fim de facilitar a empreitada criminosa dos denunciados, que subtraíram seu celular e a carteira por-cédulas. Logo, a referida circunstância judicial do art. 59 do CP deve ser valorada negativamente, pelo que passo a fixá-la em 4 anos e 8 meses de reclusão e 23 dias multa."
+Quanto à fixação da pena-base, é certo que o Julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime, além das próprias elementares comuns ao tipo.
+Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o Magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra implica ofensa ao preceito contido no art. 93, inciso IX, da Constituição da República.
+Na hipótese, conforme se observa das transcrições anteriormente realizadas, no tocante à valoração negativa do vetor atinente às circunstâncias do crime, a fixação das penas-bases acima do mínimo legal foi suficientemente fundamentada, tendo sido declinados elementos que emprestaram à conduta dos Agravantes especial reprovabilidade e que não se afiguram inerentes ao próprio tipo penal.
+Desse modo, a exasperação das reprimendas foi devidamente justificada no citado vetor, que se afastou do normal à espécie.
+Nesse sentido:
+" ..
+2. Na espécie, as instâncias ordinárias entenderam que houve maior grau de reprovabilidade na conduta do recorrente que cometeu o roubo mediante enforcamento e, ato contínuo, derrubou a vítima ao chão.
+3. Outrossim, "mostra-se devida a fixação da pena-base acima do mínimo legal quando demonstradas, de forma concreta, as razões pelas quais foram consideradas desfavoráveis à paciente as circunstâncias e as consequências do delito." (HC n. 190.933/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/2/2012, DJe 21/3/2012).
+4. Agravo regimental desprovido." (AgRg no HC n. 736.763/SC, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+" ..
+III - A fração estabelecida pelo v. acórdão impugnado de 1/6 (um sexto) para o aumento da pena-base, encontra-se devidamente justificado. Tal vetorial foi valorado negativamente com base em elementos concretos, o que denota maior reprovabilidade da conduta do paciente. Ao contrário do que alega a defesa, mostra-se idônea a fundamentação apresentada pela eg. Tribunal de origem para valorar negativamente as circunstâncias do crime, notadamente pelo fato do delito ter sido cometido "violentamente contra uma senhora indefesa que caminhava pela via pública em pleno horário vespertino, derrubando-a no chão (referiu ter sofrido escoriações no joelho esquerdo)", conforme consta dos autos.
+ ..
+Habeas Corpus não conhecido." (HC n. 509.048/SP, relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/6/2019, DJe de 11/6/2019.)
+A propósito da alegação de que houve desrespeito ao princípio da proporcionalidade quando da fixação das sanções basilares, deve-se destacar que o Legislador não delimitou parâmetros exatos para a fixação da pena-base, de forma que a sua majoração fica adstrita ao prudente arbítrio do Magistrado, que deve observar o princípio do livre convencimento motivado e os limites máximos e mínimos abstratamente cominados a cada delito.
+Com efeito, para possibilitar uma distinção entre os diferentes graus de gravidade concreta que um mesmo crime abstratamente previsto pode implicar, a análise da proporcionalidade, na primeira etapa da dosimetria da pena, deve guardar correlação com o número total de circunstâncias judiciais do art. 59 do Código Penal, reconhecidas como desfavoráveis ao réu, sem prejuízo de que, em hipóteses excepcionais, a especial gravidade de alguma dessas circunstâncias justifique uma exasperação mais incisiva.
+Desse modo, não há nenhuma vinculação a critérios puramente matemáticos, mas os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre: (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos.
+Assim, uma vez que o aumento da pena-base não está adstrito a critérios matemáticos e considerando-se a gravidade concreta da conduta devidamente declinada pelas instâncias ordinárias, não se verifica desproporcionalidade na exasperação das respectivas penas-bases em 8 (oito) meses em razão da atribuição de valoração negativa a 1 (uma) vetorial (circunstâncias do crime), conforme levado a efeito pelo Tribunal de origem.
+Nesse sentido:
+" ..
+1. O legislador não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria (pena-base).
+2. O critério aludido pelo agravante (1/6 por cada vetorial negativa), embora utilizado como referência em alguns precedentes desta Corte (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018), não traduz uma imposição, mesmo porque há precedentes que reputam justificada a fixação de fração de aumento em 1/8 por vetorial negativa (a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador) - HC n. 544.961/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020.
+3 Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+4. Considerando que a instância ordinária utilizou de fundamentação idônea para aumentar a pena e aplicou um critério, dentro da discricionariedade vinculada que lhe é assegurada pela lei, não há falar em violação do art. 59 do Código Penal.
+5. Agravo regimental improvido." (AgRg no REsp n. 1.852.272/PA, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 26/05/2020, DJe 04/06/2020.)
+" ..
+1. Legítima a consideração das circunstâncias do delito como desfavoráveis, pelo emprego de arma, porquanto a inclusão da majorante sobejante como vetorial gravosa na pena-base é prática majoritariamente admitida nesta Corte. Precedentes.
+2. Ausente desproporcionalidade na elevação da pena-base em 9 meses, considerado o mínimo e máximo das penas abstratamente cominadas ao delito de roubo.
+3. Agravo regimental improvido." (AgRg no AREsp n. 1.139.589/DF, relator Ministro NEFI CORDEIRO , Sexta Turma, julgado em 03/05/2018, DJe 15/05/2018.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO DUPLAMENTE MAJORADO. ELEVAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE. INEXISTENTE. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
