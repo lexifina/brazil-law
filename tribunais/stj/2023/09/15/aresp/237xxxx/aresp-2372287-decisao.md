@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 210):
+EMENTA: APELAÇÃO CÍVEL - JULGAMENTO EXTRA PETITA - NÃO OCORRÊNCIA - PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - CONTRATO VERBAL - ARBITRAMENTO. A sentença é extra petita quando o Juiz decide uma prestação diferente daquela que lhe foi postulada. Configurado o vício na sentença, deve ser anulada e o processo devolvido à instância de origem para que outra seja proferida, o que não é o caso dos autos. Uma vez constatada a prestação dos serviços advocatícios, em contrato verbal, assegura-se aos inscritos na OAB o direito aos honorários fixados por arbitramento judicial, observados a remuneração compatível com o trabalho e o valor.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, o recorrente alega violação aos arts. 658 e 692 do Código Civil; 141 e 373 do Código de Processo Civil; e 513 da Consolidação das Leis do Trabalho.
+Sustenta, em síntese, julgamento extra petita, alegando que a parte agravada postulou o recebimento de 15% sobre o valor a ser recebido pelo recorrente em outra ação, mas o percentual foi deferido em 10%. Além disso, defende que, "não demonstrada a contratação ao custo de 15% dos valores a serem recebidos, deveria haver a presunção que o mandato fora gratuito, e não o arbitramento de honorários em conformidade com a avaliação do trabalho desenvolvido, frisa-se, por não se tratar de ação de arbitramento, mas de cobrança".
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Em primeiro lugar , o recurso carece de interesse na parte em que o agravante alega que teria ocorrido julgamento extra petita, pois a parte agravada teria postulado o arbitramento dos honorários advocatícios no montante de 15% sobre o valor devido, e o juízo deferiu os honorários no percentual de 10%.
+À toda evidência, a fixação do percentual aquém do valor postulado é medida que beneficia, e não prejudica, a parte agravante, razão pela qual a parte carece de interesse a respeito da matéria, o que impede o conhecimento do recurso. Além disso, cumpre destacar que o deferimento de percentual abaixo daquele postulado não implica julgamento extra petita, mas sucumbência mínima.
+Na hipótese, examinando o acórdão recorrido, verifico que a controvérsia foi integralmente resolvida à luz do art. 492 do CPC, bem como do art. 22, §2º, do Estatuto da Advocacia e da Ordem dos Advogados do Brasil - OAB.
+Constato, nessa linha, que o Tribunal local não emitiu nenhum juízo de valor acerca dos arts. 658 e 692 do Código Civil; 141 e 373 do Código de Processo Civil; e 513 da Consolidação das Leis do Trabalho, e tampouco após a oposição de embargos de declaração, foi interposto recurso especial apontando ofensa ao art. 1.022, de modo a justificar a incidência do art. 1.025 do CPC.
+Com efeito, para que se configure o prequestionamento, é necessário que o Tribunal local se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto, o que não ocorreu no caso dos autos.
+Ausente o indispensável prequestionamento das questões federais suscitadas pelo recorrente, de rigor a incidência, na espécie, da Súmula 282/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
