@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por DHALGA EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 412):
+CONSUMIDOR, RESPONSABILIDADE CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. TRANSFERÊNCIA PARA O MÉRITO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA, SUSCITADA PELA PARTE APELANTE. MÉRITO: CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA CONCLUSÃO DA OBRA. CONDENAÇÃO DE PAGAMENTO POR LUCROS CESSANTES. CABIMENTO. PRESUNÇÃO DE PREJUÍZO. JURISPRUDÊNCIA DO STJ. FRUSTRAÇÃO DA EXPECTATIVA DERECEBIMENTO DO BEM NO PRAZO AJUSTADO. ABALO PSICOLÓGICO SUPERIOR AO MERO ABORRECIMENTO. DANO MORAL CONFIGURADO. DEVER DE INDENIZAR QUE SE IMPÕE. PLEITO DE MINORAÇÃO DO VALOR INDENIZATÓRIO ARBITRADO. NÃO ACOLHIMENTO. MONTANTE FIXADO EM OBSERVÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SENTENÇA MANTIDA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados (fls. 437/443).
+Nas razões do especial, aponta a recorrente violação dos artigos 489 e 1022 do Código de Processo Civil; argumentando, em síntese, que haveria omissão acerca da tese que veda a responsabilização do sócio oculto por atos praticados pelo sócio ostenstivo no exercício da empresa da Sociedade em Conta de Participação.
+Contra-arrazoado (fls. 474/493), o recurso especial não foi admitido (fls. 496/501), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1022 do Código de Processo Civil, observo que o Tribunal de origem não se manifestou acerca dos pontos suscitados nos embargos de declaração, relacionados à suposta ilegitimidade do recorrente em virtude do não implemento da condição aposta no contrato de cessão.
+Releva notar que a tese aludida foi expressamente devolvida à Corte Local, conforme extraio das razões de apelação apresentadas pelo ora recorrente (fls. 365/386), tendo sido reiterada quando da oposição dos embargos de declaração, conforme se verifica das respectivas razões às fls. 433/436.
+A despeito disso, observo que a Corte Local não se manifestou acerca da omissão deduzida, limitando-se a tecer considerações genéricas de que o acórdão embargado estaria devidamente fundamentado, e que o pedido teria sido formulado de modo originário na via dos embargos de declaração (fls. 437/443).
+Portanto, evidenciado que o Tribunal de origem apreciou a apelação aquém dos limites da matéria devolvida, reconheço a violação do artigo 1022 do CPC/15.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para cassar o acórdão recorrido, determinando a devolução dos autos ao Tribunal de origem, para que proceda a novo julgamento dos embargos de declaração (fls. 433/436), como entender de direito, apreciando detidamente todos os pontos suscitados pelo embargante, nos termos da fundamentação acima.
+As demais questões ficam prejudicadas.
+Intimem-se.
+EMENTA
