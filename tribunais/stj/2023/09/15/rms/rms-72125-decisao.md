@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DE SÃO PAULO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A parte, embora regularmente intimada para sanar referido vício, apresentou recurso contra o despacho de regularização, alegando que possui imunidade tributária e que faz juz à isenção das custas judiciais.
+Não obstante tratar-se de recurso interposto por Conselho de Fiscalização Profissional, a Primeira Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da questão, nos moldes do art. 543-C do Código de Processo Civil de 1973, no sentido de que "o benefício da isenção do preparo, conferido aos entes públicos previstos no art. 4º, caput, da Lei n. 9.289/1996, é inaplicável aos Conselhos de Fiscalização Profissional". (REsp n. 1.338.247/RS, relator Ministro Herman Benjamin, DJe de 19/12/2012.)
+Registre-se que o despacho não possui conteúdo decisório, razão pela qual é irrecorrível, nos termos do art. 1.001 do CPC. Nesse sentido: AgInt nos EDcl na PET nos EAREsp 1209653/SP, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 06/11/2019, DJe 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 22/10/2019, DJe 28/10/2019.
+Portanto, não conheço dos embargos de declaração de fls. 268/269 (e-STJ), uma vez que manifestamente incabíveis.
+Esclareça-se que o recurso manifestamente incabível não interrompe o prazo para a regularização do vício apontado. Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
