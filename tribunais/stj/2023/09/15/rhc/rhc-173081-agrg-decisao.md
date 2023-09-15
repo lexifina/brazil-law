@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MANOEL SIMIAO SABINO NETO contra decisão monocrática de minha lavra, de fls. 461-469, por intermédio da qual conheci parcialmente do recurso ordinário e, nessa extensão, neguei-lhe provimento, nos termos da seguinte ementa (fl. 461):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. POSSÍVEL RELAÇÃO COM FACÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DAS CONDUTAS. MODUS OPERANDI EXTREMAMENTE REPROVÁVEL. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE INTERROMPER ATIVIDADES ILÍCITAS. FUNDAMENTAÇÃO IDÔNEA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. CONDIÇÕES PESSOAIS IRRELEVANTES, NO CASO. RECORRENTE QUE, ADEMAIS, JÁ FOI BENEFICIADO COM A CONCESSÃO DE PRISÃO DOMILICIAR, NÃO SE ENCONTRANDO, PORTANTO, RECOLHIDO À PENITENCIÁRIA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. NATUREZA PERMANENTE DO CRIME DE ORGANIZAÇÃO CRIMINOSA AFASTA TESE DE AUSÊNCIA DE CONTEMPORANEIDADE DA CUSTÓDIA CAUTELAR. ALEGADA NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO- PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO."
+Em suas razões, o Agravante pede que tal decisum seja revisto, pois, diferentemente do que foi ali consignado, mesmo se encontrando em prisão domiciliar, não reputa legítima a manutenção de sua custódia.
+Argumenta que a ordem pública pode ser preservada com a substituição da prisão cautelar (mesmo que domiciliar) por medidas cautelares alternativas.
+Requer a reconsideração da decisão agravada ou, caso assim não se entenda, a apreciação do agravo regimental pela Sexta Turma do Superior Tribunal de Justiça, com o provimento do recurso e a concessão da ordem pleiteada, revogando a prisão preventiva.
+É o relatório.
+Decido.
+De início, pontuo que, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, pude constatar que nos autos da Ação Penal em comento (Ação Penal n. 1529001-68.2021.8.26.0050), em 03/03/2023, o Juízo de primeiro grau substituiu a prisão preventiva de MANOEL SIMIAO por medidas cautelares alternativas - "recolhimento domiciliar no período noturno (22h às 6h) e nos dias de folga, integralmente, além do comparecimento bimestral em Juízo, para informar e justificar suas atividades".
+Dessarte , com a superveniente revogação da prisão preventiva, tenho que este agravo perdeu o objeto.
+Ante o exposto, JULGO PREJUDICADO o agravo regimental no recurso ordinário em habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIENTE DECISÃO REVOGADORA DA CUSTÓDIA CAUTELAR. PERDA DE OBJETO. AGRAVO PREJUDICADO.
