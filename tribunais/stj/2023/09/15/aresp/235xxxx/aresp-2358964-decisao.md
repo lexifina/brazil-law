@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta o recorrente a violação dos arts.33, §2º, "c", § 3º, do CP e art. 33, §4º, da Lei 11.343/2006.
+Sustenta ser cabível a incidência da minorante do tráfico, em razão do preenchimento dos requisitos legais, bem como ausente motivação concreta para o estabelecimento em patamar diverso do máximo.
+Afirma inexistir fundamentação idônea no agravamento do regime prisional.
+Requer o provimento do recurso especial, a fim de que seja redimensionada a sanção, com a modificação do regime inicial de cumprimento de pena.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Quanto à minorante, o acórdão recorrido está assim fundamentado:
+No entanto, o Ministério Público não se insurgiu contra a aplicação do benefício, mas pleiteia, tão somente, que a redução seja de 1/3 (um terço).
+Com inteira razão.
+A pena-base de 05 (cinco) anos de reclusão, mais pagamento de 500 (quinhentos) dias-multa reduzida de 1/3 (um terço) resulta em 03 (três) anos e 04 meses de reclusão, mais pagamento de 333 (trezentos e trinta e três) dias- multa, fixados no valor mínimo legal.
+Também, não se insurgiu o Ministério Público contra a permuta, que, por isso, deve subsistir.
+No entanto, todas as circunstâncias judiciais desfavoráveis já apontadas, a quantidade e variedade de drogas apreendidas, entre elas a cocaína e o "crack", o tráfico exercido em uma praia, local já conhecido como ponto de venda, o fato de RENATO estar desempregado e dedicar-se ao tráfico como fonte de renda, como confessou informalmente, no momento da prisão, compõem alicerce seguro para fixar o regime semiaberto para a hipótese de expiação da pena, caso não adimplidas as restritivas fixadas pela r. sentença.
+Subsiste, no mais a r. sentença, que fica mantida por seus próprios fundamentos, aqui também incorporados como razão de decidir.
+Constata-se que não foram declinados elementos aptos a justificar a aplicação da fração redutora do tráfico privilegiado no patamar mínimo, sobretudo pela apreensão de quantidade não relevante de drogas.
+Esta Corte Superior entende que, para modular a benesse legal, é preciso aliar circunstâncias concretas suficientes o bastante que permitam a modulação da fração de diminuição, o que não se verifica no caso dos autos. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONSTRANGIMENTO ILEGAL QUE AUTORIZOU A CONCESSÃO DA ORDEM DE OFÍCIO. DECISÃO AGRAVADA QUE ALTEROU A FRAÇÃO DA REDUTORA DO TRÁFICO PRIVILEGIADO PARA 2/3 E A DA CAUSA DE AUMENTO DO ART. 40, III, DA LEI 11.343/2006 PARA 1/6. IRRESIGNAÇÃO MINISTERIAL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA UTILIZAÇÃO DE FRAÇÃO SUPERIOR À MÍNIMA PARA A CAUSA DE AMENTO. INEXISTÊNCIA DE UTILIZAÇÃO DE MEIO ATÍPICO PARA DRIBLAR A FISCALIZAÇÃO. QUANTIDADE DE DROGAS APREENDIDAS QUE NÃO SE MOSTRA EXORBITANTE PARA JUSTIFICAR A MODULAÇÃO DA CAUSA DE REDUÇÃO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+ ..
+3. Já definiu esta Corte que a adoção de fração de causa de aumento superior a 1/6, bem como a de causa de diminuição inferior a 2/3, requer fundamentação concreta.
+4. Na hipótese dos autos, as instâncias locais utilizaram a forma de ocultação da droga (interior da vagina da paciente) para justificar o aumento em maior extensão. No entanto, a ocultação, no caso de ingresso em estabelecimento prisional, é inerente à própria causa de aumento. Assim, somente restaria justificada a adoção de fração mais gravosa se tivesse sido utilizado meio atípico para driblar a fiscalização, o que não ocorreu, já que a ocultação na cavidade vaginal é o meio comumente utilizado por mulheres para entrar com entorpecentes em presídios.
+5. Embora a quantidade e natureza dos entorpecentes apreendidos possam embasar a adoção do percentual mínimo da redutora previsto no art. 33, §4º, da Lei 11.343/2006, no caso dos autos, a quantidade de droga apreendida - 136,2g de maconha, não se mostra expressiva a ponto de autorizar a modulação da fração da causa de diminuição da reprimenda do tráfico privilegiado.
+6. Agravo regimental não provido.
+(AgRg no HC 691.318/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021)
+Ademais, nos termos da jurisprudência desta Corte, a quantidade não relevante, sem a menção a circunstâncias adicionais, não constitui fundamentação válida para negar a minorante do tráfico ou modular em patamar diverso de 2/3, bem como estabelecer o agravamento do regime prisional ou impedir a substituição da sanção privativa de liberdade por penas restritivas de direitos. A propósito: AgRg no HC 529.431/SP, Rel. NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019.
+No caso, houve a apreensão de "12 (doze) flaconetes de cocaína, com cerca de 12g (doze gramas), 8 (oito) pedras de crack, com cerca de 8g (oito gramas), 07 (sete) porções de haxixe, com cerca de 7g (sete gramas), 52 (cinquenta e duas) porções de Cannabis Sativa L (maconha), pesando cerca de 52g (cinquenta e dois gramas)", o que denota menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar a aplicação da minorante do tráfico no patamar de 2/3, estabelecimento do regime aberto e ainda a conversão da pena privativa de liberdade por penas restritivas de direitos.
+Desse modo, restabeleço a pena fixada na sentença condenatória, ante a ausência de motivação válida no acórdão recorrido para a aplicação da fração de 1/3, tornando definitiva a reprimenda em 1 ano e 8 meses de reclusão, mais 166 dias-multa.
+Quanto ao regime prisional, tratando-se de réu primário e de bons antecedentes, cuja pena-base foi fixada no mínimo legal, faz jus o recorrente ao regime aberto, nos termos do art. 33, §§ 2º e 3º, do CP e Súmulas 440/STJ e 718 e 719/STF e, pelas mesmas razões, cabível a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante art. 44 do CP, tal como fixado na sentença condenatória.
+Ante o exposto, conheço do agravo para dar provimento ao recurso para reduzir a pena em 1 ano e 8 meses de reclusão e 166 dias-multa, no regime aberto, substituindo a sanção reclusiva por penas restritivas de direitos a serem estabelecidas pelo juízo das execuções.
+Publique-se.
+Intimem-se.
+EMENTA
