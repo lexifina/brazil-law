@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração apresentados pelo ESPÓLIO DE ANTOMAR DE BRITO FREITAS contra despacho de fl. 622 que possui o seguinte teor:
+Conforme certificado às fls. 617 e 619, decorreu o prazo assinalado pelo despacho de fl. 615 para que as exequentes VILMA MELO FREITAS e FABÍOLA MELO FREITAS esclarecessem se o advogado Samuel Menezes Collier detém poderes de representação na esfera administrativa ou, em hipótese negativa, informassem seus endereços atualizados.
+Nesse contexto, determino a intimação pessoal das exequentes VILMA MELO FREITAS e FABÍOLA MELO FREITAS para que informem, no prazo de 5 (cinco) dias, se ainda persiste o interesse no prosseguimento do feito executivo, cumprindo a diligência referida no parágrafo anterior, com a advertência de que o não atendimento pode ensejar o reconhecimento do abandono da causa, com a consequente extinção do processo, sem resolução de mérito, na forma do art. 485, III, e § 1º, do CPC.
+Certificado o transcurso do prazo sem manifestação, intime-se a UNIÃO para que se manifeste sobre eventual abandono da causa no prazo de 10 (dez) dias, nos termos do art. 485, § 6º, do CPC, e da Súmula 240/STJ.
+Publique-se. Intimem-se.
+O embargante, aduz, em síntese, que o despacho embargado possui erro material, porquanto, ao contrário do que foi consignado, teriam sido atendidas as determinações do despacho de fls. 615 por meio da petição de fls. 606/613. Ressalta que, naquela petição, ficou esclarecido que houve a revogação (não a renúncia) do mandato no âmbito do processo administrativo nº 2003.01.22718 e que a informação do atual endereço das interessadas VILMA MELO FREITAS e FABÍOLOA MELO FREITAS é inócua, pois já foram cientificadas da instauração do procedimento de revisão administrativa da Portaria que concedeu Anistia ao falecido Antomar de Brito Freitas.
+Requer o acolhimento dos embargos,
+Instada a se manifestar, a UNIÃO requereu a rejeição dos embargos, pois, no seu entender, o embargante não atendeu ao que foi determinado no despacho de fl. 615.
+É o relatório. Decido.
+Os embargos não merecem conhecimento porquanto foram opostos contra mero despacho e não observaram o comando do art. 1.022 do CPC, segundo o qual cabem aclaratórios apenas contra decisão judicial na qual haja omissão, contradição, obscuridade ou erro material.
+Não obstante, tem razão o embargante quando aduz que atendeu ao despacho de fls. 615 por meio da petição de fls. 606/613.
+Com efeito, na petição 00116188/2023 (fls. 606/613) ficou esclarecido que houve a revogação (não a renúncia) do mandato no âmbito do processo administrativo nº 2003.01.22718 e que a informação do atual endereço das interessadas VILMA MELO FREITAS e FABÍOLOA MELO FREITAS é inócua, pois elas já foram cientificadas da instauração do procedimento de revisão administrativa.
+A informação pode ser corroborada na própria petição da União (nº 00022550/2023 - fls. 549-605) na qual é possível consultar o procedimento administrativo SEI (https://tinyurl.com/jy32fxda ) e constatar que, em 23/02/2023, VILMA MELO FREITAS apresenta petição na qual reitera e adota como defesa administrativa os termos apresentados em 21/09/2022 pelo Advogado Samuel Menezes Collier (Documento SEI 3431850), sendo que, o documento SEI 3431852, traz a autorização do referido patrono para que a interessada possa reiterar e adotar a defesa feita por ele no referido processo administrativo .
+Acrescente-se que o documento SEI 3431851 traz a procuração na qual VILMA MELO FREITAS constitui, para sua defesa no processo administrativo, a advogada Maria Sofia Meneses Collier.
+Desse modo, não procedem os argumentos da UNIÃO, no sentido de que as interessadas carecem de patrono no âmbito do Processo Administrativo e que se mostra necessária sua intimação para apresentarem endereço atualizado.
+Desse modo, está prejudicado o pedido do ente público de fls. 635-636 para que seja declarado o abandono de causa.
+Ante o exposto, não conheço dos embargos de declaração e determino a suspensão da execução por 60 (sessenta) dias, findo o qual a UNIÃO deverá comprovar a conclusão do procedimento revisional instaurado.
+Certificado o decurso do prazo acima fixado in albis, deverá a executada ser intimada para manifestar-se em 10 (dez) dias, independentemente de nova conclusão.
+Publique-se. Intimem-se.
+EMENTA
