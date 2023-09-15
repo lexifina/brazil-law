@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAYSA NICOLAU RORES, com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento Ação cominatória de obrigação de fazer c/c perdas e danos e pedido de tutela antecipada Fase de cumprimento de sentença Decisão recorrida que acolheu a impugnação oferecida pela executada para determinar a liquidação por arbitramento Inconformismo no tocante à negativa de arbitramento de verba honorária de sucumbência Fixação dos honorários advocatícios que depende da extinção da execução Conversão do procedimento comum em liquidação por arbitramento que, ademais, não trouxe qualquer prejuízo à agravante Instrumentalidade das formas Princípio "pas de nullite sans grief" Decisão recorrida mantida Recurso desprovido" (fl. 124, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 135-140, e-STJ).
+No especial, a recorrente aponta violação do art. 85, § 1º do Código de Processo Civil, sustentando que "a sentença deve condenar o vencido ao pagamento dos honorários advocatícios ao vencedor nos casos de cumprimento de sentença" (fl. 152, e-STJ).
+Apresentadas contrarrazões às fls. 199-208 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origem dispôs o seguinte:
+"A despeito da aparente atecnia da agravada na formulação de pedido condenatório líquido e certo quando, ao que parece, o próprio título executivo determinou que, na hipótese de conversão da obrigação em perdas e danos, o montante condenatório, observado o valor de mercado, deveria ser apurado em liquidação de sentença, a pretensão recursal não vinga.
+Ainda que a liquidação de sentença pelo procedimento comum se devolva de forma diversa da liquidação por arbitramento, a conversão admitida pelo D. Juízo de origem, aqui, não acarretou qualquer prejuízo hábil a justificar a adoção de extremo rigor procedimental, tal como pretendido pela agravante (princípio "pas de nullité sans grief").
+Com efeito, o artigo 510 do Código de Processo Civil determina que, na liquidação por arbitramento, o juiz "intimará as partes para a apresentação de pareceres ou documentos elucidativos, no prazo que fixar", exatamente como procedeu o D. Juízo de origem ao constatar que "não sendo possível a outorga das escrituras definitivas, deve haver a conversão da obrigação em perdas e danos, " ..  observado o valor de mercado, a ser apurado em liquidação de sentença.  .. ".
+Ademais, considerando que o próprio comando jurisdicional, que deu ensejo ao incidente de origem, determinou a observância do "valor de mercado" dos imóveis cujas escrituras definitivas deveriam ser outorgadas à agravada a título de "acerto da participação da parte ideal de 5,85% pertencente à coautora Integral na incorporação imobiliária", parece que a indicação do quantum debeatur baseada em recentes avaliações dos imóveis não passa de mero equívoco plenamente justificável.
+Em outras palavras, ao que tudo indica, a postura adotada pela agravada não trouxe qualquer prejuízo à agravante, o que demonstra que, aqui, o procedimento adotado merece ceder à instrumentalidade das formas, para que o bem da vida seja apreciado de forma adequada.
+Por fim, o julgado proferido pela Corte Especial do C. Superior Tribunal de Justiça em sede de Recurso Especial Repetitivo, mencionado nas fls. 08 das razões recursais, não se coaduna com o caso em análise, já que, embora reconheça o cabimento dos honorários advocatícios no caso de acolhimento da impugnação, condiciona sua fixação à "extinção do procedimento executório" que, aqui, não ocorreu" (fls. 127-129, e-STJ - grifou-se).
+Com efeito, a modificação dessas premissas é providência que esbarra na Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AUSÊNCIA DE INTIMAÇÃO DOS DEVEDORES EM RELAÇÃO À AVALIAÇÃO DO IMÓVEL. NULIDADE DO ATO PROCESSUAL AFASTADA. PREJUÍZO NÃO DEMONSTRADO. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Nos termos da jurisprudência do STJ, "É necessária a prova de prejuízo efetivo e concreto à parte que alega a nulidade, pois, em nosso ordenamento jurídico, vigoram os princípios da pas de nullité sans grief e da instrumentalidade das formas" (AgInt no AgInt no AREsp 1.480.468/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 31/5/2021, DJe de 7/6/2021).
+2. No caso, o Tribunal de origem, analisando as circunstâncias do caso, concluiu que não restou demonstrado efetivo prejuízo apto a ensejar a nulidade da avaliação do imóvel. Sendo assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para não conhecer do recurso especial" (AgInt nos EDcl no AREsp 2.219.956/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023).
+Ante o exposto, não conheço do recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
