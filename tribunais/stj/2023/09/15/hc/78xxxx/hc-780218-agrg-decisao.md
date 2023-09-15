@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por VALDIR RODRIGUES SANTOS contra decisão monocrática de minha lavra, de fls. 46-51, por intermédio da qual conheci parcialmente da impetração e, nessa extensão, deneguei a ordem de habeas corpus, nos termos da seguinte ementa (fl. 46):
+"HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO AGENTE. MODUS OPERANDI EXTREMAMENTE VIL. FUNDAMENTAÇÃO IDÔNEA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. CONDIÇÕES PESSOAIS IRRELEVANTES, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. ALEGADA DESPROPORCIONALIDADE DA MEDIDA EXTREMA IMPOSTA. ANÁLISE INOPORTUNA NA ATUAL FASE PROCESSUAL. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA."
+Em suas razões, o Agravante pede que tal decisum seja revisto, pois, diferentemente do que foi ali consignado, a sua prisão preventiva foi mantida na sentença de pronúncia de forma inidônea, tendo em vista que não estão presentes na hipóteses os requisitos legais autorizadores do cárcere cautelar.
+Requer a reconsideração da decisão agravada ou, caso assim não se entenda, a apreciação do agravo regimental pela Sexta Turma do Superior Tribunal de Justiça, com o provimento do recurso e a concessão da ordem pleiteada, revogando a prisão preventiva.
+É o relatório.
+Decido.
+De início, pontuo que, em consulta ao site do Tribunal de Justiça do Estado de Minas Gerais, pude constatar que nos autos da Ação Penal em comento (Ação Penal n. 0144851-57.2022.8.13.0024), em 21/06/2023, o Conselho de Sentença julgou parcialmente procedente a pretensão punitiva do Estado "para o fim de condená-lo no crime de homicídio tentado, na sua modalidade simples, com a causa de diminuição do privilégio da violenta emoção, logo em seguida à injusta provocação da vitima  .. . Assim, ficou ele incurso nas sanções do artigo 121, caput, c/c art. 121, § 12, todos do Código Penal Brasileiro".
+VALDIR foi apenado com 3 (três) anos e 4 (quatro) meses de reclusão, no entanto, como "ora condenado já se encontra preso em razão exclusivamente deste processo, em caráter preventivo, desde 08/02/2022, perfazendo o período superior a 1 ano e 4 meses de prisão provisória. Assim, resta ao acusado Valdir Rodrigues o cumprimento da pena de 01 (um) ano, 11 (onze) meses e 17 (dezessete) dias de reclusão", em regime aberto.
+O Juiz Presidente do Tribunal do Júri revogou a prisão preventiva do ora Paciente, determinando a imediata expedição do competente alvará de soltura em seu benefício.
+Dessarte, com a superveniente revogação da prisão preventiva, tenho que este agravo perdeu o objeto.
+Ante o exposto, JULGO PREJUDICADO o agravo regimental no habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIENTE CONDENAÇÃO EM REGIME ABERTO. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. PERDA DE OBJETO. AGRAVO PREJUDICADO.
