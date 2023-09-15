@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração de fls. 31-33 opostos pela UNIÃO contra decisão monocrática que homologou o cálculo exequendo e determinou a expedição do requisitório de pagamento, nos termos do art. 535, § 3º, do CPC. Aludido decisum condenou ainda o ente público ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre o valor da condenação.
+A embargante alegou que: (a) mostra-se inaplicável o Tema 973/STJ porquanto "o presente caso trata de cumprimento de sentença/execução individual originária de ação individual, e não de ação coletiva"; e (b) "sequer há condenação para que os honorários sejam "fixados em 10% sobre o valor da condenação"".
+Intimada para eventual manifestação, a parte embargada pugnou pela rejeição dos embargos, aduzindo que "a r. decisão embargada fundamenta-se em diversos precedentes que concedem honorários de sucumbência contra a Fazenda Pública, mesmo em execuções não impugnadas, quando o crédito executado está sujeito a pagamento por RPV".
+É o relatório. Decido.
+Na hipótese dos autos, inexiste qualquer vício na decisão embargada que enseje a oposição de embargos de declaração. Em verdade, a embargante pretende rediscutir questão já decidida, o que não se mostra cabível na via estreita dos aclaratórios.
+Nesse sentido: "Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não s e prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando" (EDcl no AgInt nos EDcl no AREsp n. 1.524.007/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023).
+Todavia, assiste razão à UNIÃO ao afirmar que não há condenação na espécie. De fato, o decisum que homologou o cálculo exequendo e determinou o pagamento por meio de requisitório não tem natureza condenatória. No entanto, é patente o proveito econômico obtido pela parte adversa.
+Assim, apenas para esclarecer, a condenação da verba sucumbencial, no percentual de 10% (dez por cento), deverá incidir sobre o proveito econômico obtido pelo exequente, ora embargado, correspondente, no caso, ao valor do cálculo exequendo homologado.
+Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos infringentes, apenas para fins de esclarecimento, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
