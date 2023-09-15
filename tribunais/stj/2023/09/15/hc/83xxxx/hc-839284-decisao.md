@@ -1,0 +1,25 @@
+DECISÃO
+LUCAS MOTTA DE MATOS, acusado por tráfico de drogas, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Indeferida a liminar (fls. 431-4325) e prestadas as informações (fls. 435-437), foram os autos ao Ministério Público Federal, que opinou pelo não conhecimento da ordem, notadamente porque a decisão constritiva se encontra devidamente fundamentada na reiteração delitiva (fls. 482-487).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão que homologou o flagrante e decretou a prisão preventiva do acusado, a seguinte passagem (fl. 98, destaquei):
+ ..
+No local, os agentes obtiveram êxito em encontrar e apreender aproximadamente 3,265kg de maconha e 954g de cocaína, estando uma parte em tabletes e outra parte já fracionada para venda, acondicionadas no interior do tonel, enterrado no chão da estrebaria.
+Inquirido, o conduzido Douglas assumiu a propriedade das drogas e demais equipamentos utilizados para o tráfico localizados na estrebaria  .. .
+ ..
+Isso porque, além de se estar diante de crime cuja a pena privativa máxima de liberdade sobeja o patamar de 04 anos, o caso se reveste de elevada gravidade concreta, caracterizada pela natureza e quantidade das drogas apreendidas, isto é, 3,265kg de maconha e 954g de cocaína.
+Verifica-se, ainda, que o conduzido Lucas é reincidente específico, uma vez que já condenado pelo crime de tráfico de drogas (Ação Penal n. 0004240-94.2019.8.24.0075, desta Vara Cível - PEC n. 0005340-84.2019.8.24.0075), circunstância pessoal que evidencia possível habitualidade na atuação criminosa.
+O acórdão impugnado, por sua vez, também assinalou (fls. 422-423, grifei):
+ ..
+Quanto ao periculum libertatis, a decisão fundamentou a prisão preventiva na necessidade de resguardar a ordem pública, especialmente diante da gravidade concreta do delito, evidenciada pela exacerbada quantidade de entorpecentes num montante de 3,265kg de "maconha" e 954g de "cocaína", circunstância que também se mostra como indicativo de que o agente não seria incipiente no mercadejo espúrio. Acentua ainda a reprovabilidade da conduta a natureza notoriamente deletéria de uma das espécies de drogas localizada ("Cocaína").
+ ..
+Ao lado disso, também foi devidamente destacado o risco de reiteração criminosa, tendo em vista que o paciente ostenta uma condenação definitiva anterior pela prática da mesma espécie de delito (Ação Penal n. 0004240-94.2019.8.24.0075, desta Vara Cível - PEC n. 0005340-84.2019.8.24.0075), ostentando a condição de reincidente específico. Tal circunstância não é isolada, porquanto os policiais militares responsáveis pela ocorrência foram expressos de que já havia informações pretéritas do envolvimento do paciente na atividade do tráfico de drogas, que inclusive seria realizado, juntamente com o corréu, na modalidade "tele-entrega".
+Como se observa, a despeito do crime praticado não envolver violência ou grave ameaça a pessoa, ficou devidamente registrada a expressiva quantidade de droga apreendida (3,265kg de "maconha" e 954g de "cocaína"), que deve ser somada as circunstâncias dessa apreensão e a reincidência específica do paciente.
+Tal fundamentação, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, também, afasta a possibilidade de concessão de medidas cautelares alternativas.
+No particular, precisas as ponderações do Ministério Público Federal, quando assinalou (fls. 486-487): "a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstradas, com base em elementos extraídos dos autos, a periculosidade do agente e a gravidade do delito, consubstanciadas pelo fato do paciente, mesmo após ser condenado pelo crime de tráfico de drogas, novamente aparenta se envolver na narcotraficância".
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
