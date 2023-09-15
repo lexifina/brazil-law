@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de YAGO HENRIQUE SOUZA DE OLIVEIRA e PABLO HENRIQUE DE JESUS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1530566-18.2021.8.26.0228).
+Extrai-se dos autos que os pacientes foram condenados, em primeiro grau de jurisdição, como incursos no artigo 33, caput, da Lei n.º 11.343/06 c/c art. 61, inc. II, letra j, do Código Penal, às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa (e-STJ, fls. 58/64).
+Irresignada, a defesa interpôs recurso de apelação criminal, o qual foi parcialmente provido para reduzir as reprimendas para 4 anos e 2 meses de reclusão, e 416 dias-multa, mantido o regime prisional fechado (e-STJ, fls. 8996). O acórdão recebeu a seguinte ementa:
+TRÁFICO ILÍCITO DE ENTORPECENTES - DEPOIMENTOS DOS POLICIAIS EM SINTONIA COM O ACERVO PROBATÓRIO A MERECER CREDIBILIDADE - TRAFICÂNCIA COMPROVADA - CONDENAÇÃO DEVIDA. DOSIMETRIA DAS PENAS I) PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL REDUÇÃO DA FRAÇÃO APLICADA NECESSIDADE - II) AFASTAMENTO DA AGRAVANTE RELATIVA À CALAMIDADE PÚBLICA POSSIBILIDADE III) PREENCHIMENTO DOS REQUISITOS PARA CONCESSÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI 11.343/06 NA FRAÇÃO DE 1/6 - NECESSIDADE - ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSOS REPETITIVOS (TEMA 1139) - REGIME PRISIONAL FECHADO ADEQUADO. RECURSOS PARCIALMENTE PROVIDO.
+No presente mandamus (e-STJ fls. 3/9), a impetrante aponta constrangimento ilegal aos pacientes em razão da aplicação do redutor do tráfico privilegiado na fração mínima e do recrudescimento do regime inicial de cumprimento das penas.
+Aduz ser ilegal a fração de diminuição eleita pelo Tribunal de origem exclusivamente em razão da existência de ações penais em curso, bem como pela generalidade da fundamentação e especialmente pela pequena quantidade apreendida a qual de acordo com os parâmetros da jurisprudência desta Corte não é idônea para justificar o agravamento da pena (e-STJ, fl. 6), razão pela qual considera ser adequada e a redução de pena próxima do patamar máximo de 2/3.
+Insurge-se, ainda, contra o recrudescimento do regime com base na gravidade abstrata do delito e afirma que, com a alteração das reprimendas, os pacientes farão jus ao regime inicial aberto e à substituição da pena privativa de liberdade por restritiva de direitos.
+Ao final, requer, liminarmente e no mérito, a redução das reprimendas , o abrandamento do regime inicial de cumprimento, bem como a substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus pelo colegiado.
+Ante o exposto, indefiro a liminar.
+Devidamente instruído, dispenso informações. Dê-se vista dos autos ao Ministério Público Federal.
+Publique-se.
+EMENTA
