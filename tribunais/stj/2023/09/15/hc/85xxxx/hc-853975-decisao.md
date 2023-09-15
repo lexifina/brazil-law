@@ -1,0 +1,31 @@
+DECISÃO
+CAIO VINICIUS DE OLIVEIRA CRUZ aponta constrangimento ilegal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0003251-18.2023.8.26.0520.
+A defesa assere que o paciente cumpriu o requisito objetivo, de modo que a progressão de regime dever ser efetuada sem a obrigatoriedade de realização de exame criminológico.
+Requer, assim, a concessão da ordem, a fim de que seja a apenada inserido no regime semiaberto, dada a violação da Súmula n. 439 do STJ.
+Decido.
+O Juízo de primeiro grau assim deferiu o benefício da progressão de regime:
+Trata-se de pedido de progressão ao regime aberto formulado pelo(a) sentenciado(a) Caio Vinicius de Oliveira Cruz, RG: 52.521.033, RJI: 170528512-73, recolhido(a) no(a) Centro de Progressão Penitenciária "Dr Edgar Magalhães Noronha" - Tremembé, manifestando-se desfavoravelmente o Representante do Ministério Público, alegando que o sentenciado não preenche os requisitos subjetivos.
+Em que pese o parecer contrário do Ilustre Representante do Ministério Público, verifica-se dos autos que o sentenciado mantém boa conduta carcerária, possui situação processual definida, cumpriu mais de 1/6 do total de sua reprimenda, encontra-se usufruindo das saídas temporárias, retornando normalmente ao presídio, e obteve parecer favorável no exame criminológico, preenchendo assim os requisitos objetivos e subjetivos exigidos pela Lei 7.210/84, para a obtenção do benefício.
+Nota-se, ainda, ter sido beneficiado com saída temporária, da qual retornou normalmente.
+E, em que pesem os aspectos negativos de sua personalidade, ressaltados pelo Ilustre Representante do Ministério Público, cumpridos os requisitos exigidos por lei, não há óbice à progressão devido a gravidade do delito.
+ ..
+Verifica-se assim que o sentenciado preenche os requisitos objetivos e subjetivos exigidos pela Lei 7.210/84, para a obtenção do benefício.
+Em face do exposto e pelo que mais dos autos consta CONCEDO ao sentenciado o REGIME ABERTO (Processo nº 0024163-06.2016.8.26.0577;
+0015174-11.2016.8.26.0577), designando sua residência como local de cumprimento do restante de sua pena, até que se designe outro local adequado, devendo serem observadas as seguintes condições (fls. 176-177).
+A Corte de origem, confirmou a decisão do Juízo de primeiro grau, sob a seguinte argumentação:
+Malgrado o preenchimento do requisito objetivo-temporal, tem-se que os elementos informativos encartados aos autos não demonstram, extreme de dúvidas, o cumprimento do quesito subjetivo pelo sentenciado para deferimento da progressão ao regime mais brando.
+Com efeito, o atestado de bom comportamento carcerário, emitido por autoridade penitenciária, como o próprio nome diz, a conduta do reeducando intramuros. Não corresponde, pois, a cessação ou mesmo minoração da periculosidade, na medida em que se restringe a declarar repita-se que o sentenciado não violou as normas disciplinares durante o período em que permaneceu encarcerado no estabelecimento prisional ou seja, observou seus deveres legais (artigo 39 da Lei nº 7.210/84).
+ ..
+Outrossim, não se olvide que a progressão de regime, em realidade, não constitui um direito absoluto do sentenciado, condicionando-se à segurança da sociedade, não bastando apenas o preenchimento do requisito objetivo mas, antes, a satisfação da condição subjetiva, na medida em que o deferimento de qualquer benesse ao reeducando subordina-se à análise aprofundada de suas condições pessoais, pois "..o meio social não pode e nem deve servir de "laboratório", onde se vá testar a aparente "recuperação" de perigosos delinquentes (TJSP, Agravo em Execução nº 243.772-3/6, Rel. Des. Jarbas Mazzoni).
+Importante consignar que não se trata de considerar o fato já julgado na aferição da periculosidade do sentenciado mas dizer que o reeducando que desconta pena por delitos graves, como é o caso, deve ser mais bem avaliado, de forma a se verificar se está apto a retornar ao convívio social.
+Lembrando ainda que, como o regime aberto constitui a última etapa do sistema progressivo, para obter tal benesse o reeducando deve dar mostras incontestes de comprometimento com o processo de ressocialização.
+Não olvidemos que o agravado praticou falta disciplinar de natureza grave (fls. 224-226, grifei).
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave recente.
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão que retarda a concessão do livramento condicional ao paciente, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável. Precedentes" (HC n. 399.139/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a necessidade de realização de exame criminológico e restabelecer a decisão proferida pelo Juízo das execuções, que deferiu a progressão ao regime aberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
