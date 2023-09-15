@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  conflito  negativo  de  competência  suscitado  pelo  JUÍZO FEDERAL DA 10A VARA CRIMINAL DE BRASILIA - SJ/DF em face do JUÍZO DE DIREITO DA 3A VARA DO JUIZADO ESPECIAL CRIMINAL DE BRASÍLIA - DF  .
+Os  fatos  e fundamentos que  deram  ensejo  à  instauração  do  presente  incidente  foram  delineados  pelo  Ministério  Público  Federal,  in  verbis  (e-STJ  fl.  140):
+2. Consta dos autos que foi instaurado termo circunstanciado para apurar a prática, em tese, de crime contra a honra de CELINA LEÃO HIZIM FERREIRA, que exerce atualmente o cargo de deputada Federal.
+3. Após parecer do Ministério Público do Distrito Federal e dos Territórios, o Juízo suscitado, considerando que a vítima é funcionária pública federal, aplicou o enunciado da Súmula nº 147/STJ e declinou da competência em favor de um dos Juizados Especiais Federais do Distrito Federal.
+4. Na sequência, o Juízo de Direito da 10ª Vara Federal Criminal da SJ/DF, acolhendo a manifestação do Parquet Federal, suscitou o presente conflito negativo de competência, argumentado não haver interesse da União para processar e julgar o presente feito.
+Ao  final,  o  Ministério  Público  Federal  manifestou-se  pela  competência  do  Juízo  estadual suscitado  em  parecer  assim  ementado  (e-STJ  fl.  139):
+CONFLITO DE COMPETÊNCIA. "OPERAÇÃO DRÁCON". CRIME CONTRA A HONRA DE DEPUTADA FEDERAL. FATOS INVESTIGADOS REFERENTES AO EXERCÍCIO DO MANDATO DE DEPUTADA DISTRITAL. JUÍZO SUSCITADO.
+1. Se o suposto crime contra a honra refere-se aos fatos investigados na "Operação Drácon", que apurou delitos em tese praticados pela ora deputada federal quando exercia o mandato de deputada distrital, afasta-se o interesse da União a justificar a competência da Justiça Federal.
+2. Parecer pelo conhecimento do presente conflito e pelo reconhecimento da competência do Juízo suscitado.
+É,  em  síntese,  o  relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Cinge-se  a  controvérsia  posta  no  presente  feito  à  definição  da  competência  para  apurar a prática de crime contra a honra de vítima que atualmente exerce o cargo de Deputada Federal.
+A Suprema Corte, no julgamento na Questão de Ordem na AP n. 937/RJ, pacificou o entendimento de que o foro por prerrogativa de função se aplicava apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas. Além disso, a competência para processar e julgar a ação penal somente seria mantida quando o agente público ocupasse outro cargo ou deixasse o cargo que ocupava se já tivesse sido finalizada a instrução processual (publicação do despacho de intimação para apresentação de alegações finais) - Plenário. AP n. 937 QO/RJ, relator Ministro Roberto Barroso, julgado em 3/5/2018.
+In casu, a conduta apurada na origem foi narrada pelo Ministério Público do Distrito Federal, nos seguintes termos (e-STJ fl. 33):
+Trata-se de Termo Circunstanciado que narra a prática, em tese, de eventuais crimes contra a honra em desfavor da deputada federal CELINA LEÃO HIZIM FERREIRA.
+Em suma, a ofendida aduz que estaria praticando atividade física em uma academia quando foi surpreendida com expressões contra sua honra subjetiva e objetiva, cuja autoria imputa a MAÍSA LUANA APARECIDA MAIA. As expressões assim foram noticiadas:
+Que a citada mulher passou a gritar que a declarante estaria envolvida com desvios de verbas e coisas do tipo. Que a ofensora se mostrou muito alterada e iniciou as ofensas sem qualquer provocação
+Que a ofensora evoluiu nas ofensas e passou a gritar que a declarante seria "ladra". Que a ofensora berrava para todas as pessoas da academia escutar. Que a declarante se sentiu ameaçada, pois a mulher demonstrou muita alteração emocional
+Por sua vez, o Membro do Ministério Público Federal atuante na origem esclareceu que, "na ocasião em que foi ouvida na Polícia Civil do Distrito Federal, a investigada confirmou que "então interpelou a deputada" o que deu na investigação que o MP indiciou a senhora por desvio de verba na saúde e educação ". Compulsando as redes abertas da internet é possível identificar matérias jornalísticas que informam que a referida parlamentar federal foi alvo da denominada "Operação Drácon", quando exercia o mandato de deputada distrital. Referida operação apurou suposto envolvimento da Mesa Diretora da CLDF - da qual a parlamentar fazia parte- em um esquema de uso indevido de emendas para supostamente desviar recursos em áreas como educação e saúde" (e-STJ fl. 41).
+Assim, ao que se tem dos autos, as supostas ofensas teriam relação com o mandato de deputada distrital e não guardam relação com o exercício do mandato parlamentar federal, o que afasta a competência da Justiça Federal para processar e julgar o feito.
+Corroborando essa conclusão, cita-se o seguinte julgado desta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E DISTRITAL. DIFAMAÇÃO. INJÚRIA QUALIFICADA. AMEAÇA. DEPUTADO FEDERAL. OFENSAS DIRIGIDAS EM FUNÇÃO DO CARGO POLÍTICO. NÃO OCORRÊNCIA. TRANSNACIONALIZAÇÃO DOS DELITOS. INEXISTÊNCIA. COMPETÊNCIA DO JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE BRASÍLIA-DF.
+1. Ameaças dirigidas a ex-deputado federal, à época no exercício do cargo, embora realizadas em seu correio eletrônico funcional - e-mail -, tinham a finalidade de intimidá-lo na oitiva como testemunha em processo cível reparatório de danos morais, sem relação com o desempenho de seu cargo e sem revelar prejuízos ao parlamento federal.
+2. O crime de ameaça objeto da investigação não foi exposto publicamente pela internet, mas tão consumado via e-mail, inexistindo, portanto, a transnacionalização do delito, como condição para a jurisdição federal. Precedentes.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Brasília-DF.
+(CC n. 164.450/DF, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 14/8/2019, DJe de 22/8/2019.)
+Com  base  nessas  considerações,  conheço  do  conflito  para  declarar  a  competência  do  Juízo suscitado (JUÍZO DE DIREITO DA 3A VARA DO JUIZADO ESPECIAL CRIMINAL DE BRASÍLIA - DF).
+Publique-se.  Comunique-se.
+EMENTA
