@@ -1,0 +1,111 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CELI BENACE e outros, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+"AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO COLETIVA. ASSOCIAÇÃO. GDIBGE. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. SÚMULAVINCULANTE 20. IMPLEMENTAÇÃO DOS CRITÉRIOS DE AVALIAÇÃO. INEXIGIBILIDADE DOTÍTULO. EXECUÇÃO EXTINTA DE OFÍCIO.
+1. Trata-se de Agravo de Instrumento contra decisão que, em cumprimento de sentença contra a Fazenda Pública, determinou "que esclareçam comprovadamente os exequentes, em 15 (quinze) dias, desde quando são membros da Associação Impetrante do writ coletivo".
+2. O título que embasa a presente execução foi formado nos autos do Mandado de Segurança Coletivo nº 2009.51.01.002254-6, impetrado pela DAPIBGE, em que restou decidido o pagamento da parcela GDIBGE aos associados da Impetrante.
+3. O título judicial formado naquele processo coletivo pautou-se na natureza genérica da Gratificação de Desempenho do Instituto Brasileiro de Geografia e Estatística (GDIBGE), instituída pela Lei nº11.355/2006, fazendo incidir a Súmula Vinculante nº 20.
+4. A Súmula Vinculante 20 fixou como termo final para pagamento paritário de gratificação de desempenho, a implementação dos critérios de avaliação de desempenho dos servidores em atividade.
+5. A referida avaliação foi implementada pelo Decreto 6.312/2007 e Resolução 11-A, de 20/06/2008, ou seja, a GDIBGE teve a sua regulamentação concluída a partir de julho de 2008, nada justificando a paridade entre os servidores ativos e inativos/pensionistas após esta data.
+6. Uma vez que o Mandado de Segurança Coletivo foi ajuizado em 2009, nada há de ser incorporado aos vencimentos do Exequentes, restando evidente a inexigibilidade do título.
+7. Recurso conhecido. Processo de Execução extinto de ofício" (fl. 869e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 883/898e), os quais foram solucionados nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DEIRREGULARIDADES. DECISÃO SURPRESA. INOCORRÊNCIA. IRRESIGNAÇÃO QUANTO AOMÉRITO. RECURSO DESPROVIDO.
+1. Examinada a petição dos embargos de declaração, nela não se contempla nenhuma das hipóteses de seu cabimento, insertas nos incisos do art. 1.022 do CPC/2015. Desse modo, não assiste razão à parte Embargante, pois seu recurso visa, tão somente, a impugnar o conteúdo da decisão e o posicionamento adotado.
+2. Quanto a decisão surpresa, o STJ já se manifestou no sentido de que "o "fundamento" ao qual se refere o art. 10 do CPC/2015 é fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure." (STJ, 4ª Turma, REsp 1.695.519-MG,Rel. Min. MARIA ISABEL GALLOTTI, DJe 29.03.2019).
+3. Os embargos de declaração não são a via hábil para a discussão do mérito da matéria impugnada.
+4. Recurso desprovido" (fl. 1.015e).
+Opostos Embargos Declaratórios nos Embargos Declaratórios (fls. 1.029/1.042e), foram eles parcialmente acolhidos, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. ERRO MATERIAL. OCORRÊNCIA. RECURSO PARCIALMENTE PROVIDO.
+1. Ao proferir o acórdão, o Tribunal cumpre o seu ofício jurisdicional, só podendo alterá-lo nos casos elencados no art. 494 do CPC/2015, vale dizer, nas hipóteses de embargos de declaração ou de correção de erros materiais.
+2. Examinados os autos, constata-se a existência de erro material no voto condutor do acórdão, ora embargado.
+3. Recurso parcialmente provido" (fl. 1.136e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 10, 11, 489, 502, 503, 508, 509, § 4º, 1.008 e 1.022, I e II, do CPC/2015, além dos arts. 467, 468, 474, 475-G, 475-L, II, § 1º, e 741, II, parágrafo único, do CPC/ 73.
+Para tanto, sustenta omissão do acórdão recorrido e, ainda, o que segue:
+"3.2) Desrespeito manifesto à decisão do STJ, que devolveu os autos à Corte Regional com o objeto recursal esgotado, sendo inviável tornar a pautar o recurso já julgado, com introdução de questão a ele estranha. Ofensa aos arts. 494 e 1.008 do CPC.
+Através dos aclaratórios de Evento 95, os recorrentes expressamente recordaram à Corte de origem que o objeto estrito do agravo de instrumento era a necessidade ou não de comprovação de filiação à época da propositura do mandado de segurança coletivo; e que os autos retornaram do STJ ao Tribunal de origem com o objeto esgotado, não cabendo novo julgamento do agravo já julgado, com exame de questão a ele estranha, sob pena de desrespeito à decisão do STJ.
+(..)
+Com efeito, como o julgamento proferido pelo STJ substitui a decisão regional (art. 1.008 do CPC), tendo ela apreciado o único objeto recursal (legitimidade ad causam), cabia à Corte de origem simplesmente dar baixa no agravo, para prosseguimento do feito, em cumprimento à decisão do STJ; e não pautar novamente um recurso já julgado, para extinguir o processo por objeto a ele estranho. A decisão só poderá ser alterada para lhe corrigir, de ofício ou a requerimento da parte, inexatidões materiais ou erros de cálculo, ou por meio de embargos de declaração (art. 494 do CPC).
+(..)
+3.3) Nulidade do v. acórdão recorrido, por cerceamento de defesa. Emprego de fundamento-surpresa, não debatido nos autos, em ofensa ao disposto no art. 10 e 933 do novo CPC.
+Embora no agravo de instrumento não estivesse em discussão a suposta inexigibilidade do título por pretensa ofensa à súmula vinculante n. 20/STF, o acórdão recorrido, em manifesto descumprimento à decisão do STJ, de ofício e sem prévia oitiva dos recorrentes, invocou tal matéria para extinguir a execução, no que incorreu em manifesto descumprimento das disposições do CPC que consagram a proibição da decisão-surpresa, in verbis:
+(..)
+ERRORES IN JUDICANDO
+Quanto às matérias de fundo, o acórdão recorrido incorreu igualmente em violação de disposições de lei federal, merecendo ser reformado por esse eg. Tribunal Superior, consoante se passa a expor.
+3.4) Não é possível que um título que concedeu a segurança seja interpretado no sentido diametralmente oposto, de sua denegação. Ofensa aos princípios que tutelam a coisa julgada. Contrariedade aos arts. 467, 468, 474 e 475-G do CPC/73, e arts. 11, 489, 502, 503, 508 e 509,§4º do CPC/2015.
+(..)
+Afigura-se inequívoco, pois, que o título transitado em julgado não considerou a regulamentação da gratificação e a implementação dos ciclos de avaliação, deduzidas na ação de conhecimento como defesa, fundamentos aptos a impedir a concessão da segurança. Ao aplicar a Súmula Vinculante n. 20/STF, a título lhe deu a interpretação que ela tinha à época, prestigiando a parte em que determinava a extensão de gratificações de cunho genérico aos inativos - sem cogitar de limitar dita extensão até a data da regulamentação, ou porque estava em jogo apenas a parcela institucional da vantagem, ou porque a causa petendi era inteiramente desvinculada da ausência de regulamentação, ou ainda porque esta constituísse limite à extensão a ordem teria sido denegada, no lugar de ser concedida.
+(..)
+3.5) O IBGE propôs ação rescisória do título, por suposta violação do art. 40, §8º da CF, e Súmula Vinculante n. 20/STF. Não é possível que o acórdão que julgou improcedente o pedido não tenha efeito, facultando-se a reabertura da discussão sobre a suposta violação aos mesmos parâmetros normativos. Ofensa aos princípios que tutelam a coisa julgada. Contrariedade aos arts. 467, 468, 474, 475-G, 475-L inciso II, §1º e art. 741, inciso II, parágrafo único, todos do CPC/1973, e arts. 502, 503, 508 e 509, § 4º do CPC/2015. Precedente do STF em caso idêntico referente ao mesmo título coletivo, no sentido da tese recursal.
+(..)
+Logo, afirmar a inexigibilidade do título à luz da Súmula Vinculante 20 significa a desconstituição não somente do título exequendo, em ofensa à coisa julgada, mas também da decisão prolatada na ação rescisória e igualmente transitada em julgado, aliás há mais de dois anos; e ainda da decisão proferida em embargos à execução coletiva do título, também transitada em julgado - o que, se admitido, resultaria na destruição pura e simples da coisa julgada, protegida pelos arts. 467, 468 e 474 do CPC/73, e 502, 503 e 508 do CPC, claramente vulnerados. Significa, ademais, ofensa direta, por má aplicação, aos arts. 475-L, inciso II, § 1º c/c art. 741, inciso II, parágrafo único, todos do CPC/1973 - em tese, pertinentes à hipótese em razão do disposto no art. 1.057 do CPC/2015.
+A alegação de inconstitucionalidade qualificada do título não pode servir de base para a desconstituição de acórdão que, em ação rescisória, afirmou justamente a inexistência da alegada inconstitucionalidade, o qual, por sua vez, também transitou em julgado.
+(..)
+O que se busca enfatizar, em suma, é que ao construir a doutrina da flexibilização da coisa julgada inconstitucional, o STF buscou estabelecer equilíbrio entre os valores da supremacia da Constituição e a garantia da coisa julgada. Admitir que se perpetuem discussões, instituindo uma lide sem fim, é abolir o último e, assim, afastar-se da própria jurisprudência da Corte Constitucional.
+(..)
+Ora, não há razão alguma de ordem jurídica ou institucional para estabelecer distinções ou discriminações quanto ao grau de eficácia entre juízos positivos ou negativos formulados pela Justiça sobre a compatibilidade das decisões judiciais com preceitos da Constituição. No caso dos autos, tanto o Tribunal de origem quanto o STF já se manifestaram, em ação rescisória e em agravo em recurso extraordinário na mesma ação, sobre a ausência de violação, pelo título exequendo, à Constituição e à Súmula Vinculante 20; não sendo viável, também por isso, a revisão do tema pelo acórdão recorrido.
+(..)
+3.6) A ação de mandado de segurança coletivonão alegou a falta de regulamentação da gratificação como causa de pedir. Novamente contrariedade aos arts. 475-L, inciso II,§ 1º c/c art. 741, inciso II, parágrafo único, todos do CPC/1973.
+(..)
+3.5) A ação de mandado de segurança coletivo, de um lado, não alegou a falta de regulamentação da gratificação como causa de pedir, e, de outro lado, questionou a constitucionalidade da MP 441, de 29 de agosto de 2008, convertida na Lei 11.907/2009 -posterior, portanto, aos atos regulamentares invocados pelo acórdão embargado. A Súmula Vinculante nº 20 cuidava da GDATA, gratificação diversa da GDIBGE. Novamente contrariedade aos arts. 475-L, inciso II,§ 1º c/c art. 741, inciso II, parágrafo único, todos do CPC/1973.
+(..)
+Logo, seja porque a ação de mandado de segurança coletivo tinha causa de pedir peculiar, que a distingue das demais ações que deram origem à SV 20/STF; seja porque dirá súmula aplicava-se originalmente à GDATA, e não à GDIBGE, não havia nenhum vício de inconstitucionalidade qualificado, a justificar o recurso ao mecanismo com eficácia rescisória do título, de aplicação excepcional, previsto no artigo 741, parágrafo único, e no art. 475-L, § 1º, ambos do CPC/73, sendo este mais um ponto em que restaram ofendidas as referidas disposições legais. " (fls. 1.198/1.221e).
+Por fim, requer o provimento do recurso.
+Contrarrazões, a fls. 1.237/1.243e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.250/1.251e).
+A irresignação merece prosperar.
+No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão:
+"Conforme a Súmula Vinculante nº 20, a extensão da gratificação aos inativos só é devida até que seja implementada pela Administração a avaliação de desempenho, isso porque a avaliação afasta o caráter genérico da gratificação, fazendo com que assuma caráter pro labore faciendo.
+Desse modo, após a regulamentação da avaliação, não mais se justifica a paridade, devendo a realização das avaliações de desempenho para fins de concessão da GDIBGE ser levada em consideração para a quantificação do valor devido. Verifico que o título formado nos autos daquela ação coletiva é inexigível à luz da Súmula Vinculante nº20:
+(..)
+Como exposto, a Súmula Vinculante 20 fixou como termo final para pagamento paritário de gratificação de desempenho, a implementação dos critérios de avaliação de desempenho dos servidores em atividade.
+A referida avaliação foi regulamentada e implementada pelo Decreto 6.312/2007 e Resolução 11-A, de20/06/2008, ou seja, a GDIBGE teve a sua regulamentação concluída a partir de julho de 2008, nada justificando a paridade entre os servidores ativos e inativos/pensionistas após esta data.
+Assim, uma vez que o Mandado de Segurança Coletivo foi ajuizado em 2009, nada há de ser incorporado aos vencimentos dos Exequentes, restando evidente a inexigibilidade do título" (fl. 867e).
+Contra o referido acórdão a parte recorrente opôs Embargos de Declaração a fim de provocar o Tribunal de origem a se manifestar sobre as seguintes questões:
+"1) Omissão em observar que o recurso foi julgado pelo STJ e simplesmente não comportava novo julgamento por essa Corte. Ofensa aos arts. 494 e 1008 do CPC.
+(..)
+O ponto é fundamental, porque naturalmente a omissão em apreciar a questão ora reiterada (e que devia ser examinada inclusive de ofício) resultou na reabertura do julgamento, com a consequente introdução, de ofício, de matéria estranha ao objeto recursal - o que não seria admissível se percebido que o agravo já estava julgado, nada havendo a fazer senão determinar a baixa do recurso, para cumprimento da decisão do STJ.
+(..)
+2) Matéria de ordem pública: decisão-surpresa, sem intimação da parte interessada. Arts.10 e 933 do CPC.
+(..)
+Fato é que o voto condutor do acórdão, novamente sem prévia oitiva das partes, introduziu matéria inteiramente estranha ao objeto do agravo. Como visto, o presente agravo de instrumento tratava, exclusivamente, sobre a necessidade de comprovação da data de filiação dos exequentes à Associação impetrante do writ coletivo. Não era objeto da irresignação recursal a discussão acerca da exigibilidade do título à luz da Súmula Vinculante 20.
+(..)
+3) Fundamentação que, ao pretender interpretar o título, se revela intrinsecamente contraditória, além de omissa. Ofensa aos preceitos constitucionais e legais que asseguram a proteção aos princípios da segurança jurídica e da coisa julgada. Prequestionamento dos arts. 5º,caput e XXXVI da CF, arts. 467, 468, 474 e 475-G do CPC/73, arts. 11, 489, 502, 503, 508 e 509,§ 4º do CPC/2015, e art. 14, § 4º da LMS.
+(..)
+4)Omissão em observar que a questão decidida pelo acórdão embargado já foi resolvida em ação rescisória do título, por acórdão prolatado pela Terceira Seção dessa Corte e confirmado em seus fundamentos pelo Supremo Tribunal Federal. Ofensa ao art. 5º, caput e XXXVI da CF, arts. 467,468, 474, 475-G,475-L, inciso II,§ 1º c/c art. 741, inciso II, parágrafo único, todos do CPC/1973, e arts. 502, 503, 508 e 509,§ 4º do CPC/2015.
+(..)
+Reitere-se o ponto, de suma relevância: não se trata de invocar a coisa julgada que protege o título para obstar o reexame de possível vício qualificado de inconstitucionalidade, por suposta ofensa a súmula vinculante editada em data anterior ao respectivo trânsito em julgado. Trata-se, isto sim, de reivindicar respeito à coisa julgada que protege o acórdão proferido em ação rescisória, em que já foi exarado juízo negativo de contrariedade do título à Constituição e à súmula vinculante n. 20/STF.
+Caso se admita a revisão do próprio juízo rescisório de compatibilidade entre o título e a Constituição, juízo este já coberto pela coisa soberanamente julgada, as lides não terão fim jamais, e estarão irremediavelmente comprometidos o princípio da segurança jurídica e a garantia da coisa julgada.
+(..)" (fls. 884/898e).
+Em sede de julgamento de Embargos de Declaração, assim decidiu o Tribunal de origem:
+"Examinada a petição dos embargos de declaração, constato que nela não se contempla nenhuma das hipóteses de seu cabimento, insertas nos incisos do art. 1.022 do CPC/2015.
+Desse modo, não assiste razão à parte Embargante, pois seu recurso visa tão somente a impugnar o conteúdo da decisão e o posicionamento adotado, rediscutindo a decisão desta Colenda Turma, expediente para o qual não se prestam os aclaratórios.
+Cumpre destacar que em sede de agravo de instrumento é cabível a apreciação de questão diversa da impugnada por força do efeito translativo do recurso, destaco precedente da Oitava Turma Especializada deste Tribunal:
+(..)
+Assim, a alegação de que a cognição desta Turma estaria adstrita à análise da legitimidade ativa não merece prosperar, devendo ser analisados o preenchimento das condições de prosseguimento da ação executória.
+O título judicial formado naquele processo coletivo pautou-se na natureza genérica da Gratificação de Desempenho do Instituto Brasileiro de Geografia e Estatística (GDIBGE), instituída pela Lei nº 11.355/2006, fazendo incidir a Súmula Vinculante nº 20.
+Conforme se extrai do voto condutor do agravo interno que confirmou a decisão monocrática que deferiu a segurança:
+(..)
+A alegação de que a questão da exigibilidade do título teria sido enfrentada em ação rescisória também não merece prosperar.
+Dentre outras alegações, na Ação Rescisória nº 0009758-54.2013.4.02.0000, o IBGE afirmou que:
+(..)
+Com tais alegações, pretendia a autarquia estabelecer distinção em relação aos fundamentos da Súmula Vinculante nº 20, afastando a sua aplicação.
+Ao analisar a feito rescisório, a C. Terceira Seção Especializada reafirmou a aplicabilidade da referida Súmula:
+(..)
+Observo que, ao contrário do que quer fazer crer a parte embargante, a decisão se ateve a reafirmar a aplicabilidade da referida Súmula Vinculante, não houve decisão acerca da inexigibilidade do título, por se entender que a matéria não foi objeto de decisão no processo originário:
+(..)
+Desse modo, a realização das avaliações de desempenho para fins de concessão da GDIBGE deve ser levada em consideração para a quantificação do valor devido e, uma vez constatada a regulamentação a partir de julho de 2008, a inexigibilidade do título se impõe.
+Quanto ao decisum proferido na execução da obrigação de fazer (processo nº 0008891-21.2012.4.02.5101), que teria afastado a tese de que a regulamentação da avaliação obstaria o alcance da condenação. Tal decisão foi proferida em sede de embargos, autuados por dependência à execução nº 0000870-56.2012.4.02.5101, sendo a alegação apreciada como incidente na decisão que rejeitou os embargos à execução.
+Verifico, ainda, a extinção da execução coletiva com a determinação de que a execução se desse individualizada tendo a magistrada sentenciante consignado que cabe "ao juízo da execução individual dirimir eventual dúvida acerca do alcance da coisa julgada com relação aos legitimados, bem como com relação ao cumprimento parcial da obrigação de fazer". Assim, não há falar em qualquer repercussão do citado decisum proferido nos embargos à execução, que, se já não vinculava os juízos das execuções individuais, deixou de ter qualquer relevância ante a extinção da própria execução coletiva.
+Ressalto que os embargos de declaração não são o recurso adequado para veicular eventual inconformismo com a interpretação dada às normas ou à apreciação dos fatos.
+Destaco que na decisão há menção aos preceitos constitucionais e legais necessários para resolução da presente lide, sendo que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para o proferir a decisão; (..) sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (STJ, Primeira Seção, EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI, DJe 15/06/16, unânime).
+Quanto à decisão surpresa, o fundamento a que se refere o art. 10 do CPC é o substrato fático que orienta o pedido e não o enquadramento jurídico atribuído pelas partes. Assim, o enquadramento jurídico adotado na decisão embargada não caracteriza julgamento surpresa"(fls. 1.011/1.014e).
+A parte propôs, então, novos Embargos de Declaração, em que aduziu o seguinte:
+"3.1) Erro material. Transcrição fragmento de voto proferido neste agravo de instrumento como se integrasse o voto proferido no título judicial que deferiu a segurança.
+(..)
+3.2) Nova fundamentação que, ao ignorar o pedido deduzido na ação rescisória e o decreto de improcedência que lhe seguiu, incorre igualmente em contradições e omissões. Ofensa aos preceitos constitucionais e legais que asseguram a proteção aos princípios da segurança jurídica e da coisa julgada. Prequestionamento dos arts. 5º, caput e XXXVI da CF, arts. 467, 468,473, 474, 475-G, 475-L, inciso II e § 1º, e 741,inciso II e parágrafo único, do CPC/73, e arts. 502, 503,507, 508 e 509,§ 4º do CPC/2015.
+(..)" (fls. 1.031/1.042e).
+Entretanto, o Tribunal a quo acolheu parcialmente os declaratórios, para corrigir trecho da transcrição do título exequendo, sem apreciar os demais questionamentos explicitados pela parte recorrente.
+Dessa maneira, tendo ocorrido omissã o acerca do exame de questão invocada, sendo inclusive opostos Aclaratórios na origem, apontando a referida omissão, furtando-se, o Tribunal de origem, mesmo assim, a se manifestar acerca do referido ponto, o qual possui patente relevância, a ponto de conduzir à modificação do julgado regional, somado à inexistência de outro fundamento autônomo, suficiente à manutenção do acórdão regional, impõe-se acolher a preliminar de violação do art. 1.022, II, do CPC/2015, para determinar o retorno dos autos para que seja sanada a omissão apontada.
+Ante o exposto, com fulcro no art. 255, § 4º, III, do RISTJ, dou provimento ao Recu rso Especial, a fim de anular o acórdão exarado no julgamento dos Aclaratórios, para que outro seja proferido em seu lugar, sanando as omissões apontadas.
+I.
+EMENTA
