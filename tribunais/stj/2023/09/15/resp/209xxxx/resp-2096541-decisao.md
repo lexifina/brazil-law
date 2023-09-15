@@ -1,0 +1,66 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por DERSA - DESENVOLVIMENTO RODOVIARIO S/A - EM LIQUIDACAO contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, em julgamento de apelação, assim ementado (fl. 370e):
+APELAÇÃO CÍVEL - Embargos de Terceiro  Declaração de utilidade pública do imóvel e posterior imissão na posse  Penhora do bem pela Municipalidade  Inexistência de registro imobiliário do decreto expropriatório e da imissão  Insubsistência da penhora  Impossibilidade, contudo, de se impor os ônus da sucumbência à Municipalidade  Aplicação do Princípio da Causalidade  Inteligência da Súmula 303 do STJ - Retificação da sentença apenas quanto aos ônus da sucumbência, os quais ficam invertidos  Recurso parcialmente provido.
+Opostos embargos de declaração por ambas as partes, foram rejeitados os da Recorrente, com aplicação de multa, e acolhidos os do Recorrido, nos termos da seguinte ementa (fl. 423e):
+EMBARGOS DE DECLARAÇÃO Omissão - Os embargos de declaração são destinados à supressão de eventuais irregularidades contidas na decisão e não à adequação desta ao interesse das partes - Embargante DERSA que não demonstrou existência de eventuais vícios que comprometessem a regularidade do v. acórdão Razões do inconformismo que denotam intenção de rediscutir a matéria e atribuir caráter infringente ao recurso Inadmissibilidade De outra parte, Embargos declaratórios opostos pela Municipalidade Honorários advocatícios Omissão quanto à aplicação dos §§ 3º e 11, ambos do art. 85 do NCPC - Embargos declaratórios da Municipalidade acolhidos e declaratórios com fins protelatórios opostos pela DERSA, aos quais se nega seguimento, com imposição de multa.
+Com amparo no art. 105, III, a e c, da Constituição da República, alega-se, além de divergência jurisprudencial, que "o v. acórdão recorrido contrariou e negou vigência aos artigos 492 e 1.026, § 2º do Código de Processo Civil, considerando que não houve pedido expresso da Municipalidade para reverter a verba sucumbencial, além de fixar a multa, violando o direito de defesa da Dersa" (fl. 439e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fls. 522/523e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, a e b, e 255, I e I, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da violação ao art. 492 do CPC/2015
+Segundo a Recorrente, o art. 492 do CPC/2015 foi violado pelo tribunal de origem, pois "não houve pedido expresso da Municipalidade para reverter a verba sucumbencial" (fl. 439e).
+Entretanto, o Colegiado local, ao julgar os embargos de declaração da Recorrente, consignou que (fl. 426e, destaquei):
+ ..  não há que se falar em julgamento "ultra petita", na medida em que a Municipalidade apelante requereu expressamente "a inversão do ônus sucumbencial, condenando à Apelada ao pagamento das custas, despesas processuais e honorários advocatícios (..)" (fls. 302).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. CONDIÇÃO DE BEM DE FAMÍLIA NÃO CONFIGURADA PERANTE A INSTÂNCIA ORDINÁRIA. IMPENHORABILIDADE AFASTADA. REVERSÃO DAS CONCLUSÕES DO ACÓRDÃO QUE IMPLICARIA, NECESSARIAMENTE, O REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A inversão do julgado a fim de reverter suas conclusões, implicaria, necessariamente, o reexame do acervo probatório dos autos, o que é defeso nesta Corte, a teor da Súmula 07/STJ.
+4. Agravo Regimental desprovido.
+(AgRg no AREsp n. 312.207/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/11/2014, DJe de 1/12/2014, destaquei.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. APLICAÇÃO DA SÚMULA 284/STF, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORABILIDADE. IMÓVEL NÃO CONSIDERADO BEM DE FAMÍLIA. PROVA INSUFICIENTE. REVISÃO DESSE ENTENDIMENTO. IMPOSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+9. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+ ..
+11. Agravo Interno não provido.
+(AgInt no AREsp n. 1.963.297/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 24/6/2022, destaquei.)
+- Da ofensa ao art. 1.026, § 2º , do CPC/2015
+Sustenta a Recorrente que opôs embargos de declaração com o nítido propósito de prequestiomento do art. 492 do CPC/2015, razão pela qual os mesmos não poderiam ser considerados protelatórios.
+Por outro lado, o tribunal de origem, soberano na análise dos elementos fáticos contidos nos autos, reconheceu o caráter protelatório dos embargos de declaração uma vez que, como já destacado, a Municipalidade, em suas razões de apelação, formulou pedido expresso de inversão do ônus sucumbencial.
+Aqui, novamente, impõe-se reconhecer que rever tal entendimento, com o objetivo de acolher a pretensão recursal e afastar a multa aplicada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PUBLICO. PUNIÇÃO ADMINISTRATIVA. PRAZO PRESCRICIONAL. ACÓRDÃO COM FUNDAMENTO INATACADO. SÚMULAS N. 283 E N. 284 DO STF. MULTA DO ART. 538 DO CPC. NÃO AFASTAMENTO. SÚMULA N. 7 DO STJ.
+ ..
+2. No caso, não se pode afastar a aplicação da multa do art. 538 do CPC, pois, considerando-se que "a pretensão de rediscussão da lide pela via dos embargos declaratórios, sem a demonstração de quaisquer dos vícios de sua norma de regência, é sabidamente inadequada, o que os torna protelatórios, a merecerem a multa prevista no artigo 538, parágrafo único, do CPC" (EDcl no AgRg no Ag 1115325/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 04/11/2011), não há como se rever a multa aplicada pelo Tribunal de origem, pois a aferição do caráter protelatório, no caso, depende do reexame fático-probatório (Súmula n. 7 do STJ), mormente à míngua de qualquer tese recursal que impugnasse o fato interruptivo descrito no acórdão a quo.
+3. Agravo regimental não provido.
+(AgRg no Ag 1418588/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/11/2012, DJe 30/11/2012)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MULTA. EMBARGOS DE DECLARAÇÃO. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. Destaco que, segundo a jurisprudência do STJ, "a pretensão de rediscussão da lide pela via dos embargos declaratórios, sem a demonstração de quaisquer dos vícios de sua norma de regência, é sabidamente inadequada, o que torna protelatórios, a merecerem a multa prevista no artigo 538, parágrafo único, do CPC".
+2. Reafirmo que modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático- probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+ ..
+4. Agravo Regimental não provido.
+(AgRg no AgRg no REsp 1319574/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/05/2014, DJe 18/06/2014)
+- Da divergência jurisprudencial
+Nesse cenário, impõe-se reconhecer que o exame do recurso especial pela divergência ficou prejudicado.
+Com efeito, é firme o posicionamento desta Corte segundo o qual os óbices os quais impedem a apreciação do recurso pela alínea a prejudicam a análise do recurso especial pela alínea c do permissivo constitucional como o demonstra o julgado assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE SERVIÇO PÚBLICO. AÇÃO CIVIL PÚBLICA. PRAZO PRESCRICIONAL. 5 ANOS. TERMO INICIAL: ENCERRAMENTO DO CONTRATO.RECURSO REGIDO PELA SISTEMÁTICA DO CPC/1973. HIPÓTESE EM QUE A QUESTÃO DA PRESCRIÇÃO NÃO FOI ANALISADA, MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. INEXISTÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE DISCUSSÃO E DECISÃO. AUSÊNCIA DE ALEGAÇÃO NO RECURSO ESPECIAL DE NULIDADE POR VIOLAÇÃO DO ART. 535 DO CPC/1973. INAFASTABILIDADE DA INCIDÊNCIA DA SÚMULA 211/STJ QUANTO AO TEMA. HIPÓTESE QUE PREJUDICA A ANÁLISE DA DIVERGÊNCIA SUSCITADA NO RECURSO ESPECIAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A caracterização do prequestionamento demanda a necessidade de discussão e decisão a respeito do tema jurídico, o que não ocorreu no caso dos autos. Impossibilidade de admissão do chamado prequestionamento ficto, caracterizado apenas pela mera oposição de Aclaratórios.
+Precedentes do STJ: AgInt no REsp. 1.248.586/SC, Rel. Min. SÉRGIO KUKINA, DJe 10.9.2018 e AgRg no REsp. 1.366.052/SP, Rel. Min.
+HUMBERTO MARTINS, DJe 19.2.2015, dentre outros.
+2. A aplicação de óbice de conhecimento quanto à ofensa legal, no tocante ao mesmo tema, prejudica a análise dada a divergência, conforme entendimento massificado deste STJ.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 1034418/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+- Dos honorários recursais
+No que tange aos honorários advocatícios recursais, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração dos honorários em 1% (um por cento) sobre o percentual fixado nas instâncias ordinárias.
+- Da conclusão
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial e majoro os honorários advocatícios em 1% (um por cento) sobre o percentual fixado nas instâncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
