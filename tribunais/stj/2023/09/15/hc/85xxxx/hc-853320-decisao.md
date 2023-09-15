@@ -1,0 +1,10 @@
+DECISÃO
+MARCOS ANTÔNIO THOCHI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0003106-92.2023.8.26.0509, em que foi cassada a decisão que "deferiu pedido de indulto formulado pelo agravado, com fundamentos nos artigos 5º e 7º, ambos do Decreto Presidencial nº 11.302/2022" (fl. 54).
+Assere a defesa que "não podemos ignorar que o Decreto 11.302/2022 não adotou a melhor técnica legislativa, havendo imprecisões conceituais em mais de um dispositivo do decreto, de modo que sua interpretação e aplicação tem se pautado inclusive em entendimentos firmados com base na praxis dos decretos de indulto anteriores" (fl. 4).
+Todavia, consoante asseverou o Tribunal local, "o total de pena do agravado excede o limite previsto no art. 5º do Decreto Presidencial nº 11.302/22, correto o pedido de cassação do indulto" (fls. 61, sublinhei).
+A esse respeito, urge consignar que " o  indulto, ato político, está previsto no art. 84, XII, da CF, e é privativo do Presidente da República. Vale dizer, tem por escopo extinguir os efeitos primários da condenação, isto é, a pena, de forma plena ou parcial (perfazendo a comutação).  ..  Como ato discricionário do Chefe do Poder Executivo, concedido por meio de decreto, o indulto é dirigido a apenados circunscritos às condições e situações específicas delineadas, cujos efeitos se irradiam por período de tempo estabelecido. Não restando preenchidos os requisitos, não há aplicar referido decreto" (HC n. 118.128/SC, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 20/10/2009, DJe de 16/11/2009, grifei.)
+No mesmo sentido:
+ ..  Tratando-se o indulto e a comutação de pena de atos discricionários do Presidente da República, cabe a este a definição da extensão do benefício, a teor do art. 84, XII, da Constituição Federal  ..  (HC n. 193.694/SP, relator Ministro Gurgel de Faria, Quinta Turma, DJe de 4/11/2014.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
