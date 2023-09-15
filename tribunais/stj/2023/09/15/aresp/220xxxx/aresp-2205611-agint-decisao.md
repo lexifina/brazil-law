@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interno interposto por ORGANIZAÇÃO SEBBA MATERIAIS PARA CONSSTRUÇÃO LTDA. e OUTRA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+Nas presentes razões, os agravantes defendem que impugnaram os fundamentos da decisão de admissibilidade.
+Por fim, requerem a reconsideração da decisão atacada ou que o feito seja submetido ao órgão julgador colegiado.
+Impugnação às fls. 208/212 (e-STJ).
+É o relatório.
+DECIDO.
+Considerando a manifestação do agravante, faz-se imperiosa a reconsideração da decisão de fls. 193/195 (e-STJ) e passa-se ao exame do recurso.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ORGANIZAÇÃO SEBBA MATERIAIS PARA CONSSTRUÇÃO LTDA. e OUTRA. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE VALORES. BACENJUD. VALOR IRRISÓRIO. LIBERAÇÃO. NÃO CABIMENTO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. RECURSO CONHECIDO E DESPROVIDO.
+1. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a irrisoriedade do valor penhorado, comparado ao total do crédito exequendo, não impede a sua penhora via BacenJud, tampouco justifica o seu desbloqueio (REsp 1646531/RJ, Relator(a) Ministro HERMAN BENJAMIN, Órgão Julgador: T2 - SEGUNDA TURMA, Data do Julgamento: 06/04/2017, Data da Publicação/Fonte DJe 27/04/2017).
+2. Na conduta dos executados, ora agravantes, não se vislumbra litigância de má-fé que justifique a aplicação de multa, tendo em conta se tratar de mera interposição de recurso para reformar provimento jurisdicional que entenderam desfavorável (EDcl noAgInt no AREsp 1125051/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 05/09/2018).
+3. Recurso conhecido e desprovido" (fl. 72 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 104 e-STJ).
+Nas razões do especial, os agravantes alegam violação dos arts. 489, § 1º, e 1.022 do Código de Processo Civil. Defendem, em síntese, que "o valor bloqueado na conta dos Recorrentes não será suficiente sequer para pagar de forma integral as custas iniciais do processo, motivo pelo qual deve ser imediatamente liberado" (fl. 123 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o tribunal de origem por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284/STF. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de que forma os dispositivos legais indicados teriam sido violados. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Ausente violação do princípio da não surpresa (art. 10 do CPC/2015) se o acórdão recorrido, adotando fundamentos jurídicos diversos dos apresentados pela parte, aplica a lei aos fatos narrados e às provas submetidas ao contraditório.
+6. Agravo interno não provido" (AgInt no REsp 1711584/TO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/08/2021, DJe 17/08/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/8/2017, DJe 25/8/2017).
+Ademais, a Corte de origem decidiu em consonância com a jurisprudência do STJ, segundo a qual a irrisoriedade do valor da execução frente ao valor total do crédito exequendo não é justificativa para impedir a penhora, porquanto tal requisito não foi previsto pelo legislador.
+Nesse sentido:
+"CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PENHORA DE RENDIMENTOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA CONCEDIDA NO CURSO DA EXECUÇÃO. EFEITOS EX-NUNC. JURISPRUDÊNCIA DOMINANTE DO STJ. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. INOCORRÊNCIA DE VIOLAÇÃO DOS ARTS. 98 E 99 DO NCPC. IMPERTINÊNCIA DELES PARA ACOLHIMENTO DE TESE TRAZIDA PELA RECORRENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. UTILIDADE PRÁTICA DO PROCESSO DE EXECUÇÃO. ART. 836 DO NCPC. NÃO PREQUESTIONADO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. NECESSIDADE DE ALEGAÇÃO DE OCORRÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO NCPC. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE OBSERVOU A JURISPRUDÊNCIA DESTA CORTE. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 278, 484, 783 DO NCPC. APLICAÇÃO DA SÚMULA Nº 211 DO STJ. PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). NECESSIDADE DE APONTAMENTO DE CONTRARIEDADE AO ART. 1.022 DO NCPC. INOVAÇÃO RECURSAL EM AGRAVO INTERNO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Ainda na linha da nossa jurisprudência, não se pode obstar a penhora a pretexto de que os valores penhorados são irrisórios, por isso não caracterizar uma das hipóteses de impenhorabilidade ("tal parâmetro não foi eleito pelo legislador como justificativa para a liberação do bem constrito" (REsp nº 1.825.053/PR, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 5/9/2019), e a irrisoriedade do valor penhorado em relação ao total da dívida executada não impede a sua penhora.
+Precedentes.
+(..)
+10. Agravo interno não provido" (AgInt no REsp 1.687.015/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/6/2020, DJe de 1/7/2020).
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL E EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO JUDICIAL. NOVAÇÃO. INCLUSÃO AUTOMÁTICO DOS ACESSÓRIOS. IMPOSSIBILIDADE. DISPOSIÇÃO LEGAL EXPRESSA. ART. 49, § 1º, DA LEI 11.101/05. ART. 835 DO CPC. ORDEM DA PENHORA. POSSÍVEL DESRESPEITO. EXPRESSA MENÇÃO À TENTATIVA FRUSTRADA DE EXECUÇÃO DO VALOR EM DINHEIRO. REVISÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7/STJ. ART. 833, X, DO CPC. IMPENHORABILIDADE DO VALOR EQUIVALENTE A 40 SALÁRIOS MÍNIMOS. PRESSUPOSTA A IMPOSSIBILIDADE DE ESTENDER A IMPENHORABILIDADE A OUTROS INVESTIMENTOS. PECULIARIDADES DO CASO CONCRETO. AUSÊNCIA DE PREQUESTIONAMENTO SOBRE A SITUAÇÃO EXCEPCIONAL CONSIDERADA. SÚMULAS 282 E 356/STF. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. EXCESSO DE EXECUÇÃO. BEM SUPOSTAMENTE FORA DO PATRIMÔNIO DO EXECUTADO. AUSÊNCIA DE LEGITIMIDADE PARA DEFENDER DIREITO DE TERCEIRO. TESE AUTÔNOMA, E NÃO CONTRADITADA. SÚMULA 283/STF. ART. 836 DO CPC. VALOR DIMINUTO DA PENHORA EM RELAÇÃO AO MONTANTE DA DÍVIDA. INVIABILIDADE DO PARÂMETRO PRETENDIDO. DESPROPORÇÃO QUE DEVE SER AVALIADA COM ENFOQUE NOS CUSTOS DA EXECUÇÃO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+7. A jurisprudência desta Corte Superior firmou a compreensão de que não é válido o desbloqueio do valor penhorado pelo Sistema BacenJud, em razão da só inexpressividade frente ao total da dívida. Precedentes.
+8. Agravo interno não provido" (AgInt no REsp 1.959.668/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 1/2/2022).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. BACENJUD.
+VALORES DE ATÉ 40 SALÁRIOS MÍNIMOS. REGRA DA IMPENHORABILIDADE NÃO
+ALCANÇA, EM REGRA, A PESSOA JURÍDICA. CASO DOS AUTOS. VALOR IRRISÓRIO.
+DESBLOQUEIO. NÃO CABIMENTO.
+(..)
+4. O acórdão recorrido consignou: "O Superior Tribunal de Justiça possui o entendimento de que a irrisoriedade do valor apurado em relação ao total da dívida não impede a penhora por meio de Bacenjud. Nesse sentido: (..) Ressalta-se, inclusive, que a penhora somente poderia ser dispensada se o valor obtido não satisfizesse sequer as custas de execução da medida, ou mesmo as custas processuais, nos termos do art. 836, caput, do CPC. Todavia, essa disposição não se aplica ao caso dos autos, seja porque a União é isenta de custas processuais, seja porque o bloqueio de valores via sistema Bacenjud nada despende, de modo que todo o montante encontrado na conta bancária do executado serve ao abatimento do débito. (TRF4, AgRg em AI n. 5011143-63.2011.404.0000/RS, publ. em 01/09/2011; REsp n. 1.187.161/MG, Primeira Turma, publ. em 19/08/2010). (..) Quanto à
+alegação de que os valores bloqueados representam menos de 40 salários mínimos e seriam impenhoráveis, a jurisprudência desta Corte indica que o preceito não socorre a pessoas jurídicas (..)" (fls. 38-39, e-STJ).
+5. A impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017).
+6. Conforme já assentado na decisão monocrática, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que não se pode obstar a penhora on-line pelo sistema Bacenjud a pretexto de que os valores bloqueados seriam irrisórios.
+7. Agravo Interno não provido" (AgInt no REsp 1.914.793/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/6/2021, DJe de 1/7/2021).
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ON LINE, VIA BACENJUD. ACÓRDÃO QUE DETERMINA O DESBLOQUEIO DOS VALORES, A PRETEXTO DE QUE IRRISÓRIOS. IMPERTINÊNCIA. PRECEDENTES.
+1. A jurisprudência desta Corte é no sentido de que não é válido o desbloqueio do valor penhorado pelo Sistema BACenJud, em razão da só inexpressividade do montante em face do total da dívida. Precedentes: AgRg no AREsp 826.651/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/4/2016; AgRg no REsp 1.528.914/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/9/2015; AgRg no REsp 1.383.159/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2013.
+2. Agravo interno não provido" (AgInt no REsp 1.875.338/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/2/2021, DJe de 11/2/2021).
+Incide no ponto, o óbice da Súmula nº 568/STJ.
+Ante do exposto, reconsidero a decisão de fls. 193/195 (e-STJ), tornando-a sem efeito, para conhecer do agravo para conhecer do recurso especial e negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
