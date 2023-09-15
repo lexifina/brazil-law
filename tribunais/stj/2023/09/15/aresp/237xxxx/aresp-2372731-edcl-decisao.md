@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JACIRA AMARAL MEDEIROS PADEIRO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que a "decisão embargada, conquanto perfeita no reconhecimento da inadmissibilidade do recurso, com o máximo respeito, foi omissa na análise do pedido de que seja reconhecida a litigância de má-fé" (fl. 1897).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+As partes embargadas foram devidamente intimadas para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em relação à eventual ocorrência da litigância de má-fé, impende destacar que esta Corte possui o entendimento da "impossibilidade de se apreciar a presença de litigância de má-fé, sugerida em contrarazões pois não há como, por meio da referida via processual, piorar a situação da recorrente" (Aresp 571705, Relator Ministro Paulo de Tarso Sanseverino, 02/06/2016), servindo tal peça processual "apenas para impugnar os fundamentos de eventual recurso interposto, com o intuito de manutenção da decisão exarada" (AgInt no REsp 1591925/RS, Relator Ministro Luis Felipe Salomão, 15/03/2018).
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
