@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo regimental interposto por WELLINGTON FERREIRA DA SILVA contra decisão da Presidência desta Corte Superior que não conheceu de agravo em recurso especial devido à intempestividade do recurso (fls. 202-203).
+Nas razões do agravo regimental, a Defesa argumenta que a intimação correta quanto à decisão que inadmitiu o recurso especial somente ocorreu em 06/03/2023, motivo pelo qual seria tempestivo o agravo interposto em 20/03/2023.
+O Ministério Público Federal opinou pelo desprovimento do agravo regimental mantendo-se a decisão agravada (fls. 238-244).
+É o relatório. Decido.
+No caso, verifico que a publicação de fl. 172 foi promovida em nome de advogado sem procuração nos autos, razão pela qual não pode ser tomada como termo inicial do prazo recursal. De fato, a Defesa constituída por procuração (fl. 164) somente foi intimada nos autos pela publicação ocorrida em 03/03/2023 (sexta-feira - fl. 178), iniciando-se o prazo recursal em 06/03/2023 (segunda-feira), de modo que é tempestivo o agravo em recurso especial protocolizado em 20/03/2023 (fl. 186).
+Desse modo, reconsidero a decisão agravada para reconhecer a tempestividade do agravo em recurso especial defensivo.
+Porém, o agravo em recurso especial não reúne condições de admissibilidade, pois não foram concretamente impugnados todos os fundamentos da decisão agravada.
+No caso, a Corte de origem não admitiu o recurso especial devido à incidência da Súmula n. 7/STJ, destacando-se que a análise do pedido de absolvição exigiria que esta Corte Superior rediscutisse os fatos e provas que fundamentam a condenação.
+Nas razões do agravo contra essa decisão, o Agravante não impugnou satisfatoriamente este fundamento. Ao revés, alegou genericamente que o caso não demandaria nova discussão probatória, porém não demonstrou como seria possível, sem amplo reexame das provas, em especial as declarações prestadas em juízo e a prova pericial, modificar a conclusão do Tribunal de origem acerca da comprovação da autoria e da materialidade delitivas.
+Como se sabe, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 09/03/2021, DJe 12/03/2021).
+No mesmo sentido:
+" ..
+5. Relativamente à Súmula 7/STJ, mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+ .. " (AgRg nos EDcl no AREsp 1.856.037/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF/ 1.ª REGIÃO), SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021, sem grifos no original.)
+Em razão de o Agravante não ter rebatido concretamente todos os fundamentos empregados pela decisão agravada, não é possível o conhecimento do agravo, conforme se extrai da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que a decisão que inadmite o recurso especial é incindível e deve ser impugnada em sua integralidade, razão pela qual a ausência de impugnação adequada de qualquer um dos fundamentos nela constantes implica o não conhecimento de todas as teses suscitadas no recurso (EAREsp n. 701.404/SC, Rel. para acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018).
+Ante o exposto, RECONSIDERO a decisão agravada. Todavia, por fundamento diverso, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEROCESSUAL PENAL. LESÃO CORPORAL. DESCUMPRIMENTO DE MEDIDA PROTETIVA. INTEMPESTIVIDADE. NÃO OCORRÊNCIA. DECISÃO RECONSIDERADA. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
