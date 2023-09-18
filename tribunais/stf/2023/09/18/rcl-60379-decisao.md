@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido liminar, proposta pelo Município de Arujá, em face de decisão do Tribunal Superior do Trabalho, nos autos do Processo 1000736- 13.2020.5.02.0521.
+
+     Na petição inicial, o Estado reclamante alega, em síntese, que o acórdão reclamado teria descumprido a orientação firmada por esta Corte no RE-RG 760.931 (tema 246), paradigma da repercussão geral, bem como violado o entendimento proferido no âmbito da ADC 16, pois foi condenado subsidiariamente, sem averiguação de culpa, ao pagamento de verbas trabalhistas.
+
+    Nesses termos, argumenta que “[a] responsabilidade subsidiária do ente público, portanto, encontra-se embasada exclusivamente na ausência de prova da fiscalização do contrato de terceirização. De modo que foi violada a tese jurídica firmada na ADC 16, Rel. Min. Cezar Peluso, à luz da interpretação que lhe foi dada no RE 760.931, quais sejam: (i) o mero inadimplemento das obrigações trabalhistas pelo contratado não atrai a responsabilidade do poder público contratante; (ii) para que se configure a responsabilidade subsidiária da Administração Pública é necessária a comprovação inequívoca de sua conduta culposa e causadora de dano aos empregados do contratado; e (iii) é indevida a inversão do ônus da prova ou a presunção de culpa”. (eDOC 1, pp. 9-10 - ID: cdb6a7de)
+
+    Requer, assim, a concessão de medida liminar para suspender os efeitos da decisão reclamada e, ao final, a cassação do ato.
+
+    A autoridade reclamada prestou informações. (eDOC 17 - ID: 92a8e848)
+
+    Citado, o beneficiário deixou de apresentar contestação, consoante certificado no eDOC 20 (ID: b6d77932).
+
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento da reclamação, nos termos do parecer assim ementado:
+
+    “RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA E DE VIOLAÇÃO DA AUTORIDADE DAS DECISÕES DO RE 760.931/DF E ADC 16. INOCORRÊNCIA. EFEITO SUBSTITUTIVO DA EFICÁCIA DA DECISÃO PROFERIDA NA ADC 16/DF. NECESSIDADE DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO DE RECLAMAÇÃO CONSTITUCIONAL PARA ANÁLISE DE REQUISITOS DE ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIA DE OUTROS TRIBUNAIS. INVIABILIDADE. AUSÊNCIA DE ADERÊNCIA ESTRITA. NÃO CONHECIMENTO. 1. A partir de 2.5.2017, data da publicação do acórdão do RE 760.931/DF (Rel. Min. Luiz Fux), em que se firmou tese jurídica do Tema 246 de Repercussão Geral, essa substituiu a eficácia vinculante do julgado da ADC 16/DF, passando a reclamação a submeter-se ao requisito do esgotamento das vias ordinárias, sob pena de não conhecimento (art. 988, § 5º, II, do CPC/2015). Precedentes. 2. A reclamação não se presta a substituir recurso específico previsto pela legislação e adequado a impugnar a decisão judicial que se pretende cassar por via oblíqua e per saltum. 3. A reclamação constitucional não se presta à análise, pelo STF, de requisitos de admissibilidade de recursos de competência de outros tribunais. 4. Não há aderência estrita entre a decisão reclamada, que trata de requisito de admissibilidade de recurso de revista, e os acórdãos proferidos na ADC 16/DF e no RE 760.931/DF (Tema 246 da Repercussão Geral), no sentido da impossibilidade de responsabilização subsidiária automática do poder público, pelo inadimplemento dos direitos trabalhistas pela empresa contratada. — Parecer pelo não conhecimento da reclamação”. (eDOC 22 - ID: 4cb91684)
+
+    É o relatório. Decido.
+
+    Rememoro que a reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    Quanto à questão de fundo, convém ressaltar que o Plenário deste Supremo Tribunal Federal, no julgamento da Ação Declaratória de Constitucionalidade 16, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 9.9.2011, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais ou comerciais.
+
+    Posteriormente a esse julgamento, o Tribunal Superior do Trabalho deu nova redação à Súmula 331 daquela Corte, para fazer constar que o inadimplemento das obrigações trabalhistas, por parte do empregador, implica a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta em determinados casos.
+
+    Em sequência, este Supremo Tribunal Federal reconheceu, então, a existência de repercussão geral da matéria, nos autos do RE-RG 760.931 (tema 246), que substituiu o RE-RG 603.397, Rel. Min. Rosa Weber.
+
+    Por ocasião do julgamento de mérito do citado paradigma, o Pleno desta Corte, ao dar parcial provimento ao recurso da União, confirmou o entendimento adotado na ADC 16, no sentido de proibir a responsabilização automática da Administração Pública, só cabendo condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na fiscalização dos contratos.
+
+    Nesses termos, para que haja a responsabilização do ente público é necessário que se comprove cabalmente nos autos o comportamento reiteradamente negligente da Administração, bem como o nexo causal entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador.
+
+    Assim, é imprescindível a comprovação do conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la.
+
+    Nesse sentido, cito os seguintes julgados:
+
+    “DIREITO DO TRABALHO E ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. ART. 71, § 1º, DA LEI Nº 8.666/1993. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO POR DÍVIDAS TRABALHISTAS EM CASO DE TERCEIRIZAÇÃO. 1. O Supremo Tribunal Federal firmou, no julgamento do RE 760.931, Red. p/o acórdão o Min. Luiz Fux, a seguinte tese: ‘O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93. 2.Nesse contexto, a responsabilização do ente público depende da demonstração de que ele possuía conhecimento da situação de ilegalidade e que, apesar disso, deixou de adotar as medidas necessárias para combatê-la. 3. A responsabilidade subsidiária do ente público encontra-se embasada exclusivamente na ausência de prova da fiscalização do contrato de terceirização. De modo que foi violada a tese jurídica firmada na ADC 16, Rel. Min. Cezar Peluso, à luz da interpretação que lhe foi dada no RE 760.931, Red. p/o acórdão o Min. Luiz Fux. 4. Inaplicável, na espécie, a exigência de esgotamento das instâncias ordinárias, prevista art. 988, §5º, II, do CPC/2015, por se tratar de reclamação ajuizada por afronta à ADC 16 e anterior à conclusão do julgamento do tema 246 da repercussão geral. Precedentes. 5. Agravo interno desprovido”. (Rcl 26.819 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 23.6.2020; grifo nosso)
+
+    “DIREITO DO TRABALHO E ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO POR DÍVIDAS TRABALHISTAS EM CASO DE TERCEIRIZAÇÃO. 1. O Supremo Tribunal Federal firmou, no julgamento do RE 760.931, redator para acórdão o Ministro Luiz Fux, a seguinte tese: ‘O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’ (Tema 246 da repercussão geral). 2. A responsabilização do ente público depende da demonstração de que ele possuía conhecimento da situação de ilegalidade e que, apesar disso, deixou de adotar as medidas necessárias para combatê-la. Precedentes: Rcls 36.958-AgR e 40.652-AgR, Primeira Turma. 3. A responsabilidade subsidiária do ente público ora agravado encontra-se amparada exclusivamente na (i) na ausência de comprovação, pela Administração, da fiscalização e (ii) na presunção de ineficiência da fiscalização pelo fato de ter havido o inadimplemento de obrigações trabalhistas. De modo que foi violada a tese jurídica firmada na ADC 16, Rel. Min. Cezar Peluso, à luz da interpretação que lhe foi dada no RE 760.931, Redator p/o acórdão o Ministro Luiz Fux. 4. Agravo interno a que se nega provimento”. (Rcl 56.579 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 30.3.2023; grifos nossos)
+
+    No presente caso, verifico que, na espécie, o Juízo de origem consignou a responsabilidade subsidiária do ente público por reconhecer, a partir da prova dos autos, a falha na fiscalização do cumprimento do contrato, ressaltando a ocorrência de fraude constatada através de investigação criminal, da qual decorreu a prisão do sócio-administrador da empresa contratada e do Vice-Prefeito do Município reclamante. Nesse sentido, extrai-se o seguinte trecho da decisão proferida pelo TRT da 2º Região, integralmente mantida pelo TST:
+
+    “(...) imperioso ressaltar que a ruptura contratual entre as reclamadas (Id. 38f8aa8 - Pág. 6) ocorreu posteriormente ao término do vínculo de emprego do autor com a primeira reclamada, o que revela a inércia do ente público em evitar o inadimplemento das verbas rescisórias devidas ao autor, notadamente porque não há nos autos nenhuma demonstração no sentido de que os valores devidos pela prestação de serviços foram retidos ou deixaram de ser pagos, a fim de minimizar o prejuízo do trabalhador.
+
+    Por fim, conforme brilhantemente diligenciado e fundamentado pelo MM. Juízo de origem, no caso dos autos houve ‘ampla divulgação na mídia nacional, cujos links estão citados abaixo para consulta, a 1ª reclamada (Center Leste) está sob intensa investigação criminal decorrente da Operação Soldi Sporchi - dinheiro sujo, em italiano, por envolvimento com conhecida organização criminosa atuante no Estado de São Paulo, para lavagem de dinheiro e fraude à licitação, via superfaturamento de contrato administrativo celebrado com a Administração pública municipal desta comarca, em conluio com o vice-prefeito do Município de Arujá. O resultado das investigações criminais acarretou a prisão do sócio administrador da 1ª ré e do vice-prefeito do Município, ocasionando o encerramento das atividades da empresa Center Leste na comarca, com a dispensa em massa de seus empregados, sem a quitação das verbas contratuais e rescisórias devidas’, Id. bd599fe - Pág.634 do pdf.
+
+    Assim, além de evidenciada a contratação fraudulenta do ente público com empresa claramente inidônea (culpa in eligendo), emerge inquestionável a falta de fiscalização no cumprimento do contrato (culpa in vigilando), sendo certo que, a teor da Súmula 331, V do TST, o ente público está sujeito à responsabilização subsidiária quando atua como tomador dos serviços, não constituindo óbice ao § 6º, art. 37 ou desrespeito ao §2º do art. 102 da Carta Magna e não havendo também que se falar em violação ao § 1º, art. 71 da Lei 8.666/93, por ora ainda vigente”. (eDOC 9, p. 428 - ID: 66178fcf; grifo nosso)
+
+    Ora, não se verifica desacordo entre o ato reclamado e o decidido nos julgamentos do RE-RG 760.931 (tema 246), paradigma da repercussão geral, e da ADC 16, de modo que não há como se concluir pela alegada violação.
+
+    Ante o exposto, nego seguimento à reclamação e julgo prejudicado o pedido liminar (art. 21, § 1º, RISTF).
+
+    Publique-se.
+
+    Brasília, 18 de setembro de 2023.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
