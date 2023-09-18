@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interno interposto por BRADESCO SAÚDE S.A. contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 356-360):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REQUISITOS PARA CONFIGURAÇÃO DO PREQUESTIONAMENTO FICTO NÃO PREENCHIDOS. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS ARGUMENTOS. REGULARIDADE DO JULGAMENTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Irresignada, a agravante reitera as razões do recurso especial, afirmando que a decisão recorrida teria se equivocado ao entender que não houve violação ao art. 1.022 do Código de Processo Civil de 2015, pois seria evidente que, mesmo após a oposição de embargos de declaração, persistiu a omissão no tocante ao argumento de que a recorrente não mais comercializa apólices individuais.
+Alega que os artigos tidos por violados teriam sido prequestionados, visto que o prequestionamento é, na realidade, a presença ou não da questão legal controvertida na decisão e que o debate em si teria sido levado para apreciação da instância ordinária.
+Sustenta que, apesar da decisão agravada entender pela inexistência de julgamento extra petita, este teria ocorrido.
+Impugnação não apresentada, conforme certificado à fl. 384 (e-STJ).
+Brevemente relatado, decido.
+Conforme asseverado na decisão agravada, a jurisprudência deste Tribunal Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso em apreço, o Tribunal de Justiça do Estado de São Paulo, ao dirimir a lide, expressamente asseverou (e-STJ, fls. 270-273):
+Trata-se de ação ajuizada objetivando a manutenção no plano de saúde nas mesmas condições de quando o autor ainda era funcionário da ativa.
+Ocorre que a apelante comprovou nos autos a extinção do plano coletivo empresarial mantido com a ex-empregadora do autor, o que inviabiliza a sua permanência no plano coletivo.
+(..)
+Assim, o direito do autor será restringido à portabilidade e isenção de prazo de carência, nos termos da Resolução nº 19, do Conselho de Saúde Suplementar (CONSU), que dispõe sobre a absorção do universo de consumidores pelas operadoras de planos ou seguros de assistência à saúde que operam ou administram planos coletivos que vierem a ser liquidados ou encerrados:
+(..)
+Portanto, caberá à ré apelante a oferta de plano familiar/individual ao autor, de acordo com as normas de regência.
+Ademais, quando do julgamento dos embargos de declaração opostos, complementou (e-STJ, fls. 316-318):
+No caso em tela, afasta-se a alegação do acórdão recorrido ser extra petita. A imposição à ré ora embargante de manutenção do autor em plano de saúde individual ou familiar se mostra adequadamente fundamentada(i) na extinção do plano coletivo empresarial, mantido entre a embargante e a ex-empregadora, inviabilizando a permanência do autor no plano coletivo, e (ii) no artigo 1ª da Resolução nº 19 do CONSU e na jurisprudência desta colenda Câmara, como se extrai das fls. 270/273.
+Assim, embora não pleiteada pela apelante a manutenção do autor em plano de saúde individual ou familiar, ela se faz devida em decorrência lógica das circunstâncias de fato e de direito.
+Consequentemente, ao (i) julgar improcedentes os pedidos do autor, (ii) determinar sua inclusão em plano diverso daquele de quando empregado junto a embargada e (iii) restringir o direito do autor à portabilidade e isenção de prazo de carência, o acórdão recorrido, embora não tenha citado expressamente a tese do recurso especial repetitivo nº 1.818.487/SP (Tema nº 1.034/STJ), abaixo em destaque, se encontra em consonante com ela.
+(..)
+Tampouco identificam-se máculas do acórdão recorrido aos dispositivos do Código Civil e da Lei nº 9.961/2000. Tal decisão colegiada está regularmente fundamentada tanto em preceitos legais, quanto em jurisprudência.
+Destaca-se que a decisão proferida resulta da inteligência dos artigos de lei nela mencionados, e não de sua inobservância, o que identifica perfeitamente o caráter infringente dos embargos.
+Da análise dos trechos referidos, nota-se que o Tribunal originário, com base nas provas produzidas, resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Destarte, tendo o TJSP motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que o Tribunal a quo não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ela deduzida.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe de 26/08/2021)
+No entanto, acerca da alegação de que houve o prequestionamento dos arts. 1º e 4º, VII, XI e XXIII, da Lei n. 9.961/2000, tidos por violados, percebe-se que assiste razão à parte ora insurgente, tendo em vista o debate do tema objeto dos referidos dispositivos pelas instâncias ordinárias. Destarte, supero, no ponto, o óbice da Súmula n. 211/STJ e passo à análise da questão.
+Nos termos da jurisprudência desta Corte Superior, a operadora de plano de saúde que apenas comercializa apólices coletivas não pode ser obrigada a oferecer plano de saúde na modalidade individual ou familiar a usuário de plano coletivo extinto.
+Oportunamente:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. POSSIBILIDADE. NOTIFICAÇÃO PRÉVIA. NÃO OCORRÊNCIA. REEXAME. SÚMULA Nº 7/STJ. PLANO INDIVIDUAL. MIGRAÇÃO. IMPOSSIBILIDADE. MODALIDADE. NÃO COMERCIALIZAÇÃO.
+(..)
+3. A operadora não pode ser obrigada a oferecer plano individual a usuário de plano coletivo extinto se ela não disponibiliza no mercado tal modalidade contratual (arts. 1º e 3º da Resolução-CONSU nº 19/1999). Inaplicabilidade, por analogia, da regra do art. 30 da Lei nº 9.656/1998.
+(..)
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.017.300/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022.)
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO DO CONTRATO ENTRE EMPREGADORA ESTIPULANTE E OPERADORA. MIGRAÇÃO. PLANO INDIVIDUAL. MODALIDADE NÃO COMERCIALIZADA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Esta Corte Superior, no julgamento do REsp 1.924.526/PE (DJe de 3/8/2021), firmou o entendimento de que a migração de empregados e ex-empregados para planos individuais ou familiares, sem o cumprimento de carência, deve ser permitida desde que a operadora comercialize tais planos. Além disso, ficou consolidado que a operadora não está obrigada a oferecer plano individual a usuário de plano coletivo extinto, se a modalidade não é por ela comercializada.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.025.044/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 4/10/2022.)
+Na espécie, contudo, verifica-se que a Corte estadual considerou irrelevante o fato de a ora insurgente não comercializar planos individuais ou familiares, concluindo pela necessidade de inclusão da parte adversa, excluída de contrato coletivo de seguro saúde, em plano de saúde na modalidade individual.
+Dessa forma, por estar o acórdão recorrido em dissonância ao entendimento do Superior Tribunal de Justiça, de rigor a sua reforma para afastar a obrigatoriedade de oferecimento de plano de saúde individual substitutivo do coletivo.
+Por fim, fica prejudicada a análise da alegação de que teria havido julgamento extra petita, tendo em vista a reforma da decisão do Tribunal a quo.
+Ante o exposto, conheço do agravo, em juízo de retratação, para tornar sem efeito a decisão de fls. 356-360 (e-STJ) e dar parcial provimento ao recurso especial, a fim de afastar a obrigatoriedade de oferecimento do plano de saúde individual substitutivo do coletivo.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA ANTERIORMENTE PROFERIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. PLANO DE SAÚDE COLETIVO. EXTINÇÃO. PLANO INDIVIDUAL. NÃO COMERCIALIZAÇÃO. AUSÊNCIA DE OBRIGATORIEDADE DE MIGRAÇÃO. PRECEDENTES. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
