@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ABRAO MORAES PEREIRA FILHO e OUTROS à decisão de fls. 540/541, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O erro de fato reside na data inicial do prazo para interposição do Recurso Especial de fls. 309/342 e-STJ considerada por Vossa Excelência, a despeito de anterior oposição de embargos declaratórios em 15/09/2022, conforme acórdão de fls. 280/285 e-STJ, com certidão de publicação às fls. 286 e-STJ (em 26/10/2022). A autuação desordenada do acórdão dos embargos de declaração promovido pelo Tribunal de origem, cujo regimento determina o processamento de tal recurso em processo apenso aos autos da apelação, causou o equívoco da decisão ora objurgada, como adiante demonstrado (fl. 546).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que a publicação do acórdão recorrido ocorreu no dia 26/10/2022 (fl. 286) e não no dia 08/9/2022 como consta na decisão embargada.
+No entanto, o recurso especial permanece intempestivo.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 25/10/2022, considerando-se publicada em 26/10/2022 (fl. 286) Excluindo-se o dia 26/10/2022 (primeiro dia), inicia-se a contagem no dia 27/10/2022 até o dia 1/11/2022. Exclui-se da contagem o feriado nacional de 2/11/2022. Após, a contagem é reiniciada no dia 3/11/2022 até o dia 14/11/2022. Excluindo o feriado nacional de 15/11/2022, a contagem é reiniciada em 16/11/2022, finalizando o prazo em 18/11/2022.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 18/11/2022, sendo que o recurso especial foi interposto somente em 21/11/2022, fora do prazo.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material verificado na decisão de fls. 540/541, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
