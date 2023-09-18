@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Luiz Paulo Pessoa dos Santos, em que se aponta como autoridade coatora a Quarta Câmara Criminal de Recife, que denegou a ordem no Habeas Corpus n. 0000293-07.2022.8.17.9004, mantendo a prisão preventiva do paciente imposta pelo Juízo da 1ª Vara Criminal da comarca de Paulista/PE, pela suposta prática do crime de feminicídio, na forma tentada.
+Neste writ, sustenta-se excesso de prazo na formação da culpa, bem como a ausência de fundamentação concreta a justificar a medida constritiva.
+Requer-se, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Busca o impetrante a revogação da prisão preventiva, seja pelo excesso de prazo, seja porque carece de fundamentação concreta a justificar a medida.
+No prime iro ponto, excesso de prazo, este habeas corpus, nem sequer merece ser conhecido; isso porque verifico que não houve debate dessa insurgência pelas instâncias ordinárias, incorrendo, aqui e agora, sua análise, em indevida supressão de instância.
+Quanto à necessidade da prisão preventiva, destacou o Tribunal de Justiça (fl. 28):
+ ..  Como se percebe, o decreto preventivo se mostrou muito bem fundamentado na garantia da ordem pública, da instrução processual e para garantir a aplicação da lei penal. Tem-se que a vítima é uma adolescente, as agressões também colocaram em risco o filho menor do casal de apenas 3 meses de idade na época.
+Também há depoimentos no sentido de que o paciente ameaçou de morte a irmã da vítima, bem como ser uma pessoa agressiva, tendo um relacionamento conturbado e violento com a adolescente. Somado ainda ao fato de que o acusado, após o cometimento do delito, evadiu-se do distrito da culpa, juntamente com a vítima, que embora tenha mudado o seu depoimento, este claramente não encontra consonância com as demais declarações contidas nos autos.
+Assim, não há que se falar em constrangimento ilegal por ausência de fundamentação do decreto de prisão preventiva do paciente, haja vista estar devidamente fundamentado na garantia da ordem pública em face do risco social e reiteração criminosa. Com efeito, o juízo de primeira instância sentiu-se satisfatoriamente convencido acerca da necessidade de decretação da medida, tendo fundamentado sua decisão de forma suficiente, e ninguém melhor que o juízo da causa para aferir essas circunstâncias, tendo em vista que convive na localidade do crime e tem acesso direto às testemunhas e réus.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Em relação ao periculum libertatis, a gravidade da conduta, bem como a fuga do distrito da culpa demonstram a indispensabilidade da custódia cautelar para garantir a ordem pública e a aplicação da lei penal, não havendo manifesta ilegalidade (AgRg no RHC n. 164.660/SE, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Sexta Turma, DJe 10/2/2023).
+Ausente constrangimento ilegal a ser sanado nesta via.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FEMINICÍDIO. TENTATIVA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIAS. FUNDAMENTAÇÃO PARA A MEDIDA PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. APLICAÇÃO DA LEI PENAL. GRAVIDADE CONCRETA DA CONDUTA. EVASÃO DO DISTRITO DE CULPA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
