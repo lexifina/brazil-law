@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EMPRÉSTIMO PESSOAL. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de contrato bancário de empréstimo pessoal.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno, interposto por PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL, contra decisão unipessoal que conheceu do agravo que interpusera para não conhecer do seu recurso especial.
+Ação: revisional de contrato de empréstimo pessoal, ajuizada por JANDIRA CELESTINA LUCHESE em desfavor do agravante.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante e deu parcial provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. OBJETO.
+1) CONTRATO DE MÚTUO Nº 3801398264 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$ 1.565,85, DATADO DE 26/04/2013
+2) CONTRATO DE MÚTUO Nº 3801690253 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$ 2.591,57, DATADO DE 10/07/2014
+3) CONTRATO DE MÚTUO Nº 3801830912 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$ 3.824,05, DATADO DE 05/12/2014
+4) CONTRATO DE MÚTUO Nº 3804732640 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$ 1.727,39, DATADO DE 23/08/2018
+5) CONTRATO DE MÚTUO Nº 3804769070 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$ 4.198,93, DATADO DE 28/08/2018
+6) CONTRATO DE MÚTUO Nº 3806536365 (EMPRÉSTIMO CONSIGNADO SERVIDOR PÚBLICO), NO VALOR DE R$1.461,35, DATADO DE 18/03/2019
+APELAÇÃO DA RÉ
+POSSIBILIDADE DE REVISÃO JUDICIAL DOS CONTRATOS QUITADOS. A CONSTITUIÇÃO FEDERAL DE 1988, ENTRE AS GARANTIAS FUNDAMENTAIS (ART. 5º, INCISO XXXV), ESTABELECE A INTERVENÇÃO DO PODER JUDICIÁRIO PARA APRECIAÇÃO DE LESÃO OU AMEAÇA A DIREITO DA PARTE.
+DO MESMO MODO, EM SE TRATANDO DE RELAÇÃO DE CONSUMO, ESTA INTERVENÇÃO ENCONTRA-SE REFORÇADA PELO INCISO XXXII DO ART. 5º DA CARTA MAGNA, E PELAS DISPOSIÇÕES CONTIDAS NO CÓDIGO DE DEFESA DO CONSUMIDOR, ENTRE AS QUAIS AQUELAS ELENCADAS NO ART. 51 DA LEI CONSUMEIRISTA.
+ASSIM, CONFORME ENTENDIMENTO DA SÚMULA 286 DO STJ, ESTA CÂMARA TEM DECIDIDO NO SENTIDO DE SER POSSÍVEL A REVISÃO DE TODA CONTRATUALIDADE, INCLUINDO OS CONTRATOS EXTINTOS PELO PAGAMENTO, NOVAÇÃO OU RENEGOCIAÇÃO, SOB O FUNDAMENTO DE QUE AS NULIDADES CONTRATUAIS NÃO SE CONVALIDAM COM O NOVO AJUSTE.
+NESSE PRISMA, CONSTATADA A ABUSIVIDADE OU ONEROSIDADE EXCESSIVA DE UMA DAS PARTES EM PREJUÍZO DA OUTRA ADEQUADA E PERTINENTE A INTERVENÇÃO DO PODER JUDICIÁRIO PARA ADEQUÁ-LAS AO ORDENAMENTO JURÍDICO VIGENTE.
+PORTANTO, O NEGÓCIO JURÍDICO BANCÁRIO/FINANCEIRO REALIZADO MERECE ALTERAÇÃO JUDICIAL, INOBSERVADA A BOA-FÉ OBJETIVA QUE DEFLUI DO SISTEMA JURÍDICO, RELATIVAMENTE ÀS CLÁUSULAS ABUSIVAS QUE ESTABELECERAM AS PARCELAS ACESSÓRIAS.
+ASSINALE-SE, AINDA, QUE A EXECUÇÃO VOLUNTÁRIA DAS OBRIGAÇÕES NEGOCIAIS PELO CONSUMIDOR, NÃO INIBE A POSSIBILIDADE DE APRESENTAÇÃO DA PRETENSÃO PROCESSUAL DE INVALIDAÇÃO DAS DISPOSIÇÕES NEGOCIAIS ABUSIVAS, EM VIOLAÇÃO À DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDORE AO PRINCÍPIO DA BOA-FÉ OBJETIVA. NO PONTO, RECURSO DESPROVIDO.
+ENCARGOS DA NORMALIDADE.
+JUROS REMUNERATÓRIOS. APLICAÇÃO DAS ORIENTAÇÕES DO SUPERIOR TRIBUNAL DE JUSTIÇA, EXTRAÍDAS DOS JULGAMENTOS DOS RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA N. 1.061.530/RS E N. 1.112.879/PR. AFINADO A ISSO, O ENTENDIMENTO DESTA CÂMARA É DE QUE A TAXA DE JUROS REMUNERATÓRIOS DEVE SER LIMITADA SOMENTE QUANDO FOR SUPERIOR À TAXA MÉDIA DE MERCADO REGISTRADA PELO BANCO CENTRAL DOBRASIL - BACEN, À ÉPOCA DA CONTRATAÇÃO E EM CONFORMIDADE COM A RESPECTIVA OPERAÇÃO, SOMADA DO PERCENTUAL DE 30% (TRINTA POR CENTO), TIDO COMO A MARGEM TOLERÁVEL.
+NO CASO, AS TAXAS PREVISTAS NOS CONTRATOS ENCONTRAM-SE ACIMA DAS TAXAS MÉDIAS DIVULGADAS PELO BACEN ACRESCIDAS DE 30% EM RELAÇÃO ÀS OPERAÇÕES DA MESMA NATUREZA E PARA O MESMO PERÍODO CONTRATUAL, RAZÃO PELA QUAL DEVE SERMANTIDA A LIMITAÇÃO CONTIDA NA SENTENÇA. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+MORA. APLICAÇÃO DAS ORIENTAÇÕES DO SUPERIOR TRIBUNAL DE JUSTIÇA, EXTRAÍDAS DO JULGAMENTO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 1.061.530/RS. CONSTATADAS ABUSIVIDADE NOS ENCARGOS DA NORMALIDADE, VAI AFASTADA A MORA E A COBRANÇA DOS ENCARGOS DELA DECORRENTES. SENTENÇA MANTIDA. NÃO HÁ QUE SE FALAR EM AUSÊNCIA DE INTERESSE DE AGIR DA AUTORA, COMO ALEGA A RÉ, POIS, EMBORA A QUITAÇÃO ANTECIPADA, NÃO HÁ NOTÍCIA DE QUE AS PARCELAS ANTERIORES FORAM PAGAS SEM INCIDÊNCIA DE ENCARGOS M ORATÓRIOS. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+REPETIÇÃO DO INDÉBITO. COMPENSAÇÃO DE VALORES. É CABÍVEL A REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES QUANDO PROCEDIDAS MODIFICAÇÕES NO CONTRATO, CASO COMPROVADO O PAGAMENTO A MAIOR.
+OUTROSSIM, EM RECENTE DECISÃO, A CORTE ESPECIAL DO STJ APROVOU TESE NO SENTIDO DE QUE A RESTITUIÇÃO EM DOBRO DO INDÉBITO (PARÁGRAFO ÚNICO DO ARTIGO 42 DO CDC) INDEPENDE DA NATUREZA DO ELEMENTO VOLITIVO DO FORNECEDOR QUE COBROUV ALOR INDEVIDO, REVELANDO-SE CABÍVEL QUANDO A COBRANÇA INDEVIDA CONSUBSTANCIAR CONDUTA CONTRÁRIA À BOA-FÉ OBJETIVA.
+NO CASO, TRATANDO-SE DE DEMANDA REVISIONAL, TAL ENTENDIMENTO NÃO SE APLICA, UMA VEZ QUE ATÉ A DECISÃO QUE REVISA O CONTRATO O DÉBITO MOSTRA-SE HÍGIDO, NÃO HAVENDO FALAR EM COBRANÇA DE VALOR INDEVIDO.
+ASSIM, DIANTE DA MODIFICAÇÃO CONTRATUAL, MOSTRA-SE CABÍVEL A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DO INDÉBITO, NA FORMA SIMPLES, DESDE QUE COMPROVADO PAGAMENTO A MAIOR. SENTENÇA MANTIDA. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+PRESCRIÇÃO DA REPETIÇÃO DO INDÉBITO. EM QUE PESE NÃO DESCONHEÇA ENTENDIMENTO JURISPRUDENCIAL EM SENTIDO DIVERSO, ENTENDO QUE O PRAZO PRESCRICIONAL DA PRETENSÃO DE REVISAR CLÁUSULAS CONTRATUAIS E A CONSEQUENTE REPETIÇÃO DO INDÉBITO QUANTO AOS VALORES PAGOS A MAIOR, POR SER FUNDADA EM DIREITO PESSOAL, É O DECENAL, NA FORMA DO ART. 205 DO CÓDIGO CIVIL, DE ACORDO COM ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+NO CASO, DIANTE DA MODIFICAÇÃO CONTRATUAL, NO QUE RESPEITA AOS ENCARGOS NO PERÍODO NA NORMALIDADE - JUROS REMUNERATÓRIOS -, MOSTRA-SE CABÍVEL A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DO INDÉBITO, NA FORMA SIMPLES, NÃO HAVENDO QUE SE FALAR EM APLICAÇÃO DA PRESCRIÇÃO TRIENAL COMO PRETENDE A RÉ. NO PONTO, RECURSO DESPROVIDO.
+APELAÇÃO DA AUTORA
+REPETIÇÃO DO INDÉBITO. JUROS DE MORA. TRATANDO-SE DE RELAÇÃO CONTRATUAL, O VALOR DEVIDO DEVE SER CORRIGIDO PELO IGP-M, A CONTAR DO PAGAMENTO A MAIOR, E ACRESCIDO DE JUROS MORATÓRIOS DE 1% AO MÊS A PARTIR DA CITAÇÃO, DIANTE DO PREVISTO NOS ARTIGOS 240 DO CPC E 405 DO CC. NO PONTO, RECURSO DA AUTORA PROVIDO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. A QUESTÃO DOS HONORÁRIOS NAS AÇÕES REVISIONAIS DEVE SEGUIR A TESE FIRMADA PELO EGRÉGIO STJ, EM SEDE DE RECURSO REPETITIVO, AAPRECIAR O TEMA 1076. NO CASO, A APELANTE POSTULA A MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS, COM SUA FIXAÇÃO EM 20% DO VALOR DA CAUSA. AO AJUIZAR A DEMANDA, A PARTE AUTORA ATRIBUIU À CAUSA O VALOR DE R$ R$ 32.208,60, O QUE SERIA O PROVEITO ECONÔMICO OBTIDO COM A REVISÃO DOS CONTRATOS OBJETO DO FEITO. ASSIM, CABÍVEL A SUA MAJORAÇÃO, COM A FIXAÇÃO EM 15% SOBRE O VALOR DA CAUSA, NOS TERMOS DO ARTIGO 85, §2º, DO CPC, JÁ INCLUÍDA A VERBA RECURSAL, A FIM DE ADEQUÁ-LOS AOS PARÂMETROS DESTA CÂMARA EM SITUAÇÕES ANÁLOGAS. NO PONTO, RECURSO DA AUTORA PARCIALMENTE PROVIDO.
+APELAÇÃO DA AUTORA PARCIALMENTE PROVIDA, POR UNANIMIDADE.
+APELAÇÃO DA RÉ DESPROVIDA, POR UNANIMIDADE. (e-STJ Fls. 259/262)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: manejado com fulcro na alínea "c" do permissivo constitucional, aponta dissídio jurisprudencial. Sustenta a existência de divergência acerca da interpretação conferida ao art. 51, IV, e §1º, III, do Código de Defesa do Consumidor. Insurge-se contra a presunção de abusividade na contratação do empréstimo bancário ante a mera comparação de taxas de juros contratadas e da taxa média de mercado (BACEN).
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial ante a incidência das Súmulas 5 e 7, ambas do STJ.
+Agravo interno: nas razões de e-STJ Fls. 552/565, o agravante formula pedido, inicialmente, de suspensão do processo, uma vez que teve decretada sua liquidação extrajudicial. Ademais, requer a concessão do benefício de assistência judiciária gratuita. Reprisa, ainda, as suas razões de mérito e insurge-se contra a aplicação das Súmulas 5 e 7 do STJ, deduzindo contrariedade à jurisprudência desata Corte quanto aos requisitos a serem avaliados para a declaração de abusividade da taxa remuneratória.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EMPRÉSTIMO PESSOAL. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de contrato bancário de empréstimo pessoal.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo interposto para não conhecer do recurso especial com fulcro na incidência das Súmulas 5 e 7/STJ, restando prejudicado o dissídio jurisprudencial.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Acerca do pedido de suspensão do processo em decorrência da decretação de liquidação extrajudicial, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a regra contida no art. 18, a, da Lei n. 6.024/1974, deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que será passível de habilitação no processo de liquidação, sem implicar a redução do acervo patrimonial da massa objeto de liquidação (REsp n. 1.298.237/DF, de minha relatoria, Terceira Turma, julgado em 19/5/2015, DJe de 25/5/2015).
+Ainda nesse sentido: AgInt no REsp n. 1.969.577/ES, Quarta Turma, DJe de 31/3/2023; AgInt no REsp n. 1.985.667/ES, Quarta Turma, DJe de 15/8/2022; AgInt no REsp n. 1.783.833/SP, Terceira Turma, DJe de 27/10/2020; e AgInt no AREsp n. 1.526.212/SP, Terceira Turma, DJe de 12/6/2020.
+Assim, não merece acolhimento o pleito de suspensão.
+Quanto ao pedido de concessão dos benefícios da gratuidade de justiça, o STJ já estabeleceu que a simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da pessoa jurídica (AgInt no AREsp n. 1.978.978/GO, Quarta Turma, DJe de 29/4/2022).
+Ademais, o pedido de gratuidade de justiça formulado nesta fase recursal não produziria efeitos retroativos, restando afastado no caso concreto.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. DECRETAÇÃO DE LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO. AÇÃO DE CONHECIMENTO. INAPLICABILIDADE. JUSTIÇA GRATUITA. LIQUIDAÇÃO EXTRAJUDICIAL. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Decretação de liquidação extrajudicial. Pedido de suspensão. Ação de conhecimento. Inaplicabilidade. Precedentes.
+2. Consoante jurisprudência desta Corte Superior, "cuidando-se de pessoa jurídica, ainda que em regime de liquidação extrajudicial ou em recuperação judicial, a concessão da gratuidade de justiça somente é admissível em condições excepcionais, se comprovada a impossibilidade de arcar com as custas do processo e os honorários advocatícios" (AgInt no AREsp 1875896/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/11/2021, DJe 01/12/2021).
+3. O pedido de gratuidade de justiça formulado nesta fase recursal, não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, ainda que fosse deferido, não produziria efeitos retroativos.
+4. De acordo com a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no apelo excepcional interposto pela parte insurgente.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.316.463/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo nosso.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. ART. 18 DA LEI N. 6.024/1974. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE A PROCESSO DE CONHECIMENTO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. INDEFERIMENTO. DIVERGÊNCIA JURISPRUDENCIAL NÃO VERIFICADA. DECISÃO MANTIDA.
+1. Conforme jurisprudência do STJ, o art. 18 da Lei n. 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito. Precedentes.
+2. "Cuidando-se de pessoa jurídica, ainda que em regime de liquidação extrajudicial ou em recuperação judicial, a concessão da gratuidade de justiça somente é admissível em condições excepcionais, se comprovada a impossibilidade de arcar com as custas do processo e os honorários advocatícios" (AgInt no AREsp 1875896/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021).
+3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.290.556/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023, grifo nosso.)
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Permanece, ainda, a incidência das Súmulas 5 e 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto ao contrato firmado e à caracterização de abusividade no tocante à taxa de juros remuneratórios, demandaria desta Corte, inevitavelmente, a incursão no conteúdo fático-probatório dos autos.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa aos referidos óbices sumulares.
+- Da divergência jurisprudencial
+Por fim, quanto à interposição do recurso especial pela alínea "c" do permissivo constitucional, ainda que o agravante defenda que exista similitude entre os acórdãos confrontados para demonstrar a divergência, tem-se que não é possível encontrar similitude fática entre tais julgados, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo, como a própria taxa de juros pactuada, cuja análise é vedada pela Súmula 7 desta Corte.
+Assim, diante da manutenção da aplicação da Súmula 7/STJ ao caso, permanece prejudicado o exame do recurso especial pela alínea "c" do permissivo constitucional.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
