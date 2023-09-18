@@ -1,0 +1,140 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA, PREVISTA NO ART. 1.021, § 4º, DO CPC/2015.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017). Nesse mesmo sentido: STJ, AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+VII. Agravo interno não conhecido, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que, com fulcro no art. 932, III, do CPC/2015 e na Súmula 182/STJ, não conheceu do Agravo em Recurso Especial interposto pela parte agravante.
+Inconformada, sustenta a parte agravante:
+"DAS RAZÕES PARA A REFORMA DA DECISÃO DA NÃO INCIDÊNCIA DA SUMULA 7 DO STJ.
+"Concessa vênia", merecedora de total reforma o decisum que não conheceu o Agravo em Recurso Especial intentado, notadamente por tangenciar a verdadeira motivação da insurgência extrema.
+O principal fundamento da decisão que inadmitiu o agravo em recurso especial é a alegação de que o agravante teria deixado de impugnar especificamente a Súmula 7 do Superior Tribunal de Justiça.
+Eminentes julgadores, com toda deferência, não merece prosperar tal entendimento, merecendo sim, renovada vênia, reforma a decisão proferida pela Insigne Ministra MARIA THEREZA DE ASSIS MOURA ao não conhecer o agravo interposto, mormente porque o referido recurso trouxe em sua fundamentação todos os quesitos abordados pela Corte Estadual de origem.
+Primordialmente, veja-se a redação da mencionada súmula:
+(..)
+Ora Excelências, é descabida a alegação de deficiência do recurso por não abordar a referida súmula, visto que, no próprio Agravo interposto anteriormente, se buscou justamente demonstrar que a análise do Recurso Especial outrora interposto não enseja a necessidade de reexame dos fatos.
+Portanto, o argumento de que os fundamentos da decisão recorrida não foram enfrentados não merece prosperar, sob pena de se incorrer em violação ao princípio da inafastabilidade da jurisdição, com verdadeira negativa da devida prestação jurisdicional.
+Viável, então, trazer à baila novamente os argumentos já despendidos na peça anterior, a respeito da não incidência da Súmula 7 do STJ, in casu:
+Digníssimos Ministros, cumpre analisar que, no presente Recurso Especial, não há a "pretensão de reexame de prova" - o que é de conhecimento que é obstado pela Súmula supracitada.
+Veja-se, a questão controvertida diz respeito única e exclusivamente à contrariedade à lei federal (afronta aos. artigos 85, § 7º, 502, 503 e 506, do Código de Processo Civil), portanto, a insurgência versa sobre aspectos legais, em nada se relacionando ao conjunto fático probatório da lide.
+Conforme se infere, no presente caso, sequer é necessário reexame do conjunto probatório, senão apenas - e no máximo - da observância do tanto já delineado na sentença e no acórdão, o que é totalmente viável, não havendo no presente caso a reapreciação de matéria fático-probatória, vedada pelo enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+(..)
+Eminentes ministros julgadores, desta feita, é de clareza solar que a inversão do entendimento exarado pelo Órgão Julgador "a quo" não recobra, nem de longe, o exame de matéria fático-probatória; portanto, não encontrando o recurso extremo qualquer barreira no disposto no enunciado nº 7 desta Superior Instância.
+Desta forma, espera-se a reforma do decisum, pois evidente a contradição da decisão recorrida, a qual afirma que não houve impugnação específica quanto à incidência da Súmula 07 do STJ, sendo que o agravo anterior abordou de forma específica e clara a súmula supra mencionada, assim como fez com os dispositivos legais impugnados.
+DA VIOLAÇÃO À LEI FEDERAL: ARTIGOS 85, § 7º, 502, 503 E 50,6 DO CÓDIGO DE PROCESSO CIVIL- E DA DIVERGÊNCIA JURISPRUDENCIAL - DA NÃO INCIDÊNCIA DA SÚMULA 83 DO STJ.
+Eminentes julgadores, a decisão proferida no acórdão nº 5209768- 36.2021.8.21.7000 negou seguimento ao Recurso Especial, entendendo que o referido julgado hostilizado está em consonância com o posicionamento consolidado desta nobre Corte.
+Todavia, a decisão proferida, além de sacrificar a segurança jurídica das partes por afrontas a legislação hoje vigente, vai de encontro ao entendimento jurisprudencial deste Superior Tribunal de Justiça.
+Da leitura do acórdão recorrido, observa-se que a fundamentação reconheceu a preclusão do pleito quanto às verbas honorárias, face a ausência de manifestação do ora recorrente quanto a decisão interlocutória que denegou a fixação da referida verba.
+Conforme se verifica do processo de origem, o cumprimento de sentença fora ajuizado no ano de 2019, o qual fora impugnado pelo "Estado do RS", tendo sido proferida neste interstício decisão interlocutória para promover o prosseguimento do feito.
+Ressalta-se que, quando do ajuizamento do processo de origem, já foi imediatamente requerida a fixação da verba honorária e, em despacho inicial, o douto juízo recebeu a exordial e se manifestou quanto ao prosseguimento o feito, determinando a citação do devedor e negando a fixação dos honorários advocatícios.
+Nesse sentido, é evidente que ainda não poderiam ser definitivamente fixados os honorários advocatícios sucumbenciais, porquanto sequer estava implementada a condição do art. 85, § 7º, do CPC, por não haver, no momento, impugnação ao cumprimento de sentença, conforme versa o dispositivo:
+(..)
+Nobres julgadores, da interpretação do transcrito § 7º do artigo 85, desprendesse que a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõe ao cumprimento da obrigação, todavia, oferecida resistência por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade.
+Nessa senda, é nítido que a não interposição de recurso quanto ao indeferimento em decisão interlocutória não pode figurar preclusão da pretensão honorária sucumbencial, uma vez que, até aquele momento, não havia sido impugnado o cumprimento de sentença, não nascendo a pretensão do ora recorrente, podendo os honorários ser definitivamente fixados apenas se oferecida impugnação pelo Estado.
+A recorrente, para fins de auxiliar a compreensão, demonstra através de um quadro comparativo o cotejo que se pretende fazer, comprovando o que se quer alegar, e tornando inquestionável o fato de que lhes assiste razão em recorrer.
+(..)
+De acordo com as decisões proferidas por essa Egrégia Corte, verifica-se que oferecida resistência na execução de sentença contra a Fazenda Pública são devidos honorários, ainda que a hipótese seja submetida ao regime de precatórios, conforme disposto no artigo 85, § 7º, do Código de Processo Civil.
+Ademais, colaciona-se abaixo precedentes, nos quais, EM CASOS IDÊNTICOS, esta nobre corte entende pela não existência da preclusão dos honorários advocatícios, in verbis:
+(..)
+Outrossim, Importa aqui ressaltar que não há que se falar em preclusão, em quaisquer de suas modalidades, quando a matéria tiver sido decidida em sede de decisão interlocutória, devendo esta ser alegada somente quando oriunda de sentença definitiva, esta que produz coisa julgada material e deve seguir, conforme determinado em legislação federal, de acordo com o Código Processual Civil:
+(..)
+Assim, resta evidente que a decisão interlocutória que denegou a fixação de honorários advocatícios foi uma decisão inicial que teve como objetivo tão simplesmente o prosseguimento processual, inclusive para fins de intimar a parte executada para apresentação de impugnação ao cumprimento de sentença - para quiçá depois se pensar em honorários.
+Dessa forma, não cabe, de maneira nenhuma, a alegação oposta pelo recorrido, outrora agravante, no sentido de que há preclusão na fixação de honorários por ter havido decisão que indeferiu anteriormente sua fixação, isso porque houve decisão posterior, antes do trânsito em julgado, no momento realmente oportuno, decidindo pela mesma, com força de sentença, julgando o mérito em si, qualificando-se, finalmente, enquanto coisa julgada, na medida que proferida também após a impugnação ao cumprimento de sentença apresentada pelo executado. Importa frisar que o próprio CPC determina que os honorários sucumbenciais devem ser fixados em sentença:
+(..)
+Nesse sentido, alegar preclusão da possibilidade de fixação da verba honorária advocatícia na presente etapa processual é o mesmo que proibir o ilustríssimo juízo de primeiro grau a se manifestar dentro de seu juízo quanto à correta fixação de honorários sucumbenciais, considerando que estes ainda cabem, em absoluto, no seu escopo jurisdicional.
+Logo, resta perfeitamente demonstrado o dissenso entre a decisão proferida e o entendimento dessa Egrégia Corte aplicado a matéria, portanto, não havendo que se falar na aplicação da referida súmula a fim de obstar o seguimento do Recurso Especial, uma vez que o v. acórdão recorrido decidiu em contrariedade ao entendimento dos Tribunais Pátrios, conforme supra demonstrado" (fls. 249/262e).
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.187.394 - RS (2022/0251253-1)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+MARILDA FONSECA TEIXEIRA
+ADVOGADOS
+:
+JOSE VECCHIO FILHO - RS031437
+STEFAN GUIMARÃES EMERIM - RS080361
+RODRIGO SILVEIRA DE CASTRO - RS103239
+AGRAVADO
+:
+ESTADO DO RIO GRANDE DO SUL
+ADVOGADO
+:
+JULIANA RIEGEL BERTOLUCCI - RS069436
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DA MULTA, PREVISTA NO ART. 1.021, § 4º, DO CPC/2015.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017). Nesse mesmo sentido: STJ, AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+VII. Agravo interno não conhecido, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): O presente recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, no caso, o Recurso Especial não foi admitido, na origem, pela incidência das Súmulas 7, 83 e 211/STJ.
+O Agravo em Recurso Especial interposto, todavia, não impugnou todos os fundamentos do decisum, motivo pelo qual não foi ele conhecido.
+No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão ora agravada.
+Deveria a parte agravante ter demonstrado, de modo claro e suficiente, que impugnara, especificamente, no Agravo em Recurso Especial, todos os fundamentos que levaram à inadmissão do Recurso Especial, em 2º Grau, omissão que ensejou a decisão ora agravada, que não conheceu daquele apelo. Entretanto, não o fez, o que atrai a incidência, uma vez mais, da Súmula 182/STJ.
+Relembra-se, por oportuno, o ensinamento de CASSIO SCARPINELLA BUENO (in Curso Sistematizado de Direito Processual Civil, Vol. 5, 1ª ed., São Paulo: Saraiva, 2008, pp. 30/31) acerca do conteúdo e alcance do mencionado "princípio da dialeticidade", bem como da aplicabilidade da Súmula 182/STJ:
+"O "princípio da dialeticidade" (..) atrela-se com a necessidade de o recorrente demonstrar as razões de seu inconformismo, revelando por que a decisão lhe traz algum gravame e por que a decisão deve ser anulada ou reformada.
+Examinado o princípio desta perspectiva, é irrecusável a conclusão de que ele está intimamente ligado à própria regularidade formal do recurso e ao entendimento, derivado do sistema processual civil (..), de que não é suficiente a interposição do recurso mas que o recorrente apresente, desde logo, as suas razões.
+Aplicação correta do princípio aqui examinado encontra-se na Súmula 182 do STJ, segundo a qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". (..) Embora os enunciados (e os precedentes) dessas Súmulas digam respeito a específicas modalidades recursais, é correto e desejável sua ampliação para albergar quaisquer recursos.
+Importa, a este respeito, destacar que o recurso deve evidenciar que a decisão precisa ser anulada ou reformada, e não que o recorrente tem razão. É inepto o recurso que se limita a reiterar as razões anteriormente expostas e que, com o proferimento da decisão, foram rejeitadas. A tônica do recurso é remover o obstáculo criado pela decisão e não reavivar razões já repelidas.
+O recurso tem de combater a decisão jurisdicional naquilo que ela o prejudica, naquilo que ela lhe nega pedido ou posição de vantagem processual, demonstrando o seu desacerto, do ponto de vista procedimental (error in procedendo) ou do ponto de vista do próprio julgamento (error in judicando). Não atende ao princípio aqui examinado o recurso que se limita a afirmar a sua posição jurídica como a mais correta. Na perspectiva recursal, é a decisão que deve ser confrontada".
+Em verdade, está a parte agravante a renovar o vício que comprometia o conhecimento do Agravo em Recurso Especial, agora, em sede de Agravo interno, impondo-se, inarredavelmente, a reedição do juízo negativo de admissibilidade. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não refutou as razões da decisão agravada, pois não impugnou, de forma fundamentada, a falta de demonstração da alegada vulneração aos dispositivos arrolados na peça recursal e ausência de demonstração da similitude de situações com soluções jurídicas diversas entre o acórdão recorrido e paradigma, que levaram ao não conhecimento do agravo anteriormente interposto contra o não seguimento do especial. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Ao relator é admitido não conhecer do agravo em recurso especial, em decisão monocrática, quando se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, do NCPC). Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+4. Agravo interno não conhecido" (STJ, AgInt no AREsp 1.475.567/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 19/09/2019)
+"PEDIDO DE RECONSIDERAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIOS DA FUNGIBILIDADE RECURSAL E ECONOMIA PROCESSUAL. PROCESSUAL CIVIL. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não pode ser conhecido o recurso que não infirma, especificamente, os fundamentos da decisão agravada, mormente quanto à Súmula nº 182 do Superior Tribunal de Justiça, renovando-se o vício.
+2. Agravo regimental não conhecido" (STJ, PET nos EDcl no AREsp 121.969/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 18/03/2013).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Encontrando-se as razões do agravo regimental completamente dissociadas da fundamentação da decisão ora agravada, incide a Súmula 284/STF.
+2. Não sendo atacadas especificamente as razões da decisão agravada, incide a Súmula 182/STJ.
+3. Agravo regimental não conhecido" (STJ, AgRg no EREsp 1.310.535/PE, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 26/10/2012).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. SÚMULA 182/STJ. EXAME DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+I - Na decisão agravada, proferida em anterior agravo regimental, restou assente que o recorrente não teria atacado o fundamento da decisão monocrática, qual seja o óbice contido na súmula 126/STJ, ficando evidenciado o teor do verbete nº 182, desta Corte Superior.
+II - Neste agravo regimental novamente o agravante não infirma os fundamentos da decisão agravada, nem tão pouco formula compreensível contrariedade à decisão impugnada. Desta feita, o nobre advogado simplesmente aborda tese estranha ao desenrolar do feito, pleiteando a análise das questões atinentes aos artigos 5º, XV e 93, da Constituição Federal, incorrendo outra vez, no óbice descrito na súmula nº 182/STJ.
+(..)
+IV - Agravo regimental não conhecido" (STJ, AgRg no AgRg no REsp 638.131/BA, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, DJU de 14/03/2005).
+Com efeito, a parte agravante tem o ônus da impugnação específica dos fundamentos da decisão agravada. Não basta repetir as razões já expendidas, no recurso anterior, ou limitar-se a infirmar, genericamente, o decisum. É preciso que o Agravo interno impugne, dialogue, combata, enfim, demonstre o desacerto do que restou decidido.
+Encampando tal compreensão, esta Corte editou a Súmula 182, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A nova sistemática processual, introduzida pelo CPC de 2015, ratificou tal compreensão, in verbis:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º. Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Assim, constata-se que o princípio da dialeticidade permanece vivo, nesse novo diploma processual, uma vez que se revela indispensável que a parte recorrente faça a impugnação específica dos fundamentos da decisão agravada, expondo os motivos pelos quais não teriam sido devidamente apreciados os fatos e/ou as razões pelas quais não se teria aplicado corretamente o direito, no caso concreto, enfrentando os fundamentos da decisão agravada, o que não ocorreu, na hipótese dos autos.
+A propósito, a lição de NELSON NERY JR (in Princípios Fundamentais - Teoria Geral dos Recursos, 2ª ed., Revista dos Tribunais, p. 154), in verbis:
+"Entendemos que a exposição dos motivos de fato e de direito que ensejaram a interposição do recurso e o pedido de nova decisão em sentido contrário à recorrida, são requisitos essenciais e, portanto, obrigatórios. A inexistência das razões ou de pedido de nova decisão acarreta juízo de admissibilidade negativo: o recurso não é conhecido. (..) Vige, no tocante aos recursos, o princípio da dialeticidade (..). Segundo esse princípio, o recurso deverá ser dialético, discursivo. O recorrente deverá declinar o porque do pedido de reexame da decisão. (..) O procedimento recursal é semelhante ao inaugural de uma ação civil. A petição de recurso é assemelhável à peça inaugural, devendo, pois, conter os fundamentos de fato e de direito e o pedido. Tanto é assim, que já se afirmou ser causa de inépcia a interposição de recurso sem motivação. (..) O recurso se compõe de duas partes distintas sob o aspecto de conteúdo: a) declaração expressa sobre a insatisfação com a decisão (elemento volitivo); b) os motivos dessa insatisfação (elemento de razão ou descritivo). Sem a vontade de recorrer não há recurso. Essa vontade deve manifestar-se de forma inequívoca, sob pena de não conhecimento. Não basta somente a vontade de recorrer, sendo imprescindível a dedução das razões (descrição) pelas quais se pede novo pronunciamento jurisdicional sobre a questão objeto do recurso. As razões do recurso são elemento indispensável para que o tribunal, ao qual se o dirige, possa julgá-lo, ponderando-as em confronto com os motivos da decisão recorrida que lhe embasaram a parte dispositiva".
+Com razão, "o acesso à Justiça se dá na forma disciplinada pelas leis e pela jurisprudência consolidada nos tribunais. Por isso, o cumprimento dos requisitos de admissibilidade do recurso se impõe; não por simples formalismo, mas por observância das normas legais" (STJ, AgRg no AgRg no Ag 900.380/RJ, Rel. Ministro VASCO DELLA GIUSTINA (Desembargador convocado do TJ/RS), TERCEIRA TURMA, DJe de 18/05/2009).
+Desse modo, interposto Agravo interno com razões deficientes, que não impugnam, especificamente, os fundamentos da decisão agravada, devem ser aplicados, no particular, a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+Nesse sentido:
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PRELIMINAR DE NULIDADE DO PROCESSO. FALTA DE CIÊNCIA AO ÓRGÃO DE REPRESENTAÇÃO JUDICIAL DA PESSOA JURÍDICA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+(..)
+2. No presente Regimental, a parte agravante não impugnou os fundamentos da decisão recorrida, limitando-se a reafirmar as razões de seu Recurso Especial.
+3. A falta de impugnação específica de todos os fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Regimental. Incide a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo Regimental não conhecido" (STJ, AgRg no REsp 1.425.186/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/03/2014).
+Por fim, deve ser imposta, no caso, a multa, prevista no art. 1.021, § 4º, do CPC/2015, no patamar de 1% (um por cento) do valor atualizado da causa.
+Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017). Nesse mesmo sentido: STJ, AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+Confira-se, ainda:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. MAJORAÇÃO DOS HONORÁRIOS. ART. 85, §11, DO CPC.
+1. Não merece conhecimento o agravo no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Em razão do trabalho adicional realizado em grau recursal, os honorários fixados anteriormente foram majorados nos termos do artigo 85, §11, do CPC.
+4. Agravo interno não conhecido, com aplicação de multa" (STJ, AgInt no AREsp 802.967/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 03/04/2017).
+Ante o exposto, não conheço do Agravo interno, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final, nos termos do § 5º do aludido dispositivo legal.
+É como voto.
