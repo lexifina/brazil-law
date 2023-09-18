@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO. SUSPENSÃO DO FEITO. NÃO CABIMENTO. GRATUIDADE DA JUSTIÇA. EXCEPCIONALIDADE. CONCESSÃO. EFEITO PROSPECTIVO. POSSIBILIDADE DE REVISÃO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão de contrato.
+2. A regra contida no art. 18, a, Lei 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito. Na hipótese, não há que se falar em suspensão do feito por conta da decretação da liquidação extrajudicial. Precedentes.
+3. A simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da parte agravante.
+4. A concessão, exclusivamente para fins recursais, no presente momento processual, não possui efeito retroativo.
+5. Havendo mudança na situação financeira da parte agravante é possível a possibilidade de ser revista a concessão deferida.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por PORTOCRED S/A - CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL (PORTOCRED S/A - CFI).
+Ação: revisão de contrato, ajuizada por PAULO CÉSAR DA SILVA, em face de PORTOCRED S/A - CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL (PORTOCRED S/A - CFI).
+Sentença: julgou procedentes os pedidos formulados na inicial, para o fim de limitar os juros remuneratórios do contrato de empréstimo à taxa média de mercado à época da contratação (1,80% a. m.) e descaracterizar a mora, condenando a agravante à devolução dos valores cobrados em excesso, subtraindo-os, se for o caso, das parcelas vincendas, com a repetição simples do indébito, caso exista crédito em favor do agravado, após a compensação dos valores, bem como para condená-la ao pagamento das custas e dos honorários, estes fixados em R$ 1.000,00.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Negócios jurídicos bancários. Ação revisional. Contrato de mútuo. Prescrição trienal. Repetição do indébito. Revisão de contrato quitado. Juros remuneratórios.
+Revisão de contrato extinto. Possibilidade. A revisão judicial de contratos bancários já quitados ou extintos é admitida pelo ordenamento jurídico. Súmula 286 do STJ. Preliminar desacolhida.
+Repetição do indébito. Prescrição. Afastamento. A discussão acerca da cobrança indevida de valores constantes de relação contratual e eventual repetição de indébito não se enquadra no conceito de enriquecimento ilícito, seja porque a causa jurídica, em princípio, existe, seja porque a ação de repetição de indébito é ação específica. Prescrição decenal e não trienal. Precedentes do STJ e desta Corte. Preliminar desacolhida.
+Juros remuneratórios. Limitação. Contrato de mútuo. Juros pactuados que se mostram acima da taxa média de mercado divulgada pelo BACEN para a operação da espécie vigente à época. Limitação à taxa média. Sentença mantida.
+Repetição de indébito. Possibilidade na forma simples. Súmula 322, STJ.
+Descaracterização da mora. Reconhecida a abusividade na cobrança de encargo da normalidade no contrato, descaracteriza-se a mora em relação a este até o recálculo do débito conforme a presente definição.
+Preliminares rejeitadas. Recurso desprovido. Unânime." (e-STJ fl. 288/289)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 310/313)
+Recurso especial: alega dissídio jurisprudencial, sustentando que a decisão da Corte local é diametralmente oposta à decisão do Acordão paradigma acerca da forma de comprovação da abusividade no caso concreto, eis que, enquanto a Corte local resume-se a cotejar as taxas (Tabela Bacen x Taxa do Contrato), o entendimento do Acordão paradigma, em visível consonância com o REsp que orientou a jurisprudência dos recursos repetitivos sobre a matéria, esmiuça e consolida a necessidade de uma análise pormenorizada do caso, onde deve ser aferida em vista das características ou requisitos relevantes de cada caso concreto.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Razões do agravo interno: sustenta a ocorrência do dissídio jurisprudencial, além de requerer a concessão dos benefícios da gratuidade da justiça e a suspensão do feito, porquanto houve a decretação da liquidação extrajudicial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO. SUSPENSÃO DO FEITO. NÃO CABIMENTO. GRATUIDADE DA JUSTIÇA. EXCEPCIONALIDADE. CONCESSÃO. EFEITO PROSPECTIVO. POSSIBILIDADE DE REVISÃO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão de contrato.
+2. A regra contida no art. 18, a, Lei 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito. Na hipótese, não há que se falar em suspensão do feito por conta da decretação da liquidação extrajudicial. Precedentes.
+3. A simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da parte agravante.
+4. A concessão, exclusivamente para fins recursais, no presente momento processual, não possui efeito retroativo.
+5. Havendo mudança na situação financeira da parte agravante é possível a possibilidade de ser revista a concessão deferida.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por PORTOCRED S/A - CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL (PORTOCRED S/A - CFI), contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- DA SUSPENSÃO DO FEITO
+De início, em suas razões de agravo interno, alega a parte agravante que teve decretada a sua liquidação extrajudicial, através do Ato do Presidente do Banco Central nº 1.360 de 15/02/2023, nomeando como liquidando o Sr. Cornélio Farias Pimentel, e, com base no artigo 18 da Lei 6.024/74, que dispõe sobre a intervenção e liquidação extrajudicial, requerer a suspensão do feito.
+No entanto, acerca do referido pedido em decorrência da decretação de liquidação extrajudicial, a jurisprudência desta Corte se firmou no sentido de que a regra contida no art. 18, a, Lei 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que será passível de habilitação no processo de liquidação, sem implicar a redução do acervo patrimonial da massa objeto de liquidação (REsp 1.298.237/DF, 3ª Turma, DJe 25/05/2015).
+Ainda nesse sentido: AgInt no REsp 1.969.577/ES, 4ª Turma, DJe 31/03/2023; AgInt no REsp 1.985.667/ES, 4ª Turma, DJe 15/08/2022; AgInt no REsp 1.783.833/SP, 3ª Turma, DJe de 27/10/2020; AgInt no AREsp 1.526.212/SP, 3ª Turma, DJe 12/06/2020.
+Assim, por ora, não merece acolhimento o pedido de suspensão do feito.
+- DA GRATUIDADE DA JUSTIÇA
+Segue a parte agravante, em suas razões de agravo interno, e requer o deferimento da Assistência Judiciária Gratuita, na medida que o recolhimento das custas processuais implicará significativamente na sua saúde financeira.
+No ponto, sustenta que não restam dúvidas acerca de sua total incapacidade de arcar com as custas processuais de mais de 7000 processos em que é demandada, restando configurada a sua condição de hipossuficiência.
+Nessa linha, quanto ao pedido de concessão dos benefícios da gratuidade da justiça, está Corte já estabeleceu que a simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da pessoa jurídica. Nesse sentido: AgInt no AREsp 1.978.978/GO, 4ª Turma, DJe 29/04/2022; AgInt no AREsp 1.323.108/ES, 3ª Turma, DJe 14/06/2019.
+Além disso, cumpre ressaltar que o benefício da gratuidade da justiça pode ser requerido a qualquer tempo e fase processual, contudo sua concessão não possui efeito retroativo. Nesse sentido: AgInt no AREsp 1.718.508/ES, 3ª Turma, DJe 27/11/2020; AgInt nos EDcl no AREsp 1.064.017/SC, 4ª Turma, DJe 20/05/2019; AgInt no AREsp 862.843/PR, 3ª Turma, DJe 28/08/2017.
+In casu, o requerimento fora apresentado já em âmbito recursal e, ante as documentações apresentadas às fls. 595/606 (e-STJ), DEFERE-SE O PEDIDO, EXCLUSIVAMENTE PARA FINS RECURSAIS.
+Não obstante o deferimento concedido, no presente momento processual, havendo mudança na situação financeira da parte agravante, há possibilidade de ser revista a sua concessão.
+Ao final, registre-se, a gratuidade concedida, no presente momento processual, somente produzirá efeitos prospectivos, de forma que a condenação em custas, despesas processuais e honorários advocatícios não pode mais ser elidida.
+- DO MÉRITO
+No que concerne à insurgência da parte agravante, quanto ao dissídio jurisprudencial, razão não lhe assiste.
+No caso, alega a parte agravante que é possível atestar do recurso especial interposto, que foi realizado o cotejo da decisão recorrida com as duas decisões paradigmas desta Corte.
+No ponto, argumenta que restou demonstrado que, enquanto a Corte local insiste em realizar a limitação dos juros remuneratórios pelo simples fato de serem superiores à taxa média de mercado, a jurisprudência desta Corte é pacífica ao referir que deve ser feita uma análise mais criteriosa, a fim de se verificar a ocorrência de discrepância entre a taxa de juros remuneratórios do contrato e a taxa média fornecida pelo BACEN.
+Em que pese a argumentação apresentada, restou evidente que a parte agravante deixou de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: REsp 1.622.498/DF, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.905.340/RJ, 4ª Turma, DJe 16/03/2023; AgInt no REsp 1.975.965/PE, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 1.999.599/SP, 1ª Turma, DJe 10/03/2023; AgInt nos EDcl no AREsp 1.732.159/SP, 4ª Turma, DJe 10/03/2023; AgRg no AREsp 2.196.188/SC, 5ª Turma, DJe 06/03/2023.
+Ainda, quanto ao dissídio jurisprudencial, é entendimento desta Corte que a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgInt no AREsp 2.188.680/PR, 3ª Turma, DJe 16/03/2023; AgInt no AREsp 2.004.758/PR, 2ª Turma, DJe 16/03/2023; AgInt no AREsp 2.024.233/DF, 3ª Turma, DJe 10/03/2023; AgInt no AREsp 2.181.215/PR, 4ª Turma, DJe 10/03/2023; AgInt no AREsp 2.148.058/PR, 2ª Turma, DJe 10/03/2023; AgInt no AREsp 2.094.099/RJ, 4ª Turma, DJe 16/02/2023.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
