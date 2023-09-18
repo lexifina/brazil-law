@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 140):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AUXILIO DOENÇA. INCAPACIDADE LABORAL TOTAL E TEMPORARIA. QUALIDADE DE SEGURADO. CARÊNCIA CUMPRIDA. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. SUCUMBÊNCIARECURSAL.
+1. Trata-se de ação objetivando a concessão de aposentadoria por invalidez ou auxílio doença previdenciário.
+2. Laudo médico pericial indica a existência de incapacidade laboral total e temporária que enseja a concessão de auxílio doença.
+3. Carência cumprida. O conjunto probatório indica que a incapacidade apurada teve início enquanto aparte autora mantinha a qualidade de segurado. Extensão do período de graça pelo desemprego.
+4. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº 810, em20.09.2017, Relator Ministro Luiz Fux, observado quanto a este o termo inicial a ser fixado pela Suprema Corte no julgamento dos embargos de declaração. Correção de ofício.
+5. Sucumbência recursal. Aplicação da regra do §11 do artigo 85 do CPC/2015. Majoração dos honorários de advogado arbitrados na sentença em 2%.
+6. Apelação do INSS não provida. Sentença corrigida de ofício.
+Embargos de declaração rejeitados (e-STJ fls. 171/183).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 15, II, § 2º, 102, caput, § 2º, da Lei n. 8.213/1991, sustentando a ocorrência da perda da qualidade de segurado do falecido em razão da prorrogação do período de graça por presunção de desemprego.
+Por fim, caso não se entenda ter havido o prequestionamento da matéria, requer que seja anulado o acórdão por contrariedade aos arts. 11, 489, II, § 1º, IV, e 1.022, I e II, do CPC a fim de ser proferido novo julgamento.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão merece parcial acolhimento.
+O § 2º do art. 15 da Lei n. 8.213/1991 enuncia que o prazo de doze meses previsto no inciso II do mesmo dispositivo será acrescido de mais doze meses para o segurado desempregado, desde que comprovada essa situação pelo registro no órgão próprio do Ministério do Trabalho e da Previdência Social.
+A Terceira Seção consolidou entendimento segundo o qual o registro mencionado no dispositivo em comento "não pode ser tido como o único meio de prova da condição de desempregado do segurado", porquanto o preceito "deve ser interpretado de forma a proteger não o registro da situação de desemprego, mas o segurado desempregado" (Pet 7.115/PR, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe de 6/4/2010).
+No presente caso, o aresto recorrido, confirmando a sentença, concluiu que a presunção de desemprego ensejaria a prorrogação do período de graça, a saber (e-STJ fls. 136/138):
+No caso concreto.
+A autora, doméstica, com 40 anos de idade no momento da perícia médica judicial, informa que é portadora de patologias psiquiátricas, condição que a torna incapaz para o trabalho.
+O laudo médico pericial elaborado em 14/11/2019 (ID132890574), complementado em 03/01/2020 (ID132890579) revela que a parte autora é portadora de transtorno bipolar episódio atual misto.
+Conclui pela incapacidade total e temporária para as atividades habituais. Indica o início da incapacidade em 19/06/2019.
+O extrato do sistema CNIS (ID132890554) indica que a parte autora ingressou no RGPS em 2000, mantendo vínculo empregatício, no período de 03/04/2000 a 05/2000.
+Reingressou ao sistema em 2014, mantendo vínculos empregatícios e recolhimentos como empregado doméstico, nos períodos de 03/02/2014 a 09/05/2014, 01/05/2015 a 30/06/2015 e de 19/03/2016 a 12/05/2017.
+Considerando a última contribuição em 12/05/2017, tem-se que a parte autora manteve a qualidade de segurado até 15/07/2019, já considerada a extensão do período de graça em razão do desemprego.
+Assim, tanto no início da incapacidade (19/06/2019), quanto na data do requerimento administrativo (03/04/2017) a parte autora ostentava a qualidade de segurado e o cumprimento da carência.
+Ressalte-se que, apesar do registro junto ao Ministério do Trabalho e da Previdência Social constituir prova absoluta da situação de desemprego, tal fato também poderá ser comprovado por outros meios de prova, nos termos da Súmula nº 27, da Turma de Uniformização de Jurisprudência dos Juizados Especiais Federais, que dispõe: "A ausência de registro em órgão do Ministério do Trabalho não impede a comprovação de desemprego por outros meios admitidos em Direito".
+Assim, o fato de não haver novo vínculo de emprego na CTPS do segurado, bem como no banco de dados da autarquia, é suficiente para presumir a condição de desempregado. (Grifos acrescidos).
+Sobre o tema, esta Corte vem se manifestando no sentido de afastar a presunção e devolver o feito à origem, em diligência, a fim de que se constituam outras provas da alegação de desemprego da parte autora e, após, aquele Tribunal julgue como entender de direito.
+A propósito:
+PREVIDENCIÁRIO. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. MERA AUSÊNCIA DE ANOTAÇÃO NA CTPS. INSUFICIÊNCIA DE ELEMENTOS PROBATÓRIOS DA SITUAÇÃO DE DESEMPREGO. RETORNO DOS AUTOS À ORIGEM.
+1. A ausência de registros na CTPS, só por si, não é suficiente para comprovar a situação de desemprego da parte autora, admitindo-se, no entanto, que tal demonstração possa ser efetivada por outros meios de prova que não o registro perante o Ministério do Trabalho e da Previdência Social, como a testemunhal. Precedentes: Pet 7.115/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, DJe 6/4/2010; AgRg no Ag 1.182.277/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJe 6/12/2010.
+2. No caso concreto, no que diz respeito à demonstração da qualidade de segurado do autor, a Corte de origem, ao se louvar, unicamente, na ausência de anotação na CTPS e ter como prorrogado o período de graça, destoou da mencionada jurisprudência.
+3. Recurso especial do INSS parcialmente provido, para afastar a possibilidade de reconhecimento da condição de segurado pela mera ausência de registros na CTPS, determinando o retorno dos autos à origem para que oportunize ao autor a produção de provas e, então, julgue a causa como entender de direito.
+(REsp n. 1.338.295/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2014, DJe de 1/12/2014.) (Grifos acrescidos).
+PREVIDENCIÁRIO. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. AUSÊNCIA DE COMPROVAÇÃO DE DESEMPREGO PERANTE O ÓRGÃO DO MINISTÉRIO DE TRABALHO OU DA PREVIDÊNCIA SOCIAL. INSUFICIÊNCIA DE ELEMENTOS PROBATÓRIOS. COMPROVAÇÃO DO DESEMPREGO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. RETORNO DOS AUTOS À ORIGEM.
+1. No caso concreto, no que diz respeito à demonstração da qualidade de segurado do recorrente, a Corte de origem, ao se embasar unicamente na ausência de comprovação do desemprego perante o órgão do Ministério de Trabalho ou da Previdência Social, destoou da jurisprudência do Superior Tribunal de Justiça, razão pela qual merece prosperar a irresignação.
+2. Com efeito, segundo entendimento da Terceira Seção do STJ, a ausência de registro perante o Ministério do Trabalho e da Previdência Social poderá ser suprida quando for comprovada a situação de desemprego por outras provas constantes dos autos, inclusive a testemunhal. (AgRg na Pet 8.694/PR, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 26.9.2012, DJe 9.10.2012).
+3. Recurso Especial provido, determinando o retorno dos autos à origem para que oportunize ao recorrente a produção de provas e, então, julgue a causa como entender de direito. (REsp n. 1.668.380/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2017, DJe de 20/6/2017.)
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso, a fim de afastar a presunção de desemprego e DETERMINAR o retorno dos autos à origem para que oportunize à autora a produção de provas de sua qualidade de segurada .
+Publique-se. Intimem-se.
+EMENTA
