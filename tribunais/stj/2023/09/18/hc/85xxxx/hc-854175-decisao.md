@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSMAR BORGES DE LIMA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação Criminal n. 5450427-31.2021.8.09.0051).
+Consta dos autos que a parte paciente foi condenada nas sanções dos arts. 147 e 329, ambos do Código Penal Brasileiro, e nas do art. 21, da Lei de Contravenções Penais.
+Neste habeas corpus, a defesa busca o reconhecimento da nulidade daquela que seria a única prova nos autos: as declarações da vítima (com o seu desentranhamento dos autos).
+Sustenta, em apertada síntese, que a parte paciente está submetida a constrangimento ilegal, ao argumento de condenação ancorada em uma única prova tida ilícita, pela indução da vítima com a leitura da denúncia.
+Explica ainda a perda da chance de produzir provas pela acusação e a inexistência de demais provas viáveis.
+Requer, inclusive liminarmente, obstar a execução das penas e, ao fim, que seja a prova ilícita acima apontada assim declarada, com o seu desentranhamento dos autos e a consequente absolvição por falta de provas.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que, não obstante o TJ não tenha analisado a controvérsia, por outro lado, não se encontra qualquer irresignação da Defesa junto àquele Juíz o.
+Nesse contexto, ao fim, não existe um acórdão sobre a matéria posta neste feito, trazendo a defesa questionamentos que sequer foram apreciados pelo juízo natural da causa.
+Portanto, ausente manifestação do Tribunal a quo, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido:
+"As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de origem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022)"(AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Desembargador Convocado do TJDFT, DJe de 17/8/2023).
+Corroborando: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022; AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; AgRg no HC n. 805.062/MG, Quinta Turma, de minha relatoria, DJe de 2/6/2023; e AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
