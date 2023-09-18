@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELIAS APARECIDO ANDRADE CONSTANTINO contra a decisão que não conheceu do agravo em recurso especial (fls. 522-524).
+Em apertada síntese, o embargante afirma que a decisão ora impugnada se omitiu em demonstrar qual seria a orientação desta Corte Superior especificamente sobre a tese de violação do art. 13 do Código Penal. Em face disso, requer o provimento dos embargos para que seja suprida a alegada omissão (fls. 531-534).
+É o relatório. DECIDO.
+Inicialmente, consigno que apenas são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+No caso, ao contrário do aduzido pelo embargante, o julgador não está obrigado a enfrentar diretamente todos os dispositivos legais trazidos pelas partes, desde que as razões de decidir já sejam suficientes para manter o julgado, o que ocorre na hipótese (EDcl no AgRg no AREsp n. 2.113.868/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/8/2023; EDcl no AgRg no RHC n. 143.773/PE, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, DJe de 20/8/2021).
+Verifico, portanto, que à conta de omissão na decisão, pretende o embargante o reexame de matéria julgada em razão do mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via dos declaratórios, que servem ao aprimoramento da decisão, mas não à sua alteração, que apenas é admitida em casos excepcionais (EDcl no AgRg nos EAREsp n. 2.060.783/RN, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, Terceira Seção, Rel. Min. Antonio Saldanha Palheiro, DJe de 25/3/2022).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NOS ARTS. 619 E 620 DO CÓDIGO DE PROCESSO PENAL. JULGADOR NÃO ESTÁ OBRIGADO A REFUTAR EXPRESSAMENTE TODOS OS ELEMENTOS INVOCADOS PELA PARTE. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE.
