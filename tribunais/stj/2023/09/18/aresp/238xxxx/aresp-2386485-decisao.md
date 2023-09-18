@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCIO APARECIDO DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÕES CÍVEIS.
+1. Ressarcimento civil - Danos morais e materiais - Cumprimento de mandado de prisão - Dívida alimentar paga anteriormente, mediante expedição de contramandado de prisão - Inexistência de decreto judicial de prisão pendente de cumprimento - Falha na prestação do serviço administrativo - Dano moral devido - Aborrecimentos que ultrapassaram os limites da razoabilidade e do tolerável - Volume indenizatório adequado - Procedência do pedido inicial - Manutenção da sentença.
+2. Recursos não providos.
+Quanto à controvérsia, a parte recorrente alega violação do art. 944 do Código Civil, no que concerne à possibilidade de elevação do valor fixado a título de indenização por danos morais, visto que desproporcional, trazendo a seguinte argumentação:
+Como se sabe, indenizações por danos morais, dentre outros, deve servir como medida de desestimulo ao agente causador do dano, para que ele não volte a repetir fatos como o que deu ensejo à sua fixação.
+É importante frisar, que "in casu"; o recorrente teve sua liberdade e patrimônio violados por omissão e negligência perpetradas pela recorrida, na medida em que permitiu que ele fosse mantido em cárcere, mesmo com ordem judicial em contrário.
+É óbvio que a recorrida, do ponto de vista econômico, possui patrimônio milionário, quiçá bilionário, pois trata-se do maior Estado da Federação.
+Além do mais, conforme é cediço, os direitos de personalidade de uma pessoa são inestimáveis financeiramente.
+Some-se a isso o fato de que o valor fixado pelo MM. Juízo "a quo" significará, salvo melhor juízo, estímulo para que a recorrida continue a praticar fatos como o experimentado pelo recorrente.
+Por outro lado, majorar equitativamente o valor da indenização devida ao recorrente não significará, de forma alguma, enriquecimento ilícito ou sem justa causa.
+A jurisprudência deste Superior Tribunal de Justiça já assentou o entendimento de que a indenização por danos morais deve atender aos seguintes parâmetros: a) extensão do dano; b) grau de culpa do lesante; c) punição ao ofensor; d) exemplaridade; e) situação econômica do ofensor e do ofendido; e f) proporcionalidade.
+ ..
+Portanto, é evidente que o valor fixado pelo MM. Juízo "a quo" a título de indenização por danos morais deve ser majorado equitativamente, de modo que, para a recorrida, surta os efeitos do desestímulo de práticas semelhantes à suportada pelo recorrente. (fls. 184-185).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A compensação financeira, concernente à dor e ao sofrimento, por certo não tem parâmetros naturais de aferição. No entanto, alguns critérios devem ser colocados na mesa para tentar avaliar-se o dano moral, tais como: o bem jurídico tutelado, a gravidade da conduta, a extensão do dano e as condições financeiras do ofendido e do ofensor, a fim de que não gere o enriquecimento ou o empobrecimento indevido de ninguém. Considerando-se esses parâmetros, reputa-se razoável o volume indenizatório fixado pelo MM. Juiz de Direito a quo (R$ 5.000,00) para ressarcir o autor dos danos que experimentou. Embora inegável o constrangimento vivenciado, motivo pelo qual a ação deve ser julgada procedente, a repercussão não foi de vulto, de modo a justificar a exacerbação da verba indenizatória em tela, relevando-se que a detenção do autor durou apenas e tão-somente algumas horas, sem notícia de que tenha havido abuso da autoridade policial ou sofrido humilhações no local respectivo. (fls. 165-166).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
