@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 2ª Vara do Trabalho de Juiz de Fora/MG, como suscitante, e a 2ª Vara Cível e Criminal da Subseção Judiciária local, a suscitada, nos autos de ação movida contra a Caixa Econômica Federal, na qual se discute o direito à contratação após aprovação em concurso público.
+A ação foi originariamente proposta perante a Justiça do Trabalho, na qual recebeu tramitação e foi sentenciada, em 17/5/2017. Posteriormente, em julgamento de recurso ordinário, o Tribunal Regional do Trabalho da 3ª Região houve por bem acolher a preliminar de incompetência da Justiça do Trabalho, à luz da decisão proferida pelo STF no RE 960.429 - Tema 992 da Repercussão Geral.
+Os autos, então, foram remetidos à 2ª Vara da Justiça Federal de Juiz de Fora/MG, cujo magistrado salientou a modulação de efeitos da decisão do STF e, ressaltando tratar-se de demanda sentenciada em 17/5/17, determinou a devolução do processo à origem. Confira-se o trecho essencial da referida decisão:
+O feito foi distribuído perante a justiça do trabalho, tendo o pedido julgado procedente, em 17 de maio de 2017 (id 448348876).
+Posteriormente, com o julgamento da questão aqui tratada pelo STF (fixação da competência da Justiça Comum para controvérsias relacionadas à fase pré-contratual de seleção/admissão de pessoal - Tema 992 - RE 960.429), houve a remessa dos autos para a Justiça Federal.
+A demandante anexou a informação id 448322949, em que noticia que a Suprema Corte julgou os embargos de declaração, relativo à modulação dos efeitos no Tema 992 de Repercussão Geral.
+(..)
+Nesse cenário, defiro o pedido formulado pela autora e determino a devolução do processo para a 2ª Vara do Trabalho de Juiz de Fora.
+Recebidos os autos, de volta, na justiça laboral, sobreveio decisão suscitando o presente incidente processual, ao entendimento segundo o qual, a despeito de ser incontroverso tratar-se de feito julgado em maio de 2017, a sentença restou anulada pelo Tribunal Regional, afastando o caso do alcance do Tema 992 da Repercussão Geral do STF.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízes vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, o entendimento externado pelo juízo suscitante vai de encontro à jurisprudência consolidada nesta Corte e no STF, porquanto o processo subjacente restou sentenciado em 17/5/2017, sendo, portanto, imperativa a sua permanência na Justiça do Trabalho. Confira-se, sobre esse aspecto, a tese firmada pelo STF no Tema 992 da Repercussão Geral:
+Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho.
+Em situação similar, anotou o Min. Mauro Campbell Marques inexisti r "muito sobre o que considerar sobre o tema porque esse tipo de controvérsia foi derradeiramente dirimida pelo Supremo Tribunal Federal, com o julgamento do Tema 992/STF, registrado com a repercussão geral do RE 960.429/RN, rel. Ministro Gilmar Mendes", fixando a competência trabalhistas para os feitos sentenciados antes de 6/6/2018, caso dos autos. (CC n. 183.485, Ministro Mauro Campbell Marques, DJe de 22/10/2021).
+No sub judice, é incontroverso tratar-se de processo sentenciado em 2017 e, assim, a competência segue com a Justiça do Trabalho.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 2ª Vara do Trabalho de Juiz de Fora/MG, ora suscitante.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
