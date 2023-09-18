@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o 1º Juizado Especial da Fazenda Pública da Comarca de Porto Velho/RO, como suscitante, e a 2ª Vara do Juizado Especial da Fazenda Pública do Foro Central de São Paulo, a suscitada, nos autos de ação indenizatória movida contra o estado de Rondônia.
+A ação foi originariamente proposta perante a Justiça de São Paulo, que declinou da competência. Segundo o entendimento do magistrado paulistano, "o art. 52, parágrafo único, do CPC deve ser interpretado no sentido da possibilidade de ajuizamento da ação no domicílio do autor desde que localizado nos limites territoriais do ente federativo demandado" (fl. 223). Assim, a despeito de a parte autora ser domiciliada em São Paulo, o foro de eleição estaria limitado aos juízos localizados no estado réu.
+O juízo rondoniense discordou do entendimento esposado pelo magistrado de origem, no que toca à norma do art. 52 do CPC, suscitando o presente incidente processual.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízes vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito da controvérsia, verifico existir decisão recente proferida pelo Supremo Tribunal Federal, no âmbito do controle concentrado de constitucionalidade, firmando a compreensão segundo a qual "a regra de competência prevista nos arts. 46, § 5º, e 52, caput e parágrafo único, do CPC, no ponto em que permite que estados e o Distrito Federal sejam demandados fora de seus respectivos limites territoriais, desconsidera sua prerrogativa constitucional de auto-organização". (ADI 5737, Relator(a): DIAS TOFFOLI, Relator(a) p/ Acórdão: ROBERTO BARROSO, Tribunal Pleno, julgado em 25/04/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 26-06-2023 PUBLIC 27-06-2023).
+O tema posto a desate neste incidente processual, portanto, não comporta maior debate, uma vez que o autor reside em São Paulo e os fatos subjacentes à ação de origem deram-se nos limites territoriais do estado réu, aplicando-se ao caso, assim, o entendimento acima adotado pelo STF.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda o 1º Juizado Especial da Fazenda Pública de Porto Velho, ora suscitante.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
