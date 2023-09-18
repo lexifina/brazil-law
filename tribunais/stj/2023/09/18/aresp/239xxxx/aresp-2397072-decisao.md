@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  agravo  do MUNICIPIO DE BALNEARIO CAMBORIU - SC, em que objetiva admissão  de  recurso especial interposto  contra  acórdão do TJSC assim  ementado:
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO COM FUNDAMENTO NO ENUNCIADO DA SÚMULA 392 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TESE RECURSAL DE INAPLICABILIDADE DO ENTENDIMENTO EXPOSTO NA DECISÃO AGRAVADA AO CASO CONCRETO. INSUBSISTÊNCIA. EXECUÇÃO FISCAL PROPOSTA EM DESFAVOR DE CONTRIBUINTE APÓS O SEU FALECIMENTO. FATO INCONTROVERSO NOS AUTOS. IMPOSSIBILIDADE DE REDIRECIONAMENTO DO FEITO AO ESPÓLIO OU AO HERDEIROS. PRECEDENTES. DECISÃO UNIPESSOAL INCÓLUME. RECURSO DESPROVIDO.
+"1. O redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal. Assim, se ajuizada execução fiscal contra devedor já falecido, mostra-se ausente uma das condições da ação, qual seja, a legitimidade passiva. Precedentes do STJ.  .. " (STJ. REsp n. 1.655.422/PR, Rei. Ministro Herman Benjamin. DJe 08.05.2017 - grifou-se).
+Os embargos de declaração foram rejeitados.
+O recorrente, apontando violação dos arts. 130 e 131, III, do CTN, sustenta, em resumo, a possibilidade de redirecionamento da execução fiscal em desfavor do espólio, uma vez que a morte do contribuinte só foi conhecida pela edilidade depois de ajuizada a demanda, não sendo o caso de aplicação do entendimento sedimentado na Súmula 392 do STJ e que o responsável tributário não pode se valer do descumprimento de ato de sua responsabilidade (informar ao fisco o óbito) do contribuinte.
+O recurso especial foi inadmitido por óbice da ausência de pré-questionamento (Súmula 282 do STF), por deficiência da fundamentação do recurso especial (Súmula 284 do STF) e por compatibilidade do acórdão com a jurisprudência do STJ, negando-se seguimento ao recurso especial ainda, com fulcro no art. 1.030, I, "b", do Código de Processo Civil, por conformidade do acórdão com o precedente repetitivo (Tema 166 do STJ) na parte relativa à impossibilidade de substituição do título executivo para alterar-se o sujeito passivo tributário.
+Interpostos agravo interno e o presente agravo em recurso especial.
+Passo a decidir.
+O apelo nobre se origina de execução fiscal extinta no primeiro grau em razão do reconhecimento, ex officio, de que a ação executiva de crédito de IPTU teria sido proposta contra sujeito passivo tributário já falecido, não sendo possível a substituição deste sujeito passivo ou o redirecionamento da execução fiscal ao seu espólio.
+O Tribunal catarinense negou provimento à apelação da edilidade, utilizando-se como razão de decidir de orientação jurisprudencial desta Corte superior acerca da matéria, contrária à pretensão do município.
+Pois bem.
+O presente recurso especial não supera o juízo de admissibilidade.
+Isso porque o acórdão recorrido está em conformidade com a orientação jurisprudencial desta Corte Superior, conforme se verifica dos seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO ANTES DA PROPOSITURA DA AÇÃO. REDIRECIONAMENTO AO ESPÓLIO. INVIABILID ADE. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PREVISTA NO ART. 1021, §4º, DO CPC/2015 REVOGADA.
+ ..
+2. De fato, corretamente o acórdão reiterou a sentença, pois o STJ possui o entendimento pacífico de que o redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal, o que não é o caso dos autos, já que o devedor apontado faleceu antes do ajuizamento da demanda. Aplica-se a Súmula 83/STJ.
+ ..  (REsp 1.835.711/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXECUTADO FALECIDO NO CURSO DA EXECUÇÃO, ANTES DA CITAÇÃO. REDIRECIONAMENTO. IMPOSSIBILIDADE.
+1. Conforme o entendimento do Superior Tribunal de Justiça, somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos.
+2. Recurso especial a que se nega provimento.
+(REsp 1.832.608/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe 24/09/2019).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. ESPÓLIO. REDIRECIONAMENTO. IMPOSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ. MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+ ..
+II - É pacífico o entendimento nesta Corte no sentido de que o redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal.
+ ..
+(AgInt no REsp 1.681.731/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 16/11/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. CDA EXPEDIDA CONTRA PESSOA FALECIDA ANTERIORMENTE À CONSTITUIÇÃO DO CRÉDITO. NULIDADE. REDIRECIONAMENTO. IMPOSSIBILIDADE. SÚMULA 392/STJ. MATÉRIA SUBMETIDA AO RITO DO ART. 543-C DO CPC. OBRIGAÇÃO DOS SUCESSORES DE INFORMAR SOBRE O ÓBITO DO PROPRIETÁRIO DO IMÓVEL E DE REGISTRAR A PARTILHA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+1. O redirecionamento contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal, o que não é o caso dos autos, já que o devedor apontado pela Fazenda municipal faleceu antes mesmo da constituição do crédito tributário. Precedentes: REsp 1.222.561/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/05/2011; AgRg no REsp 1.218.068/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 08/04/2011; REsp 1.073.494/RJ, Rel. Ministro Luiz Fux, Primeira Turma, DJe 29/09/2010.
+2. Não se pode fazer mera emenda do título executivo, a teor da Súmula 392/STJ, que dita: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução". Matéria já analisada inclusive sob a sistemática do art. 543-C do CPC (REsp 1.045.472/BA, Rel. Min. Luiz Fux, Primeira Seção, DJe de 18/12/2009).
+ ..  (AgRg no AREsp 324.015/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+Nesse contexto, incide a impedir o conhecimento do recurso especial o óbice estampado na Súmula 83 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
