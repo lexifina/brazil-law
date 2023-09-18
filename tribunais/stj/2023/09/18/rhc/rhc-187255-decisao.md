@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por BRUNO GUSTAVO DE LIMA SILVINO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba, que denegou a ordem originária e manteve a prisão cautelar do paciente pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+Nesta Corte, a defesa alega que não há motivação concreta para a prisão cautelar. Destaca a pequena quantidade de droga apreendida.
+Pleiteia a revogação da prisão preventiva, ou, subsidiariamente, a aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O juiz sentenciante decretou a prisão preventiva nos seguintes termos:
+Analisando os antecedentes criminais do segregado, infere-se que o detido é reincidente específico, havendo duas condenações por tráfico ilícito de entorpecentes, com trânsito em julgado, quais sejam: Guia de Execução Penal nº 7002446-17.2018.815.0070 e processo nº0001717-92.2016.815.0131), demonstrando a contumácia no cometimento de tais delitos, de modo que a referida circunstância indica, ao menos no primeiro contato com o feito, que a ordem pública encontra-se ameaçada, sendo evidente o perigo gerado pelo estado de liberdade do imputado, ante o elevado risco de reiteração da conduta delitiva.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente motivada na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente - uma vez que duplamente reincidente específico.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Pelo mesmo motivo acima delineado, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do recorrente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
