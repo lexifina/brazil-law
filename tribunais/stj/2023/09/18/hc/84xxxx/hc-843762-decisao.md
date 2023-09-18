@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Celio Ferreira Cecote, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Depreende-se dos autos que o Juízo de Direito da 2ª Vara Criminal da comarca de Sumaré/SP, na Ação Penal n. 0005197-79.2014.8.26.0604, julgou procedente a pretensão punitiva estatal deduzida na denúncia para condenar o ora paciente como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 8 anos e 2 meses de reclusão, e pagamento de 816 dias-multa, e como incurso no art. 35, caput, da Lei n. 11.343/2006, à pena de 4 anos, 10 meses e 24 dias de reclusão, além do pagamento de 1.143 dias-multa, tudo combinado com o art. 69, caput, do Código Penal, em regime inicial fechado, vedado o recurso em liberdade (fls. 15/21).
+Interposta a apelação, o Tribunal a quo, por unanimidade, negou provimento ao recurso defensivo, mantendo, na íntegra, a sentença recorrida (Apelação Criminal n. 0005197-79.2014.8.26.0604 - fls. 22/33).
+Neste Tribunal Superior, o impetrante almeja, em síntese, seja concedida liminarmente a ordem de habeas corpus em favor do paciente, seja para reformar a dosimetria da pena, na primeira fase ou na pena-base, para deixar no mínimo legal ou seja aplicar a exasperação no patamar de apenas 1/6, seja determinado que o juízo a quo, após definir o patamar de redução, recalcule a pena e proceda ao reexame do regime inicial do cumprimento da sanção e da substituição da pena privativa de liberdade por sanções restritivas de direitos, se preenchidos os requisitos do art. 44 do Código Penal (fl. 14).
+Liminar indeferida (fls. 38/39).
+Informações prestadas (fls. 44/71), o Ministério Público Federal ofereceu parecer pela inadmissibilidade do habeas corpus, mas, se admitido, pela denegação da ordem (fls. 75/79).
+É o relatório.
+O presente habeas corpus é substitutivo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão criminal em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confira -se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL.NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido. (AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+Ainda que assim não fosse, não verifico a ocorrência de manifesta ilegalidade a ser sanada de ofício.
+É cediço que na fixação da pena, não há um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg noAREsp n. 1.218.352/MG, Ministro Jorge Mussi, Quinta Turma, DJe 5/12/2018).
+In casu, verifica-se que a pena-base foi aumentada em 2/5, de forma fundamentada, pelas instâncias ordinárias, em decorrência da grande quantidade de drogas apreendidas (art. 42 da Lei n. 11.343/2006) - 49 tijolos de "maconha", pesando 60 kg, outras seis (6) porções, pesando cerca de 1,5 kg e mais vinte e cinco (25) porções menores, pesando cerca de 400,0 g da mesa droga, além de quatrocentos e setenta e dois (472) invólucros de "cocaína", pesando 315,0 g (fl. 27).
+Cumpre salientar a quantidade e/ou natureza de drogas apreendidas constitui elemento idôneo para justificar a imposição de regime mais gravoso, de acordo com o disposto no art. 42 da Lei de Drogas e no art. 33, § 3º, do Código Penal - CP e em consonância com o entendimento desta Corte. (AgRg no HC n. 832.428/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe 14/8/2023).
+Ante o exposto, não conheço do habeas corpus.
+Pu blique-se.
+EMENTA
+HABEAS CORPUS . TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. DOSIMETRIA. REGIME PRISIONAL. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
