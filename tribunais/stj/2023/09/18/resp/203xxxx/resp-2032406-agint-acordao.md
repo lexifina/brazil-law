@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI N. 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI N. 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI N. 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para o controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de home care ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei n. 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgados específicos da Terceira e Quarta Turmas acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei n. 9.656/1998 ante a superveniência da Lei n. 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por G R P contra decisão assim ementada:
+RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. BOMBA INFUSORA DE INSULINA. TRATAMENTO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR.
+RECURSO ESPECIAL PROVIDO. (fl. 841)
+A parte agravante alega, em síntese, que (fl. 868):
+ .. com a Lei 14.454/2022 que alterou a Lei 9.656/98, passou a constituir o rol como referência básica de cobertura obrigatória pelos planos de saúde, de modo que uma vez fora deste rol da ANS e demonstrada a comprovação da eficácia, à luz das ciências da saúde, baseada em evidência científicas ou recomendações pela Conitec, mediante indicação médica fundamentada acerca da necessidade de uso, a operadora não está isenta da obrigação de custear o tratamento.
+Colaciona julgados favoráveis à cobertura pleiteada.
+Requer seja reformada a decisão para restabelecer o acórdão estadual.
+Impugnação às fls. 882-897.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI N. 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI N. 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI N. 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para o controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de home care ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei n. 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgados específicos da Terceira e Quarta Turmas acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei n. 9.656/1998 ante a superveniência da Lei n. 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece ser provido.
+A controvérsia diz respeito à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), equipamento utilizado no controle da diabetes mellitus tipo 1 em ambiente domiciliar.
+O Tribunal de origem entendeu que a cobertura seria devida, em virtude da prescrição médica e da irrelevância da ausência de previsão de cobertura obrigatória no rol da ANS.
+Na decisão ora agravada, o acórdão recorrido foi reformado para se julgar improcedente o pedido, em virtude da exclusão legal do plano de referência de tratamentos domiciliares.
+Conforme constou na decisão ora agravada, a terapia domiciliar é expressamente excluída da cobertura obrigatória do plano de referência, conforme previsão normativa do art. 10, inciso VI, da Lei n. 9.656/1998, abaixo transcrito:
+Art. 10. É instituído o plano-referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 desta Lei, exceto: (Redação dada pela Medida Provisória nº 2.177-44, de 2001) ..
+VI - fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art. 12; (Redação dada pela Lei nº 12.880, de 2013) (Vigência)
+Observe-se que, havendo exclusão legal da cobertura obrigatória, torna-se irrelevante a controvérsia acerca do caráter taxativo ou exemplificativo do Rol da ANS.
+Especificamente sobre a bomba infusora de insulina, a jurisprudência desta Corte Superior possui julgados recentes no sentido da ausência de obrigatoriedade de cobertura.
+Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de "home care" ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgado específico desta TURMA acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei 9.656/1998 ante a superveniência da Lei 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp n. 1.987.778/SC, relator Ministro Paulo de Tarso Sanseverino, Redator para o acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES. EQUIPAMENTO DE MONITORAMENTO DE GLICOSE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXCEÇÃO. TRATAMENTO DOMICILIAR. EQUIPAMENTO NÃO LIGADO A ATO CIRÚRGICO. RECUSA DE COBERTURA DEVIDA.
+1. Segundo a jurisprudência desta Corte, é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. Hipótese em que são pleiteados equipamentos para monitoramento de glicose, os quais são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura.
+3. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO. PLANO DE SAÚDE. INSULINA. MEDICAMENTO DE USO DOMICILIAR, ADQUIRIDO EM FARMÁCIA COMUM. NÃO ENQUADRAMENTO COMO ANTINEOPLÁSICO, COMO MEDICAÇÃO ASSISTIDA (HOME CARE) NEM ESTÁ ENTRE OS INCLUÍDOS NO ROL DA ANS PARA ESSE FIM. COBERTURA LEGAL OBRIGATÓRIA. INEXISTÊNCIA. ENTENDIMENTO PACIFICADO NO ÂMBITO DO STJ. PRECEDENTES DAS DUAS TURMAS DE DIREITO PRIVADO.
+1. Como bem ponderado pela Corte local, "a bomba infusora de insulina é aparelho que pode ser facilmente adquirido em farmácias", sendo, pois, tecnicamente medicamento de uso domiciliar. Com efeito, como assentado pela Terceira Turma, é "lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp n. 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. "Domiciliar, de acordo com a lei, refere-se a ambiente que, necessariamente, contrapõe-se a ambulatorial e a hospitalar, com o que se exclui da cobertura legal o fornecimento de medicamentos que, mesmo prescritos pelos profissionais da saúde e ministrados sob sua recomendação e responsabilidade, devam ser utilizados fora de ambulatório ou hospital"
+(REsp 1883654/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2021, DJe 02/08/2021).
+3. Por um lado, como ponderado em recente recurso repetitivo julgado pela Segunda Seção, REsp n. 1.755.866/SP, relator Ministro Marco Buzzi, a universalização da cobertura não pode ser imposta de modo completo e sem limites ao setor privado, porquanto, nos termos dos arts. 199 da Constituição Federal e 4º da Lei n. 8.080/1990, a assistência à saúde de iniciativa privada é exercida em caráter complementar, sendo certo que a previsão dos riscos cobertos, assim como a exclusão de outros, é inerente aos contratos. Por outro lado, a saúde suplementar cumpre propósitos traçados em regras legais e infralegais. Assim sendo, não se limita ao tratamento de enfermidades, mas também atua na relevante prevenção, não estando o Judiciário legitimado e aparelhado para interferir, em violação da tripartição de Poderes, nas políticas públicas. Precedente.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.973.853/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Observe-se que os julgados acima transcritos são posteriores àqueles mencionados nas razões do agravo interno, não havendo falar, portanto, em divergência de entendimentos, mas tão somente de mudança de entendimento, agora em sentido contrário às pretensões da parte ora agravante.
+Observe-se, também, que os julgados estão fundamentados na exclusão legal de obrigatoriedade de cobertura prevista no art. 10, inciso VI, da Lei n. 9.656/1998, abaixo transcrito:
+Art. 10. É instituído o plano-referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 desta Lei, exceto: (Redação dada pela Medida Provisória nº 2.177-44, de 2001)
+..
+VI - fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art. 12; (Redação dada pela Lei nº 12.880, de 2013) (Vigência)
+Tratando-se de exclusão legal, torna-se irrelevante a controvérsia acerca da superveniência da Lei n. 14.454/2022, pois, ainda que se entenda pelo caráter exemplificativo do Rol da ANS, a força normativa do art. 10, inciso VI, da Lei n. 9.656/1998 é fundamento bastante para justificar a recusa de cobertura.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
