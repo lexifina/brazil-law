@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, "a alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF" (AgInt no REsp 1.987.496/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+2. O Tribunal de origem atestou a existência de conexão entre a presente demanda e a Ação Civil Pública n. 0803836-61.2019.4.05.8000 com base nas provas existentes nos autos, de forma que alterar a conclusão adotada levaria a uma inevitável incursão no conjunto fático-probatório existente no feito, inviável no âmbito do recurso especial ante o óbice da Súmula 7 do STJ.
+3. Incide, in casu, o óbice da Súmula 211 do STJ, uma vez que as teses de que o sobrestamento do feito é faculdade do autor da demanda e que o prazo máximo para suspensão da ação seria de 1 (um) ano, embora apresentadas nos aclaratórios, não foram efetivamente enfrentadas pela Corte a quo, ao tempo em que não há, nas razões recursais do apelo nobre, alegação idônea para conhecimento de possível ofensa ao art. 1.022 do CPC (em razão da incidência da Súmula 284 do STF), sendo inviável, por conseguinte, a aplicação do art. 1.025 do CPC .
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA LUCIA NOGUEIRA DA SILVA contra decisão em que conheci do agravo para não conhecer de recurso especial, considerando a incidência da Súmula 284 do STF e das Súmulas 7 e 211 do STJ.
+A parte agravante alega, em síntese, que não há deficiência na fundamentação de seu recurso, que não é necessário reexaminar as provas dos autos para decidir a questão posta, bem como que as matérias foram devidamente prequestionadas por terem sido objeto dos embargos de declaração (e-STJ fls. 808/823).
+Contraminuta apresentada às e-STJ fls. 828/832, em que a parte adversa pugna pelo desprovimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, "a alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF" (AgInt no REsp 1.987.496/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+2. O Tribunal de origem atestou a existência de conexão entre a presente demanda e a Ação Civil Pública n. 0803836-61.2019.4.05.8000 com base nas provas existentes nos autos, de forma que alterar a conclusão adotada levaria a uma inevitável incursão no conjunto fático-probatório existente no feito, inviável no âmbito do recurso especial ante o óbice da Súmula 7 do STJ.
+3. Incide, in casu, o óbice da Súmula 211 do STJ, uma vez que as teses de que o sobrestamento do feito é faculdade do autor da demanda e que o prazo máximo para suspensão da ação seria de 1 (um) ano, embora apresentadas nos aclaratórios, não foram efetivamente enfrentadas pela Corte a quo, ao tempo em que não há, nas razões recursais do apelo nobre, alegação idônea para conhecimento de possível ofensa ao art. 1.022 do CPC (em razão da incidência da Súmula 284 do STF), sendo inviável, por conseguinte, a aplicação do art. 1.025 do CPC .
+4. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, não basta que a parte mencione que não foram sanadas as omissões apontadas nos aclaratórios e invoque dispositivos de lei dissociados de argumentação suficiente à compreensão da controvérsia.
+Sem, portanto, indicar de forma concreta quais as teses jurídicas omitidas no acórdão recorrido, como ocorreu in casu, há deficiência na fundamentação apta a atrair a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. LEI 9.873/1999. DECRETO N. 20.910/1932. INAPLICABILIDADE. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREVISÃO LEGAL. SÚMULA 83/STJ. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+3. O acórdão proferido pela Corte a quo está em conformidade com o entendimento do Superior Tribunal de Justiça, no sentido de que o Decreto n. 20.910/32 regula somente a prescrição quinquenal, não havendo previsão acerca de prescrição intercorrente, contida apenas na Lei n. 9.873/1999, que, conforme entendimento desta Corte, não se aplica às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.987.496/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+No tocante à incidência da Súmula 7 do STJ, cumpre destacar que o Tribunal de origem atestou a existência de conexão entre a presente demanda e a Ação Civil Pública n. 0803836-61.2019.4.05.8000 ao expressamente assentar que a ACP "se trata de uma macrolide e serviria de prova emprestada para o deslinde da ação individual proposta pelos agravantes" (e-STJ fl. 48).
+Assim, tem-se que alterar a conclusão adotada levaria a uma inevitável incursão no conjunto fático-probatório existente no feito, inviável no âmbito do recurso especial ante o aludido óbice de conhecimento.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIREITO CIVIL. DIREITO DE FAMÍLIA. PROCESSUAL CIVIL. CONTINÊNCIA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. SÚMULA 7, DO STJ. CONTINÊNCIA SUBJETIVA CRUZADA. NÃO DESCARACTERIZAÇÃO. FLEXIBILIZAÇÃO DOS ELEMENTOS. ART. 56, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior de Justiça manifesta-se no sentido de que "a conexão ou a continência, por decorrência da identidade da causa de pedir ou pedido, torna conveniente o julgamento conjunto, não só por medida de economia processual, mas também para evitar a possibilidade de prolação de decisões contraditórias, que trariam desprestígio à Justiça" (AgInt no AREsp 479.470/SP, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3.8.2017, DJe de 27.9.2017).
+2. A continência é fenômeno que se dá "entre 2 (duas) ou mais ações quando houver identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais" (art. 56, do CPC).
+3. O que realmente torna imperiosa a reunião de processos, para julgamento em sentença única, e com derrogação de competência anteriormente firmada, é a efetiva possibilidade prática de ocorrerem julgamentos contraditórios nas causas. Interpretação art. 58, do Código de Processo Civil.
+4. Na hipótese, o Tribunal de origem concluiu, com base na análise das petições iniciais de ambas as ações propostas, que há identidade de partes, de pedido e causa de pedir, para reconhecer a continência.
+5. Nesse contexto, a análise relativa à existência de continência e litispendência é insuscetível de reapreciação em sede de Recurso Especial, por força do óbice da Súmula nº 7 do STJ.
+6. É entendimento consagrado por esta Corte que há litispendência ou, no caso, continência (também denominada de litispendência parcial) quando presente a tríplice identidade - mesmas partes, mesma causa de pedir e mesmos pedidos -, sendo irrelevante o fato de as partes ocuparem polos processuais contrapostos nas duas ações.
+Precedentes.
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.118.924/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.).
+Quanto ao prequestionamento, forçoso esclarecer que não basta que a tese esteja presente nos embargos de declaração, mas sim que tenha sido efetivamente debatida pela Corte de origem ou, ainda, que, caso o Tribunal tenha se mantido silente, que a questão tenha sido suscitada adequadamente por meio da indicação de violação do art. 1.022 do CPC no bojo do recurso especial.
+No caso em apreço, contudo, consoante destacado no decisum atacado, as teses de que o sobrestamento do feito é faculdade do autor da demanda e que o prazo máximo para suspensão da ação seria de 1 (um) ano, embora apresentadas nos aclaratórios, não foram efetivamente enfrentadas pela Corte a quo, ao tempo em que não há, nas razões recursais, alegação idônea para conhecimento de possível ofensa ao art. 1.022 do CPC (em razão da incidência da Súmula 284 do STF), sendo inviável, por conseguinte, a aplicação do art. 1.025 do CPC.
+Assim, inafastável, na espécie, o óbice da Súmula 211 do STJ.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
