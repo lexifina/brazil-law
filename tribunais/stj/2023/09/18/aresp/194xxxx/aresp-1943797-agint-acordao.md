@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O art. 85, § 1º, do CPC/2015 regulou as exatas hipóteses de fixação da verba honorária, não contemplando a fase de liquidação de sentença por se tratar de procedimento que tem por finalidade a definição do montante devido para possibilitar a satisfação do título judicial. Todavia, a jurisprudência consolidou o entendimento de que, constatada a litigiosidade na liquidação, a efetiva sucumbência da parte implicará sua condenação nas verbas sucumbenciais. Precedentes: EDcl nos EDcl no REsp 1.960.177/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022; AgInt no REsp 2.016.278/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023; AgInt no AREsp 1.781.672/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+2. No presente caso, a fase de liquidação de sentença se revestiu de caráter litigioso, o que autoriza a fixação da verba sucumbencial, nos termos do entendimento jurisprudencial desta Corte Superior.
+3. Decisão agravada mantida por outros fundamentos.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por OPÇÃO RN CORRETORA DE COMMODITIES LTDA. contra decisão proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. OMISSÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS (fl. 597).
+Afirma a parte agravante, em síntese, que a decisão agravada parte de premissa equivocada ao arbitrar honorários de sucumbência em impugnação ao cumprimento de sentença quando o caso em análise é de liquidação de sentença, onde, segundo a parte agravante, são incabíveis honorários de sucumbência.
+A parte agravada não apresentou impugnação (fl. 618).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O art. 85, § 1º, do CPC/2015 regulou as exatas hipóteses de fixação da verba honorária, não contemplando a fase de liquidação de sentença por se tratar de procedimento que tem por finalidade a definição do montante devido para possibilitar a satisfação do título judicial. Todavia, a jurisprudência consolidou o entendimento de que, constatada a litigiosidade na liquidação, a efetiva sucumbência da parte implicará sua condenação nas verbas sucumbenciais. Precedentes: EDcl nos EDcl no REsp 1.960.177/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022; AgInt no REsp 2.016.278/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023; AgInt no AREsp 1.781.672/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+2. No presente caso, a fase de liquidação de sentença se revestiu de caráter litigioso, o que autoriza a fixação da verba sucumbencial, nos termos do entendimento jurisprudencial desta Corte Superior.
+3. Decisão agravada mantida por outros fundamentos.
+4. Agravo interno a que se nega provimento.
+VOTO
+No que se refere ao cabimento de honorários advocatícios, é certo que o art. 85, § 1º, do CPC/2015 regulou as exatas hipóteses de fixação da verba honorária, não contemplando a fase de liquidação de sentença por se tratar de procedimento que tem por finalidade a definição do montante devido para possibilitar a satisfação do título judicial. Todavia, a jurisprudência consolidou o entendimento de que, constatada a litigiosidade na liquidação, a efetiva sucumbência da parte implicará sua condenação nas verbas sucumbenciais. Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS. EXCEPCIONAL. NÍTIDO CUNHO LITIGIOSO. HIPOTESE NÃO VERIFICADA. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Verifica-se que o entendimento adotado pelo acórdão recorrido encontra-se de acordo com a atual jurisprudência do Superior Tribunal de Justiça, que define que a fixação de honorários sucumbenciais na fase de liquidação de sentença não é a regra, mas sim uma exceção, a ser verificada quando, nessa fase, estiver configurada uma litigiosidade entre as partes capaz de prolongar a atuação contenciosa dos patronos das partes. Precedentes.
+4. Na hipótese, o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não se verificou a existência de litigiosidade além dos procedimentos inerentes à própria liquidação por arbitramento.
+5. Assim delineados os fatos, inviável a revisão da conclusão firmada pelo Tribunal, nos moldes alegados pelo ora agravante, sem o reexame do suporte fático-probatório dos autos, providência essa vedada no âmbito do recurso especial. Incidência da Súmula 7/STJ.
+6. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.919.219/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/3/2023, DJe de 13/4/2023 - sem destaque no original.)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. PRESENÇA DE ERRO MATERIAL. FIXAÇÃO DE HONORÁRIOS EM SEDE DE LIQUIDAÇÃO. POSSIBILIDADE.
+1. Em havendo omissão, obscuridade, contradição ou erro material, merecem ser acolhidos os embargos declaratórios interpostos.
+2. Merece ser esclarecido que o processo se encontra em fase de liquidação por arbitramento, onde são fixados os honorários dada a litigiosidade existente.
+3. Embargos de declaração acolhidos, sem efeitos infringentes. (EDcl nos EDcl no REsp n. 1.960.177/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022 - sem destaque no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS (CPC, ART. 85, § 1º). LIQUIDAÇÃO DE SENTENÇA. CARÁTER LITIGIOSO. CABIMENTO. RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DO CASO CONCRETO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior, mesmo após o advento do CPC/2015, manteve o entendimento já consagrado desde a vigência do CPC/1973 de, em regra, não serem devidos honorários advocatícios sucumbenciais em sede de liquidação de sentença, sendo cabíveis quando a liquidação ostentar nítido caráter litigioso. Precedentes.
+2. Não há, na compreensão exposta, incompatibilidade com a regra do art. 85, § 1º, do novo CPC, pois está a liquidação compreendida no cumprimento de sentença, expressamente referido no dispositivo legal, cabendo, assim, a condenação ao pagamento de honorários sucumbenciais, quando constatada litigiosidade.
+3. Na espécie, o caráter litigioso da liquidação realizada no presente feito não foi objeto de discussão pela Corte de origem, que afastou, desde logo, o cabimento dos honorários advocatícios em sede de liquidação de sentença. Necessário o retorno dos autos à Corte de origem para análise da questão.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.016.278/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023 - sem destaque no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PARCERIA PECUÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. SÚMULA Nº 7/STJ. LIQUIDAÇÃO. CUNHO LITIGIOSO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca da ventilada violação da coisa julgada demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. É possível a fixação de honorários advocatícios, em caráter excepcional, nos casos em que a fase de liquidação de sentença assumir nítido cunho litigioso. Precedentes.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.781.672/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021 - sem destaque no original.)
+A liquidação de sentença se revestiu de caráter litigioso, pois houve divergência entre os cálculos apresentados pelas partes e a necessidade de intervenção no processo de auxiliares da Justiça, como a contadoria do Juízo, ensejando, ainda, agravo de instrumento interposto ao Tribunal Regional Federal da 4ª Região, recurso especial e agravo em recurso especial, além de diversos recursos internos no Superior Tribunal de Justiça.
+Dessa forma, está autorizada a fixação da verba sucumbencial, nos termos do entendimento jurisprudencial desta Corte Superior.
+Pelo exposto, nego p rovimento ao agravo interno e mantenho a decisão agravada por outros fundamentos.
+É o voto.
