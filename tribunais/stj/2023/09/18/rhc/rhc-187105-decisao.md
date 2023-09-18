@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fls. 741-742):
+HABEAS CORPUS. INQUÉRITO POLICIAL. CRIME CONTRA A ECONOMIA POPULAR, INDUZIMENTO À ESPECULAÇÃO E ORGANIZAÇÃO CRIMINOSA. INDÍCIOS DE MATERIALIDADE E AUTORIA. PRISÃO PREVENTIVA FUNDAMENTADA NA GRAVIDADE CONCRETA DOS DELITOS. ELEVADOS PREJUÍZOS CAUSADOS ÀS VÍTIMAS, COM POSSIBILIDADE DE REITERAÇÃO POR NOVAS CAPTAÇÕES. DENÚNCIA OFERTADA E RECEBIDA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DENEGAÇÃO DA ORDEM.
+- Infere-se que a prisão preventiva resta suficientemente justificada, com base na gravidade concreta dos crimes, explicitada, notadamente, não só pelo elevado prejuízo financeiro causado às vítimas, como também, a toda evidência, dada a possibilidade de reiteração delitiva com a captação de novos clientes para o esquema de pirâmide financeira.
+- Nessa esteira, uma vez demonstrada, com base em lastro probatório, a existência da prova da materialidade dos crimes, bem como evidenciada a imprescindibilidade da medida e o cabimento nas hipóteses excepcionais do art. 312 do CPP, deve ser mantida a prisão preventiva e denegada a ordem de soltura, máxime quando já substituída por medidas diversas da prisão.
+- A presença de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não possui o condão de, isoladamente, desconstituir a custódia antecipada, caso existentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese dos autos. Precedentes do STJ.
+- Hipótese na qual, além de já ofertada e recebida a denúncia, o juízo a deferiu, em favor da paciente, a substituição da prisão preventiva quo pela domiciliar, nos termos do art. 318, V, do CPP, em razão da existência de filhos menores de 12 (doze) anos, não havendo, por ora, outra providência a ser adotada no caso concreto.
+- Ausência de constrangimento ilegal.
+- Ordem denegada.
+Consta dos autos que a paciente foi denunciada como incursa no art. 2º, caput, da Lei n.º 12.850/2013; art. 174 do CP; e art. 2º, IX, da Lei n.º 1.521/1951; todos c/c art. 71 do CP. Decretada sua prisão preventiva, esta foi substituída por prisão domiciliar pelo juízo de primeiro grau.
+No presente recurso, a defesa alega excesso de prazo para a conclusão da instrução processual.
+Argumenta que " e mbora a paciente figurasse como sócia da empresa 100k Investiment essa nunca geriu de fato a empresa, sendo exclusivamente ESPOSA E DONA DE CASA, sequer frequentava as dependências físicas do empreendimento, não tendo qualquer relação de causalidade entre ela e os ilícitos ora apontados contra seu marido Rodrigo, sendo, Data Máxima Vênia, deveras injusto o decreto prisional, ainda mais na modalidade preventiva" (fl. 776).
+Sustenta que o decreto prisional carece de fundamentação idônea, estando ausentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva mediante a aplicação de medidas cautelares diversas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Inicialmente, ressalte-se que no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, pelo que não é possível aferir a materialidade e a autoria delitiva quando controversas, bem como a atipicidade da conduta. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+No tocante ao alegado excesso de prazo, vê-se que a matéria não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Por fim, verifica-se que o pleito de revogação da prisão preventiva encontra-se prejudicado, pois, consoante se extrai do acórdão impugnado, o juízo de primeiro grau "deferiu, em favor da increpada, a substituição da prisão preventiva pela domiciliar, nos termos do art. 318, V, do CPP, em razão da existência de filhos menores de 12 (doze) anos  .. , não havendo, por ora, outra providência a ser adotada no caso" (fl. 749).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
