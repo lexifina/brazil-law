@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MEZAK BRAGA DA SILVA SANTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Ação: declaratória de inexistência de débito, c/c reparação por danos morais e materiais apresentada pela agravante, em face do BANCO PAN S. A., em razão de contrato de empréstimo consignado.
+Sentença: julgou procedente o pedido para determinar que os descontos referentes aos empréstimos contratados pelo autor seja conforme o convencionado e ofertado pelo réu nas tratativa, ou seja, descontada a quantia R$ 989,73 (novecentos e oitenta e nove reais e setenta e três centavos), fazendo constar o número correto de parcelas - 68 meses; condenar o agravado ao pagamento de R$ 5.000,00 (cinco mil reais) a título de danos morais e R$ 11.869,56, referentes aos descontos indevidamente realizados.
+Acórdão: deu provimento ao recurso interposto pelo agravado, para, reformando a r. sentença, julgar improcedentes os pedidos iniciais, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR, CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE PROPOSTA DE PORTABILIDADE DE DÍVIDA. REALIZAÇÃO DE NOVOS EMPRÉSTIMOS CONSIGNADOS. CONDUTA ILÍCITA DO BANCO. NÃO COMPROVAÇÃO. PEDIDOS DE OBRIGAÇÃO DE FAZER, INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPROCEDÊNCIA. SENTENÇA REFORMADA.
+1. A responsabilidade dos fornecedores de serviços na hipótese é objetiva, prescindindo da existência de culpa; logo, o dever de reparar pressupõe a comprovação da conduta ilícita, do efetivo prejuízo e do nexo de causalidade entre eles, conforme previsão contida no art. 14 do CDC.
+2. A ausência de prova de conduta ilícita imputável ao Banco Réu exclui a responsabilidade da instituição pelos fatos alegados pelo Autor.
+3. O Autor admite a realização dos procedimentos digitais e a conclusão das contratações, assim como a instrução processual demonstra que teve atuação determinante no desenrolar dos fatos na forma como sucederam, pois agiu com flagrante incúria ao firmar os ajustes; primeiro, porque a proposta apresentada na inicial era obviamente inexequível, pois o valor final para pagamento em 5 anos e 8 meses era inferior ao valor disponibilizado na conta corrente dele a título de empréstimo; segundo, porque o Autor firmou contratos, assumiu obrigações, realizou uma sucessão de operações e recebeu valores que obviamente não condiziam com o resultado almejado.
+4. Incabível compensação por danos morais quando ausente conduta do Banco Réu apta a caracterizar violação a atributos da personalidade do Autor.
+5. Recurso conhecido e provido.
+Recurso especial: alega violação dos arts. 6º, VIII, 14, 30, 34, 35 do CDC, 171 do CC e da Súmula 297 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: Súmula 7/STJ (quanto à apontada ofensa aos artigos 14, 30, 34 e 35, todos do Código de Defesa do Consumidor - no tocante à ausência de ato ilícito); Súmula 211/STJ (quanto aos artigos 6º, inciso VIII, do CDC e 171 do Código Civil) e Súmula 518/STJ (em relação à alegada afronta ao enunciado da Súmula 297 do STJ).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento: Súmula 518/STJ (em relação à alegada afronta ao enunciado da Súmula 297 do STJ).
+O art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual referido ponto deveria ter sido especificamente combatido.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 776) para 11%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
