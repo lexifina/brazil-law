@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ARTIGO 4º DO DECRETO 20.910/1932. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da tese que sustenta a violação do artigo 4º do Decreto 20.910/1932, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 437 ):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ARTIGO 4º DO DECRETO 20.910/1932. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta, em suma, que "resta superada a súmula impeditiva de recurso aplicadas na r. decisão em primeiro, no caso, a súmula 211/STJ pelo fato de que o art. 1.022/CPC foi violado e o INSS seguiu o caminho processual adequado nos termos dos artigos 1.022 com 1.025 do CPC, com amparo ainda na Súmula 98/STJ" (fl. 450).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ARTIGO 4º DO DECRETO 20.910/1932. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da tese que sustenta a violação do artigo 4º do Decreto 20.910/1932, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Como salientado, o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+Com efeito, o recorrente sustenta violação do artigo 4º do Decreto 20.910/1932, aduzindo que: (a) "conforme a teoria da actio nata, a prescrição somente começa a correr quando o credor tem conhecimento do crédito, porém sem olvidar da suspensão da prescrição no período de apuração do crédito (processo administrativo). No caso em discussão, tal teoria é associada à aplicação do Decreto 20910/32 por simetria, cujo art. 4º determina a não fluência de prazo de prescrição enquanto estiver no curso de apuração do crédito. Portanto, o crédito somente poderá ser exigido após sua apuração mediante o devido processo administrativo e, no curso deste, não corre prazo prescricional"(fl. 353); e (b) "o prazo prescricional apenas se inicia do conhecimento do pagamento indevido (conhecimento da fraude), quando se instaura o processo administrativo para apuração do ilícito, sendo certo que durante o trâmite do processo administrativo ocorre a suspensão do prazo prescricional, garantindo-se o oferecimento de defesa administrativo, para somente após o término do processo administrativo, com o julgamento dos eventuais recursos, iniciar-se o prazo prescricional quinquenal Ao contrário do que entendeu o v.
+acórdão, o início do prazo prescricional para o INSS se inicia a partir do término do processo administrativo de cobrança (princípio da actio nata), com obediência à ampla defesa" (fl. 355).
+Ao que se vê, a Corte de origem, de fato, não apreciou nem debateu a controvérsia acerca da suposta violação do artigo 4º do Decreto 20.910/1932. Assim, a ausência de juízo de valor sobre a referida tese por parte do Tribunal a quo, a despeito da oposição dos embargos de declaração, acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+Ainda que assim não fosse, cumpre salientar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+Na hipótese, nota-se que a parte recorrente não se desincumbiu do ônus de indicar a ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão quanto à questão, o que impede o reconhecimento do prequestionamento ficto.
+Nesse sentido, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.  ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.682.293/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.098.633/MG, Rel.
+Ministro Luis Felipe Salomão, Quarta Turma, DJe 15/9/2017)
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 211/STJ, nos termos dos fundamentos supra.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
