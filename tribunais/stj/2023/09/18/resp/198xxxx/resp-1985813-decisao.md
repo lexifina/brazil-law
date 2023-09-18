@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DOBRASIL - CASSI, fundado nas alíneas "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 09/08/2021.
+Concluso ao gabinete em: 22/03/2022.
+Ação: de reparação de danos ajuizada por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DOBRASIL - CASSI em face de WALQUIRIA SANTALUCIA TAVARES e ESTRELA SANTALUCIA TAVARES, em virtude da revogação da decisão que deferiu a antecipação de tutela.
+Sentença: o Juízo de primeiro grau julgou improcedente o pedido.
+Acórdão: o TJ/SP, em novo julgamento para adequação a entendimento do STJ, deu provimento à apelação interposta por WALQUIRIA e ESTRELA para decretar a prescrição e, por conseguinte, julgou prejudicado o apelo da CASSI. Eis a ementa do acórdão:
+SEGURO SAÚDE - Restituição de valores recebidos em razão de decisão judicial precária, posteriormente revogada - Improcedência - Recurso de ambas as partes, buscando a ré o reconhecimento da prescrição - Reapreciação da questão à luz de superveniente Recurso Especial, para adequação a entendimento do E. STJ - Prazo prescricional aplicável ao caso é o trienal, por estar a pretensão de devolução ou ressarcimento assentada no princípio da vedação do enriquecimento sem causa - Prescrição reconhecida no caso - Sentença reformada, para extinguir o processo com resolução do mérito, nos termos do art. 487, II do CPC - Recurso da autora prejudicado - Recurso da ré provido.
+Recurso especial: aponta violação do art. 1.022, II, do CPC/2015 e do art. 202, V, e parágrafo único, do CC/2002.
+A par da negativa de prestação jurisdicional, afirma que "não se tratou simplesmente de uma ação de ressarcimento proposta após a improcedência da ação originária: a recorrente bem pontuou que buscou o ressarcimento nos próprios autos, conforme jurisprudência pacífica do STJ, dentro do prazo prescricional, inclusive suprindo várias falhas de impulso oficial da vara, e só nasceu seu direito de propor ação autônoma de ressarcimento quando ocorreu o trânsito da decisão indeferitória da execução nos próprios autos, qual seja, o último ato processual do processo originário, conforme determina o parágrafo único do art. 202, CC" (fl. 902, e-STJ).
+Aponta diversas irregularidades nos autos originais, ressaltando que, "quando surgiu a decisão que remeteu à ora recorrente às vias ordinárias, publicada em 12/12/2017, seu prazo de recurso venceu apenas em 24/01/2018 (suspensão de prazos de 20/12 a 20/01, segunda-feira 22/01/2018), conforme delineado no acórdão dos embargos, e esta ação foi proposta em 19/02/2018, em lapso curto e dentro de qualquer prazo prescricional" (fl. 906, e-STJ).
+Defende que "não pode ser penalizada por ter dado o impulso que a lei prevê que seja dado nos mesmos autos, o que lhe levou a propor a presente ação apenas depois de esgotada a via determina pela lei, naqueles autos" e que "não corre prescrição dentro de processo que não está paralisado por inércia do credor" (fl. 906, e-STJ).
+Acrescenta que "a demora no processamento da execução nos próprios autos não decorreu de inércia da recorrente, mas sim de inércia da ora ré, e do cartório, que não certificou o transcurso do prazo e nem intimou quem quer que seja a dar andamento diante de tal inércia da ora ré" (fl. 907, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+Sobre a violação do art. 1.022 do CPC/2015, verifica-se que o recorrente sequer interpôs embargos de declaração na origem para provocar o Tribunal a quo a se manifestar sobre a questão não tratada no acórdão recorrido.
+Logo, mostra-se deficiente a fundamentação recursal, a atrair a incidência, na espécie, da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.947.611/MG, Segunda Turma, julgado em 5/4/2022, DJe de 28/4/2022; REsp 1.786.555/RJ, Segunda Turma, julgado em 16/5/2019, DJe de 30/5/2019; AgInt no REsp 1.740.994/CE, Primeira Turma, julgado em 11/9/2018, DJe de 17/9/2018.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 202, V, e parágrafo único, do CC/2002, indicado como violado, não tendo a recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível por incidência da súmula 282/STF.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 890) para 17,5%, observada eventual concessão da gratuidade de justiça.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. FUNDAMENTAÇÃO DEFICIENTE. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de reparação de danos em virtude da revogação da decisão que deferiu a antecipação de tutela.
+2. Mostra-se deficiente a fundamentação recursal quando o recorrente alega a violação do art. 1.022 do CPC/2015, mas sequer interpõe embargos de declaração na origem para provocar o Tribunal a quo a se manifestar sobre determinada questão não tratada no acórdão recorrido (súmula 284/STF).
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial (súmula 282/STF).
+4. Recurso especial não conhecido, com majoração de honorários.
