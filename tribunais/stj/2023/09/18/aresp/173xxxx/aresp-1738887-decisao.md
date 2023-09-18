@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Piauí contra a decisão que inadmitiu o recurso especial (com fundamento no art . 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Apelação Criminal n. 0700749-71.2018.8.18.0000) que declarou nula a sentença condenatória proferida contra Victor Andrey Vieira da Costa, determinando o retorno dos autos à instância de origem, com o fim de que sejam apreciadas todas as teses da defesa constantes das alegações finais (fl. 216).
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 563 do Código de Processo Penal (fls. 233/241).
+A Corte de origem inadmitiu o recurso reputando que a matéria não foi devidamente prequestionada (fls. 254/256).
+Contra o decisum a defesa interpôs o presente agravo (fls. 259/267).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 288).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, não há dúvida de que a insurgência encontra óbice na Súmula 126/STJ:
+É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+Ao que consta, o acórdão impugnado está calcado em fundamento constitucional. Confira-se (fl. 220 - grifo nosso):
+ ..
+Ora, tal defeito não pode ser emendado nesta fase processual, sob pena de se incorrer em supressão de instância.
+A ausência de análise da tese da defesa implica em vício de fundamentação da sentença, contaminando o ato decisório de nulidade insanável, pois fere de morte os princípios constitucionais da ampla defesa e do devido processo legal, aí compreendidos o duplo grau de jurisdição e o da obrigatoriedade de fundamentação das decisões judiciais.
+A propósito da matéria, com muita propriedade leciona o renomado doutrinador Guilherme de Souza Nucci.
+35-B. Não apreciação das teses expostas pela defesa: constitui causa de nulidade absoluta, por prejuízo presumido, a não apreciação, pelo juiz, na sentença, de todas as teses expostas pela defesa em alegações finais. A motivação das decisões judiciais é preceito constitucional, além do que analisar, ainda que seja para refutar, as teses defensivas caracteriza corolário natural do princípio da ampla defesa."(NUCCI, Guilherme de Souza. Código de Processo Penal Comentado, 15.ª ed. rev. Atual. E ampl. - Rio de Janeiro: Forense: 2016, pág. 1172)
+Nesse sentido, tem decidido os Tribunais Estaduais:
+Apelação Criminal - Estelionato - Sentença condenatória - Recurso defensivo objetivando a declaração da nulidade do decisum - Preliminar acolhida - É nula a sentença que não enfrenta todas as teses defensivas suscitadas nos memorais - Hipótese em que a Magistrada não analisou a tese preliminar de nulidade do processo - Afronta às garantias constitucionais do devido processo legal, da ampla defesa e da motivação dos atos judiciais - Impossibilidade de exame por este Colegiado sob pena de supressão de instância - Nulidade declarada, prejudicado o exame do mérito. Recurso provido para que o Juízo a quo analise as teses arguidas e, se for o caso, profira nova sentença. (TJ-SP - APL: 00002762820158260318 SP 0000276-28.2015.8.26.0318, Relator: Moreira da Silva, Data de Julgamento: 31/01/2019, 13ª Câmara de Direito Criminal, Data de Publicação: 11/02/2019)  grifo nosso
+APELAÇÃO CRIMINAL - ROUBO CIRCUNSTANCIADO - PRELIMINAR DE OFÍCIO - NULIDADE DA SENTENÇA - OCORRÊNCIA - AUSÊNCIA DE ANÁLISE DE TESE DEFENSIVA - CERCE AMENTO DE DEFESA - DECLARAÇÃO DE OFÍCIO. Tendo em vista que o d. Magistrado não analisou todas as teses apresentadas pela defesa, mister seja declarada a nulidade da sentença, por violação a preceito constitucional. (TJ-MG - APR: 10301060226448001 MG, Relator: Amauri Pinto Ferreira (JD CONVOCADO), Data de Julgamento: 07/05/2014, Câmaras Criminais / 4ª CÂMARA CRIMINAL, Data de Publicação: 14/05/2014)  grifo nosso
+CRIME CONTRA O PATRIMÔNIO. NULIDADE DECRETADA. NECESSIDADE. CONTRADITÓRIO E AMPLA DEFESA. 2. OMISSÃO DE TESE DEFENSIVA. SENTENÇA CITRA PETITA. Omissão de enfrentamento da tese defensiva acarreta violação aos princípios da ampla defesa e ao devido processo legal. As decisões do Poder Judiciário serão necessariamente fundamentadas conforme dispõe o art. 93, IX da Constituição Federal. Decretação de nulidade da sentença recorrida, por citra petita, para que outra seja proferida, restando prejudicado a análise em relação aos demais pedidos. PRELIMINAR ACOLHIDA E NULIDADE DECRETADA. Recurso parcialmente provido." (TJRS. Apelação Crime Nº 70027477181, Quinta Câmara Criminal, Tribunal de Justiça do RS, Relator: Aramis Nassif, Julgado em 27/1/2010).  grifo nosso
+A exigência de motivação dos atos sentenciais é postulado constitucional inarredável, representando importante garantia contra eventuais excessos do Estado-Juiz e verdadeira condição de validade das decisões judiciais.
+Na hipótese, a omissão do julgador em apreciar questão suscitada quando das alegações finais inviabiliza o exercício pleno do direito à defesa, na medida em que impede a análise do decisum pela instância recursal. Ora, se a tese sequer foi alvo de exame pelo sentenciante, não há que falar em revisão, já que pressupõe avaliação pretérita.
+Acrescente-se ainda que o acolhimento do pleito defensivo teria consequência na própria fixação da pena.
+Conclui-se, pois, que o apelante sofreu irreparável prejuízo, já que se encontra impedido de atacar a sentença monocrática em seus pontos omissos, impondo-se então o acolhimento da preliminar de nulidade ora arguida, uma vez que a falta de análise da principal tese defensiva constitui prejuízo latente para a defesa.
+ ..
+Tal fundamento, no entanto, não foi objeto de recurso extraordinário.
+Ressalto, ainda, que a hipótese não comporta a aplicação do art. 1.032 do Código de Processo Civil de 2015.
+É que tal dispositivo confere fungibilidade ao reclamo que, embora denominado pelo recorrente como recurso especial, trata de matéria constitucional, própria do extraordinário. Confira-se a redação:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+No caso, não há um simples equívoco na escolha do recurso, há a ausência do próprio recurso, qual seja, do extraordinário, acompanhada da argumentação apta a infirmar o fundamento constitucional autônomo. Logo, é de rigor a incidência da Súmula 126/STJ ao caso.
+Nesse sentido, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ART. 110 DO CTN. REPRODUÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. APRECIAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+ ..
+3. Ao reconhecer a exigibilidade da contribuição previdenciária sobre os valores pagos a título de participação nos lucros, o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Todavia, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+4. O artigo 1.032 do CPC trata da aplicação do princípio da fungibilidade ao recurso especial que versar sobre questão constitucional, hipótese diversa da presente, em que não há equívoco quanto à escolha do recurso, mas, sim, inexiste interposição de recurso quanto ao capítulo do acórdão recorrido com fundamentação constitucional, de sorte que não há falar na sua aplicação. Precedentes: AgInt no AREsp 869.418/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 15/5/2018; AgInt no AREsp 1.008.763/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/10/2017; AgRg no REsp 1.665.154/RS, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 30/8/2017.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.328.399/RJ, Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe 16/2/2023 - grifo nosso)
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO IMPUGNADO CALCADO EM FUNDAMENTO CONSTITUCIONAL. FALTA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ.
+Agravo conhecido para não conhecer do recurso especial.
