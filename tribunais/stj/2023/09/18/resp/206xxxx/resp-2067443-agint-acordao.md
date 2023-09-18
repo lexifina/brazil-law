@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É firme o entendimento nesta Corte Superior segundo o qual, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, do CPC, ou, ainda, um valor fixo, segundo o critério de equidade.
+III - Em regra, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo, o que não é o caso dos autos.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por COMPANHIA ALCOOLQUIMICA NACIONAL - ALCOOLQUIMICA contra a decisão monocrática de minha lavra que não conheceu do Recurso Especial, fundamentada na aplicação da Súmula n. 7, do Superior Tribunal de Justiça.
+Sustenta a Agravante, em síntese, o seguinte (fl. 1.412e):
+Conforme explicitado, a empresa Agravante se sagrou integralmente vitoriosa na lide, sendo reconhecida a prescrição do débito cobrado na execução fiscal de origem, cujo valor histórico ascende à elevada monta de R$ 5.614.255,80 (cinco milhões, seiscentos e quatorze mil, duzentos e cinquenta e cinco reais e oitenta centavos).
+Todavia, a despeito principalmente dos expressivos valores envolvidos, o Tribunal a quo condenou a Fazenda Nacional em honorários de sucumbência no montante aviltante e absolutamente desproporcional de R$ 5.000,00 (cinco mil reais).
+Em termos práticos, correspondem tais honorários a apenas 0,09% (nove centésimos por cento) do valor da causa. E isto considerando o valor histórico da causa. Atualizando-se seu montante até a presente data, a desproporção revela-se ainda mais espantosa.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.421e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É firme o entendimento nesta Corte Superior segundo o qual, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, do CPC, ou, ainda, um valor fixo, segundo o critério de equidade.
+III - Em regra, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo, o que não é o caso dos autos.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Discute-se, no caso, a condenação em honorários advocatícios fixada pelas instâncias ordinárias com base na equidade, à luz do art. 20, § 4º, do CPC/2015.
+A Agravante sustenta tese de que os honorários advocatícios fixados pela instância ordinária equivale a verba irrisória, porquanto corresponde a apenas 0,09% (nove centésimos por cento) do valor da causa (R$ 5.614.255,80).
+Em virtude de tal contestação, reclama pela readequação do valor arbitrado, tendo em vista a jurisprudência desta Corte ao considerar valores irrisórios aqueles inferiores a 1% (um por cento) do valor da causa.
+Diferentemente do alegado, a jurisprudência desta Corte " ..  não admitiu, enquanto tese, que os honorários advocatícios arbitrados em percentual inferior a 1% (um por cento), somente por isso, já seriam reconhecidos como irrisórios" (EREsp n. 1.527.430/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Og Fernandes, Corte Especial, julgado em 1/2/2018, DJe de 17/4/2018).
+Aliás, este Superior Tribunal compreende que não existe, à luz do § 4º, do art. 20, do CPC/1973, previsão de piso para arbitramento dos honorários devidos pela Fazenda Pública, tampouco autorização para qualificar como irrisórios os honorários fixados abaixo de certo parâmetro. Nessa linha: 2ª T., REsp 1.417.906/SP, Rel. Min. Mauro Campbell Marques, Rel. p/ acórdão Min. Herman Benjamin, DJe de 01/07/2015; 2ª T., AgInt no REsp n. 1.326.745/RS, rel. Min. Assusete Magalhães, DJe de 19/6/2023.
+Assim, consoante assentado no decisum agravado, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo.
+A Corte de origem definiu a condenação em honorários advocatícios nos seguintes termos: (fl. 1.171e) "Honorários advocatícios sucumbenciais fixados em R$ 5.000,00 (cinco mil reais), com fundamento no § 40, do art. 20 do CPC".
+In casu, consideradas as circunstâncias abstraídas no acórdão recorrido, não se vislumbrou excepcionalidade a justificar a revisão do quantum fixado, ensejando a aplicação da Súmula n. 7 desta Corte. Nesse sentido: 1ª T., AgRg no REsp 1038925/MS, Rel. Min. Sérgio Kukina, DJe 08/03/2016; e 2ª T., AgRg no REsp 1573681/SC, Rel. Min. Mauro Campbell Marques, DJe 10/03/2016.
+Dessa maneira, de rigor a manutenção do decisum nos seus termos.
+- DA MULTA
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
