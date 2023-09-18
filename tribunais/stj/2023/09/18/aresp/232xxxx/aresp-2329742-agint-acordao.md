@@ -1,0 +1,122 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, DO CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior" (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial. Precedentes.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 293/301) interposto contra decisão da Presidência que não conheceu do agravo, em virtude da incidência da Súmula n. 115/STJ.
+Os embargos de declaração foram rejeitados (e-STJ fls. 287/289).
+Em suas razões, a parte alega que "os procuradores da Agravante possuem o nome anotado no sistema processual, bastando uma mera consulta no sítio eletrônico desta Corte e do Tribunal de origem para convalidação" (e-STJ fl. 295).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 305/310), requerendo a condenação por litigância de má-fé.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, DO CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior" (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial. Precedentes.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 270/271):
+Cuida-se de agravo interposto por ARRAIAL CANA BRAVA HOTEL LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;
+ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ARRAIAL CANA BRAVA HOTEL LTDA, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Renner Silva Fonseca.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a apresentar à fl. 266 apenas um substabelecimento, sem a procuração originária para o seu substabelecente, Dr. Luiz Antonio de Aquino Coelho.
+Registre-se que o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos (AgInt no AREsp 1823566/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/06/2021, DJe 21/06/2021).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+A decisão foi complementada no julgamento dos aclaratórios, nos termos seguintes (e-STJ fls. 287/289):
+Cuida-se de embargos de declaração opostos por ARRAIAL CANA BRAVA HOTEL LTDA, à decisão de fls. 270/271, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A Embargante interpôs Recurso Especial, sendo intimada para regularização da representação processual.
+Na oportunidade, a Embargante esclareceu que inexistiu qualquer irregularidade na representação processual, uma vez que o instrumento de representação se encontrava acostado aos autos originários, qual seja processo de nº 0300419-50.2019.8.05.0103, cumprimento provisório dos autos de nº 0300400- 20.2014.8.05.0103, documentos ora anexos novamente.
+Logo, tanto o substabelecimento quanto o instrumento de procuração se encontra acostado nos autos originários, os quais não foram anexados novamente, em razão do processo tramitar em meio eletrônico, consoante permissão do artigo 1.015, inciso I e II, estando a Embargante regularmente representada aos autos (fls. 274/275).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Renner Silva Fonseca.
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte apenas trouxe um substabelecimento à fl. 266, sem a procuração originária para o seu substabelecente, Dr. Luiz Antonio de Aquino Coelho.
+Não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo fixado.
+No caso, não constava dos autos instrumento conferindo poderes ao Dr. Renner Silva Fonseca, subscritor do agravo e do recurso especial.
+Intimada para regularizar a representação processual em 14/04/2023 (e-STJ fl. 263), a parte recorrente apresentou documentação incompleta, motivo pelo qual não se pode conhecer da irresignação. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DA PETIÇÃO DO AGRAVO EM RECURSO ESPECIAL. SÚMULA 115/STJ.
+ ..
+2. É inexistente recurso interposto por advogado sem procuração nos autos, conforme enuncia a Súmula 115/STJ.
+3. Nos termos do art. 76, § 2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+4. Agravo Interno no agravo em recuso especial não provido.
+(AgInt no AREsp n. 1.372.413/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/5/2019, DJe 29/5/2019.)
+AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA. PROCESSUAL CIVIL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. AUSÊNCIA DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, APESAR DE INTIMAÇÃO DA PARTE. CONHECIMENTO DO RECURSO. INVIABILIDADE.
+ ..
+2. "Nos termos do art. 76, § 2º, inc. I, do CPC/15, não se conhece de recurso quando, intimada a parte para regularização da representação processual, essa não cumpre a determinação realizada". (AgInt no REsp 1710759/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/08/2018, DJe 20/08/2018)
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.724.522/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/9/2018, DJe 25/9/2018.)
+Além disso, a alegada existência de procuração nos autos principais não é capaz de sanar o vício.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. ADVOGADO SUBSCRITOR DO RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. APLICAÇÃO DO DISPOSTO NO ART. 76, § 2º, DO NCPC. NECESSIDADE DE TRASLADO DA PROCURAÇÃO DE PROCESSO CONEXO OU INCIDENTAL. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Conforme o disposto no art. 76, § 2º, I, do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+3. A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO POR AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DO AGRAVO. SÚMULA 115 DO STJ. 2. HONORÁRIOS RECURSAIS. AUSÊNCIA DE INTERESSE RECURSAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE QUE APENAS CONDICIONOU SUA MAJORAÇÃO EM CASO DE PRÉVIA FIXAÇÃO. 3. AGRAVO IMPROVIDO.
+1. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, sendo incabível a juntada posterior do instrumento procuratório, em razão da preclusão consumativa.
+1.1. A parte, mesmo devidamente intimada, não atendeu a determinação de regularização da representação processual, nem apresentou justificativa plausível em relação ao prazo que lhe foi dado, razão pela qual o não conhecimento do recurso se impõe, nos termos do art. 76, § 2º, I, do Código de Processo Civil de 2015.
+1.2. De fato, a jurisprudência desta Corte é no sentido de que "a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior. O entendimento uniforme é de que cabe ao recorrente diligenciar, nos autos do recurso a ser julgado nesta Corte, a regularidade da representação processual mediante a juntada do respectivo instrumento de mandato e da cadeia de substabelecimentos existente, passada ao subscritor da peça recursal. Sem isso, não se pode, de fato, conhecer do recurso" (AgInt nos EAREsp 416.557/RJ, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 28/9/2016, DJe 7/10/2016).
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 119.2275/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/5/2019, DJe 31/5/2019.)
+E tampouco se pode considerar a juntada feita somente nos aclaratórios (e-STJ fl. 276), em virtude da preclusão. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO. VÍCIOS NÃO SANADOS NO PRAZO LEGAL. PRECLUSÃO TEMPORAL. RECURSO NÃO PROVIDO.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+4. Ademais, diante da não regularização do vício da representação processual no prazo assinalado, após ter sido aberta vista para tanto, o recurso subscrito por advogado sem procuração nos autos é considerado ineficaz, por força da norma do art. 104, § 2º, do CPC/2015, não merecendo ser conhecido (art. 76, § 2º, I, do CPC/2015).
+5. Consoante salientado na decisão ora agravada, não se desconhece a petição de fls. 7865-7870, carreada aos autos em razão do despacho oportunizando a regularização processual. Contudo, ela não pode ser conhecida para os fins a que se destina, pois foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.399.586/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/11/2019, DJe 3/12/2019.)
+RECURSO FUNDADO NO NOVO CPC. TRIBUTÁRIO. PROCESSUAL CIVIL. REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL FEITA DE FORMA INTEMPESTIVA. ART. 76 C.C 932, PARÁGRAFO ÚNICO, DO CPC/15. RECURSO NÃO CONHECIDO.
+1. Nos termos do novo CPC/15, concedido o prazo de cinco dias para o recorrente sanar vício ou complementar documentação exigível, a regularização processual fora do prazo fixado na lei é causa de não conhecimento do recurso interposto.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.106.797/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 8/2/2018, DJe 22/2/2018.)
+Por fim, é inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do STJ, conforme os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA REGULAR REPRESENTAÇÃO PROCESSUAL. PRÉVIA INTIMAÇÃO. DESATENDIMENTO. PRECLUSÃO. NÃO INCIDÊNCIA DO ART. 1.017, § 5º, DO CPC. DISPENSA DE CÓPIAS NO PROCESSO ELETRÔNICO. INAPLICABILIDADE NA INSTÂNCIA EXTRAORDINÁRIA. RECURSO NÃO PROVIDO.
+1. A norma prevista no art. 1.017, § 5º, do CPC destina-se às instâncias ordinárias, não sendo possível invocá-la no âmbito do recurso especial nem do respectivo agravo contra a inadmissibilidade do apelo nobre. Precedentes.
+2. A justificativa para a ausência de juntada das peças enumeradas no inciso I do art. 1.017 do CPC está relacionada ao fato de que os Tribunais a quo possuem amplo acesso aos autos eletrônicos originários e, por conseguinte, é desnecessária a nova comprovação da regular formação do instrumento recursal. Ocorre que o sistema eletrônico não é único entre o trinta e dois tribunais que encaminham recursos para esta Corte Superior, o que a impossibilita de promover a consulta da regularidade processual por meio do acesso ao processo eletrônico originário.
+3. A ausência da comprovação da regular representação processual, no prazo de cinco dias previsto no art. 932, parágrafo único, do CPC, acarreta o não conhecimento do recurso, não se admitindo regularização posterior, haja vista a ocorrência da preclusão.
+4. No caso, a parte já havia trazido o substabelecimento conferido à causídica para oficiar no feito, tendo a Presidência desta Corte Superior determinado sua intimação para comprovar a regularidade da representação processual. Contudo, em vez da trazer a demonstração da regular cadeia de procurações, o agravante limitou-se a apresentar a mesma peça de substabelecimento anteriormente acostada. Isso posto, está correta a decisão que não conheceu do agravo em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.504.387/RJ, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/2/2020, DJe 27/2/2020.)
+TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TRAMITAÇÃO ELETRÔNICA. ART. 1.017, § 5º, DO CPC/2015. INAPLICABILIDADE A ESTA CORTE SUPERIOR. NECESSIDADE DE INSTRUÇÃO. PEÇAS OBRIGATÓRIAS. OPORTUNIZAÇÃO DE SANAÇÃO. INÉRCIA. PROGNÓSTICO DESFAVORÁVEL DE PROVIMENTO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+(AgInt na Pet 12.765/DF, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/8/2019, DJe 30/8/2019.)
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de condenar a parte recorrente em litigância de má-fé, por não observar dolo em sua conduta.
+É como voto.
