@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial de Condomínio The Office Frei Caneca, fundamentado no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado ( e-STJ, fl. 2):
+Agravo de instrumento Ação de execução de verbas condominiais. Decisão que homologou os cálculos elaborados pela contadoria judiciária. Insurgência. Correção da utilização dos índices da Tabela Prática deste E. Tribunal para correção monetária em razão da inexistência de índice específico na convenção. Convenção condominial que não é título executivo a amparar a cobrança dos honorários nela previstos. Valores das custas e despesas processuais corretamente indicados nos cálculos. Agravo não provido com extinção de ofício de parte da execução.
+Em suas razões de recurso especial, o recorrente alegou violação dos arts. 389 e 395 do CC/2002.
+Defendeu a possibilidade de o condômino inadimplente arcar com honorários contratuais, em caso de propositura de ação judicial para cobrança de taxas condominiais não adimplidas, conforme previsão na Convenção do Condomínio.
+Sem c  ontrarrazões (e-STJ, fl. 70).
+O Tribunal de origem não admitiu o processamento do recurso especial (e-STJ, fls. 71-73), após o que a parte insurgente interpôs agravo em recurso especial (e-STJ, fls. 76-94).
+Brevemente relatado, decido.
+Relativamente aos honorários contratuais, o Tribunal local decidiu com base nos seguintes fundamentos (e-STJ, fls. 21-23):
+Não se olvidam as discussões doutrinárias e jurisprudenciais sobre a possibilidade de cobrança de honorários contratuais para ressarcimento da parte em ação judicia e também que o E. STJ já fixou entendimento pela impossibilidade dessa cobrança para tal fim.
+Todavia, no presente caso, a cobrança dos honorários previstos na convenção para contratação de advogados para ajuizamento e acompanhamento de ações de cobrança e de execuções deve ser afastada de plano porque a convenção de condomínio não é título executivo extrajudicial para a cobrança desses honorários.
+A convenção tem natureza de ato-regra, conforme lição de Gustavo Tepedino, Heloisa Helena Barboza, Maria Celina Bodin de Moraes que abaixo menciono:
+ ..
+Assim, os honorários convencionais não podem ser cobrados nesta execução, por ausência de título executivo em relação a eles, ficando mantida a decisão agravada.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu pela impossibilidade de uma condenação para ressarcimento dos honorários contratuais.
+De fato, esse é o entendimento vigente nesta Corte Superior, conforme verifica-se dos seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. RESSARCIMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS PARA DEFESA DOS INTERESSES DA PARTE EM JUÍZO. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+AGRAVO IMPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia, apresentando fundamentação adequada, não há que se falar em ofensa ao art. 1.022 do CPC/2015. Nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+2. Os honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais.
+"A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. (..)" (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019).
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1.675.516/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020)
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO INDENIZATÓRIO. PARCERIA AGRÍCOLA. LUCROS CESSANTES. COMPROVAÇÃO. AUSÊNCIA. DEVER DE FUNDAMENTAÇÃO. ART. 489, § 1º, IV, DO CPC/2015. OBSERVÂNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESSARCIMENTO. INADMISSIBILIDADE. GRAU DE SUCUMBÊNCIA. AFERIÇÃO. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de resolução de contratos de parceria agrícola cumulada com pedido de indenização por lucros cessantes.
+3. Nos termos do art. 489, § 1º, IV, do CPC/2015, não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+4. Apresenta fundamentação adequada o acórdão que, ao entender que a parte autora não comprovou a existência de lucros cessantes, deixa de se pronunciar a respeito das conclusões do laudo pericial que, no contexto examinado, serviriam apenas para a quantificação de eventuais prejuízos.
+5. Os custos decorrentes da contratação de advogados não são indenizáveis, sob pena de atribuir ilicitude a qualquer pretensão questionada judicialmente. Ademais, a atuação judicial na defesa de interesses das partes é inerente ao exercício regular de direitos constitucionais, como o contraditório, a ampla defesa e o amplo acesso à Justiça.
+6. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda, porquanto implicaria análise do conteúdo fático-probatório. Incidência da Súmula nº 7/STJ.
+7. Recursos especiais parcialmente conhecidos e, nessa extensão, não providos. (REsp 1.837.453/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/3/2020, DJe 13/3/2020)
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. PARCIAL PROVIMENTO. CONDENAÇÃO DA EMBARGADA AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA E DESPESAS PROCESSUAIS. HONORÁRIOS ADVOCATÍCIOS CONVENCIONAIS. GASTO EXTRAPROCESSUAL NÃO PREVISTO NO ART. 20 DO CPC/73. JULGAMENTO: CPC/73.
+1. Execução de título extrajudicial, da qual foi extraído este recurso especial, interposto em 10/09/2014 e atribuído ao gabinete em 25/08/2016.
+2. O propósito recursal é decidir se os honorários advocatícios contratuais devem ser incluídos no cálculo das despesas processuais, a cujo pagamento foi condenada a recorrida, com fulcro no art. 20 do CPC/73.
+3. O art. 20 do CPC/73, ao tratar do custo do processo, imputou ao vencido, com base nos princípios da causalidade e da sucumbência, a responsabilidade final pelo pagamento dos gastos endoprocessuais, ou seja, aqueles necessários à formação, desenvolvimento e extinção do processo.
+4. Os gastos extraprocessuais - aqueles realizados fora do processo -, ainda que assumidos em razão dele, não se incluem dentre aquelas despesas às quais faz alusão o art. 20 do CPC/73, motivo pelo qual nelas não estão contidos os honorários contratuais, convencionados entre o advogado e o seu cliente, mesmo quando este vence a demanda.
+5. Recurso especial conhecido em parte e, nessa extensão, desprovido. (REsp 1.571.818/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 9/10/2018, DJe 15/10/2018 - sem grifo no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESSARCIMENTO. ARTS. 389, 395 E 404 DO CC. DESCABIMENTO. PRECEDENTES. IMPUGNAÇÃO. COLAÇÃO DE JULGADOS CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A Segunda Seção do STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.
+2. Se "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/6/2013).
+3. Incidência do enunciado n. 182 da Súmula desta Corte face à ausência de impugnação específica dos fundamentos da decisão agravada.
+3. Agravo interno não conhecido. (AgInt no REsp n. 1.653.575/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 23/11/2017 - sem grifo no original)
+Desse modo, constata-se que o posicionamento do Tribunal a quo encontra- se em harmonia com a jurisprudência deste Tribunal Superior, incidindo a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. TAXAS CONDOMINIAIS. HONORÁRIOS CONTRATUAIS. RESSARCIMENTO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
