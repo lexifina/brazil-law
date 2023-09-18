@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO PARANÁ, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. FIXAÇÃO DA TAXA REFERENCIAL (TR) COMO INDEXADOR DE JUROS E CORREÇÃO MONETÁRIA, CONFORME JÁ DISPOSTO EM SENTENÇA TRANSITADA EM JULGADO. PARTE AGRAVANTE QUE REQUER A SUBSTITUIÇÃO DA TR PELO ÍNDICE IPCA-E. PLEITO POSTERIOR DE AFASTAMENTO DO ÍNDICE DE CORREÇÃO MONETÁRIA PELA TR EM RAZÃO DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DA UTILIZAÇÃO DA TR COMO INDEXADOR (RE 870947  TEMA 810). POSSIBILIDADE. NÃO VIOLAÇÃO À COISA JULGADA. PRECEDENTES DO STJ E DESTE TRIBUNAL.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+Alega, em suma, que o Tribunal a quo violou a coisa julgada, pois fixou juros e correção monetária com o título executivo transitado em julgado.
+É o relatório. Decido.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF. In verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no âmbito do Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas n. 211/STJ e 282 e 356 do STF. Confiram-se:
+Súmula 282/STF. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356/STF. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
