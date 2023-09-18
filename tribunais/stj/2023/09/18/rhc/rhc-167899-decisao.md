@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por EDINALDO JOSE DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0001118-60.2022.8.17.9000).
+Consta dos autos que o recorrente foi preso preventivamente em razão da suposta prática do delito previsto no art. 121, § 2º, II e IV, c/c o art. 14, ambos do Código Penal.
+Sustenta o recorrente, em síntese, constrangimento ilegal decorrente do excesso de prazo na segregação cautelar, porquanto está preso há mais de 600 dias, sem que tenha sido iniciada a instrução criminal, configurando, assim, antecipação do cumprimento da pena.
+Ressalta que se faz necessária, a cada 90 dias, a verificação da permanência dos elementos autorizadores da segregação cautelar, procedimento que não teria sido realizado no caso em testilha, violando o disposto no art. 316 do CPP.
+Argumenta que não foi demonstrado, de maneira concreta, de que forma, em liberdade, poderia causar embaraço à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Aduz que a prisão preventiva poderia ser substituída por cautelares descritas no art. 319 do CPP, mormente porque seus predicados pessoais permitem que responda ao processo em liberdade.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, mediante a imposição de medidas cautelares diversas do encarceramento, expedindo-se alvará de soltura em seu favor.
+A liminar foi indeferida (fls. 239/240), as informações foram prestadas (fls. 291/292) e o Ministério Público Federal opinou pelo não provimento do recurso (fls. 244/251).
+Em consulta à Ação Penal n. 0000857-57.2020.8.17.0370, os autos aguardam a resolução do incidente de insanidade mental do acusado.
+É o relatório.
+Em relação ao excesso de prazo, estou de acordo com esta manifestação ministerial (fl. 247 - grifo nosso):
+ ..
+Ante o assinalado, observa-se que, embora o Recorrente esteja preso preventivamente há razoável período de tempo, não há que se falar em inércia na condução do caso, visto que o Juízo a quo tem impulsionado regularmente o feito.
+A alegada demora na tramitação processual, deve-se, como ponderado pela Corte de origem, às particularidades do caso concreto, podendo ser destacada, dentre elas, o tempo necessário para marcar nova audiência devido à alegação de insanidade sustentada pela Defesa, o que demanda a realização da avaliação psiquiátrica e entrega de resultados, de modo que não se constata a paralisação indevida do processo, nem tampouco desídia por parte do Juízo processante.
+Nesse sentido, veja-se:
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. EXCESSO DE PRAZO PARA O ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL NÃO CONFIGURADO. INSTAURAÇÃO DE INCIDENTE DE INSANIDADE. EMPENHO DO JUÍZO DE PRIMEIRO GRAU NA REALIZAÇÃO DO EXAME. AUSÊNCIA DE DESÍDIA ESTATAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal.
+2. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+3. Não se constata paralisação indevida do processo quando a instrução somente não se encerrou em virtude de instauração de incidente de insanidade requerida pela defesa em audiência de instrução e julgamento. Além disso, a determinação de intimação pessoal da Secretaria de Saúde e da Prefeitura Municipal para proceder ao agendamento da consulta psiquiátrica no prazo de 30 dias afasta as alegações de desídia do Juízo de primeiro grau.
+4. Pedido de reconsideração recebido como agravo regimental e não provido.
+(RCD no HC n. 603.540/RO, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 27/10/2020, DJe de 12/11/2020.) (Grifos adicionados)
+Ademais, a maior demora na tramitação do feito não se resume somente na necessidade de averiguação da insanidade apontada, mas também no fato de o processo ter iniciado com a eclosão da pandemia decorrente do vírus COVID-19, como apontou o Tribunal de origem  ..
+No caso, vê-se que o alongamento da instrução se deve à complexidade do feito, que conta com a tramitação de incidente de insanidade mental do acusado, que impossibilitou a realização da audiência de instrução e julgamento designada, não havendo qualquer indicativo de ofensa à razoabilidade ou desídia do magistrado em impulsionar o processo.
+Nesse sentido, confira-se a jurisprudência do Superior Tribunal de Justiça nos julgamentos do AgRg no RHC n. 164.660/SE, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 10/2/2023; e AgRg no HC n. 717.921/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/3/2022.
+Quanto à necessidade da prisão preventiva, tem-se que ela está alicerçada na gravidade concreta da conduta e na periculosidade do acusado, tendo sido destacado no decreto preventivo que se trata de homicídio tentado contra duas vítimas sendo apreendida em poder do autuado uma arma de fogo, devendo ser decretada a sua prisão preventiva como garantia da ordem pública, sendo tal medida necessária para salvaguardar também a integridade física das vítimas (fl. 88).
+Pelo exposto, com base na jurisprudência e no parecer, nego provimento ao recurso em habeas corpus (art. 34, XX, do RISTJ). Expeça-se recomendação à Corte estadual e ao Juízo de primeiro grau para que, logo após a resolução do incidente de insanidade mental do acusado, seja imprimida celeridade para a conclusão da Ação Penal n. 0000857-57.2020.8.17.0370, bem como seja reavaliada a necessidade da custódia cautelar com base no parágrafo único do art. 316 do Código de Processo Penal.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. INEVIDÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO. RECOMENDAÇÃO.
+Recurso improvido com recomendação.
