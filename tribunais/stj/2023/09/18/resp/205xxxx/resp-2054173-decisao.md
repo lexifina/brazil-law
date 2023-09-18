@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS ALBERTO PASSOS NORONHA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. PRELIMINAR DE NULIDADE DA SENTENÇA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DECISÃO EXTRA PETITA NÃO VERIFICADA. REJEIÇÃO. MÉRITO. AÇÃO QUE PLEITEIA DIFERENÇAS ALUSIVAS À COMPLEMENTAÇÃO PRIVADA DE APOSENTADORIA. PRAZO PRESCRICIONAL DE 05 ANOS. APLICABILIDADE DA SÚMULA Nº 291 DO STJ. COMPREENSÃO ASSENTADA TAMBÉM EM SEDE DE RECURSOS REPETITIVOS. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Com efeito, o prazo prescricional para a cobrança de diferenças de valores devidos ao contribuinte de plano de previdência complementar, é de 05 (cinco) anos, segundo estabelece o art. 75 da Lei Complementar 109/2001.
+2. Sem maior dificuldade, plenamente aplicável, pois, o entendimento da Súmula nº 291 do STJ, segundo a qual, a ação de complementação de aposentadoria somente pode ser proposta em até cinco anos, sob pena de perda da pretensão.
+3. Nesse sentido, o Superior Tribunal de Justiça já teve a oportunidade de se debruçar sobre a matéria, em sede de julgamento submetido à técnica do art. 543-C do CPC/1973, notadamente nos mesmos termos do entendimento sumulado.
+4. Logo, considerando que a data de transferência da reserva matemática do autor para o novo plano é o termo inicial para a contagem da prescrição, e que, na hipótese, ocorreu em 1998, sendo a ação proposta em 16.05.2014, tem-se por incontroverso que esta foi ajuizada fora do prazo quinquenal para sua propositura, encontrando-se tragada pela prescrição a pretensão autoral.
+5. Recurso conhecido e não provido. Sentença mantida" (fls. 5.249/5.250 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 5.321 e-STJ).
+Nas razões do especial, o recorrente aponta violação do art. 75 da Lei Complementar nº 109/2001. Sustenta que "(..) seja decretada apenas a prescrição parcial das prestações anteriores ao prazo de 05 (cinco) anos contado da data do ajuizamento da ação" (fls. 5.275/5.276 e-STJ).
+Foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+A insurgência merece prosperar.
+Verifica-se que o acórdão recorrido está em dissonância com a jurisprudência desta Corte, firmada no sentido de que o pagamento de complementação de aposentadoria é obrigação de trato sucessivo, sujeitando-se à prescrição quinquenal que alcança somente as parcelas vencidas antes do ajuizamento da ação, e não o próprio fundo de direito.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. 1. OFENSA AO ART. 489 DO CPC/2015 NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. PEDIDO PREJUDICADO NESSE PONTO. INCIDÊNCIA DA SÚMULA 83/STJ. 4. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. 5. AGRAVO INTERNO DESPROVIDO.
+1. Da análise do acórdão recorrido, verifica-se que todas as questões suficientes ao deslinde da controvérsia foram efetivamente analisadas pelo Tribunal de origem, não havendo falar em violação ao art. 489 do Código de Processo Civil de 2015.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Em relação à legitimidade do Banco do Brasil S.A., esta Corte Superior possui entendimento no sentido de que, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+3.1. Além disso, na hipótese, impende pontuar que a Justiça comum não é competente para apreciar o pedido de recompensação da reserva matemática apresentado contra o ex- empregador. Esse é o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 1.265.564/SC, sob o rito dos recursos repetitivos - Tema n. 1.166/STF.
+3.2. Ademais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.778.938/SP - Tema n. 1.021/STJ, ampliando o entendimento firmado no REsp n. 1.312.736/RS, apontou de forma expressa, na modulação de efeitos, que a recomposição prévia deve ser realizada integralmente pelo participante.
+4. Com efeito, "a prescrição da demanda de revisão do benefício de previdência privada, quando discutido o cálculo de seu valor inicial, não atinge o próprio fundo de direito, mas apenas as diferenças não reclamadas de datas prévias aos 5 (cinco) anos imediatamente anteriores à propositura da ação" (AgRg no AREsp 351.805/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/3/2018, DJe 2/4/2018).
+5. Agravo interno desprovido." (AgInt no REsp 1.924.345/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. APOSENTADORIA. COMPLEMENTAÇÃO. VALOR. REVISÃO. JUSTIÇA DO TRABALHO. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. PRESCRIÇÃO. PRAZO QUINQUENAL. RELAÇÃO DE TRATO SUCESSIVO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. JUSTIÇA TRABALHISTA. INCLUSÃO NOS CÁLCULOS. RECOLHIMENTO. RESERVA MATEMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Nas ações em que se postula a complementação da aposentadoria ou a revisão desse benefício, o prazo prescricional quinquenal (Súmula nº 291/STJ) não incide sobre o fundo de direito, mas atinge tão somente as parcelas anteriores aos 5 (cinco) anos de propositura da ação. Precedentes.
+4. No caso concreto, o tribunal local, amparado nos termos das cláusulas do pacto de previdência complementar firmado entre as partes, entendeu pela legalidade da alteração do plano.
+5. Na hipótese, a inversão do que foi decidido pelo tribunal de origem demandaria reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+6. A jurisprudência firmada no Superior Tribunal de Justiça preleciona que os valores reconhecidos na Justiça do Trabalho devem integrar o cálculo de complementação de aposentadoria, sendo necessária a prévia recomposição da reserva matemática para manutenção do equilíbrio econômico-atuarial.
+7. Na espécie, o acórdão combatido ressaltou que houve o correspondente recolhimento das reservas matemáticas.
+8. Agravo interno não provido." (AgInt no AREsp 1.719.647/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento da apelação interposta à luz da jurisprudência do STJ.
+Publique-se.
+Intimem-se.
+ EMENTA
