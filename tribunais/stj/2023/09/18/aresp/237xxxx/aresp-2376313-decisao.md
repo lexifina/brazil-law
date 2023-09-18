@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por CARLOS ALBERTO PREST contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal  ,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA  cuja  ementa  guarda  os  seguintes  termos  (fl.  454):
+Processo civil. Apelação. Ação monitória. Alegação de pagamento do débito. Ausência de comprovação. Ausente comprovante de pagamento do débito, cujo ônus pertence a quem alega ter quitado o valor, mantém-se hígida a constituição do título judicial no montante fixado na sentença. Recurso não provido.
+No  recurso  especial,  a parte recorrente  alega  ofensa  aos  arts. 46, 240, § 2º, 489, § 1º, IV e V, e 1.022, II, do CPC e 197 e 205 do CC.
+Requer "seja conhecido e provido in totum o presente recurso, a fim de que, com base no disposto no art. 489, § 1º, inciso IV e VI, do Código de Processo Civil, c/c art. 93, inciso IX, da Constituição Federal, ante a evidente ausência de fundamentação e consequente negativa da devida prestação jurisdicional por ausência de fundamentação, seja declarada a NULIDADE do v. acórdão objurgado (id 18339528),proferido pela 1ª Câmara Cível, do Tribunal de Justiça do Estado de Rondônia, determinando-se ao respectivo Tribunal de origem, através da respectiva Câmara julgadora, que profira nova decisão, com enfrentamento de todos os argumentos articulados pelo Recorrente em sede de razões do Recurso de Apelação (id 17149610),por ser imperativo de direito e da mais lídima JUSTIÇA!" (fls. 553-583).
+Oferecidas  contrarrazões  ao  recurso  especial  (fls.  656-668).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 754-755), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 779-789).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A  irresignação  não  merece  conhecimento.
+Verifica-se que a Corte de origem não analisou, sequer implicitamente, os dispositivos apontados.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ness e sentido, confiram-se:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, trago julgados:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+  Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.  Intimem-se.
+ EMENTA
