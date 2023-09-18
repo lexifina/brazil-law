@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ELIEL ALEXANDRE DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2193673-21.2023.8.26.0000).
+O paciente, pronunciado por crime de homicídio pleiteou, por meio de habeas corpus, salvo-conduto para que, após seu julgamento em Plenário, caso venha a ser condenado, não seja decretada sua prisão e que possa ter o direito de recorrer em liberdade.
+A ordem impetrada na Corte de origem foi indeferida
+A defesa alega: a) a prisão cautelar é medida excepcional e que "até a presente data, o paciente, ao longo desses 7 anos e 6 meses de tramitação do seu processo, jamais deixou de comparecer a todos os atos processuais, dando cumprimento ao decidido pelo TJ/SP com medidas substitutivas da prisão preventiva, continuando com endereço certo a residir na comarca de Limeira e exercendo um honroso cargo de professor de português na rede pública municipal de ensino da mesma cidade, já por mais de 25 anos, sem ainda ter se envolvido de lá para cá em qualquer outra lide forense penal que pudesse deixá-lo de ser merecedor de todas as benesses legais até aqui lhe conferidas" (e-STJ fl. 7); e b) necessidade do salvo-conduto, pois, caso o paciente venha a ser condenado a pena igual ou superior a 15 anos poder ter a sua prisão automaticamente decretada, nos termos do art. 492, I, e, do Código de Processo Penal.
+Requer, liminar e definitivamente, deferimento da ordem para que o paciente responda o processo em liberdade e não tenha sua prisão decretada automaticamente em caso de condenação pelo Júri.
+É o relatório.
+No voto condutor do acórdão impetrado, consignou-se:
+Vem por meio deste writ preventivo, impedir que, caso venha a ser condenado, não seja concedido o benefício de apelar em liberdade, com decretação de sua prisão.
+Assim, tendo sido concedido o benefício de recorrerem liberdade, quando da prolação da decisão de pronúncia, encontrando-se ele em liberdade, a ordem é de ser denegada, porque o alegado constrangimento efetivamente não ocorreu, carecendo de fundamento a arguição de que poderá sofrer constrangimento ilegal, caso venha a ser efetivamente imposta sua segregação.
+"Habeas corpus preventivo. Ameaça à liberdade de ir e vir. Necessidade de prova da iminência da violação ou coação legal. Simples receio não autoriza a concessão da medida. Indeferimento"(JCAT 73/529).
+Também não há que se falar em salvo-conduto neste momento processual, o que equivaleria a conceder ao paciente "carta branca" para eventual interferência no bom andamento dos trabalhos que ocorrerão em Plenário do Júri, com o que, com certeza, não concordam os impetrantes.
+Os impetrantes alegam que o paciente está (sempre esteve) à disposição da Justiça. Ocorre que essa alegação remete a exame de contemporaneidade para prisão e como bem lançado no julgado recorrido - em razões de decidir -, o paciente não está encarcerado.
+Os impetrantes insistem, ainda, em que é necessário salvo-conduto, tendo em vista a possibilidade de prisão do paciente em decorrência de eventual condenação.
+Com essa causa de pedir, a jurisprudência desta Corte não acolhe o mandamus (preventivo), v.g.:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 121, § 2.º, INCISOS II E IV, DO CÓDIGO PENAL. PLEITO DE CONCESSÃO DE SALVO-CONDUTO PARA ASSEGURAR A LIBERDADE DO PACIENTE EM CASO DE EVENTUAL CONDENAÇÃO PELO TRIBUNAL DO JÚRI. AÇÃO CONSTITUCIONAL DO HABEAS CORPUS QUE NÃO PODE SER UTILIZADA PARA HIPÓTESES DE HIPOTÉTICA AMEAÇA À LIBERDADE DE LOCOMOÇÃO. RECURSO ORDINÁRIO DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ação constitucional do habeas corpus não serve para tutelar eventual e hipotética coação à liberdade de locomoção, como ocorre no caso, tendo em vista que há apenas suposição de que haverá condenação pelo Tribunal do Júri e que o Juiz Presidente decretará a execução provisória da reprimenda. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 178.672/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/5/2023, DJe de 5/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O WRIT. MANDAMUS PREVENTIVO VISANDO COIBIR CONSTRANGIMENTO ILEGAL REAL OU IMINENTE À LIBERDADE DE LOCOMOÇÃO. EXPEDIÇÃO DE SALVO CONDUTO. NÃO CABIMENTO. AUSÊNCIA DE AMEAÇA AO DIREITO AMBULATORIAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Hipótese em que o agravante foi denunciado e pronunciado sob a imputação da prática do crime previsto no art. 121, parágrafo 2º, incisos I, III e IV, na forma do art. 29, caput, do Código Penal Brasileiro. A defesa impetrou o writ objetivando a concessão de salvo-conduto que garanta a permanência da liberdade do réu em caso de eventual determinação de prisão decorrente da condenação proferida pelo Tribunal do Júri.
+2. O habeas corpus preventivo visa a coibir constrangimento ilegal real e iminente à liberdade de locomoção do indivíduo, não se prestando a impedir constrição supostamente ilegal, meramente intuitiva e calcada em ilações e suposições desprovidas de base fática. Precedentes.
+3. No caso, a mera suposição de que o Tribunal poderá condenar o réu e permitir a ilegal execução provisória da pena, com a consequente expedição de mandado de prisão, em flagrante afronta ao entendimento firmado nesta Corte Superior, não justifica a presente impetração, porquanto não demonstrado risco iminente e concreto à liberdade de locomoção do agravante.
+4. Agravo regimental não provido.
+(AgRg no HC n. 762.620/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+Indefiro, portanto, a ordem (RISTJ, art. 34, XX).
+Publique-se. Intimem-se.
+ EMENTA
