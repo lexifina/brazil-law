@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURO ESPECIAL. FURTO. DOSIMETRIA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME ANTE A NÃO RESTITUIÇÃO DA RES FURTIVA. FUNDAMENTO INIDÔNEO. PERDA PATRIMONIAL INERENTE AO TIPO PENAL. AGRAVO MINISTERIAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. No tocante às consequências do crime, nos termos da jurisprudência do Superior Tribunal de Justiça, "o fato de à vítima não ter tido restituída inteiramente a res furtiva não autoriza a exasperação da pena-base pelas consequências do delito, visto que a subtração de coisa alheia móvel constitui elementar do próprio tipo penal violado, de natureza patrimonial" (HC 219.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 1º/ 2/2013).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra a decisão de fls. 317-319 (e-STJ), que deu provimento ao recurso especial, decotando a valoração negativa do vetor referente às consequências do crime.
+O agravante alega, em suma, que " no caso dos autos, o Tribunal de Justiça, ao negativar as consequências do delito, não se baseou somente na ausência de restituição da res furtiva. O aresto, indicando elementos mais expressivos do que aqueles inerentes ao tipo penal, justificou que, além do prejuízo de R$ 2.820,00, a vítima estava endividada à época da instrução, pois havia parcelado a televisão furtada. A ilícita redução patrimonial que sofreu graças ao crime praticado pelo agravado lhe foi ainda mais danosa em razão de seu endividamento." (e-STJ, fls. 330-331).
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURO ESPECIAL. FURTO. DOSIMETRIA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME ANTE A NÃO RESTITUIÇÃO DA RES FURTIVA. FUNDAMENTO INIDÔNEO. PERDA PATRIMONIAL INERENTE AO TIPO PENAL. AGRAVO MINISTERIAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. No tocante às consequências do crime, nos termos da jurisprudência do Superior Tribunal de Justiça, "o fato de à vítima não ter tido restituída inteiramente a res furtiva não autoriza a exasperação da pena-base pelas consequências do delito, visto que a subtração de coisa alheia móvel constitui elementar do próprio tipo penal violado, de natureza patrimonial" (HC 219.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 1º/ 2/2013).
+3. Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Consoante anteriormente explicitado, no que se refere à suscitada violação do art. 59 do Código Penal, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+No tocante às consequências do crime, nos termos da jurisprudência do Superior Tribunal de Justiça, "o fato de à vítima não ter tido restituída inteiramente a res furtiva não autoriza a exasperação da pena-base pelas consequências do delito, visto que a subtração de coisa alheia móvel constitui elementar do próprio tipo penal violado, de natureza patrimonial" (HC 219.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 01/02/2013).
+Também nesse sentido:
+" .. . Constatando-se que a autoridade apontada como coatora limitou-se a afirmar que as consequências do crime eram negativas tendo em vista que a res furtiva não foi recuperada, não há como sopesar a citada circunstância judicial negativamente, já que, de acordo com os autos, o prejuízo das vítimas não se mostrou excessivo.  .. ."
+(HC 309.732/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/05/2015, DJe 20/05/2015).
+Sendo assim, em que pese o argumento do agravante no sentido de que a vítima havia parcelado a televisão furtada, não verifico a configuração de prejuízo excessivo que extrapole o pressuposto de perda patrimonial, elementar do tipo penal em questão.
+Dessa forma, verifica-se que o recorrente não trouxe elementos aptos a infirmar a decisão agravada, razão pela qual merece subsistir por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
