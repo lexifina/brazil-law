@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 218):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 265 DO CC; 17 E 18 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+O embargante alega que há erro material e/ou omissão no julgado, pois "No que se refere à tese da ilegitimidade ativa, a r. decisão é omissa quanto aos argumentos expostos nos itens 25, 26, 27 e 28, da petição inicial do Agravo de Instrumento interposto na origem (fls. 03-15), combinados com os itens 3, 4, 5 e 5, dos primeiros embargos de declaração opostos (fls. 100- 103), e itens 3, 4, 5 e 6, dos segundos embargos de declaração opostos (fls. 27-30)." (fl. 224).
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há erro material e/ou omissão no julgado, pois "No que se refere à tese da ilegitimidade ativa, a r. decisão é omissa quanto aos argumentos expostos nos itens 25, 26, 27 e 28, da petição inicial do Agravo de Instrumento interposto na origem (fls. 03-15), combinados com os itens 3, 4, 5 e 5, dos primeiros embargos de declaração opostos (fls. 100- 103), e itens 3, 4, 5 e 6, dos segundos embargos de declaração opostos (fls. 27-30)." (fl. 224).
+Ocorre que razão não lhe assiste.
+Com efeito, como o próprio embargante reconhece, os pontos ora indicados como supostamente objeto de erro material e/ou omissão constam da sua petição inicial de agravo de instrumento e dos embargos de declaração opostos perante a Corte de origem, a quem cabia, exclusivamente, o exame das referidas peças.
+A este Tribunal Superior cabia a análise das razões apresentadas no recurso especial interposto e dos acórdãos proferidos nos autos, sendo que, em o fazendo, concluiu a decisão embargada que "(..) os arts. 265 do CC, 17 e 18 do CPC/2015 (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ. (..) Outrossim, no caso dos autos, o recorrente apresentou argumentos a respeito da suposta ofensa aos arts. 265 do CC, 17 e 18 do CPC/2015 que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso, ao que se acrescenta que os referidos dispositivos não contêm comando normativo capaz de infirmar o juízo formulado no julgado. Aplica-se à hipótese, por ambos os motivos, a Súmula 284/STF." (fl. 219).
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
