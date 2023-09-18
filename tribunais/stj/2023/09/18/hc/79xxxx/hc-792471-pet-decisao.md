@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de petição na qual a defesa pretende que "reconsidere e reaprecie o requerimento feito em sede de Habeas Corpus, com pedido liminar para a concessão da ordem inaudita autera pars; para que reconheça a ilegalidade prisional, como medida de Justiça, para que seja deferido o Paciente O RELAXAMENTO e/ou REVOGAÇÃO DA PRISÃO PREVENTIVA, já que o TJMG Se manteve inerte, quanto a necessidade da segregação cautelar mesmo após determinação desta corte para que o fizesse" fls. 178/18.
+Consta dos autos que o paciente foi condenado pela prática dos crimes previstos nos arts. 33, 35, da Lei n. 11.343/036, art. 16, parágrafo único, inciso IV da Lei n. 10.826/03 e art. 297, c/c o art. 304, do Código Penal, à pena de 16 anos e 3 meses de reclusão, em regime inicial fechado, tendo sido negado o direito de recorrer em liberdade.
+A defesa alegou, nas razões do writ, excesso de prazo no julgamento da apelação e violação ao art. 316, parágrafo único do Código de Processo Penal - CPP.
+Na decisão de fls. 163/169, concedi parcialmente a ordem de habeas corpus a fim de determinar ao Tribunal de Justiça do Estado de Minas Gerais que procedesse à reavaliação da necessidade de manutenção da custódia preventiva imposta ao paciente, na forma do disposto no art. 316, parágrafo único, do Código de Processo Penal.
+Referido decisum transitou em julgado em 28/6/2023, conforme certidão de fl. 177. Assim, a prestação jurisdicional, nestes autos, está encerrada.
+De mais a mais, ressalto que, em consulta ao site do TJ/MG, verifiquei que o recurso de apelação foi julgado em 13/6/2023, tendo sido dado parcial provimento ao apelo. Na oportunidade, salientou a Corte Mineira que "subsistindo os motivos das prisões preventivas, essencialmente para a garantia da ordem pública, e diante da gravidade concreta dos delitos praticados, mantenho a negativa de os acusados recorrerem em liberdade, nos termos do art. 312 e atendendo, ainda, ao disposto no art. 316, parágrafo único, ambos do Código de Processo Penal". Assim, não há falar em inércia do Tribunal de origem acerca da reavaliação da necessidade da custódia cautelar do paciente.
+À vista do exposto, com fulcro no art. 34, XXVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da petição.
+Publique-se.
+Intimem-se.
+EMENTA
