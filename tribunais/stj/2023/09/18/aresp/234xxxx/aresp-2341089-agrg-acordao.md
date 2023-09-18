@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO DE DROGAS.  DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO  MANTIDA.
+I  -  A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Precedentes.
+II  -  In  casu,  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  parte d  as  razões  apresentadas  pelo  Tribunal  de  origem  para  inadmitir  o  recurso  especial.
+Agravo  regimental desprovido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  RENATO CONSTANTINO SIQUEIRA  contra  decisão  de  fls.  1173-1174,  que  não  conheceu  do  agravo  em  recurso  especial,  em  razão  da  ausência  de  impugnação  específica  a  fundamento  da  decisão  que  inadmitiu  o recurso.
+Nas  razões  deste  ag ravo  regimental  ,  a  parte  assevera  que  "(..) quanto ao prequestionamento, este foi abordado de forma específica e direta na peça dos Recursos Especiais, as fls. e-STJ Fl.1.103."  (fl.  1.179).  Nestes  termos,  requer  a  reconsideração  da  decisão  impugnada  .
+O  Ministério  Público  Federal  apresentou parecer  pelo  não conhecimento e, sucessivamente, pelo desprovimento  do  agravo  regimental  (fls.  1.191-1.195).
+É  o  relatório.
+EMENTA
+PROCESSO PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO DE DROGAS.  DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO  MANTIDA.
+I  -  A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Precedentes.
+II  -  In  casu,  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  parte d  as  razões  apresentadas  pelo  Tribunal  de  origem  para  inadmitir  o  recurso  especial.
+Agravo  regimental desprovido.
+VOTO
+O  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  firmado  anteriormente,  sob  pena  de  ser  mantida  a  decisão  impugnada  por  seus  próprios  fundamentos.
+ A  decisão  agravada  concluiu  que  o  agravo  em  recurso  especial  deixou  de  impugnar  parte  dos  fundamentos  da  decisão  de  admissibilidade  do  Tribunal  de  origem  para  não  admitir  o  recurso  especial,  qual  seja,  a  incidência  da Súmula 282, STF.
+Por  tal  razão,  foi  aplicada  a  regra  contida  no  art.  21-E,  inciso  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  ocasionando  o  não  conhecimento  do  agravo  em  recurso  especial.
+Transcrevo  os  seguintes  fundamentos  consignados  na  decisão  agravada  (fl.  1.173):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial."
+Com  efeito,  das  razões  colacionadas  na  irresignação (fls. 1.146-1.154),  verifico  que  a  parte  não  refutou  a  aplicação  das  Súmula  282/STF  de  maneira  adequada,  pois  deveria  o  agravante  indicar  como  o  acórdão  recorrido  enfrentou  a  questão  posta  em  debate  no  seu  recurso  especial,  demonstrando  o  prequestionamento  da  quaestio  juris  versada  no  apelo  nobre.
+Desse  modo,  a  ausência  de  impugnação  dos  fundamentos  empregados  pela  Corte  de  origem  para  impedir  o  trânsito  do  apelo  nobre,  nos  termos  do  art.  932,  inciso  III  do  CPC,  impede  o  conhecimento  do  agravo,  cujo  único  propósito  é  demonstrar  a  inaplicabilidade  dos  motivos  indicados  na  decisão  de  inadmissibilidade  do  recurso  por  meio  de  impugnação  específica  de  cada  um  deles.
+Nesse  sentido:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FURTO  QUALIFICADO.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  PLEITO  DE  CONCESSÃO  DE  HABEAS  CORPUS  DE  OFÍCIO.  CAUSA  DE  AUMENTO  DO  REPOUSO  NOTURNO  NO  FURTO  QUALIFICADO.  TEMA  REPETITIVO  N.  1.087.  NÃO  INCIDÊNCIA.  ORDEM  CONCEDIDA  DE  OFÍCIO,  TÃO  SOMENTE  PARA  DECOTAR  A  CAUSA  DE  AUMENTO  DO  REPOUSO  NOTURNO  NA  TERCEIRA  FASE  DA  DOSIMETRIA  DA  PENA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+I  -  A  ausência  de  impugnação  dos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+II  -  In  casu,  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  as  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial  com  relação  à  incidência  das  Súmulas  7  e  83,  ambas  do  STJ  e  das  Súmulas  282  e  356,  ambas  do  STF.
+III  -  Para  afastar  o  óbice  da  Súmula  7/STJ,  não  basta  apenas  deduzir  a  inaplicabilidade  do  óbice  apontado  na  decisão  agravada,  sem  demonstrar  a  desnecessidade  da  análise  do  conjunto  fático-probatório,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  acórdão  objurgado,  o  que  não  aconteceu.
+IV  -  Quanto  ao  óbice  da  Súmula  83/STJ,  o  agravante  deveria  demonstrar,  por  meio  da  indicação  de  precedentes  contemporâneos  ou  supervenientes  desta  Corte  Superior,  a  desarmonia  do  julgado  ou  a  ausência  de  entendimento  pacificado  sobre  a  matéria,  por  exemplo,  evidenciando,  assim,  a  inaplicabilidade  do  embaraço  indicado  pelo  Tribunal  a  quo.
+V  -  Quanto  à  incidência  das  Súmulas  282  e  356  ,  ambas  do  eg.  Supremo  Tribunal  Federal,  no  caso,  deveria  a  Defesa  ter  indicado  como  a  decisão  recorrida  enfrentou  a  questão  posta  em  debate  no  recurso  especial,  deixando  claro  que  a  matéria  foi  devidamente  consignada  no  acórdão  recorrido,  o  que  não  ocorreu  na  hipótese.
+ ..
+Agravo  regimental  desprovido.  Concedida  a  ordem  de  ofício,  tão  somente  para  afastar  o  aumento  relativo  à  majorante  prevista  no  art.  155,  §1º,  do  Código  Penal"  (AgRg  no  AREsp  n.  2.125.483/SP,  Quinta  Turma,  Rel.  Min.  Jesuíno  Rissato  - Desembargador  Convocado  do  TJDFT,  DJe  de  26/8/2022,  grifei).
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  DE  ADMISSIBILIDADE.  SÚMULA  182/STJ.  INCIDÊNCIA.  CONCESSÃO  DE  HABEAS  CORPUS  DE  OFÍCIO.  IMPOSSIBILIDADE  DE  EXECUÇÃO  PROVISÓRIA  DAS  PENAS  RESTRITIVAS  DE  DIREITOS.  AGRAVO  NÃO  PROVIDO.
+1.  A  ausência  de  impugnação  específica  aos  fundamentos  da  decisão  agravada  impede  o  conhecimento  do  recurso.
+2.  Não  assiste  razão  ao  agravante,  pois,  no  caso,  incide  o  óbice  da  Súmula  182/STJ,  uma  vez  que  deixou  de  impugnar,  no  seu  agravo  em  recurso  especial,  de  forma  específica,  ausência/deficiência  de  cotejo  analítico  e  certidão  não  juntada/cópia  não  autenticada/repositório  não  autorizado/repositório  não  oficial.
+ ..
+6.  Agravo  regimental  não  provido.  Concessão  de  habeas  corpus  de  ofício  para  suspender  a  execução  provisória  das  penas  restritivas  de  direitos."  (AgRg  no  AREsp  n. 1.682.769/SC,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de 23/06/2020).
+Ademais,  rechaçar  as  argumentações  utilizadas  pelo  decisum  que  inadmitiu  o  apelo  extremo  a  destempo,  na  via  do  regimental,  como  ora  pretende  o  agravante,  é  inadequado,  porquanto  tal  impugnação  deveria  ter  sido  ventilada  justamente  no  bojo  do  agravo  em  recurso  especial
+Portanto,  a  decisão  monocrática  deve  ser  mantida,  pois,  quando  da  interposição  do  agravo  em  recurso  especial,  não  cuidou  o  ora  agravante  de  refutar  todos  os  fundamentos  da  decisão  que  inadmitiu  o  apelo  nobre.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
