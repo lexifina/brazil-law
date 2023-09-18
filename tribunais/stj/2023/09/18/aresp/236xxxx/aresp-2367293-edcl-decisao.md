@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Thalita Pereira Almeida à decisão proferida por esta relatoria nos termos da seguinte ementa (e- STJ, fl. 621):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 E 356 DO STF. CANCELAMENTODE PLANO DE SAÚDE SEM PRÉVIA NOTIFICAÇÃO. DEVER DE INDENIZAR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega a embargante a existência de vícios na decisão embargada.
+Para tanto, sustenta erro material uma vez que 2% sobre o valor atualizado da causa não retrata majoração dos honorários advocatícios fixados pelo TJSP em 12%, isso porque significa expressiva redução do valor dos honorários advocatícios fixados anteriormente. Desse modo, ressalta a impossibilidade de redução do valor dos honorários advocatícios.
+Impugnação apresentada às fls. 637-639 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Dito isso, observa-se que nestes embargos a parte insurgente aponta que a majoração dos honorários recursais indicados na decisão embargada não se mostraram suficientes, além de que no seu entender teriam reduzido os já fixados e majorados pelas instâncias originárias.
+Com efeito, conforme consignado na decisão de fls. 621-627 (e-STJ), o agravo foi conhecido para não conhecer do recurso especial da parte ora embargada e, diante disso, os honorários recursais foram majorados em favor dos advogados da embargante em 2% sobre o valor atualizado da causa, nos termos do art. 85, § 11, do CPC/2015.
+Quanto à fixação dos honorários recursais, a jurisprudência desta Corte firmou entendimento pela necessidade do preenchimento de requisitos cumulativos.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. MULTA DO ART. 1.021, § 4º, DO NCPC. INAPLICABILIDADE DA MULTA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. De acordo com a jurisprudência do STJ, com amparo no art. 85, § 11, do NCPC, são devidos honorários recursais ".. quando presentes os seguintes requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação ao pagamento de honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017). No caso em apreço, os requisitos para a majoração dos honorários não foram devidamente preenchidos.
+4. A imposição da multa, prevista no art. 1.021, § 4º, do diploma processual civil, não é automática e depende da análise do caso concreto.
+5. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1.295.815/DF, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 14/3/2022, DJe 18/3/2022 - sem grifo no original)
+Veja-se também:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO OUTORGANDO AO SUBSCRITOR DO RECURSO ESPECIAL. ENUNCIADO 115 DA SÚMULA DO STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS.ART. 85, § 11, do CPC/2015. AGRAVO NÃO PROVIDO.
+1. Na instância extraordinária é inexistente recurso interposto por advogado sem procuração nos autos (Súmula 115/STJ).
+2. Tendo sido oportunizada à parte a juntada da procuração, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil e não tendo sido cumprida a exigência no prazo determinado, inviável o provimento do recurso.
+3. "Tendo sido preenchidos os requisitos para a majoração dos honorários recursais, estes devem ser mantidos nos termos definidos na origem, visto que foram observados os limites percentuais previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, não sendo necessária a comprovação de trabalho adicional do advogado do recorrido no grau recursal" (AgInt no AREsp 1832583/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/11/2021, DJe 3/12/2021).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.994.015/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 20/6/2022, DJe de 28/6/2022 - sem grifo no original)
+No caso, observa-se que o Tribunal de origem após dar parcialmente provimento ao apelo da embargante e não acolher os apelos das demandadas fixou os honorários da seguinte forma: "Em razão da mínima sucumbência da autora, condeno as rés solidariamente ao pagamento das custas e despesas processuais, além de honorários advocatícios que fixo em 12% sobre o valor atualizado da causa, no qual já incluído os honorários advocatícios de sucumbência, nos termos do §11 do art. 85 do CPC" (e-STJ, fl. 537).
+Por sua vez, esta relatoria ao negar provimento ao recurso da Unimed Campinas Cooperativa de Trabalho Médico, majorou em mais 2% sobre os já fixados na instância de origem, atendendo aos requisitos cumulativos indicados na jurisprudência desta Corte Superior.
+Dessa maneira, não há que falar em falta de m ajoração ou menos ainda em redução dos honorários advocatícios anteriormente majorados.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
