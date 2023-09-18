@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Wilson Antonio Sentinello contra decisão monocrática da minha lavra, assim ementada (fl. 84):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Writ não conhecido.
+Nas razões, a defesa argumenta que diante do entendimento jurisprudencial desta Corte Superior, perfeitamente possível o conhecimento da impetração.
+Nesse passo, reitera os fundamentos do writ, alegando a existência de constrangimento ilegal no aumento da pena-base, pois a valoração negativa de forma abstrata, já que não é possível considerar os números de qualificadoras como motivação para a majoração da pena-base acima do mínimo legal, nem tampouco considerar a mesma qualificadora que ensejou o tipo qualificado como circunstância apta a majorar a pena-base, sob pena de bis in idem (fl. 107).
+Insiste que a vítima sofreu lesões leves, a demonstrar que o iter criminis percorrido foi mínimo. Dessa forma, defende que o quantum de redução da pena pela tentativa se apresentou indevido, impondo-se, assim, a diminuição em 2/3.
+Pleiteia a reconsideração da decisão agravada ou seja o recurso provido para reduzir a pena do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica do fundamento do decisum combatido.
+Apesar de não conhecer da impetração por ser substitutiva de revisão criminal, apreciei as alegações defensivas a fim de avaliar a existência do dito constrangimento ilegal.
+Pois bem, mencionei no ato ora recorrido que o Juízo de primeiro grau, ao fixar a pena-base em 1/6 acima do mínimo, expôs que o recurso que dificultou a defesa da vítima será considerado para qualificar o delito e, consequentemente, tendo os jurados reconhecido a promessa de recompensa, há de ser tal circunstância valorada negativamente nesta primeira etapa (fl. 67).
+Com efeito, concluí que o entendimento acima exposto não destoa da jurisprudência firmada nesta Corte Superior, porquanto, havendo mais de uma qualificadora no homicídio doloso, uma delas pode formar o tipo qualificado e as demais serem utilizadas para agravar a pena na segunda etapa do cálculo dosimétrico (caso constem no rol do art. 61, II, do CP) ou para elevar a pena-base na primeira fase do cálculo. Precedentes. (AgRg no HC 799.939/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 6/3/2023).
+Ademais, inexistiu violação ao princípio do non bis in idem no caso, pois os Órgãos Judiciários locais enfatizaram que o recurso que dificultou a defesa da vítima foi utilizado para qualificar a infração e outra qualificadora (promessa de recompensa) serviu para exasperar a pena-base como circunstâncias judiciais desfavoráveis, técnica, como já dito, considerada válida pela jurisprudência do Superior Tribunal de Justiça. (AgRg no HC n. 784.940/MS, Ministra Laurita Vaz, Sexta Turma, DJe 29/3/2023).
+Também indiquei, relativamente à fração aplicada à tentativa, que as instâncias de origem utilizaram, no tocante ao quantum de redução pela tentativa, o critério do iter criminis percorrido, em perfeita consonância com a jurisprudência deste Sodalício. Ponderei, ainda, que seria impossível, nesta sede, a inversão do decidido, haja vista que vedado o exame aprofundado das provas. (HC n. 339.562/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/3/2016).
+No ponto, transcrevi o conteúdo exposto na sentença para justificar a redução na fração de 1/3. Confiram os argumentos lançados pelo Magistrado singular (fl. 68 - grifo nosso):
+ ..  Leonardo (o executor dos atos planejados por Wilson) apenas parou com as agressões ao imaginar que a vítima já estava morta, conforme ele mesmo mencionou em instrução no plenário, aduzindo que ela não mais se mexia ou resistia. Elizete, ademais, mencionou por mais de uma vez que "se fingiu" de morta. Portanto, se Leonardo, o agente, acreditou que a vítima estava morta, e se Elizete se fingiu de morta para que as agressões parassem, não há razão para aumento da fração de diminuição acima do mínimo, afinal Leonardo imaginou mesmo que seu intento havia sido consumado. Além disso, considerando que houve dois disparos na cabeça, houve razoável transcurso do iter criminis, apontando ainda o exame de corpo de delito que houve "perigo de vida" (fls.
+578ss). Enfim, sendo objetivas essas circunstâncias, o caminho do crime percorrido por Leonardo é aplicável também a Wilson, havendo de ser aplicada a mesma fração mínima aos dois.  ..
+O caso concreto indica que a vítima foi atingida por dois disparos de arma de fogo na cabeça. Assim, concluiu a instância antecedente que houve realização o suficiente para alcançar o resultado morte, de forma que devidamente justificada a aplicação do redutor mínimo de 1/3 (art. 14, II, do CP).
+De fato, verifica-se que o quantum utilizado para redução da pena pela tentativa - 1/3 - corresponde ao iter criminis percorrido pelo agente, o qual somente não conseguiu consumar o crime em razão de imaginar que a vítima já estava morta - já que ela não se mexia ou resistia -, quando já havia efetuado dois disparos em região letal de seu corpo (AgRg no HC n. 515.193/MG, Ministro Jorge Mussi, Quinta Turma, DJe 23/10/2019).
+Assim sendo, caberia ao agravante, nas razões do regimental, rebater esses fundamentos, o que não se verifica da leitura da peça, limitando-se a defesa a repisar os fundamentos do habeas corpus.
+É inviável, portan to, o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Ante o expo sto, não conheço do agravo regimental.
