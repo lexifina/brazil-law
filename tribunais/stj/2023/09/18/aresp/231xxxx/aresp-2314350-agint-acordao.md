@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, descrevendo os fatos como ocorridos nos autos, consignou que a ação executiva foi proposta em 2001 e que a citação se deu pelos Correios ainda no ano de 2002, enquanto ainda não teria decorrido o prazo do art. 174 do CTN, considerando esta citação válida dado que enviada para o endereço do executado e devolvida com aviso de recebimento cumprido, ainda que assinada por pessoa estranha, o que está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela BENFICA CONSTRUCOES E INCORPORACOES LTDA. contra decisão de minha lavra em que conheci do agravo para, com fundamento na ausência de vício de integração (violação dos arts. 11, 489 e 1.022 do CPC), na compatibilidade do acórdão com a jurisprudência do STJ e na aplicação dos óbices da Súmula 7 do STJ (violação dos arts. 174 do CTN e 242 do CPC/2015), e das Súmulas 282 e 283 do STF (violação dos arts. 278 e 337 do CPC/2015), conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+A parte agravante alega, em síntese, que o vício de integração se verifica na ausência de manifestação da Corte de origem acerca de qual a data que deveria ser considerada como momento da interrupção do prazo prescricional: se o momento da citação pelo AR, ou do comparecimento pessoal do executado.
+Alegou ainda que inaplicável o óbice da Súmula 7 do STJ na alegação de violação do art. 174 do CTN (data que deveria ser considerada para interrupção do prazo prescricional), tendo em vista não exigir revolvimento de fatos e provas.
+Também juntou acórdãos desta Corte superior para dar sustentação à sua alegação de que não seria possível reconhecer-se a validade da citação feita pelos correios, uma vez que inaplicável a teoria da aparência ao caso concreto.
+Contraminuta apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, descrevendo os fatos como ocorridos nos autos, consignou que a ação executiva foi proposta em 2001 e que a citação se deu pelos Correios ainda no ano de 2002, enquanto ainda não teria decorrido o prazo do art. 174 do CTN, considerando esta citação válida dado que enviada para o endereço do executado e devolvida com aviso de recebimento cumprido, ainda que assinada por pessoa estranha, o que está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Como assinalado na decisão agravada, o recurso especial se origina de execução fiscal que, após acolhimento de exceção de pré-executividade, foi extinta no primeiro grau com fundamento na prescrição direta do crédito tributário por decurso do prazo do art. 174 do CTN (redação anterior à lei Complementar n. 118/2005) antes da efetivada citação do executado.
+O magistrado assentou que, ocorrida a citação valida do contribuinte apenas com o seu comparecimento aos autos para informar a adesão à programa de parcelamento, a prescrição direta do crédito tributário se teria configurado no caso concreto, sendo inaplicáveis o entendimento firmado na Súmula 106 do STJ e a regra de retroação do efeito interruptivo da citação previsto no art. 219 do CPC/1973.
+O Tribunal distrital reformou esta sentença, dando provimento à apelação para afastar a decretação da prescrição direta do crédito tributário.
+Descrevendo os fatos como ocorridos nos autos, consignou que a ação executiva foi proposta em 2001 e que a citação válida se deu pelos correios ainda no ano de 2002, enquanto ainda não teria decorrido o prazo do art. 174 do CTN.
+Expressamente consignou que a citação ocorrida pelos correios, no caso concreto, era válida, tendo sido enviada para o endereço do executado e devolvida com aviso de recebimento cumprido, ainda que assinada por pessoa estranha à relação jurídica tributária.
+Registrou, ainda, que a discussão sobre a nulidade da citação ocorrida pelos correios teria sido alcançada pela preclusão, motivo pelo que não poderia sequer ser apreciada.
+Com amparo nesse contexto, afastou a alegação de prescrição do crédito tributário e determinou a continuidade da execução.
+Opostos embargos de declaração, foram eles rejeitados.
+No  especial,  na parte que interessa a este agravo interno, a  parte  alega  violação  dos  arts. 11, 242, 489 e 1.022 do CPC/2015  e do art. 174 do CTN.
+ Sustenta,  em  síntese, a existência de vício de integração no acórdão recorrido que teria incorrido em omissão ao não apreciar a alegação de invalidade da citação feita pelos correios quando entregue e assinada por pessoa estranha a devedora, motivo pelo que só poderia ser considerada data da efetiva citação aquela em que o devedor teria comparecido aos autos.
+No mérito, defende que, em razão da invalidade da citação ocorrida pelos correios, caberia reconhecer o decurso do prazo prescricional do crédito tributário ocorrido entre a data da constituição do crédito e a data em que efetivamente ocorrida a citação pessoal do executado.
+Como afirmado no decisum ora agravado, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, o Tribunal distrital consignou que a citação ocorrida pelos correios, no caso concreto, era válida, tendo sido enviada para o endereço do executado e devolvida com aviso de recebimento cumprido, ainda que assinada por pessoa estranha à relação jurídica (e-STJ fl. 186):
+Para o adequado julgamento do presente recurso é necessário analisar a regularidade da citação promovida nos autos.
+A respeito do tema convém reiterar que o ato de citação do devedor, no processo de execução fiscal, regra geral, é promovido por meio de envio de carta por correio com aviso de recebimento, nos termos do art. 8o da Lei nº 6830/1980.
+Quanto ao mais destaque-se que não há necessidade de intimação pessoal, ou sequer de que o aviso de recebimento seja assinado pelo próprio devedor. Basta, para tanto, que a carta seja entregue no endereço indicado na Certidão de Dívida Ativa.
+Na hipótese dos autos verifica-se que o ato citatório fora promovido em consonância com a aludida regra aplicável à hipótese (Id. 34203500. fls. 1-2 e 5-6).
+Ademais, o devedor peticionou nos autos em 28 de outubro de 2010 (Id. 34203500. fls. 44-47) sem deduzir qualquer hipótese de nulidade na citação, precluindo a oportunidade para tanto, razão pela qual deve ser admitida a citação como válida e regular.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+No mérito, "é tranquila a jurisprudência do STJ pela validade da citação postal, com aviso de recebimento e entregue no endereço correto do executado, mesmo que recebida por terceiros" (AgInt no REsp 1.473.134/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/08/2017, DJe de 28/08/2017).
+No mesmo sentido: AgRg no AREsp 593.074/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 04/12/2014, DJe de 19/12/2014; REsp n. 1.168.621/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/4/2012, DJe de 26/04/2012.
+Na hipótese dos autos, o Tribunal distrital, descrevendo os fatos como ocorridos nos autos, consignou que a ação executiva foi proposta em 2001 e que a citação se deu pelos Correios ainda no ano de 2002, enquanto ainda não teria decorrido o prazo do art. 174 do CTN, considerando esta citação válida dado que enviada para o endereço do executado e devolvida com aviso de recebimento cumprido, ainda que assinada por pessoa estranha.
+Assim, ao tempo em que o acórdão está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior, sua revisão só seria possível mediante revisão do acervo probatório, providência inadequada em recurso especial, consoante enunciado da Súmula 7 do STJ.
+Em atenção às alegações formuladas no agravo interno, os arestos arrolados não guardam similitude fática com a presente lide, uma vez que tratam de situação não relacionada com o processo de execução de crédito tributário.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
