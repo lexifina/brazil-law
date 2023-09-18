@@ -1,0 +1,138 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/09/2023 a 18/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DANOS MORAIS. VALOR DA INDENIZAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. É firme o entendimento desta Corte de que o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+2. Considera-se deficiente o recurso que não apresenta as razões pelas quais entende ter sido violado o dispositivo de lei indicado.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. No caso concreto, a análise das razões apresentadas pelo recorrente quanto à ausência de responsabilidade e de excesso no valor da indenização demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+6. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+7. Agravo interno a que nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 815/839) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante alega ter devidamente demonstrado o dissídio jurisprudencial, com a realização do cotejo analítico entre os julgados. Aduz ter indicado decisões de tribunais diversos daquele que proferiu o acórdão recorrido.
+Afirma que foram expostas as razões pelas quais cada dispositivo legal apontado foi violado.
+Sustenta que houve julgamento extra petita porque, "conforme restou exposto nas Contrarrazões de fls. 365/374, a Agravada concordou que esta Agravante é parte ilegítima na Ação, requerendo, inclusive, sua exclusão da demanda (fl. 292), corroborado pela ausência de pedido de condenação em face desta agravante nas razões da apelação interposta" (e-STJ fls. 832/833).
+Entende que a parte autora, em seu recurso de apelação, afirmou que o dano foi causado apenas pela corré, de forma que não pode ser condenada por um mero erro material da apelação que, no pedido, teria falado em "agravadas".
+Insurge-se contra a aplicação da Súmula n. 7/STJ, argumentando que não pretende o reexame de provas.
+Assevera que foi demonstrado o dissídio jurisprudencial relativo à exorbitância da indenização fixada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 844/848).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.105.738 - SP (2022/0105485-6)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+CONSORCIO SETE
+ADVOGADOS
+:
+MARCOS ANDRE PEREIRA DA SILVA - SP161014
+DANIELA ARICÓ HAUSCH - SP234350
+AGRAVADO
+:
+SONIA MARIA MENDES GOES
+ADVOGADOS
+:
+FABIANA MARIA GÓES FACCHINI - SP186408
+CLEITON DA SILVA GERMANO - SP221590
+JOSEVALDO DUARTE GUEIROS - SP252887
+INTERES.
+:
+VIAÇÃO GATUSA TRANSPORTES URBANOS LTDA
+ADVOGADOS
+:
+MICHELLE LANDANJI - SP220743
+MARCO AURELLYO PALAZOLO CAPUTO - SP368267
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DANOS MORAIS. VALOR DA INDENIZAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. É firme o entendimento desta Corte de que o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+2. Considera-se deficiente o recurso que não apresenta as razões pelas quais entende ter sido violado o dispositivo de lei indicado.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. No caso concreto, a análise das razões apresentadas pelo recorrente quanto à ausência de responsabilidade e de excesso no valor da indenização demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+6. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+7. Agravo interno a que nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 775/780):
+Trata-se de agravo nos próprios autos interposto por CONSÓRCIO SETE contra decisão que inadmitiu o recurso especial por aplicação do princípio da persuasão racional, ausência de violação dos arts. 141, 489, II e III, e 492 do CPC/2015, aplicação da Súmula n. 83/STJ, falta de demonstração de ofensa aos demais artigos arrolados, incidência das Súmulas n. 7 e 13 do STJ e inexistência de similitude entre os acórdãos confrontados (e-STJ fls. 657/663).
+O acórdão recorrido está assim ementado (e-STJ fl. 385):
+AÇÃO INDENIZATÓRIA - Transporte de pessoas - Responsabilidade Civil - Hipótese em que passageira de ônibus sofreu ferimentos graves decorrentes de acidente no interior de veículo conduzido por preposto das requeridas - Existência de nexo causal - Caracterizada a responsabilidade objetiva das empresas de transporte - Dano moral configurado - Fixação de indenização em R$ 15.000,00, diante da natureza grave da lesão sofrida - Correção monetária que incide desde a data do arbitramento, nos termos da Súmula 362 do Superior Tribunal de Justiça - Os juros de mora incidem a partir da citação, por se tratar de relação contratual - Sentença reformada - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram parcialmente acolhidos, nos termos da seguinte ementa (e-STJ fl. 628):
+RECURSO - EMBARGOS DE DECLARAÇÃO - Alegação de ilegitimidade de parte e nulidade do julgado por conter decisão extra petita - Descabimento - Recuso revestido de caráter infringente e de prequestionamento não admitido - EMBARGOS REJEITADOS neste aspecto.
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - Alegação de erro material - Ocorrência - Necessidade de correção do julgado para atendimento dos critérios contidos no artigo 85, § 2º, do Código de Processo Civil - Percentual que deve ser fixado com base no valor da condenação - EMBARGOS ACOLHIDOS neste aspecto.
+Nas razões do recurso especial (e-STJ fls. 400/434), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) arts. 141 e 492 do CPC/2015, pois o acórdão seria extra petita, visto que a recorrida teria concordado com o fato de que o recorrente é parte ilegítima, não havendo na apelação pedido de condenação contra ele. Citou julgados do TJRS, TJPR e do TJSP,
+(b) arts. 373, I, do CPC/2015 e 186 e 927 do CPC/2015, porque não teria sido demonstrada a responsabilidade civil da recorrente pelo acidente ocorrido.
+Transcreveu ementas do TJRJ e do TJSP,
+(c) arts. 186, 927, 944, parágrafo único, e 945 do CC/2002, haja vista que não teria sido comprovado que a recorrida ficou com alguma sequela que pudesse ensejar a indenização arbitrada. Além disso, o valor fixado seria excessivo, ferindo os princípios da razoabilidade e da proporcionalidade. Indicou acórdãos do STJ, do TJSP e do TJRJ.
+Aduziu que a Súmula n. 362/STJ também teria sido violada, tendo em vista que os juros de mora incidentes sobre os danos morais deveriam fluir do arbitramento. Apresentou julgados do TJSP, do STJ e do TJMG.
+Alegou terem sido afrontados também os arts. 371, 489 e 927 do CPC/2015.
+Contrarrazões às fls. 648/656 (e-STJ).
+No agravo (e-STJ fls. 670/714), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 751/759).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Quanto ao dissídio jurisprudencial, é firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, tais requisitos não foram atendidos. O recorrente apenas transcreve ementas de julgados sem realizar o devido cotejo com o acórdão recorrido. Ademais, muitos dos acórdãos são do próprio Tribunal de origem, não podendo ser aceitos para fins de comprovação de divergência jurisprudencial, haja vista a Súmula n. 13/STJ.
+Assim, quanto à interposição pela alínea "c" do permissivo constitucional, aplicável a Súmula n. 284/STF.
+Com relação à ofensa à lei federal, em primeiro lugar, destaco ter sido apontada ofensa aos arts. 371, 489 e 927 do CPC/2015, contudo, não foram expostos os motivos pelos quais o recorrente entende ter ocorrido tal violação. Nesse ponto também, por carência de fundamentação, incide a Súmula n. 284/STF.
+No que diz respeito ao alegado julgamento extra petita, o TJSP consignou que (e-STJ fls. 629/631):
+Como se nota das razões recursas de fls. 339/346 apensas a autora embargada nomeia como "apeladas" as empresas VIAÇÃO GATUSA TRANSPORTES URBANOS LTDA e CONSORCIO SETE (fls. 339).
+Outrossim, o pedido formulado no apelo de fls. 339/346 apensas foi no seguinte sentido: "O provimento do recurso apresentado pela Apelante para o fim de reformar a r. sentença e julgar procedente a ação para condenar as Apeladas ao pagamento de indenização de danos morais, ou (..)" (fls. 345 apensa).
+De mais a mais, como bem apanhado na r. sentença apelada, "A preliminar de ilegitimidade passiva não comporta acolhimento" (fls. 331 apensa).
+E ainda, "(..) Assim quanto ao alegado pelo Consórcio Sete, a ilegitimidade decorreria do disposto no artigo 278, § 1º, da Lei 6.404/76, in verbis: "O consórcio não tem personalidade jurídica e as consorciadas somente se obrigam nas condições previstas no respectivo contrato, respondendo cada uma por suas obrigações, sem presunção de solidariedade". No entanto, tem-se que o referido consórcio fora constituído objetivando explorar os serviços de transporte, hipótese em que a jurisprudência do E. Tribunal de Justiça de São Paulo tem reconhecido a legitimidade dos consórcios para casos envolvendo consumidores, na medida que, mesmo não apresentando personalidade jurídica, possuem os consórcios capacidade para figurar como parte (CPC, art. 75, IX)" (fls. 332 apensa) (grifo nosso).
+Vale lembrar que o embargante, ante à improcedência dos pedidos na origem, não interpôs recurso de apelação contra o reconhecimento de sua legitimidade para figurar no polo passivo da lide e, inobstante seja tal matéria de ordem pública e cognoscível a qualquer tempo e grau de jurisdição, não há fundamento para alterar tanto a r. sentença apelada quanto o v. acórdão ora embargado neste aspecto.
+Assim, conclui-se que as alegações do embargante possuem caráter nitidamente infringente.
+ ..
+Sem qualquer justificativa, portanto, no que concerne à nulidade do julgado por ser este extra petita, o prequestionamento legal pretendido.
+Houve, de fato, pedido direcionado ao ora agravante, de forma que não há falar em julgamento extra petita.
+Quanto à responsabilidade do recorrente, bem como quanto aos danos morais, a Corte local assim se pronunciou (e-STJ fls. 391/395):
+Como bem apanhado pelo MM. Juízo a quo, para a caracterização da responsabilidade civil do transportador, que é objetiva, basta a comprovação da ação ou omissão, do nexo causal entre a conduta e o resultado e o dano em si (artigo 734 do Código Civil c/c artigo 37, § 7º, da Constituição Federal).
+ ..
+Nada obstante, o depoimento da autora à autoridade policial, aliado à prova testemunhal produzida e ao Boletim de Ocorrência (fls. 15/16) convergem para a falta de cuidado do motorista, preposto da ré, por ter arrancado bruscamente com o veículo até a autora seguir com segurança em direção à catraca.
+Outro aspecto a ser sopesado é que o contrato de transporte de pessoas na hipótese é verbal, não se exigindo instrumento escrito para eventual responsabilização das rés. Nada obstante, a filha da requerida (FABIANA MARIA GÓES FACCINNI) foi testemunha dos fatos narrados tanto nestes autos quanto naqueles de procedimento administrativo investigatório.
+Partindo de tais premissas, verifica-se que as corrés não se desincumbiram do ônus de demonstrar excludentes de responsabilidade civil (culpa exclusiva da vítima) ou mesmo a inexistência de nexo causal entre a conduta e o resultado danoso.
+Isto porque, a juntada, em defesa (fls. 164/169), de cópia dos itinerários da linha de ônibus mencionada na Inicial (5154/10 Terminal Princesa Isabel Terminal Santo Amaro) vem ao encontro do quanto alegado pela autora na Inicial, bem assim em termo de declarações à Polícia.
+Neste aspecto, muito embora tenha constado do boletim de ocorrência de fls. 15 que o local dos fatos tenha se dado na "AVENIDA ARATÃS, esquina com AVENIDA IBIRAPUERA, MOEMA, houve minuciosa descrição dos fatos á Polícia às fls. 20 no sentido de que: "na data de 20/05/2015, estava com sua filha Fabiana Maria Goés Faccinni quando por volta das 13h00 subiram no coletivo linha Terminal Princesa Isabel, 5154, na Avenida Ibirapuera, esquina com a rua Aratãs".
+Neste aspecto, nota-se que do próprio itinerário acostado aos autos tanto pelo Consócio quanto pela empresa VIAÇÃO GATUSA, consta que o ônibus linha 5154/10 é operado pelas rés e passa pela Avenida Ibirapuera (fls. 164/169).
+Desta forma, razão assiste à autora ao afirmar demonstrada a existência de nexo causal entre a ação do funcionário das rés e o dano por ela sofrido.
+De outro lado, não houve demonstração de culpa exclusiva da vítima, na medida em que os ferimentos diagnosticados por laudo do IML (fls. 21/22) não guardam relação com os sintomas supostamente preexistentes em umas das pernas da autora (escurecimento e vermelhidão). Tanto que no atendimento médico havido no hospital Santa Catarina não houve tratamento neste sentido (membros inferiores) (fls. 23/35).
+Por fim, conforme constatado por laudos elaborados pelo IML (fls. 21/22), restou demonstrado o dano decorrente do acidente no interior do ônibus operado pelas corrés.
+Neste sentido, foi constatado pelos peritos, em 06.06.2015 e 19.06.2015, que: "(..) a vítima sofreu lesões corporais de natureza GRAVE, pela incapacidade para as atividades habituais por mais de 30 dias", consubstanciada em corte na região cefálica; fratura incompleta sem desvio do 9º arco costal à direita e lesão parcial m. gastrocnêmio medial esquerdo (fls. 22).
+Assim, diante dos elementos coligidos aos autos, tem-se que o abalo psicológico, bem assim os ferimentos sofridos pela autora extrapolaram o dissabor decorrente de um mero ilícito contratual, devendo ser indenizados, de acordo com o grau da lesão causada.
+Logo, embora não haja um critério objetivo previsto em lei para quantificar o dano moral, sua fixação deve se dar em quantia razoável e proporcional à desídia com que se houve o culpado, sua capacidade financeira, dentre outros critérios aceitos pelos tribunais:
+ ..
+Além disso, deve ser ponderada, visando inibir a repetição da conduta danosa, mas sem importar enriquecimento sem causa do lesado.
+Assim, levando-se em consideração as circunstâncias do caso, a indenização deve ser fixada em R$ 15.000,00, valor adequado aos fins colimados.
+A conclusão a que chegou o Colegiado local decorreu do exame dos elementos fático-probatórios dos autos, os quais não podem ser revistos por força da Súmula n. 7/STJ.
+Além disso, quanto ao valor da indenização por danos morais, a jurisprudência deste Tribunal Superior somente permite a alteração do valor arbitrado na origem em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a importância fixada. Isso porque a revisão dessa quantia demandaria nova análise das provas, o que, repito, é vedado em recurso especial, a teor do disposto na Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+ ..
+2. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais e estéticos pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, que não é o caso dos autos. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.150.200/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2022, DJe de 4/11/2022.)
+No caso dos autos, o Tribunal de origem fixou em R$ 15.000,00 (quinze mil reais) a indenização por danos morais decorrentes de acidente sofrido pela autora no transporte coletivo dos réus, quantia que não se mostra excessiva a justificar a reavaliação por esta Corte.
+No que importa aos juros de mora, não foi indicado o dispositivo violado quanto ao tema, sendo certo que não cabe recurso especial contra violação de súmula.
+A deficiência na fundamentação atrai a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+Conforme exposto, o dissídio jurisprudencial não foi devidamente demonstrado, uma vez que o agravante se limitou a transcrever ementas sem realizar o devido cotejo analítico com o acórdão recorrido. Além disso, os julgados do próprio Tribunal de origem não podem ser aceitos para fins de comprovação do dissenso de entendimentos. Acrescente-se ainda que as matérias tratadas cuidam, sobretudo, de questões de fato, de forma que, ainda que haja semelhança entre os casos apresentados, cada um apresenta suas próprias peculiaridades, não se podendo dizer que haja similitude fática entre eles. Aplicável, portanto, a Súmula n. 284/STF.
+O mesmo óbice sumular deve ser aplicado quanto à apontada violação dos arts. 371, 489 e 927 do CPC/2015, haja vista a ausência de argumentação que demonstre a ofensa alegada.
+Quanto ao suposto julgamento extra petita, realmente houve pedido direcionado ao agravante, de forma que não há falar na sua ocorrência.
+Ademais, não foi impugnado o fundamento de que o agravante não recorreu do reconhecimento de sua legitimidade para figurar no polo passivo da ação (e-STJ fl. 630/631). Incide, portanto, a Súmula n. 283/STF.
+No que diz respeito às demais questões - responsabilidade do recorrente e valor da indenização -, inafastável a Súmula n. 7/STJ.
+Com efeito, tendo a Corte local concluído pela responsabilidade do recorrente quanto aos danos sofridos pela agravada e afirmado que R$ 15.000,00 (quinze mil reais) era o montante ideal para a respectiva indenização, entender de outro modo demandaria reexame do conjunto fático-probatório, o que é inviável no âmbito do especial.
+Ademais, a jurisprudência do STJ somente permite a alteração do valor arbitrado na origem em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante, o que não se observa. Isso porque sua revisão demandaria nova análise das provas, o que, repito, é vedado em recurso especial.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
