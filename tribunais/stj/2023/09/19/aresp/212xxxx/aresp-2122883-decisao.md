@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDEMIR WIESENHUTTER (CLAUDEMIR) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CLAUDEMIR alegou a violação dos arts. 489, II, § 1º, IV, 783, 1.013, § 1º, e 1.022, II, do CPC, ao sustentar (1) omissão do acórdão recorrido acerca da inexigibilidade do título, pela não juntada do croqui que faria parte integrante do contrato firmado entre as partes, o qual possibilitaria a identificação da exata extensão da área negociada; (2) a inexigibilidade do título, por aplicação da regra da exceção do contrato não cumprido, tendo em vista que mais de 1/4 da área total do imóvel não poderia ser edificada, por estar vinculada ao Departamento de Estrada e Rodagens (DER), condição restritiva que só poderia ter sido identificada com a juntada pelos vendedores, ora recorridos, do croqui a que aludiu o próprio contrato, cuja ausência não poderia ser suprida por prova testemunhal.
+Trata-se de embargos do devedor opostos pelo ora insurgente, nos autos da ação de execução de título extrajudicial (contrato de compra e venda de lote urbano) ajuizada por WALDIR LAURO DIEL e ILA MARIA RIGO DIEL (WALDIR e outra), que foram julgados improcedentes em primeira instância, tendo sido a sentença mantida pelo Tribunal de Justiça do Paraná.
+(1) Da violação dos arts. 489, II, § 1º, IV, e 1.022, II, do CPC
+Nas razões do recurso especial, CLAUDEMIR sustentou, preliminarmente, omissão do acórdão recorrido acerca da inexigibilidade do título extrajudicial, pela não juntada do croqui aludido no contrato firmado entre as partes, o qual possibilitaria identificar a exata extensão da área negociada.
+Sem razão, contudo.
+Sobre o tema, ao julgar o recurso de apelação interposto pelo ora recorrente, o TJPR assim se pronunciou:
+Cinge-se a controvérsia em saber se o contrato executado preenche os requisitos legais e se o embargante tinha conhecimento da existência da restrição legal do DER (Departamento de Estradas e Rodagem) que recai sobre o imóvel.
+As partes celebraram contrato de compra e venda de imóvel, conforme cláusula abaixo:
+ ..
+Primeiro, alega o embargante a ausência de título hábil, pois não juntado o croqui que faria parte integrante do contrato executado, concluindo-se, portanto, que o título levado à execução é incompleto. Aponta que o exequente não comprovou, no momento do ajuizamento da ação, que cumpriu com o preconizado nas cláusulas segunda e terceira do contrato, tampouco que formulou proposta de desmembramento da área junto ao Município de Assis Chateubriand, como condição prévia da outorga da escritura da área e da exigibilidade da última parcela.
+Sem razão, contudo.
+Isso porque, da prova testemunhal dos autos, observa-se que o croqui foi entregue ao embargante e que tinha ciência da restrição existente sobre o imóvel.
+A testemunha Pedro Norberto Lotte (mov. 101.4), corretor que participou da negociação do imóvel entre as partes, afirmou que acompanhou o embargante para conhecer o imóvel, bem como que levou um mapa para verificar o imóvel. Salientou que o mapa é o croqui do mov. 38.11. Afirmou também que o embargante tinha conhecimento da restrição do DER sobre o imóvel.
+Por sua vez, a testemunha Clodoaldo Melchior (mov. 101.5), engenheiro que fez o projeto de desmembramento do imóvel, afirmou que elaborou o croqui de mov. 38.11. A testemunha também afirmou que a área com restrição pode ser utilizada, porém o DER recomenda que não construa na área com restrição, pois as construções não são indenizáveis, somente cabendo indenização sobre o solo.
+Assim sendo, pela prova testemunhal do engenheiro civil que elaborou o projeto de desmembramento e do corretor que participou da negociação do imóvel, percebe-se que o croqui fez parte integrante do contrato de compra e venda e que foi realizado o projeto de desmembramento do bem. Portanto, o título é passível de execução, não tendo cabimento a alegação do embargante, pela nulidade da execução (e-STJ, fls. 489/491).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do NCPC, o que busca CLAUDEMIR é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada ofensa à lei processual.
+(2) Da inexigibilidade do título
+Por sua vez, CLAUDEMIR apontou a inexigibilidade do título, por aplicação da regra da exceção do contrato não cumprido, tendo em vista que mais de 1/4 da área total do imóvel não poderia ser edificada, por estar vinculada ao Departamento de Estrada e Rodagens (DER), condição restritiva que só poderia ter sido identificada com a juntada pelos vendedores, ora recorridos, do croqui a que aludiu o próprio contrato, cuja ausência não poderia ser suprida por prova testemunhal.
+Todavia, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que, ante a singularidade do caso, a revisão da conclusão do acórdão recorrido, com o consequente acolhimento da pretensão recursal, não prescindiria da interpretação das disposições do contrato firmado entre as partes, bem como da análise dos elementos de prova dos autos, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 1 % o valor dos honorários advocatícios anteriormente fixados em favor de WALDIR e outra, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA DE TERRENO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE INEXIGIBILIDADE DO TÍTULO. QUESTÃO SOLUCIONADA COM BASE NA INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO E NA ANÁLISE DOS FATOS DA CAUSA. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
