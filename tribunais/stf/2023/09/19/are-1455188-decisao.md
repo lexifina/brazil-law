@@ -1,0 +1,25 @@
+DECISÃO:
+
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+
+    APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. LIMITAÇÃO ADMINISTRATIVA AMBIENTAL. MORRO DO MORENO. LICENÇA IMPOSSIBILIDADE DE EXPEDIÇÃO DE PARA CONSTRUIR. ESGOTAMENTO ECONOMICO NÃO VISLUMBRADO. RECURSO CONHECIDO E DESPROVIDO. 1. A superveniência do seus de Decreto próprios licenças Municipal no 237/2011, que, segundo termos, apenas suspendeu a emissão até a conclusão de estudo limitação de diagnóstico ambiental, encerrou mera administrativa, entendida tal modalidade de intervenção administrativa como imposição geral condicionadora do exercício de direitos, marcada, na espécie, pelo viés do da bem transitoriedade. Manteve-se a titularidade imóvel, mas restringiu-se seu uso, gozo e fruição livres, já que afetado o caráter absoluto do direito de propriedade, panorama que não confere ao cidadão ipso facto a possibilidade de ser indenizado. 2. Recaiu sobre o imóvel limitação provisória, o que vai ao encontro da conclusão primeva no sentido de que não houve esvaziamento econômico do bem, não se podendo atribuir ao ato normativo afetação de abrangência superior àquela efetivamente verificada. 3. Nos regimes jurídicos contemporâneos, os Imóveis - rurais ou urbanos - transportam finalidades múltiplas (privadas e públicas, inclusive ecológicas), o que faz com que sua utilidade econômica não se esgote em um único uso, no melhor uso e, muito menos, no mais lucrativo uso. A ordem constitucional-legal brasileira não garante ao proprietário e ao empresário o máximo retorno financeiro possível dos bens privados e das atividades exercidas. Exigências de sustentabilidade ecológica na ocupação e utilização de bens econômicos privados não evidenciam apossamento, esvaziamento ou injustificada intervenção pública (STJ, REsp 1109778/SC, publicado em 04/05/2011). 4. Da prova pericial produzida consta inferência declinada pelo expert sobre esgotamento econômico ao responder sobre a existência de obstáculo à edificação outro afora a legislação local, apontando "matéria publicada em mídia eletrônica" que abordaria riscos geológicos da área. Disso somente se conclui não haver efetiva comprovação nos autos da tese autoral, seja porque a legislação invocada não operou supressão de direitos afetos ao bem imóvel, bem como porque matéria jornalística sobre tema de ordem técnica - científica não configura argumento de que pode lançar mão engenheiro civil nomeado como auxiliar da justiça, nos termos do artigo 149 do CPC. 5. Recurso conhecido e desprovido.
+
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXII, XXIII e XXIV, e 182, §§ 2º e 3º, da Constituição.
+
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 280/STF.
+
+    O recurso não deve ser admitido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o reexame dos fatos e do material probatório constante dos autos, bem como a análise da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. Nesse sentido, cito o seguinte precedente:
+
+     AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PARQUE ESTADUAL SERRA DO MAR. INDENIZAÇÃO. ARTIGO 5º, XXII E XXIV, DA CONSTITUIÇÃO FEDERAL. OCORRÊNCIA DE PREJUÍZO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. As restrições ao direito de propriedade impostas pelo Poder Público, em virtude de criação de reservas florestais, não exonera o Estado de indenizar o proprietário do imóvel (RE n. 134.297, Relator o Ministro Celso de Mello, 1ª Turma, DJ de 22.09.05) 2. Essa orientação não se aplica ao caso sub judice, porquanto entendimento diverso do adotado pelo Tribunal a quo como deseja o recorrente quanto ao alegado esvaziamento do conteúdo econômico da propriedade a ensejar a referida indenização, implicaria a análise da legislação infraconstitucional que disciplina a espécie (Decreto n. 10.251/77 e 4.771/65), bem como o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, que interdita a esta Corte, em sede de recurso extraordinário, sindicar matéria fática. (Precedentes) […].
+
+    (RE 677.582 AgR, Rel. Min. Luiz Fux)
+
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+
+    Publique-se.
+
+          Brasília, 19 de setembro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
