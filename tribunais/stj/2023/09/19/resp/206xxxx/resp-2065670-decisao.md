@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ALBERTO AUGUSTO DE OLIVEIRA contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República na Apelação Criminal n. 0010331-97.2006.8.26.0562.
+Consta dos autos que o Juízo de primeiro grau, com esteio nos incisos II e VII do art. 386 do Código de Processo Penal, absolveu o Agravante quanto ao art. 158, § 1.º, ao art. 299, c.c. o art. 297 e ao 339, todos do Código Penal (fls. 2177-2200).
+Irresignadas, Defesa e Acusação interpuseram as respectivas apelações. A Corte de origem negou provimento ao apelo defensivo e proveu o recurso do Parquet para condenar o Agravante às seguintes penas em regime inicial fechado e concurso material (fls. 2465-2510):
+a) Art. 157, § 1.º, do Código Penal - 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão e pagamento de 14 (quatorze) dias-multa.
+b) Art. 299, parágrafo único, do Código - 1 (um) ano e 2 (dois) meses de reclusão e pagamento de 11 (onze) dias-multa.
+Foi, ainda, decretada a perda do cargo público, nos termos do art. 92, inciso I, alíneas a e b, do Estatuto Repressor (fls. 2506-2507).
+Os embargos de declaração opostos foram parcialmente acolhidos para declarar extinta a punibilidade do Réu pela prescrição da pretensão punitiva no tocante ao delito previsto no art. 299 do Código Penal, com fulcro nos arts. 107, inciso IV, 109, inciso V, e 110, § 1.º, do mesmo Diploma Legal (fls. 2553-2564).
+Sustenta a Defesa, nas razões do apelo nobre (fls. 2643-2651), além da existência de dissídio pretoriano, contrariedade aos arts. 33, § 2.º, 59, 158 e 316 do Código Penal.
+Aduz que, ausente a elementar do tipo de extorsão relativa ao cometimento do crime com violência ou grave ameaça, é de rigor a desclassificação da conduta para a de concussão.
+Alega que o regime inicial fechado foi estabelecido sem amparo em fundamentação concreta.
+Foram apresentadas contrarrazões (fls. 2687-2692). O recurso especial não foi admitido (fls. 2704-2705). Foi interposto agravo (fls. 2733-2743).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 2817-2831).
+É o relatório.
+Decido.
+No caso, conforme foi consignado na decisão que não admitiu o apelo nobre na origem, houve a publicação do acórdão proferido quando do julgamento dos embargos de declaração em 25/01/2022 (fl. 2565), mas o recurso especial foi interposto apenas em 10/02/2022 (fl. 2643), sendo manifestamente intempestivo, eis que fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+Por outro lado, na hipótese, no momento da interposição do recurso especial, não foi comprovada, por meio da juntada de documento idôneo, a suspensão do expediente forense na Corte a quo, não sendo possível a sua demonstração posterior.
+Nesse sentido:
+" ..
+1. É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c 1.003, § 5º, e 1.042, todos do CPC, e do art. 798 do CPP.
+2. É dever do recorrente, no ato da interposição do recurso, comprovar a tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive a ocorrência de feriados locais e suspensão do expediente forense, sendo incabível a comprovação posterior.
+3. Ainda que protocolizada no prazo legal, por equívoco, a petição de recurso especial em formato físico, é necessária a interposição eletrônica tempestiva do recurso, o que não ocorreu no caso dos autos (AgInt no AREsp 1467678/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/09/2019, DJe 10/09/2019).
+4. Agravo regimental improvido." (AgRg no AREsp 1.578.861/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020.)
+A jurisprudência desta Corte é firme no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+O entendimento do Superior Tribunal de Justiça está fixado no sentido de que, "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+Como afirmado no decisum ora agravado, em consonância com o regramento do art. 798, caput e § 3.º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão" (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE FORENSE. MOMENTO DE COMPROVAÇÃO: ATO DE INTERPOSIÇÃO DO RECURSO. APRESENTAÇÃO DOS APELOS NOBRES APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
