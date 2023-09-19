@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo, manejado pelo Município de São Paulo, contra decisão da Presidência do Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial ante os seguintes fundamentos: "o posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior, mesmo porque rever a posição da Turma Julgadora quanto ao acerto ou não da base de cálculo do imposto, importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça" (fl. 172).
+A agravante, em síntese, reitera os fundamentos do recurso especial e afirma que "resta manifestamente demonstrado a violação dos itens 10.04 e 17.22, da LC 116, bem como do art. 7º da mesma norma, ou seja, à norma federal hábil à municiar a interposição de recurso especial, sem qualquer necessidade de valoração fática ou probatória" (fl. 184).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (fls. 201/206).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a apontada incidência da Súmula 7/STJ ao caso dos autos. Com efeito, apesar de fazer genérica menção ao referido verbete sumular, a parte agravante não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto, limitando-se a afirmar que "resta manifestamente demonstrado a violação dos itens 10.04 e 17.22, da LC 116, bem como do art. 7º da mesma norma, ou seja, à norma federal hábil à municiar a interposição d e recurso especial, sem qualquer necessidade de valoração fática ou probatória" (fl. 184) e reiterar os fundamentos do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
