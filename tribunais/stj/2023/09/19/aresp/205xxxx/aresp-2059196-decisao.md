@@ -1,0 +1,17 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fl. 523):
+Trata-se agravo interposto por CHARLES ISAAC DE SOUZA contra a decisão não conheceu do Recurso Especial, ante o óbice das Súmulas nº 7 e 83 deste Superior Tribunal de Justiça (e-STJ, fls. 356/368).
+O agravante alega que essa decisão é equivocada e reitera as razões do recurso especial, que apontam contrariedade: a) aos arts. 240 e seguintes e 157 do CPP, em razão de suposta violação de domicílio devido ao ingresso de policiais na residência do recorrente sem mandado de busca e apreensão por ocasião do flagrante); b) aos arts. 386, inciso VII. do CPP e 33 e 35 da Lei 11.343/06, defendendo a inexistência de provas da prática dos crimes de tráfico e associação ao tráfico; e c) aos arts. 59 e 68 do Código Penal, sustentando ter ocorrido aumento excessivo na primeira fase da dosimetria da pena.
+Inicialmente, o agravo em recurso especial não foi conhecido (e-STJ, fls. 500/501), porém, diante da oposição de embargos de declaração, houve retratação da decisão e foi determinada a distribuição do agravo (e-STJ. fls. 512/513). Em seguida, vieram os autos á Procuradoria-Geral da República para parecer.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 523/531).
+É o relatório.
+Decido.
+Com razão o representante ministerial, cujas razões passo a colacionar e adoto como motivação da decisão, porquanto flagrante a ilegalidade da invasão forçada do domicílio, lastreada tão somente em denúncia anônima e em suposta autorização dada pela esposa do réu, não comprovada na fase judicial.
+Vejamos (e-STJ fls. 525/526):
+De fato, conforme é possível verificar dos autos, a busca e apreensão foi realizada sem mandado judicial, baseada em denúncia anônima, repassada aos policiais responsáveis pelo flagrante pela sala de operações da polícia militar do Rio de Janeiro, que não estava acompanhada de elementos mínimos de provas, nem foi precedida de uma investigação, não se evidenciando nenhuma das hipóteses previstas no art. 302 do CPP.
+Com efeito, a autoridade policial que entra em casa alheia e faz busca e apreensão baseando-se apenas em denúncia anônima, não havendo outros indícios veementes de prática criminosa em curso, age ilegalmente e produz assim prova ilegal, podendo, inclusive, cometer crime de violação de domicilio (CP. art. 150). no caso de dolo.
+E bem verdade que esse Superior Tribunal de Justiça entende que é legal a busca e apreensão sem mandado em caso de flagrante delito de crime permanente (tráfico de drogas), isto é, crime cuja consumação se protrai no tempo enquanto persiste a violação ao bem jurídico por decisão do autor.
+No entanto, para que isso ocorra é necessário que haja justa causa para a busca e apreensão, baseada em elementos concretos que apontassem a existência de flagrante delito, o que não ocorreu no caso dos autos, tendo em vista que o ingresso policial baseou-se apenas em informações anônimas.
+Por tais motivos, temos que a busca e apreensão é ilegal, razão pela qual deve ser conferido provimento ao recurso ou deferido habeas corpus de oficio para anular a condenação.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para, acolhido o parecer ministerial e reconhecida a ilegalidade da invasão de domicílio e das eventuais provas daí decorrentes, cassar os julgamentos prolatados pelas instâncias de origem e determinar o retorno dos autos à primeira instância para que profira novo julgamento, como entender de direito.
+EMENTA
