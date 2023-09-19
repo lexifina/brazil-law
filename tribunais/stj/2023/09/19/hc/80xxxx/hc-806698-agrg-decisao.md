@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu o habeas corpus "para anular as provas obtidas mediante revista pessoal realizada pelos guardas municipais, bem como as provas delas decorrentes e, por conseguinte, determinar a absolvição do paciente" (fls. 450-453).
+Sustenta o agravante que o habeas corpus sequer deveria ser conhecido, tendo em vista a superveniência de sentença condenatória e de julgamento da apelação.
+Requer o provimento do recurso para julgar prejudicado o mandamus.
+De uma análise mais detida dos autos, tenho que a decisão agravada merece ser reconsiderada.
+No caso, contra a sentença condenatória, proferida em 18/1/2023, a defesa do réu, concomitantemente, interpôs recurso de apelação e impetrou o habeas corpus, objeto do acórdão de fls. 34-38, que foi denegado pela Corte de origem. Após a impetração do presente mandamus, sobreveio, em 3/5/2023, o julgamento da apelação, que restou improvida, após análise exauriente de fatos e provas.
+Ocorre que, "pendente o julgamento do recurso de apelação defensivo perante o Tribunal de origem, fica esta Corte impedida de analisar o mérito da impetração, sob pena de indevida supressão de instância" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022.) Confira-se ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO PASSIVA. CONDENAÇÃO À PERDA DO CARGO PÚBLICO. INADEQUAÇÃO DA VIA ELEITA. RECURSO DE APELAÇÃO PENDENTE DE JULGAMENTO PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O Tribunal de origem consignou que "a oportunidade para análise ampla e aprofundada pelo douto Colegiado se avizinha, pois o Paciente já interpôs o recurso de apelação, tornando ainda mais descabida a antecipação do julgamento na estreita via do habeas corpus. Assim, por não se aferir ilegalidade de plano que determine sua concessão, a solução que melhor se afigura é a denegação da ordem".
+3. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual  ..  é indevida a subversão do sistema recursal e a avaliação, enquanto não exaurida a prestação jurisdicional pela instância de origem, de tese defensiva na via estreita do habeas corpus" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020, grifei).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 787.278/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+"O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. Nessa linha, a Terceira Seção desta Corte, inclusive, já fixou posicionamento de que não é cabível habeas corpus que possua o mesmo objeto de apelação pendente de julgamento, como no caso" (AgRg no HC n. 789.519/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, reconsidero a decisão de fls. 450-453 para não conhecer do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
