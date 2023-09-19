@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MAYKO LUCAS DE JESUS contra cisão monocrática da lavra da MINISTRA PRESIDENTE desta Corte, que não conheceu do agravo pela ausência de impugnação dos fundamentos da decisão denegatória de admissibilidade (Súmula 182/STJ).
+A Defensoria alega que houve o necessário enfrentamento de todo o conteúdo do despacho denegatório, especificamente a Súmula 7 do STJ.
+É o relatório. Decido.
+Compulsando-se os autos, verifica-se que procede a argumentação trazida no agravo regimental. Passa-se, então, ao reexame do recurso especial.
+Extrai-se dos autos que o recorrente foi condenado à pena de 6 anos de reclusão, em regime semiaberto, pelo cometimento do crime do art. 157, § 2º, II e V, do CP.
+A defesa aponta a violação do art. 226 do CPP alegando que a autoria delitiva não ficou comprovada, tendo em conta a não observância das formalidades legais para o reconhecimento pessoal.
+Sem razão, porquanto a autoria delitiva não está fundamentada apenas no reconhecimento pessoal que, importante frisar, é rico em detalhes, mas, também no fato de no momento da prisão estarem as chaves do veículo subtraído na posse do recorrente.
+Comprovada, portanto, a participação do recorrente na empreitada criminosa não há como afastar a condenação. Nessa linha, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ROUBO MAJORADO. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. PRETENSO RECONHECIMENTO PESSOAL EM DESCONFORMIDADE COM O PREVISTO NO ART. 226 DO CPP. CONDENAÇÃO ALICERÇADA EM OUTRAS PROVAS. PLEITO PELA DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. Não há falar em nulidade em razão da inobservância do disposto no art. 226 do CPP, pois a Corte de origem não fundamentou a condenação do Agravante exclusivamente no reconhecimento pessoal efetuado pela Vítima, mas também no estado flagrancial decorrente do encontro do Réu, poucas horas depois do crime, na posse da motocicleta objeto do roubo majorado.
+3. A Corte de origem concluiu que foi devidamente comprovada a prática do roubo majorado, afastando a tese de desclassificação para receptação culposa. A inversão do julgado atrai a incidência da Súmula n. 7/STJ.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.063.409/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/4/2022)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. INDÍCIOS DE AUTORIA E MATERIALIDADE. RECONHECIMENTO FOTOGRÁFICO. FORMALIDADES DO ART. 226 DO CPP. OCORRÊNCIA. OUTROS ELEMENTOS DE PROVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em julgados recentes, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2021, DJe 3/5/2021).
+2. Por outro lado, a jurisprudência desta Corte também entende que, "para a decretação da prisão preventiva não se exige prova concludente da materialidade ou da autoria delitivas, reservada à condenação criminal, mas apenas indícios suficientes desta última e comprovação da existência do crime  .. " (HC n. 362.042/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2016, DJe de 20/9/2016).
+3. No caso dos autos, dos elementos probatórios que instruem o feito, a suposta autoria delitiva não tem, como único elemento de prova, o reconhecimento fotográfico, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial.
+4. O tribunal de origem consignou que houve o respeito ao procedimento do art. 226 do CPP, bem como a autoria e materialidade delitiva foram confirmadas por meio de provas colhidas na fase inquisitória e no juízo criminal, corroboradas com provas testemunhais.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 2.181.843/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/2/2023)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 281/282 e conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
