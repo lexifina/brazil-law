@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. REFORMA DA DECISÃO QUE ANTECIPA OS EFEITOS DA TUTELA. NECESSIDADE DE RESSARCIMENTO DOS VALORES PERCEBIDOS. TEMA STJ 692. DESCONTO DOS VALORES PERCEBIDOS INDEVIDAMENTE. IMPOSSIBILIDADE DE REDUÇÃO DO BENEFÍCIO A VALOR INFERIOR AO SALÁRIO MÍNIMO.
+1. Estando os fundamentos do voto condutor do acórdão em desconformidade com o entendimento firmado pelas Cortes Superiores, atribui- se ao órgão julgador a possibilidade de realizar juízo de retratação.
+2. No julgamento do Tema 692 o STJ reafirmou o entendimento no sentido de que "a reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago."
+3. O desconto das quantias percebidas indevidamente pelo segurado, a ser efetuado nos rendimentos mensais de eventual benefício que lhe estiver sendo pago, não poderá reduzir o valor remanescente ao beneficiário para montante inferior ao valor do salário mínimo, em atendimento ao princípio da dignidade da pessoa humana, materializado pela garantia insculpida no art. 201, § 2º da Constituição Federal.
+O INSS alega violação do art. 927, III, do CPC/2015, por não observar a tese firmada no Tema 692/STJ, e do art. 115, II, da Lei 8.213/1991.
+Contrarrazões às fls. 360-363, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de julho de 2023.
+O Tribunal de origem, ao analisar a limitação dos descontos, assim se manifestou (fls. 318-323, e-STJ, grifei):
+Com efeito, a solução adotada pela Turma diverge daquela fixada pelo STJ no julgamento da Pet 12.482/DF, em que foi reafirmada a tese anteriormente firmada no julgamento do REsp 1.401.560/MT (Tema 692), nos seguintes termos:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago."
+No caso, tendo sido reformada a decisão antecipatória, impõe-se dar aplicabilidade ao precedente citado, podendo a autarquia, na hipótese de a parte autora remanescer na titularidade de benefício previdenciário ou assistencial, promover o desconto das importâncias devidas, até o limite de 30% do valor mensal que continuar a ser pago ao segurado.
+Importa referir, contudo, que a jurisprudência desta Sexta Turma, em ações nas quais é reconhecido o dever dos segurados de indenizarem a Previdência Social por valores de benefícios irregularmente percebidos, tem estabelecido que os descontos a serem efetuados nos rendimentos do benefício remanescente, caso o segurado permaneça na titularidade de algum benefício, não podem privá-lo do mínimo necessário à manutenção de sua sobrevivência, sendo essa importância parametrizada no valor do salário mínimo nacional pela Constituição Federal, que veda a percepção de benefício que substitua o salário de contribuição ou os rendimentos do trabalho em valor inferior ao salário mínimo (art. 201, § 2º).
+(..)
+Desse modo, são repetíveis as parcelas de benefícios previdenciários ou assistenciais recebidas em razão de decisão antecipatória posteriormente reformada, devendo, contudo, a autarquia, ao promover os descontos do montante devido sobre benefício que eventualmente seja titularizado pelo segurado, além de respeitar a limitação de até 30% sobre o valor mensal desse benefício, observar a necessidade de que o valor mensal remanescente ao segurado não seja inferior ao valor de um salário mínimo nacional.
+Verifica-se que o acórdão recorrido possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia se deu à luz do art. 201, § 2º, da Constituição Federal/1988. Por esse motivo, não cabe ao STJ examinar a questão, porquanto reverter o julgado significaria usurpar da competência do STF, conforme dispõe o art. 102, III, da Carta Magna.
+Ademais, ainda que se entenda que a matéria foi dirimida com base em fundamentos de índole constitucional e infraconstitucional, ambos suficientes para manter o julgado, considerando que não foi interposto Recurso Extraordinário contra o decisum impugnado, ocorreu o trânsito em julgado do fundamento constitucional, fazendo incidir, na hipótese, a Súmula 126 do STJ, o que inviabiliza a análise do Apelo Nobre.
+Ante o exposto, não conheço do Recurso Especial
+Publique-se.
+Intimem-se.
+EMENTA
