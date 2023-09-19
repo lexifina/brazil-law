@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação cível. Ação declaratória de inexigibilidade de débito. Desistência de migração de Ambiente de Contratação Regulada (ACR) para o denominado Ambiente de Contratação Livre ACL. Afastamento de multa contratual. Sentença de procedência. Inconformismo da ré.
+Imposição de multa por "cancelamento migração ACL".
+Impossibilidade, no caso concreto. Repercussões financeiras decorrentes da desistência de migração que depende de verificação objetiva de prejuízo para a concessionária do serviço. Não comprovação de nenhuma medida efetiva para a migração da autora para o Ambiente de Contratação Livre ACL. Requerente que pagou todas as faturas, incluindo o período em que houve tentativa de migração.
+Além disso, ainda que não houvesse a retratação do pedido, o serviço não teria sido implementado, por vedação imposta pelo próprio sistema da concessionária do serviço. Pretensão de cobrança que ensejaria enriquecimento sem causa, vedada pelo ordenamento jurídico.
+Sentença mantida. Recurso desprovido (fl. 204).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação dos arts. 421 e 422 do CC, no que concerne à necessidade de se reconhecer a legalidade da cobrança de multa em decorrência da desistência da parte recorrida em prosseguir com contrato celebrado, com fundamento nos princípios da boa-fé e da função social do contrato, sustentando que a referida penalidade estaria em consonância com a legislação de incidência específica ao setor elétrico. Aduz a seguinte argumentação:
+A recorrida propôs a presente ação, pretendendo que a concessionária fosse condenada a abster-se de cobrar multa decorrente da desistência em efetuar a migração para o Ambiente de Contratação Livre - ACL, correspondente ao valor de R$ 81.081,04 (oitenta e um mil e oitenta e um reais e quatro centavos).
+ ..
+O presente recurso não pretende o reexame de questão fática, mas visa a adequação da decisão colegiada aos princípios da boa-fé e da função social do contrato.
+Com efeito, a recorrida possuía, com a concessionária, contrato de prestação de serviços, em ambiente controlado, e manifestou, livremente, sua vontade de migrar para o Ambiente de Contratação Livre.
+Posteriormente, desistiu da migração.
+A cobrança realizada pela recorrente baseou-se no que dispunha a Resolução Normativa nº 376/2009, da ANEEL:
+ ..
+A relação jurídica existente entre as partes sempre foi regida por contrato, celebrado mediante a participação direta da usuária do serviço, ora recorrida, bem como em absoluta consonância à legislação de incidência específica ao setor elétrico.
+ ..
+Desse modo, ao contrário de assegurar a observância dos arts. 421 e 422 do Código Civil, a decisão proferida pelo Tribunal de Justiça de São Paulo nega-lhes vigência, uma vez que foi a recorrida quem deu causa à rescisão e procurou, por meio da presente demanda, afastar sua responsabilidade pelos ônus decorrentes da escolha de desistir da migração.
+Por sua vez, o afastamento da obrigatoriedade do negócio, como o celebrado entre a concessionária e a recorrida, pode ensejar insegurança jurídica e afetar a utilização de tal meio de contratação do serviço de energia elétrica.
+ ..
+No caso, a desistência da migração por iniciativa da recorrida e a previsão expressa, em resolução emitida pela ANEEL, da cobrança efetuada pela concessionária demonstram que não incide o óbice da Súmula 7.
+ ..
+Em caso semelhante ao dos presentes autos, o Tribunal de Justiça do Estado do Rio Grande do Sul, incorporando, ao acórdão, a decisão de primeira instância, reconheceu a legalidade da cobrança para ressarcimento das repercussões financeiras, decorrentes de fato imputável ao usuário, e não à concessionária (fls. 220- 222).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no REsp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+Ademais, o acórdão recorrido assim decidiu:
+Ao disciplinar tal modalidade de migração de serviços, as Resoluções nºs 247/06 e 376/09 da ANEEL assim dispõem:
+ ..
+Da leitura dos referidos dispositivos, verifica-se que a cobrança das designadas "repercussões financeiras incorridas" não representa sanção administrativa, nem muito menos é tarifada pela agência reguladora.
+Cuida-se, sim, de verba indenizatória pelos presumíveis danos oriundos da demora na conclusão do procedimento de migração de sistemas de fornecimento de energia elétrica, em virtude da necessidade de a concessionária dos serviços se ver compelida a continuar destinando a determinada unidade consumidora serviços que, em princípio, não lhe seriam prestados no período posterior à data programada para a efetivação da migração.
+Em assim sendo e como se depreende do teor da norma, em especial da estabelecida no art. 8º, §3º, da Resolução ANEEL 247/06, acima transcrita, é de rigor que se demonstre a "verificação objetiva de prejuízo para a concessionária ou permissionária de distribuição", notadamente se o usuário dos serviços questiona o que lhe é cobrado a tal título.
+Anoto, por oportuno, que embora a legislação em estudo estabeleça que eventuais "repercussões financeiras" advindas da migração serão suportadas pelo consumidor, não se vislumbra hipótese expressa de retratação na aludida norma, de modo que a interpretação do regramento ao caso e sua aplicabilidade deve se dar de forma restritiva.
+Na situação em exame, vale destacar que: i) mesmo que não houvesse a retratação do serviço, este não teria sido implementado.
+ ..
+ii) A ré não demonstrou ter sofrido qualquer prejuízo, sendo bem observado no julgado que "a ré não comprovou a adoção de nenhuma medida efetiva para a migração da autora para o Ambiente de Contratação Livre ACL, que pudesse ser caracterizada como prejuízo, ônus este que lhe incumbia (CPC, artigo 373, II)".
+Assim, diante de tais circunstâncias, de fato, não parece razoável carrear à autora os encargos lançados.
+A cobrança imposta, se admitida, implicaria em clara violação aos princípios da boa fé e bilateralidade contratual, além de propiciar o enriquecimento sem causa, vedado pelo ordenamento (fls. 207- 211, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
