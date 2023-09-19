@@ -1,0 +1,15 @@
+DECISÃO
+Neste recurso, que se volta contra acórdão denegatório proferido pela Sexta Câmara Criminal do Tribunal de Justiça de Minas Gerais (HC n. 1.0000.23.121523 - fls. 475/483), pretende-se, inclusive em sede de liminar, a imediata substituição da prisão preventiva por domiciliar (art. 318-A do Código de Processo Penal) de Dominique Machado Freitas no Processo n. 5002349-37, da 1ª Vara Cível, Criminal e da Infância e da Juventude da comarca de Carangola/MG - presa preventivamente desde 25/5/2023 e acusada pela prática dos crimes descritos no art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/2006 (fls. 21/27 e 172/188) -, podendo, ainda, ser acrescentadas medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, aos argumentos, em suma: (i) de fundamentação insuficiente, uma vez que a decisão que decretou a preventiva e a denegação do Habeas Corpus são frágeis quanto a fundamentação e DESPREZAM COMPLETAMENTE a decisão tomada pelo STF no julgamento do Habeas Corpus Coletivo n. 143.641 (fl. 496 - grifo nosso); (ii) de desproporcionalidade e desnecessidade da referida segregação, porquanto não há emprego de violência, tampouco ameaça no cometimento do delito; a recorrente é primária, de bons antecedentes, tem endereço fixo e ocupação fixa e idônea (fl. 495).
+Por prevenção do HC n. 826.712/MG, estes autos foram a mim distribuídos.
+Liminar indeferida (fls. 507/510).
+Prestadas as informações (fls. 513 e 518/519), o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 524):
+RHC. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. SIGNIFICATIVA QUANTIDADE DE SUBSTÂNCIAS ILÍCITAS APREEN DIDAS. PLEITO DE PRISÃO DOMICILIAR. REJEIÇÃO. FUNDAMENTAÇÃO IDÔNEA DO ARESTO ORA GUERREADO.DELITOS PERPETRADOS DENTRO DA RESIDÊNCIA DA RECORRENTE. PRECEDENTES DO STJ.
+PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Documentação acostada às fls. 534/564.
+É o relatório.
+De acordo com a documentação acostada ao presente recurso (fls. 534/564), o Juízo de Direito da 1ª Vara Cível , Criminal e da Infância e da Juventude da comarca de Carangola/MG proferiu sentença condenatória em desfavor da ora recorrente, tendo, na oportunidade, revogado a prisão preventiva, concedendo-lhe o direito de recorrer em liberdade, com expedição do alvará de soltura na data de 6/9/2023 (n. 0003070-74.2023.8.13.0133.05.0002-27), fato que esgota a pretensão contida na presente interposição recursal, dada a superveniente alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o recurso. Julgo-o, pois, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. PLEITO DE PRISÃO DOMICILIAR (ART. 318-A DO CPP). SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FACULTADO O RECURSO EM LIBERDADE. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recurso prejudicado.
