@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DANIEL ALVES DA COSTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação 0000654-14.2018.8.08.0048).
+O paciente foi condenado à pena de 5 anos de reclusão em regime semiaberto, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+O Tribunal de origem negou provimento à apelação interposta pela defesa.
+A impetrante alega: a) "não há nos autos elementos concretos de que o paciente se dedica a atividade criminosa ou integre organização criminosa, não se podendo afastar a minorante por presunção em virtude da quantidade e natureza da droga" (e-STJ fl. 8); b) "a aplicação da causa de diminuição de pena pelo tráfico privilegiado, prevista na Lei de Drogas (Lei 11.343/2006), não pode ser afastada com fundamento em investigações ou processos criminais em andamento" (e-STJ fl. 9); e c) "o paciente está sendo submetido a uma ilegalidade manifesta, vez que preenche todos os requisitos previstos em lei para que pudesse ser beneficiado com a redução de pena prevista no § 4º do art. 33 da Lei 11.343/06" (e-STJ fl. 14).
+Requer deferimento da ordem para aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006.
+Liminar indeferida (e-STJ fls. 55-56).
+Informações prestadas (e-STJ fls. 60-62 e 63-69).
+Parecer do Ministério Público Federal pelo indeferimento da ordem (e-STJ fls. 73-78).
+É o relatório.
+A Corte de origem assim se manifestou sobre a controvérsia (e-STJ fls. 47-48):
+No que tange a causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/06, observo que a quantidade de drogas apreendidas (93 pedras de crack), bem como pelo fato do apelante ser conhecido como responsável pela distribuição de drogas nos pontos de venda demonstram a impossibilidade da diminuição de pena.
+ ..
+Ademais, o apelante responde por outro processo em razão de porte de arma de fogo, o que segundo a jurisprudência majoritária impede a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei. 11.343/06.
+Portanto, a decisão se mostra muito bem lançada, no tocante à aplicação da pena, pois, a sanção serve para demonstrar a reprovação ao crime e prevenir o mesmo.
+ ..
+Desse modo, por não haver motivos para modificar a sentença, mantenho inalterada a condenação.
+A pretendida minorante está prevista no art. 33, § 4º, da Lei 11.343/2006, em que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+O Tribunal destacou a quantidade de entorpecentes apreendida - 93 pedras de crack (e-STJ fl. 47).
+Ainda que se desconsidere o fato de o paciente ostentar ação penal em andamento, pois a jurisprudência desta Corte orienta que a existência de ações penais sem trânsito em julgado não pode justificar a negativa da minorante, consignou, em acréscimo, que o paciente é "conhecido como responsável pela distribuição de drogas nos pontos de venda" (e-STJ fl. 47).
+Concluiu que esses elementos "demonstram a impossibilidade da diminuição de pena" (e-STJ fl. 47).
+As premissas para negativa de aplicação da minorante estão, portanto, em consonância com a jurisprudência desta Corte, v.g.:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. IMPOSSIBILIDADE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA, ALIADAS ÀS CIRCUNSTÂNCIAS INDICATIVAS DE DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REVISÃO DE ENTENDIMENTO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão da quantidade e natureza da droga apreendida, aliadas às demais circunstâncias do caso concreto (valor da carga, transporte interestadual, concurso de agentes, etc.) indicativas de que o acusado se dedicava à atividade criminosa, pois o transporte da droga foi previamente calculado com estratégias para ajudar na execução do intento criminoso.
+2. A reforma do entendimento firmado pela instância ordinária, para afastar o entendimento de que o recorrente se dedicava às atividades criminosas e, assim, aplicar a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada na via eleita.
+3. Agravo regimental desprovido.
+(AgRg no HC 720.526/SP, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/04/2022, DJe de 03/05/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. No caso, a instância ordinária - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, no seio dos objetivos de uma organização criminosa.
+3. Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+4. No caso, a Corte de origem manteve a imposição do regime inicial fechado, com base, justamente, nas peculiaridades do caso analisado, motivo pelo qual não há falar em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+5. Agravo regimental não provido.
+(AgRg no HC 750.991/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022).
+Desconstituir a conclusão a que chegou a instância ordinária quanto à dedicação da agente a atividades ilícitas e participação em organização criminosa demandaria amplo revolvimento de questões fático-probatórias, inadmissível no habeas corpus:
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. CIRCUNSTÂNCIAS DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. No caso, a causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, foi afastada não somente com base na quantidade expressiva de drogas, mas também pelas circunstâncias específicas do caso, tendo sido declinados elementos idôneos e concretos indicadores de envolvimento habitual com o esquema criminoso. Na hipótese, foi salientado o modus operandi da ação criminosa, consubstanciado no fato de o agravante ter contratado o corréu para "preparar" o veículo para o transporte dos entorpecentes para outro Estado da federação, denotando a sua dedicação à atividade criminosa.
+3. Não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+4. Não é cabível a substituição da pena privativa de liberdade por penas restritivas de direitos, em razão do não preenchimento dos requisitos previstos nos incisos I e III do art. 44 do Código Penal.
+5. Agravo regimental desprovido.
+(AgRg no HC 752.300/MS, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 09/08/2022, DJe de 18/08/2022).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno deste Superior Tribunal, indefiro a ordem.
+Publique-se. Intimem-se.
+EMENTA
