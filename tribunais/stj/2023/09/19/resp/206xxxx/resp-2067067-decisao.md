@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão assim ementado:
+PENAL - TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO PERMITIDO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - DEFENSOR DATIVO - ARBITRAMENTO DE HONORÁRIOS - NECESSIDADE - CONDENAÇÃO NO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO - IMPOSSIBILIDADE - AFASTAMENTO DO PRIVILÉGIO - IMPOSSIBILIDADE - RECURSO DEFENSIVO PARCIALMENTE PROVIDO E RECURSO MINISTERIAL IMPROVIDO. 1. Impõe-se a condenação quando comprovadas estão a autoria e a materialidade do delito de tráfico de droga, afastando-se o pleito absolutório. 2. O defensor dativo faz jus ao arbitramento de honorários. 3. Inviável é a condenação dos apelados pela prática do delito de associação para o tráfico, pois não presentes os requisitos necessários. 4. O privilégio do artigo 33 § 4º da Lei 11.343106 deve ser mantido quando preenchidos os requisitos legais. S. Recurso defensivo parcialmente provido e recurso ministerial improvido.
+Consta dos autos que o recorrido foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006 e no art. 14 da Lei n. 10.826/2003, respecitvamente, a 1 anos e 8 meses de reclusão e a 2 anos de reclusão, além de 176 dias-multa, penas que foram mantidas pelo Tribunal de origem.
+Sustenta o Ministério Público, em síntese, a violação do 619 do CPP, e 1.022, II, parágrafo único, II, c.c. o art. 489, § 1º, IV e VI, ambos do CPC, aduzindo a ocorrência de omissão quanto à ausência de valoração negativa da quantidade de droga apreendida na primeira fase de dosimetria.
+Alega, ainda, violação do art. 59, caput, do CP e art.. 42, da Lei n. 11.343/2006, pois a pena basilar deveria ter sido exasperada, diante da "exorbitante quantidade e variedade de drogas apreendidas, quais sejam 511 pedras de "crack", totalizando 877,38 gramas; 53 pinos de "cocaína", com peso de 141,28 gramas: 01 tablete e 1.163 buchas de "maconha", com massa de 1.665,26 gramas e 56 bolas de haxixe, com peso de 25,55 gramas." (fl. 624).
+Requer o provimento do recurso para a exasperação da pena-base. Apresentadas contrarrazões, o Ministério Público Federal manifestou-se pelo desprovimento do recurso, com a concessão da ordem de ofício para reduzir a pena do recorrido.
+É o relatório.
+Decido.
+De início, não se vislumbra violação do art. 619 do CPP, porquanto o Tribunal de origem enfrentou, de forma fundamentada, as irresignações recursais, adotando, contudo, solução jurídica contrária aos interesses do recorrente, não havendo falar, assim, em negativa de prestação jurisdicional.
+Ressalte-se que "somente a omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal" (REsp 1653588/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/06/2017, DJe 21/06/2017).
+Posto isso, quanto à pena-base do delito de tráfico, o acórdão recorrido está assim fundamentado (fl. 592):
+ .. .Do pedido de aumento das penas-base - Requer, por fim, o il. Representante o aumento das penas-base dos acusados.
+Entretanto, analisando a sentença de f. 338-345v observo que as penas dos apelados foram fixadas de maneira proporcional, razão pela qual as mantenho inalteradas.
+Desta forma, mantenho as cominações da sentença inalteradas. .. .
+Consta da sentença que (fl. 455):
+ .. .Nos termos do ad. 42, da Lei 11.343106, fixo a pena base no mínimo legal de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, haja vista a ausência de circunstâncias desfavoráveis ao réu. .. .
+Conforme a jurisprudência desta Corte, "Não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida certa discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto. Cabe à esta Corte, portanto, nesta via extraordinária, a correção de ilegalidade ou desproporcionalidade flagrantes, o que não é o caso dos autos (AgRg no AREsp n. 1.399.185/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/3/2023)."
+Como se vê, as instâncias de origem, em observância ao princípio do livre convencimento motivado, decidiram no sentido de não haver, na primeira etapa, circunstâncias judiciais desfavoráveis, nos termos previstos no art. 42 da Lei n. 11.343/2006, não se verificando, no caso, manifesta ilegalidade ou desproporccionalidade na pena aplicada para o tráfico de drogas (1 ano e 8 meses de reclusão).
+Desse modo, a pretensão de exasperação da pena-base, com a valoração de circunstância não considerada na dosimetria pelas instâncias de origem , demandaria o reexame fático-probatório dos autos, vedado pela da súmula n. 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
