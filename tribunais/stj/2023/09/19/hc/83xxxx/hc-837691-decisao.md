@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEANDRO MARQUES FAGUNDES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que foi decretada a prisão preventiva do paciente pela prática, em tese, do delito descrito no art. 121, § 2º, incisos I e IV, c/c o art. 14, inciso II, por duas vezes, todos do Código Penal.
+O impetrante sustenta, inicialmente, que não há provas de que o acusado cometeu o crime em questão. Sustenta, ainda, a desnecessidade da prisão preventiva. Aduz que, "à míngua de fundamentos concretos e idôneos para a prisão preventiva, deve ser deferido ao paciente a aplicação de medidas cautelares diversas da prisão" (fl. 22).
+Requer, liminarmente, a revogação da prisão preventiva do paciente. No mérito, pugna pela concessão da ordem para lhe assegurar o direito de "aguardar em liberdade o desenrolar de seu processo, mediante o cumprimento das medidas cautelares alternativas previstas no art. 319, I, II, III, IV c/c artigo 282, I, II e §1º, do CPP" (fl. 26).
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento da ordem.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 29/30):
+Dito isso, no caso dos autos, a materialidade delitiva revela-se patente pelo Registro de Atendimento Integrado nº 27019063 e depoimentos colhidos em sede extrajudicial.
+Por sua vez, os indícios de autoria são evidenciados através dos relatos colhidos pela Polícia Civil durante a investigação, das vítimas, que narraram a dinâmica em que se deram os fatos, revelados, ainda, por meio das imagens colacionadas nos autos que foram posteriormente reconhecidas, que demonstram que tal indivíduo agiu de forma premeditada, por meio de extremada frieza, eis que obrigou as vítimas a entrarem no seu carro e os conduziu para a zona rural da cidade, dizendo que iria mata-los por conta das dívidas oriundas do uso de drogas.
+É de bom alvitre destacar que, no presente caso, outras medidas cautelares não são suficientes pra conter possível reiteração criminosa do infrator, pois praticou o crime de forma agressiva contra as duas vítimas, exerce a função de traficante, o que mostra não só a articulação com a criminalidade como também a audácia e destemor em relação aos órgãos de segurança pública.
+Ainda convém mencionar que, segundo os depoimentos das vítimas e o relatório policial, o requerido é uma pessoa violenta e agressiva, tendo praticado outra tentativa de homicídio, com disparo de arma, contra o seu próprio irmão, o deixando paraplégico.
+Aliado ao fato de que o requerido é cigano, portanto, utiliza-se deste fato para foragir da justiça, além de utilizar diversos nomes, tornando difícil sua localização e pondo em risco a instrução processual.
+Assim, firmadas tais premissas e sopesada a gravidade concreta dos fatos, já que cometido por motivo torpe e mediante recursos que dificulte ou torna impossível a defesa da vítima, com emprego de violência exercida com arma de fogo, soado a suas diversas passagens policiais, denotando modus operandi revelador de ousadia e periculosidade do agente, indicando a necessidade de resguardo da ordem pública, também ameaçada pelo risco da reiteração delitiva.
+Nessa linha, verifico que a pena privativa de liberdade prevista para crime de homicídio qualificado é de 12 (doze) a 30 (trinta) anos de reclusão. Neste contexto, o limite da pena está dentro do que foi previsto pelo legislador processual penal ao permitir que a prisão preventiva seja decretada aos crimes cuja pena privativa de liberdade no seu grau máximo supere os quatro anos (art. 313, I, do CPP). (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de homicídio qualificado tentado com emprego de arma de fogo contra duas vítimas.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. RENOVADO DECRETO DE PRISÃO APÓS PRÉVIA CONCESSÃO DA ORDEM. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. RECURSO IMPROVIDO.
+1. Precedente ilustrador da atuação da Corte em habeas corpus e da necessidade de motivação das decisões judiciais.
+2. Decisão que em persecução criminal por homicídio imputado a policiais em associação, com fraude processual, decreta a prisão por riscos sem expressar sequer em uma linha - ou mesmo palavra - os fatos justificadores dos invocados riscos. Ilegalidade reconhecida monocraticamente pelo Relator, sem recursos.
+3. Expressado já então na decisão do Relator, aliás de modo até redundante, pela provisoriedade ínsita às cautelares, que a concessão da ordem não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, veio o magistrado de primeiro grau a novamente decidir sobre a necessidade da prisão preventiva.
+4. Nova decisão que agora explicita circunstâncias do caso justificadoras de risco social (gravidade concreta do crime e risco à ordem pública) e ao processo (alteração do local do crime, com riscos à instrução processual). Validade.
+5. Indicada a gravidade concreta da conduta criminosa, pois foram efetuados dezenas de disparos de diversas armas de fogo, de diferentes calibres, inclusive de fuzis, contra um veículo em que se encontravam cinco vítimas  ..  em via pública, aberta ao tráfego de pessoas e veículos, de modo que não há que se falar em ilegalidade a justificar a concessão da ordem.
+6. Em habeas corpus a Corte não prende, mas apenas confere a legalidade da decisão de prisão, mantendo-a se legal, por fundamentos nela explicitados.
+7. Recurso em habeas corpus improvido. (RHC n. 77.723/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/3/2017, DJe 13/3/2017.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. AMEAÇA A TESTEMUNHAS. FUGA APÓS COMETIMENTO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+ ..
+2. No caso, as instâncias ordinárias apresentaram fundamentos suficientes para justificar a segregação cautelar do paciente, em especial o modus operandi adotado, uma vez que teria, em tese, efetivado o homicídio quando a vítima se encontrava em uma confraternização de carnaval, com presença de inúmeras pessoas da vizinhança, inclusive atingindo-a como novos disparos quando já se encontrava caída ao solo.
+3. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..  (RHC n. 91.056/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 28/2/2018.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+No que se refere à alegação de ausência de indícios de autoria, cumpre esclarecer, preliminarmente, que a via estreita do habeas corpus (e do seu recurso ordinário) não comporta o "exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, RHC n. 123.812/DF, relator Ministro Teori Zavascki, SEGUNDA TURMA, DJe de 20/10/2014).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TENTADO E FURTO QUALIFICADO. CÓDIGO PENAL. PRISÃO CAUTELAR. AUSÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. ANÁLISE FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. PROBLEMAS DE SAÚDE. PRISÃO DOMICILIAR. AUSÊNCIA DE COMPROVAÇÃO DA GRAVIDADE E DA AUSÊNCIA DE ESTRUTURA NO ESTABELECIMENTO PRISIONAL. ORDEM DENEGADA.
+1. A aferição da existência de indícios de autoria e materialidade delitiva demanda revolvimento fático-probatório, não condizente com a angusta via do writ, devendo ser a questão dirimida no trâmite da instrução criminal.
+ ..
+4. Ordem denegada. (HC n. 380.198/DF, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/02/2017, DJe 24/02/2017.)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+ ..
+2. A alegação de ausência de provas da autoria configura tese de inocência, que não encontra espaço para análise na estreita via do habeas corpus, uma vez que demanda o exame do contexto fático-probatório. Precedentes.
+ ..
+5. Habeas corpus não conhecido. (HC n. 315.877/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.)
+Ademais, o excerto do decreto prisional colacionado acima demonstra que há indícios suficientes de autoria.
+Para desconstituir tal entendimento, seria necessário extenso revolvimento do acervo fático-probatório, providência que, conforme delineado acima, esbarra nos estreitos limites cognitivos da via mandamental.
+Assim, não merece conhecimento a alegação de ausência de indícios de autoria.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
