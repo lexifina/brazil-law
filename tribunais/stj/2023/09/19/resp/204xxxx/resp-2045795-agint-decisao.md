@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto por HERMEZINDA OLIVEIRA CAVALCANTI DA ROCHA - ESPÓLIO mediante o qual se impugna decisão de minha lavra, constante de e-STF fls. 458/460 e integrada pela de e-STJ fls. 476/478, em que conheci em parte de seu recurso especial e, nessa extensão, neguei-lhe provimento, em razão da inocorrência de vícios formais no acórdão recorrido e em razão do óbice da Súmula 83/STJ.
+Alega a parte agravante, em síntese, o seguinte (e-STJ fls. 485/486):
+9. Segundo a r. decisão agravada, a controvérsia recursal alegada pela ora agravante seria "o termo inicial para o início da fluência da isenção do imposto de renda, em relação a contribuinte portador de moléstia grave cuja morbidez tenha sido comprovada judicialmente, mediante atestado médico".
+10. Conforme adiantado acima, com todo respeito e acatamento, a controvérsia recursal não é essa, mas quanto à determinação do momento da ocorrência do fato gerador do imposto sobre a renda de pessoa física, isto é, sobre o critério temporal da regra-matriz de incidência tributária do imposto, o que se difere, em absoluto, da questão quanto a o momento da ocorrência da hipótese que se subsume à norma de isenção.
+11. Melhor explicando, uma coisa é se verificarem que momento o contribuinte passou a fazer jus ao benefício da isenção, outra, completamente diferente, é saber quando ocorreu o fato gerador do tributo questionado, para que se verifique se, àquela altura, o contribuinte já fazia jus à isenção.
+12. Necessário frisar que o acórdão recorrido, seguindo a jurisprudência do STJ, proveu a apelação da recorrente, ora agravante, no que tange ao marco inicial dos efeitos da isenção sobre seus proventos de aposentadoria, reconhecendo o benefício tributário a partir de quando ficou comprovada a sua doença através do competente diagnóstico médico, o que ocorreu em 01/10/2011. Quanto a esse ponto, por certo, não há resistência da agravante.
+13. A discussão que envolve o presente recurso é a violação aos arts. 9 º, da Lei 8.134/90, e 7º, da Lei 9.250/95, por não ter o acórdão recorrido reconhecido que o fato gerador do imposto de renda relativo ao ano-calendário 2011 ocorreu somente no último dia de 2011 (31. 12. 2011), quando a agravante já fazia jus ao benefício de isenção, como reconhecido no acórdão recorrido.
+14. Em outras palavras, o acórdão recorrido, ao "fatiar" a hipótese de incidência por meses do ano-calendário de 2011, violou, de forma patente os arts. 9º, da Lei 8.134/90 e 7º, da Lei 9.250/95, que preve em que o fato gerador do IRPF é complexivo e que, portanto, aperfeiçoa-se somente no último dia de cada ano-calendário.
+Ao final, busca a reforma da decisão agravada, no sentido de dar provimento ao recurso especial.
+Contrarrazões às e-STJ fls. 500/501.
+Exerço o juízo de retratação, tendo em vista a procedência dos argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de recurso especial interposto por HERMEZINDA OLIVEIRA CAVALCANTI DA ROCHA - ESPÓLIO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ fl. 333):
+APELAÇÃO CÍVEL. ISENÇÃO DE IMPOSTO DE RENDA RETIDO NA FONTE. PORTADORA DE DOENÇA DE ALZHEIMER. ART. 6º, XIV, DA LEI Nº 7.713/88. SENTENÇA DE PROCEDÊNCIA PARCIAL. APELO AUTORAL. REPETIÇÃO DE INDÉBITO A PARTIR DO DIAGNÓSTICO DA ENFERMIDADE. SÚMULA Nº 598 DO STJ. PRECEDENTES DO C. STJ. RECURSO PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 386/398).
+Em suas razões de especial, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, do art. 9º da Lei n. 8.134/90 e do art. 7º da Lei n. 9.250/95.
+Sustenta, preliminarmente, que o acórdão recorrido padeceria de omissão, bem como estaria desfundamentado, pois o Tribunal a quo teria deixado de examinar a tese de que o Imposto de Renda somente seria devido ao término do ano-calendário; por essa razão, a isenção deveria alcançar todo aquele.
+No mérito, aduz que, "tendo em vista que o fato gerador do IRPF em relação aos rendimentos sujeitos à declaração de ajuste é anual, o reconhecimento da moléstia grave no curso do ano-calendário 2011 torna a isenção do IRPF aplicável para todo o ano-calendário" (e-STJ fl. 423).
+Contrarrazões às e-STJ fls. 436/442.
+Recurso especial admitido (e-STJ fls. 444/445).
+Passo a decidir.
+Na hipótese, controverte-se sobre o momento em que teria ocorrido o fato gerador do imposto de renda.
+Sustenta a ora agravante que, por se cuidar de imposto complexivo, o fato gerador do imposto de renda somente ocorreria ao final do ano-calendário.
+Assim, havendo alteração da legislação tributária no correr do ano-calendário, essa deveria ser observada por todo o período, inclusive no lapso temporal anterior ao início de sua vigência, porquanto, tecnicamente, não haveria fato gerador praticado antes do fim daquele ano-calendário.
+Está devidamente configurada a omissão no acórdão recorrido.
+Com efeito, o Tribunal de origem limitou-se a examinar a questão sob o ponto de vista do momento do início da isenção fiscal.
+Sem embargo, nada disse sobre o momento em que ocorrido o fato gerador do imposto de renda, questão cuja análise poderia ter influência decisiva no julgamento em tela.
+Apenas em reforço argumentativo, note-se que a tese da ora agravante, em relação à natureza complexiva do fato gerador do imposto de renda, parece encontrar guarida na jurisprudência deste STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. DISTRIBUIÇÃO DE LUCROS OU DIVIDENDOS DE PERÍODO-BASE NÃO ENCERRADO. CORREÇÃO MONETÁRIA. ART. 6º, DO DECRETO-LEI N. 2.341/87. DISPONIBILIDADE ECONÔMICA E JURÍDICA DA RENDA. ATUALIZAÇÃO MONETÁRIA DA BASE DE CÁLCULO DO IMPOSTO. ARTS. 43, I E 97, §2º, DO CTN. PRECEDENTE.
+1. A Segunda Turma desta Corte (REsp 1.252.325/SP, de minha relatoria, DJe 13/08/2013) já se manifestou no sentido de que a distribuição antecipada de lucros é uma faculdade da sociedade, um verdadeiro exercício da disponibilidade econômica ou jurídica da renda, enquadrando-se perfeitamente no art. 43, I, do CTN, devendo ser objeto de correção monetária, por determinação do art. 6º, do Decreto-lei n. 2.341/87, que encontra amparo também no art. 97, § 2º, do CTN: "Não constitui majoração de tributo,  .. , a atualização do valor monetário da respectiva base de cálculo".
+2. "Considerando-se que o imposto de renda se refere a todo um período de apuração elegendo como data do fato gerador (fato gerador complexivo) o último dia do balanço, é até essa data que devem ser parametrizados todos os valores informados correspondentes ao período com a respectiva correção monetária".
+3. Agravo regimental não provido.
+(AgRg no AREsp 637.679/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/03/2015, DJe 16/03/2015).
+Ante o exposto, RECONSIDERO a decisão agravada e, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para determinar ao Tribunal de origem o rejulgamento dos embargos de declaração, opostos pela ora agravante, com o expresso enfrentamento da questão relativa ao momento de ocorrência, no caso dos autos, do fato gerador do Imposto de Renda, com vistas à aplicação, ou não, da regra isentiva tributária a todo o período anual de apuração do Imposto.
+Publique-se. Intimem-se.
+EMENTA
