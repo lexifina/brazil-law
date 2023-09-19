@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE CAMARAGIBE, fundado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJPE assim ementado:
+EMENTA: DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. SENTENÇA A QUO QUE EXTINGUE A EXECUÇÃO FISCAL EM VIRTUDE DE PAGAMENTO DA OBRIGAÇÃO TRIBUTÁRIA NA ESFERA ADMINISTRATIVA, SEM CUSTAS E HONORÁRIOS ANTE A AUSÊNCIA DE ANGULARIZAÇÃO DA RELAÇÃO JURÍDICO-PROCESSUAL. INVIABILIDADE DE CONDENAÇÃO DO EXECUTADO EM HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS QUANDO O PAGAMENTO DO DÉBITO FISCAL FOI FEITO EM SEDE ADMINISTRATIVA E VOLUNTARIAMENTE, ATRAVÉS DE PARCELAMENTO, ANTES DA CITAÇÃO VÁLIDA DO DEVEDOR NA EXECUÇÃO FISCAL. HIPÓTESE DE EXCEÇÃO AO PRINCÍPIO DA CAUSALIDADE FULCRADA NO PRINCÍPIO DA VEDAÇÃO DO BIS IN IDEM. ISSO PORQUE OS HONORÁRIOS DOS ADVOGADOS PÚBLICOS JÁ FORAM EMBUTIDOS NO PAGAMENTO ADMINISTRATIVO DO DÉBITO FISCAL E, TENDO A EDILIDADE ACEITADO O PAGAMENTO ADMINISTRATIVO, É DE SE ENTENDER QUE NÃO LHE CABE MAIS REQUERER A VERBA HONORÁRIA EM SEDE RECURSAL. POR OUTRO LADO, NÃO TENDO INCLUÍDO A VERBA, CONCLUI-SE QUE A ELA RENUNCIOU EM BENEFÍCIO DO PAGAMENTO ADMINISTRATIVO. OUTROSSIM, O SIMPLES AJUIZAMENTO DA DEMANDA NÃO TRIANGULARIZA A RELAÇÃO PROCESSUAL, SENDO NECESSÁRIA AINDA A CITAÇÃO VÁLIDA DO EXECUTADO, NOS TERMOS DO ART. 240 CPC/2015. AUSÊNCIA DE OFENSA AO ART. 85, § 1º E ART. 90 DO CPC/2015. RECURSO DE APELAÇÃO A QUE SE NEGA PROVIMENTO, À UNANIMIDADE DOS VOTOS.
+A parte recorrente alega violação dos arts. 85, 90, 924 e 925 do CPC/2015. Sustenta, em síntese, que: (i) há erro no acórdão recorrido que deixou de aplicar honorários de sucumbência em desfavor do executado pelo pagamento administrativo do débito após a propositura da execução e antes da citação; (ii) o recolhimento realizado na esfera administrativa não incluiu a verba honorária.
+Sem contrarrazões, o recurso especial foi admitido.
+Passo a decidir.
+O recurso se origina de execução fiscal extinta pelo pagamento administrativo do crédito tributário por parcelamento antes da citação e após a propositura da execução.
+Não houve condenação em honorários.
+O Tribunal pernambucano negou provimento à apelação por dois fundamentos:
+(i) a impossibilidade de se reconhecer, antes da defesa do executado, a validade e certeza do título, apesar de ser possível presumi-la;
+(ii) a verba honorária foi incluída no parcelamento, de modo que não pode ser novamente exigida no juízo de execução, e eventual dispensa de seu recebimento no âmbito administrativo caracteriza renúncia desse direito pelo ente público.
+Ocorre que o recorrente, nas razões do presente recurso especial, não atacou especificamente o segundo fundamento acima identificado, o que faz atrair o óbice de conhecimento estampado nas Súmulas 283 e 284 do STF.
+A par disso, no contexto dos autos, saber se houve ou não o pagamento dos honorários advocatícios referentes à execução fiscal na seara administrativa quando da adesão a parcelamento pressupõe reexame de direito local e de prova, o que é inviável no âmbito do recurso especial, consoante inteligência da Súmulas 280 do STF e 7 do STJ, respectivamente.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
