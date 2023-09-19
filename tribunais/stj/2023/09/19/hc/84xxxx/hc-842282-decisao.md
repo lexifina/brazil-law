@@ -1,0 +1,40 @@
+DECISÃO
+DENNIS ARANDA COSTA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul no Habeas Corpus n. 1412277-53.2023.8.12.0000.
+Neste writ, a defesa sustenta, em síntese, não haver fundamentação idônea para subsidiar o decreto cautelar, porquanto a decisão foi lastreada, tão somente, no fato de o acusado não haver sido encontrado para a citação.
+Ressalta que os fatos imputados ao paciente ocorreram em 2007 e que a prisão ocorreu em 2023. Suscita a falta de contemporaneidade do fato ensejador do decreto prisional.
+Acrescenta que, nos autos do HC n. 826.096/MS, já foi deferida a liminar para substituir a segregação provisória, decretada em outro processo sob os mesmos fundamentos, por medidas cautelares menos gravosas.
+Requer a revogação da prisão ante tempus do agente ou sua substituição por medidas alternativas.
+Deferida a liminar (fls. 150-154) e prestadas as informações (fls. 161-172 e 173-182), foram os autos ao Ministério Público Federal, que se manifestou pela concessão da ordem (fls. 185-188).
+Decido.
+O paciente foi denunciado pela suposta prática do crime descrito no art. 157, § 2º, I e II, do Código Penal, ocorrido em 10/5/2007.
+Por não haver sido encontrado, procedeu-se à citação por edital e o Magistrado decretou a prisão preventiva do agente, em 27/11/2007, consoante decisão assim motivada (fl. 75):
+No caso dos autos, os indícios de autoria do delito ficam caracterizados pelo reconhecimento do acusado, feito pela vítima, por meio de fotografias apresentadas pela autoridade policial.
+Embora o acusado negue a prática do delito em questão, declarou extrajudicialmente que fez uso de armas apreendidas em posse do co-autor Rafael da Silva Camargo para prática de outros delito.
+Verifica-se, ainda, conforme a certidão de antecedentes fornecida pelo Cartório Distribuidor e anexada aos autos, que o acusado possui outros processos em andamento pela prática do mesmo delito.
+Concluiu-se, portanto, que sua liberdade constituiu ameaça à ordem pública, prejuízo da instrução criminal e da aplicação da lei penal.
+Após a prisão do acusado, em 11/5/2023, o Juiz de Direito manteve a custódia cautelar nos seguinte termos (fls. 76-79, destaquei):
+O simples fato de o requerente afirmar possuir residência fixa, trabalho lícito e família constituída não afasta a necessidade da prisão cautelar. Do mesmo modo, a presunção da inocência não ilide a adoção da medida.
+Nesse sentido, apesar de informar residir no endereço Rua Humberto Fernandes Lino, 571, Jardim Colibri, nesta capital, é certo que o requerente não foi encontrado no endereço anteriormente indicado na ação penal e somente após mais de 15 anos, localizado e preso, neste procedimento informa sua residência.
+Ademais, o requerente nada esclareceu sobre a razão pela qual não fora localizado no endereço fornecido no feito à época da tentativa de sua citação pessoal, limitando-se a dizer que "sempre trabalhou registrado e esteve à disposição da justiça".
+Além disso, o próprio requerente informa, em sua peça defensiva, a existência de outras ações penais em andamento (autos n. 0063284-57.2009 e incidente n. 0863608-40.20232), as quais estavam suspensas por não ter sido ele localizado para ser citado.
+Com efeito, em consulta ao SAJ, verifico que o réu possui três ações penais (autos n. 0063284-57.2009, 0042186-84.2007 e 0382877-33.2008), as quais estavam suspensas por não ter sido o réu localizado e tiveram seu curso retomado, após ter sido o requerente localizado e preso.
+Compulsando as apontadas ações penais, se tratam defeitos que apuram delitos praticados mediante violência (autos n. 0042186-84.2007 e 0382877-33.2008 apuram a prática de delito de roubo e a ação penal n. 0063284-57.2009 apura a prática de delito de tentativa de homicídio e porte de arma de fogo), ressaindo daí que o requerente possui perfil violento.
+Assim, a segregação cautelar se mostra necessária visando obstar a reiteração criminosa, visando garantir a ordem pública, cujo fundamento fora utilizado por este Juízo para o decreto prisional.
+Além disso, a existência de três ações penais que estavam suspensas por não ter sido o requerente localizado para ser citado demonstra também que ele não pretende se submeter aos chamados da justiça, revelando risco potencial à aplicação da penal.
+Desta feita, a prisão mostra-se necessária em razão do perigo gerado pelo estado de liberdade do(a)(s) acusado(a)(s), visando a garantia da ordem pública, bem como para assegurar a aplicação da lei penal e a instrução criminal.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem. Transcrevo a ementa (fl. 127):
+HABEAS CORPUS - PROCESSO PENAL- ROUBO CIRCUNSTANCIADO - PRISÃO PREVENTIVA - FORAGIDO DA JUSTIÇA E REITERAÇÃO CRIMINOSA - GARANTIA DA ORDEM PÚBLICA E SEGURANÇA DA APLICAÇÃO DA LEI PENAL E DA INSTRUÇÃO CRIMINAL - CONSTRANGIMENTO ILEGAL INEXISTENTE - ORDEM DENEGADA.
+É cabível a decretação da prisão preventiva aos casos de crimes dolosos punidos com pena privativa de liberdade máxima superior a 04 (quatro) anos, mormente quando, tendo sido a custódia cautelar decretada por conveniência da instrução criminal e para assegurar a aplicação da lei penal, pressupõe-se ainda maior necessidade da mesma após o paciente permanecer foragido por mais de 15 (quinze) anos, situação que ainda se agrava diante da existência de outros processos criminais, todos praticados em contexto de violência, que também permaneceram suspensos em razão da postura furtiva do paciente.
+Habeas Corpus a que se nega concessão, ante a legalidade do decreto prisional.
+Com efeito, verifico que a fundamentação utilizada para justificar a segregação provisória do paciente é idêntica à empregada nos autos da Ação Penal n. 0063284-57.2009.8.12.0001, na qual o paciente foi acusado de homicídio tentado e porte ilegal de arma de fogo, e que foi objeto do HC n. 826.096/MS, em que concedi a ordem para substituir a prisão preventiva por medidas cautelares menos gravosas.
+Verifico, portanto, que a instância ordinária decretou a custódia cautelar do acusado com base tão somente no fato de ele não haver sido encontrado para a citação, pois não houve a indicação de qualquer motivo contemporâneo capaz de justificar a medida extrema.
+S egundo o entendimento desta Corte Superior, "a simples não localização do réu para responder ao chamamento judicial ou o fato de encontrar-se em local incerto e não sabido não constitui motivação suficiente para o encarceramento provisório, quando dissociado de qualquer outro elemento real que indique a sua condição de foragido. Não cabe deduzir que, frustrada a notificação ou a citação editalícia no processo penal, o acusado estaria evadido" (AgRg no RHC n. 167.214/TO, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/10/2022, grifei).
+Portanto, deve ser concedida a ordem, a fim de garantir ao acusado o direito de aguardar o julgamento da ação penal em liberdade, mediante o cumprimento ad cautelam das providências previstas no art. 319, I, IV e IX, do CPP.
+À vista do exposto, ratifico a liminar deferida e concedo a ordem para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do réu pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução; e
+c) monitoração eletrônica.
+Alerte-se ao acusado que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+As medidas cautelares ora impostas poderão ser, a qualquer tempo, modificadas ou adaptadas, justificadamente, pela autoridade judiciária responsável pelo processo em curso no primeiro grau de jurisdição.
+Publique-se e intimem-se.
+EMENTA
