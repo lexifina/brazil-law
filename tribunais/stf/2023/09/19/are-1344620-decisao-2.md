@@ -1,0 +1,83 @@
+DECISÃO
+
+    1. VIANORTE S.A. opôs embargos de declaração contra decisão, por mim proferida, por meio da qual dei provimento ao recurso extraordinário com agravo interposto pela Companhia Piratininga de Força e Luz por estar o acórdão recorrido divergente dos recentes precedentes firmados pelo Plenário do Supremo Tribunal Federal.
+
+    Sustentou haver omissão nesse ato decisório, aduzindo, em suma, que:
+
+    A R. decisão ora embargada partiu da equivocada premissa de que estaria diante de uma discussão de mérito, dando provimento ao recurso extraordinário da CPFL sob fundamento de que “o acórdão recorrido diverge dos recentes precedentes firmados pelo Plenário do STF (ADI n. 3.763 e ADI n. 6.482)”
+
+    Mas esse (equivocado) entendimento desconsidera a relevantíssima circunstância de que na origem do presente recurso não se discutiu o mérito da legalidade da cobrança pelo uso das faixas de domínio. Na realidade, o recurso extraordinário da CPFL tem origem no cumprimento definitivo de R. sentença que reconheceu a legalidade da cobrança feita pela VIANORTE (transitada em julgado em julho de 2017).
+
+    […]
+
+    O fato de o recurso extraordinário da CPFL insurgir-se contra V. acórdão que apenas manteve a rejeição da impugnação executiva por existência de coisa julgada material protegendo a legalidade da cobrança significa que o mérito d a legalidade dessa cobrança – o que acabou sendo analisado pela R. decisão embargada – não estava mais sujeito à revisão pelo Poder Judiciário.
+
+    […]
+
+    É o conteúdo imperativo da decisão que fica imutabilizado pelos efeitos da coisa julgada. No caso concreto, é justamente o (duplo) reconhecimento de que a cobrança que a VIANORTE faz da CPFL pelo uso das faixas de domínio das rodovias concedidas é absolutamente legítimo.
+
+    Diante disso,permitir que a CPFL possa rediscutir a alegada gratuidade pelo uso das faixas de domínio na excepcionalíssima via da impugnação ao cumprimento de sentença definitivo seria retirar da coisa julgada seu saudável papel de pacificar e estabilizar os conflitos já decididos. Em outras palavras, seria um verdadeiro ataque ao princípio constitucional da segurança jurídica (CF, art. 5º, inc. XXXVI).
+
+    […]
+
+    Embora conste no sucinto relatório da R. decisão ora embargada que o recurso extraordinário da CPFL invocaria uma suposta violação ao art. 5º, incs. XXXVI e LV, da Constituição Federal, tal dispositivo não foi objeto de apreciação pelo V. acórdão recorrido e sequer foi mencionado pela CPFL nos embargos de declaração opostos em face daquele V. acórdão recorrido.
+
+    Em impugnação aos embargos de declaração, a Companhia Piratininga de Força e Luz sustenta, em síntese, que:
+
+    Na origem, tratam os autos de cumprimento de sentença por meio do qual a Embargante executa o pagamento da tarifa anual inerente à ocupação do trecho correspondente ao km 334+255 m ao km 334+476 m da pista leste e entre o km 334+255 m ao km 334+476 m da pista oeste da Rodovia Atílio Balbo (SP-322), no valor de R$ 97.697,10 (noventa e sete mil, seiscentos e noventa e sete reais e dez centavos), baseado em título executivo judicial oriundo do processo n° 0012733- 12.2007.8.26.0597.
+
+    […]
+
+    Todavia, tendo o e. TJSP se olvidado de que a coisa julgada deve ser relativizada nos casos em que novo estado de direito é estabelecido, não havendo como o Tribunal a quo reconhecer a suposta imutabilidade de um decisum que nitidamente confronta posicionamento já defendido no c. STF, sem violar expressamente o artigo 5º, inciso XXXVI, da Constituição, a Embargada interpôs o competente Recurso Extraordinário, mas que foi inadmitido pelo Exmo. Presidente da Seção de Direito Público do e. TJSP, sob o argumento de que o artigo 5º, inciso XXXVI da Constituição não teria sido apreciado pelo acórdão vergastado, faltando, por conseguinte, o requisito do prequestionamento, ensejando a incidências das Súmulas 282 e 356 do c. Supremo Tribunal Federal.
+
+    […]
+
+    Pois bem, com a devida vênia que merecem as razões apresentadas pela parte adversa, não se pode deixar de considerar, como anteriormente relatado, que e. TJSP entendeu válida a cobrança da Embargante contra a Embargada pelo uso da faixa de domínio público, porque esse direito já lhe teria sido reconhecido em anterior ação transitada em julgado.
+
+    Ocorre que, a relação estabelecida entre as partes é evidentemente continuativa/sucessiva, de modo que, alteradas as condições e o plano jurídico num momento futuro, uma nova decisão (ou a revisão daquela já proferida) se impõe.
+
+    […]
+
+    E, recentemente, as premissas apresentadas por essa e. Corte revelam-se ainda mais evidente diante dos termos do quanto decidido pelo Plenário desse c. STF em controle concentrado de constitucionalidade, quando do julgamento das ADI 3.763/RS e ADI 6.482/DF.
+
+    E dessa forma, tem-se evidente que a manutenção do acórdão proferido pelo e. TJSP implicará na inobservância e na violação ao art. 5º, inciso XXXVI da Constituição e, por consequência lógica, ao texto dos artigos 21, XII, “b”; 22, IV e 175 da Constituição, pois permitirá que uma concessionária de serviço público concedido crie encargos e despesas extraordinárias para outra concessionária de serviço público concedido pela União (Recorrente), sem que houvesse qualquer autorização do Poder Concedente do serviço público federal, alterando e onerando os custos da prestação do serviço e, por conseguinte, influindo negativamente na modicidade tarifária.
+
+    […]
+
+    Na mesma ocasião, o Exmo. Min. Luiz Fux salientou que “a coisa julgada não visou a proteger a ilegitimidade das leis. Isso está nos fundamentos de Chiovenda. Então é mais do que razoável que se possa impedir o cumprimento de uma decisão judicial baseado numa lei que foi posteriormente declarada inconstitucional ”.
+
+    É o relatório. Decido.
+
+    2. Não assiste razão ao embargante, porquanto inexistentes, na decisão embargada, as pechas que lhe foram imputadas.
+
+    Com efeito, conforme consignado na decisão monocrátiva embargada, analisando a controvérsia dos autos em face dos recentes precedentes firmados pelo Plenário do Supremo Tribunal Federal, a posição que prevalece é no sentido de não ser possível a cobrança de retribuição pecuniária pela utilização de bem público necessário à prestação de serviço público.
+
+    O Plenário deste Supremo Tribunal Federal, por ocasião do julgamento da ADI n. 3.763, de relatoria da ministra Carmem Lúcia, declarou a inconstitucionalidade de dispositivos da Lei n. 12.238/2005, do Estado do Rio Grande do Sul, que previa a cobrança de retribuição pecuniária das companhias concessionárias de energia elétrica pela utilização de faixa de domínio de rodovias estaduais. Na ocasião, o acórdão restou assim ementado:
+
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL N. 12.238/2005 E DECRETO N. 43.787/2005. PREVISÃO DE COBRANÇA DE RETRIBUIÇÃO PECUNIÁRIA DE CONCESSIONÁRIAS DE ENERGIA ELÉTRICA PELA OCUPAÇÃO DE FAIXAS DE DOMÍNIO E ÁREAS ADJACENTES A RODOVIAS ESTADUAIS. INVASÃO DA COMPETÊNCIA DA UNIÃO. AL. B DO INC. XII DO ART. 21 E INC. IV DO ART. 22 DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. AÇÃO JULGADA PARCIALMENTE PROCEDENTE PARA DAR INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO E DECLARAR A INCONSTITUCIONALIDADE DA EXPRESSÃO “DE ENERGIA” DO INC. IV DO ART. 6º E DA TARIFA BÁSICA PREVISTA NO TIPO II DO ITEM 1 DO ANEXO 1 DO DECRETO N. 43.787/2005 DO RIO GRANDE DO SUL.
+
+    (ADI n. 3.763, ministra Cármen Lúcia)
+
+    E, ainda, tem-se o julgamento da ADI n. 6.482, onde se declarou a constitucionalidade do art. 12, caput, da Lei n. 13.116/2015, que estabeleceu a gratuidade do direito de passagem em bens públicos de uso comum do povo necessários à instalação da infraestrutura de telecomunicação:
+
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 12, CAPUT, DA LEI 13.116/2015. INSTALAÇÃO DE INFRAESTRUTURA E DE REDES DE TELECOMUNICAÇÕES. GRATUIDADE DO DIREITO DE PASSAGEM EM VIAS PÚBLICAS, EM FAIXAS DE DOMÍNIO E EM OUTROS BENS PÚBLICOS DE USO COMUM DO POVO, AINDA QUE ESSES BENS OU INSTALAÇÕES SEJAM EXPLORADOS POR MEIO DE CONCESSÃO OU OUTRA FORMA DE DELEGAÇÃO. CONTEXTO REGULATÓRIO SETORIAL DA NORMA IMPUGNADA. CONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE TELECOMUNICAÇÕES. COMPETÊNCIA LEGISLATIVA PRIVATIVA DA UNIÃO PARA EDITAR NORMAS GERAIS DE LICITAÇÃO E CONTRATAÇÃO ADMINISTRATIVA. CONSTITUCIONALIDADE MATERIAL. INEXISTÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA EFICIÊNCIA, DA MORALIDADE ADMINISTRATIVA. RESTRIÇÃO AO DIREITO DE PROPRIEDADE DOS ESTADOS VOLTADA À GARANTIA DA PRESTAÇÃO E DA UNIVERSALIZAÇÃO DE SERVIÇO PÚBLICO FEDERAL. NORMA QUE IMPÕE RESTRIÇÃO ADEQUADA, NECESSÁRIA E PROPORCIONAL EM SENTIDO ESTRITO AO DIREITO DE PROPRIEDADE DOS ESTADOS E DOS MUNICÍPIOS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE. 1. O Setor Brasileiro de Telecomunicações passou por importantes mudanças na década de 1990, com a aprovação da Emenda Constitucional 8/1995 e da Lei 9.472/1997, que promoveram a liberalização do setor e a privatização do sistema Telebras. A expansão do acesso à internet de alta velocidade tem empurrado as políticas de telecomunicações da década de 1990 para um verdadeiro “ponto de inflexão” (inflection point). (COWHEY, Peter F.; ARONSON, Jonathan D. Transforming Global Information and Communication Markets: The Political Economy of Innovation. Cambridge, Massachusetts: The MIT Press, 2011, p. 8 e 10–11). Ainda que intuitivamente a internet seja considerada um espaço livre e desregulado, a conexão dos usuários à rede depende da prestação de serviços de telecomunicações e da interação entre agentes econômicos que atuam de forma verticalmente integrada entre a camada física composta pela gestão de infraestrutura de telecomunicações, a camada de protocolo e a amada de conteúdos e de aplicações. (BENJAMIN, Staurt Minor et al. Telecommunications Law and Policy. 3a. Durham: Carolina Academic Press, 2012, p. 717-721). Daí porque a doutrina assenta que “o fenômeno Over-The-Top (OTT) passa a demandar a remodelagem de políticas de incentivo ao investimento em infraestrutura de redes de alta velocidade, as quais se mostram essenciais não apenas para a viabilidade desses modelos de negócios, mas para a garantia dos incentivos à inovação no âmbito do setor de Tecnologias da Informação e Comunicação (TIC)”. (FERNANDES, Victor Oliveira. Regulação de Serviços de Internet: desafios da regulação de aplicações Over-The-Top (OTT), Rio de Janeiro: Lumen Juris, 2018, p. 36). 2. No caso do setor de telecomunicações, a atribuição da titularidade pela prestação dos serviços públicos à União (art. 21, inciso XI, da CF) tem como contrapartida o reconhecimento de uma federalização ampla das relações jurídicas que permeiam a prestação desses serviços. Do próprio conceito legal, extrai-se que “telecomunicação é a transmissão, emissão ou recepção, por fio, radioeletricidade, meios ópticos ou qualquer outro processo eletromagnético, de símbolos, caracteres, sinais, escritos, imagens, sons ou informações de qualquer natureza” (art. 60, § 1º, da Lei 9.472/1997). A disciplina jurídica de toda e qualquer forma de transmissão de sinais voltada à prestação de um serviço de telecomunicações revolve matéria afeta à competência legislativa da União, tal qual o direito de passagem e uso para a instalação de infraestrutura de rede. 3. O Supremo Tribunal Federal decidiu que a edição da Lei 13.116/2015 se insere no âmbito da competência privativa da União para legislar sobre telecomunicações (art. 22, inciso IV, CF/88) e materializa uma decisão de afastar a possibilidade de os Estados e Municípios legislarem sobre a matéria (ADI 3.110, Relator Edson Fachin, Tribunal Pleno, julgado em 4.5.2020, DJe 10.6.2020; ADPF 731, Relator(a): Cármen Lúcia, Tribunal Pleno, julgado em 21/12/2020, DJe 10-02-2021). A disciplina da gratuidade do direito de passagem prevista no art. 12, caput, da Lei 13.166/2015 divisou a necessária uniformização nacional, sobretudo em um setor econômico como o de telecomunicações, em que a interconexão e a interoperabilidade das redes afiguram-se essenciais. 4. A interpretação sistemática da Lei 13.116/2015, sobretudo naquilo que complementada pelo seu regulamento, revela, na realidade, zelo do legislador de, ao mesmo tempo, uniformizar a gratuidade do direito de passagem no âmbito nacional e respeitar o exercício das competências administrativas dos poderes concedentes locais, preservando-se a competência da União de legislar sobre normas gerais em matéria de licitações e contratos administrativos (art. 22, inciso XXVII, da CF). 5. O art. 12, caput, da Lei 13.116/2015 institui verdadeiro ônus real sobre o direito de propriedade dos bens de Estados e Municípios nas vias públicas, faixas de domínio e outros bens públicos de uso comum do povo. Dado que o direito de propriedade não se revela de caráter absoluto, essa restrição “pode ser admitida constitucionalmente quando decorrer da necessidade de prestação de serviço público no interesse da coletividade. Este privilégio ainda se reveste da maior importância quando se trata de ocupação de bens públicos de qualquer natureza quando esta ocupação for indispensável à própria exploração do serviço”. (CAVALCANTI, Themistocles Brandão. Tratado de Direito Administrativo, vol. IV. Rio de janeiro: Editora Freitas Bastos, 1943, p. 404-405). 6. A natureza constitucional dos serviços públicos de telecomunicações (art. 21, inciso XI, da CF/88) não foi desconstituída pela simples previsão legal de que tais serviços podem ser prestados no regime privado por meio de autorização (art. 62 da Lei 9.472/1997). A forma de delegação do serviço não é o fator unicamente determinante à definição de sua natureza econômica, já que “não é pelo fato de a lei ou o regulamento se referir nominalmente a ‘autorização’ que, como em um passe de mágica, a atividade deixa de ser serviço público (ou monopólio público), para ser uma atividade privada”. ARAGÃO, Alexandre dos Santos. O Direito dos Serviços Públicos. 3ª Ed. Editora Forense: Rio de Janeiro, 2013, p. 695). O fato de o Poder Constituinte de Reforma ter mantido sob a responsabilidade da União a titularidade da prestação dos serviços de telecomunicações (art. 21, inciso XI, da CF/88) torna incontroverso que esses serviços apresentam natureza de serviço público. 7. A restrição ao direito real de propriedade imposta pelo art. 12, caput, da Lei 13.116/2015 afigura-se adequada, necessária e proporcional em sentido em estrito. Sob o ponto de vista da adequação, as dificuldades históricas de harmonização da disciplina normativa sobre a implantação da infraestrutura de telecomunicações, aliada à extensão da competência privativa da União para legislar sobre a matéria, convergem para o juízo de que a edição de uma lei federal sobre o tema é a medida mais adequada para a finalidade da norma. Sob o ponto de vista da necessidade, não haveria meio menos gravoso para assegurar a finalidade da norma, uma vez que, mesmo que se cogitasse de deixar ao poder dos Estados e dos Municípios a fixação de um valor pelo uso da faixa de domínio, essa opção poderia gerar distorções na política regulatória nacional dos serviços de telecomunicações. Por fim, sob o ponto de vista da proporcionalidade em sentido estrito, verifica-se que tanto a lei federal quanto o seu regulamento previram salvaguardas de modo a evitar o total aniquilamento do direito real em jogo, tais como a ressalva de que a gratuidade não afeta obrigações indenizatórias decorrentes de eventual dano efetivo ou de restrição de uso significativa e a previsão de que a gratuidade será autorizada pelos órgãos reguladores sob cuja competência estiver a área a ser ocupada ou atravessada, 8. Ação direta de inconstitucionalidade julgada improcedente.
+
+    (ADI n. 6.482, ministro Gilmar Mendes)
+
+    Desse modo, o acórdão recorrido diverge dos recentes precedentes firmados pelo Plenário do STF (ADI n. 3.763 e ADI n. 6.482).
+
+    Os embargos de declaração possuem funções meramente integrativas da decisão impugnada e têm seu cabimento restrito àquelas hipóteses em que se busca o saneamento de eventuais vícios (omissão, contradição ou obscuridade) ou, ainda, a correção de flagrante erro material.
+
+    Tampouco se admite, em casos como o presente, atribuir efeitos infringentes aos aclaratórios e, por consequência, rediscutir a matéria já julgada, nos termos da notória jurisprudência desta Corte.
+
+    3. Ante o exposto, rejeito os presentes embargos de declaração.
+
+    4. Publique-se.
+
+Brasília, 19 de setembro de 2023.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
