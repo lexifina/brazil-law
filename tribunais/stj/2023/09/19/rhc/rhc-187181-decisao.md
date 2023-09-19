@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RICARDO MONTEIRO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no HC n. 202300323966.
+Narra a Defesa que o Recorrente encontra-se preso pela suposta prática do delito previsto no art. 121, §2.º, incisos I e IV, do Código Penal.
+Foi impetrado prévio writ perante o Tribunal de origem, que denegou a ordem em acórdão assim ementado (fl. 228):
+"HABEAS CORPUS - DIREITO PENAL E PROCESSUAL PENAL - HOMICÍDIO QUALIFICADO (ART. 121, §2º, I e IV, DO CÓDIGO PENAL) - PRETENSÃO DE PROGRESSÃO DE REGIME - PACIENTE CONTUMAZ NA PRÁTICA DELITIVA, MULTIREINCIDENTE, COMENTENDO O CRIME ATUAL NO DECORRER DA EXECUÇÃO DA PENA POR CRIME DIVERSO - PRISÃO PREVENTIVA - PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CPP - DECISÃO DEVIDAMENTE FUNDAMENTADA EM DADOS CONCRETOS - QUE MODUS OPERANDI EVIDENCIA GRAVIDADE EXACERBADA - RISCO À ORDEM PÚBLICA E IMPRESCINDIBILIDADE DA INSTRUÇÃO PROCESSUAL - INTERPOSIÇÃO DE RESE, JULGADO IMPROCEDENTE - CONDIÇÕES PESSOAIS FAVORÁVEIS NÃO IMPEDEM A DECRETAÇÃO DA PRISÃO CAUTELAR. APLICAÇÃO DE MEDIDAS CAUTELARES DETERMINADAS PELA LEI 12.403/11 - IMPOSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE INDEFERIU A LIMINAR - ORDEM DENEGADA - DECISÃO UNÂNIME."
+Nas razões recursais, afirma que o Recorrente " j á cumpriu pena em regime fechado por tempo suficiente para a obtenção da progressão da pena para o regime semi aberto e, em razão do mandado de prisão em aberto por este processo não conseguiu a obtenção do benefício da progressão da pena." (fls. 240-241).
+Defende que "com base no que explicitam os artigos 312, § 2º e 315, § 1 do CPP, e tendo em vista a ausência de contemporaneidade e de qualquer elemento em desfavor do réu ou objetivo da ordem pública, solicito a revogação da prisão com a concessão da liberdade com ou sem aplicação das medidas previstas no art. 319, I, II, III, IV, V e IX do CPP, inclusive, a prisão domiciliar com a utilização da tornozeleira eletrônica." (fl. 244).
+Salienta que "O paciente não responde a outra ação penal, portanto, nada impede que sejam concedidas as medidas cautelares diversas da prisão como a utilização de tornozeleira e prisão domiciliar, já que o mesmo possui residência fixa, especialmente nesse período de pandemia e pelo fato de haver superlotação nas unidades prisionais do estado." (fl. 245).
+Aduz que "não há nos autos qualquer fato novo/contemporâneo que possa amparar a manutenção da prisão preventiva, conforme exigem os artigos 312, § 2º e 315, § 1º do CPP" (fl. 246).
+Requer, inclusive liminarmente, a revogação da prisão preventiva e a expedição de alvará de soltura em favor do Recorrente.
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, pois a Defesa não acostou aos autos cópia das peças processuais necessárias à compreensão da controvérsia, notadamente o inteiro teor do decreto de prisão preventiva e de eventuais decisões proferidas no feito.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ.
+No mesmo sentido: HC n. 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 08/05/2019; HC n. 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n. 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 08/05/2019; HC n. 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA . PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
