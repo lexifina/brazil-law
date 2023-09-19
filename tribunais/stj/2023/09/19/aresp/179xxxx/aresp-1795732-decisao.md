@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO JOSE FONTANEZI contra decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que negou seguimento ao recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 1 ano e 3 meses de detenção, em regime inicial aberto, e multa, pela prática do delito previsto no art. 67 da Lei n. 9.605/1998.
+A defesa e o Ministério Público apresentaram recursos de apelação perante o Tribunal de origem, o qual negou provimento ao recurso defensivo e proveu parcialmente o ministerial. O acórdão foi assim ementado (e-STJ fl. 636):
+PENAL. PROCESSUAL PENAL. APELAÇÕES CRIMINAIS. CONCESSÃO INDEVIDA DE LICENÇA, AUTORIZAÇÃO OU PERMISSÃO AMBIENTAL. ARTIGOS 66 E 67 DA LEI Nº 9.605/98. APLICABILIDADE DO PRINCÍPIO DA CONSUNÇÃO. CONSEQUÊNCIAS DO CRIME. RECONHECIMENTO DE CIRCUNSTANCIA JUDICIAL DESFAVORÁVEL. TIPICIDADE. DOLO.
+I  Inobstante não haja, em abstrato, relação necessária entre os tipos penais dos arts. 66 e 67 da Lei de crimes ambientais, no caso concreto, verificou-se que a potencialidade lesiva contida na declaração falsa realizada pelo réu se exauriu na concessão da autorização para construção de ponte sobre o Rio Sesmarias, que se deu em desacordo com as normas de proteção ambiental vigentes. Aplicável, portanto, o princípio da consunção a determinar a absorção, em analogia com o disposto na súmula 17 do STJ.
+II - Reconhecimento de circunstância judicial desfavorável quanto ao delito previsto no art. 67 da Lei nº 9.605/98 em razão da consequência do crime, por ter sido permitida destruição de vegetação, afetando projeto de reflorestamento de Mata Atlântica.
+III  São as próprias normas ambientais, às quais se refere o art. 67, que preveem os órgãos competentes para a concessão de licença, autorização ou permissão. Desta forma, o funcionário público que as desobedece, concedendo-as quando não possui atribuição legal para tanto, incorre no tipo penal em apreço.
+IV - Não é digna de credibilidade a tese de que o réu, presidente de autarquia municipal, desconhecia os requisitos legais para firmar autorização de construção em áreas ambientalmente protegidas. Portanto, resta patente o dolo em sua conduta de prestar declaração falsa no sentido de que a obra estava aprovada pelo INEA, embasando, nesse contexto, o ato administrativo de autorização praticado em violação às normas de proteção ambiental vigentes.
+V  Recurso de apelação criminal da defesa não provido e recurso de apelação criminal do MPF parcialmente provido.
+A defesa opôs embargos de declaração, os quais foram rejeitados. Eis a ementa do julgado (e-STJ fl. 694):
+EMBARGOS DE DECLARAÇÃO. ART. 619 DO CPP. FUNDAMENTAÇÃO CLARA, INCONTROVERSA E EXAUSTIVA.
+I - Não há obscuridade, ambiguidade, contradição ou omissão de ponto ou questão "sobre a qual deveria ter se pronunciado o tribunal de oficio ou a requerimento (art. 619 do CPP).
+II - Acórdão fundamentado de forma clara, incontroversa e exaustiva à elucidação da lide.
+III - Embargos de declaração não providos.
+No recurso especial, apresentado com fulcro no art. 105, III, a e c, da Constituição Federal, a defesa alegou violação aos arts. 67 da Lei n. 9.605/1997, 1º do Código Penal, e 158 e 159, § 1º, do Código de Processo Penal, além de dissídio jurisprudencial.
+Afirmou que o recorrente não teria competência para conceder autorização ou licenças, por isso não poderia ser condenado pelo crime do art. 67 da Lei n. 9.605/1997. Apontou dissídio jurisprudencial com relação ao presente ponto.
+Argumentou, ainda, que não foi realizada prova pericial para caracterizar a materialidade do ilícito.
+Requereu, assim, a absolvição do recorrente.
+O recurso especial foi inadmitido com fundamento na ausência de contrariedade aos artigos infraconstitucionais mencionados, bem como na aplicação da Súmula n. 7/STJ e na ausência de cotejo analítico para demonstrar o dissídio jurisprudencial.
+Daí o presente agravo em recurso especial, no qual a defesa alega que não incidiria os referidos óbices processuais.
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+Com relação à ausência de competência para conceder autorização e licenças, tem-se que a Corte de origem consignou que (e-STJ fls. 632, grifei):
+II  Do recurso de Paulo José Fontanezi Alega o recorrente a atipicidade da conduta no conduta no que se refere ao art. 67 da Lei nº 9.605/98, por não ter atribuição funcional para a concessão da licença, autorização ou permissão.
+Como já afirmado, o art. 67 da Lei no 9.605/98 tipifica a conduta do funcionário público que concede "licença, autorização ou permissão em desacordo com as normas ambientais, para as atividades, obras ou serviços cuja realização depende de ato autorizativo do Poder Público."
+De plano, se percebe que a norma não exige que o sujeito ativo, além da condição especial de ser funcionário público (considerado aquele do art. 327 do Código Penal), tenha a atribuição funcional para a concessão das citadas licença, autorização ou permissão.
+Demais disso, são as próprias normas ambientais, a que se refere o art. 67, que preveem os órgãos competentes para a concessão de licença, autorização ou permissão, de forma que o funcionário público que as desobedece, concedendo-as quando não possui atribuição, também incorre no tipo penal em apreço.
+Como se vê, o agravante foi denunciado em razão de, "no exercício do cargo público de Presidente da Agência do Meio Ambiente de Resende  AMAR, imbuído de vontade livre e consciente, concedeu a autorização ambiental n. 49/11, em desacordo com as normas ambientais, à empresa PREMAG  Sistemas de Construções Ltda. para construir uma ponte sobr e o rio Sesmaria, na altura do Parque de Aviação, na Av. Darcy Ribeiro, sin., no Município de Resende/RJ, ato que dependia de autorização do órgão ambiental estadual. E fez constar na autorização que o Instituto Estadual do Ambiente  INEA aprovou a construção da ponte, no procedimento administrativo E- 07/504756/2011, o que não era verdade. Além disso, se valendo de terceiro induzido a erro, destruiu floresta de preservação permanente ainda em formação sem a devida autorização ambiental, impedindo ainda a regeneração natural da área" (e-STJ fl. 528).
+E alega, no presente recurso especial, que não teria competência para conceder a referida autorização ambiental, não podendo, portanto, ser condenado pelo crime previsto no art. 67 da Lei n. 9.605/1998.
+Contudo, ainda que não fosse competente, agiu como se fosse, concedendo a referida autorização, o que ocasionou a destruição de floresta de preservação permanente.
+Dessa maneira, a Corte estadual consignou que "a norma não exige que o sujeito ativo, além da condição especial de ser funcionário público (considerado aquele do art. 327 do Código Penal), tenha a atribuição funcional para a concessão das citadas licença, autorização ou permissão".
+De fato, não há na norma a necessidade de nenhuma atribuição funcional para o reconhecimento do crime que foi imputado ao recorrente, bastando que seja cometido por funcionário público, tal como nela previsto, de modo que a manutenção da condenação encontra-se devidamente fundamentada.
+No tocante à alegação de necessidade de perícia, destaco que o Superior Tribunal de Justiça entende que "o delito do art. 67 da Lei n. 9605/1998 possui natureza formal, sendo suficiente a simples emissão do ato administrativo. Eventual dano ou prejuízo material a dvindo da ação delitiva consistirá mero exaurimento da infração penal. Não se exige, portanto, a realização de perícia, nos termos dos arts. 158, 159, §1º, do Código de Processo Penal" (AgRg no AREsp n. 1.857.048/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/8/2021, DJe de 10/8/2021).
+Incide, nesse ponto, a Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
