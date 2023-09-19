@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE MURIAÉ, com fundamento no art. 105, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+ADMINISTRATIVO - CONTRATO DE TRABALHO DE EXCEPCIONALINTERESSE PÚBLICO - ADICIONAL DE INSALUBRIDADE - PROVA PERICIALCONCLUSIVA DA EXISTÊNCIA DA INSALUBRIDADE - ADICIONAL DEVIDO. Estando provado que a contratada exercia atividade em local insalubre, nocivo à sua saúde, tem direito à percepção do adicional de insalubridade (fl. 432).
+Os embargos de declaração opostos foram rejeitados (fls. 463/466).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 333, I, 535, II, do CPC/1973; 190 da CLT; 1º, § 2º, da Lei 6.899/1981 e 21 da LRF. Sustenta, em síntese, os seguintes pontos:
+a) nulidade do acórdão recorrido por negativa de prestação jurisdicional;
+b) o adicional de insalubridade deve ser calculado com base no salário mínimo básico do município, e não sobre o salário base do servidor;
+c) ausência de comprovação pela recorrida de que trabalhava sob condição insalubre;
+d) o termo inicial da correção monetária deve ser o ajuizamento da ação;
+e) impossibilidade de concessão de despesa para o município sem o necessário cumprimento das normas de Direito Financeiro;
+f) necessidade de aplicação do disposto no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, a título de juros e correção monetária.
+A parte adversa não apresentou contrarrazões conforme certidão de fl. 511.
+Diante da afetação dos Temas 810/STF e 905/STJ, foi realizado juízo de retratação pelo colegiado, nos termos da ementa de fls. 584/585.
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A parte recorrente pretende a anulação do acórdão proferido pelo Tribunal de origem em embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a parte recorrente argumentou e requereu a manifestação expressa do órgão julgador, dentre outras questões, a respeito da base de cálculo sobre a qual deverá ser calculado o adicional de insalubridade que, no seu entender, deverá ser sobre o salário mínimo básico do município, e não sobre o salário-base do servidor. Pretendeu também a manifestação sobre a aplicação dos arts. 169, § 1º, da CF e 21 da LRF, que exigem a prévia dotação orçamentária e autorização na LDO.
+Evidencio que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 535, II, do CPC/1973, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+1. No sistema do CPC/1973, os Embargos de Declaração eram cabíveis nas hipóteses legais de omissão, contradição ou obscuridade (art. 535), tendo a jurisprudência entendido possível serem oferecidos também para que fosse apontada a existência de erro material. No CPC/2015, estes continuam a ser os casos de interposição do recurso (art. 1.022).
+2. O recurso de Embargos de Declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6.11.2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel. Ministro Castro Meira, Corte Especial, DJe 13/6/2012; e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+3. Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os Embargos de Declaração.
+4. Embargos de Declaração rejeitados. (EDcl no AgInt no AREsp n. 895.327/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2016, DJe de 19/12/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 9/8/2016, DJe de 23/8/2016.)
+Ante o exposto, dou provimento ao recurso especial, anulando o acórdão proferido no julgamento dos embargos de declaração, e determino o retorno dos autos ao Tribunal de origem, a fim de que aprecie as matérias articuladas nos aclaratórios.
+Publique-se. Intimações necessárias.
+EMENTA
