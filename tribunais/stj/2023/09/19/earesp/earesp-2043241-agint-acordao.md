@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/09/2023 a 19/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO, TENDO EM VISTA A INCIDÊNCIA DA SÚMULA 211 DO STJ. EMBARGOS INDEFERIDOS LIMINARMENTE. APLICAÇÃO DA SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, como no caso, tendo em vista o que dispõe o enunciado n. 315 da Súmula desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+2. Registre-se que "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.423.657/PE, Relatora a Ministra Nancy Andrighi, DJe de 9/12/2021).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Vibra Energia S.A. contra a decisão desta relatoria, que indeferiu liminarmente os embargos de divergência, sob o fundamento de incidência da Súmula 315/STJ.
+A agravante se insurge contra contra o referido óbice, sustentando que "não se discute nos embargos de divergência a existência ou não de ofensa ao art. 413 do CC/02; mas tão somente o fato da redução da cláusula penal ser uma norma de ordem pública e, portanto, de observância obrigatória. É dizer: é dever do juiz e direito do devedor a redução prevista no art. 413" (e-STJ, fl. 2.055).
+Alega ser "excessivo o percentual de 10% (dez por cento) de multa penal sobre o valor dos produtos adquiridos quando a obrigação em si (comissões) previa um percentual médio de 2,4% sobre a mesma base e período" (e-STJ, fl. 2.056).
+Entende que, "ao não determinar a redução pelo Tribunal de origem da cláusula penal, norma de ordem pública e que, portanto, deveria ter sido obrigatoriamente observada pelas instâncias ordinárias, o v. acórdão da Quarta Turma desta e. Corte Especial acabou por analisar o mérito para dizer que a norma constante do art. 413 do CC/02 não é de observância obrigatória, indo de encontro ao paradigma citado, razão pela qual não se aplica a súmula 315 ao presente caso" (e-STJ, fl. 2.057).
+Ao final, pede o provimento do recurso.
+Impugnação às fls. 2.064-2.075 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO, TENDO EM VISTA A INCIDÊNCIA DA SÚMULA 211 DO STJ. EMBARGOS INDEFERIDOS LIMINARMENTE. APLICAÇÃO DA SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, como no caso, tendo em vista o que dispõe o enunciado n. 315 da Súmula desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+2. Registre-se que "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.423.657/PE, Relatora a Ministra Nancy Andrighi, DJe de 9/12/2021).
+3. Agravo interno desprovido.
+VOTO
+O agravo não merece provimento.
+Conforme ressaltado na decisão agravada, a análise dos autos denota a inadmissibilidade dos embargos de divergência, pois, consoante a jurisprudência sedimentada deste Tribunal, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, tendo em vista o que dispõe o enunciado n. 315 da Súmula desta Corte Superior:
+Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Nesse sentido, confira-se o seguinte precedente:
+EXECUÇÃO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. INCIDÊNCIA DO ENUNCIADO N. 315/STJ. AUSÊNCIA DE JULGAMENTO DO MÉRITO NESTA CORTE.
+I - Trata-se de agravo interno contra decisão da Presidência que indeferiu liminarmente os embargos de divergência, com incidência do enunciado n. 315 da Súmula do STJ, diante da inexistência de julgamento de mérito no acórdão objeto dos embargos de divergência.
+II - O acórdão objeto dos embargos de divergência foi proferido na E. Primeira Turma.
+III - Não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor do enunciado n. 315 da Súmula desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+IV - No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe 19/4/2017; AgInt nos EAREsp n. 315.046/SP, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 5/4/2017, DJe 25/4/2017; AgInt nos EAg n. 1.357.322/DF, Rel. Ministro Felix Fischer, Corte Especial, julgado em 7/12/2016, DJe 15/12/2016; EAREsp n. 559.766/DF, Rel. Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016; AgInt nos EREsp n. 1.226.477/RS, Rel. Ministro Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe 26/10/2016.
+V - No caso dos autos, o arresto embargado não analisou o mérito da controvérsia, pois não se conheceu do recurso especial por incidência do enunciado n. 7 da Súmula do STJ. Assim, é inaplicável o disposto no art. 1.043, III, do Código de Processo Civil de 2015, e são manifestamente incabíveis os embargos de divergência.
+VI - Ademais, o acórdão objeto do recurso especial foi publicado em 28 de fevereiro de 2014, e após o julgamento do REsp 1.336.026/PE (Tema 880/STJ), a Primeira Seção do Superior Tribunal de Justiça decidiu pela modulação dos efeitos do julgado, a fim de que o prazo prescricional, independentemente da juntada das fichas financeiras pela parte executada, tenha início a partir do dia 30/6/2017. Nesse sentido: AgInt nos EDv nos EREsp 1.441.215/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 27/2/2019, DJe 11/3/2019.
+VII - Agravo interno improvido.
+(AgInt nos EDv nos EAREsp n. 697.798/RS, Relator o Ministro Francisco Falcão, Primeira Seção, DJe de 19/8/2019)
+No caso em análise, consta que a ora agravante apontou, no recurso especial, violação dos "arts. 406, 408, 412 e 413 do Código Civil e art. 27 "j", da Lei nº 4.886/65, defendendo que o valor fixado a título de multa não poderia ultrapassar o valor da obrigação principal e que o juiz tem o dever de reduzir equitativamente quando essa se mostrar excessiva ou cumprida parcialmente" (e-STJ, fl. 1.928). Quanto ao dever de redução equitativa da multa contratual, a Quarta Turma consignou que, "não examinada pela instância ordinária a matéria objeto do especial, inafastável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Sumula 211/STJ" (e-STJ, fl. 1.931).
+Inafastável, portanto, a Súmula n. 315/STJ.
+Registre-se que "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.423.657/PE, Relatora a Ministra Nancy Andrighi, DJe de 9/12/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
