@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODRIGO ANGELO DE SOUZA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução Penal n. 0002967-07.2023.8.26.0521.
+Consta dos autos que o Juízo das Execuções Penais indeferiu o pedido de remição pelo estudo formulado pelo Apenado com base em aprovação parcial no Exame Nacional do Ensino Médio (fl. 31).
+Irresignado, o Reeducando interpôs agravo em execução, ao qual foi negado provimento pelo Tribunal estadual nos termos do acórdão assim ementado (fl. 46): "Agravo em execução. Remição de pena. Conclusão parcial do ENEM. Falta de documentação comprobatória. Não provimento ao recurso."
+Neste writ, sustenta-se, em suma, que, não obstante o Ministério da Educação tenha vedado em 2017 a possibilidade de obtenção de certificado de conclusão do Ensino Médio pelo ENEM, "o princípio da ressocialização do preso permeia todo o ordenamento jurídico interno, sendo assim, desconsiderar a aprovação na prova de maior dimensão que temos em âmbito nacional, não apenas viola o objetivo a ser perseguido pela referida Recomendação, que ainda continua em vigor, mas também cria obstáculos desnecessários para a reinserção do indivíduo na sociedade" (fl. 10).
+Requer-se, liminarmente e no m érito, seja determinada ao Juízo da Execução Penal a apreciação do pedido de remição "devido ao seu bom desempenho no ENEM, tendo em vista que a documentação apresentada é suficiente para tanto" (fl. 10).
+O pedido liminar foi indeferido (fls. 51-52).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 88-97).
+É o relatório. Decido.
+O Juízo da Execução Penal, ao indeferir o pedido de remição da pena por estudo formulado pelo Apenado, em razão da sua aprovação parcial no ENEM, pontuou a seguinte fundamentação, in verbis (fl. 31):
+"Observo que o reeducando fora aprovado parcialmente no exame, de forma que não faz jus ao benefício.
+Ademais, aduz o art. 1º, inciso IV, da Recomendação nº 44/2013 do CNJ: "obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM)(..)" (grifei).
+Sem prejuízo, observo que a Defesa foi devidamente intimada a instruir o pedido de remição de pena. Contudo, decorrido o prazo fixado, manteve-se silente.
+Assim, em virtude da ausência dos comprovantes, indefiro o pedido de remição de penas formulado  .. ."
+Contudo, o entendimento utilizado pelo Magistrado está em descompasso com a orientação firmada pelas Turmas que integram a Terceira Seção do Superior Tribunal de Justiça no sentido de haver direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM. De fato, a aprovação no ENEM, a despeito de "não mais ocasionar a conclusão do ensino médio, configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ" (AgRg no HC n. 762.985/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 06/09/2022, DJe 13/09/2022.).
+No mesmo sentido:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO
+PRÓPRIO. NÃO CABIMENTO. REMIÇÃO DE PENA. ART. 126 DA LEP. RECOMENDAÇÃO N. 44/CNJ. RESOLUÇÃO N. 391/CNJ. APROVAÇÃO PARCIAL NO ENEM. 4 (QUATRO) MATÉRIAS. CONCLUSÃO DA ETAPA ANTERIORMENTE. ACRÉSCIMO DE 1/3 (UM TERÇO) AFASTADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA COM RECOMENDAÇÃO.
+ ..
+II - Esta Corte Superior firmou orientação no sentido de que é "viável a concessão da remição por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal" (AgRg no AREsp n. 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/3/2016). Assim está autorizada a concessão da remição pelo estudo nas hipóteses previstas na Recomendação n. 44/2013 e Resolução n. 391/2021, ambas do CNJ. Precedentes.
+III - In casu, tendo em vista que o apenado não realizava estudo de maneira formal, restando aprovado em 4 (quatro) áreas de conhecimento, deve ter a sua pena proporcionalmente remida.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer
+80 (oitenta) dias de remição de penas ao paciente, também determinando, ao d. Juízo da Execução Penal, que proceda aos novos cálculos para benefícios, com recomendação de celeridade." (HC 722.547/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 22/03/2022, DJe 28/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. APROVAÇÃO NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO). ART. 126 DA LEP. RECOMENDAÇÃO 44/2013 DO CNJ. REMIÇÃO DE PENA PELO ESTUDO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. "A interpretação mais ampla do art. 126 da LEP, de acordo com a Recomendação n. 44/2013 do CNJ, permite a remição da pena pelo estudo ao apenado não vinculado a atividade regular de ensino que obtém, por esforço próprio, aprovação em exame nacional (ENEM) que certifique o ensino médio a jovens e adultos." (HC 420.682/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/05/2018, DJe 11/05/2018).
+2. A aprovação no ENEM, a despeito de "não mais ocasionar a conclusão do ensino médio, configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ" (AgRg no HC 629.666/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021).
+3. Agravo regimental improvido." (AgRg no HC 644.108/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1. ª REGIÃO), SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021.)
+Ante o exposto, CONCEDO a ordem de habeas corpus para, afastado o fundamento de que a aprovação parcial no exame impede a remição da pena, determinar ao Juízo da Execução Penal que aprecie o pleito como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO PARCI AL NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO). INCENTIVO AO ESTUDO E À RESSOCIALIZAÇÃO COMO FINALIDADE PRECÍPUA DA PENA. INTERPRETAÇÃO EXTENSIVA DO ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. POSSIBILIDADE. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. PRECEDENTES. ORDEM CONCEDIDA.
