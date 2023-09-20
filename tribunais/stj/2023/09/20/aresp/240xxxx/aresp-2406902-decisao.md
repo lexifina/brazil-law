@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de ação ordinária referente à inexigibilidade de débito com operadora de telefonia. Na sentença julgou-se o pedido procedente e fixou-se honorários em 10% sobre o valor do débito. No Tribunal a quo a sentença foi reformada para majorar os honorários em 20% do valor da causa, atualizado. O valor da causa foi fixado em R$ 2.000,00 (Dois mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+Prestação de serviços. telefonia. declaratória de inexigibilidade de débito prescrito. sentença de procedência. honorários advocatícios fixados em 10% sobre o valor do débito cobrado. Montante irrisório e aviltante ao trabalho desempenhado pelo patrono da parte. Majoração para 20% sobre o valor da causa atualizado. Observância dos parâmetros das alíneas do § 2º, do art. 85, do CPC. Recurso provido.
+O montante da verba honorária fixada pela sentença é irrisório e aviltante ao trabalho desempenhado pelo patrono da parte, razão pela qual deve ser majorado, considerando-se os parâmetros delineados no § 2º do artigo 85, do Código de Processo Civil, como a natureza da demanda declaratória, a simplicidade da causa, o tempo e o trabalho desenvolvido pelo advogado da parte, fixando-se a verba honorária em 20% do valor da causa atualizado.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Vê-se que a r. sentença fixou os honorários advocatícios em 10% sobre o valor do débito cobrado e, considerando o valor do débito indicado no documento de fls. 22 (R$ 355,18), corresponde a verba honorária a R$ 35,51, o quese revela valor ínfimo e aviltante ao trabalho desempenhado pelo patrono da parte.
+No caso, foi atribuído valor da causa que não pode serconsiderado baixo a ponto de ensejar a aplicação do critério da equidade, nos termosdo artigo 85, § 8º, do Código de Processo Civil.
+Assim, considerando os parâmetros delineados no § 2º do artigo 85, do Código de Processo Civil, a natureza dessa demanda declaratória, a simplicidade da causa, o tempo e o trabalho desenvolvido pelo patrono da parte, bemcomo o valor atribuído à causa (R$ 2.000,00), fixa-se a verba honorária em 20% do valor da causa atualizado.
+Quanto à matéria de fundo, notadamente acerca de honorários advocatícios, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
