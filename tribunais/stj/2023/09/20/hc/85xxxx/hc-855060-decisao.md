@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIANA GOUVEIA DA SILVA MELO contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação n. 0003627-76.2019.8.16.0017).
+Consta dos autos que a paciente foi condenada, em primeiro grau de jurisdição, às penas de 8 anos de reclusão, em regime inicial fechado, e 1.200 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, em concurso material (e-STJ fls. 32/62).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 15/31), em acórdão assim ementado:
+APELAÇÃO CRIME. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ART. 33, CAPUT, E ART. 35, AMBOS DA LEI 11.343/2006). SENTENÇA CONDENATÓRIA. INSURGÊNCIA DA DEFESA. PEDIDO DE RECONHECIMENTO DA NULIDADE DO FEITO POR INVASÃO DE DOMICÍLIO. SITUAÇÃO EXCEPCIONAL PREVISTA NO ARTIGO 5º, INCISO XI, DA C. F., QUE TORNA LEGÍTIMA A INTERVENÇÃO POLICIAL A QUALQUER MOMENTO, INDEPENDENTEMENTE DA ANUÊNCIA DO MORADOR OU DA EXISTÊNCIA DE MANDADO. CRIME PERMANENTE. ARGUIÇÃO AFASTADA. MÉRITO. PLEITOS DE ABSOLVIÇÃO PELOS CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO PELO DELITO DE TRÁFICO DE DROGAS. PROVAS SUFICIENTES PARA ALICERÇAR A CONDENAÇÃO. DEPOIMENTO DOS AGENTES DE SEGURANÇA EM CONSONÂNCIA COM AS DEMAIS PROVAS CONSTANTES NOS AUTOS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - PROVAS DA ESTABILIDADE E PERMANÊNCIA. IMPOSSIBILIDADE DO RECONHECIMENTO DA ABSOLVIÇÃO. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Em consulta ao Sistema Justiça, constato que a defesa ainda interpôs recurso especial, que não foi admitido na origem, bem como agravo em recurso especial, o qual não foi conhecido no âmbito desta Corte (ARESp 2.397.720/PR).
+No presente mandamus (e-STJ fls. 3/14), o impetrante sustenta que a paciente sofre constrangimento ilegal, pois o regime inicial fechado, mais gravoso que a pena de 8 anos de reclusão comporta, fundou-se na equivocada consideração de que ela é reincidente. Para tanto, aponta que, na dosimetria da pena, a paciente foi considerada primária e possuidora de bons antecedentes. Esclarece, ademais, que a paciente foi absolvida pelo Superior Tribunal de Justiça na ação Penal n. 0002067-02.2019.8.16.0017. Nesse contexto, tratando-se de ré primária, argumenta que a paciente faz jus ao regime semiaberto.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o regime inicial da paciente seja alterado para semiaberto.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, a tese ora suscitada - apontada ilegalidade no estabelecimento do regime inicial fechado - não foi objeto de debate pelo Tribunal a quo.
+Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DESCLASSIFICAÇÃO DA CONDUTA PARA MERO USUÁRIO. REEXAME DE FATOS. INCABÍVEL NA VIA ELEITA. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. AUMENTO VÁLIDO. BENEFÍCIO DO ART. 33, §4º, DA LEI N. 11.343/06. ATENUANTE DE CONFISSÃO. SUPRESSÃO. SUBSTITUIÇÃO DE PENA. INVIÁVEL. PENA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O acordão combatido não tratou das matérias de aplicação do redutor da pena previsto no § 4º do artigo 33 da Lei n. 11.343/2006 e atenuante da confissão, sendo assim, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 787.900/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO EM CONCURSO MATERIAL. PRETENDIDA ABSOLVIÇÃO PELO CRIME DE ASSOCIAÇÃO. INVIABILIDADE. CONTUNDENTE ACERVO PROBATÓRIO PARA LASTREAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO PELO ART. 35 DA LAD OBSTA A APLICAÇÃO DO REDUTOR. INDICAÇÃO DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA REPRIMENDA. INVIABILIDADE. EXPRESSA DETERMINAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- O pleito relativo ao reconhecimento da atenuante da confissão espontânea não foi submetida à apreciação e, tampouco analisada pela Corte estadual, tratando-se, portanto, de matéria nova somente aventada neste mandamus, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+- Agravo regimental não provido. (AgRg no HC n. 783.595/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
