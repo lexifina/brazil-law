@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Kennedy Vinicios Dias Ribeiro - atacando-se acórdão proferido pelo Tribunal de Justiça de São Paulo (HC n. 2212516-34.2023.8.26.0000 - fls. 19/24) que manteve a conversão da prisão em flagrante do paciente, ocorrida em 4/8/2023, pela prática, em tese, do crime de tráfico de drogas (844 g de maconha - fl. 50), em preventiva nos Autos n. 1500198-29.2023.8.26.0560 (fls. 25/26), da 1ª Vara Criminal da comarca de Votuporanga/SP -, comporta pronto acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar, ao argumento de deficiência de fundamentação: a decisão impugnada apenas citou dados do caso concreto, em o transporte da droga, porém sem analisar a real existência dos requisitos para a prisão preventiva (fl. 5).
+Da atenta análise dos autos, observa-se que o decreto prisional não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, instrução criminal ou futura aplicação da lei penal, apenas justificando a medida extrema na gravidade abstrata do crime - o delito em questão é grave, equiparado a hediondo e indica a periculosidade do agente na medida em que o tráfico de drogas alimenta o crime organizado, eleva o índice de homicídios e atrai milhares de jovens para a marginalidade, aniquilando suas famílias e desestruturando a nossa sociedade (fl. 26) -, carecendo, assim, de fundamento apto a consubstanciar a prisão.
+A propósito: no caso, a despeito de o agente haver sido flagrado em posse de 1kg (um quilograma) de maconha, ele possui condições pessoais favoráveis e o delito em tela prescinde de violência ou grave ameaça (HC n. 662.754/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/8/2021, DJe de 25/8/2021).
+Em razão disso, concedo liminarmente a ordem para revogar a prisão preventiva imposta ao paciente nos Autos n. 1500198-29.2023.8.26.0560, da 1ª Vara Criminal da comarca de Votuporanga/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (844 G DE MACONHA). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA OU CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. AUSÊNCIA DE ELEMENTOS CONCRETOS. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INSUFICIENTE. REVOGAÇÃO QUE SE IMPÕE.
+Ordem liminarmente concedida nos termos do dispositivo.
