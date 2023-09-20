@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de BRAID WALAN PEREIRA DONATO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do HC n. 0017461-61.2023.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 9/11/2022, convertido em preventiva, e denunciado por ter supostamente praticado o delito tipificado no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal - CP (roubo majorado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"AÇÃO DE - ROUBO CIRCUNSTANCIADO -HABEAS CORPUSPRISÃO PREVENTIVA - PRESENÇA DOS REQUISITOS DO ART. 312,DO CPP - GRAVIDADE CONCRETA DA CONDUTA - GARANTIA DAORDEM PÚBLICA - AUSÊNCIA DE FUNDAMENTAÇÃO NÃOEVIDENCIADA - CONDIÇÕES PESSOAIS FAVORÁVEIS -IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS -INAPLICABILIDADE - CONSTRANGIMENTO ILEGAL NÃOCARACTERIZADO - ORDEM DENEGADA.
+Não há constrangimento ilegal quando a prisão preventiva foi decretada para a garantia da ordem pública, em razão da gravidade concreta da conduta, em tese, praticada pelo agente. Mesmo o custodiado ostentando condições pessoais favoráveis, a imprescindibilidade da sua permanência no cárcere se sobrepõe ao seu direito de liberdade.
+Demonstrada a necessidade de afastamento do paciente do convívio social, não se lhe aplicam as medidas cautelares diversas da prisão.
+Ordem conhecida e denegada" (fl. 37).
+No presente writ, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as circunstâncias pessoais favoráveis do paciente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 52/54. Informações prestadas às fls. 60/63 e 67/119. O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 121/127 .
+É o relatório.
+Decido.
+De acordo com informações encaminhadas pelo Tribunal de origem (fls. 72/111), verifica-se que, nos autos da Ação Penal n. 0064354-05.2022.8.16.0014, em 31/5/2023, sobreveio sentença condenando o ora paciente às penas de 7 anos e 11 meses de reclusão, em regime inicial fechado, e ao pagamento de 90 dias-multa, pela prática do delito previsto no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Não concedo aos réus condenados o direito apelarem em liberdade, haja vista que responderam a todo o processo, presos, além de persistirem as circunstâncias que ensejaram a decretação da prisão preventiva.
+Além disso, todos receberam o regime fechado, dada a gravidade do crime.
+A menção das vítimas sobre terem medo de estarem na rua após o anoitecer é a sensação que grande parte da sociedade apresenta, considerando que crimes como da espécie dos autos, abala a ordem social de modo elevado.
+Ademais, com a condenação fica reforçada a necessidade do resguardo à ordem pública, evitando-se situação de perplexidade social, eis que os acusados responderam a todo o processo, presos, não existindo motivo para que sejam soltos justamente agora. Portanto, estão presentes os requisitos do art. 312 do CPP" (fl. 110).
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do reanálise do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA FUNDAMENTAÇÃO. EFEITOS DA CONDENAÇÃO. PERDA DO OBJETO.
+1. Na sentença condenatória, foi novamente analisado o cenário fático- processual, entendendo-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novo fundamento, ou seja, como um efeito da própria condenação penal (a reprimenda fixada).
+2. Ora, a superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019). 3. Agravo regimental improvido (AgRg no RHC 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/02/2022).
+3.  ..  In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do agravante, agregando fundamentos novos ao decreto prisional, tendo ressaltado que: "Sendo conveniente assegurar a aplicação da lei penal em consideração ao crime praticado e tempo de pena arbitrada, preserva-se o estado de custódia do processado". Dessa forma, quanto à ausência de fundamentos da prisão preventiva, o pleito encontra-se prejudicado (AgRg no HC n. 712.721/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 02/03/2022).
+4. Agravo regimental improvido.
+(AgRg no HC n. 717.891/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
