@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PATRICIA MOREIRA SANTOS (PATRICIA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, PATRICIA alegou a violação dos arts. 1.200 e 1.201 do CC, ao sustentar que é pessoa carente e que atende aos requisitos para enquadramento nos programas oficiais de habitação, e que deu cumprimento à função social da posse, ocupando o imóvel com sua filha menor há mais de uma década, razão pela qual pugnou pela transferência da titularidade do contrato de financiamento para o seu nome, responsabilizando-se pela dívida pendente.
+Trata-se de ação de rescisão contratual cumulada com reintegração de posse ajuizada por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO (CDHU) contra a ora recorrente, FRANCISCO CARLOS DOS ANJOS e EURENICE GUIMARÃES DOS ANJOS, alegando, em resumo, que celebrou com os dois últimos corréus contrato de compromisso de compra e venda de unidade habitacional popular, tendo ficado configurado o inadimplemento dos mutuários. Aduziu que, apesar da notificação extrajudicial para pagamento, os requeridos permaneceram inertes, bem como, cederam o imóvel a PATRICIA, descumprimento as disposições da avença.
+No que se refere à tese recursal ora deduzida, consignou o TJSP, por ocasião do julgamento do recurso de apelação da ora insurgente, que não há amparo legal para que a CDHU seja compelida a anuir com a cessão de direitos a terceiros, ressaltando o que se segue:
+In casu, o que deve ser evidenciado, é a ocupação do imóvel de forma irregular pela apelante, a qual pretende afastar a reintegração da posse do imóvel, sob o fundamento de que deu função social à posse do imóvel, bem como que a autora carece de interesse processual quanto à demanda possessória.
+Entrementes, note-se que os imóveis construídos pelo Sistema Financeiro Habitacional têm como destinatárias as pessoas de baixa renda, as quais devem atender aos requisitos previstos em lei e aguardar em fila de espera, de modo que não podem ser doados, transmitidos ou alienados sem o conhecimento da Companhia de Habitação.
+ ..
+Imperioso destacar que a anuência da CDHU para a validade da cessão de direitos a terceiros é indispensável, já que a posse do imóvel é cedida em caráter personalíssimo, cujos subsídios concedidos pela autora são pessoais e intransferíveis, e não podem ser cedidos sem nova análise de perfil e renda familiar.
+A transmissão da posse das unidades habitacionais decorrentes de contratos firmados com a autora é ilegal, pois infringe disposição expressa constante do contrato firmado com o adquirente e descumpre a preferência estabelecida entre aqueles que aguardam regularmente a disponibilização dos imóveis (e-STJ, fls. 341/342).
+Desse modo, para ultrapassar a convicção firmada na Corte local - no sentido de que a alteração da posse, sem prévia autorização da CDHU, não possui amparo legal - seria necessária a interpretação de disposições contratuais, bem como o reexame de circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+MAJORO em R$ 500,00 (quinhentos reais) o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. INADIMPLEMENTO DAS PARCELAS E CESSÃO DO IMÓVEL PARA TERCEIRO SEM COMUNICAÇÃO E ANUÊNCIA DA CDHU. QUEBRA DO CONTRATO. OCUPAÇÃO IRREGULAR DO BEM. REGULARIZAÇÃO DA SITUAÇÃO DA CESSIONÁRIA. INTERPRETAÇÃO DE DISPOSIÇÕES CONTRATUAIS E REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
