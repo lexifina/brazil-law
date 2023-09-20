@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO MARANHÃO contra acórdão prolatado, por unanimidade, pela 4ª Câmara Cível do Tribunal de Justiça do Estado do Maranhão no julgamento de Agravo de Instrumento, assim ementado (fl. 144e):
+DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de agravo de instrumento, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMANBENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)
+III - Agravo interno desprovido.
+Opostos Embargos de Declaração, foram rejeitados (fls. 178/209e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 11, 489 §1º, IV, 927, 1.022, II, e 1.025 do Código de Processo Civil de 2015, alegando-se, em síntese, que "o Relator se recusou a enfrentar os fundamentos apresentados pelo Ente Público no que se refere às questões supracitadas, apresentando uma fundamentação completamente alheia à temática dos autos" (fl. 214e).
+Com contrarrazões (fls. 222/228e), o recurso foi admitido (fls. 230/233e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+De pronto, não se pode conhecer da apontada violação ao art. 1.022 do Código de Processo Civil, uma vez que o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Espelhando tal entendimento:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. No que se refere à alegação de infringência à Súmula, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF.
+3. A jurisprudência desta Corte é uníssona no sentido de que, sobrevindo extinção da execução fiscal em razão do cancelamento da certidão de dívida ativa após a citação válida do executado, a Fazenda Pública deve responder pelos honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes: AgRg no AREsp 791.465/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/08/2016, DJe 31/08/2016; REsp 1648213/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/04/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.134.984/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 06/03/2018 - destaque meu).
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO. PRESCRIÇÃO DE FUNDO DE DIREITO. CARACTERIZAÇÃO.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. Precedentes.
+3. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.712.328/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/04/2018, DJe 09/04/2018 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Prejudicada, por conseguinte, a análise do pedido de efeito suspensivo.
+Publique-se e intimem-se.
+EMENTA
