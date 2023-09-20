@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALAN JHONYS ALVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (AGRAVO EM EXECUÇÃO PENAL 0003408-56.2022.8.26.0154).
+O Juízo da execução classificou a conduta de possuir máquina de tatuagem como falta disciplinar de natureza grave.
+A Corte de origem negou provimento ao agravo em execução penal (e-STJ fls. 17-21).
+A defesa alega: a) "as decisões judicial e administrativa violaram o postulado da legalidade, porquanto a conduta de possuir material destinado à confecção de tatuagem não é falta grave de desobediência, mas, sim, considerada falta leve ou média pela Resolução nº 144 da SAP, que disciplina o RIP (Regimento Interno Padrão) das Unidades Prisionais"; e b) "houve o malferimento do princípio da proporcionalidade, como proibição do excesso".
+Requer deferimento da ordem para "desclassificar a conduta para falta leve ou, no máximo, média".
+Informações prestadas (e-STJ fls. 108 e 127).
+Parecer do Ministério Público Federal pelo indeferimento da ordem (e-STJ fls. 152-154).
+É o relatório.
+O Juízo de primeiro grau, ao reconhecer a prática de falta grave, destacou que (e-STJ fls. 74-78):
+A conduta do sentenciado caracteriza, sim, falta disciplinar de natureza grave, pois a posse de máquina ou de instrumento apto para tanto, caracteriza desobediência às ordens do estabelecimento prisional e, dependendo da situação, posse de instrumento capaz de ofender a integridade física de outrem (LEP, art. 50, III e VI, este c. c. o art. 39, II e V).
+ ..
+Considerando que o sentenciado não cumpriu a simples condição de manter comportamento adequado durante o cumprimento da pena, uma vez que, quando os funcionários realizavam o procedimento de vistoria no interior da cela 06 (seis), do pavilhão 8 (oito), quando encontraram na primeira cama, inferior próximo ao banheiro, em meio aos pertences do detento WILLIAM HENRIQUE DE SOUSA BARBOSA, Matrícula 862.139-3, componentes de máquina de tatuagem artesanal, materiais não permitidos na Unidade Prisional. Questionado sobre a propriedade do material, foi quando WILIAN informou que só guardava e que o proprietário era o detento ALAN JHONYS ALVES DA SILVA, Matrícula 157.391-2, que confirmou o fato.
+Assim, vê-se que é necessária, como não haverá regressão, a perda de parte dos dias remidos. Tendo em vista que com essa ação mostrou-se completamente avesso às mínimas regras carcerárias, denotando desprezo às regras da execução penal, decreto a perda de 1/3 dos dias remidos e a remir até a data da prática da falta.
+Da mesma forma, não obstante o esforço da defesa, da data da falta é que correrá o lapso temporal para a obtenção dos benefícios de progressão, afastando-se, porém a interrupção para os demais casos. É esta a jurisprudência pacífica do S. T. J.
+ ..
+Ante o exposto, reconheço a falta praticada pelo sentenciado ALAN JHONYS ALVES DA SILVA, MTR: 1157391-2, RG: 57947671, RJI: 192795244-47, ora recolhido(a) no(a)Centro de Detenção Provisória de São José do Rio Preto e, acolho a pretensão ministerial, para decidir o seguinte:
+I - Declaro a perda de 1/3 (um terço) dos dias trabalhados e remidos anteriormente à data da referida falta, ou seja, 06/06/2022.
+II -Determino, ainda, que novo cálculo se faça apenas para o fim de se cumprir a presente decisão, ou seja, para a alteração do termo inicial do lapso exigido para a progressão, que deverá coincidir com a data da infração.
+O Tribunal de Justiça manteve a decisão nos seguintes termos (e-STJ fls. 17-21):
+Sendo certo, portanto, que o agravante infringiu o artigo 50, III VI, da Lei de Execução Penal, o reconhecimento da falta grave era medida de rigor, não se podendo falar em absolvição.
+Ainda, apesar do parecer da douta Procuradoria Geral de Justiça, entendo também que não é caso de desclassificar a conduta para falta média, visto que não se trata de mero porte de material proibido, mas sim de instrumento destinado à prática de outra atividade proibida no interior da unidade prisional, com potencial de vulnerar a integridade física de outros custodiados e ainda transmitir diversas doenças entre os sentenciados, sendo notória a dificuldade de dedetização de tal instrumento no interior da unidade prisional, o que pode auxiliar na proliferação de doenças no local, tudo a demonstrar a gravidade dos fatos e a necessidade de se manter o reconhecimento da falta grave, diante da desobediência às normas do estabelecimento prisional e da posse de instrumento capaz de ofender a integridade física de outrem.
+Impossível o perdimento de menor fração dos dias remidos. Tal fração se justifica ante a gravidade da conduta, a denotar desrespeito às normas da execução, o que bem indica que o agravante não vem assimilando a terapêutica penal.
+A interrupção do prazo para progressão de regime, por sua vez, é consequência lógica do cometimento da falta grave.
+A orientação desta Corte é no sentido de ser incabível declarar a atipicidade da conduta ou reexaminar provas a fim de desclassificá-la para falta disciplinar de natureza média ou leve:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. ART. 50, III, DA LEP. ATIPICIDADE NÃO VERIFICADA. IMPOSSIBILIDADE DE REEXAME DE PROVAS NO WRIT. PERDA DOS DIAS REMIDOS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do art. 50, III, da LEP, comete falta grave o condenado à pena privativa de liberdade que possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem. O preso não pode dispor livremente de objetos pontiagudos, cortantes, incendiários, explosivos etc., pois, mesmo que não seja o seu intento utilizá-los para lesionar terceiros, a mera existência dessas peças em ambiente de alta periculosidade expõe a risco de vida os seus frequentadores.
+2. O Tribunal de Justiça assinalou que com o apenado foi apreendida máquina artesanal de tatuagem, de natureza lesiva, consoante fotografias que instruíram o procedimento administrativo disciplinar. Incabível, em habeas corpus, declarar a atipicidade da conduta ou reexaminar provas a fim de desclassificá-la para falta média.
+3. Quanto à perda dos dias remidos, na petição inicial do habeas corpus ou no agravo regimental, não consta nenhuma razão para o pedido de sua redução ao mínimo legal e, ainda, a matéria não foi previamente analisada pelo Tribunal de origem, circunstâncias que impedem o conhecimento da pretensão.
+4. Agravo regimental não provido.
+(AgRg no HC 521.858/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2019, DJe de 29/10/2019).
+O exame da tese de não-configuração da falta grave não é possível na via estreita do habeas corpus, pois, para se desconstituir o decidido pelas instâncias ordinárias, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do habeas corpus, caracterizado pelo rito célere e por não admitir dila ção probatória (AgRg no HC 407.301/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/06/2018, dje 12/06/2018).
+Ante o exposto, indefiro a ordem .
+Publique-se e intimem-se.
+EMENTA
