@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por COMPANHIA EXCELSIOR DE SEGUROS, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 12/5/2023.
+Concluso ao Gabinete em: 18/9/2023.
+Ação: de indenização securitária, ajuizada por AMARILDO SANTANA DIAS em desfavor da agravante, em razão de vícios construtivos em imóvel vinculado ao Sistema Financeiro Habitacional.
+Sentença: reconheceu a ilegitimidade passiva da Caixa Econômica Federal e determinou a remessa dos autos à Justiça Estadual para o regular processamento da ação.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SFH. SEGURO HABITACIONAL. APÓLICE PRIVADA (RAMO 68). INTERESSE DA CEF. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. RECURSO IMPROVIDO.
+1. O Superior Tribunal de Justiça, no julgamento de Recurso Representativo de Controvérsia, consolidou o entendimento no sentido de que a CEF detém interesse jurídico para ingressar na lide somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre a edição da Lei nº 7.682/88 e da MP nº 478/90 - e se houver comprovação documental da vinculação do instrumento ao FCVS (apólice pública, ramo 66), ainda que celebrado o concerto no lapso temporal mencionado. (EDcl nos EDcl no REsp 1091363/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/10/2012, DJe 14/12/2012).
+2. No caso dos autos, não obstante a celebração do contrato de financiamento em 30/11/1997 (fls. 44/56), a CEF apresenta documento da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, informando que o contrato imobiliário está coberto por apólice privada (Ramo 68), cuja seguradora é a Companhia Excelsior de Seguros, razão que justifica o desinteresse da instituição financeira no feito. (fls. 589/594) Tal situação é possível, pois, com a edição da MP n. 1.671/98, normativo que possibilitou cobertura securitária distinta da apólice pública, tornou-se viável a migração para apólices privadas e vice-versa, por ocasião de sua renovação anual.
+3. Assim, não consta dos autos elementos que apontem a natureza pública da apólice (Ramo 66), ao contrário, há provas de sua natureza privada (Ramo 68), motivo pelo qual os autos devem ser remetidos à Justiça Estadual.
+4. Recurso de Apelação não provido.
+(e-STJ Fls. 888/889)
+Recurso especial: alega ofensa ao art. 1º da Lei n. 12.409/2011, alterada pela Lei n. 13.000/2014, deduzindo a legitimidade da Caixa Econômica Federal para atuar no feito e, bem assim, a competência da Justiça Federal para julgar o presente processo.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com fulcro na incidência das Súmulas 5 e 7 do STJ, considerando as peculiaridades e julgados citados e em vista, sobretudo, de que a hipótese dos autos envolve apólice privada do ramo 68.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, deixou de refutar os fundamentos adotados e de demonstrar o seu desacerto, cingindo-se a reprisar as razões de seu recurso especial sem evidenciar, portanto, a efetiva inaplicabilidade de sua incidência, notadamente quanto à caracterização da natureza da apólice privada nos autos e a decorrente aplicação das Súmulas 5 e 7/STJ, óbices inclusive corroborados por suas razões.
+Cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
