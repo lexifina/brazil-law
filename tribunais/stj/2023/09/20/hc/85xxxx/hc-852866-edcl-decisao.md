@@ -1,0 +1,19 @@
+DECISÃO
+MARCUS VINICIUS DE OLIVEIRA FIGUEIREDO opõe embargos declaratórios em face de decisão em que indeferi liminarmente o habeas corpus.
+A defesa sustenta haver omissão e obscuridade no decisum, ao manter a exasperação da pena-base determinada pelas instâncias ordinárias, ao argumento de que "o Tribunal de origem afastou o vetor negativo quanto a quantidade da droga, conforme consta no v. acórdão" (fl. 80).
+Pondera que, como "as peculiaridades da droga consideradas pela nobre juíza sentenciante foram afastadas pelo TJ/SP para reajustar a fração de 1/3 a 1/5  .. , não há fundamentação idônea para não manter a fração padrão fixada pela jurisprudência, vale dizer, 1/6" (fl. 81).
+Aduz que, no acórdão proferido pela Corte estadual, foram mencionadas substâncias entorpecentes - cocaína e crack - que não guardam relação com o caso em análise, uma vez que em poder do acusado foi encontrada somente maconha.
+Requer sejam acolhidos os embargos para reduzir a pena-base imposta ao réu.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Na hipótese, não identifico os vícios apontados.
+Com efeito, a simples leitura dos excertos transcritos na decisão embargada evidencia que o Juízo singular havia considerado desfavoráveis ao réu seus antecedentes, a quantidade e a natureza da droga. A Corte local, ao julgar o apelo defensivo, se limitou a afastar a análise negativa da última vetorial, mas manteve a exasperação da reprimenda com base nos antecedentes e na quantidade de droga apreendida (600 g de maconha).
+Transcrevo, por oportuno, os excertos da sentença e do acórdão que trataram da matéria (fls. 49 e 58-59, destaquei):
+Respeitado o sistema trifásico, verifico que o réu ostenta apontamentos que lhe geram reincidência, o que será oportunamente analisado.
+Considerando as circunstâncias judiciais, mormente a certidão de fls. 33, referente aos autos 0070792-48.2008, atribuo ao réu a condição de portador de maus antecedentes. Outrossim, em vista da natureza e da expressiva quantidade de drogas apreendidas, denotando maior potencial lesivo contra a Saúde Pública, ressalto que demanda maior rigor na dosagem das penas. Diante do exposto, fixo a pena-base em 1/3 acima do mínimo legal: 06 anos e 08 meses de reclusão e 666 dias-multa
+A pena-base de Marcus foi estabelecida um terço (1/3), acima do patamar mínimo, em razão dos maus antecedentes e, ainda, considerando a quantidade de droga apreendida. Contudo, o índice adotado mostrou-se um tanto quanto exagerado, sendo mais justo, portanto, o acréscimo de quinto (1/5), fração mais adequada ao caso, observando-se que não há que se falar em maior lesividade da droga, pois tal circunstância já integra o próprio tipo penal. Assim, a base fica reduzida para seis (06) anos de reclusão e seiscentos (600) dias-multa.
+Como visto, não foi afastada a análise desfavorável da quantidade de droga encontrada e, por conseguinte, está devidamente justificado o acréscimo de 1/5 na primeira fase da dosimetria.
+Ademais, a referência aos efeitos nocivos da cocaína e do crack não foi considerada na decisão embargada, visto que foi inserida no tópico atinente à fixação do regime inicial de cumprimento de pena. Destaco, por oportuno, que qualquer menção à nocividade da conduta perpetrada por quem comercializa substâncias entorpecentes é irrelevante, no caso, para justificar a fixação do regime inicial mais gravoso para o cumprimento de pena, diante dos maus antecedentes e da multirreincidência do acusado - elementos que, por si sós, ensejam a imposição do modo fechado.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
