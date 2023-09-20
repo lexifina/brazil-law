@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 101):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. INGRESSO FORÇADO EM RESIDÊNCIA. AUSÊNCIA DE FUNDADAS RAZÕES. NULIDADE DAS PROVAS OBTIDAS MEDIANTE VIOLAÇÃO DE GARANTIA CONSTITUCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A natureza permanente de delitos como os de posse de arma de fogo e tráfico ilícito de entorpecentes (na modalidade "ter em depósito) não torna, por si só, justa a entrada forçada em domicílio fora das hipóteses registradas no texto constitucional.
+2. Neste caso, considerando a nulidade da abordagem pessoal em via pública, não se pode afirmar que, antes do ingresso, os militares detinham elementos suficientes para justificar a decisão de ingressar no domicílio do agravado.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante ocorridas em contexto fático semelhante ao ocorrido na hipótese apresentada nestes autos, em que a entrada forçada em domicílio não foi precedida de prévia constatação, para além da dúvida razoável, da ocorrência de crime permanente no interior do imóvel.
+4. Agravo regimental não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, XI, da Constituição Federal.
+Nesse sentido, argumenta a justa causa para a abordagem pessoal ante a existência de fundadas suspeitas da prática do crime de tráfico de drogas que evidenciariam a necessidade de diligências imediatas, sob pena de frustração do flagrante.
+Sustenta a validade da busca e apreensão domiciliar realizada no caso concreto, uma vez que a incursão policial teria se pautado por embasadas razões, além da autorização do agente para o ingresso dos policiais em seu domicílio após ser flagrado, em via pública, na posse de entorpecentes.
+Assevera que a revisão da conclusão adotada pelas instâncias ordinárias acerca da existência de elementos suficientes para a realização das abordagens nem sequer poderia ter sido realizada por esta Corte de Justiça pela via estreita do habeas corpus, pois demandaria revisão fático-probatória dos autos.
+Defende, assim, a legalidade das provas obtidas tendo em vista a existência de justificados motivos para a abordagem pessoal e posterior ingresso em domicílio, devendo ser restabelecida a condenação do recorrido.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 132).
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da licitude das provas obtidas por meio da busca pessoal efetuada por policiais, estando o acórdão recorrido assim fundamentado (fls. 106-108):
+Ao que se tem dos autos, a busca domiciliar foi decorrência direta da já declarada nula busca pessoal. A confissão informal foi obtida durante a abordagem realizada na rua e não é possível extrair da leitura do trecho do acórdão que a permissão teria sido dada livremente.
+Portanto, o quadro fático delineado nos autos não permite extrair quais os motivos que levaram os policiais a decidirem entrar na casa do paciente. Embora existam elementos indiciários da prática do crime de tráfico de drogas, esses elementos, por demais frágeis para autorizar a medida invasiva, não foram suplementados com outras diligências investigativas, de modo a robustecer o conjunto de indícios a respeito da prática delitiva e dar amparo à decisão de ingressar na residência do paciente.
+Na situação apresentada, considerando a nulidade da abordagem pessoal em via pública, não se pode afirmar que, antes do ingresso, os militares detinham elementos suficientes para justificar a decisão de ingressar no domicílio da recorrente. Além do mais, a narrativa de que a entrada foi autorizada mostra-se fragilizada diante das circunstâncias concretas, que apontam para o fato de que o consentimento foi dado em situação claramente desfavorável, retirando da permissão o caráter livre e voluntário e, por conseguinte, tornando lícita a ação de busca domiciliar por entorpecentes.
+Em casos análogos, esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante, registrando expressamente que a denúncia anônima desacompanhada de medidas investigativas preliminares que indiquem a presença de fundadas razões para não configura justa causa para a violação de domicílio, à míngua de fundadas razões para a convicção de que esteja em curso algum delito:
+ ..
+Por conseguinte, configura-se a ilegalidade da entrada dos policiais no domicílio do agravado, sem mandado judicial, sem a prévia anuência de morador e sem nenhum indício de que ali estivesse sendo cometido crime permanente.
+Assim, devem ser reconhecidas como ilícitas as evidências recolhidas na busca e apreensão, e, por conseguinte, determinar o trancamento da ação penal, por ausência de justa causa para o seu prosseguimento.
+Desse modo, a análise da matéria ventilada depende do exame do art. 240 do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Cumpre registrar que o acórdão recorrido entendeu pela ilicitude da busca pessoal, e, por conseguinte, da busca domiciliar dela decorrente.
+Ademais, para afastar os pressuposto s fáticos adotados no julgamento do recurso, seria indispensável o reexame dos ele mentos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante assim já decidiu o STF:
+Agravo regimental em recurso extraordinário com agravo. Matéria criminal. Decisão mista. Capítulo no qual se aplica a sistemática da repercussão geral. Não cabimento de recurso dirigido ao Supremo Tribunal Federal. Questões remanescentes. Alegada nulidade de busca e apreensão. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Inadmissibilidade em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido.
+1. É incabível recurso dirigido ao Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral no juízo de origem.
+2. A orientação consolidada na Corte foi agasalhada no Código de Processo Civil de 2015, o qual prevê como instrumento processual adequado contra a aplicação do instituto da repercussão geral a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC).
+3. Embora cabível, em tese, o agravo previsto no art. 1.042 do CPC quanto às questões remanescentes, não se presta o recurso extraordinário para a análise da legislação infraconstitucional nem para o reexame de fatos e provas dos autos (Súmula nº 279/STF).
+4. Agravo regimental não provido.
+(ARE n. 1.407.411-AgR, relator Ministro Dias Toffoli, Primeira Turma, julgado em 13/12/2022, DJe 1º/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. BUSCA PESSOAL. INEXISTÊNCIA DE ILEGALIDADE. PRISÃO EM FLAGRANTE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS.
+1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes.
+2. Se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes.
+3. Nos termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção. Precedentes.
+4. Para concluir em sentido diverso das instâncias anteriores quanto às circunstâncias do flagrante, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes.
+5. Agravo regimental conhecido e não provido.
+(AgR no HC n. 212.682, relatora Ministra Rosa Weber, Primeira Turma, DJe de 18/4/2022.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. LEGALIDADE DA BUSCA PESSOAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
